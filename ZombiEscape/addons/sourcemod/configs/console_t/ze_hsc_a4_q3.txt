@@ -1,0 +1,212 @@
+"Console_T"
+{
+    "DOOR OPENS IN 35 SECONDS"
+    {
+        "DoorCountDown"        "35"
+        "chi"        "**门还有35秒开启**"
+    }
+    "DOOR WILL OPEN IN 25 SECONDS"
+    {
+        "DoorCountDown"        "25"
+    }
+    "THE DOOR WILL OPEN IN 30 SECONDS"
+    {
+        "DoorCountDown"        "30"
+    }
+    "THE DOOR WILL OPEN IN 20 SECONDS"
+    {
+        "DoorCountDown"        "20"
+    }
+    "A WAY WILL OPEN IN 15 SECONDS"
+    {
+        "DoorCountDown"        "15"
+    }
+    "A WAY WILL OPEN IN 25 SECONDS! KEEP RESISTING!"
+    {
+        "DoorCountDown"        "25"
+        "chi"        "**两边的路25秒后开启，保持防御**"
+    }
+    "ELEVATOR WILL RISE IN 30 SECONDS"
+    {
+        "DoorCountDown"        "30"
+    }
+    "THE NEXT DOORS WILL OPEN IN 15 SECONDS"
+    {
+        "DoorCountDown"        "15"
+    }
+    "ELEVATOR WILL RISE IN 15 SECONDS"
+    {
+        "DoorCountDown"        "15"
+    }
+    "THE DOORS WILL OPEN IN 30 SECONDS"
+    {
+        "DoorCountDown"        "30"
+    }
+    "MAP BY GEORGE"
+    {
+        "chi"        "**地图作者：GEORGE 汉化：yk父亲**"
+    }
+    "STAGE 1 - HYPER SPACE CUBE"
+    {
+        "chi"        "**第一阶段-超空间立方体**"
+    }
+    "THANKS TO LUFFAREN"
+    {
+        "chi"        "**特别感谢: LUFFAREN**"
+    }
+    "THIS MAP IS IN ALPHA. THERE ARE ONLY TWO STAGES BUILT CURRENTLY."
+    {
+        "chi"        "**这张地图目前只做了三关**"
+    }
+    "sync_version"
+    {
+        "syncvalue"        "94753"
+    }
+    "THIS MAP IS IN ALPHA. THERE ARE ONLY THREE STAGES BUILT CURRENTLY."
+    {
+        "chi"        "**这张地图目前有三关**"
+    }
+    "STAGE 2 - HARMONIOUS SPATIAL CREATIONS"
+    {
+        "chi"        "**第二阶段-和谐的空间创作**"
+    }
+    "A WAY WILL OPEN IN 40 SECONDS!"
+    {
+        "chi"        "**有条路将会在40s打开**"
+    }
+    "KEEP HOLDING! 15 MORE SECONDS!"
+    {
+        "chi"        "**守住！还有15s**"
+    }
+    "THE WAY WILL OPEN IN 20 SECONDS!"
+    {
+        "chi"        "**这条路将会在20秒后打开**"
+    }
+    "THE ELEVATOR WILL RISE IN 30 SECONDS"
+    {
+        "chi"        "**电梯将在30秒后上升**"
+    }
+    "THE DOORS WILL OPEN IN 25 SECONDS"
+    {
+        "chi"        "**门将会在25s后打开**"
+    }
+    "RESIST FOR 30 MORE SECONDS!"
+    {
+        "chi"        "** **"
+    }
+    "STAGE 3 - HEAVENLY SPACED CONTAINMENT"
+    {
+        "chi"        "** **"
+    }
+    "TELEPORT ACTIVATES IN 20 SECONDS"
+    {
+        "chi"        "** **"
+    }
+    "A WAY WILL OPEN IN 35 SECONDS"
+    {
+        "chi"        "** **"
+    }
+    "DOORS OPENING IN 30 SECONDS"
+    {
+        "chi"        "** **"
+    }
+    "DOORS OPENING IN 25 SECONDS"
+    {
+        "chi"        "** **"
+    }
+    "ELEVATOR RISES IN 15 SECONDS"
+    {
+        "chi"        "** **"
+    }
+    "50 SECONDS LEFT"
+    {
+        "chi"        "** **"
+    }
+    "40 SECONDS LEFT"
+    {
+        "chi"        "** **"
+    }
+    "30 SECONDS LEFT"
+    {
+        "chi"        "** **"
+    }
+    "20 SECONDS LEFT"
+    {
+        "chi"        "** **"
+    }
+    "10 SECONDS LEFT"
+    {
+        "chi"        "** **"
+    }
+    "FALL BACK - DOOR IS OPENING"
+    {
+        "chi"        "** **"
+    }
+    "DOOR OPENS IN 30 SECONDS"
+    {
+        "chi"        "** **"
+    }
+    "DOOR OPENS IN 15 SECONDS"
+    {
+        "chi"        "** **"
+    }
+    "KEEP RESISTING! THE NEXT DOOR OPENS IN 20 SECONDS"
+    {
+        "chi"        "** **"
+    }
+    "MapGlobal_ConVars"
+    {
+        "0"
+        {
+            "cvar"        "sm_cvar sm_he_limit 3"
+        }
+        "1"
+        {
+            "cvar"        "sm_cvar  sm_g_cv_money 8000"
+        }
+        "2"
+        {
+            "cvar"        "sm_cvar  sm_molotov_limit 2"
+        }
+        "3"
+        {
+            "cvar"        "sm_cvar  sm_decoy_limit 1"
+        }
+        "4"
+        {
+            "cvar"        "sm_Cvar sm_he_limit 5"
+        }
+    }
+    ">>LEVEL 1<<"
+    {
+        "chi"        "** **"
+    }
+    "**Stage 1**"
+    {
+        "chi"        "** **"
+    }
+    "**welcome to ze_fat_hours_escape**"
+    {
+        "chi"        "** **"
+    }
+    "**map by yinyuehzixi**"
+    {
+        "chi"        "** **"
+    }
+    "*** ze_Chrono_Trigger. ***"
+    {
+        "chi"        "** **"
+    }
+    "!!! ADMIN HAS SET LEVEL 3 !!!"
+    {
+        "chi"        "** **"
+    }
+    "---Feedback:noojeff@gmail.com---"
+    {
+        "chi"        "** **"
+    }
+    "---Special Thank To:HZM654321 and JackBauer123---"
+    {
+        "chi"        "** **"
+    }
+}

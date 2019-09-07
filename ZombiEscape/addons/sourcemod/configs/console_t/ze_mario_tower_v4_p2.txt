@@ -1,0 +1,133 @@
+"Console_T"
+{
+    "*** Angry sun and chainchomps hate AFKS"
+    {
+        "chi"        "** 处理AFKS挂机人员 **"
+    }
+    "*** Right Ladder Wall opens in 5 seconds***"
+    {
+        "chi"        "** 右侧墙梯 将于 5秒 后开启 **"
+    }
+    "*** Middle Wall opens in 10 seconds***"
+    {
+        "chi"        "** 中侧墙梯 将于 10秒 后开启 **"
+    }
+    "*** Left Ladder wall opens in 5 seconds***"
+    {
+        "chi"        "** 左侧墙梯 将于 5秒 后开启 **"
+    }
+    "***BlockWall Breaks in 30 seconds!***"
+    {
+        "chi"        "** 两侧门墙 将于 30秒 后开启 注意防守 **"
+        "DoorCountDown"        "30"
+    }
+    "***BlockWall is open***"
+    {
+        "chi"        "** 两侧门墙 已开启 请注意菊花 **"
+    }
+    "*** Thomp will open in 20 seconds!!***"
+    {
+        "chi"        "** Thomp墙 将于 20秒后 开启 请注意防守 **"
+        "DoorCountDown"        "20"
+    }
+    "*** Star Door opens in 20 seconds ***"
+    {
+        "chi"        "** 大门 将于 20秒后 开启 请注意防守 **"
+        "DoorCountDown"        "20"
+    }
+    "*** Star Door opens in 10 seconds ***"
+    {
+        "chi"        "** 大门 将于 20秒后 开启 请注意防守 **"
+    }
+    "*** Star Door open ***"
+    {
+        "chi"        "** 大门已开 请速撤 **"
+    }
+    "*** Angry Sun will scorch everything in his reach in 90 seconds!! ***"
+    {
+        "chi"        "** 90秒后 愤怒的比利太阳 将燃烧世界 **"
+    }
+    " *** Clouds will raise in 30 seconds ***"
+    {
+        "chi"        "** 云升起 还有 30秒 请注意防守 **"
+        "DoorCountDown"        "30"
+    }
+    "*** Clouds will raise in 10 seconds ***"
+    {
+        "chi"        "** 云升起 还有 10秒 请注意防守 **"
+    }
+    "*** Get to the top of the tower before it is too late!! ***"
+    {
+        "chi"        "** 你身法太差了 为时已晚 **"
+    }
+    "*** Scorch in 30 seconds!!***"
+    {
+        "chi"        "** FFF燃烧大地之术 施法时间还有 30秒 翻译：肉丸 **"
+        "DoorCountDown"        "30"
+    }
+    "*** Bowser and his minions are attacking!! ***"
+    {
+        "chi"        "**鲍瑟和他的小黄人正在进攻!!**"
+    }
+    "*** Clouds will raise in 30 seconds ***"
+    {
+        "chi"        "**云还有30秒升起**"
+        "DoorCountDown"        "30"
+    }
+    ">>>Respawn wall break in 20 sec<<<"
+    {
+        "chi"        ">>>重生墙在20秒内破裂<<<"
+    }
+    "*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+    {
+        "chi"        "**地图帮助：Airvulpes,Kune,thas,Rukly,Shufen**"
+    }
+    "*** Model :Dakotec ***"
+    {
+        "chi"        "**模型：Dakotec**"
+    }
+    "The server is about to close the update ,Please update your game"
+    {
+        "chi"        "**!admin**"
+    }
+    "***Map by RelaxingWalls***"
+    {
+        "chi"        "** **"
+    }
+    "***Map made for SteamGamers Mapping Competition***"
+    {
+        "chi"        "** **"
+    }
+    "***Welcome to Crazy Kart***"
+    {
+        "chi"        "** **"
+    }
+    "***Map by Luffaren***"
+    {
+        "chi"        "** **"
+    }
+    "***Thanks to Enviolinador for the green shell bouncevector logic***"
+    {
+        "chi"        "** **"
+    }
+    "**Stage 1**"
+    {
+        "chi"        "** **"
+    }
+    "**welcome to ze_fat_hours_escape**"
+    {
+        "chi"        "** **"
+    }
+    "**map by yinyuehzixi**"
+    {
+        "chi"        "** **"
+    }
+    "** ZE_SUPERSHITSHOW **"
+    {
+        "chi"        "** **"
+    }
+    "** A mode will be chosen shortly... **"
+    {
+        "chi"        "** **"
+    }
+}

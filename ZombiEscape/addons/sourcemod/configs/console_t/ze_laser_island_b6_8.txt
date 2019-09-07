@@ -1,0 +1,404 @@
+"Console_T"
+{
+    "** nan du : jian dan **"
+    {
+        "chi"        "**难度：简单 **"
+    }
+    "** map by : yin yue xiao yao **"
+    {
+        "chi"        "**地图制作：银月筱瑶 拼音岛终结者：月饼 **"
+    }
+    ">> nai bei na qi le<<"
+    {
+        "chi"        "**奶已被拿起 **"
+    }
+    "** jian chi 30 miao , hen kuai jiu kai men le **"
+    {
+        "chi"        "**坚持30秒.门很快就会打开 **"
+        "DoorCountdown"        "30"
+    }
+    "** jiang shi dao bei jian qi le **"
+    {
+        "chi"        "**僵尸刀被拿起 **"
+    }
+    "** men kai le , zou **"
+    {
+        "chi"        "** 门开了.走**"
+    }
+    ">> huo bei na qi le <<"
+    {
+        "chi"        "**火已被拿起 **"
+    }
+    "** hai you yi dao men ,15 miao hou zha kai ta **"
+    {
+        "chi"        "**还有一道门.15秒后炸开它 **"
+        "DoorCountdown"        "15"
+    }
+    "** qiang bei na qi le **"
+    {
+        "chi"        "**墙已被拿起 **"
+    }
+    "** kuai pao !! **"
+    {
+        "chi"        "**快跑！ **"
+    }
+    "** mei lu le! **"
+    {
+        "chi"        "**没路了！ **"
+    }
+    "** bing bei na qi le **"
+    {
+        "chi"        "**冰已被拿起 **"
+    }
+    "** deng deng , you tiao mi dao , wo men shi zhe da kai ta **"
+    {
+        "chi"        "**等等.有条密道.我们正试着打开它 **"
+    }
+    "** zou le ! **"
+    {
+        "chi"        "**走了！ **"
+    }
+    "** di xia shi yan shi ? **"
+    {
+        "chi"        "**地下实验室？ **"
+    }
+    "** 25 miao hou da kai shi yan shi da men **"
+    {
+        "chi"        "**25秒后打开实验室大门 **"
+        "DoorCountdown"        "25"
+    }
+    ">> feng bei na qi le <<"
+    {
+        "chi"        "**风已被拿起 **"
+    }
+    "** men kai le , kuai pao **"
+    {
+        "chi"        "**门开了.快跑 **"
+    }
+    "** zhe tie men 15 miao hou jiu hui kai **"
+    {
+        "chi"        "**这铁门15秒后就会开 **"
+        "DoorCountdown"        "15"
+    }
+    "** ok lets gogogogogo **"
+    {
+        "chi"        "**好了！快跑！ **"
+    }
+    "** dian ti ji huo le ,shou zhu 15 miao **"
+    {
+        "chi"        "**电梯已被激活.守住15秒 **"
+        "DoorCountdown"        "15"
+    }
+    "** wo men hui zai 60 miao hou zha diao zhe dui shi tou **"
+    {
+        "chi"        "**我们会在60秒后炸掉这堆石头 **"
+        "DoorCountdown"        "60"
+    }
+    "** jiang shi du bei na qi le **"
+    {
+        "chi"        "**僵尸毒已被拿起 **"
+    }
+    "** boom , kuai pao ! **"
+    {
+        "chi"        "**快跑！ **"
+    }
+    "** bu dui , you dong xi , duo bi ! **"
+    {
+        "chi"        "**不对.有东西.躲避！ **"
+    }
+    "** kuai shang fei ji! **"
+    {
+        "chi"        "**快上飞机！ **"
+    }
+    "** fei ji 30 miao hou li kai !!! **"
+    {
+        "chi"        "**飞机30秒后离开 **"
+        "DoorCountdown"        "30"
+    }
+    "** jiang shi jia su bei na qi le **"
+    {
+        "chi"        "**僵尸加速已被拿起 **"
+    }
+    "** jiang shi shen li bei jian qi le **"
+    {
+        "chi"        "**僵尸神力已被拿起 **"
+    }
+    "** zui hou 5 miao , fei ji yao zou le ! **"
+    {
+        "chi"        "**最后5秒.飞机要走了！ **"
+    }
+    "** ni wan cheng le di yi guan **"
+    {
+        "chi"        "**你完成了第一关 **"
+    }
+    "** nan du : pu tong **"
+    {
+        "chi"        "**难度：普通 **"
+    }
+    "** hai TM you yi dao men , zai shou yi hui **"
+    {
+        "chi"        "**还TM有一道门.再守一会 **"
+    }
+    "** zha diao le , zou ! **"
+    {
+        "chi"        "**炸掉了.走！ **"
+    }
+    "** you shui ! 30 miao hou kai fang shui lu **"
+    {
+        "chi"        "**有水！30秒后开放水路 **"
+        "DoorCountdown"        "30"
+    }
+    "** shui lu kai le , kuai pao **"
+    {
+        "chi"        "**水路开了.快跑 **"
+    }
+    "** dian ti jiang zai 60 miao hou li kai **"
+    {
+        "chi"        "**电梯将在60秒后离开 **"
+        "DoorCountdown"        "60"
+    }
+    "** zui hou 10 miao **"
+    {
+        "chi"        "**最后10秒 **"
+    }
+    "** dao yu 60 miao hou he bao ! **"
+    {
+        "chi"        "**岛屿60秒后核爆 **"
+        "DoorCountdown"        "60"
+    }
+    "** kuai pao dao chuan shang **"
+    {
+        "chi"        "**快跑到船上 **"
+    }
+    "** hai you 10 miao **"
+    {
+        "chi"        "**还有10秒 **"
+    }
+    "** ni tong guan le b6 ban ben **"
+    {
+        "chi"        "**你通关了B6版本 **"
+    }
+    "** jiang shi shang chuan le , GG **"
+    {
+        "chi"        "**僵尸上船了.本关失败 **"
+    }
+    "** re shen 40 miao **"
+    {
+        "chi"        "**热身赛还有40秒 **"
+    }
+    "** re shen 30 miao **"
+    {
+        "chi"        "**热身赛还有30秒 **"
+    }
+    "** re shen 20 miao **"
+    {
+        "chi"        "**热身赛还有20秒 **"
+    }
+    "** re shen 10 miao **"
+    {
+        "chi"        "**热身赛还有10秒 **"
+    }
+    "** re shen 50 miao **"
+    {
+        "chi"        "**热身赛还有50秒 **"
+    }
+    "** you yi kuai shi tou dang zhu le qu lu **"
+    {
+        "chi"        "**有一块石头挡住了去路 **"
+    }
+    "** xiang ban fa kai lu , kuai **"
+    {
+        "chi"        "**想办法开路.快 **"
+    }
+    "** zai jian chi 10 miao ! **"
+    {
+        "chi"        "**再坚持10秒 **"
+    }
+    "** kuai pao ! **"
+    {
+        "chi"        "**快跑 **"
+    }
+    "** dian ti jiang zai 45 miao hou li kai **"
+    {
+        "chi"        "**电梯将在45秒后离开 **"
+        "DoorCountdown"        "45"
+    }
+    "** ADMIN : kun nan nan du **"
+    {
+        "chi"        "**管理员:困难难度**"
+    }
+    "** nan du : kun nan **"
+    {
+        "chi"        "**难度：困难 **"
+    }
+    "** zhe ge fang xiang you ling yi tiao chu lu **"
+    {
+        "chi"        "**这个方向有一条出路 **"
+    }
+    "** kuai gen shang , bao hu hao chuan zhi **"
+    {
+        "chi"        "**快跟上.保护好船只 **"
+    }
+    "** hao da yi kuai shi tou **"
+    {
+        "chi"        "**好大一块石头 **"
+    }
+    "** zhun bei bao po , wo men shang shan ! **"
+    {
+        "chi"        "**准备爆破.我们上山！ **"
+    }
+    "** lu shang de zhang ai wu hen duo **"
+    {
+        "chi"        "**路上的障碍物很多 **"
+    }
+    "** kuai su qing li diao , qian mian jiu shi shan ding le  **"
+    {
+        "chi"        "**快速清理掉.前面就是山顶了 **"
+    }
+    "** tao li dao yu de da men jiu zai yan qian **"
+    {
+        "chi"        "**逃离岛屿的大门就在眼前 **"
+    }
+    "** jian chi zhu , wo men hen kuai jiu ke yi li kai le **"
+    {
+        "chi"        "**坚持住.我们很快就可以离开了 **"
+    }
+    "** chuan song dian jiang hui bei ti qian dao shan gu zhong bu **"
+    {
+        "chi"        "**传送点将会被移至山谷中部 **"
+    }
+    "** kuai wang xia tiao !!! **"
+    {
+        "chi"        "**快往下跳！！！ **"
+    }
+    "** pao xiang da hai ! **"
+    {
+        "chi"        "**跑向大海！ **"
+    }
+    "** ni tiao li le tiao dao dao ... **"
+    {
+        "chi"        "**你逃离了跳刀岛 **"
+    }
+    "** gan xie ni de shi wan **"
+    {
+        "chi"        "**感谢你的试玩 **"
+    }
+    "** mei you hou tui de lu le !!**"
+    {
+        "chi"        "**没有后退的路了！！ **"
+    }
+    "** di mian de ni tu hen song ruan , kuai zhao zhao you mei you mi dao **"
+    {
+        "chi"        "**地面的泥土很松软.快找找有没有密道 **"
+    }
+    "** ADMIN : KILL ALL**"
+    {
+        "chi"        "** **"
+    }
+    "** jiang shi deng shang le fei ji **"
+    {
+        "chi"        "**僵尸登上了飞机 **"
+    }
+    "** GG **"
+    {
+        "chi"        "**本关失败 **"
+    }
+    "** ni wan cheng le pu tong nan du **"
+    {
+        "chi"        "**你完成了普通难度 **"
+    }
+    "sync_version"
+    {
+        "syncvalue"        "95249"
+    }
+    "** wo men xu yao 30 miao de shi jian lai bu shu zha yao**"
+    {
+        "chi"        "**我们需要30秒的时间来部署炸药**"
+        "DoorCountdown"        "30"
+    }
+    "** fang zi de chu kou you ge mu men , zha diao ta  **"
+    {
+        "chi"        "**房子的出口有个木门，炸掉它**"
+    }
+    "** di xia de ru kou you xu duo shi tou **"
+    {
+        "chi"        "**底下的入口许多石头**"
+    }
+    "** ma shang qu qing li , wo men shi jian bu duo **"
+    {
+        "chi"        "**马上去清理，我们时间不多**"
+    }
+    "** qian mian si hu shi si lu **"
+    {
+        "chi"        "**前面似乎是死路**"
+    }
+    "** na jiu gan cui ba lu zha kai . bie you yu le**"
+    {
+        "chi"        "**那就干脆把路炸开，别犹豫啦**"
+    }
+    "** tie men dang zhu le lu , jie suo yan qian de da men **"
+    {
+        "chi"        "**铁门挡住了路，解锁眼前的大门**"
+    }
+    "** zhi jie zha diao le , zou ! **"
+    {
+        "chi"        "**直接炸掉了，走！**"
+    }
+    "** di mian shang you shui zi , ying gai you shui lu , xiang ban fa da kai**"
+    {
+        "chi"        "**地面上有水渍，应该有水路，想办法打开**"
+    }
+    "** shui lu yi jing bei da kai le , kuai pao **"
+    {
+        "chi"        "**水路已经被打开了，快跑**"
+    }
+    "** dian ti xu yao 45 miao de shi jian lai ji huo , jian chi zhu **"
+    {
+        "chi"        "**电梯需要45秒的时间来激活，坚持住**"
+        "DoorCountdown"        "45"
+    }
+    "** si ren dan yao ku yi bei na qi **"
+    {
+        "chi"        "**私人弹药库已被拿起**"
+    }
+    "The server is about to close the update ,Please update your game"
+    {
+        "chi"        "**服务器为了更新将要关闭，请更新你的游戏**"
+    }
+    "For POSSESSION, Respect to Sakura"
+    {
+        "chi"        "** **"
+    }
+    "Based-map by Xquality"
+    {
+        "chi"        "** **"
+    }
+    "***Map by Luffaren***"
+    {
+        "chi"        "** **"
+    }
+    "** ZE FFXII PARAMINA RIFT **"
+    {
+        "chi"        "** **"
+    }
+    "* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
+    {
+        "chi"        "** **"
+    }
+    "* * * Choose the first MINIGAME * * *"
+    {
+        "chi"        "** **"
+    }
+    "** [HARD MODE] **"
+    {
+        "chi"        "** **"
+    }
+    "**Stage 1**"
+    {
+        "chi"        "** **"
+    }
+    "*** CURRENT STAGE IS 1: Overworld ***"
+    {
+        "chi"        "** **"
+    }
+}

@@ -1,0 +1,656 @@
+"Console_T"
+{
+    "***Special thanks to: Leks***"
+    {
+        "chi"        "** **"
+    }
+    "***Level: The Maze***"
+    {
+        "chi"        "**关卡：迷宫**"
+    }
+    "***Welcome***"
+    {
+        "chi"        "**地图汉化：大明**"
+    }
+    "***Map made by Qahnaarin***"
+    {
+        "chi"        "** **"
+    }
+    "***Special thanks to: Luffaren***"
+    {
+        "chi"        "** **"
+    }
+    "***Door will open in 40s***"
+    {
+        "chi"        "**40秒后开门**"
+    }
+    "***Door will open in 20s***"
+    {
+        "chi"        "**20秒后开门**"
+    }
+    "***Door will open in 5s***"
+    {
+        "chi"        "**5秒后开门**"
+    }
+    "***The door will open in 20s***"
+    {
+        "chi"        "**20秒后开门**"
+    }
+    "***The door will open in 5s***"
+    {
+        "chi"        "**5秒后开门**"
+    }
+    "**Door is opening***"
+    {
+        "chi"        "**门开了**"
+    }
+    "***All pillars have been activated***"
+    {
+        "chi"        "**所有柱子被触发**"
+    }
+    "***Teleporter will activate in 40s***"
+    {
+        "chi"        "**40秒后触发传送**"
+    }
+    "***Teleporter will activate in 20s***"
+    {
+        "chi"        "**20秒后触发传送**"
+    }
+    "***Teleporter will activate in 5s***"
+    {
+        "chi"        "**5秒后触发传送**"
+    }
+    "***Teleporter activated***"
+    {
+        "chi"        "**传送!!!**"
+    }
+    "***Bridge ready in 30s***"
+    {
+        "chi"        "**30秒后桥打开**"
+    }
+    "***The bridge will lower down soon, keep defending***"
+    {
+        "chi"        "**桥要降下来了，保持射击**"
+    }
+    "***Bridge ready in 15s***"
+    {
+        "chi"        "**15秒后桥打开**"
+    }
+    "***FALL BACK***"
+    {
+        "chi"        "**溜了溜了**"
+    }
+    "***Button 2 is triggered***"
+    {
+        "chi"        "**按钮2被触发**"
+    }
+    "***Button 1 is triggered***"
+    {
+        "chi"        "**按钮1被触发**"
+    }
+    "***All buttons are pressed***"
+    {
+        "chi"        "**所有按钮已经触发**"
+    }
+    "***The door will open in 30s***"
+    {
+        "chi"        "**30秒后开门**"
+    }
+    "***The door will open in 15s***"
+    {
+        "chi"        "**15秒后开门**"
+    }
+    "***Door is opening***"
+    {
+        "chi"        "**门开了**"
+    }
+    "***WELCOME TO THE MAZE***"
+    {
+        "chi"        "**欢迎来到迷宫**"
+    }
+    "***Find the button to open the door***"
+    {
+        "chi"        "**寻找打开大门的按钮**"
+    }
+    "***You found the button***"
+    {
+        "chi"        "**你们找到了按钮**"
+    }
+    "***The door will open in 10s***"
+    {
+        "chi"        "**10秒后开门**"
+    }
+    "***Waiting for something to happen...***"
+    {
+        "chi"        "**耐心等待......**"
+    }
+    "***The secret door is opening***"
+    {
+        "chi"        "**秘道被打开了**"
+    }
+    "***A garden?**"
+    {
+        "chi"        "**一个花园???**"
+    }
+    "***Hmmm?***"
+    {
+        "chi"        "**真的假的???**"
+    }
+    "***Teleporter activate in 20s***"
+    {
+        "chi"        "**20秒后传送**"
+    }
+    "***Resist 20s***"
+    {
+        "chi"        "**坚守20秒**"
+    }
+    "***Door opened***"
+    {
+        "chi"        "**门开了**"
+    }
+    "***Resist 30s***"
+    {
+        "chi"        "**坚守30秒**"
+    }
+    "***Door is opened***"
+    {
+        "chi"        "**门开了**"
+    }
+    "***Defend the last platform for 45s***"
+    {
+        "chi"        "**在最后的平台坚守45秒**"
+    }
+    "***ZM on the last platform!!!***"
+    {
+        "chi"        "**最后的ZM!!!**"
+    }
+    "***YOU FAILED***"
+    {
+        "chi"        "**你们输了!!!**"
+    }
+    "***Other platforms break in 20s***"
+    {
+        "chi"        "**20秒后平台碎裂**"
+    }
+    "***Other platforms break in 5s***"
+    {
+        "chi"        "**5秒后平台碎裂**"
+    }
+    "***Path to the truth will open in 5s***"
+    {
+        "chi"        "**5秒后开启真正的道路**"
+    }
+    "***Only the chosen one can live***"
+    {
+        "chi"        "**只有天选之人才能活下来**"
+        "DoorCountdown"        "10"
+    }
+    "***You are too weak***"
+    {
+        "chi"        "**你们太弱了!!!**"
+        "DoorCountdown"        "8"
+    }
+    "***Lets do a test***"
+    {
+        "chi"        "**让我们试一试吧!!!!**"
+        "DoorCountdown"        "7"
+    }
+    "***Show me your strength***"
+    {
+        "chi"        "**让我看看你们到底几斤几两**"
+        "DoorCountdown"        "5"
+    }
+    "***Beware***"
+    {
+        "chi"        "**目视前方**"
+        "DoorCountdown"        "3"
+    }
+    "***Congratulation!!!!***"
+    {
+        "chi"        "**恭喜!!!**"
+    }
+    "***Level: The Maze completed***"
+    {
+        "chi"        "**关卡：迷宫 通关！**"
+    }
+    "***Level: The Underground activated***"
+    {
+        "chi"        "** **"
+    }
+    "***Level: The Underground***"
+    {
+        "chi"        "** **"
+    }
+    "***Keep holding***"
+    {
+        "chi"        "**坚持住!!!**"
+    }
+    "***The floor break, jump into the hole***"
+    {
+        "chi"        "**地板碎了,跳入洞口**"
+    }
+    "***The brige will open in 20s***"
+    {
+        "chi"        "**20秒后桥被打开**"
+    }
+    "***The bridge will open in 5s***"
+    {
+        "chi"        "**5秒后桥被打开**"
+    }
+    "***The door will open in 40s***"
+    {
+        "chi"        "**40秒后开门**"
+    }
+    "***Door will open in 25s***"
+    {
+        "chi"        "**25秒后开门**"
+    }
+    "***I see Doorhugger...***"
+    {
+        "chi"        "**我看见了贴门划刀的**"
+    }
+    "***Doorhugger please defend...***"
+    {
+        "chi"        "**贴门的请开枪**"
+    }
+    "***Or you will die...***"
+    {
+        "chi"        "**或则请立刻去世**"
+    }
+    "***I have to do this....***"
+    {
+        "chi"        "**我不能袖手旁观**"
+    }
+    "***Rest in Peace...***"
+    {
+        "chi"        "**安息吧**"
+    }
+    "***There is a hidden door!!!***"
+    {
+        "chi"        "**这里有一个秘道**"
+    }
+    "***Go to the hidden path!!!***"
+    {
+        "chi"        "**进入秘道!!!**"
+    }
+    "***The door is opened***"
+    {
+        "chi"        "**门开了**"
+    }
+    "***Resist 5s***"
+    {
+        "chi"        "**坚持5秒**"
+    }
+    "***The path is cleared***"
+    {
+        "chi"        "**通道开启**"
+    }
+    "***Shoot the wall to go outside! Hurry !!!***"
+    {
+        "chi"        "**快点打碎这个墙!!!**"
+    }
+    "***Shoot the wall to go inside***"
+    {
+        "chi"        "**打碎墙出去**"
+    }
+    "***Final escape door open in 10s***"
+    {
+        "chi"        "**10秒打开最后的安全出口**"
+    }
+    "***The platform is leaving in 25s***"
+    {
+        "chi"        "**25秒后平台起飞**"
+    }
+    "***The platform is leaving in 5s***"
+    {
+        "chi"        "**5秒后平台起飞**"
+    }
+    "***Congratulations!!!***"
+    {
+        "chi"        "**恭喜!!!**"
+    }
+    "***You won Level: The Underground***"
+    {
+        "chi"        "** **"
+    }
+    "***Level: The Necromanteion activated***"
+    {
+        "chi"        "** **"
+    }
+    "***Level: The Necromanteion***"
+    {
+        "chi"        "** **"
+    }
+    "***The door is locked. Find a way to unlock it***"
+    {
+        "chi"        "**门锁上了,寻找方法解锁**"
+    }
+    "***Door will open in 45s***"
+    {
+        "chi"        "**45秒后开门**"
+    }
+    "***Door will open in 10s***"
+    {
+        "chi"        "**10秒后开门**"
+    }
+    "***Elevator leaving in 15s***"
+    {
+        "chi"        "**15秒后电梯上升**"
+    }
+    "***Elevator leaving in 5s***"
+    {
+        "chi"        "**5秒后电梯上升**"
+    }
+    "***Teleporter will be activated in 20s***"
+    {
+        "chi"        "**20秒后触发传送**"
+    }
+    "***Teleporter will be activated in 10s***"
+    {
+        "chi"        "**10秒后触发传送**"
+    }
+    "***The bridge will be activated in 15s***"
+    {
+        "chi"        "**15秒后启动桥**"
+    }
+    "***The bridge will be activated in 5s***"
+    {
+        "chi"        "**5秒后启动桥**"
+    }
+    "***The bridge is activated***"
+    {
+        "chi"        "**桥开始启动**"
+    }
+    "***The portal will activate in 60***"
+    {
+        "chi"        "**60秒后入口打开**"
+    }
+    "***The portal will activate in 20s***"
+    {
+        "chi"        "**20秒后入口打开**"
+    }
+    "***The portal will activate in 5s***"
+    {
+        "chi"        "**5秒后入口打开**"
+    }
+    "***The portal is activated***"
+    {
+        "chi"        "**入口被开启**"
+    }
+    "***The door will open in 25s***"
+    {
+        "chi"        "**25秒后开门**"
+    }
+    "***JUMP DOWN***"
+    {
+        "chi"        "**往下跳!!!**"
+    }
+    "***The ceiling will break in 15s***"
+    {
+        "chi"        "**15秒后开门**"
+    }
+    "***The ceiling is broken***"
+    {
+        "chi"        "**门开了**"
+    }
+    "***Shoot the floor!!!***"
+    {
+        "chi"        "**打碎地板!!!!**"
+    }
+    "***The bridge is going up***"
+    {
+        "chi"        "**桥开始上升**"
+    }
+    "***The bridge is coming up***"
+    {
+        "chi"        "**桥来了**"
+    }
+    "***The elevators are leaving in 40s***"
+    {
+        "chi"        "**40秒后电梯上升**"
+    }
+    "***The elevators are leaving in 15s***"
+    {
+        "chi"        "**15秒后电梯一上升**"
+    }
+    "***The elevators are leaving in 5s***"
+    {
+        "chi"        "**5秒后电梯上升**"
+    }
+    "***The gates will break in 20s***"
+    {
+        "chi"        "**20秒后开门**"
+    }
+    "***The gates will break in 5s***"
+    {
+        "chi"        "**5秒后开门**"
+    }
+    "***The door will break in 15s***"
+    {
+        "chi"        "**15秒后开门**"
+    }
+    "***What is happening?***"
+    {
+        "chi"        "**耐心等待**"
+    }
+    "***Looks like something gonna happen...***"
+    {
+        "chi"        "** **"
+    }
+    "***Wait...what...***"
+    {
+        "chi"        "** **"
+    }
+    "***Ahhhhhhhhhhhhhh***"
+    {
+        "chi"        "** **"
+    }
+    "***WELCOME MORTALS***"
+    {
+        "chi"        "** **"
+    }
+    "***FACE THE JUDGEMENT***"
+    {
+        "chi"        "** **"
+    }
+    "***YOU HAVE 2 MINS TO DEFEAT ME***"
+    {
+        "chi"        "**2分钟倒计时**"
+    }
+    "***SUPERNOVA***"
+    {
+        "chi"        "**超新星**"
+        "DoorCountdown"        "2"
+    }
+    "***SERVANTS***"
+    {
+        "chi"        "**尸笼**"
+        "DoorCountdown"        "2"
+    }
+    "***SABER***"
+    {
+        "chi"        "**利刃**"
+        "DoorCountdown"        "2"
+    }
+    "***BLACK HOLE***"
+    {
+        "chi"        "**黑洞**"
+        "DoorCountdown"        "2"
+    }
+    "***DEATH LIGHT***"
+    {
+        "chi"        "**死亡光线**"
+        "DoorCountdown"        "2"
+    }
+    "***You take too much of time!!!***"
+    {
+        "chi"        "**超时了**"
+    }
+    "***You failed!!!***"
+    {
+        "chi"        "**你们输了**"
+    }
+    "***You defeated me....***"
+    {
+        "chi"        "**你防守住了我**"
+    }
+    "***But Im not dead yet.....***"
+    {
+        "chi"        "**但是我没有死**"
+    }
+    "***I know I will see you in the future......***"
+    {
+        "chi"        "**我们在不久的将来会面的**"
+    }
+    "***LEAVE NOW***"
+    {
+        "chi"        "**溜了溜了**"
+    }
+    "***Hold them for 2 minutess***"
+    {
+        "chi"        "**坚守2分钟**"
+    }
+    "***ZOMBIE REACHED THE FINAL ESCAPE ROOM***"
+    {
+        "chi"        "**僵尸进入最后的逃生房**"
+    }
+    "**1 minute left, keep holding***"
+    {
+        "chi"        "**倒计时1分钟**"
+    }
+    "***Admin button is pressed !!!***"
+    {
+        "chi"        "**admin按钮被按下**"
+    }
+    "***30s left***"
+    {
+        "chi"        "**倒计时30秒**"
+    }
+    "sync_version"
+    {
+        "syncvalue"        "72694"
+    }
+    "***Hold them for 1 minute***"
+    {
+        "chi"        "**坚守1分钟**"
+    }
+    "***15s left***"
+    {
+        "chi"        "**倒计时15秒**"
+    }
+    "***5s LEFT***"
+    {
+        "chi"        "**倒计时5秒**"
+    }
+    "MapGlobal_ConVars"
+    {
+        "0"
+        {
+            "cvar"        "sm_nofalldamage 1"
+        }
+        "1"
+        {
+            "cvar"        "sm_g_cv_money 10000"
+        }
+        "2"
+        {
+            "cvar"        "sm_cvar sm_he_limit 5"
+        }
+        "3"
+        {
+            "cvar"        "sm_cvar   sm_molotov_limit 2"
+        }
+        "4"
+        {
+            "cvar"        "sm_cvar sm_nofalldamage 1"
+        }
+    }
+    "***The portal will activate in 70***"
+    {
+        "chi"        "**入口70秒后激活**"
+    }
+    "***Special thanks to: Jllaneras***"
+    {
+        "chi"        "** **"
+    }
+    "***Special thanks to: Moltard***"
+    {
+        "chi"        "** **"
+    }
+    "***Special thanks to: Onahole***"
+    {
+        "chi"        "** **"
+    }
+    "***Map by Qahnaarin***"
+    {
+        "chi"        "** **"
+    }
+    "***Zombie teleport in 20s***"
+    {
+        "chi"        "**僵尸20秒后传送**"
+    }
+    "***AFK TELEPORT IN 10s***"
+    {
+        "chi"        "**挂机玩家10秒后传送**"
+    }
+    "***What is this?***"
+    {
+        "chi"        "** **"
+    }
+    "***Zombie Teleport in 10s***"
+    {
+        "chi"        "**僵尸10秒后传送**"
+    }
+    "***The floor will break in 20s***"
+    {
+        "chi"        "**地板20秒后碎开**"
+    }
+    "***Jump into the hole***"
+    {
+        "chi"        "**跳进洞里**"
+    }
+    "***Lasers!!!***"
+    {
+        "chi"        "**跳刀**"
+    }
+    "***Lasers!!!**"
+    {
+        "chi"        "** **"
+    }
+    "***The portal will activate in 70s***"
+    {
+        "chi"        "** **"
+    }
+    "Special Thanks: Airvulpes"
+    {
+        "chi"        "** **"
+    }
+    "Test Server: Possession"
+    {
+        "chi"        "** **"
+    }
+    "***Let's do a test***"
+    {
+        "chi"        "** **"
+    }
+    "***STAGE 1 -- THE SHIP***"
+    {
+        "chi"        "** **"
+    }
+    "***Zombies aboard***"
+    {
+        "chi"        "** **"
+    }
+    "***Modified by Reflelia***"
+    {
+        "chi"        "** **"
+    }
+    "***60 SECONDS LEFT***"
+    {
+        "chi"        "** **"
+    }
+    "***WARM UP ROUIND***"
+    {
+        "chi"        "** **"
+    }
+}

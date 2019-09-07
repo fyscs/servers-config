@@ -1,0 +1,321 @@
+"Console_T"
+{
+    "** There seems to be a nasty bug infestation! **"
+    {
+        "chi"        "**这个地方害虫横行!**"
+    }
+    "** Luckily bugs tend to dislike bright lights! **"
+    {
+        "chi"        "**幸运的是这些害虫讨厌亮光**"
+    }
+    "** WE CAN'T SEEM TO PROGRESS AHEAD... **"
+    {
+        "chi"        "**我们似乎困在这里了**"
+        "DoorCountDown"        "30"
+    }
+    "** HOLD UNTIL WE FIGURE SOMETHING OUT! **"
+    {
+        "chi"        "**守住这里直到什么东西进来**"
+    }
+    "** THE WINDOW! GET ON IT! **"
+    {
+        "chi"        "**窗户破了!快走!**"
+    }
+    "** We need to make the door move! **"
+    {
+        "chi"        "**我们需要开启笼子上面的门**"
+    }
+    "** It looks as if it would probably open if we get the wheel moving... **"
+    {
+        "chi"        "**看来进入仓鼠跑轮可以获得动能开启大门（对着跑轮按W或者背对着按S）**"
+    }
+    "** GET GOING! WE HAVE ENOUGH KINETIC ENERGY! **"
+    {
+        "chi"        "**快走！我们已经获取足够多的动能！**"
+    }
+    "** THE TOP DOOR IS OPENING 5 SECONDS! **"
+    {
+        "chi"        "**门将在5秒后开启！**"
+        "DoorCountDown"        "5"
+    }
+    "** Something spooky seems to be going on that table! **"
+    {
+        "chi"        "**有什么阴森的东西到桌子上面去了！**"
+    }
+    "** We need to reach the top! **"
+    {
+        "chi"        "**我们需要爬上桌子（左右两边凳子可以爬上去）**"
+    }
+    "** The seance is beginning and the spirits are calling... **"
+    {
+        "chi"        "**降神会开始了，开始呼唤鬼神**"
+        "DoorCountDown"        "60"
+    }
+    "** The spirits marked the 'H' leter... **"
+    {
+        "chi"        "** **"
+    }
+    "** 'A'... **"
+    {
+        "chi"        "** **"
+    }
+    "** 'L'... **"
+    {
+        "chi"        "** **"
+    }
+    "** 'L' again... **"
+    {
+        "chi"        "** **"
+    }
+    "** 'O'... **"
+    {
+        "chi"        "** **"
+    }
+    "** 'W'... **"
+    {
+        "chi"        "** **"
+    }
+    "** 'E'... **"
+    {
+        "chi"        "** **"
+    }
+    "** 'E' yet again... **"
+    {
+        "chi"        "** **"
+    }
+    "** 'N'... **"
+    {
+        "chi"        "** **"
+    }
+    "** It spelled 'HALLOWEEN'! **"
+    {
+        "chi"        "** **"
+    }
+    "** Who would have guessed? **"
+    {
+        "chi"        "** **"
+    }
+    "** Something is happening! **"
+    {
+        "chi"        "**发生什么事情!**"
+    }
+    "** Get on the lamp! Quick! The spell might not last long! **"
+    {
+        "chi"        "**快跳到灯泡上!这个法术不会维持太久!**"
+    }
+    "** There is some screaking sound in the distance - maybe something is lurking in the darkness! **"
+    {
+        "chi"        "**远处有一些尖叫声-或许有什么东西躲在黑暗中**"
+    }
+    "** Try to get that old toy going! We must get out of here! **"
+    {
+        "chi"        "**尝试让玩具火车启动!我们必须离开这里!（对着开关按7次才可以启动）**"
+    }
+    "** MS. WHISKERS HAS WHISKED US! IT'S ALL OVER! **"
+    {
+        "chi"        "**老鼠追上了我们!全TM完了!**"
+    }
+    "** OOOAAAAAAAAAAAAH! The darn thing almost squashed us! **"
+    {
+        "chi"        "**OOOAAAAAAAAAAAAH!该死的老鼠死了!**"
+    }
+    "** Being up here the reasonable way to solve the situation would be to go for a swim... If you know what I mean! **"
+    {
+        "chi"        "**从箱子游上去**"
+    }
+    "** We're getting close! If we can get into the pumpkin besides the oven we will be safe! **"
+    {
+        "chi"        "**如果我们能把南瓜炸掉我们就安全了**"
+    }
+    "** We should inspect that giant pumpkin sitting on the stool! **"
+    {
+        "chi"        "**我们要检查下大南瓜**"
+    }
+    "** THAT'S IT! WE'RE GONNA BLOW IT UP! **"
+    {
+        "chi"        "**就是他!我们要把他炸掉**"
+    }
+    "** HOLD AND STAY AFFAR UNTIL THE C4 CHARGE GOES OFF! **"
+    {
+        "chi"        "**守住这里直到C4爆炸**"
+        "DoorCountDown"        "22"
+    }
+    "** MOVE! THE DARN THING IS OUT OF THE WAY! **"
+    {
+        "chi"        "**撤退!出口在这边!**"
+    }
+    "** We can't get past here with that stove turned on! **"
+    {
+        "chi"        "**我们暂时不能从炉子走过去**"
+    }
+    "** What can we do? **"
+    {
+        "chi"        "**我们可以做什么？**"
+    }
+    "** The gas counter! If we mess it up the gas might stop flowing - perhaps? **"
+    {
+        "chi"        "**打计数器!如果我们能破坏他或许火焰就可以停止了（射击4个红点中间的位置）**"
+    }
+    "** WELL DONE! THE GAS SHOULD STOP RUNNING ANY TIME SOON! **"
+    {
+        "chi"        "**干的漂亮!煤气停止供应了!我们快可以过去了**"
+        "DoorCountDown"        "12"
+    }
+    "** The metal is still hot - KEEP RESISTING! **"
+    {
+        "chi"        "**炉子还是很热-还不能过去**"
+    }
+    "** NOW! GET MOVING! **"
+    {
+        "chi"        "**就是现在!**"
+    }
+    "** This seems to be a dead end! HOLD UNTIL SOMETHING HAPPENS! **"
+    {
+        "chi"        "**似乎这边是条死路，坚守等待什么事情发生**"
+    }
+    "** Nothing yet... KEEP IT UP! **"
+    {
+        "chi"        "**继续防守!**"
+    }
+    "** We need to resist... Something must open! **"
+    {
+        "chi"        "**继续防守!某些东西一定会打开的!**"
+    }
+    "** Will we be here forever? Have the mapmakers left us at our stake?! That can't be! **"
+    {
+        "chi"        "**我们被永远困在这了吗?!地图作者把我们弃留在这了吗?!这不可能!**"
+    }
+    "** It looks like this Halloween will be the end... of it all... **"
+    {
+        "chi"        "**看来万圣节终点就是这样了...**"
+    }
+    "** Hey look! It's Billy the friendly ghost! **"
+    {
+        "chi"        "**快看!这是友善的幽灵比利**"
+    }
+    "** The tell tale is told to tell that Billy turns spooky things stale! Zombies will become vulnerable! **"
+    {
+        "chi"        "** **"
+    }
+    "** And thus Billy the friendly ghost removed all spooky things from the world **"
+    {
+        "chi"        "** **"
+    }
+    "** and conveniently led our diminute human friends to the end of their little story! **"
+    {
+        "chi"        "** **"
+    }
+    "** THE END **"
+    {
+        "chi"        "** **"
+    }
+    "** MS. WHISKERS HAS WHISKED US! ITS ALL OVER! **"
+    {
+        "chi"        "**老鼠追上了我们!全TM完了!**"
+    }
+    "** WE CANT SEEM TO PROGRESS AHEAD... **"
+    {
+        "chi"        "**我们似乎困在这里了**"
+        "DoorCountDown"        "30"
+    }
+    "** The spirits marked the H leter... **"
+    {
+        "chi"        "** **"
+    }
+    "** A... **"
+    {
+        "chi"        "** **"
+    }
+    "** L... **"
+    {
+        "chi"        "** **"
+    }
+    "** L again... **"
+    {
+        "chi"        "** **"
+    }
+    "** O... **"
+    {
+        "chi"        "** **"
+    }
+    "** W... **"
+    {
+        "chi"        "** **"
+    }
+    "** E... **"
+    {
+        "chi"        "** **"
+    }
+    "** E yet again... **"
+    {
+        "chi"        "** **"
+    }
+    "** N... **"
+    {
+        "chi"        "** **"
+    }
+    "** It spelled HALLOWEEN! **"
+    {
+        "chi"        "** **"
+    }
+    "** Were getting close! If we can get into the pumpkin besides the oven we will be safe! **"
+    {
+        "chi"        "**如果我们能把南瓜炸掉我们就安全了**"
+    }
+    "** THATS IT! WERE GONNA BLOW IT UP! **"
+    {
+        "chi"        "**就是他!我们要把他炸掉**"
+    }
+    "** We cant get past here with that stove turned on! **"
+    {
+        "chi"        "**我们暂时不能从炉子走过去**"
+    }
+    "** Will we be here forever? Have the mapmakers left us at our stake?! That cant be! **"
+    {
+        "chi"        "**我们被永远困在这了吗?!地图作者把我们弃留在这了吗?!这不可能!**"
+    }
+    "** Hey look! Its Billy the friendly ghost! **"
+    {
+        "chi"        "**快看!这是友善的幽灵比利**"
+    }
+    "**level 1**"
+    {
+        "chi"        "** **"
+    }
+    "**Map By Batnik_Reference.smd and ShotT **"
+    {
+        "chi"        "** **"
+    }
+    "**Stage 1**"
+    {
+        "chi"        "** **"
+    }
+    "**welcome to ze_fat_hours_escape**"
+    {
+        "chi"        "** **"
+    }
+    "**map by yinyuehzixi**"
+    {
+        "chi"        "** **"
+    }
+    "* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
+    {
+        "chi"        "** **"
+    }
+    "* * * Choose the first MINIGAME * * *"
+    {
+        "chi"        "** **"
+    }
+    "**map by koyomaple**"
+    {
+        "chi"        "** **"
+    }
+    ">> IDEA: Sienestaja <<"
+    {
+        "chi"        "** **"
+    }
+    "<<< 第一章_起点 >>>"
+    {
+        "chi"        "** **"
+    }
+}

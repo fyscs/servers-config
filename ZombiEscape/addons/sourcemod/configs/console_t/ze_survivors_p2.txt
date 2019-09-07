@@ -1,0 +1,246 @@
+"Console_T"
+{
+    "<!!!> MAP BY JB_GAMBLE <!!!>"
+    {
+        "chi"        "**地图制作：JB_GAMBLE 地图翻译：蓬莱山帅比♪ **"
+    }
+    "<!!!> COLD MOUNTAIN <!!!>"
+    {
+        "chi"        "**雪山 **"
+    }
+    "<!!!> THE COLD HURTS <!!!>"
+    {
+        "chi"        "**冻伤 **"
+    }
+    "<!!!> WARMTH HEALS <!!!>"
+    {
+        "chi"        "**篝火处可以治愈你们 **"
+    }
+    "<!!!> CALL HELICOPTER <!!!>"
+    {
+        "chi"        "**呼叫直升机 **"
+    }
+    "<!!!> USE THE RADIO <!!!>"
+    {
+        "chi"        "**使用无线电 **"
+    }
+    "<!!!> IN THE OPEN CONTAINER <!!!>"
+    {
+        "chi"        "**在打开的集装箱里 **"
+    }
+    "<!!!> WAIT FOR HELICOPTER <!!!>"
+    {
+        "chi"        "**等待直升机 **"
+    }
+    "<!!!> FALL BACK TO HELICOPTER <!!!>"
+    {
+        "chi"        "**去直升机里面 **"
+    }
+    "<!!!> HELICOPTER LEAVING <!!!>"
+    {
+        "chi"        "**直升机离开了 **"
+    }
+    "<!!!> HUMANS WIN <!!!>"
+    {
+        "chi"        "**人类胜利 **"
+    }
+    "<!!!> CITY STREETS <!!!>"
+    {
+        "chi"        "**城市街道 **"
+    }
+    "<!!!> PART 1 <!!!>"
+    {
+        "chi"        "**第一部分 **"
+    }
+    "<!!!> HOLD HERE! <!!!>"
+    {
+        "chi"        "**守住这里 **"
+    }
+    "<!!!> 5 SECONDS! <!!!>"
+    {
+        "chi"        "** **"
+    }
+    "<!!!> FALL BACK | GO! GO! <!!!>"
+    {
+        "chi"        "**撤退，快走 **"
+    }
+    "<!!!> ZOMBIES DETECTED | YOU FAILED <!!!>"
+    {
+        "chi"        "**检测到僵尸.你失败了 **"
+    }
+    "<!!!> HOLD HERE <!!!>"
+    {
+        "chi"        "**守住这里 **"
+    }
+    "<!!!> FINAL HOLD <!!!>"
+    {
+        "chi"        "**守住最后一个地方 **"
+    }
+    "<!!!> GET ON LIFT <!!!>"
+    {
+        "chi"        "**上电梯 **"
+    }
+    "<!!!> CITY BUILDING <!!!>"
+    {
+        "chi"        "**城市建筑物 **"
+    }
+    "<!!!> EASY MODE <!!!>"
+    {
+        "chi"        "**简单模式 **"
+    }
+    "<!!!> 5 SECONDS <!!!>"
+    {
+        "chi"        "** **"
+    }
+    "<!!!> FALL BACK <!!!>"
+    {
+        "chi"        "**撤退 **"
+    }
+    "<!!!> POWER OFF <!!!>"
+    {
+        "chi"        "**关闭电源 **"
+    }
+    "<!!!> DOOR OPENING <!!!>"
+    {
+        "chi"        "**门开了 **"
+    }
+    "<!!!> FAN 1 SHUTDOWN - 30 SECONDS <!!!>"
+    {
+        "chi"        "**风扇1-30秒后关闭 **"
+        "DoorCountDown"        "30"
+    }
+    "<!!!> FAN 1 HAS SHUTDOWN <!!!>"
+    {
+        "chi"        "**风扇1已关闭 **"
+    }
+    "<!!!> FALL BACK  <!!!>"
+    {
+        "chi"        "**撤退 **"
+    }
+    "<!!!> FAN 2 SHUTDOWN - 10 SECONDS <!!!>"
+    {
+        "chi"        "**风扇2-10秒后关闭 **"
+    }
+    "<!!!> FAN 2 HAS SHUTDOWN <!!!>"
+    {
+        "chi"        "**风扇2已关闭 **"
+    }
+    "<!!!> JUMP DOWN <!!!>"
+    {
+        "chi"        "**跳下去 **"
+    }
+    "<!!!> MEDIUM DAMAGE ROUND <!!!>"
+    {
+        "chi"        "**普通模式 **"
+    }
+    "<!!!> ZOMBIES DETECTED <!!!>"
+    {
+        "chi"        "**检测到僵尸 **"
+    }
+    "<!!!> YOU FAIL <!!!>"
+    {
+        "chi"        "**你失败了 **"
+    }
+    "<!!!> PART 2 <!!!>"
+    {
+        "chi"        "**第二部分 **"
+    }
+    "<!!!> STRAIGHT AHEAD! TO TRAIN TRACKS! <!!!>"
+    {
+        "chi"        "**直走！ 火车轨道！ **"
+    }
+    "<!!!> KEEP DEFENDING !! <!!!>"
+    {
+        "chi"        "**守住这里 **"
+    }
+    "<!!!> 1ST DOOR CLOSING <!!!>"
+    {
+        "chi"        "**1号门关闭 **"
+    }
+    "<!!!> 2ND DOOR CLOSING <!!!>"
+    {
+        "chi"        "**2号门关闭 **"
+    }
+    "<!!!> HUMAMS WIN <!!!>"
+    {
+        "chi"        "**人类胜利 **"
+    }
+    "<!!!> CITY STREETS COMPLETE <!!!>"
+    {
+        "chi"        "**城市街道完成 **"
+    }
+    "<!!!> NORMAL MODE <!!!>"
+    {
+        "chi"        "**普通模式 **"
+    }
+    "<!!!> FAN 2 SHUTDOWN - 20 SECONDS <!!!>"
+    {
+        "chi"        "**风扇2-20秒后关闭 **"
+        "DoorCountDown"        "20"
+    }
+    "<!!!> HIGH DAMAGE ROUND <!!!>"
+    {
+        "chi"        "**本关冻伤具有高伤害 **"
+    }
+    "<!!!> HARD MODE <!!!>"
+    {
+        "chi"        "**困难模式 **"
+    }
+    "<!!!> DOOR OPEN <!!!>"
+    {
+        "chi"        "**门开了！ **"
+    }
+    "<!!!> FAN 2 SHUTDOWN - 30 SECONDS <!!!>"
+    {
+        "chi"        "**风扇2-30秒后关闭 **"
+        "DoorCountDown"        "30"
+    }
+    "<!!!> CITY BUILDING COMPLETE <!!!>"
+    {
+        "chi"        "**城市建筑完成 **"
+    }
+    "<!!!> IMPOSSIBLE DAMAGE ROUND <!!!>"
+    {
+        "chi"        "**不可能过的一关 **"
+    }
+    "<!!!> HIGH DAMAGE - LOW HEAL <!!!>"
+    {
+        "chi"        "**高伤害-低治疗 **"
+    }
+    "<!!!> MAP COMPLETE <!!!>"
+    {
+        "chi"        "**地图通关 **"
+    }
+    "<!!!> LOW DAMAGE ROUND <!!!>"
+    {
+        "chi"        "**低伤害的一关 **"
+    }
+    "<!!!> ZOMBIES DETECTED | YOU FAIL <!!!>"
+    {
+        "chi"        "** **"
+    }
+    "### Welcome to Abandoned Bio Bunker  ###"
+    {
+        "chi"        "** **"
+    }
+    "<<< Level 1 >>>"
+    {
+        "chi"        "** **"
+    }
+    "<== Map made by qazlll456 [Hong Kong香港]==>"
+    {
+        "chi"        "** **"
+    }
+    "<== Also Thank [Syoudous] for helping testing the map ==>"
+    {
+        "chi"        "** **"
+    }
+    ">> 9 MINUTES TO ESCAPE <<"
+    {
+        "chi"        "** **"
+    }
+    ">>LEVEL 1<<"
+    {
+        "chi"        "** **"
+    }
+}

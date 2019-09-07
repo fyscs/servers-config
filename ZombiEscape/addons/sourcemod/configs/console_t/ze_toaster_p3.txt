@@ -1,0 +1,284 @@
+"Console_T"
+{
+    "***LEVER GOING UP IN 5 SECONDS***"
+    {
+        "chi"        "**平台5秒内上升 **"
+    }
+    "***MAP BY - LUFFAREN***"
+    {
+        "chi"        "**地图作者：LUFFAREN  地图汉化：大明**"
+    }
+    "***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
+    {
+        "chi"        "**不要尝试跳近路-它会把你传送回去的 **"
+        "ico"        "icon_fire"
+    }
+    "***FOLLOW THE ARROWS TO AVOID DEAD ENDS***"
+    {
+        "chi"        "**跟着箭头走，别进死胡同了**"
+        "ico"        "icon_fire"
+    }
+    "***DOOR OPENING IN 10 SECONDS***"
+    {
+        "chi"        "**大门在10秒内打开 **"
+    }
+    "***DOOR IS OPEN - FALL BACK***"
+    {
+        "chi"        "**大门已打开，快走 **"
+    }
+    "***THE PEANUT BUTTER HAS BEEN PICKED UP***"
+    {
+        "chi"        "**花生酱已被捡起(范围内减速) **"
+    }
+    "***INCOMING TOAST - BOTH CHAMBERS***"
+    {
+        "chi"        "**插入烤面包-两个房间  **"
+    }
+    "***A TOASTER HAS BEEN PICKED UP***"
+    {
+        "chi"        "**烤面包已被捡起(击中定身) **"
+    }
+    "***DOOR OPENING IN 5 SECONDS***"
+    {
+        "chi"        "**大门5秒内开启 **"
+    }
+    "***DOOR IS OPEN***"
+    {
+        "chi"        "**大门已打开 **"
+    }
+    "***LOCATE AND PRESS ALL FIVE BUTTONS***"
+    {
+        "chi"        "**按下5个按钮 **"
+    }
+    "***BUTTON PRESSED***"
+    {
+        "chi"        "**按钮已按下 **"
+    }
+    "***INITIATE THE TOASTER***"
+    {
+        "chi"        "**启动烤箱 **"
+    }
+    "***A JALAPENO HAS BEEN PICKED UP***"
+    {
+        "chi"        "**牛角已被捡起(小喷火器) **"
+    }
+    "***INCOMING TOAST - RIGHT CHAMBER***"
+    {
+        "chi"        "**插入烤面包-右边 **"
+    }
+    "***ELEVATOR IS LEAVING IN 10 SECONDS***"
+    {
+        "chi"        "**电梯10秒后离开 **"
+    }
+    "***ELEVATOR IS LEAVING IN 5 SECONDS***"
+    {
+        "chi"        "**电梯5秒后离开 **"
+    }
+    "***ELEVATOR IS LEAVING IN 4 SECONDS***"
+    {
+        "chi"        "**电梯4秒后离开 **"
+    }
+    "***ELEVATOR IS LEAVING IN 3 SECONDS***"
+    {
+        "chi"        "**电梯3秒后离开 **"
+    }
+    "***ELEVATOR IS LEAVING IN 2 SECONDS***"
+    {
+        "chi"        "**电梯2秒后离开 **"
+    }
+    "***LAGEVATOR IS LEAVING IN 1 SECOND***"
+    {
+        "chi"        "**电梯1秒后离开 **"
+    }
+    "***ELEVATOR IS LEAVING***"
+    {
+        "chi"        "**电梯已离开 **"
+    }
+    "***Door opening in 20 seconds***"
+    {
+        "chi"        "**大门在20内打开**"
+        "DoorCountDown"        "20"
+    }
+    "***A METAL ASS HAS BEEN PICKED UP***"
+    {
+        "chi"        "**金属屁屁已被捡起(小推力枪) **"
+    }
+    "***THE TOASTER IS GOING TO TOAST TOAST IN 3 MINUTES***"
+    {
+        "chi"        "**烤面包机将要烤面包3分钟（3分钟后爆炸)**"
+        "DoorCountDown"        "180"
+    }
+    "***THIS PLACE IS FALLING APART***"
+    {
+        "chi"        "**这个地方正在坠落并且分离 **"
+    }
+    "***YOU MUST HURRY***"
+    {
+        "chi"        "**你必须搞快点**"
+    }
+    "***REMOVING DEBRIS - 5 SECONDS***"
+    {
+        "chi"        "**清除障碍-5秒 **"
+    }
+    "***DEBRIS REMOVED - FALL BACK***"
+    {
+        "chi"        "**障碍清除了-搞快点**"
+    }
+    "***THE TOASTER IS GOING TO TOAST TOAST IN 2 MINUTES***"
+    {
+        "chi"        "**烤面包机将要烤面包2分钟 **"
+    }
+    "***ELEVATOR IS LEAVING IN 1 SECOND***"
+    {
+        "chi"        "**电梯1秒后离开 **"
+    }
+    "***THE TOASTER IS GOING TO TOAST TOAST IN 1 MINUTE***"
+    {
+        "chi"        "**烤面包机将要烤面包1分钟 **"
+    }
+    "***THE TOASTER IS GOING TO TOAST TOAST IN 30 SECONDS***"
+    {
+        "chi"        "**烤面包机将要烤面包30秒 **"
+    }
+    "***THE TOASTER IS GOING TO TOAST TOAST IN 20 SECONDS***"
+    {
+        "chi"        "**烤面包机将要烤面包20秒 **"
+    }
+    "***SOME SOUR MILK HAS BEEN PICKED UP***"
+    {
+        "chi"        "**酸牛奶已被捡起(小炸药桶) **"
+    }
+    "***YUUCK***"
+    {
+        "chi"        "**我呸**"
+    }
+    "***INCOMING TOAST - LEFT CHAMBER***"
+    {
+        "chi"        "**插入烤面包-左边 **"
+    }
+    "***SOMETHING IS BLOCKING THE LEVER***"
+    {
+        "chi"        "**有东西挡住了平台杠杆 **"
+    }
+    "***BREAK THE BLOCKING METAL PIECE UNDERNEATH***"
+    {
+        "chi"        "** 破坏下面的金属片状物**"
+        "ico"        "icon_fire"
+    }
+    "***YOU DID IT***"
+    {
+        "chi"        "**你做到了 **"
+    }
+    "***HOLD THEM OFF UNTIL THE LEVER IS ALL THE WAY DOWN***"
+    {
+        "chi"        "**阻止他们，直到平台杠杆下滑 **"
+    }
+    "***THE TOASTER HAS BEEN TURNED ON***"
+    {
+        "chi"        "**烤面包机已被打开 **"
+    }
+    "***ESCAPE THE TOASTER***"
+    {
+        "chi"        "**逃离烤面包机(原路返回） **"
+    }
+    "***GET OUT OF THE TOASTER***"
+    {
+        "chi"        "**逃离烤面包机 **"
+    }
+    "***THE TOASTER IS ABOUT TO TOAST TOAST!***"
+    {
+        "chi"        "**烤面包机要烤面包了**"
+    }
+    "***RUN FOR IT***"
+    {
+        "chi"        "** 运行它**"
+    }
+    "***THE STAIRS ARE BROKEN***"
+    {
+        "chi"        "**楼梯被破坏了 **"
+    }
+    "***GET UP ALL THE WAY TO THE MIDDLE SECTION ON TOP***"
+    {
+        "chi"        "**走这条路去顶部的中端 **"
+    }
+    "***HOLD THERE FOR AS LONG AS POSSIBLE BEFORE JUMPING ON THE TOASTER***"
+    {
+        "chi"        "**尽可能的守住这里 **"
+    }
+    "***FLY OUT WITH THE TOAST OR DIE***"
+    {
+        "chi"        "**飞出烤面包机或者死亡 **"
+    }
+    "***THE TOASTER IS ABOUT TO TOAST TOAST IN 10 SECONDS***"
+    {
+        "chi"        "**烤面包机10秒内烤土司面包 **"
+    }
+    "***GET OUT OF THERE***"
+    {
+        "chi"        "**离开那里 **"
+    }
+    "***THE TOASTER IS ABOUT TO TOAST TOAST IN 5 SECONDS***"
+    {
+        "chi"        "**烤面包机5秒内烤土司面包 **"
+    }
+    "***THE TOASTER IS ABOUT TO TOAST TOAST IN 4 SECONDS***"
+    {
+        "chi"        "**烤面包机4秒内烤土司面包 **"
+    }
+    "***THE TOASTER IS ABOUT TO TOAST TOAST IN 3 SECONDS***"
+    {
+        "chi"        "**烤面包机3秒内烤土司面包**"
+    }
+    "***THE TOASTER IS ABOUT TO TOAST TOAST IN 2 SECONDS***"
+    {
+        "chi"        "**烤面包机2秒内烤土司面包 **"
+    }
+    "***THE TOASTER IS ABOUT TO TOAST TOAST IN 1 SECOND***"
+    {
+        "chi"        "**烤面包机1秒内烤土司面包 **"
+    }
+    "***THE TOASTER IS TOASTING TOAST***"
+    {
+        "chi"        "**烤面包机正在烤土司面包 **"
+    }
+    "***GET TOASTED!***"
+    {
+        "chi"        "**拿到烤面包! **"
+    }
+    "***YOU MADE IT***"
+    {
+        "chi"        "**你做到了 **"
+    }
+    "***YOU COMPLETED THE MISSION - AND ESCAPED THE TOASTER***"
+    {
+        "chi"        "**你完成了任务-逃离了烤面包机 **"
+    }
+    "***WAIT A SECOND...***"
+    {
+        "chi"        "**等一会 **"
+    }
+    "***ITS NICOLAS CAGE!***"
+    {
+        "chi"        "**是尼古拉斯·凯奇！**"
+    }
+    "***UR***"
+    {
+        "chi"        "** **"
+    }
+    "*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
+    {
+        "chi"        "** **"
+    }
+    "***Map ported by ??????***"
+    {
+        "chi"        "** **"
+    }
+    "*** CURRENT MODE: EASY ***"
+    {
+        "chi"        "** **"
+    }
+    ">> Map by Taskuvaras <<"
+    {
+        "chi"        "** **"
+    }
+}

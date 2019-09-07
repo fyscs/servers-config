@@ -1,0 +1,202 @@
+"Console_T"
+{
+    "*Map created by Snake*"
+    {
+        "chi"        "**地图制作：Snake 地图翻译:IntimateLover**"
+    }
+    "*Defend Inside for 45s!*"
+    {
+        "chi"        "**守住45秒 **"
+        "DoorCountDown"        "45"
+    }
+    "*5 Seconds Left!*"
+    {
+        "chi"        "**还剩5秒 **"
+    }
+    "*Hold here for 30s!*"
+    {
+        "chi"        "**守住30秒 **"
+        "DoorCountDown"        "30"
+    }
+    "*10 seconds left!*"
+    {
+        "chi"        "**还剩10秒 **"
+    }
+    "*Defend here for 15 sec*"
+    {
+        "chi"        "**在这里守住15秒 **"
+    }
+    "*Hold for another 5s!*"
+    {
+        "chi"        "**守住另一个道路5秒 **"
+    }
+    "*Someone has to get inside to open the doors*"
+    {
+        "chi"        "**要有人进去打开门 **"
+    }
+    "*Zombies have crawled through the window!*"
+    {
+        "chi"        "**僵尸从窗户钻了进去！ **"
+    }
+    "*Castle Doors open in 15s!*"
+    {
+        "chi"        "**城堡大门在15秒后打开！ **"
+        "DoorCountDown"        "15"
+    }
+    "*Castle Doors Open!*"
+    {
+        "chi"        "**城堡大门开了！ **"
+    }
+    "*Portal is Charging*"
+    {
+        "chi"        "**门需要充电才能打开 **"
+    }
+    "*Portal 25 percent charged*"
+    {
+        "chi"        "**已充电25%！ **"
+    }
+    "*Portal 50 percent charged!*"
+    {
+        "chi"        "**已充电50%！ **"
+    }
+    "*Portal 75 percent charged!!*"
+    {
+        "chi"        "**已充电75% ！**"
+    }
+    "*Portal 100 percent charged!*"
+    {
+        "chi"        "**充电完成！ **"
+    }
+    "*Jump into the middle of the portal!*"
+    {
+        "chi"        "**快进门！ **"
+    }
+    "*Gate will open soon defend!*"
+    {
+        "chi"        "**守住！门很快就会打开！ **"
+    }
+    "*Zombie boat door broken!*"
+    {
+        "chi"        "**船仓的门碎了！僵尸快去坐船！ **"
+    }
+    "*Zombie boat leaving in 10s*"
+    {
+        "chi"        "**僵尸船在10秒后离开！ **"
+    }
+    "*Zombie boat is leaving!*"
+    {
+        "chi"        "**僵尸船已离开！ **"
+    }
+    "*Back Gate Open*"
+    {
+        "chi"        "**后面的门开了 **"
+    }
+    "*Hold here!*"
+    {
+        "chi"        "**在这里守住！ **"
+    }
+    "*Gates are open!*"
+    {
+        "chi"        "**城门开了！ **"
+    }
+    "*Nuke in 30 sec!*"
+    {
+        "chi"        "**核弹在30秒后发射！ **"
+    }
+    "*Nuke in 10 sec!*"
+    {
+        "chi"        "**核弹在10秒后发射！ **"
+    }
+    "*Map ported by Et3rnity*"
+    {
+        "chi"        "**地图移植：Et3rnity **"
+    }
+    "*Kill all remaining zombies!*"
+    {
+        "chi"        "**杀死所有剩余的僵尸！ **"
+    }
+    "sync_version"
+    {
+        "syncvalue"        "57246"
+    }
+    "*Defend here for 30 seconds*"
+    {
+        "chi"        "**守住这里30秒**"
+    }
+    "*Hold for another 10s!*"
+    {
+        "chi"        "**在多守10秒**"
+    }
+    "*5s left! Get ready to run!*"
+    {
+        "chi"        "**还剩5秒，准备撤退**"
+    }
+    "*Hold here for 65 s*"
+    {
+        "chi"        "**守住这里65秒**"
+    }
+    "*5 Seconds left*"
+    {
+        "chi"        "**还剩5秒**"
+    }
+    "*Gate will open in 55 seconds!*"
+    {
+        "chi"        "**大门将会在55秒后打开**"
+    }
+    "*Gate will open in 20 seconds!*"
+    {
+        "chi"        "**大门将会在20秒后打开**"
+    }
+    "*Rocket Launched!*"
+    {
+        "chi"        "**火箭发射！**"
+    }
+    "*5 seconds until gate opens!!*"
+    {
+        "chi"        "**守住5秒直到大门打开**"
+    }
+    "*Survive another 30 seconds!*"
+    {
+        "chi"        "**在这里生存30秒**"
+    }
+    "*Hold here for 35s!*"
+    {
+        "chi"        "**在这里守住35s**"
+    }
+    "*Youre taking too long!*"
+    {
+        "chi"        "**你花的时间太长了**"
+    }
+    "LEVEL: EASY"
+    {
+        "chi"        "**关卡难度：简单**"
+    }
+    "*** Special Thanks testing: GFL & MAPEADORES  ***"
+    {
+        "chi"        "** **"
+    }
+    "***Welcome to Crazy Kart***"
+    {
+        "chi"        "** **"
+    }
+    "***MAP BY LUFFAREN***"
+    {
+        "chi"        "** **"
+    }
+    "***Thanks to Enviolinador for the green shell bouncevector logic***"
+    {
+        "chi"        "** **"
+    }
+    "***Modified by Reflelia***"
+    {
+        "chi"        "** **"
+    }
+    "***60 SECONDS LEFT***"
+    {
+        "chi"        "** **"
+    }
+    "***WARM UP ROUIND***"
+    {
+        "chi"        "** **"
+    }
+}

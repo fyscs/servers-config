@@ -1,0 +1,99 @@
+"Console_T"
+{
+    "** Door opening in 15 sec **"
+    {
+        "chi"        "** 大门将在 15 秒后打开 **"
+    }
+    "** Second door opening in 10 seconds **"
+    {
+        "chi"        "** 第二扇门还有 10 秒开启 **"
+        "DoorCountDown"        "10"
+    }
+    "** Boat leaving in 20 sec **"
+    {
+        "chi"        "** 距离船只启动还有 20 秒 **"
+        "DoorCountDown"        "20"
+    }
+    "** Door opening in 25 sec **"
+    {
+        "chi"        "** 大门将在 25 秒后开启 **"
+        "DoorCountDown"        "25"
+    }
+    "** Door opening in 15 sec. **"
+    {
+        "chi"        "** 大门将在 15 秒后开启 **"
+    }
+    "** Door opening in 20 sec **"
+    {
+        "chi"        "** 大门将在 20 秒后开启 **"
+    }
+    "** Final door opening in 50 sec!!! **"
+    {
+        "chi"        "** 将在 50 秒后开启最后的大门！！！**"
+        "DoorCountDown"        "50"
+    }
+    "** Be ready! Zombies in bunker are coming!!! **"
+    {
+        "chi"        "** 做好准备！小绿门里将会有僵尸冲出！开枪！！**"
+    }
+    "**Elevator leaving in 30 sec **"
+    {
+        "chi"        "** 电梯将在 30 秒后启动 **"
+    }
+    "**USE THE BUTTON IN THE CONTROL PANNEL!**"
+    {
+        "chi"        "** 快去控制台按下按钮！**"
+    }
+    "** Bridge will be destroyed after 30 sec .**"
+    {
+        "chi"        "** 木桥将在 30 秒后被摧毁 **（色狼领袖：你懂得，要装的趁现在）"
+    }
+    "**Stage 1**"
+    {
+        "chi"        "** **"
+    }
+    "**welcome to ze_fat_hours_escape**"
+    {
+        "chi"        "** **"
+    }
+    "**map by yinyuehzixi**"
+    {
+        "chi"        "**地图作者：yinyuehzixi 地图汉化：大明**"
+    }
+    "** re shen 50 miao **"
+    {
+        "chi"        "**热身50秒**"
+    }
+    "** WARMUP ROUND **"
+    {
+        "chi"        "** **"
+    }
+    ">>LEVEL: EASY<<"
+    {
+        "chi"        "** **"
+    }
+    "***WELCOME TO PIZZA LAND***"
+    {
+        "chi"        "** **"
+    }
+    "***MAMA KOWAMA 2017***"
+    {
+        "chi"        "** **"
+    }
+    "<== Map made by qazlll456 [Hong Kong]==>"
+    {
+        "chi"        "** **"
+    }
+    "<== Also Thank [Syoudous] for helping testing the map ==>"
+    {
+        "chi"        "** **"
+    }
+    "**level 1**"
+    {
+        "chi"        "** **"
+    }
+    "**Map By Batnik_Reference.smd and ShotT **"
+    {
+        "chi"        "** **"
+    }
+}

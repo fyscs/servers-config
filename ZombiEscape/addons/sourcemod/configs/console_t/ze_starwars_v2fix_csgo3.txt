@@ -1,0 +1,1311 @@
+"Console_T"
+{
+    "**MAP BY MAKVI_ANKOM**"
+    {
+        "chi"        "**MAP BY MAKVI_ANKOM**"
+        "**Ze_Star_wars**"        "
+    {
+        "
+        "chi"        "        "
+        "**地图：星球大战"        "地图翻译：银月筱瑶"
+        "**"        "
+    }
+    "
+        "**The"        "bridge"
+        "will"        "open"
+        "in"        "15"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**路将在15秒后开放"        "**"
+        "
+        "        "DoorCountdown"
+        "        "        "15"
+        "
+        "        "ico"
+        "        "        "icon_tip"
+        "
+    }
+    "        "A"
+        "player"        "picked"
+        "up"        "Force"
+        "Heal"        "
+    {
+        "
+        "chi"        "        "
+        "**一位玩家拾起了神器：治疗原力（定点范围加到300HP）"        "**"
+        "
+    }
+    "        "A"
+        "player"        "picked"
+        "up"        "Force"
+        "speed"        "
+    {
+        "
+        "chi"        "        "
+        "**一位玩家拾起了神器：加速原力（产生加速场，经过的队友加速）"        "**"
+        "
+    }
+    "        "**The"
+        "bridge"        "will"
+        "open"        "in"
+        "5"        "seconds**"
+        "
+    {
+        "        "chi"
+        "        "        "**通往小桥的路将在5秒后开放"
+        "**"        "
+    }
+    "
+        "**Fall"        "back!"
+        "The"        "bridge"
+        "open**"        "
+    {
+        "
+        "chi"        "        "
+        "**撤退，路开了"        "**"
+        "
+    }
+    "        "A"
+        "player"        "picked"
+        "up"        "Force"
+        "Push"        "
+    {
+        "
+        "chi"        "        "
+        "**一位玩家拾起了神器：风之原力（定点产生推力）"        "**"
+        "
+    }
+    "        "A"
+        "player"        "picked"
+        "up"        "Force"
+        "Grip"        "
+    {
+        "
+        "chi"        "        "
+        "**一位玩家拾起了神器：水之原力（定点大范围减速僵尸）"        "**"
+        "
+    }
+    "        "A"
+        "player"        "picked"
+        "up"        "Force"
+        "Lightning"        "
+    {
+        "
+        "chi"        "        "
+        "**一位玩家拾起了神器：雷霆原力（定点范围扣血，无减速效果）"        "**"
+        "
+    }
+    "        "**The"
+        "doors"        "will"
+        "open"        "in"
+        "15"        "seconds**"
+        "
+    {
+        "        "chi"
+        "        "        "**门将会在15秒后打开"
+        "**"        "
+        "
+        "DoorCountDown"        "        "
+        "15"        "
+    }
+    "
+        "**The"        "doors"
+        "will"        "open"
+        "in"        "5"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**门将会在5秒后打开**"        "
+    }
+    "
+        "**Fall"        "back!"
+        "The"        "doors"
+        "ARE"        "open**"
+        "
+    {
+        "        "chi"
+        "        "        "**撤退，门开了！"
+        "**"        "
+    }
+    "
+        "**The"        "barricade"
+        "will"        "explode"
+        "in"        "10"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**障碍物将会在10秒后爆破"        "**"
+        "
+    }
+    "        "**barricade"
+        "exploded**"        "
+    {
+        "
+        "chi"        "        "
+        "**障碍物已爆破"        "**"
+        "
+    }
+    "        "**Destroy"
+        "The"        "barricade"
+        "15"        "second**"
+        "
+    {
+        "        "chi"
+        "        "        "**障碍物将会在15秒后打破"
+        "**"        "
+        "
+        "DoorCountDown"        "        "
+        "15"        "
+        "
+        "ico"        "        "
+        "icon_tip"        "
+    }
+    "
+        "**Destroy"        "the"
+        "barricade"        "5"
+        "second**"        "
+    {
+        "
+        "chi"        "        "
+        "**障碍物将会在5秒后打破，准备进去摧毁飞船"        "**"
+        "
+    }
+    "        "**The"
+        "palace"        "doors"
+        "will"        "open"
+        "in"        "30"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**皇宫大门将会在30秒后打开，坚持住！"        "**"
+        "
+        "        "DoorCountdown"
+        "        "        "30"
+        "
+    }
+    "        "AFK"
+        "TELEPORT"        "IN"
+        "5"        "SECOND"
+        "
+    {
+        "        "chi"
+        "        "        "**挂机者将会在5秒后被传送"
+        "**"        "
+    }
+    "
+        "**The"        "palace"
+        "doors"        "will"
+        "open"        "in"
+        "5"        "seconds**"
+        "
+    {
+        "        "chi"
+        "        "        "**皇宫大门将会在5秒后打开，坚持住！"
+        "**"        "
+    }
+    "
+        "**Destroy"        "the"
+        "barricade"        "in"
+        "20"        "second**"
+        "
+    {
+        "        "chi"
+        "        "        "**障碍物将会在20秒后被爆破"
+        "**"        "
+        "
+        "DoorCountDown"        "        "
+        "20"        "
+        "
+        "ico"        "        "
+        "icon_tip"        "
+    }
+    "
+        "**Last"        "door"
+        "will"        "open"
+        "in"        "30"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**最后的大门将会在30秒后打开"        "**"
+        "
+        "        "DoorCountdown"
+        "        "        "30"
+        "
+    }
+    "        "**FALL"
+        "BACK**"        "
+    {
+        "
+        "chi"        "        "
+        "**撤退"        "**"
+        "
+    }
+    "        "**Fall"
+        "back"        "close"
+        "door"        "in"
+        "20"        "second**"
+        "
+    {
+        "        "chi"
+        "        "        "**最后的大门将会在20秒后关闭，坚持住"
+        "**"        "
+        "
+        "DoorCountDown"        "        "
+        "20"        "
+    }
+    "
+        "**Level"        "1"
+        "is"        "complete**"
+        "
+    {
+        "        "chi"
+        "        "        "**关卡1已完成"
+        "**"        "
+    }
+    "
+        "**Level"        "changes"
+        "to"        "NORMAL**"
+        "
+    {
+        "        "chi"
+        "        "        "**下一关：普通难度"
+        "**"        "
+    }
+    "
+        "**The"        "doors"
+        "will"        "open"
+        "in"        "3"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**大门将会在3秒后打开"        "**"
+        "
+    }
+    "        "**The"
+        "droids"        "will"
+        "be"        "killed"
+        "in"        "10"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**机器人将会在10秒后被击溃"        "**"
+        "
+    }
+    "        "**Fall"
+        "back!"        "Droids"
+        "ARE"        "killed**"
+        "
+    {
+        "        "chi"
+        "        "        "**快跑，机器人死了"
+        "**"        "
+    }
+    "
+        "**The"        "doors"
+        "will"        "open"
+        "in"        "30"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**门将会在30秒后打开"        "**"
+        "
+        "        "DoorCountdown"
+        "        "        "30"
+        "
+    }
+    "        "**The"
+        "droids"        "will"
+        "be"        "killed"
+        "in"        "30"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**机器人将会在30秒后被击溃"        "**"
+        "
+        "        "DoorCountdown"
+        "        "        "30"
+        "
+    }
+    "        "**The"
+        "droids"        "will"
+        "be"        "killed"
+        "in"        "5"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**机器人将会在5秒后被击溃"        "**"
+        "
+    }
+    "        "**The"
+        "doors"        "will"
+        "open"        "in"
+        "20"        "seconds**"
+        "
+    {
+        "        "chi"
+        "        "        "**门将会在20秒后打开"
+        "**"        "
+        "
+        "DoorCountDown"        "        "
+        "20"        "
+    }
+    "
+        "**AFK"        "TELEPORT"
+        "in"        "5"
+        "second**"        "
+    {
+        "
+        "chi"        "        "
+        "**挂机者5秒后传送"        "**"
+        "
+    }
+    "        "**The"
+        "droids"        "will"
+        "be"        "killed"
+        "in"        "20"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**机器人将会在20秒后被击溃"        "**"
+        "
+        "        "DoorCountdown"
+        "        "        "20"
+        "
+        "        "ico"
+        "        "        "icon_tip"
+        "
+    }
+    "        "**The"
+        "droids"        "will"
+        "be"        "killed"
+        "in"        "25"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**机器人将会在25秒后被击溃"        "**"
+        "
+        "        "DoorCountdown"
+        "        "        "25"
+        "
+        "        "ico"
+        "        "        "icon_tip"
+        "
+    }
+    "        "**The"
+        "hangar"        "doors"
+        "will"        "open"
+        "in"        "20"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**飞机库大门将会在20秒后打开"        "**"
+        "
+        "        "DoorCountdown"
+        "        "        "20"
+        "
+    }
+    "        "A"
+        "player"        "picked"
+        "up"        "Force"
+        "Rage"        "
+    {
+        "
+        "chi"        "        "
+        "**一位玩家拾起了神器：终极原力（定点大范围，20秒后爆炸）"        "**"
+        "
+    }
+    "        "**The"
+        "hangar"        "doors"
+        "will"        "open"
+        "in"        "5"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**飞机库大门将会在5秒后打开"        "**"
+        "
+    }
+    "        "**Activate"
+        "The"        "ship**"
+        "
+    {
+        "        "chi"
+        "        "        "**激活飞船"
+        "**"        "
+    }
+    "
+        "**OMG!"        "This"
+        "is"        "Darth"
+        "Vader!"        "SHOOT!**"
+        "
+    {
+        "        "chi"
+        "        "        "**卧槽，达斯维达来了，快开枪！"
+        "**"        "
+    }
+    "
+        "**The"        "ship"
+        "will"        "move"
+        "in"        "15"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**飞船将会在15秒后离开"        "**"
+        "
+    }
+    "        "**Fall"
+        "back!"        "The"
+        "ship"        "will"
+        "move"        "in"
+        "5"        "seconds**"
+        "
+    {
+        "        "chi"
+        "        "        "**飞船将会在5秒后离开，注意前方攻击！"
+        "**"        "
+    }
+    "
+        "**Level"        "changes"
+        "to"        "HARD**"
+        "
+    {
+        "        "chi"
+        "        "        "**下一关：困难难度"
+        "**"        "
+    }
+    "
+        "**You"        "completed"
+        "level"        "2**"
+        "
+    {
+        "        "chi"
+        "        "        "**关卡2已完成"
+        "**"        "
+    }
+    "
+        "**The"        "bridge"
+        "will"        "open"
+        "in"        "25"
+        "seconds**"        "
+    {
+        "
+        "chi"        "        "
+        "**通往大桥的道路将会在25秒后开放"        "**"
+        "
+        "        "DoorCountdown"
+        "        "        "25"
+        "
+    }
+    "        "**Fall"
+        "back!"        "The"
+        "bridge"        "has"
+        "closed**"        "
+    {
+        "
+        "chi"        "        "
+        "**撤退，大桥路开了"        "**"
+        "
+    }
+    "        "*The"
+        "doors"        "will"
+        "open"        "in"
+        "10"        "seconds*"
+        "
+    {
+        "        "chi"
+        "        "        "**大门将会在10秒后打开"
+        "**"        "
+    }
+    "
+        "*The"        "doors"
+        "will"        "open"
+        "in"        "5"
+        "seconds*"        "
+    {
+        "
+        "chi"        "        "
+        "**大门将会在5秒后打开"        "**"
+        "
+    }
+    "        "BOSS"
+        "USE"        "RAGE."
+        "back"        "BACK"
+        "BACK!!!!!!"        "
+    {
+        "
+        "chi"        "        "
+        "**BOSS使用了原力狂怒，快贴墙！！"        "**"
+        "
+        "        "ico"
+        "        "        "icon_tip"
+        "
+    }
+    "        "*The"
+        "droids"        "will"
+        "be"        "killed"
+        "in"        "20"
+        "seconds*"        "
+    {
+        "
+        "chi"        "        "
+        "**机器人将会在20秒后被击溃"        "**"
+        "
+    }
+    "        "*Droids"
+        "cover"        "the"
+        "vicegerent."        "Capture"
+        "him!*"        "
+    {
+        "
+        "chi"        "        "
+        "**机器人正在掩护代理人，抓住他！"        "**"
+        "
+    }
+    "        "*The"
+        "droids"        "will"
+        "be"        "killed"
+        "in"        "5"
+        "seconds*"        "
+    {
+        "
+        "chi"        "        "
+        "**机器人将会在5秒后被击溃"        "**"
+        "
+    }
+    "        "*The"
+        "doors"        "will"
+        "open"        "in"
+        "15"        "seconds*"
+        "
+    {
+        "        "chi"
+        "        "        "**大门将会在15秒后打开"
+        "**"        "
+    }
+    "
+        "*Fall"        "back"
+        "door"        "close"
+        "in"        "15"
+        "second*"        "
+    {
+        "
+        "chi"        "        "
+        "**最后的大门将会在15秒后关闭"        "**"
+        "
+    }
+    "        "**Darth"
+        "maul"        "dead**"
+        "
+    {
+        "        "chi"
+        "        "        "**达斯摩尔死了"
+        "**"        "
+    }
+    "
+        "**Level"        "changes"
+        "to"        "EXTREME**"
+        "
+    {
+        "        "chi"
+        "        "        "**下一关：极限难度"
+        "**"        "
+    }
+    "
+        "**You"        "completed"
+        "level"        "3**"
+        "
+    {
+        "        "chi"
+        "        "        "**关卡3已完成"
+        "**"        "
+    }
+    "
+        "boss"        "fight"
+        "in"        "25"
+        "second"        "
+    {
+        "
+        "chi"        "        "
+        "**BOSS战将会在25秒后开始"        "**"
+        "
+        "        "DoorCountdown"
+        "        "        "25"
+        "
+    }
+    "        "Boss"
+        "fight"        "in"
+        "10"        "second"
+        "
+    {
+        "        "chi"
+        "        "        "**BOSS战将会在10秒后开始"
+        "**"        "
+    }
+    "
+        "boss"        "fight"
+        "in"        "5"
+        "second"        "
+    {
+        "
+        "chi"        "        "
+        "**BOSS战将会在5秒后开始"        "**"
+        "
+    }
+    "        "Boss"
+        "fight"        "
+    {
+        "
+        "chi"        "        "
+        "**BOSS战开始了"        "**"
+        "
+    }
+    "        "BOSS"
+        "USE"        "RAGE"
+        "
+    {
+        "        "chi"
+        "        "        "**BOSS使用了原力狂怒，快贴墙"
+        "**"        "
+        "
+        "ico"        "        "
+        "icon_tip"        "
+    }
+    "
+        "boss"        "USE"
+        "Push"        "
+    {
+        "
+        "chi"        "        "
+        "**BOSS使用了风之原力"        "**"
+        "
+    }
+    "        "BOSS"
+        "USE"        "THUNDER"
+        "
+    {
+        "        "chi"
+        "        "        "**BOSS使用了雷霆原力"
+        "**"        "
+    }
+    "
+        "boss"        "USE"
+        "Grip"        "
+    {
+        "
+        "chi"        "        "
+        "**BOSS使用了水之原力"        "**"
+        "
+    }
+    "        "BOSS"
+        "USE"        "ANGER"
+        "
+    {
+        "        "chi"
+        "        "        "**BOSS使用了愤怒原力"
+        "**"        "
+    }
+    "
+        "**The"        "wall"
+        "will"        "explode"
+        "in"        "30"
+        "second**"        "
+    {
+        "
+        "chi"        "        "
+        "**道路将会在30秒后炸开"        "**"
+        "
+        "        "DoorCountdown"
+        "        "        "30"
+        "
+        "        "ico"
+        "        "        "icon_tip"
+        "
+    }
+    "        "The"
+        "ship"        "will"
+        "fly"        "away"
+        "in"        "35"
+        "seconds"        "
+    {
+        "
+        "chi"        "        "
+        "**飞船将会在35秒后起飞"        "**"
+        "
+        "        "DoorCountdown"
+        "        "        "35"
+        "
+        "        "ico"
+        "        "        "icon_tip"
+        "
+    }
+    "        "Jumping"
+        "on"        "platform"
+        "
+    {
+        "        "chi"
+        "        "        "**往浮空板块上跳，小心来自飞船的跳刀！"
+        "**"        "
+        "
+        "ico"        "        "
+        "icon_tip"        "
+    }
+    "
+        "**You"        "completed"
+        "level"        "4**"
+        "
+    {
+        "        "chi"
+        "        "        "**关卡4已完成"
+        "**"        "
+    }
+    "
+        "**Level"        "changes"
+        "to"        "EPIC**"
+        "
+    {
+        "        "chi"
+        "        "        "**下一关：史诗难度"
+        "**"        "
+    }
+    "
+        "First"        "door"
+        "will"        "open"
+        "in"        "10"
+        "seconds"        "
+    {
+        "
+        "chi"        "        "
+        "**第一扇门将会在10秒后打开"        "**"
+        "
+    }
+    "        "Third"
+        "door"        "will"
+        "open"        "in"
+        "10"        "seconds"
+        "
+    {
+        "        "chi"
+        "        "        "**第二扇门将会在10秒后打开"
+        "**"        "
+    }
+    "
+        "second"        "door"
+        "will"        "open"
+        "in"        "10"
+        "seconds"        "
+    {
+        "
+        "chi"        "        "
+        "**第三扇门将会在10秒后打开"        "**"
+        "
+    }
+    "        "Last"
+        "door"        "will"
+        "open"        "in"
+        "40"        "seconds"
+        "
+    {
+        "        "chi"
+        "        "        "**最后的门将会在40秒后打开"
+        "**"        "
+    }
+    "
+        "AFK"        "TELEPORT"
+        "5"        "IN"
+        "second"        "
+    {
+        "
+        "chi"        "        "
+        "**挂机者将会在5秒后传送"        "**"
+        "
+    }
+    "        "FINAL"
+        "ATTACK!!!!!!!!!!!!"        "DESTROY"
+        "DARTH"        "MAUL!!!"
+        "
+    {
+        "        "chi"
+        "        "        "**最后的攻击！摧毁达斯摩尔"
+        "**"        "
+    }
+    "
+        "boss"        "USE"
+        "SWORD."        "CROUCH!!!!!!"
+        "
+    {
+        "        "chi"
+        "        "        "**BOSS使用了剑气，快TM蹲下！！"
+        "**"        "
+        "
+        "ico"        "        "
+        "icon_tip"        "
+    }
+}
+"
+    }
+    "**Ze_Star_wars**"
+    {
+        "chi"        "**地图：星球大战  地图翻译：银月筱瑶 **"
+    }
+    "**The bridge will open in 15 seconds**"
+    {
+        "chi"        "**路将在15秒后开放 **"
+        "DoorCountDown"        "15"
+    }
+    "A player picked up Force Speed"
+    {
+        "chi"        "**一位玩家拾起了神器：加速原力（产生加速场，经过的队友加速） **"
+    }
+    "A player picked up Force Push"
+    {
+        "chi"        "**一位玩家拾起了神器：风之原力（定点产生推力） **"
+    }
+    "A player picked up Force Heal"
+    {
+        "chi"        "***一位玩家拾起了神器：治疗原力（定点范围加到300HP） **"
+        "DoorCountDown"        "-1"
+    }
+    "**The bridge will open in 5 seconds**"
+    {
+        "chi"        "**通往小桥的路将在5秒后开放 **"
+    }
+    "**Fall back! The bridge open**"
+    {
+        "chi"        "**撤退，路开了 **"
+    }
+    "A player picked up Force Grip"
+    {
+        "chi"        "**一位玩家拾起了神器：水之原力（定点大范围减速僵尸） **"
+    }
+    "A player picked up Force Lightning"
+    {
+        "chi"        "**一位玩家拾起了神器：雷霆原力（定点范围扣血，无减速效果） **"
+    }
+    "**The doors will open in 15 seconds**"
+    {
+        "chi"        "**门将会在15秒后打开 **"
+        "DoorCountDown"        "15"
+    }
+    "**The doors will open in 5 seconds**"
+    {
+        "chi"        "**门将会在5秒后打开 **"
+    }
+    "**Fall back! The doors are open**"
+    {
+        "chi"        "**撤退，门开了！ **"
+    }
+    "**The barricade will explode in 10 seconds**"
+    {
+        "chi"        "**障碍物将会在10秒后爆破 **"
+    }
+    "**barricade exploded**"
+    {
+        "chi"        "**障碍物已爆破 **"
+    }
+    "**Destroy the barricade 15 second**"
+    {
+        "chi"        "**障碍物将会在15秒后打破 **"
+        "DoorCountDown"        "15"
+    }
+    "**Destroy the barricade 5 second**"
+    {
+        "chi"        "**障碍物将会在5秒后打破，准备进去摧毁飞船 **"
+    }
+    "**The palace doors will open in 30 seconds**"
+    {
+        "chi"        "**皇宫大门将会在30秒后打开，坚持住！ **"
+        "DoorCountDown"        "30"
+    }
+    "AFK TELEPORT IN 5 SECOND"
+    {
+        "chi"        "**挂机者将会在5秒后被传送 **"
+    }
+    "**The palace doors will open in 5 seconds**"
+    {
+        "chi"        "**皇宫大门将会在5秒后打开，坚持住！ **"
+    }
+    "**Destroy the barricade in 20 second**"
+    {
+        "chi"        "**障碍物将会在20秒后被爆破 **"
+        "DoorCountDown"        "20"
+    }
+    "**Last door will open in 30 seconds**"
+    {
+        "chi"        "**最后的大门将会在30秒后打开 **"
+        "DoorCountDown"        "30"
+    }
+    "**FALL BACK**"
+    {
+        "chi"        "**撤退 **"
+    }
+    "**Fall back close door in 20 second**"
+    {
+        "chi"        "**最后的大门将会在20秒后关闭，坚持住 **"
+        "DoorCountDown"        "20"
+    }
+    "**Level 1 is complete**"
+    {
+        "chi"        "**关卡1已完成 **"
+    }
+    "**Level changes to NORMAL**"
+    {
+        "chi"        "**下一关：普通难度  **"
+    }
+    "**The doors will open in 3 seconds**"
+    {
+        "chi"        "**大门将会在3秒后打开 **"
+    }
+    "**The droids will be killed in 10 seconds**"
+    {
+        "chi"        "**机器人将会在10秒后被击溃 **"
+    }
+    "**Fall back! Droids are killed**"
+    {
+        "chi"        "**快跑，机器人死了 **"
+    }
+    "**The doors will open in 30 seconds**"
+    {
+        "chi"        "**门将会在30秒后打开 **"
+        "DoorCountDown"        "30"
+    }
+    "**The droids will be killed in 30 seconds**"
+    {
+        "chi"        "**机器人将会在30秒后被击溃 **"
+        "DoorCountDown"        "30"
+    }
+    "**The droids will be killed in 5 seconds**"
+    {
+        "chi"        "**机器人将会在5秒后被击溃 **"
+    }
+    "**The doors will open in 20 seconds**"
+    {
+        "chi"        "**门将会在20秒后打开 **"
+    }
+    "**AFK TELEPORT IN 5 SECOND**"
+    {
+        "chi"        "**挂机者5秒后传送 **"
+    }
+    "**The droids will be killed in 20 seconds**"
+    {
+        "chi"        "**机器人将会在20秒后被击溃 **"
+        "DoorCountDown"        "20"
+    }
+    "**The droids will be killed in 25 seconds**"
+    {
+        "chi"        "**机器人将会在25秒后被击溃 **"
+        "DoorCountDown"        "25"
+    }
+    "**The hangar doors will open in 20 seconds**"
+    {
+        "chi"        "**飞机库大门将会在20秒后打开 **"
+        "DoorCountDown"        "25"
+    }
+    "A player picked up Force Rage"
+    {
+        "chi"        "**一位玩家拾起了神器：终极原力（定点大范围，20秒后爆炸） **"
+        "DoorCountDown"        "-1"
+    }
+    "**The hangar doors will open in 5 seconds**"
+    {
+        "chi"        "**飞机库大门将会在5秒后打开  **"
+    }
+    "**Activate the ship**"
+    {
+        "chi"        "**激活飞船 **"
+    }
+    "**OMG! This is Darth Vader! SHOOT!**"
+    {
+        "chi"        "**卧槽，达斯维达来了，快开枪！ **"
+    }
+    "**The ship will move in 15 seconds**"
+    {
+        "chi"        "**飞船将会在15秒后离开 **"
+    }
+    "**Fall back! The ship will move in 5 seconds**"
+    {
+        "chi"        "**飞船将会在5秒后离开，注意前方攻击！ **"
+    }
+    "**Level changes to HARD**"
+    {
+        "chi"        "**下一关：困难难度 **"
+    }
+    "**You completed Level 2**"
+    {
+        "chi"        "**关卡2已完成 **"
+    }
+    "**The bridge will open in 25 seconds**"
+    {
+        "chi"        "**通往大桥的道路将会在25秒后开放  **"
+        "DoorCountDown"        "25"
+    }
+    "**Fall back! The bridge has closed**"
+    {
+        "chi"        "**撤退，大桥路开了 **"
+    }
+    "*The doors will open in 10 seconds*"
+    {
+        "chi"        "**大门将会在10秒后打开 **"
+    }
+    "*The doors will open in 5 seconds*"
+    {
+        "chi"        "**大门将会在5秒后打开 **"
+    }
+    "BOSS USE RAGE. BACK BACK BACK!!!!!!"
+    {
+        "chi"        "**BOSS使用了原力狂怒，快贴墙！！ **"
+    }
+    "get to the side GET TO THE SIDE"
+    {
+        "chi"        "** **"
+    }
+    "*The droids will be killed in 20 seconds*"
+    {
+        "chi"        "**机器人将会在20秒后被击溃 **"
+        "DoorCountDown"        "20"
+    }
+    "*Droids cover the vicegerent. Capture him!*"
+    {
+        "chi"        "**机器人正在掩护代理人，抓住他！ **"
+    }
+    "*The droids will be killed in 5 seconds*"
+    {
+        "chi"        "**机器人将会在5秒后被击溃 **"
+    }
+    "*The doors will open in 15 seconds*"
+    {
+        "chi"        "**大门将会在15秒后打开 **"
+        "DoorCountDown"        "15"
+    }
+    "*Fall back door close in 15 second*"
+    {
+        "chi"        "**最后的大门将会在15秒后关闭 **"
+        "DoorCountDown"        "15"
+    }
+    "**Darth maul dead**"
+    {
+        "chi"        "**达斯摩尔死了 **"
+    }
+    "**Level changes to EXTREME**"
+    {
+        "chi"        "**下一关：极限难度 **"
+    }
+    "**You completed Level 3**"
+    {
+        "chi"        "**关卡3已完成 **"
+    }
+    "**Admin set Jedi Master MODE in the admin room**"
+    {
+        "chi"        "**管理员在调关房设置了绝地反击模式 **"
+    }
+    "First door will open in 10 seconds"
+    {
+        "chi"        "**第一道门10秒后打开  **"
+    }
+    "Third door will open in 10 seconds"
+    {
+        "chi"        "**第三道门10秒后打开 **"
+        "DoorCountDown"        "10"
+    }
+    "Second door will open in 10 seconds"
+    {
+        "chi"        "**第二道门10秒后打开 **"
+        "DoorCountDown"        "10"
+    }
+    "Last door will open in 40 seconds"
+    {
+        "chi"        "**最后一道门40秒后打开 **"
+        "DoorCountDown"        "40"
+    }
+    "AFK TELEPORT 5 IN SECOND"
+    {
+        "chi"        "**挂机玩家5秒后传送 **"
+    }
+    "BOSS USE RAGE"
+    {
+        "chi"        "**BOSS使用了原力狂怒，快贴墙 **"
+    }
+    "BOSS USE SWORD. CROUCH!!!!!!"
+    {
+        "chi"        "**BOSS使用了剑气，快TM蹲下！！ **"
+    }
+    "**First door will open in 45 seconds**"
+    {
+        "chi"        "**第一扇门将会在45秒后打开 **"
+        "DoorCountDown"        "45"
+    }
+    "Second door will open in 15 seconds"
+    {
+        "chi"        "**第二扇门将会在15秒后打开 **"
+        "DoorCountDown"        "15"
+    }
+    "Third door will open in 30 seconds"
+    {
+        "chi"        "**第三扇门将会在30秒后打开 **"
+        "DoorCountDown"        "30"
+    }
+    "**Level 5 is complete**"
+    {
+        "chi"        "**关卡5已完成 **"
+    }
+    "5 SECOND"
+    {
+        "chi"        "** **"
+    }
+    "The ship will departs after in 20 second"
+    {
+        "chi"        "**这艘船将在20秒后离开 **"
+    }
+    "The magnetic field will destroyed in 25 second"
+    {
+        "chi"        "**磁场将会在25秒后毁灭 **"
+    }
+    "FALL BACK!!!!!!!!!"
+    {
+        "chi"        "**撤退！！！ **"
+    }
+    "FALL BACK!!!!!!!!!!!!"
+    {
+        "chi"        "**撤退！！！ **"
+    }
+    "The magnetic field will destroyed in 20 second"
+    {
+        "chi"        "**磁场将会在20秒后毁灭 **"
+    }
+    "AFK TELEPORT IN 10 SECOND"
+    {
+        "chi"        "**挂机玩家10秒后传送  **"
+    }
+    "Boss fight in 25 second"
+    {
+        "chi"        "**BOSS战25秒后开始 **"
+        "DoorCountDown"        "25"
+    }
+    "Boss fight in 10 second"
+    {
+        "chi"        "**BOSS战10秒后开始 **"
+    }
+    "Boss fight in 5 second"
+    {
+        "chi"        "**BOSS战5秒后开启 **"
+    }
+    "Boss Fight"
+    {
+        "chi"        "**开始BOSS战 **"
+    }
+    "BOSS USE  GRIP"
+    {
+        "chi"        "**BOSS使用了水**"
+    }
+    "BOSS USE PUSH"
+    {
+        "chi"        "**BOSS使用了风 **"
+    }
+    "BOSS USE ANGER"
+    {
+        "chi"        "**BOSS使用了狂怒 **"
+    }
+    "**The wall will explode in 30 second**"
+    {
+        "chi"        "**墙壁30秒后爆炸 **"
+        "DoorCountDown"        "30"
+    }
+    "The ship will fly away in 35 seconds"
+    {
+        "chi"        "**飞船35秒后离开 **"
+    }
+    "Jumping on platform"
+    {
+        "chi"        "**跳上平台 **"
+    }
+    "**You completed Level 4**"
+    {
+        "chi"        "**关卡3已完成 **"
+    }
+    "**Level changes to EPIC**"
+    {
+        "chi"        "**下一难度：史诗 **"
+    }
+    "FINAL ATTACK!!!!!!!!!!!! DESTROY DARTH MAUL!!!"
+    {
+        "chi"        "**最后的攻击！摧毁达斯摩尔 **"
+    }
+    "BOSS USE THUNDER"
+    {
+        "chi"        "**BOSS使用了电 **"
+    }
+    "RATHER!!!!!!! Press button!!!!"
+    {
+        "chi"        "**按下按钮！ **"
+    }
+    "RUN!!!! RUN!!!! RUN!!!!!!  The wal willl explode in 15 second"
+    {
+        "chi"        "**跑！wal将在15秒后爆炸 **"
+    }
+    "The magnetic field will destroyed in 30 second"
+    {
+        "chi"        "**磁场将会在30秒后毁灭 **"
+    }
+    "The teleport will earn in 25 second"
+    {
+        "chi"        "**传送25秒后启动 **"
+    }
+    "The teleport will earn in 5 second"
+    {
+        "chi"        "**传送5秒后启动 **"
+    }
+    "FALL BACK"
+    {
+        "chi"        "**撤退 **"
+    }
+    "Shoot in middle the station of droids!"
+    {
+        "chi"        "**站在中间射击机器人 **"
+    }
+    "Good station explode! Shoot ZM!"
+    {
+        "chi"        "**好的！机器人死了！射击僵尸 **"
+    }
+    "Teleport activates in 10 second"
+    {
+        "chi"        "**传送10秒后激活 **"
+    }
+    "OMG! It is ship of Darth Maul!"
+    {
+        "chi"        "**OMG！这是达斯摩尔的船 **"
+    }
+    "Run!!! The ship will departs after in 20 second"
+    {
+        "chi"        "**跑！这艘船20秒后离开 **"
+        "DoorCountDown"        "20"
+    }
+    "sync_version"
+    {
+        "syncvalue"        "67972"
+    }
+    "MapGlobal_ConVars"
+    {
+        "0"
+        {
+            "cvar"        "sm_tagging_time 1.5"
+        }
+        "1"
+        {
+            "cvar"        "sm_tagging_penalty 20"
+        }
+    }
+}

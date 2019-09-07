@@ -1,0 +1,85 @@
+"Console_T"
+{
+    "*** Door will close in 5 secs ***"
+    {
+        "chi"        " *** 门在关闭5秒后  ***"
+    }
+    "*** Door will open in 2secs ***"
+    {
+        "chi"        "*** 门在2秒后打开 ***"
+    }
+    "*** Door is opening in 20secs ***"
+    {
+        "chi"        " *** 门打开于20秒后 ***"
+        "DoorCountDown"        "20"
+    }
+    "*** Door is opening in 5secs ***"
+    {
+        "chi"        "*** 门打开于5秒后 ***"
+    }
+    "*** 1st teleport enabled ***"
+    {
+        "chi"        "*** 第1个传送点已激活 ***"
+    }
+    "*** Trains leaving in 30secs***"
+    {
+        "chi"        "*** 矿车30秒后离开  ***"
+        "DoorCountDown"        "30"
+    }
+    "*** Trains are leaving  ***"
+    {
+        "chi"        "*** 矿车已经离开  ***"
+    }
+    "*** 2nd teleport enabled ***"
+    {
+        "chi"        "*** 第2个传送点已激活 ***"
+    }
+    "*** 3rd teleport enabled ***"
+    {
+        "chi"        "*** 第3个传送点已激活 ***"
+    }
+    "*** Map by AERIS.004 ***"
+    {
+        "chi"        "** **"
+    }
+    "**map by koyomaple**"
+    {
+        "chi"        "** **"
+    }
+    "*** NY MARATHON: GET READY TO RUN! ***"
+    {
+        "chi"        "** **"
+    }
+    "***Map by RelaxingWalls***"
+    {
+        "chi"        "** **"
+    }
+    "***Map made for SteamGamers Mapping Competition***"
+    {
+        "chi"        "** **"
+    }
+    "*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
+    {
+        "chi"        "** **"
+    }
+    "***Map ported by ??????***"
+    {
+        "chi"        "** **"
+    }
+    "*** CURRENT MODE: EASY ***"
+    {
+        "chi"        "** **"
+    }
+    "*** STEAMGAMERS.COM ***"
+    {
+        "chi"        "** **"
+    }
+    "*** Mapper: yardy ***"
+    {
+        "chi"        "** **"
+    }
+    "*** Co-Mapper: starbucks ***"
+    {
+        "chi"        "** **"
+    }
+}

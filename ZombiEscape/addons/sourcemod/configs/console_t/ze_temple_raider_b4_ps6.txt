@@ -1,0 +1,215 @@
+"Console_T"
+{
+    "** ZE TEMPLE RAIDER **"
+    {
+        "chi"        "** **"
+    }
+    "** MAP BY SLAYERDRAGON **"
+    {
+        "chi"        "** **"
+    }
+    "The world is falling apart!"
+    {
+        "chi"        "**这个世界正在崩坏**"
+    }
+    "Fight your way to the temple and escape!"
+    {
+        "chi"        "**摧毁神庙然后逃离**"
+    }
+    "Warmup Round - 10 sec"
+    {
+        "chi"        "** **"
+    }
+    "** HOLD THIS AREA UNTIL THE DOOR UNLOCKS **"
+    {
+        "chi"        "**守住这个地方直到门开启**"
+    }
+    "Hold 30 sec"
+    {
+        "chi"        "**防守25秒**"
+    }
+    "Warmup Round - End"
+    {
+        "chi"        "** **"
+    }
+    "Hold 5 sec"
+    {
+        "chi"        "** **"
+    }
+    "Hold 25 sec"
+    {
+        "chi"        "**防守25秒**"
+        "DoorCountDown"        "25"
+    }
+    "** HEALTH KIT ACQUIRED - 50s cooldown **"
+    {
+        "chi"        "**治疗被拾取-五十秒冷却**"
+    }
+    "Hold 15 sec"
+    {
+        "chi"        "** **"
+        "DoorCountDown"        "15"
+    }
+    "** Health Kit Ready!!! **"
+    {
+        "chi"        "**治疗冷却完毕**"
+    }
+    "** SHOOT THE CRATES TO OPEN A WAY **"
+    {
+        "chi"        "**射击箱子直到着火**"
+    }
+    "** HOLD THE TEMPLE ENTRANCE **"
+    {
+        "chi"        "**守住这个神庙入口**"
+    }
+    "** DOOR OPENS IN 5 SEC **"
+    {
+        "chi"        "** **"
+    }
+    "Hold 10 sec"
+    {
+        "chi"        "** **"
+    }
+    "Hold 20 sec"
+    {
+        "chi"        "** **"
+    }
+    "** FALL BACK **"
+    {
+        "chi"        "**撤退**"
+    }
+    "Prepare to fight !"
+    {
+        "chi"        "**准备战斗**"
+    }
+    "** THE DRAGON IS CHARGING FOR A SUPERATTACK **"
+    {
+        "chi"        "**龙在为超级攻击充能**"
+    }
+    "** USE THE CATAPULTS ON BOTH SIDES TO STAGGER HIM **"
+    {
+        "chi"        "**使用两边弩箭使他趔趄**"
+    }
+    "** THE DRAGON IS CHARGING FOR HIS FINAL ATTACK **"
+    {
+        "chi"        "**龙在为最终攻击充能**"
+    }
+    "Hold 32 sec"
+    {
+        "chi"        "**防守32秒**"
+        "DoorCountDown"        "32"
+    }
+    "** WE FOUND THE TREASURE ROOM! **"
+    {
+        "chi"        "**我们找到了宝藏放假**"
+    }
+    "** HOLD HERE TILL THE DOOR OPENS **"
+    {
+        "chi"        "**守住这个地方直到门开**"
+    }
+    "Hold 17 sec"
+    {
+        "chi"        "**防守17秒**"
+        "DoorCountDown"        "17"
+    }
+    "** END OF THE LINE - HOLD THE TOP **"
+    {
+        "chi"        "**抵达终点了，撑住**"
+    }
+    "** ESCAPE VIA THE ROPES! **"
+    {
+        "chi"        "**用绳索滑下去**"
+    }
+    "** KEEP DEFENDING TILL WE FIND A WAY OUT **"
+    {
+        "chi"        "**保持防守直到我们找到出路**"
+    }
+    "** RUN !! THE TUNNEL IS COLLAPSING !! **"
+    {
+        "chi"        "**跑！这个隧道要崩溃了**"
+    }
+    "** DEFEND WHILE WE ARE OPENING THE FINAL GATES **"
+    {
+        "chi"        "**防守到最后的大门开启**"
+    }
+    "** KEEP DEFENDING TILL THE LAST GATE OPENS **"
+    {
+        "chi"        "**继续防守到最后的大门开启***"
+    }
+    "** THIS IS THE END - DEFEND TILL WE SECURED THIS POSITION! **"
+    {
+        "chi"        "**这就是终点了，守住我们这个位置**"
+    }
+    "** DESTROY THE INVADERS - unlimited ammo enabled **"
+    {
+        "chi"        "**摧毁入侵者-无限子弹开启**"
+    }
+    "** SHIP ESCAPED **"
+    {
+        "chi"        "**飞船逃离**"
+    }
+    "** Zombies Have Escaped **"
+    {
+        "chi"        "**僵尸胜利**"
+    }
+    "** A TACTICAL NUKE IS ABOUT TO EXPLODE **"
+    {
+        "chi"        "** **"
+    }
+    "Bomb exploding in 100 sec"
+    {
+        "chi"        "** **"
+    }
+    "** GET THERE BEFORE IT DETONATES! **"
+    {
+        "chi"        "** **"
+    }
+    "Bomb exploding in 60 sec"
+    {
+        "chi"        "** **"
+    }
+    "Bomb exploding in 30 sec"
+    {
+        "chi"        "** **"
+    }
+    "Bomb exploding in 10 sec"
+    {
+        "chi"        "** **"
+    }
+    "** HURRY UP!!! **"
+    {
+        "chi"        "** **"
+    }
+    "KABOOOM"
+    {
+        "chi"        "** **"
+    }
+    "sync_version"
+    {
+        "syncvalue"        "4006"
+    }
+    "** DOOR OPENS IN 5 SECONDS **"
+    {
+        "chi"        "** **"
+    }
+    "Thanks test play POSSESSION server!!"
+    {
+        "chi"        "** **"
+    }
+    "Map made by Ocelot"
+    {
+        "chi"        "** **"
+    }
+    "*** WARMUP ROUND (60 sec) ***"
+    {
+        "chi"        "** **"
+    }
+    "*** Map By Nostar & Moltard ***"
+    {
+        "chi"        "** **"
+    }
+    "***Map by Luffaren***"
+    {
+        "chi"        "** **"
+    }
+}

@@ -1,0 +1,277 @@
+"Console_T"
+{
+    "> NOVICE DIFFICULTY"
+    {
+        "chi"        "**本关难度：容易 **"
+    }
+    "> Map by SubDelt@"
+    {
+        "chi"        ">>>地图制作： SubDelt@ 地图翻译：IntimateLover<<<"
+    }
+    "> Thanks to"
+    {
+        "chi"        "**感谢 **"
+    }
+    "> Cuniczek and Kaemon - helping with Propper"
+    {
+        "chi"        "**Janiczek和Kaemon - 与Propper的帮助 **"
+    }
+    "> Kaesar - providing UT2004 models"
+    {
+        "chi"        "**kaesar提供的UT2004模型 **"
+    }
+    "> JorisCeoen - modeling help"
+    {
+        "chi"        "**jorisceoen的建模 **"
+    }
+    "> Enviolinador - lots of general help"
+    {
+        "chi"        "**Enviolinador - 大量的常规帮助 **"
+    }
+    ">>> EXTEND THE BOARDING PLATFORM TO GAIN ACCESS TO THE REPAIR VESSEL <<<"
+    {
+        "chi"        "**延伸登船的平台.以进入修理船 **"
+    }
+    "> ZE UT2004 CONVOY"
+    {
+        "chi"        "**虚幻竞技场 **"
+    }
+    "> BERSERK COMBO has been acquired"
+    {
+        "chi"        "**无限子弹已被拿起（使用方法:按下E之后WWSS开启） **"
+    }
+    ">>> THE BOARDING PLATFORM EXTENDS IN 35 SECONDS <<<"
+    {
+        "chi"        "**登船平台在35秒后延伸完毕 **"
+        "DoorCountDown"        "35"
+    }
+    "> ROCKET LAUNCHER has been acquired"
+    {
+        "chi"        "**一位玩家拿起了火箭发射器（使用后炮弹碰到僵尸后爆炸会造成减速灼烧的效果） **"
+    }
+    ">>> MOVING ON TO MASTERFUL DIFFICULTY <<<"
+    {
+        "chi"        "**下关难度：史诗 **"
+    }
+    "> MASTERFUL DIFFICULTY"
+    {
+        "chi"        "**本关难度：史诗 **"
+    }
+    ">>> NO FRIENDLY FORCES DETECTED ON THE TRUCK <<<"
+    {
+        "chi"        "**卡车上没有检测到人类 **"
+    }
+    ">>> MOVING ON TO GODLIKE DIFFICULTY <<<"
+    {
+        "chi"        "**下关难度：天神 **"
+    }
+    "> GODLIKE DIFFICULTY"
+    {
+        "chi"        "**本关难度：天神 **"
+    }
+    ">>> DREADNOUGHT DETECTED! <<<"
+    {
+        "chi"        "**无畏战车已出现 **"
+    }
+    ">>> SHOOTING THE CARGO HOLD DOES NOTHING! TRY TO DESTROY THE ENGINE OR KILL THE DRIVER! <<<"
+    {
+        "chi"        "**不要射击货舱！试图摧毁发动机或杀死司机！ **"
+        "ico"        "icon_fire"
+    }
+    ">>> THE REAR DOOR HAS BEEN OPENED <<<"
+    {
+        "chi"        "**后门已经打开了 **"
+    }
+    ">>> REINFORCEMENTS ARE ON THE WAY! <<<"
+    {
+        "chi"        "**增援部队正在路上！ **"
+    }
+    ">>> YOU MUST OPEN THE SIDE DOORS OF THE REPAIR VESSEL <<<"
+    {
+        "chi"        "**你必须打开修理船的侧门 **"
+    }
+    ">>> WARNING! INBOUND AIRSTRIKE! <<<"
+    {
+        "chi"        "**警告！空袭入境！ **"
+    }
+    ">>> SEEK SHELTER WITHIN THE REPAIR VESSEL IMMEDIATELY! <<<"
+    {
+        "chi"        "**立即在维修船内寻求庇护！ **"
+    }
+    ">>> SIDE DOORS OPEN IN 45 SECONDS <<<"
+    {
+        "chi"        "**侧门将在45秒后开启！ **"
+        "DoorCountDown"        "45"
+    }
+    ">>> SIDE DOORS OPEN IN 20 SECONDS <<<"
+    {
+        "chi"        "**侧门将在20秒后开启！ **"
+    }
+    ">>> SIDE DOORS OPEN IN 5 SECONDS <<<"
+    {
+        "chi"        "**侧门将在5秒后开启！ **"
+    }
+    ">>> SIDE DOORS ARE OPENING <<<"
+    {
+        "chi"        "**侧门已打开 **"
+    }
+    ">>> YOU MUST INFILTRATE THE N.E.X.U.S. TRAILER <<<"
+    {
+        "chi"        "**你必须进入N.E.X.U.S.拖车 **"
+    }
+    ">>> N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS <<<"
+    {
+        "chi"        "**N.E.X.U.S.拖车将在在40秒后打开舱口 **"
+        "DoorCountDown"        "40"
+    }
+    ">>> N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS <<<"
+    {
+        "chi"        "**N.E.X.U.S.拖车将在在20秒后打开舱口 **"
+    }
+    ">>> N.E.X.U.S. TRAILER HATCH OPENS IN 5 SECONDS <<<"
+    {
+        "chi"        "**N.E.X.U.S.拖车将在在5秒后打开舱口 **"
+    }
+    ">>> N.E.X.U.S. TRAILER HATCH IS OPEN! <<<"
+    {
+        "chi"        "**N.E.X.U.S.拖车舱口已开启 **"
+    }
+    ">>> YOU CAN NOW RETRIEVE THE N.E.X.U.S. MISSILES <<<"
+    {
+        "chi"        "**现在你可以取回N.E.X.U.S.导弹 **"
+    }
+    ">>> THE N.E.X.U.S. MISSILES HAVE BEEN SECURED <<<"
+    {
+        "chi"        "**N.E.X.U.S.导弹已拿到 **"
+    }
+    ">>> MOVING ON TO EXPERIENCED DIFFICULTY <<<"
+    {
+        "chi"        "**下关难度：极限 **"
+    }
+    "> EXPERIENCED DIFFICULTY"
+    {
+        "chi"        "**本关难度：极限 **"
+    }
+    ">>> THE FORWARD WEAPON CACHE HAS BEEN STOLEN! <<<"
+    {
+        "chi"        "**武器库已开启 **"
+    }
+    ">>> THE BOARDING PLATFORM EXTENDS IN 15 SECONDS <<<"
+    {
+        "chi"        "**登船平台在15秒后延伸 **"
+    }
+    ">>> THE BOARDING PLATFORM EXTENDS IN 5 SECONDS <<<"
+    {
+        "chi"        "**登船平台在5秒后延伸 **"
+    }
+    ">>> THE BOARDING PLATFORM HAS BEEN EXTENDED <<<"
+    {
+        "chi"        "**登船平台已延伸完毕 **"
+    }
+    ">>> DESTROY THE DOOR OF THE REPAIR VESSEL <<<"
+    {
+        "chi"        "**破坏修理船的门 **"
+    }
+    ">>> THE EXPLOSIVES ARE IN PLACE! <<<"
+    {
+        "chi"        "**炸药已经埋下！ **"
+    }
+    ">>> EXPLOSION IN 40 SECONDS <<<"
+    {
+        "chi"        "**炸弹将在40秒后爆炸（不要贴门.会被炸死） **"
+        "DoorCountDown"        "40"
+    }
+    ">>> EXPLOSION IN 20 SECONDS <<<"
+    {
+        "chi"        "**炸弹将在20秒后爆炸（不要贴门.会被炸死） **"
+    }
+    ">>> EXPLOSION IN 5 SECONDS <<<"
+    {
+        "chi"        "**炸弹将在5秒后爆炸（不要贴门.会被炸死） **"
+        "ico"        "icon_fire"
+    }
+    ">>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<"
+    {
+        "chi"        "**你必须打开修理船的后门 **"
+    }
+    "> Tip - You can do this by standing near the lever at the rear part of the vessel"
+    {
+        "chi"        "**提示：你可以做到这一点.通过站在靠近船舶后部的拉杆附近数秒 **"
+    }
+    ">>> WE ARE LEAVING IN 10 SECONDS! <<<"
+    {
+        "chi"        "**我们将在10秒后离开！ **"
+    }
+    ">>> 5 <<<"
+    {
+        "chi"        "** **"
+    }
+    ">>> 4 <<<"
+    {
+        "chi"        "** **"
+    }
+    ">>> 3 <<<"
+    {
+        "chi"        "** **"
+    }
+    ">>> 2 <<<"
+    {
+        "chi"        "** **"
+    }
+    ">>> 1 <<<"
+    {
+        "chi"        "** **"
+    }
+    "> LIGHTING RIFLE has been acquired"
+    {
+        "chi"        "**一位玩家拿起了镭射步枪（站在直线上的僵尸会被瞬间杀死） **"
+    }
+    "> REDEEMER has been acquired"
+    {
+        "chi"        "**一位玩家拿起小型核弹（范围内的僵尸会被炸死.只能使用一次） **"
+    }
+    "> FLAK CANNON has been acquired"
+    {
+        "chi"        "**一位玩家拿起了高射炮（无限使用） **"
+    }
+    ">>> GET RID OF THE REMAINING ENEMIES ON THE TRUCK! <<<"
+    {
+        "chi"        "**清除卡车上的敌人！ **"
+    }
+    ">>> MOVING BACK TO NOVICE DIFFICULTY <<<"
+    {
+        "chi"        "**回到新手难度 **"
+    }
+    "sync_version"
+    {
+        "syncvalue"        "26351"
+    }
+    "> LIGHTNING RIFLE has been acquired"
+    {
+        "chi"        "** **"
+    }
+    "*** MAP BY STRUPPI ***"
+    {
+        "chi"        "** **"
+    }
+    ">>>Respawn wall break in 20 sec<<<"
+    {
+        "chi"        "** **"
+    }
+    "*** STEAMGAMERS.COM ***"
+    {
+        "chi"        "** **"
+    }
+    "*** Mapper: yardy ***"
+    {
+        "chi"        "** **"
+    }
+    "*** Co-Mapper: starbucks ***"
+    {
+        "chi"        "** **"
+    }
+    "[NORMAL MODE]"
+    {
+        "chi"        "** **"
+    }
+}

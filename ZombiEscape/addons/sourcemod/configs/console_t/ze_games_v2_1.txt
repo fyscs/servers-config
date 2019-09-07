@@ -1,0 +1,435 @@
+"Console_T"
+{
+    "-=[ Welcome to Zombie Games ]=-"
+    {
+        "chi"        "**欢迎来到刺激小游戏**"
+    }
+    "-=[ Round starting in 10 seconds ]=-"
+    {
+        "chi"        "**回合10秒后开始**"
+    }
+    "-=[ Starting game: Obstacle Race ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ You have 1 minute to reach the end ]=-"
+    {
+        "chi"        "**你有一分钟的时间跑到终点**"
+    }
+    "-=[ You have 40 seconds ]=-"
+    {
+        "chi"        "**你还有40秒的时间**"
+    }
+    "-=[ You have 20 more seconds ]=-"
+    {
+        "chi"        "**还有20秒 再不到终点就请您去世了**"
+    }
+    "-=[ Hurry, 10 seconds left ]=-"
+    {
+        "chi"        "**10秒 准备跟僵尸啵嘴吧**"
+    }
+    "-=[ 5 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ 4 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ 3 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ 2 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ 1 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Select your first game ]=-"
+    {
+        "chi"        "**选择一个刺激小游戏**"
+    }
+    "-=[ Autopick in 1 minute ]=-"
+    {
+        "chi"        "**系统酱一分钟后帮你随机选一个小游戏**"
+    }
+    "-=[ Easy Mode :: CTT > 4 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Starting game: Frogger ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Collect the gems in 45 seconds ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ All Gems have been collected ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Make your way to the highway ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Zombies are free ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Middle Exit opening in 30 seconds ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Doors opening in 5 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Hold for 30 seconds ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Finishing in 5 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ It's time for the final minigame ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Normal Mode :: CTT > 2 < 4 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Starting game: Drop ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Survive 60 Seconds... ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Activating in 5 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Humans Win ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Killing zombies in 5 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Extreme Mode :: CTT < 1 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Starting game: Obstacle ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Extreme Mode ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Survive 90 Seconds... ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Here come the zombies ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ You have 60 seconds ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Zombie spawn has advanced ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Starting game: Slingshot ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Normal Mode ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Easy Mode :: CTT == 4 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Normal Mode :: CTT == 2 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Starting game: Murder in the dark ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Survive 60 seconds ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Zombies are blind!!!! ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ 30 more seconds... ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Finishing in 5... ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Hard Mode :: CTT == 1 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Starting Game: Castle Defence ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Hard Mode ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Enter the Castle ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Doors closing in 5 seconds ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Shoot the ladders down ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ The catapult is coming!!! ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Castle gates open in 30 seconds ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Fallback ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Castle gates open in 15 seconds ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Castle gates are opening ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Finishing in 30 seconds ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Starting game: The Trap ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Activating Trap ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Fallback up the ladders ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ You have 30 seconds ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Hard Mode :: CTT > 1 < 2 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Starting game: Low Gravity ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Here come the zombies!!! ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Starting game: Deathrun ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Hold for 90 seconds ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ 1 more minute ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Zombie spawn advanced ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Lavapit activating in 5 seconds ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Easy Mode ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Survive until next ratio mode ]=-"
+    {
+        "chi"        "** **"
+    }
+    "***Map by Reflelia***"
+    {
+        "chi"        "** **"
+    }
+    "***Particle Effect by Airvulpes***"
+    {
+        "chi"        "** **"
+    }
+    "***Thanks to Shizuru[idea]  uuz[model]***"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Starting game: Conveyor ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[Normal Mode ]=-"
+    {
+        "chi"        "** **"
+    }
+    "---Feedback:noojeff@gmail.com---"
+    {
+        "chi"        "** **"
+    }
+    "---Special Thank To:HZM654321 and JackBauer123---"
+    {
+        "chi"        "** **"
+    }
+    "**Stage 1**"
+    {
+        "chi"        "** **"
+    }
+    "**welcome to ze_fat_hours_escape**"
+    {
+        "chi"        "** **"
+    }
+    "**map by yinyuehzixi**"
+    {
+        "chi"        "** **"
+    }
+    "*** ZE_BOATESCAPEX ***"
+    {
+        "chi"        "** **"
+    }
+    "*** A mode is being randomly chosen... ***"
+    {
+        "chi"        "** **"
+    }
+    "*** MAP BY STRUPPI ***"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Finishing Game :: < 2 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Zombies Activated Trap ]=-"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Hold 15 seconds ]=-"
+    {
+        "chi"        "** **"
+    }
+    "**ZE_DARK_SOULS**"
+    {
+        "chi"        "** **"
+    }
+    "-=[ Finishing Game :: == 2 ]=-"
+    {
+        "chi"        "** **"
+    }
+    "<< ze_surf_virtus >>"
+    {
+        "chi"        "** **"
+    }
+    "<< Fix by : Lishang >>"
+    {
+        "chi"        "** **"
+    }
+    "** CURRENT LEVEL: BEN SEA **"
+    {
+        "chi"        "** **"
+    }
+    "***Modified by Reflelia***"
+    {
+        "chi"        "** **"
+    }
+    "***60 SECONDS LEFT***"
+    {
+        "chi"        "** **"
+    }
+    "***WARM UP ROUIND***"
+    {
+        "chi"        "** **"
+    }
+    ">>LEVEL 1<<"
+    {
+        "chi"        "** **"
+    }
+    "Map by XXPohmianXXMochi"
+    {
+        "chi"        "** **"
+    }
+    "*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
+    {
+        "chi"        "** **"
+    }
+    "***Map ported by ??????***"
+    {
+        "chi"        "** **"
+    }
+    "*** CURRENT MODE: EASY ***"
+    {
+        "chi"        "** **"
+    }
+    "<<< Map by Jllaneras >>>"
+    {
+        "chi"        "** **"
+    }
+    "<<< Trial 1 >>>"
+    {
+        "chi"        "** **"
+    }
+    "** ZE_SUPERSHITSHOW **"
+    {
+        "chi"        "** **"
+    }
+    "** A mode will be chosen shortly... **"
+    {
+        "chi"        "** **"
+    }
+    "***Welcome to my first map PePeHands***"
+    {
+        "chi"        "** **"
+    }
+    "-=[ The main gates have been penetrated ]=-"
+    {
+        "chi"        "** **"
+    }
+}

@@ -1,0 +1,588 @@
+"Console_T"
+{
+    "**** MAP BY: Hannibal[SPA] (Rafuron) ****"
+    {
+        "chi"        "**地图作者：Hannibal[SPA] (Rafuron) **"
+    }
+    "** Server settings initialized **"
+    {
+        "chi"        "**初始化服务器设置 **"
+    }
+    "** Tips and Adjustements: Maese Danielot **"
+    {
+        "chi"        "**提示和修正：Maese Danielot **"
+    }
+    "** Optimization and Helping: Kaemon **"
+    {
+        "chi"        "**优化和帮助：Kaemon **"
+    }
+    "**CURRENT DIFFICULTY ** >> NORMAL << **"
+    {
+        "chi"        "**当前难度:普通**"
+    }
+    "*** MATERIAS AT LVL 1 ***"
+    {
+        "chi"        "**地图元素等级：LV1**"
+    }
+    "**Door opening in 10 seconds**"
+    {
+        "chi"        "**中门将在10S后打开！**"
+    }
+    "**Superior door opening in 30 seconds**"
+    {
+        "chi"        "**大门将在30S后开启**"
+        "DoorCountdown"        "-1"
+    }
+    "** DOOR OPENS IN 5 s **"
+    {
+        "chi"        "**大门将在5S后打开**"
+        "DoorCountdown"        "-1"
+    }
+    "** A player has adquired WIND MATERIA **"
+    {
+        "chi"        "**一位玩家拾起了风元素**"
+    }
+    "** A player has adquired EARTH MATERIA **"
+    {
+        "chi"        "**一位玩家拾起了土元素**"
+    }
+    "**Door is opening in 10 seconds**"
+    {
+        "chi"        "**门将于10秒后打开**"
+    }
+    "**Door is opening in 5**"
+    {
+        "chi"        "**门将于5秒后打开**"
+    }
+    "**Door is open**"
+    {
+        "chi"        "**门已打开**"
+    }
+    "**Elevator is leaving in 10s**"
+    {
+        "chi"        "**电梯将在10S后离开**"
+        "DoorCountdown"        "10"
+    }
+    "** A player has adquired GRAVITY MATERIA **"
+    {
+        "chi"        "**一位玩家拾起了黑洞元素**"
+    }
+    "** A player has adquired ICE MATERIA **"
+    {
+        "chi"        "**一位玩家拾起了冰元素**"
+    }
+    "** A player has adquired HEAL MATERIA **"
+    {
+        "chi"        "**一位玩家拾起了奶元素**"
+    }
+    "** We have reached the core  ...**"
+    {
+        "chi"        "**我们已到达魔光炉**"
+        "DoorCountdown"        "-1"
+    }
+    "** ... Cloud is planting the bomb **"
+    {
+        "chi"        "**克劳德正在安放炸弹**"
+    }
+    "** Bomb has been planted  **  Run **"
+    {
+        "chi"        "**炸弹已安装完毕-原路返回**"
+    }
+    "**Keep shooting ! We dont know what it can do **"
+    {
+        "chi"        "**BOSS已到来-杀了它**"
+    }
+    "** The monster is going to attack ! **"
+    {
+        "chi"        "**BOSS发起了攻击**"
+    }
+    "**Its dead ** Go go! Run upstairs ! **"
+    {
+        "chi"        "**BOSS已死亡-原路返回**"
+    }
+    "** EXPLOSION IN 145 SECONDS **"
+    {
+        "chi"        "**警告：炸弹将于145秒后爆炸**"
+        "DoorCountdown"        "-1"
+    }
+    "**  110 SECONDS LEFT **"
+    {
+        "chi"        "**警告：还剩110秒**"
+        "DoorCountdown"        "-1"
+    }
+    "**  100 SECONDS LEFT **"
+    {
+        "chi"        "**警告：还剩100秒**"
+        "DoorCountdown"        "-1"
+    }
+    "**  90 SECONDS LEFT **"
+    {
+        "chi"        "**警告：还剩90秒**"
+        "DoorCountdown"        "-1"
+    }
+    "**  80 SECONDS LEFT **"
+    {
+        "chi"        "**警告：还剩80秒**"
+        "DoorCountdown"        "-1"
+    }
+    "** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
+    {
+        "chi"        "**大门将在35S后打开-控制室有提前开门的方法，找到它**"
+        "DoorCountdown"        "-1"
+    }
+    "**  70 SECONDS LEFT **"
+    {
+        "chi"        "**警告：还剩70秒**"
+        "DoorCountdown"        "-1"
+    }
+    "** Well done! Door is opening in 10 seconds **"
+    {
+        "chi"        "**干得漂亮-大门将在10S后开启**"
+        "DoorCountdown"        "-1"
+    }
+    "**  60 SECONDS LEFT **"
+    {
+        "chi"        "**警告：还剩60秒**"
+        "DoorCountdown"        "-1"
+    }
+    "**  50 SECONDS LEFT **"
+    {
+        "chi"        "**警告：还剩50秒**"
+        "DoorCountdown"        "-1"
+    }
+    "**  40 SECONDS LEFT **"
+    {
+        "chi"        "**警告：还剩40秒**"
+        "DoorCountdown"        "-1"
+    }
+    "**  30 SECONDS LEFT **"
+    {
+        "chi"        "**警告：还剩30秒**"
+        "DoorCountdown"        "-1"
+    }
+    "**  20 SECONDS LEFT **"
+    {
+        "chi"        "**警告：还剩20秒**"
+        "DoorCountdown"        "-1"
+    }
+    "**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **"
+    {
+        "chi"        "**恭喜-普通模式已通过**"
+    }
+    "**CURRENT DIFFICULTY ** >> HARD << **"
+    {
+        "chi"        "**当前难度：困难**"
+    }
+    "*** MATERIAS AT LVL 2 ***"
+    {
+        "chi"        "**地图元素等级：LV2**"
+    }
+    "** A player has adquired ULTIMA MATERIA **"
+    {
+        "chi"        "**一位玩家拾起了终极元素**"
+    }
+    "** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **"
+    {
+        "chi"        "**提示:手雷可以造成大量伤害**"
+    }
+    "** Dont stop shooting ! Dont let him attack !"
+    {
+        "chi"        "**保持火力-不要让他攻击**"
+    }
+    "** Bahamut is in attack position ** Keep firing !! **"
+    {
+        "chi"        "**巴哈姆特即将发起攻击-射击！**"
+    }
+    "**Bahamut has been defeated ! ** Go go! Run upstairs ! **"
+    {
+        "chi"        "**巴哈姆特已受伤-原路返回**"
+    }
+    "** EXPLOSION IN 120 SECONDS **"
+    {
+        "chi"        "**警告：炸弹将于120秒后爆炸**"
+        "DoorCountdown"        "-1"
+    }
+    "**  10 SECONDS LEFT **"
+    {
+        "chi"        "**警告：还剩10秒**"
+        "DoorCountdown"        "-1"
+    }
+    "** Run! **"
+    {
+        "chi"        "**快跑！！！快跑！！！**"
+    }
+    "** A player has adquired ELECTRO MATERIA **"
+    {
+        "chi"        "**一位玩家拾起了电元素**"
+    }
+    "**Nice done! You interrumped Sephiroth s attack**"
+    {
+        "chi"        "**干得漂亮-你粉碎了萨菲罗斯的阴谋**"
+    }
+    "** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! **"
+    {
+        "chi"        "**恭喜-困难模式已通过**"
+    }
+    "**CURRENT DIFFICULTY ** >> EXTREME << **"
+    {
+        "chi"        "**当前难度：极限**"
+    }
+    "*** MATERIAS AT LVL 3 ***"
+    {
+        "chi"        "**地图元素等级：LV3**"
+    }
+    "** A player has adquired FIRE MATERIA **"
+    {
+        "chi"        "**一位玩家拾起了火元素**"
+    }
+    "** Door is opening in 7 seconds **"
+    {
+        "chi"        "**舞台门将在7S后打开**"
+    }
+    "** EXPLOSION IN 130 SECONDS **"
+    {
+        "chi"        "**警告：炸弹将于130秒后爆炸**"
+        "DoorCountdown"        "-1"
+    }
+    "**  120 SECONDS LEFT **"
+    {
+        "chi"        "**警告：还剩120秒**"
+        "DoorCountdown"        "-1"
+    }
+    "** 30 seconds left **"
+    {
+        "chi"        "**警告：还剩30秒**"
+        "DoorCountdown"        "-1"
+    }
+    "** 20 seconds left **"
+    {
+        "chi"        "**警告：还剩20秒**"
+        "DoorCountdown"        "20"
+    }
+    "** 10 seconds left **"
+    {
+        "chi"        "**警告：还剩10秒**"
+    }
+    "** ZOMBIES HAVE INFECTED THE BUNKER **"
+    {
+        "chi"        "**僵尸已逃脱-你输了**"
+    }
+    "** YOU DID IT! YOU WON EXTREME ! YOU OWN! **"
+    {
+        "chi"        "**恭喜-极限模式已通过**"
+    }
+    "**CURRENT DIFFICULTY ** >> EXTREME II << **"
+    {
+        "chi"        "**当前难度：极限II**"
+    }
+    "** COLOR DUE TO EXTREME DIFFICULTY ** Type mat_colorcorrection 0 if you want to turn it off**"
+    {
+        "chi"        "**由于难度原因，视觉效果已经开启，控制台输入mat_colorcorrection 0关闭效果**"
+    }
+    "** BAHAMUT IS CASTING ** PREPARE YOURSELF **"
+    {
+        "chi"        "**巴哈姆特正在蓄力！保护你自己！！！**"
+    }
+    "** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **"
+    {
+        "chi"        "**警告：巴哈姆特将在20秒后释放红终-准备使用奶神器**"
+        "DoorCountdown"        "-1"
+    }
+    "** BAHAMUT IS DEAD ** KEEP RUNNING **"
+    {
+        "chi"        "**巴哈姆特已死亡-原路返回**"
+    }
+    "** YOU ARE THE MASTERS OF MAKO REACTOR! **"
+    {
+        "chi"        "**恭喜-你已征服本神图**"
+    }
+    "** MAP COMPLETED  ** ZM ROUNDS **"
+    {
+        "chi"        "**地图通关-下一关将会是僵尸感染模式**"
+    }
+    "** THIS IS A ZM ROUND ** FIND A PLACE AND RESIST ** DONT FOLLOW THE ZE PATH **"
+    {
+        "chi"        "**僵尸感染-注意，不要按照正常的路线走**"
+    }
+    "** HUMAN VICTORY IN 4 MINUTES **"
+    {
+        "chi"        "**4 MINUTES后核爆！！！**"
+        "DoorCountdown"        "240"
+    }
+    "** HUMAN VICTORY IN 3 MINUTES **"
+    {
+        "chi"        "**3 MINUTES后核爆！！！**"
+    }
+    "** HUMAN VICTORY IN 2 MINUTES **"
+    {
+        "chi"        "**2 MINUTES后核爆！！！**"
+    }
+    "** HUMAN VICTORY IN 1 MINUTES **"
+    {
+        "chi"        "**1 MINUTES后核爆！！！**"
+    }
+    "** HUMAN VICTORY IN 20 SECONDS **"
+    {
+        "chi"        "**20 SECONDS后核爆！！！**"
+    }
+    "** ADMIN PRESSED KILL ALL BUTTON **"
+    {
+        "chi"        "**管理员按下KILL ALL按钮**"
+    }
+    "** Bahamut is going to cast Mega Flare !! Shoot !! **"
+    {
+        "chi"        "**警告：巴哈姆特想要杀了我们**"
+    }
+    "** BAHAMUT HAS HEALED 300 HIT POINTS**"
+    {
+        "chi"        "**警告：巴哈姆特使用了治疗**"
+    }
+    "** BAHAMUT HAS CAST FIRE! **"
+    {
+        "chi"        "**警告：巴哈姆特使用了火焰（往后退）**"
+    }
+    "** BAHAMUT HAS CAST ELECTRO! **"
+    {
+        "chi"        "**警告：巴哈姆特使用了电（跳上栏杆）**"
+    }
+    "** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
+    {
+        "chi"        "**警告：巴哈姆特将在7秒后毁灭我们**"
+        "DoorCountdown"        "-1"
+    }
+    "** BAHAMUT HAS CAST WIND **"
+    {
+        "chi"        "**警告：巴哈姆特使用了风**"
+    }
+    "** BAHAMUT HAS CAST GRAVITY **"
+    {
+        "chi"        "**警告：巴哈姆特使用了黑洞**"
+    }
+    "** BAHAMUT HAS CAST ICE **"
+    {
+        "chi"        "**警告：巴哈姆特使用了冰**"
+    }
+    "** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **"
+    {
+        "chi"        "**警告：巴哈姆特使用了土**"
+    }
+    "** ULTIMA CAST WILL SUCCED IN 10 SECONDS **"
+    {
+        "chi"        "**警告：终极将在10S后爆炸**"
+    }
+    "** 3 COWBELLS LEFT! **"
+    {
+        "chi"        "** **"
+    }
+    "** 2 COWBELLS LEFT! **"
+    {
+        "chi"        "** **"
+    }
+    "** 1 COWBELLS LEFT!!! **"
+    {
+        "chi"        "** **"
+    }
+    "** NO MORE COWBELL BONUS **"
+    {
+        "chi"        "** **"
+    }
+    "** ALL COWBELLS HAVE BEEN BROKEN ** BAHAMUT WILL NOT USE MATERIAS **"
+    {
+        "chi"        "**所有彩蛋已被打碎-巴哈姆特不会释放小型技能**"
+    }
+    "WARNING! BAHAMUT IS CASTING ULTIMA ** SHOOT HIM BEFORE HE KILL US ALL!!! **"
+    {
+        "chi"        "**警告：巴哈姆特释放了红终-在他把我们杀掉之前杀死他**"
+    }
+    "** Superior Door Is Locked ** Find Another Way To Go **"
+    {
+        "chi"        "**大门已锁-尝试找到另一条路**"
+    }
+    "** Side DOOR OPENS IN 10 s **"
+    {
+        "chi"        "**侧门10秒后打开**"
+        "DoorCountdown"        "10"
+    }
+    "**Bahamut has escaped ! ** Go Go! **"
+    {
+        "chi"        "**巴哈姆特已死亡-快跑**"
+    }
+    "** Elevator Is Running Out A Problem! ** Find Another Way To Go **"
+    {
+        "chi"        "**电梯似乎被人动过手脚-找一找有没有其他的路**"
+    }
+    "** Human Will Ignore Fall Damage In 30 Seconds **"
+    {
+        "chi"        "**人类将免疫30秒的摔落伤害**"
+        "DoorCountdown"        "30"
+    }
+    "** A player has adquired Mini HEAL MATERIA **"
+    {
+        "chi"        "**一位玩家拿起了小奶**"
+    }
+    "**No Fake Laser & High Laser Can Not Crouchjump Over it**"
+    {
+        "chi"        "**注意：本局没有假刀-高刀不能大跳**"
+        "DoorCountdown"        "-1"
+    }
+    "WARNING! BAHAMUT IS CASTING ULTIMA ** INTERRUPT HIM BEFORE HE KILL US ALL!!! **"
+    {
+        "chi"        "**警告:巴哈姆特正在使用终极魔法-在它把我们杀掉前杀掉它**"
+    }
+    "**Elevator Is Running Out A Problem! ** Hold Until We Find A Way To Go**"
+    {
+        "chi"        "**警告：电梯受不明影响无法使用-在我们找到另一条路前守住**"
+    }
+    "** Stay Away From The Elevator! **"
+    {
+        "chi"        "**远离电梯**"
+    }
+    "** Human Will Ignore Fall Damage In 12 Seconds! **"
+    {
+        "chi"        "**人类将免疫12秒的摔落伤害**"
+        "DoorCountdown"        "12"
+    }
+    "** CURRENT DIFFICULTY ** >> EXTREME III << **"
+    {
+        "chi"        "** **"
+    }
+    "** HELLZ VERSION **"
+    {
+        "chi"        "** **"
+    }
+    "** DOOR OPENS IN 35 S **"
+    {
+        "chi"        "**最后大门将于35秒后打开**"
+    }
+    "** Go to the control room and try to open it earlier **"
+    {
+        "chi"        "** **"
+    }
+    "** CURRENT DIFFICULTY ** >> EXTREME II SPECIAL << **"
+    {
+        "chi"        "** **"
+    }
+    "MapGlobal_ConVars"
+    {
+        "0"
+        {
+            "cvar"        "zr_infect_spawntime_min 30"
+        }
+        "1"
+        {
+            "cvar"        "zr_infect_spawntime_max 30"
+        }
+        "2"
+        {
+            "cvar"        "sm_zeusweapons_smoke 0"
+        }
+        "3"
+        {
+            "cvar"        "sm_zeusweapons_decoy 0"
+        }
+        "4"
+        {
+            "cvar"        "sm_molotov_limit 0"
+        }
+    }
+    "**No Fake Laser & High Laser Cant Crouchjump Over it**"
+    {
+        "chi"        "** **"
+    }
+    "** C4 Planted - Hold 8 seconds **"
+    {
+        "chi"        "**C4已安放-守住8秒钟**"
+    }
+    "** BAHAMUT HAS HEALED 600 HIT POINTS**"
+    {
+        "chi"        "** **"
+    }
+    "** BAHAMUT IS DEFEATED ** KEEP RUNNING **"
+    {
+        "chi"        "** **"
+    }
+    "** ONLY HEAL AND ULTIMA AVAILABLE AT CORE **"
+    {
+        "chi"        "** **"
+    }
+    "** SPECIAL LASERS AT THE END **"
+    {
+        "chi"        "** **"
+    }
+    "** ZE_SUPERSHITSHOW **"
+    {
+        "chi"        "** **"
+    }
+    "** A mode will be chosen shortly... **"
+    {
+        "chi"        "** **"
+    }
+    "<!!!> MAP BY JB_GAMBLE <!!!>"
+    {
+        "chi"        "** **"
+    }
+    "*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+    {
+        "chi"        "** **"
+    }
+    "*** Model :Dakotec ***"
+    {
+        "chi"        "** **"
+    }
+    ">> Map by TaskuVaras and Moltard <<"
+    {
+        "chi"        "** **"
+    }
+    "***STAGE 1 -- THE SHIP***"
+    {
+        "chi"        "** **"
+    }
+    "** re shen 50 miao **"
+    {
+        "chi"        "** **"
+    }
+    "**ZE_FFXII_FEYWOOD**"
+    {
+        "chi"        "** **"
+    }
+    "**map by koyomaple**"
+    {
+        "chi"        "** **"
+    }
+    "* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
+    {
+        "chi"        "** **"
+    }
+    "* * * Choose the first MINIGAME * * *"
+    {
+        "chi"        "** **"
+    }
+    "***Map by Reflelia***"
+    {
+        "chi"        "** **"
+    }
+    "***Particle Effect by Airvulpes***"
+    {
+        "chi"        "** **"
+    }
+    "***Thanks to Shizuru[idea]  uuz[model]***"
+    {
+        "chi"        "** **"
+    }
+    "[NORMAL MODE]"
+    {
+        "chi"        "** **"
+    }
+    "**No Fake Laser & High Laser Can't Crouchjump Over it**"
+    {
+        "chi"        "** **"
+    }
+    "Map By: Bill Smauz"
+    {
+        "chi"        "** **"
+    }
+    "Map For: www.zombiemurder.com"
+    {
+        "chi"        "** **"
+    }
+}

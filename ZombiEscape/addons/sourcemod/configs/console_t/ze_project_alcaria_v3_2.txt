@@ -1,0 +1,440 @@
+"Console_T"
+{
+    "### WARMUP - 50 SECONDS LEFT ###"
+    {
+        "chi"        "** **"
+    }
+    "### WARMUP - 40 SECONDS LEFT ###"
+    {
+        "chi"        "** **"
+    }
+    "### WARMUP - 30 SECONDS LEFT ###"
+    {
+        "chi"        "** **"
+    }
+    "### WARMUP - 20 SECONDS LEFT ###"
+    {
+        "chi"        "** **"
+    }
+    "III PLAYER HAS PICKED UP MEDIC KIT III"
+    {
+        "chi"        "**一位玩家拿起医疗包 **"
+    }
+    "### WARMUP - 10 SECONDS LEFT ###"
+    {
+        "chi"        "** **"
+    }
+    "### WARMUP OVER - RESTARTING ROUND ###"
+    {
+        "chi"        "** **"
+    }
+    "### HOLD HERE FOR A BIT ###"
+    {
+        "chi"        "**在这里等一会 **"
+    }
+    "III SARIN GAS HAS PICKED UP BY ZOMBIE III"
+    {
+        "chi"        "**一位僵尸拿起了沙林毒气 **"
+    }
+    "III MINI-NUKE HAS PICKED UP BY ZOMBIE III"
+    {
+        "chi"        "**一位僵尸拿起了迷你核弹 **"
+    }
+    "### SUICIDE VEST ACTIVES IN 5 SECONDS ###"
+    {
+        "chi"        "**核弹5秒后启动 **"
+    }
+    "### ALLAH AKBARRRR ###"
+    {
+        "chi"        "**真主至上 **"
+    }
+    "III PLAYER HAS PICKED UP FLAMETHROWER III"
+    {
+        "chi"        "**一位玩家拿起喷火器 **"
+    }
+    "### YOU ALL HAVE 2 MINUTES BEFORE ###"
+    {
+        "chi"        "**你们有两分钟的时间击毙BOSS **"
+    }
+    "### NARAKA BECOMES IMMORTAL AND RELEASES THE ZOMBIES ###"
+    {
+        "chi"        "**时间结束后NARAKA将不会被杀死并释放僵尸 **"
+    }
+    "### RANDOM FREEZING WIND SKILL CASTING  93 ###"
+    {
+        "chi"        "**随机技能-冻结之风 **"
+        "ico"        "icon_fire"
+    }
+    "### RANDOM FREEZING WIND SKILL CASTING  33 ###"
+    {
+        "chi"        "**随机技能-冻结之风 **"
+        "ico"        "icon_fire"
+    }
+    "### RANDOM FREEZING WIND SKILL CASTING  81 ###"
+    {
+        "chi"        "**随机技能-冻结之风 **"
+        "ico"        "icon_fire"
+    }
+    "### RANDOM FIRE SKILL CASTING  17 ###"
+    {
+        "chi"        "**随机技能-毁灭之火 **"
+        "ico"        "icon_fire"
+    }
+    "### RANDOM FIRE SKILL CASTING  77 ###"
+    {
+        "chi"        "**随机技能-毁灭之火  **"
+        "ico"        "icon_fire"
+    }
+    "### RANDOM FIRE SKILL CASTING  36 ###"
+    {
+        "chi"        "**随机技能-毁灭之火 **"
+        "ico"        "icon_fire"
+    }
+    "### RANDOM FREEZING WIND SKILL CASTING  29 ###"
+    {
+        "chi"        "**随机技能-冻结之风 **"
+        "ico"        "icon_fire"
+    }
+    "### RANDOM COME CLOSER CASTING  68 ###"
+    {
+        "chi"        "**随机技能-黑洞篡夺 **"
+        "ico"        "icon_fire"
+    }
+    "### YOU CAN BE SURE ###"
+    {
+        "chi"        "**你要相信 **"
+    }
+    "### ILL BE BACK AGAIN ###"
+    {
+        "chi"        "**我会再次回来 **"
+    }
+    "### DEFEND BEHIND THE RAILWAY ###"
+    {
+        "chi"        "**保护后面的铁路 **"
+    }
+    "### HOLD UNTIL THE TRAIN COMES TO BLOCK THE WAY ###"
+    {
+        "chi"        "**直到火车到来挡住道路 **"
+    }
+    "### GET AWAY FROM THE RAILWAY ###"
+    {
+        "chi"        "**离开铁路 **"
+    }
+    "###  GET BEHIND THE GATES !! TRAIN IS COMING ###"
+    {
+        "chi"        "**去到门后面！火车来了 **"
+    }
+    "### RANDOM FIRE SKILL CASTING  43 ###"
+    {
+        "chi"        "**随即技能-毁灭之火 **"
+        "ico"        "icon_fire"
+    }
+    "### ADMIN HAS SELECTED STAGE: III ###"
+    {
+        "chi"        "**管理员选择了第三关 **"
+    }
+    "### ADMIN HAS SELECTED NUKE TO RESTART THE ROUND ###"
+    {
+        "chi"        "**管理员选择了使用核弹开始新的一局 **"
+    }
+    "### NUKE IN 5 SECONDS ###"
+    {
+        "chi"        "**核弹5秒后发射 **"
+    }
+    "### NUKE IN 4 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "### NUKE IN 3 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "### NUKE IN 2 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "### NUKE IN 1 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "### HOLD UNTIL SEWER PANEL BREAKS ###"
+    {
+        "chi"        "**守住.直到下水道的地面破裂 **"
+    }
+    ">>> YOU ALL HAVE 2 MINTUES BEFORE  <<<"
+    {
+        "chi"        "**你们有两分钟的时间击毙BOSS **"
+    }
+    "### NARAKA BECOMES IMMORTAL AND RELEASE ZOMBIES ###"
+    {
+        "chi"        "**时间结束后NARAKA将不会被杀死并释放僵尸 **"
+    }
+    "lll NARAKA USES PHYSICAL ATTACK lll"
+    {
+        "chi"        "**NARAKA使用了物理攻击 **"
+    }
+    "III NARAKA HAS DROPPED THE LANDMINE III"
+    {
+        "chi"        "**NARAKA埋放了地雷 **"
+        "ico"        "icon_fire"
+    }
+    "III NARAKA IS USING CHEMTHROWER III"
+    {
+        "chi"        "**NARAKA使用了化学武器 **"
+        "ico"        "icon_fire"
+    }
+    "III NARAKA HAS SPAWNED HIS GUARDS III"
+    {
+        "chi"        "**NARAKA叫醒了他的狗 **"
+    }
+    "III NARAKA IS THROWING SARIN BARREL III"
+    {
+        "chi"        "**NARAKA投掷了沙林毒气桶 **"
+        "ico"        "icon_fire"
+    }
+    ">>> HES DEAD. DEFEND UNTIL GATES OPEN <<<"
+    {
+        "chi"        "**他死了。守到门打开 **"
+    }
+    "###  ELEVATOR IS LEAVING IN 10 SECONDS ###"
+    {
+        "chi"        "**电梯将在10秒内离开 **"
+    }
+    "### ELEVATOR IS HERE GET IN ###"
+    {
+        "chi"        "**电梯已离开 **"
+    }
+    "### BRIDGE BREAKS IN 15 SECONDS"
+    {
+        "chi"        "**桥梁15秒后断裂 **"
+        "DoorCountDown"        "15"
+    }
+    "### HOPE YOU ALL CAN SURVIVE THIS APOCALYPSE ###"
+    {
+        "chi"        "**希望你们能在这次启示录中幸存 **"
+    }
+    "### RANDOM COME CLOSER CASTING   29 ###"
+    {
+        "chi"        "**随机技能-黑洞篡夺 **"
+        "ico"        "icon_fire"
+    }
+    "### RANDOM FIRE SKILL CASTING  25 ###"
+    {
+        "chi"        "**随机技能-毁灭之火 **"
+        "ico"        "icon_fire"
+    }
+    "### CONGRATULATION YOU WON THE MAP ###"
+    {
+        "chi"        "**恭喜你通关本地图 **"
+    }
+    "sync_version"
+    {
+        "syncvalue"        "2870"
+    }
+    "### SUICIDE VEST ACTIVES IN 4 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "### SUICIDE VEST ACTIVES IN 3 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "### SUICIDE VEST ACTIVES IN 2 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "### SUICIDE VEST ACTIVES IN 1 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "### ALLAHHHH AKBARRRR ###"
+    {
+        "chi"        "** **"
+    }
+    "### SARIN ACTIVES IN 3 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "### SARIN ACTIVES IN 2 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "### SARIN ACTIVES IN 1 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "### FREEZING WIND SKILL CASTING  93 ###"
+    {
+        "chi"        "**随机技能-冻结之风 **"
+        "ico"        "icon_fire"
+    }
+    "### COME CLOSER CASTING   29 ###"
+    {
+        "chi"        "**随机技能-暗影撺掇 **"
+        "ico"        "icon_fire"
+    }
+    "### FREEZING WIND SKILL CASTING  81 ###"
+    {
+        "chi"        "**随机技能-冻结之风：81**"
+        "ico"        "icon_fire"
+    }
+    "###  FIRE SKILL CASTING  43 ###"
+    {
+        "chi"        "**随机技能-毁灭之火：43**"
+    }
+    "### COME CLOSER CASTING  68 ###"
+    {
+        "chi"        "**随机技能-暗影撺掇：68**"
+        "ico"        "icon_fire"
+    }
+    "### FREEZING WIND SKILL CASTING  29 ###"
+    {
+        "chi"        "**随机技能-冻结之风：29**"
+        "ico"        "icon_fire"
+    }
+    "### FIRE SKILL CASTING  25 ###"
+    {
+        "chi"        "**随机技能-毁灭之火：25**"
+        "ico"        "icon_fire"
+    }
+    ">>> YOU ALL HAVE 2:20 MINTUES BEFORE  <<<"
+    {
+        "chi"        "**你必须在2分20秒内杀死BOSS **"
+    }
+    "### ACTIVE THE C4 TO DESTROY THE BRIDGE ###"
+    {
+        "chi"        "**C4即将摧毁桥梁-守住 **"
+    }
+    "### FIRE SKILL CASTING  77 ###"
+    {
+        "chi"        "**随机技能-毁灭之火：77**"
+    }
+    "### FIRE SKILL CASTING  36 ###"
+    {
+        "chi"        "**随机技能-毁灭之火：36**"
+    }
+    "### FIRE SKILL CASTING  17 ###"
+    {
+        "chi"        "**随机技能-毁灭之火：17**"
+    }
+    "### FREEZING WIND SKILL CASTING  33 ###"
+    {
+        "chi"        "**随机技能-冻结之风：33**"
+    }
+    "### FIRE SKILL CASTING  63 ###"
+    {
+        "chi"        "**随机技能-毁灭之火：63**"
+    }
+    "### ZOMBIES WILL BE RELEASE IN 3 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "III PLAYER HAS PICKED UP MINES DETECTOR III"
+    {
+        "chi"        "** **"
+    }
+    "III ERROR !! MINES DETECTORS CANNOT BE USE III"
+    {
+        "chi"        "** **"
+    }
+    "III PLAYER HAS PICKED UP AMMO BOX III"
+    {
+        "chi"        "** **"
+    }
+    "III PLAYER HAS PICKED UP DEATH COFFIN III"
+    {
+        "chi"        "** **"
+    }
+    "### MISSILES DETONADE IN 20 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "### MISSILES DETONADE IN 10 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "### MISSILES DETONADE IN 5 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "### FIRE SKILL CASTING  19 ###"
+    {
+        "chi"        "**随机技能-毁灭之火：19**"
+    }
+    "### FIRE SKILL CASTING  79 ###"
+    {
+        "chi"        "**随机技能-毁灭之火：79**"
+    }
+    "### FREEZING WIND SKILL CASTING ###"
+    {
+        "chi"        "**随机技能-冻结之风**"
+    }
+    "###  FIRE SKILL CASTING  73 ###"
+    {
+        "chi"        "**随机技能-毁灭之火：73**"
+    }
+    "### FIRE SKILL CASTING  93 ###"
+    {
+        "chi"        "**随机技能-毁灭之火：93**"
+    }
+    "### COME CLOSER CASTING  55 ###"
+    {
+        "chi"        "**随机技能-暗影撺掇：55**"
+    }
+    "### FIRE SKILL CASTING  13 ###"
+    {
+        "chi"        "**随机技能-毁灭之火：13**"
+    }
+    "III PLAYER HAS PICKED UP BIOBOMB III"
+    {
+        "chi"        "** **"
+    }
+    "### 5 SECONDS TO DETONATION ###"
+    {
+        "chi"        "** **"
+    }
+    "### MISSILES DETONADE IN 15 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "### ZOMBIES CAN DESTROY THE ELECTIC BOX ###"
+    {
+        "chi"        "** **"
+    }
+    "### TO SHORT THE CIRCUIT OF THE ELEVATOR ###"
+    {
+        "chi"        "** **"
+    }
+    "### THE ELEVATOR ELECTRIC BOX IS BROKEN ###"
+    {
+        "chi"        "** **"
+    }
+    "### ELEVATOR WILL AUTOMATICLY LEAVING IN 10 SECONDS ###"
+    {
+        "chi"        "** **"
+    }
+    "*** NY MARATHON: GET READY TO RUN! ***"
+    {
+        "chi"        "** **"
+    }
+    "map by Amx"
+    {
+        "chi"        "** **"
+    }
+    ">> ZE_ERROR <<"
+    {
+        "chi"        "** **"
+    }
+    "### I'LL BE BACK AGAIN ###"
+    {
+        "chi"        "** **"
+    }
+    ">>> HE'S DEAD. DEFEND UNTIL GATES OPEN <<<"
+    {
+        "chi"        "** **"
+    }
+    "**map by koyomaple**"
+    {
+        "chi"        "** **"
+    }
+}

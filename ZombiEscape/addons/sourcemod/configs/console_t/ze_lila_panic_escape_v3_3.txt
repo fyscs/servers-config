@@ -1,0 +1,528 @@
+"Console_T"
+{
+    "** MAP BY SLAYERDRAGON **"
+    {
+        "chi"        "**作者 SLAYERDRAGON 翻译BAKA_Miku**"
+    }
+    "** LEVEL 1 (EASY) **"
+    {
+        "chi"        "**第一关 **"
+        "command"        "sm_cvar zr_infect_mzombie_ratio 6"
+    }
+    "** DOOR OPENS IN 10 SECONDS **"
+    {
+        "chi"        "**门将在10秒后打开 **"
+    }
+    "** HEAL GUN - 40 sec cooldown **"
+    {
+        "chi"        "**治疗枪 40秒冷却时间[神器等级需求:3] **"
+    }
+    "** LASER GUN - 60 sec cooldown **"
+    {
+        "chi"        "**激光墙 60秒冷却时间[神器等级需求:4] 放置一个墙 可以秒杀进入的僵尸 **"
+    }
+    "** FIRE BARREL - 50 sec cooldown **"
+    {
+        "chi"        "**炸药桶 50秒冷却时间[神器等级需求:1] **"
+    }
+    "** FREEZE BOTTLE - 50 sec cooldown **"
+    {
+        "chi"        "**冰冻枪 50秒冷却时间[神器等级需求:2] **"
+    }
+    "** AMMO GUN - 40 sec cooldown **"
+    {
+        "chi"        "**无限弹药 40秒冷却时间 **"
+    }
+    "** DOOR OPENS IN 15 SECONDS **"
+    {
+        "chi"        "**门将在15秒后打开 **"
+    }
+    "** 5 MORE SECONDS LEFT **"
+    {
+        "chi"        "**还有5秒 **"
+    }
+    "** DJ IN DA HOUSE !! **"
+    {
+        "chi"        "**点歌机被拿了**"
+    }
+    "** Button A2 pressed **"
+    {
+        "chi"        "**A2按钮已被按下 **"
+    }
+    "** Button A3 Pressed **"
+    {
+        "chi"        "**A3按钮已被按下 **"
+    }
+    "** Button A1 pressed **"
+    {
+        "chi"        "**A1按钮已被按下 **"
+    }
+    "** ALL BUTTONS HAVE BEEN PRESSED **"
+    {
+        "chi"        "**所有按钮已被按下 **"
+    }
+    "** DEFEND 20 SECONDS **"
+    {
+        "chi"        "**防御20秒 **"
+    }
+    "[MUSIC] NYAN CAT"
+    {
+        "chi"        "**[音乐] 彩虹猫**"
+    }
+    "** SECRET NYAN CAT COMPLETED **"
+    {
+        "chi"        "** **"
+    }
+    "** DEFEND 5 MORE SECONDS **"
+    {
+        "chi"        "**还要防御5秒 **"
+    }
+    "** Button B2 Pressed **"
+    {
+        "chi"        "**B2按钮已被按下 **"
+    }
+    "** Button B3 Pressed **"
+    {
+        "chi"        "**B3按钮已被按下 **"
+    }
+    "** Button B1 Pressed **"
+    {
+        "chi"        "**B1按钮已被按下 **"
+    }
+    "** SECRETS 1 of 5 FOUND **"
+    {
+        "chi"        "** **"
+    }
+    "[MUSIC] REAL2REAL - I Like To Move It"
+    {
+        "chi"        "** **"
+    }
+    "** SECRET I LIKE TO MOVE IT COMPLETED **"
+    {
+        "chi"        "** **"
+    }
+    "** GO TO THE CENTRAL BUILDING... **"
+    {
+        "chi"        "**去中间的建筑...**"
+    }
+    "** ... AND WAIT FOR EVACUATION **"
+    {
+        "chi"        "**...然后等待救援**"
+    }
+    "** DEFEND 10 SECONDS **"
+    {
+        "chi"        "**防御10秒 **"
+    }
+    "** SECRETS 2 of 5 FOUND **"
+    {
+        "chi"        "** **"
+    }
+    "** END OF THE LINE !! **"
+    {
+        "chi"        "**这是最后的守点了!!**"
+    }
+    "** HOLD THIS POSITION FOR 60 SECONDS !! **"
+    {
+        "chi"        "**在这里防御60秒 **"
+    }
+    "** 50 SECONDS REMAINING **"
+    {
+        "chi"        "**还有50秒 **"
+    }
+    "** 40 SECONDS REMAINING **"
+    {
+        "chi"        "**还有40秒 **"
+    }
+    "** 30 SECONDS REMAINING **"
+    {
+        "chi"        "**还有30秒 **"
+    }
+    "** 20 SECONDS REMAINING **"
+    {
+        "chi"        "**还有20秒 **"
+    }
+    "** 10 SECONDS REMAINING **"
+    {
+        "chi"        "**还有10秒 **"
+    }
+    "** 5 SECONDS REMAINING **"
+    {
+        "chi"        "**还有5秒 **"
+    }
+    "** U WON LEVEL 1 (EASY) **"
+    {
+        "chi"        "**第一关完成 **"
+    }
+    "** LEVEL 2 (BOSS) **"
+    {
+        "chi"        "**第二关 **"
+        "command"        "sm_cvar zr_infect_mzombie_ratio 6"
+    }
+    "** GATE WILL OPEN IN 15 SECONDS **"
+    {
+        "chi"        "**大门将在15秒后打开 **"
+    }
+    "** GATE WILL OPEN IN 5 SECONDS **"
+    {
+        "chi"        "**大门将在5秒后打开 **"
+    }
+    "** GATE WILL CLOSE IN 10 SECONDS **"
+    {
+        "chi"        "**大门将在10秒后关闭 **"
+    }
+    "[MUSIC] AQUA - BARBIE"
+    {
+        "chi"        "** **"
+    }
+    "** SECRET BARBIE COMPLETED **"
+    {
+        "chi"        "** **"
+    }
+    "** OH NOES! ITs PEDOBEAR !! **"
+    {
+        "chi"        "**哦不，那是迷糊熊**"
+    }
+    "** KILL IT BEFORE IT RAPES EVERYONE !! **"
+    {
+        "chi"        "**在他撸死你们前 杀死他 **"
+    }
+    "** NADES AND SPECIAL ITEMS DO MORE DAMAGE !! **"
+    {
+        "chi"        "**手雷和神器将对他造成大量伤害 **"
+    }
+    "** PEDOBEAR HAS BEEN DEFEATED **"
+    {
+        "chi"        "**迷糊熊已经被打败了**"
+    }
+    "[MUSIC] EIFEL 65 - Blue"
+    {
+        "chi"        "** **"
+    }
+    "** SECRET BLUE WORLD COMPLETED **"
+    {
+        "chi"        "** **"
+    }
+    "** SECRETS 4 of 5 FOUND **"
+    {
+        "chi"        "** **"
+    }
+    "[MUSIC] S3RL - Pika Girl"
+    {
+        "chi"        "** **"
+    }
+    "[MUSIC] BENNY HILL"
+    {
+        "chi"        "** **"
+    }
+    "[MUSIC] Pendulum - Encoder"
+    {
+        "chi"        "** **"
+    }
+    "** SECRET ENCODER COMPLETED **"
+    {
+        "chi"        "** **"
+    }
+    "** ENEMY CHOPPER INBOUND **"
+    {
+        "chi"        "**敌机进入 **"
+    }
+    "** YOU CAN KILL IT OR LEAVE IT !! **"
+    {
+        "chi"        "**你可以击毁它或者不管它 **"
+    }
+    "** U WON LEVEL 2 (BOSS) **"
+    {
+        "chi"        "**第二关完成 **"
+    }
+    "** LEVEL 3 (HARD) **"
+    {
+        "chi"        "**第三关 **"
+        "command"        "sm_cvar zr_infect_mzombie_ratio 5"
+    }
+    "** ALL SECRETS HAVE BEEN FOUND... **"
+    {
+        "chi"        "** **"
+    }
+    "** ...GRAVITY INBOUND AT THE ENDING !! **"
+    {
+        "chi"        "**低重力模式将打开 **"
+    }
+    "** SPECIAL SECRET ACTIVATED... **"
+    {
+        "chi"        "** **"
+    }
+    "** ...GRAVITY AND DRUGS FOR EVERYONE ! **"
+    {
+        "chi"        "** **"
+    }
+    "** U WON LEVEL 3 (HARD) **"
+    {
+        "chi"        "**第三关完成 **"
+    }
+    "** LEVEL 4 (BOSS) **"
+    {
+        "chi"        "**第四关(BOSS) **"
+        "command"        "sm_cvar zr_infect_mzombie_ratio 5"
+    }
+    "** BOSS ATTACKS ENABLED **"
+    {
+        "chi"        "**BOSS会开技能啦 **"
+    }
+    "[MUSIC] DAFT PUNK - One More Time"
+    {
+        "chi"        "** **"
+    }
+    "[MUSIC] ACDC - Highway To Hell"
+    {
+        "chi"        "** **"
+    }
+    "** U WON LEVEL 4 (BOSS) **"
+    {
+        "chi"        "**完成第四关 **"
+    }
+    "** LEVEL 5 (ZM ROUND) **"
+    {
+        "chi"        "**第五关[ZE] **"
+        "command"        "sm_cvar zr_infect_mzombie_ratio 6"
+    }
+    "** 180 SECONDS left until VICTORY **"
+    {
+        "chi"        "**离胜利还有180秒 **"
+    }
+    "[MUSIC] NUMA NUMA YODA"
+    {
+        "chi"        "** **"
+    }
+    "[MUSIC] REQUIEM FOR A DREAM"
+    {
+        "chi"        "** **"
+    }
+    "** 120 SECONDS left until VICTORY **"
+    {
+        "chi"        "**离胜利还有120秒 **"
+    }
+    "[MUSIC] CARAMELLDANSEN !!"
+    {
+        "chi"        "** **"
+    }
+    "** 60 SECONDS left until VICTORY **"
+    {
+        "chi"        "**离胜利还有60秒 **"
+    }
+    "** 30 SECONDS left until VICTORY **"
+    {
+        "chi"        "**离胜利还有30秒 **"
+    }
+    "** 20 SECONDS left until VICTORY **"
+    {
+        "chi"        "**离胜利还有20秒 **"
+    }
+    "** 10 SECONDS left until VICTORY **"
+    {
+        "chi"        "**离胜利还有10秒 **"
+    }
+    "** 5 SECONDS left until VICTORY **"
+    {
+        "chi"        "**离胜利还有5秒 **"
+    }
+    "** U WON LEVEL 5 (ZM ROUND) **"
+    {
+        "chi"        "**第五关完成 **"
+    }
+    "** LEVEL 6 (BOSS) **"
+    {
+        "chi"        "**第六关(BOSS)**"
+        "command"        "sm_cvar zr_infect_mzombie_ratio 5"
+    }
+    "** ITEM COLLECTED - ALL HUMANS GET 250 HP **"
+    {
+        "chi"        "**获得道具 - 全部人类回到250血**"
+        "DoorCountDown"        "-1"
+    }
+    "[MUSIC] BLOODHOUND GANG - The Bad Touch"
+    {
+        "chi"        "** **"
+    }
+    "[MUSIC] HOLLYWOOD UNDEAD - Everywhere i go"
+    {
+        "chi"        "** **"
+    }
+    "[MUSIC] GUNS n ROSES - Paradise City"
+    {
+        "chi"        "** **"
+    }
+    "[MUSIC] LINKIN PARK - Numb"
+    {
+        "chi"        "** **"
+    }
+    "** U WON LEVEL 6 (BOSS) **"
+    {
+        "chi"        "**第六关完成 **"
+    }
+    "** LEVEL 7 (EXTREME) **"
+    {
+        "chi"        "**第七关(EXTREME)**"
+        "command"        "sm_cvar zr_infect_mzombie_ratio 5"
+    }
+    "** SUICIDAL ZOMBIE INCOMING **"
+    {
+        "chi"        "**自杀僵尸来袭 **"
+    }
+    "** DOOR OPENS IN 20 SECONDS **"
+    {
+        "chi"        "**门将在20秒后打开 **"
+    }
+    "** DOOR OPENS IN 5 SECONDS **"
+    {
+        "chi"        "**门将在5秒后打开 **"
+    }
+    "** MISSION - PLANT THE BOMB AND ESCAPE! **"
+    {
+        "chi"        "** **"
+    }
+    "** BOMB HAS BEEN PLANTED **"
+    {
+        "chi"        "** **"
+    }
+    "** AIRLOCK TURBINE IS STARTING... **"
+    {
+        "chi"        "** **"
+    }
+    "** WE ARE READY TO ESCAPE THIS COMPOUND ! **"
+    {
+        "chi"        "** **"
+    }
+    "** 20 SECONDS BEFORE THE AIRLOCK OPENS **"
+    {
+        "chi"        "**气闸将在20秒后打开 **"
+    }
+    "** 5 SECONDS LEFT BEFORE THE AIRLOCK OPENS **"
+    {
+        "chi"        "**气闸将在5秒后打开 **"
+    }
+    "** WE ARE BACK IN THE COMPOUND ! **"
+    {
+        "chi"        "** **"
+    }
+    "** AFK wall will BREAK in 5 SECONDS **"
+    {
+        "chi"        "**挂机门将在5秒后打开 **"
+    }
+    "** 80 SECONDS REMAINING **"
+    {
+        "chi"        "**还有80秒 **"
+    }
+    "** 70 SECONDS REMAINING **"
+    {
+        "chi"        "**还有70秒 **"
+    }
+    "** LILA PANIC COMPOUND IS FALLING APART !! **"
+    {
+        "chi"        "** **"
+    }
+    "** ENEMY CHOPPER INBOUND !! **"
+    {
+        "chi"        "**敌机进入 **"
+    }
+    "** 60 SECONDS REMAINING **"
+    {
+        "chi"        "**还有60秒 **"
+    }
+    "** U WON LEVEL 7 (EXTREME) **"
+    {
+        "chi"        "**第七关完成 **"
+    }
+    "** LEVEL 8 (FINAL BOSS) **"
+    {
+        "chi"        "**第八关(最后的BOSS)**"
+        "command"        "sm_cvar zr_infect_mzombie_ratio 6"
+    }
+    "** U WON LEVEL 8 (FINAL BOSS) **"
+    {
+        "chi"        "**第八关完成 **"
+    }
+    "** CONGRATZ !! U WON THE MAP !! **"
+    {
+        "chi"        "**恭喜!!你通关了这张图!!**"
+    }
+    "** LEVEL 9 (ZM ROUND) **"
+    {
+        "chi"        "**第九关(ZM)**"
+    }
+    "** ADMIN ROOM IS OPEN ! **"
+    {
+        "chi"        "**调关房已打开 **"
+    }
+    "** ADMIN gives EVERYONE LEVEL 5! ENJOY!**"
+    {
+        "chi"        "**OP给了每个人5的神器等级!享受吧!**"
+    }
+    "** ADMIN chose LEVEL 1 for NEXT ROUND **"
+    {
+        "chi"        "**OP把下一关调成第一关**"
+    }
+    "** SECRETS 3 of 5 FOUND **"
+    {
+        "chi"        "** **"
+    }
+    "** U WON LEVEL 9 (ZM ROUND) **"
+    {
+        "chi"        "**第九关完成 **"
+    }
+    "### WELCOME TO CRAZY ESCAPE ###"
+    {
+        "chi"        "** **"
+    }
+    "** ITEM COLLECTED - PEDOBEAR LOST 150 HP **"
+    {
+        "chi"        "**获得道具 - BOSS -150血**"
+    }
+    "** ADMIN chose LEVEL 4 for NEXT ROUND **"
+    {
+        "chi"        "**OP把下一关调成第四关**"
+    }
+    "** ADMIN chose LEVEL 6 for NEXT ROUND **"
+    {
+        "chi"        "**OP把下一关调成第六关**"
+    }
+    "** ADMIN chose LEVEL 5 for NEXT ROUND **"
+    {
+        "chi"        "**OP把下一关调成第五关**"
+    }
+    "** ADMIN chose LEVEL 7 for NEXT ROUND **"
+    {
+        "chi"        "**OP把下一关调成第七关**"
+    }
+    "** ADMIN chose LEVEL 8 for NEXT ROUND **"
+    {
+        "chi"        "**OP把下一关调成第八关**"
+    }
+    "** ADMIN chose LEVEL 9 for NEXT ROUND **"
+    {
+        "chi"        "**OP把下一关调成第⑨关**"
+    }
+    "** ADMIN chose LEVEL 2 for NEXT ROUND **"
+    {
+        "chi"        "**OP把下一关调成第二关**"
+    }
+    "** ADMIN chose LEVEL 3 for NEXT ROUND **"
+    {
+        "chi"        "**OP把下一关调成第三关**"
+    }
+    "The server is about to close the update ,Please update your game"
+    {
+        "chi"        "** **"
+    }
+    "sync_version"
+    {
+        "syncvalue"        "20863"
+    }
+    "steamworkshop search this map's name"
+    {
+        "chi"        "** **"
+    }
+    "**map by koyomaple**"
+    {
+        "chi"        "** **"
+    }
+}

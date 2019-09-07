@@ -1,0 +1,534 @@
+"Console_T"
+{
+    "#ze_copy_escape_alpha#"
+    {
+        "chi"        "** **"
+        "DoorCountDown"        "-1"
+    }
+    "#Mapper - sweetS  Special Thanks - Reflelia , Airvulpes , p0p , kune#"
+    {
+        "chi"        "**地图作者—sweetS 特别感谢-Reflelia,Airvulpes,pOp,kune.汉化:大明**"
+    }
+    "#Map Idea - ze_gris , ze_dreamin , ze_ffxii_westersand#"
+    {
+        "chi"        "**地图创意-ze_gris,ze_dreamin,ze_ffxii_westersand**"
+    }
+    "#Thanks to help me , and playing this map.. Enjoy! #"
+    {
+        "chi"        "**感谢大家帮助我，请大家享受这张图的乐趣吧**"
+    }
+    "#Open way in 30sec..#"
+    {
+        "chi"        "**30s路开**"
+    }
+    "#Player picked up heal item#"
+    {
+        "chi"        "**一名玩家捡起了奶**"
+    }
+    "#Open ways in 30sec..#"
+    {
+        "chi"        "**30s路开**"
+    }
+    "#FALL BACK#"
+    {
+        "chi"        "**撤退**"
+    }
+    "#Player picked up fire item#"
+    {
+        "chi"        "**一名玩家捡起了火**"
+    }
+    "#Floor break in 15sec..#"
+    {
+        "chi"        "**15s地板破碎**"
+        "DoorCountDown"        "-1"
+    }
+    "#Door open in 45sec..#"
+    {
+        "chi"        "**45s门开**"
+        "DoorCountDown"        "-1"
+    }
+    "#Teleport will enable in 5sec..#"
+    {
+        "chi"        "**5s后传送**"
+    }
+    "#Player picked up wind item#"
+    {
+        "chi"        "**一名玩家捡起了风**"
+    }
+    "#You won difficulty Gris..#"
+    {
+        "chi"        "**你在困难的Gris获胜了**"
+    }
+    "#Jump push enable in 30seconds..#"
+    {
+        "chi"        "**三十秒后跳跃**"
+        "DoorCountDown"        "-1"
+    }
+    "#Last defend 45 seconds for boss..#"
+    {
+        "chi"        "**守住45s 准备打BOSS**"
+        "DoorCountDown"        "-1"
+    }
+    "#Kill That !.. Nade do more damage.. #"
+    {
+        "chi"        "**杀死他!Nade会造成更多的伤害！**"
+    }
+    "#Boss used Zombie Teleporter#"
+    {
+        "chi"        "**BOSS将僵尸放了出来**"
+        "ico"        "icon_interact"
+    }
+    "#Boss used Ice#"
+    {
+        "chi"        "**BOSS使用了冰**"
+        "ico"        "icon_interact"
+    }
+    "#Boss used Cocoball#"
+    {
+        "chi"        "**BOSS使用了天坠黑球**"
+        "ico"        "icon_interact"
+    }
+    "#Boss used Rotating Blade#"
+    {
+        "chi"        "**BOSS使用了旋转刀片**"
+        "ico"        "icon_interact"
+    }
+    "#Boss used Fire#"
+    {
+        "chi"        "**BOSS使用了火**"
+        "ico"        "icon_interact"
+    }
+    "#Teleport enable in 120sec..#"
+    {
+        "chi"        "**可能在120s后传送...**"
+    }
+    "#Teleport enable in 90sec..#"
+    {
+        "chi"        "**可能在90s后传送**"
+    }
+    "#Teleport enable in 60sec..#"
+    {
+        "chi"        "**60s后传送**"
+    }
+    "#Teleport enable in 30sec..#"
+    {
+        "chi"        "**30s后传送**"
+    }
+    "#Teleport enable in 5sec..#"
+    {
+        "chi"        "**5s后传送**"
+    }
+    "#Explode Dreamin in 45sec.. defend !#"
+    {
+        "chi"        "**45s后核爆！捍卫你的梦想！**"
+    }
+    "#What the fuck..!? Bomb was not worked.. wait some more time.. !#"
+    {
+        "chi"        "**什么鬼？！没有正常运作？！再等一会儿时间！**"
+    }
+    "#Explode Deamin in 10sec..#"
+    {
+        "chi"        "**10s爆炸！捍卫梦想！**"
+    }
+    "#You won difficulty Dreamin..#"
+    {
+        "chi"        "**你在困难dreamin中获胜了！**"
+    }
+    "#Elevator leave in 30 secounds left..#"
+    {
+        "chi"        "**电梯将在30s后离开**"
+    }
+    "***Zombie picked up Nuke***"
+    {
+        "chi"        "**僵尸获得了秒杀**"
+    }
+    "#Elevator leave in 5 secounds left..#"
+    {
+        "chi"        "**电梯将在5s后离开**"
+    }
+    "#Teleport enable in 30 seconds.. DEFEND !!#"
+    {
+        "chi"        "**将在30s后传送！守住！**"
+        "DoorCountDown"        "-1"
+    }
+    "#Dont let zombies touch tower..#"
+    {
+        "chi"        "**别让僵尸碰到塔**"
+    }
+    "#Teleport enable in 5 secounds left#"
+    {
+        "chi"        "**将在5s后传送**"
+    }
+    "#Defend until wall break#"
+    {
+        "chi"        "**守住等到墙爆炸！**"
+    }
+    "#Door will open in 15 seconds..#"
+    {
+        "chi"        "**门将会在15s后打开**"
+        "DoorCountDown"        "-1"
+    }
+    "#ELEVATOR LEAVE IN 25 SECOUNDS#"
+    {
+        "chi"        "**电梯将在25s后离开**"
+    }
+    "#ELEVATOR LEAVE IN 10 SECOUNDS#"
+    {
+        "chi"        "**电梯在10s后离开**"
+    }
+    "#Defend 15 seconds#"
+    {
+        "chi"        "**守住15s**"
+        "DoorCountDown"        "-1"
+    }
+    "#Nade do more Damage..#"
+    {
+        "chi"        "**Nade会造成更多伤害..**"
+    }
+    "#Boss preparing skill...#"
+    {
+        "chi"        "**BOSS准备技能中**"
+    }
+    "#Boss used Heal !#"
+    {
+        "chi"        "**BOSS使用了治疗**"
+    }
+    "#Boss used fire !#"
+    {
+        "chi"        "**BOSS使用了火**"
+        "ico"        "icon_interact"
+    }
+    "#Boss used Blade !#"
+    {
+        "chi"        "**BOSS使用了刀片**"
+        "ico"        "icon_interact"
+    }
+    "#Defend untill teleporter enable..#"
+    {
+        "chi"        "**守住!坚持到传送!**"
+    }
+    "#40 seconds left#"
+    {
+        "chi"        "**40s后离开**"
+        "DoorCountDown"        "-1"
+    }
+    "#Teleporter enable in 5 seconds#"
+    {
+        "chi"        "**5s后传送**"
+        "DoorCountDown"        "-1"
+    }
+    "#This is last defend..! Defend for Win!#"
+    {
+        "chi"        "**这是最后的守点！守住就赢了！**"
+    }
+    "#70 seconds left#"
+    {
+        "chi"        "**70s后离开**"
+        "DoorCountDown"        "-1"
+    }
+    "#Guardians will protect you..#"
+    {
+        "chi"        "**守护者会保护你**"
+    }
+    "#60 seconds left#"
+    {
+        "chi"        "**还有60秒**"
+        "DoorCountDown"        "-1"
+    }
+    "#50 seconds left#"
+    {
+        "chi"        "**还有50秒**"
+        "DoorCountDown"        "-1"
+    }
+    "#Player picked up ice item#"
+    {
+        "chi"        "**一名玩家捡起了冰**"
+    }
+    "#30 seconds left#"
+    {
+        "chi"        "** **"
+        "DoorCountDown"        "-1"
+    }
+    "#20 seconds left#"
+    {
+        "chi"        "** **"
+        "DoorCountDown"        "-1"
+    }
+    "#10 seconds left#"
+    {
+        "chi"        "**10s后离开**"
+        "DoorCountDown"        "-1"
+    }
+    "#You won difficulty Westersand..#"
+    {
+        "chi"        "**你在困难的Westersand中获胜了**"
+    }
+    "#Human victory in 240 seconds..#"
+    {
+        "chi"        "**人类在240s后获胜**"
+    }
+    "***Zombie picked up Gravity***"
+    {
+        "chi"        "**僵尸捡起了黑洞-爱的抱抱**"
+    }
+    "#180 Seconds Left..#"
+    {
+        "chi"        "**180s后离开**"
+    }
+    "#120 Seconds Left..#"
+    {
+        "chi"        "** **"
+        "DoorCountDown"        "-1"
+    }
+    "#60 Seconds Left..#"
+    {
+        "chi"        "**60s后离开**"
+        "DoorCountDown"        "-1"
+    }
+    "#Difficulty set on Gris..#"
+    {
+        "chi"        "** **"
+    }
+    "#ADMIN# Pressed Restart Round Button"
+    {
+        "chi"        "** **"
+    }
+    "#Difficulty set on Dreamin..#"
+    {
+        "chi"        "** **"
+    }
+    "#Boss used Jumper#"
+    {
+        "chi"        "**BOSS使用了跳跃攻击_(:з」∠)_**"
+        "ico"        "icon_interact"
+    }
+    "#Boss used Wind#"
+    {
+        "chi"        "**BOSS使用了风**"
+        "ico"        "icon_interact"
+    }
+    "#Boss used Blizzard !#"
+    {
+        "chi"        "**BOSS使用了暴雪**"
+        "ico"        "icon_interact"
+    }
+    "# FAILED #"
+    {
+        "chi"        "**失败了...哭唧唧...嘤嘤嘤**"
+    }
+    "#Boss used Tempest Wing !#"
+    {
+        "chi"        "**boss使用了暴风之翼**"
+    }
+    "#30 Seconds Left..#"
+    {
+        "chi"        "** **"
+        "DoorCountDown"        "-1"
+    }
+    "#15 Seconds Left..#"
+    {
+        "chi"        "** **"
+        "DoorCountDown"        "-1"
+    }
+    "#    5    #"
+    {
+        "chi"        "** **"
+        "DoorCountDown"        "-1"
+    }
+    "#    4    #"
+    {
+        "chi"        "** **"
+        "DoorCountDown"        "-1"
+    }
+    "#    3    #"
+    {
+        "chi"        "** **"
+        "DoorCountDown"        "-1"
+    }
+    "#    2    #"
+    {
+        "chi"        "** **"
+        "DoorCountDown"        "-1"
+    }
+    "#    1    #"
+    {
+        "chi"        "** **"
+        "DoorCountDown"        "-1"
+    }
+    "#Thanks to ZombieDen, Rss Server#"
+    {
+        "chi"        "** **"
+    }
+    "#Explode Dreamin in 10sec..#"
+    {
+        "chi"        "** **"
+    }
+    "sync_version"
+    {
+        "syncvalue"        "94798"
+    }
+    "#Mapper - sweetS  Special Thanks - Reflelia , Airvulpes , p0p , kune  Particle - Airvulpes#"
+    {
+        "chi"        "** **"
+    }
+    "***Zombie picked up Zombie Heal***"
+    {
+        "chi"        "** **"
+    }
+    "***Zombie picked up RailGun***"
+    {
+        "chi"        "** **"
+    }
+    "#Player picked up Earth item#"
+    {
+        "chi"        "** **"
+    }
+    "#Now you infinite ammo... defend#"
+    {
+        "chi"        "** **"
+    }
+    "#Bridge will break.. Fall Back !#"
+    {
+        "chi"        "**别站桥上-下来跳刀**"
+    }
+    "#ze_copy_escape#"
+    {
+        "chi"        "** **"
+    }
+    "#Thank you for helping me and playing this map.. Enjoy#"
+    {
+        "chi"        "** **"
+    }
+    "#Passage opens in 30 seconds#"
+    {
+        "chi"        "**道路30秒后打开**"
+    }
+    "#Floor breaks in 15 seconds#"
+    {
+        "chi"        "**地板15秒碎开**"
+    }
+    "#Door opens in 45 seconds#"
+    {
+        "chi"        "**大门45秒打开**"
+    }
+    "#Teleport activates in 5 seconds#"
+    {
+        "chi"        "**5秒后传送**"
+    }
+    "# Jump push enables in 30 seconds#"
+    {
+        "chi"        "**折返跃迁在30秒后启用**"
+    }
+    "#Last defend for 45 seconds#"
+    {
+        "chi"        "**坚持45秒-最终战役**"
+    }
+    "#Nade do more Damage#"
+    {
+        "chi"        "** **"
+    }
+    "#Teleport activates in 120sec..#"
+    {
+        "chi"        "**传送120秒后激活**"
+    }
+    "#Teleport activates in 90sec..#"
+    {
+        "chi"        "**后面都是传送倒计时-自己注意！**"
+    }
+    "#Teleport activates in 60sec..#"
+    {
+        "chi"        "** **"
+    }
+    "#Teleport activates in 30sec..#"
+    {
+        "chi"        "** **"
+    }
+    "#Teleport activates in 5sec..#"
+    {
+        "chi"        "**传送5秒后激活**"
+    }
+    "#Dreaming explodes in 45 seconds�� defend!#"
+    {
+        "chi"        "**该醒醒了-守住45秒**"
+    }
+    "#What the fuck!? The bomb didnt work.. wait some more time!#"
+    {
+        "chi"        "**嘤嘤嘤？炸弹坏了..再守一会**"
+    }
+    "#Dreamin explodes in 10 seconds#"
+    {
+        "chi"        "** **"
+    }
+    "#Elevator leaves in 30 seconds#"
+    {
+        "chi"        "**电梯还有30秒移动**"
+    }
+    "#Teleport enables in 30 seconds�� Defend!#"
+    {
+        "chi"        "**传送还有30秒，守住**"
+    }
+    "#Dont let zombies touch the tower��#"
+    {
+        "chi"        "**不要让僵尸碰到那些塔**"
+    }
+    "#Elevator leaves in 25 seconds#"
+    {
+        "chi"        "**电梯还有25秒上行**"
+    }
+    "#Elevator leaves  in 10 seconds#"
+    {
+        "chi"        "**电梯还有10秒上行**"
+    }
+    "#Defend until teleport activates#"
+    {
+        "chi"        "**坚持住直到传送**"
+    }
+    "#This is last defend�� ! Defend for the win!#"
+    {
+        "chi"        "** **"
+    }
+    "#Prepare To Die!!!#"
+    {
+        "chi"        "** **"
+    }
+    ">>LEVEL 1<<"
+    {
+        "chi"        "** **"
+    }
+    "<== Map made by qazlll456 [Hong Kong香港]==>"
+    {
+        "chi"        "** **"
+    }
+    "<== Also Thank [Syoudous] for helping testing the map ==>"
+    {
+        "chi"        "** **"
+    }
+    "#Boss used Crystal Rain#"
+    {
+        "chi"        "** **"
+    }
+    "#What the fuck!? The bomb didn't work.. wait some more time!#"
+    {
+        "chi"        "** **"
+    }
+    "#Don't let zombies touch the tower��#"
+    {
+        "chi"        "** **"
+    }
+    "#Boss used Z_Defend !#"
+    {
+        "chi"        "** **"
+    }
+    "** re shen 50 miao **"
+    {
+        "chi"        "** **"
+    }
+    "*** ze_Chrono_Trigger. ***"
+    {
+        "chi"        "** **"
+    }
+    ">> Map by Taskuvaras <<"
+    {
+        "chi"        "** **"
+    }
+}

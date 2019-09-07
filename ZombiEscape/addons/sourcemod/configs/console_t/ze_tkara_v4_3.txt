@@ -1,0 +1,252 @@
+"Console_T"
+{
+    "*** MAP BY PASS ***"
+    {
+        "chi"        "** 地图制作 by PASS 地图翻译 by 色狼领袖 **"
+    }
+    ">>> Hold until the City Doors Open! <<<"
+    {
+        "chi"        "** 守住这个地方直到大门开启 **"
+        "DoorCountDown"        "30"
+    }
+    "*** Cover the windows until we find a way out of here ***"
+    {
+        "chi"        "** 守住这道门以及这些窗户直到我们找到一条出口 **"
+    }
+    "*** Living room and kitchen windows are broken! ***"
+    {
+        "chi"        "** 客厅和厨房的窗户都被打破了!**（注意防守窗户不要贴边）"
+    }
+    "*** RESIST ***"
+    {
+        "chi"        "** 蹂躏僵尸 **"
+    }
+    "*** GET DOWN IN THE BASEMENT NOW ***"
+    {
+        "chi"        "** 到地下室去 **"
+    }
+    ">>> Elevator Leaves in 10 seconds !! <<"
+    {
+        "chi"        "** 电梯将在 10 秒后离开！！**"
+    }
+    ">>> Door Opens in 25 seconds <<<"
+    {
+        "chi"        "** 大门将在 25 秒后开启 **"
+    }
+    ">>> Door Opens in 15 seconds <<<"
+    {
+        "chi"        "** 大门将在 15 秒后开启 **"
+        "DoorCountDown"        "15"
+    }
+    "*** Facility door opens in 25 seconds ***"
+    {
+        "chi"        "** 工厂大门将在 25 秒后打开 **"
+        "DoorCountDown"        "25"
+    }
+    "*** Door Opens in 20 seconds ***"
+    {
+        "chi"        "** 门将在 20 秒后开启 **（在前面守住小门）"
+    }
+    "*** Silo doors open in 25 seconds ***"
+    {
+        "chi"        "** 通往发射井的扇形将在 25 秒后打开 **（回头防守！小心管道僵尸）"
+        "DoorCountDown"        "25"
+    }
+    "*** STARTING THE REACTORS... ***"
+    {
+        "chi"        "** 启动反应堆...**（前面箱子回头守住）"
+    }
+    "*** OH NO ***"
+    {
+        "chi"        "** OH！！NO!!!**"
+    }
+    "*** THE REACTOR CORES ARE GOING UNSTABLE ***"
+    {
+        "chi"        "** 反应堆堆芯不稳定 **"
+    }
+    "*** TRY TO ESCAPE THROUGH THE CARGO AREA ***"
+    {
+        "chi"        "** 尝试逃离这个地方 **"
+    }
+    "*** YOU NEED TO MAKE YOUR WAY TO THE BUNKER BELOW SECTOR 1 ***"
+    {
+        "chi"        "** 通过控制室大门，你们需要寻找一条路通往地下堡垒并防守住**（要去后面的扇形门）"
+    }
+    "*** SECTOR 1 DOORS SHOULD OPEN SOON! ***"
+    {
+        "chi"        "**  控制室大门将会尽快开启 **（撤退是右边的控制室，跟着地上箭头走）"
+        "DoorCountDown"        "32"
+    }
+    "*** RESIST! ***"
+    {
+        "chi"        "** 继续蹂躏僵尸！**"
+    }
+    "*** THIS PLACE IS GOING TO BLOW UP IN 2 MINUTES ***"
+    {
+        "chi"        "** 这个地方在 2 分钟以后就要爆炸了 **"
+    }
+    "*** CARGO AREA DOOR SHOULD OPEN SOON! ***"
+    {
+        "chi"        "** 货仓门将会尽快起开！ **"
+    }
+    "*** LAST TRAIN OUT OF HERE LEAVES IN 45 SECONDS ***"
+    {
+        "chi"        "** 火车会在 45 秒后驶离 **（货物区直走到底然后右拐可以上火车，但是不要急着上火车，先在前面防守一波）"
+        "DoorCountDown"        "45"
+    }
+    "*** THIS PLACE IS GOING TO BLOW UP IN 1 MINUTE ***"
+    {
+        "chi"        "**还有 60 秒这个地方就要被炸飞!**"
+        "DoorCountDown"        "60"
+    }
+    "*** Both living room windows are broken! ***"
+    {
+        "chi"        "**客厅的窗户被打破了!**（注意防守窗户不要贴边）"
+    }
+    "*** TRAIN IS LEAVING NOW ***"
+    {
+        "chi"        "** 火车正在驶离 **"
+    }
+    "*** Door opens in 25 seconds ***"
+    {
+        "chi"        "** 门将在 25 秒后开启 **"
+        "DoorCountDown"        "25"
+    }
+    "*** Bathroom and kitchen windows are broken! ***"
+    {
+        "chi"        "** 浴室和厨房的窗户被打破了！**（注意防守窗户不要贴边）"
+    }
+    "*** ELEVATOR DOORS OPEN IN 30 SECONDS ***"
+    {
+        "chi"        "** 电梯将在 30 后打开**"
+        "DoorCountDown"        "30"
+    }
+    "*** DOORS ARE OPENING ***"
+    {
+        "chi"        "** 电梯门开启 **"
+    }
+    "*** Elevator leaves in 5 seconds ***"
+    {
+        "chi"        "** 电梯将在 5 秒后离开**（电梯门在后面，出门右拐）"
+    }
+    "*** THAT DIDNT SOUND GOOD ***"
+    {
+        "chi"        "** 这种声音听起来很带感 **"
+    }
+    "*** THE WHOLE UNDERGROUND COMPLEX SEEMS TO EXPLODE SOON ***"
+    {
+        "chi"        "** 整个地下似乎就快要爆炸了！ **"
+    }
+    "*** MAKE YOUR WAY TO THE AIRFIELD ***"
+    {
+        "chi"        "** 寻找一条通往机场的路 **"
+    }
+    "*** THERE SHOULD BE A PLANE LEAVING SOON ***"
+    {
+        "chi"        "** 应该有一架很快就要离开这里的飞机 **（不要急着上飞机，在有路障的地方拖延一会儿）"
+    }
+    "*** IN 1 MINUTE THIS WHOLE PLACE BLOWS UP ***"
+    {
+        "chi"        "** 再过 1 分钟这个就要爆炸了 **"
+    }
+    "*** PLANE IS READY TO LEAVE ***"
+    {
+        "chi"        "** 飞机准备离开 **"
+    }
+    "*** GET ON NOW ***"
+    {
+        "chi"        "** 快上飞机！**"
+    }
+    "*** ZOMBIE ON THE PLANE ***"
+    {
+        "chi"        "** 检测到飞机上存在僵尸 **"
+    }
+    "*** INVALID VICTORY ***"
+    {
+        "chi"        "** 胜利无效 **"
+    }
+    "*** HUMANS LOSE ***"
+    {
+        "chi"        "**人类失败**"
+    }
+    "*** ZOMBIE ON THE TRAIN ***"
+    {
+        "chi"        "**僵尸在火车上!!**"
+    }
+    "sync_version"
+    {
+        "syncvalue"        "41849"
+    }
+    "*** Bathroom and living room windows are broken! ***"
+    {
+        "chi"        "**浴室和厨房的窗户被打破了.**"
+    }
+    "*** Kitchen and living room windows are broken! ***"
+    {
+        "chi"        "**厨房和客厅的窗户被打破了**"
+    }
+    "*** ELEVATOR DOORS OPEN IN 40 SECONDS ***"
+    {
+        "chi"        "**逃生大门将在 40 秒后开启.**"
+    }
+    "*** LAST TRAIN OUT OF HERE LEAVES IN 70 SECONDS ***"
+    {
+        "chi"        "**距离末班车离开还有 70 秒.**"
+    }
+    "*** THIS PLACE IS GOING TO BLOW UP IN 85 SECONDS ***"
+    {
+        "chi"        "**距离此处被炸飞还有 85 秒!**"
+    }
+    "The server is about to close the update ,Please update your game"
+    {
+        "chi"        "**感谢体验本地图,,祝大家玩得开心.**"
+    }
+    "*** MAP BY P'A'SS ***"
+    {
+        "chi"        "** **"
+    }
+    "*** Map by : Airvulpes ***"
+    {
+        "chi"        "** **"
+    }
+    "*** Difficulty : Disuse ***"
+    {
+        "chi"        "** **"
+    }
+    ">>LEVEL 1<<"
+    {
+        "chi"        "** **"
+    }
+    "*** What is this? ***"
+    {
+        "chi"        "** **"
+    }
+    "*** What is happening? ***"
+    {
+        "chi"        "** **"
+    }
+    "*** TIMES UP ***"
+    {
+        "chi"        "** **"
+    }
+    "*** We got a winner ***"
+    {
+        "chi"        "** **"
+    }
+    "*** Losers shall die! ***"
+    {
+        "chi"        "** **"
+    }
+    "** re shen 50 miao **"
+    {
+        "chi"        "** **"
+    }
+    "***MAP BY - LUFFAREN***"
+    {
+        "chi"        "** **"
+    }
+    "***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
+    {
+        "chi"        "** **"
+    }
+}

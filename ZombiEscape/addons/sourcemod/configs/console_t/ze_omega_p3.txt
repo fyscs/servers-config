@@ -1,0 +1,83 @@
+"Console_T"
+{
+    "***Cargo Door Opens in 10 Seconds***"
+    {
+        "chi"        "**货舱门在十秒后打开**"
+    }
+    "***Testlab Door3 Opens in 5 Seconds***"
+    {
+        "chi"        "**实验室3号门在5秒后打开**"
+    }
+    "***Bridge Activated***"
+    {
+        "chi"        "**桥激活了**"
+    }
+    "***Main Testlab Door Opens in 10 Seconds***"
+    {
+        "chi"        "**10秒后打开实验室主门**"
+    }
+    "***Bridge Deactivated***"
+    {
+        "chi"        "**桥失效了**"
+    }
+    "***CartControl Door Opens in 5 Seconds***"
+    {
+        "chi"        "**车的控制门在5秒后打开（WTF）**"
+    }
+    "***Cart Control Door closes in 5 Seconds***"
+    {
+        "chi"        "**车的控制门在5秒后关闭**"
+    }
+    "***Rail Cart leaves in 5 seconds***"
+    {
+        "chi"        "**轨道车在5秒后离开**"
+    }
+    "***Water Flow 5 Seconds***"
+    {
+        "chi"        "**水流动5秒**"
+    }
+    "***Refinery hatches opening***"
+    {
+        "chi"        "**炼油厂的舱口打开了**"
+    }
+    "***Error Overflow dangerous chemicals detected***"
+    {
+        "chi"        "**检测到错误 危险化学品溢出**"
+    }
+    "***Tram Tunnel Door opens in 1 Minute***"
+    {
+        "chi"        "**电车隧道门在60秒后开启**"
+    }
+    "***Tram Starts in 5 Seconds***"
+    {
+        "chi"        "**电车在5秒后开动！**"
+    }
+    "***Testlab Door2 Opens in 5 Seconds***"
+    {
+        "chi"        "**实验室2号门在5秒后开启**"
+    }
+    "++ ZE_ITALY_TOWN ++"
+    {
+        "chi"        "** **"
+    }
+    ">> ZE_ERROR <<"
+    {
+        "chi"        "** **"
+    }
+    "Map By: Bill Smauz"
+    {
+        "chi"        "** **"
+    }
+    "Map For: www.zombiemurder.com"
+    {
+        "chi"        "** **"
+    }
+    "<== Map made by qazlll456 [Hong Kong]==>"
+    {
+        "chi"        "** **"
+    }
+    "<== Also Thank [Syoudous] for helping testing the map ==>"
+    {
+        "chi"        "** **"
+    }
+}

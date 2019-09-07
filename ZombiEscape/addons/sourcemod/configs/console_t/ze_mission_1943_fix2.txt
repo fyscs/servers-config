@@ -1,0 +1,206 @@
+"Console_T"
+{
+    "MapGlobal_ConVars"
+    {
+        "0"
+        {
+            "cvar"        "sm_lockroundtime 50"
+        }
+        "1"
+        {
+            "cvar"        "sm_he_limit 5"
+        }
+        "2"
+        {
+            "cvar"        "sm_smoke_limit 1"
+        }
+        "3"
+        {
+            "cvar"        "sm_molotov_limit 2"
+        }
+        "4"
+        {
+            "cvar"        "sm_smoke_limit 2"
+        }
+    }
+    "sync_version"
+    {
+        "syncvalue"        "68595"
+    }
+    "*** Door Opens in 20 seconds ***"
+    {
+        "chi"        "**20秒后门开**"
+    }
+    "**Open**"
+    {
+        "chi"        "**门开了**"
+    }
+    "***1st zombie teleport at 10second***"
+    {
+        "chi"        "**第一只僵尸将在10s后传送**"
+    }
+    "**Map made by Binbow**"
+    {
+        "chi"        "**地图作者：Binbow**"
+    }
+    "***2nd zombie teleport at 10second***"
+    {
+        "chi"        "**第二个僵尸传送点10秒后激活**"
+    }
+    "***3rd zombie teleport at 10second***"
+    {
+        "chi"        "**第三个僵尸传送点10秒后激活**"
+    }
+    "*** Do not over defense ***"
+    {
+        "chi"        "**开枪守住，别划水**"
+    }
+    "***Run!***"
+    {
+        "chi"        "**快跑！**"
+    }
+    "***4th zombie teleport at 10second***"
+    {
+        "chi"        "**第四个僵尸传送点10秒后激活**"
+    }
+    "***Keep defending at 40sec***"
+    {
+        "chi"        "**守住40秒**"
+    }
+    "***Come inside***"
+    {
+        "chi"        "**快进去！**"
+    }
+    "***Defend for 20 seconds.***"
+    {
+        "chi"        "**守住，20秒后门开**"
+    }
+    "***Dont stop defense! Lets door hug for trigger.***"
+    {
+        "chi"        "**开枪刷僵尸，别贴门**"
+    }
+    "***Keep defending***"
+    {
+        "chi"        "**开枪守住**"
+    }
+    "***Defend for 45 seconds.***"
+    {
+        "chi"        "**守住45秒**"
+    }
+    "***OPEN***"
+    {
+        "chi"        "**门开了**"
+    }
+    "***Defend for 30 seconds.***"
+    {
+        "chi"        "**守住30秒**"
+    }
+    "***Get in the army tank!!***"
+    {
+        "chi"        "**上坦克!!**"
+    }
+    "***Panzer vor!***"
+    {
+        "chi"        "**坦克!**"
+    }
+    "***Do not fall and go side land ***"
+    {
+        "chi"        "**不要掉到路边**"
+    }
+    "***Zombie can teleport and attack human***"
+    {
+        "chi"        "**僵尸可以传送并攻击人类**"
+    }
+    "***Keep defending 1min***"
+    {
+        "chi"        "**守住60秒**"
+    }
+    "***Left side zombie teleport on ***"
+    {
+        "chi"        "**左侧僵尸传送开启**"
+    }
+    "***We can escape at this aircraft***"
+    {
+        "chi"        "**我们可以从这架飞机上逃走**"
+    }
+    "*** take off aircraft in 20 seconds***"
+    {
+        "chi"        "**20秒后起飞**"
+    }
+    "*** Fall back!***"
+    {
+        "chi"        "**退后**"
+    }
+    "***5***"
+    {
+        "chi"        "** **"
+    }
+    "***4***"
+    {
+        "chi"        "** **"
+    }
+    "***3***"
+    {
+        "chi"        "** **"
+    }
+    "***2***"
+    {
+        "chi"        "** **"
+    }
+    "***1***"
+    {
+        "chi"        "** **"
+    }
+    "***Shoot!***"
+    {
+        "chi"        "**开枪**"
+    }
+    "***Final defense for 25 second***"
+    {
+        "chi"        "**最后防守25秒**"
+    }
+    "*1943 Mission complete*"
+    {
+        "chi"        "** **"
+    }
+    "**level 1**"
+    {
+        "chi"        "** **"
+    }
+    "**Map By Batnik_Reference.smd and ShotT **"
+    {
+        "chi"        "** **"
+    }
+    "<<< Level 1 >>>"
+    {
+        "chi"        "** **"
+    }
+    "* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
+    {
+        "chi"        "** **"
+    }
+    "* * * Choose the first MINIGAME * * *"
+    {
+        "chi"        "** **"
+    }
+    "*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
+    {
+        "chi"        "** **"
+    }
+    "***Map ported by ??????***"
+    {
+        "chi"        "** **"
+    }
+    "*** CURRENT MODE: EASY ***"
+    {
+        "chi"        "** **"
+    }
+    "*** MAP BY STRUPPI ***"
+    {
+        "chi"        "** **"
+    }
+    "**map by koyomaple**"
+    {
+        "chi"        "** **"
+    }
+}

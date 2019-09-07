@@ -1,0 +1,636 @@
+"Console_T"
+{
+    "** !!! THIS IS A WARMUP ROUND !!! **"
+    {
+        "chi"        "**！！！这局是热身赛！！！ **"
+    }
+    "** !!! WAITING FOR MORE PLAYERS !!! **"
+    {
+        "chi"        "**！！！等待更多玩家！！！ **"
+    }
+    ">>>Map by CriSsys<<<"
+    {
+        "chi"        "*地图制作：CriSsys 地图翻译：八雲紫 **"
+    }
+    ">>>Help tips opinions and adjustements by Aeris004<<<"
+    {
+        "chi"        "**感谢Aeris004提供建议和调整 **"
+    }
+    ">>>Thanks to FireWavezZ<<<"
+    {
+        "chi"        "**特别鸣谢：FireWavezZ **"
+    }
+    "** !!! GAME WILL START IN FEW SECOND !!! **"
+    {
+        "chi"        "**！游戏将在几秒钟内开始！ **"
+    }
+    "** !!! CURRENT DIFFICULTY : EASY !!! **"
+    {
+        "chi"        "**! ! !目前难度:简单! ! ! **"
+    }
+    ">>>Type mat_colorcorrection 1 for a better illumination<<<"
+    {
+        "chi"        "**输入 mat_colorcorrection 1 来获得更好的光照 **"
+    }
+    "** Naruto will open the way ! Follow him ! **"
+    {
+        "chi"        "**鸣人会来带路!跟他走! **"
+    }
+    "** HOLD THIS POSTION **"
+    {
+        "chi"        "**坚守这个位置 **"
+    }
+    "** AFK CLEANING IN SPAWN SECTION IN 10s **"
+    {
+        "chi"        "**10秒后传送在出生点的挂机玩家 **"
+    }
+    "** 20 SECONDS LEFT **"
+    {
+        "chi"        "** 还剩20秒**"
+        "DoorCountDown"        "20"
+    }
+    "** Cave way will open in 20s ! **"
+    {
+        "chi"        "**洞穴的路将于20秒内开放！ **"
+        "DoorCountDown"        "20"
+    }
+    "** AFK CLEANING IN SPAWN SECTION **"
+    {
+        "chi"        "**清理在出生点的挂机玩家 **"
+    }
+    "** 10 SECONDS LEFT **"
+    {
+        "chi"        "**还剩10秒 **"
+    }
+    "** Cave way will open in 10s ! **"
+    {
+        "chi"        "**洞穴的路将在10秒内开放！ **"
+    }
+    "** 5 SECONDS LEFT **"
+    {
+        "chi"        "**还剩5秒 **"
+    }
+    "** DOORS OPENING NOW **"
+    {
+        "chi"        "**门已经开启 **"
+    }
+    "** HOLD THIS POSITION **"
+    {
+        "chi"        "**坚守这个位置 **"
+    }
+    "** CITY's AFK TELEPORT IN 10s **"
+    {
+        "chi"        "**城里的挂机玩家将在10秒内传送 **"
+    }
+    "** CITY's AFK TELEPORT **"
+    {
+        "chi"        "**城里的挂机玩家已传送 **"
+    }
+    "** 20 SECOND LEFT **"
+    {
+        "chi"        "**还剩20秒 **"
+        "DoorCountDown"        "20"
+    }
+    "** 10 SECOND LEFT **"
+    {
+        "chi"        "**还剩10秒 **"
+    }
+    "** 5 SECOND LEFT **"
+    {
+        "chi"        "**还剩5秒 **"
+    }
+    "** FORTRESS AFK TELEPORT IN 10s **"
+    {
+        "chi"        "**堡垒的挂机玩家将在10秒内传送 **"
+    }
+    "** FORTRESS AFK TELEPORT **"
+    {
+        "chi"        "**堡垒的挂机玩家已传送 **"
+    }
+    "** !!! NEXT DIFFICULTY : NORMAL !!! **"
+    {
+        "chi"        "** ! ! !下一个难度:正常! ! !**"
+    }
+    "** !!! CURRENT DIFFICULTY : NORMAL !!! **"
+    {
+        "chi"        "**！！！目前难度：正常！！！ **"
+    }
+    "** !!! NEXT DIFFICULTY : HARD !!! **"
+    {
+        "chi"        "**！！！下一个难度：困难！！！ **"
+    }
+    "** !!! CURRENT DIFFICULTY : HARD !!! **"
+    {
+        "chi"        "**！！！目前难度：困难！！！ **"
+    }
+    "** DOOR WILL OPEN IN 10 SECONDS **"
+    {
+        "chi"        "**门将在10秒内打开 **"
+        "DoorCountDown"        "10"
+    }
+    "** Door will open in 5 seconds **"
+    {
+        "chi"        "**门将在5秒内打开 **"
+    }
+    "** YOU NEED TO DEFEND THE TOWN 45s **"
+    {
+        "chi"        "**你需要坚守小镇45秒 **"
+        "DoorCountDown"        "45"
+    }
+    "** DEFEND AGAIN 30s **"
+    {
+        "chi"        "**再防守30秒 **"
+    }
+    "** NARUTO HAS BEEN KILLED BY ZOMBIES **"
+    {
+        "chi"        "**鸣人已经被僵尸杀死 **"
+    }
+    "** HUMANS NOW CAN'T PROTECT THE VILLAGE **"
+    {
+        "chi"        "**人类现在无法保护村子 **"
+    }
+    "** NEXT DIFFICULTY : HARD **"
+    {
+        "chi"        "**下一个难度：困难 **"
+    }
+    "** DEFEND AGAIN 20s **"
+    {
+        "chi"        "**再防守20秒 **"
+    }
+    "** DEFEND AGAIN 10s **"
+    {
+        "chi"        "**再防守10秒 **"
+    }
+    "** DEFEND AGAIN 5s **"
+    {
+        "chi"        "**再防守5秒 **"
+    }
+    "** NEXT DIFFICULTY : EXTREME **"
+    {
+        "chi"        "**下一个难度：极限 **"
+    }
+    "** HUMANS SUCCEFULLY DEFEND KONOHA **"
+    {
+        "chi"        "**人类成功守护了木叶村 **"
+    }
+    "** KILL ALL ZOMBIE SURVIVOR **"
+    {
+        "chi"        "**杀死所有存活的僵尸 **"
+    }
+    "** !!! CURRENT DIFFICULTY EXTREME !!! **"
+    {
+        "chi"        "**！！！当前难度：极限！！！ **"
+    }
+    "** Naruto is fighting with Sasuke ! Go try to find and help him ! **"
+    {
+        "chi"        "**鸣人正在和佐助战斗！尝试找到并帮助他！ **"
+    }
+    "** NARUTO IS FIGHTING AGAINST SASUKE **"
+    {
+        "chi"        "**鸣人正在和佐助战斗 **"
+    }
+    "** HELP HIM TO DEFEAT SASUKE AND WIN **"
+    {
+        "chi"        "**帮助鸣人打败佐助并通关 **"
+    }
+    ">> 9 MINUTES TO ESCAPE <<"
+    {
+        "chi"        "**你们有9分钟的时间来逃离 **"
+    }
+    "** NARUTO WILL USE AN ATTACK. STAY IN THE MIDDLE **"
+    {
+        "chi"        "**鸣人将会攻击。待在中间的位置 **"
+    }
+    "** SASUKE PREPARE A NEW ATTACK. KEEP SHOOTING **"
+    {
+        "chi"        "**佐助准备发动新的攻击。持续射击！ **"
+    }
+    "** KILL ALL CLONES BEFORE THEY ATTACK **"
+    {
+        "chi"        "**在所有分身攻击前杀死他们 **"
+    }
+    "** USE YOUR GRENADE TO MAKE MORE DAMAGE **"
+    {
+        "chi"        "**手雷能够造成大量伤害 **"
+    }
+    "** NARUTO PREPARE IS FINAL ATTACK. HE WILL USE YOUR POWER **"
+    {
+        "chi"        "**鸣人准备最后的攻击。他会借用你的力量 **"
+    }
+    "** DON'T LET SASUKE MAKE A NEW ATTACK **"
+    {
+        "chi"        "**阻止佐助做出新的攻击 **"
+    }
+    "** KILL HIM BEFORE NARUTO USE HIS ATTACK **"
+    {
+        "chi"        "**在鸣人攻击前杀死佐助 **"
+    }
+    "** YOU DID IT !!! YOU DEFETEAD SASUKE **"
+    {
+        "chi"        "**你做到了！！！你打败了佐助 **"
+    }
+    "** YOU BIT EXTREME DIFFICULTY **"
+    {
+        "chi"        "**你战胜了极限难度 **"
+    }
+    "** YOU CAN CHOOSE THE NEXT DIFFICULTY **"
+    {
+        "chi"        "**你可以选择下一个难度 **"
+    }
+    "** CITYs AFK TELEPORT IN 10s **"
+    {
+        "chi"        "**城里的挂机玩家将在10秒内传送 **"
+    }
+    "** CITYs AFK TELEPORT **"
+    {
+        "chi"        "**城里的挂机玩家已传送 **"
+    }
+    "** HUMANS NOW CANT PROTECT THE VILLAGE **"
+    {
+        "chi"        "**人类现在无法保护村庄 **"
+    }
+    "** DONT LET SASUKE MAKE A NEW ATTACK **"
+    {
+        "chi"        "**阻止佐助作出新的攻击 **"
+    }
+    "** NARUTO USED YOUR POWER... YOU CANT HELP HIM ANYMORE **"
+    {
+        "chi"        "**鸣人借用了你的力量...你不能再帮助他了 **"
+    }
+    "** NEXT DIFFICULTY : NORMAL **"
+    {
+        "chi"        "**下一个难度：正常 **"
+    }
+    "** You bit the extreme mode !! You dont need narutos help anymore **"
+    {
+        "chi"        "** **"
+    }
+    "** NEXT DIFFICULTY : EASY **"
+    {
+        "chi"        "** **"
+    }
+    "sync_version"
+    {
+        "syncvalue"        "21312"
+    }
+    "***!!! THIS IS A WARMUP ROUND !!!***"
+    {
+        "chi"        "**热身时间**"
+    }
+    "***!!! WAITING FOR MORE PLAYERS !!!***"
+    {
+        "chi"        "**等待玩家**"
+    }
+    "***!!! FIRST ZOMBIE INFECTION DISABLE FOR THIS ROUND !!!***"
+    {
+        "chi"        "** **"
+    }
+    "***!!! GAME WILL START IN FEW SECOND !!!***"
+    {
+        "chi"        "** **"
+    }
+    "***!!! CURRENT DIFFICULTY : EASY !!!***"
+    {
+        "chi"        "** **"
+    }
+    "***Naruto will open the way ! Follow him !***"
+    {
+        "chi"        "**紧跟鸣人**"
+    }
+    "***HOLD THIS POSTION***"
+    {
+        "chi"        "**守住这里**"
+    }
+    "***20 SECONDS LEFT***"
+    {
+        "chi"        "**守住20秒**"
+    }
+    "***Cave way will open in 20s !***"
+    {
+        "chi"        "** **"
+    }
+    "***10 SECONDS LEFT***"
+    {
+        "chi"        "**还有10秒**"
+    }
+    "***Cave way will open in 10s !***"
+    {
+        "chi"        "**山洞10秒后打开**"
+    }
+    "***5 seconds left***"
+    {
+        "chi"        "**还有5秒**"
+    }
+    "***DOORS OPENING NOW***"
+    {
+        "chi"        "** **"
+    }
+    "***HOLD THIS POSITION***"
+    {
+        "chi"        "** **"
+    }
+    "***CITY AFK TELEPORT IN 10s***"
+    {
+        "chi"        "** **"
+    }
+    "***15 SECOND LEFT***"
+    {
+        "chi"        "** **"
+    }
+    "***10 SECOND LEFT***"
+    {
+        "chi"        "** **"
+    }
+    "***5 SECOND LEFT***"
+    {
+        "chi"        "** **"
+    }
+    "***FORTRESS AFK TELEPORT IN 10s***"
+    {
+        "chi"        "** **"
+    }
+    "***FORTRESS AFK TELEPORT***"
+    {
+        "chi"        "** **"
+    }
+    "***!!! NEXT DIFFICULTY : NORMAL !!!***"
+    {
+        "chi"        "** **"
+    }
+    "***!!! CURRENT DIFFICULTY : NORMAL !!!***"
+    {
+        "chi"        "** **"
+    }
+    "*** A bike has been found! Someone is ready for the 100th Tour De France! ***"
+    {
+        "chi"        "** **"
+    }
+    "***25 SECONDS LEFT***"
+    {
+        "chi"        "** **"
+    }
+    "***30 SECONDS LEFT***"
+    {
+        "chi"        "** **"
+    }
+    "***20 SECOND LEFT***"
+    {
+        "chi"        "** **"
+    }
+    "***DOOR WILL OPEN IN 15 SECONDS***"
+    {
+        "chi"        "** **"
+    }
+    "***DOOR WILL OPEN IN 5 SECONDS***"
+    {
+        "chi"        "** **"
+    }
+    "***SECOND DOOR WILL OPEN IN 15 SECONDS***"
+    {
+        "chi"        "** **"
+    }
+    "***!!! NEXT DIFFICULTY : HARD !!!***"
+    {
+        "chi"        "** **"
+    }
+    "***!!! CURRENT DIFFICULTY : HARD !!!***"
+    {
+        "chi"        "** **"
+    }
+    "***40 SECONDS LEFT***"
+    {
+        "chi"        "** **"
+    }
+    "***30 SECOND LEFT***"
+    {
+        "chi"        "** **"
+    }
+    "***SECOND DOOR WILL OPEN IN 30 SECONDS***"
+    {
+        "chi"        "** **"
+    }
+    "***SECOND DOOR WILL OPEN IN 5 SECONDS***"
+    {
+        "chi"        "** **"
+    }
+    "***YOU NEED TO DEFEND THE TOWN 1MIN***"
+    {
+        "chi"        "** **"
+    }
+    "***DEFEND AGAIN 45s***"
+    {
+        "chi"        "** **"
+    }
+    "***DEFEND AGAIN 30s***"
+    {
+        "chi"        "** **"
+    }
+    "***NARUTO HAS BEEN KILLED BY ZOMBIES***"
+    {
+        "chi"        "** **"
+    }
+    "***HUMANS NOW CANT PROTECT THE VILLAGE***"
+    {
+        "chi"        "** **"
+    }
+    "***DEFEND AGAIN 15s***"
+    {
+        "chi"        "** **"
+    }
+    "***DEFEND AGAIN 10s***"
+    {
+        "chi"        "** **"
+    }
+    "***DEFEND AGAIN 5s***"
+    {
+        "chi"        "** **"
+    }
+    "***HUMANS SUCCEFULLY DEFEND KONOHA***"
+    {
+        "chi"        "** **"
+    }
+    "***KILL ALL ZOMBIE SURVIVOR***"
+    {
+        "chi"        "** **"
+    }
+    "***NEXT DIFFICULTY  EXTREM***"
+    {
+        "chi"        "** **"
+    }
+    "*** A bike has been found! Someone is ready for the 100th ''Tour De France''! ***"
+    {
+        "chi"        "** **"
+    }
+    "***HUMANS NOW CAN'T PROTECT THE VILLAGE***"
+    {
+        "chi"        "** **"
+    }
+    "***!!! CURRENT DIFFICULTY EXTREM !!!***"
+    {
+        "chi"        "** **"
+    }
+    "***Naruto is fighting Sasuke! Go find and help him!***"
+    {
+        "chi"        "** **"
+    }
+    "***35 SECONDS LEFT***"
+    {
+        "chi"        "** **"
+    }
+    "***45 SECONDS LEFT***"
+    {
+        "chi"        "** **"
+    }
+    "***40 SECOND LEFT***"
+    {
+        "chi"        "** **"
+    }
+    "*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+    {
+        "chi"        "** **"
+    }
+    "*** map created by thas ***"
+    {
+        "chi"        "** **"
+    }
+    "<<< Map by Jllaneras >>>"
+    {
+        "chi"        "** **"
+    }
+    "<<< Trial 1 >>>"
+    {
+        "chi"        "** **"
+    }
+    "**level 1**"
+    {
+        "chi"        "** **"
+    }
+    "**Map By Batnik_Reference.smd and ShotT **"
+    {
+        "chi"        "** **"
+    }
+    "***Welcome***"
+    {
+        "chi"        "** **"
+    }
+    "***Map made by Qahnaarin***"
+    {
+        "chi"        "** **"
+    }
+    "***Map by Luffaren***"
+    {
+        "chi"        "** **"
+    }
+    "***NARUTO IS FIGHTING AGAINST SASUKE***"
+    {
+        "chi"        "** **"
+    }
+    "***DEFEAT SASUKE BEFORE NARUTO UNLEASHES HIS POWERFUL ATTACK***"
+    {
+        "chi"        "** **"
+    }
+    "***NARUTO WILL SOON USE HIS SPECIAL ATTACK.***"
+    {
+        "chi"        "** **"
+    }
+    "***SASUKE IS PREPARING HIS ATTACK! WATCH OUT!***"
+    {
+        "chi"        "** **"
+    }
+    "***SASUKE HAS CLONED HIMSELF***"
+    {
+        "chi"        "** **"
+    }
+    "***KILL ALL CLONES BEFORE THEY ATTACK***"
+    {
+        "chi"        "** **"
+    }
+    "***USE YOUR GRENADE TO DO MORE DAMAGE***"
+    {
+        "chi"        "** **"
+    }
+    "***SASUKE SUCCEEDED HIS ATTACK***"
+    {
+        "chi"        "** **"
+    }
+    "***WE DON'T HAVE THE RIGHT TO MAKE ANOTHER ERROR***"
+    {
+        "chi"        "** **"
+    }
+    "***NARUTO IS PREPARING HIS FINAL ATTACK. HE WILL USE YOUR REMAINING HEALTH!***"
+    {
+        "chi"        "** **"
+    }
+    "***DEFEAT SASUKE BEFORE NARUTO USES HIS ULTIMATE ATTACK***"
+    {
+        "chi"        "** **"
+    }
+    "***NARUTO USED YOUR POWER... YOU CAN'T HELP HIM ANYMORE***"
+    {
+        "chi"        "** **"
+    }
+    "***YOU DID IT !!! YOU DEFEATED SASUKE***"
+    {
+        "chi"        "** **"
+    }
+    "***YOU BEAT EXTREME DIFFICULTY***"
+    {
+        "chi"        "** **"
+    }
+    "***YOU CAN CHOOSE THE NEXT DIFFICULTY***"
+    {
+        "chi"        "** **"
+    }
+    "***NEXT DIFFICULTY : NORMAL ***"
+    {
+        "chi"        "** **"
+    }
+    "***Welcome to Crazy Kart***"
+    {
+        "chi"        "** **"
+    }
+    "***Thanks to Enviolinador for the green shell bouncevector logic***"
+    {
+        "chi"        "** **"
+    }
+    "***NEXT DIFFICULTY : EXTREM ***"
+    {
+        "chi"        "** **"
+    }
+    "***NEXT DIFFICULTY : EASY ***"
+    {
+        "chi"        "** **"
+    }
+    "** ZE_SUPERSHITSHOW **"
+    {
+        "chi"        "** **"
+    }
+    "** A mode will be chosen shortly... **"
+    {
+        "chi"        "** **"
+    }
+    "<< ze_surf_virtus >>"
+    {
+        "chi"        "** **"
+    }
+    "<< Fix by : Lishang >>"
+    {
+        "chi"        "** **"
+    }
+    "*** ze_Chrono_Trigger. ***"
+    {
+        "chi"        "** **"
+    }
+    "LEVEL: EASY"
+    {
+        "chi"        "** **"
+    }
+    "***Admin Room Abuse ! Next Difficulty : Extrem ***"
+    {
+        "chi"        "** **"
+    }
+    "***Admin Room Abuse ! Next Difficulty : Hard ***"
+    {
+        "chi"        "** **"
+    }
+}

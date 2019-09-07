@@ -1,0 +1,225 @@
+"Console_T"
+{
+    "*** Invulnerability has been picked up. ***"
+    {
+        "chi"        "**一名玩家捡起了 无敌**"
+    }
+    "*** Invulnerability has a cooldown of 60 secs. ***"
+    {
+        "chi"        "**无敌 的CD为60秒**"
+    }
+    "*** Flamethrower has been picked up. ***"
+    {
+        "chi"        "**一名玩家捡起了喷火器**"
+    }
+    "*** Flamethrower lasts about 16 secs and can be toggled. ***"
+    {
+        "chi"        "**喷火器的燃料总共有16秒（喷一口记得关掉）**"
+        "DoorCountDown"        "-1"
+    }
+    "**Elevator 1 Leaving in 60 seconds**"
+    {
+        "chi"        "**一号电梯60秒后离开**"
+    }
+    "**Elevator 2 Leaving in 60 seconds**"
+    {
+        "chi"        "**二号电梯60秒后离开**"
+        "DoorCountDown"        "60"
+    }
+    "**Elevator 1 Leaving in 5 seconds**"
+    {
+        "chi"        "**一号电梯5秒后离开**"
+    }
+    "**Elevator 2 Leaving in 5 seconds**"
+    {
+        "chi"        "**二号电梯5秒后离开**"
+    }
+    "**Elevator 1 has left**"
+    {
+        "chi"        "**一号电梯启动！**"
+    }
+    "**Elevator 2 has left**"
+    {
+        "chi"        "**二号电梯启动！**"
+    }
+    "**Mass teleport for everyone down below in 30 secs.**"
+    {
+        "chi"        "**30秒后没跑到外面的都得传送！**"
+    }
+    "*** Zombie Rage has been picked up. ***"
+    {
+        "chi"        "**一只僵尸捡到了 加速**"
+    }
+    "*** Zombie Rage has a cooldown of 60 secs. ***"
+    {
+        "chi"        "**加速 有60秒CD**"
+    }
+    "*** Sprint has been picked up. ***"
+    {
+        "chi"        "**一名玩家捡到了 冲刺**"
+    }
+    "*** Sprint has a cooldown of 90 secs. ***"
+    {
+        "chi"        "**冲刺 有90秒CD**"
+        "DoorCountDown"        "-1"
+    }
+    "**Plant the C4 on the missile launcher**"
+    {
+        "chi"        "**快用C4把防空炮炸了！不然都得嘿嘿嘿**"
+    }
+    "***C4 has been picked***"
+    {
+        "chi"        "**一名玩家找到了C4**"
+    }
+    "**C4 has been placed!**"
+    {
+        "chi"        "**C4放好了！**"
+    }
+    "**TEAM FALL BACK**"
+    {
+        "chi"        "**撤退撤退！**"
+    }
+    "**Helicopter will leave in 60 seconds**"
+    {
+        "chi"        "**滴滴滴！直升机60秒后起飞**"
+        "DoorCountDown"        "60"
+    }
+    "**Helicopter will leave in 30 seconds**"
+    {
+        "chi"        "**直升机30秒后起飞**"
+    }
+    "*** CURRENT STAGE IS 1: Overworld ***"
+    {
+        "chi"        "** **"
+    }
+    "*** Ammo Box has been picked up. ***"
+    {
+        "chi"        "**一名玩家捡到了 无限子弹**"
+    }
+    "*** Ammo Box has a cooldown of 60 secs. ***"
+    {
+        "chi"        "**无限子弹 的CD为60秒**"
+        "DoorCountDown"        "-1"
+    }
+    "*** Push Gun has been picked up. ***"
+    {
+        "chi"        "**一名玩家捡到了 推力枪**"
+    }
+    "*** Push Gun has a cooldown of 20 secs. ***"
+    {
+        "chi"        "**推力枪 的CD为20秒**"
+        "DoorCountDown"        "-1"
+    }
+    "*** Zombie Heal has been picked up. ***"
+    {
+        "chi"        "**一只僵尸捡到了 奶**"
+    }
+    "*** Zombie Heal has a cooldown of 60 secs. ***"
+    {
+        "chi"        "**奶 的CD为60秒**"
+        "DoorCountDown"        "-1"
+    }
+    "**Computer room will shut down in 60 seconds**"
+    {
+        "chi"        "**60秒后控制室断电！不能让僵尸看到电脑里的毛片！**"
+    }
+    "**Control room locking temporarily in 30 secs and will be locked until power is shut down**"
+    {
+        "chi"        "**30秒后关门直到断电，等到那时候毛片也就删光了~**"
+    }
+    "**Encrypting all data**"
+    {
+        "chi"        "**正在删片子……**"
+    }
+    "**Control room locking for 30 secs**"
+    {
+        "chi"        "**门暂时关30秒**"
+    }
+    "**Control room has been shut down**"
+    {
+        "chi"        "**片子已经删干净了！**"
+    }
+    "*** Mines has been picked up. ***"
+    {
+        "chi"        "**一名玩家捡到了 地雷**"
+    }
+    "*** Mines can be used up to 6 times. ***"
+    {
+        "chi"        "**地雷 可以使用6次**"
+        "DoorCountDown"        "-1"
+    }
+    "*** Freeze Ring has been picked up. ***"
+    {
+        "chi"        "**一名玩家捡到了 冰冻陷阱 **"
+    }
+    "*** Freeze Ring has a cooldown of 60 secs. ***"
+    {
+        "chi"        "**冰冻陷阱 的CD为60秒**"
+        "DoorCountDown"        "-1"
+    }
+    "*** NY MARATHON: GET READY TO RUN! ***"
+    {
+        "chi"        "**准备好跑路了！**"
+    }
+    "*** Zombie Sucker has been picked up. ***"
+    {
+        "chi"        "**一只僵尸捡到了 吸人器**"
+    }
+    "*** Zombie Sucker has a cooldown of 60 secs. ***"
+    {
+        "chi"        "**吸人器 的CD为60秒**"
+        "DoorCountDown"        "-1"
+    }
+    "*** STEAMGAMERS.COM ***"
+    {
+        "chi"        "**地图来自STEAMGAMERS.COM**"
+    }
+    "*** Mapper: yardy ***"
+    {
+        "chi"        "**作者：yardy   翻译：高贵的QQ会员和他的表弟**"
+    }
+    "*** Co-Mapper: starbucks ***"
+    {
+        "chi"        "**副作者：starbucks**"
+    }
+    "*** Zombie Stopper has been picked up. ***"
+    {
+        "chi"        "**一只僵尸捡到了 障碍**"
+    }
+    "The server is about to close the update ,Please update your game"
+    {
+        "chi"        "** **"
+    }
+    "***Map by Reflelia***"
+    {
+        "chi"        "** **"
+    }
+    "**map by koyomaple**"
+    {
+        "chi"        "** **"
+    }
+    "<< ze_surf_virtus >>"
+    {
+        "chi"        "** **"
+    }
+    "<< Fix by : Lishang >>"
+    {
+        "chi"        "** **"
+    }
+    "**Stage 1**"
+    {
+        "chi"        "** **"
+    }
+    "***Welcome to Crazy Kart***"
+    {
+        "chi"        "** **"
+    }
+    "***Map by Luffaren***"
+    {
+        "chi"        "** **"
+    }
+    "***Thanks to Enviolinador for the green shell bouncevector logic***"
+    {
+        "chi"        "** **"
+    }
+}

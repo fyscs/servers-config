@@ -1,0 +1,82 @@
+"Console_T"
+{
+    "***Door 1B opens in 10s***"
+    {
+        "chi"        "** 1B 大门 10 秒后开启 **"
+    }
+    "*** Defend for 30s. ***"
+    {
+        "chi"        "** 防守 30 秒 **"
+        "DoorCountdown"        "30"
+    }
+    "***You must reach the skiff to escape the planet!! stay near the flares to help avoid being picked off***"
+    {
+        "chi"        "** 你们必须乘坐飞船离开这个星球！！地上的绿光可以阻挠僵尸前进！**"
+    }
+    "***Outpost Door opens in 20s***"
+    {
+        "chi"        "** 大门将在 20 秒后开启 **"
+        "DoorCountdown"        "20"
+    }
+    "*** Hold here for 30s ***"
+    {
+        "chi"        "** 坚守 30 秒 **"
+        "DoorCountdown"        "30"
+    }
+    "***Cowards board the skiff... HEROS STAY BEHIND TO FIGHT TO THE DEATH :D!!!***"
+    {
+        "chi"        "** 懦夫上船…英雄留下来战斗到死 :D !!!**（色狼领袖：装逼大侠你们这能忍 XD ？？）"
+    }
+    "***Skiff leaves in 60s!!!***"
+    {
+        "chi"        "** 飞船将在 60 秒后离开！！！**"
+    }
+    "***30s Remaining!!***"
+    {
+        "chi"        "** 剩余 30 秒！！**"
+    }
+    "***10s Remaining!!***"
+    {
+        "chi"        "** 剩余 10 秒！！**"
+    }
+    "***Make room and remain still while in Skiff!!***"
+    {
+        "chi"        "** 坐稳咯！飞船即将起飞！！！**"
+    }
+    "***Top Door opens in 10s***"
+    {
+        "chi"        "** 顶部大门将在 10 秒后打开 **"
+    }
+    "***Door 1A opens in 10s***"
+    {
+        "chi"        "** 1A 大门 10 秒后开启 **"
+    }
+    "***Door 2A opens in 5s***"
+    {
+        "chi"        "** 2A 大门 5 秒后开启 **"
+    }
+    "***Door 2B opens in 5s***"
+    {
+        "chi"        "** 2B 大门 5 秒后开启 **"
+    }
+    "***Zombies detected in mines!!***"
+    {
+        "chi"        "** 矿洞检测到僵尸 **"
+    }
+    "ESCAPE FROM ZOMBIELAND"
+    {
+        "chi"        "** **"
+    }
+    "<!!!> MAP BY JB_GAMBLE <!!!>"
+    {
+        "chi"        "** **"
+    }
+    "***Map by Reflelia***"
+    {
+        "chi"        "** **"
+    }
+    "* * Map by Mojonero * *"
+    {
+        "chi"        "** **"
+    }
+}

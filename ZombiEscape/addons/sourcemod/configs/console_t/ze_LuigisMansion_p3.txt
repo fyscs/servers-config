@@ -1,0 +1,113 @@
+"Console_T"
+{
+    "*** Find the entrance to the Mansion and then locate and Destroy its ghostly power source! ***"
+    {
+        "chi"        "** **"
+    }
+    "*** Hold Off Zombies for 20 seconds ***"
+    {
+        "chi"        "**防守僵尸20秒**"
+        "DoorCountDown"        "20"
+    }
+    "*** Gate Open!!! ***"
+    {
+        "chi"        "**大门开了!!!**"
+    }
+    "*** All those still in the dark forest will be banished to the pit in 30 seconds ***"
+    {
+        "chi"        "**所有在黑暗森林的单位将在30秒后传放逐到地穴**"
+    }
+    "*** Locate 1 of the 4 hidden Safe Zones and Hold off til the way to the tower is open ***"
+    {
+        "chi"        "**找到4个隐藏的安全区直到通往塔的道路开启**"
+    }
+    "*** Safe zone exits will open in 60 seconds ***"
+    {
+        "chi"        "**安全区通往塔的道路将在60秒后开启**"
+        "DoorCountDown"        "60"
+    }
+    "*** All those in the Lobby will be banished to the pit in 30 seconds! ***"
+    {
+        "chi"        "**所有在大厅的单位将在30秒后传放逐到地穴**"
+    }
+    "*** Destroy the Rouge Luma ***"
+    {
+        "chi"        "**破坏Rouge Luma(头顶上的星星)**"
+    }
+    "*** Star Door will open in 35 seconds ***"
+    {
+        "chi"        "**大门将在35秒后开启**"
+    }
+    "*** The Haunted Dimension has become unstable ***"
+    {
+        "chi"        "**鬼屋的结构开始不稳定了**"
+    }
+    "*** We must escape the mansion before it take us with it! ***"
+    {
+        "chi"        "**我们必须在它警觉之前逃离这个鬼屋**"
+    }
+    "*** All those in the tower will be banished to the pit in 15 seconds! ***"
+    {
+        "chi"        "**所有在高塔的单位将在15秒后传放逐到地穴**"
+    }
+    "*** All those still in the courtyard will be banished to the pit in 30 seconds! ***"
+    {
+        "chi"        "**所有在庭院的单位将在15秒后传放逐到地穴**"
+    }
+    "*** Bowser has ambushed and cut you all off from the exit! ***"
+    {
+        "chi"        "**库巴伏击了你们而且断了你们所有的退路**"
+    }
+    "*** Defend yourselfs and hope that Luigi can rescue you in time ! ***"
+    {
+        "chi"        "**守住这个地方等待路易吉来营救你们**"
+    }
+    "*** Beware of Bowsers Fire Breath! ***"
+    {
+        "chi"        "**库巴吐出了火焰!**"
+    }
+    "*** Luigi has arrived ***"
+    {
+        "chi"        "**路易吉到达**"
+    }
+    "*** Luigi will now help by lowering the bridge ***"
+    {
+        "chi"        "**路易吉现在帮你们把桥降下**"
+    }
+    "*** Luigi has done it!! ***"
+    {
+        "chi"        "**路易吉已经把桥降下了!!**"
+    }
+    "*** Get across the bridge before it breaks! ***"
+    {
+        "chi"        "**在桥坏之前离开这里!!**"
+    }
+    "*** GET OUT NOW ***"
+    {
+        "chi"        "**快离开这个鬼地方!!!!!**"
+    }
+    "The server is about to close the update ,Please update your game"
+    {
+        "chi"        "** **"
+    }
+    "sync_version"
+    {
+        "syncvalue"        "21553"
+    }
+    "*** Beware of Bowser's Fire Breath! ***"
+    {
+        "chi"        "** **"
+    }
+    ">> Map by TaskuVaras and Moltard <<"
+    {
+        "chi"        "** **"
+    }
+    "**level 1**"
+    {
+        "chi"        "** **"
+    }
+    "**Map By Batnik_Reference.smd and ShotT **"
+    {
+        "chi"        "** **"
+    }
+}

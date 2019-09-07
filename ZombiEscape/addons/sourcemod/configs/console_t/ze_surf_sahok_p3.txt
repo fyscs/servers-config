@@ -1,0 +1,145 @@
+"Console_T"
+{
+    "**The door will open in 45 seconds. Cover!!**"
+    {
+        "chi"        "大门45秒后开启。防守僵尸！"
+        "DoorCountDown"        "45"
+    }
+    "**Door is open 10 sec**"
+    {
+        "chi"        "10秒后开门，准备后撤！"
+    }
+    "**Elevator is leaving in 25s**"
+    {
+        "chi"        "电梯在25秒后离开"
+        "DoorCountDown"        "25"
+        "ico"        "icon_tip"
+    }
+    "**Elevator is leaving in 5s**"
+    {
+        "chi"        "电梯5秒后离开"
+    }
+    "**Boats will arrive in 30 seconds**"
+    {
+        "chi"        "小船将在30秒后抵达（防守僵尸）"
+        "DoorCountDown"        "30"
+        "ico"        "icon_tip"
+    }
+    "***Boat is leaving***"
+    {
+        "chi"        "小船出发了！（别急着跳船，小心僵尸）"
+    }
+    "***The teleporter its now available for zombies!***"
+    {
+        "chi"        "有人完成了滑翔，僵尸现在可以进入滑翔传送门了"
+    }
+    "** Boss Fight in 10s **"
+    {
+        "chi"        "10秒后开始首领战"
+    }
+    "** Boss Fight in 5s **"
+    {
+        "chi"        "5秒后首领战"
+    }
+    "** Nades do more damage **"
+    {
+        "chi"        "手雷可以造成更大伤害"
+    }
+    "** Boss is dead - Escape ! **"
+    {
+        "chi"        "首领死了！快跑（防守僵尸）"
+    }
+    "**The door will open in 30 seconds. Cover!!**"
+    {
+        "chi"        "最后的大门30秒后开启！抵御僵尸！"
+        "DoorCountDown"        "30"
+    }
+    "***Congratulations!***"
+    {
+        "chi"        "恭喜通关！"
+    }
+    "***Map fixed by Et3rnity***"
+    {
+        "chi"        "地图修复 Et3rnity 翻译 猫耳病毒学者"
+    }
+    "**Boat will arrive in 30 seconds**"
+    {
+        "chi"        "**船只将在 30 秒后激活**"
+    }
+    "sync_version"
+    {
+        "syncvalue"        "61875"
+    }
+    "**Elevator is leaving in 35s**"
+    {
+        "chi"        "**电梯将在 35 秒后离开**"
+    }
+    "*** You took way too long ! ***"
+    {
+        "chi"        "** **"
+    }
+    "<< ze_surf_virtus >>"
+    {
+        "chi"        "** **"
+    }
+    "<< Fix by : Lishang >>"
+    {
+        "chi"        "** **"
+    }
+    "---***This map will mute your sound if you are outside the lunar base***---"
+    {
+        "chi"        "** **"
+    }
+    ">> ZE_ERROR <<"
+    {
+        "chi"        "** **"
+    }
+    "**stage1**"
+    {
+        "chi"        "** **"
+    }
+    "**map by:一条会翻身的鱼**"
+    {
+        "chi"        "** **"
+    }
+    "* * Map by Mojonero * *"
+    {
+        "chi"        "** **"
+    }
+    ">>LEVEL 1<<"
+    {
+        "chi"        "** **"
+    }
+    "<<< Map by Jllaneras >>>"
+    {
+        "chi"        "** **"
+    }
+    "<<< Trial 1 >>>"
+    {
+        "chi"        "** **"
+    }
+    "*** MAP MADE BY KAGALERA***"
+    {
+        "chi"        "** **"
+    }
+    "* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
+    {
+        "chi"        "** **"
+    }
+    "* * * Choose the first MINIGAME * * *"
+    {
+        "chi"        "** **"
+    }
+    "ZE Sunlight"
+    {
+        "chi"        "** **"
+    }
+    "<!!!> MAP BY JB_GAMBLE <!!!>"
+    {
+        "chi"        "** **"
+    }
+    "**map by koyomaple**"
+    {
+        "chi"        "** **"
+    }
+}

@@ -1,0 +1,231 @@
+"Console_T"
+{
+    "|Admin Room|***Admin has changed difficulty to LEVEL 2 ***"
+    {
+        "chi"        "**【调关房】管理员已经调关至第二关**"
+    }
+    "|Admin Room| *** ADMIN SLAYING EVERYONE ***"
+    {
+        "chi"        "**[调关房]管理员处死了所有人**"
+    }
+    "Map made by Puklica & Cuniczek"
+    {
+        "chi"        "**地图作者：Puklica 和 Cuniczek 地图汉化：大明**"
+    }
+    ">>> |LEVEL 1| <<<"
+    {
+        "chi"        "**第一关**"
+    }
+    "Sponge builder has been picked up."
+    {
+        "chi"        "**海绵块被拾取**"
+    }
+    "Mouse trap has been picked up."
+    {
+        "chi"        "**捕鼠夹被拾取**"
+    }
+    "Well have to roll down the toilet paper to safely climb down."
+    {
+        "chi"        "**我们必须等待卷纸降下后才能安全地往下爬**"
+    }
+    "Toilet paper has been rolled down. Fall back!"
+    {
+        "chi"        "**卷纸已经到底了.交警提醒您：搞快点！**"
+    }
+    "Hold for 15 seconds."
+    {
+        "chi"        "**防守15秒**"
+        "DoorCountDown"        "15"
+    }
+    "Resist for 25 seconds."
+    {
+        "chi"        "**30**"
+        "DoorCountDown"        "25"
+    }
+    "Resist for 20 seconds."
+    {
+        "chi"        "**25**"
+        "DoorCountDown"        "20"
+    }
+    "Hold here until something happens!"
+    {
+        "chi"        "**守住这里直到发生什么**"
+    }
+    "The path is blocked. Fall back!"
+    {
+        "chi"        "**通道被阻塞了，撤退！**"
+    }
+    "The Rubber Duck has been defeated."
+    {
+        "chi"        "**小黄鸭已经被打败了**"
+    }
+    "You have won first level!"
+    {
+        "chi"        "**你通过了第一关**"
+    }
+    ">>> |LEVEL 2| <<<"
+    {
+        "chi"        "**第二关**"
+    }
+    "Resist until the wall breaks."
+    {
+        "chi"        "**防守直到墙壁破碎**"
+    }
+    "Fall back!"
+    {
+        "chi"        "**撤退！**"
+    }
+    "We have to clear the soap out of the way to be able to climb up."
+    {
+        "chi"        "**我们必须推开肥皂之后才能往上爬**"
+    }
+    "The path has been cleared."
+    {
+        "chi"        "**路开了**"
+    }
+    "Well have to jump outside and walk across the mirror."
+    {
+        "chi"        "**我们必须跳出去并且穿过镜子**"
+    }
+    "Hold on for a few seconds."
+    {
+        "chi"        "**守住一小会**"
+    }
+    "We can use the hairdryer to reach the shelf!"
+    {
+        "chi"        "**我们可以用吹风机来到达对面的架子**"
+    }
+    "Seems like there is no way to escape."
+    {
+        "chi"        "**前方似乎无路可走了**"
+    }
+    "Thats it! Break the shelf support."
+    {
+        "chi"        "**打破架子的支撑**"
+    }
+    "We are trapped! Resist!"
+    {
+        "chi"        "**我们被截住了，防守！**"
+    }
+    "Fall back we can walk across the door."
+    {
+        "chi"        "**我们可以从门上面通过！撤退！**"
+    }
+    "There is no way around."
+    {
+        "chi"        "**前方没路了！**"
+    }
+    "Well have to enter the boiler. Resist!"
+    {
+        "chi"        "**我们必须进入锅炉，防守！**"
+    }
+    "We can enter through that hole! Fall back!"
+    {
+        "chi"        "** 我们可以通过这个洞进去，撤退！**"
+    }
+    "The sponge has been defeated! Run!"
+    {
+        "chi"        "**海绵块已经被打败了，快跑！**"
+    }
+    "Final doors are going to close in 30 seconds! Resist!"
+    {
+        "chi"        "**最后的大门将在30秒后关闭，守住僵尸！**"
+        "DoorCountDown"        "30"
+    }
+    "You have won the map! Congratulations!"
+    {
+        "chi"        "**你征服了本地图！恭喜！**"
+    }
+    "Kill all zombies inside!"
+    {
+        "chi"        "**杀死里面所有的僵尸**"
+    }
+    "The server is about to close the update ,Please update your game"
+    {
+        "chi"        "**服务器即将关闭更新，请更新您的游戏**"
+    }
+    "We'll have to roll down the toilet paper to safely climb down."
+    {
+        "chi"        "**我们得把纸滚下来才能安全地往下爬**"
+    }
+    "We'll have to jump outside and walk across the mirror."
+    {
+        "chi"        "**我们得跳到外面，穿过镜子**"
+    }
+    "That's it! Break the shelf support."
+    {
+        "chi"        "**就是这样，我们把架子支架破坏了**"
+    }
+    "We'll have to enter the boiler. Resist!"
+    {
+        "chi"        "**我们将要进入锅炉然后反抗**"
+    }
+    "For POSSESSION, Respect to Sakura"
+    {
+        "chi"        "** **"
+    }
+    "Based-map by Xquality"
+    {
+        "chi"        "** **"
+    }
+    "*** Map by : Airvulpes ***"
+    {
+        "chi"        "**地图作者：Airvulpes 地图汉化：大明**"
+    }
+    "*** Difficulty : Disuse ***"
+    {
+        "chi"        "**难度：废弃**"
+    }
+    "Please wait 20 seconds before the door opening"
+    {
+        "chi"        "**请在门打开之前守住20秒**"
+    }
+    "*** ZE_BOATESCAPEX ***"
+    {
+        "chi"        "** **"
+    }
+    "*** A mode is being randomly chosen... ***"
+    {
+        "chi"        "**正在随机选择模式**"
+    }
+    "**Stage 1**"
+    {
+        "chi"        "**关卡1**"
+    }
+    "***Map by Reflelia***"
+    {
+        "chi"        "** **"
+    }
+    "**welcome to ze_fat_hours_escape**"
+    {
+        "chi"        "** **"
+    }
+    "**map by yinyuehzixi**"
+    {
+        "chi"        "** **"
+    }
+    "**stage1**"
+    {
+        "chi"        "** **"
+    }
+    "**map by:一条会翻身的鱼**"
+    {
+        "chi"        "** **"
+    }
+    "Map by XXPohmianXXMochi"
+    {
+        "chi"        "** **"
+    }
+    "<< ze_surf_virtus >>"
+    {
+        "chi"        "** **"
+    }
+    "<< Fix by : Lishang >>"
+    {
+        "chi"        "** **"
+    }
+    "** LEVEL: NOT TOO ROUGH **"
+    {
+        "chi"        "** **"
+    }
+}

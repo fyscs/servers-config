@@ -1,0 +1,707 @@
+"Console_T"
+{
+    "**This version is compiled with HDR. Thanks Vauff for his suggestion.**"
+    {
+        "chi"        "** **"
+    }
+    ">>Map by Tenshi<<"
+    {
+        "chi"        "** **"
+    }
+    ">>Thanks for playing<<"
+    {
+        "chi"        "** **"
+    }
+    "**Player has picked up <Earth Magic>**"
+    {
+        "chi"        "**一名玩家学会了<沟壑>**"
+    }
+    "**Player has picked up <Ultima Magic>**"
+    {
+        "chi"        "**一名玩家学会了<魔女之夜>**"
+    }
+    "**Player has picked up <Water Magic>**"
+    {
+        "chi"        "**一名玩家学会了<泡泡>**"
+    }
+    ">>GATE OPENING IN 15 SEC<<"
+    {
+        "chi"        ">>>门15秒后开启<<<"
+    }
+    "**Player has picked up <Gravity Magic>**"
+    {
+        "chi"        "**一名玩家学会了<虫洞>**"
+    }
+    ">>MAZEDOOR OPENING IN 30 SEC<<"
+    {
+        "chi"        ">>>30秒开门<<<"
+    }
+    ">>ACTIVATE THE CRYSTAL TOWER AND...<<"
+    {
+        "chi"        ">>>触发水晶塔并且...<<<"
+    }
+    ">>BREAK THE INVERTED CRYSTAL TOWER<<"
+    {
+        "chi"        ">>>打掉红色倒置水晶塔<<<"
+    }
+    ">>DOOR OPENING IN 15 SEC<<"
+    {
+        "chi"        ">>>15秒后开门<<<"
+    }
+    "**Player has picked up <Teleport Crystal>**"
+    {
+        "chi"        "**一名玩家拾起了<传送水晶>**"
+    }
+    "**Player has picked up <Tornado Magic>**"
+    {
+        "chi"        "**一名玩家学会了<飓风>**"
+    }
+    ">>HOLD 45 SEC<<"
+    {
+        "chi"        ">>>防守45秒<<<"
+    }
+    ">>DOOR OPENING IN 25 SEC<<"
+    {
+        "chi"        ">>>25秒后开门<<<"
+    }
+    ">>OUTDOOR OPENING IN 25 SEC<<"
+    {
+        "chi"        ">>>撤退大门25秒后开启<<<"
+    }
+    ">>HOLD 15 SEC<<"
+    {
+        "chi"        ">>>守住15秒到门关<<<"
+    }
+    ">>NUKE IN 10 SEC<<"
+    {
+        "chi"        ">>>10秒后处死全体黄泉引路人<<<"
+    }
+    ">>YOU GOT THE TELEPORTER CRYSTAL. IT CAN TAKE US BACK<<"
+    {
+        "chi"        ">>>你得到了传送水晶，它能帮助我们回去<<<"
+    }
+    ">>TELEPORT IN 2 SEC<<"
+    {
+        "chi"        ">>>传送在2秒后<<<"
+    }
+    ">>TELEPORT IN 1 SEC<<"
+    {
+        "chi"        ">>>传送在1秒后<<<"
+    }
+    ">>STAGE 1 COMPLETE<<"
+    {
+        "chi"        ">>>第一关完成<<<"
+    }
+    ">>3<<"
+    {
+        "chi"        ">>>3<<<"
+    }
+    ">>2<<"
+    {
+        "chi"        ">>>2<<<"
+    }
+    ">>1<<"
+    {
+        "chi"        ">>>1<<<"
+    }
+    ">>IT SEEMS ORIGINAL WAY WAS BLOCKED<<"
+    {
+        "chi"        ">>>原来的路好像被堵住了<<<"
+    }
+    ">>TAKE THE OPPOSITE DIRECTION<<"
+    {
+        "chi"        ">>>往你们身后走进入圣灵殿堂<<<"
+    }
+    ">>A VOICE : I've studied the crystals you brought back last time<<"
+    {
+        "chi"        "** **"
+    }
+    ">>A VOICE : Get into the palace , there's a great mystery under it<<"
+    {
+        "chi"        "** **"
+    }
+    "**Player has picked up <Heal Magic>**"
+    {
+        "chi"        "**一名玩家学会了<治愈>**"
+    }
+    ">>TRIGGER THE MECHANISMS ON THE WALL<<"
+    {
+        "chi"        ">>>触发墙上的装置<<<"
+    }
+    ">>ACTIVATE FOUR TOWERS<<"
+    {
+        "chi"        ">>>激活4座塔<<<"
+    }
+    ">>ALL THE CRYSTAL ACTIVATED , WAIT 10 SEC<<"
+    {
+        "chi"        ">>>所有水晶塔已激活，守住10秒<<<"
+    }
+    ">>WAITING THE PLATFORM APPEAR<<"
+    {
+        "chi"        ">>>等待平台出现<<<"
+    }
+    ">>ITS LOOKS LIKE A DOOR , KEEP DEFENDING FOR 25 SEC<<"
+    {
+        "chi"        ">>>它看上去像个门？保持射击25秒后看会发生些什么<<<"
+    }
+    ">>THIS DOOR BREAKING IN 25 SEC<<"
+    {
+        "chi"        ">>>虚幻空间大门25秒后打开<<<"
+    }
+    ">>THE DOOR BREAKING IN 30 SEC<<"
+    {
+        "chi"        ">>>通往元素结晶体房间的大门30秒后打开<<<"
+    }
+    ">>MIDDLE PLATFORM RISING IN 25 SEC<<"
+    {
+        "chi"        ">>>中间的平台25秒后上升<<<"
+    }
+    "<WIND>"
+    {
+        "chi"        ">>>风<<<"
+    }
+    ">>ELEVATOR LEAVES IN 20 SEC<<"
+    {
+        "chi"        ">>>电梯20秒后上升<<<"
+    }
+    ">>GET OUT OF HERE QUICKLY<<"
+    {
+        "chi"        ">>>快点离开这里<<<"
+    }
+    ">>IT SEEMS CONTAIN A BIG ENERGY<<"
+    {
+        "chi"        ">>>它似乎蕴含着巨大的能量<<<"
+    }
+    ">>KEEP DEFENCE , DONT LET THEM OUT<<"
+    {
+        "chi"        ">>>保持射击，不要让黄泉引路人们出来！<<<"
+    }
+    ">>STAGE 2 COMPLETE<<"
+    {
+        "chi"        ">>>第二关完成<<<"
+    }
+    "**Zombie has picked up <Gravity>**"
+    {
+        "chi"        "**一名黄泉引路人学会了<黑洞>**"
+    }
+    ">>TELEPORT ACTIVATED IN 30 SEC<<"
+    {
+        "chi"        ">>>30秒后传送<<<"
+    }
+    ">>ROCK BREAKING IN 25 SEC<<"
+    {
+        "chi"        ">>>25秒岩石破碎<<<"
+    }
+    ">>ROCK BREAKING IN 15 SEC<<"
+    {
+        "chi"        ">>>15秒岩石破碎<<<"
+    }
+    ">>KEEP DEFENCE<<"
+    {
+        "chi"        ">>>保持射击<<<"
+    }
+    ">>SURVIVE 40 SEC<<"
+    {
+        "chi"        ">>>困兽之斗！生存40秒<<<"
+    }
+    ">>JUMP!!!<<"
+    {
+        "chi"        ">>>跳！<<<"
+    }
+    ">>RUN BACK TO THE STELA<<"
+    {
+        "chi"        ">>>返回传送阵<<<"
+    }
+    ">>GO TO ACTIVATE STELA<<"
+    {
+        "chi"        ">>>去激活传送阵<<<"
+    }
+    "**Player has picked up <Trace>**"
+    {
+        "chi"        "**一名玩家学会了<追溯>**"
+    }
+    ">>STELA ACTIVATED IN 20 SEC<<"
+    {
+        "chi"        ">>>传送阵20秒后激活<<<"
+    }
+    ">>WAIT,IT LOOKS LIKE SOMETHING WRONG WITH STELA<<"
+    {
+        "chi"        ">>>等等！传送阵好像受到了干扰，错误传送了！<<<"
+    }
+    ">>IT SEEMS TO BE CONTROLLED BY A POWER<<"
+    {
+        "chi"        ">>>它似乎被某种力量控制了<<<"
+    }
+    ">>ITS ICE DRAGON<<"
+    {
+        "chi"        ">>>它是魔法冰龙<<<"
+    }
+    ">>KILL IT<<"
+    {
+        "chi"        ">>>伙计们废了它<<<"
+    }
+    ">>WE DEFEAT IT<<"
+    {
+        "chi"        ">>>我们击败了它<<<"
+    }
+    ">>TOWN GATE CLOSING IN 40 SEC<<"
+    {
+        "chi"        ">>>巨门40秒后关闭<<<"
+    }
+    ">>HOLD!!!<<"
+    {
+        "chi"        ">>>坚持住！<<<"
+    }
+    ">>DONT LET THEM IN<<"
+    {
+        "chi"        ">>>不要让他们进来<<<"
+    }
+    ">>BALROG IS ATTACKING<<"
+    {
+        "chi"        ">>>炎魔释放了二连斩<<<"
+    }
+    ">>STAGE 3 COMPLETE<<"
+    {
+        "chi"        ">>>第三关完成<<<"
+    }
+    ">>GET OUT OF HERE!!!<<"
+    {
+        "chi"        ">>>离开出生点，往后走！<<<"
+    }
+    ">>GO TO BIG CRYSTAL TOWER<<"
+    {
+        "chi"        ">>>跑到巨大的传送水晶附近<<<"
+    }
+    ">>ACTIVATE TWO CRYSTAL AND DEFEND ZOMBIES<<"
+    {
+        "chi"        ">>>激活两个水晶塔并且守住黄泉引路人的进攻<<<"
+    }
+    ">>THEN ACTIVATE THE RED ONE<<"
+    {
+        "chi"        "** **"
+    }
+    ">>THE HELLGATE OPENING IN 30 SEC<<"
+    {
+        "chi"        "** **"
+    }
+    "**Zombie has picked up <Shield>**"
+    {
+        "chi"        "** **"
+    }
+    ">>DOOR OPENING IN 20 SEC<<"
+    {
+        "chi"        ">>>铁门20秒后打开<<<"
+    }
+    ">>HOLD 30 SEC<<"
+    {
+        "chi"        "** **"
+    }
+    ">>HOLD 20 SEC<<"
+    {
+        "chi"        "** **"
+    }
+    "**It looks like an ominous thing**"
+    {
+        "chi"        "** **"
+    }
+    ">>GET ON THE MIDDLE STONE<<"
+    {
+        "chi"        "** **"
+    }
+    ">>SHOOT THE CRYSTAL!!!<<"
+    {
+        "chi"        "** **"
+    }
+    "**Player has picked up <Lightning Magic>**"
+    {
+        "chi"        "** **"
+    }
+    ">>YOU FOUND A CRYSTAL<<"
+    {
+        "chi"        "** **"
+    }
+    ">>ITEM:ASUNA CAN USE SUPERATTACK NOW<<"
+    {
+        "chi"        "** **"
+    }
+    ">>BALROG USED SOLAR FUSION,USE <LIGHTNING> TO RESIST IT<<"
+    {
+        "chi"        "** **"
+    }
+    ">>STAGE 4 COMPLETE<<"
+    {
+        "chi"        "** **"
+    }
+    ">>BECAUSE OF THE DISAPPEARANCE OF THE BALROG'S POWER, <Ultima>HAS LOST EFFICACY!!!<<"
+    {
+        "chi"        "** **"
+    }
+    ">>AND FIND THE CRYSTAL<<"
+    {
+        "chi"        "** **"
+    }
+    ">>WE NEED IT<<"
+    {
+        "chi"        "** **"
+    }
+    "**You found the crystal!!!**"
+    {
+        "chi"        "** **"
+    }
+    "**Throw it on the crystal tower!**"
+    {
+        "chi"        "** **"
+    }
+    ">>YOU PLACED THE CRYSTAL<<"
+    {
+        "chi"        "** **"
+    }
+    ">>SOMETHING FORTHCOMING<<"
+    {
+        "chi"        "** **"
+    }
+    ">>VOID DOOR APPEAR IN 30 SEC<<"
+    {
+        "chi"        "** **"
+    }
+    ">>VOID DOOR APPEARED<<"
+    {
+        "chi"        "** **"
+    }
+    ">>ACTIVATE TWO SLAB BUTTONS<<"
+    {
+        "chi"        "** **"
+    }
+    ">>ONE IS BELOW , ANOTHER IS ABOVE<<"
+    {
+        "chi"        "** **"
+    }
+    ">>ACTIVATE THE CRYSTAL TOWER<<"
+    {
+        "chi"        "** **"
+    }
+    ">>WAIT 6 SEC<<"
+    {
+        "chi"        "** **"
+    }
+    ">>WHAT IS THIS?<<"
+    {
+        "chi"        "** **"
+    }
+    ">>IT INITIATES ATTACKS<<"
+    {
+        "chi"        "** **"
+    }
+    ">>BREAK IT!!!<<"
+    {
+        "chi"        "** **"
+    }
+    "<<SHADOW BLADE>>"
+    {
+        "chi"        "** **"
+    }
+    "<<CHAOSTORM>>"
+    {
+        "chi"        "** **"
+    }
+    "<<TORRENT>>"
+    {
+        "chi"        ">>>幻镜禁锢<<<"
+    }
+    "<<COLLAPSAR>>"
+    {
+        "chi"        "** **"
+    }
+    "<<COLLAPSE>>"
+    {
+        "chi"        "** **"
+    }
+    "<<FLARE>>"
+    {
+        "chi"        "** **"
+    }
+    "<<HEALTH GRABBING>>"
+    {
+        "chi"        "** **"
+    }
+    ">>WE HAVE DESTROYED IT<<"
+    {
+        "chi"        "** **"
+    }
+    ">>ESCAPE HERE!!!RUN BACK!!!<<"
+    {
+        "chi"        "** **"
+    }
+    ">>DEFENCE 20 SEC<<"
+    {
+        "chi"        "** **"
+    }
+    ">>THE DOOR WILL OPEN RANDOMLY<<"
+    {
+        "chi"        "** **"
+    }
+    ">>THE LIFT DOOR HAS OPENED<<"
+    {
+        "chi"        "** **"
+    }
+    ">>WAIT 5 SEC<<"
+    {
+        "chi"        "** **"
+    }
+    ">>IT SEEMS SOMEONE IS BLOCKING THE WAY<<"
+    {
+        "chi"        "** **"
+    }
+    ">>OH!IT'S SHADOW GUARD<<"
+    {
+        "chi"        "** **"
+    }
+    ">>KILL HIM!!!<<"
+    {
+        "chi"        "** **"
+    }
+    ">>NADE DO MORE DAMAGE<<"
+    {
+        "chi"        "** **"
+    }
+    ">>HE WILL LAUNCH DARK SLASH<<"
+    {
+        "chi"        "** **"
+    }
+    "**stage1**"
+    {
+        "chi"        "** **"
+    }
+    "**map by:一条会翻身的鱼**"
+    {
+        "chi"        "** **"
+    }
+    "**Player has picked up <Zero Magic>**"
+    {
+        "chi"        "** **"
+    }
+    ">>STAGE FAILED<<"
+    {
+        "chi"        "** **"
+    }
+    "**Zombie has picked up <Ice>**"
+    {
+        "chi"        "** **"
+    }
+    "**ZM has been chosen**"
+    {
+        "chi"        "** **"
+    }
+    "**Stage 4 has been chosen**"
+    {
+        "chi"        "** **"
+    }
+    "**Stage 3 has been chosen**"
+    {
+        "chi"        "** **"
+    }
+    "**Stage 1 has been chosen**"
+    {
+        "chi"        "** **"
+    }
+    "**Stage 2 has been chosen**"
+    {
+        "chi"        "** **"
+    }
+    "**Stage 5 has been chosen**"
+    {
+        "chi"        "** **"
+    }
+    ">>THE RIGHT DOOR HAS OPENED<<"
+    {
+        "chi"        "** **"
+    }
+    "**Zombie has picked up <Stealth>**"
+    {
+        "chi"        "** **"
+    }
+    "***Map by Luffaren***"
+    {
+        "chi"        "** **"
+    }
+    ">>HE ESCAPED!!!VOID DOOR HAS OPENED NOW!!!CATCH UP!!!<<"
+    {
+        "chi"        "** **"
+    }
+    ">>SHOOT IT!!!<<"
+    {
+        "chi"        "** **"
+    }
+    ">>WE DEFEAT HIM<<"
+    {
+        "chi"        "** **"
+    }
+    ">>CRYSTAL IS INJECTING ENERGY<<"
+    {
+        "chi"        "** **"
+    }
+    ">>WE WILL BE ABLE TO LEAVE SOON<<"
+    {
+        "chi"        "** **"
+    }
+    ">>RUN OUT OF HERE!!!<<"
+    {
+        "chi"        "** **"
+    }
+    ">>GET ON THE AIRSHIP!!!<<"
+    {
+        "chi"        "** **"
+    }
+    ">>THE AIRSHIP LEAVING IN 5 SEC<<"
+    {
+        "chi"        "** **"
+    }
+    ">>STAGE 5 COMPLETE<<"
+    {
+        "chi"        "** **"
+    }
+    ">>YOU HAVE CONQUERED THIS MAP<<"
+    {
+        "chi"        "** **"
+    }
+    ">>CONGRATULATION!!!<<"
+    {
+        "chi"        "** **"
+    }
+    "**Welcome to Minas Tirith - City of Kings**"
+    {
+        "chi"        "** **"
+    }
+    ">>HERE IS SEALED BY A MYSTERIOUS FORCE<<"
+    {
+        "chi"        "** **"
+    }
+    ">>YOU HAVE DESTROYED ALL THE CRYSTALS<<"
+    {
+        "chi"        "** **"
+    }
+    ">>SOMETHING WILL HAPPEN<<"
+    {
+        "chi"        "** **"
+    }
+    "**You think you are invincible???**"
+    {
+        "chi"        "** **"
+    }
+    "**You are wrong**"
+    {
+        "chi"        "** **"
+    }
+    "**Just a joke,have fun!!!**"
+    {
+        "chi"        "** **"
+    }
+    ">>180 SEC REMAINING<<"
+    {
+        "chi"        "** **"
+    }
+    ">>120 SEC REMAINING<<"
+    {
+        "chi"        "** **"
+    }
+    ">>60 SEC REMAINING<<"
+    {
+        "chi"        "** **"
+    }
+    ">>10 SEC REMAINING<<"
+    {
+        "chi"        "** **"
+    }
+    "***Welcome to my first map PePeHands***"
+    {
+        "chi"        "** **"
+    }
+    ">>KILL THE REMAINING ZOMBIES<<"
+    {
+        "chi"        "** **"
+    }
+    "* * * MAP BY AobaSuzukaze(sweetS), Special Thanks reflelia * * *"
+    {
+        "chi"        "** **"
+    }
+    "<<ANGER SHIELD>>"
+    {
+        "chi"        "** **"
+    }
+    ">>ZOMBIES GET ON , YOUR FAILED<<"
+    {
+        "chi"        "** **"
+    }
+    "**map by koyomaple**"
+    {
+        "chi"        "** **"
+    }
+    "Thanks test play POSSESSION server!!"
+    {
+        "chi"        "** **"
+    }
+    "Map made by Ocelot"
+    {
+        "chi"        "** **"
+    }
+    "***Modified by Reflelia***"
+    {
+        "chi"        "** **"
+    }
+    "***60 SECONDS LEFT***"
+    {
+        "chi"        "** **"
+    }
+    "***WARM UP ROUIND***"
+    {
+        "chi"        "** **"
+    }
+    "*** MAP BY GEORGE ***"
+    {
+        "chi"        "** **"
+    }
+    "*** MAP BY STRUPPI ***"
+    {
+        "chi"        "** **"
+    }
+    "<<< Map by Jllaneras >>>"
+    {
+        "chi"        "** **"
+    }
+    "<<< Trial 1 >>>"
+    {
+        "chi"        "** **"
+    }
+    ">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+    {
+        "chi"        "** **"
+    }
+    ">>LEVEL 1<<"
+    {
+        "chi"        "** **"
+    }
+    "** re shen 50 miao **"
+    {
+        "chi"        "** **"
+    }
+    "Thanks by Sakura, Possession"
+    {
+        "chi"        "** **"
+    }
+    "Original Map by Xquality"
+    {
+        "chi"        "** **"
+    }
+    "***wait for 40sec***"
+    {
+        "chi"        "** **"
+    }
+    ">>ZOMBIES GET ON<<"
+    {
+        "chi"        "** **"
+    }
+    ">>YOUR FAILED<<"
+    {
+        "chi"        "** **"
+    }
+}

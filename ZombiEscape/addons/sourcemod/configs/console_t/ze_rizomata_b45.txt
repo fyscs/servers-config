@@ -1,0 +1,198 @@
+"Console_T"
+{
+    "*** Map by Airvulpes ***"
+    {
+        "chi"        "**地图作者：Airvulpes 地图汉化：大明**"
+    }
+    "*** Hold 20 seconds ***"
+    {
+        "chi"        "**守住20秒 **"
+        "DoorCountDown"        "20"
+    }
+    "*** 5 seconds left ***"
+    {
+        "chi"        "**还有5秒**"
+    }
+    "*** Hold 30 seconds ***"
+    {
+        "chi"        "**守住30秒 **"
+        "DoorCountDown"        "30"
+    }
+    "*** 10 seconds left ***"
+    {
+        "chi"        "**还有10秒**"
+    }
+    "*** AERIAL BLAST ***"
+    {
+        "chi"        "**大气爆发(看清天上出现的刀的位置躲避）**"
+        "ico"        "icon_fire"
+    }
+    "*** GUST ***"
+    {
+        "chi"        "**狂风（面对绿色的光球按住W键）**"
+        "ico"        "icon_fire"
+    }
+    "*** Hold 50 seconds ***"
+    {
+        "chi"        "**守住50秒 **"
+        "DoorCountDown"        "50"
+    }
+    "*** DOWNBURST ***"
+    {
+        "chi"        "**下爆气流（倒计时结束按住W）**"
+        "ico"        "icon_fire"
+        "DoorCountDown"        "3"
+    }
+    "*** UPDRAFT ***"
+    {
+        "chi"        "**上升气流（上升后看着下面的位置落地） **"
+        "ico"        "icon_fire"
+    }
+    "*** Hold 10 seconds ***"
+    {
+        "chi"        "**守住10秒 **"
+        "DoorCountDown"        "10"
+    }
+    "*** FLAME RADIATION ***"
+    {
+        "chi"        "**火焰辐射（躲避BOSS的火焰)**"
+        "ico"        "icon_fire"
+    }
+    "*** FIREBALL ***"
+    {
+        "chi"        "**大火球(远离BOSS)**"
+        "ico"        "icon_fire"
+    }
+    "*** SUN STRIKE ***"
+    {
+        "chi"        "**阳炎冲击**"
+        "ico"        "icon_fire"
+    }
+    "*** MEGA FLARE ***"
+    {
+        "chi"        "**百万耀斑（不要靠近BOSS)**"
+        "ico"        "icon_fire"
+    }
+    "*** FLASH OVER ***"
+    {
+        "chi"        "**闪燃**"
+        "ico"        "icon_fire"
+    }
+    "*** FORGE SPIRITS ***"
+    {
+        "chi"        "**熔炉精灵(看清地上的小火球躲避）**"
+        "ico"        "icon_fire"
+    }
+    "*** GIGA FLARE ***"
+    {
+        "chi"        "**十亿耀斑（远离BOSS)**"
+        "ico"        "icon_fire"
+    }
+    "*** FRAMBERGE ***"
+    {
+        "chi"        "**焰形剑（不要被天上的刀刮到）**"
+        "ico"        "icon_fire"
+    }
+    "*** TERA FLARE ***"
+    {
+        "chi"        "**兆亿耀斑（BOSS死亡）**"
+        "ico"        "icon_fire"
+    }
+    "*** EXA FLARE ***"
+    {
+        "chi"        "**千兆亿耀斑(准备使用奶神器）**"
+        "ico"        "icon_fire"
+    }
+    "*** EYE OF THE STORM ***"
+    {
+        "chi"        "**暴风之眼**"
+    }
+    "*** TORNADO ***"
+    {
+        "chi"        "**龙卷风（一直走动直到龙卷风出现）**"
+        "ico"        "icon_fire"
+    }
+    "*** CURAGA ***"
+    {
+        "chi"        "**超级治疗**"
+    }
+    "*** ZOMBIE KILLED PHILIA ***"
+    {
+        "chi"        "**僵尸杀死了大白球**"
+    }
+    "*** STAGE FAILED ***"
+    {
+        "chi"        "**本关失败**"
+    }
+    "*** HOLY ***"
+    {
+        "chi"        "**神圣**"
+    }
+    "*** ZOMBIE GOT INSIDE THE LIFT ***"
+    {
+        "chi"        "**僵尸进入电梯**"
+    }
+    "*** LIFT IS LEAVING IN 5 SECONDS ***"
+    {
+        "chi"        "**电梯将在5秒后离开 **"
+    }
+    "MapGlobal_ConVars"
+    {
+        "0"
+        {
+            "cvar"        "zr_poison_enabled 0"
+        }
+    }
+    "<<< Map by Jllaneras >>>"
+    {
+        "chi"        "** **"
+    }
+    "<<< Trial 1 >>>"
+    {
+        "chi"        "** **"
+    }
+    ">> Map by TaskuVaras and Moltard <<"
+    {
+        "chi"        "** **"
+    }
+    "***Welcome to Crazy Kart***"
+    {
+        "chi"        "** **"
+    }
+    "***Map by Luffaren***"
+    {
+        "chi"        "** **"
+    }
+    "**Map made by Binbow**"
+    {
+        "chi"        "** **"
+    }
+    "*** ze_blocky_mess ***"
+    {
+        "chi"        "** **"
+    }
+    "*** We're stuck in a floating platform with no chance of survival ***"
+    {
+        "chi"        "** **"
+    }
+    "*** We need to figure out a way out of here ***"
+    {
+        "chi"        "** **"
+    }
+    "***Map by RelaxingWalls***"
+    {
+        "chi"        "** **"
+    }
+    "***Map made for SteamGamers Mapping Competition***"
+    {
+        "chi"        "** **"
+    }
+    "**Stage 1**"
+    {
+        "chi"        "** **"
+    }
+    "***CURRENT DIFFICULTY IS NORMAL***"
+    {
+        "chi"        "** **"
+    }
+}

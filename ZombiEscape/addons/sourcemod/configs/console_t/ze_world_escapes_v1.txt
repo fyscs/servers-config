@@ -1,0 +1,124 @@
+"Console_T"
+{
+    "[MAP INFO] The gate will open in 20 seconds! *****"
+    {
+        "chi"        "**20秒后开门**"
+    }
+    "[MAP INFO] *** The gate has opened, move on! ***"
+    {
+        "chi"        "**溜了,门开了**"
+    }
+    "[MAP INFO] *** Defend for 25 seconds until the platform breaks! ***"
+    {
+        "chi"        "**坚守25秒直到平台碎裂**"
+    }
+    "[MAP INFO] *** Get in the hole! ***"
+    {
+        "chi"        "**跳入洞穴**"
+    }
+    "[MAP INFO] The gate is slowly opening, hold this area! ***"
+    {
+        "chi"        "**坚守!门开得很慢!**"
+        "DoorCountDown"        "40"
+    }
+    "[MAP INFO] *** Hold here for 25 seconds! ***"
+    {
+        "chi"        "**坚守25秒**"
+    }
+    "[MAP INFO] *** Explosives have been set, hold for 30 seconds! ***"
+    {
+        "chi"        "**C4已经触发，坚守30秒**"
+        "DoorCountDown"        "30"
+    }
+    "[MAP INFO] ** The metal wall will break down in 20 seconds! ***"
+    {
+        "chi"        "**20秒后门碎**"
+    }
+    "[MAP INFO] *** Hold this area until the gate opens, someone must activate the button first! ***"
+    {
+        "chi"        "**坚守直到大门打开,必须有人按下开关**"
+    }
+    "[MAP INFO] *** Button has been pressed, hold area until gate opens! ***"
+    {
+        "chi"        "**按钮被按下,等待大门打开**"
+    }
+    "[MAP INFO] *** This map has been created by FuTuRe ***"
+    {
+        "chi"        "** **"
+    }
+    "[MAP INFO] *** Special thanks to Syoudous for helping me with a lot of things! ***"
+    {
+        "chi"        "** **"
+    }
+    "[MAP INFO] *** Gate has opened up, move move move! ***"
+    {
+        "chi"        "**门开了,溜溜溜**"
+    }
+    "[MAP INFO] *** Keep this area until we get sent to the next world! ***"
+    {
+        "chi"        "**防守直到我们被传送**"
+    }
+    "[MAP INFO] *** Zombies get sent to the new world in 10 seconds!***"
+    {
+        "chi"        "**10秒后僵尸传送**"
+    }
+    "[MAP INFO] *** Zombies get sent to the new world in 5 seconds!***"
+    {
+        "chi"        "**5秒后僵尸传送**"
+    }
+    "*** HUMANS MUST KILL ZOMBIES WITHIN 60 SECS OR KNIFE IT OUT! ***"
+    {
+        "chi"        "**60秒内杀死所有僵尸**"
+    }
+    "*** HUMANS MUST KILL ZOMBIES WITHIN 30 SECS OR KNIFE IT OUT! ***"
+    {
+        "chi"        "** **"
+    }
+    "*** HUMANS MUST KILL ZOMBIES WITHIN 15 SECS OR KNIFE IT OUT! ***"
+    {
+        "chi"        "** **"
+    }
+    "*** HUMANS MUST KILL ZOMBIES WITHIN 5 SECS OR KNIFE IT OUT! ***"
+    {
+        "chi"        "** **"
+    }
+    "*** HUMANS HAVE BEEN WARNED, KNIFE ONLY MODE HAS BEEN ENABLED, GOODLUCK! ***"
+    {
+        "chi"        "** **"
+    }
+    "MapGlobal_ConVars"
+    {
+        "0"
+        {
+            "cvar"        "zr_poison_enabled  0"
+        }
+    }
+    "sync_version"
+    {
+        "syncvalue"        "78894"
+    }
+    "[MAP INFO] *** ACTIVATE THE EXPLOSIVE ON THE DOOR ***"
+    {
+        "chi"        "** **"
+    }
+    "[MAP INFO] *** 5 seconds left until explosion! ***"
+    {
+        "chi"        "** **"
+    }
+    "[MAP INFO] ** The metal wall will break down in 15 seconds! ***"
+    {
+        "chi"        "** **"
+    }
+    "*** WORLD NUKE INCOMING IN 15 SECONDS! ***"
+    {
+        "chi"        "** **"
+    }
+    "*** WORLD NUKE INCOMING IN 10 SECONDS! ***"
+    {
+        "chi"        "** **"
+    }
+    "*** WORLD NUKE INCOMING IN 5 SECONDS! ***"
+    {
+        "chi"        "** **"
+    }
+}

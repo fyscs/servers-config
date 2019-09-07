@@ -1,0 +1,196 @@
+"Console_T"
+{
+    "<<< Map made by Jllaneras >>>"
+    {
+        "chi"        "** Jllaneras制作**"
+    }
+    "<<< Run to first box and defend! >>>"
+    {
+        "chi"        "** 跑到第一个箱子并防守**"
+    }
+    "<<< Fall back and keep defending! >>>"
+    {
+        "chi"        "** 撤退。。。然后守住**"
+    }
+    "<<< Almost there keep defending! >>>"
+    {
+        "chi"        "** 快到了，坚持住**"
+    }
+    "<<< Get behind last pillars for teleport! >>>"
+    {
+        "chi"        "**跑到最后一个柱子并等待传送 **"
+    }
+    "*** Rush to door! ***"
+    {
+        "chi"        "** 快去贴门！**"
+    }
+    "*** Defend until second door opens! ***"
+    {
+        "chi"        "** 防守到第二个门打开**"
+    }
+    "*** Defend until third door opens! ***"
+    {
+        "chi"        "** 防守到第三个门打开**"
+    }
+    "*** Defend inside until door closes! ***"
+    {
+        "chi"        "** 在里面守到门关**"
+    }
+    "<<< Get inside next temple and defend! >>>"
+    {
+        "chi"        "** 跑到神庙里防守**"
+    }
+    "<<< Climb the ladder! >>>"
+    {
+        "chi"        "** 爬梯子！**"
+    }
+    "<<< Fan has been turned off! >>>"
+    {
+        "chi"        "** 风扇已经关闭**"
+    }
+    "<<< Defend for 30 more seconds! >>>"
+    {
+        "chi"        "** 防守30秒**"
+    }
+    "<<< Break the fence and get in the water! >>>"
+    {
+        "chi"        "** 打碎栅栏然后跳到水里**"
+    }
+    "<<< Back up and defend! >>>"
+    {
+        "chi"        "** 撤退后防守**"
+    }
+    "<<< Defend for 30 seconds! >>>"
+    {
+        "chi"        "** 坚守30秒**"
+    }
+    "<<< Fall back! >>>"
+    {
+        "chi"        "** 撤退！！！**"
+    }
+    "<<< Watch the water up ahead! >>>"
+    {
+        "chi"        "** 注意水里面**"
+    }
+    "<<< Defend for 25 more seconds! >>>"
+    {
+        "chi"        "** 防守25秒**"
+    }
+    "<<< Defend for 15 more seconds! >>>"
+    {
+        "chi"        "** 防守15秒**"
+    }
+    "<<< Defend at top of stairs for 35 seconds! >>>"
+    {
+        "chi"        "** 守住楼梯35秒**"
+    }
+    "<<< Climb!!! >>>"
+    {
+        "chi"        "** 快爬**"
+    }
+    "<<< Stay back against wall! >>>"
+    {
+        "chi"        "** 贴着墙**"
+    }
+    "<<< Bulvian The Almighty >>>"
+    {
+        "chi"        "** **"
+    }
+    "<<< Gale >>>"
+    {
+        "chi"        ">>>大风<<<"
+    }
+    "<<< Fire Spin >>>"
+    {
+        "chi"        ">>>旋火<<<"
+    }
+    "<<< Breakout >>>"
+    {
+        "chi"        ">>>僵尸潮<<<"
+    }
+    "<<< Torment >>>"
+    {
+        "chi"        ">>>痛苦<<<"
+    }
+    "<<< Glide >>>"
+    {
+        "chi"        ">>>低摩擦<<<"
+    }
+    "sync_version"
+    {
+        "syncvalue"        "80974"
+    }
+    "<<< Level 1 >>>"
+    {
+        "chi"        "**第一关**"
+    }
+    "<<< Level 1 Complete! >>>"
+    {
+        "chi"        "**第一关完成**"
+    }
+    "<<< Level 2 >>>"
+    {
+        "chi"        "**第二关**"
+    }
+    "<<< Stay and defend bottom! >>>"
+    {
+        "chi"        "**守住下面**"
+    }
+    "<<< Gate broken get in for tp! >>>"
+    {
+        "chi"        "** 门开了，快去吃传送**"
+    }
+    "<<< Incinerate >>>"
+    {
+        "chi"        ">>>焚烧<<<"
+    }
+    "<<< Defend for 60 seconds! >>>"
+    {
+        "DoorCountDown"        "60"
+        "chi"        "** **"
+    }
+    "<<< Disperse >>>"
+    {
+        "chi"        ">>>驱散<<<"
+    }
+    "<<< Frenzy >>>"
+    {
+        "chi"        ">>>狂暴<<<"
+    }
+    "<<< Level 2 complete! >>>"
+    {
+        "chi"        "**第二关完成**"
+    }
+    "<<< Level 3 >>>"
+    {
+        "chi"        "**第三关**"
+    }
+    "<<< Button activated! >>>"
+    {
+        "chi"        "**按钮已激活**"
+    }
+    "<<< Defend for 15 seconds! >>>"
+    {
+        "chi"        "**坚守15秒**"
+    }
+    "<<< Button pressed defend for 10 more seconds! >>>"
+    {
+        "chi"        "** 按钮按下坚守多10秒钟**"
+    }
+    "<<< Button pressed defend for 10 seconds! >>>"
+    {
+        "chi"        "** 按钮按下坚守10秒钟**"
+    }
+    "<<< Level 3 Complete! >>>"
+    {
+        "chi"        "**第三关完成**"
+    }
+    "The server is about to close the update ,Please update your game"
+    {
+        "chi"        "** **"
+    }
+    ">>>Respawn wall break in 20 sec<<<"
+    {
+        "chi"        "** **"
+    }
+}
