@@ -1,0 +1,11 @@
+"Console_T"
+{
+	"<< You can see there are 8 platforms >>"
+	{
+		"DoorCountdown"		"-1"
+	}
+	"<< It seems that you are less than 16 guys >>"
+	{
+		"DoorCountdown"		"-1"
+	}
+}

@@ -1,0 +1,425 @@
+"Console_T"
+{
+	"**********MAP CREATED BY: Hannibal[SPA] (Rafuron) **********"
+	{
+		"chi"		"**********地图作者：汉尼拔[SPA] (Rafuron)**********"
+	}
+	"** Tips : Ideas : Adjustments by Maese Danielot **"
+	{
+		"chi"		"地图建议：Maese Danielot 翻译：superjond"
+	}
+	"**CURRENT DIFFICULTY ** >> EASY << **"
+	{
+		"chi"		"** 当前难度 ** >> 简单 << **"
+	}
+	"** MATERIA SPAMMERS WILL BE PUNISHED ** "
+	{
+		"chi"		"** 乱按神器者将受到处罚 **"
+	}
+	"** A player has adquired HEAL MATERIA **"
+	{
+		"chi"		"** 一位玩家拿到了治疗 **"
+	}
+	"**Door opening in 10 seconds**"
+	{
+		"chi"		"** 中门还有 10 秒开启 **"
+	}
+	"** Door is opening in 7 seconds **"
+	{
+		"chi"		"** 中门还有 7 秒开启 **"
+	}
+	"**Superior door opening in 30 seconds**"
+	{
+		"chi"		"** 主门还有 30 秒打开 **"
+		"DoorCountDown"		"30"
+	}
+	"** A player has adquired ELECTRO MATERIA **"
+	{
+		"chi"		"** 一位玩家拿到了电 **"
+	}
+	"** DOOR OPENS IN 5 s **"
+	{
+		"chi"		"** 主门还有 5 秒打开 **"
+	}
+	"** A player has adquired GRAVITY MATERIA **"
+	{
+		"chi"		"** 一位玩家拿到了黑洞 **"
+	}
+	"** A player has adquired FIRE MATERIA **"
+	{
+		"chi"		"** 一位玩家拿到了火 **"
+	}
+	"** A player has adquired ICE MATERIA **"
+	{
+		"chi"		"** 一位玩家拿到了冰 **"
+	}
+	"** Ice upgraded + **"
+	{
+		"chi"		"** 冰上升为 2 级 **"
+	}
+	"**Door is opening in 10 seconds**"
+	{
+		"chi"		"** 门还有 10 秒打开 **"
+		"DoorCountDown"		"10"
+	}
+	"**Door is opening in 5**"
+	{
+		"chi"		"** 门还有 5 秒打开 **"
+	}
+	"**Door is open**"
+	{
+		"chi"		"** 门开了 **"
+	}
+	"** A player has adquired WIND MATERIA **"
+	{
+		"chi"		"** 一位玩家拿到了风 **"
+	}
+	"**Elevator is leaving in 10s**"
+	{
+		"chi"		"** 电梯10秒后离开 **"
+		"DoorCountDown"		"10"
+	}
+	"** We have reached the core  ...**"
+	{
+		"chi"		"** 我们到达魔光炉 **"
+	}
+	"** ... Cloud is planting the bomb ** "
+	{
+		"chi"		"** 克劳德正在装炸弹 **"
+	}
+	"** Bomb has been planted  **  Run **"
+	{
+		"chi"		"** 炸弹装完毕 ** 撤退 **"
+	}
+	"**Keep shooting ! We dont know what it can do **"
+	{
+		"chi"		"** 继续射击，我们不知道它可以做什么 **"
+	}
+	"** The monster is going to attack ! **"
+	{
+		"chi"		"** boss发起了进攻 **"
+	}
+	"**Its dead ** Go go! Run upstairs ! **"
+	{
+		"chi"		"** 它死了，快上楼梯 **"
+	}
+	"** EXPLOSION IN 160 SECONDS **"
+	{
+		"chi"		"** 逃脱时间还剩 160 秒 **"
+	}
+	"**  150 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 150 秒 **"
+	}
+	"**  140 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 140 秒 **"
+	}
+	"**  130 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 130 秒 **"
+	}
+	"**  120 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 120 秒 **"
+	}
+	"**  110 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 110 秒 **"
+	}
+	"**  100 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 100 秒 **"
+	}
+	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
+	{
+		"chi"		"** 离大门打开还剩 35 秒，派两三个人到控制室试着使门更早的开启 **"
+		"DoorCountDown"		"35"
+	}
+	"**  90 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 90 秒 **"
+	}
+	"**  80 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 80 秒 **"
+	}
+	"**  70 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 70 秒 **"
+	}
+	"** Fire upgraded ++ **"
+	{
+		"chi"		"** 火升为 3 级 **"
+	}
+	"** Wind upgraded + **"
+	{
+		"chi"		"** 风升为 2 级 **"
+	}
+	"** Well done! Door is opening in 10 seconds **"
+	{
+		"chi"		"** 干的漂亮，门 10 秒后打开 **"
+		"DoorCountDown"		"10"
+	}
+	"**  60 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 60 秒 **"
+	}
+	"**  50 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 50 秒 **"
+	}
+	"**  40 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 40 秒 **"
+	}
+	"** Good work! You won at EASY difficult ** Lets try MEDIUM difficult **"
+	{
+		"chi"		"** 漂亮！你们完成了简单难度，现在试试中等难度 **"
+	}
+	"**CURRENT DIFFICULTY ** >> MEDIUM << **"
+	{
+		"chi"		"** 当前难度 ** >> 中等 << "
+	}
+	"** EXPLOSION IN 145 SECONDS **"
+	{
+		"chi"		"** 逃脱时间还剩 145 秒 **"
+	}
+	"**  30 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 30 秒 **"
+	}
+	"**Congratulations ! You beat MEDIUM mode ! The challenge begins at HARD mode ! **"
+	{
+		"chi"		"** 恭喜你，你完成了中等难度，来试试困难难度吧 **"
+	}
+	"**CURRENT DIFFICULTY ** >> HARD << **"
+	{
+		"chi"		"** 当前难度 ** >> 困难 << "
+	}
+	"** A player has adquired EARTH MATERIA **"
+	{
+		"chi"		"** 一位玩家拿到了土 **"
+	}
+	"** Heal upgraded ++ **"
+	{
+		"chi"		"** 治疗升级为 3 级 **"
+	}
+	"** A player has adquired ULTIMA MATERIA **"
+	{
+		"chi"		"** 一位玩家拿到了终级 **"
+	}
+	"** TIP: GRENADES MAKE A LOT OF DAMAGE ** USE IT **"
+	{
+		"chi"		"** 提示：手雷可对boss造成大量伤害，多丢几个 **"
+	}
+	"** Dont stop shooting ! Dont let him attack !"
+	{
+		"chi"		"** 不要划水！别让他攻击我们！ **"
+	}
+	"** Bahamut is in attack position ** Keep firing !! **"
+	{
+		"chi"		"** 巴哈姆特来了，开火！ **"
+	}
+	"**Bahamut is retrieving ! ** Go go! Run upstairs ! **"
+	{
+		"chi"		"** 巴哈姆特受伤逃跑了，快跑！ **"
+	}
+	"** EXPLOSION IN 120 SECONDS **"
+	{
+		"chi"		"** 逃脱时间还剩 120 秒 **"
+	}
+	"**  20 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 20 秒 **"
+	}
+	"** RUN! **"
+	{
+		"chi"		"** 跑跑跑！ **"
+	}
+	"**  10 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 10 秒 **"
+	}
+	"** Electro upgraded ++**"
+	{
+		"chi"		"** 电升级为 3 级 **"
+	}
+	"** Fire upgraded + **"
+	{
+		"chi"		"** 火升为 2 级 **"
+	}
+	"** Ice upgraded ++ **"
+	{
+		"chi"		"** 冰升为 3 级 **"
+	}
+	"** Electro upgraded +**"
+	{
+		"chi"		"** 电升为 3 级 **"
+	}
+	"**Nice done! You interrumped Sephiroth s attack**"
+	{
+		"chi"		"** 干得漂亮，你粉碎了萨菲罗斯的阴谋 **"
+	}
+	"** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! ** "
+	{
+		"chi"		"** 你做到了，你打赢了最高的难度，是时候玩极限模式了，祝你好运 **"
+	}
+	"** Wind upgraded ++**"
+	{
+		"chi"		"** 风升为 3 级 **"
+	}
+	"** Bahamut is going to execute his most powerful attack !! Shoot !! **"
+	{
+		"chi"		"** 巴哈姆特要释放嘴炮了！！快向前开枪！！ **"
+	}
+	"** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
+	{
+		"chi"		"** 巴哈姆特准备消灭我们所有人！不要停止攻击！ **"
+	}
+	"** Heal upgraded + **"
+	{
+		"chi"		"**  治疗升级为 2 级 **"
+	}
+	"**CURRENT DIFFICULTY ** >> EXTREME << **"
+	{
+		"chi"		"** 当前难度 ** >> EX 1 << **"
+	}
+	"** EXPLOSION IN 130 SECONDS **"
+	{
+		"chi"		"** 逃脱时间还剩 130 秒 **"
+	}
+	"** 30 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 30 秒 **"
+	}
+	"** 20 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 20 秒 **"
+	}
+	"** 10 SECONDS LEFT **"
+	{
+		"chi"		"** 逃脱时间还剩 10 秒 **"
+	}
+	"** OH MY ! YOU DID THE IMPOSSIBLE ! YOU OWN ! ** "
+	{
+		"chi"		"** 我的天！你不可能做到！靠你自己！ **"
+	}
+	"**CURRENT DIFFICULTY ** >> EXTREME II << **"
+	{
+		"chi"		"** 当前难度 ** >> EX 2 << **"
+	}
+	"** BAHAMUT IS CASTING ** PREPARE YOURSELF **"
+	{
+		"chi"		"** 巴哈姆特正在蓄力 ** 做好心理准备 **"
+	}
+	"** BAHAMUT HAS CAST EARTH ** BREAK THE WALL! **"
+	{
+		"chi"		"** 巴哈姆特释放了土 ** 这破这堵墙！ **"
+	}
+	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
+	{
+		"chi"		"** 巴哈姆特死了 ** 继续撤退 **"
+	}
+	"** BAHAMUT HAS CAST ICE **"
+	{
+		"chi"		"** 巴哈姆特释放了冰 **"
+	}
+	"** BAHAMUT HAS CAST ELECTRO! **"
+	{
+		"chi"		"** 巴哈姆特释放了电！ **"
+	}
+	"** BAHAMUT HAS CAST FIRE! **"
+	{
+		"chi"		"** 巴哈姆特释放了火！ **"
+	}
+	"** BAHAMUT HAS HEALED 150 HIT POINTS**"
+	{
+		"chi"		"** 巴哈姆特恢复了 150 点HP **"
+	}
+	"** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **"
+	{
+		"chi"		"** 警告！巴哈姆特正在准备释放红终 ** 准备使用 3 级治疗 **"
+	}
+	"** ULTIMA CAST WILL SUCCED IN 10 SECONDS **"
+	{
+		"chi"		"** 终极洗礼将于 10 秒后到来 **"
+		"DoorCountDown"		"10"
+	}
+	"** BAHAMUT HAS CAST WIND **"
+	{
+		"chi"		"** 巴哈姆特释放了风 **"
+	}
+	"**You must kill all the zombies ! **"
+	{
+		"chi"		"** 你必须杀死所有僵尸！ **"
+	}
+	"** MATERIA SPAMMERS WILL BE PUNISHED **"
+	{
+		"chi"		"**按掉他人神器将会受到惩罚**"
+	}
+	"** ... Cloud is planting the bomb **"
+	{
+		"chi"		"**克劳德正在安放炸弹**"
+	}
+	"** You did it ! You won at the HARDEST difficult ** Time to EXTREME mode ** Good luck ! **"
+	{
+		"chi"		"**你做到了！下一关进入极限难度。祝你好运。**"
+	}
+	"** OH MY ! YOU DID THE IMPOSSIBLE ! YOU OWN ! **"
+	{
+		"chi"		"**天哪噜！你完成了不可能的任务！**"
+	}
+	"** YOU ARE THE MASTERS OF MAKO REACTOR! **"
+	{
+		"chi"		"** **"
+	}
+	"*** Toggled -EXTREME II MODE- ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Toggled -NUKE- ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Toggled -EASY MODE- ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Toggled -NORMAL MODE- ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Toggled -HARD MODE- ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Toggled -EXTREME MODE- ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Toggled -COWBELLS- ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FOR TESTING LAG ONLY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PRESS BUTTON AGAIN TO KILL THINGS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Killed Cloud***"
+	{
+		"chi"		"** **"
+	}
+	"sm_kick @all Update"
+	{
+		"chi"		"** **"
+	}
+	"sm_kick @al Update"
+	{
+		"chi"		"** **"
+	}
+}

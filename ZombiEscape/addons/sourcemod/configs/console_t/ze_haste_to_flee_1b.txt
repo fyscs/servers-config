@@ -1,0 +1,187 @@
+"Console_T"
+{
+	"******men 20S da  kai******"
+	{
+		"chi"		"**门20秒后打开 **"
+	}
+	"******men 10S da  kai******"
+	{
+		"chi"		"**门10秒后打开 **"
+	}
+	"******men 5S da  kai******"
+	{
+		"chi"		"**门5秒后打开 **"
+	}
+	">>>>>>>>GO GO GO GO<<<<<<<<"
+	{
+		"chi"		"**>>>>>>>>快走<<<<<<<< **"
+	}
+	"******dian ti 10s  kai******"
+	{
+		"chi"		"**电梯将在10秒后离开**"
+	}
+	"======Zombie ti zi 3s BOOM ======"
+	{
+		"chi"		"**僵尸梯子3秒后爆炸 **"
+	}
+	"********fang  shou 50s men kai********"
+	{
+		"chi"		"**50秒后门将打开.守住 **"
+	}
+	"======Zombie 10s hou chuan song======"
+	{
+		"chi"		"**僵尸10秒后传送 **"
+	}
+	"********fang  shou 40s men kai********"
+	{
+		"chi"		"**40秒后门将打开.守住 **"
+	}
+	"********fang  shou 30s men kai********"
+	{
+		"chi"		"**30秒后门将打开.守住 **"
+	}
+	"********fang  shou 15s men kai********"
+	{
+		"chi"		"**15秒后门将打开.守住 **"
+	}
+	"********fang  shou 5s men kai********"
+	{
+		"chi"		"**5秒后门将打开.守住 **"
+	}
+	">>>>>>>>GO GO GO GO<<<<<<<<<"
+	{
+		"chi"		"**>>>>>>>>快走<<<<<<<< **"
+	}
+	"**********dian ti 15s kai  ************"
+	{
+		"chi"		"**电梯将在15秒后离开**"
+	}
+	"=====Zombie ti zi 3s BOOM====="
+	{
+		"chi"		"**僵尸梯子3秒后爆炸 **"
+	}
+	"*****qu zhao dao chuan song men de kai guan **********"
+	{
+		"chi"		"**去找到传送门的开关 **"
+	}
+	"===== Zombie 10s hou chuan song===="
+	{
+		"chi"		"**僵尸10秒后传送 **"
+	}
+	"******chuan song men 45s hou kai******"
+	{
+		"chi"		"**传送门45秒后激活 **"
+	}
+	"******chuan song men 30s hou kai******"
+	{
+		"chi"		"**传送门30秒后激活 **"
+	}
+	"******chuan song men 20s hou kai******"
+	{
+		"chi"		"**传送门20秒后激活 **"
+	}
+	"******chuan song men 10s hou kai******"
+	{
+		"chi"		"**传送门10秒后激活 **"
+	}
+	"******chuan song men 5s hou kai******"
+	{
+		"chi"		"**传送门5秒后激活 **"
+	}
+	"====== Zombie 10S  chuan song======"
+	{
+		"chi"		"**僵尸10秒后传送 **"
+	}
+	"******fang shou 35s da men BOOM******"
+	{
+		"chi"		"**门将在35秒后爆炸.守住 **"
+	}
+	"******fang shou 20s da men BOOM*****"
+	{
+		"chi"		"**门将在20秒后爆炸.守住	 **"
+	}
+	"******fang shou 10s da men BOOM*****"
+	{
+		"chi"		"**门将在10秒后爆炸.守住 **"
+	}
+	"******fang shou 5s da men BOOM*****"
+	{
+		"chi"		"**门将在5秒后爆炸.守住 **"
+	}
+	">>>>>>>>GO GO GO GO GO<<<<<<<<"
+	{
+		"chi"		"**走 **"
+	}
+	"*******deng dai dian ti men25s BOOM****"
+	{
+		"chi"		"**守住25秒.等待电梯门爆炸 **"
+	}
+	"*******deng dai dian ti men10s BOOM****"
+	{
+		"chi"		"**守住10秒.等待电梯门爆炸 **"
+	}
+	"*******dian ti 10 hou kai*******"
+	{
+		"chi"		"**电梯门10秒后打开 **"
+	}
+	">>>>>>>GO GO GO GO<<<<<<<"
+	{
+		"chi"		"**走 **"
+	}
+	"=========Zombie qing deng dai chuan song========"
+	{
+		"chi"		"**僵尸请等待传送 **"
+	}
+	"-------kuai ba qiang da sui--------"
+	{
+		"chi"		"**快把墙打碎 **"
+	}
+	"******chuan song men 15s hou kai qi*******"
+	{
+		"chi"		"**传送门15秒后激活 **"
+	}
+	">>>>>>GO GO GO GO<<<<<"
+	{
+		"chi"		"**走 **"
+	}
+	"******fang shou 30s men BOOM******"
+	{
+		"chi"		"**门将在30秒后爆炸.守住 **"
+	}
+	"******fang shou 20s men BOOM******"
+	{
+		"chi"		"**门将在20秒后爆炸.守住 **"
+	}
+	"******fang shou 10s men BOOM******"
+	{
+		"chi"		"**门将在10秒后爆炸.守住 **"
+	}
+	"******fang shou 5s men BOOM******"
+	{
+		"chi"		"**门将在5秒后爆炸.守住 **"
+	}
+	">>>>>>GO GO GO GO<<<<<<"
+	{
+		"chi"		"**走 **"
+	}
+	"*********25s hou  he  bao**********"
+	{
+		"chi"		"**25秒后核爆.守住 **"
+	}
+	"*********15s hou  he  bao**********"
+	{
+		"chi"		"**15秒后核爆.守住 **"
+	}
+	"*********5s hou  he  bao**********"
+	{
+		"chi"		"**5秒后核爆.守住 **"
+	}
+	"*********BOOM BOOM BOOM**********"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+}

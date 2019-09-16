@@ -1,43 +1,30 @@
 "Console_T"
 {
-    "Defend the snow part for 2 min"
-    {
-        "chi"        "** **"
-    }
-    "Map made by xXhamadryadesXx"
-    {
-        "chi"        "** **"
-    }
-    "Defend the desert part for 2 min"
-    {
-        "chi"        "** **"
-    }
-    "Defend the house for 2 min"
-    {
-        "chi"        "** **"
-    }
-    "Doors will be opens in 20 sec"
-    {
-        "chi"        "** **"
-    }
-    "Second Doors will be opens in 50 sec"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Reflelia***"
-    {
-        "chi"        "** **"
-    }
-    "***Particle Effect by Airvulpes***"
-    {
-        "chi"        "** **"
-    }
-    "***Thanks to Shizuru[idea]  uuz[model]***"
-    {
-        "chi"        "** **"
-    }
-    "*** ... ***"
-    {
-        "chi"        "** **"
-    }
+	"Defend the snow part for 2 min"
+	{
+		"DoorCountdown"		"118"
+		"chi"		"**在雪地防守118秒**"
+	}
+	"Defend the desert part for 2 min"
+	{
+		"DoorCountdown"		"109"
+		"chi"		"**在沙漠防守109秒**"
+	}
+	"Defend the house for 2 min"
+	{
+		"DoorCountdown"		"109"
+		"chi"		"**在房屋内防守109秒**"
+	}
+	"Doors will be opens in 20 sec"
+	{
+		"chi"		"**第一道门将在20秒后打开**"
+	}
+	"Second Doors will be opens in 50 sec"
+	{
+		"chi"		"**第二道门将在50秒后打开**"
+	}
+	"Map made by xXhamadryadesXx"
+	{
+		"chi"		"** **"
+	}
 }

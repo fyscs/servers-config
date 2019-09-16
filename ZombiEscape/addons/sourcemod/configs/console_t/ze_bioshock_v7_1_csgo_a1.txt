@@ -1,0 +1,172 @@
+"Console_T"
+{
+	">>>Warmup ends in 60 seconds<<<"
+	{
+		"chi"		">>>热身回合60s后结束<<<"
+	}
+	">>TIP #2: Repeated losses will make the map easier. Dont give up!<<"
+	{
+		"chi"		">>>提示2:多次通关失败会使地图更容易，不要放弃!<<<"
+		"DoorCountdown"		"-1"
+	}
+	">>TIP #3: Plasmids are limited use. Keep count!<<"
+	{
+		"chi"		">>>质粒的使用受到限制,酌情使用！<<<"
+		"DoorCountdown"		"-1"
+	}
+	">>TIP #4: Upgrade your Plasmids at Power to the People stations. Upgrades are PERMANENT. Choose carefully!<<"
+	{
+		"chi"		">>>在商店升级你的质粒，升级是永久性的，请谨慎选择！<<<"
+		"DoorCountdown"		"-1"
+	}
+	">>Big Sister is after you!<<"
+	{
+		"chi"		">>>大姐姐在你身后<<<"
+	}
+	"***Plasmid obtained: Winter Blast***"
+	{
+		"chi"		"**质粒拾取：寒霜**"
+	}
+	"***Plasmid obtained: Insect Swarm***"
+	{
+		"chi"		"**质粒拾取：蜂群**"
+	}
+	"***Plasmid obtained: Electro Bolt***"
+	{
+		"chi"		"**质粒拾取：闪电**"
+	}
+	"*AFK teleport in 5s*"
+	{
+		"chi"		"**AFK玩家5s后传送**"
+	}
+	"Thats a Little Sister. Looks like shes alone..."
+	{
+		"chi"		"**这个小妹妹看起来好孤独**"
+	}
+	"*Splicers have been blocked for 8 seconds*"
+	{
+		"chi"		"**僵尸被封锁8秒**"
+	}
+	">>>Chapter complete<<<"
+	{
+		"chi"		">>>章节完成<<<"
+	}
+	"*Splicers have been blocked for 6 seconds*"
+	{
+		"chi"		"**僵尸被封锁6秒**"
+	}
+	"*Splicers have been blocked for 4 seconds*"
+	{
+		"chi"		"**僵尸被封锁4秒**"
+	}
+	"*Splicers have been blocked for 2 seconds*"
+	{
+		"chi"		"**僵尸被封锁2秒**"
+	}
+	">>TIP #1: Vita Chambers are teleport locations. Dont get caught out!<<"
+	{
+		"chi"		">>>Vita Chambers是传送地点,别被发现<<<"
+	}
+	"*Splicers have been freed!*"
+	{
+		"chi"		"**僵尸已被释放**"
+	}
+	"***Plasmid obtained: Incinerate***"
+	{
+		"chi"		"**质粒拾取：焚化**"
+	}
+	"***Plasmid obtained: Gravity Well***"
+	{
+		"chi"		"**质粒拾取：重力**"
+	}
+	">>Gene Tonics unlocked<<"
+	{
+		"chi"		">>>基因墨尼斯特解锁<<<"
+	}
+	"*AFK teleport in 3s*"
+	{
+		"chi"		"**AFK玩家3s后传送**"
+	}
+	">>>Bathysphere door opens in 20 seconds<<<"
+	{
+		"chi"		">>>潜水装置的门20秒后打开<<<"
+	}
+	">>Splicers haved reached the bomb. FAILURE<<"
+	{
+		"chi"		">>>僵尸已经到达了炸弹地点 失败<<<"
+	}
+	">>>Find the secrets for the true ending<<<"
+	{
+		"chi"		">>>寻找秘密可以开启真实结局<<<"
+	}
+	">>>Bad ending obtained!<<<"
+	{
+		"chi"		">>>达成坏结局！<<<"
+	}
+	">>Campaign Completed<<"
+	{
+		"chi"		">>>地图通关<<<"
+	}
+	">>Thank you for playing. Try 1999 mode for a true challenge<<"
+	{
+		"chi"		">>>谢谢你的玩耍，尝试挑战1999模式<<<"
+		"DoorCountdown"		"-1"
+	}
+	">>1999 is a special mode<<"
+	{
+		"chi"		">>>1999是一个特殊的关卡<<<"
+		"DoorCountdown"		"-1"
+	}
+	">>Its long and difficult<<"
+	{
+		"chi"		">>>漫长并困难<<<"
+	}
+	">>Enjoy it<<"
+	{
+		"chi"		">>>享受它<<<"
+	}
+	"***Plasmid obtained: Sonic Boom***"
+	{
+		"chi"		"**质粒拾取：音爆**"
+	}
+	"*AFK teleport in 5s"
+	{
+		"chi"		"**AFK玩家5s后传送**"
+	}
+	">>>A Patriot is awake. Kill it!<<<"
+	{
+		"chi"		">>>爱国者被激活了，快杀了它！<<<"
+	}
+	">>>Jump onto the rail!<<<"
+	{
+		"chi"		">>>跳上轨道!<<<"
+	}
+	">>Chapter Completed<<"
+	{
+		"chi"		">>>章节完成<<<"
+	}
+	">>AFK teleport in 5 seconds<<"
+	{
+		"chi"		">>>5s后传送挂机玩家<<<"
+	}
+	">>Tip: The Songbird is vulnerable only to headshots. Remember this<<"
+	{
+		"chi"		">>>提示:Songbird的头部是它的弱点，记住！<<<"
+	}
+	">>>Elizabeth cant close the tear! Teleport in 5 seconds<<<"
+	{
+		"chi"		">>>伊丽莎白对裂隙失去了控制!僵尸在5秒后传送<<<"
+	}
+	">>>ELIZABETH: This is it! Defend the boat!<<<"
+	{
+		"chi"		">>>伊丽莎白：就是这里！守住船！<<<"
+	}
+	">>>ELIZABETH: The boat! GET IN THE BOAT<<<"
+	{
+		"chi"		">>>伊丽莎白：来！快上船！<<<"
+	}
+	">>>Chapter failed<<<"
+	{
+		"chi"		">>>章节失败<<<"
+	}
+}

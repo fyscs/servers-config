@@ -1,120 +1,73 @@
 "Console_T"
 {
-    "**** MAP BY AERIS_004 ****"
-    {
-        "chi"        "**地图作者：AERIS_004 地图汉化：大明**"
-    }
-    "*** WWW.SUPREME-ELITE.FR ***"
-    {
-        "chi"        "** **"
-    }
-    "***START ELEVATOR 15 SEC***"
-    {
-        "chi"        "**电梯将在15秒后下降**"
-    }
-    "***ELEVATOR UP 14 SEC***"
-    {
-        "chi"        "**升降机桥将在14秒后上升**"
-    }
-    "*** CATCH GOLD MEDAL ***"
-    {
-        "chi"        "**得到金币 **"
-    }
-    "***GENERATOR DESACTIVED***"
-    {
-        "chi"        "**电力恢复 **"
-    }
-    "***CATCH FUSE***"
-    {
-        "chi"        "**得到保险丝 **"
-    }
-    "***CATCH SILVER MEDAL***"
-    {
-        "chi"        "**得到银币 **"
-    }
-    "*** START TRAIN 20 SEC ***"
-    {
-        "chi"        "**缆车将在20s后运行 **"
-    }
-    "*** START TRAIN 10 SEC ***"
-    {
-        "chi"        "**缆车将在10s后运行 **"
-    }
-    "***START ELEVATOR 25 SEC***"
-    {
-        "chi"        "**电梯将在25s后运行 **"
-        "command"        "sv_airaccelerate 12"
-    }
-    "*** GAS ACTIVATED 40 SEC ***"
-    {
-        "chi"        "**秒杀毒气将在40秒后激活**"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "31947"
-    }
-    "MapGlobal_ConVars"
-    {
-        "0"
-        {
-            "cvar"        "zr_poison_enabled  0"
-        }
-    }
-    "***WWW.SUPREME-ELITE.FR ***"
-    {
-        "chi"        "** **"
-    }
-    "***START TRAIN 20 SEC ***"
-    {
-        "chi"        "**缆车将在20s后启动 **"
-        "command"        "sv_airaccelerate 1"
-    }
-    "### WELCOME TO CRAZY ESCAPE ###"
-    {
-        "chi"        "**热身时间**"
-    }
-    "***Map by Reflelia***"
-    {
-        "chi"        "** **"
-    }
-    "**Stage 1**"
-    {
-        "chi"        "** **"
-    }
-    "***Modified by Reflelia***"
-    {
-        "chi"        "** **"
-    }
-    "***60 SECONDS LEFT***"
-    {
-        "chi"        "**还有60秒**"
-    }
-    "***WARM UP ROUIND***"
-    {
-        "chi"        "** **"
-    }
-    "[NORMAL MODE]"
-    {
-        "chi"        "** **"
-    }
-    ">>LEVEL: EASY<<"
-    {
-        "chi"        "** **"
-    }
-    "** ORIGINAL ZE BLACKMESA BY BILL SMAUTZ **"
-    {
-        "chi"        "** **"
-    }
-    "** REDESIGN BY CISNEROS **"
-    {
-        "chi"        "** **"
-    }
-    "* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
-    {
-        "chi"        "** **"
-    }
-    "* * * Choose the first MINIGAME * * *"
-    {
-        "chi"        "** **"
-    }
+	"**** MAP BY AERIS_004 ****"
+	{
+		"chi"		"**地图制作：AERIS_004 地图翻译：清新的二哈♪**"
+		"command"		"sv_airaccelerate 12"
+	}
+	"*** WWW.SUPREME-ELITE.FR ***"
+	{
+		"chi"		"** **"
+	}
+	"***START ELEVATOR 15 SEC***"
+	{
+		"chi"		"**电梯将在15s后运行 **"
+	}
+	"***ELEVATOR UP 14 SEC***"
+	{
+		"chi"		"**桥将在14s后上升 **"
+	}
+	"*** CATCH GOLD MEDAL ***"
+	{
+		"chi"		"**得到金币 **"
+	}
+	"***GENERATOR DESACTIVED***"
+	{
+		"chi"		"**电力恢复 **"
+	}
+	"***CATCH FUSE***"
+	{
+		"chi"		"**得到保险丝 **"
+	}
+	"***CATCH SILVER MEDAL***"
+	{
+		"chi"		"**得到银币 **"
+	}
+	"*** START TRAIN 20 SEC ***"
+	{
+		"chi"		"**缆车将在20s后运行 **"
+	}
+	"*** START TRAIN 10 SEC ***"
+	{
+		"chi"		"**缆车将在10s后运行 **"
+	}
+	"***START ELEVATOR 25 SEC***"
+	{
+		"chi"		"**电梯将在25s后运行 **"
+		"command"		"sv_airaccelerate 12"
+	}
+	"*** GAS ACTIVATED 40 SEC ***"
+	{
+		"chi"		"**沙林毒气将在40s后释放 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"31947"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"zr_poison_enabled  0"
+		}
+	}
+	"***WWW.SUPREME-ELITE.FR ***"
+	{
+		"chi"		"** **"
+	}
+	"***START TRAIN 20 SEC ***"
+	{
+		"chi"		"**缆车将在20s后启动 **"
+		"command"		"sv_airaccelerate 1"
+	}
 }

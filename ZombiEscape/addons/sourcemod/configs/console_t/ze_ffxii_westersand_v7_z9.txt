@@ -1,448 +1,345 @@
 "Console_T"
 {
-    "** MAP BY SLAYERDRAGON **"
-    {
-        "chi"        "**作者：SLAYERDRAGON**"
-    }
-    "[NORMAL MODE]"
-    {
-        "chi"        "**普通难度[NORMAL]**"
-    }
-    "** Defend untill the guards open the airport. **"
-    {
-        "chi"        "**坚守至守卫将机场开放**"
-    }
-    "** Airport opened. **"
-    {
-        "chi"        "**机场开放**"
-    }
-    "** Defend 25 seconds untill the guards open the hallway. **"
-    {
-        "chi"        "**防守25秒，直到守卫开放道路**"
-        "DoorCountDown"        "25"
-    }
-    "** A player has learned Wind magick. **"
-    {
-        "chi"        "**一名玩家捡起了飓风权杖（召唤飓风环绕保护玩家，跟随法杖移动）**"
-    }
-    "** 5 Seconds left **"
-    {
-        "chi"        "**还剩5秒**"
-    }
-    "** Defend here so the guards will open the gates to the city! **"
-    {
-        "chi"        "**守住这里，直到守卫开放前往城市的道路**"
-        "DoorCountDown"        "20"
-    }
-    "** Cover here till the rock explodes **"
-    {
-        "chi"        "**守住25秒-直到石头爆炸**"
-        "DoorCountDown"        "25"
-    }
-    "** The elevator will leave in 20 seconds **"
-    {
-        "chi"        "**电梯将在20秒后离开!**"
-        "DoorCountDown"        "20"
-    }
-    "** The elevator will leave in 5 seconds **"
-    {
-        "chi"        "**电梯将在5秒后离开!**"
-    }
-    "** The first door will open in 10 seconds **"
-    {
-        "chi"        "**第一道门将在10秒后打开**"
-        "DoorCountDown"        "10"
-    }
-    "** The second door will open in 15 seconds **"
-    {
-        "chi"        "**第二道门将在15秒后打开**"
-    }
-    "** A player has learned Heal magick. **"
-    {
-        "chi"        "**一名玩家捡起了治疗权杖（召唤一处圣光，将队友奶成250）**"
-        "DoorCountDown"        "-1"
-    }
-    "** Keep defending!! **"
-    {
-        "chi"        "**继续防守！！！**"
-    }
-    "** Nades do more damage **"
-    {
-        "chi"        "**手雷可以造成大量伤害**"
-    }
-    "** METEOR INBOUND **"
-    {
-        "chi"        "**陨石将至**"
-        "DoorCountDown"        "5"
-    }
-    "** USE ELECTRO TO  BREAK IT **"
-    {
-        "chi"        "**使用闪电击碎陨石，或向两侧躲避**"
-    }
-    "** The dragon has been defeated **"
-    {
-        "chi"        "**龙已经被打败了**"
-    }
-    "** Cover 10 seconds till the rock explodes **"
-    {
-        "chi"        "**防守10秒直到石头炸开**"
-    }
-    "** Go to the end of the road! **"
-    {
-        "chi"        "**向路的尽头前进**"
-    }
-    "** 50 SECS REMAINING **"
-    {
-        "chi"        "**还有50秒**"
-    }
-    "** Congratulations - You won [NORMAL] **"
-    {
-        "chi"        "**恭喜：你已经征服普通难度**"
-        "command"        "sm_aei_hammerid 257307 use"
-    }
-    "[HARD MODE]"
-    {
-        "chi"        "**困难难度[HARD]**"
-    }
-    "** A player has learned Holy magick. **"
-    {
-        "chi"        "**一位玩家捡起了神圣权杖（尘归尘，土归土）**"
-    }
-    "** A player has learned Earth magick. **"
-    {
-        "chi"        "**一位玩家捡起了大地权杖（向前方释放一层岩石用以防御）**"
-    }
-    "** Cover 20 seconds till the rock explodes **"
-    {
-        "chi"        "**防守20秒直到石头爆炸**"
-        "DoorCountDown"        "20"
-    }
-    "** A player has learned Fire magick. **"
-    {
-        "chi"        "**一位玩家捡起了烈焰权杖（所到之处，寸草不生）**"
-    }
-    "** A player has learned Water magick. **"
-    {
-        "chi"        "**一名玩家捡起了水花权杖**"
-    }
-    "** FIRE NOVA INBOUND **"
-    {
-        "chi"        "**大火来袭**"
-        "DoorCountDown"        "5"
-    }
-    "** USE WATER TO DODGE IT  **"
-    {
-        "chi"        "**使用水来解决或用奶来抵抗**"
-    }
-    "** Congratulations - You won [HARD] **"
-    {
-        "chi"        "**恭喜：你已经征服了困难难度**"
-    }
-    "[EXTREME MODE]"
-    {
-        "chi"        "**极限难度[EXTREME]**"
-    }
-    "** Cover 30 seconds till the rock explodes **"
-    {
-        "chi"        "**防守30秒直到石头爆炸**"
-        "DoorCountDown"        "30"
-    }
-    "** 70 SECS REMAINING **"
-    {
-        "chi"        "**还有70秒**"
-    }
-    "** 40 SECS REMAINING **"
-    {
-        "chi"        "**还有40秒**"
-    }
-    "** 30 SECS REMAINING **"
-    {
-        "chi"        "**还有30秒**"
-    }
-    "** 20 SECS REMAINING **"
-    {
-        "chi"        "**还有20秒**"
-    }
-    "** 10 SECS REMAINING **"
-    {
-        "chi"        "**还有10秒**"
-    }
-    "** 5 SECS REMAINING **"
-    {
-        "chi"        "**还有5秒**"
-    }
-    "** 60 SECS REMAINING **"
-    {
-        "chi"        "**还有60秒**"
-    }
-    "[ADMIN] Selected [HARD MODE] for next round. Restarting round in 5 seconds."
-    {
-        "chi"        "**已选择极限关卡 5秒后重新开始**"
-    }
-    "** Congratulations - You won [EXTREME] **"
-    {
-        "chi"        "**恭喜：你已经征服了极限难度[EXTREME]**"
-    }
-    "[EPIC MODE]"
-    {
-        "chi"        "**史诗难度[EPIC]**"
-    }
-    "** Teleporter will be ready in 20 seconds! **"
-    {
-        "chi"        "**20秒后开启传送**"
-        "DoorCountDown"        "20"
-    }
-    "** Teleporter will be ready in 5 seconds! **"
-    {
-        "chi"        "**5秒后开启传送**"
-    }
-    "** Door will open in 5 seconds **"
-    {
-        "chi"        "**大门五秒后开启**"
-    }
-    "** Second door will open in 10 seconds **"
-    {
-        "chi"        "**第二道门10秒后开启**"
-    }
-    "** Hold 10 more seconds!! **"
-    {
-        "chi"        "**坚守10秒等待大门关闭**"
-    }
-    "** The guardians are dead!! Run back to the entrance!! **"
-    {
-        "chi"        "**守护者已被击败从入口处返回**"
-    }
-    "** The healer is down!! **"
-    {
-        "chi"        "**医疗卫兵已倒下**"
-    }
-    "** The battlemage is down!! **"
-    {
-        "chi"        "**战斗法师已倒下**"
-    }
-    "** ZM JAIL OPEN **"
-    {
-        "chi"        "**僵尸出笼！！！**"
-    }
-    "** Defend here for 30 seconds **"
-    {
-        "chi"        "**坚守30秒**"
-        "DoorCountDown"        "30"
-    }
-    "** The airship reactors are going to explode!! **"
-    {
-        "chi"        "**空艇的反应堆即将爆炸**"
-    }
-    "** CHAOS is using a deathwall - RUN FASTER!! **"
-    {
-        "chi"        "**轮回王开启了死墙，你们要加油！！**"
-    }
-    "** Chaos has been defeated - RUN !!!!! **"
-    {
-        "chi"        "**你们已经击败轮回王！—跑！！！**"
-    }
-    "** Congratulations - You won [EPIC] **"
-    {
-        "chi"        "**恭喜：你已经征服了史诗难度**"
-    }
-    "[GOD MODE]"
-    {
-        "chi"        "**上帝难度[GOD]**"
-    }
-    "** 5 more seconds **"
-    {
-        "chi"        "** **"
-    }
-    "** A player has learned Electro magick. **"
-    {
-        "chi"        "**一位玩家捡起了雷电权杖（雷电将会制裁它们）**"
-    }
-    "[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds."
-    {
-        "chi"        "**已选择天神难度，5秒后重新开始**"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "6958"
-    }
-    "[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
-    {
-        "chi"        "**已选择史诗难度，5秒后重新开始**"
-    }
-    "** Zombies Have Escaped **"
-    {
-        "chi"        "** **"
-    }
-    "** The dragon has been defeated! GOGOGO **"
-    {
-        "chi"        "**巨龙已死，逃离这个地方**"
-    }
-    "[3 WINS IN A ROW] Easteregg unlocked!"
-    {
-        "chi"        "** **"
-    }
-    "** Congratulations - You won [GODMODE] **"
-    {
-        "chi"        "** **"
-    }
-    "[ZOMBIE MODE]"
-    {
-        "chi"        "** **"
-    }
-    "** NUKE IN 80 SECONDS **"
-    {
-        "chi"        "** **"
-    }
-    "** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **"
-    {
-        "chi"        "** **"
-    }
-    "** TELEPORTING EVERYONE TO CHOCOBORACE **"
-    {
-        "chi"        "** **"
-    }
-    "** ZOMBIES RELEASED IN 2 SECS **"
-    {
-        "chi"        "** **"
-    }
-    "** NUKE IN 20 SECONDS **"
-    {
-        "chi"        "** **"
-    }
-    "[WINNER] Selected [EXTREME MODE] for next round"
-    {
-        "chi"        "** **"
-    }
-    "** You have failed... **"
-    {
-        "chi"        "** **"
-    }
-    "** THANKS FOR PLAYING **"
-    {
-        "chi"        "** **"
-    }
-    "[WINNER] Selected [EPIC MODE] for next round"
-    {
-        "chi"        "** **"
-    }
-    "[WINNER] Selected [GOD MODE] for next round"
-    {
-        "chi"        "** **"
-    }
-    "** Increase Laser Speed For This Round **"
-    {
-        "chi"        "** **"
-    }
-    "** Remove Chaos Maximun Hp **"
-    {
-        "chi"        "** **"
-    }
-    "<< ze_surf_virtus >>"
-    {
-        "chi"        "** **"
-    }
-    "<< Fix by : Lishang >>"
-    {
-        "chi"        "** **"
-    }
-    "---***This map will mute your sound if you are outside the lunar base***---"
-    {
-        "chi"        "** **"
-    }
-    "*** MAP BY STRUPPI ***"
-    {
-        "chi"        "** **"
-    }
-    ">>LEVEL: EASY<<"
-    {
-        "chi"        "** **"
-    }
-    "** MAP BY Hannibal [SPA] (Rafuron) **"
-    {
-        "chi"        "** **"
-    }
-    "***Modified by Reflelia***"
-    {
-        "chi"        "** **"
-    }
-    "***60 SECONDS LEFT***"
-    {
-        "chi"        "** **"
-    }
-    "***WARM UP ROUIND***"
-    {
-        "chi"        "** **"
-    }
-    "### WELCOME TO CRAZY ESCAPE ###"
-    {
-        "chi"        "** **"
-    }
-    ">> Map by TaskuVaras and Moltard <<"
-    {
-        "chi"        "** **"
-    }
-    "** [HARD MODE] **"
-    {
-        "chi"        "** **"
-    }
-    "[ADMIN] Selected [EXTREME MODE] for next round. Restarting round in 5 seconds."
-    {
-        "chi"        "** **"
-    }
-    "For POSSESSION, Respect to Sakura"
-    {
-        "chi"        "** **"
-    }
-    "Based-map by Xquality"
-    {
-        "chi"        "** **"
-    }
-    "**Stage 1**"
-    {
-        "chi"        "** **"
-    }
-    "**welcome to ze_fat_hours_escape**"
-    {
-        "chi"        "** **"
-    }
-    "**map by yinyuehzixi**"
-    {
-        "chi"        "** **"
-    }
-    "**ZE_FFXII_FEYWOOD**"
-    {
-        "chi"        "** **"
-    }
-    "** ZE_SUPERSHITSHOW **"
-    {
-        "chi"        "** **"
-    }
-    "** A mode will be chosen shortly... **"
-    {
-        "chi"        "** **"
-    }
-    "**Welcome to Minas Tirith - City of Kings**"
-    {
-        "chi"        "** **"
-    }
-    ">>>Respawn wall break in 20 sec<<<"
-    {
-        "chi"        "** **"
-    }
-    "[ADMIN] Restarting round in 5 seconds."
-    {
-        "chi"        "** **"
-    }
-    "** re shen 50 miao **"
-    {
-        "chi"        "** **"
-    }
-    "**map by koyomaple**"
-    {
-        "chi"        "** **"
-    }
-    "[WINNER] Selected [HARD MODE] for next round"
-    {
-        "chi"        "** **"
-    }
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"chi"		"**作者：SLAYERDRAGON**"
+	}
+	"[NORMAL MODE]"
+	{
+		"chi"		"**普通难度[NORMAL]**"
+	}
+	"** Defend untill the guards open the airport. **"
+	{
+		"chi"		"**坚守至守卫将机场开放**"
+	}
+	"** Airport opened. **"
+	{
+		"chi"		"**机场开放**"
+	}
+	"** Defend 25 seconds untill the guards open the hallway. **"
+	{
+		"chi"		"**防守25秒，直到守卫开放道路**"
+		"DoorCountdown"		"0"
+	}
+	"** A player has learned Wind magick. **"
+	{
+		"chi"		"**一名玩家捡起了飓风权杖（召唤飓风环绕保护玩家，跟随法杖移动）**"
+	}
+	"** 5 Seconds left **"
+	{
+		"chi"		"**还剩5秒**"
+	}
+	"** Defend here so the guards will open the gates to the city! **"
+	{
+		"chi"		"**守住这里，直到守卫开放前往城市的道路**"
+		"DoorCountdown"		"20"
+	}
+	"** Cover here till the rock explodes **"
+	{
+		"chi"		"**守住25秒-直到石头爆炸**"
+		"DoorCountdown"		"25"
+	}
+	"** The elevator will leave in 20 seconds **"
+	{
+		"chi"		"**电梯将在20秒后离开!**"
+		"DoorCountdown"		"0"
+	}
+	"** The elevator will leave in 5 seconds **"
+	{
+		"chi"		"**电梯将在5秒后离开!**"
+	}
+	"** The first door will open in 10 seconds **"
+	{
+		"chi"		"**第一道门将在10秒后打开**"
+		"DoorCountdown"		"0"
+	}
+	"** The second door will open in 15 seconds **"
+	{
+		"chi"		"**第二道门将在15秒后打开**"
+	}
+	"** A player has learned Heal magick. **"
+	{
+		"chi"		"**一名玩家捡起了治疗权杖（召唤一处圣光，将队友奶成250）**"
+		"DoorCountdown"		"-1"
+	}
+	"** Keep defending!! **"
+	{
+		"chi"		"**继续防守！！！**"
+	}
+	"** Nades do more damage **"
+	{
+		"chi"		"**手雷可以造成大量伤害**"
+	}
+	"** METEOR INBOUND **"
+	{
+		"chi"		"**陨石将至**"
+		"DoorCountdown"		"5"
+	}
+	"** USE ELECTRO TO  BREAK IT **"
+	{
+		"chi"		"**使用闪电击碎陨石，或向两侧躲避**"
+	}
+	"** The dragon has been defeated **"
+	{
+		"chi"		"**龙已经被打败了**"
+	}
+	"** Cover 10 seconds till the rock explodes **"
+	{
+		"chi"		"**防守10秒直到石头炸开**"
+	}
+	"** Go to the end of the road! **"
+	{
+		"chi"		"**向路的尽头前进**"
+	}
+	"** 50 SECS REMAINING **"
+	{
+		"chi"		"**还有50秒**"
+	}
+	"** Congratulations - You won [NORMAL] **"
+	{
+		"chi"		"**恭喜：你已经征服普通难度**"
+		"command"		"sm_aei_hammerid 257307 use"
+	}
+	"[HARD MODE]"
+	{
+		"chi"		"**困难难度[HARD]**"
+	}
+	"** A player has learned Holy magick. **"
+	{
+		"chi"		"**一位玩家捡起了神圣权杖（尘归尘，土归土）**"
+	}
+	"** A player has learned Earth magick. **"
+	{
+		"chi"		"**一位玩家捡起了大地权杖（向前方释放一层岩石用以防御）**"
+	}
+	"** Cover 20 seconds till the rock explodes **"
+	{
+		"chi"		"**防守20秒直到石头爆炸**"
+		"DoorCountdown"		"0"
+	}
+	"** A player has learned Fire magick. **"
+	{
+		"chi"		"**一位玩家捡起了烈焰权杖（所到之处，寸草不生）**"
+	}
+	"** A player has learned Water magick. **"
+	{
+		"chi"		"**一名玩家捡起了水花权杖**"
+	}
+	"** FIRE NOVA INBOUND **"
+	{
+		"chi"		"**大火来袭**"
+		"DoorCountdown"		"5"
+	}
+	"** USE WATER TO DODGE IT  **"
+	{
+		"chi"		"**使用水来解决或用奶来抵抗**"
+	}
+	"** Congratulations - You won [HARD] **"
+	{
+		"chi"		"**恭喜：你已经征服了困难难度**"
+	}
+	"[EXTREME MODE]"
+	{
+		"chi"		"**极限难度[EXTREME]**"
+	}
+	"** Cover 30 seconds till the rock explodes **"
+	{
+		"chi"		"**防守30秒直到石头爆炸**"
+		"DoorCountdown"		"0"
+	}
+	"** 70 SECS REMAINING **"
+	{
+		"chi"		"**还有70秒**"
+	}
+	"** 40 SECS REMAINING **"
+	{
+		"chi"		"**还有40秒**"
+	}
+	"** 30 SECS REMAINING **"
+	{
+		"chi"		"**还有30秒**"
+	}
+	"** 20 SECS REMAINING **"
+	{
+		"chi"		"**还有20秒**"
+	}
+	"** 10 SECS REMAINING **"
+	{
+		"chi"		"**还有10秒**"
+	}
+	"** 5 SECS REMAINING **"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"** 60 SECS REMAINING **"
+	{
+		"chi"		"**还有60秒**"
+	}
+	"[ADMIN] Selected [HARD MODE] for next round. Restarting round in 5 seconds."
+	{
+		"chi"		"**已选择极限关卡 5秒后重新开始**"
+	}
+	"** Congratulations - You won [EXTREME] **"
+	{
+		"chi"		"**恭喜：你已经征服了极限难度[EXTREME]**"
+	}
+	"[EPIC MODE]"
+	{
+		"chi"		"**史诗难度[EPIC]**"
+	}
+	"** Teleporter will be ready in 20 seconds! **"
+	{
+		"chi"		"**20秒后开启传送**"
+		"DoorCountdown"		"0"
+	}
+	"** Teleporter will be ready in 5 seconds! **"
+	{
+		"chi"		"**5秒后开启传送**"
+	}
+	"** Door will open in 5 seconds **"
+	{
+		"chi"		"**大门5秒后开启**"
+	}
+	"** Second door will open in 10 seconds **"
+	{
+		"chi"		"**第二道门10秒后开启**"
+	}
+	"** Hold 10 more seconds!! **"
+	{
+		"chi"		"**坚守10秒等待大门关闭**"
+	}
+	"** The guardians are dead!! Run back to the entrance!! **"
+	{
+		"chi"		"**守护者已被击败从入口处返回**"
+	}
+	"** The healer is down!! **"
+	{
+		"chi"		"**医疗卫兵已倒下**"
+	}
+	"** The battlemage is down!! **"
+	{
+		"chi"		"**战斗法师已倒下**"
+	}
+	"** ZM JAIL OPEN **"
+	{
+		"chi"		"**僵尸出笼！！！**"
+	}
+	"** Defend here for 30 seconds **"
+	{
+		"chi"		"**坚守30秒**"
+		"DoorCountdown"		"0"
+	}
+	"** The airship reactors are going to explode!! **"
+	{
+		"chi"		"**空艇的反应堆即将爆炸**"
+	}
+	"** CHAOS is using a deathwall - RUN FASTER!! **"
+	{
+		"chi"		"**轮回王开启了死墙，你们要加油！！**"
+	}
+	"** Chaos has been defeated - RUN !!!!! **"
+	{
+		"chi"		"**你们已经击败轮回王！—跑！！！**"
+	}
+	"** Congratulations - You won [EPIC] **"
+	{
+		"chi"		"**恭喜：你已经征服了史诗难度**"
+	}
+	"[GOD MODE]"
+	{
+		"chi"		"**上帝难度[GOD]**"
+	}
+	"** 5 more seconds **"
+	{
+		"chi"		"**还剩5秒**"
+	}
+	"** A player has learned Electro magick. **"
+	{
+		"chi"		"**一位玩家捡起了雷电权杖（雷电将会制裁它们）**"
+	}
+	"[ADMIN] Selected [GOD MODE] for next round. Restarting round in 5 seconds."
+	{
+		"chi"		"**已选择天神难度，5秒后重新开始**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"6958"
+	}
+	"[ADMIN] Selected [EPIC MODE] for next round. Restarting round in 5 seconds."
+	{
+		"chi"		"**已选择史诗难度，5秒后重新开始**"
+	}
+	"** Zombies Have Escaped **"
+	{
+		"chi"		"** **"
+	}
+	"** The dragon has been defeated! GOGOGO **"
+	{
+		"chi"		"**巨龙已死，逃离这个地方**"
+	}
+	"[3 WINS IN A ROW] Easteregg unlocked!"
+	{
+		"chi"		"** **"
+	}
+	"** Congratulations - You won [GODMODE] **"
+	{
+		"chi"		"** **"
+	}
+	"[ZOMBIE MODE]"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE IN 80 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** TELEPORTING EVERYONE TO CHOCOBORACE IN 10 SEC **"
+	{
+		"chi"		"** **"
+	}
+	"** TELEPORTING EVERYONE TO CHOCOBORACE **"
+	{
+		"chi"		"** **"
+	}
+	"** ZOMBIES RELEASED IN 2 SECS **"
+	{
+		"chi"		"** **"
+	}
+	"** NUKE IN 20 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"[WINNER] Selected [EXTREME MODE] for next round"
+	{
+		"chi"		"** **"
+	}
+	"** You have failed... **"
+	{
+		"chi"		"** **"
+	}
+	"** Thanks for playing **"
+	{
+		"chi"		"** **"
+	}
+	"[WINNER] Selected [EPIC MODE] for next round"
+	{
+		"chi"		"** **"
+	}
+	"[WINNER] Selected [GOD MODE] for next round"
+	{
+		"chi"		"** **"
+		"command"		"sm_aei_hammerid 100001 use"
+	}
+	"** Increase Laser Speed For This Round **"
+	{
+		"chi"		"**当前回合的刀速加快。**"
+	}
+	"** Remove Chaos Maximun Hp **"
+	{
+		"chi"		"**移除轮回王的血量上限。**"
+	}
+	"[WINNER] Selected [HARD MODE] for next round"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,15 +1,23 @@
 "Console_T"
 {
-    "***Door Open in 30secs.***"
-    {
-        "chi"        "** **"
-    }
-    "***Door Open in 34secs.***"
-    {
-        "chi"        "** **"
-    }
-    "***Door Breaks in 30secs.***"
-    {
-        "chi"        "** **"
-    }
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"99952"
+	}
+	"***Door Open in 30secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***Door Open in 34secs.***"
+	{
+		"chi"		"** **"
+	}
+	"***Door Breaks in 30secs.***"
+	{
+		"chi"		"** **"
+	}
 }

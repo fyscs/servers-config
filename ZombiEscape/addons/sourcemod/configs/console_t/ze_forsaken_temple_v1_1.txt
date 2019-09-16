@@ -1,0 +1,411 @@
+"Console_T"
+{
+	"** WARM UP - 45 SEC **"
+	{
+		"chi"		"**热身 - 45秒**"
+	}
+	"** TIP: one player must touch the closed door to trigger **"
+	{
+		"chi"		"**提示：地图有摔伤不要摔死了**"
+	}
+	"** TIP: most zombie teleports are quick so do not overdefend! **"
+	{
+		"chi"		"**提示：僵尸传送很快不要死断**"
+	}
+	"** TIP: search for key items when the console tells you to do so **"
+	{
+		"chi"		"**提示：某些机关需要钥匙才能触发，留意场景中的提示**"
+	}
+	"** Admin room is located behind the spawn **"
+	{
+		"chi"		"**调关房在出生点后面**"
+	}
+	"** Lets begin the adventure! **"
+	{
+		"chi"		"**让冒险开始吧！**"
+	}
+	"** STAGE 1: Explore **"
+	{
+		"chi"		"**第一关：探索**"
+	}
+	"** Right fence is breaking in 30s **"
+	{
+		"chi"		"**右边栅栏30秒后碎**"
+	}
+	"** Gate is opening in 25s **"
+	{
+		"chi"		"**大门25秒后打开**"
+	}
+	"** Door is opening in 50s **"
+	{
+		"chi"		"**大门50秒后打开**"
+	}
+	"** Exit door is opening in 10s **"
+	{
+		"chi"		"**出口大门10秒后打开**"
+	}
+	"** Find two key items!! **"
+	{
+		"chi"		"**找到两把钥匙**"
+	}
+	"** Key item carriers should stand on both platform **"
+	{
+		"chi"		"**钥匙持有者需要同时站在正确的平台上**"
+	}
+	"** Hint: The pit will open faster if you place key items in correct position **"
+	{
+		"chi"		"**提示：如果钥匙持有者站在正确的平台上能快速开坑**"
+	}
+	"** Nicely done. You got the correct position. **"
+	{
+		"chi"		"**干得漂亮！你站在了正确的位置上**"
+	}
+	"** Pit is opening in 40s **"
+	{
+		"chi"		"**坑在40秒后打开**"
+	}
+	"** Defend 20s **"
+	{
+		"chi"		"**防守20秒**"
+	}
+	"** Boss enrage in FOUR minutes **"
+	{
+		"chi"		"**高爆、电和黑洞能对BOSS造成大量伤害**"
+	}
+	"** Tumult - use heal **"
+	{
+		"chi"		"**汹 - 使用奶子**"
+	}
+	"** Pit is opening in 80s **"
+	{
+		"chi"		"**坑在80秒后打开**"
+	}
+	"** Bury - look up **"
+	{
+		"chi"		"**墐 - 抬头看**"
+	}
+	"** Landslide **"
+	{
+		"chi"		"**横扫大地**"
+	}
+	"** Servant - defend zombies **"
+	{
+		"chi"		"**奴 - 防守僵尸**"
+	}
+	"** Weight of the Land - move away **"
+	{
+		"chi"		"**坤 - 四处散开**"
+	}
+	"** Boss defeated! RUN! **"
+	{
+		"chi"		"**BOSS被我们击败了！快走！**"
+	}
+	"** Gate is opening in 40s **"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	"** Path is clearing in 10s **"
+	{
+		"chi"		"**道路在10秒后清除**"
+	}
+	"** Door is opening in 10s **"
+	{
+		"chi"		"**大门10秒后打开**"
+	}
+	"** Press TWO buttons on both sides **"
+	{
+		"chi"		"**按下两边的两个按钮**"
+	}
+	"** Button 2 pressed **"
+	{
+		"chi"		"**按钮二已按下**"
+	}
+	"** Button 1 pressed **"
+	{
+		"chi"		"**按钮一已按下**"
+	}
+	"** Nicely done **"
+	{
+		"chi"		"**干得漂亮**"
+	}
+	"** Door is opening in 30s **"
+	{
+		"chi"		"**大门30秒后打开**"
+	}
+	"** Door is closing in 10s **"
+	{
+		"chi"		"**大门10秒后关闭**"
+	}
+	"** MOVING ON TO STAGE 2 **"
+	{
+		"chi"		"**前往第二关**"
+	}
+	"** STAGE 2: Underground **"
+	{
+		"chi"		"**第二关：地下**"
+	}
+	"** Left fence is breaking in 30s **"
+	{
+		"chi"		"**左边栅栏30秒后碎**"
+	}
+	"** Door is opening in 35s **"
+	{
+		"chi"		"**大门35秒后打开**"
+	}
+	"** Find and press TWO buttons **"
+	{
+		"chi"		"**找到并按下两个按钮**"
+	}
+	"** Its seems the door is locked **"
+	{
+		"chi"		"**看上去大门紧闭**"
+	}
+	"** Use the key to unlock it **"
+	{
+		"chi"		"**找到大门的钥匙**"
+	}
+	"** Hint: key item owner must touch the locked door **"
+	{
+		"chi"		"**提示：钥匙持有者需要触碰大门**"
+	}
+	"** Nicely done! The door is going to unlock! **"
+	{
+		"chi"		"**干得漂亮！大门将要打开！**"
+	}
+	"** Door is opening in 40s **"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	"** Door is opening in 25s **"
+	{
+		"chi"		"**大门25秒后打开**"
+	}
+	"** JUMP! **"
+	{
+		"chi"		"**跳!!! (指按住空格)**"
+	}
+	"** Door is opening in 20s **"
+	{
+		"chi"		"**大门20秒后打开**"
+	}
+	"** Dancing Claw - prepare using heal **"
+	{
+		"chi"		"**舞爪 - 使用奶子**"
+		"DoorCountdown"		"3"
+	}
+	"** Divine Tears - crouch **"
+	{
+		"chi"		"**圣泪 - 蹲下**"
+		"DoorCountdown"		"3"
+	}
+	"** Ricochet **"
+	{
+		"chi"		"**冲撞 - 硬抗**"
+		"DoorCountdown"		"3"
+	}
+	"** Vampire - stop shooting **"
+	{
+		"chi"		"**吸血 - 停止射击**"
+		"DoorCountdown"		"3"
+	}
+	"** Swallow - stay back **"
+	{
+		"chi"		"**吞噬 - 往后站**"
+		"DoorCountdown"		"3"
+	}
+	"** Force - stay front **"
+	{
+		"chi"		"**力量 - 往前站**"
+		"DoorCountdown"		"3"
+	}
+	"** You are too late. Boss enrage soon.. **"
+	{
+		"chi"		"**你打得太慢了，BOSS很快被彻底激怒 **"
+	}
+	"** Boss defeated **"
+	{
+		"chi"		"**BOSS被我们击败了！**"
+	}
+	"** Retreat! **"
+	{
+		"chi"		"**撤退~~**"
+	}
+	"** Air-strike is incoming **"
+	{
+		"chi"		"**空袭正在来袭**"
+	}
+	"** Survive 25s **"
+	{
+		"chi"		"**存活25秒**"
+	}
+	"** MOVING ON TO STAGE 1 HARD **"
+	{
+		"chi"		"**正在前往第一关（困难）**"
+	}
+	"** STAGE 1 HARD: Return **"
+	{
+		"chi"		"**第一关（困难）：回归**"
+	}
+	"** ADMIN SELECTED STAGE 3 **"
+	{
+		"chi"		"** **"
+	}
+	"** STAGE 3: Escape **"
+	{
+		"chi"		"**第三关：逃跑**"
+	}
+	"** Defend 30s **"
+	{
+		"chi"		"**防守30秒**"
+	}
+	"** RESCUE HELICOPTER HAS ARRIVED ON LEFT **"
+	{
+		"chi"		"**救援直升机已经抵达左侧**"
+	}
+	"** Dodge the lasers!! **"
+	{
+		"chi"		"**跳刀啦！！**"
+	}
+	"** VOICE: THERE IS NO ESCAPE! **"
+	{
+		"chi"		"**谜之声：你无处可逃！**"
+	}
+	"** HEAL IS DISABLED **"
+	{
+		"chi"		"**奶子没了**"
+	}
+	"** Get on the helicopter! It is leaving soon!! **"
+	{
+		"chi"		"**快上飞机！**"
+	}
+	"** VOICE: NOO! NOOO!! **"
+	{
+		"chi"		"**谜之声：不不不不~~~~~**"
+	}
+	"** YOU HAVE BEATEN THE MAP! **"
+	{
+		"chi"		"**你赢得了本张地图！**"
+	}
+	"** ADMIN SELECTED STAGE 2 **"
+	{
+		"chi"		"** **"
+	}
+	"** Vortex **"
+	{
+		"chi"		"**地袭漩涡**"
+	}
+	"** Sink **"
+	{
+		"chi"		"**海市蜃楼**"
+	}
+	"** Weight of the Land **"
+	{
+		"chi"		"**大地之力**"
+	}
+	"** Door is opening in 40s *"
+	{
+		"chi"		"**大门40秒后打开**"
+	}
+	"** Door is opening in 15s **"
+	{
+		"chi"		"**大门15秒后打开**"
+	}
+	"** Helicopter is leaving 10s **"
+	{
+		"chi"		"**直升机10秒后离开**"
+	}
+	"** MOVING ON TO STAGE 2 HARD **"
+	{
+		"chi"		"**正在前往第二关（困难）**"
+	}
+	"** STAGE 2 HARD: Execution **"
+	{
+		"chi"		"**第二关（困难）：执行**"
+	}
+	"** Divine Tears **"
+	{
+		"chi"		"**圣神之泪 -80HP**"
+		"DoorCountdown"		"-1"
+	}
+	"** Vampire **"
+	{
+		"chi"		"**吸血反伤 -5HP**"
+		"DoorCountdown"		"-1"
+	}
+	"** Survive 60s **"
+	{
+		"chi"		"**存活60秒**"
+	}
+	"** MOVING ON TO STAGE 3 **"
+	{
+		"chi"		"**正在前往第三关**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"89445"
+	}
+	"** It seems.. left flame, right fruit.. ? **"
+	{
+		"chi"		"**看上去是左边火右边水果?**"
+	}
+	"** Door is opening in 55s **"
+	{
+		"chi"		"** **"
+	}
+	"** Nicely done! You got the correct position! **"
+	{
+		"chi"		"** **"
+	}
+	"** Boss enrage! You are too slow! **"
+	{
+		"chi"		"** **"
+	}
+	"** KILL THE REMAINING ZOMBIES **"
+	{
+		"chi"		"**击杀剩余的僵尸**"
+	}
+	"** GO LEFT **"
+	{
+		"chi"		"** **"
+	}
+	"** WARM UP - 60 SEC **"
+	{
+		"chi"		"** **"
+	}
+	"** Boss enrage in THREE minutes **"
+	{
+		"chi"		"** **"
+	}
+	"** Incorrect position! The pit will open SLOWER!! **"
+	{
+		"chi"		"** **"
+	}
+	"** Pit is opening in 60s **"
+	{
+		"chi"		"** **"
+	}
+	"** ADMIN SELECTED ZM MODE **"
+	{
+		"chi"		"** **"
+	}
+	"** ZM MODE **"
+	{
+		"chi"		"** **"
+	}
+	"** Do not follow ZE path! Survive until nuke! **"
+	{
+		"chi"		"** **"
+	}
+	"** ADMIN SELECTED STAGE 1 **"
+	{
+		"chi"		"** **"
+	}
+	"** Nuke is incoming **"
+	{
+		"chi"		"** **"
+	}
+	"** Thanks for playing **"
+	{
+		"chi"		"** **"
+	}
+}

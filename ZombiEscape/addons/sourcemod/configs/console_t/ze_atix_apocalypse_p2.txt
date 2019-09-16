@@ -1,27 +1,19 @@
 "Console_T"
 {
-    "*** BOAT EVACUATION ***"
-    {
-        "chi"        "**本关路线：船 **"
-    }
-    "*** HELICOPTER EVACUATION ***"
-    {
-        "chi"        "**本关路线：直升机 **"
-    }
-    "*** TRAIN EVACUATION ***"
-    {
-        "chi"        "**本关路线：火车 **"
-    }
-    "*** TRUCK EVACUATION ***"
-    {
-        "chi"        "**本关路线：卡车 **"
-    }
-    "*** Map by : Airvulpes ***"
-    {
-        "chi"        "** **"
-    }
-    ">>LEVEL 1<<"
-    {
-        "chi"        "** **"
-    }
+	"*** BOAT EVACUATION ***"
+	{
+		"chi"		"**本关路线：船 **"
+	}
+	"*** HELICOPTER EVACUATION ***"
+	{
+		"chi"		"**本关路线：直升机 **"
+	}
+	"*** TRAIN EVACUATION ***"
+	{
+		"chi"		"**本关路线：火车 **"
+	}
+	"*** TRUCK EVACUATION ***"
+	{
+		"chi"		"**本关路线：卡车 **"
+	}
 }

@@ -1,60 +1,48 @@
 "Console_T"
 {
-    "***** Escape Boat 1 Is Leaving In 10 Seconds *****"
-    {
-        "chi"        "** 一号船剩余 10秒 开船 **"
-    }
-    "***** Escape Boat 2 Is Leaving In 10 Seconds *****"
-    {
-        "chi"        "** 二号船剩余 10秒 开船 **"
-    }
-    "***** Escape Ski Lift 1 Is Leaving In 10 Seconds *****"
-    {
-        "chi"        "** 一号缆车剩余 10秒 启动 **"
-    }
-    "***** Escape Ski Lift 2 Is Leaving In 10 Seconds *****"
-    {
-        "chi"        "** 二号缆车剩余 10秒 启动 **"
-    }
-    "***** Escape Boat 4 Is Leaving in 10 Seconds *****"
-    {
-        "chi"        "** 四号船剩余 10秒 开船**"
-    }
-    "***** Escape Boat 3 Is Leaving in 10 Seconds *****"
-    {
-        "chi"        "** 三号船剩余 10秒 开船 **"
-    }
-    "***** The Oil Rig Has Been Reached *****"
-    {
-        "chi"        "** 已到达海上石油钻机 **"
-    }
-    "***** Nuke Squad Will Arrive in 90 Seconds *****"
-    {
-        "chi"        "** 我大天朝核弹剩余 90秒 引爆 请抵御僵尸攻击 **"
-        "DoorCountDown"        "90"
-    }
-    "***** Nuke Squad Is Here *****"
-    {
-        "chi"        "** 让我们放一首核爆神曲助助兴吧！~ 翻译：肉丸 **"
-    }
-    "*** CURRENT STAGE IS 1: Overworld ***"
-    {
-        "chi"        "** **"
-    }
-    "###Map Made By Mononoke###"
-    {
-        "chi"        "** **"
-    }
-    "***Welcome***"
-    {
-        "chi"        "** **"
-    }
-    "***Map made by Qahnaarin***"
-    {
-        "chi"        "** **"
-    }
-    "###$$$%%%LEVEL 1%%%$$$###"
-    {
-        "chi"        "** **"
-    }
+	"***** Escape Boat 1 Is Leaving In 10 Seconds *****"
+	{
+		"chi"		"** 一号船剩余 10秒 开船 **"
+	}
+	"***** Escape Boat 2 Is Leaving In 10 Seconds *****"
+	{
+		"chi"		"** 二号船剩余 10秒 开船 **"
+	}
+	"***** Escape Ski Lift 1 Is Leaving In 10 Seconds *****"
+	{
+		"chi"		"** 一号缆车剩余 10秒 启动 **"
+	}
+	"***** Escape Ski Lift 2 Is Leaving In 10 Seconds *****"
+	{
+		"chi"		"** 二号缆车剩余 10秒 启动 **"
+	}
+	"***** Escape Boat 4 Is Leaving in 10 Seconds *****"
+	{
+		"chi"		"** 四号船剩余 10秒 开船**"
+	}
+	"***** Escape Boat 3 Is Leaving in 10 Seconds *****"
+	{
+		"chi"		"** 三号船剩余 10秒 开船 **"
+	}
+	"***** The Oil Rig Has Been Reached *****"
+	{
+		"chi"		"** 已到达海上石油钻机 **"
+	}
+	"***** Nuke Squad Will Arrive in 90 Seconds *****"
+	{
+		"chi"		"** 我大天朝核弹剩余 90秒 引爆 请抵御僵尸攻击 **"
+		"DoorCountdown"		"90"
+	}
+	"***** Nuke Squad Is Here *****"
+	{
+		"chi"		"** 让我们放一首核爆神曲助助兴吧！~ 翻译：肉丸 **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+	"###Map Made By Mononoke###"
+	{
+		"chi"		"** **"
+	}
 }

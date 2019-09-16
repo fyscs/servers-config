@@ -1,0 +1,131 @@
+"Console_T"
+{
+	">> Repair the elevator 40 SECONDS <<"
+	{
+		"chi"		">>>电梯将在40秒后修复<<<"
+	}
+	">> Repair the elevator 10 SECONDS <<"
+	{
+		"chi"		">>>电梯将在10秒后修复<<<"
+	}
+	">> Open the shutter 10 SECONDS <<"
+	{
+		"chi"		">>>门将在10s后打开<<<"
+	}
+	">> Enter the laboratory... 10 SECONDS <<"
+	{
+		"chi"		">>>10s后进入实验室<<<"
+	}
+	">> Player [ What happened here? ] <<"
+	{
+		"chi"		">>>这里发生了什么？<<<"
+	}
+	">> Player [ Is there anyone? ] <<"
+	{
+		"chi"		">>>这有人吗<<<"
+	}
+	">> Open the shutter 20 SECONDS <<"
+	{
+		"chi"		">>>门将在20s后打开<<<"
+	}
+	"Who : Hmn"
+	{
+		"chi"		"**作者：Hmn 翻译：Misaka**"
+	}
+	">> Open the shutter 30 SECONDS <<"
+	{
+		"chi"		">>>门将在30s后打开<<<"
+	}
+	">> Enter the laboratory... 5 SECONDS <<"
+	{
+		"chi"		">>>5s后进入实验室<<<"
+	}
+	">> Player [ Elevator is broken... ] <<"
+	{
+		"chi"		">>>电梯坏了...<<<"
+	}
+	">> Player [ Oh shit! Watch out laser! ] <<"
+	{
+		"chi"		">>>TMD! 小心激光！<<<"
+	}
+	">> Player [ Elevator is broken! ] <<"
+	{
+		"chi"		">>>电梯坏了！<<<"
+	}
+	">> Player [ We need to find another way... ] <<"
+	{
+		"chi"		">>>我们需要找到另一条路<<<"
+	}
+	">> Player [ Its a vent. But it is locked! ] <<"
+	{
+		"chi"		">>>这是一个通风口，但是被锁上了<<<"
+	}
+	">> Player [ It takes time to unlock... ] <<"
+	{
+		"chi"		">>>需要一些时间去解锁<<<"
+	}
+	">> Player [ We unlocked the vent. ] <<"
+	{
+		"chi"		">>>通风口解锁了<<<"
+	}
+	">> Unlocking the key 30 SECONDS <<"
+	{
+		"chi"		">>>通风口30s后解锁<<<"
+	}
+	">> Player [ Oh, We need to break it... ] <<"
+	{
+		"chi"		">>>我们需要破坏它<<<"
+	}
+	">> Player [ What the hell? Its full of blood... ] <<"
+	{
+		"chi"		">>>我的天，这里全都是血迹<<<"
+	}
+	">> Player [ Next shutter seems to require two card keys... ] <<"
+	{
+		"chi"		">>>下一个门看起来需要两个钥匙卡<<<"
+	}
+	">> Player [ It looks like its not over yet... ] <<"
+	{
+		"chi"		">>>看起来这还没有结束<<<"
+	}
+	">> Player [ Is he still here...? ] <<"
+	{
+		"chi"		">>>他还在这里吗<<<"
+	}
+	">> Player [ Anyway, I have no choice but to move forward... ] <<"
+	{
+		"chi"		">>>我没有任何选择了，我还要继续前进<<<"
+	}
+	">>  Have a bad feeling about... 5 SECONDS <<"
+	{
+		"chi"		">>>5s后将会有一个痛苦的感觉（僵尸传送）<<<"
+	}
+	">>  Have a bad feeling about... 15 SECONDS <<"
+	{
+		"chi"		">>>15s后将有一个痛苦的感觉（僵尸传送）<<<"
+	}
+	">> Player [ Well done! shutter has started! ] <<"
+	{
+		"chi"		">>>干得漂亮！门开始打开了！<<<"
+	}
+	"Reference : SaGa frontier - Bioresearch Lab"
+	{
+		"chi"		"** **"
+	}
+	"Map : ze_deadly_stance"
+	{
+		"chi"		"** **"
+	}
+	">> Insert the card key [ II ] <<"
+	{
+		"chi"		">>>插入钥匙卡II<<<"
+	}
+	">> Insert the card key [ I ] <<"
+	{
+		"chi"		">>>插入钥匙卡I<<<"
+	}
+	">>  Have a bad feeling about... 10 SECONDS <<"
+	{
+		"chi"		">>>10s后有一个痛苦的感觉（僵尸传送）<<<"
+	}
+}

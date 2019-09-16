@@ -1,113 +1,60 @@
 "Console_T"
 {
-    "***Defend for 20secs***"
-    {
-        "chi"        "**守住20秒**"
-        "DoorCountdown"        "20"
-    }
-    "***Prefinal Hold 50secs***"
-    {
-        "chi"        "**守住50秒**"
-        "DoorCountdown"        "50"
-    }
-    "***ZOMBIES TELEPORTED! COVER ALL THREE SIDES!***"
-    {
-        "chi"        "**全体僵尸传送，守住这三个地方**"
-    }
-    "***Wait some more secs***"
-    {
-        "chi"        "**多等几秒**"
-    }
-    "***Btw. Unlimited ammo time :3***"
-    {
-        "chi"        "**现在无限子弹了:3**"
-    }
-    "***Zombies teleporting in 15 secs. Get ready.***"
-    {
-        "chi"        "**僵尸将在15后传送,准备**"
-    }
-    "***Zombies teleporting in 10 secs!***"
-    {
-        "chi"        "**僵尸将在10秒后传送**"
-    }
-    "***Zombies teleporting in 5 secs!!!***"
-    {
-        "chi"        "**僵尸将在5秒后传送 **"
-    }
-    "***RUUUUUUUUUN!!!***"
-    {
-        "chi"        "**跑!!!!!!!!!! **"
-    }
-    "***RUN INTO THE HOLE!***"
-    {
-        "chi"        "**跑向洞 **"
-    }
-    "***Map by Taskuvaras***"
-    {
-        "chi"        "**地图作者:askuvaras **"
-    }
-    "***Human door opening in 15s***"
-    {
-        "chi"        "**人类大门将在15秒后打开 **"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "84707"
-    }
-    "***Map by RelaxingWalls***"
-    {
-        "chi"        "** **"
-    }
-    "***Map made for SteamGamers Mapping Competition***"
-    {
-        "chi"        "** **"
-    }
-    "**Stage 1**"
-    {
-        "chi"        "** **"
-    }
-    "***Welcome***"
-    {
-        "chi"        "** **"
-    }
-    "***Map made by Qahnaarin***"
-    {
-        "chi"        "** **"
-    }
-    "steamworkshop search this map's name"
-    {
-        "chi"        "** **"
-    }
-    "> ZE UT2004 CONVOY"
-    {
-        "chi"        "** **"
-    }
-    "***WARMUP***"
-    {
-        "chi"        "** **"
-    }
-    "* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
-    {
-        "chi"        "** **"
-    }
-    "* * * Choose the first MINIGAME * * *"
-    {
-        "chi"        "** **"
-    }
-    "<== Map made by qazlll456 [Hong Kong香港]==>"
-    {
-        "chi"        "** **"
-    }
-    "<== Also Thank [Syoudous] for helping testing the map ==>"
-    {
-        "chi"        "** **"
-    }
-    ">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
-    {
-        "chi"        "** **"
-    }
-    "*** Special Thanks testing: GFL & MAPEADORES  ***"
-    {
-        "chi"        "** **"
-    }
+	"***Defend for 20secs***"
+	{
+		"chi"		"**守住20秒**"
+	}
+	"***Prefinal Hold 50secs***"
+	{
+		"chi"		"**守住50秒**"
+	}
+	"***ZOMBIES TELEPORTED! COVER ALL THREE SIDES!***"
+	{
+		"chi"		"**全体僵尸传送，守住这三个地方**"
+	}
+	"***Wait some more secs***"
+	{
+		"chi"		"**稍微在这里等待一会**"
+	}
+	"***Btw. Unlimited ammo time :3***"
+	{
+		"chi"		"**现在无限子弹了:3秒**"
+	}
+	"***Zombies teleporting in 15 secs. Get ready.***"
+	{
+		"chi"		"**僵尸将在15后传送,准备**"
+		"DoorCountdown"		"-1"
+	}
+	"***Zombies teleporting in 10 secs!***"
+	{
+		"chi"		"**僵尸将在10秒后传送**"
+	}
+	"***Zombies teleporting in 5 secs!!!***"
+	{
+		"chi"		"**僵尸将在5秒后传送 **"
+	}
+	"***RUUUUUUUUUN!!!***"
+	{
+		"chi"		"**跑!!!!!!!!!! **"
+	}
+	"***RUN INTO THE HOLE!***"
+	{
+		"chi"		"**跑向洞 **"
+	}
+	"***Map by Taskuvaras***"
+	{
+		"chi"		"**地图作者:askuvaras **"
+	}
+	"***Human door opening in 15s***"
+	{
+		"chi"		"**人类大门将在15秒后打开 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"84707"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"**服务器即将更新，请自行重启游戏**"
+	}
 }

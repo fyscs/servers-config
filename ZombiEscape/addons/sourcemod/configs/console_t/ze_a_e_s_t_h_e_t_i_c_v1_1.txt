@@ -1,425 +1,346 @@
 "Console_T"
 {
-    "** Thanks for your visit. **"
-    {
-        "chi"        "**感谢你的到来 **"
-    }
-    "** The show is starting soon: broadcasting LIVE in 10. **"
-    {
-        "chi"        "**电视机门10s后开启**"
-    }
-    "** Somethings up, somethings left. The movement comes soon again. **"
-    {
-        "chi"        "**有的人要直走，有的人要左拐等待梯子的出现 **"
-    }
-    "** The spectacle must continue, though at a different place. **"
-    {
-        "chi"        "**这个演出必须继续，虽然是在一个不同的地方 **"
-        "DoorCountDown"        "30"
-    }
-    "** Extras must be part of the action too, or were they the protagonists? **"
-    {
-        "chi"        "**幕后人员也必须参加这个演出，或许他们是主演 **"
-    }
-    "** A scene change might go well with the changing times that soon may come. **"
-    {
-        "chi"        "**贴门 **"
-    }
-    "** Off they go! The calmer tones of the prairie might soothen the wilder souls. **"
-    {
-        "chi"        "**他们走了，草原更加温柔的语调会安抚他们狂暴的灵魂 **"
-    }
-    "** First base reached. It ought to begin. **"
-    {
-        "chi"        "**第一个开关已被按下，本应该这样开始 **"
-    }
-    "** Second base reached. Steps further from either end.**"
-    {
-        "chi"        "**第二个开关已被按下，向着下一个开关前进 **"
-    }
-    "** Third base reached. The double entendre is cuadruple intended. **"
-    {
-        "chi"        "**第三个开关已被按下。你们已经完成了一半 **"
-    }
-    "** Fourth base reached. Nearing and yet still so afar. **"
-    {
-        "chi"        "**第四个开关已被按下，还差最后一个 **"
-    }
-    "** Fifth base reached. Wisely interpreted, the still-standing walls will fall. **"
-    {
-        "chi"        "**第五个开关已被按下，最后一堵墙（气球）要倒塌了 **"
-        "DoorCountDown"        "15"
-    }
-    "** At some point in the journey, the traveller is given a hand. **"
-    {
-        "chi"        "**在旅行途中，有人会帮你们一把 **"
-        "DoorCountDown"        "16"
-    }
-    "** Reaching out for help is at times harder than everything else... **"
-    {
-        "chi"        "**寻求帮助有时会比其他事情更难 **"
-    }
-    "** Stay in the grey lest you want the tentacles to grab you and take you to your end. **"
-    {
-        "chi"        "**呆在中间，别作死站两边，延伸出的台阶搞不好会出人命的 **"
-    }
-    "** [...] The hand that feeds you, that knows you, that helps you -- that hand you will bite. **"
-    {
-        "chi"        "**这个喂养你的手，了解你的手，帮助你的手，是你即将要向的手 **"
-    }
-    "** Moving forward and destroying for change... mumbling progress... an ideal... **"
-    {
-        "chi"        "**继续向前走，队尾在菊花留瓶火 **"
-    }
-    "** ...the time might come for the trees to hang onto themselves and the wind a hundred tales will tell... **"
-    {
-        "chi"        "**时刻即将到来，树只靠他们自己存活，风会讲述成百上千的传说 **"
-        "DoorCountDown"        "11"
-    }
-    "** And as time is but a rambling story, rambling further it shall flow. **"
-    {
-        "chi"        "**有时是一个轻松的故事，你向前漫步地更远，它会细水长流 **"
-    }
-    "** Where is the spectacle but in what is unknown? **"
-    {
-        "chi"        "**这个未知演出在哪呢？ （只要3-5人去前面触发开关，其余人在左边守住就可以了）**"
-    }
-    "** Who was Merle Haggard? Why did his mother cry? **"
-    {
-        "chi"        "**谁是Merle Haggard，为什么他的母亲在哭泣 **"
-    }
-    "** The stories of old ought to be forgotten - only that way shall new always be found. **"
-    {
-        "chi"        "**长江旧浪推前浪，前浪死在沙滩上 **"
-    }
-    "** Céline probably rides along with us to the end of the night, making offhand remarks. **"
-    {
-        "chi"        "**麒麟（飞机）可能与我们同行至夜晚的尽头，飞船的开关已被按下 **"
-        "DoorCountDown"        "12"
-    }
-    "** Has anybody seen the keys that open the window to reach the stars? **"
-    {
-        "chi"        "**有人看见那个可以打开通向满天繁星的窗户的钥匙 **"
-    }
-    "** pastebin.comrawXtibtTiH **"
-    {
-        "chi"        "**感谢地图作者pastebin.comrawXtibtTiH 翻译：我不信没用户名  **"
-    }
-    "** That cadence that beating in you is nothing but a feverish dream, a selfish attack against the One State. **"
-    {
-        "chi"        "**你内心鼓动着的节奏，仅是个狂热的梦，反对ONE STATE的自私的攻击，去把两个象棋棋子推到一起**"
-    }
-    "** ...and as lovers they meet: different but equal in ways they couldnt tell... **"
-    {
-        "chi"        "**当爱人们相见，以他们不能言表的方式，不同却平等 **"
-        "DoorCountDown"        "20"
-    }
-    "** BEHOLD! Little more than beasts in humanly flesh will come! **"
-    {
-        "chi"        "**看啊！即将到来的生物比血肉之躯的野兽更胜一筹 **"
-    }
-    "** Move it! Only of bar stools, ephebes and nonsense may the future be made of! **"
-    {
-        "chi"        "**动起来，长凳，青年，混沌，将要构建未来（去按下三个开关） **"
-    }
-    "** Not without surprise we stand and stand as time goes by... **"
-    {
-        "chi"        "**无需惊讶，时光飞逝，我们仍然伫立在此 **"
-    }
-    "** We once dreamed for elsewhere -- a gentler place -- and might regret if there we get... **"
-    {
-        "chi"        "**我们曾经梦想别处-一个更为温和的地方-我们至此却会后悔的地方 **"
-        "DoorCountDown"        "22"
-    }
-    "** Ticking for not much longer and then... ...will we see your face again? **"
-    {
-        "chi"        "**时间仅剩无几，我们是否还能看见你的面容？ （赶紧进去）**"
-    }
-    "** At an unbreakable impasse with time Kochan stood -- monsters crept and creep still...  **"
-    {
-        "chi"        "**在Kochan无法破解的僵局中，怪物一直在攻击（分散站开，别被眼球撞到） **"
-    }
-    "** ...and forever after the monsters creeping would... **"
-    {
-        "chi"        "**怪物会永远地攻击下去（这个BOSS有终极） **"
-    }
-    "** AWAKE! OH EYES THAT SEE... But what will we find looking in these dreams? **"
-    {
-        "chi"        "**醒醒！千年眼，我们能在梦中发现什么？ **"
-    }
-    "** No longer shall we cross our eyes to see! Reality at last! Rejoice! **"
-    {
-        "chi"        "**我们无需合上眼帘！最后的现实！欢庆吧！（你们打赢了BOSS？） **"
-    }
-    "** Ahead: The giants of Don Quixote - a cautionary tale on dreams not begotten **"
-    {
-        "chi"        "**前方，唐吉可德的巨人，一个警醒世人的故事，梦想永远不会实现 **"
-    }
-    "** The king dreams he is king, and he lives in the deceit of a king... **"
-    {
-        "chi"        "**王梦想着他是王，他活在王的谎言中 **"
-    }
-    "** What good is a king without kingdom? What good a man lost of objectives? **"
-    {
-        "chi"        "**没有王国的王有何价值？没有目标的人又有何价值？ **"
-    }
-    "** Tomorrow and tomorrow and tomorrow... And then days evertold -- but nothing lest we act! **"
-    {
-        "chi"        "**明日，明日，明日...既定之日...我们毫无作为 (里面通道的撤退)**"
-    }
-    "** Blue: faces behind shards of glass lost in the thick mist... Where are you? **"
-    {
-        "chi"        "**蓝色：藏在玻璃碎片之后的脸，迷失在浓雾中...你在何方？ **"
-        "DoorCountDown"        "10"
-    }
-    "** What do those forged smiles mean to the free men? **"
-    {
-        "chi"        "**那些伪善的笑容对自由之人来说意味着什么？ **"
-    }
-    "** The walk from here and onwards might deceivingly look cheerful. **"
-    {
-        "chi"        "**从此处开始前行的路，看似欢快，实则充斥着欺骗 **"
-    }
-    "** Oh Camillo Golgi... Why did you turn by brain into a Rosetta stone with the blue-tinted saddest tales? **"
-    {
-        "chi"        "**啊！高尔基，你为何把我的头脑变成烙印着悲伤故事的罗塞塔之石？ **"
-    }
-    "** Down, down and sliding -- If sad, dont forget smiling... **"
-    {
-        "chi"        "**向下，向下，如果悲伤，那就忘记微笑 **"
-    }
-    "** If I were you, Id look up some 70s Canterbury bands to go with the Bucholics of this land... **"
-    {
-        "chi"        "**如果我是你，我会查阅70年代的文献 **"
-    }
-    "** But as finding keys and levers that open mouths and brains is more important, Id diversify as well. **"
-    {
-        "chi"        "**当找到打开口舌，启迪智慧的钥匙和杠杆更为重要的时候，我仍然会让一切分化（钥匙呢？） **"
-    }
-    "** And so rejoice! We may clear the path for other pointless ways to cross! **"
-    {
-        "chi"        "**欢呼吧！我们马上要抄近路了 **"
-    }
-    "** Nobody would have expected less from such a formidable team... **"
-    {
-        "chi"        "**没人会对这只强大的队伍期望更少（小伙子，我看好你们） **"
-    }
-    "** Memories untold of Critilus would agree if they had been... **"
-    {
-        "chi"        "**如果他们去过，Critilus未曾透露的回忆也会附和我们 **"
-    }
-    "** Up or down -- does it matter? It all ends up being the same... **"
-    {
-        "chi"        "**向上或者向下-有何关系呢？终究殊途同归 **"
-        "DoorCountDown"        "10"
-    }
-    "** Do beware of the beep-boop-boop-bah that might come to mess with you. **"
-    {
-        "chi"        "**注意过来和你胡闹的小怪 **"
-        "command"        "sm_clearbosshp"
-    }
-    "** Lasciate ogne speranza, o voi chintrate. **"
-    {
-        "chi"        "**放弃所有的希望，你们谁将进入。 **"
-    }
-    "** The tide shall turn as we see a little man crashing through a window... **"
-    {
-        "chi"        "**当我们看见一个小人从窗户中冲出的时候...时局将会逆转 **"
-        "command"        "sm_clearbosshp"
-    }
-    "** In the endless halls of time rests the shade of Ahuramazda, erased by a crescent moon... **"
-    {
-        "chi"        "**阿胡马兹达的影子休憩在时间的无尽长廊中，新月将其抹去 **"
-    }
-    "** Shall we equally erase the horizon onto which the burning hot sun sets? **"
-    {
-        "chi"        "**我们要一视同仁地抹除夕阳似火的地平线吗？ **"
-    }
-    "** Ponder at times and remember how the journey began looking at a screen... **"
-    {
-        "chi"        "**有时细细考量，回忆起旅程最初从屏幕开始的样子 **"
-    }
-    "** Too meta it is for me to say if it was yours or instead this maps TV... **"
-    {
-        "chi"        "**对我来说，做出它属于你还是这台电视的决定是如此奇怪(请等待你的队友) **"
-    }
-    "** Again we meet! Another battle! **"
-    {
-        "chi"        "**我们又见面了，再来一發吧！（这是第几个BOSS？） **"
-    }
-    "** Fight this time not with bullets but just transparent fists! **"
-    {
-        "chi"        "**这次斗争，不需子弹，只需赤手空拳（你们可以不打BOSS，回头刷僵尸就可以了） **"
-    }
-    "** MOVE IT! The rumble is nigh! **"
-    {
-        "chi"        "**前进！低鸣声正在靠近！ **"
-    }
-    "** Tough luck, lads! Come back when you learn to read computer minds! **"
-    {
-        "chi"        "**运气真糟，退回来，想想电脑出了什么？（石头剪刀布都不会？） **"
-    }
-    "** Bardiblub Blidablibloop! The magician turned to goop! **"
-    {
-        "chi"        "**魔术师变成了笨蛋 **"
-    }
-    "** Look! Lucy is up there in the sky -- She has dynamite! **"
-    {
-        "chi"        "**看，Lucy上天了，她要炸了 **"
-    }
-    "** Oh! And all those efforts so vain, wasted, just to reach further and then be slain!  **"
-    {
-        "chi"        "**所有那些努力皆是徒劳浪费，挣扎向前，后被抹杀 **"
-        "DoorCountDown"        "15"
-    }
-    "** Behold! It is time for the brundabogbog! **"
-    {
-        "chi"        "**看啊！是时候... **"
-    }
-    "** Forget anything Keats said about urns! In the end we will all face the Jabberwock! **"
-    {
-        "chi"        "**忘记Keats说过有关骨灰盒的一切，我们最后将面对的是虚空 **"
-        "DoorCountDown"        "15"
-    }
-    "** Prepare the vorpal swords! What is ahead? A jub-jub bird? No! Just the shadow of beyond. **"
-    {
-        "chi"        "**准备好穿刺之刃，前方有什么，一只BB鸟？不！那是未来的影子 **"
-    }
-    "** Will we ever meet those who slept before us? **"
-    {
-        "chi"        "**我们会遇见那些比我们先睡的人？ **"
-    }
-    "** I really dont know -- My name is Billy and Im just the janitor... **"
-    {
-        "chi"        "**我真的不知道，我的名字是比利（海灵顿？），我只是一个门卫 **"
-    }
-    "** Who are these moguls from the top these Cressida fellows so insistently chant about? **"
-    {
-        "chi"        "**这些克里希达人如此坚持赞美的显赫人物是谁？ **"
-    }
-    "** Poor King Gondola! Dreams and dreams of hamboighas he cant eat! **"
-    {
-        "chi"        "**可怜的国外Gondola！梦想着那些他无法吃到的汉堡（喂他吃汉堡） **"
-    }
-    "** FEED HIM! **"
-    {
-        "chi"        "**喂他吧 **"
-    }
-    "** And so it awakes, hamboighed! Will only a piece of stardust, a clump of meat save us? **"
-    {
-        "chi"        "**他醒了，他吃饱了！只有一团星辰，一块肉能拯救我们吗？ **"
-        "DoorCountDown"        "20"
-    }
-    "** ...and so the brave Ulysses rests his eyes on the stars... **"
-    {
-        "chi"        "**所以，勇敢的尤利西斯注视着群星 **"
-    }
-    "** ...after battle held with passing hours for no one to understand... **"
-    {
-        "chi"        "**在无人理解的，历时许久的战争之后 **"
-    }
-    "** ...but the words that lie forever, never turned to strokes by hand... **"
-    {
-        "chi"        "**但是言语会永远流传，永不会变成手中的权杖 **"
-    }
-    "** ...and so the brave Ulysses rests: long forgotten in the past... **"
-    {
-        "chi"        "**勇敢的尤利西斯被长久地遗忘在了过去 **"
-    }
-    "** Oh! What could you not have done with some more time? **"
-    {
-        "chi"        "**时间尚存，你还有什么没做 **"
-    }
-    "** Sadly, we shall never know -- for time is the only resource truly long gone! **"
-    {
-        "chi"        "**可悲的是，我们将永远无法知道，因为时间是一逝无回的财富 **"
-    }
-    "** Poor King Cool! Dreams and dreams of hamboighas he cant eat! **"
-    {
-        "chi"        "**可怜的国外COOL！梦想着那些他无法吃到的汉堡（喂他吃汉堡） **"
-    }
-    "** ...these words that lie forever, never turned to strokes by hand... **"
-    {
-        "chi"        "**这些永恒沉睡的言语，却无法成为紧握手中的根根画笔 **"
-    }
-    "** Something's up, something's left. The movement comes soon again. **"
-    {
-        "chi"        "**有些事发生了，有些事还剩下。运动很快又开始了。**"
-    }
-    "** Moving forward and destroying for change... mumbling 'progress'... an ideal... **"
-    {
-        "chi"        "**前进，为了改变而毁灭……喃喃自语“进步”……一个理想的…**"
-    }
-    "** ...and as lovers they meet: different but equal in ways they couldn't tell... **"
-    {
-        "chi"        "**…作为恋人，他们相遇了:不同但平等的方式，他们无法分辨……**"
-    }
-    "*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Model :Dakotec ***"
-    {
-        "chi"        "** **"
-    }
-    "** Down, down and sliding -- If sad, don't forget smiling... **"
-    {
-        "chi"        "**往下，往下，往下滑——如果难过，别忘了微笑……**"
-    }
-    "** If I were you, I'd look up some 70's Canterbury bands to go with the Bucholics of this land... **"
-    {
-        "chi"        "**如果我是你，我会查一些70年代的坎特伯雷乐队来配合这片土地上的流行音乐。**"
-    }
-    "** But as finding keys and levers that open mouths and brains is more important, I'd diversify as well. **"
-    {
-        "chi"        "**但是找到能打开嘴巴和大脑的钥匙和杠杆更重要，我也会多样化。**"
-    }
-    "** Lasciate ogne speranza, o voi ch'intrate. **"
-    {
-        "chi"        "**你们进来的人，要绝望。**"
-    }
-    "** Too meta it is for me to say if it was yours or instead this map's TV... **"
-    {
-        "chi"        "** **"
-    }
-    "***MAP BY LUFFAREN***"
-    {
-        "chi"        "** **"
-    }
-    "** I really don't know -- My name is Billy and I'm just the janitor... **"
-    {
-        "chi"        "** **"
-    }
-    "** Who are these 'moguls from the top' these Cressida fellows so insistently chant about? **"
-    {
-        "chi"        "** **"
-    }
-    "** Poor King Cool! Dreams and dreams of hamboighas he can't eat! **"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Reflelia***"
-    {
-        "chi"        "** **"
-    }
-    "<< ze_surf_virtus >>"
-    {
-        "chi"        "** **"
-    }
-    "<< Fix by : Lishang >>"
-    {
-        "chi"        "** **"
-    }
-    ">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
-    {
-        "chi"        "** **"
-    }
-    "**map by koyomaple**"
-    {
-        "chi"        "** **"
-    }
-    "**stage 1**"
-    {
-        "chi"        "** **"
-    }
+	"** Thanks for your visit. **"
+	{
+		"chi"		"**感谢你的到来 **"
+	}
+	"** The show is starting soon: broadcasting LIVE in 10. **"
+	{
+		"chi"		"**电视机门10s后开启**"
+	}
+	"** Somethings up, somethings left. The movement comes soon again. **"
+	{
+		"chi"		"**有的人要直走，有的人要左拐等待梯子的出现 **"
+	}
+	"** The spectacle must continue, though at a different place. **"
+	{
+		"chi"		"**这个演出必须继续，虽然是在一个不同的地方 **"
+		"DoorCountdown"		"30"
+	}
+	"** Extras must be part of the action too, or were they the protagonists? **"
+	{
+		"chi"		"**幕后人员也必须参加这个演出，或许他们是主演 **"
+	}
+	"** A scene change might go well with the changing times that soon may come. **"
+	{
+		"chi"		"**贴门 **"
+	}
+	"** Off they go! The calmer tones of the prairie might soothen the wilder souls. **"
+	{
+		"chi"		"**他们走了，草原更加温柔的语调会安抚他们狂暴的灵魂 **"
+	}
+	"** First base reached. It ought to begin. **"
+	{
+		"chi"		"**第一个开关已被按下，本应该这样开始 **"
+	}
+	"** Second base reached. Steps further from either end.**"
+	{
+		"chi"		"**第二个开关已被按下，向着下一个开关前进 **"
+	}
+	"** Third base reached. The double entendre is cuadruple intended. **"
+	{
+		"chi"		"**第三个开关已被按下。你们已经完成了一半 **"
+	}
+	"** Fourth base reached. Nearing and yet still so afar. **"
+	{
+		"chi"		"**第四个开关已被按下，还差最后一个 **"
+	}
+	"** Fifth base reached. Wisely interpreted, the still-standing walls will fall. **"
+	{
+		"chi"		"**第五个开关已被按下，最后一堵墙（气球）要倒塌了 **"
+		"DoorCountdown"		"15"
+	}
+	"** At some point in the journey, the traveller is given a hand. **"
+	{
+		"chi"		"**在旅行途中，有人会帮你们一把 **"
+		"DoorCountdown"		"16"
+	}
+	"** Reaching out for help is at times harder than everything else... **"
+	{
+		"chi"		"**寻求帮助有时会比其他事情更难 **"
+	}
+	"** Stay in the grey lest you want the tentacles to grab you and take you to your end. **"
+	{
+		"chi"		"**呆在中间，别作死站两边，延伸出的台阶搞不好会出人命的 **"
+	}
+	"** [...] The hand that feeds you, that knows you, that helps you -- that hand you will bite. **"
+	{
+		"chi"		"**这个喂养你的手，了解你的手，帮助你的手，是你即将要向的手 **"
+	}
+	"** Moving forward and destroying for change... mumbling progress... an ideal... **"
+	{
+		"chi"		"**继续向前走，队尾在菊花留瓶火 **"
+	}
+	"** ...the time might come for the trees to hang onto themselves and the wind a hundred tales will tell... **"
+	{
+		"chi"		"**时刻即将到来，树只靠他们自己存活，风会讲述成百上千的传说 **"
+		"DoorCountdown"		"11"
+	}
+	"** And as time is but a rambling story, rambling further it shall flow. **"
+	{
+		"chi"		"**有时是一个轻松的故事，你向前漫步地更远，它会细水长流 **"
+	}
+	"** Where is the spectacle but in what is unknown? **"
+	{
+		"chi"		"**这个未知演出在哪呢？ （只要3-5人去前面触发开关，其余人在左边守住就可以了）**"
+	}
+	"** Who was Merle Haggard? Why did his mother cry? **"
+	{
+		"chi"		"**谁是Merle Haggard，为什么他的母亲在哭泣 **"
+	}
+	"** The stories of old ought to be forgotten - only that way shall new always be found. **"
+	{
+		"chi"		"**长江旧浪推前浪，前浪死在沙滩上 **"
+	}
+	"** Céline probably rides along with us to the end of the night, making offhand remarks. **"
+	{
+		"chi"		"**麒麟（飞机）可能与我们同行至夜晚的尽头，飞船的开关已被按下 **"
+		"DoorCountdown"		"12"
+	}
+	"** Has anybody seen the keys that open the window to reach the stars? **"
+	{
+		"chi"		"**有人看见那个可以打开通向满天繁星的窗户的钥匙 **"
+	}
+	"** pastebin.comrawXtibtTiH **"
+	{
+		"chi"		"**感谢地图作者pastebin.comrawXtibtTiH 翻译：我不信没用户名  **"
+	}
+	"** That cadence that beating in you is nothing but a feverish dream, a selfish attack against the One State. **"
+	{
+		"chi"		"**你内心鼓动着的节奏，仅是个狂热的梦，反对ONE STATE的自私的攻击，去把两个象棋棋子推到一起**"
+	}
+	"** ...and as lovers they meet: different but equal in ways they couldnt tell... **"
+	{
+		"chi"		"**当爱人们相见，以他们不能言表的方式，不同却平等 **"
+		"DoorCountdown"		"20"
+	}
+	"** BEHOLD! Little more than beasts in humanly flesh will come! **"
+	{
+		"chi"		"**看啊！即将到来的生物比血肉之躯的野兽更胜一筹 **"
+	}
+	"** Move it! Only of bar stools, ephebes and nonsense may the future be made of! **"
+	{
+		"chi"		"**动起来，长凳，青年，混沌，将要构建未来（去按下三个开关） **"
+	}
+	"** Not without surprise we stand and stand as time goes by... **"
+	{
+		"chi"		"**无需惊讶，时光飞逝，我们仍然伫立在此 **"
+	}
+	"** We once dreamed for elsewhere -- a gentler place -- and might regret if there we get... **"
+	{
+		"chi"		"**我们曾经梦想别处-一个更为温和的地方-我们至此却会后悔的地方 **"
+		"DoorCountdown"		"22"
+	}
+	"** Ticking for not much longer and then... ...will we see your face again? **"
+	{
+		"chi"		"**时间仅剩无几，我们是否还能看见你的面容？ （赶紧进去）**"
+	}
+	"** At an unbreakable impasse with time Kochan stood -- monsters crept and creep still...  **"
+	{
+		"chi"		"**在Kochan无法破解的僵局中，怪物一直在攻击（分散站开，别被眼球撞到） **"
+	}
+	"** ...and forever after the monsters creeping would... **"
+	{
+		"chi"		"**怪物会永远地攻击下去（这个BOSS有终极） **"
+	}
+	"** AWAKE! OH EYES THAT SEE... But what will we find looking in these dreams? **"
+	{
+		"chi"		"**醒醒！千年眼，我们能在梦中发现什么？ **"
+	}
+	"** No longer shall we cross our eyes to see! Reality at last! Rejoice! **"
+	{
+		"chi"		"**我们无需合上眼帘！最后的现实！欢庆吧！（你们打赢了BOSS？） **"
+	}
+	"** Ahead: The giants of Don Quixote - a cautionary tale on dreams not begotten **"
+	{
+		"chi"		"**前方，唐吉可德的巨人，一个警醒世人的故事，梦想永远不会实现 **"
+	}
+	"** The king dreams he is king, and he lives in the deceit of a king... **"
+	{
+		"chi"		"**王梦想着他是王，他活在王的谎言中 **"
+	}
+	"** What good is a king without kingdom? What good a man lost of objectives? **"
+	{
+		"chi"		"**没有王国的王有何价值？没有目标的人又有何价值？ **"
+	}
+	"** Tomorrow and tomorrow and tomorrow... And then days evertold -- but nothing lest we act! **"
+	{
+		"chi"		"**明日，明日，明日...既定之日...我们毫无作为 (里面通道的撤退)**"
+	}
+	"** Blue: faces behind shards of glass lost in the thick mist... Where are you? **"
+	{
+		"chi"		"**蓝色：藏在玻璃碎片之后的脸，迷失在浓雾中...你在何方？ **"
+		"DoorCountdown"		"10"
+	}
+	"** What do those forged smiles mean to the free men? **"
+	{
+		"chi"		"**那些伪善的笑容对自由之人来说意味着什么？ **"
+	}
+	"** The walk from here and onwards might deceivingly look cheerful. **"
+	{
+		"chi"		"**从此处开始前行的路，看似欢快，实则充斥着欺骗 **"
+	}
+	"** Oh Camillo Golgi... Why did you turn by brain into a Rosetta stone with the blue-tinted saddest tales? **"
+	{
+		"chi"		"**啊！高尔基，你为何把我的头脑变成烙印着悲伤故事的罗塞塔之石？ **"
+	}
+	"** Down, down and sliding -- If sad, dont forget smiling... **"
+	{
+		"chi"		"**向下，向下，如果悲伤，那就忘记微笑 **"
+	}
+	"** If I were you, Id look up some 70s Canterbury bands to go with the Bucholics of this land... **"
+	{
+		"chi"		"**如果我是你，我会查阅70年代的文献 **"
+		"DoorCountdown"		"-1"
+	}
+	"** But as finding keys and levers that open mouths and brains is more important, Id diversify as well. **"
+	{
+		"chi"		"**当找到打开口舌，启迪智慧的钥匙和杠杆更为重要的时候，我仍然会让一切分化（钥匙呢？） **"
+	}
+	"** And so rejoice! We may clear the path for other pointless ways to cross! **"
+	{
+		"chi"		"**欢呼吧！我们马上要抄近路了 **"
+	}
+	"** Nobody would have expected less from such a formidable team... **"
+	{
+		"chi"		"**没人会对这只强大的队伍期望更少（小伙子，我看好你们） **"
+	}
+	"** Memories untold of Critilus would agree if they had been... **"
+	{
+		"chi"		"**如果他们去过，Critilus未曾透露的回忆也会附和我们 **"
+	}
+	"** Up or down -- does it matter? It all ends up being the same... **"
+	{
+		"chi"		"**向上或者向下-有何关系呢？终究殊途同归 **"
+		"DoorCountdown"		"10"
+	}
+	"** Do beware of the beep-boop-boop-bah that might come to mess with you. **"
+	{
+		"chi"		"**注意过来和你胡闹的小怪 **"
+		"command"		"sm_clearbosshp"
+	}
+	"** Lasciate ogne speranza, o voi chintrate. **"
+	{
+		"chi"		"**放弃所有的希望，你们谁将进入。 **"
+	}
+	"** The tide shall turn as we see a little man crashing through a window... **"
+	{
+		"chi"		"**当我们看见一个小人从窗户中冲出的时候...时局将会逆转 **"
+		"command"		"sm_clearbosshp"
+	}
+	"** In the endless halls of time rests the shade of Ahuramazda, erased by a crescent moon... **"
+	{
+		"chi"		"**阿胡马兹达的影子休憩在时间的无尽长廊中，新月将其抹去 **"
+	}
+	"** Shall we equally erase the horizon onto which the burning hot sun sets? **"
+	{
+		"chi"		"**我们要一视同仁地抹除夕阳似火的地平线吗？ **"
+	}
+	"** Ponder at times and remember how the journey began looking at a screen... **"
+	{
+		"chi"		"**有时细细考量，回忆起旅程最初从屏幕开始的样子 **"
+	}
+	"** Too meta it is for me to say if it was yours or instead this maps TV... **"
+	{
+		"chi"		"**对我来说，做出它属于你还是这台电视的决定是如此奇怪(请等待你的队友) **"
+	}
+	"** Again we meet! Another battle! **"
+	{
+		"chi"		"**我们又见面了，再来一發吧！（这是第几个BOSS？） **"
+	}
+	"** Fight this time not with bullets but just transparent fists! **"
+	{
+		"chi"		"**这次斗争，不需子弹，只需赤手空拳（你们可以不打BOSS，回头刷僵尸就可以了） **"
+	}
+	"** MOVE IT! The rumble is nigh! **"
+	{
+		"chi"		"**前进！低鸣声正在靠近！ **"
+	}
+	"** Tough luck, lads! Come back when you learn to read computer minds! **"
+	{
+		"chi"		"**运气真糟，退回来，想想电脑出了什么？（石头剪刀布都不会？） **"
+	}
+	"** Bardiblub Blidablibloop! The magician turned to goop! **"
+	{
+		"chi"		"**魔术师变成了笨蛋 **"
+	}
+	"** Look! Lucy is up there in the sky -- She has dynamite! **"
+	{
+		"chi"		"**看，Lucy上天了，她要炸了 **"
+	}
+	"** Oh! And all those efforts so vain, wasted, just to reach further and then be slain!  **"
+	{
+		"chi"		"**所有那些努力皆是徒劳浪费，挣扎向前，后被抹杀 **"
+		"DoorCountdown"		"15"
+	}
+	"** Behold! It is time for the brundabogbog! **"
+	{
+		"chi"		"**看啊！是时候... **"
+	}
+	"** Forget anything Keats said about urns! In the end we will all face the Jabberwock! **"
+	{
+		"chi"		"**忘记Keats说过有关骨灰盒的一切，我们最后将面对的是虚空 **"
+		"DoorCountdown"		"15"
+	}
+	"** Prepare the vorpal swords! What is ahead? A jub-jub bird? No! Just the shadow of beyond. **"
+	{
+		"chi"		"**准备好穿刺之刃，前方有什么，一只BB鸟？不！那是未来的影子 **"
+	}
+	"** Will we ever meet those who slept before us? **"
+	{
+		"chi"		"**我们会遇见那些比我们先睡的人？ **"
+	}
+	"** I really dont know -- My name is Billy and Im just the janitor... **"
+	{
+		"chi"		"**我真的不知道，我的名字是比利（海灵顿？），我只是一个门卫 **"
+	}
+	"** Who are these moguls from the top these Cressida fellows so insistently chant about? **"
+	{
+		"chi"		"**这些克里希达人如此坚持赞美的显赫人物是谁？ **"
+	}
+	"** Poor King Gondola! Dreams and dreams of hamboighas he cant eat! **"
+	{
+		"chi"		"**可怜的国外Gondola！梦想着那些他无法吃到的汉堡（喂他吃汉堡） **"
+	}
+	"** FEED HIM! **"
+	{
+		"chi"		"**喂他吧 **"
+	}
+	"** And so it awakes, hamboighed! Will only a piece of stardust, a clump of meat save us? **"
+	{
+		"chi"		"**他醒了，他吃饱了！只有一团星辰，一块肉能拯救我们吗？ **"
+		"DoorCountdown"		"20"
+	}
+	"** ...and so the brave Ulysses rests his eyes on the stars... **"
+	{
+		"chi"		"**所以，勇敢的尤利西斯注视着群星 **"
+	}
+	"** ...after battle held with passing hours for no one to understand... **"
+	{
+		"chi"		"**在无人理解的，历时许久的战争之后 **"
+	}
+	"** ...but the words that lie forever, never turned to strokes by hand... **"
+	{
+		"chi"		"**但是言语会永远流传，永不会变成手中的权杖 **"
+	}
+	"** ...and so the brave Ulysses rests: long forgotten in the past... **"
+	{
+		"chi"		"**勇敢的尤利西斯被长久地遗忘在了过去 **"
+	}
+	"** Oh! What could you not have done with some more time? **"
+	{
+		"chi"		"**时间尚存，你还有什么没做 **"
+	}
+	"** Sadly, we shall never know -- for time is the only resource truly long gone! **"
+	{
+		"chi"		"**可悲的是，我们将永远无法知道，因为时间是一逝无回的财富 **"
+	}
+	"** Poor King Cool! Dreams and dreams of hamboighas he cant eat! **"
+	{
+		"chi"		"**可怜的国外COOL！梦想着那些他无法吃到的汉堡（喂他吃汉堡） **"
+	}
+	"** ...these words that lie forever, never turned to strokes by hand... **"
+	{
+		"chi"		"**这些永恒沉睡的言语，却无法成为紧握手中的根根画笔 **"
+	}
 }

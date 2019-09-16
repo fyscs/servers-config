@@ -1,473 +1,430 @@
 "Console_T"
 {
-    "** CURRENT LEVEL: EASY **"
-    {
-        "chi"        "**当前难度 简单**"
-    }
-    "** TIP: You can pick up special items from the spinning presents randomly placed in the map. **"
-    {
-        "chi"        "**提示 你可以拾起旋转的礼物盒来获得神器 **"
-    }
-    "** Red and blue presents will contain zombie and human items respectively. **"
-    {
-        "chi"        "**红色礼物盒是僵尸神器 蓝色礼物盒是人类神器 **"
-    }
-    "** ZE_CHRISTMAS_INFECTION **"
-    {
-        "chi"        "** **"
-    }
-    "** Zombie present placer has been picked up. Press +USE (E) to place a present. **"
-    {
-        "chi"        "**地雷已被拾起 按'E'来放置一颗地雷 **"
-    }
-    "** Icewall spawner has been picked up. Press +USE (E) to spawn a wall. **"
-    {
-        "chi"        "**冰墙已被拾起 按'E'来生成一堵墙**"
-    }
-    "*** The door opens in 30 seconds ***"
-    {
-        "chi"        "**门在30秒后打开 **"
-        "DoorCountDown"        "30"
-    }
-    "*** The door opens in 10 seconds. Hold! ***"
-    {
-        "chi"        "**门在10秒后打开.防御!!! **"
-    }
-    "*** The door opens in 5 seconds. RESIST!!! ***"
-    {
-        "chi"        "**门在5秒后打开.防御!!!**"
-    }
-    "** Well done! The door will open in 15 seconds! **"
-    {
-        "chi"        "**干得漂亮!门在15秒后打开 **"
-        "DoorCountDown"        "15"
-    }
-    "* Whirpool summoner has been picked up. Press +USE (E) to summon*"
-    {
-        "chi"        "** **"
-    }
-    "** Snowball launcher has been picked up. Press +USE (E) to launch a snowball. **"
-    {
-        "chi"        "**冰冻火箭弹被拾起 按'E'来发射一颗冰冻弹 **"
-    }
-    "** An evil christmas ogre has appeared... **"
-    {
-        "chi"        "**警告!!僵尸DP出现 **"
-    }
-    "*** HOLD! The elevator will leave in 25 seconds! ***"
-    {
-        "chi"        "**电梯将在25秒后升起 **"
-        "DoorCountDown"        "25"
-    }
-    "** Tree placer has been picked up. Press +USE (E) to place a tree. **"
-    {
-        "chi"        "**无限弹药被拾起 按'E'来放置一个无限弹药补给点 **"
-    }
-    "*** Hold the bridge! The door opens in 20 seconds! ***"
-    {
-        "chi"        "**防御这座桥!门将在20秒后打开 **"
-        "DoorCountDown"        "20"
-    }
-    "*** Activate one of the control pannels! ***"
-    {
-        "chi"        "**激活控制面板! **"
-    }
-    "** Well done! The door opens in 20 seconds. RESIST!!! **"
-    {
-        "chi"        "**门将在20秒后打开 防御! **"
-        "DoorCountDown"        "20"
-    }
-    "** Hold! The door will open in 25 seconds! **"
-    {
-        "chi"        "**门将在25秒后打开 防御! **"
-        "DoorCountDown"        "25"
-    }
-    "** Only 5 seconds left! RESIST! **"
-    {
-        "chi"        "**只有5秒了 防御! **"
-    }
-    "** We have to hold this area for 40 seconds until the doors open! **"
-    {
-        "chi"        "**我们需要防守这里40秒 直到大门打开 **"
-        "DoorCountDown"        "40"
-    }
-    "** Keep defending! 15 seconds left! **"
-    {
-        "chi"        "**继续防守!还有15秒 **"
-    }
-    "** Magical lantern has been picked up. Press +USE (E) to activate it. **"
-    {
-        "chi"        "**魔灯已被拾起 按'E'来打开魔灯 **"
-    }
-    "** Zombie fog has been picked up. Press +USE (E) to activate **"
-    {
-        "chi"        "** **"
-    }
-    "** 5 seconds! RESIST!!! **"
-    {
-        "chi"        "**还有5秒 防御! **"
-    }
-    "** Ice boomerang has been picked up. Press +USE (E) to throw it. **"
-    {
-        "chi"        "**寒冰飞盘已被拾起 按'E'来发射 **"
-    }
-    "*** FALL BACK! THE ELEVATOR LEAVES IN 5 SECONDS! ***"
-    {
-        "chi"        "**撤退!离电梯离开还有5秒 **"
-        "DoorCountDown"        "5"
-    }
-    "** Storage area door opening in 15 seconds. HOLD! **"
-    {
-        "chi"        "**离储存区舱门打开还有15秒 防御! **"
-        "DoorCountDown"        "15"
-    }
-    "** Hold a bit! The door will open in 15 seconds! **"
-    {
-        "chi"        "**防御! 门将在15秒后打开 **"
-        "DoorCountDown"        "15"
-    }
-    "** Hold 10 more seconds! The second doors will open soon!**"
-    {
-        "chi"        "**防御10秒! 第二扇门将在10秒后打开 **"
-        "DoorCountDown"        "10"
-    }
-    "** Zombie heal has been picked up. Press +USE (E) to activate.**"
-    {
-        "chi"        "**僵尸奶已被拾起  按'E'来给周围僵尸加血**"
-    }
-    "** Napalm candle has been picked up. Press +USE (E) to activate **"
-    {
-        "chi"        "**喷火器已被拾起 按'E'来打开/关闭喷火器 **"
-    }
-    "** THIS IS OUR LAST STAND! **"
-    {
-        "chi"        "**这是我们最后的防御地点 **"
-    }
-    "** DEFEND THE CHRISTMAS AIRBOAT FOR 50 SECONDS!!! **"
-    {
-        "chi"        "**防守圣诞汽艇50秒 **"
-        "DoorCountDown"        "50"
-    }
-    "** RESIST! 30 SECONDS LEFT!!! **"
-    {
-        "chi"        "**防御!还有30秒 **"
-    }
-    "** 15 SECONDS! KEEP IT UP!!! **"
-    {
-        "chi"        "**还有15秒 **"
-    }
-    "** LAST 5 SECONDS! RESIST!!! **"
-    {
-        "chi"        "**最后5秒 **"
-    }
-    "** You have beaten easy mode... Let's see now how you do in MEDIUM! **"
-    {
-        "chi"        "**'简单'难度已通关 **"
-    }
-    "** CURRENT LEVEL: MEDIUM **"
-    {
-        "chi"        "**当前难度 普通 作者:GARGANTUA 翻译:BAKA_Miku **"
-    }
-    "** We have to hold this area for 60 seconds until the doors open! **"
-    {
-        "chi"        "**我们需要防守这里60秒 直到大门打开 **"
-        "DoorCountDown"        "60"
-    }
-    "** Keep defending! 30 seconds left! **"
-    {
-        "chi"        "**防御!还有30秒 **"
-    }
-    "** 15 seconds! RESIST!!! **"
-    {
-        "chi"        "**防御!还有15秒 **"
-    }
-    "** LAST 5 SECONDS! GET READY!!! **"
-    {
-        "chi"        "**最后5秒!准备 **"
-    }
-    "** Hold! The door opens in 20 seconds!!! **"
-    {
-        "chi"        "**防御!门将在20秒后打开 **"
-        "DoorCountDown"        "20"
-    }
-    "** KEEP HOLDING! 5 MORE SECONDS!!! **"
-    {
-        "chi"        "**防御!还有5秒 **"
-    }
-    "** Hold a bit! The door will open in 20 seconds! **"
-    {
-        "chi"        "**防御!门将在20秒后打开 **"
-        "DoorCountDown"        "20"
-    }
-    "** DEFEND THE CHRISTMAS AIRBOAT! THE STAR OF THE NORTH IS FALLING! **"
-    {
-        "chi"        "**防守汽艇!它正在坠落 **"
-    }
-    "** THE CORE OF THE AIRBOAT IS MISSING! WE HAVE TO FIND IT!!! **"
-    {
-        "chi"        "**汽艇核心遗失!我们需要找到它[提示:你有可能在小屋及大树下找到它] **"
-    }
-    "** TIP: The core must be brought back to the back of the ship to leave. **"
-    {
-        "chi"        "**提示 汽艇核心需要被带回汽艇 **"
-    }
-    "** THE STAR OF THE NORTH WILL WIPE EVERYTHING OUT IN 20 SECONDS! **"
-    {
-        "chi"        "**离任务将失败还有20秒 **"
-        "DoorCountDown"        "20"
-    }
-    "** IT'S TOO LATE! THE BOAT WILL NOT DO IT IN TIME! WE WILL DIE! **"
-    {
-        "chi"        "**太晚了!任务失败!我们死了! **"
-    }
-    "*** Activate both control pannels at once to unlock the door! ***"
-    {
-        "chi"        "**同时!按下控制面板以解锁大门 **"
-    }
-    "* Trampoline placer has been picked up. Press +USE (E) to place a trampoline. *"
-    {
-        "chi"        "**蹦床已被拾起 按'E'来放置一个蹦床**"
-    }
-    "** The core has been found! Take it to the boat! **"
-    {
-        "chi"        "**汽艇核心已被找到!把它带回汽艇! **"
-    }
-    "** The boat has energy again! We will be able to leave now!!! **"
-    {
-        "chi"        "**汽艇恢复能源!我们可以起飞了 **"
-    }
-    "** Resist for 15 seconds! **"
-    {
-        "chi"        "**防御15秒 **"
-        "DoorCountDown"        "15"
-    }
-    "** LAST 5 SECONDS! KEEP HOLDING!!! **"
-    {
-        "chi"        "**最后5秒 防御! **"
-    }
-    "** Well done! The things are now getting interesting at TOUGH mode!!! **"
-    {
-        "chi"        "**'普通'难度已通关 **"
-    }
-    "** CURRENT LEVEL: TOUGH **"
-    {
-        "chi"        "**当前难度 困难 作者:GARGANTUA 翻译:BAKA_Miku **"
-    }
-    "** RESIST! There are two ways they can come from! **"
-    {
-        "chi"        "**防御!这里有两条路僵尸可以到达 **"
-    }
-    "** HOLD! The door is opening in 10 seconds! **"
-    {
-        "chi"        "**防御!门将在10秒后打开 **"
-        "DoorCountDown"        "10"
-    }
-    "** Resist! The doors will open in 10 seconds!!! **"
-    {
-        "chi"        "**防御!门将在10秒后打开 **"
-    }
-    "** RESIST FOR 20 SECONDS! Help is on the way! **"
-    {
-        "chi"        "**防御20秒!增援已经在路上了 **"
-        "DoorCountDown"        "20"
-    }
-    "** Fall back! The hot air balloon is here!!! **"
-    {
-        "chi"        "**撤退!热气球已经到达 **"
-    }
-    "** SHOOT! Zombies can jump into the balloon!!! **"
-    {
-        "chi"        "**防御!僵尸可以跳进热气球 **"
-    }
-    "** You werent expected to get this far... GET READY FOR THE APOCALYPSE!!! **"
-    {
-        "chi"        "**你不可能走到这一步…准备启示录！！ **"
-    }
-    "+++  MAP MADE BY GARGANTUA +++"
-    {
-        "chi"        "**作者:GARGANTUA 翻译:BAKA_Miku **"
-    }
-    "*** ZOMBIES DETECTED ON BOAT - INVALID VICTORY!!! ***"
-    {
-        "chi"        "**僵尸已经上船 -无效的胜利 **"
-    }
-    "** You have beaten easy mode... Lets see now how you do in MEDIUM! **"
-    {
-        "chi"        "**你已经通过了简单的模式…现在让我们看看你该如何选择！ **"
-    }
-    "** ITS TOO LATE! THE BOAT WILL NOT DO IT IN TIME! WE WILL DIE! **"
-    {
-        "chi"        "**太晚了！这船不及时！我们会死！ **"
-    }
-    "*** ZOMBIES DETECTED ON THE BALLOON - INVALID VICTORY!!! ***"
-    {
-        "chi"        "**在气球上发现僵尸 - 无效的胜利！！！ **"
-    }
-    "** CURRENT LEVEL: APOCALYPSE **"
-    {
-        "chi"        "**当前关卡：启示录 **"
-    }
-    "** The way is locked! Open the doors pressing the buttons at the control area! **"
-    {
-        "chi"        "**该方法已被锁定！打开控制区内的按钮！ **"
-    }
-    "** Systems activated! Doors opening in 10 seconds! **"
-    {
-        "chi"        "**系统激活！门10秒后打开！ **"
-        "DoorCountDown"        "10"
-    }
-    "** Hold! The doors will open in 15 seconds! **"
-    {
-        "chi"        "**守住！门将在15秒后打开！ **"
-        "DoorCountDown"        "15"
-    }
-    "** The core is being deactivated... **"
-    {
-        "chi"        "**核心正在关闭 **"
-    }
-    "** The core has become unstable! The reactor will explode!!! **"
-    {
-        "chi"        "**核心开始不稳定！反应堆即将爆炸！！！ **"
-    }
-    "** We need to get into the safety bunker! Resist until the doors open!!! **"
-    {
-        "chi"        "**我们需要进入安全仓！直到门打开！！！ **"
-    }
-    "*** THIS IS OUR LAST STAND! Keep the zombies out of the bunker!!! ***"
-    {
-        "chi"        "**这是我们最后一站！把僵尸打出去！！！ **"
-    }
-    "*** The door has locked! We need to resist until it keeps moving! ***"
-    {
-        "chi"        "**门已经被锁!我们需要抵抗,直到它移动! **"
-    }
-    "*** ALMOST THERE! KEEP DEFENDING!!! ***"
-    {
-        "chi"        "**差不多了！防守！！！ **"
-    }
-    "** UNBELIEVABLE!!! You have beaten the map! Next round will be barricade and level vote! **"
-    {
-        "chi"        "**难以置信!！！你已经通过了本关！下一轮投票将选择关卡！ **"
-    }
-    "** CURRENT LEVEL: BARRICADE AND LEVEL VOTE **"
-    {
-        "chi"        "**当前关卡：选择你想玩的关卡 **"
-    }
-    "** Survive for 4 minutes to get to the vote level! **"
-    {
-        "chi"        "**生存4分钟，以获得选择关卡的资格！ **"
-        "DoorCountDown"        "240"
-    }
-    "** Only humans will be able to vote! **"
-    {
-        "chi"        "**只有人类能够选择关卡！ **"
-    }
-    "** Two minutes left! RESIST! **"
-    {
-        "chi"        "**剩下两分钟！守住！ **"
-    }
-    "** Just one minute! Keep it up! **"
-    {
-        "chi"        "**还剩一分钟！守住！ **"
-    }
-    "** LAST 30 SECONDS! HOLD THE LAST BIT! **"
-    {
-        "chi"        "**最后30秒！ **"
-    }
-    "** 15 SECONDS!!! **"
-    {
-        "chi"        "**15秒 **"
-    }
-    "** RESIST! 5 SECONDS!!! **"
-    {
-        "chi"        "**守住！5秒！ **"
-    }
-    "** Well done! Vote for the level you want to play! **"
-    {
-        "chi"        "**做得好！选择你想玩的关卡！ **"
-    }
-    "** If after 30 seconds no level has been selected the nuke will activate! **"
-    {
-        "chi"        "**如果30秒后没有选择关卡核武器将激活！ **"
-    }
-    "** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE EASY! **"
-    {
-        "chi"        "**选择关卡！下一层将很容易！ **"
-    }
-    "** Select one of the endings pressing the buttons! Nuke in 30 seconds! **"
-    {
-        "chi"        "**选择一个按钮，按下按钮！30秒核弹！ **"
-    }
-    "** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE BARRICADE AND VOTE AGAIN! **"
-    {
-        "chi"        "**选择关卡！下一阶段将再次投票！ **"
-    }
-    "** No level was chosen in time! The next level will be random!!! **"
-    {
-        "chi"        "** **"
-    }
-    "** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE TOUGH! **"
-    {
-        "chi"        "** **"
-    }
-    "*** ZOMBIES DETECTED ON BUNKER - INVALID VICTORY ***"
-    {
-        "chi"        "** **"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "85303"
-    }
-    "** AN ADMIN CHANGED THE LEVEL TO EASY! **"
-    {
-        "chi"        "** **"
-    }
-    "** AN ADMIN CHANGED THE LEVEL TO MEDIUM! **"
-    {
-        "chi"        "** **"
-    }
-    "** AN ADMIN CHANGED THE LEVEL TO APOCALYPSE! **"
-    {
-        "chi"        "** **"
-    }
-    "** AN ADMIN CHANGED THE LEVEL TO BARRICADE AND VOTE ROUND! **"
-    {
-        "chi"        "** **"
-    }
-    "** AN ADMIN PRESSED THE NUKE BUTTON! **"
-    {
-        "chi"        "** **"
-    }
-    "** AN ADMIN CHANGED THE LEVEL TO TOUGH! **"
-    {
-        "chi"        "** **"
-    }
-    "*** ze_Chrono_Trigger. ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Map by : Airvulpes ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Difficulty : Disuse ***"
-    {
-        "chi"        "** **"
-    }
-    "Special Thanks: Airvulpes"
-    {
-        "chi"        "** **"
-    }
-    "Test Server: Possession"
-    {
-        "chi"        "** **"
-    }
-    "**Stage 1**"
-    {
-        "chi"        "** **"
-    }
-    "***CURRENT DIFFICULTY IS NORMAL***"
-    {
-        "chi"        "** **"
-    }
+	"** CURRENT LEVEL: EASY **"
+	{
+		"chi"		"**当前难度 简单**"
+	}
+	"** TIP: You can pick up special items from the spinning presents randomly placed in the map. **"
+	{
+		"chi"		"**提示 你可以拾起旋转的礼物盒来获得神器 **"
+	}
+	"** Red and blue presents will contain zombie and human items respectively. **"
+	{
+		"chi"		"**红色礼物盒是僵尸神器 蓝色礼物盒是人类神器 **"
+	}
+	"** ZE_CHRISTMAS_INFECTION **"
+	{
+		"chi"		"** **"
+	}
+	"** Zombie present placer has been picked up. Press +USE (E) to place a present. **"
+	{
+		"chi"		"**地雷已被拾起 按'E'来放置一颗地雷 **"
+	}
+	"** Icewall spawner has been picked up. Press +USE (E) to spawn a wall. **"
+	{
+		"chi"		"**冰墙已被拾起 按'E'来生成一堵墙**"
+	}
+	"*** The door opens in 30 seconds ***"
+	{
+		"chi"		"**门在30秒后打开 **"
+		"DoorCountdown"		"0"
+	}
+	"*** The door opens in 10 seconds. Hold! ***"
+	{
+		"chi"		"**门在10秒后打开.防御!!! **"
+		"DoorCountdown"		"0"
+	}
+	"*** The door opens in 5 seconds. RESIST!!! ***"
+	{
+		"chi"		"**门在5秒后打开.防御!!!**"
+	}
+	"** Well done! The door will open in 15 seconds! **"
+	{
+		"chi"		"**干得漂亮!门在15秒后打开 **"
+		"DoorCountdown"		"0"
+	}
+	"* Whirpool summoner has been picked up. Press +USE (E) to summon*"
+	{
+		"chi"		"**僵尸龙卷风被拾起，按E使用。**"
+	}
+	"** Snowball launcher has been picked up. Press +USE (E) to launch a snowball. **"
+	{
+		"chi"		"**冰冻火箭弹被拾起 按'E'来发射一颗冰冻弹 **"
+	}
+	"** An evil christmas ogre has appeared... **"
+	{
+		"chi"		"**警告!!僵尸DP出现 **"
+	}
+	"*** HOLD! The elevator will leave in 25 seconds! ***"
+	{
+		"chi"		"**电梯将在25秒后升起 **"
+		"DoorCountdown"		"0"
+	}
+	"** Tree placer has been picked up. Press +USE (E) to place a tree. **"
+	{
+		"chi"		"**无限弹药被拾起 按'E'来放置一个无限弹药补给点 **"
+	}
+	"*** Hold the bridge! The door opens in 20 seconds! ***"
+	{
+		"chi"		"**防御这座桥!门将在20秒后打开 **"
+		"DoorCountdown"		"0"
+	}
+	"*** Activate one of the control pannels! ***"
+	{
+		"chi"		"**激活控制面板! **"
+	}
+	"** Well done! The door opens in 20 seconds. RESIST!!! **"
+	{
+		"chi"		"**门将在20秒后打开 防御! **"
+		"DoorCountdown"		"0"
+	}
+	"** Hold! The door will open in 25 seconds! **"
+	{
+		"chi"		"**门将在25秒后打开 防御! **"
+		"DoorCountdown"		"0"
+	}
+	"** Only 5 seconds left! RESIST! **"
+	{
+		"chi"		"**只有5秒了 防御! **"
+	}
+	"** We have to hold this area for 40 seconds until the doors open! **"
+	{
+		"chi"		"**我们需要防守这里40秒 直到大门打开 **"
+		"DoorCountdown"		"0"
+	}
+	"** Keep defending! 15 seconds left! **"
+	{
+		"chi"		"**继续防守!还有15秒 **"
+	}
+	"** Magical lantern has been picked up. Press +USE (E) to activate it. **"
+	{
+		"chi"		"**魔灯已被拾起 按'E'来打开魔灯 **"
+	}
+	"** Zombie fog has been picked up. Press +USE (E) to activate **"
+	{
+		"chi"		"**僵尸迷雾已被拾起，按E释放。**"
+	}
+	"** 5 seconds! RESIST!!! **"
+	{
+		"chi"		"**还有5秒 防御! **"
+	}
+	"** Ice boomerang has been picked up. Press +USE (E) to throw it. **"
+	{
+		"chi"		"**寒冰飞盘已被拾起 按'E'来发射 **"
+	}
+	"*** FALL BACK! THE ELEVATOR LEAVES IN 5 SECONDS! ***"
+	{
+		"chi"		"**撤退!离电梯离开还有5秒 **"
+		"DoorCountdown"		"0"
+	}
+	"** Storage area door opening in 15 seconds. HOLD! **"
+	{
+		"chi"		"**离储存区舱门打开还有15秒 防御! **"
+		"DoorCountdown"		"0"
+	}
+	"** Hold a bit! The door will open in 15 seconds! **"
+	{
+		"chi"		"**防御! 门将在15秒后打开 **"
+		"DoorCountdown"		"0"
+	}
+	"** Hold 10 more seconds! The second doors will open soon!**"
+	{
+		"chi"		"**防御10秒！第二扇门马上就要打开了！**"
+		"DoorCountdown"		"0"
+	}
+	"** Zombie heal has been picked up. Press +USE (E) to activate.**"
+	{
+		"chi"		"**僵尸奶已被拾起  按'E'来给周围僵尸加血**"
+	}
+	"** Napalm candle has been picked up. Press +USE (E) to activate **"
+	{
+		"chi"		"**喷火器已被拾起 按'E'来打开/关闭喷火器 **"
+	}
+	"** THIS IS OUR LAST STAND! **"
+	{
+		"chi"		"**这是我们最后的防御地点 **"
+	}
+	"** DEFEND THE CHRISTMAS AIRBOAT FOR 50 SECONDS!!! **"
+	{
+		"chi"		"**防守圣诞汽艇50秒 **"
+		"DoorCountdown"		"0"
+	}
+	"** RESIST! 30 SECONDS LEFT!!! **"
+	{
+		"chi"		"**防御!还有30秒 **"
+	}
+	"** 15 SECONDS! KEEP IT UP!!! **"
+	{
+		"chi"		"**还有15秒 **"
+	}
+	"** LAST 5 SECONDS! RESIST!!! **"
+	{
+		"chi"		"**最后5秒 **"
+	}
+	"** You have beaten easy mode... Let's see now how you do in MEDIUM! **"
+	{
+		"chi"		"**'简单'难度已通关 **"
+	}
+	"** CURRENT LEVEL: MEDIUM **"
+	{
+		"chi"		"**当前难度 普通 作者:GARGANTUA 翻译:BAKA_Miku **"
+	}
+	"** We have to hold this area for 60 seconds until the doors open! **"
+	{
+		"chi"		"**我们需要防守这里60秒 直到大门打开 **"
+		"DoorCountdown"		"0"
+	}
+	"** Keep defending! 30 seconds left! **"
+	{
+		"chi"		"**防御!还有30秒 **"
+	}
+	"** 15 seconds! RESIST!!! **"
+	{
+		"chi"		"**防御!还有15秒 **"
+	}
+	"** LAST 5 SECONDS! GET READY!!! **"
+	{
+		"chi"		"**最后5秒!准备 **"
+	}
+	"** Hold! The door opens in 20 seconds!!! **"
+	{
+		"chi"		"**防御!门将在20秒后打开 **"
+		"DoorCountdown"		"0"
+	}
+	"** KEEP HOLDING! 5 MORE SECONDS!!! **"
+	{
+		"chi"		"**防御!还有5秒 **"
+	}
+	"** Hold a bit! The door will open in 20 seconds! **"
+	{
+		"chi"		"**防御!门将在20秒后打开 **"
+		"DoorCountdown"		"0"
+	}
+	"** DEFEND THE CHRISTMAS AIRBOAT! THE STAR OF THE NORTH IS FALLING! **"
+	{
+		"chi"		"**防守汽艇!它正在坠落 **"
+	}
+	"** THE CORE OF THE AIRBOAT IS MISSING! WE HAVE TO FIND IT!!! **"
+	{
+		"chi"		"**汽艇核心遗失!我们需要找到它[提示:你有可能在小屋及大树下找到它] **"
+	}
+	"** TIP: The core must be brought back to the back of the ship to leave. **"
+	{
+		"chi"		"**提示 汽艇核心需要被带回汽艇 **"
+	}
+	"** THE STAR OF THE NORTH WILL WIPE EVERYTHING OUT IN 20 SECONDS! **"
+	{
+		"chi"		"**离任务将失败还有20秒 **"
+		"DoorCountdown"		"0"
+	}
+	"** IT'S TOO LATE! THE BOAT WILL NOT DO IT IN TIME! WE WILL DIE! **"
+	{
+		"chi"		"**太晚了!任务失败!我们死了! **"
+	}
+	"*** Activate both control pannels at once to unlock the door! ***"
+	{
+		"chi"		"**同时!按下控制面板以解锁大门 **"
+	}
+	"* Trampoline placer has been picked up. Press +USE (E) to place a trampoline. *"
+	{
+		"chi"		"**蹦床已被拾起 按'E'来放置一个蹦床**"
+	}
+	"** The core has been found! Take it to the boat! **"
+	{
+		"chi"		"**汽艇核心已被找到!把它带回汽艇! **"
+	}
+	"** The boat has energy again! We will be able to leave now!!! **"
+	{
+		"chi"		"**汽艇恢复能源!我们可以起飞了 **"
+	}
+	"** Resist for 15 seconds! **"
+	{
+		"chi"		"**防御15秒 **"
+		"DoorCountdown"		"0"
+	}
+	"** LAST 5 SECONDS! KEEP HOLDING!!! **"
+	{
+		"chi"		"**最后5秒 防御! **"
+	}
+	"** Well done! The things are now getting interesting at TOUGH mode!!! **"
+	{
+		"chi"		"**'普通'难度已通关 **"
+	}
+	"** CURRENT LEVEL: TOUGH **"
+	{
+		"chi"		"**当前难度 困难 作者:GARGANTUA 翻译:BAKA_Miku **"
+	}
+	"** RESIST! There are two ways they can come from! **"
+	{
+		"chi"		"**防御!这里有两条路僵尸可以到达 **"
+	}
+	"** HOLD! The door is opening in 10 seconds! **"
+	{
+		"chi"		"**防御!门将在10秒后打开 **"
+		"DoorCountdown"		"0"
+	}
+	"** Resist! The doors will open in 10 seconds!!! **"
+	{
+		"chi"		"**防御!门将在10秒后打开 **"
+	}
+	"** RESIST FOR 20 SECONDS! Help is on the way! **"
+	{
+		"chi"		"**防御20秒!增援已经在路上了 **"
+		"DoorCountdown"		"0"
+	}
+	"** Fall back! The hot air balloon is here!!! **"
+	{
+		"chi"		"**撤退!热气球已经到达 **"
+	}
+	"** SHOOT! Zombies can jump into the balloon!!! **"
+	{
+		"chi"		"**防御!僵尸可以跳进热气球 **"
+	}
+	"** You werent expected to get this far... GET READY FOR THE APOCALYPSE!!! **"
+	{
+		"chi"		"**你不可能走到这一步…准备启示录！！ **"
+	}
+	"+++  MAP MADE BY GARGANTUA +++"
+	{
+		"chi"		"**作者:GARGANTUA 翻译:BAKA_Miku **"
+	}
+	"*** ZOMBIES DETECTED ON BOAT - INVALID VICTORY!!! ***"
+	{
+		"chi"		"**僵尸已经上船 -无效的胜利 **"
+	}
+	"** You have beaten easy mode... Lets see now how you do in MEDIUM! **"
+	{
+		"chi"		"**你已经通过了简单的模式…现在让我们看看你该如何选择！ **"
+	}
+	"** ITS TOO LATE! THE BOAT WILL NOT DO IT IN TIME! WE WILL DIE! **"
+	{
+		"chi"		"**太晚了！这船不及时！我们会死！ **"
+	}
+	"*** ZOMBIES DETECTED ON THE BALLOON - INVALID VICTORY!!! ***"
+	{
+		"chi"		"**在气球上发现僵尸 - 无效的胜利！！！ **"
+	}
+	"** CURRENT LEVEL: APOCALYPSE **"
+	{
+		"chi"		"**当前关卡：启示录 **"
+	}
+	"** The way is locked! Open the doors pressing the buttons at the control area! **"
+	{
+		"chi"		"**该方法已被锁定！打开控制区内的按钮！ **"
+	}
+	"** Systems activated! Doors opening in 10 seconds! **"
+	{
+		"chi"		"**系统激活！门10秒后打开！ **"
+		"DoorCountdown"		"0"
+	}
+	"** Hold! The doors will open in 15 seconds! **"
+	{
+		"chi"		"**守住！门将在15秒后打开！ **"
+		"DoorCountdown"		"0"
+	}
+	"** The core is being deactivated... **"
+	{
+		"chi"		"**核心正在关闭 **"
+	}
+	"** The core has become unstable! The reactor will explode!!! **"
+	{
+		"chi"		"**核心开始不稳定！反应堆即将爆炸！！！ **"
+	}
+	"** We need to get into the safety bunker! Resist until the doors open!!! **"
+	{
+		"chi"		"**我们需要进入安全仓！直到门打开！！！ **"
+	}
+	"*** THIS IS OUR LAST STAND! Keep the zombies out of the bunker!!! ***"
+	{
+		"chi"		"**这是我们最后一站！把僵尸打出去！！！ **"
+	}
+	"*** The door has locked! We need to resist until it keeps moving! ***"
+	{
+		"chi"		"**门已经被锁!我们需要抵抗,直到它移动! **"
+	}
+	"*** ALMOST THERE! KEEP DEFENDING!!! ***"
+	{
+		"chi"		"**差不多了！防守！！！ **"
+	}
+	"** UNBELIEVABLE!!! You have beaten the map! Next round will be barricade and level vote! **"
+	{
+		"chi"		"**难以置信!！！你已经通过了本关！下一轮投票将选择关卡！ **"
+	}
+	"** CURRENT LEVEL: BARRICADE AND LEVEL VOTE **"
+	{
+		"chi"		"**当前关卡：选择你想玩的关卡 **"
+	}
+	"** Survive for 4 minutes to get to the vote level! **"
+	{
+		"chi"		"**生存4分钟，以获得选择关卡的资格！ **"
+		"DoorCountdown"		"240"
+	}
+	"** Only humans will be able to vote! **"
+	{
+		"chi"		"**只有人类能够选择关卡！ **"
+	}
+	"** Two minutes left! RESIST! **"
+	{
+		"chi"		"**剩下两分钟！守住！ **"
+	}
+	"** Just one minute! Keep it up! **"
+	{
+		"chi"		"**还剩一分钟！守住！ **"
+	}
+	"** LAST 30 SECONDS! HOLD THE LAST BIT! **"
+	{
+		"chi"		"**最后30秒！ **"
+	}
+	"** 15 SECONDS!!! **"
+	{
+		"chi"		"**15秒 **"
+	}
+	"** RESIST! 5 SECONDS!!! **"
+	{
+		"chi"		"**守住！5秒！ **"
+	}
+	"** Well done! Vote for the level you want to play! **"
+	{
+		"chi"		"**做得好！选择你想玩的关卡！ **"
+	}
+	"** If after 30 seconds no level has been selected the nuke will activate! **"
+	{
+		"chi"		"**如果30秒后没有选择关卡核武器将激活！ **"
+	}
+	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE EASY! **"
+	{
+		"chi"		"**投票结束！下一关将是简单难度。**"
+	}
+	"** Select one of the endings pressing the buttons! Nuke in 30 seconds! **"
+	{
+		"chi"		"**选择一个按钮，按下按钮！30秒核弹！ **"
+	}
+	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE BARRICADE AND VOTE AGAIN! **"
+	{
+		"chi"		"**投票结束！下一关仍将是生存选关关卡！**"
+	}
+	"** No level was chosen in time! The next level will be random!!! **"
+	{
+		"chi"		"**在规定的时间内没有选择关卡！下一关将是随机关卡！**"
+	}
+	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE TOUGH! **"
+	{
+		"chi"		"**投票结束！下一关将是困难难度！**"
+	}
+	"*** ZOMBIES DETECTED ON BUNKER - INVALID VICTORY ***"
+	{
+		"chi"		"**房间里发现僵尸！无效的胜利！**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"85303"
+	}
+	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE MEDIUM! **"
+	{
+		"chi"		"**投票结束！下一关将是普通难度！**"
+	}
+	"** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE APOCALYPSE! **"
+	{
+		"chi"		"**投票结束！下一关将是第四关：启示录。**"
+	}
 }

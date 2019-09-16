@@ -1,255 +1,226 @@
 "Console_T"
 {
-    "the map made for practice"
-    {
-        "chi"        "**地图作者：practice 地图汉化：大明**"
-    }
-    "thank for Color specially"
-    {
-        "chi"        "**特别感谢：Color**"
-    }
-    "the door will open after 30 seconds"
-    {
-        "chi"        "**木门将在30秒后打开**"
-    }
-    "the door will open after 40 seconds"
-    {
-        "chi"        "**这道门40秒后打开**"
-    }
-    "the wire will break after 30 seconds"
-    {
-        "chi"        "**铁丝网将在30秒消失**"
-    }
-    "the lift will move after 15 seconds"
-    {
-        "chi"        "**浮板在15秒后移动**"
-    }
-    "the wire will break after 40 seconds"
-    {
-        "chi"        "**铁丝网在40秒后消失**"
-    }
-    "go~go~go!!!"
-    {
-        "chi"        "**GKD,赶快跑！！！**"
-    }
-    "the elevator will down after 30 seconds"
-    {
-        "chi"        "**电梯30秒后开门**"
-    }
-    "the elevator will up after 10 seconds"
-    {
-        "chi"        "**电梯10秒后关门**"
-    }
-    "**to use computer make the ladder useful**"
-    {
-        "chi"        "**使用电脑让梯子能够通行**"
-    }
-    "you can climb the ladder after 40 seconds"
-    {
-        "chi"        "**40秒后大房子后面两边的梯子会出现！往上走！（屋子不是安全屋噢~）**"
-    }
-    "the last door will open after 30 seconds"
-    {
-        "chi"        "**最后的门将在30秒后打开**"
-    }
-    "the last glass car will go after 10 seconds"
-    {
-        "chi"        "**最后的玻璃车10秒后离开**"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "46634"
-    }
-    "**Stage 1**"
-    {
-        "chi"        "**第一关**"
-    }
-    "**stage 1 finish**"
-    {
-        "chi"        "**第一关完成**"
-    }
-    "**stage 2**"
-    {
-        "chi"        "**第二关**"
-    }
-    "**glass door will open in 40seconds"
-    {
-        "chi"        "**玻璃门40秒后打开**"
-    }
-    "**The toile door is blocked , we need time to clear it**"
-    {
-        "chi"        "**厕所的门是被堵住的，我们需要时间清理它**"
-    }
-    "**obstructions are removed in 30 seconds**"
-    {
-        "chi"        "**障碍在30秒后清除干净**"
-    }
-    "**we need to go to the controlroom to restart the electricity**"
-    {
-        "chi"        "**我们需要去控制室重启电力系统**"
-    }
-    "**when the electricity restart,go to the meetingroom**"
-    {
-        "chi"        "**当电力系统重启时，赶快去会议室**"
-    }
-    "**use phone on the table to call temporary to open the door"
-    {
-        "chi"        "**使用桌子上的电话叫临时工开门**"
-    }
-    "**use phone in the meetingroom to call temporary open the door**"
-    {
-        "chi"        "** **"
-    }
-    "**door open in 40 seconds**"
-    {
-        "chi"        "**门在40秒后打开**"
-    }
-    "**stair is blocked,we can use elevator**"
-    {
-        "chi"        "**楼梯被堵住了，我们需要乘坐电梯**"
-    }
-    "**elevator open in 20seconds**"
-    {
-        "chi"        "**电梯门20秒后打开**"
-    }
-    "**elevator move in 10 seconds**"
-    {
-        "chi"        "**电梯10秒后运行**"
-    }
-    "**ladder are mounted in 40seconds**"
-    {
-        "chi"        "**两边管道的梯子40秒后出现**"
-    }
-    "**defend here,we need time to put ladder**"
-    {
-        "chi"        "**守住这里，我们需要时间！**"
-    }
-    "**we need time to remove the shelves**"
-    {
-        "chi"        "**我们需要时间把梯子搬走**"
-    }
-    "**defend here for 30 seconds**"
-    {
-        "chi"        "**守住这里30秒**"
-    }
-    "**The platform will stretch after 20 seconds**"
-    {
-        "chi"        "**这个平台20秒后延伸**"
-    }
-    "**defend here**"
-    {
-        "chi"        "**守住这里**"
-    }
-    "**boat door open in 30 seconds**"
-    {
-        "chi"        "**船门在30秒后打开**"
-    }
-    "**wood and glass break in 8 seconds**"
-    {
-        "chi"        "**木头和玻璃会在8秒后破碎**"
-    }
-    "**boat move in 15 seconds**"
-    {
-        "chi"        "**小船在15秒后移动**"
-    }
-    "**map made by gneL,thank for play**"
-    {
-        "chi"        "**感谢您的游玩**"
-    }
-    "**stage 2 finish**"
-    {
-        "chi"        "**第二关完成**"
-    }
-    "**player pick up Item_ice**"
-    {
-        "chi"        "**玩家获得了冰神器**"
-    }
-    "**地图制作 : genL**"
-    {
-        "chi"        "**地图制作：genL 地图汉化：大明**"
-    }
-    "**特别感谢 : 酸奶 **"
-    {
-        "chi"        "**特别感谢：酸奶**"
-    }
-    "**Player pick up Item_Wind**"
-    {
-        "chi"        "**玩家获得了风神器**"
-    }
-    "**CD 60 seconds**"
-    {
-        "chi"        "**冷却时间60秒**"
-    }
-    "**Item_Wind use**"
-    {
-        "chi"        "**风神器已使用**"
-    }
-    "**ZM:Hide On Bush**"
-    {
-        "chi"        "**ZM：僵尸感染 捉迷藏**"
-    }
-    "**Hide for 240 seconds,then you can kill zombies**"
-    {
-        "chi"        "**生存240秒后你可以把僵尸摁在墙角摩擦_(:з」∠)_**"
-    }
-    "地图制作 : genL"
-    {
-        "chi"        "**地图制作：genL 地图汉化：酸奶**"
-    }
-    "特别感谢 : 酸奶"
-    {
-        "chi"        "**特别感谢：酸奶**"
-    }
-    "**CD 40seconds**"
-    {
-        "chi"        "**冷却时间40秒**"
-    }
-    "**zombies will teleport in 5 seconds**"
-    {
-        "chi"        "**僵尸在5秒后传送**"
-    }
-    "**kill them!!!**"
-    {
-        "chi"        "**把他们按着摩擦！！！**"
-    }
-    "**you finished the map**"
-    {
-        "chi"        "**你通关了这张地图**"
-    }
-    "**Item_Ice use**"
-    {
-        "chi"        "**冰神器已使用**"
-    }
-    "**Map made by Eugenio *Motanum* Roman**"
-    {
-        "chi"        "** **"
-    }
-    "**Contact me at eugenio.motanum91 AT gmail.com**"
-    {
-        "chi"        "** **"
-    }
-    "***Selecting default difficulty****"
-    {
-        "chi"        "** **"
-    }
-    "**Thanks to [PF] PlagueFest for their support!**"
-    {
-        "chi"        "** **"
-    }
-    "***Waiting for players****"
-    {
-        "chi"        "**等待玩家加入**"
-    }
-    "***Reseting game in 20 seconds****"
-    {
-        "chi"        "**20秒后重置回合**"
-    }
-    "*** ZE_BOATESCAPEX ***"
-    {
-        "chi"        "** **"
-    }
-    "*** A mode is being randomly chosen... ***"
-    {
-        "chi"        "**模式是随机选择的**"
-    }
+	"the map made for practice"
+	{
+		"chi"		"** **"
+	}
+	"thank for Color specially"
+	{
+		"chi"		"** **"
+	}
+	"the door will open after 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"the door will open after 40 seconds"
+	{
+		"chi"		"** **"
+	}
+	"the wire will break after 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"the lift will move after 15 seconds"
+	{
+		"chi"		"** **"
+	}
+	"the wire will break after 40 seconds"
+	{
+		"chi"		"** **"
+	}
+	"go~go~go!!!"
+	{
+		"chi"		"** **"
+	}
+	"the elevator will down after 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"the elevator will up after 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"**to use computer make the ladder useful**"
+	{
+		"chi"		"** **"
+	}
+	"you can climb the ladder after 40 seconds"
+	{
+		"chi"		"** **"
+	}
+	"the last door will open after 30 seconds"
+	{
+		"chi"		"** **"
+	}
+	"the last glass car will go after 10 seconds"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"46634"
+	}
+	"**stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"**stage 1 finish**"
+	{
+		"chi"		"** **"
+	}
+	"**stage 2**"
+	{
+		"chi"		"** **"
+	}
+	"**glass door will open in 40seconds"
+	{
+		"chi"		"** **"
+	}
+	"**The toile door is blocked , we need time to clear it**"
+	{
+		"chi"		"** **"
+	}
+	"**obstructions are removed in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**we need to go to the controlroom to restart the electricity**"
+	{
+		"chi"		"** **"
+	}
+	"**when the electricity restart,go to the meetingroom**"
+	{
+		"chi"		"** **"
+	}
+	"**use phone on the table to call temporary to open the door"
+	{
+		"chi"		"** **"
+	}
+	"**use phone in the meetingroom to call temporary open the door**"
+	{
+		"chi"		"** **"
+	}
+	"**door open in 40 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**stair is blocked,we can use elevator**"
+	{
+		"chi"		"** **"
+	}
+	"**elevator open in 20seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**elevator move in 10 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**ladder are mounted in 40seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**defend here,we need time to put ladder**"
+	{
+		"chi"		"** **"
+	}
+	"**we need time to remove the shelves**"
+	{
+		"chi"		"** **"
+	}
+	"**Defend here for 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**The platform will stretch after 20 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**defend here**"
+	{
+		"chi"		"** **"
+	}
+	"**boat door open in 30 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**wood and glass break in 8 seconds**"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"-1"
+	}
+	"**boat move in 15 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**map made by gneL,thank for play**"
+	{
+		"chi"		"** **"
+	}
+	"**stage 2 finish**"
+	{
+		"chi"		"** **"
+	}
+	"**player pick up Item_ice**"
+	{
+		"chi"		"** **"
+	}
+	"**地图制作 : genL**"
+	{
+		"chi"		"** **"
+	}
+	"**特别感谢 : 酸奶 **"
+	{
+		"chi"		"** **"
+	}
+	"**Player pick up Item_Wind**"
+	{
+		"chi"		"** **"
+	}
+	"**CD 60 seconds**"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"-1"
+	}
+	"**Item_Wind use**"
+	{
+		"chi"		"** **"
+	}
+	"**ZM:Hide On Bush**"
+	{
+		"chi"		"** **"
+	}
+	"**Hide for 240 seconds,then you can kill zombies**"
+	{
+		"chi"		"** **"
+	}
+	"地图制作 : genL"
+	{
+		"chi"		"** **"
+	}
+	"特别感谢 : 酸奶"
+	{
+		"chi"		"** **"
+	}
+	"**CD 40seconds**"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"-1"
+	}
+	"**zombies will teleport in 5 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"**kill them!!!**"
+	{
+		"chi"		"** **"
+	}
+	"**you finished the map**"
+	{
+		"chi"		"** **"
+	}
+	"**Item_Ice use**"
+	{
+		"chi"		"** **"
+	}
 }

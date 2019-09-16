@@ -1,0 +1,117 @@
+"Console_T"
+{
+	"***DEFEND! The door is locked***"
+	{
+		"chi"		"**守住僵尸!这里的门锁住了!**"
+		"DoorCountDown"		"35"
+	}
+	"***Hold it for a bit more***"
+	{
+		"chi"		"**再守一会儿**"
+	}
+	"***Fall back***"
+	{
+		"chi"		"**撤退！**"
+	}
+	"***The windows are barricaded off***"
+	{
+		"chi"		"**窗户被障碍物挡住了**"
+		"DoorCountDown"		"35"
+	}
+	"***Hold this position until we break it***"
+	{
+		"chi"		"**回头守住僵尸直到我们弄走那些障碍物**"
+	}
+	"***Keep it steady***"
+	{
+		"chi"		"**继续守住**"
+	}
+	"***The window barricades are broken through***"
+	{
+		"chi"		"**窗户上的障碍物已经被移除了**"
+	}
+	"***RUN!***"
+	{
+		"chi"		"**快跑！**"
+	}
+	"***Emergency sequence enabled***"
+	{
+		"chi"		"**警告！紧急程序已启动！**"
+	}
+	"***Nerve Gas release inbound***"
+	{
+		"chi"		"**警告！检测到未知生物！神经毒素即将释放！**"
+	}
+	"***Nerve Gas release in 90 seconds***"
+	{
+		"chi"		"**神经毒素90秒后释放**"
+	}
+	"***Get to the lab for safety***"
+	{
+		"chi"		"**地下实验室的门打开了,快下去!**"
+	}
+	"***Nerve Gas in 90 seconds***"
+	{
+		"chi"		"**神经毒素90秒后释放**"
+	}
+	"***Nerve Gas in 15 seconds***"
+	{
+		"chi"		"**神经毒素15秒后释放**"
+	}
+	"***Nerve Gas in 30 seconds***"
+	{
+		"chi"		"**神经毒素30秒后释放**"
+	}
+	"***Nerve Gas in 5 seconds***"
+	{
+		"chi"		"**神经毒素5秒后释放**"
+	}
+	"***Nerve Gas imminent!!! CLOSE THE DOOR!!!!***"
+	{
+		"chi"		"**神经毒素已释放！快关上门！**"
+	}
+	"***Lockdown sequence enable***"
+	{
+		"chi"		"**防御系统已启用！**"
+	}
+	"***Downstairs window malfunction***"
+	{
+		"chi"		"**警告！一楼客厅防御系统失效！**"
+	}
+	"***Upstairs window malfunction in dark room***"
+	{
+		"chi"		"**警告！二楼暗室防御系统失效！**"
+	}
+	"***Upstairs window malfunction in both rooms***"
+	{
+		"chi"		"**警告！二楼防御系统完全失效！**"
+	}
+	"***Someone is getting in through the roof***"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"62745"
+	}
+	"***Tram leaving in 15 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Press emergency sequence and set this place on lockdown!***"
+	{
+		"chi"		"** **"
+	}
+	"***Truck leaving in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Tram leaving in 5 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Upstairs window malfunction in lit room***"
+	{
+		"chi"		"** **"
+	}
+}

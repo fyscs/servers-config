@@ -1,0 +1,175 @@
+"Console_T"
+{
+	"** Defend Crystal !! **"
+	{
+		"chi"		"**守住水晶!!**"
+	}
+	"** Escape The World !! 40 SECONDS **"
+	{
+		"chi"		"**还有40秒我们就能逃离这里!!**"
+	}
+	"** Escape The World !! 10 SECONDS **"
+	{
+		"chi"		"**还有10秒我们就能逃离这里!!**"
+	}
+	"** Hmm, was this a dream... **"
+	{
+		"chi"		"**emmm，这是一个梦境...**"
+	}
+	"** Crystal was broken !! **"
+	{
+		"chi"		"**水晶碎掉了!!**"
+	}
+	"** Defend 40 SECONDS **"
+	{
+		"chi"		"**守住40秒**"
+	}
+	"** Defend 30 SECONDS **"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"** Defend 20 SECONDS **"
+	{
+		"chi"		"**守住20秒**"
+	}
+	"** Defend 10 SECONDS **"		"
+{
+		"
+	"chi"		"		"
+	"**守住10秒**"		"
+	}
+"
+	"**"		"Defend"
+	"5"		"SECONDS"
+	"**"		"
+{
+		"
+	"chi"		"		"
+	"**守住5秒**"		"
+	}
+"
+	"**"		"Watch"
+	"out"		"TP"
+	"!"		"10"
+	"SECONDS"		"**"
+	"
+{
+		"		"chi"
+	"		"		"**还有10秒传送!**"
+	"
+	}
+"		"**"
+	"Watch"		"out"
+	"TP"		"!"
+	"5"		"SECONDS"
+	"**"		"
+{
+		"
+	"chi"		"		"
+	"**还有5秒传送!**"		"
+	}
+"
+	"Who"		":"
+	"Hmn"		"
+{
+		"
+	"chi"		"		"
+	"**地图制作:Hmn"		"地图翻译:清新的二哈**"
+	"
+	}
+"		"Reference"
+	":"		"Final"
+	"Fantasy"		"Legend"
+	"II"		"
+{
+		"
+	"chi"		"		"
+	"**参考:最终幻想传奇II**"		"
+	}
+"
+	"map"		":"
+	"ze_astral"		"
+{
+		"
+	"chi"		"		"
+	"**"		"**"
+	"
+	}
+"		"**"
+	"next"		"FLOOR"
+	"**"		"
+{
+		"
+	"chi"		"		"
+	"**下一层**"		"
+	}
+"
+	"**"		"Anti-Gravity"
+	"Elevator"		"30"
+	"SECONDS"		"**"
+	"
+{
+		"		"chi"
+	"		"		"**反重力电梯将在30秒后启动**"
+	"
+	}
+"		"**"
+	"Anti-Gravity"		"Elevator"
+	"10"		"SECONDS"
+	"**"		"
+{
+		"
+	"chi"		"		"
+	"**反重力电梯将在10秒后启动**"		"
+	}
+"
+	"**"		"Get"
+	"in"		"elevator"
+	"!"		"5"
+	"SECONDS"		"**"
+	"
+{
+		"		"chi"
+	"		"		"**最后5秒，快上电梯!**"
+	"
+	}
+"		"**"
+	"Look"		"up"
+	"!"		"**"
+	"
+{
+		"		"chi"
+	"		"		"**小心头上!**"
+	"Map : ze_astral"
+	{
+		"chi"		"** **"
+	}
+	"Who : Hmn"
+	{
+		"chi"		"** **"
+	}
+	"Reference : Final Fantasy Legend II"
+	{
+		"chi"		"** **"
+	}
+	"** Defend 5 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** Watch out TP !  10 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** Watch out TP !  5 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** Anti-Gravity Elevator 30 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+	"** Anti-Gravity Elevator 10 SECONDS **"
+	{
+		"chi"		"** **"
+	}
+}

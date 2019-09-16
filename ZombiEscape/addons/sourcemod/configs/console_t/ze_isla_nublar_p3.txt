@@ -1,268 +1,220 @@
 "Console_T"
 {
-    "***CURRENT DIFFICULTY IS NORMAL***"
-    {
-        "chi"        "**当前难度 正常 翻译BAKA_Miku **"
-    }
-    "***RESTORE THE POWER!***"
-    {
-        "chi"        "**重新启动能源![请不要贴门] **"
-    }
-    "***HOLD THIS POSITION!***"
-    {
-        "chi"        "**守住这个地方 **"
-    }
-    "***POWER RESTORING IN 15 SECONDS***"
-    {
-        "chi"        "**能源将在15秒后恢复 **"
-    }
-    "***POWER RESTORING IN 10 SECONDS***"
-    {
-        "chi"        "**能源将在10秒后恢复 **"
-    }
-    "***POWER RESTORING IN 5 SECONDS***"
-    {
-        "chi"        "**能源将在5秒后恢复 **"
-    }
-    "***TELEPORTING ALL TO GENERATOR CATWALK***"
-    {
-        "chi"        "**僵尸将会传送 **"
-    }
-    "***POWER HAS BEEN RESTORED***"
-    {
-        "chi"        "**能源恢复 **"
-    }
-    "***ZOMBIES HAVE BEEN TRAPPED...RUUN!***"
-    {
-        "chi"        "**僵尸被困住了 赶紧跑路吧 **"
-    }
-    "***ALL CLOSED DOORS WILL OPEN IN 60 SECONDS***"
-    {
-        "chi"        "**门将在60秒后打开 **"
-    }
-    "***ALL CLOSED DOORS WILL OPEN IN 30 SECONDS***"
-    {
-        "chi"        "**门将在30秒后打开 **"
-    }
-    "***ALL CLOSED DOORS WILL OPEN IN 15 SECONDS***"
-    {
-        "chi"        "**门将在15秒后打开 **"
-    }
-    "***MULDOON'S SHOTGUN HAS BEEN FOUND***"
-    {
-        "chi"        "**霰弹枪已被拾起 按'E'来击退僵尸 **"
-    }
-    "***GO TO THE CONTROL ROOM***"
-    {
-        "chi"        "**进入控制室 **"
-    }
-    "***SHOTGUN OUT OF AMMO***"
-    {
-        "chi"        "**霰弹枪没子弹了 **"
-    }
-    "***GET INTO THE TRUCK***"
-    {
-        "chi"        "**进入卡车 **"
-    }
-    "***GET OUT THE TRUCK AND GO TO THE HATCH***"
-    {
-        "chi"        "**离开卡车 进入通道 **"
-    }
-    "***LIFT IS COMING***"
-    {
-        "chi"        "**电梯正在上升 **"
-    }
-    "***HOLD THIS POSTION***"
-    {
-        "chi"        "**守住这个地方! **"
-    }
-    "***LIFT IS HERE!***"
-    {
-        "chi"        "**电梯已到达 **"
-    }
-    "***FALL BACK***"
-    {
-        "chi"        "**撤退!!! **"
-    }
-    "***DOOR WILL OPEN IN 20 SECONDS***"
-    {
-        "chi"        "**门将在20秒后打开 **"
-        "DoorCountDown"        "20"
-    }
-    "***DOOR WILL OPEN IN 10 SECONDS***"
-    {
-        "chi"        "**门将在10秒后打开 **"
-    }
-    "***FALL BACK!!!***"
-    {
-        "chi"        "**撤退! **"
-    }
-    "***CT WIN!***"
-    {
-        "chi"        "**人类胜利 **"
-    }
-    "***MOVING ON TO HARD MODE***"
-    {
-        "chi"        "**下一关难度等级 困难 **"
-    }
-    "***CURRENT DIFFICULTY IS HARD***"
-    {
-        "chi"        "**当前难度 困难 **"
-    }
-    "***USE GENERATOR TO ENABLE POWER TO BUTTON***"
-    {
-        "chi"        "**打开发电机的开关 **"
-    }
-    "***THE BUTTON WILL CLOSE THE GATES***"
-    {
-        "chi"        "**门将关闭 **"
-    }
-    "***GO GO PLANT THE C4***"
-    {
-        "chi"        "**去安放c4[对着集装箱按E] **"
-    }
-    "***ON THE DOOR TO THE CONTAINER***"
-    {
-        "chi"        "** **"
-    }
-    "***PRESS USE ON THE CONTAINER DOOR***"
-    {
-        "chi"        "**记得拿汽油桶!!!! **"
-    }
-    "***GAS CANS HAVE BEEN COLLECTED***"
-    {
-        "chi"        "**汽油桶已被拾起 **"
-    }
-    "***RUN BACK TO THE BOAT***"
-    {
-        "chi"        "**跑回快艇上 **"
-    }
-    "***BOAT REFUELING***"
-    {
-        "chi"        "**正在给快艇添加燃料 **"
-    }
-    "***MOVING ON TO EXTREME MODE***"
-    {
-        "chi"        "**下一关难度等级 极限 **"
-    }
-    "***CURRENT DIFFICULTY IS EXTREME***"
-    {
-        "chi"        "**当前难度 极限 **"
-    }
-    "***LOOK OUT!!! ITS A T-REX***"
-    {
-        "chi"        "**快看!它是T-REX **"
-    }
-    "***KILL IT!***"
-    {
-        "chi"        "**杀死他 **"
-    }
-    "***FOLLOW THE ELECTRIC PATH***"
-    {
-        "chi"        "**跟随电力轨道前进 **"
-    }
-    "***CLIMB THE ROCKS!***"
-    {
-        "chi"        "**爬上岩石 **"
-    }
-    "***GROUND DOORS WILL OPEN IN 15 SECONDS***"
-    {
-        "chi"        "**地面大门将在15秒后打开 **"
-    }
-    "***GROUND DOORS WILL OPEN IN 10 SECONDS***"
-    {
-        "chi"        "**地面大门将在10秒后打开 **"
-    }
-    "***GROUND DOORS WILL OPEN IN 5 SECONDS***"
-    {
-        "chi"        "**地面大门将在5秒后打开 **"
-    }
-    "***GROUND DOORS ARE OPEN***"
-    {
-        "chi"        "**地面大门已打开 **"
-    }
-    "***ITS FALLING DOWN!!!***"
-    {
-        "chi"        "**跳进去!!! **"
-    }
-    "***HOLD THE DOOR UNTIL IT OPENS!***"
-    {
-        "chi"        "**防御!直到大门打开 **"
-    }
-    "***YOU WON!!!!***"
-    {
-        "chi"        "**你赢了! **"
-    }
-    "***YOU WON!!!***"
-    {
-        "chi"        "**你赢了! **"
-    }
-    "***THANKS FOR PLAYING : )***"
-    {
-        "chi"        "** **"
-    }
-    "***MAP RESET***"
-    {
-        "chi"        "**地图重置 **"
-    }
-    "***ZOMBIE DETECTED***"
-    {
-        "chi"        "**已检测到僵尸 **"
-    }
-    "***MULDOONS SHOTGUN HAS BEEN FOUND***"
-    {
-        "chi"        "** **"
-    }
-    "The server is about to close the update ,Please update your game"
-    {
-        "chi"        "** **"
-    }
-    "**Stage 1**"
-    {
-        "chi"        "** **"
-    }
-    "**welcome to ze_fat_hours_escape**"
-    {
-        "chi"        "** **"
-    }
-    "**map by yinyuehzixi**"
-    {
-        "chi"        "** **"
-    }
-    "ESCAPE FROM ZOMBIELAND"
-    {
-        "chi"        "** **"
-    }
-    "+++  MAP MADE BY GARGANTUA +++"
-    {
-        "chi"        "** **"
-    }
-    ">> Map by Taskuvaras <<"
-    {
-        "chi"        "** **"
-    }
-    "++ ZE_ITALY_TOWN ++"
-    {
-        "chi"        "** **"
-    }
-    "**Thanks to Airvulpes for the textures**"
-    {
-        "chi"        "** **"
-    }
-    "***MAP BY - LUFFAREN***"
-    {
-        "chi"        "** **"
-    }
-    "***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Luffaren***"
-    {
-        "chi"        "** **"
-    }
-    "**ze tibia rookgaard **"
-    {
-        "chi"        "** **"
-    }
+	"***CURRENT DIFFICULTY IS NORMAL***"
+	{
+		"chi"		"**当前难度 正常 翻译BAKA_Miku **"
+	}
+	"***RESTORE THE POWER!***"
+	{
+		"chi"		"**重新启动能源![请不要贴门] **"
+	}
+	"***HOLD THIS POSITION!***"
+	{
+		"chi"		"**守住这个地方 **"
+	}
+	"***POWER RESTORING IN 15 SECONDS***"
+	{
+		"chi"		"**能源将在15秒后恢复 **"
+	}
+	"***POWER RESTORING IN 10 SECONDS***"
+	{
+		"chi"		"**能源将在10秒后恢复 **"
+	}
+	"***POWER RESTORING IN 5 SECONDS***"
+	{
+		"chi"		"**能源将在5秒后恢复 **"
+	}
+	"***TELEPORTING ALL TO GENERATOR CATWALK***"
+	{
+		"chi"		"**僵尸将会传送 **"
+	}
+	"***POWER HAS BEEN RESTORED***"
+	{
+		"chi"		"**能源恢复 **"
+	}
+	"***ZOMBIES HAVE BEEN TRAPPED...RUUN!***"
+	{
+		"chi"		"**僵尸被困住了 赶紧跑路吧 **"
+	}
+	"***ALL CLOSED DOORS WILL OPEN IN 60 SECONDS***"
+	{
+		"chi"		"**门将在60秒后打开 **"
+	}
+	"***ALL CLOSED DOORS WILL OPEN IN 30 SECONDS***"
+	{
+		"chi"		"**门将在30秒后打开 **"
+	}
+	"***ALL CLOSED DOORS WILL OPEN IN 15 SECONDS***"
+	{
+		"chi"		"**门将在15秒后打开 **"
+	}
+	"***MULDOON'S SHOTGUN HAS BEEN FOUND***"
+	{
+		"chi"		"**霰弹枪已被拾起 按'E'来击退僵尸 **"
+	}
+	"***GO TO THE CONTROL ROOM***"
+	{
+		"chi"		"**进入控制室 **"
+	}
+	"***SHOTGUN OUT OF AMMO***"
+	{
+		"chi"		"**霰弹枪没子弹了 **"
+	}
+	"***GET INTO THE TRUCK***"
+	{
+		"chi"		"**进入卡车 **"
+	}
+	"***GET OUT THE TRUCK AND GO TO THE HATCH***"
+	{
+		"chi"		"**离开卡车 进入通道 **"
+	}
+	"***LIFT IS COMING***"
+	{
+		"chi"		"**电梯正在上升 **"
+	}
+	"***HOLD THIS POSTION***"
+	{
+		"chi"		"**守住这个地方! **"
+	}
+	"***LIFT IS HERE!***"
+	{
+		"chi"		"**电梯已到达 **"
+	}
+	"***FALL BACK***"
+	{
+		"chi"		"**撤退!!! **"
+	}
+	"***DOOR WILL OPEN IN 20 SECONDS***"
+	{
+		"chi"		"**门将在20秒后打开 **"
+		"DoorCountDown"		"20"
+	}
+	"***DOOR WILL OPEN IN 10 SECONDS***"
+	{
+		"chi"		"**门将在10秒后打开 **"
+	}
+	"***FALL BACK!!!***"
+	{
+		"chi"		"**撤退! **"
+	}
+	"***CT WIN!***"
+	{
+		"chi"		"**人类胜利 **"
+	}
+	"***MOVING ON TO HARD MODE***"
+	{
+		"chi"		"**下一关难度等级 困难 **"
+	}
+	"***CURRENT DIFFICULTY IS HARD***"
+	{
+		"chi"		"**当前难度 困难 **"
+	}
+	"***USE GENERATOR TO ENABLE POWER TO BUTTON***"
+	{
+		"chi"		"**打开发电机的开关 **"
+	}
+	"***THE BUTTON WILL CLOSE THE GATES***"
+	{
+		"chi"		"**门将关闭 **"
+	}
+	"***GO GO PLANT THE C4***"
+	{
+		"chi"		"**去安放c4[对着集装箱按E] **"
+	}
+	"***ON THE DOOR TO THE CONTAINER***"
+	{
+		"chi"		"** **"
+	}
+	"***PRESS USE ON THE CONTAINER DOOR***"
+	{
+		"chi"		"**记得拿汽油桶!!!! **"
+	}
+	"***GAS CANS HAVE BEEN COLLECTED***"
+	{
+		"chi"		"**汽油桶已被拾起 **"
+	}
+	"***RUN BACK TO THE BOAT***"
+	{
+		"chi"		"**跑回快艇上 **"
+	}
+	"***BOAT REFUELING***"
+	{
+		"chi"		"**正在给快艇添加燃料 **"
+	}
+	"***MOVING ON TO EXTREME MODE***"
+	{
+		"chi"		"**下一关难度等级 极限 **"
+	}
+	"***CURRENT DIFFICULTY IS EXTREME***"
+	{
+		"chi"		"**当前难度 极限 **"
+	}
+	"***LOOK OUT!!! ITS A T-REX***"
+	{
+		"chi"		"**快看!它是T-REX **"
+	}
+	"***KILL IT!***"
+	{
+		"chi"		"**杀死他 **"
+	}
+	"***FOLLOW THE ELECTRIC PATH***"
+	{
+		"chi"		"**跟随电力轨道前进 **"
+	}
+	"***CLIMB THE ROCKS!***"
+	{
+		"chi"		"**爬上岩石 **"
+	}
+	"***GROUND DOORS WILL OPEN IN 15 SECONDS***"
+	{
+		"chi"		"**地面大门将在15秒后打开 **"
+	}
+	"***GROUND DOORS WILL OPEN IN 10 SECONDS***"
+	{
+		"chi"		"**地面大门将在10秒后打开 **"
+	}
+	"***GROUND DOORS WILL OPEN IN 5 SECONDS***"
+	{
+		"chi"		"**地面大门将在5秒后打开 **"
+	}
+	"***GROUND DOORS ARE OPEN***"
+	{
+		"chi"		"**地面大门已打开 **"
+	}
+	"***ITS FALLING DOWN!!!***"
+	{
+		"chi"		"**跳进去!!! **"
+	}
+	"***HOLD THE DOOR UNTIL IT OPENS!***"
+	{
+		"chi"		"**防御!直到大门打开 **"
+	}
+	"***YOU WON!!!!***"
+	{
+		"chi"		"**你赢了! **"
+	}
+	"***YOU WON!!!***"
+	{
+		"chi"		"**你赢了! **"
+	}
+	"***THANKS FOR PLAYING : )***"
+	{
+		"chi"		"** **"
+	}
+	"***MAP RESET***"
+	{
+		"chi"		"**地图重置 **"
+	}
+	"***ZOMBIE DETECTED***"
+	{
+		"chi"		"**已检测到僵尸 **"
+	}
+	"***MULDOONS SHOTGUN HAS BEEN FOUND***"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,0 +1,605 @@
+"Console_T"
+{
+	"**Map by Headshooter.SC & HaRyDe**"
+	{
+		"chi"		"**地图作者：Headshooter.SC & HaRyDe**"
+	}
+	"**Map ported by IntimateLover**"
+	{
+		"chi"		"**地图移植：IntimateLover**"
+	}
+	"**WARMUP ROUND**"
+	{
+		"chi"		"**热身回合**"
+	}
+	"**ZE_FFVII_COSMO_CANYON**"
+	{
+		"chi"		"**最终幻想7：宇宙大峡谷 **"
+		"DoorCountdown"		"-1"
+	}
+	"**Cover here for 5 seconds before we clear this obstacle**"
+	{
+		"chi"		"**守住5秒-我即将引爆炸药**"
+	}
+	"**NORMAL MODE**"
+	{
+		"chi"		"**普通模式**"
+	}
+	"[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!"
+	{
+		"chi"		"**[克劳德]糟了... 飞船的发动机坏了.我们现在被困在沙漠中了.怎么办**"
+	}
+	"[Red-XIII] Do not worry. I know this place.. I was born in here.."
+	{
+		"chi"		"**[赤红13]不要担心.我知道这个地方.我就是在这里出生的..**"
+		"DoorCountdown"		"-1"
+	}
+	"[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?"
+	{
+		"chi"		"**[克劳德]太好了.也就是说.我们可以在这里找到修理飞船的零件了是吗？**"
+	}
+	"[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave."
+	{
+		"chi"		"**[赤红13]没错.但我需要做些事情.我在基族洞穴等你**"
+		"DoorCountdown"		"-1"
+	}
+	"[Red-XIII] There I will give you all the stuff you need."
+	{
+		"chi"		"**[赤红13]我会在那里把你需要的东西带给你**"
+		"DoorCountdown"		"-1"
+	}
+	"[Cloud] No problem. I will wait for you in there.."
+	{
+		"chi"		"**[克劳德]没问题.我会在那里等你的..**"
+	}
+	"**We are almost at Cosmo Canyon**"
+	{
+		"chi"		"**我们即将抵达宇宙峡谷**"
+	}
+	"**Defend here for 25 seconds until the gates open**"
+	{
+		"chi"		"**我们需要在这里防守25秒**"
+		"DoorCountdown"		"25"
+	}
+	"**Gates are open. Welcome to Cosmo Canyon**"
+	{
+		"chi"		"**大门打开了-欢迎来到宇宙峡谷**"
+	}
+	"**The barman will open the door in 5 seconds**"
+	{
+		"chi"		"**酒馆大门5秒后打开**"
+		"DoorCountdown"		"5"
+	}
+	"**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**"
+	{
+		"chi"		"**在僵尸将我们变为他们的同类前防守25秒-我来为你们打开酒馆后门**"
+		"DoorCountdown"		"25"
+	}
+	"**5 seconds left**"
+	{
+		"chi"		"**还剩5秒**"
+		"DoorCountdown"		"5"
+	}
+	"**FALL BACK**"
+	{
+		"chi"		"**撤退**"
+	}
+	"**A player has picked up HEAL materia**"
+	{
+		"chi"		"**一位玩家找到了治疗元素**"
+	}
+	"**THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS**"
+	{
+		"chi"		"**岩石将在25秒后爆破**"
+		"DoorCountdown"		"25"
+	}
+	"**A player has picked up EARTH materia**"
+	{
+		"chi"		"**一位玩家找到了土元素**"
+	}
+	"**THE GATES WILL OPEN IN 25 SECONDS**"
+	{
+		"chi"		"**大门将在25秒后打开**"
+		"DoorCountdown"		"25"
+	}
+	"**A player has picked up FIRE materia**"
+	{
+		"chi"		"**一位玩家找到了火元素**"
+	}
+	"**The gates of gi cave will open in 15 seconds**"
+	{
+		"chi"		"**基族山洞大门15秒后打开**"
+		"DoorCountdown"		"15"
+	}
+	"**A player has picked up SLEEP materia**"
+	{
+		"chi"		"**一位玩家找到了睡元素**"
+	}
+	"**Wait until something happens**"
+	{
+		"chi"		"**等一下-好像有什么事情即将发送**"
+	}
+	"**A player has picked up BIO materia**"
+	{
+		"chi"		"**一位玩家找到了毒元素**"
+	}
+	"**The gi gate will open in 35 seconds**"
+	{
+		"chi"		"**基纳塔克竞技场将在35秒后打开**"
+		"DoorCountdown"		"35"
+	}
+	"[Cloud] Ay.. There you are!"
+	{
+		"chi"		"**[克劳德]这..这就是!**"
+	}
+	"[Red-XIII] Yes. They helped me a lot. Did you ask for that? This is for you.."
+	{
+		"chi"		"**[赤红13]是的.它帮了我很多忙.你还有什么要问的吗？这些东西给你.**"
+		"DoorCountdown"		"-1"
+	}
+	"[Cloud] Thanks. But one question.. What did we forget here?"
+	{
+		"chi"		"**谢谢.但有一个问题..我们为什么要来这里？**"
+	}
+	"[Red-XIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak.."
+	{
+		"chi"		"**[赤红13]这里是古老的基族洞穴..我的父亲以前在这里跟基纳塔克打过架..**"
+		"DoorCountdown"		"-1"
+	}
+	"[Red-XIII] And he sacrificed himself in order to save the Cosmo Canyon.."
+	{
+		"chi"		"**[赤红13]为了拯救宇宙峡谷他牺牲了自己**"
+		"DoorCountdown"		"-1"
+	}
+	"[Cloud] Oh what a pity.."
+	{
+		"chi"		"**[克劳德]哦.真可惜..**"
+	}
+	"[Red-XIII] Do not bring this close to your heart.. He died like a hero and I hope that you guys can defeat him.."
+	{
+		"chi"		"**[赤红13]不要把这个记到心里去.他像英雄一样死去.我希望你们能帮我打败基纳塔克**"
+		"DoorCountdown"		"-1"
+	}
+	"[Cloud] Yea I wish you good luck. When you end with him I go repair our airship.."
+	{
+		"chi"		"**[克劳德]好的.祝你好运.当你打败它后我们就回去修理我们的飞船**"
+	}
+	"**GRENADES DO A LOT OF DAMAGE. USE THEM!**"
+	{
+		"chi"		"**手雷能造成更多伤害.尽量多使用它**"
+	}
+	"**SOME OF YOUR ITEMS CAN DAMAGE THE BOSS**"
+	{
+		"chi"		"**部分神器能对BOSS造成伤害**"
+	}
+	"**Gi Nattak is using wind**"
+	{
+		"chi"		"**基纳塔克使用了风**"
+		"DoorCountdown"		"5"
+	}
+	"**Gi Nattak is using Fire Nova!!! Get out of middle**"
+	{
+		"chi"		"**基纳塔克使用了火焰新星-跑到平台边缘躲避**"
+	}
+	"**Gi Nattak is using aspil**"
+	{
+		"chi"		"**基纳塔克使用了摄魂-蹲下**"
+	}
+	"**Gi Nattak is spawning minions. Watch out for them**"
+	{
+		"chi"		"**基纳塔克召唤了水晶**"
+	}
+	"**Gi Nattack is escaped**"
+	{
+		"chi"		"**基纳塔克逃走了**"
+	}
+	"**Now you can get out of Cave of Gi**"
+	{
+		"chi"		"**现在我们可以离开基族洞穴了**"
+	}
+	"**DOOR OPENS IN 40 SECONDS**"
+	{
+		"chi"		"**大门40秒后开启**"
+		"DoorCountdown"		"40"
+	}
+	"**10 SECONDS LEFT**"
+	{
+		"chi"		"**还剩10秒**"
+		"DoorCountdown"		"10"
+	}
+	"**This is your last hold point**"
+	{
+		"chi"		"**这是最后一个守点了**"
+	}
+	"**Get on the rocks and hold 25 seconds**"
+	{
+		"chi"		"**跑到石头上防守25秒**"
+		"DoorCountdown"		"25"
+	}
+	"[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time.."
+	{
+		"chi"		"**[赤红13]恭喜!你做到了..但基纳塔克逃走了..我们一定要再次打败它**"
+		"DoorCountdown"		"-1"
+	}
+	"**NORMAL mode was beaten. Unlocking HARD mode **"
+	{
+		"chi"		"**普通难度通过-即将进入困难难度**"
+	}
+	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+	{
+		"chi"		"**你需要杀掉所有僵尸才能获得胜利 **"
+	}
+	"**HARD MODE**"
+	{
+		"chi"		"**困难难度**"
+	}
+	"**CHEST SIDEQUEST STARTED**"
+	{
+		"chi"		"**开始宝箱探索**"
+	}
+	"**FIND ALL THE GOLDEN CHESTS TO GET A SPECIAL  ITEM THAT WILL HELP YOU ON GI NATTAK**"
+	{
+		"chi"		"**找到所有的黄金宝箱以解锁一个特殊神器.他将帮助你打败基纳塔克**"
+	}
+	"**A player has picked up ELECTRO materia**"
+	{
+		"chi"		"**一位玩家找到了电元素**"
+	}
+	"**Zombie Confuse has been picked up**"
+	{
+		"chi"		"**僵尸迷惑已被拿起**"
+	}
+	"**A player has picked up GRAVITY materia**"
+	{
+		"chi"		"**一位玩家找到了黑洞元素**"
+	}
+	"**A player has picked up WIND materia**"
+	{
+		"chi"		"**一位玩家找到了风元素**"
+	}
+	"**A player has picked up ULTIMA materia**"
+	{
+		"chi"		"**一位玩家找到了终极元素**"
+	}
+	"[Red-XIII] Hope he will not escape this time� I afraid that we could attract extra attention.."
+	{
+		"chi"		"**[赤红13]希望它这次不要再逃了.我怕会引起更多注意**"
+		"DoorCountdown"		"-1"
+	}
+	"[Cloud] Just in case.. I will bring the ship to the end of the canyon and will take you away.."
+	{
+		"chi"		"**[克劳德]为了以防万一..我会把船开到峡谷尽头来接你..**"
+	}
+	"**Gi Nattak is using gravity**"
+	{
+		"chi"		"**基纳塔克使用了黑洞-按住S后退**"
+		"DoorCountdown"		"5"
+	}
+	"**Gi Nattak is using silence**"
+	{
+		"chi"		"**基纳塔克使用了沉默**"
+	}
+	"**Gi Nattak is using poison**"
+	{
+		"chi"		"**基纳塔克使用了剧毒-远离人群**"
+		"DoorCountdown"		"4"
+	}
+	"**Gi Nattak has healed 150 hp**"
+	{
+		"chi"		"**基纳塔克恢复了150HP**"
+	}
+	"[Cloud] Oh sh#t. Theres a stranger right near our airship. Be careful.."
+	{
+		"chi"		"**[克劳德]嘘!有陌生人在我们的飞艇附近..**"
+	}
+	"[Genesis] Due to you I found what I need.. Face your death here.."
+	{
+		"chi"		"**[杰内西斯]因为你我找到了我需要的..在这里迎接你的死亡吧..**"
+	}
+	"[Cloud] Hurry! Get on the airship! I can not stay for long here!"
+	{
+		"chi"		"**[克劳德]快上飞艇!我们不能在这里呆太长时间!**"
+	}
+	"**Hard mode is beaten. Challenge yourself in EXTREME mode ! **"
+	{
+		"chi"		"**困难难度通过-准备迎接极限难度**"
+	}
+	"**EXTREME MODE**"
+	{
+		"chi"		"**极限难度**"
+	}
+	"[Red-XIII] That guy could summon Bahamut.. Where did he take that power?"
+	{
+		"chi"		"**[赤红13]那个人从哪里得到召唤巴哈姆特的力量**"
+		"DoorCountdown"		"-1"
+	}
+	"[Red-XIII] Anyways we need to defeat Gi Nattak for once and for all.."
+	{
+		"chi"		"**[赤红13]无论如何我们必须打败基纳塔克..**"
+		"DoorCountdown"		"-1"
+	}
+	"**The rock will explode in 25 seconds**"
+	{
+		"chi"		"**岩石将在25秒后爆炸（哑弹，请进小屋）**"
+		"DoorCountdown"		"20"
+	}
+	"**The detonator seems to be broken**Go another way**"
+	{
+		"chi"		"**炸弹好像失效了-找一找有没有其他道路**"
+	}
+	"**...Are you surprised?...**"
+	{
+		"chi"		"**...你惊讶了没？...**"
+	}
+	"**...Didnt you expect me?...**"
+	{
+		"chi"		"**...你料到我的出现了没？...**"
+	}
+	"**...Oh okay im disappearing...**"
+	{
+		"chi"		"**...好吧.我这就消失...**"
+	}
+	"[Red-XIII] Cloud do you know that guy?"
+	{
+		"chi"		"**[赤红13]克劳德.你认识那个家伙吗？**"
+		"DoorCountdown"		"-1"
+	}
+	"[Cloud] This was 1st Class SOLDIER Genesis.. But what did he forget here?"
+	{
+		"chi"		"**[克劳德]他是神罗部队一号特种兵..但是我不知道他为什么会在这里？**"
+	}
+	"[Red-XIII] Possibly he needs the Gi Nattak soul.. Because it contains huge amount of power."
+	{
+		"chi"		"**[赤红13]可能他需要基纳塔克的灵魂..因为它蕴含着巨大的力量.**"
+		"DoorCountdown"		"-1"
+	}
+	"[Cloud] This is so bad.. Theres one of the Shinra bases nearby. I guess here we will find him."
+	{
+		"chi"		"**[克劳德]那可太糟糕了..我知道这附近有个神罗基地.我们可能会在那里找到他.**"
+	}
+	"**Gi Nattak is using shield**"
+	{
+		"chi"		"**基纳塔克使用了护盾**"
+	}
+	"**Gi Nattak is using fire**"
+	{
+		"chi"		"**基纳塔克使用了火焰**"
+	}
+	"**GI NATTAK USES LAVA SUPERATTACK**"
+	{
+		"chi"		"**基纳塔克使用了熔岩上升**"
+		"DoorCountdown"		"10"
+	}
+	"**Get on the rocks to get saved!!!**"
+	{
+		"chi"		"**快跑到突起的石头上！**"
+		"DoorCountdown"		"5"
+	}
+	"**GI NATTAK IS USING ULTIMA. KILL HIM FASTER!!**"
+	{
+		"chi"		"**基纳塔克使用了终极-快阻止它!**"
+	}
+	"[Genesis] Huh.. Did not think that you will survive.."
+	{
+		"chi"		"**[杰内西斯]没想到你竟然能活下来..**"
+	}
+	"[Genesis] Anyways Gi Nattak soul is mine now and I can realize my plan.. Farewell!"
+	{
+		"chi"		"**[杰内西斯]算了.反正基纳塔克的灵魂我已经拿到了..有缘再见!**"
+	}
+	"[Cloud] Sh#t! He ran away.. I guess Shinra will notice Bahamut above Cosmo Canyon and we will have more destructions then.."
+	{
+		"chi"		"**[克劳德]考!我想神罗基地应该已经注意到宇宙峡谷中出现的巴哈姆特了..我们可能会迎来更多的麻烦**"
+	}
+	"**Ifrit is defeated! Get on the airship**"
+	{
+		"chi"		"**伊芙利特死了!快上飞船**"
+	}
+	"** EXTREME mode is beaten. Get ready for your last challenge ...**"
+	{
+		"chi"		"**极限难度通过-即将迎来疯狂难度**"
+	}
+	"**RAGE MODE**"
+	{
+		"chi"		"**疯狂难度**"
+	}
+	"**Cover here for 10 seconds before we clear this obstacle**"
+	{
+		"chi"		"**守住10秒-我即将引爆炸药**"
+		"DoorCountdown"		"10"
+	}
+	"**The airship to Shinra will arrive in 30 seconds**"
+	{
+		"chi"		"**飞船将在30秒后到来**"
+		"DoorCountdown"		"30"
+	}
+	"[Cloud] Hold on! I will take you on the airship.. And then we will go to Shinra base."
+	{
+		"chi"		"**坚持住!我马上就带你们去神罗基地**"
+		"DoorCountdown"		"30"
+	}
+	"[Cloud] Red-XIII will stay here and will help to reestablish the Village."
+	{
+		"chi"		"**[克劳德]赤红13会留在这里帮助重建村庄**"
+		"DoorCountdown"		"-1"
+	}
+	"**The airship is right here...**"
+	{
+		"chi"		"**飞船来了...**"
+	}
+	"**The gates will open in 30 seconds**"
+	{
+		"chi"		"**神罗大门将在30秒后打开**"
+		"DoorCountdown"		"30"
+	}
+	"[Cloud] Guys be careful! If Genesis is really here then it might be Jenova.. Fighting them both will not be easy.."
+	{
+		"chi"		"**[克劳德]小心点!如果杰内西斯真的在这里.那么杰诺瓦可能也会在这里..对付他们两个并不会太容易..**"
+	}
+	"[Cloud] Especially if he got Gi Nattak soul.. Hard to imagine how mighty he will become.."
+	{
+		"chi"		"**[克劳德]特别是他还得到了基纳塔克的灵魂..难以想象他会变得多么强大..**"
+	}
+	"[Cloud] If you succeed with that then we explode the base with Jenova."
+	{
+		"chi"		"**[克劳德]如果你们成功打败杰内西斯.那我们就用杰诺瓦的尸体炸掉基地.**"
+	}
+	"**Wait 5 more seconds**"
+	{
+		"chi"		"**等待5秒**"
+		"DoorCountdown"		"5"
+	}
+	"**Shinra gates will open in 25 seconds**"
+	{
+		"chi"		"**神罗基地大门25秒后打开**"
+		"DoorCountdown"		"25"
+	}
+	"**The gates will open in 15 seconds**"
+	{
+		"chi"		"**大门15秒后打开**"
+		"DoorCountdown"		"15"
+	}
+	"**The elevator will leave in 15 seconds**"
+	{
+		"chi"		"**电梯15秒后离开**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"48208"
+	}
+	"**Jenova is defeated!**"
+	{
+		"chi"		"**杰诺瓦已失去战斗力**"
+	}
+	"**Shiva is defeated!**"
+	{
+		"chi"		"**希瓦已失去战斗力**"
+	}
+	"**Genesis is defeated. Get back in the elevator**"
+	{
+		"chi"		"**杰内西斯被打败了-现在返回电梯**"
+	}
+	"[Cloud] Really do not think that he could lose that easy.. Anyways the base will explode soon."
+	{
+		"chi"		"**[克劳德]真不敢相信他会那么容易被打败..算了.反正基地即将爆炸了.**"
+	}
+	"[Cloud] See you on the top evacuation point."
+	{
+		"chi"		"**[克劳德]我会在顶层的疏散点等你.**"
+	}
+	"**The power is lost. Defend until the emergency generators are on**"
+	{
+		"chi"		"**电力好像被切断了-在我们启动应急发电机前守住**"
+		"DoorCountdown"		"15"
+	}
+	"**We got the power. The gates will open in 15 seconds**"
+	{
+		"chi"		"**电力恢复了-大门15秒后打开**"
+		"DoorCountdown"		"15"
+	}
+	"** Nades do more damage. **"
+	{
+		"chi"		"**手雷能造成更多伤害**"
+	}
+	"**You have beaten Cosmo Canyon!! Congratulations !! **"
+	{
+		"chi"		"**你已经称霸宇宙峡谷!!恭喜你!!**"
+	}
+	"[Cloud] Nice job! I hope that we are done with them for once and for all. The next stop is Cosmo Canyon.."
+	{
+		"chi"		"**[克劳德]干的好!希望我们已经解决了这里的问题-下一站古代种神殿**"
+	}
+	"**ZM MODE**"
+	{
+		"chi"		"**僵尸感染**"
+	}
+	"**Map has been beaten. Find a place to defend yourself on and keep the zombies away from it**"
+	{
+		"chi"		"**地图通关-现在找个地方防守僵尸**"
+	}
+	"[Red-XIII] Cosmo Canyon is almost back to normal. The observatory still needs to be repaired."
+	{
+		"chi"		"**[赤红13]宇宙峡谷现在几乎恢复正常.但天文台还需要修理**"
+		"DoorCountdown"		"-1"
+	}
+	"[Cloud] These guys could defeat Genesis and Jenova. I think that is one problem solved for us."
+	{
+		"chi"		"**[克劳德]不敢相信这些人能够打败杰内西斯和杰诺瓦.我认为我们应该带上他们.**"
+	}
+	"[Red-XIII] I cannot find enough words to thank them for all... they did a really good job."
+	{
+		"chi"		"**[赤红13]我找不到足够的话来感谢他们...他们干的非常漂亮**"
+		"DoorCountdown"		"-1"
+	}
+	"[Red-XIII] I guess we can rest for a bit here and keep going then.. What do you think?"
+	{
+		"chi"		"**[赤红13]我们可以在这里休息一下..然后继续旅行..你看如何？**"
+		"DoorCountdown"		"-1"
+	}
+	"[Cloud] Sounds good.. we need to keep moving. We still have to stop Sephiroth.. So we still have a lot to do."
+	{
+		"chi"		"**[克劳德]听起来不错..我们需要继续前进.我们还要阻止萨菲罗斯..所以我们还有很多事情要做.**"
+	}
+	"[Cloud] So lets start from the Temple of the Ancients.."
+	{
+		"chi"		"**[克劳德]下一站-古代种神殿**"
+	}
+	"**2 MINUTES LEFT!**"
+	{
+		"chi"		"**还剩两分钟**"
+		"DoorCountdown"		"-1"
+	}
+	"**Zombie cactus has been picked up**"
+	{
+		"chi"		"**僵尸仙人掌已拿到**"
+	}
+	"**1 MINUTES LEFT!**"
+	{
+		"chi"		"**还剩1分钟**"
+		"DoorCountdown"		"-1"
+	}
+	"**30 SECONDS LEFT!**"
+	{
+		"chi"		"**还剩30秒**"
+	}
+	"**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**"
+	{
+		"chi"		"**admin已通过调关房更改地图级别**"
+	}
+	"**ADMIN PRESSED KILL ALL BUTTON**"
+	{
+		"chi"		"**admin按下了处死按钮**"
+	}
+	"**You are too slow**"
+	{
+		"chi"		"**你太慢了**"
+	}
+	"**15 seconds left!**"
+	{
+		"chi"		"**还剩15秒**"
+	}
+	"**Teleporting humans to the Observatory**"
+	{
+		"chi"		"**将所有人类传送到天文台**"
+	}
+	"**Defend here for 15 seconds before the platform leaves**"
+	{
+		"chi"		"**守住15秒-直到平台上升**"
+	}
+	"**The platform is leaving**"
+	{
+		"chi"		"**平台上升**"
+	}
+	"**WINNERS GONNA CHANGE NEXT STAGE**"
+	{
+		"chi"		"**胜利者已选择下一难度**"
+	}
+	"**Map Port by IntimateLover**"
+	{
+		"chi"		"**地图移植：IntimateLover**"
+	}
+	"**THE WINNERS HAD SELECTED THE MODE**"
+	{
+		"chi"		"**胜利者选择了下一关模式**"
+	}
+}

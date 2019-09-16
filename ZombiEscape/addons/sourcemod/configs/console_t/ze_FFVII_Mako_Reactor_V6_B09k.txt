@@ -1,0 +1,238 @@
+"Console_T"
+{
+	"<<< EASY >>>"
+	{
+		"chi"		"**关卡：简单（EASY）**"
+	}
+	"** EARTH Materia has been found. **"
+	{
+		"chi"		"**土神器已经被拾取**"
+	}
+	"** WIND Materia has been found. **"
+	{
+		"chi"		"**风神器已经被拾取**"
+	}
+	"** HEAL Materia has been found. **"
+	{
+		"chi"		"**治疗(奶)神器已经被拾取**"
+	}
+	"< CITY DOOR OPENS IN 30 SECONDS >"
+	{
+		"chi"		"**城市大门还有30秒打开**"
+		"DoorCountDown"		"-1"
+	}
+	"< CARGO LIFT STARTS IN 5 SECONDS >"
+	{
+		"chi"		"**中门电梯启动剩下5秒**"
+		"DoorCountDown"		"-1"
+	}
+	"< CITY DOOR OPENS IN 5 SECONDS >"
+	{
+		"chi"		"**城市大门还有5秒打开**"
+		"DoorCountDown"		"-1"
+	}
+	"** ICE Materia has been found. **"
+	{
+		"chi"		"**冰神器已经被拾取**"
+	}
+	"** ULTIMA Materia has been found. **"
+	{
+		"chi"		"**终极神器已经被拾取**"
+	}
+	"** Congratulations! You have beaten [EASY] **"
+	{
+		"chi"		"**恭喜你通过了【简单】难度**"
+	}
+	"<<< NORMAL >>>"
+	{
+		"chi"		"**关卡：普通（NORMAL）**"
+	}
+	"** BIO Materia has been found. **"
+	{
+		"chi"		"**毒神器已经被拾取**"
+	}
+	"** MIMIC Materia has been found. **"
+	{
+		"chi"		"**复制神器已经被拾取，复制上一个玩家使用过的神器**"
+	}
+	"** Congratulations! You have beaten [NORMAL] **"
+	{
+		"chi"		"**恭喜你通过了【普通】难度**"
+	}
+	"<<< HARD >>>"
+	{
+		"chi"		"**关卡：困难（HARD）**"
+	}
+	"** ELECTRO Materia has been found. **"
+	{
+		"chi"		"**电神器已经被拾取**"
+	}
+	"** BARRIER Materia has been found. **"
+	{
+		"chi"		"**护盾神器已经被拾取**"
+	}
+	"< I understand that youve been looking for me. >"
+	{
+		"chi"		"**<我知道你在注视着我>**"
+	}
+	"< Only the chosen may survive! >"
+	{
+		"chi"		"**<只有被我选中的人，才能幸存>**"
+	}
+	"< Say goodbye! >"
+	{
+		"chi"		"**<再见！>萨菲罗斯想要消灭我们，不想死的全力输出萨菲罗斯**"
+	}
+	"< Slow! >"
+	{
+		"chi"		"**<太慢了！>你没有打败萨菲罗斯，关卡失败**"
+	}
+	"** AQUA Materia has been found. **"
+	{
+		"chi"		"**水神器已经被拾取**"
+	}
+	"** Round failed! Zombies have reached the objective! **"
+	{
+		"chi"		"**关卡失败，僵尸触发了开关**"
+	}
+	"** FIRE Materia has been found. **"
+	{
+		"chi"		"**火神器已经被拾取**"
+	}
+	"** GRAVITY Materia has been found. **"
+	{
+		"chi"		"**黑洞神器已经被拾取**"
+	}
+	"< Too late for laments! >"
+	{
+		"chi"		"<现在后悔已经太迟了！>准备迎接最后的挑战吧，消灭萨菲罗斯并躲避跳刀！"
+	}
+	"< Solitude isn't heroism. >"
+	{
+		"chi"		"<孤独不是英雄所愿>>solo是不存在的！"
+	}
+	"< Ill see you again. >"
+	{
+		"chi"		"<我们有缘再见>"
+	}
+	"< Seems I do not have to hold back. >"
+	{
+		"chi"		"<似乎我不需要退缩>"
+	}
+	"< Hmm... Pitiful fool. >"
+	{
+		"chi"		"<哼！可怜的傻瓜>"
+	}
+	"< Hmm... I was expecting more... >"
+	{
+		"chi"		"<我期待更多...>"
+	}
+	"< Impressive! >"
+	{
+		"chi"		"<真是令人惊叹！>你成功击败了萨菲罗斯"
+	}
+	"< Fly! >"
+	{
+		"chi"		"<起飞吧！>站栏杆的都给我死！"
+	}
+	"< Dodge this! >"
+	{
+		"chi"		"<快闪开！>萨菲罗斯即将放出一剑气，请提前躲刀"
+	}
+	"< Ugh... Defeated... >"
+	{
+		"chi"		"<呃....我们失败了...>"
+	}
+	"< Ive been... Defeated? >"
+	{
+		"chi"		"<难道我...失败了？>你已经击败了萨菲罗斯，赶紧进入安全屋"
+	}
+	"< Any last words? >"
+	{
+		"chi"		"<还有什么要说的吗？>"
+	}
+	"** Congratulations! You have beaten the Stage! **"
+	{
+		"chi"		"**恭喜你!你通关了全关**"
+	}
+	"** Next difficulty was chosen by an Administrator! **"
+	{
+		"chi"		"**下一关已被管理员选择**"
+	}
+	"** ADMIN PRESSED KILL ALL BUTTON **"
+	{
+		"chi"		"**全图核爆按钮已按**"
+	}
+	"** PREPARE TO DIE **"
+	{
+		"chi"		"**面对死亡吧**"
+	}
+	"** An administrator has set [ZM] for next round! **"
+	{
+		"chi"		"**关卡选择【僵尸感染（ZM）】**"
+	}
+	"** An administrator has set [INSANE] for next round! **"
+	{
+		"chi"		"**关卡选择【疯狂（INSANE / EX2）】**"
+	}
+	"** An administrator has set [EXTREME] for next round! **"
+	{
+		"chi"		"**关卡选择【极限（EXTREME / EX1）】**"
+	}
+	"** An administrator has set [HARD] for next round! **"
+	{
+		"chi"		"**关卡选择【困难（HARD）】**"
+	}
+	"** An administrator has set [NORMAL] for next round! **"
+	{
+		"chi"		"**关卡选择【普通（NORMAL）】**"
+	}
+	"** An administrator has set [EASY] for next round! **"
+	{
+		"chi"		"**关卡选择【简单（EASY）】**"
+	}
+	"** Congratulations! You have beaten [HARD] **"
+	{
+		"chi"		"**恭喜你通关了【困难（HARD）】难度**"
+	}
+	"** Congratulations! You have beaten [EXTREME] **"
+	{
+		"chi"		"**恭喜你通关了【极限（EXTREME / EX1）】难度**"
+	}
+	"** Congratulations! You have beaten [INSANE] **"
+	{
+		"chi"		"**恭喜你通关了【疯狂（INSANE / EX2）】难度**"
+	}
+	"** Congratulations! You have beaten [ZM] **"
+	{
+		"chi"		"**恭喜你通关了【僵尸感染（ZM）】难度**"
+	}
+	"<<< EXTREME >>>"
+	{
+		"chi"		"**关卡：极限（EXTREME / EX1）**"
+	}
+	"<<< INSANE >>>"
+	{
+		"chi"		"**关卡：疯狂（INSANE / EX2）**"
+	}
+	"< ZOMBIE MODE >"
+	{
+		"chi"		"**关卡：僵尸感染（ZM）**"
+	}
+	"< TRY TO SURVIVE IN THE CITY AREA >"
+	{
+		"chi"		"<尝试生存到时间结束>找个没人知道的地方躲起来吧，solo在等着你呢！"
+	}
+	"** Zombies detected! You lose! **"
+	{
+		"chi"		"**检测到僵尸！你失败了！！！ **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"94917"
+	}
+	"< CITY DOOR OPENS IN 40 SECONDS >"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,0 +1,224 @@
+"Console_T"
+{
+	">> 9 MINUTES TO ESCAPE <<"
+	{
+		"chi"		">>>你有9分钟的时间去逃离这个堡垒<<<"
+	}
+	">> DOOR OPENING IN 10 SECONDS <<"
+	{
+		"chi"		">>>地下大门将在10S后打开<<<"
+	}
+	">> BUNKER DOORS OPENING IN 15 SECONDS <<"
+	{
+		"chi"		">>>堡垒大门将在15S后打开<<<"
+	}
+	">> BUNKER DOORS CLOSING IN 5 SECONDS <<"
+	{
+		"chi"		">>>堡垒大门将在5S后关闭<<<"
+	}
+	">> DOORS WILL OPEN AGAIN IN 10 SECONDS <<"
+	{
+		"chi"		">>>大门将在10S后再次开启<<<"
+	}
+	">> BUNKER PATH: BARRICADE AND RESIST 40 SECONDS <<"
+	{
+		"chi"		">>>堡垒路线:路障将在40S后爆炸，回头守住！！！<<<"
+	}
+	">> FOREST PATH: RESIST 20 SECONDS"
+	{
+		"chi"		">>>森林路线:墙壁将在20S后破坏，回头守住！！<<<"
+	}
+	">> BUNKER PATH: 20 SECONDS LEFT <<"
+	{
+		"chi"		">>>堡垒路线:还剩下20S！！<<<"
+	}
+	">> FOREST PATH: 5 SECONDS <<"
+	{
+		"chi"		">>>森林路线:还剩下5S！！<<<"
+	}
+	">> FOREST PATH: RETREAT! <<"
+	{
+		"chi"		">>>森林路线:撤退！！！！！<<<"
+	}
+	">> BUNKER PATH: 5 SECONDS <<"
+	{
+		"chi"		">>>堡垒路线:还剩下5S！！！<<<"
+	}
+	">> BUNKER PATH: FALL BACK! <<"
+	{
+		"chi"		">>>堡垒路线:撤退！！！！<<<"
+	}
+	">> ZOMBIE REPELENT PICKED UP (ONE USE) <<"
+	{
+		"chi"		"** **"
+	}
+	">> FREEZERAY PICKED UP <<"
+	{
+		"chi"		">>>冰冻神器已被玩家拾起。注意：冷却时间100S左右。<<<"
+		"DoorCountdown"		"-1"
+	}
+	">> FOREST PATH: RESIST 25 SECONDS <<"
+	{
+		"chi"		">>>森林路线:守住25S！！！<<<"
+	}
+	">> BUNKER PATH: HOLD THE CAVE FOR 20 SECONDS <<"
+	{
+		"chi"		">>>堡垒路线:守住这个洞穴20S！！！<<<"
+	}
+	">> BUNKER PATH: 5 SECONDS! <<"
+	{
+		"chi"		">>>堡垒路线:只剩下5S了！！！<<<"
+	}
+	">> FOREST PATH: 5 SECONDS LEFT <<"
+	{
+		"chi"		">>>森林路线:只剩下5S了！！！<<<"
+	}
+	">> BUNKER PATH: RETREAT! <<"
+	{
+		"chi"		">>>堡垒路线:撤退！！！！！<<<"
+	}
+	">> FOREST PATH: FALL BACK! <<"
+	{
+		"chi"		">>>森林路线:撤退！！！！！<<<"
+	}
+	">>MAIN DOOR OPENING IN 15 SECONDS <<"
+	{
+		"chi"		">>>中心大门将在15S后开启<<<"
+	}
+	">> MAIN DOOR CLOSING IN 3 SECONDS <<"
+	{
+		"chi"		">>>中心大门将在3S后关闭！快进去回头守住！！<<<"
+	}
+	">> MAIN DOOR WILL OPEN AGAIN IN 5 SECONDS <<"
+	{
+		"chi"		">>>中心大门将在5S后再次开启！！<<<"
+	}
+	">> DOOR OPENING IN 5 SECONDS <<"
+	{
+		"chi"		">>>门将在5S后开启<<<"
+	}
+	">> DOOR CLOSING IN 3 SECONDS <<"
+	{
+		"chi"		">>>门将在3S后关闭<<<"
+	}
+	">> DOOR OPENING AGAIN IN 5 SECONDS <<"
+	{
+		"chi"		">>>门将在5S后再次开启<<<"
+	}
+	">> HOLD THE RIVER FOR 25 SECONDS <<"
+	{
+		"chi"		">>>守住这条河流25S！！<<<"
+	}
+	">> 10 SECONDS <<"
+	{
+		"chi"		">>>还有10S！！！！<<<"
+	}
+	">> 5 seconds <<"
+	{
+		"chi"		">>>还有5S！！！！！<<<"
+	}
+	">> RETREAT TO A SAFER SPOT! <<"
+	{
+		"chi"		">>>撤退！！去寻找一个安全的地方！！<<<"
+	}
+	">> FIND A WAY ON TO THE ROOF <<"
+	{
+		"chi"		">>>寻找一条路去房顶！否者你将被随后到来的僵尸撕成碎片！！<<<"
+	}
+	">> CALLING FOR HELP <<"
+	{
+		"chi"		">>>我们需要呼叫救援！！守住！！！<<<"
+	}
+	">> HOLD THE ROOF UNTIL HELP ARRIVES <<"
+	{
+		"chi"		">>>守住这个房顶直到有人来救我们！！！<<<"
+	}
+	">> CHOPPER IS ON THE WAY! <<"
+	{
+		"chi"		">>>直升机在路上了！！加油！！<<<"
+	}
+	">> READ THE CHAT MESSAGES!!!! <<"
+	{
+		"chi"		">>>注意看聊天信息！！！<<<"
+	}
+	">> ZOMBIES WILL BE TELEPORTED IN 10 SECONDS <<"
+	{
+		"chi"		">>>僵尸还有10S传送！！加油！！<<<"
+	}
+	">> CHOPPER IS READY TO PICK YOU UP FROM THE OLD SHED <<"
+	{
+		"chi"		">>>直升机将会在那个破旧的棚子那边等你！！！<<<"
+	}
+	">> WAIT FOR ZOMBIES TO BE TELEPORTED <<"
+	{
+		"chi"		">>>继续防守！！直到僵尸传送！！！<<<"
+	}
+	">> 3 <<"
+	{
+		"chi"		"** **"
+	}
+	">> 2 <<"
+	{
+		"chi"		"** **"
+	}
+	">> 1 <<"
+	{
+		"chi"		"** **"
+	}
+	">> ZOMBIES HAVE BEEN TELEPORTED. RUN!! FOLLOW THE LIGHTS <<"
+	{
+		"chi"		">>>僵尸呗传送了！！跟随着亮光跑！！！<<<"
+	}
+	">> DONT FALL BEHIND! <<"
+	{
+		"chi"		">>>别落后了！！！否者你将会被僵尸撕成碎片！！！！<<<"
+	}
+	">> 1 MINUTE TO ESCAPE <<"
+	{
+		"chi"		">>>你还剩下1分钟！！！<<<"
+	}
+	">> CHOPPER LEAVING IN 30 SECONDS <<"
+	{
+		"chi"		">>>直升机还有30S就走了！他不能等我们太久！！！！<<<"
+	}
+	">> MASS ZOMBIE TELEPORT IN 10 SECONDS <<"
+	{
+		"chi"		">>>僵尸将在10S后传送<<<"
+	}
+	">> THE CHOPPER MUST TAKE OFF IN THE NEXT 30 SECONDS TO AVOID ROUND LOSS <<"
+	{
+		"chi"		">>>直升机只剩下30S的时间了！！快跑！！！！<<<"
+	}
+	">> CHOPPER DOORS OPENING <<"
+	{
+		"chi"		">>>直升机的舱门打开了！！！<<<"
+	}
+	">> CHOPPER LEAVING IN 5 SECONDS <<"
+	{
+		"chi"		">>>直升机将在5S后离开！！后面的快跑！！！<<<"
+	}
+	">> CHOPPER HAS LEFT <<"
+	{
+		"chi"		">>>直升机走了。。落下的人类都将成为僵尸的陪葬品<<<"
+	}
+	">> 10 SECONDS TO ESCAPE <<"
+	{
+		"chi"		">>>逃脱时间还剩下10S！！！<<<"
+	}
+	">> ROUND OVER <<"
+	{
+		"chi"		"** **"
+	}
+	"***Map ported by Et3rnity***"
+	{
+		"chi"		"** **"
+	}
+	">> HEALTHPACK PICKED UP (ONE USE) <<"
+	{
+		"chi"		">>>医疗包已被找到！但是只能使用一次<<<"
+	}
+	">> DEATHRAY PICKED UP (ONE USE) <<"
+	{
+		"chi"		">>>死亡射线发射器已被找到！！（只能用一次）<<<"
+	}
+}

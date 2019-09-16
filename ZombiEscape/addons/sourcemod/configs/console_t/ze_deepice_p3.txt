@@ -1,111 +1,94 @@
 "Console_T"
 {
-    "*** Co-Mapper: starbucks ***"
-    {
-        "chi"        "**移植作者 starbucks 翻译BAKA_Miku  **"
-    }
-    "*** STEAMGAMERS.COM ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Mapper: yardy ***"
-    {
-        "chi"        "**作者 yardy **"
-    }
-    "*** Lift 2 is leaving soon ***"
-    {
-        "chi"        "**2号电梯将要启动 **"
-    }
-    "*** Door is being fixed defend yourself ***"
-    {
-        "chi"        "**防御!这扇门会很快被修好 **"
-    }
-    "*** ALIEN shield has been activated ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Alienshield disabled ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Train is leaving soon ***"
-    {
-        "chi"        "**火车将要启动 **"
-    }
-    "*** Defend the area until train leaves ***"
-    {
-        "chi"        "**防守这里直到火车启动 **"
-    }
-    "*** Train departing ***"
-    {
-        "chi"        "**火车启动 **"
-    }
-    "*** Oh my god jump off the train before it squeezes you ***"
-    {
-        "chi"        "**快跳车!别让火车压死你![路线是大坝方向] **"
-    }
-    "*** Gate opens soon defend yourself ***"
-    {
-        "chi"        "**防御!大门会很快打开 **"
-    }
-    "*** Hold back the ALIENS while calling the chopper ***"
-    {
-        "chi"        "**防守这里直到直升机到达 **"
-    }
-    "*** Second gate stuck ***"
-    {
-        "chi"        "**第二扇门卡住了 **"
-    }
-    "*** Defend yourself until we get it open ***"
-    {
-        "chi"        "**防御!直到大门打开 **"
-    }
-    "*** Sea Hawk arrival soon ***"
-    {
-        "chi"        "**直升机将很快到达 **"
-    }
-    "*** Alien Reactor Overload 50% ***"
-    {
-        "chi"        "**外星人反应堆负载50% **"
-    }
-    "*** Sea Hawk arrival immediately ***"
-    {
-        "chi"        "**直升机马上到达 **"
-    }
-    "*** Alien Reactor Overload 100% ***"
-    {
-        "chi"        "**外星人反应堆负载100% **"
-    }
-    "*** TO BE CONTINUED ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Lift 1 is leaving soon ***"
-    {
-        "chi"        "**1号电梯将要启动 **"
-    }
-    "The server is about to close the update ,Please update your game"
-    {
-        "chi"        "** **"
-    }
-    "***Map by RelaxingWalls***"
-    {
-        "chi"        "** **"
-    }
-    "***Map made for SteamGamers Mapping Competition***"
-    {
-        "chi"        "** **"
-    }
-    ">> ZE_ERROR <<"
-    {
-        "chi"        "** **"
-    }
-    ">> IDEA: Sienestaja <<"
-    {
-        "chi"        "** **"
-    }
-    ">> Map by Taskuvaras <<"
-    {
-        "chi"        "** **"
-    }
+	"*** Co-Mapper: starbucks ***"
+	{
+		"chi"		"**移植作者 starbucks 翻译BAKA_Miku  **"
+	}
+	"*** STEAMGAMERS.COM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapper: yardy ***"
+	{
+		"chi"		"**作者 yardy **"
+	}
+	"*** Lift 2 is leaving soon ***"
+	{
+		"chi"		"**2号电梯将要启动 **"
+	}
+	"*** Door is being fixed defend yourself ***"
+	{
+		"chi"		"**防御!这扇门会很快被修好 **"
+	}
+	"*** ALIEN shield has been activated ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Alienshield disabled ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Train is leaving soon ***"
+	{
+		"chi"		"**火车将要启动 **"
+	}
+	"*** Defend the area until train leaves ***"
+	{
+		"chi"		"**防守这里直到火车启动 **"
+	}
+	"*** Train departing ***"
+	{
+		"chi"		"**火车启动 **"
+	}
+	"*** Oh my god jump off the train before it squeezes you ***"
+	{
+		"chi"		"**快跳车!别让火车压死你![路线是大坝方向] **"
+	}
+	"*** Gate opens soon defend yourself ***"
+	{
+		"chi"		"**防御!大门会很快打开 **"
+	}
+	"*** Hold back the ALIENS while calling the chopper ***"
+	{
+		"chi"		"**防守这里直到直升机到达 **"
+	}
+	"*** Second gate stuck ***"
+	{
+		"chi"		"**第二扇门卡住了 **"
+	}
+	"*** Defend yourself until we get it open ***"
+	{
+		"chi"		"**防御!直到大门打开 **"
+	}
+	"*** Sea Hawk arrival soon ***"
+	{
+		"chi"		"**直升机将很快到达 **"
+		"DoorCountdown"		"98"
+	}
+	"*** Alien Reactor Overload 50% ***"
+	{
+		"chi"		"**外星人反应堆负载50% **"
+		"DoorCountdown"		"-1"
+	}
+	"*** Sea Hawk arrival immediately ***"
+	{
+		"chi"		"**直升机马上到达 **"
+	}
+	"*** Alien Reactor Overload 100% ***"
+	{
+		"chi"		"**外星人反应堆负载100% **"
+		"DoorCountdown"		"-1"
+	}
+	"*** To Be Continued ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Lift 1 is leaving soon ***"
+	{
+		"chi"		"**1号电梯将要启动 **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
 }

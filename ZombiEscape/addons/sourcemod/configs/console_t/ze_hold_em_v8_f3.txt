@@ -1,98 +1,74 @@
 "Console_T"
 {
-    "*** DOOR #1 OPENING IN 30 SECONDS ***"
-    {
-        "chi"        "*** #1号门将于30秒后打开 ***"
-        "DoorCountDown"        "30"
-    }
-    "*** DOOR #2 OPENING IN 50 SECONDS ***"
-    {
-        "chi"        "*** #2号门将于50秒后打开 ***"
-        "DoorCountDown"        "50"
-    }
-    "*** DOOR #3 OPENING IN 50 SECONDS ***"
-    {
-        "chi"        "*** #3号门将于50秒后打开 ***"
-        "DoorCountDown"        "50"
-    }
-    "*** DOOR #4 OPENING IN 50 SECONDS ***"
-    {
-        "chi"        "*** #4号门将于50秒后打开 ***"
-        "DoorCountDown"        "50"
-    }
-    "*** DOOR #5 OPENING IN 50 SECONDS ***"
-    {
-        "chi"        "*** #5号门将于50秒后打开 ***"
-        "DoorCountDown"        "50"
-    }
-    "*** DOOR #6 OPENING IN 50 SECONDS ***"
-    {
-        "chi"        "*** #6号门将于50秒后打开 ***"
-        "DoorCountDown"        "50"
-    }
-    "*** THIS IS THE FINAL BATTLE. HOLD OFF THE ZOMBIES FOR 50 SECONDS. ***"
-    {
-        "chi"        "** 这是最后一个守点了，再守50秒**"
-        "DoorCountDown"        "50"
-    }
-    "*** THE GHOST DEMON IS APPROACHING , TAKE HIM DOWN BEFORE HE GETS TOO CLOSE ***"
-    {
-        "chi"        "**鬼脸冲过来了，在他冲过来之前射他脸！**"
-    }
-    "*** HUMANS COULD NOT DEFEAT THE GHOST DEMON. VICTORY BELONGS TO THE ZOMBIES ***"
-    {
-        "chi"        "**人类被鬼脸艹翻了，僵尸获胜~**"
-    }
-    "*** THE HUMANS HAVE DEFEATED THE GHOST DEMON. THEY ARE VICTORIOUS. ***"
-    {
-        "chi"        "**鬼脸被艹翻了！30积分get√（拿了分赶紧去充QQ会员）**"
-    }
-    "*** NY MARATHON: GET READY TO RUN! ***"
-    {
-        "chi"        "** **"
-    }
-    ">> 9 MINUTES TO ESCAPE <<"
-    {
-        "chi"        "** **"
-    }
-    "IDEA: Sienest?j?"
-    {
-        "chi"        "** **"
-    }
-    ">>LEVEL: NORMAL<<"
-    {
-        "chi"        "** **"
-    }
-    "MAP BY: TaskuVaras"
-    {
-        "chi"        "** **"
-    }
-    "+++  MAP MADE BY GARGANTUA +++"
-    {
-        "chi"        "** **"
-    }
-    "**map by koyomaple**"
-    {
-        "chi"        "** **"
-    }
-    "***Modified by Reflelia***"
-    {
-        "chi"        "** **"
-    }
-    "***60 SECONDS LEFT***"
-    {
-        "chi"        "** **"
-    }
-    "***WARM UP ROUIND***"
-    {
-        "chi"        "** **"
-    }
-    "**stage1**"
-    {
-        "chi"        "** **"
-    }
-    "**map by:一条会翻身的鱼**"
-    {
-        "chi"        "** **"
-    }
+	"*** DOOR #1 OPENING IN 30 SECONDS ***"
+	{
+		"chi"		"*** #1号门将于30秒后打开 ***"
+		"DoorCountdown"		"30"
+	}
+	"*** DOOR #2 OPENING IN 50 SECONDS ***"
+	{
+		"chi"		"*** #2号门将于50秒后打开 ***"
+		"DoorCountdown"		"50"
+	}
+	"*** DOOR #3 OPENING IN 50 SECONDS ***"
+	{
+		"chi"		"*** #3号门将于50秒后打开 ***"
+		"DoorCountdown"		"50"
+	}
+	"*** DOOR #4 OPENING IN 50 SECONDS ***"
+	{
+		"chi"		"*** #4号门将于50秒后打开 ***"
+		"DoorCountdown"		"50"
+	}
+	"*** DOOR #5 OPENING IN 50 SECONDS ***"
+	{
+		"chi"		"*** #5号门将于50秒后打开 ***"
+		"DoorCountdown"		"50"
+	}
+	"*** DOOR #6 OPENING IN 50 SECONDS ***"
+	{
+		"chi"		"*** #6号门将于50秒后打开 ***"
+		"DoorCountdown"		"50"
+	}
+	"*** THIS IS THE FINAL BATTLE. HOLD OFF THE ZOMBIES FOR 50 SECONDS. ***"
+	{
+		"chi"		"** 这是最后一个守点了，再守50秒**"
+		"DoorCountdown"		"50"
+	}
+	"*** THE GHOST DEMON IS APPROACHING , TAKE HIM DOWN BEFORE HE GETS TOO CLOSE ***"
+	{
+		"chi"		"**鬼脸冲过来了，在他冲过来之前射他脸！**"
+	}
+	"*** HUMANS COULD NOT DEFEAT THE GHOST DEMON. VICTORY BELONGS TO THE ZOMBIES ***"
+	{
+		"chi"		"**人类被鬼脸艹翻了，僵尸获胜~**"
+	}
+	"*** THE HUMANS HAVE DEFEATED THE GHOST DEMON. THEY ARE VICTORIOUS. ***"
+	{
+		"chi"		"**鬼脸被艹翻了！30积分get√（拿了分赶紧去充QQ会员）**"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"chi"		"** **"
+	}
+	">> 9 MINUTES TO ESCAPE <<"
+	{
+		"chi"		"** **"
+	}
+	"IDEA: Sienest?j?"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL: NORMAL<<"
+	{
+		"chi"		"** **"
+	}
+	"MAP BY: TaskuVaras"
+	{
+		"chi"		"** **"
+	}
+	"+++  MAP MADE BY GARGANTUA +++"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,0 +1,23 @@
+"Console_T"
+{
+	"*** 35 seconds to activate Nymian device ***"
+	{
+		"DoorCountdown"		"35"
+	}
+	"***A player picked up Paladin Shield Oath"
+	{
+		"DoorCountdown"		"-1"
+	}
+	"*** Heavens Fall ***"
+	{
+		"DoorCountdown"		"4"
+	}
+	"*** Cauterize***"
+	{
+		"DoorCountdown"		"5"
+	}
+	"*** Flare ***"
+	{
+		"DoorCountdown"		"5"
+	}
+}

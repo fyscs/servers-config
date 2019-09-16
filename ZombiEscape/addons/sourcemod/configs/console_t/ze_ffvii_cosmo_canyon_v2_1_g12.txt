@@ -1,0 +1,352 @@
+"Console_T"
+{
+	"**Map by Headshooter.SC & HaRyDe**"
+	{
+		"chi"		"**地图作者：Headshooter.SC & HaRyDe 地图翻译:IntimateLover **"
+	}
+	"**WARMUP ROUND**"
+	{
+		"chi"		"**热身回合 **"
+	}
+	"**Thanks to Weed-Lancer for tons of grammar errors fix**"
+	{
+		"chi"		"**感谢Weed-Lancer修复语法错误 **"
+	}
+	"**ZE_FFVII_COSMO_CANYON**"
+	{
+		"chi"		"**最终幻想7：宇宙峡谷 **"
+	}
+	"**NORMAL MODE**"
+	{
+		"chi"		"**普通难度 **"
+	}
+	"**Cover here for 5 seconds before we clear this obstacle**"
+	{
+		"chi"		"**守住这里-我将在5秒后清理障碍 **"
+	}
+	"**A player has picked up HEAL materia**"
+	{
+		"chi"		"**一位玩家拿起了治疗元素 **"
+	}
+	"**We are near Cosmo Canyon**"
+	{
+		"chi"		"**我们即将抵达宇宙峡谷 **"
+	}
+	"**The gates will open in 20 seconds**"
+	{
+		"chi"		"**在这里守住20秒 **"
+	}
+	"**A player has picked up BIO materia**"
+	{
+		"chi"		"**一位玩家拿起了毒元素 **"
+	}
+	"**Welcome to Cosmo Canyon**"
+	{
+		"chi"		"**欢迎来到宇宙峡谷 **"
+	}
+	"**A player has picked up WIND materia**"
+	{
+		"chi"		"**一位玩家拿起了风元素 **"
+	}
+	"**The barman will open the door in 5 seconds**"
+	{
+		"chi"		"**酒馆大门将在5秒后打开 **"
+	}
+	"**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**"
+	{
+		"chi"		"**在僵尸将我们变成他们的同类前守住25秒 **"
+	}
+	"**A player has picked up GRAVITY materia**"
+	{
+		"chi"		"**一位玩家拿起了黑洞元素 **"
+	}
+	"**5 SECONDS LEFT**"
+	{
+		"chi"		"**还剩5秒 **"
+	}
+	"**FALL BACK**"
+	{
+		"chi"		"**撤退 **"
+	}
+	"**The rock will explode in 25 seconds**"
+	{
+		"chi"		"**岩石将在25秒后爆炸 **"
+	}
+	"**The gates will open in 25 seconds**"
+	{
+		"chi"		"**大门将于25秒后打开 **"
+	}
+	"**The Cave of the GI gates will open in 15 seconds**"
+	{
+		"chi"		"**基族大门将在15秒后打开 **"
+	}
+	"**Wait until something happens**"
+	{
+		"chi"		"**等一下-好像有什么事情要发生 **"
+	}
+	"**GI Nattak arena will open in 35 seconds**"
+	{
+		"chi"		"**基纳塔克竞技场将于35秒后开放 **"
+	}
+	"**Nades do more damage. Use them!**"
+	{
+		"chi"		"**手雷能造成巨大伤害-使用它 **"
+	}
+	"**Some of the items can affect him. Use them!**"
+	{
+		"chi"		"**部分神器能对BOSS造成伤害-使用它 **"
+	}
+	"**Gi Nattak is using wind**"
+	{
+		"chi"		"**基纳塔克使用了风 **"
+	}
+	"**Gi Nattak is using gravity**"
+	{
+		"chi"		"**基纳塔克使用了黑洞 **"
+	}
+	"**Gi Nattak is spawning minions. Watch out for them**"
+	{
+		"chi"		"**基纳塔克召唤了守卫-小心它们 **"
+	}
+	"**Gi Nattck is using silence**"
+	{
+		"chi"		"**基纳塔克使用了沉默 **"
+	}
+	"**Gi Nattak is using poison**"
+	{
+		"chi"		"**基纳塔克是用了剧毒 **"
+	}
+	"**Gi Nattack is dead**"
+	{
+		"chi"		"**基纳塔克逃走了 **"
+	}
+	"**Now you can get out of Cave of Gi**"
+	{
+		"chi"		"**现在是时候离开这里了 **"
+	}
+	"**DOOR OPENS IN 35 SECONDS**"
+	{
+		"chi"		"**大门35秒后打开 **"
+	}
+	"**10 SECONDS LEFT**"
+	{
+		"chi"		"**还剩10秒 **"
+	}
+	"**This is your last hold point**"
+	{
+		"chi"		"**这是最后的地点了 **"
+	}
+	"**Get on the rocks and hold 25 seconds**"
+	{
+		"chi"		"**去到石头上守住25秒 **"
+	}
+	"**NORMAL mode was beaten. Unlocking HARD mode **"
+	{
+		"chi"		"**普通难度已破-现在进入困难难度 **"
+	}
+	"**HARD MODE**"
+	{
+		"chi"		"**困难难度 **"
+	}
+	"**Gi Nattak has healed 150 hp**"
+	{
+		"chi"		"**基纳塔克恢复了150HP **"
+		"DoorCountdown"		"-1"
+	}
+	"**Gi Nattak is using aspil**"
+	{
+		"chi"		"**基纳塔克使用了Aspil-摄魂术 **"
+	}
+	"**Gi Nattack is using ultima. Shoot him faster**"
+	{
+		"chi"		"**基纳塔克使用了终极-快杀了它 **"
+	}
+	"**A player has picked up FIRE materia**"
+	{
+		"chi"		"**一位玩家拿起了火元素 **"
+	}
+	"**A player has picked up ELECTRO materia**"
+	{
+		"chi"		"**一位玩家拿起了电元素 **"
+	}
+	"**A player has picked up ULTIMA materia**"
+	{
+		"chi"		"**一位玩家拿起了终极元素 **"
+	}
+	"**Gi Nattak is using fire**"
+	{
+		"chi"		"**基纳塔克使用了火 **"
+	}
+	"**The big cactus is blocking the way. Shopopt him!**"
+	{
+		"chi"		"**仙人掌挡住了我们的道路-开枪 **"
+	}
+	"**He is dead. KEEP GOING**"
+	{
+		"chi"		"**它死了-快跑 **"
+	}
+	"**A player has picked up SLEEP materia**"
+	{
+		"chi"		"**一位玩家拿起了昏睡红茶 **"
+	}
+	"**A player has picked up EARTH materia**"
+	{
+		"chi"		"**一位玩家拿起了土元素 **"
+	}
+	"**Hard mode is beaten. Challenge yourself in EXTREME mode ! **"
+	{
+		"chi"		"**困难难度已破-现在进入极限难度 **"
+	}
+	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+	{
+		"chi"		"**你必须杀死所有僵尸才能获得胜利 **"
+	}
+	"**EXTREME MODE**"
+	{
+		"chi"		"**极限难度 **"
+	}
+	"**...Are you surprised?...**"
+	{
+		"chi"		"**...你惊讶了没?... **"
+	}
+	"**...Didnt you expect me?...**"
+	{
+		"chi"		"**...你想我了没?... **"
+	}
+	"**...Oh okay im disappearing...**"
+	{
+		"chi"		"**...好吧我消失了... **"
+	}
+	"**Gi Nattak is spawning minions. Look on them**"
+	{
+		"chi"		"**基纳塔克召唤了守卫-小心它们 **"
+	}
+	"**GI NATTAK USES LAVA SUPERATTACK**"
+	{
+		"chi"		"**基纳塔克使用了熔岩上升 **"
+	}
+	"**Get on the rocks to get saved!!!**"
+	{
+		"chi"		"**你还有10秒时间去到石头上保命 **"
+	}
+	"**Ifrit is defeated! Get on the airship**"
+	{
+		"chi"		"**伊弗利特被击败-赶快上飞船 **"
+	}
+	"** EXTREME mode is beaten. Get ready for your last challenge ...**"
+	{
+		"chi"		"**极限难度已破-是时候跟他们决一死战了 **"
+	}
+	"**RAGE MODE**"
+	{
+		"chi"		"**疯狂难度 **"
+	}
+	"**Cover here for 10 seconds before we clear this obstacle**"
+	{
+		"chi"		"**守住这里-我将在10秒后清理障碍 **"
+	}
+	"**The airship to Shinra will arrive in 25 seconds**"
+	{
+		"chi"		"**去往神罗基地的飞船将在25秒后到达 **"
+	}
+	"**The airship is right here...**"
+	{
+		"chi"		"**飞船来了 **"
+	}
+	"**The gates will open in 35 seconds**"
+	{
+		"chi"		"**大门35秒后打开 **"
+	}
+	"**Wait 5 more seconds**"
+	{
+		"chi"		"**等待5秒 **"
+	}
+	"**Shinra gates will open in 20 seconds**"
+	{
+		"chi"		"**神罗大门20秒后打开 **"
+	}
+	"**The gates will open in 15 seconds**"
+	{
+		"chi"		"**大门15秒后打开 **"
+	}
+	"**The elevator will leave in 15 seconds**"
+	{
+		"chi"		"**电梯15秒后离开 **"
+	}
+	"**Ifrit is defeated. Get back in the elevator**"
+	{
+		"chi"		"**伊弗利特已击败-现在返回电梯 **"
+	}
+	"**The power is lost. Defend until the emergency generators are on**"
+	{
+		"chi"		"**电力似乎被切断了-等待备用发电机启动 **"
+	}
+	"**We got the power. The gates will open in 15 seconds**"
+	{
+		"chi"		"**电力已接通-大门将在15秒后打开 **"
+	}
+	"** Nades do more damage. **"
+	{
+		"chi"		"**手雷能造成更多伤害 **"
+	}
+	"**You have beaten Cosmo Canyon!! Congratulations !! **"
+	{
+		"chi"		"**你通关了宇宙峡谷-恭喜你 **"
+	}
+	"**ZM MODE**"
+	{
+		"chi"		"**僵尸感染 **"
+	}
+	"**The map is beaten. Find your place and defend it**"
+	{
+		"chi"		"**地图已通关-现在找一个地方守住 **"
+	}
+	"**2 MINUTES LEFT!**"
+	{
+		"chi"		"**还剩120秒 **"
+	}
+	"**1 MINUTES LEFT!**"
+	{
+		"chi"		"**还剩60秒 **"
+	}
+	"**30 SECONDS LEFT!**"
+	{
+		"chi"		"**还剩30秒 **"
+	}
+	"**15 SECONDS LEFT!**"
+	{
+		"chi"		"**还剩15秒 **"
+	}
+	"**Teleporting humans to the Observatory**"
+	{
+		"chi"		"**将人类传送至天文台 **"
+	}
+	"**Defend here for 15 seconds before the platform leaves**"
+	{
+		"chi"		"**15秒后平台上升 **"
+	}
+	"**The platform is leaving**"
+	{
+		"chi"		"**平台已上升 **"
+	}
+	"**WINNERS GONNA CHANGE NEXT STAGE**"
+	{
+		"chi"		"**胜利者将决定下一难度 **"
+	}
+	"**THE WINNERS HAD SELECTED THE MODE**"
+	{
+		"chi"		"**胜利者已选择难度 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"72587"
+	}
+	"**Gi Nattck is using shield**"
+	{
+		"chi"		"** **"
+	}
+	"**Zombie cactus has been picked up**"
+	{
+		"chi"		"** **"
+	}
+}

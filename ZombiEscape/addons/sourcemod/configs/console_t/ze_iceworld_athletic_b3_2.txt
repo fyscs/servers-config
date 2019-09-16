@@ -1,0 +1,325 @@
+"Console_T"
+{
+	"<< defend for 20 seconds >>"
+	{
+		"chi"		"**防守20秒**"
+	}
+	"<< defend for 30 seconds >>"
+	{
+		"chi"		"**防守30秒**"
+	}
+	"<< It seems that you destroy some fucking things >>"
+	{
+		"chi"		"**看起来你好像摧毁了一些很操蛋的东西**"
+	}
+	"<< wait for 25 seconds >>"
+	{
+		"chi"		"**等待25秒**"
+	}
+	"<< Hold For 10 seconds >>"
+	{
+		"chi"		"**坚守10秒**"
+	}
+	"<< Look at that fucking face >>"
+	{
+		"chi"		"**看那张滑稽脸**"
+	}
+	"<< Watch Out !!!! >>"
+	{
+		"chi"		"**小心！**"
+	}
+	"<< NOBODY WIN THE LASER TEST >>"
+	{
+		"chi"		"**没有人在跳刀测验中胜利**"
+	}
+	"<< DIE >>"
+	{
+		"chi"		"**死吧**"
+	}
+	"<< No Short Cut >>"
+	{
+		"chi"		"**别想走捷径**"
+	}
+	"<< YOU GET IT >>"
+	{
+		"chi"		"**你做到了**"
+	}
+	"<< teleport human >>"
+	{
+		"chi"		"**传送人类**"
+	}
+	"<< zombie teleport in 5 seconds >>"
+	{
+		"chi"		"**僵尸将会在5秒后传送**"
+	}
+	"<< hold for 30 seconds >>"
+	{
+		"chi"		"**坚守30秒**"
+	}
+	"<< a bridge appears >>"
+	{
+		"chi"		"**一个桥出现了**"
+	}
+	"<< teleport in 30 seconds >>"
+	{
+		"chi"		"**30秒后传送**"
+	}
+	"<< Lets play a game now >>"
+	{
+		"chi"		"**我们来玩一个小游戏吧**"
+	}
+	"<< You can see there are 8 platforms >>"
+	{
+		"chi"		"**你可以看见这里有8个平台**"
+		"DoorCountdown"		"-1"
+	}
+	"<< After a little time, only 1 platform will be safe >>"
+	{
+		"chi"		"**等一小会之后，只有一个平台是安全的**"
+	}
+	"<< so now, choose the number that you like >>"
+	{
+		"chi"		"**现在，来选择你喜欢的数字吧**"
+	}
+	"<< Round 1 >>"
+	{
+		"chi"		"**第一轮**"
+	}
+	"<< 10 seconds to choose >>"
+	{
+		"chi"		"** 选择时间剩余10秒**"
+	}
+	"<< Round 2 >>"
+	{
+		"chi"		"**第二轮**"
+	}
+	"<< Now lets start the final game >>"
+	{
+		"chi"		"**现在我们开始最后的游戏吧**"
+	}
+	"<< Choose Mode...... >>"
+	{
+		"chi"		"**选择模式......**"
+	}
+	"<< DEFENSE MODE >>"
+	{
+		"chi"		"**防守模式**"
+	}
+	"<< defense for 120 seconds >>"
+	{
+		"chi"		"**防守120秒**"
+	}
+	"<< zombie will arrive in 5 seconds >>"
+	{
+		"chi"		"**僵尸将会在5秒后到达**"
+	}
+	"<< who permit you to press the button? >>"
+	{
+		"chi"		"**谁允许你按这个按钮的**"
+	}
+	"<< YOU ARE NOT LUCKY >>"
+	{
+		"chi"		"**你并不幸运**"
+	}
+	"<< SOLO MODE >>"
+	{
+		"chi"		"**SOLO模式**"
+	}
+	"<<boat will move in 15 seconds >>"
+	{
+		"chi"		"**船将会在15秒后移动**"
+	}
+	"<< solo time will begin in 15 seconds !!!! >>"
+	{
+		"chi"		"**15秒后就是solo的时间！！！**"
+	}
+	"<< zombie can move in 15 seconds >>"
+	{
+		"chi"		"**僵尸可以在15秒后移动**"
+	}
+	"<< human win >>"
+	{
+		"chi"		"**人类胜利**"
+	}
+	"<< BUTTON MODE >>"
+	{
+		"chi"		"**按钮模式**"
+	}
+	"<< press the button and defend zombie >>"
+	{
+		"chi"		"**防守僵尸的同时按下按钮**"
+	}
+	"<< Press 8 button to win the game >>"
+	{
+		"chi"		"**按8个按钮来获得游戏胜利**"
+	}
+	"<< the light will change to green if the button can be pressed >>"
+	{
+		"chi"		"**当一个按钮可以被按下的时候，他会变成绿色**"
+	}
+	"<< You only have 120 seconds >>"
+	{
+		"chi"		"**你只有120s**"
+	}
+	"<< You Done It !!! >>"
+	{
+		"chi"		"**你做到了!!!**"
+	}
+	"<< defend for final 30 seconds >>"
+	{
+		"chi"		"**最后防守30s**"
+	}
+	"<< TEAM MODE >>"
+	{
+		"chi"		"**团队模式**"
+	}
+	"<< FROG MODE >>"
+	{
+		"chi"		"**青蛙模式**"
+	}
+	"<< hold for 60 seconds >>"
+	{
+		"chi"		"**坚守60s**"
+	}
+	"<< NO!!! zombie has touched that fucking face >>"
+	{
+		"chi"		"**不！僵尸碰到了高贵的滑稽脸！**"
+	}
+	"<< defend for 12 seconds >>"
+	{
+		"chi"		"**防守12s**"
+	}
+	"<< It seems that you are less than 16 guys >>"
+	{
+		"chi"		"**看起来人类的数量少于16个**"
+		"DoorCountdown"		"-1"
+	}
+	"<< OK, I will let you win this game easier >>"
+	{
+		"chi"		"**好吧，我会让你们更容易的来获得这个游戏的胜利**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"38278"
+	}
+	"<< zombie will arrive in 20 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< wait for 10 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< zombie can go in 10 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< afk tele in 20 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< wait for 15 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< After a little time, only a few number of platform will be safe >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Oh My God The Fucking Mapper is in the serve >>"
+	{
+		"chi"		"** **"
+	}
+	"<< a player has picked up wind >>"
+	{
+		"chi"		"** **"
+	}
+	"<< it has a 50 seconds cool down >>"
+	{
+		"chi"		"** **"
+	}
+	"<< zombie will arrive in 10 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 90 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 60 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 30 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< zombie will come in 5 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< DEATHRUN MODE >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Welcome to DeathRun!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Try your best to get to the end >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Remember!!! You only have 5 minutes to get to the end >>"
+	{
+		"chi"		"** **"
+	}
+	"<< So Are You READY? >>"
+	{
+		"chi"		"** **"
+	}
+	"<< GO!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 300 seconds left >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 100 seconds left >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 50 seconds left >>"
+	{
+		"chi"		"** **"
+	}
+	"<< 10 seconds left >>"
+	{
+		"chi"		"** **"
+	}
+	"<< DeathRun Complete !!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< zombie will come in 20 seconds >>"
+	{
+		"chi"		"** **"
+	}
+	"<< You have already win all mode!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Now its the entertainment time!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Shooting the mode that you want to play!!! >>"
+	{
+		"chi"		"** **"
+	}
+	"<< You have already win 4 mode!!! >>"
+	{
+		"chi"		"** **"
+	}
+}

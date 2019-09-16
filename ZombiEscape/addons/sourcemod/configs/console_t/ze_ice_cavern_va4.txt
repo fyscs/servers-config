@@ -1,126 +1,106 @@
 "Console_T"
 {
-    "<<< Cavern door opens in 45 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Outside door closes in 15 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Ice breaking in 60 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Zombies teleport in 30 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Ice breaks in 45 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Gate opens in 30 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Gastly Wind >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Gates open in 10 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Crystals break in 30 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Bar door opens in 30 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Killzone >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Replenish >>>"
-    {
-        "chi"        "** **"
-    }
-    "MapGlobal_ConVars"
-    {
-        "0"
-        {
-            "cvar"        "sm_he_limit 10"
-        }
-        "1"
-        {
-            "cvar"        "sm_smoke_limit 7"
-        }
-        "2"
-        {
-            "cvar"        "sm_molotov_limit 6"
-        }
-    }
-    "<<< Zombies teleport in 60 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Bridge appearing in 5 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Icicles break in 10 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Blade stopping! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Zombies teleport in 45 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Gate opens in 60 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Zombies teleport in 20 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Last hold! Hold for 60 seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Ladder on side of platform has been broken watch out!!!"
-    {
-        "chi"        "** **"
-    }
-    "<<< 25 more seconds! >>>"
-    {
-        "chi"        "** **"
-    }
-    "---Feedback:noojeff@gmail.com---"
-    {
-        "chi"        "** **"
-    }
-    "---Special Thank To:HZM654321 and JackBauer123---"
-    {
-        "chi"        "** **"
-    }
-    "### TOUCH ALL 4 STATUES TO ACTIVATE TELEPORT ###"
-    {
-        "chi"        "** **"
-    }
-    "ESCAPE FROM ZOMBIELAND"
-    {
-        "chi"        "** **"
-    }
-    "**map by koyomaple**"
-    {
-        "chi"        "** **"
-    }
+	"<<< Cavern door opens in 45 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Outside door closes in 15 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Ice breaking in 60 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Ice breaks in 45 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Gate opens in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Gastly Wind >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Gates open in 10 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Crystals break in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Bar door opens in 30 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Killzone >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Replenish >>>"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_he_limit 10"
+		}
+		"1"
+		{
+			"cvar"		"sm_smoke_limit 7"
+		}
+		"2"
+		{
+			"cvar"		"sm_molotov_limit 6"
+		}
+	}
+	"<<< Zombies teleport in 60 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Bridge appearing in 5 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Icicles break in 10 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Blade stopping! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 45 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Gate opens in 60 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Zombies teleport in 20 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Last hold! Hold for 60 seconds! >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Ladder on side of platform has been broken watch out!!!"
+	{
+		"chi"		"** **"
+	}
+	"<<< 25 more seconds! >>>"
+	{
+		"chi"		"** **"
+	}
 }
