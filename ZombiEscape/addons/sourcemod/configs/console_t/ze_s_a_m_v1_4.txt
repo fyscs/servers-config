@@ -14,15 +14,15 @@
 	}
 	"**Player has picked up <Earth Magic>**"
 	{
-		"chi"		"**一名玩家学会了<沟壑>**"
+		"chi"		"**一名玩家学会了<要岩>**"
 	}
 	"**Player has picked up <Ultima Magic>**"
 	{
-		"chi"		"**一名玩家学会了<魔女之夜>**"
+		"chi"		"**一名玩家学会了<终焉之奏>**"
 	}
 	"**Player has picked up <Water Magic>**"
 	{
-		"chi"		"**一名玩家学会了<泡泡>**"
+		"chi"		"**一名玩家学会了<浮游>**"
 	}
 	">>GATE OPENING IN 15 SEC<<"
 	{
@@ -30,7 +30,7 @@
 	}
 	"**Player has picked up <Gravity Magic>**"
 	{
-		"chi"		"**一名玩家学会了<虫洞>**"
+		"chi"		"**一名玩家学会了<黑洞>**"
 	}
 	">>MAZEDOOR OPENING IN 30 SEC<<"
 	{
@@ -42,7 +42,7 @@
 	}
 	">>BREAK THE INVERTED CRYSTAL TOWER<<"
 	{
-		"chi"		">>>打掉红色倒置水晶塔<<<"
+		"chi"		">>>打掉倒置的红色水晶<<<"
 	}
 	">>DOOR OPENING IN 15 SEC<<"
 	{
@@ -78,7 +78,7 @@
 	}
 	">>YOU GOT THE TELEPORTER CRYSTAL. IT CAN TAKE US BACK<<"
 	{
-		"chi"		">>>你得到了传送水晶，它能帮助我们回去<<<"
+		"chi"		">>>你获得了传送水晶，它能帮助我们回去<<<"
 	}
 	">>TELEPORT IN 2 SEC<<"
 	{
@@ -118,7 +118,7 @@
 	}
 	">>A VOICE : Get into the palace , there's a great mystery under it<<"
 	{
-		"chi"		">>>???：进入圣灵大殿，在它下面有一个很大的秘密<<<"
+		"chi"		">>>???：进入圣灵殿堂，在它下面有一个很大的秘密<<<"
 	}
 	"**Player has picked up <Heal Magic>**"
 	{
@@ -130,7 +130,7 @@
 	}
 	">>ACTIVATE FOUR TOWERS<<"
 	{
-		"chi"		">>>激活4座塔<<<"
+		"chi"		">>>激活4座水晶塔<<<"
 	}
 	">>ALL THE CRYSTAL ACTIVATED , WAIT 10 SEC<<"
 	{
@@ -138,11 +138,11 @@
 	}
 	">>WAITING THE PLATFORM APPEAR<<"
 	{
-		"chi"		">>>等待平台出现<<<"
+		"chi"		">>>等待平台上升<<<"
 	}
 	">>ITS LOOKS LIKE A DOOR , KEEP DEFENDING FOR 25 SEC<<"
 	{
-		"chi"		">>>它看上去像个门？保持射击25秒后看会发生些什么<<<"
+		"chi"		">>>它看上去像个门？守住僵尸25秒后看会发生些什么<<<"
 	}
 	">>THIS DOOR BREAKING IN 25 SEC<<"
 	{
@@ -150,7 +150,7 @@
 	}
 	">>THE DOOR BREAKING IN 30 SEC<<"
 	{
-		"chi"		">>>通往元素结晶体房间的大门30秒后打开<<<"
+		"chi"		">>>通往元素结晶体空间的大门30秒后打开<<<"
 	}
 	">>MIDDLE PLATFORM RISING IN 25 SEC<<"
 	{
@@ -186,7 +186,7 @@
 	}
 	">>TELEPORT ACTIVATED IN 30 SEC<<"
 	{
-		"chi"		">>>30秒后传送<<<"
+		"chi"		">>>传送阵30秒后激活<<<"
 	}
 	">>ROCK BREAKING IN 25 SEC<<"
 	{
@@ -218,7 +218,7 @@
 	}
 	"**Player has picked up <Trace>**"
 	{
-		"chi"		"**一名玩家学会了<追溯>**"
+		"chi"		"**一名玩家学会了<克隆>**"
 	}
 	">>STELA ACTIVATED IN 20 SEC<<"
 	{
@@ -234,7 +234,7 @@
 	}
 	">>ITS ICE DRAGON<<"
 	{
-		"chi"		">>>它是魔法冰龙<<<"
+		"chi"		">>>是魔法冰龙<<<"
 	}
 	">>KILL IT<<"
 	{
@@ -246,7 +246,7 @@
 	}
 	">>TOWN GATE CLOSING IN 40 SEC<<"
 	{
-		"chi"		">>>巨门40秒后关闭<<<"
+		"chi"		">>>大门40秒后关闭<<<"
 	}
 	">>HOLD!!!<<"
 	{
@@ -270,7 +270,7 @@
 	}
 	">>GO TO BIG CRYSTAL TOWER<<"
 	{
-		"chi"		">>>跑到巨大的传送水晶附近<<<"
+		"chi"		">>>跑到巨大的传送水晶附近等待传送<<<"
 	}
 	">>ACTIVATE TWO CRYSTAL AND DEFEND ZOMBIES<<"
 	{
@@ -282,7 +282,7 @@
 	}
 	">>THE HELLGATE OPENING IN 30 SEC<<"
 	{
-		"chi"		">>>地狱门30秒后打开<<<"
+		"chi"		">>>地狱双门30秒后打开<<<"
 	}
 	"**Zombie has picked up <Shield>**"
 	{
@@ -334,7 +334,7 @@
 	}
 	">>BECAUSE OF THE DISAPPEARANCE OF THE BALROG'S POWER, <Ultima>HAS LOST EFFICACY!!!<<"
 	{
-		"chi"		">>>因为失去了炎魔的能量所以<魔女之夜>也随之消失<<<"
+		"chi"		">>>因为失去了炎魔的能量，所以<终焉之奏>也随之消失<<<"
 	}
 	">>AND FIND THE CRYSTAL<<"
 	{
@@ -374,7 +374,7 @@
 	}
 	">>ONE IS BELOW , ANOTHER IS ABOVE<<"
 	{
-		"chi"		">>>一个在上面，一个在下面<<<"
+		"chi"		">>>一个在左边道路的上面，一个在右边道路的下面<<<"
 	}
 	">>ACTIVATE THE CRYSTAL TOWER<<"
 	{
@@ -390,7 +390,7 @@
 	}
 	">>IT INITIATES ATTACKS<<"
 	{
-		"chi"		">>>萨菲斯罗特之眼开始攻击我们了<<<"
+		"chi"		">>>罗特斯之眼技能加载完成<<<"
 	}
 	">>BREAK IT!!!<<"
 	{
@@ -414,11 +414,11 @@
 	}
 	"<<COLLAPSE>>"
 	{
-		"chi"		"** **"
+		"chi"		">>>喷射水流<<<"
 	}
 	"<<FLARE>>"
 	{
-		"chi"		">>>太阳耀斑<<<"
+		"chi"		">>>圣光坠落<<<"
 	}
 	"<<HEALTH GRABBING>>"
 	{
@@ -426,7 +426,7 @@
 	}
 	">>WE HAVE DESTROYED IT<<"
 	{
-		"chi"		">>>我们击败了它<<<"
+		"chi"		">>>我们打败了它<<<"
 	}
 	">>ESCAPE HERE!!!RUN BACK!!!<<"
 	{
@@ -462,7 +462,7 @@
 	}
 	">>NADE DO MORE DAMAGE<<"
 	{
-		"chi"		">>>手雷能造成更多的伤害<<<"
+		"chi"		">>>高爆手雷能造成更多的伤害<<<"
 	}
 	">>HE WILL LAUNCH DARK SLASH<<"
 	{
@@ -470,7 +470,7 @@
 	}
 	"**stage1**"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关**"
 	}
 	"**map by:一条会翻身的鱼**"
 	{
@@ -490,27 +490,27 @@
 	}
 	"**ZM has been chosen**"
 	{
-		"chi"		"** **"
+		"chi"		"**感染模式已载入**"
 	}
 	"**Stage 4 has been chosen**"
 	{
-		"chi"		"** **"
+		"chi"		"**第四关已载入**"
 	}
 	"**Stage 3 has been chosen**"
 	{
-		"chi"		"** **"
+		"chi"		"**第三关已载入**"
 	}
 	"**Stage 1 has been chosen**"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关已载入**"
 	}
 	"**Stage 2 has been chosen**"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关已载入**"
 	}
 	"**Stage 5 has been chosen**"
 	{
-		"chi"		"** **"
+		"chi"		"**第五关已载入**"
 	}
 	">>THE RIGHT DOOR HAS OPENED<<"
 	{
@@ -526,15 +526,15 @@
 	}
 	">>HE ESCAPED!!!VOID DOOR HAS OPENED NOW!!!CATCH UP!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**他逃走了！！！！传送门已经启动了！！！！快走！！！！**"
 	}
 	">>SHOOT IT!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**攻击他**"
 	}
 	">>WE DEFEAT HIM<<"
 	{
-		"chi"		"** **"
+		"chi"		"**我们打败了他**"
 	}
 	">>CRYSTAL IS INJECTING ENERGY<<"
 	{
@@ -542,31 +542,31 @@
 	}
 	">>WE WILL BE ABLE TO LEAVE SOON<<"
 	{
-		"chi"		"** **"
+		"chi"		"**晶体正在注入能量**"
 	}
 	">>RUN OUT OF HERE!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**快跑出去**"
 	}
 	">>GET ON THE AIRSHIP!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**快上飞船**"
 	}
 	">>THE AIRSHIP LEAVING IN 5 SEC<<"
 	{
-		"chi"		"** **"
+		"chi"		"**飞船只停留5秒**"
 	}
 	">>STAGE 5 COMPLETE<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第五关完成**"
 	}
 	">>YOU HAVE CONQUERED THIS MAP<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你已经通关了这个地图**"
 	}
 	">>CONGRATULATION!!!<<"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜你**"
 	}
 	"**Welcome to Minas Tirith - City of Kings**"
 	{
@@ -574,51 +574,51 @@
 	}
 	">>HERE IS SEALED BY A MYSTERIOUS FORCE<<"
 	{
-		"chi"		"** **"
+		"chi"		"**这里被一股神秘的力量封住了**"
 	}
 	">>YOU HAVE DESTROYED ALL THE CRYSTALS<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你摧毁了所有的水晶**"
 	}
 	">>SOMETHING WILL HAPPEN<<"
 	{
-		"chi"		"** **"
+		"chi"		"**好像有什么东西要出现了**"
 	}
 	"**You think you are invincible???**"
 	{
-		"chi"		"** **"
+		"chi"		"**你认为桐姥爷是无敌的？？？？**"
 	}
 	"**You are wrong**"
 	{
-		"chi"		"** **"
+		"chi"		"**你错了**"
 	}
 	"**Just a joke,have fun!!!**"
 	{
-		"chi"		"** **"
+		"chi"		"**开个玩笑，玩得开心！！！！**"
 	}
 	">>180 SEC REMAINING<<"
 	{
-		"chi"		"** **"
+		"chi"		"**生存180秒**"
 	}
 	">>120 SEC REMAINING<<"
 	{
-		"chi"		"** **"
+		"chi"		"**生存120秒**"
 	}
 	">>60 SEC REMAINING<<"
 	{
-		"chi"		"** **"
+		"chi"		"**生存60秒**"
 	}
 	">>10 SEC REMAINING<<"
 	{
-		"chi"		"** **"
+		"chi"		"**还有10秒**"
 	}
 	"***Welcome to my first map PePeHands***"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎游玩我的第一张地图**"
 	}
 	">>KILL THE REMAINING ZOMBIES<<"
 	{
-		"chi"		"** **"
+		"chi"		"**击杀剩余的黄泉引路人**"
 	}
 	"* * * MAP BY AobaSuzukaze(sweetS), Special Thanks reflelia * * *"
 	{
@@ -626,11 +626,11 @@
 	}
 	"<<ANGER SHIELD>>"
 	{
-		"chi"		"** **"
+		"chi"		"**>>>愤怒之盾<<<**"
 	}
 	">>ZOMBIES GET ON , YOUR FAILED<<"
 	{
-		"chi"		"** **"
+		"chi"		"**黄泉引路人进来了，你失败了**"
 	}
 	"**map by koyomaple**"
 	{
@@ -638,7 +638,7 @@
 	}
 	"Thanks test play POSSESSION server!!"
 	{
-		"chi"		"** **"
+		"chi"		"**感谢游玩风云社**"
 	}
 	"Map made by Ocelot"
 	{
@@ -650,11 +650,11 @@
 	}
 	"***60 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有60秒**"
 	}
 	"***WARM UP ROUIND***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身回合**"
 	}
 	"*** MAP BY GEORGE ***"
 	{
@@ -674,11 +674,11 @@
 	}
 	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**热身回合还有40秒**"
 	}
 	">>LEVEL 1<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关**"
 	}
 	"** re shen 50 miao **"
 	{
@@ -694,14 +694,14 @@
 	}
 	"***wait for 40sec***"
 	{
-		"chi"		"** **"
+		"chi"		"**坚守40秒**"
 	}
 	">>ZOMBIES GET ON<<"
 	{
-		"chi"		"** **"
+		"chi"		"**黄泉引路人来了**"
 	}
 	">>YOUR FAILED<<"
 	{
-		"chi"		"** **"
+		"chi"		"**你失败了**"
 	}
 }
