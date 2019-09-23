@@ -11,11 +11,11 @@
     }
     "* Turning music on *"
     {
-        "chi"        "**BGM启动**"
+        "chi"        "**背景音乐**"
     }
     "*** Door opens in 25 seconds ***"
     {
-        "chi"        "**大门25秒后打开（防守岸上和地洞的僵尸）**"
+        "chi"        "**大门25秒后打开（注意防守岸上和地洞的僵尸）**"
         "DoorCountDown"        "25"
     }
     "*** Door Opening in 20 seconds! ***"
