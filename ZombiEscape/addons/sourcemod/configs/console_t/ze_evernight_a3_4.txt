@@ -2,7 +2,7 @@
 {
 	"**Chaosbreak**"
 	{
-		"chi"		"**混沌爆裂（4秒后面对Boss按住W）**"
+		"chi"		"**混沌爆裂（4秒后面对boss按住W）**"
 	}
 	"**Flare - Use the Ice Magick to neutralize the effect**"
 	{
@@ -10,7 +10,7 @@
 	}
 	"**Meltdown - Silence human magick for 30 seconds (except for the Light Magick)**"
 	{
-		"chi"		"**小火-沉默人类神器30秒（圣辉法杖除外）**"
+		"chi"		"**小火-沉默人类法杖30秒（圣辉法杖除外）**"
 	}
 	"**We need a little time to light the core**"
 	{
@@ -34,7 +34,7 @@
 	}
 	"**BURNING FIELD**"
 	{
-		"chi"		"**爆炎之境**"
+		"chi"		"**爆炎之境（场次四个角会随机出现火焰）**"
 	}
 	"**The watcher is absorbing other additional cores!**"
 	{
@@ -126,7 +126,7 @@
 	}
 	"**Frostnova - Go side**"
 	{
-		"chi"		"**霜冻新星-去平台边缘白线上**"
+		"chi"		"**霜冻新星-使用烈焰法杖or圣辉法杖来对应**"
 	}
 	"**Aurora Shield - The Watcher is transform the damage we have done to it into healing,use the Thunder Magick to smash the shield**"
 	{
@@ -162,7 +162,7 @@
 	}
 	"**The core must be...wait**"
 	{
-		"chi"		"**一定是核心...等等**"
+		"chi"		"**这就是核心...等等**"
 	}
 	"MapGlobal_ConVars"
 	{
@@ -257,7 +257,7 @@
 	}
 	"**The evil one of blood and fire was born... **"
 	{
-		"chi"		"**血与火的邪恶产物已出现...**"
+		"chi"		"**火与炎的邪恶产物已诞生...**"
 	}
 	"**Hold 25 seconds**"
 	{
@@ -309,7 +309,7 @@
 	}
 	"**A seal of thousands of years under the glacier has been broken through...**"
 	{
-		"chi"		"**千年冰川里的一道封印被打破了...**"
+		"chi"		"**冰与血的封印产物已重现...**"
 	}
 	"**Cover here till we open the gate**"
 	{
@@ -389,15 +389,15 @@
 	}
 	"**try to find a way to break through**"
 	{
-		"chi"		"**下面的通道似乎可以使它们失效**"
+		"chi"		"**下面的通道似乎有机关可以使它们失效**"
 	}
 	"**Unlocking the first seal...**"
 	{
-		"chi"		"**第一道空气墙已失效...**"
+		"chi"		"**正在突破第一道空气墙...**"
 	}
 	"**Unlocking the second seal...**"
 	{
-		"chi"		"**第二道空气墙已失效...**"
+		"chi"		"**正在突破第二道空气墙...**"
 	}
 	"**It seems that we are in the ancient drainage of the temple**"
 	{
@@ -437,7 +437,7 @@
 	}
 	"**The fallen God King will have his vengeance... **"
 	{
-		"chi"		"**堕落的神王将会复仇...**"
+		"chi"		"**雷与电的堕落产物将复仇...**"
 	}
 	"**OK,lets go**"
 	{
@@ -645,7 +645,7 @@
 	}
 	"**The banshee landed on the ground with howling and wailing...**"
 	{
-		"chi"		"**女妖坐在地上嚎啕大哭...**"
+		"chi"		"**风与速的罪恶产物已现身...**"
 	}
 	"**Youre too late..**"
 	{
@@ -818,117 +818,5 @@
 	"禁止按E抢神器"
 	{
 		"chi"		"**禁止按E抢神器**"
-	}
-	"**Thanks to ClariceTang and Lishang for found the reason of a deadly crush error of BOSS 'the Watcher'**"
-	{
-		"chi"		"**感谢：[ClariceTang][Lishang]找到监视者BOSS的致命错误**"
-	}
-	"**Tips - This isn't an esay map,try your best with excellent teamwork**"
-	{
-		"chi"		"**提示：这不是一张简单的地图，你要尽你最大的努力与出色的团队合作**"
-	}
-	"**Tips - The items in this map isn't traditional,try to understand the real effect of them**"
-	{
-		"chi"		"**提示：此地图的神器打破了传统，请尝试并了解它们的有趣之处**"
-	}
-	"**let's get the Glimmer Fragment before Basil does**"
-	{
-		"chi"		"**我们必须在巴吉尔之前拿到闪光碎片**"
-	}
-	"**A player learn the Dragon's Breath (Fire Magick Lv.4)**"
-	{
-		"chi"		"**一名玩家拾取了烈焰法杖（火魔法 Lv.4）**"
-	}
-	"**We'll set out when everyone is ready**"
-	{
-		"chi"		"**大家都准备好了就出发吧！**"
-	}
-	"**A player learn the Fiend's Grip (Shadow Magick Lv.5)**"
-	{
-		"chi"		"**一名玩家拾取了影缚法杖（影魔法 Lv.5）**"
-	}
-	"**That's the Evernight Temple**"
-	{
-		"chi"		"**是永夜神殿**"
-	}
-	"**Let's get into it**"
-	{
-		"chi"		"**我们进去吧**"
-	}
-	"'Seems some bugs follow me.'"
-	{
-		"chi"		"**'好像有些小虫子在跟踪我'**"
-	}
-	"**It's an image of Basil...**"
-	{
-		"chi"		"**这只是巴吉尔的分身...**"
-	}
-	"**We have to hurry up,let's move**"
-	{
-		"chi"		"**我们抓紧时间，快走**"
-	}
-	"**Now we're in the Evernight Temple**"
-	{
-		"chi"		"**我们现在身处永夜神殿内**"
-	}
-	"**Let's go to the inner part of the temple to find two main power cores and make them work**"
-	{
-		"chi"		"**进入神殿内部激活两个核心利用它们的能源启动平台**"
-	}
-	"**there're many seal doors**"
-	{
-		"chi"		"**神殿内有很多门被封锁了**"
-	}
-	"**There're two invisible walls**"
-	{
-		"chi"		"** **"
-	}
-	"'I'm the watcher of the temple'"
-	{
-		"chi"		"** **"
-	}
-	"'and the keeper of the Glimmer Fragment'"
-	{
-		"chi"		"** **"
-	}
-	"'You,the greedy thieves of humankind'"
-	{
-		"chi"		"** **"
-	}
-	"'Now face me and feel my wrath!'"
-	{
-		"chi"		"** **"
-	}
-	"**It's the watcher system of the temple!**"
-	{
-		"chi"		"** **"
-	}
-	"**It's our last chance!**"
-	{
-		"chi"		"** **"
-	}
-	"**Frostnova - Use the Fire Magick to neutralize the effect**"
-	{
-		"chi"		"** **"
-	}
-	"**OK,let's go**"
-	{
-		"chi"		"** **"
-	}
-	"**It's the control station of 'the Watcher' system!**"
-	{
-		"chi"		"** **"
-	}
-	"**We don't have much time!**"
-	{
-		"chi"		"** **"
-	}
-	"**You're too late..**"
-	{
-		"chi"		"** **"
-	}
-	"**A player learn the Dragon's Breath (Fire Magick Lv.3)**"
-	{
-		"chi"		"** **"
 	}
 }
