@@ -1,4 +1,76 @@
 ﻿"Console_T"
 {
-
+    "*** Map by Kim and P'a'ss ***"
+    {
+        "chi"        "**地图作者：[Kim][P'a'ss]  地图汉化：大明**"
+    }
+    "*** Boat Leaving in 5 Seconds ***"
+    {
+        "chi"        "**积木船5秒后离开**"
+        "DoorCountDown"        "5"
+    }
+    "* Turning music on *"
+    {
+        "chi"        "**背景音乐**"
+    }
+    "*** Door opens in 25 seconds ***"
+    {
+        "chi"        "**大门25秒后打开（注意防守岸上和地洞的僵尸）**"
+        "DoorCountDown"        "25"
+    }
+    "*** Door Opening in 20 seconds! ***"
+    {
+        "chi"        "**大门20秒后打开（左侧通道不是逃离路线）**"
+        "DoorCountDown"        "20"
+    }
+    "*** Noob Cleaned ***"
+    {
+        "chi"        "**有人掉下岩浆瞬间蒸发咯**"
+    }
+    "*** Teleporter Activates in 15 Seconds ***"
+    {
+        "chi"        "**15秒后激活传送**"
+        "DoorCountDown"        "15"
+    }
+    "*** Door opens in 30 seconds ***"
+    {
+        "chi"        "**门30秒后打开**"
+    }
+    "*** OH NOOES ***"
+    {
+        "chi"        "**噢no!**"
+    }
+    "*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***"
+    {
+        "chi"        "**把boss废了**"
+    }
+    "*** RICK ASTLEY IS DEAD ***"
+    {
+        "chi"        "**boss去世了！快往出口那边跑**"
+    }
+    "*** Hold here for 20 seconds ***"
+    {
+        "chi"        "**守住20秒**"
+        "DoorCountDown"        "20"
+    }
+    "*** Hold 30 second for victory! ***"
+    {
+        "chi"        "**再守住30秒后桥断就通关咯**"
+    }
+    "*** Map by Kim and Pass ***"
+    {
+        "chi"        "**地图作者：[Kim][P'a'ss]  地图汉化：大明**"
+    }
+    "*** YOU SUCK ***"
+    {
+        "chi"        "**你这个baka**"
+    }
+    "*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+    {
+        "chi"        "**地图帮助：[Airvulpes][Kune][thas][Rukly][Shufen]**"
+    }
+    "*** Model :Dakotec ***"
+    {
+        "chi"        "**模型提供：Dakotec**"
+    }
 }
