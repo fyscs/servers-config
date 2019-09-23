@@ -1,0 +1,97 @@
+"Console_T"
+{
+	"### HOLD THE FOUNTAIN FOR 30 SECONDS ##"
+	{
+		"chi"		"**守住喷泉30秒**"
+	}
+	"### 10 SECONDS REMAINING ###"
+	{
+		"chi"		"**还有10秒**"
+	}
+	"### STAY IN THE FOUNTAIN FOR TELEPORT ###"
+	{
+		"chi"		"**待在喷泉内等待传送**"
+	}
+	"### HIDE HERE FOR 60 SECONDS ###"
+	{
+		"chi"		"**找个地方守住60秒**"
+	}
+	"### ZOMBIES ARE INCOMING IN 5 SECONDS ###"
+	{
+		"chi"		"**僵尸5秒后传送**"
+	}
+	"### 30 SECONDS REMAINING ###"
+	{
+		"chi"		"**还有30秒**"
+	}
+	"### ZOMBIES ARE INCOMING IN 5 SECONDS"
+	{
+		"chi"		"**僵尸5秒后传送**"
+	}
+	"### TELEPORT INCOMING IN 30 SECONDS ###"
+	{
+		"chi"		"**30秒后传送**"
+	}
+	"### HELL BRIDGE SPAWNS IN 5 SECONDS"
+	{
+		"chi"		"**地狱の桥5秒后出现**"
+	}
+	"### DESTROY THE STATUE ###"
+	{
+		"chi"		"**打碎塑像**"
+	}
+	"### HOLD HERE FOR 30 SECONDS ###"
+	{
+		"chi"		"**守住这里30秒**"
+	}
+	"### 10 SECONDS REMAININGS ###"
+	{
+		"chi"		"**还有10秒**"
+	}
+	"### TELEPORT INCOMING IN 30 SECONDS"
+	{
+		"chi"		"**30秒后传送至boss房**"
+	}
+	">>> KILL HIM BEFORE HE KILLS YOU  <<<"
+	{
+		"chi"		">>>不是它死就是你们亡<<<"
+	}
+	"### DEFEND VENTS IN 10 SECONDS ###"
+	{
+		"chi"		"**守住管道10秒钟**"
+	}
+	"### NARAKA HAS DISAPPEAR !! ###"
+	{
+		"chi"		"**BOSS消失了!!!**"
+	}
+	"### SHHHHHHH ... NARAKA ###"
+	{
+		"chi"		"**BOSS出现了!!!!**"
+	}
+	">>> HES DEAD. DEFEND UNTIL TELEPORT <<<"
+	{
+		"chi"		">>>BOSS被打败了.守住直到人类传送<<<"
+	}
+	"### TEST THIS YOU FOOL !! ###"
+	{
+		"chi"		"**准备跳刀吧!**"
+		"DoorCountdown"		"-1"
+	}
+	"### NICE TRY YOU FOOL !!! ###"
+	{
+		"chi"		"**注意点它来咯**"
+		"DoorCountdown"		"-1"
+	}
+	"### HOLD HERE FOR 15 SECONDS ###"
+	{
+		"chi"		"**守住15秒**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"24061"
+	}
+	"### SOMEONE HAS SACRIFICED HIMSELF TO SATAN ###"
+	{
+		"chi"		"**菜鸟向撒旦献祭了**"
+	}
+}
