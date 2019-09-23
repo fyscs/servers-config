@@ -1,125 +1,125 @@
 "Console_T"
 {
-    "*** WATER ENTRIES WILL BREAK IN 40 SECONDS ***"
-    {
-        "chi"        "**污水处理通道入口在40秒后打开**"
-        "DoorCountdown"        "40"
-    }
-    "*** ENTRIES OPENING IN 5 SECONDS ***"
-    {
-        "chi"        "**污水处理通道入口在5秒后打开**"
-    }
-    "*** ENTRIES ARE NOW OPEN, FALL BACK! ***"
-    {
-        "chi"        "**入口已打开，撤退**"
-    }
-    "*** BULKHEAD DOORS OPENING IN 25 SECONDS ***"
-    {
-        "chi"        "**隔离大门在25秒后打开**"
-        "DoorCountdown"        "25"
-    }
-    "*** BULKHEAD DOORS OPENING IN 5 SECONDS ***"
-    {
-        "chi"        "***隔离大门在5秒后打开**"
-    }
-    "*** DOORS ARE OPEN, FALL BACK! ***"
-    {
-        "chi"        "**隔离大门已打开，撤退**"
-    }
-    "*** FIRST FLOOD DOOR OPENING IN 15 SECONDS ***"
-    {
-        "chi"        "**1号闸门在15秒后打开**"
-    }
-    "*** FIRST FLOOD DOOR OPENING NOW ***"
-    {
-        "chi"        "**1号闸门已打开**"
-    }
-    "*** ZOMBIES ARE SETTING UP AMBUSH, SECOND FLOOD DOOR OPENING IN 10 SECONDS ***"
-    {
-        "chi"        "**二号闸门在10秒后打开**"
-    }
-    "*** VENT OPENING BREAKING IN 25 SECONDS ***"
-    {
-        "chi"        "**通风口在25秒后打开**"
-        "DoorCountdown"        "25"
-    }
-    "*** VENT WILL BREAK IN 5 SECONDS, GET READY TO FALL BACK ***"
-    {
-        "chi"        "**通风口在5秒后打开**"
-    }
-    "*** ELEVATOR LEAVING IN 30 SECONDS, HOLD  ZOMBIES OFF ***"
-    {
-        "chi"        "**电梯在30秒后启动，挡住僵尸**"
-        "DoorCountdown"        "30"
-    }
-    "*** ELEVATOR LEAVING IN 5 SECONDS ***"
-    {
-        "chi"        "**电梯在5秒后启动（注意自己是否在电梯上）**"
-        "DoorCountdown"        "5"
-    }
-    "*** ELEVATOR IS LEAVING, FALL BACK ***"
-    {
-        "chi"        "**电梯已启动，撤退**"
-    }
-    "*** SIDE DOOR FOR ZOMBIES IS OPEN, GO ZOMBIES GO! ***"
-    {
-        "chi"        "**僵尸通道已开启**"
-    }
-    "*** HOLD OFF THE ZOMBIES HERE FOR 15 SECONDS ***"
-    {
-        "chi"        "**防守15秒**"
-    }
-    "*** QUICK, GET TO HIGH GROUND AND ACTIVATE TOXIC CHEMICAL RELEASE! ***"
-    {
-        "chi"        "**前往高地开启，并开启有毒化学物投放**"
-    }
-    "*** ZOMBIE BARRICADE WILL BREAK IN 5 SECONDS ***"
-    {
-        "chi"        "**路障在5秒后打开**"
-    }
-    "*** TOXIC CHEMICALS WILL FLOOD CANAL IN 40 SECONDS ***"
-    {
-        "chi"        "**有毒化学物在40秒后投（不要贴边）**"
-        "DoorCountdown"        "40"
-    }
-    "*** HOLD OFF THE ZOMBIES! ***"
-    {
-        "chi"        "**挡住僵尸**"
-    }
-    "*** TOXIC CHEMICALS WILL BE RELEASED IN 10 SECONDS ***"
-    {
-        "chi"        "**有毒化学物在10秒后投放**"
-    }
-    "*** TOXIC CHEMICALS WILL BE RELEASED IN 5 SECONDS ***"
-    {
-        "chi"        "**有毒化学物在5秒后投放**"
-    }
-    "** CURRENT LEVEL: BEN SEA **"
-    {
-        "chi"        "** **"
-    }
-    "[NORMAL MODE]"
-    {
-        "chi"        "** **"
-    }
-    "***Modified by Reflelia***"
-    {
-        "chi"        "** **"
-    }
-    "***60 SECONDS LEFT***"
-    {
-        "chi"        "** **"
-    }
-    "***WARM UP ROUIND***"
-    {
-        "chi"        "** **"
-    }
-    "<< ze_surf_virtus >>"
-    {
-        "chi"        "** **"
-    }
-    "<< Fix by : Lishang >>"
-    {
-        "chi"        "** **"
-    }
+	"*** WATER ENTRIES WILL BREAK IN 40 SECONDS ***"
+	{
+		"chi"		"**污水处理通道入口在40秒后打开**"
+		"DoorCountdown"		"40"
+	}
+	"*** ENTRIES OPENING IN 5 SECONDS ***"
+	{
+		"chi"		"**污水处理通道入口在5秒后打开**"
+	}
+	"*** ENTRIES ARE NOW OPEN, FALL BACK! ***"
+	{
+		"chi"		"**入口已打开，撤退**"
+	}
+	"*** BULKHEAD DOORS OPENING IN 25 SECONDS ***"
+	{
+		"chi"		"**隔离大门在25秒后打开**"
+		"DoorCountdown"		"25"
+	}
+	"*** BULKHEAD DOORS OPENING IN 5 SECONDS ***"
+	{
+		"chi"		"***隔离大门在5秒后打开**"
+	}
+	"*** DOORS ARE OPEN, FALL BACK! ***"
+	{
+		"chi"		"**隔离大门已打开，撤退**"
+	}
+	"*** FIRST FLOOD DOOR OPENING IN 15 SECONDS ***"
+	{
+		"chi"		"**1号闸门在15秒后打开**"
+	}
+	"*** FIRST FLOOD DOOR OPENING NOW ***"
+	{
+		"chi"		"**1号闸门已打开**"
+	}
+	"*** ZOMBIES ARE SETTING UP AMBUSH, SECOND FLOOD DOOR OPENING IN 10 SECONDS ***"
+	{
+		"chi"		"**二号闸门在10秒后打开**"
+	}
+	"*** VENT OPENING BREAKING IN 25 SECONDS ***"
+	{
+		"chi"		"**通风口在25秒后打开**"
+		"DoorCountdown"		"25"
+	}
+	"*** VENT WILL BREAK IN 5 SECONDS, GET READY TO FALL BACK ***"
+	{
+		"chi"		"**通风口在5秒后打开**"
+	}
+	"*** ELEVATOR LEAVING IN 30 SECONDS, HOLD  ZOMBIES OFF ***"
+	{
+		"chi"		"**电梯在30秒后启动，挡住僵尸**"
+		"DoorCountdown"		"30"
+	}
+	"*** ELEVATOR LEAVING IN 5 SECONDS ***"
+	{
+		"chi"		"**电梯在5秒后启动（注意自己是否在电梯上）**"
+		"DoorCountdown"		"5"
+	}
+	"*** ELEVATOR IS LEAVING, FALL BACK ***"
+	{
+		"chi"		"**电梯已启动，撤退**"
+	}
+	"*** SIDE DOOR FOR ZOMBIES IS OPEN, GO ZOMBIES GO! ***"
+	{
+		"chi"		"**僵尸通道已开启**"
+	}
+	"*** HOLD OFF THE ZOMBIES HERE FOR 15 SECONDS ***"
+	{
+		"chi"		"**防守15秒**"
+	}
+	"*** QUICK, GET TO HIGH GROUND AND ACTIVATE TOXIC CHEMICAL RELEASE! ***"
+	{
+		"chi"		"**前往高地开启，并开启有毒化学物投放**"
+	}
+	"*** ZOMBIE BARRICADE WILL BREAK IN 5 SECONDS ***"
+	{
+		"chi"		"**路障在5秒后打开**"
+	}
+	"*** TOXIC CHEMICALS WILL FLOOD CANAL IN 40 SECONDS ***"
+	{
+		"chi"		"**有毒化学物在40秒后投（不要贴边）**"
+		"DoorCountdown"		"40"
+	}
+	"*** HOLD OFF THE ZOMBIES! ***"
+	{
+		"chi"		"**挡住僵尸**"
+	}
+	"*** TOXIC CHEMICALS WILL BE RELEASED IN 10 SECONDS ***"
+	{
+		"chi"		"**有毒化学物在10秒后投放**"
+	}
+	"*** TOXIC CHEMICALS WILL BE RELEASED IN 5 SECONDS ***"
+	{
+		"chi"		"**有毒化学物在5秒后投放**"
+	}
+	"** CURRENT LEVEL: BEN SEA **"
+	{
+		"chi"		"** **"
+	}
+	"[NORMAL MODE]"
+	{
+		"chi"		"** **"
+	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***60 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***WARM UP ROUIND***"
+	{
+		"chi"		"** **"
+	}
+	"<< ze_surf_virtus >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Fix by : Lishang >>"
+	{
+		"chi"		"** **"
+	}
 }

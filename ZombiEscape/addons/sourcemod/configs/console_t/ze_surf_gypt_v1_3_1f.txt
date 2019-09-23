@@ -1,216 +1,216 @@
 "Console_T"
 {
-    "*** ELEVATOR LEAVING IN 15 SECONDS ***"
-    {
-        "chi"        "**电梯将在15s后离开**"
-    }
-    "*** ELEVATOR LEAVING IN 5 SECONDS ***"
-    {
-        "chi"        "**电梯将在5s后离开**"
-    }
-    "*** GO TO WHERE THE GREEN LIGHT IS SHINING! ***"
-    {
-        "chi"        "**进入一个绿光传送通道**"
-    }
-    "*** ZOMBIES WILL BE RELEASED SOON, SURF AWAY! ***"
-    {
-        "chi"        "**僵尸马上追上来了，快滑！**"
-    }
-    "*** ACTIVATE C4 ON THE DOOR TO CONTINUE ***"
-    {
-        "chi"        "**激活门上的C4**"
-    }
-    "*** WOODEN BLOCK WILL BE DESTROYED SOON, ACTIVATE C4 WHEN POSSIBLE! ***"
-    {
-        "chi"        "**木门即将打开，再坚持一会**"
-    }
-    "*** 5 SECONDS LEFT UNTIL DETONATION! ***"
-    {
-        "chi"        "**还剩5s**"
-    }
-    "*** C4 DETONATED, GO GO GO! ***"
-    {
-        "chi"        "**门开了**"
-    }
-    "*** ACTIVATE THE CONSOLE AFTER THE LAVA***"
-    {
-        "chi"        "**快去按开关**"
-    }
-    "*** WALL WILL BREAK DOWN IN 30 SECONDS *** DEFEND THE LAVA ***"
-    {
-        "chi"        "**路将在30s后打开，守住岩浆池**"
-        "DoorCountDown"        "30"
-    }
-    "*** WALL BREAKS IN 5 SECONDS ***"
-    {
-        "chi"        "**5s后门开**"
-    }
-    "*** WALL HAS BROKEN DOWN, RUN TO THE TELEPORT ***"
-    {
-        "chi"        "**路开了，快进传送**"
-    }
-    "*** ZOMBIE TELEPORT IN 16 SECONDS ***"
-    {
-        "chi"        "**僵尸将在12s后传送**"
-    }
-    "*** HOLD UNTIL WE GET TELEPORTED ***"
-    {
-        "chi"        "**守住，马上传送**"
-    }
-    "*** THIS MAP HAS BEEN CREATED BY  --- FuTuRe ---"
-    {
-        "chi"        "**地图作者：FuTuRe 地图翻译：清新的二哈♪**"
-    }
-    "*** EXPLOSIVES HAVE BEEN SET, DETONATION WILL FOLLOW SOON! ***"
-    {
-        "chi"        "**C4已经激活**"
-    }
-    "*** ZOMBIE TELEPORT IN 8 SECONDS ***"
-    {
-        "chi"        "**僵尸将在8s后传送**"
-    }
-    "*** ZOMBIE TELEPORT INCOMING SHORTLY! ***"
-    {
-        "chi"        "**僵尸即将传送**"
-    }
-    "*** GATE ON RAMP WILL OPEN SOON ***"
-    {
-        "chi"        "**栅栏门即将打开**"
-    }
-    "*** PRESS BUTTON ON THE CONSOLE TO ENABLE THE ELEVATOR ***"
-    {
-        "chi"        "**按下开关启动电梯**"
-    }
-    "*** ELEVATOR ACTIVATED, LEAVING IN 30 SECONDS ***"
-    {
-        "chi"        "**电梯将在30s后离开**"
-    }
-    "*** ELEVATOR LEAVING IN 20 SECONDS ***"
-    {
-        "chi"        "**电梯将在20s后离开**"
-    }
-    "*** ELEVATOR LEAVING IN 10 SECONDS ***"
-    {
-        "chi"        "**电梯将在10s后离开**"
-    }
-    "*** ELEVATOR LEAVING IN 3 SECONDS ***"
-    {
-        "chi"        "**电梯将在3s后离开**"
-    }
-    "*** HOLD HERE FOR 25 SECONDS UNTIL GLASS WALL APPEARS ***"
-    {
-        "chi"        "**守住25s**"
-    }
-    "*** GO GO GO, ZOMBIES RELEASED SHORTLY ***"
-    {
-        "chi"        "**快跑**"
-    }
-    "*** ZOMBIES RELEASED ***"
-    {
-        "chi"        "**僵尸要来了**"
-    }
-    "*** DOORS BREAK IN 30 SECONDS ***"
-    {
-        "chi"        "**30s后门开**"
-    }
-    "*** DOORS BREAK IN 5 SECONDS ***"
-    {
-        "chi"        "**5s后门开**"
-    }
-    "*** FINAL DOOR OPENS IN 20 SECONDS ***"
-    {
-        "chi"        "**最后的大门将在20s后打开**"
-    }
-    "*** DOOR IS OPENING, IT WILL CLOSE IN 20 SECONDS ***"
-    {
-        "chi"        "**门开了，守住20s**"
-    }
-    "*** DOOR CLOSING IN 5 SECONDS ***"
-    {
-        "chi"        "**5s后门关**"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "27868"
-    }
-    "*** LAST DOOR WILL CLOSE IN 30 SECONDS ***"
-    {
-        "chi"        "**最后的大门将在30s后关闭**"
-    }
-    "*** BOXES SHORTCUT WILL OPEN IN 10 SECONDS ***"
-    {
-        "chi"        "**箱子侧路将在10s后打开**"
-    }
-    "*** THERE IS ALSO A SPECIAL SKIN THANKS TO [Pompje] ***"
-    {
-        "chi"        "**你可以找到一个地图皮肤（特别感谢 Pompje）**"
-    }
-    "*** THERE 3 GUNS THAT GIVE A COLOURED TRAIL, GL FINDING THEM ***"
-    {
-        "chi"        "**地图里有3把彩色枪，你可以找到它们**"
-    }
-    "*** PLAYER HAS PICKED UP RED TRAIL ***"
-    {
-        "chi"        "**红色彩线枪已被拾取 **"
-    }
-    "*** PLAYER HAS PICKED UP BLUE TRAIL ***"
-    {
-        "chi"        "**蓝色彩线枪已被拾取 **"
-    }
-    "*** SOMEONE HAS PICKED UP [Pompjes Pizza Boye] ***"
-    {
-        "chi"        "**皮肤已被拾取 **"
-    }
-    "*** PLAYER HAS PICKED UP GREEN TRAIL ***"
-    {
-        "chi"        "**绿色彩线枪已被拾取 **"
-    }
-    "Thanks test play POSSESSION server!!"
-    {
-        "chi"        "** **"
-    }
-    "Map made by Ocelot"
-    {
-        "chi"        "** **"
-    }
-    "map by Amx"
-    {
-        "chi"        "** **"
-    }
-    ">> Map by TaskuVaras and Moltard <<"
-    {
-        "chi"        "** **"
-    }
-    "*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
-    {
-        "chi"        "** **"
-    }
-    "*** map created by thas ***"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Reflelia***"
-    {
-        "chi"        "** **"
-    }
-    "<< ze_surf_virtus >>"
-    {
-        "chi"        "** **"
-    }
-    "<< Fix by : Lishang >>"
-    {
-        "chi"        "** **"
-    }
-    "*** SOMEONE HAS PICKED UP [Pompje's Pizza Boye] ***"
-    {
-        "chi"        "** **"
-    }
-    "** ZE_SUPERSHITSHOW **"
-    {
-        "chi"        "** **"
-    }
-    "** A mode will be chosen shortly... **"
-    {
-        "chi"        "** **"
-    }
+	"*** ELEVATOR LEAVING IN 15 SECONDS ***"
+	{
+		"chi"		"**电梯将在15s后离开**"
+	}
+	"*** ELEVATOR LEAVING IN 5 SECONDS ***"
+	{
+		"chi"		"**电梯将在5s后离开**"
+	}
+	"*** GO TO WHERE THE GREEN LIGHT IS SHINING! ***"
+	{
+		"chi"		"**进入一个绿光传送通道**"
+	}
+	"*** ZOMBIES WILL BE RELEASED SOON, SURF AWAY! ***"
+	{
+		"chi"		"**僵尸马上追上来了，快滑！**"
+	}
+	"*** ACTIVATE C4 ON THE DOOR TO CONTINUE ***"
+	{
+		"chi"		"**激活门上的C4**"
+	}
+	"*** WOODEN BLOCK WILL BE DESTROYED SOON, ACTIVATE C4 WHEN POSSIBLE! ***"
+	{
+		"chi"		"**木门即将打开，再坚持一会**"
+	}
+	"*** 5 SECONDS LEFT UNTIL DETONATION! ***"
+	{
+		"chi"		"**还剩5s**"
+	}
+	"*** C4 DETONATED, GO GO GO! ***"
+	{
+		"chi"		"**门开了**"
+	}
+	"*** ACTIVATE THE CONSOLE AFTER THE LAVA***"
+	{
+		"chi"		"**快去按开关**"
+	}
+	"*** WALL WILL BREAK DOWN IN 30 SECONDS *** DEFEND THE LAVA ***"
+	{
+		"chi"		"**路将在30s后打开，守住岩浆池**"
+		"DoorCountDown"		"30"
+	}
+	"*** WALL BREAKS IN 5 SECONDS ***"
+	{
+		"chi"		"**5s后门开**"
+	}
+	"*** WALL HAS BROKEN DOWN, RUN TO THE TELEPORT ***"
+	{
+		"chi"		"**路开了，快进传送**"
+	}
+	"*** ZOMBIE TELEPORT IN 16 SECONDS ***"
+	{
+		"chi"		"**僵尸将在12s后传送**"
+	}
+	"*** HOLD UNTIL WE GET TELEPORTED ***"
+	{
+		"chi"		"**守住，马上传送**"
+	}
+	"*** THIS MAP HAS BEEN CREATED BY  --- FuTuRe ---"
+	{
+		"chi"		"**地图作者：FuTuRe 地图翻译：清新的二哈♪**"
+	}
+	"*** EXPLOSIVES HAVE BEEN SET, DETONATION WILL FOLLOW SOON! ***"
+	{
+		"chi"		"**C4已经激活**"
+	}
+	"*** ZOMBIE TELEPORT IN 8 SECONDS ***"
+	{
+		"chi"		"**僵尸将在8s后传送**"
+	}
+	"*** ZOMBIE TELEPORT INCOMING SHORTLY! ***"
+	{
+		"chi"		"**僵尸即将传送**"
+	}
+	"*** GATE ON RAMP WILL OPEN SOON ***"
+	{
+		"chi"		"**栅栏门即将打开**"
+	}
+	"*** PRESS BUTTON ON THE CONSOLE TO ENABLE THE ELEVATOR ***"
+	{
+		"chi"		"**按下开关启动电梯**"
+	}
+	"*** ELEVATOR ACTIVATED, LEAVING IN 30 SECONDS ***"
+	{
+		"chi"		"**电梯将在30s后离开**"
+	}
+	"*** ELEVATOR LEAVING IN 20 SECONDS ***"
+	{
+		"chi"		"**电梯将在20s后离开**"
+	}
+	"*** ELEVATOR LEAVING IN 10 SECONDS ***"
+	{
+		"chi"		"**电梯将在10s后离开**"
+	}
+	"*** ELEVATOR LEAVING IN 3 SECONDS ***"
+	{
+		"chi"		"**电梯将在3s后离开**"
+	}
+	"*** HOLD HERE FOR 25 SECONDS UNTIL GLASS WALL APPEARS ***"
+	{
+		"chi"		"**守住25s**"
+	}
+	"*** GO GO GO, ZOMBIES RELEASED SHORTLY ***"
+	{
+		"chi"		"**快跑**"
+	}
+	"*** ZOMBIES RELEASED ***"
+	{
+		"chi"		"**僵尸要来了**"
+	}
+	"*** DOORS BREAK IN 30 SECONDS ***"
+	{
+		"chi"		"**30s后门开**"
+	}
+	"*** DOORS BREAK IN 5 SECONDS ***"
+	{
+		"chi"		"**5s后门开**"
+	}
+	"*** FINAL DOOR OPENS IN 20 SECONDS ***"
+	{
+		"chi"		"**最后的大门将在20s后打开**"
+	}
+	"*** DOOR IS OPENING, IT WILL CLOSE IN 20 SECONDS ***"
+	{
+		"chi"		"**门开了，守住20s**"
+	}
+	"*** DOOR CLOSING IN 5 SECONDS ***"
+	{
+		"chi"		"**5s后门关**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"27868"
+	}
+	"*** LAST DOOR WILL CLOSE IN 30 SECONDS ***"
+	{
+		"chi"		"**最后的大门将在30s后关闭**"
+	}
+	"*** BOXES SHORTCUT WILL OPEN IN 10 SECONDS ***"
+	{
+		"chi"		"**箱子侧路将在10s后打开**"
+	}
+	"*** THERE IS ALSO A SPECIAL SKIN THANKS TO [Pompje] ***"
+	{
+		"chi"		"**你可以找到一个地图皮肤（特别感谢 Pompje）**"
+	}
+	"*** THERE 3 GUNS THAT GIVE A COLOURED TRAIL, GL FINDING THEM ***"
+	{
+		"chi"		"**地图里有3把彩色枪，你可以找到它们**"
+	}
+	"*** PLAYER HAS PICKED UP RED TRAIL ***"
+	{
+		"chi"		"**红色彩线枪已被拾取 **"
+	}
+	"*** PLAYER HAS PICKED UP BLUE TRAIL ***"
+	{
+		"chi"		"**蓝色彩线枪已被拾取 **"
+	}
+	"*** SOMEONE HAS PICKED UP [Pompjes Pizza Boye] ***"
+	{
+		"chi"		"**皮肤已被拾取 **"
+	}
+	"*** PLAYER HAS PICKED UP GREEN TRAIL ***"
+	{
+		"chi"		"**绿色彩线枪已被拾取 **"
+	}
+	"Thanks test play POSSESSION server!!"
+	{
+		"chi"		"** **"
+	}
+	"Map made by Ocelot"
+	{
+		"chi"		"** **"
+	}
+	"map by Amx"
+	{
+		"chi"		"** **"
+	}
+	">> Map by TaskuVaras and Moltard <<"
+	{
+		"chi"		"** **"
+	}
+	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+	{
+		"chi"		"** **"
+	}
+	"*** map created by thas ***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"<< ze_surf_virtus >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Fix by : Lishang >>"
+	{
+		"chi"		"** **"
+	}
+	"*** SOMEONE HAS PICKED UP [Pompje's Pizza Boye] ***"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_SUPERSHITSHOW **"
+	{
+		"chi"		"** **"
+	}
+	"** A mode will be chosen shortly... **"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,123 +1,127 @@
 "Console_T"
 {
-    "<<MAP BY Shinsengumi00>>"
-    {
-        "chi"        "** **"
-    }
-    "<<With Special Thanks to Moo.TheDoctor>>"
-    {
-        "chi"        "** **"
-    }
-    "<<DOOR BREAKS IN 30 SECONDS>>"
-    {
-        "chi"        "** **"
-    }
-    "<<MINE DETONATION IN 30 SECONDS>>"
-    {
-        "chi"        "** **"
-    }
-    "<<WALL IS DESTROYED>>"
-    {
-        "chi"        "** **"
-    }
-    "<<LASERS DISABLING IN 30 SECONDS>>"
-    {
-        "chi"        "** **"
-    }
-    "<<LASERS ARE DISABLED>>"
-    {
-        "chi"        "** **"
-    }
-    "<<MINES DETONATION IN 20 SECONDS>>"
-    {
-        "chi"        "** **"
-    }
-    "<<SPAWN ADVANCE IN 15 SECONDS>>"
-    {
-        "chi"        "** **"
-    }
-    "<<BOULDERS DETONATION IN 40 SECONDS>>"
-    {
-        "chi"        "** **"
-    }
-    "<<ZOMBIES ARE BLOCKED FOR 5 SECONDS>>"
-    {
-        "chi"        "** **"
-    }
-    "<<HIDDEN DOOR OPENS IN 35 SECONDS>>"
-    {
-        "chi"        "** **"
-    }
-    "<<HIDDEN DOOR OPENS IN 5 SECONDS>>"
-    {
-        "chi"        "** **"
-    }
-    "<<CLIMB THE STRUCTURE>>"
-    {
-        "chi"        "** **"
-    }
-    "<<FINAL SPAWN ADVANCE IN 35 SECONDS>>"
-    {
-        "chi"        "** **"
-    }
-    "<<DESTRUCTION OF THE REACTOR IN 75 SECONDS>>"
-    {
-        "chi"        "** **"
-    }
-    "<<CHICKENS FLYING AWAY IN 65 SECONDS>>"
-    {
-        "chi"        "** **"
-    }
-    "<<CHICKENS FLYING AWAY IN 5 SECONDS>>"
-    {
-        "chi"        "** **"
-    }
-    "<<DESTRUCTION OF THE REACTOR IN 5 SECONDS>>"
-    {
-        "chi"        "** **"
-    }
-    "<<4>>"
-    {
-        "chi"        "** **"
-    }
-    "<<3>>"
-    {
-        "chi"        "** **"
-    }
-    "<<2>>"
-    {
-        "chi"        "** **"
-    }
-    "<<1>>"
-    {
-        "chi"        "** **"
-    }
-    "**stage 1**"
-    {
-        "chi"        "** **"
-    }
-    "**welcome to ze_fat_hours_escape**"
-    {
-        "chi"        "** **"
-    }
-    "**map by yinyuehzixi**"
-    {
-        "chi"        "** **"
-    }
-    "**ZE_DARK_SOULS**"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Luffaren***"
-    {
-        "chi"        "** **"
-    }
-    "***CURRENT DIFFICULTY IS NORMAL***"
-    {
-        "chi"        "** **"
-    }
-    "**map by koyomaple**"
-    {
-        "chi"        "** **"
-    }
+	"<<MAP BY Shinsengumi00>>"
+	{
+		"chi"		">>>地图作者： Shinsengumi00 地图翻译：叶巷<<<"
+	}
+	"<<With Special Thanks to Moo.TheDoctor>>"
+	{
+		"chi"		"** **"
+	}
+	"<<DOOR BREAKS IN 30 SECONDS>>"
+	{
+		"chi"		">>>30s后开门<<<"
+	}
+	"<<MINE DETONATION IN 30 SECONDS>>"
+	{
+		"chi"		">>>墙会在30s后爆炸<<<"
+	}
+	"<<WALL IS DESTROYED>>"
+	{
+		"chi"		">>>墙开了！<<<"
+	}
+	"<<LASERS DISABLING IN 30 SECONDS>>"
+	{
+		"chi"		">>>激光在30s后失效<<<"
+	}
+	"<<LASERS ARE DISABLED>>"
+	{
+		"chi"		">>>激光消失了！<<<"
+	}
+	"<<MINES DETONATION IN 20 SECONDS>>"
+	{
+		"chi"		">>>墙会在20s后爆炸<<<"
+	}
+	"<<SPAWN ADVANCE IN 15 SECONDS>>"
+	{
+		"chi"		">>>僵尸将会在15s后传送<<<"
+	}
+	"<<BOULDERS DETONATION IN 40 SECONDS>>"
+	{
+		"chi"		">>>石头在40s后爆炸<<<"
+	}
+	"<<ZOMBIES ARE BLOCKED FOR 5 SECONDS>>"
+	{
+		"chi"		">>>僵尸将被阻挡5s<<<"
+	}
+	"<<HIDDEN DOOR OPENS IN 35 SECONDS>>"
+	{
+		"chi"		">>>门在35s后打开<<<"
+	}
+	"<<HIDDEN DOOR OPENS IN 5 SECONDS>>"
+	{
+		"chi"		">>>门在5s后打开<<<"
+	}
+	"<<CLIMB THE STRUCTURE>>"
+	{
+		"chi"		">>>向上爬吧 骚年们！<<<"
+	}
+	"<<FINAL SPAWN ADVANCE IN 35 SECONDS>>"
+	{
+		"chi"		">>>35s后僵尸传送<<<"
+	}
+	"<<DESTRUCTION OF THE REACTOR IN 75 SECONDS>>"
+	{
+		"chi"		">>>反应堆将在75s后爆炸<<<"
+	}
+	"<<CHICKENS FLYING AWAY IN 65 SECONDS>>"
+	{
+		"chi"		">>>小鸡将在65s后飞走<<<"
+	}
+	"<<CHICKENS FLYING AWAY IN 5 SECONDS>>"
+	{
+		"chi"		">>>小鸡将在5s后飞走<<<"
+	}
+	"<<DESTRUCTION OF THE REACTOR IN 5 SECONDS>>"
+	{
+		"chi"		">>>反应堆将在5s后爆炸<<<"
+	}
+	"<<4>>"
+	{
+		"chi"		">>>4s<<<"
+	}
+	"<<3>>"
+	{
+		"chi"		">>>3s<<<"
+	}
+	"<<2>>"
+	{
+		"chi"		">>>2s<<<"
+	}
+	"<<1>>"
+	{
+		"chi"		">>>1s<<<"
+	}
+	"**Stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"**welcome to ze_fat_hours_escape**"
+	{
+		"chi"		"** **"
+	}
+	"**map by yinyuehzixi**"
+	{
+		"chi"		"** **"
+	}
+	"**ZE_DARK_SOULS**"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Luffaren***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT DIFFICULTY IS NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"**map by koyomaple**"
+	{
+		"chi"		"** **"
+	}
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"chi"		"** **"
+	}
 }

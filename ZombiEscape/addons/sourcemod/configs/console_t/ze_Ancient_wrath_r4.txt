@@ -1,0 +1,359 @@
+"Console_T"
+{
+	"||| WARMUP ROUND |||"
+	{
+		"chi"		"**热身回合 **"
+	}
+	"||| CHAPTER 1 => RETURN |||"
+	{
+		"chi"		"**第1章=>回归 **"
+	}
+	"||| HOLD FOR 30 SECONDS |||"
+	{
+		"chi"		"**坚持30秒 **"
+		"DoorCountDown"		"30"
+	}
+	"||| FALL BACK |||"
+	{
+		"chi"		"**撤退 **"
+	}
+	"||| PRESS BOTH BUTTONS AT THE SAME TIME |||"
+	{
+		"chi"		"**同时按两个按钮才能打开门 **"
+	}
+	"||| HOLD FOR 20 SECONDS |||"
+	{
+		"chi"		"**坚持20秒 **"
+		"DoorCountDown"		"20"
+	}
+	"||| ELEVATOR OPENS IN 25 SECONDS |||"
+	{
+		"chi"		"**电梯25秒后离开 **"
+		"DoorCountDown"		"25"
+	}
+	"||| HOLD FOR 10 SECONDS |||"
+	{
+		"chi"		"**坚持10秒 **"
+		"DoorCountDown"		"10"
+	}
+	"||| DOOR IS CLOSING |||"
+	{
+		"chi"		"**门被关闭 **"
+	}
+	"||| HOLD THE ELEVATOR FOR 25 SECONDS |||"
+	{
+		"chi"		"**守住电梯25秒 **"
+		"DoorCountDown"		"25"
+	}
+	"||| ZOMBIES TAKE THE STAIRS |||"
+	{
+		"chi"		"**僵尸走楼梯 **"
+	}
+	"||| RUN BACK OUT THE FACILITY |||"
+	{
+		"chi"		"**返回工厂 **"
+	}
+	"||| SHOOT THE SECOND DOOR OPEN |||"
+	{
+		"chi"		"**射击第二道门 **"
+	}
+	"||| ZOMBIE HELICOPTER - WIN DISABLE |||"
+	{
+		"chi"		"**僵尸胜利 — 直升机禁用 **"
+	}
+	"<Rift gun has been acquired>"
+	{
+		"chi"		"**电已被拿起 **"
+	}
+	"<Tornado gun has been acquired>"
+	{
+		"chi"		"**风已被拿起 **"
+	}
+	"<Growth gun has been acquired>"
+	{
+		"chi"		"**墙已被拿起 **"
+	}
+	"<Ammo gun has been acquired>"
+	{
+		"chi"		"**无限子弹已被拿起 **"
+	}
+	"<Inferno gun has been acquired>"
+	{
+		"chi"		"**火已被拿起 **"
+	}
+	"||| CHAPTER 2 => SECURE |||"
+	{
+		"chi"		"**第2章=>保密 **"
+		"command"		"sv_airaccelerate 12"
+	}
+	"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
+	{
+		"chi"		"**传送门和通风管在15秒后激活 **"
+		"DoorCountDown"		"15"
+	}
+	"||| DISABLE BOTH SECURITY STATIONS |||"
+	{
+		"chi"		"**安全检查站已被禁用 **"
+	}
+	"||| FIRST SECURITY STATION HAS BEEN DISABLED |||"
+	{
+		"chi"		"**第一个安全站已被禁用 **"
+	}
+	"||| C4 EXPLODE IN 15 SECONDS |||"
+	{
+		"chi"		"**C4将在15秒后爆炸（不要贴门）**"
+		"DoorCountDown"		"15"
+	}
+	"||| C4 EXPLODE IN 5 SECONDS |||"
+	{
+		"chi"		"**C4将在5秒后爆炸（不要贴门）**"
+		"DoorCountDown"		"5"
+	}
+	"||| C4 EXPLODE IN 10 SECONDS |||"
+	{
+		"chi"		"**C4将在10秒后爆炸（不要贴门）**"
+		"DoorCountDown"		"10"
+	}
+	"||| SECOND SECURITY STATION HAS BEEN DISABLED |||"
+	{
+		"chi"		"**第二安全站已禁用 **"
+	}
+	"||| BOTH BUTTONS WERE PRESSED |||"
+	{
+		"chi"		"**两个按钮被按下 **"
+	}
+	"||| BRIDGE EXTEND IN 20 SECONDS |||"
+	{
+		"chi"		"**桥将在20秒后延伸完毕 **"
+		"DoorCountDown"		"30"
+	}
+	"||| HOLD FOR 15 SECONDS |||"
+	{
+		"chi"		"**坚持15秒 **"
+		"DoorCountDown"		"15"
+	}
+	"||| TRAINS WILL LEAVE IN 20 SECONDS |||"
+	{
+		"chi"		"**火车将在20秒后离开 **"
+		"DoorCountDown"		"20"
+	}
+	"||| DEFEND THE ABOVE THE TRAINS |||"
+	{
+		"chi"		"**保护下面的火车 **"
+		"command"		"sv_airaccelerate 150"
+	}
+	"||| STAGE 2 FINISHED |||"
+	{
+		"chi"		"**第二关完成 **"
+	}
+	"||| CHAPTER 3 => AWAKENING |||"
+	{
+		"chi"		"**第3章=>觉醒 **"
+		"command"		"sv_airaccelerate 12"
+	}
+	"||| ELEVATOR LEAVES IN 25 SECONDS |||"
+	{
+		"chi"		"**电梯25秒后离开 **"
+		"DoorCountDown"		"25"
+	}
+	"||| ELEVATOR LEAVES IN 5 SECONDS |||"
+	{
+		"chi"		"**电梯5秒后离开 **"
+		"DoorCountDown"		"5"
+	}
+	"||| ELEVATOR LEAVES IN 10 SECONDS |||"
+	{
+		"chi"		"**电梯10秒后离开 **"
+		"DoorCountDown"		"10"
+	}
+	"||| SHOOT THE ENERGY BEAMS AND DEFEND THE ZOMBIES |||"
+	{
+		"chi"		"**射击能量束和防御僵尸 **"
+		"ico"		"icon_fire"
+	}
+	"||| SHOOT THE CONTAINER |||"
+	{
+		"chi"		"**射击容器 **"
+		"ico"		"icon_fire"
+	}
+	"||| CORE EXPLODES IN 170 SECONDS |||"
+	{
+		"chi"		"**核心将在170秒后爆炸 **"
+		"ico"		"icon_fire"
+	}
+	"||| CORE EXPLODES IN 100 SECONDS |||"
+	{
+		"chi"		"**核心将在100秒后爆炸 **"
+		"ico"		"icon_fire"
+	}
+	"||| CORE EXPLODES IN 80 SECONDS |||"
+	{
+		"chi"		"**核心将在80秒后爆炸 **"
+		"ico"		"icon_fire"
+	}
+	"||| CORE EXPLODES IN 60 SECONDS |||"
+	{
+		"chi"		"**核心将在60秒后爆炸 **"
+		"ico"		"icon_fire"
+	}
+	"||| DOOR OPENS IN 20 SECONDS |||"
+	{
+		"chi"		"**门20秒后打开 **"
+		"DoorCountDown"		"20"
+	}
+	"||| CORE EXPLODES IN 40 SECONDS |||"
+	{
+		"chi"		"**核心将在40秒后爆炸 **"
+		"ico"		"icon_fire"
+	}
+	"||| DOOR IS OPENING |||"
+	{
+		"chi"		"**门开了 **"
+	}
+	"||| CORE EXPLODES IN 20 SECONDS |||"
+	{
+		"chi"		"**核心将在20秒后爆炸 **"
+		"ico"		"icon_fire"
+	}
+	"||| CORE EXPLODES IN 10 SECONDS |||"
+	{
+		"chi"		"**核心将在10秒后爆炸 **"
+		"ico"		"icon_fire"
+	}
+	"||| DOOR IS OPENING|||"
+	{
+		"chi"		"**门开了 **"
+	}
+	"||| CORE EXPLODES IN 5 SECONDS |||"
+	{
+		"chi"		"**核心将在5秒后爆炸 **"
+	}
+	"||| CORE EXPLODES IN 4 SECONDS |||"
+	{
+		"chi"		"**核心将在4秒后爆炸 **"
+	}
+	"||| CORE EXPLODES IN 3 SECONDS |||"
+	{
+		"chi"		"**核心将在3秒后爆炸 **"
+	}
+	"||| CORE EXPLODES IN 2 SECONDS |||"
+	{
+		"chi"		"**核心将在2秒后爆炸 **"
+	}
+	"||| CORE EXPLODES IN 1 SECONDS |||"
+	{
+		"chi"		"**核心将在1秒后爆炸 **"
+	}
+	"||| HOLD THE BRIDGE |||"
+	{
+		"chi"		"**守住桥 **"
+	}
+	"||| STAGE 3 FINISHED |||"
+	{
+		"chi"		"**第三关完成 **"
+	}
+	"||| CHAPTER 4 => SHOWDOWN |||"
+	{
+		"chi"		"**第4章=>决胜**"
+	}
+	"||| DEFEND THE TOP FOR 30 SECONDS |||"
+	{
+		"chi"		"**防守30秒 **"
+		"DoorCountDown"		"30"
+	}
+	"||| PREPARE TO FALL BACK |||"
+	{
+		"chi"		"**准备后退 **"
+	}
+	"||| DESTROY BOTH ELEVATOR BUTTONS |||"
+	{
+		"chi"		"**破坏两个电梯按钮 **"
+	}
+	"||| ELEVATOR LEAVES IN 15 SECONDS |||"
+	{
+		"chi"		"**电梯15秒后离开 **"
+		"DoorCountDown"		"15"
+	}
+	"||| !!!WARNING!!! DANGER FROM ABOVE |||"
+	{
+		"chi"		"**！！！警告！！！天花板上有东西掉下来了（快躲避） **"
+		"ico"		"icon_fire"
+	}
+	"||| POWER WILL BE RESTORED IN 25 SECONDS <SURVIVE> |||"
+	{
+		"chi"		"**电力将在25秒内恢复<生存> **"
+		"DoorCountDown"		"25"
+	}
+	"||| POWER IS RESTORED... DOORS OPEN SOON |||"
+	{
+		"chi"		"**电力恢复...门即将打开 **"
+	}
+	"||| THE DOORS ARE OPENING |||"
+	{
+		"chi"		"**门正在打开 **"
+	}
+	"||| THE VIRUS NEED TO STAY IN THE FACILITY FOR THE FINAL AIRSTRIKE |||"
+	{
+		"chi"		"**这种病毒需要待在工厂等待核爆 **"
+	}
+	"||| YOU FAILED |||"
+	{
+		"chi"		"**你失败了 **"
+	}
+	"||| AIRSTRIKE INCOMING |||"
+	{
+		"chi"		"**核爆来袭 **"
+	}
+	"||| ZOMBIE TRAIN - WIN DISABLE |||"
+	{
+		"chi"		"**僵尸胜利 — 火车禁用 **"
+	}
+	"||| DONT LET THE VIRUS SPREAD |||"
+	{
+		"chi"		"**别让病毒传播出去**"
+	}
+	"<Stage 4>"
+	{
+		"chi"		">>>< 第四关 ><<<"
+	}
+	">>NUKE<<ADMINROOM NUKE ACTIVATED>>NUKE<<"
+	{
+		"chi"		"** **"
+	}
+	"||| YOU WIN |||"
+	{
+		"chi"		"**||| 你赢了 |||**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"7821"
+	}
+	"*** MAP BY STRUPPI ***"
+	{
+		"chi"		"** **"
+	}
+	"<Stage 3>"
+	{
+		"chi"		"** **"
+	}
+	"**level 1**"
+	{
+		"chi"		"** **"
+	}
+	"**Map By Batnik_Reference.smd and ShotT **"
+	{
+		"chi"		"** **"
+	}
+	"<< ze_surf_virtus >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Fix by : Lishang >>"
+	{
+		"chi"		"** **"
+	}
+	"+++  MAP MADE BY GARGANTUA +++"
+	{
+		"chi"		"** **"
+	}
+}

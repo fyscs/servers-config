@@ -1,346 +1,346 @@
 "Console_T"
 {
-    "### TOUCH ALL 4 STATUES TO ACTIVATE TELEPORT ###"
-    {
-        "chi"        "### 触摸四个雕像激活传送 ###"
-    }
-    "### TELEPORT ALL HUMAN IN 20 SECONDS ###"
-    {
-        "chi"        "### 将在 20 秒后传送所有人类 ###"
-    }
-    "### CLIMB TO THE TOP OF THE PYRAMID ###"
-    {
-        "chi"        "### 爬到金字塔顶端 ###"
-    }
-    "### ZOMBIES INCOMING IN 5 SECONDS ###"
-    {
-        "chi"        "### 僵尸将在 5 秒钟后到来 ###"
-    }
-    "### HOLD THIS PYRAMID FOR 60 SECONDS ###"
-    {
-        "chi"        "### 守住金字塔 60 秒 ###"
-    }
-    "### HOLD THIS PYRAMID FOR 30 SECONDS ###"
-    {
-        "chi"        "### 守住金字塔 30 秒 ###"
-    }
-    "### STAY AT THE TOP OF PYRAMID FOR TELEPORT !! ###"
-    {
-        "chi"        "### 呆在金字塔顶端等待传送!! ###"
-    }
-    "### TELEPORT IN 5 SECONDS ###"
-    {
-        "chi"        "### 5 秒后传送 ###"
-    }
-    "### CLIMB TO THE TOP OF TOWER BEFORE IT COLLAPSE ###"
-    {
-        "chi"        "### 在平台崩塌之前抵达塔顶 ###"
-    }
-    "### ZOMBIES INCOMING IN 15 SECONDS ###"
-    {
-        "chi"        "### 僵尸将在 15 秒后抵达 ###"
-    }
-    "### GET ON TOP HERE TELEPORT IN  30 SECONDS ###"
-    {
-        "chi"        "### 坚守 30 秒 ###"
-    }
-    "### 10 MORE SECONDS QUICKK !!! ###"
-    {
-        "chi"        "### 还有 10 秒,抓紧时间!! ###"
-    }
-    "### ZOMBIES FENCE BREAKS IN 10 SECONDS ###"
-    {
-        "chi"        "### 10 秒钟后丧尸出笼 ###"
-    }
-    "### HUMANS FENCE BREAKS IN 5 SECONDS ###"
-    {
-        "chi"        "### 隔墙将在 5 秒后破碎 ###"
-    }
-    "### JUST !! RUNNNNNN LOL !!! ###"
-    {
-        "chi"        "### 就是冲!!!!###"
-    }
-    "### HOLD HERE FOR 30 SECONDS ###"
-    {
-        "chi"        "### 守住 30 秒 ###"
-    }
-    "### 10 SECONDS REMAINING ###"
-    {
-        "chi"        "### 还剩下 10 秒 ###"
-    }
-    "### THERE ARE TRAPS SOO BEWARE !! ###"
-    {
-        "chi"        "### 这里有很多陷阱!! ###"
-    }
-    "### HUMAN NEEDS TO PRESS ALL THE BUTTON ###"
-    {
-        "chi"        "### 人类需要按下所有开关 ###"
-    }
-    "### TO BREAK THE TELEPORT DOOR ###"
-    {
-        "chi"        "### 打破传送门 ###"
-    }
-    "### ZOMBIES FENCE BREAK IN 10 SECONDS ###"
-    {
-        "chi"        "### 10 秒钟后丧尸出笼 ###"
-    }
-    "### ALL BUTTONS HAVE BEEN PRESSED ###"
-    {
-        "chi"        "### 所有按钮被按下 ###"
-    }
-    "### CROSS THE PLATFORM BEFORE IT DISAPPEARS !! ###"
-    {
-        "chi"        "### 在桥梁消失之前穿越过去 ###"
-    }
-    "### PREPARE FOR BATTLE !! ###"
-    {
-        "chi"        "### 准备战斗!! ###"
-    }
-    "### FEEL MY LOVE ###"
-    {
-        "chi"        "### 感受我的爱~ ###"
-    }
-    "### FEEL MY PAIN ###"
-    {
-        "chi"        "### 感受我的疼痛 ###"
-    }
-    "### THIS IS NOT THE END !! ###"
-    {
-        "chi"        "### 这还不算完!! ###"
-    }
-    "### HOLD UNTIL SOMETHING HAPPENS ###"
-    {
-        "chi"        "### 坚持到某件事情发生 ###"
-    }
-    "### DEFEND 4 STATUES FOR 60 SECONDS!! ###"
-    {
-        "chi"        "### 守住四个雕像 60 秒!! ###"
-    }
-    "### DONT LET ZOMBIES DESTROY ONE OF THE STATUE !! ###"
-    {
-        "chi"        "### 不能让僵尸破坏了雕像,哪怕是一尊!! ###"
-    }
-    "### 10 MORE SECONDS KEEP HOLDING ###"
-    {
-        "chi"        "### 坚持住!!还剩下 10 秒! ###"
-    }
-    "### HUMAN DOOR BREAKS IN 5 SECONDS ###"
-    {
-        "chi"        "### 门将在 5 秒后破碎(人类)###"
-    }
-    "### ZOMBIES DOOR BREAKS IN 10 SECONDS"
-    {
-        "chi"        "### 门将在 10 秒钟后破碎(僵尸)###"
-    }
-    "### REACH THE OTHER SIDE TO PROCEED THE NEXT PART !! ###"
-    {
-        "chi"        "### 抵达下一个地方开始新的逃亡!! ###"
-    }
-    "### PRESS THOSE 2 BUTTONS TO BREAK THE DOOR ###"
-    {
-        "chi"        "### 按下两个按钮来破坏大门 ###"
-    }
-    "### SHORT CUT IS OPEN BECARE FUL !! ###"
-    {
-        "chi"        "### 抄近路!! ###"
-    }
-    "### TELEPORT THE REST IN 5 SECONDS ###"
-    {
-        "chi"        "### 5 秒后传送 ###"
-    }
-    "### THIS IS RAT RACE !! REACH THE CENTER BEFORE ZOMBIE ###"
-    {
-        "chi"        "### 生死时速!!必须赶在僵尸前面抵达终点 ###"
-    }
-    "### RAT RACE IN 5 SECONDS !! AND NO BHOP PLEASE ###"
-    {
-        "chi"        "### 5 秒后开始比赛!!不允许连跳 ###"
-    }
-    "### NO BHOP OR JUMP YOU RETARDED !! ###"
-    {
-        "chi"        "### 你可以跳个试试看 ###"
-    }
-    "### JUST WHOLE W OHH !! I MEAN HOLD W ###"
-    {
-        "chi"        "### 只要按住W不要松!RUSH B!!###"
-    }
-    "### ZOMBIES ARE ALMOST AT THE CENTER ###"
-    {
-        "chi"        "### 僵尸抵达了终点 ###"
-    }
-    "### HOLD THE FOUNTAIN FOR 40 SECONDS ###"
-    {
-        "chi"        "### 守住喷泉 40 秒 ###"
-    }
-    "### QUICK HUMANN YOU DONT WANT TO LOSE RIGHT ? ###"
-    {
-        "chi"        "### 快点人类,你不想输,对吧? ###"
-    }
-    "### DISABLE NO BHOP OR JUMP IN 5 SECONDS ###"
-    {
-        "chi"        "### 5 秒内不允许跳跃 ###"
-    }
-    "### TELEPORT INCOMING IN 10 SECONDS ###"
-    {
-        "chi"        "*### 10 秒后传送 ###"
-    }
-    "### JUST STAY ALIVE ###"
-    {
-        "chi"        "### 保持呼吸不要停,不要断气 ###"
-    }
-    "### THANKS TO LUFFAREN FOR TIPS ! ###"
-    {
-        "chi"        "### 在此感谢 LUFFAREN ###"
-    }
-    "### THE PLATFORM IS MOVING DOWN ###"
-    {
-        "chi"        "### 平台正在往下移动 ###"
-    }
-    "### WHEN IT REACHES THE GROUND PRESS IT !! ###"
-    {
-        "chi"        "### 当它抵挡地面的时候赶紧上 ###"
-    }
-    "### THIS IS IT !!! THIS IS THE TT T T RRR UUU T HHH ###"
-    {
-        "chi"        "### 这就是它!!!它就是真理 ###"
-    }
-    "### IM JOKING LOL FIND THE WAY TO ESCAPE THIS JUNGLE ###"
-    {
-        "chi"        "### 言归正传,赶紧找办法离开这里 ###"
-    }
-    "### BRIDGE DISAPPEAR IN 10 SECONDS ###"
-    {
-        "chi"        "### 桥将在 10 秒后消失 ###"
-    }
-    "### NARAKA WILL BE APPEAR IN 30 SECONDS ###"
-    {
-        "chi"        "### 纳拉卡将在30秒后出现 ###"
-    }
-    "### YOU CAN BE SURE ILL BE BACK ###"
-    {
-        "chi"        "### 我一定会回来的 ###"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "69968"
-    }
-    "The server is about to close the update ,Please update your game"
-    {
-        "chi"        "### 重启服务器以获得更好的游戏体验 ###"
-    }
-    "### THE HOLY PLATFORMS IS GOING DOWN !! ###"
-    {
-        "chi"        "### 神圣的平台正在下降!! ###"
-    }
-    "### ZOMBIES INCOMING IN 20 SECONDS ###"
-    {
-        "chi"        "### 僵尸将在 20 秒后抵达 ###"
-    }
-    "### GET ON TOP HERE TELEPORT IN  40 SECONDS ###"
-    {
-        "chi"        "### 到达顶端坚守 40 秒 ###"
-    }
-    "MapGlobal_ConVars"
-    {
-        "0"
-        {
-            "cvar"        "sm_g_cv_money 8500"
-        }
-        "1"
-        {
-            "cvar"        "sm_Cvar sm_g_cv_money 8500"
-        }
-        "2"
-        {
-            "cvar"        "sm_Cvar     sm_he_limit 4"
-        }
-        "3"
-        {
-            "cvar"        "sm_Cvar   sm_molotov_limit 2"
-        }
-    }
-    "### PLATFORM IS GOING DOWN IN 5 SECONDS ###"
-    {
-        "chi"        "### 平台将在 5 秒后下降###"
-    }
-    "### PLATFORM IS GOING DOWN IN 4 SECONDS ###"
-    {
-        "chi"        "### 平台将在 4 秒后下降 ###"
-    }
-    "### PLATFORM IS GOING DOWN IN 3 SECONDS ###"
-    {
-        "chi"        "### 平台将在 3 秒后下降 ###"
-    }
-    "### PLATFORM IS GOING DOWN IN 2 SECONDS ###"
-    {
-        "chi"        "### 平台将在 2 秒后下降 ###"
-    }
-    "### PLATFORM IS GOING DOWN IN 1 SECONDS ###"
-    {
-        "chi"        "### 平台将在 1 秒后下降 ###"
-    }
-    "### RAT RACE IN 5 SECONDS !! ###"
-    {
-        "chi"        "### 5 秒后开始生死时速!! ###"
-    }
-    "### NO BHOP PLEASE OR FAKING JUMPING ###"
-    {
-        "chi"        "### 不要跳 ###"
-    }
-    "### I SAID NO BHOP OR JUMP YOU FAKING RETARD ###"
-    {
-        "chi"        "### 我说过不要跳,给予你减速buff ###"
-    }
-    "### ZOMBIES FENCE BREAKS IN 20 SECONDS ###"
-    {
-        "chi"        "### 20 秒后丧尸出笼 ###"
-    }
-    "### SECRET PLATFORM HAS BEEN ACTIVATED ###"
-    {
-        "chi"        "### 秘密平台已被激活 ###"
-    }
-    "### DOORHUGGERS WILL GET A SURPRISE  ###"
-    {
-        "chi"        "### 看门狗会获得一份惊喜 ###"
-    }
-    "### IDEA FROM: Luffaren ###"
-    {
-        "chi"        "### 点子来自:Luffaren 地图翻译 by色狼领袖 ###"
-    }
-    "### YOU ARE TOO SLOW SOO LIKE A TURTLEE !! ###"
-    {
-        "chi"        "### 你太慢了,像个王八一样!! ###"
-    }
-    "### THE PATHWAY HAS BEEN BLOCKED GOODBYE !! ###"
-    {
-        "chi"        "### 路已被封锁,再见!! ###"
-    }
-    "### ZOMBIE'S FENCE BREAKS IN 10 SECONDS ###"
-    {
-        "chi"        "** **"
-    }
-    "### HUMAN'S FENCE BREAKS IN 5 SECONDS ###"
-    {
-        "chi"        "** **"
-    }
-    "### ZOMBIE'S FENCE BREAK IN 10 SECONDS ###"
-    {
-        "chi"        "** **"
-    }
-    "### ZOMBIE'S FENCE BREAKS IN 20 SECONDS ###"
-    {
-        "chi"        "** **"
-    }
-    "### YOU CAN BE SURE I'LL BE BACK ###"
-    {
-        "chi"        "** **"
-    }
-    "---***This map will mute your sound if you are outside the lunar base***---"
-    {
-        "chi"        "** **"
-    }
-    ">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
-    {
-        "chi"        "** **"
-    }
+	"### TOUCH ALL 4 STATUES TO ACTIVATE TELEPORT ###"
+	{
+		"chi"		"### 触摸四个雕像激活传送 ###"
+	}
+	"### TELEPORT ALL HUMAN IN 20 SECONDS ###"
+	{
+		"chi"		"### 将在 20 秒后传送所有人类 ###"
+	}
+	"### CLIMB TO THE TOP OF THE PYRAMID ###"
+	{
+		"chi"		"### 爬到金字塔顶端 ###"
+	}
+	"### ZOMBIES INCOMING IN 5 SECONDS ###"
+	{
+		"chi"		"### 僵尸将在 5 秒钟后到来 ###"
+	}
+	"### HOLD THIS PYRAMID FOR 60 SECONDS ###"
+	{
+		"chi"		"### 守住金字塔 60 秒 ###"
+	}
+	"### HOLD THIS PYRAMID FOR 30 SECONDS ###"
+	{
+		"chi"		"### 守住金字塔 30 秒 ###"
+	}
+	"### STAY AT THE TOP OF PYRAMID FOR TELEPORT !! ###"
+	{
+		"chi"		"### 呆在金字塔顶端等待传送!! ###"
+	}
+	"### TELEPORT IN 5 SECONDS ###"
+	{
+		"chi"		"### 5 秒后传送 ###"
+	}
+	"### CLIMB TO THE TOP OF TOWER BEFORE IT COLLAPSE ###"
+	{
+		"chi"		"### 在平台崩塌之前抵达塔顶 ###"
+	}
+	"### ZOMBIES INCOMING IN 15 SECONDS ###"
+	{
+		"chi"		"### 僵尸将在 15 秒后抵达 ###"
+	}
+	"### GET ON TOP HERE TELEPORT IN  30 SECONDS ###"
+	{
+		"chi"		"### 坚守 30 秒 ###"
+	}
+	"### 10 MORE SECONDS QUICKK !!! ###"
+	{
+		"chi"		"### 还有 10 秒,抓紧时间!! ###"
+	}
+	"### ZOMBIES FENCE BREAKS IN 10 SECONDS ###"
+	{
+		"chi"		"### 10 秒钟后丧尸出笼 ###"
+	}
+	"### HUMANS FENCE BREAKS IN 5 SECONDS ###"
+	{
+		"chi"		"### 隔墙将在 5 秒后破碎 ###"
+	}
+	"### JUST !! RUNNNNNN LOL !!! ###"
+	{
+		"chi"		"### 就是冲!!!!###"
+	}
+	"### HOLD HERE FOR 30 SECONDS ###"
+	{
+		"chi"		"### 守住 30 秒 ###"
+	}
+	"### 10 SECONDS REMAINING ###"
+	{
+		"chi"		"### 还剩下 10 秒 ###"
+	}
+	"### THERE ARE TRAPS SOO BEWARE !! ###"
+	{
+		"chi"		"### 这里有很多陷阱!! ###"
+	}
+	"### HUMAN NEEDS TO PRESS ALL THE BUTTON ###"
+	{
+		"chi"		"### 人类需要按下所有开关 ###"
+	}
+	"### TO BREAK THE TELEPORT DOOR ###"
+	{
+		"chi"		"### 打破传送门 ###"
+	}
+	"### ZOMBIES FENCE BREAK IN 10 SECONDS ###"
+	{
+		"chi"		"### 10 秒钟后丧尸出笼 ###"
+	}
+	"### ALL BUTTONS HAVE BEEN PRESSED ###"
+	{
+		"chi"		"### 所有按钮被按下 ###"
+	}
+	"### CROSS THE PLATFORM BEFORE IT DISAPPEARS !! ###"
+	{
+		"chi"		"### 在桥梁消失之前穿越过去 ###"
+	}
+	"### PREPARE FOR BATTLE !! ###"
+	{
+		"chi"		"### 准备战斗!! ###"
+	}
+	"### FEEL MY LOVE ###"
+	{
+		"chi"		"### 感受我的爱~ ###"
+	}
+	"### FEEL MY PAIN ###"
+	{
+		"chi"		"### 感受我的疼痛 ###"
+	}
+	"### THIS IS NOT THE END !! ###"
+	{
+		"chi"		"### 这还不算完!! ###"
+	}
+	"### HOLD UNTIL SOMETHING HAPPENS ###"
+	{
+		"chi"		"### 坚持到某件事情发生 ###"
+	}
+	"### DEFEND 4 STATUES FOR 60 SECONDS!! ###"
+	{
+		"chi"		"### 守住四个雕像 60 秒!! ###"
+	}
+	"### DONT LET ZOMBIES DESTROY ONE OF THE STATUE !! ###"
+	{
+		"chi"		"### 不能让僵尸破坏了雕像,哪怕是一尊!! ###"
+	}
+	"### 10 MORE SECONDS KEEP HOLDING ###"
+	{
+		"chi"		"### 坚持住!!还剩下 10 秒! ###"
+	}
+	"### HUMAN DOOR BREAKS IN 5 SECONDS ###"
+	{
+		"chi"		"### 门将在 5 秒后破碎(人类)###"
+	}
+	"### ZOMBIES DOOR BREAKS IN 10 SECONDS"
+	{
+		"chi"		"### 门将在 10 秒钟后破碎(僵尸)###"
+	}
+	"### REACH THE OTHER SIDE TO PROCEED THE NEXT PART !! ###"
+	{
+		"chi"		"### 抵达下一个地方开始新的逃亡!! ###"
+	}
+	"### PRESS THOSE 2 BUTTONS TO BREAK THE DOOR ###"
+	{
+		"chi"		"### 按下两个按钮来破坏大门 ###"
+	}
+	"### SHORT CUT IS OPEN BECARE FUL !! ###"
+	{
+		"chi"		"### 抄近路!! ###"
+	}
+	"### TELEPORT THE REST IN 5 SECONDS ###"
+	{
+		"chi"		"### 5 秒后传送 ###"
+	}
+	"### THIS IS RAT RACE !! REACH THE CENTER BEFORE ZOMBIE ###"
+	{
+		"chi"		"### 生死时速!!必须赶在僵尸前面抵达终点 ###"
+	}
+	"### RAT RACE IN 5 SECONDS !! AND NO BHOP PLEASE ###"
+	{
+		"chi"		"### 5 秒后开始比赛!!不允许连跳 ###"
+	}
+	"### NO BHOP OR JUMP YOU RETARDED !! ###"
+	{
+		"chi"		"### 你可以跳个试试看 ###"
+	}
+	"### JUST WHOLE W OHH !! I MEAN HOLD W ###"
+	{
+		"chi"		"### 只要按住W不要松!RUSH B!!###"
+	}
+	"### ZOMBIES ARE ALMOST AT THE CENTER ###"
+	{
+		"chi"		"### 僵尸抵达了终点 ###"
+	}
+	"### HOLD THE FOUNTAIN FOR 40 SECONDS ###"
+	{
+		"chi"		"### 守住喷泉 40 秒 ###"
+	}
+	"### QUICK HUMANN YOU DONT WANT TO LOSE RIGHT ? ###"
+	{
+		"chi"		"### 快点人类,你不想输,对吧? ###"
+	}
+	"### DISABLE NO BHOP OR JUMP IN 5 SECONDS ###"
+	{
+		"chi"		"### 5 秒内不允许跳跃 ###"
+	}
+	"### TELEPORT INCOMING IN 10 SECONDS ###"
+	{
+		"chi"		"*### 10 秒后传送 ###"
+	}
+	"### JUST STAY ALIVE ###"
+	{
+		"chi"		"### 保持呼吸不要停,不要断气 ###"
+	}
+	"### THANKS TO LUFFAREN FOR TIPS ! ###"
+	{
+		"chi"		"### 在此感谢 LUFFAREN ###"
+	}
+	"### THE PLATFORM IS MOVING DOWN ###"
+	{
+		"chi"		"### 平台正在往下移动 ###"
+	}
+	"### WHEN IT REACHES THE GROUND PRESS IT !! ###"
+	{
+		"chi"		"### 当它抵挡地面的时候赶紧上 ###"
+	}
+	"### THIS IS IT !!! THIS IS THE TT T T RRR UUU T HHH ###"
+	{
+		"chi"		"### 这就是它!!!它就是真理 ###"
+	}
+	"### IM JOKING LOL FIND THE WAY TO ESCAPE THIS JUNGLE ###"
+	{
+		"chi"		"### 言归正传,赶紧找办法离开这里 ###"
+	}
+	"### BRIDGE DISAPPEAR IN 10 SECONDS ###"
+	{
+		"chi"		"### 桥将在 10 秒后消失 ###"
+	}
+	"### NARAKA WILL BE APPEAR IN 30 SECONDS ###"
+	{
+		"chi"		"### 纳拉卡将在30秒后出现 ###"
+	}
+	"### YOU CAN BE SURE ILL BE BACK ###"
+	{
+		"chi"		"### 我一定会回来的 ###"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"69968"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"### 重启服务器以获得更好的游戏体验 ###"
+	}
+	"### THE HOLY PLATFORMS IS GOING DOWN !! ###"
+	{
+		"chi"		"### 神圣的平台正在下降!! ###"
+	}
+	"### ZOMBIES INCOMING IN 20 SECONDS ###"
+	{
+		"chi"		"### 僵尸将在 20 秒后抵达 ###"
+	}
+	"### GET ON TOP HERE TELEPORT IN  40 SECONDS ###"
+	{
+		"chi"		"### 到达顶端坚守 40 秒 ###"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_g_cv_money 8500"
+		}
+		"1"
+		{
+			"cvar"		"sm_Cvar sm_g_cv_money 8500"
+		}
+		"2"
+		{
+			"cvar"		"sm_Cvar     sm_he_limit 4"
+		}
+		"3"
+		{
+			"cvar"		"sm_Cvar   sm_molotov_limit 2"
+		}
+	}
+	"### PLATFORM IS GOING DOWN IN 5 SECONDS ###"
+	{
+		"chi"		"### 平台将在 5 秒后下降###"
+	}
+	"### PLATFORM IS GOING DOWN IN 4 SECONDS ###"
+	{
+		"chi"		"### 平台将在 4 秒后下降 ###"
+	}
+	"### PLATFORM IS GOING DOWN IN 3 SECONDS ###"
+	{
+		"chi"		"### 平台将在 3 秒后下降 ###"
+	}
+	"### PLATFORM IS GOING DOWN IN 2 SECONDS ###"
+	{
+		"chi"		"### 平台将在 2 秒后下降 ###"
+	}
+	"### PLATFORM IS GOING DOWN IN 1 SECONDS ###"
+	{
+		"chi"		"### 平台将在 1 秒后下降 ###"
+	}
+	"### RAT RACE IN 5 SECONDS !! ###"
+	{
+		"chi"		"### 5 秒后开始生死时速!! ###"
+	}
+	"### NO BHOP PLEASE OR FAKING JUMPING ###"
+	{
+		"chi"		"### 不要跳 ###"
+	}
+	"### I SAID NO BHOP OR JUMP YOU FAKING RETARD ###"
+	{
+		"chi"		"### 我说过不要跳,给予你减速buff ###"
+	}
+	"### ZOMBIES FENCE BREAKS IN 20 SECONDS ###"
+	{
+		"chi"		"### 20 秒后丧尸出笼 ###"
+	}
+	"### SECRET PLATFORM HAS BEEN ACTIVATED ###"
+	{
+		"chi"		"### 秘密平台已被激活 ###"
+	}
+	"### DOORHUGGERS WILL GET A SURPRISE  ###"
+	{
+		"chi"		"### 看门狗会获得一份惊喜 ###"
+	}
+	"### IDEA FROM: Luffaren ###"
+	{
+		"chi"		"### 点子来自:Luffaren 地图翻译 by色狼领袖 ###"
+	}
+	"### YOU ARE TOO SLOW SOO LIKE A TURTLEE !! ###"
+	{
+		"chi"		"### 你太慢了,像个王八一样!! ###"
+	}
+	"### THE PATHWAY HAS BEEN BLOCKED GOODBYE !! ###"
+	{
+		"chi"		"### 路已被封锁,再见!! ###"
+	}
+	"### ZOMBIE'S FENCE BREAKS IN 10 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### HUMAN'S FENCE BREAKS IN 5 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### ZOMBIE'S FENCE BREAK IN 10 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### ZOMBIE'S FENCE BREAKS IN 20 SECONDS ###"
+	{
+		"chi"		"** **"
+	}
+	"### YOU CAN BE SURE I'LL BE BACK ###"
+	{
+		"chi"		"** **"
+	}
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,89 +1,89 @@
 "Console_T"
 {
-    "*** MAP by kune ***"
-    {
-        "chi"        "**地图制作：kune **"
-    }
-    "*** 20 SECONDS LEFT ***"
-    {
-        "chi"        "**还剩20秒 **"
-        "DoorCountDown"        "20"
-    }
-    "*** 5 SECONDS LEFT ***"
-    {
-        "chi"        "** **"
-    }
-    "*** 15 seconds left ***"
-    {
-        "chi"        "**还剩15秒 **"
-        "DoorCountDown"        "15"
-    }
-    "*** 25 seconds left ***"
-    {
-        "chi"        "**还剩25秒 **"
-        "DoorCountDown"        "25"
-    }
-    "*** 30 seconds left ***"
-    {
-        "chi"        "**还剩30秒 **"
-        "DoorCountDown"        "30"
-    }
-    "*** Hold here ***"
-    {
-        "chi"        "**守住这里 **"
-    }
-    "*** Door closing in 10 seconds ***"
-    {
-        "chi"        "**大门10秒后关闭 **"
-    }
-    "*** 10 seconds left ***"
-    {
-        "chi"        "**还剩10秒 **"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "83808"
-    }
-    "*** LEVEL2 ***"
-    {
-        "chi"        "** **"
-    }
-    "*** 40 seconds left ***"
-    {
-        "chi"        "** **"
-        "DoorCountDown"        "40"
-    }
-    "*** 45 seconds left ***"
-    {
-        "chi"        "** **"
-        "DoorCountDown"        "45"
-    }
-    "*** TEST ***"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Reflelia***"
-    {
-        "chi"        "** **"
-    }
-    "***Particle Effect by Airvulpes***"
-    {
-        "chi"        "** **"
-    }
-    "***Thanks to Shizuru[idea]  uuz[model]***"
-    {
-        "chi"        "** **"
-    }
-    ">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
-    {
-        "chi"        "** **"
-    }
-    ">> IDEA: Sienestaja <<"
-    {
-        "chi"        "** **"
-    }
-    ">> Map by Taskuvaras <<"
-    {
-        "chi"        "** **"
-    }
+	"*** MAP by kune ***"
+	{
+		"chi"		"**地图制作：kune **"
+	}
+	"*** 20 SECONDS LEFT ***"
+	{
+		"chi"		"**还剩20秒 **"
+		"DoorCountDown"		"20"
+	}
+	"*** 5 SECONDS LEFT ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 15 seconds left ***"
+	{
+		"chi"		"**还剩15秒 **"
+		"DoorCountDown"		"15"
+	}
+	"*** 25 seconds left ***"
+	{
+		"chi"		"**还剩25秒 **"
+		"DoorCountDown"		"25"
+	}
+	"*** 30 seconds left ***"
+	{
+		"chi"		"**还剩30秒 **"
+		"DoorCountDown"		"30"
+	}
+	"*** Hold here ***"
+	{
+		"chi"		"**守住这里 **"
+	}
+	"*** Door closing in 10 seconds ***"
+	{
+		"chi"		"**大门10秒后关闭 **"
+	}
+	"*** 10 seconds left ***"
+	{
+		"chi"		"**还剩10秒 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"83808"
+	}
+	"*** LEVEL2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 40 seconds left ***"
+	{
+		"chi"		"** **"
+		"DoorCountDown"		"40"
+	}
+	"*** 45 seconds left ***"
+	{
+		"chi"		"** **"
+		"DoorCountDown"		"45"
+	}
+	"*** TEST ***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***Particle Effect by Airvulpes***"
+	{
+		"chi"		"** **"
+	}
+	"***Thanks to Shizuru[idea]  uuz[model]***"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	">> IDEA: Sienestaja <<"
+	{
+		"chi"		"** **"
+	}
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"** **"
+	}
 }

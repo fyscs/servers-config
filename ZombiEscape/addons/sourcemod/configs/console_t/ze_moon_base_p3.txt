@@ -1,127 +1,135 @@
 "Console_T"
 {
-    "---***This map will mute your sound if you are outside the lunar base***---"
-    {
-        "chi"        "**如果你在月球基地外面，初中物理课本告诉过我们：声音不会在真空中传播！**"
-    }
-    "***Defend for 30 seconds!***"
-    {
-        "chi"        "**防守 30 秒！                色狼领袖：“不会蹲跳的同学不要慌张，可以尝试按住 shift + 蹲键 然后再跳。**"
-    }
-    "***10 seconds!***"
-    {
-        "chi"        "**还有 10 秒！                色狼领袖：“还没跳进来的同学抓紧时间，把空格跳跃改成滚轮跳跃会使你更轻松的蹲跳过去。”**"
-    }
-    "***Defense 1 is Open again***"
-    {
-        "chi"        "**朝下一个防守点进发！**"
-    }
-    "***Defend for 45 seconds!***"
-    {
-        "chi"        "***防守 45 秒！**"
-    }
-    "***15 seconds!***"
-    {
-        "chi"        "**还有 15 秒！**"
-    }
-    "***Get to the Lunar Vehicle!***"
-    {
-        "chi"        "**快上月球车！**"
-    }
-    "***Lunar vehicle leaves in 10!***"
-    {
-        "chi"        "**距离月球车离开还有 10 秒！**"
-    }
-    "***Defence 2 is Open again***"
-    {
-        "chi"        "**朝下一防守点进发！**"
-    }
-    "***Lunar vehicle is leaving!***"
-    {
-        "chi"        "**月球车出发咯!               色狼领袖：“看见朝鲜国国旗记得跳离月球车！”**"
-    }
-    "**Space Ship leaves in 90 seconds!**"
-    {
-        "chi"        "**距离太空船离开时间还有 90 秒！**"
-    }
-    "**Just 60 more seconds!**"
-    {
-        "chi"        "**距离太空船离开时间还有 60 秒！**"
-    }
-    "**Just 30 more seconds!**"
-    {
-        "chi"        "**距离太空船离开时间还有 30 秒！**"
-    }
-    "**15 SECONDS LEFT!**"
-    {
-        "chi"        "**距离太空船离开时间还有 15 秒！**"
-    }
-    "**Blast Doors have been override!**"
-    {
-        "chi"        "**太空船门已经关闭！**"
-    }
-    "**Spaceship is leaving now!**"
-    {
-        "chi"        "**太空船现在正在离开！**"
-    }
-    "***Keep Running!***"
-    {
-        "chi"        "**继续向前冲！**"
-    }
-    "***Do not look back!***"
-    {
-        "chi"        "**不要回头！**"
-    }
-    "The server is about to close the update ,Please update your game"
-    {
-        "chi"        "** **"
-    }
-    "[Map] ze_Suchirifu"
-    {
-        "chi"        "** **"
-    }
-    "** ZE_SUPERSHITSHOW **"
-    {
-        "chi"        "** **"
-    }
-    "** A mode will be chosen shortly... **"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Luffaren***"
-    {
-        "chi"        "** **"
-    }
-    "steamworkshop search this map's name"
-    {
-        "chi"        "** **"
-    }
-    "***Map by RelaxingWalls***"
-    {
-        "chi"        "** **"
-    }
-    "***Map made for SteamGamers Mapping Competition***"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Reflelia***"
-    {
-        "chi"        "** **"
-    }
-    ">>LEVEL: EASY<<"
-    {
-        "chi"        "** **"
-    }
-    ">>LEVEL 1<<"
-    {
-        "chi"        "** **"
-    }
-    ">> 9 MINUTES TO ESCAPE <<"
-    {
-        "chi"        "** **"
-    }
-    "** Welcome to the mystical island of Kraznov Poopata **"
-    {
-        "chi"        "** **"
-    }
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"chi"		"**如果你在月球基地外面，初中物理课本告诉过我们：声音不会在真空中传播！**"
+	}
+	"***Defend for 30 seconds!***"
+	{
+		"chi"		"**防守 30 秒！                色狼领袖：“不会蹲跳的同学不要慌张，可以尝试按住 shift + 蹲键 然后再跳。**"
+	}
+	"***10 seconds!***"
+	{
+		"chi"		"**还有 10 秒！                色狼领袖：“还没跳进来的同学抓紧时间，把空格跳跃改成滚轮跳跃会使你更轻松的蹲跳过去。”**"
+	}
+	"***Defense 1 is Open again***"
+	{
+		"chi"		"**朝下一个防守点进发！**"
+	}
+	"***Defend for 45 seconds!***"
+	{
+		"chi"		"***防守 45 秒！**"
+	}
+	"***15 seconds!***"
+	{
+		"chi"		"**还有 15 秒！**"
+	}
+	"***Get to the Lunar Vehicle!***"
+	{
+		"chi"		"**快上月球车！**"
+	}
+	"***Lunar vehicle leaves in 10!***"
+	{
+		"chi"		"**距离月球车离开还有 10 秒！**"
+	}
+	"***Defence 2 is Open again***"
+	{
+		"chi"		"**朝下一防守点进发！**"
+	}
+	"***Lunar vehicle is leaving!***"
+	{
+		"chi"		"**月球车出发咯!               色狼领袖：“看见朝鲜国国旗记得跳离月球车！”**"
+	}
+	"**Space Ship leaves in 90 seconds!**"
+	{
+		"chi"		"**距离太空船离开时间还有 90 秒！**"
+	}
+	"**Just 60 more seconds!**"
+	{
+		"chi"		"**距离太空船离开时间还有 60 秒！**"
+	}
+	"**Just 30 more seconds!**"
+	{
+		"chi"		"**距离太空船离开时间还有 30 秒！**"
+	}
+	"**15 SECONDS LEFT!**"
+	{
+		"chi"		"**距离太空船离开时间还有 15 秒！**"
+	}
+	"**Blast Doors have been override!**"
+	{
+		"chi"		"**太空船门已经关闭！**"
+	}
+	"**Spaceship is leaving now!**"
+	{
+		"chi"		"**太空船现在正在离开！**"
+	}
+	"***Keep Running!***"
+	{
+		"chi"		"**继续向前冲！**"
+	}
+	"***Do not look back!***"
+	{
+		"chi"		"**不要回头！**"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"[Map] ze_Suchirifu"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_SUPERSHITSHOW **"
+	{
+		"chi"		"** **"
+	}
+	"** A mode will be chosen shortly... **"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Luffaren***"
+	{
+		"chi"		"** **"
+	}
+	"steamworkshop search this map's name"
+	{
+		"chi"		"** **"
+	}
+	"***Map by RelaxingWalls***"
+	{
+		"chi"		"** **"
+	}
+	"***Map made for SteamGamers Mapping Competition***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL: EASY<<"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL 1<<"
+	{
+		"chi"		"** **"
+	}
+	">> 9 MINUTES TO ESCAPE <<"
+	{
+		"chi"		"** **"
+	}
+	"** Welcome to the mystical island of Kraznov Poopata **"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Model :Dakotec ***"
+	{
+		"chi"		"** **"
+	}
 }

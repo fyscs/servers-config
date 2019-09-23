@@ -1,0 +1,396 @@
+"Console_T"
+{
+	"**This is a map based on the game STALKER**"
+	{
+		"chi"		"**这是根据游戏（潜行者）制作的地图 **"
+	}
+	"**The map isnt eazy. It needs good ZE skills and good teamplay**"
+	{
+		"chi"		"**这不是简单的地图.它需要很好的技巧和良好的团队 **"
+	}
+	"Map by gleb_erilov(Headshooter.SC) Special thanks to LonllY POMKA Said Z-O-M-B-I-E"
+	{
+		"chi"		"**地图制作：gleb_erilov(Headshooter.SC) 地图翻译：蓬莱山帅比♪  特别感谢：LonllY POMKA Said Z-O-M-B-I-E的各位 **"
+	}
+	"Type in console mat_colorcorrection 1 for dynamic effects!!"
+	{
+		"chi"		"**关闭和开启动态效果在控制台输入mat_colorcorrection 1！！ **"
+	}
+	"A player picked up meatchunk"
+	{
+		"chi"		"**一名玩家拿起神器：meatchunk(诱引) **"
+	}
+	"Zombie shield is activated. You have 15 seconds."
+	{
+		"chi"		"**僵尸空气墙被激活.你有15秒逃离 **"
+	}
+	"A player picked up spikeball"
+	{
+		"chi"		"**一名玩家拿起神器：spikeball（奶） **"
+	}
+	"A player picked up fireball"
+	{
+		"chi"		"**一名玩家拿起神器：fireball（火） **"
+	}
+	"A player picked up a piece of flesh"
+	{
+		"chi"		"**一名玩家拿起神器：flesh（风） **"
+	}
+	"A player picked up flash"
+	{
+		"chi"		"**一名玩家拿起神器：flash（电） **"
+	}
+	"A player picked up nightstar"
+	{
+		"chi"		"**一名玩家拿起神器nightstar（减速） **"
+	}
+	"Lab door 1 will open in 11 seconds"
+	{
+		"chi"		"**实验室门1将在11秒后打开 **"
+	}
+	"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
+	{
+		"chi"		"**电梯1将在4秒后离开 **"
+	}
+	"Lab door 1 will open for zombies in 18 seconds"
+	{
+		"chi"		"**实验门1将在18秒后为僵尸打开 **"
+	}
+	"***IF YOU WANT TO OPEN THE GATES TURN THE ELECTRICITY ON!!!***"
+	{
+		"chi"		"**如果你想打开门就必须要打开电力（电力开关在墙上，请仔细寻找）! ! ! **"
+		"ico"		"icon_fire"
+	}
+	"The gate 1 will open in 30 seconds"
+	{
+		"chi"		"**门1将在30秒后打开 **"
+	}
+	"The gate 2 will open in 30 seconds"
+	{
+		"chi"		"**门2将在30秒后打开 **"
+	}
+	"***The electricity in on. You can push the panels to open the gates***"
+	{
+		"chi"		"**现在已经有了电力.你可以按下按钮打开两边的门 **"
+		"ico"		"icon_fire"
+	}
+	"Zombie shield is disabled."
+	{
+		"chi"		"**僵尸空气墙处于关闭状态 **"
+	}
+	"Lab door 2 will open in 13 seconds"
+	{
+		"chi"		"**实验室门2将在13秒后打开 **"
+	}
+	"Lab door 2 will open for zombies in 18 seconds"
+	{
+		"chi"		"**实验门2将在18秒后为僵尸打开 **"
+	}
+	"Hold this position for 6 seconds!!"
+	{
+		"chi"		"**守住这里，窗子将在6秒后打开 **"
+	}
+	"The Chernobyl gate will open in 20 seconds."
+	{
+		"chi"		"**切尔诺贝利核电站的大门将在20秒后开启 **"
+	}
+	"Hold this position for 10 seconds!!"
+	{
+		"chi"		"**守住这里10秒 **"
+		"DoorCountdown"		"10"
+	}
+	"Zombie sheld is activated for 30 seconds!!"
+	{
+		"chi"		"**僵尸被空气墙阻拦30秒 **"
+	}
+	"Survive for 70 seconds"
+	{
+		"chi"		"**生存70秒 **"
+		"DoorCountdown"		"70"
+	}
+	"The emission will be in 50 seconds. Find the bunker and hide in it!!!"
+	{
+		"chi"		"**核弹大概在50秒后发射.找到一个安全的掩体并躲在里面 **"
+	}
+	"**You win the round!!You unlock the hard mode.**"
+	{
+		"chi"		"**你赢了这一轮!!你解锁了困难模式。 **"
+	}
+	"**AUTO-SLAYER ENABLED**"
+	{
+		"chi"		"**第二关：auto-slayer启用 **"
+	}
+	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
+	{
+		"chi"		"**电梯2将在9秒后离开 **"
+	}
+	"**Hold the place for 25 seconds**"
+	{
+		"chi"		"**守住这个位置25秒 **"
+		"DoorCountdown"		"25"
+	}
+	"***Break the spheres to escape***"
+	{
+		"chi"		"**赶紧打破中间所有的玻璃圆柱然后逃走 **"
+	}
+	"***OH NO WHO IS IT? WE MUST KILL IT!***"
+	{
+		"chi"		"**哦，不，是谁？我们必须杀死它！ **"
+	}
+	"**There are zombies in bunker. The level is failed.**"
+	{
+		"chi"		"**有僵尸在.本关失败 **"
+	}
+	"**You did it!! You have completed stage 2!!**"
+	{
+		"chi"		"**你做到了！你已经通过了第二关！！  **"
+	}
+	"**now is the time to see something new**"
+	{
+		"chi"		"**现在是时候看到新的东西了 **"
+	}
+	"Bloodsucker is watching you..."
+	{
+		"chi"		"**吸血鬼在注视着你...... **"
+	}
+	"**Bloodsucker have been defeated**"
+	{
+		"chi"		"**吸血鬼被打败了 **"
+	}
+	"**Your items got more power**"
+	{
+		"chi"		"**你可以使用更高级的神器 **"
+	}
+	"**Wait until the debris break**"
+	{
+		"chi"		"**等到前面的废墟爆炸 **"
+	}
+	"**OPENING THE GATES (10 SECONDS)**"
+	{
+		"chi"		"**等待门打开（10秒） **"
+		"DoorCountdown"		"10"
+	}
+	"**The door wil open in 10 seconds**"
+	{
+		"chi"		"**门会在10秒后打开 **"
+		"DoorCountdown"		"10"
+	}
+	"**Hold this way for 10 seconds**"
+	{
+		"chi"		"**守住这里10秒 **"
+		"DoorCountdown"		"10"
+	}
+	"**Its dead. Good job**"
+	{
+		"chi"		"**它死了，干得好 **"
+	}
+	"**1 PLAYER have to go to the command room to take documents**"
+	{
+		"chi"		"**1名玩家必须到指挥室去拿证件 **"
+		"ico"		"icon_fire"
+	}
+	"**The documents are here!**We are too close!**"
+	{
+		"chi"		"**文件在这里！**它离我们太接近了！ **"
+	}
+	"**Defend a bit**The door will explode in a few seconds!**"
+	{
+		"chi"		"**守住这里**门会在几秒钟后爆炸！ **"
+	}
+	"**RUN RUN RUN!!!**"
+	{
+		"chi"		"**跑跑跑！！ **"
+	}
+	"**Good job!! You won stage 3!! New area opened!**"
+	{
+		"chi"		"**干得好!你赢了第三关！解锁新地区！ **"
+	}
+	"**GO INTO THE TELEPORTER***"
+	{
+		"chi"		"**进入传送点 **"
+	}
+	"***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***"
+	{
+		"chi"		"**你有时间去寻找一些隐藏的神器 **"
+	}
+	"***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**"
+	{
+		"chi"		"**然后撤退，等待空气墙打开 **"
+	}
+	"**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**"
+	{
+		"chi"		"**所有AFK玩家和走的慢的玩家被传送 **"
+	}
+	"**NOW WE ARE READY TO GO**"
+	{
+		"chi"		"**现在我们已经准备好 **"
+	}
+	"**Hold here for 25 seconds**"
+	{
+		"chi"		"**在这里守住25秒 **"
+		"DoorCountdown"		"25"
+	}
+	"**And then go to the pool**"
+	{
+		"chi"		"**然后去游泳池 **"
+	}
+	"**..We founded something unusial..**"
+	{
+		"chi"		"**..我们发现了一些不寻常的.. **"
+	}
+	"**.. Is it a new anomaly?!..**"
+	{
+		"chi"		"**.. 它是一个新的物种吗？!.. **"
+	}
+	"**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**"
+	{
+		"chi"		"**BOSS控制了你的大脑！！这个地方不是真实的！！ **"
+	}
+	"**You have defeated controller!!! Good job**"
+	{
+		"chi"		"**你打败了BOSS！ 做得好 **"
+	}
+	"**Now go away to the coast**"
+	{
+		"chi"		"**现在去海岸  **"
+		"ico"		"icon_fire"
+	}
+	"**The blowout is comming**"
+	{
+		"chi"		"**核反应堆开始不稳定 **"
+	}
+	"**Prepare for ultimate survival. Fight for your life!!**"
+	{
+		"chi"		"**拼尽全力存活下来 **"
+		"ico"		"icon_fire"
+	}
+	"**FIREBALL GOT MAXIMUM POWER**"
+	{
+		"chi"		"**火球升级到最高级 **"
+		"ico"		"icon_fire"
+	}
+	"**YOU DID IT!!!**GOOD LUCK!!**"
+	{
+		"chi"		"**你做到了！！！**祝你好运！ **"
+	}
+	"**Prepare to FIGHT**"
+	{
+		"chi"		"**准备战斗 **"
+	}
+	"**YOUR ITEMS GOT MAXIMUM POWER**USE WHEN NESESSARY**"
+	{
+		"chi"		"**所有神器升级到最高级**在必要时使用 **"
+	}
+	"**PREPARE TO MOVE IN 10 SECONDS!**"
+	{
+		"chi"		"**准备在10秒后撤退 **"
+		"DoorCountdown"		"10"
+	}
+	"**GO!!**GO!!**GO!!**"
+	{
+		"chi"		"**走！！**走！！**走！！ **"
+	}
+	"**DONT LET HIM TO FAIL US!!**"
+	{
+		"chi"		"**不要让它失败！！ **"
+	}
+	"**PLAY AS YOU CAN**"
+	{
+		"chi"		"**发挥你的技术 **"
+	}
+	"**YOU ARE TOO CLOSE TO WIN**KEEP HOLDING**"
+	{
+		"chi"		"**你很接近胜利**继续守住  **"
+	}
+	"**THEY WANT TO KILL US!! SHOOT AS U CAN!!!**"
+	{
+		"chi"		"**又是这家伙！！他想杀死我们！你可以开枪！！！ **"
+	}
+	"**HE IS DEAD!!NICE WORK!!**"
+	{
+		"chi"		"**他死了!!干得好！！ **"
+	}
+	"**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**"
+	{
+		"chi"		"**你征服了本地图！你是真正的潜行者！！！ **"
+	}
+	"**UNKNOWN ARTEFACT** QUEST COMPLETED"
+	{
+		"chi"		"**任务完成 **"
+	}
+	"**REWARD**YOU HAVE OBTAINED ONE MORE ITEM ON THIS STAGE"
+	{
+		"chi"		"**奖励**在这个阶段你可以使用更高级的神器 **"
+	}
+	"**SPIKEBALL GOT MAXIMUM POWER**"
+	{
+		"chi"		"**奶升级到最高级 **"
+	}
+	"***THE BOSS HAS MAXIMUM HP***"
+	{
+		"chi"		"**BOSS的生命值得到提升 **"
+	}
+	"**A PIECE OF FLESH GOT MAXIMUM POWER**"
+	{
+		"chi"		"**风升级到最高级 **"
+		"ico"		"icon_fire"
+	}
+	"**NIGHTSTAR GOT MAXIMUM POWER**"
+	{
+		"chi"		"**减速升级到最高级 **"
+		"ico"		"icon_fire"
+	}
+	"**FLASH GOT MAXIMUM POWER**"
+	{
+		"chi"		"**电升级到最高级 **"
+		"ico"		"icon_fire"
+	}
+	"**You have failed**"
+	{
+		"chi"		"**你已经失败了 **"
+	}
+	"**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**"
+	{
+		"chi"		"**管理员把关卡调至第五关 **"
+	}
+	"You are too slow..."
+	{
+		"chi"		"**你太慢了… **"
+	}
+	"**THE ADMIN SET BLOWOUT. U GONNA DIE IN 20 SECONDS**"
+	{
+		"chi"		"** **"
+	}
+	"**ADMIN SET LEVEL 4 IN THE ADMIN ROOM**"
+	{
+		"chi"		"** **"
+	}
+	"**FAIL DETECTED**GLITCH WIN PROTECTION IS ON**"
+	{
+		"chi"		"** **"
+	}
+	"**The map isn't eazy. It needs good ZE skills and good teamplay**"
+	{
+		"chi"		"** **"
+	}
+	"**DON'T LET HIM TO FAIL US!!**"
+	{
+		"chi"		"** **"
+	}
+	"**It's dead. Good job**"
+	{
+		"chi"		"** **"
+	}
+	"**ADMIN SET LEVEL 1 IN THE ADMIN ROOM**"
+	{
+		"chi"		"** **"
+	}
+	"**ADMIN SET LEVEL 2 IN THE ADMIN ROOM**"
+	{
+		"chi"		"** **"
+	}
+	"**ADMIN SET LEVEL 3 IN THE ADMIN ROOM**"
+	{
+		"chi"		"** **"
+	}
+}

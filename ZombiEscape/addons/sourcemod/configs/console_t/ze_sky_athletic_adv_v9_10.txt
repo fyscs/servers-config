@@ -1,0 +1,2529 @@
+"Console_T"
+{
+	"*** STAGE 1 ***"
+	{
+		"chi"		"**第一关**"
+	}
+	"*** Porting helped by Airvulpes,kune***"
+	{
+		"chi"		"**地图移植帮助：Airvulpes,kune**"
+	}
+	"*** HUMAN>>> Climb the ladder ***"
+	{
+		"chi"		"**人类>>> 爬上梯子**"
+	}
+	"*** ZOMBIE>>> Should go to under the entrance ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ANTI BHOP SYSTEM>>> If you use bhopping.You will get some penalty ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+	{
+		"chi"		"**测试服务器：Sakura[CS:S],POSSESSION[CS:GO]**"
+	}
+	"*** map created by thas ***"
+	{
+		"chi"		"**地图作者：thas**"
+	}
+	"*** FIRST PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**第一个传送点10秒后激活**"
+	}
+	"*** FIRST PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**第一个传送点5秒后激活**"
+	}
+	"*** PORTAL ACTIVATED ***"
+	{
+		"chi"		"**传送点激活**"
+	}
+	"***ZOMBIE IS COMING***"
+	{
+		"chi"		"**僵尸突破空气墙**"
+	}
+	"*** LEVEL 1: NORMAL JUMP ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"chi"		"**LEVEL2传送点30秒后激活**"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"chi"		"**LEVEL2传送点20秒后激活**"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"chi"		"**LEVEL2传送点10秒后激活**"
+	}
+	"*** LEVEL2 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"chi"		"**LEVEL2传送点5秒后激活**"
+	}
+	"*** LEVEL 2:  LADDERS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"chi"		"**LEVEL3传送点30秒后激活**"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"chi"		"**LEVEL3传送点20秒后激活**"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"chi"		"**LEVEL3传送点10秒后激活**"
+	}
+	"*** LEVEL3 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"chi"		"**LEVEL3传送点5秒后激活**"
+	}
+	"***LEVEL 3: MOVING SCAFFOLDS 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"chi"		"**LEVEL4传送点30秒后激活**"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"chi"		"**LEVEL4传送点20秒后激活**"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"chi"		"**LEVEL4传送点10秒后激活**"
+	}
+	"*** LEVEL4 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"chi"		"**LEVEL4传送点5秒后激活**"
+	}
+	"*** LEVEL4 LOW GRAVITY ***"
+	{
+		"chi"		"**LEVEL4 低重力**"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"chi"		"**LEVEL5传送点30秒后激活**"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"chi"		"**LEVEL5传送点20秒后激活**"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"chi"		"**LEVEL5传送点10秒后激活**"
+	}
+	"*** LEVEL5 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"chi"		"**LEVEL5传送点5秒后激活**"
+	}
+	"*** LEVEL5 WINDY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"chi"		"**LEVEL6传送点30秒后激活**"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"chi"		"**LEVEL6传送点20秒后激活**"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"chi"		"**LEVEL6传送点10秒后激活**"
+	}
+	"*** LEVEL6 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"chi"		"**LEVEL6传送点5秒后激活**"
+	}
+	"*** LEVEL6 SLIDE 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 30 SECONDS***"
+	{
+		"chi"		"**LEVEL7传送点30秒后激活**"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 20 SECONDS***"
+	{
+		"chi"		"**LEVEL7传送点20秒后激活**"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 10 SECONDS***"
+	{
+		"chi"		"**LEVEL7传送点10秒后激活**"
+	}
+	"*** LEVEL7 PORTAL ACTIVATED in 5 SECONDS***"
+	{
+		"chi"		"**LEVEL7传送点5秒后激活**"
+	}
+	"*** LEVEL7 HOLD THIS POTISION ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD THIS POTISION for 30 SECONDS***"
+	{
+		"chi"		"**坚守30秒**"
+	}
+	"*** HOLD THIS POTISION for 20 SECONDS***"
+	{
+		"chi"		"**坚守20秒**"
+	}
+	"*** HOLD THIS POTISION for 10 SECONDS***"
+	{
+		"chi"		"**坚守10秒**"
+	}
+	"*** HOLD THIS POTISION for 5 SECONDS***"
+	{
+		"chi"		"**坚守5秒**"
+	}
+	"*** STAGE 1 COMPLETED ***"
+	{
+		"chi"		"**第一关完成**"
+	}
+	"*** STAGE 2 ***"
+	{
+		"chi"		"**第二关**"
+	}
+	"*** LEVEL 8: THE MOVING WALLS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL9传送点30秒后激活**"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL9传送点20秒后激活**"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL9传送点10秒后激活**"
+	}
+	"*** LEVEL9 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL9传送点5秒后激活**"
+	}
+	"*** LEVEL 9:  THE ROTATING SCAFFOLDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL10传送点30秒后激活**"
+	}
+	"*** A PLAYER HAS PICKED UP A BURNING LIGHT ***"
+	{
+		"chi"		"**一位玩家捡起了火**"
+	}
+	"COOL DOWN : 35 SEC"
+	{
+		"chi"		"**火CD:35秒**"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL10传送点20秒后激活**"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL10传送点10秒后激活**"
+	}
+	"*** LEVEL10 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL10传送点5秒后激活**"
+	}
+	"*** LEVEL 10:  THE MOVING SCAFFOLDS 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 40 SECONDS ***"
+	{
+		"chi"		"**LEVEL11传送点40秒后激活**"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL11传送点30秒后激活**"
+	}
+	"*** A PLAYER HAS PICKED UP A BIG HEALTH LIGHT ***"
+	{
+		"chi"		"**一位玩家捡起了奶**"
+	}
+	"CAUTION :It can use only once"
+	{
+		"chi"		"**注意：奶自能用一次**"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL11传送点20秒后激活**"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL11传送点10秒后激活**"
+	}
+	"*** LEVEL11 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL11传送点5秒后激活**"
+	}
+	"*** LEVEL 11:  SURF ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL12传送点30秒后激活**"
+	}
+	"*** A PLAYER HAS PICKED UP A PUSH LIGHT ***"
+	{
+		"chi"		"**一位玩家捡起了风**"
+	}
+	"COOL DOWN : 40 SEC"
+	{
+		"chi"		"**风CD：40秒**"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL12传送点20秒后激活**"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL12传送点10秒后激活**"
+	}
+	"*** LEVEL12 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL12传送点5秒后激活**"
+	}
+	"*** LEVEL 12:  LASERS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL13传送点30秒后激活**"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL13传送点20秒后激活**"
+	}
+	"*** THE LASER MACHINE IS BROKEN ***"
+	{
+		"chi"		"**激光设备被破坏**"
+	}
+	"*** ALL OF THE FINAL LASER IS DISABLED ***"
+	{
+		"chi"		"**所有激光陷阱被破坏**"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL13传送点10秒后激活**"
+	}
+	"*** LEVEL13 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL13传送点5秒后激活**"
+	}
+	"*** LEVEL 13: FLYING ***"
+	{
+		"chi"		"**LEVEL 13: FLYING（躲开黄色方块飞到顶端）**"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL14传送点30秒后激活**"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL14传送点20秒后激活**"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL14传送点10秒后激活**"
+	}
+	"*** LEVEL14 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL14传送点5秒后激活**"
+	}
+	"*** LEVEL 14:  THE CLOUD BOSS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE SCAFFOLD WILL RISE IN 20 SECONDS ***"
+	{
+		"chi"		"**电梯将在20秒后上升**"
+	}
+	"*** THE SCAFFOLD WILL RISE IN 10 SECONDS ***"
+	{
+		"chi"		"**电梯将在10秒后上升**"
+	}
+	"*** PUSHING ZOMBIE IS COMING ***"
+	{
+		"chi"		"**一位僵尸捡到了风**"
+	}
+	"*** HURTING ZOMBIE IS COMING ***"
+	{
+		"chi"		"**一位僵尸捡到了火**"
+	}
+	"*** THE SCAFFOLD WILL RISE IN 5 SECONDS ***"
+	{
+		"chi"		"**电梯将在5秒后上升**"
+	}
+	"*** THE CUTE CLOUD and HIS CHILDREN are APPEARED!! SHOOT THEM!! ***"
+	{
+		"chi"		"**BOSS出现了，向他们射击**"
+	}
+	"*** THE CUTE CLOUD STARTED MOVING ***"
+	{
+		"chi"		"**BOSS开始移动**"
+	}
+	"*** THE CUTE CLOUD IS ANGRY!! DON'T STOP SHOOTING!! ***"
+	{
+		"chi"		"**BOSS狂暴了，继续射击**"
+	}
+	"*** IT CALLED MORE HIS CHILDREN ***"
+	{
+		"chi"		"**更多的小云出现了**"
+	}
+	"*** THE CUTE CLOUD IS DEFEATED ***"
+	{
+		"chi"		"**BOSS被击败了**"
+	}
+	"*** RUN TO THE NEXT DEFENCE POINT ***"
+	{
+		"chi"		"**跑到下一个防守点**"
+	}
+	"*** ZOMBIE WILL COME IN 10 SECONDS ***"
+	{
+		"chi"		"**僵尸10秒后出笼**"
+	}
+	"*** ZOMBIE IS COMING ***"
+	{
+		"chi"		"**僵尸突破空气墙**"
+	}
+	"*** STAGE COMPLETE IN 30 SECONDS ***"
+	{
+		"chi"		"**坚守30秒**"
+	}
+	"*** STAGE COMPLETE IN 20 SECONDS ***"
+	{
+		"chi"		"**坚守20秒**"
+	}
+	"*** STAGE COMPLETE IN 10 SECONDS ***"
+	{
+		"chi"		"**坚守10秒**"
+	}
+	"*** STAGE COMPLETE IN 5 SECONDS ***"
+	{
+		"chi"		"**坚守5秒**"
+	}
+	"*** STAGE 2 COMPLETED ***"
+	{
+		"chi"		"**第二关完成**"
+	}
+	"*** STAGE 3 ***"
+	{
+		"chi"		"**第三关**"
+	}
+	"*** LEVEL 15: THE MOVING SCAFFOLD 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE SCAFFOLD WILL MOVE IN 5 SECONDS ***"
+	{
+		"chi"		"**板架5秒后启动**"
+	}
+	"*** LEFT DOOR AND RIGHT DOOR ARE OPENING ***"
+	{
+		"chi"		"**左右两边大门开启**"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL16传送点30秒后激活**"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL16传送点20秒后激活**"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL16传送点10秒后激活**"
+	}
+	"*** LEVEL16 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL16传送点5秒后激活**"
+	}
+	"*** LEVEL 16: VARIOUS TYPE ROAD 1 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL17传送点30秒后激活**"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL17传送点20秒后激活**"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL17传送点10秒后激活**"
+	}
+	"*** LEVEL17 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL17传送点5秒后激活**"
+	}
+	"*** LEVEL 17: VARIOUS TYPE ROAD 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL18传送点30秒后激活**"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL18传送点20秒后激活**"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL18传送点10秒后激活**"
+	}
+	"*** LEVEL18 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL18传送点5秒后激活**"
+	}
+	"*** LEVEL18 SLIDE 2 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL19传送点30秒后激活**"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL19传送点20秒后激活**"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL19传送点10秒后激活**"
+	}
+	"*** LEVEL19 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL19传送点5秒后激活**"
+	}
+	"*** LEVEL 19: VARIOUS TYPE ROAD 3 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BARRIER DISABLED ***"
+	{
+		"chi"		"**屏障消失**"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**LEVEL20传送点30秒后激活**"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**LEVEL20传送点20秒后激活**"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**LEVEL20传送点10秒后激活**"
+	}
+	"*** LEVEL20 PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**LEVEL20传送点5秒后激活**"
+	}
+	"*** LEVEL 20: VARIOUS TYPE ROAD 4 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FINAL PORTAL ACTIVATED in 30 SECONDS ***"
+	{
+		"chi"		"**最后的传送点30秒后激活**"
+		"DoorCountDown"		"30"
+	}
+	"*** FINAL PORTAL ACTIVATED in 20 SECONDS ***"
+	{
+		"chi"		"**最后的传送点20秒后激活**"
+	}
+	"*** FINAL PORTAL ACTIVATED in 10 SEDONDS ***"
+	{
+		"chi"		"**最后的传送点10秒后激活**"
+	}
+	"*** FINAL PORTAL ACTIVATED in 5 SECONDS ***"
+	{
+		"chi"		"**最后的传送点5秒后激活**"
+	}
+	"*** FINAL LEVEL:  ???? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** KEY BOARD CRASHER IS APPEARED!! SHOOT HIM!! ***"
+	{
+		"chi"		"**德国BOY出现了**"
+	}
+	"*** KEY BOARD CRASHER STARTED MOVING ***"
+	{
+		"chi"		"**德国BOY开始移动**"
+	}
+	"*** Watch out for esc cannon and your head !! ***"
+	{
+		"chi"		"**小心ESC炮弹和头上的键盘**"
+	}
+	"*** KEY BOARD CRASHER IS ANGRY!! DON'T STOP SHOOTING!! ***"
+	{
+		"chi"		"**德国BOY狂暴了**"
+	}
+	"*** Another cannon started ***"
+	{
+		"chi"		"**另一个ESC炮弹启动**"
+	}
+	"*** Watch out for something !! ***"
+	{
+		"chi"		"**小心点！！**"
+	}
+	"*** KAMIKAZE ZOMBIE IS COMING ***"
+	{
+		"chi"		"**一位僵尸捡起了自爆**"
+	}
+	"*** A PLAYER HAS PICKED UP A COLD LIGHT ***"
+	{
+		"chi"		"**一位玩家捡起了冰**"
+	}
+	"COOL DOWN : 50 SEC"
+	{
+		"chi"		"**冰CD:50秒**"
+	}
+	"*** KEY BOARD CRASHER IS DEAD ***"
+	{
+		"chi"		"**德国BOY死了**"
+	}
+	"*** ALL STAGE COMPLETE IN 30 SECONDS ***"
+	{
+		"chi"		"**坚守30秒（站在平台两边守，中间德国BOY会冲过来）**"
+		"DoorCountDown"		"30"
+		"ico"		"icon_fire"
+	}
+	"*** ALL STAGE COMPLETE IN 20 SECONDS ***"
+	{
+		"chi"		"**坚守20秒（站在平台两边守，中间德国BOY会冲过来）**"
+		"ico"		"icon_fire"
+	}
+	"*** !? ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CAREFULL!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ALL STAGE COMPLETE IN 10 SECONDS ***"
+	{
+		"chi"		"**所有关卡在10秒后结束**"
+	}
+	"*** ALL STAGE COMPLETE IN 5 SECONDS ***"
+	{
+		"chi"		"**坚守5秒**"
+	}
+	"*** ALL STAGE COMPLETED. EXTREME MODE IS COMING ***"
+	{
+		"chi"		"**所有关卡完成，EX模式启动**"
+	}
+	"*** STAGE 1: EXTREME ***"
+	{
+		"chi"		"**EX1**"
+	}
+	"*** ONE PERSON CAN SELLECT THE EXTREME MODE !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HURRY ! HURRY !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ONE PERSON WENT TO EXTRA MODE SELECTION ZONE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** A PERSON PRESSED ALL ITEM MODE BUTTON ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ALL HUMANS TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"**所有人类5秒后传送**"
+	}
+	"*** ALL ZOMBIES TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE 1: EXTREME COMPLETED ***"
+	{
+		"chi"		"**EX1完成**"
+	}
+	"*** STAGE 2: EXTREME ***"
+	{
+		"chi"		"**EX2**"
+	}
+	"*** A PERSON PRESSED QUICK MODE BUTTON ***"
+	{
+		"chi"		"**一位玩家选择了快速模式**"
+	}
+	"*** A PERSON PRESSED LOW FRICTION MODE BUTTON ***"
+	{
+		"chi"		"**一位玩家选择了低摩擦模式**"
+	}
+	"*** A PLAYER HAS PICKED UP A SMALL HEALTH LIGHT ***"
+	{
+		"chi"		"**一位玩家捡起了小奶（恢复到100血）**"
+	}
+	"CUTE CLOUD :Hi,humans..."
+	{
+		"chi"		"**萌云：你好人类**"
+	}
+	"CUTE CLOUD :I don't fight with you..."
+	{
+		"chi"		"**萌云：我不会和你对抗...**"
+	}
+	"CUTE CLOUD :but..."
+	{
+		"chi"		"**萌云：但是...**"
+	}
+	"CUTE CLOUD :My captain fight with you !!!"
+	{
+		"chi"		"**萌云：我的队长会和你对抗**"
+	}
+	"CUTE CLOUD :HEY CAPTAIN !! PLEASE DEFEAT THEM !!!!!!!!"
+	{
+		"chi"		"**萌云：队长！！把他们消灭了！！！！！！！**"
+	}
+	"CAPTAIN CLOUD :IRASSYAI MASE"
+	{
+		"chi"		"**队长：遵命**"
+	}
+	"CUTE CLOUD :Please defeat them !! We will help you !!"
+	{
+		"chi"		"**萌云：请打败他们！！，我会帮助你！！**"
+	}
+	"*** ZOMBIES ARE ALIVE !! BE CAREFUL !! ***"
+	{
+		"chi"		"**僵尸路开启，小心**"
+	}
+	"*** A PERSON PRESSED ALL ITEM BUTTON ***"
+	{
+		"chi"		"**一位玩家按下全道具按钮**"
+	}
+	"*** A PLAYER HAS PICKED UP THE MEGA LASER ***"
+	{
+		"chi"		"** **"
+	}
+	"*** IT IS A SECRET ITEM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU CAN KILL EASIER THE ZOMBIE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** EXPLOSION IN 3 SECONDS!!!!! ***"
+	{
+		"chi"		"**3秒后爆炸!!!!!**"
+	}
+	"*** 2!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 1!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :You made me angry...."
+	{
+		"chi"		"**队长：你们让我很恼火.....**"
+	}
+	"CAPTAIN CLOUD :Look the my full power !!!!!!!!!!!!!"
+	{
+		"chi"		"**队长：让你们见识下我真正的实力!!!!!!!!!!!!!**"
+	}
+	"CAPTAIN CLOUD :YOU MUST DIE !!!!"
+	{
+		"chi"		"**队长：你们都得死!!!!**"
+	}
+	"CAPTAIN CLOUD :O...Oh my god... I lose..."
+	{
+		"chi"		"**队长：哦...哦，我的上帝...我输了... **"
+	}
+	"CAPTAIN CLOUD :Hey... You are very strong...."
+	{
+		"chi"		"**队长:嘿...你很强.... **"
+	}
+	"CAPTAIN CLOUD :I think..."
+	{
+		"chi"		"**队长：我认为... **"
+	}
+	"CAPTAIN CLOUD : you can defeat new formation of invader..."
+	{
+		"chi"		"**队长：你可以打败入侵者的新形态... **"
+	}
+	"CAPTAIN CLOUD :knowing you..."
+	{
+		"chi"		"**队长：认识你... **"
+	}
+	"CAPTAIN CLOUD :See you again..."
+	{
+		"chi"		"**队长：再见... **"
+	}
+	"*** You defeated captain cloud ***"
+	{
+		"chi"		"**你打败了队长 **"
+	}
+	"*** Zombie will come in 10 seconds  ***"
+	{
+		"chi"		"**僵尸将在10秒后释放 **"
+	}
+	"*** ZOMBIES ARE COMING ***"
+	{
+		"chi"		"**僵尸来了 **"
+	}
+	"!?"
+	{
+		"chi"		"** **"
+	}
+	"CUTE CLOUD :Hey humans !!"
+	{
+		"chi"		"**萌云：嘿.人类！！ **"
+	}
+	"CUTE CLOUD :I can't allow you even my captain trust you !!"
+	{
+		"chi"		"**萌云：我不能让我的队长都相信你！！ **"
+	}
+	"CUTE CLOUD :TAKE MY FINAL ATTACK !!!!!!!!!!!!!!!!!!!!!"
+	{
+		"chi"		"**萌云：接受我最后的攻击吧！！！！！！！！！ **"
+	}
+	">>> AIR SLASHER IS COMING <<<< AVOID IT DUCK OR JUMP !!!!"
+	{
+		"chi"		"** **"
+	}
+	"Remember : 5 COUNTS !!!!!"
+	{
+		"chi"		"** **"
+	}
+	"CUTE CLOUD :AAAHhhhh...."
+	{
+		"chi"		"**萌云：AAAHhhhh....**"
+	}
+	"*** STAGE 2 :EXTREME COMPLETED ***"
+	{
+		"chi"		"**EX2完成 **"
+	}
+	"*** STAGE 3: EXTREME ***"
+	{
+		"chi"		"**EX3 **"
+	}
+	"*** We don't know what will happen... ***"
+	{
+		"chi"		"**我们不知道会发生什么…… **"
+	}
+	"*** GOOD LUCK... ***"
+	{
+		"chi"		"**祝你好运... **"
+	}
+	"*** HE ISN'T HERE...?***"
+	{
+		"chi"		"**他不在这里......？ **"
+	}
+	"*** ALL EXTREME STAGE COMPLETE IN 30 SECONDS ***"
+	{
+		"chi"		"**所有EX关卡在30秒后结束 **"
+	}
+	"*** ALL EXTREME STAGE COMPLETE IN 20 SECONDS ***"
+	{
+		"chi"		"**所有EX关卡在20秒后结束 **"
+	}
+	"*** ALL EXTREME STAGE COMPLETE IN 10 SECONDS ***"
+	{
+		"chi"		"**所有EX关卡在10秒后结束 **"
+	}
+	"*** ALL EXTREME STAGE COMPLETE IN 5 SECONDS ***"
+	{
+		"chi"		"**所有EX关卡在5秒后结束 **"
+	}
+	"*** EXTREME STAGE COMPLETED...? ***"
+	{
+		"chi"		"**EX关卡结束？ **"
+	}
+	"*** JUMP ***"
+	{
+		"chi"		"**跳跃 **"
+	}
+	"*** Where are we...? ***"
+	{
+		"chi"		"**我们在哪里...？ **"
+	}
+	"*** LEVEL UNKNOWN : UNKNOWN AREA *** ***"
+	{
+		"chi"		"**当前关卡：未知区域 **"
+	}
+	"*** Wait until esc key come ***"
+	{
+		"chi"		"**等到ESC键来 **"
+	}
+	"*** Star road will active in 20 seconds ***"
+	{
+		"chi"		"**星路将在20秒后启动 **"
+		"DoorCountDown"		"20"
+	}
+	"*** Star road will active in 5 seconds ***"
+	{
+		"chi"		"**星路将在5秒后启动 **"
+	}
+	"*** YOU CAN ACROSS NOW !! ***"
+	{
+		"chi"		"**你现在可以进去了！！ **"
+	}
+	"*** We have lost the escape route ***"
+	{
+		"chi"		"**我们已经没有退路了！ **"
+	}
+	"*** Wait until something happen ***"
+	{
+		"chi"		"**等待发生什么事情**"
+	}
+	"*** 5 seconds left ***"
+	{
+		"chi"		"**还剩5秒 **"
+	}
+	"CRASHER : hahahahHAHAHAHAHHHAHHAHAhHHHHHAAHAHA"
+	{
+		"chi"		"**不速之客：hahahahHAHAHAHAHHHAHHAHAhHHHHHAAHAHA **"
+	}
+	"CRASHER : You can't kill me forever !!!!"
+	{
+		"chi"		"**不速之客：你永远杀不了我！！！ **"
+	}
+	"*** ZOMBIE WAVE ***"
+	{
+		"chi"		"**僵尸海**"
+	}
+	"*** KEYBOARD ATTACK ***"
+	{
+		"chi"		"**键盘攻击**"
+	}
+	"*** >>>> WARNING <<<< KEYBOARD RUSH ***"
+	{
+		"chi"		"**>>>> 警告 <<<< 键盘RUSH**"
+	}
+	"CRASHER :HAHAHA!!! What's the taste of this !!!?!?!?!"
+	{
+		"chi"		"**不速之客：HAHAHA！！！这个感觉怎么样！！！？！？！？！ **"
+	}
+	"CRASHER :It's over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
+	{
+		"chi"		"**不速之客：一切都结束了！！！HAHAHAHAHA！！！ **"
+	}
+	"????? :That you won't !!!"
+	{
+		"chi"		"**？？？？？:别痴心妄想了！！！ **"
+	}
+	"CAPTAIN CLOUD :Don't take hand for them !!"
+	{
+		"chi"		"**云队长：不要协助他们！！**"
+	}
+	"CAPTAIN CLOUD :Hey! Humans !! I will help you !!"
+	{
+		"chi"		"**云队长：嘿！人类！！我会帮助你的！！ **"
+	}
+	"CAPTAIN :Pick up me !! I will attack him !!!"
+	{
+		"chi"		"**云队长：捡起我！！我会攻击他！！！ **"
+	}
+	"*** A player has picked up the Captain cloud ***"
+	{
+		"chi"		"**一位玩家拿起云队长 **"
+	}
+	"CRASHER :HAHAHA !!! You can't kill me whatever you do anything !!!!!!"
+	{
+		"chi"		"**不速之客:HAHAHA！！！无论你做什么都杀不了我！！！ **"
+	}
+	"*** TAPIOKA PUNCH ***"
+	{
+		"chi"		"**木薯拳**"
+	}
+	"CRASHER :Wha...What...? I was defeated by them....?"
+	{
+		"chi"		"**粉碎机：什...什么...？我被他们打败了....？ **"
+	}
+	"CRASHER :BANZAIIIIIIIIIIIIIIIIIIIII !!!!!!!!!!!!!!!!!!"
+	{
+		"chi"		"** **"
+	}
+	"CAPTAIN CLOUD :Thanks for helping defeat him...."
+	{
+		"chi"		"**队长：谢谢你帮助我们打败了他... **"
+	}
+	"CAPTAIN CLOUD :You are our hero...."
+	{
+		"chi"		"**队长：你是我们的英雄... **"
+	}
+	"CAPTAIN CLOUD :I don't forgot this thing. See you again...."
+	{
+		"chi"		"**队长：我不会忘记这件事.再见... **"
+	}
+	"*** WE BACKED ***"
+	{
+		"chi"		"**我们撤退吧**"
+	}
+	"*** THIS IS OUR LAST STAND !!!!!!! ***"
+	{
+		"chi"		"**这是最后一战了！！！！ **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 40 SECONDS !!!!! ***"
+	{
+		"chi"		"**天空竞技将在40秒后完成！！！！！ **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 30 SECONDS !!!!! ***"
+	{
+		"chi"		"**天空竞技将在30秒后完成！！！！！ **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 20 SECONDS !!!!! ***"
+	{
+		"chi"		"**天空竞技将在20秒后完成！！！！！ **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 10 SECONDS !!!!! ***"
+	{
+		"chi"		"**天空竞技将在10秒后完成！！！！！ **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 9 SECONDS !!!!! ***"
+	{
+		"chi"		"**天空竞技将在9秒后完成！！！！！ **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 8 SECONDS !!!!! ***"
+	{
+		"chi"		"**天空竞技将在8秒后完成！！！！！ **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 7 SECONDS !!!!! ***"
+	{
+		"chi"		"**天空竞技将在7秒后完成！！！！！ **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 6 SECONDS !!!!! ***"
+	{
+		"chi"		"**天空竞技将在6秒后完成！！！！！ **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 5 SECONDS !!!!! ***"
+	{
+		"chi"		"**天空竞技将在5秒后完成！！！！！ **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 4 SECONDS !!!!! ***"
+	{
+		"chi"		"**天空竞技将在4秒后完成！！！！！ **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 3 SECONDS !!!!! ***"
+	{
+		"chi"		"**天空竞技将在3秒后完成！！！！！ **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 2 SECONDS !!!!! ***"
+	{
+		"chi"		"**天空竞技将在2秒后完成！！！！！ **"
+	}
+	"*** SKY ATHLETIC COMPLETE IN 1 SECONDS !!!!! ***"
+	{
+		"chi"		"**天空竞技将在1秒后完成！！！！！ **"
+	}
+	"*** YOU COMPLETED SKY ATHLETIC !!!! CONGRATULATIONS !!!!"
+	{
+		"chi"		"**你通关了天空竞技！！！恭喜！！！ **"
+	}
+	"*** DRAIN KEYBOARD ***"
+	{
+		"chi"		"**键盘外流**"
+	}
+	"*** FLYING CHANCE ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ESC STORM ***"
+	{
+		"chi"		"**ESC风暴 **"
+	}
+	"*** OVERRUN PROTECTER DISABLED ***"
+	{
+		"chi"		"**超限保护禁用 **"
+	}
+	"*** OVERRUN PROTECTER ENABLED ***"
+	{
+		"chi"		"**超限保护启用 **"
+	}
+	"*** KEYBOARD CUTTER ***"
+	{
+		"chi"		"**键盘切割机... **"
+	}
+	"*** Marathon MODE ***"
+	{
+		"chi"		"**马拉松模式 **"
+	}
+	"*** Random trigger activated ***"
+	{
+		"chi"		"**随机触发一种模式 **"
+	}
+	"*** Soft move trigger ***"
+	{
+		"chi"		"**减速模式触发 **"
+	}
+	"*** Low friction Trigger ***"
+	{
+		"chi"		"**低摩擦模式触发 **"
+	}
+	"*** Low gravity Trigger ***"
+	{
+		"chi"		"**低重力模式触发 **"
+	}
+	"*** THE CUTE CLOUD IS ANGRY!! DONT STOP SHOOTING!! ***"
+	{
+		"chi"		"**萌云很生气! !不要停止射击! ! **"
+	}
+	"CUTE CLOUD :I dont fight with you..."
+	{
+		"chi"		"**萌云：我不会和你战斗... **"
+	}
+	"*** KEY BOARD CRASHER IS ANGRY!! DONT STOP SHOOTING!! ***"
+	{
+		"chi"		"**不速之客很生气!!不要停止射击！！ **"
+	}
+	"CUTE CLOUD :I cant allow you even my captain trust you !!"
+	{
+		"chi"		"**萌云：我不能让我的队长信任你！！ **"
+	}
+	"*** We dont know what will happen... ***"
+	{
+		"chi"		"**我们不知道会发生什么... **"
+	}
+	"*** HE ISNT HERE...?***"
+	{
+		"chi"		"**他不在这里...？ **"
+	}
+	"CRASHER : You cant kill me forever !!!!"
+	{
+		"chi"		"**不速之客：你永远都不能杀了我！！！ **"
+	}
+	"*** CRASHER HEALED 70 HP ***"
+	{
+		"chi"		"**不速之客恢复了70HP **"
+	}
+	"CAPTAIN CLOUD :I dont forgot this thing. See you again...."
+	{
+		"chi"		"**队长：我不会忘了这件事.再见... **"
+	}
+	"*** Anti bhop DISABLED ***"
+	{
+		"chi"		"**反连跳系统禁用 **"
+	}
+	"*** Screen trigger ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TIME UP !! Someone go to the goal !! ***"
+	{
+		"chi"		"**时间到！！有人已经抵达终点！！ **"
+	}
+	"*** You have 10 seconds to select the level ***"
+	{
+		"chi"		"**你有10秒种来选择关卡 **"
+	}
+	"*** All kill in 10 seconds ***"
+	{
+		"chi"		"**10秒后杀死所有人 **"
+	}
+	"*** All kill in 5 seconds ***"
+	{
+		"chi"		"**5秒后杀死所有人 **"
+	}
+	"*** Stage3 button PRESSED ***"
+	{
+		"chi"		"**第三关按钮按下 **"
+	}
+	"*** Marathon mode button PRESSED ***"
+	{
+		"chi"		"**马拉松模式按钮按下 **"
+	}
+	"*** Stage2 button PRESSED ***"
+	{
+		"chi"		"**第二关按钮按下 **"
+	}
+	"*** Stage1 button PRESSED ***"
+	{
+		"chi"		"**第一关按钮按下 **"
+	}
+	"*** Stage2:EXTREME button PRESSED ***"
+	{
+		"chi"		"**EX2按钮按下 **"
+	}
+	"*** Stage3: EXTREME button PRESSED ***"
+	{
+		"chi"		"**EX3按钮按下 **"
+	}
+	"*** Stage1:EXTREME button PRESSED ***"
+	{
+		"chi"		"**EX1按钮按下 **"
+	}
+	"*** FIRST PORTAL ACTIVATED in 20 SEDONDS ***"
+	{
+		"chi"		"**第一个传送点20秒后激活**"
+	}
+	"*** WARNING : FAST SPAWN ***"
+	{
+		"chi"		"**警告：重生速度加快**"
+	}
+	"*** WHAT !! where is there...? ***"
+	{
+		"chi"		"**什么！！这里是哪里...？**"
+	}
+	"*** Be careful !! ***"
+	{
+		"chi"		"**小心！！**"
+	}
+	"????? : I saw you when you were fighting with my brother ...."
+	{
+		"chi"		"**？？？？？：我看见你和我兄弟战斗**"
+	}
+	"????? : Im cute clouds sister..."
+	{
+		"chi"		"**？？？？？：我可爱的云妹妹**"
+	}
+	"Girl cloud : and... you defeated my brother..."
+	{
+		"chi"		"**云妹妹：而且...你击败了我哥哥...**"
+	}
+	"Girl cloud : I will avenge the death...!!!!!"
+	{
+		"chi"		"**云妹妹:我会用死亡来报复你...！！！！！**"
+	}
+	"Girl cloud : Lets fight with me !!!!!"
+	{
+		"chi"		"**云妹妹:来和我战斗吧！！！！！**"
+	}
+	"Girl cloud : OMG...I was defeated..."
+	{
+		"chi"		"**云妹妹:啊...我被击败了...**"
+	}
+	"Girl cloud : but... I prepared the machine for killing humans...!!"
+	{
+		"chi"		"**云妹妹:但是...我准备了这台机车来杀死你们...！！**"
+	}
+	"Girl cloud : LOOK THE MY MACHINE !!!!"
+	{
+		"chi"		"**云妹妹:这就是我的机车！！！！**"
+	}
+	"Girl cloud : What do you think about this machine ???"
+	{
+		"chi"		"**云妹妹:你觉得这台机车怎么样？？？**"
+	}
+	"Girl cloud : I think.... Its very beautiful !!!!!!!!!!!!!!"
+	{
+		"chi"		"**云妹妹:我觉得...这个非常绚丽！！！！！！！！！！**"
+	}
+	"Girl cloud : GO TO HELL !!!!!!!!!!!!!!!!"
+	{
+		"chi"		"**云妹妹:去死吧！！！！！！！！！！！！！**"
+	}
+	"WARNING : ZOMBIES ARE ALIVE !!!"
+	{
+		"chi"		"**警告：僵尸可以进攻！！！**"
+	}
+	"*** HINT : Dont shoot the machine !! SHOOT THE her head !!! ***"
+	{
+		"chi"		"**提醒：不要射击机车！！射击她的头部！！！**"
+	}
+	"Girl cloud : I...I cant die in here...!!!!!"
+	{
+		"chi"		"**云妹妹：我...我不能死在这里...！！！！！**"
+	}
+	"Girl cloud : need....FULL POWER.....!!!!!!!!"
+	{
+		"chi"		"**云妹妹：需要...全力以赴...！！！！！！！！**"
+	}
+	"*** She is awakening !!! Dont stop shooting !!!! ***"
+	{
+		"chi"		"**她醒过来了！！！快攻击她！！！！！**"
+	}
+	"Girl cloud : What...? Machine error..!?"
+	{
+		"chi"		"**云妹妹：什么...？机车出问题了？..！？**"
+	}
+	"Girl cloud : OH no!!! Please move !!!!"
+	{
+		"chi"		"**云妹妹：不！！！拜托动起来吧！！！！**"
+	}
+	"Girl cloud : AHHHHHHHHHHHH !!!!!!!"
+	{
+		"chi"		"**云妹妹：AHHHHHHHHHHHH**"
+	}
+	"*** You defeated Girl cloud ***"
+	{
+		"chi"		"**你击败了云妹妹**"
+	}
+	"*** Shit!! Zombies come here!! Defend your self !! ***"
+	{
+		"chi"		"**草！！僵尸要过来了，保护你们自己！！**"
+	}
+	"*** SURVIVE FOR 15 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 14 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 13 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 12 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 11 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 10 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 9 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 8 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 7 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 6 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 5 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 4 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 3 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 2 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SURVIVE FOR 1 SECONDS !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** We can feel hard wind pressure...!! Dodge it !!!"
+	{
+		"chi"		"**我们感受到强风压近...！！！躲开它！！！**"
+	}
+	"Remember : 8 COUNTS !!!!!"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"68599"
+	}
+	"** NOT ALLOWING PORTING TO CSS ***"
+	{
+		"chi"		"**该地图不允许移植到CSS**"
+	}
+	"*** WARM UP ROUND ***"
+	{
+		"chi"		"**热身局**"
+	}
+	"*** Welcome to the sky athletic !!! ***"
+	{
+		"chi"		"**欢迎来到sky athletic！！！**"
+	}
+	"*** This world needs something Technique ***"
+	{
+		"chi"		"**这个世界需要一些技术才能游玩**"
+	}
+	"*** This round is WARM UP ROUND ***"
+	{
+		"chi"		"**这是热身局**"
+	}
+	"*** Lets practice before starting the game !!***"
+	{
+		"chi"		"**让我们开始游戏之前练习技术！！！**"
+	}
+	"*** ADVENTURE WILL START IN 1 MINUTE AND 30 SECONDS***"
+	{
+		"chi"		"**1分30秒后开始冒险**"
+	}
+	"*** ADVENTURE WILL START IN 30 SECONDS ***"
+	{
+		"chi"		"**30秒后开始冒险**"
+	}
+	"*** ADVENTURE WILL START IN 10 SECONDS ***"
+	{
+		"chi"		"**10秒后开始冒险**"
+	}
+	"*** ADVENTURE WILL START IN 5 SECONDS ***"
+	{
+		"chi"		"**5秒后开始冒险**"
+	}
+	"*** ADVENTURE is begining... Good lu"
+	{
+		"chi"		"**冒险开始了...祝你好运**"
+	}
+	"cccccccckkkkkkkkkkkkkkkkkkkkkkkkkk"
+	{
+		"chi"		"** **"
+	}
+	"*** FIRST Portal will active in 20 SEDONDS ***"
+	{
+		"chi"		"**第一个传送点20秒后激活**"
+	}
+	"*** FIRST Portal will active in 5 SECONDS ***"
+	{
+		"chi"		"**第一个传送点5秒后激活**"
+	}
+	"***ZOMBIES ARE COMING***"
+	{
+		"chi"		"**僵尸突破空气墙**"
+	}
+	"*** Weather is getting bad... ***"
+	{
+		"chi"		"**天气变得恶劣了...**"
+	}
+	"*** FIRST Portal will active in 10 SECONDS ***"
+	{
+		"chi"		"**第一个传送点10秒后激活**"
+	}
+	"*** LEVEL19 Portal will active in 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL19 Portal will active in 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL19 Portal will active in 10 SEDONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL19 Portal will active in 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL20 Portal will active in 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL20 Portal will active in 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL20 Portal will active in 10 SEDONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL20 Portal will active in 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FINAL Portal will active in 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FINAL Portal will active in 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FINAL Portal will active in 10 SEDONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** FINAL Portal will active in 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"CLOUD FATHER :I hope he is dead..."
+	{
+		"chi"		"**云爸爸:我希望他已经死了...**"
+	}
+	"CLOUD FATHER :Humans,we dont know he is really dead."
+	{
+		"chi"		"**云爸爸:人类，我们不知道他是不是真的死了.**"
+	}
+	"CLOUD FATHER :Take care if you go anymore."
+	{
+		"chi"		"**云爸爸:如果你离开的话请小心.**"
+	}
+	"*** DEFEND FOR 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Defend for 20 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Defend for 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** DEFEND FOR 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CONGRATULATIONS !!!!!!!! ***"
+	{
+		"chi"		"**恭喜！！！！！！！！！！**"
+	}
+	"*** YOU SECURED SKY ATHLETIC...? ***"
+	{
+		"chi"		"**你在SKY ATHLETIC活下来了...？**"
+	}
+	"*** STAGE : KEY WORLD ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Portal is broken by unknown !!!!! ***"
+	{
+		"chi"		"**传送点因不明原因损坏了**"
+	}
+	"*** HE COMES AGAIN !!! ***"
+	{
+		"chi"		"**他又来了！！！**"
+	}
+	"*** WATCH OUT !! ***"
+	{
+		"chi"		"**小心！！！**"
+	}
+	"*** Character brok** a*d ano**er way o*****  ***"
+	{
+		"chi"		"**字符 损*不 禾* 另*条 道路 离******"
+	}
+	"*** 40 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 20 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 10 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SHOOT HIM !! He has very strong power !! ***"
+	{
+		"chi"		"**朝他开枪！！他有非常强大的力量！！**"
+	}
+	"*** KEY RUINS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIES ARE ALIVE !! SHOOT THEM TOO !! ***"
+	{
+		"chi"		"**僵尸要过来了！！守住！！**"
+	}
+	"*** KEY CANNON ***"
+	{
+		"chi"		"**KEY大炮**"
+	}
+	"*** KEY METEOR ***"
+	{
+		"chi"		"**KEY流星**"
+	}
+	"*** SUMMONING KEY ***"
+	{
+		"chi"		"**召唤KEY**"
+	}
+	"*** KEYBOARD CUTTER 2 ***"
+	{
+		"chi"		"**键盘切割机2**"
+	}
+	"*** KEYBOARD PARADISE ***"
+	{
+		"chi"		"**键盘天堂**"
+	}
+	"*** DRAIN KEYBOARD 2 ***"
+	{
+		"chi"		"**键盘外流2**"
+		"ico"		"icon_fire"
+	}
+	"*** KEY METEOR 2 ***"
+	{
+		"chi"		"**KEY流星2**"
+	}
+	"*** THE WAY OF DELETEING ***"
+	{
+		"chi"		"**删除**"
+	}
+	"*** 8 **"
+	{
+		"chi"		"** **"
+	}
+	"*** 7 **"
+	{
+		"chi"		"** **"
+	}
+	"*** 6 **"
+	{
+		"chi"		"** **"
+	}
+	"*** 5 **"
+	{
+		"chi"		"** **"
+	}
+	"*** 4 **"
+	{
+		"chi"		"** **"
+	}
+	"*** 3 **"
+	{
+		"chi"		"** **"
+	}
+	"*** 2 **"
+	{
+		"chi"		"** **"
+	}
+	"*** 1 **"
+	{
+		"chi"		"** **"
+	}
+	"*** 0 **"
+	{
+		"chi"		"** **"
+	}
+	"*** BURNING KEYBOARD ***"
+	{
+		"chi"		"**键盘燃烧**"
+	}
+	"*** LEVEL2 Portal will active in 30 SECONDS***"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"*** LEVEL2 Portal will active in 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL2 Portal will active in 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL2 Portal will active in 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL3 Portal will active in 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL3 Portal will active in 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL3 Portal will active in 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL3 Portal will active in 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL4 Portal will active in 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL4 Portal will active in 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL4 Portal will active in 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL4 Portal will active in 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL5 Portal will active in 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL5 Portal will active in 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL5 Portal will active in 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL5 Portal will active in 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL6 Portal will active in 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL6 Portal will active in 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL6 Portal will active in 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL6 Portal will active in 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL7 Portal will active in 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL7 Portal will active in 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL7 Portal will active in 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL7 Portal will active in 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL7 HOLD THIS POSITION ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD THIS POSITION for 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD THIS POSITION for 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD THIS POSITION for 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** HOLD THIS POSITION for 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL9 Portal will active in 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL9 Portal will active in 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** PUSHING ZOMBIES ARE COMING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL9 Portal will active in 10 SEDONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL9 Portal will active in 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL10 Portal will active in 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL10 Portal will active in 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL10 Portal will active in 10 SEDONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL10 Portal will active in 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL11 Portal will active in 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL11 Portal will active in 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL11 Portal will active in 10 SEDONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL11 Portal will active in 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL 11:  JUMPS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL12 Portal will active in 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL12 Portal will active in 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL12 Portal will active in 10 SEDONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL12 Portal will active in 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL13 Portal will active in 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL13 Portal will active in 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL13 Portal will active in 10 SEDONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL13 Portal will active in 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ALL OF LASER DISABLED ***"
+	{
+		"chi"		"**所有激光陷阱被关闭了**"
+	}
+	"*** LEVEL14 Portal will active in 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL14 Portal will active in 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** HURTING ZOMBIES ARE COMING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL14 Portal will active in 10 SEDONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL14 Portal will active in 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"BOY CLOUD : !? theyre the humans !?"
+	{
+		"chi"		"**云哥哥:！？他们就是人类！？**"
+	}
+	"BOY CLOUD : Hey !! I and my friends will defeat you humans !!"
+	{
+		"chi"		"**云哥哥:嘿！！我和我的朋友会击败你们人类的！！**"
+	}
+	"BOY CLOUD : My father said human is getting our place..."
+	{
+		"chi"		"**云哥哥:我的父亲说人类我抢夺我们的地方...**"
+	}
+	"BOY CLOUD : So!!! I need to defeat you at this time !!"
+	{
+		"chi"		"**云哥哥:所以！！！我现在要击败你！！**"
+	}
+	"BOY CLOUD : If I will be able to defeat you..."
+	{
+		"chi"		"**云哥哥:如果我能击败你...**"
+	}
+	"BOY CLOUD : My father will praise me !!"
+	{
+		"chi"		"**云哥哥:我的父亲会以我为荣！！**"
+	}
+	"BOY CLOUD : Its very proud for me too!!"
+	{
+		"chi"		"**云哥哥:我也会感到骄傲！！**"
+	}
+	"BOY CLOUD : Shoot me !! if you can follow my speed !!"
+	{
+		"chi"		"**云哥哥:攻击我吧！！如果你能跟上我的速度**"
+	}
+	"BOY CLOUD : Nuwaaaaaaaa!! My best speedddddd!!!!!"
+	{
+		"chi"		"**云哥哥:Nuwaaaaaaaa！！看我最快的速度！！！！！**"
+	}
+	"*** IT CALLED MORE HIS FRIENDS ***"
+	{
+		"chi"		"**他呼唤了更多的朋友**"
+	}
+	"BOY CLOUD: Ahh!! remember this things !!!!!!"
+	{
+		"chi"		"**云哥哥:啊！！记住这件事！！！！！！**"
+	}
+	"*** BOY CLOUD IS DEFEATED ***"
+	{
+		"chi"		"**云哥哥被击败**"
+	}
+	"*** ZOMBIE WILL COME IN 8 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL16 Portal will active in 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL16 Portal will active in 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL16 Portal will active in 10 SEDONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL16 Portal will active in 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** KAMIKAZE ZOMBIES ARE COMING ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL17 Portal will active in 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL17 Portal will active in 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL17 Portal will active in 10 SEDONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL17 Portal will active in 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Lift will start in 7 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL18 Portal will active in 30 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL18 Portal will active in 20 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL18 Portal will active in 10 SEDONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"*** LEVEL18 Portal will active in 5 SECONDS ***"
+	{
+		"chi"		"** **"
+	}
+	"Girl CLOUD: You defeated my brother and come this place right?"
+	{
+		"chi"		"**云妹妹:你击败了我哥哥来到这里对吧？**"
+	}
+	"Girl CLOUD: Im boy clouds sister!"
+	{
+		"chi"		"**云妹妹:我是他的妹妹！**"
+	}
+	"Girl CLOUD: I will defeat you !!"
+	{
+		"chi"		"**云妹妹:我会击败你的！！**"
+	}
+	"Girl CLOUD: Im stronger than you and father are thinking!!"
+	{
+		"chi"		"**云妹妹:我想我比你和父亲更加强大！！**"
+	}
+	"Girl CLOUD: Fight me !!"
+	{
+		"chi"		"**云妹妹:和我战斗吧！！**"
+	}
+	"Girl CLOUD : Guh...you are stronger than I thought..."
+	{
+		"chi"		"**云妹妹:guh...你比我想象中的要强大...**"
+	}
+	"Girl CLOUD : but... I prepared the machine for you"
+	{
+		"chi"		"**云妹妹:但是...我准备了机车对付你**"
+	}
+	"Girl CLOUD : What do you think about this machine ?"
+	{
+		"chi"		"**云妹妹:你觉得这个机车怎么样？**"
+	}
+	"Girl CLOUD : !? Not my father made !! ! I was made it myself !!"
+	{
+		"chi"		"**云妹妹:！？不是我父亲制作的！！ ！这是我亲手制作的！！**"
+	}
+	"Girl CLOUD : Ahh... I was taught by him a little..."
+	{
+		"chi"		"**云妹妹:啊...我的确是受到他的一些指导...**"
+	}
+	"Girl CLOUD : A,Anyway !! you will be defeated by this machine!!"
+	{
+		"chi"		"**云妹妹:无，无论如何！！你会被我的机车击败的！！**"
+	}
+	"Girl CLOUD :Cant move finely !! Is engine colding !?"
+	{
+		"chi"		"**云妹妹:不能精准移动了！！发动机被冻住了！？**"
+	}
+	"*** WIND is too strong !! Bullets will be back !! ***"
+	{
+		"chi"		"**风力太强了！！子弹射过来了！！**"
+	}
+	"Girl CLOUD :Stop it !! Engine will be burning !!"
+	{
+		"chi"		"**云妹妹:停下！！发动机要烧起来了！！**"
+	}
+	"Girl cloud : What...? Why cant move !?"
+	{
+		"chi"		"**云妹妹:什么...？为什么动不了了！？**"
+	}
+	"*** Her machine is releasing smoke!!keep shooting !! ***"
+	{
+		"chi"		"**她的机车已经冒烟了！！继续射击！！**"
+	}
+	"Girl cloud : Ahh!! Please move !!"
+	{
+		"chi"		"**云妹妹:啊！！拜托动起来啊！！**"
+	}
+	"Girl cloud : AHHHHHHHHHHHH !!"
+	{
+		"chi"		"**云妹妹:啊啊啊啊啊啊啊啊啊啊啊！！**"
+	}
+	"*** Its her final attack !! ***"
+	{
+		"chi"		"**这是她最后的攻击了！！**"
+	}
+	"BOY CLOUD :I couldnt beat you humans..."
+	{
+		"chi"		"**云哥哥:我击败不了你们人类...**"
+	}
+	"Girl CLOUD :I couldnt beat you too..."
+	{
+		"chi"		"**云妹妹:我也击败不了你们**"
+	}
+	"TWO CLOUDS :but..."
+	{
+		"chi"		"**云兄妹:但是...**"
+	}
+	"TWO CLOUDS :My Father will defeat you instead of us !!"
+	{
+		"chi"		"**云兄妹:我的父亲会代替我们击败你们！！**"
+	}
+	"BOY CLOUD :HEY DAD !! PLEASE DEFEAT THEM !!!!!!!!"
+	{
+		"chi"		"**云哥哥:父亲！！击败他们吧！！！！！！！！！**"
+	}
+	"CLOUD FATHER :IRASSYAI MASE"
+	{
+		"chi"		"**云爸爸:欢迎光临**"
+	}
+	"BOY CLOUD :Please defeat them !! We will help you !!"
+	{
+		"chi"		"**云哥哥:击败他们吧父亲！！我们会帮助你的！！**"
+	}
+	"CLOUD FATHER : HAHAHA,remember your items cant effect me !!"
+	{
+		"chi"		"**云爸爸:哈哈哈，记住你们的神器不会对我起效的！！**"
+	}
+	"CLOUD FATHER :Time to show my high power..."
+	{
+		"chi"		"**云爸爸:是时候展现真正的力量了...**"
+	}
+	"CLOUD FATHER :LOOK !!"
+	{
+		"chi"		"**云爸爸:看！！**"
+	}
+	"CLOUD FATHER :Can you survive !?"
+	{
+		"chi"		"**云爸爸:你存活下来了！？**"
+	}
+	"CLOUD FATHER :oh... I was beaten.."
+	{
+		"chi"		"**云爸爸:噢....我被殴打了...**"
+	}
+	"CLOUD FATHER :Hey... You are very strong...."
+	{
+		"chi"		"**云爸爸:嘿...你真的很强....**"
+	}
+	"CLOUD FATHER :I think..."
+	{
+		"chi"		"**云爸爸:我认为....**"
+	}
+	"CLOUD FATHER :you can defeat him..."
+	{
+		"chi"		"**云爸爸:你能击败他...**"
+	}
+	"CLOUD FATHER :I couldnt defeat him,because he was very stronger than me."
+	{
+		"chi"		"**云爸爸:我不能击败他，因为他比我强太多了**"
+	}
+	"CLOUD FATHER :So please defeat him instead of me..."
+	{
+		"chi"		"**云爸爸:希望你能代替我击败他...**"
+	}
+	"BOY CLOUD :Hey humans !!"
+	{
+		"chi"		"**云哥哥:嘿人类！！**"
+	}
+	"BOY CLOUD :I cant trust you even my father trust you !!"
+	{
+		"chi"		"**云哥哥:就算我父亲相信你我也不相信你**"
+	}
+	"BOY CLOUD :TAKE MY FINAL ATTACK !!!!!!!!!!!!!!!!!!!!!"
+	{
+		"chi"		"**云哥哥:吃我最后一击！！！！！！！！！！！！！！！！！！！！！**"
+	}
+	"Remember : 10 COUNTS !!!!!"
+	{
+		"chi"		"** **"
+	}
+	"BOY CLOUD :Ahhh...They...really...strong...!!!"
+	{
+		"chi"		"**云哥哥:啊....你们....真的....很强...！！！**"
+	}
+	"CLOUD FATHER :Dont take hand for them !!"
+	{
+		"chi"		"**云爸爸:不要帮助他们了！！**"
+	}
+	"CLOUD FATHER :Hey! Humans !! I will help you !!"
+	{
+		"chi"		"**云爸爸:嘿！人类！！我会帮助你的！！**"
+	}
+	"CLOUD FATHER :Pick up me !! I will attack him !!!"
+	{
+		"chi"		"**云爸爸:捡起我！！我会攻击他！！！**"
+	}
+	"*** A player has picked up the CLOUD FATHER ***"
+	{
+		"chi"		"** **"
+	}
+	"CLOUD FATHER :Im giving the power to you..."
+	{
+		"chi"		"**云爸爸:我把我的力量赋予你...**"
+	}
+	"*** This area seems to begin to collapse !!! ***"
+	{
+		"chi"		"**这个区域开始崩溃了！！！**"
+	}
+	"*** CUTE CLOUDS created escape road !! ***"
+	{
+		"chi"		"**萌云们生成了一条新的逃生道路**"
+	}
+	"*** Across their head !! ***"
+	{
+		"chi"		"**从他们的头上逃走！！**"
+	}
+	"*** WATCH OUT !!!!!!! ***"
+	{
+		"chi"		"**小心！！！！！！！**"
+	}
+	"*** The ESC Key is blocking our way !! ***"
+	{
+		"chi"		"**这个ESC键挡住我们的道路了！！**"
+	}
+	"*** HOLD FOR 35 SECONDS !! ***"
+	{
+		"chi"		"**防御35秒！！**"
+	}
+	"*** 5 SECONDS LEFT !!***"
+	{
+		"chi"		"** **"
+	}
+	"*** RUN !!!!!!!***"
+	{
+		"chi"		"** **"
+	}
+	"*** THE CLOUD FATHER is top of the way !! ***"
+	{
+		"chi"		"**云爸爸在路的尽头！！**"
+	}
+	"*** GET ON THE HIM !! ***"
+	{
+		"chi"		"**跳到他上面！！**"
+	}
+	"*** He is not dead yet !! ***"
+	{
+		"chi"		"**不速之客还没有死！！**"
+	}
+	"*** SHOOT HIM WITH YOUR FULL POWER !!!!!!!!!!!!! ***"
+	{
+		"chi"		"**用你的全力射击他！！！！！！！！！！！！！！！**"
+	}
+	"*** SHOOT !! BEFORE HE KILL CLOUD FATHER !!!! ***"
+	{
+		"chi"		"**在他杀死云爸爸前快杀死他！！！！**"
+	}
+	"*** THE CLOUD FATHER IS KILLED BY HIM !!* **"
+	{
+		"chi"		"**云爸爸被不速之客杀死了！！**"
+	}
+	"*** ADVENTURE IS OVER ***"
+	{
+		"chi"		"**冒险结束了**"
+	}
+	"CRASHER :HAHAHA!!! Whats the taste of this !!!?!?!?!"
+	{
+		"chi"		"**不速之客：哈哈哈哈哈！！！这个感觉怎么样！！！？！？！？！**"
+	}
+	"CRASHER :Its over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
+	{
+		"chi"		"**不速之客：一切都结束了！！！HAHAHAHAHA！！！**"
+	}
+	"????? :That you wont !!!"
+	{
+		"chi"		"**？？？？？:别痴心妄想了！！！**"
+	}
+	"CRASHER :HAHAHA !!! You cant kill me whatever you do anything !!!!!!"
+	{
+		"chi"		"**不速之客：哈哈哈！！！不管你做什么你都杀不死我的！！！！**"
+	}
+	"*** YOU DID IT !!! HE REALLY DEAD !! ***"
+	{
+		"chi"		"**你做到了！！！他真的死了！！**"
+	}
+	"CLOUD FATHER : A person who have strong power can be killed myself."
+	{
+		"chi"		"**云爸爸：一个人有强大的力量时可以杀死自己.**"
+	}
+	"CLOUD FATHER : Thats when they cant control their power."
+	{
+		"chi"		"**云爸爸：当他不能控制自己力量时.**"
+	}
+	"CLOUD FATHER : I already know it,because I saw it from the past."
+	{
+		"chi"		"**云爸爸：我都知道的，过去我就看见过这样的事情**"
+	}
+	"CLOUD FATHER :...but you have power and unify."
+	{
+		"chi"		"**云爸爸：...但是你有团结和力量.**"
+	}
+	"CLOUD FATHER : so you could defeat him."
+	{
+		"chi"		"**云爸爸：所以你可以击败他.**"
+	}
+	"CLOUD FATHER : unify is stronger than power."
+	{
+		"chi"		"**云爸爸：团结会使你的力量更加强大.**"
+	}
+	"CLOUD FATHER : ...but If you hope more difficulty anymore."
+	{
+		"chi"		"**云爸爸：...但是如果你想寻找更难的挑战**"
+	}
+	"CLOUD FATHER : You can be outing of control too."
+	{
+		"chi"		"**云爸爸：你也可以脱离控制.**"
+	}
+	"CLOUD FATHER : Well,the best is keeping myself with hoping more it."
+	{
+		"chi"		"**云爸爸：好吧，希望你最好能保持自我.**"
+	}
+	"CLOUD FATHER : ...ok,talking is end."
+	{
+		"chi"		"**云爸爸：...行了，谈话就到这了.**"
+	}
+	"CLOUD FATHER : Goodbye I hope you wont come back."
+	{
+		"chi"		"**云爸爸：我希望你不会回来了，再见.**"
+	}
+	"*** You have beaten too difficult stage !!!! Congratulations !!!! ***"
+	{
+		"chi"		"**你通关了极难关卡！！！恭喜！！！！！**"
+	}
+	"*** STAGE : HIS POWER 33***"
+	{
+		"chi"		"** **"
+	}
+	"*** Adventure is over,need to chenge map ***"
+	{
+		"chi"		"**冒险已经结束了，更换地图吧**"
+	}
+	"*** What are you doing? adventure is over.type rtv now ***"
+	{
+		"chi"		"**你在干什么？冒险已经结束了.快RTV**"
+	}
+	"CLOUD FATHER : well...I know you will come back."
+	{
+		"chi"		"**云爸爸:....我知道你会回来的.**"
+	}
+	"CLOUD FATHER :..."
+	{
+		"chi"		"**云爸爸:...**"
+	}
+	"CLOUD FATHER : I thought."
+	{
+		"chi"		"**云爸爸:我在想.**"
+	}
+	"CLOUD FATHER : What should I have to do for stopping your hoping it?"
+	{
+		"chi"		"**云爸爸:我应该怎么做才能阻止你所希望的？**"
+	}
+	"CLOUD FATHER : Answer is very simple."
+	{
+		"chi"		"**云爸爸:答案很简单.**"
+	}
+	"CLOUD FATHER : I do to experience you the unrealistic difficulty."
+	{
+		"chi"		"**云爸爸:我会让你体验到你想象不到的困难.**"
+	}
+	"CLOUD FATHER : Until you type rtv."
+	{
+		"chi"		"**云爸爸:直到你输入rtv.**"
+	}
+	"CLOUD FATHER : If you type rtv.It means..."
+	{
+		"chi"		"**云爸爸:如果你输入rtv.这就说明了...**"
+	}
+	"CLOUD FATHER : I dont want to play this map anymore,dont it?"
+	{
+		"chi"		"**云爸爸:我不想再玩这张地图了,对吧？**"
+	}
+	"CLOUD FATHER : So I give you the unrealistic difficulty...!"
+	{
+		"chi"		"**云爸爸:我现在让你体验下这种困难...！**"
+	}
+	"CLOUD FATHER : Its no hope and mercy..."
+	{
+		"chi"		"**云爸爸:不会有任何希望和仁慈...**"
+	}
+	"CLOUD FATHER : Its not only for you"
+	{
+		"chi"		"**云爸爸:这不仅仅是为了你**"
+	}
+	"CLOUD FATHER : Its for my family,friends and... sky athletic !!!!"
+	{
+		"chi"		"**云爸爸:还为了我的家人，朋友还有...sky athletic！！！！**"
+	}
+	"CLOUD FATHER : Not allow you to beat this level....!!"
+	{
+		"chi"		"**云爸爸:不允许你击败这个难度....！！**"
+	}
+	"*** CLOUD FATHERS TRUE ATTACKS !!! ***"
+	{
+		"chi"		"**真云爸爸开始攻击！！*"
+	}
+	"*** At that time,smiling is disappeared from his face.... ***"
+	{
+		"chi"		"**这时，微笑从他的脸上消失了....**"
+	}
+	"*** ZOMBIES ARE ALIVE !! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE : HIS POWER 32***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZOMBIE ARE ALIVE !! ***"
+	{
+		"chi"		"** **"
+	}
+	"CLOUD FATHER :Alright...finally you defeat me,you won."
+	{
+		"chi"		"**云爸爸:好吧...你还是击败了我，你赢了**"
+	}
+	"CLOUD FATHER :It seems your power is true..."
+	{
+		"chi"		"**云爸爸:看来你真的很强...**"
+	}
+	"CLOUD FATHER :If you was in at that time...we could save my..."
+	{
+		"chi"		"**云爸爸:如果那个时候你在的话...我们可以拯救我的...**"
+	}
+	"CLOUD FATHER :Oh,please pretend you didnt hear that."
+	{
+		"chi"		"**云爸爸:噢,请假装没听到这件事吧.**"
+	}
+	"CLOUD FATHER :...So you should use it in other area."
+	{
+		"chi"		"**云爸爸:...所以你应该把你的力量用在其他地方.**"
+	}
+	"CLOUD FATHER :You can complete other area even you have it."
+	{
+		"chi"		"**云爸爸:你能用你的力量通关其他地方.**"
+	}
+	"CLOUD FATHER :...Me? dont worry I was made of water."
+	{
+		"chi"		"**云爸爸:...我？不用担心我是用水做的.**"
+	}
+	"CLOUD FATHER :This injured will fix soon."
+	{
+		"chi"		"**云爸爸:这个伤口很快就能修复.**"
+	}
+	"CLOUD FATHER :ok,Humans time to change your area...!"
+	{
+		"chi"		"**云爸爸:好了，人类是时候换图了...！**"
+	}
+	"BOY CLOUD : Too hot!! keep away it from me !!"
+	{
+		"chi"		"**云哥哥:太热了！！离我远一点！！**"
+	}
+	"CLOUD FATHER : Remember your items cant effect me !!"
+	{
+		"chi"		"** **"
+	}
+	"BOY CLOUD : Whats this wind !? I cant do the best of speed !!"
+	{
+		"chi"		"** **"
+	}
+	"Girl CLOUD :?? My machine is strong from wind!! that cant effect me !!"
+	{
+		"chi"		"** **"
+	}
+	"CLOUD FATHER : I will do the my best..."
+	{
+		"chi"		"** **"
+	}
+	"*** Let's practice before starting the game !!***"
+	{
+		"chi"		"** **"
+	}
+	"BOY CLOUD : !? they're the humans !?"
+	{
+		"chi"		"** **"
+	}
+	"BOY CLOUD : It's very proud for me too!!"
+	{
+		"chi"		"** **"
+	}
+	"Girl CLOUD: I'm boy cloud's sister!"
+	{
+		"chi"		"** **"
+	}
+	"Girl CLOUD: I'm stronger than you and father are thinking!!"
+	{
+		"chi"		"** **"
+	}
+	"*** HINT : Don't shoot the machine !! SHOOT THE her head !!! ***"
+	{
+		"chi"		"** **"
+	}
+	"Girl cloud : What...? Why can't move !?"
+	{
+		"chi"		"** **"
+	}
+	"*** It's her final attack !! ***"
+	{
+		"chi"		"** **"
+	}
+	"BOY CLOUD :I couldn't beat you humans..."
+	{
+		"chi"		"** **"
+	}
+	"Girl CLOUD :I couldn't beat you too..."
+	{
+		"chi"		"** **"
+	}
+	"CLOUD FATHER : Remember your items can't effect me !!"
+	{
+		"chi"		"** **"
+	}
+	"CLOUD FATHER :I couldn't defeat him,because he was very stronger than me."
+	{
+		"chi"		"** **"
+	}
+	"BOY CLOUD :I can't trust you even my father trust you !!"
+	{
+		"chi"		"** **"
+	}
+	"CLOUD FATHER :Don't take hand for them !!"
+	{
+		"chi"		"** **"
+	}
+	"CLOUD FATHER :I'm giving the power to you..."
+	{
+		"chi"		"** **"
+	}
+	"CLOUD FATHER :Humans,we don't know he is really dead."
+	{
+		"chi"		"** **"
+	}
+	"Thanks test play POSSESSION server!!"
+	{
+		"chi"		"** **"
+	}
+	"Map made by Ocelot"
+	{
+		"chi"		"** **"
+	}
+	"** MAP BY Hannibal [SPA] (Rafuron)  Map modified by Rulucy **"
+	{
+		"chi"		"** **"
+	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***60 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***WARM UP ROUIND***"
+	{
+		"chi"		"** **"
+	}
+	"Girl CLOUD :Can't move finely !! Is engine colding !?"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"**map by koyomaple**"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE : ????? button PRESSED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE : HIS POWER button PRESSED ***"
+	{
+		"chi"		"** **"
+	}
+	"** ZE FFXII PARAMINA RIFT **"
+	{
+		"chi"		"** **"
+	}
+}

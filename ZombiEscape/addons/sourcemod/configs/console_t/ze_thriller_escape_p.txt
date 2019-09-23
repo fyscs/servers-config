@@ -1,118 +1,118 @@
 "Console_T"
 {
-    "***Truck leaving in 30secs.***"
-    {
-        "chi"        "**卡车30秒后离开 **"
-    }
-    "***Truck leaving in 5secs. Shoot the blockade.***"
-    {
-        "chi"        "**卡车5秒后离开.射击封锁线 **"
-    }
-    "***Door opening in 25secs.***"
-    {
-        "chi"        "**大门25秒后打开 **"
-    }
-    "***Door 2 opening in 25secs.***"
-    {
-        "chi"        "**2号大门25秒后打开 **"
-    }
-    "***Door 2 open.***"
-    {
-        "chi"        "**大门2开启 **"
-    }
-    "***Door open.***"
-    {
-        "chi"        "**大门开启 **"
-    }
-    "***Mausoleum wall will  fall in 50secs.***"
-    {
-        "chi"        "**教堂墙壁50秒后倒塌 **"
-        "DoorCountDown"        "50"
-    }
-    "***Mausoleum wall will  fall in 5secs.***"
-    {
-        "chi"        "**教堂墙壁5秒后倒塌 **"
-    }
-    "***Tomb doors closing in 40secs.***"
-    {
-        "chi"        "**墓室大门40秒后关闭 **"
-        "DoorCountDown"        "40"
-    }
-    "***Waking Up. Door opening in 60secs.***"
-    {
-        "chi"        "**大门60秒后打开 **"
-        "DoorCountDown"        "60"
-    }
-    "***Waking Up. Door opening in 30secs.***"
-    {
-        "chi"        "**大门30秒后打开 **"
-    }
-    "***Waking Up. Door opening in 20secs.***"
-    {
-        "chi"        "**大门20秒后打开 **"
-    }
-    "***Waking Up. Door opening in 10secs.***"
-    {
-        "chi"        "**大门10秒后打开 **"
-    }
-    "***Waking Up. Door open.***"
-    {
-        "chi"        "**大门打开 **"
-    }
-    "***Dream over in 10secs.***"
-    {
-        "chi"        "**梦将在10秒后结束 **"
-    }
-    "***5***"
-    {
-        "chi"        "** **"
-    }
-    "***4***"
-    {
-        "chi"        "** **"
-    }
-    "***3***"
-    {
-        "chi"        "** **"
-    }
-    "***2***"
-    {
-        "chi"        "** **"
-    }
-    "***1***"
-    {
-        "chi"        "** **"
-    }
-    "***Dream Over.***"
-    {
-        "chi"        "** **"
-    }
-    "The server is about to close the update ,Please update your game"
-    {
-        "chi"        "** **"
-    }
-    "powered by sakura , possession"
-    {
-        "chi"        "** **"
-    }
-    "Based-map by Xquality"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Taskuvaras***"
-    {
-        "chi"        "** **"
-    }
-    "***Human door opening in 15s***"
-    {
-        "chi"        "** **"
-    }
-    "---***This map will mute your sound if you are outside the lunar base***---"
-    {
-        "chi"        "** **"
-    }
-    "*** Map by: Kappoochino ***"
-    {
-        "chi"        "** **"
-    }
+	"***Truck leaving in 30secs.***"
+	{
+		"chi"		"**卡车30秒后离开 **"
+	}
+	"***Truck leaving in 5secs. Shoot the blockade.***"
+	{
+		"chi"		"**卡车5秒后离开.射击封锁线 **"
+	}
+	"***Door opening in 25secs.***"
+	{
+		"chi"		"**大门25秒后打开 **"
+	}
+	"***Door 2 opening in 25secs.***"
+	{
+		"chi"		"**2号大门25秒后打开 **"
+	}
+	"***Door 2 open.***"
+	{
+		"chi"		"**大门2开启 **"
+	}
+	"***Door open.***"
+	{
+		"chi"		"**大门开启 **"
+	}
+	"***Mausoleum wall will  fall in 50secs.***"
+	{
+		"chi"		"**教堂墙壁50秒后倒塌 **"
+		"DoorCountDown"		"50"
+	}
+	"***Mausoleum wall will  fall in 5secs.***"
+	{
+		"chi"		"**教堂墙壁5秒后倒塌 **"
+	}
+	"***Tomb doors closing in 40secs.***"
+	{
+		"chi"		"**墓室大门40秒后关闭 **"
+		"DoorCountDown"		"40"
+	}
+	"***Waking Up. Door opening in 60secs.***"
+	{
+		"chi"		"**大门60秒后打开 **"
+		"DoorCountDown"		"60"
+	}
+	"***Waking Up. Door opening in 30secs.***"
+	{
+		"chi"		"**大门30秒后打开 **"
+	}
+	"***Waking Up. Door opening in 20secs.***"
+	{
+		"chi"		"**大门20秒后打开 **"
+	}
+	"***Waking Up. Door opening in 10secs.***"
+	{
+		"chi"		"**大门10秒后打开 **"
+	}
+	"***Waking Up. Door open.***"
+	{
+		"chi"		"**大门打开 **"
+	}
+	"***Dream over in 10secs.***"
+	{
+		"chi"		"**梦将在10秒后结束 **"
+	}
+	"***5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Dream Over.***"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"powered by sakura , possession"
+	{
+		"chi"		"** **"
+	}
+	"Based-map by Xquality"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Taskuvaras***"
+	{
+		"chi"		"** **"
+	}
+	"***Human door opening in 15s***"
+	{
+		"chi"		"** **"
+	}
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"chi"		"** **"
+	}
+	"*** Map by: Kappoochino ***"
+	{
+		"chi"		"** **"
+	}
 }

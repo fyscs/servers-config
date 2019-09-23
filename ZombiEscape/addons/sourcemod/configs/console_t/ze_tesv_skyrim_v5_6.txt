@@ -1,466 +1,470 @@
 "Console_T"
 {
-    ">> WARMUP ROUND <<"
-    {
-        "chi"        "**热身回合**"
-    }
-    "*** Map By P'a'ss and Kim ***"
-    {
-        "chi"        "**地图由P'a'ss和Kim制作**"
-    }
-    ">>> mat_colorcorrection 1 IN CONSOLE FOR BETTER VISUALS <<<"
-    {
-        "chi"        "**mat_colorcorrection 1（色彩修正） 获得更好的视觉效果**"
-    }
-    ">>> After winning a round you will get 100 points which equals with 1 level  <<<"
-    {
-        "chi"        "**每赢得一回合你会获得100分来提升一个等级**"
-    }
-    ">>> Level 1 item requires 100 points Level 2 item requires 200 points and so on. <<<"
-    {
-        "chi"        "**一级皮肤需要100，二级皮肤需要200分，以此类推（另注明火大卫200分，冰大卫300分，风大卫400分）**"
-    }
-    ">>> When round starts you have small amount of time to pick an item before the zombies spawn <<<"
-    {
-        "chi"        "**每局开始之后你会有一些时间去拿皮肤（不要在尸变前拿皮肤）**"
-    }
-    ">>> AFTER PICKING UP AN ITEM YOU CAN USE THEIR ATTACKS WITH EITHER LEFT OR RIGHT MOUSE CLICK <<<"
-    {
-        "chi"        "**拿起皮肤之后，你可以用你的右键或者左键使用皮肤的特殊攻击**"
-    }
-    ">>> Shooting the Zombie items in the head will push them back! <<<"
-    {
-        "chi"        "**射击僵尸皮肤的头部会击退他们**"
-    }
-    ">>> ONLY 1 OF EACH HUMAN ITEMS CAN BE TAKEN AT ONCE <<<"
-    {
-        "chi"        "**每个皮肤每局只有一个人类能使用**"
-    }
-    ">> Stage 1 Helgen <<"
-    {
-        "chi"        "**第一关：海尔根**"
-    }
-    ">> City gate closes in 50 seconds <<"
-    {
-        "chi"        "**海尔根堡垒的大门将在50s之后关闭**"
-        "DoorCountDown"        "50"
-    }
-    ">> Run for the helgen keep NOW! <<"
-    {
-        "chi"        "**撤回到海尔根堡垒内！**"
-    }
-    ">> The dragon is fleeing! Run to the Helgen keep! <<"
-    {
-        "chi"        "**奥杜因逃走了，撤回到海尔根堡垒内防守**"
-    }
-    ">> Defend until someone gets the key from the other room! <<"
-    {
-        "chi"        "**在这里防守，派一个人去房间里拿钥匙**"
-    }
-    "*** We got the key! ***"
-    {
-        "chi"        "**我们拿到钥匙了！**"
-    }
-    "*** Door should open soon! ***"
-    {
-        "chi"        "**门应该很快就会打开**"
-    }
-    "*** Door opens in 25 seconds! ***"
-    {
-        "chi"        "**门将会在25s后打开**"
-        "DoorCountDown"        "25"
-    }
-    "*** FALL BACK ***"
-    {
-        "chi"        "**撤退！！！！**"
-    }
-    "*** Door opens in 30 seconds ***"
-    {
-        "chi"        "**门将会在30s之后打开**"
-        "DoorCountDown"        "30"
-    }
-    ">> Defend the bridge don't let the zombies on the other side! <<"
-    {
-        "chi"        "**在桥上且战且退，别让僵尸到另外一边**"
-    }
-    ">> Fall back Now!! <<"
-    {
-        "chi"        "**马上撤回到桥的另一边！！！**"
-    }
-    "*** Stage Completed ***"
-    {
-        "chi"        "** **"
-    }
-    ">> Stage 2 Whiterun <<"
-    {
-        "chi"        "**Stage 2 雪漫城**"
-    }
-    ">> City door opens in 35 seconds! <<"
-    {
-        "chi"        "**城市大门将会在35s后打开**"
-        "DoorCountDown"        "35"
-    }
-    ">> We need to inform the Jarl of Whiterun that the dragons are attacking! <<"
-    {
-        "chi"        "**我们需要告知雪漫城主关于龙的消息！**"
-    }
-    ">> We need to hold the Plains District for 40 seconds HOLD THEM BACK! <<"
-    {
-        "chi"        "**我们需要守住平原区40s**"
-        "DoorCountDown"        "40"
-    }
-    ">> Fall Back Now! <<"
-    {
-        "chi"        "**撤退！！**"
-    }
-    ">> Hold here for 30 seconds! <<"
-    {
-        "chi"        "**在这里守住30s**"
-        "DoorCountDown"        "30"
-    }
-    ">> Hold them back for 25 more seconds! <<"
-    {
-        "chi"        "**在这守住25s，门很快就会打开**"
-        "DoorCountDown"        "25"
-    }
-    ">> Run for the bridge of Dragons Reach!! <<"
-    {
-        "chi"        "**在龙到达之前跑到桥那边去！**"
-    }
-    ">> Defend the bridge until door opens! <<"
-    {
-        "chi"        "**守住桥直到大门打开**"
-        "DoorCountDown"        "30"
-    }
-    ">> Dragon has been spotted outside Whiterun! <<"
-    {
-        "chi"        "**奥杜因出现在雪漫城外**"
-    }
-    ">> Exit through the secret door! <<"
-    {
-        "chi"        "**从侧门出去！**"
-    }
-    ">> IT'S A DRAGON! <<"
-    {
-        "chi"        "**傲娇因出现辣！！！！**"
-    }
-    ">> SHOOT IT! <<"
-    {
-        "chi"        "**用子弹射他一脸**"
-    }
-    ">> The dragon is fleeing! <<"
-    {
-        "chi"        "**奥杜因又飞走了**"
-    }
-    ">> Run towards the tower now! <<"
-    {
-        "chi"        "**跑向前面的塔！**"
-    }
-    ">> Door Closes in 25 seconds <<"
-    {
-        "chi"        "**门将在25s后关闭**"
-        "DoorCountDown"        "25"
-    }
-    ">> Keep Defending! <<"
-    {
-        "chi"        "**保持防御**"
-    }
-    ">> Door Closes in 15 seconds <<"
-    {
-        "chi"        "**门将在15s后关闭**"
-    }
-    ">> Door Closes in 5 seconds <<"
-    {
-        "chi"        "**门将在5s后关闭**"
-    }
-    ">> Stage Completed! <<"
-    {
-        "chi"        "** **"
-    }
-    ">> Stage 3 Road To Dwemer Ruins <<"
-    {
-        "chi"        "**Stage 3 通往矮人废墟的道路**"
-    }
-    "*** Hold the cave for 30 seconds ***"
-    {
-        "chi"        "**在洞穴前守住30s，门很快会打开**"
-        "DoorCountDown"        "30"
-    }
-    "*** Hold the bridges for 30 seconds *** "
-    {
-        "chi"        "**坚持30s！**"
-        "DoorCountDown"        "30"
-    }
-    "*** There should be a switch for that door somewhere! ***"
-    {
-        "chi"        "**这里应该有一个正确的开关打开门**"
-    }
-    "*** You have found the switch! ***"
-    {
-        "chi"        "**正确的开关已经被按下**"
-    }
-    "*** Door will open in 25 seconds ***"
-    {
-        "chi"        "**门将会在25s后打开**"
-        "DoorCountDown"        "25"
-    }
-    "*** Seems like the lever is broken ***"
-    {
-        "chi"        "**这个拉杆看起来坏了**"
-    }
-    "*** Find a way to fix it! ***"
-    {
-        "chi"        "**找到方法修复它（提示：旁边小路）**"
-    }
-    "*** Hold for 25 seconds ***"
-    {
-        "chi"        "**在这守住25s**"
-        "DoorCountDown"        "25"
-    }
-    "*** Door will open in 30 seconds ***"
-    {
-        "chi"        "**门将会在30s之后打开**"
-        "DoorCountDown"        "30"
-    }
-    "*** Hold for 45 seconds OR find a way to make it open faster ***"
-    {
-        "chi"        "**在这守住45s或找到一个方法快速开门（提示：找到火炬快速开门）**"
-    }
-    "*** Good job ***"
-    {
-        "chi"        "**干得好**"
-    }
-    "*** The doors will now open a bit faster! ***"
-    {
-        "chi"        "**门将会提早25s打开**"
-        "DoorCountDown"        "-1"
-    }
-    "*** Lever has been pulled! ***"
-    {
-        "chi"        "**拉杆已经被拉下**"
-    }
-    "*** Hold for just 25 seconds more! ***"
-    {
-        "chi"        "**在这守住25s**"
-        "DoorCountDown"        "25"
-    }
-    "*** Stage completed! ***"
-    {
-        "chi"        "** **"
-    }
-    ">> Stage 4 Dwemer ruins <<"
-    {
-        "chi"        "**Stage 4 矮人废墟**"
-    }
-    ">>> Doors open in 25 seconds <<<"
-    {
-        "chi"        "**门将会在25s后打开**"
-        "DoorCountDown"        "25"
-    }
-    ">> Door Opens in 45 seconds <<"
-    {
-        "chi"        "**门会在45s后打开**"
-        "DoorCountDown"        "45"
-    }
-    ">> Go Downstairs to the Treasure room and take the Elder Scroll! <<"
-    {
-        "chi"        "**跳到矮人废墟的藏宝室中找到上古卷轴**"
-    }
-    ">> Find a way to open the Door! <<"
-    {
-        "chi"        "**想一个办法打开这个门**"
-    }
-    ">> Lever has been pressed! <<"
-    {
-        "chi"        "**拉杆已经被拉下**"
-    }
-    ">> Door Opens In 20 Seconds! <<"
-    {
-        "chi"        "**门会在20s后打开**"
-        "DoorCountDown"        "20"
-    }
-    ">> Elevator leaves in 30 seconds! <<"
-    {
-        "chi"        "**电梯将会在30s后离开**"
-        "DoorCountDown"        "30"
-    }
-    ">> Elevator leaves in 10 seconds! <<"
-    {
-        "chi"        "**电梯将会在10s后离开**"
-    }
-    ">> Elevator leaves in 5 seconds! <<"
-    {
-        "chi"        "**电梯将会在5s后离开**"
-    }
-    ">> Elevator is leaving! <<"
-    {
-        "chi"        "**电梯开走了！！**"
-    }
-    ">> Elevator leaves in 20 seconds! <<"
-    {
-        "chi"        "**电梯将会在20s后离开**"
-        "DoorCountDown"        "20"
-    }
-    "*** THE ELDER SCROLL MADE IT TO THE END ***"
-    {
-        "chi"        "**上古卷轴保留到了最后**"
-    }
-    "*** YOU CAN NOW USE IT ON NEXT STAGE ***"
-    {
-        "chi"        "**你可以在下一关使用它**"
-    }
-    ">> Stage 5 Sovngarde <<"
-    {
-        "chi"        "**Stage 5 松加德殿堂**"
-    }
-    ">> City door opens in 25 seconds! <<"
-    {
-        "chi"        "**城市大门将会在25s后打开**"
-        "DoorCountDown"        "25"
-    }
-    ">> HOLD THEM BACK! <<"
-    {
-        "chi"        "**守住这里**"
-    }
-    ">> We need to get away from these dragons! <<"
-    {
-        "chi"        "**我们需要摆脱那些该死的飞龙**"
-    }
-    ">> Go through the house to the sewers! <<"
-    {
-        "chi"        "**穿过这个房子的下水道**"
-    }
-    ">> Go through the balcony door! <<"
-    {
-        "chi"        "**从阳台门穿过**"
-    }
-    ">> Kill the Dragonpriest! <<"
-    {
-        "chi"        "**快解决这个龙祭祀**"
-    }
-    ">> We killed the Dragonpriest! <<"
-    {
-        "chi"        "**我们已经解决了龙祭祀**"
-    }
-    ">> Hold the zombies back until the teleporter activates! <<"
-    {
-        "chi"        "**在传送门打开之前守住这些僵尸**"
-    }
-    ">> The teleporter is working JUMP INTO IT!  <<"
-    {
-        "chi"        "**传送门已经生效了，快跳入井里**"
-    }
-    ">> USE THE ELDER SCROLL NOW <<"
-    {
-        "chi"        "**现在使用上古卷轴！！！！！**"
-    }
-    ">>> KILL THE REMAINING ZOMBIES <<<"
-    {
-        "chi"        "**杀掉所有进门的僵尸**"
-    }
-    ">> Kill The Remaining Zombie! <<"
-    {
-        "chi"        "**杀掉所有进门的僵尸**"
-    }
-    "*** Kill the remaining zombies! ***"
-    {
-        "chi"        "**杀掉所有进门的僵尸**"
-    }
-    "*** Map By Pass and Kim ***"
-    {
-        "chi"        "**地图由Pass和Kim制作**"
-    }
-    ">> You Have Defeated Alduin <<"
-    {
-        "chi"        "**你击败了奥杜因**"
-    }
-    ">> Run for the Mead Hall <<"
-    {
-        "chi"        "**快跑到米德大厅**"
-    }
-    ">> Kill the remaining Zombies! <<"
-    {
-        "chi"        "**杀掉所有进门的僵尸**"
-    }
-    ">> Defend the bridge dont let the zombies on the other side! <<"
-    {
-        "chi"        "**在桥上且战且退，别让僵尸到另外一边**"
-    }
-    ">> ITS A DRAGON! <<"
-    {
-        "chi"        "**那是龙！**"
-    }
-    "*** Hold the bridges for 30 seconds ***"
-    {
-        "chi"        "**守住大桥30秒**"
-        "DoorCountDown"        "30"
-    }
-    "** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **"
-    {
-        "chi"        "**你成功征服了这个地图，恭喜！**"
-    }
-    "** MAP BY PASS AND KIM !!! **"
-    {
-        "chi"        "**地图由Pass和Kim制作**"
-    }
-    ">> THE DRAGON IS GOING TO KILL US ALL !!! <<"
-    {
-        "chi"        "**奥杜因准备杀掉我们了！！！**"
-    }
-    ">> Admin Pressed Kill All button! <<"
-    {
-        "chi"        "** **"
-    }
-    ">> We need to hold the Plains District for 45 seconds HOLD THEM BACK! <<"
-    {
-        "chi"        "** **"
-    }
-    "wei sha dou shi 400 a"
-    {
-        "chi"        "** **"
-    }
-    "sha bi 9"
-    {
-        "chi"        "** **"
-    }
-    "** MAP BY P'A'SS AND KIM !!! **"
-    {
-        "chi"        "** **"
-    }
-    "** [HARD MODE] **"
-    {
-        "chi"        "** **"
-    }
-    ">> Map by TaskuVaras and Moltard <<"
-    {
-        "chi"        "** **"
-    }
-    "The server is about to close the update ,Please update your game"
-    {
-        "chi"        "** **"
-    }
-    "**ZE_FFXII_FEYWOOD**"
-    {
-        "chi"        "** **"
-    }
-    "***Welcome to Crazy Kart***"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Luffaren***"
-    {
-        "chi"        "** **"
-    }
-    "***Thanks to Enviolinador for the green shell bouncevector logic***"
-    {
-        "chi"        "** **"
-    }
-    "*** WARMUP ROUND (60 sec) ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Map By Nostar & Moltard ***"
-    {
-        "chi"        "** **"
-    }
+	">> WARMUP ROUND <<"
+	{
+		"chi"		"**热身回合**"
+	}
+	"*** Map By P'a'ss and Kim ***"
+	{
+		"chi"		"**地图由P'a'ss和Kim制作**"
+	}
+	">>> mat_colorcorrection 1 IN CONSOLE FOR BETTER VISUALS <<<"
+	{
+		"chi"		"**mat_colorcorrection 1（色彩修正） 获得更好的视觉效果**"
+	}
+	">>> After winning a round you will get 100 points which equals with 1 level  <<<"
+	{
+		"chi"		"**每赢得一回合你会获得100分来提升一个等级**"
+	}
+	">>> Level 1 item requires 100 points Level 2 item requires 200 points and so on. <<<"
+	{
+		"chi"		"**一级皮肤需要100，二级皮肤需要200分，以此类推（另注明火大卫200分，冰大卫300分，风大卫400分）**"
+	}
+	">>> When round starts you have small amount of time to pick an item before the zombies spawn <<<"
+	{
+		"chi"		"**每局开始之后你会有一些时间去拿皮肤（不要在尸变前拿皮肤）**"
+	}
+	">>> AFTER PICKING UP AN ITEM YOU CAN USE THEIR ATTACKS WITH EITHER LEFT OR RIGHT MOUSE CLICK <<<"
+	{
+		"chi"		"**拿起皮肤之后，你可以用你的右键或者左键使用皮肤的特殊攻击**"
+	}
+	">>> Shooting the Zombie items in the head will push them back! <<<"
+	{
+		"chi"		"**射击僵尸皮肤的头部会击退他们**"
+	}
+	">>> ONLY 1 OF EACH HUMAN ITEMS CAN BE TAKEN AT ONCE <<<"
+	{
+		"chi"		"**每个皮肤每局只有一个人类能使用**"
+	}
+	">> Stage 1 Helgen <<"
+	{
+		"chi"		"**第一关：海尔根**"
+	}
+	">> City gate closes in 50 seconds <<"
+	{
+		"chi"		"**海尔根堡垒的大门将在50s之后关闭**"
+		"DoorCountDown"		"50"
+	}
+	">> Run for the helgen keep NOW! <<"
+	{
+		"chi"		"**撤回到海尔根堡垒内！**"
+	}
+	">> The dragon is fleeing! Run to the Helgen keep! <<"
+	{
+		"chi"		"**奥杜因逃走了，撤回到海尔根堡垒内防守**"
+	}
+	">> Defend until someone gets the key from the other room! <<"
+	{
+		"chi"		"**在这里防守，派一个人去房间里拿钥匙**"
+	}
+	"*** We got the key! ***"
+	{
+		"chi"		"**我们拿到钥匙了！**"
+	}
+	"*** Door should open soon! ***"
+	{
+		"chi"		"**门应该很快就会打开**"
+	}
+	"*** Door opens in 25 seconds! ***"
+	{
+		"chi"		"**门将会在25s后打开**"
+		"DoorCountDown"		"25"
+	}
+	"*** FALL BACK ***"
+	{
+		"chi"		"**撤退！！！！**"
+	}
+	"*** Door opens in 30 seconds ***"
+	{
+		"chi"		"**门将会在30s之后打开**"
+		"DoorCountDown"		"30"
+	}
+	">> Defend the bridge don't let the zombies on the other side! <<"
+	{
+		"chi"		"**在桥上且战且退，别让僵尸到另外一边**"
+	}
+	">> Fall back Now!! <<"
+	{
+		"chi"		"**马上撤回到桥的另一边！！！**"
+	}
+	"*** Stage Completed ***"
+	{
+		"chi"		"** **"
+	}
+	">> Stage 2 Whiterun <<"
+	{
+		"chi"		"**Stage 2 雪漫城**"
+	}
+	">> City door opens in 35 seconds! <<"
+	{
+		"chi"		"**城市大门将会在35s后打开**"
+		"DoorCountDown"		"35"
+	}
+	">> We need to inform the Jarl of Whiterun that the dragons are attacking! <<"
+	{
+		"chi"		"**我们需要告知雪漫城主关于龙的消息！**"
+	}
+	">> We need to hold the Plains District for 40 seconds HOLD THEM BACK! <<"
+	{
+		"chi"		"**我们需要守住平原区40s**"
+		"DoorCountDown"		"40"
+	}
+	">> Fall Back Now! <<"
+	{
+		"chi"		"**撤退！！**"
+	}
+	">> Hold here for 30 seconds! <<"
+	{
+		"chi"		"**在这里守住30s**"
+		"DoorCountDown"		"30"
+	}
+	">> Hold them back for 25 more seconds! <<"
+	{
+		"chi"		"**在这守住25s，门很快就会打开**"
+		"DoorCountDown"		"25"
+	}
+	">> Run for the bridge of Dragons Reach!! <<"
+	{
+		"chi"		"**在龙到达之前跑到桥那边去！**"
+	}
+	">> Defend the bridge until door opens! <<"
+	{
+		"chi"		"**守住桥直到大门打开**"
+		"DoorCountDown"		"30"
+	}
+	">> Dragon has been spotted outside Whiterun! <<"
+	{
+		"chi"		"**奥杜因出现在雪漫城外**"
+	}
+	">> Exit through the secret door! <<"
+	{
+		"chi"		"**从侧门出去！**"
+	}
+	">> IT'S A DRAGON! <<"
+	{
+		"chi"		"**傲娇因出现辣！！！！**"
+	}
+	">> SHOOT IT! <<"
+	{
+		"chi"		"**用子弹射他一脸**"
+	}
+	">> The dragon is fleeing! <<"
+	{
+		"chi"		"**奥杜因又飞走了**"
+	}
+	">> Run towards the tower now! <<"
+	{
+		"chi"		"**跑向前面的塔！**"
+	}
+	">> Door Closes in 25 seconds <<"
+	{
+		"chi"		"**门将在25s后关闭**"
+		"DoorCountDown"		"25"
+	}
+	">> Keep Defending! <<"
+	{
+		"chi"		"**保持防御**"
+	}
+	">> Door Closes in 15 seconds <<"
+	{
+		"chi"		"**门将在15s后关闭**"
+	}
+	">> Door Closes in 5 seconds <<"
+	{
+		"chi"		"**门将在5s后关闭**"
+	}
+	">> Stage Completed! <<"
+	{
+		"chi"		"** **"
+	}
+	">> Stage 3 Road To Dwemer Ruins <<"
+	{
+		"chi"		"**Stage 3 通往矮人废墟的道路**"
+	}
+	"*** Hold the cave for 30 seconds ***"
+	{
+		"chi"		"**在洞穴前守住30s，门很快会打开**"
+		"DoorCountDown"		"30"
+	}
+	"*** Hold the bridges for 30 seconds *** "
+	{
+		"chi"		"**坚持30s！**"
+		"DoorCountDown"		"30"
+	}
+	"*** There should be a switch for that door somewhere! ***"
+	{
+		"chi"		"**这里应该有一个正确的开关打开门**"
+	}
+	"*** You have found the switch! ***"
+	{
+		"chi"		"**正确的开关已经被按下**"
+	}
+	"*** Door will open in 25 seconds ***"
+	{
+		"chi"		"**门将会在25s后打开**"
+		"DoorCountDown"		"25"
+	}
+	"*** Seems like the lever is broken ***"
+	{
+		"chi"		"**这个拉杆看起来坏了**"
+	}
+	"*** Find a way to fix it! ***"
+	{
+		"chi"		"**找到方法修复它（提示：旁边小路）**"
+	}
+	"*** Hold for 25 seconds ***"
+	{
+		"chi"		"**在这守住25s**"
+		"DoorCountDown"		"25"
+	}
+	"*** Door will open in 30 seconds ***"
+	{
+		"chi"		"**门将会在30s之后打开**"
+		"DoorCountDown"		"30"
+	}
+	"*** Hold for 45 seconds OR find a way to make it open faster ***"
+	{
+		"chi"		"**在这守住45s或找到一个方法快速开门（提示：找到火炬快速开门）**"
+	}
+	"*** Good job ***"
+	{
+		"chi"		"**干得好**"
+	}
+	"*** The doors will now open a bit faster! ***"
+	{
+		"chi"		"**门将会提早25s打开**"
+		"DoorCountDown"		"-1"
+	}
+	"*** Lever has been pulled! ***"
+	{
+		"chi"		"**拉杆已经被拉下**"
+	}
+	"*** Hold for just 25 seconds more! ***"
+	{
+		"chi"		"**在这守住25s**"
+		"DoorCountDown"		"25"
+	}
+	"*** Stage completed! ***"
+	{
+		"chi"		"** **"
+	}
+	">> Stage 4 Dwemer ruins <<"
+	{
+		"chi"		"**Stage 4 矮人废墟**"
+	}
+	">>> Doors open in 25 seconds <<<"
+	{
+		"chi"		"**门将会在25s后打开**"
+		"DoorCountDown"		"25"
+	}
+	">> Door Opens in 45 seconds <<"
+	{
+		"chi"		"**门会在45s后打开**"
+		"DoorCountDown"		"45"
+	}
+	">> Go Downstairs to the Treasure room and take the Elder Scroll! <<"
+	{
+		"chi"		"**跳到矮人废墟的藏宝室中找到上古卷轴**"
+	}
+	">> Find a way to open the Door! <<"
+	{
+		"chi"		"**想一个办法打开这个门**"
+	}
+	">> Lever has been pressed! <<"
+	{
+		"chi"		"**拉杆已经被拉下**"
+	}
+	">> Door Opens In 20 Seconds! <<"
+	{
+		"chi"		"**门会在20s后打开**"
+		"DoorCountDown"		"20"
+	}
+	">> Elevator leaves in 30 seconds! <<"
+	{
+		"chi"		"**电梯将会在30s后离开**"
+		"DoorCountDown"		"30"
+	}
+	">> Elevator leaves in 10 seconds! <<"
+	{
+		"chi"		"**电梯将会在10s后离开**"
+	}
+	">> Elevator leaves in 5 seconds! <<"
+	{
+		"chi"		"**电梯将会在5s后离开**"
+	}
+	">> Elevator is leaving! <<"
+	{
+		"chi"		"**电梯开走了！！**"
+	}
+	">> Elevator leaves in 20 seconds! <<"
+	{
+		"chi"		"**电梯将会在20s后离开**"
+		"DoorCountDown"		"20"
+	}
+	"*** THE ELDER SCROLL MADE IT TO THE END ***"
+	{
+		"chi"		"**上古卷轴保留到了最后**"
+	}
+	"*** YOU CAN NOW USE IT ON NEXT STAGE ***"
+	{
+		"chi"		"**你可以在下一关使用它**"
+	}
+	">> Stage 5 Sovngarde <<"
+	{
+		"chi"		"**Stage 5 松加德殿堂**"
+	}
+	">> City door opens in 25 seconds! <<"
+	{
+		"chi"		"**城市大门将会在25s后打开**"
+		"DoorCountDown"		"25"
+	}
+	">> HOLD THEM BACK! <<"
+	{
+		"chi"		"**守住这里**"
+	}
+	">> We need to get away from these dragons! <<"
+	{
+		"chi"		"**我们需要摆脱那些该死的飞龙**"
+	}
+	">> Go through the house to the sewers! <<"
+	{
+		"chi"		"**穿过这个房子的下水道**"
+	}
+	">> Go through the balcony door! <<"
+	{
+		"chi"		"**从阳台门穿过**"
+	}
+	">> Kill the Dragonpriest! <<"
+	{
+		"chi"		"**快解决这个龙祭祀**"
+	}
+	">> We killed the Dragonpriest! <<"
+	{
+		"chi"		"**我们已经解决了龙祭祀**"
+	}
+	">> Hold the zombies back until the teleporter activates! <<"
+	{
+		"chi"		"**在传送门打开之前守住这些僵尸**"
+	}
+	">> The teleporter is working JUMP INTO IT!  <<"
+	{
+		"chi"		"**传送门已经生效了，快跳入井里**"
+	}
+	">> USE THE ELDER SCROLL NOW <<"
+	{
+		"chi"		"**现在使用上古卷轴！！！！！**"
+	}
+	">>> KILL THE REMAINING ZOMBIES <<<"
+	{
+		"chi"		"**杀掉所有进门的僵尸**"
+	}
+	">> Kill The Remaining Zombie! <<"
+	{
+		"chi"		"**杀掉所有进门的僵尸**"
+	}
+	"*** Kill the remaining zombies! ***"
+	{
+		"chi"		"**杀掉所有进门的僵尸**"
+	}
+	"*** Map By Pass and Kim ***"
+	{
+		"chi"		"**地图由Pass和Kim制作**"
+	}
+	">> You Have Defeated Alduin <<"
+	{
+		"chi"		"**你击败了奥杜因**"
+	}
+	">> Run for the Mead Hall <<"
+	{
+		"chi"		"**快跑到米德大厅**"
+	}
+	">> Kill the remaining Zombies! <<"
+	{
+		"chi"		"**杀掉所有进门的僵尸**"
+	}
+	">> Defend the bridge dont let the zombies on the other side! <<"
+	{
+		"chi"		"**在桥上且战且退，别让僵尸到另外一边**"
+	}
+	">> ITS A DRAGON! <<"
+	{
+		"chi"		"**那是龙！**"
+	}
+	"*** Hold the bridges for 30 seconds ***"
+	{
+		"chi"		"**守住大桥30秒**"
+		"DoorCountDown"		"30"
+	}
+	"** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **"
+	{
+		"chi"		"**你成功征服了这个地图，恭喜！**"
+	}
+	"** MAP BY PASS AND KIM !!! **"
+	{
+		"chi"		"**地图由Pass和Kim制作**"
+	}
+	">> THE DRAGON IS GOING TO KILL US ALL !!! <<"
+	{
+		"chi"		"**奥杜因准备杀掉我们了！！！**"
+	}
+	">> Admin Pressed Kill All button! <<"
+	{
+		"chi"		"** **"
+	}
+	">> We need to hold the Plains District for 45 seconds HOLD THEM BACK! <<"
+	{
+		"chi"		"** **"
+	}
+	"wei sha dou shi 400 a"
+	{
+		"chi"		"** **"
+	}
+	"sha bi 9"
+	{
+		"chi"		"** **"
+	}
+	"** MAP BY P'A'SS AND KIM !!! **"
+	{
+		"chi"		"** **"
+	}
+	"** [HARD MODE] **"
+	{
+		"chi"		"** **"
+	}
+	">> Map by TaskuVaras and Moltard <<"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"**ZE_FFXII_FEYWOOD**"
+	{
+		"chi"		"** **"
+	}
+	"***Welcome to Crazy Kart***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Luffaren***"
+	{
+		"chi"		"** **"
+	}
+	"***Thanks to Enviolinador for the green shell bouncevector logic***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (60 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map By Nostar & Moltard ***"
+	{
+		"chi"		"** **"
+	}
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"** **"
+	}
 }

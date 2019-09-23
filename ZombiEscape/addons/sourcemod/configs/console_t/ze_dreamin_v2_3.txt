@@ -1,5 +1,9 @@
 "Console_T"
 {
+	"***CURRENT LEVEL - FADE***"
+	{
+		"chi"		"** **"
+	}
 	"***Map by Reflelia***"
 	{
 		"chi"		"** **"
@@ -12,217 +16,115 @@
 	{
 		"chi"		"** **"
 	}
-	"***CURRENT LEVEL - FADE***"
-	{
-		"chi"		"**当前关卡：（第一关）逐渐入梦**"
-	}
-	"***Wind picked up***"
-	{
-		"chi"		"**一名玩家捡起了风神器**"
-	}
-	"***RESIST FOR 35 SECONDS***"
-	{
-		"chi"		"**防守35秒**"
-	}
-	"***Zombie picked up Gravity***"
-	{
-		"chi"		"**僵尸黑洞已被捡起**"
-	}
 	"***Zombie picked up Nuke***"
 	{
-		"chi"		"**僵尸核弹已被捡起**"
-	}
-	"***Recovery picked up***"
-	{
-		"chi"		"**一名玩家捡起了奶神器**"
-	}
-	"***HOLD FOR 20 seconds***"
-	{
-		"chi"		"**坚守20秒**"
-	}
-	"***Freezer picked up***"
-	{
-		"chi"		"**一名玩家捡起了泡泡神器**"
-	}
-	"***RESIST 25 SECONDS***"
-	{
-		"chi"		"**防守25秒**"
-	}
-	"***TELEPORT ENABLE IN 30 SECONDS***"
-	{
-		"chi"		"**30秒后激活传送**"
-	}
-	"***Elevator rise up in 10 seconds***"
-	{
-		"chi"		"**底部电梯10秒后开始上升**"
-	}
-	"***Snow picked up***"
-	{
-		"chi"		"**一名玩家捡起了雪神器**"
-	}
-	"***Break the box***"
-	{
-		"chi"		"**快打碎中间的水晶**"
-	}
-	"***Teleport activates in 45 seconds***"
-	{
-		"chi"		"**45秒后激活BOSS战的传送**"
-	}
-	"***Ice Casted***"
-	{
-		"chi"		"**BOSS释放了寒冰**"
-		"DoorCountdown"		"5"
-	}
-	"***Gravity Casted***"
-	{
-		"chi"		"**BOSS释放了黑洞**"
-		"DoorCountdown"		"5"
-	}
-	"***Wind Casted***"
-	{
-		"chi"		"**BOSS释放了狂风（面对平台中间按住W抵抗推力）**"
-		"DoorCountdown"		"5"
-	}
-	"***Thruster Casted***"
-	{
-		"chi"		"**BOSS使用了击飞**"
-		"DoorCountdown"		"4"
-	}
-	"***Go Back to teleport place***"
-	{
-		"chi"		"**往回走去左侧的传送区域**"
-	}
-	"***Final teleport enable in 35 seconds***"
-	{
-		"chi"		"**45秒后激活最后的传送**"
-	}
-	"***Zombie teleport in 10 seconds***"
-	{
-		"chi"		"**僵尸将在10秒后传送**"
-		"DoorCountdown"		"-1"
-	}
-	"***5 seconds left***"
-	{
-		"chi"		"**剩余5秒**"
-	}
-	"***RUN!***"
-	{
-		"chi"		"**快跑！**"
-	}
-	"***ESCAPE***"
-	{
-		"chi"		"**成功逃脱~**"
-	}
-	"***CURRENT LEVEL - DREAM***"
-	{
-		"chi"		"**当前关卡：（第二关）沉睡梦里**"
-	}
-	"***Zombie picked up Heal***"
-	{
-		"chi"		"**僵尸治疗已被捡起**"
+		"chi"		"** **"
 	}
 	"***Zombie picked up Ice***"
 	{
-		"chi"		"**僵尸冰已被捡起**"
+		"chi"		"** **"
 	}
-	"***HOLD 30 SECONDS***"
+	"***Zombie picked up Gravity***"
 	{
-		"chi"		"**坚守30秒**"
+		"chi"		"** **"
+	}
+	"***Zombie picked up Heal***"
+	{
+		"chi"		"** **"
+	}
+	"***Wind picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***RESIST FOR 35 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD FOR 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***RESIST 25 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORT ENABLE IN 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***Recovery picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Elevator rise up in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Break the box***"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport activates in 45 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Thruster Casted***"
+	{
+		"chi"		"** **"
+	}
+	"***Gravity Casted***"
+	{
+		"chi"		"** **"
+	}
+	"***Wind Casted***"
+	{
+		"chi"		"** **"
+	}
+	"***Ice Casted***"
+	{
+		"chi"		"** **"
+	}
+	"***Go Back to teleport place***"
+	{
+		"chi"		"** **"
+	}
+	"***Final teleport enable in 35 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie teleport in 10 seconds***"
+	{
+		"chi"		"** **"
+	}
+	"***Snow picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***5 seconds left***"
+	{
+		"chi"		"** **"
+	}
+	"***Run!***"
+	{
+		"chi"		"** **"
+	}
+	"***ESCAPE***"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT LEVEL - DREAM***"
+	{
+		"chi"		"** **"
+	}
+	"***Freezer picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Hold 30 seconds***"
+	{
+		"chi"		"** **"
 	}
 	"***Resist 30 seconds***"
-	{
-		"chi"		"**防守30秒**"
-	}
-	"***HOLD UNTIL GATE OPEN***"
-	{
-		"chi"		"**坚守20秒直到门开**"
-	}
-	"***Portal open in 30 seconds***"
-	{
-		"chi"		"**传送门将在30秒后打开**"
-	}
-	"***Hold until Door Break***"
-	{
-		"chi"		"**守住直到门打开**"
-	}
-	"***Door open in 30 seconds***"
-	{
-		"chi"		"**门将在30秒后打开**"
-	}
-	"***10 SECONDS LEFT***"
-	{
-		"chi"		"**还剩10秒**"
-	}
-	"***Last elevator start in 30 seconds***"
-	{
-		"chi"		"**最后的电梯将在30秒后离开**"
-	}
-	"***Danger Field***"
-	{
-		"chi"		"**地狱红光之兆**"
-		"DoorCountdown"		"5"
-	}
-	"***Laser***"
-	{
-		"chi"		"**四周剑域之阵**"
-		"DoorCountdown"		"5"
-	}
-	"***For Upper***"
-	{
-		"chi"		"**上层急速下落**"
-		"DoorCountdown"		"5"
-	}
-	"***Spread out***"
-	{
-		"chi"		"**像素爆发倾泻**"
-		"DoorCountdown"		"5"
-	}
-	"***Failed***"
-	{
-		"chi"		"**僵尸到达了终点，我们要完蛋了！**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"67627"
-	}
-	"***CURRENT LEVEL - 3-***"
-	{
-		"chi"		"**当前关卡：第三关**"
-	}
-	"***First Door Break in 30 seconds***"
-	{
-		"chi"		"**第一扇门将在30秒后破碎**"
-	}
-	"***Door Break in 30 seconds***"
-	{
-		"chi"		"**玻璃门将在30秒后破碎**"
-	}
-	"***Bridge opening...***"
-	{
-		"chi"		"**桥梁正在延伸中**"
-	}
-	"***Door break in 20 seconds***"
-	{
-		"chi"		"**玻璃大门将在50秒后破碎**"
-	}
-	"***Zombie Escaped***"
-	{
-		"chi"		"** **"
-	}
-	"***Door open in 20 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***Reflection casted in 2s*"
-	{
-		"chi"		"**激活反伤，持续五秒**"
-		"DoorCountdown"		"7"
-	}
-	"***Resist 15 seconds***"
-	{
-		"chi"		"** **"
-	}
-	"***Ende***"
 	{
 		"chi"		"** **"
 	}

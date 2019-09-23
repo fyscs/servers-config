@@ -1,83 +1,83 @@
 "Console_T"
 {
-    "*** Difficulty : Disuse ***"
-    {
-        "chi"        "**当前难度：停止运作**"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "37679"
-    }
-    "*** Map by : Airvulpes ***"
-    {
-        "chi"        "**地图制作： Airvulpes 地图翻译：IntimateLover**"
-    }
-    "*** Door Opens in 15 seconds ***"
-    {
-        "chi"        "**大门15秒后打开**"
-        "DoorCountDown"        "15"
-    }
-    "*** Door Opens in 5 seconds ***"
-    {
-        "chi"        "**大门5秒后打开**"
-    }
-    "*** Door opens in 25 seconds ***"
-    {
-        "chi"        "**大门25秒后打开**"
-        "DoorCountDown"        "25"
-    }
-    "*** Door opens in 30 seconds ***"
-    {
-        "chi"        "**大门30秒后打开**"
-        "DoorCountDown"        "30"
-    }
-    "MapGlobal_ConVars"
-    {
-        "0"
-        {
-            "cvar"        "sm_nofalldamage 1"
-        }
-        "1"
-        {
-            "cvar"        "sm_cvar sm_molotov_limit 2"
-        }
-    }
-    "*** Door Closes in 20 seconds ***"
-    {
-        "chi"        "**大门20秒后关闭**"
-        "DoorCountDown"        "20"
-    }
-    "*** STAGE COMPLETED ***"
-    {
-        "chi"        "**关卡通过**"
-    }
-    "*** Difficulty : Inspection ***"
-    {
-        "chi"        "**当前难度:机械运转**"
-    }
-    "*** Door Opens in 20 seconds ***"
-    {
-        "chi"        "**大门20秒后打开**"
-        "DoorCountDown"        "20"
-    }
-    "!!! KILL ALL ZOMBIES !!!"
-    {
-        "chi"        "** **"
-    }
-    "+++  MAP MADE BY GARGANTUA +++"
-    {
-        "chi"        "** **"
-    }
-    "** CURRENT LEVEL: BEN SEA **"
-    {
-        "chi"        "** **"
-    }
-    "*** Special Thanks testing: GFL & MAPEADORES  ***"
-    {
-        "chi"        "** **"
-    }
-    "The server is about to close the update ,Please update your game"
-    {
-        "chi"        "** **"
-    }
+	"*** Difficulty : Disuse ***"
+	{
+		"chi"		"**当前难度：停止运作**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"37679"
+	}
+	"*** Map by : Airvulpes ***"
+	{
+		"chi"		"**地图制作： Airvulpes 地图翻译：IntimateLover**"
+	}
+	"*** Door Opens in 15 seconds ***"
+	{
+		"chi"		"**大门15秒后打开**"
+		"DoorCountDown"		"15"
+	}
+	"*** Door Opens in 5 seconds ***"
+	{
+		"chi"		"**大门5秒后打开**"
+	}
+	"*** Door opens in 25 seconds ***"
+	{
+		"chi"		"**大门25秒后打开**"
+		"DoorCountDown"		"25"
+	}
+	"*** Door opens in 30 seconds ***"
+	{
+		"chi"		"**大门30秒后打开**"
+		"DoorCountDown"		"30"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_nofalldamage 1"
+		}
+		"1"
+		{
+			"cvar"		"sm_cvar sm_molotov_limit 2"
+		}
+	}
+	"*** Door Closes in 20 seconds ***"
+	{
+		"chi"		"**大门20秒后关闭**"
+		"DoorCountDown"		"20"
+	}
+	"*** STAGE COMPLETED ***"
+	{
+		"chi"		"**关卡通过**"
+	}
+	"*** Difficulty : Inspection ***"
+	{
+		"chi"		"**当前难度:机械运转**"
+	}
+	"*** Door Opens in 20 seconds ***"
+	{
+		"chi"		"**大门20秒后打开**"
+		"DoorCountDown"		"20"
+	}
+	"!!! KILL ALL ZOMBIES !!!"
+	{
+		"chi"		"** **"
+	}
+	"+++  MAP MADE BY GARGANTUA +++"
+	{
+		"chi"		"** **"
+	}
+	"** CURRENT LEVEL: BEN SEA **"
+	{
+		"chi"		"** **"
+	}
+	"*** Special Thanks testing: GFL & MAPEADORES  ***"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
 }

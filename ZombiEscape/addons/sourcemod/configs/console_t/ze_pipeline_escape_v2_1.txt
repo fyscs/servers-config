@@ -1,0 +1,379 @@
+"Console_T"
+{
+	"**English translations : GUC admin WILD  **"
+	{
+		"chi"		"** **"
+	}
+	"**stage1**"
+	{
+		"chi"		"**关卡1**"
+	}
+	"**map by:一条会翻身的鱼**"
+	{
+		"chi"		"**地图作者：一条会翻身的鱼   地图汉化：大明**"
+	}
+	"**非常感谢:酸奶**"
+	{
+		"chi"		"** **"
+	}
+	"the door will open in 15s"
+	{
+		"chi"		"**门15秒后打开**"
+	}
+	"**wall break 10s**"
+	{
+		"chi"		"**墙在10秒后消失**"
+	}
+	"the door will open in 30s"
+	{
+		"chi"		"**门在30秒后打开**"
+	}
+	"The elevator starts in 20 seconds."
+	{
+		"chi"		"**电梯20秒后启动**"
+	}
+	"**a player pick up sb elite**"
+	{
+		"chi"		"**一位玩家获得了墙**"
+	}
+	"**a player pick up ice**"
+	{
+		"chi"		"**一位玩家获得了冰**"
+	}
+	"Go to another elevator."
+	{
+		"chi"		"**去另一个电梯**"
+	}
+	"holy on elevator star in 10s"
+	{
+		"chi"		"**还有10秒坚持到电梯启动**"
+	}
+	"**Press the button to start elevator**"
+	{
+		"chi"		"**按下按钮启动电梯**"
+	}
+	"**GET BACK TO THE ELEVATOR FAST !!!! Starts in 30S**"
+	{
+		"chi"		"**快回电梯！！！！还有30秒启动**"
+	}
+	"hold 30s"
+	{
+		"chi"		"**守住这里30秒**"
+	}
+	"**DEFEND elevator for 30S until it starts**"
+	{
+		"chi"		"**守住电梯直到30秒后启动电梯**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"67645"
+	}
+	"**What does the red light source look like?**"
+	{
+		"chi"		"**红色光源看起来像什么**"
+	}
+	"**be careful that the floor will break**"
+	{
+		"chi"		"**注意地板会碎**"
+	}
+	"**Crouch wall will break in 30S**"
+	{
+		"chi"		"**蹲墙将在30秒后碎裂**"
+	}
+	"**light  wall will break, EXTRA DEFEND!!!!**"
+	{
+		"chi"		"**守住这里到玻璃墙碎裂**"
+	}
+	"**Will the light wall break after 25S**"
+	{
+		"chi"		"**玻璃墙25秒后碎裂**"
+	}
+	"**HOLD here!!!! A path should open��**"
+	{
+		"chi"		"**守住这里！！！！会打开一条道路**"
+	}
+	"**final wall will break after 25S **"
+	{
+		"chi"		"**最后一道墙将在25秒后破碎**"
+	}
+	"**we need defend 25s !!!**"
+	{
+		"chi"		"**我们需要防守25秒**"
+	}
+	"**LASERS! WATCH OUT!**"
+	{
+		"chi"		"**跳刀！！！小心！**"
+	}
+	"**DEFEND  elevator for 40S , SOLO incoming!!!**"
+	{
+		"chi"		"**守住电梯40秒**"
+	}
+	"*ACG Im coming.!!!!*"
+	{
+		"chi"		"**二刺猿！我来啦！！！**"
+	}
+	"**all kill**"
+	{
+		"chi"		"**全体暴毙！**"
+	}
+	"**human win **"
+	{
+		"chi"		"**人类获胜**"
+	}
+	"**Thank you for play**"
+	{
+		"chi"		"**感谢游玩**"
+	}
+	"**stage:laser**"
+	{
+		"chi"		"**关卡：跳刀**"
+	}
+	"** ** OK You need RTV because you cant get through this level.**"
+	{
+		"chi"		"**搞快点rtv换图ok?反正你又过不去**"
+	}
+	"**RTV PLS !!!!!!**"
+	{
+		"chi"		"**RTV please！！！！！**"
+	}
+	"**level 1 laser 10 seconds later**"
+	{
+		"chi"		"**1级低处跳刀10秒后出现**"
+	}
+	"**level 2 laser 15 seconds later**"
+	{
+		"chi"		"**2级高低跳刀15秒后出现**"
+	}
+	"**level 3 laser 15 seconds later**"
+	{
+		"chi"		"**3级高低斜刀15秒后出现**"
+	}
+	"**level 4 laser 15 seconds later**"
+	{
+		"chi"		"**4级无脑跳刀15秒后出现**"
+	}
+	"**level 5 laser 15 seconds later**"
+	{
+		"chi"		"**5级低斜跳刀15秒后出现**"
+	}
+	"**level 6 laser 15 seconds later**"
+	{
+		"chi"		"**6级酸奶跳刀15秒后出现**"
+	}
+	"**level 7 laser 15 seconds later**"
+	{
+		"chi"		"**7级前后跳刀15秒后出现**"
+	}
+	"**level 8 laser 15 seconds later**"
+	{
+		"chi"		"**8级蹲下跳刀15秒后出现**"
+	}
+	"**level 9 laser 15 seconds later**"
+	{
+		"chi"		"**9级快速跳刀15秒后出现**"
+	}
+	"**level 10 laser 15 seconds later**"
+	{
+		"chi"		"**10级滑翔跳刀15秒后出现**"
+	}
+	"**level 11 laser 20 seconds later**"
+	{
+		"chi"		"**11级最终跳刀15秒后出现**"
+	}
+	"**good luck**"
+	{
+		"chi"		"**祝你好运**"
+	}
+	"**you get it**"
+	{
+		"chi"		"**你成功了**"
+	}
+	"** ** OK You need RTV because you can't get through this level.**"
+	{
+		"chi"		"**搞快点rtv换图ok？反正你也过不去**"
+	}
+	"For POSSESSION, Respect to Sakura"
+	{
+		"chi"		"** **"
+	}
+	"Based-map by Xquality"
+	{
+		"chi"		"** **"
+	}
+	"*** ZE_BOATESCAPEX ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (60 sec) ***"
+	{
+		"chi"		"**热身60秒**"
+	}
+	"*** Map By Nostar & Moltard ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"chi"		"** **"
+	}
+	"*ACG I'm coming.!!!!*"
+	{
+		"chi"		"**好巧！我也是二刺猿！**"
+	}
+	"**stage:hold**"
+	{
+		"chi"		"**关卡：守点**"
+	}
+	"** ** stage HOLD : HARDEXTRA defend like Paleta ****"
+	{
+		"chi"		"** **"
+	}
+	"**hold 230s**"
+	{
+		"chi"		"**坚持230秒**"
+	}
+	"**zombie teleport in 10s**"
+	{
+		"chi"		"**僵尸10秒后传送**"
+	}
+	"**僵尸都在头上 小心**"
+	{
+		"chi"		"** **"
+	}
+	"**40s teleport**"
+	{
+		"chi"		"**40秒传送**"
+	}
+	"**stage2**"
+	{
+		"chi"		"**关卡2**"
+	}
+	"**Light wall breaks in 30S **"
+	{
+		"chi"		"**玻璃墙30秒后碎裂**"
+	}
+	"**Light wall breaks in 40S **"
+	{
+		"chi"		"**玻璃墙40秒后碎裂**"
+	}
+	"**Elevator starts in 15 seconds**"
+	{
+		"chi"		"**电梯15秒后启动**"
+	}
+	"**Light wall breaks in 20S **"
+	{
+		"chi"		"**玻璃墙20秒后碎裂**"
+	}
+	"** The way will close in 25S**"
+	{
+		"chi"		"**路在25秒后关闭**"
+	}
+	"**What's happening here? We need to find the way to leave **"
+	{
+		"chi"		"**这里发生了啥？快点找到出去的路**"
+	}
+	"** Break this up quickly **"
+	{
+		"chi"		"**快打破它**"
+	}
+	"** we're drowning **"
+	{
+		"chi"		"**我们溺水了**"
+	}
+	"**There should be diving suits in this base��.**"
+	{
+		"chi"		"**这个基地应该有潜水衣**"
+	}
+	"**WE  need  10S to open this locker**"
+	{
+		"chi"		"**我们需要10秒打开这个储藏柜**"
+	}
+	"**The wetsuit was taken.Let's hurry and get out of here.**"
+	{
+		"chi"		"**拿上潜水衣，我们离开这儿**"
+	}
+	"**** We found the way to escape but it needs 40S to open? ****"
+	{
+		"chi"		"**我们发现路了，但我们需要40秒打开它**"
+	}
+	"**This pipeline should have a place that breaks**"
+	{
+		"chi"		"**这个管道最后方下面可以打碎**"
+	}
+	"**wall breaks in 30S**"
+	{
+		"chi"		"**墙在30秒后消失**"
+	}
+	"**wall disappears in 30S**"
+	{
+		"chi"		"**墙在40秒后消失**"
+	}
+	"** don��t panic, SHOOT wall!! **"
+	{
+		"chi"		"** **"
+	}
+	"**last door 10s open**"
+	{
+		"chi"		"**最后的门10秒打开**"
+	}
+	"**Elevator starts in 30 seconds**"
+	{
+		"chi"		"**电梯30秒后离开**"
+	}
+	"**Zombies be careful**"
+	{
+		"chi"		"** **"
+	}
+	"**double laser coming!!!**"
+	{
+		"chi"		"**两个跳刀即将到来！快点杀死僵尸**"
+	}
+	"***Map by RelaxingWalls***"
+	{
+		"chi"		"** **"
+	}
+	"***Map made for SteamGamers Mapping Competition***"
+	{
+		"chi"		"** **"
+	}
+	"<<< Map by Jllaneras >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Trial 1 >>>"
+	{
+		"chi"		"** **"
+	}
+	"***WARMUP***"
+	{
+		"chi"		"** **"
+	}
+	"**Level1**"
+	{
+		"chi"		"** **"
+	}
+	"**stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"**welcome to ze_fat_hours_escape**"
+	{
+		"chi"		"** **"
+	}
+	"**map by yinyuehzixi**"
+	{
+		"chi"		"** **"
+	}
+	"<== Map made by qazlll456 [Hong Kong]==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Also Thank [Syoudous] for helping testing the map ==>"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+}

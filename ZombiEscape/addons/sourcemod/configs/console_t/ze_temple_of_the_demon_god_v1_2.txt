@@ -1,511 +1,511 @@
 "Console_T"
 {
-    "### INDOOR CHURCH DOOR BREAKS IN 10 SECONDS ###"
-    {
-        "chi"        "**教堂两侧的门10秒后打开     地图汉化：大明**"
-    }
-    "### DOORS OPEN IN 30 SECONDS ###"
-    {
-        "chi"        "**门30秒后打开**"
-    }
-    "### 10 SECONDS REMAINING ###"
-    {
-        "chi"        "**还剩10秒**"
-    }
-    "### ELEVATOR IS LEAVING IN 40 SECONDS ###"
-    {
-        "chi"        "**电梯40秒后移动**"
-    }
-    "### ZOMBIES TELEPORTING IN 10 SECONDS ###"
-    {
-        "chi"        "**僵尸10秒后传送**"
-    }
-    "### DESTROY BOTH STATUES ###"
-    {
-        "chi"        "**破坏两道石像**"
-    }
-    "### SAINT ? ###"
-    {
-        "chi"        "**圣人？**"
-    }
-    "### SINNER ?  ###"
-    {
-        "chi"        "**罪人？**"
-    }
-    "### GATES OPEN IN 30 SECONDS ###"
-    {
-        "chi"        "**大门30秒后打开**"
-    }
-    "### GATES CLOSED IN 15 SECONDS ###"
-    {
-        "chi"        "**大门15秒后关闭**"
-    }
-    "### BOATS DEPARTING IN 30 SECONDS ###"
-    {
-        "chi"        "**船30秒后离开**"
-    }
-    "III PLAYER HAS PICKED UP SANCTUARY III"
-    {
-        "chi"        "**一名玩家获得了治愈**"
-    }
-    "### BOATS DEPARTING IN 10 SECONDS ###"
-    {
-        "chi"        "**船在10秒后离开**"
-    }
-    "### HOLD HERE FOR 30 SECONDS ###"
-    {
-        "chi"        "**守住这里30秒**"
-    }
-    "### 20 SECONDS REMAINING ###"
-    {
-        "chi"        "**还有20秒**"
-    }
-    "### FIND 2 BOOKS TO ACTIVATE THE GATES ###"
-    {
-        "chi"        "**找到2本书激活入口**"
-    }
-    "III ZOMBIE HAS PICKED UP FIREPILLARS III"
-    {
-        "chi"        "**一名僵尸获得了地狱火柱**"
-    }
-    "### NARAKA BOOK HAS BEEN PICKED UP ###"
-    {
-        "chi"        "**获得地狱之书**"
-    }
-    "### NARAKA BOOK HAS BEEN PLACED ###"
-    {
-        "chi"        "**地狱之书已放置**"
-    }
-    "### HOLY BOOK HAS BEEN PICKED UP ###"
-    {
-        "chi"        "**获得神圣之书**"
-    }
-    "### HOLY BOOK HAS BEEN PLACED ###"
-    {
-        "chi"        "**神圣之书已放置**"
-    }
-    "### TEMPLE'S GATES OPEN IN 30 SECONDS ###"
-    {
-        "chi"        "**大殿大门30秒后打开**"
-    }
-    "### TEMPLE'S GATE IS OPENING ###"
-    {
-        "chi"        "**大殿大门正在打开**"
-    }
-    "### HOLD THIS HALL FOR 30 SECONDS ###"
-    {
-        "chi"        "**守住30秒**"
-    }
-    "### HOLD UNTIL GATES CLOSED ###"
-    {
-        "chi"        "**守到大门关闭**"
-    }
-    "### THORN'S GATE IS CLOSING IN 10 SECONDS ###"
-    {
-        "chi"        "**托恩之门在10秒后关闭**"
-    }
-    ">>> WELCOME TO THE UNDERWORLD  <<<"
-    {
-        "chi"        ">>>欢迎来到地狱<<<"
-    }
-    "### YOU SOUL SHALL BE MINE ###"
-    {
-        "chi"        "**你的灵魂将属于我**"
-    }
-    "### IM NARAKA'S SOUL COLLECTER ###"
-    {
-        "chi"        "**我是地狱的灵魂收藏家**"
-    }
-    "### GIVE ME YOU SOUL AND I WILL LET YOU BE FREE ###"
-    {
-        "chi"        "**奉献你的灵魂，我会让你自由**"
-    }
-    "### DONT TOUCH THE THORN HE CAN STEAL YOU LIFE ###"
-    {
-        "chi"        "**不要接触托恩，他会偷走你的生命**"
-    }
-    "### MY SLAVES WILL DRAG YOUR LIFE TO HELL ###"
-    {
-        "chi"        "**我的奴仆会把你带入地狱**"
-    }
-    "### THORN OF DEATH HAS BEEN DEFEATED ###"
-    {
-        "chi"        "**托恩被打败了**"
-    }
-    "### KILL THE REMAINING NPCS ###"
-    {
-        "chi"        "**击杀剩余的NPC**"
-    }
-    "### ITS NOT THE END !! ###"
-    {
-        "chi"        "**还没有结束！！**"
-    }
-    "### THIS IS JUST A BEGINNING !! ###"
-    {
-        "chi"        "**这仅仅是个开始**"
-    }
-    "### DOORS IS OPENED  ###"
-    {
-        "chi"        "**大门已经打开**"
-    }
-    "### PRESS ALL 3 LEVERS TO ACTIVATE ELEVATOR ###"
-    {
-        "chi"        "**开启3个开关来启动电梯**"
-    }
-    "III PLAYER HAS PICKED UP HOLY LIGHT III"
-    {
-        "chi"        "**一名玩家获得了圣光**"
-    }
-    "### ELEVATOR IS LEAVING IN 30 SECONDS ###"
-    {
-        "chi"        "**电梯30秒后离开**"
-    }
-    "### GATES OPEN IN 10 SECONDS ###"
-    {
-        "chi"        "**大门10秒后打开**"
-    }
-    ">>> YOU SHOULDNT COME HERE  <<<"
-    {
-        "chi"        ">>>你们不该来打扰我<<<"
-    }
-    ">>> YOU WILL BE HERE FOREVER  <<<"
-    {
-        "chi"        ">>>你们永远别想离开了<<<"
-    }
-    "### DOOM BRINGER IS CASTING TELEPORTATION ###"
-    {
-        "chi"        "**末日之源正在进行投影传送**"
-    }
-    "### DOOM BRINGER HAS DISAPPEARED !! ###"
-    {
-        "chi"        "**末日之源消失了**"
-    }
-    "### ZOMBIES WILL BE RELEASED IN 10 SECONDS"
-    {
-        "chi"        "**僵尸10秒后释放**"
-    }
-    "### YOUR SOUL IS MINE ###"
-    {
-        "chi"        "**你的灵魂...属于我**"
-    }
-    ">>> DOOM BRINGER IS DEFEATED <<<"
-    {
-        "chi"        ">>>末日之源被打败了<<<"
-    }
-    ">>> BRIDGE ACTIVATES IN 10 SECONDS <<<"
-    {
-        "chi"        ">>>桥在10秒后激活<<<"
-    }
-    "### THIS IS THE LAST HOLD ###"
-    {
-        "chi"        "**这是最后的守点**"
-    }
-    "### HOLD FOR 30 SECONDS ###"
-    {
-        "chi"        "**守住30秒**"
-    }
-    "### YOU ARE GOING TO BE IN HELL FOREVER ###"
-    {
-        "chi"        "**你们将永远堕入地狱**"
-    }
-    "### YOU HAVE DEFEATED HELL SEEKER ###"
-    {
-        "chi"        "**你们打败了地狱搜查官**"
-    }
-    "### DEFEND UNTIL GATE CLOSED  ###"
-    {
-        "chi"        "**守到大门关闭**"
-    }
-    ">>> THIS ISN'T THE PLACE WHERE ARE YOU BELONGED  <<<"
-    {
-        "chi"        ">>>这不是你们该来的地方<<<"
-    }
-    ">>> SURRENDER OR FACE YOUR INEVITABLE DEATH  <<<"
-    {
-        "chi"        ">>>投降或是直面无法避免的死亡<<<"
-    }
-    ">>> HELL DRAGON IS DEFEATED <<<"
-    {
-        "chi"        ">>>地狱邪龙被打败了<<<"
-    }
-    ">>> RELEASING THE ZOMBIES <<<"
-    {
-        "chi"        ">>>释放僵尸<<<"
-    }
-    ">>> GATES OPEN IN 30 SECONDS <<<"
-    {
-        "chi"        ">>>大门30秒后打开<<<"
-    }
-    "### GATE OPEN IN 30 SECONDS ###"
-    {
-        "chi"        "**大门30秒后打开**"
-    }
-    "### WAIT UNTIL THE FLAME STOP ###"
-    {
-        "chi"        "**等到火焰消失**"
-    }
-    "### FLAME STOP IN 10 SECONDS ###"
-    {
-        "chi"        "**火焰10秒后消失**"
-    }
-    "### THERE ARE SOMETHING PROTECTED THIS PLACE ###"
-    {
-        "chi"        "**有什么东西守护在这里**"
-    }
-    "### BECAREFUL EVERY STEPS YOU MAKE ###"
-    {
-        "chi"        "**小心你的每一步**"
-    }
-    "### YOU ARE NOT ALLOWED HERE !!! ###"
-    {
-        "chi"        "**没人允许你们来到此地**"
-    }
-    "### HELL'S GATES OPEN IN 10 SECONDS ###"
-    {
-        "chi"        "**地狱之门10秒后打开**"
-    }
-    "### HELL GUARDIAN IS DEFEATED ###"
-    {
-        "chi"        "**地狱守护者被打败**"
-    }
-    "### FIND ALL THREE SECRET BUTTONS ###"
-    {
-        "chi"        "**找到3个秘密开关**"
-    }
-    "III PLAYER HAS PICKED UP MAGNUS EXORCISMUS III"
-    {
-        "chi"        "**一名玩家获得了马格努斯驱邪之力**"
-    }
-    "### CASTING MAGNUS EXORCISMUS IN 10 SECONDS  ###"
-    {
-        "chi"        "**10秒后释放马格努斯驱邪之力**"
-    }
-    "### FIRST BUTTON HAS BEEN FOUND ###"
-    {
-        "chi"        "**找到了第一个开关**"
-    }
-    "### GATES OPEN IN 30 SECONDS###"
-    {
-        "chi"        "**大门30秒后打开**"
-    }
-    "### SECOND BUTTON HAS BEEN FOUND ###"
-    {
-        "chi"        "**找到了第二个开关**"
-    }
-    "### THIRD BUTTON HAS BEEN FOUND ###"
-    {
-        "chi"        "**找到了第三个开关**"
-    }
-    "### PATH WILL BE CLEAR IN 30 SECONDS ###"
-    {
-        "chi"        "**还需要30秒来清理道路**"
-    }
-    "### PREPARE TO MEET YOUR INEVITABLE DEATH ###"
-    {
-        "chi"        "**准备迎接死亡吧！**"
-    }
-    "### ENTRANCE PLATFORM IS ALMOST HERE ###"
-    {
-        "chi"        "**入口平台快到了**"
-    }
-    "### MINI-BOSS INFORMATION WILL BE APPEARS SOON ###"
-    {
-        "chi"        "**MINI-boss即将出现**"
-    }
-    "### GIVE ME YOUR SOUL AND I WILL LET YOU LIVE ###"
-    {
-        "chi"        "**献出你的灵魂，我会让你活下去**"
-    }
-    "### YOU HAVE MADE A MISTAKE CHOICE  ###"
-    {
-        "chi"        "**你们做了一个愚蠢的决定**"
-    }
-    "### TO FIGHT WITH ME !! ###"
-    {
-        "chi"        "**来决斗吧**"
-    }
-    "### FEEL MY LOVE ###"
-    {
-        "chi"        "**让世间感受爱抚**"
-    }
-    "### FEEL MY PAIN ###"
-    {
-        "chi"        "**让世间感受痛楚**"
-    }
-    "### THORN OF FIRE PILLARS IS CASTING ###"
-    {
-        "chi"        "**托恩火柱正在汇聚（远离脚底红圈）**"
-    }
-    "### THORN OF RECOVERY IS HEALING EVIL MAKER ###"
-    {
-        "chi"        "**邪恶之源正受到托恩的治疗**"
-    }
-    "### THORN OF PROTECTION IS PROTECTING  EVIL MAKER ###"
-    {
-        "chi"        "**邪恶之源正受到托恩的庇护**"
-    }
-    "### DONT SHOOT THE BOSS THE DAMAGE IS REFLECTING  ###"
-    {
-        "chi"        "**现在不要攻击boss.它会反弹伤害**"
-    }
-    "###  THE DEMON GOD IS WAITING FOR YOUR BLOOD ###"
-    {
-        "chi"        "**恶魔之神等着品尝你们的鲜血**"
-    }
-    "### THE RETALIATION HAS BEGUN ###"
-    {
-        "chi"        "**开始反击**"
-    }
-    "###  YOU THINK YOU CAN DEFEAT ME ? ###"
-    {
-        "chi"        "**凭你们就能打败我？**"
-    }
-    "### THIS IS JUST A BEGINNING OF YOU JOURNEY ###"
-    {
-        "chi"        "**这仅仅是你们旅途的序章**"
-    }
-    "### THE SKYHELL IS OPENING UP FOR THOSE WHO DARE ###"
-    {
-        "chi"        "**正在为冒险家打开地狱深渊**"
-    }
-    "### EVIL MAKER IS CASTING TELEPORTATION ###"
-    {
-        "chi"        "**邪恶之源正在进行投影传送**"
-    }
-    "### MEET ME AT THE END OF THE SKY-HELL ###"
-    {
-        "chi"        "**让我们在地狱之下相见吧**"
-    }
-    "### DO YOU HAVE FAITH ? ###"
-    {
-        "chi"        "**你有信仰吗？**"
-    }
-    "### THERE IS A HELL BELIEVE ME IVE SEEN IT ###"
-    {
-        "chi"        "**相信我，我一定见过**"
-    }
-    "### GOD KNOWS I LOST ALL MY FAITH ###"
-    {
-        "chi"        "**神知道我抛弃了所有的信仰**"
-    }
-    "### TRUST NO ONE EVEN GOD CAN BE DEVIL ###"
-    {
-        "chi"        "**相信世间任何人甚至是神都无法逃脱堕魔的命运**"
-    }
-    "### WILL WE FIND THE PARADISE  ###"
-    {
-        "chi"        "**我会找到归属的天堂吗？**"
-    }
-    "### ............................................... ###"
-    {
-        "chi"        "** **"
-    }
-    "### IN THE END HELL IS THE PLACE THAT WE DESERVED ###"
-    {
-        "chi"        "**堕入地狱深渊是我们应得的惩罚**"
-    }
-    "### THE SKY IS NOT OPENING UP TONIGHT  ###"
-    {
-        "chi"        "**天国的大门今晚不再开启**"
-    }
-    "### YOUR SOULS WILL BE IN THE UNDERWORLD FOREVER ###"
-    {
-        "chi"        "**你的灵魂将永远堕入地狱**"
-    }
-    "### SKYHELL IS OPENING IN 10 SECONDS ###"
-    {
-        "chi"        "**地狱深渊10秒后开启**"
-    }
-    "### EVIL BEILEVER IS CASTING FIRE BLASTER ###"
-    {
-        "chi"        "**邪恶之源正在释放火焰爆破**"
-    }
-    "###  YOU THINK YOU CAN DEFEATED ME ? ###"
-    {
-        "chi"        "**你们认为能打败我？**"
-    }
-    "###  EVIL BELIEVER IS DEFEATED !! ###"
-    {
-        "chi"        "**邪恶信仰者被打败！！**"
-    }
-    "### YOU ALL SHALL GO BACK TO MY UNDERWORLD ###"
-    {
-        "chi"        "**你们所有人都逃不出我的掌控**"
-    }
-    "### EVIL BELIEVER IS CASTING TELEPORTATION ###"
-    {
-        "chi"        "**邪恶信仰者正在进行投影传送**"
-    }
-    "### YOU THINK YOU CAN LEAVE HERE EASILY ? ###"
-    {
-        "chi"        "**你认为你能轻易逃离这里？**"
-    }
-    "### HOLD UNTIL THE PATH OPENS ###"
-    {
-        "chi"        "**守到道路打开**"
-    }
-    "### HOLD FOR 20 SECONDS ###"
-    {
-        "chi"        "**坚守20秒**"
-    }
-    "### PATH WILL BE CLEARED IN 30 SECONDS ###"
-    {
-        "chi"        "**还需要30秒来清理道路**"
-    }
-    "### HOLD FOR 60 SECONDS ###"
-    {
-        "chi"        "**坚守60秒**"
-    }
-    "### 30 SECONDS REMAINING ###"
-    {
-        "chi"        "**还有30秒**"
-    }
-    "### COME TO MY UNDERWORLD WITH ME ###"
-    {
-        "chi"        "**和我一起回到地狱吧**"
-    }
-    "III ZOMBIE HAS PICKED UP FIREWALL III"
-    {
-        "chi"        "**一名僵尸获得了僵尸火柱**"
-    }
-    "III ZOMBIE HAS PICKED UP SLAVE SPAWNER III"
-    {
-        "chi"        "**一名僵尸获得了奴仆召唤器**"
-    }
-    "### SUMMONING SLAVE ###"
-    {
-        "chi"        "**召唤奴仆**"
-    }
-    "### THIS IS NOT THE END ###"
-    {
-        "chi"        "**还没有结束！**"
-    }
-    "** Welcome to the mystical island of Kraznov Poopata **"
-    {
-        "chi"        "**地图作者：naraka  地图汉化：大明**"
-    }
-    "### ADMIN HAS SELECTED STAGE: II ###"
-    {
-        "chi"        "**管理员调关：第二关**"
-    }
-    "### ADMIN HAS SELECTED STAGE: I ###"
-    {
-        "chi"        "**管理员调关：第一关**"
-    }
-    "### ADMIN HAS SELECTED STAGE: III ###"
-    {
-        "chi"        "**管理员调关：第三关**"
-    }
-    "** ZE_SUPERSHITSHOW **"
-    {
-        "chi"        "** **"
-    }
-    "** A mode will be chosen shortly... **"
-    {
-        "chi"        "** **"
-    }
-    "### DOOM BRINGER IS SUMMONING SLAVES ###"
-    {
-        "chi"        "** **"
-    }
+	"### INDOOR CHURCH DOOR BREAKS IN 10 SECONDS ###"
+	{
+		"chi"		"**教堂两侧的门10秒后打开     地图汉化：大明**"
+	}
+	"### DOORS OPEN IN 30 SECONDS ###"
+	{
+		"chi"		"**门30秒后打开**"
+	}
+	"### 10 SECONDS REMAINING ###"
+	{
+		"chi"		"**还剩10秒**"
+	}
+	"### ELEVATOR IS LEAVING IN 40 SECONDS ###"
+	{
+		"chi"		"**电梯40秒后移动**"
+	}
+	"### ZOMBIES TELEPORTING IN 10 SECONDS ###"
+	{
+		"chi"		"**僵尸10秒后传送**"
+	}
+	"### DESTROY BOTH STATUES ###"
+	{
+		"chi"		"**破坏两道石像**"
+	}
+	"### SAINT ? ###"
+	{
+		"chi"		"**圣人？**"
+	}
+	"### SINNER ?  ###"
+	{
+		"chi"		"**罪人？**"
+	}
+	"### GATES OPEN IN 30 SECONDS ###"
+	{
+		"chi"		"**大门30秒后打开**"
+	}
+	"### GATES CLOSED IN 15 SECONDS ###"
+	{
+		"chi"		"**大门15秒后关闭**"
+	}
+	"### BOATS DEPARTING IN 30 SECONDS ###"
+	{
+		"chi"		"**船30秒后离开**"
+	}
+	"III PLAYER HAS PICKED UP SANCTUARY III"
+	{
+		"chi"		"**一名玩家获得了治愈**"
+	}
+	"### BOATS DEPARTING IN 10 SECONDS ###"
+	{
+		"chi"		"**船在10秒后离开**"
+	}
+	"### HOLD HERE FOR 30 SECONDS ###"
+	{
+		"chi"		"**守住这里30秒**"
+	}
+	"### 20 SECONDS REMAINING ###"
+	{
+		"chi"		"**还有20秒**"
+	}
+	"### FIND 2 BOOKS TO ACTIVATE THE GATES ###"
+	{
+		"chi"		"**找到2本书激活入口**"
+	}
+	"III ZOMBIE HAS PICKED UP FIREPILLARS III"
+	{
+		"chi"		"**一名僵尸获得了地狱火柱**"
+	}
+	"### NARAKA BOOK HAS BEEN PICKED UP ###"
+	{
+		"chi"		"**获得地狱之书**"
+	}
+	"### NARAKA BOOK HAS BEEN PLACED ###"
+	{
+		"chi"		"**地狱之书已放置**"
+	}
+	"### HOLY BOOK HAS BEEN PICKED UP ###"
+	{
+		"chi"		"**获得神圣之书**"
+	}
+	"### HOLY BOOK HAS BEEN PLACED ###"
+	{
+		"chi"		"**神圣之书已放置**"
+	}
+	"### TEMPLE'S GATES OPEN IN 30 SECONDS ###"
+	{
+		"chi"		"**大殿大门30秒后打开**"
+	}
+	"### TEMPLE'S GATE IS OPENING ###"
+	{
+		"chi"		"**大殿大门正在打开**"
+	}
+	"### HOLD THIS HALL FOR 30 SECONDS ###"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"### HOLD UNTIL GATES CLOSED ###"
+	{
+		"chi"		"**守到大门关闭**"
+	}
+	"### THORN'S GATE IS CLOSING IN 10 SECONDS ###"
+	{
+		"chi"		"**托恩之门在10秒后关闭**"
+	}
+	">>> WELCOME TO THE UNDERWORLD  <<<"
+	{
+		"chi"		">>>欢迎来到地狱<<<"
+	}
+	"### YOU SOUL SHALL BE MINE ###"
+	{
+		"chi"		"**你的灵魂将属于我**"
+	}
+	"### IM NARAKA'S SOUL COLLECTER ###"
+	{
+		"chi"		"**我是地狱的灵魂收藏家**"
+	}
+	"### GIVE ME YOU SOUL AND I WILL LET YOU BE FREE ###"
+	{
+		"chi"		"**奉献你的灵魂，我会让你自由**"
+	}
+	"### DONT TOUCH THE THORN HE CAN STEAL YOU LIFE ###"
+	{
+		"chi"		"**不要接触托恩，他会偷走你的生命**"
+	}
+	"### MY SLAVES WILL DRAG YOUR LIFE TO HELL ###"
+	{
+		"chi"		"**我的奴仆会把你带入地狱**"
+	}
+	"### THORN OF DEATH HAS BEEN DEFEATED ###"
+	{
+		"chi"		"**托恩被打败了**"
+	}
+	"### KILL THE REMAINING NPCS ###"
+	{
+		"chi"		"**击杀剩余的NPC**"
+	}
+	"### ITS NOT THE END !! ###"
+	{
+		"chi"		"**还没有结束！！**"
+	}
+	"### THIS IS JUST A BEGINNING !! ###"
+	{
+		"chi"		"**这仅仅是个开始**"
+	}
+	"### DOORS IS OPENED  ###"
+	{
+		"chi"		"**大门已经打开**"
+	}
+	"### PRESS ALL 3 LEVERS TO ACTIVATE ELEVATOR ###"
+	{
+		"chi"		"**开启3个开关来启动电梯**"
+	}
+	"III PLAYER HAS PICKED UP HOLY LIGHT III"
+	{
+		"chi"		"**一名玩家获得了圣光**"
+	}
+	"### ELEVATOR IS LEAVING IN 30 SECONDS ###"
+	{
+		"chi"		"**电梯30秒后离开**"
+	}
+	"### GATES OPEN IN 10 SECONDS ###"
+	{
+		"chi"		"**大门10秒后打开**"
+	}
+	">>> YOU SHOULDNT COME HERE  <<<"
+	{
+		"chi"		">>>你们不该来打扰我<<<"
+	}
+	">>> YOU WILL BE HERE FOREVER  <<<"
+	{
+		"chi"		">>>你们永远别想离开了<<<"
+	}
+	"### DOOM BRINGER IS CASTING TELEPORTATION ###"
+	{
+		"chi"		"**末日之源正在进行投影传送**"
+	}
+	"### DOOM BRINGER HAS DISAPPEARED !! ###"
+	{
+		"chi"		"**末日之源消失了**"
+	}
+	"### ZOMBIES WILL BE RELEASED IN 10 SECONDS"
+	{
+		"chi"		"**僵尸10秒后释放**"
+	}
+	"### YOUR SOUL IS MINE ###"
+	{
+		"chi"		"**你的灵魂...属于我**"
+	}
+	">>> DOOM BRINGER IS DEFEATED <<<"
+	{
+		"chi"		">>>末日之源被打败了<<<"
+	}
+	">>> BRIDGE ACTIVATES IN 10 SECONDS <<<"
+	{
+		"chi"		">>>桥在10秒后激活<<<"
+	}
+	"### THIS IS THE LAST HOLD ###"
+	{
+		"chi"		"**这是最后的守点**"
+	}
+	"### HOLD FOR 30 SECONDS ###"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"### YOU ARE GOING TO BE IN HELL FOREVER ###"
+	{
+		"chi"		"**你们将永远堕入地狱**"
+	}
+	"### YOU HAVE DEFEATED HELL SEEKER ###"
+	{
+		"chi"		"**你们打败了地狱搜查官**"
+	}
+	"### DEFEND UNTIL GATE CLOSED  ###"
+	{
+		"chi"		"**守到大门关闭**"
+	}
+	">>> THIS ISN'T THE PLACE WHERE ARE YOU BELONGED  <<<"
+	{
+		"chi"		">>>这不是你们该来的地方<<<"
+	}
+	">>> SURRENDER OR FACE YOUR INEVITABLE DEATH  <<<"
+	{
+		"chi"		">>>投降或是直面无法避免的死亡<<<"
+	}
+	">>> HELL DRAGON IS DEFEATED <<<"
+	{
+		"chi"		">>>地狱邪龙被打败了<<<"
+	}
+	">>> RELEASING THE ZOMBIES <<<"
+	{
+		"chi"		">>>释放僵尸<<<"
+	}
+	">>> GATES OPEN IN 30 SECONDS <<<"
+	{
+		"chi"		">>>大门30秒后打开<<<"
+	}
+	"### GATE OPEN IN 30 SECONDS ###"
+	{
+		"chi"		"**大门30秒后打开**"
+	}
+	"### WAIT UNTIL THE FLAME STOP ###"
+	{
+		"chi"		"**等到火焰消失**"
+	}
+	"### FLAME STOP IN 10 SECONDS ###"
+	{
+		"chi"		"**火焰10秒后消失**"
+	}
+	"### THERE ARE SOMETHING PROTECTED THIS PLACE ###"
+	{
+		"chi"		"**有什么东西守护在这里**"
+	}
+	"### BECAREFUL EVERY STEPS YOU MAKE ###"
+	{
+		"chi"		"**小心你的每一步**"
+	}
+	"### YOU ARE NOT ALLOWED HERE !!! ###"
+	{
+		"chi"		"**没人允许你们来到此地**"
+	}
+	"### HELL'S GATES OPEN IN 10 SECONDS ###"
+	{
+		"chi"		"**地狱之门10秒后打开**"
+	}
+	"### HELL GUARDIAN IS DEFEATED ###"
+	{
+		"chi"		"**地狱守护者被打败**"
+	}
+	"### FIND ALL THREE SECRET BUTTONS ###"
+	{
+		"chi"		"**找到3个秘密开关**"
+	}
+	"III PLAYER HAS PICKED UP MAGNUS EXORCISMUS III"
+	{
+		"chi"		"**一名玩家获得了马格努斯驱邪之力**"
+	}
+	"### CASTING MAGNUS EXORCISMUS IN 10 SECONDS  ###"
+	{
+		"chi"		"**10秒后释放马格努斯驱邪之力**"
+	}
+	"### FIRST BUTTON HAS BEEN FOUND ###"
+	{
+		"chi"		"**找到了第一个开关**"
+	}
+	"### GATES OPEN IN 30 SECONDS###"
+	{
+		"chi"		"**大门30秒后打开**"
+	}
+	"### SECOND BUTTON HAS BEEN FOUND ###"
+	{
+		"chi"		"**找到了第二个开关**"
+	}
+	"### THIRD BUTTON HAS BEEN FOUND ###"
+	{
+		"chi"		"**找到了第三个开关**"
+	}
+	"### PATH WILL BE CLEAR IN 30 SECONDS ###"
+	{
+		"chi"		"**还需要30秒来清理道路**"
+	}
+	"### PREPARE TO MEET YOUR INEVITABLE DEATH ###"
+	{
+		"chi"		"**准备迎接死亡吧！**"
+	}
+	"### ENTRANCE PLATFORM IS ALMOST HERE ###"
+	{
+		"chi"		"**入口平台快到了**"
+	}
+	"### MINI-BOSS INFORMATION WILL BE APPEARS SOON ###"
+	{
+		"chi"		"**MINI-boss即将出现**"
+	}
+	"### GIVE ME YOUR SOUL AND I WILL LET YOU LIVE ###"
+	{
+		"chi"		"**献出你的灵魂，我会让你活下去**"
+	}
+	"### YOU HAVE MADE A MISTAKE CHOICE  ###"
+	{
+		"chi"		"**你们做了一个愚蠢的决定**"
+	}
+	"### TO FIGHT WITH ME !! ###"
+	{
+		"chi"		"**来决斗吧**"
+	}
+	"### FEEL MY LOVE ###"
+	{
+		"chi"		"**让世间感受爱抚**"
+	}
+	"### FEEL MY PAIN ###"
+	{
+		"chi"		"**让世间感受痛楚**"
+	}
+	"### THORN OF FIRE PILLARS IS CASTING ###"
+	{
+		"chi"		"**托恩火柱正在汇聚（远离脚底红圈）**"
+	}
+	"### THORN OF RECOVERY IS HEALING EVIL MAKER ###"
+	{
+		"chi"		"**邪恶之源正受到托恩的治疗**"
+	}
+	"### THORN OF PROTECTION IS PROTECTING  EVIL MAKER ###"
+	{
+		"chi"		"**邪恶之源正受到托恩的庇护**"
+	}
+	"### DONT SHOOT THE BOSS THE DAMAGE IS REFLECTING  ###"
+	{
+		"chi"		"**现在不要攻击boss.它会反弹伤害**"
+	}
+	"###  THE DEMON GOD IS WAITING FOR YOUR BLOOD ###"
+	{
+		"chi"		"**恶魔之神等着品尝你们的鲜血**"
+	}
+	"### THE RETALIATION HAS BEGUN ###"
+	{
+		"chi"		"**开始反击**"
+	}
+	"###  YOU THINK YOU CAN DEFEAT ME ? ###"
+	{
+		"chi"		"**凭你们就能打败我？**"
+	}
+	"### THIS IS JUST A BEGINNING OF YOU JOURNEY ###"
+	{
+		"chi"		"**这仅仅是你们旅途的序章**"
+	}
+	"### THE SKYHELL IS OPENING UP FOR THOSE WHO DARE ###"
+	{
+		"chi"		"**正在为冒险家打开地狱深渊**"
+	}
+	"### EVIL MAKER IS CASTING TELEPORTATION ###"
+	{
+		"chi"		"**邪恶之源正在进行投影传送**"
+	}
+	"### MEET ME AT THE END OF THE SKY-HELL ###"
+	{
+		"chi"		"**让我们在地狱之下相见吧**"
+	}
+	"### DO YOU HAVE FAITH ? ###"
+	{
+		"chi"		"**你有信仰吗？**"
+	}
+	"### THERE IS A HELL BELIEVE ME IVE SEEN IT ###"
+	{
+		"chi"		"**相信我，我一定见过**"
+	}
+	"### GOD KNOWS I LOST ALL MY FAITH ###"
+	{
+		"chi"		"**神知道我抛弃了所有的信仰**"
+	}
+	"### TRUST NO ONE EVEN GOD CAN BE DEVIL ###"
+	{
+		"chi"		"**相信世间任何人甚至是神都无法逃脱堕魔的命运**"
+	}
+	"### WILL WE FIND THE PARADISE  ###"
+	{
+		"chi"		"**我会找到归属的天堂吗？**"
+	}
+	"### ............................................... ###"
+	{
+		"chi"		"** **"
+	}
+	"### IN THE END HELL IS THE PLACE THAT WE DESERVED ###"
+	{
+		"chi"		"**堕入地狱深渊是我们应得的惩罚**"
+	}
+	"### THE SKY IS NOT OPENING UP TONIGHT  ###"
+	{
+		"chi"		"**天国的大门今晚不再开启**"
+	}
+	"### YOUR SOULS WILL BE IN THE UNDERWORLD FOREVER ###"
+	{
+		"chi"		"**你的灵魂将永远堕入地狱**"
+	}
+	"### SKYHELL IS OPENING IN 10 SECONDS ###"
+	{
+		"chi"		"**地狱深渊10秒后开启**"
+	}
+	"### EVIL BEILEVER IS CASTING FIRE BLASTER ###"
+	{
+		"chi"		"**邪恶之源正在释放火焰爆破**"
+	}
+	"###  YOU THINK YOU CAN DEFEATED ME ? ###"
+	{
+		"chi"		"**你们认为能打败我？**"
+	}
+	"###  EVIL BELIEVER IS DEFEATED !! ###"
+	{
+		"chi"		"**邪恶信仰者被打败！！**"
+	}
+	"### YOU ALL SHALL GO BACK TO MY UNDERWORLD ###"
+	{
+		"chi"		"**你们所有人都逃不出我的掌控**"
+	}
+	"### EVIL BELIEVER IS CASTING TELEPORTATION ###"
+	{
+		"chi"		"**邪恶信仰者正在进行投影传送**"
+	}
+	"### YOU THINK YOU CAN LEAVE HERE EASILY ? ###"
+	{
+		"chi"		"**你认为你能轻易逃离这里？**"
+	}
+	"### HOLD UNTIL THE PATH OPENS ###"
+	{
+		"chi"		"**守到道路打开**"
+	}
+	"### HOLD FOR 20 SECONDS ###"
+	{
+		"chi"		"**坚守20秒**"
+	}
+	"### PATH WILL BE CLEARED IN 30 SECONDS ###"
+	{
+		"chi"		"**还需要30秒来清理道路**"
+	}
+	"### HOLD FOR 60 SECONDS ###"
+	{
+		"chi"		"**坚守60秒**"
+	}
+	"### 30 SECONDS REMAINING ###"
+	{
+		"chi"		"**还有30秒**"
+	}
+	"### COME TO MY UNDERWORLD WITH ME ###"
+	{
+		"chi"		"**和我一起回到地狱吧**"
+	}
+	"III ZOMBIE HAS PICKED UP FIREWALL III"
+	{
+		"chi"		"**一名僵尸获得了僵尸火柱**"
+	}
+	"III ZOMBIE HAS PICKED UP SLAVE SPAWNER III"
+	{
+		"chi"		"**一名僵尸获得了奴仆召唤器**"
+	}
+	"### SUMMONING SLAVE ###"
+	{
+		"chi"		"**召唤奴仆**"
+	}
+	"### THIS IS NOT THE END ###"
+	{
+		"chi"		"**还没有结束！**"
+	}
+	"** Welcome to the mystical island of Kraznov Poopata **"
+	{
+		"chi"		"**地图作者：naraka  地图汉化：大明**"
+	}
+	"### ADMIN HAS SELECTED STAGE: II ###"
+	{
+		"chi"		"**管理员调关：第二关**"
+	}
+	"### ADMIN HAS SELECTED STAGE: I ###"
+	{
+		"chi"		"**管理员调关：第一关**"
+	}
+	"### ADMIN HAS SELECTED STAGE: III ###"
+	{
+		"chi"		"**管理员调关：第三关**"
+	}
+	"** ZE_SUPERSHITSHOW **"
+	{
+		"chi"		"** **"
+	}
+	"** A mode will be chosen shortly... **"
+	{
+		"chi"		"** **"
+	}
+	"### DOOM BRINGER IS SUMMONING SLAVES ###"
+	{
+		"chi"		"** **"
+	}
 }

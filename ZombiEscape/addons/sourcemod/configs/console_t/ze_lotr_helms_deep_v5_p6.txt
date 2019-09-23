@@ -1,209 +1,209 @@
 "Console_T"
 {
-    "** MAP BY Hannibal [SPA] (Rafuron) **"
-    {
-        "chi"        "**地图制作者：HANNIBAL [SPA] (Rafuron) 地图翻译：ccsir**"
-    }
-    "** Teleporting AFK to the cage in 30s **"
-    {
-        "chi"        "**挂机者将于30秒后传送至小黑屋**"
-    }
-    "**Door will close in 30 s  ** Get safe into Helms Deep!**"
-    {
-        "chi"        "**门将于30秒后关闭！赶紧进入圣盔谷！**"
-        "DoorCountDown"        "30"
-    }
-    "** The door is closing in 10s **"
-    {
-        "chi"        "**门将于10秒后关闭！**"
-    }
-    "**Show them no mercy...**"
-    {
-        "chi"        "**别对他们心存怜悯！**"
-    }
-    "** for you shall receive none!**"
-    {
-        "chi"        "**因为他们不会手下留情! ú-dano i faelas a hyn, an uben tanatha le faela**"
-    }
-    "**Objective: people at wall MUST defend the wall**"
-    {
-        "chi"        "**目标：所有在城墙上的人必须守住城堡！**"
-    }
-    "**Objective: people at gate MUST defend the gate**"
-    {
-        "chi"        "**目标：所有在城门边上的人必须守住城门！**"
-    }
-    "**Note: if you defend at defensive points you will earn 1 point every 10 seconds (near GATE and TOP of WALL)**"
-    {
-        "chi"        "**给防守城墙人类的提示：请全力打梯子，不要打僵尸！当心拿火炬的僵尸！  **"
-    }
-    "**Note for ZOMBIES: if you set a ladder you will earn 1 point ** Same if you attack the gate**"
-    {
-        "chi"        "**给防守城门人类的提示：城门挠破后若出现白光，按E可给城墙上补丁！**"
-    }
-    "**You must not retrieve ** The retrieve will be announced **"
-    {
-        "chi"        "**给僵尸的提示：只要几个僵尸去踩梯子，其他僵尸都去攻打城门！按e使用攻城锤！不要忘记拿火炬！**"
-    }
-    "**Door is under attack!**"
-    {
-        "chi"        "**城门正在被攻击！**"
-    }
-    "** Ladders! **"
-    {
-        "chi"        "**注意梯子！！**"
-    }
-    "**A zombie has passed the GATE! Kill him or think about start a retreat!**"
-    {
-        "chi"        "**一只僵尸已经通过了城门！赶紧干掉他或者准备撤退！**"
-    }
-    "** Kill him! Stop the torch bearer!**"
-    {
-        "chi"        "** 干掉他！！！干掉那个拿火炬的僵尸！！**"
-    }
-    "**The door is now open Get in the fort now!**"
-    {
-        "chi"        "**内门已经打开了！赶紧进入城堡！**"
-    }
-    "**Fall back! Get in the fortress! Follow the shiny path**"
-    {
-        "chi"        "**撤退！！立刻进入城堡！沿闪着白光的路走！**"
-    }
-    "** Defend at fort! Hall door will open in 40s!**"
-    {
-        "chi"        "**坚守城堡！议政厅的门将于40秒后打开！**"
-        "DoorCountDown"        "40"
-    }
-    "**Hurry! get in the hall!**"
-    {
-        "chi"        "**赶快！赶紧到议政厅里来！**"
-    }
-    "**Resist 30s!**"
-    {
-        "chi"        "**死守30秒**"
-    }
-    "** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!** "
-    {
-        "chi"        "**僵尸们突破了！城堡被攻破了！撤退！让他们进来！死守阵地！！**"
-    }
-    "** Get safe in the fort! **"
-    {
-        "chi"        "**赶紧进到城堡里来！！！**"
-    }
-    "**Sun is rising.**"
-    {
-        "chi"        "**太阳从东方冉冉升起！**"
-    }
-    "**Charge! Follow the shiny path! Do not separate! "
-    {
-        "chi"        "**突撃！白く光るの道に沿って！不要分开！**"
-    }
-    "**A zombie has passed the WALL! Kill him or think about start a retreat!**"
-    {
-        "chi"        "**一只僵尸已经通过了城墙！赶紧干掉他或者准备撤退！**"
-    }
-    "** Gate zone is out of control ** retreat NOW!**"
-    {
-        "chi"        "**城门已经被攻破了！赶紧撤退！！**"
-    }
-    "**The battering ram is breaking the door!**"
-    {
-        "chi"        "**攻城锤正在攻打城门！**"
-    }
-    "**Main door cannot hold the battering ram! RETREAT NOW!**"
-    {
-        "chi"        "**城门挡不住攻城锤了！立刻撤退！**"
-    }
-    "**Kill the remaining zombies of the room!**"
-    {
-        "chi"        "**干掉房间里残存的僵尸！**"
-    }
-    "**Huge ladder is being setting!**"
-    {
-        "chi"        "**大梯子正在升起！**"
-    }
-    "**Horn activated ** Charge with unlimited ammo **"
-    {
-        "chi"        "**卢登的回声响起！！人类拥有无限子弹！！**"
-    }
-    "** Wall zone is out of control ** retreat NOW!**"
-    {
-        "chi"        "**城墙已经被攻破了！赶紧撤退！！**"
-    }
-    "**The wall has been destroyed! Fall back! Get in the fortress!**"
-    {
-        "chi"        "**城墙已经被摧毁了！撤退！赶紧进入城堡！**"
-    }
-    "** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!**"
-    {
-        "chi"        "**他们攻进来了，城堡有裂口了，后退！进入议政厅继续防守！**"
-    }
-    "**Charge! Follow the shiny path! Do not separate!"
-    {
-        "chi"        "** **"
-    }
-    "The server is about to close the update ,Please update your game"
-    {
-        "chi"        "** **"
-    }
-    "** ZE_SUPERSHITSHOW **"
-    {
-        "chi"        "** **"
-    }
-    "** A mode will be chosen shortly... **"
-    {
-        "chi"        "** **"
-    }
-    "[NORMAL MODE]"
-    {
-        "chi"        "** **"
-    }
-    "** Map by ClariceTang **"
-    {
-        "chi"        "** **"
-    }
-    "** Level 1 - Easy **"
-    {
-        "chi"        "** **"
-    }
-    "** Model by K. **"
-    {
-        "chi"        "** **"
-    }
-    "**Welcome to Minas Tirith - City of Kings**"
-    {
-        "chi"        "** **"
-    }
-    "**Stage 1**"
-    {
-        "chi"        "** **"
-    }
-    "***WARMUP***"
-    {
-        "chi"        "** **"
-    }
-    "*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Model :Dakotec ***"
-    {
-        "chi"        "** **"
-    }
-    "** MAP BY Hannibal [SPA] (Rafuron)  Map modified by Rulucy&Koyomaple **"
-    {
-        "chi"        "** **"
-    }
-    "**map by koyomaple**"
-    {
-        "chi"        "** **"
-    }
-    "***Welcome to my first map PePeHands***"
-    {
-        "chi"        "** **"
-    }
-    ">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
-    {
-        "chi"        "** **"
-    }
+	"** MAP BY Hannibal [SPA] (Rafuron) **"
+	{
+		"chi"		"**地图制作者：HANNIBAL [SPA] (Rafuron) 地图翻译：ccsir**"
+	}
+	"** Teleporting AFK to the cage in 30s **"
+	{
+		"chi"		"**挂机者将于30秒后传送至小黑屋**"
+	}
+	"**Door will close in 30 s  ** Get safe into Helms Deep!**"
+	{
+		"chi"		"**门将于30秒后关闭！赶紧进入圣盔谷！**"
+		"DoorCountDown"		"30"
+	}
+	"** The door is closing in 10s **"
+	{
+		"chi"		"**门将于10秒后关闭！**"
+	}
+	"**Show them no mercy...**"
+	{
+		"chi"		"**别对他们心存怜悯！**"
+	}
+	"** for you shall receive none!**"
+	{
+		"chi"		"**因为他们不会手下留情! ú-dano i faelas a hyn, an uben tanatha le faela**"
+	}
+	"**Objective: people at wall MUST defend the wall**"
+	{
+		"chi"		"**目标：所有在城墙上的人必须守住城堡！**"
+	}
+	"**Objective: people at gate MUST defend the gate**"
+	{
+		"chi"		"**目标：所有在城门边上的人必须守住城门！**"
+	}
+	"**Note: if you defend at defensive points you will earn 1 point every 10 seconds (near GATE and TOP of WALL)**"
+	{
+		"chi"		"**给防守城墙人类的提示：请全力打梯子，不要打僵尸！当心拿火炬的僵尸！  **"
+	}
+	"**Note for ZOMBIES: if you set a ladder you will earn 1 point ** Same if you attack the gate**"
+	{
+		"chi"		"**给防守城门人类的提示：城门挠破后若出现白光，按E可给城墙上补丁！**"
+	}
+	"**You must not retrieve ** The retrieve will be announced **"
+	{
+		"chi"		"**给僵尸的提示：只要几个僵尸去踩梯子，其他僵尸都去攻打城门！按e使用攻城锤！不要忘记拿火炬！**"
+	}
+	"**Door is under attack!**"
+	{
+		"chi"		"**城门正在被攻击！**"
+	}
+	"** Ladders! **"
+	{
+		"chi"		"**注意梯子！！**"
+	}
+	"**A zombie has passed the GATE! Kill him or think about start a retreat!**"
+	{
+		"chi"		"**一只僵尸已经通过了城门！赶紧干掉他或者准备撤退！**"
+	}
+	"** Kill him! Stop the torch bearer!**"
+	{
+		"chi"		"** 干掉他！！！干掉那个拿火炬的僵尸！！**"
+	}
+	"**The door is now open Get in the fort now!**"
+	{
+		"chi"		"**内门已经打开了！赶紧进入城堡！**"
+	}
+	"**Fall back! Get in the fortress! Follow the shiny path**"
+	{
+		"chi"		"**撤退！！立刻进入城堡！沿闪着白光的路走！**"
+	}
+	"** Defend at fort! Hall door will open in 40s!**"
+	{
+		"chi"		"**坚守城堡！议政厅的门将于40秒后打开！**"
+		"DoorCountDown"		"40"
+	}
+	"**Hurry! get in the hall!**"
+	{
+		"chi"		"**赶快！赶紧到议政厅里来！**"
+	}
+	"**Resist 30s!**"
+	{
+		"chi"		"**死守30秒**"
+	}
+	"** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!** "
+	{
+		"chi"		"**僵尸们突破了！城堡被攻破了！撤退！让他们进来！死守阵地！！**"
+	}
+	"** Get safe in the fort! **"
+	{
+		"chi"		"**赶紧进到城堡里来！！！**"
+	}
+	"**Sun is rising.**"
+	{
+		"chi"		"**太阳从东方冉冉升起！**"
+	}
+	"**Charge! Follow the shiny path! Do not separate! "
+	{
+		"chi"		"**突撃！白く光るの道に沿って！不要分开！**"
+	}
+	"**A zombie has passed the WALL! Kill him or think about start a retreat!**"
+	{
+		"chi"		"**一只僵尸已经通过了城墙！赶紧干掉他或者准备撤退！**"
+	}
+	"** Gate zone is out of control ** retreat NOW!**"
+	{
+		"chi"		"**城门已经被攻破了！赶紧撤退！！**"
+	}
+	"**The battering ram is breaking the door!**"
+	{
+		"chi"		"**攻城锤正在攻打城门！**"
+	}
+	"**Main door cannot hold the battering ram! RETREAT NOW!**"
+	{
+		"chi"		"**城门挡不住攻城锤了！立刻撤退！**"
+	}
+	"**Kill the remaining zombies of the room!**"
+	{
+		"chi"		"**干掉房间里残存的僵尸！**"
+	}
+	"**Huge ladder is being setting!**"
+	{
+		"chi"		"**大梯子正在升起！**"
+	}
+	"**Horn activated ** Charge with unlimited ammo **"
+	{
+		"chi"		"**卢登的回声响起！！人类拥有无限子弹！！**"
+	}
+	"** Wall zone is out of control ** retreat NOW!**"
+	{
+		"chi"		"**城墙已经被攻破了！赶紧撤退！！**"
+	}
+	"**The wall has been destroyed! Fall back! Get in the fortress!**"
+	{
+		"chi"		"**城墙已经被摧毁了！撤退！赶紧进入城堡！**"
+	}
+	"** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!**"
+	{
+		"chi"		"**他们攻进来了，城堡有裂口了，后退！进入议政厅继续防守！**"
+	}
+	"**Charge! Follow the shiny path! Do not separate!"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_SUPERSHITSHOW **"
+	{
+		"chi"		"** **"
+	}
+	"** A mode will be chosen shortly... **"
+	{
+		"chi"		"** **"
+	}
+	"[NORMAL MODE]"
+	{
+		"chi"		"** **"
+	}
+	"** Map by ClariceTang **"
+	{
+		"chi"		"** **"
+	}
+	"** Level 1 - Easy **"
+	{
+		"chi"		"** **"
+	}
+	"** Model by K. **"
+	{
+		"chi"		"** **"
+	}
+	"**Welcome to Minas Tirith - City of Kings**"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"***WARMUP***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Model :Dakotec ***"
+	{
+		"chi"		"** **"
+	}
+	"** MAP BY Hannibal [SPA] (Rafuron)  Map modified by Rulucy&Koyomaple **"
+	{
+		"chi"		"** **"
+	}
+	"**map by koyomaple**"
+	{
+		"chi"		"** **"
+	}
+	"***Welcome to my first map PePeHands***"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
 }

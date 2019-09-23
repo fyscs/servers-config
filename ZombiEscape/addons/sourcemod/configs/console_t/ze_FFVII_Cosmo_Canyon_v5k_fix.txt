@@ -3,6 +3,7 @@
 	"**Defend here for 25 seconds until the gates open**"
 	{
 		"chi"		"**守住25秒直到大门打开**"
+		"DoorCountDown"		"25"
 	}
 	"**Gates are open. Welcome to Cosmo Canyon**"
 	{
@@ -19,6 +20,7 @@
 	"**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**"
 	{
 		"chi"		"**守住酒吧25秒**"
+		"DoorCountDown"		"25"
 	}
 	"**5 SECONDS LEFT**"
 	{
@@ -35,10 +37,12 @@
 	"**THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS**"
 	{
 		"chi"		"**守住25秒让我们用炸药引爆岩石**"
+		"DoorCountDown"		"25"
 	}
 	"**The gates will open in 25 seconds**"
 	{
 		"chi"		"**大门将在25秒后打开**"
+		"DoorCountDown"		"25"
 	}
 	"**A player has picked up WIND materia**"
 	{
@@ -404,5 +408,129 @@
 	"**THE WINNERS HAD SELECTED THE MODE**"
 	{
 		"chi"		"**胜利者选择了这种模式**"
+	}
+	"**WARMUP ROUND**"
+	{
+		"chi"		"** **"
+	}
+	"**NORMAL MODE**"
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!"
+	{
+		"chi"		"** **"
+	}
+	"[Red-XIII] Do not worry. I know this place.. I was born in here.."
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Well.. That means.. That we can find some staff to make our ship working again.. Right?"
+	{
+		"chi"		"** **"
+	}
+	"[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave."
+	{
+		"chi"		"** **"
+	}
+	"[Red-XIII] There I will give you all the stuff you need."
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] No problem. I will wait for you in there.."
+	{
+		"chi"		"** **"
+	}
+	"**The barman will open the door in 5 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Ay.. There you are!"
+	{
+		"chi"		"** **"
+	}
+	"[Red-XIII] Yes. They helped me a lot. Did you ask for that? This is for you.."
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Thanks. But one question.. What did we forget here?"
+	{
+		"chi"		"** **"
+	}
+	"[Red-XIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak.."
+	{
+		"chi"		"** **"
+	}
+	"[Red-XIII] And he sacrificed himself in order to save the Cosmo Canyon.."
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Oh what a pity.."
+	{
+		"chi"		"** **"
+	}
+	"[Red-XIII] Do not bring this close to your heart.. He died like a hero and I hope that you guys can defeat him.."
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Yea I wish you good luck. When you end with him I go repair our airship.."
+	{
+		"chi"		"** **"
+	}
+	"**This is your last hold point**"
+	{
+		"chi"		"** **"
+	}
+	"**Get on the rocks and hold 25 seconds**"
+	{
+		"chi"		"** **"
+	}
+	"[Red-XIII] Congrats! You made it.. But seems like Gi Nattak ran away somehow.. We will defeat him next time.."
+	{
+		"chi"		"** **"
+	}
+	"**NORMAL mode was beaten. Unlocking HARD mode **"
+	{
+		"chi"		"** **"
+	}
+	"**HARD MODE**"
+	{
+		"chi"		"** **"
+	}
+	"[Red-XIII] Hope he will not escape this time� I afraid that we could attract extra attention.."
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Just in case.. I will bring the ship to the end of the canyon and will take you away.."
+	{
+		"chi"		"** **"
+	}
+	"**Gi Nattak is using shield**"
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Oh sh#t. Theres a stranger right near our airship. Be careful.."
+	{
+		"chi"		"** **"
+	}
+	"[Genesis] Due to you I found what I need.. Face your death here.."
+	{
+		"chi"		"** **"
+	}
+	"[Cloud] Hurry! Get on the airship! I can not stay for long here!"
+	{
+		"chi"		"** **"
+	}
+	"**Hard mode is beaten. Challenge yourself in EXTREME mode ! **"
+	{
+		"chi"		"** **"
+	}
+	"**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+	{
+		"chi"		"** **"
+	}
+	"**stage 1**"
+	{
+		"chi"		"** **"
 	}
 }

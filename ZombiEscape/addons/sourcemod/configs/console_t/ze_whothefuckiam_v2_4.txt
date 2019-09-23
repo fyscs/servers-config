@@ -1,0 +1,139 @@
+"Console_T"
+{
+	">> Door Opens in 30 Seconds <<"
+	{
+		"chi"		">>>30秒后开门<<<"
+	}
+	">> Door opens in 35 seconds <<"
+	{
+		"chi"		">>>35秒后开门<<<"
+	}
+	">> Split into two teams! find the buttons to help the other team escape!! <<"
+	{
+		"chi"		">>>分成2个队伍，去为对方按下按钮<<<"
+	}
+	">> Vent will break in 40 seconds <<"
+	{
+		"chi"		">>>通风口会在40秒后打开<<<"
+	}
+	">> HOLD! Elevator leaves in 30 seconds <<"
+	{
+		"chi"		">>>坚持住，电梯30秒后启动<<<"
+	}
+	">> AFK TELEPORT ACTIVATES IN 15 SECONDS! <<"
+	{
+		"chi"		">>>AFK传送15秒后触发<<<"
+	}
+	">> Reinforced Bunker door opens 28 seconds <<"
+	{
+		"chi"		">>>大仓门28秒后打开<<<"
+	}
+	">> Vent will break in 35 seconds <<"
+	{
+		"chi"		">>>通风口35秒后打开<<<"
+	}
+	">> FINAL DOOR CLOSING IN 20 SECONDS DEFEND!! <<"
+	{
+		"chi"		">>>最后个门20秒后关闭，顶住<<<"
+	}
+	">> MAP COMPLETED, CONGRATULATIONS! <<"
+	{
+		"chi"		">>>地图完成，祝贺<<<"
+	}
+	">> ZOMBIES HAVE ENTERED THE SAFE ZONE! YOU LOSE! <<"
+	{
+		"chi"		">>>僵尸进入安全区，你们完了<<<"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"52428"
+	}
+	">> Reinforced Bunker door opens 25 seconds <<"
+	{
+		"chi"		">>>大仓门25秒后打开<<<"
+	}
+	">> SECURITY DOOR OPENS IN 15 SECONDS <<"
+	{
+		"chi"		">>>安全门15秒后打开<<<"
+	}
+	">> OUTER BUNKER DOOR OPENS IN 15 SECONDS <<"
+	{
+		"chi"		">>>外舱门15秒打开<<<"
+	}
+	">> HOLD 10 SECONDS WHILST WE GET THIS DOOR CLOSED! <<"
+	{
+		"chi"		">>>坚持10秒同时我们会关闭这道门<<<"
+	}
+	">> WATCH OUT! DANGER AHEAD! <<"
+	{
+		"chi"		">>>小心！警告！<<<"
+	}
+	">> GOOD JOB! ZOMBIES INCOMING!! <<"
+	{
+		"chi"		">>>干得好！僵尸来了！<<<"
+	}
+	">> GET INTO THE HELICOPTER BEFORE THE NUKE STRIKES! <<"
+	{
+		"chi"		">>>核弹来之前！！快进入飞机！！<<<"
+	}
+	">> NUKE INBOUND IN 35 SECONDS! <<"
+	{
+		"chi"		">>>核弹35秒后到达<<<"
+	}
+	">>> GET BACK OR GET FUCKED! <<<"
+	{
+		"chi"		">>>撤退<<<"
+	}
+	">> ZOMBIES INCOMING! 10 SECONDS <<"
+	{
+		"chi"		">>>僵尸来了，还有10秒<<<"
+	}
+	">>> EXIT BREAKS IN 20 SECONDS <<<"
+	{
+		"chi"		">>>出口还有20秒<<<"
+	}
+	">> NUKE INBOUND IN 45 SECONDS! <<"
+	{
+		"chi"		">>>核弹还有45秒到达<<<"
+	}
+	"** re shen 50 miao **"
+	{
+		"chi"		"**热身50秒**"
+	}
+	"++ ZE_ITALY_TOWN ++"
+	{
+		"chi"		"** **"
+	}
+	"<< ze_surf_virtus >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Fix by : Lishang >>"
+	{
+		"chi"		"** **"
+	}
+	"***wait for 40sec***"
+	{
+		"chi"		"**等到40秒**"
+	}
+	">> 9 MINUTES TO ESCAPE <<"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"**Welcome to Minas Tirith - City of Kings**"
+	{
+		"chi"		"** **"
+	}
+	"**map by koyomaple**"
+	{
+		"chi"		"** **"
+	}
+	"*** MAP BY GEORGE ***"
+	{
+		"chi"		"** **"
+	}
+}

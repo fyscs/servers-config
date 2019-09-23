@@ -1,131 +1,135 @@
 "Console_T"
 {
-    "HINT: Break your way out!"
-    {
-        "chi"        "** **"
-    }
-    "HINT: 'Crouch' into the hang gliders and then stand up inside."
-    {
-        "chi"        "** **"
-    }
-    "HINT: Cut the boat cable!"
-    {
-        "chi"        "** **"
-    }
-    "HINT: SWIM AROUND THE BUOY TO REACH WILMEKEA PEAK!"
-    {
-        "chi"        "** **"
-    }
-    "HINT: Ocean currents will impede progress."
-    {
-        "chi"        "** **"
-    }
-    "** Helicopter leaving in 15 seconds! **"
-    {
-        "chi"        "** **"
-    }
-    "** Missile launched! You will have to jump! **"
-    {
-        "chi"        "** **"
-    }
-    "^^^ Map By: BillSmauz ^^^"
-    {
-        "chi"        "** **"
-    }
-    "** Tram leaving in 15 seconds **"
-    {
-        "chi"        "** **"
-    }
-    "** Jungle bus out of fuel! **"
-    {
-        "chi"        "** **"
-    }
-    "** Boat leaving in 10 seconds! **"
-    {
-        "chi"        "** **"
-    }
-    "** Magma chamber charges detonated. Wilmekea Peak has become unstable! **"
-    {
-        "chi"        "** **"
-    }
-    "** Wilmekea has gone critical. 10 seconds until eruption! **"
-    {
-        "chi"        "** **"
-    }
-    "[Map] ze_Suchirifu"
-    {
-        "chi"        "** **"
-    }
-    "- Level 1 -"
-    {
-        "chi"        "** **"
-    }
-    "** Zodiac Operator: Jaw's cousin is closing on our six! Shoot her! **"
-    {
-        "chi"        "** **"
-    }
-    ">>LEVEL 1<<"
-    {
-        "chi"        "** **"
-    }
-    "**Map made by Binbow**"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Luffaren***"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Taskuvaras***"
-    {
-        "chi"        "** **"
-    }
-    "***Human door opening in 15s***"
-    {
-        "chi"        "** **"
-    }
-    "**Stage 1**"
-    {
-        "chi"        "** **"
-    }
-    "**level 1**"
-    {
-        "chi"        "** **"
-    }
-    "**Map By Batnik_Reference.smd and ShotT **"
-    {
-        "chi"        "** **"
-    }
-    "****> Map created By GroSSoMineTTo <****"
-    {
-        "chi"        "** **"
-    }
-    "SECRET: Updraft detected!"
-    {
-        "chi"        "** **"
-    }
-    "** Map by ClariceTang **"
-    {
-        "chi"        "** **"
-    }
-    "** Level 1 - Easy **"
-    {
-        "chi"        "** **"
-    }
-    "** Model by K. **"
-    {
-        "chi"        "** **"
-    }
-    "*** ... ***"
-    {
-        "chi"        "** **"
-    }
-    "* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
-    {
-        "chi"        "** **"
-    }
-    "* * * Choose the first MINIGAME * * *"
-    {
-        "chi"        "** **"
-    }
+	"HINT: Break your way out!"
+	{
+		"chi"		"**提示：打破障碍物**"
+	}
+	"HINT: 'Crouch' into the hang gliders and then stand up inside."
+	{
+		"chi"		"** **"
+	}
+	"HINT: Cut the boat cable!"
+	{
+		"chi"		"**提示：切断船用电缆线！**"
+	}
+	"HINT: SWIM AROUND THE BUOY TO REACH WILMEKEA PEAK!"
+	{
+		"chi"		"** **"
+	}
+	"HINT: Ocean currents will impede progress."
+	{
+		"chi"		"**提示：水流会阻挡你们的前进。**"
+	}
+	"** Helicopter leaving in 15 seconds! **"
+	{
+		"chi"		"****直升机将在15秒内离开！****"
+	}
+	"** Missile launched! You will have to jump! **"
+	{
+		"chi"		"****导弹发射啦！ 你必须跳过去！****"
+	}
+	"^^^ Map By: BillSmauz ^^^"
+	{
+		"chi"		"** **"
+	}
+	"** Tram leaving in 15 seconds **"
+	{
+		"chi"		"** **"
+	}
+	"** Jungle bus out of fuel! **"
+	{
+		"chi"		"** **"
+	}
+	"** Boat leaving in 10 seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Magma chamber charges detonated. Wilmekea Peak has become unstable! **"
+	{
+		"chi"		"** **"
+	}
+	"** Wilmekea has gone critical. 10 seconds until eruption! **"
+	{
+		"chi"		"** **"
+	}
+	"[Map] ze_Suchirifu"
+	{
+		"chi"		"** **"
+	}
+	"- Level 1 -"
+	{
+		"chi"		"** **"
+	}
+	"** Zodiac Operator: Jaw's cousin is closing on our six! Shoot her! **"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL 1<<"
+	{
+		"chi"		"** **"
+	}
+	"**Map made by Binbow**"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Luffaren***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Taskuvaras***"
+	{
+		"chi"		"** **"
+	}
+	"***Human door opening in 15s***"
+	{
+		"chi"		"** **"
+	}
+	"**stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"**level 1**"
+	{
+		"chi"		"** **"
+	}
+	"**Map By Batnik_Reference.smd and ShotT **"
+	{
+		"chi"		"** **"
+	}
+	"****> Map created By GroSSoMineTTo <****"
+	{
+		"chi"		"** **"
+	}
+	"SECRET: Updraft detected!"
+	{
+		"chi"		"** **"
+	}
+	"** Map by ClariceTang **"
+	{
+		"chi"		"** **"
+	}
+	"** Level 1 - Easy **"
+	{
+		"chi"		"** **"
+	}
+	"** Model by K. **"
+	{
+		"chi"		"** **"
+	}
+	"*** ... ***"
+	{
+		"chi"		"** **"
+	}
+	"* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Choose the first MINIGAME * * *"
+	{
+		"chi"		"** **"
+	}
+	"LEVEL: EASY"
+	{
+		"chi"		"** **"
+	}
 }

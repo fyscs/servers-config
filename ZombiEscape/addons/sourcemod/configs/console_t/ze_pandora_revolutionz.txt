@@ -1,207 +1,235 @@
 "Console_T"
 {
-    "*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
-    {
-        "chi"        "** **"
-    }
-    "***Map ported by ??????***"
-    {
-        "chi"        "** **"
-    }
-    "*** CURRENT MODE: EASY ***"
-    {
-        "chi"        "** **"
-    }
-    "Door Opens in 30 Seconds!"
-    {
-        "chi"        "** **"
-    }
-    "Map by Lord. Death."
-    {
-        "chi"        "** **"
-    }
-    "Special Thanks to Onahole"
-    {
-        "chi"        "** **"
-    }
-    "Special Thanks to Moltard"
-    {
-        "chi"        "** **"
-    }
-    "Special Thanks to Qahnaarin"
-    {
-        "chi"        "** **"
-    }
-    "Special Thanks to Luffaren"
-    {
-        "chi"        "** **"
-    }
-    "Door Opens in 10 Seconds!"
-    {
-        "chi"        "** **"
-    }
-    "Door is Fully Open! It closes in 5 seconds!"
-    {
-        "chi"        "** **"
-    }
-    "Door is Closed!"
-    {
-        "chi"        "** **"
-    }
-    "Wooden Boxes have beem broken"
-    {
-        "chi"        "** **"
-    }
-    "The Way is open"
-    {
-        "chi"        "** **"
-    }
-    "Player(s) Detected!"
-    {
-        "chi"        "** **"
-    }
-    "Triggering Retarded Elevator"
-    {
-        "chi"        "** **"
-    }
-    "Hold for 30 Seconds until then!"
-    {
-        "chi"        "** **"
-    }
-    "The Retarded Elevator leaves in 5 Seconds!"
-    {
-        "chi"        "** **"
-    }
-    "FallBack!"
-    {
-        "chi"        "** **"
-    }
-    "Zombies are teleporting in 10Sec!"
-    {
-        "chi"        "** **"
-    }
-    "Final Door Opens in 45 Second"
-    {
-        "chi"        "** **"
-    }
-    "Hold them back untiil it opens!"
-    {
-        "chi"        "** **"
-    }
-    "Keep Holding! 30 Seconds left"
-    {
-        "chi"        "** **"
-    }
-    "Keep Holding! 5 Seconds left"
-    {
-        "chi"        "** **"
-    }
-    "DOOR IS OPENING! YOU MUST GET IN!"
-    {
-        "chi"        "** **"
-    }
-    "Final Door Closes in 5 Seconds"
-    {
-        "chi"        "** **"
-    }
-    "Level 1 :  Chicken Murder"
-    {
-        "chi"        "** **"
-    }
-    "Metal Door opens in 35 Seconds!"
-    {
-        "chi"        "** **"
-    }
-    "Metal Door opens in 10 Seconds!"
-    {
-        "chi"        "** **"
-    }
-    "Lego boat leaves in 15 sec"
-    {
-        "chi"        "** **"
-    }
-    "What is this? End of the line?"
-    {
-        "chi"        "** **"
-    }
-    "What shall we do???"
-    {
-        "chi"        "** **"
-    }
-    "What is this strage circle???"
-    {
-        "chi"        "** **"
-    }
-    "[Unkown Voice] My name is Null"
-    {
-        "chi"        "** **"
-    }
-    "Null: Seems that you are stuck!"
-    {
-        "chi"        "** **"
-    }
-    "Null: I can get you out of there!"
-    {
-        "chi"        "** **"
-    }
-    "Null: Give me 5 seconds!"
-    {
-        "chi"        "** **"
-    }
-    "Null: Stand on the circle sign! It's a teleport gate!"
-    {
-        "chi"        "** **"
-    }
-    "Null: Good luck!"
-    {
-        "chi"        "** **"
-    }
-    "Quick! Zombies at the right side!"
-    {
-        "chi"        "** **"
-    }
-    "The bridge has came to life!"
-    {
-        "chi"        "** **"
-    }
-    "Door opens in 15 Seconds!"
-    {
-        "chi"        "** **"
-    }
-    "Don't HUG IT!"
-    {
-        "chi"        "** **"
-    }
-    "Hold them back!"
-    {
-        "chi"        "** **"
-    }
-    "Elevator Leaves in 35 Seconds"
-    {
-        "chi"        "** **"
-    }
-    "Elevator Leaves in 5 Seconds"
-    {
-        "chi"        "** **"
-    }
-    "Hold here until something happens!"
-    {
-        "chi"        "** **"
-    }
-    "Not yet! Keep Holding!"
-    {
-        "chi"        "** **"
-    }
-    "++ ZE_ITALY_TOWN ++"
-    {
-        "chi"        "** **"
-    }
-    "** LEVEL: NOT TOO ROUGH **"
-    {
-        "chi"        "** **"
-    }
-    ">> Map by Taskuvaras <<"
-    {
-        "chi"        "** **"
-    }
+	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
+	{
+		"chi"		"** **"
+	}
+	"***Map ported by ??????***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT MODE: EASY ***"
+	{
+		"chi"		"**当前模式：简单**"
+	}
+	"Door Opens in 30 Seconds!"
+	{
+		"chi"		"**30秒后开门！守住！**"
+	}
+	"Map by Lord. Death."
+	{
+		"chi"		"**地图制作： Lord. Death.  地图翻译：叶巷**"
+	}
+	"Special Thanks to Onahole"
+	{
+		"chi"		"** **"
+	}
+	"Special Thanks to Moltard"
+	{
+		"chi"		"** **"
+	}
+	"Special Thanks to Qahnaarin"
+	{
+		"chi"		"** **"
+	}
+	"Special Thanks to Luffaren"
+	{
+		"chi"		"** **"
+	}
+	"Door Opens in 10 Seconds!"
+	{
+		"chi"		"**守住10秒等待门开**"
+	}
+	"Door is Fully Open! It closes in 5 seconds!"
+	{
+		"chi"		"**5秒后门关，注意撤退！**"
+	}
+	"Door is Closed!"
+	{
+		"chi"		"**门关上了快退！**"
+	}
+	"Wooden Boxes have beem broken"
+	{
+		"chi"		"**木箱被打碎了快走！**"
+	}
+	"The Way is open"
+	{
+		"chi"		"**路开了！**"
+	}
+	"Player(s) Detected!"
+	{
+		"chi"		"** **"
+	}
+	"Triggering Retarded Elevator"
+	{
+		"chi"		"** **"
+	}
+	"Hold for 30 Seconds until then!"
+	{
+		"chi"		"** **"
+	}
+	"The Retarded Elevator leaves in 5 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"FallBack!"
+	{
+		"chi"		"**扔雷！撤退！**"
+	}
+	"Zombies are teleporting in 10Sec!"
+	{
+		"chi"		"**僵尸还有10秒传送！**"
+	}
+	"Final Door Opens in 45 Second"
+	{
+		"chi"		"** **"
+	}
+	"Hold them back untiil it opens!"
+	{
+		"chi"		"** **"
+	}
+	"Keep Holding! 30 Seconds left"
+	{
+		"chi"		"** **"
+	}
+	"Keep Holding! 5 Seconds left"
+	{
+		"chi"		"** **"
+	}
+	"DOOR IS OPENING! YOU MUST GET IN!"
+	{
+		"chi"		"** **"
+	}
+	"Final Door Closes in 5 Seconds"
+	{
+		"chi"		"** **"
+	}
+	"Level 1 :  Chicken Murder"
+	{
+		"chi"		"**等级1：鸡的阴谋**"
+	}
+	"Metal Door opens in 35 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Metal Door opens in 10 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Lego boat leaves in 15 sec"
+	{
+		"chi"		"** **"
+	}
+	"What is this? End of the line?"
+	{
+		"chi"		"**这TM是啥 到终点了吗？**"
+	}
+	"What shall we do???"
+	{
+		"chi"		"** **"
+	}
+	"What is this strage circle???"
+	{
+		"chi"		"** **"
+	}
+	"[Unkown Voice] My name is Null"
+	{
+		"chi"		"**[未知声音] 我的名字是Null**"
+	}
+	"Null: Seems that you are stuck!"
+	{
+		"chi"		"**Null：似乎你们被困住了？**"
+	}
+	"Null: I can get you out of there!"
+	{
+		"chi"		"**Null：我可以帮助你们离开这里！**"
+	}
+	"Null: Give me 5 seconds!"
+	{
+		"chi"		"**Null：给我5秒的时间！**"
+	}
+	"Null: Stand on the circle sign! It's a teleport gate!"
+	{
+		"chi"		"** **"
+	}
+	"Null: Good luck!"
+	{
+		"chi"		"** **"
+	}
+	"Quick! Zombies at the right side!"
+	{
+		"chi"		"** **"
+	}
+	"The bridge has came to life!"
+	{
+		"chi"		"** **"
+	}
+	"Door opens in 15 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Don't HUG IT!"
+	{
+		"chi"		"** **"
+	}
+	"Hold them back!"
+	{
+		"chi"		"** **"
+	}
+	"Elevator Leaves in 35 Seconds"
+	{
+		"chi"		"**电梯将在35秒后离开**"
+	}
+	"Elevator Leaves in 5 Seconds"
+	{
+		"chi"		"**电梯将在5秒后离开**"
+	}
+	"Hold here until something happens!"
+	{
+		"chi"		"**守住这里！ 看看会发生什么事！**"
+	}
+	"Not yet! Keep Holding!"
+	{
+		"chi"		"**给老子守住！不要开假枪！**"
+	}
+	"++ ZE_ITALY_TOWN ++"
+	{
+		"chi"		"** **"
+	}
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"** **"
+	}
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"** **"
+	}
+	"Now Fallback!"
+	{
+		"chi"		"**中间板子碎了！快扔雷撤退！**"
+	}
+	"Final Door Opens in 30 Seconds"
+	{
+		"chi"		"** **"
+	}
+	"Final Door Opens in 10 Seconds"
+	{
+		"chi"		"** **"
+	}
+	"Final Door Opens now"
+	{
+		"chi"		"** **"
+	}
+	"Final Door Closes in 30 Second"
+	{
+		"chi"		"** **"
+	}
+	"Final Door Closes in 10 Second"
+	{
+		"chi"		"** **"
+	}
+	"Kill the poor chicken to win!"
+	{
+		"chi"		"** **"
+	}
 }

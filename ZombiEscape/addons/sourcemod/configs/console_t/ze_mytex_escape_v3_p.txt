@@ -1,147 +1,159 @@
 "Console_T"
 {
-    "*Map by Neox*"
-    {
-        "chi"        "** 地图制作 by Neox 地图翻译 by 色狼领袖 **"
-    }
-    "*Thanks to Fuu and FreeZe :P *"
-    {
-        "chi"        "** 感谢 Fuu和FreeZe :P **"
-    }
-    "*Startdoor C is opening in 10 seconds!*"
-    {
-        "chi"        "** 出生点 C 区大门 10 秒后开启！ **"
-    }
-    "*Elevator is leaving in 5 seconds!*"
-    {
-        "chi"        "** 电梯将在 5 秒后离开！ **"
-    }
-    "*Bridge is breaking in 30 seconds!*"
-    {
-        "chi"        "** 石桥将在 30 秒后坍塌！ **"
-    }
-    "*Bridge is breaking in 10 seconds!*"
-    {
-        "chi"        "** 石桥将在 10 秒后坍塌！ **"
-    }
-    "*Gate is opening!*"
-    {
-        "chi"        "** 闸门开启！ **"
-    }
-    "*Tram is leaving in 12 seconds!*"
-    {
-        "chi"        "** 电车将在 12 秒后离开！ **"
-        "DoorCountdown"        "12"
-    }
-    "*AFK teleport in 10 seconds!*"
-    {
-        "chi"        "** 挂机的玩家将在 10 秒后传送！ **"
-    }
-    "*Right Gate is opening in 15 seconds!*"
-    {
-        "chi"        "** 右边的闸门将在 15 秒后开启！ **"
-        "DoorCountdown"        "15"
-    }
-    "*Left Gate is opening in 15 seconds!*"
-    {
-        "chi"        "** 左边的闸门将在 15 秒后开启！ **"
-    }
-    "*Right Gate is opening!*"
-    {
-        "chi"        "** 右边的闸门开启！ **"
-    }
-    "*Left Gate is opening!*"
-    {
-        "chi"        "** 左边的闸门开启！ **"
-    }
-    "*Bigdoor is opening in 30 seconds!*"
-    {
-        "chi"        "** 大门将于 30 秒后打开！ **"
-        "DoorCountdown"        "32"
-    }
-    "*Bigdoor is opening in 10 seconds!*"
-    {
-        "chi"        "**  大门将于 10 秒后打开！**（不要急着贴门，大门开启还需要一段时间）"
-    }
-    "*Bigdoor is opening!*"
-    {
-        "chi"        "** 大门开启！** （不要急着贴门，大门开启还需要一段时间）"
-    }
-    "*Finaldoor is opening in 15 seconds!"
-    {
-        "chi"        "** 最后的逃生门将在 15 秒后打开！ **(守到闪白光)"
-    }
-    "*Finaldoor is opening!"
-    {
-        "chi"        "** 最后的逃生门开启！ **"
-    }
-    "*Light in 30 seconds!*"
-    {
-        "chi"        "** 桥梁将在 30 秒后断裂！ **"
-        "DoorCountdown"        "30"
-    }
-    "*Light in 10 seconds!*"
-    {
-        "chi"        "** 桥梁将在 10 秒后断裂！ **"
-    }
-    "<<< Map by Jllaneras >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Trial 1 >>>"
-    {
-        "chi"        "** **"
-    }
-    "<< ze_surf_virtus >>"
-    {
-        "chi"        "** **"
-    }
-    "<< Fix by : Lishang >>"
-    {
-        "chi"        "** **"
-    }
-    "*** NY MARATHON: GET READY TO RUN! ***"
-    {
-        "chi"        "** **"
-    }
-    "For POSSESSION, Respect to Sakura"
-    {
-        "chi"        "** **"
-    }
-    "Based-map by Xquality"
-    {
-        "chi"        "** **"
-    }
-    "**stage 1**"
-    {
-        "chi"        "** **"
-    }
-    "**welcome to ze_fat_hours_escape**"
-    {
-        "chi"        "** **"
-    }
-    "**map by yinyuehzixi**"
-    {
-        "chi"        "** **"
-    }
-    "** Map by ClariceTang **"
-    {
-        "chi"        "** **"
-    }
-    "** Level 1 - Easy **"
-    {
-        "chi"        "** **"
-    }
-    "** Model by K. **"
-    {
-        "chi"        "** **"
-    }
-    ">> 9 MINUTES TO ESCAPE <<"
-    {
-        "chi"        "** **"
-    }
-    "**Thanks to Airvulpes for the textures**"
-    {
-        "chi"        "** **"
-    }
+	"*Map by Neox*"
+	{
+		"chi"		"** 地图制作 by Neox 地图翻译 by 色狼领袖 **"
+	}
+	"*Thanks to Fuu and FreeZe :P *"
+	{
+		"chi"		"** 感谢 Fuu和FreeZe :P **"
+	}
+	"*Startdoor C is opening in 10 seconds!*"
+	{
+		"chi"		"** 出生点 C 区大门 10 秒后开启！ **"
+	}
+	"*Elevator is leaving in 5 seconds!*"
+	{
+		"chi"		"** 电梯将在 5 秒后离开！ **"
+	}
+	"*Bridge is breaking in 30 seconds!*"
+	{
+		"chi"		"** 石桥将在 30 秒后坍塌！ **"
+	}
+	"*Bridge is breaking in 10 seconds!*"
+	{
+		"chi"		"** 石桥将在 10 秒后坍塌！ **"
+	}
+	"*Gate is opening!*"
+	{
+		"chi"		"** 闸门开启！ **"
+	}
+	"*Tram is leaving in 12 seconds!*"
+	{
+		"chi"		"** 电车将在 12 秒后离开！ **"
+		"DoorCountDown"		"12"
+	}
+	"*AFK teleport in 10 seconds!*"
+	{
+		"chi"		"** 挂机的玩家将在 10 秒后传送！ **"
+	}
+	"*Right Gate is opening in 15 seconds!*"
+	{
+		"chi"		"** 右边的闸门将在 15 秒后开启！ **"
+		"DoorCountDown"		"15"
+	}
+	"*Left Gate is opening in 15 seconds!*"
+	{
+		"chi"		"** 左边的闸门将在 15 秒后开启！ **"
+	}
+	"*Right Gate is opening!*"
+	{
+		"chi"		"** 右边的闸门开启！ **"
+	}
+	"*Left Gate is opening!*"
+	{
+		"chi"		"** 左边的闸门开启！ **"
+	}
+	"*Bigdoor is opening in 30 seconds!*"
+	{
+		"chi"		"** 大门将于 30 秒后打开！ **"
+		"DoorCountDown"		"32"
+	}
+	"*Bigdoor is opening in 10 seconds!*"
+	{
+		"chi"		"**  大门将于 10 秒后打开！**（不要急着贴门，大门开启还需要一段时间）"
+	}
+	"*Bigdoor is opening!*"
+	{
+		"chi"		"** 大门开启！** （不要急着贴门，大门开启还需要一段时间）"
+	}
+	"*Finaldoor is opening in 15 seconds!"
+	{
+		"chi"		"** 最后的逃生门将在 15 秒后打开！ **(守到闪白光)"
+	}
+	"*Finaldoor is opening!"
+	{
+		"chi"		"** 最后的逃生门开启！ **"
+	}
+	"*Light in 30 seconds!*"
+	{
+		"chi"		"** 桥梁将在 30 秒后断裂！ **"
+		"DoorCountDown"		"30"
+	}
+	"*Light in 10 seconds!*"
+	{
+		"chi"		"** 桥梁将在 10 秒后断裂！ **"
+	}
+	"<<< Map by Jllaneras >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Trial 1 >>>"
+	{
+		"chi"		"** **"
+	}
+	"<< ze_surf_virtus >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Fix by : Lishang >>"
+	{
+		"chi"		"** **"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"chi"		"** **"
+	}
+	"For POSSESSION, Respect to Sakura"
+	{
+		"chi"		"** **"
+	}
+	"Based-map by Xquality"
+	{
+		"chi"		"** **"
+	}
+	"**stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"**welcome to ze_fat_hours_escape**"
+	{
+		"chi"		"** **"
+	}
+	"**map by yinyuehzixi**"
+	{
+		"chi"		"** **"
+	}
+	"** Map by ClariceTang **"
+	{
+		"chi"		"** **"
+	}
+	"** Level 1 - Easy **"
+	{
+		"chi"		"** **"
+	}
+	"** Model by K. **"
+	{
+		"chi"		"** **"
+	}
+	">> 9 MINUTES TO ESCAPE <<"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to Airvulpes for the textures**"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***Particle Effect by Airvulpes***"
+	{
+		"chi"		"** **"
+	}
+	"***Thanks to Shizuru[idea]  uuz[model]***"
+	{
+		"chi"		"** **"
+	}
 }

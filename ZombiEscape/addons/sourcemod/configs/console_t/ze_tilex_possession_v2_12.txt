@@ -1,207 +1,207 @@
 "Console_T"
 {
-    "Map Arranged by Airvulpes"
-    {
-        "chi"        "**地图修改：Airvulpes **"
-    }
-    "*** Difficulty : Easy ***"
-    {
-        "chi"        "**难度：简单 **"
-    }
-    "For POSSESSION, Respect to Sakura"
-    {
-        "chi"        "**为了POSSESSION，请尊重Sakura **"
-    }
-    "Based-map by Xquality"
-    {
-        "chi"        "**基于Xquality的地图制作 **"
-    }
-    "Map Supported by SHUFEN"
-    {
-        "chi"        "**地图支持：SHUFEN **"
-    }
-    "Elivator leaving in: 3"
-    {
-        "chi"        "**电梯离开：3秒 **"
-    }
-    "Mini train leaving in 5 seconds."
-    {
-        "chi"        "**迷你电车5秒后离开 **"
-    }
-    "Tracks crashed ahead"
-    {
-        "chi"        "**前方轨道断裂！(快跳车！) **"
-    }
-    "Remaining 5 seconds !"
-    {
-        "chi"        "**守住5秒！ **"
-    }
-    "Door opening in 5 seconds!"
-    {
-        "chi"        "**大门5秒后开启 **"
-    }
-    "Tram leaving in 10 seconds!"
-    {
-        "chi"        "**运输车在10秒后离开 **"
-    }
-    "Security doors closing in 10."
-    {
-        "chi"        "**安全门在十秒后关闭！ **"
-    }
-    "Train leaving in 30 seconds."
-    {
-        "chi"        "**火车在30秒后离开！ **"
-        "DoorCountDown"        "30"
-    }
-    "Train leaving in 20 seconds."
-    {
-        "chi"        "**火车在20秒后离开！ **"
-    }
-    "Train leaving in 10 seconds."
-    {
-        "chi"        "**火车在10秒后离开！ **"
-    }
-    "Train is leaving."
-    {
-        "chi"        "**火车已离开 **"
-    }
-    "Incoming nuke!!!"
-    {
-        "chi"        "**核爆来袭！！！ **"
-    }
-    "*** Difficulty : Normal ***"
-    {
-        "chi"        "**难度：普通 **"
-    }
-    "*** Difficulty : Hard ***"
-    {
-        "chi"        "**难度：困难 **"
-    }
-    "Door opening in 15 seconds!"
-    {
-        "chi"        "**大门15秒后打开 **"
-    }
-    "Hold 20 seconds !"
-    {
-        "chi"        "**守住20秒！ **"
-        "DoorCountDown"        "20"
-    }
-    "Helicopter leaves 20 seconds!"
-    {
-        "chi"        "**直升机在20秒后起飞！ **"
-        "DoorCountDown"        "20"
-    }
-    "remaining 5 seconds!"
-    {
-        "chi"        "**还有5秒！ **"
-    }
-    "*** Difficulty : Extreme ***"
-    {
-        "chi"        "**难度：极限 **"
-    }
-    "Door opening in 80 seconds!"
-    {
-        "chi"        "**大门80秒后打开 **"
-        "DoorCountDown"        "80"
-    }
-    "Remaining 40 seconds!"
-    {
-        "chi"        "**还剩40秒 **"
-    }
-    "Remaining 10 seconds!"
-    {
-        "chi"        "**还剩10秒 **"
-    }
-    "*** Difficulty : Insane ***"
-    {
-        "chi"        "**难度：疯狂 **"
-    }
-    "Remaining 15 seconds !"
-    {
-        "chi"        "**还剩15秒 **"
-    }
-    "Admin pressed rtv button"
-    {
-        "chi"        "**管理员选择了RTV难度 **"
-    }
-    "*** Difficulty : rtv ***"
-    {
-        "chi"        "**难度：RTV **"
-    }
-    "Admin pressed Insane button"
-    {
-        "chi"        "**管理员选择了疯狂难度 **"
-    }
-    "Admin pressed Ex button"
-    {
-        "chi"        "**管理员选择了极限难度 **"
-    }
-    "Admin pressed Extreme button"
-    {
-        "chi"        "** **"
-    }
-    "Admin pressed Hard button"
-    {
-        "chi"        "** **"
-    }
-    "++ ZE_ITALY_TOWN ++"
-    {
-        "chi"        "** **"
-    }
-    "**stage1**"
-    {
-        "chi"        "** **"
-    }
-    "**map by:一条会翻身的鱼**"
-    {
-        "chi"        "** **"
-    }
-    "### WELCOME TO CRAZY ESCAPE ###"
-    {
-        "chi"        "** **"
-    }
-    "** [HARD MODE] **"
-    {
-        "chi"        "** **"
-    }
-    "<< ze_surf_virtus >>"
-    {
-        "chi"        "** **"
-    }
-    "<< Fix by : Lishang >>"
-    {
-        "chi"        "** **"
-    }
-    "Admin pressed Ex disable button"
-    {
-        "chi"        "** **"
-    }
-    "Thanks by Sakura, Possession"
-    {
-        "chi"        "** **"
-    }
-    "Original Map by Xquality"
-    {
-        "chi"        "** **"
-    }
-    "### Welcome to Abandoned Bio Bunker  ###"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Reflelia***"
-    {
-        "chi"        "** **"
-    }
-    "***Particle Effect by Airvulpes***"
-    {
-        "chi"        "** **"
-    }
-    "***Thanks to Shizuru[idea]  uuz[model]***"
-    {
-        "chi"        "** **"
-    }
-    "** re shen 50 miao **"
-    {
-        "chi"        "** **"
-    }
+	"Map Arranged by Airvulpes"
+	{
+		"chi"		"**地图修改：Airvulpes **"
+	}
+	"*** Difficulty : Easy ***"
+	{
+		"chi"		"**难度：简单 **"
+	}
+	"For POSSESSION, Respect to Sakura"
+	{
+		"chi"		"**为了POSSESSION，请尊重Sakura **"
+	}
+	"Based-map by Xquality"
+	{
+		"chi"		"**基于Xquality的地图制作 **"
+	}
+	"Map Supported by SHUFEN"
+	{
+		"chi"		"**地图支持：SHUFEN **"
+	}
+	"Elivator leaving in: 3"
+	{
+		"chi"		"**电梯离开：3秒 **"
+	}
+	"Mini train leaving in 5 seconds."
+	{
+		"chi"		"**迷你电车5秒后离开 **"
+	}
+	"Tracks crashed ahead"
+	{
+		"chi"		"**前方轨道断裂！(快跳车！) **"
+	}
+	"Remaining 5 seconds !"
+	{
+		"chi"		"**守住5秒！ **"
+	}
+	"Door opening in 5 seconds!"
+	{
+		"chi"		"**大门5秒后开启 **"
+	}
+	"Tram leaving in 10 seconds!"
+	{
+		"chi"		"**运输车在10秒后离开 **"
+	}
+	"Security doors closing in 10."
+	{
+		"chi"		"**安全门在十秒后关闭！ **"
+	}
+	"Train leaving in 30 seconds."
+	{
+		"chi"		"**火车在30秒后离开！ **"
+		"DoorCountDown"		"30"
+	}
+	"Train leaving in 20 seconds."
+	{
+		"chi"		"**火车在20秒后离开！ **"
+	}
+	"Train leaving in 10 seconds."
+	{
+		"chi"		"**火车在10秒后离开！ **"
+	}
+	"Train is leaving."
+	{
+		"chi"		"**火车已离开 **"
+	}
+	"Incoming nuke!!!"
+	{
+		"chi"		"**核爆来袭！！！ **"
+	}
+	"*** Difficulty : Normal ***"
+	{
+		"chi"		"**难度：普通 **"
+	}
+	"*** Difficulty : Hard ***"
+	{
+		"chi"		"**难度：困难 **"
+	}
+	"Door opening in 15 seconds!"
+	{
+		"chi"		"**大门15秒后打开 **"
+	}
+	"Hold 20 seconds !"
+	{
+		"chi"		"**守住20秒！ **"
+		"DoorCountDown"		"20"
+	}
+	"Helicopter leaves 20 seconds!"
+	{
+		"chi"		"**直升机在20秒后起飞！ **"
+		"DoorCountDown"		"20"
+	}
+	"remaining 5 seconds!"
+	{
+		"chi"		"**还有5秒！ **"
+	}
+	"*** Difficulty : Extreme ***"
+	{
+		"chi"		"**难度：极限 **"
+	}
+	"Door opening in 80 seconds!"
+	{
+		"chi"		"**大门80秒后打开 **"
+		"DoorCountDown"		"80"
+	}
+	"Remaining 40 seconds!"
+	{
+		"chi"		"**还剩40秒 **"
+	}
+	"Remaining 10 seconds!"
+	{
+		"chi"		"**还剩10秒 **"
+	}
+	"*** Difficulty : Insane ***"
+	{
+		"chi"		"**难度：疯狂 **"
+	}
+	"Remaining 15 seconds !"
+	{
+		"chi"		"**还剩15秒 **"
+	}
+	"Admin pressed rtv button"
+	{
+		"chi"		"**管理员选择了RTV难度 **"
+	}
+	"*** Difficulty : rtv ***"
+	{
+		"chi"		"**难度：RTV **"
+	}
+	"Admin pressed Insane button"
+	{
+		"chi"		"**管理员选择了疯狂难度 **"
+	}
+	"Admin pressed Ex button"
+	{
+		"chi"		"**管理员选择了极限难度 **"
+	}
+	"Admin pressed Extreme button"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Hard button"
+	{
+		"chi"		"** **"
+	}
+	"++ ZE_ITALY_TOWN ++"
+	{
+		"chi"		"** **"
+	}
+	"**stage1**"
+	{
+		"chi"		"** **"
+	}
+	"**map by:一条会翻身的鱼**"
+	{
+		"chi"		"** **"
+	}
+	"### WELCOME TO CRAZY ESCAPE ###"
+	{
+		"chi"		"** **"
+	}
+	"** [HARD MODE] **"
+	{
+		"chi"		"** **"
+	}
+	"<< ze_surf_virtus >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Fix by : Lishang >>"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Ex disable button"
+	{
+		"chi"		"** **"
+	}
+	"Thanks by Sakura, Possession"
+	{
+		"chi"		"** **"
+	}
+	"Original Map by Xquality"
+	{
+		"chi"		"** **"
+	}
+	"### Welcome to Abandoned Bio Bunker  ###"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***Particle Effect by Airvulpes***"
+	{
+		"chi"		"** **"
+	}
+	"***Thanks to Shizuru[idea]  uuz[model]***"
+	{
+		"chi"		"** **"
+	}
+	"** re shen 50 miao **"
+	{
+		"chi"		"** **"
+	}
 }

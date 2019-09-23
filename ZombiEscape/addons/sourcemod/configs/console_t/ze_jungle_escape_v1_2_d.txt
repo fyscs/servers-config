@@ -1,554 +1,554 @@
 "Console_T"
 {
-    "**It?s strongly recommended to not play this map with below DX9**"
-    {
-        "chi"        "**强烈推荐不要在DX9以下版本玩这个地图**"
-    }
-    "**Rocks breaking in 25 seconds!**"
-    {
-        "chi"        "**石头将在25秒后碎裂**"
-        "DoorCountDown"        "25"
-    }
-    "**Rocks breaking in 10 seconds!**"
-    {
-        "chi"        "**石头将在10秒后碎裂**"
-    }
-    "**Rocks break in 5 seconds!**"
-    {
-        "chi"        "**石头将在5秒后碎裂**"
-    }
-    "**Map Created by jenz**"
-    {
-        "chi"        "**地图制作：jenz  地图翻译：银月筱瑶**"
-    }
-    ">>Electro has been picked up<<"
-    {
-        "chi"        "**一位玩家拾取了神器：电（较高伤害，没有减速）**"
-    }
-    ">>Ice has been picked up<<"
-    {
-        "chi"        "**一位玩家拾取了神器：冰（极高减速）**"
-    }
-    "**Defend for 45 seconds!**"
-    {
-        "chi"        "**防守这里45秒！**"
-        "DoorCountDown"        "45"
-    }
-    "**25 seconds are left**"
-    {
-        "chi"        "**还有25秒**"
-    }
-    "**5 seconds are left**"
-    {
-        "chi"        "**还有5秒**"
-    }
-    "**You can fall back now**"
-    {
-        "chi"        "**现在可以撤退了**"
-    }
-    ">>Wurzel push has been picked up<<"
-    {
-        "chi"        "**一位玩家拾取了神器：风（直线吹风）**"
-    }
-    "**The path will be free in 30 seconds**"
-    {
-        "chi"        "**道路将在30秒后被清理出来**"
-    }
-    ">>Good job you collected the crystal!<<"
-    {
-        "chi"        "**干得漂亮，你找到了水晶**"
-    }
-    "**The path will be free in 15 seconds**"
-    {
-        "chi"        "**道路将在15秒后被清理出来**"
-        "DoorCountDown"        "15"
-    }
-    "**5 SECONDS ARE LEFT!**"
-    {
-        "chi"        "**还剩下5秒**"
-    }
-    "**RETREAT!!**"
-    {
-        "chi"        "**快跑！**"
-    }
-    "**You must find the secret lever**"
-    {
-        "chi"        "**我们必须找到隐藏的开关（水下的木桩）**"
-    }
-    "**Well done you found the lever!**"
-    {
-        "chi"        "**干得漂亮，开关已经按下**"
-    }
-    "**Defend for 15 seconds!**"
-    {
-        "chi"        "**坚守这里15秒**"
-        "DoorCountDown"        "15"
-    }
-    "**Defend 5 seconds!**"
-    {
-        "chi"        "**坚守5秒**"
-    }
-    "**Fall back!**"
-    {
-        "chi"        "**快跑**"
-    }
-    "**Survive for 35 seconds**"
-    {
-        "chi"        "**想办法生存25秒**"
-    }
-    "**Drop and pick up the items again!**"
-    {
-        "chi"        "**重新丢弃然后捡起你的神器**"
-        "ico"        "icon_fire"
-    }
-    "**The boat will leave in 30 seconds!**"
-    {
-        "chi"        "**船将在30秒后离开**"
-        "DoorCountDown"        "30"
-    }
-    "**If you still got the crystal throw it into the boat**"
-    {
-        "chi"        "**如果我们仍然持有水晶，就赶紧把它丢到船上**"
-        "ico"        "icon_fire"
-    }
-    "**20 seconds are left!**"
-    {
-        "chi"        "**还有20秒**"
-    }
-    "**Well done you secured the crystal**"
-    {
-        "chi"        "**我们保护好了水晶**"
-    }
-    "**Keep firing with unlimmit ammo**"
-    {
-        "chi"        "**保持火力，现在我们拥有无限的弹药**"
-    }
-    "**10 seconds are left!**"
-    {
-        "chi"        "**还剩下10秒**"
-    }
-    ">>CONGRATULATION YOU WON THE FIRST STAGE<<"
-    {
-        "chi"        "**恭喜你完成了第一关**"
-    }
-    "**Defend the spawn areas! The trees too clustered**"
-    {
-        "chi"        "**防守出生点！这些树太多了**"
-    }
-    "**The path will be cleared in 35 seconds!**"
-    {
-        "chi"        "**道路将在35秒后清理出来**"
-        "DoorCountDown"        "35"
-    }
-    "**The path will be cleared in 20 seconds!**"
-    {
-        "chi"        "**道路将在20秒后清理出来**"
-    }
-    "**The path will be cleared in 10 seconds!**"
-    {
-        "chi"        "**道路将在10秒后清理出来**"
-    }
-    "**The path is free!**"
-    {
-        "chi"        "**道路清理掉了**"
-    }
-    "**Defend 10 seconds!**"
-    {
-        "chi"        "**坚守10秒**"
-    }
-    "**The path is free now!**"
-    {
-        "chi"        "**道路清理掉啦**"
-    }
-    "**One ct must head down and press the button!**"
-    {
-        "chi"        "**需要一个身法好的老司机走下面按开关**"
-    }
-    "**You pressed the button! The rocks will be removed in 20 seconds!**"
-    {
-        "chi"        "**开关按了，石头将在20秒后被移开**"
-        "DoorCountDown"        "20"
-    }
-    "**10 seconds are left**"
-    {
-        "chi"        "**还有10秒**"
-    }
-    "**5 seconds!**"
-    {
-        "chi"        "**还有5秒**"
-    }
-    "**The path is clear!**"
-    {
-        "chi"        "**道路已被清理**"
-    }
-    "**The path will be free in 30 seconds!**"
-    {
-        "chi"        "**道路将在30秒后被清理掉**"
-        "DoorCountDown"        "30"
-    }
-    "**Hold for 20 seconds!**"
-    {
-        "chi"        "**坚持20秒**"
-    }
-    "**Hold for 10 seconds!**"
-    {
-        "chi"        "**再坚持10秒**"
-    }
-    "**Fall back**"
-    {
-        "chi"        "**可以跑啦**"
-    }
-    "**Be carefull with which bridge you choose to cross*"
-    {
-        "chi"        "**小心点，选择一条桥走**"
-    }
-    "**Defend 30 seconds**"
-    {
-        "chi"        "**坚守30秒**"
-        "DoorCountDown"        "30"
-    }
-    "**Defend 20 seconds!**"
-    {
-        "chi"        "**坚守20秒**"
-    }
-    "**The lift will arive soon!*"
-    {
-        "chi"        "**电梯很快就离开了**"
-    }
-    "**The lift is leaving!!*"
-    {
-        "chi"        "**电梯走啦**"
-    }
-    "**The brigde part will arive soon**"
-    {
-        "chi"        "**桥面很快就会下降下来**"
-    }
-    "**Keep holding!**"
-    {
-        "chi"        "**继续防守**"
-    }
-    "**Hold here for 15 seconds!**"
-    {
-        "chi"        "**守住这里15秒**"
-        "DoorCountDown"        "15"
-    }
-    "**5 seconds left!**"
-    {
-        "chi"        "**还有5秒**"
-    }
-    "**Your so close to the end but yet so far away...**"
-    {
-        "chi"        "**我们现在很接近终点了，但仍然显得那么远**"
-    }
-    "**If you still got the crystal drop it here to recieve unlimmit ammo!**"
-    {
-        "chi"        "**如果我们仍然持有水晶，就把它丢在这里获取无限的弹药支援**"
-        "ico"        "icon_fire"
-    }
-    "**Perharps if you defend with patience for 45 seconds some deus ex machina will happen**"
-    {
-        "chi"        "**也许我们再守45秒，会发生一些能解围的事情**"
-        "DoorCountDown"        "45"
-    }
-    "** KEEP IT UP! 30 SECONDS LEFT!**"
-    {
-        "chi"        "**坚持住，再守30秒**"
-    }
-    "**THE LAST 15 SECONDS!**"
-    {
-        "chi"        "**还有15秒**"
-    }
-    "**10 SECONDS!!!!***"
-    {
-        "chi"        "**还有10秒！！**"
-    }
-    "**VOODOO MAGIC GRANTS YOU THE ABILITY TO LEVITATE ACROSS THE GAP! RUN! RUN TO SAFETY OF THE MOMENT!!**"
-    {
-        "chi"        "**一个巫毒魔法让我们变得身轻如燕，快跑到安全的地方！**"
-    }
-    "**Well done you beat the second level!**"
-    {
-        "chi"        "**干得漂亮，你完成了第二关**"
-    }
-    "**Thanks for playing! Map by jenz**"
-    {
-        "chi"        "**谢谢游玩，地图制作：jenz 地图翻译：银月筱瑶**"
-    }
-    "**Moving to stage 3**"
-    {
-        "chi"        "**正在前往第三关**"
-    }
-    "**Gate opening in 20 seconds**"
-    {
-        "chi"        "**大门将在20秒后打开**"
-        "DoorCountDown"        "20"
-    }
-    "**Gate opening in 5 seconds**"
-    {
-        "chi"        "**大门将在5秒后打开**"
-    }
-    "**Turn the lights on!**"
-    {
-        "chi"        "**这里太暗了，快去开灯**"
-    }
-    "**Lights turning on!**"
-    {
-        "chi"        "**灯光开启**"
-    }
-    "**Trigger the lever to open the door!**"
-    {
-        "chi"        "**找到开关去开门**"
-    }
-    "**Good job you pressed the lever! The door will open in 30 seconds!**"
-    {
-        "chi"        "**好的，开关已经按下了，大门30秒后打开！**"
-        "DoorCountDown"        "30"
-    }
-    "**15 SECONDS LEFT!**"
-    {
-        "chi"        "**还有15秒**"
-    }
-    "**Hold 20 seconds!**"
-    {
-        "chi"        "**守住20秒**"
-        "DoorCountDown"        "20"
-    }
-    "**Hold 10 seconds!**"
-    {
-        "chi"        "**还有10秒**"
-    }
-    "**beware! Ahead lies great dangers of mysteries unknown...**"
-    {
-        "chi"        "**小心！前面有很多隐藏的危险……**"
-    }
-    ">>Wurzel sculpture has been picked up<<"
-    {
-        "chi"        "**一位玩家拾取了神器：雕塑（很小的障碍物墙）**"
-    }
-    "**The gates of the E%ecutor will open in 40 seconds!**"
-    {
-        "chi"        "**执行者的大门将在40秒后打开**"
-        "DoorCountDown"        "40"
-    }
-    "**The gates of the E%ecutor will open in 25 seconds!!**"
-    {
-        "chi"        "**执行者的大门将在25秒后打开**"
-    }
-    "**The gates of the E%ecutor will open in 15 seconds!**"
-    {
-        "chi"        "**执行者的大门将在15秒后打开**"
-    }
-    "**The gates of the E%ecutor will open in 5 seconds!**"
-    {
-        "chi"        "**执行者的大门将在5秒后打开**"
-    }
-    "**The gates of the E%ecutor are open! RETREAT!!!**"
-    {
-        "chi"        "**执行者的大门打开了，快撤**"
-    }
-    "**Prepare for battle!**"
-    {
-        "chi"        "**准备和执行者战斗！**"
-    }
-    "**Drop and pick up your item to make them work again**"
-    {
-        "chi"        "**丢弃并重新拾取你们的神器，让他们重新工作起来**"
-        "ico"        "icon_fire"
-    }
-    "**GET BACK!**"
-    {
-        "chi"        "**后退**"
-    }
-    "**IF YOU DONT STAY IN THE MIDDLE YOUR DEAD**"
-    {
-        "chi"        "**如果你不站在中间，你就会死**"
-        "ico"        "icon_fire"
-    }
-    "**GO FORWARD!**"
-    {
-        "chi"        "**往前走**"
-        "ico"        "icon_fire"
-    }
-    "**EVADE THE FIRE**"
-    {
-        "chi"        "**躲开火焰**"
-        "ico"        "icon_fire"
-    }
-    ">>>Cura bubble has been picked up!<<<"
-    {
-        "chi"        "**一位玩家拾取了神器：奶**"
-    }
-    "**Well done you defeated the E%ecutor!**"
-    {
-        "chi"        "**干得好，我们击败了E检察官**"
-    }
-    "**THE MINES ARE COLLAPSING YOU GOT 50 SECONDS TO ESCAPE**"
-    {
-        "chi"        "**炸弹已经安放，我们50秒的时间逃离这里**"
-        "DoorCountDown"        "50"
-    }
-    "**All wurzel str?ubers have been used!**"
-    {
-        "chi"        "**所有的雕塑已经被使用**"
-    }
-    "**30 SECONDS LEFT!**"
-    {
-        "chi"        "**还有30秒**"
-    }
-    "**THE ZOMBIES ARE NOT ALLOWED TO REACH OUTSIDE**"
-    {
-        "chi"        "**不能让僵尸到达外面**"
-    }
-    "**20 seconds left**"
-    {
-        "chi"        "**还有20秒**"
-    }
-    "**10 SECONDS LEFT!!!!!***"
-    {
-        "chi"        "**最后10秒**"
-    }
-    "**CONGRATULATION YOU BEAT THE THIRD STAGE!!***"
-    {
-        "chi"        "**恭喜你完成了第三关**"
-    }
-    "**Map by jenz**"
-    {
-        "chi"        "**地图制作：jenz 地图翻译：银月筱瑶**"
-    }
-    "**Moving to stage four**"
-    {
-        "chi"        "**正在前往第四关**"
-    }
-    "**Credits to Biohazard for a statue model**"
-    {
-        "chi"        "** **"
-    }
-    "**The path will be cleared in 55 seconds**"
-    {
-        "chi"        "**道路将在55秒后被清理**"
-        "DoorCountDown"        "55"
-    }
-    "**The path will be cleared in 35 seconds**"
-    {
-        "chi"        "**道路将在35秒后被清理**"
-    }
-    "**5 SECONDS LEFT**"
-    {
-        "chi"        "**还剩下5秒**"
-    }
-    "**The path will be cleared in 13 seconds**"
-    {
-        "chi"        "**道路将在13秒后被清理**"
-        "DoorCountDown"        "13"
-    }
-    "**Defend the top of the temple for 40 seconds!**"
-    {
-        "chi"        "**坚守神庙顶端40秒**"
-        "DoorCountDown"        "40"
-    }
-    "**20 seconds left!**"
-    {
-        "chi"        "**还有20秒**"
-    }
-    "**HOLD 20 SECONDS**"
-    {
-        "chi"        "**守住这里20秒**"
-        "DoorCountDown"        "20"
-    }
-    "**ONE HUMAN MUST HEAD UPWARDS TO TRIGGER THE LEVER FOR UNLOCKING THE GATE**"
-    {
-        "chi"        "**必须要有一个人往上爬，把开关触发来打开大门**"
-    }
-    "**WELL DONE YOU PRESSED THE LEVER!**"
-    {
-        "chi"        "*开关被触发了**"
-    }
-    "**THE GATE OPENS IN 5 SECONDS**"
-    {
-        "chi"        "**5秒后打开大门**"
-    }
-    "**MAKE YOUR RUN YOUR SO CLOSE TO THE END!**"
-    {
-        "chi"        "**保持奔跑，你现在离终点很近了**"
-    }
-    "**WATCH YOUR BACK! THE T-REX RETURNED! SHOOT IT!!!**"
-    {
-        "chi"        "**看你们后面！那TM是霸王龙！快TM开枪！！！**"
-    }
-    "**THE E%ECUTOR RETURNED!! SHOOT HIM!!!**"
-    {
-        "chi"        "**前面！执行者，开枪打他！**"
-    }
-    "**IF YOU STILL GOT THE CRYSTAL DROP IT ON THE BRIGDE TO RECIEVE UNLIMMITED AMMO**"
-    {
-        "chi"        "**如果我们仍然持有水晶，快把它丢在桥上来获取无限子弹**"
-    }
-    "**HOLY CHRIST YOU BEAT THE LAST LEVEL**"
-    {
-        "chi"        "**卧槽你TM的居然打通了最后一关**"
-    }
-    "**RESETTING TO STAGE 1**"
-    {
-        "chi"        "**世界将会回到第一关**"
-    }
-    "**If you still got the crystal drop it inside the safe zone to recieve unlimmit ammo!**"
-    {
-        "chi"        "**如果我们仍然持有水晶，快把它丢在安全区域来获取无限子弹**"
-    }
-    "**ZOMBIES ENTERED THE SAFEZONE"
-    {
-        "chi"        "**僵尸进入了安全室**"
-    }
-    "**ADMIN SWITCHING TO STAGE 4**"
-    {
-        "chi"        "** **"
-    }
-    "** TREX HAS BEEN PICKED UP! **"
-    {
-        "chi"        "** **"
-    }
-    "[NORMAL MODE]"
-    {
-        "chi"        "** **"
-    }
-    "The server is about to close the update ,Please update your game"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Taskuvaras***"
-    {
-        "chi"        "** **"
-    }
-    "***Human door opening in 15s***"
-    {
-        "chi"        "** **"
-    }
-    "**map by koyomaple**"
-    {
-        "chi"        "** **"
-    }
-    "** re shen 50 miao **"
-    {
-        "chi"        "** **"
-    }
-    "** Welcome to the mystical island of Kraznov Poopata **"
-    {
-        "chi"        "** **"
-    }
-    "*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
-    {
-        "chi"        "** **"
-    }
-    "***Map ported by ??????***"
-    {
-        "chi"        "** **"
-    }
-    "*** CURRENT MODE: EASY ***"
-    {
-        "chi"        "** **"
-    }
-    "*** MAP MADE BY KAGALERA***"
-    {
-        "chi"        "** **"
-    }
+	"**It?s strongly recommended to not play this map with below DX9**"
+	{
+		"chi"		"**强烈推荐不要在DX9以下版本玩这个地图**"
+	}
+	"**Rocks breaking in 25 seconds!**"
+	{
+		"chi"		"**石头将在25秒后碎裂**"
+		"DoorCountDown"		"25"
+	}
+	"**Rocks breaking in 10 seconds!**"
+	{
+		"chi"		"**石头将在10秒后碎裂**"
+	}
+	"**Rocks break in 5 seconds!**"
+	{
+		"chi"		"**石头将在5秒后碎裂**"
+	}
+	"**Map Created by jenz**"
+	{
+		"chi"		"**地图制作：jenz  地图翻译：银月筱瑶**"
+	}
+	">>Electro has been picked up<<"
+	{
+		"chi"		"**一位玩家拾取了神器：电（较高伤害，没有减速）**"
+	}
+	">>Ice has been picked up<<"
+	{
+		"chi"		"**一位玩家拾取了神器：冰（极高减速）**"
+	}
+	"**Defend for 45 seconds!**"
+	{
+		"chi"		"**防守这里45秒！**"
+		"DoorCountDown"		"45"
+	}
+	"**25 seconds are left**"
+	{
+		"chi"		"**还有25秒**"
+	}
+	"**5 seconds are left**"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"**You can fall back now**"
+	{
+		"chi"		"**现在可以撤退了**"
+	}
+	">>Wurzel push has been picked up<<"
+	{
+		"chi"		"**一位玩家拾取了神器：风（直线吹风）**"
+	}
+	"**The path will be free in 30 seconds**"
+	{
+		"chi"		"**道路将在30秒后被清理出来**"
+	}
+	">>Good job you collected the crystal!<<"
+	{
+		"chi"		"**干得漂亮，你找到了水晶**"
+	}
+	"**The path will be free in 15 seconds**"
+	{
+		"chi"		"**道路将在15秒后被清理出来**"
+		"DoorCountDown"		"15"
+	}
+	"**5 SECONDS ARE LEFT!**"
+	{
+		"chi"		"**还剩下5秒**"
+	}
+	"**RETREAT!!**"
+	{
+		"chi"		"**快跑！**"
+	}
+	"**You must find the secret lever**"
+	{
+		"chi"		"**我们必须找到隐藏的开关（水下的木桩）**"
+	}
+	"**Well done you found the lever!**"
+	{
+		"chi"		"**干得漂亮，开关已经按下**"
+	}
+	"**Defend for 15 seconds!**"
+	{
+		"chi"		"**坚守这里15秒**"
+		"DoorCountDown"		"15"
+	}
+	"**Defend 5 seconds!**"
+	{
+		"chi"		"**坚守5秒**"
+	}
+	"**Fall back!**"
+	{
+		"chi"		"**快跑**"
+	}
+	"**Survive for 35 seconds**"
+	{
+		"chi"		"**想办法生存25秒**"
+	}
+	"**Drop and pick up the items again!**"
+	{
+		"chi"		"**重新丢弃然后捡起你的神器**"
+		"ico"		"icon_fire"
+	}
+	"**The boat will leave in 30 seconds!**"
+	{
+		"chi"		"**船将在30秒后离开**"
+		"DoorCountDown"		"30"
+	}
+	"**If you still got the crystal throw it into the boat**"
+	{
+		"chi"		"**如果我们仍然持有水晶，就赶紧把它丢到船上**"
+		"ico"		"icon_fire"
+	}
+	"**20 seconds are left!**"
+	{
+		"chi"		"**还有20秒**"
+	}
+	"**Well done you secured the crystal**"
+	{
+		"chi"		"**我们保护好了水晶**"
+	}
+	"**Keep firing with unlimmit ammo**"
+	{
+		"chi"		"**保持火力，现在我们拥有无限的弹药**"
+	}
+	"**10 seconds are left!**"
+	{
+		"chi"		"**还剩下10秒**"
+	}
+	">>CONGRATULATION YOU WON THE FIRST STAGE<<"
+	{
+		"chi"		"**恭喜你完成了第一关**"
+	}
+	"**Defend the spawn areas! The trees too clustered**"
+	{
+		"chi"		"**防守出生点！这些树太多了**"
+	}
+	"**The path will be cleared in 35 seconds!**"
+	{
+		"chi"		"**道路将在35秒后清理出来**"
+		"DoorCountDown"		"35"
+	}
+	"**The path will be cleared in 20 seconds!**"
+	{
+		"chi"		"**道路将在20秒后清理出来**"
+	}
+	"**The path will be cleared in 10 seconds!**"
+	{
+		"chi"		"**道路将在10秒后清理出来**"
+	}
+	"**The path is free!**"
+	{
+		"chi"		"**道路清理掉了**"
+	}
+	"**Defend 10 seconds!**"
+	{
+		"chi"		"**坚守10秒**"
+	}
+	"**The path is free now!**"
+	{
+		"chi"		"**道路清理掉啦**"
+	}
+	"**One ct must head down and press the button!**"
+	{
+		"chi"		"**需要一个身法好的老司机走下面按开关**"
+	}
+	"**You pressed the button! The rocks will be removed in 20 seconds!**"
+	{
+		"chi"		"**开关按了，石头将在20秒后被移开**"
+		"DoorCountDown"		"20"
+	}
+	"**10 seconds are left**"
+	{
+		"chi"		"**还有10秒**"
+	}
+	"**5 seconds!**"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"**The path is clear!**"
+	{
+		"chi"		"**道路已被清理**"
+	}
+	"**The path will be free in 30 seconds!**"
+	{
+		"chi"		"**道路将在30秒后被清理掉**"
+		"DoorCountDown"		"30"
+	}
+	"**Hold for 20 seconds!**"
+	{
+		"chi"		"**坚持20秒**"
+	}
+	"**Hold for 10 seconds!**"
+	{
+		"chi"		"**再坚持10秒**"
+	}
+	"**Fall back**"
+	{
+		"chi"		"**可以跑啦**"
+	}
+	"**Be carefull with which bridge you choose to cross*"
+	{
+		"chi"		"**小心点，选择一条桥走**"
+	}
+	"**Defend 30 seconds**"
+	{
+		"chi"		"**坚守30秒**"
+		"DoorCountDown"		"30"
+	}
+	"**Defend 20 seconds!**"
+	{
+		"chi"		"**坚守20秒**"
+	}
+	"**The lift will arive soon!*"
+	{
+		"chi"		"**电梯很快就离开了**"
+	}
+	"**The lift is leaving!!*"
+	{
+		"chi"		"**电梯走啦**"
+	}
+	"**The brigde part will arive soon**"
+	{
+		"chi"		"**桥面很快就会下降下来**"
+	}
+	"**Keep holding!**"
+	{
+		"chi"		"**继续防守**"
+	}
+	"**Hold here for 15 seconds!**"
+	{
+		"chi"		"**守住这里15秒**"
+		"DoorCountDown"		"15"
+	}
+	"**5 seconds left!**"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"**Your so close to the end but yet so far away...**"
+	{
+		"chi"		"**我们现在很接近终点了，但仍然显得那么远**"
+	}
+	"**If you still got the crystal drop it here to recieve unlimmit ammo!**"
+	{
+		"chi"		"**如果我们仍然持有水晶，就把它丢在这里获取无限的弹药支援**"
+		"ico"		"icon_fire"
+	}
+	"**Perharps if you defend with patience for 45 seconds some deus ex machina will happen**"
+	{
+		"chi"		"**也许我们再守45秒，会发生一些能解围的事情**"
+		"DoorCountDown"		"45"
+	}
+	"** KEEP IT UP! 30 SECONDS LEFT!**"
+	{
+		"chi"		"**坚持住，再守30秒**"
+	}
+	"**THE LAST 15 SECONDS!**"
+	{
+		"chi"		"**还有15秒**"
+	}
+	"**10 SECONDS!!!!***"
+	{
+		"chi"		"**还有10秒！！**"
+	}
+	"**VOODOO MAGIC GRANTS YOU THE ABILITY TO LEVITATE ACROSS THE GAP! RUN! RUN TO SAFETY OF THE MOMENT!!**"
+	{
+		"chi"		"**一个巫毒魔法让我们变得身轻如燕，快跑到安全的地方！**"
+	}
+	"**Well done you beat the second level!**"
+	{
+		"chi"		"**干得漂亮，你完成了第二关**"
+	}
+	"**Thanks for playing! Map by jenz**"
+	{
+		"chi"		"**谢谢游玩，地图制作：jenz 地图翻译：银月筱瑶**"
+	}
+	"**Moving to stage 3**"
+	{
+		"chi"		"**正在前往第三关**"
+	}
+	"**Gate opening in 20 seconds**"
+	{
+		"chi"		"**大门将在20秒后打开**"
+		"DoorCountDown"		"20"
+	}
+	"**Gate opening in 5 seconds**"
+	{
+		"chi"		"**大门将在5秒后打开**"
+	}
+	"**Turn the lights on!**"
+	{
+		"chi"		"**这里太暗了，快去开灯**"
+	}
+	"**Lights turning on!**"
+	{
+		"chi"		"**灯光开启**"
+	}
+	"**Trigger the lever to open the door!**"
+	{
+		"chi"		"**找到开关去开门**"
+	}
+	"**Good job you pressed the lever! The door will open in 30 seconds!**"
+	{
+		"chi"		"**好的，开关已经按下了，大门30秒后打开！**"
+		"DoorCountDown"		"30"
+	}
+	"**15 SECONDS LEFT!**"
+	{
+		"chi"		"**还有15秒**"
+	}
+	"**Hold 20 seconds!**"
+	{
+		"chi"		"**守住20秒**"
+		"DoorCountDown"		"20"
+	}
+	"**Hold 10 seconds!**"
+	{
+		"chi"		"**还有10秒**"
+	}
+	"**beware! Ahead lies great dangers of mysteries unknown...**"
+	{
+		"chi"		"**小心！前面有很多隐藏的危险……**"
+	}
+	">>Wurzel sculpture has been picked up<<"
+	{
+		"chi"		"**一位玩家拾取了神器：雕塑（很小的障碍物墙）**"
+	}
+	"**The gates of the E%ecutor will open in 40 seconds!**"
+	{
+		"chi"		"**执行者的大门将在40秒后打开**"
+		"DoorCountDown"		"40"
+	}
+	"**The gates of the E%ecutor will open in 25 seconds!!**"
+	{
+		"chi"		"**执行者的大门将在25秒后打开**"
+	}
+	"**The gates of the E%ecutor will open in 15 seconds!**"
+	{
+		"chi"		"**执行者的大门将在15秒后打开**"
+	}
+	"**The gates of the E%ecutor will open in 5 seconds!**"
+	{
+		"chi"		"**执行者的大门将在5秒后打开**"
+	}
+	"**The gates of the E%ecutor are open! RETREAT!!!**"
+	{
+		"chi"		"**执行者的大门打开了，快撤**"
+	}
+	"**Prepare for battle!**"
+	{
+		"chi"		"**准备和执行者战斗！**"
+	}
+	"**Drop and pick up your item to make them work again**"
+	{
+		"chi"		"**丢弃并重新拾取你们的神器，让他们重新工作起来**"
+		"ico"		"icon_fire"
+	}
+	"**GET BACK!**"
+	{
+		"chi"		"**后退**"
+	}
+	"**IF YOU DONT STAY IN THE MIDDLE YOUR DEAD**"
+	{
+		"chi"		"**如果你不站在中间，你就会死**"
+		"ico"		"icon_fire"
+	}
+	"**GO FORWARD!**"
+	{
+		"chi"		"**往前走**"
+		"ico"		"icon_fire"
+	}
+	"**EVADE THE FIRE**"
+	{
+		"chi"		"**躲开火焰**"
+		"ico"		"icon_fire"
+	}
+	">>>Cura bubble has been picked up!<<<"
+	{
+		"chi"		"**一位玩家拾取了神器：奶**"
+	}
+	"**Well done you defeated the E%ecutor!**"
+	{
+		"chi"		"**干得好，我们击败了E检察官**"
+	}
+	"**THE MINES ARE COLLAPSING YOU GOT 50 SECONDS TO ESCAPE**"
+	{
+		"chi"		"**炸弹已经安放，我们50秒的时间逃离这里**"
+		"DoorCountDown"		"50"
+	}
+	"**All wurzel str?ubers have been used!**"
+	{
+		"chi"		"**所有的雕塑已经被使用**"
+	}
+	"**30 SECONDS LEFT!**"
+	{
+		"chi"		"**还有30秒**"
+	}
+	"**THE ZOMBIES ARE NOT ALLOWED TO REACH OUTSIDE**"
+	{
+		"chi"		"**不能让僵尸到达外面**"
+	}
+	"**20 seconds left**"
+	{
+		"chi"		"**还有20秒**"
+	}
+	"**10 SECONDS LEFT!!!!!***"
+	{
+		"chi"		"**最后10秒**"
+	}
+	"**CONGRATULATION YOU BEAT THE THIRD STAGE!!***"
+	{
+		"chi"		"**恭喜你完成了第三关**"
+	}
+	"**Map by jenz**"
+	{
+		"chi"		"**地图制作：jenz 地图翻译：银月筱瑶**"
+	}
+	"**Moving to stage four**"
+	{
+		"chi"		"**正在前往第四关**"
+	}
+	"**Credits to Biohazard for a statue model**"
+	{
+		"chi"		"** **"
+	}
+	"**The path will be cleared in 55 seconds**"
+	{
+		"chi"		"**道路将在55秒后被清理**"
+		"DoorCountDown"		"55"
+	}
+	"**The path will be cleared in 35 seconds**"
+	{
+		"chi"		"**道路将在35秒后被清理**"
+	}
+	"**5 SECONDS LEFT**"
+	{
+		"chi"		"**还剩下5秒**"
+	}
+	"**The path will be cleared in 13 seconds**"
+	{
+		"chi"		"**道路将在13秒后被清理**"
+		"DoorCountDown"		"13"
+	}
+	"**Defend the top of the temple for 40 seconds!**"
+	{
+		"chi"		"**坚守神庙顶端40秒**"
+		"DoorCountDown"		"40"
+	}
+	"**20 seconds left!**"
+	{
+		"chi"		"**还有20秒**"
+	}
+	"**HOLD 20 SECONDS**"
+	{
+		"chi"		"**守住这里20秒**"
+		"DoorCountDown"		"20"
+	}
+	"**ONE HUMAN MUST HEAD UPWARDS TO TRIGGER THE LEVER FOR UNLOCKING THE GATE**"
+	{
+		"chi"		"**必须要有一个人往上爬，把开关触发来打开大门**"
+	}
+	"**WELL DONE YOU PRESSED THE LEVER!**"
+	{
+		"chi"		"*开关被触发了**"
+	}
+	"**THE GATE OPENS IN 5 SECONDS**"
+	{
+		"chi"		"**5秒后打开大门**"
+	}
+	"**MAKE YOUR RUN YOUR SO CLOSE TO THE END!**"
+	{
+		"chi"		"**保持奔跑，你现在离终点很近了**"
+	}
+	"**WATCH YOUR BACK! THE T-REX RETURNED! SHOOT IT!!!**"
+	{
+		"chi"		"**看你们后面！那TM是霸王龙！快TM开枪！！！**"
+	}
+	"**THE E%ECUTOR RETURNED!! SHOOT HIM!!!**"
+	{
+		"chi"		"**前面！执行者，开枪打他！**"
+	}
+	"**IF YOU STILL GOT THE CRYSTAL DROP IT ON THE BRIGDE TO RECIEVE UNLIMMITED AMMO**"
+	{
+		"chi"		"**如果我们仍然持有水晶，快把它丢在桥上来获取无限子弹**"
+	}
+	"**HOLY CHRIST YOU BEAT THE LAST LEVEL**"
+	{
+		"chi"		"**卧槽你TM的居然打通了最后一关**"
+	}
+	"**RESETTING TO STAGE 1**"
+	{
+		"chi"		"**世界将会回到第一关**"
+	}
+	"**If you still got the crystal drop it inside the safe zone to recieve unlimmit ammo!**"
+	{
+		"chi"		"**如果我们仍然持有水晶，快把它丢在安全区域来获取无限子弹**"
+	}
+	"**ZOMBIES ENTERED THE SAFEZONE"
+	{
+		"chi"		"**僵尸进入了安全室**"
+	}
+	"**ADMIN SWITCHING TO STAGE 4**"
+	{
+		"chi"		"** **"
+	}
+	"** TREX HAS BEEN PICKED UP! **"
+	{
+		"chi"		"** **"
+	}
+	"[NORMAL MODE]"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Taskuvaras***"
+	{
+		"chi"		"** **"
+	}
+	"***Human door opening in 15s***"
+	{
+		"chi"		"** **"
+	}
+	"**map by koyomaple**"
+	{
+		"chi"		"** **"
+	}
+	"** re shen 50 miao **"
+	{
+		"chi"		"** **"
+	}
+	"** Welcome to the mystical island of Kraznov Poopata **"
+	{
+		"chi"		"** **"
+	}
+	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
+	{
+		"chi"		"** **"
+	}
+	"***Map ported by ??????***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT MODE: EASY ***"
+	{
+		"chi"		"** **"
+	}
+	"*** MAP MADE BY KAGALERA***"
+	{
+		"chi"		"** **"
+	}
 }

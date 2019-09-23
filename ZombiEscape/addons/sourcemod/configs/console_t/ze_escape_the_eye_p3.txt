@@ -2,140 +2,126 @@
 {
 	"+++ FIXED BY CISNEROS +++"
 	{
-		"chi"		"**修正了CISNEROS **"
+		"chi"		"** **"
 	}
 	"+++  MAP MADE BY GARGANTUA +++"
 	{
-		"chi"		"**地图制作：BY GARGANTUA 地图翻译：蓬莱山帅比♪**"
+		"chi"		"** **"
 	}
 	"+++ THE DOOR IS OPENING IN 45 SECONDS+++"
 	{
-		"chi"		"**门将在45秒后打开 **"
+		"chi"		"** **"
 	}
 	"+++ RESIST IN THIS ZONE +++"
 	{
-		"chi"		"**在这个位置守住 **"
+		"chi"		"** **"
 	}
 	"+++ THE DOOR IS OPENING IN 25 SECONDS +++"
 	{
-		"chi"		"**门将在25秒后打开 **"
+		"chi"		"** **"
 	}
 	"+++ THE DOOR IS OPENING IN 5 SECONDS +++"
 	{
-		"chi"		"**门将在5秒后打开 **"
+		"chi"		"** **"
 	}
 	"+++ THE DOOR IS OPEN +++"
 	{
-		"chi"		"**门开了 **"
+		"chi"		"** **"
 	}
 	"+++ THE FIRST WALL IS BREAKING IN 15 SECONDS +++"
 	{
-		"chi"		"**第一面墙在15秒后破碎 **"
+		"chi"		"** **"
 	}
 	"+++ THE FIRST WALL IS BROKEN +++"
 	{
-		"chi"		"**第一面墙已破碎 **"
+		"chi"		"** **"
 	}
 	"+++ THE ELEVATOR IS LEAVING IN 10 SECONDS +++"
 	{
-		"chi"		"**电梯10秒后离开 **"
+		"chi"		"** **"
 	}
 	"+++ THE DOOR IS OPENING IN 100 SECONDS  +++"
 	{
-		"chi"		"**门将在100秒后打开 **"
+		"chi"		"** **"
 	}
 	"+++ PREPARE YOUR DEFENSE AND DEFEND AT THIS ZONE +++"
 	{
-		"chi"		"**准备好!守住这个区域! **"
+		"chi"		"** **"
 	}
 	"+++ THE DOOR IS OPENING IN 10 SECONDS  +++"
 	{
-		"chi"		"**门在10秒后打开 **"
+		"chi"		"** **"
 	}
 	"+++ ZOMBIES ARE UNLEASHED IN 17 SECONDS +++"
 	{
-		"chi"		"**僵尸在17秒后释放 **"
-		"DoorCountdown"		"17"
-	}
-	"+++ THE WALL IS BREAKING IN 35 SECONDS +++"
-	{
-		"chi"		"**墙在35秒后破碎 **"
-	}
-	"+++ THE WALL IS BROKEN +++"
-	{
-		"chi"		"**墙已破碎 **"
-	}
-	"++ ACTIVATE THE EYE ++"
-	{
-		"chi"		"**激活EYE **"
+		"chi"		"** **"
 	}
 	"+++ THE DOOR IS OPENING IN 35 SECONDS +++"
 	{
-		"chi"		"**门将在30秒后打开(门开后五秒关闭)**"
+		"chi"		"** **"
+	}
+	"++ ACTIVATE THE EYE ++"
+	{
+		"chi"		"** **"
 	}
 	"++ ESCAPE DOOR OPENING IN 50 SECONDS ++"
 	{
-		"chi"		"**逃生门将在50秒后打开 **"
-	}
-	"++ ESCAPE DOOR OPENING IN 30 SECONDS ++"
-	{
-		"chi"		"**逃生门将在30秒后打开 **"
-	}
-	"++ ESCAPE DOOR OPENING WITHIN 10 SECONDS ++"
-	{
-		"chi"		"**逃生门将在10秒后打开 **"
-	}
-	"++ ESCAPE DOOR IS OPEN!! ++"
-	{
-		"chi"		"**逃生门已经开了! ! **"
-	}
-	"++ ESCAPE DOORS CLOSING!! ++"
-	{
-		"chi"		"**逃生门关闭！！ **"
-	}
-	"++ LIGHTBRIDGE ACTIVATES IN 20 SECONDS ++"
-	{
-		"chi"		"**光桥在20秒后激活 **"
-		"DoorCountdown"		"-1"
-	}
-	"++ LIGHTBRIDGE ACTIVATED ++"
-	{
-		"chi"		"**光桥已激活 **"
-	}
-	"++ TELEPORT LIFT LEAVING IN 5 SECONDS ++"
-	{
-		"chi"		"**电梯将在5秒后离开 **"
-		"DoorCountdown"		"-1"
-	}
-	"++ LIGHTBRIDGE DEACTIVATED ++"
-	{
-		"chi"		"**光桥已关闭 **"
+		"chi"		"** **"
 	}
 	"+++ PUSHGUN HAS BEEN TAKEN. PRESS E TO USE. +++"
 	{
-		"chi"		"**推力已拿起.按E使用. **"
+		"chi"		"** **"
 	}
 	"+++ 60 SECONDS OF COOLDOWN. +++"
 	{
-		"chi"		"**它有60秒的冷却时间. **"
-		"DoorCountdown"		"-1"
-	}
-	"++ FLAMETHROWER HAS BEEN PICKED. PRESS E TO USE ++"
-	{
-		"chi"		"**喷火器已拿起.按E使用. **"
-	}
-	"++ FUEL FOR 10 SECONDS ++"
-	{
-		"chi"		"**它有10秒钟的燃料 **"
-		"DoorCountdown"		"-1"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"2256"
+		"chi"		"** **"
 	}
 	"++ LIGHTBRIDGE ACTIVATES IN 15 SECONDS ++"
 	{
-		"chi"		"**光桥将在15秒后激活**"
-		"DoorCountdown"		"-1"
+		"chi"		"** **"
+	}
+	"++ LIGHTBRIDGE ACTIVATED ++"
+	{
+		"chi"		"** **"
+	}
+	"++ TELEPORT LIFT LEAVING IN 5 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ FLAMETHROWER HAS BEEN PICKED. PRESS E TO USE ++"
+	{
+		"chi"		"** **"
+	}
+	"++ FUEL FOR 10 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE DOOR OPENING IN 30 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ LIGHTBRIDGE DEACTIVATED ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE DOOR OPENING WITHIN 10 SECONDS ++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE DOOR IS OPEN!! ++"
+	{
+		"chi"		"** **"
+	}
+	"+++ THE WALL IS BREAKING IN 35 SECONDS +++"
+	{
+		"chi"		"** **"
+	}
+	"+++ THE WALL IS BROKEN +++"
+	{
+		"chi"		"** **"
+	}
+	"++ ESCAPE DOORS CLOSING!! ++"
+	{
+		"chi"		"** **"
 	}
 }

@@ -2,95 +2,82 @@
 {
 	"Map By: Bill Smauz"
 	{
-		"chi"		"**地图制作 by Bill Smauz 地图翻译 by 色狼领袖**"
+		"chi"		"** **"
 	}
 	"Map For: www.zombiemurder.com"
 	{
-		"chi"		"**地图网站：www.zombiemurder.com**"
+		"chi"		"** **"
 	}
 	"*** Tram Starts in 10 Seconds ***"
 	{
-		"chi"		"**缆车 10 秒后启动！**注意防守僵尸！**"
-                "DoorCountdown"		"10"
+		"chi"		"** **"
 	}
 	"*** Tram Starts in 5 Seconds ***"
 	{
-		"chi"		"**缆车 5 秒后启动！**注意不要贴着缆车的边缘，否则会与缆车融为一体！**"
+		"chi"		"** **"
 	}
 	"*** Bridge Activated ***"
 	{
-		"chi"		"**激活桥**"
-	}
-	"*** Airlock Closing in 5 Seconds ***"
-	{
-		"chi"		"**铁门于 5 秒后关闭。**"
-	}
-	"*** Rocket Lab's Door Opens in 20 Seconds ***"
-	{
-		"chi"		"**火箭实验室的门将于 20 秒后开启！**"
-		"DoorCountdown"		"20"
-	}
-	"*** Rocket Lab's Door Opens in 10 Seconds ***"
-	{
-		"chi"		"**火箭实验室的门将于 10 秒后开启！**"
-	}
-	"*** Lift is leaving in 10 seconds ***"
-	{
-		"chi"		"**电梯将在 10 秒后离开！**"
-                "DoorCountdown"		"10"
-	}
-	"*** WARNING Rocket detonation in 2 Minutes ***"
-	{
-		"chi"		"**警告：2 分钟后火箭爆炸！**"
-	}
-	"*** ERROR Rocket cannot leave platform ***"
-	{
-		"chi"		"**火箭卡壳了！无法从平台发射！**火箭即是导弹**"
-	}
-	"*** ATTENTION Silo Doors Open in 1 Minute ***"
-	{
-		"chi"		"**注意：舱门将于 1 分钟后打开！**"
-	}
-	"*** Helicopter Departing in 30 Seconds ***"
-	{
-		"chi"		"**直升机将在 30 秒后起飞**"
-                "DoorCountdown"		"30"
-	}
-	"*** Helicopter Departing in 10 Seconds ***"
-	{
-		"chi"		"**直升机将在 10 秒后起飞**"
-	}
-	"*** Helicopter Departing in 5 Seconds ***"
-	{
-		"chi"		"**直升机将在 5 秒后起飞**"
-	}
-	"*** Helicopter is Departing ***"
-	{
-		"chi"		"**直升机正在离去！**"
-	}
-	"*** Warning Rocket detonation in 30 Seconds ***"
-	{
-		"chi"		"**警告：火箭将在 30 秒后原地爆炸！**"
+		"chi"		"** **"
 	}
 	"*** Airlock Opens in 5 Seconds ***"
 	{
-		"chi"		"**闸门将在 5 秒后打开**"
+		"chi"		"** **"
 	}
-	"*** Rocket Labs Door Opens in 20 Seconds ***"
+	"*** Airlock Closing in 5 Seconds ***"
 	{
-		"chi"		"**火箭实验室的门将于 20 秒后开启！**"
-                "DoorCountdown"		"20"
+		"chi"		"** **"
 	}
-	"*** Rocket Labs Door Opens in 10 Seconds ***"
+	"*** Rocket Lab's Door Opens in 20 Seconds ***"
 	{
-		"chi"		"**火箭实验室的门将于 10 秒后开启！**"
+		"chi"		"** **"
 	}
-	"*** Cafeteria Doors Open in 15 Seconds ***"
+	"*** Rocket Lab's Door Opens in 10 Seconds ***"
 	{
-		"chi"		"**餐厅小门将在 15秒后开启**"
+		"chi"		"** **"
 	}
 	"*** Security Door Closes in 5 Seconds ***"
 	{
-		"chi"		"**安全门将于 5 秒后关闭**妈妈再也不用担心我走密道被爆菊了**"
+		"chi"		"** **"
+	}
+	"*** Lift is leaving in 10 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARNING Rocket detonation in 2 Minutes ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ERROR Rocket cannot leave platform ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ATTENTION Silo Doors Open in 1 Minute ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Helicopter Departing in 30 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Helicopter Departing in 10 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Cafeteria Doors Open in 15 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Helicopter Departing in 5 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Helicopter is Departing ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Warning Rocket detonation in 30 Seconds ***"
+	{
+		"chi"		"** **"
 	}
 }

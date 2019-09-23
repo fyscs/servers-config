@@ -1,0 +1,85 @@
+"Console_T"
+{
+	"Map by user1.1"
+	{
+		"chi"		"**地图制作：user1.1 地图翻译：蓬莱山帅比♪ **"
+	}
+	"Objectif !"
+	{
+		"chi"		"**目标 **"
+	}
+	"Find your way and reach the surface !!"
+	{
+		"chi"		"**找到去往地面的路 **"
+	}
+	"Elevator will start in 25 seconds !!"
+	{
+		"chi"		"**电梯25秒后启动 **"
+		"DoorCountDown" "25"
+	}
+	"Elevator will start in 5 seconds !"
+	{
+		"chi"		"**电梯5秒后启动 **"
+	}
+	"Door will open in 35 seconds !!"
+	{
+		"chi"		"**大门35秒后打开 **"
+		"DoorCountDown" "35"
+	}
+	"Door will open in 10 seconds !!"
+	{
+		"chi"		"**大门10秒后打开 **"
+	}
+	"Door will open in 15 seconds !"
+	{
+		"chi"		"**大门15秒后打开 **"
+	}
+	"Door will open in 5 seconds !!"
+	{
+		"chi"		"**大门5秒后打开 **"
+	}
+	"Elevator will start in 45 seconds !!"
+	{
+		"chi"		"**电梯45秒后启动 **"
+		"DoorCountDown" "45"
+	}
+	"Elevator will start in 15 seconds !"
+	{
+		"chi"		"**电梯15秒后启动 **"
+	}
+	"Door will open in 25 seconds !"
+	{
+		"chi"		"**大门25秒后打开 **"
+		"DoorCountDown" "25"
+	}
+	"Door will open in 20 seconds !"
+	{
+		"chi"		"**大门20秒后打开 **"
+	}
+	"A path will open in 15 seconds !"
+	{
+		"chi"		"**道路15秒后开启 **"
+	}
+	"Zm will teleport in 5 seconds !!!"
+	{
+		"chi"		"**僵尸5秒后传送 **"
+	}
+	"Train will start in 40 seconds !"
+	{
+		"chi"		"**火车40秒后启动 **"
+		"DoorCountDown" "40"
+	}
+	"Train will start in 10 seconds !!"
+	{
+		"chi"		"**火车10秒后启动 **"
+	}
+	"Elevator will start in 40 seconds !"
+	{
+		"chi"		"**电梯40秒后启动 **"
+		"DoorCountDown" "40"
+	}
+	"Elevator will start in 10 seconds !"
+	{
+		"chi"		"**电梯10秒后启动 **"
+	}
+}

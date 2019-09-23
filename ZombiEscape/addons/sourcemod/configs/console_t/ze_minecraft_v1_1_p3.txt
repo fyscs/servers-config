@@ -1,300 +1,304 @@
 "Console_T"
 {
-    "***MAP BY thegregster101***"
-    {
-        "chi"        "**地图制作 by thegregster101 地图翻译 by 色狼领袖**"
-    }
-    "***YOU ARE PLAYING ze_minecraft_v1_1***"
-    {
-        "chi"        "**你现在正在玩的是ze_minecraft_v1_1 **"
-    }
-    "***STONE DOOR OPENING***"
-    {
-        "chi"        "**石头门开启！**"
-    }
-    "***BOAT LEAVES IN 20 SECONDS***"
-    {
-        "chi"        "**船将在 20 秒后离开。**"
-        "DoorCountDown"        "20"
-    }
-    "***BOAT LEAVES IN 10 SECONDS***"
-    {
-        "chi"        "**船将在 10 秒后离开。**"
-    }
-    "***PATH BLOCKERS BREAK IN 5 SECONDS***"
-    {
-        "chi"        "**空气墙将在 5 秒后消失。**"
-    }
-    "***TNT EXPLODING IN 30 SECONDS***"
-    {
-        "chi"        "**TNT将在 30 秒后爆炸。**"
-        "DoorCountDown"        "30"
-    }
-    "***HOLD THE CAVE!!!!***"
-    {
-        "chi"        "**山洞里很危险！尤其要小心滚石！**"
-    }
-    "***TNT EXPLODING IN 20 SECONDS***"
-    {
-        "chi"        "**TNT将在 20 秒后爆炸。**"
-    }
-    "***TNT EXPLODING IN 10 SECONDS***"
-    {
-        "chi"        "**TNT将在 10 秒后爆炸。**"
-    }
-    "***TNT EXPLODING IN 5 SECONDS***"
-    {
-        "chi"        "**TNT将在 5 秒后爆炸。**"
-    }
-    "***GOGO.. GET TO THE SLIP GATE***"
-    {
-        "chi"        "**GOGO..进入传送门！**"
-    }
-    "***AFK TELE TO CAGE IN 15 SECONDS**"
-    {
-        "chi"        "**挂机的玩家将在 15 秒后关进牢笼**"
-    }
-    "***PUMPKIN HEAD HAS BEEN PICKED UP***"
-    {
-        "chi"        "**南瓜头被捡起来了。**"
-    }
-    "***AFK TELE 2 TELEPORTING IN 20 SECONDS***"
-    {
-        "chi"        "**僵尸等待 20 秒传送**"
-    }
-    "***DOOR OPENING IN 15 SECONDS***"
-    {
-        "chi"        "**大门在 15 秒后开启。**"
-        "DoorCountDown"        "15"
-    }
-    "***DOOR OPENING IN 10 SECONDS***"
-    {
-        "chi"        "**大门在 10 秒后开启。**"
-    }
-    "***DOOR OPENING IN 5 SECONDS***"
-    {
-        "chi"        "**大门在 5 秒后开启。**"
-    }
-    "***DOOR OPEN... RUN!!***"
-    {
-        "chi"        "**门开了！撤！撤退！！**"
-    }
-    "***DEFEND THE CASTLE DOORS***"
-    {
-        "chi"        "**守住城门！不要让僵尸靠近！**"
-    }
-    "***GO GO.. GET TO THE MINE!***"
-    {
-        "chi"        "**GO GO ..下矿坑！**"
-    }
-    "***TROLL FACE HAS BEEN PICKED UP***"
-    {
-        "chi"        "**吸引仇恨的头被捡起来了。**开启嘲讽模式**"
-    }
-    "***YOU BE TROLL'IN***"
-    {
-        "chi"        "**你正在吸引仇恨**"
-    }
-    "***DEFEND FOR 35 SECONDS***"
-    {
-        "chi"        "**防守 35 秒直至矿车抵达。**"
-        "DoorCountDown"        "35"
-    }
-    "***MINE CARTS ARRIVE IN 30 SECONDS***"
-    {
-        "chi"        "**矿车将在 30 秒后抵达。**"
-    }
-    "***MINE CARTS ARRIVE IN 25 SECONDS***"
-    {
-        "chi"        "**矿车将在 25 秒后抵达。**"
-    }
-    "***MINE CARTS ARRIVE IN 20 SECONDS***"
-    {
-        "chi"        "**矿车将在 20 秒后抵达。**"
-    }
-    "***MINE CARTS ARRIVE IN 15 SECONDS***"
-    {
-        "chi"        "**矿车将在 15 秒后抵达。**"
-    }
-    "***MINE CARTS ARRIVE IN 10 SECONDS***"
-    {
-        "chi"        "**矿车将在 10 秒后抵达。**"
-    }
-    "***MINE CARTS ARRIVE IN 5 SECONDS***"
-    {
-        "chi"        "**矿车将在 5 秒后抵达。**"
-    }
-    "***GET ON TOP OF THE MINE CARTS***"
-    {
-        "chi"        "**该上车了伙计们！快上车！**"
-    }
-    "***BUNKER HAS BEEN REACHED***"
-    {
-        "chi"        "**已经到达防核爆小屋。**"
-    }
-    "***BUNKER DOOR OPENING IN 20 SECONDS***"
-    {
-        "chi"        "**防核爆小屋的门将于 20 秒后开启。**"
-        "DoorCountDown"        "20"
-    }
-    "***DEFEND THE RAILWAY TRACK***"
-    {
-        "chi"        "**守住这条轨道**此处应有诱饵弹**"
-    }
-    "***BUNKER DOOR OPENING IN 15 SECONDS***"
-    {
-        "chi"        "**防核爆小屋的门将于 15 秒后开启。**"
-    }
-    "***BUNKER DOOR OPENING IN 10 SECONDS***"
-    {
-        "chi"        "**防核爆小屋的门将于 10 秒后开启。**"
-    }
-    "***BUNKER DOOR OPENING IN 5 SECONDS***"
-    {
-        "chi"        "**防核爆小屋的门将于 5 秒后开启。**"
-    }
-    "***BUNKER DOOR OPEN!***"
-    {
-        "chi"        "**防核爆小屋的门开了！快进去防守！**"
-    }
-    "***GET INSIDE THE BUNKER***"
-    {
-        "chi"        "**快进去防守！**"
-    }
-    "***BUNKER DOOR CLOSING***"
-    {
-        "chi"        "**屋门关闭。**"
-    }
-    "***NUKE LAUNCHED! ***"
-    {
-        "chi"        "**核武器发射!**"
-    }
-    "***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
-    {
-        "chi"        "**打造钻石剑所需要的材料已收集完毕。**"
-    }
-    "***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT*** "
-    {
-        "chi"        "**使用山洞里TNT旁边的工作台来打造钻石剑**对工作台按 E 操作**"
-    }
-    "***THIS WILL CRAFT THE SWORD*** "
-    {
-        "chi"        "**钻石剑已经被成功打造。**"
-    }
-    "***THE SWORD HAS BEEN PICKED UP***"
-    {
-        "chi"        "**钻石剑被拾起。**击退**"
-    }
-    "***SWORD READY***"
-    {
-        "chi"        "**钻石剑CD恢复完毕。**"
-    }
-    "***CREEPER HEAD HAS BEEN PICKED UP***"
-    {
-        "chi"        "**苦力怕的头被捡起来了。**"
-    }
-    "***THE BOW HAS BEEN PICKED UP***"
-    {
-        "chi"        "**弓箭被拾起。**高伤害**"
-    }
-    "***YOU BE TROLLIN***"
-    {
-        "chi"        "**仇恨不断吸引中**"
-    }
-    "***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND***"
-    {
-        "chi"        "**打造钻石剑所需要的材料已收集完毕。**"
-    }
-    "***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT***"
-    {
-        "chi"        "**使用山洞里TNT旁边的工作台来打造钻石剑**对工作台按 E 操作**"
-    }
-    "***THIS WILL CRAFT THE SWORD***"
-    {
-        "chi"        "**钻石剑已经被成功打造。**"
-    }
-    "***ZOMBIE HAVE BEEN DETECTED IN THE BOAT***"
-    {
-        "chi"        "**检测到木船上存在僵尸**"
-    }
-    "***BOAT SELF DESTRUCT!!***"
-    {
-        "chi"        "**木船自毁装置启动**笑看各位孙杨附体**"
-    }
-    "++ ZE_ITALY_TOWN ++"
-    {
-        "chi"        "** **"
-    }
-    ">>>Respawn wall break in 20 sec<<<"
-    {
-        "chi"        "** **"
-    }
-    "*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
-    {
-        "chi"        "** **"
-    }
-    "*** map created by thas ***"
-    {
-        "chi"        "** **"
-    }
-    "*** CURRENT STAGE IS 1: Overworld ***"
-    {
-        "chi"        "** **"
-    }
-    "*** NY MARATHON: GET READY TO RUN! ***"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Taskuvaras***"
-    {
-        "chi"        "** **"
-    }
-    "***Human door opening in 15s***"
-    {
-        "chi"        "** **"
-    }
-    "*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
-    {
-        "chi"        "** **"
-    }
-    "***Map ported by ??????***"
-    {
-        "chi"        "** **"
-    }
-    "*** CURRENT MODE: EASY ***"
-    {
-        "chi"        "** **"
-    }
-    "For POSSESSION, Respect to Sakura"
-    {
-        "chi"        "** **"
-    }
-    "Based-map by Xquality"
-    {
-        "chi"        "** **"
-    }
-    "** MAP BY SLAYERDRAGON **"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Reflelia***"
-    {
-        "chi"        "** **"
-    }
-    "***Particle Effect by Airvulpes***"
-    {
-        "chi"        "** **"
-    }
-    "***Thanks to Shizuru[idea]  uuz[model]***"
-    {
-        "chi"        "** **"
-    }
-    "*** ... ***"
-    {
-        "chi"        "** **"
-    }
-    "**Stage 1**"
-    {
-        "chi"        "** **"
-    }
+	"***MAP BY thegregster101***"
+	{
+		"chi"		"**地图制作 by thegregster101 地图翻译 by 色狼领袖**"
+	}
+	"***YOU ARE PLAYING ze_minecraft_v1_1***"
+	{
+		"chi"		"**你现在正在玩的是ze_minecraft_v1_1 **"
+	}
+	"***STONE DOOR OPENING***"
+	{
+		"chi"		"**石头门开启！**"
+	}
+	"***BOAT LEAVES IN 20 SECONDS***"
+	{
+		"chi"		"**船将在 20 秒后离开。**"
+		"DoorCountDown"		"20"
+	}
+	"***BOAT LEAVES IN 10 SECONDS***"
+	{
+		"chi"		"**船将在 10 秒后离开。**"
+	}
+	"***PATH BLOCKERS BREAK IN 5 SECONDS***"
+	{
+		"chi"		"**空气墙将在 5 秒后消失。**"
+	}
+	"***TNT EXPLODING IN 30 SECONDS***"
+	{
+		"chi"		"**TNT将在 30 秒后爆炸。**"
+		"DoorCountDown"		"30"
+	}
+	"***HOLD THE CAVE!!!!***"
+	{
+		"chi"		"**山洞里很危险！尤其要小心滚石！**"
+	}
+	"***TNT EXPLODING IN 20 SECONDS***"
+	{
+		"chi"		"**TNT将在 20 秒后爆炸。**"
+	}
+	"***TNT EXPLODING IN 10 SECONDS***"
+	{
+		"chi"		"**TNT将在 10 秒后爆炸。**"
+	}
+	"***TNT EXPLODING IN 5 SECONDS***"
+	{
+		"chi"		"**TNT将在 5 秒后爆炸。**"
+	}
+	"***GOGO.. GET TO THE SLIP GATE***"
+	{
+		"chi"		"**GOGO..进入传送门！**"
+	}
+	"***AFK TELE TO CAGE IN 15 SECONDS**"
+	{
+		"chi"		"**挂机的玩家将在 15 秒后关进牢笼**"
+	}
+	"***PUMPKIN HEAD HAS BEEN PICKED UP***"
+	{
+		"chi"		"**南瓜头被捡起来了。**"
+	}
+	"***AFK TELE 2 TELEPORTING IN 20 SECONDS***"
+	{
+		"chi"		"**僵尸等待 20 秒传送**"
+	}
+	"***DOOR OPENING IN 15 SECONDS***"
+	{
+		"chi"		"**大门在 15 秒后开启。**"
+		"DoorCountDown"		"15"
+	}
+	"***DOOR OPENING IN 10 SECONDS***"
+	{
+		"chi"		"**大门在 10 秒后开启。**"
+	}
+	"***DOOR OPENING IN 5 SECONDS***"
+	{
+		"chi"		"**大门在 5 秒后开启。**"
+	}
+	"***DOOR OPEN... RUN!!***"
+	{
+		"chi"		"**门开了！撤！撤退！！**"
+	}
+	"***DEFEND THE CASTLE DOORS***"
+	{
+		"chi"		"**守住城门！不要让僵尸靠近！**"
+	}
+	"***GO GO.. GET TO THE MINE!***"
+	{
+		"chi"		"**GO GO ..下矿坑！**"
+	}
+	"***TROLL FACE HAS BEEN PICKED UP***"
+	{
+		"chi"		"**吸引仇恨的头被捡起来了。**开启嘲讽模式**"
+	}
+	"***YOU BE TROLL'IN***"
+	{
+		"chi"		"**你正在吸引仇恨**"
+	}
+	"***DEFEND FOR 35 SECONDS***"
+	{
+		"chi"		"**防守 35 秒直至矿车抵达。**"
+		"DoorCountDown"		"35"
+	}
+	"***MINE CARTS ARRIVE IN 30 SECONDS***"
+	{
+		"chi"		"**矿车将在 30 秒后抵达。**"
+	}
+	"***MINE CARTS ARRIVE IN 25 SECONDS***"
+	{
+		"chi"		"**矿车将在 25 秒后抵达。**"
+	}
+	"***MINE CARTS ARRIVE IN 20 SECONDS***"
+	{
+		"chi"		"**矿车将在 20 秒后抵达。**"
+	}
+	"***MINE CARTS ARRIVE IN 15 SECONDS***"
+	{
+		"chi"		"**矿车将在 15 秒后抵达。**"
+	}
+	"***MINE CARTS ARRIVE IN 10 SECONDS***"
+	{
+		"chi"		"**矿车将在 10 秒后抵达。**"
+	}
+	"***MINE CARTS ARRIVE IN 5 SECONDS***"
+	{
+		"chi"		"**矿车将在 5 秒后抵达。**"
+	}
+	"***GET ON TOP OF THE MINE CARTS***"
+	{
+		"chi"		"**该上车了伙计们！快上车！**"
+	}
+	"***BUNKER HAS BEEN REACHED***"
+	{
+		"chi"		"**已经到达防核爆小屋。**"
+	}
+	"***BUNKER DOOR OPENING IN 20 SECONDS***"
+	{
+		"chi"		"**防核爆小屋的门将于 20 秒后开启。**"
+		"DoorCountDown"		"20"
+	}
+	"***DEFEND THE RAILWAY TRACK***"
+	{
+		"chi"		"**守住这条轨道**此处应有诱饵弹**"
+	}
+	"***BUNKER DOOR OPENING IN 15 SECONDS***"
+	{
+		"chi"		"**防核爆小屋的门将于 15 秒后开启。**"
+	}
+	"***BUNKER DOOR OPENING IN 10 SECONDS***"
+	{
+		"chi"		"**防核爆小屋的门将于 10 秒后开启。**"
+	}
+	"***BUNKER DOOR OPENING IN 5 SECONDS***"
+	{
+		"chi"		"**防核爆小屋的门将于 5 秒后开启。**"
+	}
+	"***BUNKER DOOR OPEN!***"
+	{
+		"chi"		"**防核爆小屋的门开了！快进去防守！**"
+	}
+	"***GET INSIDE THE BUNKER***"
+	{
+		"chi"		"**快进去防守！**"
+	}
+	"***BUNKER DOOR CLOSING***"
+	{
+		"chi"		"**屋门关闭。**"
+	}
+	"***NUKE LAUNCHED! ***"
+	{
+		"chi"		"**核武器发射!**"
+	}
+	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND*** "
+	{
+		"chi"		"**打造钻石剑所需要的材料已收集完毕。**"
+	}
+	"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT*** "
+	{
+		"chi"		"**使用山洞里TNT旁边的工作台来打造钻石剑**对工作台按 E 操作**"
+	}
+	"***THIS WILL CRAFT THE SWORD*** "
+	{
+		"chi"		"**钻石剑已经被成功打造。**"
+	}
+	"***THE SWORD HAS BEEN PICKED UP***"
+	{
+		"chi"		"**钻石剑被拾起。**击退**"
+	}
+	"***SWORD READY***"
+	{
+		"chi"		"**钻石剑CD恢复完毕。**"
+	}
+	"***CREEPER HEAD HAS BEEN PICKED UP***"
+	{
+		"chi"		"**苦力怕的头被捡起来了。**"
+	}
+	"***THE BOW HAS BEEN PICKED UP***"
+	{
+		"chi"		"**弓箭被拾起。**高伤害**"
+	}
+	"***YOU BE TROLLIN***"
+	{
+		"chi"		"**仇恨不断吸引中**"
+	}
+	"***ALL MATERIALS FOR DIAMOND SWORD HAVE BEEN FOUND***"
+	{
+		"chi"		"**打造钻石剑所需要的材料已收集完毕。**"
+	}
+	"***PRESS use ON THE WORKBENCH AT THE TNT HOLD POINT***"
+	{
+		"chi"		"**使用山洞里TNT旁边的工作台来打造钻石剑**对工作台按 E 操作**"
+	}
+	"***THIS WILL CRAFT THE SWORD***"
+	{
+		"chi"		"**钻石剑已经被成功打造。**"
+	}
+	"***ZOMBIE HAVE BEEN DETECTED IN THE BOAT***"
+	{
+		"chi"		"**检测到木船上存在僵尸**"
+	}
+	"***BOAT SELF DESTRUCT!!***"
+	{
+		"chi"		"**木船自毁装置启动**笑看各位孙杨附体**"
+	}
+	"++ ZE_ITALY_TOWN ++"
+	{
+		"chi"		"** **"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
+	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+	{
+		"chi"		"** **"
+	}
+	"*** map created by thas ***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Taskuvaras***"
+	{
+		"chi"		"** **"
+	}
+	"***Human door opening in 15s***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
+	{
+		"chi"		"** **"
+	}
+	"***Map ported by ??????***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT MODE: EASY ***"
+	{
+		"chi"		"** **"
+	}
+	"For POSSESSION, Respect to Sakura"
+	{
+		"chi"		"** **"
+	}
+	"Based-map by Xquality"
+	{
+		"chi"		"** **"
+	}
+	"** MAP BY SLAYERDRAGON **"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***Particle Effect by Airvulpes***"
+	{
+		"chi"		"** **"
+	}
+	"***Thanks to Shizuru[idea]  uuz[model]***"
+	{
+		"chi"		"** **"
+	}
+	"*** ... ***"
+	{
+		"chi"		"** **"
+	}
+	"**stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"***Welcome to my first map PePeHands***"
+	{
+		"chi"		"** **"
+	}
 }

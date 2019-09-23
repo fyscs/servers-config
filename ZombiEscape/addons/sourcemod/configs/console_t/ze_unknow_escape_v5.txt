@@ -1,92 +1,92 @@
 "Console_T"
 {
-    "Defend few seconds"
-    {
-        "chi"        "**防守这里，等我们用C4炸开障碍物**"
-        "DoorCountdown"        "60"
-    }
-    "Path will open in few seconds !"
-    {
-        "chi"        "**再守一会儿，注意列车两边的僵尸**"
-    }
-    "Hold them a bit !!!"
-    {
-        "chi"        "** **"
-    }
-    "Path is open ! Fall Back, Run !!"
-    {
-        "chi"        "**障碍物被炸开了，快跑!**"
-    }
-    "Hold zombies"
-    {
-        "chi"        "**守住这里，大门很快就会打开**"
-    }
-    "Defend this spot"
-    {
-        "chi"        "**守住这道门**"
-    }
-    "Hold off zombies !"
-    {
-        "chi"        "**我们已经抵达安全屋，别让僵尸进来**"
-    }
-    "Nuke launched in 10 seconds !"
-    {
-        "chi"        "**核弹还有10秒抵达**"
-    }
-    "***5***"
-    {
-        "chi"        "** **"
-    }
-    "***4***"
-    {
-        "chi"        "** **"
-    }
-    "***3***"
-    {
-        "chi"        "** **"
-    }
-    "***2***"
-    {
-        "chi"        "** **"
-    }
-    "***1***"
-    {
-        "chi"        "** **"
-    }
-    "map by benz!n"
-    {
-        "chi"        "** **"
-    }
-    "[Load ShroomForest2 Config]"
-    {
-        "chi"        "** **"
-    }
-    "[Warmup] Wait for others players to join"
-    {
-        "chi"        "** **"
-    }
-    ">> 9 MINUTES TO ESCAPE <<"
-    {
-        "chi"        "** **"
-    }
-    "++ ZE_ITALY_TOWN ++"
-    {
-        "chi"        "** **"
-    }
-    "** MAP BY Hannibal [SPA] (Rafuron) **"
-    {
-        "chi"        "** **"
-    }
-    "[NORMAL MODE]"
-    {
-        "chi"        "** **"
-    }
-    "**level 1**"
-    {
-        "chi"        "** **"
-    }
-    "**Map By Batnik_Reference.smd and ShotT **"
-    {
-        "chi"        "** **"
-    }
+	"Defend few seconds"
+	{
+		"chi"		"**防守这里，等我们用C4炸开障碍物**"
+		"DoorCountDown"		"60"
+	}
+	"Path will open in few seconds !"
+	{
+		"chi"		"**再守一会儿，注意列车两边的僵尸**"
+	}
+	"Hold them a bit !!!"
+	{
+		"chi"		"***再坚持一会！！！***"
+	}
+	"Path is open ! Fall Back, Run !!"
+	{
+		"chi"		"**障碍物被炸开了，快跑!**"
+	}
+	"Hold zombies"
+	{
+		"chi"		"**守住这里，大门很快就会打开**"
+	}
+	"Defend this spot"
+	{
+		"chi"		"**守住这道门**"
+	}
+	"Hold off zombies !"
+	{
+		"chi"		"**我们已经抵达安全屋，别让僵尸进来**"
+	}
+	"Nuke launched in 10 seconds !"
+	{
+		"chi"		"**核弹还有10秒抵达**"
+	}
+	"***5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"map by benz!n"
+	{
+		"chi"		"** **"
+	}
+	"[Load ShroomForest2 Config]"
+	{
+		"chi"		"** **"
+	}
+	"[Warmup] Wait for others players to join"
+	{
+		"chi"		"** **"
+	}
+	">> 9 MINUTES TO ESCAPE <<"
+	{
+		"chi"		"** **"
+	}
+	"++ ZE_ITALY_TOWN ++"
+	{
+		"chi"		"** **"
+	}
+	"** MAP BY Hannibal [SPA] (Rafuron) **"
+	{
+		"chi"		"** **"
+	}
+	"[NORMAL MODE]"
+	{
+		"chi"		"** **"
+	}
+	"**level 1**"
+	{
+		"chi"		"** **"
+	}
+	"**Map By Batnik_Reference.smd and ShotT **"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,0 +1,554 @@
+"Console_T"
+{
+	"Map made by Puklica"
+	{
+		"chi"		"** 地图制作：Puklica 括号内容均属提醒-来自恶意卖萌的Yuki琥珀 **"
+	}
+	"Thank JorisCeoen fix model"
+	{
+		"chi"		"** 感谢JorisCeoen修复模型 **"
+	}
+	">>> |LEVEL 1| <<<"
+	{
+		"chi"		"**第[ 1 ]关**"
+		"DoorCountDown"		"-1"
+	}
+	">>> GATE OPEN IN 20 SEC <<<"
+	{
+		"chi"		"** 20秒后开门 **"
+		"DoorCountDown"		"20"
+	}
+	">>> GATE OPENING <<<"
+	{
+		"chi"		"** 大门开启中 **"
+	}
+	">>> GATE CLOSES IN 5 SEC <<<"
+	{
+		"chi"		"** 5秒后关门，进门守住 **"
+		"DoorCountDown"		"5"
+	}
+	">>> GATE CLOSING <<<"
+	{
+		"chi"		"** 大门关闭中 **"
+	}
+	">>> DEFEND VILLAGE FOR 40 SEC! <<<"
+	{
+		"chi"		"** 守住村庄40秒 **"
+		"DoorCountDown"		"40"
+	}
+	"--*** BUBBLES picked up ***--"
+	{
+		"chi"		"** 已拾取泡沫(使僵尸失重并减速)**"
+	}
+	"--*** WALL picked up ***--"
+	{
+		"chi"		"** 已拾取墙(生成一堵障碍薄墙)**"
+	}
+	">>> REMAINING 10 SEC <<<"
+	{
+		"chi"		"** 剩余10秒 **"
+		"DoorCountDown"		"10"
+	}
+	">>> RUN! <<<"
+	{
+		"chi"		"** 跑 **"
+	}
+	"--*** BARREL picked up ***--"
+	{
+		"chi"		"** 已拾取桶(放置数秒后爆炸产生火焰持续减速僵尸) **"
+	}
+	">>> DOORS CLOSE IN 25 SEC <<<"
+	{
+		"chi"		"** 门将于25秒关闭 **"
+		"DoorCountDown"		"25"
+	}
+	"--*** SWORD picked up ***--"
+	{
+		"chi"		"** 已拾取剑(使用后面前形成一堵扇形空气墙阻止僵尸) **"
+	}
+	">>> DOORS CLOSE IN 5 SEC <<<"
+	{
+		"chi"		"** 5秒后关闭门 **"
+		"DoorCountDown"		"5"
+	}
+	">>> HORSES LEAVING IN 10 SEC <<<"
+	{
+		"chi"		"** 马匹停留10秒后出发 **"
+		"DoorCountDown"		"10"
+	}
+	"***ACTIVATE 4 CANNONS***"
+	{
+		"chi"		"** 启动四门大炮(上楼点燃大炮)**"
+	}
+	">>> GATE IS CLOSING IN 18 SEC <<<"
+	{
+		"chi"		"** 门将于18秒后关闭 **"
+		"DoorCountDown"		"18"
+	}
+	">>> ALL CANNONS ACTIVATED <<<"
+	{
+		"chi"		"** 所有大炮已激活 **"
+	}
+	">>> WAIT FOR THE SHOT FROM BLACK PEARL <<<"
+	{
+		"chi"		"** 等待射中黑珍珠号**"
+	}
+	">>> GATE IS CLOSING! <<<"
+	{
+		"chi"		"** 门正在关闭!**"
+	}
+	">>> RUN TO THE PRISON! <<<"
+	{
+		"chi"		"** 跑向监狱!**"
+	}
+	">>> DEFEND THE PRISON!! <<< *** RESCUE CAPTAIN JACK SPARROW ***"
+	{
+		"chi"		"** 守住监狱!! 拯救杰克船长 **"
+	}
+	">>> RUN TO THE BLACK PEARL <<<"
+	{
+		"chi"		"** 跑向黑珍珠 **"
+	}
+	">>> YOU HAVE TO DEFEND A BLACK PEARL 45 SEC! <<<"
+	{
+		"chi"		"** 你必须防卫黑珍珠号45秒！**"
+		"DoorCountDown"		"45"
+	}
+	">>> LAST 10 SEC REMAINING <<<"
+	{
+		"chi"		"** 剩余最后10秒 **"
+		"DoorCountDown"		"10"
+	}
+	"*** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***"
+	{
+		"chi"		"** 你已成功通关关卡1，现在进入关卡2**"
+	}
+	">>> |LEVEL 2| <<<"
+	{
+		"chi"		"** 关卡2！**"
+		"DoorCountDown"		"-1"
+	}
+	">>> DOORS CLOSE IN 20 SEC <<<"
+	{
+		"chi"		"** 大门20秒后开启 **"
+		"DoorCountDown"		"20"
+	}
+	">>> DOORS CLOSE IN 10 SEC <<<"
+	{
+		"chi"		"** 大门10秒后开启 **"
+		"DoorCountDown"		"10"
+	}
+	">>> GATE IS CLOSING IN 25 SEC <<<"
+	{
+		"chi"		"** 门将于25秒后关闭 **"
+		"DoorCountDown"		"25"
+	}
+	">>> GATE IS CLOSING IN 5 SEC <<<"
+	{
+		"chi"		"** 门将于5秒后关闭 **"
+		"DoorCountDown"		"5"
+	}
+	"(CT) >>>--SHOOT CANNON--<<<"
+	{
+		"chi"		"** (人类)射击破坏大炮 **"
+	}
+	"(ZOMBIE) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<"
+	{
+		"chi"		"**(僵尸)站在大炮旁推动大炮 **"
+	}
+	">>> CANNON HAS BEEN DESTROYED <<<"
+	{
+		"chi"		"** 大炮已被破坏 **"
+	}
+	">>> RUN TO THE ISLAND <<<"
+	{
+		"chi"		"** 跑向小岛(神器请拖延时间掩护队友) **"
+	}
+	">>> ENTRANCE TO THE SHELTER IS OPENING IN 30 SEC <<<"
+	{
+		"chi"		"** 庇护所的入口将于30秒开放 **"
+		"DoorCountDown"		"30"
+	}
+	">>> SHELTER OPENING <<<"
+	{
+		"chi"		"** 庇护所开启中 **"
+	}
+	">>> THE ISLAND WILL BE DESTROYED AFTER 25 SEC <<<"
+	{
+		"chi"		"** 岛屿将于25秒后摧毁 **"
+		"DoorCountDown"		"25"
+	}
+	">>> REMAINING 5 SEC <<<"
+	{
+		"chi"		"** 剩余5秒 **"
+	}
+	">>> SHELTER CLOSING <<<"
+	{
+		"chi"		"** 庇护所关门中 **"
+	}
+	"> HUMANS ARE INVUNERABLE < ** kill all zombies in the shelter **"
+	{
+		"chi"		"** 人类是无敌的 杀死所有在庇护所的僵尸 **"
+	}
+	"*** YOU HAVE BEATEN LEVEL 2. CHALLENGE CONTINUES ON LEVEL 3 ***"
+	{
+		"chi"		"** 你已成功征♂服关卡2.现在继♂续关卡3 **"
+	}
+	">>> |LEVEL 3| <<<"
+	{
+		"chi"		"** 关卡3 **"
+		"DoorCountDown"		"-1"
+	}
+	">>> DOOR OPEN IN 10 SEC <<<"
+	{
+		"chi"		"** 门将于10秒后打开 **"
+		"DoorCountDown"		"10"
+	}
+	">>> DOOR OPEN IN 5 SEC <<<"
+	{
+		"chi"		"** 门将于5秒后打开 **"
+	}
+	">>> HOLD FOR 15 SEC <<<"
+	{
+		"chi"		"** 守住15秒 **"
+		"DoorCountDown"		"15"
+	}
+	">>> HOLD E ON WOODEN WHEEL TO BRING DOWN THE BRIDGE <<<"
+	{
+		"chi"		"** 对着木轮按住E已降下桥(多利用神器防御僵尸)**"
+	}
+	">>> BRIDGE IS DOWN. RUN! <<<"
+	{
+		"chi"		"** 桥降下来了.快跑 **"
+	}
+	">>> GET ONTO THE SHIP <<<"
+	{
+		"chi"		"** 跑到船上防守 **"
+	}
+	">>> DOORS OPEN IN 25 sec <<<"
+	{
+		"chi"		"** 门将于25秒后打开 **"
+		"DoorCountDown"		"25"
+	}
+	">>> DOORS OPEN IN 5 sec <<<"
+	{
+		"chi"		"** 门将于5秒后打开 **"
+	}
+	">>> DOORS CLOSE IN 15 sec <<<"
+	{
+		"chi"		"** 门将于15秒后关闭 **"
+		"DoorCountDown"		"15"
+	}
+	">>> DOOR OPEN! RUN!!! <<<"
+	{
+		"chi"		"** 门开了!快跑!!**"
+	}
+	">>> IT'S A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<"
+	{
+		"chi"		"** 这是一个海盗!在他杀死你之前杀掉他 **"
+	}
+	">>> GRENADES DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
+	{
+		"chi"		"** 手雷会对他造成很多伤害.快丢雷x母 **"
+	}
+	">>> HE'S DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<"
+	{
+		"chi"		"** 他死了.跑到藏宝室保住你们的性命 **"
+	}
+	">>> HOLD ZOMBIES FOR 20 sec <<<"
+	{
+		"chi"		"** 守住僵尸20秒 **"
+		"DoorCountDown"		"20"
+	}
+	"***  YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***"
+	{
+		"chi"		"** 你已经攻♂破关卡3.现在进入关卡4 **"
+	}
+	">>> |LEVEL 4| <<<"
+	{
+		"chi"		"** 关卡4 **"
+		"DoorCountDown"		"-1"
+	}
+	"+++ BARBOSSA picked up +++"
+	{
+		"chi"		"**拾取巴博萨，不想被炸死的回头拖BOSS**"
+	}
+	"*** MEDALLION picked up ***"
+	{
+		"chi"		"**拾取勋章（可对BOSS和僵尸造成大量伤害）（千万别让萌狗蛋拿）**"
+	}
+	">>> HOLD THE CELLAR FOR 25 SEC <<<"
+	{
+		"chi"		"** 守住酒窖25秒 **"
+		"DoorCountDown"		"25"
+	}
+	">>> CELLAR OPENING IN 5 SEC <<<"
+	{
+		"chi"		"** 酒窖5秒后开门**"
+	}
+	">>> RUN FROM THE ZOMBIES! <<<"
+	{
+		"chi"		"** 逃离僵尸! **"
+	}
+	"--*** HEAL picked up***--"
+	{
+		"chi"		"** 拾取医疗 **"
+	}
+	">>> HOLD THE ZOMBIES AS LONG AS POSSIBLE <<<"
+	{
+		"chi"		"** 尽可能长时间得防守僵尸 **"
+	}
+	">>> DOORS OPEN IN 30 SEC <<<"
+	{
+		"chi"		"** 大门30秒后开启**"
+		"DoorCountDown"		"30"
+	}
+	">>> GET DOWN FROM WOOD PLATFORM TO FIGHT BARBOSSA <<<"
+	{
+		"chi"		"** 下到木平台下面击打巴博萨(准备手雷,请勿站在中间) **"
+	}
+	">>> BARBOSSA IS COMING IN 5 SEC <<<"
+	{
+		"chi"		"** 巴博萨5秒内进入 **"
+		"DoorCountDown"		"5"
+	}
+	">>> IT'S BARBOSSA. KILL HIM! <<<"
+	{
+		"chi"		"** 是巴博萨.杀了他! **"
+	}
+	">>> HE HAS DISAPPEARED. RUN! <<<"
+	{
+		"chi"		"** 他消失了.快跑! **"
+	}
+	">>> DOORS OPEN IN 20 SEC <<<"
+	{
+		"chi"		"** 门将于20后开启 **"
+		"DoorCountDown"		"20"
+	}
+	"***  YOU HAVE BEATEN LEVEL 4. CHALLENGE CONTINUES ON LEVEL 5 ***"
+	{
+		"chi"		"** 你通过了关卡4.进入关卡5下饺子吧 **"
+	}
+	">>> |LEVEL 5| <<<"
+	{
+		"chi"		"** 关卡5 **"
+		"DoorCountDown"		"-1"
+	}
+	">>> HOLD FOR 35 SEC <<<"
+	{
+		"chi"		"** 守住35秒 **"
+		"DoorCountDown"		"35"
+	}
+	">>> IT'S KRAKEN. KILL HIM! <<<"
+	{
+		"chi"		"** 是北欧海怪KRAKEN. 杀了它! **"
+	}
+	">>> GRENADES AND ITEMS DO A LOT OF DAMAGE TO HIM. USE THEM! <<<"
+	{
+		"chi"		"** 手雷和道具(神器)能对它造成大量伤害.利用它们 **"
+	}
+	"||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
+	{
+		"chi"		"**还怪对你使用了噗噗泡沫！**"
+	}
+	"||| KRAKEN HAS USED VORTEX |||"
+	{
+		"chi"		"** 海怪对你使用了涡旋 (远离它，或者使用墙) **"
+	}
+	"||| KRAKEN HAS THROWN BARRELS ON YOU |||"
+	{
+		"chi"		"** 海怪已对你扔出了桶 别弯腰捡 继续打他 (注意躲避，别被烧到别被卡到) **"
+	}
+	"||| KRAKEN HAS THROWN BARREL ON YOU |||"
+	{
+		"chi"		"** 海怪已对你扔出了桶 别弯腰捡 继续打他 (注意躲避，别被烧到别被卡到) **"
+	}
+	"||| KRAKEN HAS SENT A WAVE ON YOU |||"
+	{
+		"chi"		"** 海怪对你使用了浪潮(别让他把你推下去，快跑向他) **"
+	}
+	">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< "
+	{
+		"chi"		"** 海怪死了.跳上木筏去往小岛 **"
+	}
+	">>> RUN TO THE CAVE <<<"
+	{
+		"chi"		"** 跑向洞穴(进去会打巴博萨会跳刀的，其他人山洞口防守) **"
+	}
+	">>> IT'S BARBOSSA AGAIN. DON'T LET HIM SURVIVE!  <<<"
+	{
+		"chi"		"** 又是巴博萨.这次不能让他活着! **"
+	}
+	"*** LAST MEDALLION picked up ***"
+	{
+		"chi"		"** 拾取最后的奖章,请放入宝箱内 **"
+	}
+	"Thanks to JorisCeoen for fixing models"
+	{
+		"chi"		"** 感谢JorisCeoen修复模型 **"
+	}
+	">>> GATE OPENS IN 20 SEC <<<"
+	{
+		"chi"		"** 门在20秒后打开 **"
+	}
+	">>> DEFEND THE VILLAGE FOR 40 SEC! <<<"
+	{
+		"chi"		"** 防守村庄40秒 **"
+	}
+	">>> GATE IS OPENING <<<"
+	{
+		"chi"		"** 门已开启 **"
+	}
+	">>> GATE CLOSES IN 5 SEC <<<"
+	{
+		"chi"		"**门"
+	}
+	">>> GATE IS CLOSING <<<"
+	{
+		"chi"		"** 已关闭大门 **"
+	}
+	">>> 10 SECONDS REMAINING <<<"
+	{
+		"chi"		"**10秒剩余 **"
+	}
+	"--*** SWORD picked up ***--"
+	{
+		"chi"		"** 大保健拾取 **"
+	}
+	">>> DOOR CLOSES IN 25 SEC <<<"
+	{
+		"chi"		"**门关在25秒 **"
+	}
+	">>> DOOR CLOSES IN 5 SEC <<<"
+	{
+		"chi"		"** 5秒后 门将关闭**"
+	}
+	"***ACTIVATE ALL CANNONS***"
+	{
+		"chi"		"** 激活所有大炮**"
+	}
+	">>> GATE CLOSES IN 18 SEC <<<"
+	{
+		"chi"		"**18秒 门将关闭 **"
+	}
+	">>> DEFEND THE BLACK PEARL 45 SECONDS! <<<"
+	{
+		"chi"		"**保护黑珍珠45秒！ **"
+	}
+	">>> LAST 10 SECONDS REMAINING <<<"
+	{
+		"chi"		"**最后10秒 **"
+	}
+	">>> DOOR CLOSES IN 20 SEC <<<"
+	{
+		"chi"		"** 20秒 门将关闭**"
+	}
+	">>> DOOR CLOSES IN 10 SEC <<<"
+	{
+		"chi"		"** 10秒 门将关闭 **"
+	}
+	"(ZOMBIES) >>>--STAND NEXT TO THE CANNON TO PUSH IT--<<<"
+	{
+		"chi"		"** 站在大炮旁边推动它 **"
+	}
+	">>> 5 SEC REMAINING <<<"
+	{
+		"chi"		"**剩余5秒 **"
+	}
+	">>> DOOR OPENS IN 10 SEC <<<"
+	{
+		"chi"		"** 门10秒后打开 **"
+	}
+	">>> DOOR OPENS IN 5 sec <<<"
+	{
+		"chi"		"** 门5秒后打开 **"
+	}
+	">>> STAY ON WOODEN WHEEL TO BRING DOWN THE BRIDGE <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR OPENS IN 25 sec <<<"
+	{
+		"chi"		"** 门25秒后打开 **"
+	}
+	">>> DOOR CLOSES IN 15 sec <<<"
+	{
+		"chi"		"** 15秒后门将关闭 **"
+	}
+	">>> DOOR IS OPEN! RUN!!! <<<"
+	{
+		"chi"		"**门是开的 **"
+	}
+	">>> RUN AWAY FROM THE ZOMBIES! <<<"
+	{
+		"chi"		"**  从僵尸群中逃跑！**"
+	}
+	">>> DOOR OPENS IN 30 SEC <<<"
+	{
+		"chi"		"**   门将在30秒后打开 **"
+	}
+	">>> GET DOWN FROM WOODEN PLATFORM TO FIGHT BARBOSSA <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> DOOR OPENS IN 20 SEC <<<"
+	{
+		"chi"		"** 门将在20秒后打开 **"
+	}
+	">>> LAST MEDALLION HAS BEEN RETURNED TO THE CHEST <<<"
+	{
+		"chi"		"**最后一个大英帝国的勋章已被放入宝箱**"
+	}
+	">>> BARBOSSA IS DEAD <<<"
+	{
+		"chi"		"** 他死了 **"
+	}
+	">>> YOU HAVE WON THE MAP. YOU ARE A REAL PIRATE <<< "
+	{
+		"chi"		"** 你成功通关了 你是个真正的海盗！ **"
+	}
+	"!!! KILL ALL ZOMBIES !!!"
+	{
+		"chi"		"** 杀死所有僵尸 **"
+	}
+	"> HUMANS ARE INVULNERABLE < ** KILL ALL ZOMBIES IN THE SHELTER **"
+	{
+		"chi"		"** 人类现在是无敌的 杀死所有僵尸在避难所! **"
+	}
+	">>> ITS BARBOSSA. KILL HIM! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ITS KRAKEN. KILL HIM! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ITS A PIRATE! KILL HIM BEFORE HE KIILS YOU! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> HES DEAD. RUN TO TREASURE ROOM TO SAVE YOUR LIVES! <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ITS BARBOSSA AGAIN. DONT LET HIM SURVIVE!  <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> YOU HAVE WON THE MAP. YOU ARE A REAL PIRATE <<<"
+	{
+		"chi"		"** **"
+	}
+	"|Admin Room| ***Admin has changed difficulty to LEVEL 5 ***"
+	{
+		"chi"		"** **"
+	}
+	"|Admin Room| *** ADMIN SLAYING EVERYONE ***"
+	{
+		"chi"		"** **"
+	}
+}

@@ -1,189 +1,34 @@
 "Console_T"
 {
-	"** Door 1# will be opened in 90 seconds ! **"
+	"** Music by MapleStory **"
 	{
-		"DoorCountdown"		"90"
-		"chi"		"**一号大门将于90秒后打开**"
-	}
-	"** Door 2# will be opened in 90 seconds ! **"
-	{
-		"DoorCountdown"		"90"
-		"chi"		"**2号大门将于90秒后打开**"
-	}
-	"** Zombie Buff : INVIS **"
-	{
-		"chi"		"**僵尸随机BUFF：隐身**"
-	}
-	"** Zombie Buff : SPEED **"
-	{
-		"chi"		"**僵尸随机BUFF：加速**"
-	}
-	"** Zombie Buff : GODMODE **"
-	{
-		"chi"		"**僵尸随机BUFF：无敌**"
-	}
-	"** Door 3# will be opened in 90 seconds ! **"
-	{
-		"DoorCountdown"		"90"
-		"chi"		"**3号大门将于90秒后打开**"
-	}
-	"** Door 4# will be opened in 90 seconds ! **"
-	{
-		"DoorCountdown"		"90"
-		"chi"		"**4号大门将于90秒后打开**"
-	}
-	"** Hold here 20s ! **"
-	{
-		"DoorCountdown"		"20"
-	}
-	"** Its very boring and very hard , but end is funny .**"
-	{
-		"chi"		"**它很无聊，很难，但最后是有趣的**"
-	}
-	"** Have a good time , guys ! **"
-	{
-		"chi"		"**祝你们玩的开心**"
-	}
-	"** Map by ClariceTang **"
-	{
-		"chi"		"**地图制作：ClariceTang**"
-	}
-	"** Level 1 - Easy **"
-	{
-		"chi"		"**关卡：简单**"
+		"chi"		"** **"
 	}
 	"** Welcome to this shit map **"
 	{
-		"chi"		"**欢迎来到这张无聊的地图**"
+		"chi"		"** **"
 	}
-	"** Door 1# will be opened in 60 seconds ! **"
-	{
-		"chi"		"**一号大门将于60秒后打开**"
-	}
-	"** Door 1# will be opened in 30 seconds ! **"
-	{
-		"chi"		"**一号大门将于30秒后打开**"
-	}
-	"** Door 1# will be opened in 10 seconds ! **"
-	{
-		"chi"		"**一号大门将于10秒后打开**"
-	}
-	"** Door 2# will be opened in 60 seconds ! **"
-	{
-		"chi"		"**2号大门将于60秒后打开**"
-	}
-	"** Hold here 10s ! **"
-	{
-		"chi"		"**守住10秒**"
-	}
-	"** Door 3# will be opened in 60 seconds ! **"
-	{
-		"chi"		"**3号大门将于60秒后打开**"
-	}
-	"** Door 2# will be opened in 30 seconds ! **"
-	{
-		"chi"		"**2号大门将于30秒后打开**"
-	}
-	"** Door 4# will be opened in 60 seconds ! **"
-	{
-		"chi"		"**4号大门将于60秒后打开**"
-	}
-	"** Door 2# will be opened in 10 seconds ! **"
-	{
-		"chi"		"**2号大门将于10秒后打开**"
-	}
-	"** Door 3# will be opened in 30 seconds ! **"
-	{
-		"chi"		"**3号大门将于30秒后打开**"
-	}
-	"** Door 4# will be opened in 30 seconds ! **"
-	{
-		"chi"		"**4号大门将于30秒后打开**"
-	}
-	"** Hold 30s ! **"
-	{
-		"chi"		"**守住30秒**"
-	}
-	"** Door 7# will be opened in 60 seconds ! **"
-	{
-		"chi"		"**7号大门将于60秒后打开**"
-	}
-	"** Door 5# will be opened in 30 seconds ! **"
-	{
-		"chi"		"**5号大门将于30秒后打开**"
-	}
-	"** Watch out laser !!! **"
-	{
-		"chi"		"**小心激光**"
-	}
-	"** Door 7# will be opened in 90 seconds ! **"
-	{
-		"chi"		"**7号大门将于90秒后打开**"
-		"DoorCountdown"		"90"
-	}
-	"** Door 5# will be opened in 60 seconds ! **"
-	{
-		"chi"		"**5号大门将于60秒后打开**"
-	}
-	"** Door 6# will be opened in 60 seconds ! **"
-	{
-		"chi"		"**6号大门将于60秒后打开**"
-	}
-	"** There is no way here ! **"
-	{
-		"chi"		"**没有路了**"
-	}
-	"** Door 3# will be opened in 10 seconds ! **"
-	{
-		"chi"		"**3号大门将于10秒后打开**"
-	}
-	"** Door 4# will be opened in 10 seconds ! **"
-	{
-		"chi"		"**4号大门将于10秒后打开**"
-	}
-	"** Door 5# will be opened in 90 seconds ! **"
-	{
-		"chi"		"**5号大门将于90秒后打开**"
-		"DoorCountdown"		"90"
-	}
-	"** Door 6# will be opened in 90 seconds ! **"
-	{
-		"chi"		"**6号大门将于90秒后打开**"
-		"DoorCountdown"		"90"
-	}
-	"** Door 6# will be opened in 30 seconds ! **"
-	{
-		"chi"		"**6号大门将于30秒后打开**"
-	}
-	"** Door 5# will be opened in 10 seconds ! **"
-	{
-		"chi"		"**5号大门将于10秒后打开**"
-	}
-	"** Door 7# will be opened in 30 seconds ! **"
-	{
-		"chi"		"**7号大门将于30秒后打开**"
-	}
-	"** Door 6# will be opened in 10 seconds ! **"
-	{
-		"chi"		"**6号大门将于10秒后打开**"
-	}
-	"** Door 7# will be opened in 10 seconds ! **"
-	{
-		"chi"		"**7号大门将于10秒后打开**"
-	}
-	"** Level 2 - Hard **"
+	"** Its very boring and very hard , but end is funny .**"
 	{
 		"chi"		"** **"
 	}
-	"sync_version"
+	"** Have a good time , guys ! **"
 	{
-		"syncvalue"		"81191"
+		"chi"		"** **"
+	}
+	"** Zombie Buff : SPEED **"
+	{
+		"chi"		"** **"
+	}
+	"** Map by ClariceTang **"
+	{
+		"chi"		"** **"
+	}
+	"** Level 1 - Easy **"
+	{
+		"chi"		"** **"
 	}
 	"** Model by K. **"
-	{
-		"chi"		"** **"
-	}
-	"** Music by MapleStory **"
 	{
 		"chi"		"** **"
 	}
@@ -191,31 +36,11 @@
 	{
 		"chi"		"** **"
 	}
-	"** Sound Playing - Whitechristmas **"
-	{
-		"chi"		"** **"
-	}
-	"** Sound Playing - Snowdrop **"
-	{
-		"chi"		"** **"
-	}
-	"** Sound Playing - Dragondream **"
-	{
-		"chi"		"** **"
-	}
 	"** Sound Playing - Goshanghai **"
 	{
 		"chi"		"** **"
 	}
-	"** Sound Playing - Subway **"
-	{
-		"chi"		"** **"
-	}
-	"** Sound Playing - Bamboogym **"
-	{
-		"chi"		"** **"
-	}
-	"** Sound Playing - flyinginabluedream **"
+	"** Zombie Buff : GODMODE **"
 	{
 		"chi"		"** **"
 	}
@@ -223,27 +48,80 @@
 	{
 		"chi"		"** **"
 	}
-	"** Sound Playing - Abovethetreetops **"
+	"** Door 1# will be opened in 90 seconds ! **"
 	{
 		"chi"		"** **"
 	}
-	"** Sound Playing - Florallife **"
+	"** Door 1# will be opened in 60 seconds ! **"
 	{
 		"chi"		"** **"
 	}
-	"** Sound Playing - Warmregard **"
+	"** Sound Playing - Whitechristmas **"
 	{
 		"chi"		"** **"
 	}
-	"** Sound Playing - Badguys **"
+	"** Zombie Buff : INVIS **"
 	{
 		"chi"		"** **"
 	}
-	"MapGlobal_ConVars"
+	"** Door 1# will be opened in 30 seconds ! **"
 	{
-		"0"
-		{
-			"cvar"		"tjs_enalbe 0"
-		}
+		"chi"		"** **"
+	}
+	"** Door 1# will be opened in 10 seconds ! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door 2# will be opened in 90 seconds ! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door 2# will be opened in 60 seconds ! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door 2# will be opened in 30 seconds ! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door 2# will be opened in 10 seconds ! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door 3# will be opened in 90 seconds ! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door 3# will be opened in 60 seconds ! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door 3# will be opened in 30 seconds ! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door 3# will be opened in 10 seconds ! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door 4# will be opened in 90 seconds ! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door 4# will be opened in 60 seconds ! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door 4# will be opened in 30 seconds ! **"
+	{
+		"chi"		"** **"
+	}
+	"** Door 4# will be opened in 10 seconds ! **"
+	{
+		"chi"		"** **"
+	}
+	"** Hold here 20s ! **"
+	{
+		"chi"		"** **"
 	}
 }

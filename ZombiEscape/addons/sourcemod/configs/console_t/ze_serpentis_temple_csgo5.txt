@@ -1,625 +1,625 @@
 "Console_T"
 {
-    "*** Many buildsmodels have been realized by Kaemon ***"
-    {
-        "chi"        "** 模型制作:Kaemon  **"
-    }
-    "*** WARMUP ROUND (50 sec) ***"
-    {
-        "chi"        "**预热局（50秒） **"
-    }
-    "*** WARMUP ROUND (40 sec) ***"
-    {
-        "chi"        "**预热局（40秒） **"
-    }
-    "*** WARMUP ROUND (30 sec) ***"
-    {
-        "chi"        "**预热局（30秒） **"
-    }
-    "*** WARMUP ROUND (20 sec) ***"
-    {
-        "chi"        "**预热局（20秒） **"
-    }
-    "*** WARMUP ROUND (10 sec) ***"
-    {
-        "chi"        "**预热局（10秒） **"
-    }
-    "*** Stage 1 loaded ***"
-    {
-        "chi"        "**加载第一关 **"
-    }
-    "*** Map By Nostar ***"
-    {
-        "chi"        "**地图制作：Nostar 地图翻译：蓬莱山帅比♪ **"
-    }
-    "*** STAGE 1 ***"
-    {
-        "chi"        "**第一关 **"
-    }
-    "*** PRESS 2 CRYSTALS TO OPEN THE DOOR ***"
-    {
-        "chi"        "**按完上面的两个晶体打开门 **"
-    }
-    "*** WARMUP ROUND (60 sec) ***"
-    {
-        "chi"        "**预热局（60秒） **"
-    }
-    "*** Fire Snake has been picked ***"
-    {
-        "chi"        "**火蛇权杖已被拿起 **"
-    }
-    "*** Poison Snake has been picked ***"
-    {
-        "chi"        "**毒蛇权杖已被拿起 **"
-    }
-    "*** DOOR OPEN IN 20 SECONDS ***"
-    {
-        "chi"        "**门20秒后打开 **"
-        "DoorCountDown"        "20"
-    }
-    "*** HealAmmo Snake has been picked ***"
-    {
-        "chi"        "**治愈/无限子弹权杖已被拿起 **"
-    }
-    "*** AFK TELEPORT IN 5 SECONDS ***"
-    {
-        "chi"        "**在5秒后传送AFK玩家 **"
-    }
-    "*** AFK TELEPORT IN 15 SECONDS ***"
-    {
-        "chi"        "**在15秒后传送AFK玩家 **"
-    }
-    "*** DOOR OPEN IN 25 SECONDS ***"
-    {
-        "chi"        "**门25秒后打开 **"
-        "DoorCountDown"        "25"
-    }
-    "*** TELEPORTATION IN 30 SECONDS ***"
-    {
-        "chi"        "**30秒后传送 **"
-        "DoorCountDown"        "30"
-    }
-    "*** GO GO GO ! Enter in the second room ! ***"
-    {
-        "chi"        "**冲啊 ！进入第二个房间！ **"
-    }
-    "*** ZM TELEPORT IN 10 SECONDS ***"
-    {
-        "chi"        "**僵尸10秒后传送 **"
-    }
-    "*** A sacrifice is necessary to open the passage ***"
-    {
-        "chi"        "**需要一位玩家到中间献祭方可打开通道 **"
-        "ico"        "icon_fire"
-    }
-    "*** The passage will be open in 10 seconds ***"
-    {
-        "chi"        "**该通道将在10秒后打开 **"
-        "DoorCountDown"        "10"
-    }
-    "*** SHOOT MEDUSA !!! ***"
-    {
-        "chi"        "**射击美杜莎! ! ! **"
-        "ico"        "icon_fire"
-    }
-    "*** DOOR CLOSE IN 5 SECONDS ! COVER ! ***"
-    {
-        "chi"        "**门5秒后关闭 **"
-        "DoorCountDown"        "10"
-    }
-    "*** NICE JOB ! YOU WON STAGE 1 ! ***"
-    {
-        "chi"        "**干得好 ！你赢了第1关！ **"
-    }
-    "*** Challenge continue in Stage 2 ! ***"
-    {
-        "chi"        "**继续挑战第二关！ **"
-    }
-    "*** STAGE 2 ***"
-    {
-        "chi"        "**第二关 **"
-    }
-    "*** Enter in the third room ***"
-    {
-        "chi"        "**进入第三个房间 **"
-    }
-    "*** Hold 25 seconds ***"
-    {
-        "chi"        "**守住25秒 **"
-        "DoorCountDown"        "25"
-    }
-    "*** FALL BACK ***"
-    {
-        "chi"        "**后退 **"
-    }
-    "*** Snake come in 25 seconds ***"
-    {
-        "chi"        "**蛇将在25秒后到来 **"
-    }
-    "*** Hold here ***"
-    {
-        "chi"        "**守住这里 **"
-        "ico"        "icon_fire"
-    }
-    "*** CRYSTAL HAS BEEN ACTIVATED ***"
-    {
-        "chi"        "**水晶已被激活 **"
-    }
-    "*** ZM TELEPORT IN 5 SECONDS ***"
-    {
-        "chi"        "**僵尸5秒后传送 **"
-    }
-    "*** The portal is open in 30 seconds ***"
-    {
-        "chi"        "**门30秒后打开 **"
-        "DoorCountDown"        "30"
-    }
-    "*** PORTAL IS READY ! FALL BACK ! ***"
-    {
-        "chi"        "**门已经准备好了！后退！ **"
-    }
-    "*** AFK TELEPORT IN 10 SECONDS ***"
-    {
-        "chi"        "**10秒后传送AFK玩家 **"
-    }
-    "*** DOOR CLOSE IN 10 SECONDS ***"
-    {
-        "chi"        "**大门10秒后关闭 **"
-        "DoorCountDown"        "10"
-    }
-    "*** GET BACK AND COVER ! EXIT WILL BE OPEN IN 20 SECONDS ***"
-    {
-        "chi"        "**回来守住！后退的路20秒后打开 **"
-        "DoorCountDown"        "20"
-    }
-    "*** COVER ! DOOR CLOSE IN 15 SECONDS ***"
-    {
-        "chi"        "**守住！大门15秒后关闭 **"
-        "DoorCountDown"        "15"
-    }
-    "*** KILL REMAINING ZOMBIES ***"
-    {
-        "chi"        "**杀死剩余的僵尸 **"
-    }
-    "*** Nice job ! you have unlock stage 3 ! Good luck.. ***"
-    {
-        "chi"        "**干的好！你已经解锁第3关！祝你好运.. **"
-    }
-    "*** STAGE 3 ***"
-    {
-        "chi"        "**第3关 **"
-    }
-    "*** DOOR OPEN IN 15 SCONDS ***"
-    {
-        "chi"        "**门15秒后打开 **"
-        "DoorCountDown"        "15"
-    }
-    "*** Flames are going to stop in 15 seconds ***"
-    {
-        "chi"        "**火焰将在15秒后停止 **"
-    }
-    "*** Turn the levers on two side to open the door ***"
-    {
-        "chi"        "**按两边的控制杆打开门 **"
-    }
-    "*** Right lever has been pressed ***"
-    {
-        "chi"        "**右边控制杆被按下 **"
-    }
-    "*** Left lever has been pressed ***"
-    {
-        "chi"        "**左边控制杆被按下 **"
-    }
-    "*** Door open in 10 seconds ***"
-    {
-        "chi"        "**门10秒后打开 **"
-        "DoorCountDown"        "10"
-    }
-    "*** DOOR OPEN ! FALL BACK ! ***"
-    {
-        "chi"        "**门开了！快后退！ **"
-    }
-    "*** HOLD HERE 25 SECONDS ***"
-    {
-        "chi"        "**在这里守住25秒 **"
-        "DoorCountDown"        "25"
-    }
-    "*** 10 seconds left ***"
-    {
-        "chi"        "**10秒 **"
-    }
-    "*** HOLD HERE 15 SECONDS ***"
-    {
-        "chi"        "**在这里守住15秒 **"
-        "DoorCountDown"        "15"
-    }
-    "*** DOOR OPEN ! ***"
-    {
-        "chi"        "**门开了 **"
-    }
-    "*** DOORS CLOSE IN 15 SECONDS ***"
-    {
-        "chi"        "**门15秒后关闭 **"
-        "DoorCountDown"        "15"
-    }
-    "*** Good job ! STAGE 4 Unlock ***"
-    {
-        "chi"        "**干得好!解锁第4关 **"
-    }
-    "*** LEVEL 4 ***"
-    {
-        "chi"        "**第4关 **"
-    }
-    "*** DOOR OPEN IN 5 SECONDS ***"
-    {
-        "chi"        "**门5秒后打开 **"
-    }
-    "*** FALL BACK IN 15 SECONDS ***"
-    {
-        "chi"        "**15秒后撤退 **"
-        "DoorCountDown"        "15"
-    }
-    "*** TELEPORT IN 25 SECONDS ***"
-    {
-        "chi"        "**在25秒钟后传送 **"
-        "DoorCountDown"        "25"
-    }
-    "*** ELEVADOR WILL MOVE IN 15 SECONDS ***"
-    {
-        "chi"        "**升降梯15秒后上升 **"
-        "DoorCountDown"        "15"
-    }
-    "*** SHOOT BEHIND YOU ! DOOR OPEN IN 10 SECONDS ***"
-    {
-        "chi"        "**射击你的背后！门10秒后打开 **"
-    }
-    "*** Stay on the side ! Nuke explode in 10 seconds ***"
-    {
-        "chi"        "**跑到平台的边缘躲避核弹！核弹10秒后爆炸 **"
-        "ico"        "icon_fire"
-        "DoorCountDown"        "10"
-    }
-    "*** GO INTO THE TELEPORTER IN THE MIDDLE ***"
-    {
-        "chi"        "**进入中间的传送门 **"
-    }
-    "*** THE BRIDGE IS GOING TO BREAK IN 15 SECONDS ***"
-    {
-        "chi"        "**这座桥将在15秒钟后断裂 **"
-    }
-    "*** GOOD JOB ! YOU DID IT ! ***"
-    {
-        "chi"        "**干得好!你做到了。 **"
-    }
-    "*** FINAL STAGE IN DEVELOPMENT  ***"
-    {
-        "chi"        "**最终的关卡即将到来**"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "22120"
-    }
-    "*** This map is based on mg_Serpentis_Temple by Kaemon and Luffaren ***"
-    {
-        "chi"        "**这张地图是基于Kaemon和luffaren制作的mg_serpentis_temple制作的 **"
-    }
-    "*** Many assets from the original map were used ***"
-    {
-        "chi"        "**许多模型是从原来的地图是拿来的 **"
-    }
-    "*** Map By Nostar & Moltard ***"
-    {
-        "chi"        "**地图制作Nostar & Moltard 地图翻译：蓬莱山帅比♪ **"
-    }
-    "*** Find a way to reach the temple ***"
-    {
-        "chi"        "**找到到达圣殿的路 **"
-    }
-    "*** DOOR OPEN IN 30 SECONDS ***"
-    {
-        "chi"        "**大门30秒后打开 **"
-        "DoorCountDown"        "30"
-    }
-    "*** A sacrifice is necessary to open this passage ***"
-    {
-        "chi"        "**为了打开这条通道，牺牲是必要的（一位玩家跳到中间的平台上） **"
-    }
-    "*** Hold 10 seconds ***"
-    {
-        "chi"        "**守住10秒 **"
-    }
-    "*** DOOR CLOSE IN 5 SECONDS ! ***"
-    {
-        "chi"        "**大门5秒后关闭 **"
-    }
-    "*** YOU WON STAGE 1 ***"
-    {
-        "chi"        "**第一阶段完成 **"
-    }
-    "*** STAGE 2 LOADED ***"
-    {
-        "chi"        "**第二阶段加载中 **"
-    }
-    "*** COVER ! GET TO THE DOOR ! ***"
-    {
-        "chi"        "**守住！去门口！ **"
-    }
-    "*** COVER 15 SECONDS ***"
-    {
-        "chi"        "**守住15秒 **"
-    }
-    "*** DOORS OPEN IN 20 SECONDS ***"
-    {
-        "chi"        "**大门20秒后打开 **"
-        "DoorCountDown"        "20"
-    }
-    "*** AFK TELE IN 5 SECONDS ***"
-    {
-        "chi"        "**挂机玩家5秒后传送 **"
-    }
-    "*** NEXT DOOR OPEN IN 10 SECONDS ***"
-    {
-        "chi"        "**下一扇大门10秒后打开 **"
-    }
-    "*** First doors will be close in 5 seconds ***"
-    {
-        "chi"        "**第一扇门5秒后关闭 **"
-    }
-    "*** DOORS CLOSE IN 10 SECONDS ***"
-    {
-        "chi"        "**大门10秒后关闭 **"
-    }
-    "*** YOU WON STAGE 2 ! ***"
-    {
-        "chi"        "**第二阶段完成 **"
-    }
-    "*** STAGE 3 LOADED ***"
-    {
-        "chi"        "**第三阶段加载 **"
-    }
-    "*** C4 EXPLODE IN 25 SECONDS ***"
-    {
-        "chi"        "**C4将在25秒后爆炸 **"
-        "DoorCountDown"        "25"
-    }
-    "*** C4 EXPLODE IN 30 SECONDS ***"
-    {
-        "chi"        "**C4将在30秒后爆炸 **"
-        "DoorCountDown"        "30"
-    }
-    "*** Door opens in 10 seconds ***"
-    {
-        "chi"        "**大门10秒后打开 **"
-    }
-    "*** Door open in 15 seconds ***"
-    {
-        "chi"        "**大门15秒后打开 **"
-    }
-    "*** Hold 20 seconds ***"
-    {
-        "chi"        "**守住20秒 **"
-        "DoorCountDown"        "20"
-    }
-    "*** HOLD HERE 30 SECONDS ***"
-    {
-        "chi"        "**守住30秒 **"
-        "DoorCountDown"        "30"
-    }
-    "*** YOU WON STAGE 3 ! ***"
-    {
-        "chi"        "**第三阶段完成 **"
-    }
-    "*** STAGE 4 LOADED ***"
-    {
-        "chi"        "**第四阶段加载 **"
-    }
-    "*** STAGE 4 ***"
-    {
-        "chi"        "**第四阶段 **"
-    }
-    "*** HOLD HERE 20 SECONDS ***"
-    {
-        "chi"        "**守住这里20秒 **"
-        "DoorCountDown"        "20"
-    }
-    "*** TELEPORT IN 30 SECONDS ***"
-    {
-        "chi"        "**传送30秒后启动 **"
-        "DoorCountDown"        "30"
-    }
-    "*** ELEVATOR WILL MOVE IN 20 SECONDS ***"
-    {
-        "chi"        "**电梯20秒后离开 **"
-        "DoorCountDown"        "20"
-    }
-    "*** Door Opens in 15 seconds ***"
-    {
-        "chi"        "**大门15秒后打开 **"
-    }
-    "*** NUKE IN 7 SECONDS ***"
-    {
-        "chi"        "**核弹7秒后发射 **"
-    }
-    "*** FINAL NUKE IN 20 SECONDS ! KILL HIM ! ***"
-    {
-        "chi"        "**核弹20秒后发射！杀了他 **"
-    }
-    "*** Get in the portal ***"
-    {
-        "chi"        "**进入门里 **"
-    }
-    "*** Impressive ***"
-    {
-        "chi"        "**令人印象深刻 **"
-    }
-    "*** Very impressive ***"
-    {
-        "chi"        "**非常令人印象深刻 **"
-    }
-    "*** But Its too early for celebrating ***"
-    {
-        "chi"        "**但庆祝还为时过早 **"
-    }
-    "*** You are no match for her ***"
-    {
-        "chi"        "**你不是她的对手 **"
-    }
-    "*** STAGE 5 LOADED ***"
-    {
-        "chi"        "**第五阶段加载 **(手电筒启用)"
-        "command"        "sm_flashlight_enabled 1"
-    }
-    "*** STAGE 5 ***"
-    {
-        "chi"        "**阶段五 **"
-    }
-    "*** GET ON THE MIDDLE ***"
-    {
-        "chi"        "**走中间 **"
-    }
-    "*** RUN !!! ***"
-    {
-        "chi"        "**跑 **"
-    }
-    "*** Doors open in 10 Seconds ***"
-    {
-        "chi"        "**大门10秒后开启 **"
-    }
-    "*** Its the Artefact ! ***"
-    {
-        "chi"        "**她的宝藏 **"
-    }
-    "*** This is the reason we came here ***"
-    {
-        "chi"        "**这是我们来到这里的原因！ **"
-    }
-    "*** Take it and dont lose it or your mission will be failed ***"
-    {
-        "chi"        "**拿着它，不要丢了，否则你的任务将会失败 **"
-    }
-    "*** TELEPORT IN 10 SECONDS ***"
-    {
-        "chi"        "**传送10秒后启动 **"
-    }
-    "*** C4 EXPLODE IN 20 SECONDS ***"
-    {
-        "chi"        "**C4将在20秒后爆炸 **"
-        "DoorCountDown"        "20"
-    }
-    "*** FALL BACK !!! ***"
-    {
-        "chi"        "**撤退！ **"
-    }
-    "*** HELICOPTER MOVE IN 10 SECONDS ! ***"
-    {
-        "chi"        "**直升机10秒后离开 **"
-        "DoorCountDown"        "10"
-    }
-    "*** YOU FORGOT THE ARTIFACT ***"
-    {
-        "chi"        "**你忘了水晶 **"
-    }
-    "*** MISSION FAILED ! ***"
-    {
-        "chi"        "**任务失败！ **"
-    }
-    "*** ARTIFACT DETECTED ! ***"
-    {
-        "chi"        "**检测到水晶！ **"
-    }
-    "*** THE MISSION WAS A SUCCESS ! ***"
-    {
-        "chi"        "**任务成功了！ **"
-    }
-    "*** YOU WON THE MAP ! ***"
-    {
-        "chi"        "**你通关了本地图！你是当之无愧的屠蛇英雄！ **"
-    }
-    "*** PUSH REMAINING ZOMBIES ***"
-    {
-        "chi"        "**将剩余的僵尸推下去 **"
-    }
-    "[ADMIN ROOM] STAGE 3 NEXT ROUND"
-    {
-        "chi"        "**管理员将下一回合设置为第三关**"
-    }
-    "[ADMIN ROOM] NUKE IN 5 SECONDS !"
-    {
-        "chi"        "**5秒后核爆**"
-    }
-    "The server is about to close the update ,Please update your game"
-    {
-        "chi"        "** **"
-    }
-    "[ADMIN ROOM] STAGE 4 NEXT ROUND"
-    {
-        "chi"        "** **"
-    }
-    "[ADMIN ROOM] STAGE 5 NEXT ROUND"
-    {
-        "chi"        "** **"
-    }
-    "MapGlobal_ConVars"
-    {
-        "0"
-        {
-            "cvar"        "sm_precache_particles particlesmg_medusa.pcf"
-        }
-        "1"
-        {
-            "cvar"        "sm_cvar sm_g_cv_money 10000"
-        }
-        "2"
-        {
-            "cvar"        "sm_cvar sm_he_limit 6"
-        }
-        "3"
-        {
-            "cvar"        "sm_cvar sm_spawn_give_armor 1"
-        }
-        "4"
-        {
-            "cvar"        "sm_g_cv_money 13000"
-        }
-        "5"
-        {
-            "cvar"        "sm_cvar sm_he_limit 8"
-        }
-        "6"
-        {
-            "cvar"        "sm_cvar sm_nofalldamage 1"
-        }
-        "7"
-        {
-            "cvar"        "sm_set_convar sm_cvar sm_nofalldamage 1"
-        }
-        "8"
-        {
-            "cvar"        "sm_Cvar  sm_flashlight_enabled 1"
-        }
-        "9"
-        {
-            "cvar"        "sm_cvar sm_flashlight_enabled 1"
-        }
-    }
-    "The Edge Of The Platform Will Be Dangerous Except Nuke(In Order To Limit The Area To Hexagonal Field)"
-    {
-        "chi"        "** **"
-    }
-    "** There May Still Be Some Glitches **"
-    {
-        "chi"        "** **"
-    }
-    "*** It's the Artefact ! ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Take it and don't lose it or your mission will be failed ***"
-    {
-        "chi"        "** **"
-    }
-    "### Welcome to Abandoned Bio Bunker  ###"
-    {
-        "chi"        "** **"
-    }
+	"*** Many buildsmodels have been realized by Kaemon ***"
+	{
+		"chi"		"** 模型制作:Kaemon  **"
+	}
+	"*** WARMUP ROUND (50 sec) ***"
+	{
+		"chi"		"**预热局（50秒） **"
+	}
+	"*** WARMUP ROUND (40 sec) ***"
+	{
+		"chi"		"**预热局（40秒） **"
+	}
+	"*** WARMUP ROUND (30 sec) ***"
+	{
+		"chi"		"**预热局（30秒） **"
+	}
+	"*** WARMUP ROUND (20 sec) ***"
+	{
+		"chi"		"**预热局（20秒） **"
+	}
+	"*** WARMUP ROUND (10 sec) ***"
+	{
+		"chi"		"**预热局（10秒） **"
+	}
+	"*** Stage 1 loaded ***"
+	{
+		"chi"		"**加载第一关 **"
+	}
+	"*** Map By Nostar ***"
+	{
+		"chi"		"**地图制作：Nostar 地图翻译：蓬莱山帅比♪ **"
+	}
+	"*** STAGE 1 ***"
+	{
+		"chi"		"**第一关 **"
+	}
+	"*** PRESS 2 CRYSTALS TO OPEN THE DOOR ***"
+	{
+		"chi"		"**按完上面的两个晶体打开门 **"
+	}
+	"*** WARMUP ROUND (60 sec) ***"
+	{
+		"chi"		"**预热局（60秒） **"
+	}
+	"*** Fire Snake has been picked ***"
+	{
+		"chi"		"**火蛇权杖已被拿起 **"
+	}
+	"*** Poison Snake has been picked ***"
+	{
+		"chi"		"**毒蛇权杖已被拿起 **"
+	}
+	"*** DOOR OPEN IN 20 SECONDS ***"
+	{
+		"chi"		"**门20秒后打开 **"
+		"DoorCountDown"		"20"
+	}
+	"*** HealAmmo Snake has been picked ***"
+	{
+		"chi"		"**治愈/无限子弹权杖已被拿起 **"
+	}
+	"*** AFK TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"**在5秒后传送AFK玩家 **"
+	}
+	"*** AFK TELEPORT IN 15 SECONDS ***"
+	{
+		"chi"		"**在15秒后传送AFK玩家 **"
+	}
+	"*** DOOR OPEN IN 25 SECONDS ***"
+	{
+		"chi"		"**门25秒后打开 **"
+		"DoorCountDown"		"25"
+	}
+	"*** TELEPORTATION IN 30 SECONDS ***"
+	{
+		"chi"		"**30秒后传送 **"
+		"DoorCountDown"		"30"
+	}
+	"*** GO GO GO ! Enter in the second room ! ***"
+	{
+		"chi"		"**冲啊 ！进入第二个房间！ **"
+	}
+	"*** ZM TELEPORT IN 10 SECONDS ***"
+	{
+		"chi"		"**僵尸10秒后传送 **"
+	}
+	"*** A sacrifice is necessary to open the passage ***"
+	{
+		"chi"		"**需要一位玩家到中间献祭方可打开通道 **"
+		"ico"		"icon_fire"
+	}
+	"*** The passage will be open in 10 seconds ***"
+	{
+		"chi"		"**该通道将在10秒后打开 **"
+		"DoorCountDown"		"10"
+	}
+	"*** SHOOT MEDUSA !!! ***"
+	{
+		"chi"		"**射击美杜莎! ! ! **"
+		"ico"		"icon_fire"
+	}
+	"*** DOOR CLOSE IN 5 SECONDS ! COVER ! ***"
+	{
+		"chi"		"**门5秒后关闭 **"
+		"DoorCountDown"		"10"
+	}
+	"*** NICE JOB ! YOU WON STAGE 1 ! ***"
+	{
+		"chi"		"**干得好 ！你赢了第1关！ **"
+	}
+	"*** Challenge continue in Stage 2 ! ***"
+	{
+		"chi"		"**继续挑战第二关！ **"
+	}
+	"*** STAGE 2 ***"
+	{
+		"chi"		"**第二关 **"
+	}
+	"*** Enter in the third room ***"
+	{
+		"chi"		"**进入第三个房间 **"
+	}
+	"*** Hold 25 seconds ***"
+	{
+		"chi"		"**守住25秒 **"
+		"DoorCountDown"		"25"
+	}
+	"*** FALL BACK ***"
+	{
+		"chi"		"**后退 **"
+	}
+	"*** Snake come in 25 seconds ***"
+	{
+		"chi"		"**蛇将在25秒后到来 **"
+	}
+	"*** Hold here ***"
+	{
+		"chi"		"**守住这里 **"
+		"ico"		"icon_fire"
+	}
+	"*** CRYSTAL HAS BEEN ACTIVATED ***"
+	{
+		"chi"		"**水晶已被激活 **"
+	}
+	"*** ZM TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"**僵尸5秒后传送 **"
+	}
+	"*** The portal is open in 30 seconds ***"
+	{
+		"chi"		"**门30秒后打开 **"
+		"DoorCountDown"		"30"
+	}
+	"*** PORTAL IS READY ! FALL BACK ! ***"
+	{
+		"chi"		"**门已经准备好了！后退！ **"
+	}
+	"*** AFK TELEPORT IN 10 SECONDS ***"
+	{
+		"chi"		"**10秒后传送AFK玩家 **"
+	}
+	"*** DOOR CLOSE IN 10 SECONDS ***"
+	{
+		"chi"		"**大门10秒后关闭 **"
+		"DoorCountDown"		"10"
+	}
+	"*** GET BACK AND COVER ! EXIT WILL BE OPEN IN 20 SECONDS ***"
+	{
+		"chi"		"**回来守住！后退的路20秒后打开 **"
+		"DoorCountDown"		"20"
+	}
+	"*** COVER ! DOOR CLOSE IN 15 SECONDS ***"
+	{
+		"chi"		"**守住！大门15秒后关闭 **"
+		"DoorCountDown"		"15"
+	}
+	"*** KILL REMAINING ZOMBIES ***"
+	{
+		"chi"		"**杀死剩余的僵尸 **"
+	}
+	"*** Nice job ! you have unlock stage 3 ! Good luck.. ***"
+	{
+		"chi"		"**干的好！你已经解锁第3关！祝你好运.. **"
+	}
+	"*** STAGE 3 ***"
+	{
+		"chi"		"**第3关 **"
+	}
+	"*** DOOR OPEN IN 15 SCONDS ***"
+	{
+		"chi"		"**门15秒后打开 **"
+		"DoorCountDown"		"15"
+	}
+	"*** Flames are going to stop in 15 seconds ***"
+	{
+		"chi"		"**火焰将在15秒后停止 **"
+	}
+	"*** Turn the levers on two side to open the door ***"
+	{
+		"chi"		"**按两边的控制杆打开门 **"
+	}
+	"*** Right lever has been pressed ***"
+	{
+		"chi"		"**右边控制杆被按下 **"
+	}
+	"*** Left lever has been pressed ***"
+	{
+		"chi"		"**左边控制杆被按下 **"
+	}
+	"*** Door open in 10 seconds ***"
+	{
+		"chi"		"**门10秒后打开 **"
+		"DoorCountDown"		"10"
+	}
+	"*** DOOR OPEN ! FALL BACK ! ***"
+	{
+		"chi"		"**门开了！快后退！ **"
+	}
+	"*** HOLD HERE 25 SECONDS ***"
+	{
+		"chi"		"**在这里守住25秒 **"
+		"DoorCountDown"		"25"
+	}
+	"*** 10 seconds left ***"
+	{
+		"chi"		"**10秒 **"
+	}
+	"*** HOLD HERE 15 SECONDS ***"
+	{
+		"chi"		"**在这里守住15秒 **"
+		"DoorCountDown"		"15"
+	}
+	"*** DOOR OPEN ! ***"
+	{
+		"chi"		"**门开了 **"
+	}
+	"*** DOORS CLOSE IN 15 SECONDS ***"
+	{
+		"chi"		"**门15秒后关闭 **"
+		"DoorCountDown"		"15"
+	}
+	"*** Good job ! STAGE 4 Unlock ***"
+	{
+		"chi"		"**干得好!解锁第4关 **"
+	}
+	"*** LEVEL 4 ***"
+	{
+		"chi"		"**第4关 **"
+	}
+	"*** DOOR OPEN IN 5 SECONDS ***"
+	{
+		"chi"		"**门5秒后打开 **"
+	}
+	"*** FALL BACK IN 15 SECONDS ***"
+	{
+		"chi"		"**15秒后撤退 **"
+		"DoorCountDown"		"15"
+	}
+	"*** TELEPORT IN 25 SECONDS ***"
+	{
+		"chi"		"**在25秒钟后传送 **"
+		"DoorCountDown"		"25"
+	}
+	"*** ELEVADOR WILL MOVE IN 15 SECONDS ***"
+	{
+		"chi"		"**升降梯15秒后上升 **"
+		"DoorCountDown"		"15"
+	}
+	"*** SHOOT BEHIND YOU ! DOOR OPEN IN 10 SECONDS ***"
+	{
+		"chi"		"**射击你的背后！门10秒后打开 **"
+	}
+	"*** Stay on the side ! Nuke explode in 10 seconds ***"
+	{
+		"chi"		"**跑到平台的边缘躲避核弹！核弹10秒后爆炸 **"
+		"ico"		"icon_fire"
+		"DoorCountDown"		"10"
+	}
+	"*** GO INTO THE TELEPORTER IN THE MIDDLE ***"
+	{
+		"chi"		"**进入中间的传送门 **"
+	}
+	"*** THE BRIDGE IS GOING TO BREAK IN 15 SECONDS ***"
+	{
+		"chi"		"**这座桥将在15秒钟后断裂 **"
+	}
+	"*** GOOD JOB ! YOU DID IT ! ***"
+	{
+		"chi"		"**干得好!你做到了。 **"
+	}
+	"*** FINAL STAGE IN DEVELOPMENT  ***"
+	{
+		"chi"		"**最终的关卡即将到来**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"22120"
+	}
+	"*** This map is based on mg_Serpentis_Temple by Kaemon and Luffaren ***"
+	{
+		"chi"		"**这张地图是基于Kaemon和luffaren制作的mg_serpentis_temple制作的 **"
+	}
+	"*** Many assets from the original map were used ***"
+	{
+		"chi"		"**许多模型是从原来的地图是拿来的 **"
+	}
+	"*** Map By Nostar & Moltard ***"
+	{
+		"chi"		"**地图制作Nostar & Moltard 地图翻译：蓬莱山帅比♪ **"
+	}
+	"*** Find a way to reach the temple ***"
+	{
+		"chi"		"**找到到达圣殿的路 **"
+	}
+	"*** DOOR OPEN IN 30 SECONDS ***"
+	{
+		"chi"		"**大门30秒后打开 **"
+		"DoorCountDown"		"30"
+	}
+	"*** A sacrifice is necessary to open this passage ***"
+	{
+		"chi"		"**为了打开这条通道，牺牲是必要的（一位玩家跳到中间的平台上） **"
+	}
+	"*** Hold 10 seconds ***"
+	{
+		"chi"		"**守住10秒 **"
+	}
+	"*** DOOR CLOSE IN 5 SECONDS ! ***"
+	{
+		"chi"		"**大门5秒后关闭 **"
+	}
+	"*** YOU WON STAGE 1 ***"
+	{
+		"chi"		"**第一阶段完成 **"
+	}
+	"*** STAGE 2 LOADED ***"
+	{
+		"chi"		"**第二阶段加载中 **"
+	}
+	"*** COVER ! GET TO THE DOOR ! ***"
+	{
+		"chi"		"**守住！去门口！ **"
+	}
+	"*** COVER 15 SECONDS ***"
+	{
+		"chi"		"**守住15秒 **"
+	}
+	"*** DOORS OPEN IN 20 SECONDS ***"
+	{
+		"chi"		"**大门20秒后打开 **"
+		"DoorCountDown"		"20"
+	}
+	"*** AFK TELE IN 5 SECONDS ***"
+	{
+		"chi"		"**挂机玩家5秒后传送 **"
+	}
+	"*** NEXT DOOR OPEN IN 10 SECONDS ***"
+	{
+		"chi"		"**下一扇大门10秒后打开 **"
+	}
+	"*** First doors will be close in 5 seconds ***"
+	{
+		"chi"		"**第一扇门5秒后关闭 **"
+	}
+	"*** DOORS CLOSE IN 10 SECONDS ***"
+	{
+		"chi"		"**大门10秒后关闭 **"
+	}
+	"*** YOU WON STAGE 2 ! ***"
+	{
+		"chi"		"**第二阶段完成 **"
+	}
+	"*** STAGE 3 LOADED ***"
+	{
+		"chi"		"**第三阶段加载 **"
+	}
+	"*** C4 EXPLODE IN 25 SECONDS ***"
+	{
+		"chi"		"**C4将在25秒后爆炸 **"
+		"DoorCountDown"		"25"
+	}
+	"*** C4 EXPLODE IN 30 SECONDS ***"
+	{
+		"chi"		"**C4将在30秒后爆炸 **"
+		"DoorCountDown"		"30"
+	}
+	"*** Door opens in 10 seconds ***"
+	{
+		"chi"		"**大门10秒后打开 **"
+	}
+	"*** Door open in 15 seconds ***"
+	{
+		"chi"		"**大门15秒后打开 **"
+	}
+	"*** Hold 20 seconds ***"
+	{
+		"chi"		"**守住20秒 **"
+		"DoorCountDown"		"20"
+	}
+	"*** HOLD HERE 30 SECONDS ***"
+	{
+		"chi"		"**守住30秒 **"
+		"DoorCountDown"		"30"
+	}
+	"*** YOU WON STAGE 3 ! ***"
+	{
+		"chi"		"**第三阶段完成 **"
+	}
+	"*** STAGE 4 LOADED ***"
+	{
+		"chi"		"**第四阶段加载 **"
+	}
+	"*** STAGE 4 ***"
+	{
+		"chi"		"**第四阶段 **"
+	}
+	"*** HOLD HERE 20 SECONDS ***"
+	{
+		"chi"		"**守住这里20秒 **"
+		"DoorCountDown"		"20"
+	}
+	"*** TELEPORT IN 30 SECONDS ***"
+	{
+		"chi"		"**传送30秒后启动 **"
+		"DoorCountDown"		"30"
+	}
+	"*** ELEVATOR WILL MOVE IN 20 SECONDS ***"
+	{
+		"chi"		"**电梯20秒后离开 **"
+		"DoorCountDown"		"20"
+	}
+	"*** Door Opens in 15 seconds ***"
+	{
+		"chi"		"**大门15秒后打开 **"
+	}
+	"*** NUKE IN 7 SECONDS ***"
+	{
+		"chi"		"**核弹7秒后发射 **"
+	}
+	"*** FINAL NUKE IN 20 SECONDS ! KILL HIM ! ***"
+	{
+		"chi"		"**核弹20秒后发射！杀了他 **"
+	}
+	"*** Get in the portal ***"
+	{
+		"chi"		"**进入门里 **"
+	}
+	"*** Impressive ***"
+	{
+		"chi"		"**令人印象深刻 **"
+	}
+	"*** Very impressive ***"
+	{
+		"chi"		"**非常令人印象深刻 **"
+	}
+	"*** But Its too early for celebrating ***"
+	{
+		"chi"		"**但庆祝还为时过早 **"
+	}
+	"*** You are no match for her ***"
+	{
+		"chi"		"**你不是她的对手 **"
+	}
+	"*** STAGE 5 LOADED ***"
+	{
+		"chi"		"**第五阶段加载 **(手电筒启用)"
+		"command"		"sm_flashlight_enabled 1"
+	}
+	"*** STAGE 5 ***"
+	{
+		"chi"		"**阶段五 **"
+	}
+	"*** GET ON THE MIDDLE ***"
+	{
+		"chi"		"**走中间 **"
+	}
+	"*** RUN !!! ***"
+	{
+		"chi"		"**跑 **"
+	}
+	"*** Doors open in 10 Seconds ***"
+	{
+		"chi"		"**大门10秒后开启 **"
+	}
+	"*** Its the Artefact ! ***"
+	{
+		"chi"		"**她的宝藏 **"
+	}
+	"*** This is the reason we came here ***"
+	{
+		"chi"		"**这是我们来到这里的原因！ **"
+	}
+	"*** Take it and dont lose it or your mission will be failed ***"
+	{
+		"chi"		"**拿着它，不要丢了，否则你的任务将会失败 **"
+	}
+	"*** TELEPORT IN 10 SECONDS ***"
+	{
+		"chi"		"**传送10秒后启动 **"
+	}
+	"*** C4 EXPLODE IN 20 SECONDS ***"
+	{
+		"chi"		"**C4将在20秒后爆炸 **"
+		"DoorCountDown"		"20"
+	}
+	"*** FALL BACK !!! ***"
+	{
+		"chi"		"**撤退！ **"
+	}
+	"*** HELICOPTER MOVE IN 10 SECONDS ! ***"
+	{
+		"chi"		"**直升机10秒后离开 **"
+		"DoorCountDown"		"10"
+	}
+	"*** YOU FORGOT THE ARTIFACT ***"
+	{
+		"chi"		"**你忘了水晶 **"
+	}
+	"*** MISSION FAILED ! ***"
+	{
+		"chi"		"**任务失败！ **"
+	}
+	"*** ARTIFACT DETECTED ! ***"
+	{
+		"chi"		"**检测到水晶！ **"
+	}
+	"*** THE MISSION WAS A SUCCESS ! ***"
+	{
+		"chi"		"**任务成功了！ **"
+	}
+	"*** YOU WON THE MAP ! ***"
+	{
+		"chi"		"**你通关了本地图！你是当之无愧的屠蛇英雄！ **"
+	}
+	"*** PUSH REMAINING ZOMBIES ***"
+	{
+		"chi"		"**将剩余的僵尸推下去 **"
+	}
+	"[ADMIN ROOM] STAGE 3 NEXT ROUND"
+	{
+		"chi"		"**管理员将下一回合设置为第三关**"
+	}
+	"[ADMIN ROOM] NUKE IN 5 SECONDS !"
+	{
+		"chi"		"**5秒后核爆**"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"[ADMIN ROOM] STAGE 4 NEXT ROUND"
+	{
+		"chi"		"** **"
+	}
+	"[ADMIN ROOM] STAGE 5 NEXT ROUND"
+	{
+		"chi"		"** **"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_precache_particles particlesmg_medusa.pcf"
+		}
+		"1"
+		{
+			"cvar"		"sm_cvar sm_g_cv_money 10000"
+		}
+		"2"
+		{
+			"cvar"		"sm_cvar sm_he_limit 6"
+		}
+		"3"
+		{
+			"cvar"		"sm_cvar sm_spawn_give_armor 1"
+		}
+		"4"
+		{
+			"cvar"		"sm_g_cv_money 13000"
+		}
+		"5"
+		{
+			"cvar"		"sm_cvar sm_he_limit 8"
+		}
+		"6"
+		{
+			"cvar"		"sm_cvar sm_nofalldamage 1"
+		}
+		"7"
+		{
+			"cvar"		"sm_set_convar sm_cvar sm_nofalldamage 1"
+		}
+		"8"
+		{
+			"cvar"		"sm_Cvar  sm_flashlight_enabled 1"
+		}
+		"9"
+		{
+			"cvar"		"sm_cvar sm_flashlight_enabled 1"
+		}
+	}
+	"The Edge Of The Platform Will Be Dangerous Except Nuke(In Order To Limit The Area To Hexagonal Field)"
+	{
+		"chi"		"** **"
+	}
+	"** There May Still Be Some Glitches **"
+	{
+		"chi"		"** **"
+	}
+	"*** It's the Artefact ! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Take it and don't lose it or your mission will be failed ***"
+	{
+		"chi"		"** **"
+	}
+	"### Welcome to Abandoned Bio Bunker  ###"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,0 +1,60 @@
+"Console_T"
+{
+	"*** USE CONTROL PANEL TO STOP FANS ***"
+	{
+		"chi"		"**使用控制面板停止风扇!**"
+	}
+	"*** WARNING - FANS STOP AND START AUTOMATICALLY ***"
+	{
+		"chi"		"**警告：小心被卷入风扇！！！风扇将会每隔一段时间自动停止然后在次启动，注意把握时机。**"
+	}
+	"*** WAIT FOR DOOR TO OPEN ***"
+	{
+		"chi"		"**等待门开启！  在这之前先防御僵尸直至关门！**"
+	}
+	"*** SMALL DOORS CLOSING ***"
+	{
+		"chi"		"**小门正在关闭！**"
+	}
+	"*** USE THE FAN TO PUSH YOU UP ***"
+	{
+		"chi"		"**利用风扇的推力将你自己送到上面的平台去！**"
+	}
+	"*** WARNING - RAIL AND WATER HIGH VOLTAGE ***"
+	{
+		"chi"		"**警告：铁轨和水中都充满了高压电！**"
+	}
+	"*** TRUCKS GETTING FUEL - 1 MINUTE UNTILL READY ***"
+	{
+		"chi"		"**卡车的燃料正在准备！请等待 60 秒！**"
+                                "DoorCountdown"                "60"
+	}
+	"*** DOORS CLOSING ***"
+	{
+		"chi"		"**闸门正在关闭！！**"
+	}
+	"*** DOOR MALFUNCTION ***"
+	{
+		"chi"		"**闸门发生了故障！！**"
+	}
+	"*** TRUCKS FUEL DONE - GET IN TRUCKS ***"
+	{
+		"chi"		"**卡车出发！！**"
+	}
+	"*** USE RADIO TO LAUNCH NUKE ***"
+	{
+		"chi"		"**使用无线电发射核弹**"
+	}
+	"*** NUKE IN 5 SECONDS ***"
+	{
+		"chi"		"**核弹将在 5 秒后爆炸！**"
+	}
+	"***Map Ported By Et3rnity***"
+	{
+		"chi"		"**地图移植 by Et3rnity  地图翻译 by 色狼领袖**"
+	}
+	"*** MAP BY JB_GAMBLE ***"
+	{
+		"chi"		"**地图制作 by JB_GAMBLE 地图翻译 by 色狼领袖**"
+	}
+}

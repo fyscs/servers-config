@@ -2,283 +2,81 @@
 {
 	"** LEVEL: NOT TOO ROUGH **"
 	{
-		"chi"		"**当前难度 简单 **"
+		"chi"		"**阶段：一般一般**"
 	}
 	"** Map by Night Fury **"
 	{
-		"chi"		"**作者 Night Fury 翻译 BAKA_Miku **"
-	}
-	"** Door opening in 30 seconds! **"
-	{
-		"chi"		"30秒后开门！"
-		"DoorCountdown"		"30"
-	}
-	"** Door opening in 10 seconds! **"
-	{
-		"chi"		"10秒"
-	}
-	"** Door opened! **"
-	{
-		"chi"		"门开了"
+		"chi"		"**地图制作： Night Fury   地图翻译：叶巷**"
 	}
 	"A player has aquired the soulsphere powerup!"
 	{
-		"chi"		"玩家捡起了能量装置！"
+		"chi"		"**一位玩家获得了能量装置**"
+	}
+	"** Door opening in 30 seconds! **"
+	{
+		"chi"		"**门将在30秒后打开！守住！**"
 	}
 	"Soulsphere power has 2 charges and a 120 second cooldown!"
 	{
-		"chi"		"能量装置能使用2次并且拥有120秒冷却CD[将人类血量恢复至150HP]"
-		"DoorCountdown"		"-1"
+		"chi"		"**能量装置只能奶2次！CD是120秒！**"
 	}
-	"First soulsphere charge used!"
+	"** Door opening in 10 seconds! **"
 	{
-		"chi"		"能量装置被使用！"
+		"chi"		"**门将在10秒后打开！不要开假枪！**"
 	}
-	"Soulsphere first charge depleted!"
+	"** Door opened! **"
 	{
-		"chi"		"**第一次能量装置耗尽 **"
+		"chi"		"**门开了哦！**"
 	}
 	"** Door opening in 25 seconds! **"
 	{
-		"chi"		"门将在25秒后打开"
+		"chi"		"**门将在25秒后打开！给老子守住！**"
 	}
-	"** Door opening in 25 seconds **"
+	"First soulsphere charge used!"
 	{
-		"chi"		"门将在25秒后打开      "
-		"DoorCountdown"		"                "
+		"chi"		"**能量装置使用了一次！**"
 	}
-	"** Door opening in 10 seconds **"
+	"Soulsphere first charge depleted!"
 	{
-		"chi"		"**门将在10秒后打开 **"
-	}
-	"** Door Opening in 23 Seconds **"
-	{
-		"chi"		"门将在23秒后打开"
-	}
-	"** Opening door in 15 Seconds!! **"
-	{
-		"chi"		"门将在15秒后打开！守住！"
-	}
-	"** Resist! a few seconds more **"
-	{
-		"chi"		"再坚持一会儿！"
-	}
-	"** Exit door opening in 40 seconds! **"
-	{
-		"chi"		"40秒后逃生门打开！"
-		"DoorCountdown"		"40"
+		"chi"		"**能量装置第一次充能耗尽！**"
 	}
 	"Soulsphere recharged!"
 	{
-		"chi"		"能量装置就绪！"
-	}
-	"** Exit door opening in 10 seconds! **"
-	{
-		"chi"		"逃生门将在10秒后打开！"
-	}
-	"** Exit door opened! **"
-	{
-		"chi"		"门开了"
-	}
-	"** BAD WIN!! ZOMBIES DETECTED!! **"
-	{
-		"chi"		"任务失败 僵尸进入"
-	}
-	"** Exit door closing in 15 seconds! **"
-	{
-		"chi"		"逃生门15秒后关闭"
-		"DoorCountdown"		"15"
-	}
-	"** Exit door closed! **"
-	{
-		"chi"		"关门！"
-	}
-	"** LEVEL: NO REST FOR LIVING **"
-	{
-		"chi"		"**当前难度 普通 **"
-	}
-	"** Opening Door... **"
-	{
-		"chi"		"**门正在打开 **"
-	}
-	"** Door opening in 20 seconds! **"
-	{
-		"chi"		"**门将在20秒后打开 **"
-	}
-	"** Door Opened **"
-	{
-		"chi"		"**门已打开 **"
-	}
-	"** Door Opening in 15 Seconds !!!**"
-	{
-		"chi"		"**门将在15秒后打开 **"
-	}
-	"** Opening door in 20 Seconds **"
-	{
-		"chi"		"**门将在20秒后打开 **"
-	}
-	"** Opening door in 10 Seconds **"
-	{
-		"chi"		"**门将在10秒后打开 **"
-	}
-	"** Elevator Leaving in 35 Seconds...**"
-	{
-		"chi"		"**电梯将在35秒后升起 **"
-		"DoorCountdown"		"35"
-	}
-	"** Elevator Leaving in 10 Seconds...**"
-	{
-		"chi"		"**电梯将在10秒后升起 **"
-	}
-	"** BAD WIN!! ZOMBIES DETECTED **"
-	{
-		"chi"		"**任务失败 僵尸进入 **"
-	}
-	"** Killing exit room in 10 seconds! **"
-	{
-		"chi"		"**逃生门将在10秒后打开 **"
+		"chi"		"**能量装置充电完成！**"
 	}
 	"Soulsphere final charge used!"
 	{
-		"chi"		"**最后一次能量装置被使用 **"
+		"chi"		"**能量装置使用第二次！**"
 	}
 	"Soulsphere power fully depleted!"
 	{
-		"chi"		"**能量装置已耗尽 **"
+		"chi"		"**能量装置所有次数耗尽！**"
 	}
-	"Soulsphere recharged"
+	"** Door opening in 25 seconds **"
 	{
-		"chi"		"**能量装置重新装填 **"
+		"chi"		"**门将在25秒后打开！压住！**"
 	}
-	"** LEVEL: NIGHTMARE **"
+	"** Door opening in 10 seconds **"
 	{
-		"chi"		"**当前难度 困难 **"
+		"chi"		"**门将在10秒后打开！不要着急！**"
 	}
-	"** Door opening in 40 seconds! **"
+	"** Door Opening in 23 Seconds **"
 	{
-		"chi"		"**门将在40秒后打开 **"
+		"chi"		"**门将在23秒后打开！全力开火！**"
 	}
-	"** Opening door in 10 seconds... **"
+	"** Opening door in 15 Seconds!! **"
 	{
-		"chi"		"**门将在10秒后打开 **"
+		"chi"		"**门将在15秒后打开！顶住！**"
 	}
-	"** Opening X door in few seconds **"
+	"** Resist! a few seconds more **"
 	{
-		"chi"		"**X大门将在一段时间后打开 **"
+		"chi"		"**坚持住！还需要一点时间！！**"
 	}
-	"** Teleport active in 40 seconds! **"
+	"** Exit door opening in 40 seconds! **"
 	{
-		"chi"		"**传送将在40秒后激活 **"
+		"chi"		"**撤退的门将会在40秒后打开！**"
 	}
-	"** Teleport active in 10 seconds! **"
-	{
-		"chi"		"**传送将在10秒后激活 **"
-	}
-	"** Teleport active! **"
-	{
-		"chi"		"**传送已激活 **"
-	}
-	"** Humans have 2 minutes to deafet the boss! **"
-	{
-		"chi"		"**人类有2分钟的时间攻击boss **"
-	}
-	"** Boss defeated! **"
-	{
-		"chi"		"**已击败boss **"
-	}
-	"** Zombies have been released! **"
-	{
-		"chi"		"**已释放僵尸 **"
-	}
-	"** Exit door closing in 40 seconds! **"
-	{
-		"chi"		"**逃生门将在40秒后打开 **"
-	}
-	"A player has aquired berserker powerup!"
-	{
-		"chi"		"**一位玩家的到狂战士能量 **"
-	}
-	"Berserker powerup has one charge!"
-	{
-		"chi"		"**狂战士能量只能使用一次 **"
-	}
-	"Beserker has been enabled!"
-	{
-		"chi"		"**狂战士能量充能完毕 **"
-	}
-	"Beserker charge depleting in 3"
-	{
-		"chi"		"**狂战士能量将在3秒后消耗殆尽 **"
-	}
-	"Beserker charge depleting in 2"
-	{
-		"chi"		"**狂战士能量将在2秒后消耗殆尽 **"
-	}
-	"Beserker charge depleting in 1"
-	{
-		"chi"		"**狂战士能量将在1秒后消耗殆尽 **"
-	}
-	"Beserker charge fully depleted!"
-	{
-		"chi"		"**狂战士能量已完全消失 **"
-	}
-	"** Exit door closing in 10 seconds! **"
-	{
-		"chi"		"**逃生门将在10秒后关闭 **"
-	}
-	"**Map made by Eugenio *Motanum* Roman**"
-	{
-		"chi"		"**作者 Eugenio *Motanum* Roman**"
-	}
-	"** 10 seconds left to kill boss! **"
-	{
-		"chi"		"** **"
-	}
-	"** Humans failed! **"
-	{
-		"chi"		"** **"
-	}
-	"A player has aquired the BFG!"
-	{
-		"chi"		"** **"
-	}
-	"BFG powerup has one shot!"
-	{
-		"chi"		"** **"
-	}
-	"BFG only usable 30 seconds after pickup!"
-	{
-		"chi"		"** **"
-	}
-	"BFG now usable!"
-	{
-		"chi"		"** **"
-	}
-	"Bfg used!"
-	{
-		"chi"		"** **"
-	}
-	"A player has aquired the megasphere powerup!"
-	{
-		"chi"		"** **"
-	}
-	"Megasphere powerup has one charge!"
-	{
-		"chi"		"** **"
-	}
-	"Megasphere only usable 30 seconds after pikcup!"
-	{
-		"chi"		"** **"
-	}
-	"Megasphere now usable!"
-	{
-		"chi"		"** **"
-	}
-	"Megasphere used!"
-	{
-		"chi"		"** **"
-	}
-	"Megasphere power depleted!"
+	"***STAGE 1 -- THE SHIP***"
 	{
 		"chi"		"** **"
 	}

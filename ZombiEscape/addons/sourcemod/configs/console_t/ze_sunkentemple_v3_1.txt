@@ -1,210 +1,210 @@
 "Console_T"
 {
-    ">>> LFG SUNKENTEMPLE <<<"
-    {
-        "chi"        "**魔兽世界：沉没的神庙 **"
-    }
-    ">>> Zombies will teleport in 10 seconds <<<"
-    {
-        "chi"        "**僵尸10秒后传送 **"
-    }
-    ">>> Fall pit will break in 20 seconds <<<"
-    {
-        "chi"        "**20秒后道路开放 **"
-        "DoorCountdown"        "20"
-    }
-    ">>> Fall pit will break in 5 seconds <<<"
-    {
-        "chi"        "**5秒后道路开放 **"
-    }
-    ">>> GATE IS OPENING <<<"
-    {
-        "chi"        "**门开了 **"
-    }
-    ">>> Zombies will teleport in 20 seconds <<<"
-    {
-        "chi"        "**僵尸20秒后传送 **"
-    }
-    ">>> DEFEND <<<"
-    {
-        "chi"        "**守住 **"
-    }
-    ">>> Wall has been picked <<<"
-    {
-        "chi"        "**墙已被拿起 **"
-    }
-    ">>> Push has been picked <<<"
-    {
-        "chi"        "**风已被拿起 **"
-    }
-    ">>> Gate will open in 10 seconds <<<"
-    {
-        "chi"        "**大门将在10秒后打开 **"
-    }
-    ">>> Zombies teleport in 15 seconds <<<"
-    {
-        "chi"        "**僵尸15秒后传送 **"
-    }
-    ">>> Gate will open in 20 seconds <<<"
-    {
-        "chi"        "**大门将在20秒后打开 **"
-        "DoorCountdown"        "20"
-    }
-    ">>> Gate will open in 5 seconds <<<"
-    {
-        "chi"        "**大门将在5秒后打开 **"
-    }
-    ">>> Gate will open in 15 seconds <<<"
-    {
-        "chi"        "**大门将在15秒后打开 **"
-        "DoorCountdown"        "15"
-    }
-    ">>> Split up and keep defending <<<"
-    {
-        "chi"        "**守住2个口子 **"
-    }
-    ">>> Lower gate will open in 40 seconds <<<"
-    {
-        "chi"        "**下面的门将在40秒后打开 **"
-        "DoorCountdown"        "40"
-    }
-    ">>> Lower gate will open in 10 seconds <<<"
-    {
-        "chi"        "**下面的门将在10秒后打开 **"
-    }
-    ">>> Upper gate will open in 25 seconds <<<"
-    {
-        "chi"        "**上面的门将在25秒后打开 **"
-    }
-    ">>> Keep defending untill the gate closes <<<"
-    {
-        "chi"        "**防守，直到门关闭 **"
-    }
-    ">>> FIND ANOTHER WAY  FAST <<<"
-    {
-        "chi"        "**找到另一条路 **"
-    }
-    ">>> Try shooting the walls <<<"
-    {
-        "chi"        "**试着射击墙壁 **"
-    }
-    ">>> Zombies will teleport in 25 seconds <<<"
-    {
-        "chi"        "**僵尸25秒后传送 **"
-    }
-    ">>> Door will open in 20 seconds <<<"
-    {
-        "chi"        "**门20秒后开启 **"
-        "DoorCountdown"        "20"
-    }
-    ">>> Zombies will teleport in 15 seconds <<<"
-    {
-        "chi"        "**僵尸15秒后传送 **"
-    }
-    ">>> Wall will break in 25 seconds <<<"
-    {
-        "chi"        "**墙壁将在25秒后破碎 **"
-        "DoorCountdown"        "25"
-    }
-    ">>> All levers has been pressed <<<"
-    {
-        "chi"        "**所有杠杆已被拉下 **"
-    }
-    ">>> Pit will open in 25 seconds <<<"
-    {
-        "chi"        "**25秒后道路开放 **"
-        "DoorCountdown"        "25"
-    }
-    ">>> Pit will open in 5 seconds <<<"
-    {
-        "chi"        "**5秒后道路开放 **"
-    }
-    ">>> SLASH <<<"
-    {
-        "chi"        "**跳刀(原地等2秒起跳) **"
-        "ico"        "icon_fire"
-    }
-    ">>> RED <<<"
-    {
-        "chi"        "**红(站在中间柱子躲避火焰)  **"
-        "ico"        "icon_fire"
-    }
-    ">>> YELLOW <<<"
-    {
-        "chi"        "**黄(往上下左右的柱子移动) **"
-        "ico"        "icon_fire"
-    }
-    ">>> Heal has been picked <<<"
-    {
-        "chi"        "**奶已被拿起 **"
-    }
-    ">>> PURPLE <<<"
-    {
-        "chi"        "**紫（站在中间不要动） **"
-        "ico"        "icon_fire"
-    }
-    ">>> BLUE <<<"
-    {
-        "chi"        "**蓝(往四个角落的柱子移动） **"
-        "ico"        "icon_fire"
-    }
-    ">>> GREEN <<<"
-    {
-        "chi"        "**绿（站在中间的柱子上） **"
-        "ico"        "icon_fire"
-    }
-    "*** YOU KILLED THE BOSS ***"
-    {
-        "chi"        "**你杀死了BOSS **"
-    }
-    ">>> Drawbridge will open in 15 seconds <<<"
-    {
-        "chi"        "**吊桥在15秒后启动 **"
-        "DoorCountdown"        "15"
-    }
-    ">>> Gate will close in 15 seconds <<<"
-    {
-        "chi"        "**大门将在15秒后关闭 **"
-    }
-    ">>> Thanks for playing <<<"
-    {
-        "chi"        "**谢谢你的游玩 **"
-    }
-    ">>> Map made by Ripsaw <<<"
-    {
-        "chi"        "**地图作者：Ripsaw 地图翻译：蓬莱山帅比♪**"
-    }
-    ">>> Thanks to Luffaren for the lever model <<<"
-    {
-        "chi"        "**谢谢Luffaren制作的拉杆模型 **"
-    }
-    ">>> Thanks to Syoudous & Enviolinador for help  Tips"
-    {
-        "chi"        "**谢谢Syoudous和Enviolinador的提示 **"
-    }
-    ">>> Gate will open in 40 seconds <<<"
-    {
-        "chi"        "**大门40秒后开启 **"
-        "DoorCountdown"        "40"
-    }
-    ">>> Gate will close in 10 seconds <<<"
-    {
-        "chi"        "**大门10秒后关闭 **"
-    }
-    "<<< Map by Jllaneras >>>"
-    {
-        "chi"        "** **"
-    }
-    "<<< Trial 1 >>>"
-    {
-        "chi"        "** **"
-    }
-    "**Thanks to Airvulpes for the textures**"
-    {
-        "chi"        "** **"
-    }
-    "* * Map by Mojonero * *"
-    {
-        "chi"        "** **"
-    }
+	">>> LFG SUNKENTEMPLE <<<"
+	{
+		"chi"		"**魔兽世界：沉没的神庙 **"
+	}
+	">>> Zombies will teleport in 10 seconds <<<"
+	{
+		"chi"		"**僵尸10秒后传送 **"
+	}
+	">>> Fall pit will break in 20 seconds <<<"
+	{
+		"chi"		"**20秒后道路开放 **"
+		"DoorCountdown"		"20"
+	}
+	">>> Fall pit will break in 5 seconds <<<"
+	{
+		"chi"		"**5秒后道路开放 **"
+	}
+	">>> GATE IS OPENING <<<"
+	{
+		"chi"		"**门开了 **"
+	}
+	">>> Zombies will teleport in 20 seconds <<<"
+	{
+		"chi"		"**僵尸20秒后传送 **"
+	}
+	">>> DEFEND <<<"
+	{
+		"chi"		"**守住 **"
+	}
+	">>> Wall has been picked <<<"
+	{
+		"chi"		"**墙已被拿起 **"
+	}
+	">>> Push has been picked <<<"
+	{
+		"chi"		"**风已被拿起 **"
+	}
+	">>> Gate will open in 10 seconds <<<"
+	{
+		"chi"		"**大门将在10秒后打开 **"
+	}
+	">>> Zombies teleport in 15 seconds <<<"
+	{
+		"chi"		"**僵尸15秒后传送 **"
+	}
+	">>> Gate will open in 20 seconds <<<"
+	{
+		"chi"		"**大门将在20秒后打开 **"
+		"DoorCountdown"		"20"
+	}
+	">>> Gate will open in 5 seconds <<<"
+	{
+		"chi"		"**大门将在5秒后打开 **"
+	}
+	">>> Gate will open in 15 seconds <<<"
+	{
+		"chi"		"**大门将在15秒后打开 **"
+		"DoorCountdown"		"15"
+	}
+	">>> Split up and keep defending <<<"
+	{
+		"chi"		"**守住2个口子 **"
+	}
+	">>> Lower gate will open in 40 seconds <<<"
+	{
+		"chi"		"**下面的门将在40秒后打开 **"
+		"DoorCountdown"		"40"
+	}
+	">>> Lower gate will open in 10 seconds <<<"
+	{
+		"chi"		"**下面的门将在10秒后打开 **"
+	}
+	">>> Upper gate will open in 25 seconds <<<"
+	{
+		"chi"		"**上面的门将在25秒后打开 **"
+	}
+	">>> Keep defending untill the gate closes <<<"
+	{
+		"chi"		"**防守，直到门关闭 **"
+	}
+	">>> FIND ANOTHER WAY  FAST <<<"
+	{
+		"chi"		"**找到另一条路 **"
+	}
+	">>> Try shooting the walls <<<"
+	{
+		"chi"		"**试着射击墙壁 **"
+	}
+	">>> Zombies will teleport in 25 seconds <<<"
+	{
+		"chi"		"**僵尸25秒后传送 **"
+	}
+	">>> Door will open in 20 seconds <<<"
+	{
+		"chi"		"**门20秒后开启 **"
+		"DoorCountdown"		"20"
+	}
+	">>> Zombies will teleport in 15 seconds <<<"
+	{
+		"chi"		"**僵尸15秒后传送 **"
+	}
+	">>> Wall will break in 25 seconds <<<"
+	{
+		"chi"		"**墙壁将在25秒后破碎 **"
+		"DoorCountdown"		"25"
+	}
+	">>> All levers has been pressed <<<"
+	{
+		"chi"		"**所有杠杆已被拉下 **"
+	}
+	">>> Pit will open in 25 seconds <<<"
+	{
+		"chi"		"**25秒后道路开放 **"
+		"DoorCountdown"		"25"
+	}
+	">>> Pit will open in 5 seconds <<<"
+	{
+		"chi"		"**5秒后道路开放 **"
+	}
+	">>> SLASH <<<"
+	{
+		"chi"		"**跳刀(原地等2秒起跳) **"
+		"ico"		"icon_fire"
+	}
+	">>> RED <<<"
+	{
+		"chi"		"**红(站在中间柱子躲避火焰)  **"
+		"ico"		"icon_fire"
+	}
+	">>> YELLOW <<<"
+	{
+		"chi"		"**黄(往上下左右的柱子移动) **"
+		"ico"		"icon_fire"
+	}
+	">>> Heal has been picked <<<"
+	{
+		"chi"		"**奶已被拿起 **"
+	}
+	">>> PURPLE <<<"
+	{
+		"chi"		"**紫（站在中间不要动） **"
+		"ico"		"icon_fire"
+	}
+	">>> BLUE <<<"
+	{
+		"chi"		"**蓝(往四个角落的柱子移动） **"
+		"ico"		"icon_fire"
+	}
+	">>> GREEN <<<"
+	{
+		"chi"		"**绿（站在中间的柱子上） **"
+		"ico"		"icon_fire"
+	}
+	"*** YOU KILLED THE BOSS ***"
+	{
+		"chi"		"**你杀死了BOSS **"
+	}
+	">>> Drawbridge will open in 15 seconds <<<"
+	{
+		"chi"		"**吊桥在15秒后启动 **"
+		"DoorCountdown"		"15"
+	}
+	">>> Gate will close in 15 seconds <<<"
+	{
+		"chi"		"**大门将在15秒后关闭 **"
+	}
+	">>> Thanks for playing <<<"
+	{
+		"chi"		"**谢谢你的游玩 **"
+	}
+	">>> Map made by Ripsaw <<<"
+	{
+		"chi"		"**地图作者：Ripsaw 地图翻译：蓬莱山帅比♪**"
+	}
+	">>> Thanks to Luffaren for the lever model <<<"
+	{
+		"chi"		"**谢谢Luffaren制作的拉杆模型 **"
+	}
+	">>> Thanks to Syoudous & Enviolinador for help  Tips"
+	{
+		"chi"		"**谢谢Syoudous和Enviolinador的提示 **"
+	}
+	">>> Gate will open in 40 seconds <<<"
+	{
+		"chi"		"**大门40秒后开启 **"
+		"DoorCountdown"		"40"
+	}
+	">>> Gate will close in 10 seconds <<<"
+	{
+		"chi"		"**大门10秒后关闭 **"
+	}
+	"<<< Map by Jllaneras >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Trial 1 >>>"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to Airvulpes for the textures**"
+	{
+		"chi"		"** **"
+	}
+	"* * Map by Mojonero * *"
+	{
+		"chi"		"** **"
+	}
 }

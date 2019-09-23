@@ -2,141 +2,70 @@
 {
 	"** Map made by li-ion **"
 	{
-		"chi"		"**地图制作：li-ion 地图翻译：清新的二哈♪ **"
+		"chi"		"** **"
 	}
 	"** My first map hope you like it, enjoy **"
 	{
-		"chi"		"**这是我做的第一张图，希望你能喜欢它 **"
+		"chi"		"** **"
 	}
 	"** The door will open in 15 sec **"
 	{
-		"chi"		"**大门将在15s后打开 **"
+		"chi"		"** **"
 	}
 	"** FALL BACK **"
 	{
-		"chi"		"**撤退 **"
-	}
-	"** The teleport will enable in 20 sec **"
-	{
-		"chi"		"**传送将在20s后激活 **"
-	}
-	"** Make sure that youre on the block **"
-	{
-		"chi"		"**确保你站在方块上面 **"
-	}
-	"** The door will open in 30 sec **"
-	{
-		"chi"		"**大门将在30s后打开 **"
-	}
-	"** Get in side the second room **"
-	{
-		"chi"		"**快到第二个屋子里来 **"
-	}
-	"** Teleport will enable in 20 sec **"
-	{
-		"chi"		"**传送将在20s后激活 **"
-	}
-	"** The gate will open in 30 sec **"
-	{
-		"chi"		"**门将在30s后打开 **"
-	}
-	"** The zombies are coming **"
-	{
-		"chi"		"**僵尸来了 **"
-	}
-	"** The gate will open in 40 sec **"
-	{
-		"chi"		"**门将在40s后打开 **"
-	}
-	"** PRESS SPACE **"
-	{
-		"chi"		"**按住跳 **"
-	}
-	"** SHOOT THE GLASS **"
-	{
-		"chi"		"**开枪打碎玻璃 **"
+		"chi"		"** **"
 	}
 	"** The teleport will enable in 30 sec **"
 	{
-		"chi"		"**传送将在30s后激活 **"
+		"chi"		"** **"
 	}
-	"** The gate will break in 15 sec"
-	{
-		"chi"		"*15s后门碎*"
-	}
-	"** The doors will open in 25 sec **"
-	{
-		"chi"		"**这扇门会在25s后打开 **"
-	}
-	"** BHOPKZ PLAYERS YOU FAIL ME **"
-	{
-		"chi"		"****"
-	}
-	"** The door will close in 15"
-	{
-		"chi"		"**门将在15s后关闭 **"
-	}
-	"** If surf is not completed in 80 sec the zombies will be released **"
-	{
-		"chi"		"**如果没有人在80s内完成滑翔，人类将全部变成4积分 **"
-	}
-	"** The zombies will be released in 30 sec **"
-	{
-		"chi"		"**僵尸将在30s后释放 **"
-	}
-	"** SURF PLAYERS YOU FAIL ME **"
+	"** Make sure that you're on the block **"
 	{
 		"chi"		"** **"
 	}
-	"** Teleporting humans **"
+	"** The door will open in 30 sec **"
 	{
-		"chi"		"**传送人类 **"
+		"chi"		"** **"
 	}
-	"** Teleporting zombies **"
+	"** Get in side the second room **"
 	{
-		"chi"		"**传送僵尸 **"
+		"chi"		"** **"
 	}
-	"** Defend for 30 second **"
+	"** Teleport will enable in 20 sec **"
 	{
-		"chi"		"**坚守30s **"
+		"chi"		"** **"
 	}
-	"** THANKS TO EVERYONE WHO HELPED ME MAKE THIS **"
+	"** The gate will open in 30 sec **"
 	{
-		"chi"		"**感谢给予我制作帮助的每个人 **"
+		"chi"		"** **"
 	}
-	"MapGlobal_ConVars"
+	"** The zombies are coming **"
 	{
-		"0"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
+		"chi"		"** **"
 	}
-	"** NUKE IN 5 **"
+	"** The gate will open in 40 sec **"
 	{
-		"chi"		"**核爆来袭 **"
+		"chi"		"** **"
 	}
-	"** 4 **"
+	"** PRESS SPACE **"
 	{
-		"chi"		"**4 **"
+		"chi"		"** **"
 	}
-	"** 3 **"
+	"** SHOOT THE GLASS **"
 	{
-		"chi"		"**3 **"
+		"chi"		"** **"
 	}
-	"** 2 **"
+	"** The gate will break in 15 sec"
 	{
-		"chi"		"**2 **"
+		"chi"		"** **"
 	}
-	"** 1 **"
+	"** The doors will open in 25 sec **"
 	{
-		"chi"		"**1 **"
+		"chi"		"** **"
 	}
-	"sync_version"
+	"** The door will close in 15"
 	{
-		"syncvalue"		"33703"
-	}
-	"** If surf is not completed in 60 sec the zombies will be released **"
-	{
-		"chi"		"**60秒内如果没人通过滑翔，人类将全部变成4积分**"
+		"chi"		"** **"
 	}
 }

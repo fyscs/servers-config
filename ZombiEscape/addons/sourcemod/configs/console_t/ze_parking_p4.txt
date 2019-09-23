@@ -1,271 +1,271 @@
 "Console_T"
 {
-    ">>You are the last survivors of the zombie infection<<"
-    {
-        "chi"        "**在这次的僵尸感染中你是最后的生存者**"
-    }
-    ">>The last messages of the army invite us to evacuate to the parking in the middle of the city<<"
-    {
-        "chi"        "**军队的最后的消息是邀请我们撤离到城市中间的停车场**"
-    }
-    ">>But they won't wait for long time !<<"
-    {
-        "chi"        "**但他们不会等我们很久**"
-    }
-    ">>>LEVEL 1 : EVACUATION POINT : ELEVATORS<<<"
-    {
-        "chi"        "**第一关 撤离点：电梯**"
-    }
-    ">>Let's go ! but be carefull ! there are still some zombies around us<<"
-    {
-        "chi"        "**我们走!但要小心!这里还是会有僵尸在附近**"
-    }
-    ">>GOLD KNIFE = ACCESS TO SPECIAL WEAPONS<<"
-    {
-        "chi"        "**金匕首=可以拿特别的神器**"
-    }
-    ">>>MAP BY LeGrem<<<"
-    {
-        "chi"        "**地图作者：LeGrem 翻译:minde**"
-    }
-    ">>>Thx to JorisCeoen for help with models<<<"
-    {
-        "chi"        "** 感谢 JorisCeoen帮忙做模型**"
-    }
-    ">>COVER 30 SECONDS UNTIL C4 EXPLOSION<<"
-    {
-        "chi"        "**守30秒直到C4爆炸**"
-        "DoorCountDown"        "30"
-    }
-    ">> RETURN TO COVER THE DOOR <<<"
-    {
-        "chi"        "** 回去关上门**"
-    }
-    ">>PREPARE TO RUN IN 5 SECONDS<<"
-    {
-        "chi"        "**5秒后跑人**"
-    }
-    ">>RUN<<"
-    {
-        "chi"        "**跑**"
-    }
-    ">>FLOOR UNSTABLE ! TAKE CARE !<<"
-    {
-        "chi"        "**地板会碎!小心!**"
-    }
-    ">>TAKE THE ELEVATORS<<"
-    {
-        "chi"        "**上电梯**"
-    }
-    ">>COVER THE ELEVATORS ENTRY 30 SECONDS<<"
-    {
-        "chi"        "**电梯30秒后开门**"
-    }
-    ">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 2<<<"
-    {
-        "chi"        "**你到达了最后一个守点 下回合是第二关**"
-    }
-    ">>AFK TELEPORT<<"
-    {
-        "chi"        "**挂机传送**"
-    }
-    ">>ELEVATORS OPEN ! 15 SECONDS LEFT<<"
-    {
-        "chi"        "**电梯开门了 15秒后关门**"
-        "DoorCountDown"        "15"
-    }
-    ">>ELEVATORS LEAVING !<<"
-    {
-        "chi"        "**电梯走了**"
-    }
-    ">>>CT WIN - ACCESS TO SPECIAL WEAPONS GRANTED<<<"
-    {
-        "chi"        "**人类胜利 获得使用特别神器的权利**"
-    }
-    ">>>LEVEL 2 : EVACUATION POINT : STREET<<<"
-    {
-        "chi"        "**第二关:撤离点:街道**"
-    }
-    ">>>>Minigun has been picked<<<<"
-    {
-        "chi"        "**加特林被拿了**"
-    }
-    ">>>>Only 15 Proxi Mines<<<<"
-    {
-        "chi"        "**只有15个地雷**"
-    }
-    ">>>>Proxi Mine has been picked<<<<"
-    {
-        "chi"        "**地雷被拿**"
-    }
-    ">>>>Flamethrower has been picked<<<<"
-    {
-        "chi"        "**喷火器被拿**"
-    }
-    ">>>>Grenade Launcher has been picked<<<<"
-    {
-        "chi"        "**榴弹发射器被拿**"
-    }
-    ">>ZOMBIES TAKE THE STAIRS<<"
-    {
-        "chi"        "**僵尸走楼梯**"
-    }
-    ">>ELEVATOR LEAVING IN 5 SECONDS<<"
-    {
-        "chi"        "**电梯5秒后关门**"
-    }
-    ">>RUN TO THE COMMAND TENT TO START THE EXPLOSION<<"
-    {
-        "chi"        "**跑到指挥帐篷去来启动核弹**"
-    }
-    ">>COVER THE EVACUATION AREA 45 SECONDS<<"
-    {
-        "chi"        "**守住撤离区45秒**"
-        "DoorCountDown"        "45"
-    }
-    ">>NO ZOMBIES ALLOWED BEHIND THE CRATES<<"
-    {
-        "chi"        "**不能给僵尸突破最后的箱子**"
-    }
-    ">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 3<<<"
-    {
-        "chi"        "**你到达了最后一个守点 下一回合是第3关**"
-    }
-    ">>EXPLOSION IN 5 SECONDS<<"
-    {
-        "chi"        "**5秒后核弹爆炸**"
-    }
-    ">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE ELEVATORS !!<<<"
-    {
-        "chi"        "**不能拿特别神器了!!僵尸进来电梯了!!**"
-    }
-    ">>>LEVEL 3 : EVACUATION POINT : ROOF<<<"
-    {
-        "chi"        "**第三关:撤离点:天台**"
-    }
-    ">>COVER UNTIL CHOPPER ARRIVE<<"
-    {
-        "chi"        "**守到直升机来**"
-    }
-    ">>THIS IS THE LAST CHOPPER<<"
-    {
-        "chi"        "**这是最后的直升机**"
-    }
-    ">>YOU ARE THE LAST SURVIVORS<<"
-    {
-        "chi"        "**你是最后的生存者**"
-    }
-    ">>EVERYONE HAVE BEEN EVACUATED<<"
-    {
-        "chi"        "**所有人都撤离了**"
-    }
-    ">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 1<<<"
-    {
-        "chi"        "**你到达了最后一个守点 下回合回到第一关**"
-    }
-    ">>EXTREME MODE ACTIVATED FOR NEXT ROUNDS<<"
-    {
-        "chi"        "**极限模式将会在下一回合启动**"
-    }
-    ">>CHOPPER ON WAY<<"
-    {
-        "chi"        "**直升机来了**"
-    }
-    ">>CHOPPER LEAVING IN 15 SECONDS<<"
-    {
-        "chi"        "**直升机15秒后离开**"
-        "DoorCountDown"        "15"
-    }
-    ">>5 SECONDS LEFT<<"
-    {
-        "chi"        "**还有5秒**"
-    }
-    ">>>EXTREME MODE ACTIVATED<<<"
-    {
-        "chi"        "**启动极限模式**"
-    }
-    ">>>>Only one use<<<<"
-    {
-        "chi"        "**只能用一次**"
-    }
-    ">>>>UAV has been picked<<<<"
-    {
-        "chi"        "**无人驾驶飞行器被捡起**"
-    }
-    ">>UAV Launched<<"
-    {
-        "chi"        "**发射无人驾驶飞行器**"
-    }
-    ">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE EVACUATION AREA !!<<<"
-    {
-        "chi"        "**不能拿特别神器了!!僵尸进来了撤离区**"
-    }
-    ">>>>Ammo Dispenser has been picked<<<<"
-    {
-        "chi"        "**无限子弹被拿起**"
-    }
-    ">>>RESTART AT NORMAL LEVEL 1<<<"
-    {
-        "chi"        "**下一关将会回到正常的第一关**"
-    }
-    ">>But they wont wait for long time !<<"
-    {
-        "chi"        "**但他们不会等我们很久**"
-    }
-    ">>Lets go ! but be carefull ! there are still some zombies around us<<"
-    {
-        "chi"        "**走起!但要小心!这里还是有僵尸在附近**"
-    }
-    ">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE CHOPPER !!<<<"
-    {
-        "chi"        "**不能拿特别神器了!僵尸进来直升机了**"
-    }
-    ">>>>Only one Shot - 10s of loading<<<<"
-    {
-        "chi"        "**就一发！10秒后才会发射**"
-    }
-    ">>>>Electro Gun has been picked<<<<"
-    {
-        "chi"        "**电击枪被捡起**"
-    }
-    ">>>>Electro Gun shoot in 10s<<<<"
-    {
-        "chi"        "**电击枪10秒后发射**"
-    }
-    "**Map made by Binbow**"
-    {
-        "chi"        "** **"
-    }
-    ">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 2<<<"
-    {
-        "chi"        "** **"
-    }
-    ">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 3<<<"
-    {
-        "chi"        "** **"
-    }
-    ">>>RESET ROUND<<<"
-    {
-        "chi"        "** **"
-    }
-    ">>>KILLING EVERYONE<<<"
-    {
-        "chi"        "** **"
-    }
-    "*** ... ***"
-    {
-        "chi"        "** **"
-    }
-    ">>>EXTREME MODE ACTIVATED IN DEV ROOM<<<"
-    {
-        "chi"        "** **"
-    }
-    ">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 1<<<"
-    {
-        "chi"        "** **"
-    }
-    ">>>EXTREME MODE DESACTIVATED IN DEVROOM<<<"
-    {
-        "chi"        "** **"
-    }
+	">>You are the last survivors of the zombie infection<<"
+	{
+		"chi"		"**在这次的僵尸感染中你是最后的生存者**"
+	}
+	">>The last messages of the army invite us to evacuate to the parking in the middle of the city<<"
+	{
+		"chi"		"**军队的最后的消息是邀请我们撤离到城市中间的停车场**"
+	}
+	">>But they won't wait for long time !<<"
+	{
+		"chi"		"**但他们不会等我们很久**"
+	}
+	">>>LEVEL 1 : EVACUATION POINT : ELEVATORS<<<"
+	{
+		"chi"		"**第一关 撤离点：电梯**"
+	}
+	">>Let's go ! but be carefull ! there are still some zombies around us<<"
+	{
+		"chi"		"**我们走!但要小心!这里还是会有僵尸在附近**"
+	}
+	">>GOLD KNIFE = ACCESS TO SPECIAL WEAPONS<<"
+	{
+		"chi"		"**金匕首=可以拿特别的神器**"
+	}
+	">>>MAP BY LeGrem<<<"
+	{
+		"chi"		"**地图作者：LeGrem 翻译:minde**"
+	}
+	">>>Thx to JorisCeoen for help with models<<<"
+	{
+		"chi"		"** 感谢 JorisCeoen帮忙做模型**"
+	}
+	">>COVER 30 SECONDS UNTIL C4 EXPLOSION<<"
+	{
+		"chi"		"**守30秒直到C4爆炸**"
+		"DoorCountDown"		"30"
+	}
+	">> RETURN TO COVER THE DOOR <<<"
+	{
+		"chi"		"** 回去关上门**"
+	}
+	">>PREPARE TO RUN IN 5 SECONDS<<"
+	{
+		"chi"		"**5秒后跑人**"
+	}
+	">>RUN<<"
+	{
+		"chi"		"**跑**"
+	}
+	">>FLOOR UNSTABLE ! TAKE CARE !<<"
+	{
+		"chi"		"**地板会碎!小心!**"
+	}
+	">>TAKE THE ELEVATORS<<"
+	{
+		"chi"		"**上电梯**"
+	}
+	">>COVER THE ELEVATORS ENTRY 30 SECONDS<<"
+	{
+		"chi"		"**电梯30秒后开门**"
+	}
+	">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 2<<<"
+	{
+		"chi"		"**你到达了最后一个守点 下回合是第二关**"
+	}
+	">>AFK TELEPORT<<"
+	{
+		"chi"		"**挂机传送**"
+	}
+	">>ELEVATORS OPEN ! 15 SECONDS LEFT<<"
+	{
+		"chi"		"**电梯开门了 15秒后关门**"
+		"DoorCountDown"		"15"
+	}
+	">>ELEVATORS LEAVING !<<"
+	{
+		"chi"		"**电梯走了**"
+	}
+	">>>CT WIN - ACCESS TO SPECIAL WEAPONS GRANTED<<<"
+	{
+		"chi"		"**人类胜利 获得使用特别神器的权利**"
+	}
+	">>>LEVEL 2 : EVACUATION POINT : STREET<<<"
+	{
+		"chi"		"**第二关:撤离点:街道**"
+	}
+	">>>>Minigun has been picked<<<<"
+	{
+		"chi"		"**加特林被拿了**"
+	}
+	">>>>Only 15 Proxi Mines<<<<"
+	{
+		"chi"		"**只有15个地雷**"
+	}
+	">>>>Proxi Mine has been picked<<<<"
+	{
+		"chi"		"**地雷被拿**"
+	}
+	">>>>Flamethrower has been picked<<<<"
+	{
+		"chi"		"**喷火器被拿**"
+	}
+	">>>>Grenade Launcher has been picked<<<<"
+	{
+		"chi"		"**榴弹发射器被拿**"
+	}
+	">>ZOMBIES TAKE THE STAIRS<<"
+	{
+		"chi"		"**僵尸走楼梯**"
+	}
+	">>ELEVATOR LEAVING IN 5 SECONDS<<"
+	{
+		"chi"		"**电梯5秒后关门**"
+	}
+	">>RUN TO THE COMMAND TENT TO START THE EXPLOSION<<"
+	{
+		"chi"		"**跑到指挥帐篷去来启动核弹**"
+	}
+	">>COVER THE EVACUATION AREA 45 SECONDS<<"
+	{
+		"chi"		"**守住撤离区45秒**"
+		"DoorCountDown"		"45"
+	}
+	">>NO ZOMBIES ALLOWED BEHIND THE CRATES<<"
+	{
+		"chi"		"**不能给僵尸突破最后的箱子**"
+	}
+	">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 3<<<"
+	{
+		"chi"		"**你到达了最后一个守点 下一回合是第3关**"
+	}
+	">>EXPLOSION IN 5 SECONDS<<"
+	{
+		"chi"		"**5秒后核弹爆炸**"
+	}
+	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE ELEVATORS !!<<<"
+	{
+		"chi"		"**不能拿特别神器了!!僵尸进来电梯了!!**"
+	}
+	">>>LEVEL 3 : EVACUATION POINT : ROOF<<<"
+	{
+		"chi"		"**第三关:撤离点:天台**"
+	}
+	">>COVER UNTIL CHOPPER ARRIVE<<"
+	{
+		"chi"		"**守到直升机来**"
+	}
+	">>THIS IS THE LAST CHOPPER<<"
+	{
+		"chi"		"**这是最后的直升机**"
+	}
+	">>YOU ARE THE LAST SURVIVORS<<"
+	{
+		"chi"		"**你是最后的生存者**"
+	}
+	">>EVERYONE HAVE BEEN EVACUATED<<"
+	{
+		"chi"		"**所有人都撤离了**"
+	}
+	">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 1<<<"
+	{
+		"chi"		"**你到达了最后一个守点 下回合回到第一关**"
+	}
+	">>EXTREME MODE ACTIVATED FOR NEXT ROUNDS<<"
+	{
+		"chi"		"**极限模式将会在下一回合启动**"
+	}
+	">>CHOPPER ON WAY<<"
+	{
+		"chi"		"**直升机来了**"
+	}
+	">>CHOPPER LEAVING IN 15 SECONDS<<"
+	{
+		"chi"		"**直升机15秒后离开**"
+		"DoorCountDown"		"15"
+	}
+	">>5 SECONDS LEFT<<"
+	{
+		"chi"		"**还有5秒**"
+	}
+	">>>EXTREME MODE ACTIVATED<<<"
+	{
+		"chi"		"**启动极限模式**"
+	}
+	">>>>Only one use<<<<"
+	{
+		"chi"		"**只能用一次**"
+	}
+	">>>>UAV has been picked<<<<"
+	{
+		"chi"		"**无人驾驶飞行器被捡起**"
+	}
+	">>UAV Launched<<"
+	{
+		"chi"		"**发射无人驾驶飞行器**"
+	}
+	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE EVACUATION AREA !!<<<"
+	{
+		"chi"		"**不能拿特别神器了!!僵尸进来了撤离区**"
+	}
+	">>>>Ammo Dispenser has been picked<<<<"
+	{
+		"chi"		"**无限子弹被拿起**"
+	}
+	">>>RESTART AT NORMAL LEVEL 1<<<"
+	{
+		"chi"		"**下一关将会回到正常的第一关**"
+	}
+	">>But they wont wait for long time !<<"
+	{
+		"chi"		"**但他们不会等我们很久**"
+	}
+	">>Lets go ! but be carefull ! there are still some zombies around us<<"
+	{
+		"chi"		"**走起!但要小心!这里还是有僵尸在附近**"
+	}
+	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE CHOPPER !!<<<"
+	{
+		"chi"		"**不能拿特别神器了!僵尸进来直升机了**"
+	}
+	">>>>Only one Shot - 10s of loading<<<<"
+	{
+		"chi"		"**就一发！10秒后才会发射**"
+	}
+	">>>>Electro Gun has been picked<<<<"
+	{
+		"chi"		"**电击枪被捡起**"
+	}
+	">>>>Electro Gun shoot in 10s<<<<"
+	{
+		"chi"		"**电击枪10秒后发射**"
+	}
+	"**Map made by Binbow**"
+	{
+		"chi"		"** **"
+	}
+	">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 2<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 3<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>RESET ROUND<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>KILLING EVERYONE<<<"
+	{
+		"chi"		"** **"
+	}
+	"*** ... ***"
+	{
+		"chi"		"** **"
+	}
+	">>>EXTREME MODE ACTIVATED IN DEV ROOM<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 1<<<"
+	{
+		"chi"		"** **"
+	}
+	">>>EXTREME MODE DESACTIVATED IN DEVROOM<<<"
+	{
+		"chi"		"** **"
+	}
 }

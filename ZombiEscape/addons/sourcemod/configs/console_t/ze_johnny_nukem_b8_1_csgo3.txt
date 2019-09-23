@@ -1,0 +1,843 @@
+"Console_T"
+{
+	"**ZE_JOHNNY_NUKEM**"
+	{
+		"chi"		"**ZE:米奇妙妙屋（毁灭强尼）**"
+	}
+	"**Map by Lucky9Two (original autor) Headshooter.SC HaRyDe and autism**"
+	{
+		"chi"		"**地图制作：Lucky9Two (original autor) HeadshooterSC HaRyDe and autism**文本完整汉化：咕咻**"
+	}
+	"**We are not giving thanks to Microsoft Edge for models**"
+	{
+		"chi"		"**本地图并没有对Microsoft Edge提供的模型做广告**"
+	}
+	"**...or to GAF for some cookies**"
+	{
+		"chi"		"**...或许你可以去GAF捐助我们**"
+	}
+	"**...Vanya and Blue Dragon are not thanked aswell**"
+	{
+		"chi"		"**...不过这样你也得不到Vanya和Blue Dragon的感谢**"
+	}
+	"**[Stage 1 - The Rebellion against the Frog Kingdom]**"
+	{
+		"chi"		"**[关卡1 - 反抗青蛙王国]**"
+	}
+	"Professor  *Johnny. We found out that Hitler is hiding in this dimension..*"
+	{
+		"chi"		"**教授:我们发现希特勒藏在这个维度里..**"
+	}
+	"Professor  *Dont forget that you are here to kill him. Roger?*"
+	{
+		"chi"		"**教授:不要忘了你是来杀他的.明白了吗？**"
+	}
+	"Professor  *No lollygagging!*"
+	{
+		"chi"		"**教授:不要浪费时间**"
+	}
+	"Johnny  *Yeah yeah... I know. Roger that.*"
+	{
+		"chi"		"**强尼:我知道，明白了.**"
+	}
+	"Johnny  *But how the fuck did I end up doing this?*"
+	{
+		"chi"		"**强尼:但我该怎么做？**"
+	}
+	"**A player has picked up the Ammo-Taco Box**"
+	{
+		"chi"		"**一位玩家拾起了弹药箱-卷饼盒**"
+	}
+	"**TIP -- This item gives unlimited ammo for 5 seconds**"
+	{
+		"chi"		"**弹药箱能够提供五秒的无限子弹 **"
+	}
+	"**TIP -- Can only be used two times and has a 60 second cooldown**"
+	{
+		"chi"		"**弹药只能使用两次，冷却时间六十秒**"
+	}
+	"**A player has picked up the Dong Chainsaw**"
+	{
+		"chi"		"**一位玩家拾起了咚咚电锯**"
+	}
+	"**A player has picked up the Rainbow Flamethrower**"
+	{
+		"chi"		"**一位玩家拾起了彩虹喷火器（无彩色说明燃料耗尽）**"
+	}
+	"**TIP -- Flamethrower can last up to 20 seconds**"
+	{
+		"chi"		"**喷火器有二十秒的燃料，请合理使用**"
+	}
+	"**A player has picked up a weird Bubble Gun**"
+	{
+		"chi"		"**一位玩家拾起了奇妙泡泡枪**"
+	}
+	"**TIP -- The laser it fires slows down the zombies**"
+	{
+		"chi"		"**激光神器持续七秒,触碰减速僵尸一秒**"
+	}
+	"**TIP -- It has a 55 second cooldown**"
+	{
+		"chi"		"**该物品有五十五秒冷却时间**"
+		"DoorCountDown"		"-1"
+	}
+	"**A player has picked up the Pink Elephants. Aww <3**"
+	{
+		"chi"		"**一位玩家拾起了粉色大象.Aww <3**"
+	}
+	"**TIP -- These elephants work as explosive mines**"
+	{
+		"chi"		"**大象地雷共五个,持续减速僵尸**"
+	}
+	"Rayvel *Welcome stranger. How can I help you?*"
+	{
+		"chi"		"**瑞威尔:欢迎你陌生人,我能为你做些什么?**"
+	}
+	"**The entrance to the Frog Kingdom will open in 20 seconds**"
+	{
+		"chi"		"**青蛙王国的入口将在20秒后打开**"
+	}
+	"Johnny *I need to find Hitler and make him pay for everything he has done*"
+	{
+		"chi"		"**强尼:我需要找到希特勒,让他为他所做的一切付出代价**"
+	}
+	"Rayvel *Huh... you dont hear that everyday...*"
+	{
+		"chi"		"**瑞威尔:我也不知道他在哪里**"
+	}
+	"Rayvel *But I have some information that can help you*"
+	{
+		"chi"		"**瑞威尔:不过我有一些消息可以帮助到你**"
+	}
+	"Rayvel *Kill the King of the Frogs. His hideout is in that bathtub up ahead*"
+	{
+		"chi"		"**瑞威尔:杀死青蛙国王,希特勒的藏身之处就在前面的浴缸里**"
+	}
+	"Rayvel *He has some very valuable intel that can help you. *"
+	{
+		"chi"		"**瑞威尔:青蛙国王有一些非常有价值的Intel，这可以帮助你**"
+	}
+	"Rayvel  *With that intel you can open up the teleport to the Kingdom of Steroids...*"
+	{
+		"chi"		"**瑞威尔:通过这些Intel你可以打开乐高王国的传送门**"
+	}
+	"Rayvel  *...and maybe you will find Hitler there.*"
+	{
+		"chi"		"**瑞维尔:也许你会在那里找到希特勒**"
+	}
+	"**Entrance has been opened - Move!**"
+	{
+		"chi"		"**入口打开了-走！**"
+	}
+	"Johnny *Jesus... in what did I just get myself into?*"
+	{
+		"chi"		"**强尼：天啊...我刚刚做了什么**"
+	}
+	"**A player has picked up the Mountain Dew (Heal)**"
+	{
+		"chi"		"**一位玩家拾起了激浪**"
+	}
+	"**TIP -- This item heals you and teammates around you for 5 seconds**"
+	{
+		"chi"		"**奶神器能在五秒内能回复两百血并且免疫感染**"
+		"DoorCountDown"		"-1"
+	}
+	"**TIP -- Can only be used twice and has a 10 second cooldown**"
+	{
+		"chi"		"**且只能使用两次，并具有十秒冷却**"
+	}
+	"**The paper wall will disappear in 30 seconds**"
+	{
+		"chi"		"**纸墙将在30秒后消失**"
+	}
+	"**Fall back!**"
+	{
+		"chi"		"**撤退**"
+	}
+	"**Theres no way out... Hold here until something happens!**"
+	{
+		"chi"		"**这里已经是死路了...守住这里直到发生什么事情**"
+	}
+	"**FALL BACK**"
+	{
+		"chi"		"**撤退**"
+	}
+	"**We have nowhere to go again...**"
+	{
+		"chi"		"**我们没有路可以走了...**"
+	}
+	"**Defend the zombies off until something happens**"
+	{
+		"chi"		"**守住僵尸，直到道路出现**"
+	}
+	"**Looks like that ship can move - Defend until it comes for us**"
+	{
+		"chi"		"**看起来那艘船可以移动，守住直到它过来**"
+	}
+	"Rayvel *Well done! The King of Frogs is right there in that arena*"
+	{
+		"chi"		"**瑞威尔：做得好！青蛙国王就在那竞技场里**"
+	}
+	"Rayvel *Just be warned... He is a very dangerous foe!*"
+	{
+		"chi"		"**瑞威尔：小心，他是一个非常危险的人**"
+	}
+	"Rayvel *Once youve killed him dont forget to send me the intel!*"
+	{
+		"chi"		"**瑞威尔：杀了他后别忘了给我Intel！**"
+	}
+	"Rayvel *And then find a way back to the teleporter.*"
+	{
+		"chi"		"**瑞威尔：然后找到一种方法回到传送门**"
+	}
+	"Johnny *And why should I trust you?*"
+	{
+		"chi"		"**强尼:我为什么要相信你?**"
+	}
+	"Rayvel *Is there anyone else you can trust in?*"
+	{
+		"chi"		"**瑞威尔：你还有什么可以信任的人吗？**"
+	}
+	"Johnny *I guess not...*"
+	{
+		"chi"		"**强尼:我觉得没有...**"
+	}
+	"Rayvel *Send me that intel and Ill fix the teleporter for you*"
+	{
+		"chi"		"**瑞威尔：把Intel给我，我会替你修理传送器**"
+	}
+	"**The boat is here -- Get on**"
+	{
+		"chi"		"**船来了--上去**"
+	}
+	"**TIP -- Boss Fight incoming**"
+	{
+		"chi"		"**警告：BOSS战即将开始**"
+	}
+	"Johnny *King my ass - Come out here and fight me!*"
+	{
+		"chi"		"**强尼：笨蛋青蛙国王，出来和我打一架啊！**"
+	}
+	"King of Frogs *With great pleasure! Youll regret coming up here to fight me*"
+	{
+		"chi"		"**青蛙国王：不错不错！你会后悔来到这里与我战斗的**"
+	}
+	"Johnny *Rayvel. The King of Frogs is dead*"
+	{
+		"chi"		"**强尼：瑞威尔，青蛙国王死了**"
+	}
+	"Rayvel *Excellent. Get out of that bathtub and send me the intel!*"
+	{
+		"chi"		"**瑞威尔：离开浴缸，然后把Intel给我！**"
+	}
+	"Johnny *Roger that!*"
+	{
+		"chi"		"**强尼：收到！**"
+	}
+	"**Get on the boat and move towards the sink**"
+	{
+		"chi"		"**上船，走到水池那边**"
+	}
+	"**Defend here for 25 seconds**"
+	{
+		"chi"		"**守住这里25秒**"
+	}
+	"Rayvel *Johnny! I got the teleporter working!*"
+	{
+		"chi"		"**瑞威尔：强尼,我正在修理传送器**"
+	}
+	"Rayvel *The teleporter to the Kingdom of Steroids is functional!*"
+	{
+		"chi"		"**瑞威尔：传送至乐高王国的传送器被修好了**"
+	}
+	"Johnny *Nice. Hitler wasnt in here... But that bastard is not escaping. Not anymore...*"
+	{
+		"chi"		"**强尼：好，但是希特勒不在这里，不过他跑不了了**"
+	}
+	"**A ladder has appeared - Fall back!**"
+	{
+		"chi"		"**梯子可以走了-撤退！**"
+	}
+	"**The water in the sink will be drained out in 15 seconds**"
+	{
+		"chi"		"**水池里的水将在15秒后退去**"
+	}
+	"**Water has been drained -- Jump down**"
+	{
+		"chi"		"**可以跳下去了**"
+	}
+	"**The doors will open in 10 seconds**"
+	{
+		"chi"		"**大门将在10秒后打开**"
+	}
+	"**Move back**"
+	{
+		"chi"		"**撤退**"
+	}
+	"**This is the last paper wall -- it opens in 25 seconds**"
+	{
+		"chi"		"**这是最后的纸门了--25秒后开启**"
+	}
+	"**Fall back now!!**"
+	{
+		"chi"		"**后退！！**"
+	}
+	"**Dont let zombies get past the paper wall -- Defend!**"
+	{
+		"chi"		"**不要让僵尸用过纸门--守住！**"
+	}
+	"**Keep them off for 5 more seconds!**"
+	{
+		"chi"		"**再防守五秒！**"
+	}
+	"**Stage 1 Complete!**Moving onto Stage 2**"
+	{
+		"chi"		"**关卡1完成！**移动至关卡2**"
+	}
+	"**Zombies detected -- You failed...**"
+	{
+		"chi"		"**僵尸混进来了--关卡失败...**"
+	}
+	"**[Stage 2 - The Rebellion against the Frog (Lego) Kingdom MK. II]**"
+	{
+		"chi"		"**[关卡2 - 反抗青蛙(乐高)国王MK. II]**"
+	}
+	"**The teleport pad will open in 20 seconds**"
+	{
+		"chi"		"**传送器将在20秒后开启**"
+	}
+	"**The paper wall will disappear in 10 seconds**"
+	{
+		"chi"		"**纸门将在10秒后消失**"
+	}
+	"**Fall back!**Rayvel is waiting for you**"
+	{
+		"chi"		"**撤退！瑞威尔在等着你**"
+	}
+	"**The paper wall will disappear in 25 seconds**"
+	{
+		"chi"		"**纸门将在25秒后消失**"
+	}
+	"Johnny  *So... do you know where is Hitler hiding?*"
+	{
+		"chi"		"**所以...你知道希特勒在哪里藏着？**"
+	}
+	"Rayvel  *Yeah but we have one issue... to get to him you must first face the Lego King*"
+	{
+		"chi"		"**是的，不过出现了一个问题...在见到他之前你必须和乐高国王见个面**"
+	}
+	"Johnny  *Are you kidding me?*"
+	{
+		"chi"		"**强尼：你在开玩笑吗？**"
+	}
+	"Rayvel  *Does it look like Im joking? Find the Lego King and kill him. Then find a way out of there*"
+	{
+		"chi"		"**我看起来像是在开玩笑吗？找到乐高国王，然后消灭它.然后找到那里的出口**"
+	}
+	"Johnny  *Leave it to me!*"
+	{
+		"chi"		"**把这件事情交给我吧！**"
+	}
+	"**Move back towards the bed**"
+	{
+		"chi"		"**撤退到小房里**"
+	}
+	"**A magical ladder will appear in 20 seconds**Defend until it appears!**"
+	{
+		"chi"		"**一个魔法的梯子将会在20秒之后出现**守住直到它出现！**"
+	}
+	"**The ladder has appeared! Get back!**That doesnt look like a ladder though...**"
+	{
+		"chi"		"**梯子出现了！撤退！**不过这看起来并不像一个梯子...**"
+	}
+	"**Keep the zombies off this pillow for 30 seconds!**"
+	{
+		"chi"		"**在这里守住僵尸30秒**"
+	}
+	"**AFK teleport in 5 seconds.**"
+	{
+		"chi"		"**挂机玩家将在5秒后传送**"
+	}
+	"**TIP -- Mr. Hanky doesnt like humans nor zombies**Stay away from him!**"
+	{
+		"chi"		"**提示：Mr. Hanky不喜欢人类也不喜欢僵尸**尽量远离他！**"
+	}
+	"**The gate to the arena will open in 20 seconds**"
+	{
+		"chi"		"**通往boss房的门将在20秒后打开**"
+	}
+	"Johnny *There he is... he doesnt look as tough as Rayvel made me think*"
+	{
+		"chi"		"**强尼：他在这啊...看起来也不想瑞威尔和我说的那样啊**"
+	}
+	"Johnny *Bring it on then!*"
+	{
+		"chi"		"**强尼：到时候再把Intel带走**"
+	}
+	"**The gate to the arena is opening... good luck**"
+	{
+		"chi"		"**大门打开了...祝你好运**"
+	}
+	"Lego King IV  *Hmm.. One more person? The last one I faced was a way tricky.*"
+	{
+		"chi"		"**乐高国王IV：吼呣呣...还有谁？上一次死在我面前的可是一个棘手的家伙.**"
+	}
+	"Lego King IV  *But you will die for sure here.*"
+	{
+		"chi"		"**乐高国王IV：当然你也会死在这.**"
+	}
+	"Johnny  *Always wanted to try the fried frogs with a plastic taste..*"
+	{
+		"chi"		"**强尼：我一直想尝尝用塑料壳去烤青蛙的味道"
+	}
+	"**Well. I think we should slay that angry frog**"
+	{
+		"chi"		"**好吧.我觉得我们应该处决掉这只生气的青蛙**"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_cvar sm_he_limit 4"
+		}
+		"1"
+		{
+			"cvar"		"sm_cvar sm_smoke_limit 2"
+		}
+		"2"
+		{
+			"cvar"		"sm_molotov_limit 1"
+		}
+		"3"
+		{
+			"cvar"		"sm_flash_limit   1"
+		}
+		"4"
+		{
+			"cvar"		"sm_spawn_give_armor 1"
+		}
+		"5"
+		{
+			"cvar"		"sm_armor_limit 3"
+		}
+		"6"
+		{
+			"cvar"		"sm_g_cv_money 6666"
+		}
+		"7"
+		{
+			"cvar"		"sm_g_cv_money 10000"
+		}
+		"8"
+		{
+			"cvar"		"sm_Cvar sm_molotov_limit 2"
+		}
+		"9"
+		{
+			"cvar"		"sm_Cvar hook_boss_money_min 20"
+		}
+		"10"
+		{
+			"cvar"		"sm_Cvar hook_boss_money_max 27"
+		}
+	}
+	"sync_version"
+	{
+		"syncvalue"		"67265"
+	}
+	"Johnny *You frogs are quite weak... huh? Whats this?*"
+	{
+		"chi"		"**强尼：你这个青蛙太弱了... 唔，这是什么**？"
+	}
+	"Johnny *Rayvel can you hear me? I found the thing you needed*"
+	{
+		"chi"		"**强尼：瑞威尔，你能听到我说话吗？我找到了你要的东西**"
+	}
+	"Rayvel *The intel we needed! Take it and bring it with you!*"
+	{
+		"chi"		"**瑞威尔：这就是我们想要的Intel！拿上它！**"
+	}
+	"Rayvel *There should be a chopper not that far away from you*"
+	{
+		"chi"		"**瑞威尔：这附近离你不远应该有一架飞机**"
+	}
+	"Rayvel *Escape on it and bring the intel to me as quick as you can!*"
+	{
+		"chi"		"**瑞威尔：尽快逃到那上面去然后带着Intel找我！**"
+	}
+	"**Defend here until something happens**"
+	{
+		"chi"		"**守住僵尸直到什么东西出现**"
+	}
+	"**A path has appeared!**Fall back**"
+	{
+		"chi"		"**一条路出现了！**撤退**"
+	}
+	"**We are almost at the helipad! Defend for 30 seconds**"
+	{
+		"chi"		"**我们马上就要到飞机那边了！再守住30秒**"
+	}
+	"**Fall back! Get out of there!**"
+	{
+		"chi"		"**撤退！离这远点！**"
+	}
+	"**The toy chopper will leave in 40 seconds**"
+	{
+		"chi"		"**玩具直升机将在40秒后离开**"
+	}
+	"**The toy chopper will leave in 25 seconds**"
+	{
+		"chi"		"**玩具直升机将在25秒后离开**"
+	}
+	"**The toy chopper will leave in 10 seconds!**"
+	{
+		"chi"		"**玩具直升机将在10秒后离开**"
+	}
+	"**The toy chopper will leave in...**"
+	{
+		"chi"		"**玩具直升机将在...**"
+	}
+	"**5**"
+	{
+		"chi"		"** **"
+	}
+	"**4**"
+	{
+		"chi"		"** **"
+	}
+	"**3**"
+	{
+		"chi"		"** **"
+	}
+	"**2**"
+	{
+		"chi"		"** **"
+	}
+	"**1**"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 2 Complete!**Moving onto Stage 3**"
+	{
+		"chi"		"**关卡2完成****移动至关卡3"
+	}
+	"**[Stage 3 - The Betrayal of Rayvel]**"
+	{
+		"chi"		"**[关卡3 - 瑞威尔的背叛]**"
+	}
+	"**DEFEND THIS PLACE FOR 15 SECONDS**"
+	{
+		"chi"		"**守住这里15秒**"
+	}
+	"**Defend here until something happens...**"
+	{
+		"chi"		"**守住僵尸知道什么东西出现**"
+	}
+	"**A bridge has appeared!**Move across!**"
+	{
+		"chi"		"**一个桥出现了！快过去！**"
+	}
+	"**The door to the Lego District will open in 30 seconds**"
+	{
+		"chi"		"**通往乐高地区的门将在30秒后开启**"
+	}
+	"**Make sure to defend both bridges!**"
+	{
+		"chi"		"**确保两条桥都被守住！**"
+	}
+	"**A hole in the door has appeared**Get inside!**"
+	{
+		"chi"		"**这个门的洞出现了**快进去！**"
+	}
+	"**The paper wall to the desktop will disappear in 25 seconds**"
+	{
+		"chi"		"**通往桌面的门将在25秒后打开**"
+	}
+	"Rayvel *Good news Johnny. I found out Hitler is right on top of this desktop!*"
+	{
+		"chi"		"**瑞威尔：好消息，强尼，我发现了希特勒，他在桌面的最右边！**"
+	}
+	"Johnny *Thanks but... let me ask you something first. Why are you helping me?*"
+	{
+		"chi"		"**强尼：谢谢，但是...先让我问你点事.为什么要帮助我？**"
+	}
+	"Rayvel *Its a long story. But Ive done so many things in my life that Im not happy about*"
+	{
+		"chi"		"**瑞威尔：说来话长.不过在我的一生中我做过很多让自己不开心的事情**"
+	}
+	"Rayvel *I wanna help someone for once instead of causing more problems... so...*"
+	{
+		"chi"		"**瑞威尔：我想帮助别人一次，而不是给他们带来麻烦...所以...**"
+	}
+	"Johnny *Youve been of great help to me. Were it not for you Id still be dealing with frogs*"
+	{
+		"chi"		"**强尼：你的确帮了我很多.如果没遇到你我可能还在和那只青蛙打交道**"
+	}
+	"Rayvel *Im glad I could help you. Lets finish this once and for all and go after Hitler!*"
+	{
+		"chi"		"**瑞威尔：能帮助你我也很开心.让我们彻底了结这个事情，然后去找希特勒！*"
+	}
+	"**Move back!**Climb up the ladder!**"
+	{
+		"chi"		"**撤退！**爬上这个梯子！**"
+	}
+	"Rayvel *Ill go right behind you Johnny...*"
+	{
+		"chi"		"**瑞威尔：我会一直在你身边，强尼...**"
+	}
+	"**The final paper wall will disappear in 25 seconds**"
+	{
+		"chi"		"**最后的纸门将在25秒后打开**"
+	}
+	"**The wall is gone -- Good luck!**"
+	{
+		"chi"		"**这扇门消失了--祝你好运！**"
+	}
+	"Hitler *Well well well... if it isnt Johnny Nukem*"
+	{
+		"chi"		"**希特勒：喔 喔 喔... 这个就是强尼努科姆吧**"
+	}
+	"Johnny *Rayvel? What are you doing there with Hitler?*"
+	{
+		"chi"		"**强尼：瑞威尔？你在这里和希特勒在干什么？**"
+	}
+	"Rayvel *I didnt think itd be so easy to manipulate you in my own way*"
+	{
+		"chi"		"**瑞威尔：我觉得在我的计划中操控你并不简单**"
+	}
+	"Johnny *What is happening? Why do you have our intel there?*"
+	{
+		"chi"		"**强尼：发生啥事？为什么Intel在你的手上？**"
+	}
+	"Rayvel *You are a stupid man Nukem. Thanks to you Hitler and I got the intel we needed*"
+	{
+		"chi"		"**瑞威尔：你真是个大傻子，努科姆.因为你，希特勒和我才得到了我们想要的Intel**"
+	}
+	"Hitler *And with this in our hands. Rayvel and I will conquer your world!*"
+	{
+		"chi"		"**希特勒：于是Intel到了我们手中.我和瑞威尔将要统治你们的世界！**"
+	}
+	"Johnny *Over my dead body you fucking Nazis!*"
+	{
+		"chi"		"**强尼：踩在我的尸体上再说这句话吧，你这个该死的纳粹！**"
+	}
+	"Rayvel *Oh! I am glad you are acting as tough as usual*"
+	{
+		"chi"		"**瑞威尔：噢！你的举动和平常一样真是让我兴奋呢**"
+	}
+	"Rayvel *Sadly... it seems like your delusional journey ends here...*"
+	{
+		"chi"		"**瑞威尔：不过真可怜...看起来这里是你的终结了呢...**"
+	}
+	"Rayvel *I present to you. General Solid Paper. Commander of Hitlers army in this dimension.*"
+	{
+		"chi"		"**瑞威尔：我给你个礼物吧，纸片士兵.让你指挥这个次元的希特勒军队.**"
+	}
+	"General Solid Paper *Johnny Nukem? His head will sure look good on my wall!*"
+	{
+		"chi"		"**纸片士兵：强尼努科姆？他的死一定会让我的身上更好看的！**"
+	}
+	"Johnny *Pfft. Paper is only good for wiping yourself*"
+	{
+		"chi"		"**强尼：噗.纸只适合擦东西**"
+	}
+	"Johnny *And Im going to wipe my ass with you when Im done!*"
+	{
+		"chi"		"**强尼：然后我会在胜利之后用你来擦我的屁股！**"
+	}
+	"Johnny *Not so tough now eh? You paper asshat!*"
+	{
+		"chi"		"**强尼：说的还不够？你这个纸片混蛋！**"
+	}
+	"Johnny *Hmm... this isnt looking too good. I better get out of here!*"
+	{
+		"chi"		"**强尼：吼呣呣...看起来可不太妙.我得离开这里！**"
+	}
+	"Professor *Johnny. Oh I am finally able to contact you. What is happening?*"
+	{
+		"chi"		"**教授：强尼.哦，我终于联系上了你.发生啥事？**"
+	}
+	"Johnny *Rayvel betrayed us. He was working with Hitler all along and I fell for his trap*"
+	{
+		"chi"		"**强尼：瑞威尔背叛了我们.他一直和希特勒在一起，我中了他们的陷阱**"
+	}
+	"Professor *You dense motherfucker. Only someone like you would trust a piece of paper*"
+	{
+		"chi"		"**教授：你真他娘的傻.只有你这样的蠢蛋才h会相信一个纸片人**"
+	}
+	"Johnny *How about you tell me how to get out of here instead of bitching at me?*"
+	{
+		"chi"		"**强尼：你能不能把教训我的精力放在怎么让我出去的问题上？**"
+	}
+	"Professor *I should just let you die in there. But then who will save our world?*"
+	{
+		"chi"		"**教授：你现在就死在这算了.不过那之后怕是没有人能拯救我们的世界了.**"
+	}
+	"Professor *sigh... Go towards the bed over there. Your only way of escaping is in there*"
+	{
+		"chi"		"**教授：啊...走到那个苗圃那里.逃出这里的路只有那一条**"
+	}
+	"Johnny *Alright. Once I get out of here Ill tell you anything you want to know*"
+	{
+		"chi"		"**强尼：好吧.到那的时候我会告诉你所有你想知道的事情**"
+	}
+	"Professor *You can be damn sure Ill ask you a lot of questions*"
+	{
+		"chi"		"**教授：你应该知道我会问你很多问题**"
+	}
+	"Professor *Like how thanks to you a piece of paper will destroy our world*"
+	{
+		"chi"		"**教授：比如说为什么一个纸片人能够摧毁世界**"
+	}
+	"**Theres nowhere to go... Keep the zombies off until something happens!**"
+	{
+		"chi"		"**这里没有路了...守住僵尸直到什么事情发生！**"
+	}
+	"**A bridge has appeared!**Move back!**"
+	{
+		"chi"		"**一个桥出现了！**后退！**"
+	}
+	"**We cant jump down there... Hold here until something happens**"
+	{
+		"chi"		"**我们不能直接从这里跳下去...守住直到发生什么**"
+	}
+	"**Move back!**Run towards the bed!**"
+	{
+		"chi"		"**撤退！快去那个基地！**"
+	}
+	"**The teleporter will open in 30 seconds**"
+	{
+		"chi"		"**传送器将在30秒后生效**"
+	}
+	"**Defend it from zombies**"
+	{
+		"chi"		"**抵抗住所有僵尸**"
+	}
+	"**Cover for 20 more seconds**"
+	{
+		"chi"		"**再多守20秒**"
+	}
+	"**Defend for 10 more seconds**"
+	{
+		"chi"		"**还有10秒**"
+	}
+	"**Teleporter #1 will open in 10 seconds**"
+	{
+		"chi"		"**传送门#1将在10秒后开启**"
+	}
+	"**Teleporter #2 will open in 10 seconds**"
+	{
+		"chi"		"**传送门#2将在10秒后开启**"
+	}
+	"**The toy chopper will leave in 20 seconds**"
+	{
+		"chi"		"**玩具直升机将在20秒后离开**"
+	}
+	"**And now a brief message from the H&H Company!**"
+	{
+		"chi"		"**以下是来自H&H公司的消息**"
+	}
+	"**The Headshooter & HaRyDes company wishes you a happy flight**"
+	{
+		"chi"		"**Headshooter & HaRyDes公司祝您飞行愉快**"
+	}
+	"**And recommends you stay in the front of the helicopter to ensure your safety**"
+	{
+		"chi"		"**推荐您在飞机前排以确保您的安全**"
+	}
+	"**Any and every accident will be handled by Glacius&Vanya Co.**"
+	{
+		"chi"		"**所有的飞行事故都是由Glacius&Vanya公司造成的**"
+	}
+	"**You are almost there! Keep the plague off the chopper!**"
+	{
+		"chi"		"**马上就要到目的地了！不要让僵尸上飞机！**"
+	}
+	"**Johnny! Use the teleport and get out of there quick!**"
+	{
+		"chi"		"**强尼！快点用传送门远离这里！**"
+	}
+	"Professor *And here you are... you realize what our situation is right?*"
+	{
+		"chi"		"**教授：于是你就回来了...你知道我们的决定是对的了吧？**"
+	}
+	"Johnny *Yeah yeah... Hitler and Rayvel will build a paper ship and try to take over the world...*"
+	{
+		"chi"		"**强尼：好好，是...希特勒和瑞威尔会建造一个纸船，试图接管这个世界...**"
+	}
+	"Professor *Thats right. Washington is under attack by their giant paper ship and all thanks to you*"
+	{
+		"chi"		"**教授：是的没错.因为你华盛顿正在遭受他们的巨大纸船的攻击**"
+	}
+	"Johnny *Yeah well go fuck yourself. Ill think about saving them later*"
+	{
+		"chi"		"**强尼：我可去你妈的吧！我一会再去救他们...**"
+	}
+	"Johnny *Now I will go masturbate or something... Ill take care of them later...*"
+	{
+		"chi"		"**现在我要拤一发或者干点别的事...再过一会就去照顾他们...**"
+	}
+	"**The End... for now?**"
+	{
+		"chi"		"**结束...了吗？**"
+	}
+	"**NO BALLS MODE ACTIVATED**"
+	{
+		"chi"		"**NO BALLS 模式...启动**"
+	}
+	"**NOW BABIES THE REAL GAME HAS STARTED**"
+	{
+		"chi"		"**真正的游戏，现在才开始**"
+	}
+	"**An admin has changed next level to Stage 2**"
+	{
+		"chi"		"**管理员将关卡改为关卡2**"
+	}
+	"**No Balls Mode enabled**"
+	{
+		"chi"		"**No Balls 模式生效**"
+	}
+	"**You suddenly feel like you grew a huge pair of cojones**"
+	{
+		"chi"		"**你突然变得大胆起来**"
+	}
+	"**No Balls Mode enabled -- Good luck you babies!**"
+	{
+		"chi"		"**No Balls 模式启动了--祝你好运，弱者们**"
+	}
+	"**An admin has changed next level to Stage 3**"
+	{
+		"chi"		"**管理员将关卡改为关卡3**"
+	}
+	"**An admin has changed next level to Stage 1**"
+	{
+		"chi"		"**管理员将关卡改为关卡1**"
+	}
+	"[Dealer] **Ah... that is some rare intel youve got there**"
+	{
+		"chi"		"**[PY交易]：啊♂...你居然弄到了稀有的的Intel**"
+	}
+	"[Dealer] **Wanna trade with me? I have a rare item that I think youd like**"
+	{
+		"chi"		"**[PY交易]：想和我交易吗？我也有稀有的东西，也许你会喜欢**"
+	}
+	"[Dealer] **Nice... come visit me in my shop in the Kingdom of Steroids**"
+	{
+		"chi"		"**[PY交易]：Oh ♂ ThatsGood...到乐高王国的时候来我的商店吧**"
+	}
+	"[Dealer] **Ill give you your item there**"
+	{
+		"chi"		"**[PY交易]：我会在那把东西给你的**"
+	}
+	"**A player has picked up some weird UFO thing**"
+	{
+		"chi"		"**一位玩家拾起了一个不可思议的UFO**"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"zr_poison_enabled 0"
+		}
+	}
+}

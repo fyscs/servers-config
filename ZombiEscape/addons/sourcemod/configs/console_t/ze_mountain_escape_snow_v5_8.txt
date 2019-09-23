@@ -1,616 +1,616 @@
 "Console_T"
 {
-    "[Music] si-ke - The star in esclipse"
-    {
-        "chi"        "**[音乐] si-ke - The star in esclipse**"
-    }
-    "***Zombie picked up Freeze***"
-    {
-        "chi"        "**一位僵尸拿起了僵尸冰冻 **"
-    }
-    "[Music] Dj Taka meet Dj Yoshitaka - Elemental Creation"
-    {
-        "chi"        "**[音乐] Dj Taka meet Dj Yoshitaka - Elemental Creation**"
-    }
-    "***Ammo picked up***"
-    {
-        "chi"        "**无限子弹已被拿起 **"
-    }
-    "23 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "20 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "18 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "15 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "13 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "10 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "8 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "***Holy picked up***"
-    {
-        "chi"        "**终极已被拿起 **"
-    }
-    "***Holy used***"
-    {
-        "chi"        "**终极已使用 **"
-    }
-    "38 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "35 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "55 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "53 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "50 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "70 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "68 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "88 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "83 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "80 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "78 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "** BOSS MATEUS CHARGES HIS LAST ATTACK!  **"
-    {
-        "chi"        "**BOSS准备使用它的终极技能 **"
-    }
-    "** 15 SECONDS BEFORE EVERYONE FREEZES TO DEATH!  **"
-    {
-        "chi"        "**15秒之后每个人都将死亡 **"
-        "DoorCountDown"        "15"
-    }
-    "75 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "73 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "65 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "63 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "***Ammo used***"
-    {
-        "chi"        "**无限子弹已使用 **"
-    }
-    "[Music] Camelia - Ultimate Ascension"
-    {
-        "chi"        "**[音乐] Camelia - Ultimate Ascension**"
-    }
-    "***Helicopter 2 explode in 3s***"
-    {
-        "chi"        "**直升机2将在3秒后爆炸 **"
-    }
-    "[Music] xi - time to air -Fly high Remix-"
-    {
-        "chi"        "**[音乐] xi - time to air -Fly high Remix-**"
-    }
-    "***Modified by Reflelia***"
-    {
-        "chi"        "**地图修改：Reflelia **"
-    }
-    "***CURRENT MODE >>>CUSTOM<<<***"
-    {
-        "chi"        "**当前模式>>>自定义<<<**"
-    }
-    "***CURRENT MODE >>>SOFA<<<***"
-    {
-        "chi"        "**当前模式>>>沙发<<< **"
-    }
-    "***Break all walls and boxes with sofa***"
-    {
-        "chi"        "**用沙发打破所有的箱子和铁丝网 **"
-        "ico"        "icon_fire"
-    }
-    "***A Train is coming...***"
-    {
-        "chi"        "**火车要来了… **"
-        "ico"        "icon_fire"
-    }
-    "***AFK Teleport in 8 seconds***"
-    {
-        "chi"        "**挂机玩家将在8秒后传送 **"
-    }
-    "***AFK Teleport in 15 seconds***"
-    {
-        "chi"        "**挂机玩家将在15秒后传送 **"
-    }
-    "***AFK Teleport in 6 seconds***"
-    {
-        "chi"        "**挂机玩家将在6秒后传送 **"
-    }
-    "***Level Failed***"
-    {
-        "chi"        "**本关失败 **"
-    }
-    "***Timed Out***"
-    {
-        "chi"        "**你们超时了 **"
-    }
-    "***CURRENT MODE >>>EXTREME<<<***"
-    {
-        "chi"        "**当前模式>>>BOSS<<< **"
-    }
-    "***Nuke launched***"
-    {
-        "chi"        "**核弹发射 **"
-    }
-    "***Wind picked up***"
-    {
-        "chi"        "**风已被拿起 **"
-    }
-    "***Snow picked up***"
-    {
-        "chi"        "**泡泡已被拿起 **"
-    }
-    "***Snow used***"
-    {
-        "chi"        "**泡泡使用 **"
-    }
-    "***Heal picked up***"
-    {
-        "chi"        "**奶已被拿起 **"
-    }
-    "***Teleport activates in few seconds***"
-    {
-        "chi"        "**在几秒钟后传送激活 **"
-    }
-    "***Heal used***"
-    {
-        "chi"        "**奶已使用 **"
-    }
-    "***Wind Used***"
-    {
-        "chi"        "**风已使用 **"
-    }
-    "***Zombie teleport in 10 seconds***"
-    {
-        "chi"        "**僵尸10秒后传送 **"
-    }
-    "***CURRENT MODE >>>NORMAL<<<***"
-    {
-        "chi"        "**当前模式>>>普通<<< **"
-    }
-    "***30 SECONDS LEFT***"
-    {
-        "chi"        "**还剩30秒 **"
-        "DoorCountDown"        "30"
-    }
-    "***Jump portal opened***"
-    {
-        "chi"        "**高空跳跃已开启 **"
-    }
-    "***10 SECONDS LEFT***"
-    {
-        "chi"        "** 还剩10秒**"
-    }
-    "***5***"
-    {
-        "chi"        "** **"
-    }
-    "***4***"
-    {
-        "chi"        "** **"
-    }
-    "***3***"
-    {
-        "chi"        "** **"
-    }
-    "***2***"
-    {
-        "chi"        "** **"
-    }
-    "***1***"
-    {
-        "chi"        "** **"
-    }
-    "***Nuke impact***"
-    {
-        "chi"        "**核弹爆炸 **"
-    }
-    "***Player picked up Radio***"
-    {
-        "chi"        "**一位玩家拿起点歌机 **"
-    }
-    "***Zombie picked up Gravity***"
-    {
-        "chi"        "**一位僵尸拿起了黑洞 **"
-    }
-    "***Barrel picked up***"
-    {
-        "chi"        "**桶已被拿起 **"
-    }
-    "***Ice picked up***"
-    {
-        "chi"        "**冰已被拿起 **"
-    }
-    "***Ice Used***"
-    {
-        "chi"        "**冰已使用 **"
-    }
-    "***Teleport Enable in 50 seconds***"
-    {
-        "chi"        "**50秒后激活传送点 **"
-        "DoorCountDown"        "50"
-    }
-    "[Music] Xi - Anima"
-    {
-        "chi"        "** **"
-    }
-    "[Music] Sawawa - Cosmic Drive"
-    {
-        "chi"        "** **"
-    }
-    "[Music] Jim Yosef - Firefly"
-    {
-        "chi"        "** **"
-    }
-    "***5 seconds left***"
-    {
-        "chi"        "**还剩5秒 **"
-    }
-    "***Wind Casted***"
-    {
-        "chi"        "**BOSS使用了风（按住反方向键） **"
-        "ico"        "icon_fire"
-    }
-    "***Gravity Casted***"
-    {
-        "chi"        "**BOSS使用了黑洞（按住S键） **"
-        "ico"        "icon_fire"
-    }
-    "***Zombie picked up Nuke***"
-    {
-        "chi"        "**僵尸核弹已被拿起 **"
-    }
-    "***Train aboarded***"
-    {
-        "chi"        "**火车来了 **"
-        "ico"        "icon_fire"
-    }
-    "***Ice Casted***"
-    {
-        "chi"        "**BOSS使用了冰 **"
-        "ico"        "icon_fire"
-    }
-    "***Speed picked up***"
-    {
-        "chi"        "**加速已被拿起 **"
-    }
-    "***Helicopter 1 explode in 3s***"
-    {
-        "chi"        "**直升机1将在3秒后爆炸 **"
-    }
-    "[Music] XI - Freedom dive"
-    {
-        "chi"        "** **"
-    }
-    "[Music] Panda Eyes & Teminite - High Score"
-    {
-        "chi"        "** **"
-    }
-    "[Music] Penoreri - Everlasting Message"
-    {
-        "chi"        "** **"
-    }
-    "***Teleport back activates in 50 seconds***"
-    {
-        "chi"        "**50秒后激活传送 **"
-        "DoorCountDown"        "50"
-    }
-    "***Go Back to teleport place***"
-    {
-        "chi"        "**回到传送点 **"
-    }
-    "[Music] Das Beer Boot"
-    {
-        "chi"        "** **"
-    }
-    "[MUSIC] Pendulum - Encoder"
-    {
-        "chi"        "** **"
-    }
-    "***Thruster Casted***"
-    {
-        "chi"        "** **"
-    }
-    "***A PLAYER SLAIN BY A BARREL***"
-    {
-        "chi"        "**一位玩家被桶杀死 **"
-    }
-    "[MUSIC] Penoreri - Prayer"
-    {
-        "chi"        "** **"
-    }
-    "***A PLAYER BLOW UP WITH HELICOPTER***"
-    {
-        "chi"        "**一位玩家摧毁了直升机 **"
-    }
-    "***50 SECONDS LEFT***"
-    {
-        "chi"        "**还剩50秒 **"
-    }
-    "***40 SECONDS LEFT***"
-    {
-        "chi"        "**还剩40秒 **"
-    }
-    "***20 SECONDS LEFT***"
-    {
-        "chi"        "**还剩20秒 **"
-    }
-    "***60 SECONDS LEFT***"
-    {
-        "chi"        "**还剩60秒 **"
-    }
-    "***WARM UP ROUIND***"
-    {
-        "chi"        "**热身赛 **"
-    }
-    "***CURRENT MODE >>>PARAMINA<<<***"
-    {
-        "chi"        "**当前模式：帕拉米亚 **"
-    }
-    "***Protector picked up***"
-    {
-        "chi"        "** **"
-    }
-    "***TELEPORT ACTIATING IN 30 SECONDS***"
-    {
-        "chi"        "**传送30秒后激活 **"
-        "DoorCountDown"        "30"
-    }
-    "***Way to Mysterious Room Open in 30 seconds***"
-    {
-        "chi"        "**神秘的房间将在30秒后打开 **"
-        "DoorCountDown"        "30"
-    }
-    "***MATEUS HEALED 300 POINTS***"
-    {
-        "chi"        "**背德の皇帝恢复了300HP **"
-    }
-    "** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **"
-    {
-        "chi"        "**幽灵军队来了！准备最后的防守！ **"
-    }
-    "** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **"
-    {
-        "chi"        "**如果你想在米纳斯顶部继续防守的话就必须守住大门 **"
-    }
-    "***AFK TELEPORT IN 10 SECONDS***"
-    {
-        "chi"        "**AKF玩家10秒后传送 **"
-    }
-    "** THIS IS THE MOMENT OF THE TRUTH ** FIGHT LIKE YOU HAVE NEVER FIGHTED BEFORE! **"
-    {
-        "chi"        "**准备战斗 **这一次只为了你自己 **"
-    }
-    "0 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "** MATEUS IS CHARGING FOR SUPERATTACK **"
-    {
-        "chi"        "**背德の皇帝准备释放大招 **"
-    }
-    "33 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "30 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "28 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "25 . STAGGER"
-    {
-        "chi"        "** **"
-    }
-    "***Teleport back activate in 20 seconds***"
-    {
-        "chi"        "**传送点20秒后重新激活 **"
-        "DoorCountDown"        "20"
-    }
-    "***ADMIN CHANGED MODE [NORMAL]***"
-    {
-        "chi"        "**管理员选择了普通模式 **"
-    }
-    "***ADMIN CHANGED MODE [CUSTOM]***"
-    {
-        "chi"        "**管理员选择了自定义模式 **"
-    }
-    "***ADMIN ENABLE ADDON MODE [LOW FRICTION]***"
-    {
-        "chi"        "**管理员启动了插件：低摩擦 **"
-    }
-    "[MUSIC] The Prodigy - Invaders Must Die"
-    {
-        "chi"        "** **"
-    }
-    "[MUSIC] xi + nora2r - Dreadnought"
-    {
-        "chi"        "** **"
-    }
-    "[MUSIC] The Prodigy - Omen"
-    {
-        "chi"        "** **"
-    }
-    "***ADMIN ENABLE ADDON MODE [METEOR]***"
-    {
-        "chi"        "**管理员启动了插件：天谴 **"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "70357"
-    }
-    "***ADMIN ENABLE ADDON MODE [LOW GRAVITY]***"
-    {
-        "chi"        "** **"
-    }
-    "***ADMIN ENABLE ADDON MODE [FOG]***"
-    {
-        "chi"        "** **"
-    }
-    "***For Balance, Please Do not use this Item***"
-    {
-        "chi"        "** **"
-    }
-    "***ChainSaw Picked up***"
-    {
-        "chi"        "** **"
-    }
-    "***Player Picked up Pulse***"
-    {
-        "chi"        "** **"
-    }
-    "***Wall picked up***"
-    {
-        "chi"        "** **"
-    }
-    "***grenade picked up***"
-    {
-        "chi"        "** **"
-    }
-    "[MUSIC] TAG - GERBERA"
-    {
-        "chi"        "** **"
-    }
-    "[MUSIC] Tobu - Higher"
-    {
-        "chi"        "** **"
-    }
-    "[MUSIC] WAiKURO - Androgynos"
-    {
-        "chi"        "** **"
-    }
-    "***Zombie picked up Pizza***"
-    {
-        "chi"        "** **"
-    }
-    "[MUSIC] Polysha - Ultimate Weapon pt. 2"
-    {
-        "chi"        "** **"
-    }
-    "[MUSIC] Im Gonna Be - The Proclaimers Remix"
-    {
-        "chi"        "** **"
-    }
-    "[MUSIC] An - TearVid"
-    {
-        "chi"        "** **"
-    }
-    "***Zombie picked up Protector***"
-    {
-        "chi"        "** **"
-    }
-    "[MUSIC] Blue Stahli - Shotgun Senorita (Zardonic remix)"
-    {
-        "chi"        "** **"
-    }
-    "[MUSIC] Jim Yosef - Link"
-    {
-        "chi"        "** **"
-    }
-    "***Zombie picked up Laser***"
-    {
-        "chi"        "** **"
-    }
-    "***Zombie picked up Jump***"
-    {
-        "chi"        "** **"
-    }
-    "[MUSIC] Cosmo@RunawayP - Oceanus"
-    {
-        "chi"        "** **"
-    }
-    "[MUSIC] SYUNN - Megalara Garuda"
-    {
-        "chi"        "** **"
-    }
-    "[MUSIC] Pendulum - Vulture"
-    {
-        "chi"        "** **"
-    }
-    "***TRAIN EXPLODED***"
-    {
-        "chi"        "** **"
-    }
-    "**stage1**"
-    {
-        "chi"        "** **"
-    }
-    "**map by:一条会翻身的鱼**"
-    {
-        "chi"        "** **"
-    }
-    "[MUSIC] I'm Gonna Be - The Proclaimers Remix"
-    {
-        "chi"        "** **"
-    }
-    "** ZE_SUPERSHITSHOW **"
-    {
-        "chi"        "** **"
-    }
-    "** A mode will be chosen shortly... **"
-    {
-        "chi"        "** **"
-    }
-    "---***This map will mute your sound if you are outside the lunar base***---"
-    {
-        "chi"        "** **"
-    }
+	"[Music] si-ke - The star in esclipse"
+	{
+		"chi"		"**[音乐] si-ke - The star in esclipse**"
+	}
+	"***Zombie picked up Freeze***"
+	{
+		"chi"		"**一位僵尸拿起了僵尸冰冻 **"
+	}
+	"[Music] Dj Taka meet Dj Yoshitaka - Elemental Creation"
+	{
+		"chi"		"**[音乐] Dj Taka meet Dj Yoshitaka - Elemental Creation**"
+	}
+	"***Ammo picked up***"
+	{
+		"chi"		"**无限子弹已被拿起 **"
+	}
+	"23 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"20 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"18 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"15 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"13 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"10 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"8 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"***Holy picked up***"
+	{
+		"chi"		"**终极已被拿起 **"
+	}
+	"***Holy used***"
+	{
+		"chi"		"**终极已使用 **"
+	}
+	"38 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"35 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"55 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"53 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"50 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"70 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"68 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"88 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"83 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"80 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"78 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"** BOSS MATEUS CHARGES HIS LAST ATTACK!  **"
+	{
+		"chi"		"**BOSS准备使用它的终极技能 **"
+	}
+	"** 15 SECONDS BEFORE EVERYONE FREEZES TO DEATH!  **"
+	{
+		"chi"		"**15秒之后每个人都将死亡 **"
+		"DoorCountDown"		"15"
+	}
+	"75 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"73 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"65 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"63 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"***Ammo used***"
+	{
+		"chi"		"**无限子弹已使用 **"
+	}
+	"[Music] Camelia - Ultimate Ascension"
+	{
+		"chi"		"**[音乐] Camelia - Ultimate Ascension**"
+	}
+	"***Helicopter 2 explode in 3s***"
+	{
+		"chi"		"**直升机2将在3秒后爆炸 **"
+	}
+	"[Music] xi - time to air -Fly high Remix-"
+	{
+		"chi"		"**[音乐] xi - time to air -Fly high Remix-**"
+	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"**地图修改：Reflelia **"
+	}
+	"***CURRENT MODE >>>CUSTOM<<<***"
+	{
+		"chi"		"**当前模式>>>自定义<<<**"
+	}
+	"***CURRENT MODE >>>SOFA<<<***"
+	{
+		"chi"		"**当前模式>>>沙发<<< **"
+	}
+	"***Break all walls and boxes with sofa***"
+	{
+		"chi"		"**用沙发打破所有的箱子和铁丝网 **"
+		"ico"		"icon_fire"
+	}
+	"***A Train is coming...***"
+	{
+		"chi"		"**火车要来了… **"
+		"ico"		"icon_fire"
+	}
+	"***AFK Teleport in 8 seconds***"
+	{
+		"chi"		"**挂机玩家将在8秒后传送 **"
+	}
+	"***AFK Teleport in 15 seconds***"
+	{
+		"chi"		"**挂机玩家将在15秒后传送 **"
+	}
+	"***AFK Teleport in 6 seconds***"
+	{
+		"chi"		"**挂机玩家将在6秒后传送 **"
+	}
+	"***Level Failed***"
+	{
+		"chi"		"**本关失败 **"
+	}
+	"***Timed Out***"
+	{
+		"chi"		"**你们超时了 **"
+	}
+	"***CURRENT MODE >>>EXTREME<<<***"
+	{
+		"chi"		"**当前模式>>>BOSS<<< **"
+	}
+	"***Nuke launched***"
+	{
+		"chi"		"**核弹发射 **"
+	}
+	"***Wind picked up***"
+	{
+		"chi"		"**风已被拿起 **"
+	}
+	"***Snow picked up***"
+	{
+		"chi"		"**泡泡已被拿起 **"
+	}
+	"***Snow used***"
+	{
+		"chi"		"**泡泡使用 **"
+	}
+	"***Heal picked up***"
+	{
+		"chi"		"**奶已被拿起 **"
+	}
+	"***Teleport activates in few seconds***"
+	{
+		"chi"		"**在几秒钟后传送激活 **"
+	}
+	"***Heal used***"
+	{
+		"chi"		"**奶已使用 **"
+	}
+	"***Wind Used***"
+	{
+		"chi"		"**风已使用 **"
+	}
+	"***Zombie teleport in 10 seconds***"
+	{
+		"chi"		"**僵尸10秒后传送 **"
+	}
+	"***CURRENT MODE >>>NORMAL<<<***"
+	{
+		"chi"		"**当前模式>>>普通<<< **"
+	}
+	"***30 SECONDS LEFT***"
+	{
+		"chi"		"**还剩30秒 **"
+		"DoorCountDown"		"30"
+	}
+	"***Jump portal opened***"
+	{
+		"chi"		"**高空跳跃已开启 **"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"chi"		"** 还剩10秒**"
+	}
+	"***5***"
+	{
+		"chi"		"** **"
+	}
+	"***4***"
+	{
+		"chi"		"** **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"***Nuke impact***"
+	{
+		"chi"		"**核弹爆炸 **"
+	}
+	"***Player picked up Radio***"
+	{
+		"chi"		"**一位玩家拿起点歌机 **"
+	}
+	"***Zombie picked up Gravity***"
+	{
+		"chi"		"**一位僵尸拿起了黑洞 **"
+	}
+	"***Barrel picked up***"
+	{
+		"chi"		"**桶已被拿起 **"
+	}
+	"***Ice picked up***"
+	{
+		"chi"		"**冰已被拿起 **"
+	}
+	"***Ice Used***"
+	{
+		"chi"		"**冰已使用 **"
+	}
+	"***Teleport Enable in 50 seconds***"
+	{
+		"chi"		"**50秒后激活传送点 **"
+		"DoorCountDown"		"50"
+	}
+	"[Music] Xi - Anima"
+	{
+		"chi"		"** **"
+	}
+	"[Music] Sawawa - Cosmic Drive"
+	{
+		"chi"		"** **"
+	}
+	"[Music] Jim Yosef - Firefly"
+	{
+		"chi"		"** **"
+	}
+	"***5 seconds left***"
+	{
+		"chi"		"**还剩5秒 **"
+	}
+	"***Wind Casted***"
+	{
+		"chi"		"**BOSS使用了风（按住反方向键） **"
+		"ico"		"icon_fire"
+	}
+	"***Gravity Casted***"
+	{
+		"chi"		"**BOSS使用了黑洞（按住S键） **"
+		"ico"		"icon_fire"
+	}
+	"***Zombie picked up Nuke***"
+	{
+		"chi"		"**僵尸核弹已被拿起 **"
+	}
+	"***Train aboarded***"
+	{
+		"chi"		"**火车来了 **"
+		"ico"		"icon_fire"
+	}
+	"***Ice Casted***"
+	{
+		"chi"		"**BOSS使用了冰 **"
+		"ico"		"icon_fire"
+	}
+	"***Speed picked up***"
+	{
+		"chi"		"**加速已被拿起 **"
+	}
+	"***Helicopter 1 explode in 3s***"
+	{
+		"chi"		"**直升机1将在3秒后爆炸 **"
+	}
+	"[Music] XI - Freedom dive"
+	{
+		"chi"		"** **"
+	}
+	"[Music] Panda Eyes & Teminite - High Score"
+	{
+		"chi"		"** **"
+	}
+	"[Music] Penoreri - Everlasting Message"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport back activates in 50 seconds***"
+	{
+		"chi"		"**50秒后激活传送 **"
+		"DoorCountDown"		"50"
+	}
+	"***Go Back to teleport place***"
+	{
+		"chi"		"**回到传送点 **"
+	}
+	"[Music] Das Beer Boot"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Pendulum - Encoder"
+	{
+		"chi"		"** **"
+	}
+	"***Thruster Casted***"
+	{
+		"chi"		"** **"
+	}
+	"***A PLAYER SLAIN BY A BARREL***"
+	{
+		"chi"		"**一位玩家被桶杀死 **"
+	}
+	"[MUSIC] Penoreri - Prayer"
+	{
+		"chi"		"** **"
+	}
+	"***A PLAYER BLOW UP WITH HELICOPTER***"
+	{
+		"chi"		"**一位玩家摧毁了直升机 **"
+	}
+	"***50 SECONDS LEFT***"
+	{
+		"chi"		"**还剩50秒 **"
+	}
+	"***40 SECONDS LEFT***"
+	{
+		"chi"		"**还剩40秒 **"
+	}
+	"***20 SECONDS LEFT***"
+	{
+		"chi"		"**还剩20秒 **"
+	}
+	"***60 SECONDS LEFT***"
+	{
+		"chi"		"**还剩60秒 **"
+	}
+	"***WARM UP ROUIND***"
+	{
+		"chi"		"**热身赛 **"
+	}
+	"***CURRENT MODE >>>PARAMINA<<<***"
+	{
+		"chi"		"**当前模式：帕拉米亚 **"
+	}
+	"***Protector picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***TELEPORT ACTIATING IN 30 SECONDS***"
+	{
+		"chi"		"**传送30秒后激活 **"
+		"DoorCountDown"		"30"
+	}
+	"***Way to Mysterious Room Open in 30 seconds***"
+	{
+		"chi"		"**神秘的房间将在30秒后打开 **"
+		"DoorCountDown"		"30"
+	}
+	"***MATEUS HEALED 300 POINTS***"
+	{
+		"chi"		"**背德の皇帝恢复了300HP **"
+	}
+	"** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **"
+	{
+		"chi"		"**幽灵军队来了！准备最后的防守！ **"
+	}
+	"** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **"
+	{
+		"chi"		"**如果你想在米纳斯顶部继续防守的话就必须守住大门 **"
+	}
+	"***AFK TELEPORT IN 10 SECONDS***"
+	{
+		"chi"		"**AKF玩家10秒后传送 **"
+	}
+	"** THIS IS THE MOMENT OF THE TRUTH ** FIGHT LIKE YOU HAVE NEVER FIGHTED BEFORE! **"
+	{
+		"chi"		"**准备战斗 **这一次只为了你自己 **"
+	}
+	"0 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"** MATEUS IS CHARGING FOR SUPERATTACK **"
+	{
+		"chi"		"**背德の皇帝准备释放大招 **"
+	}
+	"33 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"30 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"28 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"25 . STAGGER"
+	{
+		"chi"		"** **"
+	}
+	"***Teleport back activate in 20 seconds***"
+	{
+		"chi"		"**传送点20秒后重新激活 **"
+		"DoorCountDown"		"20"
+	}
+	"***ADMIN CHANGED MODE [NORMAL]***"
+	{
+		"chi"		"**管理员选择了普通模式 **"
+	}
+	"***ADMIN CHANGED MODE [CUSTOM]***"
+	{
+		"chi"		"**管理员选择了自定义模式 **"
+	}
+	"***ADMIN ENABLE ADDON MODE [LOW FRICTION]***"
+	{
+		"chi"		"**管理员启动了插件：低摩擦 **"
+	}
+	"[MUSIC] The Prodigy - Invaders Must Die"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] xi + nora2r - Dreadnought"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] The Prodigy - Omen"
+	{
+		"chi"		"** **"
+	}
+	"***ADMIN ENABLE ADDON MODE [METEOR]***"
+	{
+		"chi"		"**管理员启动了插件：天谴 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"70357"
+	}
+	"***ADMIN ENABLE ADDON MODE [LOW GRAVITY]***"
+	{
+		"chi"		"** **"
+	}
+	"***ADMIN ENABLE ADDON MODE [FOG]***"
+	{
+		"chi"		"** **"
+	}
+	"***For Balance, Please Do not use this Item***"
+	{
+		"chi"		"** **"
+	}
+	"***ChainSaw Picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***Player Picked up Pulse***"
+	{
+		"chi"		"** **"
+	}
+	"***Wall picked up***"
+	{
+		"chi"		"** **"
+	}
+	"***grenade picked up***"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] TAG - GERBERA"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Tobu - Higher"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] WAiKURO - Androgynos"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie picked up Pizza***"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Polysha - Ultimate Weapon pt. 2"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Im Gonna Be - The Proclaimers Remix"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] An - TearVid"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie picked up Protector***"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Blue Stahli - Shotgun Senorita (Zardonic remix)"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Jim Yosef - Link"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie picked up Laser***"
+	{
+		"chi"		"** **"
+	}
+	"***Zombie picked up Jump***"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Cosmo@RunawayP - Oceanus"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] SYUNN - Megalara Garuda"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] Pendulum - Vulture"
+	{
+		"chi"		"** **"
+	}
+	"***TRAIN EXPLODED***"
+	{
+		"chi"		"** **"
+	}
+	"**stage1**"
+	{
+		"chi"		"** **"
+	}
+	"**map by:一条会翻身的鱼**"
+	{
+		"chi"		"** **"
+	}
+	"[MUSIC] I'm Gonna Be - The Proclaimers Remix"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_SUPERSHITSHOW **"
+	{
+		"chi"		"** **"
+	}
+	"** A mode will be chosen shortly... **"
+	{
+		"chi"		"** **"
+	}
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"chi"		"** **"
+	}
 }

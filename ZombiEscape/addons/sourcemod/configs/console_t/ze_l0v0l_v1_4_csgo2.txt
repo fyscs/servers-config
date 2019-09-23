@@ -1,467 +1,467 @@
 "Console_T"
 {
-    ">>> STAGE 1 : GARDEN MODE<<<"
-    {
-        "chi"        ">>>第一关：花园模式<<<"
-    }
-    ">>> Map made by Moray <<<"
-    {
-        "chi"        ">>>地图作者：Moray  地图汉化：大明<<<"
-    }
-    ">>> Special thanks to hobbit <<<"
-    {
-        "chi"        ">>>特别感谢：hobbit<<<"
-    }
-    ">>> HOLD 20 SECONDS <<<"
-    {
-        "chi"        ">>>防守20秒<<<"
-    }
-    ">>> ROUTE1 : HOLD 20 SECONDS <<<"
-    {
-        "chi"        ">>>路径1：防守20秒<<<"
-    }
-    ">>> PLAYER HAS PICKED UP SLOWER SPHERE <<<"
-    {
-        "chi"        ">>>玩家释放了减速<<<"
-    }
-    ">>> ROUTE2 : HOLD 20 SECONDS <<<"
-    {
-        "chi"        ">>>路径2:防守20秒<<<"
-    }
-    ">>> PLAYER HAS PICKED UP HEAL <<<"
-    {
-        "chi"        ">>>一名人类获得了奶<<<"
-    }
-    ">>> PLAYER HAS PICKED UP AMMO <<<"
-    {
-        "chi"        ">>>一名人类获得了弹药<<<"
-    }
-    ">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<"
-    {
-        "chi"        ">>>一名人类获得了减速<<<"
-    }
-    ">>> HOLD 25 SECONDS <<<"
-    {
-        "chi"        ">>>守住25秒<<<"
-    }
-    ">>> HOLD 10 SECONDS <<<"
-    {
-        "chi"        ">>>守住10秒<<<"
-    }
-    ">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
-    {
-        "chi"        ">>>一名僵尸获得了黑洞<<<"
-    }
-    "---Feedback:noojeff@gmail.com---"
-    {
-        "chi"        "**资料：noojeff@gmail.com**"
-    }
-    "---Special Thank To:HZM654321 and JackBauer123---"
-    {
-        "chi"        "**特别感谢：HZM654321 和 JackBauer123**"
-    }
-    ">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<"
-    {
-        "chi"        ">>>一名人类获得了电<<<"
-    }
-    ">>> HOLD 15 SECONDS <<<"
-    {
-        "chi"        ">>>守住15秒<<<"
-    }
-    ">>> PRIEST IS COMING <<<"
-    {
-        "chi"        ">>>神父来了<<<"
-    }
-    ">>> PRIEST IS DEFEATED <<<"
-    {
-        "chi"        ">>>神父被打败了<<<"
-    }
-    ">>> STAGE 1 COMPLETED <<<"
-    {
-        "chi"        ">>>第一关完成<<<"
-    }
-    ">>> STAGE 2 : FOREST MODE<<<"
-    {
-        "chi"        ">>>第二关：森林模式<<<"
-    }
-    ">>> ROUTE3 : HOLD 15 SECONDS <<<"
-    {
-        "chi"        ">>>路径3:守住15秒<<<"
-    }
-    ">>> HOLD 35 SECONDS <<<"
-    {
-        "chi"        ">>>守住35秒<<<"
-    }
-    ">>> GARGANTUA IS COMING <<<"
-    {
-        "chi"        ">>>巨兽来了<<<"
-    }
-    ">>> HOLD 30 SECONDS <<<"
-    {
-        "chi"        ">>>守住30秒<<<"
-    }
-    ">>> 5 SECONDS LEFT <<<"
-    {
-        "chi"        ">>>还有5秒<<<"
-    }
-    ">>> GARGANTUA IS DEFEATED <<<"
-    {
-        "chi"        ">>>巨兽被打败了<<<"
-    }
-    ">>> STAGE 2 COMPLETED <<<"
-    {
-        "chi"        ">>>第二关完成<<<"
-    }
-    ">>> STAGE 3 : FACILITY MODE<<<"
-    {
-        "chi"        ">>>第三关：灵巧模式<<<"
-    }
-    ">>> HARPY IS COMING <<<"
-    {
-        "chi"        ">>>哈尔皮埃正在接近<<<"
-    }
-    ">>> HARPY USED LOL <<<"
-    {
-        "chi"        ">>>哈尔皮埃使用了长线攻击<<<"
-    }
-    ">>> HARPY USED HUGE FEATHER <<<"
-    {
-        "chi"        ">>>哈尔皮埃使用了大羽毛攻击<<<"
-    }
-    ">>> HARPY USED FEATHER <<<"
-    {
-        "chi"        ">>>哈尔皮埃使用了羽毛<<<"
-    }
-    ">>> HARPY USED WIND <<<"
-    {
-        "chi"        ">>>哈尔皮埃使用了席卷之风<<<"
-    }
-    ">>> HARPY IS DEFEATED <<<"
-    {
-        "chi"        ">>>哈尔皮埃被打败了<<<"
-    }
-    ">>> WATCH OUT FOR TAEPODONG <<<"
-    {
-        "chi"        ">>>小心TAEPODONG<<<"
-    }
-    ">>> AFK TELEPORT IN 5 SECONDS <<<"
-    {
-        "chi"        ">>>5秒后传送挂机的玩家<<<"
-    }
-    ">>> BARRIER BREAK IN 60 SECONDS <<<"
-    {
-        "chi"        ">>>屏障在60秒后消失<<<"
-    }
-    ">>> TIME TO AVOID CANCER LAZERS <<<"
-    {
-        "chi"        ">>>是时候展现真正的实力了！<<<"
-    }
-    ">>> STAGE 3 COMPLETED <<<"
-    {
-        "chi"        ">>>第三关完成<<<"
-    }
-    "**stage 1**"
-    {
-        "chi"        "** **"
-    }
-    ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
-    {
-        "chi"        ">>>一名僵尸获得了奶<<<"
-    }
-    ">>> FAIL ROUND <<<"
-    {
-        "chi"        ">>>你就是个losser<<<"
-    }
-    ">>> PLAYER HAS PICKED UP PUSH <<<"
-    {
-        "chi"        ">>>一名人类获得了风<<<"
-    }
-    ">>> GUNSHIP IS COMING <<<"
-    {
-        "chi"        ">>>炮舰来了<<<"
-    }
-    ">>> GUNSHIP IS DEFEATED <<<"
-    {
-        "chi"        ">>>炮舰被打败了<<<"
-    }
-    ">>> THE WORLD IS GOING TO DARK <<<"
-    {
-        "chi"        ">>>里世界...正在加载<<<"
-    }
-    ">>> STAGE 0 : DARK MODE<<<"
-    {
-        "chi"        ">>>特殊关卡：里世界<<<"
-    }
-    ">>> PRESS 3 BUTTONS TO MAKE PASSAGE <<<"
-    {
-        "chi"        ">>>按3个按钮进入通道<<<"
-    }
-    ">>> YELLOW BUTTON WAS PRESSED <<<"
-    {
-        "chi"        ">>>黄色按钮已按下<<<"
-    }
-    ">>> RED BUTTON WAS PRESSED <<<"
-    {
-        "chi"        ">>>红色按钮已按下<<<"
-    }
-    ">>> BLUE BUTTON WAS PRESSED <<<"
-    {
-        "chi"        ">>>蓝色按钮已按下<<<"
-    }
-    ">>> 5 SECONDS LEFT  GET OUT FROM TRAIN <<<"
-    {
-        "chi"        ">>>5秒后下车<<<"
-    }
-    ">>> IT'S PRIEST <<<"
-    {
-        "chi"        ">>>是神父<<<"
-    }
-    ">>> PRIEST CASTED MAGIC <<<"
-    {
-        "chi"        ">>>神父施放技能<<<"
-    }
-    ">>> THE TORCH WAS LIT <<<"
-    {
-        "chi"        ">>>火炬被点燃了<<<"
-    }
-    ">>> DISASTER IS ABOUT TO CAUSE ONCE AGAIN <<<"
-    {
-        "chi"        ">>>重现灾厄之初<<<"
-    }
-    ">>> PRIEST DISAPPEARED <<<"
-    {
-        "chi"        ">>>神父被打败了<<<"
-    }
-    ">>> PLAYER HAS PICKED UP FIRE TOILET <<<"
-    {
-        "chi"        ">>>一名人类获得了火马桶<<<"
-    }
-    "** ZE_SUPERSHITSHOW **"
-    {
-        "chi"        "** **"
-    }
-    "** A mode will be chosen shortly... **"
-    {
-        "chi"        "**稍后将选择一个模式**"
-    }
-    ">>> PLAYER HAS PICKED UP WATER TOILET <<<"
-    {
-        "chi"        ">>>一名人类获得了水马桶<<<"
-    }
-    ">>> PLAYER HAS PICKED UP ICE TOILET <<<"
-    {
-        "chi"        ">>>一名人类获得了冰马桶<<<"
-    }
-    ">>> WE CAUGHT UP TO PRIEST <<<"
-    {
-        "chi"        ">>>我们找到神父了<<<"
-    }
-    ">>> QUEEN'S LAUGHTER SOUNDS FAINTLY <<<"
-    {
-        "chi"        ">>>女王的笑声隐约可闻<<<"
-    }
-    ">>> PRIEST DISAPPERED <<<"
-    {
-        "chi"        ">>>神父被打败了<<<"
-    }
-    ">>> 5 SECONDS LEFT  WATCH OUT FOR TRAIN <<<"
-    {
-        "chi"        ">>>注意火车还剩5秒<<<"
-    }
-    ">>> BREAK 4 PILLARS TO ACTIVATE TELEPORTER <<<"
-    {
-        "chi"        ">>>打掉4根柱子激活传送器<<<"
-    }
-    ">>> GREEN PILLAR BROKEN <<<"
-    {
-        "chi"        ">>>绿柱断裂<<<"
-    }
-    ">>> BLUE PILLAR BROKEN <<<"
-    {
-        "chi"        ">>>蓝柱碎裂<<<"
-    }
-    ">>> RED PILLAR BROKEN <<<"
-    {
-        "chi"        ">>>红柱碎裂<<<"
-    }
-    ">>> YELLOW PILLAR BROKEN <<<"
-    {
-        "chi"        ">>>黄柱碎裂<<<"
-    }
-    ">>> TELEPORTER WILL ACTIVATE SOON <<<"
-    {
-        "chi"        ">>>传送器很快就启动了<<<"
-    }
-    ">>> AFK TELEPORT IN 10 SECONDS <<<"
-    {
-        "chi"        ">>>AFK玩家10秒后传送<<<"
-    }
-    ">>> PRIEST IS CALLING QUEEN <<<"
-    {
-        "chi"        ">>>神父在召唤女王<<<"
-    }
-    ">>> DEFEAT QUEEN AND BREAK ALL HER WEAPONS <<<"
-    {
-        "chi"        ">>>打败女王和所有的武器<<<"
-    }
-    ">>> QUEEN IS AWAKED <<<"
-    {
-        "chi"        ">>>女王觉醒了<<<"
-    }
-    ">>> QUEEN CASTED TRAIN <<<"
-    {
-        "chi"        ">>>前方来火车，躲避车轨<<<"
-    }
-    ">>> WATCH OUT FOR BEAM CANNON <<<"
-    {
-        "chi"        ">>>注意光束炮<<<"
-    }
-    ">>> ENERGY TANK USED HEAL TO QUEEN <<<"
-    {
-        "chi"        ">>>能量箱会治愈女王<<<"
-    }
-    ">>> QUEEN CASTED LASER <<<"
-    {
-        "chi"        ">>>女王施放了跳刀<<<"
-    }
-    ">>> WATCH OUT FOR HUGE TAEPODONG <<<"
-    {
-        "chi"        ">>>当心TAEPODONG<<<"
-    }
-    ">>> HUGE TAEPODONG LAUNCHER IS BROKEN <<<"
-    {
-        "chi"        ">>>巨大的TAEPODONG发射器坏了<<<"
-    }
-    ">>> ENERGY TANK IS BROKEN <<<"
-    {
-        "chi"        ">>>能量箱坏了<<<"
-    }
-    ">>> PAPER GATLING IS BROKEN <<<"
-    {
-        "chi"        ">>>加特林坏了<<<"
-    }
-    ">>> BEAM CANNON IS BROKEN <<<"
-    {
-        "chi"        ">>>光束炮坏了<<<"
-    }
-    ">>> QUEEN GOT POWER <<<"
-    {
-        "chi"        ">>>女王得到了力量<<<"
-    }
-    ">>> QUEEN CASTED VACUUM <<<"
-    {
-        "chi"        ">>>女王铸造了真空<<<"
-    }
-    ">>> QUEEN CASTED SANIC RUSH <<<"
-    {
-        "chi"        ">>>女王发起了冲击<<<"
-    }
-    ">>> GET ON THE PLATFORM <<<"
-    {
-        "chi"        ">>>上站台<<<"
-    }
-    ">>> QUEEN CASTED WIND <<<"
-    {
-        "chi"        ">>>女王施放了风<<<"
-    }
-    ">>> QUEEN USED FIRE BEAM <<<"
-    {
-        "chi"        ">>>女王施放了火束<<<"
-    }
-    ">>> QUEEN IS HURTED <<<"
-    {
-        "chi"        ">>>女王受伤了<<<"
-    }
-    ">>> QUEEN IS DEFEATED <<<"
-    {
-        "chi"        ">>>女王被打败了<<<"
-    }
-    ">>> EXIT IS OPEN <<<"
-    {
-        "chi"        ">>>出口打开了<<<"
-    }
-    ">>> ZOMBIES TELEPORT IN 5 SECONDS <<<"
-    {
-        "chi"        ">>>僵尸5秒后传送<<<"
-    }
-    ">>> ROUTE 2 : HOLD 20 SECONDS <<<"
-    {
-        "chi"        ">>>路线2：守住20秒<<<"
-    }
-    ">>> ROUTE 2 : AFK TELEPORT IN 10 SECONDS <<<"
-    {
-        "chi"        ">>>路线2：AFK玩家10秒后传送<<<"
-    }
-    ">>> NUKE KING IS COMING <<<"
-    {
-        "chi"        ">>>核弹猛男来了<<<"
-    }
-    ">>> NUKE KING IS DEFEATED <<<"
-    {
-        "chi"        ">>>核弹猛男被打败了<<<"
-    }
-    ">>> TELEPORTER IS ACTIVATED <<<"
-    {
-        "chi"        ">>>传送器启动<<<"
-    }
-    ">>> FINALLY YOU ESCAPED FROM QUEEN <<<"
-    {
-        "chi"        ">>>最后你从女王的毒爪中逃出来了<<<"
-    }
-    ">>> SECRET STAGE COMPLETED <<<"
-    {
-        "chi"        ">>>隐藏关卡完成<<<"
-    }
-    ">>> ADMIN CHANGED TO STAGE 3 <<<"
-    {
-        "chi"        "** **"
-    }
-    ">>> ADMIN PRESSED KILLALL BUTTON  <<<"
-    {
-        "chi"        "** **"
-    }
-    ">>> ADMIN CHANGED TO STAGE 1 <<<"
-    {
-        "chi"        "** **"
-    }
-    ">>> PLAYER HAS PICKED UP GRAVITY TOILET <<<"
-    {
-        "chi"        "** **"
-    }
-    ">>> ADMIN CHANGED TO STAGE 4 <<<"
-    {
-        "chi"        "** **"
-    }
-    ">>> ROUTE 1 : HOLD 20 SECONDS <<<"
-    {
-        "chi"        "** **"
-    }
-    ">>> ROUTE 1 : AFK TELEPORT IN 10 SECONDS <<<"
-    {
-        "chi"        "** **"
-    }
-    ">>> PLAYER HAS PICKED UP EARTH TOILET <<<"
-    {
-        "chi"        "** **"
-    }
-    ">>> PLAYER HAS PICKED UP POISON TOILET <<<"
-    {
-        "chi"        "** **"
-    }
-    ">>> PLAYER HAS PICKED UP WIND TOILET <<<"
-    {
-        "chi"        "** **"
-    }
-    "** Map by ClariceTang **"
-    {
-        "chi"        "** **"
-    }
-    "** Level 1 - Easy **"
-    {
-        "chi"        "** **"
-    }
-    "** Model by K. **"
-    {
-        "chi"        "** **"
-    }
+	">>> STAGE 1 : GARDEN MODE<<<"
+	{
+		"chi"		">>>第一关：花园模式<<<"
+	}
+	">>> Map made by Moray <<<"
+	{
+		"chi"		">>>地图作者：Moray  地图汉化：大明<<<"
+	}
+	">>> Special thanks to hobbit <<<"
+	{
+		"chi"		">>>特别感谢：hobbit<<<"
+	}
+	">>> HOLD 20 SECONDS <<<"
+	{
+		"chi"		">>>防守20秒<<<"
+	}
+	">>> ROUTE1 : HOLD 20 SECONDS <<<"
+	{
+		"chi"		">>>路径1：防守20秒<<<"
+	}
+	">>> PLAYER HAS PICKED UP SLOWER SPHERE <<<"
+	{
+		"chi"		">>>玩家释放了减速<<<"
+	}
+	">>> ROUTE2 : HOLD 20 SECONDS <<<"
+	{
+		"chi"		">>>路径2:防守20秒<<<"
+	}
+	">>> PLAYER HAS PICKED UP HEAL <<<"
+	{
+		"chi"		">>>一名人类获得了奶<<<"
+	}
+	">>> PLAYER HAS PICKED UP AMMO <<<"
+	{
+		"chi"		">>>一名人类获得了弹药<<<"
+	}
+	">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<"
+	{
+		"chi"		">>>一名人类获得了减速<<<"
+	}
+	">>> HOLD 25 SECONDS <<<"
+	{
+		"chi"		">>>守住25秒<<<"
+	}
+	">>> HOLD 10 SECONDS <<<"
+	{
+		"chi"		">>>守住10秒<<<"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
+	{
+		"chi"		">>>一名僵尸获得了黑洞<<<"
+	}
+	"---Feedback:noojeff@gmail.com---"
+	{
+		"chi"		"**资料：noojeff@gmail.com**"
+	}
+	"---Special Thank To:HZM654321 and JackBauer123---"
+	{
+		"chi"		"**特别感谢：HZM654321 和 JackBauer123**"
+	}
+	">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<"
+	{
+		"chi"		">>>一名人类获得了电<<<"
+	}
+	">>> HOLD 15 SECONDS <<<"
+	{
+		"chi"		">>>守住15秒<<<"
+	}
+	">>> PRIEST IS COMING <<<"
+	{
+		"chi"		">>>神父来了<<<"
+	}
+	">>> PRIEST IS DEFEATED <<<"
+	{
+		"chi"		">>>神父被打败了<<<"
+	}
+	">>> STAGE 1 COMPLETED <<<"
+	{
+		"chi"		">>>第一关完成<<<"
+	}
+	">>> STAGE 2 : FOREST MODE<<<"
+	{
+		"chi"		">>>第二关：森林模式<<<"
+	}
+	">>> ROUTE3 : HOLD 15 SECONDS <<<"
+	{
+		"chi"		">>>路径3:守住15秒<<<"
+	}
+	">>> HOLD 35 SECONDS <<<"
+	{
+		"chi"		">>>守住35秒<<<"
+	}
+	">>> GARGANTUA IS COMING <<<"
+	{
+		"chi"		">>>巨兽来了<<<"
+	}
+	">>> HOLD 30 SECONDS <<<"
+	{
+		"chi"		">>>守住30秒<<<"
+	}
+	">>> 5 SECONDS LEFT <<<"
+	{
+		"chi"		">>>还有5秒<<<"
+	}
+	">>> GARGANTUA IS DEFEATED <<<"
+	{
+		"chi"		">>>巨兽被打败了<<<"
+	}
+	">>> STAGE 2 COMPLETED <<<"
+	{
+		"chi"		">>>第二关完成<<<"
+	}
+	">>> STAGE 3 : FACILITY MODE<<<"
+	{
+		"chi"		">>>第三关：灵巧模式<<<"
+	}
+	">>> HARPY IS COMING <<<"
+	{
+		"chi"		">>>哈尔皮埃正在接近<<<"
+	}
+	">>> HARPY USED LOL <<<"
+	{
+		"chi"		">>>哈尔皮埃使用了长线攻击<<<"
+	}
+	">>> HARPY USED HUGE FEATHER <<<"
+	{
+		"chi"		">>>哈尔皮埃使用了大羽毛攻击<<<"
+	}
+	">>> HARPY USED FEATHER <<<"
+	{
+		"chi"		">>>哈尔皮埃使用了羽毛<<<"
+	}
+	">>> HARPY USED WIND <<<"
+	{
+		"chi"		">>>哈尔皮埃使用了席卷之风<<<"
+	}
+	">>> HARPY IS DEFEATED <<<"
+	{
+		"chi"		">>>哈尔皮埃被打败了<<<"
+	}
+	">>> WATCH OUT FOR TAEPODONG <<<"
+	{
+		"chi"		">>>小心TAEPODONG<<<"
+	}
+	">>> AFK TELEPORT IN 5 SECONDS <<<"
+	{
+		"chi"		">>>5秒后传送挂机的玩家<<<"
+	}
+	">>> BARRIER BREAK IN 60 SECONDS <<<"
+	{
+		"chi"		">>>屏障在60秒后消失<<<"
+	}
+	">>> TIME TO AVOID CANCER LAZERS <<<"
+	{
+		"chi"		">>>是时候展现真正的实力了！<<<"
+	}
+	">>> STAGE 3 COMPLETED <<<"
+	{
+		"chi"		">>>第三关完成<<<"
+	}
+	"**stage 1**"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	{
+		"chi"		">>>一名僵尸获得了奶<<<"
+	}
+	">>> FAIL ROUND <<<"
+	{
+		"chi"		">>>你就是个losser<<<"
+	}
+	">>> PLAYER HAS PICKED UP PUSH <<<"
+	{
+		"chi"		">>>一名人类获得了风<<<"
+	}
+	">>> GUNSHIP IS COMING <<<"
+	{
+		"chi"		">>>炮舰来了<<<"
+	}
+	">>> GUNSHIP IS DEFEATED <<<"
+	{
+		"chi"		">>>炮舰被打败了<<<"
+	}
+	">>> THE WORLD IS GOING TO DARK <<<"
+	{
+		"chi"		">>>里世界...正在加载<<<"
+	}
+	">>> STAGE 0 : DARK MODE<<<"
+	{
+		"chi"		">>>特殊关卡：里世界<<<"
+	}
+	">>> PRESS 3 BUTTONS TO MAKE PASSAGE <<<"
+	{
+		"chi"		">>>按3个按钮进入通道<<<"
+	}
+	">>> YELLOW BUTTON WAS PRESSED <<<"
+	{
+		"chi"		">>>黄色按钮已按下<<<"
+	}
+	">>> RED BUTTON WAS PRESSED <<<"
+	{
+		"chi"		">>>红色按钮已按下<<<"
+	}
+	">>> BLUE BUTTON WAS PRESSED <<<"
+	{
+		"chi"		">>>蓝色按钮已按下<<<"
+	}
+	">>> 5 SECONDS LEFT  GET OUT FROM TRAIN <<<"
+	{
+		"chi"		">>>5秒后下车<<<"
+	}
+	">>> IT'S PRIEST <<<"
+	{
+		"chi"		">>>是神父<<<"
+	}
+	">>> PRIEST CASTED MAGIC <<<"
+	{
+		"chi"		">>>神父施放技能<<<"
+	}
+	">>> THE TORCH WAS LIT <<<"
+	{
+		"chi"		">>>火炬被点燃了<<<"
+	}
+	">>> DISASTER IS ABOUT TO CAUSE ONCE AGAIN <<<"
+	{
+		"chi"		">>>重现灾厄之初<<<"
+	}
+	">>> PRIEST DISAPPEARED <<<"
+	{
+		"chi"		">>>神父被打败了<<<"
+	}
+	">>> PLAYER HAS PICKED UP FIRE TOILET <<<"
+	{
+		"chi"		">>>一名人类获得了火马桶<<<"
+	}
+	"** ZE_SUPERSHITSHOW **"
+	{
+		"chi"		"** **"
+	}
+	"** A mode will be chosen shortly... **"
+	{
+		"chi"		"**稍后将选择一个模式**"
+	}
+	">>> PLAYER HAS PICKED UP WATER TOILET <<<"
+	{
+		"chi"		">>>一名人类获得了水马桶<<<"
+	}
+	">>> PLAYER HAS PICKED UP ICE TOILET <<<"
+	{
+		"chi"		">>>一名人类获得了冰马桶<<<"
+	}
+	">>> WE CAUGHT UP TO PRIEST <<<"
+	{
+		"chi"		">>>我们找到神父了<<<"
+	}
+	">>> QUEEN'S LAUGHTER SOUNDS FAINTLY <<<"
+	{
+		"chi"		">>>女王的笑声隐约可闻<<<"
+	}
+	">>> PRIEST DISAPPERED <<<"
+	{
+		"chi"		">>>神父被打败了<<<"
+	}
+	">>> 5 SECONDS LEFT  WATCH OUT FOR TRAIN <<<"
+	{
+		"chi"		">>>注意火车还剩5秒<<<"
+	}
+	">>> BREAK 4 PILLARS TO ACTIVATE TELEPORTER <<<"
+	{
+		"chi"		">>>打掉4根柱子激活传送器<<<"
+	}
+	">>> GREEN PILLAR BROKEN <<<"
+	{
+		"chi"		">>>绿柱断裂<<<"
+	}
+	">>> BLUE PILLAR BROKEN <<<"
+	{
+		"chi"		">>>蓝柱碎裂<<<"
+	}
+	">>> RED PILLAR BROKEN <<<"
+	{
+		"chi"		">>>红柱碎裂<<<"
+	}
+	">>> YELLOW PILLAR BROKEN <<<"
+	{
+		"chi"		">>>黄柱碎裂<<<"
+	}
+	">>> TELEPORTER WILL ACTIVATE SOON <<<"
+	{
+		"chi"		">>>传送器很快就启动了<<<"
+	}
+	">>> AFK TELEPORT IN 10 SECONDS <<<"
+	{
+		"chi"		">>>AFK玩家10秒后传送<<<"
+	}
+	">>> PRIEST IS CALLING QUEEN <<<"
+	{
+		"chi"		">>>神父在召唤女王<<<"
+	}
+	">>> DEFEAT QUEEN AND BREAK ALL HER WEAPONS <<<"
+	{
+		"chi"		">>>打败女王和所有的武器<<<"
+	}
+	">>> QUEEN IS AWAKED <<<"
+	{
+		"chi"		">>>女王觉醒了<<<"
+	}
+	">>> QUEEN CASTED TRAIN <<<"
+	{
+		"chi"		">>>前方来火车，躲避车轨<<<"
+	}
+	">>> WATCH OUT FOR BEAM CANNON <<<"
+	{
+		"chi"		">>>注意光束炮<<<"
+	}
+	">>> ENERGY TANK USED HEAL TO QUEEN <<<"
+	{
+		"chi"		">>>能量箱会治愈女王<<<"
+	}
+	">>> QUEEN CASTED LASER <<<"
+	{
+		"chi"		">>>女王施放了跳刀<<<"
+	}
+	">>> WATCH OUT FOR HUGE TAEPODONG <<<"
+	{
+		"chi"		">>>当心TAEPODONG<<<"
+	}
+	">>> HUGE TAEPODONG LAUNCHER IS BROKEN <<<"
+	{
+		"chi"		">>>巨大的TAEPODONG发射器坏了<<<"
+	}
+	">>> ENERGY TANK IS BROKEN <<<"
+	{
+		"chi"		">>>能量箱坏了<<<"
+	}
+	">>> PAPER GATLING IS BROKEN <<<"
+	{
+		"chi"		">>>加特林坏了<<<"
+	}
+	">>> BEAM CANNON IS BROKEN <<<"
+	{
+		"chi"		">>>光束炮坏了<<<"
+	}
+	">>> QUEEN GOT POWER <<<"
+	{
+		"chi"		">>>女王得到了力量<<<"
+	}
+	">>> QUEEN CASTED VACUUM <<<"
+	{
+		"chi"		">>>女王铸造了真空<<<"
+	}
+	">>> QUEEN CASTED SANIC RUSH <<<"
+	{
+		"chi"		">>>女王发起了冲击<<<"
+	}
+	">>> GET ON THE PLATFORM <<<"
+	{
+		"chi"		">>>上站台<<<"
+	}
+	">>> QUEEN CASTED WIND <<<"
+	{
+		"chi"		">>>女王施放了风<<<"
+	}
+	">>> QUEEN USED FIRE BEAM <<<"
+	{
+		"chi"		">>>女王施放了火束<<<"
+	}
+	">>> QUEEN IS HURTED <<<"
+	{
+		"chi"		">>>女王受伤了<<<"
+	}
+	">>> QUEEN IS DEFEATED <<<"
+	{
+		"chi"		">>>女王被打败了<<<"
+	}
+	">>> EXIT IS OPEN <<<"
+	{
+		"chi"		">>>出口打开了<<<"
+	}
+	">>> ZOMBIES TELEPORT IN 5 SECONDS <<<"
+	{
+		"chi"		">>>僵尸5秒后传送<<<"
+	}
+	">>> ROUTE 2 : HOLD 20 SECONDS <<<"
+	{
+		"chi"		">>>路线2：守住20秒<<<"
+	}
+	">>> ROUTE 2 : AFK TELEPORT IN 10 SECONDS <<<"
+	{
+		"chi"		">>>路线2：AFK玩家10秒后传送<<<"
+	}
+	">>> NUKE KING IS COMING <<<"
+	{
+		"chi"		">>>核弹猛男来了<<<"
+	}
+	">>> NUKE KING IS DEFEATED <<<"
+	{
+		"chi"		">>>核弹猛男被打败了<<<"
+	}
+	">>> TELEPORTER IS ACTIVATED <<<"
+	{
+		"chi"		">>>传送器启动<<<"
+	}
+	">>> FINALLY YOU ESCAPED FROM QUEEN <<<"
+	{
+		"chi"		">>>最后你从女王的毒爪中逃出来了<<<"
+	}
+	">>> SECRET STAGE COMPLETED <<<"
+	{
+		"chi"		">>>隐藏关卡完成<<<"
+	}
+	">>> ADMIN CHANGED TO STAGE 3 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ADMIN PRESSED KILLALL BUTTON  <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ADMIN CHANGED TO STAGE 1 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP GRAVITY TOILET <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ADMIN CHANGED TO STAGE 4 <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ROUTE 1 : HOLD 20 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> ROUTE 1 : AFK TELEPORT IN 10 SECONDS <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP EARTH TOILET <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP POISON TOILET <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> PLAYER HAS PICKED UP WIND TOILET <<<"
+	{
+		"chi"		"** **"
+	}
+	"** Map by ClariceTang **"
+	{
+		"chi"		"** **"
+	}
+	"** Level 1 - Easy **"
+	{
+		"chi"		"** **"
+	}
+	"** Model by K. **"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,0 +1,403 @@
+"Console_T"
+{
+	"*** This map is based on mg_Serpentis_Temple by Kaemon and Luffaren ***"
+	{
+		"chi"		"**这张地图根据MG美杜莎改编而制 by Kaemon and Luffaren**"
+	}
+	"*** Many assets from the original map were used ***"
+	{
+		"chi"		"**许多素材来自于MG美杜莎**"
+	}
+	"*** WARMUP ROUND (50 sec) ***"
+	{
+		"chi"		"**热身回合(50秒)**"
+	}
+	"*** WARMUP ROUND (60 sec) ***"
+	{
+		"chi"		"**热身回合(60秒)**"
+	}
+	"*** Map By Nostar & Moltard ***"
+	{
+		"chi"		"**Map By Nostar & Moltard 翻译: Pozeddd**"
+	}
+	"*** WARMUP ROUND (40 sec) ***"
+	{
+		"chi"		"**热身回合(40秒)**"
+	}
+	"*** WARMUP ROUND (30 sec) ***"
+	{
+		"chi"		"**热身回合(30秒)**"
+	}
+	"*** WARMUP ROUND (20 sec) ***"
+	{
+		"chi"		"**热身回合(20秒)**"
+	}
+	"*** WARMUP ROUND (10 sec) ***"
+	{
+		"chi"		"**热身回合(10秒)**"
+	}
+	"*** Stage 1 loaded ***"
+	{
+		"chi"		"**载入第一关**"
+	}
+	"*** STAGE 1 ***"
+	{
+		"chi"		"**第一关**"
+	}
+	"*** Find a way to reach the temple ***"
+	{
+		"chi"		"**想办法激活神殿开关！**"
+	}
+	"*** DOOR OPEN IN 30 SECONDS ***"
+	{
+		"chi"		"**门30秒打开**"
+	}
+	"*** Poison Snake has been picked ***"
+	{
+		"chi"		"**蛊毒蛇杖已被一位探险队员拿起**"
+	}
+	"*** DOOR OPEN IN 20 SECONDS ***"
+	{
+		"chi"		"**门20秒后打开**"
+	}
+	"*** AFK TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"**挂机玩家5秒后传送**"
+	}
+	"*** Fire Snake has been picked ***"
+	{
+		"chi"		"**烈火蛇杖已被一位探险队员拿起**"
+	}
+	"*** AFK TELEPORT IN 15 SECONDS ***"
+	{
+		"chi"		"**挂机玩家15秒后传送**"
+	}
+	"*** TELEPORT IN 25 SECONDS ***"
+	{
+		"chi"		"**传送25秒启动**"
+	}
+	"*** ZM TELEPORT IN 10 SECONDS ***"
+	{
+		"chi"		"**僵尸10秒后传送**"
+	}
+	"*** A sacrifice is necessary to open this passage ***"
+	{
+		"chi"		"**得有一位队员牺牲自己来打开暗道！**"
+	}
+	"*** The passage will be open in 10 seconds ***"
+	{
+		"chi"		"**暗道10秒后打开**"
+	}
+	"*** DOOR OPEN IN 25 SECONDS ***"
+	{
+		"chi"		"**门25秒后打开**"
+	}
+	"*** HealAmmo Snake has been picked ***"
+	{
+		"chi"		"**治疗蛇杖已被一位探险队员拿起**"
+	}
+	"*** ZM TELEPORT IN 5 SECONDS ***"
+	{
+		"chi"		"**僵尸5秒后传送**"
+	}
+	"*** HOLD 10 SECONDS ***"
+	{
+		"chi"		"**坚守10秒！**"
+	}
+	"*** DOOR CLOSE IN 5 SECONDS ! ***"
+	{
+		"chi"		"**大门5秒后关闭！**"
+	}
+	"*** KILL REMAINING ZOMBIES ***"
+	{
+		"chi"		"**杀光存活的僵尸**"
+	}
+	"[ADMIN ROOM] STAGE 4 NEXT ROUND"
+	{
+		"chi"		"** **"
+	}
+	"[ADMIN ROOM] STAGE 5 NEXT ROUND"
+	{
+		"chi"		"** **"
+	}
+	"[ADMIN ROOM] NUKE IN 5 SECONDS !"
+	{
+		"chi"		"** **"
+	}
+	"*** STAGE 4 ***"
+	{
+		"chi"		"**第四关**"
+	}
+	"*** DOOR OPEN IN 5 SECONDS ***"
+	{
+		"chi"		"**门5秒后打开**"
+	}
+	"*** HOLD HERE 20 SECONDS ***"
+	{
+		"chi"		"**守住这里20秒**"
+	}
+	"*** TELEPORT IN 30 SECONDS ***"
+	{
+		"chi"		"**传送于30秒后**"
+	}
+	"*** ELEVATOR WILL MOVE IN 20 SECONDS ***"
+	{
+		"chi"		"**电梯20秒后启动**"
+	}
+	"**stage 1**"
+	{
+		"chi"		"**第一关**"
+	}
+	"*** YOU WON STAGE 1 ***"
+	{
+		"chi"		"**第一关已破**"
+	}
+	"*** STAGE 2 LOADED ***"
+	{
+		"chi"		"**载入第二关**"
+	}
+	"*** Map By Nostar ***"
+	{
+		"chi"		"**Map By Nostar 翻译:Pozeddd**"
+	}
+	"*** STAGE 2 ***"
+	{
+		"chi"		"**第二关**"
+	}
+	"*** Hold 25 seconds ***"
+	{
+		"chi"		"**守住25秒**"
+	}
+	"*** FALL BACK ***"
+	{
+		"chi"		"**撤退！**"
+	}
+	"*** Snake come in 25 seconds ***"
+	{
+		"chi"		"**毒蛇25秒后伸长**"
+	}
+	"*** HOLD HERE ***"
+	{
+		"chi"		"**守住这里！**"
+	}
+	"*** CRYSTAL HAS BEEN ACTIVATED ***"
+	{
+		"chi"		"**传送水晶已被激活**"
+	}
+	"*** The portal is open in 30 seconds ***"
+	{
+		"chi"		"**传送门30秒后激活**"
+	}
+	"*** PORTAL IS READY ! FALL BACK ! ***"
+	{
+		"chi"		"**传送门已就位！快撤退！**"
+	}
+	"*** AFK TELEPORT IN 10 SECONDS ***"
+	{
+		"chi"		"**挂机玩家10秒后传送**"
+	}
+	"*** DOOR CLOSE IN 10 SECONDS ***"
+	{
+		"chi"		"**门10秒后关闭**"
+	}
+	"*** COVER ! GET TO THE DOOR ! ***"
+	{
+		"chi"		"**进到门里守住！**"
+	}
+	"*** COVER 15 SECONDS ***"
+	{
+		"chi"		"**坚守15秒**"
+	}
+	"*** DOORS OPEN IN 20 SECONDS ***"
+	{
+		"chi"		"**门20秒后打开**"
+	}
+	"*** AFK TELE IN 5 SECONDS ***"
+	{
+		"chi"		"**挂机玩家5秒后传送**"
+	}
+	"*** NEXT DOOR OPEN IN 10 SECONDS ***"
+	{
+		"chi"		"**下一道大门10秒后打开**"
+	}
+	"*** First doors will be close in 5 seconds ***"
+	{
+		"chi"		"**最后的门5秒后关闭！**"
+	}
+	"*** DOORS CLOSE IN 10 SECONDS ***"
+	{
+		"chi"		"**门10秒后关闭**"
+	}
+	"*** YOU WON STAGE 2 ! ***"
+	{
+		"chi"		"**第二关已破**"
+	}
+	"*** STAGE 3 LOADED ***"
+	{
+		"chi"		"**载入第三关**"
+	}
+	"*** STAGE 3 ***"
+	{
+		"chi"		"**第三关**"
+	}
+	"*** C4 EXPLODE IN 25 SECONDS ***"
+	{
+		"chi"		"**C4炸弹25秒后爆破**"
+	}
+	"*** C4 EXPLODE IN 30 SECONDS ***"
+	{
+		"chi"		"**C4炸弹30秒后爆破**"
+	}
+	"*** DOOR OPENS IN 10 SECONDS ***"
+	{
+		"chi"		"**门10秒后打开**"
+	}
+	"*** DOOR OPEN IN 15 SECONDS ***"
+	{
+		"chi"		"**门15秒后打开**"
+	}
+	"*** DOOR OPEN IN 10 SECONDS ***"
+	{
+		"chi"		"**门10秒后打开**"
+	}
+	"*** HOLD 20 SECONDS ***"
+	{
+		"chi"		"**守住20秒**"
+	}
+	"*** HOLD HERE 30 SECONDS ***"
+	{
+		"chi"		"**坚守这里30秒**"
+	}
+	"*** DOOR OPEN ! ***"
+	{
+		"chi"		"**门已打开！**"
+	}
+	"*** DOORS CLOSE IN 15 SECONDS ***"
+	{
+		"chi"		"**门15秒后关闭**"
+	}
+	"*** YOU WON STAGE 3 ! ***"
+	{
+		"chi"		"**第三关已破**"
+	}
+	"*** STAGE 4 LOADED ***"
+	{
+		"chi"		"**载入第四关**"
+	}
+	"*** DOOR OPENS IN 15 SECONDS ***"
+	{
+		"chi"		"**门15秒后打开**"
+	}
+	"*** THE BRIDGE IS GOING TO BREAK IN 15 SECONDS ***"
+	{
+		"chi"		"**桥梁15秒后断裂！守住！**"
+	}
+	"*** Get in the portal ***"
+	{
+		"chi"		"**进入传送门**"
+	}
+	"*** Impressive ***"
+	{
+		"chi"		"**漂亮**"
+	}
+	"*** Very impressive ***"
+	{
+		"chi"		"**实在是漂亮**"
+	}
+	"*** But It's too early for celebrating ***"
+	{
+		"chi"		"**但好像高兴太早了**"
+	}
+	"*** You are no match for her ***"
+	{
+		"chi"		"**她正在注视着你**"
+	}
+	"*** STAGE 5 LOADED ***"
+	{
+		"chi"		"**载入第五关**"
+	}
+	"*** STAGE 5 ***"
+	{
+		"chi"		"**第五关**"
+	}
+	"*** GET ON THE MIDDLE ***"
+	{
+		"chi"		"**跳进那个光球！**"
+	}
+	"*** RUN !!! ***"
+	{
+		"chi"		"**跑！**"
+	}
+	"*** DOORS OPEN IN 10 SECONDS ***"
+	{
+		"chi"		"**门10秒后打开**"
+	}
+	"*** It's the Artefact ! ***"
+	{
+		"chi"		"**这就是古遗物吗**"
+	}
+	"*** This is the reason we came here ***"
+	{
+		"chi"		"**为了这个东西我们来到这里**"
+	}
+	"*** Take it and don't lose it or your mission will be failed ***"
+	{
+		"chi"		"**不知道损失了多少名探险队员...**"
+	}
+	"*** TELEPORT IN 10 SECONDS ***"
+	{
+		"chi"		"**传送于10秒后**"
+	}
+	"*** C4 EXPLODE IN 20 SECONDS ***"
+	{
+		"chi"		"**C4炸弹20秒后爆破**"
+	}
+	"*** FALL BACK !!! ***"
+	{
+		"chi"		"**快跑!!!**"
+	}
+	"*** HELICOPTER MOVE IN 10 SECONDS ! ***"
+	{
+		"chi"		"**直升机10秒后离开！**"
+	}
+	"*** ARTIFACT DETECTED ! ***"
+	{
+		"chi"		"**古遗物安全到达**"
+	}
+	"*** THE MISSION WAS A SUCCESS ! ***"
+	{
+		"chi"		"**干得漂亮**"
+	}
+	"*** YOU WON THE MAP ! ***"
+	{
+		"chi"		"**整张地图已被攻略 你可以rtv了**"
+	}
+	"[ADMIN ROOM] STAGE 3 NEXT ROUND"
+	{
+		"chi"		"** **"
+	}
+	"*** YOU FORGOT THE ARTIFACT ***"
+	{
+		"chi"		"**似乎忘记了什么**"
+	}
+	"*** MISSION FAILED ! ***"
+	{
+		"chi"		"**任务失败**"
+	}
+	"*** NUKE IN 7 SECONDS ***"
+	{
+		"chi"		"**7秒后场地核爆 快退到边缘**"
+	}
+	"*** PUSH REMAINING ZOMBIES ***"
+	{
+		"chi"		"** **"
+	}
+	"powered by sakura , possession"
+	{
+		"chi"		"** **"
+	}
+	"Based-map by Xquality"
+	{
+		"chi"		"** **"
+	}
+}

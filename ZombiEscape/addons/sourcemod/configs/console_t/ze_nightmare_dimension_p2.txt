@@ -1,0 +1,220 @@
+"Console_T"
+{
+	"|| Map by Alpharadia ||"
+	{
+		"chi"		"**地图制作：Alpharadia **"
+	}
+	"|| For cZe and Supreme Elite Community ||"
+	{
+		"chi"		"** **"
+	}
+	"|| Thanks to Tartichevre ||"
+	{
+		"chi"		"**特别感谢：Tartichevre **"
+	}
+	"|| Thanks to Prechan and Coconutz ||"
+	{
+		"chi"		"** 特别感谢：Prechan and Coconutz **"
+	}
+	"|| DJ Room Playlist by Zip and Alpharadia ||"
+	{
+		"chi"		"** **"
+	}
+	"|| One player must fetch the guide light ||"
+	{
+		"chi"		"**一位玩家拿到了指路灯 **"
+	}
+	"|| The other have to cover while waiting for him ||"
+	{
+		"chi"		"**你们必须要等待他 **"
+	}
+	"|| The guide has been chosen. Path opening in 10 seconds ||"
+	{
+		"chi"		"**指路灯选择了道路.道理10秒后打开 **"
+	}
+	"|| 5 Seconds left ||"
+	{
+		"chi"		"** **"
+	}
+	"|| Run run ! ||"
+	{
+		"chi"		"**跑 **"
+	}
+	"|| AFK Teleport 1 in 20 seconds ||"
+	{
+		"chi"		"**挂机玩家20秒后传送 **"
+	}
+	"|| Dodge the lasers ||"
+	{
+		"chi"		"**躲避激光 **"
+	}
+	"|| AFK Teleported to Eye area entrance ||"
+	{
+		"chi"		"**挂机玩家已传送 **"
+	}
+	"|| Cover 10 seconds here until the rock wall breaks ||"
+	{
+		"chi"		"**在这里守住10秒.直到岩石破碎 **"
+	}
+	"|| 3 seconds left ||"
+	{
+		"chi"		"** **"
+	}
+	"|| Cross the bridge ! ||"
+	{
+		"chi"		"**穿过大桥 **"
+	}
+	"|| Bridge breaking in 20 seconds ||"
+	{
+		"chi"		"**大桥20秒后断裂 **"
+		"DoorCountdown"		"20"
+	}
+	"|| Go to the underground sea ! ||"
+	{
+		"chi"		"**去海底 **"
+	}
+	"|| Guides Raft is leaving in 5 second. The guide must take it ! ||"
+	{
+		"chi"		"**木筏5秒后离开.你们必须带着它 **"
+	}
+	"|| Guides Raft is leaving ||"
+	{
+		"chi"		"**木筏离开 **"
+	}
+	"|| Boats are leaving in 20 seconds ||"
+	{
+		"chi"		"**船20秒后离开 **"
+		"DoorCountdown"		"20"
+	}
+	"|| Boats are leaving in 5 seconds ||"
+	{
+		"chi"		"**船5秒后离开 **"
+	}
+	"|| Boats are leaving ||"
+	{
+		"chi"		"**船已离开 **"
+	}
+	"|| Guide go left in dark tunnel ! ||"
+	{
+		"chi"		"**拿着指路灯人去左边的隧道 **"
+	}
+	"|| Hold Use to push the lever down ||"
+	{
+		"chi"		"**用手拉下杠杆 **"
+	}
+	"|| The path is now lit. Guide go back ! ||"
+	{
+		"chi"		"**道路已变亮.现在回去 **"
+	}
+	"|| Cover here 20 seconds ||"
+	{
+		"chi"		"**守住20秒 **"
+		"DoorCountdown"		"20"
+	}
+	"|| Final Door opening in 30 seconds ||"
+	{
+		"chi"		"**最后的大门30秒后打开 **"
+		"DoorCountdown"		"30"
+	}
+	"|| AFK Teleport 3 in 10 seconds ||"
+	{
+		"chi"		"**挂机玩家10秒后传送 **"
+	}
+	"|| AFK Teleported to rock bridge ||"
+	{
+		"chi"		"**挂机玩家已传送 **"
+	}
+	"|| Final Door opening in 5 seconds ||"
+	{
+		"chi"		"**最终的大门5秒后打开 **"
+	}
+	"|| Final Door opening ||"
+	{
+		"chi"		"**最终大门打开 **"
+	}
+	"|| Go ! Reload your weapons ! ||"
+	{
+		"chi"		"**走！去拿装备 **"
+	}
+	"|| Zombies prepare to take control of the Giant Eye ||"
+	{
+		"chi"		"**僵尸准备控制巨眼 **"
+	}
+	"|| Shoot the red shining Orb ! ||"
+	{
+		"chi"		"**拍摄红色的光 **"
+	}
+	"|| You defeated the boss ! Escape now ! ||"
+	{
+		"chi"		"**你打败了BOSS！现在逃跑！ **"
+	}
+	"|| Portal closing in 30 seconds ||"
+	{
+		"chi"		"**大门30秒后关闭 **"
+		"DoorCountdown"		"30"
+	}
+	"|| Portal closing in 5 seconds ||"
+	{
+		"chi"		"**大门5秒后关闭 **"
+	}
+	"|| Portal closing ||"
+	{
+		"chi"		"**大门关闭 **"
+	}
+	"|| Kill Remaining zombies ||"
+	{
+		"chi"		"**杀死剩下的僵尸 **"
+	}
+	"|| Thanks for playing ! ||"
+	{
+		"chi"		"**感谢你的参与！ **"
+	}
+	"|| Berserker has been picked up ||"
+	{
+		"chi"		"** **"
+	}
+	"|| Healer has been picked up ||"
+	{
+		"chi"		"** **"
+	}
+	"|| AFK Teleport 2 in 20 seconds ||"
+	{
+		"chi"		"**挂机玩家20秒后传送 **"
+	}
+	"|| AFK Teleported to the underground sea || ||"
+	{
+		"chi"		"**挂机玩家已传送 **"
+	}
+	"|| Zombie stopper has been picked up ||"
+	{
+		"chi"		"** **"
+	}
+	"|| Zombie shocker has been picked up ||"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"53500"
+	}
+	"|| The guide has died ! ||"
+	{
+		"chi"		"** **"
+	}
+	"|| You have failed ! ||"
+	{
+		"chi"		"** **"
+	}
+	"|| The guide has left the game ! ||"
+	{
+		"chi"		"** **"
+	}
+	"|| Another guide is being chosen... ||"
+	{
+		"chi"		"** **"
+	}
+	"|| A new guide has been chosen ! ||"
+	{
+		"chi"		"** **"
+	}
+}

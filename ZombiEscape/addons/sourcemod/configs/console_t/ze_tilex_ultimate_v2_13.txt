@@ -1,0 +1,201 @@
+"Console_T"
+{
+	"*** Difficulty : Easy ***"
+	{
+		"chi"		"难度：简单"
+	}
+	"For POSSESSION , Respected Sakura"
+	{
+		"chi"		"For POSSESSION , Respected Sakura"
+	}
+	"Map Support : Xquality  SHUFEN"
+	{
+		"chi"		"地图制作于：Xquality SHUFEN"
+	}
+	"Map Arranged by Airvulpes"
+	{
+		"chi"		"地图修改于：Airvulpes"
+	}
+	"Elivator leaving in: 3"
+	{
+		"chi"		"**电梯将在 3秒后 上升**"
+		"DoorCountDown"		"3"
+	}
+	"Remaining 5 seconds !"
+	{
+		"chi"		"守住5秒！"
+	}
+	"Door opening in 5 seconds!"
+	{
+		"chi"		"门在5秒后打开！"
+	}
+	"Tram leaving in 10 seconds!"
+	{
+		"chi"		"运输车在10秒后离开"
+		"DoorCountDown"		"10"
+	}
+	"Security doors closing in 10."
+	{
+		"chi"		"安全门在十秒后关闭！"
+	}
+	"Train leaving in 30 seconds."
+	{
+		"chi"		"火车在30秒后离开！"
+		"DoorCountDown"		"30"
+	}
+	"Train leaving in 20 seconds."
+	{
+		"chi"		"火车在20秒后离开！"
+	}
+	"Train leaving in 10 seconds."
+	{
+		"chi"		"火车在10秒后离开！"
+	}
+	"Train is leaving."
+	{
+		"chi"		"火车走啦！！！"
+	}
+	"Mini train leaving in 5 seconds."
+	{
+		"chi"		"迷你火车5秒后离开！"
+	}
+	"Tracks crashed ahead"
+	{
+		"chi"		"前方火车坠毁！(快跳车！)"
+	}
+	"Incoming nuke!!!"
+	{
+		"chi"		"即将发生核爆BOOM！"
+	}
+	"*** Difficulty : Normal ***"
+	{
+		"chi"		"难度：一般"
+	}
+	"*** Difficulty : Hard ***"
+	{
+		"chi"		"难度：困难"
+	}
+	"Door opening in 15 seconds!"
+	{
+		"chi"		"门在15秒后打开！"
+		"DoorCountDown"		"15"
+	}
+	"Hold 20 seconds !"
+	{
+		"chi"		"继续防守20秒！"
+		"DoorCountDown"		"20"
+	}
+	"Helicopter leaves 20 seconds!"
+	{
+		"chi"		"直升机在20秒后起飞！"
+		"DoorCountDown"		"20"
+	}
+	"remaining 5 seconds!"
+	{
+		"chi"		"还有5秒！"
+	}
+	"*** Difficulty : Extreme ***"
+	{
+		"chi"		"难度：极限"
+	}
+	"Remaining 15 seconds !"
+	{
+		"chi"		"还有15秒！"
+	}
+	"Door opening in 100 seconds!"
+	{
+		"chi"		"大门在100秒后打开！"
+		"DoorCountDown"		"100"
+	}
+	"Remaining 50 seconds!"
+	{
+		"chi"		"还有50秒！"
+	}
+	"Remaining 10 seconds!"
+	{
+		"chi"		"最后10秒，坚持住！"
+	}
+	"*** Difficulty : Insane ***"
+	{
+		"command"		"zr_infect_spawntime_min 25.0"
+		"command"		"zr_infect_spawntime_max 25.0"
+		"chi"		"难度：超越极限"
+		"force_round_end"		"1"
+	}
+	"*** Difficulty : rtv ***"
+	{
+		"chi"		"难度：RTV吧！愚蠢的人类！"
+	}
+	"Door opening in 80 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Remaining 40 seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed rtv button"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Insane button"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Extreme button"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Ex disable button"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Ex button"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Normal button"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Easy button"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"87347"
+	}
+	"For POSSESSION, Respect to Sakura"
+	{
+		"chi"		"** **"
+	}
+	"Based-map by Xquality"
+	{
+		"chi"		"** **"
+	}
+	"Map Supported by SHUFEN"
+	{
+		"chi"		"** **"
+	}
+	"powered by sakura , possession"
+	{
+		"chi"		"** **"
+	}
+	"Admin pressed Hard button"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"This round is not legit win"
+	{
+		"chi"		"** **"
+	}
+	"Admin Pressed Adminroom button"
+	{
+		"chi"		"** **"
+	}
+}

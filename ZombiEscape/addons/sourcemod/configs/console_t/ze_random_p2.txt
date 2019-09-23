@@ -1,530 +1,530 @@
 "Console_T"
 {
-    "***LEVEL -- BOX WITH A LIGHT IN IT***"
-    {
-        "chi"        "**关卡 -- 热身**"
-        "command"        "sm_locktimelimit 40"
-    }
-    "***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***"
-    {
-        "chi"        "**拖住僵尸，直到你传送1到9随机一张地图！**"
-    }
-    "***Teleporting in 20secs!***"
-    {
-        "chi"        "**等待 20 秒传送！**"
-    }
-    "***3***"
-    {
-        "chi"        "** 3 **"
-    }
-    "***2***"
-    {
-        "chi"        "** 2 **"
-    }
-    "***1***"
-    {
-        "chi"        "** 1 **"
-    }
-    "***Good Luck!!***"
-    {
-        "chi"        "**祝你好运！！哈哈哈！**"
-    }
-    "***LEVEL -- CARPET ESCAPE***"
-    {
-        "chi"        "**关卡 -- 魔毯逃生**"
-    }
-    "***Take the Carpet and make your way to the escape door!*** "
-    {
-        "chi"        "**乘坐魔毯到达逃生的大门！**"
-    }
-    "***Carpet leaving in 3secs!***"
-    {
-        "chi"        "**魔毯 3 秒后离开！**"
-    }
-    "***Door breaking in 10secs!***"
-    {
-        "chi"        "**木门 10 秒后破碎！**"
-        "DoorCountdown"        "10"
-    }
-    "***Hurry through the warehouse while the carpet passes under!***"
-    {
-        "chi"        "**迅速穿过仓库然后回到魔毯上！**"
-    }
-    "***LEVEL -- COUCH ESCAPE***"
-    {
-        "chi"        "**关卡 -- 沙发逃生**"
-    }
-    "***Shoot the couch into the marked boxes to break the barriers and make your way to the escape tunnel in 180secs!***"
-    {
-        "chi"        "**利用沙发撞击箱子清除障碍物！请记住：你们只有180秒的逃生时间！**"
-    }
-    "***If the world is going to end at least you'll have a warm seat!***"
-    {
-        "chi"        "**如果世界末日来临，你至少会有一个温暖的座位！**"
-    }
-    "***Zombie barrier breaking in 20secs get moving!***"
-    {
-        "chi"        "**僵尸将在 20 秒后突破铁门！**"
-        "DoorCountdown"        "20"
-    }
-    "***Hold these crates while someone breaks the barrier and gets the couch going!***"
-    {
-        "chi"        "**在这些木箱子处守住！一些人去利用沙发撞碎白色的木箱子！**"
-    }
-    "***Barrier breaking in 5secs!***"
-    {
-        "chi"        "**铁门将在 5 秒后破碎。**"
-    }
-    "***Hurry under! Zombie block planks breaking in 15secs!***"
-    {
-        "chi"        "**阻拦僵尸的路障将于 15 秒后放下！**"
-    }
-    "***HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!***"
-    {
-        "chi"        "**守住第一个隧道！同时让沙发通过这个正在维修的道路以清除障碍物！**"
-    }
-    "***Only 60secs left!***"
-    {
-        "chi"        "**只剩下 60 秒了！抓紧时间！**"
-    }
-    "***LEVEL -- ICE CAP ESCAPE***"
-    {
-        "chi"        "**关卡 --冰帽逃生**"
-    }
-    "***Everyone HOLD the boxes while someone starts up the teleporter!***"
-    {
-        "chi"        "**守住木箱子！同时触发传送门开关！**"
-    }
-    "***Teleporter will be fully charged in 20secs!***"
-    {
-        "chi"        "**传送门将在 20 秒后充电完毕！**"
-    }
-    "***Teleporter ERROR!***"
-    {
-        "chi"        "**传送门抛锚啦！要炸啦！！快远离传送门！**"
-    }
-    "***Escape Boat leaving in 35secs!***"
-    {
-        "chi"        "**逃生艇将在 35 秒后启动！**"
-    }
-    "***HOLD THE CRATES!***"
-    {
-        "chi"        "**在箱子处守住！**"
-    }
-    "***Escape Boat engine failure!***"
-    {
-        "chi"        "**妈妈！！！逃生艇发动机又故障了！！！**"
-    }
-    "***...Take the Wash Bucket...?***"
-    {
-        "chi"        "**妈妈：“快上洗衣桶！！”**"
-    }
-    "***Don't Delay!***"
-    {
-        "chi"        "**不要拖延！（对最左边的绿色盒子按 E）**"
-    }
-    "***Teleporting to next map!***"
-    {
-        "chi"        "**准备传送到下一张随机的地图！**"
-    }
-    "***LEVEL -- OPEN FIELD***"
-    {
-        "chi"        "**关卡 -- 黑暗森林逃生 **"
-    }
-    "***Survive for 90secs***"
-    {
-        "chi"        "**生存 90 秒！**"
-    }
-    "***Beware K.'s SlenderMan!*** "
-    {
-        "chi"        "** 小心Slender Man！ ** 出自恐怖游戏《瘦长鬼影》**"
-    }
-    "***LEVEL -- INTERSTELLAR ESCAPE 9***"
-    {
-        "chi"        "**关卡 -- 星际火车逃亡**"
-    }
-    "***Make your way from train to train until you reach the Black Express!***"
-    {
-        "chi"        "**在火车与火车之间来回奔跑！直至你到达最后的黑色特快列车！**"
-    }
-    "***Cargo door opening in 15secs!***"
-    {
-        "chi"        "**将在 15 秒后打开货舱门！**"
-        "DoorCountdown"        "15"
-    }
-    "***Emergency doors closing in 10secs!***"
-    {
-        "chi"        "**应急出口的门将在 10 秒后关闭！**"
-    }
-    "***Boxcar door opening in 10secs!***"
-    {
-        "chi"        "**货舱门将于 10 秒后打开！**"
-        "DoorCountdown"        "10"
-    }
-    "***Final express door opening in 25secs!***"
-    {
-        "chi"        "**最后的大门将在 25 秒后打开！对僵尸的防守不要松懈！**"
-        "DoorCountdown"        "25"
-    }
-    "***LEVEL-- CITY NIGHT ESCAPE***"
-    {
-        "chi"        "**关卡 -- 城市之夜**"
-    }
-    "***Elevator 1 coming in 10secs!***"
-    {
-        "chi"        "**1号电梯门将于 10 秒后打开！**"
-        "DoorCountdown"        "10"
-    }
-    "***Elevator 1 leaving in 5secs!***"
-    {
-        "chi"        "**1号电梯门将于 5 秒后关闭！**"
-    }
-    "***Power lost. Shoot the doors!***"
-    {
-        "chi"        "**电梯到了！快用枪击碎门！**"
-    }
-    "***Hold until the escape helicopter comes in pick you up!***"
-    {
-        "chi"        "**守住箱子！！直到救援的直升机来接你！**"
-    }
-    "***Fall Back Balcony open!***"
-    {
-        "chi"        "**退到阳台上！**"
-    }
-    "***Helicopter coming in 5secs!***"
-    {
-        "chi"        "**直升机还有 5 秒抵达！**"
-    }
-    "***4***"
-    {
-        "chi"        "** 4 **"
-    }
-    "***OH SH--!!***"
-    {
-        "chi"        "** 妈妈！！！这图好坑！！**"
-    }
-    "***Hold W to go faster and S to slow down!***"
-    {
-        "chi"        "**按住 W 可以走的更快！按住 S 可以减速！**"
-    }
-    "***Jump and be careful not to hit to many stoppers!***"
-    {
-        "chi"        "**跳跃！小心不要碰到许多障碍物！碰多了你就死了！！**"
-    }
-    "***LEVEL -- CLASSIC***"
-    {
-        "chi"        "**关卡 -- 经典**"
-    }
-    "***Zombie will arrive in 20secs!***"
-    {
-        "chi"        "**僵尸将在 20 秒后抵达！**"
-    }
-    "***Survive for 75secs!***"
-    {
-        "chi"        "**生存 75 秒！**"
-    }
-    "***Survive for 15secs!***"
-    {
-        "chi"        "**生存 15 秒！**"
-    }
-    "***LEVEL -- ZOMBIE DEATHRUN***"
-    {
-        "chi"        "**关卡 -- 死亡奔跑**"
-    }
-    "***Shoot wisely!***"
-    {
-        "chi"        "**明智的射击！**"
-    }
-    "***Zombies try to trap the CTs!***"
-    {
-        "chi"        "**僵尸尝试使用陷阱捕捉人类们！**"
-    }
-    "***CTs have 120secs to escape as the temple's curse spreads!*** "
-    {
-        "chi"        "**人类有 120 秒的时间从这个被诅咒的寺庙里面逃脱！**"
-    }
-    "***The curse has reached spawn!*** "
-    {
-        "chi"        "**诅咒正在开始蔓延！！**"
-    }
-    "***Good things come to those who wait...***"
-    {
-        "chi"        "**好事会降临在等待的人身上！**"
-    }
-    "***The curse has reached the dual arch!*** "
-    {
-        "chi"        "**诅咒已经蔓延到了那两扇拱门！仔细看地板！**"
-    }
-    "***CTs have 15secs to escape!*** "
-    {
-        "chi"        "**人类有 15 秒的时间逃脱！**"
-    }
-    "***Wait here till everyone else makes it!*** "
-    {
-        "chi"        "**在这等待别人触发诅咒！**"
-    }
-    "***The curse has reached Mona's Hallway!*** "
-    {
-        "chi"        "**诅咒已经蔓延到了莫娜的走廊！小心那副巨大的画像！**"
-    }
-    "***Did someone see an awp?***"
-    {
-        "chi"        "**有人看到一把AWP？**"
-    }
-    "***Survive for 15secs***"
-    {
-        "chi"        "**生存 15 秒！**"
-    }
-    "***LEVEL -- FAIL NADES***"
-    {
-        "chi"        "**关卡 -- 破产的手榴弹**"
-    }
-    "***Zombie will arrive in 10secs!***"
-    {
-        "chi"        "**僵尸将在 10 秒后抵达！**"
-        "DoorCountdown"        "10"
-    }
-    "***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!*** "
-    {
-        "chi"        "**分开两边或者聚集在一起！控制僵尸在中间的水池直到两边的水阀解锁！！**"
-    }
-    "***Valves unlocked in 35secs!***"
-    {
-        "chi"        "**水阀将在 35 秒后解锁！**"
-    }
-    "***Shoot the Block!***"
-    {
-        "chi"        "**打碎障碍物！**"
-    }
-    "***Final express door open!***"
-    {
-        "chi"        "**最后的大门已经打开！**"
-    }
-    "***C4 set to go off in 25secs!***"
-    {
-        "chi"        "**C4将在 25 秒后引爆！**"
-    }
-    "***Valves are stuck! BREAK THEM! Only 20secs to destroy both!***"
-    {
-        "chi"        "**阀门卡住了！你们只有 20 秒的时间来打碎阀门！**"
-    }
-    "***If one side overrun start chucking nades over to break the valve!***"
-    {
-        "chi"        "**如果你们只在一边防守，那么另外一边的水阀可以使用手榴弹破坏！（手雷砸水阀）**"
-    }
-    "***Teleporting to FINAL MAP!***"
-    {
-        "chi"        "**准备传送到最后一张地图！（哦？有点本事哟！）**"
-    }
-    "***FINAL LEVEL -- ZOMBIE MURDER****"
-    {
-        "chi"        "**最终关卡 -- 僵尸的杀戮**"
-    }
-    "***Defend for 35secs as the Carpet...refuels...?***"
-    {
-        "chi"        "**守卫魔毯 35 秒...加油...？**"
-        "DoorCountdown"        "35"
-    }
-    "***Carpet leaves in 5secs!***"
-    {
-        "chi"        "**魔毯将在 5 秒后离开！**"
-    }
-    "***Zombie drain open!***"
-    {
-        "chi"        "** 僵尸排水沟打开！ **"
-    }
-    "***Zombies will arrive soon!***"
-    {
-        "chi"        "** 僵尸很快就会到来！**"
-    }
-    "***Hold the sign for 20secs!***"
-    {
-        "chi"        "** 守住这个地方 20 秒！**"
-        "DoorCountdown"        "20"
-    }
-    "***FINAL BOSS INCOMING!***"
-    {
-        "chi"        "** 最终即将Boss降临！**"
-    }
-    "***ZOMBIE is about to collapse! GET OFF!***"
-    {
-        "chi"        "** ZOMBIE  这行文字即将坍塌！快跳下去！**"
-    }
-    "***JUMP OFF!***"
-    {
-        "chi"        "** 跳！！ **（别跳僵尸堆里去了...）"
-    }
-    "***Shoot it before your knocked off!!***"
-    {
-        "chi"        "** 在你被杀死前将它打死！**"
-    }
-    "***Final attack will be charged in 60secs!!***"
-    {
-        "chi"        "** Boss最后的攻击将在 60 秒后到来！！**"
-    }
-    "***Watch out for...barrel...attacks...?***"
-    {
-        "chi"        "** 注意...油桶....攻击...？**（Boss会将平台上的人往后推！注意不要被推下去！）"
-    }
-    "***The Boss has been weakened But it will recover in 60secs and use its final attack!***"
-    {
-        "chi"        "** Boss已经处于虚弱状态，但是它将在 60 秒后恢复！快给它最后一击！**"
-    }
-    "***CT's will have to jump off and activate the switches!***"
-    {
-        "chi"        "** 人类你们需要勇士跳下去并到达四个角落激活机关！**"
-    }
-    "***Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!***"
-    {
-        "chi"        "** 激活 4 个机关去结束Boss的老命并开启球型传送门！**"
-    }
-    "***Switch 1 Unlocked!***"
-    {
-        "chi"        "**成功激活 1 个机关！**"
-    }
-    "***Switch Activated!***"
-    {
-        "chi"        "** 快去激活下一个的机关！**（根据亮光确定下一个机关）"
-    }
-    "***All Switches ON!!***"
-    {
-        "chi"        "** 所有开关成功激活！！**"
-    }
-    "***PORTAL COLLAPSING IN 10secs!! ***"
-    {
-        "chi"        "** 球型传送门将在 10 秒后消失！！**"
-        "DoorCountdown"        "10"
-    }
-    "***JUMP INTO THE ORB!!***"
-    {
-        "chi"        "** 快抓紧时间跳进球型传送门！！**"
-    }
-    "***Final attack charged!!***"
-    {
-        "chi"        "** Boss放大了！！！！**"
-    }
-    "***TEXT ATTACK FIRED!!***"
-    {
-        "chi"        "** 人类你们下次再来挑战吧！！**（可惜啊！）"
-    }
-    "***BACKSPACE!!!***"
-    {
-        "chi"        "**Boss战失败！！！**（Boss:爷可不是吃素的！！）"
-    }
-    "***Couch Only! Take the alleyway!"
-    {
-        "chi"        "** 上面只有沙发能过去！人类走小巷！**"
-    }
-    "***Hold final barrier for 15secs!***"
-    {
-        "chi"        "** 在这最后的防守点守住 15 秒！**"
-    }
-    "***Final barrier down!***"
-    {
-        "chi"        "** 最后的路障被清除了！**"
-    }
-    "***HURRY UP!!!***"
-    {
-        "chi"        "** 速度！！！**"
-    }
-    "***CONGRATULATIONS -- THANK YOU FOR PLAYING!!***"
-    {
-        "chi"        "** 恭喜通关 -- 谢谢你试玩本地图！！ **（卧槽？？厉害！厉害！！）"
-    }
-    "***CONGRATULATIONS -- ...Wait...F---!!***"
-    {
-        "chi"        "** 恭喜 --...稍...等---！！**"
-    }
-    "***Map by SonicTheHitManHogRelaxingWalls***"
-    {
-        "chi"        "**地图制作 By SonicTheHitManHogRelaxingWalls 翻译 By 色狼领袖**"
-    }
-    "***Beware K.'s SlenderMan!***"
-    {
-        "chi"        "** 小心Slender Man！ ** 出自恐怖游戏《瘦长鬼影》"
-    }
-    "***Hold off as the zombies spawn until youre teleport to 1 of the 9 maps!***"
-    {
-        "chi"        "** 拖住僵尸，直到你传送1到9随机一张地图！**"
-    }
-    "***CTs have 120secs to escape as the temples curse spreads!***"
-    {
-        "chi"        "** 人类有 120 秒的时间从这个被诅咒的寺庙里面逃脱！**"
-    }
-    "***The curse has reached spawn!***"
-    {
-        "chi"        "** 诅咒正在开始蔓延！**"
-    }
-    "***Dont Delay!***"
-    {
-        "chi"        "** 不要拖延！**"
-    }
-    "***CTs have 15secs to escape!***"
-    {
-        "chi"        "** 人类还有 15 秒的时间逃脱！**"
-    }
-    "***Wait here till everyone else makes it!***"
-    {
-        "chi"        "** 在这等待别人触发诅咒！**"
-    }
-    "***The curse has reached the dual arch!***"
-    {
-        "chi"        "**诅咒已经蔓延到了那两扇拱门！仔细看地板！**"
-    }
-    "***The curse has reached Monas Hallway!***"
-    {
-        "chi"        "** 诅咒已经蔓延到了莫娜的走廊！小心那副巨大的画像！**"
-    }
-    "***Beware K.s SlenderMan!***"
-    {
-        "chi"        "** 小心Slender Man！ ** 出自恐怖游戏《瘦长鬼影》"
-    }
-    "***If the world is going to end at least youll have a warm seat!***"
-    {
-        "chi"        "**如果世界末日来临，你至少会有一个温暖的座位！**"
-    }
-    "***Take the Carpet and make your way to the escape door!***"
-    {
-        "chi"        "**乘坐魔毯到达逃生的大门！**"
-    }
-    "***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!***"
-    {
-        "chi"        "**分开两边或者聚集在一边！控制僵尸在中间的水池直到两边的水阀解锁！！**"
-    }
-    "***CTs will have to jump off and activate the switches!***"
-    {
-        "chi"        "**人类你们需要勇士跳下去并到达四个角落激活机关！**你要相信你的队友……嗯！**"
-    }
-    "The server is about to close the update ,Please update your game"
-    {
-        "chi"        "** **"
-    }
-    "***CTs have 120secs to escape as the temple's curse spreads!***"
-    {
-        "chi"        "** **"
-    }
-    "<< ze_surf_virtus >>"
-    {
-        "chi"        "** **"
-    }
-    "<< Fix by : Lishang >>"
-    {
-        "chi"        "** **"
-    }
-    "***The curse has reached Mona's Hallway!***"
-    {
-        "chi"        "** **"
-    }
-    "Special Thanks: Airvulpes"
-    {
-        "chi"        "** **"
-    }
-    "Test Server: Possession"
-    {
-        "chi"        "** **"
-    }
-    "*** Special Thanks testing: GFL & MAPEADORES  ***"
-    {
-        "chi"        "** **"
-    }
+	"***LEVEL -- BOX WITH A LIGHT IN IT***"
+	{
+		"chi"		"**关卡 -- 热身**"
+		"command"		"sm_locktimelimit 40"
+	}
+	"***Hold off as the zombies spawn until you're teleport to 1 of the 9 maps!***"
+	{
+		"chi"		"**拖住僵尸，直到你传送1到9随机一张地图！**"
+	}
+	"***Teleporting in 20secs!***"
+	{
+		"chi"		"**等待 20 秒传送！**"
+	}
+	"***3***"
+	{
+		"chi"		"** 3 **"
+	}
+	"***2***"
+	{
+		"chi"		"** 2 **"
+	}
+	"***1***"
+	{
+		"chi"		"** 1 **"
+	}
+	"***Good Luck!!***"
+	{
+		"chi"		"**祝你好运！！哈哈哈！**"
+	}
+	"***LEVEL -- CARPET ESCAPE***"
+	{
+		"chi"		"**关卡 -- 魔毯逃生**"
+	}
+	"***Take the Carpet and make your way to the escape door!*** "
+	{
+		"chi"		"**乘坐魔毯到达逃生的大门！**"
+	}
+	"***Carpet leaving in 3secs!***"
+	{
+		"chi"		"**魔毯 3 秒后离开！**"
+	}
+	"***Door breaking in 10secs!***"
+	{
+		"chi"		"**木门 10 秒后破碎！**"
+		"DoorCountdown"		"10"
+	}
+	"***Hurry through the warehouse while the carpet passes under!***"
+	{
+		"chi"		"**迅速穿过仓库然后回到魔毯上！**"
+	}
+	"***LEVEL -- COUCH ESCAPE***"
+	{
+		"chi"		"**关卡 -- 沙发逃生**"
+	}
+	"***Shoot the couch into the marked boxes to break the barriers and make your way to the escape tunnel in 180secs!***"
+	{
+		"chi"		"**利用沙发撞击箱子清除障碍物！请记住：你们只有180秒的逃生时间！**"
+	}
+	"***If the world is going to end at least you'll have a warm seat!***"
+	{
+		"chi"		"**如果世界末日来临，你至少会有一个温暖的座位！**"
+	}
+	"***Zombie barrier breaking in 20secs get moving!***"
+	{
+		"chi"		"**僵尸将在 20 秒后突破铁门！**"
+		"DoorCountdown"		"20"
+	}
+	"***Hold these crates while someone breaks the barrier and gets the couch going!***"
+	{
+		"chi"		"**在这些木箱子处守住！一些人去利用沙发撞碎白色的木箱子！**"
+	}
+	"***Barrier breaking in 5secs!***"
+	{
+		"chi"		"**铁门将在 5 秒后破碎。**"
+	}
+	"***Hurry under! Zombie block planks breaking in 15secs!***"
+	{
+		"chi"		"**阻拦僵尸的路障将于 15 秒后放下！**"
+	}
+	"***HOLD the first tunnel crates while the others gets the couch out of the maintenance path and break the barriers!***"
+	{
+		"chi"		"**守住第一个隧道！同时让沙发通过这个正在维修的道路以清除障碍物！**"
+	}
+	"***Only 60secs left!***"
+	{
+		"chi"		"**只剩下 60 秒了！抓紧时间！**"
+	}
+	"***LEVEL -- ICE CAP ESCAPE***"
+	{
+		"chi"		"**关卡 --冰帽逃生**"
+	}
+	"***Everyone HOLD the boxes while someone starts up the teleporter!***"
+	{
+		"chi"		"**守住木箱子！同时触发传送门开关！**"
+	}
+	"***Teleporter will be fully charged in 20secs!***"
+	{
+		"chi"		"**传送门将在 20 秒后充电完毕！**"
+	}
+	"***Teleporter ERROR!***"
+	{
+		"chi"		"**传送门抛锚啦！要炸啦！！快远离传送门！**"
+	}
+	"***Escape Boat leaving in 35secs!***"
+	{
+		"chi"		"**逃生艇将在 35 秒后启动！**"
+	}
+	"***HOLD THE CRATES!***"
+	{
+		"chi"		"**在箱子处守住！**"
+	}
+	"***Escape Boat engine failure!***"
+	{
+		"chi"		"**妈妈！！！逃生艇发动机又故障了！！！**"
+	}
+	"***...Take the Wash Bucket...?***"
+	{
+		"chi"		"**妈妈：“快上洗衣桶！！”**"
+	}
+	"***Don't Delay!***"
+	{
+		"chi"		"**不要拖延！（对最左边的绿色盒子按 E）**"
+	}
+	"***Teleporting to next map!***"
+	{
+		"chi"		"**准备传送到下一张随机的地图！**"
+	}
+	"***LEVEL -- OPEN FIELD***"
+	{
+		"chi"		"**关卡 -- 黑暗森林逃生 **"
+	}
+	"***Survive for 90secs***"
+	{
+		"chi"		"**生存 90 秒！**"
+	}
+	"***Beware K.'s SlenderMan!*** "
+	{
+		"chi"		"** 小心Slender Man！ ** 出自恐怖游戏《瘦长鬼影》**"
+	}
+	"***LEVEL -- INTERSTELLAR ESCAPE 9***"
+	{
+		"chi"		"**关卡 -- 星际火车逃亡**"
+	}
+	"***Make your way from train to train until you reach the Black Express!***"
+	{
+		"chi"		"**在火车与火车之间来回奔跑！直至你到达最后的黑色特快列车！**"
+	}
+	"***Cargo door opening in 15secs!***"
+	{
+		"chi"		"**将在 15 秒后打开货舱门！**"
+		"DoorCountdown"		"15"
+	}
+	"***Emergency doors closing in 10secs!***"
+	{
+		"chi"		"**应急出口的门将在 10 秒后关闭！**"
+	}
+	"***Boxcar door opening in 10secs!***"
+	{
+		"chi"		"**货舱门将于 10 秒后打开！**"
+		"DoorCountdown"		"10"
+	}
+	"***Final express door opening in 25secs!***"
+	{
+		"chi"		"**最后的大门将在 25 秒后打开！对僵尸的防守不要松懈！**"
+		"DoorCountdown"		"25"
+	}
+	"***LEVEL-- CITY NIGHT ESCAPE***"
+	{
+		"chi"		"**关卡 -- 城市之夜**"
+	}
+	"***Elevator 1 coming in 10secs!***"
+	{
+		"chi"		"**1号电梯门将于 10 秒后打开！**"
+		"DoorCountdown"		"10"
+	}
+	"***Elevator 1 leaving in 5secs!***"
+	{
+		"chi"		"**1号电梯门将于 5 秒后关闭！**"
+	}
+	"***Power lost. Shoot the doors!***"
+	{
+		"chi"		"**电梯到了！快用枪击碎门！**"
+	}
+	"***Hold until the escape helicopter comes in pick you up!***"
+	{
+		"chi"		"**守住箱子！！直到救援的直升机来接你！**"
+	}
+	"***Fall Back Balcony open!***"
+	{
+		"chi"		"**退到阳台上！**"
+	}
+	"***Helicopter coming in 5secs!***"
+	{
+		"chi"		"**直升机还有 5 秒抵达！**"
+	}
+	"***4***"
+	{
+		"chi"		"** 4 **"
+	}
+	"***OH SH--!!***"
+	{
+		"chi"		"** 妈妈！！！这图好坑！！**"
+	}
+	"***Hold W to go faster and S to slow down!***"
+	{
+		"chi"		"**按住 W 可以走的更快！按住 S 可以减速！**"
+	}
+	"***Jump and be careful not to hit to many stoppers!***"
+	{
+		"chi"		"**跳跃！小心不要碰到许多障碍物！碰多了你就死了！！**"
+	}
+	"***LEVEL -- CLASSIC***"
+	{
+		"chi"		"**关卡 -- 经典**"
+	}
+	"***Zombie will arrive in 20secs!***"
+	{
+		"chi"		"**僵尸将在 20 秒后抵达！**"
+	}
+	"***Survive for 75secs!***"
+	{
+		"chi"		"**生存 75 秒！**"
+	}
+	"***Survive for 15secs!***"
+	{
+		"chi"		"**生存 15 秒！**"
+	}
+	"***LEVEL -- ZOMBIE DEATHRUN***"
+	{
+		"chi"		"**关卡 -- 死亡奔跑**"
+	}
+	"***Shoot wisely!***"
+	{
+		"chi"		"**明智的射击！**"
+	}
+	"***Zombies try to trap the CTs!***"
+	{
+		"chi"		"**僵尸尝试使用陷阱捕捉人类们！**"
+	}
+	"***CTs have 120secs to escape as the temple's curse spreads!*** "
+	{
+		"chi"		"**人类有 120 秒的时间从这个被诅咒的寺庙里面逃脱！**"
+	}
+	"***The curse has reached spawn!*** "
+	{
+		"chi"		"**诅咒正在开始蔓延！！**"
+	}
+	"***Good things come to those who wait...***"
+	{
+		"chi"		"**好事会降临在等待的人身上！**"
+	}
+	"***The curse has reached the dual arch!*** "
+	{
+		"chi"		"**诅咒已经蔓延到了那两扇拱门！仔细看地板！**"
+	}
+	"***CTs have 15secs to escape!*** "
+	{
+		"chi"		"**人类有 15 秒的时间逃脱！**"
+	}
+	"***Wait here till everyone else makes it!*** "
+	{
+		"chi"		"**在这等待别人触发诅咒！**"
+	}
+	"***The curse has reached Mona's Hallway!*** "
+	{
+		"chi"		"**诅咒已经蔓延到了莫娜的走廊！小心那副巨大的画像！**"
+	}
+	"***Did someone see an awp?***"
+	{
+		"chi"		"**有人看到一把AWP？**"
+	}
+	"***Survive for 15secs***"
+	{
+		"chi"		"**生存 15 秒！**"
+	}
+	"***LEVEL -- FAIL NADES***"
+	{
+		"chi"		"**关卡 -- 破产的手榴弹**"
+	}
+	"***Zombie will arrive in 10secs!***"
+	{
+		"chi"		"**僵尸将在 10 秒后抵达！**"
+		"DoorCountdown"		"10"
+	}
+	"***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!*** "
+	{
+		"chi"		"**分开两边或者聚集在一起！控制僵尸在中间的水池直到两边的水阀解锁！！**"
+	}
+	"***Valves unlocked in 35secs!***"
+	{
+		"chi"		"**水阀将在 35 秒后解锁！**"
+	}
+	"***Shoot the Block!***"
+	{
+		"chi"		"**打碎障碍物！**"
+	}
+	"***Final express door open!***"
+	{
+		"chi"		"**最后的大门已经打开！**"
+	}
+	"***C4 set to go off in 25secs!***"
+	{
+		"chi"		"**C4将在 25 秒后引爆！**"
+	}
+	"***Valves are stuck! BREAK THEM! Only 20secs to destroy both!***"
+	{
+		"chi"		"**阀门卡住了！你们只有 20 秒的时间来打碎阀门！**"
+	}
+	"***If one side overrun start chucking nades over to break the valve!***"
+	{
+		"chi"		"**如果你们只在一边防守，那么另外一边的水阀可以使用手榴弹破坏！（手雷砸水阀）**"
+	}
+	"***Teleporting to FINAL MAP!***"
+	{
+		"chi"		"**准备传送到最后一张地图！（哦？有点本事哟！）**"
+	}
+	"***FINAL LEVEL -- ZOMBIE MURDER****"
+	{
+		"chi"		"**最终关卡 -- 僵尸的杀戮**"
+	}
+	"***Defend for 35secs as the Carpet...refuels...?***"
+	{
+		"chi"		"**守卫魔毯 35 秒...加油...？**"
+		"DoorCountdown"		"35"
+	}
+	"***Carpet leaves in 5secs!***"
+	{
+		"chi"		"**魔毯将在 5 秒后离开！**"
+	}
+	"***Zombie drain open!***"
+	{
+		"chi"		"** 僵尸排水沟打开！ **"
+	}
+	"***Zombies will arrive soon!***"
+	{
+		"chi"		"** 僵尸很快就会到来！**"
+	}
+	"***Hold the sign for 20secs!***"
+	{
+		"chi"		"** 守住这个地方 20 秒！**"
+		"DoorCountdown"		"20"
+	}
+	"***FINAL BOSS INCOMING!***"
+	{
+		"chi"		"** 最终即将Boss降临！**"
+	}
+	"***ZOMBIE is about to collapse! GET OFF!***"
+	{
+		"chi"		"** ZOMBIE  这行文字即将坍塌！快跳下去！**"
+	}
+	"***JUMP OFF!***"
+	{
+		"chi"		"** 跳！！ **（别跳僵尸堆里去了...）"
+	}
+	"***Shoot it before your knocked off!!***"
+	{
+		"chi"		"** 在你被杀死前将它打死！**"
+	}
+	"***Final attack will be charged in 60secs!!***"
+	{
+		"chi"		"** Boss最后的攻击将在 60 秒后到来！！**"
+	}
+	"***Watch out for...barrel...attacks...?***"
+	{
+		"chi"		"** 注意...油桶....攻击...？**（Boss会将平台上的人往后推！注意不要被推下去！）"
+	}
+	"***The Boss has been weakened But it will recover in 60secs and use its final attack!***"
+	{
+		"chi"		"** Boss已经处于虚弱状态，但是它将在 60 秒后恢复！快给它最后一击！**"
+	}
+	"***CT's will have to jump off and activate the switches!***"
+	{
+		"chi"		"** 人类你们需要勇士跳下去并到达四个角落激活机关！**"
+	}
+	"***Turn on all 4 to FINISH IT OFF and activate the Orb Teleport!***"
+	{
+		"chi"		"** 激活 4 个机关去结束Boss的老命并开启球型传送门！**"
+	}
+	"***Switch 1 Unlocked!***"
+	{
+		"chi"		"**成功激活 1 个机关！**"
+	}
+	"***Switch Activated!***"
+	{
+		"chi"		"** 快去激活下一个的机关！**（根据亮光确定下一个机关）"
+	}
+	"***All Switches ON!!***"
+	{
+		"chi"		"** 所有开关成功激活！！**"
+	}
+	"***PORTAL COLLAPSING IN 10secs!! ***"
+	{
+		"chi"		"** 球型传送门将在 10 秒后消失！！**"
+		"DoorCountdown"		"10"
+	}
+	"***JUMP INTO THE ORB!!***"
+	{
+		"chi"		"** 快抓紧时间跳进球型传送门！！**"
+	}
+	"***Final attack charged!!***"
+	{
+		"chi"		"** Boss放大了！！！！**"
+	}
+	"***TEXT ATTACK FIRED!!***"
+	{
+		"chi"		"** 人类你们下次再来挑战吧！！**（可惜啊！）"
+	}
+	"***BACKSPACE!!!***"
+	{
+		"chi"		"**Boss战失败！！！**（Boss:爷可不是吃素的！！）"
+	}
+	"***Couch Only! Take the alleyway!"
+	{
+		"chi"		"** 上面只有沙发能过去！人类走小巷！**"
+	}
+	"***Hold final barrier for 15secs!***"
+	{
+		"chi"		"** 在这最后的防守点守住 15 秒！**"
+	}
+	"***Final barrier down!***"
+	{
+		"chi"		"** 最后的路障被清除了！**"
+	}
+	"***HURRY UP!!!***"
+	{
+		"chi"		"** 速度！！！**"
+	}
+	"***CONGRATULATIONS -- THANK YOU FOR PLAYING!!***"
+	{
+		"chi"		"** 恭喜通关 -- 谢谢你试玩本地图！！ **（卧槽？？厉害！厉害！！）"
+	}
+	"***CONGRATULATIONS -- ...Wait...F---!!***"
+	{
+		"chi"		"** 恭喜 --...稍...等---！！**"
+	}
+	"***Map by SonicTheHitManHogRelaxingWalls***"
+	{
+		"chi"		"**地图制作 By SonicTheHitManHogRelaxingWalls 翻译 By 色狼领袖**"
+	}
+	"***Beware K.'s SlenderMan!***"
+	{
+		"chi"		"** 小心Slender Man！ ** 出自恐怖游戏《瘦长鬼影》"
+	}
+	"***Hold off as the zombies spawn until youre teleport to 1 of the 9 maps!***"
+	{
+		"chi"		"** 拖住僵尸，直到你传送1到9随机一张地图！**"
+	}
+	"***CTs have 120secs to escape as the temples curse spreads!***"
+	{
+		"chi"		"** 人类有 120 秒的时间从这个被诅咒的寺庙里面逃脱！**"
+	}
+	"***The curse has reached spawn!***"
+	{
+		"chi"		"** 诅咒正在开始蔓延！**"
+	}
+	"***Dont Delay!***"
+	{
+		"chi"		"** 不要拖延！**"
+	}
+	"***CTs have 15secs to escape!***"
+	{
+		"chi"		"** 人类还有 15 秒的时间逃脱！**"
+	}
+	"***Wait here till everyone else makes it!***"
+	{
+		"chi"		"** 在这等待别人触发诅咒！**"
+	}
+	"***The curse has reached the dual arch!***"
+	{
+		"chi"		"**诅咒已经蔓延到了那两扇拱门！仔细看地板！**"
+	}
+	"***The curse has reached Monas Hallway!***"
+	{
+		"chi"		"** 诅咒已经蔓延到了莫娜的走廊！小心那副巨大的画像！**"
+	}
+	"***Beware K.s SlenderMan!***"
+	{
+		"chi"		"** 小心Slender Man！ ** 出自恐怖游戏《瘦长鬼影》"
+	}
+	"***If the world is going to end at least youll have a warm seat!***"
+	{
+		"chi"		"**如果世界末日来临，你至少会有一个温暖的座位！**"
+	}
+	"***Take the Carpet and make your way to the escape door!***"
+	{
+		"chi"		"**乘坐魔毯到达逃生的大门！**"
+	}
+	"***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!***"
+	{
+		"chi"		"**分开两边或者聚集在一边！控制僵尸在中间的水池直到两边的水阀解锁！！**"
+	}
+	"***CTs will have to jump off and activate the switches!***"
+	{
+		"chi"		"**人类你们需要勇士跳下去并到达四个角落激活机关！**你要相信你的队友……嗯！**"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"***CTs have 120secs to escape as the temple's curse spreads!***"
+	{
+		"chi"		"** **"
+	}
+	"<< ze_surf_virtus >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Fix by : Lishang >>"
+	{
+		"chi"		"** **"
+	}
+	"***The curse has reached Mona's Hallway!***"
+	{
+		"chi"		"** **"
+	}
+	"Special Thanks: Airvulpes"
+	{
+		"chi"		"** **"
+	}
+	"Test Server: Possession"
+	{
+		"chi"		"** **"
+	}
+	"*** Special Thanks testing: GFL & MAPEADORES  ***"
+	{
+		"chi"		"** **"
+	}
 }

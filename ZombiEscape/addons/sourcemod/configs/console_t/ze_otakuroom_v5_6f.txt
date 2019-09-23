@@ -1,575 +1,587 @@
 "Console_T"
 {
-    "***Map by Tenshi***"
-    {
-        "chi"        "****地图制作：Tenshi ****"
-    }
-    "***Inspiration comes from kz_otakuroom***"
-    {
-        "chi"        "**本地图是根据kz_otakuroom修改 **"
-    }
-    "***Special thanks:GemaYue , Altima***"
-    {
-        "chi"        "**特别感谢：GemaYue , Altima **"
-    }
-    "***Particles help by Moray***"
-    {
-        "chi"        "**模型制作： Moray **"
-    }
-    "***This map contains 18 forbidden content***"
-    {
-        "chi"        "**本地图包含18禁内容 **"
-    }
-    "***Thanks for playing***"
-    {
-        "chi"        "**感谢你玩本地图 **"
-    }
-    "***Level 1 : Bed Bed Bed!***"
-    {
-        "chi"        "**第一关：床 **"
-    }
-    "***Door breaking in 20 seconds***"
-    {
-        "chi"        "**门20秒后开启 **"
-        "DoorCountDown"        "20"
-    }
-    "***5 seconds***"
-    {
-        "chi"        "**还有5秒**"
-    }
-    "***Door breaking in 30 seconds***"
-    {
-        "chi"        "**门30秒后开启 **"
-        "DoorCountDown"        "30"
-    }
-    "***Paper aircraft comes in about 20 seconds***"
-    {
-        "chi"        "**纸飞机大概20秒后离开 **"
-        "DoorCountDown"        "20"
-    }
-    "***Paper aircraft leaves in 10 seconds***"
-    {
-        "chi"        "**纸飞机大概10秒后离开 **"
-    }
-    "***Run to the Card and dodge the cubes***"
-    {
-        "chi"        "**跑到卡片处并躲避方块 **"
-    }
-    "***Jump on the Card , only one will leave***"
-    {
-        "chi"        "**跳到卡片上.只有一个卡片能离开 **"
-    }
-    "***Card leaves in 15 seconds , hold!!!***"
-    {
-        "chi"        "**卡片15秒后离开.守住 **"
-    }
-    "***Door breaking in 25 seconds***"
-    {
-        "chi"        "**门25秒后开启 **"
-        "DoorCountDown"        "25"
-    }
-    "***AFK teleported in 10 seconds***"
-    {
-        "chi"        "**挂机玩家10秒后传送 **"
-    }
-    "***Card leaves in 40 seconds***"
-    {
-        "chi"        "**卡片40秒后离开 **"
-        "DoorCountDown"        "40"
-    }
-    "***nuke in 10 seconds***"
-    {
-        "chi"        "**核弹10秒后发射 **"
-    }
-    "***3***"
-    {
-        "chi"        "** **"
-    }
-    "***2***"
-    {
-        "chi"        "** **"
-    }
-    "***1***"
-    {
-        "chi"        "** **"
-    }
-    "*** Fail Round***"
-    {
-        "chi"        "**本关失败 **"
-    }
-    "***Level 2 : Efreet***"
-    {
-        "chi"        "**第二关：炎魔 **"
-    }
-    "***Run to the keyboard***"
-    {
-        "chi"        "**跑到键盘那里 **"
-    }
-    "***Press TENSHI***"
-    {
-        "chi"        "**按下T.E.N.S.H.I.键 **"
-    }
-    "***Good job , the password is correct***"
-    {
-        "chi"        "**干的好.密码正确 **"
-    }
-    "***Mouse moving in 10 seconds***"
-    {
-        "chi"        "**鼠标10秒后移动 **"
-    }
-    "***Hold 20 seconds***"
-    {
-        "chi"        "**守住20秒 **"
-        "DoorCountDown"        "20"
-    }
-    "***Low Gravity open***"
-    {
-        "chi"        "**低重力开启 **"
-    }
-    "***Run forward and find another card***"
-    {
-        "chi"        "**向前跑，找到另一张卡片 **"
-    }
-    "***Hold 15 seconds***"
-    {
-        "chi"        "**守住15秒 **"
-        "DoorCountDown"        "15"
-    }
-    "***Normal Gravity in 5 seconds***"
-    {
-        "chi"        "**重力5秒后恢复 **"
-    }
-    "***Jump on the platform***"
-    {
-        "chi"        "**在平台上跳 **"
-    }
-    "***door breaking in 10 seconds***"
-    {
-        "chi"        "**门10秒后开启 **"
-    }
-    "***Heal has been picked up***"
-    {
-        "chi"        "**奶已被拿起 **"
-    }
-    "***door closing in 5 seconds***"
-    {
-        "chi"        "**门5秒后关闭 **"
-    }
-    "***Nade do more damage***"
-    {
-        "chi"        "**手雷能造成更多的伤害 **"
-    }
-    "***Efreet used Camael:Slash. Crouch!!!***"
-    {
-        "chi"        "**炎魔使用了斜刀：躲避 **"
-        "ico"        "icon_fire"
-    }
-    "***Efreet used Elohim Gibor:healed 150HP***"
-    {
-        "chi"        "**炎魔使用了奶：恢复150HP **"
-    }
-    "***Efreet used fire***"
-    {
-        "chi"        "**炎魔使用了火 **"
-        "ico"        "icon_fire"
-    }
-    "***Hold 30 seconds***"
-    {
-        "chi"        "**守住30秒 **"
-        "DoorCountDown"        "30"
-    }
-    "***JUMP***"
-    {
-        "chi"        "**跳 **"
-    }
-    "***Card leaves in 10 seconds***"
-    {
-        "chi"        "**叶子10秒后离开 **"
-    }
-    "***Its dodge laser time***"
-    {
-        "chi"        "**躲避激光 **"
-        "ico"        "icon_fire"
-    }
-    "***Face the direction of the arrow***"
-    {
-        "chi"        "**走有箭头的地方 **"
-        "ico"        "icon_fire"
-    }
-    "***ITS COMING***"
-    {
-        "chi"        "**它来了 **"
-    }
-    "***Level 3 : Tenshi***"
-    {
-        "chi"        "**第三关：Tenshi **"
-    }
-    "***Ball breaking in 20 seconds***"
-    {
-        "chi"        "**球20秒后破碎 **"
-        "DoorCountDown"        "20"
-    }
-    "***Blue is secure***"
-    {
-        "chi"        "**蓝色的是安全的 **"
-    }
-    "***The box breaking in 20 seconds***"
-    {
-        "chi"        "**盒子20秒后破碎 **"
-    }
-    "***Wall breaking in 10 seconds***"
-    {
-        "chi"        "**墙10秒后破碎 **"
-    }
-    "***The cola cans moving in 20 seconds***"
-    {
-        "chi"        "**可乐罐在20秒后移动 **"
-        "DoorCountDown"        "20"
-    }
-    "***Shooting the Krumi and the Noel***"
-    {
-        "chi"        "**射击Krumi和Noel **"
-    }
-    "***Box breaking in 15 seconds***"
-    {
-        "chi"        "**盒子15秒后破碎 **"
-    }
-    "***Battery breaking in 15 seconds***"
-    {
-        "chi"        "**电池15秒后短路 **"
-    }
-    "***We need open the CD-ROM***"
-    {
-        "chi"        "**我们需要打开光盘 **"
-    }
-    "***Defend!!!***"
-    {
-        "chi"        "**守住！！！ **"
-    }
-    "***Cave opening in 15 seconds***"
-    {
-        "chi"        "**在15秒后打开洞穴 **"
-    }
-    "***Teleporter activated in 30 seconds***"
-    {
-        "chi"        "**传送点30秒后激活 **"
-        "DoorCountDown"        "30"
-    }
-    "***Look! Its Tenshi***"
-    {
-        "chi"        "**看！一只Tenshi **"
-    }
-    "***Sword system start***"
-    {
-        "chi"        "**刀剑系统启动 **"
-    }
-    "***Weather system start***"
-    {
-        "chi"        "**天气系统启动 **"
-    }
-    "***Tenshi used weather changed***"
-    {
-        "chi"        "**Tenshi使用了天气改变 **"
-        "ico"        "icon_fire"
-    }
-    "***Tenshi used shake***"
-    {
-        "chi"        "**Tenshi使用了震动 **"
-        "ico"        "icon_fire"
-    }
-    "***Red is secure***"
-    {
-        "chi"        "**红色的是安全的 **"
-    }
-    "***I was defeated???***"
-    {
-        "chi"        "**我被打败了？？？ **"
-    }
-    "***Its not possible!!!***"
-    {
-        "chi"        "**这是不可能的！！！ **"
-    }
-    "***Efreet used Space earthquake***"
-    {
-        "chi"        "**炎魔使用了地震 **"
-        "ico"        "icon_fire"
-    }
-    "***[Admin]Level 3***"
-    {
-        "chi"        "**管理员选择了第三关**"
-    }
-    "***I will improve more in next version***"
-    {
-        "chi"        "**我会在下一个版本努力改进**"
-    }
-    "**Map by Tenshi**"
-    {
-        "chi"        "**地图作者：Tenshi**"
-    }
-    "**Special Thanks:GemaYue , uuz , 银月筱瑶**"
-    {
-        "chi"        "**特别感谢：GemaYue , uuz , 银月筱瑶 **"
-    }
-    "**Stage 1**"
-    {
-        "chi"        "**第一关 **"
-    }
-    "**Hold 15 seconds**"
-    {
-        "chi"        "**守住15秒 **"
-        "DoorCountDown"        "15"
-    }
-    "**Hold 30 seconds**"
-    {
-        "chi"        "**守住30秒 **"
-        "DoorCountDown"        "30"
-    }
-    "**5 seconds**"
-    {
-        "chi"        "**还有5秒**"
-    }
-    "**Hold 35 seconds**"
-    {
-        "chi"        "**守住35秒 **"
-        "DoorCountDown"        "35"
-    }
-    "**Hold on 80 seconds**"
-    {
-        "chi"        "**守住80秒 **"
-        "DoorCountDown"        "80"
-    }
-    "**The elevator is rising**"
-    {
-        "chi"        "**电梯正在上升 **"
-    }
-    "**Nuke in 5 seconds**"
-    {
-        "chi"        "**核弹5秒后发射 **"
-    }
-    "**3**"
-    {
-        "chi"        "** **"
-    }
-    "**2**"
-    {
-        "chi"        "** **"
-    }
-    "**1**"
-    {
-        "chi"        "** **"
-    }
-    "**Round Complete**"
-    {
-        "chi"        "**本关通过 **"
-    }
-    "**stage 2**"
-    {
-        "chi"        "**第二关 **"
-    }
-    "**Hold 15 seconds until the lid of rubbish bin opening**"
-    {
-        "chi"        "**守住15秒.直到垃圾桶打开盖子 **"
-        "DoorCountDown"        "15"
-    }
-    "**Jump into the rubbish bin**"
-    {
-        "chi"        "**跳进垃圾桶 **"
-    }
-    "**HOLD 20 SECONDS**"
-    {
-        "chi"        "**守住20秒 **"
-        "DoorCountDown"        "20"
-    }
-    "**Wait 30 seconds**"
-    {
-        "chi"        "**等待30秒 **"
-        "DoorCountDown"        "30"
-    }
-    "**WALL BREAKING IN 20 SECONDS**"
-    {
-        "chi"        "**墙壁20秒后破碎 **"
-        "DoorCountDown"        "20"
-    }
-    "**Hold 40 seconds**"
-    {
-        "chi"        "**守住40秒 **"
-        "DoorCountDown"        "40"
-    }
-    "**Go to the ClearRobot**"
-    {
-        "chi"        "**去到Clear机器人那里 **"
-    }
-    "**ClearRobot leaving in 8 seconds**"
-    {
-        "chi"        "**Clear机器人8秒后离开 **"
-    }
-    "**You failed**"
-    {
-        "chi"        "**你失败了 **"
-    }
-    "**Stage 3**"
-    {
-        "chi"        "**第三关 **"
-    }
-    "**Wait 15 seconds**"
-    {
-        "chi"        "**等待15秒 **"
-        "DoorCountDown"        "15"
-    }
-    "**Hold 25 seconds**"
-    {
-        "chi"        "**守住20秒 **"
-        "DoorCountDown"        "20"
-    }
-    "**Teleport activated**"
-    {
-        "chi"        "**传送激活 **"
-    }
-    "**Jump into the screen**"
-    {
-        "chi"        "**跳进电脑屏幕里 **"
-    }
-    "**Gasu**"
-    {
-        "chi"        "**Gasu，boss原地抬手按住W，boss上升按住S**"
-    }
-    "**全人类の绯想夿**"
-    {
-        "chi"        "**全人类的绯想天，去站在四周的石头，技能结束后记得跳回来**"
-    }
-    "**Sakai**"
-    {
-        "chi"        "**Sakai（无敌，换子弹）**"
-    }
-    "**Kanameishi**"
-    {
-        "chi"        "**守护の要石（看天上躲避石头）**"
-    }
-    "**Hold 10 seconds**"
-    {
-        "chi"        "**守住10秒 **"
-        "DoorCountDown"        "10"
-    }
-    "**[Admin]STAGE 1**"
-    {
-        "chi"        "**管理员选择了第一关关 **"
-    }
-    "**[Admin]ZM**"
-    {
-        "chi"        "**管理员选择了ZM关 **"
-    }
-    "**[ZM]**"
-    {
-        "chi"        "**zm关**"
-    }
-    "**Nuke in 3 mins**"
-    {
-        "chi"        "**核弹3分钟后发射 **"
-        "DoorCountDown"        "180"
-    }
-    "**Nuke in 2 mins**"
-    {
-        "chi"        "**核弹两分钟后发射**"
-    }
-    "**Nuke in 1 min**"
-    {
-        "chi"        "**核弹一分钟后发射**"
-    }
-    "**Round Failed**"
-    {
-        "chi"        "**关卡失败 **"
-    }
-    "**Air leaves in 30 seconds**"
-    {
-        "chi"        "**纸飞机30秒后离开**"
-        "DoorCountDown"        "30"
-    }
-    "**[Admin]Stage 3**"
-    {
-        "chi"        "**管理员选择第三关**"
-    }
-    "**Im defeated.Its impossable**"
-    {
-        "chi"        "**我输了，这是不可能的**"
-    }
-    "**全人类の绯想�?**"
-    {
-        "chi"        "**全人类的绯想天，去站在四周的石头，技能结束后记得跳回来**"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "46018"
-    }
-    "**[Admin]STAGE 2**"
-    {
-        "chi"        "**管理员选择了第二关**"
-    }
-    "**全人类の绯想"
-    {
-        "chi"        "**全人类的绯想天，去站在四周的石头，技能结束后记得跳回来**"
-    }
-    "**Original map : kz_otakuroom_v3 , by GemaYue**"
-    {
-        "chi"        "** **"
-    }
-    "**Model by uuz**"
-    {
-        "chi"        "** **"
-    }
-    "**Its my first map , thanks for playing**"
-    {
-        "chi"        "**这是我的第一张图，感谢你们的游玩**"
-    }
-    "**Wait 5 seconds**"
-    {
-        "chi"        "**守住5秒**"
-    }
-    "**It's my first map , thanks for playing**"
-    {
-        "chi"        "**这是我的第一张图，感谢你们的游玩**"
-    }
-    ">>>Respawn wall break in 20 sec<<<"
-    {
-        "chi"        ">>>重生墙将在20后破碎<<<"
-    }
-    "***Map by Luffaren***"
-    {
-        "chi"        "** **"
-    }
-    "*** MAP BY STRUPPI ***"
-    {
-        "chi"        "** **"
-    }
-    "***Welcome to Crazy Kart***"
-    {
-        "chi"        "** **"
-    }
-    "***WARMUP***"
-    {
-        "chi"        "**热身时间**"
-    }
-    "++ ZE_ITALY_TOWN ++"
-    {
-        "chi"        "** **"
-    }
-    ">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
-    {
-        "chi"        ">>>热身时间还剩40s<<<"
-    }
-    ">> Map by TaskuVaras and Moltard <<"
-    {
-        "chi"        "** **"
-    }
-    "**map by koyomaple**"
-    {
-        "chi"        "** **"
-    }
-    "***STAGE 1 -- THE SHIP***"
-    {
-        "chi"        "** **"
-    }
-    "**ZE_DARK_SOULS**"
-    {
-        "chi"        "** **"
-    }
+	"***Map by Tenshi***"
+	{
+		"chi"		"****地图制作：Tenshi ****"
+	}
+	"***Inspiration comes from kz_otakuroom***"
+	{
+		"chi"		"**本地图是根据kz_otakuroom修改 **"
+	}
+	"***Special thanks:GemaYue , Altima***"
+	{
+		"chi"		"**特别感谢：GemaYue , Altima **"
+	}
+	"***Particles help by Moray***"
+	{
+		"chi"		"**模型制作： Moray **"
+	}
+	"***This map contains 18 forbidden content***"
+	{
+		"chi"		"**本地图包含18禁内容 **"
+	}
+	"***Thanks for playing***"
+	{
+		"chi"		"**感谢你玩本地图 **"
+	}
+	"***Level 1 : Bed Bed Bed!***"
+	{
+		"chi"		"**第一关：床 **"
+	}
+	"***Door breaking in 20 seconds***"
+	{
+		"chi"		"**门20秒后开启 **"
+		"DoorCountDown"		"20"
+	}
+	"***5 seconds***"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"***Door breaking in 30 seconds***"
+	{
+		"chi"		"**门30秒后开启 **"
+		"DoorCountDown"		"30"
+	}
+	"***Paper aircraft comes in about 20 seconds***"
+	{
+		"chi"		"**纸飞机大概20秒后离开 **"
+		"DoorCountDown"		"20"
+	}
+	"***Paper aircraft leaves in 10 seconds***"
+	{
+		"chi"		"**纸飞机大概10秒后离开 **"
+	}
+	"***Run to the Card and dodge the cubes***"
+	{
+		"chi"		"**跑到卡片处并躲避方块 **"
+	}
+	"***Jump on the Card , only one will leave***"
+	{
+		"chi"		"**跳到卡片上.只有一个卡片能离开 **"
+	}
+	"***Card leaves in 15 seconds , hold!!!***"
+	{
+		"chi"		"**卡片15秒后离开.守住 **"
+	}
+	"***Door breaking in 25 seconds***"
+	{
+		"chi"		"**门25秒后开启 **"
+		"DoorCountDown"		"25"
+	}
+	"***AFK teleported in 10 seconds***"
+	{
+		"chi"		"**挂机玩家10秒后传送 **"
+	}
+	"***Card leaves in 40 seconds***"
+	{
+		"chi"		"**卡片40秒后离开 **"
+		"DoorCountDown"		"40"
+	}
+	"***nuke in 10 seconds***"
+	{
+		"chi"		"**核弹10秒后发射 **"
+	}
+	"***3***"
+	{
+		"chi"		"** **"
+	}
+	"***2***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
+	"*** Fail Round***"
+	{
+		"chi"		"**本关失败 **"
+	}
+	"***Level 2 : Efreet***"
+	{
+		"chi"		"**第二关：炎魔 **"
+	}
+	"***Run to the keyboard***"
+	{
+		"chi"		"**跑到键盘那里 **"
+	}
+	"***Press TENSHI***"
+	{
+		"chi"		"**按下T.E.N.S.H.I.键 **"
+	}
+	"***Good job , the password is correct***"
+	{
+		"chi"		"**干的好.密码正确 **"
+	}
+	"***Mouse moving in 10 seconds***"
+	{
+		"chi"		"**鼠标10秒后移动 **"
+	}
+	"***Hold 20 seconds***"
+	{
+		"chi"		"**守住20秒 **"
+		"DoorCountDown"		"20"
+	}
+	"***Low Gravity open***"
+	{
+		"chi"		"**低重力开启 **"
+	}
+	"***Run forward and find another card***"
+	{
+		"chi"		"**向前跑，找到另一张卡片 **"
+	}
+	"***Hold 15 seconds***"
+	{
+		"chi"		"**守住15秒 **"
+		"DoorCountDown"		"15"
+	}
+	"***Normal Gravity in 5 seconds***"
+	{
+		"chi"		"**重力5秒后恢复 **"
+	}
+	"***Jump on the platform***"
+	{
+		"chi"		"**在平台上跳 **"
+	}
+	"***door breaking in 10 seconds***"
+	{
+		"chi"		"**门10秒后开启 **"
+	}
+	"***Heal has been picked up***"
+	{
+		"chi"		"**奶已被拿起 **"
+	}
+	"***door closing in 5 seconds***"
+	{
+		"chi"		"**门5秒后关闭 **"
+	}
+	"***Nade do more damage***"
+	{
+		"chi"		"**手雷能造成更多的伤害 **"
+	}
+	"***Efreet used Camael:Slash. Crouch!!!***"
+	{
+		"chi"		"**炎魔使用了斜刀：躲避 **"
+		"ico"		"icon_fire"
+	}
+	"***Efreet used Elohim Gibor:healed 150HP***"
+	{
+		"chi"		"**炎魔使用了奶：恢复150HP **"
+	}
+	"***Efreet used fire***"
+	{
+		"chi"		"**炎魔使用了火 **"
+		"ico"		"icon_fire"
+	}
+	"***Hold 30 seconds***"
+	{
+		"chi"		"**守住30秒 **"
+		"DoorCountDown"		"30"
+	}
+	"***JUMP***"
+	{
+		"chi"		"**跳 **"
+	}
+	"***Card leaves in 10 seconds***"
+	{
+		"chi"		"**叶子10秒后离开 **"
+	}
+	"***Its dodge laser time***"
+	{
+		"chi"		"**躲避激光 **"
+		"ico"		"icon_fire"
+	}
+	"***Face the direction of the arrow***"
+	{
+		"chi"		"**走有箭头的地方 **"
+		"ico"		"icon_fire"
+	}
+	"***ITS COMING***"
+	{
+		"chi"		"**它来了 **"
+	}
+	"***Level 3 : Tenshi***"
+	{
+		"chi"		"**第三关：Tenshi **"
+	}
+	"***Ball breaking in 20 seconds***"
+	{
+		"chi"		"**球20秒后破碎 **"
+		"DoorCountDown"		"20"
+	}
+	"***Blue is secure***"
+	{
+		"chi"		"**蓝色的是安全的 **"
+	}
+	"***The box breaking in 20 seconds***"
+	{
+		"chi"		"**盒子20秒后破碎 **"
+	}
+	"***Wall breaking in 10 seconds***"
+	{
+		"chi"		"**墙10秒后破碎 **"
+	}
+	"***The cola cans moving in 20 seconds***"
+	{
+		"chi"		"**可乐罐在20秒后移动 **"
+		"DoorCountDown"		"20"
+	}
+	"***Shooting the Krumi and the Noel***"
+	{
+		"chi"		"**射击Krumi和Noel **"
+	}
+	"***Box breaking in 15 seconds***"
+	{
+		"chi"		"**盒子15秒后破碎 **"
+	}
+	"***Battery breaking in 15 seconds***"
+	{
+		"chi"		"**电池15秒后短路 **"
+	}
+	"***We need open the CD-ROM***"
+	{
+		"chi"		"**我们需要打开光盘 **"
+	}
+	"***Defend!!!***"
+	{
+		"chi"		"**守住！！！ **"
+	}
+	"***Cave opening in 15 seconds***"
+	{
+		"chi"		"**在15秒后打开洞穴 **"
+	}
+	"***Teleporter activated in 30 seconds***"
+	{
+		"chi"		"**传送点30秒后激活 **"
+		"DoorCountDown"		"30"
+	}
+	"***Look! Its Tenshi***"
+	{
+		"chi"		"**看！一只Tenshi **"
+	}
+	"***Sword system start***"
+	{
+		"chi"		"**刀剑系统启动 **"
+	}
+	"***Weather system start***"
+	{
+		"chi"		"**天气系统启动 **"
+	}
+	"***Tenshi used weather changed***"
+	{
+		"chi"		"**Tenshi使用了天气改变 **"
+		"ico"		"icon_fire"
+	}
+	"***Tenshi used shake***"
+	{
+		"chi"		"**Tenshi使用了震动 **"
+		"ico"		"icon_fire"
+	}
+	"***Red is secure***"
+	{
+		"chi"		"**红色的是安全的 **"
+	}
+	"***I was defeated???***"
+	{
+		"chi"		"**我被打败了？？？ **"
+	}
+	"***Its not possible!!!***"
+	{
+		"chi"		"**这是不可能的！！！ **"
+	}
+	"***Efreet used Space earthquake***"
+	{
+		"chi"		"**炎魔使用了地震 **"
+		"ico"		"icon_fire"
+	}
+	"***[Admin]Level 3***"
+	{
+		"chi"		"**管理员选择了第三关**"
+	}
+	"***I will improve more in next version***"
+	{
+		"chi"		"**我会在下一个版本努力改进**"
+	}
+	"**Map by Tenshi**"
+	{
+		"chi"		"**地图作者：Tenshi**"
+	}
+	"**Special Thanks:GemaYue , uuz , 银月筱瑶**"
+	{
+		"chi"		"**特别感谢：GemaYue , uuz , 银月筱瑶 **"
+	}
+	"**stage 1**"
+	{
+		"chi"		"**第一关 **"
+	}
+	"**Hold 15 seconds**"
+	{
+		"chi"		"**守住15秒 **"
+		"DoorCountDown"		"15"
+	}
+	"**Hold 30 seconds**"
+	{
+		"chi"		"**守住30秒 **"
+		"DoorCountDown"		"30"
+	}
+	"**5 seconds**"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"**Hold 35 seconds**"
+	{
+		"chi"		"**守住35秒 **"
+		"DoorCountDown"		"35"
+	}
+	"**Hold on 80 seconds**"
+	{
+		"chi"		"**守住80秒 **"
+		"DoorCountDown"		"80"
+	}
+	"**The elevator is rising**"
+	{
+		"chi"		"**电梯正在上升 **"
+	}
+	"**Nuke in 5 seconds**"
+	{
+		"chi"		"**核弹5秒后发射 **"
+	}
+	"**3**"
+	{
+		"chi"		"** **"
+	}
+	"**2**"
+	{
+		"chi"		"** **"
+	}
+	"**1**"
+	{
+		"chi"		"** **"
+	}
+	"**Round Complete**"
+	{
+		"chi"		"**本关通过 **"
+	}
+	"**stage 2**"
+	{
+		"chi"		"**第二关 **"
+	}
+	"**Hold 15 seconds until the lid of rubbish bin opening**"
+	{
+		"chi"		"**守住15秒.直到垃圾桶打开盖子 **"
+		"DoorCountDown"		"15"
+	}
+	"**Jump into the rubbish bin**"
+	{
+		"chi"		"**跳进垃圾桶 **"
+	}
+	"**HOLD 20 SECONDS**"
+	{
+		"chi"		"**守住20秒 **"
+		"DoorCountDown"		"20"
+	}
+	"**Wait 30 seconds**"
+	{
+		"chi"		"**等待30秒 **"
+		"DoorCountDown"		"30"
+	}
+	"**WALL BREAKING IN 20 SECONDS**"
+	{
+		"chi"		"**墙壁20秒后破碎 **"
+		"DoorCountDown"		"20"
+	}
+	"**Hold 40 seconds**"
+	{
+		"chi"		"**守住40秒 **"
+		"DoorCountDown"		"40"
+	}
+	"**Go to the ClearRobot**"
+	{
+		"chi"		"**去到Clear机器人那里 **"
+	}
+	"**ClearRobot leaving in 8 seconds**"
+	{
+		"chi"		"**Clear机器人8秒后离开 **"
+	}
+	"**You failed**"
+	{
+		"chi"		"**你失败了 **"
+	}
+	"**Stage 3**"
+	{
+		"chi"		"**第三关 **"
+	}
+	"**Wait 15 seconds**"
+	{
+		"chi"		"**等待15秒 **"
+		"DoorCountDown"		"15"
+	}
+	"**Hold 25 seconds**"
+	{
+		"chi"		"**守住20秒 **"
+		"DoorCountDown"		"20"
+	}
+	"**Teleport activated**"
+	{
+		"chi"		"**传送激活 **"
+	}
+	"**Jump into the screen**"
+	{
+		"chi"		"**跳进电脑屏幕里 **"
+	}
+	"**Gasu**"
+	{
+		"chi"		"**Gasu，boss原地抬手按住W，boss上升按住S**"
+	}
+	"**全人类の绯想夿**"
+	{
+		"chi"		"**全人类的绯想天，去站在四周的石头，技能结束后记得跳回来**"
+	}
+	"**Sakai**"
+	{
+		"chi"		"**Sakai（无敌，换子弹）**"
+	}
+	"**Kanameishi**"
+	{
+		"chi"		"**守护の要石（看天上躲避石头）**"
+	}
+	"**Hold 10 seconds**"
+	{
+		"chi"		"**守住10秒 **"
+		"DoorCountDown"		"10"
+	}
+	"**[Admin]STAGE 1**"
+	{
+		"chi"		"**管理员选择了第一关关 **"
+	}
+	"**[Admin]ZM**"
+	{
+		"chi"		"**管理员选择了ZM关 **"
+	}
+	"**[ZM]**"
+	{
+		"chi"		"**zm关**"
+	}
+	"**Nuke in 3 mins**"
+	{
+		"chi"		"**核弹3分钟后发射 **"
+		"DoorCountDown"		"180"
+	}
+	"**Nuke in 2 mins**"
+	{
+		"chi"		"**核弹两分钟后发射**"
+	}
+	"**Nuke in 1 min**"
+	{
+		"chi"		"**核弹一分钟后发射**"
+	}
+	"**Round Failed**"
+	{
+		"chi"		"**关卡失败 **"
+	}
+	"**Air leaves in 30 seconds**"
+	{
+		"chi"		"**纸飞机30秒后离开**"
+		"DoorCountDown"		"30"
+	}
+	"**[Admin]Stage 3**"
+	{
+		"chi"		"**管理员选择第三关**"
+	}
+	"**Im defeated.Its impossable**"
+	{
+		"chi"		"**我输了，这是不可能的**"
+	}
+	"**全人类の绯想�?**"
+	{
+		"chi"		"**全人类的绯想天，去站在四周的石头，技能结束后记得跳回来**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"46018"
+	}
+	"**[Admin]STAGE 2**"
+	{
+		"chi"		"**管理员选择了第二关**"
+	}
+	"**全人类の绯想"
+	{
+		"chi"		"**全人类的绯想天，去站在四周的石头，技能结束后记得跳回来**"
+	}
+	"**Original map : kz_otakuroom_v3 , by GemaYue**"
+	{
+		"chi"		"** **"
+	}
+	"**Model by uuz**"
+	{
+		"chi"		"** **"
+	}
+	"**Its my first map , thanks for playing**"
+	{
+		"chi"		"**这是我的第一张图，感谢你们的游玩**"
+	}
+	"**Wait 5 seconds**"
+	{
+		"chi"		"**守住5秒**"
+	}
+	"**It's my first map , thanks for playing**"
+	{
+		"chi"		"**这是我的第一张图，感谢你们的游玩**"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		">>>重生墙将在20后破碎<<<"
+	}
+	"***Map by Luffaren***"
+	{
+		"chi"		"** **"
+	}
+	"*** MAP BY STRUPPI ***"
+	{
+		"chi"		"** **"
+	}
+	"***Welcome to Crazy Kart***"
+	{
+		"chi"		"** **"
+	}
+	"***WARMUP***"
+	{
+		"chi"		"**热身时间**"
+	}
+	"++ ZE_ITALY_TOWN ++"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	{
+		"chi"		">>>热身时间还剩40s<<<"
+	}
+	">> Map by TaskuVaras and Moltard <<"
+	{
+		"chi"		"** **"
+	}
+	"**map by koyomaple**"
+	{
+		"chi"		"** **"
+	}
+	"***STAGE 1 -- THE SHIP***"
+	{
+		"chi"		"** **"
+	}
+	"**ZE_DARK_SOULS**"
+	{
+		"chi"		"** **"
+	}
+	">> IDEA: Sienestaja <<"
+	{
+		"chi"		"** **"
+	}
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"** **"
+	}
+	"*** ... ***"
+	{
+		"chi"		"** **"
+	}
 }

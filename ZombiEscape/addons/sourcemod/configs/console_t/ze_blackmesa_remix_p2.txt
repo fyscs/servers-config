@@ -1,319 +1,331 @@
 "Console_T"
 {
-    "*** TWIST: NONE - BORING NORMAL MODE! ***"
-    {
-        "chi"        "** **"
-    }
-    "** ORIGINAL ZE BLACKMESA BY BILL SMAUTZ **"
-    {
-        "chi"        "** **"
-    }
-    "** REDESIGN BY CISNEROS **"
-    {
-        "chi"        "** **"
-    }
-    "*** Tram Starts in 7 Seconds ***"
-    {
-        "chi"        "**电车在7秒内启动**"
-    }
-    "*** Airlock Opens in 12 Seconds ***"
-    {
-        "chi"        "**气闸在12秒内打开**"
-    }
-    "*** Airlock Closing in 8 Seconds ***"
-    {
-        "chi"        "**气闸在8秒内打开**"
-    }
-    "*** Sector L door opens in 30 seconds ***"
-    {
-        "chi"        "**门在30秒后打开**"
-    }
-    "*** Sector L door opens in 10 seconds ***"
-    {
-        "chi"        "**门在10秒后打开**"
-    }
-    "*** Sector P door opens in 20 seconds ***"
-    {
-        "chi"        "**门在20秒后打开**"
-    }
-    "*** Sector P door opens in 5 seconds ***"
-    {
-        "chi"        "**门在5秒后打开**"
-    }
-    "*** Sewage system door opens in 35 seconds. ***"
-    {
-        "chi"        "**污水系统门在35秒后打开**"
-    }
-    "*** Sewage system door opens in 15 seconds. ***"
-    {
-        "chi"        "**污水系统门在15秒后打开**"
-    }
-    "*** Sewage system door opens in 5 seconds. ***"
-    {
-        "chi"        "**污水系统门在5秒后打开**"
-    }
-    "*** Maintenance area door opens in 25 seconds. ***"
-    {
-        "chi"        "**门在25秒后打开**"
-    }
-    "*** Maintenance area door opens in 10 seconds. ***"
-    {
-        "chi"        "**门在10秒后打开**"
-    }
-    "*** Ventilation lockers open in 25 seconds. ***"
-    {
-        "chi"        "**通风柜在25秒后打开**"
-    }
-    "*** Ventilation lockers open in 10 seconds. ***"
-    {
-        "chi"        "**通风柜在10秒后打开**"
-    }
-    "*** GO! We have to get to the Escape elevator!!! ***"
-    {
-        "chi"        "**我们得去逃生电梯**"
-    }
-    "*** Elevator leaves in 25 seconds!!! ***"
-    {
-        "chi"        "**25秒后电梯离开**"
-    }
-    "*** Elevator leaves in 10 seconds!!! ***"
-    {
-        "chi"        "**10秒后电梯离开**"
-    }
-    "*** Bridge Activated ***"
-    {
-        "chi"        "**路开了**"
-    }
-    "*** It seems as if there was going to ocurr a big earthquake...  ***"
-    {
-        "chi"        "**好像要发生一场大地震**"
-    }
-    "*** Sewer area doors open in 20 seconds ***"
-    {
-        "chi"        "**下水道门在20秒内打开**"
-    }
-    "*** Someone found some druggidy-drug and is now faster. Drugs are bad mmmkay? ***"
-    {
-        "chi"        "**有人发现了一些药物，现在速度更快了。毒品不好，嗯？**"
-    }
-    "*** Security Door Closes in 5 Seconds ***"
-    {
-        "chi"        "**门5秒钟后关闭**"
-    }
-    "*** Freezegun has been picked up. Press +USE (E) to activate. 60 seconds cooldown."
-    {
-        "chi"        "**玩家获得冰冻枪。按e使用。60秒冷却时间**"
-    }
-    "*** Ventilation area protections unlock in 10 seconds ***"
-    {
-        "chi"        "**通风区域保护装置在10秒内解锁**"
-    }
-    "*** This cave has collapsed... Maybe another earthquake could help? ***"
-    {
-        "chi"        "**这个洞坍塌了…**"
-    }
-    "*** Resist 15 seconds! ***"
-    {
-        "chi"        "**守住15秒**"
-    }
-    "*** Resist 5 seconds! There's some shaking going on! ***"
-    {
-        "chi"        "**守住5秒**"
-    }
-    "*** Resist here for 15 seconds! This area used to lead to an abandoned mine!***"
-    {
-        "chi"        "**守住15秒**"
-    }
-    "*** Defend that natural bridge! The seismometer reads a new earthquake soon!!! ***"
-    {
-        "chi"        "**守住这座桥**"
-    }
-    "*** Keep defending! We have to resist until the whole bridge is destroyed! ***"
-    {
-        "chi"        "**继续防守，直到桥被摧毁**"
-    }
-    "*** Keep it! 30 seconds until the next earthquake!! ***"
-    {
-        "chi"        "**还有30秒**"
-    }
-    "*** C'mon!!! Just 5 seconds! ***"
-    {
-        "chi"        "** **"
-    }
-    "*** We have to get to a safe zone now! The nuke will make this area collapse! ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Go to the small cave up there! Its walls are built off granite! ***"
-    {
-        "chi"        "** **"
-    }
-    "*** C'MON!!! ***"
-    {
-        "chi"        "** **"
-    }
-    "*** ANNIHILATION MODE ENABLED: MONSTER LAB. OPEN ***"
-    {
-        "chi"        "** **"
-    }
-    "*** TWIST: ALL ABOARD THE FAILTRAM - NO BRIDGE  SECRET ***"
-    {
-        "chi"        "** **"
-    }
-    "*Ammo Box has been picked up. Press +USE (E) to activate.*"
-    {
-        "chi"        "** **"
-    }
-    "*It has a 90 seconds cooldown.*"
-    {
-        "chi"        "** **"
-    }
-    "*** First sector G door opens in 30 seconds ***"
-    {
-        "chi"        "** **"
-    }
-    "*** First sector G door opens in 10 seconds ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Second sector G door opens in 25 seconds ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Second sector G door opens in 10 seconds ***"
-    {
-        "chi"        "** **"
-    }
-    "*** WARNING: The main generator is overloading ***"
-    {
-        "chi"        "** **"
-    }
-    "*** ERROR: Cooling system can not be activated. ***"
-    {
-        "chi"        "** **"
-    }
-    "*** ATTENTION: Emergency mode activated. Doors open in 1 minute. ***"
-    {
-        "chi"        "** **"
-    }
-    "*** BARRICADE ROUND: Survive for 5 minutes! ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Two minutes left! Stay alive!!! ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Just one minute! RESIST!!! ***"
-    {
-        "chi"        "** **"
-    }
-    "*** TWIST: SECRETS ARE UNPOLITE - SECRET WAY IS LOCKED! ***"
-    {
-        "chi"        "** **"
-    }
-    "*** TWIST: BREAK ON THROUGH TO THE OTHER SIDE - NO TRAM & FRONT WAY LOCKED ***"
-    {
-        "chi"        "** **"
-    }
-    "*** SlowRing generator has been picked up. Press +USE (E) to use. 45 seconds cooldown. ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Landmines have been picked up. Press +USE (E) to spawn. You only have 4 landmines. ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Stick-Bomb has been picked up ***"
-    {
-        "chi"        "** **"
-    }
-    "*** 30 seconds to go! C'mon! ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Zombie-eating bacteria being released in 15 seconds! ***"
-    {
-        "chi"        "** **"
-    }
-    "*** YEAH!!! WE DID IT!!! ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Lift is leaving in 15 Seconds ***"
-    {
-        "chi"        "** **"
-    }
-    "**Flamethrower has been picked up. Press +Use (E) to activate**"
-    {
-        "chi"        "** **"
-    }
-    "**Fuel lasts about 10 seconds. **"
-    {
-        "chi"        "** **"
-    }
-    "*** Helicopter Departing in 30 Seconds ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Helicopter Departing in 10 Seconds ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Helicopter Departing in 5 Seconds ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Helicopter is Departing ***"
-    {
-        "chi"        "** **"
-    }
-    "*** WARNING: Facility detonation in 30 Seconds ***"
-    {
-        "chi"        "** **"
-    }
-    "*** TWIST: STRANGE SPACE SITUATION - OTHER SIDENO SECRETLOW GRAV ***"
-    {
-        "chi"        "** **"
-    }
-    "### Welcome to Abandoned Bio Bunker  ###"
-    {
-        "chi"        "** **"
-    }
-    ">>LEVEL: EASY<<"
-    {
-        "chi"        "** **"
-    }
-    "*** Safety underground bunker opens in 30 Seconds ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Safety underground bunker opens in 10 Seconds ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Safety underground bunker opens in 5 Seconds ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Safety underground bunker is opening ***"
-    {
-        "chi"        "** **"
-    }
-    "**map by koyomaple**"
-    {
-        "chi"        "** **"
-    }
-    "*** TWIST: ALL ABOARD THE FAILTRAM & NO FRONT  SECRET ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Safety underground bunker closes in 10 Seconds ***"
-    {
-        "chi"        "** **"
-    }
+	"*** TWIST: NONE - BORING NORMAL MODE! ***"
+	{
+		"chi"		"** **"
+	}
+	"** ORIGINAL ZE BLACKMESA BY BILL SMAUTZ **"
+	{
+		"chi"		"** **"
+	}
+	"** REDESIGN BY CISNEROS **"
+	{
+		"chi"		"** **"
+	}
+	"*** Tram Starts in 7 Seconds ***"
+	{
+		"chi"		"**电车在7秒内启动**"
+	}
+	"*** Airlock Opens in 12 Seconds ***"
+	{
+		"chi"		"**气闸在12秒内打开**"
+	}
+	"*** Airlock Closing in 8 Seconds ***"
+	{
+		"chi"		"**气闸在8秒内打开**"
+	}
+	"*** Sector L door opens in 30 seconds ***"
+	{
+		"chi"		"**门在30秒后打开**"
+	}
+	"*** Sector L door opens in 10 seconds ***"
+	{
+		"chi"		"**门在10秒后打开**"
+	}
+	"*** Sector P door opens in 20 seconds ***"
+	{
+		"chi"		"**门在20秒后打开**"
+	}
+	"*** Sector P door opens in 5 seconds ***"
+	{
+		"chi"		"**门在5秒后打开**"
+	}
+	"*** Sewage system door opens in 35 seconds. ***"
+	{
+		"chi"		"**污水系统门在35秒后打开**"
+	}
+	"*** Sewage system door opens in 15 seconds. ***"
+	{
+		"chi"		"**污水系统门在15秒后打开**"
+	}
+	"*** Sewage system door opens in 5 seconds. ***"
+	{
+		"chi"		"**污水系统门在5秒后打开**"
+	}
+	"*** Maintenance area door opens in 25 seconds. ***"
+	{
+		"chi"		"**门在25秒后打开**"
+	}
+	"*** Maintenance area door opens in 10 seconds. ***"
+	{
+		"chi"		"**门在10秒后打开**"
+	}
+	"*** Ventilation lockers open in 25 seconds. ***"
+	{
+		"chi"		"**通风柜在25秒后打开**"
+	}
+	"*** Ventilation lockers open in 10 seconds. ***"
+	{
+		"chi"		"**通风柜在10秒后打开**"
+	}
+	"*** GO! We have to get to the Escape elevator!!! ***"
+	{
+		"chi"		"**我们得去逃生电梯**"
+	}
+	"*** Elevator leaves in 25 seconds!!! ***"
+	{
+		"chi"		"**25秒后电梯离开**"
+	}
+	"*** Elevator leaves in 10 seconds!!! ***"
+	{
+		"chi"		"**10秒后电梯离开**"
+	}
+	"*** Bridge Activated ***"
+	{
+		"chi"		"**路开了**"
+	}
+	"*** It seems as if there was going to ocurr a big earthquake...  ***"
+	{
+		"chi"		"**好像要发生一场大地震**"
+	}
+	"*** Sewer area doors open in 20 seconds ***"
+	{
+		"chi"		"**下水道门在20秒内打开**"
+	}
+	"*** Someone found some druggidy-drug and is now faster. Drugs are bad mmmkay? ***"
+	{
+		"chi"		"**有人发现了一些药物，现在速度更快了。毒品不好，嗯？**"
+	}
+	"*** Security Door Closes in 5 Seconds ***"
+	{
+		"chi"		"**门5秒钟后关闭**"
+	}
+	"*** Freezegun has been picked up. Press +USE (E) to activate. 60 seconds cooldown."
+	{
+		"chi"		"**玩家获得冰冻枪。按e使用。60秒冷却时间**"
+	}
+	"*** Ventilation area protections unlock in 10 seconds ***"
+	{
+		"chi"		"**通风区域保护装置在10秒内解锁**"
+	}
+	"*** This cave has collapsed... Maybe another earthquake could help? ***"
+	{
+		"chi"		"**这个洞坍塌了…**"
+	}
+	"*** Resist 15 seconds! ***"
+	{
+		"chi"		"**守住15秒**"
+	}
+	"*** Resist 5 seconds! There's some shaking going on! ***"
+	{
+		"chi"		"**守住5秒**"
+	}
+	"*** Resist here for 15 seconds! This area used to lead to an abandoned mine!***"
+	{
+		"chi"		"**守住15秒**"
+	}
+	"*** Defend that natural bridge! The seismometer reads a new earthquake soon!!! ***"
+	{
+		"chi"		"**守住这座桥**"
+	}
+	"*** Keep defending! We have to resist until the whole bridge is destroyed! ***"
+	{
+		"chi"		"**继续防守，直到桥被摧毁**"
+	}
+	"*** Keep it! 30 seconds until the next earthquake!! ***"
+	{
+		"chi"		"**还有30秒**"
+	}
+	"*** C'mon!!! Just 5 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** We have to get to a safe zone now! The nuke will make this area collapse! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Go to the small cave up there! Its walls are built off granite! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** C'MON!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ANNIHILATION MODE ENABLED: MONSTER LAB. OPEN ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TWIST: ALL ABOARD THE FAILTRAM - NO BRIDGE  SECRET ***"
+	{
+		"chi"		"** **"
+	}
+	"*Ammo Box has been picked up. Press +USE (E) to activate.*"
+	{
+		"chi"		"** **"
+	}
+	"*It has a 90 seconds cooldown.*"
+	{
+		"chi"		"** **"
+	}
+	"*** First sector G door opens in 30 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** First sector G door opens in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Second sector G door opens in 25 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Second sector G door opens in 10 seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARNING: The main generator is overloading ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ERROR: Cooling system can not be activated. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ATTENTION: Emergency mode activated. Doors open in 1 minute. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** BARRICADE ROUND: Survive for 5 minutes! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Two minutes left! Stay alive!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Just one minute! RESIST!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TWIST: SECRETS ARE UNPOLITE - SECRET WAY IS LOCKED! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TWIST: BREAK ON THROUGH TO THE OTHER SIDE - NO TRAM & FRONT WAY LOCKED ***"
+	{
+		"chi"		"** **"
+	}
+	"*** SlowRing generator has been picked up. Press +USE (E) to use. 45 seconds cooldown. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Landmines have been picked up. Press +USE (E) to spawn. You only have 4 landmines. ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Stick-Bomb has been picked up ***"
+	{
+		"chi"		"** **"
+	}
+	"*** 30 seconds to go! C'mon! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Zombie-eating bacteria being released in 15 seconds! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** YEAH!!! WE DID IT!!! ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Lift is leaving in 15 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"**Flamethrower has been picked up. Press +Use (E) to activate**"
+	{
+		"chi"		"** **"
+	}
+	"**Fuel lasts about 10 seconds. **"
+	{
+		"chi"		"** **"
+	}
+	"*** Helicopter Departing in 30 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Helicopter Departing in 10 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Helicopter Departing in 5 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Helicopter is Departing ***"
+	{
+		"chi"		"** **"
+	}
+	"*** WARNING: Facility detonation in 30 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TWIST: STRANGE SPACE SITUATION - OTHER SIDENO SECRETLOW GRAV ***"
+	{
+		"chi"		"** **"
+	}
+	"### Welcome to Abandoned Bio Bunker  ###"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL: EASY<<"
+	{
+		"chi"		"** **"
+	}
+	"*** Safety underground bunker opens in 30 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Safety underground bunker opens in 10 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Safety underground bunker opens in 5 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Safety underground bunker is opening ***"
+	{
+		"chi"		"** **"
+	}
+	"**map by koyomaple**"
+	{
+		"chi"		"** **"
+	}
+	"*** TWIST: ALL ABOARD THE FAILTRAM & NO FRONT  SECRET ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Safety underground bunker closes in 10 Seconds ***"
+	{
+		"chi"		"** **"
+	}
+	"*** TWIST: SPACED OUT JIMMY - LOW GRAVITY ACTIVATED ***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Taskuvaras***"
+	{
+		"chi"		"** **"
+	}
+	"***Human door opening in 15s***"
+	{
+		"chi"		"** **"
+	}
 }

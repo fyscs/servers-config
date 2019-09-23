@@ -2,201 +2,113 @@
 {
 	"*-'This is your slightly eccentric commander speaking, get a move on!'-*"
 	{
-		"chi"		"**我是你们的指挥官，也许有时候你们觉得我很怪，想不被僵尸挊死就动起来，小伙子/姑娘们！地图翻译：觉醒之刃**"
+		"chi"		"** **"
 	}
 	"*-'Maybe there's something here we can use'-*"
 	{
-		"chi"		"**也许这里有点有用的东西（部分人下楼梯开门，其余人继续守门）**"
+		"chi"		"** **"
 	}
 	"*-'An airlock? That's strange. I don't remember them having these.'-*"
 	{
-		"chi"		"**一个气闸门？这太奇怪了，我不记得他们有这些玩意儿，你们城里人真会玩**"
+		"chi"		"** **"
 	}
 	"*Airlock Door Malfunction. Attempting repairs. Estimated duration: 30 seconds*"
 	{
-		"chi"		"**气闸门出现故障！正在尝试修理，大约需要30秒！**"
-		"DoorCountdown"		"30"
-	}
-	"--Photonic Blade Obtained: 30 seconds cooldown--"
-	{
-		"chi"		"**光刃已获得，它有30秒的冷却时间！**"
-		"DoorCountdown"		"-1"
+		"chi"		"** **"
 	}
 	"--5 seconds--"
 	{
-		"chi"		"**5秒！（门开以后，请先下来的人帮忙卡门，让断后的人通过。断后的人类下楼梯请小心，自动加速会杀死你们）**"
+		"chi"		"** **"
 	}
 	"*-'What was that!?'-*"
 	{
-		"chi"		"**那特么是什么鬼？**"
+		"chi"		"** **"
 	}
 	"--Door opens in 40 seconds--"
 	{
-		"chi"		"**门将在40秒后开启**"
+		"chi"		"** **"
 	}
 	"--Door opens in 5 seconds--"
 	{
-		"chi"		"**门将在5秒后开启（不要吝惜你的手雷）**"
+		"chi"		"** **"
 	}
 	"--Zombies held for 10 seconds--"
 	{
-		"chi"		"**僵尸已被静滞！持续10秒**"
+		"chi"		"** **"
 	}
 	"*-'A low gravity room.Kinda expected that'-*"
 	{
-		"chi"		"**一个低重力房间，想想还有点小激动呢(注意不要跳过头)**"
+		"chi"		"** **"
 	}
 	"*-'Oh look,chemical weapons.More specificly VX '-*"
 	{
-		"chi"		"**看！一屋子的化学武器！更详细点说，这是VX（神经性毒剂）**"
+		"chi"		"** **"
 	}
 	"*Ventilaton system set to: Fill facility.Estimated duration 25 seconds*"
 	{
-		"chi"		"**通风系统已被重新设置至装填设备，大约需要25秒！**"
-		"DoorCountdown"		"25"
+		"chi"		"** **"
+	}
+	"--Photonic Blade Obtained: 30 seconds cooldown--"
+	{
+		"chi"		"** **"
 	}
 	"*-'Great.Now plant C4 here and run!'-*"
 	{
-		"chi"		"**很好！现在，安放C4然后跑路吧！(地上的红色按钮)**"
+		"chi"		"** **"
 	}
 	"*-'Mmmkay the Excalibre is a key to...'-*"
 	{
-		"chi"		"**（翻译不能，没关系，不是重要的提示:P）**"
+		"chi"		"** **"
 	}
 	"*-'Damn.That gateway leads to a pocket dimension with tons of antimatter.'-*"
 	{
-		"chi"		"**妈蛋，这些指路的玩意儿通往一个充满了大量反物质的超次元口袋**"
+		"chi"		"** **"
 	}
 	"*-'Upload the data.'-*"
 	{
-		"chi"		"**上传数据！**"
+		"chi"		"** **"
 	}
 	"*Uploading.Estimated time of completion: 30 seconds*"
 	{
-		"chi"		"**正在上传中，预计30秒完成**"
-		"DoorCountdown"		"30"
+		"chi"		"** **"
 	}
 	"*Upload 50% complete*"
 	{
-		"chi"		"**完成一半了，坚持住！**"
+		"chi"		"** **"
 	}
 	"*Upload 75% complete*"
 	{
-		"chi"		"**完成四分之三了！**"
+		"chi"		"** **"
 	}
 	"*Upload complete!*"
 	{
-		"chi"		"**上传完成！**"
+		"chi"		"** **"
 	}
 	"*-'It's activating its weapon systems!'-*"
 	{
-		"chi"		"**它的武器系统被激活了！**"
+		"chi"		"** **"
 	}
 	"*-'Shoot the computer!The blue part!'-*"
 	{
-		"chi"		"**朝计算机射击！在它蓝色的部分！(建议站在左右悬崖边)**"
+		"chi"		"** **"
 	}
 	"*Self-destruct sequence activated: 1 minute to detonation.*"
 	{
-		"chi"		"**警告：自毁程序已启动！[1]分钟后自爆！**"
+		"chi"		"** **"
 	}
 	"*-'Halfway there!Keep firing!'-*"
 	{
-		"chi"		"**它撑不了多久了！继续开火！**"
-	}
-	"*Nuclear detonation imminent! 30 seconds remaining.*"
-	{
-		"chi"		"**核弹洗地即将抵达！还剩30秒！**"
+		"chi"		"** **"
 	}
 	"*-'Hurry!To the left'-*"
 	{
-		"chi"		"**快点，去左边！（BOSS打爆后赶紧向左边走，僵尸很快就会被释放，向身后扔雷拖时间）**"
+		"chi"		"** **"
 	}
 	"*Emergency bunker closing in 35 seconds*"
 	{
-		"chi"		"**应急核掩体将在35秒后关闭！(火力压制很重要)**"
+		"chi"		"** **"
 	}
 	"*-'Well,that's convenient.'-*"
-	{
-		"chi"		"**干的漂亮！僵尸不过咸鱼**"
-	}
-	"*5*"
-	{
-		"chi"		"** **"
-	}
-	"*4*"
-	{
-		"chi"		"** **"
-	}
-	"*3*"
-	{
-		"chi"		"** **"
-	}
-	"*2*"
-	{
-		"chi"		"** **"
-	}
-	"*1*"
-	{
-		"chi"		"** **"
-	}
-	"*-This is your slightly eccentric commander speaking, get a move on!-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Maybe theres something here we can use-*"
-	{
-		"chi"		"** **"
-	}
-	"*-An airlock? Thats strange. I dont remember them having these.-*"
-	{
-		"chi"		"** **"
-	}
-	"*-What was that!?-*"
-	{
-		"chi"		"** **"
-	}
-	"*-A low gravity room.Kinda expected that-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Oh look,chemical weapons.More specificly VX -*"
-	{
-		"chi"		"** **"
-	}
-	"*-Great.Now plant C4 here and run!-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Mmmkay the Excalibre is a key to...-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Damn.That gateway leads to a pocket dimension with tons of antimatter.-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Upload the data.-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Its activating its weapon systems!-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Shoot the computer!The blue part!-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Halfway there!Keep firing!-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Hurry!To the left-*"
-	{
-		"chi"		"** **"
-	}
-	"*-Well,thats convenient.-*"
 	{
 		"chi"		"** **"
 	}
@@ -205,6 +117,14 @@
 		"chi"		"** **"
 	}
 	"--Music by RageVI and CT--"
+	{
+		"chi"		"** **"
+	}
+	"***Welcome***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Qahnaarin***"
 	{
 		"chi"		"** **"
 	}

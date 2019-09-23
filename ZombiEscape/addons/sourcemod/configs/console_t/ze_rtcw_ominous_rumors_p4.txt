@@ -1,372 +1,372 @@
 "Console_T"
 {
-    "# WARM UP ROUND #"
-    {
-        "chi"        "**热身赛 **"
-    }
-    "# RETURN TO CASTLE WOLFENSTEIN #"
-    {
-        "chi"        "**重返德军总部  汉化：水墨涟漪踏无痕**"
-    }
-    "# MAP BY JB_GAMBLE #"
-    {
-        "chi"        "**地图作者:JB_GAMBLE **"
-    }
-    "# MISSION 1 - OMINOUS RUMORS #"
-    {
-        "chi"        "**任务1:不详的谣言 **"
-    }
-    "# PART 1 - ESCAPE! #"
-    {
-        "chi"        "**第一关---逃脱 **"
-    }
-    "<!!!> HOLD THIS POSITION <!!!>"
-    {
-        "chi"        "**保持姿势守住这里!!! **"
-    }
-    "<!!!> GATE OPEN <!!!>"
-    {
-        "chi"        "**闸门开启 **"
-    }
-    "<!!!> FALL BACK <!!!>"
-    {
-        "chi"        "**撤退!!!! **"
-    }
-    "<!!!> DOOR OPEN <!!!>"
-    {
-        "chi"        "**大门打开 **"
-    }
-    "<!!!> HOLD HERE <!!!>"
-    {
-        "chi"        "**守住这里 **"
-    }
-    "# BLACK MAGIC #"
-    {
-        "chi"        "**黑魔法**"
-    }
-    "<!!!> FINAL DOOR CLOSING IN <!!!>"
-    {
-        "chi"        "**最后一道门将要关闭 **"
-    }
-    "<!!!> 40 SECONDS <!!!>"
-    {
-        "chi"        "**40秒!!! **"
-        "DoorCountDown"        "40"
-    }
-    "<!!!> 30 SECONDS <!!!>"
-    {
-        "chi"        "**30秒!!! **"
-    }
-    "<!!!> 20 SECONDS <!!!>"
-    {
-        "chi"        "**20秒!!! **"
-    }
-    "<!!!> 10 SECONDS <!!!>"
-    {
-        "chi"        "**10秒!!! **"
-    }
-    "<!!!> 5 SECONDS <!!!>"
-    {
-        "chi"        "**5秒!!! **"
-    }
-    "<!!!> ZOMBIE'S DETECTED - YOU LOSE <!!!>"
-    {
-        "chi"        "**检测到僵尸----你们输了 **"
-    }
-    "<!!!> PART 1 - ESCAPE! PASSED <!!!>"
-    {
-        "chi"        "**第一关---逃脱!通关!!(汉化:水墨涟漪踏无痕) **"
-    }
-    "# PART 2 - CASTLE KEEP #"
-    {
-        "chi"        "**第二关---城堡 **"
-    }
-    "# HOLD HERE #"
-    {
-        "chi"        "**守住这里 **"
-    }
-    "<!!!> ACTIVATE LEVER <!!!>"
-    {
-        "chi"        "**激活杠杆 **"
-    }
-    "# 10 SECONDS #"
-    {
-        "chi"        "**10秒!!! **"
-        "DoorCountDown"        "10"
-    }
-    "<!!!> GO GO GO <!!!>"
-    {
-        "chi"        "**跑,跑,跑!!!! **"
-    }
-    "<!!!> UP THE STAIRS <!!!>"
-    {
-        "chi"        "**上楼梯!!!! **"
-    }
-    "# HOLD THIS POSITION #"
-    {
-        "chi"        "**保持姿势守住这里!!! **"
-    }
-    "# PRESS BUTTON #"
-    {
-        "chi"        "**按下按钮 **"
-    }
-    "<!!!> GATE OPEN IN 20 SECONDS <!!!>"
-    {
-        "chi"        "**闸门将在20秒后开启!! **"
-        "DoorCountDown"        "20"
-    }
-    "<!!!> GO LEFT <!!!>"
-    {
-        "chi"        "**向左走!!! **"
-    }
-    "# UNLIMITED AMMO #"
-    {
-        "chi"        "**无限子弹 **"
-    }
-    "# UNLIMITED AMMO - 14 SECONDS #"
-    {
-        "chi"        "**无限子弹--14秒 **"
-    }
-    "<!!!> DOOR CLOSING IN 15 SECONDS <!!!>"
-    {
-        "chi"        "**门将在15秒后关闭 **"
-        "DoorCountDown"        "15"
-    }
-    "<!!!> DEFEND THIS POSITION <!!!>"
-    {
-        "chi"        "**守住这个位置!!! **"
-    }
-    "<!!!> PART 2 - CASTLE KEEP PASSED <!!!>"
-    {
-        "chi"        "**第二关---城堡 通关(汉化:水墨涟漪踏无痕)**"
-    }
-    "# PART 3 - TRAM RIDE #"
-    {
-        "chi"        "**第三关---有轨电车 **"
-    }
-    "# TRAM ON ITS WAY #"
-    {
-        "chi"        "**电车正在路上!! **"
-    }
-    "# TRAM ARRIVED #"
-    {
-        "chi"        "**电车到了!!! **"
-    }
-    "# TRAM IS LEAVING #"
-    {
-        "chi"        "**电车正在离开!! **"
-    }
-    "# HOLD TRAM #"
-    {
-        "chi"        "**守住电车!! **"
-    }
-    "# TRAM START IN 20 SECONDS #"
-    {
-        "chi"        "**电车将在20秒后出发!!! **"
-        "DoorCountDown"        "20"
-    }
-    "# DOOR OPEN IN 20 SECONDS #"
-    {
-        "chi"        "**门将在20秒后打开!! **"
-        "DoorCountDown"        "20"
-    }
-    "# DOOR OPEN #"
-    {
-        "chi"        "**门开了!!! **"
-    }
-    "# TORCH #"
-    {
-        "chi"        "**火炬 **"
-    }
-    "# FINAL DOOR CLOSING IN 20 SECONDS #"
-    {
-        "chi"        "**最后一道门将在20秒后关闭!!!! **"
-        "DoorCountDown"        "20"
-    }
-    "# 5 SECONDS #"
-    {
-        "chi"        "**还剩下5秒!!!! **"
-    }
-    "<!!!> PART 3 - TRAM RIDE PASSED <!!!>"
-    {
-        "chi"        "**第三关---有轨电车 通关(汉化:水墨涟漪踏无痕) **"
-    }
-    "<!!!> EASY COMPLETED <!!!>"
-    {
-        "chi"        "**轻松完成!!!! **"
-    }
-    "# SANDBAG WALL #"
-    {
-        "chi"        "**沙袋墙 **"
-    }
-    "# MAGIC - FOG #"
-    {
-        "chi"        "**魔法烟雾 **"
-    }
-    "# VENT OPEN IN 15 SECONDS #"
-    {
-        "chi"        "**排气孔将在15秒后打开 **"
-    }
-    "# VENT OPEN #"
-    {
-        "chi"        "**排气孔打开了 **"
-    }
-    "# FINAL DOOR CLOSING IN 40 SECONDS #"
-    {
-        "chi"        "**最后一道门将在40秒后关闭 **"
-        "DoorCountDown"        "40"
-    }
-    "# 30 SECONDS #"
-    {
-        "chi"        "**还剩30秒!!! **"
-    }
-    "# 20 SECONDS #"
-    {
-        "chi"        "**还剩20秒!!! **"
-    }
-    "<!!!> MED COMPLETED <!!!>"
-    {
-        "chi"        "** **"
-    }
-    "# ITEM RESTRICTION - BLACK MAGIC #"
-    {
-        "chi"        "**限制项目-魔法 **"
-    }
-    "<!!!> 60 SECONDS <!!!>"
-    {
-        "chi"        "**还剩60秒!!! **"
-        "DoorCountDown"        "60"
-    }
-    "<!!!> 50 SECONDS <!!!>"
-    {
-        "chi"        "**还剩50秒!!! **"
-    }
-    "# ITEM RESTRICTION - BAZOOKA #"
-    {
-        "chi"        "**限制项目-火箭炮 **"
-    }
-    "# ITEM RESTRICTION - SANDBAG WALL #"
-    {
-        "chi"        "**限制项目-沙袋墙 **"
-    }
-    "# MAGIC - FREEZE #"
-    {
-        "chi"        "**魔法冻结 **"
-    }
-    "^^^ Map By: BillSmauz ^^^"
-    {
-        "chi"        "**地图作者:BillSmauz **"
-    }
-    "# BAZOOKA #"
-    {
-        "chi"        "**火箭炮 **"
-    }
-    "# MG42 AMMO #"
-    {
-        "chi"        "**MG42机枪弹药 **"
-    }
-    "# MG42 AMMO LOADED #"
-    {
-        "chi"        "**MG42机枪弹药装载中 **"
-    }
-    "# FLAMETHROWER #"
-    {
-        "chi"        "**火焰喷射器 **"
-    }
-    "# FLAMETHROWER EMPTY #"
-    {
-        "chi"        "**火焰喷射器燃气用完了 **"
-    }
-    "*** Map by : Airvulpes ***"
-    {
-        "chi"        "**地图作者:Airvulpes  **"
-    }
-    "# ITEM RESTRICTION - UNLIMITED AMMO #"
-    {
-        "chi"        "**限制项目-无限弹药 **"
-    }
-    "<!!!> GATE OPEN IN 30 SECONDS <!!!>"
-    {
-        "chi"        "**闸门将在30秒后打开!!! **"
-        "DoorCountDown"        "30"
-    }
-    "# FALL BACK - DOOR #"
-    {
-        "chi"        "**从门那里撤退!!! **"
-        "DoorCountDown"        "30"
-    }
-    "# TURN TRAM POWER ON #"
-    {
-        "chi"        "**电车的电路打开了 **"
-    }
-    "# GO GO #"
-    {
-        "chi"        "**跑,跑!!!! **"
-    }
-    "# TRAM START IN 30 SECONDS #"
-    {
-        "chi"        "**电车将在30秒后离开 **"
-        "DoorCountDown"        "30"
-    }
-    "# FINAL DOOR CLOSING IN 50 SECONDS #"
-    {
-        "chi"        "**最后一道门将在50秒后关闭 **"
-        "DoorCountDown"        "50"
-    }
-    "# 40 SECONDS #"
-    {
-        "chi"        "**还剩40秒!!!! **"
-    }
-    "<!!!> MAP COMPLETED <!!!>"
-    {
-        "chi"        "** **"
-    }
-    "<!!!> ZOMBIES DETECTED - YOU LOSE <!!!>"
-    {
-        "chi"        "** **"
-    }
-    "# ITEM RESTRICTION - FLAMETHROWER #"
-    {
-        "chi"        "** **"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "57389"
-    }
-    "[NORMAL MODE]"
-    {
-        "chi"        "** **"
-    }
-    "**ZE_DARK_SOULS**"
-    {
-        "chi"        "** **"
-    }
-    "***Adjust the volume in your music settings or via snd_musicvolume***"
-    {
-        "chi"        "** **"
-    }
-    "** MAP MADE BY PURPZZ ** Rebuild by Skullz **"
-    {
-        "chi"        "** **"
-    }
-    "** ZE_SUPERSHITSHOW **"
-    {
-        "chi"        "** **"
-    }
-    "** A mode will be chosen shortly... **"
-    {
-        "chi"        "** **"
-    }
-    ">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
-    {
-        "chi"        "** **"
-    }
-    "+++  MAP MADE BY GARGANTUA +++"
-    {
-        "chi"        "** **"
-    }
-    "***STAGE 1 -- THE SHIP***"
-    {
-        "chi"        "** **"
-    }
+	"# WARM UP ROUND #"
+	{
+		"chi"		"**热身赛 **"
+	}
+	"# RETURN TO CASTLE WOLFENSTEIN #"
+	{
+		"chi"		"**重返德军总部  汉化：水墨涟漪踏无痕**"
+	}
+	"# MAP BY JB_GAMBLE #"
+	{
+		"chi"		"**地图作者:JB_GAMBLE **"
+	}
+	"# MISSION 1 - OMINOUS RUMORS #"
+	{
+		"chi"		"**任务1:不详的谣言 **"
+	}
+	"# PART 1 - ESCAPE! #"
+	{
+		"chi"		"**第一关---逃脱 **"
+	}
+	"<!!!> HOLD THIS POSITION <!!!>"
+	{
+		"chi"		"**保持姿势守住这里!!! **"
+	}
+	"<!!!> GATE OPEN <!!!>"
+	{
+		"chi"		"**闸门开启 **"
+	}
+	"<!!!> FALL BACK <!!!>"
+	{
+		"chi"		"**撤退!!!! **"
+	}
+	"<!!!> DOOR OPEN <!!!>"
+	{
+		"chi"		"**大门打开 **"
+	}
+	"<!!!> HOLD HERE <!!!>"
+	{
+		"chi"		"**守住这里 **"
+	}
+	"# BLACK MAGIC #"
+	{
+		"chi"		"**黑魔法**"
+	}
+	"<!!!> FINAL DOOR CLOSING IN <!!!>"
+	{
+		"chi"		"**最后一道门将要关闭 **"
+	}
+	"<!!!> 40 SECONDS <!!!>"
+	{
+		"chi"		"**40秒!!! **"
+		"DoorCountDown"		"40"
+	}
+	"<!!!> 30 SECONDS <!!!>"
+	{
+		"chi"		"**30秒!!! **"
+	}
+	"<!!!> 20 SECONDS <!!!>"
+	{
+		"chi"		"**20秒!!! **"
+	}
+	"<!!!> 10 SECONDS <!!!>"
+	{
+		"chi"		"**10秒!!! **"
+	}
+	"<!!!> 5 SECONDS <!!!>"
+	{
+		"chi"		"**5秒!!! **"
+	}
+	"<!!!> ZOMBIE'S DETECTED - YOU LOSE <!!!>"
+	{
+		"chi"		"**检测到僵尸----你们输了 **"
+	}
+	"<!!!> PART 1 - ESCAPE! PASSED <!!!>"
+	{
+		"chi"		"**第一关---逃脱!通关!!(汉化:水墨涟漪踏无痕) **"
+	}
+	"# PART 2 - CASTLE KEEP #"
+	{
+		"chi"		"**第二关---城堡 **"
+	}
+	"# HOLD HERE #"
+	{
+		"chi"		"**守住这里 **"
+	}
+	"<!!!> ACTIVATE LEVER <!!!>"
+	{
+		"chi"		"**激活杠杆 **"
+	}
+	"# 10 SECONDS #"
+	{
+		"chi"		"**10秒!!! **"
+		"DoorCountDown"		"10"
+	}
+	"<!!!> GO GO GO <!!!>"
+	{
+		"chi"		"**跑,跑,跑!!!! **"
+	}
+	"<!!!> UP THE STAIRS <!!!>"
+	{
+		"chi"		"**上楼梯!!!! **"
+	}
+	"# HOLD THIS POSITION #"
+	{
+		"chi"		"**保持姿势守住这里!!! **"
+	}
+	"# PRESS BUTTON #"
+	{
+		"chi"		"**按下按钮 **"
+	}
+	"<!!!> GATE OPEN IN 20 SECONDS <!!!>"
+	{
+		"chi"		"**闸门将在20秒后开启!! **"
+		"DoorCountDown"		"20"
+	}
+	"<!!!> GO LEFT <!!!>"
+	{
+		"chi"		"**向左走!!! **"
+	}
+	"# UNLIMITED AMMO #"
+	{
+		"chi"		"**无限子弹 **"
+	}
+	"# UNLIMITED AMMO - 14 SECONDS #"
+	{
+		"chi"		"**无限子弹--14秒 **"
+	}
+	"<!!!> DOOR CLOSING IN 15 SECONDS <!!!>"
+	{
+		"chi"		"**门将在15秒后关闭 **"
+		"DoorCountDown"		"15"
+	}
+	"<!!!> DEFEND THIS POSITION <!!!>"
+	{
+		"chi"		"**守住这个位置!!! **"
+	}
+	"<!!!> PART 2 - CASTLE KEEP PASSED <!!!>"
+	{
+		"chi"		"**第二关---城堡 通关(汉化:水墨涟漪踏无痕)**"
+	}
+	"# PART 3 - TRAM RIDE #"
+	{
+		"chi"		"**第三关---有轨电车 **"
+	}
+	"# TRAM ON ITS WAY #"
+	{
+		"chi"		"**电车正在路上!! **"
+	}
+	"# TRAM ARRIVED #"
+	{
+		"chi"		"**电车到了!!! **"
+	}
+	"# TRAM IS LEAVING #"
+	{
+		"chi"		"**电车正在离开!! **"
+	}
+	"# HOLD TRAM #"
+	{
+		"chi"		"**守住电车!! **"
+	}
+	"# TRAM START IN 20 SECONDS #"
+	{
+		"chi"		"**电车将在20秒后出发!!! **"
+		"DoorCountDown"		"20"
+	}
+	"# DOOR OPEN IN 20 SECONDS #"
+	{
+		"chi"		"**门将在20秒后打开!! **"
+		"DoorCountDown"		"20"
+	}
+	"# DOOR OPEN #"
+	{
+		"chi"		"**门开了!!! **"
+	}
+	"# TORCH #"
+	{
+		"chi"		"**火炬 **"
+	}
+	"# FINAL DOOR CLOSING IN 20 SECONDS #"
+	{
+		"chi"		"**最后一道门将在20秒后关闭!!!! **"
+		"DoorCountDown"		"20"
+	}
+	"# 5 SECONDS #"
+	{
+		"chi"		"**还剩下5秒!!!! **"
+	}
+	"<!!!> PART 3 - TRAM RIDE PASSED <!!!>"
+	{
+		"chi"		"**第三关---有轨电车 通关(汉化:水墨涟漪踏无痕) **"
+	}
+	"<!!!> EASY COMPLETED <!!!>"
+	{
+		"chi"		"**轻松完成!!!! **"
+	}
+	"# SANDBAG WALL #"
+	{
+		"chi"		"**沙袋墙 **"
+	}
+	"# MAGIC - FOG #"
+	{
+		"chi"		"**魔法烟雾 **"
+	}
+	"# VENT OPEN IN 15 SECONDS #"
+	{
+		"chi"		"**排气孔将在15秒后打开 **"
+	}
+	"# VENT OPEN #"
+	{
+		"chi"		"**排气孔打开了 **"
+	}
+	"# FINAL DOOR CLOSING IN 40 SECONDS #"
+	{
+		"chi"		"**最后一道门将在40秒后关闭 **"
+		"DoorCountDown"		"40"
+	}
+	"# 30 SECONDS #"
+	{
+		"chi"		"**还剩30秒!!! **"
+	}
+	"# 20 SECONDS #"
+	{
+		"chi"		"**还剩20秒!!! **"
+	}
+	"<!!!> MED COMPLETED <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"# ITEM RESTRICTION - BLACK MAGIC #"
+	{
+		"chi"		"**限制项目-魔法 **"
+	}
+	"<!!!> 60 SECONDS <!!!>"
+	{
+		"chi"		"**还剩60秒!!! **"
+		"DoorCountDown"		"60"
+	}
+	"<!!!> 50 SECONDS <!!!>"
+	{
+		"chi"		"**还剩50秒!!! **"
+	}
+	"# ITEM RESTRICTION - BAZOOKA #"
+	{
+		"chi"		"**限制项目-火箭炮 **"
+	}
+	"# ITEM RESTRICTION - SANDBAG WALL #"
+	{
+		"chi"		"**限制项目-沙袋墙 **"
+	}
+	"# MAGIC - FREEZE #"
+	{
+		"chi"		"**魔法冻结 **"
+	}
+	"^^^ Map By: BillSmauz ^^^"
+	{
+		"chi"		"**地图作者:BillSmauz **"
+	}
+	"# BAZOOKA #"
+	{
+		"chi"		"**火箭炮 **"
+	}
+	"# MG42 AMMO #"
+	{
+		"chi"		"**MG42机枪弹药 **"
+	}
+	"# MG42 AMMO LOADED #"
+	{
+		"chi"		"**MG42机枪弹药装载中 **"
+	}
+	"# FLAMETHROWER #"
+	{
+		"chi"		"**火焰喷射器 **"
+	}
+	"# FLAMETHROWER EMPTY #"
+	{
+		"chi"		"**火焰喷射器燃气用完了 **"
+	}
+	"*** Map by : Airvulpes ***"
+	{
+		"chi"		"**地图作者:Airvulpes  **"
+	}
+	"# ITEM RESTRICTION - UNLIMITED AMMO #"
+	{
+		"chi"		"**限制项目-无限弹药 **"
+	}
+	"<!!!> GATE OPEN IN 30 SECONDS <!!!>"
+	{
+		"chi"		"**闸门将在30秒后打开!!! **"
+		"DoorCountDown"		"30"
+	}
+	"# FALL BACK - DOOR #"
+	{
+		"chi"		"**从门那里撤退!!! **"
+		"DoorCountDown"		"30"
+	}
+	"# TURN TRAM POWER ON #"
+	{
+		"chi"		"**电车的电路打开了 **"
+	}
+	"# GO GO #"
+	{
+		"chi"		"**跑,跑!!!! **"
+	}
+	"# TRAM START IN 30 SECONDS #"
+	{
+		"chi"		"**电车将在30秒后离开 **"
+		"DoorCountDown"		"30"
+	}
+	"# FINAL DOOR CLOSING IN 50 SECONDS #"
+	{
+		"chi"		"**最后一道门将在50秒后关闭 **"
+		"DoorCountDown"		"50"
+	}
+	"# 40 SECONDS #"
+	{
+		"chi"		"**还剩40秒!!!! **"
+	}
+	"<!!!> MAP COMPLETED <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"<!!!> ZOMBIES DETECTED - YOU LOSE <!!!>"
+	{
+		"chi"		"** **"
+	}
+	"# ITEM RESTRICTION - FLAMETHROWER #"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"57389"
+	}
+	"[NORMAL MODE]"
+	{
+		"chi"		"** **"
+	}
+	"**ZE_DARK_SOULS**"
+	{
+		"chi"		"** **"
+	}
+	"***Adjust the volume in your music settings or via snd_musicvolume***"
+	{
+		"chi"		"** **"
+	}
+	"** MAP MADE BY PURPZZ ** Rebuild by Skullz **"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_SUPERSHITSHOW **"
+	{
+		"chi"		"** **"
+	}
+	"** A mode will be chosen shortly... **"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	"+++  MAP MADE BY GARGANTUA +++"
+	{
+		"chi"		"** **"
+	}
+	"***STAGE 1 -- THE SHIP***"
+	{
+		"chi"		"** **"
+	}
 }

@@ -1,0 +1,263 @@
+"Console_T"
+{
+	"**** Map Made by DarkOgre! ****"
+	{
+		"chi"		"**地图制作：DarkOgre! **"
+	}
+	"** Level 1: Saffron City **"
+	{
+		"chi"		"**第一关：红花市 **"
+	}
+	"** Wait the truck get out the way! **"
+	{
+		"chi"		"**等待卡车移动 **"
+	}
+	"** A player has adquired Ammo! **"
+	{
+		"chi"		"**一位玩家拿起了神器：无限弹药！ **"
+	}
+	"** Computer is processing! **"
+	{
+		"chi"		"**计算机正在处理中 **"
+	}
+	"** A player has adquired Potion! **"
+	{
+		"chi"		"**一位玩家拿起了神器：医疗 **"
+	}
+	"** Computer is having a malfunction. Attention keep distance!**"
+	{
+		"chi"		"**电脑出现故障.注意保持距离 **"
+	}
+	"** Hitmontop: Leave our gym, or else we will destroy you! **"
+	{
+		"chi"		"**Hitmontop：离开我们的健身房.否则我们将毁灭你 **"
+	}
+	"** Hold the bedroom for 30 seconds! **"
+	{
+		"chi"		"**守住30秒 **"
+		"DoorCountDown"		"30"
+	}
+	"** Blissey is waiting you inside the Mart! **"
+	{
+		"chi"		"**Blissey正在沃尔玛商城中等着你 **"
+	}
+	"** Dont let the zombies enter the Mart! **"
+	{
+		"chi"		"**不要让僵尸进入沃尔玛 **"
+	}
+	"** Blissey: Hello friend, Give me 15 seconds to open the gate for you!"
+	{
+		"chi"		"**Blissey：你好朋友.给我15秒.我将为你打开大门！ **"
+		"DoorCountDown"		"15"
+	}
+	"** A player has adquired Gust! **"
+	{
+		"chi"		"**一位玩家拿起了神器：狂风！ **"
+	}
+	"** The path is blocked! What can we do now? **"
+	{
+		"chi"		"**道路被堵住了！我们现在应该怎么办？ **"
+	}
+	"** What noise is this? OMG Heatrans, hide before they kill you! **"
+	{
+		"chi"		"**这是什么声音?OMG Heatrans.在他炸掉道路前不要站在门后面的道路上 **"
+	}
+	"** Left Water elevator leaving in 25 seconds! **"
+	{
+		"chi"		"**左边电梯25秒后离开 **"
+	}
+	"** Right Water elevator leaving in 25 seconds! **"
+	{
+		"chi"		"**右边电梯25秒后离开 **"
+	}
+	"** Gym door closing in 15 seconds **"
+	{
+		"chi"		"**健身房的大门15秒后关闭 **"
+		"DoorCountDown"		"15"
+	}
+	"** Ash: Do you think you can beat me? Dont make me laugh! **"
+	{
+		"chi"		"**Ash:你认为你能打败我吗？被逗我笑了！ **"
+	}
+	"** Ash: So... You are my new opponent! **"
+	{
+		"chi"		"**Ash:所以.你是我的敌人！ **"
+	}
+	"** Ash: Go Pikachu!!! **"
+	{
+		"chi"		"**Ash:去吧！皮卡丘！！！**"
+	}
+	"** Ash: Pikachu use Shock Wave!! **"
+	{
+		"chi"		"**Ash:皮卡丘使用冲击波！！ **"
+		"ico"		"icon_fire"
+	}
+	"** Ash: Pikachu use Thunder!! **"
+	{
+		"chi"		"**Ash:皮卡丘使用雷霆！！ **"
+		"ico"		"icon_fire"
+	}
+	"** Ash: Pikachu... Nooooo! **"
+	{
+		"chi"		"**Ash:皮卡丘...不！！！ **"
+	}
+	"** Flygon leaving in 15 seconds! **"
+	{
+		"chi"		"**沙漠蜻蜓15秒后离开！ **"
+		"DoorCountDown"		"15"
+	}
+	"** Zombies detected! **"
+	{
+		"chi"		"**检测到僵尸 **"
+	}
+	"** Level 2: Syphon Lab **"
+	{
+		"chi"		"**第二关：实验室 **"
+	}
+	"** Lasers will be disabled in 15 seconds! **"
+	{
+		"chi"		"**激光将在15秒后被停用！ **"
+		"DoorCountDown"		"15"
+	}
+	"** Blissey: Sorry, but the elevator does not work on this floor! Please take the stairs! **"
+	{
+		"chi"		"**Blissey:对不起，电梯不在这层工作！请走楼梯！ **"
+	}
+	"** Door will open in 20 seconds! **"
+	{
+		"chi"		"**大门20秒后打开 **"
+		"DoorCountDown"		"20"
+	}
+	"** Right door will open in 15 seconds! **"
+	{
+		"chi"		"**右边门将会在15秒后打开 **"
+	}
+	"**  Left door will open in 15 seconds! **"
+	{
+		"chi"		"**左边门将会在15秒后打开 **"
+	}
+	"** Teleport will activate in 15 seconds **"
+	{
+		"chi"		"**传送将会在15秒后启动 **"
+		"DoorCountDown"		"15"
+	}
+	"** Seems like a Sigilyph is bloocking the way! We need to destroy him! **"
+	{
+		"chi"		"** **"
+	}
+	"** Sigilyph is using Psychic Attack! **"
+	{
+		"chi"		"** **"
+	}
+	"** Sigilyph is using Psychic Wave! **"
+	{
+		"chi"		"** **"
+	}
+	"** Teleport is powering up! **"
+	{
+		"chi"		"**传送启动  **"
+	}
+	"** 5 More seconds! **"
+	{
+		"chi"		"** **"
+	}
+	"** Zapdos is using Thunder Shock! **"
+	{
+		"chi"		"**闪电鸟使用雷电冲击！ **"
+	}
+	"** Zapdos is using Thunder Bolt! **"
+	{
+		"chi"		"**闪电鸟使用雷电！！ **"
+	}
+	"** Level 3: Victory Road **"
+	{
+		"chi"		"**第三关：胜利之路 **"
+	}
+	"** Wailord leaving in 15 seconds! **"
+	{
+		"chi"		"**吼鲸王15秒后离开 **"
+		"DoorCountDown"		"15"
+	}
+	"** A player has adquired Bicycle! **"
+	{
+		"chi"		"**一位玩家拿起了自行车 **"
+	}
+	"** A player has adquired Pokeball! **"
+	{
+		"chi"		"**一位玩家拿起了精灵球（火神器） **"
+	}
+	"** Hold for 20 seconds! **"
+	{
+		"chi"		"**守住20秒 **"
+		"DoorCountDown"		"20"
+	}
+	"** Zapdos is using Heal! **"
+	{
+		"chi"		"*闪电鸟使用恢复* **"
+	}
+	"** Zapdos is using Thunder Wave! **"
+	{
+		"chi"		"**闪电鸟使用雷电波！ **"
+	}
+	"** Hold for 15 seconds! **"
+	{
+		"chi"		"**守住15秒 **"
+	}
+	"** Gate will open in 20 seconds! **"
+	{
+		"chi"		"**门将在20秒后打开！ **"
+	}
+	"** Gate will fully oppen in 20 seconds! **"
+	{
+		"chi"		"**门20秒后完全打开 **"
+	}
+	"** Elite Door will open in 25 seconds!! **"
+	{
+		"chi"		"**精英才能进入的门25秒后打开 **"
+		"DoorCountDown"		"25"
+	}
+	"** Elite Door is open! You have 10 seconds to enter!! **"
+	{
+		"chi"		"**精英才能进入的门是开放的！你有10秒的时间进入！！ **"
+	}
+	"** Rival: So you are my rival! Do you think you can beat me? **"
+	{
+		"chi"		"**竞争对手：所以你就是我的对手！你认为你能打败我吗？ **"
+	}
+	"** Rival: Glaceon, Jolteon, Umbreon and Vaporeon lets show them what we are capable of! **"
+	{
+		"chi"		"**竞争对手：Glaceon、Jolteon、Umbreon和Vaporeon展示我们的能力！ **"
+	}
+	"** Glaceon used Blizzard! **"
+	{
+		"chi"		"**Glaceon使用暴雪! **"
+	}
+	"** Umbreon used Confuse Ray! **"
+	{
+		"chi"		"**Umbreon使用迷惑 **"
+	}
+	"** Jolteon used Thunder! **"
+	{
+		"chi"		"**Jolteon使用雷! **"
+	}
+	"** Ash is healing his Pokemons! **"
+	{
+		"chi"		"**Ash治愈了他的精灵 **"
+	}
+	"** Vaporean used surf! **"
+	{
+		"chi"		"**vaporean使用波浪！ **"
+	}
+	"** Rival: Noooooo! You have beat me again, I surrender! **"
+	{
+		"chi"		"**竞争对手：noooooo！你又打败了我，我投降了！ **"
+	}
+	"** ZOMBIE DETECTED IN FINAL ROOM! YOU LOST! **"
+	{
+		"chi"		"**最终房间检测到僵尸！你失败了！ **"
+	}
+	"** Zapdos is Using Zap Cannon! **"
+	{
+		"chi"		"**闪电鸟使用致命一击! **"
+	}
+}

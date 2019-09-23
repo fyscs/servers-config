@@ -1,0 +1,490 @@
+"Console_T"
+{
+	"<<< Map made by Jllaneras >>>"
+	{
+		"chi"		">>>地图作者：Jllaneras 地图汉化：大明<<<"
+	}
+	"<<< Button 2 unlocked!!! >>>"
+	{
+		"chi"		">>>按钮2解锁<<<"
+	}
+	"<<< Zomnbies teleport in 24 seconds!!! >>>"
+	{
+		"chi"		">>>僵尸将在24秒后传送<<<"
+	}
+	"<<< Doors open in 15 sconds!!! >>>"
+	{
+		"chi"		">>>大门15秒后打开<<<"
+	}
+	"<<< Wall breaks in 30 seconds!!! >>>"
+	{
+		"chi"		">>>墙壁30秒后破碎<<<"
+		"DoorCountDown"		"30"
+	}
+	"<<< Top stair door is open!!! >>>"
+	{
+		"chi"		">>>上层楼梯门已打开<<<"
+	}
+	"<<< Zombies teleport in 25 seconds!!! >>>"
+	{
+		"chi"		">>>僵尸将在25秒后传送<<<"
+	}
+	"<<< Second button unlocked!!! >>>"
+	{
+		"chi"		">>>第二个按钮解锁<<<"
+	}
+	"<<< Third button unlocked!!! >>>"
+	{
+		"chi"		">>>第三个按钮解锁<<<"
+	}
+	"<<< Defend for 40 seconds!!! >>>"
+	{
+		"chi"		">>>守住40秒<<<"
+	}
+	"<<< Defend for 30 seconds!!! >>>"
+	{
+		"chi"		">>>守住30秒<<<"
+	}
+	"<<< Zombies teleport in 10 seconds!!! >>>"
+	{
+		"chi"		">>>僵尸10秒后传送<<<"
+	}
+	"<<< Right door opens in 60 seconds!!! >>>"
+	{
+		"chi"		">>>右边大门60秒后打开<<<"
+	}
+	"<<< Train activated. Leaving in 10 seconds!!! >>>"
+	{
+		"chi"		">>>列车已激活.将在10秒后离开<<<"
+	}
+	"<<< Defend for 50 seconds!!! >>>"
+	{
+		"chi"		">>>守住50秒<<<"
+		"DoorCountDown"		"50"
+	}
+	"<<< Door opens in 30 seconds!!! >>>"
+	{
+		"chi"		">>>大门30秒后打开<<<"
+		"DoorCountDown"		"30"
+	}
+	"<<< Left side door opened!!! >>>"
+	{
+		"chi"		">>>左边大门已打开<<<"
+	}
+	"<<< Defend for 20 seconds!!! >>>"
+	{
+		"chi"		">>>守住20秒<<<"
+	}
+	"<<< Door opens in 15 seconds!!! >>>"
+	{
+		"chi"		">>>大门15秒后打开<<<"
+		"DoorCountDown"		"15"
+	}
+	"<<< Final door closes in 30 seconds!!! >>>"
+	{
+		"chi"		">>>最后大门将在30秒后打开<<<"
+		"DoorCountDown"		"30"
+	}
+	"<<< Impact >>>"
+	{
+		"chi"		">>>冲击<<<"
+	}
+	"<<< Almighty Push!!! >>>"
+	{
+		"chi"		">>>全方位推力<<<"
+	}
+	"<<< Sprout >>>"
+	{
+		"chi"		">>>孢子<<<"
+	}
+	"<<< Freeze >>>"
+	{
+		"chi"		">>>冰冻<<<"
+	}
+	"<<< MAP COMPLETE!!! >>>"
+	{
+		"chi"		">>>地图通关<<<"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"20805"
+	}
+	"<<< 20 seconds left to kill boss!!! >>>"
+	{
+		"chi"		">>>你们还剩下20秒的时间来杀掉BOSS<<<"
+	}
+	"<<< 10 seconds left to kill boss!!! >>>"
+	{
+		"chi"		">>>你们还剩下10秒时间来杀掉BOSS<<<"
+	}
+	"<<< CT NUKE!!! >>>"
+	{
+		"chi"		">>>人类即将死亡<<<"
+	}
+	"*** Alien Moutain Escape - Final Fantasy Version ***"
+	{
+		"chi"		"**外星人高山逃亡-最终幻想版**"
+	}
+	"*** Map remake by simsen ***"
+	{
+		"chi"		"**地图修改：simsen**"
+	}
+	"*** For ZE server ggeasy.pl ***"
+	{
+		"chi"		"**服务器：ggeasy.pl**"
+	}
+	"*** Elevator is starting in 10 sec ***"
+	{
+		"chi"		"**电梯将在10秒后离开**"
+	}
+	"*** Tram is starting in 5 sec ***"
+	{
+		"chi"		"**电车5秒后离开**"
+	}
+	"*** Ship starting in 25 sec ***"
+	{
+		"chi"		"**飞船25秒后离开**"
+		"DoorCountDown"		"25"
+	}
+	"*** Elevator is starting in 14 sec ***"
+	{
+		"chi"		"**电梯14秒后出发**"
+	}
+	"*** Ship starting in 35 sec ***"
+	{
+		"chi"		"**飞船35秒后出发**"
+		"DoorCountDown"		"35"
+	}
+	"### Welcome to Abandoned Bio Bunker  ###"
+	{
+		"chi"		"** **"
+	}
+	"***WARMUP***"
+	{
+		"chi"		"**admin**"
+	}
+	"[NORMAL MODE]"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Taskuvaras***"
+	{
+		"chi"		"** **"
+	}
+	"***Human door opening in 15s***"
+	{
+		"chi"		"**人类大门15秒后打开**"
+	}
+	">>>Respawn wall break in 20 sec<<<"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_SUPERSHITSHOW **"
+	{
+		"chi"		"** **"
+	}
+	"** A mode will be chosen shortly... **"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"**welcome to ze_fat_hours_escape**"
+	{
+		"chi"		"** **"
+	}
+	"**map by yinyuehzixi**"
+	{
+		"chi"		"** **"
+	}
+	"test"
+	{
+		"chi"		"** **"
+	}
+	"z?zzf"
+	{
+		"chi"		"** **"
+	}
+	"lovebenben"
+	{
+		"chi"		"** **"
+	}
+	"L"
+	{
+		"chi"		"** **"
+	}
+	"*** WARMUP ROUND (60 sec) ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map By Nostar ***"
+	{
+		"chi"		"** **"
+	}
+	"<<< Map by Jllaneras >>>"
+	{
+		"chi"		"** **"
+	}
+	"<<< Trial 1 >>>"
+	{
+		"chi"		"** **"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"*** MAP BY STRUPPI ***"
+	{
+		"chi"		"** **"
+	}
+	">> ZE_ERROR <<"
+	{
+		"chi"		"** **"
+	}
+	"** [HARD MODE] **"
+	{
+		"chi"		"** **"
+	}
+	"<< ze_surf_virtus >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Fix by : Lishang >>"
+	{
+		"chi"		"** **"
+	}
+	"**ZE_DARK_SOULS**"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT DIFFICULTY IS NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Model :Dakotec ***"
+	{
+		"chi"		"** **"
+	}
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"chi"		"** **"
+	}
+	"> ZE UT2004 CONVOY"
+	{
+		"chi"		"** **"
+	}
+	"<== Map made by qazlll456 [Hong Kong香港]==>"
+	{
+		"chi"		"** **"
+	}
+	"<== Also Thank [Syoudous] for helping testing the map ==>"
+	{
+		"chi"		"** **"
+	}
+	"Thanks test play POSSESSION server!!"
+	{
+		"chi"		"** **"
+	}
+	"Map made by Ocelot"
+	{
+		"chi"		"** **"
+	}
+	"*** STEAMGAMERS.COM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapper: yardy ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Co-Mapper: starbucks ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+	{
+		"chi"		"** **"
+	}
+	"*** map created by thas ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Map By Nostar & Moltard ***"
+	{
+		"chi"		"** **"
+	}
+	"ESCAPE FROM ZOMBIELAND"
+	{
+		"chi"		"** **"
+	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***60 SECONDS LEFT***"
+	{
+		"chi"		"**还有60秒**"
+	}
+	"***WARM UP ROUIND***"
+	{
+		"chi"		"**热身时间**"
+	}
+	"Map made by Ripsaw"
+	{
+		"chi"		"** **"
+	}
+	">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
+	{
+		"chi"		"** **"
+	}
+	"*** Special Thanks testing: GFL & MAPEADORES  ***"
+	{
+		"chi"		"** **"
+	}
+	"**Welcome to Minas Tirith - City of Kings**"
+	{
+		"chi"		"** **"
+	}
+	"** ZE FFXII PARAMINA RIFT **"
+	{
+		"chi"		"** **"
+	}
+	"** ORIGINAL ZE BLACKMESA BY BILL SMAUTZ **"
+	{
+		"chi"		"** **"
+	}
+	"** REDESIGN BY CISNEROS **"
+	{
+		"chi"		"** **"
+	}
+	"**Map made by Malgo**"
+	{
+		"chi"		"** **"
+	}
+	"*** Map by : Airvulpes ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Difficulty : Disuse ***"
+	{
+		"chi"		"** **"
+	}
+	"**Level1**"
+	{
+		"chi"		"** **"
+	}
+	"**map by koyomaple**"
+	{
+		"chi"		"** **"
+	}
+	"** Welcome to the mystical island of Kraznov Poopata **"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***Particle Effect by Airvulpes***"
+	{
+		"chi"		"** **"
+	}
+	"***Thanks to Shizuru[idea]  uuz[model]***"
+	{
+		"chi"		"** **"
+	}
+	"**stage1**"
+	{
+		"chi"		"** **"
+	}
+	"**map by:一条会翻身的鱼**"
+	{
+		"chi"		"** **"
+	}
+	"Map made by xXhamadryadesXx"
+	{
+		"chi"		"** **"
+	}
+	"**Map made by Eugenio *Motanum* Roman**"
+	{
+		"chi"		"** **"
+	}
+	"**Contact me at eugenio.motanum91 AT gmail.com**"
+	{
+		"chi"		"** **"
+	}
+	"***Selecting default difficulty****"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to [PF] PlagueFest for their support!**"
+	{
+		"chi"		"** **"
+	}
+	"***Waiting for players****"
+	{
+		"chi"		"** **"
+	}
+	"***Reseting game in 20 seconds****"
+	{
+		"chi"		"** **"
+	}
+	"**level 1**"
+	{
+		"chi"		"** **"
+	}
+	"**Map By Batnik_Reference.smd and ShotT **"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_SIT_CAELUM_PARADISUS **"
+	{
+		"chi"		"** **"
+	}
+	"** ROUTE ONE **"
+	{
+		"chi"		"** **"
+	}
+	"**ZE_FFXII_FEYWOOD**"
+	{
+		"chi"		"** **"
+	}
+	"*** ZE_BOATESCAPEX ***"
+	{
+		"chi"		"** **"
+	}
+	"*** A mode is being randomly chosen... ***"
+	{
+		"chi"		"** **"
+	}
+	"ZE Sunlight"
+	{
+		"chi"		"** **"
+	}
+	"* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Choose the first MINIGAME * * *"
+	{
+		"chi"		"** **"
+	}
+	"** WARMUP ROUND **"
+	{
+		"chi"		"** **"
+	}
+}

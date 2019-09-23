@@ -1,175 +1,175 @@
 "Console_T"
 {
-    "*** map by DJ_tusla ***"
-    {
-        "chi"        "**地图作者:DJ_tusla**"
-    }
-    "*** survive in 60 seconds ***"
-    {
-        "chi"        "**找个安全的地方守住60秒**"
-    }
-    "*** 30 seconds left ***"
-    {
-        "chi"        "**还剩30秒**"
-        "DoorCountDown"        "-1"
-    }
-    "*** teleported zombie ***"
-    {
-        "chi"        "**僵尸已传送**"
-    }
-    "*** defense zombie 40 seconds ***"
-    {
-        "chi"        "**守住僵尸40秒**"
-    }
-    "*** defense middle bridge ***"
-    {
-        "chi"        "**糟了，平台中间出现了一条路，守住啊！**"
-    }
-    "*** teleported zombies ***"
-    {
-        "chi"        "**僵尸已传送**"
-    }
-    "*** defense 40 seconds ****"
-    {
-        "chi"        "**稍等，40秒后有好事发生**"
-    }
-    "*** holy shit!!!! monika is coming!!!!!!!!!!!!!!!!!!!!! ***"
-    {
-        "chi"        "**见鬼,莫妮卡(monika)冲过来了,开枪别让她撞到你**"
-    }
-    "*** just monika... ***"
-    {
-        "chi"        "** **"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "86225"
-    }
-    "*** human win ***"
-    {
-        "chi"        "**人类胜利，快回头刷僵尸！**"
-    }
-    "MapGlobal_ConVars"
-    {
-        "0"
-        {
-            "cvar"        "sm_nofalldamage 1"
-        }
-    }
-    "*** zombie teleport in 10 seconds ***"
-    {
-        "chi"        "**僵尸10秒后传送**"
-    }
-    "*** defense zombie 50 seconds ***"
-    {
-        "chi"        "**守住这个平台60秒，等我们传送**"
-    }
-    "*** defense 40 seconds ***"
-    {
-        "chi"        "**稍等，40秒后有好事发生**"
-    }
-    "*** ear raping in 5 ***"
-    {
-        "chi"        "**5秒后有个地图音乐彩蛋,把耳机音量调到最大!**"
-    }
-    "*** ear raping in 4 ***"
-    {
-        "chi"        "**4秒后有个地图音乐彩蛋,把耳机音量调到最大!**"
-    }
-    "*** ear raping in 3 ***"
-    {
-        "chi"        "**3秒后有个地图音乐彩蛋,把耳机音量调到最大!**"
-    }
-    "*** ear raping in 2 ***"
-    {
-        "chi"        "**2秒后有个地图音乐彩蛋,把耳机音量调到最大!**"
-    }
-    "*** ear raping in 1 ***"
-    {
-        "chi"        "**1秒后有个地图音乐彩蛋,把耳机音量调到最大!**"
-    }
-    "***Modified by Reflelia***"
-    {
-        "chi"        "** **"
-    }
-    "***60 SECONDS LEFT***"
-    {
-        "chi"        "** **"
-    }
-    "***WARM UP ROUIND***"
-    {
-        "chi"        "** **"
-    }
-    "*** you are hentai ***"
-    {
-        "chi"        "** **"
-    }
-    "**stage1**"
-    {
-        "chi"        "** **"
-    }
-    "**map by:一条会翻身的鱼**"
-    {
-        "chi"        "** **"
-    }
-    "<< ze_surf_virtus >>"
-    {
-        "chi"        "** **"
-    }
-    "<< Fix by : Lishang >>"
-    {
-        "chi"        "** **"
-    }
-    "ESCAPE FROM ZOMBIELAND"
-    {
-        "chi"        "** **"
-    }
-    "**Thanks to Airvulpes for the textures**"
-    {
-        "chi"        "** **"
-    }
-    "***Welcome to Crazy Kart***"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Luffaren***"
-    {
-        "chi"        "** **"
-    }
-    "***Thanks to Enviolinador for the green shell bouncevector logic***"
-    {
-        "chi"        "** **"
-    }
-    "*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
-    {
-        "chi"        "** **"
-    }
-    "***Map ported by ??????***"
-    {
-        "chi"        "** **"
-    }
-    "*** CURRENT MODE: EASY ***"
-    {
-        "chi"        "** **"
-    }
-    "** ZE_SUPERSHITSHOW **"
-    {
-        "chi"        "** **"
-    }
-    "** A mode will be chosen shortly... **"
-    {
-        "chi"        "** **"
-    }
-    "*** Map by : Airvulpes ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Difficulty : Disuse ***"
-    {
-        "chi"        "** **"
-    }
-    "***1***"
-    {
-        "chi"        "** **"
-    }
+	"*** map by DJ_tusla ***"
+	{
+		"chi"		"**地图作者:DJ_tusla**"
+	}
+	"*** survive in 60 seconds ***"
+	{
+		"chi"		"**找个安全的地方守住60秒**"
+	}
+	"*** 30 seconds left ***"
+	{
+		"chi"		"**还剩30秒**"
+		"DoorCountDown"		"-1"
+	}
+	"*** teleported zombie ***"
+	{
+		"chi"		"**僵尸已传送**"
+	}
+	"*** defense zombie 40 seconds ***"
+	{
+		"chi"		"**守住僵尸40秒**"
+	}
+	"*** defense middle bridge ***"
+	{
+		"chi"		"**糟了，平台中间出现了一条路，守住啊！**"
+	}
+	"*** teleported zombies ***"
+	{
+		"chi"		"**僵尸已传送**"
+	}
+	"*** defense 40 seconds ****"
+	{
+		"chi"		"**稍等，40秒后有好事发生**"
+	}
+	"*** holy shit!!!! monika is coming!!!!!!!!!!!!!!!!!!!!! ***"
+	{
+		"chi"		"**见鬼,莫妮卡(monika)冲过来了,开枪别让她撞到你**"
+	}
+	"*** just monika... ***"
+	{
+		"chi"		"** **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"86225"
+	}
+	"*** human win ***"
+	{
+		"chi"		"**人类胜利，快回头刷僵尸！**"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"sm_nofalldamage 1"
+		}
+	}
+	"*** zombie teleport in 10 seconds ***"
+	{
+		"chi"		"**僵尸10秒后传送**"
+	}
+	"*** defense zombie 50 seconds ***"
+	{
+		"chi"		"**守住这个平台60秒，等我们传送**"
+	}
+	"*** defense 40 seconds ***"
+	{
+		"chi"		"**稍等，40秒后有好事发生**"
+	}
+	"*** ear raping in 5 ***"
+	{
+		"chi"		"**5秒后有个地图音乐彩蛋,把耳机音量调到最大!**"
+	}
+	"*** ear raping in 4 ***"
+	{
+		"chi"		"**4秒后有个地图音乐彩蛋,把耳机音量调到最大!**"
+	}
+	"*** ear raping in 3 ***"
+	{
+		"chi"		"**3秒后有个地图音乐彩蛋,把耳机音量调到最大!**"
+	}
+	"*** ear raping in 2 ***"
+	{
+		"chi"		"**2秒后有个地图音乐彩蛋,把耳机音量调到最大!**"
+	}
+	"*** ear raping in 1 ***"
+	{
+		"chi"		"**1秒后有个地图音乐彩蛋,把耳机音量调到最大!**"
+	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***60 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***WARM UP ROUIND***"
+	{
+		"chi"		"** **"
+	}
+	"*** you are hentai ***"
+	{
+		"chi"		"** **"
+	}
+	"**stage1**"
+	{
+		"chi"		"** **"
+	}
+	"**map by:一条会翻身的鱼**"
+	{
+		"chi"		"** **"
+	}
+	"<< ze_surf_virtus >>"
+	{
+		"chi"		"** **"
+	}
+	"<< Fix by : Lishang >>"
+	{
+		"chi"		"** **"
+	}
+	"ESCAPE FROM ZOMBIELAND"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to Airvulpes for the textures**"
+	{
+		"chi"		"** **"
+	}
+	"***Welcome to Crazy Kart***"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Luffaren***"
+	{
+		"chi"		"** **"
+	}
+	"***Thanks to Enviolinador for the green shell bouncevector logic***"
+	{
+		"chi"		"** **"
+	}
+	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
+	{
+		"chi"		"** **"
+	}
+	"***Map ported by ??????***"
+	{
+		"chi"		"** **"
+	}
+	"*** CURRENT MODE: EASY ***"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_SUPERSHITSHOW **"
+	{
+		"chi"		"** **"
+	}
+	"** A mode will be chosen shortly... **"
+	{
+		"chi"		"** **"
+	}
+	"*** Map by : Airvulpes ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Difficulty : Disuse ***"
+	{
+		"chi"		"** **"
+	}
+	"***1***"
+	{
+		"chi"		"** **"
+	}
 }

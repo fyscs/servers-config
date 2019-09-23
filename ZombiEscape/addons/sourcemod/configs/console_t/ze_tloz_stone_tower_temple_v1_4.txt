@@ -1,139 +1,139 @@
 "Console_T"
 {
-    "*** Map by : Airvulpes ***"
-    {
-        "chi"        "**地图作者:Airvulpes **"
-    }
-    "*** Door opens in 10 seconds ***"
-    {
-        "chi"        "**大门10秒之后打开**"
-    }
-    "*** Door opening in 5 seconds !***"
-    {
-        "chi"        "**大门5秒之后打开**"
-    }
-    "*** Resist 30 seconds ! ***"
-    {
-        "chi"        "**坚持30秒！**"
-        "DoorCountdown"        "30"
-    }
-    "***BUTTON PRESSED***"
-    {
-        "chi"        "**按钮已经按下！**"
-    }
-    "*** Wall Opens in 30 seconds! ***"
-    {
-        "chi"        "**墙壁30秒后移动！**"
-        "DoorCountdown"        "30"
-    }
-    "*** Wall Opening ***"
-    {
-        "chi"        "**墙壁移开了！**"
-    }
-    "*** HOLD 30 seconds ! ***"
-    {
-        "chi"        "**防守30秒！**"
-    }
-    "*** Resist 10 seconds ! ***"
-    {
-        "chi"        "**坚持10秒！**"
-    }
-    "*** Door Opens in 5 seconds ***"
-    {
-        "chi"        "**大门5秒后打开！**"
-    }
-    "*** Hold 40 seconds ! ***"
-    {
-        "chi"        "**守住40秒！**"
-        "DoorCountdown"        "40"
-    }
-    "---Feedback:noojeff@gmail.com---"
-    {
-        "chi"        "** **"
-    }
-    "---Special Thank To:HZM654321 and JackBauer123---"
-    {
-        "chi"        "** **"
-    }
-    "*** Human beat red emblem !! ***"
-    {
-        "chi"        "**人类攻击红色标志 **"
-    }
-    "*** HOLD ON ! ***"
-    {
-        "chi"        "**守住 **"
-    }
-    "*** Entrance Door will close in 1 minutes ! ***"
-    {
-        "chi"        "**入口将在一分钟之后打开！**"
-        "DoorCountdown"        "60"
-    }
-    "!!! KILL ALL ZOMBIES !!!"
-    {
-        "chi"        "**杀死所有僵尸 **"
-    }
-    "*** Stage Completed ***"
-    {
-        "chi"        "**阶段完成 **"
-    }
-    "*** Door opens in 20 seconds ***"
-    {
-        "chi"        "**门将在20秒后打开 **"
-    }
-    "*** Wall opens in 30 seconds ! ***"
-    {
-        "chi"        "**墙将在30秒后打开 **"
-    }
-    "*** Door opens in 20 seconds ! ***"
-    {
-        "chi"        "**门将在20秒后打开 **"
-    }
-    "*** Hold here ***"
-    {
-        "chi"        "**守住这里 **"
-    }
-    "*** Door opening in 20 seconds ! ***"
-    {
-        "chi"        "**门将在20秒后打开 **"
-    }
-    "*** Resist 20 seconds ! ***"
-    {
-        "chi"        "**防守20秒 **"
-    }
-    "*** Superior door opens in 30 seconds ! ***"
-    {
-        "chi"        "**门将在30秒后打开 **"
-    }
-    "*** HOLD 20 seconds ! ***"
-    {
-        "chi"        "**守住20秒 **"
-    }
-    "*** Hold 25 seconds ! ***"
-    {
-        "chi"        "**守住25秒 **"
-    }
-    "*** Door Opens in 15 seconds ***"
-    {
-        "chi"        "**门将在15秒后打开 **"
-    }
-    "*** Wall opens in 20 seconds ! ***"
-    {
-        "chi"        "**墙将在20秒后打开 **"
-    }
-    "*** Door opens in 15 seconds ! ***"
-    {
-        "chi"        "**门将在15秒后打开 **"
-    }
-    "*** Door opening in 10 seconds ! ***"
-    {
-        "chi"        "**门将在10秒后打开 **"
-    }
-    "*** Door opens in 10 seconds ! ***"
-    {
-        "chi"        "**门将在10秒后打开 **"
-    }
-    "***WARMUP***"
-    {
-        "chi"        "** **"
-    }
+	"*** Map by : Airvulpes ***"
+	{
+		"chi"		"**地图作者:Airvulpes **"
+	}
+	"*** Door opens in 10 seconds ***"
+	{
+		"chi"		"**大门10秒之后打开**"
+	}
+	"*** Door opening in 5 seconds !***"
+	{
+		"chi"		"**大门5秒之后打开**"
+	}
+	"*** Resist 30 seconds ! ***"
+	{
+		"chi"		"**坚持30秒！**"
+		"DoorCountdown"		"30"
+	}
+	"***BUTTON PRESSED***"
+	{
+		"chi"		"**按钮已经按下！**"
+	}
+	"*** Wall Opens in 30 seconds! ***"
+	{
+		"chi"		"**墙壁30秒后移动！**"
+		"DoorCountdown"		"30"
+	}
+	"*** Wall Opening ***"
+	{
+		"chi"		"**墙壁移开了！**"
+	}
+	"*** HOLD 30 seconds ! ***"
+	{
+		"chi"		"**防守30秒！**"
+	}
+	"*** Resist 10 seconds ! ***"
+	{
+		"chi"		"**坚持10秒！**"
+	}
+	"*** Door Opens in 5 seconds ***"
+	{
+		"chi"		"**大门5秒后打开！**"
+	}
+	"*** Hold 40 seconds ! ***"
+	{
+		"chi"		"**守住40秒！**"
+		"DoorCountdown"		"40"
+	}
+	"---Feedback:noojeff@gmail.com---"
+	{
+		"chi"		"** **"
+	}
+	"---Special Thank To:HZM654321 and JackBauer123---"
+	{
+		"chi"		"** **"
+	}
+	"*** Human beat red emblem !! ***"
+	{
+		"chi"		"**人类攻击红色标志 **"
+	}
+	"*** HOLD ON ! ***"
+	{
+		"chi"		"**守住 **"
+	}
+	"*** Entrance Door will close in 1 minutes ! ***"
+	{
+		"chi"		"**入口将在一分钟之后打开！**"
+		"DoorCountdown"		"60"
+	}
+	"!!! KILL ALL ZOMBIES !!!"
+	{
+		"chi"		"**杀死所有僵尸 **"
+	}
+	"*** Stage Completed ***"
+	{
+		"chi"		"**阶段完成 **"
+	}
+	"*** Door opens in 20 seconds ***"
+	{
+		"chi"		"**门将在20秒后打开 **"
+	}
+	"*** Wall opens in 30 seconds ! ***"
+	{
+		"chi"		"**墙将在30秒后打开 **"
+	}
+	"*** Door opens in 20 seconds ! ***"
+	{
+		"chi"		"**门将在20秒后打开 **"
+	}
+	"*** Hold here ***"
+	{
+		"chi"		"**守住这里 **"
+	}
+	"*** Door opening in 20 seconds ! ***"
+	{
+		"chi"		"**门将在20秒后打开 **"
+	}
+	"*** Resist 20 seconds ! ***"
+	{
+		"chi"		"**防守20秒 **"
+	}
+	"*** Superior door opens in 30 seconds ! ***"
+	{
+		"chi"		"**门将在30秒后打开 **"
+	}
+	"*** HOLD 20 seconds ! ***"
+	{
+		"chi"		"**守住20秒 **"
+	}
+	"*** Hold 25 seconds ! ***"
+	{
+		"chi"		"**守住25秒 **"
+	}
+	"*** Door Opens in 15 seconds ***"
+	{
+		"chi"		"**门将在15秒后打开 **"
+	}
+	"*** Wall opens in 20 seconds ! ***"
+	{
+		"chi"		"**墙将在20秒后打开 **"
+	}
+	"*** Door opens in 15 seconds ! ***"
+	{
+		"chi"		"**门将在15秒后打开 **"
+	}
+	"*** Door opening in 10 seconds ! ***"
+	{
+		"chi"		"**门将在10秒后打开 **"
+	}
+	"*** Door opens in 10 seconds ! ***"
+	{
+		"chi"		"**门将在10秒后打开 **"
+	}
+	"***WARMUP***"
+	{
+		"chi"		"** **"
+	}
 }

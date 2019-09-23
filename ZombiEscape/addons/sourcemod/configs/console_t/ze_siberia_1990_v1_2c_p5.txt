@@ -1,278 +1,278 @@
 "Console_T"
 {
-    "Warping all players to Siberia in 15 seconds."
-    {
-        "chi"        "**15秒 后传送玩家至 steam冬日特卖 西伯利亚**"
-        "DoorCountDown"        "15"
-    }
-    "Objective. Find and destroy the source of the outbreak."
-    {
-        "chi"        "**任务:找到并摧毁steam临时（丧）工（尸）的源头 初期翻译：EVANGELION 后期翻译修改：肉丸**"
-    }
-    "Overriding security breach 30 seconds"
-    {
-        "chi"        "**还有 30秒 后边大门打开**"
-        "DoorCountDown"        "30"
-    }
-    "Proximity mine obtained!"
-    {
-        "chi"        "**共产主义之雷GET**"
-    }
-    "The promixity mine can be used every 24 seconds."
-    {
-        "chi"        "**提莫 每 24秒 能种 共产主义之雷 1次**"
-    }
-    "10 seconds left"
-    {
-        "chi"        "**还有10秒!**"
-    }
-    "Door is now open. Get inside the dam!"
-    {
-        "chi"        "**门开了!进入steam 内（水）部（坝）!**"
-    }
-    "Dam door closing in 10 seconds"
-    {
-        "chi"        "**内（水）部（坝）大门将在 10秒后关闭**"
-        "DoorCountDown"        "10"
-    }
-    "Zombie spawns are advancing in 20 seconds"
-    {
-        "chi"        "**临时（丧）工（尸）将会在20秒后赶上!**"
-    }
-    "Reducing steam pressure 10 seconds"
-    {
-        "chi"        "**steam 冬日打（压）折（压） 持续 10秒！ **"
-        "DoorCountDown"        "10"
-    }
-    "Steam pressure at 66%"
-    {
-        "chi"        "**steam 冬日特卖 66%折扣 快去按 2号阀门**"
-    }
-    "Steam pressure at 33%"
-    {
-        "chi"        "**steam 冬日特卖 33%折扣 快去按 3号阀门**"
-    }
-    "Steam pressure at 0%"
-    {
-        "chi"        "**steam 冬日特卖 0%折扣 快冲出大门 买买买**"
-    }
-    "Zombie spawns advancing in 15 seconds"
-    {
-        "chi"        "**临时（丧）工（尸）将会在15秒后赶上!**"
-    }
-    "Dam door opening in 20 seconds"
-    {
-        "chi"        "**真理门将在20秒后开启!**"
-        "DoorCountDown"        "20"
-    }
-    "Dam door closing in 5 seconds"
-    {
-        "chi"        "**门将在5秒后关闭!**"
-    }
-    "Push gun obtained!"
-    {
-        "chi"        "**噗嘘淦 拿到**"
-    }
-    "The push gun can be used every 45 seconds."
-    {
-        "chi"        "**每 45秒 可以用一次 噗嘘淦 记得看情况射临时（丧）工（尸）哦**"
-    }
-    "Door opening in 20 seconds"
-    {
-        "chi"        "**门将在20秒后开启**"
-        "DoorCountDown"        "20"
-    }
-    "Door opening in 10 seconds"
-    {
-        "chi"        "**门将在10秒后开启**"
-    }
-    "Door closing in 10 seconds"
-    {
-        "chi"        "**门将在10秒后关闭**"
-    }
-    "Zombie spawns advancing in 25 seconds"
-    {
-        "chi"        "**临时（丧）工（尸）将会在25秒后赶上!**"
-    }
-    "Door opening in 30 seconds"
-    {
-        "chi"        "**门将在30秒后开启**"
-        "DoorCountDown"        "30"
-    }
-    "Arming C4 in 30 seconds"
-    {
-        "chi"        "**安装GTX690战术核C4 预计30秒（淦你大爷的 匹配这么久 T早灭队了）**"
-        "DoorCountDown"        "30"
-    }
-    "C4 armed in 10 seconds"
-    {
-        "chi"        "**还有10秒**"
-    }
-    "C4 in now armed"
-    {
-        "chi"        "**安放GTX690战术核C4成功**"
-    }
-    "New objective. Reach the top of the dam for extraction"
-    {
-        "chi"        "**新任务:到达水坝的顶部领打折卷**"
-    }
-    "Zombie spawn advancing in 15 seconds"
-    {
-        "chi"        "**临时（丧）工（尸）将会在15秒后赶上!**"
-    }
-    "Elevator doors opening in 20 seconds"
-    {
-        "chi"        "**steam员工电梯将在20秒后开启!**"
-        "DoorCountDown"        "20"
-    }
-    "Elevator doors closing in 10 seconds"
-    {
-        "chi"        "**steam员工电梯将在10秒后关闭!**"
-    }
-    "Time portal will open in 50 seconds"
-    {
-        "chi"        "**后宫沃兹高阶法师肉丸 59.99美元传送门 将在50秒 后启动!**"
-        "DoorCountDown"        "50"
-    }
-    "Zombie spawn advancing in 10 seconds"
-    {
-        "chi"        "**僵尸将会在10秒后赶上!**"
-    }
-    "TIP: Zombies can pass through our portal."
-    {
-        "chi"        "**提示:临时（丧）工（尸）可以通过我们的后宫沃兹高阶法师肉丸 59.99美元传送萌**"
-    }
-    "TIP: It would be wise to stay and defend a bit until the explosion occurs."
-    {
-        "chi"        "**提示:在炸毁steam西伯利亚总部前 丢诱饵什么的 别吝啬美元了 买买买 不买不是人**"
-    }
-    "30 seconds"
-    {
-        "chi"        "**30秒**"
-        "DoorCountDown"        "30"
-    }
-    "10 seconds"
-    {
-        "chi"        "**10秒**"
-    }
-    "C4 exploding in 10 seconds"
-    {
-        "chi"        "**GTX690战术核C4将在 10秒 后爆炸!**"
-    }
-    "An infected got through our portal! Push them back!"
-    {
-        "chi"        "**一个临时（丧）工（尸）正在通过后宫沃兹高阶法师肉丸 59.99美元传送萌，把它们送回总部**"
-    }
-    "An infected has passed through our portal."
-    {
-        "chi"        "**一个临时（丧）工（尸）已经通过了我们的后宫沃兹高阶法师肉丸 59.99美元传送萌**"
-    }
-    "-Hardcore Mode-"
-    {
-        "chi"        "** **"
-    }
-    "You have less than 15 seconds to whipe out the remaining infected or face death!"
-    {
-        "chi"        "** **"
-    }
-    "**stage1**"
-    {
-        "chi"        "** **"
-    }
-    "**map by:一条会翻身的鱼**"
-    {
-        "chi"        "** **"
-    }
-    ">>LEVEL 1<<"
-    {
-        "chi"        "** **"
-    }
-    "**Map made by Eugenio *Motanum* Roman**"
-    {
-        "chi"        "** **"
-    }
-    "**Contact me at eugenio.motanum91 AT gmail.com**"
-    {
-        "chi"        "** **"
-    }
-    "***Selecting default difficulty****"
-    {
-        "chi"        "** **"
-    }
-    "**Thanks to [PF] PlagueFest for their support!**"
-    {
-        "chi"        "** **"
-    }
-    "***Waiting for players****"
-    {
-        "chi"        "** **"
-    }
-    "***Reseting game in 20 seconds****"
-    {
-        "chi"        "** **"
-    }
-    "> ZE UT2004 CONVOY"
-    {
-        "chi"        "** **"
-    }
-    "**Stage 1**"
-    {
-        "chi"        "** **"
-    }
-    "**welcome to ze_fat_hours_escape**"
-    {
-        "chi"        "** **"
-    }
-    "**map by yinyuehzixi**"
-    {
-        "chi"        "** **"
-    }
-    "** ZE_SIT_CAELUM_PARADISUS **"
-    {
-        "chi"        "** **"
-    }
-    "** ROUTE ONE **"
-    {
-        "chi"        "** **"
-    }
-    "***Modified by Reflelia***"
-    {
-        "chi"        "** **"
-    }
-    "***60 SECONDS LEFT***"
-    {
-        "chi"        "** **"
-    }
-    "***WARM UP ROUIND***"
-    {
-        "chi"        "** **"
-    }
-    "** Map by ClariceTang **"
-    {
-        "chi"        "** **"
-    }
-    "** Level 1 - Easy **"
-    {
-        "chi"        "** **"
-    }
-    "** Model by K. **"
-    {
-        "chi"        "** **"
-    }
-    "** ZE_SUPERSHITSHOW **"
-    {
-        "chi"        "** **"
-    }
-    "** A mode will be chosen shortly... **"
-    {
-        "chi"        "** **"
-    }
-    "** LEVEL: NOT TOO ROUGH **"
-    {
-        "chi"        "** **"
-    }
-    "ZE Sunlight"
-    {
-        "chi"        "** **"
-    }
+	"Warping all players to Siberia in 15 seconds."
+	{
+		"chi"		"**15秒 后传送玩家至 steam冬日特卖 西伯利亚**"
+		"DoorCountDown"		"15"
+	}
+	"Objective. Find and destroy the source of the outbreak."
+	{
+		"chi"		"**任务:找到并摧毁steam临时（丧）工（尸）的源头 初期翻译：EVANGELION 后期翻译修改：肉丸**"
+	}
+	"Overriding security breach 30 seconds"
+	{
+		"chi"		"**还有 30秒 后边大门打开**"
+		"DoorCountDown"		"30"
+	}
+	"Proximity mine obtained!"
+	{
+		"chi"		"**共产主义之雷GET**"
+	}
+	"The promixity mine can be used every 24 seconds."
+	{
+		"chi"		"**提莫 每 24秒 能种 共产主义之雷 1次**"
+	}
+	"10 seconds left"
+	{
+		"chi"		"**还有10秒!**"
+	}
+	"Door is now open. Get inside the dam!"
+	{
+		"chi"		"**门开了!进入steam 内（水）部（坝）!**"
+	}
+	"Dam door closing in 10 seconds"
+	{
+		"chi"		"**内（水）部（坝）大门将在 10秒后关闭**"
+		"DoorCountDown"		"10"
+	}
+	"Zombie spawns are advancing in 20 seconds"
+	{
+		"chi"		"**临时（丧）工（尸）将会在20秒后赶上!**"
+	}
+	"Reducing steam pressure 10 seconds"
+	{
+		"chi"		"**steam 冬日打（压）折（压） 持续 10秒！ **"
+		"DoorCountDown"		"10"
+	}
+	"Steam pressure at 66%"
+	{
+		"chi"		"**steam 冬日特卖 66%折扣 快去按 2号阀门**"
+	}
+	"Steam pressure at 33%"
+	{
+		"chi"		"**steam 冬日特卖 33%折扣 快去按 3号阀门**"
+	}
+	"Steam pressure at 0%"
+	{
+		"chi"		"**steam 冬日特卖 0%折扣 快冲出大门 买买买**"
+	}
+	"Zombie spawns advancing in 15 seconds"
+	{
+		"chi"		"**临时（丧）工（尸）将会在15秒后赶上!**"
+	}
+	"Dam door opening in 20 seconds"
+	{
+		"chi"		"**真理门将在20秒后开启!**"
+		"DoorCountDown"		"20"
+	}
+	"Dam door closing in 5 seconds"
+	{
+		"chi"		"**门将在5秒后关闭!**"
+	}
+	"Push gun obtained!"
+	{
+		"chi"		"**噗嘘淦 拿到**"
+	}
+	"The push gun can be used every 45 seconds."
+	{
+		"chi"		"**每 45秒 可以用一次 噗嘘淦 记得看情况射临时（丧）工（尸）哦**"
+	}
+	"Door opening in 20 seconds"
+	{
+		"chi"		"**门将在20秒后开启**"
+		"DoorCountDown"		"20"
+	}
+	"Door opening in 10 seconds"
+	{
+		"chi"		"**门将在10秒后开启**"
+	}
+	"Door closing in 10 seconds"
+	{
+		"chi"		"**门将在10秒后关闭**"
+	}
+	"Zombie spawns advancing in 25 seconds"
+	{
+		"chi"		"**临时（丧）工（尸）将会在25秒后赶上!**"
+	}
+	"Door opening in 30 seconds"
+	{
+		"chi"		"**门将在30秒后开启**"
+		"DoorCountDown"		"30"
+	}
+	"Arming C4 in 30 seconds"
+	{
+		"chi"		"**安装GTX690战术核C4 预计30秒（淦你大爷的 匹配这么久 T早灭队了）**"
+		"DoorCountDown"		"30"
+	}
+	"C4 armed in 10 seconds"
+	{
+		"chi"		"**还有10秒**"
+	}
+	"C4 in now armed"
+	{
+		"chi"		"**安放GTX690战术核C4成功**"
+	}
+	"New objective. Reach the top of the dam for extraction"
+	{
+		"chi"		"**新任务:到达水坝的顶部领打折卷**"
+	}
+	"Zombie spawn advancing in 15 seconds"
+	{
+		"chi"		"**临时（丧）工（尸）将会在15秒后赶上!**"
+	}
+	"Elevator doors opening in 20 seconds"
+	{
+		"chi"		"**steam员工电梯将在20秒后开启!**"
+		"DoorCountDown"		"20"
+	}
+	"Elevator doors closing in 10 seconds"
+	{
+		"chi"		"**steam员工电梯将在10秒后关闭!**"
+	}
+	"Time portal will open in 50 seconds"
+	{
+		"chi"		"**后宫沃兹高阶法师肉丸 59.99美元传送门 将在50秒 后启动!**"
+		"DoorCountDown"		"50"
+	}
+	"Zombie spawn advancing in 10 seconds"
+	{
+		"chi"		"**僵尸将会在10秒后赶上!**"
+	}
+	"TIP: Zombies can pass through our portal."
+	{
+		"chi"		"**提示:临时（丧）工（尸）可以通过我们的后宫沃兹高阶法师肉丸 59.99美元传送萌**"
+	}
+	"TIP: It would be wise to stay and defend a bit until the explosion occurs."
+	{
+		"chi"		"**提示:在炸毁steam西伯利亚总部前 丢诱饵什么的 别吝啬美元了 买买买 不买不是人**"
+	}
+	"30 seconds"
+	{
+		"chi"		"**30秒**"
+		"DoorCountDown"		"30"
+	}
+	"10 seconds"
+	{
+		"chi"		"**10秒**"
+	}
+	"C4 exploding in 10 seconds"
+	{
+		"chi"		"**GTX690战术核C4将在 10秒 后爆炸!**"
+	}
+	"An infected got through our portal! Push them back!"
+	{
+		"chi"		"**一个临时（丧）工（尸）正在通过后宫沃兹高阶法师肉丸 59.99美元传送萌，把它们送回总部**"
+	}
+	"An infected has passed through our portal."
+	{
+		"chi"		"**一个临时（丧）工（尸）已经通过了我们的后宫沃兹高阶法师肉丸 59.99美元传送萌**"
+	}
+	"-Hardcore Mode-"
+	{
+		"chi"		"** **"
+	}
+	"You have less than 15 seconds to whipe out the remaining infected or face death!"
+	{
+		"chi"		"** **"
+	}
+	"**stage1**"
+	{
+		"chi"		"** **"
+	}
+	"**map by:一条会翻身的鱼**"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL 1<<"
+	{
+		"chi"		"** **"
+	}
+	"**Map made by Eugenio *Motanum* Roman**"
+	{
+		"chi"		"** **"
+	}
+	"**Contact me at eugenio.motanum91 AT gmail.com**"
+	{
+		"chi"		"** **"
+	}
+	"***Selecting default difficulty****"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to [PF] PlagueFest for their support!**"
+	{
+		"chi"		"** **"
+	}
+	"***Waiting for players****"
+	{
+		"chi"		"** **"
+	}
+	"***Reseting game in 20 seconds****"
+	{
+		"chi"		"** **"
+	}
+	"> ZE UT2004 CONVOY"
+	{
+		"chi"		"** **"
+	}
+	"**Stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"**welcome to ze_fat_hours_escape**"
+	{
+		"chi"		"** **"
+	}
+	"**map by yinyuehzixi**"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_SIT_CAELUM_PARADISUS **"
+	{
+		"chi"		"** **"
+	}
+	"** ROUTE ONE **"
+	{
+		"chi"		"** **"
+	}
+	"***Modified by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***60 SECONDS LEFT***"
+	{
+		"chi"		"** **"
+	}
+	"***WARM UP ROUIND***"
+	{
+		"chi"		"** **"
+	}
+	"** Map by ClariceTang **"
+	{
+		"chi"		"** **"
+	}
+	"** Level 1 - Easy **"
+	{
+		"chi"		"** **"
+	}
+	"** Model by K. **"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_SUPERSHITSHOW **"
+	{
+		"chi"		"** **"
+	}
+	"** A mode will be chosen shortly... **"
+	{
+		"chi"		"** **"
+	}
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"** **"
+	}
+	"ZE Sunlight"
+	{
+		"chi"		"** **"
+	}
 }

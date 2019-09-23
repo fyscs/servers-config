@@ -1,15 +1,15 @@
 "Console_T"
 {
-    "***DOOR OPENS IN 5 SECONDS***"
-    {
-        "chi"        "**大门将在5秒后打开**"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "80309"
-    }
-    ">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
-    {
-        "chi"        "** **"
-    }
+	"***DOOR OPENS IN 5 SECONDS***"
+	{
+		"chi"		"**大门将在5秒后打开**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"80309"
+	}
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
+	{
+		"chi"		"** **"
+	}
 }

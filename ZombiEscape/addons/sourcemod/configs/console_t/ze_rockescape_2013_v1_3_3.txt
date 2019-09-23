@@ -1,134 +1,134 @@
 "Console_T"
 {
-    "-=[ C4 has been armed ]=-"
-    {
-        "chi"        "C4已被安放"
-    }
-    "-=[ Detonation in 20 seconds ]=-"
-    {
-        "chi"        "20秒后爆破"
-    }
-    "DoorCountdown"        "20"
-    "-=[ Detonation in 5 seconds ]=-"
-    {
-        "chi"        "5秒后爆破"
-    }
-    "-=[ 4 ]=-"
-    {
-        "chi"        "4秒"
-    }
-    "-=[ CLEAR THE FLOOR ]=-"
-    {
-        "chi"        "咸鱼们守住！"
-    }
-    "-=[ 2 ]=-"
-    {
-        "chi"        "2秒"
-    }
-    "-=[ 1 ]=-"
-    {
-        "chi"        "1秒，炸了！"
-    }
-    "-=[ Final C4 has been armed ]=-"
-    {
-        "chi"        "最终的c4已被安放"
-    }
-    "-=[ Zombie spawn has advanced ]=-"
-    {
-        "chi"        "僵尸重生点更新"
-    }
-    "-=[ Lift starting in 45 seconds ]=-"
-    {
-        "chi"        "平台45秒后升起"
-    }
-    "-=[ C4 Detonation in 5 seconds... ]=-"
-    {
-        "chi"        "炸弹5秒后爆炸"
-    }
-    "-=[ Lift starting in 5 seconds ]=-"
-    {
-        "chi"        "平台5秒后升起"
-    }
-    "-=[ 3 ]=-"
-    {
-        "chi"        "3秒"
-    }
-    "-=[ Air island leaving in 10 seconds ]=-"
-    {
-        "chi"        "空岛10秒后离开"
-    }
-    "-=[ Detonation in 25 seconds ]=-"
-    {
-        "chi"        "25秒后爆破"
-    }
-    "-=[ Lift leaving in 20 seconds... ]=-"
-    {
-        "chi"        "平台20秒后升起"
-    }
-    "-=[ Zombie Spawn Advanced ]=-"
-    {
-        "chi"        "僵尸重生点更新"
-    }
-    "-=[ Lift leaving in 10 seconds... ]=-"
-    {
-        "chi"        "10秒后升起"
-    }
-    "-=[ Lift leaving in 5 seconds... ]=-"
-    {
-        "chi"        "5秒"
-    }
-    "-=[ Boats ready in 90 seconds... ]=-"
-    {
-        "chi"        "船90秒后离开"
-    }
-    "DoorCountdown"        "90"
-    "-=[ Command exit opening in 60 seconds ]=-"
-    {
-        "chi"        "出口60秒后开放"
-    }
-    "-=[ Heli inbound... ]=-"
-    {
-        "chi"        "救援来了！"
-    }
-    "-=[ Boats ready in 60 seconds... ]=-"
-    {
-        "chi"        "船60秒后就绪"
-    }
-    "-=[ Use C4 to blow your way out!!! ]=-"
-    {
-        "chi"        "用c4炸了挡路的东西！"
-    }
-    "-=[ Detonation in 15 seconds ]=-"
-    {
-        "chi"        "15秒后爆破！"
-    }
-    "-=[ Command exit has opened ]=-"
-    {
-        "chi"        "** **"
-    }
-    "-=[ Boats ready in 30 seconds... ]=-"
-    {
-        "chi"        "** **"
-        "DoorCountdown"        "30"
-    }
-    "-=[ Boats ready in 10 seconds... ]=-"
-    {
-        "chi"        "** **"
-    }
-    "-=[ Boats ready in 5 seconds... ]=-"
-    {
-        "chi"        "** **"
-    }
-    "-=[ Boats are ready!!! ]=-"
-    {
-        "chi"        "** **"
-    }
-    "-=[ Nuke detonation in 10 seconds ]=-"
-    {
-        "chi"        "** **"
-    }
-    "-=[ Nuke detonation in 5 seconds ]=-"
-    {
-        "chi"        "** **"
-    }
+	"-=[ C4 has been armed ]=-"
+	{
+		"chi"		"C4已被安放"
+	}
+	"-=[ Detonation in 20 seconds ]=-"
+	{
+		"chi"		"20秒后爆破"
+	}
+	"DoorCountdown"		"20"
+	"-=[ Detonation in 5 seconds ]=-"
+	{
+		"chi"		"5秒后爆破"
+	}
+	"-=[ 4 ]=-"
+	{
+		"chi"		"4秒"
+	}
+	"-=[ CLEAR THE FLOOR ]=-"
+	{
+		"chi"		"咸鱼们守住！"
+	}
+	"-=[ 2 ]=-"
+	{
+		"chi"		"2秒"
+	}
+	"-=[ 1 ]=-"
+	{
+		"chi"		"1秒，炸了！"
+	}
+	"-=[ Final C4 has been armed ]=-"
+	{
+		"chi"		"最终的c4已被安放"
+	}
+	"-=[ Zombie spawn has advanced ]=-"
+	{
+		"chi"		"僵尸重生点更新"
+	}
+	"-=[ Lift starting in 45 seconds ]=-"
+	{
+		"chi"		"平台45秒后升起"
+	}
+	"-=[ C4 Detonation in 5 seconds... ]=-"
+	{
+		"chi"		"炸弹5秒后爆炸"
+	}
+	"-=[ Lift starting in 5 seconds ]=-"
+	{
+		"chi"		"平台5秒后升起"
+	}
+	"-=[ 3 ]=-"
+	{
+		"chi"		"3秒"
+	}
+	"-=[ Air island leaving in 10 seconds ]=-"
+	{
+		"chi"		"空岛10秒后离开"
+	}
+	"-=[ Detonation in 25 seconds ]=-"
+	{
+		"chi"		"25秒后爆破"
+	}
+	"-=[ Lift leaving in 20 seconds... ]=-"
+	{
+		"chi"		"平台20秒后升起"
+	}
+	"-=[ Zombie Spawn Advanced ]=-"
+	{
+		"chi"		"僵尸重生点更新"
+	}
+	"-=[ Lift leaving in 10 seconds... ]=-"
+	{
+		"chi"		"10秒后升起"
+	}
+	"-=[ Lift leaving in 5 seconds... ]=-"
+	{
+		"chi"		"5秒"
+	}
+	"-=[ Boats ready in 90 seconds... ]=-"
+	{
+		"chi"		"船90秒后离开"
+	}
+	"DoorCountdown"		"90"
+	"-=[ Command exit opening in 60 seconds ]=-"
+	{
+		"chi"		"出口60秒后开放"
+	}
+	"-=[ Heli inbound... ]=-"
+	{
+		"chi"		"救援来了！"
+	}
+	"-=[ Boats ready in 60 seconds... ]=-"
+	{
+		"chi"		"船60秒后就绪"
+	}
+	"-=[ Use C4 to blow your way out!!! ]=-"
+	{
+		"chi"		"用c4炸了挡路的东西！"
+	}
+	"-=[ Detonation in 15 seconds ]=-"
+	{
+		"chi"		"15秒后爆破！"
+	}
+	"-=[ Command exit has opened ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Boats ready in 30 seconds... ]=-"
+	{
+		"chi"		"** **"
+		"DoorCountdown"		"30"
+	}
+	"-=[ Boats ready in 10 seconds... ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Boats ready in 5 seconds... ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Boats are ready!!! ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Nuke detonation in 10 seconds ]=-"
+	{
+		"chi"		"** **"
+	}
+	"-=[ Nuke detonation in 5 seconds ]=-"
+	{
+		"chi"		"** **"
+	}
 }

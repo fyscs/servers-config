@@ -1,195 +1,203 @@
 "Console_T"
 {
-    ">>LEVEL: EASY<<"
-    {
-        "chi"        "**难度：容易 **"
-    }
-    ">>MAP MADE BY TaskuVaras<<"
-    {
-        "chi"        "**地图制作：TaskuVaras 地图翻译：蓬莱山帅比♪ **"
-    }
-    ">>Special thanks to: T-Money and Enviolinador<<"
-    {
-        "chi"        "**特别感谢：T-Money 和 Enviolinador **"
-    }
-    ">> 1 player must go to lighthouse and shoot the oil<<"
-    {
-        "chi"        "**一个玩家必须去灯塔上射击镜面 **"
-    }
-    ">> others try to keep zombies in water<<"
-    {
-        "chi"        "**其他人不要让僵尸上陆地 **"
-    }
-    ">> Lighthouse exploding automatically in 30 seconds <<"
-    {
-        "chi"        "**灯塔在30秒后自动爆炸 **"
-    }
-    ">>>LIGHT HAS BEEN TAKEN<<<"
-    {
-        "chi"        "**已拿到火把 **"
-    }
-    ">>>Press USE to fire<<<"
-    {
-        "chi"        "**按E使用 **"
-    }
-    ">> DEFEND FOR 30 SEC<<"
-    {
-        "chi"        "**守住30秒 **"
-        "DoorCountDown"        "30"
-    }
-    ">>  TELEPORTING everyone to jungle<<"
-    {
-        "chi"        "**即将传送到丛林 **"
-    }
-    ">>  5 MORE SECONDS<<"
-    {
-        "chi"        "**5秒 **"
-    }
-    ">> LIGHT CAN BE NOW USED AGAIN<<"
-    {
-        "chi"        "**火把可以再次使用 **"
-    }
-    ">> IMPORTANT!!!!!!!! <<"
-    {
-        "chi"        "**很重要！！！！！！！！ **"
-    }
-    ">> TAKE THE SILVER CHALICES <<"
-    {
-        "chi"        "**银制酒杯 **"
-    }
-    ">>  TELEPORTING everyone to ponce de leon<<"
-    {
-        "chi"        "**即将传送 **"
-    }
-    ">> TAKE CHALICES TO FOUNTAIN OF YOUTH <<"
-    {
-        "chi"        "**用酒杯装青春之泉 **"
-        "ico"        "icon_fire"
-    }
-    ">> SURVIVE FOR 60 SEC<<"
-    {
-        "chi"        "**存活60秒 **"
-        "DoorCountDown"        "60"
-    }
-    ">>  TELEPORTING everyone to fountain of youth<<"
-    {
-        "chi"        "**即将传送到青春之泉 **"
-    }
-    ">>LEVEL COMPLETED!<<"
-    {
-        "chi"        "**本关完成 **"
-    }
-    ">>LEVEL: NORMAL<<"
-    {
-        "chi"        "**关卡：普通 **"
-    }
-    ">>>JACKS PISTOL HAS BEEN TAKEN<<<"
-    {
-        "chi"        "**已拿起杰克的散弹枪 **"
-    }
-    ">>>REMEMBER ONLY 1 SHOT!<<<"
-    {
-        "chi"        "**记住！它只有一发子弹 **"
-    }
-    ">>>Press USE to shoot<<<"
-    {
-        "chi"        "**按E使用 **"
-    }
-    ">>LEVEL: HARD<<"
-    {
-        "chi"        "**难度:困难 **"
-    }
-    ">> YOU FORGOT THE CHALICES<<"
-    {
-        "chi"        "**你忘了酒杯 **"
-    }
-    ">> DEFEND FOR 60 SEC<<"
-    {
-        "chi"        "**守住60秒 **"
-        "DoorCountDown"        "60"
-    }
-    ">>LEVEL: EXTREME<<"
-    {
-        "chi"        "**难度：极限 **"
-    }
-    "sync_version"
-    {
-        "syncvalue"        "16392"
-    }
-    ">>  5 MORE SECONDS <<"
-    {
-        "chi"        "** **"
-    }
-    ">>LEVEL COMPLETED! <<"
-    {
-        "chi"        "** **"
-    }
-    ">> YOU FORGOT THE CHALICES! <<"
-    {
-        "chi"        "** **"
-    }
-    ">> NO LEVEL CHANGE ON WIN! <<"
-    {
-        "chi"        "** **"
-    }
-    ">> DEFEND FOR 60 SEC <<"
-    {
-        "chi"        "** **"
-    }
-    ">>  TELEPORTING everyone to fountain of youth <<"
-    {
-        "chi"        "** **"
-    }
-    "Special Thanks: Airvulpes"
-    {
-        "chi"        "** **"
-    }
-    "Test Server: Possession"
-    {
-        "chi"        "** **"
-    }
-    "**Stage 1**"
-    {
-        "chi"        "** **"
-    }
-    "**welcome to ze_fat_hours_escape**"
-    {
-        "chi"        "** **"
-    }
-    "**map by yinyuehzixi**"
-    {
-        "chi"        "** **"
-    }
-    "*** STEAMGAMERS.COM ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Mapper: yardy ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Co-Mapper: starbucks ***"
-    {
-        "chi"        "** **"
-    }
-    "++ ZE_ITALY_TOWN ++"
-    {
-        "chi"        "** **"
-    }
-    "***DIFFICULTY --- NORMAL***"
-    {
-        "chi"        "** **"
-    }
-    "** ZE_SUPERSHITSHOW **"
-    {
-        "chi"        "** **"
-    }
-    "** A mode will be chosen shortly... **"
-    {
-        "chi"        "** **"
-    }
-    "*** Map by: Kappoochino ***"
-    {
-        "chi"        "** **"
-    }
+	">>LEVEL: EASY<<"
+	{
+		"chi"		"**难度：容易 **"
+	}
+	">>MAP MADE BY TaskuVaras<<"
+	{
+		"chi"		"**地图制作：TaskuVaras 地图翻译：蓬莱山帅比♪ **"
+	}
+	">>Special thanks to: T-Money and Enviolinador<<"
+	{
+		"chi"		"**特别感谢：T-Money 和 Enviolinador **"
+	}
+	">> 1 player must go to lighthouse and shoot the oil<<"
+	{
+		"chi"		"**一个玩家必须去灯塔上射击镜面 **"
+	}
+	">> others try to keep zombies in water<<"
+	{
+		"chi"		"**其他人不要让僵尸上陆地 **"
+	}
+	">> Lighthouse exploding automatically in 30 seconds <<"
+	{
+		"chi"		"**灯塔在30秒后自动爆炸 **"
+	}
+	">>>LIGHT HAS BEEN TAKEN<<<"
+	{
+		"chi"		"**已拿到火把 **"
+	}
+	">>>Press USE to fire<<<"
+	{
+		"chi"		"**按E使用 **"
+	}
+	">> DEFEND FOR 30 SEC<<"
+	{
+		"chi"		"**守住30秒 **"
+		"DoorCountDown"		"30"
+	}
+	">>  TELEPORTING everyone to jungle<<"
+	{
+		"chi"		"**即将传送到丛林 **"
+	}
+	">>  5 MORE SECONDS<<"
+	{
+		"chi"		"**5秒 **"
+	}
+	">> LIGHT CAN BE NOW USED AGAIN<<"
+	{
+		"chi"		"**火把可以再次使用 **"
+	}
+	">> IMPORTANT!!!!!!!! <<"
+	{
+		"chi"		"**很重要！！！！！！！！ **"
+	}
+	">> TAKE THE SILVER CHALICES <<"
+	{
+		"chi"		"**银制酒杯 **"
+	}
+	">>  TELEPORTING everyone to ponce de leon<<"
+	{
+		"chi"		"**即将传送 **"
+	}
+	">> TAKE CHALICES TO FOUNTAIN OF YOUTH <<"
+	{
+		"chi"		"**用酒杯装青春之泉 **"
+		"ico"		"icon_fire"
+	}
+	">> SURVIVE FOR 60 SEC<<"
+	{
+		"chi"		"**存活60秒 **"
+		"DoorCountDown"		"60"
+	}
+	">>  TELEPORTING everyone to fountain of youth<<"
+	{
+		"chi"		"**即将传送到青春之泉 **"
+	}
+	">>LEVEL COMPLETED!<<"
+	{
+		"chi"		"**本关完成 **"
+	}
+	">>LEVEL: NORMAL<<"
+	{
+		"chi"		"**关卡：普通 **"
+	}
+	">>>JACKS PISTOL HAS BEEN TAKEN<<<"
+	{
+		"chi"		"**已拿起杰克的散弹枪 **"
+	}
+	">>>REMEMBER ONLY 1 SHOT!<<<"
+	{
+		"chi"		"**记住！它只有一发子弹 **"
+	}
+	">>>Press USE to shoot<<<"
+	{
+		"chi"		"**按E使用 **"
+	}
+	">>LEVEL: HARD<<"
+	{
+		"chi"		"**难度:困难 **"
+	}
+	">> YOU FORGOT THE CHALICES<<"
+	{
+		"chi"		"**你忘了酒杯 **"
+	}
+	">> DEFEND FOR 60 SEC<<"
+	{
+		"chi"		"**守住60秒 **"
+		"DoorCountDown"		"60"
+	}
+	">>LEVEL: EXTREME<<"
+	{
+		"chi"		"**难度：极限 **"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"16392"
+	}
+	">>  5 MORE SECONDS <<"
+	{
+		"chi"		"** **"
+	}
+	">>LEVEL COMPLETED! <<"
+	{
+		"chi"		"** **"
+	}
+	">> YOU FORGOT THE CHALICES! <<"
+	{
+		"chi"		"** **"
+	}
+	">> NO LEVEL CHANGE ON WIN! <<"
+	{
+		"chi"		"** **"
+	}
+	">> DEFEND FOR 60 SEC <<"
+	{
+		"chi"		"** **"
+	}
+	">>  TELEPORTING everyone to fountain of youth <<"
+	{
+		"chi"		"** **"
+	}
+	"Special Thanks: Airvulpes"
+	{
+		"chi"		"** **"
+	}
+	"Test Server: Possession"
+	{
+		"chi"		"** **"
+	}
+	"**stage 1**"
+	{
+		"chi"		"** **"
+	}
+	"**welcome to ze_fat_hours_escape**"
+	{
+		"chi"		"** **"
+	}
+	"**map by yinyuehzixi**"
+	{
+		"chi"		"** **"
+	}
+	"*** STEAMGAMERS.COM ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Mapper: yardy ***"
+	{
+		"chi"		"** **"
+	}
+	"*** Co-Mapper: starbucks ***"
+	{
+		"chi"		"** **"
+	}
+	"++ ZE_ITALY_TOWN ++"
+	{
+		"chi"		"** **"
+	}
+	"***DIFFICULTY --- NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"** ZE_SUPERSHITSHOW **"
+	{
+		"chi"		"** **"
+	}
+	"** A mode will be chosen shortly... **"
+	{
+		"chi"		"** **"
+	}
+	"*** Map by: Kappoochino ***"
+	{
+		"chi"		"** **"
+	}
+	"* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
+	{
+		"chi"		"** **"
+	}
+	"* * * Choose the first MINIGAME * * *"
+	{
+		"chi"		"** **"
+	}
 }

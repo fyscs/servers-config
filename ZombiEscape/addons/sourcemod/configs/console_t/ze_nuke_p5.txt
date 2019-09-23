@@ -1,135 +1,139 @@
 "Console_T"
 {
-    "Please wait 20 seconds before the door opening"
-    {
-        "chi"        "**请耐心等待 20 秒**"
-        "DoorCountDown"        "20"
-    }
-    "Welcome ! Map made by Valve and zombified by Obscuri"
-    {
-        "chi"        "**~**"
-    }
-    "Special thanks to centran and LeGrem"
-    {
-        "chi"        "**特别感谢 centran 和 LeGrem **"
-    }
-    "***Fix and port by Epic |cabo| ***"
-    {
-        "chi"        "**地图修复 by Epic |cabo| **"
-    }
-    "***RESIST 30 SECONDS BEHIND THE BOXES***"
-    {
-        "chi"        "**守住僵尸 30 秒直至传送。**（僵尸传送后建议守卷帘门右边的小门，里面会出僵尸）**"
-    }
-    "***5 seconds***"
-    {
-        "chi"        "**还有 5 秒。**"
-    }
-    "***RESIST 20 SECONDS***"
-    {
-        "chi"        "**防守僵尸 20 秒。**"
-    }
-    "***RUN***"
-    {
-        "chi"        "**走！！！**"
-    }
-    "10 seconds until the fence break"
-    {
-        "chi"        "** 10 秒后撤销梯子的铁网！**（小心走廊地板上的坑，最好站在护栏上！）**"
-    }
-    "***20 SECONDS FOR TELEPORT***"
-    {
-        "chi"        "**坚守 20 秒直至传送。**"
-        "DoorCountDown"        "20"
-    }
-    "***5 SECONDS FOR TELEPORT***"
-    {
-        "chi"        "**距离传送时间还有 5 秒！**"
-    }
-    "***ZOMBIES WILL BE TELEPORTED IN 5 SECONDS***"
-    {
-        "chi"        "**僵尸将在 5 秒后传送！**"
-    }
-    "Second way open !"
-    {
-        "chi"        "**第二条路开放！**"
-    }
-    "***DESTROY THE POWER GENERATORS***"
-    {
-        "chi"        "**摧毁3台发电机，从左往右依次按顺序。**（其他人在铁网与铁网形成的通道之间尽可能的拖住僵尸）**"
-    }
-    "***1 REMAINING***"
-    {
-        "chi"        "**还有 1 台发电机未被摧毁。**"
-    }
-    "*** WELL DONE***"
-    {
-        "chi"        "**干得漂亮！成功摧毁3台发电机。**"
-    }
-    "***HOLD 25 SECONDS***"
-    {
-        "chi"        "**坚持 25 秒！！！**"
-        "DoorCountDown"        "25"
-    }
-    "Warning! Overloading of reactor."
-    {
-        "chi"        "**警告！核反应堆超负荷！**"
-    }
-    "Explosion of the nuclear plant imminent !"
-    {
-        "chi"        "**核电站爆炸迫在眉睫！**"
-    }
-    "***TRUCK LEAVING IN 20 SECONDS***"
-    {
-        "chi"        "**距卡车离开还有 20 秒！**"
-        "DoorCountDown"        "20"
-    }
-    "Contact me at obscuri@obsmail.tk"
-    {
-        "chi"        "**作者邮箱地址：obscuri@obsmail.tk**"
-    }
-    "The server is about to close the update ,Please update your game"
-    {
-        "chi"        "** **"
-    }
-    "***Map by Reflelia***"
-    {
-        "chi"        "** **"
-    }
-    "---***This map will mute your sound if you are outside the lunar base***---"
-    {
-        "chi"        "** **"
-    }
-    "***CURRENT DIFFICULTY IS NORMAL***"
-    {
-        "chi"        "** **"
-    }
-    "*** MAP MADE BY KAGALERA***"
-    {
-        "chi"        "** **"
-    }
-    "*** MAP BY STRUPPI ***"
-    {
-        "chi"        "** **"
-    }
-    "steamworkshop search this map's name"
-    {
-        "chi"        "** **"
-    }
-    "- Level 1 -"
-    {
-        "chi"        "** **"
-    }
-    "*** NY MARATHON: GET READY TO RUN! ***"
-    {
-        "chi"        "** **"
-    }
-    "** re shen 50 miao **"
-    {
-        "chi"        "** **"
-    }
-    "***STAGE 1 -- THE SHIP***"
-    {
-        "chi"        "** **"
-    }
+	"Please wait 20 seconds before the door opening"
+	{
+		"chi"		"**请耐心等待 20 秒**"
+		"DoorCountDown"		"20"
+	}
+	"Welcome ! Map made by Valve and zombified by Obscuri"
+	{
+		"chi"		"**~**"
+	}
+	"Special thanks to centran and LeGrem"
+	{
+		"chi"		"**特别感谢 centran 和 LeGrem **"
+	}
+	"***Fix and port by Epic |cabo| ***"
+	{
+		"chi"		"**地图修复 by Epic |cabo| **"
+	}
+	"***RESIST 30 SECONDS BEHIND THE BOXES***"
+	{
+		"chi"		"**守住僵尸 30 秒直至传送。**（僵尸传送后建议守卷帘门右边的小门，里面会出僵尸）**"
+	}
+	"***5 seconds***"
+	{
+		"chi"		"**还有 5 秒。**"
+	}
+	"***RESIST 20 SECONDS***"
+	{
+		"chi"		"**防守僵尸 20 秒。**"
+	}
+	"***RUN***"
+	{
+		"chi"		"**走！！！**"
+	}
+	"10 seconds until the fence break"
+	{
+		"chi"		"** 10 秒后撤销梯子的铁网！**（小心走廊地板上的坑，最好站在护栏上！）**"
+	}
+	"***20 SECONDS FOR TELEPORT***"
+	{
+		"chi"		"**坚守 20 秒直至传送。**"
+		"DoorCountDown"		"20"
+	}
+	"***5 SECONDS FOR TELEPORT***"
+	{
+		"chi"		"**距离传送时间还有 5 秒！**"
+	}
+	"***ZOMBIES WILL BE TELEPORTED IN 5 SECONDS***"
+	{
+		"chi"		"**僵尸将在 5 秒后传送！**"
+	}
+	"Second way open !"
+	{
+		"chi"		"**第二条路开放！**"
+	}
+	"***DESTROY THE POWER GENERATORS***"
+	{
+		"chi"		"**摧毁3台发电机，从左往右依次按顺序。**（其他人在铁网与铁网形成的通道之间尽可能的拖住僵尸）**"
+	}
+	"***1 REMAINING***"
+	{
+		"chi"		"**还有 1 台发电机未被摧毁。**"
+	}
+	"*** WELL DONE***"
+	{
+		"chi"		"**干得漂亮！成功摧毁3台发电机。**"
+	}
+	"***HOLD 25 SECONDS***"
+	{
+		"chi"		"**坚持 25 秒！！！**"
+		"DoorCountDown"		"25"
+	}
+	"Warning! Overloading of reactor."
+	{
+		"chi"		"**警告！核反应堆超负荷！**"
+	}
+	"Explosion of the nuclear plant imminent !"
+	{
+		"chi"		"**核电站爆炸迫在眉睫！**"
+	}
+	"***TRUCK LEAVING IN 20 SECONDS***"
+	{
+		"chi"		"**距卡车离开还有 20 秒！**"
+		"DoorCountDown"		"20"
+	}
+	"Contact me at obscuri@obsmail.tk"
+	{
+		"chi"		"**作者邮箱地址：obscuri@obsmail.tk**"
+	}
+	"The server is about to close the update ,Please update your game"
+	{
+		"chi"		"** **"
+	}
+	"***Map by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"---***This map will mute your sound if you are outside the lunar base***---"
+	{
+		"chi"		"** **"
+	}
+	"***CURRENT DIFFICULTY IS NORMAL***"
+	{
+		"chi"		"** **"
+	}
+	"*** MAP MADE BY KAGALERA***"
+	{
+		"chi"		"** **"
+	}
+	"*** MAP BY STRUPPI ***"
+	{
+		"chi"		"** **"
+	}
+	"steamworkshop search this map's name"
+	{
+		"chi"		"** **"
+	}
+	"- Level 1 -"
+	{
+		"chi"		"** **"
+	}
+	"*** NY MARATHON: GET READY TO RUN! ***"
+	{
+		"chi"		"** **"
+	}
+	"** re shen 50 miao **"
+	{
+		"chi"		"** **"
+	}
+	"***STAGE 1 -- THE SHIP***"
+	{
+		"chi"		"** **"
+	}
+	"** [HARD MODE] **"
+	{
+		"chi"		"** **"
+	}
 }
