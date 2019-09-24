@@ -1,0 +1,407 @@
+"Console_T"
+{
+	"** Chapter I: Ascension **"
+	{
+		"chi"		"**第一章：飞升 **"
+	}
+	"** Weve reached the southwest dock... **"
+	{
+		"chi"		"**我们已经到了西南码头… **"
+	}
+	"** We must find our way into the facility. **"
+	{
+		"chi"		"**我们必须找到进入设施的路. **"
+	}
+	"** This path should lead us to one of the several supply warehouses... **"
+	{
+		"chi"		"**这条路应该能把我们引向几个供应仓库中的一个…**"
+		"DoorCountdown"		"10"
+	}
+	"** BLIZARD MODE ENABLED: DIFFICULTY INCREASED **"
+	{
+		"chi"		"**暴风雪模式已载入：难度增加 **"
+	}
+	"** RESIST! We need to access the main complex by unlocking this door! **"
+	{
+		"chi"		"**守住！我们需要打开这扇门才能进入主建筑群！ **"
+		"DoorCountdown"		"35"
+	}
+	"** Were almost there! Dont let anything through! **"
+	{
+		"chi"		"**我们快到了！不要让僵尸进来！ **"
+		"DoorCountdown"		"15"
+	}
+	"** FALL BACK! Its about to open! **"
+	{
+		"chi"		"**准备撤退！门快开了！ **"
+	}
+	"** Were nearing the neuralgic center of the complex... **"
+	{
+		"chi"		"**我们正在接近建筑中心... **"
+		"DoorCountdown"		"18"
+	}
+	"** Hold until we are able to open this door! **"
+	{
+		"chi"		"**守住！等待这道门打开 **"
+	}
+	"** This button should unlock the doors and let us through... **"
+	{
+		"chi"		"**这个按钮可以打开门... **"
+		"DoorCountdown"		"20"
+	}
+	"** Resist while we wait for the doors to open! **"
+	{
+		"chi"		"**在门打开之前守住这里！ **"
+	}
+	"** Well need to reach one of the gas deposits to blow it up and delay their plans... **"
+	{
+		"chi"		"**我们需要炸毁一个天然气罐来拖住他们... **"
+	}
+	"** Look at that! There is enough weaponry to start a massive offensive... **"
+	{
+		"chi"		"**看那边!有很多武器.能发起大规模的战争...**"
+	}
+	"** The maintenance elevator should be enough to access the upper levels. **"
+	{
+		"chi"		"**电梯应该可以进入上一层 **"
+	}
+	"** GET GOING! We need to advance! **"
+	{
+		"chi"		"**快走！我们需要加快脚步！ **"
+	}
+	"** The elevator is coming! RESIST! **"
+	{
+		"chi"		"**电梯来了！继续守住！ **"
+	}
+	"** Call the elevator! Well need to resist right here while its coming... **"
+	{
+		"chi"		"**电梯快到了！在电梯到之前我们需要守住这里...**"
+	}
+	"** GET ON! THE ELEVATOR IS ABOUT TO LEAVE! **"
+	{
+		"chi"		"**快上电梯！电梯就要离开了 **"
+	}
+	"** Resist! This door shall take us to one of the middle areas! **"
+	{
+		"chi"		"**守住！通过这扇门我们可以到达中心区域！**"
+		"DoorCountdown"		"25"
+	}
+	"** Keep it up! Its about to open! **"
+	{
+		"chi"		"**守住！门快开了！ **"
+	}
+	"** HOLD THEM RIGHT HERE! We need to unlock this door! **"
+	{
+		"chi"		"**在这里守住他们！我们需要打开这扇门！ **"
+		"DoorCountdown"		"20"
+	}
+	"** GET CLOSE! Were about to breach in! **"
+	{
+		"chi"		"**撤退！我们要走了！ **"
+	}
+	"** We need to find a way to make those tanks blow up! **"
+	{
+		"chi"		"**我们得想办法炸毁这些坦克！ **"
+	}
+	"** Perhaps we can fiddle with the preasure using the control pannels? **"
+	{
+		"chi"		"**也许我们可以通过控制压力?  **"
+	}
+	"** We did it! The pressure is increasing at exponential rates! **"
+	{
+		"chi"		"**我们做到了！压力指数正在增长！ **"
+		"DoorCountdown"		"15"
+	}
+	"** Hold until we open the doors! We need a way out! **"
+	{
+		"chi"		"**守住，直到我们打开大门！ **"
+	}
+	"** Our information indicates there should be a small cargo elevator close to our position... **"
+	{
+		"chi"		"**根据仪表显示来看，应该有一个小型货运电梯正在接近我们的位置… **"
+		"DoorCountdown"		"17"
+	}
+	"** This is our way out! Defend the elevator until it leaves! **"
+	{
+		"chi"		"**守住电梯，直到电梯离开！ **"
+	}
+	"** CHAPTER 1 COMPLETED - UNLOCKING CHAPTER 2 **"
+	{
+		"chi"		"**第一章完成 - 第二章载入中 **"
+	}
+	"** Chapter II: A touch of heaven **"
+	{
+		"chi"		"**第二章：触动天际**"
+	}
+	"** The sabotage mission has been fulfilled. **"
+	{
+		"chi"		"**破坏任务已经完成. **"
+	}
+	"** We need to escape from the facility... **"
+	{
+		"chi"		"**我们需要逃离该设施… **"
+		"DoorCountdown"		"40"
+	}
+	"** Resist! These security doors are sturdy - theyll take a bit to unlock! **"
+	{
+		"chi"		"**守住！我们需要一些时间解锁这些门**"
+	}
+	"** Keep it up! Were almost there. **"
+	{
+		"chi"		"**保持火力！就快到了. **"
+	}
+	"** Our reports indicate some sort of archeologic research takes place here... **"
+	{
+		"chi"		"**我们的报告显示这里曾经进行了某种考古学研究。**"
+		"DoorCountdown"		"30"
+	}
+	"** Hold! We need to unlock the metal gates and then well access the caves. **"
+	{
+		"chi"		"**守住！我们需要解锁合金门然后进入洞穴. **"
+	}
+	"** Almost there! Keep it up! **"
+	{
+		"chi"		"**快到了！坚持住！ **"
+	}
+	"** Some kind of electromagnetic radiation is emitted by those cristals... **"
+	{
+		"chi"		"**某种电磁辐射是由那些晶体释放的... **"
+	}
+	"** They might be using those ruins and what they contain to develop some kind of new weapon. **"
+	{
+		"chi"		"**他们可能利用这些废墟和里面的东西来研制某种新武器**"
+	}
+	"** DEFEND! We need to find a way out - we are trapped! **"
+	{
+		"chi"		"**守住！我们需要找到出路 - 我们被困住了！ **"
+		"DoorCountdown"		"38"
+	}
+	"** Some of these plates might open... Keep holding! **"
+	{
+		"chi"		"**这些板子中的一个可能会打开…守住！ **"
+	}
+	"** This one seems to move... GO! **"
+	{
+		"chi"		"**这个好像动了...快走！ **"
+	}
+	"** Something in this hall is making the field detector go crazy! **"
+	{
+		"chi"		"**大厅里有什么东西使磁场探测器失控了！ **"
+	}
+	"** They seem to be using the ruins for something - they must be stopped. **"
+	{
+		"chi"		"**他们似乎在利用废墟做些什么 - 必须阻止他们。**"
+	}
+	"** Hold the bridges! We need to open this door! **"
+	{
+		"chi"		"**守住桥！我们需要打开这扇门！ **"
+		"DoorCountdown"		"40"
+	}
+	"** RESIST! Theres still a bit to go! **"
+	{
+		"chi"		"**守住！还需要一点时间！ **"
+	}
+	"** ONE LAST EFFORT! HOLD IT!!! **"
+	{
+		"chi"		"**最后的机会！把握好！**"
+	}
+	"** Keep going! We should soon reach the surface and see the iced fields of Antartika... **"
+	{
+		"chi"		"**继续前进！我们很快就能达到地面，看到南极洲的冰原... **"
+	}
+	"** Hold the vent! We will move out of this area soon... **"
+	{
+		"chi"		"**守住通风口！我们很快就会离开这个地方... **"
+		"DoorCountdown"		"33"
+	}
+	"** DAMN! The door! HOLD IT! **"
+	{
+		"chi"		"**该死的！有道门！守住！ **"
+	}
+	"** What a harmonic view! It surely makes you feel as nothing but a clumsy dustmote in the universe... **"
+	{
+		"chi"		"**多和谐的景色啊！它无疑让你觉得自己只是宇宙中一个笨拙的尘埃…**"
+		"DoorCountdown"		"15"
+	}
+	"** Cover all entrances! Were nearing our safety! **"
+	{
+		"chi"		"***守住所有入口！我们就快安全了！ **"
+		"DoorCountdown"		"40"
+	}
+	"** RESIST! It wont take much longer to open this door! **"
+	{
+		"chi"		"**守住！打开这门不需要花太长的时间！ **"
+	}
+	"** Keep it up! A few seconds left! **"
+	{
+		"chi"		"**守住！一会就可以走了！ **"
+	}
+	"** We can see the complex below and the sea... **"
+	{
+		"chi"		"**我们可以看到下面的建筑群和大海…**"
+	}
+	"** We need to hold! Well place charges on this bridge for it to blow up! **"
+	{
+		"chi"		"**守住！我们需要炸毁这座桥！ **"
+	}
+	"** The bomb is being planted! Dont let them past the middle of the bridge! *"
+	{
+		"chi"		"**炸弹正在被埋下！不要让他们过桥的中间！ **"
+		"DoorCountdown"		"35"
+	}
+	"** ZOMBIES DETECTED - INVALID VICTORY! **"
+	{
+		"chi"		"**侦测到僵尸 - 通关无效**"
+	}
+	"** CHAPTER 2 COMPLETED - UNLOCKING CHAPTER 3 **"
+	{
+		"chi"		"**第二章完成 - 第三章载入中 **"
+	}
+	"** Chapter III: The womb **"
+	{
+		"chi"		"**第三章：核心 **"
+	}
+	"** We must make our way towards the extraction point. **"
+	{
+		"chi"		"**我们必须朝撤离点赶去. **"
+	}
+	"** Shall we decide our fate at last... **"
+	{
+		"chi"		"**我们最终会决定我们的命运吗…**"
+	}
+	"** We should be able to open these doors... Cover! **"
+	{
+		"chi"		"**我们应该能够打开这些门…守住！ **"
+	}
+	"** Just a tiny bit more! Keep defending! **"
+	{
+		"chi"		"**再守一小会！ **"
+	}
+	"** FALL BACK! THIS IS READY TO GO! OPENING SOON! **"
+	{
+		"chi"		"**撤退！准备走了！门很快打开！ **"
+	}
+	"** OAGH! IT STINKS IN HERE! HOLD YOUR BREATH AND RESIST! **"
+	{
+		"chi"		"**咦！这里很臭！屏住呼吸守住！ **"
+		"DoorCountdown"		"30"
+	}
+	"** The stench is unbearable! Were opening the door as fast as we can - HOLD THEM! **"
+	{
+		"chi"		"**恶臭让人难以忍受！我们尽可能快速的打开大门-守住他们 **"
+	}
+	"** Get close! The door is about to open! **"
+	{
+		"chi"		"**后退！门即将打开！ **"
+	}
+	"** Get moving! We might need to roam the abandoned basements to reach the main warehouse... **"
+	{
+		"chi"		"**走了！我们需要从废弃的地下室进入主仓库… **"
+	}
+	"** This door should lead to one of the abandoned maintenance hallways! HOLD! **"
+	{
+		"chi"		"**这道门通向一个废弃的走廊！守住！ **"
+		"DoorCountdown"		"30"
+	}
+	"** Hold them off! Keep them up the stairs! **"
+	{
+		"chi"		"***阻止他们！让僵尸们爬楼梯！ **"
+	}
+	"** DEFEND FOR THE LAST BIT! ITS ABOUT TO OPEN! **"
+	{
+		"chi"		"**守住这里！门即将打开！ **"
+	}
+	"** This area seems familiar... **"
+	{
+		"chi"		"**这个区域似乎很熟悉……  **"
+		"DoorCountdown"		"22"
+	}
+	"** Were close to the weaponry warehouse we saw during the ascension! **"
+	{
+		"chi"		"**我们正在刚来时看到的武器仓库！ **"
+	}
+	"** Wait for the team to regroup and hold - we will move on then! **"
+	{
+		"chi"		"**守住-我们将继续前进！ **"
+	}
+	"** This door seems to be further locked than the previous ones... **"
+	{
+		"chi"		"**这扇门似乎比之前的更复杂…… **"
+		"DoorCountdown"		"45"
+	}
+	"** RESIST! It might take a while! Cover all entrances! **"
+	{
+		"chi"		"**坚持！门可能需要一段时间打开！守住所有入口！ **"
+	}
+	"** KEEP IT UP! Were making progress! **"
+	{
+		"chi"		"**坚持下去!门即将解锁! **"
+	}
+	"** NEVER GIVE UP! TRUST YOUR INSTINCTS! **"
+	{
+		"chi"		"**不要放弃！相信你的直觉！ **"
+	}
+	"** GO! GO! GO! The door is open! **"
+	{
+		"chi"		"**走！门开了！ **"
+	}
+	"** Were nearing to the extraction point! One last effort! HOLD! **"
+	{
+		"chi"		"**我们正在接近指定地点！ 守住！ **"
+		"DoorCountdown"		"25"
+	}
+	"** KEEP RESISTING! ITS ABOUT TO OPEN! **"
+	{
+		"chi"		"**继续守住！门即将打开！ **"
+	}
+	"** This is the end of the line! RESIST! **"
+	{
+		"chi"		"**这就是终点了！守住！ **"
+		"DoorCountdown"		"32"
+	}
+	"** Our rescue chopper is approaching! Well need to survive until it comes! **"
+	{
+		"chi"		"**我们的救援直升机正在接近！我们需要生存下去直到它来临！**"
+	}
+	"** Nuke inbound - Follow the rescue helicopter for it will take you to safety! **"
+	{
+		"chi"		"**核武器入境-进入救援直升机，因为它会带你到安全区域！ **"
+	}
+	"** HOP IN! We gotta get out of this before the nuke arrives! **"
+	{
+		"chi"		"**跳进去！我们要在核武器到来之前离开这里！ **"
+	}
+	"** LOSING ALTITUDE! KEEP THEM OUT! **"
+	{
+		"chi"		"**守住这里！不要让他们出去！ **"
+	}
+	"** According to our information we should be nearing a maintenance zone... **"
+	{
+		"chi"		"**根据我们的信息来看，我们应该正在接近维修区... **"
+		"DoorCountdown"		"25"
+	}
+	"** CMON IN! We need to go before we become roasted chicken! **"
+	{
+		"chi"		"**快走！我们要在变成烤鸡之前离开！**"
+	}
+	"** CHAPTER 3 COMPLETED - THE END **"
+	{
+		"chi"		"**第三章完成 - 结束**"
+	}
+	"** THE MAP WILL NOW START AGAIN FROM CHAPTER 1 **"
+	{
+		"chi"		"**地图将从第一章开始**"
+	}
+	"** NEXT VERSION MAY INCLUDE A SPECIAL INFILTRATION MODE **"
+	{
+		"chi"		"**下一版本可能包括特殊渗透模式**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"31394"
+	}
+	"** BLIZARD MODE ENABLED **"
+	{
+		"chi"		"**暴风雪模式已载入**"
+	}
+}
