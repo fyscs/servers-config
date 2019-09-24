@@ -1,0 +1,152 @@
+"Console_T"
+{
+	"***Turtle Reactions - Anima Ruins***"
+	{
+		"chi"		"**僵尸逃跑：灵魂废墟  地图汉化：大明**"
+	}
+	"***Stage 1 - Ruins***"
+	{
+		"chi"		"**第一关 - 废墟**"
+	}
+	"*Gate 2 will open in 30 sec*"
+	{
+		"chi"		"**二号大门将在30秒后打开 **"
+		"DoorCountdown"		"30"
+	}
+	"*Gate 2 Opening*"
+	{
+		"chi"		"**二号大门开了 **"
+	}
+	"*Defend here for 20 seconds*"
+	{
+		"chi"		"**在这里守住20秒 **"
+		"DoorCountdown"		"20"
+	}
+	"*10 Seconds to prepare before zombies released*"
+	{
+		"chi"		"**僵尸10秒后来袭**"
+	}
+	"*Survive for 60 seconds, Good Luck*"
+	{
+		"chi"		"**生存60秒，祝你好运 **"
+		"DoorCountdown"		"60"
+	}
+	"*FALL BACK*"
+	{
+		"chi"		"**快溜！**"
+	}
+	"*Zombies released in 20 seconds - Get Ready*"
+	{
+		"chi"		"**僵尸20秒后来袭 - 做好准备**"
+	}
+	"*Defend up here for 40 seconds*"
+	{
+		"chi"		"**在这里守住40秒 **"
+		"DoorCountdown"		"40"
+	}
+	"*RUN! Zombies released in 15 seconds*"
+	{
+		"chi"		"**快溜！僵尸15秒后来袭**"
+	}
+	"*Defend for 30 seconds - DO NOT LET ZOMBIES GET THROUGH*"
+	{
+		"chi"		"**守住30秒 - 不要让僵尸过来 **"
+		"DoorCountdown"		"30"
+	}
+	"***Stage 2 - Within the Ruin***"
+	{
+		"chi"		"**第二关 - 废墟深处**"
+	}
+	"*Defend for 20 seconds*"
+	{
+		"chi"		"**守住20秒 **"
+	}
+	"*Defend here for 30 seconds*"
+	{
+		"chi"		"**在这里守住30秒 **"
+		"DoorCountdown"		"30"
+	}
+	"*Zombies released in 12 seconds*"
+	{
+		"chi"		"**僵尸12秒后来袭**"
+	}
+	"*LASERS AHEAD*"
+	{
+		"chi"		"**前方跳刀**"
+	}
+	"*Gate 1 will open in 30 sec*"
+	{
+		"chi"		"**一号的大门30秒后打开**"
+	}
+	"*Gate 1 Opening*"
+	{
+		"chi"		"**一号大门已打开**"
+	}
+	"*Zombies got through - FAIL ROUND*"
+	{
+		"chi"		"**僵尸进来了 - 回合失败**"
+	}
+	"*Jump down in the middle*"
+	{
+		"chi"		"**从中间往下跳**"
+	}
+	"***ANIMA HAS AWAKEN - GIVE IT ALL YOU HAVE***"
+	{
+		"chi"		"**亡灵苏醒了**"
+	}
+	"*Anima uses LASER*"
+	{
+		"chi"		"**亡灵释放了跳刀**"
+		"ico"		"icon_fire"
+	}
+	"*Anima uses COLLAPSE*"
+	{
+		"chi"		"**亡灵使用了塌陷 **"
+		"ico"		"icon_fire"
+	}
+	"*Anima uses PAIN*"
+	{
+		"chi"		"**亡灵使用了疼痛 **"
+		"ico"		"icon_fire"
+	}
+	"*Half of Animas HP remains*"
+	{
+		"chi"		"**亡灵们还有一半的HP **"
+	}
+	"*Anima uses FORCE*"
+	{
+		"chi"		"**亡灵使用了推力 **"
+		"ico"		"icon_fire"
+	}
+	"*Anima uses DEMISE*"
+	{
+		"chi"		"**亡灵使用了抹除 **"
+		"ico"		"icon_fire"
+	}
+	"*Anima uses Gods Spear*"
+	{
+		"chi"		"**亡灵使用了神矛 **"
+		"ico"		"icon_fire"
+	}
+	"*Anima uses Crystal*"
+	{
+		"chi"		"**亡灵使用了水晶 **"
+		"ico"		"icon_fire"
+	}
+	"*Defend for 30 seconds*"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"*Beat Anima in 3 Mins*"
+	{
+		"chi"		"**你只有180秒击败亡灵**"
+	}
+	"*10 SECONDS REMAINING*"
+	{
+		"chi"		"**还有10秒**"
+	}
+	"*Anima uses OBLIVIONS END*"
+	{
+		"chi"		"**亡灵使用了遗忘终极**"
+	}
+}
