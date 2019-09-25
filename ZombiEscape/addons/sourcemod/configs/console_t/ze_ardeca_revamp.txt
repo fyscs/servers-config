@@ -6,54 +6,261 @@
 	}
 	"Map by Lord. Death. - GFLClan.com"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：Lord.Death. 地图汉化：大明 @风云社**"
 	}
 	"Special Thanks to Luffaren, Onahole & Moltard"
 	{
-		"chi"		"** **"
+		"chi"		"**特别感谢：[Luffaren][Onahole][Moltard]**"
 	}
 	"Turning On music!"
 	{
-		"chi"		"** **"
-	}
-	"Player has picked up the Sword!"
-	{
-		"chi"		"** **"
-	}
-	"Press E to Push Zombies!"
-	{
-		"chi"		"** **"
+		"chi"		"**音乐响起！**"
 	}
 	"Magical Piece of shit moves in 40 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**魔毯在40秒后离开**"
+		"DoorCountdown"		"40"
 	}
 	"Magical Piece of shit moves in 20 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**还有20秒**"
 	}
 	"Magical Piece of shit moves in 5 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"**还有5秒**"
 	}
 	"Player has picked up heal!"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家获得了奶**"
 	}
 	"Press E to heal your teammates!"
 	{
-		"chi"		"** **"
+		"chi"		"**按E治愈你附近的人类**"
+	}
+	"Teleporting Zombies...."
+	{
+		"chi"		"**正在传送僵尸...**"
 	}
 	"White Spider Door Opens in 20 Second"
 	{
-		"chi"		"** **"
+		"chi"		"**白色蜘蛛门20秒后打开 **"
 	}
 	"Red Spider Door Closes in 20 Second"
 	{
-		"chi"		"** **"
+		"chi"		"**红色蜘蛛门20秒后关闭**"
 	}
 	"Zombies are coming in sec!"
 	{
+		"chi"		"**僵尸马上来袭！**"
+	}
+	"Teleport Active in 25 Seconds!"
+	{
+		"chi"		"**传送在25秒后激活**"
+	}
+	"Teleport Active in 5 Seconds"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"Teleporting Zombies..."
+	{
+		"chi"		"**正在传送僵尸...**"
+	}
+	"Door opens in 35 Seconds!"
+	{
+		"chi"		"**门35秒后打开**"
+	}
+	"Door Closes in 10 Seconds"
+	{
+		"chi"		"**门10秒后关闭**"
+	}
+	"Oh no! Its bb! Kill him before he kills us"
+	{
+		"chi"		"**是bb！废了它**"
+	}
+	"Boss is Defeated!"
+	{
+		"chi"		"**bb去世了**"
+	}
+	"Teleporting Humans"
+	{
+		"chi"		"**传送人类**"
+	}
+	"Zombies are coming in 3 Seconds!"
+	{
+		"chi"		"**僵尸3秒后来袭**"
+	}
+	"Hold for 40 Seconds!"
+	{
+		"chi"		"**守住40秒**"
+	}
+	"5 Seconds Left!"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"Way is open! Teleporting the delaying fags in 8 secs!"
+	{
+		"chi"		"**道路可通！8秒后传送落后的基佬们**"
+	}
+	"Teleporting Zombies"
+	{
+		"chi"		"**传送了**"
+	}
+	"Survive Here for 60 Seconds to win"
+	{
+		"chi"		"**找个好地方生存60秒就行了**"
+		"DoorCountdown"		"60"
+	}
+	"Teleporting Zombies in 20 Seconds!"
+	{
+		"chi"		"**僵尸20秒后传送**"
+	}
+	"Teleporting Zombies to the Magic Portal!"
+	{
+		"chi"		"**僵尸传送到魔法门了**"
+	}
+	"Player has picked up the Sword!"
+	{
+		"chi"		"**一名玩家获得了宝剑**"
+	}
+	"Press E to Push Zombies!"
+	{
+		"chi"		"**按E使用推走前方的僵尸**"
+	}
+	"###$$$%%%LEVEL 2%%%$$$###"
+	{
 		"chi"		"** **"
+	}
+	"a player picked up the fan!"
+	{
+		"chi"		"**一名玩家获得了扇子**"
+	}
+	"Survive Here for 80 Seconds to win"
+	{
+		"chi"		"**找个好地方生存80秒就行了**"
+		"DoorCountdown"		"80"
+	}
+	"###$$$%%%LEVEL 3%%%$$$###"
+	{
+		"chi"		"** **"
+	}
+	"Special thanks to mojo for the lava texture"
+	{
+		"chi"		"**特别感谢：[mojo]**"
+	}
+	"Elevator will leave in 30 Seconds!"
+	{
+		"chi"		"**电梯30秒后离开**"
+	}
+	"10 seconds left"
+	{
+		"chi"		"**还有10秒**"
+	}
+	"Boss Fight in 10 Sec"
+	{
+		"chi"		"**boss战10秒后开始**"
+	}
+	"The Boss is Dead! Teleporting humans in 5 Seconds!"
+	{
+		"chi"		"**boss去世了！5秒后传送人类**"
+	}
+	"Teleporting Zombies in 5 Seconds!"
+	{
+		"chi"		"**5秒后传送僵尸**"
+	}
+	"Hold here for 30 Seconds!"
+	{
+		"chi"		"**守住这里30秒**"
+	}
+	"Okay, Keep holding for another 30 Seconds!"
+	{
+		"chi"		"**好吧，再守30秒**"
+	}
+	"Survive here for 30 Seconds!"
+	{
+		"chi"		"**生存30秒**"
+	}
+	"Teleport Active in 5 Seconds!"
+	{
+		"chi"		"**5秒后激活传送**"
+	}
+	"###$$$%%%LEVEL 4%%%$$$###"
+	{
+		"chi"		"** **"
+	}
+	"Fall Back! Throwing Overdeffenders in the lava in 10 sec"
+	{
+		"chi"		"**快溜！还有10秒**"
+	}
+	"You have 3 minutes to kill majin boo!"
+	{
+		"chi"		"**你有180秒来打败魔人布欧**"
+	}
+	"You have 2 minutes left!"
+	{
+		"chi"		"**你有120秒来打败魔人布欧**"
+	}
+	"You have 1 minute left!"
+	{
+		"chi"		"**还有60秒**"
+	}
+	"###$$$%%%LEVEL 5%%%$$$###"
+	{
+		"chi"		"** **"
+	}
+	"MUDA MUDA MUDA MUDA MUDA MUDA"
+	{
+		"chi"		"**木大木大木大木大**"
+	}
+	"MUDA MUDA MUDA MUDA MUDA"
+	{
+		"chi"		"**木大木大木大**"
+	}
+	"MUDA MUDA MUDA MUDA"
+	{
+		"chi"		"**木大木大**"
+	}
+	"MUDA MUDA MUDA"
+	{
+		"chi"		"**木大木大**"
+	}
+	"OH MY GOD!!!!!"
+	{
+		"chi"		"**哦卖嘎**"
+	}
+	"OH MY GOD!!!!! OH SHIT!!! OH NO!!!!"
+	{
+		"chi"		"**哦卖嘎！哦希尔特！哦不**"
+	}
+	"OH NO OH MY GOD OH SHIT"
+	{
+		"chi"		"**XXXXX**"
+	}
+	"BROKEN BB_IU AAAAAAAAAAAAAAAA"
+	{
+		"chi"		"** **"
+	}
+	"This door might open in 25 Sec"
+	{
+		"chi"		"**这扇门25秒后可能会打开**"
+	}
+	"This door might open in 5 sec"
+	{
+		"chi"		"**还有5秒**"
+	}
+	"Shrine Door opens in 40 Seconds!"
+	{
+		"chi"		"**神殿门40秒后打开**"
+	}
+	"Shrine Door opens in 20 Seconds!"
+	{
+		"chi"		"**还有20秒**"
+	}
+	"Shrine Door opens in 3 Seconds"
+	{
+		"chi"		"**还有3秒**"
+	}
+	"Right side is triggered! Path opens in 10 sec"
+	{
+		"chi"		"**右侧触发！道路10秒后可通**"
 	}
 }
