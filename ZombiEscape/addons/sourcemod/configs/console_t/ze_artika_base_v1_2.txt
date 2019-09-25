@@ -1,0 +1,113 @@
+"Console_T"
+{
+	"### MAP CREATED BY CISNEROS ###"
+	{
+		"chi"		"**地图作者：CISNEROS  地图汉化：大明**"
+	}
+	"### WELCOME TO ARTIKA BASE ###"
+	{
+		"chi"		"**欢迎来到神秘基地 **"
+	}
+	"### Objetive: Run for your life ###"
+	{
+		"chi"		"**目标：为保住你的性命-快跑**"
+	}
+	"### The elevator will leave in 25 seconds ###"
+	{
+		"chi"		"**电梯25秒后离开 **"
+		"DoorCountdown"		"25"
+	}
+	"### The door will open soon ###"
+	{
+		"chi"		"**门快开了**"
+		"DoorCountdown"		"-1"
+	}
+	"### The door will open in 10 seconds ###"
+	{
+		"chi"		"**门10秒后打开**"
+		"DoorCountdown"		"10"
+	}
+	"### The elevator will leave in 15 sec ###"
+	{
+		"chi"		"**电梯15秒后离开 **"
+		"DoorCountdown"		"15"
+	}
+	"### The door will open in 25 seconds ###"
+	{
+		"chi"		"**门25秒后打开 **"
+		"DoorCountdown"		"25"
+	}
+	"### Hold this position ###"
+	{
+		"chi"		"**守住这里**"
+	}
+	"### The door will open soon###"
+	{
+		"chi"		"**门很快开了**"
+	}
+	"### The door is open ###"
+	{
+		"chi"		"**门开了**"
+	}
+	"### The door will open in 40 seconds ###"
+	{
+		"chi"		"**门40秒后打开**"
+		"DoorCountdown"		"40"
+	}
+	"### Hold this position! ###"
+	{
+		"chi"		"**守住这里**"
+	}
+	"### The door will open in 5 seconds ###"
+	{
+		"chi"		"**门5秒后打开**"
+	}
+	"### The door will open in 20 seconds ###"
+	{
+		"chi"		"**门20秒后打开**"
+		"DoorCountdown"		"20"
+	}
+	"### The tram will leave in 25 seconds ###"
+	{
+		"chi"		"**电车25秒后离开**"
+		"DoorCountdown"		"25"
+	}
+	"### The tram will leave in 5 seconds ###"
+	{
+		"chi"		"**电车5秒后离开**"
+	}
+	"### Hold this place! ###"
+	{
+		"chi"		"**守住这里**"
+	}
+	"### The elevator will leave in 35 seconds ###"
+	{
+		"chi"		"**电梯35秒后离开**"
+		"DoorCountdown"		"35"
+	}
+	"### The elevator will leave in 5 seconds ###"
+	{
+		"chi"		"**电梯5秒后离开**"
+	}
+	"### The final door will open in 50 seconds ###"
+	{
+		"chi"		"**最后一道门将在50秒后打开**"
+		"DoorCountdown"		"50"
+	}
+	"### The final door will open in 10 seconds ###"
+	{
+		"chi"		"**最后一道门将在10秒后打开**"
+	}
+	"### The final door will close in 10 seconds ###"
+	{
+		"chi"		"**最后一道门将在10秒后关闭**"
+	}
+	"### The ship is coming ###"
+	{
+		"chi"		"**船来了**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"20451"
+	}
+}
