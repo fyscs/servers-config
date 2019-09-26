@@ -2,58 +2,72 @@
 {
 	"**** MAP BY AERIS_004 ****"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：AERIS_004  地图汉化：大明**"
+		"command"		"sv_airaccelerate 12"
 	}
-	"***WWW.SUPREME-ELITE.FR ***"
+	"*** WWW.SUPREME-ELITE.FR ***"
 	{
 		"chi"		"** **"
 	}
 	"***START ELEVATOR 15 SEC***"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯15s后下降**"
 	}
 	"***ELEVATOR UP 14 SEC***"
 	{
-		"chi"		"** **"
+		"chi"		"**桥14s后上升 **"
 	}
 	"*** CATCH GOLD MEDAL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**金币已拾取**"
 	}
 	"***GENERATOR DESACTIVED***"
 	{
-		"chi"		"** **"
+		"chi"		"**发电机未激活**"
 	}
 	"***CATCH FUSE***"
 	{
-		"chi"		"** **"
+		"chi"		"**保险丝已拾取**"
 	}
 	"***CATCH SILVER MEDAL***"
+	{
+		"chi"		"**银币已拾取**"
+	}
+	"*** START TRAIN 20 SEC ***"
+	{
+		"chi"		"**电车20s后运行**"
+	}
+	"*** START TRAIN 10 SEC ***"
+	{
+		"chi"		"**电车10s后运行**"
+	}
+	"***START ELEVATOR 25 SEC***"
+	{
+		"chi"		"**升降梯25s后运行**"
+		"command"		"sv_airaccelerate 12"
+	}
+	"*** GAS ACTIVATED 40 SEC ***"
+	{
+		"chi"		"**毒气40s后释放**"
+	}
+	"sync_version"
+	{
+		"syncvalue"		"31947"
+	}
+	"MapGlobal_ConVars"
+	{
+		"0"
+		{
+			"cvar"		"zr_poison_enabled  0"
+		}
+	}
+	"***WWW.SUPREME-ELITE.FR ***"
 	{
 		"chi"		"** **"
 	}
 	"***START TRAIN 20 SEC ***"
 	{
-		"chi"		"** **"
-	}
-	"*** START TRAIN 10 SEC ***"
-	{
-		"chi"		"** **"
-	}
-	"***START ELEVATOR 25 SEC***"
-	{
-		"chi"		"** **"
-	}
-	"*** GAS ACTIVATED 40 SEC ***"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"** **"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"** **"
+		"chi"		"**电车20s后启动 **"
+		"command"		"sv_airaccelerate 1"
 	}
 }
