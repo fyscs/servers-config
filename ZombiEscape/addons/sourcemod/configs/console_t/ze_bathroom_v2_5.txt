@@ -1,131 +1,150 @@
 "Console_T"
 {
+	"|Admin Room|***Admin has changed difficulty to LEVEL 2 ***"
+	{
+		"chi"		"**管理员选择了第二关**"
+	}
+	"|Admin Room| *** ADMIN SLAYING EVERYONE ***"
+	{
+		"chi"		"**管理员处死所有人**"
+	}
 	"Map made by Puklica & Cuniczek"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者:[Puklica][Cuniczek]  地图汉化:大明**"
 	}
 	">>> |LEVEL 1| <<<"
 	{
-		"chi"		"** **"
-	}
-	"Mouse trap has been picked up."
-	{
-		"chi"		"** **"
+		"chi"		"**第一关**"
 	}
 	"Sponge builder has been picked up."
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家获得了海绵墙**"
 	}
-	"We'll have to roll down the toilet paper to safely climb down."
+	"Mouse trap has been picked up."
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家获得了捕鼠夹**"
+	}
+	"Well have to roll down the toilet paper to safely climb down."
+	{
+		"chi"		"**等待卷纸下降**"
 	}
 	"Toilet paper has been rolled down. Fall back!"
 	{
-		"chi"		"** **"
+		"chi"		"**卷纸已经降到地面了.老司机提醒您赶快溜！**"
 	}
 	"Hold for 15 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**守住15秒**"
+		"DoorCountdown"		"15"
 	}
 	"Resist for 25 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**坚守30秒**"
+		"DoorCountdown"		"30"
 	}
 	"Resist for 20 seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**再守25秒**"
+		"DoorCountdown"		"25"
 	}
 	"Hold here until something happens!"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里！**"
 	}
 	"The path is blocked. Fall back!"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸过不来了.快走！**"
 	}
 	"The Rubber Duck has been defeated."
 	{
-		"chi"		"** **"
+		"chi"		"**小黄鸭去世了**"
 	}
 	"You have won first level!"
 	{
-		"chi"		"** **"
+		"chi"		"**第一关通过！**"
 	}
 	">>> |LEVEL 2| <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**第二关**"
 	}
 	"Resist until the wall breaks."
 	{
-		"chi"		"** **"
+		"chi"		"**守住僵尸直到墙壁破碎**"
 	}
 	"Fall back!"
 	{
-		"chi"		"** **"
+		"chi"		"**老司机提醒您赶快溜！**"
 	}
 	"We have to clear the soap out of the way to be able to climb up."
 	{
-		"chi"		"** **"
+		"chi"		"**推开肥皂后爬上梳子撤退**"
 	}
 	"The path has been cleared."
 	{
-		"chi"		"** **"
+		"chi"		"**可以溜了！**"
 	}
-	"We'll have to jump outside and walk across the mirror."
+	"Well have to jump outside and walk across the mirror."
 	{
-		"chi"		"** **"
+		"chi"		"**从洞口出去经过镜子到达对面壁橱**"
 	}
 	"Hold on for a few seconds."
 	{
-		"chi"		"** **"
+		"chi"		"**再守一会**"
 	}
 	"We can use the hairdryer to reach the shelf!"
 	{
-		"chi"		"** **"
+		"chi"		"**利用吹风机的风力可以到达对面台子上**"
 	}
 	"Seems like there is no way to escape."
 	{
-		"chi"		"** **"
+		"chi"		"**前方无路可走了...**"
 	}
-	"That's it! Break the shelf support."
+	"Thats it! Break the shelf support."
 	{
-		"chi"		"** **"
+		"chi"		"**把支撑玻璃台的架子打碎.**"
 	}
 	"We are trapped! Resist!"
 	{
-		"chi"		"** **"
+		"chi"		"**我们被困住了！守住28秒**"
+		"DoorCountdown"		"28"
 	}
 	"Fall back we can walk across the door."
 	{
-		"chi"		"** **"
+		"chi"		"**往后退.我们可以从门上过去**"
+		"DoorCountdown"		"30"
 	}
 	"There is no way around."
 	{
-		"chi"		"** **"
+		"chi"		"**前面是死路！**"
 	}
-	"We'll have to enter the boiler. Resist!"
+	"Well have to enter the boiler. Resist!"
 	{
-		"chi"		"** **"
+		"chi"		"**我们得从热水器撤离.守住25秒！**"
+		"DoorCountdown"		"25"
 	}
 	"We can enter through that hole! Fall back!"
 	{
-		"chi"		"** **"
+		"chi"		"**跳入热水器的缺口！**"
 	}
 	"The sponge has been defeated! Run!"
 	{
-		"chi"		"** **"
+		"chi"		"**海绵去世了！快溜！**"
 	}
 	"Final doors are going to close in 30 seconds! Resist!"
 	{
-		"chi"		"** **"
+		"chi"		"**最后的大门30秒后关闭，守住僵尸！**"
+		"DoorCountdown"		"30"
+	}
+	"You have won the map! Congratulations!"
+	{
+		"chi"		"**恭喜！你通过了本地图！**"
 	}
 	"Kill all zombies inside!"
 	{
-		"chi"		"** **"
+		"chi"		"**处理剩余的僵尸！**"
 	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
+	"The server is about to close the update ,Please update your game"
 	{
-		"chi"		"** **"
+		"chi"		"**服务器即将关闭，请更新你的游戏**"
 	}
 }
