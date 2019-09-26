@@ -1,0 +1,12 @@
+"Console_T"
+{
+	"* * * Speed boat leaving in 6s * * *"
+	{
+		"chi"		"**快艇6秒后离开**"
+	}
+	"* * * Hold this temple untill Steve does something * * *"
+	{
+		"chi"		"**守住这个地方等待中间洞口打开**"
+		"DoorCountdown"		"90"
+	}
+}
