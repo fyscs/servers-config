@@ -2,13 +2,11 @@
 {
 	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
 	{
-		"command"		"zr_class_modify humans health 300"
 		"chi"		"**距离岩石墙碎裂还有15秒**"
 		"DoorCountDown"		"15"
 	}
 	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
 	{
-		"command"		"zr_class_modify zombies health 8000"
 		"chi"		"**距离岩石墙碎裂还有5秒**"
 	}
 	"***FALL BACK***"
@@ -984,6 +982,7 @@
 	"***THIS.. IS THE TRUTH***"
 	{
 		"chi"		"**这才是真相**"
+        "command"   "szw_enabled"
 	}
 	"***SOCRATES IS JUDGING YOU***"
 	{
@@ -1184,6 +1183,7 @@
 	"***YOU WILL BE REMEMBERED AS CHAMPIONS***"
 	{
 		"chi"		"**你会被铭记**"
+        "command"		"szw_disable"
 	}
 	"***THE END***"
 	{
