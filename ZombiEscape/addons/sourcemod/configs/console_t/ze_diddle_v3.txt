@@ -1,0 +1,992 @@
+"Console_T"
+{
+	"***WARMUP***"
+	{
+		"chi"		"** 热身局 **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 60 SECONDS***"
+	{
+		"chi"		"** 热身将在60秒后结束 **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 30 SECONDS***"
+	{
+		"chi"		"** 热身将在30秒后结束 **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 20 SECONDS***"
+	{
+		"chi"		"** 热身将在20秒后结束 **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 10 SECONDS***"
+	{
+		"chi"		"** 热身将在10秒后结束 **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 5 SECONDS***"
+	{
+		"chi"		"** 热身将在5秒后结束 **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 4 SECONDS***"
+	{
+        "blocked"   "1"
+		"chi"		"** **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 3 SECONDS***"
+	{
+        "blocked"   "1"
+		"chi"		"** **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 2 SECONDS***"
+	{
+        "blocked"   "1"
+		"chi"		"** **"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 1 SECOND***"
+	{
+        "blocked"   "1"
+		"chi"		"** **"
+	}
+	"***HAPPY DIDDLING***"
+	{
+		"chi"		"** 欢迎来到DIDDLING世界 **"
+	}
+	"*****ROUND END*****"
+	{
+		"chi"		"** 回合结束 **"
+	}
+	"<== All soldiers get out the ship and forward!"
+	{
+		"chi"		"** 冲锋号响起, 赶紧冲冲冲 **"
+	}
+	"<== You must find the bomb to open the way"
+	{
+		"chi"		"** 你需要先找到雷管来炸开前进的路 **"
+	}
+	"<== Get 6 !  ==>"
+	{
+		"chi"		"** 发现第⑥个 **"
+	}
+	"<== Get 4 !  ==>"
+	{
+		"chi"		"** 发现第④个 **"
+	}
+	"<== Get 3 !  ==>"
+	{
+		"chi"		"** 发现第③个 **"
+	}
+	"<== Get 2 !  ==>"
+	{
+		"chi"		"** 发现第②个 **"
+	}
+	"<== Get 5 !  ==>"
+	{
+		"chi"		"** 发现第⑤个 **"
+	}
+	"<== Get 1 !  ==>"
+	{
+		"chi"		"** 发现第①个 **"
+	}
+	"<== Bomb explosion in 30second ==>"
+	{
+		"chi"		"** 炸弹30秒后BOOM **"
+	}
+	"<== Bomb explosionin 15 second ==>"
+	{
+        "blocked"   "1"
+		"chi"		"** **"
+	}
+	"<== Bomb explosion in 10 second ==>"
+	{
+        "blocked"   "1"
+		"chi"		"** **"
+	}
+	"<== Wait 25 second to go to heilcopter==>"
+	{
+		"chi"		"** 等待25秒后可以上飞机跑路 **"
+	}
+	"<==Get in the helicopter and out in 80s ==>"
+	{
+		"chi"		"** 上飞机然后守住80秒 **"
+	}
+	"<==helicopter fly out in 30s ==>"
+	{
+		"chi"		"** 飞机30秒后起飞 **"
+	}
+	"<==helicopter fly out in 15s ==>"
+	{
+        "blocked"   "1"
+		"chi"		"** **"
+	}
+	"<==helicopter fly out in 5s ==>"
+	{
+        "blocked"   "1"
+		"chi"		"** **"
+	}
+	"<==heilcopter fly out now! ==>"
+	{
+		"chi"		"** 飞机起飞... **"
+	}
+	"***FIND YOUR LOVE***"
+	{
+		"chi"		"** 恭喜你, 你找到真爱了~ **"
+	}
+	"*You are stuck inside Turtle Reaction's Computer - Try to escape this place*"
+	{
+		"chi"		"** 哦豁, 你中奖了! **"
+	}
+	"defend"
+	{
+		"chi"		"** 守住这里 **"
+	}
+	"*boss fight imminent*"
+	{
+		"chi"		"** BOSS战 - 打地鼠 **"
+	}
+	"*get in the hole*"
+	{
+		"chi"		"** 进到洞里 **"
+	}
+	"oooh... look at those cute digletts"
+	{
+		"chi"		"** 看看那些可爱的地鼠 **"
+	}
+	"defend here untill the wall breaks"
+	{
+		"chi"		"** 守住这里等到墙碎 **"
+	}
+	"hold 15sec"
+	{
+		"chi"		"** 守住15秒 **"
+	}
+	"go..."
+	{
+		"chi"		"** 憨批, 快跑了 **"
+	}
+	"shoot the floor"
+	{
+		"chi"		"** 射爆这地板 **"
+	}
+	"!!shoot the zombies to the side!!"
+	{
+		"chi"		"** 射爆这些僵尸 **"
+	}
+	"hold here"
+	{
+		"chi"		"** 守住这里 **"
+	}
+	"*Pull attack*"
+	{
+        "blocked"   "1"
+		"chi"		"** **"
+	}
+	"*The digletts died*"
+	{
+		"chi"		"** 这玩意嗝屁了 **"
+	}
+	"now defend untill the door is fully opened"
+	{
+		"chi"		"** 守住这里直到门完全打开 **"
+	}
+	"**kill the diglett**"
+	{
+		"chi"		"** 淦死这些东西 **"
+	}
+	"**laser attack**"
+	{
+		"chi"		"** laser attack **"
+	}
+	"**the diglett is dead**"
+	{
+		"chi"		"** 这玩意嗝屁了 **"
+	}
+	"hold this room for 20 sec"
+	{
+		"chi"		"** 守住房间20秒 **"
+	}
+	"the main door is stuck"
+	{
+		"chi"		"** 主门被卡住了 **"
+	}
+	"wait until we find another way"
+	{
+		"chi"		"** 我们需要找到其他方法 **"
+	}
+	"we found a secret entrance"
+	{
+		"chi"		"** 我们发现了一个狗洞 **"
+	}
+	"go in"
+	{
+		"chi"		"** 进去 **"
+	}
+	"wait for the doors to open"
+	{
+		"chi"		"** 等待门开 **"
+	}
+	"wait for the right door to open"
+	{
+		"chi"		"** 等待正确的门开启 **"
+	}
+	"DADDY OOOOH YEAH DADDY LICK MY NIPPLES"
+	{
+		"chi"		"** (_和谐内容_) **"
+	}
+	"i love you"
+	{
+		"chi"		"** 宝贝, 我爱你 **"
+	}
+	"wait for the door to open"
+	{
+		"chi"		"** 等待门开 **"
+	}
+	"defend for 30 sec"
+	{
+		"chi"		"** 守住这里30秒 **"
+	}
+	"the wall.. quick"
+	{
+		"chi"		"** GKD **"
+	}
+	"defend for 20 sec"
+	{
+		"chi"		"** 守住这里20秒 **"
+	}
+	"wait for the finall wall to break"
+	{
+		"chi"		"** 这是最后一堵墙了 **"
+	}
+	"defend for 10 sec"
+	{
+		"chi"		"** 再守10秒 **"
+	}
+	"alright let's fight that dicklett"
+	{
+		"chi"		"** OK, 淦死它们 **"
+	}
+	"**jizz attack right**"
+	{
+		"chi"		"** Jizz攻击 → **"
+	}
+	"***YOU TOOK TOO LONG - NUKING HUMANS***"
+	{
+		"chi"		"** 你离得太远了, 核爆了... **"
+	}
+	"**jizz attack left**"
+	{
+		"chi"		"** Jizz攻击 ← **"
+	}
+	"**jizz attack mid**"
+	{
+		"chi"		"** Jizz攻击 ○ **"
+	}
+	"**fart attack**"
+	{
+		"chi"		"** 这地鼠居然放屁了 **"
+	}
+	"**stomp attack**"
+	{
+		"chi"		"** 注意地面攻击 **"
+	}
+	"***PICK UP THE TORCHES AND BURN ALL WEEBS***"
+	{
+		"chi"		"** FFF团万岁 **"
+	}
+	"***HURRY, BEFORE WEEBLAND INVADES US***"
+	{
+		"chi"		"** GKD **"
+	}
+	"***THE TORCHES BURNS AND PUSHES ZOMBIES***"
+	{
+		"chi"		"** 点燃火把并推离这些僵尸 **"
+	}
+	"***ALSO USE THE TORCHES TO LIGHT HOUSES***"
+	{
+		"chi"		"** 用火把照亮这些房子 **"
+	}
+	"***ZOMBIES ARE TELEPORTING IN 15 SECONDS***"
+	{
+		"chi"		"** 僵尸15s后传送 **"
+	}
+	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:20 MINUTES)***"
+	{
+		"chi"		"** 如果你花费太多时间你会被丢出去 **"
+	}
+	"***BURN ALL 10 HOUSES AND SHOOT ALL 5 WEEBS TO TELEPORT OUT EARLIER***"
+	{
+		"chi"		"** FFF团烧了这10个房子, 社保这5个玩意就可以提前出去 **"
+	}
+	"***ZOMBIES ARE TELEPORTING IN 10 SECONDS***"
+	{
+		"chi"		"** 僵尸10s后传送 **"
+	}
+	"***ZOMBIES ARE TELEPORTING IN 5 SECONDS***"
+	{
+		"chi"		"** 僵尸5s后传送 **"
+	}
+	"***ZOMBIES ARE TELEPORTING***"
+	{
+		"chi"		"** 来了, 它们来了 **"
+	}
+	"***SKIP STAGE - SHREK***"
+	{
+		"chi"		"** **"
+	}
+	"***SKIP STAGE - TURTLE***"
+	{
+		"chi"		"** **"
+	}
+	"***SKIP STAGE - DDAY***"
+	{
+		"chi"		"** **"
+	}
+	"**the dicklett has been killed**"
+	{
+		"chi"		"** 这地鼠被你淦死了 **"
+	}
+	"Run towards the back exit"
+	{
+		"chi"		"** 出口在后面 **"
+	}
+	"defend 'till the door's been fully opened"
+	{
+		"chi"		"** 守住这里等到门完全打开 **"
+	}
+	"***Kill the final boss***"
+	{
+		"chi"		"** 鲨了这最终boss **"
+	}
+	"***laser attack***"
+	{
+		"chi"		"** laser attack **"
+	}
+	"***ALL COINS BUTTON PRESSED***"
+	{
+		"chi"		"** **"
+	}
+	"|====<YOU HAVE GATHERED ALL THE DIDDLE COINS>====|"
+	{
+		"chi"		"** 你捡起了全部的金币 **"
+	}
+	"|====<YOU ARE RICH AND PROUD, AND SHALL THEREFORE REACH GREATER HEIGHTS>====|"
+	{
+		"chi"		"** nb666 **"
+	}
+	"***SKIPPING DIRECTLY TO FINALE***"
+	{
+		"chi"		"** **"
+	}
+	"|====<PREPARE FOR THE ULTIMATE DIDDLING>====|"
+	{
+		"chi"		"** 准备最终的DIDDLING **"
+	}
+	"***KILL BUTTON PRESSED***"
+	{
+		"chi"		"** **"
+	}
+	"***I'M RICK HARRISON, AND THIS IS MY PAWN SHOP***"
+	{
+		"chi"		"** 我是沙雕憨批Rick, 这里是我的当铺 **"
+	}
+	"***DUE TO HUGE ITEM DEMAND WE CAN ONLY LET ONE PERSON IN AT A TIME***"
+	{
+		"chi"		"** 每次只能一个人进到我店里来 **"
+	}
+	"***LINE UP AND KEEP HUGGING THE DOOR FOR A CHANCE TO GET INSIDE***"
+	{
+		"chi"		"** 贴门排好队, 一个一个进去 **"
+	}
+	"***IFWHEN YOU GET INSIDE YOU'LL HAVE 10 SECONDS TO BUY SOMETHING***"
+	{
+		"chi"		"** 你只有十秒的时间来买东西 **"
+	}
+	"***PURCHASED - SMALL DICK***"
+	{
+		"chi"		"** 消防栓 - 已被购买 **"
+	}
+	"***PURCHASED - BIG DICK***"
+	{
+		"chi"		"** 车轮滚滚 - 已被购买 **"
+	}
+	"***ZOMBIES TELEPORT IN 15 SECONDS***"
+	{
+		"chi"		"** 僵尸15s后传送 **"
+	}
+	"***ZOMBIES TELEPORT IN 10 SECONDS***"
+	{
+		"chi"		"** 僵尸10s后传送 **"
+	}
+	"***ZOMBIES TELEPORT IN 5 SECONDS***"
+	{
+		"chi"		"** 僵尸5s后传送 **"
+	}
+	"***ZOMBIES TELEPORTING***"
+	{
+		"chi"		"** 来了, 它们来了 **"
+	}
+	"***DEFEND FOR 20 SECONDS***"
+	{
+		"chi"		"** 守住20秒 **"
+	}
+	"***5 SECONDS LEFT***"
+	{
+		"chi"		"** 5 **"
+	}
+	"***FALL BACK***"
+	{
+		"chi"		"** 快溜 **"
+	}
+	"***SHOOT AT THE BASE OF THE ARMS***"
+	{
+		"chi"		"** 射爆这些触手根部 **"
+	}
+	"***SKIP STAGE - DIGLETT***"
+	{
+		"chi"		"** **"
+	}
+	"***SKIP STAGE - WEEB***"
+	{
+		"chi"		"** **"
+	}
+	"***RESETTING THE MAP***"
+	{
+		"chi"		"** **"
+	}
+	"***PURCHASED - DISCO PUSH***"
+	{
+		"chi"		"** **"
+	}
+	"***PURCHASED - DIDDLE CANNON***"
+	{
+		"chi"		"** **"
+	}
+	"***PURCHASED - LEGENDARY GUARDIAN***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS ELEVATOR WILL LEAVE ONCE THE OTHER PATH HAS BEEN FINISHED***"
+	{
+		"chi"		"** 这电梯将在另一路人搞定之后离开 **"
+	}
+	"***STAND YOUR GROUND UNTIL THEN***"
+	{
+		"chi"		"** 不懂装懂. **"
+	}
+	"***BE STRONG FOR DADDY***"
+	{
+		"chi"		"** BE STRONG FOR DADDY **"
+	}
+	"***DEFEND FOR 50 SECONDS***"
+	{
+		"chi"		"** 守住50s **"
+	}
+	"***30 SECONDS LEFT***"
+	{
+		"chi"		"** 30s剩余 **"
+	}
+	"***JUMP INSIDE THE DOODLE DOODY***"
+	{
+		"chi"		"** 跳到涂鸦中 **"
+	}
+	"***THE BOOBLE JOOBLE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE BABY MACHINE***"
+	{
+		"chi"		"** **"
+	}
+	"***15 SECONDS LEFT***"
+	{
+		"chi"		"** 15秒剩余 **"
+	}
+	"***WELCOME TO THE VAGINA***"
+	{
+		"chi"		"** 欢迎来到(_和谐_)道 **"
+	}
+	"***A VAGINA IS WELCOMED***"
+	{
+		"chi"		"** (_和谐_)道人民欢迎你 **"
+	}
+	"***10 SECONDS LEFT***"
+	{
+		"chi"		"** 10秒剩余 **"
+	}
+	"***A VAGINA IS BOOBLY***"
+	{
+		"chi"		"** BOOBLY **"
+	}
+	"***A VAGINA IS NEAT***"
+	{
+		"chi"		"** NEAT **"
+	}
+	"***A VAGINA IS GOOD***"
+	{
+		"chi"		"** GOOD **"
+	}
+	"***A VAGINA RUNS 78 MILES PER DAY ON AVERAGE***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA INCLUDES CHILD SUPPORT***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS WARM***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS AFRAID OF CLOWNS***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS MUSHY***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS IN ALL OF US***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA DOES NOT WANT TO PLAY ANYMORE***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS DANGEROUS***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA CALLS TO US***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS ALLERGIC TO DICKERY***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA IS FILLED WITH TEETH***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA DIDDLES US***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA HELPS THE POOR***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA DOODLES US***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA OPENS FOR YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA FOR EVERY SANTA CLAUS***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA EATS PIZZA DAILY***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA CAN BE BOUGHT***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA CAN FART***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA CAN BE SOLD***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA RUNS AROUND THE PRIZE OF 40$***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA GIVES BIRTH TO GOOD PEOPLE***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA GIVES BIRTH TO BAD PEOPLE***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA MUST FOLLOW THE LAWS OF PHYSICS***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA CANNOT JUMP WITHOUT LEG FRIENDS***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA USUALLY CAUSES SMOKING***"
+	{
+		"chi"		"** **"
+	}
+	"***A VAGINA WANTS TO SPIT YOU OUT***"
+	{
+		"chi"		"** **"
+	}
+	"***THANK YOU FOR PARTICIPATING IN THIS SEX-ED CLASS***"
+	{
+		"chi"		"** **"
+	}
+	"***NOW GO OUT THERE AND DIDDLE EACH OTHER***"
+	{
+		"chi"		"** **"
+	}
+	"***DADDY IS PROUD OF YOU***"
+	{
+		"chi"		"** **"
+	}
+	"father"
+	{
+		"chi"		"** **"
+	}
+	"***GET DIDDLING***"
+	{
+		"chi"		"** **"
+	}
+	"***YA DOODLERS***"
+	{
+		"chi"		"** **"
+	}
+	"***RIP MY POODLE APART***"
+	{
+		"chi"		"** **"
+	}
+	"fist me"
+	{
+		"chi"		"** **"
+	}
+	"***THIS GATE SHALL OPEN IN 40 HUMAN SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***YEE BETTER GET INSIDE, FELLAS***"
+	{
+		"chi"		"** **"
+	}
+	"***IF YOU ENJOY THE FEELING OF BEING LEFT OUT...***"
+	{
+		"chi"		"** **"
+	}
+	"***..THEN DON'T GET INSIDE***"
+	{
+		"chi"		"** **"
+	}
+	"***JUST STAY THERE AND CRY***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS GATE SHALL OPEN IN 5 HUMAN SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***1 LIKE = ONE PRAYER FOR JEBUS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FETUS WANTS YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS GATE SHALL BE OPENING RIGHT NOW***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FETUS NEEDS NUTRITION***"
+	{
+		"chi"		"** **"
+	}
+	"***FALL BACK, FELLOW HUMANS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE FETUS NEEDS YOU***"
+	{
+		"chi"		"** **"
+	}
+	"<<<ZOMBIE TP TO BOSS>>>"
+	{
+		"chi"		"** **"
+	}
+	"***RUN***"
+	{
+		"chi"		"** **"
+	}
+	"***DIDDLE THEM OFF FOR 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***GO***"
+	{
+		"chi"		"** **"
+	}
+	"***EARN YOUR DIDDLERY***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS MIGHT BE YOUR FINAL STAND***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD THE LINE***"
+	{
+		"chi"		"** **"
+	}
+	"***LOVE ISN'T ALWAYS ON TIME***"
+	{
+		"chi"		"** **"
+	}
+	"***OH NO***"
+	{
+		"chi"		"** **"
+	}
+	"***A POWERFUL MAGICAL SEAL IS BLOCKING YOUR PATH TO VICTORY***"
+	{
+		"chi"		"** **"
+	}
+	"***HOW WILL YOU EVER GET PAST THIS CHALLENGE?***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU MUST FIND A WAY TO BREAK THE POWERFUL SEAL***"
+	{
+		"chi"		"** **"
+	}
+	"***QUICKLY***"
+	{
+		"chi"		"** **"
+	}
+	"***OH NO, THE SEAL IS TOO POWERFUL***"
+	{
+		"chi"		"** **"
+	}
+	"***WE NEED TO SHOOT IT WITH ALL OUR MIGHT***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU DID IT!***"
+	{
+		"chi"		"** **"
+	}
+	"***THE DIDDLERY HAS BEEN DONE***"
+	{
+		"chi"		"** **"
+	}
+	"***THE POWERFUL SEAL HAS BEEN BROKEN***"
+	{
+		"chi"		"** **"
+	}
+	"***HOWEVER, YOU ARE POOR AND SAD INSIDE***"
+	{
+		"chi"		"** **"
+	}
+	"***PEACE SHALL REMAIN IN THE PEACEFUL LAND OF ANTARCTICA***"
+	{
+		"chi"		"** **"
+	}
+	"***COME BACK WHEN YOU ARE WEALTHIER***"
+	{
+		"chi"		"** **"
+	}
+	"***TP'ING IN 10 SECS***"
+	{
+		"chi"		"** **"
+	}
+	"***TP'ING IN 5 SECS***"
+	{
+		"chi"		"** **"
+	}
+	"***TP'ING IN 4 SECS***"
+	{
+		"chi"		"** **"
+	}
+	"***TP'ING IN 3 SECS***"
+	{
+		"chi"		"** **"
+	}
+	"***TP'ING IN 2 SECS***"
+	{
+		"chi"		"** **"
+	}
+	"***TP'ING IN 1 SEC***"
+	{
+		"chi"		"** **"
+	}
+	"***Poof*"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD THEM OFF FOR A LONG TIME***"
+	{
+		"chi"		"** **"
+	}
+	"***THE CHAPEL DOOR WILL OPEN IN 15 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE MIDDLE GATE WILL OPEN IN 25 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***HICHATU CAN'T MAKE MODELS IN BLENDER***"
+	{
+		"chi"		"** **"
+	}
+	"***THE MIDDLE GATE WILL OPEN IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE MIDDLE GATE IS DIDDLED***"
+	{
+		"chi"		"** **"
+	}
+	"there are probably AT LEAST 50 people in the world who likes to sniff cats buttholes"
+	{
+		"chi"		"** **"
+	}
+	"***THE END IS NEAR***"
+	{
+		"chi"		"** **"
+	}
+	"***HOLD OUT FOR 30 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***STAY STRONG FOR DADDY***"
+	{
+		"chi"		"** **"
+	}
+	"why do we even exist"
+	{
+		"chi"		"** **"
+	}
+	"***THE END IS COMING IN 20 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"every night when i go to bed i think about the vast universe and how insignificant we are"
+	{
+		"chi"		"** **"
+	}
+	"***THE END IS COMING IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE END IS COMING IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE END IS COMING IN 4 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE END IS COMING IN 3 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE END IS COMING IN 2 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***THE END IS COMING IN 1 SECOND***"
+	{
+		"chi"		"** **"
+	}
+	"***THE END IS NIGH***"
+	{
+		"chi"		"** **"
+	}
+	"***OH NO, IT'S THE DIDDLE DICK***"
+	{
+		"chi"		"** **"
+	}
+	"***PREPARE YER ARSEHOLES***"
+	{
+		"chi"		"** **"
+	}
+	"***THE DIDDLERY IS COMING***"
+	{
+		"chi"		"** **"
+	}
+	"watch out for soggy ovaries"
+	{
+		"chi"		"** **"
+	}
+	"***THE DIDDLE DICK HAS BEEN DEFEATED***"
+	{
+		"chi"		"** **"
+	}
+	"***TAKE A LEAP OF FAITH***"
+	{
+		"chi"		"** **"
+	}
+	"***YOU ARE THE ULTIMATE DIDDLERS***"
+	{
+		"chi"		"** **"
+	}
+	"***MAY THE DOODLING BE WITH YOU***"
+	{
+		"chi"		"** **"
+	}
+	"***THIS IS A COLLABORATIVE MAP MADE BY:***"
+	{
+		"chi"		"** **"
+	}
+	"> LUFFAREN"
+	{
+		"chi"		"** **"
+	}
+	"> HICHATU"
+	{
+		"chi"		"** **"
+	}
+	"> TURTLE REACTIONS"
+	{
+		"chi"		"** **"
+	}
+	"> QAZLLL456"
+	{
+		"chi"		"** **"
+	}
+	"> THE ORDIAXER"
+	{
+		"chi"		"** **"
+	}
+	"***THANK YOU FOR PLAYING***"
+	{
+		"chi"		"** **"
+	}
+	"***WATCH OUT FOR SINKING PLATFORMS***"
+	{
+		"chi"		"** **"
+	}
+	"***PURCHASED - LEGENDARY HEAL***"
+	{
+		"chi"		"** **"
+	}
+	"***DEFEND FOR 40 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR LEAVES IN 10 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR LEAVES IN 5 SECONDS***"
+	{
+		"chi"		"** **"
+	}
+	"***ELEVATOR IS LEAVING***"
+	{
+		"chi"		"** **"
+	}
+	"PW Fixes by Kyle & CGMentos"
+	{
+		"chi"		"** **"
+	}
+}
