@@ -2,86 +2,86 @@
 {
 	"*** 10seconds open mine door ***"
 	{
-		"chi"		"** **"
+		"chi"		"**矿井10秒后开放**"
 	}
 	"*** open door in 10seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后通道打开**"
 	}
 	"*** AFK TELEPORT IN 15 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒后清理挂机咸鱼**"
 	}
 	"*** left door open 20 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**左边通道20秒后打开**"
 	}
 	"*** right door open 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**右边通道5秒后打开**"
 	}
 	"*** afk teleport in 5seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后清理挂机咸鱼**"
 	}
 	"*** tram moving in 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**电车10秒后离开**"
 	}
 	"*** zombie teleport in 5 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸5秒后传送**"
 	}
 	"*** teleport open in 10 seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后可传送**"
 	}
 	"*** 5 seconds teleport zombie ***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒后传送僵尸**"
 	}
 	"*** secret button 2 pressed ***"
 	{
-		"chi"		"** **"
+		"chi"		"**按下第二个秘密按钮**"
 	}
 	"*** defense zombie 20seconds ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防御20秒**"
 	}
 	"*** zakum is shouting... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**扎昆在咆哮**"
 	}
 	"*** go to zakum... ***"
 	{
-		"chi"		"** **"
+		"chi"		"**进去扎昆所在的房间**"
 	}
 	"*** we killed zakum!!! we can escape! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**只有杀了扎昆！！我们才能逃离！**"
 	}
 	"*** defensed zombies !!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**防守僵尸！！！**"
 	}
 	"*** we defeat zakum ***"
 	{
-		"chi"		"** **"
+		"chi"		"**扎昆被打败了**"
 	}
 	"*** secret button 3 pressed ***"
 	{
-		"chi"		"** **"
+		"chi"		"**按下第三个秘密按钮**"
 	}
 	"*** secret button 1 pressed ***"
 	{
-		"chi"		"** **"
+		"chi"		"**按下第一个秘密按钮**"
 	}
 	"*** last secret button pressed ***"
 	{
-		"chi"		"** **"
+		"chi"		"**按下最后的秘密按钮**"
 	}
 	"Please wait 20 seconds before the door opening"
 	{
-		"chi"		"** **"
+		"chi"		"**在门打开之前请等待20秒**"
 	}
 }
