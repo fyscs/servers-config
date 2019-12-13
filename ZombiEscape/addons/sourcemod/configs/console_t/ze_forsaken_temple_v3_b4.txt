@@ -199,9 +199,6 @@
 	"** Swallow - stay back **"
 	{
 		"chi"		"**黑洞**"
-	}
-	">> 9 MINUTES TO ESCAPE <<"
-	{
 	"** You have failed to escape from the temple **"
 	{
 		"chi"		"**您没能从神庙逃脱**"
@@ -310,7 +307,7 @@
 		"chi"		"**核爆来了**"
 		"** Thanks for playing **"
 	{
-		"chi"		"**感谢你们队地图的支持**"
+		"chi"		"**感谢你们对地图的支持**"
 		"** 270 SECONDS LEFT **"
 	{
 		"chi"		"**生存270秒**"
@@ -407,6 +404,5 @@
 		"** Boss enrage! You are too slow! **"
 	{
 		"chi"		"**BOSS狂暴了！**"
-		"****"
 	{
 }
