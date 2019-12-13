@@ -78,23 +78,23 @@
 	}
 	"** Tumult - use heal **"
 	{
-		"chi"		"**捶你小胸口**"
+		"chi"		"**捶你小胸口（使用治疗）**"
 	}
 	"** Landslide **"
 	{
-		"chi"		"**山蹦**"
+		"chi"		"**山蹦（远离地上特效）**"
 	}
 	"** Bury - look up **"
 	{
-		"chi"		"**埋葬**"
+		"chi"		"**埋葬（天坠）**"
 	}
 	"** Servant - defend zombies **"
 	{
-		"chi"		"**仆人**"
+		"chi"		"**仆人（尸笼）**"
 	}
 	"** Weight of the Land - move away **"
 	{
-		"chi"		"**重力**"
+		"chi"		"**重力*（散开）2**"
 	}
 	"** Boss defeated! RUN! **"
 	{
@@ -190,15 +190,15 @@
 	}
 	"** Dancing Claw - prepare using heal **"
 	{
-		"chi"		"**捶你小胸口**"
+		"chi"		"**捶你小胸口（）使用治疗**"
 	}
 	"** Ricochet **"
 	{
-		"chi"		"**重击4**"
+		"chi"		"**重击**"
 	}
 	"** Swallow - stay back **"
 	{
-		"chi"		"**黑洞**"
+		"chi"		"**黑洞（按住S）2**"
 	"** You have failed to escape from the temple **"
 	{
 		"chi"		"**您没能从神庙逃脱**"
@@ -361,10 +361,10 @@
 		"chi"		"**你们太迟了！BOSS狂暴了！**"
 		"** "** Vampire - stop shooting **"
 	{
-		"chi"		"**反伤**"
+		"chi"		"**反伤（停枪）**"
 		"** Ricochet - jump **"
 	{
-		"chi"		"**重击4**"
+		"chi"		"**重击（硬抗或跳跃抵抗）2**"
 		"** Survive 60s **"
 	{
 		"chi"		"**生存60秒**"
@@ -388,16 +388,16 @@
 		"chi"		"**直升机10秒会后离开**"
 		"** Sink **"
 	{
-		"chi"		"**陷落**"
+		"chi"		"**陷落（紧贴特效边缘）2**"
 		"** Weight of the Land **"
 	{
-		"chi"		"**重力**"
+		"chi"		"**重力（散开）**"
 		"** Servant - defend zombies from now **"
 	{
-		"chi"		"**仆人**"
+		"chi"		"**仆人（尸笼）**"
 		"** Landslide - avoid red platform **"
 	{
-		"chi"		"**山蹦**"
+		"chi"		"**山蹦（远离地上特效）**"
 		"** Rock is breaking in 10s **"
 	{
 		"chi"		"**岩石10秒后碎裂**"
