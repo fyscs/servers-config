@@ -37,9 +37,8 @@
 		"chi"		"**大门25后打开**"
 	}
 	"** It seems.. left flame, right fruit.. ? **"
-	{
+
 		"chi"		"**那是什么..？火焰..？水果..？**"
-	}
 	"** Door is opening in 40s **"
 	{
 		"chi"		"**大门40秒后打开**"
@@ -78,8 +77,8 @@
 	}
 	"** Tumult - use heal **"
 	{
-		"chi"		"**捶你小胸口**"
-	}
+		"chi"		"**捶你小胸口-使用治疗**"
+}
 	"** Landslide **"
 	{
 		"chi"		"**山蹦**"
@@ -95,7 +94,6 @@
 	"** Weight of the Land - move away **"
 	{
 		"chi"		"**重力**"
-	}
 	"** Boss defeated! RUN! **"
 	{
 		"chi"		"**BOSS被打败了！快跑！**"
@@ -135,6 +133,7 @@
 	"** Door is closing in 10s **"
 	{
 		"chi"		"**大门10秒后关闭**"
+
 	}
 	"** Kill the remaining zombies **"
 	{
@@ -147,7 +146,7 @@
 	"** STAGE 2: Underground **"
 	{
 		"chi"		"**第二章：调查**"
-	}
+
 	"** Left fence is breaking in 30s **"
 	{
 		"chi"		"**左边铁篱笆30秒后消失**"
@@ -190,15 +189,16 @@
 	}
 	"** Dancing Claw - prepare using heal **"
 	{
-		"chi"		"**捶你小胸口**"
+=======
+		"chi"		"**捶你小胸口-使用治疗**"
 	}
 	"** Ricochet **"
 	{
-		"chi"		"**重击4**"
+		"chi"		"**反弹-硬抗或跳跃抵抗4**"
 	}
 	"** Swallow - stay back **"
 	{
-		"chi"		"**黑洞**"
+		"chi"		"**按住S**"
 	}
 	">> 9 MINUTES TO ESCAPE <<"
 	{
