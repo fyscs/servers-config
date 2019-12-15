@@ -3,7 +3,8 @@
 	"** A player has picked up earth magic **"
 	{
 		"chi"		"**一位玩家捡起了土**"
-		"** A zombie has picked up killer magic **"
+	}
+        "** A zombie has picked up killer magic **"
 	{
 		"chi"		"**一位僵尸捡起了秒杀**"
 	}
@@ -29,11 +30,11 @@
 	}
 	"** Pressure **"
 	{
-		"chi"		"**压力（蹲下）≯4**"
+		"chi"		"**压力（蹲下）4**"
 	}
 	"** Sinister Omen **"
 	{
-		"chi"		"**不详之兆（站平台边缘）≯2**"
+		"chi"		"**不详之兆（站平台边缘）2**"
 	}
 	"** Pure Fury **"
 	{
@@ -45,7 +46,7 @@
 	}
 	"** Mirror Coat **"
 	{
-		"chi"		"**反伤停枪，打四周水晶≯4**"
+		"chi"		"**镜衣（打四周水晶）2**"
 	}
 	"** Tornado Blade **"
 	{
@@ -59,27 +60,27 @@
 	{
 		"chi"		"**妖风**"
 	}
-		"** Earth Power **"
+	"** Earth Power **"
 	{
-		"chi"		"**大地之力（寻找上升平台）≯2**"
+		"chi"		"**大地之力（寻找上升平台）2**"
 	}
-		"** Rotating Blade **"
+	"** Rotating Blade **"
 	{
 		"chi"		"**天坠**"
 	}
-		"** Aurora Veil **"
+	"** Aurora Veil **"
 	{
-		"chi"		"**极光荧幕**"
+	"chi"		"**极光荧幕**"
 	}
-			"** Tri Crystal **"
+	"** Tri Crystal **"
 	{
 		"chi"		"**三色水晶**"
 	}
-		"** Creation Shield **"
+	"** Creation Shield **"
 	{
 		"chi"		"**创世护盾≯2**"
 	}
-		"** Flash Cannon **"
+	"** Flash Cannon **"
 	{
 		"chi"		"**轨道炮**"
 	}
@@ -122,4 +123,5 @@
 	"** A player has picked up fantasy crystal **"
 	{
 		"chi"		"**一位玩家捡起了幻想水晶**"
+        }
 }	
