@@ -1,125 +1,126 @@
 "Console_T"
-{
-	"** A player has picked up earth magic **"
-	{
+    {
+	"<< A player has picked up earth magic >>"
+    {
 		"chi"		"**一位玩家捡起了土**"
-		"** A zombie has picked up killer magic **"
+	"<< A zombie has picked up killer magic >>"
 	{
 		"chi"		"**一位僵尸捡起了秒杀**"
 	}
-	"** A zombie has picked up gravity magic **"
+	"<< A zombie has picked up gravity magic >>"
 	{
 		"chi"		"**一位僵尸捡起了黑洞**"
 	}
-	"** A zombie has picked up heal magic **"
+	"<< A zombie has picked up heal magic >>"
 	{
 		"chi"		"**一位僵尸捡起了治疗**"
 	}
-	"** A zombie has picked up Doom Desire **"
+	"<< A zombie has picked up Doom Desire >>"
 	{
 		"chi"		"** 一位僵尸捡起了幻境水晶**"
 	}
-	"** A player has picked up wind magic **"
+	"<< A player has picked up wind magic >>"
 	{
 		"chi"		"**一位玩家捡起了风**"
 	}
-	"** A player has picked up water magic **"
+	"<< A player has picked up water magic >>"
 	{
 		"chi"		"**一位玩家捡起了风**"
 	}
-	"** Pressure **"
+	"<< Pressure >>"
 	{
-		"chi"		"**压力（蹲下）≯4**"
+		"chi"		"**压力（蹲下）4**"
 	}
-	"** Sinister Omen **"
+	"<< Sinister Omen >>"
 	{
-		"chi"		"**不详之兆（站平台边缘）≯2**"
+		"chi"		"**不详之兆（站平台边缘）2**"
 	}
-	"** Pure Fury **"
+	"<< Pure Fury >>"
 	{
-		"chi"		"**纯粹の愤怒**"
+		"chi"		"**纯粹の愤怒（尸笼）**"
 	}
-	"** Fallen Sky **"
+	"<< Fallen Sky >>"
 	{
 		"chi"		"**幻境坠落**"
 	}
-	"** Mirror Coat **"
+	"<< Mirror Coat >>"
 	{
-		"chi"		"**反伤停枪，打四周水晶≯4**"
+		"chi"		"**镜衣（反伤停枪，打四周水晶）4**"
 	}
-	"** Tornado Blade **"
+	"<< Tornado Blade >>"
 	{
 		"chi"		"**天坠**"
 	}
-	"** Demon Cage **"
+	"<< Demon Cage >>"
 	{
 		"chi"		"**恶魔牢笼**"
 	}
-	"** Ominous Wind **"
+	"<< Ominous Wind >>"
 	{
 		"chi"		"**妖风**"
 	}
-		"** Earth Power **"
+	"<< Earth Power >>"
 	{
-		"chi"		"**大地之力（寻找上升平台）≯2**"
+		"chi"		"**大地之力（寻找上升平台）2**"
 	}
-		"** Rotating Blade **"
+	"<< Rotating Blade >>"
 	{
 		"chi"		"**天坠**"
 	}
-		"** Aurora Veil **"
+	"<< Aurora Veil >>"
 	{
 		"chi"		"**极光荧幕**"
 	}
-			"** Tri Crystal **"
+	"<< Tri Crystal >>"
 	{
 		"chi"		"**三色水晶**"
 	}
-		"** Creation Shield **"
+	"<< Creation Shield >>"
 	{
-		"chi"		"**创世护盾**"
+		"chi"		"**创世护盾（反伤停火）4**"
 	}
-		"** Flash Cannon **"
+	"<< Flash Cannon >>"
 	{
 		"chi"		"**轨道炮**"
 	}
-	"** It seems that something is awakening **"
+	"<< It seems that something is awakening >>"
 	{
 		"chi"		"**似乎有什么东西在觉醒**"
 	}
-	"** Keep your fantasy in your mind !!! **"
+	"<< Keep your fantasy in your mind !!! >>"
 	{
 		"chi"		"**保持你的幻想！！！**"
 	}
-	"** GOOD LUCK !!! **"
+	"<< GOOD LUCK !!! >>"
 	{
 		"chi"		"**祝好运！！！**"
 	}
-	"** This is not the end...... **"
+	"<< This is not the end...... >>"
 	{
 		"chi"		"**还没完呢......**"
 	}
-	"** defeat the boss in 130 seconds **"
+	"<< defeat the boss in 130 seconds >>"
 	{
 		"chi"		"**BOSS：130**"
 	}
-	"** zombie can move in 8 seconds**"
+	"<< zombie can move in 8 seconds>>"
 	{
 		"chi"		"**僵尸可以在8秒内移动**"
 	}
-	"** A player has picked up heal magic **"
+	"<< A player has picked up heal magic >>"
 	{
 		"chi"		"**一位玩家捡起了治疗**"
 	}
-	"** A player has picked up fire magic **"
+	"<< A player has picked up fire magic >>"
 	{
 		"chi"		"**一位玩家捡起了火**"
 	}
-	"** A player has picked up holy magic **"
+	"<< A player has picked up holy magic >>"
 	{
 		"chi"		"**一位玩家捡起了终极**"
 	}
-	"** A player has picked up fantasy crystal **"
+	"<< A player has picked up fantasy crystal >>"
 	{
 		"chi"		"**一位玩家捡起了幻想水晶**"
+	}
 }	

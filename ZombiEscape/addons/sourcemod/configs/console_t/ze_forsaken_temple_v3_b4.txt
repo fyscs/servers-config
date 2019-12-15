@@ -2,19 +2,19 @@
 {
 	"** WARM UP - 60 SEC **"
 	{
-		"chi"		"**热身：60秒**"
+		"chi"		"**热身：60秒**" 
 	}
 	"** TIP: one player must touch the closed door to trigger **"
 	{
-		"chi"		"**提示：地图仅需一名贴门精嘤**"
+		"chi"		"**提示：必须有一名玩家碰到门才可触发**"   
 	}
 	"** TIP: most zombie teleports are quick so do not overdefend! **"
 	{
-		"chi"		"**提示：大多数僵尸在门开后会很快传送**"
+		"chi"		"**提示：大多数僵尸在门开后会很快传送**"     
 	}
 	"** TIP: search for key items when the console tells you to do so **"
 	{
-		"chi"		"**当地图提示时你们需要找到能使道路打开的钥匙**"
+		"chi"		"**当提示时你们需要找到能使道路打开的钥匙**"  
 	}
 	"** Admin room is located behind the spawn **"
 	{
@@ -24,13 +24,13 @@
 	{
 		"chi"		"**让我们开始吧！**"
 	}
-	"** STAGE 1: Explore **"
+	"** 	"** STAGE 1: Underground **"
 	{
-		"chi"		"**第一章：探索**"
+		"chi"		"**第一章：探索**"   
 	}
 	"** Right fence is breaking in 30s **"
 	{
-		"chi"		"**右边铁篱笆30秒后消失**"
+		"chi"		"**右边铁篱笆30秒后消失**"      
 	}
 	"** Gate is opening in 25s **"
 	{
@@ -38,27 +38,27 @@
 	}
 	"** It seems.. left flame, right fruit.. ? **"
 	{
-		"chi"		"**那是什么..？火焰..？水果..？**"
+		"chi"		"**那是什么..？火焰..？水果..？**"   
 	}
 	"** Door is opening in 40s **"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**大门40秒后打开**"      
 	}
 	"** Exit door is opening in 10s **"
 	{
-		"chi"		"**大门10秒后打开**"
+		"chi"		"**大门10秒后打开**"  
 	}
 	"** Find two key items!! **"
 	{
-		"chi"		"**寻找两把钥匙**"
+		"chi"		"**寻找两把钥匙**"   
 	}
 	"** Key item carriers should stand on both platform **"
 	{
-		"chi"		"**拿到钥匙的人需要站在相应的地板**"
+		"chi"		"**拿到钥匙的人需要站在相应的地板**"  
 	}
 	"** Hint: The pit will open faster if you place key items in correct position **"
 	{
-		"chi"		"**提示：正确的站位，道路会打开的非常快**"
+		"chi"		"**提示：正确的站位，道路会打开的非常快**"  
 	}
 	"** Incorrect position! The pit will open SLOWER!! **"
 	{
@@ -70,87 +70,131 @@
 	}
 	"** Defend 20s **"
 	{
-		"chi"		"**防御20秒**"
+		"chi"		"**防御20秒**"  
 	}
 	"** Boss enrage in THREE minutes **"
 	{
-		"chi"		"**你们只有三分钟的时间打败BOSS**"
+		"chi"		"**你们只有三分钟的时间打败BOSS**"   
 	}
 	"** Tumult - use heal **"
 	{
-		"chi"		"**捶你小胸口（使用治疗）**"
+		"chi"		"**捶你小胸口（使用治疗）**"  
 	}
-	"** Landslide **"
+	"** Servant - defend zombies from now **"
 	{
-		"chi"		"**山蹦（远离地上特效）**"
+		"chi"		"**仆人（尸笼）**"   
+	}
+	"** Landslide - avoid red platform **"
+	{
+		"chi"		"**山蹦（远离地上红色特效）**"   
+	}
+	"** Boss enrage! You are too slow! **"
+	{
+		"chi"		"**BOSS狂暴了！**" 
 	}
 	"** Bury - look up **"
 	{
-		"chi"		"**埋葬（天坠）**"
-	}
-	"** Servant - defend zombies **"
-	{
-		"chi"		"**仆人（尸笼）**"
+		"chi"		"**埋葬（看头顶）**"
 	}
 	"** Weight of the Land - move away **"
 	{
-		"chi"		"**重力*（散开）2**"
+		"chi"		"**重力（散开）**"
 	}
 	"** Boss defeated! RUN! **"
 	{
-		"chi"		"**BOSS被打败了！快跑！**"
+		"chi"		"**BOSS被打败了！快跑！**"   
 	}
 	"** Gate is opening in 40s **"
 	{
-		"chi"		"**大门40秒后打开**"
+		"chi"		"**大门40秒后打开**"   
+	}
+	"** Rock is breaking in 10s **"
+	{
+		"chi"		"**岩石10秒后碎裂**"  
 	}
 	"** Path is clearing in 10s **"
 	{
-		"chi"		"**大门10秒后打开**"
+		"chi"		"**大门10秒后打开**"  
 	}
 	"** Door is opening in 10s **"
 	{
-		"chi"		"**大门10秒后打开**"
+		"chi"		"**大门10秒后打开**"  
 	}
 	"** Press TWO buttons on both sides **"
 	{
-		"chi"		"**尽快触发两个按钮**"
+		"chi"		"**尽快触发两个按钮**"  
 	}
 	"** Button 1 pressed **"
 	{
-		"chi"		"**按钮一触发**"
+		"chi"		"**按钮一触发**"   
 	}
 	"** Button 2 pressed **"
 	{
-		"chi"		"**按钮二触发**"
+		"chi"		"**按钮二触发**"    
 	}
 	"** Nicely done **"
 	{
-		"chi"		"**做得好！**"
+		"chi"		"**做得好！**"      
 	}
 	"** Door is opening in 30s **"
 	{
-		"chi"		"**大门30秒后打开**"
+		"chi"		"**大门30秒后打开**"    
 	}
 	"** Door is closing in 10s **"
 	{
-		"chi"		"**大门10秒后关闭**"
+		"chi"		"**大门10秒后关闭**"      
 	}
-	"** Kill the remaining zombies **"
+	"** Sink **"
 	{
-		"chi"		"**杀死剩余的僵尸**"
+		"chi"		"**陷落（紧贴特效边缘）4**"  
+	}
+	"** Vortex **"
+	{
+		"chi"		"**旋涡**"  
+	}
+	"** Ricochet - jump **"
+	{
+		"chi"		"**弹跳（硬抗或跳跃2）**"    
+	}
+	"** Vampire - stop shooting **"
+	{
+		"chi"		"**吸血（反伤停火2）**"        
+	}
+	"** Divine Tears - crouch **"
+	{
+		"chi"		"**圣泪(蹲下)4**"        
+	}
+	"** Boss defeated **"
+	{
+		"chi"		"**BOSS被打败了**"   
+	}
+	"** Retreat! **"
+	{
+		"chi"		"**撤退！**"      
+	}
+	"** Air-strike is incoming **"
+	{
+		"chi"		"**空袭来了**"      
+	}
+	"** Survive 60s **"
+	{
+		"chi"		"**生存60秒**"      
+	}	
+	"** Kill all weakened zombies **"
+	{
+		"chi"		"**杀死剩余的僵尸**"    
 	}
 	"** MOVING ON TO STAGE 2 **"
 	{
-		"chi"		"**第一章完成**"
+		"chi"		"**第一章完成**"   
 	}
-	"** STAGE 2: Underground **"
+	"** STAGE 2: Investigation **"
 	{
-		"chi"		"**第二章：调查**"
+		"chi"		"**第二章：调查**"   
 	}
 	"** Left fence is breaking in 30s **"
 	{
-		"chi"		"**左边铁篱笆30秒后消失**"
+		"chi"		"**左边铁篱笆30秒后消失**"  
 	}
 	"** Door is opening in 25s **"
 	{
@@ -158,27 +202,27 @@
 	}
 	"** Find and press TWO buttons **"
 	{
-		"chi"		"**寻找并按下两个按钮**"
+		"chi"		"**寻找并按下两个按钮**"   
 	}
 	"** Door is opening in 35s **"
 	{
-		"chi"		"**大门35秒后打开**"
+		"chi"		"**大门35秒后打开**"    
 	}
 	"** It's seems the door is locked **"
 	{
-		"chi"		"**门好像锁上了**"
+		"chi"		"**门好像锁上了**"      
 	}
 	"** Hint: key item owner must touch the locked door **"
 	{
-		"chi"		"**提示：钥匙持有者必须靠近门才能解锁**"
+		"chi"		"**提示：钥匙持有者必须靠近门才能解锁**"   
 	}
 	"** Use the key to unlock it **"
 	{
-		"chi"		"**用钥匙打开它**"
+		"chi"		"**用钥匙打开它**"     
 	}
 	"** Nicely done! The door is going to unlock! **"
 	{
-		"chi"		"**做得好！大门正在解锁！**"
+		"chi"		"**做得好！大门正在解锁！**"      
 	}
 	"** JUMP! **"
 	{
@@ -186,223 +230,233 @@
 	}
 	"** Door is opening in 20s **"
 	{
-		"chi"		"**大门20秒后打开**"
+		"chi"		"**大门20秒后打开**"      
 	}
 	"** Dancing Claw - prepare using heal **"
 	{
-		"chi"		"**捶你小胸口（）使用治疗**"
+		"chi"		"**挠你小胸口（使用治疗）**"
 	}
 	"** Ricochet **"
 	{
-		"chi"		"**重击**"
+		"chi"		"**重击**"   
 	}
 	"** Swallow - stay back **"
 	{
-		"chi"		"**黑洞（按住S）2**"
+		"chi"		"**黑洞（按住S）**"
+	}
 	"** You have failed to escape from the temple **"
 	{
 		"chi"		"**您没能从神庙逃脱**"
-		"** GET TO THE HELICOPTER NOW! **"
+	}
+	"** GET TO THE HELICOPTER NOW! **"
 	{
-		"chi"		"**马上上直升机！**"
-		"** KILL IT BEFORE IT KILLS YOU **"
+		"chi"		"**马上上直升机！**"  
+	}	
+	"** KILL IT BEFORE IT KILLS YOU **"
 	{
-		"chi"		"**在它杀死你之前杀了它**"
-		"**  Helicopter is infected **"
+		"chi"		"**在它杀死你之前杀了它**"   
+	}	
+	"**  Helicopter is infected **"
 	{
 		"chi"		"**直升机检测到僵尸**"
-		"** ROUND FAIL **"
+	"** ROUND FAIL **"
 	{
 		"chi"		"**任务失败**"
-		"** YOU HAVE BEATEN THE MAP **"
+	}	
+	"** YOU HAVE BEATEN THE MAP **"
 	{
 		"chi"		"**你征服了这张地图**"
-		"** DODGE THE LASERS AND KILL THE BOSS **"
+	}	
+	"** DODGE THE LASERS AND KILL THE BOSS **"
 	{
-		"chi"		"**躲开激光杀死BOSS**"
-		"** GO LEFT **"
+		"chi"		"**跳刀击败BOSS**"  
+	}	
+	"** GO LEFT **"
 	{
-		"chi"		"**向左边走**"
-		"** Maze exit is opening in 10s **"
+		"chi"		"**向左边走**"  
+	}	
+	"** Maze exit is opening in 10s **"
 	{
-		"chi"		"**迷宫出口10秒后打开**"
-		"** HE IS DEAD! RUN FOR YOUR LYFE!  **"
+		"chi"		"**迷宫出口10秒后打开**"  
+	}	
+	"** HE IS DEAD! RUN FOR YOUR LYFE!  **"
 	{
-		"chi"		"**它死了！快逃！**"
-		"** Find another key item! **"
+		"chi"		"**它死了！快逃！**"  
+	}	
+	"** Find another key item! **"
 	{
 		"chi"		"**寻找另一把钥匙！**"
-		"** Vampire **"
+	}	
+	"** Vampire **"
 	{
-		"chi"		"**反伤**"
-		"** Divine Tears **"
+		"chi"		"**反伤**"  
+	}	
+	"** Divine Tears **"
 	{
-		"chi"		"**圣泪**"
-		"** Force **"
+		"chi"		"**圣泪**" 
+	}	
+	"** Force **"
 	{
-		"chi"		"**重力**"
-		"** Swallow **"
+		"chi"		"**推力**" 
+	}	
+	"** Swallow **"
 	{
-		"chi"		"**黑洞**"
-		"** Dancing Claw **"
+		"chi"		"**黑洞**"  
+	}	
+	"** Dancing Claw **"
 	{
-		"chi"		"**舞爪**"
-		"** Boss defeated **"
-	"****"
-	{
-		"chi"		"**BOSS被打败了**"
-		"** Retreat! **"
-	{
-		"chi"		"**撤退！**"
-		"** You are too late. Boss enrage soon..  **"
+		"chi"		"**舞爪**"   
+	}	
+	"** You are too late. Boss enrage soon..  **"
 	{
 		"chi"		"**太迟了.BOSS快狂暴了..**"
-		"** Temple door is opening soon **"
+	}	
+	"** Temple door is opening soon **"
 	{
-		"chi"		"**神庙的门很快就会打开**"
-		"** You must defend until the door opens **"
+		"chi"		"**神庙的门很快就会打开**"   
+	}	
+	"** You must defend until the door opens **"
 	{
-		"chi"		"**你必须守住知道门打开**"
-		"** Fixing the door. Keep defending! **"
+		"chi"		"**你必须守住直到大门打开**"   
+	}	
+	"** Fixing the door. Keep defending! **"
 	{
-		"chi"		"**继续防守！**"
-		"** Door is opening in 15s **"
+		"chi"		"**继续防守！**"  
+	}	
+	"** Door is opening in 15s **"
 	{
-		"chi"		"**大门15秒后打开**"
-		"** The door will open soon **"
+		"chi"		"**大门15秒后打开**"   
+	}	
+	"** The door will open soon **"
 	{
-		"chi"		"**大门不久后将会打开**"
-		"** Just a little bit more **"
+		"chi"		"**大门不久后将会打开**"   
+	}	
+	"** Just a little bit more **"
 	{
-		"chi"		"**再坚持一下**"
-		"** Hang on... Keep defending! **"
+		"chi"		"**再坚持一下**"    
+	}	
+	"** Hang on... Keep defending! **"
 	{
-		"chi"		"**坚持住..继续防守！**"
-		"** Maze exit is opening in 40s **"
+		"chi"		"**坚持住..继续防守！**"   
+	}	
+	"** Maze exit is opening in 40s **"
 	{
-		"chi"		"**迷宫出口40秒后打开**"
-		"**  Pit is opening in 40s **"
+		"chi"		"**迷宫出口40秒后打开**"   
+	}
+	"** Elevator is leaving in 20s **"
+	{
+		"chi"		"**电梯20秒后上升**"   
+	}	
+	"**  Pit is opening in 40s **"
 	{
 		"chi"		"**40秒后打开井口**"
-		"** Pit is opening in 20s **"
+	}	
+	"** Pit is opening in 20s **"
 	{
 		"chi"		"**20秒后打开井口**"
-		"** Nicely done! You got the correct combination! **"
+	}	
+	"** Nicely done! You got the correct combination! **"
 	{
 		"chi"		"**做得好！钥匙被放在了正确的位置上！**"
-		"** Incorrect combination! The pit will open SLOWER **"
+	}	
+	"** Incorrect combination! The pit will open SLOWER **"
 	{
 		"chi"		"**钥匙被放在了错误的位置上！你们要防守更久的时间**"
-		"** ADMIN SELECTED ZM MODE **"
+	}	
+	"** ADMIN SELECTED ZM MODE **"
 	{
-		"chi"		"**某个崽种选择了ZM关**"
-		"** ZM MODE **"
+		"chi"		"**某人选择了ZM关**"
+	}	
+	"** ZM MODE **"
 	{
 		"chi"		"**ZM关**"
-		"** Do not follow ZE path! Survive until nuke! **"
+	}	
+	"** Do not follow ZE path! Survive until nuke! **"
 	{
 		"chi"		"**在核爆之前生存下来**"
-		"** Nuke is incoming **"
+	}	
+	"** Nuke is incoming **"
 	{
 		"chi"		"**核爆来了**"
-		"** Thanks for playing **"
+	}	
+	"** Thanks for playing **"
 	{
 		"chi"		"**感谢你们对地图的支持**"
-		"** 270 SECONDS LEFT **"
+	}	
+	"** 270 SECONDS LEFT **"
 	{
 		"chi"		"**生存270秒**"
-		"** 240 SECONDS LEFT **"
+	}	
+	"** 240 SECONDS LEFT **"
 	{
 		"chi"		"**生存240秒**"
-		"** 180 SECONDS LEFT **"
+	}	
+	"** 180 SECONDS LEFT **"
 	{
 		"chi"		"**生存180秒**"
-		"** 120 SECONDS LEFT **"
+	}	
+	"** 120 SECONDS LEFT **"
 	{
 		"chi"		"**生存120**"
-		"** 60 SECONDS LEFT **"
+	}	
+	"** 60 SECONDS LEFT **"
 	{
 		"chi"		"**生存60秒**"
-		"** 30 SECONDS LEFT **"
+	}	
+	"** 30 SECONDS LEFT **"
 	{
 		"chi"		"**生存30秒**"
-		"** 15 SECONDS LEFT **"
+	}	
+	"** 15 SECONDS LEFT **"
 	{
 		"chi"		"**生存15秒**"
-		"** 10 SECONDS LEFT **"
+	}	
+	"** 10 SECONDS LEFT **"
 	{
 		"chi"		"**生存10秒**"
-		"** 5 SECONDS LEFT **"
+	}	
+	"** 5 SECONDS LEFT **"
 	{
 		"chi"		"**生存5秒**"
-		"** MOVING ON TO STAGE 3 **"
+	}	
+	"** MOVING ON TO STAGE 3 **"
 	{
-		"chi"		"**第二章完成**"
-		"** ADMIN SELECTED STAGE 1 **"
+		"chi"		"**第二章完成**"  
+	}	
+	"** ADMIN SELECTED STAGE 1 **"
 	{
-		"chi"		"**某人选择了第一关**"
-		"** ADMIN SELECTED STAGE 2 **"
+		"chi"		"**某人选择了第一章**"   
+	}	
+	"** ADMIN SELECTED STAGE 2 **"
 	{
-		"chi"		"**某人选择了第二关**"
-		"** ADMIN SELECTED STAGE 3 **"
+		"chi"		"**某人选择了第二章**" 
+	}	
+	"** ADMIN SELECTED STAGE 3 **"
 	{
-		"chi"		"**某人选择了第三关**"
-		"** STAGE 2: Investigation **"
+		"chi"		"**某人选择了第三章**"  
+	}
+	"** STAGE 3: Escape **"
 	{
-		"chi"		"**第二章：调查**"
-		"** STAGE 1: Underground **"
-	{
-		"chi"		"**第一章：探索**"
-		"** STAGE 3: Escape **"
-	{
-		"chi"		"**第三章：逃离**"
-		"** You are too slow! Boss enrage soon! **"
+		"chi"		"**第三章：逃离**"  
+	}
+	"** You are too slow! Boss enrage soon! **"
 	{
 		"chi"		"**你们太迟了！BOSS狂暴了！**"
-		"** "** Vampire - stop shooting **"
-	{
-		"chi"		"**反伤（停枪）**"
-		"** Ricochet - jump **"
-	{
-		"chi"		"**重击（硬抗或跳跃抵抗）2**"
-		"** Survive 60s **"
-	{
-		"chi"		"**生存60秒**"
-		"** Air-strike is incoming **"
-	{
-		"chi"		"**空袭来了**"
-		"** Round failed! No human is alive! **"
+	}
+	"** Round failed! No human is alive! **"
 	{
 		"chi"		"**任务失败！无人生还！**"
-		"** Kill all weakened zombies **"
-	{
-		"chi"		"**杀死所有残血的僵尸**"
-		"** Hurry up! 15 seconds left **"
+	}	
+	"** Hurry up! 15 seconds left **"
 	{
 		"chi"		"**快点！还剩15秒**"
-		"** Vortex **"
-	{
-		"chi"		"**旋涡**"
-		"** Helicopter is leaving 10s **"
+	}	
+	"** Helicopter is leaving 10s **"
 	{
 		"chi"		"**直升机10秒会后离开**"
-		"** Sink **"
+	}	
+	"** Weight of the Land **"
 	{
-		"chi"		"**陷落（紧贴特效边缘）2**"
-		"** Weight of the Land **"
-	{
-		"chi"		"**重力（散开）**"
-		"** Servant - defend zombies from now **"
-	{
-		"chi"		"**仆人（尸笼）**"
-		"** Landslide - avoid red platform **"
-	{
-		"chi"		"**山蹦（远离地上红色特效）**"
-		"** Rock is breaking in 10s **"
-	{
-		"chi"		"**岩石10秒后碎裂**"
-		"** Boss enrage! You are too slow! **"
-	{
-		"chi"		"**BOSS狂暴了！**"
-	{
+		"chi"		"**重力（散开）**"  
+	}
 }
