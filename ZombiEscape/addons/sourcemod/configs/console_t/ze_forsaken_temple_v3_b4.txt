@@ -24,7 +24,7 @@
 	{
 		"chi"		"**让我们开始吧！**"
 	}
-	"** 	"** STAGE 1: Underground **"
+	"** STAGE 1: Underground **"
 	{
 		"chi"		"**第一章：探索**"   
 	}
@@ -36,7 +36,7 @@
 	{
 		"chi"		"**大门25后打开**"
 	}
-	"** It seems.. left flame, right fruit.. ? **"  
+	"** It seems.. left flame, right fruit.. ? **"
 	{
 		"chi"		"**那是什么..？火焰..？水果..？**"   
 	}
@@ -250,546 +250,213 @@
 	}
 	"** GET TO THE HELICOPTER NOW! **"
 	{
-		"chi"		"**马上上直升机！**"
+		"chi"		"**马上上直升机！**"  
 	}	
 	"** KILL IT BEFORE IT KILLS YOU **"
 	{
-		"chi"		"**在它杀死你之前杀了它**"
-	}
+		"chi"		"**在它杀死你之前杀了它**"   
+	}	
 	"**  Helicopter is infected **"
 	{
 		"chi"		"**直升机检测到僵尸**"
-	}
 	"** ROUND FAIL **"
 	{
 		"chi"		"**任务失败**"
-	}
+	}	
 	"** YOU HAVE BEATEN THE MAP **"
 	{
 		"chi"		"**你征服了这张地图**"
-	}
+	}	
 	"** DODGE THE LASERS AND KILL THE BOSS **"
 	{
-		"chi"		"**躲开激光杀死BOSS**"
-	}
+		"chi"		"**跳刀击败BOSS**"  
+	}	
 	"** GO LEFT **"
 	{
-		"chi"		"**向左边走**"
-	}
+		"chi"		"**向左边走**"  
+	}	
 	"** Maze exit is opening in 10s **"
 	{
-		"chi"		"**迷宫出口10秒后打开**"
-	}
+		"chi"		"**迷宫出口10秒后打开**"  
+	}	
 	"** HE IS DEAD! RUN FOR YOUR LYFE!  **"
 	{
-		"chi"		"**它死了！快逃！**"
-	}
+		"chi"		"**它死了！快逃！**"  
+	}	
 	"** Find another key item! **"
 	{
 		"chi"		"**寻找另一把钥匙！**"
-	}
+	}	
 	"** Vampire **"
 	{
-		"chi"		"**反伤**"
-	}
+		"chi"		"**反伤**"  
+	}	
 	"** Divine Tears **"
 	{
-		"chi"		"**圣泪**"
-	}
+		"chi"		"**圣泪**" 
+	}	
 	"** Force **"
 	{
-		"chi"		"**重力**"
-	}
+		"chi"		"**推力**" 
+	}	
 	"** Swallow **"
 	{
-		"chi"		"**黑洞**"
-	}
+		"chi"		"**黑洞**"  
+	}	
 	"** Dancing Claw **"
 	{
-		"chi"		"**舞爪**"
-	}
-	"** Boss defeated **"
-	{
-		"chi"		"**BOSS被打败了**"
-	}
-	"** Retreat! **"
-	{
-		"chi"		"**撤退！**"
-	}
+		"chi"		"**舞爪**"   
+	}	
 	"** You are too late. Boss enrage soon..  **"
 	{
 		"chi"		"**太迟了.BOSS快狂暴了..**"
-	}
+	}	
 	"** Temple door is opening soon **"
 	{
-		"chi"		"**神庙的门很快就会打开**"
-  	}
-  	"** You must defend until the door opens **"
+		"chi"		"**神庙的门很快就会打开**"   
+	}	
+	"** You must defend until the door opens **"
 	{
-		"chi"		"**你必须守住知道门打开**"
-	}
-  	"** Fixing the door. Keep defending! **"
+		"chi"		"**你必须守住直到大门打开**"   
+	}	
+	"** Fixing the door. Keep defending! **"
 	{
-		"chi"		"**继续防守！**"
-	}
+		"chi"		"**继续防守！**"  
+	}	
 	"** Door is opening in 15s **"
 	{
-		"chi"		"**大门15秒后打开**"
-	}
+		"chi"		"**大门15秒后打开**"   
+	}	
 	"** The door will open soon **"
 	{
-		"chi"		"**大门不久后将会打开**"
-	}
+		"chi"		"**大门不久后将会打开**"   
+	}	
 	"** Just a little bit more **"
 	{
-		"chi"		"**再坚持一下**"
-	}
+		"chi"		"**再坚持一下**"    
+	}	
 	"** Hang on... Keep defending! **"
 	{
-		"chi"		"**坚持住..继续防守！**"
-	}
+		"chi"		"**坚持住..继续防守！**"   
+	}	
 	"** Maze exit is opening in 40s **"
 	{
-		"chi"		"**迷宫出口40秒后打开**"
+		"chi"		"**迷宫出口40秒后打开**"   
 	}
+	"** Elevator is leaving in 20s **"
+	{
+		"chi"		"**电梯20秒后上升**"   
+	}	
 	"**  Pit is opening in 40s **"
 	{
 		"chi"		"**40秒后打开井口**"
-	}
+	}	
 	"** Pit is opening in 20s **"
 	{
 		"chi"		"**20秒后打开井口**"
-	}
+	}	
 	"** Nicely done! You got the correct combination! **"
 	{
 		"chi"		"**做得好！钥匙被放在了正确的位置上！**"
-	}
+	}	
 	"** Incorrect combination! The pit will open SLOWER **"
 	{
 		"chi"		"**钥匙被放在了错误的位置上！你们要防守更久的时间**"
-	}
+	}	
 	"** ADMIN SELECTED ZM MODE **"
 	{
 		"chi"		"**某人选择了ZM关**"
-	}
+	}	
 	"** ZM MODE **"
 	{
 		"chi"		"**ZM关**"
-	}
+	}	
 	"** Do not follow ZE path! Survive until nuke! **"
 	{
 		"chi"		"**在核爆之前生存下来**"
-	}
+	}	
 	"** Nuke is incoming **"
 	{
 		"chi"		"**核爆来了**"
-	}
+	}	
 	"** Thanks for playing **"
 	{
 		"chi"		"**感谢你们对地图的支持**"
-	}
+	}	
 	"** 270 SECONDS LEFT **"
 	{
 		"chi"		"**生存270秒**"
-	}
+	}	
 	"** 240 SECONDS LEFT **"
 	{
 		"chi"		"**生存240秒**"
-	}
+	}	
 	"** 180 SECONDS LEFT **"
 	{
 		"chi"		"**生存180秒**"
-	}
+	}	
 	"** 120 SECONDS LEFT **"
 	{
 		"chi"		"**生存120**"
-	}
+	}	
 	"** 60 SECONDS LEFT **"
 	{
 		"chi"		"**生存60秒**"
-	}
+	}	
 	"** 30 SECONDS LEFT **"
 	{
 		"chi"		"**生存30秒**"
-	}
-	"** 30 SECONDS LEFT **"
-	{
-		"chi"		"**生存15秒**"
-	}
-	"** 10 SECONDS LEFT **"
-	{
-		"chi"		"**生存10秒**"
-	}
-	"** 5 SECONDS LEFT **"
-	{
-		"chi"		"**生存5秒**"
-	}
-	"** MOVING ON TO STAGE 3 **"
-	{
-		"chi"		"**第二章完成**"
-	}
-	"** ADMIN SELECTED STAGE 1 **"
-	{
-		"chi"		"**某人选择了第一关**"
-	}
-	"** ADMIN SELECTED STAGE 2 **"
-	{
-		"chi"		"**某人选择了第二关**"
-	}
-	"** ADMIN SELECTED STAGE 3 **"
-	{
-		"chi"		"**某人选择了第三关**"
-	}
-	"** STAGE 2: Investigation **"
-	{
-		"chi"		"**第二章：调查**"
-	}
-	"** STAGE 1: Underground **"
-	{
-		"chi"		"**第一章：探索**"
-	}
-	"** STAGE 3: Escape **"
-	{
-		"chi"		"**第三章：逃离**"
-	}
-	"** You are too slow! Boss enrage soon! **"
-	{
-		"chi"		"**你们太迟了！BOSS狂暴了！**"
-	}
-	"** "** Vampire - stop shooting **"
-	{
-		"chi"		"**反伤（停枪）**"
-	}
-	"** Ricochet - jump **"
-	{
-		"chi"		"**重击（硬抗或跳跃抵抗）2**"
-	}
-	"** Survive 60s **"
-	{
-		"chi"		"**生存60秒**"
-	}
-	"** Air-strike is incoming **"
-	{
-		"chi"		"**空袭来了**"
-	}
-	"** Round failed! No human is alive! **"
-	{
-		"chi"		"**任务失败！无人生还！**"
-	}
-	"** Kill all weakened zombies **"
-	{
-		"chi"		"**杀死所有残血的僵尸**"
-	}
-	"** Hurry up! 15 seconds left **"
-	{
-		"chi"		"**快点！还剩15秒**"
-	}
-	"** Vortex **"
-	{
-		"chi"		"**旋涡**"
-	}
-	"** Helicopter is leaving 10s **"
-	{
-		"chi"		"**直升机10秒会后离开**"
-	}
-	"** Sink **"
-	{
-		"chi"		"**陷落（紧贴特效边缘）2**"
-	}
-	"** Weight of the Land **"
-	{
-		"chi"		"**重力（散开）**"
-	}
-	"** Servant - defend zombies from now **"
-	{
-		"chi"		"**仆人（尸笼）**"
-	}
-	"** Landslide - avoid red platform **"
-	{
-		"chi"		"**山蹦（远离地上红色特效）**"
-	}
-	"** Rock is breaking in 10s **"
-	{
-  	"chi"		"**岩石10秒后碎裂**"
-	}
-	"** Boss enrage! You are too slow! **"
-	{
-		"chi"		"**BOSS狂暴了！**"
-	}
-	"** Ricochet **"
-	{
-		"chi"		"**反弹-硬抗或跳跃抵抗4**"
-	}
-	"** Swallow - stay back **"
-	{
-		"chi"		"**按住S**"
-	}
-	"** You have failed to escape from the temple **"
-	{
-		"chi"		"**您没能从神庙逃脱**"
-	}
-	"** GET TO THE HELICOPTER NOW! **"
-	{
-		"chi"		"**马上上直升机！**"
-	}
-	"** KILL IT BEFORE IT KILLS YOU **"
-	{
-		"chi"		"**在它杀死你之前杀了它**"
-	}
-	"**  Helicopter is infected **"
-	{
-		"chi"		"**直升机检测到僵尸**"
-	}
-	"** ROUND FAIL **"
-	{
-		"chi"		"**任务失败**"
-	}
-	"** YOU HAVE BEATEN THE MAP **"
-	{
-		"chi"		"**你征服了这张地图**"
-	}
-	"** DODGE THE LASERS AND KILL THE BOSS **"
-	{
-		"chi"		"**躲开激光杀死BOSS**"
-	}
-	"** GO LEFT **"
-	{
-		"chi"		"**向左边走**"
-	}
-	"** Maze exit is opening in 10s **"
-	{
-		"chi"		"**迷宫出口10秒后打开**"
-	}
-	"** HE IS DEAD! RUN FOR YOUR LYFE!  **"
-	{
-		"chi"		"**它死了！快逃！**"
-	}
-	"** Find another key item! **"
-	{
-		"chi"		"**寻找另一把钥匙！**"
-	}
-	"** Vampire **"
-	{
-		"chi"		"**反伤**"
-	}
-	"** Divine Tears **"
-	{
-		"chi"		"**圣泪**"
-	}
-	"** Force **"
-	{
-		"chi"		"**重力**"
-	}
-	"** Swallow **"
-	{
-		"chi"		"**黑洞**"
-	}
-	"** Dancing Claw **"
-	{
-		"chi"		"**舞爪**"
-	}
-	"** Boss defeated **"
-	"****"
-	{
-		"chi"		"**BOSS被打败了**"
-	}
-	"** Retreat! **"
-	{
-		"chi"		"**撤退！**"
-	}
-	"** You are too late. Boss enrage soon..  **"
-	{
-		"chi"		"**太迟了.BOSS快狂暴了..**"
-	}
-	"** Temple door is opening soon **"
-	{
-		"chi"		"**神庙的门很快就会打开**"
-	}
-	"** You must defend until the door opens **"
-	{
-		"chi"		"**你必须守住知道门打开**"
-	}
-	"** Fixing the door. Keep defending! **"
-	{
-		"chi"		"**继续防守！**"
-	}
-	"** Door is opening in 15s **"
-	{
-		"chi"		"**大门15秒后打开**"
-	}
-	"** The door will open soon **"
-	{
-		"chi"		"**大门不久后将会打开**"
-	}
-	"** Just a little bit more **"
-	{
-		"chi"		"**再坚持一下**"
-	}
-	"** Hang on... Keep defending! **"
-	{
-		"chi"		"**坚持住..继续防守！**"
-	}
-	"** Maze exit is opening in 40s **"
-	{
-		"chi"		"**迷宫出口40秒后打开**"
-	}
-	"**  Pit is opening in 40s **"
-	{
-		"chi"		"**40秒后打开井口**"
-	}
-	"** Pit is opening in 20s **"
-	{
-		"chi"		"**20秒后打开井口**"
-	}
-	"** Nicely done! You got the correct combination! **"
-	{
-		"chi"		"**做得好！钥匙被放在了正确的位置上！**"
-	}
-	"** Incorrect combination! The pit will open SLOWER **"
-	{
-		"chi"		"**钥匙被放在了错误的位置上！你们要防守更久的时间**"
-	}
-	"** ADMIN SELECTED ZM MODE **"
-	chi"		"**某个崽种选择了ZM关**"
-	}
-	"** ZM MODE **"
-	{
-		"chi"		"**ZM关**"
-	}
-	"** Do not follow ZE path! Survive until nuke! **"
-	{
-		"chi"		"**在核爆之前生存下来**"
-	}
-	"** Nuke is incoming **"
-	{
-		"chi"		"**核爆来了**"
-	}
-	"** Thanks for playing **"
-	{
-		"chi"		"**感谢你们队地图的支持**"
-	}
-	"** 270 SECONDS LEFT **"
-	{
-		"chi"		"**生存270秒**"
-	}
-	"** 240 SECONDS LEFT **"
-	{
-		"chi"		"**生存240秒**"
-	"** 180 SECONDS LEFT **"
-	{
-		"chi"		"**生存180秒**"
-	}
-	"** 120 SECONDS LEFT **"
-	{
-		"chi"		"**生存120**"
-	}
-	"** 60 SECONDS LEFT **"
-	{
-		"chi"		"**生存60秒**"
-	}
-	"** 30 SECONDS LEFT **"
-	{
-		"chi"		"**生存30秒**"
-	}
+	}	
 	"** 15 SECONDS LEFT **"
 	{
 		"chi"		"**生存15秒**"
-	}
+	}	
 	"** 10 SECONDS LEFT **"
 	{
 		"chi"		"**生存10秒**"
-	}
+	}	
 	"** 5 SECONDS LEFT **"
 	{
 		"chi"		"**生存5秒**"
+	}	
 	"** MOVING ON TO STAGE 3 **"
 	{
-		"chi"		"**第二章完成**"
-	}
+		"chi"		"**第二章完成**"  
+	}	
 	"** ADMIN SELECTED STAGE 1 **"
 	{
-		"chi"		"**某人选择了第一章**"
-	}
+		"chi"		"**某人选择了第一章**"   
+	}	
 	"** ADMIN SELECTED STAGE 2 **"
 	{
-		"chi"		"**某人选择了第二章**"
-	}
+		"chi"		"**某人选择了第二章**" 
+	}	
 	"** ADMIN SELECTED STAGE 3 **"
 	{
-		"chi"		"**某人选择了第三章**"
-	}
-	"** STAGE 2: Investigation **"
-	{
-		"chi"		"**第二章：调查**"
-	}
-	"** STAGE 1: Underground **"
-	{
-		"chi"		"**第一章：探索**"
+		"chi"		"**某人选择了第三章**"  
 	}
 	"** STAGE 3: Escape **"
 	{
-		"chi"		"**第三章：逃离**"
+		"chi"		"**第三章：逃离**"  
 	}
 	"** You are too slow! Boss enrage soon! **"
 	{
 		"chi"		"**你们太迟了！BOSS狂暴了！**"
 	}
-	"** "** Vampire - stop shooting **"
-	{
-		"chi"		"**反伤**"
-	}
-	"** Ricochet - jump **"
-	{
-		"chi"		"**重击4**"
-	}
-	  "** Survive 60s **"
-	{
-		"chi"		"**生存60秒**"
-	}
-	"** Air-strike is incoming **"
-	{
-		"chi"		"**空袭来了**"
-	}
 	"** Round failed! No human is alive! **"
 	{
 		"chi"		"**任务失败！无人生还！**"
-	"** Kill all weakened zombies **"
-	{
-		"chi"		"**杀死所有残血的僵尸**"
-	}
+	}	
 	"** Hurry up! 15 seconds left **"
 	{
 		"chi"		"**快点！还剩15秒**"
-	"** Vortex **"
-	{
-		"chi"		"**旋涡**"
-	}
+	}	
 	"** Helicopter is leaving 10s **"
 	{
 		"chi"		"**直升机10秒会后离开**"
-	}
-	"** Sink **"
-	{
-		"chi"		"**陷落**"
-	}
+	}	
 	"** Weight of the Land **"
 	{
-		"chi"		"**重力**"
-	}
-	"** Servant - defend zombies from now **"
-	{
-		"chi"		"**仆人**"
-	}
-	"** Landslide - avoid red platform **"
-	{
-		"chi"		"**山蹦**"
-	}
-	"** Rock is breaking in 10s **"
-	{
-		"chi"		"**岩石10秒后碎裂**"
-	}
-	"** Boss enrage! You are too slow! **"
-	{
-		"chi"		"**BOSS狂暴了！**"
+		"chi"		"**重力（散开）**"  
 	}
 }
