@@ -144,6 +144,10 @@
 	{
 		"chi"		"**大门10秒后关闭**"      
 	}
+	"** Weight of the Land **"
+	{
+		"chi"		"**重力（散开）**"  
+	}	
 	"** Sink **"
 	{
 		"chi"		"**陷落（紧贴特效边缘）4**"  
@@ -286,6 +290,10 @@
 	"** Find another key item! **"
 	{
 		"chi"		"**寻找另一把钥匙！**"
+	}
+	"** Dancing Claw **"
+	{
+		"chi"		"**舞爪**"   
 	}	
 	"** Vampire **"
 	{
@@ -302,12 +310,8 @@
 	"** Swallow **"
 	{
 		"chi"		"**黑洞**"  
-	}	
-	"** Dancing Claw **"
-	{
-		"chi"		"**舞爪**"   
-	}	
-	"** You are too late. Boss enrage soon..  **"
+	}		
+	"** You are too late. Boss enrage soon.. **"
 	{
 		"chi"		"**太迟了.BOSS快狂暴了..**"
 	}	
@@ -455,8 +459,4 @@
 	{
 		"chi"		"**直升机10秒会后离开**"
 	}	
-	"** Weight of the Land **"
-	{
-		"chi"		"**重力（散开）**"  
-	}
 }
