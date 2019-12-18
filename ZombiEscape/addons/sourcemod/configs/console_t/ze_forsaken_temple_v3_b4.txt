@@ -230,7 +230,7 @@
 	}
 	"** JUMP! **"
 	{
-		"chi"		"**跳！**"
+		"chi"		"**跳**"
 	}
 	"** Door is opening in 20s **"
 	{
@@ -293,23 +293,23 @@
 	}
 	"** Dancing Claw **"
 	{
-		"chi"		"**舞爪**"   
+		"chi"		"**舞爪（使用治疗）**"   
 	}	
 	"** Vampire **"
 	{
-		"chi"		"**反伤**"  
+		"chi"		"**反伤（停火）**"  
 	}	
 	"** Divine Tears **"
 	{
-		"chi"		"**圣泪**" 
+		"chi"		"**圣泪（蹲下）**" 
 	}	
 	"** Force **"
 	{
-		"chi"		"**推力**" 
+		"chi"		"**推力（按住W）**" 
 	}	
 	"** Swallow **"
 	{
-		"chi"		"**黑洞**"  
+		"chi"		"**黑洞（按住S）**"  
 	}		
 	"** You are too late. Boss enrage soon.. **"
 	{
