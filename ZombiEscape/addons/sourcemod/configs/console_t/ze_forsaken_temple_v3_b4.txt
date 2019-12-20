@@ -259,10 +259,15 @@
 	"** KILL IT BEFORE IT KILLS YOU **"
 	{
 		"chi"		"**在它杀死你之前杀了它**"   
-	}	
-	"**  Helicopter is infected **"
+	}
+	"** You must kill the temple creature before it kills you **"
+	{
+		"chi"		"**你必须在神殿里的生物杀死你之前把它杀死**"   
+	}		
+	"** Helicopter is infected **"
 	{
 		"chi"		"**直升机检测到僵尸**"
+	}	
 	"** ROUND FAIL **"
 	{
 		"chi"		"**任务失败**"
@@ -283,7 +288,7 @@
 	{
 		"chi"		"**迷宫出口10秒后打开**"  
 	}	
-	"** HE IS DEAD! RUN FOR YOUR LYFE!  **"
+	"** HE IS DEAD! RUN FOR YOUR LYFE! **"
 	{
 		"chi"		"**它死了！快逃！**"  
 	}	
@@ -351,7 +356,7 @@
 	{
 		"chi"		"**电梯20秒后上升**"   
 	}	
-	"**  Pit is opening in 40s **"
+	"** Pit is opening in 40s **"
 	{
 		"chi"		"**40秒后打开井口**"
 	}	
