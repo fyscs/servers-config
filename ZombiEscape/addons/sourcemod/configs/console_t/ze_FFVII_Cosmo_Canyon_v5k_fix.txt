@@ -11,11 +11,11 @@
 	}
 	"**A player has picked up EARTH materia**"
 	{
-		"chi"		"**一名玩家习得了岩壁流**"
+		"chi"		"**一名玩家获得了土**"
 	}
 	"**A player has picked up ELECTRO materia**"
 	{
-		"chi"		"**一名玩家习得了电流波**"
+		"chi"		"**一名玩家获得了电**"
 	}
 	"**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**"
 	{
@@ -32,7 +32,7 @@
 	}
 	"**A player has picked up HEAL materia**"
 	{
-		"chi"		"**一名玩家习得了治疗术**"
+		"chi"		"**一名玩家获得了奶**"
 	}
 	"**THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS**"
 	{
@@ -46,15 +46,15 @@
 	}
 	"**A player has picked up WIND materia**"
 	{
-		"chi"		"**一名玩家习得了暴风啸**"
+		"chi"		"**一名玩家获得了风**"
 	}
 	"**A player has picked up BIO materia**"
 	{
-		"chi"		"**一名玩家习得了飞毒阵**"
+		"chi"		"**一名玩家获得了毒**"
 	}
 	"**A player has picked up ULTIMA materia**"
 	{
-		"chi"		"**一名玩家习得了终极**"
+		"chi"		"**一名玩家获得了终极**"
 	}
 	"**The gates of gi cave will open in 15 seconds**"
 	{
@@ -90,11 +90,11 @@
 	}
 	"[Red-XIII] Possibly he needs the Gi Nattak soul.. Because it contains huge amount of power."
 	{
-		"chi"		"**[赤红十三]可能他需要吉纳塔克的灵魂..因为它含有巨大的能量。**"
+		"chi"		"**[赤红十三]可能他需要吉纳塔克的灵魂..因为它含有巨大的能量.**"
 	}
 	"[Cloud] This is so bad.. Theres one of the Shinra bases nearby. I guess here we will find him."
 	{
-		"chi"		"**[克劳德]这太糟糕了..附近有一个神罗基地。我想我们可能会在那里遇到他。**"
+		"chi"		"**[克劳德]这太糟糕了..附近有一个神罗基地。我想我们可能会在那里遇到他.**"
 	}
 	"**GRENADES DO A LOT OF DAMAGE. USE THEM!**"
 	{
@@ -106,15 +106,15 @@
 	}
 	"**Gi Nattak is using poison**"
 	{
-		"chi"		"**吉纳塔克在用毒药**"
+		"chi"		"**吉纳塔克使用了剧毒**"
 	}
 	"**Gi Nattak is using Fire Nova!!! Get out of middle**"
 	{
-		"chi"		"**吉纳塔克正在使用烈焰新星！！！！去平台边缘处**"
+		"chi"		"**吉纳塔克正在使用烈焰新星！去平台边缘处**"
 	}
 	"**Gi Nattak is spawning minions. Watch out for them**"
 	{
-		"chi"		"**吉纳塔克释放了小火球。小心它们**"
+		"chi"		"**吉纳塔克释放了小火球！小心它们**"
 	}
 	"**Gi Nattak is using gravity**"
 	{
@@ -497,7 +497,7 @@
 	{
 		"chi"		"**困难模式**"
 	}
-	"[Red-XIII] Hope he will not escape this time� I afraid that we could attract extra attention.."
+	"[Red-XIII] Hope he will not escape this time I afraid that we could attract extra attention.."
 	{
 		"chi"		"**[赤红十三]希望这次不要放过他.我怕会引起更多注意**"
 	}

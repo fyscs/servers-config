@@ -107,7 +107,7 @@
 	}
 	"***A player picked up Summoner Shadow Flare***"
 	{
-		"chi"		"**一位玩家习得了暗影电流 **"
+		"chi"		"**一位玩家习得了电**"
 	}
 	"***Recast 60s***"
 	{
@@ -116,7 +116,7 @@
 	}
 	"***A player picked up Black Mage Flare***"
 	{
-		"chi"		"**一位玩家习得了黑魔火焰 **"
+		"chi"		"**一位玩家习得了火**"
 	}
 	"***Recast 55s***"
 	{
@@ -129,17 +129,17 @@
 	}
 	"*** 20 seconds to activate Nymian device ***"
 	{
-		"chi"		"**尼敏装置已触发守住20秒 **"
+		"chi"		"**尼敏装置已触发守住20秒**"
 		"DoorCountDown"		"0"
 	}
 	"*** 30 seconds to Open Road ***"
 	{
-		"chi"		"**30秒后道路可通 **"
+		"chi"		"**30秒后道路可通**"
 		"DoorCountDown"		"0"
 	}
 	"***A player picked up Mount Night Mare***"
 	{
-		"chi"		"**一位玩家习得了绝望之壁 **"
+		"chi"		"**一位玩家习得了墙**"
 	}
 	"***Recast 50s***"
 	{
@@ -148,7 +148,7 @@
 	}
 	"*** 30 seconds to Activate Nymian device  ***"
 	{
-		"chi"		"**尼敏装置已触发守住30秒 **"
+		"chi"		"**尼敏装置已触发守住30秒**"
 		"DoorCountDown"		"0"
 	}
 	"*** 10 seconds   ***"
@@ -157,7 +157,7 @@
 	}
 	"*** Location: The Navel ***"
 	{
-		"chi"		"**当前场景：地下洞穴 **"
+		"chi"		"**当前场景：地下洞穴**"
 	}
 	"*** Behemoth King Appeared ***"
 	{
@@ -165,7 +165,7 @@
 	}
 	"*** Shoot him ***"
 	{
-		"chi"		"**射击它 **"
+		"chi"		"**射击它**"
 	}
 	"*** Land Slide ***"
 	{
@@ -184,7 +184,7 @@
 	}
 	"*** Flare ***"
 	{
-		"chi"		"**烈焰**"
+		"chi"		"**火**"
 		"DoorCountDown"		"5"
 	}
 	"*** Behemoth King dead ***"
@@ -194,15 +194,14 @@
 	"***45 seconds to HARD CLEAR***"
 	{
 		"chi"		"**守住45秒 **"
-		"DoorCountDown"		"0"
 	}
 	"***5 seconds***"
 	{
-		"chi"		"**5秒剩余**"
+		"chi"		"**还有5秒**"
 	}
 	"***Gravity ON***"
 	{
-		"chi"		"**低重力跳刀开始 **"
+		"chi"		"**低重力开启**"
 	}
 	"***HARD CLEAR***"
 	{
@@ -227,7 +226,6 @@
 	"*** 35 seconds to activate Nymian device ***"
 	{
 		"chi"		"**尼敏装置已触发守住35秒 **"
-		"DoorCountDown"		"0"
 	}
 	"*** 10 seconds ***"
 	{
@@ -240,7 +238,6 @@
 	"*** 30 seconds to Open Door ***"
 	{
 		"chi"		"**大门30秒后打开 **"
-		"DoorCountDown"		"0"
 	}
 	"*** 45 seconds to Break Rocks ***"
 	{
@@ -253,31 +250,31 @@
 	}
 	"*** once only ***"
 	{
-		"chi"		"**只能释放一次 **"
+		"chi"		"**只能释放一次**"
 	}
 	"***Bahamut Prime appeared***"
 	{
-		"chi"		"**巴哈姆特灵体出现 **"
+		"chi"		"**巴哈姆特灵体出现**"
 	}
 	"***Bahamut Prime is Casting now***"
 	{
-		"chi"		"**射击巴哈姆特灵体 **"
+		"chi"		"**射击巴哈姆特灵体**"
 	}
 	"***Akh Morn***"
 	{
-		"chi"		"**超星撕裂 **"
+		"chi"		"**超星撕裂**"
 	}
 	"*** 3 ***"
 	{
-		"chi"		"**3 **"
+		"chi"		"**3**"
 	}
 	"*** 2 ***"
 	{
-		"chi"		"**2 **"
+		"chi"		"**2**"
 	}
 	"*** 1 ***"
 	{
-		"chi"		"**1 **"
+		"chi"		"**1**"
 	}
 	"***ADS Attack***"
 	{
@@ -289,16 +286,16 @@
 	}
 	"***A player picked up Bird Armys Paeon***"
 	{
-		"chi"		"**一位玩家获得了军神之旗 **"
+		"chi"		"**一位玩家获得了弹药**"
 	}
 	"***Recast 90s***"
 	{
-		"chi"		"**CD:90秒 **"
+		"chi"		"**CD:90秒**"
 		"DoorCountDown"		"-1"
 	}
 	"***A player picked up Paladin Shield Oath"
 	{
-		"chi"		"**一位玩家获得了圣骑之盾**"
+		"chi"		"**一位玩家获得了流沙**"
 		"DoorCountDown"		"-1"
 	}
 	"***Recast 80s***"
@@ -308,7 +305,7 @@
 	}
 	"***A player picked up White Mage Benediction***"
 	{
-		"chi"		"**一位玩家获起了圣光治愈 **"
+		"chi"		"**一位玩家获得了奶**"
 	}
 	"*** Recast 150s ***"
 	{
@@ -317,11 +314,11 @@
 	}
 	"***Flare***"
 	{
-		"chi"		"**烈焰 **"
+		"chi"		"**火**"
 	}
 	"***shoot ADS and Zombies***"
 	{
-		"chi"		"**射击两边的ADS并守住僵尸 **"
+		"chi"		"**射击两边的ADS并守住僵尸**"
 	}
 	"***Heavens Fall***"
 	{
@@ -329,53 +326,53 @@
 	}
 	"***Earth Shaker***"
 	{
-		"chi"		"**巨石冲撞**"
+		"chi"		"**巨石冲击**"
 	}
 	"***Bahamut Prime dead***"
 	{
-		"chi"		"**巴哈姆特灵体已死亡 **"
+		"chi"		"**巴哈姆特灵体已死亡**"
 	}
 	"*** 15 seconds to activate Elevator ***"
 	{
-		"chi"		"**电梯15秒后上升 **"
+		"chi"		"**电梯15秒后上升**"
 		"DoorCountDown"		"0"
 	}
 	"*** 30 seconds to Open Wall ***"
 	{
-		"chi"		"**墙壁30秒后碎开 **"
+		"chi"		"**墙壁30秒后碎开**"
 		"DoorCountDown"		"0"
 	}
 	"*** Dont Touch Water ***"
 	{
-		"chi"		"**不要进入水池 **"
+		"chi"		"**不要进入水池**"
 	}
 	"*** Water is Death Zone ***"
 	{
-		"chi"		"**下水会让你去世 **"
+		"chi"		"**下水会让你去世**"
 	}
 	"*** Nael Van Dahrnus Appeared ***"
 	{
-		"chi"		"**宫殿守卫出现 **"
+		"chi"		"**宫殿守卫出现**"
 	}
 	"*** Kill HER ***"
 	{
-		"chi"		"**射击他 **"
+		"chi"		"**射击他**"
 	}
 	"*** Dead ***"
 	{
-		"chi"		"**宫殿守卫倒下了 **"
+		"chi"		"**宫殿守卫倒下了**"
 	}
 	"*** Extreme CLEAR ***"
 	{
-		"chi"		"**极限难度通过 **"
+		"chi"		"**极限难度通过**"
 	}
 	"*** Next Level Savage ***"
 	{
-		"chi"		"**下一难度：疯狂 **"
+		"chi"		"**下一难度：疯狂**"
 	}
 	"*** Human Killer ON ***"
 	{
-		"chi"		"**人类杀手开启 **"
+		"chi"		"**人类杀手开启**"
 	}
 	"***Tempest Wing***"
 	{
@@ -383,43 +380,43 @@
 	}
 	"*** Level:Savage ***"
 	{
-		"chi"		"**当前难度：疯狂 **"
+		"chi"		"**当前难度：疯狂**"
 	}
 	"***Holm gang zombie incoming...***"
 	{
-		"chi"		"**僵尸定身已被拿起... **"
+		"chi"		"**僵尸定身已被拿起...**"
 	}
 	"*** Recast 95s ***"
 	{
-		"chi"		"**CD：95秒 **"
+		"chi"		"**CD：95秒**"
 		"DoorCountDown"		"-1"
 	}
 	"*** 30 seconds to Break Fence ***"
 	{
-		"chi"		"**铁网30秒后破碎 **"
+		"chi"		"**铁网30秒后破碎**"
 		"DoorCountDown"		"30"
 	}
 	"*** Hold 20 seconds ***"
 	{
-		"chi"		"**守住20秒 **"
+		"chi"		"**守住20秒**"
 		"DoorCountDown"		"20"
 	}
 	"***Location: The Ragnarok ***"
 	{
-		"chi"		"**当前场景：诸神黄昏 **"
+		"chi"		"**当前场景：诸神黄昏**"
 	}
 	"*** Defend 45 seconds ***"
 	{
-		"chi"		"**防守45秒 **"
+		"chi"		"**防守45秒**"
 		"DoorCountDown"		"45"
 	}
 	"*** ADS ATTACK ***"
 	{
-		"chi"		"**射击ADS **"
+		"chi"		"**射击ADS**"
 	}
 	"*** Dalamud appeared ***"
 	{
-		"chi"		"**杜拉姆出现 **"
+		"chi"		"**杜拉姆出现**"
 	}
 	"*** Dalamud the last boss ***"
 	{
@@ -427,11 +424,11 @@
 	}
 	"*** Shadow Flare ***"
 	{
-		"chi"		"**暗影电流**"
+		"chi"		"**电**"
 	}
 	"*** Cauterize ***"
 	{
-		"chi"		"**恶龙穿行 **"
+		"chi"		"**恶龙穿行**"
 	}
 	"*** True Bahamut appeared ***"
 	{
@@ -439,7 +436,7 @@
 	}
 	"*** True Tempest wing ***"
 	{
-		"chi"		"**真·狂风之翼 **"
+		"chi"		"**真·狂风之翼**"
 	}
 	"*** True Heavens fall ***"
 	{
@@ -447,11 +444,11 @@
 	}
 	"*** Steam Judge ***"
 	{
-		"chi"		"**光束穿刺 **"
+		"chi"		"**光束穿刺**"
 	}
 	"*** Sentence to death ***"
 	{
-		"chi"		"**死亡判决 **"
+		"chi"		"**死亡裁决**"
 	}
 	"*** True Bahamut dead ***"
 	{
@@ -464,27 +461,27 @@
 	}
 	"*** Odin Appeared ***"
 	{
-		"chi"		"**奥丁出现了 **"
+		"chi"		"**奥丁出现了**"
 	}
 	"*** Kill Odin ***"
 	{
-		"chi"		"**杀了奥丁 **"
+		"chi"		"**杀了奥丁**"
 	}
 	"*** Savage CLEAR ***"
 	{
-		"chi"		"**疯狂模式通关 **"
+		"chi"		"**疯狂模式通关**"
 	}
 	"*** Winners are Heroes of Light ***"
 	{
-		"chi"		"**胜利者是圣光英雄 **"
+		"chi"		"**胜利者是圣光英雄**"
 	}
 	"*** TOO LATE ***"
 	{
-		"chi"		"**来不及了 **"
+		"chi"		"**来不及了**"
 	}
 	"*** Ultimate mode incoming.... ***"
 	{
-		"chi"		"**最终关卡加载中.... **"
+		"chi"		"**最终关卡加载中....**"
 	}
 	"*** ze_ffxiv_wanderers_palace...? ***"
 	{
@@ -493,15 +490,15 @@
 	}
 	"*** Level:Ultimate ***"
 	{
-		"chi"		"**当前难度：恐惧  **"
+		"chi"		"**当前难度：恐惧**"
 	}
 	"*** This mode is Secret mode ***"
 	{
-		"chi"		"**这是个隐藏模式 **"
+		"chi"		"**这是个隐藏模式**"
 	}
 	"*** Chances are once only ***"
 	{
-		"chi"		"**只有一次机会 **"
+		"chi"		"**只有一次机会**"
 	}
 	"*** Level set .... Next Level Normal ***"
 	{
@@ -509,19 +506,19 @@
 	}
 	"*** Random Item breaker Activate... ***"
 	{
-		"chi"		"**随机神器消失模组加载成功 **"
+		"chi"		"**随机神器消失模组加载成功**"
 	}
 	"*** You have passed through the first phase ***"
 	{
-		"chi"		"**你们已经到达了存档点 **"
+		"chi"		"**你们已经到达了存档点**"
 	}
 	"*** Level set....Next Level Ultimate ***"
 	{
-		"chi"		"**关卡重置...下一难度：恐惧 **"
+		"chi"		"**关卡重置...下一难度：恐惧**"
 	}
 	"*** Night Mare***"
 	{
-		"chi"		"**绝望之壁 **"
+		"chi"		"**墙**"
 	}
 	"*** Ultimate Heavens fall ***"
 	{
@@ -529,7 +526,7 @@
 	}
 	"*** Ultimate Shadow Flare ***"
 	{
-		"chi"		"**极·暗影电流 **"
+		"chi"		"**极·暗影电流**"
 	}
 	"*** Ultimate Tempest wing ***"
 	{
@@ -537,11 +534,11 @@
 	}
 	"*** Ultimate Cauterize ***"
 	{
-		"chi"		"**极·恶龙穿行 **"
+		"chi"		"**极·恶龙穿行**"
 	}
 	"*** Shield Oath ***"
 	{
-		"chi"		"**圣骑之盾 **"
+		"chi"		"**流沙**"
 	}
 	"*** Dark Bahamut is blocking the road ***"
 	{
@@ -557,21 +554,14 @@
 	}
 	"*** Armys Paeon ***"
 	{
-		"chi"		"**军神之旗 **"
+		"chi"		"**弹药**"
 	}
 	"*** ADMIN BUTTON Level Ultimate ***"
 	{
-		"chi"		"**管理员把关卡调至恐惧难度 **"
+		"chi"		"**管理员把关卡调至恐惧难度**"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"**服务器即将关闭,请更新你的游戏 **"
-	}
-	"sync_version"
-	{
-	}
-	"###$$$%%%LEVEL 1%%%$$$###"
-	{
-		"chi"		"** **"
 	}
 }
