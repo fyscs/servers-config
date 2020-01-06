@@ -6,7 +6,7 @@
 	}
 	"[NORMAL MODE]"
 	{
-		"chi"		"**关卡难度：普通**"
+		"chi"		"**关卡难度：NORMAL**"
 	}
 	"** Defend untill the guards open the airport. **"
 	{
@@ -122,11 +122,11 @@
 	}
 	"** Congratulations - You won [NORMAL] **"
 	{
-		"chi"		"**恭喜，你们通关了普通难度**"
+		"chi"		"**恭喜，你通过了NORMAL难度**"
 	}
 	"[HARD MODE]"
 	{
-		"chi"		"**关卡难度：困难**"
+		"chi"		"**关卡难度：HARD**"
 	}
 	"** A player has learned Holy magick. **"
 	{
@@ -150,7 +150,7 @@
 	}
 	"** Congratulations - You won [HARD] **"
 	{
-		"chi"		"**恭喜，你通过了困难难度**"
+		"chi"		"**恭喜，你通过了HARD难度**"
 	}
 	"[EXTREME MODE]"
 	{
@@ -174,15 +174,15 @@
 	}
 	"** Congratulations - You won [EXTREME] **"
 	{
-		"chi"		"**恭喜，你们通关了EX难度**"
+		"chi"		"**恭喜，你通过了EX难度**"
 	}
 	"[3 WINS IN A ROW] Easteregg unlocked!"
 	{
-		"chi"		"**恭喜你们三连胜，你们触发了彩蛋**"
+		"chi"		"**恭喜你们三连胜！彩蛋触发**"
 	}
 	"[EPIC MODE]"
 	{
-		"chi"		"**关卡难度：史诗**"
+		"chi"		"**关卡难度：EPIC**"
 	}
 	"** Teleporter will be ready in 20 seconds! **"
 	{
@@ -242,14 +242,14 @@
 	}
 	"** Congratulations - You won [EPIC] **"
 	{
-		"chi"		"** **"
+		"chi"		"**恭喜，你通过了EPIC难度**"
 	}
 	"[GOD MODE]"
 	{
-		"chi"		"** **"
+		"chi"		"**难度：GOD**"
 	}
 	"** The dragon has been defeated! GOGOGO **"
 	{
-		"chi"		"** **"
+		"chi"		"**龙被打败了！快溜**"
 	}
 }

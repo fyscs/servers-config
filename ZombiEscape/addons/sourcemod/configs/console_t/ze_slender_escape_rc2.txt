@@ -208,7 +208,7 @@
 	}
 	"** [STORY] Oh and did i tell you that slenderman has 3 brothers who like to play with fire?! **"
 	{
-		"chi"		"**[故事] 哦，我告诉过你面条人有3兄弟很喜欢玩火吗?! **"
+		"chi"		"**[故事] 哦，我告诉过你面条人有三兄弟很喜欢玩火吗?! **"
 	}
 	"** DEFEND THIS BASE WHILE SOME GET FUEL CANS IN THE FOREST **"
 	{
@@ -297,7 +297,7 @@
 	}
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"**地图制作:SLAYERDRAGON 地图翻译:不清新的木心♪ **"
+		"chi"		"**地图制作:SLAYERDRAGON**"
 	}
 	"** [STORY] STAGE 4 - MANSION **"
 	{
@@ -468,26 +468,31 @@
 	"** Pages 18 **"
 	{
 		"chi"		"**纸条1 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Pages 28 **"
 	{
 		"chi"		"**纸条2 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Pages 38 **"
 	{
 		"chi"		"**纸条3 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Pages 48 **"
 	{
 		"chi"		"**纸条4 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Pages 58 **"
 	{
 		"chi"		"**纸条5 **"
+		"DoorCountDown"		"-1"
 	}
 	"** [MODE] BARRELMODE **"
 	{
-		"chi"		"** [模式]油桶王 **"
+		"chi"		"**[模式]油桶王 **"
 	}
 	"** [MAP] FOREST **"
 	{
@@ -512,7 +517,6 @@
 	"** NUKE IN 180 SECONDS **"
 	{
 		"chi"		"**180秒后核爆 **"
-		"DoorCountDown"		"180"
 	}
 	"** NUKE in 150 seconds **"
 	{
@@ -541,6 +545,7 @@
 	"** Pages 68 **"
 	{
 		"chi"		"**纸条6 **"
+		"DoorCountDown"		"-1"
 	}
 	"** [MAP] PRISON **"
 	{
@@ -621,10 +626,12 @@
 	"** Pages 78 **"
 	{
 		"chi"		"**纸条7 **"
+		"DoorCountDown"		"-1"
 	}
 	"** Pages 88 **"
 	{
 		"chi"		"**纸条8 **"
+		"DoorCountDown"		"-1"
 	}
 	"** All pages have been collected ... **"
 	{
