@@ -167,7 +167,7 @@
 	}
 	"**Map by Headshooter.SC & HaRyDe**"
 	{
-		"chi"		"**地图作者：Headshooter.SC ＆ HaRyDe  地图汉化：大明**"
+		"chi"		"**地图作者：Headshooter.SC ＆ HaRyDe  地图汉化：大明@風雲社**"
 	}
 	"**EXTREME MODE**"
 	{
@@ -199,7 +199,7 @@
 	}
 	"**A player has picked up SLEEP materia**"
 	{
-		"chi"		"**一名玩家习得了沉睡术**"
+		"chi"		"**一名玩家习得了睡**"
 	}
 	"**Gi Nattak is using fire**"
 	{
@@ -207,7 +207,8 @@
 	}
 	"**Gi Nattak has healed 150 hp**"
 	{
-		"chi"		"**吉纳塔克释放了治愈回复了一百五HP**"
+		"chi"		"**吉纳塔克释放了治愈回复了150HP**"
+		"DoorCountDown"		"-1"
 	}
 	"**Gi Nattak is using aspil**"
 	{
@@ -323,7 +324,7 @@
 	}
 	"**A player has picked up FIRE materia**"
 	{
-		"chi"		"**一名玩家习得了凤火莲**"
+		"chi"		"**一名玩家习得了火**"
 	}
 	"**The rock will explode in 25 seconds**"
 	{
@@ -331,7 +332,7 @@
 	}
 	"**The detonator seems to be broken**Go another way**"
 	{
-		"chi"		"**雷管好像坏了**换个方向**"
+		"chi"		"**雷管好像坏了！换个方向**"
 	}
 	"**You have beaten Cosmo Canyon!! Congratulations !! **"
 	{
@@ -532,5 +533,25 @@
 	"**stage 1**"
 	{
 		"chi"		"**第一关**"
+	}
+	"**Zombie Confuse has been picked up**"
+	{
+		"chi"		"**僵尸获得了致盲神器**"
+	}
+	"[Red-XIII] Hope he will not escape this time I afraid that we could attract extra attention.."
+	{
+		"chi"		"**[赤红十三]希望他这次不会逃走，我怕我们会引起别人的注意..**"
+	}
+	"***Map by Reflelia***"
+	{
+		"chi"		"** **"
+	}
+	"***Particle Effect by Airvulpes***"
+	{
+		"chi"		"**粒子特效：Airvulpes**"
+	}
+	"***Thanks to Shizuru[idea]  uuz[model]***"
+	{
+		"chi"		"**创意：Shizuru 模型：uuz**"
 	}
 }
