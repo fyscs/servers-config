@@ -1,801 +1,1348 @@
 "Console_T"
 {
-	"***WARMUP***"
-	{
-		"chi"		"** 热身局 **"
-	}
-	"***THE DIDDLERY WILL COMMENCE IN 60 SECONDS***"
-	{
-		"chi"		"** 热身将在60秒后结束 **"
-	}
 	"***THE DIDDLERY WILL COMMENCE IN 30 SECONDS***"
 	{
-		"chi"		"** 热身将在30秒后结束 **"
+		"chi"		"**冒险很快就开始**"
 	}
 	"***THE DIDDLERY WILL COMMENCE IN 20 SECONDS***"
 	{
-		"chi"		"** 热身将在20秒后结束 **"
+		"chi"		"**冒险很快就开始**"
 	}
 	"***THE DIDDLERY WILL COMMENCE IN 10 SECONDS***"
 	{
-		"chi"		"** 热身将在10秒后结束 **"
+		"chi"		"**冒险马上就开始**"
 	}
 	"***THE DIDDLERY WILL COMMENCE IN 5 SECONDS***"
 	{
-		"chi"		"** 热身将在5秒后结束 **"
+		"chi"		"**冒险马上就开始**"
 	}
 	"***THE DIDDLERY WILL COMMENCE IN 4 SECONDS***"
 	{
-        "blocked"   "1"
-		"chi"		"** **"
+		"chi"		"**冒险马上就开始**"
 	}
 	"***THE DIDDLERY WILL COMMENCE IN 3 SECONDS***"
 	{
-        "blocked"   "1"
-		"chi"		"** **"
+		"chi"		"**冒险即将开始**"
 	}
 	"***THE DIDDLERY WILL COMMENCE IN 2 SECONDS***"
 	{
-        "blocked"   "1"
-		"chi"		"** **"
+		"chi"		"**冒险即将开始**"
 	}
 	"***THE DIDDLERY WILL COMMENCE IN 1 SECOND***"
 	{
-        "blocked"   "1"
-		"chi"		"** **"
+		"chi"		"**冒险即将开始**"
 	}
 	"***HAPPY DIDDLING***"
 	{
-		"chi"		"** 欢迎来到DIDDLING世界 **"
+		"chi"		"**冒险现在开始*"
 	}
-	"*****ROUND END*****"
+	"*You are stuck inside Turtle Reactions Computer - Try to escape this place*"
 	{
-		"chi"		"** 回合结束 **"
+		"chi"		"**进入关卡 - 病毒电脑**"
 	}
-	"<== All soldiers get out the ship and forward!"
+	"*Defend here for 20 seconds*"
 	{
-		"chi"		"** 冲锋号响起, 赶紧冲冲冲 **"
-	}
-	"<== You must find the bomb to open the way"
-	{
-		"chi"		"** 你需要先找到雷管来炸开前进的路 **"
-	}
-	"<== Get 6 !  ==>"
-	{
-		"chi"		"** 发现第⑥个 **"
-	}
-	"<== Get 4 !  ==>"
-	{
-		"chi"		"** 发现第④个 **"
-	}
-	"<== Get 3 !  ==>"
-	{
-		"chi"		"** 发现第③个 **"
-	}
-	"<== Get 2 !  ==>"
-	{
-		"chi"		"** 发现第②个 **"
-	}
-	"<== Get 5 !  ==>"
-	{
-		"chi"		"** 发现第⑤个 **"
-	}
-	"<== Get 1 !  ==>"
-	{
-		"chi"		"** 发现第①个 **"
-	}
-	"<== Bomb explosion in 30second ==>"
-	{
-		"chi"		"** 炸弹30秒后BOOM **"
-	}
-	"<== Bomb explosionin 15 second ==>"
-	{
-        "blocked"   "1"
-		"chi"		"** **"
-	}
-	"<== Bomb explosion in 10 second ==>"
-	{
-        "blocked"   "1"
-		"chi"		"** **"
-	}
-	"<== Wait 25 second to go to heilcopter==>"
-	{
-		"chi"		"** 等待25秒后可以上飞机跑路 **"
-	}
-	"<==Get in the helicopter and out in 80s ==>"
-	{
-		"chi"		"** 上飞机然后守住80秒 **"
-	}
-	"<==helicopter fly out in 30s ==>"
-	{
-		"chi"		"** 飞机30秒后起飞 **"
-	}
-	"<==helicopter fly out in 15s ==>"
-	{
-        "blocked"   "1"
-		"chi"		"** **"
-	}
-	"<==helicopter fly out in 5s ==>"
-	{
-        "blocked"   "1"
-		"chi"		"** **"
-	}
-	"<==heilcopter fly out now! ==>"
-	{
-		"chi"		"** 飞机起飞... **"
-	}
-	"***FIND YOUR LOVE***"
-	{
-		"chi"		"** 恭喜你, 你找到真爱了~ **"
-	}
-	"*You are stuck inside Turtle Reaction's Computer - Try to escape this place*"
-	{
-		"chi"		"** 哦豁, 你中奖了! **"
-	}
-	"defend"
-	{
-		"chi"		"** 守住这里 **"
-	}
-	"*boss fight imminent*"
-	{
-		"chi"		"** BOSS战 - 打地鼠 **"
-	}
-	"*get in the hole*"
-	{
-		"chi"		"** 进到洞里 **"
-	}
-	"oooh... look at those cute digletts"
-	{
-		"chi"		"** 看看那些可爱的地鼠 **"
-	}
-	"defend here untill the wall breaks"
-	{
-		"chi"		"** 守住这里等到墙碎 **"
-	}
-	"hold 15sec"
-	{
-		"chi"		"** 守住15秒 **"
-	}
-	"go..."
-	{
-		"chi"		"** 憨批, 快跑了 **"
-	}
-	"shoot the floor"
-	{
-		"chi"		"** 射爆这地板 **"
-	}
-	"!!shoot the zombies to the side!!"
-	{
-		"chi"		"** 射爆这些僵尸 **"
-	}
-	"hold here"
-	{
-		"chi"		"** 守住这里 **"
-	}
-	"*Pull attack*"
-	{
-        "blocked"   "1"
-		"chi"		"** **"
-	}
-	"*The digletts died*"
-	{
-		"chi"		"** 这玩意嗝屁了 **"
-	}
-	"now defend untill the door is fully opened"
-	{
-		"chi"		"** 守住这里直到门完全打开 **"
-	}
-	"**kill the diglett**"
-	{
-		"chi"		"** 淦死这些东西 **"
-	}
-	"**laser attack**"
-	{
-		"chi"		"** laser attack **"
-	}
-	"**the diglett is dead**"
-	{
-		"chi"		"** 这玩意嗝屁了 **"
-	}
-	"hold this room for 20 sec"
-	{
-		"chi"		"** 守住房间20秒 **"
-	}
-	"the main door is stuck"
-	{
-		"chi"		"** 主门被卡住了 **"
-	}
-	"wait until we find another way"
-	{
-		"chi"		"** 我们需要找到其他方法 **"
-	}
-	"we found a secret entrance"
-	{
-		"chi"		"** 我们发现了一个狗洞 **"
-	}
-	"go in"
-	{
-		"chi"		"** 进去 **"
-	}
-	"wait for the doors to open"
-	{
-		"chi"		"** 等待门开 **"
-	}
-	"wait for the right door to open"
-	{
-		"chi"		"** 等待正确的门开启 **"
-	}
-	"DADDY OOOOH YEAH DADDY LICK MY NIPPLES"
-	{
-		"chi"		"** (_和谐内容_) **"
-	}
-	"i love you"
-	{
-		"chi"		"** 宝贝, 我爱你 **"
-	}
-	"wait for the door to open"
-	{
-		"chi"		"** 等待门开 **"
-	}
-	"defend for 30 sec"
-	{
-		"chi"		"** 守住这里30秒 **"
-	}
-	"the wall.. quick"
-	{
-		"chi"		"** GKD **"
-	}
-	"defend for 20 sec"
-	{
-		"chi"		"** 守住这里20秒 **"
-	}
-	"wait for the finall wall to break"
-	{
-		"chi"		"** 这是最后一堵墙了 **"
-	}
-	"defend for 10 sec"
-	{
-		"chi"		"** 再守10秒 **"
-	}
-	"alright let's fight that dicklett"
-	{
-		"chi"		"** OK, 淦死它们 **"
-	}
-	"**jizz attack right**"
-	{
-		"chi"		"** Jizz攻击 → **"
-	}
-	"***YOU TOOK TOO LONG - NUKING HUMANS***"
-	{
-		"chi"		"** 你离得太远了, 核爆了... **"
-	}
-	"**jizz attack left**"
-	{
-		"chi"		"** Jizz攻击 ← **"
-	}
-	"**jizz attack mid**"
-	{
-		"chi"		"** Jizz攻击 ○ **"
-	}
-	"**fart attack**"
-	{
-		"chi"		"** 这地鼠居然放屁了 **"
-	}
-	"**stomp attack**"
-	{
-		"chi"		"** 注意地面攻击 **"
+		"chi"		"**守住20秒**"
 	}
 	"***PICK UP THE TORCHES AND BURN ALL WEEBS***"
 	{
-		"chi"		"** FFF团万岁 **"
+		"chi"		"**关卡任务:使用火把烧死所有的纸片人并存活一定时间**"
 	}
 	"***HURRY, BEFORE WEEBLAND INVADES US***"
 	{
-		"chi"		"** GKD **"
+		"chi"		"**同时如果人类不在一定时间内烧光纸片人算人类输**"
 	}
 	"***THE TORCHES BURNS AND PUSHES ZOMBIES***"
 	{
-		"chi"		"** 点燃火把并推离这些僵尸 **"
+		"chi"		"**火把功能 - 推开僵尸并使其着火**"
 	}
 	"***ALSO USE THE TORCHES TO LIGHT HOUSES***"
 	{
-		"chi"		"** 用火把照亮这些房子 **"
+		"chi"		"**火把功能 - 点燃房屋**"
 	}
 	"***ZOMBIES ARE TELEPORTING IN 15 SECONDS***"
 	{
-		"chi"		"** 僵尸15s后传送 **"
-	}
-	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:20 MINUTES)***"
-	{
-		"chi"		"** 如果你花费太多时间你会被丢出去 **"
-	}
-	"***BURN ALL 10 HOUSES AND SHOOT ALL 5 WEEBS TO TELEPORT OUT EARLIER***"
-	{
-		"chi"		"** FFF团烧了这10个房子, 社保这5个玩意就可以提前出去 **"
+		"chi"		"**僵尸15秒后传送进二次元**"
 	}
 	"***ZOMBIES ARE TELEPORTING IN 10 SECONDS***"
 	{
-		"chi"		"** 僵尸10s后传送 **"
+		"chi"		"**僵尸将在10秒后传送进二次元**"
 	}
 	"***ZOMBIES ARE TELEPORTING IN 5 SECONDS***"
 	{
-		"chi"		"** 僵尸5s后传送 **"
+		"chi"		"**僵尸将在5后传送进二次元**"
 	}
 	"***ZOMBIES ARE TELEPORTING***"
 	{
-		"chi"		"** 来了, 它们来了 **"
+		"chi"		"**僵尸进二次元了**"
 	}
-	"***SKIP STAGE - SHREK***"
+	"*FALL BACK*"
 	{
-		"chi"		"** **"
+		"chi"		"**撤退**"
 	}
-	"***SKIP STAGE - TURTLE***"
+	"*Defend for 30 seconds*"
 	{
-		"chi"		"** **"
+		"chi"		"**这里守30秒**"
 	}
-	"***SKIP STAGE - DDAY***"
+	"*Elevator Activating in 10 seconds*"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯10秒后升起**"
+	}
+	"*Elevator activated*"
+	{
+		"chi"		"**启动电梯**"
+	}
+	"*Push the little red cube :)*"
+	{
+		"chi"		"**麻烦贴门的玩家对红色的玩意按一下E**"
+	}
+	"*Wall 2 breaks in 40 seconds*"
+	{
+		"chi"		"**左门在40秒后打开**"
+	}
+	"*Do you hear that?*"
+	{
+		"chi"		"**等等,什么声音**"
+	}
+	"*That was a close one!*"
+	{
+		"chi"		"**我靠,是海龟泥头车**"
+	}
+	"*Last Stand - Defend for 40 seconds*"
+	{
+		"chi"		"**守住这座城堡40秒**"
+	}
+	"*Looks like this is the way out of the computer!*"
+	{
+		"chi"		"**守住这个代码城堡以离开电脑**"
+	}
+	"*Gates closing in 5 seconds*"
+	{
+		"chi"		"**代码城堡大门将在5秒后关闭**"
+	}
+	"*Gates closing*"
+	{
+		"chi"		"**代码城堡大门正在合上**"
+	}
+	"*Initializing Escape Program Sequence*"
+	{
+		"chi"		"**电脑出错,启动应急代码**"
+	}
+	"*What is this music...?*"
+	{
+		"chi"		"什么音乐?"
+	}
+	"***Hello there, Im Turtle***"
+	{
+		"chi"		"你好,我是电脑里的灵魂,我是这里原主人,我叫电头"
+	}
+	"***I came to warn you, something BIG is out there and angry***"
+	{
+		"chi"		"我是来警告你的,后面有个老王八,他对你擅闯这个地方很生气"
+	}
+	"***But ill be there to help. Bye for now***"
+	{
+		"chi"		"但我等下会帮你的,放心,我先去准备准备了"
+	}
+	"*The hell..? I thought we left Turtle Reactions Computer*"
+	{
+		"chi"		"搞什么啊,还以为我们守完那个代码城堡就完事了"
+	}
+	"*Defend for 20 seconds*"
+	{
+		"chi"		"**这里守20秒**"
+	}
+	"***WARMUP***"
+	{
+		"chi"		"**热身局**"
+	}
+	"***THE DIDDLERY WILL COMMENCE IN 60 SECONDS***"
+	{
+		"chi"		"**冒险很快就开始**"
+	}
+	"*Do you hear that again..?*"
+	{
+		"chi"		"**好像又有泥头车声音了**"
+	}
+	"*Defend here for 30 seconds*"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"***I will help***"
+	{
+		"chi"		"**电头:我来帮你了**"
+	}
+	"***FUS RO...***"
+	{
+		"chi"		"** (电头施法中) **"
+	}
+	"***FIND YOUR LOVE***"
+	{
+		"chi"		"**找到你最爱的史莱克**"
+	}
+	"***SURPRISE YOUR LOVE***"
+	{
+		"chi"		"**给史莱克一点惊喜**"
+	}
+	"***BLESS YOUR LOVE***"
+	{
+		"chi"		"**祝福史莱克*"
+	}
+	"***FEED YOUR LOVE***"
+	{
+		"chi"		"**给史莱克多点爱**"
+	}
+	"*Wall 1 breaks in 40 seconds*"
+	{
+		"chi"		"**右门40秒后打开**"
+	}
+	"***SACRIFICE YOUR LOVE***"
+	{
+		"chi"		"**加大力度舔史莱克**"
+	}
+	"Defend"
+	{
+		"chi"		"**守住**"
+	}
+	"<== All soldiers get out the ship and forward!"
+	{
+		"chi"		"抢滩登陆战"
+	}
+	"<== Get the bomb from the side! ==>"
+	{
+		"chi"		"黄绿东西就是雷管,对它按E"
+	}
+	"<== Get 2 !  ==>"
+	{
+		"chi"		"士兵收集到贰雷管"
+	}
+	"<== Get 3 !  ==>"
+	{
+		"chi"		"士兵收集到叁雷管"
+	}
+	"<== Get 5 !  ==>"
+	{
+		"chi"		"士兵收集到伍号雷管"
+	}
+	"<== Get 4 !  ==>"
+	{
+		"chi"		"士兵收集到肆号雷管"
+	}
+	"<== Get 6 !  ==>"
+	{
+		"chi"		"士兵收集到陆号雷管"
+	}
+	"<== Get 1 !  ==>"
+	{
+		"chi"		"士兵收集到壹号雷管"
+	}
+	"<== Bomb explosion in 30second ==>"
+	{
+		"chi"		"雷管在30秒后爆炸,远离雷管.这雷管真的会炸死你的噢"
+	}
+	"***Poof*"
+	{
+		"chi"		"** 噗!(施法使你离开的声音) **"
+	}
+	"<== Bomb explosionin 15 second ==>"
+	{
+		"chi"		"雷管在15秒后爆炸,远离雷管.这雷管真的会炸死你的噢"
+	}
+	"<== Bomb explosion in 10 second ==>"
+	{
+		"chi"		"雷管在10秒后爆炸,远离雷管.这雷管真的会炸死你的噢"
+	}
+	"<== soldier can climb up in 30 second ==>"
+	{
+		"chi"		"人类能在30秒内爬上去"
+	}
+	"<== Defend this area 60 second ==>"
+	{
+		"chi"		"守住这里60秒"
+	}
+	"*boss fight imminent*"
+	{
+		"chi"		"**地鼠Boss战 - ACT1**"
+	}
+	"*get in the hole*"
+	{
+		"chi"		"**跳下去**"
+	}
+	"hold for 10 seconds"
+	{
+		"chi"		"**守10秒**"
+	}
+	"<== Get to the heil! ==>"
+	{
+		"chi"		"上直升机!"
+	}
+	"oooh... look at those cute digletts"
+	{
+		"chi"		"**哇哦... 看看这些可爱的地鼠**"
+	}
+	"defend here untill the wall breaks"
+	{
+		"chi"		"**守住这里直到开门**"
+	}
+	"hold 20sec"
+	{
+		"chi"		"**守住20秒**"
+	}
+	"<==Get in the heilcopter and out in 45s ==>"
+	{
+		"chi"		">>>进入直升机守住45秒<<<"
+	}
+	"go..."
+	{
+		"chi"		"**后撤...**"
+	}
+	"shoot the floor"
+	{
+		"chi"		"射击后面的地板钻下去!"
+	}
+	"!!shoot the zombies to the side!!"
+	{
+		"chi"		"**别让僵尸靠近你**"
+	}
+	"hold here"
+	{
+		"chi"		"**守住这里,马上打BOSS了**"
+	}
+	"*Push attack*"
+	{
+		"chi"		"**BOSS攻击 - 吸星大法**"
+	}
+	"*ground attack*"
+	{
+		"chi"		"**BOSS攻击 - 地面攻击**"
+	}
+	"*The digletts died*"
+	{
+		"chi"		"**地鼠们死了**"
+	}
+	"now defend untill the door is fully opened"
+	{
+		"chi"		"**守住这里直到门完全打开**"
+	}
+	"**kill the diglett**"
+	{
+		"chi"		"**地鼠Boss战 - ACT2**"
+	}
+	"**laser attack**"
+	{
+		"chi"		"**BOSS攻击 - 镭射激光**"
+	}
+	"**earthquake**"
+	{
+		"chi"		"**BOSS攻击 - 地震**"
+	}
+	"**the diglett is dead**"
+	{
+		"chi"		"**人类获得短暂胜利**"
+	}
+	"hold this room for 20 sec"
+	{
+		"chi"		"**守住这个大厅20秒**"
+	}
+	"the main door is stuck"
+	{
+		"chi"		"**后面的门好像卡住了**"
+	}
+	"wait until we find another way"
+	{
+		"chi"		"**看看有没有别的地方可以走**"
+	}
+	"we found a secret entrance"
+	{
+		"chi"		"**这里有个侧门!**"
+	}
+	"go in"
+	{
+		"chi"		"**从侧门过去**"
+	}
+	"wait for the doors to open"
+	{
+		"chi"		"**等待滑翔下面的门打开**"
+	}
+	"wait for the right door to open"
+	{
+		"chi"		"**长据点 - 人类需要守住岩浆大厅**"
+	}
+	"wait for the door to open"
+	{
+		"chi"		"**等待旁边的门爆破**"
+	}
+	"defend for 20 sec"
+	{
+		"chi"		"**守住二十秒**"
+	}
+	"the wall.. quick"
+	{
+		"chi"		"**近路的墙爆破了**"
+	}
+	"wait for the finall wall to break"
+	{
+		"chi"		"**等待最后的门爆破**"
+	}
+	"defend for 10 sec"
+	{
+		"chi"		"**还有10秒**"
+	}
+	"alright lets fight that dicklett"
+	{
+		"chi"		"**地鼠Boss战 - ACT3**"
+	}
+	"**fart attack**"
+	{
+		"chi"		"**放屁攻击**"
+	}
+	"**jizz attack right**"
+	{
+		"chi"		"**BOSS攻击 - 往右边屙尿**"
 	}
 	"**the dicklett has been killed**"
 	{
-		"chi"		"** 这地鼠被你淦死了 **"
+		"chi"		"人类获得短暂胜利"
 	}
 	"Run towards the back exit"
 	{
-		"chi"		"** 出口在后面 **"
+		"chi"		"**往前面的出口跑**"
 	}
-	"defend 'till the door's been fully opened"
+	"defend till the doors been fully opened"
 	{
-		"chi"		"** 守住这里等到门完全打开 **"
+		"chi"		"**守住这里，直到门完全打开**"
+	}
+	"*Enter the Sand Castle*"
+	{
+		"chi"		"**前进**"
+	}
+	"*Last stand - Defend for 30 seconds*"
+	{
+		"chi"		"**准备打病毒-守住30秒**"
 	}
 	"***Kill the final boss***"
 	{
-		"chi"		"** 鲨了这最终boss **"
+		"chi"		"地鼠Boss战 - 最终之战"
+	}
+	"*Jump Down*"
+	{
+		"chi"		"**跳下去**"
+	}
+	"*15 seconds before bridge breaks*"
+	{
+		"chi"		"**离开大桥,大桥15秒后断裂**"
 	}
 	"***laser attack***"
 	{
-		"chi"		"** laser attack **"
+		"chi"		"BOSS攻击 - 镭射激光"
 	}
-	"***ALL COINS BUTTON PRESSED***"
+	"***earthquake***"
 	{
-		"chi"		"** **"
+		"chi"		"BOSS攻击 - 地震"
 	}
-	"|====<YOU HAVE GATHERED ALL THE DIDDLE COINS>====|"
+	"***Hey, doing well i see***"
 	{
-		"chi"		"** 你捡起了全部的金币 **"
+		"chi"		"电头:干得不错"
 	}
-	"|====<YOU ARE RICH AND PROUD, AND SHALL THEREFORE REACH GREATER HEIGHTS>====|"
+	"***I will heal you while you fight the big monster***"
 	{
-		"chi"		"** nb666 **"
+		"chi"		"电头:我会在你和老王八战斗的时候治愈你"
 	}
-	"***SKIPPING DIRECTLY TO FINALE***"
+	"***Goooodluck***"
 	{
-		"chi"		"** **"
+		"chi"		"电头:搞快点!"
 	}
-	"|====<PREPARE FOR THE ULTIMATE DIDDLING>====|"
+	"***Demon Turtle Of Despair has appeared!***"
 	{
-		"chi"		"** 准备最终的DIDDLING **"
+		"chi"		"老王八 - 狂暴化"
 	}
-	"***KILL BUTTON PRESSED***"
+	"***Turtle heals every 50 seconds***"
 	{
-		"chi"		"** **"
+		"chi"		"狂暴化的老王八现在会每五十秒自我治愈一次"
 	}
-	"***I'M RICK HARRISON, AND THIS IS MY PAWN SHOP***"
+	"***The digletts have been defeated*** gg"
 	{
-		"chi"		"** 我是沙雕憨批Rick, 这里是我的当铺 **"
+		"chi"		"地鼠皇死了,这一关即将结束"
+	}
+	"*Demon Turtle casts Spears*"
+	{
+		"chi"		"BOSS攻击 - 地刺(离开桥)"
+	}
+	"*Demon Turtle casts Chill*"
+	{
+		"chi"		"BOSS攻击 - 结霜(离开平台)"
+	}
+	"*Demon Turtle casts Water Blast*"
+	{
+		"chi"		"BOSS攻击 - 吐口水(中间推)"
+	}
+	"*Tiki 2 Broken*"
+	{
+		"chi"		"**[彩蛋]Tiki 2号触发了**"
+	}
+	"*Demon Turtle seems to be angrier*"
+	{
+		"chi"		"老王八好像更愤怒了"
+	}
+	"*Demon 7{{2 casts ERROR#*"
+	{
+		"chi"		"BOSS攻击 - 冻结代码(无事发生)"
+	}
+	"*Demon Turtle casts 29--"
+	{
+		"chi"		"BOSS攻击 - 平台交换"
+	}
+	"*Demon Turtle 7_) Launch2.0.exe*"
+	{
+		"chi"		"BOSS攻击 - 跳刀"
+	}
+	"*-9).$ casts -Turtle.jpg*"
+	{
+		"chi"		"BOSS攻击 - 社图攻击"
+	}
+	"*Demon Turtle casts Launch*"
+	{
+		"chi"		"跳刀发射!"
+	}
+	"*Something is happening..*"
+	{
+		"chi"		"**有什么事要发生了..**"
+	}
+	"***Good Job! You have defeated the virus and now will leave the computer!***"
+	{
+		"chi"		"**电脑病毒清理完毕，获胜人类即将传送**"
+	}
+	"***I hope you a have a lovely journey back home and...***"
+	{
+		"chi"		"**我希望你能把这张地图里面的(说话被打断)**"
+	}
+	"***W..wait***"
+	{
+		"chi"		"**等..等一下(痛苦的声音)"
+	}
+	"***WAAAAAAAAAAAAAAAIIIIIIII----***"
+	{
+		"chi"		"**等一下啊啊啊啊啊啊啊啊(随后声音突然消失)"
+	}
+	"***IM RICK HARRISON, AND THIS IS MY PAWN SHOP***"
+	{
+		"chi"		"欢迎光临RIKE的神器超市"
 	}
 	"***DUE TO HUGE ITEM DEMAND WE CAN ONLY LET ONE PERSON IN AT A TIME***"
 	{
-		"chi"		"** 每次只能一个人进到我店里来 **"
+		"chi"		"神器超市只能容纳一个人类玩家购物"
 	}
 	"***LINE UP AND KEEP HUGGING THE DOOR FOR A CHANCE TO GET INSIDE***"
 	{
-		"chi"		"** 贴门排好队, 一个一个进去 **"
+		"chi"		"排队一个一个进,懂?"
 	}
-	"***IFWHEN YOU GET INSIDE YOU'LL HAVE 10 SECONDS TO BUY SOMETHING***"
+	"***IFWHEN YOU GET INSIDE YOULL HAVE 10 SECONDS TO BUY SOMETHING***"
 	{
-		"chi"		"** 你只有十秒的时间来买东西 **"
+		"chi"		"在超市你会有十秒选购神器**"
 	}
-	"***PURCHASED - SMALL DICK***"
+	"***PURCHASED - HEAL***"
 	{
-		"chi"		"** 消防栓 - 已被购买 **"
+		"chi"		"[神器超市]已购买 小奶(生命值恢复并提升至150)"
 	}
-	"***PURCHASED - BIG DICK***"
+	"***PURCHASED - GUARDIAN***"
 	{
-		"chi"		"** 车轮滚滚 - 已被购买 **"
+		"chi"		"[神器超市]已购买 绿墙(小墙)"
 	}
-	"***ZOMBIES TELEPORT IN 15 SECONDS***"
+	"***Defend for 20 seconds***"
 	{
-		"chi"		"** 僵尸15s后传送 **"
+		"chi"		"**守住20秒**"
 	}
-	"***ZOMBIES TELEPORT IN 10 SECONDS***"
+	"***PURCHASED - BIG GUARDIAN***"
 	{
-		"chi"		"** 僵尸10s后传送 **"
+		"chi"		"[神器超市]已购买 红墙(中墙)"
 	}
-	"***ZOMBIES TELEPORT IN 5 SECONDS***"
+	"***SHOP IS SOLD OUT***"
 	{
-		"chi"		"** 僵尸5s后传送 **"
+		"chi"		"神器超市收工了"
 	}
-	"***ZOMBIES TELEPORTING***"
+	"***COME IN TO PICK UP LEFTOVERS (IF ANY)***"
 	{
-		"chi"		"** 来了, 它们来了 **"
+		"chi"		"现在你能进商店捡里面的道具了(如果还有道具剩的话)"
 	}
-	"***DEFEND FOR 20 SECONDS***"
+	"***5 seconds left***"
 	{
-		"chi"		"** 守住20秒 **"
+		"chi"		"还剩5秒"
 	}
-	"***5 SECONDS LEFT***"
+	"***Fall back***"
 	{
-		"chi"		"** 5 **"
-	}
-	"***FALL BACK***"
-	{
-		"chi"		"** 快溜 **"
+		"chi"		"撤退"
 	}
 	"***SHOOT AT THE BASE OF THE ARMS***"
 	{
-		"chi"		"** 射爆这些触手根部 **"
-	}
-	"***SKIP STAGE - DIGLETT***"
-	{
-		"chi"		"** **"
-	}
-	"***SKIP STAGE - WEEB***"
-	{
-		"chi"		"** **"
-	}
-	"***RESETTING THE MAP***"
-	{
-		"chi"		"** **"
-	}
-	"***PURCHASED - DISCO PUSH***"
-	{
-		"chi"		"** **"
-	}
-	"***PURCHASED - DIDDLE CANNON***"
-	{
-		"chi"		"** **"
-	}
-	"***PURCHASED - LEGENDARY GUARDIAN***"
-	{
-		"chi"		"** **"
+		"chi"		"打那些触手能减少天谴触发和减少NPC出生概率,最多能减少至无触发."
 	}
 	"***THIS ELEVATOR WILL LEAVE ONCE THE OTHER PATH HAS BEEN FINISHED***"
 	{
-		"chi"		"** 这电梯将在另一路人搞定之后离开 **"
+		"chi"		"电梯只有在另一条路最上面的大门触发开启了才会启动"
 	}
 	"***STAND YOUR GROUND UNTIL THEN***"
 	{
-		"chi"		"** 不懂装懂. **"
+		"chi"		"还在电梯的你站在电梯上等就完了"
 	}
 	"***BE STRONG FOR DADDY***"
 	{
-		"chi"		"** BE STRONG FOR DADDY **"
+		"chi"		"加油嗷,要坚强"
 	}
-	"***DEFEND FOR 50 SECONDS***"
+	"***Defend for 40 seconds***"
 	{
-		"chi"		"** 守住50s **"
+		"chi"		"**守住40秒**"
 	}
-	"***30 SECONDS LEFT***"
+	"***ELEVATOR LEAVES IN 10 SECONDS***"
 	{
-		"chi"		"** 30s剩余 **"
+		"chi"		"电梯在10秒后启动"
 	}
-	"***JUMP INSIDE THE DOODLE DOODY***"
+	"***ELEVATOR LEAVES IN 5 SECONDS***"
 	{
-		"chi"		"** 跳到涂鸦中 **"
+		"chi"		"电梯在5秒后启动"
 	}
-	"***THE BOOBLE JOOBLE***"
+	"***ELEVATOR IS LEAVING***"
 	{
-		"chi"		"** **"
+		"chi"		"电梯已启动"
 	}
-	"***THE BABY MACHINE***"
+	"***30 seconds left***"
 	{
-		"chi"		"** **"
+		"chi"		"大门在三十秒后打开"
 	}
 	"***15 SECONDS LEFT***"
 	{
-		"chi"		"** 15秒剩余 **"
-	}
-	"***WELCOME TO THE VAGINA***"
-	{
-		"chi"		"** 欢迎来到(_和谐_)道 **"
-	}
-	"***A VAGINA IS WELCOMED***"
-	{
-		"chi"		"** (_和谐_)道人民欢迎你 **"
+		"chi"		"大门在十五秒后打开"
 	}
 	"***10 SECONDS LEFT***"
 	{
-		"chi"		"** 10秒剩余 **"
+		"chi"		"大门在10秒后打开"
+	}
+	"***JUMP INSIDE THE DOODLE DOODY***"
+	{
+		"chi"		"跳进密道"
+	}
+	"***THE BOOBLE JOOBLE***"
+	{
+		"chi"		"密道水好多啊"
+	}
+	"***THE BABY MACHINE***"
+	{
+		"chi"		"这条密道孕育着一个婴儿"
+	}
+	"***WELCOME TO THE VAGINA***"
+	{
+		"chi"		"欢迎来到密道"
+	}
+	"***A VAGINA IS WELCOMED***"
+	{
+		"chi"		"密道欢迎你的参观"
 	}
 	"***A VAGINA IS BOOBLY***"
 	{
-		"chi"		"** BOOBLY **"
+		"chi"		"这条密道好紧"
 	}
 	"***A VAGINA IS NEAT***"
 	{
-		"chi"		"** NEAT **"
+		"chi"		"这条密道好靓丽"
 	}
 	"***A VAGINA IS GOOD***"
 	{
-		"chi"		"** GOOD **"
+		"chi"		"小心地滑"
 	}
 	"***A VAGINA RUNS 78 MILES PER DAY ON AVERAGE***"
 	{
-		"chi"		"** **"
+		"chi"		"这条密道每天都接受七十八人参观"
 	}
 	"***A VAGINA INCLUDES CHILD SUPPORT***"
 	{
-		"chi"		"** **"
-	}
-	"***A VAGINA IS WARM***"
-	{
-		"chi"		"** **"
+		"chi"		"这条密道老少咸宜,谁都可以来参观,全年无休"
 	}
 	"***A VAGINA IS AFRAID OF CLOWNS***"
 	{
-		"chi"		"** **"
-	}
-	"***A VAGINA IS MUSHY***"
-	{
-		"chi"		"** **"
-	}
-	"***A VAGINA IS IN ALL OF US***"
-	{
-		"chi"		"** **"
+		"chi"		"这条密道可喜欢别人来参观了"
 	}
 	"***A VAGINA DOES NOT WANT TO PLAY ANYMORE***"
 	{
-		"chi"		"** **"
-	}
-	"***A VAGINA IS DANGEROUS***"
-	{
-		"chi"		"** **"
-	}
-	"***A VAGINA CALLS TO US***"
-	{
-		"chi"		"** **"
+		"chi"		"这条密道不喜欢你搞她里面的婴儿"
 	}
 	"***A VAGINA IS ALLERGIC TO DICKERY***"
 	{
-		"chi"		"** **"
-	}
-	"***A VAGINA IS FILLED WITH TEETH***"
-	{
-		"chi"		"** **"
-	}
-	"***A VAGINA DIDDLES US***"
-	{
-		"chi"		"** **"
+		"chi"		"这条密道有点敏感"
 	}
 	"***A VAGINA HELPS THE POOR***"
 	{
-		"chi"		"** **"
-	}
-	"***A VAGINA DOODLES US***"
-	{
-		"chi"		"** **"
+		"chi"		"密道特喜欢帮助穷人"
 	}
 	"***A VAGINA OPENS FOR YOU***"
 	{
-		"chi"		"** **"
+		"chi"		"这条密道正在为你展示更多姿势"
+	}
+	"***A VAGINA IS WARM***"
+	{
+		"chi"		"这条密道好暖和"
+	}
+	"***A VAGINA IS MUSHY***"
+	{
+		"chi"		"这条密道有股香味"
+	}
+	"***A VAGINA IS DANGEROUS***"
+	{
+		"chi"		"这条密道有些地方很危险"
+	}
+	"***A VAGINA IS FILLED WITH TEETH***"
+	{
+		"chi"		"这条密道里面有很多真菌(指NPC)"
+	}
+	"***A VAGINA IS IN ALL OF US***"
+	{
+		"chi"		"我们现在都在密道里"
+	}
+	"***A VAGINA CALLS TO US***"
+	{
+		"chi"		"密道正在广播"
+	}
+	"***A VAGINA DIDDLES US***"
+	{
+		"chi"		"密道下面突然涌出好多水"
+	}
+	"***A VAGINA DOODLES US***"
+	{
+		"chi"		"密道突然夹紧了(指地震,结构不稳定而..)"
 	}
 	"***A VAGINA FOR EVERY SANTA CLAUS***"
 	{
-		"chi"		"** **"
+		"chi"		"密道也为圣诞老人服务(指狮子王的那个)"
 	}
 	"***A VAGINA EATS PIZZA DAILY***"
 	{
-		"chi"		"** **"
-	}
-	"***A VAGINA CAN BE BOUGHT***"
-	{
-		"chi"		"** **"
+		"chi"		"密道每天都塞进好多披萨"
 	}
 	"***A VAGINA CAN FART***"
 	{
-		"chi"		"** **"
+		"chi"		"这条密道每天都排出好多废气"
+	}
+	"***A VAGINA CAN BE BOUGHT***"
+	{
+		"chi"		"密道正在招收股东"
 	}
 	"***A VAGINA CAN BE SOLD***"
 	{
-		"chi"		"** **"
+		"chi"		"密道正在招收兼职"
 	}
 	"***A VAGINA RUNS AROUND THE PRIZE OF 40$***"
 	{
-		"chi"		"** **"
+		"chi"		"密道的门票现在是四十美金跑一次"
 	}
 	"***A VAGINA GIVES BIRTH TO GOOD PEOPLE***"
 	{
-		"chi"		"** **"
+		"chi"		"每周至少跑一次密道,让你身心重获新生,换个好心情"
 	}
 	"***A VAGINA GIVES BIRTH TO BAD PEOPLE***"
 	{
-		"chi"		"** **"
+		"chi"		"或者不跑也无所谓"
 	}
 	"***A VAGINA MUST FOLLOW THE LAWS OF PHYSICS***"
 	{
-		"chi"		"** **"
+		"chi"		"密道内的物理定律非常真实"
 	}
 	"***A VAGINA CANNOT JUMP WITHOUT LEG FRIENDS***"
 	{
-		"chi"		"** **"
+		"chi"		"比如你不按跳就跳不起来"
 	}
 	"***A VAGINA USUALLY CAUSES SMOKING***"
 	{
-		"chi"		"** **"
+		"chi"		"请勿在密道内吸烟"
 	}
 	"***A VAGINA WANTS TO SPIT YOU OUT***"
 	{
-		"chi"		"** **"
+		"chi"		"密道即将到尽头"
 	}
 	"***THANK YOU FOR PARTICIPATING IN THIS SEX-ED CLASS***"
 	{
-		"chi"		"** **"
+		"chi"		"感谢你的参观"
 	}
 	"***NOW GO OUT THERE AND DIDDLE EACH OTHER***"
 	{
-		"chi"		"** **"
+		"chi"		"欢迎您再来"
 	}
 	"***DADDY IS PROUD OF YOU***"
 	{
-		"chi"		"** **"
+		"chi"		"跳刀皇:爸爸为你感到自豪"
+	}
+	"**jizz attack left**"
+	{
+		"chi"		"BOSS攻击 - 往左边屙尿"
 	}
 	"father"
 	{
-		"chi"		"** **"
+		"chi"		"婴儿星人:爸?"
+	}
+	"**stomp attack**"
+	{
+		"chi"		"BOSS攻击 - 践踏地震"
 	}
 	"***GET DIDDLING***"
 	{
-		"chi"		"** **"
+		"chi"		"(婴儿星人在受到凌辱)"
 	}
 	"***YA DOODLERS***"
 	{
-		"chi"		"** **"
+		"chi"		"(婴儿星人还在受到凌辱)"
 	}
 	"***RIP MY POODLE APART***"
 	{
-		"chi"		"** **"
+		"chi"		"(婴儿星人正在被人渣父亲家暴)"
 	}
 	"fist me"
 	{
-		"chi"		"** **"
+		"chi"		"(婴儿星人挨揍的拳击声音)"
 	}
 	"***THIS GATE SHALL OPEN IN 40 HUMAN SECONDS***"
 	{
-		"chi"		"** **"
-	}
-	"***YEE BETTER GET INSIDE, FELLAS***"
-	{
-		"chi"		"** **"
-	}
-	"***IF YOU ENJOY THE FEELING OF BEING LEFT OUT...***"
-	{
-		"chi"		"** **"
-	}
-	"***..THEN DON'T GET INSIDE***"
-	{
-		"chi"		"** **"
-	}
-	"***JUST STAY THERE AND CRY***"
-	{
-		"chi"		"** **"
+		"chi"		"婴儿星人角斗场之门在40秒后开启"
 	}
 	"***THIS GATE SHALL OPEN IN 5 HUMAN SECONDS***"
 	{
-		"chi"		"** **"
-	}
-	"***1 LIKE = ONE PRAYER FOR JEBUS***"
-	{
-		"chi"		"** **"
-	}
-	"***THE FETUS WANTS YOU***"
-	{
-		"chi"		"** **"
+		"chi"		"婴儿星人角斗场之门在5秒后开启"
 	}
 	"***THIS GATE SHALL BE OPENING RIGHT NOW***"
 	{
-		"chi"		"** **"
-	}
-	"***THE FETUS NEEDS NUTRITION***"
-	{
-		"chi"		"** **"
+		"chi"		"婴儿星人角斗场之门开启"
 	}
 	"***FALL BACK, FELLOW HUMANS***"
 	{
-		"chi"		"** **"
+		"chi"		"后撤了,抱好团"
+	}
+	"***YEE BETTER GET INSIDE, FELLAS***"
+	{
+		"chi"		"别断后了"
+	}
+	"***IF YOU ENJOY THE FEELING OF BEING LEFT OUT...***"
+	{
+		"chi"		"如果你不喜欢被抛弃的感觉,就赶紧进去了"
+	}
+	"***..THEN DONT GET INSIDE***"
+	{
+		"chi"		"赶紧的"
+	}
+	"***JUST STAY THERE AND CRY***"
+	{
+		"chi"		"再断就是死断了"
+	}
+	"***1 LIKE = ONE PRAYER FOR JEBUS***"
+	{
+		"chi"		"记得给本地图点赞,每个赞都会给婴儿星人一些祝福"
+	}
+	"***THE FETUS WANTS YOU***"
+	{
+		"chi"		"不对劲,婴儿星人想吃掉你"
+	}
+	"***THE FETUS NEEDS NUTRITION***"
+	{
+		"chi"		"婴儿星人需要营养"
 	}
 	"***THE FETUS NEEDS YOU***"
 	{
-		"chi"		"** **"
+		"chi"		"婴儿星人要你"
 	}
-	"<<<ZOMBIE TP TO BOSS>>>"
+	"***WATCH OUT FOR SINKING PLATFORMS***"
 	{
-		"chi"		"** **"
+		"chi"		"跑到那些浮上来的岩浆平台进行撤退"
 	}
 	"***RUN***"
 	{
-		"chi"		"** **"
+		"chi"		"记得贴门触发"
 	}
 	"***DIDDLE THEM OFF FOR 20 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"在这里守20秒"
 	}
 	"***GO***"
 	{
-		"chi"		"** **"
+		"chi"		"撤退"
 	}
 	"***EARN YOUR DIDDLERY***"
 	{
-		"chi"		"** **"
+		"chi"		"马上到终点了"
 	}
 	"***THIS MIGHT BE YOUR FINAL STAND***"
 	{
-		"chi"		"** **"
+		"chi"		"守住这道通往天堂的防线"
 	}
 	"***HOLD THE LINE***"
 	{
-		"chi"		"** **"
+		"chi"		"坚守此地!"
 	}
-	"***LOVE ISN'T ALWAYS ON TIME***"
+	"***LOVE ISNT ALWAYS ON TIME***"
 	{
-		"chi"		"** **"
+		"chi"		"每个人都要开枪守啊"
 	}
 	"***OH NO***"
 	{
-		"chi"		"** **"
+		"chi"		"卧槽"
 	}
 	"***A POWERFUL MAGICAL SEAL IS BLOCKING YOUR PATH TO VICTORY***"
 	{
-		"chi"		"** **"
+		"chi"		"一只强大的魔法海豹在阻挡你的去路"
 	}
 	"***HOW WILL YOU EVER GET PAST THIS CHALLENGE?***"
 	{
-		"chi"		"** **"
+		"chi"		"你会怎么做?还用问?"
 	}
 	"***YOU MUST FIND A WAY TO BREAK THE POWERFUL SEAL***"
 	{
-		"chi"		"** **"
+		"chi"		"打死他!"
 	}
 	"***QUICKLY***"
 	{
-		"chi"		"** **"
+		"chi"		"搞快点,刷枪打他"
 	}
 	"***OH NO, THE SEAL IS TOO POWERFUL***"
 	{
-		"chi"		"** **"
+		"chi"		"啧,这海豹血太厚了"
 	}
 	"***WE NEED TO SHOOT IT WITH ALL OUR MIGHT***"
 	{
-		"chi"		"** **"
+		"chi"		"加大力度"
 	}
 	"***YOU DID IT!***"
 	{
-		"chi"		"** **"
-	}
-	"***THE DIDDLERY HAS BEEN DONE***"
-	{
-		"chi"		"** **"
+		"chi"		"人类又㕛叒叕再获得一次短暂的胜利"
 	}
 	"***THE POWERFUL SEAL HAS BEEN BROKEN***"
 	{
-		"chi"		"** **"
-	}
-	"***HOWEVER, YOU ARE POOR AND SAD INSIDE***"
-	{
-		"chi"		"** **"
+		"chi"		"这个强大的屏障被打破了"
 	}
 	"***PEACE SHALL REMAIN IN THE PEACEFUL LAND OF ANTARCTICA***"
 	{
-		"chi"		"** **"
+		"chi"		"坏海豹死了,和平之光将会继续洒落在南极洲各地"
+	}
+	"***THE CHAPEL DOOR WILL OPEN IN 15 SECONDS***"
+	{
+		"chi"		"天堂之门将会在15秒后开放给你"
+	}
+	"***THE ELEVATOR LEAVES IN 20 SECONDS***"
+	{
+		"chi"		"电梯20秒后升起"
+	}
+	"***THE MIDDLE GATE WILL OPEN IN 25 SECONDS***"
+	{
+		"chi"		"中路的门将会在25秒后打开"
+	}
+	"***THE ELEVATOR LEAVES IN 10 SECONDS***"
+	{
+		"chi"		"电梯10秒后升起"
+	}
+	"***THE ELEVATOR LEAVES IN 5 SECONDS***"
+	{
+		"chi"		"电梯5秒后升起"
+	}
+	"***THE TOWER GATE IS OPENING IN 30 SECONDS***"
+	{
+		"chi"		"塔楼的大门将会在30秒后打开"
+	}
+	"***THE ELEVATOR IS DIDDLING***"
+	{
+		"chi"		"电梯正在升起"
+	}
+	"***THE MIDDLE GATE WILL OPEN IN 5 SECONDS***"
+	{
+		"chi"		"中路的门将会在5秒后打开"
+	}
+	"***THE MIDDLE GATE IS DIDDLED***"
+	{
+		"chi"		"中路的门开了"
+	}
+	"***THE TOWER GATE IS OPENING IN 10 SECONDS***"
+	{
+		"chi"		"塔楼的大门将会在10秒后打开"
+	}
+	"***THE TOWER GATE IS OPENING IN 5 SECONDS***"
+	{
+		"chi"		"塔楼的大门将会在5秒后打开"
+	}
+	"***THE TOWER GATE IS DIDDLED***"
+	{
+		"chi"		"塔楼的大门打开了"
+	}
+	"***THE END IS NEAR***"
+	{
+		"chi"		"跳刀皇:你马上就看到我了"
+	}
+	"***HOLD OUT FOR 30 SECONDS***"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"***STAY STRONG FOR DADDY***"
+	{
+		"chi"		"跳刀皇:坚持住"
+	}
+	"***THE END IS COMING IN 20 SECONDS***"
+	{
+		"chi"		"跳刀皇二十秒后登场"
+	}
+	"***THE END IS COMING IN 10 SECONDS***"
+	{
+		"chi"		"跳刀皇十秒后登场"
+	}
+	"***THE END IS COMING IN 5 SECONDS***"
+	{
+		"chi"		"跳刀皇五秒后登场"
+	}
+	"***THE END IS COMING IN 4 SECONDS***"
+	{
+		"chi"		"跳刀皇四秒后登场"
+	}
+	"***THE END IS COMING IN 3 SECONDS***"
+	{
+		"chi"		"跳刀皇三秒后登场"
+	}
+	"***THE END IS COMING IN 2 SECONDS***"
+	{
+		"chi"		"跳刀皇二秒后登场"
+	}
+	"***THE END IS COMING IN 1 SECOND***"
+	{
+		"chi"		"跳刀皇即将登场"
+	}
+	"***THE END IS NIGH***"
+	{
+		"chi"		"他来了!"
+	}
+	"***OH NO, ITS THE DIDDLE DICK***"
+	{
+		"chi"		"跳刀皇闪耀登场"
+	}
+	"***PREPARE YER ARSEHOLES***"
+	{
+		"chi"		"跳刀皇:准备迎接我的审判吧!"
+	}
+	"***THE DIDDLERY IS COMING***"
+	{
+		"chi"		"跳刀皇:看招!"
+	}
+	"***THE DIDDLE DICK HAS BEEN DEFEATED***"
+	{
+		"chi"		"跳刀皇被击败了"
+	}
+	"***TAKE A LEAP OF FAITH***"
+	{
+		"chi"		"信仰之跃!"
+	}
+	"***YOU ARE THE ULTIMATE DIDDLERS***"
+	{
+		"chi"		"过年了"
+	}
+	"***MAY THE DOODLING BE WITH YOU***"
+	{
+		"chi"		"祝luffc们身体健康"
+	}
+	"***THIS IS A COLLABORATIVE MAP MADE BY:***"
+	{
+		"chi"		"地图作者列表:"
+	}
+	"> LUFFAREN"
+	{
+		"chi"		"LUFFAREN本人"
+	}
+	"> HICHATU"
+	{
+		"chi"		"HICHATU本人"
+	}
+	"> TURTLE REACTIONS"
+	{
+		"chi"		"TURTLE REACTIONS本人"
+	}
+	"> QAZLLL456"
+	{
+		"chi"		"QAZLLL456本人 和 THE ORDIAXER"
+	}
+	"> THE ORDIAXER"
+	{
+		"chi"		"地图翻译: CGMentos ; PW FIXED BY MAOLING & CGMentos"
+	}
+	"***THANK YOU FOR PLAYING***"
+	{
+		"chi"		"感谢你的游玩"
+	}
+	"***PURCHASED - BIG DICK***"
+	{
+		"chi"		"[神器超市]已购买 轮胎(群体强力加速)"
+	}
+	"***PURCHASED - DISCO PUSH***"
+	{
+		"chi"		"[神器超市]已购买 DJ枪(推走前方所有僵尸)"
+	}
+	"***RESETTING THE MAP***"
+	{
+		"chi"		"调关 - 重置地图"
+	}
+	"***SKIPPING DIRECTLY TO FINALE***"
+	{
+		"chi"		"调关 - 跳过所有小关卡"
+	}
+	"***PURCHASED - SMALL DICK***"
+	{
+		"chi"		"[神器超市]已购买 消防栓(单体加速)"
+	}
+	"***PURCHASED - LEGENDARY HEAL***"
+	{
+		"chi"		"[神器超市]已购买 大奶(生命值恢复并提升至300)"
+	}
+	"***KILL BUTTON PRESSED***"
+	{
+		"chi"		"调关 - 处死所有玩家"
+	}
+	"***ALL COINS BUTTON PRESSED***"
+	{
+		"chi"		"调关 - 收集所有金币"
+	}
+	"|====<YOU HAVE GATHERED ALL THE DIDDLE COINS>====|"
+	{
+		"chi"		"恭喜你已经收集完所有地图金币"
+	}
+	"|====<YOU ARE RICH AND PROUD, AND SHALL THEREFORE REACH GREATER HEIGHTS>====|"
+	{
+		"chi"		"恭喜你已经收集完所有地图金币"
+	}
+	"|====<PREPARE FOR THE ULTIMATE DIDDLING>====|"
+	{
+		"chi"		"为了最终冒险而做好准备吧"
+	}
+	"***PURCHASED - LEGENDARY GUARDIAN***"
+	{
+		"chi"		"[神器超市]已购买 企业级墙(大墙)"
+	}
+	"***SKIP STAGE - WEEB***"
+	{
+		"chi"		"跳关 - 二次元"
+	}
+	"***PURCHASED - DIDDLE CANNON***"
+	{
+		"chi"		"[神器超市]已购买 大炮"
+	}
+	"***THE DIDDLERY HAS BEEN DONE***"
+	{
+		"chi"		"冒险结束,但你可能没有收集完所有金币"
+	}
+	"***HOWEVER, YOU ARE POOR AND SAD INSIDE***"
+	{
+		"chi"		"因此你不能进入天堂"
 	}
 	"***COME BACK WHEN YOU ARE WEALTHIER***"
 	{
+		"chi"		"等金币收集多点你再来尝试吧"
+	}
+	"**jizz attack mid**"
+	{
+		"chi"		"BOSS攻击 - 往中间屙尿"
+	}
+	"there are probably AT LEAST 50 people in the world who likes to sniff cats buttholes"
+	{
+		"chi"		"据我所知,这个世界上至少有50个人有喜欢闻猫屁股的特殊xp"
+	}
+	"why do we even exist"
+	{
+		"chi"		"为了胜利而活着!"
+	}
+	"every night when i go to bed i think about the vast universe and how insignificant we are"
+	{
+		"chi"		"每天晚上睡觉的时候我都会想到浩瀚的宇宙和我们是多么的渺小"
+	}
+	"***HICHATU CANT MAKE MODELS IN BLENDER***"
+	{
+		"chi"		"[彩蛋]HICHATU不会用BLENDER制作模型"
+	}
+	"watch out for soggy ovaries"
+	{
+		"chi"		"那些喜欢闻猫屁股的人小心艾"
+	}
+	"*Tiki 1 Broken - There are 2 more tikis to find*"
+	{
+		"chi"		"[彩蛋]Tiki 1号触发了,还有两个"
+	}
+	"*Tiki 3 Broken*"
+	{
+		"chi"		"[彩蛋]Tiki 3号触发"
+	}
+	"***YOU TOOK TOO LONG - NUKING HUMANS***"
+	{
+		"chi"		"[地图系统]人类打太久了,处死他们"
+	}
+	"DADDY OOOOH YEAH DADDY LICK MY NIPPLES"
+	{
+		"chi"		"[彩蛋]噢噢,好舒服"
+	}
+	"GIT OUT OF MI HOUUUUUSE"
+	{
+		"chi"		"史莱克:别烦我"
+	}
+	"*Pull attack*"
+	{
+		"chi"		"BOSS攻击 - 吸星大法"
+	}
+	"i love you"
+	{
+		"chi"		"[诅咒技能]我爱你"
+	}
+	"***BURN ALL 10 HOUSES AND SHOOT ALL 5 WEEBS TO TELEPORT OUT EARLIER***"
+	{
+		"chi"		"烧掉所有的房子，并把5个纸片人烧灭了"
+	}
+	"***ESCAPE YOUR LOVE***"
+	{
+		"chi"		"史莱克:我现在好爱你啊!我们永远在一起好不好"
+	}
+	"***FAREWELL YOUR LOVE***"
+	{
+		"chi"		"史莱克:永别了"
+	}
+	"***Since you are doing so well, i figure that i should make it harder for you***"
+	{
+		"chi"		"电龟:你好像很轻松的样子"
+	}
+	"***I will heal the big turtle every now and then***"
+	{
+		"chi"		"电龟:我现在会时不时的治愈他"
+	}
+	"***Because i am a naughty little turtle.. rowr XD***"
+	{
+		"chi"		"电龟:嘻嘻"
+	}
+	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:30 MINUTES)***"
+	{
+		"chi"		"如果你在2:30内做不完任务你就会被传送"
+	}
+	"***HOLD THEM OFF FOR A LONG TIME***"
+	{
+		"chi"		"在这里要守很久很久,约128秒"
+	}
+	"***SKIP STAGE - SHREK***"
+	{
+		"chi"		"跳关 - 史莱克"
+	}
+	"***SKIP STAGE - DDAY***"
+	{
+		"chi"		"跳关 - 抢滩登陆战"
+	}
+	"***SKIP STAGE - DIGLETT***"
+	{
+		"chi"		"跳关 - 地鼠"
+	}
+	"***SKIP STAGE - TURTLE***"
+	{
+		"chi"		"跳关 - 老王八"
+	}
+	"*****ROUND END*****"
+	{
+		"chi"		"回合结束"
+	}
+	"<== You must find the bomb to open the way"
+	{
+		"chi"		"士兵们!下船给我冲! 记得把雷管收集完了!"
+	}
+	"defend for 30 sec"
+	{
+		"chi"		"坚守30秒"
+	}
+	"***NOT ENOUGH HUMANS - SLAYING TO SAVE TIME***"
+	{
+		"chi"		"[地图系统]好像不够人类继续进行下一个关卡,处死所有人类节省时间"
+	}
+	"<== Wait 25 second to go to heilcopter==>"
+	{
+		"chi"		"在这里守25秒,然后上直升机"
+	}
+	"***ZOMBIES TELEPORT IN 15 SECONDS***"
+	{
+		"chi"		"商店已经关闭,僵尸将会在十五秒后传送"
+	}
+	"***ZOMBIES TELEPORT IN 10 SECONDS***"
+	{
+		"chi"		"商店已经关闭,僵尸将会在十秒后传送"
+	}
+	"***ZOMBIES TELEPORT IN 5 SECONDS***"
+	{
+		"chi"		"商店已经关闭,僵尸将会在5秒后传送"
+	}
+	"***ZOMBIES TELEPORTING***"
+	{
+		"chi"		"僵尸传送进去了"
+	}
+	"***ZOMBIES REACHED ELEVATOR - YOURE DEAD***"
+	{
+		"chi"		"僵尸们走到电梯路了,回合失败"
+	}
+	"***DEFEND FOR 50 SECONDS***"
+	{
+		"chi"		"还有五十秒打开大门"
+	}
+	"***ZOMBIES REACHED TOP GATE - YOURE DEAD***"
+	{
+		"chi"		"僵尸们走到门前了,回合失败"
+	}
+	"***YOU WILL TELEPORT OUT IF YOU TAKE TOO LONG (2:20 MINUTES)***"
+	{
+		"chi"		"如果你在2:30内做不完任务你就会被传送"
+	}
+	"hold 15sec"
+	{
+		"chi"		"再守15秒"
+	}
+	"<==Get in the helicopter and out in 80s ==>"
+	{
+		"chi"		"是男人就在直升机内守80秒"
+	}
+	"<==helicopter fly out in 30s ==>"
+	{
+		"chi"		"是男人就在直升机内守30秒"
+	}
+	"<==helicopter fly out in 15s ==>"
+	{
+		"chi"		"是男人就在直升机内守15秒"
+	}
+	"<==helicopter fly out in 5s ==>"
+	{
+		"chi"		"是男人就在直升机内守5秒"
+	}
+	"<<<ZOMBIE TP TO BOSS>>>"
+	{
+		"chi"		"BOSS攻击 - 传送僵尸进角斗场"
+	}
+	"***YOU TOOK TOO LONG - RELEASING ZOMBIES***"
+	{
+		"chi"		"[地图系统]你搞太久了,释放所有僵尸进角斗场"
+	}
+	"BUILD A LADDER ||-----||"
+	{
+		"chi"		"[地图秘密]地图生成了一条梯子"
+	}
+	"===[ ZOMBIE JIHAD ABORTED - BADEXPLOIT SPOT ]==="
+	{
+		"chi"		"[地图神器]僵尸自爆终止 - 此处不能引爆"
+	}
+	"***PEOPLE WITH DREAMS OF LIVING ON THE EDGE SHALL SUCCUMB TO THE LIQUID WARMTH OF DIDDLERY***"
+	{
+		"chi"		"[地图秘密]你喜欢贴边那LUFF就给你点奖励"
+	}
+	"PW Fixes by Kyle & CGMentos"
+	{
 		"chi"		"** **"
+	}
+	"alright let's fight that dicklett"
+	{
+		"chi"		"**病毒清理完毕,人类获胜即将传送**"
+	}
+	"defend 'till the door's been fully opened"
+	{
+		"chi"		"** 守住这里直到门完全开启 **"
+	}
+	"<==heilcopter fly out now! ==>"
+	{
+		"chi"		"** 抢滩登陆战 - 通关! **"
 	}
 	"***TP'ING IN 10 SECS***"
 	{
-		"chi"		"** **"
+		"chi"		"** 10秒后传送 **"
 	}
 	"***TP'ING IN 5 SECS***"
 	{
@@ -817,176 +1364,8 @@
 	{
 		"chi"		"** **"
 	}
-	"***Poof*"
+	"*You are stuck inside Turtle Reaction's Computer - Try to escape this place*"
 	{
-		"chi"		"** **"
-	}
-	"***HOLD THEM OFF FOR A LONG TIME***"
-	{
-		"chi"		"** **"
-	}
-	"***THE CHAPEL DOOR WILL OPEN IN 15 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***THE MIDDLE GATE WILL OPEN IN 25 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***HICHATU CAN'T MAKE MODELS IN BLENDER***"
-	{
-		"chi"		"** **"
-	}
-	"***THE MIDDLE GATE WILL OPEN IN 5 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***THE MIDDLE GATE IS DIDDLED***"
-	{
-		"chi"		"** **"
-	}
-	"there are probably AT LEAST 50 people in the world who likes to sniff cats buttholes"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS NEAR***"
-	{
-		"chi"		"** **"
-	}
-	"***HOLD OUT FOR 30 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***STAY STRONG FOR DADDY***"
-	{
-		"chi"		"** **"
-	}
-	"why do we even exist"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS COMING IN 20 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"every night when i go to bed i think about the vast universe and how insignificant we are"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS COMING IN 10 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS COMING IN 5 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS COMING IN 4 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS COMING IN 3 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS COMING IN 2 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS COMING IN 1 SECOND***"
-	{
-		"chi"		"** **"
-	}
-	"***THE END IS NIGH***"
-	{
-		"chi"		"** **"
-	}
-	"***OH NO, IT'S THE DIDDLE DICK***"
-	{
-		"chi"		"** **"
-	}
-	"***PREPARE YER ARSEHOLES***"
-	{
-		"chi"		"** **"
-	}
-	"***THE DIDDLERY IS COMING***"
-	{
-		"chi"		"** **"
-	}
-	"watch out for soggy ovaries"
-	{
-		"chi"		"** **"
-	}
-	"***THE DIDDLE DICK HAS BEEN DEFEATED***"
-	{
-		"chi"		"** **"
-	}
-	"***TAKE A LEAP OF FAITH***"
-	{
-		"chi"		"** **"
-	}
-	"***YOU ARE THE ULTIMATE DIDDLERS***"
-	{
-		"chi"		"** **"
-	}
-	"***MAY THE DOODLING BE WITH YOU***"
-	{
-		"chi"		"** **"
-	}
-	"***THIS IS A COLLABORATIVE MAP MADE BY:***"
-	{
-		"chi"		"** **"
-	}
-	"> LUFFAREN"
-	{
-		"chi"		"** **"
-	}
-	"> HICHATU"
-	{
-		"chi"		"** **"
-	}
-	"> TURTLE REACTIONS"
-	{
-		"chi"		"** **"
-	}
-	"> QAZLLL456"
-	{
-		"chi"		"** **"
-	}
-	"> THE ORDIAXER"
-	{
-		"chi"		"** **"
-	}
-	"***THANK YOU FOR PLAYING***"
-	{
-		"chi"		"** **"
-	}
-	"***WATCH OUT FOR SINKING PLATFORMS***"
-	{
-		"chi"		"** **"
-	}
-	"***PURCHASED - LEGENDARY HEAL***"
-	{
-		"chi"		"** **"
-	}
-	"***DEFEND FOR 40 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***ELEVATOR LEAVES IN 10 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***ELEVATOR LEAVES IN 5 SECONDS***"
-	{
-		"chi"		"** **"
-	}
-	"***ELEVATOR IS LEAVING***"
-	{
-		"chi"		"** **"
-	}
-	"PW Fixes by Kyle & CGMentos"
-	{
-		"chi"		"** **"
+		"chi"		"电脑病毒清理战"
 	}
 }
