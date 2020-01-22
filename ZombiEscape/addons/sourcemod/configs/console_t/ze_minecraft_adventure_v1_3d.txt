@@ -2,437 +2,379 @@
 {
 	"*** CURRENT STAGE IS 1: Overworld ***"
 	{
-		"chi"		"** 关卡 1 ：上界 **"
+		"chi"		"第一关：人界"
 	}
 	"*** DEFEND 25 SECONDS ***"
 	{
-		"chi"		"** 坚守 25 秒 **"
+		"chi"		"守住25秒"
 		"DoorCountDown"		"25"
 	}
 	"*** 5 SECONDS REMAINING ***"
 	{
-		"chi"		"** 还有 5 秒 **"
+		"chi"		"还有5秒"
 	}
 	"*** FALL BACK ***"
 	{
-		"chi"		"** 撤退 **"
+		"chi"		"快溜"
 	}
 	"*** MINECARTS LEAVING IN 25 SEC ***"
 	{
-		"chi"		"** 矿车将在 25 秒后离开 **"
+		"chi"		"矿车25秒后离开（记得待在矿车内）"
 		"DoorCountDown"		"25"
 	}
 	"*** MINECARTS LEAVING IN 10 SEC ***"
 	{
-		"chi"		"** 矿车将在 10 秒后离开 **"
+		"chi"		"矿车10秒后离开"
 	}
 	"*** GET INTO MINECARTS ***"
 	{
-		"chi"		"** 搭乘矿车 **"
+		"chi"		"快上车，来不及解释了"
 	}
 	"***HOLD CASTLE 35 SEC***"
 	{
-		"chi"		"** 守卫城堡 35 秒 **"
+		"chi"		"守住城堡35秒"
 	}
 	"*** 5 SEC REMAINING ***"
 	{
-		"chi"		"** 还剩 5 秒 **"
+		"chi"		"还有5秒"
 	}
 	"***FALL BACK***"
 	{
-		"chi"		"** 撤退 **"
+		"chi"		"快溜！"
 	}
 	"*** BOATS LEAVING IN 15 SEC ***"
 	{
-		"chi"		"** 船只将在 15 秒后离开 **"
+		"chi"		"小船15秒后离开"
 	}
 	"*** FALL BACK INTO BOATS ***"
 	{
-		"chi"		"** 快上船防守 **"
+		"chi"		"快上船"
 	}
 	"*** TNT EXPLODING IN 20 SEC ***"
 	{
-		"chi"		"** TNT将在 20 秒后爆炸 **"
+		"chi"		"TNT在20秒后爆炸*"
 		"DoorCountDown"		"20"
 	}
 	"*** TAKE PICKAXE AND BREAK OBSIDIAN TO BUILD PORTAL ***"
 	{
-		"chi"		"** 拿起稿子挖取（破坏）黑曜石来创造地狱门 **（在没有出现BUG的情况下拿稿子的玩家站在黑曜石上 5 秒左右可以破坏黑曜石）"
+		"chi"		"找到钻石镐挖取黑曜石"
 	}
 	"*** FALL BACK! PORTAL IS ACTIVATING IN 5 SECONDS ***"
 	{
-		"chi"		"** 撤退！地狱门将在 5 秒后激活 **"
+		"chi"		"撤退！地狱门5秒后激活"
 		"DoorCountDown"		"5"
 	}
 	"*** BUNKER IS CLOSING IN 15 SEC ***"
 	{
-		"chi"		"** 碉堡将在 15 秒后关闭 **"
+		"chi"		"安全屋15秒后关闭"
 		"DoorCountDown"		"15"
 	}
 	"*** BUNKER IS CLOSING ***"
 	{
-		"chi"		"** 碉堡关闭 **"
+		"chi"		"安全屋已关闭"
 	}
 	"*** HUMANS WON! MOVING ON TO STAGE 2 ***"
 	{
-		"chi"		"** 人类胜利！进入关卡 2 **（有点本事）"
+		"chi"		"人类胜利！第二关加载中"
 	}
 	"*** CURRENT STAGE IS 2: The Nether ***"
 	{
-		"chi"		"** 关卡 2 ：下界 **"
+		"chi"		"第二关：地狱"
 	}
 	"*** WALL BREAKS IN 15 SEC ***"
 	{
-		"chi"		"** 墙壁将在 15 秒后破碎 **"
+		"chi"		"墙壁15秒后破碎"
 		"DoorCountDown"		"15"
 	}
 	"*** RESIST 15 SECONDS ***"
 	{
-		"chi"		"** 防守 15 秒 **"
+		"chi"		"守住15秒"
 		"DoorCountDown"		"15"
 	}
 	"*** RESIST 10 SECONDS ***"
 	{
-		"chi"		"** 防守 10 秒 **"
+		"chi"		"守住10秒"
 		"DoorCountDown"		"10"
 	}
 	"***RESIST 20 SECONDS***"
 	{
-		"chi"		"** 防守 20 秒 **"
+		"chi"		"防守20秒"
 		"DoorCountDown"		"20"
 	}
 	"***5 SECONDS REMAINING***"
 	{
-		"chi"		"** 还剩 5 秒 **"
+		"chi"		"还剩5秒"
 	}
 	"*** RESIST 20 SECONDS ***"
 	{
-		"chi"		"** 防守 20 秒 **"
+		"chi"		"防守20秒"
 		"DoorCountDown"		"20"
 	}
 	"*** RESIST 25 SECONDS ***"
 	{
-		"chi"		"** 防守 25 秒 **"
+		"chi"		"防守25秒"
 		"DoorCountDown"		"25"
 	}
 	"*** HOLD NETHERFORTRESS 30 SECONDS ***"
 	{
-		"chi"		"** 守住地狱城堡 30 秒 **"
+		"chi"		"守住地狱城堡30秒"
 		"DoorCountDown"		"30"
 	}
 	"*** EVERYONE GET INSIDE! ***"
 	{
-		"chi"		"** 所有人都进去！进去防守！ **"
+		"chi"		"所有人都进去！"
 	}
 	"*** GHAST HAS BEEN DEFEATED ***"
 	{
-		"chi"		"** 恶魂被击败了 **"
+		"chi"		"恶魂被打败了"
 	}
 	"*** ESCAPE FROM THE NETHER!!! ***"
 	{
-		"chi"		"** 逃出地狱！！！ **"
+		"chi"		"逃出地狱！！"
 	}
 	"*** ACTIVATE THE PORTAL USING FLINT AND STEEL ***"
 	{
-		"chi"		"** 要想激活地狱门需要 燧石&铁 来制作打火石**"
+		"chi"		"找到铁和燧石来激活地狱门"
 	}
 	"*** 40 SECONDS REMAINING ***"
 	{
-		"chi"		"** 剩余 40 秒 **（加油）"
+		"chi"		"还有40秒"
 		"DoorCountDown"		"40"
 	}
 	"*** 30 SECONDS REMAINING ***"
 	{
-		"chi"		"** 剩余 30 秒 **（能拖尽量拖）"
+		"chi"		"30秒"
 	}
 	"*** STEEL HAS BEEN PICKED UP ***"
 	{
-		"chi"		"** 材料铁已被拾取 **"
+		"chi"		"获得 铁"
 	}
 	"*** 20 SECONDS REMAINING ***"
 	{
-		"chi"		"** 剩余 20 秒 **"
+		"chi"		"20秒"
 		"DoorCountDown"		"20"
 	}
 	"*** 10 SECONDS REMAINING ***"
 	{
-		"chi"		"** 剩余 10 秒 **"
+		"chi"		"10秒"
 	}
 	"*** FLINT HAS BEEN PICKED UP ***"
 	{
-		"chi"		"** 材料燧石被拾取 **"
+		"chi"		"获得 燧石"
 	}
 	"*** CURRENT STAGE IS 1: Overworld ***"
 	{
-		"chi"		"**  关卡 1 ：上界 **"
+		"chi"		"第一关：人界"
 	}
 	"Map made by Cuniczek"
 	{
-		"chi"		"** 地图制作 by Cuniczek 地图翻译 by 色狼领袖 **"
+		"chi"		"地图作者：Cuniczek  地图汉化：大明@風雲社"
 	}
 	"Thanks to Enviolinador & Kaesar"
 	{
-		"chi"		"**  感谢：Enviolinador 和 Kaesar **"
+		"chi"		"感谢：Enviolinador & kaesar"
 	}
 	"*** DEFEND 25 SECONDS ***"
 	{
-		"chi"		"*** 坚守 25 秒 ***"
+		"chi"		"守住25秒"
 		"DoorCountDown"		"25"
 	}
 	"*** WALLS BREAK IN 15 SEC ***"
 	{
-		"chi"		"*** 墙壁将在 15 秒后破碎 ***"
+		"chi"		"墙壁15秒后破碎"
 		"DoorCountDown"		"15"
 	}
 	"*** HUMANS WON! MOVING ON TO STAGE 3 ***"
 	{
-		"chi"		"*** 人类胜利！进入关卡 3 ***（牛B牛B）"
+		"chi"		"人类胜利！第三关加载中"
 	}
 	"*** CURRENT STAGE IS 3: Jungle ***"
 	{
-		"chi"		"** 关卡 3 ：丛林 **"
+		"chi"		"第三关：丛林"
 	}
 	"*** YOU HAVE TO STAND ON ALL PRESSURE PLATES TO OPEN THE DOOR ***"
 	{
-		"chi"		"** 你们必须站到所有的压力板上来打开这个门 **（压力板就是地上个方形地板）"
+		"chi"		"你必须站在所有的压板上才能开门"
 	}
 	"*** WELL DONE! NOW PRESS 2 LEVERS TO OPEN NEXT DOOR ***"
 	{
-		"chi"		"** 干的漂亮！现在去按下 2 个杠杆来打开下一个门 **（注意防守僵尸）"
+		"chi"		"现在去触发两个杠杆打开开关"
 	}
 	"*** WELL DONE! NEXT DOOR IS OPENING IN 30SEC ***"
 	{
-		"chi"		"** 干的漂亮！墙壁将在 30 秒后破裂，在这之前继续蹂躏僵尸！ **(门开以后，新手推荐下楼右拐！）"
+		"chi"		"墙壁30秒后破碎！继续防守僵尸"
 		"DoorCountDown"		"30"
 	}
 	"*** NEXT DOOR OPENS IN 20 SECONDS ***"
 	{
-		"chi"		"** 下个门将在 20 秒后打开 **
-                "
-		"DoorCountDown"		"                "
+		"chi"		"下个门20秒后打开"
 	}
 	"*** FIND A WAY TO OPEN THIS DOOR ***"
 	{
-		"chi"		"** 寻找一种打开这个门的办法 **（打烂大门左右两边铁块正对着的墙壁，丢手枪拿火把，将红石火把丢在铁块上，最好3个全拿走）"
+		"chi"		"找到方法打开大门"
 	}
 	"*** THIS SHOULD WORK ***"
 	{
-		"chi"		"** 石门正在打开 **（可以不用在放红石火把了）"
+		"chi"		"石门正在打开"
 	}
 	"*** FIND REDSTONE TORCHES AND PUT THEM IN PLACE TO OPEN THE DOOR ***"
 	{
-		"chi"		"** 找到红石火把，继续将它们放在铁块上 **（不要尝试去拿平台上的那手枪，因为地板会塌）"
+		"chi"		"找到红石火把，放好打开门"
 	}
 	"*** Door is Opening ***"
 	{
-		"chi"		"** 大门开启 **"
+		"chi"		"大门开启中"
 	}
 	"*** NICELY DONE! ***"
 	{
-		"chi"		"** 干的漂亮 **"
+		"chi"		"干得好"
 	}
 	"*** DOOR OPENS IN 20 SEC ***"
 	{
-		"chi"		"** 大门将在 20 秒后开启 **"
+		"chi"		"大门20秒后打开"
 		"DoorCountDown"		"20"
 	}
 	"*** DEFEND FOR 40 SEC OR PRESS 2 BUTTONS AT THE SAME TIME ***"
 	{
-		"chi"		"** 防守 40 秒！或者同时按下 2 边的按钮！**（另外一个按钮在管道里）"
+		"chi"		"防守40秒或者同时按下两个按钮"
 	}
 	"*** FALL BACK DOOR IS OPENING ***"
 	{
-		"chi"		"** 撤退！逃生路线已经开启！**"
+		"chi"		"撤退！"
 	}
 	"*** SOLVE THE PUZZLE OR RESIST 30 SECONDS ***"
 	{
-		"chi"		"** 解开谜题！或者防守 30 秒！ **（熄灭所有的红石火把，其他开关不要动）"
+		"chi"		"解决开关的秘密或者防守30秒"
 	}
 	"*** MOVE ON! NEXT DOOR IS OPENING ***"
 	{
-		"chi"		"** 撤退！下一个门已经打开！**"
+		"chi"		"撤退！下一个门已经打开了"
 	}
 	"Yes! We have found it! The Eyes of Ender. Now we can find Stronghold."
 	{
-		"chi"		"** 漂亮！我们得到了末影之眼.这下我们可以找到要塞了！**"
+		"chi"		"我们得到了末影之眼.现在去找大本营"
 	}
 	"*** GET ON TOP OF THE TEMPLE AND RESIST 60 SECONDS ***"
 	{
-		"chi"		"** 逃到神庙的顶部并防守僵尸 60 秒 **"
+		"chi"		"逃到神庙顶部防守60秒"
 	}
 	"*** 50 SECONDS REMAINING ***"
 	{
-		"chi"		"** 还剩余 50 秒 **"
+		"chi"		"还有50秒"
 	}
 	"*** HUMANS WON! MOVING ON TO STAGE 4 ***"
 	{
-		"chi"		"** 人类胜利！进入关卡 4 **（神已经无法阻止你们了！）"
+		"chi"		"人类胜利！第四关加载中"
 	}
 	"*** CURRENT STAGE IS 4: The End ***"
 	{
-		"chi"		"** 关卡 4 ：末地 **"
+		"chi"		"第四关：终末の地"
 	}
 	"*** THROW EYE OF ENDER BY USING IT ***"
 	{
-		"chi"		"** 快使用末影之眼！**（在神庙外面左边的地上寻找一颗末影之眼并对它按 E 使用，否则空气墙不会消失！）"
+		"chi"		"快使用末影之眼"
 	}
 	"We must follow the eye of ender to locate Stronghold!"
 	{
-		"chi"		"** 我们要顺着末影之眼的指引，寻找并进入要塞！**"
+		"chi"		"顺着末影之眼的指引找到大本营！"
 	}
 	"*** RUN INTO DESERT AND RESIST FOR A WHILE ***"
 	{
-		"chi"		"** 进入沙漠并防守一段时间 **（上山丘防守）"
+		"chi"		"进入沙漠防守一段时间！"
 	}
 	"Eye of ender fell into ocean! We better go and explore caves beneath ugly looking spanish house."
 	{
-		"chi"		"** 末影之眼落入了海洋！我们最好去探索下那间简陋的西班牙式房子 **"
+		"chi"		"末影之眼坠入深海！我们最好去旁边的小屋子找找线索."
 	}
 	"*** RUN INTO HOUSE ***"
 	{
-		"chi"		"** 进入那个小屋 **（小屋3楼需要防守）"
+		"chi"		"进入小屋子防守"
 	}
 	"*** RESIST FOR 30 SECONDS ***"
 	{
-		"chi"		"** 防守 30 秒 **（逃生路线在1楼）"
+		"chi"		"防守30秒（一楼地板是路）"
 		"DoorCountDown"		"30"
 	}
 	"*** FALL BACK 5 SECONDS REMAINING ***"
 	{
-		"chi"		"** 还有 5 秒！**"
+		"chi"		"还有5秒"
 	}
 	"*** GO INTO UNDERGROUND ***"
 	{
-		"chi"		"** 进入地下 **"
+		"chi"		"进入地底！"
 	}
 	"*** PORTAL IS ACTIVATING IN 35 SECONDS ***"
 	{
-		"chi"		"** 通往末地的传送门将在 35 秒后激活 **（跳到岩浆里就出不来！死定了！）"
+		"chi"		"前往末影龙领域的传送门35秒后激活"
 	}
 	"*** WE DID IT! WE ARE IN THE END! NOW... WE HAVE TO BREAK CRYSTALS AND... FIGHT... THE DRAGON ***"
 	{
-		"chi"		"** 我们做到了！我们现在就在末地！现在...我们必须打破所有末影水晶...然后...战胜末影龙！**"
+		"chi"		"打破所有的末影水晶让末影龙出现并打败它！"
 	}
 	"*** ALL CRYSTALS ARE BROKEN ***"
 	{
-		"chi"		"** 所有末影水晶被破坏了！**"
+		"chi"		"所有末影水晶已击碎"
 	}
 	"*** GET IN THE MIDDLE WE HAVE TO FIGHT THE DRAGON ***"
 	{
-		"chi"		"** 现在我们不得不战胜末影龙**"
+		"chi"		"打败末影龙"
 	}
 	"*** THE DRAGON IS DEAD ***"
 	{
-		"chi"		"** 末影龙已经死亡 **"
+		"chi"		"末影龙去世"
 	}
 	"*** JUMP INTO THE PORTAL ***"
 	{
-		"chi"		"** 跳进传送门！**（不停的跳！）"
+		"chi"		"跳起来进入传送门"
 	}
 	"*** RUN!! WE MUST ESCAPE!!! ***"
 	{
-		"chi"		"** 撤退！我们现在必须逃走！**"
+		"chi"		"撤退！快溜！"
 	}
 	"*** WE SHOULD HOLD THIS ROOM AS LONG AS POSSIBLE ***"
 	{
-		"chi"		"** 我们应该尽可能长时间的守住这个位置！**（最后一个防守点了！火力全开！）"
+		"chi"		"最后的战斗！"
 	}
 	"He's watching you..."
 	{
-		"chi"		"** 他在看着你...**（Herobrine出没）"
+		"chi"		"Herobrine Persson在看着你..."
 	}
 	"*** HEROBRINE! KILL HIM! ***"
 	{
-		"chi"		"** 是Herobrine！快杀了他！**"
+		"chi"		"快杀了Herobrine Persson"
 	}
 	"*** HE'S RUNNING AWAY! ***"
 	{
-		"chi"		"** Herobrine正在逃跑！**"
+		"chi"		"他逃跑了！"
 	}
 	"*** CONGRATULATIONS YOU HAVE BEATEN THE MAP ***"
 	{
-		"chi"		"** 祝贺你们成功通关本地图！**（legendary！！！）"
+		"chi"		"恭喜你们通关本地图！"
 	}
 	"*** KILL ZOMBIES INSIDE!  ***"
 	{
-		"chi"		"** 杀死里面的僵尸！**"
+		"chi"		"击杀剩余的僵尸！"
 	}
 	"*** Thanks for playing! ***"
 	{
-		"chi"		"** 感谢您的体验 **"
+		"chi"		"感谢您的游玩"
 	}
 	"*** RESIST 30 SECONDS ***"
 	{
-		"chi"		"** 抵抗 30 秒 **"
+		"chi"		"防守30秒"
 		"DoorCountDown"		"30"
 	}
 	"*** KILL ZOMBIES ON TOP!  ***"
 	{
-		"chi"		"** 开枪打僵尸不要停！ **"
+		"chi"		"保持防守！"
 	}
 	"*** WELL DONE! NEXT DOOR OPENS IN 5 SEC ***"
 	{
-		"chi"		"** 干得漂亮！下一道门将在 5 秒后打开 **"
+		"chi"		"干得漂亮！下道门5秒后开启"
 		"DoorCountDown"		"5"
-	}
-	"Hes watching you..."
-	{
-		"chi"		"** 他正在看着你...**"
-	}
-	"*** HES RUNNING AWAY! ***"
-	{
-		"chi"		"** 他正在逃跑！ **"
 	}
 	"*** Map made by Cuniczek ***"
 	{
-		"chi"		"** 地图制作 by Cuniczek 地图翻译 by 色狼领袖 **"
-	}
-	"**Map made by Binbow**"
-	{
-		"chi"		"** **"
-	}
-	">> Map by Taskuvaras <<"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	"***Particle Effect by Airvulpes***"
-	{
-		"chi"		"** **"
-	}
-	"***Thanks to Shizuru[idea]  uuz[model]***"
-	{
-		"chi"		"** **"
-	}
-	">> Map by TaskuVaras and Moltard <<"
-	{
-		"chi"		"** **"
-	}
-	"* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
-	{
-		"chi"		"** **"
-	}
-	"* * * Choose the first MINIGAME * * *"
-	{
-		"chi"		"** **"
-	}
-	"*** TRUCK EVACUATION ***"
-	{
-		"chi"		"** **"
-	}
-	"***1***"
-	{
-		"chi"		"** **"
-	}
-	"***Modified by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	"**Welcome to Minas Tirith - City of Kings**"
-	{
-		"chi"		"** **"
+		"chi"		"地图作者：Cuniczek  地图汉化：大明@風雲社"
 	}
 }
