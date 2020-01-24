@@ -2,15 +2,15 @@
 {
 	"** MAP MADE BY DARKOGRE AND PATRAO! **"
 	{
-		"chi"		"**地图作者：DARKOGRE和PATRAD,地图翻译 此用户已删除**"
+		"chi"		"**地图制作：DARKOGRE和PATRAD 地图翻译：小三@风云社**"
 	}
 	"** USE THE COMPUTERS TO OPEN THE DOOR **"
 	{
-		"chi"		"**使用电脑以打开大门**"
+		"chi"		"**使用电脑打开大门**"
 	}
 	"** DOOR OPENS IN 20 SECONDS **"
 	{
-		"chi"		"**大门20s后开启**"
+		"chi"		"**门20s后打开**"
 		"DoorCountDown"		"20"
 	}
 	"** TURN THE LASERS OFF **"
@@ -19,12 +19,12 @@
 	}
 	"** BATHROOM DOOR OPENS IN 15 SECONDS **"
 	{
-		"chi"		"**浴室门15秒后开启**"
+		"chi"		"**浴室门15秒后打开**"
 		"DoorCountDown"		"15"
 	}
 	"** GO TO THE BATHROOM **"
 	{
-		"chi"		"**冲向浴室撤离**"
+		"chi"		"**撤离至浴室**"
 	}
 	"** DOOR IS OPEN **"
 	{
@@ -32,62 +32,62 @@
 	}
 	"** Truck leaving in 15 seconds! **"
 	{
-		"chi"		"**卡车还有15s才开**"
+		"chi"		"**卡车15秒后出发**"
 		"DoorCountDown"		"15"
 	}
 	"** The police wants to stop you! **"
 	{
-		"chi"		"**条子们想抓住我们！小心**"
+		"chi"		"**NPC在向我们开枪**"
 	}
 	"** Shoot them! **"
 	{
-		"chi"		"**向他们射精，哦不，射击！**"
+		"chi"		"**！！！快把NPC打死！！！**"
 	}
 	"** The Elevator will leave in 10 seconds. Don't miss it! **"
 	{
-		"chi"		"**电梯10s后启动，别错过了！**"
+		"chi"		"**电梯10s后上升，别错过了！**"
 	}
 	"** HOLD 40 SECONDS **"
 	{
-		"chi"		"**死守40s!别划水了咸鱼们！**"
+		"chi"		"**死守40s!又是你们这些刷传送点的闸种**"
 		"DoorCountDown"		"40"
 	}
 	"** 5 SECONDS LEFT  **"
 	{
-		"chi"		"**还剩5秒！准备撤离**"
+		"chi"		"**还剩5秒！准备撤退**"
 	}
 	"** HOLD THE KITCHEN! DON'T LET ZOMBIES IN! **"
 	{
-		"chi"		"**守住厨房！别让傻逼条子们进来！**"
+		"chi"		"**守住厨房！别让僵尸进来**"
 	}
 	"** DOOR IS OPENING **"
 	{
-		"chi"		"**卧室的大门已开启，我们可以进去搞基了！**"
+		"chi"		"**卧室门打开了！**"
 	}
 	"** HOLD THE BEDROOM **"
 	{
-		"chi"		"**守住罪恶的卧室！**"
+		"chi"		"**守住卧室！**"
 	}
 	"** MAKE YOUR WAY TO THE OFFICE **"
 	{
-		"chi"		"**找到去办公室的路**"
+		"chi"		"**找到办公室的路**"
 	}
 	"** THE OFFICE SHOULD BE AT YOUR RIGHT SIDE **"
 	{
-		"chi"		"**办公室的路貌似在你的右边**"
+		"chi"		"**办公室在你们的右边**"
 	}
 	"** USE THE COMPUTER TO OPEN THE DOOR TO THE ROOF!! **"
 	{
-		"chi"		"**使用电脑以打开去屋顶的门**"
+		"chi"		"**用电脑打开去屋顶的门**"
 	}
 	"** 30 SECONDS TO UNLOCK THE DOOR **"
 	{
-		"chi"		"**还有30s才开启去楼顶的门**"
+		"chi"		"**通往屋顶的门30秒后才打开，急什么呢！！！滚下去守僵尸！！！**"
 		"DoorCountDown"		"30"
 	}
 	"** GET IN THE CHOPPA! **"
 	{
-		"chi"		"**冲向直升机，payday time!**"
+		"chi"		"**冲向直升机**"
 	}
 	"** The Elevator will leave in 10 seconds. Dont miss it! **"
 	{

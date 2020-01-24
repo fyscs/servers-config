@@ -2,72 +2,72 @@
 {
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"**作者 SLAYERDRAGON 翻译BAKA_Miku**"
+		"chi"		"**地图作者：SLAYERDRAGON 地图翻译：户冢彩加&萌大奶@风云社**"
 	}
 	"** LEVEL 1 (EASY) **"
 	{
-		"chi"		"**第一关 **"
+		"chi"		"**第一关（简单） **"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 6"
 	}
 	"** DOOR OPENS IN 10 SECONDS **"
 	{
-		"chi"		"**门将在10秒后打开 **"
+		"chi"		"**门将在10秒后打开!守住!**"
 	}
 	"** HEAL GUN - 40 sec cooldown **"
 	{
-		"chi"		"**治疗枪 40秒冷却时间[神器等级需求:3] **"
+		"chi"		"**治疗枪 40秒冷却时间!加血么?**"
 	}
 	"** LASER GUN - 60 sec cooldown **"
 	{
-		"chi"		"**激光墙 60秒冷却时间[神器等级需求:4] 放置一个墙 可以秒杀进入的僵尸 **"
+		"chi"		"**激光墙 60秒冷却时间!这个厉害!**"
 	}
 	"** FIRE BARREL - 50 sec cooldown **"
 	{
-		"chi"		"**炸药桶 50秒冷却时间[神器等级需求:1] **"
+		"chi"		"**炸药桶 50秒冷却时间!boom!**"
 	}
 	"** FREEZE BOTTLE - 50 sec cooldown **"
 	{
-		"chi"		"**冰冻枪 50秒冷却时间[神器等级需求:2] **"
+		"chi"		"**冰冻枪 50秒冷却时间!freeze!**"
 	}
 	"** AMMO GUN - 40 sec cooldown **"
 	{
-		"chi"		"**无限弹药 40秒冷却时间 **"
+		"chi"		"**弹药 40秒冷却时间!突突突!**"
 	}
 	"** DOOR OPENS IN 15 SECONDS **"
 	{
-		"chi"		"**门将在15秒后打开 **"
+		"chi"		"**门将在15秒后打开!坚守!**"
 	}
 	"** 5 MORE SECONDS LEFT **"
 	{
-		"chi"		"**还有5秒 **"
+		"chi"		"**还有5秒!fallback!**"
 	}
 	"** DJ IN DA HOUSE !! **"
 	{
-		"chi"		"**点歌机被拿了**"
+		"chi"		"**有人拾起了点歌机**"
 	}
 	"** Button A2 pressed **"
 	{
-		"chi"		"**A2按钮已被按下 **"
+		"chi"		"**A2按钮已被按下!nice**"
 	}
 	"** Button A3 Pressed **"
 	{
-		"chi"		"**A3按钮已被按下 **"
+		"chi"		"**A3按钮已被按下!well!**"
 	}
 	"** Button A1 pressed **"
 	{
-		"chi"		"**A1按钮已被按下 **"
+		"chi"		"**A1按钮已被按下!good!**"
 	}
 	"** ALL BUTTONS HAVE BEEN PRESSED **"
 	{
-		"chi"		"**所有按钮已被按下 **"
+		"chi"		"**所有按钮都已经按下!prefect!**"
 	}
 	"** DEFEND 20 SECONDS **"
 	{
-		"chi"		"**防御20秒 **"
+		"chi"		"**防御20秒!坚持!**"
 	}
 	"[MUSIC] NYAN CAT"
 	{
-		"chi"		"**[音乐] 彩虹猫**"
+		"chi"		"**[音乐] 彩虹喵**"
 	}
 	"** SECRET NYAN CAT COMPLETED **"
 	{
@@ -75,23 +75,23 @@
 	}
 	"** DEFEND 5 MORE SECONDS **"
 	{
-		"chi"		"**还要防御5秒 **"
+		"chi"		"**还要防御5秒!加油**"
 	}
 	"** Button B2 Pressed **"
 	{
-		"chi"		"**B2按钮已被按下 **"
+		"chi"		"**B2按钮已被按下!漂亮**"
 	}
 	"** Button B3 Pressed **"
 	{
-		"chi"		"**B3按钮已被按下 **"
+		"chi"		"**B3按钮已被按下!不错**"
 	}
 	"** Button B1 Pressed **"
 	{
-		"chi"		"**B1按钮已被按下 **"
+		"chi"		"**B1按钮已被按下!非常棒!**"
 	}
 	"** SECRETS 1 of 5 FOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**已经收集1/5!还有....**"
 	}
 	"[MUSIC] REAL2REAL - I Like To Move It"
 	{
@@ -103,15 +103,15 @@
 	}
 	"** GO TO THE CENTRAL BUILDING... **"
 	{
-		"chi"		"**去中间的建筑...**"
+		"chi"		"**去中心的建筑...**"
 	}
 	"** ... AND WAIT FOR EVACUATION **"
 	{
-		"chi"		"**...然后等待救援**"
+		"chi"		"**...然后等待救援!守住这里!**"
 	}
 	"** DEFEND 10 SECONDS **"
 	{
-		"chi"		"**防御10秒 **"
+		"chi"		"**防御10秒!防御! **"
 	}
 	"** SECRETS 2 of 5 FOUND **"
 	{
@@ -119,35 +119,35 @@
 	}
 	"** END OF THE LINE !! **"
 	{
-		"chi"		"**这是最后的守点了!!**"
+		"chi"		"**这是最后的守点了!!守住!**"
 	}
 	"** HOLD THIS POSITION FOR 60 SECONDS !! **"
 	{
-		"chi"		"**在这里防御60秒 **"
+		"chi"		"**在这里防御60秒!抵御僵尸的进攻! **"
 	}
 	"** 50 SECONDS REMAINING **"
 	{
-		"chi"		"**还有50秒 **"
+		"chi"		"**还有50秒!加油! **"
 	}
 	"** 40 SECONDS REMAINING **"
 	{
-		"chi"		"**还有40秒 **"
+		"chi"		"**还有40秒!非常棒! **"
 	}
 	"** 30 SECONDS REMAINING **"
 	{
-		"chi"		"**还有30秒 **"
+		"chi"		"**还有30秒!黑洞雷! **"
 	}
 	"** 20 SECONDS REMAINING **"
 	{
-		"chi"		"**还有20秒 **"
+		"chi"		"**还有20秒 !屏障!**"
 	}
 	"** 10 SECONDS REMAINING **"
 	{
-		"chi"		"**还有10秒 **"
+		"chi"		"**还有10秒!!!! **"
 	}
 	"** 5 SECONDS REMAINING **"
 	{
-		"chi"		"**还有5秒 **"
+		"chi"		"**还有5秒!nice!!!**"
 	}
 	"** U WON LEVEL 1 (EASY) **"
 	{
@@ -160,15 +160,15 @@
 	}
 	"** GATE WILL OPEN IN 15 SECONDS **"
 	{
-		"chi"		"**大门将在15秒后打开 **"
+		"chi"		"**大门将在15秒后打开!坚守! **"
 	}
 	"** GATE WILL OPEN IN 5 SECONDS **"
 	{
-		"chi"		"**大门将在5秒后打开 **"
+		"chi"		"**大门将在5秒后打开!准备撤退!**"
 	}
 	"** GATE WILL CLOSE IN 10 SECONDS **"
 	{
-		"chi"		"**大门将在10秒后关闭 **"
+		"chi"		"**大门将在10秒后关闭!防守到关闭! **"
 	}
 	"[MUSIC] AQUA - BARBIE"
 	{
@@ -180,19 +180,19 @@
 	}
 	"** OH NOES! ITs PEDOBEAR !! **"
 	{
-		"chi"		"**哦不，那是迷糊熊**"
+		"chi"		"**哦不，那是迷糊熊!是什么奇怪的东西!**"
 	}
 	"** KILL IT BEFORE IT RAPES EVERYONE !! **"
 	{
-		"chi"		"**在他撸死你们前 杀死他 **"
+		"chi"		"**在他杀死你们前 干掉他!开枪! **"
 	}
 	"** NADES AND SPECIAL ITEMS DO MORE DAMAGE !! **"
 	{
-		"chi"		"**手雷和神器将对他造成大量伤害 **"
+		"chi"		"**手雷和神器可以造成大量伤害!买雷! **"
 	}
 	"** PEDOBEAR HAS BEEN DEFEATED **"
 	{
-		"chi"		"**迷糊熊已经被打败了**"
+		"chi"		"**迷糊熊被打败了!nice!**"
 	}
 	"[MUSIC] EIFEL 65 - Blue"
 	{
@@ -204,7 +204,7 @@
 	}
 	"** SECRETS 4 of 5 FOUND **"
 	{
-		"chi"		"** **"
+		"chi"		"**找到4/5!nice!**"
 	}
 	"[MUSIC] S3RL - Pika Girl"
 	{
@@ -224,19 +224,19 @@
 	}
 	"** ENEMY CHOPPER INBOUND **"
 	{
-		"chi"		"**敌机进入 **"
+		"chi"		"**空袭！！！！**"
 	}
 	"** YOU CAN KILL IT OR LEAVE IT !! **"
 	{
-		"chi"		"**你可以击毁它或者不管它 **"
+		"chi"		"**你可以击毁它或者不管它**"
 	}
 	"** U WON LEVEL 2 (BOSS) **"
 	{
-		"chi"		"**第二关完成 **"
+		"chi"		"**第二关完成**"
 	}
 	"** LEVEL 3 (HARD) **"
 	{
-		"chi"		"**第三关 **"
+		"chi"		"**第三关**"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 5"
 	}
 	"** ALL SECRETS HAVE BEEN FOUND... **"
@@ -245,15 +245,15 @@
 	}
 	"** ...GRAVITY INBOUND AT THE ENDING !! **"
 	{
-		"chi"		"**低重力模式将打开 **"
+		"chi"		"**低重力模式**"
 	}
 	"** SPECIAL SECRET ACTIVATED... **"
 	{
-		"chi"		"** **"
+		"chi"		"**特殊秘密激活**"
 	}
 	"** ...GRAVITY AND DRUGS FOR EVERYONE ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**有引力和毒品！**"
 	}
 	"** U WON LEVEL 3 (HARD) **"
 	{
@@ -261,12 +261,12 @@
 	}
 	"** LEVEL 4 (BOSS) **"
 	{
-		"chi"		"**第四关(BOSS) **"
+		"chi"		"**第四关 boss战**"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 5"
 	}
 	"** BOSS ATTACKS ENABLED **"
 	{
-		"chi"		"**BOSS会开技能啦 **"
+		"chi"		"**BOSS将使用技能**"
 	}
 	"[MUSIC] DAFT PUNK - One More Time"
 	{
@@ -278,16 +278,16 @@
 	}
 	"** U WON LEVEL 4 (BOSS) **"
 	{
-		"chi"		"**完成第四关 **"
+		"chi"		"**完成第四关**"
 	}
 	"** LEVEL 5 (ZM ROUND) **"
 	{
-		"chi"		"**第五关[ZE] **"
+		"chi"		"**第五关[ZM]**"
 		"command"		"sm_cvar zr_infect_mzombie_ratio 6"
 	}
 	"** 180 SECONDS left until VICTORY **"
 	{
-		"chi"		"**离胜利还有180秒 **"
+		"chi"		"**离胜利还有180秒！守住!**"
 	}
 	"[MUSIC] NUMA NUMA YODA"
 	{
@@ -299,7 +299,7 @@
 	}
 	"** 120 SECONDS left until VICTORY **"
 	{
-		"chi"		"**离胜利还有120秒 **"
+		"chi"		"**离胜利还有120秒!2分钟!**"
 	}
 	"[MUSIC] CARAMELLDANSEN !!"
 	{
@@ -307,23 +307,23 @@
 	}
 	"** 60 SECONDS left until VICTORY **"
 	{
-		"chi"		"**离胜利还有60秒 **"
+		"chi"		"**离胜利还有60秒!1分钟! **"
 	}
 	"** 30 SECONDS left until VICTORY **"
 	{
-		"chi"		"**离胜利还有30秒 **"
+		"chi"		"**离胜利还有30秒 !就快结束了!**"
 	}
 	"** 20 SECONDS left until VICTORY **"
 	{
-		"chi"		"**离胜利还有20秒 **"
+		"chi"		"**离胜利还有20秒 !丢道具!**"
 	}
 	"** 10 SECONDS left until VICTORY **"
 	{
-		"chi"		"**离胜利还有10秒 **"
+		"chi"		"**离胜利还有10秒!!加油兄弟! **"
 	}
 	"** 5 SECONDS left until VICTORY **"
 	{
-		"chi"		"**离胜利还有5秒 **"
+		"chi"		"**离胜利还有5秒!马上结束了! **"
 	}
 	"** U WON LEVEL 5 (ZM ROUND) **"
 	{
@@ -366,27 +366,27 @@
 	}
 	"** SUICIDAL ZOMBIE INCOMING **"
 	{
-		"chi"		"**自杀僵尸来袭 **"
+		"chi"		"**自杀僵尸来袭!离他远点! **"
 	}
 	"** DOOR OPENS IN 20 SECONDS **"
 	{
-		"chi"		"**门将在20秒后打开 **"
+		"chi"		"**门将在20秒后打开!守住这里! **"
 	}
 	"** DOOR OPENS IN 5 SECONDS **"
 	{
-		"chi"		"**门将在5秒后打开 **"
+		"chi"		"**门将在5秒后打开 !准备撤退!**"
 	}
 	"** MISSION - PLANT THE BOMB AND ESCAPE! **"
 	{
-		"chi"		"** **"
+		"chi"		"**任务-放置炸弹然后逃跑！**"
 	}
 	"** BOMB HAS BEEN PLANTED **"
 	{
-		"chi"		"** **"
+		"chi"		"**炸弹被放置**"
 	}
 	"** AIRLOCK TURBINE IS STARTING... **"
 	{
-		"chi"		"** **"
+		"chi"		"**气闸涡轮正在启动。。。**"
 	}
 	"** WE ARE READY TO ESCAPE THIS COMPOUND ! **"
 	{
@@ -394,15 +394,15 @@
 	}
 	"** 20 SECONDS BEFORE THE AIRLOCK OPENS **"
 	{
-		"chi"		"**气闸将在20秒后打开 **"
+		"chi"		"**气闸将在20秒后打开!防守! **"
 	}
 	"** 5 SECONDS LEFT BEFORE THE AIRLOCK OPENS **"
 	{
-		"chi"		"**气闸将在5秒后打开 **"
+		"chi"		"**气闸将在5秒后打开!准备撤退! **"
 	}
 	"** WE ARE BACK IN THE COMPOUND ! **"
 	{
-		"chi"		"** **"
+		"chi"		"**我们回到院子里了**"
 	}
 	"** AFK wall will BREAK in 5 SECONDS **"
 	{
@@ -410,11 +410,11 @@
 	}
 	"** 80 SECONDS REMAINING **"
 	{
-		"chi"		"**还有80秒 **"
+		"chi"		"**还有80秒!坚守阵地! **"
 	}
 	"** 70 SECONDS REMAINING **"
 	{
-		"chi"		"**还有70秒 **"
+		"chi"		"**还有70秒!继续防守! **"
 	}
 	"** LILA PANIC COMPOUND IS FALLING APART !! **"
 	{
@@ -422,11 +422,11 @@
 	}
 	"** ENEMY CHOPPER INBOUND !! **"
 	{
-		"chi"		"**敌机进入 **"
+		"chi"		"**空袭! **"
 	}
 	"** 60 SECONDS REMAINING **"
 	{
-		"chi"		"**还有60秒 **"
+		"chi"		"**还有60秒 !1分钟!开枪!**"
 	}
 	"** U WON LEVEL 7 (EXTREME) **"
 	{
@@ -479,35 +479,35 @@
 	}
 	"** ADMIN chose LEVEL 4 for NEXT ROUND **"
 	{
-		"chi"		"**OP把下一关调成第四关**"
+		"chi"		"**管理员把下一关调成第四关**"
 	}
 	"** ADMIN chose LEVEL 6 for NEXT ROUND **"
 	{
-		"chi"		"**OP把下一关调成第六关**"
+		"chi"		"**管理员把下一关调成第六关**"
 	}
 	"** ADMIN chose LEVEL 5 for NEXT ROUND **"
 	{
-		"chi"		"**OP把下一关调成第五关**"
+		"chi"		"**管理员把下一关调成第五关**"
 	}
 	"** ADMIN chose LEVEL 7 for NEXT ROUND **"
 	{
-		"chi"		"**OP把下一关调成第七关**"
+		"chi"		"**管理员把下一关调成第七关**"
 	}
 	"** ADMIN chose LEVEL 8 for NEXT ROUND **"
 	{
-		"chi"		"**OP把下一关调成第八关**"
+		"chi"		"**管理员把下一关调成第八关**"
 	}
 	"** ADMIN chose LEVEL 9 for NEXT ROUND **"
 	{
-		"chi"		"**OP把下一关调成第⑨关**"
+		"chi"		"**管理员把下一关调成第⑨关**"
 	}
 	"** ADMIN chose LEVEL 2 for NEXT ROUND **"
 	{
-		"chi"		"**OP把下一关调成第二关**"
+		"chi"		"**管理员把下一关调成第二关**"
 	}
 	"** ADMIN chose LEVEL 3 for NEXT ROUND **"
 	{
-		"chi"		"**OP把下一关调成第三关**"
+		"chi"		"**管理员把下一关调成第三关**"
 	}
 	"The server is about to close the update ,Please update your game"
 	{

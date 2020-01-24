@@ -2,40 +2,40 @@
 {
 	"Map made by Ripsaw"
 	{
-		"chi"		"**地图制作：Ripsaw 翻译：比那名居天子 **"
+		"chi"		"**地图制作：Ripsaw 地图翻译：小三@风云社**"
 	}
 	"***Gate will open in 20 seconds***"
 	{
-		"chi"		"**大门将在20秒后打开 **"
+		"chi"		"**大门20秒后打开**"
 		"DoorCountDown"		"20"
 	}
 	">>> Door will open in 10 seconds"
 	{
-		"chi"		"**门将在10秒后开启 **"
+		"chi"		"**门10秒后开启**"
 		"DoorCountDown"		"10"
 	}
 	">>> Gate will open in 10 seconds <<<"
 	{
-		"chi"		"**大门将在10秒后开启 **"
+		"chi"		"**大门10秒后开启**"
 		"DoorCountDown"		"10"
 	}
 	">> Door will open in 40 seconds <<<"
 	{
-		"chi"		"**门将在40秒后开启 **"
+		"chi"		"**门40秒后开启**"
 		"DoorCountDown"		"40"
 	}
 	">>> Zombies will teleport in 10 seconds <<<"
 	{
-		"chi"		"**僵尸将在10秒后传送 **"
+		"chi"		"**僵尸10秒后传送**"
 	}
 	">>> Bridge will open in 15 seconds <<<"
 	{
-		"chi"		"**大桥将在15秒后开始延伸 **"
+		"chi"		"**大桥15秒后开始延伸 **"
 		"DoorCountDown"		"15"
 	}
 	">>> Doors open in 25 seconds <<<"
 	{
-		"chi"		"**门25秒后开启 **"
+		"chi"		"**门25秒后开启**"
 		"DoorCountDown"		"25"
 	}
 	">>> Doors open in 5 seconds"
@@ -44,36 +44,36 @@
 	}
 	">>> Zombies will teleport in 10 seconds"
 	{
-		"chi"		"**僵尸将在10秒后传送 **"
+		"chi"		"**僵尸10秒后传送**"
 	}
 	">>> Defend both ways <<<"
 	{
-		"chi"		"**防守所有的来路 **"
+		"chi"		"**防守所有通道**"
 	}
 	">>> KEEP DEFENDING BOTH WAYS !!! <<<"
 	{
-		"chi"		"**继续防守，别划水 **"
+		"chi"		"**继续防守**"
 	}
 	">>> Gate will open in 40 seconds <<<"
 	{
-		"chi"		"**大门将在40秒后开启 **"
+		"chi"		"**大门40秒后开启**"
 		"DoorCountDown"		"40"
 	}
 	">>> Gate will open in 15 seconds <<<"
 	{
-		"chi"		"**大门将在15秒后开启 **"
+		"chi"		"**大门15秒后开启**"
 	}
 	">>> Gate will open in 5 seconds <<<"
 	{
-		"chi"		"**还有5秒！ **"
+		"chi"		"**还有5秒**"
 	}
 	">>> DOOR IS NOW OPEN, SEND ONE GUY TO DODGE AND DISABLE THE LASERS ! <<<"
 	{
-		"chi"		"**门开了，会的跳刀大佬去关下跳刀的开关，萌新别进去了！ **"
+		"chi"		"**门开了，会的跳刀大佬去关下跳刀的开关，萌新别进去了！**"
 	}
 	">>> KEEP DEFENDING <<<"
 	{
-		"chi"		"**继续防守，别划水！ **"
+		"chi"		"**继续防守！！！**"
 	}
 	">>> Lasers disabled <<<"
 	{

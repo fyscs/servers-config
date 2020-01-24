@@ -2,7 +2,7 @@
 {
 	"<<< Map by Jllaneras >>>"
 	{
-		"chi"		">>>地图作者：JLLaneras<<<"
+		"chi"		">>>作者:JLLaneras翻译:Sakura@风云社<<<"
 	}
 	"<<< Trial 1 >>>"
 	{
@@ -10,7 +10,7 @@
 	}
 	"<<< Door opens in 30 seconds! >>>"
 	{
-		"chi"		">>>大门将在30秒后开放<<<"
+		"chi"		">>>大门将在30秒后开启!开枪啊!兄弟萌!<<<"
 	}
 	"sync_version"
 	{
@@ -18,7 +18,7 @@
 	}
 	"<<< Zombies teleport in 40 seconds! >>>"
 	{
-		"chi"		">>>僵尸将在40秒后进行传送<<<"
+		"chi"		">>>僵尸将在40秒后进行传送!<<<"
 	}
 	"<<< Press"
 	{
@@ -26,27 +26,27 @@
 	}
 	"<<< Wall has been picked up! >>>"
 	{
-		"chi"		">>>墙神器已被捡起<<<"
+		"chi"		">>>玩家拾取了墙<<<"
 	}
 	"<<< Door_opens in 30 seconds! >>>"
 	{
-		"chi"		">>>黄门将在30秒后打开<<<"
+		"chi"		">>>门将在30秒后打开!多打一点钱!<<<"
 	}
 	"<<< Walk backwards and press"
 	{
-		"chi"		">>>往后走<<<"
+		"chi"		">>>往后走!撤退!fall!back!<<<"
 	}
 	"<<< Zombie has speed! >>>"
 	{
-		"chi"		">>>僵尸捡起了加速<<<"
+		"chi"		">>>僵尸捡起了加速!<<<"
 	}
 	"<<< Fence opens in 30 seconds! >>>"
 	{
-		"chi"		">>>铁栅栏30秒后开放<<<"
+		"chi"		">>>铁栅栏30秒后开放!回头守住!<<<"
 	}
 	"<<< Zombie used speed! >>>"
 	{
-		"chi"		">>>僵尸使用了加速<<<"
+		"chi"		">>>僵尸使用了加速!他来了!!!<<<"
 	}
 	"<<< Zombies teleport in 25 seconds! >>>"
 	{
@@ -54,11 +54,11 @@
 	}
 	"<<< Door opens in 45 seconds! >>>"
 	{
-		"chi"		">>>大门将在45秒后打开<<<"
+		"chi"		">>>大门将在45秒后开启!小心僵尸!<<<"
 	}
 	"<<< Doors open in 15 seconds! >>>"
 	{
-		"chi"		">>>大门将在15秒后开放<<<"
+		"chi"		">>>大门将在15秒后开启!加油啊!快开启了!<<<"
 	}
 	"<<< Wall used! >>>"
 	{
@@ -66,19 +66,19 @@
 	}
 	"<<< Bridge breaks in 10 seconds! >>>"
 	{
-		"chi"		">>>10秒后桥将会断裂<<<"
+		"chi"		">>>10秒后桥将会断裂!守住!守住!<<<"
 	}
 	"<<< Zombies teleport in 10 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在10秒后传送**"
 	}
 	"<<< Ultra Beam >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**超光束**"
 	}
 	"<<< Ominous Wind >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**妖风**"
 	}
 	"<<< Ramming Bolts >>>"
 	{
@@ -90,11 +90,11 @@
 	}
 	"<<< Zombies teleport in 20 seconds! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸将在20秒后传送**"
 	}
 	"<<< You got the sky scroll! >>>"
 	{
-		"chi"		"** **"
+		"chi"		"**你得到了天空卷轴！**"
 	}
 	"<<< Defend for 20 seconds! >>>"
 	{
@@ -102,7 +102,7 @@
 	}
 	"<<< Defend for 10 more seconds! >>>"
 	{
-		"chi"		">>>多守个10秒<<<"
+		"chi"		">>>还有个10秒<<<"
 	}
 	"<<< Trial 1 Complete! >>>"
 	{
@@ -114,19 +114,19 @@
 	}
 	"<<< Wand has been picked up! >>>"
 	{
-		"chi"		">>>韦天魔术棒已被捡起（按E可PUSH僵尸，什么?你竟然想Push队友？）<<<"
+		"chi"		">>>玩家拾取了push<<<"
 	}
 	"<<< Door closing in 25 seconds! >>>"
 	{
-		"chi"		">>>大门25秒后关闭<<<"
+		"chi"		">>>大门25秒后关闭!赏它个麻辣烫!<<<"
 	}
 	"<<< Wand used! >>>"
 	{
-		"chi"		">>>韦天魔术棒使用!<<<"
+		"chi"		">>>push使用!!<<<"
 	}
 	"<<< Castle gate opens in 45 seconds! >>>"
 	{
-		"chi"		">>>白色城堡的大门将在45秒后为您开放<<<"
+		"chi"		">>>白色城堡的大门将在45秒后为您开放!谢天谢地!<<<"
 	}
 	"<<< Zombies teleport to entrance of castle in 30 seconds! >>>"
 	{
@@ -134,7 +134,7 @@
 	}
 	"<<< Boxes break in 35 seconds! >>>"
 	{
-		"chi"		">>>箱子堆35秒后碎裂<<<"
+		"chi"		">>>箱子堆35秒后碎裂!<<<"
 	}
 	"<<< Box break in 35 seconds! >>>"
 	{
@@ -162,19 +162,19 @@
 	}
 	"<<< Heal has been picked up! >>>"
 	{
-		"chi"		">>>治疗圣光被捡起<<<"
+		"chi"		">>>玩家拾取了奶<<<"
 	}
 	"<<< Elevator leaves in 30 seconds! >>>"
 	{
-		"chi"		">>>极其简单的黑色电梯30秒后上升<<<"
+		"chi"		">>>电梯30秒后上升!守住这里!<<<"
 	}
 	"<<< Heal used! >>>"
 	{
-		"chi"		">>>愿圣光永远加护着你<<<"
+		"chi"		">>>玩家使用了奶!过来加血!<<<"
 	}
 	"<<< Door opens in 20 seconds! >>>"
 	{
-		"chi"		">>>白色墙壁20秒后打开（Tips:门开后前面3个彩色坑需要你提前3个身位跳过去）<<<"
+		"chi"		">>>白色墙壁20秒后打开!坚持下去!我们能赢!<<<"
 	}
 	"<<< Elevator leaves in 45 seconds! >>>"
 	{
@@ -190,7 +190,7 @@
 	}
 	"<<< Blades >>>"
 	{
-		"chi"		">>>跳刀<<<"
+		"chi"		">>>是跳刀!<<<"
 	}
 	"<<< Almighty Pull >>>"
 	{

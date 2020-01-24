@@ -6,23 +6,23 @@
 	}
 	"* Turning music on *"
 	{
-		"chi"		"**憨批BGM开始播放了**"
+		"chi"		"**BGM开始播放了**"
 	}
 	"*** Player has picked up Grenade Maker ***"
 	{
-		"chi"		"**有憨批捡起了手雷制造机**"
+		"chi"		"**有玩家捡起了无限手雷**"
 	}
 	"*** Player has picked up Heal ***"
 	{
-		"chi"		"**有憨批捡起了奥利奥**"
+		"chi"		"**有玩家捡起了奥利奥**"
 	}
 	"*** Player has picked up Explosive Mines ***"
 	{
-		"chi"		"**有憨批捡起了地雷**"
+		"chi"		"**有玩家捡起了地雷**"
 	}
 	"*** Player has picked up Ammo Box ***"
 	{
-		"chi"		"**有憨批捡起了无限子弹**"
+		"chi"		"**有玩家捡起了弹药箱**"
 	}
 	"*** Door opens in 35 seconds ***"
 	{
@@ -30,11 +30,11 @@
 	}
 	"*** Player has picked up Lego Maker ***"
 	{
-		"chi"		"**有憨批捡起了积木**"
+		"chi"		"**有玩家捡起了积木**"
 	}
 	"*** Player has picked up HandCannon ***"
 	{
-		"chi"		"**有憨批捡了加农炮**"
+		"chi"		"**有玩家捡了加农炮**"
 	}
 	"*** Door opens in 25 seconds ***"
 	{
@@ -54,11 +54,11 @@
 	}
 	"*** Player has picked up Flamethrower ***"
 	{
-		"chi"		"**有憨批捡起了喷火器**"
+		"chi"		"**有玩家捡起了喷火器**"
 	}
 	"*** Player has picked up PushGun ***"
 	{
-		"chi"		"**有憨批捡起了Push枪**"
+		"chi"		"**有玩家捡起了推力枪**"
 	}
 	"*** Door Opening in 25 seconds! ***"
 	{
@@ -66,7 +66,7 @@
 	}
 	"*** FALL BACK ***"
 	{
-		"chi"		"**憨批, 快走了**"
+		"chi"		"**快跑**"
 	}
 	">>> Hold for 15 seconds! <<<"
 	{
@@ -86,15 +86,15 @@
 	}
 	"*** OH NOOES ***"
 	{
-		"chi"		"**哦豁, 你个憨批**"
+		"chi"		"**噢！**"
 	}
 	"*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***"
 	{
-		"chi"		"**憨批Rick, 给爷死**"
+		"chi"		"**快杀了RICK！否则他就会把我们杀了！**"
 	}
 	"*** RICK ASTLEY IS DEAD ***"
 	{
-		"chi"		"**憨批RICK死了**"
+		"chi"		"**RICK死了**"
 	}
 	"*** Hold here for 20 seconds ***"
 	{
@@ -114,11 +114,11 @@
 	}
 	">>> Hold until the path is cleared! <<<"
 	{
-		"chi"		">>>守住直到这个沙雕障碍消失<<<"
+		"chi"		">>>守住直到这个门开<<<"
 	}
 	">>> GO GO GO <<<"
 	{
-		"chi"		">>>憨批快走了, 别发呆<<<"
+		"chi"		">>>可以撤退了<<<"
 	}
 	"*** Defend for 25 seconds ***"
 	{
@@ -146,7 +146,7 @@
 	}
 	"*** The Boss is dead! ***"
 	{
-		"chi"		"**憨批BOSS死了**"
+		"chi"		"**BOSS死了**"
 	}
 	">>> Hold The Zombies Until Door Opens <<<"
 	{
@@ -162,7 +162,7 @@
 	}
 	">>> Hold until the path is clear! <<<"
 	{
-		"chi"		">>>守到这个沙雕障碍物消失<<<"
+		"chi"		">>>守到这个门打开<<<"
 	}
 	"*** Ladders open in 30 seconds ***"
 	{
@@ -170,11 +170,11 @@
 	}
 	"*** HOLD Until the path is clear ***"
 	{
-		"chi"		"**守到沙雕障碍物爆炸**"
+		"chi"		"**守到这个障碍物爆炸**"
 	}
 	"*** GO GO GO ***"
 	{
-		"chi"		"**憨批快走了**"
+		"chi"		"**可以走了！快溜**"
 	}
 	"*** Door opens in 10 seconds ***"
 	{
@@ -206,7 +206,7 @@
 	}
 	"*** The Ship Thingy is Destroyed! ***"
 	{
-		"chi"		"**憨批专用UFO炸了**"
+		"chi"		"**这艘船被毁了**"
 	}
 	"*** Defend for 25 seconds! ***"
 	{
@@ -238,7 +238,7 @@
 	}
 	"*** Zombie on the tram ***"
 	{
-		"chi"		"**僵尸上了电车了, 你这憨批在干嘛呢**"
+		"chi"		"**僵尸上了电车了！还不开枪呢**"
 	}
 	"** Turning on:... **"
 	{
@@ -254,30 +254,30 @@
 	}
 	"*** OH NO ITS AN EVIL ROBO BOSS ***"
 	{
-		"chi"		"** 哦豁, 这是个憨批机器人 **"
+		"chi"		"**哦不，这个该死的机器人**"
 	}
 	"*** KILL IT BEFORE HE TURNS US ALL INTO ROBOTS ***"
 	{
-		"chi"		"** 干掉这个憨批在他把你变成机器人之前 **"
+		"chi"		"**在他杀死我们之前干掉他！**"
 	}
 	"*** YOU HAVE DEFEATED THE ROBO BOSS ***"
 	{
-		"chi"		"** 你干掉了这个憨批机器人 **"
+		"chi"		"**你干掉了这个机器人**"
 	}
 	"*** TIME TO RUN NOW ***"
 	{
-		"chi"		"** 现在是时候走了 **"
+		"chi"		"**现在可以走了**"
 	}
 	"*** Ladders open in 25 seconds ***"
 	{
-		"chi"		"** 楼梯在25秒后打开 **"
+		"chi"		"**楼梯在25秒后打开**"
 	}
 	"*** Door opens in 20 seconds ***"
 	{
-		"chi"		"** 门在20秒后打开 **"
+		"chi"		"**门在20秒后打开**"
 	}
 	"*** Hold here for 25 seconds ***"
 	{
-		"chi"		"** 守在这里25秒 **"
+		"chi"		"**守在这里25秒**"
 	}
 }

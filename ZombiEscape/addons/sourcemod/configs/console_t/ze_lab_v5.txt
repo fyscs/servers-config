@@ -2,68 +2,68 @@
 {
 	">>>The bridge will be activated in 40 seconds!<<<"
 	{
-		"chi"		"**桥将于 40 秒后激活**"
+		"chi"		"**40秒后桥就可以通过了!坚持住!**"
 	}
 	">>>Door open in 40 seconds<<<"
 	{
-		"chi"		"**门将于 40 秒后打开**"
+		"chi"		"**还有40秒后打开大门!射击僵尸!**"
 		"Countdown"		"40"
 	}
 	">>>Gate will open in 40 seconds!<<<"
 	{
-		"chi"		"**大门将于 40秒 后打开**"
+		"chi"		"**还有40秒后打开大门!加油!守住这里!**"
 	}
 	">>>Now get in the tunnel!<<<"
 	{
-		"chi"		"**现在进入隧道！**"
+		"chi"		"**现在可以进入隧道了!快走!**"
 	}
 	">>>And def the path for 30 seconds<<<"
 	{
-		"chi"		"**拖延 30 秒等待开门**"
+		"chi"		"**防守僵尸30秒!**"
 	}
 	">>>Door has opened,GOGOGO<<<"
 	{
-		"chi"		"**大门已经开启，GoGoGo**"
+		"chi"		"**大门已经启动!快走!**"
 	}
 	">>>Now hold these bridges!<<<"
 	{
-		"chi"		"**现在守住这座桥不要退！等待僵尸传送！**"
+		"chi"		"**守住这座大桥!直到僵尸传送!**"
 	}
 	">>>10 seconds left!<<<"
 	{
-		"chi"		"**还有 10 秒**"
+		"chi"		"**我们在守住10秒!**"
 	}
 	">>>Door has opened,RUUUUUUNNN<<<"
 	{
-		"chi"		"**大门开启，撤！！！！**"
+		"chi"		"**大门开启，fallback!**"
 	}
 	">>>Lowing the bridge,GO!<<<"
 	{
-		"chi"		"**等桥放低了再走！否则你将会死的很难看！**"
+		"chi"		"**等待桥完全下降后在通过!**"
 	}
 	">>>Zombies trapped for 17 seconds!<<<"
 	{
-		"chi"		"** 17 秒后丧尸出笼**"
+		"chi"		"**17秒打开尸笼!**"
 	}
 	">>>Door opening<<<"
 	{
-		"chi"		"**大门开启**"
+		"chi"		"**大门开启!滴滴滴!**"
 	}
 	">>>Please wait<<<"
 	{
-		"chi"		"**请耐心等待**"
+		"chi"		"**等待一会!别急!**"
 	}
 	">>>This door is moving VERY SLOWLY<<<"
 	{
-		"chi"		"**这门开的很慢很慢**"
+		"chi"		"**等到门完全打开我们才可以通过!**"
 	}
 	">>>Thanks for your patience<<<"
 	{
-		"chi"		"**感谢你的耐心等待，伙计们!**大哥，你让我们从旁边已经打开的地方过去啊！**"
+		"chi"		"**可以通过了!快撤退!**"
 	}
 	">>>Door now is fully opened<<<"
 	{
-		"chi"		"**门现在是完全打开状态**"
+		"chi"		"**门已经完全打开了!**"
 	}
 	"---Feedback:noojeff@gmail.com---"
 	{
@@ -75,11 +75,11 @@
 	}
 	"---Map made by Jeff---"
 	{
-		"chi"		"**地图制作 by Jeff 地图翻译 by 色狼领袖**"
+		"chi"		"**地图作者：Jeff 地图翻译：户冢彩加&萌大奶@风云社**"
 	}
 	"---Have Fun!---"
 	{
-		"chi"		"---祝你们玩得开心!---"
+		"chi"		"---玩得开心!---"
 	}
 	">>>AFK teleport in 20s<<<"
 	{
@@ -91,15 +91,15 @@
 	}
 	">>>10 seconds left<<<"
 	{
-		"chi"		"**还有 10 秒**此处可以防守久一点为后面争取时间**"
+		"chi"		"**还有10秒!守住这里!**"
 	}
 	">>>Exit is open!<<<"
 	{
-		"chi"		"**往后退！**"
+		"chi"		"**往后退！撤退!**"
 	}
 	">>>Door close in 5s<<<"
 	{
-		"chi"		"** 5 秒后关门**小心被门夹到脑袋**"
+		"chi"		"**5秒后关门!准备撤退!**"
 		"DoorCountDown"		"5"
 	}
 	">>>Teleport initializing<<<"
@@ -108,15 +108,15 @@
 	}
 	">>>PLease Stand By<<<"
 	{
-		"chi"		"**请做好防御工作**"
+		"chi"		"**请做好防御工作!射击僵尸!守住!**"
 	}
 	">>>Door B fatal ERROR detected<<<"
 	{
-		"chi"		"**检测到 B 门出现严重问题**"
+		"chi"		"**检测到B门出现严重问题**"
 	}
 	">>>10%<<<"
 	{
-		"chi"		"**传送门初始化 --- 10% **"
+		"chi"		"**传送门自我修复功能已启动---10% **"
 	}
 	">>>Def!!!!<<<"
 	{
@@ -124,48 +124,35 @@
 	}
 	">>>50%<<<"
 	{
-		"chi"		"**传送门初始化 --- 50% **"
+		"chi"		"**传送门已经完成了---50% **"
 	}
 	">>>Door A Losing power!!!<<<"
 	{
-		"chi"		"** A 门正在开启**"
+		"chi"		"**A门正在启动!稍等!**"
 	}
 	">>>WATCH OUT<<<"
 	{
-		"chi"		"**坚持住！！**"
+		"chi"		"**再坚持一下！！开枪!**"
 	}
 	">>>90%<<<"
 	{
-		"**传送门初始化"		"---"
-		"90%"		"**"
-		"
+		"chi"		"**已经完成了---90%快结束了!**"
 	}
-	"		">>>Teleport"
-		"is"		"Online<<<"
-		"
+	">>>Teleport<<<" 
 	{
-		"		"chi"
-		"		"		"**传送门初始化完毕**"
-		"
+		"chi"		"**传送门初始化完毕!完成!**"
 	}
-	"		">>>Get"
-		"in"		"the"
-		"Teleport!!!!<<<"		"
+	">>>Get in the Teleport!!!!<<<"	
 	{
-		"
-		"chi"		"		"
-		"**快进入传送门!!!!**后面那个圆形的机器**"		"
-	}
-}
-"
+		"chi"		"**快进入传送门！！快走!**"
 	}
 	">>>Teleport is Online<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**传送门就绪**"
 	}
 	">>>Get in the Teleport!!!!<<<"
 	{
-		"chi"		"** **"
+		"chi"		"**快进传送门！！快走!fallback!**"
 	}
 	"steamworkshop search this map's name"
 	{
@@ -173,7 +160,7 @@
 	}
 	"**Stage 1**"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡 1**"
 	}
 	"**welcome to ze_fat_hours_escape**"
 	{

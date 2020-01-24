@@ -2,52 +2,52 @@
 {
 	"*** ELEVATOR LEAVING IN 15 SECONDS ***"
 	{
-		"chi"		"**电梯将在15s后离开**"
+		"chi"		"**电梯将在15s后离开!防守僵尸**"
 	}
 	"*** ELEVATOR LEAVING IN 5 SECONDS ***"
 	{
-		"chi"		"**电梯将在5s后离开**"
+		"chi"		"**电梯将在5s后离开！快上电梯！**"
 	}
 	"*** GO TO WHERE THE GREEN LIGHT IS SHINING! ***"
 	{
-		"chi"		"**进入一个绿光传送通道**"
+		"chi"		"**快进闪闪绿光的通道!**"
 	}
 	"*** ZOMBIES WILL BE RELEASED SOON, SURF AWAY! ***"
 	{
-		"chi"		"**僵尸马上追上来了，快滑！**"
+		"chi"		"**僵尸马上追上来了，快点!**"
 	}
 	"*** ACTIVATE C4 ON THE DOOR TO CONTINUE ***"
 	{
-		"chi"		"**激活门上的C4**"
+		"chi"		"**门上面有个c4快按E**"
 	}
 	"*** WOODEN BLOCK WILL BE DESTROYED SOON, ACTIVATE C4 WHEN POSSIBLE! ***"
 	{
-		"chi"		"**木门即将打开，再坚持一会**"
+		"chi"		"**破坏木门需要等一会！，守住这里**"
 	}
 	"*** 5 SECONDS LEFT UNTIL DETONATION! ***"
 	{
-		"chi"		"**还剩5s**"
+		"chi"		"**再守5s!加油!**"
 	}
 	"*** C4 DETONATED, GO GO GO! ***"
 	{
-		"chi"		"**门开了**"
+		"chi"		"**门开了!老板丢雷啊!**"
 	}
 	"*** ACTIVATE THE CONSOLE AFTER THE LAVA***"
 	{
-		"chi"		"**快去按开关**"
+		"chi"		"**快去触发开关!别等!**"
 	}
 	"*** WALL WILL BREAK DOWN IN 30 SECONDS *** DEFEND THE LAVA ***"
 	{
-		"chi"		"**路将在30s后打开，守住岩浆池**"
+		"chi"		"**路将在30s后打开，守住这里!不要让僵尸冲过来!**"
 		"DoorCountDown"		"30"
 	}
 	"*** WALL BREAKS IN 5 SECONDS ***"
 	{
-		"chi"		"**5s后门开**"
+		"chi"		"**5s后门开!准备撤退!**"
 	}
 	"*** WALL HAS BROKEN DOWN, RUN TO THE TELEPORT ***"
 	{
-		"chi"		"**路开了，快进传送**"
+		"chi"		"**路开了，快进传送点!gkd!**"
 	}
 	"*** ZOMBIE TELEPORT IN 16 SECONDS ***"
 	{
@@ -55,23 +55,23 @@
 	}
 	"*** HOLD UNTIL WE GET TELEPORTED ***"
 	{
-		"chi"		"**守住，马上传送**"
+		"chi"		"**坚守住!很快传送!**"
 	}
 	"*** THIS MAP HAS BEEN CREATED BY  --- FuTuRe ---"
 	{
-		"chi"		"**地图作者：FuTuRe 地图翻译：清新的二哈♪**"
+		"chi"		"**地图作者：FuTuRe 地图翻译:Sakura@风云社**"
 	}
 	"*** EXPLOSIVES HAVE BEEN SET, DETONATION WILL FOLLOW SOON! ***"
 	{
-		"chi"		"**C4已经激活**"
+		"chi"		"**C4已经激活!很快就爆炸了!**"
 	}
 	"*** ZOMBIE TELEPORT IN 8 SECONDS ***"
 	{
-		"chi"		"**僵尸将在8s后传送**"
+		"chi"		"**僵尸将在8s后抵达战场**"
 	}
 	"*** ZOMBIE TELEPORT INCOMING SHORTLY! ***"
 	{
-		"chi"		"**僵尸即将传送**"
+		"chi"		"**僵尸即将抵达**"
 	}
 	"*** GATE ON RAMP WILL OPEN SOON ***"
 	{
@@ -83,19 +83,19 @@
 	}
 	"*** ELEVATOR ACTIVATED, LEAVING IN 30 SECONDS ***"
 	{
-		"chi"		"**电梯将在30s后离开**"
+		"chi"		"**电梯将在30s后离开!坚守电梯!**"
 	}
 	"*** ELEVATOR LEAVING IN 20 SECONDS ***"
 	{
-		"chi"		"**电梯将在20s后离开**"
+		"chi"		"**电梯将在20s后离开!快了!**"
 	}
 	"*** ELEVATOR LEAVING IN 10 SECONDS ***"
 	{
-		"chi"		"**电梯将在10s后离开**"
+		"chi"		"**电梯将在10s后离开!开枪!**"
 	}
 	"*** ELEVATOR LEAVING IN 3 SECONDS ***"
 	{
-		"chi"		"**电梯将在3s后离开**"
+		"chi"		"**电梯将在3s后离开!快上电梯!**"
 	}
 	"*** HOLD HERE FOR 25 SECONDS UNTIL GLASS WALL APPEARS ***"
 	{
@@ -103,31 +103,31 @@
 	}
 	"*** GO GO GO, ZOMBIES RELEASED SHORTLY ***"
 	{
-		"chi"		"**快跑**"
+		"chi"		"**快跑，僵尸即将释放**"
 	}
 	"*** ZOMBIES RELEASED ***"
 	{
-		"chi"		"**僵尸要来了**"
+		"chi"		"**僵尸已出笼!来了他们来了!**"
 	}
 	"*** DOORS BREAK IN 30 SECONDS ***"
 	{
-		"chi"		"**30s后门开**"
+		"chi"		"**30s后门开!守住这里!**"
 	}
 	"*** DOORS BREAK IN 5 SECONDS ***"
 	{
-		"chi"		"**5s后门开**"
+		"chi"		"**5s后门开!准备撤退!**"
 	}
 	"*** FINAL DOOR OPENS IN 20 SECONDS ***"
 	{
-		"chi"		"**最后的大门将在20s后打开**"
+		"chi"		"**最后的大门将在20s后打开!最后的大门!!!!**"
 	}
 	"*** DOOR IS OPENING, IT WILL CLOSE IN 20 SECONDS ***"
 	{
-		"chi"		"**门开了，守住20s**"
+		"chi"		"**门已打开，守住20s直到它关闭!守住!**"
 	}
 	"*** DOOR CLOSING IN 5 SECONDS ***"
 	{
-		"chi"		"**5s后门关**"
+		"chi"		"**在5s后关门!快了!快了!**"
 	}
 	"sync_version"
 	{
@@ -135,11 +135,11 @@
 	}
 	"*** LAST DOOR WILL CLOSE IN 30 SECONDS ***"
 	{
-		"chi"		"**最后的大门将在30s后关闭**"
+		"chi"		"**将在30s后最终的大门!嘿!**"
 	}
 	"*** BOXES SHORTCUT WILL OPEN IN 10 SECONDS ***"
 	{
-		"chi"		"**箱子侧路将在10s后打开**"
+		"chi"		"**10s后开启箱子侧路**"
 	}
 	"*** THERE IS ALSO A SPECIAL SKIN THANKS TO [Pompje] ***"
 	{
@@ -147,23 +147,23 @@
 	}
 	"*** THERE 3 GUNS THAT GIVE A COLOURED TRAIL, GL FINDING THEM ***"
 	{
-		"chi"		"**地图里有3把彩色枪，你可以找到它们**"
+		"chi"		"**地图里有3把彩色枪，你可以摸索并试图找到它们**"
 	}
 	"*** PLAYER HAS PICKED UP RED TRAIL ***"
 	{
-		"chi"		"**红色彩线枪已被拾取 **"
+		"chi"		"**玩家发现了红色彩线枪 **"
 	}
 	"*** PLAYER HAS PICKED UP BLUE TRAIL ***"
 	{
-		"chi"		"**蓝色彩线枪已被拾取 **"
+		"chi"		"**玩家发现了蓝色彩线枪 **"
 	}
 	"*** SOMEONE HAS PICKED UP [Pompjes Pizza Boye] ***"
 	{
-		"chi"		"**皮肤已被拾取 **"
+		"chi"		"**皮肤披萨男孩已被拾取 **"
 	}
 	"*** PLAYER HAS PICKED UP GREEN TRAIL ***"
 	{
-		"chi"		"**绿色彩线枪已被拾取 **"
+		"chi"		"**玩家发现了绿色彩线枪 **"
 	}
 	"Thanks test play POSSESSION server!!"
 	{

@@ -2,16 +2,16 @@
 {
 	"-=[ C4 has been armed ]=-"
 	{
-		"chi"		"C4已被安放"
+		"chi"		"TNT已被安放"
 	}
 	"-=[ Detonation in 20 seconds ]=-"
 	{
-		"chi"		"20秒后爆破"
+		"chi"		"20秒后爆炸"
 	}
 	"DoorCountdown"		"20"
 	"-=[ Detonation in 5 seconds ]=-"
 	{
-		"chi"		"5秒后爆破"
+		"chi"		"5秒后爆炸"
 	}
 	"-=[ 4 ]=-"
 	{
@@ -19,7 +19,7 @@
 	}
 	"-=[ CLEAR THE FLOOR ]=-"
 	{
-		"chi"		"咸鱼们守住！"
+		"chi"		"守住！"
 	}
 	"-=[ 2 ]=-"
 	{
@@ -27,27 +27,27 @@
 	}
 	"-=[ 1 ]=-"
 	{
-		"chi"		"1秒，炸了！"
+		"chi"		"1秒"
 	}
 	"-=[ Final C4 has been armed ]=-"
 	{
-		"chi"		"最终的c4已被安放"
+		"chi"		"最后的TNT已被安放"
 	}
 	"-=[ Zombie spawn has advanced ]=-"
 	{
-		"chi"		"僵尸重生点更新"
+		"chi"		"刷新僵尸重生点"
 	}
 	"-=[ Lift starting in 45 seconds ]=-"
 	{
-		"chi"		"平台45秒后升起"
+		"chi"		"平台将在45秒后升起"
 	}
 	"-=[ C4 Detonation in 5 seconds... ]=-"
 	{
-		"chi"		"炸弹5秒后爆炸"
+		"chi"		"TNT5秒后爆炸"
 	}
 	"-=[ Lift starting in 5 seconds ]=-"
 	{
-		"chi"		"平台5秒后升起"
+		"chi"		"平台将在5秒后升起"
 	}
 	"-=[ 3 ]=-"
 	{
@@ -55,7 +55,7 @@
 	}
 	"-=[ Air island leaving in 10 seconds ]=-"
 	{
-		"chi"		"空岛10秒后离开"
+		"chi"		"浮空岛10秒后离开"
 	}
 	"-=[ Detonation in 25 seconds ]=-"
 	{
@@ -63,11 +63,11 @@
 	}
 	"-=[ Lift leaving in 20 seconds... ]=-"
 	{
-		"chi"		"平台20秒后升起"
+		"chi"		"平台将在20秒后升起"
 	}
 	"-=[ Zombie Spawn Advanced ]=-"
 	{
-		"chi"		"僵尸重生点更新"
+		"chi"		"刷新僵尸重生点"
 	}
 	"-=[ Lift leaving in 10 seconds... ]=-"
 	{
@@ -79,7 +79,7 @@
 	}
 	"-=[ Boats ready in 90 seconds... ]=-"
 	{
-		"chi"		"船90秒后离开"
+		"chi"		"友谊的小船90秒后离开"
 	}
 	"DoorCountdown"		"90"
 	"-=[ Command exit opening in 60 seconds ]=-"
@@ -92,11 +92,11 @@
 	}
 	"-=[ Boats ready in 60 seconds... ]=-"
 	{
-		"chi"		"船60秒后就绪"
+		"chi"		"友谊的小船60秒后就绪"
 	}
 	"-=[ Use C4 to blow your way out!!! ]=-"
 	{
-		"chi"		"用c4炸了挡路的东西！"
+		"chi"		"用TNT炸掉障碍物！"
 	}
 	"-=[ Detonation in 15 seconds ]=-"
 	{

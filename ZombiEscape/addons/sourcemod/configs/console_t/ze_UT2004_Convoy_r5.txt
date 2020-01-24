@@ -6,11 +6,11 @@
 	}
 	"> Map by SubDelt@"
 	{
-		"chi"		">>>地图制作： SubDelt@ 地图翻译：IntimateLover<<<"
+		"chi"		">>>地图制作： SubDelt@ 地图翻译：Sakura@风云社<<<"
 	}
 	"> Thanks to"
 	{
-		"chi"		"**感谢 **"
+		"chi"		"**非常荣幸 **"
 	}
 	"> Cuniczek and Kaemon - helping with Propper"
 	{
@@ -18,7 +18,7 @@
 	}
 	"> Kaesar - providing UT2004 models"
 	{
-		"chi"		"**kaesar提供的UT2004模型 **"
+		"chi"		"**kaesar给予的UT2004外表 **"
 	}
 	"> JorisCeoen - modeling help"
 	{
@@ -26,28 +26,28 @@
 	}
 	"> Enviolinador - lots of general help"
 	{
-		"chi"		"**Enviolinador - 大量的常规帮助 **"
+		"chi"		"**Enviolinador - 的常规help! **"
 	}
 	">>> EXTEND THE BOARDING PLATFORM TO GAIN ACCESS TO THE REPAIR VESSEL <<<"
 	{
-		"chi"		"**延伸登船的平台.以进入修理船 **"
+		"chi"		"**加长平台，我们好进去**"
 	}
 	"> ZE UT2004 CONVOY"
 	{
-		"chi"		"**虚幻竞技场 **"
+		"chi"		"**虚幻の竞技场 **"
 	}
 	"> BERSERK COMBO has been acquired"
 	{
-		"chi"		"**无限子弹已被拿起（使用方法:按下E之后WWSS开启） **"
+		"chi"		"**玩家拾取了无限子弹!**"
 	}
 	">>> THE BOARDING PLATFORM EXTENDS IN 35 SECONDS <<<"
 	{
-		"chi"		"**登船平台在35秒后延伸完毕 **"
+		"chi"		"**平台在35秒后伸展通过! **"
 		"DoorCountDown"		"35"
 	}
 	"> ROCKET LAUNCHER has been acquired"
 	{
-		"chi"		"**一位玩家拿起了火箭发射器（使用后炮弹碰到僵尸后爆炸会造成减速灼烧的效果） **"
+		"chi"		"**玩家拾取了火箭发射器**"
 	}
 	">>> MOVING ON TO MASTERFUL DIFFICULTY <<<"
 	{
@@ -59,7 +59,7 @@
 	}
 	">>> NO FRIENDLY FORCES DETECTED ON THE TRUCK <<<"
 	{
-		"chi"		"**卡车上没有检测到人类 **"
+		"chi"		"**人类没有在卡车上! **"
 	}
 	">>> MOVING ON TO GODLIKE DIFFICULTY <<<"
 	{
@@ -71,78 +71,77 @@
 	}
 	">>> DREADNOUGHT DETECTED! <<<"
 	{
-		"chi"		"**无畏战车已出现 **"
+		"chi"		"**战地机甲已出现！ **"
 	}
 	">>> SHOOTING THE CARGO HOLD DOES NOTHING! TRY TO DESTROY THE ENGINE OR KILL THE DRIVER! <<<"
 	{
-		"chi"		"**不要射击货舱！试图摧毁发动机或杀死司机！ **"
+		"chi"		"**别打了!！快摧毁发动机or kill前面的司机！ **"
 		"ico"		"icon_fire"
 	}
 	">>> THE REAR DOOR HAS BEEN OPENED <<<"
 	{
-		"chi"		"**后门已经打开了 **"
+		"chi"		"**后面的门已经打开了!快走! **"
 	}
 	">>> REINFORCEMENTS ARE ON THE WAY! <<<"
 	{
-		"chi"		"**增援部队正在路上！ **"
-	}
+		"chi"		"**救援到来了!加油**"
 	">>> YOU MUST OPEN THE SIDE DOORS OF THE REPAIR VESSEL <<<"
 	{
 		"chi"		"**你必须打开修理船的侧门 **"
 	}
 	">>> WARNING! INBOUND AIRSTRIKE! <<<"
 	{
-		"chi"		"**警告！空袭入境！ **"
+		"chi"		"**警告！空中袭击!!！ **"
 	}
 	">>> SEEK SHELTER WITHIN THE REPAIR VESSEL IMMEDIATELY! <<<"
 	{
-		"chi"		"**立即在维修船内寻求庇护！ **"
+		"chi"		"**躲在船里 会非常安全!！ **"
 	}
 	">>> SIDE DOORS OPEN IN 45 SECONDS <<<"
 	{
-		"chi"		"**侧门将在45秒后开启！ **"
+		"chi"		"**侧门将在45秒后开启！坚持住! **"
 		"DoorCountDown"		"45"
 	}
 	">>> SIDE DOORS OPEN IN 20 SECONDS <<<"
 	{
-		"chi"		"**侧门将在20秒后开启！ **"
+		"chi"		"**侧门将在20秒后开启！守住! **"
 	}
 	">>> SIDE DOORS OPEN IN 5 SECONDS <<<"
 	{
-		"chi"		"**侧门将在5秒后开启！ **"
+		"chi"		"**侧门将在5秒后开启！准备撤退! **"
 	}
 	">>> SIDE DOORS ARE OPENING <<<"
 	{
-		"chi"		"**侧门已打开 **"
+		"chi"		"**侧门已打开!快走快走! **"
 	}
 	">>> YOU MUST INFILTRATE THE N.E.X.U.S. TRAILER <<<"
 	{
-		"chi"		"**你必须进入N.E.X.U.S.拖车 **"
+		"chi"		"**快点进入XX号豪华轿车 **"
 	}
 	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS <<<"
 	{
-		"chi"		"**N.E.X.U.S.拖车将在在40秒后打开舱口 **"
+		"chi"		"**XX号豪华轿车将在在40秒后打开舱口 **"
 		"DoorCountDown"		"40"
 	}
 	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS <<<"
 	{
-		"chi"		"**N.E.X.U.S.拖车将在在20秒后打开舱口 **"
+		"chi"		"**XX号豪华轿车将在在20秒后打开舱口 **"
 	}
 	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 5 SECONDS <<<"
 	{
-		"chi"		"**N.E.X.U.S.拖车将在在5秒后打开舱口 **"
+		"chi"		"**XX号豪华轿车将在在5秒后打开舱口 **"
 	}
 	">>> N.E.X.U.S. TRAILER HATCH IS OPEN! <<<"
 	{
-		"chi"		"**N.E.X.U.S.拖车舱口已开启 **"
+		"chi"		"**XX号豪华轿车舱口已开启，可以进去了! **"
 	}
 	">>> YOU CAN NOW RETRIEVE THE N.E.X.U.S. MISSILES <<<"
 	{
-		"chi"		"**现在你可以取回N.E.X.U.S.导弹 **"
+		"chi"		"**现在你可以取回XX号豪华轿车里面的XX号导弹 **"
 	}
 	">>> THE N.E.X.U.S. MISSILES HAVE BEEN SECURED <<<"
 	{
-		"chi"		"**N.E.X.U.S.导弹已拿到 **"
+		"chi"		"**XX号导弹已拿到 **"
 	}
 	">>> MOVING ON TO EXPERIENCED DIFFICULTY <<<"
 	{
@@ -154,40 +153,40 @@
 	}
 	">>> THE FORWARD WEAPON CACHE HAS BEEN STOLEN! <<<"
 	{
-		"chi"		"**武器库已开启 **"
+		"chi"		"**是武器库!开启了! **"
 	}
 	">>> THE BOARDING PLATFORM EXTENDS IN 15 SECONDS <<<"
 	{
-		"chi"		"**登船平台在15秒后延伸 **"
+		"chi"		"**憨憨平台在15秒后延伸，守住这里 !**"
 	}
 	">>> THE BOARDING PLATFORM EXTENDS IN 5 SECONDS <<<"
 	{
-		"chi"		"**登船平台在5秒后延伸 **"
+		"chi"		"**憨憨登船平台在5秒后延伸！准备撤退! **"
 	}
 	">>> THE BOARDING PLATFORM HAS BEEN EXTENDED <<<"
 	{
-		"chi"		"**登船平台已延伸完毕 **"
+		"chi"		"**登船平台已延伸完毕,快走兄弟萌! **"
 	}
 	">>> DESTROY THE DOOR OF THE REPAIR VESSEL <<<"
 	{
-		"chi"		"**破坏修理船的门 **"
+		"chi"		"**打破修理船的门 **"
 	}
 	">>> THE EXPLOSIVES ARE IN PLACE! <<<"
 	{
-		"chi"		"**炸药已经埋下！ **"
+		"chi"		"**埋下炸药!快点! **"
 	}
 	">>> EXPLOSION IN 40 SECONDS <<<"
 	{
-		"chi"		"**炸弹将在40秒后爆炸（不要贴门.会被炸死） **"
+		"chi"		"**炸弹还有40秒爆炸!离炸弹远点!会被炸死的! **"
 		"DoorCountDown"		"40"
 	}
 	">>> EXPLOSION IN 20 SECONDS <<<"
 	{
-		"chi"		"**炸弹将在20秒后爆炸（不要贴门.会被炸死） **"
+		"chi"		"**炸弹将在20秒后爆炸 **"
 	}
 	">>> EXPLOSION IN 5 SECONDS <<<"
 	{
-		"chi"		"**炸弹将在5秒后爆炸（不要贴门.会被炸死） **"
+		"chi"		"**炸弹将在5秒后爆炸!憨憨们看看提示!别贴着炸弹! **"
 		"ico"		"icon_fire"
 	}
 	">>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<"
@@ -200,39 +199,39 @@
 	}
 	">>> WE ARE LEAVING IN 10 SECONDS! <<<"
 	{
-		"chi"		"**我们将在10秒后离开！ **"
+		"chi"		"**还有10秒钟我们就可以走了! **"
 	}
 	">>> 5 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**5**"
 	}
 	">>> 4 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**4**"
 	}
 	">>> 3 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**3**"
 	}
 	">>> 2 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**2**"
 	}
 	">>> 1 <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**1**"
 	}
 	"> LIGHTING RIFLE has been acquired"
 	{
-		"chi"		"**一位玩家拿起了镭射步枪（站在直线上的僵尸会被瞬间杀死） **"
+		"chi"		"**一位玩家拾取了终极！(貌似可以秒杀僵尸?) **"
 	}
 	"> REDEEMER has been acquired"
 	{
-		"chi"		"**一位玩家拿起小型核弹（范围内的僵尸会被炸死.只能使用一次） **"
+		"chi"		"**一位玩家拾取了小型核弹！**"
 	}
 	"> FLAK CANNON has been acquired"
 	{
-		"chi"		"**一位玩家拿起了高射炮（无限使用） **"
+		"chi"		"**一位玩家拾取了高射炮！ **"
 	}
 	">>> GET RID OF THE REMAINING ENEMIES ON THE TRUCK! <<<"
 	{

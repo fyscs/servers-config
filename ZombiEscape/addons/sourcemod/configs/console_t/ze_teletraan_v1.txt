@@ -2,29 +2,29 @@
 {
 	"Teletraan will open door in few seconds !"
 	{
-		"chi"		"*** 防御 45秒 ***"
+		"chi"		"*** 防守45秒!射击僵尸!**"
 		"DoorCountdown"		"45"
 	}
 	"Fall Back !!!"
 	{
-		"chi"		"*** 撤退! ***"
+		"chi"		"***fallback!fallback!**"
 	}
 	"Teletraan will open door soon !"
 	{
-		"chi"		"*** 防御 45秒 ***"
+		"chi"		"***防守45秒!开枪守住!**"
 		"DoorCountdown"		"45"
 	}
 	"Optimus is now to clear the way !"
 	{
-		"chi"		"** **"
+		"chi"		"**擎天柱清理了路线！**"
 	}
 	"Teletraan will close door in few seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**门将在一段时间后关闭!**"
 	}
 	"Teletraan will close door in 10 seconds"
 	{
-		"chi"		"** **"
+		"chi"		"**Teletran将在10秒内关门**"
 	}
 	"Map by Lup4n`"
 	{
@@ -32,11 +32,11 @@
 	}
 	">>LEVEL 1<<"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡一**"
 	}
 	"**level 1**"
 	{
-		"chi"		"** **"
+		"chi"		"**关卡一**"
 	}
 	"**Map By Batnik_Reference.smd and ShotT **"
 	{
@@ -56,7 +56,7 @@
 	}
 	"**stage 1**"
 	{
-		"chi"		"** **"
+		"chi"		"**第一阶段**"
 	}
 	"**Map made by Eugenio *Motanum* Roman**"
 	{
@@ -84,7 +84,7 @@
 	}
 	"***Welcome***"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎**"
 	}
 	"***Map by Qahnaarin***"
 	{

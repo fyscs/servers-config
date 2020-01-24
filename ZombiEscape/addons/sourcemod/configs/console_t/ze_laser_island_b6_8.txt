@@ -6,41 +6,41 @@
 	}
 	"** map by : yin yue xiao yao **"
 	{
-		"chi"		"**地图制作：银月筱瑶 拼音岛终结者：月饼 **"
+		"chi"		"**地图作者：银月筱瑶 地图翻译：户冢彩加&萌大奶@风云社 **"
 	}
 	">> nai bei na qi le<<"
 	{
-		"chi"		"**奶已被拿起 **"
+		"chi"		"**玩家拾取了奶**"
 	}
 	"** jian chi 30 miao , hen kuai jiu kai men le **"
 	{
-		"chi"		"**坚持30秒.门很快就会打开 **"
+		"chi"		"**坚持30秒.门很快就会打开 ！开枪守住!**"
 		"DoorCountdown"		"30"
 	}
 	"** jiang shi dao bei jian qi le **"
 	{
-		"chi"		"**僵尸刀被拿起 **"
+		"chi"		"**僵尸刀被拿起!xing(刀声) **"
 	}
 	"** men kai le , zou **"
 	{
-		"chi"		"** 门开了.走**"
+		"chi"		"** 门开了.走!注意留火!**"
 	}
 	">> huo bei na qi le <<"
 	{
-		"chi"		"**火已被拿起 **"
+		"chi"		"**玩家拾取了火! **"
 	}
 	"** hai you yi dao men ,15 miao hou zha kai ta **"
 	{
-		"chi"		"**还有一道门.15秒后炸开它 **"
+		"chi"		"**还有一道门.15秒后炸开它!在这之前守住这里! **"
 		"DoorCountdown"		"15"
 	}
 	"** qiang bei na qi le **"
 	{
-		"chi"		"**墙已被拿起 **"
+		"chi"		"**玩家拾取了墙!**"
 	}
 	"** kuai pao !! **"
 	{
-		"chi"		"**快跑！ **"
+		"chi"		"**快跑！fallback! **"
 	}
 	"** mei lu le! **"
 	{
@@ -48,15 +48,15 @@
 	}
 	"** bing bei na qi le **"
 	{
-		"chi"		"**冰已被拿起 **"
+		"chi"		"**玩家拾取了冰!**"
 	}
 	"** deng deng , you tiao mi dao , wo men shi zhe da kai ta **"
 	{
-		"chi"		"**等等.有条密道.我们正试着打开它 **"
+		"chi"		"**等等.有条密道.我们正试着打开它 !别着急!**"
 	}
 	"** zou le ! **"
 	{
-		"chi"		"**走了！ **"
+		"chi"		"**走了！快点!gkd!**"
 	}
 	"** di xia shi yan shi ? **"
 	{
@@ -64,34 +64,34 @@
 	}
 	"** 25 miao hou da kai shi yan shi da men **"
 	{
-		"chi"		"**25秒后打开实验室大门 **"
+		"chi"		"**25秒后打开实验室大门!守住这里! **"
 		"DoorCountdown"		"25"
 	}
 	">> feng bei na qi le <<"
 	{
-		"chi"		"**风已被拿起 **"
+		"chi"		"**玩家拾取了风! **"
 	}
 	"** men kai le , kuai pao **"
 	{
-		"chi"		"**门开了.快跑 **"
+		"chi"		"**门开了.快跑 !runrunrun!**"
 	}
 	"** zhe tie men 15 miao hou jiu hui kai **"
 	{
-		"chi"		"**这铁门15秒后就会开 **"
+		"chi"		"**这铁门15秒后就会开!守住这里! **"
 		"DoorCountdown"		"15"
 	}
 	"** ok lets gogogogogo **"
 	{
-		"chi"		"**好了！快跑！ **"
+		"chi"		"**好了！快跑！ fallback!**"
 	}
 	"** dian ti ji huo le ,shou zhu 15 miao **"
 	{
-		"chi"		"**电梯已被激活.守住15秒 **"
+		"chi"		"**电梯已被激活.守住15秒 加油!奥利给**"
 		"DoorCountdown"		"15"
 	}
 	"** wo men hui zai 60 miao hou zha diao zhe dui shi tou **"
 	{
-		"chi"		"**我们会在60秒后炸掉这堆石头 **"
+		"chi"		"**我们会在60秒后炸掉这堆石头 ！守住这里!**"
 		"DoorCountdown"		"60"
 	}
 	"** jiang shi du bei na qi le **"
@@ -108,11 +108,11 @@
 	}
 	"** kuai shang fei ji! **"
 	{
-		"chi"		"**快上飞机！ **"
+		"chi"		"**快上飞机！不要犹豫! **"
 	}
 	"** fei ji 30 miao hou li kai !!! **"
 	{
-		"chi"		"**飞机30秒后离开 **"
+		"chi"		"**飞机30秒后离开!防守! **"
 		"DoorCountdown"		"30"
 	}
 	"** jiang shi jia su bei na qi le **"
@@ -145,7 +145,7 @@
 	}
 	"** you shui ! 30 miao hou kai fang shui lu **"
 	{
-		"chi"		"**有水！30秒后开放水路 **"
+		"chi"		"**有水！30秒后开放水路!坚守阵地! **"
 		"DoorCountdown"		"30"
 	}
 	"** shui lu kai le , kuai pao **"
@@ -154,25 +154,25 @@
 	}
 	"** dian ti jiang zai 60 miao hou li kai **"
 	{
-		"chi"		"**电梯将在60秒后离开 **"
+		"chi"		"**电梯将在60秒后离开 ！防守电梯!**"
 		"DoorCountdown"		"60"
 	}
 	"** zui hou 10 miao **"
 	{
-		"chi"		"**最后10秒 **"
+		"chi"		"**最后10秒!快了! **"
 	}
 	"** dao yu 60 miao hou he bao ! **"
 	{
-		"chi"		"**岛屿60秒后核爆 **"
+		"chi"		"**岛屿60秒后核爆!boom! **"
 		"DoorCountdown"		"60"
 	}
 	"** kuai pao dao chuan shang **"
 	{
-		"chi"		"**快跑到船上 **"
+		"chi"		"**快跑到船上!fallback! **"
 	}
 	"** hai you 10 miao **"
 	{
-		"chi"		"**还有10秒 **"
+		"chi"		"**还有10秒 !ohyeah!**"
 	}
 	"** ni tong guan le b6 ban ben **"
 	{
@@ -204,23 +204,23 @@
 	}
 	"** you yi kuai shi tou dang zhu le qu lu **"
 	{
-		"chi"		"**有一块石头挡住了去路 **"
+		"chi"		"**有一块石头挡住了去路!怎么回事! **"
 	}
 	"** xiang ban fa kai lu , kuai **"
 	{
-		"chi"		"**想办法开路.快 **"
+		"chi"		"**想办法开路.快!**"
 	}
 	"** zai jian chi 10 miao ! **"
 	{
-		"chi"		"**再坚持10秒 **"
+		"chi"		"**再坚持10秒!快了! **"
 	}
 	"** kuai pao ! **"
 	{
-		"chi"		"**快跑 **"
+		"chi"		"**快跑!fallback! **"
 	}
 	"** dian ti jiang zai 45 miao hou li kai **"
 	{
-		"chi"		"**电梯将在45秒后离开 **"
+		"chi"		"**电梯将在45秒后离开!守住电梯! **"
 		"DoorCountdown"		"45"
 	}
 	"** ADMIN : kun nan nan du **"
@@ -233,11 +233,11 @@
 	}
 	"** zhe ge fang xiang you ling yi tiao chu lu **"
 	{
-		"chi"		"**这个方向有一条出路 **"
+		"chi"		"**这个方向有一条出路!貌似可以走! **"
 	}
 	"** kuai gen shang , bao hu hao chuan zhi **"
 	{
-		"chi"		"**快跟上.保护好船只 **"
+		"chi"		"**快跟上.保护好船只!快走! **"
 	}
 	"** hao da yi kuai shi tou **"
 	{
@@ -249,19 +249,19 @@
 	}
 	"** lu shang de zhang ai wu hen duo **"
 	{
-		"chi"		"**路上的障碍物很多 **"
+		"chi"		"**路上的障碍物很多!防守! **"
 	}
 	"** kuai su qing li diao , qian mian jiu shi shan ding le  **"
 	{
-		"chi"		"**快速清理掉.前面就是山顶了 **"
+		"chi"		"**快速清理掉.前面就是山顶了!冲上去! **"
 	}
 	"** tao li dao yu de da men jiu zai yan qian **"
 	{
-		"chi"		"**逃离岛屿的大门就在眼前 **"
+		"chi"		"**逃离岛屿的大门就在眼前!哇!奥利给! **"
 	}
 	"** jian chi zhu , wo men hen kuai jiu ke yi li kai le **"
 	{
-		"chi"		"**坚持住.我们很快就可以离开了 **"
+		"chi"		"**坚持住.我们很快就可以离开了!加油啊兄弟! **"
 	}
 	"** chuan song dian jiang hui bei ti qian dao shan gu zhong bu **"
 	{
@@ -273,11 +273,11 @@
 	}
 	"** pao xiang da hai ! **"
 	{
-		"chi"		"**跑向大海！ **"
+		"chi"		"**跑向大海！! **"
 	}
 	"** ni tiao li le tiao dao dao ... **"
 	{
-		"chi"		"**你逃离了跳刀岛 **"
+		"chi"		"**你逃离了跳刀岛!真爽! **"
 	}
 	"** gan xie ni de shi wan **"
 	{
@@ -318,7 +318,7 @@
 	}
 	"** fang zi de chu kou you ge mu men , zha diao ta  **"
 	{
-		"chi"		"**房子的出口有个木门，炸掉它**"
+		"chi"		"**房子的出口有个木门，炸掉它!boom!**"
 	}
 	"** di xia de ru kou you xu duo shi tou **"
 	{
@@ -326,7 +326,7 @@
 	}
 	"** ma shang qu qing li , wo men shi jian bu duo **"
 	{
-		"chi"		"**马上去清理，我们时间不多**"
+		"chi"		"**马上去清理，我们时间不多!gkd**"
 	}
 	"** qian mian si hu shi si lu **"
 	{
@@ -334,15 +334,15 @@
 	}
 	"** na jiu gan cui ba lu zha kai . bie you yu le**"
 	{
-		"chi"		"**那就干脆把路炸开，别犹豫啦**"
+		"chi"		"**那就干脆把路炸开，别犹豫啦!犹豫就会白给!**"
 	}
 	"** tie men dang zhu le lu , jie suo yan qian de da men **"
 	{
-		"chi"		"**铁门挡住了路，解锁眼前的大门**"
+		"chi"		"**铁门挡住了路，解锁眼前的大门!**"
 	}
 	"** zhi jie zha diao le , zou ! **"
 	{
-		"chi"		"**直接炸掉了，走！**"
+		"chi"		"**直接炸掉了，走！fallback!**"
 	}
 	"** di mian shang you shui zi , ying gai you shui lu , xiang ban fa da kai**"
 	{

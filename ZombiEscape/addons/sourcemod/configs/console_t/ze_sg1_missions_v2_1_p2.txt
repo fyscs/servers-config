@@ -2,11 +2,11 @@
 {
 	">>>MAP BY FREEZE!<<<"
 	{
-		"chi"		"地图作者:FREEZE 翻译:笨蛋⑨baka"
+		"chi"		"地图作者:FREEZE 翻译:Sakura@风云社"
 	}
 	">>>MAKE YOUR WAY TO THE CONTROL ROOM<<<"
 	{
-		"chi"		"去控制室！"
+		"chi"		"赶紧进入控制室"
 	}
 	">>>MISSION: ABYDOS<<<"
 	{
@@ -14,7 +14,7 @@
 	}
 	">>>STORAGE DOOR OPENING IN 5 SEC<<<"
 	{
-		"chi"		"储藏室门5秒后开启"
+		"chi"		"储藏室的门5秒后打开"
 	}
 	"DoorCountDown"		"5"
 	">>>INCOMING WORMHOLE. CLOSE THE IRIS!<<<"
@@ -27,20 +27,20 @@
 	}
 	">>>MALP DOOR OPENING IN 10 SEC<<<"
 	{
-		"chi"		"门10秒后开启"
+		"chi"		"门将在10秒后开启"
 	}
 	"DoorCountDown"		"10"
 	">>>PRESS THE BUTTON<<<"
 	{
-		"chi"		"咸鱼们快按按钮！"
+		"chi"		"尽快触发按钮！"
 	}
 	">>>RUN TO THE ELEVATOR<<<"
 	{
-		"chi"		"进电梯！"
+		"chi"		"快跑进电梯！"
 	}
 	">>>EVERYONE IN SPAWN AREAS GETTING TELEPORTED<<<"
 	{
-		"chi"		"所有挂机在出生点的咸鱼均已被传送"
+		"chi"		"所有挂机的人员均已被传送"
 	}
 	">>>ZOMBIES: BREAK THE IRIS!<<<"
 	{
@@ -48,7 +48,7 @@
 	}
 	">>>ELEVATOR LEAVING IN 5 SEC<<<"
 	{
-		"chi"		"电梯5秒后离开"
+		"chi"		"5秒后电梯将离开"
 	}
 	"DoorCountDown"		"5"
 	">>>ZOMBIES: GO UP THE ELEVATOR SHAFT<<<"
@@ -61,11 +61,11 @@
 	}
 	">>>RUN INTO GATE ROOM<<<"
 	{
-		"chi"		"快跑！"
+		"chi"		"快跑进门里！"
 	}
 	">>>Map by FreeZe<<<"
 	{
-		"chi"		"地图作者:Freeze 翻译:笨蛋⑨baka"
+		"chi"		"地图作者:Freeze 翻译:Sakura@风云社"
 	}
 	"Thanks to Fuu Westsider Kaemon Hannibal Sephiroth Senne Teddy and Infinity"
 	{
@@ -73,7 +73,7 @@
 	}
 	">>>Gateroom-doors closing in 5 seconds<<<"
 	{
-		"chi"		"房门5秒后关闭"
+		"chi"		"房门将在5秒后关闭"
 	}
 	">>>LEAVE THE ABYDOS-GATEROOM...FAST!<<<"
 	{
@@ -81,15 +81,15 @@
 	}
 	">>>FIND THE C4 OUTSIDE<<<"
 	{
-		"chi"		"去外面找c4！"
+		"chi"		"去外面寻找c4！"
 	}
 	">>>HOLD THE ENTRANCE UNTIL DOOR B IS OPEN!<<<"
 	{
-		"chi"		"守住入口直到B门开启！"
+		"chi"		"守住这里直到B门开启"
 	}
 	">>>ZOMBIES INCOMING!<<<"
 	{
-		"chi"		"僵尸来袭！"
+		"chi"		"僵尸冲过来了!!！"
 	}
 	">>>C4 has been picked<<<"
 	{
@@ -97,20 +97,20 @@
 	}
 	">>>BRING THE C4 TO DOOR B<<<"
 	{
-		"chi"		"带着c4去B门！"
+		"chi"		"带着C4去炸B门！"
 	}
 	">>>C4 has been placed. Hold 10 seconds!<<<"
 	{
-		"chi"		"C4已安放，守住10秒！"
+		"chi"		"C4已放置，坚守阵地10秒！"
 	}
 	"DoorCountDown"		"10"
 	">>>TEAM FALL BACK<<<"
 	{
-		"chi"		"全体人员撤退！"
+		"chi"		"全小队迅速撤离！"
 	}
 	">>>DOOR B IS OPEN!<<<"
 	{
-		"chi"		"B门开了！"
+		"chi"		"B门已开启，赶紧撤退！"
 	}
 	">>>FIND THE SECRET STONE TABLETT<<<"
 	{
@@ -118,11 +118,11 @@
 	}
 	">>>ZOMBIES FOUND ANOTHER WAY IN<<<"
 	{
-		"chi"		"僵尸找到了另一条通路"
+		"chi"		"僵尸发现了另外一条侧路"
 	}
 	">>>BIG-DOOR opening in 30 seconds<<<"
 	{
-		"chi"		"大门30秒后开启"
+		"chi"		"30秒后开启大门"
 	}
 	"DoorCountDown"		"30"
 	">>>DOOR OPEN!<<<"
@@ -131,27 +131,27 @@
 	}
 	">>>Stand on both platforms to open the door<<<"
 	{
-		"chi"		"同时站在两个平台上以开门"
+		"chi"		"需要站在2个平台上才可以打开大门"
 	}
 	">>>TAKE THE TABLETT<<<"
 	{
-		"chi"		"拿起石碑！"
+		"chi"		"快拿起石碑！"
 	}
 	">>>The tablett has been picked. Activate the rings!<<<"
 	{
-		"chi"		"石碑已被拿起，启动铃声！"
+		"chi"		"石碑已被人拿起，快去启动铃声！"
 	}
 	">>>10 seconds left<<<"
 	{
-		"chi"		"还剩10秒！"
+		"chi"		"坚守10秒！"
 	}
 	">>>RINGS ACTIVATING IN 5 SECONDS<<<"
 	{
-		"chi"		"铃声5秒后启动"
+		"chi"		"铃声将在5秒后触发"
 	}
 	">>>FALL BACK. RUN TO RINGPLATFORM!<<<"
 	{
-		"chi"		"快撤！跑到环形平台上！"
+		"chi"		"快跑！撤退到圆形平台上！"
 	}
 	">>>JUMP INTO THE GENERATOR TO OVERHEAT IT<<<"
 	{
@@ -159,15 +159,15 @@
 	}
 	">>>HOLD THIS POSITION UNTIL THE GENERATOR OVERHEATED<<<"
 	{
-		"chi"		"守到发电机过热！"
+		"chi"		"守住这里直到发电机过热！"
 	}
 	">>>THE GENERATOR IS OVERHEATING. HOLD THE POSITION<<<"
 	{
-		"chi"		"发电机正在过热，守住！"
+		"chi"		"发电机正在发电，加油守住这里"
 	}
 	">>>DONE. RUN FOR YOUR LIFES!<<<"
 	{
-		"chi"		"完成了！快跑小伙子们！要炸辣！"
+		"chi"		"你们办到啦！快跑！千万别被炸死！！"
 	}
 	">>>Door opening in 10 sec<<<"
 	{
@@ -175,23 +175,23 @@
 	}
 	">>>TEAM FALL BACK! THE DOOR IS OPEN<<<"
 	{
-		"chi"		"全体人员撤退！门开了！"
+		"chi"		"全部人员撤离！门已打开！"
 	}
 	">>>HOLD HERE WHILE OTHERS REPAIR THE ELEVATOR<<<"
 	{
-		"chi"		"守到其他人修好电梯！"
+		"chi"		"守住这里直到其他小队修复电梯！"
 	}
 	">>>POWER TO THE DOORS RESTORED<<<"
 	{
-		"chi"		"能源恢复"
+		"chi"		"电力恢复"
 	}
 	">>>CALL THE ELEVATOR<<<"
 	{
-		"chi"		"按电梯！"
+		"chi"		"赶紧按电梯！"
 	}
 	">>>ELEVATOR ARRIVING IN 15 SECONDS<<<"
 	{
-		"chi"		"电梯15秒后到达！"
+		"chi"		"电梯将在15秒后到达！"
 	}
 	">>>RUUUUUUUUUUUUN<<<"
 	{
