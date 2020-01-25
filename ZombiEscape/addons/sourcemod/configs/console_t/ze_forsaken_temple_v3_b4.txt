@@ -26,7 +26,7 @@
 	}
 	"** STAGE 1: Underground **"
 	{
-		"chi"		"**第一章：探索**"   
+		"chi"		"**第一章：探索 地图翻译：小三@风云社**"   
 	}
 	"** Right fence is breaking in 30s **"
 	{
@@ -194,7 +194,11 @@
 	}
 	"** STAGE 2: Investigation **"
 	{
-		"chi"		"**第二章：调查**"   
+		"chi"		"**第二章：调查 地图翻译：小三@风云社**"   
+	}
+		"** STAGE 3: Escape **"
+	{
+		"chi"		"**第三章：逃离 地图翻译：小三@风云社**"  
 	}
 	"** Left fence is breaking in 30s **"
 	{
@@ -260,7 +264,7 @@
 	{
 		"chi"		"**在它杀死你之前杀了它**"   
 	}	
-	"**  Helicopter is infected **"
+	"** Helicopter is infected **"
 	{
 		"chi"		"**直升机检测到僵尸**"
 	"** ROUND FAIL **"
@@ -283,7 +287,7 @@
 	{
 		"chi"		"**迷宫出口10秒后打开**"  
 	}	
-	"** HE IS DEAD! RUN FOR YOUR LYFE!  **"
+	"** HE IS DEAD! RUN FOR YOUR LYFE! **"
 	{
 		"chi"		"**它死了！快逃！**"  
 	}	
@@ -438,10 +442,6 @@
 	"** ADMIN SELECTED STAGE 3 **"
 	{
 		"chi"		"**某人选择了第三章**"  
-	}
-	"** STAGE 3: Escape **"
-	{
-		"chi"		"**第三章：逃离**"  
 	}
 	"** You are too slow! Boss enrage soon! **"
 	{
