@@ -267,6 +267,7 @@
 	"** Helicopter is infected **"
 	{
 		"chi"		"**直升机检测到僵尸**"
+	}
 	"** ROUND FAIL **"
 	{
 		"chi"		"**任务失败**"
@@ -369,11 +370,11 @@
 	}	
 	"** Incorrect combination! The pit will open SLOWER **"
 	{
-		"chi"		"**钥匙被放在了错误的位置上！你们要防守更久的时间**"
+		"chi"		"**钥匙被放在了错误的位置上！你们要防守更长的时间**"
 	}	
 	"** ADMIN SELECTED ZM MODE **"
 	{
-		"chi"		"**某人选择了ZM关**"
+		"chi"		"**管理员选择了ZM关**"
 	}	
 	"** ZM MODE **"
 	{
@@ -433,15 +434,15 @@
 	}	
 	"** ADMIN SELECTED STAGE 1 **"
 	{
-		"chi"		"**某人选择了第一章**"   
+		"chi"		"**管理员选择了第一章**"   
 	}	
 	"** ADMIN SELECTED STAGE 2 **"
 	{
-		"chi"		"**某人选择了第二章**" 
+		"chi"		"**管理员选择了第二章**" 
 	}	
 	"** ADMIN SELECTED STAGE 3 **"
 	{
-		"chi"		"**某人选择了第三章**"  
+		"chi"		"**管理员选择了第三章**"  
 	}
 	"** You are too slow! Boss enrage soon! **"
 	{
