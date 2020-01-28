@@ -1,0 +1,46 @@
+"Kxnrl.Vocies"
+{
+    // write example
+    "Lilia.Arlene"
+    {
+        // general key
+        "model" "model/player/custom_players/maoling/bullet_impact3/lilia/normal/lilia.mdl"
+
+        // round event voice here
+        "round"
+        {
+            "RS" "maoling/voice/rsvcr/lilia.mp3"
+            "RW" "maoling/voice/rwvcr/lilia.mp3"
+            "RL" "maoling/voice/rlvcr/lilia.mp3"
+            "RD" "maoling/voice/rdvcr/lilia.mp3"
+        }
+
+        // player event voice here
+        "event"
+        {
+            // idle
+            "idles" "maoling/voice/idles/lilia.mp3"
+
+            // spawn -> 0.5 sec delay
+            "spawn" "maoling/voice/spawn/lilia.mp3"
+
+            // death -> keep null built-in store.
+            "death" ""
+
+            "hurts"
+            {
+                // keep first from headshot.
+                "maoling/voice/hurts/lilia_0.mp3"
+
+                // keep second from knockout
+                "maoling/voice/hurts/lilia_1.mp3"
+                
+                // 3rd begin -> randomly hurts voice
+                "maoling/voice/hurts/lilia_2.mp3"
+                "maoling/voice/hurts/lilia_3.mp3"
+                "maoling/voice/hurts/lilia_4.mp3"
+            }
+        }
+        
+    }
+}
