@@ -2,7 +2,7 @@
 {
 	"*** Current level: NORMAL  *** Escape: VERYBAD CORP. LABS ***"
 	{
-		"chi"		"**当前难度：萌新 任务:逃离实验室 **"
+		"chi"		"**当前难度：萌新      任务:逃离实验室 **"
 	}
 	"*Doors opening in 7 seconds.*"
 	{
@@ -10,7 +10,7 @@
 	}
 	"*Exit door is not working.*"
 	{
-		"chi"		"**安全门失效 **"
+		"chi"		"**冲冲冲**"
 	}
 	"*Choose one way and evade from the zombies.*"
 	{
@@ -22,7 +22,7 @@
 	}
 	"*WARNING: WEAPON SPAMMING WILL BE PUNISHED.*"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：ENVIOLINADOR		地图翻译:小三@风云社**"
 	}
 	"*Hallway door opening in 10 seconds*"
 	{
@@ -43,11 +43,11 @@
 	}
 	"*Water deposit door broken. Go though the vents!*"
 	{
-		"chi"		"**水池大门已打开 **"
+		"chi"		"**僵尸下水了，注意保护自己的菊花**"
 	}
 	"*Zombies detected on office area. Defense mode activated.*"
 	{
-		"chi"		"**僵尸已进入办公室 防御系统已打开 **"
+		"chi"		"**僵尸已进入办公室，防御系统已打开 **"
 	}
 	"*Garage door opening in 38 seconds*"
 	{
@@ -68,7 +68,7 @@
 	}
 	"*Open the bunker door while others defend the spot.*"
 	{
-		"chi"		"**打开掩体门，其他人掩护 **"
+		"chi"		"**打开掩体门 其他人掩护 **"
 	}
 	"*Bunker door opening in 10 seconds*"
 	{
@@ -80,7 +80,7 @@
 	}
 	"*The truck will leave in 15 seconds. Resist!*"
 	{
-		"chi"		"**卡车将在15秒后离开，快上车！！！ **"
+		"chi"		"**卡车将在15秒后离开，快上车 **"
 		"DoorCountdown"		"15"
 	}
 	"*Exit door opening in 5 seconds*"
@@ -177,7 +177,7 @@
 	}
 	"*** NORMAL MODE COMPLETED ***"
 	{
-		"chi"		"**已通过萌新难度！地图翻译:小三@风云社 **"
+		"chi"		"**已通关萌新难度！**"
 	}
 	"*** NEXT LEVEL IS HARD ***"
 	{
@@ -185,11 +185,11 @@
 	}
 	"*** Current level: HARD  *** Escape: RIVER POWERSTATION ***"
 	{
-		"chi"		"**当前难度:咸鱼 路线:发电站 **"
+		"chi"		"**当前难度:咸鱼      路线:发电站 **"
 	}
 	"** Mojonero's PenisGun has been picked up. **"
 	{
-		"chi"		"** M大屌枪被拾起 **"
+		"chi"		"**大屌枪被拾起**"
 	}
 	"*Speed weapon has been picked up. It grants a slight speed boost.*"
 	{
@@ -226,7 +226,7 @@
 	}
 	"*The doors are now open. LEAVE!!!*"
 	{
-		"chi"		"**咕咕咕！！！ **"
+		"chi"		"**咕咕咕**"
 	}
 	"*Powerstation doors opening in 7 seconds*"
 	{
@@ -263,7 +263,7 @@
 	}
 	"*** HARD MODE COMPLETED ***"
 	{
-		"chi"		"**已通过咸鱼难度！地图翻译:小三@风云社 **"
+		"chi"		"**已通关咸鱼难度！**"
 	}
 	"*** NEXT LEVEL IS EXTREME ***"
 	{
@@ -271,15 +271,15 @@
 	}
 	"*** Current level: EXTREME  *** Escape: EVIL CORP. HEADQUARTERS ***"
 	{
-		"chi"		"**当前难度：萌新司机 路线:实验总部 **"
+		"chi"		"**当前难度：萌新司机      路线:实验总部 **"
 	}
 	"*Resist for 10 seconds. Other people may come!*"
 	{
-		"chi"		"**防御10秒！等等老寒腿 **"
+		"chi"		"**等待10秒,后面貌似还有很多咸鱼**"
 	}
 	"*We have waited long enough! RUN!*"
 	{
-		"chi"		"**我们等得足够长了 撤退! **"
+		"chi"		"**我们等得足够长了！溜了溜了！**"
 	}
 	"** Raivb1000 Prototype door has been unlocked! **"
 	{
@@ -328,7 +328,7 @@
 	}
 	"*Basic defensive mode activated: Laser and Landmines*"
 	{
-		"chi"		"**基本攻击模式:激光和地雷 **"
+		"chi"		"**基本攻击模式:激光&地雷 **"
 	}
 	"** TIP: He Grenades deal a lot of damage to the robot.**"
 	{
@@ -376,7 +376,7 @@
 	}
 	"** PLANE ENDING: GET TO THE PAPER PLANE **"
 	{
-		"chi"		"**飞机路线:赶快登上右边出口的纸飞机!！！你们只有几秒钟的时间！！！ **"
+		"chi"		"**飞机路线:赶快登上右边出口的纸飞机！你们只有几秒钟的时间！**"
 	}
 	"** Explosion in 20 seconds **"
 	{
@@ -408,11 +408,11 @@
 	}
 	"*** EXTREME MODE COMPLETED ***"
 	{
-		"chi"		"**已通过萌新司机难度！地图翻译:小三@风云社 **"
+		"chi"		"**已通关萌新司机难度！**"
 	}
 	"*** Current level: MASSACRE  *** Escape: EVIL CORP. HEADQUARTERS ***"
 	{
-		"chi"		"**当前难度：老司机 路线:实验总部 **"
+		"chi"		"**当前难度：老司机      路线:实验总部 **"
 	}
 	"*Door opening in 5 seconds. RESIST!*"
 	{
@@ -432,7 +432,7 @@
 	}
 	"*** Current level: PANIC  *** Escape: VERYBAD CORP. TRAINSTATION ***"
 	{
-		"chi"		"**当前难度 恐慌 路线:火车 翻译:小三@风云社 **"
+		"chi"		"**当前难度：老咸鱼      路线:火车**"
 	}
 	"* Door is opening in 20 seconds. *"
 	{
@@ -533,7 +533,7 @@
 	}
 	"** BEWARE! It's an upgraded offensive XJ-7800 robot! **"
 	{
-		"chi"		"**警告，它是防御机器人的升级版 **"
+		"chi"		"**警告！它是防御机器人的升级版 **"
 	}
 	"** SHOOT IT! **"
 	{
@@ -541,7 +541,7 @@
 	}
 	"*Annihilator mode activated. Unloading offensive modules.*"
 	{
-		"chi"		"**歼灭者模式已激活，卸载进攻模式 **"
+		"chi"		"**歼灭者模式已激活，卸载攻击模式 **"
 	}
 	"*He's going to use his more powerfull attack and wipe us out!*"
 	{
@@ -557,7 +557,7 @@
 	}
 	"*** MASSACRE MODE COMPLETED ***"
 	{
-		"chi"		"**已通过萌新司机难度！地图翻译:小三@风云社 **"
+		"chi"		"**已通关萌新司机难度！**"
 	}
 	"*** NEXT LEVEL IS THE END ***"
 	{
@@ -565,7 +565,7 @@
 	}
 	"*** Current level: THE END  *** Escape: THE PAPER DIMENSION ***"
 	{
-		"chi"		"**当前难度：最终关 路线:纸质维度 **"
+		"chi"		"**当前难度：最终关       路线:纸质维度 **"
 	}
 	"** City sewers management plant doors are opening in 20 seconds. RESIST!!! **"
 	{
@@ -577,7 +577,7 @@
 	}
 	"** PLEASE CONSIDER SUICIDE IF YOU ARE UNSURE ABOUT BEING ABLE TO BEAT THIS ROUND! **"
 	{
-		"chi"		"**如果能有三个勇士愿意牺牲他的生命，那么将会存档，通关失败后仍然是最终关 **"
+		"chi"		"**如果能有三个勇士愿意牺牲他的生命，那么一切都将有可能发生！**"
 	}
 	"** YOU HAVE BEEN WARNED!!! **"
 	{
@@ -589,7 +589,7 @@
 	}
 	"** TIP: Three humans must suicide to keep the THE END level **"
 	{
-		"chi"		"**提示:献祭三个个人类用他们的生命将会存档 **"
+		"chi"		"**提示:献祭三个人类将会存档至最终关**"
 	}
 	"** THE PAPER GODS ARE PLEASED WITH YOUR SACRIFICE **"
 	{
@@ -682,16 +682,16 @@
 	}
 	"* Helicopter leaves in 50 seconds. *"
 	{
-		"chi"		"**直升机50秒后离开 **"
+		"chi"		"**直升机引擎50秒后发动**"
 		"DoorCountdown"		"50"
 	}
 	"* Helicopter leaves in 20 seconds. RESIST!!! *"
 	{
-		"chi"		"**直升机20秒后离开 **"
+		"chi"		"**直升机引擎20秒后发动**"
 	}
 	"* HELICOPTER LEAVES IN 5 SECONDS!!! GET ON IT!!! *"
 	{
-		"chi"		"**直升机5秒后离开 **"
+		"chi"		"**直升机5秒后起飞**"
 	}
 	"* WO-HOO!!! NICE JOB PEOPLE!!! *"
 	{
@@ -711,15 +711,15 @@
 	}
 	"RndPlayer: rtv rtv rtv shit map lol admin change plz"
 	{
-		"chi"		"**一些玩家:RTV!!!RTV!!!RTV！！！屎一样的地图op赶紧换了！！！ **"
+		"chi"		"**一些玩家:RTV!RTV!RTV!屎一样的地图op赶紧换了!!!**"
 	}
 	"** DID YOU MISS ME? **"
 	{
-		"chi"		"**你还记得我妈? **"
+		"chi"		"**你还记得我吗? **"
 	}
 	"*ZE_PAPER_ESCAPER BY ENVIOLINADOR*"
 	{
-		"chi"		"**地图制作：ENVIOLINADOR 地图翻译：地图翻译:小三@风云社 **"
+		"chi"		"**地图制作：ENVIOLINADOR		地图翻译:小三@风云社 **"
 	}
 	"*** Thank you for playing this map ***"
 	{
@@ -727,7 +727,7 @@
 	}
 	"*** MAP WILL NOW RESET TO NORMAL ***"
 	{
-		"chi"		"**地图难度将从第一关开始 **"
+		"chi"		"**地图难度重载**"
 	}
 	"** Mojoneros PenisGun has been picked up. **"
 	{
@@ -739,7 +739,7 @@
 	}
 	"*Theres no power! One human must activate it through the vent..*"
 	{
-		"chi"		"**没有能源！一个人必须通过通风口激活它 **"
+		"chi"		"**没有能源！一个人必须通关通风口激活它 **"
 	}
 	"*Activate the Elevator and open the docks door.*"
 	{
@@ -763,11 +763,11 @@
 	}
 	"*Basic offensive mode activated: Fist crusher module loaded*"
 	{
-		"chi"		"** **"
+		"chi"		"**基本攻击模式：绞肉机加载中**"
 	}
 	"*Well done! You stopped the robots most powerfull attack!*"
 	{
-		"chi"		"** **"
+		"chi"		"**做得好!你阻止了机器人最有力的攻击**"
 	}
 	"** BUNKER ENDING: GET TO THE RIVERSIDE BUNKER **"
 	{
@@ -775,51 +775,51 @@
 	}
 	"** Explosion in 30 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒**"
 	}
 	"*Bunker Door opening in 7 seconds*"
 	{
-		"chi"		"** **"
+		"chi"		"**燃料仓门7秒后打开**"
 	}
 	"* Trainstations door is opening!*"
 	{
-		"chi"		"** **"
+		"chi"		"**列车站的门开了**"
 	}
 	"* Stairs to the trains area are locked. Find a way to activate the elevator... *"
 	{
-		"chi"		"** **"
+		"chi"		"**前往列车站的楼梯是锁着的，想办法启动电梯**"
 	}
 	"*** Someone has to open the train doors. Thats our escape route! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**总得有人把车门打开，那是我们的逃生路线**"
 	}
 	"*** Hold the second cart! Were nearing our escape. ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住第二节车厢，我们快要成功逃离这里了**"
 	}
 	"** WERE SAFE! Lets get the train running! **"
 	{
-		"chi"		"** **"
+		"chi"		"**安全,让列车动起来吧**"
 	}
 	"** BEWARE! Its an upgraded offensive XJ-7800 robot! **"
 	{
-		"chi"		"** **"
+		"chi"		"**小心!它是一种进攻型XJ-7800机器人**"
 	}
 	"*** THE DESTRUCTIVE ROBOT IS ABOUT TO CHARGE ITS MOST POWERFUL ATTACK! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**这个破坏性的机器人即将发动它最强大的攻击**"
 	}
 	"*** IT WILL ANNIHILATE US ALL! KEEP SHOOTING! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**它会把我们全部消灭的!**"
 	}
 	"*** OH NO!!! WERE TOO LATE! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**哦,不!!!太迟了**"
 	}
 	"*** WERE DOOMED!!! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**命中注定我们要失败**"
 	}
 	"* Cisneros Hero Burguer has been picked up! *"
 	{
@@ -827,35 +827,35 @@
 	}
 	"* Hospitals doors open in 15 seconds. *"
 	{
-		"chi"		"** **"
+		"chi"		"**医院大门：15秒**"
 	}
 	"* Elevators power restoring... It will leave in 20 seconds *"
 	{
-		"chi"		"** **"
+		"chi"		"**电梯电力恢复……它将在20秒后离开**"
 	}
 	"* SECOND FLOOR: Patients rooms. *"
 	{
-		"chi"		"** **"
+		"chi"		"**二楼:病房**"
 	}
 	"* TIP: Zombies can break the elevators side vent. *"
 	{
-		"chi"		"** **"
+		"chi"		"**提示:僵尸可以打破电梯一侧的通风口**"
 	}
 	"* TIP: Press the energy control panel to cause an overload in the doors circuitry. *"
 	{
-		"chi"		"** **"
+		"chi"		"**提示:按下能量控制面板，导致门电路过载以打开门**"
 	}
 	"* Wait... Why isnt it ending...? *"
 	{
-		"chi"		"** **"
+		"chi"		"**等待……为什么没有结束?**"
 	}
 	"** ITS TOO LATE!!! YOU NOOBZORZ ARE FAIL!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**太迟了!!!你们这些笨蛋**"
 	}
 	"*Hes going to use his more powerfull attack and wipe us out!*"
 	{
-		"chi"		"** **"
+		"chi"		"**它会用他更强大的攻击来消灭我们**"
 	}
 	"*** Energy is coming back to the engine! ***"
 	{
@@ -863,15 +863,15 @@
 	}
 	"*** HOLD! The train will move as soon as the engine recharges! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住!列车马上就要开走了**"
 	}
 	"*** PANIC MODE COMPLETED ***"
 	{
-		"chi"		"** **"
+		"chi"		"**老咸鱼难度完成**"
 	}
 	"** ITS TOO LATE!!! WERE ALL DOOMED!!! **"
 	{
-		"chi"		"** **"
+		"chi"		"**太迟了!!!命中注定我们要失败**"
 	}
 	"** MAP BY Hannibal [SPA] (Rafuron)  Map modified by Rulucy **"
 	{
