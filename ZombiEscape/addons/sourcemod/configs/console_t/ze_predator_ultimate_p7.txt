@@ -2,11 +2,11 @@
 {
 	"***DIFFICULTY --- NORMAL***"
 	{
-		"chi"		"** 当前难度：萌新 **"
+		"chi"		"** 当前难度：萌新		汉化：小三@风云社 **"
 	}
 	"***TYPE MAT_COLORCORRECTION 1 IN CONSOLE FOR BETTER VISUALS***"
 	{
-		"chi"		"** 控制台输入 MAT_COLORCORRECTION 1 会有更好的视觉效果 ** 地图翻译：小三@风云社 **"
+		"chi"		"** 控制台输入 MAT_COLORCORRECTION 1 会有更好的视觉效果**"
 	}
 	"***THE NUKE HAS EXPLODED***"
 	{
@@ -14,11 +14,11 @@
 	}
 	"***OH NO! THE NUKE EXPLODED!***"
 	{
-		"chi"		"** 核弹爆炸了！ **"
+		"chi"		"** 僵尸全都给我死 **"
 	}
 	"***INFILTRATE AND DEFEND THE GUERILLA COMPOUND***"
 	{
-		"chi"		"** 前进并且防守院子里的僵尸 **"
+		"chi"		"** 进入围栏防守僵尸 **"
 	}
 	"***HOLD FOR 50 SECONDS***"
 	{
@@ -27,7 +27,7 @@
 	}
 	"***Fall back***"
 	{
-		"chi"		"** ！！！准备撤退！！！ **"
+		"chi"		"** 准备撤退 **"
 	}
 	"***5 seconds left***"
 	{
@@ -51,7 +51,7 @@
 	}
 	"***RUN***"
 	{
-		"chi"		"** ！！！咕咕咕！！！ **"
+		"chi"		"** 撤退 **"
 	}
 	"***HOLD THIS AREA FOR 10 SECONDS***"
 	{
@@ -59,11 +59,11 @@
 	}
 	"***TELEPORTING EVERYONE TO COMPOUND***"
 	{
-		"chi"		"** 传送点即将激活 **"
+		"chi"		"** 僵尸传送点刷新 **"
 	}
 	"***MOVE IT***"
 	{
-		"chi"		"** ！！！撤退！！！ **"
+		"chi"		"** 撤退 **"
 	}
 	"***ITS A PREDATOR!***"
 	{
@@ -71,7 +71,7 @@
 	}
 	"***KILL IT***"
 	{
-		"chi"		"** 快干♂死它 **"
+		"chi"		"** 快干死它 **"
 	}
 	"***DODGE THE LASERS***"
 	{
@@ -79,7 +79,7 @@
 	}
 	"***IT LOOKS LIKE IT'S PREPARING FOR ANOTHER GROUNDSTOMP***"
 	{
-		"chi"		"** 甘霖娘！赶紧开枪！！！ **"
+		"chi"		"** 甘霖娘！赶紧开枪 **"
 	}
 	"***SHOOT IT BEFORE IT'S TOO LATE***"
 	{
@@ -108,7 +108,7 @@
 	}
 	"***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
 	{
-		"chi"		"** 传送点激活 **"
+		"chi"		"** 僵尸传送点刷新 **"
 	}
 	"***HOLD THIS AREA FOR 40 SECONDS***"
 	{
@@ -117,7 +117,7 @@
 	}
 	"***TELEPORTING EVERYONE TO RUINS***"
 	{
-		"chi"		"** 传送点激活 **"
+		"chi"		"** 僵尸传送点刷新 **"
 	}
 	"***20 SECONDS LEFT***"
 	{
@@ -146,7 +146,7 @@
 	}
 	"***RUN! GO BEFORE ITS TOO LATE!***"
 	{
-		"chi"		"** 撤退！赶紧！**"
+		"chi"		"** 撤退 **"
 	}
 	"***THE CHOPPER IS ON IT'S WAY!***"
 	{
@@ -154,15 +154,15 @@
 	}
 	"***CHOPPER LEAVING IN 10 SECONDS***"
 	{
-		"chi"		"** 直升机还有10秒就要离开了 **"
+		"chi"		"** 直升机还有10秒后撤离 **"
 	}
 	"***CHOPPER LEAVING IN 5 SECONDS***"
 	{
-		"chi"		"** 直升机还有5秒就要离开了 **"
+		"chi"		"** 直升机还有5秒后撤离 **"
 	}
 	"***CHOPPER IS LEAVING***"
 	{
-		"chi"		"** 直升机离开了 **"
+		"chi"		"** 直升机撤离中 **"
 	}
 	"***YOU COMPLETED NORMAL***"
 	{
@@ -174,7 +174,7 @@
 	}
 	"***DIFFICULTY --- HARD***"
 	{
-		"chi"		"** 当前难度：咸鱼 **"
+		"chi"		"** 当前难度：咸鱼		汉化：小三@风云社 **"
 	}
 	"***HOLD AZTEC-RUINS FOR 25 SECONDS***"
 	{
@@ -186,7 +186,7 @@
 	}
 	"***RUN !***"
 	{
-		"chi"		"** ！！！咕咕咕！！！ **"
+		"chi"		"** 撤退 **"
 	}
 	"***PLAYER PICKED UP IMPULSOR***"
 	{
@@ -221,23 +221,23 @@
 	}
 	"***5***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒**"
 	}
 	"***4***"
 	{
-		"chi"		"** **"
+		"chi"		"**4秒**"
 	}
 	"***3***"
 	{
-		"chi"		"** **"
+		"chi"		"**3秒**"
 	}
 	"***2***"
 	{
-		"chi"		"** **"
+		"chi"		"**2秒**"
 	}
 	"***1***"
 	{
-		"chi"		"** **"
+		"chi"		"**1秒**"
 	}
 	"***GET INSIDE***"
 	{
@@ -245,7 +245,7 @@
 	}
 	"***YOU HAVE DEFEATED THE PREDATOR!***"
 	{
-		"chi"		"** 你们打败了猛男！**"
+		"chi"		"** 猛男被你们干死了**"
 	}
 	"***YOU COMPLETED HARD***"
 	{
@@ -257,7 +257,7 @@
 	}
 	"***DIFFICULTY --- HYPER***"
 	{
-		"chi"		"** 当前难度：萌新司机 **"
+		"chi"		"** 当前难度：萌新司机		汉化：小三@风云社 **"
 	}
 	"***ELEVATOR IS WARMING UP***"
 	{
@@ -273,7 +273,7 @@
 	}
 	"***TELEPORTING EVERYONE TO COMPLEX ELEVATOR***"
 	{
-		"chi"		"** 传送点即将激活 **"
+		"chi"		"** 僵尸传送点即刷新 **"
 	}
 	"***C4 ACTIVATED***"
 	{
@@ -286,11 +286,11 @@
 	}
 	"***ITS THE PREDATOR!***"
 	{
-		"chi"		"** 又是它！又是那个猛男！**"
+		"chi"		"** 又是那个猛男！**"
 	}
 	"***TELEPORTING EVERYONE TO COMPLEX CORE***"
 	{
-		"chi"		"** 核心传送点已激活 **"
+		"chi"		"** 僵尸传送点刷新 **"
 	}
 	"***THE PREDATOR IS CHARGING AN ATTACK!***"
 	{
@@ -302,15 +302,15 @@
 	}
 	"***HOLD ON TO YOUR HELMETS!***"
 	{
-		"chi"		"** 带上你的头盔! **"
+		"chi"		"** 带上你们的头盔! **"
 	}
 	"***YOU KILLED THE PREDATOR***"
 	{
-		"chi"		"** 猛男被你们干♂掉了 **"
+		"chi"		"** 猛男被你们干掉了 **"
 	}
 	"***RUN TOWARDS THE ELEVATOR!***"
 	{
-		"chi"		"** 向电梯移动！! **"
+		"chi"		"** 前往电梯 **"
 	}
 	"***CHOPPER IS ON IT'S WAY***"
 	{
@@ -318,19 +318,19 @@
 	}
 	"***THE CHOPPER IS HERE! MOVE IT!***"
 	{
-		"chi"		"** 直升机已经到达！快上去！**"
+		"chi"		"** 直升机已经到达！**"
 	}
 	"***CHOPPER LEAVES IN 10 SECONDS***"
 	{
-		"chi"		"** 直升机10秒后就要离开了 **"
+		"chi"		"** 直升机10秒后撤离 **"
 	}
 	"***CHOPPER LEAVES IN 5 SECONDS***"
 	{
-		"chi"		"** 直升机10秒后就要离开了 **"
+		"chi"		"** 直升机10秒后撤离 **"
 	}
 	"***YOU COMPLETED HYPER***"
 	{
-		"chi"		"** 你们又再一次征服了萌新司机难度 **"
+		"chi"		"** 萌新司机难度完成 **"
 	}
 	"***MOVING ON TO ULTIMATE***"
 	{
@@ -342,7 +342,7 @@
 	}
 	"***DIFFICULTY --- ULTIMATE***"
 	{
-		"chi"		"** 当前难度：老司机 **"
+		"chi"		"** 当前难度：老司机		汉化：小三@风云社 **"
 	}
 	"***GET IN THE ELEVATOR***"
 	{
@@ -355,15 +355,15 @@
 	}
 	"***15 SECONDS LEFT***"
 	{
-		"chi"		"** 还剩下15秒 **"
+		"chi"		"** 在这个区域守住15秒 **"
 	}
 	"***TELEPORTING EVERYONE TO SPACESHIP ENTRANCE***"
 	{
-		"chi"		"** 太空船传送点即将激活 **"
+		"chi"		"** 僵尸传送点刷新 **"
 	}
 	"***PLAYER PICKED UP ALIEN DEVICE***"
 	{
-		"chi"		"** 异形设备黑拾取 **"
+		"chi"		"** 异形设备被拾取 **"
 	}
 	"***GET INSIDE THE TRANSPORTER***"
 	{
@@ -371,15 +371,15 @@
 	}
 	"***TELEPORTING EVERYONE TO SPACESHIP CORE***"
 	{
-		"chi"		"** 飞船核心传送点即将激活 **"
+		"chi"		"** 僵尸传送点刷新 **"
 	}
 	"***THE PREDATOR IS IN RAGEMODE***"
 	{
-		"chi"		"** 猛男进入狂♂暴模式 **"
+		"chi"		"** 猛男进入狂暴模式 **"
 	}
 	"***THE SPACESHIP IS STARTING TO COLLAPSE***"
 	{
-		"chi"		"** 宇宙飞船开始崩溃了 **"
+		"chi"		"** 宇宙飞船开始崩塌了 **"
 	}
 	"***SOMEONE MUST JUMP INTO THE CORE***"
 	{
@@ -407,11 +407,11 @@
 	}
 	"***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***"
 	{
-		"chi"		"** 你们必须按下角落的4个球体！ **"
+		"chi"		"** 你们必须按下角落的四个球体！ **"
 	}
 	"***THIS IS YOUR FINAL STAND***"
 	{
-		"chi"		"** 这是你最后的战斗 **"
+		"chi"		"** 这是你们最后的战斗 **"
 	}
 	"***HOLD YOUR GROUND***"
 	{
@@ -423,7 +423,7 @@
 	}
 	"***MAP BY --- PER30010 / LUFFAREN***"
 	{
-		"chi"		"** 地图制作：PER30010 / LUFFAREN 地图翻译：小三@风云社 **"
+		"chi"		"**地图制作：Luffaren**"
 	}
 	"***YOU ARE THE ULTIMATE ZOMBIE ESCAPE MASTER***
 "
@@ -436,7 +436,7 @@
 	}
 	"***MAP RESET***"
 	{
-		"chi"		"** 地图地图以通关！下一关将从萌新难度开始 **"
+		"chi"		"**地图重载中**"
 	}
 	"***CHOPPER IS ON ITS WAY***"
 	{
@@ -444,11 +444,11 @@
 	}
 	"***MAP BY --- PER30010  LUFFAREN***"
 	{
-		"chi"		"**地图制作：PER30010  LUFFAREN 地图翻译：小三@风云社 **"
+		"chi"		"**地图制作：Luffaren**"
 	}
 	"***YOU ARE THE ULTIMATE ZOMBIE ESCAPE MASTER***"
 	{
-		"chi"		"** 们是极限的僵尸逃跑大师 **"
+		"chi"		"** 你们是极限的僵尸逃跑大师 **"
 	}
 	"***IT LOOKS LIKE ITS PREPARING FOR ANOTHER GROUNDSTOMP***"
 	{
@@ -464,7 +464,7 @@
 	}
 	"***THE CHOPPER IS ON ITS WAY!***"
 	{
-		"chi"		"** 直升机在路上了 **"
+		"chi"		"** 直升机在路上 **"
 	}
 	"***ELEVATORS HERE***"
 	{
@@ -480,22 +480,22 @@
 	}
 	"***A ZOMBIE GOT INSIDE THE CHOPPER***"
 	{
-		"chi"		"** **"
+		"chi"		"**一个僵尸钻进了直升机**"
 	}
 	"***SOMEONE IS CHANGING DIFFICULTY INSIDE THE DEVROOM***"
 	{
-		"chi"		"** **"
+		"chi"		"**管理员正在选择难度**"
 	}
 	"***NUKE BUTTON PRESSED***"
 	{
-		"chi"		"** **"
+		"chi"		"**核按钮被按下**"
 	}
 	"***Map by Luffaren***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Luffaren**"
 	}
 	"** Welcome to the mystical island of Kraznov Poopata **"
 	{
-		"chi"		"** **"
+		"chi"		"**欢迎来到神秘的Kraznov Poopata岛**"
 	}
 }
