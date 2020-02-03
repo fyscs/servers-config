@@ -2,7 +2,7 @@
 {
 	"**Whitney: Miltank, use quake!**"
 	{
-		"chi"		"**小茜：大奶罐，使用极巨大地**"
+		"chi"		"**小茜：大奶罐，使用极巨大地（一直跳）**"
 	}
 	"**Gallade has fainted**"
 	{
@@ -42,7 +42,7 @@
 	}
 	"**Defend for 10 seconds**"
 	{
-		"chi"		"**防御10秒**"
+		"chi"		"**防守10秒**"
 	}
 	"**5 seconds**"
 	{
@@ -90,11 +90,11 @@
 	}
 	"***A wild Gastly is comming***"
 	{
-		"chi"		"***鬼斯出现了***"
+		"chi"		"***僵尸捡起了鬼斯***"
 	}
 	"**Wally: Gallade, use Psycho Cut**"
 	{
-		"chi"		"**摔跤总教练：鬼斯,使用精神利刃**"
+		"chi"		"**摔跤总教练：鬼斯,使用精神利刃             “无法躲避的跳刀，过了斜坡的都给我死”**"
 	}
 	"**Get out of the cave!**"
 	{
@@ -214,7 +214,7 @@
 	}
 	"**CUTSCENE SKIPPED**"
 	{
-		"chi"		"**跳过的剪切场景**"
+		"chi"		"**跳过剧情**" 
 	}
 	"PKMN Trainer Wally wants to fight"
 	{
@@ -242,7 +242,7 @@
 	}
 	"Wally: KIRLIA, RETURN!"
 	{
-		"chi"		"**摔跤总教练：奇鲁莉安,我们走!**"
+		"chi"		"**摔跤总教练：奇鲁莉安,撤回!**"
 	}
 	"Wally: GO CROBAT!"
 	{
@@ -254,11 +254,11 @@
 	}
 	"Wally: KIRLIA USE TELEPORT"
 	{
-		"chi"		"**摔跤总教练：奇鲁莉安，使用瞬间移动**"
+		"chi"		"**摔跤总教练：奇鲁莉安，使用传送**"
 	}
 	"Wally: KIRLIA USE SHOCK WAVE!"
 	{
-		"chi"		"**摔跤总教练：奇鲁莉安，使用点击波**"
+		"chi"		"**摔跤总教练：奇鲁莉安，使用电击波**"
 	}
 	"Wally: CROBAT USE TOXIC!"
 	{
@@ -350,7 +350,7 @@
 	}
 	"**Whitney: Miltank, use Attract!**"
 	{
-		"chi"		"**小茜：大奶罐，使用色诱!（按住S抵抗）4**"
+		"chi"		"**小茜：大奶罐，使用色诱!（按住S抵抗）**"
 	}
 	"**Whitney: Miltank, use Body Slam!**"
 	{
@@ -386,7 +386,7 @@
 	}
 	"**Go to Goldenrod City!**"
 	{
-		"chi"		"**前面就是满金市了，我们走吧!**"
+		"chi"		"**前面就是满金市了**"
 	}
 	"**Welcome to Azalea Town**"
 	{
@@ -418,13 +418,13 @@
 	}
 	"**GO INSIDE OF UNION CAVE**"
 	{
-		"chi"		"**!!!撤退!!!**"
+		"chi"		"**撤退**"
 	}
 	"**Falkner: Pidgeot, Roost!"
 	{
 		"chi"		"**阿速：大逼鸟，使用羽栖（回复生命值）**"
 	}
-	"**Falkner: Pidgeot, use Whirlwind"
+	"**Falkner: Pidgeot, use Whirlwind**"
 	{
 		"chi"		"**阿速：大逼鸟，使用吹飞（站在中间，远离左右两边）**"
 	}
@@ -550,7 +550,7 @@
 	}
 	"**Defend for 45 seconds**"
 	{
-		"chi"		"**防御45秒**"
+		"chi"		"**防守45秒**"
 	}
 	"**10 Seconds left**"
 	{
@@ -566,11 +566,11 @@
 	}
 	"**10 Seconds remaining**"
 	{
-		"chi"		"**还剩10秒**"
+		"chi"		"**战斗之塔10秒后开放**"
 	}
 	"**Go inside the Battle Tower**"
 	{
-		"chi"		"**赶紧进入战斗之塔**"
+		"chi"		"**进入战斗之塔**"
 	}
 	"**Kirlia has fainted**"
 	{
@@ -746,7 +746,7 @@
 	}
 	"Cyrus: You arrived late."
 	{
-		"chi"		"**赤日：辛辣天星**"
+		"chi"		"**赤日：你们太迟了**"
 	}
 	"GIRATINA USED OMINOUS WIND!"
 	{
@@ -794,7 +794,7 @@
 	}
 	"**BACKPEDAL**"
 	{
-		"chi"		""
+		"chi"		"**后退**"
 	}
 	"**WATCHOUT WITH CROBAT**"
 	{
@@ -810,7 +810,7 @@
 	}
 	"**DODGE THE AERIAL ACES**"
 	{
-		"chi"		"**躲避燕返**"
+		"chi"		"**躲避燕返                “准备跳刀”**"
 	}
 	"Cyrus: Weavile use Beat Up."
 	{
@@ -826,7 +826,7 @@
 	}
 	"GIRATINA USED DARK FORCE!"
 	{
-		"chi"		"**骑拉帝纳使用了黑暗之力（沿梯子爬上小平台）4**"
+		"chi"		"**骑拉帝纳使用了黑暗之力（沿梯子爬上小平台）**"
 	}
 	"CLIMB UP THE LADDER HURRY UP!"
 	{
@@ -866,7 +866,7 @@
 	}
 	"Cyrus: Was this all a dream to swept away by your reality?!"
 	{
-		"chi"		"**赤日：这一切都是一场被现实扫走的梦吗?**"
+		"chi"		"**赤日：这一切都只是一场梦吗?**"
 	}
 	"Cyrus: ...."
 	{
@@ -890,7 +890,7 @@
 	}
 	"Cyrus: Rather that repairing the world, you're going to destroy it for me!"
 	{
-		"chi"		"**赤日：不是修复这个世界,而是你要为我摧毁它**"
+		"chi"		"**赤日：不是修复这个世界,而是你要摧毁它**"
 	}
 	"Cyrus: Do it, you'll inherit my legacy."
 	{
@@ -938,19 +938,19 @@
 	}
 	"1ST BARRIER DESTROYED"
 	{
-		"chi"		"**屏障被破坏**"
+		"chi"		"**屏障一被破坏**"
 	}
 	"2ND BARRIER DESTROYED!"
 	{
-		"chi"		"**屏障被破坏**"
+		"chi"		"**屏障二被破坏**"
 	}
 	"3RD BARRIER DESTROYED"
 	{
-		"chi"		"**屏障被破坏**"
+		"chi"		"**屏障三被破坏**"
 	}
 	"ALL BARRIERS DESTROYED, DEFEND HERE FOR 60 SECONDS"
 	{
-		"chi"		"**所有的屏障都小时了,防守60秒**"
+		"chi"		"**所有的屏障被破坏了,防守60秒**"
 	}
 	"30 SECONDS"
 	{
@@ -1042,7 +1042,7 @@
 	}
 	"Ceres: I should've fought alone..."
 	{
-		"chi"		"**岁星：我应该一个人战斗..."
+		"chi"		"**岁星：我应该一个人战斗的..."
 	}
 	"Ceres: Where do you think you're going?"
 	{
@@ -1102,7 +1102,7 @@
 	}
 	"**Get on the side platforms**"
 	{
-		"chi"		""
+		"chi"		"**到边上的平台上去**"
 	}
 	"GROUDON HAS FAINTED, LET'S GO"
 	{
@@ -1168,9 +1168,9 @@
 	{
 		"chi"		"**屎前固拉多使用地狱之火**"
 	}
-	"LEFT PATH OPEN"
+	"LEFT PATH OPEN"          LEFT PATH OPENLEFT PATH OPENLEFT PATH OPENLEFT PATH OPENLEFT PATH OPENLEFT PATH OPEN
 	{
-		"chi"		""
+		"chi"		"**道路通畅**"
 	}
 	"MIDDLE PATH OPEN"
 	{
@@ -1238,11 +1238,11 @@
 	}
 	"TELEPORTER #1 WILL BE READY IN 45 SECONDS"
 	{
-		"chi"		"**传送装置1：45秒**"
+		"chi"		"**传送装置一：45秒**"
 	}
 	"TELEPORTER #1 WILL BE READY IN 10 SECONDS"
 	{
-		"chi"		"**传送装置1：10秒**"
+		"chi"		"**传送装置一：10秒**"
 	}
 	"WELCOME TO SLATEPORT CITY"
 	{
@@ -1262,10 +1262,34 @@
 	}
 	"TELEPORTER #2 WILL BE READY IN 45 SECONDS"
 	{
-		"chi"		"**传送装置2：45秒**"
+		"chi"		"**传送装置二：45秒**"
 	}
 	"TELEPORTER #2 WILL BE READY IN 10 SECONDS"
 	{
-		"chi"		"**传送装置2：10秒**"
+		"chi"		"**传送装置二：10秒**"
+	}
+	"Wally: GO KIRLIA!"
+	{
+		"chi"		"**摔跤总教练：上吧，奇鲁莉安！**"
+	}
+	"**It's Wally again**"
+	{
+		"chi"		"**是摔跤总教练，又是他**"
+	}
+	"NO COWARDS ALLOWED!"
+	{
+		"chi"		"**不允许退出战斗**"
+	}
+	"Cyrus: and the other..."
+	{
+		"chi"		"**赤日：另外...**"
+	}
+	"Crobat has fainted."
+	{
+		"chi"		"**叉字蝠被打败了**"
+	}
+	"Cyrus: Go, Weavile"
+	{
+		"chi"		"**赤日：上吧，玛狃拉**"
 	}
 }
