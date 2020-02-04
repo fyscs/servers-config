@@ -6,15 +6,15 @@
 	}
 	"++GO TO THE PATH YOU WANT++"
 	{
-		"chi"		"**+开局你们是蒙多，想去哪就去哪+**"
+		"chi"		"**+选择一条路，想去哪就去哪+**"
 	}
 	"++MAP BY GARGANTUA++"
 	{
-		"chi"		"**地图制作：GARGANTUA 地图翻译：小三@风云社**"
+		"chi"		"**地图制作：GARGANTUA		汉化：小三@风云社**"
 	}
 	"++EDITED BY: Hallucinogenic Troll++"
 	{
-		"chi"		"** **"
+		"chi"		"**路线：破碎的集装箱**"
 	}
 	"**stage 1**"
 	{
@@ -22,55 +22,55 @@
 	}
 	"++DOOR WILL OPEN IN 90 SECONDS++"
 	{
-		"chi"		"**+门90秒后打开+**"
+		"chi"		"**+门将在90秒后打开+**"
 	}
 	"++HELICOPTER LEAVING IN 5 SECONDS++"
 	{
-		"chi"		"**+5秒后直升机离开+**"
+		"chi"		"**+5秒后直升机撤离+**"
 	}
 	"++DOOR WILL OPEN IN 60 SECONDS++"
 	{
-		"chi"		"**门60秒后打开**"
+		"chi"		"**门将在60秒后打开**"
 	}
 	"++HELICOPTER IS LEAVING++"
 	{
-		"chi"		"**直升机要起飞了，咸鱼们**"
+		"chi"		"**直升机要撤离了**"
 	}
 	"++DOOR WILL OPEN IN 30 SECONDS++"
 	{
-		"chi"		"**门30秒后打开**"
+		"chi"		"**门将在30秒后打开**"
 	}
 	"++DOOR WILL OPEN IN 15 SECONDS++"
 	{
-		"chi"		"**门15秒后打开**"
+		"chi"		"**门将在15秒后打开**"
 	}
 	"++DOOR WILL OPEN IN 10 SECONDS++"
 	{
-		"chi"		"**门10秒后打开**"
+		"chi"		"**门将在10秒后打开**"
 	}
 	"++DOOR WILL OPEN IN 5 SECONDS++"
 	{
-		"chi"		"**门5秒后打开**"
+		"chi"		"**门将在5秒后打开**"
 	}
 	"++DOOR IS NOW OPEN!!++"
 	{
-		"chi"		"**门已经开了！！**"
+		"chi"		"**门开了**"
 	}
 	"++DOOR WILL CLOSE IN 10 SECONDS++"
 	{
-		"chi"		"**门10秒后关闭**"
+		"chi"		"**门将在10秒后关闭**"
 	}
 	"++DOOR WILL CLOSE IN 5 SECONDS++"
 	{
-		"chi"		"**门5秒后关闭**"
+		"chi"		"**门将在5秒后关闭**"
 	}
 	"++DOOR IS CLOSING++"
 	{
-		"chi"		"**门已经关闭**"
+		"chi"		"**核弹来袭**"
 	}
 	"++INCOMING AIRSTRIKE!!++"
 	{
-		"chi"		"**我方核聚变打击来袭！！**"
+		"chi"		"**僵尸给我死**"
 	}
 	"++EASY MODE COMPLETED++"
 	{
@@ -78,7 +78,7 @@
 	}
 	"++NEXT LEVEL IS NORMAL++"
 	{
-		"chi"		"**下一关：咸鱼难度**"
+		"chi"		"**下一关：咸鱼嫩度**"
 	}
 	"++DIFFICULTY LEVEL : NORMAL++"
 	{
@@ -86,7 +86,7 @@
 	}
 	"++GO ONLY UPON THE ROOF++"
 	{
-		"chi"		"**只能在屋顶上走**"
+		"chi"		"**路线：屋顶**"
 	}
 	"++GLASS BREAK IN 20 SECONDS++"
 	{
@@ -94,7 +94,7 @@
 	}
 	"++GLASS IS BROKEN++"
 	{
-		"chi"		"**玻璃碎了！撤退！**"
+		"chi"		"**玻璃碎了，撤退！**"
 	}
 	"++ZOMBIES ARE INSIDE!!YOU LOSE++"
 	{
@@ -114,19 +114,19 @@
 	}
 	"++GO ONLY UNDER THE ROOFS++"
 	{
-		"chi"		"**只能在屋顶下面走**"
+		"chi"		"**路线：木箱**"
 	}
 	"++ONE PLAYER WILL PRESS THE ACTIVE CRUSHER BUTTON++"
 	{
-		"chi"		"**需要一名玩家按下破碎机按钮**"
+		"chi"		"**需要一名玩家触发开关**"
 	}
 	"++THE OTHER COVER A WHILE++"
 	{
-		"chi"		"**其他人防守僵尸掩护他**"
+		"chi"		"**其他人在触发开关之前掩护他**"
 	}
 	"++WELL DONE!! YOU PRESSED THE BUTTON++"
 	{
-		"chi"		"**做得好！按钮已经被按下**"
+		"chi"		"**做得好，按钮已经被按下**"
 	}
 	"++HOLD FOR 25 SECONDS++"
 	{
@@ -138,11 +138,11 @@
 	}
 	"++HOLD FOR MORE 5 SECONDS++"
 	{
-		"chi"		"**还剩5秒**"
+		"chi"		"**继续防守5秒**"
 	}
 	"++RUN!!!!++"
 	{
-		"chi"		"**撤退！！！！！**"
+		"chi"		"**撤退**"
 	}
 	"++WAIT 15 SECONDS TO CRUSHER MOVE++"
 	{
@@ -154,63 +154,63 @@
 	}
 	"++CRUSHER IS MOVING!! GO!!!++"
 	{
-		"chi"		"**！！！撤退！！！**"
+		"chi"		"**撤退**"
 	}
 	"++ZOMBIE PROTECT WALL BREAK IN 15 SECONDS++"
 	{
-		"chi"		"**僵尸侧路15秒后打开**"
+		"chi"		"**僵尸梯子15秒后打开**"
 	}
 	"++HELICOPTER COMES IN 75 SECONDS++"
 	{
-		"chi"		"**防守75秒等待直升机到达**"
+		"chi"		"**防守75秒**"
 	}
 	"++ZOMBIE PROTECT WALL IS BROKEN!! BE CAREFUL!!++"
 	{
-		"chi"		"**僵尸侧路开了，小心！！！**"
+		"chi"		"**僵尸梯子处于开放状态，小心**"
 	}
 	"++HELICOPTER COMES IN 60 SECONDS++"
 	{
-		"chi"		"**防守60秒等待直升机到达**"
+		"chi"		"**防守60秒**"
 	}
 	"++HELICOPTER COMES IN 45 SECONDS++"
 	{
-		"chi"		"**防守45秒等待直升机到达**"
+		"chi"		"**防守45秒**"
 	}
 	"++HELICOPTER COMES IN 30 SECONDS++"
 	{
-		"chi"		"**防守30秒等待直升机到达**"
+		"chi"		"**防守30秒**"
 	}
 	"++HELICOPTER COMES IN 15 SECONDS++"
 	{
-		"chi"		"**防守15秒等待直升机到达**"
+		"chi"		"**防守15秒**"
 	}
 	"++HELICOPTER COMES IN 10 SECONDS++"
 	{
-		"chi"		"**防守10秒等待直升机到达**"
+		"chi"		"**防守10秒**"
 	}
 	"++HELICOPTER COMES IN 5 SECONDS++"
 	{
-		"chi"		"**防守5秒等待直升机到达**"
+		"chi"		"**防守5秒**"
 	}
 	"++HELICOPTER IS COMING++"
 	{
-		"chi"		"**直升机来了**"
+		"chi"		"**救援直升机正在赶来**"
 	}
 	"++HELICOPTER WILL LEAVE IN 15 SECONDS++"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒后直升机撤离**"
 	}
 	"++HELICOPTER WILL LEAVE IN 10 SECONDS++"
 	{
-		"chi"		"**继续防守10秒直到直升机起飞**"
+		"chi"		"**10秒后直升机撤离**"
 	}
 	"++HELICOPTER WILL LEAVE IN 5 SECONDS++"
 	{
-		"chi"		"**还剩5秒，加油！奥利给！！！**"
+		"chi"		"**5秒后直升机撤离**"
 	}
 	"++ZOMBIES ARE IN THE HELICOPTER!!YOU LOSE++"
 	{
-		"chi"		"**直升机检测到僵尸！人类失败！**"
+		"chi"		"**直升机检测到僵尸，人类失败！**"
 	}
 	"++HARD MODE COMPLETED++"
 	{
@@ -226,7 +226,7 @@
 	}
 	"++GO ONLY BEHIND THE BASES++"
 	{
-		"chi"		"**只能从基地后方走**"
+		"chi"		"**路线：基地后方**"
 	}
 	"++WALL BREAK IN 30 SECONDS++"
 	{
@@ -238,11 +238,11 @@
 	}
 	"++WALL IS BROKEN!!RUN++"
 	{
-		"chi"		"**撤退！！！**"
+		"chi"		"**撤退**"
 	}
 	"++ ONE PLAYER GO TO THE BUTTON++"
 	{
-		"chi"		"**按钮被按下**"
+		"chi"		"**开关已经被触发**"
 	}
 	"++THE OTHERS COVER A WHILE++"
 	{
@@ -258,15 +258,15 @@
 	}
 	"++GLASS IS BROKEN!!!++"
 	{
-		"chi"		"**玻璃碎掉了！**"
+		"chi"		"**玻璃碎掉了**"
 	}
 	"++WALL IS BROKEN!!!!++"
 	{
-		"chi"		"**墙碎裂了！！！**"
+		"chi"		"**墙碎裂了**"
 	}
 	"++WALL IS BROKEN!! RUN!!++"
 	{
-		"chi"		"**墙碎裂了！撤退！！！**"
+		"chi"		"**墙碎裂了，撤退**"
 	}
 	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
 	{
@@ -368,4 +368,5 @@
 	{
 		"chi"		"** **"
 	}
+	++GO ONLY UNDER THE ROOFS ++
 }
