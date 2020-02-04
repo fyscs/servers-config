@@ -2,7 +2,7 @@
 {
 	"---***This map will mute your sound if you are outside the lunar base***---"
 	{
-		"chi"		"**如果你在月球基地外面，初中体育老师就告诉过我们：声音不会在真空中传播！但是火会在真空中烧起来**"
+		"chi"		"**如果你处于月球基地外,你将被静音"
 	}
 	"***Defend for 30 seconds!***"
 	{
@@ -14,7 +14,7 @@
 	}
 	"***Defense 1 is Open again***"
 	{
-		"chi"		"**咕咕咕！！！**"
+		"chi"		"**咕咕咕**"
 	}
 	"***Defend for 45 seconds!***"
 	{
@@ -42,7 +42,7 @@
 	}
 	"**Space Ship leaves in 90 seconds!**"
 	{
-		"chi"		"**太空船 90 秒后离开！（把僵尸压在隔离仓里）**"
+		"chi"		"**太空船 90 秒后离开！**"
 	}
 	"**Just 60 more seconds!**"
 	{
@@ -90,7 +90,7 @@
 	}
 	"***Map by Luffaren***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Luffaren		汉化：小三@风云社**"
 	}
 	"steamworkshop search this map's name"
 	{
