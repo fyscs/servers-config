@@ -142,7 +142,7 @@
 	}
 	"** THIS IS THE END OF THE FIRST STAGE **"
 	{
-		"chi"		"**第一关结束**"
+		"chi"		"**这是第一关的最后一个守点**"
 	}
 	"** MAKE SURE NO ZOMBIES ENTER THE SHRINE **"
 	{
@@ -174,7 +174,7 @@
 	}
 	"** SOLVE THE STATUE PUZZLE **"
 	{
-		"chi"		"**解决雕像的秘密**"
+		"chi"		"**任务：雕像艺术**"
 	}
 	"** Player has acquired a HP-POTION **"
 	{
@@ -218,7 +218,7 @@
 	}
 	"** SOLVE THE BUTTON PUZZLE **"
 	{
-		"chi"		"**找到触发开关的秘密并解决它**"
+		"chi"		"**任务：开关的秘密**"
 	}
 	"** Player has learned BLIZZARA (ICE MAGICK LV.3)**"
 	{
@@ -258,7 +258,7 @@
 	}
 	"** MATEUS IS CHARGING FOR SUPERATTACK **"
 	{
-		"chi"		"**马特乌斯正在蓄力超级攻击**"
+		"chi"		"**玛偍乌斯正在蓄力超级攻击**"
 	}
 	"** BOSS HAS BEEN STAGGERED **"
 	{
@@ -270,7 +270,7 @@
 	}
 	"** BOSS MATEUS CHARGES HIS LAST ATTACK!  **"
 	{
-		"chi"		"**马特乌斯释放了终极**"
+		"chi"		"**玛偍乌斯释放了终极**"
 	}
 	"** 15 SECONDS BEFORE EVERYONE FREEZES TO DEATH!  **"
 	{
@@ -330,7 +330,7 @@
 	}
 	"** YOU KILLED MATEUS **"
 	{
-		"chi"		"**你打败了马特乌斯**"
+		"chi"		"**你打败了玛偍乌斯**"
 	}
 	"** Player has acquired the esper MATEUS **"
 	{
@@ -374,7 +374,7 @@
 	}
 	"** SHOOT THE SWARM BEFORE THEY CAN ATTACK **"
 	{
-		"chi"		"**在蜂群攻击之前射杀它们**"
+		"chi"		"**在它们攻击之前射杀它们**"
 	}
 	"** REMEMBER TO HOLD THE ZOMBIES TOO!! **"
 	{
@@ -382,15 +382,15 @@
 	}
 	"** OH NO - THEY SUMMONED CHAOS **"
 	{
-		"chi"		"**哦不-他们造成了混乱**"
+		"chi"		"**它们召唤了轮回王**"
 	}
 	"** CHAOS IS CASTING RAINS OF TERROR **"
 	{
-		"chi"		"**混乱是恐怖之雨**"
+		"chi"		"**轮回王正在释放恐怖の雨**"
 	}
 	"** CHAOS IS DEFEATED ONCE AND FOR ALL **"
 	{
-		"chi"		"**混乱是一劳永逸的**"
+		"chi"		"**轮回王被打败了**"
 	}
 	"** KILL REMAINING ZOMBIES **"
 	{

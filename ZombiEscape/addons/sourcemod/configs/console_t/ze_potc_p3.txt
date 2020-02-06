@@ -2,60 +2,60 @@
 {
 	">>>Map created by FreeZe<<<"
 	{
-		"chi"		"**本地图由FreeZe制作，翻译:此用户已删除**"
+		"chi"		">>>地图制作：FreeZe 地图翻译:小三@风云社>>>"
 	}
 	">>>MAKE YOUR WAY TO THE BLACK PEARL!<<<"
 	{
-		"chi"		"**向黑珍珠号迈去吧**"
+		"chi"		">>>目标黑珍珠号！冲！冲！冲！！！<<<"
 	}
 	"Thanks to Belafarinrod Fuu and Kaemon!"
 	{
-		"chi"		"感谢Belafarinrod Fuu和Kaemon"
+		"chi"		"感谢Belafarinrod Fuu和Kaemon提供的帮助"
 	}
 	">>>JACKS PISTOL HAS BEEN TAKEN<<<"
 	{
-		"chi"		"**神器：杰克的手枪，已被玩家获取**"
+		"chi"		">>>杰克的手枪被拾取<<<"
 	}
 	">>>Cool Down 60 secs<<<"
 	{
-		"chi"		"**手枪有六十秒的冷却时间**"
+		"chi"		">>>手枪有六十秒的冷却时间<<<"
 	}
 	">>>Press USE to shoot<<<"
 	{
-		"chi"		"**按下E使用，作用:大范围击退僵尸**"
+		"chi"		">>>它可以大范围击退僵尸<<<"
 	}
 	">>> HOLD 30 SECONDS <<<"
 	{
-		"chi"		"**防守这个地方30秒**"
+		"chi"		">>>守住这个位置30秒<<<"
 	}
 	">>> 5 SECONDS LEFT <<<"
 	{
-		"chi"		"**还剩下五秒！准备撤**"
+		"chi"		">>>还剩下五秒！<<<"
 	}
 	">>> RUUUN <<<"
 	{
-		"chi"		"快！快跑！"
+		"chi"		">>>！！！咕咕咕！！！<<<"
 	}
 	">>>10 seconds until 1st hold zone gets teleported<<<"
 	{
-		"chi"		"**还有10s传送挂机玩家**"
+		"chi"		">>>10秒后传送挂机咸鱼<<<"
 	}
 	">>>PISTOL-SHOT CHARGING<<<"
 	{
-		"chi"		"**手枪正在发射中**"
+		"chi"		">>>手枪正在发射中<<<"
 	}
 	">>>>Pistol ready in 60 s<<<<"
 	{
-		"chi"		">>>手枪六十秒后可以使用<<<"
+		"chi"		">>>手枪进入CD状态<<<"
 	}
 	">>> HOLD THE MILL 30 SECONDS <<<"
 	{
-		"chi"		"**守住这个磨坊30秒**"
+		"chi"		">>>在这个磨坊防御僵尸30秒<<<"
 		"DoorCountDown"		"30"
 	}
 	">>>>Pistol ready in 30 s<<<<"
 	{
-		"chi"		"**手枪将于30秒后可再次使用**"
+		"chi"		">>>手枪CD剩余三十秒<<<"
 		"DoorCountDown"		"-1"
 	}
 	">>> JUMP ONTO THE WHEEL <<<"
@@ -64,35 +64,35 @@
 	}
 	">>>>Pistol ready in 5 s<<<<"
 	{
-		"chi"		"**手枪将于五秒后可再次使用**"
+		"chi"		">>>手枪CD剩余五秒<<<"
 	}
 	">>>>PISTOL READY<<<<"
 	{
-		"chi"		"**手枪可以再次使用**"
+		"chi"		">>>手枪CD冷却完毕<<<"
 	}
 	">>>GET ONTO THE BLACK PEARL<<<"
 	{
-		"chi"		"**登上黑珍珠号，准备抛锚远航吧**"
+		"chi"		">>>登上黑珍珠号！<<<"
 	}
 	">>>Jungle gettting teleported in 10 seconds<<<"
 	{
-		"chi"		"**还有10s传送挂机玩家**"
+		"chi"		">>>10秒后传送挂机咸鱼<<<"
 	}
 	">>>Pearl has been reached<<<"
 	{
-		"chi"		"**黑珍珠号已经到达**"
+		"chi"		">>>黑珍珠号已经抵达<<<"
 	}
 	">>>Cannons charging. 60 seconds left<<<"
 	{
-		"chi"		"**坚持60s就会胜利**"
+		"chi"		">>>存活60s就会胜利<<<"
 	}
 	">>>15 seconds left<<<"
 	{
-		"chi"		"**还剩下15秒**"
+		"chi"		">>>剩下15秒<<<"
 	}
 	">>>Defend 30 seconds<<<"
 	{
-		"chi"		"坚守30秒"
+		"chi"		"抵御僵尸30秒"
 	}
 	">>>5 seconds left<<<"
 	{
@@ -104,30 +104,30 @@
 	}
 	">>>CANNONS SHOOTING<<<"
 	{
-		"chi"		"**火炮开火，胜利！随着杰克船长远航吧！**"
+		"chi"		">>>！！！开炮！！！<<<"
 	}
 	">>>NUB<<<"
 	{
-		"chi"		"** **"
+		"chi"		">>> <<<"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
-		"chi"		"** **"
+		"chi"		">>> <<<"
 	}
 	">> IDEA: Sienestaja <<"
 	{
-		"chi"		"** **"
+		"chi"		">>> <<<"
 	}
 	">> Map by TaskuVaras <<"
 	{
-		"chi"		"** **"
+		"chi"		">>> <<<"
 	}
-	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+	">>>* Mapping Help Airvulpes,Kune,thas,Rukly,Shufen <<<*"
 	{
-		"chi"		"** **"
+		"chi"		">>> <<<"
 	}
-	"*** Model :Dakotec ***"
+	">>>* Model :Dakotec <<<*"
 	{
-		"chi"		"** **"
+		"chi"		">>> <<<"
 	}
 }

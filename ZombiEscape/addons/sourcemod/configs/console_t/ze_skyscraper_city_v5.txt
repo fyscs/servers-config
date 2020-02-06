@@ -2,41 +2,41 @@
 {
 	">>Map remake by [锛锛锛帮讥] Loving You (靾橃爼鞛? : 霟箼鞙?)<< "
 	{
-		"chi"		"** 地图制作 by [ＥSＣAＰＥ] Loving You 地图翻译 by 色狼领袖**"
+		"chi"		"** 制作: [ＥSＣAＰＥ] Loving You 翻译:Sakura@风云社**"
 	}
 	">>Door will open in 20 sec<< "
 	{
-		"chi"		"** 大门将在 20 秒后开启 **"
+		"chi"		"**20秒后开启大门**"
 		"DoorCountDown"		"20"
 	}
 	">>Go!<< "
 	{
-		"chi"		"** GO! **(记得扔手雷）"
+		"chi"		"**快走**"
 	}
 	">>metal gate open in 15 sec<< "
 	{
-		"chi"		"** 金属闸门将于 15 秒后打开 **"
+		"chi"		"**金属大门将在15秒后开启**"
 		"DoorCountDown"		"15"
 	}
 	">>Press the button at the door!l<< "
 	{
-		"chi"		"** **"
+		"chi"		"**记得按按钮!**"
 	}
 	">>Tram departs in 20 sec<< "
 	{
-		"chi"		"** 电车会在 20 秒后离去 **（注意防守）"
+		"chi"		"**20秒后电车离开**"
 	}
 	">>Stair door opens in 15 sec<< "
 	{
-		"chi"		"** 楼梯处的大门将在 15 秒后开启 **"
+		"chi"		"**15秒后将开启大门**"
 	}
 	">>Door open. Run!<< "
 	{
-		"chi"		"** 门开了！撤退！！**"
+		"chi"		"**门开了！快跑!!!**"
 	}
 	">>Train will leave in 30 sec<< "
 	{
-		"chi"		"** 火车将在 30 秒后离开 **"
+		"chi"		"**火车还有30秒启动离开**"
 	}
 	">>Map remake by [ＥSＣAＰＥ] Loving You (수정자 : 러빙유)<<"
 	{
@@ -44,11 +44,11 @@
 	}
 	">>Door will open in 20 sec<<"
 	{
-		"chi"		">>>大门将在20s后打开<<<"
+		"chi"		">>>大门将在20s后开启!<<<"
 	}
 	">>Go!<<"
 	{
-		"chi"		">>>冲！<<<"
+		"chi"		">>>冲冲冲!<<<"
 	}
 	">>metal gate open in 15 sec<<"
 	{
@@ -56,11 +56,11 @@
 	}
 	">>Tram departs in 20 sec<<"
 	{
-		"chi"		">>>有轨电车将在20s后离开<<<"
+		"chi"		">>>电车将在20s后离开<<<"
 	}
 	">>Press the button at the door!l<<"
 	{
-		"chi"		">>>请按下门上的按钮<<<"
+		"chi"		">>>快按按钮！<<<"
 	}
 	">>Stair door opens in 15 sec<<"
 	{
@@ -68,7 +68,7 @@
 	}
 	">>Door open. Run!<<"
 	{
-		"chi"		">>>大门开了，冲！<<<"
+		"chi"		">>>大门开了，快跑！！<<<"
 	}
 	">>Train will leave in 30 sec<<"
 	{

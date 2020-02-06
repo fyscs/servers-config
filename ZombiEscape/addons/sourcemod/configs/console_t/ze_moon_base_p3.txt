@@ -2,27 +2,27 @@
 {
 	"---***This map will mute your sound if you are outside the lunar base***---"
 	{
-		"chi"		"**如果你在月球基地外面，初中物理课本告诉过我们：声音不会在真空中传播！**"
+		"chi"		"**如果你处于月球基地外,你将被静音"
 	}
 	"***Defend for 30 seconds!***"
 	{
-		"chi"		"**防守 30 秒！                色狼领袖：“不会蹲跳的同学不要慌张，可以尝试按住 shift + 蹲键 然后再跳。**"
+		"chi"		"**防御 30 秒！**"
 	}
 	"***10 seconds!***"
 	{
-		"chi"		"**还有 10 秒！                色狼领袖：“还没跳进来的同学抓紧时间，把空格跳跃改成滚轮跳跃会使你更轻松的蹲跳过去。”**"
+		"chi"		"**防御 10 秒！**"
 	}
 	"***Defense 1 is Open again***"
 	{
-		"chi"		"**朝下一个防守点进发！**"
+		"chi"		"**咕咕咕**"
 	}
 	"***Defend for 45 seconds!***"
 	{
-		"chi"		"***防守 45 秒！**"
+		"chi"		"***防御 45 秒！**"
 	}
 	"***15 seconds!***"
 	{
-		"chi"		"**还有 15 秒！**"
+		"chi"		"**防御 15 秒！**"
 	}
 	"***Get to the Lunar Vehicle!***"
 	{
@@ -30,47 +30,47 @@
 	}
 	"***Lunar vehicle leaves in 10!***"
 	{
-		"chi"		"**距离月球车离开还有 10 秒！**"
+		"chi"		"**距离月球车发车还有 10 秒！**"
 	}
 	"***Defence 2 is Open again***"
 	{
-		"chi"		"**朝下一防守点进发！**"
+		"chi"		"**月球车往下一个防守点**"
 	}
 	"***Lunar vehicle is leaving!***"
 	{
-		"chi"		"**月球车出发咯!               色狼领袖：“看见朝鲜国国旗记得跳离月球车！”**"
+		"chi"		"**月球车出发了!**"
 	}
 	"**Space Ship leaves in 90 seconds!**"
 	{
-		"chi"		"**距离太空船离开时间还有 90 秒！**"
+		"chi"		"**太空船 90 秒后离开！**"
 	}
 	"**Just 60 more seconds!**"
 	{
-		"chi"		"**距离太空船离开时间还有 60 秒！**"
+		"chi"		"**太空船 60 秒后离开！**"
 	}
 	"**Just 30 more seconds!**"
 	{
-		"chi"		"**距离太空船离开时间还有 30 秒！**"
+		"chi"		"**太空船 30 秒后离开！！**"
 	}
 	"**15 SECONDS LEFT!**"
 	{
-		"chi"		"**距离太空船离开时间还有 15 秒！**"
+		"chi"		"**太空船 15 秒后离开！**"
 	}
 	"**Blast Doors have been override!**"
 	{
-		"chi"		"**太空船门已经关闭！**"
+		"chi"		"**太空船门关闭！**"
 	}
 	"**Spaceship is leaving now!**"
 	{
-		"chi"		"**太空船现在正在离开！**"
+		"chi"		"**太空船正在离开！**"
 	}
 	"***Keep Running!***"
 	{
-		"chi"		"**继续向前冲！**"
+		"chi"		"**继续走！**"
 	}
 	"***Do not look back!***"
 	{
-		"chi"		"**不要回头！**"
+		"chi"		"**别回头！**"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
@@ -90,7 +90,7 @@
 	}
 	"***Map by Luffaren***"
 	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Luffaren		汉化：小三@风云社**"
 	}
 	"steamworkshop search this map's name"
 	{

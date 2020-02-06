@@ -2,87 +2,87 @@
 {
 	">-Map By TaskuVaras-<"
 	{
-		"chi"		"**地图由TaskuVaras制作&dy2084翻译**"
+		"chi"		"**地图制作:TaskuVaras翻译:Sakura@风云社**"
 	}
 	">-Watch out for traps!!!-<"
 	{
-		"chi"		"**注意陷阱**"
+		"chi"		"**小心陷阱!!!**"
 	}
 	">- 1 Player needs to get into furnace  -<"
 	{
-		"chi"		"**我们需要一位玩家进到熔炉里**"
+		"chi"		"**此时必须有一位勇士跳到熔炉里去触发（可以回来的）!**"
 	}
 	">- keep zombies away for 45 seconds  -<"
 	{
-		"chi"		"**抵挡僵尸进攻45秒**"
+		"chi"		"**守住这45秒的尸潮!**"
 		"DoorCountDown"		"45"
 	}
 	">- 5 more seconds  -<"
 	{
-		"chi"		"**还有5秒**"
+		"chi"		"**坚持5秒!**"
 	}
 	">- furnace door opening in 20 sec  -<"
 	{
-		"chi"		"**熔炉大门在20秒后开启**"
+		"chi"		"**火焰熔炉大门20秒后开启！**"
 	}
 	">- Door opening in 30 seconds  -<"
 	{
-		"chi"		"**门在30秒后开启**"
+		"chi"		"**门还有30秒开坚持住！**"
 		"DoorCountDown"		"30"
 	}
 	">- nervegas released in spawn area  -<"
 	{
-		"chi"		"**神经毒气在出生区域释放！**"
+		"chi"		"**毒素已蔓延至出生区域！**"
 	}
 	">-Elevator coming in 30 sec-<"
 	{
-		"chi"		"**电梯在30秒后到达**"
+		"chi"		"**电梯将在30秒后到!**"
 		"DoorCountDown"		"35"
 	}
 	">-Elevator leaving in 7 sec-<"
 	{
-		"chi"		"**电梯在7秒后离开**"
+		"chi"		"**电梯7秒后离开！快上电梯呀！**"
 		"DoorCountDown"		"7"
 	}
 	">- nervegas released in first traps  -<"
 	{
-		"chi"		"**神经毒气在第一道陷阱释放！**"
+		"chi"		"**毒素已蔓延至第一陷阱！**"
 	}
 	">- keep zombies away for 30 seconds  -<"
 	{
-		"chi"		"**挡住僵尸30秒**"
+		"chi"		"**坚守阵地30秒！**"
 		"DoorCountDown"		"30"
 	}
 	">- Hold for 40 seconds  -<"
 	{
-		"chi"		"**坚守40秒**"
+		"chi"		"**守住僵尸40秒！**"
 		"DoorCountDown"		"40"
 	}
 	">- nervegas released in elevator area  -<"
 	{
-		"chi"		"**神经毒气在电梯区域释放！**"
+		"chi"		"**毒素已蔓延至电梯区域！**"
 	}
 	">- Keep ZOMBIES away for 60 second -<"
 	{
-		"chi"		"**坚守60秒**"
+		"chi"		"**抵御60秒**"
 		"DoorCountDown"		"60"
 	}
 	">-Door opening in 30 sec-<"
 	{
-		"chi"		"**门在30秒后打开**"
+		"chi"		"**30秒后门将开启**"
 		"DoorCountDown"		"30"
 	}
 	">- generator room exploding in 75 seconds  -<"
 	{
-		"chi"		"**发电机房在75秒后自爆！**"
+		"chi"		"**75秒后发电机房将会自爆炸死所有人与僵尸！**"
 	}
 	">- 30 more seconds  -<"
 	{
-		"chi"		"**还有30秒**"
+		"chi"		"**坚持30秒**"
 	}
 	">- 10 more seconds  -<"
 	{
-		"chi"		"**还有10秒**"
+		"chi"		"**还剩下10秒**"
 	}
 	">- bomb shelter opening -<"
 	{
@@ -98,15 +98,15 @@
 	}
 	">- keep zombies inside -<"
 	{
-		"chi"		"**别让僵尸进来**"
+		"chi"		"**不要让冲僵尸进来！**"
 	}
 	">> Map by TaskuVaras and Moltard <<"
 	{
-		"chi"		"** **"
+		"chi"		"**作者:TaskuVaras和Moltard **"
 	}
 	"* * Map by Mojonero * *"
 	{
-		"chi"		"** **"
+		"chi"		"**作者:Mojonero **"
 	}
 	"**stage 1**"
 	{
@@ -118,11 +118,11 @@
 	}
 	"**map by yinyuehzixi**"
 	{
-		"chi"		"** **"
+		"chi"		"**作者:yinyuehzixi **"
 	}
 	"***Map by Taskuvaras***"
 	{
-		"chi"		"** **"
+		"chi"		"**作者:Taskuvaras **"
 	}
 	"***Human door opening in 15s***"
 	{
@@ -130,7 +130,7 @@
 	}
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"** **"
+		"chi"		"**作者:SLAYERDRAGON翻译:Sakura@风云社** **"
 	}
 	"***Modified by Reflelia***"
 	{
@@ -142,15 +142,15 @@
 	}
 	"***WARM UP ROUIND***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身赛!**"
 	}
 	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
 	{
-		"chi"		"** **"
+		"chi"		"**热身还剩40秒**"
 	}
 	"***WARMUP***"
 	{
-		"chi"		"** **"
+		"chi"		"**热身!
 	}
 	">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
 	{

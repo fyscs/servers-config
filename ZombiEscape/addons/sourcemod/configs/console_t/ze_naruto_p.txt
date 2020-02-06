@@ -2,272 +2,252 @@
 {
 	"** !!! THIS IS A WARMUP ROUND !!! **"
 	{
-		"chi"		"**！！！这局是热身赛！！！ **"
+		"chi"		"**!!!热身赛!!!**"
 	}
 	"** !!! WAITING FOR MORE PLAYERS !!! **"
 	{
-		"chi"		"**！！！等待更多玩家！！！ **"
+		"chi"		"**!!!等待萌新!!!**"
 	}
 	">>>Map by CriSsys<<<"
 	{
-		"chi"		"*地图制作：CriSsys 地图翻译：八雲紫 **"
+		"chi"		"**地图制作：CriSsys		汉化：小三@风云社**"
 	}
 	">>>Help tips opinions and adjustements by Aeris004<<<"
 	{
-		"chi"		"**感谢Aeris004提供建议和调整 **"
+		"chi"		"**感谢Aeris004提供的帮助**"
 	}
 	">>>Thanks to FireWavezZ<<<"
 	{
-		"chi"		"**特别鸣谢：FireWavezZ **"
+		"chi"		"**感谢FireWavezZ提供的帮助**"
 	}
 	"** !!! GAME WILL START IN FEW SECOND !!! **"
 	{
-		"chi"		"**！游戏将在几秒钟内开始！ **"
+		"chi"		"**游戏即将开始**"
 	}
 	"** !!! CURRENT DIFFICULTY : EASY !!! **"
 	{
-		"chi"		"**! ! !目前难度:简单! ! ! **"
+		"chi"		"**目前难度:萌新**"
 	}
 	">>>Type mat_colorcorrection 1 for a better illumination<<<"
 	{
-		"chi"		"**输入 mat_colorcorrection 1 来获得更好的光照 **"
+		"chi"		"**控制台输入 mat_colorcorrection 1 来获得更好的光照**"
 	}
 	"** Naruto will open the way ! Follow him ! **"
 	{
-		"chi"		"**鸣人会来带路!跟他走! **"
+		"chi"		"**那撸多会来带路!跟着他!**"
 	}
 	"** HOLD THIS POSTION **"
 	{
-		"chi"		"**坚守这个位置 **"
+		"chi"		"**在这个位置守住僵尸**"
 	}
 	"** AFK CLEANING IN SPAWN SECTION IN 10s **"
 	{
-		"chi"		"**10秒后传送在出生点的挂机玩家 **"
+		"chi"		"**10秒后挂机咸鱼将会被传送**"
 	}
 	"** 20 SECONDS LEFT **"
 	{
-		"chi"		"** 还剩20秒**"
+		"chi"		"**20秒**"
 		"DoorCountDown"		"20"
 	}
 	"** Cave way will open in 20s ! **"
 	{
-		"chi"		"**洞穴的路将于20秒内开放！ **"
+		"chi"		"**井口路将于20秒后开放！**"
 		"DoorCountDown"		"20"
 	}
 	"** AFK CLEANING IN SPAWN SECTION **"
 	{
-		"chi"		"**清理在出生点的挂机玩家 **"
+		"chi"		"**挂机咸鱼正在被传送**"
 	}
 	"** 10 SECONDS LEFT **"
 	{
-		"chi"		"**还剩10秒 **"
+		"chi"		"**10秒**"
 	}
 	"** Cave way will open in 10s ! **"
 	{
-		"chi"		"**洞穴的路将在10秒内开放！ **"
+		"chi"		"**井口路将在10秒内开放！**"
 	}
 	"** 5 SECONDS LEFT **"
 	{
-		"chi"		"**还剩5秒 **"
+		"chi"		"**5秒**"
 	}
 	"** DOORS OPENING NOW **"
 	{
-		"chi"		"**门已经开启 **"
-	}
-	"** HOLD THIS POSITION **"
-	{
-		"chi"		"**坚守这个位置 **"
+		"chi"		"**门已经打开**"
 	}
 	"** CITY's AFK TELEPORT IN 10s **"
 	{
-		"chi"		"**城里的挂机玩家将在10秒内传送 **"
+		"chi"		"**10秒后将会传送村子里的挂机咸鱼**"
 	}
 	"** CITY's AFK TELEPORT **"
 	{
-		"chi"		"**城里的挂机玩家已传送 **"
+		"chi"		"**村子里的挂机咸鱼已被传送**"
 	}
 	"** 20 SECOND LEFT **"
 	{
-		"chi"		"**还剩20秒 **"
+		"chi"		"**20秒**"
 		"DoorCountDown"		"20"
 	}
 	"** 10 SECOND LEFT **"
 	{
-		"chi"		"**还剩10秒 **"
+		"chi"		"**10秒**"
 	}
 	"** 5 SECOND LEFT **"
 	{
-		"chi"		"**还剩5秒 **"
+		"chi"		"**5秒**"
 	}
 	"** FORTRESS AFK TELEPORT IN 10s **"
 	{
-		"chi"		"**堡垒的挂机玩家将在10秒内传送 **"
+		"chi"		"**10秒后将会传送堡垒的挂机咸鱼**"
 	}
 	"** FORTRESS AFK TELEPORT **"
 	{
-		"chi"		"**堡垒的挂机玩家已传送 **"
+		"chi"		"**堡垒的挂机咸鱼已被传送**"
 	}
 	"** !!! NEXT DIFFICULTY : NORMAL !!! **"
 	{
-		"chi"		"** ! ! !下一个难度:正常! ! !**"
+		"chi"		"**下一关难度:咸鱼**"
 	}
 	"** !!! CURRENT DIFFICULTY : NORMAL !!! **"
 	{
-		"chi"		"**！！！目前难度：正常！！！ **"
+		"chi"		"**目前难度：咸鱼**"
 	}
 	"** !!! NEXT DIFFICULTY : HARD !!! **"
 	{
-		"chi"		"**！！！下一个难度：困难！！！ **"
+		"chi"		"**下一关难度：萌新司机**"
 	}
 	"** !!! CURRENT DIFFICULTY : HARD !!! **"
 	{
-		"chi"		"**！！！目前难度：困难！！！ **"
+		"chi"		"**目前难度：萌新司机**"
 	}
 	"** DOOR WILL OPEN IN 10 SECONDS **"
 	{
-		"chi"		"**门将在10秒内打开 **"
+		"chi"		"**门10秒后打开**"
 		"DoorCountDown"		"10"
 	}
 	"** Door will open in 5 seconds **"
 	{
-		"chi"		"**门将在5秒内打开 **"
+		"chi"		"**门5秒后打开**"
 	}
 	"** YOU NEED TO DEFEND THE TOWN 45s **"
 	{
-		"chi"		"**你需要坚守小镇45秒 **"
+		"chi"		"**你需要守护村子45秒**"
 		"DoorCountDown"		"45"
 	}
 	"** DEFEND AGAIN 30s **"
 	{
-		"chi"		"**再防守30秒 **"
+		"chi"		"**再坚持30秒**"
 	}
 	"** NARUTO HAS BEEN KILLED BY ZOMBIES **"
 	{
-		"chi"		"**鸣人已经被僵尸杀死 **"
+		"chi"		"**那撸多已经被僵尸杀死**"
 	}
 	"** HUMANS NOW CAN'T PROTECT THE VILLAGE **"
 	{
-		"chi"		"**人类现在无法保护村子 **"
+		"chi"		"**你们已经无法再保护村子了**"
 	}
 	"** NEXT DIFFICULTY : HARD **"
 	{
-		"chi"		"**下一个难度：困难 **"
+		"chi"		"**下一关难度：萌新司机**"
 	}
 	"** DEFEND AGAIN 20s **"
 	{
-		"chi"		"**再防守20秒 **"
+		"chi"		"**再坚持20秒**"
 	}
 	"** DEFEND AGAIN 10s **"
 	{
-		"chi"		"**再防守10秒 **"
+		"chi"		"**再坚持10秒**"
 	}
 	"** DEFEND AGAIN 5s **"
 	{
-		"chi"		"**再防守5秒 **"
+		"chi"		"**再坚持5秒**"
 	}
 	"** NEXT DIFFICULTY : EXTREME **"
 	{
-		"chi"		"**下一个难度：极限 **"
+		"chi"		"**下一关难度：老司机**"
 	}
 	"** HUMANS SUCCEFULLY DEFEND KONOHA **"
 	{
-		"chi"		"**人类成功守护了木叶村 **"
+		"chi"		"**你们守护了木叶村**"
 	}
 	"** KILL ALL ZOMBIE SURVIVOR **"
 	{
-		"chi"		"**杀死所有存活的僵尸 **"
+		"chi"		"**杀死所有存活的僵尸**"
 	}
 	"** !!! CURRENT DIFFICULTY EXTREME !!! **"
 	{
-		"chi"		"**！！！当前难度：极限！！！ **"
+		"chi"		"**目前难度：老司机**"
 	}
 	"** Naruto is fighting with Sasuke ! Go try to find and help him ! **"
 	{
-		"chi"		"**鸣人正在和佐助战斗！尝试找到并帮助他！ **"
+		"chi"		"**那撸多正在和啥是gay战斗！支援他！**"
 	}
 	"** NARUTO IS FIGHTING AGAINST SASUKE **"
 	{
-		"chi"		"**鸣人正在和佐助战斗 **"
+		"chi"		"**那撸多正在和啥是gay战斗**"
 	}
 	"** HELP HIM TO DEFEAT SASUKE AND WIN **"
 	{
-		"chi"		"**帮助鸣人打败佐助并通关 **"
+		"chi"		"**帮助那撸多打败啥是gay**"
 	}
 	">> 9 MINUTES TO ESCAPE <<"
 	{
-		"chi"		"**你们有9分钟的时间来逃离 **"
+		"chi"		"**你们有9分钟的时间来逃离**"
 	}
 	"** NARUTO WILL USE AN ATTACK. STAY IN THE MIDDLE **"
 	{
-		"chi"		"**鸣人将会攻击。待在中间的位置 **"
+		"chi"		"**那撸多将会攻击，待在中间的位置**"
 	}
 	"** SASUKE PREPARE A NEW ATTACK. KEEP SHOOTING **"
 	{
-		"chi"		"**佐助准备发动新的攻击。持续射击！ **"
+		"chi"		"**啥是gay准备发动新的攻击**"
 	}
 	"** KILL ALL CLONES BEFORE THEY ATTACK **"
 	{
-		"chi"		"**在所有分身攻击前杀死他们 **"
+		"chi"		"**在所有分身攻击前杀死他们**"
 	}
 	"** USE YOUR GRENADE TO MAKE MORE DAMAGE **"
 	{
-		"chi"		"**手雷能够造成大量伤害 **"
+		"chi"		"**手雷能够造成大量伤害**"
 	}
 	"** NARUTO PREPARE IS FINAL ATTACK. HE WILL USE YOUR POWER **"
 	{
-		"chi"		"**鸣人准备最后的攻击。他会借用你的力量 **"
+		"chi"		"**那撸多准备最后的攻击，他会借用你们的力♂量**"
 	}
 	"** DON'T LET SASUKE MAKE A NEW ATTACK **"
 	{
-		"chi"		"**阻止佐助做出新的攻击 **"
+		"chi"		"**阻止啥是gay做出新的攻击**"
 	}
 	"** KILL HIM BEFORE NARUTO USE HIS ATTACK **"
 	{
-		"chi"		"**在鸣人攻击前杀死佐助 **"
+		"chi"		"**在那撸多攻击前杀死啥是gay**"
 	}
 	"** YOU DID IT !!! YOU DEFETEAD SASUKE **"
 	{
-		"chi"		"**你做到了！！！你打败了佐助 **"
+		"chi"		"**你做到了!!!你打败了啥是gay**"
 	}
 	"** YOU BIT EXTREME DIFFICULTY **"
 	{
-		"chi"		"**你战胜了极限难度 **"
+		"chi"		"**你通过了老司机难度**"
 	}
 	"** YOU CAN CHOOSE THE NEXT DIFFICULTY **"
 	{
-		"chi"		"**你可以选择下一个难度 **"
-	}
-	"** CITYs AFK TELEPORT IN 10s **"
-	{
-		"chi"		"**城里的挂机玩家将在10秒内传送 **"
-	}
-	"** CITYs AFK TELEPORT **"
-	{
-		"chi"		"**城里的挂机玩家已传送 **"
-	}
-	"** HUMANS NOW CANT PROTECT THE VILLAGE **"
-	{
-		"chi"		"**人类现在无法保护村庄 **"
-	}
-	"** DONT LET SASUKE MAKE A NEW ATTACK **"
-	{
-		"chi"		"**阻止佐助作出新的攻击 **"
+		"chi"		"**你门可以自由选择下一关难度**"
 	}
 	"** NARUTO USED YOUR POWER... YOU CANT HELP HIM ANYMORE **"
 	{
-		"chi"		"**鸣人借用了你的力量...你不能再帮助他了 **"
+		"chi"		"**那撸多借用了你门的力量...你不能再帮助他了**"
 	}
 	"** NEXT DIFFICULTY : NORMAL **"
 	{
-		"chi"		"**下一个难度：正常 **"
+		"chi"		"**下一关难度：咸鱼**"
 	}
 	"** You bit the extreme mode !! You dont need narutos help anymore **"
 	{
-		"chi"		"** **"
+		"chi"		"**你选择了老司机难度，你不再需要那撸多的帮助了**"
 	}
 	"** NEXT DIFFICULTY : EASY **"
 	{
-		"chi"		"** **"
+		"chi"		"**下一关难度：萌新**"
 	}
 	"sync_version"
 	{
@@ -275,219 +255,215 @@
 	}
 	"***!!! THIS IS A WARMUP ROUND !!!***"
 	{
-		"chi"		"**热身时间**"
+		"chi"		"* *热身时间 **"
 	}
 	"***!!! WAITING FOR MORE PLAYERS !!!***"
 	{
-		"chi"		"**等待玩家**"
+		"chi"		"** 等待玩家 **"
 	}
 	"***!!! FIRST ZOMBIE INFECTION DISABLE FOR THIS ROUND !!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**此回合不会有人受到感染**"
 	}
 	"***!!! GAME WILL START IN FEW SECOND !!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**游戏即将开始**"
 	}
 	"***!!! CURRENT DIFFICULTY : EASY !!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**目前难度:萌新**"
 	}
 	"***Naruto will open the way ! Follow him !***"
 	{
-		"chi"		"**紧跟鸣人**"
+		"chi"		"**那撸多会来带路!跟着他!**"
 	}
 	"***HOLD THIS POSTION***"
 	{
-		"chi"		"**守住这里**"
-	}
-	"***20 SECONDS LEFT***"
-	{
-		"chi"		"**守住20秒**"
+		"chi"		"**在这个位置守住僵尸**"
 	}
 	"***Cave way will open in 20s !***"
 	{
-		"chi"		"** **"
+		"chi"		"**井口路将于20秒后开放！**"
 	}
 	"***10 SECONDS LEFT***"
 	{
-		"chi"		"**还有10秒**"
+		"chi"		"**10秒**"
 	}
 	"***Cave way will open in 10s !***"
 	{
-		"chi"		"**山洞10秒后打开**"
+		"chi"		"**井口路将于10秒后开放！**"
 	}
 	"***5 seconds left***"
 	{
-		"chi"		"**还有5秒**"
+		"chi"		"**5秒**"
 	}
 	"***DOORS OPENING NOW***"
 	{
-		"chi"		"** **"
+		"chi"		"**门已经打开**"
 	}
 	"***HOLD THIS POSITION***"
 	{
-		"chi"		"** **"
+		"chi"		"**守住这里**"
 	}
 	"***CITY AFK TELEPORT IN 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后将会传送村子里的挂机咸鱼**"
 	}
 	"***15 SECOND LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒**"
 	}
 	"***10 SECOND LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒**"
 	}
 	"***5 SECOND LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒**"
 	}
 	"***FORTRESS AFK TELEPORT IN 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒后将会传送堡垒的挂机咸鱼**"
 	}
 	"***FORTRESS AFK TELEPORT***"
 	{
-		"chi"		"** **"
+		"chi"		"**堡垒的挂机咸鱼已被传送**"
 	}
 	"***!!! NEXT DIFFICULTY : NORMAL !!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**下一关难度:咸鱼**"
 	}
 	"***!!! CURRENT DIFFICULTY : NORMAL !!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**目前难度：咸鱼**"
 	}
 	"*** A bike has been found! Someone is ready for the 100th Tour De France! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**发现了一辆自行车！                      “准备好参加第100届自行车赛了嘛!”**"
 	}
 	"***25 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**25秒**"
 	}
 	"***30 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒**"
 	}
 	"***20 SECOND LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**20秒**"
 	}
 	"***DOOR WILL OPEN IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**门15秒后打开**"
 	}
 	"***DOOR WILL OPEN IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**门5秒后打开**"
 	}
 	"***SECOND DOOR WILL OPEN IN 15 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二扇门15秒后打开**"
 	}
 	"***!!! NEXT DIFFICULTY : HARD !!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**下一关难度：萌新司机**"
 	}
 	"***!!! CURRENT DIFFICULTY : HARD !!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**目前难度：萌新司机**"
 	}
 	"***40 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**40秒**"
 	}
 	"***30 SECOND LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒**"
 	}
 	"***SECOND DOOR WILL OPEN IN 30 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二扇门30秒后打开**"
 	}
 	"***SECOND DOOR WILL OPEN IN 5 SECONDS***"
 	{
-		"chi"		"** **"
+		"chi"		"**第二扇门5秒后打开**"
 	}
 	"***YOU NEED TO DEFEND THE TOWN 1MIN***"
 	{
-		"chi"		"** **"
+		"chi"		"**在一分钟内守护村子**"
 	}
 	"***DEFEND AGAIN 45s***"
 	{
-		"chi"		"** **"
+		"chi"		"**45秒**"
 	}
 	"***DEFEND AGAIN 30s***"
 	{
-		"chi"		"** **"
+		"chi"		"**30秒**"
 	}
 	"***NARUTO HAS BEEN KILLED BY ZOMBIES***"
 	{
-		"chi"		"** **"
+		"chi"		"**那撸多已经被僵尸杀死**"
 	}
 	"***HUMANS NOW CANT PROTECT THE VILLAGE***"
 	{
-		"chi"		"** **"
+		"chi"		"**你们已经无法再保护村子了**"
 	}
 	"***DEFEND AGAIN 15s***"
 	{
-		"chi"		"** **"
+		"chi"		"**15秒**"
 	}
 	"***DEFEND AGAIN 10s***"
 	{
-		"chi"		"** **"
+		"chi"		"**10秒**"
 	}
 	"***DEFEND AGAIN 5s***"
 	{
-		"chi"		"** **"
+		"chi"		"**5秒**"
 	}
 	"***HUMANS SUCCEFULLY DEFEND KONOHA***"
 	{
-		"chi"		"** **"
+		"chi"		"**你们守护了木叶村**"
 	}
 	"***KILL ALL ZOMBIE SURVIVOR***"
 	{
-		"chi"		"** **"
+		"chi"		"**杀死所有存活的僵尸**"
 	}
 	"***NEXT DIFFICULTY  EXTREM***"
 	{
-		"chi"		"** **"
+		"chi"		"**下一关难度：老司机**"
 	}
 	"*** A bike has been found! Someone is ready for the 100th ''Tour De France''! ***"
 	{
-		"chi"		"** **"
+		"chi"		"**发现了一辆自行车！                      “准备好参加第100届自行车赛了嘛!”**"
 	}
 	"***HUMANS NOW CAN'T PROTECT THE VILLAGE***"
 	{
-		"chi"		"** **"
+		"chi"		"**你们已经无法再保护村子了**"
 	}
 	"***!!! CURRENT DIFFICULTY EXTREM !!!***"
 	{
-		"chi"		"** **"
+		"chi"		"**目前难度：老司机**"
 	}
 	"***Naruto is fighting Sasuke! Go find and help him!***"
 	{
-		"chi"		"** **"
+		"chi"		"**那撸多正在和啥是gay战斗！支援他！**"
 	}
 	"***35 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**35秒**"
 	}
 	"***45 SECONDS LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**45秒**"
 	}
 	"***40 SECOND LEFT***"
 	{
-		"chi"		"** **"
+		"chi"		"**40秒**"
 	}
 	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
 	{
-		"chi"		"** **"
+		"chi"		"**测试服务器：[CS:S]樱花社区**"
 	}
 	"*** map created by thas ***"
 	{
@@ -523,67 +499,67 @@
 	}
 	"***NARUTO IS FIGHTING AGAINST SASUKE***"
 	{
-		"chi"		"** **"
+		"chi"		"**那撸多正在和啥是gay战斗**"
 	}
 	"***DEFEAT SASUKE BEFORE NARUTO UNLEASHES HIS POWERFUL ATTACK***"
 	{
-		"chi"		"** **"
+		"chi"		"**在啥是gay发动最后一击之前打败他**"
 	}
 	"***NARUTO WILL SOON USE HIS SPECIAL ATTACK.***"
 	{
-		"chi"		"** **"
+		"chi"		"**那撸多将很快使用他的特殊忍术**"
 	}
 	"***SASUKE IS PREPARING HIS ATTACK! WATCH OUT!***"
 	{
-		"chi"		"** **"
+		"chi"		"**啥是gay正在发动忍术！小心！**"
 	}
 	"***SASUKE HAS CLONED HIMSELF***"
 	{
-		"chi"		"** **"
+		"chi"		"**啥是gay使用了影分身之术**"
 	}
 	"***KILL ALL CLONES BEFORE THEY ATTACK***"
 	{
-		"chi"		"** **"
+		"chi"		"**在所有分身攻击前杀死他们**"
 	}
 	"***USE YOUR GRENADE TO DO MORE DAMAGE***"
 	{
-		"chi"		"** **"
+		"chi"		"**手雷能够造成大量伤害**"
 	}
 	"***SASUKE SUCCEEDED HIS ATTACK***"
 	{
-		"chi"		"** **"
+		"chi"		"**啥是gay成功发动了忍术**"
 	}
 	"***WE DON'T HAVE THE RIGHT TO MAKE ANOTHER ERROR***"
 	{
-		"chi"		"** **"
+		"chi"		"**我们不能再犯下错误**"
 	}
 	"***NARUTO IS PREPARING HIS FINAL ATTACK. HE WILL USE YOUR REMAINING HEALTH!***"
 	{
-		"chi"		"** **"
+		"chi"		"**那撸多正在准备发动他的最后一击！**"
 	}
 	"***DEFEAT SASUKE BEFORE NARUTO USES HIS ULTIMATE ATTACK***"
 	{
-		"chi"		"** **"
+		"chi"		"**在啥是gay发动最后一击之前打败他**"
 	}
 	"***NARUTO USED YOUR POWER... YOU CAN'T HELP HIM ANYMORE***"
 	{
-		"chi"		"** **"
+		"chi"		"**那撸多用你们的鲜血发动了最后一击，你们再也不能帮助他了**"
 	}
 	"***YOU DID IT !!! YOU DEFEATED SASUKE***"
 	{
-		"chi"		"** **"
+		"chi"		"**你们做到了!!!啥是gay被打败了**"
 	}
 	"***YOU BEAT EXTREME DIFFICULTY***"
 	{
-		"chi"		"** **"
+		"chi"		"**你们通关了老司机难度**"
 	}
 	"***YOU CAN CHOOSE THE NEXT DIFFICULTY***"
 	{
-		"chi"		"** **"
+		"chi"		"**你们可以自由选择下一关难度**"
 	}
 	"***NEXT DIFFICULTY : NORMAL ***"
 	{
-		"chi"		"** **"
+		"chi"		"**下一关难度:咸鱼**"
 	}
 	"***Welcome to Crazy Kart***"
 	{

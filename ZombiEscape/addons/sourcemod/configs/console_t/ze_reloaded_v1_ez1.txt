@@ -10,11 +10,11 @@
 	}
 	"**Medkit has been acquired!**"
 	{
-		"chi"		"**医疗包被拿起(只能使用一次）**"
+		"chi"		"**医疗包被拾取**"
 	}
 	"**Weve waited long enough! GO!**"
 	{
-		"chi"		"**我们已经等待够了，快走！**"
+		"chi"		"**我们已经等待够了，快撤离这里**"
 	}
 	"**OBJECTIVE: Infiltrate and steal the enemy intelligence**"
 	{
@@ -22,20 +22,20 @@
 	}
 	"**DIFFICULTY: NORMAL**"
 	{
-		"chi"		"**难度：新手**"
+		"chi"		"**难度：萌新**"
 	}
 	"**Thanks to Complexity for being a noob and testing!**"
 	{
-		"chi"		"**特别感谢菜鸟对于复杂性测试的支持 翻译：水墨涟漪踏无痕**"
+		"chi"		"**特别感谢菜鸟对本地图关于复杂性的测试**"
 	}
 	"**Front doors will be opening in 10 seconds**"
 	{
-		"chi"		"**身后的门将在10秒后打开**"
+		"chi"		"**身后的门10秒后打开**"
 		"DoorCountDown"		"10"
 	}
 	"**Doors will be opening in 20 seconds. Hold the zombies back!**"
 	{
-		"chi"		"**大门将在20秒后打开，守住僵尸**"
+		"chi"		"**大门20秒后打开，守住僵尸**"
 		"DoorCountDown"		"20"
 	}
 	"**Hold here for awhile!**"
@@ -44,23 +44,23 @@
 	}
 	"**Fall back!**"
 	{
-		"chi"		"**撤退！！**"
+		"chi"		"**！！！咕咕咕！！！**"
 	}
 	"**Find a way to disable the security system to advance!**"
 	{
-		"chi"		"**找到一种方法来禁用安全系统**"
+		"chi"		"**寻找办法去关闭安全系统**"
 	}
 	"**Armory is open!**"
 	{
-		"chi"		"**兵工厂开启**"
+		"chi"		"**军械库开放**"
 	}
 	"**The security system has been disabled!**"
 	{
-		"chi"		"**完全系统已经被关闭**"
+		"chi"		"**完全系统关闭**"
 	}
 	"**Doors will be opening in 10 seconds! Hold the zombies off!**"
 	{
-		"chi"		"**大门将在10秒后打开，守住僵尸**"
+		"chi"		"**大门10秒后打开，守住僵尸**"
 		"DoorCountDown"		"10"
 	}
 	"**Wait here for awhile!**"
@@ -69,104 +69,104 @@
 	}
 	"**Elevator is leaving in 10 seconds!**"
 	{
-		"chi"		"**电梯将在10秒后离开**"
+		"chi"		"**电梯10秒后离开**"
 		"DoorCountDown"		"10"
 	}
 	"**Lift is leaving in 20 seconds! Hold the zombies back!"
 	{
-		"chi"		"**电梯将在20秒后离开，守住僵尸**"
+		"chi"		"**电梯20秒后离开，守住僵尸"
 		"DoorCountDown"		"20"
 	}
 	"**Chopper is leaving in 30 seconds! Resist the zombies for a final time!**"
 	{
-		"chi"		"**直升机将在30秒后离开，在最后时刻抵挡住僵尸大军**"
+		"chi"		"**直升机30秒后离开，在最后时刻抵挡住僵尸大军**"
 		"DoorCountDown"		"30"
 	}
 	"**Good job! You won!**"
 	{
-		"chi"		"**好样的！！！你们赢了！！**"
+		"chi"		"**做得好！你们赢了！！**"
 	}
 	"**Map ported by Et3rnity**"
 	{
-		"chi"		"**地图移植：Et3rnity 地图翻译：水墨涟漪踏无痕**"
+		"chi"		"**地图移植：Et3rnity 地图翻译：小三@风云社**"
 	}
 	"**DIFFICULTY: EXPERIENCED**"
 	{
-		"chi"		"**难度：菜鸟**"
+		"chi"		"**难度：咸鱼**"
 	}
 	"**Both buttons have been pressed! Door opens in 25 seconds!**"
 	{
-		"chi"		"**按钮已经被同时按下，大门将在25秒后开启**"
+		"chi"		"**按钮被同时按下，大门25秒后开启**"
 		"DoorCountDown"		"30"
 	}
 	"**Wait here for awhile! Others may come!**"
 	{
-		"chi"		"**在这里等候一会，会有其他人到来**"
+		"chi"		"**在这里等等，会有其他人到来**"
 	}
 	"**Jetstream Sam has been defeated!**"
 	{
-		"chi"		"**山姆大叔被打败了**"
+		"chi"		"**山姆被打败了**"
 	}
 	"**Teleporter is charging up!**"
 	{
-		"chi"		"**空间移动装置开始充电**"
+		"chi"		"**传送装置正在充能**"
 	}
 	"**Teleporter is fully charged!**"
 	{
-		"chi"		"**空间移动装置充电完成**"
+		"chi"		"**传送装置装置充能完毕**"
 	}
 	"**Hold the zombies back until the door is open!**"
 	{
-		"chi"		"**在这里守住僵尸直到大门开启**"
+		"chi"		"**在这里防守僵尸直到大门开启**"
 	}
 	"**You won Experienced! Right on!**"
 	{
-		"chi"		"**你现在已经进化为高手了**"
+		"chi"		"**！！！好样的！！！**"
 	}
 	"**DIFFICULTY: IMMENSE**"
 	{
-		"chi"		"**难度：高手**"
+		"chi"		"**难度：萌新司机**"
 	}
 	"**OBJECTIVE: Infiltrate and eliminate Jetstream Sam**"
 	{
-		"chi"		"** **"
+		"chi"		"**目标：清除山姆**"
 	}
 	"**Hold until the door is open!**"
 	{
-		"chi"		"**在这里守住直到大门开启**"
+		"chi"		"**在这里防守僵尸直到大门开启**"
 	}
 	"**Complex door is opening in 25 seconds**"
 	{
-		"chi"		"**复合式大门将在25秒后开启**"
+		"chi"		"**大门25秒后开启**"
 		"DoorCountDown"		"25"
 	}
 	"**Ammo Box has been picked up!**"
 	{
-		"chi"		"**玩家拿到了无限弹药**"
+		"chi"		"**无限弹药被拾取**"
 	}
 	"**It has only one use!**"
 	{
-		"chi"		"**只能使用一次**"
+		"chi"		"**无限弹药只能使用一次**"
 	}
 	"**Hold the hallways until the doors open!**"
 	{
-		"chi"		"**守住这个走廊直到大门打开**"
+		"chi"		"**在这个走廊防守僵尸直到大门打开**"
 	}
 	"**Zombies got onboard! You have lost!**"
 	{
-		"chi"		"**僵尸上飞机了，你们输了，loser~**"
+		"chi"		"**飞机检测到僵尸，通关失败！**"
 	}
 	"**This whole place is going down! Get out of here!**"
 	{
-		"chi"		"**这个地方将会全部坍塌，快点离开这里**"
+		"chi"		"**这个地方将会全部坍塌，快点撤离这里**"
 	}
 	"**Another door! Hold them back until the door is open!**"
 	{
-		"chi"		"**另外一扇门！回头守住！！直到大门打开**"
+		"chi"		"**另外一扇门！回头守住僵尸！！直到大门打开**"
 	}
 	"**This is your final stand! Hold until the door is fully closed!**"
 	{
-		"chi"		"**这是你们最后能站立的地方，守到大门全部关闭**"
+		"chi"		"**这是你们最后的守点，守到大门全部关闭**"
 	}
 	"**You have successfully escaped!**"
 	{

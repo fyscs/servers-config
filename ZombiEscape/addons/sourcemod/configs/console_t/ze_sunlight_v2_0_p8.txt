@@ -2,11 +2,11 @@
 {
 	"Created by Soft Serve"
 	{
-		"chi"		"**作者 Soft Serve 翻译 BAKA_Miku**"
+		"chi"		"**作者:Soft Serve 翻译:Sakura@风云社**"
 	}
 	"Map ported by www.dashijie.es"
 	{
-		"chi"		"**Rules of _p**"
+		"chi"		"****"
 	}
 	"*** STAGE I ***"
 	{
@@ -14,50 +14,50 @@
 	}
 	"ZE Sunlight"
 	{
-		"chi"		"**ZE 日光**"
+		"chi"		"**日光**"
 	}
 	"*** Defend for 30 seconds! ***"
 	{
-		"chi"		"**防守30秒 **"
+		"chi"		"**守住30秒！开枪! **"
 		"DoorCountDown"		"30"
 	}
 	"*** 5 seconds left ***"
 	{
-		"chi"		"**还有5秒 **"
+		"chi"		"**还剩5秒!准备撤退! **"
 	}
 	"*** Eye of the Storm has been acquired ***"
 	{
-		"chi"		"**暴风之眼已被拾起[召唤一个跟随玩家的暴风] 按'E'使用 **"
+		"chi"		"**暴风の眼已被捡起**"
 	}
 	"*** Lift is leaving in 30 seconds ***"
 	{
-		"chi"		"**电梯将在30秒后升起 **"
+		"chi"		"**电梯将在30秒后离开!坚守阵地!**"
 		"DoorCountDown"		"30"
 	}
 	"*** Defend for 20 seconds! ***"
 	{
-		"chi"		"**防御20秒 **"
+		"chi"		"**防守20秒!开枪射击僵尸! **"
 	}
 	"*** NUKE IN 1 MINUTE ***"
 	{
-		"chi"		"**核爆将在1分钟后到达 **"
+		"chi"		"**我方核打击将在1分钟后到达! **"
 		"DoorCountDown"		"60"
 	}
 	"*** Final door is opening in 10 seconds ***"
 	{
-		"chi"		"**最后的大门将在10秒后打开 **"
+		"chi"		"**最后的大门将在10秒后打开!守住这里! **"
 	}
 	"*** Nuke in 10 seconds ***"
 	{
-		"chi"		"**核弹将在10秒后到达 **"
+		"chi"		"**侦测到我方核聚变打击将在10秒后到达!boom!!!!! **"
 	}
 	"*** Melon Launcher has been acquired ***"
 	{
-		"chi"		"**西瓜发射器已被拾起 按'E'使用**"
+		"chi"		"**西瓜发射器已被拾起**"
 	}
 	"*** Stage completed! ***"
 	{
-		"chi"		"**过关 **"
+		"chi"		"**完成关卡 **"
 	}
 	"*** STAGE II ***"
 	{
@@ -65,24 +65,24 @@
 	}
 	"*** Defend for 25 seconds! ***"
 	{
-		"chi"		"**防御25秒 **"
+		"chi"		"**防守25秒!坚守阵地! **"
 	}
 	"*** Defend for 35 seconds! ***"
 	{
-		"chi"		"**防御35秒 **"
+		"chi"		"**防守35秒!赏它个麻辣烫! **"
 		"DoorCountDown"		"35"
 	}
 	"*** Orange Launcher has been acquired ***"
 	{
-		"chi"		"**橘子发射器已被拾起 按'E'使用**"
+		"chi"		"**橘子发射器已被拾起**"
 	}
 	"*** Defend while one person calls the lift! ***"
 	{
-		"chi"		"**防守这里直到一个玩家打开电梯的开关 **"
+		"chi"		"**防守这里直到触发电梯的开关!快去人触发! **"
 	}
 	"*** Lift is leaving in 10 seconds ***"
 	{
-		"chi"		"**电梯将在10秒后上升 **"
+		"chi"		"**电梯将在10秒后离开!快上电梯! **"
 	}
 	"*** STAGE III ***"
 	{
@@ -90,24 +90,24 @@
 	}
 	"*** Sacrificial Orb has been acquired ***"
 	{
-		"chi"		"**献祭宝珠已被拾起  按'E'使用**"
+		"chi"		"**献祭宝珠已被捡起**"
 	}
 	"*** Defend for 45 seconds! ***"
 	{
-		"chi"		"**防御这里45秒 **"
+		"chi"		"**守住这里45秒!加油!兄弟萌! **"
 	}
 	"*** Water is rising in 10 seconds ***"
 	{
-		"chi"		"**水面将在10秒后上升 **"
+		"chi"		"**水面将在10秒后上升! **"
 	}
 	"*** Nuke in 2 minutes ***"
 	{
-		"chi"		"**核爆将在2分钟后到达 **"
+		"chi"		"**侦测到我方核聚变打击将在2分钟后到达! **"
 		"DoorCountDown"		"-1"
 	}
 	"*** Stage failed! ***"
 	{
-		"chi"		"**任务失败 **"
+		"chi"		"**任务失败!shit! **"
 	}
 	"[Load ShroomForest2 Config]"
 	{
@@ -115,11 +115,11 @@
 	}
 	"[Warmup] Wait for others players to join"
 	{
-		"chi"		"**[热身时间]请等待其他玩家加入**"
+		"chi"		"**请等待其他玩家加入**"
 	}
 	"*** Zombies have been teleported. Prepare to charge! ***"
 	{
-		"chi"		"**僵尸已被传送 准备向前冲[请不要贴住风神器] **"
+		"chi"		"**僵尸已被传送 准备向前冲 **"
 	}
 	"*** STAGE IV ***"
 	{
@@ -127,15 +127,15 @@
 	}
 	"*** Top door is breaking in 20 seconds ***"
 	{
-		"chi"		"**大门将在20秒后打开 **"
+		"chi"		"**大门将在20秒后打开！加油！ **"
 	}
 	"*** Bottom door is breaking in 10 seconds ***"
 	{
-		"chi"		"**底门将在10秒后打开 **"
+		"chi"		"**底门将在10秒后打开!准备撤退 **"
 	}
 	"*** Defend for 60 seconds! ***"
 	{
-		"chi"		"**防御60秒 **"
+		"chi"		"**防御60秒!守住这里一分钟!我们必须这样! **"
 	}
 	"*** The dragon has been defeated. Keep defending the bridge! ***"
 	{
@@ -147,35 +147,35 @@
 	}
 	"*** Teleporting humans in 10 seconds ***"
 	{
-		"chi"		"**人类将在10秒后传送 **"
+		"chi"		"**人类将在10秒后传送 !**"
 	}
 	"*** Defend all 3 statues. Do not let zombies near! ***"
 	{
-		"chi"		"**防御3个雕塑 不要让僵尸接近它! **"
+		"chi"		"**防御3个雕塑 不要让僵尸接近它!击退他们! **"
 	}
 	"*** Teleporting zombies in 10 seconds ***"
 	{
-		"chi"		"**僵尸将在10秒后传送 **"
+		"chi"		"**僵尸将在10秒后传送！ **"
 	}
 	"*** 3 minutes left ***"
 	{
-		"chi"		"**还有3分钟 **"
+		"chi"		"**还有3分钟！ **"
 	}
 	"*** 2 minutes left ***"
 	{
-		"chi"		"**还有2分钟 **"
+		"chi"		"**还有2分钟 ！**"
 	}
 	"*** 1 minute left ***"
 	{
-		"chi"		"**还有1分钟 **"
+		"chi"		"**还有1分钟！ **"
 	}
 	"*** 10 seconds left ***"
 	{
-		"chi"		"**还有10秒 **"
+		"chi"		"**还有10秒 ！**"
 	}
 	"*** Congratulations! You have completed ZE_SUNLIGHT! ***"
 	{
-		"chi"		"**恭喜您!您已成功通关ZE_SUNLIGHT **"
+		"chi"		"**恭喜您!您已成功通关日光 **"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
