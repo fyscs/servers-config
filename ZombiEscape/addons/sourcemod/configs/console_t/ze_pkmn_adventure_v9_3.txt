@@ -194,15 +194,15 @@
 	}
 	"**Giratina used Dragon Claw**"
 	{
-		"chi"		"**骑拉帝纳使用龙爪（跳刀）4**"
+		"chi"		"**骑拉帝纳使用龙爪（跳刀）**"
 	}	
 	"**Groudon is rising up platforms!**"
 	{
-		"chi"		"**固拉多召唤了它的小弟（尸笼）**"
+		"chi"		"**古拉顿召唤了它的小弟（尸笼）**"
 	}
 	"**Groudon used Roar!**"
 	{
-		"chi"		"**固拉多使用吼叫（按住W抵抗）**"
+		"chi"		"**古拉顿使用吼叫（按住W抵抗）**"
 	}
 	"GIRATINA IS SPAWNING PLATFORMS"
 	{
@@ -354,7 +354,7 @@
 	}
 	"**Whitney: Miltank, use Body Slam!**"
 	{
-		"chi"		"**小茜：大奶罐，使用泰山压顶（被吸到的童鞋只能静静的欣赏它诱人的奈子）**"
+		"chi"		"**小茜：大奶罐，使用泰山压顶**				“被吸到的童鞋只能静静的欣赏它诱人的奈子”"
 	}
 	"**Whitney: Miltank, use Milk Drink!**"
 	{
@@ -426,7 +426,7 @@
 	}
 	"**Falkner: Pidgeot, use Whirlwind**"
 	{
-		"chi"		"**阿速：大逼鸟，使用吹飞（站在中间，远离左右两边）**"
+		"chi"		"**阿速：大逼鸟，使用吹飞**				“站在中间”"
 	}
 	"**Teleport will be enabled in 15 seconds"
 	{
@@ -442,7 +442,7 @@
 	}
 	"**Falkner: Noctowl, use Whirlwind"
 	{
-		"chi"		"**阿速：夜猫头鹰，使用吹飞（站在中间，远离左右两边）**"
+		"chi"		"**阿速：夜猫头鹰，使用吹飞**				“站在中间”"
 	}
 	"**Falkner: Noctowl, Roost!"
 	{
@@ -450,7 +450,7 @@
 	}
 	"**Falkner: Noctowl, use Zen Headbutt!"
 	{
-		"chi"		"**阿速：夜猫头鹰，使用意念头锤（到左右两边按住W抵抗，技能结束回到中间）5**"
+		"chi"		"**阿速：夜猫头鹰，使用意念头锤**				“到左右两边按住W抵抗”"
 	}
 	"**Noctowl has fainted!**"
 	{
@@ -654,7 +654,7 @@
 	}
 	"**Primal Groudon defeated**"
 	{
-		"chi"		"**屎前固拉多被打败了**"
+		"chi"		"**屎前古拉顿被打败了**"
 	}
 	"**Level 3 Completed**"
 	{
@@ -750,7 +750,7 @@
 	}
 	"GIRATINA USED OMINOUS WIND!"
 	{
-		"chi"		"**骑拉帝纳使用超极巨旋风袭卷（按住W抵抗）**"
+		"chi"		"**骑拉帝纳使用超极巨旋风袭卷**				“（按住W抵抗）”"
 	}
 	"**Cyrus has been defeated**"
 	{
@@ -810,7 +810,7 @@
 	}
 	"**DODGE THE AERIAL ACES**"
 	{
-		"chi"		"**躲避燕返                “准备跳刀”**"
+		"chi"		"**躲避燕返**				“准备跳刀”"
 	}
 	"Cyrus: Weavile use Beat Up."
 	{
@@ -826,7 +826,7 @@
 	}
 	"GIRATINA USED DARK FORCE!"
 	{
-		"chi"		"**骑拉帝纳使用了黑暗之力（沿梯子爬上小平台）**"
+		"chi"		"**骑拉帝纳使用了黑暗之力**				“沿梯子爬上小平台”"
 	}
 	"CLIMB UP THE LADDER HURRY UP!"
 	{
@@ -922,7 +922,7 @@
 	}
 	"Cyrus: Crobat use Antonish."
 	{
-		"chi"		"****赤日：叉字蝠，使用？？                      “剑盾图鉴也没有的技能”**"
+		"chi"		"****赤日：叉字蝠，使用？？**				“剑盾图鉴也没有的技能”"
 	}
 	"We've arrived to the Distortion World."
 	{
@@ -1074,7 +1074,7 @@
 	}
 	"Ceres: PURUGLY USE SURPRISE!"
 	{
-		"chi"		"**岁星：东施喵,使用惊肥"
+		"chi"		"**岁星：东施喵,使用惊吓"
 	}
 	"***Player has picked Buizel! (WATER)***"
 	{
@@ -1094,11 +1094,11 @@
 	}
 	"**SHOOT GROUDON!**"
 	{
-		"chi"		"**打败固拉多!**"
+		"chi"		"**打败古拉顿!**"
 	}
 	"**Groudon used Fissure!**"
 	{
-		"chi"		"**固拉多使用了地裂（跳到左边或右边的平台上）                           “咸鱼小心别假摔了”**"
+		"chi"		"**古拉顿使用了地裂（跳到左边或右边的平台上）**				“咸鱼小心别假摔了”"
 	}
 	"**Get on the side platforms**"
 	{
@@ -1106,7 +1106,7 @@
 	}
 	"GROUDON HAS FAINTED, LET'S GO"
 	{
-		"chi"		"**固拉多被打败了**"
+		"chi"		"**古拉顿被打败了**"
 	}
 	"IT'S WALLY!?"
 	{
@@ -1162,13 +1162,13 @@
 	}
 	"**IT'S PRIMAL GROUDON**"
 	{
-		"chi"		"**这是屎前固拉多**"
+		"chi"		"**这是屎前古拉顿**"
 	}
 	"**Primal Groudon used Eruption**"
 	{
-		"chi"		"**屎前固拉多使用地狱之火**"
+		"chi"		"**屎前古拉顿使用地狱之火**"
 	}
-	"LEFT PATH OPEN"          LEFT PATH OPENLEFT PATH OPENLEFT PATH OPENLEFT PATH OPENLEFT PATH OPENLEFT PATH OPEN
+	"LEFT PATH OPEN"
 	{
 		"chi"		"**道路通畅**"
 	}
@@ -1178,7 +1178,7 @@
 	}
 	"RIGHT PATH OPEN!"
 	{
-		"chi"		""
+		"chi"		"** **"
 	}
 	"DEFEND THIS AREA FOR 60 SECONDS"
 	{
