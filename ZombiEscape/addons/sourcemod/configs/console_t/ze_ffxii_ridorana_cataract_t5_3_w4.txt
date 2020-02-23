@@ -1,4 +1,233 @@
 "Console_T"
+{
+	"**You are too slow..**"
+	{
+		"chi"		"你太慢了..."
+	}
+	"**Famfrit is defeated! Now get ready to escape this place..**"
+	{
+		"chi"		"珐姆弗里特被打败了!现在逃离这个地方！"
+	}
+	"**The Bergan is down**"
+	{
+		"chi"		"贝甘被打败了！"
+	}
+	"**The Zargabaath is down**"
+	{
+		"chi"		"扎尔伽巴斯被打败了！"
+	}
+	"**You have failed**"
+	{
+		"chi"		"你失败了"
+	}
+	"**Gabranth has stolen the crystal. We need to stop him**"
+	{
+		"chi"		"伽布拉斯偷走了水晶.我们得阻止他"
+	}
+	"**The gates will open in 20 seconds**"
+	{
+		"chi"		"大门20秒后打开"
+	}
+	"**The gates will open in 30 seconds**"
+	{
+		"chi"		"大门30秒后打开"
+	}
+	"**The gates will open in 15 seconds**"
+	{
+		"chi"		"大门15秒后打开"
+	}
+	"**The gates will open in 25 seconds**"
+	{
+		"chi"		"大门25秒后打开"
+	}
+	"**The arena entrance will open in 30 seconds**"
+	{
+		"chi"		"竞技场30秒后开放"
+	}
+	"**You are late..**"
+	{
+		"chi"		"你太慢了..."
+	}
+	"**Defend this way for 25 seconds**"
+	{
+		"chi"		"守住这条道路25秒"
+	}
+	"**The final gates will open in 20 seconds**"
+	{
+		"chi"		"最后的大门20秒后开放"
+	}
+	"**Hydro is dead! Run to to the platform!**"
+	{
+		"chi"		"尸龙被打败了!撤离至平台上"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**"
+	{
+		"chi"		"人类获得火（Lv.1）"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**"
+	{
+		"chi"		"人类获得火（Lv.2）"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**"
+	{
+		"chi"		"人类获得火（Lv.3）"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**"
+	{
+		"chi"		"人类获得电（Lv.1）"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
+	{
+		"chi"		"人类获得电（Lv.2）"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**"
+	{
+		"chi"		"人类获得电（Lv.3）"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
+	{
+		"chi"		"人类获得冰（Lv.1）"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
+	{
+		"chi"		"人类获得冰（Lv.2）"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**"
+	{
+		"chi"		"人类获得冰（Lv.3）"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
+	{
+		"chi"		"人类获得黑洞（Lv.1）"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
+	{
+		"chi"		"人类获得黑洞（Lv.2）"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**"
+	{
+		"chi"		"人类获得黑洞（Lv.3）"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**"
+	{
+		"chi"		"人类获得风（Lv.1）"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**"
+	{
+		"chi"		"人类获得风（Lv.2）"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**"
+	{
+		"chi"		"人类获得风（Lv.3）"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
+	{
+		"chi"		"人类获得奶（Lv.1）"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**"
+	{
+		"chi"		"人类获得奶（Lv.2）"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**"
+	{
+		"chi"		"人类获得奶（Lv.3）"
+	}
+	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**"
+	{
+		"chi"		"僵尸获得奶（Lv.1）"
+	}
+	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 2)**"
+	{
+		"chi"		"僵尸获得奶（Lv.2）"
+	}
+	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 3)**"
+	{
+		"chi"		"僵尸获得奶（Lv.3）"
+	}
+	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**"
+	{
+		"chi"		"僵尸获得火（Lv.1）"
+	}
+	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**"
+	{
+		"chi"		"僵尸获得火（Lv.2）"
+	}
+	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 3)**"
+	{
+		"chi"		"僵尸获得火（Lv.3）"
+	}
+	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
+	{
+		"chi"		"僵尸获得黑洞（Lv.1）"
+	}
+	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**"
+	{
+		"chi"		"僵尸获得黑洞（Lv.2）"
+	}
+	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 3)**"
+	{
+		"chi"		"僵尸获得黑洞（Lv.3）"
+	}
+	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**"
+	{
+		"chi"		"僵尸获得秒杀（Lv.1）"
+	}
+	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**"
+	{
+		"chi"		"僵尸获得秒杀（Lv.2）"
+	}
+	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 3)**"
+	{
+		"chi"		"僵尸获得秒杀（Lv.3）"
+	}
+	"**The door will open in 25 seconds**"
+	{
+		"chi"		"大门25秒后打开"
+	}
+	"**Hold here for 10 seconds**"
+	{
+		"chi"		"防守10秒"
+	}
+	"**Wait before the airflow starts**"
+	{
+		"chi"		"等待低重力启动"
+	}
+	"**The arena gates will open in 20 seconds**"
+	{
+		"chi"		"竞技场大门20秒后打开"
+	}
+	"**The final gates will open in 30 seconds**"
+	{
+		"chi"		"最终の门30秒后打开"
+	}
+	"**The Hydro is defeated** **Keep running**"
+	{
+		"chi"		"尸龙被打败了！快走！**"
+	}
+	"**Is this over...or not?...**"
+	{
+		"chi"		"结束了嘛？还是..."
+	}
+	"** You have beaten NORMAL MODE! Congratulations! **"
+	{
+		"chi"		"NORMAL难度通过！"
+	}
+	"** You have beaten HARD MODE! Congratulations! **"
+	{
+		"chi"		"HARD难度通过！"
+	}
+	"**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**"
+	{
+		"chi"		"管理员更改当前地图难度"
+	}
+	"**ADMIN PRESSED KILL ALL BUTTON**"
+	{
+		"chi"		"管理员稍后会处死全体玩家"
+	}
+	"** You have beaten EXTREME MODE! Congratulations! **"
+	{
+		"chi"		"EX难度通过！"
+	}
 	"**The guard is dead! Run to to the platform!**"
 	{
 		"chi"		"守护者被打败了！快前往平台"
