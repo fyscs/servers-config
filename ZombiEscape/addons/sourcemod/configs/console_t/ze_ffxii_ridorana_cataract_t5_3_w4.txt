@@ -1,0 +1,335 @@
+"Console_T"
+{
+	"**You are too slow..**"
+	{
+		"chi"		"**你太慢了...**"
+	}
+	"**Famfrit is defeated! Now get ready to escape this place..**"
+	{
+		"chi"		"**BOSS被打败了!现在逃离这个地方...**"
+	}
+	"**The Bergan is down**"
+	{
+		"chi"		"**Bergan正在坠毁**"
+	}
+	"**The Zargabaath is down**"
+	{
+		"chi"		"**Zargabaath正在坠毁**"
+	}
+	"**You have failed**"
+	{
+		"chi"		"**你失败了**"
+	}
+	"**Gabranth has stolen the crystal. We need to stop him**"
+	{
+		"chi"		"**Gabranth偷走了水晶,我们得阻止他**"
+	}
+	"**The gates will open in 20 seconds**"
+	{
+		"chi"		"**大门将在20秒后打开**"
+	}
+	"**The gates will open in 30 seconds**"
+	{
+		"chi"		"**大门将在30秒后打开**"
+	}
+	"**The gates will open in 15 seconds**"
+	{
+		"chi"		"**大门将在15秒后打开**"
+	}
+	"**The gates will open in 25 seconds**"
+	{
+		"chi"		"**大门将在25秒后打开**"
+	}
+	"**The arena entrance will open in 30 seconds**"
+	{
+		"chi"		"**竞技场将在30秒后开放**"
+	}
+	"**You are late..**"
+	{
+		"chi"		"**你太慢了...**"
+	}
+	"**Defend this way for 25 seconds**"
+	{
+		"chi"		"**防守25秒**"
+	}
+	"**The final gates will open in 20 seconds**"
+	{
+		"chi"		"**最后的门将在20秒后开放**"
+	}
+	"**Hydro is dead! Run to to the platform!**"
+	{
+		"chi"		"**Hydro被打败了!撤离至平台上**"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 1)**"
+	{
+		"chi"		"**一名玩家捡起了火[LV1]**"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 2)**"
+	{
+		"chi"		"**一名玩家捡起了火[LV2]**"
+	}
+	"**A PLAYER HAS ACQUIRED FIRAGA**(FIRE LEVEL 3)**"
+	{
+		"chi"		"**一名玩家捡起了火[LV3]**"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 1)**"
+	{
+		"chi"		"**一名玩家捡起了电[LV1]**"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 2)**"
+	{
+		"chi"		"**一名玩家捡起了电[LV2]**"
+	}
+	"**A PLAYER HAS ACQUIRED THUNDAGA**(ELECTRO LEVEL 3)**"
+	{
+		"chi"		"**一名玩家捡起了电[LV3]**"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 1)**"
+	{
+		"chi"		"**一名玩家捡起了冰[LV1]**"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 2)**"
+	{
+		"chi"		"**一名玩家捡起了冰[LV2]**"
+	}
+	"**A PLAYER HAS ACQUIRED BLIZZAGA**(FREEZE LEVEL 3)**"
+	{
+		"chi"		"**一名玩家捡起了冰[LV3]**"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 1)**"
+	{
+		"chi"		"**一名玩家捡起了黑洞[LV1]**"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 2)**"
+	{
+		"chi"		"**一名玩家捡起了黑洞[LV2]**"
+	}
+	"**A PLAYER HAS ACQUIRED DARKAGA**(DARK LEVEL 3)**"
+	{
+		"chi"		"**一名玩家捡起了黑洞[LV3]**"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 1)**"
+	{
+		"chi"		"**一名玩家捡起了风[LV1]**"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 2)**"
+	{
+		"chi"		"**一名玩家捡起了风[LV2]**"
+	}
+	"**A PLAYER HAS ACQUIRED AEROGA**(WIND LEVEL 3)**"
+	{
+		"chi"		"**一名玩家捡起了风[LV3]**"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 1)**"
+	{
+		"chi"		"**一名玩家捡起了奶[LV1]**"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 2)**"
+	{
+		"chi"		"**一名玩家捡起了奶[LV2]**"
+	}
+	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**"
+	{
+		"chi"		"**一名玩家捡起了奶[LV3]**"
+	}
+	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 1)**"
+	{
+		"chi"		"**一名僵尸捡球了奶[LV1]**"
+	}
+	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 2)**"
+	{
+		"chi"		"**一名僵尸捡球了奶[LV2]**"
+	}
+	"**ZOMBIE CURAGA WAS PICKED UP**(HEAL LEVEL 3)**"
+	{
+		"chi"		"**一名僵尸捡球了奶[LV3]**"
+	}
+	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 1)**"
+	{
+		"chi"		"**一名僵尸捡起了火[LV1]**"
+	}
+	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 2)**"
+	{
+		"chi"		"**一名僵尸捡起了火[LV2]**"
+	}
+	"**ZOMBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 3)**"
+	{
+		"chi"		"**一名僵尸捡起了火[LV3]**"
+	}
+	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 1)**"
+	{
+		"chi"		"**一名僵尸捡起了黑洞[LV1]**"
+	}
+	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 2)**"
+	{
+		"chi"		"**一名僵尸捡起了黑洞[LV2]**"
+	}
+	"**ZOMBIE DARKAGA WAS PICKED UP**(PULL LEVEL 3)**"
+	{
+		"chi"		"**一名僵尸捡起了黑洞[LV3]**"
+	}
+	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 1)**"
+	{
+		"chi"		"**一名僵尸捡起了秒杀[LV1]**"
+	}
+	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 2)**"
+	{
+		"chi"		"**一名僵尸捡起了秒杀[LV2]**"
+	}
+	"**ZOMBIE WARP WAS PICKED UP**(DAMAGE LEVEL 3)**"
+	{
+		"chi"		"**一名僵尸捡起了秒杀[LV3]**"
+	}
+	"**The door will open in 25 seconds**"
+	{
+		"chi"		"**大门将在25秒后打开**"
+	}
+	"**Hold here for 10 seconds**"
+	{
+		"chi"		"**防守10秒**"
+	}
+	"**Wait before the airflow starts**"
+	{
+		"chi"		"**在气流开始前等待**"
+	}
+	"**The arena gates will open in 20 seconds**"
+	{
+		"chi"		"**竞技场将在20秒后开放**"
+	}
+	"**The final gates will open in 30 seconds**"
+	{
+		"chi"		"**最后的门将在30秒后打开**"
+	}
+	"**The Hydro is defeated** **Keep running**"
+	{
+		"chi"		"**Hydro被打败了...撤退...**"
+	}
+	"**Is this over...or not?...**"
+	{
+		"chi"		"**结束了嘛...？**"
+	}
+	"** You have beaten NORMAL MODE! Congratulations! **"
+	{
+		"chi"		"**祝贺!!!通过普通难度**"
+	}
+	"** You have beaten HARD MODE! Congratulations! **"
+	{
+		"chi"		"**祝贺!!!通过困难难度**"
+	}
+	"**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**"
+	{
+		"chi"		"**当前地图难度已调整**"
+	}
+	"**ADMIN PRESSED KILL ALL BUTTON**"
+	{
+		"chi"		"**稍后将会全体处死**"
+	}
+	"** You have beaten EXTREME MODE! Congratulations! **"
+	{
+		"chi"		"**祝贺你!!!通过极限难度**"
+	}
+	"**The guard is dead! Run to to the platform!**"
+	{
+		"chi"		"**警卫死了!撤离至平台!**"
+	}
+	"**Gabranth is using the power of the crystal and blocking the Legendary Sword**"
+	{
+		"chi"		"**Gabranth正在利用水晶的力量破坏试炼之剑**"
+	}
+	"** You have beaten CHAOS MODE! Congratulations you beat the map! **"
+	{
+		"chi"		"**祝贺!!!你已成功征服了这张地图**"
+	}
+	"**A PLAYER HAS PICKED UP THE ULTIMA SWORD**"
+	{
+		"chi"		"**一名玩家捡起了圣剑**"
+	}
+	"**Oh no the sword disappeared..We will be back there next time..**"
+	{
+		"chi"		"**哦,不,剑不见了...我们下次会回来的...**"
+	}
+	"**The Pharos is under attack!**"
+	{
+		"chi"		"**灯塔受到攻击**"
+	}
+	"**ZE_FFXII_RIDORANA_CATARACT**"
+	{
+		"chi"		"** **"
+	}
+	"**Map by Headshooter.SC & HaRyDe**"
+	{
+		"chi"		"**地图执制作：Headshooter.SC & HaRyDe		汉化：小三@风云社**"
+	}
+	"**The Hashmel is defeated!**"
+	{
+		"chi"		"**Hashmel被打败了**"
+	}
+	"**The Zalera is defeated!**"
+	{
+		"chi"		"**Zalera被打败了**"
+	}
+	"**WARMUP ROUND**"
+	{
+		"chi"		"**热身回合**"
+	}
+	"**ZM MODE**"
+	{
+		"chi"		"**丨ZM关丨**"
+	}
+	"**CHAOS MODE**"
+	{
+		"chi"		"**丨最终难度丨**"
+	}
+	"**EXTREME MODE**"
+	{
+		"chi"		"**丨极限难度丨**"
+	}
+	"**HARD MODE**"
+	{
+		"chi"		"**丨困难难度丨**"
+	}
+	"**NORMAL MODE**"
+	{
+		"chi"		"**丨普通难度丨**"
+	}
+	"**Someone is trying to interfere us**"
+	{
+		"chi"		"**有什么东西想干涉我们**"
+	}
+	"**Both ways will open in 25 seconds**"
+	{
+		"chi"		"**道路将在25秒后开放**"
+	}
+	"**Hold here for 20 seconds**"
+	{
+		"chi"		"**防守20秒**"
+	}
+	"**Cactus found. The player who found it was given 1 level**"
+	{
+		"chi"		"**仙人掌[LV1]找到了.**"
+	}
+	"**Hold here for 15 seconds**"
+	{
+		"chi"		"**防守15秒**"
+	}
+	"**To activate the gates you need to break the crystals in the side rooms**"
+	{
+		"chi"		"**破坏水晶,才能把门打开**"
+	}
+	"**1/2 crystals broken**"
+	{
+		"chi"		"**晶体破碎50%**"
+	}
+	"**You got it! The gates will open in 20 seconds**"
+	{
+		"chi"		"**大门将在20秒后打开**"
+	}
+	"**The end gates will close in 20 seconds. Keep defending!**"
+	{
+		"chi"		"**终端门将在20秒后关闭,继续防守**"
+	}
+	"**YOU MUST KILL ALL THE ZOMBIES TO WIN**"
+	{
+		"chi"		"**杀死剩余的僵尸**"
+	}
+}
