@@ -368,11 +368,13 @@
 	}
 	"***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***"
 	{
-		"chi"		"**可以花四十$让墨西哥佬带你过边境**"
+		"chi"		"**可以花40美金让墨西哥佬带你过边境**"
+		"DoorCountDown"		"-1"
 	}
 	"***YOU MANAGED TO SCRAPE TOGETHER 41$ FROM YOUR TUITION MONEY***"
 	{
-		"chi"		"**你设法从学费中凑了四十一$**"
+		"chi"		"**你设法从学费中凑了41美金**"
+		"DoorCountDown"		"-1"
 	}
 	"***20 SECONDS UNTIL DEPARTURE***"
 	{
@@ -602,7 +604,7 @@
 	}
 	"***TRAM 2 IS LEAVING IN 10 SECONDS***"
 	{
-		"chi"		"**电车二20秒后离开**"
+		"chi"		"**电车二10秒后离开**"
 	}
 	"***LOWER ELEVATOR IS LEAVING***"
 	{
@@ -783,11 +785,11 @@
 	}
 	"***THANK YOU FOR PLAYING***"
 	{
-		"chi"		"**谢谢你的游玩奏**"
+		"chi"		"**谢谢你的游玩么么哒(づ￣ 3￣)づ**"
 	}
 	"***MAP MADE BY - LUFFAREN***"
 	{
-		"chi"		"**地图作者：LUFFAREN  地图汉化：大明**"
+		"chi"		"**地图作者：LUFFAREN  地图汉化：大明@风云社**"
 	}
 	"***MAP RESET - GOING BACK TO PROLOUGE***"
 	{
@@ -982,7 +984,6 @@
 	"***THIS.. IS THE TRUTH***"
 	{
 		"chi"		"**这才是真相！**"
-        "command"   "sm_slay STEAM_1_0_178750531"
 	}
 	"***SOCRATES IS JUDGING YOU***"
 	{
@@ -1462,7 +1463,7 @@
 	}
 	"***Map by Luffaren***"
 	{
-		"chi"		"**地图作者：LUFFAREN  地图汉化：大明**"
+		"chi"		"**地图作者：LUFFAREN  地图汉化：大明@风云社**"
 	}
 	"*** CURRENT STAGE IS 1: Overworld ***"
 	{
