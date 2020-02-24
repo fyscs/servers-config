@@ -1,0 +1,209 @@
+"Console_T"
+{
+	"*** HOLY ***"
+	{
+		"chi"		"神圣之力" 
+	}
+	"*** CURAGA ***"
+	{
+		"chi"		"超级治疗"   
+	}
+	"*** STAGE FAILED ***"
+	{
+		"chi"		"关卡失败" 
+	}
+	"*** ZOMBIE KILLED PHILIA ***"
+	{
+		"chi"		"僵尸杀死了大白球"   
+	}
+	"*** SUN STRIKE ***"
+	{
+		"chi"		"阳炎冲击（躲避光柱）" 
+	}
+	"*** FRAMBERGE ***"
+	{
+		"chi"		"焰之剑（看头顶躲避火焰剑气）"   
+	}
+	"*** EXA FLARE ***"
+	{
+		"chi"		"千兆亿耀斑（准备使用奶神器）" 
+	}
+	"Level 5 set"
+	{
+		"chi"		"第五关：火焰精灵"   
+	}
+	"*** Hold 10 seconds ***"
+	{
+		"chi"		"防守10秒" 
+	}
+	"*** Hold 20 seconds ***"
+	{
+		"chi"		"防守20秒"   
+	}
+	"*** 5 seconds left ***"
+	{
+		"chi"		"防守5秒" 
+	}
+	"*** LIFT IS LEAVING IN 5 SECONDS ***"
+	{
+		"chi"		"电梯5秒后离开"   
+	}
+	"*** Hold 30 seconds ***"
+	{
+		"chi"		"防守30秒" 
+	}
+	"*** 10 seconds left ***"
+	{
+		"chi"		"防守10秒"   
+	}
+	"*** MEGA FLARE ***"
+	{
+		"chi"		"百万耀斑（不要靠近BOSS)" 
+	}
+	"*** GIGA FLARE ***"
+	{
+		"chi"		"十亿耀斑（远离BOSS)"   
+	}
+	"*** TERA FLARE ***"
+	{
+		"chi"		"兆亿耀斑（BOSS死亡）" 
+	}
+	"*** FLASH OVER ***"
+	{
+		"chi"		"闪燃（躲避场地中出现的多次燃烧）"   
+	}
+	"*** FIREBALL ***"
+	{
+		"chi"		"大火球（远离BOSS）" 
+	}
+	"*** FORGE SPIRITS ***"
+	{
+		"chi"		"熔炉精灵（躲避出现的小火球）"   
+	}
+	"*** FLAME RADIATION ***"
+	{
+		"chi"		"火焰辐射" 
+	}
+	"*** AERIAL BLAST ***"
+	{
+		"chi"		"大气爆发（面对绿球躲避出现的剑气）"   
+	}
+	"*** GUST ***"
+	{
+		"chi"		"狂风（面对绿色的光球按住W键）" 
+	}
+	"*** ZOMBIE GOT INSIDE THE LIFT ***"
+	{
+		"chi"		"僵尸上来了！关卡失败"   
+	}
+	"*** DOWNBURST ***"
+	{
+		"chi"		"下爆气流（倒计时结束按住W）"
+		"DoorCountDown"        "3"
+	}
+	"*** EYE OF THE STORM ***"
+	{
+		"chi"		"暴风之眼" 
+	}
+	"*** UPDRAFT ***"
+	{
+		"chi"		"上升气流（上升后看着下面的位置落地）"   
+	}
+	"*** TORNADO ***"
+	{
+		"chi"		"龙卷风（先站一起等待脚底特效出现后立马远离）"   
+	}
+	"Level 4 set"
+	{
+		"chi"		"第四关：大气精灵"   
+	}
+	"Level 1 set"
+	{
+		"chi"		"第一关：初探元素圣地-精灵塔" 
+	}
+	"Level 2 set"
+	{
+		"chi"		"第二关：大地精灵"   
+	}
+	"Level 3 set"
+	{
+		"chi"		"第三关：水之精灵" 
+	}
+	"*** Map by Airvulpes ***"
+	{
+		"chi"		"地图作者：Airvulpes  地图汉化：大明@风云社" 
+	}
+	"*** CRUSTAL MOVEMENT ***"
+	{
+		"chi"		"地壳运动（往山的左右两边跳上去，多次跳跃直到跳过去）"   
+	}
+	"*** EARTH STOMP ***"
+	{
+		"chi"		"大地震击（看头顶躲避石柱）" 
+	}
+	"*** QUAKE ***"
+	{
+		"chi"		"地震（开奶一直跳）"   
+	}
+	"*** EARTH SHOCK ***"
+	{
+		"chi"		"大地践踏（地图左右两边出现跳刀，先选择一边跳过去然后再跳另一边的刀）"   
+	}
+	"*** EARTHQUAKE ***"
+	{
+		"chi"		"大地震（BOSS死亡）"   
+	}
+	"*** EARTHEN SHIELD ***"
+	{
+		"chi"		"大地之盾（保持开枪打掉护盾）" 
+	}
+	"*** FROZEN WATER ***"
+	{
+		"chi"		"千里冰封（7秒后水面冻结）"   
+	}
+	"*** FREEZING COFFIN ***"
+	{
+		"chi"		"冰之柩（站到平台中间圆盘位置躲避）" 
+	}
+	"*** BLIZZARD ***"
+	{
+		"chi"		"暴风雪（使用奶神器）"   
+	}
+	"*** DIAMOND DUST ***"
+	{
+		"chi"		"钻石星尘（跑到四周水下躲避攻击or开奶抵抗）" 
+	}
+	"*** TIDAL WAVE ***"
+	{
+		"chi"		"海啸（按住W穿过海啸两次）"   
+	}
+	"*** Hold 25 seconds ***"
+	{
+		"chi"		"守住25秒" 
+	}
+	"*** ICICLE FALL ***"
+	{
+		"chi"		"冰瀑（看头顶找缝隙躲过3次攻击）"  
+        "DoorCountDown"        "-1"		
+	}
+	"*** RISING WATER ***"
+	{
+		"chi"		"水面上升" 
+	}
+	"*** LAND SUBSIDENCE ***"
+	{
+		"chi"		"地面沉降（地面随机下降，跑到没有下降的地面）" 
+	}
+	"*** Doors open in 10 seconds ***"
+	{
+		"chi"		"大门10秒后打开" 
+	}
+	"*** Door opens in 25 seconds ***"
+	{
+		"chi"		"大门25秒后打开"
+	}
+	"*** Door opens in 35 seconds ***"
+	{
+		"chi"		"大门35秒后打开"
+	}
+}

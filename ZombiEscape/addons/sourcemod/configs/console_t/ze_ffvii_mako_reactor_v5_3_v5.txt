@@ -36,7 +36,6 @@
 	"** DOOR OPENS IN 5 s **"
 	{
 		"chi"		"**门5S后打开**"
-		"DoorCountDown"		"-1"
 	}
 	"** A player has adquired WIND MATERIA **"
 	{
@@ -103,67 +102,54 @@
 	"** EXPLOSION IN 145 SECONDS **"
 	{
 		"chi"		"**炸弹将在145秒后爆炸**"
-		"DoorCountDown"		"-1"
 	}
 	"**  110 SECONDS LEFT **"
 	{
 		"chi"		"**还有110秒**"
-		"DoorCountDown"		"-1"
 	}
 	"**  100 SECONDS LEFT **"
 	{
 		"chi"		"**还有100秒**"
-		"DoorCountDown"		"-1"
 	}
 	"**  90 SECONDS LEFT **"
 	{
 		"chi"		"**还有90秒**"
-		"DoorCountDown"		"-1"
 	}
 	"**  80 SECONDS LEFT **"
 	{
 		"chi"		"**还有80秒**"
-		"DoorCountDown"		"-1"
 	}
 	"** DOOR OPENS IN 35 S ** Go to the control room and try to open it earlier **"
 	{
 		"chi"		"**最后的大门35S后打开！进入控制室操纵开关可以提前打开大门**"
-		"DoorCountDown"		"-1"
 	}
 	"**  70 SECONDS LEFT **"
 	{
 		"chi"		"**还有70秒**"
-		"DoorCountDown"		"-1"
 	}
 	"** Well done! Door is opening in 10 seconds **"
 	{
 		"chi"		"**干得漂亮！最后的大门将在10S后打开**"
-		"DoorCountDown"		"-1"
 	}
 	"**  60 SECONDS LEFT **"
 	{
 		"chi"		"**还有60秒**"
-		"DoorCountDown"		"-1"
 	}
 	"**  50 SECONDS LEFT **"
 	{
 		"chi"		"**还有50秒**"
-		"DoorCountDown"		"-1"
 	}
 	"**  40 SECONDS LEFT **"
 	{
 		"chi"		"**还有40秒**"
-		"DoorCountDown"		"-1"
 	}
 	"**  30 SECONDS LEFT **"
 	{
 		"chi"		"**还有30秒**"
-		"DoorCountDown"		"-1"
 	}
 	"**  20 SECONDS LEFT **"
 	{
 		"chi"		"**还有20秒**"
-		"DoorCountDown"		"-1"
 	}
 	"**Congratulations ! You beat NORMAL mode ! The challenge begins at HARD mode ! **"
 	{
@@ -205,7 +191,6 @@
 	"**  10 SECONDS LEFT **"
 	{
 		"chi"		"**还有10秒**"
-		"DoorCountDown"		"-1"
 	}
 	"** RUN! **"
 	{
@@ -238,22 +223,18 @@
 	"** Door is opening in 7 seconds **"
 	{
 		"chi"		"**舞台场的门7S后打开**"
-		"DoorCountDown"		"-1"
 	}
 	"** EXPLOSION IN 130 SECONDS **"
 	{
 		"chi"		"**炸弹将在130秒后爆炸**"
-		"DoorCountDown"		"-1"
 	}
 	"**  120 SECONDS LEFT **"
 	{
 		"chi"		"**还有120秒**"
-		"DoorCountDown"		"-1"
 	}
 	"** 30 seconds left **"
 	{
 		"chi"		"**还有30秒**"
-		"DoorCountDown"		"-1"
 	}
 	"** 20 SECONDS LEFT **"
 	{
@@ -286,8 +267,7 @@
 	}
 	"** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **"
 	{
-		"chi"		"**警告：巴哈姆特20秒后释放红终！治愈神器可以免疫此伤害**"
-		"DoorCountDown"		"-1"
+		"chi"		"**警告：巴哈姆特20秒后释放红终！奶神器可以免疫此伤害**"
 	}
 	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
 	{
@@ -336,7 +316,8 @@
 	}
 	"** BAHAMUT HAS HEALED 300 HIT POINTS**"
 	{
-		"chi"		"**巴哈姆特使用了治疗恢复三百HP**"
+		"chi"		"**巴哈姆特使用了治疗恢复300HP**"
+		"DoorCountDown"		"-1"
 	}
 	"** BAHAMUT HAS CAST FIRE! **"
 	{
@@ -425,7 +406,6 @@
 	"**No Fake Laser & High Laser Can Not Crouchjump Over it**"
 	{
 		"chi"		"**本回合没有假刀.高刀不能大跳**"
-		"DoorCountDown"		"-1"
 	}
 	"WARNING! BAHAMUT IS CASTING ULTIMA ** INTERRUPT HIM BEFORE HE KILL US ALL!!! **"
 	{
@@ -497,7 +477,8 @@
 	}
 	"** BAHAMUT HAS HEALED 600 HIT POINTS**"
 	{
-		"chi"		"**巴哈姆特使用了治疗恢复六百HP**"
+		"chi"		"**巴哈姆特使用了治疗恢复600HP**"
+		"DoorCountDown"		"-1"
 	}
 	"** BAHAMUT IS DEFEATED ** KEEP RUNNING **"
 	{
