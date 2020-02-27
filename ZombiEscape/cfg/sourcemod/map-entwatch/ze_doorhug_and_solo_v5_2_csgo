@@ -1,0 +1,37 @@
+"entities"
+{
+    "0"
+    {
+        "name"              "土"
+        "shortname"         "土"
+        "buttonclass"       "func_button"
+        "filtername"        "Earth_Owner"
+        "hasfiltername"     "true"
+        "hammerid"          "323735"
+        "mode"              "2"
+        "maxuses"           "0"
+        "startcd"           "0"
+        "cooldown"          "60"
+        "maxamount"         "1"
+        "glow"              "true"
+        "hud"               "true"
+        "autotransfer"      "true"
+    }
+	"1"
+    {
+        "name"              "风"
+        "shortname"         "风"
+        "buttonclass"       "func_button"
+        "filtername"        "Wind_Owner"
+        "hasfiltername"     "true"
+        "hammerid"          "323517"
+        "mode"              "2"
+        "maxuses"           "0"
+        "startcd"           "0"
+        "cooldown"          "60"
+        "maxamount"         "1"
+        "glow"              "true"
+        "hud"               "true"
+        "autotransfer"      "true"
+    }
+}
