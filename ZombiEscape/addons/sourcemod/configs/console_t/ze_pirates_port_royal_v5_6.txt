@@ -77,7 +77,7 @@
     }
     "***ACTIVATE 4 CANNONS***"
     {
-        "chi"        "**触发4门大炮**"
+        "chi"        "**触发四门大炮**"
     }
     ">>> GATE IS CLOSING IN 18 SEC <<<"
     {
@@ -581,7 +581,7 @@
     }
     ">>> HOLD <<<"
     {
-        "chi"        ">>>坚守！<<<"
+        "chi"        ">>>坚守40秒<<<"
         "DoorCountDown"        "40"
     }
     "||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"

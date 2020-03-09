@@ -303,7 +303,7 @@
 	}
 	"**A PLAYER HAS ACQUIRED CURAGA**(HEAL LEVEL 3)**"
 	{
-		"chi"		"人类获得火（Lv.3）"
+		"chi"		"人类获得奶（Lv.3）"
 	}
 	"**..WHAT IS IT?!**"
 	{
@@ -1150,7 +1150,7 @@
 	}
 	"**THE FENCES WILL OPEN SOON**"
 	{
-		"chi"		"铁门很快就会打开"
+		"chi"		"两侧铁门10秒后打开"
 	}
 	"**THE HENNE MINES ENTRANCE WILL OPEN IN 30 SECONDS**"
 	{
@@ -1262,7 +1262,7 @@
 	}
 	"**ZOMIBIE FIRAGA WAS PICKED UP**(FIRE LEVEL 3)**"
 	{
-		"chi"		"*僵尸获得火（Lv.3）"
+		"chi"		"僵尸获得火（Lv.3）"
 	}
 	"**ZOMIBIE WARP WAS PICKED UP**(DAMAGE LEVEL 3)**"
 	{
