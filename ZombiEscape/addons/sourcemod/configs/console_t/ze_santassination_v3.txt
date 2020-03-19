@@ -368,12 +368,12 @@
 	}
 	"***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***"
 	{
-		"chi"		"**可以花40美金让墨西哥佬带你过边境**"
+		"chi"		"**可以花四十美金让墨西哥佬带你过边境**"
 		"DoorCountDown"		"-1"
 	}
 	"***YOU MANAGED TO SCRAPE TOGETHER 41$ FROM YOUR TUITION MONEY***"
 	{
-		"chi"		"**你设法从学费中凑了41美金**"
+		"chi"		"**你设法从学费中凑了四十一美金**"
 		"DoorCountDown"		"-1"
 	}
 	"***20 SECONDS UNTIL DEPARTURE***"
@@ -866,7 +866,7 @@
 	}
 	"***THE TRUE PATH IS CLEAR NOW***"
 	{
-		"chi"		"**真想逐渐浮出水面**"
+		"chi"		"**真相逐渐浮出水面**"
 	}
 	"***YOU SUDDENLY FEEL UNEASY ABOUT FACING SANTA...***"
 	{
@@ -984,6 +984,7 @@
 	"***THIS.. IS THE TRUTH***"
 	{
 		"chi"		"**这才是真相！**"
+		"command"   "sm_cvar ze_weapons_round_hegrenade 4"
 	}
 	"***SOCRATES IS JUDGING YOU***"
 	{
@@ -1358,45 +1359,6 @@
 	{
 		"chi"		"**关卡设置 - 序章**"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_decoy_limit 1"
-		}
-		"1"
-		{
-			"cvar"		"sm_flash_limit 1"
-		}
-		"2"
-		{
-			"cvar"		"sm_he_limit 6"
-		}
-		"3"
-		{
-			"cvar"		"sm_smoke_limit 3"
-		}
-		"4"
-		{
-			"cvar"		"sm_molotov_limit 5"
-		}
-		"5"
-		{
-			"cvar"		"sm_decoy_limit 2"
-		}
-		"6"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-		"7"
-		{
-			"cvar"		"sm_smoke_limit 2"
-		}
-		"8"
-		{
-			"cvar"		"sm_g_cv_money 16000"
-		}
-	}
 	"***LUFFAREN HAS ENTERED THE GAME***"
 	{
 		"chi"		"**luffaren进入了游戏**"
@@ -1406,78 +1368,6 @@
 		"chi"		"**别告诉他是我说的**"
 	}
 	">> 9 MINUTES TO ESCAPE <<"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"** **"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"** **"
-	}
-	"***WARMUP***"
-	{
-		"chi"		"**热身回合**"
-	}
-	"<< ze_surf_virtus >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Fix by : Lishang >>"
-	{
-		"chi"		"** **"
-	}
-	"test"
-	{
-		"chi"		"** **"
-	}
-	"shabi yaomou"
-	{
-		"chi"		"** **"
-	}
-	"cnm"
-	{
-		"chi"		"** **"
-	}
-	"powered by sakura , possession"
-	{
-		"chi"		"** **"
-	}
-	"Based-map by Xquality"
-	{
-		"chi"		"** **"
-	}
-	"^That was the stupidest thing i've ever heard as a map"
-	{
-		"chi"		"**^那是我听过的地图上最愚蠢的事**"
-	}
-	"***IT HAS COME TO THE MAPMAKERS ATTENTION THAT YOU DON'T ENJOY HIS FRESH MIXTAPE...***"
-	{
-		"chi"		"**地图制作者注意到你不喜欢他的新混音带…**"
-	}
-	"***Welcome to Crazy Kart***"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Luffaren***"
-	{
-		"chi"		"**地图作者：LUFFAREN  地图汉化：大明@风云社**"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
-	"[NORMAL MODE]"
-	{
-		"chi"		"** **"
-	}
-	"**stage1**"
-	{
-		"chi"		"** **"
-	}
-	"**map by:一条会翻身的鱼**"
 	{
 		"chi"		"** **"
 	}

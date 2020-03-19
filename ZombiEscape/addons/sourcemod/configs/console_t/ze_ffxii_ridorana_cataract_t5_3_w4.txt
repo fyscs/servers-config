@@ -2,19 +2,19 @@
 {
 	"**You are too slow..**"
 	{
-		"chi"		"你太慢了..."
+		"chi"		"太慢了..."
 	}
 	"**Famfrit is defeated! Now get ready to escape this place..**"
 	{
-		"chi"		"珐姆弗里特被打败了!现在逃离这个地方！"
+		"chi"		"暗黑の云-珐姆弗里特被打败了!现在逃离这个地方！"
 	}
 	"**The Bergan is down**"
 	{
-		"chi"		"贝甘被打败了！"
+		"chi"		"裁判长-贝甘被打败了！"
 	}
 	"**The Zargabaath is down**"
 	{
-		"chi"		"扎尔伽巴斯被打败了！"
+		"chi"		"裁判长-扎尔伽巴斯被打败了！"
 	}
 	"**You have failed**"
 	{
@@ -190,7 +190,7 @@
 	}
 	"**Wait before the airflow starts**"
 	{
-		"chi"		"等待低重力启动"
+		"chi"		"低重力20秒后生效"
 	}
 	"**The arena gates will open in 20 seconds**"
 	{
@@ -202,11 +202,11 @@
 	}
 	"**The Hydro is defeated** **Keep running**"
 	{
-		"chi"		"尸龙被打败了！快走！**"
+		"chi"		"尸龙倒下了！快走！**"
 	}
 	"**Is this over...or not?...**"
 	{
-		"chi"		"结束了嘛？还是..."
+		"chi"		"结束了？还是..."
 	}
 	"** You have beaten NORMAL MODE! Congratulations! **"
 	{
@@ -230,11 +230,11 @@
 	}
 	"**The guard is dead! Run to to the platform!**"
 	{
-		"chi"		"守护者被打败了！快前往平台"
+		"chi"		"裁判长-伽布拉斯被打败了！快前往平台"
 	}
 	"**Gabranth is using the power of the crystal and blocking the Legendary Sword**"
 	{
-		"chi"		"伽布拉斯正在利用水晶的力量破坏传说之剑"
+		"chi"		"伽布拉斯正在利用水晶的力量破坏弑神之剑"
 	}
 	"** You have beaten CHAOS MODE! Congratulations you beat the map! **"
 	{
@@ -242,11 +242,11 @@
 	}
 	"**A PLAYER HAS PICKED UP THE ULTIMA SWORD**"
 	{
-		"chi"		"人类获得终极之剑"
+		"chi"		"人类获得弑神之剑"
 	}
 	"**Oh no the sword disappeared..We will be back there next time..**"
 	{
-		"chi"		"**哦,不,剑不见了...我们下次会回来的...**"
+		"chi"		"弑神之剑消失了..我们下次再来取！目前赶快撤离此地！"
 	}
 	"**The Pharos is under attack!**"
 	{
@@ -262,11 +262,11 @@
 	}
 	"**The Hashmel is defeated!**"
 	{
-		"chi"		"哈修马利姆被打败了"
+		"chi"		"统治者-哈修马利姆被打败了"
 	}
 	"**The Zalera is defeated!**"
 	{
-		"chi"		"扎鲁埃拉被打败了**"
+		"chi"		"死亡天使-扎鲁埃拉被打败了**"
 	}
 	"**WARMUP ROUND**"
 	{
@@ -316,7 +316,7 @@
 	{
 		"chi"		"把侧门的水晶打碎以启动大门开关"
 	}
-	"**1/2 crystals broken**"
+	"**12 crystals broken**"
 	{
 		"chi"		"还差1个水晶"
 	}
