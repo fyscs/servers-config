@@ -10,7 +10,7 @@
 	}
 	">>>Map by CriSsys<<<"
 	{
-		"chi"		"**地图制作：CriSsys		汉化：小三@风云社**"
+		"chi"		"**地图制作：CriSsys  汉化：小三@风云社**"
 	}
 	">>>Help tips opinions and adjustements by Aeris004<<<"
 	{
@@ -26,7 +26,7 @@
 	}
 	"***!!! CURRENT DIFFICULTY : EASY !!!***"
 	{
-		"chi"		"**第一章：羁绊**"
+		"chi"		"**第一章：<羁绊>**"
 	}
 	">>>Type mat_colorcorrection 1 for a better illumination<<<"
 	{
@@ -66,11 +66,11 @@
 	}
 	"***!!! NEXT DIFFICULTY : NORMAL !!!***"
 	{
-		"chi"		"**下一章：继承火之意志之人**"
+		"chi"		"**下一章：<火之意志继承者>**"
 	}
 	"!!! CURRENT DIFFICULTY : NORMAL !!!"
 	{
-		"chi"		"**第二章：继承火之意志之人**"
+		"chi"		"**第二章：<火之意志继承者>**"
 	}
 	"***DOOR WILL OPEN IN 15 SECONDS***"
 	{
@@ -126,7 +126,7 @@
 	}
 	"***NEXT DIFFICULTY : EASY ***"
 	{
-		"chi"		"**下一章：羁绊**"
+		"chi"		"**下一章：<羁绊>**"
 	}
 	"sync_version"
 	{
@@ -142,7 +142,7 @@
 	}
 	"***CITY AFK TELEPORT IN 10s***"
 	{
-		"chi"		"**村子的挂机咸鱼将在10秒后传送**"
+		"chi"		"**挂机咸鱼将在10秒后传送到村子**"
 	}
 	"***HOLD THIS POSITION***"
 	{
@@ -178,11 +178,11 @@
 	}
 	"***FORTRESS AFK TELEPORT IN 10s***"
 	{
-		"chi"		"**堡垒的挂机咸鱼将于10秒后传送鱼**"
+		"chi"		"**挂机咸鱼将于10秒后传送到堡垒**"
 	}
 	"***FORTRESS AFK TELEPORT***"
 	{
-		"chi"		"**堡垒的挂机咸鱼传送**"
+		"chi"		"**挂机咸鱼传送**"
 	}
 	"***30 SECONDS LEFT***"
 	{
@@ -194,11 +194,11 @@
 	}
 	"***!!! NEXT DIFFICULTY : HARD !!!***"
 	{
-		"chi"		"**下一章：忍者之路**"
+		"chi"		"**下一章：<忍者之路>**"
 	}
 	"***!!! CURRENT DIFFICULTY : HARD !!!***"
 	{
-		"chi"		"**第三章：忍者之路**"
+		"chi"		"**第三章：<忍者之路>**"
 	}
 	"***40 SECONDS LEFT***"
 	{
@@ -214,15 +214,15 @@
 	}
 	"***NEXT DIFFICULTY  EXTREM***"
 	{
-		"chi"		"**下一张：终章**"
+		"chi"		"**下一张：<终章>**"
 	}
 	"*** A bike has been found! Someone is ready for the 100th ''Tour De France''! ***"
 	{
-		"chi"		"**发现了一辆自行车！                      “准备好参加第100届自行车赛了嘛!”**"
+		"chi"		"**发现了一辆自行车  “准备好参加第100届自行车赛了嘛!”**"
 	}
 	"***!!! CURRENT DIFFICULTY EXTREM !!!***"
 	{
-		"chi"		"**第四章：终章**"
+		"chi"		"**第四章：<终章>**"
 	}
 	"***Naruto is fighting Sasuke! Go find and help him!***"
 	{
@@ -294,50 +294,30 @@
 	}
 	"***NEXT DIFFICULTY : NORMAL ***"
 	{
-		"chi"		"**下一章：继承火之意志之人**"
+		"chi"		"**下一章：<火之意志之继承者>**"
 	}
-	"***Welcome to Crazy Kart***"
+	"***!!! CURRENT DIFFICULTY : NORMAL !!!***"
 	{
-		"chi"		"** **"
-	}
-	"***Thanks to Enviolinador for the green shell bouncevector logic***"
-	{
-		"chi"		"** **"
-	}
-	"***NEXT DIFFICULTY : EXTREM ***"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"** **"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"** **"
-	}
-	"<< ze_surf_virtus >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Fix by : Lishang >>"
-	{
-		"chi"		"** **"
-	}
-	"*** ze_Chrono_Trigger. ***"
-	{
-		"chi"		"** **"
-	}
-	"LEVEL: EASY"
-	{
-		"chi"		"** **"
+		"chi"		"**第二章：<火之意志继承者>**"
 	}
 	"***Admin Room Abuse ! Next Difficulty : Extrem ***"
 	{
-		"chi"		"** **"
+		"chi"		"**章节：<终章>载入**"
 	}
 	"***Admin Room Abuse ! Next Difficulty : Hard ***"
 	{
-		"chi"		"** **"
+		"chi"		"**章节：<忍者之路>载入**"
+	}
+	"***Admin Room Abuse ! Next Difficulty : Easy ***"
+	{
+		"chi"		"**章节：<羁绊>载入**"
+	}
+	"***Admin Room Abuse ! Next Difficulty : Normal ***"
+	{
+		"chi"		"**章节：<火之意志继承者>载入**"
+	}
+	"***Admin Room Abuse ! Kill all players ***"
+	{
+		"chi"		"**章节载入完毕,将会处死全体玩家以重新开始**"
 	}
 }
