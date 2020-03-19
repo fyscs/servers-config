@@ -22,11 +22,11 @@
 	}
 	"** Let's begin the adventure! **"
 	{
-		"chi"		"**让我们开始吧！**"
+		"chi"		"**让我们开始吧!**"
 	}
 	"** STAGE 1: Underground **"
 	{
-		"chi"		"**第一章：探索		汉化：小三@风云社**"   
+		"chi"		"**第一章：探索  汉化：小三@风云社**"   
 	}
 	"** Right fence is breaking in 30s **"
 	{
@@ -40,7 +40,7 @@
 	{
 		"chi"		"**那是什么..？火焰..？水果..？**"   
 	}
-	"** Door is opening in 40s **"
+	"** Door is opening in 40s *"
 	{
 		"chi"		"**大门将在40秒后打开**"      
 	}
@@ -58,11 +58,11 @@
 	}
 	"** Hint: The pit will open faster if you place key items in correct position **"
 	{
-		"chi"		"**提示：正确的站位，道路会打开的非常快**"  
+		"chi"		"**提示：正确的站位,道路会打开的非常快**"  
 	}
 	"** Incorrect position! The pit will open SLOWER!! **"
 	{
-		"chi"		"**错误的站位，你们必须防守更长时间！**"
+		"chi"		"**错误的站位,你们必须防守更长时间！**"
 	}
 	"** Pit is opening in 60s **"
 	{
@@ -78,15 +78,15 @@
 	}
 	"** Tumult - use heal **"
 	{
-		"chi"		"**舞爪**				“使用治疗”"  
+		"chi"		"**舞爪**  “使用治疗”"  
 	}
 	"** Servant - defend zombies from now **"
 	{
-		"chi"		"**仆人**				“BOSS召唤了它的小弟”"   
+		"chi"		"**仆人**  “BOSS召唤了它的小弟”"   
 	}
 	"** Landslide - avoid red platform **"
 	{
-		"chi"		"**山蹦**				“远离红色特效”"   
+		"chi"		"**山蹦**  “远离红色特效”"   
 	}
 	"** Boss enrage! You are too slow! **"
 	{
@@ -94,11 +94,11 @@
 	}
 	"** Bury - look up **"
 	{
-		"chi"		"**埋葬**				“天坠”"
+		"chi"		"**埋葬**  “天坠”"
 	}
 	"** Weight of the Land - move away **"
 	{
-		"chi"		"**重力**				“散开”"
+		"chi"		"**重力**  “散开”"
 	}
 	"** Boss defeated! RUN! **"
 	{
@@ -146,11 +146,11 @@
 	}
 	"** Weight of the Land **"
 	{
-		"chi"		"**重力**				“散开”"  
+		"chi"		"**重力**  “散开”"  
 	}	
 	"** Sink **"
 	{
-		"chi"		"**陷落**				“紧贴特效中间边缘”"  
+		"chi"		"**陷落**  “紧贴特效中间边缘”"  
 	}
 	"** Vortex **"
 	{
@@ -158,15 +158,15 @@
 	}
 	"** Ricochet - jump **"
 	{
-		"chi"		"**重击**				“硬抗或跳跃”"    
+		"chi"		"**重击**  “硬抗或跳跃”"    
 	}
 	"** Vampire - stop shooting **"
 	{
-		"chi"		"**吸血**				“反伤”"        
+		"chi"		"**吸血**  “反伤”"        
 	}
 	"** Divine Tears - crouch **"
 	{
-		"chi"		"**圣泪**				“蹲下”"        
+		"chi"		"**圣泪**  “蹲下”"        
 	}
 	"** Boss defeated **"
 	{
@@ -194,11 +194,11 @@
 	}
 	"** STAGE 2: Investigation **"
 	{
-		"chi"		"**第二章：调查		汉化：小三@风云社**"   
+		"chi"		"**第二章：调查  汉化：小三@风云社**"   
 	}
 		"** STAGE 3: Escape **"
 	{
-		"chi"		"**第三章：逃离		汉化：小三@风云社**"  
+		"chi"		"**第三章：逃离  汉化：小三@风云社**"  
 	}
 	"** Left fence is breaking in 30s **"
 	{
@@ -230,35 +230,35 @@
 	}
 	"** Nicely done! The door is going to unlock! **"
 	{
-		"chi"		"**做得好！大门正在解锁！**"      
+		"chi"		"**做得好,大门正在解锁**"      
 	}
 	"** JUMP! **"
 	{
-		"chi"		"**跳！**"
+		"chi"		"**跳...**"
 	}
 	"** Door is opening in 20s **"
 	{
-		"chi"		"**大门20秒后打开**"      
+		"chi"		"**大门将在20秒后打开**"      
 	}
 	"** Dancing Claw - prepare using heal **"
 	{
-		"chi"		"**舞爪**				“使用治疗”"
+		"chi"		"**舞爪**  “使用治疗”"
 	}
 	"** Ricochet **"
 	{
-		"chi"		"**重击**				“硬抗或跳跃”"   
+		"chi"		"**重击**  “硬抗或跳跃”"   
 	}
 	"** Swallow - stay back **"
 	{
-		"chi"		"**黑洞**				“按住S”"
+		"chi"		"**黑洞**  “按住S”"
 	}
 	"** You have failed to escape from the temple **"
 	{
-		"chi"		"**您没能从神庙逃脱**"
+		"chi"		"**您没能从神殿里逃脱**"
 	}
 	"** GET TO THE HELICOPTER NOW! **"
 	{
-		"chi"		"**马上上直升机！**"  
+		"chi"		"**撤离到上直升机**"  
 	}	
 	"** You must kill the temple creature before it kills you **"
 	{
@@ -278,7 +278,7 @@
 	}	
 	"** DODGE THE LASERS AND KILL THE BOSS **"
 	{
-		"chi"		"**跳刀击败BOSS**"  
+		"chi"		"**打败复仇女神**"  
 	}	
 	"** GO LEFT **"
 	{
@@ -286,7 +286,7 @@
 	}	
 	"** Maze exit is opening in 10s **"
 	{
-		"chi"		"**迷宫出口10秒后打开**"  
+		"chi"		"**迷宫出口将在10秒后打开**"  
 	}	
 	"** HE IS DEAD! RUN FOR YOUR LYFE! **"
 	{
@@ -294,31 +294,31 @@
 	}	
 	"** Find another key item!! **"
 	{
-		"chi"		"**寻找另一把钥匙！**"
+		"chi"		"**寻找另一把钥匙**"
 	}
 	"** Dancing Claw **"
 	{
-		"chi"		"**舞爪**				“使用治疗”"   
+		"chi"		"**舞爪**  “使用治疗”"   
 	}	
 	"** Vampire **"
 	{
-		"chi"		"**反伤**				“停止射击”"  
+		"chi"		"**反伤**  “停止射击”"  
 	}	
 	"** Divine Tears **"
 	{
-		"chi"		"**圣泪**				“蹲下”" 
+		"chi"		"**圣泪**  “蹲下”" 
 	}	
 	"** Force **"
 	{
-		"chi"		"**推力**				“按住W”" 
+		"chi"		"**推力**  “按住W”" 
 	}	
 	"** Swallow **"
 	{
-		"chi"		"**黑洞**				“按住S”"  
+		"chi"		"**黑洞**  “按住S”"  
 	}		
 	"** You are too late. Boss enrage soon.. **"
 	{
-		"chi"		"**太迟了.BOSS快狂暴了..**"
+		"chi"		"**太迟了,BOSS快狂暴了..**"
 	}	
 	"** Temple door is opening soon **"
 	{
@@ -330,27 +330,27 @@
 	}	
 	"** Fixing the door. Keep defending! **"
 	{
-		"chi"		"**继续防守！**"  
+		"chi"		"**继续防守**"  
 	}	
 	"** Door is opening in 15s **"
 	{
-		"chi"		"**大门15秒后打开**"   
+		"chi"		"**大门将在15秒后打开**"   
 	}	
 	"** The door will open soon **"
 	{
 		"chi"		"**大门不久后将会打开**"   
 	}	
-	"** Just a little bit more **"
+	"** Just a little bit more... **"
 	{
 		"chi"		"**再坚持一下**"    
 	}	
 	"** Hang on... Keep defending! **"
 	{
-		"chi"		"**坚持住..继续防守！**"   
+		"chi"		"**坚持住...继续防守**"   
 	}	
 	"** Maze exit is opening in 40s **"
 	{
-		"chi"		"**迷宫出口40秒后打开**"   
+		"chi"		"**迷宫出口将在40秒后打开**"   
 	}
 	"** Elevator is leaving in 20s **"
 	{
@@ -366,11 +366,11 @@
 	}	
 	"** Nicely done! You got the correct combination! **"
 	{
-		"chi"		"**做得好！钥匙被放在了正确的位置上！**"
+		"chi"		"**做得好,钥匙被放在了正确的位置上!**"
 	}	
 	"** Incorrect combination! The pit will open SLOWER!! **"
 	{
-		"chi"		"**钥匙被放在了错误的位置上！你们要防守更久的时间**"
+		"chi"		"**钥匙被放在了错误的位置上,你们要防守更久的时间**"
 	}	
 	"** ADMIN SELECTED ZM MODE **"
 	{
@@ -446,15 +446,15 @@
 	}
 	"** You are too slow! Boss enrage soon! **"
 	{
-		"chi"		"**你们太迟了！BOSS狂暴了！**"
+		"chi"		"**你们太迟了,BOSS狂暴了!**"
 	}
 	"** Round failed! No human is alive! **"
 	{
-		"chi"		"**任务失败！无人生还！**"
+		"chi"		"**任务失败,无人生还!**"
 	}	
 	"** Hurry up! 15 seconds left **"
 	{
-		"chi"		"**快点！还剩15秒**"
+		"chi"		"**快点,还剩15秒**"
 	}	
 	"** Helicopter is leaving 10s **"
 	{

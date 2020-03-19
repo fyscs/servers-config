@@ -18,19 +18,19 @@
 	}
 	"Hold out the zombies at the ticket gates!"
 	{
-		"chi"		"**把僵尸压制在检票闸门外面**"
+		"chi"		"**别让僵尸通过检票闸门**"
 	}
 	"The teleporters at the spawn area are now working!"
 	{
-		"chi"		"**传送装置正在充能中...**"
+		"chi"		"**僵尸传送装置目前处于开启状态**"
 	}
 	"Boat leaving in 6 seconds!"
 	{
-		"chi"		"**友谊的小船6秒后离开**"
+		"chi"		"**友谊的小船将在6秒后离开**"
 	}
 	"Truck leaving in 15 seconds!"
 	{
-		"chi"		"**公交车15秒后离开**				“行车不规范，萌新两行泪”"
+		"chi"		"**公交车将在15秒后离开**  “行车不规范，萌新两行泪”"
 	}
 	"Emergency button has been activated! Emergency doors closing..."
 	{
@@ -46,11 +46,11 @@
 	}
 	"Train arriving at nuclear station..."
 	{
-		"chi"		"**列车进站...**"
+		"chi"		"**列车抵达终点站**"
 	}
 	"Beware of zombies coming from the back!"
 	{
-		"chi"		"**尸群已涌入隧道，请最好再次作战的准备**"
+		"chi"		"**僵尸进入隧道,请最好再次作战的准备**"
 	}
 	"The train has arrived and will leave in 10 seconds!"
 	{
@@ -58,7 +58,7 @@
 	}
 	"Zombie outbreak has been detected."
 	{
-		"chi"		"**“他们来了，我们是他们的奴隶”**"
+		"chi"		"**“他们来了,我们是他们的奴隶”**"
 	}
 	"Emergency protection barriers activated."
 	{
@@ -74,18 +74,18 @@
 	}
 	"Missile Doors 1 Opening..."
 	{
-		"chi"		"**一门开放**"
+		"chi"		"**一门即将关闭**"
 	}
 	"Missile Doors 2 Opening..."
 	{
-		"chi"		"**二门开放**"
+		"chi"		"**二门即将关闭**"
 	}
 	"Nuclear missile has been launched!!!"
 	{
-		"chi"		"**大伊万正在升空...**"
+		"chi"		"**战术核弹正在升空...**"
 	}
 	"Break the doors to exit the laboratory."
 	{
-		"chi"		"**破坏前方的门撤离实验室**"
+		"chi"		"**破坏大门撤离实验室**"
 	}
 }

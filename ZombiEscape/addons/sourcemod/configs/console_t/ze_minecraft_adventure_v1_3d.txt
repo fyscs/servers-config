@@ -79,7 +79,7 @@
 	}
 	"*** CURRENT STAGE IS 2: The Nether ***"
 	{
-		"chi"		"**关卡二 ：地狱**"
+		"chi"		"**旅途二 ：地狱**"
 	}
 	"*** WALL BREAKS IN 15 SEC ***"
 	{
@@ -134,7 +134,7 @@
 	}
 	"*** ACTIVATE THE PORTAL USING FLINT AND STEEL ***"
 	{
-		"chi"		"** 激活地狱之门的钥匙，是要在规定时间内燧石和铁制作出来的打火石**"
+		"chi"		"**激活地狱之门的钥匙,是要在规定时间内燧石和铁制作出来的打火石**"
 	}
 	"*** 40 SECONDS REMAINING ***"
 	{
@@ -164,11 +164,11 @@
 	}
 	"*** CURRENT STAGE IS 1: Overworld ***"
 	{
-		"chi"		"**关卡一：新世界**"
+		"chi"		"**旅途一：新世界**"
 	}
 	"Map made by Cuniczek"
 	{
-		"chi"		"**地图制作：Cuniczek		汉化：小三@风云社**"
+		"chi"		"**地图制作：Cuniczek  汉化：小三@风云社**"
 	}
 	"Thanks to Enviolinador & Kaesar"
 	{
@@ -186,7 +186,7 @@
 	}
 	"*** HUMANS WON! MOVING ON TO STAGE 3 ***"
 	{
-		"chi"		"***人类胜利!进入第三关载入 ***"
+		"chi"		"***人类胜利!第三关载入 ***"
 	}
 	"*** CURRENT STAGE IS 3: Jungle ***"
 	{
@@ -202,12 +202,12 @@
 	}
 	"*** WELL DONE! NEXT DOOR IS OPENING IN 30SEC ***"
 	{
-		"chi"		"**墙壁将在30秒后破裂,在这之前继续防守僵尸**				“留意路上的断口”"
+		"chi"		"**墙壁将在30秒后破裂,在这之前继续防守僵尸**  “留意路上的断口”"
 		"DoorCountDown"		"30"
 	}
 	"*** NEXT DOOR OPENS IN 20 SECONDS ***"
 	{
-		"chi"		"**下一道石墙将在20秒后碎裂**				“墙后有断口,留意”"
+		"chi"		"**下一道石墙将在20秒后碎裂**  “墙后有断口,留意”"
                 "
 		"DoorCountDown"		"                "
 	}
@@ -221,7 +221,7 @@
 	}
 	"*** FIND REDSTONE TORCHES AND PUT THEM IN PLACE TO OPEN THE DOOR ***"
 	{
-		"chi"		"**,找到红石火把,继续将它们放在铁块上**"
+		"chi"		"**找到红石火把,继续将它们放在铁块上**"
 	}
 	"*** Door is Opening ***"
 	{
@@ -242,7 +242,7 @@
 	}
 	"*** FALL BACK DOOR IS OPENING ***"
 	{
-		"chi"		"**溜了！逃生路线已经开启!**"
+		"chi"		"**溜了!逃生路线已经开启!**"
 	}
 	"*** SOLVE THE PUZZLE OR RESIST 30 SECONDS ***"
 	{
@@ -290,16 +290,16 @@
 	}
 	"*** RUN INTO HOUSE ***"
 	{
-		"chi"		"**进入那个小屋**				“逃生路线在1楼，请勿随便走动”"
+		"chi"		"**进入那个小屋**
 	}
 	"*** RESIST FOR 30 SECONDS ***"
 	{
-		"chi"		"**防守30秒**				“逃生路线在一楼，请勿随便走动”"
+		"chi"		"**防守30秒**  “逃生路线在一楼，请勿随便走动”"
 		"DoorCountDown"		"30"
 	}
 	"*** FALL BACK 5 SECONDS REMAINING ***"
 	{
-		"chi"		"**防守5秒**				“逃生路线在一楼，请勿随便走动”"
+		"chi"		"**防守5秒**  “逃生路线在一楼，请勿随便走动”"
 	}
 	"*** GO INTO UNDERGROUND ***"
 	{
@@ -343,7 +343,7 @@
 	}
 	"*** HEROBRINE! KILL HIM! ***"
 	{
-		"chi"		"**是Herobrine!快杀了他！**"
+		"chi"		"**是Herobrine!快杀了他**"
 	}
 	"*** HE'S RUNNING AWAY! ***"
 	{
@@ -385,54 +385,6 @@
 	}
 	"*** Map made by Cuniczek ***"
 	{
-		"chi"		"**地图制作：Cuniczek		汉化：小三@风云社**"
-	}
-	"**Map made by Binbow**"
-	{
-		"chi"		"** **"
-	}
-	">> Map by Taskuvaras <<"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	"***Particle Effect by Airvulpes***"
-	{
-		"chi"		"** **"
-	}
-	"***Thanks to Shizuru[idea]  uuz[model]***"
-	{
-		"chi"		"** **"
-	}
-	">> Map by TaskuVaras and Moltard <<"
-	{
-		"chi"		"** **"
-	}
-	"* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
-	{
-		"chi"		"** **"
-	}
-	"* * * Choose the first MINIGAME * * *"
-	{
-		"chi"		"** **"
-	}
-	"*** TRUCK EVACUATION ***"
-	{
-		"chi"		"** **"
-	}
-	"***1***"
-	{
-		"chi"		"** **"
-	}
-	"***Modified by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	"**Welcome to Minas Tirith - City of Kings**"
-	{
-		"chi"		"** **"
+		"chi"		"**地图制作：Cuniczek**"
 	}
 }

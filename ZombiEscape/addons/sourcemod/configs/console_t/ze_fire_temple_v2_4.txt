@@ -34,15 +34,11 @@
 	}
 	"<<< Map made by Jllaneras >>>"
 	{
-		"chi"		"**地图制作：Jllaneras		汉化：小三@风云社**" 
+		"chi"		"**地图制作：Jllaneras  汉化：小三@风云社**" 
 	}
 	"<<< Cage closing in 30 seconds! >>>"
 	{
-		"chi"		"**30秒后将开启传送**                           “贴边必死”" 
-	}
-	"<<< 10 seconds left! >>>"
-	{
-		"chi"		"**10秒后将开启传送**                           “贴边必死”"   
+		"chi"		"**30秒后将开启传送**" 
 	}
 	"<<< Zombies teleport in 25 seconds! >>>"
 	{
@@ -58,7 +54,7 @@
 	}
 	"<<< Zombies have been teleported! >>>"
 	{
-		"chi"		"**僵尸传送点刷新**" 
+		"chi"		"**僵尸被关进了笼子里**" 
 	}
 	"<<< Back gate opening in 15 seconds! >>>"
 	{
@@ -74,7 +70,7 @@
 	}
 	"<<< 10 seconds left! >>>"
 	{
-		"chi"		"**平台10秒后上升**" 
+		"chi"		"**剩余10秒**" 
 	}
 	"<<< Top door will open in 60 seconds! >>>"
 	{
@@ -102,6 +98,6 @@
 	}
 	"<<< SHOOT CRYSTAL!!!! >>>"
 	{
-		"chi"		"****"     
+		"chi"		"**破坏红色水晶**"     
 	}
 }
