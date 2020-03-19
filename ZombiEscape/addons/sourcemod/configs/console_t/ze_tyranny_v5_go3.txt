@@ -365,7 +365,7 @@
 	}
 	">>> BALROG USED KILLER. GO BACK <<<"
 	{
-		"chi"		">>>炎魔演奏了终湮之章！尽快跑出乐章波及之处<<<"
+		"chi"		">>>炎魔演奏了终湮之奏！尽快跑出乐章波及之处<<<"
 		"ico"		"icon_fire"
 		"DoorCountDown"		"5"
 	}
@@ -516,7 +516,7 @@
 	}
 	">>> BALROG USED KILLER <<<"
 	{
-		"chi"		">>>炎魔施放了终湮之奏！躲到平台最后面边缘处<<<"
+		"chi"		">>>炎魔5秒后施放终湮之奏！躲到平台最后面边缘处<<<"
 		"ico"		"icon_fire"
 		"DoorCountDown"		"5"
 	}
@@ -623,7 +623,7 @@
 	}
 	"*** failed to defeat the boss ***"
 	{
-		"chi"		"**你失败了 gg _(:з」∠)_**"
+		"chi"		"**你成功了**"
 	}
 	">>> ADMIN CHANGED TO STAGE 6 <<<"
 	{

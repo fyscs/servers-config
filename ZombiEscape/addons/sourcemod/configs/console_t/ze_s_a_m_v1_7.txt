@@ -130,7 +130,7 @@
 	}
 	">>ACTIVATE FOUR TOWERS<<"
 	{
-		"chi"		">>>激活4座水晶塔<<<"
+		"chi"		">>>激活四座水晶塔<<<"
 	}
 	">>ALL THE CRYSTAL ACTIVATED , WAIT 10 SEC<<"
 	{
@@ -234,7 +234,7 @@
 	}
 	">>ITS ICE DRAGON<<"
 	{
-		"chi"		">>>是魔法冰龙<<<"
+		"chi"		">>>是远古巨龙<<<"
 	}
 	">>KILL IT<<"
 	{
@@ -326,7 +326,7 @@
 	}
 	">>BALROG USED SOLAR FUSION,USE <LIGHTNING> TO RESIST IT<<"
 	{
-		"chi"		">>>炎魔释放了阳炎.站在<电环>内躲避<<<"
+		"chi"		">>>炎魔释放了阳炎.20秒后站在<电环>内躲避伤害<<<"
 	}
 	">>STAGE 4 COMPLETE<<"
 	{
@@ -406,7 +406,7 @@
 	}
 	"<<TORRENT>>"
 	{
-		"chi"		">>>幻镜禁锢<<<"
+		"chi"		">>>喷射水流<<<"
 	}
 	"<<COLLAPSAR>>"
 	{
@@ -414,7 +414,7 @@
 	}
 	"<<COLLAPSE>>"
 	{
-		"chi"		">>>喷射水流<<<"
+		"chi"		">>>坍塌<<<"
 	}
 	"<<FLARE>>"
 	{
@@ -526,7 +526,7 @@
 	}
 	">>HE ESCAPED!!!VOID DOOR HAS OPENED NOW!!!CATCH UP!!!<<"
 	{
-		"chi"		"**他逃走了！！！！传送门已经启动了！！！！快走！！！！**"
+		"chi"		"**他逃走了！传送门已经启动了！快走！**"
 	}
 	">>SHOOT IT!!!<<"
 	{
