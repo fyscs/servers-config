@@ -161,7 +161,7 @@
 	}
 	"*** Behemoth King Appeared ***"
 	{
-		"chi"		"**万兽王出现了**"
+		"chi"		"**贝尔摩斯出现了**"
 	}
 	"*** Shoot him ***"
 	{
@@ -189,7 +189,7 @@
 	}
 	"*** Behemoth King dead ***"
 	{
-		"chi"		"**万兽王被打败了**"
+		"chi"		"**贝尔摩斯被打败了**"
 	}
 	"***45 seconds to HARD CLEAR***"
 	{
@@ -242,11 +242,11 @@
 	"*** 45 seconds to Break Rocks ***"
 	{
 		"chi"		"**墙体45秒后碎开.接着跳进管道 **"
-		"DoorCountDown"		"0"
+		"DoorCountDown"		"45"
 	}
 	"***A player picked up Limit Break***"
 	{
-		"chi"		"**一位玩家习得了维度超越**"
+		"chi"		"**一位玩家习得了终极**"
 	}
 	"*** once only ***"
 	{
@@ -376,7 +376,7 @@
 	}
 	"***Tempest Wing***"
 	{
-		"chi"		"**狂风之翼，退到平台面最后抵御吸力**"
+		"chi"		"**狂风之翼[退到平台面最后抵御吸力]**"
 	}
 	"*** Level:Savage ***"
 	{
@@ -538,7 +538,7 @@
 	}
 	"*** Shield Oath ***"
 	{
-		"chi"		"**流沙**"
+		"chi"		"**盾**"
 	}
 	"*** Dark Bahamut is blocking the road ***"
 	{
@@ -563,5 +563,17 @@
 	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"**服务器即将关闭,请更新你的游戏 **"
+	}
+	"*** CURRENT STAGE IS 1: Overworld ***"
+	{
+		"chi"		"** **"
+	}
+	"*** ADMIN BUTTON Level Savage ***"
+	{
+		"chi"		"管理员把关卡调至疯狂难度**"
+	}
+	"*** ADMIN BUTTON Level Extreme ***"
+	{
+		"chi"		"管理员把关卡调至极限难度**"
 	}
 }
