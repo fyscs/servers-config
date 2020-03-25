@@ -2,15 +2,15 @@
 {
 	"** WARM UP - 60 SEC **"
 	{
-		"chi"		"**热身：60秒**" 
+		"chi"		"**热身:60秒**" 
 	}
 	"** TIP: one player must touch the closed door to trigger **"
 	{
-		"chi"		"**提示：必须有一名玩家碰到门才可触发**"   
+		"chi"		"**提示:必须有一名玩家碰到门才可触发**"   
 	}
 	"** TIP: most zombie teleports are quick so do not overdefend! **"
 	{
-		"chi"		"**提示：大多数僵尸在门开后会很快传送**"     
+		"chi"		"**提示:大多数僵尸在门开后会很快传送**"     
 	}
 	"** TIP: search for key items when the console tells you to do so **"
 	{
@@ -26,7 +26,7 @@
 	}
 	"** STAGE 1: Underground **"
 	{
-		"chi"		"**第一章：探索  汉化：小三@风云社**"   
+		"chi"		"**第一章:探索  汉化:小三@风云社**"   
 	}
 	"** Right fence is breaking in 30s **"
 	{
@@ -58,7 +58,7 @@
 	}
 	"** Hint: The pit will open faster if you place key items in correct position **"
 	{
-		"chi"		"**提示：正确的站位,道路会打开的非常快**"  
+		"chi"		"**提示:正确的站位,道路会打开的非常快**"  
 	}
 	"** Incorrect position! The pit will open SLOWER!! **"
 	{
@@ -194,11 +194,11 @@
 	}
 	"** STAGE 2: Investigation **"
 	{
-		"chi"		"**第二章：调查  汉化：小三@风云社**"   
+		"chi"		"**第二章:调查  汉化:小三@风云社**"   
 	}
 		"** STAGE 3: Escape **"
 	{
-		"chi"		"**第三章：逃离  汉化：小三@风云社**"  
+		"chi"		"**第三章:逃离  汉化:小三@风云社**"  
 	}
 	"** Left fence is breaking in 30s **"
 	{
@@ -222,7 +222,7 @@
 	}
 	"** Hint: key item owner must touch the locked door **"
 	{
-		"chi"		"**提示：钥匙持有者必须靠近门才能解锁**"   
+		"chi"		"**提示:钥匙持有者必须靠近门才能解锁**"   
 	}
 	"** Use the key to unlock it **"
 	{
@@ -468,9 +468,9 @@
 	{
 		"chi"		"**找到另一把钥匙**"
 	}
-	"** You must kill the temple creature before it kills you **"
+	"** KILL IT BEFORE IT KILLS YOU **"
 	{
-		"chi"		"**向BOSS开火!在它杀死你们之前干掉它!**"
+		"chi"		"**向邪神开枪!在它撞死你之前杀死它!**"
 	}
 	"** Someone got baited... **"
 	{

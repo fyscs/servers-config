@@ -2,7 +2,7 @@
 {
 	"*** CURRENT STAGE IS 1: Overworld ***"
 	{
-		"chi"		"**旅途一 ：新世界**"
+		"chi"		"**旅途一 :新世界**"
 	}
 	"*** DEFEND 25 SECONDS ***"
 	{
@@ -79,7 +79,7 @@
 	}
 	"*** CURRENT STAGE IS 2: The Nether ***"
 	{
-		"chi"		"**旅途二 ：地狱**"
+		"chi"		"**旅途二 :地狱**"
 	}
 	"*** WALL BREAKS IN 15 SEC ***"
 	{
@@ -164,11 +164,11 @@
 	}
 	"*** CURRENT STAGE IS 1: Overworld ***"
 	{
-		"chi"		"**旅途一：新世界**"
+		"chi"		"**旅途一:新世界**"
 	}
 	"Map made by Cuniczek"
 	{
-		"chi"		"**地图制作：Cuniczek  汉化：小三@风云社**"
+		"chi"		"**地图制作:Cuniczek  汉化:小三@风云社**"
 	}
 	"Thanks to Enviolinador & Kaesar"
 	{
@@ -190,7 +190,7 @@
 	}
 	"*** CURRENT STAGE IS 3: Jungle ***"
 	{
-		"chi"		"**旅途三：丛林**"
+		"chi"		"**旅途三:丛林**"
 	}
 	"*** YOU HAVE TO STAND ON ALL PRESSURE PLATES TO OPEN THE DOOR ***"
 	{
@@ -207,9 +207,7 @@
 	}
 	"*** NEXT DOOR OPENS IN 20 SECONDS ***"
 	{
-		"chi"		"**下一道石墙将在20秒后碎裂**  “墙后有断口,留意”"
-                "
-		"DoorCountDown"		"                "
+		"chi"		"**下一道石墙将在20秒后碎裂**"
 	}
 	"*** FIND A WAY TO OPEN THIS DOOR ***"
 	{
@@ -270,7 +268,7 @@
 	}
 	"*** CURRENT STAGE IS 4: The End ***"
 	{
-		"chi"		"**最后的旅程：末日之地**"
+		"chi"		"**最后的旅程:末日之地**"
 	}
 	"*** THROW EYE OF ENDER BY USING IT ***"
 	{
@@ -307,7 +305,7 @@
 	}
 	"*** PORTAL IS ACTIVATING IN 35 SECONDS ***"
 	{
-		"chi"		"**末日之地的传送门：35秒**"
+		"chi"		"**末日之地的传送门:35秒**"
 	}
 	"*** WE DID IT! WE ARE IN THE END! NOW... WE HAVE TO BREAK CRYSTALS AND... FIGHT... THE DRAGON ***"
 	{
@@ -385,6 +383,6 @@
 	}
 	"*** Map made by Cuniczek ***"
 	{
-		"chi"		"**地图制作：Cuniczek**"
+		"chi"		"**地图制作:Cuniczek**"
 	}
 }
