@@ -44,9 +44,9 @@
 	{
 		"chi"		"**电车将在15秒后离开**"
 	}
-	" * * The Electric Water will be disabled in 15 seconds! * *"
+	"* * The Electric Water will be disabled in 15 seconds! * *"
 	{
-		"chi"		"**电源将在15秒后关闭**"
+		"chi"		"**池水电流将在15秒后消失**"
 	}
 	"* * * Electric Water is Disabled * * *"
 	{
@@ -75,9 +75,5 @@
 	"* * * Zombie Nervegas Activated in 5 Seconds! * * *"
 	{
 		"chi"		"**僵尸还有5秒就要全部升天啦**"
-	}
-	"* * The Electric Water will be disabled in 15 seconds! * * "
-	{
-		"chi"		"**池水电流将在15秒后消失**"
 	}
 }

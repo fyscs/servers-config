@@ -2,7 +2,7 @@
 {
 	"** MAP MADE BY DARKOGRE AND PATRAO! **"
 	{
-		"chi"		"**地图制作：DARKOGRE和PATRAD		汉化：小三@风云社**"
+		"chi"		"**地图制作:DARKOGRE和PATRAD  汉化:小三@风云社**"
 	}
 	"** USE THE COMPUTERS TO OPEN THE DOOR **"
 	{
@@ -24,7 +24,7 @@
 	}
 	"** GO TO THE BATHROOM **"
 	{
-		"chi"		"**撤离至厕所                  “同一个时间，同一个厕所，干了兄弟萌，奥利给”**"
+		"chi"		"**撤离至厕所**“同一个时间,同一个厕所,干了兄弟萌,奥利给!”"
 	}
 	"** DOOR IS OPEN **"
 	{
@@ -45,28 +45,28 @@
 	}
 	"** The Elevator will leave in 10 seconds. Don't miss it! **"
 	{
-		"chi"		"**电梯10秒后上升                              “小心右边拐角的僵尸”**"
+		"chi"		"**电梯10秒后上升**“小心右边拐角的僵尸”"
 	}
 	"** HOLD 40 SECONDS **"
 	{
-		"chi"		"**死守40秒!                               “让我康康谁在刷传送点”**"
+		"chi"		"**死守40秒!**"
 		"DoorCountDown"		"40"
 	}
 	"** 5 SECONDS LEFT  **"
 	{
-		"chi"		"**还剩5秒！准备咕了**"
+		"chi"		"**死守5秒!**"
 	}
 	"** HOLD THE KITCHEN! DON'T LET ZOMBIES IN! **"
 	{
-		"chi"		"**守住厨房！别让僵尸进来**"
+		"chi"		"**守住厨房,别让僵尸进来**"
 	}
 	"** DOOR IS OPENING **"
 	{
-		"chi"		"**卧室门打开了！**"
+		"chi"		"**卧室门打开了**"
 	}
 	"** HOLD THE BEDROOM **"
 	{
-		"chi"		"**守住卧室！                             “大型搞基现场”**"
+		"chi"		"**守住卧室!**“大型搞基现场”"
 	}
 	"** MAKE YOUR WAY TO THE OFFICE **"
 	{
@@ -82,7 +82,7 @@
 	}
 	"** 30 SECONDS TO UNLOCK THE DOOR **"
 	{
-		"chi"		"**通往屋顶的门30秒后才打开                “急什么呢，门还没开呢，下去守到门关”**"
+		"chi"		"**通往屋顶的门30秒后才打开**“急啥呢,门还没开呢,下去守到门关”"
 		"DoorCountDown"		"30"
 	}
 	"** GET IN THE CHOPPA! **"
@@ -91,75 +91,11 @@
 	}
 	"** The Elevator will leave in 10 seconds. Dont miss it! **"
 	{
-		"chi"		"**电梯还有10秒离开，别错过了**"
+		"chi"		"**电梯还有10秒离开,别错过了**"
 		"DoorCountDown"		"10"
 	}
 	"** HOLD THE KITCHEN! DONT LET ZOMBIES IN! **"
 	{
-		"chi"		"**守住厨房，别让僵尸进来**"
-	}
-	"*** Map by : Airvulpes ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Difficulty : Disuse ***"
-	{
-		"chi"		"** **"
-	}
-	"**Stage 1**"
-	{
-		"chi"		"** **"
-	}
-	"**welcome to ze_fat_hours_escape**"
-	{
-		"chi"		"** **"
-	}
-	"**map by yinyuehzixi**"
-	{
-		"chi"		"** **"
-	}
-	"** Welcome to the mystical island of Kraznov Poopata **"
-	{
-		"chi"		"** **"
-	}
-	"**map by koyomaple**"
-	{
-		"chi"		"** **"
-	}
-	"*** STEAMGAMERS.COM ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Mapper: yardy ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Co-Mapper: starbucks ***"
-	{
-		"chi"		"** **"
-	}
-	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
-	{
-		"chi"		"** **"
-	}
-	"***Map ported by ??????***"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT MODE: EASY ***"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_SIT_CAELUM_PARADISUS **"
-	{
-		"chi"		"** **"
-	}
-	"** ROUTE ONE **"
-	{
-		"chi"		"** **"
-	}
-	">> Map by Taskuvaras <<"
-	{
-		"chi"		"** **"
+		"chi"		"**守住厨房,别让僵尸进来**"
 	}
 }
