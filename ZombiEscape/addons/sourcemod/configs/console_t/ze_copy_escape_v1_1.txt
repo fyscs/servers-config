@@ -1,0 +1,339 @@
+"Console_T"
+{
+	"#15 Seconds Left..#"
+	{
+		"chi"		"**15**"
+	}
+	"#30 Seconds Left..#"
+	{
+		"chi"		"**30**"
+	}
+	"#60 Seconds Left..#"
+	{
+		"chi"		"**60**"
+	}
+	"#120 Seconds Left..#"
+	{
+		"chi"		"**120**"
+	}
+	"#180 Seconds Left..#"
+	{
+		"chi"		"**180**"
+	}
+	"#Human victory in 240 seconds..#"
+	{
+		"chi"		"**生存240秒**"
+	}
+	"#Boss used Z_Defend !#"
+	{
+		"chi"		"**替身攻击**"
+	}
+	"***Zombie picked up Zombie Heal***"
+	{
+		"chi"		"**一名玩家捡起了[ZM]奶**"
+	}
+	"#Player picked up Earth item#"
+	{
+		"chi"		"**一名玩家捡起了土**"
+	}
+	"***Zombie picked up RailGun***"
+	{
+		"chi"		"**已经玩家捡起了**"
+	}
+	"#Defend until wall break#"
+	{
+		"chi"		"**防守直至道路畅通**"
+	}
+	"#Thank you for helping me and playing this map.. Enjoy#"
+	{
+		"chi"		"**感谢每一个游玩这张地图的人...祝!玩得开心!**"
+	}
+	"#Map Idea - ze_gris , ze_dreamin , ze_ffxii_westersand#"
+	{
+		"chi"		"**灵感来源-☆格丽斯☆梦之韵☆FF系列☆**"
+	}
+	"#Mapper - sweetS / Special Thanks - Reflelia , Airvulpes , p0p , kune / Particle - Airvulpes#"
+	{
+		"chi"		"**地图制作:sweetS  鸣谢:Reflelia,Airvulpes,p0p,kune  粒子效果:Airvulpes**"
+	}
+	"#ze_copy_escape#"
+	{
+		"chi"		"**地图:复刻逃亡  汉化:小三@风云社**"
+	}
+	"#Thanks to ZombieDen, Rss Server#"
+	{
+		"chi"		"**感谢Rss僵尸逃跑社区**"
+	}
+	"#Player picked up wind item#"
+	{
+		"chi"		"**一名玩家捡起了风**"
+	}
+	"#Player picked up fire item#"
+	{
+		"chi"		"**一名玩家捡起了火**"
+	}
+	"#Player picked up ice item#"
+	{
+		"chi"		"**一名玩家捡起了冰**"
+	}
+	"#Player picked up heal item#"
+	{
+		"chi"		"**一名玩家捡起了奶**"
+	}
+	"#Difficulty set on Zombie Mode..#"
+	{
+		"chi"		"**ZM关**"
+	}
+	"#Nade do more Damage..#"
+	{
+		"chi"		"**手雷能造成额外伤害**"
+	}
+	"#This is last defend?? ! Defend for the win!#"
+	{
+		"chi"		"**这是最后一战了吗?防守僵尸直到胜利!**"
+	}
+	"#70 seconds left#"
+	{
+		"chi"		"**70**"
+	}
+	"#60 seconds left#"
+	{
+		"chi"		"**60**"
+	}
+	"#50 seconds left#"
+	{
+		"chi"		"**50**"
+	}
+	"#40 seconds left#"
+	{
+		"chi"		"**40**"
+	}
+	"#30 seconds left#"
+	{
+		"chi"		"**30**"
+	}
+	"#20 seconds left#"
+	{
+		"chi"		"**20**"
+	}
+	"#10 seconds left#"
+	{
+		"chi"		"**10**"
+	}
+	"#Guardians will protect you..#"
+	{
+		"chi"		"**守护者会保护你!**"
+	}
+	"#You won difficulty Westersand..#"
+	{
+		"chi"		"**祝贺你!通过这与众不同的西沙!**"
+	}
+	"#Now you infinite ammo... defend#"
+	{
+		"chi"		"**无限弹药生效中...!**"
+	}
+	"#Bridge will break.. Fall Back !#"
+	{
+		"chi"		"**桥会断裂!别站在上面!**"
+	}
+	"#Prepare To Die!!!#"
+	{
+		"chi"		"**准备去死了吗?**"
+	}
+	"#Boss used Heal !#"
+	{
+		"chi"		"**血继**"
+	}
+	"#Boss used Blade !#"
+	{
+		"chi"		"**试炼之剑**"
+	}
+	"#Boss used Blizzard !#"
+	{
+		"chi"		"**梦水月天**"
+	}
+	"#Boss preparing skill...#"
+	{
+		"chi"		"**小学生正在选取技能**"
+	}
+	"#Boss used fire !#"
+	{
+		"chi"		"**灼烂莲华**"
+	}
+	"#Boss used Tempest Wing !#"
+	{
+		"chi"		"**风暴之翼**"
+	}
+	"#Defend until teleport activates#"
+	{
+		"chi"		"**防守直至传送生效**"
+	}
+	"#Teleporter enable in 5 seconds#"
+	{
+		"chi"		"**传送将于5秒后生效**"
+	}
+	"#Door will open in 15 seconds..#"
+	{
+		"chi"		"**大门将在15秒后打开**"
+	}
+	"#Defend 15 seconds#"
+	{
+		"chi"		"**防守15秒**"
+	}
+	"#Elevator leaves in 25 seconds#"
+	{
+		"chi"		"**电梯将在25秒后离开**"
+	}
+	"#Elevator leaves  in 10 seconds#"
+	{
+		"chi"		"**电梯将在10秒后离开**"
+	}
+	"#Elevator leave in 5 secounds left..#"
+	{
+		"chi"		"**电梯将在5秒后离开**"
+	}
+	"#Elevator leaves in 30 seconds#"
+	{
+		"chi"		"**电梯将在30秒后离开**"
+	}
+	"#Teleport enables in 30 seconds?? Defend!#"
+	{
+		"chi"		"**传送将于30秒后生效??坚持住!**"
+	}
+	"#Teleport enable in 5 secounds left#"
+	{
+		"chi"		"**传送将于5秒后生效**"
+	}
+	"#Don't let zombies touch the tower??#"
+	{
+		"chi"		"**别让僵尸碰到塔楼!**"
+	}
+	"#ADMIN# Pressed Kill All Button.."
+	{
+		"chi"		"**全体处死**"
+	}
+	"# FAILED #"
+	{
+		"chi"		"**失败**"
+	}
+	"#Difficulty set on Westersand..#"
+	{
+		"chi"		"**西沙载入**"
+	}
+	"#Floor breaks in 15 seconds#"
+	{
+		"chi"		"**地板将在15秒后碎裂**"
+	}
+	"#Teleport activates in 5 seconds#"
+	{
+		"chi"		"**传送将于5秒后生效**"
+	}
+	"***Zombie picked up Nuke***"
+	{
+		"chi"		"**一名玩家捡起了[ZM]核弹**"
+	}
+	"#Difficulty set on Gris..#"
+	{
+		"chi"		"**格丽斯载入**"
+	}
+	"#Difficulty set on Dreamin..#"
+	{
+		"chi"		"**梦之韵载入**"
+	}
+	"#What the fuck!? The bomb didn't work.. wait some more time!#"
+	{
+		"chi"		"**甘霖娘!?为什么炸弹没爆炸..?再等等!**"
+	}
+	"#Dreaming explodes in 45 seconds?? defend!#"
+	{
+		"chi"		"**梦境将在45秒后消逝**"
+	}
+	"#Teleport activates in 120sec..#"
+	{
+		"chi"		"**传送将于120秒后生效**"
+	}
+	"#Teleport activates in 5sec..#"
+	{
+		"chi"		"**传送将于5秒后生效**"
+	}
+	"#Teleport activates in 90sec..#"
+	{
+		"chi"		"**传送将于90秒后生效**"
+	}
+	"#Teleport activates in 60sec..#"
+	{
+		"chi"		"**传送将于60秒后生效**"
+	}
+	"#Teleport activates in 30sec..#"
+	{
+		"chi"		"**传送将于30秒后生效**"
+	}
+	"#Dreamin explodes in 10 seconds#"
+	{
+		"chi"		"**梦境将在10秒后消逝**"
+	}
+	"#You won difficulty Dreamin..#"
+	{
+		"chi"		"**祝贺你!通过了这与众不同的梦之韵!**"
+	}
+	"***Zombie picked up Gravity***"
+	{
+		"chi"		"**一名玩家捡起了[ZM]黑洞**"
+	}
+	"#Boss used Zombie Teleporter#"
+	{
+		"chi"		"**替身攻击**"
+	}
+	"#Nade do more Damage#"
+	{
+		"chi"		"**手雷能造成额外伤害**"
+	}
+	"#Boss used Fire#"
+	{
+		"chi"		"**灼烂炎帝**"
+	}
+	"#Boss used Wind#"
+	{
+		"chi"		"**月天鸿舞**"
+	}
+	"#Boss used Ice#"
+	{
+		"chi"		"**氷茧星霜**"
+	}
+	"#Boss used Crystal Rain#"
+	{
+		"chi"		"**冰天百花葬**"
+	}
+	"#Boss used Jumper#"
+	{
+		"chi"		"**十字裂翼**"
+	}
+	"#Boss used Rotating Blade#"
+	{
+		"chi"		"**七彩利刃**"
+	}
+	"# Jump push enables in 30 seconds#"
+	{
+		"chi"		"**跳跃辅助力场将在30秒后生效**"
+	}
+	"#Last defend for 45 seconds#"
+	{
+		"chi"		"**最后一个守点了,坚持45秒!**"
+	}
+	"#You won difficulty Gris..#"
+	{
+		"chi"		"**祝贺你!通过了这与众不同的格丽斯!**"
+	}
+	"#Door opens in 45 seconds#"
+	{
+		"chi"		"**大门将在45秒后打开**"
+	}
+	"#Passage opens in 30 seconds#"
+	{
+		"chi"		"**通道将在30秒后打开**"
+	}
+	"#FALL BACK#"
+	{
+		"chi"		"**撤退**"
+	}
+}

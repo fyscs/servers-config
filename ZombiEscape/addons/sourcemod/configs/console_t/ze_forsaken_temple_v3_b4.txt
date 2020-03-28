@@ -2,15 +2,15 @@
 {
 	"** WARM UP - 60 SEC **"
 	{
-		"chi"		"**热身：60秒**" 
+		"chi"		"**热身:60秒**" 
 	}
 	"** TIP: one player must touch the closed door to trigger **"
 	{
-		"chi"		"**提示：必须有一名玩家碰到门才可触发**"   
+		"chi"		"**提示:必须有一名玩家碰到门才可触发**"   
 	}
 	"** TIP: most zombie teleports are quick so do not overdefend! **"
 	{
-		"chi"		"**提示：大多数僵尸在门开后会很快传送**"     
+		"chi"		"**提示:大多数僵尸在门开后会很快传送**"     
 	}
 	"** TIP: search for key items when the console tells you to do so **"
 	{
@@ -26,7 +26,7 @@
 	}
 	"** STAGE 1: Underground **"
 	{
-		"chi"		"**第一章：探索  汉化：小三@风云社**"   
+		"chi"		"**第一章:探索**"   
 	}
 	"** Right fence is breaking in 30s **"
 	{
@@ -58,11 +58,11 @@
 	}
 	"** Hint: The pit will open faster if you place key items in correct position **"
 	{
-		"chi"		"**提示：正确的站位,道路会打开的非常快**"  
+		"chi"		"**提示:正确的站位,道路会打开的非常快**"  
 	}
 	"** Incorrect position! The pit will open SLOWER!! **"
 	{
-		"chi"		"**错误的站位,你们必须防守更长时间！**"
+		"chi"		"**错误的站位,你们必须防守更长时间!**"
 	}
 	"** Pit is opening in 60s **"
 	{
@@ -78,15 +78,15 @@
 	}
 	"** Tumult - use heal **"
 	{
-		"chi"		"**舞爪**  “使用治疗”"  
+		"chi"		"**天魔骸手**“使用治疗”"  
 	}
 	"** Servant - defend zombies from now **"
 	{
-		"chi"		"**仆人**  “BOSS召唤了它的小弟”"   
+		"chi"		"**替身攻击**“BOSS召唤了它的小弟”"   
 	}
 	"** Landslide - avoid red platform **"
 	{
-		"chi"		"**山蹦**  “远离红色特效”"   
+		"chi"		"**山蹦**“远离红色特效”"   
 	}
 	"** Boss enrage! You are too slow! **"
 	{
@@ -94,11 +94,11 @@
 	}
 	"** Bury - look up **"
 	{
-		"chi"		"**埋葬**  “天坠”"
+		"chi"		"**埋葬**“天坠”"
 	}
 	"** Weight of the Land - move away **"
 	{
-		"chi"		"**重力**  “散开”"
+		"chi"		"**爆流霰箭弾**“散开”"
 	}
 	"** Boss defeated! RUN! **"
 	{
@@ -146,27 +146,27 @@
 	}
 	"** Weight of the Land **"
 	{
-		"chi"		"**重力**  “散开”"  
+		"chi"		"**爆流霰箭弾**“散开”"  
 	}	
 	"** Sink **"
 	{
-		"chi"		"**陷落**  “紧贴特效中间边缘”"  
+		"chi"		"**红莲地狱**“紧贴特效中间边缘”"  
 	}
 	"** Vortex **"
 	{
-		"chi"		"**旋涡**"  
+		"chi"		"**破魔结界**"  
 	}
 	"** Ricochet - jump **"
 	{
-		"chi"		"**重击**  “硬抗或跳跃”"    
+		"chi"		"**天马流星拳**“硬抗或跳跃抵抗”"    
 	}
 	"** Vampire - stop shooting **"
 	{
-		"chi"		"**吸血**  “反伤”"        
+		"chi"		"**血继限界**“反伤,停枪”"        
 	}
 	"** Divine Tears - crouch **"
 	{
-		"chi"		"**圣泪**  “蹲下”"        
+		"chi"		"**冰天百花葬**“蹲下”"        
 	}
 	"** Boss defeated **"
 	{
@@ -194,11 +194,11 @@
 	}
 	"** STAGE 2: Investigation **"
 	{
-		"chi"		"**第二章：调查  汉化：小三@风云社**"   
+		"chi"		"**第二章:调查**"   
 	}
 		"** STAGE 3: Escape **"
 	{
-		"chi"		"**第三章：逃离  汉化：小三@风云社**"  
+		"chi"		"**第三章:逃离**"  
 	}
 	"** Left fence is breaking in 30s **"
 	{
@@ -222,7 +222,7 @@
 	}
 	"** Hint: key item owner must touch the locked door **"
 	{
-		"chi"		"**提示：钥匙持有者必须靠近门才能解锁**"   
+		"chi"		"**提示:钥匙持有者必须靠近门才能解锁**"   
 	}
 	"** Use the key to unlock it **"
 	{
@@ -242,15 +242,15 @@
 	}
 	"** Dancing Claw - prepare using heal **"
 	{
-		"chi"		"**舞爪**  “使用治疗”"
+		"chi"		"**天魔骸手**“使用治疗”"
 	}
 	"** Ricochet **"
 	{
-		"chi"		"**重击**  “硬抗或跳跃”"   
+		"chi"		"**天马流星拳**“硬抗或跳跃”"   
 	}
 	"** Swallow - stay back **"
 	{
-		"chi"		"**黑洞**  “按住S”"
+		"chi"		"**鸿舞莲华**“按住S”"
 	}
 	"** You have failed to escape from the temple **"
 	{
@@ -298,23 +298,23 @@
 	}
 	"** Dancing Claw **"
 	{
-		"chi"		"**舞爪**  “使用治疗”"   
+		"chi"		"**天魔骸手**“使用治疗”"   
 	}	
 	"** Vampire **"
 	{
-		"chi"		"**反伤**  “停止射击”"  
+		"chi"		"**血继限界**“反伤,停枪”"  
 	}	
 	"** Divine Tears **"
 	{
-		"chi"		"**圣泪**  “蹲下”" 
+		"chi"		"**冰天百花葬**“蹲下”" 
 	}	
 	"** Force **"
 	{
-		"chi"		"**推力**  “按住W”" 
+		"chi"		"**月天鸿舞**“按住W”" 
 	}	
 	"** Swallow **"
 	{
-		"chi"		"**黑洞**  “按住S”"  
+		"chi"		"**鸿舞莲华**“按住S”"  
 	}		
 	"** You are too late. Boss enrage soon.. **"
 	{
@@ -468,9 +468,9 @@
 	{
 		"chi"		"**找到另一把钥匙**"
 	}
-	"** You must kill the temple creature before it kills you **"
+	"** KILL IT BEFORE IT KILLS YOU **"
 	{
-		"chi"		"**向BOSS开火!在它杀死你们之前干掉它!**"
+		"chi"		"**向邪神开枪!在它撞死你之前杀死它!**"
 	}
 	"** Someone got baited... **"
 	{

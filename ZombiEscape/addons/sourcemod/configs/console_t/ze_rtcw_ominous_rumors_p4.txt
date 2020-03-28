@@ -10,15 +10,15 @@
 	}
 	"# MAP BY JB_GAMBLE #"
 	{
-		"chi"		"**地图作者:JB_GAMBLE**"
+		"chi"		"**地图作者:JB_GAMBLE  汉化:小三@风云社**"
 	}
 	"# MISSION 1 - OMINOUS RUMORS #"
 	{
-		"chi"		"**任务1:不详的谣言 **"
+		"chi"		"**任务:不详的谣言**"
 	}
 	"# PART 1 - ESCAPE! #"
 	{
-		"chi"		"**第一关：逃脱		汉化：小三@风云社**"
+		"chi"		"**第一关：逃脱**"
 	}
 	"<!!!> HOLD THIS POSITION <!!!>"
 	{
@@ -71,7 +71,7 @@
 	}
 	"<!!!> ZOMBIE'S DETECTED - YOU LOSE <!!!>"
 	{
-		"chi"		"**检测到僵尸，人类失败**"
+		"chi"		"**检测到僵尸,人类失败!**"
 	}
 	"<!!!> PART 1 - ESCAPE! PASSED <!!!>"
 	{
@@ -79,7 +79,7 @@
 	}
 	"# PART 2 - CASTLE KEEP #"
 	{
-		"chi"		"**第二关：德意志魔仙堡		汉化：小三@风云社**"
+		"chi"		"**第二关:德意志魔仙堡**"
 	}
 	"# HOLD HERE #"
 	{
@@ -125,7 +125,7 @@
 	}
 	"# UNLIMITED AMMO - 14 SECONDS #"
 	{
-		"chi"		"**无限子弹：14秒**"
+		"chi"		"**无限子弹:14秒**"
 	}
 	"<!!!> DOOR CLOSING IN 15 SECONDS <!!!>"
 	{
@@ -142,7 +142,7 @@
 	}
 	"# PART 3 - TRAM RIDE #"
 	{
-		"chi"		"**第三关:电车之狼		汉化：小三@风云社**"
+		"chi"		"**第三关:电车之狼**"
 	}
 	"# TRAM ON ITS WAY #"
 	{
@@ -230,7 +230,7 @@
 	}
 	"# ITEM RESTRICTION - BLACK MAGIC #"
 	{
-		"chi"		"**限制项目：古娜拉黑暗魔法**"
+		"chi"		"**限制:古娜拉黑暗魔法**"
 	}
 	"<!!!> 60 SECONDS <!!!>"
 	{
@@ -243,15 +243,15 @@
 	}
 	"# ITEM RESTRICTION - BAZOOKA #"
 	{
-		"chi"		"**限制项目：火箭炮**"
+		"chi"		"**限制项目:火箭炮**"
 	}
 	"# ITEM RESTRICTION - SANDBAG WALL #"
 	{
-		"chi"		"**限制项目：沙袋墙**"
+		"chi"		"**限制项目:沙袋墙**"
 	}
 	"# MAGIC - FREEZE #"
 	{
-		"chi"		"**古娜拉黑暗秘法--乌拉呼啦--魔法冻结**"
+		"chi"		"**古娜拉黑暗秘法-魔法冻结**"
 	}
 	"^^^ Map By: BillSmauz ^^^"
 	{
@@ -263,11 +263,11 @@
 	}
 	"# MG42 AMMO #"
 	{
-		"chi"		"**MG42机枪弹药**"
+		"chi"		"**MG42机枪弹药装载**"
 	}
 	"# MG42 AMMO LOADED #"
 	{
-		"chi"		"**MG42机枪弹药装载中**"
+		"chi"		"**MG42机枪部署完毕**"
 	}
 	"# FLAMETHROWER #"
 	{
@@ -283,7 +283,7 @@
 	}
 	"# ITEM RESTRICTION - UNLIMITED AMMO #"
 	{
-		"chi"		"**限制项目：无限弹药**"
+		"chi"		"**限制:无限弹药**"
 	}
 	"<!!!> GATE OPEN IN 30 SECONDS <!!!>"
 	{
@@ -327,7 +327,7 @@
 	}
 	"# ITEM RESTRICTION - FLAMETHROWER #"
 	{
-		"chi"		"** **"
+		"chi"		"**限制:喷火器**"
 	}
 	"sync_version"
 	{

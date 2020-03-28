@@ -10,7 +10,7 @@
 	}
 	"Map made by Puklica & Cuniczek"
 	{
-		"chi"		"**地图作者:[Puklica][Cuniczek]  地图汉化:大明**"
+		"chi"		"**地图作者：[Puklica][Cuniczek]  地图汉化：大明**"
 	}
 	">>> |LEVEL 1| <<<"
 	{
@@ -35,17 +35,17 @@
 	"Hold for 15 seconds."
 	{
 		"chi"		"**守住15秒**"
-		"DoorCountdown"		"15"
+		"DoorCountDown"		"15"
 	}
 	"Resist for 25 seconds."
 	{
 		"chi"		"**坚守30秒**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"Resist for 20 seconds."
 	{
 		"chi"		"**再守25秒**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"Hold here until something happens!"
 	{
@@ -71,7 +71,7 @@
 	{
 		"chi"		"**守住僵尸直到墙壁破碎**"
 	}
-	"Fall back!"
+	"FALL BACK!"
 	{
 		"chi"		"**老司机提醒您赶快溜！**"
 	}
@@ -106,12 +106,12 @@
 	"We are trapped! Resist!"
 	{
 		"chi"		"**我们被困住了！守住28秒**"
-		"DoorCountdown"		"28"
+		"DoorCountDown"		"28"
 	}
 	"Fall back we can walk across the door."
 	{
 		"chi"		"**往后退.我们可以从门上过去**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"There is no way around."
 	{
@@ -120,7 +120,7 @@
 	"Well have to enter the boiler. Resist!"
 	{
 		"chi"		"**我们得从热水器撤离.守住25秒！**"
-		"DoorCountdown"		"25"
+		"DoorCountDown"		"25"
 	}
 	"We can enter through that hole! Fall back!"
 	{
@@ -133,7 +133,7 @@
 	"Final doors are going to close in 30 seconds! Resist!"
 	{
 		"chi"		"**最后的大门30秒后关闭，守住僵尸！**"
-		"DoorCountdown"		"30"
+		"DoorCountDown"		"30"
 	}
 	"You have won the map! Congratulations!"
 	{
@@ -146,5 +146,57 @@
 	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"**服务器即将关闭，请更新你的游戏**"
+	}
+	"We'll have to roll down the toilet paper to safely climb down."
+	{
+		"chi"		"我们需要从厕纸上缓慢往下爬"
+	}
+	"We'll have to jump outside and walk across the mirror."
+	{
+		"chi"		"我们必须穿过这面镜子到达对面"
+	}
+	"That's it! Break the shelf support."
+	{
+		"chi"		"打碎支撑板子的玻璃柱"
+	}
+	"We'll have to enter the boiler. Resist!"
+	{
+		"chi"		"守住！等待打开热水器缺口"
+	}
+	"*** ... ***"
+	{
+		"chi"		"** **"
+	}
+	"Map made by Ripsaw"
+	{
+		"chi"		"** **"
+	}
+	"**Map made by Eugenio *Motanum* Roman**"
+	{
+		"chi"		"** **"
+	}
+	"**Contact me at eugenio.motanum91 AT gmail.com**"
+	{
+		"chi"		"** **"
+	}
+	"***Selecting default difficulty****"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to [PF] PlagueFest for their support!**"
+	{
+		"chi"		"** **"
+	}
+	"***Waiting for players****"
+	{
+		"chi"		"** **"
+	}
+	"***Reseting game in 20 seconds****"
+	{
+		"chi"		"20秒后重置游戏"
+	}
+	"*** ze_Chrono_Trigger. ***"
+	{
+		"chi"		"** **"
 	}
 }

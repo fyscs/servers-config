@@ -2,7 +2,7 @@
 {
 	"*** Current level: NORMAL  *** Escape: VERYBAD CORP. LABS ***"
 	{
-		"chi"		"**当前难度：萌新      任务:逃离实验室 **"
+		"chi"		"**当前难度:萌新  任务:逃离实验室 **"
 	}
 	"*Doors opening in 7 seconds.*"
 	{
@@ -22,19 +22,19 @@
 	}
 	"*WARNING: WEAPON SPAMMING WILL BE PUNISHED.*"
 	{
-		"chi"		"**地图制作：ENVIOLINADOR		地图翻译:小三@风云社**"
+		"chi"		"**地图制作:ENVIOLINADOR  汉化:小三@风云社**"
 	}
 	"*Hallway door opening in 10 seconds*"
 	{
-		"chi"		"**走廊大门：10秒 **"
+		"chi"		"**走廊大门:10秒 **"
 	}
 	"*Storage door opening in 15 seconds*"
 	{
-		"chi"		"**仓库大门：15秒 **"
+		"chi"		"**仓库大门:15秒 **"
 	}
 	"*Water deposit door opening in 15 seconds*"
 	{
-		"chi"		"**水池大门：15秒 **"
+		"chi"		"**水池大门:15秒 **"
 		"DoorCountdown"		"15"
 	}
 	"*TNT will explode in 7 seconds.*"
@@ -43,85 +43,85 @@
 	}
 	"*Water deposit door broken. Go though the vents!*"
 	{
-		"chi"		"**僵尸下水了，注意保护自己的菊花**"
+		"chi"		"**僵尸下水了,注意保护自己的菊花!**"
 	}
 	"*Zombies detected on office area. Defense mode activated.*"
 	{
-		"chi"		"**僵尸已进入办公室，防御系统已打开 **"
+		"chi"		"**僵尸已进入办公室,防御系统已打开!**"
 	}
 	"*Garage door opening in 38 seconds*"
 	{
-		"chi"		"**车库大门：38秒 **"
+		"chi"		"**车库大门:38秒**"
 		"DoorCountdown"		"38"
 	}
 	"*Zombies detected on Elevator Nr. 3. Sealing door.*"
 	{
-		"chi"		"**僵尸抵达3号电梯门，防御系统启动 **"
+		"chi"		"**僵尸抵达3号电梯门,防御系统启动!**"
 	}
 	"*Office doors opening in 15 seconds*"
 	{
-		"chi"		"**办公室大门：15秒 **"
+		"chi"		"**办公室大门:15秒 **"
 	}
 	"*Zombies detected on Elevator Nr. 1. Sealing door.*"
 	{
-		"chi"		"**僵尸抵达1号电梯门，防御系统启动 **"
+		"chi"		"**僵尸抵达1号电梯门,防御系统启动!**"
 	}
 	"*Open the bunker door while others defend the spot.*"
 	{
-		"chi"		"**打开掩体门 其他人掩护 **"
+		"chi"		"**打开掩体门,其他人掩护!**"
 	}
 	"*Bunker door opening in 10 seconds*"
 	{
-		"chi"		"**魔仙堡的门将在10秒后打开 **"
+		"chi"		"**魔仙堡的门将在10秒后打开**"
 	}
 	"*Garage Door is opening. RETREAT!*"
 	{
-		"chi"		"**车库大门已打开 溜了溜了! **"
+		"chi"		"**车库大门已打开!可以溜了! **"
 	}
 	"*The truck will leave in 15 seconds. Resist!*"
 	{
-		"chi"		"**卡车将在15秒后离开，快上车 **"
+		"chi"		"**公交车将在15秒后离开**“没时间解释了,快上车!”"
 		"DoorCountdown"		"15"
 	}
 	"*Exit door opening in 5 seconds*"
 	{
-		"chi"		"**安全门5秒后打开 **"
+		"chi"		"**安全门5秒后打开**"
 	}
 	"**Flamethrower has been picked up. Press +Use (E) to activate**"
 	{
-		"chi"		"**喷火器被拾起 按'E'来使用 **"
+		"chi"		"**喷火器被拾起 按'E'来使用**"
 	}
 	"**Fuel lasts about 10 seconds. **"
 	{
-		"chi"		"**喷火器可以把僵尸射个十秒 **"
+		"chi"		"**喷火器可以把僵尸射个十秒**"
 	}
 	"*The door has locked! Resist for 30 seconds until it closes.*"
 	{
-		"chi"		"**门被锁住了 防守30秒直到大门关闭 **"
+		"chi"		"**门被锁住了,防守30秒直到大门关闭!**"
 	}
 	"**Rocket launcher picked up. Press +USE (E) to activate.**"
 	{
-		"chi"		"**击退包被拾起 按'E'来使用[只有一发] **"
+		"chi"		"**沙皇炸弹被拾起 按'E'来使用[只有一发] **"
 	}
 	"**Rocket launcher charging**"
 	{
-		"chi"		"**击退包上膛 **"
+		"chi"		"**沙皇炸弹准备就绪**"
 	}
 	"**It only has one use**"
 	{
-		"chi"		"**只有1发哦 **"
+		"chi"		"**只有一发哦**"
 	}
 	"*The door is closing! Use the ladder to go to the roof.*"
 	{
-		"chi"		"**大门关闭 使用梯子到达房顶 **"
+		"chi"		"**大门关闭,使用梯子到达房顶!**"
 	}
 	"*We will have to jump to the balconies to escape!*"
 	{
-		"chi"		"**我们需要从阳台跳下 **"
+		"chi"		"**我们需要从阳台跳下**"
 	}
 	"*Main lab's doors opening in 5 seconds.*"
 	{
-		"chi"		"**实验室大门：5秒 **"
+		"chi"		"**实验室大门:5秒 **"
 	}
 	"*Zombies must take the back-exit door.*"
 	{
@@ -129,63 +129,63 @@
 	}
 	"*Escape elevator area opening in 10 seconds.*"
 	{
-		"chi"		"**逃生电梯区域10秒后打开 **"
+		"chi"		"**逃生电梯区域10秒后打开**"
 	}
 	"*There's no power! One human must activate it through the vent..*"
 	{
-		"chi"		"**这里没有能源，需要一个人穿过通道打开电源 **"
+		"chi"		"**这里没有能源,需要一个人穿过通道打开电源!**"
 	}
 	"*Activate the Elevator and open the dock's door.*"
 	{
-		"chi"		"**激活逃生电梯和打开船坞大门 **"
+		"chi"		"**激活逃生电梯和打开船坞大门**"
 	}
 	"*Dock's door opening in 5 seconds..*"
 	{
-		"chi"		"**船坞大门：5秒 **"
+		"chi"		"**船坞大门:5秒**"
 	}
 	"*Elevator is coming! Resist until you leave!*"
 	{
-		"chi"		"**电梯正在上升 防御电梯直到三楼! **"
+		"chi"		"**电梯正在上升,防御电梯直到三楼!**"
 	}
 	"*** JUMP INTO THE ELEVATOR ***"
 	{
-		"chi"		"**跳进电梯!!!!!! **"
+		"chi"		"**跳进电梯**"
 	}
 	"*Defend at Transporter I (1) for 25 seconds.*"
 	{
-		"chi"		"**守住1号电梯25秒 **"
+		"chi"		"**守住一号电梯25秒**"
 	}
 	"*Transporter I leaving in 5 seconds.*"
 	{
-		"chi"		"**1号电梯5秒后离开 **"
+		"chi"		"**一号电梯5秒后离开**"
 	}
 	"*Transporter II leaving in 5 seconds.*"
 	{
-		"chi"		"**2号电梯5秒后离开 **"
+		"chi"		"**二号电梯5秒后离开**"
 	}
 	"*The zombies are trying to get on our elevator. Shoot!!!*"
 	{
-		"chi"		"**僵尸进来了! 射他! **"
+		"chi"		"**僵尸进来了! 射他!**"
 	}
 	"*Keep the zombies out of this roof so that they are killed!*"
 	{
-		"chi"		"**抵御僵尸确保他们不会登上屋顶 **"
+		"chi"		"**抵御僵尸确保他们不会登上屋顶**"
 	}
 	"*The whole facility explodes in 7 seconds!*"
 	{
-		"chi"		"**整座设施将在7秒后爆炸 **"
+		"chi"		"**整座设施将在7秒后爆炸**"
 	}
 	"*** NORMAL MODE COMPLETED ***"
 	{
-		"chi"		"**已通关萌新难度！**"
+		"chi"		"**已通关萌新难度**"
 	}
 	"*** NEXT LEVEL IS HARD ***"
 	{
-		"chi"		"**下一难度：咸鱼 **"
+		"chi"		"**下一难度:咸鱼**"
 	}
 	"*** Current level: HARD  *** Escape: RIVER POWERSTATION ***"
 	{
-		"chi"		"**当前难度:咸鱼      路线:发电站 **"
+		"chi"		"**当前难度:咸鱼  路线:发电站**"
 	}
 	"** Mojonero's PenisGun has been picked up. **"
 	{
@@ -193,27 +193,27 @@
 	}
 	"*Speed weapon has been picked up. It grants a slight speed boost.*"
 	{
-		"chi"		"**加速枪被拾起  **"
+		"chi"		"**加速枪被拾起 **"
 	}
 	"*Emergency elevator activates in 12 seconds*"
 	{
-		"chi"		"**电梯12秒后离开 **"
+		"chi"		"**电梯12秒后离开**"
 	}
 	"*Heal has been picked up. Press +USE (E) to activate.*"
 	{
-		"chi"		"**奶已被拾起 **"
+		"chi"		"**奶被拾起**"
 	}
 	"*Leave this building by going to the lab. vault.*"
 	{
-		"chi"		"**进入实验室离开这座建筑物 **"
+		"chi"		"**进入实验室离开这座建筑物**"
 	}
 	"*It has a 90 seconds cooldown.*"
 	{
-		"chi"		"**它有90秒的冷却时间 **"
+		"chi"		"**它有90秒的冷却时间**"
 	}
 	"*Vault area opening in 20 seconds.*"
 	{
-		"chi"		"**拱门区域20秒后打开 **"
+		"chi"		"**拱门区域:20秒**"
 	}
 	"*Door opening in 15 seconds. RESIST!*"
 	{
@@ -222,23 +222,23 @@
 	}
 	"*Ammo Box has been picked up. Press +USE (E) to activate.*"
 	{
-		"chi"		"**弹药箱被拾起 **"
+		"chi"		"**弹药箱被拾起**"
 	}
 	"*The doors are now open. LEAVE!!!*"
 	{
-		"chi"		"**咕咕咕**"
+		"chi"		"**咕了**"
 	}
 	"*Powerstation doors opening in 7 seconds*"
 	{
-		"chi"		"**能源站大门：7秒 **"
+		"chi"		"**能源站大门:7秒**"
 	}
 	"*Go inside the powerstation's office!*"
 	{
-		"chi"		"**进入能源站 **"
+		"chi"		"**进入能源站**"
 	}
 	"*Activate the bridge to enter the engines area*"
 	{
-		"chi"		"**激活大桥进入引擎室 **"
+		"chi"		"**激活大桥进入引擎室**"
 	}
 	"*** DEFEND THE ENTRANCE UNTIL THE BRIDGE DEPLOYS ***"
 	{
@@ -246,113 +246,113 @@
 	}
 	"*Deploying bridge. Resist untill it's down!!!*"
 	{
-		"chi"		"**桥正在下降，撤退! **"
+		"chi"		"**桥正在下降,撤退! **"
 	}
 	"*Main reactor reached. Break the glass to go into emergency mode!*"
 	{
-		"chi"		"**到达发电室，破坏光柱让它进入紧急模式 **"
+		"chi"		"**到达发电室,破坏光柱让它进入紧急模式!**"
 	}
 	"*Calling the escape boat. Resist untill it comes! (30 sec)*"
 	{
-		"chi"		"**友谊的小船还有30秒到达 **"
+		"chi"		"**友谊的小船还有30秒到达**"
 		"DoorCountdown"		"30"
 	}
 	"*The boat is here. Get on it!!!*"
 	{
-		"chi"		"**友谊的小船已到达，快上船 **"
+		"chi"		"**友谊的小船已到达,快上船!**"
 	}
 	"*** HARD MODE COMPLETED ***"
 	{
-		"chi"		"**已通关咸鱼难度！**"
+		"chi"		"**已通关咸鱼难度**"
 	}
 	"*** NEXT LEVEL IS EXTREME ***"
 	{
-		"chi"		"**下一难度：萌新司机 **"
+		"chi"		"**下一难度:萌新司机**"
 	}
 	"*** Current level: EXTREME  *** Escape: EVIL CORP. HEADQUARTERS ***"
 	{
-		"chi"		"**当前难度：萌新司机      路线:实验总部 **"
+		"chi"		"**当前难度:萌新司机  路线:实验总部 **"
 	}
 	"*Resist for 10 seconds. Other people may come!*"
 	{
-		"chi"		"**等待10秒,后面貌似还有很多咸鱼**"
+		"chi"		"**等待10秒,后面貌似还有很多咸鱼!**"
 	}
 	"*We have waited long enough! RUN!*"
 	{
-		"chi"		"**我们等得足够长了！溜了溜了！**"
+		"chi"		"**我们等得足够长了,溜了!**"
 	}
 	"** Raivb1000 Prototype door has been unlocked! **"
 	{
-		"chi"		"**终极大门被打开 **"
+		"chi"		"**终极大门被打开**"
 	}
 	"*The door will open in 20 seconds. Hold and then resist untill it closes.*"
 	{
-		"chi"		"**门20秒后打开，守住 **"
+		"chi"		"**门20秒后打开**"
 	}
 	"** Raivb1000 prototype has been picked up. Press E (+USE) to activate. **"
 	{
-		"chi"		"**终极被拾起 **"
+		"chi"		"**终极被拾起**"
 	}
 	"** WARNING: It only has one use and affects zombies and killer robots. **"
 	{
-		"chi"		"**警告:终极只能使用一次，请对BOSS使用 **"
+		"chi"		"**提示:终极只能使用一次,只能对BOSS使用!**"
 	}
 	"*Landmine picked up. Jump and press +USE (E) to activate.*"
 	{
-		"chi"		"**地雷被拾起 **"
+		"chi"		"**地雷被拾起**"
 	}
 	"*Evil Corp. Headquarters' doors opening in 10 seconds.*"
 	{
-		"chi"		"**实验室总部大门：10秒 **"
+		"chi"		"**实验室总部大门:10秒**"
 	}
 	"*Doors close in 7 seconds. RESIST!!!*"
 	{
-		"chi"		"**大门7秒后关闭 **"
+		"chi"		"**大门7秒后关闭**"
 	}
 	"*Elevator leaves in 10 seconds.*"
 	{
-		"chi"		"**电梯10秒后离开 **"
+		"chi"		"**电梯:10秒**"
 		"DoorCountdown"		"10"
 	}
 	"** GO! **"
 	{
-		"chi"		"**撤退! **"
+		"chi"		"**撤退!**"
 	}
 	"*Use the computers to open the door!*"
 	{
-		"chi"		"**触发六台电脑以打开门 **"
+		"chi"		"**触发六台电脑以打开门**"
 	}
 	"*Security system accesed: opening doors in 5 seconds. RESIST!*"
 	{
-		"chi"		"**安全系统已进入，门5秒后打开，小心乘坐电梯上来的僵尸 **"
+		"chi"		"**安全系统已进入,门5秒后打开,小心乘坐电梯上来的僵尸!**"
 	}
 	"*Basic defensive mode activated: Laser and Landmines*"
 	{
-		"chi"		"**基本攻击模式:激光&地雷 **"
+		"chi"		"**基本攻击模式:激光&地雷**"
 	}
 	"** TIP: He Grenades deal a lot of damage to the robot.**"
 	{
-		"chi"		"**提示:手雷能对它造成大量伤害，请不要吝啬你们手中的雷 **"
+		"chi"		"**提示:手雷能对它造成大量伤害,请不要吝啬你们手中的雷!**"
 	}
 	"*Basic offensive mode activated: 'Fist crusher' module loaded*"
 	{
-		"chi"		"**基本攻击模式:绞肉机 **"
+		"chi"		"**基本攻击模式:绞肉机**"
 	}
 	"*Offensive module loaded: Laser meat slasher*"
 	{
-		"chi"		"**攻击模式:激光 **"
+		"chi"		"**攻击模式:激光**"
 	}
 	"*Offensive module loaded: Napalm shower module.*"
 	{
-		"chi"		"**攻击模式:凝固汽油弹 **"
+		"chi"		"**攻击模式:凝固汽油弹**"
 	}
 	"*Last offensive module activated: Plasma cannon module loaded*"
 	{
-		"chi"		"**最终攻击模式:等离子大炮!!! **"
+		"chi"		"**最终攻击模式:等离子大炮**"
 	}
 	"*Zombies detected on Elevator Nr. 2. Sealing door.*"
 	{
-		"chi"		"**僵尸抵达2号电梯，防御系统启动 **"
+		"chi"		"**僵尸抵达二号电梯,防御系统启动**"
 	}
 	"*Spacesuit has been taken. It lowers gravity by a 20%.*"
 	{
@@ -360,164 +360,164 @@
 	}
 	"*Defensive robot has been defeated.*"
 	{
-		"chi"		"**BOSS被打败了 **"
+		"chi"		"**BOSS被打败了**"
 	}
 	"*Well done! You stopped the robot's most powerfull attack!*"
 	{
-		"chi"		"*很好!你制止了BOSS的强力攻击 **"
+		"chi"		"*很好,你制止了BOSS的强力攻击!**"
 	}
 	"*Explosion inminent! Find a way out! RUN!!!*"
 	{
-		"chi"		"**找到一条路逃出实验室 **"
+		"chi"		"**找到一条路逃出实验室**"
 	}
 	"*Reloading all offensive modules.*"
 	{
-		"chi"		"**重载所有攻击模式 **"
+		"chi"		"**重载所有攻击模式**"
 	}
 	"** PLANE ENDING: GET TO THE PAPER PLANE **"
 	{
-		"chi"		"**飞机路线:赶快登上右边出口的纸飞机！你们只有几秒钟的时间！**"
+		"chi"		"**飞机路线:赶快登上右边出口的纸飞机,你们只有3秒钟的时间!**"
 	}
 	"** Explosion in 20 seconds **"
 	{
-		"chi"		"**20秒后爆炸 **"
+		"chi"		"**20秒后爆炸**"
 	}
 	"** Explosion in 10 seconds **"
 	{
-		"chi"		"**10秒后爆炸 **"
+		"chi"		"**10秒后爆炸**"
 	}
 	"** Explosion in 5 seconds **"
 	{
-		"chi"		"**5秒后爆炸 **"
+		"chi"		"**5秒后爆炸**"
 	}
 	"** Explosion in 4 seconds **"
 	{
-		"chi"		"**4秒后爆炸 **"
+		"chi"		"**4秒后爆炸**"
 	}
 	"** Explosion in 3 seconds **"
 	{
-		"chi"		"**3秒后爆炸 **"
+		"chi"		"**3秒后爆炸**"
 	}
 	"** Explosion in 2 seconds **"
 	{
-		"chi"		"**2秒后爆炸 **"
+		"chi"		"**2秒后爆炸**"
 	}
 	"** Explosion in 1 seconds **"
 	{
-		"chi"		"**1秒后爆炸 **"
+		"chi"		"**1秒后爆炸**"
 	}
 	"*** EXTREME MODE COMPLETED ***"
 	{
-		"chi"		"**已通关萌新司机难度！**"
+		"chi"		"**已通关萌新司机难度**"
 	}
 	"*** Current level: MASSACRE  *** Escape: EVIL CORP. HEADQUARTERS ***"
 	{
-		"chi"		"**当前难度：老司机      路线:实验总部 **"
+		"chi"		"**当前难度:老司机  路线:实验总部 **"
 	}
 	"*Door opening in 5 seconds. RESIST!*"
 	{
-		"chi"		"**门5秒后打开 **"
+		"chi"		"**门5秒后打开**"
 	}
 	"*** ZOMBIES DETECTED: INVALID VICTORY **"
 	{
-		"chi"		"**检测到僵尸，通关失败 **"
+		"chi"		"**检测到僵尸,通关失败!**"
 	}
 	"** BALCONY ENDING: GET TO THE HIGHEST BALCONY **"
 	{
-		"chi"		"**阳台路线:爬到阳台最高点，记得断口留火 **"
+		"chi"		"**阳台路线:爬到阳台最高点,记得断口留火!**"
 	}
 	"** Explosion in 25 seconds **"
 	{
-		"chi"		"**25秒后爆炸 **"
+		"chi"		"**25秒后爆炸**"
 	}
 	"*** Current level: PANIC  *** Escape: VERYBAD CORP. TRAINSTATION ***"
 	{
-		"chi"		"**当前难度：老咸鱼      路线:火车**"
+		"chi"		"**当前难度:老咸鱼  路线:火车**"
 	}
 	"* Door is opening in 20 seconds. *"
 	{
-		"chi"		"**门20秒后打开 **"
+		"chi"		"**门20秒后打开**"
 	}
 	"* Trainstation's door is opening!*"
 	{
-		"chi"		"**火车站的门已打开 **"
+		"chi"		"**火车站的门已打开**"
 	}
 	"*Tornado generator has been picked up. Press +USE (E) to activate.*"
 	{
-		"chi"		"**风已被拾起 **"
+		"chi"		"**风已被拾起**"
 	}
 	"*It has a 120 seconds cooldown.*"
 	{
-		"chi"		"**它有120秒冷却时间 **"
+		"chi"		"**它有120秒冷却时间**"
 	}
 	"* Stairs to the trains' area are locked. Find a way to activate the elevator... *"
 	{
-		"chi"		"**电梯坏了，寻找一个方法以启动电梯 **"
+		"chi"		"**电梯坏了,寻找一个方法以启动电梯!**"
 	}
 	"* TIP: Some buttons activate when shot. *"
 	{
-		"chi"		"**提示:可以射击一些按钮激活 **"
+		"chi"		"**提示:可以射击一些按钮激活**"
 	}
 	"*Maintenance elevator leaves in 30 seconds*"
 	{
-		"chi"		"**电梯30秒后离开 **"
+		"chi"		"**电梯:30秒**"
 		"DoorCountdown"		"30"
 	}
 	"*Maintenance elevator leaves in 5 seconds!!! GO!*"
 	{
-		"chi"		"**电梯5秒后离开 **"
+		"chi"		"**电梯:5秒**"
 	}
 	"* Resist! Door opens in 15 seconds!!! *"
 	{
-		"chi"		"**抵御僵尸!门15秒后打开 **"
+		"chi"		"**门15秒后打开**"
 	}
 	"* Train area door is opening... RETREAT!*"
 	{
-		"chi"		"**火车门已打开 **"
+		"chi"		"**火车门已打开**"
 	}
 	"*** Management office doors opening in 25 seconds. ***"
 	{
-		"chi"		"**管理室大门25秒后打开 **"
+		"chi"		"**管理室大门25秒后打开**"
 	}
 	"*** HOLD RIGHT HERE! Train doors will open in 25 seconds! ***"
 	{
-		"chi"		"**防御这里!火车大门25秒后打开 **"
+		"chi"		"**火车大门25秒后打开**"
 	}
 	"*** DOORS OPENED! ***"
 	{
-		"chi"		"**大门已打开 **"
+		"chi"		"**大门已打开**"
 	}
 	"*** Someone has to open the train doors. That's our escape route! ***"
 	{
-		"chi"		"**需要一些人去打开火车门，那是我们撤退的路线 **"
+		"chi"		"**需要一些人去打开火车门,那是我们撤退的路线!**"
 	}
 	"*** Train door opens in 15 seconds. ***"
 	{
-		"chi"		"**火车门15秒后打开 **"
+		"chi"		"**火车门15秒后打开**"
 	}
 	"*** RESIST! The doors will be opening in 10 seconds! ***"
 	{
-		"chi"		"**继续防御!门将在10秒后打开 **"
+		"chi"		"**继续防御!门将在10秒后打开!**"
 	}
 	"*** Hold the second cart! We're nearing our escape. ***"
 	{
-		"chi"		"**继续防守!我们离撤离点不远了 **"
+		"chi"		"**继续防守!我们离撤离点不远了!**"
 	}
 	"*** The doors appear to have malfunctioned. ***"
 	{
-		"chi"		"**门已经发生了某些故障 **"
+		"chi"		"**门貌似发生了故障**"
 	}
 	"*** Figure out the cause of it! ***"
 	{
-		"chi"		"**快寻找原因 **"
+		"chi"		"**快寻找原因**"
 	}
 	"*** Doors breached... MOVE! ***"
 	{
-		"chi"		"**已恢复正常 **"
+		"chi"		"**已恢复正常**"
 	}
 	"*** RESIST! Only 5 seconds left! ***"
 	{
-		"chi"		"**还有5秒 **"
+		"chi"		"**还有5秒**"
 	}
 	"*** MOVE! The doors will close in 15 seconds! ***"
 	{
@@ -525,7 +525,7 @@
 	}
 	"** WE'RE SAFE! Let's get the train running! **"
 	{
-		"chi"		"**我们安全了，我们登上列车撤离这里 **"
+		"chi"		"**我们安全了,我们登上列车撤离这里!**"
 	}
 	"** ... **"
 	{
@@ -533,23 +533,23 @@
 	}
 	"** BEWARE! It's an upgraded offensive XJ-7800 robot! **"
 	{
-		"chi"		"**警告！它是防御机器人的升级版 **"
+		"chi"		"**警告:它是防御机器人的升级版**"
 	}
 	"** SHOOT IT! **"
 	{
-		"chi"		"**向它射击! **"
+		"chi"		"**向它射击!**"
 	}
 	"*Annihilator mode activated. Unloading offensive modules.*"
 	{
-		"chi"		"**歼灭者模式已激活，卸载攻击模式 **"
+		"chi"		"**歼灭者模式已激活,卸载攻击模式!**"
 	}
 	"*He's going to use his more powerfull attack and wipe us out!*"
 	{
-		"chi"		"**它要用更强大的攻击和消灭我们! **"
+		"chi"		"**它要用更强大的攻击和消灭我们!**"
 	}
 	"** IT'S TOO LATE!!! WE'RE ALL DOOMED!!! **"
 	{
-		"chi"		"**太晚了，我们注定失败了 **"
+		"chi"		"**太晚了,我们注定失败了!**"
 	}
 	"*Mass destruction module loading: 10 seconds until CT defeat.*"
 	{
@@ -557,35 +557,35 @@
 	}
 	"*** MASSACRE MODE COMPLETED ***"
 	{
-		"chi"		"**已通关萌新司机难度！**"
+		"chi"		"**已通关萌新司机难度**"
 	}
 	"*** NEXT LEVEL IS THE END ***"
 	{
-		"chi"		"**下一难度：最终关 **"
+		"chi"		"**下一难度:最终关**"
 	}
 	"*** Current level: THE END  *** Escape: THE PAPER DIMENSION ***"
 	{
-		"chi"		"**当前难度：最终关       路线:纸质维度 **"
+		"chi"		"**当前难度:最终关  路线:纸质维度 **"
 	}
 	"** City sewers management plant doors are opening in 20 seconds. RESIST!!! **"
 	{
-		"chi"		"**下水道大门：20秒 **"
+		"chi"		"**下水道大门:20秒**"
 	}
 	"** WARNING: FROM THIS POINT YOU WILL ONLY HAVE ONE CHANCE TO WIN.  IF YOU FAIL THE LEVEL WILL REVERT. **"
 	{
-		"chi"		"**警告:从这一关开始，你只有一次过关的机会，否则难度将会回档至第四关 **"
+		"chi"		"**提示:从这一关开始,你只有一次过关的机会,否则难度将会回档至第四关!**"
 	}
-	"** PLEASE CONSIDER SUICIDE IF YOU ARE UNSURE ABOUT BEING ABLE TO BEAT THIS ROUND! **"
+	"** PLEASE CONSIDER SUICIDE IF YOU ARE UNSURE ABOUT BEING ABLE TO BEAT THIS ROUND!**"
 	{
-		"chi"		"**如果能有三个勇士愿意牺牲他的生命，那么一切都将有可能发生！**"
+		"chi"		"**提示:如果能有三个勇士愿意牺牲他的生命,那么一切都将有可能发生!**"
 	}
 	"** YOU HAVE BEEN WARNED!!! **"
 	{
-		"chi"		"**我已经警告过你了!!! **"
+		"chi"		"**我已经警告过你了!**"
 	}
 	"** Elevator leaves in 7 seconds **"
 	{
-		"chi"		"**电梯7秒后离开 **"
+		"chi"		"**电梯7秒后离开**"
 	}
 	"** TIP: Three humans must suicide to keep the THE END level **"
 	{
@@ -593,91 +593,91 @@
 	}
 	"** THE PAPER GODS ARE PLEASED WITH YOUR SACRIFICE **"
 	{
-		"chi"		"**你们的牺牲是不会白费的，队友将永远记得你们 **"
+		"chi"		"**你们的牺牲是不会白费的,队友将永远记得你们!**"
 	}
 	"* Defend the bridge for 30 seconds until it is blown up!!! *"
 	{
-		"chi"		"**在大桥防守僵尸直到它炸掉 **"
+		"chi"		"**在大桥防守30秒直到它被炸掉**"
 		"DoorCountdown"		"30"
 	}
 	"* Zombies must go through the sewer. *"
 	{
-		"chi"		"**僵尸需要进入下水管 **"
+		"chi"		"**僵尸需要进入下水管**"
 	}
 	"** The bridge has been blown... RUN!!! **"
 	{
-		"chi"		"**桥已经被炸毁了！撤退! **"
+		"chi"		"**桥已经被炸毁了,撤退!**"
 	}
 	"* Hospital's doors open in 15 seconds. *"
 	{
-		"chi"		"**医院大门：15秒 **"
+		"chi"		"**医院大门:15秒**"
 	}
 	"* Doors are open... GO!!! *"
 	{
-		"chi"		"**门已打开 **"
+		"chi"		"**门已打开**"
 	}
 	"* Go to the second floor and deactivate the security lock. *"
 	{
-		"chi"		"**去二楼解锁医院小门 **"
+		"chi"		"**去二楼解锁医院小门**"
 	}
 	"* Security button has been pressed. Doors open in 5 seconds! *"
 	{
-		"chi"		"**医院小门按钮被按下，医院小门5秒后打开 **"
+		"chi"		"**医院小门按钮被按下,医院小门5秒后打开!**"
 	}
 	"* FIRST FLOOR: Emergencies and stairwayelevator access. *"
 	{
-		"chi"		"**第一层:能源站与电梯 **"
+		"chi"		"**第一层:能源站与电梯**"
 	}
 	"* The elevator is not working. Find a way to restore the power! *"
 	{
-		"chi"		"**电梯无能量驱动，找到一个方法来重启它的电源，电源开关在面对僵尸右侧的管道里面 **"
+		"chi"		"**电梯无能量驱动,找到一个方法来重启它的电源,电源开关在面对僵尸右侧的管道里面!**"
 	}
 	"* Elevator's power restoring... It will leave in 20 seconds *"
 	{
-		"chi"		"**电梯电源重启，电梯20秒后上升 **"
+		"chi"		"**电梯电源重启,电梯20秒后上升!**"
 		"DoorCountdown"		"20"
 	}
 	"* GO! GO! GO!*"
 	{
-		"chi"		"**跑 跑 跑 **"
+		"chi"		"**冲 冲 冲**"
 	}
 	"* SECOND FLOOR: Patients' rooms. *"
 	{
-		"chi"		"**第二层:病人们的房间 **"
+		"chi"		"**第二层:病人们的房间**"
 	}
 	"* Defend this floor for 30 seconds!!! *"
 	{
-		"chi"		"**守住这层楼30秒 **"
+		"chi"		"**守住这层楼30秒**"
 		"DoorCountdown"		"30"
 	}
 	"* GO BACK! ELEVATOR LEAVES IN 5 SECONDS *"
 	{
-		"chi"		"**退回至电梯！电梯5秒后上升 **"
+		"chi"		"**退回至电梯,电梯5秒后上升!**"
 	}
 	"* THIRD FLOOR: Pediatry. *"
 	{
-		"chi"		"**第三层:小儿科 **"
+		"chi"		"**第三层:小儿科**"
 	}
 	"* TIP: Zombies can break the elevators' side vent. *"
 	{
-		"chi"		"**提示:僵尸可以打碎电梯管道 **"
+		"chi"		"**提示:僵尸可以打碎电梯管道**"
 	}
 	"* FOURTH FLOOR: Emergency generator and Helipad access. *"
 	{
-		"chi"		"**第四层:急救直升机停机坪和发电机 **"
+		"chi"		"**第四层:急救直升机停机坪和发电机**"
 	}
 	"* TIP: Press the energy control panel to cause an overload in the doors' circuitry. *"
 	{
-		"chi"		"**提示:按下控制面板可以开门 **"
+		"chi"		"**提示:按下控制面板可以开门**"
 	}
 	"* The door is opening in 25 seconds... RESIST! *"
 	{
-		"chi"		"**门25秒后打开 **"
+		"chi"		"**门25秒后打开**"
 		"DoorCountdown"		"25"
 	}
 	"* Second door opens in 10 seconds. *"
 	{
-		"chi"		"**第二扇门将10秒后打开 **"
+		"chi"		"**第二扇门将10秒后打开**"
 		"DoorCountdown"		"10"
 	}
 	"* Helicopter leaves in 50 seconds. *"
@@ -695,11 +695,11 @@
 	}
 	"* WO-HOO!!! NICE JOB PEOPLE!!! *"
 	{
-		"chi"		"**恭喜你!通关了地图！ **"
+		"chi"		"**恭喜你!通关了地图!**"
 	}
 	"* YEAH!!! WE DID IT!!! *"
 	{
-		"chi"		"**我们做到了! **"
+		"chi"		"**我们做到了!**"
 	}
 	"* ... *"
 	{
@@ -719,11 +719,11 @@
 	}
 	"*ZE_PAPER_ESCAPER BY ENVIOLINADOR*"
 	{
-		"chi"		"**地图制作：ENVIOLINADOR		地图翻译:小三@风云社 **"
+		"chi"		"**地图制作:ENVIOLINADOR  汉化:小三@风云社 **"
 	}
 	"*** Thank you for playing this map ***"
 	{
-		"chi"		"**感谢你的游玩 **"
+		"chi"		"**感谢你的游玩**"
 	}
 	"*** MAP WILL NOW RESET TO NORMAL ***"
 	{
@@ -735,35 +735,35 @@
 	}
 	"*Main labs doors opening in 5 seconds.*"
 	{
-		"chi"		"**主实验室门：5秒**"
+		"chi"		"**主实验室门:5秒**"
 	}
 	"*Theres no power! One human must activate it through the vent..*"
 	{
-		"chi"		"**没有能源！一个人必须通关通风口激活它 **"
+		"chi"		"**没有能源,一个人必须通关通风口激活它!**"
 	}
 	"*Activate the Elevator and open the docks door.*"
 	{
-		"chi"		"**启动电梯或者右转爬楼梯以到达码头 **"
+		"chi"		"**启动电梯或者右转爬楼梯以到达码头**"
 	}
 	"*Docks door opening in 5 seconds..*"
 	{
-		"chi"		"**船坞门：5 **"
+		"chi"		"**船坞门:5**"
 	}
 	"*Go inside the powerstations office!*"
 	{
-		"chi"		"**进入发电站办公室！ **"
+		"chi"		"**进入发电站办公室**"
 	}
 	"*Deploying bridge. Resist untill its down!!!*"
 	{
-		"chi"		"**大桥正在下降，防御直到它完全降下来 **"
+		"chi"		"**大桥正在下降,防御直到它完全降下来!**"
 	}
 	"*Evil Corp. Headquarters doors opening in 10 seconds.*"
 	{
-		"chi"		"**实验总部门：10秒 **"
+		"chi"		"**实验总部门:10秒 **"
 	}
 	"*Basic offensive mode activated: Fist crusher module loaded*"
 	{
-		"chi"		"**基本攻击模式：绞肉机加载中**"
+		"chi"		"**基本攻击模式:绞肉机加载中**"
 	}
 	"*Well done! You stopped the robots most powerfull attack!*"
 	{
@@ -771,7 +771,7 @@
 	}
 	"** BUNKER ENDING: GET TO THE RIVERSIDE BUNKER **"
 	{
-		"chi"		"** **"
+		"chi"		"**桥要炸了,到对面去!**"
 	}
 	"** Explosion in 30 seconds **"
 	{
@@ -787,23 +787,23 @@
 	}
 	"* Stairs to the trains area are locked. Find a way to activate the elevator... *"
 	{
-		"chi"		"**前往列车站的楼梯是锁着的，想办法启动电梯**"
+		"chi"		"**前往列车站的楼梯是锁着的,想办法启动电梯!**"
 	}
 	"*** Someone has to open the train doors. Thats our escape route! ***"
 	{
-		"chi"		"**总得有人把车门打开，那是我们的逃生路线**"
+		"chi"		"**总得有人把车门打开!那是我们的逃生路线!**"
 	}
 	"*** Hold the second cart! Were nearing our escape. ***"
 	{
-		"chi"		"**守住第二节车厢，我们快要成功逃离这里了**"
+		"chi"		"**守住第二节车厢,我们快要成功逃离这里了!**"
 	}
 	"** WERE SAFE! Lets get the train running! **"
 	{
-		"chi"		"**安全,让列车动起来吧**"
+		"chi"		"**安全,让列车动起来吧!**"
 	}
 	"** BEWARE! Its an upgraded offensive XJ-7800 robot! **"
 	{
-		"chi"		"**小心!它是一种进攻型XJ-7800机器人**"
+		"chi"		"**小心!它是一种进攻型XJ-7800机器人!**"
 	}
 	"*** THE DESTRUCTIVE ROBOT IS ABOUT TO CHARGE ITS MOST POWERFUL ATTACK! ***"
 	{
@@ -823,15 +823,15 @@
 	}
 	"* Cisneros Hero Burguer has been picked up! *"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家捡起了汉堡**"
 	}
 	"* Hospitals doors open in 15 seconds. *"
 	{
-		"chi"		"**医院大门：15秒**"
+		"chi"		"**医院大门:15秒**"
 	}
 	"* Elevators power restoring... It will leave in 20 seconds *"
 	{
-		"chi"		"**电梯电力恢复……它将在20秒后离开**"
+		"chi"		"**电梯电力恢复...它将在20秒后离开**"
 	}
 	"* SECOND FLOOR: Patients rooms. *"
 	{
@@ -872,21 +872,5 @@
 	"** ITS TOO LATE!!! WERE ALL DOOMED!!! **"
 	{
 		"chi"		"**太迟了!!!命中注定我们要失败**"
-	}
-	"** MAP BY Hannibal [SPA] (Rafuron)  Map modified by Rulucy **"
-	{
-		"chi"		"** **"
-	}
-	"*** ADMIN: HARD MODE ACTIVATED ***"
-	{
-		"chi"		"** **"
-	}
-	"*** ADMIN: EXTREME MODE ACTIVATED ***"
-	{
-		"chi"		"** **"
-	}
-	">> Map by Taskuvaras <<"
-	{
-		"chi"		"** **"
 	}
 }
