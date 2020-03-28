@@ -276,6 +276,13 @@
     {
         "chi"        "**你惊醒了卡比兽！**"
     }
+	    "MapGlobal_ConVars"
+    {
+        "0"
+        {
+            "cvar"        "sm_cvar sm_hunter_leappower 0"
+        }
+    }
     "*** IT ATTACKED IN A GRUMPY RAGE !!! ***"
     {
         "chi"        "**卡比兽愤怒了！**"
@@ -303,6 +310,13 @@
     "*** SNORLAX USED REST ***"
     {
         "chi"        "**卡比兽又睡着了**"
+    }
+		    "MapGlobal_ConVars"
+    {
+        "0"
+        {
+            "cvar"        "sm_cvar sm_hunter_leappower 120"
+        }
     }
     "*** ESCAPE WHILE HE IS ASLEEP ***"
     {
