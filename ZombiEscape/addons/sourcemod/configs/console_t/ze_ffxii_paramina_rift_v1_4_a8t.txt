@@ -258,7 +258,7 @@
 	}
 	"** MATEUS IS CHARGING FOR SUPERATTACK **"
 	{
-		"chi"		"**玛偍乌斯正在蓄力超级攻击**"
+		"chi"		"**冻天击**"
 	}
 	"** BOSS HAS BEEN STAGGERED **"
 	{
@@ -374,7 +374,7 @@
 	}
 	"** SHOOT THE SWARM BEFORE THEY CAN ATTACK **"
 	{
-		"chi"		"**在它们攻击之前射杀它们**"
+		"chi"		"**攻击蜂群**"
 	}
 	"** REMEMBER TO HOLD THE ZOMBIES TOO!! **"
 	{
@@ -386,7 +386,7 @@
 	}
 	"** CHAOS IS CASTING RAINS OF TERROR **"
 	{
-		"chi"		"**轮回王正在释放恐怖の雨**"
+		"chi"		"**轮回王释放恐怖の雨**"
 	}
 	"** CHAOS IS DEFEATED ONCE AND FOR ALL **"
 	{
@@ -422,7 +422,7 @@
 	}
 	"** BOSS SPAWNED SOME MINIONS **"
 	{
-		"chi"		"**boss造出了一些小怪**"
+		"chi"		"**冰元精**"
 	}
 	"** DOOR WILL OPEN IN 30 SECONDS **"
 	{
@@ -432,8 +432,44 @@
 	{
 		"chi"		"**一名玩家习得了超暴风（风魔法 LV.4）**"
 	}
-	">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
+	"** Player has learned POISON (POISON MAGICK LV.1)**"
 	{
-		"chi"		"** **"
+		"chi"		"**一名玩家习得了毒（毒魔法 LV.1）**"
+	}
+	"** [ADMIN] LEVEL CHANGED TO STAGE 1 INSANE **"
+	{
+		"chi"		"**[管理员]关卡变更为第一关疯狂模式**"
+	}
+	"** Player has learned AEROGA (WIND MAGICK LV.3)**"
+	{
+		"chi"		"**一名玩家习得了暴风（风魔法 LV.3）**"
+	}
+	"** YOU DEFEATED MATEUS **"
+	{
+		"chi"		"**玛提乌斯被打败了**"
+	}
+	"** MAKE A STAND HERE TILL WE FOUND A WAY OUT **"
+	{
+		"chi"		"**守住这里直到我们找到出路**"
+	}
+	"** WE HAVE TO JUMP IF WE WANT TO ESCAPE THE TEMPLE! **"
+	{
+		"chi"		"**从这里往下跳可以逃出神殿**"
+	}
+	"** OH GOD ITS MATEUS! SHOOT IT! **"
+	{
+		"chi"		"**全力攻击玛提乌斯**"
+	}
+	"** MATEUS IS DEAD! GO ESCAPE TO THE FOREST! **"
+	{
+		"chi"		"**玛提乌斯倒下了！我们快走！**"
+	}
+	"** END OF THE LINE **"
+	{
+		"chi"		"**穷途末路！决一死战**"
+	}
+	"** YOU HAVE FAILED.. **"
+	{
+		"chi"		"**你失败了..**"
 	}
 }

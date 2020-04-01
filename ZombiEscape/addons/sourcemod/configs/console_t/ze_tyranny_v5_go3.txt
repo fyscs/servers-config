@@ -37,8 +37,7 @@
 	}
 	">>> BREAK STATUE TO GET ITEM <<<"
 	{
-		" "		" "
-		" "		"chi"
+	    "chi"       "打碎雕像能获取额外的神器"
 	}
 	">>> NOOB TRASHED <<<"
 	{
@@ -336,8 +335,7 @@
 	}
 	">>> BRIDGE IS BROKEN <<<"
 	{
-		" "		" "
-		" "		"chi"
+	    "chi"       "桥断了"
 	}
 	">>> ITS BALROG <<<"
 	{
@@ -396,7 +394,7 @@
 	}
 	">>> BALROG HEALED 150HP <<<"
 	{
-		"chi"		">>>炎魔回复了150HP<<<"
+		"chi"		">>>炎魔治愈自身<<<"
 	}
 	">>> BALROG USE LASER. CROUCH TO AVOID IT <<<"
 	{
@@ -410,7 +408,7 @@
 	}
 	">>> BALROG USED POISON <<<"
 	{
-		"chi"		">>>炎魔施放了腐蚀剧毒，左右躲开致命的毒云！<<<"
+		"chi"		">>>炎魔施放了腐蚀剧毒<<<"
 		"ico"		"icon_fire"
 	}
 	">>> BALROG USED PUSH <<<"
@@ -512,7 +510,7 @@
 	}
 	">>> BALROG USED HEAL <<<"
 	{
-		"chi"		"**炎魔施放了了回复**"
+		"chi"		"**炎魔治愈自身**"
 	}
 	">>> BALROG USED KILLER <<<"
 	{
@@ -623,7 +621,7 @@
 	}
 	"*** failed to defeat the boss ***"
 	{
-		"chi"		"**暴君更加狂暴了...**"
+		"chi"		"**你成功了**"
 	}
 	">>> ADMIN CHANGED TO STAGE 6 <<<"
 	{
