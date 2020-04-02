@@ -39,7 +39,7 @@
 		"chi"		"**守住25秒让我们用炸药引爆岩石**"
 		"DoorCountDown"		"25"
 	}
-	"**The gates will open in 25 seconds**"
+	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**大门将在25秒后打开**"
 		"DoorCountDown"		"25"
@@ -577,5 +577,13 @@
 	"[NORMAL MODE]"
 	{
 		"chi"		"普通模式"
+	}
+	"** [HARD MODE] **"
+	{
+		"chi"		"** **"
+	}
+	">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
+	{
+		"chi"		"** **"
 	}
 }

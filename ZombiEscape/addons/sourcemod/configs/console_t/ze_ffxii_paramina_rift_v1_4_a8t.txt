@@ -266,7 +266,7 @@
 	}
 	"** BULLETSNADES DOES 200 '. DAMAGE ON BOSS FOR 10 SECONDS **"
 	{
-		"chi"		"**高爆手雷能造成200%的伤害.虚弱状态持续10秒**"
+		"chi"		"**高爆手雷能造成双倍伤害.持续10秒**"
 	}
 	"** BOSS MATEUS CHARGES HIS LAST ATTACK!  **"
 	{
@@ -471,5 +471,37 @@
 	"** YOU HAVE FAILED.. **"
 	{
 		"chi"		"**你失败了..**"
+	}
+	"[Mapper Riedoried]"
+	{
+		"chi"		"** **"
+	}
+	"[This is my first map pls enjoy ^-^]"
+	{
+		"chi"		"** **"
+	}
+	"**Map made by Eugenio *Motanum* Roman**"
+	{
+		"chi"		"** **"
+	}
+	"**Contact me at eugenio.motanum91 AT gmail.com**"
+	{
+		"chi"		"** **"
+	}
+	"***Selecting default difficulty****"
+	{
+		"chi"		"** **"
+	}
+	"**Thanks to [PF] PlagueFest for their support!**"
+	{
+		"chi"		"** **"
+	}
+	"***Waiting for players****"
+	{
+		"chi"		"** **"
+	}
+	"***Reseting game in 20 seconds****"
+	{
+		"chi"		"** **"
 	}
 }
