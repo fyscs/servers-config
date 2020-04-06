@@ -7,6 +7,8 @@
 	"[NORMAL MODE]"
 	{
 		"chi"		"**关卡难度：NORMAL**"
+		"command"   "sm_cvar rank_ze_win_points_humans 3"
+		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 	"** Defend untill the guards open the airport. **"
 	{
@@ -127,6 +129,8 @@
 	"[HARD MODE]"
 	{
 		"chi"		"**关卡难度：HARD**"
+		"command"   "sm_cvar rank_ze_win_points_humans 5"
+		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 	"** A player has learned Holy magick. **"
 	{
@@ -155,6 +159,8 @@
 	"[EXTREME MODE]"
 	{
 		"chi"		"**关卡难度：EX**"
+		"command"   "sm_cvar rank_ze_win_points_humans 5"
+		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"** FIRE NOVA INBOUND **"
 	{
@@ -183,6 +189,8 @@
 	"[EPIC MODE]"
 	{
 		"chi"		"**关卡难度：EPIC**"
+		"command"   "sm_cvar rank_ze_win_points_humans 8"
+		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"** Teleporter will be ready in 20 seconds! **"
 	{
@@ -247,6 +255,8 @@
 	"[GOD MODE]"
 	{
 		"chi"		"**难度：GOD**"
+		"command"   "sm_cvar rank_ze_win_points_humans 10"
+		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"** The dragon has been defeated! GOGOGO **"
 	{

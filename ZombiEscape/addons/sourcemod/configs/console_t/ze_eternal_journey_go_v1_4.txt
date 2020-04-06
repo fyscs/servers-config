@@ -39,6 +39,8 @@
 	">>> STAGE 1 <<<"
 	{
 		"chi"		"**第一关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 3"
+		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 	"** Hold 25 seconds **"
 	{
@@ -87,6 +89,8 @@
 	">>> STAGE 3 <<<"
 	{
 		"chi"		"**第三关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 5"
+		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"[ADMIN ROOM] Level changed to 3. Kill all in 5 sec!"
 	{
@@ -131,6 +135,8 @@
 	">>> STAGE 4<<<"
 	{
 		"chi"		"**第四关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 8"
+		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"[ADMIN ROOM] Level changed to 4. Kill all in 5 sec!"
 	{
@@ -143,6 +149,8 @@
 	">>> STAGE 5<<<"
 	{
 		"chi"		"**第五关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 10"
+		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"[ADMIN ROOM] Level changed to 5. Kill all in 5 sec!"
 	{
@@ -151,6 +159,8 @@
 	"[ADMIN ROOM] Level changed to 6(ZM ROUND). Kill all in 5 sec!"
 	{
 		"chi"		"**ZM关载入**"
+		"command"   "sm_cvar rank_ze_win_points_humans 3"
+		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 	"** YOU WON STAGE 5 **"
 	{
@@ -251,5 +261,7 @@
 	">>> STAGE 2 <<<"
 	{
 		"chi"		"**第二关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 5"
+		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 }

@@ -7,6 +7,8 @@
 	"*** STAGE I ***"
 	{
 		"chi"		"**第一关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 3"
+		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 	"*** WARMUP - 50 SECONDS LEFT ***"
 	{
@@ -103,6 +105,8 @@
 	"*** STAGE II ***"
 	{
 		"chi"		"**第二关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 8"
+		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"*** Outer gate opening in 10 seconds ***"
 	{
@@ -147,6 +151,8 @@
 	"*** STAGE III ***"
 	{
 		"chi"		"**第三关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 5"
+		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"*** Inner gate lever is stuck ***"
 	{
@@ -191,6 +197,8 @@
 	"*** STAGE IV (ZM) ***"
 	{
 		"chi"		"**第四关（感染模式）**"
+		"command"   "sm_cvar rank_ze_win_points_humans 3"
+		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 	"*** 5 minutes left ***"
 	{
