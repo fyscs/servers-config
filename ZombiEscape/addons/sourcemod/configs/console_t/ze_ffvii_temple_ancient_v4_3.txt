@@ -1,155 +1,319 @@
 "Console_T"
 {
-	"*** WARMUP ROUND ***"
-	{
-		"chi"		"**热身回合**"
-	}
-	"*** MAP CREATED BY MICROSOFT EDGE AND DARKROAD***"
-	{
-		"chi"		"**地图作者：MICROSOFT EDGE AND DARKROAD 地图翻译：户冢彩加&萌大奶@风云社**"
-	}
-	"***Thanks Batnik_Ref.smd for animation TRI-FACE ***"
-	{
-		"chi"		"**感谢Batnik_Ref.smd**"
-	}
-	"*** STAGE 1 [NORMAL] ***"
-	{
-		"chi"		"**第一关[正常]**"
-	}
-	"[AERIS] THIS IS THE TEMPLE OF THE ANCIENTS"
-	{
-		"chi"		"**艾瑞丝：这是古人的神庙**"
-	}
-	"[AERIS] I WANT TO GO INSIDE!"
-	{
-		"chi"		"**艾瑞丝：我想进去看看**"
-	}
-	"*** follow the white sphere ***"
-	{
-		"chi"		"**跟随白色光球走**"
-	}
-	"*** DEFEND FOR 15 SEC ***"
-	{
-		"chi"		"**在这里防守15秒**"
-	}
-	"*** GO GO ***"
-	{
-		"chi"		"**可以走了！**"
-	}
-	"*** TELEPORT WILL BE ACTIVATED IN 15 SECONDS ***"
-	{
-		"chi"		"**在15秒后传送**"
-	}
-	"*** GET INSIDE ***"
-	{
-		"chi"		"**我们进去吧**"
-	}
-	"*** GO GO GO  ***"
-	{
-		"chi"		"**冲冲冲**"
-	}
-	"A player has picked up the FIRE Materia"
-	{
-		"chi"		"**一名玩家捡起了神器 火**"
-	}
-	"A player has picked up the WIND Materia"
-	{
-		"chi"		"**一名玩家捡起了神器 风**"
-	}
-	"***  Down and then to the right ***"
-	{
-		"chi"		"**向下然后向右**"
-	}
-	"*** DEFEND FOR 10 SEC ***"
-	{
-		"chi"		"**守住10秒**"
-	}
-	"*** Get up to the white sphere ***"
-	{
-		"chi"		"**到白色的光球上去**"
-	}
-	"*** the teleport to the temple will work in 15 seconds ***"
-	{
-		"chi"		"**神殿的传送将在15秒内生效**"
-	}
 	"*** DEFEND ***"
 	{
-		"chi"		"**守住这里**"
+		"chi"		"** 守住 **"
 	}
-	"*** One of the paths is chosen randomly ***"
+	"*** Black materiar almost at us! ***"
 	{
-		"chi"		"**其中一条路径是随机选择的**"
+		"chi"		"** 黑色材料在我们身边! **"
+	}
+	"*** YOU KEEP 30 SEC ***"
+	{
+		"chi"		"** 守住30秒 **"
+	}
+	"*** SEPHIROT USED HEAL ***"
+	{
+		"chi"		"** 萨菲罗斯使用了治愈 **"
+	}
+	"*** DONT SHOOT HIM ***"
+	{
+		"chi"		"** 停枪!不要射击它! **"
+	}
+	"*** SEPHIROT USED LIMIT BREAK"
+	{
+		"chi"		"** 萨菲罗斯使用了极限突破 **"
+	}
+	"*** SEPHIROT USED DOUBLE DAMAGE"
+	{
+		"chi"		"** 萨菲罗斯使用了双倍输出 **"
+	}
+	"*** Kill SUMMONS ***"
+	{
+		"chi"		"** 杀死左右两边的召唤物 **"
 	}
 	"*** DEFEND CLOUD FOR 10 SEC ***"
 	{
-		"chi"		"**守住克劳德10秒**"
-	}
-	"A player has picked up the EARTH Materia"
-	{
-		"chi"		"**一名玩家捡起了神器 土**"
-	}
-	"** DOORS WILL OPEN IN 15 SEC **"
-	{
-		"chi"		"**大门将在15秒后打开**"
-	}
-	"A player has picked up the HEAL Materia"
-	{
-		"chi"		"**一名玩家捡起了神器 奶**"
-	}
-	"A player has picked up the ICE Materia"
-	{
-		"chi"		"**一个玩家捡起了神器 冰**"
+		"chi"		"** 掩护克劳德10秒钟 **"
 	}
 	"*** IT'S OVER"
 	{
-		"chi"		"**结束了**"
+		"chi"		"** 结束了 **"
 	}
-	"A player has picked up the POISON Materia"
+	"** DOORS WILL OPEN IN 15 SEC **"
 	{
-		"chi"		"**一名玩家捡起了神器 毒**"
+		"chi"		"** 大门将于15秒后打开 **"
+	}
+	"*** DEFEND FOR 15 SEC ***"
+	{
+		"chi"		"** 守住15秒 **"
+	}
+	"*** GO GO ***"
+	{
+		"chi"		"** 要走了 **"
+	}
+	"*** TELEPORT WILL BE ACTIVATED IN 15 SECONDS ***"
+	{
+		"chi"		"** 传送会在15秒后激活 **"
+	}
+	"*** GET INSIDE ***"
+	{
+		"chi"		"** 进去 **"
+	}
+	"*** GO GO GO  ***"
+	{
+		"chi"		"** 走了走了 **"
+	}
+	"***  Down and then to the right ***"
+	{
+		"chi"		"** 往下，然后往右边走 **"
+	}
+	"*** DEFEND FOR 10 SEC ***"
+	{
+		"chi"		"** 守住10秒 **"
+	}
+	"*** the teleport to the temple will work in 15 seconds ***"
+	{
+		"chi"		"** 15秒后将会传送到神殿内部 **"
+	}
+	"*** Get up to the white sphere ***"
+	{
+		"chi"		"** 追上发光的白球 **"
+	}
+	"*** One of the paths is chosen randomly ***"
+	{
+		"chi"		"** 道路是随机选择的 **"
 	}
 	"*** DEFEND FOR 20 SEC ***"
 	{
-		"chi"		"**守住20秒**"
+		"chi"		"** 守住20秒 **"
+	}
+	"[AERIS] IT IS SEPHIROTH "
+	{
+		"chi"		"** [艾瑞丝]是萨菲罗斯 **"
 	}
 	"[AERIS] CLOUD look..."
 	{
-		"chi"		"**艾瑞丝：克劳德，看那边....**"
-	}
-	"[AERIS] IT IS SEPHIROTH"
-	{
-		"chi"		"**艾瑞丝：那是萨菲罗斯！**"
+		"chi"		"** [艾瑞丝]克劳德快看... **"
 	}
 	"*** FALL BACK ***"
 	{
-		"chi"		"**撤退**"
+		"chi"		"** 撤退 **"
 	}
-	"** HE USES GRAVITY ATTACK! SHOOT THE METEOR!!! **"
+	"*** DEFEND FOR 15sec ***"
 	{
-		"chi"		"**他使用了重力攻击！射击那个流星！**"
+		"chi"		"** 守住15秒 **"
+	}
+	"*** THE DOOR CAN'T OPEN IF YOU DON'T HAVE THE CRYSTAL ***"
+	{
+		"chi"		"** 如果你没有捡起水晶，门将不会打开 **"
+	}
+	"*** Pick the crystal below ***"
+	{
+		"chi"		"** 去最下层捡起水晶吧 **"
+	}
+	"*** GO TO THE CAVES TO PICK IT UP ***"
+	{
+		"chi"		"** 从洞穴下去捡起它 **"
+	}
+	"*** HI CRYSTAL WAS PICKED UP ***"
+	{
+		"chi"		"** 水晶已捡起 **"
+	}
+	"*** the door will open in 15 sec ***"
+	{
+		"chi"		"** 门将于15秒后打开 **"
 	}
 	"** HE USES GRAVITY ATTACK! MOVE TO THE SIDES!!! **"
 	{
-		"chi"		"**他使用了重力攻击！向两边移动！**"
+		"chi"		"** 它使用了重力攻击!快移动到边缘区域!!! **"
 	}
-	"*** THE DRAGON HAS BEEN KILLED ***"
+	"** HE USES GRAVITY ATTACK! SHOOT THE METEOR!!! **"
 	{
-		"chi"		"**龙被杀了**"
+		"chi"		"** 它使用了重力攻击!射击高空的流星!!! **"
 	}
-	"[AERIS] CLOUD GO TO A CRYSTAL"
+	"A player has picked up the ICE Materia"
 	{
-		"chi"		"**艾瑞丝：克劳德去水晶那边**"
+		"chi"		"** 一位玩家捡起了冰元素 **"
 	}
-	"*** GG ***"
+	"A player has picked up the EARTH Materia"
 	{
-		"chi"		"**GG**"
+		"chi"		"** 一位玩家捡起了土元素 **"
+	}
+	"A player has picked up the FIRE Materia"
+	{
+		"chi"		"** 一位玩家捡起了火元素 **"
+	}
+	"A player has picked up the WIND Materia"
+	{
+		"chi"		"** 一位玩家捡起了风元素 **"
+	}
+	"A player has picked up the HEAL Materia"
+	{
+		"chi"		"** 一位玩家捡起了治愈元素 **"
+	}
+	"A player has picked up the POISON Materia"
+	{
+		"chi"		"** 一位玩家捡起了毒元素 **"
+	}
+	"*** STAGE 1 WIN ***"
+	{
+		"chi"		"** 第一关胜利 **"
+	}
+	"*** MAP CREATED BY MICROSOFT EDGE AND DARKROAD***"
+	{
+		"chi"		"** 地图作者：MICROSOFT EDGE/DARKROAD 翻译：妮沙@風雲社 **"
+	}
+	"***Thanks Batnik_Ref.smd for animation TRI-FACE ***"
+	{
+		"chi"		"** 感谢Batnik_Ref.smd for animation TRI-FACE **"
+	}
+	"*** STAGE 1 [NORMAL] ***"
+	{
+		"chi"		"** 第一关[普通] **"
+		"command"   "sm_cvar rank_ze_win_points_humans 5"
+		"command"   "sm_cvar ze_credits_pass_round 3"
+	}
+	"*** STAGE 2 [NORMAL] ***"
+	{
+		"chi"		"** 第二关[普通] **"
+		"command"   "sm_cvar rank_ze_win_points_humans 5"
+		"command"   "sm_cvar ze_credits_pass_round 3"
+	}
+	"*** STAGE 1 [EXTREME] ***"
+	{
+		"chi"		"** 第一关[极限] **"
+		"command"   "sm_cvar rank_ze_win_points_humans 8"
+		"command"   "sm_cvar ze_credits_pass_round 5"
+	}
+	"*** WARMUP ROUND ***"
+	{
+		"chi"		"** 热身回合 **"
+	}
+	"*** STAGE 2 [EXTREME] ***"
+	{
+		"chi"		"** 第二关[极限] **"
+		"command"   "sm_cvar rank_ze_win_points_humans 10"
+		"command"   "sm_cvar ze_credits_pass_round 5"
+	}
+	"*** MAP COMPLETED ***"
+	{
+		"chi"		"** 地图已完成 **"
+	}
+	"[AERIS] THIS IS THE TEMPLE OF THE ANCIENTS"
+	{
+		"chi"		"** [艾瑞丝]这里是古代的神殿 **"
+	}
+	"[AERIS] I WANT TO GO INSIDE!"
+	{
+		"chi"		"** [艾瑞丝]我想进去看看 **"
+	}
+	"*** follow the white sphere ***"
+	{
+		"chi"		"** 跟着出现白球的路线行走 **"
 	}
 	"*** ZOMBIE DETECTED ***"
 	{
-		"chi"		"**检测到僵尸**"
+		"chi"		"** 检测到僵尸 **"
 	}
-	"***STAGE 1 -- THE SHIP***"
+	"*** GG ***"
 	{
-		"chi"		"**关卡1 -- 船舶**"
+		"chi"		"** 关卡失败 **"
+	}
+	"*** GAULLE HAS BEEN KILLED ***"
+	{
+		"chi"		"** GAULLE已被击倒 **"
+	}
+	"** STAGE 2 WIN **"
+	{
+		"chi"		"** 第二关胜利 **"
+	}
+	"*** TRI FACE HAS BEEN KILLED   ***"
+	{
+		"chi"		"** TRI-FACE已被击倒 **"
+	}
+	"*** THE DOOR WILL OPEN IN 25 SEC."
+	{
+		"chi"		"** 门将于25秒后打开 **"
+	}
+	"*** THE DRAGON HAS BEEN KILLED ***"
+	{
+		"chi"		"** 龙王已经死了 **"
+	}
+	"[AERIS] CLOUD GO TO A CRYSTAL"
+	{
+		"chi"		"** [艾瑞丝]克劳德，我们需要去找到一个水晶 **"
+	}
+	"[ADMIN] LVL 2 EXTREME SET"
+	{
+		"chi"		"** 管理员设置了第二关[极限]**"
+	}
+	"[ADMIN] LVL 1 NORMAL SET"
+	{
+		"chi"		"** 管理员设置了第一关[普通] **"
+	}
+	"[ADMIN] LVL 2 NORMAL SET"
+	{
+		"chi"		"** 管理员设置了第二关[普通] **"
+	}
+	"[ADMIN] LVL 1 EXTREME SET"
+	{
+		"chi"		"** 管理员设置了第一关[极限] **"
+	}
+	"**Tri Face is going to jump! Move to the edges**"
+	{
+		"chi"		"** Tri-Face似乎想要跳起来攻击我们!移动到平台的边缘 **"
+	}
+	"**Tri Face is healing himself"
+	{
+		"chi"		"** Tri-Face正在治愈自己 **"
+	}
+	"**HE USES WIND ATTACK! RESIST IT!**"
+	{
+		"chi"		"** 它使用了风暴攻击!抵抗它! **"
+	}
+	"**HE USES GRAVITY ATTACK!BE CAREFUL!**"
+	{
+		"chi"		"** 它使用了重力攻击!远离它! **"
+	}
+	"*** TRI-FACE USED SHIELD DONT SHOOT ***"
+	{
+		"chi"		"** TRI-FACE使用了护盾，停止射击 **"
+	}
+	"*** STAGE 1 WIN [EXTREME]***"
+	{
+		"chi"		"** 第一关[极限]胜利**"
+	}
+	"*** BLACK MATERIA HAS BEEN PICKED UP ***"
+	{
+		"chi"		"** 黑色材料已被捡起 **"
+	}
+	"*** SEPHIROT ***"
+	{
+		"chi"		"** 萨菲罗斯 **"
+	}
+	"*** WAIT ***"
+	{
+		"chi"		"** 等待 **"
+	}
+	"*** Get on the ship ***"
+	{
+		"chi"		"** 去上飞船 **"
+	}
+	"*** WAIT 12SEC ***"
+	{
+		"chi"		"** 等待12秒 **"
+	}
+	"*** WAIT 5 SEC ***"
+	{
+		"chi"		"** 等待5秒 **"
+	}
+	"*** WAIT 10 SEC ***"
+	{
+		"chi"		"** 等待10秒 **"
+	}
+	"** MAP COMPLETED **"
+	{
+		"chi"		"** 地图已完成 **"
 	}
 }

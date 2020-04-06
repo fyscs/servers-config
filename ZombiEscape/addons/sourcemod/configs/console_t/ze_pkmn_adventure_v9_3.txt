@@ -175,22 +175,32 @@
 	"**Level 1**"
 	{
 		"chi"		"**第一关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 2"
+		"command"   "sm_cvar ze_credits_pass_round 2"
 	}
 	"**Level 2**"
 	{
 		"chi"		"**第二关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 5"
+		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 	"**Level 3**"
 	{
 		"chi"		"**第三关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 5"
+		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"**Level 4**"
 	{
 		"chi"		"**第四关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 12"
+		"command"   "sm_cvar ze_credits_pass_round 7"
 	}
 	"**Level 5**"
 	{
 		"chi"		"**第五关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 15"
+		"command"   "sm_cvar ze_credits_pass_round 7"
 	}
 	"**Giratina used Dragon Claw**"
 	{

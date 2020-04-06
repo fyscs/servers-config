@@ -2,82 +2,309 @@
 {
 	">>> Stage1 <<<"
 	{
-		"chi"		"第一关"
-	}
-	">>> Map by Moray and nano <<<"
-	{
-		"chi"		"地图作者：Moray&nano  地图汉化：大明@风云社"
-	}
-	">>> Right Door Opening in 15 Seconds <<<"
-	{
-		"chi"		"右侧大门15秒后打开"
-	}
-	">>> Player has picked up Venom Staff <<<"
-	{
-		"chi"		"一名玩家获得剧毒权杖"
-	}
-	">>> Player has picked up Blood Orb  <<<"
-	{
-		"chi"		"一名玩家获得鲜血宝珠"
-	}
-	">>> Hold 20 Seconds <<<"
-	{
-		"chi"		"守住20秒"
-	}
-	">>> AFK Teleport in 10 Seconds <<<"
-	{
-		"chi"		"10秒后传送挂机玩家"
-	}
-	">>> Hold 15 Seconds <<<"
-	{
-		"chi"		"守住15秒"
-	}
-	">>> Player has picked up Crystal Staff <<<"
-	{
-		"chi"		"一名玩家获得水晶权杖"
-	}
-	">>> Hold 30 Seconds <<<"
-	{
-		"chi"		"守住30秒"
-	}
-	">>> Player has picked up Tornado Staff <<<"
-	{
-		"chi"		"一名玩家获得飓风权杖"
-	}
-	">>> Player has picked up Heal Staff <<<"
-	{
-		"chi"		"一名玩家获得治疗权杖"
-	}
-	">>> Hold 10 Seconds <<<"
-	{
-		"chi"		"守住10秒"
-	}
-	">>> Spider is Coming <<<"
-	{
-		"chi"		"毒蛛出现"
-	}
-	">>> Spider has been Defeated <<<"
-	{
-		"chi"		"毒蛛被打败了"
-	}
-	">>> Door Closing in 15 Seconds <<<"
-	{
-		"chi"		"大门15秒后关闭"
-	}
-	">>> Stage1 Completed <<<"
-	{
-		"chi"		"第一关完成"
-	}
-	">>> Ammo Unlocked <<<"
-	{
-		"chi"		"弹药解锁"
+		"chi"		">>> 第一关 <<<"
+		"command"   "sm_cvar rank_ze_win_points_humans 3"
+		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 	">>> Stage2 <<<"
 	{
-		"chi"		"第二关"
+		"chi"		">>> 第二关 <<<"
+		"command"   "sm_cvar rank_ze_win_points_humans 5"
+		"command"   "sm_cvar ze_credits_pass_round 3"
+	}
+	">>> Stage3 <<<"
+	{
+		"chi"		">>> 第三关 <<<"
+		"command"   "sm_cvar rank_ze_win_points_humans 7"
+		"command"   "sm_cvar ze_credits_pass_round 5"
+	}
+	">>> Stage4 <<<"
+	{
+		"chi"		">>> 第四关 <<<"
+		"command"   "sm_cvar rank_ze_win_points_humans 8"
+		"command"   "sm_cvar ze_credits_pass_round 5"
+	}
+	">>> Stage5 <<<"
+	{
+		"chi"		">>> 第五关 <<<"
+		"command"   "sm_cvar rank_ze_win_points_humans 12"
+		"command"   "sm_cvar ze_credits_pass_round 7"
+	}
+	">>> Right Door Opening in 15 Seconds <<<"
+	{
+		"chi"		">>> 右方的大门15秒后打开 <<<"
 	}
 	">>> Left Door Opening in 15 Seconds <<<"
 	{
-		"chi"		"左侧大门15秒后打开"
+		"chi"		">>> 左方的大门15秒后打开 <<<"
+	}
+	">>> Left Door Opening in 20 Seconds <<<"
+	{
+		"chi"		">>> 左方的大门20秒后打开 <<<"
+	}
+	">>> Middle Door Opening in 20 Seconds <<<"
+	{
+		"chi"		">>> 中间的大门20秒后打开 <<<"
+	}
+	">>> Stage1 Activated <<<"
+	{
+		"chi"		">>> 第一关激活 <<<"
+	}
+	">>> Stage2 Activated <<<"
+	{
+		"chi"		">>> 第二关激活 <<<"
+	}
+	">>> Stage4 Activated <<<"
+	{
+		"chi"		">>> 第四关激活 <<<"
+	}
+	">>> Stage3 Activated <<<"
+	{
+		"chi"		">>> 第三关激活 <<<"
+	}
+	">>> Stage5 Activated <<<"
+	{
+		"chi"		">>> 第五关激活 <<<"
+	}
+	">>> Map by Moray and nano <<<"
+	{
+		"chi"		">>> 地图作者：Moray&nano 翻译：妮沙@風雲社 <<<"
+	}
+	">>> Player has picked up Meteor Staff <<<"
+	{
+		"chi"		">>> 一名玩家捡起了流星权杖 <<<"
+	}
+	">>> Player has picked up Crystal Staff <<<"
+	{
+		"chi"		">>> 一名玩家捡起了水晶权杖 <<<"
+	}
+	">>> Player has picked up Tornado Staff <<<"
+	{
+		"chi"		">>> 一名玩家捡起了飓风权杖 <<<"
+	}
+	">>> Player has picked up Venom Staff <<<"
+	{
+		"chi"		">>> 一名玩家捡起了毒液权杖 <<<"
+	}
+	">>> Player has picked up Ammo <<<"
+	{
+		"chi"		">>> 一名玩家捡起了无限弹药 <<<"
+	}
+	">>> Player has picked up Shade Staff <<<"
+	{
+		"chi"		">>> 一名玩家捡起了影缚权杖 <<<"
+	}
+	">>> Player has picked up Sacred Staff <<<"
+	{
+		"chi"		">>> >一名玩家捡起了神圣权杖 <<<"
+	}
+	">>> Player has picked up Heal Staff <<<"
+	{
+		"chi"		">>> 一名玩家捡起了治疗权杖 <<<"
+	}
+	">>> Player has picked up Ballista <<<"
+	{
+		"chi"		">>> 一名玩家捡起了弩炮 <<<"
+	}
+	">>> Player has picked up Bible <<<"
+	{
+		"chi"		">>> 一名玩家捡起了圣经 <<<"
+	}
+	">>> Player has picked up Blood Orb  <<<"
+	{
+		"chi"		">>> 一名玩家学会了祈血术 <<<"
+	}
+	">>> Player has picked up Explosive Barrel  <<<"
+	{
+		"chi"		">>> 一名玩家学会了炸药术 <<<"
+	}
+	">>> Player has picked up Necromancy  <<<"
+	{
+		"chi"		">>> 一名玩家学会了妖术 <<<"
+	}
+	">>> Player has picked up Guillotine  <<<"
+	{
+		"chi"		">>> 一名玩家学会了断头术 <<<"
+	}
+	">>> Player has picked up Abyss  <<<"
+	{
+		"chi"		">>> 一名玩家学会了虚空术 <<<"
+	}
+	">>> Ammo Unlocked <<<"
+	{
+		"chi"		">>> 无限弹药解锁 <<<"
+	}
+	">>> Ballista Unlocked <<<"
+	{
+		"chi"		">>> 弩炮解锁 <<<"
+	}
+	">>> Sacred Staff Unlocked <<<"
+	{
+		"chi"		">>> 神圣解锁 <<<"
+	}
+	">>> Bible Unlocked <<<"
+	{
+		"chi"		">>> 圣经解锁 <<<"
+	}
+	">>> Shade Staff Unlocked <<<"
+	{
+		"chi"		">>> 影缚解锁 <<<"
+	}
+	">>> Hold 20 Seconds <<<"
+	{
+		"chi"		">>> 守住20秒 <<<"
+	}
+	">>> AFK Teleport in 10 Seconds <<<"
+	{
+		"chi"		">>> 挂机的将在10秒后传送 <<<"
+	}
+	">>> Hold 15 Seconds <<<"
+	{
+		"chi"		">>> 守住15秒 <<<"
+	}
+	">>> Hold 30 Seconds <<<"
+	{
+		"chi"		">>> 守住30秒 <<<"
+	}
+	">>> Hold 10 Seconds <<<"
+	{
+		"chi"		">>> 守住10秒 <<<"
+	}
+	">>> Door Closing in 15 Seconds <<<"
+	{
+		"chi"		">>> 门15秒后关闭 <<<"
+	}
+	">>> AFK Teleport 10 Seconds <<<"
+	{
+		"chi"		">>> 挂机的10秒后传送 <<<"
+	}
+	">>> Hold 25 Seconds <<<"
+	{
+		"chi"		">>> 守住25秒 <<<"
+	}
+	">>> Fall Back <<<"
+	{
+		"chi"		">>> 撤退 <<<"
+	}
+	">>> Don't Delay <<<"
+	{
+		"chi"		">>> 不要怠慢 <<<"
+	}
+	">>> 5 Seconds Left <<<"
+	{
+		"chi"		">>> 还有5秒 <<<"
+	}
+	">>> 10 Seconds Left <<<"
+	{
+		"chi"		">>> 还有10秒 <<<"
+	}
+	">>> Library Route Opened <<<"
+	{
+		"chi"		">>> 图书馆通道已开放 <<<"
+	}
+	">>> Meeting Room Route Opened <<<"
+	{
+		"chi"		">>> 会议室通道已开放 <<<"
+	}
+	">>> Hold 35 Seconds <<<"
+	{
+		"chi"		">>> 守住35秒 <<<"
+	}
+	">>> Diablo is Coming <<<"
+	{
+		"chi"		">>> 暗黑破坏神出现了 <<<"
+	}
+	">>> Spider is Coming <<<"
+	{
+		"chi"		">>> 蜘蛛王出现了 <<<"
+	}
+	">>> Spider has been Defeated <<<"
+	{
+		"chi"		">>> 蜘蛛王已被击倒 <<<"
+	}
+	">>> Dragon has been Defeated <<<"
+	{
+		"chi"		">>> 龙王已被击倒 <<<"
+	}
+	">>> Angra has been Defeated <<<"
+	{
+		"chi"		">>> 安格拉王已被击倒 <<<"
+	}
+	">>> Diablo has been Defeated <<<"
+	{
+		"chi"		">>> 暗黑破坏神已被击倒 <<<"
+	}
+	">>> Troll has been Defeated <<<"
+	{
+		"chi"		">>> 巨魔已被击倒 <<<"
+	}
+	">>> Gargantua has been Defeated <<<"
+	{
+		"chi"		">>> 巨型怪物已被击倒 <<<"
+	}
+	">>> Stage1 Completed <<<"
+	{
+		"chi"		">>> 第一关完成 <<<"
+	}
+	">>> Round Failed <<<"
+	{
+		"chi"		">>> 回合失败 <<<"
+	}
+	">>> Stage2 Completed <<<"
+	{
+		"chi"		">>> 第二关完成 <<<"
+	}
+	">>> Stage3 Completed <<<"
+	{
+		"chi"		">>> 第三关完成 <<<"
+	}
+	">>> Stage4 Completed <<<"
+	{
+		"chi"		">>> 第四关完成 <<<"
+	}
+	">>> Stage5 Completed <<<"
+	{
+		"chi"		">>> 第五关完成 <<<"
+	}
+	">>> Dragon is Coming <<<"
+	{
+		"chi"		">>> 龙王出现了 <<<"
+	}
+	">>> Bible has been Found <<<"
+	{
+		"chi"		">>> 有人发现了圣经 <<<"
+	}
+	">>> Ballista has been Found <<<"
+	{
+		"chi"		">>> 有人发现了弩炮 <<<"
+	}
+	"Noob Trashed"
+	{
+		"chi"		">>> 一个菜鸟被抛弃了 <<<"
+	}
+	">>> Troll is Coming <<<"
+	{
+		"chi"		">>> 巨魔出现了 <<<"
+	}
+	">>> Zombie Teleport in 10 Seconds <<<"
+	{
+		"chi"		">>> 僵尸10秒后传送 <<<"
+	}
+	">>> Gargantua is Coming <<<"
+	{
+		"chi"		">>> 巨型怪物出现了 <<<"
+	}
+	">>> Zombies Teleport in 10 Seconds <<<"
+	{
+		"chi"		">>> 僵尸们10秒后传送 <<<"
+	}
+	">>> Rakiora is Coming <<<"
+	{
+		"chi"		">>> 拉基奥拉出现了 <<<"
+	}
+	">>> Hold 5 Seconds <<<"
+	{
+		"chi"		">>> 守住5秒 <<<"
 	}
 }
+	

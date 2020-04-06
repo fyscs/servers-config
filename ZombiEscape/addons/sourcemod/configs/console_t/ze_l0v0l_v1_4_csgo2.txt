@@ -3,6 +3,8 @@
 	">>> STAGE 1 : GARDEN MODE<<<"
 	{
 		"chi"		">>>第一关：花园<<<"
+		"command"   "sm_cvar rank_ze_win_points_humans 5"
+		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 	">>> Map made by Moray <<<"
 	{
@@ -83,6 +85,8 @@
 	">>> STAGE 2 : FOREST MODE<<<"
 	{
 		"chi"		">>>第二关：森林<<<"
+		"command"   "sm_cvar rank_ze_win_points_humans 5"
+		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	">>> ROUTE3 : HOLD 15 SECONDS <<<"
 	{
@@ -115,6 +119,8 @@
 	">>> STAGE 3 : FACILITY MODE<<<"
 	{
 		"chi"		">>>第三关：城堡<<<"
+		"command"   "sm_cvar rank_ze_win_points_humans 10"
+		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	">>> HARPY IS COMING <<<"
 	{
@@ -191,6 +197,8 @@
 	">>> STAGE 0 : DARK MODE<<<"
 	{
 		"chi"		">>>特殊关卡：里世界<<<"
+		"command"   "sm_cvar rank_ze_win_points_humans 35"
+		"command"   "sm_cvar ze_credits_pass_round 10"
 	}
 	">>> PRESS 3 BUTTONS TO MAKE PASSAGE <<<"
 	{
