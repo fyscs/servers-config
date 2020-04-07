@@ -1,0 +1,184 @@
+"Console_T"
+{
+	"WARNING! Facility emergency self-destruction sequence activated."
+	{
+		"chi"		"**警告:设施自毁序列代码已激活**"
+	}
+	"===100 seconds remaining to detonation==="
+	{
+		"chi"		"**距离设施自毁还剩100秒**"
+	}
+	"===90 seconds remaining to detonation==="
+	{
+		"chi"		"**距离设施自毁还剩90秒*"
+	}
+	"===80 seconds remaining to detonation==="
+	{
+		"chi"		"**距离设施自毁还剩80秒**"
+	}
+	"===70 seconds remaining to detonation==="
+	{
+		"chi"		"**距离设施自毁还剩70秒**"
+	}
+	"===60 seconds remaining to detonation==="
+	{
+		"chi"		"**距离设施自毁还剩60秒**"
+	}
+	"===50 seconds remaining to detonation==="
+	{
+		"chi"		"**距离设施自毁还剩50秒**"
+	}
+	"===40 seconds remaining to detonation==="
+	{
+		"chi"		"**距离设施自毁还剩40秒**"
+	}
+	"WARNING===30 seconds remaining to detonation==="
+	{
+		"chi"		"**距离设施自毁还剩30秒**"
+	}
+	"WARNING===10 seconds remaining to detonation==="
+	{
+		"chi"		"**距离设施自毁还剩20秒**"
+	}
+	"WARNING===10 seconds remaining to detonation==="
+	{
+		"chi"		"**距离设施自毁还剩10秒**"
+	}
+	"EMERGENCY WARNING===5 seconds remaining to detonation==="
+	{
+		"chi"		"**距离设施自毁还剩5秒**"
+	}
+	"Detonation in 10"
+	{
+		"chi"		"**起爆:10秒**"
+	}
+	"Detonation in 9"
+	{
+		"chi"		"**起爆:9秒**"
+	}
+	"Detonation in 8"
+	{
+		"chi"		"**起爆:8秒**"
+	}
+	"Detonation in 7"
+	{
+		"chi"		"**起爆:7秒**"
+	}
+	"Detonation in 6"
+	{
+		"chi"		"**起爆:6秒**"
+	}
+	"Detonation in >> 5 <<"
+	{
+		"chi"		"**起爆:5秒**"
+	}
+	"Detonation in >> 4 <<"
+	{
+		"chi"		"**起爆:4秒**"
+	}
+	"Detonation in >> 3 <<"
+	{
+		"chi"		"**起爆:3秒**"
+	}
+	"Detonation in >> 2 <<"
+	{
+		"chi"		"**起爆:2秒**"
+	}
+	"Detonation in >> 1 <<"
+	{
+		"chi"		"**起爆:1秒**"
+	}
+	"Detonation in >> 0 <<"
+	{
+		"chi"		"**起爆:0秒**"
+	}
+	"WARNING--- BLAST DOORS CLOSING"
+	{
+		"chi"		"**警告:防爆门关闭**"
+	}
+	"Heaven Teleporter generators initiating..."
+	{
+		"chi"		"**笨蛋,那些陷阱!**"
+	}
+	"Gate opening in 15 seconds..."
+	{
+		"chi"		"**铁门将在15秒后打开**"
+	}
+	"Gate opening in 5 seconds..."
+	{
+		"chi"		"**铁门将在5秒后打开**"
+	}
+	"Zombies detected! Gate will re-open in 5 seconds."
+	{
+		"chi"		"**检测到僵尸,大门将在5秒后重新打开**"
+	}
+	"Door opening in 15 seconds..."
+	{
+		"chi"		"**大门将在15秒后打开**"
+	}
+	"Door opening in 5 seconds..."
+	{
+		"chi"		"**大门将在5秒后打开**"
+	}
+	"Doors to Test Laboratory G opening in 15 seconds."
+	{
+		"chi"		"**试验室门将在15秒后打开**"
+	}
+	"Doors to Test Laboratory G opening in 5 seconds."
+	{
+		"chi"		"**试验室门将在5秒后打开**"
+	}
+	"Doors to Test Laboratory G has opened!"
+	{
+		"chi"		"**试验室门目前已完全打开**"
+	}
+	"[Tip] Humans have special laboratory suits and will be able to pass these fans without slowing down!"
+	{
+		"chi"		"**提示:人类有特殊的实验室服,能够穿过这些风扇而不减速**"
+	}
+	"Map by FW -=LightningZLaser=-"
+	{
+		"chi"		"**地图制作:FW -=LightningZLaser=-	汉化:小三@风云社**"
+		"command"   "sm_cvar ze_maptext_maxcountdown 100"
+	}
+	"Doors opening in 10 seconds."
+	{
+		"chi"		"**大门将在10秒后打开**"
+	}
+	"Zombies are blocked for 10 seconds!"
+	{
+		"chi"		"**僵尸被阻挡10秒**"
+	}
+	"Notice! <Insert Player Name Here> is going to heaven!"
+	{
+		"chi"		"**僵尸被阻挡10秒**"
+	}
+	"Panel Walk has been activated. Doors will open in 20 seconds."
+	{
+		"chi"		"**铁板将会在中间聚合成一条路,玻璃20秒后碎裂**"
+	}
+	"Panel Walk retracting..."
+	{
+		"chi"		"**铁板路径关闭**"
+	}
+	"[TIP] Use your head to go across the Headclimber!"
+	{
+		"chi"		"**提示:头上两根钢筋可以爬上去**"
+	}
+	"Panels retracting in 7 seconds."
+	{
+		"chi"		"**可攀爬铁板路径将在7秒后关闭**"
+	}
+	"Activate the self-destruction sequence in the emergency room!"
+	{
+		"chi"		"请在控制室激活自毁序列代码"
+	}
+	"WARNING===20 seconds remaining to detonation==="
+	{
+		"chi"		"距离设施自毁还剩20秒"
+	}
+	"WARNING- BLAST DOORS CLOSING"
+	{
+		"chi"		"实验室设施已完全封闭"
+	}
+}

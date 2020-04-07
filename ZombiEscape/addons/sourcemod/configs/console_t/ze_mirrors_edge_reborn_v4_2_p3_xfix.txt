@@ -1,0 +1,216 @@
+"Console_T"
+{
+	"<<< Heli leaves in 30 seconds >>>"
+	{
+		"chi"		"**直升机将在30秒后离开**"
+	}
+	"<<< Heli leaves in 20 seconds >>>"
+	{
+		"chi"		"**直升机将在20秒后离开**"
+	}
+	"<<< Heli leaves in 10 seconds >>>"
+	{
+		"chi"		"**直升机将在10秒后离开**"
+	}
+	"<<< Heli is leaving hop on >>>"
+	{
+		"chi"		"**直升机要撤离了,快上来**"
+	}
+	"<<< SUITCASE COLLECTED! RUN! >>>"
+	{
+		"chi"		"**手提箱已全部收集,快跑!**"
+	}
+	"<<< Hold For 25 secs >>>"
+	{
+		"chi"		"**防守25秒**"
+	}
+	"<<< 10 Seconds Remaining >>>"
+	{
+		"chi"		"**10**"
+	}
+	"<<< HOLD HERE FOR 20 SEC >>>"
+	{
+		"chi"		"**防守20秒**"
+	}
+	"<<< RUN!!! >>>"
+	{
+		"chi"		"**溜了溜了**"
+	}
+	"<<< Nuke launched>>>"
+	{
+		"chi"		"**大伊万已升空**"
+	}
+	"<<< ADMIN HAS PRESSED KILL ALL BUTTON >>>"
+	{
+		"chi"		"**管理员按下全体处死按钮**"
+	}
+	">>>Map created by Dark Arrow<<<"
+	{
+		"chi"		"**地图制作:Dark Arrow  汉化:小三@风云社**"
+	}
+	">>>Edited first by [pF]Detonator<<<"
+	{
+		"chi"		"**后期由[pF]Detonator进行了修改**"
+	}
+	">>>Finished by Hallucinogenic Troll<<<"
+	{
+		"chi"		"**由Hallucinogenic Troll完成制作**"
+	}
+	">>>Map ported by www.dashijie.es<<<"
+	{
+		"chi"		"**地图移植:www.dashijie.es**"
+	}
+	"<<< SUITCASE(S) MADE IT ON TO CHOPPER. WELL DONE YOU WIN >>>"
+	{
+		"chi"		"**成功把手提箱带到直升机撤离点,做得好!**"
+	}
+	"<<< ZOMBIES MADE IT ON TO CHOPPER. YOU LOSE! >>>"
+	{
+		"chi"		"**直升机检测到僵尸,人类失败!**"
+	}
+	"<<<TIME'S OUT!! YOU LOSE>>>"
+	{
+		"chi"		"**超时,人类失败!**"
+	}
+	"<<< DIFFICULTY LEVEL : EASY >>>"
+	{
+		"chi"		"**当前难度:咸鱼**"
+	}
+	"<<< THE FIRST TO PRESS THE BUTTON IN HELICOPTER WINS >>>"
+	{
+		"chi"		"**冲冲冲,跑得慢得就没了!**"
+	}
+	"<<< OBJECTIVE: COLLECT 2 SUITCASES >>>"
+	{
+		"chi"		"**目标:收集两个手提箱**"
+	}
+	"<<< DIFFICULTY LEVEL : EXTREME >>>"
+	{
+		"chi"		"**当前难度:萌新司机**"
+	}
+	"<<< ZOMBIES ARE FASTER AND HAVE MORE HEALTH >>>"
+	{
+		"chi"		"**僵尸将变得更快,更肉,更强!**"
+	}
+	"<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>"
+	{
+		"chi"		"**觉得音乐太吵可以调整音频设置中的音乐音量**"
+	}
+	"<<< OBJECTIVE : COLLECT 1 SUITCASE >>>"
+	{
+		"chi"		"**目标:收集一个手提箱**"
+	}
+	"<<< DIFFICULTY LEVEL : NORMAL >>>"
+	{
+		"chi"		"**当前难度:爷新**"
+	}
+	"<<< DIFFICULTY LEVEL : HARD >>>"
+	{
+		"chi"		"**当前难度:咸鱼**"
+	}
+	"<<< OBJECTIVE : RUN TO THE CHOPPER >>>"
+	{
+		"chi"		"**目标:尽快撤离至直升机**"
+	}
+	"<<< DIFFICULTY LEVEL : GOD / IMPOSSIBLE>>>"
+	{
+		"chi"		"**当前难度:公交车司机**"
+	}
+	"<<< SUITCASE DOOR WILL OPEN IN 10 SECONDS>>>"
+	{
+		"chi"		"**手提箱所在的门将在10秒后打开**"
+	}
+	"<<<SUITCASE DOOR IS OPENING! PRESS THE BUTTON>>>"
+	{
+		"chi"		"**手提箱所在的门正在打开,按下按钮!**"
+	}
+	">>>Hold more 25 seconds<<<"
+	{
+		"chi"		"**防守25秒**"
+	}
+	">>>Helicopter will leave in 3 seconds...<<<"
+	{
+		"chi"		"**直升机将在3秒后离开**"
+	}
+	"<<< DOOR WILL BREAK IN 20 SECONDS >>>"
+	{
+		"chi"		"**大门将在20秒后碎裂**"
+	}
+	"<<< DOOR WILL BREAK IN 10 SECONDS >>>"
+	{
+		"chi"		"**大门将在10秒后碎裂**"
+	}
+	"<<< DOOR WILL BREAK IN 5 SECONDS >>>"
+	{
+		"chi"		"**大门将在5秒后碎裂**"
+	}
+	"<<< DOOR ITS BROKEN!! RUN!!!! >>>"
+	{
+		"chi"		"**撤退**"
+	}
+	"<<< DOOR IS FULLY OPENED!! PRESS THE BUTTON >>>"
+	{
+		"chi"		"**门已完全打开,按下按钮!**"
+	}
+	"<<< BUTTON IS PRESSED! RUN!! >>>"
+	{
+		"chi"		"**按钮已出发,快跑!**"
+	}
+	"<<< THE PATH IS BLOCKED!! WE NEED TO PRESS THE BUTTON!!"
+	{
+		"chi"		"**路劲已被封锁,我们需要按下按钮解锁路径!**"
+	}
+	"<<< Unlimited ammo has been picked >>>"
+	{
+		"chi"		"**一名玩家捡起了无限弹药**"
+	}
+	"<<< Press E to have unlimited ammo for 15 sec. Recharge after 50 seconds >>>"
+	{
+		"chi"		"**无限弹药持续15秒  冷却时间50秒**"
+	}
+	"<<< Door Opens In 5 sec >>>"
+	{
+		"chi"		"**大门将在5秒后打开**"
+	}
+	"<<< Door Opens In 10 sec >>>"
+	{
+		"chi"		"**大门将在10秒后打开**"
+	}
+	"<<< Door Opens In 15 sec >>>"
+	{
+		"chi"		"**大门将在15秒后打开**"
+	}
+	"<<< Door Opens In 20 sec >>>"
+	{
+		"chi"		"**大门将在20秒后打开**"
+	}
+	"<<< Door Opens In 30 sec >>>"
+	{
+		"chi"		"**大门将在30秒后打开**"
+	}
+	"<<< Door Opens In 35 sec >>>"
+	{
+		"chi"		"**大门将在35秒后打开**"
+	}
+	"<<< SUITCASE DOOR OPENS IN 10 SECONDS >>>"
+	{
+		"chi"		"**手提箱所在的门将在10秒后打开**"
+	}
+	"<<< SUITCASE DOOR IS OPENING!>>>"
+	{
+		"chi"		"**手提箱所在的门正在打开**"
+	}
+	">>>HELICOPTER IS LEAVING<<<"
+	{
+		"chi"		"**直升机正在撤离**"
+	}
+	"<<< DIFFICULTY LEVEL : GOD  IMPOSSIBLE>>>"
+	{
+		"chi"		"**当前难度:公交车司机**"
+	}
+	"<<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>"
+	{
+		"chi"		"**当前关卡的防守时间将会变得更久**"
+	}
+	
+}
