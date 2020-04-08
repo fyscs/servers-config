@@ -6,15 +6,15 @@
 	}
 	"<< End in 120 seconds >>"
 	{
-		"chi"		"**坚持120秒**"
+		"chi"		"**120**"
 	}
 	"<< Warning: 20 seconds left >>"
 	{
-		"chi"		"**还剩20秒**"
+		"chi"		"**20**"
 	}
 	"<< Admin select stage square >>"
 	{
-		"chi"		"**正方形载入**"
+		"chi"		"**方形载入**"
 	}
 	"<< Admin select stage circle >>"
 	{
@@ -58,7 +58,7 @@
 	}
 	"<< 10 seconds >>"
 	{
-		"chi"		"**10秒**"
+		"chi"		"**10**"
 	}
 	"<< Hold for 25 seconds >>"
 	{
@@ -111,5 +111,9 @@
 	"COMPLETE!!!"
 	{
 		"chi"		"**完毕!!!**"
+	}
+	"<< quiet before the storm...... >>"
+	{
+		"chi"		"**新的风暴已经出现**"
 	}
 }
