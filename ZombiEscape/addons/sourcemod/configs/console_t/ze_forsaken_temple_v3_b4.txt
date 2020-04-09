@@ -86,7 +86,7 @@
 	}
 	"** Landslide - avoid red platform **"
 	{
-		"chi"		"**山蹦**“远离红色特效”"   
+		"chi"		"**土遁黄泉沼**“远离红色特效”"   
 	}
 	"** Boss enrage! You are too slow! **"
 	{
@@ -248,10 +248,6 @@
 	{
 		"chi"		"**天马流星拳**“硬抗或跳跃”"   
 	}
-	"** Swallow - stay back **"
-	{
-		"chi"		"**鸿舞莲华**“按住S”"
-	}
 	"** You have failed to escape from the temple **"
 	{
 		"chi"		"**您没能从神殿里逃脱**"
@@ -310,11 +306,11 @@
 	}	
 	"** Force **"
 	{
-		"chi"		"**月天鸿舞**“按住W”" 
+		"chi"		"**神罗天征**“按住W”" 
 	}	
 	"** Swallow **"
 	{
-		"chi"		"**鸿舞莲华**“按住S”"  
+		"chi"		"**万象天引**“按住S”"  
 	}		
 	"** You are too late. Boss enrage soon.. **"
 	{
@@ -322,11 +318,11 @@
 	}	
 	"** Temple door is opening soon **"
 	{
-		"chi"		"**神庙的门很快就会打开**"   
+		"chi"		"**神殿第一扇门将在10秒后打开**"   
 	}	
 	"** You must defend until the door opens **"
 	{
-		"chi"		"**你必须守住直到大门打开**"   
+		"chi"		"**神殿第二扇门将在20秒后打开**"   
 	}	
 	"** Fixing the door. Keep defending! **"
 	{
@@ -458,7 +454,7 @@
 	}	
 	"** Helicopter is leaving 10s **"
 	{
-		"chi"		"**直升机10秒会后离开**"
+		"chi"		"**直升机10秒后离开**"
 	}
 	"** Incorrect combination! The pit will open SLOWER!! **"
 	{
@@ -475,5 +471,9 @@
 	"** Someone got baited... **"
 	{
 		"chi"		"**那是陷阱...**"
+	}
+	"** Door is opening in 40s **"
+	{
+		"chi"		"**大门将在40秒后打开...**"
 	}
 }
