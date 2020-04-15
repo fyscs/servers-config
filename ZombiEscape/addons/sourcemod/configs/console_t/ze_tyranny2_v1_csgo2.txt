@@ -3,32 +3,22 @@
 	">>> Stage1 <<<"
 	{
 		"chi"		">>> 第一关 <<<"
-		"command"   "sm_cvar rank_ze_win_points_humans 3"
-		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 	">>> Stage2 <<<"
 	{
 		"chi"		">>> 第二关 <<<"
-		"command"   "sm_cvar rank_ze_win_points_humans 5"
-		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 	">>> Stage3 <<<"
 	{
 		"chi"		">>> 第三关 <<<"
-		"command"   "sm_cvar rank_ze_win_points_humans 7"
-		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	">>> Stage4 <<<"
 	{
 		"chi"		">>> 第四关 <<<"
-		"command"   "sm_cvar rank_ze_win_points_humans 8"
-		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	">>> Stage5 <<<"
 	{
 		"chi"		">>> 第五关 <<<"
-		"command"   "sm_cvar rank_ze_win_points_humans 12"
-		"command"   "sm_cvar ze_credits_pass_round 7"
 	}
 	">>> Right Door Opening in 15 Seconds <<<"
 	{

@@ -171,20 +171,14 @@
 	"*** STAGE 1 [NORMAL] ***"
 	{
 		"chi"		"** 第一关[普通] **"
-		"command"   "sm_cvar rank_ze_win_points_humans 5"
-		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 	"*** STAGE 2 [NORMAL] ***"
 	{
 		"chi"		"** 第二关[普通] **"
-		"command"   "sm_cvar rank_ze_win_points_humans 5"
-		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 	"*** STAGE 1 [EXTREME] ***"
 	{
 		"chi"		"** 第一关[极限] **"
-		"command"   "sm_cvar rank_ze_win_points_humans 8"
-		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"*** WARMUP ROUND ***"
 	{
@@ -193,8 +187,6 @@
 	"*** STAGE 2 [EXTREME] ***"
 	{
 		"chi"		"** 第二关[极限] **"
-		"command"   "sm_cvar rank_ze_win_points_humans 10"
-		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"*** MAP COMPLETED ***"
 	{

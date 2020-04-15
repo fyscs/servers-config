@@ -307,20 +307,14 @@
 	"*** Stage 2 *** Blue -> Yellow -> Blue -> White -> Red"
 	{
 		"chi"		"**第二关**"
-		"command"   "sm_cvar rank_ze_win_points_humans 5"
-		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"*** Stage 3 ***"
 	{
 		"chi"		"**第三关**"
-		"command"   "sm_cvar rank_ze_win_points_humans 5"
-		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"*** Stage ??? ***"
 	{
 		"chi"		"**隐藏关**"
-		"command"   "sm_cvar rank_ze_win_points_humans 8"
-		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"Hold here for 30 Seconds "
 	{
