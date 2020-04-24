@@ -171,7 +171,7 @@
 	}
 	"**EXTREME MODE**"
 	{
-		"chi"		"**极限模式**"
+		"chi"		"**难度：极限**"
 	}
 	"[Red-XIII] That guy could summon Bahamut.. Where did he take that power?"
 	{
@@ -232,7 +232,7 @@
 	}
 	"**RAGE MODE**"
 	{
-		"chi"		"**RAGE模式已加载**"
+		"chi"		"**难度：RAGE**"
 	}
 	"**Cover here for 10 seconds before we clear this obstacle**"
 	{
@@ -328,7 +328,7 @@
 	}
 	"**The rock will explode in 25 seconds**"
 	{
-		"chi"		"**这块岩石25秒后爆炸**"
+		"chi"		"**岩石25秒后爆炸**"
 	}
 	"**The detonator seems to be broken**Go another way**"
 	{
@@ -344,7 +344,7 @@
 	}
 	"**ZM MODE**"
 	{
-		"chi"		"**感染模式**"
+		"chi"		"**难度：ZM感染模式**"
 	}
 	"**Map has been beaten. Find a place to defend yourself on and keep the zombies away from it**"
 	{
@@ -416,7 +416,7 @@
 	}
 	"**NORMAL MODE**"
 	{
-		"chi"		"**普通模式**"
+		"chi"		"**难度：普通**"
 	}
 	"[Cloud] Hmm.. Seems like the engines are broken.. We are stuck in the middle of this desert!"
 	{
@@ -496,7 +496,7 @@
 	}
 	"**HARD MODE**"
 	{
-		"chi"		"**困难模式**"
+		"chi"		"**难度：困难**"
 	}
 	"[Red-XIII] Hope he will not escape this time I afraid that we could attract extra attention.."
 	{
@@ -576,13 +576,17 @@
 	}
 	"[NORMAL MODE]"
 	{
-		"chi"		"普通模式"
+		"chi"		"难度：普通"
 	}
 	"** [HARD MODE] **"
 	{
-		"chi"		"** **"
+		"chi"		"**难度：困难**"
 	}
 	">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
+	{
+		"chi"		"** **"
+	}
+	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
 	{
 		"chi"		"** **"
 	}

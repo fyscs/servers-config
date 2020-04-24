@@ -30,7 +30,7 @@
 	}
 	"***A human has picked up health!***"
 	{
-		"chi"		"**一名玩家捡起了圣愈之风—奶神器**"
+		"chi"		"**一名玩家获得奶神器**"
 	}
 	"***Hold for 30s!***"
 	{
@@ -42,15 +42,15 @@
 	}
 	"***Shoot rock monster between two eyes!(use m249 or negev)***"
 	{
-		"chi"		"**攻击boss的大脑门（建议使用m249或者内格夫）**"
+		"chi"		"**攻击boss的大脑门**"
 	}
 	"***Rock monster will attack in 5s!***"
 	{
-		"chi"		"**boss在5秒后攻击**"
+		"chi"		"**月球怪5秒后攻击**"
 	}
 	"***Rock monster uses blast!(move to the edge of the platform)***"
 	{
-		"chi"		"**boss使用了冲击！（移动到平台最后面边缘处，注意别掉下去）**"
+		"chi"		"**冲击（去平台边缘）**"
 	}
 	"***Rock monster has been defeated!Go!***"
 	{
@@ -106,7 +106,7 @@
 	}
 	"***A human has picked up rock!***"
 	{
-		"chi"		"**一位玩家获得了土神器**"
+		"chi"		"**一位玩家获得土神器**"
 	}
 	"***The wood door will break in 25s!***"
 	{
@@ -122,7 +122,7 @@
 	}
 	"***Laser***"
 	{
-		"chi"		"***跳刀***"
+		"chi"		"**跳刀**"
 	}
 	"***Some tips!***"
 	{
@@ -174,7 +174,7 @@
 	}
 	"***A human has picked up lightning!***"
 	{
-		"chi"		"一名玩家捡起了闪电风暴—电神器"
+		"chi"		"一名玩家获得电神器"
 	}
 	"***A zombie has picked up accelerate!***"
 	{
@@ -306,11 +306,11 @@
 	}
 	"<< Fix by : Lishang >>"
 	{
-		"chi"		"** **"
+		"chi"		"**修复：离殇**"
 	}
 	"***Boss will destroy us in 5s!***"
 	{
-		"chi"		"**boss5秒后开始进攻**"
+		"chi"		"**月球怪5秒后开始进攻**"
 	}
 	"***A human has picked up unlimited hegrenade!***"
 	{
@@ -318,23 +318,23 @@
 	}
 	"***A human has picked up fire!***"
 	{
-		"chi"		"**一位人类获得了火神器**"
+		"chi"		"**一位人类获得火神器**"
 	}
 	"***Rock monster uses water!(go to the end of the platform)***"
 	{
-		"chi"		"**boss释放技能水（站到站台边缘）**"
+		"chi"		"**水波（站到平台边缘）**"
 	}
 	"***Rock monster uses lightning!(crouch)***"
 	{
-		"chi"		"**boss释放了技能光圈（蹲下）**"
+		"chi"		"**光圈（蹲下）**"
 	}
 	"***Rock monster uses right fire(move to left)!***"
 	{
-		"chi"		"**boss使用了右边火技能（往左边移动）**"
+		"chi"		"**火场（往左移动）**"
 	}
 	"***Rock monster uses left fire(move to right)!***"
 	{
-		"chi"		"**boss释放了左边火（往右边移动）**"
+		"chi"		"**火场（往右移动）**"
 	}
 	"***A human has picked up unlimited ammo!***"
 	{
@@ -350,11 +350,11 @@
 	}
 	"***Rock monster will use forward-push in 3s!***"
 	{
-		"chi"		"**boss在3秒后使用吸力（按住S向后移动）**"
+		"chi"		"**3秒后出现推力(按住S向后移动）**"
 	}
 	"***Rock monster will use backward-push in 3s!***"
 	{
-		"chi"		"**boss在3秒后使用推力（按住W向前移动）**"
+		"chi"		"**3秒后出现推力（按住W向前移动）**"
 	}
 	"***The ultimate will start in 14s!***"
 	{
@@ -362,11 +362,11 @@
 	}
 	"***Rock monster will use left-push in 3s!***"
 	{
-		"chi"		"**boss在3秒后使用左推力（按住D向右移动）**"
+		"chi"		"**3秒后出现推力（按住D向右移动）**"
 	}
 	"***Rock monster will use right-push in 3s!***"
 	{
-		"chi"		"**boss在3秒后使用右推力（按住A向左移动）**"
+		"chi"		"**3秒后出现推力（按住A向左移动）**"
 	}
 	"***25s left!***"
 	{

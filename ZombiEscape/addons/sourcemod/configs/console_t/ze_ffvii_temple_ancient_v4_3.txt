@@ -6,7 +6,7 @@
 	}
 	"*** Black materiar almost at us! ***"
 	{
-		"chi"		"** 黑色材料在我们身边! **"
+		"chi"		"** 黑色材料在附近**"
 	}
 	"*** YOU KEEP 30 SEC ***"
 	{
@@ -14,7 +14,7 @@
 	}
 	"*** SEPHIROT USED HEAL ***"
 	{
-		"chi"		"** 萨菲罗斯使用了治愈 **"
+		"chi"		"** 萨菲罗斯治愈自身 **"
 	}
 	"*** DONT SHOOT HIM ***"
 	{
@@ -22,11 +22,11 @@
 	}
 	"*** SEPHIROT USED LIMIT BREAK"
 	{
-		"chi"		"** 萨菲罗斯使用了极限突破 **"
+		"chi"		"** 萨菲罗斯激活极限突破 **"
 	}
 	"*** SEPHIROT USED DOUBLE DAMAGE"
 	{
-		"chi"		"** 萨菲罗斯使用了双倍输出 **"
+		"chi"		"** 萨菲罗斯激活双倍攻击 **"
 	}
 	"*** Kill SUMMONS ***"
 	{
@@ -46,11 +46,11 @@
 	}
 	"*** DEFEND FOR 15 SEC ***"
 	{
-		"chi"		"** 守住15秒 **"
+		"chi"		"**守住15秒**"
 	}
 	"*** GO GO ***"
 	{
-		"chi"		"** 要走了 **"
+		"chi"		"**快走**"
 	}
 	"*** TELEPORT WILL BE ACTIVATED IN 15 SECONDS ***"
 	{
@@ -62,11 +62,11 @@
 	}
 	"*** GO GO GO  ***"
 	{
-		"chi"		"** 走了走了 **"
+		"chi"		"**快走**"
 	}
 	"***  Down and then to the right ***"
 	{
-		"chi"		"** 往下，然后往右边走 **"
+		"chi"		"** 进去后右转 **"
 	}
 	"*** DEFEND FOR 10 SEC ***"
 	{
@@ -78,7 +78,7 @@
 	}
 	"*** Get up to the white sphere ***"
 	{
-		"chi"		"** 追上发光的白球 **"
+		"chi"		"** 追上白色球体 **"
 	}
 	"*** One of the paths is chosen randomly ***"
 	{
@@ -106,31 +106,31 @@
 	}
 	"*** THE DOOR CAN'T OPEN IF YOU DON'T HAVE THE CRYSTAL ***"
 	{
-		"chi"		"** 如果你没有捡起水晶，门将不会打开 **"
+		"chi"		"** 如果你没有水晶，门不会打开 **"
 	}
 	"*** Pick the crystal below ***"
 	{
-		"chi"		"** 去最下层捡起水晶吧 **"
+		"chi"		"** 去下面寻找水晶 **"
 	}
 	"*** GO TO THE CAVES TO PICK IT UP ***"
 	{
-		"chi"		"** 从洞穴下去捡起它 **"
+		"chi"		"** 可以从洞穴口下去 **"
 	}
 	"*** HI CRYSTAL WAS PICKED UP ***"
 	{
-		"chi"		"** 水晶已捡起 **"
+		"chi"		"** 获得水晶 **"
 	}
 	"*** the door will open in 15 sec ***"
 	{
-		"chi"		"** 门将于15秒后打开 **"
+		"chi"		"** 门15秒后打开 **"
 	}
 	"** HE USES GRAVITY ATTACK! MOVE TO THE SIDES!!! **"
 	{
-		"chi"		"** 它使用了重力攻击!快移动到边缘区域!!! **"
+		"chi"		"** 幻境攻击！往左右两边移动 **"
 	}
 	"** HE USES GRAVITY ATTACK! SHOOT THE METEOR!!! **"
 	{
-		"chi"		"** 它使用了重力攻击!射击高空的流星!!! **"
+		"chi"		"** 幻境攻击！射击头顶陨石 **"
 	}
 	"A player has picked up the ICE Materia"
 	{
@@ -162,7 +162,7 @@
 	}
 	"*** MAP CREATED BY MICROSOFT EDGE AND DARKROAD***"
 	{
-		"chi"		"** 地图作者：MICROSOFT EDGE/DARKROAD 翻译：妮沙@風雲社 **"
+		"chi"		"** 地图作者：MICROSOFT EDGE/DARKROAD 汉化翻译：妮沙 重置：大明@风云社 **"
 	}
 	"***Thanks Batnik_Ref.smd for animation TRI-FACE ***"
 	{
@@ -170,15 +170,15 @@
 	}
 	"*** STAGE 1 [NORMAL] ***"
 	{
-		"chi"		"** 第一关[普通] **"
+		"chi"		"** [普通]第一关 **"
 	}
 	"*** STAGE 2 [NORMAL] ***"
 	{
-		"chi"		"** 第二关[普通] **"
+		"chi"		"** [普通]第二关 **"
 	}
 	"*** STAGE 1 [EXTREME] ***"
 	{
-		"chi"		"** 第一关[极限] **"
+		"chi"		"** [极限]第一关 **"
 	}
 	"*** WARMUP ROUND ***"
 	{
@@ -186,7 +186,7 @@
 	}
 	"*** STAGE 2 [EXTREME] ***"
 	{
-		"chi"		"** 第二关[极限] **"
+		"chi"		"** [极限]第二关 **"
 	}
 	"*** MAP COMPLETED ***"
 	{
@@ -194,11 +194,11 @@
 	}
 	"[AERIS] THIS IS THE TEMPLE OF THE ANCIENTS"
 	{
-		"chi"		"** [艾瑞丝]这里是古代的神殿 **"
+		"chi"		"** [艾瑞丝]终于找到了古代神殿 **"
 	}
 	"[AERIS] I WANT TO GO INSIDE!"
 	{
-		"chi"		"** [艾瑞丝]我想进去看看 **"
+		"chi"		"** [艾瑞丝]我们快进去吧 **"
 	}
 	"*** follow the white sphere ***"
 	{
@@ -214,7 +214,7 @@
 	}
 	"*** GAULLE HAS BEEN KILLED ***"
 	{
-		"chi"		"** GAULLE已被击倒 **"
+		"chi"		"** 高尔已被击倒 **"
 	}
 	"** STAGE 2 WIN **"
 	{
@@ -222,7 +222,7 @@
 	}
 	"*** TRI FACE HAS BEEN KILLED   ***"
 	{
-		"chi"		"** TRI-FACE已被击倒 **"
+		"chi"		"** 三头怪已被击倒 **"
 	}
 	"*** THE DOOR WILL OPEN IN 25 SEC."
 	{
@@ -230,7 +230,7 @@
 	}
 	"*** THE DRAGON HAS BEEN KILLED ***"
 	{
-		"chi"		"** 龙王已经死了 **"
+		"chi"		"** 极神龙倒下了 **"
 	}
 	"[AERIS] CLOUD GO TO A CRYSTAL"
 	{
@@ -238,27 +238,27 @@
 	}
 	"[ADMIN] LVL 2 EXTREME SET"
 	{
-		"chi"		"** 管理员设置了第二关[极限]**"
+		"chi"		"** 管理员设置了[极限]第二关**"
 	}
 	"[ADMIN] LVL 1 NORMAL SET"
 	{
-		"chi"		"** 管理员设置了第一关[普通] **"
+		"chi"		"** 管理员设置了[普通]第一关 **"
 	}
 	"[ADMIN] LVL 2 NORMAL SET"
 	{
-		"chi"		"** 管理员设置了第二关[普通] **"
+		"chi"		"** 管理员设置了[普通]第二关 **"
 	}
 	"[ADMIN] LVL 1 EXTREME SET"
 	{
-		"chi"		"** 管理员设置了第一关[极限] **"
+		"chi"		"** 管理员设置了[极限]第一关 **"
 	}
 	"**Tri Face is going to jump! Move to the edges**"
 	{
-		"chi"		"** Tri-Face似乎想要跳起来攻击我们!移动到平台的边缘 **"
+		"chi"		"** 三头怪似乎想要跳起来攻击我们!移动到平台的边缘 **"
 	}
 	"**Tri Face is healing himself"
 	{
-		"chi"		"** Tri-Face正在治愈自己 **"
+		"chi"		"** 三头怪正在治愈自己 **"
 	}
 	"**HE USES WIND ATTACK! RESIST IT!**"
 	{
@@ -270,11 +270,11 @@
 	}
 	"*** TRI-FACE USED SHIELD DONT SHOOT ***"
 	{
-		"chi"		"** TRI-FACE使用了护盾，停止射击 **"
+		"chi"		"** 三头怪使用了护盾，停止射击 **"
 	}
 	"*** STAGE 1 WIN [EXTREME]***"
 	{
-		"chi"		"** 第一关[极限]胜利**"
+		"chi"		"** [极限]第一关胜利**"
 	}
 	"*** BLACK MATERIA HAS BEEN PICKED UP ***"
 	{
@@ -282,7 +282,7 @@
 	}
 	"*** SEPHIROT ***"
 	{
-		"chi"		"** 萨菲罗斯 **"
+		"chi"		"** 萨菲罗斯！ **"
 	}
 	"*** WAIT ***"
 	{
@@ -306,6 +306,6 @@
 	}
 	"** MAP COMPLETED **"
 	{
-		"chi"		"** 地图已完成 **"
+		"chi"		"** 地图已通关 **"
 	}
 }
