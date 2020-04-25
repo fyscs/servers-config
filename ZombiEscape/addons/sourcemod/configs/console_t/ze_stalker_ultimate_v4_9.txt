@@ -1,60 +1,72 @@
 "Console_T"
 {
-	"**This is a map based on the game STALKER**"
+	"**REWARD**YOU HAVE OBTAINED ONE MORE ITEM ON THIS STAGE"
 	{
-		"chi"		"**这是一张基于游戏stalker制作的地图**"
+		"chi"		"**奖励：人类在此阶段又获得一个神器**"
 	}
-	"**The map isn't eazy. It needs good ZE skills and good teamplay**"
+	"**UNKNOWN ARTEFACT** QUEST COMPLETED"
 	{
-		"chi"		"**地图不是很简单.它需要良好的ZE技能和良好的团队合作**"
+		"chi"		"**高斯枪任务：已完成**"
 	}
-	"**STAGE 1**ROAD TO CHERNOBYL"
+	"He escaped...We will try to get him next time...:0:1"
 	{
-		"chi"		"**第一关[前往切尔诺贝利]**"
+		"chi"		"**他逃跑了…我们下次再来找他…**"
 	}
-	"Map by Headshooter.SC  Headsh Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E Kaemon"
+	"**Seems like the controller if finally dead! Good job**:0:1"
 	{
-		"chi"		"**地图作者：headshooter.sc 地图汉化：大明@風雲社**"
+		"chi"		"**控制者好像被我们干掉了！**"
 	}
-	"**Thanks to Batnik Microsoft Kondik Luffaren Thas Moltard Shufen Kim Enviolinador george. for helping with the port**"
+	"**We got a bomb. But whats this?**"
 	{
-		"chi"		"**感谢[haryde pomka said z-o-m-b-i-e][Batnik][Microsoft][Kondik][Luffaren][Thas][Moltard][Shufen][Kim][Enviolinador][george]**"
+		"chi"		"**我们获得了炸弹.但这是什么？**"
 	}
-	"**CURRENT MISSION: Get to ChAES Station and find the entrance to the secret labaratory**"
+	"**1m 00s before blowout**"
 	{
-		"chi"		"**当前任务：前往CHAES找到秘密实验室的入口**"
+		"chi"		"**核爆60秒后来临**"
 	}
-	"**Lab door 2 will open in 13 seconds**"
+	"**50s before blowout**"
 	{
-		"chi"		"**实验室二门13秒后打开**"
+		"chi"		"**核爆50秒后来临**"
 	}
-	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
+	"**40s before blowout**"
 	{
-		"chi"		"**二号电梯9秒后离开**"
+		"chi"		"**核爆40秒后来临**"
 	}
-	"**Lab door 2 will open for zombies in 18 seconds**"
+	"**30s before blowout**"
 	{
-		"chi"		"**实验室二门18秒后为僵尸打开**"
+		"chi"		"**核爆30秒后来临**"
 	}
-	"**Lab door 1 will open in 11 seconds**"
+	"**20s before blowout**"
 	{
-		"chi"		"**实验室一门11秒后打开**"
+		"chi"		"**核爆20秒后来临**"
 	}
-	"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
+	"**5s before blowout**"
 	{
-		"chi"		"**一号电梯4秒后离开**"
+		"chi"		"**核爆5秒后来临**"
 	}
-	"**Lab door 1 will open for zombies in 18 seconds**"
+	"**10s before blowout**"
 	{
-		"chi"		"**实验室一门18秒后为僵尸打开**"
+		"chi"		"**核爆10秒后来临**"
 	}
-	"**Zombie shield is activated. You have 15 seconds**"
+	"**4s before blowout**"
 	{
-		"chi"		"**僵尸被抵挡15秒**"
+		"chi"		"**核爆4秒后来临**"
 	}
-	"***The control panel seems without power. Maybe using the lever will help***"
+	"**3s before blowout**"
 	{
-		"chi"		"**控制面板好像断电了！启动备用电源**"
+		"chi"		"**核爆3秒后来临**"
+	}
+	"**2s before blowout**"
+	{
+		"chi"		"**核爆2秒后来临**"
+	}
+	"**1s before blowout**"
+	{
+		"chi"		"**核爆1秒后来临**"
+	}
+	"**BLOWOUT HAPPENNED**"
+	{
+		"chi"		"**核爆降临**"
 	}
 	"**The gates will open in 30 seconds**"
 	{
@@ -64,128 +76,400 @@
 	{
 		"chi"		"**看来这很有效.试着用控制面板打开大门**"
 	}
-	"**Zombie shield is disabled**"
+	"***The control panel seems without power. Maybe using the lever will help***"
 	{
-		"chi"		"**僵尸不再被抵挡**"
+		"chi"		"**控制面板好像断电了！启动备用电源**"
 	}
 	"**Hold this position for 10 seconds**"
 	{
 		"chi"		"**守住这个地方10秒！**"
 	}
-	"**ADMIN SET LEVEL 2 IN THE ADMIN ROOM**"
+	"**This is a map based on the game STALKER**"
 	{
-		"chi"		"**管理员设置了第二关**"
+		"chi"		"**这是一张基于游戏stalker制作的地图**"
 	}
-	"**STAGE 2**POLTERGEIST FIGHT"
+	"**The map isn't eazy. It needs good ZE skills and good teamplay**"
 	{
-		"chi"		"**第二关[秘密实验室最深处的秘密]**"
+		"chi"		"**地图不是很简单.它需要良好的ZE技能和良好的团队合作**"
 	}
-	"**CURRENT MISSION: Get to the secret labaratory and find the reason of the strange interference**"
+	"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
 	{
-		"chi"		"**当前任务：到秘密实验室，找出奇怪干扰的原因**"
+		"chi"		"**一号电梯4秒后离开**"
 	}
-	"**Hold the place for 25 seconds**"
+	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
 	{
-		"chi"		"**守住这个地方25秒**"
+		"chi"		"**二号电梯9秒后离开**"
 	}
-	"**UNKNOWN ARTEFACT**+50% COMPLETE"
+	"**15 SECONDS LEFT**"
 	{
-		"chi"		"**高斯枪任务：已完成百分之五十**"
+		"chi"		"**还有15秒**"
+	}
+	"**5 SECONDS LEFT**"
+	{
+		"chi"		"**还有5秒**"
 	}
 	"***Break the spheres to escape***"
 	{
 		"chi"		"**打碎球体逃跑**"
 	}
-	"**Hold for 5 seconds before the gates open**"
-	{
-		"chi"		"**门开前守住5秒**"
-	}
 	"***OH NO WHO IS IT? WE MUST KILL IT!***"
 	{
 		"chi"		"**那是什么？...攻击它**"
 	}
-	"**Wait for others for 5 more seconds**"
+	"**Hold the place for 25 seconds**"
 	{
-		"chi"		"**再等5秒**"
+		"chi"		"**守住这个地方25秒**"
 	}
-	"**Hold 25 seconds**"
+	"**Zombie shield is disabled**"
 	{
-		"chi"		"**守住25秒**"
+		"chi"		"**僵尸不再被抵挡**"
 	}
-	"**This is the last hold point**Hold them 25 seconds until door closes**"
+	"**Zombie shield is activated. You have 15 seconds**"
 	{
-		"chi"		"**这是逃生点！守住25秒直到门关**"
+		"chi"		"**僵尸被抵挡15秒**"
 	}
-	"**Hurry! Fall back to the right side!!**"
+	"**THE ADMIN SET BLOWOUT. U GONNA DIE IN 20 SECONDS**"
 	{
-		"chi"		"**快点！回到右边！**"
+		"chi"		"**管理员设置核爆.20秒后处死全体玩家**"
 	}
-	"**There are zombies in. The level is failed.**"
+	"**OPENING THE GATES (10 SECONDS)**"
 	{
-		"chi"		"**僵尸进来了！关卡失败**"
+		"chi"		"**打开闸门（10秒）**"
 	}
-	"**ADMIN SET LEVEL 4 IN THE ADMIN ROOM**"
+	"**Bloodsucker have been defeated**"
 	{
-		"chi"		"**管理员设置了第四关**"
+		"chi"		"**吸血鬼被打败了**"
 	}
-	"**STAGE 4**PRIPYAT"
+	"**The bomb is planted. Wait until the debris break**"
 	{
-		"chi"		"**第四关[普里皮亚特]**"
+		"chi"		"**炸弹已安放.等待碎石炸开**"
 	}
-	"**CURRENT MISSION: Get to the Pripyat and find the reason of missing stalkers in the pool**"
+	"**Your items got more power**"
 	{
-		"chi"		"**当前任务：去普里皮亚特，找到潜行者的秘密**"
+		"chi"		"**神器升级**"
 	}
-	"**THE DOOR WILL OPEN IN 30 SECONDS**"
+	"**STAGE 3 is beaten. Moving on STAGE 4**"
 	{
-		"chi"		"**大门30秒后打开**"
+		"chi"		"**第三关完成.第四关加载中**"
 	}
-	"***Modified by Reflelia***"
+	"**CURRENT MISSION: Get to ChAES Station and find the entrance to the secret labaratory**  "
 	{
-		"chi"		"**修正：Reflelia**"
+		"chi"		"**当前任务：前往查尔斯找到秘密实验室的入口**"
 	}
-	"***60 SECONDS LEFT***"
+	"**STAGE 1**ROAD TO CHERNOBYL"
 	{
-		"chi"		"**还有60秒**"
+		"chi"		"**第一关[前往切尔诺贝利]**"
 	}
-	"***WARM UP ROUIND***"
+	"**Thanks to Batnik Microsoft Kondik Luffaren Thas Moltard Shufen Kim Enviolinador george. for helping with the port**"
 	{
-		"chi"		"**热身回合**"
+		"chi"		"****"
 	}
-	"**STAGE 2 is beaten. Moving on STAGE 3**"
+	"Map by Headshooter.SC / Headsh Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E Kaemon"
 	{
-		"chi"		"**第二关通过.第三关加载中**"
+		"chi"		"**地图作者：headshooter.sc 地图汉化：大明@風雲社**"
+	}
+	"**CURRENT MISSION: Get to the secret labaratory and find the reason of the strange interference**  "
+	{
+		"chi"		"**当前任务：到秘密实验室，找出奇怪干扰的原因**"
+	}
+	"**STAGE 2**POLTERGEIST FIGHT"
+	{
+		"chi"		"**第二关[实验室最深处的秘密]**"
+	}
+	"**CURRENT MISSION: Get to the X18 labaratory and find information how to get to Pripyat**  "
+	{
+		"chi"		"**当前任务：前往秘密实验室，了解如何到达普里皮亚特**"
+	}
+	"**MISSION UPDATED: Stalkers left a bomb near the control room. Use it to make a way to X18**  "
+	{
+		"chi"		"**任务更新：潜行者在控制室附近留下了炸弹.用它到达秘密实验室**"
 	}
 	"**STAGE 3**ROAD TO PRIPYAT"
 	{
 		"chi"		"**第三关[前往普里皮亚特]**"
 	}
-	"**UNKNOWN ARTEFACT** QUEST COMPLETED"
+	"**ADMIN SET LEVEL 3 IN THE ADMIN ROOM**"
 	{
-		"chi"		"**高斯枪任务：已完成**"
+		"chi"		"**管理员设置了第三关**"
 	}
-	"**REWARD**YOU HAVE OBTAINED ONE MORE ITEM ON THIS STAGE"
+	"**ADMIN SET LEVEL 2 IN THE ADMIN ROOM**"
 	{
-		"chi"		"**奖励：人类在此阶段又获得一个神器**"
+		"chi"		"**管理员设置了第二关**"
 	}
-	"**CURRENT MISSION: Get to the X18 labaratory and find information how to get to Pripyat**"
+	"**ADMIN SET LEVEL 1 IN THE ADMIN ROOM**"
 	{
-		"chi"		"**当前任务：前往秘密实验室，了解如何到达普里皮亚特**"
-	}
-	"**MISSION UPDATED: Stalkers left a bomb near the control room. Use it to make a way to X18**"
-	{
-		"chi"		"**任务更新：潜行者在控制室附近留下了炸弹.用它到达秘密实验室**"
-	}
-	"**We got a bomb. But whats this?**"
-	{
-		"chi"		"**我们获得了炸弹.但这是什么？**"
+		"chi"		"**管理员设置了第一关**"
 	}
 	"**You are too slow...**"
 	{
-		"chi"		"**僵尸出笼...**"
+		"chi"		"**僵尸出笼**"
+	}
+	"**There are zombies in bunker. The level is failed.**"
+	{
+		"chi"		"**僵尸进来了.人类失败**"
+	}
+	"**AUTO-SLAYER ENABLED**"
+	{
+		"chi"		"**自动杀手已启动**"
+	}
+	"**STAGE 1 is beaten. Moving on STAGE 2**"
+	{
+		"chi"		"**第一关完成.第二关加载中**"
+	}
+	"**The blowout will be in 50 seconds. Get to the bunker and defend it**"
+	{
+		"chi"		"**核爆50秒后来临.找个地方开黑**"
+	}
+	"**Survive for 70 seconds**"
+	{
+		"chi"		"**生存70秒**"
+	}
+	"Zombie sheld is activated for 30 seconds!!"
+	{
+		"chi"		"**僵尸被抵挡30秒**"
+	}
+	"Hold this position for 10 seconds!!"
+	{
+		"chi"		"**守住这10秒**"
+	}
+	"The Chernobyl gate will open in 20 seconds."
+	{
+		"chi"		"**切尔诺贝利大门20秒后打开**"
+	}
+	"**Hold this way for 10 seconds**"
+	{
+		"chi"		"**守住10秒**"
+	}
+	"**1 PLAYER have to go to the command room to take documents**"
+	{
+		"chi"		"**一名玩家需要去控制室拿取文件**"
+	}
+	"**It's dead. Good job**"
+	{
+		"chi"		"**它死了**"
+	}
+	"**The documents are here!**We are too close!**"
+	{
+		"chi"		"**获得文件！我们快成功了**"
+	}
+	"**Defend a bit**The door will explode in a few seconds!**"
+	{
+		"chi"		"**再守一会！门马上炸开**"
+	}
+	"**RUN RUN RUN!!!**"
+	{
+		"chi"		"**快跑**"
+	}
+	"**THE SEPARATION POINT - Some guys go forward for documents**"
+	{
+		"chi"		"**提示 - 几个人去控制室获取文件**"
+	}
+	"**THE SEPARATION POINT - Others will go to the left for holding the end point**"
+	{
+		"chi"		"**提示 - 大部分人去侧路抵御僵尸的进攻**"
+	}
+	"**The door wil open in 10 seconds**"
+	{
+		"chi"		"**这个门10秒后打开**"
+	}
+	"**Lab door 1 will open for zombies in 18 seconds**"
+	{
+		"chi"		"**实验室一门18秒后为僵尸打开**"
+	}
+	"**Lab door 1 will open in 11 seconds**"
+	{
+		"chi"		"**实验室一门11秒后打开**"
+	}
+	"**Lab door 2 will open for zombies in 18 seconds**"
+	{
+		"chi"		"**实验室二门18秒后为僵尸打开**"
+	}
+	"**Lab door 2 will open in 13 seconds**"
+	{
+		"chi"		"**实验室二门13秒后打开**"
+	}
+	"**The blowout is comming**"
+	{
+		"chi"		"**核爆即将来临**"
+	}
+	"**Prepare to survive. You need to find the spot and defend it **"
+	{
+		"chi"		"**求生之路！**"
+	}
+	"**Hold here for 25 seconds**"
+	{
+		"chi"		"**守住25秒**"
+	}
+	"**And then go to the pool**"
+	{
+		"chi"		"**然后进入泳池**"
+	}
+	"**CURRENT MISSION: Get to the Pripyat and find the reason of missing stalkers in the pool**  "
+	{
+		"chi"		"**当前任务：去普里皮亚特，找到潜行者的秘密**"
+	}
+	"**STAGE 4**PRIPYAT"
+	{
+		"chi"		"**第四关[普里皮亚特]**"
+	}
+	"**THE DOOR WILL OPEN IN 30 SECONDS**"
+	{
+		"chi"		"**门30秒后打开**"
+	}
+	"**GO INTO THE TELEPORTER***"
+	{
+		"chi"		"**进入传送**"
+	}
+	"**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**"
+	{
+		"chi"		"**挂机玩家即将传送**"
+	}
+	"**NOW WE ARE READY TO GO**"
+	{
+		"chi"		"**整装待发**"
+	}
+	"**HOLD HERE FOR 20 SECONDS**"
+	{
+		"chi"		"**守住20秒**"
+	}
+	"***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***"
+	{
+		"chi"		"**人类有一些时间搜索隐藏神器**"
+	}
+	"***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**"
+	{
+		"chi"		"**撤退！等待道路打开**"
+	}
+	"**ADMIN SET LEVEL 4 IN THE ADMIN ROOM**"
+	{
+		"chi"		"**管理员设置了第四关**"
+	}
+	"**..We founded something unusial..**"
+	{
+		"chi"		"**有异样...**"
+	}
+	"**.. Is it a new anomaly?!..**"
+	{
+		"chi"		"**这是个新型变异者?!..**"
+	}
+	"**CURRENT MISSION: Kill that strange mutant and evacuate from the Exclusion Zone**  "
+	{
+		"chi"		"**当前任务：击杀变异者并逃离切尔诺贝利隔离区**"
+	}
+	"**STAGE 5**WIN OR DIE"
+	{
+		"chi"		"**第五关[生死之战]**"
+	}
+	"**This seems not to be good**"
+	{
+		"chi"		"**这看起来太糟糕了**"
+	}
+	"**Prepare to FIGHT! Now you are only for yourselves**"
+	{
+		"chi"		"**准备战斗！**"
+	}
+	"**The strange energy made your items overpowered. Try to use when nesessary**"
+	{
+		"chi"		"**奇怪的能量干扰了神器.必要的时候再使用它们**"
+	}
+	"**The strong blowout is comming. Choppers can not come here**"
+	{
+		"chi"		"**强大的核辐射即将覆盖这里.直升机无法到达**"
+	}
+	"**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**"
+	{
+		"chi"		"**管理员设置了第五关**"
+	}
+	"**HOLD HERE FOR 25 SECONDS**"
+	{
+		"chi"		"**守住这里25秒**"
+	}
+	"**A PIECE OF FLESH GOT MAXIMUM POWER**"
+	{
+		"chi"		"**飓风升级**"
+	}
+	"**FLASH GOT MAXIMUM POWER**"
+	{
+		"chi"		"**闪电升级**"
+	}
+	"**FIREBALL GOT MAXIMUM POWER**"
+	{
+		"chi"		"**火球升级**"
+	}
+	"**SPIKEBALL GOT MAXIMUM POWER**"
+	{
+		"chi"		"**神器升级**"
+	}
+	"**NIGHTSTAR GOT MAXIMUM POWER**"
+	{
+		"chi"		"**夜星升级**"
+	}
+	"**UNKNOWN ARTEFACT** +50% COMPLETE"
+	{
+		"chi"		"**未知艺术品：完成百分之五十**"
+	}
+	"**UNKNOWN ARTEFACT**+50% COMPLETE"
+	{
+		"chi"		"**未知艺术品：完成百分之五十**"
+	}
+	"**THE LEVEL IS FAILED** ZOMBIES MADE IT TO THE SECOND WAY**"
+	{
+		"chi"		"**关卡失败.僵尸进来了**"
+	}
+	"**Now go away to the coast**"
+	{
+		"chi"		"**现在去海边**"
+	}
+	"**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**"
+	{
+		"chi"		"**变异者控制了你的大脑！这里是幻境！**"
+	}
+	"**Hold for 5 seconds before the gates open**"
+	{
+		"chi"		"**5秒后大门打开**"
+	}
+	"**STAGE 2 is beaten. Moving on STAGE 3**"
+	{
+		"chi"		"**第二关完成.第三关加载中**"
+	}
+	"**There are zombies in. The level is failed.**"
+	{
+		"chi"		"**僵尸进来了.关卡失败**"
+	}
+	"**This is the last hold point**Hold them 25 seconds until door closes**"
+	{
+		"chi"		"**这是最后一个守点！守住25秒直到门关**"
+	}
+	"**Hold 25 seconds**"
+	{
+		"chi"		"**守住25秒**"
+	}
+	"**Hurry! Fall back to the right side!!**"
+	{
+		"chi"		"**快点！回到右边去！**"
+	}
+	"**Wait for others for 5 seconds**"
+	{
+		"chi"		"**等待5秒其他人正在赶来**"
+	}
+	"**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**"
+	{
+		"chi"		"**你征服了这张地图！你才是真正的潜行者！**"
+	}
+	"**STAGE 4 is beaten. Moving on STAGE 5**"
+	{
+		"chi"		"**第四关完成.第五关加载中**"
 	}
 	"**Bloodsucker was picked up**"
 	{
-		"chi"		"**获得吸血鬼**"
+		"chi"		"**吸血鬼被拾取**"
+	}
+	"**Wait for others for 5 more seconds**"
+	{
+		"chi"		"**等待5秒其他人正在赶来**"
+	}
+	"**Controller was picked up**"
+	{
+		"chi"		"**控制者已出现**"
 	}
 }
