@@ -6,7 +6,7 @@
 	}
 	"||| ELEVATOR OPENS IN 25 SECONDS |||"
 	{
-		"chi"		"电梯将在25秒后离开"
+		"chi"		"电梯门25秒后打开"
 	}
 	"||| DOOR IS CLOSING |||"
 	{
@@ -18,11 +18,11 @@
 	}
 	"||| Map by Struppi |||"
 	{
-		"chi"		"地图制作:Struppi  汉化:小三@风云社"
+		"chi"		"地图制作:Struppi  汉化:小三＆大明@风云社"
 	}
 	"||| BRIDGE EXTEND IN 20 SECONDS |||"
 	{
-		"chi"		"桥梁将在20秒后延伸"
+		"chi"		"桥20秒后延伸"
 	}
 	"||| HOLD FOR 10 SECONDS |||"
 	{
@@ -34,59 +34,59 @@
 	}
 	"||| CORE EXPLODES IN 170 SECONDS |||"
 	{
-		"chi"		"核心将在170秒后摧毁"
+		"chi"		"警告：核心将在170秒后摧毁"
 	}
 	"||| CORE EXPLODES IN 100 SECONDS |||"
 	{
-		"chi"		"核心将在100秒后摧毁"
+		"chi"		"警告：核心100秒后摧毁"
 	}
 	"||| CORE EXPLODES IN 80 SECONDS |||"
 	{
-		"chi"		"核心将在80秒后摧毁"
+		"chi"		"警告：核心80秒后摧毁"
 	}
 	"||| CORE EXPLODES IN 60 SECONDS |||"
 	{
-		"chi"		"核心将在60秒后摧毁"
+		"chi"		"警告：核心60秒后摧毁"
 	}
 	"||| CORE EXPLODES IN 40 SECONDS |||"
 	{
-		"chi"		"核心将在40秒后摧毁"
+		"chi"		"警告：核心40秒后摧毁"
 	}
 	"||| CORE EXPLODES IN 20 SECONDS |||"
 	{
-		"chi"		"核心将在20秒后摧毁"
+		"chi"		"警告：核心20秒后摧毁"
 	}
 	"||| CORE EXPLODES IN 10 SECONDS |||"
 	{
-		"chi"		"核心将在10秒后摧毁"
+		"chi"		"警告：核心10秒后摧毁"
 	}
 	"||| CORE EXPLODES IN 5 SECONDS |||"
 	{
-		"chi"		"核心将在5秒后摧毁"
+		"chi"		"警告：核心5秒后摧毁"
 	}
 	"||| CORE EXPLODES IN 4 SECONDS |||"
 	{
-		"chi"		"核心将在4秒后摧毁"
+		"chi"		"警告：核心4秒后摧毁"
 	}
 	"||| CORE EXPLODES IN 3 SECONDS |||"
 	{
-		"chi"		"核心将在3秒后摧毁"
+		"chi"		"警告：核心3秒后摧毁"
 	}
 	"||| CORE EXPLODES IN 2 SECONDS |||"
 	{
-		"chi"		"核心将在2秒后摧毁"
+		"chi"		"警告：核心2秒后摧毁"
 	}
 	"||| CORE EXPLODES IN 1 SECONDS |||"
 	{
-		"chi"		"核心将在1秒后摧毁"
+		"chi"		"警告：核心1秒后摧毁"
 	}
 	"||| ELEVATOR LEAVES IN 10 SECONDS |||"
 	{
-		"chi"		"电梯将在10秒后离开"
+		"chi"		"电梯10秒后离开"
 	}
 	"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
 	{
-		"chi"		"传送器和通风装置在15秒后重新激活"
+		"chi"		"传送器和通风装置15秒后重新激活"
 	}
 	"||| FIND A WAY OUT OF THIS CAVE |||"
 	{
@@ -106,23 +106,23 @@
 	}
 	"||| ZOMBIE TRAIN - WIN DISABLE |||"
 	{
-		"chi"		"火车检测到僵尸,人类失败"
+		"chi"		"火车检测到僵尸.人类失败"
 	}
 	"||| CHAPTER 1 => RETURN |||"
 	{
-		"chi"		"第一章:返回"
+		"chi"		"第一章：重返金字塔"
 	}
 	"||| CHAPTER 2 => SECURE |||"
 	{
-		"chi"		"第二章:安全"
+		"chi"		"第二章：地底的秘密"
 	}
 	"||| CHAPTER 3 => AWAKENING |||"
 	{
-		"chi"		"第三章:唤醒"
+		"chi"		"第三章：古代种苏醒"
 	}
 	"||| CHAPTER 4 => SHOWDOWN |||"
 	{
-		"chi"		"第四章:摊牌"
+		"chi"		"第四章：最后的决战"
 	}
 	"||| WARMUP ROUND |||"
 	{
@@ -230,11 +230,11 @@
 	}
 	"||| YOU WIN |||"
 	{
-		"chi"		"祝贺,你取得胜利"
+		"chi"		"祝贺你取得胜利"
 	}
 	"||| YOU FAILED |||"
 	{
-		"chi"		"很遗憾,你失败了"
+		"chi"		"很遗憾你失败了"
 	}
 	"||| SHOOT THE ENERGY BEAMS AND DEFEND THE ZOMBIES |||"
 	{
@@ -254,19 +254,19 @@
 	}
 	"||| CHAPTER 5 => DESTRUCTION |||"
 	{
-		"chi"		"第五章:摧毁"
+		"chi"		"第五章：摧毁古代种"
 	}
 	"||| CHAPTER 6 => FEAR |||"
 	{
-		"chi"		"第六章:恐惧"
+		"chi"		"第六章：来自深渊的恐惧"
 	}
 	"||| CHAPTER 7 => REDEMPTION |||"
 	{
-		"chi"		"第七章:救赎"
+		"chi"		"第七章：救赎"
 	}
 	"||| CHAPTER 8 => LIBERATION |||"
 	{
-		"chi"		"第八章:解放"
+		"chi"		"第八章：解放"
 	}
 	"<Stage 1>"
 	{
@@ -318,23 +318,23 @@
 	}
 	"||| C4 EXPLODE IN 5 SECONDS |||"
 	{
-		"chi"		"炸药将在5秒后爆炸"
+		"chi"		"炸药5秒后爆炸"
 	}
 	"||| C4 EXPLODE IN 15 SECONDS |||"
 	{
-		"chi"		"炸药将在15秒后爆炸"
+		"chi"		"炸药15秒后爆炸"
 	}
 	"||| DOOR OPENS IN 30 SECONDS |||"
 	{
-		"chi"		"大门将在30秒后打开"
+		"chi"		"大门30秒后打开"
 	}
 	"||| ELEVATOR LEAVING IN 20 SECONDS |||"
 	{
-		"chi"		"电梯将在20秒后离开"
+		"chi"		"电梯20秒后离开"
 	}
 	"||| ELEVATOR LEAVING IN 5 SECONDS |||"
 	{
-		"chi"		"电梯将在5秒后离开"
+		"chi"		"电梯5秒后离开"
 	}
 	"||| DEFEND FOR 25 SECONDS |||"
 	{
