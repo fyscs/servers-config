@@ -1,0 +1,611 @@
+"Console_T"
+{ 
+	"<< Stage 1 >>"
+	{
+		"chi"		"关卡一"
+	}
+	"<< Map by Misaka >>"
+	{
+		"chi"		"地图制作:Misaka  汉化:小三@风云社"
+	}
+	"<< special thanks to koyomaple and gneL>>"
+	{
+		"chi"		"特别感谢koyomaple和gnel"
+	}
+	"<< This is the final version of V1 >>"
+	{
+		"chi"		"这是V1的最终版本"
+	}
+	"<< teleport will be enabled in 20 seconds >>"
+	{
+		"chi"		"人类将在20秒后传送"
+	}
+	"<< teleport will be enabled in 10 seconds >>"
+	{
+		"chi"		"人类将在10秒后传送"
+	}
+	"<< human teleported >>"
+	{
+		"chi"		"人类传送"
+	}
+	"<< zombie will be teleported soon >>"
+	{
+		"chi"		"僵尸将会在稍后传送"
+	}
+	"<< zombie teleported >>"
+	{
+		"chi"		"僵尸传送"
+	}
+	"<< A zombie has picked up speed >>"
+	{
+		"chi"		"一名僵尸获得了加速"
+	}
+	"<< the way will be able to pass in 25 seconds >>"
+	{
+		"chi"		"空气墙将在25秒后消失"
+	}
+	"<< 5 more seconds >>"
+	{
+		"chi"		"剩余5秒"
+	}
+	"<< we need to wait the platform for 25 seconds >>"
+	{
+		"chi"		"防守25秒,等待板子完全降下来"
+	}
+	"<< the platform will rise in 15 seconds >>"
+	{
+		"chi"		"石板15秒后上升"
+	}
+	"<< the wall will disappear in 30 seconds >>"
+	{
+		"chi"		"防守30秒后直至道路畅通"
+	}
+	"<< we need to find a way to go on >>"
+	{
+		"chi"		"我们需要找到一条路离开"
+	}
+	"<< the front wall will disappear in 15 seconds >>"
+	{
+		"chi"		"前进的路将在15秒后打开"
+	}
+	"<< we can go inside the room in 20 seconds >>"
+	{
+		"chi"		"20秒后我们可以进入房间里"
+	}
+	"<< defend for 10 seconds >>"
+	{
+		"chi"		"防守10秒"
+	}
+	"<< defend for 15 seconds >>"
+	{
+		"chi"		"防守15秒"
+	}
+	"<< zombie used speed >>"
+	{
+		"chi"		"僵尸使用了加速"
+	}
+	"<< the platform will move in 15 seconds >>"
+	{
+		"chi"		"木板将在15秒后移动" 
+	}
+	"<< 5 seconds to move >>"
+	{
+		"chi"		"木板将在5秒后移动"
+	}
+	"<< the platform will move again in 10 seconds >>"
+	{
+		"chi"		"木板10秒后上升"
+	}
+	"<< boss fight will begin in 10 seconds >>"
+	{
+		"chi"		"距离BOSS出现还有10秒"
+	}
+	"<< defeat the boss >>"
+	{
+		"chi"		"打败BOSS"
+	}
+	"<< Be Careful! You only have 120 seconds to defeat the boss >>"
+	{
+		"chi"		"你只有120的时间去打败BOSS"
+	}
+	"<< Mega Push >>"
+	{
+		"chi"		"神罗天征“三段推,按住W”"
+	}
+	"<< Fallen Sky >>"
+	{
+		"chi"		"堕天使降临“两次天坠,躲开头顶白色板子”"
+	}
+	"<< Trials of Sword >>"
+	{
+		"chi"		"雷击之剑“四面来刀”"
+	}
+	"<< Boss is defeated >>"
+	{
+		"chi"		"BOSS被打败了"
+	}
+	"<< a bridge appears >>"
+	{
+		"chi"		"道路显现"
+	}
+	"<< zombie will release soon >>"
+	{
+		"chi"		"丧尸出笼"
+	}
+	"<< the glass wall will break in 15 seconds >>"
+	{
+		"chi"		"防守15秒"
+	}
+	"<< we can reach the top in 50 seconds >>"
+	{
+		"chi"		"继续防守50秒"
+	}
+	"<< the final platform will move in 3 seconds >>"
+	{
+		"chi"		"平台将在3秒后移动"
+	}
+	"<< wait ...... something may happen ...... >>"
+	{
+		"chi"		"等等...好像有点不对劲..."
+	}
+	"<< It's Misaka !!! >>"
+	{
+		"chi"		"是御坂"
+	}
+	"<< Reaping Slash >>"
+	{
+		"chi"		"回天剑舞“蹲下”"
+	}
+	"<< Giga Drain >>"
+	{
+		"chi"		"万象天引“两段吸,按住S”"
+	}
+	"<< dodge the laser !!! >>"
+	{
+		"chi"		"高低刀"
+	}
+	"<< more laser is coming !!! >>"
+	{
+		"chi"		"列车刀"
+	}
+	"<< up and down !!! >>"
+	{
+		"chi"		"上下刀"
+	}
+	"<< Stage 1 Complete >>"
+	{
+		"chi"		"关卡一完成"
+	}
+	"<< Stage 2 >>"
+	{
+		"chi"		"关卡二"
+	}
+	"<< A player has picked up heal >>"
+	{
+		"chi"		"一名玩家捡起了奶"
+	}
+	"<< a player has picked up wind >>"
+	{
+		"chi"		"一名玩家捡起了风"
+	}
+	"<< teleport will enable in 20 seconds >>"
+	{
+		"chi"		"传送装置:20秒"
+	}
+	"<< zombie will teleport in 10 seconds >>"
+	{
+		"chi"		"僵尸将于10秒后传送"
+	}
+	"<< the way will be able to pass in 15 seconds >>"
+	{
+		"chi"		"防守15秒"
+	}
+	"<< hold for 25 seconds >>"
+	{
+		"chi"		"防守25秒"
+	}
+	"<< the teleport will enable in 30 seconds >>"
+	{
+		"chi"		"传送装置:30秒"
+	}
+	"<< heal used >>"
+	{
+		"chi"		"使用了治疗"
+	}
+	"<< zombie will come in 5 seconds >>"
+	{
+		"chi"		"僵尸将于5秒后传送"
+	}
+	"<< we can go into the tower in 35 seconds >>"
+	{
+		"chi"		"高塔将在35秒后开放"
+	}
+	"<< hold for 30 seconds >>"
+	{
+		"chi"		"防守30秒"
+	}
+	"<< zombie will teleport in 20 seconds >>"
+	{
+		"chi"		"僵尸将于20秒后传送"
+	}
+	"<< the guard will disappear in 30 seconds >>"
+	{
+		"chi"		"守卫将在30秒后消失"
+	}
+	"<< climb to the top and shooting the guard, so that the teleport can be activated >>"
+	{
+		"chi"		"爬到顶部然后射击守卫,传送才会被触发"
+	}
+	"<< Be Careful, only shooting the head of the guard may cause damage >>"
+	{
+		"chi"		"只有射击守卫的头部才能对它造成伤害"
+	}
+	"<< teleport will enable in 40 seconds >>"
+	{
+		"chi"		"传送装置:40"
+	}
+	"<< the ladder is able to climb >>"
+	{
+		"chi"		"僵尸梯子处于开放状态"
+	}
+	"<< So we meet the second time >>"
+	{
+		"chi"		"御坂:我们又再次见面了"
+	}
+	"<< Try your best to survive from the attack >>"
+	{
+		"chi"		"尽你所能从BOSS的攻击中活下来"
+	}
+	"<< To escape this tower!!! >>"
+	{
+		"chi"		"逃离这座塔"
+	}
+	"<< zombie will release in 10 seconds >>"
+	{
+		"chi"		"僵尸将于10秒后传送"
+	}
+	"<< the guard will disappear in 25 seconds >>"
+	{
+		"chi"		"守卫将在25秒后消失"
+	}
+	"<< It's Misaka Again!!! >>"
+	{
+		"chi"		"与御坂再次相遇"
+	}
+	"<< Shooting Misaka >>"
+	{
+		"chi"		"快掏枪射御坂"
+	}
+	"<<You only have 25 seconds to get to the end >>"
+	{
+		"chi"		"防守25秒"
+	}
+	"<< Stage 2 Complete >>"
+	{
+		"chi"		"关卡二完成"
+	}
+	"<< Stage 3 >>"
+	{
+		"chi"		"关卡三"
+	}
+	"<< the fence will disappear in 20 seconds >>"
+	{
+		"chi"		"铁网将在20秒后碎裂"
+	}
+	"<< A player has got the letter M >>"
+	{
+		"chi"		"一位玩家拿起了字母“M”"
+	}
+	"<< hold for 15 seconds until the guards permit us to go >>"
+	{
+		"chi"		"防守15秒,直到雕塑警卫允许我们离开"
+	}
+	"<< wait for a moment >>"
+	{
+		"chi"		"等待一会"
+	}
+	"<< A player has got the letter I >>"
+	{
+		"chi"		"一名玩家找到了字母“I”"
+	}
+	"<< the wall will break in 25 seconds >>"
+	{
+		"chi"		"道路将在25秒后打开"
+	}
+	"<< A player has got the letter S >>"
+	{
+		"chi"		"一一名玩家找到了字母“S”"
+	}
+	"<< the wall will break in 20 seconds >>"
+	{
+		"chi"		"道路将在20秒后打开"
+	}
+	"<< Shooting the guard >>"
+	{
+		"chi"		"射击守卫"
+	}
+	"<< A player has got the letter A >>"
+	{
+		"chi"		"一名玩家找到了字母“A”"
+	}
+	"<< The wall will break in 35 seconds >>"
+	{
+		"chi"		"星光屏障35秒后消失"
+	}
+	"<< hold for 55 seconds >>"
+	{
+		"chi"		"防守55秒"
+	}
+	"<< A player has got the letter K >>"
+	{
+		"chi"		"一名玩家找到了字母“K”"
+	}
+	"<< Flame of Revenge >>"
+	{
+		"chi"		"替身攻击“BOSS召唤了它的小弟”"
+	}
+	"<< Sign of Death >>"
+	{
+		"chi"		"天殛洗礼“天坠”"“
+	}
+	"<< Resurrection >>"
+	{
+		"chi"		"秽土转生“二阶段”"
+	}
+	"<< BGM and IDEA from ze_tilex >>"
+	{
+		"chi"		"音乐和灵感来源于跳刀列车"
+	}
+	"<< Absolute Purification >>"
+	{
+		"chi"		"绝对净化“旋转刀”"
+	}
+	"<< Despair Pain >>"
+	{
+		"chi"		"绝望痛苦“暗黑球”"
+	}
+	"<< Hunting Instinct >>"
+	{
+		"chi"		"试炼之剑“四面来刀”"
+	}
+	"<< Dark Wave >>"
+	{
+		"chi"		"死灵乱魔“多段推”"
+	}
+	"<< the final door will open in 30 seconds >>"
+	{
+		"chi"		"最终の门将在30秒后打开"
+	}
+	"<< A player has got a letter A >>"
+	{
+		"chi"		"一名玩家找到了字母“A”"
+	}
+	"<< You've already got all 6 secret letters >>"
+	{
+		"chi"		"你们已经找到了六个隐藏的字母"
+	}
+	"<< hold for 15 seconds >>"
+	{
+		"chi"		"防守15秒"
+	}
+	"<< Do you think this is over? >>"
+	{
+		"chi"		"嘛哒嘛哒哟!"
+	}
+	"<< ... >>"
+	{
+		"chi"		" 想成为马猴烧酒战士吗?"
+	}
+	"<< Try to Get to The End !!! >>"
+	{
+		"chi"		"那就去到路的尽头"
+	}
+	"<< Be careful about the abnormal gravity >>"
+	{
+		"chi"		"低重力列车刀"
+	}
+	"<< and also be careful about the wall on your back >>"
+	{
+		"chi"		"走得慢的将会受到制裁"
+	}
+	"<< You only have 10 seconds to get to the end >>"
+	{
+		"chi"		"你还剩10秒来到尽头"
+	}
+	"<< 5 >>"
+	{
+		"chi"		"5"
+	}
+	"<< 4 >>"
+	{
+		"chi"		"4"
+	}
+	"<< 3 >>"
+	{
+		"chi"		"3"
+	}
+	"<< 2 >>"
+	{
+		"chi"		"2"
+	}
+	"<< 1 >>"
+	{
+		"chi"		"1"
+	}
+	"<< The boss appears again !!! >>"
+	{
+		"chi"		"御坂再次出现了!"
+	}
+	"<< Shooting it and dodge the laser!!>>"
+	{
+		"chi"		"甘霖娘“还soloking呢!？”"
+	}
+	"<< Stage 3 true end complete>>"
+	{
+		"chi"		"关卡三完成"
+	}
+	"<< Why you come here again? >>"
+	{
+		"chi"		"为什么你要再次出现在这里？"
+	}
+	"<< You have already win this map >>"
+	{
+		"chi"		"你早已经完成了你的旅程"
+	}
+	"<< RTV plz >>"
+	{
+		"chi"		" "
+	}
+	"<< do not hear what I say? >>"
+	{
+		"chi"		"你们没听到我再说什么嘛？"
+	}
+	"<< RTV!!! >>"
+	{
+		"chi"		" "
+	}
+	"<< Survive for 165 seconds!!! >>"
+	{
+		"chi"		"活下去"
+	}
+	"<< 120 seconds >>"
+	{
+		"chi"		"活下去"
+	}
+	"<< 60 seconds >>"
+	{
+		"chi"		"60秒"
+	}
+	"<< 30 seconds >>"
+	{
+		"chi"		"30秒"
+	}
+	"<< INSANE I >>"
+	{
+		"chi"		"一插一"
+	}
+	"<< 55 seconds left >>"
+	{
+		"chi"		"55秒"
+	}
+	"<< INSANE I Complete >>"
+	{
+		"chi"		"一插一 完成"
+	}
+	"<< Prepare For Final Misaka Insane Stage II >>"
+	{
+		"chi"		"准备好了吗？"
+	}
+	"<< INSANE II >>"
+	{
+		"chi"		"一插二"
+	}
+	"<< Defeat The Final Misaka To Win This Map >>"
+	{
+		"chi"		"打败最后的御坂"
+	}
+	"<< I Know that you work hard to get here >>"
+	{
+		"chi"		"我知道你历尽艰辛来到了这里"
+	}
+	"<< Its the time to meet the final >>"
+	{
+		"chi"		"是时候展现你真正的技术了"
+	}
+	"<< Congratulation !!! >>"
+	{
+		"chi"		"祝贺"
+	}
+	"<< You've win all stage !!! >>"
+	{
+		"chi"		"你完成了所有关卡"
+	}
+	"<< A SECRET BUTTON has been UNLOCKED !!! >>"
+	{
+		"chi"		"一个秘密按钮已被解锁"
+	}
+	"<< Admin select EXMode >>"
+	{
+		"chi"		"管理员选择了一插一"
+	}
+	"<< Admin select INSANE II >>"
+	{
+		"chi"		"管理员选择了一插二"
+	}
+	"<< Nuke in 5 seconds >>"
+	{
+		"chi"		"5秒后核爆"
+	}
+	"<< You only have 60 seconds >>"
+	{
+		"chi"		"你仅有60秒的时间"
+	}
+	"<< You only have 30 seconds >>"
+	{
+		"chi"		"你仅有30秒的时间"
+	}
+	"<< Misaka is defeated >>"
+	{
+		"chi"		"御坂被打败了"
+	}
+	"<< Admin select INSANE MODE >>"
+	{
+		"chi"		"管理员选择了一插一"
+	}
+	"<< Admin wants to RTV >>"
+	{
+		"chi"		"管理员选择了RTV关"
+	}
+	"<< The boss will be unkillable after 25 seconds >>"
+	{
+		"chi"		"只有在25秒内打败御坂才能成为马猴烧酒战士"
+	}
+	"<< Admin select Stage 2 >>"
+	{
+		"chi"		"管理员选择了第二关"
+	}
+	"<< Admin select Stage 3 >>"
+	{
+		"chi"		"管理员选择了第三关"
+	}
+	"<< Admin select Stage 1 >>"
+	{
+		"chi"		"管理员选择了第一关"
+	}
+	"<< special thanks to koyomaple, Excarliber and gneL >>"
+	{
+		"chi"		"鸣谢:koyomaple Excarliber and gneL"
+	}
+	"<< Wind >>"
+	{
+		"chi"		"铁砂风暴“随机方向推力”"
+	}
+	"<< Misaka is using cannon >>"
+	{
+		"chi"		"电磁炮"
+	}
+	"<< Misaka will use holy in 6 seconds >>"
+	{
+		"chi"		"真正的落雷“6秒后静止平台将会受到秒杀伤害”"
+	}
+	"<< You only have 10 seconds >>"
+	{
+		"chi"		"你仅剩下10秒时间打败御坂"
+	}
+	"<< the wall will break in 30 seconds >>"
+	{
+		"chi"		"墙壁将在30秒后碎裂"
+	}
+	"<< Stage 3 Complete >>"
+	{
+		"chi"		"关卡三完成"
+	}
+	"<< try to find another end of Stage 3 >>"
+	{
+		"chi"		"第三关隐藏着另外一个结局"
+	}
+	""
+	{
+		"chi"		""
+	}
+}
