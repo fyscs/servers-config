@@ -179,30 +179,45 @@
 	"[STAGE 1 NORMAL]"
 	{
 		"chi"		"**第一关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 3"
+		"command"   "sm_cvar ze_credits_pass_round 3"
+		
 	}
 	"[STAGE 2 NORMAL]"
 	{
 		"chi"		"**第二关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 3"
+		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 	"[STAGE 3 NORMAL]"
 	{
 		"chi"		"**第三关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 5"
+		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"[STAGE 1 EXTREME]"
 	{
 		"chi"		"**一插一**"
+		"command"   "sm_cvar rank_ze_win_points_humans 5"
+		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"[STAGE 2 EXTREME]"
 	{
 		"chi"		"***一插二*"
+		"command"   "sm_cvar rank_ze_win_points_humans 8"
+		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"[STAGE 3 EXTREME]"
 	{
 		"chi"		"**一插三**"
+		"command"   "sm_cvar rank_ze_win_points_humans 10"
+		"command"   "sm_cvar ze_credits_pass_round 5"
 	}
 	"[FINAL STAGE]"
 	{
 		"chi"		"**ZM关**"
+		"command"   "sm_cvar rank_ze_win_points_humans 3"
+		"command"   "sm_cvar ze_credits_pass_round 3"
 	}
 	"THE DOOR TO THE BOSS WILL OPEN IN 30 SECONDS"
 	{

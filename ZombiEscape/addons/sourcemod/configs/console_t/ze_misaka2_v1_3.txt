@@ -1,0 +1,483 @@
+"Console_T"
+{
+	"<< model by koyomaple >>"
+	{
+		"chi"		"**模型提供：koyomaple**"
+	}
+	"<< script by Excarliber >>"
+	{
+		"chi"		"**脚本提供：Excarliber**"
+	}
+	"<< teleport in 20 seconds >>"
+	{
+		"chi"		"**20秒后传送**"
+	}
+	"<< A player has picked up wind magic >>"
+	{
+		"chi"		"**风 拾取**"
+	}
+	"<< A player has picked up snow magic >>"
+	{
+		"chi"		"**水 拾取**"
+	}
+	"<< A zombie has picked up speed magic >>"
+	{
+		"chi"		"**僵尸加速 拾取**"
+	}
+	"<< A player has picked up heal magic >>"
+	{
+		"chi"		"**奶 拾取**"
+	}
+	"<< zombie used speed >>"
+	{
+		"chi"		"**僵尸使用加速**"
+	}
+	"<< the bridge will open in 20 seconds >>"
+	{
+		"chi"		"**大桥20秒后可通**"
+	}
+	"<< the way is able to pass now >>"
+	{
+		"chi"		"**这条路现在可以过去了**"
+	}
+	"<< the way will be able to pass in 10 seconds >>"
+	{
+		"chi"		"**这条路10秒后可以过去**"
+	}
+	"<< This Tomb is used to commemorate the player who win ze_misaka with bhop hack >>"
+	{
+		"chi"		"**这个墓碑是用来纪念用bhop hack通关ze_misaka的玩家**"
+	}
+	"<< R.I.P >>"
+	{
+		"chi"		"**愿您安息**"
+	}
+	"<< the way will be able to pass in 20 seconds >>"
+	{
+		"chi"		"**这条路20秒后就能过去**"
+	}
+	"<< A zombie has picked up gravity magic >>"
+	{
+		"chi"		"**僵尸黑洞 拾取**"
+	}
+	"<< wait for 30 seconds >>"
+	{
+		"chi"		"**等待30秒**"
+	}
+	"<< defend for 20 seconds >>"
+	{
+		"chi"		"**守住20秒**"
+	}
+	"<< defend for 25 seconds >>"
+	{
+		"chi"		"**守住25秒**"
+	}
+	"<< wait for 20 seconds >>"
+	{
+		"chi"		"**等待20秒**"
+	}
+	"<< the platform wil rise in 20 seconds >>"
+	{
+		"chi"		"**平台20秒后升起**"
+	}
+	"<< defend for 35 seconds >>"
+	{
+		"chi"		"**守住35秒**"
+	}
+	"<< STAGE I COMPLETE >>"
+	{
+		"chi"		"**第一关完成**"
+	}
+	"<< teleport human in 20 seconds >>"
+	{
+		"chi"		"**20秒后传送人类**"
+	}
+	"<< Admin select STAGE II >>"
+	{
+		"chi"		"**管理员设置第二关**"
+	}
+	"<< the bridge will appear in 20 seconds >>"
+	{
+		"chi"		"**这座桥20秒后就会出现**"
+	}
+	"<< wait for a few seconds >>"
+	{
+		"chi"		"**再守一会**"
+	}
+	"<< defend for 30 seconds >>"
+	{
+		"chi"		"**守住30秒**"
+	}
+	"<< defend for 10 seconds >>"
+	{
+		"chi"		"**守住10秒**"
+	}
+	"<< defend for 15 seconds >>"
+	{
+		"chi"		"**守住15秒**"
+	}
+	"<< hold for 25 seconds >>"
+	{
+		"chi"		"**守住25秒**"
+	}
+	"<< defend for 40 seconds >>"
+	{
+		"chi"		"**守住40秒**"
+	}
+	"<< STAGE II COMPLETE >>"
+	{
+		"chi"		"**第二关完成**"
+	}
+	"<< The next button will unlock in 10 seconds >>"
+	{
+		"chi"		"**下一个按钮10秒后解锁**"
+	}
+	"<< the boat will move in 10 seconds >>"
+	{
+		"chi"		"**船10秒后移动**"
+	}
+	"<< the boat will move again in 10 seconds >>"
+	{
+		"chi"		"**船10秒后再次移动**"
+	}
+	"<< the way will close in 10 seconds >>"
+	{
+		"chi"		"**10秒后就要关门了**"
+	}
+	"<< Trials of Sword lv.1 >>"
+	{
+		"chi"		"**跳刀审判 Lv.1**"
+	}
+	"<< survive for 130 seconds >>"
+	{
+		"chi"		"**生存130秒**"
+	}
+	"<< wait.... something will happen....>>"
+	{
+		"chi"		"**什么东西要出现了...**"
+	}
+	"<< Its Misaka!!!>>"
+	{
+		"chi"		"**是炮姐！！！**"
+	}
+	"<< emmmm..... >>"
+	{
+		"chi"		"**这是？...**"
+	}
+	"<< seems that you are doubt about this..... >>"
+	{
+		"chi"		"**看来你仍在诧异**"
+	}
+	"<< You want to ask me why I am only a glass board? >>"
+	{
+		"chi"		"**你想问我为什么我只是个纸片人？**"
+	}
+	"<< Do you really want to see me? >>"
+	{
+		"chi"		"**你真的想见我吗？**"
+	}
+	"<< Okay..... If you really want to see me...... >>"
+	{
+		"chi"		"**如果你真的这么想...那就成全你**"
+	}
+	"<< OKAY! >>"
+	{
+		"chi"		"**御坂美琴！**"
+	}
+	"<< I've already satisfied your wish >>"
+	{
+		"chi"		"**我已经满足了你的愿望**"
+	}
+	"<< SO NOW, ITS TIME FOR YOU TO SATISFY ME >>"
+	{
+		"chi"		"**现在你可以去死了**"
+	}
+	"<< ARE YOU READY? LETS GO !!! >>"
+	{
+		"chi"		"**御坂跳刀！**"
+	}
+	"<< STAGE III COMPLETE >>"
+	{
+		"chi"		"**第三关完成**"
+	}
+	"<< Misaka will help you >>"
+	{
+		"chi"		"**御坂美琴会帮助你**"
+	}
+	"<< The cannon will deactive if misaka pick other magic >>"
+	{
+		"chi"		"**如果炮姐拾取了其他神器就会失效**"
+	}
+	"<< Starfall >>"
+	{
+		"chi"		"**星坠**"
+	}
+	">> IDEA: Sienestaja <<"
+	{
+		"chi"		"**创意提供：Sienestaja**"
+	}
+	">> Map by Taskuvaras <<"
+	{
+		"chi"		"**地图作者：Misakaaaaa  地图汉化：大明@風雲社**"
+	}
+	"<< Admin select STAGE III >>"
+	{
+		"chi"		"**管理员设置第三关**"
+	}
+	"<< Admin select STAGE V >>"
+	{
+		"chi"		"**管理员设置第五关**"
+	}
+	"<< Do not select this stage!!! >>"
+	{
+		"chi"		"**不要设置这一关！！**"
+	}
+	"<< Admin select STAGE IX >>"
+	{
+		"chi"		"**管理员设置第六关**"
+	}
+	"<< Admin select STAGE I >>"
+	{
+		"chi"		"**管理员设置第一关**"
+	}
+	"<< Mega Push >>"
+	{
+		"chi"		"**三段推！按住W抵抗**"
+	}
+	"<< Giga Drain >>"
+	{
+		"chi"		"**两段吸！按住S抵抗**"
+	}
+	"<< Fallen Sky >>"
+	{
+		"chi"		"**天坠**"
+	}
+	"<< Misaka will release the power in 20 seconds >>"
+	{
+		"chi"		"**炮姐20秒后释放终极**"
+	}
+	"<< CANNON >>"
+	{
+		"chi"		"**加农炮**"
+	}
+	"<< Hunting Instinct >>"
+	{
+		"chi"		"**面对BOSS方向来跳刀**"
+	}
+	"<< FALL OF EARTH >>"
+	{
+		"chi"		"**地面沉降**"
+	}
+	"<< Flame of Revenge >>"
+	{
+		"chi"		"**尸笼**"
+	}
+	"<< The final fence will break in 120 seconds >>"
+	{
+		"chi"		"**最后一道栅栏120秒后碎开**"
+	}
+	"<< CANNON READY >>"
+	{
+		"chi"		"**加农炮准备就绪**"
+	}
+	"<< STAGE IX COMPLETE >>"
+	{
+		"chi"		"**第六关完成**"
+	}
+	"<< Let me tell you a story >>"
+	{
+		"chi"		"**让我告诉你一个故事**"
+	}
+	"<< A story of this map >>"
+	{
+		"chi"		"**有关于这张地图**"
+	}
+	"<< Lots of people want to defeat this map >>"
+	{
+		"chi"		"**很多人想打败这张地图**"
+	}
+	"<< So they all come to my world, and try to defeat me >>"
+	{
+		"chi"		"**所以他们来到我的世界，试图打败我**"
+	}
+	"<< However, only a little of them can survive from my world >>"
+	{
+		"chi"		"**然而，他们仅仅只有一小部分人能生存下来**"
+	}
+	"<< Most of them actually has died >>"
+	{
+		"chi"		"**他们中的大多数已经去世了**"
+	}
+	"<< I collect the soul of these people >>"
+	{
+		"chi"		"**我收集这些人的灵魂**"
+	}
+	"<< Finally, it becomes to the green soul that you have seen before >>"
+	{
+		"chi"		"**最后，它变成了你以前见过的绿影幽魂**"
+	}
+	"<< you look so scared >>"
+	{
+		"chi"		"**你看起来很害怕**"
+	}
+	"<< hold for 15 seconds >>"
+	{
+		"chi"		"**守住15秒**"
+	}
+	"<< Do not be afraid, we are friends >>"
+	{
+		"chi"		"**不要害怕，我们是朋友**"
+	}
+	"<< I am really happy to play with you >>"
+	{
+		"chi"		"**我真的很高兴和你们一起玩**"
+	}
+	"<< You ask me why I attack you before? >>"
+	{
+		"chi"		"**为什么以前攻击你们？**"
+	}
+	"<< Just a JOKE, FUHAHAHAHA >>"
+	{
+		"chi"		"**只是个玩笑，哈哈哈**"
+	}
+	"<< Just like a game we play together- YOU DIE, I ALIVE >>"
+	{
+		"chi"		"**就像我们一起玩的游戏-你死了，我还活着**"
+	}
+	"<< It seems that you want to leave there >>"
+	{
+		"chi"		"**你似乎想离开**"
+	}
+	"<< What a pity...... >>"
+	{
+		"chi"		"**真遗憾...**"
+	}
+	"<< I really want to play with you for more time >>"
+	{
+		"chi"		"**我真的很想和你们继续玩**"
+	}
+	"<< All right >>"
+	{
+		"chi"		"**好吧**"
+	}
+	"<< If you want to leave there >>"
+	{
+		"chi"		"**如果你想离开**"
+	}
+	"<< Just go ahead !!!! You can see the exit my friend >>"
+	{
+		"chi"		"**快去吧！抵达出口，我的朋友！**"
+	}
+	"<< 10 >>"
+	{
+		"chi"		"**10**"
+	}
+	"<< 9 >>"
+	{
+		"chi"		"**9**"
+	}
+	"<< 8 >>"
+	{
+		"chi"		"**8**"
+	}
+	"<< 7 >>"
+	{
+		"chi"		"**7**"
+	}
+	"<< 6 >>"
+	{
+		"chi"		"**6**"
+	}
+	"<< 5 >>"
+	{
+		"chi"		"**5**"
+	}
+	"<< 4 >>"
+	{
+		"chi"		"**4**"
+	}
+	"<< 3 >>"
+	{
+		"chi"		"**3**"
+	}
+	"<< 2 >>"
+	{
+		"chi"		"**2**"
+	}
+	"<< 1 >>"
+	{
+		"chi"		"**1**"
+	}
+	"<< FUHAHAHAHA!! I KNOW WHAT YOU THINK NOW >>"
+	{
+		"chi"		"**哈哈哈！我知道你在想什么！**"
+	}
+	"<< You should die now >>"
+	{
+		"chi"		"**你现在应该死了**"
+	}
+	"<< Friends? THATS A JOKE AS WELL. THE SOUL OF YOU IS REALLY PERFECT FOR ME >>"
+	{
+		"chi"		"**朋友？那也是个笑话.你的灵魂一定很美味**"
+	}
+	"<< DO NOT BE AFRAID >>"
+	{
+		"chi"		"**不要害怕**"
+	}
+	"<< ONLY A LITTLE MOMENT >>"
+	{
+		"chi"		"**只需要一小会儿**"
+	}
+	"<< YOU WILL BECOME THE SOUL OF ME !!! >>"
+	{
+		"chi"		"**你的灵魂就是我的了！**"
+	}
+	"<< HOLY >>"
+	{
+		"chi"		"**神圣**"
+	}
+	"<< ESCAPE IN 140 seconds >>"
+	{
+		"chi"		"**140秒后逃脱**"
+	}
+	"<< No...... >>"
+	{
+		"chi"		"**不！....**"
+	}
+	"<< You can not leave there!!! >>"
+	{
+		"chi"		"**你不能离开！**"
+	}
+	"<< DIE NOW >>"
+	{
+		"chi"		"**现在就给我死**"
+	}
+	"<< EVEN THIS MAY LET US PERISH TOGETHER >>"
+	{
+		"chi"		"**即使我们一起坠入地狱！**"
+	}
+	"<< I WILL NOT LET YOU LEAVE THERE !!! >>"
+	{
+		"chi"		"**我也不会让你离开！**"
+	}
+	"<< DO NOT TRUST THE BLACK LASER YOU SEE!!! >>"
+	{
+		"chi"		"**提示：不要相信你看到的黑色跳刀！**"
+	}
+	"<< SURVIVE FOR FINAL 15 SECONDS !!! >>"
+	{
+		"chi"		"**生存最后的15秒**"
+	}
+	"<< Congratulations !!! >>"
+	{
+		"chi"		"**恭喜！你们逃脱了！**"
+	}
+	"<< You have win all stage!!! >>"
+	{
+		"chi"		"**你们通关了所有关卡**"
+	}
+	"<< Map by Misaka >>"
+	{
+		"chi"		"**地图作者：Misakaaaaa  地图汉化：大明@風雲社**"
+	}
+}
