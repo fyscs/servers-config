@@ -235,12 +235,12 @@
 	"** CHAOS is using a deathwall - RUN FASTER!! **"
 	{
 		"chi"		"**轮回王使用了死亡之墙，向前跑快一点**"
-		"command"   "zr_knockback_multi 3.0"
+		"command"   "sm_cvar zr_knockback_multi 3.0"
 	}
 	"** Congratulations - You won [GODMODE] **"
 	{
 	    "chi"		"**恭喜 - 你通过了GOD难度**"
-		"command"   "zr_knockback_multi 1.0"
+		"command"   "sm_cvar zr_knockback_multi 1.0"
 	}
 	"** Chaos has been defeated - RUN !!!!! **"
 	{
