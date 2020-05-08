@@ -54,7 +54,7 @@
 	}
 	"[Shoot the white cube]"
 	{
-		"chi"		"**破坏白色水晶**"
+		"chi"		"**破坏白色方块**"
 	}
 	"[Middle gate will open in 23 secs]"
 	{
@@ -66,7 +66,7 @@
 	}
 	"[Teleport will enable in 42 secs]"
 	{
-		"chi"		"**传送装置:42秒**"
+		"chi"		"**传送:42秒**"
 	}
 	"[Wait for 20 secs]"
 	{
@@ -82,7 +82,7 @@
 	}
 	"[Teleport Enable in 15 secs]"
 	{
-		"chi"		"**传送装置:15秒**"
+		"chi"		"**传送:15秒**"
 	}
 	"[Path will open in 50 secs]"
 	{
@@ -110,7 +110,7 @@
 	}
 	"[Shoot the black cube]"
 	{
-		"chi"		"**破坏黑色水晶**"
+		"chi"		"**破坏黑色方块**"
 	}
 	"[Right door open in 10 secs]"
 	{
@@ -130,7 +130,7 @@
 	}
 	"[Teleport in 10  secs]"
 	{
-		"chi"		"**传送装置:10秒**"
+		"chi"		"**传送:10秒**"
 	}
 	"[Stage 1 Complete]"
 	{
@@ -146,7 +146,7 @@
 	}
 	"[The core is working again!!]"
 	{
-		"chi"		"**核心装置过载**"
+		"chi"		"**核心过载**"
 	}
 	"[Defend here while the core working]"
 	{
@@ -170,11 +170,11 @@
 	}
 	"[Look the Core]"
 	{
-		"chi"		"**那是核心装置**"
+		"chi"		"**那是核心**"
 	}
 	"[We need the core work again]"
 	{
-		"chi"		"**让核心装置过载**"
+		"chi"		"**让核心过载**"
 	}
 	"[SHOOT IT]"
 	{
@@ -194,7 +194,7 @@
 	}
 	"[Look a crystal shoot it]"
 	{
-		"chi"		"**破坏水晶**"
+		"chi"		"**破坏黑色方块**"
 	}
 	"[Hmm we need those cube working]"
 	{
@@ -202,7 +202,7 @@
 	}
 	"[Look there are 2  telephones]"
 	{
-		"chi"		"**这里有两个传送装置**"
+		"chi"		"**这里有两个传送**"
 	}
 	"[Defend here]"
 	{
@@ -214,7 +214,7 @@
 	}
 	"[Final door closing in 15 sec]"
 	{
-		"chi"		"**最后的门将在15秒后关闭**"
+		"chi"		"**最终の门将在15秒后关闭**"
 	}
 	"[SAY GOOD BYE]"
 	{
@@ -246,7 +246,7 @@
 	}
 	"[Elevator will go up in 10 secs]"
 	{
-		"chi"		"**电梯将在10秒后上升**"
+		"chi"		"**平台将在10秒后上升**"
 	}
 	"[afk tele in 10 secs]"
 	{
@@ -266,7 +266,7 @@
 	}
 	"[Door will break in 20 secs and Look a telephone we should find a way get up there]"
 	{
-		"chi"		"**大门将在20秒后打开,想办法撤离到传送装置**"
+		"chi"		"**大门将在20秒后打开,想办法撤离到传送**"
 	}
 	"[Left Door open in 20 secs]"
 	{
@@ -294,7 +294,7 @@
 	}
 	"[Teleport in 20 secs ]"
 	{
-		"chi"		"**传送装置:20秒**"
+		"chi"		"**传送:20秒**"
 	}
 	"[Stage 2 Complete]"
 	{
@@ -336,7 +336,7 @@
 	{
 		"chi"		"**感谢Doan xem为lv 3提供音乐素材**"
 	}
-	"[Map idiea from ze_grau]"
+	"[Respect to ze_grau(Map idea)]"
 	{
 		"chi"		"**灵感来自☆ze_grau☆**"
 	}
@@ -359,5 +359,85 @@
 	"[Zombie tele in 10 secs]"
 	{
 		"chi"		"**僵尸将于10秒后传送**"
+	}
+	"[Admin room is above u]"
+	{
+		"chi"		"调关房就在出点点的上方"
+	}
+	"[Door open in 30 secs]"
+	{
+		"chi"		"大门将在30秒后打开"
+	}
+	"[Door will open in 25 secs]"
+	{
+		"chi"		"大门将在25秒后打开"
+	}
+	"[Door will break in 30 secs and Look a telephone we should find a way get up there]"
+	{
+		"chi"		"门将在30秒后碎裂,上方的电话或许是我们离开这里的方法"
+	}
+	"[The crystal is working wait for 35 secs]"
+	{
+		"chi"		"水晶被破坏了,防守30秒"
+	}
+	"[afk tele in 3 secs]"
+	{
+		"chi"		"挂机咸鱼将于3秒后传送"
+	}
+	"[You have 160 secs to find all cubes and destroy them]"
+	{
+		"chi"		"你仅有160秒的时间去找到并摧毁四个方块"
+	}
+	"[All 4 cube have break DON'T MOVE you will teleport back in 5 secs]"
+	{
+		"chi"		"所有方块都已摧毁,留在此地不要走动,5秒后将进行传送"
+	}
+	" [Zombie item spawned]"
+	{
+		"chi"		"僵尸神器解锁"
+	}
+	"[Gate will open in 40 secs]"
+	{
+		"chi"		"铁门将在40秒后碎裂"
+	}
+	"[Next Gate will open in 10 secs]"
+	{
+		"chi"		"铁门将在10秒后碎裂"
+	}
+	[Wait here for 20 secs]""
+	{
+		"chi"		"防守20秒"
+	}
+	"[Left Gate will Break in 15 secs]"
+	{
+		"chi"		"左门将在15秒后碎裂"
+	}
+	"[Teleport will enable in 30 secs]"
+	{
+		"chi"		"传送:30秒"
+	}
+	"[Gate will open in 25 secs]"
+	{
+		"chi"		"铁门将在25秒后碎裂"
+	}
+	"[Wait for 25 secs]"
+	{
+		"chi"		"防守20秒"
+	}
+	"[Zombie will free in 10 secs]"
+	{
+		"chi"		"僵尸将在10秒后释放"
+	}
+	"[Gate will open in 15 secs]"
+	{
+		"chi"		"铁门将在15秒后碎裂"
+	}
+	"[Middle gate will open in 20 secs]"
+	{
+		"chi"		"最终の门将在20秒后打开"
+	}
+	"[RESPECT TO ZE_GRAU(For map IDEA]"
+	{
+		"chi"		"地图致敬☆ze_grau☆[灵感亦来源此]"
 	}
 }
