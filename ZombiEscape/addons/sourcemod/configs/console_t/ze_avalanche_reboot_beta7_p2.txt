@@ -1,0 +1,320 @@
+//雪崩秘密行动翻译测试第二次
+"Console_T"
+{
+		">>> Map Made by Moray <<<"
+		{
+		"chi"               "地图作者—— Moray 汉化：龙鸣"
+		}
+		">>> AFK TELEPORT IN 5 SECONDS <<<"
+		{
+		"chi"               " >>> 生化兵器将于五秒后传送 <<<"
+		}
+		">>> TELEPORT ACTIVATING IN 25 SECONDS <<<"
+		{
+		"chi"               " >>> 传送器将于25秒后启动 <<<"
+		}
+		">>> C4 EXPLODE IN 20 SECONDS <<<"
+		{
+		"chi"               " >>> c4炸弹将于20秒后爆破 请勿贴门 <<<"
+		}
+		">>> C4 PICKED UP <<<"
+		{
+		"chi"               " >>> c4炸弹已获取 <<<"
+		}
+		">>> ELEVATOR STOPPED GO TO PRESS BUTTON <<<"
+		{
+		"chi"               " >>> 不好！电梯年久失修快去手动启动应急开关 <<<"
+		}
+		">>> BUTTON IS LOCKED  <<<"
+		{
+		"chi"               " >>> 闸门被锁死了  <<<"
+		}
+		">>> PRESS OTHER BUTTON TO UNLOCK <<<"
+		{
+		"chi"               " >>> 快寻找其他应急开关 <<<"
+		}
+		">>> BUTTON UNLOCKED <<<"
+		{
+		"chi"               " >>> 一个应急开关已启动 <<<"
+		}
+		">>> MACHINE ERROR WATCH OUT FOR EXPLOSION  <<<"
+		{
+		"chi"               " >>> 警告！机器故障当心自毁  <<<"
+		}
+		">>> BOTH ELEVATOR LEAVING IN 35 SECONDS <<<"
+		{
+		"chi"               " >>> 左右两边电梯将于35秒后同时开启 <<<"
+		}
+		">>> BARRIER DOOR CLOSING IN 15 SECONDS <<<"
+		{
+		"chi"               " >>> 中央控制室闸门将于15秒后关闭 <<<"
+		}
+		">>> ELECTRIC MACHINE STARTED UP SHOOT IT <<<"
+		{
+		"chi"               " >>> 可恶！看样子不摧毁基地的守卫核心它是不会善罢甘休的 准备战斗！ <<<"
+		}
+		">>> BOSS DEFEATED <<<"
+		{
+		"chi"               " >>> 守卫核心已被摧毁 准备撤离这该死的地狱 <<<"
+		}
+		">>> CONTROL ROOM DOOR OPENING IN 100 SECONDS <<<"
+		{
+		"chi"               " >>> 控制室外门将于100秒后打开 坚持住！ <<<"
+		}
+		">>> REPAIR SHIELD ENABLED   DON'T SHOOT <<<"
+		{
+		"chi"               " >>> 是能量转换修复防护罩 停止射击！ <<<"
+		}
+		">>> ELECTRIC VORTEX ENABLED   GET ON SOMETHING <<<"
+		{
+		"chi"               " >>> 是极电漩涡 快站上高处！<<<"
+		}
+		">>> ELECTRIC TORNADO ENABLED   CROUCH <<<"
+		{
+		"chi"               " >>> 是极电龙卷 硬抗并注意恢复血量！ <<<"
+		}
+		">>> ELECTRIC WAVE ENABLED <<<"
+		{
+		"chi"               " >>> 当心高压电波攻击！ <<<"
+		}
+		">>> ELECTRIC GRAVITY ENABLED   HIDE SOMETHING <<<"
+		{
+		"chi"               " >>> 是引力黑洞 快找掩体抵抗！ <<<"
+		}
+		">>> Stage 1 - Normal <<<"
+		{
+		"chi"               " >>> 章节一 —— 调查废弃的研究基地 难度：普通 <<<"
+		}
+		">>> Special Thanks : nano <<<"
+		{
+		"chi"               " >>> 特别感谢：nano <<<"
+		}
+		">>> Map Reboot by Glacius <<<"
+		{
+		"chi"               " >>> 地图重启：Glacius <<<"
+		}
+		">>> Stage 2 - Normal <<<"
+		{
+		"chi"               " >>> 章节二 —— 摧毁基地研发设施 难度：普通 <<<"
+		}
+		">>> Stage 3 - Normal <<<"
+		{
+		"chi"               " >>> 章节三 —— 摧毁核心并逃出生天 难度：普通 <<<"
+		}
+		">>> Stage 1 - Extreme <<<"
+		{
+		"chi"               " >>> 章节一 —— 调查废弃的研究基地 难度：不可能 <<<"
+		}
+		">>> Stage 2 - Extreme <<<"
+		{
+		"chi"               " >>> 章节二 —— 摧毁基地研发设施 难度：不可能 <<<"
+		}
+		">>> Stage 3 - Extreme <<<"
+		{
+		"chi"               " >>> 章节三 —— 摧毁核心并逃出生天 难度：不可能 <<<"
+		}
+		">>> This Stage is Under Heavy Development! <<<"
+		{
+		"chi"               " >>> 本章节正加大力度完善（指作者咕咕咕） <<<"
+		}
+		">>> Warmup Round! Map starting in 40 seconds. <<<"
+		{
+		"chi"               " >>> 热身时间！热身将于40秒结束 <<<"
+		}
+		">>> 30 Seconds of Warmup Remaining <<<"
+		{
+		"chi"               " >>> 30秒后结束热身 <<<"
+		}
+		">>> 20 Seconds of Warmup Remaining <<<"
+		{
+		"chi"               " >>> 20秒后结束热身 <<<"
+		}
+		">>> 10 Seconds of Warmup Remaining <<<"
+		{
+		"chi"               " >>> 10秒后结束热身 <<<"
+		}
+		">>> Warmup Ending - Map Starting <<<"
+		{
+		"chi"               " >>> 热身结束 —— 雪崩计划开始行动！ <<<"
+		}
+		">>> DOOR CLOSING IN 25 SECONDS <<<"
+		{
+		"chi"               " >>> 最后的栅栏门将于25秒后关闭 <<<"
+		}
+		">>> ADMIN CHANGED TO STAGE 1 - NORMAL MODE <<<"
+		{
+		"chi"               " >>> 管理员已选择第一章 难度：普通 <<<"
+		}
+		">>> ADMIN CHANGED TO STAGE 2 - NORMAL MODE <<<"
+		{
+		"chi"               " >>> 管理员已选择第二章 难度：普通 <<<"
+		}
+		">>> ADMIN CHANGED TO STAGE 1 - EXTREME MODE <<<"
+		{
+		"chi"               " >>> 管理员已选择第一章 难度：不可能 <<<"
+		}
+		">>> ADMIN CHANGED TO STAGE 3 - NORMAL MODE <<<"
+		{
+		"chi"               " >>> 管理员已选择第三章 难度：普通 <<<"
+		}
+		">>> ADMIN CHANGED TO STAGE 2 - EXTREME MODE <<<"
+		{
+		"chi"               " >>> 管理员已选择第二章 难度：不可能 <<<"
+		}
+		">>> ADMIN PRESSED KILL ALL BUTTON <<<"
+		{
+		"chi"               " >>> 管理员按下核爆按钮 <<<"
+		}
+		">>> BOSS IS DEFEATED <<<"
+		{
+		"chi"               " >>> 炼狱泰坦已击杀 <<<"
+		}
+		">>> BOSS IS ARRIVED <<<"
+		{
+		"chi"               " >>> 前方探测到高强度生命活动 准备战斗！ <<<"
+		}
+		">>> BOSS POWERED UP <<<"
+		{
+		"chi"               " >>> 未知生命体样子有些古怪 当心！ <<<"
+		}
+		">>> BOSS USED BEAM <<<"
+		{
+		"chi"               " >>> 是超聚能光束 当心！ <<<"
+		}
+		">>> BOSS USED REPAIR SHIELD <<<"
+		{
+		"chi"               " >>> 是能量吸收修复防护罩 停火！ <<<"
+		}
+		">>> BOSS USED HEAL <<<"
+		{
+		"chi"               " >>> BOSS自愈中 保持火力！ <<<"
+		}
+		">>> BOSS USED GRAVITY <<<"
+		{
+		"chi"               " >>> 是死亡抓取 抵抗！ <<<"
+		}
+		">>> BOSS USED CLIFF <<<"
+		{
+		"chi"               " >>> 是大地震颤 当心！ <<<"
+		}
+		">>> C4 EXPLODE IN 10 SECONDS <<<"
+		{
+		"chi"               " >>> c4炸弹将于10秒后爆破 <<<"
+		}
+		">>> PLAYER PICKED FLAME BEAM CANNON <<<"
+		{
+		"chi"               " >>> 一位玩家获取高能聚光炮 <<<"
+		}
+		">>> PLAYER PICKED VENOM BEAM CANNON <<<"
+		{
+		"chi"               " >>> 一位玩家获取剧毒穿甲炮 <<<"
+		}
+		">>> PLAYER PICKED BLUE SPARK <<<"
+		{
+		"chi"               ">>> 一位玩家获取电磁脉冲 <<<"
+		}
+		">>> PLAYER PICKED HEAL <<<"
+		{
+		"chi"               " >>> 一位玩家获取医疗包 <<<"
+		}
+		">>> PLAYER PICKED AMMO <<<"
+		{
+		"chi"               " >>> 一位玩家获取补给 <<<"
+		}
+		">>> FAIL ROUND <<<"
+		{
+		"chi"               " >>> 生物兵器已泄露 章节失败 <<<"
+		}
+		">>> STAGE 1 COMPLETED <<<"
+		{
+		"chi"               " >>> 第一章完成 <<<"
+		}
+		">>> STAGE 4 COMPLETED <<<"
+		{
+		"chi"               " >>> 你做到了！第一章不可能难度完成 <<<"
+		}
+		">>> STAGE 2 COMPLETED <<<"
+		{
+		"chi"               " >>> 第二章完成 <<<"
+		}
+		">>> STAGE 5 COMPLETED <<<"
+		{
+		"chi"               " >>> 你做到了！第二章不可能难度完成 <<<"
+		}
+		">>> MAP RESTARTING <<<"
+		{
+		"chi"               " >>> 尚未完结 地图重启 <<<"
+		}
+		">>> FIND C4 TO MAKE PASSAGE <<<"
+		{
+		"chi"               " >>> 得想办法炸开这堵墙 去周围搜索一下吧 <<<"
+		}
+		">>> DEFEND UNTIL RESCUE COMES <<<"
+		{
+		"chi"               " >>> 救援直升机即将当来 坚守住最后的防线！ <<<"
+		}
+		">>> PLAYER PICKED ELECTRIC BEAM CANNON <<<"
+		{
+		"chi"               " >>> 一位玩家获取轻型电磁炮 <<<"
+		}
+		">>> SECURITY DOOR IS CLOSED <<<"
+		{
+		"chi"               " >>> 安全门已上锁 <<<"
+		}
+		">>> GO CONTROL ROOM TO UNLOCK <<<"
+		{
+		"chi"               " >>> 想办法去控制室解锁 <<<"
+		}
+		">>> PLAYER PICKED ICY VORTEX <<<"
+		{
+		"chi"               " >>> 一位玩家获取极寒冰卷 <<<"
+		}
+		">>> PLAYER PICKED WIND BLASTER <<<"
+		{
+		"chi"               " >>> 一位玩家获取重型高压风炮 <<<"
+		}
+		">>> HELICOPTER IS LEAVING <<<"
+		{
+		"chi"               " >>> 救援直升机正在离开 <<<"
+		}
+		">>> DEFEND MORE <<<"
+		{
+		"chi"               " >>> 快上来 救援直升机要离开了 <<<"
+		}
+		">>> ADMIN CHANGED TO STAGE 3 - EXTREME MODE <<<"
+		{
+		"chi"               " >>> 管理员已选择第三章 难度：不可能 <<<"
+		}
+		">>> 5 SECONDS LEFT <<<"
+		{
+		"chi"               " >>> 还剩5秒 <<<"
+		}
+		">>> HOLD 20 SECONDS <<<"
+		{
+		"chi"               " >>> 坚守阵地20秒 <<<"
+		}
+		">>> HOLD 25 SECONDS <<<"
+		{
+		"chi"               " >>> 坚守阵地25秒 <<<"
+		}
+		">>> HOLD 15 SECONDS <<<"
+		{
+		"chi"               " >>> 坚守阵地15秒 <<<"
+		}
+		">>> HOLD 5 SECONDS <<<"
+		{
+		"chi"               " >>> 坚守阵地5秒 <<<"
+		}
+		">>> HOLD 10 SECONDS <<<"
+		{
+		"chi"               " >>> 坚守阵地10秒 <<<"
+		}
+		">>> HOLD 35 SECONDS <<<"
+		{
+		"chi"               " >>> 坚守电梯35秒 <<<"
+		}
+		">>> HOLD 30 SECONDS <<<"
+		{
+		"chi"               " >>> 坚守阵地30秒 <<<"
+		}
+}
