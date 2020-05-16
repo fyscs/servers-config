@@ -46,7 +46,7 @@
 	}
 	"Door open in 15 Seconds!"
 	{
-		"chi"		"**大门将在15秒后打开**"
+		"chi"		"**门将在15秒后打开**"
 	}
 	"Secret Level Activated!"
 	{
@@ -58,7 +58,7 @@
 	}
 	"Your order will arrive in a matter of 35 Seconds!"
 	{
-		"chi"		"** **"
+		"chi"		"防守35秒"
 	}
 	"Fucking Retards!"
 	{
@@ -74,31 +74,39 @@
 	}
 	"The door with red dots in the middle opens in 25 seconds"
 	{
-		"chi"		"**大门将在25秒后打开**"
+		"chi"		"**门将在25秒后打开**"
 	}
 	"Door opens in 10 seconds!"
 	{
-		"chi"		"**大门将在10秒后打开**"
+		"chi"		"**门将在10秒后打开**"
 	}
 	"ASS_WE_CANT Breaks in 15 Seconds!"
 	{
-		"chi"		"**大门将在15秒后碎裂**"
-	}
-	"...................."
-	{
-		"chi"		"** **"
+		"chi"		"**门将在15秒后碎裂**"
 	}
 	"Door Opens in 30 Seconds!"
 	{
-		"chi"		"**大门将在30秒后打开**"
+		"chi"		"**门将在30秒后打开**"
 	}
 	"Door Opens in 15 Seconds!"
 	{
-		"chi"		"**大门将在15秒后打开**"
+		"chi"		"**门将在15秒后打开**"
 	}
 	"Upper lever is triggered!"
 	{
 		"chi"		"**第三个操纵杆已触发**"
+	}
+	"First lever is triggered!"
+	{
+		"chi"		"**第一个操纵杆已触发**"
+	}
+	"second lever is triggered!"
+	{
+		"chi"		"**第二个操纵杆已触发**"
+	}
+	"Door opens in 20 Seconds!"
+	{
+		"chi"		"门将在20秒后打开"
 	}
 	"First lever is triggered"
 	{
@@ -110,7 +118,7 @@
 	}
 	"HOLY FUCK! THE DICKS ARE LEAVING EARLIER!"
 	{
-		"chi"		"**天啊!世界要提前离开了**"
+		"chi"		"**世界要提前离开了**"
 	}
 	"DICKS_OF_THE_WORLD WILL LEAVE IN 15 SECONDS!"
 	{
@@ -186,7 +194,7 @@
 	}
 	"Hold here for 25 Seconds!"
 	{
-		"chi"		"**在这里防守25秒**"
+		"chi"		"防守25秒"
 	}
 	"10 more seconds!"
 	{
@@ -202,15 +210,19 @@
 	}
 	"Oh no! Stop him before he eats all of us!"
 	{
-		"chi"		"**哦,不!在它吃掉我们你之前阻止它**"
+		"chi"		"在它吃掉我们之前阻止它"
 	}
 	"Hold for 25 Seconds!"
 	{
 		"chi"		"**防守25秒**"
 	}
+	"10 more Seconds!"
+	{
+		"chi"		"10"
+	}
 	"ZOMBIES ON THAT THING! MUDA MUDA MUDA"
 	{
-		"chi"		"**木大木大木大木大木大**"
+		"chi"		"**木木木木木**"
 	}
 	"*** Stage 3 Compelete ***"
 	{
@@ -254,15 +266,15 @@
 	}
 	"Teleport will be triggered in 45 Seconds!"
 	{
-		"chi"		"**传送开启时间:45秒**"
+		"chi"		"**传送:45秒**"
 	}
 	"Teleport ready in 25 Seconds"
 	{
-		"chi"		"**传送装置:25秒**"
+		"chi"		"**传送:25秒**"
 	}
 	"Doors open in 10 Seconds"
 	{
-		"chi"		"**大门将在10秒后打开**"
+		"chi"		"**门将在10秒后打开**"
 	}
 	"Elevator leaves in 20 Seconds"
 	{
@@ -298,7 +310,7 @@
 	}
 	"Door opens in 5 Seconds"
 	{
-		"chi"		"**大门将在5秒后打开**"
+		"chi"		"**门将在5秒后打开**"
 	}
 	"***Map by Lord. Death.***"
 	{
@@ -330,6 +342,38 @@
 	}
 	"Door opens in 20 Seconds"
 	{
-		"chi"		"**大门将在20秒后打开**"
+		"chi"		"**门将在20秒后打开**"
+	}
+	"Push! RESPECT!"
+	{
+		"chi"		"推力"
+	}
+	"Door Opens  in 20 Seconds!"
+	{
+		"chi"		"门将在20秒后打开"
+	}
+	"Door opens in 30 Seconds!"
+	{
+		"chi"		"门将在30秒后打开"
+	}
+	"Door opens in 10 Seconds!"
+	{
+		"chi"		"门将在10秒后打开"
+	}
+	"First Lever is triggered!"
+	{
+		"chi"		"第一个操纵杆已触发"
+	}
+	"20 more seconds!"
+	{
+		"chi"		"20"
+	}
+	"10 More Seconds!"
+	{
+		"chi"		"10"
+	}
+	"Elevator leaves in 15 Seconds"
+	{
+		"chi"		"电梯将在15秒后离开"
 	}
 }	
