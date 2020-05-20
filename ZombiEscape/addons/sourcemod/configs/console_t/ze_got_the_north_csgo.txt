@@ -1,0 +1,392 @@
+//权力的游戏：北域翻译测试第一次
+"Console_T"
+{
+		"** MAP BY SLAYERDRAGON & NOCTALI **"
+		{
+		"chi"               " ** 地图作者 —— SLAYERDRAGON和NOCTALI 汉化：龙鸣 **"
+		}
+		"> Team HP lvl 0 <"
+		{
+		"chi"               " > 团队生命上限等级0 <"
+		}
+		"> Team HP lvl 1 <"
+		{
+		"chi"               " > 团队生命上限等级1 <"
+		}
+		"> Team HP lvl 2 <"
+		{
+		"chi"               " > 团队生命上限等级2 <"
+		}
+		"> Team HP lvl 3 <"
+		{
+		"chi"               " > 团队生命上限等级3 <"
+		}
+		"> Team HP lvl 4 <"
+		{
+		"chi"               " > 团队生命上限等级4 <"
+		}
+		"> Team HP lvl 5 <"
+		{
+		"chi"               " > 团队生命上限等级5 <"
+		}
+		"> Team HP lvl 6 <"
+		{
+		"chi"               " > 团队生命上限等级6 <"
+		}
+		"> Team HP lvl 7 <"
+		{
+		"chi"               " > 团队生命上限等级7 <"
+		}
+		"> Team HP lvl 8 <"
+		{
+		"chi"               " > 团队生命上限等级8 <"
+		}
+		"> Team HP lvl 9 <"
+		{
+		"chi"               " > 团队生命上限等级9 <"
+		}
+		"> Team HP lvl 10 <"
+		{
+		"chi"               " > 团队生命上限等级10 <"
+		}
+		"> Heal Item lvl 0 <"
+		{
+		"chi"               " > 治疗术等级0 <"
+		}
+		"> Heal Item lvl 1 <"
+		{
+		"chi"               " > 治疗术等级1 <"
+		}
+		"> Heal Item lvl 2 <"
+		{
+		"chi"               " > 治疗术等级2 <"
+		}
+		"> Heal Item lvl 3 <"
+		{
+		"chi"               " > 治疗术等级3 <"
+		}
+		"> Heal Item lvl 4 <"
+		{
+		"chi"               " > 治疗术等级4 <"
+		}
+		"> Heal Item lvl 5 <"
+		{
+		"chi"               " > 治疗术等级5 <"
+		}
+		"> Ammo Item lvl 0 <"
+		{
+		"chi"               " > 补给等级0 <"
+		}
+		"> Ammo Item lvl 1 <"
+		{
+		"chi"               " > 补给等级1 <"
+		}
+		"> Ammo Item lvl 2 <"
+		{
+		"chi"               " > 补给等级2 <"
+		}
+		"> Ammo Item lvl 3 <"
+		{
+		"chi"               " > 补给等级3 <"
+		}
+		"> Ammo Item lvl 4 <"
+		{
+		"chi"               " > 补给等级4 <"
+		}
+		"> Ammo Item lvl 5 <"
+		{
+		"chi"               " > 补给等级5 <"
+		}
+		"> Sword Item lvl 0 <"
+		{
+		"chi"               " > 剑客等级0 <"
+		}
+		"> Sword Item lvl 1 <"
+		{
+		"chi"               " > 剑客等级1 <"
+		}
+		"> Sword Item lvl 2 <"
+		{
+		"chi"               " > 剑客等级2 <"
+		}
+		"> Sword Item lvl 3 <"
+		{
+		"chi"               " > 剑客等级3 <"
+		}
+		"> Sword Item lvl 4 <"
+		{
+		"chi"               " > 剑客等级4 <"
+		}
+		"> Sword Item lvl 5 <"
+		{
+		"chi"               " > 剑客等级5 <"
+		}
+		"> Sword Item lvl 6 <"
+		{
+		"chi"               " > 剑客等级6 <"
+		}
+		"> Sword Item lvl 7 <"
+		{
+		"chi"               " > 剑客等级7 <"
+		}
+		"> Sword Item lvl 8 <"
+		{
+		"chi"               " > 剑客等级8 <"
+		}
+		"> Sword Item lvl 9 <"
+		{
+		"chi"               " > 剑客等级9 <"
+		}
+		"> Sword Item lvl 10 <"
+		{
+		"chi"               " > 剑客等级10 <"
+		}
+		"> Bow Item lvl 0 <"
+		{
+		"chi"               " > 游侠等级0 <"
+		}
+		"> Bow Item lvl 1 <"
+		{
+		"chi"               " > 游侠等级1 <"
+		}
+		"> Bow Item lvl 2 <"
+		{
+		"chi"               " > 游侠等级2 <"
+		}
+		"> Bow Item lvl 3 <"
+		{
+		"chi"               " > 游侠等级3 <"
+		}
+		"> Bow Item lvl 4 <"
+		{
+		"chi"               " > 游侠等级4 <"
+		}
+		"> Bow Item lvl 5 <"
+		{
+		"chi"               " > 游侠等级5 <"
+		}
+		"> Bow Item lvl 6 <"
+		{
+		"chi"               " > 游侠等级6 <"
+		}
+		"> Bow Item lvl 7 <"
+		{
+		"chi"               " > 游侠等级7 <"
+		}
+		"> Bow Item lvl 8 <"
+		{
+		"chi"               " > 游侠等级8 <"
+		}
+		"> Bow Item lvl 9 <"
+		{
+		"chi"               " > 游侠等级9 <"
+		}
+		"> Bow Item lvl 10 <"
+		{
+		"chi"               " > 游侠等级10 <"
+		}
+		"> Axe Item lvl 0 <"
+		{
+		"chi"               " > 战士等级0 <"
+		}
+		"> Axe Item lvl 1 <"
+		{
+		"chi"               " > 战士等级1 <"
+		}
+		"> Axe Item lvl 2 <"
+		{
+		"chi"               " > 战士等级2 <"
+		}
+		"> Axe Item lvl 3 <"
+		{
+		"chi"               " > 战士等级3 <"
+		}
+		"> Axe Item lvl 4 <"
+		{
+		"chi"               " > 战士等级4 <"
+		}
+		"> Axe Item lvl 5 <"
+		{
+		"chi"               " > 战士等级5 <"
+		}
+		"> Axe Item lvl 6 <"
+		{
+		"chi"               " > 战士等级6 <"
+		}
+		"> Axe Item lvl 7 <"
+		{
+		"chi"               " > 战士等级7 <"
+		}
+		"> Axe Item lvl 8 <"
+		{
+		"chi"               " > 战士等级8 <"
+		}
+		"> Axe Item lvl 9 <"
+		{
+		"chi"               " > 战士等级9 <"
+		}
+		"> Axe Item lvl 10 <"
+		{
+		"chi"               " > 战士等级10 <"
+		}
+		"** DEFEND TILL THE GATE OPENS **"
+		{
+		"chi"               " ** 坚守到城门开启 **"
+		}
+		"** THE GATE OPENS IN 5 SECONDS **"
+		{
+		"chi"               " ** 还剩5秒 坚持住！ **"
+		}
+		"** HOLD TILL THIS DOOR BREAKS **"
+		{
+		"chi"               " ** 该死！这门卡住了 需要时间打开 守住！ **"
+		}
+		"** HOLD 5 MORE SECONDS **"
+		{
+		"chi"               " ** 还剩5秒！ **"
+		}
+		"** HOLD THE COURTYARD **"
+		{
+		"chi"               " ** 一定要守住村庄前线！要不然将会是一场屠杀！ **"
+		}
+		"** ESCAPE VIA THE CASTLE **"
+		{
+		"chi"               " ** 该死！防线被突破了 撤退！ **"
+		}
+		"** HOLD 30 SECONDS **"
+		{
+		"chi"               " ** 链接桥被锁死了 守住30秒！ **"
+		}
+		"** GAME OF THRONES - The North **"
+		{
+		"chi"               " ** 权利的游戏 —— 北域 **"
+		}
+		"** THE GATE OF THE WALL IS CLOSING **"
+		{
+		"chi"               " ** 坚守直到城门关上 **"
+		}
+		"** THE WALL HAS BEEN BREACHED - FALL BACK **"
+		{
+		"chi"               " ** 城墙防线被突破啦！快撤退！ **"
+		}
+		"** ELEVATOR IS LEAVING IN 5 SECONDS **"
+		{
+		"chi"               " ** 城墙升降梯还有5秒下降 **"
+		}
+		"** [STAGE 1 - THE WALL] **"
+		{
+		"chi"               " ** [第一章 - 冰封城墙] **"
+		}
+		"** [STAGE 2 - WINTERFELL] **"
+		{
+		"chi"               " ** [第二章 - 凛冬城危机] **"
+		}
+		"** STARTING CHAPTER **"
+		{
+		"chi"               " ** 故事开始 **"
+		}
+		"** MAIN GATE OPENS IN 10 SECS **"
+		{
+		"chi"               " ** 内城门将于10秒后开启 **"
+		}
+		"** FOLLOW THE DRAGON INTO THE GARDEN **"
+		{
+		"chi"               " ** 跟紧那条恶龙 别让它跑了！ **"
+		}
+		"** WEST GATE opens in 5 SECS **"
+		{
+		"chi"               " ** 西部内城门将于5秒后开启 **"
+		}
+		"** BREAK THE BARRICADES to open TOWN GATE **"
+		{
+		"chi"               " ** 该死！市中心大门被锁死了 想办法破坏掉！ **"
+		}
+		"** TOWN GATE opens in 5 SECS **"
+		{
+		"chi"               " ** 成功了！再坚持5秒！ **"
+		}
+		"** ESCAPE WINTERFELL VIA THE GARDEN **"
+		{
+		"chi"               " ** 没退路了！只能杀出燃烧花园了！ **"
+		}
+		"** GO GO GO **"
+		{
+		"chi"               " ** 栽培室门已开启 **"
+		}
+		"** ESCAPE WINTERFELL ** "
+		{
+		"chi"               " ** 快！杀出城门！ ** "
+		}
+		"** HUNT THE DRAGON !! **"
+		{
+		"chi"               " ** 没办法了！只能干掉这条阴魂不散的恶龙了！ **"
+		}
+		"** OPENING THE GATES **"
+		{
+		"chi"               " ** 城门正在缓缓开启 **"
+		}
+		"** MAIN GATE opens soon **"
+		{
+		"chi"               " ** 大门很快开启 稍等！ **"
+		}
+		"** KILL REMAINING ZOMBIES **"
+		{
+		"chi"               " ** 剿清漏出来的僵尸 **"
+		}
+		"** THE GATES SHOULD BE OPENING SOON **"
+		{
+		"chi"               " ** 城市外门即将开启 **"
+		}
+		"** GATES ARE OPENING - LETS GO **"
+		{
+		"chi"               " ** 城市外门已开启 可以撤退了 **"
+		}
+		"** WE ARE ALMOST OUTSIDE - HOLD ON **"
+		{
+		"chi"               " ** 坚持住！我们就快逃出凛冬城了！ **"
+		}
+		"** WE CAN ESCAPE THROUGH THE GREENHOUSE! **"
+		{
+		"chi"               " ** 坚持住！让我们想办法穿过这栽培室 **"
+		}
+		"** KILL THE DRAGON !! **"
+		{
+		"chi"               " ** 这条恶龙已经是强弩之末了！让我们给予他致命一击！ **"
+		}
+		"** CLOSING GATES **"
+		{
+		"chi"               " ** 城门关闭中 **"
+		}
+		"[ADMIN] Gifted 250 gold to himself."
+		{
+		"chi"               " [管理员] 给予自己250金币."
+		}
+		"[ADMIN] Selected [STAGE 1] for next round."
+		{
+		"chi"               " [管理员] 选择 [第一章] 在下回合生效."
+		}
+		"[ADMIN] Selected [STAGE 2] for next round."
+		{
+		"chi"               " [管理员] 选择 [第二章] 在下回合生效."
+		}
+		"[ADMIN] Increasing all upgrade to lvl max..."
+		{
+		"chi"               " [管理员] 选择所有神器等级为最高"
+		}
+		"[ADMIN] Done."
+		{
+		"chi"               " [管理员] 等级重置."
+		}
+		"[ADMIN] Restarted the round."
+		{
+		"chi"               " [管理员] 重新开始回合."
+		}
+		"[ADMIN] Gifted 250 gold to every player."
+		{
+		"chi"               " [管理员] 给予所有玩家250金币."
+		}
+		"** ZM BOTTOM TELEPORT ENABLED **"
+		{
+		"chi"               " ** 僵尸已传送至城墙 **"
+		}
+}
