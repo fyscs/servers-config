@@ -1,0 +1,103 @@
+"Console_T"
+{ 
+    "10s teleport"
+	{
+	     "chi"    "僵尸还有10秒传送"
+	}
+	"80s boom"
+	{
+	     "chi"    "这里居然要80秒才炸？"
+	}
+	"15s teleport"
+	{
+	    "chi"    "僵尸还有15秒传送"
+	}
+    "wait open door"
+	{
+	    "chi"    "等一下直到门开"
+	}
+    "30s wall break"
+	{
+	    "chi"    "墙还有30秒碎"
+	}
+    "10s eledoor open"
+    {
+	    "chi"    "电梯门还有10秒开"
+	}
+	"50s open door"
+	{
+	    "chi"    "50秒后开门，大家慢慢守吧"
+	}
+	"40s open door"
+    {
+	    "chi"    "40秒后开门"
+	}
+    "60s open door"
+	{
+	    "chi"    "绝了，60秒后开门"
+	}
+    "40s break"
+	{
+	    "chi"    "还有40秒才会碎"
+	}
+	"50s break"
+	{
+	    "chi"    "唉，还有50秒才碎"
+	}
+    "35s break"
+	{
+	    "chi"    "墙还有35秒碎"
+	} 			
+	"45s move"
+	{
+	    "chi"    "45秒后可以前进"
+	}            
+	"15s open door"
+	{
+	    "chi"    "15秒后开门"
+	}
+    "60s defend"
+	{
+	    "chi"    "天呐，在这里要防守60秒"
+	}
+    "40s move"
+	{
+	    "chi"    "40秒后可以前进"
+	}
+    "Run"
+	{
+	    "chi"    "门开了快跑！"
+	}
+    "25s teleport"
+    {
+	    "chi"    "僵尸还有25秒后传送"
+	}
+    "15s teleport"
+    {
+	    "chi"    "僵尸还有15秒后传送"
+	}
+    "3s move"
+	{
+	    "chi"    "3秒后就赶紧跑！"
+	}
+    "5s teleport"
+	{
+	    "chi"    "僵尸5秒后传送"
+	}
+    "30s open door"
+	{
+	    "chi"    "30秒后开门"
+	}
+    "25s open door"
+	{
+	    "chi"    "25秒后开门"
+	}
+    "30s elevator up"
+    {
+	    "chi"    "30秒后电梯启动"
+	}
+    "35s open door"
+	{
+	    "chi"    "35秒后开门"
+	}
+}        
