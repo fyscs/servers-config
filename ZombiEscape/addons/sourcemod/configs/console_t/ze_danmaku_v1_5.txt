@@ -1,0 +1,173 @@
+"Console_T"
+{
+	"<human win>"
+	{
+		"chi"		"人类胜利"
+		"Command"	"sm_slay @t"
+	}
+	"<< INFECTED DETECTED >>"
+	{
+		"chi"		"检测到感染体,人类失败"
+		"Command"	"sm_slay @ct"
+	}
+	"*** Level 3 Button Pressed ***"
+	{
+		"chi"		"第三关载入"
+	}
+	"*** Level 2 Button Pressed ***"
+	{
+		"chi"		"第二关载入"
+	}
+	"*** SLAY BUTTON PRESSED ***"
+	{
+		"chi"		"按下处死全体按钮"
+	}
+	"*** SLAYING ALL IN 3 SECONDS ***"
+	{
+		"chi"		"3秒后全体暴毙"
+	}
+	"Warmup Round"
+	{
+		"chi"		"热身赛"
+	}
+	">>> Round Failed <<<"
+	{
+		"chi"		"回合失败"
+	}
+	"*** DESTROYING MAP ***"
+	{
+		"chi"		"重置地图"
+	}
+	"<< Generating 00010110 >>"
+	{
+		"chi"		"生成 “00010110”"
+	}
+	"<< Generating 1010 >>"
+	{
+		"chi"		"生成 “1010”"
+	}
+	"<< Generating 010 >>"
+	{
+		"chi"		"生成 “010”"
+	}
+	"<< Processing Map >>"
+	{
+		"chi"		"处理中"
+	}
+	"+<!>+"
+	{
+		"chi"		"“!”"
+	}
+	"*** CONGRATULATIONS YOU BEAT THE MAP ***"
+	{
+		"chi"		"祝贺!地图通关"
+	}
+	"*** For Now... ***"
+	{
+		"chi"		"就是现在"
+	}
+	"*** Calculating Round Data ***"
+	{
+		"chi"		"计算回合数据*"
+	}
+	"===Spawning==="
+	{
+		"chi"		"===Spawning==="
+	}
+	"===DiagramEnabled==="
+	{
+		"chi"		"===DiagramEnabled==="
+	}
+	">PLAYER HAS PICKED UP:BULWARK MAKER<"
+	{
+		"chi"		"一名玩家捡起了坚盾壁垒"
+	}
+	">Skematics enabled<"
+	{
+		"chi"		"坚盾壁垒预构已启用"
+	}
+	"<ZOMBIE HAS PICKED UP:MANIPULATION>"
+	{
+		"chi"		"一名捡起捡起了控制"
+	}
+	">PLAYER HAS PICKED UP:GIST<"
+	{
+		"chi"		"一名捡起捡起了能量环带"
+	}
+	">PLAYER HAS PICKED UP:PONDER<"
+	{
+		"chi"		"一名捡起捡起了静默领域"
+	}
+	"<ZOMBIE HAS PICKED UP:DEMONIC AURA>"
+	{
+		"chi"		"一名捡起捡起了恶魔光环"
+	}
+	"<ZOMBIE HAS PICKED UP:ORDNANCE:>"
+	{
+		"chi"		"一名捡起捡起了灼热光炮"
+	}
+	">PLAYER HAS PICKED UP:HOLY AURA<"
+	{
+		"chi"		"一名捡起捡起了能量爆发"
+	}
+	"<< EYE OF HEALING >>"
+	{
+		"chi"		"治愈之眼"
+	}
+	"*Healed*"
+	{
+		"chi"		"回复了血量"
+	}
+	"<< SHIFT >>"
+	{
+		"chi"		"地面沉降"
+	}
+	"<< SCRAMBLE >>"
+	{
+		"chi"		"魔贯光杀炮"
+	}
+	"<< COSMIC FALL >>"
+	{
+		"chi"		"堕天降临“天坠”"
+	}
+	"<< DODGE >>"
+	{
+		"chi"		"能量倾泻"
+	}
+	"<< PUSH >>"
+	{
+		"chi"		"风暴之翼“站蓝色特效躲避”"
+	}
+	"<Map made by J3wdice ~ Midknight>"
+	{
+		"chi"		"地图制作:J3wdice ~ Midknight  汉化:小三@風雲社"
+	}
+	"<STAGE:EASY>"
+	{
+		"chi"		"第一关"
+	}
+	":ZITEM:MODULATE"
+	{
+		"chi"		"ZM关"
+	}
+	">STAGE:EXPERT<"
+	{
+		"chi"		"第三关"
+	}
+	">Map made by J3wDice ~ Midknight<"
+	{
+		"chi"		"地图制作:J3wdice ~ Midknight  汉化:小三@風雲社"
+	}
+	">STAGE:HARD<"
+	{
+		"chi"		"第二关"
+	}
+	"human tele in 10s"
+	{
+		"chi"		"人类传送:10秒"
+	}
+	"zmbie tele in 5s"
+	{
+		"chi"		"僵尸传送:5秒"
+	}
+}
