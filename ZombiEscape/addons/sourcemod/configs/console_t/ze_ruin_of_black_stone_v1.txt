@@ -4,35 +4,35 @@
 	{
 		"chi"		"**僵尸胜利**"
 	}
-	"<< Maybe we should investigate later......>>"
+	"<< Maybe we should investigate it later......>>"
 	{
-		"chi"		"**也许我们可以以后再调查...**"
+		"chi"		"**也许我们可以日后再调查...**"
 	}
 	"<< What's that...... >>"
 	{
 		"chi"		"**那是什么...?**"
 	}
-	"<< ???: What? You kill my pet?! >>"
+	"<< ???: What? You've killed my pet?! >>"
 	{
-		"chi"		"**？？？:不...你杀了我得宠物!?**"
+		"chi"		"**？？？:不...你杀了我的宠物!?**"
 	}
-	"<< Got it!!! Tesla has dead!!! >>"
+	"<< Got it!!! Tesla has died!!! >>"
 	{
-		"chi"		"**拿到它了,特斯拉已经死了!**"
+		"chi"		"**特斯拉已经死了!**"
 	}
-	"<< Admin select Chapter I >>"
+	" << Admin has selected Chapter I >>"
 	{
 		"chi"		"**管理员选择第一关**"
 	}
-	"<< Admin select Chapter II >>"
+	"<< Admin has selected Chapter II >>"
 	{
 		"chi"		"**管理员选择第二关**"
 	}
-	"<< Admin select Chapter IV >>"
+	"<< Admin has selected Chapter IV >>"
 	{
 		"chi"		"**管理员选择第四关**"
 	}
-	"<< Admin select Chapter III >>"
+	" << Admin has selected Chapter III >>"
 	{
 		"chi"		"**管理员选择第三关**"
 	}
@@ -40,21 +40,25 @@
 	{
 		"chi"		"**一名玩家习得了毒**"
 	}
+	"<< A zombie has picked up poison magic >>"
+	{
+		"chi"		"**一名玩家习得了[zm]蛊毒**"
+	}
 	"<< A player has picked up holy magic >>"
 	{
 		"chi"		"**一名玩家习得了终极**"
 	}
 	"<< A zombie has picked up gravity magic >>"
 	{
-		"chi"		"**一名玩家习得了[ZM]黑洞**"
+		"chi"		"**一名玩家习得了[zm]黑洞**"
 	}
 	"<< A zombie has picked up ice magic >>"
 	{
-		"chi"		"**一名玩家习得了[ZM]冰**"
+		"chi"		"**一名玩家习得了[zm]冰域**"
 	}
 	"<< A zombie has picked up heal magic >>"
 	{
-		"chi"		"**一名玩家习得了[ZM]治疗**"
+		"chi"		"**一名玩家习得了[zm]治疗**"
 	}
 	"<< A player has picked up earth magic >>"
 	{
@@ -76,9 +80,13 @@
 	{
 		"chi"		"**祝贺**"
 	}
-	"<< You've win all chapter!!! >>"
+	"<< You've win all the chapters!!! >>"
 	{
 		"chi"		"**已通过全部关卡**"
+	}
+	"<< Map by SilverCrew, reworked by Misaka >>"
+	{
+		"chi"		"**地图制作:SilverCrew  地图重置:Misaka**"
 	}
 	"<< Map by SilverCrew, rework by Misaka >>"
 	{
@@ -92,7 +100,7 @@
 	{
 		"chi"		"**5**"
 	}
-	"<< Leave there immediately!!! >>"
+	"<< Get out of there immediately!!! >>"
 	{
 		"chi"		"**立即离开那里**"
 	}
@@ -104,7 +112,7 @@
 	{
 		"chi"		"**又让它逃掉了...**"
 	}
-	"<< The ruin start to collapse!!! >>"
+	"<< The ruin starts to collapse!!! >>"
 	{
 		"chi"		"**废墟开始崩溃**"
 	}
@@ -112,13 +120,13 @@
 	{
 		"chi"		"**我已经在黑石废墟上准备了一个传送装置**"
 	}
-	"<< Hurry up!!! Escape from there!!! >>"
+	"<< Hurry up!!! Get out of there!!! >>"
 	{
 		"chi"		"**快点,离开这里!**"
 	}
 	"<< Tesla is using Gravity!!! >>"
 	{
-		"chi"		"**特斯拉使用悪魔の颚**"
+		"chi"		"**特斯拉使用悪魔の颚“黑洞”**"
 	}
 	"<< Tesla is using Fallen Fire!!! >>"
 	{
@@ -130,39 +138,39 @@
 	}
 	"<< Tesla is using Flame Field!!! >>"
 	{
-		"chi"		"**特斯拉使用红莲炼狱**"
+		"chi"		"**特斯拉使用红莲炼狱“终极”**"
 	}
 	"<< Field will activate in 8 seconds>>"
 	{
-		"chi"		"**红莲炼狱8秒内启用**"
+		"chi"		"**8秒后“火焰半场秒杀”**"
 	}
-	"<< Tesla activate a fire area >>"
+	"<< Tesla is activating a fire area >>"
 	{
-		"chi"		"**特斯拉开启炼狱炎**"
+		"chi"		"**特斯拉开启炼狱炎“远离地上火焰特效”**"
 	}
 	"<< ???: Hahahahah, Welcome to the hell >>"
 	{
 		"chi"		"**???:欢迎来到地狱**"
 	}
-	"<< ???: It seems that you all know why I entrust you >>"
+	"<< ???: It seems that you all know why I entrusted you >>"
 	{
-		"chi"		"** ???:似乎大家都知道我为什么委托您**"
+		"chi"		"**???:似乎大家都知道我为什么委托您**"
 	}
-	"<< ???: You should die when you activate the lever in the city >>"
+	"<< ???: You should have died when you activated the lever in the city >>"
 	{
-		"chi"		"** ???:当你激活城市中的控制杆时你就应该死亡**"
+		"chi"		"**???:当你激活城市中的控制杆时你就应该死亡**"
 	}
-	"<< ???: But you alive,and even you defeated my pet for three times >>"
+	"<< ???: But you are alive and you defeated my pet for three times >>"
 	{
 		"chi"		"**???:但是你还活着,甚至击败了我的宠物三遍**"
 	}
-	"<< ???: I'm proud of your brave to come here and find the truth >>"
+	"<< ???: I'm proud of your bravery to come here and find the truth >>"
 	{
 		"chi"		"**???:我为你勇敢来到这里找到真相而感到骄傲**"
 	}
-	"<< ???: So now die, and I will bury you all out!!! >>"
+	"<< ???: So you gonna die now and I will bury you all out!!! >>"
 	{
-		"chi"		"** ???:所以现在就请去死了,我将把你们全部埋葬**"
+		"chi"		"**???:所以现在就请去死了,我将把你们全部埋葬**"
 	}
 	"<< BGM from ze_ffvii_cosmo_canyon >>"
 	{
@@ -328,9 +336,9 @@
 	{
 		"chi"		"**该死,它还没死...**"
 	}
-	"<< Tesla disappeared again... >>"
+	"<< Tesla has disappeared.... >>"
 	{
-		"chi"		"**特斯拉又消失了...**"
+		"chi"		"**特斯拉消失了...**"
 	}
 	"<< Maybe we can get the answer at the ruin >>"
 	{
@@ -350,7 +358,7 @@
 	}
 	"<< Prepare for the coming truth...... >>"
 	{
-		"chi"		"**为即将到来的真理做准备...**"
+		"chi"		"**真相逐渐浮现,请再次千万黑石废墟...**"
 	}
 	"<< zombie has escaped!!! >>"
 	{
@@ -456,7 +464,7 @@
 	{
 		"chi"		"**这是熔岩の怪物-特斯拉**"
 	}
-	"<< kill Tesla before he kills us!!! >>"
+	"<< kill Tesla before it kills us!!! >>"
 	{
 		"chi"		"**在特斯拉杀死我们之前杀死它**"
 	}
@@ -484,7 +492,7 @@
 	{
 		"chi"		"**等待10秒**"
 	}
-	"<< All lever has been pulled >>"
+	"<< All levers have been pulled >>"
 	{
 		"chi"		"**所有杠杆都已激活**"
 	}
