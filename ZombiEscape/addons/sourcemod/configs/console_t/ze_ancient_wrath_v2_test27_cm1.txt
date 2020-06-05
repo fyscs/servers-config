@@ -34,7 +34,7 @@
 	}
 	"||| CORE EXPLODES IN 170 SECONDS |||"
 	{
-		"chi"		"警告：核心将在170秒后摧毁"
+		"chi"		"警告：核心170秒后摧毁"
 	}
 	"||| CORE EXPLODES IN 100 SECONDS |||"
 	{
@@ -94,7 +94,7 @@
 	}
 	"||| FIRST SECURITY STATION HAS BEEN DISABLED |||"
 	{
-		"chi"		"第一安全站已被禁用"
+		"chi"		"第一安全站已关闭"
 	}
 	"||| BOTH BUTTONS WERE PRESSED |||"
 	{
@@ -102,7 +102,7 @@
 	}
 	"||| SECOND SECURITY STATION HAS BEEN DISABLED |||"
 	{
-		"chi"		"第二安全站已被禁用"
+		"chi"		"第二安全站已关闭"
 	}
 	"||| ZOMBIE TRAIN - WIN DISABLE |||"
 	{
@@ -150,11 +150,11 @@
 	}
 	"||| !!!WARNING!!! DANGER FROM ABOVE |||"
 	{
-		"chi"		"警告:上面有危险"
+		"chi"		"警告：天降灾祸"
 	}
 	"||| POWER WILL BE RESTORED IN 25 SECONDS <SURVIVE> |||"
 	{
-		"chi"		"电源将在25秒后回复,活下去"
+		"chi"		"电源将在25秒后恢复"
 	}
 	"||| THE DOORS ARE OPENING |||"
 	{
@@ -162,19 +162,19 @@
 	}
 	"||| THE VIRUS NEED TO STAY IN THE FACILITY FOR THE FINAL AIRSTRIKE |||"
 	{
-		"chi"		"病毒需要留在最后的空袭设施中"
+		"chi"		"不能让僵尸出门"
 	}
 	"||| AIRSTRIKE INCOMING |||"
 	{
-		"chi"		"空袭来了"
+		"chi"		"核弹降临"
 	}
 	"||| POWER IS RESTORED... DOORS OPEN SOON |||"
 	{
-		"chi"		"电源回复,门即将打开"
+		"chi"		"电源恢复,门即将打开"
 	}
 	"||| ZOMBIE HELICOPTER - WIN DISABLE |||"
 	{
-		"chi"		"直升机检测到监事,人类失败"
+		"chi"		"直升机检测到僵尸,人类失败"
 	}
 	"||| DOOR OPENS IN 20 SECONDS |||"
 	{
@@ -350,6 +350,6 @@
 	}
 	"||| NIGHTMARE COMPLETE |||"
 	{
-		"chi"		"梦魇难度完成"
+		"chi"		"极限难度完成"
 	}
 }
