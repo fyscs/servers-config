@@ -20,13 +20,13 @@
 	{
 	    "chi"    "墙还有30秒碎"
 	}
-    "10s eledoor open"
+    "7s elevator door open"
     {
-	    "chi"    "电梯门还有10秒开"
+	    "chi"    "电梯门还有7秒开"
 	}
 	"50s open door"
 	{
-	    "chi"    "50秒后开门，大家慢慢守吧"
+	    "chi"    "50秒后开门"
 	}
 	"40s open door"
     {
@@ -36,13 +36,17 @@
 	{
 	    "chi"    "绝了，60秒后开门"
 	}
+	 "93s boom"
+	{
+	    "chi"    "93秒后才会炸开"
+	}
     "40s break"
 	{
 	    "chi"    "还有40秒才会碎"
 	}
 	"50s break"
 	{
-	    "chi"    "唉，还有50秒才碎"
+	    "chi"    "还有50秒才碎"
 	}
     "35s break"
 	{
@@ -58,7 +62,7 @@
 	}
     "60s defend"
 	{
-	    "chi"    "天呐，在这里要防守60秒"
+	    "chi"    "在这里要防守60秒"
 	}
     "40s move"
 	{
