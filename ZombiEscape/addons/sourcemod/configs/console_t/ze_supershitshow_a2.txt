@@ -116,17 +116,6 @@
 	{
 		"chi"		"**路上非常安全!**"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_lockroundtime 15"
-		}
-		"1"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-	}
 	"** 2 **"
 	{
 		"chi"		"** **"

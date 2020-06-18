@@ -145,25 +145,6 @@
 	{
 		"chi"		"**最后的封印解除了,救援很快就会到达**"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-		"1"
-		{
-			"cvar"		"sm_molotov_limit 2"
-		}
-		"2"
-		{
-			"cvar"		"sm_he_limit 5"
-		}
-		"3"
-		{
-			"cvar"		"sm_smoke_limit 2"
-		}
-	}
 	"sync_version"
 	{
 		"syncvalue"		"6328"

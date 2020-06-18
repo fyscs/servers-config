@@ -467,7 +467,6 @@
     "*** STAGE 5 LOADED ***"
     {
         "chi"        "**第五关载入中**"
-        "command"        "sm_flashlight_enabled 1"
     }
     "*** STAGE 5 ***"
     {
@@ -558,49 +557,6 @@
     "[ADMIN ROOM] STAGE 5 NEXT ROUND"
     {
         "chi"        "**[管理员]下一关卡设置为第五关**"
-    }
-    "MapGlobal_ConVars"
-    {
-        "0"
-        {
-            "cvar"        "sm_precache_particles particlesmg_medusa.pcf"
-        }
-        "1"
-        {
-            "cvar"        "sm_cvar sm_g_cv_money 10000"
-        }
-        "2"
-        {
-            "cvar"        "sm_cvar sm_he_limit 6"
-        }
-        "3"
-        {
-            "cvar"        "sm_cvar sm_spawn_give_armor 1"
-        }
-        "4"
-        {
-            "cvar"        "sm_g_cv_money 13000"
-        }
-        "5"
-        {
-            "cvar"        "sm_cvar sm_he_limit 8"
-        }
-        "6"
-        {
-            "cvar"        "sm_cvar sm_nofalldamage 1"
-        }
-        "7"
-        {
-            "cvar"        "sm_set_convar sm_cvar sm_nofalldamage 1"
-        }
-        "8"
-        {
-            "cvar"        "sm_Cvar  sm_flashlight_enabled 1"
-        }
-        "9"
-        {
-            "cvar"        "sm_cvar sm_flashlight_enabled 1"
-        }
     }
     "The Edge Of The Platform Will Be Dangerous Except Nuke(In Order To Limit The Area To Hexagonal Field)"
     {

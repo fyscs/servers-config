@@ -240,25 +240,6 @@
 	{
 		"chi"		"### 到达顶端坚守 40 秒 ###"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_g_cv_money 8500"
-		}
-		"1"
-		{
-			"cvar"		"sm_Cvar sm_g_cv_money 8500"
-		}
-		"2"
-		{
-			"cvar"		"sm_Cvar     sm_he_limit 4"
-		}
-		"3"
-		{
-			"cvar"		"sm_Cvar   sm_molotov_limit 2"
-		}
-	}
 	"### PLATFORM IS GOING DOWN IN 5 SECONDS ###"
 	{
 		"chi"		"### 平台5秒后下降###"

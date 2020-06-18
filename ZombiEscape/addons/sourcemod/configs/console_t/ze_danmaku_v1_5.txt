@@ -3,12 +3,12 @@
 	"<human win>"
 	{
 		"chi"		"人类胜利"
-		"Command"	"sm_slay @t"
+		"Command"	"sm_ef fys_global_relay RunScriptCode KillTE()"
 	}
 	"<< INFECTED DETECTED >>"
 	{
 		"chi"		"检测到感染体,人类失败"
-		"Command"	"sm_slay @ct"
+		"Command"	"sm_ef fys_global_relay RunScriptCode KillCT()"
 	}
 	"*** Level 3 Button Pressed ***"
 	{

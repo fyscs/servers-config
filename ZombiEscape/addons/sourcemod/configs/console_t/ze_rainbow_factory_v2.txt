@@ -31,17 +31,6 @@
 		"chi"		"**大门30秒后打开**"
 		"DoorCountDown"		"30"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_nofalldamage 1"
-		}
-		"1"
-		{
-			"cvar"		"sm_cvar sm_molotov_limit 2"
-		}
-	}
 	"*** Door Closes in 20 seconds ***"
 	{
 		"chi"		"**大门20秒后关闭**"

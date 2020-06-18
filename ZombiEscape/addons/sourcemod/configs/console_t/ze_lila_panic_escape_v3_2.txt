@@ -7,7 +7,7 @@
 	"** LEVEL 1 (EASY) **"
 	{
 		"chi"		"**第一关（简单） **"
-		"command"		"sm_cvar zr_infect_mzombie_ratio 6"
+		"command"		"zr_infect_mzombie_ratio 6"
 	}
 	"** DOOR OPENS IN 10 SECONDS **"
 	{
@@ -156,7 +156,7 @@
 	"** LEVEL 2 (BOSS) **"
 	{
 		"chi"		"**第二关 **"
-		"command"		"sm_cvar zr_infect_mzombie_ratio 6"
+		"command"		"zr_infect_mzombie_ratio 6"
 	}
 	"** GATE WILL OPEN IN 15 SECONDS **"
 	{
@@ -237,7 +237,7 @@
 	"** LEVEL 3 (HARD) **"
 	{
 		"chi"		"**第三关**"
-		"command"		"sm_cvar zr_infect_mzombie_ratio 5"
+		"command"		"zr_infect_mzombie_ratio 5"
 	}
 	"** ALL SECRETS HAVE BEEN FOUND... **"
 	{
@@ -262,7 +262,7 @@
 	"** LEVEL 4 (BOSS) **"
 	{
 		"chi"		"**第四关 boss战**"
-		"command"		"sm_cvar zr_infect_mzombie_ratio 5"
+		"command"		"zr_infect_mzombie_ratio 5"
 	}
 	"** BOSS ATTACKS ENABLED **"
 	{
@@ -283,7 +283,7 @@
 	"** LEVEL 5 (ZM ROUND) **"
 	{
 		"chi"		"**第五关[ZM]**"
-		"command"		"sm_cvar zr_infect_mzombie_ratio 6"
+		"command"		"zr_infect_mzombie_ratio 6"
 	}
 	"** 180 SECONDS left until VICTORY **"
 	{
@@ -332,7 +332,7 @@
 	"** LEVEL 6 (BOSS) **"
 	{
 		"chi"		"**第六关(BOSS)**"
-		"command"		"sm_cvar zr_infect_mzombie_ratio 5"
+		"command"		"zr_infect_mzombie_ratio 5"
 	}
 	"** ITEM COLLECTED - ALL HUMANS GET 250 HP **"
 	{
@@ -362,7 +362,7 @@
 	"** LEVEL 7 (EXTREME) **"
 	{
 		"chi"		"**第七关(EXTREME)**"
-		"command"		"sm_cvar zr_infect_mzombie_ratio 5"
+		"command"		"zr_infect_mzombie_ratio 5"
 	}
 	"** SUICIDAL ZOMBIE INCOMING **"
 	{
@@ -435,7 +435,7 @@
 	"** LEVEL 8 (FINAL BOSS) **"
 	{
 		"chi"		"**第八关(最后的BOSS)**"
-		"command"		"sm_cvar zr_infect_mzombie_ratio 6"
+		"command"		"zr_infect_mzombie_ratio 6"
 	}
 	"** U WON LEVEL 8 (FINAL BOSS) **"
 	{

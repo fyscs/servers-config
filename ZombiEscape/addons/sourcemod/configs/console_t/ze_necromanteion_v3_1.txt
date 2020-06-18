@@ -542,29 +542,6 @@
 	{
 		"chi"		"**倒计时5秒**"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_nofalldamage 1"
-		}
-		"1"
-		{
-			"cvar"		"sm_g_cv_money 10000"
-		}
-		"2"
-		{
-			"cvar"		"sm_cvar sm_he_limit 5"
-		}
-		"3"
-		{
-			"cvar"		"sm_cvar   sm_molotov_limit 2"
-		}
-		"4"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-	}
 	"***The portal will activate in 70***"
 	{
 		"chi"		"**入口70秒后激活**"

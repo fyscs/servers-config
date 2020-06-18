@@ -260,11 +260,9 @@
     "***  YOU HAVE BEATEN LEVEL 3. CHALLENGE CONTINUES ON LEVEL 4 ***"
     {
         "chi"        "你通过了第三关.第四关加载中..."
-        "command"        "zr_noarmor 1"
     }
     ">>> |LEVEL 4| <<<"
     {
-        "command"        "sm_armor_limit 1"
         "chi"        "第四关"
     }
     "+++ BARBOSSA picked up +++"

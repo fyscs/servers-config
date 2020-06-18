@@ -2,14 +2,10 @@
 {
 	"*** Door opening in 20 seconds ***"
 	{
-		"command"		"mp_roundtime 25.0"
-		"force_round_end"		"1"
 		"chi"		"**门在20秒后开启**"
-		"DoorCountDown"		"20"
 	}
 	"*** Door opening in 5 seconds ***"
 	{
-		"command"		"mp_roundtime 25.0"
 		"chi"		"**门在5秒后开启**"
 	}
 	"*** Boats departing in 20 seconds ***"

@@ -626,37 +626,6 @@
 		"chi"		"** **"
 		"DoorCountdown"		"30"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_g_cv_money 10000"
-		}
-		"1"
-		{
-			"cvar"		"sm_smoke_limit 6"
-		}
-		"2"
-		{
-			"cvar"		"sm_molotov_limit 5"
-		}
-		"3"
-		{
-			"cvar"		"sm_he_limit 10"
-		}
-		"4"
-		{
-			"cvar"		"zr_infect_mzombie_ratio 8"
-		}
-		"5"
-		{
-			"cvar"		"zr_infect_mzombie_ratio 7"
-		}
-		"6"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-	}
 	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"

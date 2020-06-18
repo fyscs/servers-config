@@ -264,70 +264,6 @@
     {
         "chi"        "**进入潜水球 - 12秒**"
     }
-    "Tonic Static Shell
-Effect: Shock those who harm you with Electric Flesh! Stun splicers on death
-Activation: Contact with a splicer"
-    {
-        "chi"        "**特殊道具：静电罩 
-效果：你获得静电罩保护，当你阵亡时，会小范围定身敌人。 
-激活方法：被抓**"
-    }
-    "Plasmid: Incinerate
-Effect: Ignite splicers with a fireball! 
-Duration: 7 Secs
-Uses: 8(Easy)  5(Hard)
-Cooldown: 5 Secs"
-    {
-        "chi"        "质粒：焚烧
-++效果：产生火焰减速僵尸
-++持续时间：7秒
-++使用次数：8次（简单难度）5次（困难难度）
-++冷却时间：5秒"
-    }
-    "Plasmid: Gravity Well
-Effect: Drag your enemies into a pit! 
-Duration: 5 Secs 
-Uses: 5(Easy)  3(Hard)
-Cooldown: 18 Secs"
-    {
-        "chi"        "质粒：重力
-++效果:把僵尸吸到一起！注意使用别大飞
-++持续时间:5秒
-++使用次数:5次(简单难度)3次(困难难度)
-++冷却时间:18秒"
-    }
-    "Hold the Atrium"
-    {
-        "chi"        "** **"
-    }
-    "Plasmid: Electro Bolt
-Effect: Stun splicers with a bolt of electricity!
-Duration: 4 Secs 
-Uses: 6(Easy)  4(Hard)
-Cooldown: 11 Secs"
-    {
-        "chi"        "质粒：闪电
-++效果:定身范围内的僵尸!
-++持续时间:4秒
-++使用次数:6次(简单难度)4次（困难难度）
-++冷却时间:11秒"
-    }
-    "Difficulty - Easy"
-    {
-        "chi"        "**难度-简单 **"
-    }
-    "Plasmid: Winter Blast
-Effect: Freeze your enemies! 
-Duration: 3 Secs 
-Uses: 5(Hard)  3(Easy)
-Cooldown: 13 Secs"
-    {
-        "chi"        "质粒：寒霜
-++效果:冰冻且减速僵尸！
-++持续时间:3秒
-++使用次数:5次(简单难度)3次(困难难度)
-++冷却时间:13秒"
-    }
     "Hold until security door releases"
     {
         "chi"        "**守到安全门打开 **"
@@ -335,26 +271,6 @@ Cooldown: 13 Secs"
     "Wait for the elevator's arrival"
     {
         "chi"        "**等待电梯到来**"
-    }
-    "Tonic Flash Flare
-Effect: Your flesh is glowing. Blind the enemies when you die! 
-Activation: Contact with a splicer"
-    {
-        "chi"        "**特殊道具：强力闪光 
-效果：你获得闪光强化，当你阵亡时，会把敌人闪瞎。 
-激活方法：被抓**"
-    }
-    "Plasmid: Sonic Boom
-Effect: Blast splicers away with an airwave!
-Duration: 2 Secs
-Uses: 8(Easy)  5(Hard)
-Cooldown: 10 Secs"
-    {
-        "chi"        "质粒：音爆
-++效果:推开前方的僵尸！（注意使用别大飞）
-++持续时间:2秒
-++使用次数:8次(简单难度)5次(困难难度)
-++冷却时间:10秒"
     }
     "Elevator 1 is leaving"
     {
@@ -379,10 +295,6 @@ Cooldown: 10 Secs"
     "Wait for Siren Alley doors to unlock"
     {
         "chi"        "**等待海妖街大门开启**"
-    }
-    "Hide or hold until the exit has drained"
-    {
-        "chi"        "**存活并守到出口打开 **"
     }
     "1m 23s"
     {
@@ -492,16 +404,6 @@ Cooldown: 10 Secs"
     {
         "chi"        "**守住门口 **"
     }
-    "Plasmid: Insect Swarm
-Effect: Harm splicers with a swarm of bees
-Uses: 5(Easy)  3(Hard) 
-Cooldown: 10 Secs"
-    {
-        "chi"        "质粒：蜂群
-++效果：用一大群蜜蜂对前方僵尸造成高伤害
-++使用次数：5次（简单难度）3次（困难难度）
-++冷却时间：10秒 **"
-    }
     "Defeat Sander Cohen"
     {
         "chi"        "**击败桑德-科恩**"
@@ -550,53 +452,9 @@ Cooldown: 10 Secs"
     {
         "chi"        "**不能让僵尸越过标记！**"
     }
-    "ze_bioshock
-by DormantLemon"
+    "ze_bioshock by DormantLemon"
     {
         "chi"        "**地图作者：DormantLemon  地图汉化：大明**"
-    }
-    "Plasmid: Incinerate
-Effect: Ignite splicers with a fireball! 
-Duration: 7 Secs
-Uses: 8(Easy)  5(Hard)
-Cooldo"
-    {
-        "chi"        "**质粒：焚烧
-++效果：产生火焰减速僵尸
-++持续时间：7秒
-++使用次数：8次（简单难度）5次（困难难度）
-++冷却时间：5秒"
-    }
-    "Plasmid: Electro Bolt
-Effect: Stun splicers with a bolt of electricity!
-Duration: 4 Secs 
-Uses: 6(Easy)  4(H"
-    {
-        "chi"        "质粒：闪电
-++效果:定身范围内的僵尸!
-++持续时间:4秒
-++使用次数:6次(简单难度)4次（困难难度）
-++冷却时间:11秒"
-    }
-    "Tonic Flash Flare
-Effect: Your flesh is glowing. Blind the enemies when you die! 
-Activation: Contact with a"
-    {
-        "chi"        "**特殊道具：强力闪光 
-效果：你获得闪光强化，当你阵亡时，会把敌人闪瞎。 
-激活方法：被抓**"
-    }
-    "Plasmid: Gravity Well
-Effect: Drag your enemies into a pit! 
-Duration: 5 Secs 
-Uses: 5(Easy)  3(Hard)
-Cooldo"
-    {
-        "chi"        "质粒：重力
-++效果:把僵尸吸到一起！注意使用别大飞
-++持续时间:5秒
-++使用次数:5次(简单难度)3次(困难难度)
-++冷却时间:18秒"
     }
     ">>ze_bioshock<<"
     {

@@ -984,7 +984,6 @@
 	"***THIS.. IS THE TRUTH***"
 	{
 		"chi"		"**这才是真相！**"
-		"command"   "sm_cvar ze_weapons_round_hegrenade 4"
 	}
 	"***SOCRATES IS JUDGING YOU***"
 	{
@@ -1185,7 +1184,6 @@
 	"***YOU WILL BE REMEMBERED AS CHAMPIONS***"
 	{
 		"chi"		"**你会被世人铭记**"
-        "command"		"szw_disable"
 	}
 	"***THE END***"
 	{
