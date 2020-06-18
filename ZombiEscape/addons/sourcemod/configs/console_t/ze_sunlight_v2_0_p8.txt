@@ -19,7 +19,7 @@
 	"*** Defend for 30 seconds! ***"
 	{
 		"chi"		"**守住30秒！开枪! **"
-		"DoorCountDown"		"30"
+
 	}
 	"*** 5 seconds left ***"
 	{
@@ -32,7 +32,7 @@
 	"*** Lift is leaving in 30 seconds ***"
 	{
 		"chi"		"**电梯将在30秒后离开!坚守阵地!**"
-		"DoorCountDown"		"30"
+
 	}
 	"*** Defend for 20 seconds! ***"
 	{
@@ -41,7 +41,7 @@
 	"*** NUKE IN 1 MINUTE ***"
 	{
 		"chi"		"**我方核打击将在1分钟后到达! **"
-		"DoorCountDown"		"60"
+
 	}
 	"*** Final door is opening in 10 seconds ***"
 	{
@@ -70,7 +70,7 @@
 	"*** Defend for 35 seconds! ***"
 	{
 		"chi"		"**防守35秒!赏它个麻辣烫! **"
-		"DoorCountDown"		"35"
+
 	}
 	"*** Orange Launcher has been acquired ***"
 	{
@@ -103,7 +103,7 @@
 	"*** Nuke in 2 minutes ***"
 	{
 		"chi"		"**侦测到我方核聚变打击将在2分钟后到达! **"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** Stage failed! ***"
 	{

@@ -116,10 +116,6 @@
 	{
 		"chi"		">>>低摩擦<<<"
 	}
-	"sync_version"
-	{
-		"syncvalue"		"80974"
-	}
 	"<<< Level 1 >>>"
 	{
 		"chi"		"**第一关**"
@@ -146,7 +142,7 @@
 	}
 	"<<< Defend for 60 seconds! >>>"
 	{
-		"DoorCountDown"		"60"
+
 		"chi"		"** **"
 	}
 	"<<< Disperse >>>"

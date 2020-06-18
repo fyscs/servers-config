@@ -35,7 +35,7 @@
 	"*** Hold 20 seconds ***"
 	{
 		"chi"		"**坚守20秒!开枪!**"
-		"DoorCountDown"		"20"
+
 	}
 	"*** 5 seconds left ***"
 	{
@@ -112,7 +112,7 @@
 	"*** Hold 40 seconds ***"
 	{
 		"chi"		"**守住40秒 **"
-		"DoorCountDown"		"40"
+
 	}
 	"*** 10 seconds left ***"
 	{
@@ -313,9 +313,6 @@
 	"Behind you ."
 	{
 		"chi"		"**在后面!!!哇!**"
-	"..."
-	{
-		"chi"		"** **"
 	}
 	"Seven ."
 	{
@@ -468,6 +465,7 @@
 	"Undyne ... Youre ... Youre hurt ..."
 	{
 		"chi"		"**Undyne,你受伤了!**"
+	}
 	"Hurt ? Its nothing ."
 	{
 		"chi"		"**受伤？不足为道. **"
@@ -515,6 +513,7 @@
 	"Just like that , I ..."
 	{
 		"chi"		"**好吧 我辜负了你!**" 
+	}
 	"Ive failed you ."
 	{
 		"chi"		"**我辜负了你. **"
@@ -654,7 +653,7 @@
 	"*** Hold 30 seconds ***"
 	{
 		"chi"		"**坚守30秒!加油**"
-		"DoorCountDown"		"30"
+
 	}
 	"*** 20 seconds left ***"
 	{
@@ -667,10 +666,6 @@
 	"If youre walking anyway , I guess Ill go with you , haha ..."
 	{
 		"chi"		"**如果你也不能..那我们就一起走吧。。。**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"40201"
 	}
 	"If you were standing just a LITTLE bit to the left ... !"
 	{

@@ -19,7 +19,6 @@
 	"Magical Piece of shit moves in 40 Seconds!"
 	{
 		"chi"		"**魔毯在40秒后离开**"
-		"DoorCountdown"		"40"
 	}
 	"Magical Piece of shit moves in 20 Seconds!"
 	{
@@ -108,7 +107,6 @@
 	"Survive Here for 60 Seconds to win"
 	{
 		"chi"		"**找个好地方生存60秒就行了**"
-		"DoorCountdown"		"60"
 	}
 	"Teleporting Zombies in 20 Seconds!"
 	{
@@ -137,7 +135,6 @@
 	"Survive Here for 80 Seconds to win"
 	{
 		"chi"		"**找个好地方生存80秒就行了**"
-		"DoorCountdown"		"80"
 	}
 	"###$$$%%%LEVEL 3%%%$$$###"
 	{

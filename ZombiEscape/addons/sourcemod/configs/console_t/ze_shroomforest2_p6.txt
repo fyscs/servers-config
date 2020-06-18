@@ -63,8 +63,7 @@
 	"*** LEAF LEAVING IN 20 SECONDS ***"
 	{
 		"chi"		"**树叶20秒后离开**"
-		"DoorCountDown"		"20"
-		"ico"		"icon_tip"
+
 	}
 	">> PLAYER HAS PICKED UP EARTH <<"
 	{
@@ -85,7 +84,7 @@
 	"*** HOLD FOR 30 SECONDS ***"
 	{
 		"chi"		"**守住30秒**"
-		"DoorCountDown"		"30"
+
 	}
 	"*** 5 MORE SECONDS ***"
 	{
@@ -118,8 +117,7 @@
 	"*** FLY LEAVING IN 15 SECONDS ***"
 	{
 		"chi"		"**苍蝇15秒后离开**"
-		"DoorCountDown"		"15"
-		"ico"		"icon_tip"
+
 	}
 	">> LEVEL COMPLETED !!! <<"
 	{
@@ -156,8 +154,7 @@
 	"*** ELEVATOR OPENING IN 20 SECONDS ***"
 	{
 		"chi"		"**电梯门20秒后打开**"
-		"DoorCountDown"		"20"
-		"ico"		"icon_tip"
+
 	}
 	"*** ELEVATOR LEAVING IN 10 SECONDS ***"
 	{
@@ -166,7 +163,7 @@
 	"*** FAN STOPPING IN 30 SECONDS ***"
 	{
 		"chi"		"**排风扇30秒后停止工作**"
-		"DoorCountDown"		"30"
+
 	}
 	"*** FALL BACK ***"
 	{
@@ -191,8 +188,7 @@
 	"*** WEB LEAVING IN 20 SECONDS ***"
 	{
 		"chi"		"**蜘蛛网20秒后上升**"
-		"DoorCountDown"		"20"
-		"ico"		"icon_tip"
+
 	}
 	">> ALL 6 MINES USED <<"
 	{
@@ -233,8 +229,7 @@
 	"*** CLOUD LEAVING IN 20 SECONDS ***"
 	{
 		"chi"		"**云朵20秒后离开**"
-		"DoorCountDown"		"20"
-		"ico"		"icon_tip"
+
 	}
 	"210 Angel Found"
 	{
@@ -243,17 +238,17 @@
 	"*** HEAVEN GATES OPENING IN 25 SECONDS ***"
 	{
 		"chi"		"**天国大门25秒后打开**"
-		"DoorCountDown"		"25"
+
 	}
 	"*** GATE OPENING IN 25 SECONDS ***"
 	{
 		"chi"		"**门25秒后打开**"
-		"DoorCountDown"		"25"
+
 	}
 	"*** Doors opening in 30 seconds ***"
 	{
 		"chi"		"**伊丽莎白门30秒后打开**"
-		"DoorCountDown"		"30"
+
 	}
 	"310 Angel Found"
 	{
@@ -274,8 +269,7 @@
 	"*** BUTTERFLY LEAVING IN 15 SECONDS ***"
 	{
 		"chi"		"**天使蝶15秒后离开**"
-		"DoorCountDown"		"15"
-		"ico"		"icon_tip"
+
 	}
 	"[Extreme1] Find the Groke"
 	{
@@ -288,8 +282,7 @@
 	"*** FLY LEAVING IN 20 SECONDS ***"
 	{
 		"chi"		"**苍蝇20秒后离开**"
-		"DoorCountDown"		"20"
-		"ico"		"icon_tip"
+
 	}
 	"[Extreme2] Kill the TV Monster"
 	{
@@ -330,8 +323,7 @@
 	">> CLOUD LEAVING IN 10 SECONDS <<"
 	{
 		"chi"		"**云10秒后离开（注意旁边的跳口）**"
-		"DoorCountDown"		"10"
-		"ico"		"icon_tip"
+
 	}
 	">> ITS SATAN WITH THE ANGELS !!! <<"
 	{
@@ -352,8 +344,7 @@
 	">> RESCUE BUTTERFLY LEAVING IN 20 SECONDS <<"
 	{
 		"chi"		"**天使蝶20秒后离开**"
-		"DoorCountDown"		"20"
-		"ico"		"icon_tip"
+
 	}
 	"*** WHERE DID SATAN GO... ***"
 	{
@@ -366,8 +357,7 @@
 	">> SURVIVE 180 SECONDS IN THE SPAWN AND TV AREA <<"
 	{
 		"chi"		"**存活180秒**"
-		"DoorCountDown"		"180"
-		"ico"		"icon_tip"
+
 	}
 	">> LEVEL: ZM <<"
 	{
@@ -404,8 +394,7 @@
 	">> PORTAL CLOSING IN 10 SECONDS !!! <<"
 	{
 		"chi"		"**传送10秒后关闭**"
-		"DoorCountDown"		"10"
-		"ico"		"icon_tip"
+
 	}
 	">> DONT LET ZOMBIES GET IN !!! <<"
 	{
@@ -502,8 +491,7 @@
 	"*** FLY LEAVING IN 30 SECONDS ***"
 	{
 		"chi"		"**苍蝇将30秒后离开**"
-		"DoorCountDown"		"30"
-		"ico"		"icon_tip"
+
 	}
 	"[Extreme3] Save the Angels"
 	{
@@ -512,7 +500,7 @@
 	"*** GATE OPENING IN 30 SECONDS ***"
 	{
 		"chi"		"**大门30秒后打开**"
-		"DoorCountDown"		"30"
+
 	}
 	">> FALL BACK <<"
 	{
@@ -573,8 +561,7 @@
 	">> CLOUD LEAVING IN 40 SECONDS <<"
 	{
 		"chi"		"**云朵40秒后离开**"
-		"DoorCountDown"		"40"
-		"ico"		"icon_tip"
+
 	}
 	"410 Painting Found"
 	{

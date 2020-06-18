@@ -31,7 +31,7 @@
 	"***Door breaking in 20 seconds***"
 	{
 		"chi"		"**门20秒后开启 **"
-		"DoorCountDown"		"20"
+
 	}
 	"***5 seconds***"
 	{
@@ -40,12 +40,12 @@
 	"***Door breaking in 30 seconds***"
 	{
 		"chi"		"**门30秒后开启 **"
-		"DoorCountDown"		"30"
+
 	}
 	"***Paper aircraft comes in about 20 seconds***"
 	{
 		"chi"		"**纸飞机大概20秒后离开 **"
-		"DoorCountDown"		"20"
+
 	}
 	"***Paper aircraft leaves in 10 seconds***"
 	{
@@ -66,7 +66,7 @@
 	"***Door breaking in 25 seconds***"
 	{
 		"chi"		"**门25秒后开启 **"
-		"DoorCountDown"		"25"
+
 	}
 	"***AFK teleported in 10 seconds***"
 	{
@@ -75,7 +75,7 @@
 	"***Card leaves in 40 seconds***"
 	{
 		"chi"		"**卡片40秒后离开 **"
-		"DoorCountDown"		"40"
+
 	}
 	"***nuke in 10 seconds***"
 	{
@@ -120,7 +120,7 @@
 	"***Hold 20 seconds***"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
+
 	}
 	"***Low Gravity open***"
 	{
@@ -133,7 +133,7 @@
 	"***Hold 15 seconds***"
 	{
 		"chi"		"**守住15秒 **"
-		"DoorCountDown"		"15"
+
 	}
 	"***Normal Gravity in 5 seconds***"
 	{
@@ -162,7 +162,6 @@
 	"***Efreet used Camael:Slash. Crouch!!!***"
 	{
 		"chi"		"**炎魔使用了斜刀：躲避 **"
-		"ico"		"icon_fire"
 	}
 	"***Efreet used Elohim Gibor:healed 150HP***"
 	{
@@ -171,12 +170,11 @@
 	"***Efreet used fire***"
 	{
 		"chi"		"**炎魔使用了火 **"
-		"ico"		"icon_fire"
 	}
 	"***Hold 30 seconds***"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+
 	}
 	"***JUMP***"
 	{
@@ -189,12 +187,10 @@
 	"***Its dodge laser time***"
 	{
 		"chi"		"**躲避激光 **"
-		"ico"		"icon_fire"
 	}
 	"***Face the direction of the arrow***"
 	{
 		"chi"		"**走有箭头的地方 **"
-		"ico"		"icon_fire"
 	}
 	"***ITS COMING***"
 	{
@@ -207,7 +203,7 @@
 	"***Ball breaking in 20 seconds***"
 	{
 		"chi"		"**球20秒后破碎 **"
-		"DoorCountDown"		"20"
+
 	}
 	"***Blue is secure***"
 	{
@@ -224,7 +220,7 @@
 	"***The cola cans moving in 20 seconds***"
 	{
 		"chi"		"**可乐罐在20秒后移动 **"
-		"DoorCountDown"		"20"
+
 	}
 	"***Shooting the Krumi and the Noel***"
 	{
@@ -253,7 +249,7 @@
 	"***Teleporter activated in 30 seconds***"
 	{
 		"chi"		"**传送点30秒后激活 **"
-		"DoorCountDown"		"30"
+
 	}
 	"***Look! Its Tenshi***"
 	{
@@ -270,12 +266,10 @@
 	"***Tenshi used weather changed***"
 	{
 		"chi"		"**Tenshi使用了天气改变 **"
-		"ico"		"icon_fire"
 	}
 	"***Tenshi used shake***"
 	{
 		"chi"		"**Tenshi使用了震动 **"
-		"ico"		"icon_fire"
 	}
 	"***Red is secure***"
 	{
@@ -292,7 +286,6 @@
 	"***Efreet used Space earthquake***"
 	{
 		"chi"		"**炎魔使用了地震 **"
-		"ico"		"icon_fire"
 	}
 	"***[Admin]Level 3***"
 	{
@@ -317,12 +310,12 @@
 	"**Hold 15 seconds**"
 	{
 		"chi"		"**守住15秒 **"
-		"DoorCountDown"		"15"
+
 	}
 	"**Hold 30 seconds**"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+
 	}
 	"**5 seconds**"
 	{
@@ -331,12 +324,12 @@
 	"**Hold 35 seconds**"
 	{
 		"chi"		"**守住35秒 **"
-		"DoorCountDown"		"35"
+
 	}
 	"**Hold on 80 seconds**"
 	{
 		"chi"		"**守住80秒 **"
-		"DoorCountDown"		"80"
+
 	}
 	"**The elevator is rising**"
 	{
@@ -369,7 +362,7 @@
 	"**Hold 15 seconds until the lid of rubbish bin opening**"
 	{
 		"chi"		"**守住15秒.直到垃圾桶打开盖子 **"
-		"DoorCountDown"		"15"
+
 	}
 	"**Jump into the rubbish bin**"
 	{
@@ -378,22 +371,22 @@
 	"**HOLD 20 SECONDS**"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
+
 	}
 	"**Wait 30 seconds**"
 	{
 		"chi"		"**等待30秒 **"
-		"DoorCountDown"		"30"
+
 	}
 	"**WALL BREAKING IN 20 SECONDS**"
 	{
 		"chi"		"**墙壁20秒后破碎 **"
-		"DoorCountDown"		"20"
+
 	}
 	"**Hold 40 seconds**"
 	{
 		"chi"		"**守住40秒 **"
-		"DoorCountDown"		"40"
+
 	}
 	"**Go to the ClearRobot**"
 	{
@@ -414,12 +407,12 @@
 	"**Wait 15 seconds**"
 	{
 		"chi"		"**等待15秒 **"
-		"DoorCountDown"		"15"
+
 	}
 	"**Hold 25 seconds**"
 	{
 		"chi"		"**守住20秒 **"
-		"DoorCountDown"		"20"
+
 	}
 	"**Teleport activated**"
 	{
@@ -448,7 +441,7 @@
 	"**Hold 10 seconds**"
 	{
 		"chi"		"**守住10秒 **"
-		"DoorCountDown"		"10"
+
 	}
 	"**[Admin]STAGE 1**"
 	{
@@ -465,7 +458,7 @@
 	"**Nuke in 3 mins**"
 	{
 		"chi"		"**核弹3分钟后发射 **"
-		"DoorCountDown"		"180"
+
 	}
 	"**Nuke in 2 mins**"
 	{
@@ -482,7 +475,7 @@
 	"**Air leaves in 30 seconds**"
 	{
 		"chi"		"**纸飞机30秒后离开**"
-		"DoorCountDown"		"30"
+
 	}
 	"**[Admin]Stage 3**"
 	{
@@ -491,14 +484,6 @@
 	"**Im defeated.Its impossable**"
 	{
 		"chi"		"**我输了，这是不可能的**"
-	}
-	"**全人类の绯想�?**"
-	{
-		"chi"		"**全人类的绯想天，去站在四周的石头，技能结束后记得跳回来**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"46018"
 	}
 	"**[Admin]STAGE 2**"
 	{

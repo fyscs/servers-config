@@ -43,373 +43,6 @@
 	"***Hold for 80s!***"
 	{
 		"chi"		"**守住80秒 **"
-		"DoorCountDown"		"80"
-		"***30s left!***"
-		{
-			"chi"		"**还剩30秒 **"
-		}
-		"***5s left!***"
-		{
-			"chi"		"** **"
-		}
-		"***Zombies will come in 20s!***"
-		{
-			"chi"		"**僵尸20秒后开始活动 **"
-		}
-		"***Press the red button and enter the castle!***"
-		{
-			"chi"		"**按下红色按钮进入城堡！ **"
-		}
-		"***Wood door will open in 10s!***"
-		{
-			"chi"		"**木门将在10秒后打开 **"
-		}
-		"***Find and touch the froyo!***"
-		{
-			"chi"		"**发现并触摸酸奶！ **"
-		}
-		"***Hold for 75s!***"
-		{
-			"chi"		"**守住75秒 **"
-			"DoorCountDown"		"75"
-		}
-		"***All zombies will be teleported in 10s!***"
-		{
-			"chi"		"**所有僵尸10秒后传送 **"
-		}
-		"***Zombies will come in 15s!***"
-		{
-			"chi"		"**僵尸15秒后开始活动 **"
-		}
-		"***Plane 2 will move in 25s!***"
-		{
-			"chi"		"**2号飞机将在25秒后起飞 **"
-		}
-		"***Plane 1 will move in 25s!***"
-		{
-			"chi"		"**1号飞机将在25秒后起飞 **"
-		}
-		"***Hold here for 30s!***"
-		{
-			"chi"		"**守住30秒 **"
-			"DoorCountDown"		"30"
-		}
-		"***Wood box will break in 30s!***"
-		{
-			"chi"		"**木箱将在30秒后破碎！ **"
-			"DoorCountDown"		"30"
-		}
-		"***Wood box will break in 5s!***"
-		{
-			"chi"		"**木箱将在5秒后破碎！ **"
-		}
-		"***Bridge can pass through in 35s!***"
-		{
-			"chi"		"**桥将会在35秒后可以通过 **"
-			"DoorCountDown"		"35"
-		}
-		"***Bridge can pass through in 5s!***"
-		{
-			"chi"		"**桥将会在5秒后可以通过  **"
-		}
-		"***Hold for 30s!***"
-		{
-			"chi"		"**守住30秒 **"
-			"DoorCountDown"		"30"
-		}
-		"***Wood will break in 45s!***"
-		{
-			"chi"		"**木箱将在45秒后破碎！ **"
-			"DoorCountDown"		"45"
-		}
-		"***Teleport all zombies!***"
-		{
-			"chi"		"**传送所有僵尸 **"
-		}
-		"***Hold for last 60s!***"
-		{
-			"chi"		"**守住激光桥60秒 **"
-			"DoorCountDown"		"60"
-		}
-		"***30s left to win!***"
-		{
-			"chi"		"**30秒后人类胜利 **"
-		}
-		"***5!***"
-		{
-			"chi"		"** **"
-		}
-		"***4!***"
-		{
-			"chi"		"** **"
-		}
-		"***3!***"
-		{
-			"chi"		"** **"
-		}
-		"***2!***"
-		{
-			"chi"		"** **"
-		}
-		"***1!***"
-		{
-			"chi"		"** **"
-		}
-		"***Zombies!Feel froyos force!balabala...***"
-		{
-			"chi"		"**僵尸！感受酸奶的魔法吧！巴拉巴拉... **"
-		}
-		"***Congratulations!Travellers succeed!***"
-		{
-			"chi"		"**恭喜你！旅行成功！ **"
-		}
-		"***Generating froyo world in 3s!***"
-		{
-			"chi"		"**在3秒后生成酸奶的世界 **"
-		}
-		"***Generating froyo world in 2s!***"
-		{
-			"chi"		"**在2秒后生成酸奶的世界 **"
-		}
-		"***Generating froyo world in 1s!***"
-		{
-			"chi"		"**在1秒后生成酸奶的世界 **"
-		}
-		"***Laser***"
-		{
-			"chi"		"**激光 **"
-		}
-		"***Check travellers crystals......***"
-		{
-			"chi"		"**检测到人类晶体.... **"
-		}
-		"***Well,Travellers!Making good use of these crystals!***"
-		{
-			"chi"		"**好的，旅客！好好利用这些晶体！ **"
-		}
-		"***Check zombies crystals......***"
-		{
-			"chi"		"**检测到僵尸晶体.... **"
-		}
-		"***Sorry!Zombies have no crystal to use!***"
-		{
-			"chi"		"**对不起!僵尸没有晶体使用！ **"
-		}
-		"***A traveller has picked snowstorm crystal!***"
-		{
-			"chi"		"**一位旅行者选择了暴风雪晶体！ **"
-		}
-		"***A traveller has picked halo crystal!***"
-		{
-			"chi"		"**一位旅行者选择了眩晕晶体！ **"
-		}
-		"***A traveller has picked roar crystal!***"
-		{
-			"chi"		"**一位旅行者选择了咆哮水晶！ **"
-		}
-		"***Boss Star II***"
-		{
-			"chi"		"** **"
-		}
-		"***Sorry!You travellers have no crystal to use!Good luck!***"
-		{
-			"chi"		"**对不起！旅行者们并没有晶体使用！祝你好运！ **"
-		}
-		"***Plane 3 will move in 25s!***"
-		{
-			"chi"		"**3号飞机将在25秒后起飞 **"
-		}
-		"***Boss Star will appear in 40s!***"
-		{
-			"chi"		"**BOSS Star II将在40秒后出现 **"
-		}
-		"***You have 120s to fight Boss Star!***"
-		{
-			"chi"		"**你有120秒打败BOSS Star II **"
-			"DoorCountDown"		"120"
-		}
-		"***Hegrenade can give Boss Star more damage!***"
-		{
-			"chi"		"**手雷可以对BOSS造成更多伤害！ **"
-		}
-		"***You have 90s to fight Boss Star!***"
-		{
-			"chi"		"*你还剩90秒打败BOSS Star II**"
-		}
-		"***You have 60s to fight Boss Star!***"
-		{
-			"chi"		"**你还剩60秒打败BOSS Star II**"
-		}
-		"***You have 30s to fight Boss Star!***"
-		{
-			"chi"		"**你还剩30秒打败BOSS Star II**"
-		}
-		"***Boss Star will destroy all travellers in 5s!***"
-		{
-			"chi"		"**BOSS Star II将在5秒后释放终极 **"
-		}
-		"***Boss Star***"
-		{
-			"chi"		"** **"
-		}
-		"***A traveller has picked lightwall crystal!***"
-		{
-			"chi"		"**一位旅行者选择了光壁晶体！ **"
-		}
-		"***Well,Zombies!Get your crystals to infect travellers!***"
-		{
-			"chi"		"**好吧，僵尸！利用你的晶体去感染旅行者！ **"
-		}
-		"***A zombie has picked fear crystal!***"
-		{
-			"chi"		"**一个僵尸选择了恐惧水晶！ **"
-		}
-		"***A traveller has picked unknown crystal!***"
-		{
-			"chi"		"**一位旅行者选择了未知晶体 **"
-		}
-		"***A zombie has picked health crystal!***"
-		{
-			"chi"		"**一位僵尸选择了治愈晶体！ **"
-		}
-		"sync_version"
-		{
-			"syncvalue"		"45928"
-		}
-		"***Map Made By Color[酸奶]!***"
-		{
-			"chi"		"**地图制作：Color[酸奶] **"
-		}
-		"***Hold star for 60s!***"
-		{
-			"chi"		"**守住60秒 **"
-			"DoorCountDown"		"60"
-		}
-		"***The platform will move in 35s!***"
-		{
-			"chi"		"**这个平台将在35秒后移动 **"
-			"DoorCountDown"		"35"
-		}
-		"***Hold froyo for 30s!***"
-		{
-			"chi"		"**保护酸奶30秒 **"
-			"DoorCountDown"		"30"
-		}
-		"***Wait for 30s until the box breaks!***"
-		{
-			"chi"		"**守住30秒，直到箱子破碎！ **"
-			"DoorCountDown"		"30"
-		}
-		"***Hold for 35s!***"
-		{
-			"chi"		"**守住35秒 **"
-			"DoorCountDown"		"35"
-		}
-		"***Wait for 40s until the box breaks!***"
-		{
-			"chi"		"**守住40秒，直到箱子破碎！ **"
-			"DoorCountDown"		"40"
-		}
-		"***Press the button and activate teleportion!***"
-		{
-			"chi"		"**按下按钮！激活传送！ **"
-		}
-		"***Well!Teleportion will be active in 60s!***"
-		{
-			"chi"		"**好！传送将在60秒后启动 **"
-			"DoorCountDown"		"60"
-		}
-		"***Teleportion is active!Go ahead,travellers!***"
-		{
-			"chi"		"**传送启动了！去吧，旅行者 **"
-		}
-		"***Hard***"
-		{
-			"chi"		"**困难 **"
-		}
-		"***Need travellers complete last surf to activate the teleportion crystal within 120s!***"
-		{
-			"chi"		"**需要旅行者在120秒内完成滑翔启动传送 **"
-		}
-		"***Normal***"
-		{
-			"chi"		"**普通 **"
-		}
-		"***Hold for 60s!***"
-		{
-			"chi"		"**守住60秒 **"
-			"DoorCountDown"		"60"
-		}
-		"***Well!Boss Star was defeated!***"
-		{
-			"chi"		"**好！Boss Star被击败 **"
-		}
-		"***The star platform will rise in 4s!***"
-		{
-			"chi"		"**星之平台将在4秒后上升 **"
-		}
-		"***Boss Froyo***"
-		{
-			"chi"		"**BOSS酸奶 **"
-		}
-		"***Wait for 120s or complete last surf to activate the teleportion crystal!***"
-		{
-			"chi"		"**等待120秒或完成最后的滑翔激活传送 **"
-		}
-		"***A traveller has picked Boss Stars ultimate --- Wave!***"
-		{
-			"chi"		"**一位旅行者选择了BOSS Stars的终极-浪潮 **"
-		}
-		"***Zombies will come in 8s!"
-		{
-			"chi"		"**僵尸将在8秒后活动 **"
-		}
-		"***A traveller has picked shock ring!***"
-		{
-			"chi"		"**一位旅行者选择了shock ring！ **"
-		}
-		"***The boat will move in 75s!***"
-		{
-			"chi"		"**这个船将在75秒后离开 **"
-			"DoorCountDown"		"75"
-		}
-		"***The boat will move in 30s!***"
-		{
-			"chi"		"**这个船将在30秒后离开 **"
-		}
-		"***The teleportion crystal is active!***"
-		{
-			"chi"		"**传送晶体激活！ **"
-		}
-		"***Boss Froyo will appear in 30s!***"
-		{
-			"chi"		"**BOSS酸奶将在30秒后出现 **"
-		}
-		"***You have 90s to fight Boss Froyo!***"
-		{
-			"chi"		"**你有90秒的时间击败BOSS酸奶 **"
-			"DoorCountDown"		"90"
-		}
-		"***You have 60s to fight Boss Froyo!***"
-		{
-			"chi"		"**你有60秒的时间击败BOSS酸奶  **"
-		}
-		"***You have 30s to fight Boss Froyo!***"
-		{
-			"chi"		"**你有30秒的时间击败BOSS酸奶  **"
-		}
-		"***Boss Froyo will destroy all travellers in 5s!***"
-		{
-			"chi"		"**BOSS酸奶将在5秒后释放终极！ **"
-		}
-		"***Well!Boss Froyo has been defeated!***"
-		{
-			"chi"		"**好！BOSS酸奶被击败 **"
-		}
-		"***A traveller has picked Boss Froyos ultimate --- Blast!***"
-		{
-			"chi"		"**一位旅行者选择了BOSS酸奶的终极-爆炸 **"
-		}
 	}
 	"***Map Made By Color[酸奶]!***"
 	{
@@ -422,7 +55,7 @@
 	"***The platform will move in 35s!***"
 	{
 		"chi"		"**这个平台将在35秒后移动**"
-		"DoorCountDown"		"35"
+
 	}
 	"***Zombies will come in 20s!***"
 	{
@@ -431,12 +64,12 @@
 	"***Hold froyo for 30s!***"
 	{
 		"chi"		"**保护酸奶30秒**"
-		"DoorCountDown"		"30"
+
 	}
 	"***Hold for last 60s!***"
 	{
 		"chi"		"**守住激光桥60秒**"
-		"DoorCountDown"		"60"
+
 	}
 	"***30s left to win!***"
 	{
@@ -481,7 +114,7 @@
 	"***Hold star for 60s!***"
 	{
 		"chi"		"**守住60秒**"
-		"DoorCountDown"		"60"
+
 	}
 	"***Generating froyo world in 3s!***"
 	{
@@ -530,12 +163,12 @@
 	"***Hold here for 30s!***"
 	{
 		"chi"		"**守住30秒**"
-		"DoorCountDown"		"30"
+
 	}
 	"***Wood box will break in 30s!***"
 	{
 		"chi"		"**木箱30秒后破碎**"
-		"DoorCountDown"		"30"
+
 	}
 	"***Wood box will break in 5s!***"
 	{
@@ -544,7 +177,7 @@
 	"***Bridge can pass through in 35s!***"
 	{
 		"chi"		"**桥将会在35秒后放行**"
-		"DoorCountDown"		"40"
+
 	}
 	"***Bridge can pass through in 5s!***"
 	{
@@ -553,12 +186,12 @@
 	"***Hold for 30s!***"
 	{
 		"chi"		"**守住30秒**"
-		"DoorCountDown"		"30"
+
 	}
 	"***Wood will break in 45s!***"
 	{
 		"chi"		"**木箱将在45秒后破碎**"
-		"DoorCountDown"		"45"
+
 	}
 	"***Teleport all zombies!***"
 	{
@@ -567,7 +200,7 @@
 	"***Boss Star will appear in 40s!***"
 	{
 		"chi"		"**BOSS之星将在40秒后出现**"
-		"DoorCountDown"		"40"
+
 	}
 	"***You have 120s to fight Boss Star!***"
 	{
@@ -620,7 +253,7 @@
 	"***Hold for 75s!***"
 	{
 		"chi"		"**守住75秒**"
-		"DoorCountDown"		"75"
+
 	}
 	"***All zombies will be teleported in 10s!***"
 	{
@@ -637,7 +270,7 @@
 	"***The boat will move in 75s!***"
 	{
 		"chi"		"**这艘船75秒后离开**"
-		"DoorCountDown"		"75"
+
 	}
 	"***The boat will move in 30s!***"
 	{
@@ -718,10 +351,6 @@
 	"***Hold for 35s!***"
 	{
 		"chi"		"**顶住35秒**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"41463"
 	}
 	"***10s left to win!***"
 	{

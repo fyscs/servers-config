@@ -52,10 +52,6 @@
 	{
 		"chi"		"**宫殿电梯离开**"
 	}
-	"sync_version"
-	{
-		"syncvalue"		"13234"
-	}
 	"===[ MAP MADE BY LUFFAREN ]==="
 	{
 		"chi"		"**===[ 地图由Luffaren制作 披萨美食家:月饼]===**"
@@ -383,17 +379,6 @@
 	"***IT IS OGRE NOW BITCHES***"
 	{
 		"chi"		"**巨魔时间到了弟弟们**"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-		"1"
-		{
-			"cvar"		"sm_cvar sm_zr_repeat_kill 0"
-		}
 	}
 	"***A PIZZA POLE HAS BEEN PISSED ON***"
 	{

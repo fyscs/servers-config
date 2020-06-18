@@ -1,32 +1,5 @@
 "Console_T"
 {
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_lockroundtime 50"
-		}
-		"1"
-		{
-			"cvar"		"sm_he_limit 5"
-		}
-		"2"
-		{
-			"cvar"		"sm_smoke_limit 1"
-		}
-		"3"
-		{
-			"cvar"		"sm_molotov_limit 2"
-		}
-		"4"
-		{
-			"cvar"		"sm_smoke_limit 2"
-		}
-	}
-	"sync_version"
-	{
-		"syncvalue"		"68595"
-	}
 	"*** Door Opens in 20 seconds ***"
 	{
 		"chi"		"20秒后门开"

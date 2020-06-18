@@ -14,14 +14,17 @@
 	}
 	"Special Thanks to Moltard"
 	{
+		"blocked"   "1"
 		"chi"		" "
 	}
 	"Special Thanks to Qahnaarin"
 	{
+		"blocked"   "1"
 		"chi"		" "
 	}
 	"Special Thanks to Luffaren"
 	{
+		"blocked"   "1"
 		"chi"		" "
 	}
 	"Door Opens in 10 Seconds!"
@@ -190,6 +193,7 @@
 	}
 	">> Map by Taskuvaras <<"
 	{
+		"blocked"   "1"
 		"chi"		"** **"
 	}
 	"Now Fallback!"
@@ -288,7 +292,7 @@
 	{
 		"chi"		"电梯将在30秒后离开"
 	}
-	Elevator leaves in 10 Seconds"
+	"Elevator leaves in 10 Seconds"
 	{
 		"chi"		"电梯将在10秒后离开"
 	}

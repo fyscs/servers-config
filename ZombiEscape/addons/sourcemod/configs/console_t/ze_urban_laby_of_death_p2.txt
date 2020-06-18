@@ -15,7 +15,7 @@
 	"*** Flamethrower lasts about 16 secs and can be toggled. ***"
 	{
 		"chi"		"**喷火器只有16秒的时间!按E关闭!**"
-		"DoorCountDown"		"-1"
+
 	}
 	"**Elevator 1 Leaving in 60 seconds**"
 	{
@@ -24,7 +24,7 @@
 	"**Elevator 2 Leaving in 60 seconds**"
 	{
 		"chi"		"**NO.2号电梯60秒后升起!没有时间了!**"
-		"DoorCountDown"		"60"
+
 	}
 	"**Elevator 1 Leaving in 5 seconds**"
 	{
@@ -61,7 +61,7 @@
 	"*** Sprint has a cooldown of 90 secs. ***"
 	{
 		"chi"		"**冲刺的时间cd为90秒一次!!**"
-		"DoorCountDown"		"-1"
+
 	}
 	"**Plant the C4 on the missile launcher**"
 	{
@@ -82,7 +82,7 @@
 	"**Helicopter will leave in 60 seconds**"
 	{
 		"chi"		"**直升机还有60秒后飞走了!**"
-		"DoorCountDown"		"60"
+
 	}
 	"**Helicopter will leave in 30 seconds**"
 	{
@@ -99,7 +99,7 @@
 	"*** Ammo Box has a cooldown of 60 secs. ***"
 	{
 		"chi"		"**无限子弹的CD为60秒**"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** Push Gun has been picked up. ***"
 	{
@@ -108,7 +108,7 @@
 	"*** Push Gun has a cooldown of 20 secs. ***"
 	{
 		"chi"		"**推力枪的CD为20秒！尽情的推吧!**"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** Zombie Heal has been picked up. ***"
 	{
@@ -117,7 +117,7 @@
 	"*** Zombie Heal has a cooldown of 60 secs. ***"
 	{
 		"chi"		"**奶的CD为60秒一次**"
-		"DoorCountDown"		"-1"
+
 	}
 	"**Computer room will shut down in 60 seconds**"
 	{
@@ -146,7 +146,7 @@
 	"*** Mines can be used up to 6 times. ***"
 	{
 		"chi"		"**地雷可以使用6次！我觉得够用了!**"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** Freeze Ring has been picked up. ***"
 	{
@@ -155,7 +155,7 @@
 	"*** Freeze Ring has a cooldown of 60 secs. ***"
 	{
 		"chi"		"**冰冻陷阱 的CD为60秒**"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** NY MARATHON: GET READY TO RUN! ***"
 	{
@@ -168,7 +168,7 @@
 	"*** Zombie Sucker has a cooldown of 60 secs. ***"
 	{
 		"chi"		"**吸人器 的CD为60秒**"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** STEAMGAMERS.COM ***"
 	{

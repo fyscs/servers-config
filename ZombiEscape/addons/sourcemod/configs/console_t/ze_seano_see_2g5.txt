@@ -64,36 +64,9 @@
 	{
 		"chi"		"**玩家拾取了奶**"
 	}
-	"sync_version"
-	{
-		"syncvalue"		"32393"
-	}
 	"**Stage 2**"
 	{
 		"chi"		"**第二关**"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_g_cv_money 10000"
-		}
-		"1"
-		{
-			"cvar"		"sm_he_limit 4"
-		}
-		"2"
-		{
-			"cvar"		"sm_smoke_limit 3"
-		}
-		"3"
-		{
-			"cvar"		"sm_molotov_limit 2"
-		}
-		"4"
-		{
-			"cvar"		"sm_decoy_limit 1"
-		}
 	}
 	"**heal use!**"
 	{

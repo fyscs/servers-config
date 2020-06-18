@@ -23,7 +23,7 @@
 	"*** Train doors will open in 30 sec ***"
 	{
 		"chi"		"**列车车门将在30秒后打开 **"
-		"DoorCountDown"		"30"
+
 	}
 	"*** Train doors are Open ! ***"
 	{
@@ -36,7 +36,7 @@
 	"*** C4 Explode in 30 sec ***"
 	{
 		"chi"		"**C4将在30秒后爆炸 **"
-		"DoorCountDown"		"30"
+
 	}
 	"*** C4 Explode in 20 sec ***"
 	{
@@ -69,7 +69,7 @@
 	"*** The door will open for 30 sec ***"
 	{
 		"chi"		"**门将在30秒后打开 **"
-		"DoorCountDown"		"30"
+
 	}
 	"*** Doors are Open ***"
 	{

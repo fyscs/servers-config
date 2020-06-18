@@ -35,7 +35,7 @@
 	"** Cover 5 seconds **"
 	{
 		"chi"		"**掩护5秒 **"
-		"DoorCountDown"		"5"
+
 	}
 	"** SPIDERZOMBIE INCOMING **"
 	{
@@ -44,7 +44,7 @@
 	"** Cover 30 seconds **"
 	{
 		"chi"		"**掩护30秒 **"
-		"DoorCountDown"		"30"
+
 	}
 	"** Prison door will open in 5 seconds **"
 	{
@@ -53,17 +53,16 @@
 	"** GO LEFT **"
 	{
 		"chi"		"**向左走 **"
-		"ico"		"icon_fire"
 	}
 	"** Cover 25 seconds **"
 	{
 		"chi"		"**掩护25秒 **"
-		"DoorCountDown"		"25"
+
 	}
 	"** Cover 30 seconds until the gate opens **"
 	{
 		"chi"		"**掩护30秒直到大门打开 **"
-		"DoorCountDown"		"30"
+
 	}
 	"** Cover 5 more seconds **"
 	{
@@ -128,7 +127,7 @@
 	"** DOOR WILL OPEN IN 15 SECS **"
 	{
 		"chi"		"**大门将在15秒后打开 **"
-		"DoorCountDown"		"15"
+
 	}
 	"** DOOR WILL OPEN IN 5 SECS **"
 	{
@@ -137,7 +136,7 @@
 	"** HOLD THE SCHOOLGARDEN FOR 30 SECS BEFORE THE SCHOOLDOORS OPEN **"
 	{
 		"chi"		"**在学校大门打开之前守住学校花园30秒 **"
-		"DoorCountDown"		"30"
+
 	}
 	"** 5 more seconds **"
 	{
@@ -146,7 +145,7 @@
 	"** DEFEND 20 SECONDS **"
 	{
 		"chi"		"**保护20秒 **"
-		"DoorCountDown"		"20"
+
 	}
 	"** [STORY] Oh no! Its a trap! Slenderman betrayed us! **"
 	{
@@ -167,7 +166,7 @@
 	"** THE EXIT WILL OPEN IN 40 SECS **"
 	{
 		"chi"		"**出口大门将在40秒后打开 **"
-		"DoorCountDown"		"40"
+
 	}
 	"** SLENDERZOMBIE -FIRE- WOKE UP **"
 	{
@@ -184,7 +183,7 @@
 	"** CHOPPER WILL LEAVE IN 10 SECS !! **"
 	{
 		"chi"		"**直升机将在10秒后离开 **"
-		"DoorCountDown"		"10"
+
 	}
 	"** Congratulations - you won STAGE 2 **"
 	{
@@ -225,12 +224,12 @@
 	"** FUEL 20 % **"
 	{
 		"chi"		"**燃料 20 % **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** FUEL 40 % **"
 	{
 		"chi"		"**燃料 40 % **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** ENOUGH FUEL FOR POWERING THE FIRST GUARDDOG! **"
 	{
@@ -239,12 +238,12 @@
 	"** FUEL 60 % **"
 	{
 		"chi"		"**燃料 60 %**"
-		"DoorCountDown"		"-1"
+
 	}
 	"** FUEL 80 % **"
 	{
 		"chi"		"**燃料 80 % **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** ENOUGH FUEL FOR POWERING THE SECOND GUARDDOG! **"
 	{
@@ -261,7 +260,7 @@
 	"** FUEL 100 % **"
 	{
 		"chi"		"**燃料 100 % **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** THE GENERATOR HAS ENOUGH FUEL! **"
 	{
@@ -334,12 +333,11 @@
 	"** CLOSE THE VALVES FOR LOWERING THE WATER **"
 	{
 		"chi"		"**关闭水闸(左边两个，右边一个，管道一个) **"
-		"ico"		"icon_fire"
 	}
 	"** OK WE PLANTED THE BOMB - KEEP ZOMBIES AWAY FROM THE BOMB FOR 30 SECS **"
 	{
 		"chi"		"**我们埋好炸弹了，别让僵尸靠近炸弹30秒 **"
-		"DoorCountDown"		"30"
+
 	}
 	"** All drains have been closed - Water is lowering **"
 	{
@@ -360,7 +358,7 @@
 	"** 5 MORE SECONDS TILL WE OPENED SECOND GATE **"
 	{
 		"chi"		"**还有5秒直到我们打开第二个门 **"
-		"DoorCountDown"		"5"
+
 	}
 	"** GO GO GO **"
 	{
@@ -377,7 +375,7 @@
 	"** ELEVATOR IS LEAVING IN 10 SECONDS **"
 	{
 		"chi"		"**电梯10秒内上升 **"
-		"DoorCountDown"		"10"
+
 	}
 	"** ELEVATOR IS LEAVING IN 5 SECONDS **"
 	{
@@ -394,7 +392,7 @@
 	"** 5 MORE SECONDS! **"
 	{
 		"chi"		"**还有5秒 **"
-		"DoorCountDown"		"5"
+
 	}
 	"** YOU FINALLY FOUND ME **"
 	{
@@ -407,7 +405,6 @@
 	"** BOSS USES TELEPORTS NOW **"
 	{
 		"chi"		"**面条人现在使用传送(保持移动,不动就被爆菊) **"
-		"ico"		"icon_fire"
 	}
 	"** SLENDERMAN IS DEFEATED - ESCAPE THE MANSION!! **"
 	{
@@ -468,27 +465,27 @@
 	"** Pages 18 **"
 	{
 		"chi"		"**纸条1 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** Pages 28 **"
 	{
 		"chi"		"**纸条2 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** Pages 38 **"
 	{
 		"chi"		"**纸条3 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** Pages 48 **"
 	{
 		"chi"		"**纸条4 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** Pages 58 **"
 	{
 		"chi"		"**纸条5 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** [MODE] BARRELMODE **"
 	{
@@ -545,7 +542,7 @@
 	"** Pages 68 **"
 	{
 		"chi"		"**纸条6 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** [MAP] PRISON **"
 	{
@@ -626,12 +623,12 @@
 	"** Pages 78 **"
 	{
 		"chi"		"**纸条7 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** Pages 88 **"
 	{
 		"chi"		"**纸条8 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** All pages have been collected ... **"
 	{
@@ -652,10 +649,6 @@
 	"** [ADMIN] DIFFICULTY CHANGED TO SURVIVAL 1 **"
 	{
 		"chi"		"**[ADMIN]生存难度改为1**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"28078"
 	}
 	"** [STORY] Oh no! It's a trap! Slenderman betrayed us! **"
 	{

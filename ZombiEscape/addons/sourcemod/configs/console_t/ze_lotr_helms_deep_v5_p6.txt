@@ -11,7 +11,7 @@
 	"**Door will close in 30 s  ** Get safe into Helms Deep!**"
 	{
 		"chi"		"**城门将会在30秒后关闭！**"
-		"DoorCountDown"		"30"
+
 	}
 	"** The door is closing in 10s **"
 	{
@@ -72,7 +72,7 @@
 	"** Defend at fort! Hall door will open in 40s!**"
 	{
 		"chi"		"**守住这里！还有40秒木板才会碎裂**"
-		"DoorCountDown"		"40"
+
 	}
 	"**Hurry! get in the hall!**"
 	{

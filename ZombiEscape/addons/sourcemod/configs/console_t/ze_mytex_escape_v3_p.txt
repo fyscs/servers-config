@@ -31,7 +31,7 @@
 	"*Tram is leaving in 12 seconds!*"
 	{
 		"chi"		"** 电车12秒后离开！ **"
-		"DoorCountDown"		"12"
+
 	}
 	"*AFK teleport in 10 seconds!*"
 	{
@@ -40,7 +40,7 @@
 	"*Right Gate is opening in 15 seconds!*"
 	{
 		"chi"		"** 右闸门15秒后打开！ **"
-		"DoorCountDown"		"15"
+
 	}
 	"*Left Gate is opening in 15 seconds!*"
 	{
@@ -57,7 +57,7 @@
 	"*Bigdoor is opening in 30 seconds!*"
 	{
 		"chi"		"** 大门30秒后打开！ **"
-		"DoorCountDown"		"32"
+
 	}
 	"*Bigdoor is opening in 10 seconds!*"
 	{
@@ -78,7 +78,7 @@
 	"*Light in 30 seconds!*"
 	{
 		"chi"		"** 桥梁30秒后断裂！ **"
-		"DoorCountDown"		"30"
+
 	}
 	"*Light in 10 seconds!*"
 	{

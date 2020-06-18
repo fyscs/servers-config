@@ -139,7 +139,7 @@
 	"Map by FW -=LightningZLaser=-"
 	{
 		"chi"		"**地图制作:FW -=LightningZLaser=-	汉化:小三@风云社**"
-		"command"   "sm_cvar ze_maptext_maxcountdown 100"
+		"command"   "ze_maptext_maxcountdown 100"
 	}
 	"Doors opening in 10 seconds."
 	{

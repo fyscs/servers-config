@@ -31,7 +31,7 @@
 	"**Superior door opening in 30 seconds**"
 	{
 		"chi"		"**中央大门30S后打开**"
-		"DoorCountDown"		"30"
+
 	}
 	"** DOOR OPENS IN 5 s **"
 	{
@@ -60,7 +60,7 @@
 	"**Elevator is leaving in 10s**"
 	{
 		"chi"		"**电梯将在10S后离开**"
-		"DoorCountDown"		"10"
+
 	}
 	"** A player has adquired GRAVITY MATERIA **"
 	{
@@ -77,7 +77,7 @@
 	"** We have reached the core  ...**"
 	{
 		"chi"		"**我们到达了魔光炉**"
-		"DoorCountDown"		"-1"
+
 	}
 	"** ... Cloud is planting the bomb **"
 	{
@@ -186,7 +186,7 @@
 	"** EXPLOSION IN 120 SECONDS **"
 	{
 		"chi"		"**炸弹将在120秒后爆炸**"
-		"DoorCountDown"		"-1"
+
 	}
 	"**  10 SECONDS LEFT **"
 	{
@@ -239,7 +239,7 @@
 	"** 20 SECONDS LEFT **"
 	{
 		"chi"		"**还有20秒**"
-		"DoorCountDown"		"20"
+
 	}
 	"** 10 SECONDS LEFT **"
 	{
@@ -288,7 +288,7 @@
 	"** HUMAN VICTORY IN 4 MINUTES **"
 	{
 		"chi"		"**生存240秒**"
-		"DoorCountDown"		"240"
+
 	}
 	"** HUMAN VICTORY IN 3 MINUTES **"
 	{
@@ -317,7 +317,7 @@
 	"** BAHAMUT HAS HEALED 300 HIT POINTS**"
 	{
 		"chi"		"**巴哈姆特使用了治疗恢复300HP**"
-		"DoorCountDown"		"-1"
+
 	}
 	"** BAHAMUT HAS CAST FIRE! **"
 	{
@@ -330,7 +330,7 @@
 	"** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
 	{
 		"chi"		"**巴哈姆特将在7秒后消灭我们！赶快打败它**"
-		"DoorCountDown"		"-1"
+
 	}
 	"** BAHAMUT HAS CAST WIND **"
 	{
@@ -351,7 +351,7 @@
 	"** ULTIMA CAST WILL SUCCED IN 10 SECONDS **"
 	{
 		"chi"		"**终极将在10S后爆炸**"
-		"DoorCountDown"		"10"
+
 	}
 	"** 3 COWBELLS LEFT! **"
 	{
@@ -384,7 +384,7 @@
 	"** Side DOOR OPENS IN 10 s **"
 	{
 		"chi"		"**侧门10秒后打开**"
-		"DoorCountDown"		"10"
+
 	}
 	"**Bahamut has escaped ! ** Go Go! **"
 	{
@@ -397,7 +397,7 @@
 	"** Human Will Ignore Fall Damage In 30 Seconds **"
 	{
 		"chi"		"**人类将免疫30秒的摔落伤害**"
-		"DoorCountDown"		"30"
+
 	}
 	"** A player has adquired Mini HEAL MATERIA **"
 	{
@@ -422,7 +422,7 @@
 	"** Human Will Ignore Fall Damage In 12 Seconds! **"
 	{
 		"chi"		"**人类将免疫12秒的摔落伤害**"
-		"DoorCountDown"		"12"
+
 	}
 	"** CURRENT DIFFICULTY ** >> EXTREME III << **"
 	{
@@ -444,29 +444,6 @@
 	{
 		"chi"		"**难度：极限II特殊**"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"zr_infect_spawntime_min 30"
-		}
-		"1"
-		{
-			"cvar"		"zr_infect_spawntime_max 30"
-		}
-		"2"
-		{
-			"cvar"		"sm_zeusweapons_smoke 0"
-		}
-		"3"
-		{
-			"cvar"		"sm_zeusweapons_decoy 0"
-		}
-		"4"
-		{
-			"cvar"		"sm_molotov_limit 0"
-		}
-	}
 	"**No Fake Laser & High Laser Cant Crouchjump Over it**"
 	{
 		"chi"		"**本回合没有假刀.高刀不能大跳**"
@@ -478,7 +455,7 @@
 	"** BAHAMUT HAS HEALED 600 HIT POINTS**"
 	{
 		"chi"		"**巴哈姆特使用了治疗恢复600HP**"
-		"DoorCountDown"		"-1"
+
 	}
 	"** BAHAMUT IS DEFEATED ** KEEP RUNNING **"
 	{
@@ -495,7 +472,7 @@
 	"** Superior Door Is Locked **"
 	{
 		"chi"		"**大门锁住了！另寻出路**"
-		"DoorCountDown"		"13"
+
 	}
 	"** Side DOOR OPENS SOON **"
 	{

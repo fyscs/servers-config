@@ -107,7 +107,7 @@
 	"<!!!> FAN 1 SHUTDOWN - 30 SECONDS <!!!>"
 	{
 		"chi"		"**风扇1-30秒后关闭 **"
-		"DoorCountDown"		"30"
+
 	}
 	"<!!!> FAN 1 HAS SHUTDOWN <!!!>"
 	{
@@ -176,7 +176,7 @@
 	"<!!!> FAN 2 SHUTDOWN - 20 SECONDS <!!!>"
 	{
 		"chi"		"**风扇2-20秒后关闭 **"
-		"DoorCountDown"		"20"
+
 	}
 	"<!!!> HIGH DAMAGE ROUND <!!!>"
 	{
@@ -193,7 +193,7 @@
 	"<!!!> FAN 2 SHUTDOWN - 30 SECONDS <!!!>"
 	{
 		"chi"		"**风扇2-30秒后关闭 **"
-		"DoorCountDown"		"30"
+
 	}
 	"<!!!> CITY BUILDING COMPLETE <!!!>"
 	{

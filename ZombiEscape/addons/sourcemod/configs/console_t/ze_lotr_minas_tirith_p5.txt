@@ -91,7 +91,7 @@
 	"** RESIST 20 SECONDS! **"
 	{
 		"chi"		"** 守住23秒 **"
-		"DoorCountDown"		"23"
+
 	}
 	"** RETREAT !! RIVER ZONE IS LOST **"
 	{
@@ -116,7 +116,7 @@
 	"** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**"
 	{
 		"chi"		"** 保卫星辰堡垒！我们不能不战而退！守住30秒 **"
-		"DoorCountDown"		"30"
+
 	}
 	"** OSGILIATH IS LOST ** RETREAT ! **"
 	{
@@ -177,7 +177,6 @@
 	"** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **"
 	{
 		"chi"		"** 使用路障可提前锁上大门或者防守60秒！ **"
-		"ico"		"icon_fire"
 	}
 	"** DOOR 2 LOCKED **"
 	{
@@ -206,23 +205,20 @@
 	"** THE LIFT IS LEAVING IN 10 SECONDS **"
 	{
 		"chi"		"** 电梯10秒后离开 **"
-		"DoorCountDown"		"10"
-		"ico"		"icon_fire"
+
 	}
 	"** GATES ARE CLOSED ** SOMEONE MUST PRESS THE LEVER **"
 	{
 		"chi"		"** 大门是关上的 ** 必须有人触发开关 **"
-		"ico"		"icon_fire"
 	}
 	"** THE LEVER HAS BEEN PRESSED ** THE GATE IS OPENING IN 10 SECONDS ! **"
 	{
 		"chi"		"** 开关已触发 ** 大门在10秒后打开！ **"
-		"DoorCountDown"		"10"
+
 	}
 	"** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **"
 	{
 		"chi"		"** 使用投石车继续防守米纳斯城 **"
-		"ico"		"icon_fire"
 	}
 	"** Catapult 1 activated **"
 	{
@@ -235,7 +231,7 @@
 	"** NICE DONE! METAL GATE WILL OPEN IN 10 SECONDS! **"
 	{
 		"chi"		"** 好了！金属栅栏10秒后打开 **"
-		"DoorCountDown"		"10"
+
 	}
 	"** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *"
 	{
@@ -244,7 +240,7 @@
 	"** DEFEND THIS PLACE FOR 35 SECONDS **"
 	{
 		"chi"		"** 守住这里35秒 **"
-		"DoorCountDown"		"35"
+
 	}
 	"** WAIT FOR SOME SECONDS! OTHER SURVIVORS COULD COME **"
 	{
@@ -257,7 +253,7 @@
 	"** DEFEND THIS PLACE FOR 70 SECONDS! **"
 	{
 		"chi"		"** 守住这个地方70秒 **"
-		"DoorCountDown"		"70"
+
 	}
 	"** THE POSITION IS LOST ** RETREAT **"
 	{
@@ -306,23 +302,21 @@
 	"** THE CEILING HAS COLLAPSED ** CLIMB THE BROKEN WALL! **"
 	{
 		"chi"		"** 天花板塌了 ** 爬上断墙 **"
-		"ico"		"icon_fire"
 	}
 	"** WE ARE NEAR THE TOP OF MINAS TIRITH  ** HOLD THIS PLACE FOR 30 SECONDS **"
 	{
 		"chi"		"** 我们目前在米纳斯的顶部附近 ** 守住这里30秒 **"
-		"DoorCountDown"		"30"
+
 	}
 	"** LIFT IS LEAVING IN 10 SECONDS **"
 	{
 		"chi"		"** 升降梯10秒后离开 **"
-		"DoorCountDown"		"10"
+
 	}
 	"** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **"
 	{
 		"chi"		"** 幽灵军队来了！准备最后的防守！ **"
-		"DoorCountDown"		"150"
-		"ico"		"icon_fire"
+
 	}
 	"** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **"
 	{
@@ -354,7 +348,7 @@
 	}
 	"** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 4**"
 	{
-		"chi"		"** 所有僵尸的神器都已解锁，但是没有4级 **"
+		"chi"		"** 所有僵尸的神器都已解锁，但是没有四级 **"
 	}
 	"** CONSTANT METEOR HAS BEEN ENABLED **"
 	{
@@ -415,7 +409,7 @@
 	"** RESIST 25 SECONDS! **"
 	{
 		"chi"		"** 守住25秒 **"
-		"DoorCountDown"		"25"
+
 	}
 	"** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS **"
 	{
@@ -432,25 +426,6 @@
 	"** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS **"
 	{
 		"chi"		"** 热身回合 ** 还有60秒 **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_molotov_limit 0"
-		}
-		"1"
-		{
-			"cvar"		"sm_armor_limit 3"
-		}
-		"2"
-		{
-			"cvar"		"zr_ztele_max_zombie 10"
-		}
-		"3"
-		{
-			"cvar"		"zr_ztele_max_human 0"
-		}
 	}
 	"** MAP BY Hannibal [SPA] (Rafuron)  Map modified by Rulucy **"
 	{

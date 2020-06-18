@@ -15,7 +15,7 @@
 	"** jian chi 30 miao , hen kuai jiu kai men le **"
 	{
 		"chi"		"**坚持30秒.门很快就会打开 ！开枪守住!**"
-		"DoorCountdown"		"30"
+
 	}
 	"** jiang shi dao bei jian qi le **"
 	{
@@ -32,7 +32,7 @@
 	"** hai you yi dao men ,15 miao hou zha kai ta **"
 	{
 		"chi"		"**还有一道门.15秒后炸开它!在这之前守住这里! **"
-		"DoorCountdown"		"15"
+
 	}
 	"** qiang bei na qi le **"
 	{
@@ -65,7 +65,7 @@
 	"** 25 miao hou da kai shi yan shi da men **"
 	{
 		"chi"		"**25秒后打开实验室大门!守住这里! **"
-		"DoorCountdown"		"25"
+
 	}
 	">> feng bei na qi le <<"
 	{
@@ -78,7 +78,7 @@
 	"** zhe tie men 15 miao hou jiu hui kai **"
 	{
 		"chi"		"**这铁门15秒后就会开!守住这里! **"
-		"DoorCountdown"		"15"
+
 	}
 	"** ok lets gogogogogo **"
 	{
@@ -87,12 +87,12 @@
 	"** dian ti ji huo le ,shou zhu 15 miao **"
 	{
 		"chi"		"**电梯已被激活.守住15秒 加油!奥利给**"
-		"DoorCountdown"		"15"
+
 	}
 	"** wo men hui zai 60 miao hou zha diao zhe dui shi tou **"
 	{
 		"chi"		"**我们会在60秒后炸掉这堆石头 ！守住这里!**"
-		"DoorCountdown"		"60"
+
 	}
 	"** jiang shi du bei na qi le **"
 	{
@@ -113,7 +113,7 @@
 	"** fei ji 30 miao hou li kai !!! **"
 	{
 		"chi"		"**飞机30秒后离开!防守! **"
-		"DoorCountdown"		"30"
+
 	}
 	"** jiang shi jia su bei na qi le **"
 	{
@@ -146,7 +146,7 @@
 	"** you shui ! 30 miao hou kai fang shui lu **"
 	{
 		"chi"		"**有水！30秒后开放水路!坚守阵地! **"
-		"DoorCountdown"		"30"
+
 	}
 	"** shui lu kai le , kuai pao **"
 	{
@@ -155,7 +155,7 @@
 	"** dian ti jiang zai 60 miao hou li kai **"
 	{
 		"chi"		"**电梯将在60秒后离开 ！防守电梯!**"
-		"DoorCountdown"		"60"
+
 	}
 	"** zui hou 10 miao **"
 	{
@@ -164,7 +164,7 @@
 	"** dao yu 60 miao hou he bao ! **"
 	{
 		"chi"		"**岛屿60秒后核爆!boom! **"
-		"DoorCountdown"		"60"
+
 	}
 	"** kuai pao dao chuan shang **"
 	{
@@ -221,7 +221,7 @@
 	"** dian ti jiang zai 45 miao hou li kai **"
 	{
 		"chi"		"**电梯将在45秒后离开!守住电梯! **"
-		"DoorCountdown"		"45"
+
 	}
 	"** ADMIN : kun nan nan du **"
 	{
@@ -307,14 +307,10 @@
 	{
 		"chi"		"**你完成了普通难度 **"
 	}
-	"sync_version"
-	{
-		"syncvalue"		"95249"
-	}
 	"** wo men xu yao 30 miao de shi jian lai bu shu zha yao**"
 	{
 		"chi"		"**我们需要30秒的时间来部署炸药**"
-		"DoorCountdown"		"30"
+
 	}
 	"** fang zi de chu kou you ge mu men , zha diao ta  **"
 	{
@@ -355,7 +351,7 @@
 	"** dian ti xu yao 45 miao de shi jian lai ji huo , jian chi zhu **"
 	{
 		"chi"		"**电梯需要45秒的时间来激活，坚持住**"
-		"DoorCountdown"		"45"
+
 	}
 	"** si ren dan yao ku yi bei na qi **"
 	{

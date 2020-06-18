@@ -12,10 +12,6 @@
 	{
 		"chi"		">>>大门将在30秒后开启!开枪啊!兄弟萌!<<<"
 	}
-	"sync_version"
-	{
-		"syncvalue"		"4914"
-	}
 	"<<< Zombies teleport in 40 seconds! >>>"
 	{
 		"chi"		">>>僵尸将在40秒后进行传送!<<<"
@@ -211,29 +207,6 @@
 	"<<< Zombies teleport in 15 seconds! >>>"
 	{
 		"chi"		"** **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_nofalldamage 1"
-		}
-		"1"
-		{
-			"cvar"		"sm_Cvar sm_molotov_limit 2"
-		}
-		"2"
-		{
-			"cvar"		"sm_Cvar sm_he_limit 4"
-		}
-		"3"
-		{
-			"cvar"		"sm_smoke_limit 2"
-		}
-		"4"
-		{
-			"cvar"		"sm_g_cv_money 10000"
-		}
 	}
 	"<<< Zombies reached the end. Humans lose! >>>"
 	{

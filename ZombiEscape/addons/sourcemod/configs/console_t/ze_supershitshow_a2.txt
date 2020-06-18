@@ -116,17 +116,6 @@
 	{
 		"chi"		"**路上非常安全!**"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_lockroundtime 15"
-		}
-		"1"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-	}
 	"** 2 **"
 	{
 		"chi"		"** **"
@@ -694,10 +683,6 @@
 	"** Whatever is left cannot be much! Clear it all! **"
 	{
 		"chi"		"**剩下的不多！全部清除！快跑！**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"11936"
 	}
 	"** MODE: PROVERBIAL SON **"
 	{

@@ -27,7 +27,7 @@
 	"***Mausoleum wall will  fall in 50secs.***"
 	{
 		"chi"		"**教堂墙壁50秒后倒塌 **"
-		"DoorCountDown"		"50"
+
 	}
 	"***Mausoleum wall will  fall in 5secs.***"
 	{
@@ -36,12 +36,12 @@
 	"***Tomb doors closing in 40secs.***"
 	{
 		"chi"		"**墓室大门40秒后关闭 **"
-		"DoorCountDown"		"40"
+
 	}
 	"***Waking Up. Door opening in 60secs.***"
 	{
 		"chi"		"**大门60秒后打开 **"
-		"DoorCountDown"		"60"
+
 	}
 	"***Waking Up. Door opening in 30secs.***"
 	{

@@ -111,7 +111,6 @@
 	"<--Input '!fish number' in the chat window,which number can be 3-10-->"
 	{
 		"chi"		">>>按Y输入!fish number 数字的范围是3-10<<<"
-		"!fish"		"number\"
 	}
 	"<--This will decide the number of lasers-->"
 	{
@@ -272,4 +271,5 @@
     "<--Trip 3-->"
 	{
 		"chi"		">>><旅途三：离别><<<"
+	}
 }

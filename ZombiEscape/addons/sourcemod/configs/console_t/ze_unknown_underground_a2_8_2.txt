@@ -7,7 +7,7 @@
 	"*** 20 SECONDS LEFT ***"
 	{
 		"chi"		"**还有20秒!我们在坚持一下!**"
-		"DoorCountDown"		"20"
+
 	}
 	"*** 5 SECONDS LEFT ***"
 	{
@@ -16,17 +16,17 @@
 	"*** 15 seconds left ***"
 	{
 		"chi"		"**还剩15秒!守住! **"
-		"DoorCountDown"		"15"
+
 	}
 	"*** 25 seconds left ***"
 	{
 		"chi"		"**还剩25秒!**"
-		"DoorCountDown"		"25"
+
 	}
 	"*** 30 seconds left ***"
 	{
 		"chi"		"**还剩30秒!继续开枪!！打僵尸拉!!**"
-		"DoorCountDown"		"30"
+
 	}
 	"*** Hold here ***"
 	{
@@ -40,10 +40,6 @@
 	{
 		"chi"		"**还剩10秒 加油加油!拿出你们的力量!**"
 	}
-	"sync_version"
-	{
-		"syncvalue"		"83808"
-	}
 	"*** LEVEL2 ***"
 	{
 		"chi"		"**第二关!**"
@@ -51,12 +47,12 @@
 	"*** 40 seconds left ***"
 	{
 		"chi"		"**还剩40秒!这个时间真长!坚守阵地!**"
-		"DoorCountDown"		"40"
+
 	}
 	"*** 45 seconds left ***"
 	{
 		"chi"		"**还剩45秒!开枪击退僵尸!**"
-		"DoorCountDown"		"45"
+
 	}
 	"*** TEST ***"
 	{

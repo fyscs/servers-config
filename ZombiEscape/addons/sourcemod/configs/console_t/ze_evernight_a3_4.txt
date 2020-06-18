@@ -164,69 +164,6 @@
 	{
 		"chi"		"**这就是核心...等等**"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_nofalldamage 1"
-		}
-		"1"
-		{
-			"cvar"		"sm_he_limit 5"
-		}
-		"2"
-		{
-			"cvar"		"sm_smoke_limit 2"
-		}
-		"3"
-		{
-			"cvar"		"sm_armor_limit 20"
-		}
-		"4"
-		{
-			"cvar"		"sm_armor_limit 1"
-		}
-		"5"
-		{
-			"cvar"		"hook_boss_enable 1"
-		}
-		"6"
-		{
-			"cvar"		"sm_molotov_limit 2"
-		}
-		"7"
-		{
-			"cvar"		"zr_infect_mzombie_ratio 7.5"
-		}
-		"8"
-		{
-			"cvar"		"sm_tagging_penalty 35"
-		}
-		"9"
-		{
-			"cvar"		"sm_tagging_time 2"
-		}
-		"10"
-		{
-			"cvar"		"sm_tagging_time 1.5"
-		}
-		"11"
-		{
-			"cvar"		"sm_tagging_penalty 25"
-		}
-		"12"
-		{
-			"cvar"		"mp_timelimit 45"
-		}
-		"13"
-		{
-			"cvar"		"sm_armor_limit 3"
-		}
-		"14"
-		{
-			"cvar"		"sm_cvar sm_nofalldamage 1"
-		}
-	}
 	"**After three day of tracking Basil**"
 	{
 		"chi"		"**在追踪了巴吉尔三天之后**"
@@ -598,10 +535,6 @@
 	"!leader to use leader"
 	{
 		"chi"		"**按Y输入!ld上指挥哟**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"65536"
 	}
 	"**ze_evernight**"
 	{

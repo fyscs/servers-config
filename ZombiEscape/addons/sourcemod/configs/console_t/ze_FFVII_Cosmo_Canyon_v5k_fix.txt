@@ -3,7 +3,7 @@
 	"**Defend here for 25 seconds until the gates open**"
 	{
 		"chi"		"**守住25秒直到大门打开**"
-		"DoorCountDown"		"25"
+
 	}
 	"**Gates are open. Welcome to Cosmo Canyon**"
 	{
@@ -20,7 +20,7 @@
 	"**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**"
 	{
 		"chi"		"**守住酒吧25秒**"
-		"DoorCountDown"		"25"
+
 	}
 	"**5 SECONDS LEFT**"
 	{
@@ -37,12 +37,12 @@
 	"**THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS**"
 	{
 		"chi"		"**守住25秒让我们用炸药引爆岩石**"
-		"DoorCountDown"		"25"
+
 	}
 	"**THE GATES WILL OPEN IN 25 SECONDS**"
 	{
 		"chi"		"**大门将在25秒后打开**"
-		"DoorCountDown"		"25"
+
 	}
 	"**A player has picked up WIND materia**"
 	{
@@ -208,7 +208,7 @@
 	"**Gi Nattak has healed 150 hp**"
 	{
 		"chi"		"**吉纳塔克释放了治愈回复了150HP**"
-		"DoorCountDown"		"-1"
+
 	}
 	"**Gi Nattak is using aspil**"
 	{
@@ -554,7 +554,7 @@
 	{
 		"chi"		"**创意：Shizuru 模型：uuz**"
 	}
-	"[Red-XIII] Hope he will not escape this time� I afraid that we could attract extra attention.."
+	"[Red-XIII] Hope he will not escape this time I afraid that we could attract extra attention.."
 	{
 		"chi"		"[赤红十三]希望这次不要放过他.我怕会引起更多注意"
 	}

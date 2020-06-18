@@ -15,22 +15,22 @@
 	"*** WELL DONE! DOOR OPENS IN 20 SECONDS ***"
 	{
 		"chi"		"**大门20秒后开启**"
-		"DoorCountDown"		"20"
+
 	}
 	"*** DOORS OPEN IN 20 SECONDS ***"
 	{
 		"chi"		"**大门20秒后开启 **"
-		"DoorCountDown"		"20"
+
 	}
 	"*** DOOR OPENS IN 40 SECONDS ***"
 	{
 		"chi"		"**大门40秒后开启 **"
-		"DoorCountDown"		"40"
+
 	}
 	"*** Door opens in 25 seconds ***"
 	{
 		"chi"		"**大门25秒后开启**"
-		"DoorCountDown"		"25"
+
 	}
 	"*** IT LOOKS LIKE THE LEVER HAS FROZEN SOLID ***"
 	{
@@ -43,7 +43,7 @@
 	"*** WE HAVE TO HOLD OUT 1 MINUTE UNTIL IT THAWS. ***"
 	{
 		"chi"		"**守住60秒直到冰块融化**"
-		"DoorCountDown"		"60"
+
 	}
 	"*** IT SHOULD BE THAWED OUT BY NOW. LETS GO! ***"
 	{
@@ -60,32 +60,26 @@
 	"*** RESIST UNTIL SOMETHING HAPPENS ***"
 	{
 		"chi"		"**守住这里**"
-		"ico"		"icon_fire"
 	}
 	"*** BLANKET FREEZE ***"
 	{
 		"chi"		"**寒冰笼罩**"
-		"ico"		"icon_fire"
 	}
 	"*** CRYSTALLIZE ***"
 	{
 		"chi"		"**冰晶**"
-		"ico"		"icon_fire"
 	}
 	"*** ICY WIND ***"
 	{
 		"chi"		"**暴风雪**"
-		"ico"		"icon_fire"
 	}
 	"*** FROSTY BEAM ***"
 	{
 		"chi"		"**霜冻光线**"
-		"ico"		"icon_fire"
 	}
 	"*** CRYSTAL RAIN ***"
 	{
 		"chi"		"**冰晶坠**"
-		"ico"		"icon_fire"
 	}
 	"*** WHAT WAS THAT THING? ***"
 	{
@@ -102,7 +96,7 @@
 	"*** NUKE IN 1 MINUTE AND 30 SECONDS ***"
 	{
 		"chi"		"**核弹90秒后启动**"
-		"DoorCountDown"		"90"
+
 	}
 	"*** ZOMBIES MUST NOT ESCAPE THE TEMPLE! ***"
 	{
@@ -143,9 +137,5 @@
 	"*** YOU WIN! ***"
 	{
 		"chi"		"**你胜利了！ **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"64734"
 	}
 }

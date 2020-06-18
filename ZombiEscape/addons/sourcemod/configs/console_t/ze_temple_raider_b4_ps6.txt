@@ -39,7 +39,7 @@
 	"Hold 25 sec"
 	{
 		"chi"		"**防守25秒**"
-		"DoorCountDown"		"25"
+
 	}
 	"** HEALTH KIT ACQUIRED - 50s cooldown **"
 	{
@@ -48,7 +48,7 @@
 	"Hold 15 sec"
 	{
 		"chi"		"** **"
-		"DoorCountDown"		"15"
+
 	}
 	"** Health Kit Ready!!! **"
 	{
@@ -97,7 +97,7 @@
 	"Hold 32 sec"
 	{
 		"chi"		"**防守32秒**"
-		"DoorCountDown"		"32"
+
 	}
 	"** WE FOUND THE TREASURE ROOM! **"
 	{
@@ -110,7 +110,7 @@
 	"Hold 17 sec"
 	{
 		"chi"		"**防守17秒**"
-		"DoorCountDown"		"17"
+
 	}
 	"** END OF THE LINE - HOLD THE TOP **"
 	{
@@ -183,10 +183,6 @@
 	"KABOOOM"
 	{
 		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"4006"
 	}
 	"** DOOR OPENS IN 5 SECONDS **"
 	{

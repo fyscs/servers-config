@@ -11,7 +11,7 @@
 	"*** ze_ffxiv_wanderers_palace ***"
 	{
 		"chi"		"**最终幻想十四：浪子神殿 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** Level:Normal ***"
 	{
@@ -24,7 +24,7 @@
 	"*** 15 seconds to activate Nymian device ***"
 	{
 		"chi"		"**尼敏装置已触发守住15秒 **"
-		"DoorCountDown"		"0"
+
 	}
 	"*** 5 SECONDS ***"
 	{
@@ -33,7 +33,7 @@
 	"*** 30 seconds to Activate Nymian device ***"
 	{
 		"chi"		"**尼敏装置已触发守住30秒 **"
-		"DoorCountDown"		"0"
+
 	}
 	"*** 15 seconds to Enkidu Battle and AFK Teleport ***"
 	{
@@ -54,7 +54,7 @@
 	"*** 25 seconds to Activate Nymian device ***"
 	{
 		"chi"		"**尼敏装置已触发守住25秒 **"
-		"DoorCountDown"		"0"
+
 	}
 	"*** 10 seconds  ***"
 	{
@@ -66,28 +66,28 @@
 	}
 	"*** Nymian device 1 activated ***"
 	{
-		"chi"		"**1号尼敏装置已触发 **"
-		"DoorCountDown"		"-1"
+		"chi"		"**一号尼敏装置已触发 **"
+
 	}
 	"*** Nymian device 2 activated ***"
 	{
-		"chi"		"**2号尼敏装置已触发 **"
-		"DoorCountDown"		"-1"
+		"chi"		"**二号尼敏装置已触发 **"
+
 	}
 	"*** Nymian device 3 activated ***"
 	{
-		"chi"		"**3号尼敏装置已触发 **"
-		"DoorCountDown"		"-1"
+		"chi"		"**三号尼敏装置已触发 **"
+
 	}
 	"*** Nymian device 4 activated ***"
 	{
-		"chi"		"**4号尼敏装置已触发 **"
-		"DoorCountDown"		"-1"
+		"chi"		"**四号尼敏装置已触发 **"
+
 	}
 	"*** ALL Nymian device Activated ***"
 	{
 		"chi"		"**所有的尼敏装置已触发 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** 5 seconds to Activate Nymian device ***"
 	{
@@ -112,7 +112,7 @@
 	"***Recast 60s***"
 	{
 		"chi"		"**CD：60秒 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"***A player picked up Black Mage Flare***"
 	{
@@ -121,7 +121,7 @@
 	"***Recast 55s***"
 	{
 		"chi"		"**CD：55秒 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** 15 seconds to leave Tonberrys ***"
 	{
@@ -130,12 +130,12 @@
 	"*** 20 seconds to activate Nymian device ***"
 	{
 		"chi"		"**尼敏装置已触发守住20秒**"
-		"DoorCountDown"		"0"
+
 	}
 	"*** 30 seconds to Open Road ***"
 	{
 		"chi"		"**30秒后道路可通**"
-		"DoorCountDown"		"0"
+
 	}
 	"***A player picked up Mount Night Mare***"
 	{
@@ -144,12 +144,12 @@
 	"***Recast 50s***"
 	{
 		"chi"		"**CD：50秒 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** 30 seconds to Activate Nymian device  ***"
 	{
 		"chi"		"**尼敏装置已触发守住30秒**"
-		"DoorCountDown"		"0"
+
 	}
 	"*** 10 seconds   ***"
 	{
@@ -170,22 +170,22 @@
 	"*** Land Slide ***"
 	{
 		"chi"		"**山崩地裂**"
-		"DoorCountDown"		"4"
+
 	}
 	"*** Heavens Fall ***"
 	{
 		"chi"		"**天堂陨落**"
-		"DoorCountDown"		"4"
+
 	}
 	"*** Cauterize***"
 	{
 		"chi"		"**毁灭冲击**"
-		"DoorCountDown"		"5"
+
 	}
 	"*** Flare ***"
 	{
 		"chi"		"**火**"
-		"DoorCountDown"		"5"
+
 	}
 	"*** Behemoth King dead ***"
 	{
@@ -242,7 +242,7 @@
 	"*** 45 seconds to Break Rocks ***"
 	{
 		"chi"		"**墙体45秒后碎开.接着跳进管道 **"
-		"DoorCountDown"		"45"
+
 	}
 	"***A player picked up Limit Break***"
 	{
@@ -291,17 +291,17 @@
 	"***Recast 90s***"
 	{
 		"chi"		"**CD:90秒**"
-		"DoorCountDown"		"-1"
+
 	}
 	"***A player picked up Paladin Shield Oath"
 	{
 		"chi"		"**一位玩家获得了盾**"
-		"DoorCountDown"		"-1"
+
 	}
 	"***Recast 80s***"
 	{
 		"chi"		"**CD：80秒 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"***A player picked up White Mage Benediction***"
 	{
@@ -310,7 +310,7 @@
 	"*** Recast 150s ***"
 	{
 		"chi"		"**CD：150秒 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"***Flare***"
 	{
@@ -335,12 +335,12 @@
 	"*** 15 seconds to activate Elevator ***"
 	{
 		"chi"		"**电梯15秒后上升**"
-		"DoorCountDown"		"0"
+
 	}
 	"*** 30 seconds to Open Wall ***"
 	{
 		"chi"		"**墙壁30秒后碎开**"
-		"DoorCountDown"		"0"
+
 	}
 	"*** Dont Touch Water ***"
 	{
@@ -389,17 +389,17 @@
 	"*** Recast 95s ***"
 	{
 		"chi"		"**CD：95秒**"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** 30 seconds to Break Fence ***"
 	{
 		"chi"		"**铁网30秒后破碎**"
-		"DoorCountDown"		"30"
+
 	}
 	"*** Hold 20 seconds ***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountDown"		"20"
+
 	}
 	"***Location: The Ragnarok ***"
 	{
@@ -408,7 +408,7 @@
 	"*** Defend 45 seconds ***"
 	{
 		"chi"		"**防守45秒**"
-		"DoorCountDown"		"45"
+
 	}
 	"*** ADS ATTACK ***"
 	{
@@ -457,7 +457,7 @@
 	"*** 45 seconds to Open Wall ***"
 	{
 		"chi"		"**墙壁45秒后破碎 **"
-		"DoorCountDown"		"45"
+
 	}
 	"*** Odin Appeared ***"
 	{
@@ -486,7 +486,7 @@
 	"*** ze_ffxiv_wanderers_palace...? ***"
 	{
 		"chi"		"**最终幻想十四：浪子神殿 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** Level:Ultimate ***"
 	{

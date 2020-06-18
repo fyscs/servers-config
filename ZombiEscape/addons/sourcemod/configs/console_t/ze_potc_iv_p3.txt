@@ -35,7 +35,7 @@
 	">> DEFEND FOR 30 SEC<<"
 	{
 		"chi"		"**守住30秒 **"
-		"DoorCountDown"		"30"
+
 	}
 	">>  TELEPORTING everyone to jungle<<"
 	{
@@ -64,12 +64,11 @@
 	">> TAKE CHALICES TO FOUNTAIN OF YOUTH <<"
 	{
 		"chi"		"**用酒杯装青春之泉 **"
-		"ico"		"icon_fire"
 	}
 	">> SURVIVE FOR 60 SEC<<"
 	{
 		"chi"		"**存活60秒 **"
-		"DoorCountDown"		"60"
+
 	}
 	">>  TELEPORTING everyone to fountain of youth<<"
 	{
@@ -106,15 +105,11 @@
 	">> DEFEND FOR 60 SEC<<"
 	{
 		"chi"		"**守住60秒 **"
-		"DoorCountDown"		"60"
+
 	}
 	">>LEVEL: EXTREME<<"
 	{
 		"chi"		"**难度：极限 **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"16392"
 	}
 	">>  5 MORE SECONDS <<"
 	{

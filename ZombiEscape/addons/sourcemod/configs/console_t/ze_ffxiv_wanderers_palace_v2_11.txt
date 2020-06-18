@@ -23,7 +23,7 @@
 	"***20 seconds to Activate Nymian Device***"
 	{
 		"chi"		"**20秒后激活尼敏装置**"
-		"DoorCountDown"		"20"
+
 	}
 	"*** 5 seconds***"
 	{
@@ -36,12 +36,12 @@
 	"***10 seconds to Activate Nymian Device***"
 	{
 		"chi"		"**10秒后激活尼敏装置**"
-		"DoorCountDown"		"10"
+
 	}
 	"***Wait for 20 seconds ***"
 	{
 		"chi"		"**坚守20秒**"
-		"DoorCountDown"		"20"
+
 	}
 	"***Door opened***"
 	{
@@ -50,7 +50,7 @@
 	"***Door close 10 seconds***"
 	{
 		"chi"		"**门10秒后关闭**"
-		"DoorCountDown"		"10"
+
 	}
 	"***Enkidu appered***"
 	{
@@ -75,37 +75,33 @@
 	"***15 seconds to Active Nymian Device***"
 	{
 		"chi"		"**15秒后激活尼敏装置**"
-		"DoorCountDown"		"15"
+
 	}
 	"***Look for RED,YELLOW,GREEN Nymian Devices***"
 	{
 		"chi"		"**找到并激活红色、黄色、绿色的尼敏装置**"
-		"ico"		"icon_fire"
 	}
 	"***Activated GREEN Nymian Device***"
 	{
 		"chi"		"**绿色尼敏装置已激活**"
-		"ico"		"icon_fire"
 	}
 	"***Activated YELLOW Nymian Device***"
 	{
 		"chi"		"**黄色尼敏装置已激活**"
-		"ico"		"icon_fire"
 	}
 	"***Activated RED Nymian Device***"
 	{
 		"chi"		"**红色尼敏装置已激活**"
-		"ico"		"icon_fire"
 	}
 	"***10 seconds to Active Nymian Device***"
 	{
 		"chi"		"**10秒后激活尼敏装置**"
-		"DoorCountDown"		"10"
+
 	}
 	"***20 seconds to Activate Escape Elevator***"
 	{
 		"chi"		"**20秒后启动电梯**"
-		"DoorCountDown"		"20"
+
 	}
 	"***Congratulations***"
 	{
@@ -126,22 +122,22 @@
 	"***Wait for 20 seconds***"
 	{
 		"chi"		"**坚守20秒**"
-		"DoorCountDown"		"20"
+
 	}
 	"***Wait for 30 seconds"
 	{
 		"chi"		"**坚守30秒**"
-		"DoorCountDown"		"30"
+
 	}
 	"***35 seconds to Activate Nymian Device***"
 	{
 		"chi"		"**35秒后激活尼敏装置**"
-		"DoorCountDown"		"35"
+
 	}
 	"***Hold this position 35 seconds***"
 	{
 		"chi"		"**坚守35秒**"
-		"DoorCountDown"		"35"
+
 	}
 	"***Teleporter Activate***"
 	{
@@ -174,22 +170,19 @@
 	"*** Cauterize***"
 	{
 		"chi"		"**毁灭冲击**"
-		"ico"		"icon_fire"
 	}
 	"*** Electro***"
 	{
 		"chi"		"**电流**"
-		"ico"		"icon_fire"
 	}
 	"***ADS died***"
 	{
 		"chi"		"**ADS已去世**"
-		"ico"		"icon_fire"
 	}
 	"***45 seconds to MAP CLEAR***"
 	{
 		"chi"		"**坚守45秒你就能通关了**"
-		"DoorCountDown"		"45"
+
 	}
 	"***Human Killer ON***"
 	{
@@ -210,7 +203,6 @@
 	"*** Heavens Fall***"
 	{
 		"chi"		"**天堂陨落**"
-		"ico"		"icon_fire"
 	}
 	"***10seconds to Mega Flare***"
 	{
@@ -255,7 +247,7 @@
 	"***Recast 60s***"
 	{
 		"chi"		"**CD：60秒**"
-		"DoorCountDown"		"-1"
+
 	}
 	"***A player picked up Black Mage Flare***"
 	{
@@ -264,7 +256,7 @@
 	"***Recast 45s***"
 	{
 		"chi"		"**CD：45秒**"
-		"DoorCountDown"		"-1"
+
 	}
 	"***A player picked up Paladin Shild Oath"
 	{
@@ -273,12 +265,12 @@
 	"***Recast 70s***"
 	{
 		"chi"		"**CD：70秒**"
-		"DoorCountDown"		"-1"
+
 	}
 	"***Wait for 30 seconds***"
 	{
 		"chi"		"**坚守30秒**"
-		"DoorCountDown"		"30"
+
 	}
 	"***A player picked up Bird Armys Paeon***"
 	{
@@ -287,7 +279,7 @@
 	"***Recast 90s***"
 	{
 		"chi"		"**CD：90秒**"
-		"DoorCountDown"		"-1"
+
 	}
 	"***A player picked up Mount Night Mare***"
 	{
@@ -300,22 +292,21 @@
 	"***30 seconds to Active Nymian Device***"
 	{
 		"chi"		"**30秒后激活尼敏装置**"
-		"DoorCountDown"		"30"
+
 	}
 	"***Hold this position 20 seconds***"
 	{
 		"chi"		"**坚守这个位置20秒**"
-		"DoorCountDown"		"20"
+
 	}
 	"***Hold this position 60 seconds***"
 	{
 		"chi"		"**坚守这个位置60秒**"
-		"DoorCountDown"		"60"
+
 	}
 	"***Heavens Fall***"
 	{
 		"chi"		"**天堂陨落**"
-		"ico"		"icon_fire"
 	}
 	"***Go to the Escape Elevator Tower***"
 	{
@@ -324,12 +315,12 @@
 	"***20 seconds to Active Nymian Device***"
 	{
 		"chi"		"**20秒后激活尼敏装置**"
-		"DoorCountDown"		"20"
+
 	}
 	"***30 seconds to Activate Escape Elevator***"
 	{
 		"chi"		"**电梯30秒后上升**"
-		"DoorCountDown"		"30"
+
 	}
 	"***Ravana Used Stop***"
 	{
@@ -346,32 +337,32 @@
 	"***Hold this position 40 seconds***"
 	{
 		"chi"		"**坚守40秒**"
-		"DoorCountDown"		"40"
+
 	}
 	"***20 seconds to Activate Elevator"
 	{
 		"chi"		"**电梯20秒后启动**"
-		"DoorCountDown"		"20"
+
 	}
 	"***30 seconds to Activate Elevator***"
 	{
 		"chi"		"**电梯30秒后启动**"
-		"DoorCountDown"		"30"
+
 	}
 	"***30 seconds to Break Wall***"
 	{
 		"chi"		"**30秒后墙体碎开**"
-		"DoorCountDown"		"30"
+
 	}
 	"***40 seconds to Activate Telepoter"
 	{
 		"chi"		"**传送器40秒后激活**"
-		"DoorCountDown"		"40"
+
 	}
 	"***A player picked up White Mage Benediction***"
 	{
 		"chi"		"**一位玩家拾取了奶 —— CD：90秒**"
-		"DoorCountDown"		"-1"
+
 	}
 	"***Bahamut Prime appeared***"
 	{
@@ -384,8 +375,7 @@
 	"***Akh Morn***"
 	{
 		"chi"		"**超星撕裂**"
-		"ico"		"icon_fire"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** 3 ***"
 	{
@@ -402,17 +392,14 @@
 	"***Flare***"
 	{
 		"chi"		"**烈焰**"
-		"ico"		"icon_fire"
 	}
 	"***Tempest Wing***"
 	{
 		"chi"		"**狂风之翼**"
-		"ico"		"icon_fire"
 	}
 	"***Bahamut Prime died***"
 	{
 		"chi"		"**巴哈姆特已去世**"
-		"ico"		"icon_fire"
 	}
 	"***Go to the Escape Elevator***"
 	{
@@ -425,7 +412,7 @@
 	"***Hold this position to 15 seconds***"
 	{
 		"chi"		"**防守15秒**"
-		"DoorCountDown"		"15"
+
 	}
 	"***Jump!***"
 	{
@@ -434,7 +421,7 @@
 	"***The Wanderers Palace Clear to 20 seconds***"
 	{
 		"chi"		"**浪子神殿将在20秒后毁灭**"
-		"DoorCountDown"		"20"
+
 	}
 	"***The Wanderers Palace CLEAR***"
 	{
@@ -443,17 +430,14 @@
 	"***ADS Attack***"
 	{
 		"chi"		"**ADS来袭**"
-		"ico"		"icon_fire"
 	}
 	"***shoot ADS and Zombies***"
 	{
 		"chi"		"**射击ADS**"
-		"ico"		"icon_fire"
 	}
 	"***Earth Shaker***"
 	{
 		"chi"		"**巨石冲击**"
-		"ico"		"icon_fire"
 	}
 	"***10 seconds***"
 	{
@@ -462,7 +446,7 @@
 	"***Recast 55s***"
 	{
 		"chi"		"**CD：55秒**"
-		"DoorCountDown"		"-1"
+
 	}
 	"***A player picked up Paladin Shield Oath"
 	{
@@ -471,7 +455,7 @@
 	"***Recast 80s***"
 	{
 		"chi"		"**CD：80秒**"
-		"DoorCountDown"		"-1"
+
 	}
 	"***Level:Savage set***"
 	{
@@ -480,7 +464,7 @@
 	"***Hold this position to 30 seconds***"
 	{
 		"chi"		"**坚守30秒**"
-		"DoorCountDown"		"30"
+
 	}
 	"***Laser***"
 	{
@@ -537,7 +521,7 @@
 	"***Hold this position to 70 seconds***"
 	{
 		"chi"		"**坚守这个位置70秒**"
-		"DoorCountDown"		"70"
+
 	}
 	"***SECRET CLEAR ALLMODE COMPLETE***"
 	{

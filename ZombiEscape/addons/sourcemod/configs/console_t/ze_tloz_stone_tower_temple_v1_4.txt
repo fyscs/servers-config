@@ -15,7 +15,7 @@
 	"*** Resist 30 seconds ! ***"
 	{
 		"chi"		"**守住30秒！**"
-		"DoorCountdown"		"30"
+
 	}
 	"***BUTTON PRESSED***"
 	{
@@ -24,7 +24,7 @@
 	"*** Wall Opens in 30 seconds! ***"
 	{
 		"chi"		"**墙壁30秒后移动！坚守阵地!**"
-		"DoorCountdown"		"30"
+
 	}
 	"*** Wall Opening ***"
 	{
@@ -45,7 +45,7 @@
 	"*** Hold 40 seconds ! ***"
 	{
 		"chi"		"**坚守40秒！shift!买道具!撑住！**"
-		"DoorCountdown"		"40"
+
 	}
 	"---Feedback:noojeff@gmail.com---"
 	{
@@ -66,7 +66,7 @@
 	"*** Entrance Door will close in 1 minutes ! ***"
 	{
 		"chi"		"**入口将在一分钟之后打开！守住这里!不要让僵尸过来!**"
-		"DoorCountdown"		"60"
+
 	}
 	"!!! KILL ALL ZOMBIES !!!"
 	{

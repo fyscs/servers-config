@@ -7,7 +7,7 @@
 	"*** Hold Off Zombies for 20 seconds ***"
 	{
 		"chi"		"**防守僵尸20秒**"
-		"DoorCountDown"		"20"
+
 	}
 	"*** Gate Open!!! ***"
 	{
@@ -24,7 +24,7 @@
 	"*** Safe zone exits will open in 60 seconds ***"
 	{
 		"chi"		"**安全区通往塔的道路将在60秒后开启**"
-		"DoorCountDown"		"60"
+
 	}
 	"*** All those in the Lobby will be banished to the pit in 30 seconds! ***"
 	{
@@ -89,10 +89,6 @@
 	"The server is about to close the update ,Please update your game"
 	{
 		"chi"		"** **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"21553"
 	}
 	"*** Beware of Bowser's Fire Breath! ***"
 	{

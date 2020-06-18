@@ -16,7 +16,6 @@
 	{
 		"chi"		"储藏室的门5秒后打开"
 	}
-	"DoorCountDown"		"5"
 	">>>INCOMING WORMHOLE. CLOSE THE IRIS!<<<"
 	{
 		"chi"		"虫洞警告！关上虹膜！"
@@ -29,7 +28,6 @@
 	{
 		"chi"		"门将在10秒后开启"
 	}
-	"DoorCountDown"		"10"
 	">>>PRESS THE BUTTON<<<"
 	{
 		"chi"		"尽快触发按钮！"
@@ -50,7 +48,6 @@
 	{
 		"chi"		"5秒后电梯将离开"
 	}
-	"DoorCountDown"		"5"
 	">>>ZOMBIES: GO UP THE ELEVATOR SHAFT<<<"
 	{
 		"chi"		"僵尸:上电梯轴！"
@@ -103,7 +100,6 @@
 	{
 		"chi"		"C4已放置，坚守阵地10秒！"
 	}
-	"DoorCountDown"		"10"
 	">>>TEAM FALL BACK<<<"
 	{
 		"chi"		"全小队迅速撤离！"
@@ -124,7 +120,6 @@
 	{
 		"chi"		"30秒后开启大门"
 	}
-	"DoorCountDown"		"30"
 	">>>DOOR OPEN!<<<"
 	{
 		"chi"		"门开了！"

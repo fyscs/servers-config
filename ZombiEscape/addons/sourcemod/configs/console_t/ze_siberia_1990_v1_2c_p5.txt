@@ -3,7 +3,7 @@
 	"Warping all players to Siberia in 15 seconds."
 	{
 		"chi"		"**15秒后我们将进入西伯利亚**"
-		"DoorCountDown"		"15"
+
 	}
 	"Objective. Find and destroy the source of the outbreak."
 	{
@@ -12,7 +12,7 @@
 	"Overriding security breach 30 seconds"
 	{
 		"chi"		"**大门在30秒后打开**"
-		"DoorCountDown"		"30"
+
 	}
 	"Proximity mine obtained!"
 	{
@@ -33,7 +33,7 @@
 	"Dam door closing in 10 seconds"
 	{
 		"chi"		"**水库大门将在10秒后关闭**"
-		"DoorCountDown"		"10"
+
 	}
 	"Zombie spawns are advancing in 20 seconds"
 	{
@@ -42,7 +42,7 @@
 	"Reducing steam pressure 10 seconds"
 	{
 		"chi"		"**缓解压力!持续10秒！ **"
-		"DoorCountDown"		"10"
+
 	}
 	"Steam pressure at 66%"
 	{
@@ -63,7 +63,7 @@
 	"Dam door opening in 20 seconds"
 	{
 		"chi"		"**水库门将在20秒后开启!**"
-		"DoorCountDown"		"20"
+
 	}
 	"Dam door closing in 5 seconds"
 	{
@@ -80,7 +80,7 @@
 	"Door opening in 20 seconds"
 	{
 		"chi"		"**20秒后开启大门**"
-		"DoorCountDown"		"20"
+
 	}
 	"Door opening in 10 seconds"
 	{
@@ -97,12 +97,12 @@
 	"Door opening in 30 seconds"
 	{
 		"chi"		"**门需要30秒开启**"
-		"DoorCountDown"		"30"
+
 	}
 	"Arming C4 in 30 seconds"
 	{
 		"chi"		"**安装C4 预计30秒（守住就是胜利）**"
-		"DoorCountDown"		"30"
+
 	}
 	"C4 armed in 10 seconds"
 	{
@@ -123,7 +123,7 @@
 	"Elevator doors opening in 20 seconds"
 	{
 		"chi"		"**电梯将在20秒后开启!**"
-		"DoorCountDown"		"20"
+
 	}
 	"Elevator doors closing in 10 seconds"
 	{
@@ -132,7 +132,7 @@
 	"Time portal will open in 50 seconds"
 	{
 		"chi"		"**传送门 将在50秒 后启动!（坚持住，支援马上就到）**"
-		"DoorCountDown"		"50"
+
 	}
 	"Zombie spawn advancing in 10 seconds"
 	{
@@ -149,7 +149,7 @@
 	"30 seconds"
 	{
 		"chi"		"**30秒**"
-		"DoorCountDown"		"30"
+
 	}
 	"10 seconds"
 	{

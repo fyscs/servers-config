@@ -11,7 +11,7 @@
 	"### HUMAN WILL BE TELEPORT IN 20 SECONDS ###"
 	{
 		"chi"		"**人类20秒后传送**"
-		"DoorCountdown"		"20"
+
 	}
 	"### 10 SECONDS ###"
 	{
@@ -20,7 +20,7 @@
 	"### HIDE AND HOLD FOR 1:15 MINUTE ###"
 	{
 		"chi"		"**在这里守住75秒**"
-		"DoorCountdown"		"75"
+
 	}
 	"### THE GREEN LIGHT ZONES ARE THE MOST SAFEST PLACE ###"
 	{
@@ -29,7 +29,6 @@
 	"### ZOMBIES WILL BE TELEPORT IN 30 SECONDS ###"
 	{
 		"chi"		"**僵尸30秒后传送**"
-		"DoorCountdown"		"-1"
 	}
 	"### 5 SECONDS ###"
 	{
@@ -42,7 +41,7 @@
 	"### 30 SECONDS ###"
 	{
 		"chi"		"**30秒**"
-		"DoorCountdown"		"30"
+
 	}
 	"### TELEPORT IS COMING IN 5 SECONDS ###"
 	{
@@ -59,7 +58,7 @@
 	"### WARNING *** TOWER IS GONNA EXPLODE IN 30 SECONDS ###"
 	{
 		"chi"		"**警告!塔30秒后炸毁**"
-		"DoorCountdown"		"30"
+
 	}
 	"### HOLD HERE AND DEFEND 2 SIDES ###"
 	{
@@ -68,7 +67,7 @@
 	"### FOR 50 SECONDS ###"
 	{
 		"chi"		"**50秒**"
-		"DoorCountdown"		"50"
+
 	}
 	"### ZOMIES HAVE BEEN ARRIVED ###"
 	{
@@ -117,7 +116,7 @@
 	"### HOLD FOR 40 SECONDS ###"
 	{
 		"chi"		"**防守40秒 **"
-		"DoorCountdown"		"40"
+
 	}
 	"### CROSS THE BRIDGE IN 20 SECONDS ###"
 	{
@@ -154,7 +153,7 @@
 	"### SINNER IS COMING IN 10 SECONDS ###"
 	{
 		"chi"		"**罪恶之徒10秒后出现**"
-		"DoorCountdown"		"10"
+
 	}
 	"### DONT CROSS THE RED LINE THERE IS NOT A HOLY AREA ###"
 	{
@@ -195,7 +194,7 @@
 	"### HOLD THIS LAST PLACE FOR 1 MINUTE ###"
 	{
 		"chi"		"**防守60秒 **"
-		"DoorCountdown"		"60"
+
 	}
 	"### SLIPKNOT - CUSTER IS NOW PLAYING ###"
 	{
@@ -504,7 +503,6 @@
 	"### YOU ALL HAVE 2 MINUTES BEFORE ###"
 	{
 		"chi"		"**你们还有120秒 **"
-		"DoorCountdown"		"-1"
 	}
 	"### NARAKA BECOMES IMMORTAL AND RELEASES THE ZOMBIES ###"
 	{
@@ -517,17 +515,15 @@
 	"### ALL ZOMBIES AND HUMANS IN BOSS AREA ###"
 	{
 		"chi"		"**所有僵尸和人类都在BOSS区域 **"
-		"DoorCountdown"		"-1"
 	}
 	"### WILL BE TELEPORTED TO THE FINAL DESTINATION ###"
 	{
 		"chi"		"**将被传送到最终目的地 **"
-		"DoorCountdown"		"-1"
 	}
 	"### IN 15 SECONDS ###"
 	{
 		"chi"		"**15秒后传送挂机玩家**"
-		"DoorCountdown"		"15"
+
 	}
 	"### LEFT BUTTON HAS BEEN PRESSED ###"
 	{
@@ -576,10 +572,6 @@
 	"### BRIDGE BREAKS IN 50 SECONDS ###"
 	{
 		"chi"		"**桥将在50秒后断裂 **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"52408"
 	}
 	"### WAIT HERE TO RACE AGAINST ZOMBIES IN 10 SECONDS ###"
 	{
@@ -676,7 +668,7 @@
 	"### DOOR BREAKS IN 30 SECONDS ###"
 	{
 		"chi"		"**大门30S后打开**"
-		"DoorCountdown"		"30"
+
 	}
 	"### FALL BACK NOW TELEPORT THE REST IN 10 SECONDS ###"
 	{

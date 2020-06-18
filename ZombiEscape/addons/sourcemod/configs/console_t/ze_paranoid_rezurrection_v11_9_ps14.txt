@@ -55,7 +55,7 @@
 	"**DOORS OPENING IN 30 SECONDS**"
 	{
 		"chi"		"**门30秒后打开 **"
-		"DoorCountDown"		"30"
+
 	}
 	"** A CT reached the second labyrinth wall **"
 	{
@@ -92,12 +92,12 @@
 	"**Resist 35 s!**"
 	{
 		"chi"		"**抵御35秒 **"
-		"DoorCountDown"		"35"
+
 	}
 	"**Final barrier WILL BREAK IN 4 SECONDS**"
 	{
 		"chi"		"**最后一个障碍4秒后破碎 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"**Run! Reach the core!**"
 	{
@@ -154,7 +154,7 @@
 	"** NUKE in 60 seconds **"
 	{
 		"chi"		"**核弹：60秒 **"
-		"DoorCountDown"		"60"
+
 	}
 	"** NUKE IN 40 SECONDS **"
 	{
@@ -203,7 +203,7 @@
 	"**Global trigger activated: slippery ground in 5s**"
 	{
 		"chi"		"**全体属性触发：滑冰模式5秒后开始 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** ZOMBIE BOSS! 1 zombie faster and stronger than ever  **"
 	{
@@ -212,7 +212,7 @@
 	"**HUMAN OWNAGE IN 20S** HUMANS MUST REACH THE CORE NOW!!!**"
 	{
 		"chi"		"**人类20秒后胜利** 人类必须去到核心!**"
-		"DoorCountDown"		"-1"
+
 	}
 	"** TRIGGER MADNESS! Random triggers every 10 seconds! **"
 	{
@@ -221,37 +221,37 @@
 	"**Team trigger activated: untouchable ct in 5s (15s)**"
 	{
 		"chi"		"**团队属性触发：5秒后人类与人类不可触碰（15秒） **"
-		"DoorCountDown"		"-1"
+
 	}
 	"**Team trigger activated: fast CT in 5 s**"
 	{
 		"chi"		"**团队属性触发：5秒后人类加速 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"**Team trigger activated: slow T in 5 s**"
 	{
 		"chi"		"**团队属性触发：5秒后僵尸减速 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"**Team trigger activated: untouchable zombies in 5s (7s)**"
 	{
 		"chi"		"**团队属性触发：5秒后僵尸无敌 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"**Global trigger activated: absolute darkness in 5s **"
 	{
 		"chi"		"**全体属性触发：5秒后陷入绝对黑暗 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"**Team trigger activated: global push to zombies in 5 s**"
 	{
 		"chi"		"**团队属性触发：5秒后推动所有僵尸 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"**Global trigger activated: everyone will be teleported to a room int 8s**"
 	{
 		"chi"		"**全体属性触发：所有人在8秒后都会被传送到一个房间 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"**Global trigger activated: low gravity for humans**"
 	{
@@ -260,12 +260,12 @@
 	"**Team trigger activated: fast T in 5 s**"
 	{
 		"chi"		"**团队属性触发：5秒后僵尸速度加快 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** 2 SPAWNS! More humans per square meter... and more zombies!  **"
 	{
 		"chi"		"**两个重生点！每平方米更多的人类...和更多僵尸 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** Playable area set to MEDIUM **"
 	{
@@ -294,7 +294,7 @@
 	"** ... 8 TREX!! Prepare your weapons! **"
 	{
 		"chi"		"**8个霸王龙！！准备好你的武器！ **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** And the human weapons will be  ..."
 	{
@@ -323,7 +323,7 @@
 	"** ... 8 BALROGS!!! You are dead **"
 	{
 		"chi"		"**8个炎魔！！！你死定了 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** LADDER! Maybe the worst item right now! **"
 	{
@@ -332,7 +332,7 @@
 	"** ... 8 Scary zombies! Your hands will be trembling all round! **"
 	{
 		"chi"		"**8个恐怖僵尸！你的双手在颤抖！ **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** SINGULARITY GUN! Fuck you gravity! **"
 	{
@@ -341,7 +341,7 @@
 	"** COLISEUM CARNAGE! This is not going to be easy! Survive 2 minutes! **"
 	{
 		"chi"		"**竞技场大屠杀！这不是一件容易的事！存活2分钟！ **"
-		"DoorCountDown"		"-1"
+
 	}
 	"**Singularity cannon has been picked up**"
 	{
@@ -374,7 +374,7 @@
 	"** BUTTONS WILL UNLOCK IN 65 SECONDS **"
 	{
 		"chi"		"**65秒后按钮将会被解锁 **"
-		"DoorCountDown"		"65"
+
 	}
 	"** BUTTONS WILL UNLOCK IN 25 SECONDS **"
 	{
@@ -443,7 +443,7 @@
 	"** TELEPORT WILL BE ACTIVATED IN 25 SECONDS **"
 	{
 		"chi"		"**25秒后激活传送 **"
-		"DoorCountDown"		"25"
+
 	}
 	"** Unlimited ammo weapon picked! **"
 	{
@@ -456,7 +456,7 @@
 	"**Team trigger activated: zombies health is now 50000**"
 	{
 		"chi"		"**团队属性触发：僵尸50000血 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"**Slower weapon has been picked**"
 	{
@@ -497,7 +497,7 @@
 	"**Resist 35 seconds!**"
 	{
 		"chi"		"**抵御35秒 **"
-		"DoorCountDown"		"35"
+
 	}
 	"** RUN **"
 	{
@@ -506,7 +506,7 @@
 	"**Hold 20 seconds!**"
 	{
 		"chi"		"**抵御20秒 **"
-		"DoorCountDown"		"20"
+
 	}
 	"**This is your last stand! Defend! The teleporter is getting ready!**"
 	{
@@ -547,7 +547,7 @@
 	"**Global trigger activated: absolute blind in 5 s**"
 	{
 		"chi"		"**全体属性触发：5秒后全体失明 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** Finish mode ** Kill all zombies without help!**"
 	{
@@ -580,12 +580,12 @@
 	"** ... 8 Vortigaunts! And no! they are not friendly! **"
 	{
 		"chi"		"**8个弗地岗人！他们并不友好！ **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** THUNDER GUN! I would like to have 8 thunder guns in Black Ops! **"
 	{
 		"chi"		"**旋风枪！我想要8个风枪一起行动！ **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** Vortigaunt has been picked up**"
 	{
@@ -598,7 +598,7 @@
 	"** ... 8 Barnacles zombies! Barnacles are funny! **"
 	{
 		"chi"		"**8个藤壶僵尸！藤壶非常有趣！ **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** EARENDIL LIGHT! Work in team! And you will win easy **"
 	{
@@ -611,7 +611,7 @@
 	"** ... 8 Zombie Dogs! **"
 	{
 		"chi"		"**8个僵尸狗！ **"
-		"DoorCountDown"		"-1"
+
 	}
 	"**Pyramid Head is looking for you ... **"
 	{
@@ -640,7 +640,7 @@
 	"** Metal door will open in 20 seconds! **"
 	{
 		"chi"		"**金属大门20秒后打开 **"
-		"DoorCountDown"		"20"
+
 	}
 	"** Holy grenade has been picked**"
 	{
@@ -653,7 +653,7 @@
 	"** ... 8 huge Crabs! **"
 	{
 		"chi"		"**8个巨大的螃蟹 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"**BUILDER! Time to build a fortress! **"
 	{
@@ -670,7 +670,7 @@
 	"** ... 8 Stoppers! well... thats easy! **"
 	{
 		"chi"		"**8个僵尸冰！好...这很简单！ **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** MINIGUN! Counter Terrorist Win! **"
 	{
@@ -703,7 +703,7 @@
 	"** Portal will open in 30 seconds! **"
 	{
 		"chi"		"**门30秒后打开 **"
-		"DoorCountDown"		"30"
+
 	}
 	"** PORTAL IS READY! GO IN! **"
 	{
@@ -724,7 +724,7 @@
 	"** ... 8 TITANS! incoming rape! **"
 	{
 		"chi"		"**8个泰坦 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** HEAL WEAPON! Useful ... sometimes **"
 	{
@@ -741,7 +741,7 @@
 	"** ... 8 Jumpers! Be careful! It is harder than it sounds! **"
 	{
 		"chi"		"**8只高跳僵尸！小心！它听起来比较难！ **"
-		"DoorCountDown"		"-1"
+
 	}
 	"**UNLIMITED AMMO! It looks kinda easy! **"
 	{
@@ -818,12 +818,12 @@
 	"** ... 8 Pyramid Head! Bullets dont do nothing agains them! **"
 	{
 		"chi"		"**8个三角头！子弹对他们没有伤害和击退！ **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** ... 8 Summoners! Zombies: remember that right click summons a black hole! **"
 	{
 		"chi"		"**8个僵尸召唤师！僵尸：记得右键召唤一个传送阵！ **"
-		"DoorCountDown"		"-1"
+
 	}
 	"[PLAYING] Serious Sam 2 : Boss fight"
 	{
@@ -864,7 +864,7 @@
 	"** SAW! Remember 300? Maybe you could try something! **"
 	{
 		"chi"		"**电锯！也许你可以试试！ **"
-		"DoorCountDown"		"-1"
+
 	}
 	"** INVULNERABILITY! I hope you are one of the pickers! **"
 	{

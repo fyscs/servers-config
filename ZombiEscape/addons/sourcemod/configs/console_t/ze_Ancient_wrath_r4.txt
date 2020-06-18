@@ -11,7 +11,6 @@
 	"||| HOLD FOR 30 SECONDS |||"
 	{
 		"chi"		"**坚持30秒 **"
-		"DoorCountDown"		"30"
 	}
 	"||| FALL BACK |||"
 	{
@@ -24,17 +23,14 @@
 	"||| HOLD FOR 20 SECONDS |||"
 	{
 		"chi"		"**坚持20秒 **"
-		"DoorCountDown"		"20"
 	}
 	"||| ELEVATOR OPENS IN 25 SECONDS |||"
 	{
 		"chi"		"**电梯25秒后离开 **"
-		"DoorCountDown"		"25"
 	}
 	"||| HOLD FOR 10 SECONDS |||"
 	{
 		"chi"		"**坚持10秒 **"
-		"DoorCountDown"		"10"
 	}
 	"||| DOOR IS CLOSING |||"
 	{
@@ -43,7 +39,6 @@
 	"||| HOLD THE ELEVATOR FOR 25 SECONDS |||"
 	{
 		"chi"		"**守住电梯25秒 **"
-		"DoorCountDown"		"25"
 	}
 	"||| ZOMBIES TAKE THE STAIRS |||"
 	{
@@ -89,7 +84,7 @@
 	"||| TELEPORTER AND VENTILATION REACTIVATE IN 15 SECONDS |||"
 	{
 		"chi"		"**传送门和通风管在15秒后激活 **"
-		"DoorCountDown"		"15"
+
 	}
 	"||| DISABLE BOTH SECURITY STATIONS |||"
 	{
@@ -102,17 +97,14 @@
 	"||| C4 EXPLODE IN 15 SECONDS |||"
 	{
 		"chi"		"**C4将在15秒后爆炸（不要贴门）**"
-		"DoorCountDown"		"15"
 	}
 	"||| C4 EXPLODE IN 5 SECONDS |||"
 	{
 		"chi"		"**C4将在5秒后爆炸（不要贴门）**"
-		"DoorCountDown"		"5"
 	}
 	"||| C4 EXPLODE IN 10 SECONDS |||"
 	{
 		"chi"		"**C4将在10秒后爆炸（不要贴门）**"
-		"DoorCountDown"		"10"
 	}
 	"||| SECOND SECURITY STATION HAS BEEN DISABLED |||"
 	{
@@ -125,17 +117,14 @@
 	"||| BRIDGE EXTEND IN 20 SECONDS |||"
 	{
 		"chi"		"**桥将在20秒后延伸完毕 **"
-		"DoorCountDown"		"30"
 	}
 	"||| HOLD FOR 15 SECONDS |||"
 	{
 		"chi"		"**坚持15秒 **"
-		"DoorCountDown"		"15"
 	}
 	"||| TRAINS WILL LEAVE IN 20 SECONDS |||"
 	{
 		"chi"		"**火车将在20秒后离开 **"
-		"DoorCountDown"		"20"
 	}
 	"||| DEFEND THE ABOVE THE TRAINS |||"
 	{
@@ -154,57 +143,46 @@
 	"||| ELEVATOR LEAVES IN 25 SECONDS |||"
 	{
 		"chi"		"**电梯25秒后离开 **"
-		"DoorCountDown"		"25"
 	}
 	"||| ELEVATOR LEAVES IN 5 SECONDS |||"
 	{
 		"chi"		"**电梯5秒后离开 **"
-		"DoorCountDown"		"5"
 	}
 	"||| ELEVATOR LEAVES IN 10 SECONDS |||"
 	{
 		"chi"		"**电梯10秒后离开 **"
-		"DoorCountDown"		"10"
 	}
 	"||| SHOOT THE ENERGY BEAMS AND DEFEND THE ZOMBIES |||"
 	{
 		"chi"		"**射击能量束和防御僵尸 **"
-		"ico"		"icon_fire"
 	}
 	"||| SHOOT THE CONTAINER |||"
 	{
 		"chi"		"**射击容器 **"
-		"ico"		"icon_fire"
 	}
 	"||| CORE EXPLODES IN 170 SECONDS |||"
 	{
 		"chi"		"**核心将在170秒后爆炸 **"
-		"ico"		"icon_fire"
 	}
 	"||| CORE EXPLODES IN 100 SECONDS |||"
 	{
 		"chi"		"**核心将在100秒后爆炸 **"
-		"ico"		"icon_fire"
 	}
 	"||| CORE EXPLODES IN 80 SECONDS |||"
 	{
 		"chi"		"**核心将在80秒后爆炸 **"
-		"ico"		"icon_fire"
 	}
 	"||| CORE EXPLODES IN 60 SECONDS |||"
 	{
 		"chi"		"**核心将在60秒后爆炸 **"
-		"ico"		"icon_fire"
 	}
 	"||| DOOR OPENS IN 20 SECONDS |||"
 	{
 		"chi"		"**门20秒后打开 **"
-		"DoorCountDown"		"20"
 	}
 	"||| CORE EXPLODES IN 40 SECONDS |||"
 	{
 		"chi"		"**核心将在40秒后爆炸 **"
-		"ico"		"icon_fire"
 	}
 	"||| DOOR IS OPENING |||"
 	{
@@ -213,12 +191,10 @@
 	"||| CORE EXPLODES IN 20 SECONDS |||"
 	{
 		"chi"		"**核心将在20秒后爆炸 **"
-		"ico"		"icon_fire"
 	}
 	"||| CORE EXPLODES IN 10 SECONDS |||"
 	{
 		"chi"		"**核心将在10秒后爆炸 **"
-		"ico"		"icon_fire"
 	}
 	"||| DOOR IS OPENING|||"
 	{
@@ -259,7 +235,6 @@
 	"||| DEFEND THE TOP FOR 30 SECONDS |||"
 	{
 		"chi"		"**防守30秒 **"
-		"DoorCountDown"		"30"
 	}
 	"||| PREPARE TO FALL BACK |||"
 	{
@@ -272,17 +247,14 @@
 	"||| ELEVATOR LEAVES IN 15 SECONDS |||"
 	{
 		"chi"		"**电梯15秒后离开 **"
-		"DoorCountDown"		"15"
 	}
 	"||| !!!WARNING!!! DANGER FROM ABOVE |||"
 	{
 		"chi"		"**！！！警告！！！天花板上有东西掉下来了（快躲避） **"
-		"ico"		"icon_fire"
 	}
 	"||| POWER WILL BE RESTORED IN 25 SECONDS <SURVIVE> |||"
 	{
 		"chi"		"**电力将在25秒内恢复<生存> **"
-		"DoorCountDown"		"25"
 	}
 	"||| POWER IS RESTORED... DOORS OPEN SOON |||"
 	{
@@ -323,10 +295,6 @@
 	"||| YOU WIN |||"
 	{
 		"chi"		"**||| 你赢了 |||**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"7821"
 	}
 	"*** MAP BY STRUPPI ***"
 	{

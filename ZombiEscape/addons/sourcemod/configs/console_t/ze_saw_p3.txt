@@ -15,7 +15,7 @@
 	">- keep zombies away for 45 seconds  -<"
 	{
 		"chi"		"**守住这45秒的尸潮!**"
-		"DoorCountDown"		"45"
+
 	}
 	">- 5 more seconds  -<"
 	{
@@ -28,7 +28,7 @@
 	">- Door opening in 30 seconds  -<"
 	{
 		"chi"		"**门还有30秒开坚持住！**"
-		"DoorCountDown"		"30"
+
 	}
 	">- nervegas released in spawn area  -<"
 	{
@@ -37,12 +37,12 @@
 	">-Elevator coming in 30 sec-<"
 	{
 		"chi"		"**电梯将在30秒后到!**"
-		"DoorCountDown"		"35"
+
 	}
 	">-Elevator leaving in 7 sec-<"
 	{
 		"chi"		"**电梯7秒后离开！快上电梯呀！**"
-		"DoorCountDown"		"7"
+
 	}
 	">- nervegas released in first traps  -<"
 	{
@@ -51,12 +51,12 @@
 	">- keep zombies away for 30 seconds  -<"
 	{
 		"chi"		"**坚守阵地30秒！**"
-		"DoorCountDown"		"30"
+
 	}
 	">- Hold for 40 seconds  -<"
 	{
 		"chi"		"**守住僵尸40秒！**"
-		"DoorCountDown"		"40"
+
 	}
 	">- nervegas released in elevator area  -<"
 	{
@@ -65,12 +65,12 @@
 	">- Keep ZOMBIES away for 60 second -<"
 	{
 		"chi"		"**抵御60秒**"
-		"DoorCountDown"		"60"
+
 	}
 	">-Door opening in 30 sec-<"
 	{
 		"chi"		"**30秒后门将开启**"
-		"DoorCountDown"		"30"
+
 	}
 	">- generator room exploding in 75 seconds  -<"
 	{
