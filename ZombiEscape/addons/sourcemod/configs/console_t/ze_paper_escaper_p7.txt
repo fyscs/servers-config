@@ -35,7 +35,7 @@
 	"*Water deposit door opening in 15 seconds*"
 	{
 		"chi"		"**水池大门:15秒 **"
-		"DoorCountdown"		"15"
+
 	}
 	"*TNT will explode in 7 seconds.*"
 	{
@@ -52,7 +52,7 @@
 	"*Garage door opening in 38 seconds*"
 	{
 		"chi"		"**车库大门:38秒**"
-		"DoorCountdown"		"38"
+
 	}
 	"*Zombies detected on Elevator Nr. 3. Sealing door.*"
 	{
@@ -81,7 +81,7 @@
 	"*The truck will leave in 15 seconds. Resist!*"
 	{
 		"chi"		"**公交车将在15秒后离开**“没时间解释了,快上车!”"
-		"DoorCountdown"		"15"
+
 	}
 	"*Exit door opening in 5 seconds*"
 	{
@@ -218,7 +218,7 @@
 	"*Door opening in 15 seconds. RESIST!*"
 	{
 		"chi"		"**门15秒后打开 **"
-		"DoorCountdown"		"15"
+
 	}
 	"*Ammo Box has been picked up. Press +USE (E) to activate.*"
 	{
@@ -255,7 +255,7 @@
 	"*Calling the escape boat. Resist untill it comes! (30 sec)*"
 	{
 		"chi"		"**友谊的小船还有30秒到达**"
-		"DoorCountdown"		"30"
+
 	}
 	"*The boat is here. Get on it!!!*"
 	{
@@ -312,7 +312,7 @@
 	"*Elevator leaves in 10 seconds.*"
 	{
 		"chi"		"**电梯:10秒**"
-		"DoorCountdown"		"10"
+
 	}
 	"** GO! **"
 	{
@@ -461,7 +461,7 @@
 	"*Maintenance elevator leaves in 30 seconds*"
 	{
 		"chi"		"**电梯:30秒**"
-		"DoorCountdown"		"30"
+
 	}
 	"*Maintenance elevator leaves in 5 seconds!!! GO!*"
 	{
@@ -598,7 +598,7 @@
 	"* Defend the bridge for 30 seconds until it is blown up!!! *"
 	{
 		"chi"		"**在大桥防守30秒直到它被炸掉**"
-		"DoorCountdown"		"30"
+
 	}
 	"* Zombies must go through the sewer. *"
 	{
@@ -635,7 +635,7 @@
 	"* Elevator's power restoring... It will leave in 20 seconds *"
 	{
 		"chi"		"**电梯电源重启,电梯20秒后上升!**"
-		"DoorCountdown"		"20"
+
 	}
 	"* GO! GO! GO!*"
 	{
@@ -648,7 +648,7 @@
 	"* Defend this floor for 30 seconds!!! *"
 	{
 		"chi"		"**守住这层楼30秒**"
-		"DoorCountdown"		"30"
+
 	}
 	"* GO BACK! ELEVATOR LEAVES IN 5 SECONDS *"
 	{
@@ -673,17 +673,17 @@
 	"* The door is opening in 25 seconds... RESIST! *"
 	{
 		"chi"		"**门25秒后打开**"
-		"DoorCountdown"		"25"
+
 	}
 	"* Second door opens in 10 seconds. *"
 	{
 		"chi"		"**第二扇门将10秒后打开**"
-		"DoorCountdown"		"10"
+
 	}
 	"* Helicopter leaves in 50 seconds. *"
 	{
 		"chi"		"**直升机引擎50秒后发动**"
-		"DoorCountdown"		"50"
+
 	}
 	"* Helicopter leaves in 20 seconds. RESIST!!! *"
 	{

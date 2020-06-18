@@ -11,12 +11,10 @@
 	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
 	{
 		"chi"		"**不要尝试跳近路-它会把你传送回去的 **"
-		"ico"		"icon_fire"
 	}
 	"***FOLLOW THE ARROWS TO AVOID DEAD ENDS***"
 	{
 		"chi"		"**跟着箭头走，别进死胡同了**"
-		"ico"		"icon_fire"
 	}
 	"***DOOR OPENING IN 10 SECONDS***"
 	{
@@ -97,7 +95,7 @@
 	"***Door opening in 20 seconds***"
 	{
 		"chi"		"**大门在20内打开**"
-		"DoorCountDown"		"20"
+
 	}
 	"***A METAL ASS HAS BEEN PICKED UP***"
 	{
@@ -106,7 +104,7 @@
 	"***THE TOASTER IS GOING TO TOAST TOAST IN 3 MINUTES***"
 	{
 		"chi"		"**烤面包机将要烤面包3分钟（3分钟后爆炸)**"
-		"DoorCountDown"		"180"
+
 	}
 	"***THIS PLACE IS FALLING APART***"
 	{
@@ -163,7 +161,6 @@
 	"***BREAK THE BLOCKING METAL PIECE UNDERNEATH***"
 	{
 		"chi"		"** 破坏下面的金属片状物**"
-		"ico"		"icon_fire"
 	}
 	"***YOU DID IT***"
 	{

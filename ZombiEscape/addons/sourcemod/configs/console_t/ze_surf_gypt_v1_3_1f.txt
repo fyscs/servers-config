@@ -39,7 +39,7 @@
 	"*** WALL WILL BREAK DOWN IN 30 SECONDS *** DEFEND THE LAVA ***"
 	{
 		"chi"		"**路将在30s后打开，守住这里!不要让僵尸冲过来!**"
-		"DoorCountDown"		"30"
+
 	}
 	"*** WALL BREAKS IN 5 SECONDS ***"
 	{
@@ -128,10 +128,6 @@
 	"*** DOOR CLOSING IN 5 SECONDS ***"
 	{
 		"chi"		"**在5s后关门!快了!快了!**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"27868"
 	}
 	"*** LAST DOOR WILL CLOSE IN 30 SECONDS ***"
 	{

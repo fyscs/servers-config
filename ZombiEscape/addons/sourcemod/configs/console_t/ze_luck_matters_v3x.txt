@@ -232,25 +232,6 @@
 	{
 		"chi"		"**路在20秒后打开**"
 	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_he_limit 5"
-		}
-		"1"
-		{
-			"cvar"		"sm_decoy_limit 1"
-		}
-		"2"
-		{
-			"cvar"		"sm_cash #447 50000"
-		}
-	}
-	"sync_version"
-	{
-		"syncvalue"		"64026"
-	}
 	"***AFK Teleport in 10s***"
 	{
 		"chi"		"**挂机玩家10s后传送**"

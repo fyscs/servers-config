@@ -15,7 +15,6 @@
 	"** This path should lead us to one of the several supply warehouses... **"
 	{
 		"chi"		"**这条路应该能把我们引向几个供应仓库中的一个…**"
-		"DoorCountdown"		"10"
 	}
 	"** BLIZARD MODE ENABLED: DIFFICULTY INCREASED **"
 	{
@@ -24,12 +23,10 @@
 	"** RESIST! We need to access the main complex by unlocking this door! **"
 	{
 		"chi"		"**守住！我们需要打开这扇门才能进入主建筑群！ **"
-		"DoorCountdown"		"35"
 	}
 	"** Were almost there! Dont let anything through! **"
 	{
 		"chi"		"**我们快到了！不要让僵尸进来！ **"
-		"DoorCountdown"		"15"
 	}
 	"** FALL BACK! Its about to open! **"
 	{
@@ -38,7 +35,6 @@
 	"** Were nearing the neuralgic center of the complex... **"
 	{
 		"chi"		"**我们正在接近建筑中心... **"
-		"DoorCountdown"		"18"
 	}
 	"** Hold until we are able to open this door! **"
 	{
@@ -47,7 +43,6 @@
 	"** This button should unlock the doors and let us through... **"
 	{
 		"chi"		"**这个按钮可以打开门... **"
-		"DoorCountdown"		"20"
 	}
 	"** Resist while we wait for the doors to open! **"
 	{
@@ -84,7 +79,6 @@
 	"** Resist! This door shall take us to one of the middle areas! **"
 	{
 		"chi"		"**守住！通过这扇门我们可以到达中心区域！**"
-		"DoorCountdown"		"25"
 	}
 	"** Keep it up! Its about to open! **"
 	{
@@ -93,7 +87,6 @@
 	"** HOLD THEM RIGHT HERE! We need to unlock this door! **"
 	{
 		"chi"		"**在这里守住他们！我们需要打开这扇门！ **"
-		"DoorCountdown"		"20"
 	}
 	"** GET CLOSE! Were about to breach in! **"
 	{
@@ -110,7 +103,6 @@
 	"** We did it! The pressure is increasing at exponential rates! **"
 	{
 		"chi"		"**我们做到了！压力指数正在增长！ **"
-		"DoorCountdown"		"15"
 	}
 	"** Hold until we open the doors! We need a way out! **"
 	{
@@ -119,7 +111,6 @@
 	"** Our information indicates there should be a small cargo elevator close to our position... **"
 	{
 		"chi"		"**根据仪表显示来看，应该有一个小型货运电梯正在接近我们的位置… **"
-		"DoorCountdown"		"17"
 	}
 	"** This is our way out! Defend the elevator until it leaves! **"
 	{
@@ -140,7 +131,6 @@
 	"** We need to escape from the facility... **"
 	{
 		"chi"		"**我们需要逃离该设施… **"
-		"DoorCountdown"		"40"
 	}
 	"** Resist! These security doors are sturdy - theyll take a bit to unlock! **"
 	{
@@ -153,7 +143,6 @@
 	"** Our reports indicate some sort of archeologic research takes place here... **"
 	{
 		"chi"		"**我们的报告显示这里曾经进行了某种考古学研究。**"
-		"DoorCountdown"		"30"
 	}
 	"** Hold! We need to unlock the metal gates and then well access the caves. **"
 	{
@@ -174,7 +163,6 @@
 	"** DEFEND! We need to find a way out - we are trapped! **"
 	{
 		"chi"		"**守住！我们需要找到出路 - 我们被困住了！ **"
-		"DoorCountdown"		"38"
 	}
 	"** Some of these plates might open... Keep holding! **"
 	{
@@ -195,7 +183,6 @@
 	"** Hold the bridges! We need to open this door! **"
 	{
 		"chi"		"**守住桥！我们需要打开这扇门！ **"
-		"DoorCountdown"		"40"
 	}
 	"** RESIST! Theres still a bit to go! **"
 	{
@@ -212,7 +199,6 @@
 	"** Hold the vent! We will move out of this area soon... **"
 	{
 		"chi"		"**守住通风口！我们很快就会离开这个地方... **"
-		"DoorCountdown"		"33"
 	}
 	"** DAMN! The door! HOLD IT! **"
 	{
@@ -221,12 +207,10 @@
 	"** What a harmonic view! It surely makes you feel as nothing but a clumsy dustmote in the universe... **"
 	{
 		"chi"		"**多和谐的景色啊！它无疑让你觉得自己只是宇宙中一个笨拙的尘埃…**"
-		"DoorCountdown"		"15"
 	}
 	"** Cover all entrances! Were nearing our safety! **"
 	{
 		"chi"		"***守住所有入口！我们就快安全了！ **"
-		"DoorCountdown"		"40"
 	}
 	"** RESIST! It wont take much longer to open this door! **"
 	{
@@ -247,7 +231,6 @@
 	"** The bomb is being planted! Dont let them past the middle of the bridge! *"
 	{
 		"chi"		"**炸弹正在被埋下！不要让他们过桥的中间！ **"
-		"DoorCountdown"		"35"
 	}
 	"** ZOMBIES DETECTED - INVALID VICTORY! **"
 	{
@@ -284,7 +267,6 @@
 	"** OAGH! IT STINKS IN HERE! HOLD YOUR BREATH AND RESIST! **"
 	{
 		"chi"		"**咦！这里很臭！屏住呼吸守住！ **"
-		"DoorCountdown"		"30"
 	}
 	"** The stench is unbearable! Were opening the door as fast as we can - HOLD THEM! **"
 	{
@@ -301,7 +283,6 @@
 	"** This door should lead to one of the abandoned maintenance hallways! HOLD! **"
 	{
 		"chi"		"**这道门通向一个废弃的走廊！守住！ **"
-		"DoorCountdown"		"30"
 	}
 	"** Hold them off! Keep them up the stairs! **"
 	{
@@ -314,7 +295,6 @@
 	"** This area seems familiar... **"
 	{
 		"chi"		"**这个区域似乎很熟悉……  **"
-		"DoorCountdown"		"22"
 	}
 	"** Were close to the weaponry warehouse we saw during the ascension! **"
 	{
@@ -327,7 +307,6 @@
 	"** This door seems to be further locked than the previous ones... **"
 	{
 		"chi"		"**这扇门似乎比之前的更复杂…… **"
-		"DoorCountdown"		"45"
 	}
 	"** RESIST! It might take a while! Cover all entrances! **"
 	{
@@ -348,7 +327,6 @@
 	"** Were nearing to the extraction point! One last effort! HOLD! **"
 	{
 		"chi"		"**我们正在接近指定地点！ 守住！ **"
-		"DoorCountdown"		"25"
 	}
 	"** KEEP RESISTING! ITS ABOUT TO OPEN! **"
 	{
@@ -357,7 +335,6 @@
 	"** This is the end of the line! RESIST! **"
 	{
 		"chi"		"**这就是终点了！守住！ **"
-		"DoorCountdown"		"32"
 	}
 	"** Our rescue chopper is approaching! Well need to survive until it comes! **"
 	{
@@ -378,7 +355,6 @@
 	"** According to our information we should be nearing a maintenance zone... **"
 	{
 		"chi"		"**根据我们的信息来看，我们应该正在接近维修区... **"
-		"DoorCountdown"		"25"
 	}
 	"** CMON IN! We need to go before we become roasted chicken! **"
 	{
@@ -395,10 +371,6 @@
 	"** NEXT VERSION MAY INCLUDE A SPECIAL INFILTRATION MODE **"
 	{
 		"chi"		"**下一版本可能包括特殊渗透模式**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"31394"
 	}
 	"** BLIZARD MODE ENABLED **"
 	{

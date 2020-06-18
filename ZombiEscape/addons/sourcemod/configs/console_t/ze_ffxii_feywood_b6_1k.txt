@@ -115,7 +115,7 @@
 	"**THE DRAGON USED VAMPIRE (+10 HP TO BOSS ON 1 PLAYER HIT)**"
 	{
 		"chi"		"龙鳞铠甲"
-		"DoorCountDown"		"-1"
+
 	}
 	"**THE DRAGON USED WIND**"
 	{
@@ -372,7 +372,7 @@
 	"**CHUCHULAINN HAS HEALED 150 HP**"
 	{
 		"chi"		"不净王回复了150hp"
-		"DoorCountDown"		"-1"
+
 	}
 	"**CHUCHULAINN HAS USED SHIELD(YOU CAN'T USE ITEMS FOR 10 SEC)**"
 	{

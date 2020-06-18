@@ -215,7 +215,6 @@
 	"**The door will be closed in 1min 40 seconds**"
 	{
 		"chi"		"**出口100秒后关闭**"
-		"DoorCountdown"		"100"
 	}
 	"**The door will be closed in 60 seconds**"
 	{
@@ -224,10 +223,6 @@
 	"**The door will be closed in 15 seconds**"
 	{
 		"chi"		"**出口15s后关闭 **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"36895"
 	}
 	"**Activate Bomb**"
 	{

@@ -43,7 +43,7 @@
 	">> City gate closes in 50 seconds <<"
 	{
 		"chi"		"**海尔根堡垒的大门将在50s之后关闭**"
-		"DoorCountDown"		"50"
+
 	}
 	">> Run for the helgen keep NOW! <<"
 	{
@@ -68,7 +68,7 @@
 	"*** Door opens in 25 seconds! ***"
 	{
 		"chi"		"**门将会在25s后打开**"
-		"DoorCountDown"		"25"
+
 	}
 	"*** FALL BACK ***"
 	{
@@ -77,7 +77,7 @@
 	"*** Door opens in 30 seconds ***"
 	{
 		"chi"		"**门将会在30s之后打开**"
-		"DoorCountDown"		"30"
+
 	}
 	">> Defend the bridge don't let the zombies on the other side! <<"
 	{
@@ -98,7 +98,7 @@
 	">> City door opens in 35 seconds! <<"
 	{
 		"chi"		"**城市大门将会在35s后打开**"
-		"DoorCountDown"		"35"
+
 	}
 	">> We need to inform the Jarl of Whiterun that the dragons are attacking! <<"
 	{
@@ -107,7 +107,7 @@
 	">> We need to hold the Plains District for 40 seconds HOLD THEM BACK! <<"
 	{
 		"chi"		"**我们需要守住平原区40s**"
-		"DoorCountDown"		"40"
+
 	}
 	">> Fall Back Now! <<"
 	{
@@ -116,12 +116,12 @@
 	">> Hold here for 30 seconds! <<"
 	{
 		"chi"		"**在这里守住30s**"
-		"DoorCountDown"		"30"
+
 	}
 	">> Hold them back for 25 more seconds! <<"
 	{
 		"chi"		"**在这守住25s，门很快就会打开**"
-		"DoorCountDown"		"25"
+
 	}
 	">> Run for the bridge of Dragons Reach!! <<"
 	{
@@ -130,7 +130,7 @@
 	">> Defend the bridge until door opens! <<"
 	{
 		"chi"		"**守住桥直到大门打开**"
-		"DoorCountDown"		"30"
+
 	}
 	">> Dragon has been spotted outside Whiterun! <<"
 	{
@@ -159,7 +159,7 @@
 	">> Door Closes in 25 seconds <<"
 	{
 		"chi"		"**门将在25s后关闭**"
-		"DoorCountDown"		"25"
+
 	}
 	">> Keep Defending! <<"
 	{
@@ -184,12 +184,12 @@
 	"*** Hold the cave for 30 seconds ***"
 	{
 		"chi"		"**在洞穴前守住30s，门很快会打开**"
-		"DoorCountDown"		"30"
+
 	}
 	"*** Hold the bridges for 30 seconds *** "
 	{
 		"chi"		"**坚持30s！**"
-		"DoorCountDown"		"30"
+
 	}
 	"*** There should be a switch for that door somewhere! ***"
 	{
@@ -202,7 +202,7 @@
 	"*** Door will open in 25 seconds ***"
 	{
 		"chi"		"**门将会在25s后打开**"
-		"DoorCountDown"		"25"
+
 	}
 	"*** Seems like the lever is broken ***"
 	{
@@ -215,12 +215,12 @@
 	"*** Hold for 25 seconds ***"
 	{
 		"chi"		"**在这守住25s**"
-		"DoorCountDown"		"25"
+
 	}
 	"*** Door will open in 30 seconds ***"
 	{
 		"chi"		"**门将会在30s之后打开**"
-		"DoorCountDown"		"30"
+
 	}
 	"*** Hold for 45 seconds OR find a way to make it open faster ***"
 	{
@@ -233,7 +233,7 @@
 	"*** The doors will now open a bit faster! ***"
 	{
 		"chi"		"**门将会提早25s打开**"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** Lever has been pulled! ***"
 	{
@@ -242,7 +242,7 @@
 	"*** Hold for just 25 seconds more! ***"
 	{
 		"chi"		"**在这守住25s**"
-		"DoorCountDown"		"25"
+
 	}
 	"*** Stage completed! ***"
 	{
@@ -255,12 +255,12 @@
 	">>> Doors open in 25 seconds <<<"
 	{
 		"chi"		"**门将会在25s后打开**"
-		"DoorCountDown"		"25"
+
 	}
 	">> Door Opens in 45 seconds <<"
 	{
 		"chi"		"**门会在45s后打开**"
-		"DoorCountDown"		"45"
+
 	}
 	">> Go Downstairs to the Treasure room and take the Elder Scroll! <<"
 	{
@@ -277,12 +277,12 @@
 	">> Door Opens In 20 Seconds! <<"
 	{
 		"chi"		"**门会在20s后打开**"
-		"DoorCountDown"		"20"
+
 	}
 	">> Elevator leaves in 30 seconds! <<"
 	{
 		"chi"		"**电梯将会在30s后离开**"
-		"DoorCountDown"		"30"
+
 	}
 	">> Elevator leaves in 10 seconds! <<"
 	{
@@ -299,7 +299,7 @@
 	">> Elevator leaves in 20 seconds! <<"
 	{
 		"chi"		"**电梯将会在20s后离开**"
-		"DoorCountDown"		"20"
+
 	}
 	"*** THE ELDER SCROLL MADE IT TO THE END ***"
 	{
@@ -316,7 +316,7 @@
 	">> City door opens in 25 seconds! <<"
 	{
 		"chi"		"**城市大门将会在25s后打开**"
-		"DoorCountDown"		"25"
+
 	}
 	">> HOLD THEM BACK! <<"
 	{
@@ -393,7 +393,7 @@
 	"*** Hold the bridges for 30 seconds ***"
 	{
 		"chi"		"**守住大桥30秒**"
-		"DoorCountDown"		"30"
+
 	}
 	"** YOU HAVE BEATEN THE MAP CONGRATULATIONS !!! **"
 	{

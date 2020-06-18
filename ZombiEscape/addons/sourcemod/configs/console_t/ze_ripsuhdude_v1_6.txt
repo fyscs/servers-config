@@ -7,22 +7,22 @@
 	"***Gate will open in 20 seconds***"
 	{
 		"chi"		"**大门20秒后打开**"
-		"DoorCountDown"		"20"
+
 	}
 	">>> Door will open in 10 seconds"
 	{
 		"chi"		"**门10秒后开启**"
-		"DoorCountDown"		"10"
+
 	}
 	">>> Gate will open in 10 seconds <<<"
 	{
 		"chi"		"**大门10秒后开启**"
-		"DoorCountDown"		"10"
+
 	}
 	">> Door will open in 40 seconds <<<"
 	{
 		"chi"		"**门40秒后开启**"
-		"DoorCountDown"		"40"
+
 	}
 	">>> Zombies will teleport in 10 seconds <<<"
 	{
@@ -31,12 +31,12 @@
 	">>> Bridge will open in 15 seconds <<<"
 	{
 		"chi"		"**大桥15秒后开始延伸 **"
-		"DoorCountDown"		"15"
+
 	}
 	">>> Doors open in 25 seconds <<<"
 	{
 		"chi"		"**门25秒后开启**"
-		"DoorCountDown"		"25"
+
 	}
 	">>> Doors open in 5 seconds"
 	{
@@ -57,7 +57,7 @@
 	">>> Gate will open in 40 seconds <<<"
 	{
 		"chi"		"**大门40秒后开启**"
-		"DoorCountDown"		"40"
+
 	}
 	">>> Gate will open in 15 seconds <<<"
 	{

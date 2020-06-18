@@ -19,7 +19,7 @@
 	"[MAP INFO] The gate is slowly opening, hold this area! ***"
 	{
 		"chi"		"**坚守!门开得很慢!**"
-		"DoorCountDown"		"40"
+
 	}
 	"[MAP INFO] *** Hold here for 25 seconds! ***"
 	{
@@ -28,7 +28,7 @@
 	"[MAP INFO] *** Explosives have been set, hold for 30 seconds! ***"
 	{
 		"chi"		"**C4已经触发，坚守30秒**"
-		"DoorCountDown"		"30"
+
 	}
 	"[MAP INFO] ** The metal wall will break down in 20 seconds! ***"
 	{
@@ -85,17 +85,6 @@
 	"*** HUMANS HAVE BEEN WARNED, KNIFE ONLY MODE HAS BEEN ENABLED, GOODLUCK! ***"
 	{
 		"chi"		"** **"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"zr_poison_enabled  0"
-		}
-	}
-	"sync_version"
-	{
-		"syncvalue"		"78894"
 	}
 	"[MAP INFO] *** ACTIVATE THE EXPLOSIVE ON THE DOOR ***"
 	{

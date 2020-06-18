@@ -35,17 +35,17 @@
 	"Hold for 15 seconds."
 	{
 		"chi"		"**守住15秒**"
-		"DoorCountDown"		"15"
+
 	}
 	"Resist for 25 seconds."
 	{
 		"chi"		"**坚守30秒**"
-		"DoorCountDown"		"30"
+
 	}
 	"Resist for 20 seconds."
 	{
 		"chi"		"**再守25秒**"
-		"DoorCountDown"		"25"
+
 	}
 	"Hold here until something happens!"
 	{
@@ -106,12 +106,12 @@
 	"We are trapped! Resist!"
 	{
 		"chi"		"**我们被困住了！守住28秒**"
-		"DoorCountDown"		"28"
+
 	}
 	"Fall back we can walk across the door."
 	{
 		"chi"		"**往后退.我们可以从门上过去**"
-		"DoorCountDown"		"30"
+
 	}
 	"There is no way around."
 	{
@@ -120,7 +120,7 @@
 	"Well have to enter the boiler. Resist!"
 	{
 		"chi"		"**我们得从热水器撤离.守住25秒！**"
-		"DoorCountDown"		"25"
+
 	}
 	"We can enter through that hole! Fall back!"
 	{
@@ -133,7 +133,7 @@
 	"Final doors are going to close in 30 seconds! Resist!"
 	{
 		"chi"		"**最后的大门30秒后关闭，守住僵尸！**"
-		"DoorCountDown"		"30"
+
 	}
 	"You have won the map! Congratulations!"
 	{

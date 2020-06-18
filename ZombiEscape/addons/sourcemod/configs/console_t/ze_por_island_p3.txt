@@ -7,17 +7,17 @@
 	"** Second door opening in 10 seconds **"
 	{
 		"chi"		"** 第二扇门还有10秒打开 **"
-		"DoorCountDown"		"10"
+
 	}
 	"** Boat leaving in 20 sec **"
 	{
 		"chi"		"** 距离船只启动还有20秒 **"
-		"DoorCountDown"		"20"
+
 	}
 	"** Door opening in 25 sec **"
 	{
 		"chi"		"** 大门25秒后打开 **"
-		"DoorCountDown"		"25"
+
 	}
 	"** Door opening in 15 sec. **"
 	{
@@ -30,7 +30,7 @@
 	"** Final door opening in 50 sec!!! **"
 	{
 		"chi"		"** 最后的大门将在50秒后打开！！！ **"
-		"DoorCountDown"		"50"
+
 	}
 	"** Be ready! Zombies in bunker are coming!!! **"
 	{

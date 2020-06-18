@@ -35,7 +35,7 @@
 	">>COVER 30 SECONDS UNTIL C4 EXPLOSION<<"
 	{
 		"chi"		"**守住30秒直到C4爆炸**"
-		"DoorCountDown"		"30"
+
 	}
 	">> RETURN TO COVER THE DOOR <<<"
 	{
@@ -72,7 +72,7 @@
 	">>ELEVATORS OPEN ! 15 SECONDS LEFT<<"
 	{
 		"chi"		"**电梯门开了，15秒后电梯门将会关闭**"
-		"DoorCountDown"		"15"
+
 	}
 	">>ELEVATORS LEAVING !<<"
 	{
@@ -121,7 +121,7 @@
 	">>COVER THE EVACUATION AREA 45 SECONDS<<"
 	{
 		"chi"		"**守住撤离区域45秒**"
-		"DoorCountDown"		"45"
+
 	}
 	">>NO ZOMBIES ALLOWED BEHIND THE CRATES<<"
 	{
@@ -174,7 +174,7 @@
 	">>CHOPPER LEAVING IN 15 SECONDS<<"
 	{
 		"chi"		"**15秒后直升机就要离开了**"
-		"DoorCountDown"		"15"
+
 	}
 	">>5 SECONDS LEFT<<"
 	{

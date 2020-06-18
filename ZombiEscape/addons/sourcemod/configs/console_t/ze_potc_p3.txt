@@ -51,12 +51,12 @@
 	">>> HOLD THE MILL 30 SECONDS <<<"
 	{
 		"chi"		">>>在这个磨坊防御僵尸30秒<<<"
-		"DoorCountDown"		"30"
+
 	}
 	">>>>Pistol ready in 30 s<<<<"
 	{
 		"chi"		">>>手枪CD剩余三十秒<<<"
-		"DoorCountDown"		"-1"
+
 	}
 	">>> JUMP ONTO THE WHEEL <<<"
 	{

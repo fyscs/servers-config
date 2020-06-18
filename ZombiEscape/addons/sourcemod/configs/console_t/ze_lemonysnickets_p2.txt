@@ -7,7 +7,7 @@
 	"*Defend Inside for 45s!*"
 	{
 		"chi"		"**防御45秒!加油兄弟萌!**"
-		"DoorCountDown"		"45"
+
 	}
 	"*5 Seconds Left!*"
 	{
@@ -16,7 +16,7 @@
 	"*Hold here for 30s!*"
 	{
 		"chi"		"**抵御僵尸30秒!守住这里!**"
-		"DoorCountDown"		"30"
+
 	}
 	"*10 seconds left!*"
 	{
@@ -41,7 +41,7 @@
 	"*Castle Doors open in 15s!*"
 	{
 		"chi"		"**城堡大门在15秒后打开！守住这里! **"
-		"DoorCountDown"		"15"
+
 	}
 	"*Castle Doors Open!*"
 	{
@@ -114,10 +114,6 @@
 	"*Kill all remaining zombies!*"
 	{
 		"chi"		"**杀光所有剩余的僵尸！**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		" "
 	}
 	"*Defend here for 30 seconds*"
 	{

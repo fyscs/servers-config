@@ -11,7 +11,7 @@
 	"*** 30 seconds left ***"
 	{
 		"chi"		"**还剩30秒**"
-		"DoorCountDown"		"-1"
+
 	}
 	"*** teleported zombie ***"
 	{
@@ -41,20 +41,9 @@
 	{
 		"chi"		"** **"
 	}
-	"sync_version"
-	{
-		"syncvalue"		"86225"
-	}
 	"*** human win ***"
 	{
 		"chi"		"**人类胜利，快回头刷僵尸！**"
-	}
-	"MapGlobal_ConVars"
-	{
-		"0"
-		{
-			"cvar"		"sm_nofalldamage 1"
-		}
 	}
 	"*** zombie teleport in 10 seconds ***"
 	{

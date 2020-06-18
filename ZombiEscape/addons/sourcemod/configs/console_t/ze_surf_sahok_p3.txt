@@ -3,7 +3,7 @@
 	"**The door will open in 45 seconds. Cover!!**"
 	{
 		"chi"		"大门将在45秒后开启，坚守阵地!**"
-		"DoorCountDown"		"45"
+
 	}
 	"**Door is open 10 sec**"
 	{
@@ -12,8 +12,7 @@
 	"**Elevator is leaving in 25s**"
 	{
 		"chi"		"电梯还有25秒离开！**"
-		"DoorCountDown"		"25"
-		"ico"		"icon_tip"
+
 	}
 	"**Elevator is leaving in 5s**"
 	{
@@ -22,8 +21,7 @@
 	"**Boats will arrive in 30 seconds**"
 	{
 		"chi"		"小船将在30秒后抵达，我们要守住这里!"
-		"DoorCountDown"		"30"
-		"ico"		"icon_tip"
+
 	}
 	"***Boat is leaving***"
 	{
@@ -52,7 +50,7 @@
 	"**The door will open in 30 seconds. Cover!!**"
 	{
 		"chi"		"最后的大门30秒后开启！坚守这里!（准备跳刀！）"
-		"DoorCountDown"		"30"
+
 	}
 	"***Congratulations!***"
 	{
@@ -65,10 +63,6 @@
 	"**Boat will arrive in 30 seconds**"
 	{
 		"chi"		"**小船将在30秒后离开**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"61875"
 	}
 	"**Elevator is leaving in 35s**"
 	{

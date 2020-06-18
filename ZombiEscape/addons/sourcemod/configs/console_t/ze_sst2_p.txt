@@ -19,12 +19,12 @@
 	"***Lift Departing in 5 Seconds***"
 	{
 		"chi"		"**电梯还有5秒启动**"
-		"DoorCountdown"		"5"
+
 	}
 	"***Second Cave Wall Will Collapse in 20 Seconds***"
 	{
 		"chi"		"**第二面墙将在20秒后坍塌**"
-		"DoorCountdown"		"20"
+
 	}
 	"***Defend This Location***"
 	{
@@ -33,12 +33,12 @@
 	"***Cave Wall Will Collapse in 18 Seconds***"
 	{
 		"chi"		"**第一面墙在18秒后坍塌**"
-		"DoorCountdown"		"18"
+
 	}
 	"***APC Starting in 5 Seconds***"
 	{
 		"chi"		"**无敌装甲车将在5秒后出发**"
-		"DoorCountdown"		"5"
+
 	}
 	"***Stay Within the APC's Interior***"
 	{

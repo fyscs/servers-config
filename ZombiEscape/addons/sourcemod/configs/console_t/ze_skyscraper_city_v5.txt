@@ -7,7 +7,7 @@
 	">>Door will open in 20 sec<< "
 	{
 		"chi"		"**20秒后开启大门**"
-		"DoorCountDown"		"20"
+
 	}
 	">>Go!<< "
 	{
@@ -16,7 +16,7 @@
 	">>metal gate open in 15 sec<< "
 	{
 		"chi"		"**金属大门将在15秒后开启**"
-		"DoorCountDown"		"15"
+
 	}
 	">>Press the button at the door!l<< "
 	{

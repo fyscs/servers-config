@@ -11,7 +11,7 @@
 	">>> Fall pit will break in 20 seconds <<<"
 	{
 		"chi"		"**20秒后道路开放 **"
-		"DoorCountdown"		"20"
+
 	}
 	">>> Fall pit will break in 5 seconds <<<"
 	{
@@ -48,7 +48,7 @@
 	">>> Gate will open in 20 seconds <<<"
 	{
 		"chi"		"**大门将在20秒后打开 **"
-		"DoorCountdown"		"20"
+
 	}
 	">>> Gate will open in 5 seconds <<<"
 	{
@@ -57,7 +57,7 @@
 	">>> Gate will open in 15 seconds <<<"
 	{
 		"chi"		"**大门将在15秒后打开 **"
-		"DoorCountdown"		"15"
+
 	}
 	">>> Split up and keep defending <<<"
 	{
@@ -66,7 +66,7 @@
 	">>> Lower gate will open in 40 seconds <<<"
 	{
 		"chi"		"**下面的门将在40秒后打开 **"
-		"DoorCountdown"		"40"
+
 	}
 	">>> Lower gate will open in 10 seconds <<<"
 	{
@@ -95,7 +95,7 @@
 	">>> Door will open in 20 seconds <<<"
 	{
 		"chi"		"**门20秒后开启 **"
-		"DoorCountdown"		"20"
+
 	}
 	">>> Zombies will teleport in 15 seconds <<<"
 	{
@@ -104,7 +104,7 @@
 	">>> Wall will break in 25 seconds <<<"
 	{
 		"chi"		"**墙壁将在25秒后破碎 **"
-		"DoorCountdown"		"25"
+
 	}
 	">>> All levers has been pressed <<<"
 	{
@@ -113,7 +113,7 @@
 	">>> Pit will open in 25 seconds <<<"
 	{
 		"chi"		"**25秒后道路开放 **"
-		"DoorCountdown"		"25"
+
 	}
 	">>> Pit will open in 5 seconds <<<"
 	{
@@ -122,17 +122,14 @@
 	">>> SLASH <<<"
 	{
 		"chi"		"**跳刀(原地等2秒起跳) **"
-		"ico"		"icon_fire"
 	}
 	">>> RED <<<"
 	{
 		"chi"		"**红(站在中间柱子躲避火焰)  **"
-		"ico"		"icon_fire"
 	}
 	">>> YELLOW <<<"
 	{
 		"chi"		"**黄(往上下左右的柱子移动) **"
-		"ico"		"icon_fire"
 	}
 	">>> Heal has been picked <<<"
 	{
@@ -141,17 +138,14 @@
 	">>> PURPLE <<<"
 	{
 		"chi"		"**紫（站在中间不要动） **"
-		"ico"		"icon_fire"
 	}
 	">>> BLUE <<<"
 	{
 		"chi"		"**蓝(往四个角落的柱子移动） **"
-		"ico"		"icon_fire"
 	}
 	">>> GREEN <<<"
 	{
 		"chi"		"**绿（站在中间的柱子上） **"
-		"ico"		"icon_fire"
 	}
 	"*** YOU KILLED THE BOSS ***"
 	{
@@ -160,7 +154,7 @@
 	">>> Drawbridge will open in 15 seconds <<<"
 	{
 		"chi"		"**吊桥在15秒后启动 **"
-		"DoorCountdown"		"15"
+
 	}
 	">>> Gate will close in 15 seconds <<<"
 	{
@@ -185,7 +179,7 @@
 	">>> Gate will open in 40 seconds <<<"
 	{
 		"chi"		"**大门40秒后开启 **"
-		"DoorCountdown"		"40"
+
 	}
 	">>> Gate will close in 10 seconds <<<"
 	{

@@ -11,7 +11,6 @@
 	"*Gate 2 will open in 30 sec*"
 	{
 		"chi"		"**二号大门将在30秒后打开 **"
-		"DoorCountdown"		"30"
 	}
 	"*Gate 2 Opening*"
 	{
@@ -20,7 +19,6 @@
 	"*Defend here for 20 seconds*"
 	{
 		"chi"		"**在这里守住20秒 **"
-		"DoorCountdown"		"20"
 	}
 	"*10 Seconds to prepare before zombies released*"
 	{
@@ -29,7 +27,6 @@
 	"*Survive for 60 seconds, Good Luck*"
 	{
 		"chi"		"**生存60秒，祝你好运 **"
-		"DoorCountdown"		"60"
 	}
 	"*FALL BACK*"
 	{
@@ -42,7 +39,6 @@
 	"*Defend up here for 40 seconds*"
 	{
 		"chi"		"**在这里守住40秒 **"
-		"DoorCountdown"		"40"
 	}
 	"*RUN! Zombies released in 15 seconds*"
 	{
@@ -51,7 +47,6 @@
 	"*Defend for 30 seconds - DO NOT LET ZOMBIES GET THROUGH*"
 	{
 		"chi"		"**守住30秒 - 不要让僵尸过来 **"
-		"DoorCountdown"		"30"
 	}
 	"***Stage 2 - Within the Ruin***"
 	{
@@ -64,7 +59,6 @@
 	"*Defend here for 30 seconds*"
 	{
 		"chi"		"**在这里守住30秒 **"
-		"DoorCountdown"		"30"
 	}
 	"*Zombies released in 12 seconds*"
 	{
@@ -97,17 +91,14 @@
 	"*Anima uses LASER*"
 	{
 		"chi"		"**亡灵释放了跳刀**"
-		"ico"		"icon_fire"
 	}
 	"*Anima uses COLLAPSE*"
 	{
 		"chi"		"**亡灵使用了塌陷 **"
-		"ico"		"icon_fire"
 	}
 	"*Anima uses PAIN*"
 	{
 		"chi"		"**亡灵使用了疼痛 **"
-		"ico"		"icon_fire"
 	}
 	"*Half of Animas HP remains*"
 	{
@@ -116,22 +107,18 @@
 	"*Anima uses FORCE*"
 	{
 		"chi"		"**亡灵使用了推力 **"
-		"ico"		"icon_fire"
 	}
 	"*Anima uses DEMISE*"
 	{
 		"chi"		"**亡灵使用了抹除 **"
-		"ico"		"icon_fire"
 	}
 	"*Anima uses Gods Spear*"
 	{
 		"chi"		"**亡灵使用了神矛 **"
-		"ico"		"icon_fire"
 	}
 	"*Anima uses Crystal*"
 	{
 		"chi"		"**亡灵使用了水晶 **"
-		"ico"		"icon_fire"
 	}
 	"*Defend for 30 seconds*"
 	{

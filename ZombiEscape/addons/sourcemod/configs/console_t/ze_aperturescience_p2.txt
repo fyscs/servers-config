@@ -23,7 +23,6 @@
 	"--Survive 30 seconds!--"
 	{
 		"chi"		"防守30S！~"
-		"DoorCountdown"		"30"
 	}
 	"--YES____      NO_____--"
 	{
@@ -84,7 +83,6 @@
 	"--Doors clossing in 5--"
 	{
 		"chi"		"大门在5秒后关闭"
-		"DoorCountdown"		"5"
 	}
 	"--Doors closed--"
 	{
@@ -109,7 +107,6 @@
 	"--Office doors open in 20 seconds--"
 	{
 		"chi"		"工作室的门将会在20秒后打开"
-		"DoorCountdown"		"20"
 	}
 	"--Hold this position from any zombies--"
 	{
@@ -146,7 +143,6 @@
 	"--Protect yourself from the zombies for 60 seconds!--"
 	{
 		"chi"		"坚守僵尸60秒"
-		"DoorCountdown"		"60"
 	}
 	"--Zombie teleport in 25 secs!--"
 	{
@@ -203,7 +199,6 @@
 	"***Human door opening in 15s***"
 	{
 		"chi"		"人类大门将在15秒后打开"
-		"DoorCountdown"		"15"
 	}
 	"***CURRENT DIFFICULTY IS NORMAL***"
 	{

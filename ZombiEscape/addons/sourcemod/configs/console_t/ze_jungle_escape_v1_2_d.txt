@@ -7,7 +7,7 @@
 	"**Rocks breaking in 25 seconds!**"
 	{
 		"chi"		"**石头们将在25秒后裂开**"
-		"DoorCountDown"		"25"
+
 	}
 	"**Rocks breaking in 10 seconds!**"
 	{
@@ -32,7 +32,7 @@
 	"**Defend for 45 seconds!**"
 	{
 		"chi"		"**在这里守住僵尸45秒！**"
-		"DoorCountDown"		"45"
+
 	}
 	"**25 seconds are left**"
 	{
@@ -61,7 +61,7 @@
 	"**The path will be free in 15 seconds**"
 	{
 		"chi"		"**道路在15秒后可以通过**"
-		"DoorCountDown"		"15"
+
 	}
 	"**5 SECONDS ARE LEFT!**"
 	{
@@ -82,7 +82,7 @@
 	"**Defend for 15 seconds!**"
 	{
 		"chi"		"**守住僵尸15秒**"
-		"DoorCountDown"		"15"
+
 	}
 	"**Defend 5 seconds!**"
 	{
@@ -99,17 +99,15 @@
 	"**Drop and pick up the items again!**"
 	{
 		"chi"		"**重新捡一下神器啊 笨蛋**"
-		"ico"		"icon_fire"
 	}
 	"**The boat will leave in 30 seconds!**"
 	{
 		"chi"		"**小船将在30秒后启程**"
-		"DoorCountDown"		"30"
+
 	}
 	"**If you still got the crystal throw it into the boat**"
 	{
 		"chi"		"**快把水晶丢到船上！**"
-		"ico"		"icon_fire"
 	}
 	"**20 seconds are left!**"
 	{
@@ -138,7 +136,7 @@
 	"**The path will be cleared in 35 seconds!**"
 	{
 		"chi"		"**道路在35秒后才可以通过**"
-		"DoorCountDown"		"35"
+
 	}
 	"**The path will be cleared in 20 seconds!**"
 	{
@@ -167,7 +165,7 @@
 	"**You pressed the button! The rocks will be removed in 20 seconds!**"
 	{
 		"chi"		"**勇士按下了开关 20秒后我们就可以通过了**"
-		"DoorCountDown"		"20"
+
 	}
 	"**10 seconds are left**"
 	{
@@ -184,7 +182,7 @@
 	"**The path will be free in 30 seconds!**"
 	{
 		"chi"		"**这条路在30秒后可以通过**"
-		"DoorCountDown"		"30"
+
 	}
 	"**Hold for 20 seconds!**"
 	{
@@ -205,7 +203,7 @@
 	"**Defend 30 seconds**"
 	{
 		"chi"		"**守住僵尸30秒**"
-		"DoorCountDown"		"30"
+
 	}
 	"**Defend 20 seconds!**"
 	{
@@ -230,7 +228,7 @@
 	"**Hold here for 15 seconds!**"
 	{
 		"chi"		"**守住僵尸15秒**"
-		"DoorCountDown"		"15"
+
 	}
 	"**5 seconds left!**"
 	{
@@ -243,12 +241,11 @@
 	"**If you still got the crystal drop it here to recieve unlimmit ammo!**"
 	{
 		"chi"		"**丢掉水晶 人类可以获得无限弹药！**"
-		"ico"		"icon_fire"
 	}
 	"**Perharps if you defend with patience for 45 seconds some deus ex machina will happen**"
 	{
 		"chi"		"**有某种神奇的力量在45秒后出现**"
-		"DoorCountDown"		"45"
+
 	}
 	"** KEEP IT UP! 30 SECONDS LEFT!**"
 	{
@@ -281,7 +278,7 @@
 	"**Gate opening in 20 seconds**"
 	{
 		"chi"		"**大门将在20秒后打开**"
-		"DoorCountDown"		"20"
+
 	}
 	"**Gate opening in 5 seconds**"
 	{
@@ -302,7 +299,7 @@
 	"**Good job you pressed the lever! The door will open in 30 seconds!**"
 	{
 		"chi"		"**奈斯，开关触发，大门30秒后打开！**"
-		"DoorCountDown"		"30"
+
 	}
 	"**15 SECONDS LEFT!**"
 	{
@@ -311,7 +308,7 @@
 	"**Hold 20 seconds!**"
 	{
 		"chi"		"**守住僵尸20秒**"
-		"DoorCountDown"		"20"
+
 	}
 	"**Hold 10 seconds!**"
 	{
@@ -328,7 +325,7 @@
 	"**The gates of the E%ecutor will open in 40 seconds!**"
 	{
 		"chi"		"**执行者的大门将在40秒后打开**"
-		"DoorCountDown"		"40"
+
 	}
 	"**The gates of the E%ecutor will open in 25 seconds!!**"
 	{
@@ -353,7 +350,6 @@
 	"**Drop and pick up your item to make them work again**"
 	{
 		"chi"		"**把神器丢掉再捡起来 嗨呀库**"
-		"ico"		"icon_fire"
 	}
 	"**GET BACK!**"
 	{
@@ -362,17 +358,14 @@
 	"**IF YOU DONT STAY IN THE MIDDLE YOUR DEAD**"
 	{
 		"chi"		"**站在中间**"
-		"ico"		"icon_fire"
 	}
 	"**GO FORWARD!**"
 	{
 		"chi"		"**按住W向前走**"
-		"ico"		"icon_fire"
 	}
 	"**EVADE THE FIRE**"
 	{
 		"chi"		"**躲开火焰**"
-		"ico"		"icon_fire"
 	}
 	">>>Cura bubble has been picked up!<<<"
 	{
@@ -385,7 +378,7 @@
 	"**THE MINES ARE COLLAPSING YOU GOT 50 SECONDS TO ESCAPE**"
 	{
 		"chi"		"**我们只有50秒的时间逃离这里 这里变得晃晃悠悠的**"
-		"DoorCountDown"		"50"
+
 	}
 	"**All wurzel str?ubers have been used!**"
 	{
@@ -426,7 +419,7 @@
 	"**The path will be cleared in 55 seconds**"
 	{
 		"chi"		"**道路将在55秒后才可以通过**"
-		"DoorCountDown"		"55"
+
 	}
 	"**The path will be cleared in 35 seconds**"
 	{
@@ -439,12 +432,12 @@
 	"**The path will be cleared in 13 seconds**"
 	{
 		"chi"		"**道路将在13秒后可以通过**"
-		"DoorCountDown"		"13"
+
 	}
 	"**Defend the top of the temple for 40 seconds!**"
 	{
 		"chi"		"**坚守僵尸40秒**"
-		"DoorCountDown"		"40"
+
 	}
 	"**20 seconds left!**"
 	{
@@ -453,7 +446,7 @@
 	"**HOLD 20 SECONDS**"
 	{
 		"chi"		"**守住僵尸20秒**"
-		"DoorCountDown"		"20"
+
 	}
 	"**ONE HUMAN MUST HEAD UPWARDS TO TRIGGER THE LEVER FOR UNLOCKING THE GATE**"
 	{

@@ -19,7 +19,7 @@
 	"***BlockWall Breaks in 30 seconds!***"
 	{
 		"chi"		"** 两侧门墙 将于 30秒 后开启 注意防守 **"
-		"DoorCountDown"		"30"
+
 	}
 	"***BlockWall is open***"
 	{
@@ -28,12 +28,12 @@
 	"*** Thomp will open in 20 seconds!!***"
 	{
 		"chi"		"** Thomp墙 将于 20秒后 开启 请注意防守 **"
-		"DoorCountDown"		"20"
+
 	}
 	"*** Star Door opens in 20 seconds ***"
 	{
 		"chi"		"** 大门 将于 20秒后 开启 请注意防守 **"
-		"DoorCountDown"		"20"
+
 	}
 	"*** Star Door opens in 10 seconds ***"
 	{
@@ -50,7 +50,7 @@
 	" *** Clouds will raise in 30 seconds ***"
 	{
 		"chi"		"** 云升起 还有 30秒 请注意防守 **"
-		"DoorCountDown"		"30"
+
 	}
 	"*** Clouds will raise in 10 seconds ***"
 	{
@@ -63,7 +63,7 @@
 	"*** Scorch in 30 seconds!!***"
 	{
 		"chi"		"** FFF燃烧大地之术 施法时间还有 30秒 翻译：肉丸 **"
-		"DoorCountDown"		"30"
+
 	}
 	"*** Bowser and his minions are attacking!! ***"
 	{
@@ -72,7 +72,7 @@
 	"*** Clouds will raise in 30 seconds ***"
 	{
 		"chi"		"**云还有30秒升起**"
-		"DoorCountDown"		"30"
+
 	}
 	">>>Respawn wall break in 20 sec<<<"
 	{

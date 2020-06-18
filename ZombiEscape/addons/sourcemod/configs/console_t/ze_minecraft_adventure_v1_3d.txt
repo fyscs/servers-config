@@ -7,7 +7,7 @@
 	"*** DEFEND 25 SECONDS ***"
 	{
 		"chi"		"**防守25秒**"
-		"DoorCountDown"		"25"
+
 	}
 	"*** 5 SECONDS REMAINING ***"
 	{
@@ -20,7 +20,7 @@
 	"*** MINECARTS LEAVING IN 25 SEC ***"
 	{
 		"chi"		"**矿车将在25秒后离开**"
-		"DoorCountDown"		"25"
+
 	}
 	"*** MINECARTS LEAVING IN 10 SEC ***"
 	{
@@ -53,7 +53,7 @@
 	"*** TNT EXPLODING IN 20 SEC ***"
 	{
 		"chi"		"**大伊万将在20秒后爆炸**"
-		"DoorCountDown"		"20"
+
 	}
 	"*** TAKE PICKAXE AND BREAK OBSIDIAN TO BUILD PORTAL ***"
 	{
@@ -62,12 +62,12 @@
 	"*** FALL BACK! PORTAL IS ACTIVATING IN 5 SECONDS ***"
 	{
 		"chi"		"**准备撤退!地狱之门将在5秒后激活**"
-		"DoorCountDown"		"5"
+
 	}
 	"*** BUNKER IS CLOSING IN 15 SEC ***"
 	{
 		"chi"		"**米奇妙妙屋将在15秒后关闭**"
-		"DoorCountDown"		"15"
+
 	}
 	"*** BUNKER IS CLOSING ***"
 	{
@@ -84,22 +84,22 @@
 	"*** WALL BREAKS IN 15 SEC ***"
 	{
 		"chi"		"**墙壁将在15秒后破碎 **"
-		"DoorCountDown"		"15"
+
 	}
 	"*** RESIST 15 SECONDS ***"
 	{
 		"chi"		"**防守15秒**"
-		"DoorCountDown"		"15"
+
 	}
 	"*** RESIST 10 SECONDS ***"
 	{
 		"chi"		"**防守10秒**"
-		"DoorCountDown"		"10"
+
 	}
 	"***RESIST 20 SECONDS***"
 	{
 		"chi"		"**防守20秒**"
-		"DoorCountDown"		"20"
+
 	}
 	"***5 SECONDS REMAINING***"
 	{
@@ -108,17 +108,17 @@
 	"*** RESIST 20 SECONDS ***"
 	{
 		"chi"		"**防守20秒**"
-		"DoorCountDown"		"20"
+
 	}
 	"*** RESIST 25 SECONDS ***"
 	{
 		"chi"		"**防守25秒**"
-		"DoorCountDown"		"25"
+
 	}
 	"*** HOLD NETHERFORTRESS 30 SECONDS ***"
 	{
 		"chi"		"**守卫住米奇不妙屋30秒**"
-		"DoorCountDown"		"30"
+
 	}
 	"*** EVERYONE GET INSIDE! ***"
 	{
@@ -139,7 +139,7 @@
 	"*** 40 SECONDS REMAINING ***"
 	{
 		"chi"		"**剩余40秒**"
-		"DoorCountDown"		"40"
+
 	}
 	"*** 30 SECONDS REMAINING ***"
 	{
@@ -152,7 +152,7 @@
 	"*** 20 SECONDS REMAINING ***"
 	{
 		"chi"		"**剩余20秒**"
-		"DoorCountDown"		"20"
+
 	}
 	"*** 10 SECONDS REMAINING ***"
 	{
@@ -177,12 +177,12 @@
 	"*** DEFEND 25 SECONDS ***"
 	{
 		"chi"		"***防守25秒***"
-		"DoorCountDown"		"25"
+
 	}
 	"*** WALLS BREAK IN 15 SEC ***"
 	{
 		"chi"		"***墙壁将在15秒后碎裂***"
-		"DoorCountDown"		"15"
+
 	}
 	"*** HUMANS WON! MOVING ON TO STAGE 3 ***"
 	{
@@ -203,7 +203,7 @@
 	"*** WELL DONE! NEXT DOOR IS OPENING IN 30SEC ***"
 	{
 		"chi"		"**墙壁将在30秒后破裂,在这之前继续防守僵尸**“留意路上的断口”"
-		"DoorCountDown"		"30"
+
 	}
 	"*** NEXT DOOR OPENS IN 20 SECONDS ***"
 	{
@@ -232,7 +232,7 @@
 	"*** DOOR OPENS IN 20 SEC ***"
 	{
 		"chi"		"**大门将在20秒后打开 **"
-		"DoorCountDown"		"20"
+
 	}
 	"*** DEFEND FOR 40 SEC OR PRESS 2 BUTTONS AT THE SAME TIME ***"
 	{
@@ -293,7 +293,7 @@
 	"*** RESIST FOR 30 SECONDS ***"
 	{
 		"chi"		"**防守30秒**“逃生路线在一楼，请勿随便走动”"
-		"DoorCountDown"		"30"
+
 	}
 	"*** FALL BACK 5 SECONDS REMAINING ***"
 	{
@@ -362,7 +362,7 @@
 	"*** RESIST 30 SECONDS ***"
 	{
 		"chi"		"**防守30秒**"
-		"DoorCountDown"		"30"
+
 	}
 	"*** KILL ZOMBIES ON TOP!  ***"
 	{
@@ -371,7 +371,7 @@
 	"*** WELL DONE! NEXT DOOR OPENS IN 5 SEC ***"
 	{
 		"chi"		"**做得好!下一扇门将在5秒后打开**"
-		"DoorCountDown"		"5"
+
 	}
 	"Hes watching you..."
 	{

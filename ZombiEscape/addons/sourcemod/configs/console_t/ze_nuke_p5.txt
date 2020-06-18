@@ -3,7 +3,7 @@
 	"Please wait 20 seconds before the door opening"
 	{
 		"chi"		"**请耐心等待 20 秒**"
-		"DoorCountDown"		"20"
+
 	}
 	"Welcome ! Map made by Valve and zombified by Obscuri"
 	{
@@ -40,7 +40,7 @@
 	"***20 SECONDS FOR TELEPORT***"
 	{
 		"chi"		"**坚守 20 秒直至传送。**"
-		"DoorCountDown"		"20"
+
 	}
 	"***5 SECONDS FOR TELEPORT***"
 	{
@@ -69,7 +69,7 @@
 	"***HOLD 25 SECONDS***"
 	{
 		"chi"		"**坚持 25 秒！！！**"
-		"DoorCountDown"		"25"
+
 	}
 	"Warning! Overloading of reactor."
 	{
@@ -82,7 +82,7 @@
 	"***TRUCK LEAVING IN 20 SECONDS***"
 	{
 		"chi"		"**距卡车离开还有 20 秒！**"
-		"DoorCountDown"		"20"
+
 	}
 	"Contact me at obscuri@obsmail.tk"
 	{

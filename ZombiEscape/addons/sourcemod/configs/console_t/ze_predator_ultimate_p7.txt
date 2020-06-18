@@ -23,7 +23,7 @@
 	"***HOLD FOR 50 SECONDS***"
 	{
 		"chi"		"** 防守僵尸50秒 **"
-		"DoorCountDown"		"50"
+
 	}
 	"***Fall back***"
 	{
@@ -104,7 +104,7 @@
 	"***Hold for 30 seconds***"
 	{
 		"chi"		"** 抵御30秒 **"
-		"DoorCountDown"		"30"
+
 	}
 	"***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
 	{
@@ -113,7 +113,7 @@
 	"***HOLD THIS AREA FOR 40 SECONDS***"
 	{
 		"chi"		"** 防守僵尸40秒 **"
-		"DoorCountDown"		"40"
+
 	}
 	"***TELEPORTING EVERYONE TO RUINS***"
 	{
@@ -130,7 +130,7 @@
 	"***PLAYER PICKED UP GAUSS RIFLE***"
 	{
 		"chi"		"** 高斯狙击枪被拾取 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"***FIRST AID PICKED UP***"
 	{
@@ -199,12 +199,12 @@
 	"***PLAYER PICKED UP GRENADE LAUNCHER***"
 	{
 		"chi"		"** 榴弹发射器被拾取 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"***PLAYER PICKED UP AMMO DISPENSER***"
 	{
 		"chi"		"** 弹药箱被拾取 **"
-		"DoorCountDown"		"-1"
+
 	}
 	"***PLAYER PICKED UP PUSH GUN***"
 	{
@@ -217,7 +217,7 @@
 	"***HOLD 30 SECONDS***"
 	{
 		"chi"		"** 抵御僵尸30秒 **"
-		"DoorCountDown"		"30"
+
 	}
 	"***5***"
 	{
@@ -282,7 +282,7 @@
 	"***Hold for 20 seconds***"
 	{
 		"chi"		"** 抵御20秒 **"
-		"DoorCountDown"		"20"
+
 	}
 	"***ITS THE PREDATOR!***"
 	{
@@ -351,7 +351,7 @@
 	"***HOLD THIS AREA FOR 20 SECONDS***"
 	{
 		"chi"		"** 在这个区域守住20秒 **"
-		"DoorCountDown"		"20"
+
 	}
 	"***15 SECONDS LEFT***"
 	{

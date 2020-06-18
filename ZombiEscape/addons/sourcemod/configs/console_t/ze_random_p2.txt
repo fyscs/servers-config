@@ -43,7 +43,7 @@
 	"***Door breaking in 10secs!***"
 	{
 		"chi"		"**木门10秒后破碎**"
-		"DoorCountdown"		"10"
+
 	}
 	"***Hurry through the warehouse while the carpet passes under!***"
 	{
@@ -64,7 +64,7 @@
 	"***Zombie barrier breaking in 20secs get moving!***"
 	{
 		"chi"		"**僵尸将在20秒后突破铁门**"
-		"DoorCountdown"		"20"
+
 	}
 	"***Hold these crates while someone breaks the barrier and gets the couch going!***"
 	{
@@ -149,7 +149,7 @@
 	"***Cargo door opening in 15secs!***"
 	{
 		"chi"		"**15秒后打开货舱门！**"
-		"DoorCountdown"		"15"
+
 	}
 	"***Emergency doors closing in 10secs!***"
 	{
@@ -158,12 +158,12 @@
 	"***Boxcar door opening in 10secs!***"
 	{
 		"chi"		"**货舱门将在10秒后打开！**"
-		"DoorCountdown"		"10"
+
 	}
 	"***Final express door opening in 25secs!***"
 	{
 		"chi"		"**最后的门将在25秒后打开**"
-		"DoorCountdown"		"25"
+
 	}
 	"***LEVEL-- CITY NIGHT ESCAPE***"
 	{
@@ -172,7 +172,7 @@
 	"***Elevator 1 coming in 10secs!***"
 	{
 		"chi"		"**1号电梯门10秒后打开**"
-		"DoorCountdown"		"10"
+
 	}
 	"***Elevator 1 leaving in 5secs!***"
 	{
@@ -281,7 +281,7 @@
 	"***Zombie will arrive in 10secs!***"
 	{
 		"chi"		"**僵尸10秒后抵达**"
-		"DoorCountdown"		"10"
+
 	}
 	"***Split up on each side or group up on one! Just keep the zombies back until the valves on both sides are unlocked!*** "
 	{
@@ -322,7 +322,7 @@
 	"***Defend for 35secs as the Carpet...refuels...?***"
 	{
 		"chi"		"**守卫魔毯35秒...**"
-		"DoorCountdown"		"35"
+
 	}
 	"***Carpet leaves in 5secs!***"
 	{
@@ -339,7 +339,7 @@
 	"***Hold the sign for 20secs!***"
 	{
 		"chi"		"** 守住这个位置20秒**"
-		"DoorCountdown"		"20"
+
 	}
 	"***FINAL BOSS INCOMING!***"
 	{
@@ -392,7 +392,7 @@
 	"***PORTAL COLLAPSING IN 10secs!! ***"
 	{
 		"chi"		"** 球型传送门10秒后消失**"
-		"DoorCountdown"		"10"
+
 	}
 	"***JUMP INTO THE ORB!!***"
 	{

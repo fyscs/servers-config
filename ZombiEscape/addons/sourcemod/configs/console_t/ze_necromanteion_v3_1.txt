@@ -183,27 +183,27 @@
 	"***Only the chosen one can live***"
 	{
 		"chi"		"**只有天选之人才能活下来**"
-		"DoorCountdown"		"10"
+
 	}
 	"***You are too weak***"
 	{
 		"chi"		"**你们太弱了!!!**"
-		"DoorCountdown"		"8"
+
 	}
 	"***Lets do a test***"
 	{
 		"chi"		"**让我们试一试吧!!!!**"
-		"DoorCountdown"		"7"
+
 	}
 	"***Show me your strength***"
 	{
 		"chi"		"**让我看看你们到底几斤几两**"
-		"DoorCountdown"		"5"
+
 	}
 	"***Beware***"
 	{
 		"chi"		"**目视前方**"
-		"DoorCountdown"		"3"
+
 	}
 	"***Congratulation!!!!***"
 	{
@@ -460,27 +460,27 @@
 	"***SUPERNOVA***"
 	{
 		"chi"		"**超新星**"
-		"DoorCountdown"		"2"
+
 	}
 	"***SERVANTS***"
 	{
 		"chi"		"**尸笼**"
-		"DoorCountdown"		"2"
+
 	}
 	"***SABER***"
 	{
 		"chi"		"**利刃**"
-		"DoorCountdown"		"2"
+
 	}
 	"***BLACK HOLE***"
 	{
 		"chi"		"**黑洞**"
-		"DoorCountdown"		"2"
+
 	}
 	"***DEATH LIGHT***"
 	{
 		"chi"		"**死亡光线**"
-		"DoorCountdown"		"2"
+
 	}
 	"***You take too much of time!!!***"
 	{
@@ -525,10 +525,6 @@
 	"***30s left***"
 	{
 		"chi"		"**倒计时30秒**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"72694"
 	}
 	"***Hold them for 1 minute***"
 	{

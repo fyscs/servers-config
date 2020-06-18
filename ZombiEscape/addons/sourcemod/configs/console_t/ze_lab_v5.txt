@@ -7,7 +7,6 @@
 	">>>Door open in 40 seconds<<<"
 	{
 		"chi"		"**还有40秒后打开大门!射击僵尸!**"
-		"Countdown"		"40"
 	}
 	">>>Gate will open in 40 seconds!<<<"
 	{
@@ -100,7 +99,7 @@
 	">>>Door close in 5s<<<"
 	{
 		"chi"		"**5秒后关门!准备撤退!**"
-		"DoorCountDown"		"5"
+
 	}
 	">>>Teleport initializing<<<"
 	{

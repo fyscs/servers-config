@@ -107,7 +107,7 @@
 	"***DEFEND THE STAIRS FOR 40 SECONDS***"
 	{
 		"chi"		"**在阶梯处防守40秒**"
-		"DoorCountdown"		"40"
+
 	}
 	"***FALL BACK***"
 	{
@@ -320,7 +320,7 @@
 	"***HOLD THEM BACK FOR 60 SECONDS***"
 	{
 		"chi"		"**守住60秒**"
-		"DoorCountdown"		"60"
+
 	}
 	"***TIP - DEFEND AND SLOW THE ZOMBIES DOWN ALONG THE WAY***"
 	{
@@ -357,7 +357,7 @@
 	"***THE CAVES WILL COLLAPSE IN 20 SECONDS***"
 	{
 		"chi"		"**洞穴20秒后坍塌**"
-		"DoorCountdown"		"20"
+
 	}
 	"***HOLD THEM OFF***"
 	{
@@ -398,7 +398,7 @@
 	"***THE ELEVATOR IS LEAVING IN 30 SECONDS***"
 	{
 		"chi"		"**电梯30秒后离开**"
-		"DoorCountdown"		"30"
+
 	}
 	"***TIP -- DEFEND AS EARLY ON AS POSSIBLE***"
 	{
@@ -411,7 +411,7 @@
 	"***THE ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
 		"chi"		"**电梯20秒后离开**"
-		"DoorCountdown"		"20"
+
 	}
 	"***THE ELEVATOR IS LEAVING IN 10 SECONDS***"
 	{
@@ -428,7 +428,7 @@
 	"***HOLD OUT FOR 30 SECONDS***"
 	{
 		"chi"		"**守住30秒**"
-		"DoorCountdown"		"30"
+
 	}
 	"***20 SECONDS LEFT***"
 	{
@@ -449,7 +449,7 @@
 	"***Defend for 20 seconds***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountdown"		"20"
+
 	}
 	"***SOMETHING IS CHASING US***"
 	{
@@ -462,7 +462,7 @@
 	"***STAND YOUR GROUND FOR 20 SECONDS***"
 	{
 		"chi"		"**坚守这个地方20秒**"
-		"DoorCountdown"		"20"
+
 	}
 	"***ITS COMING***"
 	{
@@ -483,7 +483,7 @@
 	"***THE ELEVATOR WILL ASCEND IN 20 SECONDS***"
 	{
 		"chi"		"**电梯将在20秒后上升**"
-		"DoorCountdown"		"20"
+
 	}
 	"***THE ELEVATOR WILL ASCEND IN 10 SECONDS***"
 	{
@@ -504,7 +504,7 @@
 	"***HOLD HERE FOR 15 SECONDS***"
 	{
 		"chi"		"**在这里守住15秒**"
-		"DoorCountdown"		"15"
+
 	}
 	"***TIP -- A STRONG ENOUGH ITEM COULD BREAK THE SNOW***"
 	{
@@ -521,7 +521,7 @@
 	"***HOLD FOR 20 seconds***"
 	{
 		"chi"		"**守住20秒**"
-		"DoorCountdown"		"20"
+
 	}
 	"***STAND BACK***"
 	{
@@ -542,7 +542,7 @@
 	"***HOLD HERE FOR 20 SECONDS***"
 	{
 		"chi"		"**在这里守住20秒**"
-		"DoorCountdown"		"20"
+
 	}
 	"***THE TITAN IS MOVING***"
 	{
@@ -551,7 +551,7 @@
 	"***DEFEND FOR 15 SECONDS***"
 	{
 		"chi"		"**守住15秒**"
-		"DoorCountdown"		"15"
+
 	}
 	"***HOLD YOUR GROUND HERE***"
 	{
@@ -613,10 +613,6 @@
 	{
 		"chi"		"**调关房-阶段六**"
 	}
-	"sync_version"
-	{
-		"syncvalue"		"47543"
-	}
 	"***BRIDGE IS LOWERING***"
 	{
 		"chi"		"**桥已降下**"
@@ -624,7 +620,7 @@
 	"***THE ELEVATOR WILL ASCEND IN 30 SECONDS***"
 	{
 		"chi"		"** **"
-		"DoorCountdown"		"30"
+
 	}
 	"The server is about to close the update ,Please update your game"
 	{

@@ -4,10 +4,6 @@
 	{
 		"chi"		"**当前难度：萌新**"
 	}
-	"sync_version"
-	{
-		"syncvalue"		"37679"
-	}
 	"*** Map by : Airvulpes ***"
 	{
 		"chi"		"**地图制作：Airvulpes 地图翻译：小三@风云社 **"
@@ -15,7 +11,7 @@
 	"*** Door Opens in 15 seconds ***"
 	{
 		"chi"		"**大门15秒后打开**"
-		"DoorCountDown"		"15"
+
 	}
 	"*** Door Opens in 5 seconds ***"
 	{
@@ -24,17 +20,17 @@
 	"*** Door opens in 25 seconds ***"
 	{
 		"chi"		"**大门25秒后打开**"
-		"DoorCountDown"		"25"
+
 	}
 	"*** Door opens in 30 seconds ***"
 	{
 		"chi"		"**大门30秒后打开**"
-		"DoorCountDown"		"30"
+
 	}
 	"*** Door Closes in 20 seconds ***"
 	{
 		"chi"		"**大门20秒后关闭**"
-		"DoorCountDown"		"20"
+
 	}
 	"*** STAGE COMPLETED ***"
 	{
@@ -47,7 +43,7 @@
 	"*** Door Opens in 20 seconds ***"
 	{
 		"chi"		"**大门20秒后打开**"
-		"DoorCountDown"		"20"
+
 	}
 	"!!! KILL ALL ZOMBIES !!!"
 	{

@@ -15,7 +15,7 @@
 	"** Something moved upon touching the gem... **"
 	{
 		"chi"		"**谁触碰了白色宝石...?好像有什么事情要发生了...** “25”"
-		"DoorCountDown"		"25"
+
 	}
 	"** A relay of sorts seems to be moving in the back -- wait for something to happen! **"
 	{
@@ -28,7 +28,7 @@
 	"** We gotta hold our ground over here! **"
 	{
 		"chi"		"**守住这里** “20”"
-		"DoorCountDown"		"20"
+
 	}
 	"** This platform seems like some sort of lift -- do not let anything through!**"
 	{
@@ -41,7 +41,7 @@
 	"** The temple seems to rely on elevators upon elevators... **"
 	{
 		"chi"		"**这个古城依靠着奇怪的电梯搭载生物...** “30”"
-		"DoorCountDown"		"30"
+
 	}
 	"** Keep it up! We cannot afford to have them break through! **"
 	{
@@ -50,7 +50,7 @@
 	"** We reached the first sacred seal! The path should clear soon! **"
 	{
 		"chi"		"**第一封印区域已解除,道路应该很快就打开了** “27”"
-		"DoorCountDown"		"27"
+
 	}
 	"** The temple may become far more ruthless from this point on... **"
 	{
@@ -59,7 +59,7 @@
 	"** HURRY BACK! The volcano is about to explode! **"
 	{
 		"chi"		"**火山即将爆发!尽快搭乘电梯前往顶部** “32”"
-		"DoorCountDown"		"32"
+
 	}
 	"** We must get to the top! **"
 	{
@@ -72,17 +72,17 @@
 	"** It shouldnt be hard to reach the summit! **"
 	{
 		"chi"		"**登上山顶应该不难**"
-		"DoorCountDown"		"0"
+
 	}
 	"** We are almost on the summit! The sacred city of Tot-ghul Ka awaits in the horizon! **"
 	{
 		"chi"		"**塔顶快到了,可以看到古代遗迹清晰的坐落在地平线上** “25”"
-		"DoorCountDown"		"25"
+
 	}
 	"** One more push! HOLD IT! **"
 	{
 		"chi"		"**释放宝石的能量并守住邪灵**"
-		"DoorCountDown"		"18"
+
 	}
 	"** This is the second seal! A way should appear for us to reach Tot-ghul Ka will open shortly! **"
 	{
@@ -103,7 +103,7 @@
 	"** This is the third seal! The gates will open soon! **"
 	{
 		"chi"		"**第三封印区域已解除!古代遗迹的门即将打开** “50”"
-		"DoorCountDown"		"50"
+
 	}
 	"** First the entrance will fold, then the inner plaza will show itself to us! **"
 	{
@@ -144,10 +144,6 @@
 	"** We cracked the last seal! Our escape pod should be here soon! **"
 	{
 		"chi"		"**最后的封印解除了,救援很快就会到达**"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"6328"
 	}
 	"** A SEAL WAS TAINTED BY THE INFECTED! THE GODS ARE ANGERED! **"
 	{

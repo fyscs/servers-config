@@ -43,7 +43,7 @@
 	">>> THE BOARDING PLATFORM EXTENDS IN 35 SECONDS <<<"
 	{
 		"chi"		"**平台在35秒后伸展通过! **"
-		"DoorCountDown"		"35"
+
 	}
 	"> ROCKET LAUNCHER has been acquired"
 	{
@@ -76,7 +76,6 @@
 	">>> SHOOTING THE CARGO HOLD DOES NOTHING! TRY TO DESTROY THE ENGINE OR KILL THE DRIVER! <<<"
 	{
 		"chi"		"**别打了!！快摧毁发动机or kill前面的司机！ **"
-		"ico"		"icon_fire"
 	}
 	">>> THE REAR DOOR HAS BEEN OPENED <<<"
 	{
@@ -101,7 +100,7 @@
 	">>> SIDE DOORS OPEN IN 45 SECONDS <<<"
 	{
 		"chi"		"**侧门将在45秒后开启！坚持住! **"
-		"DoorCountDown"		"45"
+
 	}
 	">>> SIDE DOORS OPEN IN 20 SECONDS <<<"
 	{
@@ -122,7 +121,7 @@
 	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 40 SECONDS <<<"
 	{
 		"chi"		"**XX号豪华轿车将在在40秒后打开舱口 **"
-		"DoorCountDown"		"40"
+
 	}
 	">>> N.E.X.U.S. TRAILER HATCH OPENS IN 20 SECONDS <<<"
 	{
@@ -179,7 +178,7 @@
 	">>> EXPLOSION IN 40 SECONDS <<<"
 	{
 		"chi"		"**炸弹还有40秒爆炸!离炸弹远点!会被炸死的! **"
-		"DoorCountDown"		"40"
+
 	}
 	">>> EXPLOSION IN 20 SECONDS <<<"
 	{
@@ -188,7 +187,6 @@
 	">>> EXPLOSION IN 5 SECONDS <<<"
 	{
 		"chi"		"**炸弹将在5秒后爆炸!憨憨们看看提示!别贴着炸弹! **"
-		"ico"		"icon_fire"
 	}
 	">>> YOU MUST OPEN THE REAR DOOR OF THE REPAIR VESSEL <<<"
 	{
@@ -241,10 +239,6 @@
 	">>> MOVING BACK TO NOVICE DIFFICULTY <<<"
 	{
 		"chi"		"**回到新手难度 **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"26351"
 	}
 	"> LIGHTNING RIFLE has been acquired"
 	{

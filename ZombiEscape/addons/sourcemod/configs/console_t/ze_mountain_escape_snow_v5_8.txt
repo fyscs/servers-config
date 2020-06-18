@@ -103,7 +103,7 @@
 	"** 15 SECONDS BEFORE EVERYONE FREEZES TO DEATH!  **"
 	{
 		"chi"		"**15秒之后每个人都将死亡 **"
-		"DoorCountDown"		"15"
+
 	}
 	"75 . STAGGER"
 	{
@@ -152,12 +152,10 @@
 	"***Break all walls and boxes with sofa***"
 	{
 		"chi"		"**用沙发打破所有的箱子和铁丝网 **"
-		"ico"		"icon_fire"
 	}
 	"***A Train is coming...***"
 	{
 		"chi"		"**火车要来了… **"
-		"ico"		"icon_fire"
 	}
 	"***AFK Teleport in 8 seconds***"
 	{
@@ -226,7 +224,7 @@
 	"***30 SECONDS LEFT***"
 	{
 		"chi"		"**还剩30秒 **"
-		"DoorCountDown"		"30"
+
 	}
 	"***Jump portal opened***"
 	{
@@ -283,7 +281,7 @@
 	"***Teleport Enable in 50 seconds***"
 	{
 		"chi"		"**50秒后激活传送点 **"
-		"DoorCountDown"		"50"
+
 	}
 	"[Music] Xi - Anima"
 	{
@@ -304,12 +302,10 @@
 	"***Wind Casted***"
 	{
 		"chi"		"**BOSS使用了风（按住反方向键） **"
-		"ico"		"icon_fire"
 	}
 	"***Gravity Casted***"
 	{
 		"chi"		"**BOSS使用了黑洞（按住S键） **"
-		"ico"		"icon_fire"
 	}
 	"***Zombie picked up Nuke***"
 	{
@@ -318,12 +314,10 @@
 	"***Train aboarded***"
 	{
 		"chi"		"**火车来了 **"
-		"ico"		"icon_fire"
 	}
 	"***Ice Casted***"
 	{
 		"chi"		"**BOSS使用了冰 **"
-		"ico"		"icon_fire"
 	}
 	"***Speed picked up***"
 	{
@@ -348,7 +342,7 @@
 	"***Teleport back activates in 50 seconds***"
 	{
 		"chi"		"**50秒后激活传送 **"
-		"DoorCountDown"		"50"
+
 	}
 	"***Go Back to teleport place***"
 	{
@@ -409,12 +403,12 @@
 	"***TELEPORT ACTIATING IN 30 SECONDS***"
 	{
 		"chi"		"**传送30秒后激活 **"
-		"DoorCountDown"		"30"
+
 	}
 	"***Way to Mysterious Room Open in 30 seconds***"
 	{
 		"chi"		"**神秘的房间将在30秒后打开 **"
-		"DoorCountDown"		"30"
+
 	}
 	"***MATEUS HEALED 300 POINTS***"
 	{
@@ -463,7 +457,7 @@
 	"***Teleport back activate in 20 seconds***"
 	{
 		"chi"		"**传送点20秒后重新激活 **"
-		"DoorCountDown"		"20"
+
 	}
 	"***ADMIN CHANGED MODE [NORMAL]***"
 	{
@@ -492,10 +486,6 @@
 	"***ADMIN ENABLE ADDON MODE [METEOR]***"
 	{
 		"chi"		"**管理员启动了插件：天谴 **"
-	}
-	"sync_version"
-	{
-		"syncvalue"		"70357"
 	}
 	"***ADMIN ENABLE ADDON MODE [LOW GRAVITY]***"
 	{
