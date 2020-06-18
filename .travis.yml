@@ -1,0 +1,20 @@
+addons:
+  apt_packages:
+    - p7zip-full
+    - rsync
+
+language: php
+php:
+  - '7.2'
+
+script:
+  - bash CI/validator.sh
+
+notifications:
+  recipients:
+    - kyle@kxnrl.com
+    - 1149873216@qq.com
+    - 834888744@qq.com
+    - 286921966@qq.com
+  on_success: never
+  on_failure: always
