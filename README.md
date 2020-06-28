@@ -16,3 +16,4 @@ Copyright © 2019-2020 FyS. ALL RIGHTS RESERVED.
 - 文本换行符统一为LF
 - 文本保存格式统一保存为UTF8-无BOM
 - KeyValues文件禁止使用中文标点
+- 禁止直接推送到master分支, 优先从PullRequest
