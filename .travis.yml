@@ -1,3 +1,6 @@
+os: linux	os: linux
+dist: focal
+
 addons:
   apt_packages:
     - p7zip-full
