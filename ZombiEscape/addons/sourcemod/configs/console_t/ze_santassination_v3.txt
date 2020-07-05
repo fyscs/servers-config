@@ -1180,6 +1180,7 @@
 	"***YOU HAVE DEFEATED SOCRATES - THE TRUE SANTA!***"
 	{
 		"chi"		"**你打败了灼眼尊者**"
+		"command" "ze_credits_pass_round 12; rank_ze_win_points_humans 15;"
 	}
 	"***YOU WILL BE REMEMBERED AS CHAMPIONS***"
 	{

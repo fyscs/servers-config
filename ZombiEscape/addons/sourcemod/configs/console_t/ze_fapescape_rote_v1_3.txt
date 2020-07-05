@@ -1,0 +1,905 @@
+"Console_T"
+{
+
+    "*** Hold until the path opens ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Hold until the path opens ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Zombie at the end ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** YOU FAIL! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** YOU FAIL! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** CONGRATULATIONS  YOU HAVE BEATEN THE MAP! ***"
+    {
+        "chi" "** **"
+        "command" "ze_credits_pass_round 15; rank_ze_win_points_humans 20;"
+    }
+
+    "*** Hold this position for 20 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Hold this position for 20 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Hold this position for 30 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Hold this position for 30 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** THIS IS THE FINAL HOLD ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** That thing? Leaves in 45 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** 20 SECONDS LEFT ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** 10 SECONDS LEFT ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** 5 SECONDS LEFT ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** THE EVIL EYE IS DEAD ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** NOW IS THE TIME TO ESCAPE ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** NOW IS THE TIME TO ESCAPE ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** THE BOSS IS ABSORBING ALL THE DAMAGE YOU DO ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** DONT SHOOT HIM ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** DONT SHOOT HIM ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** WAIT IT HAS TO BE DEAD NOW RIGHT? ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** THE BOSS IS DEAD ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** THE BOSS IS DEAD ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** WAIT ITS DEAD RIGHT? ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** LOOKS LIKE THE PLATFORM IS BREAKING ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** GET IN THE MIDDLE NOW!! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** GET IN THE MIDDLE NOW!! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Keep holding! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** THE BOSS IS USING HIS ULTIMATE ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** THE BOSS IS USING HIS ULTIMATE ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** SHOOT HIM NOW BEFORE HE WIPES US ALL ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** SHOOT HIM NOW BEFORE HE WIPES US ALL ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** ZOMBIES ON BOARD YOU FAIL! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** ZOMBIES ON BOARD YOU FAIL! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** ZOMBIES ON BOARD YOU FAIL! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Level Completed! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Hold this position for 25 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** 10 more seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Heli leaves in 30 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Heli leaves in 15 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Heli leaves in 5 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** ZOMBIE ON BOARD YOU FAIL ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** ZOMBIE ON BOARD YOU FAIL ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** ZOMBIE ON BOARD YOU FAIL ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Doors open in 35 Seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Doors open in 25 Seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Doors open in 10 Seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Doors are opening ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Doors open in 30 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Doors are opening ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Buttons pressed! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Door opens in 30 seconds! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ****"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ****"
+    {
+        "chi" "** **"
+    }
+
+    "*** Press both buttons at the same time to open the door! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Hold until the path is cleared ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Bridge activates in 30 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Bridge activates in 15 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Hold until the path opens ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Final door opens in 25 seconds! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** This is the final hold ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Hold for 30 seconds! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** 20 more seconds! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** 10 more seconds! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Level Completed! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Level Completed! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Zombie at the end ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** YOU FAIL! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** YOU FAIL! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Doors should open soon ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Almost at the end.. ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** 15 seconds left ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Level 1 ***"
+    {
+        "chi" "** **"
+    }
+
+    "* Turning music on *"
+    {
+        "chi" "** **"
+    }
+
+    "*** Level 2 ***"
+    {
+        "chi" "** **"
+    }
+
+    "* Turning music on *"
+    {
+        "chi" "** **"
+    }
+
+    "*** Level 3 ***"
+    {
+        "chi" "** **"
+    }
+
+    "* Turning music on *"
+    {
+        "chi" "** **"
+    }
+
+    "*** Level 3 ***"
+    {
+        "chi" "** **"
+    }
+
+    "* Turning music on *"
+    {
+        "chi" "** **"
+    }
+
+    "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **"
+    {
+        "chi" "** **"
+    }
+
+    "** Turning on:... **"
+    {
+        "chi" "** **"
+    }
+
+    "*** Level 1 ***"
+    {
+        "chi" "** **"
+    }
+
+    "* Turning music on *"
+    {
+        "chi" "** **"
+    }
+
+    "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **"
+    {
+        "chi" "** **"
+    }
+
+    "** Turning on:... **"
+    {
+        "chi" "** **"
+    }
+
+    "*** Level 2 ***"
+    {
+        "chi" "** **"
+    }
+
+    "* Turning music on *"
+    {
+        "chi" "** **"
+    }
+
+    "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **"
+    {
+        "chi" "** **"
+    }
+
+    "** Turning on:... **"
+    {
+        "chi" "** **"
+    }
+
+    "*** Player has picked up Heal ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** It has 1 use ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Player has picked up Lego Maker ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** It has 10 uses ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Player has picked up Pushgun ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** It has unlimited uses ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Player has picked up Electro gun ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** It has fuel for 10 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Player has picked up Flamethrower ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** It has 10 uses ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Player has picked up Ammo Box ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** It has unlimited uses ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Player has picked up EyeTech Launcher ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** It has 10 uses ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Player has picked up Pipe bombs ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** It has 5 uses ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Player has picked up EyeTech Cannon ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** It has unlimited uses ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Hold until the path is cleared ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK NOW!! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK NOW!! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Door opens in 25 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Door opens in 10 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Door is opening ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Door should open quickly ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Keep holding ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Hold them back for 10 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Just a little bit more! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Keep holding them back! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** This is the final hold point! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Hold them back for final 20 seconds! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** 10 seconds left ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Zombie at the end ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** YOU FAIL! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** YOU FAIL! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Level Completed! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Level Completed! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Elevator leaves in 25 seconds *** "
+    {
+        "chi" "** **"
+    }
+
+    "*** Elevator leaves in 15 seconds *** "
+    {
+        "chi" "** **"
+    }
+
+    "*** Elevator leaves in 5 seconds *** "
+    {
+        "chi" "** **"
+    }
+
+    "*** Elevators leave in 25 seconds *** "
+    {
+        "chi" "** **"
+    }
+
+    "*** Elevators leave in 15 seconds *** "
+    {
+        "chi" "** **"
+    }
+
+    "*** Elevators leave in 5 seconds *** "
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ****"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ****"
+    {
+        "chi" "** **"
+    }
+
+    "*** Door opens in 25 seconds! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Buttons pressed! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Hold them back for 10 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Keep holding until the doors close! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Doors are opening in 25 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** RESIST ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** RESIST ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Doors are opening in 15 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Doors are opening in 5 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Hold a bit more! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Path will open shortly! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Hold this position for awhile! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Just a little bit more! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Doors are opening! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Elevator descends in 20 seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** HOLD THEM BACK  ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** One final hold! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** That thing? should leave soon! ***"
+    {
+        "chi" "** **"
+    }
+
+}
