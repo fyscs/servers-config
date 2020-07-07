@@ -294,7 +294,11 @@
 	}
 	">>> IFRIT USED METEOR FALLS <<<"
 	{
-		"chi"		"流星爆破 “远离地上特效”"
+		"chi"		"火焰叫兽在随地大便 “远离地上特效”"
+	}
+	">>> IFRIT USE BEAM <<<"
+	{
+		"chi"		"火焰叫兽:奥特射线"
 	}
 	">>> BREAK THEM <<<"
 	{
@@ -323,10 +327,6 @@
 	">>> ROUTE 2 : HOLD 20 SECONDS <<<"
 	{
 		"chi"		"路线二:防守20秒"
-	}
-	">>> IFRIT USE BEAM <<<"
-	{
-		"chi"		"火焰叫兽:奥特射线"
 	}
 	">>> GET AWAY FROM GRATE <<<"
 	{
