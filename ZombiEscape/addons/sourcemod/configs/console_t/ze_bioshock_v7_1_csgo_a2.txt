@@ -1,0 +1,368 @@
+//生化奇兵v71_a2 翻译测试第一次
+"Console_T"
+{
+		"*AFK teleport in 5s*"
+		{
+		"chi"               "*缝合者将于5秒后传送*"
+		}
+		">>A second route into Hephaestus has been revealed<<"
+		{
+		"chi"               ">>第二条通往赫菲斯托斯工厂的路线已经被发现<<"
+		}
+		">>You were too slow. FAILURE<<"
+		{
+		"chi"               ">>太迟了！你失败了！<<"
+		}
+		"That's a Little Sister. Looks like she's alone..."
+		{
+		"chi"               "这有一个落单的小妹妹 她看起来十分孤独..."
+		}
+		">>>Introduction Complete<<<"
+		{
+		"chi"               ">>>简介完毕<<<"
+		}
+		">>TIP #6: Gene Tonics take effect on death. Don't die in vain!<<"
+		{
+		"chi"               ">>提示六：基因突破剂会在死亡时生效 危难时或许需要两次英勇的牺牲！<<"
+		}
+		">>TIP #5: Little Sister can harvest corpses to buff her teammates. Search them out!<<"
+		{
+		"chi"               ">>提示五：小妹妹可以收集尸体上的亚当物质来增益僵尸 仔细搜寻地图！<<"
+		}
+		">>TIP #4: Upgrade your Plasmids at Power to the People stations. Upgrades are PERMANENT. Choose carefully!<<"
+		{
+		"chi"               ">>提示四：可以通过地图上的一次性升级站永久升级质体 斟酌升级！<<"
+		}
+		">>TIP #3: Plasmids are limited use. Keep count!<<"
+		{
+		"chi"               ">>提示三：基因质体使用次数是有极限的 谨慎使用！<<"
+		}
+		">>TIP #2: Repeated losses will make the map easier. Don't give up!<<"
+		{
+		"chi"               ">>提示二：反复失败会使地图难度降低 不要放弃希望！<<"
+		}
+		">>>Warmup ends in 60 seconds<<<"
+		{
+		"chi"               ">>>热身将于60秒后结束<<<"
+		}
+		">>TIP #1: Vita Chambers are teleport locations. Don't get caught out!<<"
+		{
+		"chi"               ">>提示一：重生室是缝合者的传送点 谨记！<<"
+		}
+		">>1999 is a special mode<<"
+		{
+		"chi"               ">>1999是一个特殊的挑战模式<<"
+		}
+		">>Its long and difficult<<"
+		{
+		"chi"               ">路程较长难度偏高 你需要一命通关 不过是一个好的结局<<"
+		}
+		">>Enjoy it<<"
+		{
+		"chi"               ">>希望你能享受这趟旅途<<"
+		}
+		">>TIP #7: Lost health? Visit a health station to recover it!<<"
+		{
+		"chi"               ">>提示七：血量过低？没关系 注意地图上的恢复站免费治疗<<"
+		}
+		">>Big Sister is after you!<<"
+		{
+		"chi"               ">>大老爹和小妹妹正在寻找你<<"
+		}
+		">>Gene Tonics unlocked<<"
+		{
+		"chi"               ">>基因突破剂已解锁<<"
+		}
+		">>>A Little Sister has been spotted nearby<<<"
+		{
+		"chi"               ">>>小妹妹正在寻找你的踪迹<<<"
+		}
+		">>>The Big Daddy is lurking<<<"
+		{
+		"chi"               ">>>大老爹正在猎杀你<<<"
+		}
+		">>>Chapter complete<<<"
+		{
+		"chi"               ">>>章节完成<<<"
+		}
+		">>>Chapter failed<<<"
+		{
+		"chi"               ">>>章节失败<<<"
+		}
+		">>Nitroglycerin placed in the Pneumo<<"
+		{
+		"chi"               ">>硝化甘油已找到<<"
+		}
+		">>Ionic Gel placed in the Pneumo<<"
+		{
+		"chi"               ">>离子凝胶已找到<<"
+		}
+		">>R-34 Fuse Wire placed in the Pneumo<<"
+		{
+		"chi"               ">>肾上腺素已找到<<"
+		}
+		">>Kyburz' Office discovered<<"
+		{
+		"chi"               ">>凯布尔兹办公室已发现<<"
+		}
+		">>Drop items in the Pneumo Tube<<"
+		{
+		"chi"               ">>将发现的物品丢入进里面<<"
+		}
+		">>They will be transported to the Trophy Room<<"
+		{
+		"chi"               ">>它们将被运输至战利品室<<"
+		}
+		">>>Jump onto the rail!<<<"
+		{
+		"chi"               ">>>快跳上滑轨逃离这里！<<<"
+		}
+		">>>ELIZABETH: This is it! Defend the boat!<<<"
+		{
+		"chi"               ">>>伊丽莎白：我们成功逃出来了！坚守到船开动！<<<"
+		}
+		">>>ELIZABETH: The boat! GET IN THE BOAT<<<"
+		{
+		"chi"               ">>>伊丽莎白：快上船！可以离开了！<<<"
+		}
+		">>>Elizabeth can't close the tear! Teleport in 5 seconds<<<"
+		{
+		"chi"               ">>>伊丽莎白：传送门脱离我的控制了（缝合者将于5秒后传送）<<<"
+		}
+		">>>CONGRATULATIONS!<<<"
+		{
+		"chi"               ">>>恭喜你！<<<"
+		}
+		">>>TRUE ENDING OBTAINED<<<"
+		{
+		"chi"               ">>>你抓住了伊丽莎白的手！你成功救赎了自己！（真实结局已通关）<<<"
+		}
+		">>SECRET: Found the Cage Token<<"
+		{
+		"chi"               ">>秘史：囚禁的鸟笼<<"
+		}
+		">>SECRET: Found the Bird Token<<"
+		{
+		"chi"               ">>秘史: 被囚禁的鸟<<"
+		}
+		">>SECRET: Found the Airship Token<<"
+		{
+		"chi"               ">>秘史：浮空的飞艇<<"
+		}
+		">>>All emblems obtained<<<"
+		{
+		"chi"               ">>所有的秘史已被发掘<<"
+		}
+		">>>Elevator 2 leaves in 5 seconds<<<"
+		{
+		"chi"               ">>>二号电梯将于5秒后启动<<<"
+		}
+		">>SECRET: Found the Vox Populi Token<<"
+		{
+		"chi"               ">>秘史：天籁之音<<"
+		}
+		"***Plasmid upgraded: Electro Bolt 2***"
+		{
+		"chi"               "***基因质体升级：静电二级***"
+		}
+		"***Plasmid upgraded: Electro Bolt 3***"
+		{
+		"chi"               "***基因质体升级：静电三级***"
+		}
+		"***Plasmid obtained: Electro Bolt***"
+		{
+		"chi"               "***基因质体激活：静电一级***"
+		}
+		"***Plasmid upgraded: Incinerate 2***"
+		{
+		"chi"               "***基因质体升级：焚化二级***"
+		}
+		"***Plasmid upgraded: Incinerate 3***"
+		{
+		"chi"               "***基因质体升级：焚化三级***"
+		}
+		"***Plasmid obtained: Incinerate***"
+		{
+		"chi"               "***基因质体激活：焚化一级***"
+		}
+		"***Plasmid upgraded: Sonic Boom 2***"
+		{
+		"chi"               "***基因质体升级：音爆二级***"
+		}
+		"***Plasmid upgraded: Sonic Boom 3***"
+		{
+		"chi"               "***基因质体升级：音爆三级***"
+		}
+		"***Plasmid obtained: Sonic Boom***"
+		{
+		"chi"               "***基因质体激活：音爆一级***"
+		}
+		"***Plasmid upgraded: Gravity Well 2***"
+		{
+		"chi"               "***基因质体升级：重力二级***"
+		}
+		"***Plasmid upgraded: Gravity Well 3***"
+		{
+		"chi"               "***基因质体升级：重力三级***"
+		}
+		"***Plasmid obtained: Gravity Well***"
+		{
+		"chi"               "***基因质体激活：重力一级***"
+		}
+		"***Plasmid upgraded: Winter Blast 2***"
+		{
+		"chi"               "***基因质体升级：寒霜二级***"
+		}
+		"***Plasmid upgraded: Winter Blast 3***"
+		{
+		"chi"               "***基因质体升级：寒霜三级***"
+		}
+		"***Plasmid obtained: Winter Blast***"
+		{
+		"chi"               "***基因质体激活：寒霜一级***"
+		}
+		"***Plasmid upgraded: Insect Swarm 2***"
+		{
+		"chi"               "***基因质体升级：蜂群二级***"
+		}
+		"***Plasmid upgraded: Insect Swarm 3***"
+		{
+		"chi"               "***基因质体升级：蜂群三级***"
+		}
+		"***Plasmid obtained: Insect Swarm***"
+		{
+		"chi"               "***基因质体激活：蜂群一级***"
+		}
+		"*AFK teleport in 3s*"
+		{
+		"chi"               "*缝合者将于3秒后传送*"
+		}
+		">>>Bathysphere door opens in 20 seconds<<<"
+		{
+		"chi"               ">>>赫菲斯托斯工厂逃生舱将于20秒后开启<<<"
+		}
+		">>Splicers haved reached the bomb. FAILURE<<"
+		{
+		"chi"               ">>缝合者破坏了炸药 你失败了！<<"
+		}
+		">>Chapter Completed<<"
+		{
+		"chi"               ">>全章节完成...？<<"
+		}
+		">>Thank you for playing. Try 1999 mode for a true challenge<<"
+		{
+		"chi"               ">>感谢游玩 不过你还可以尝试回到1999改变历史<<"
+		}
+		">>>Bad ending obtained!<<<"
+		{
+		"chi"               ">>>坏结局达成...世界线即将收束...<<<"
+		}
+		">>>Find the secrets for the true ending<<<"
+		{
+		"chi"               ">>>希望你能找到隐藏于销魂城真正的秘密 救赎自己的灵魂...<<<"
+		}
+		">>Cohen has decided to leave you alone<<"
+		{
+		"chi"               ">>科恩决定永远把你埋葬在这里 当心！<<"
+		}
+		"*Splicers have been blocked for 8 seconds*"
+		{
+		"chi"               "*缝合者会被阻挡8秒 快跑！*"
+		}
+		"*Splicers have been blocked for 6 seconds*"
+		{
+		"chi"               "*缝合者会被阻挡6秒*"
+		}
+		"*Splicers have been blocked for 4 seconds*"
+		{
+		"chi"               "*缝合者会被阻挡4秒*"
+		}
+		"*Splicers have been blocked for 2 seconds*"
+		{
+		"chi"               "*缝合者会被阻挡2秒*"
+		}
+		"*Splicers have been freed!*"
+		{
+		"chi"               "*缝合者已被释放！*"
+		}
+		"*ADMIN Room: Next round set to Chapter 1*"
+		{
+		"chi"               "*管理员设定下一回合为章节一：热情好客销魂城*"
+		}
+		"*ADMIN Room: Next round set to Chapter 2*"
+		{
+		"chi"               "*管理员设定下一回合为章节二：人鱼街与欢乐城*"
+		}
+		"*ADMIN Room: Next round set to Chapter 3*"
+		{
+		"chi"               "*管理员设定下一回合为章节三：世外桃源居住区*"
+		}
+		"*ADMIN Room: Next round set to Chapter 4*"
+		{
+		"chi"               "*管理员设定下一回合为章节四：赫菲斯托斯工厂*"
+		}
+		"*ADMIN Room: Next round set to 1999 mode. GOOD LUCK!*"
+		{
+		"chi"               "*管理员设定下一回合为1999 祝你好运！*"
+		}
+		"*ADMIN Room: Difficulty permanently set to EASY*"
+		{
+		"chi"               "*管理员设定永久为简单难度*"
+		}
+		"*ADMIN Room: Difficulty permanently set to HARD*"
+		{
+		"chi"               "*管理员设定永久为困难难度**"
+		}
+		"*ADMIN Room: Set Chapter 4 ending to GOOD*"
+		{
+		"chi"               "*管理员设定第四章为好结局*"
+		}
+		"*ADMIN Room: Set Chapter 4 ending to BAD*"
+		{
+		"chi"               "*管理员设定第四章为坏结局**"
+		}
+		">>AFK teleport in 5 seconds<<"
+		{
+		"chi"               ">>缝合者将于5秒后传送<<"
+		}
+		">>Tip: The Songbird is vulnerable only to headshots. Remember this<<"
+		{
+		"chi"               ">>提示：注意！夜莺的弱点只有头部！！！<<"
+		}
+		">>>Congratulations<<"
+		{
+		"chi"               ">>>恭喜你<<"
+		}
+		">>>Thank you for playing<<"
+		{
+		"chi"               ">>>感谢你的游玩和坚持！<<"
+		}
+		">>>1999 completed<<"
+		{
+		"chi"               ">>>1999已通关 世界线不再收束...<<"
+		}
+		"*ADMIN Room: Slaying CTs*"
+		{
+		"chi"               "*管理员按下人类核爆按钮*"
+		}
+		"*ADMIN Room: Plasmids set to max level*"
+		{
+		"chi"               "*管理员把所有质体等级设置为最高*"
+		}
+		">>>A Patriot is awake. Kill it!<<<"
+		{
+		"chi"               ">>>找掩护！杀掉这个挡路的爱国执法者！<<<"
+		}
+		">>Alternate path is now closed.<<"
+		{
+		"chi"               ">>侧路门正在关闭...<<"
+		}
+		">>>Failure! Zombies are in the boat!<<<"
+		{
+		"chi"               ">>>缝合者破坏了小船...你失败了...<<<"
+		}
+		">>Squid Girl has Invaded!<<"
+		{
+		"chi"               ">>乌贼缝合者已经入侵！<<"
+		}
+}
