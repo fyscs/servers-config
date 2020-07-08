@@ -1027,6 +1027,7 @@
 	"***TAKE A LEAP OF FAITH***"
 	{
 		"chi"		"信仰之跃!"
+		"command" "ze_credits_pass_round 15; rank_ze_win_points_humans 20;"
 	}
 	"***YOU ARE THE ULTIMATE DIDDLERS***"
 	{
