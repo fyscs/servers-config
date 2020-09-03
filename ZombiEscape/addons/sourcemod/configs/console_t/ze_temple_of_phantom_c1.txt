@@ -1,32 +1,44 @@
 "Console_T"
 {
+	"**Freeze enemies around 5 seconds after release**"
+	{
+		"chi"		"5秒后可使用"
+	}
+	" ** ze_templ_of_phantom_v1 **"
+	{
+		"chi"		"ze_temple_of_phantom_v1_x5[幻想神殿]"
+	}
+	"**you only have 350 seconds to kill this dragon**"
+	{
+		"chi"		"你仅有350秒时间去打败四毛哥"
+	}
 	"** The door opens after 3s **"
 	{
 		"chi"		"门将在3秒以后打开"
 	}
 	"** Regional Slave **"
 	{
-		"chi"		"区域的奴隶"
+		"chi"		"黑暗之子“往两边站”"
 	}
 	"** Shadow of Evil **"
 	{
-		"chi"		"有一个邪恶的影子"
+		"chi"		"邪恶影子"
 	}
 	"** Great Earthquake **"
 	{
-		"chi"		"出现了大地震"
+		"chi"		"大地震“向平台中间抵抗”"
 	}
 	"** Sky Roar **"
 	{
-		"chi"		"上天发出了它的愤怒"
+		"chi"		"饿龙咆哮“推力”"
 	}
 	"** Fire Field **"
 	{
-		"chi"		"出现了火场"
+		"chi"		"火场"
 	}
 	"** Lava Rise **"
 	{
-		"chi"		"岩浆正在慢慢的上升"
+		"chi"		"岩浆上升"
 	}
 	"** Teleport after 30s **"
 	{
@@ -38,35 +50,35 @@
 	}
 	"** Freezing air **"
 	{
-		"chi"		"空气正在慢慢的冷冻"
+		"chi"		"冷"
 	}
 	"** scorching sun **"
 	{
-		"chi"		"这片地方出现了太阳"
+		"chi"		"流星"
 	}
 	"** Big storm **"
 	{
-		"chi"		"该地方出来了很大的风暴"
+		"chi"		"风"
 	}
 	"** Freezing cold **"
 	{
-		"chi"		"我们越来越寒冷了"
+		"chi"		"空气变得越来越寒冷"
 	}
 	"** Frozen miles **"
 	{
-		"chi"		"我们发现了冻结的英里"
+		"chi"		"冻结"
 	}
 	"** Burning with fire **"
 	{
-		"chi"		"我们需要用火燃烧掉"
+		"chi"		"火"
 	}
 	"** Highly toxic **"
 	{
-		"chi"		"剧毒"
+		"chi"		"毒"
 	}
 	"** Unfreezing zombies **"
 	{
-		"chi"		"我们冻住了僵尸"
+		"chi"		"尸笼"
 	}
 	"* * phase 1 complete**"
 	{
@@ -98,7 +110,7 @@
 	}
 	"**A player chose the Holy Knight**"
 	{
-		"chi"		"一位玩家变身成为咸蛋超人"
+		"chi"		"一位玩家变身成为百骑高达"
 	}
 	"**Quick use SAWDWDSA can release the ultimate magic**"
 	{
@@ -110,7 +122,7 @@
 	}
 	"**Can use Holy Light to heal allies and slow down enemies**"
 	{
-		"chi"		"可以使用圣光治疗你的队友,而且可以减速敌人"
+		"chi"		"可以使用圣光治疗你的队友,而且可以减速僵尸"
 	}
 	"**Use the power of the Holy Sword to attack the enemy remotely**"
 	{
@@ -146,7 +158,7 @@
 	}
 	"**The Dark Mystery has been picked up**"
 	{
-		"chi"		"一名玩家捡起捡起了古娜拉黑暗之神"
+		"chi"		"一名僵尸修炼成为了巫医"
 	}
 	"**Right click to release the Ice Blue Blade to damage and slow down the enemy**"
 	{
@@ -170,11 +182,11 @@
 	}
 	"**Light Summoning Magic has been picked up**"
 	{
-		"chi"		"一名玩家捡起了治愈权杖"
+		"chi"		"一名玩家捡起了黑暗权杖"
 	}
 	"**Void Mystery has been picked up**"
 	{
-		"chi"		"一名玩家捡起了术士"
+		"chi"		"一名僵尸修炼成为了术士"
 	}
 	"**Release the Son of Death from the Void and rush towards the target**"
 	{
@@ -186,7 +198,7 @@
 	}
 	"**Holy Magic has been picked up**"
 	{
-		"chi"		"一名玩家捡起了终焉之奏"
+		"chi"		"一名玩家捡起了治愈权杖"
 	}
 	"** The far door opens after 40 seconds **"
 	{
