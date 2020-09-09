@@ -10,7 +10,7 @@
     }
     "****You are too slow****"
     {
-        "chi"		"**太慢了！**"
+        "chi"		"**太慢了!**"
     }
     "**Hold for 20 seconds**"
     {  
@@ -30,7 +30,7 @@
     }
     "**Defend until the gates open!**"
     {  
-        "chi"		"**坚守到大门打开！**"
+        "chi"		"**坚守到大门打开!**"
     }
     "**Some of the items can affect Matues. Use them!**"
     {  
@@ -38,23 +38,23 @@
     }
     "**Mateus summons Ice shield!**"
     {  
-        "chi"		"**皇帝开启了护盾（无敌）**"
+        "chi"		"**皇帝开启了护盾  “无敌”**"
     }
     "**In this state, we cannot hurt her!, just run!**"
     {  
-        "chi"		"**这种情况下无法伤害BOSS，快跑！**"
+        "chi"		"**这种情况下无法伤害BOSS,快跑!**"
     }
     "**Mateus is using Strong Ice Strike**"
     {  
-        "chi"		"**皇帝使用了冰霜冲击（蹲下）**"
+        "chi"		"**皇帝使用了冰霜冲击  “蹲下”**"
     }
     "**Mateus is using Ultimate Ice Strike!**"
     {  
-        "chi"		"**皇帝使用了终极（远离）**"
+        "chi"		"**皇帝使用了终极  “远离”**"
     }
     "**Get out of her, it's very strong attack**"
     {  
-        "chi"		"**远离BOSS，秒杀攻击**"
+        "chi"		"**远离BOSS,秒杀攻击**"
     }
     "**Mateus healing yourself, she's recuperate 255 health points!**"
     {  
@@ -62,11 +62,11 @@
     }
     "**Mateus is using Ice Strike**"
     {  
-        "chi"		"**皇帝使用了寒冰冲击*（脚底四次冰圈）**"
+        "chi"		"**皇帝使用了寒冰冲击*  “脚底四次冰圈”**"
     }
     "**Mateus is using Deathblow!**"
     {  
-        "chi"		"**皇帝使用了死亡烈风（呆在场地边缘）**"
+        "chi"		"**皇帝使用了死亡烈风  “呆在场地边缘”**"
     }
     "**Stay on sides to get saved*"
     {  
@@ -90,11 +90,11 @@
     }
     "**Zombie detected, you lose!**"
     {  
-        "chi"		"**僵尸冲破了防线，你失败了！**"
+        "chi"		"**僵尸冲破了防线,你失败了!**"
     }
     "**SAVAGE mode was beaten. Unlocking ULTIMA mode **"
     {  
-        "chi"		"**你通过了，开启终极难度**"
+        "chi"		"**你通过了,开启终极难度**"
     }
     "**Hold this area for 35 seconds**"
     {  
@@ -118,7 +118,7 @@
     }
     "**Bergan is using Light Magick!**"
     {  
-        "chi"		"**光之裁决（蹲下）**"
+        "chi"		"**光之裁决  “蹲下”**"
     }
     "**Bergan is using Confuse Magic!**"
     {  
@@ -126,11 +126,11 @@
     }
     "**Bergan is using Bravery Magick!**"
     {  
-        "chi"		"**斗气波—（先去边缘，再回中间）**"
+        "chi"		"**斗气波—  “先去边缘,再回中间”**"
     }
     "**Bergan summons Magma Core!**"
     {  
-        "chi"		"**熔岩爆裂（脚底四次火圈）**"
+        "chi"		"**熔岩爆裂  “脚底四次火圈”**"
     }
     "**Bergan is using Koshei's Dark Magick!**"
     {  
@@ -138,7 +138,7 @@
     }
     "**Bergan is using Vampire Magick!**"
     {  
-        "chi"		"**吸血光环（其实没卵用）**"
+        "chi"		"**吸血光环  “其实没卵用”**"
     }
     "**Nade do more damage!**"
     {  
@@ -146,27 +146,27 @@
     }
     "**Defeat him to unlock the way**"
     {  
-        "chi"		"**路就在后面，攻击仙人掌**"
+        "chi"		"**路就在后面,攻击仙人掌**"
     }
     "**Oh no it's Cactuar!**"
     {  
-        "chi"		"**On no.是仙人掌！**"
+        "chi"		"**On no.是仙人掌!**"
     }
     "**Cactuar is dead, keep running!**"
     {  
-        "chi"		"**仙人掌给给了，快跑！**"
+        "chi"		"**仙人掌给给了,快跑!**"
     }
     "**Keep runing we must get out of here!**"
     {  
-        "chi"		"**保持移动，我们必须离开这里！**"
+        "chi"		"**保持移动,我们必须离开这里!**"
     }
     "**EXTREME mode was beaten. Unlocking Savage mode **"
     {  
-        "chi"		"**极限模式通过，开启凶残模式**"
+        "chi"		"**极限模式通过,开启凶残模式**"
     }
     "**Zombie detected, you lose!**"
     {  
-        "chi"		"**僵尸冲破防御，你失败了**"
+        "chi"		"**僵尸冲破防御,你失败了**"
     }
     "Hold for 10 seconds**"
     {  
@@ -182,15 +182,15 @@
     }
     "**Bergan is using Blizzard Magick!**"
     {  
-        "chi"		"**暴风雪（全屏伤害）**"
+        "chi"		"**暴风雪  “全屏伤害”**"
     }
     "**Bergan is using Holy Magick!**"
     {  
-        "chi"		"**终极圣光（贴墙）**"
+        "chi"		"**终极圣光  “贴墙”**"
     }
     "**Bergan is using Damage Magick!**"
     {  
-        "chi"		"**双刀（不是无色，平砍伤害加倍）**"
+        "chi"		"**双刀  “不是无色,平砍伤害加倍”**"
     }
     "**Bergan is using Thunder Magick!**"
     {  
@@ -198,15 +198,15 @@
     }
     "**Bergan is using Poison Magick!**"
     {  
-        "chi"		"**剧毒魔法（全屏伤害）**"
+        "chi"		"**剧毒魔法  “全屏伤害”**"
     }
     "**Bergan is using Flame Magick!**"
     {  
-        "chi"		"**火焰魔法（内场躲避）**"
+        "chi"		"**火焰魔法  “内场躲避”**"
     }
     "**Bergan summons Fire Beam!**"
     {  
-        "chi"		"**召唤火圈（脚底四次火圈）**"
+        "chi"		"**召唤火圈  “脚底四次火圈”**"
     }
     "**Bergan is using Wind Magick!**"
     {  
@@ -222,15 +222,15 @@
     }
     "**Bergan is using Aqua Magick!**"
     {  
-        "chi"		"**镜花水月（抵抗吸力）**"
+        "chi"		"**镜花水月  “抵抗吸力”**"
     }
     "**Bergan in using Berserk Magick! Get out of him!!!"
     {  
-        "chi"		"**狂暴！远离BOSS**"
+        "chi"		"**狂暴!远离BOSS**"
     }
     "**Bergan is using Fire Magick!**"
     {  
-        "chi"		"**火魔法（边缘躲避）**"
+        "chi"		"**火魔法  “边缘躲避”**"
     }
     "**Hold for 5 seconds!**"
     {  
@@ -250,7 +250,7 @@
     }
     "**You are too slow**"
     {  
-        "chi"		"**你太慢了！**"
+        "chi"		"**你太慢了!**"
     }
     "**Bergan is dead!**"
     {  
@@ -270,7 +270,7 @@
     }
     "**Defend until the way opens**"
     {  
-        "chi"		"**门快开了，坚持住**"
+        "chi"		"**门快开了,坚持住**"
     }
     "**Hold for 15 seconds**"
     {  
@@ -286,55 +286,55 @@
     }
     "**A player has picked up Oil Magick**"
     {  
-        "chi"		"**一名玩家拾取了神器：油**"
+        "chi"		"**一名玩家拾取了神器:油**"
     }
     "**A player has picked up Haste Magick**"
     {  
-        "chi"		"**一名玩家拾取了神器：加速**"
+        "chi"		"**一名玩家拾取了神器:加速**"
     }
     "**A player has picked up Phoenix down**"
     {  
-        "chi"		"**一名玩家拾取了神器：不死鸟之尾**"
+        "chi"		"**一名玩家拾取了神器:不死鸟之尾**"
     }
     "**A player has picked up Blizzard Magick**"
     {  
-        "chi"		"**一名玩家拾取了神器：冰**"
+        "chi"		"**一名玩家拾取了神器:冰**"
     }
     "**A player has picked up Restore Magick**"
     {  
-        "chi"		"**一名玩家拾取了神器：治愈药剂（只能使用一次）**"
+        "chi"		"**一名玩家拾取了神器:治愈药剂  “只能使用一次”**"
     }
     "**A player has picked up Wind Magick**"
     {  
-        "chi"		"**一名玩家拾取了神器：风**"
+        "chi"		"**一名玩家拾取了神器:风**"
     }
     "**A player has picked up Darkga Magick **"
     {  
-        "chi"		"**一名玩家拾取了神器：黑洞**"
+        "chi"		"**一名玩家拾取了神器:黑洞**"
     }
     "**A player has picked up Poison Magick**"
     {  
-        "chi"		"**一名玩家拾取了神器：毒**"
+        "chi"		"**一名玩家拾取了神器:毒**"
     }
     "**A player has picked up Cure Magick**"
     {  
-        "chi"		"**一名玩家拾取了神器：奶**"
+        "chi"		"**一名玩家拾取了神器:奶**"
     }
     "**A player has picked up Flame Magick**"
     {  
-        "chi"		"**一名玩家拾取了神器：火**"
+        "chi"		"**一名玩家拾取了神器:火**"
     }
     "**A player has picked up Thunder Magick**"
     {  
-        "chi"		"**一名玩家拾取了神器：电**"
+        "chi"		"**一名玩家拾取了神器:电**"
     }
     "**A player has picked up Earth Magick**"
     {  
-        "chi"		"**一名玩家拾取了神器：土**"
+        "chi"		"**一名玩家拾取了神器:土**"
     }
     "**Map by Ma/l/go**"
     {  
-        "chi"		"**地图制作：Ma/l/go 翻译：DeadRabbit**"
+        "chi"		"**地图制作:Ma/l/go		汉化:DeadRabbit@風雲社**"
     }
     "**Stilshrine of Miriam**"
     {  
@@ -346,11 +346,11 @@
     }
     "**ULTIMA mode was beaten. You won the map! **"
     {  
-        "chi"		"**终极模式通过.你通关了整个地图！**"
+        "chi"		"**终极模式通过.你通关了整个地图!**"
     }
     "**Zombie detected, you lose!**"
     {  
-        "chi"		"**僵尸冲破防御，你失败了**"
+        "chi"		"**僵尸冲破防御,你失败了**"
     }
     "**Hold for 10 seconds**"
     {  
@@ -362,19 +362,19 @@
     }
     "**look there!**"
     {  
-        "chi"		"**看！**"
+        "chi"		"**看!**"
     }
     "**Smoke?**"
     {  
-        "chi"		"**烟雾？**"
+        "chi"		"**烟雾?**"
     }
     "**What could it mean?**"
     {  
-        "chi"		"**这意味着什么？**"
+        "chi"		"**这意味着什么?**"
     }
     "**We get the hell back to Mt Bur-Omisace and soon as possible!**"
     {  
-        "chi"		"**我们需要尽快回到神都布尔奥米赛斯！**"
+        "chi"		"**我们需要尽快回到神都布尔奥米赛斯!**"
     }
     "**The Gate of Tower will open in 20 seconds**"
     {  
@@ -382,11 +382,11 @@
     }
     "**Defend until the way opens**"
     {  
-        "chi"		"**门快开了，坚持住**"
+        "chi"		"**门快开了,坚持住**"
     }
     "**Defend until the way opens**"
     {  
-        "chi"		"**门快开了，坚持住**"
+        "chi"		"**门快开了,坚持住**"
     }
     "**Hold for 20 seconds**"
     {  
@@ -426,7 +426,7 @@
     }
     "**It's last hold, defend here for 28 seconds**"
     {  
-        "chi"		"**这是最后的守点了，守住28秒**"
+        "chi"		"**这是最后的守点了,守住28秒**"
     }
     "**The Teleport will enable in 20 seconds**"
     {  
@@ -434,11 +434,11 @@
     }
     "**Lantern has been activated!**"
     {  
-        "chi"		"**传送阵激活了！**"
+        "chi"		"**传送阵激活了!**"
     }
     "**Defend until the way opens**"
     {  
-        "chi"		"**门快开了，坚持住**"
+        "chi"		"**门快开了,坚持住**"
     }
     "**Hold for 13 seconds**"
     {  
@@ -446,15 +446,15 @@
     }
     "**Vyraal is using Poison**"
     {  
-        "chi"		"**剧毒口臭（躲三次毒焰）**"
+        "chi"		"**剧毒口臭  “躲三次毒焰”**"
     }
     "**Vyraal is using Knockback Wings**"
     {  
-        "chi"		"**强风冲击（左右横向吹，抵抗）**"
+        "chi"		"**强风冲击  “左右横向吹,抵抗”**"
     }    
     "**Vyraal is using Dark Magic**"
     {  
-        "chi"		"**黑洞魔法（S抵抗吸力）**"
+        "chi"		"**黑洞魔法  “S抵抗吸力”**"
     }    
     "**Vyraal is using Confuse Magic**"
     {  
@@ -470,7 +470,7 @@
     }    
     "**Vyraal is using Fireball Magic**"
     {  
-        "chi"		"**火球（头顶三次火球）**"
+        "chi"		"**火球  “头顶三次火球”**"
     }   
     "**Vyraal is using Heal Magic**"
     {  
@@ -478,27 +478,27 @@
     }    
     "**Vyraal is using Sonic Fang**"
     {  
-        "chi"		"**超声波（W抵抗推力）**"
+        "chi"		"**超声波  “W抵抗推力”**"
     }    
     "**Vyraal is using Immobilize Rage**"
     {  
-        "chi"		"**无能狂怒（边场躲避）**"
+        "chi"		"**无能狂怒  “边场躲避”**"
     }    
     "**Vyraal is using Implosion Magick**"
     {  
-        "chi"		"**内爆（边场躲避）**"
+        "chi"		"**内爆  “边场躲避”**"
     }    
     "**Vyraal is using Earth Magick**"
     {  
-        "chi"		"**大地魔法（向中心抵抗随机推力）**"
+        "chi"		"**大地魔法  “向中心抵抗随机推力”**"
     }    
     "**Vyraal is using Flame Magick**"
     {  
-        "chi"		"**火焰领域（内场躲避）**"
+        "chi"		"**火焰领域  “内场躲避”**"
     }   
     "**Vyraal is using Tornado Magick**"
     {  
-        "chi"		"**飓风（抵抗推力）**"
+        "chi"		"**飓风  “抵抗推力”**"
     }
     "**Vyraal is using Thunder Storm**"
     {  
@@ -506,15 +506,15 @@
     }
     "**Vyraal is using Poison**"
     {  
-        "chi"		"**剧毒（全场伤害）**"
+        "chi"		"**剧毒  “全场伤害”**"
     }
     "**Vyraal is using Knockback Wings**"
     {  
-        "chi"		"**强风冲击（左右横向吹，抵抗）**"
+        "chi"		"**强风冲击  “左右横向吹,抵抗”**"
     }
     "**Vyraal is using Dark Magic**"
     {  
-        "chi"		"**黑洞魔法（S抵抗吸力）**"
+        "chi"		"**黑洞魔法  “S抵抗吸力”**"
     }
     "**Vyraal is using Confuse Magic**"
     {  
@@ -530,7 +530,7 @@
     }
     "**Vyraal is using Fireball Magic**"
     {  
-        "chi"		"**火球（头顶三次火球）**"
+        "chi"		"**火球  “头顶三次火球”**"
     }
     "**Vyraal is using Heal Magic**"
     {  
@@ -538,19 +538,19 @@
     }
     "**Vyraal is using Sonic Fang**"
     {  
-        "chi"		"**超声波（W抵抗推力）**"
+        "chi"		"**超声波  “W抵抗推力”**"
     }    
     "**Vyraal is using Tornado Magick**"
     {  
-        "chi"		"**飓风（抵抗推力）**"
+        "chi"		"**飓风  “抵抗推力”**"
     }    
     "**Vyraal is using Immobilize Rage**"
     {  
-        "chi"		"**无能狂怒（边场躲避）**"
+        "chi"		"**无能狂怒  “边场躲避”**"
     }    
     "**Vyraal is using Light Magick**"
     {  
-        "chi"		"**光之裁决（蹲下）**"
+        "chi"		"**光之裁决  “蹲下”**"
     }    
     "**Nades do more damage**"
     {  
@@ -562,7 +562,7 @@
     }
     "**Vyraal vanquished, keep running"
     {  
-        "chi"		"**boss战败了，快跑**"
+        "chi"		"**boss战败了,快跑**"
     }
     "Hold for 20 seconds**"
     {  
@@ -570,7 +570,7 @@
     }    
     "**Defend until the way opens**"
     {  
-        "chi"		"**门快开了，坚持住**"
+        "chi"		"**门快开了,坚持住**"
     }    
     "**Hold this area for 15 seconds**"
     {  
@@ -582,7 +582,7 @@
     }    
     "**Find and activate Teleport Lantern!**"
     {  
-        "chi"		"**找到灯笼并激活传送阵！**"
+        "chi"		"**找到灯笼并激活传送阵!**"
     }    
     "**The Teleport will enable in 25 seconds**"
     {  
@@ -590,7 +590,7 @@
     }    
     "**Lantern has been activated!**"
     {  
-        "chi"		"**灯笼激活了！**"
+        "chi"		"**灯笼激活了!**"
     }    
     "**The Gate will open in 15 seconds**"
     {  
@@ -598,10 +598,10 @@
     }   
     "**Teleport Lantern has been activated!**"
     {  
-        "chi"		"**传送激活了！**"
+        "chi"		"**传送激活了!**"
     }    
     "**Next room will open in 20 seconds**"
     {  
         "chi"		"**下个房间的门将在20秒后打开**"
     }    
-｝
+}
