@@ -1,0 +1,607 @@
+"Console_T"
+{
+    "**A player has picked up Health Potion**"
+    {
+        "chi"		"**一名玩家拾取了奶**"
+    }
+    "**Teleport to Miriam will enable in 15 seconds!**"
+    {
+        "chi"		"**15秒后开启进入米利暗遗迹的传送阵**"
+    }
+    "****You are too slow****"
+    {
+        "chi"		"**太慢了!**"
+    }
+    "**Hold for 20 seconds**"
+    {  
+        "chi"		"**守住20秒**"
+    }
+    "**HARD mode was beaten. Unlocking EXTREME mode **"
+    {  
+        "chi"		"**困难模式通过.开启极限难度**"
+    }
+    "**The Gate will open in 15 seconds**"
+    {  
+        "chi"		"**15秒后开启大门**"
+    }
+    "**Hold for 30 seconds**"
+    {  
+        "chi"		"**防守30秒**"
+    }
+    "**Defend until the gates open!**"
+    {  
+        "chi"		"**坚守到大门打开!**"
+    }
+    "**Some of the items can affect Matues. Use them!**"
+    {  
+        "chi"		"**一些神器能够伤害皇帝.使用他们!**"
+    }
+    "**Mateus summons Ice shield!**"
+    {  
+        "chi"		"**皇帝开启了护盾    “无敌”**"
+    }
+    "**In this state, we cannot hurt her!, just run!**"
+    {  
+        "chi"		"**这种情况下无法伤害BOSS,快跑!**"
+    }
+    "**Mateus is using Strong Ice Strike**"
+    {  
+        "chi"		"**皇帝使用了冰霜冲击    “蹲下”**"
+    }
+    "**Mateus is using Ultimate Ice Strike!**"
+    {  
+        "chi"		"**皇帝使用了终极    “远离”**"
+    }
+    "**Get out of her, it's very strong attack**"
+    {  
+        "chi"		"**远离BOSS,秒杀攻击**"
+    }
+    "**Mateus healing yourself, she's recuperate 255 health points!**"
+    {  
+        "chi"		"**皇帝使用了治疗术**"
+    }
+    "**Mateus is using Ice Strike**"
+    {  
+        "chi"		"**皇帝使用了寒冰冲击*    “脚底四次冰圈”**"
+    }
+    "**Mateus is using Deathblow!**"
+    {  
+        "chi"		"**皇帝使用了死亡烈风    “呆在场地边缘”**"
+    }
+    "**Stay on sides to get saved*"
+    {  
+        "chi"		"**呆在边缘躲避**"
+    }
+    "**The Gate will open in 24 seconds**"
+    {  
+        "chi"		"**24秒后开启大门**"
+    }
+    "**Hold this area for 15 seconds**"
+    {  
+        "chi"		"**防守15秒**"
+    }
+    "**Hold this area for 15 seconds**"
+    {  
+        "chi"		"**防守15秒**"
+    }
+    " **Nade do more damage!**"
+    {  
+        "chi"		"**手雷可以造成伤害**"
+    }
+    "**Zombie detected, you lose!**"
+    {  
+        "chi"		"**僵尸冲破了防线,你失败了!**"
+    }
+    "**SAVAGE mode was beaten. Unlocking ULTIMA mode **"
+    {  
+        "chi"		"**你通过了,开启终极难度**"
+    }
+    "**Hold this area for 35 seconds**"
+    {  
+        "chi"		"**防守35秒**"
+    }
+    "**Level has been changed on Ultima Mode** "
+    {  
+        "chi"		"**终极模式**"
+    }
+    "**Level has been changed on Savage Mode**"
+    {  
+        "chi"		"**凶残模式**"
+    }
+    "**Level has been changed on Extreme Mode**"
+    {  
+        "chi"		"**极限模式**"
+    }
+    "**Level has been changed on Hard Mode**"
+    {  
+        "chi"		"**困难模式**"
+    }
+    "**Bergan is using Light Magick!**"
+    {  
+        "chi"		"**光之裁决    “蹲下”**"
+    }
+    "**Bergan is using Confuse Magic!**"
+    {  
+        "chi"		"**视线混乱**"
+    }
+    "**Bergan is using Bravery Magick!**"
+    {  
+        "chi"		"**斗气波—    “先去边缘,再回中间”**"
+    }
+    "**Bergan summons Magma Core!**"
+    {  
+        "chi"		"**熔岩爆裂    “脚底四次火圈”**"
+    }
+    "**Bergan is using Koshei's Dark Magick!**"
+    {  
+        "chi"		"**黑暗攻击**"
+    }
+    "**Bergan is using Vampire Magick!**"
+    {  
+        "chi"		"**吸血光环    “其实没卵用”**"
+    }
+    "**Nade do more damage!**"
+    {  
+        "chi"		"**手雷可以造成伤害**"
+    }
+    "**Defeat him to unlock the way**"
+    {  
+        "chi"		"**路就在后面,攻击仙人掌**"
+    }
+    "**Oh no it's Cactuar!**"
+    {  
+        "chi"		"**On no.是仙人掌!**"
+    }
+    "**Cactuar is dead, keep running!**"
+    {  
+        "chi"		"**仙人掌给给了,快跑!**"
+    }
+    "**Keep runing we must get out of here!**"
+    {  
+        "chi"		"**保持移动,我们必须离开这里!**"
+    }
+    "**EXTREME mode was beaten. Unlocking Savage mode **"
+    {  
+        "chi"		"**极限模式通过,开启凶残模式**"
+    }
+    "**Zombie detected, you lose!**"
+    {  
+        "chi"		"**僵尸冲破防御,你失败了**"
+    }
+    "Hold for 10 seconds**"
+    {  
+        "chi"		"**守10秒**"
+    }
+    "**The Stilshrine of Miriam will open in 15 seconds**"
+    {  
+        "chi"		"**米利暗遗迹将在15秒后开启**"
+    }
+    "**Welcome to Stilshrine of Miriam!**"
+    {  
+        "chi"		"**欢迎来到米利暗遗迹**"
+    }
+    "**Bergan is using Blizzard Magick!**"
+    {  
+        "chi"		"**暴风雪    “全屏伤害”**"
+    }
+    "**Bergan is using Holy Magick!**"
+    {  
+        "chi"		"**终极圣光    “贴墙”**"
+    }
+    "**Bergan is using Damage Magick!**"
+    {  
+        "chi"		"**双刀    “不是无色,平砍伤害加倍”**"
+    }
+    "**Bergan is using Thunder Magick!**"
+    {  
+        "chi"		"**闪电魔法**"
+    }
+    "**Bergan is using Poison Magick!**"
+    {  
+        "chi"		"**剧毒魔法    “全屏伤害”**"
+    }
+    "**Bergan is using Flame Magick!**"
+    {  
+        "chi"		"**火焰魔法    “内场躲避”**"
+    }
+    "**Bergan summons Fire Beam!**"
+    {  
+        "chi"		"**召唤火圈    “脚底四次火圈”**"
+    }
+    "**Bergan is using Wind Magick!**"
+    {  
+        "chi"		"**狂风魔法**"
+    }
+    "**Bergan is using Earth Magick!**"
+    {  
+        "chi"		"**大地魔法**"
+    }
+    "**Bergan is using Cure Magick!**"
+    {  
+        "chi"		"**治疗魔法**"
+    }
+    "**Bergan is using Aqua Magick!**"
+    {  
+        "chi"		"**镜花水月    “抵抗吸力”**"
+    }
+    "**Bergan in using Berserk Magick! Get out of him!!!"
+    {  
+        "chi"		"**狂暴!远离BOSS**"
+    }
+    "**Bergan is using Fire Magick!**"
+    {  
+        "chi"		"**火魔法    “边缘躲避”**"
+    }
+    "**Hold for 5 seconds!**"
+    {  
+        "chi"		"**守5秒**"
+    }
+    "**Hold for 5 seconds!**"
+    {  
+        "chi"		"**守5秒**"
+    }
+    "**Hold area for 25 seconds!**"
+    {  
+        "chi"		"**守25秒**"
+    }
+    "**Judge Zargabaath is dead!**"
+    {  
+        "chi"		"**伽布拉斯死了**"
+    }
+    "**You are too slow**"
+    {  
+        "chi"		"**你太慢了!**"
+    }
+    "**Bergan is dead!**"
+    {  
+        "chi"		"**贝甘死了**"
+    }
+    "**Some of the items can affect Bergan. Use them!**"
+    {  
+        "chi"		"**一些神器能够伤害贝甘.使用它们!**"
+    }
+    "**Hold for 30 seconds**"
+    {  
+        "chi"		"**守30秒**"
+    }
+    "**Hold this area for 15 seconds**"
+    {  
+        "chi"		"**守15秒**"
+    }
+    "**Defend until the way opens**"
+    {  
+        "chi"		"**门快开了,坚持住**"
+    }
+    "**Hold for 15 seconds**"
+    {  
+        "chi"		"**守15秒**"
+    }
+    "**Hold for 20 seconds**"
+    {  
+        "chi"		"**守20秒**"
+    }
+    "**You are too slow**"
+    {  
+        "chi"		"**你太慢了!**"
+    }
+    "**A player has picked up Oil Magick**"
+    {  
+        "chi"		"**一名玩家拾取了神器:油**"
+    }
+    "**A player has picked up Haste Magick**"
+    {  
+        "chi"		"**一名玩家拾取了神器:加速**"
+    }
+    "**A player has picked up Phoenix down**"
+    {  
+        "chi"		"**一名玩家拾取了神器:不死鸟之尾**"
+    }
+    "**A player has picked up Blizzard Magick**"
+    {  
+        "chi"		"**一名玩家拾取了神器:冰**"
+    }
+    "**A player has picked up Restore Magick**"
+    {  
+        "chi"		"**一名玩家拾取了神器:治愈药剂    “只能使用一次”**"
+    }
+    "**A player has picked up Wind Magick**"
+    {  
+        "chi"		"**一名玩家拾取了神器:风**"
+    }
+    "**A player has picked up Darkga Magick **"
+    {  
+        "chi"		"**一名玩家拾取了神器:黑洞**"
+    }
+    "**A player has picked up Poison Magick**"
+    {  
+        "chi"		"**一名玩家拾取了神器:毒**"
+    }
+    "**A player has picked up Cure Magick**"
+    {  
+        "chi"		"**一名玩家拾取了神器:奶**"
+    }
+    "**A player has picked up Flame Magick**"
+    {  
+        "chi"		"**一名玩家拾取了神器:火**"
+    }
+    "**A player has picked up Thunder Magick**"
+    {  
+        "chi"		"**一名玩家拾取了神器:电**"
+    }
+    "**A player has picked up Earth Magick**"
+    {  
+        "chi"		"**一名玩家拾取了神器:土**"
+    }
+    "**Map by Ma/l/go**"
+    {  
+        "chi"		"**地图制作:Ma/l/go		汉化:DeadRabbit@風雲社**"
+    }
+    "**Stilshrine of Miriam**"
+    {  
+        "chi"		"**米利暗遗迹**"
+    }
+    "**Nades do more damage**"
+    {  
+        "chi"		"**手雷可以造成伤害**"
+    }
+    "**ULTIMA mode was beaten. You won the map! **"
+    {  
+        "chi"		"**终极模式通过.你通关了整个地图!**"
+    }
+    "**Zombie detected, you lose!**"
+    {  
+        "chi"		"**僵尸冲破防御,你失败了**"
+    }
+    "**Hold for 10 seconds**"
+    {  
+        "chi"		"**守10秒**"
+    }
+    "**The Gate will open in 35 second!**"
+    {  
+        "chi"		"**35秒后开启大门**"
+    }
+    "**look there!**"
+    {  
+        "chi"		"**看!**"
+    }
+    "**Smoke?**"
+    {  
+        "chi"		"**烟雾?**"
+    }
+    "**What could it mean?**"
+    {  
+        "chi"		"**这意味着什么?**"
+    }
+    "**We get the hell back to Mt Bur-Omisace and soon as possible!**"
+    {  
+        "chi"		"**我们需要尽快回到神都布尔奥米赛斯!**"
+    }
+    "**The Gate of Tower will open in 20 seconds**"
+    {  
+        "chi"		"**20秒后开启塔的大门**"
+    }
+    "**Defend until the way opens**"
+    {  
+        "chi"		"**门快开了,坚持住**"
+    }
+    "**Defend until the way opens**"
+    {  
+        "chi"		"**门快开了,坚持住**"
+    }
+    "**Hold for 20 seconds**"
+    {  
+        "chi"		"**守20秒**"
+    }
+    "**The way will open in 20 seconds**"
+    {  
+        "chi"		"**20秒之后开启道路**"
+    }
+    "**Hold this area for 15 seconds**"
+    {  
+        "chi"		"**守15秒**"
+    }
+    "**The Gate will open in 15 seconds**"
+    {  
+        "chi"		"**15秒后开启大门**"
+    }
+    "**Hold for 15 seconds**"
+    {  
+        "chi"		"**守15秒**"
+    }
+    "**The Left Gate will open in 8 seconds**"
+    {  
+        "chi"		"**8秒后开启左侧大门**"
+    }
+    "**The Right Gate will open in 8 seconds**"
+    {  
+        "chi"		"**8秒后开启右侧大门**"
+    }
+    "**The Right Exit Gate will open in 10 seconds**"
+    {  
+        "chi"		"**10秒后开启右侧出口**"
+    }
+    "**The Left Exit Gate will open in 10 seconds**"
+    {  
+        "chi"		"**10秒后开启左侧出口**"
+    }
+    "**It's last hold, defend here for 28 seconds**"
+    {  
+        "chi"		"**这是最后的守点了,守住28秒**"
+    }
+    "**The Teleport will enable in 20 seconds**"
+    {  
+        "chi"		"**20秒后开启传送阵**"
+    }
+    "**Lantern has been activated!**"
+    {  
+        "chi"		"**传送阵激活了!**"
+    }
+    "**Defend until the way opens**"
+    {  
+        "chi"		"**门快开了,坚持住**"
+    }
+    "**Hold for 13 seconds**"
+    {  
+        "chi"		"**守13秒**"
+    }
+    "**Vyraal is using Poison**"
+    {  
+        "chi"		"**剧毒口臭    “躲三次毒焰”**"
+    }
+    "**Vyraal is using Knockback Wings**"
+    {  
+        "chi"		"**强风冲击    “左右横向吹,抵抗”**"
+    }    
+    "**Vyraal is using Dark Magic**"
+    {  
+        "chi"		"**黑洞魔法    “S抵抗吸力”**"
+    }    
+    "**Vyraal is using Confuse Magic**"
+    {  
+        "chi"		"**混乱魔法**"
+    }    
+    "**Vyraal is using Ice Magic**"
+    {  
+        "chi"		"**冰冻魔法**"
+    }    
+    "**Vyraal is using Poison Magic**"
+    {  
+        "chi"		"**毒魔法**"
+    }    
+    "**Vyraal is using Fireball Magic**"
+    {  
+        "chi"		"**火球    “头顶三次火球”**"
+    }   
+    "**Vyraal is using Heal Magic**"
+    {  
+        "chi"		"**治疗魔法**"
+    }    
+    "**Vyraal is using Sonic Fang**"
+    {  
+        "chi"		"**超声波    “W抵抗推力”**"
+    }    
+    "**Vyraal is using Immobilize Rage**"
+    {  
+        "chi"		"**无能狂怒    “边场躲避”**"
+    }    
+    "**Vyraal is using Implosion Magick**"
+    {  
+        "chi"		"**内爆    “边场躲避”**"
+    }    
+    "**Vyraal is using Earth Magick**"
+    {  
+        "chi"		"**大地魔法    “向中心抵抗随机推力”**"
+    }    
+    "**Vyraal is using Flame Magick**"
+    {  
+        "chi"		"**火焰领域    “内场躲避”**"
+    }   
+    "**Vyraal is using Tornado Magick**"
+    {  
+        "chi"		"**飓风    “抵抗推力”**"
+    }
+    "**Vyraal is using Thunder Storm**"
+    {  
+        "chi"		"**闪电风暴**"
+    }
+    "**Vyraal is using Poison**"
+    {  
+        "chi"		"**剧毒    “全场伤害”**"
+    }
+    "**Vyraal is using Knockback Wings**"
+    {  
+        "chi"		"**强风冲击    “左右横向吹,抵抗”**"
+    }
+    "**Vyraal is using Dark Magic**"
+    {  
+        "chi"		"**黑洞魔法    “S抵抗吸力”**"
+    }
+    "**Vyraal is using Confuse Magic**"
+    {  
+        "chi"		"**混乱魔法**"
+    }
+    "**Vyraal is using Ice Magic**"
+    {  
+        "chi"		"**冰冻魔法**"
+    }
+    "**Vyraal is using Poison Magic**"
+    {  
+        "chi"		"**毒魔法**"
+    }
+    "**Vyraal is using Fireball Magic**"
+    {  
+        "chi"		"**火球    “头顶三次火球”**"
+    }
+    "**Vyraal is using Heal Magic**"
+    {  
+        "chi"		"****治疗魔法****"
+    }
+    "**Vyraal is using Sonic Fang**"
+    {  
+        "chi"		"**超声波    “W抵抗推力”**"
+    }    
+    "**Vyraal is using Tornado Magick**"
+    {  
+        "chi"		"**飓风    “抵抗推力”**"
+    }    
+    "**Vyraal is using Immobilize Rage**"
+    {  
+        "chi"		"**无能狂怒    “边场躲避”**"
+    }    
+    "**Vyraal is using Light Magick**"
+    {  
+        "chi"		"**光之裁决    “蹲下”**"
+    }    
+    "**Nades do more damage**"
+    {  
+        "chi"		"**手雷可以造成伤害**"
+    }    
+    "**Nades do more damage**"
+    {  
+        "chi"		"**手雷可以造成伤害**"
+    }
+    "**Vyraal vanquished, keep running"
+    {  
+        "chi"		"**boss战败了,快跑**"
+    }
+    "Hold for 20 seconds**"
+    {  
+        "chi"		"**守住20秒**"
+    }    
+    "**Defend until the way opens**"
+    {  
+        "chi"		"**门快开了,坚持住**"
+    }    
+    "**Hold this area for 15 seconds**"
+    {  
+        "chi"		"**守15秒**"
+    }    
+    "**The Gate will open in 15 seconds!**"
+    {  
+        "chi"		"**15秒后开启大门**"
+    }    
+    "**Find and activate Teleport Lantern!**"
+    {  
+        "chi"		"**找到灯笼并激活传送阵!**"
+    }    
+    "**The Teleport will enable in 25 seconds**"
+    {  
+        "chi"		"**25秒后开启传送阵**"
+    }    
+    "**Lantern has been activated!**"
+    {  
+        "chi"		"**灯笼激活了!**"
+    }    
+    "**The Gate will open in 15 seconds**"
+    {  
+        "chi"		"**守15秒**"
+    }   
+    "**Teleport Lantern has been activated!**"
+    {  
+        "chi"		"**传送激活了!**"
+    }    
+    "**Next room will open in 20 seconds**"
+    {  
+        "chi"		"**下个房间的门将在20秒后打开**"
+    }    
+｝
