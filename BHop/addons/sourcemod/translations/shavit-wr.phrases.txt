@@ -1,0 +1,200 @@
+"Phrases"
+{
+	// ---------- Commands ---------- //
+	"DeletionAborted"
+	{
+		"en"		"Aborted deletion."
+	}
+	"DeletedRecord"
+	{
+		"en"		"Deleted record."
+	}
+	"DeletedRecordsMap"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Deleted ALL records for {1}{2}{3}."
+	}
+	"DeletedRecordsStyle"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Deleted ALL records for {1}{2}{3}."
+	}
+	// ---------- Client Menus ---------- //
+	"ListClientRecords"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Records for {1}:\n({2})"
+	}
+	// ---------- Completion Messages ---------- //
+	"FirstCompletion"
+	{
+		"#format"	"{1:s},{2:N},{3:s},{4:s},{5:s},{6:s},{7:s},{8:s},{9:s},{10:s},{11:d},{12:s},{13:d},{14:d},{15:s},{16:s}"
+		"en"		"{1}{2}{3} 完成了 {4}{5}{6} 模式, 完成时间：{7}{8}{9} 排行第 {10}{11}{12} 名,进行了 {13} 次跳跃, {14} 次加速 {15}{16}."
+	}
+	"NotFirstCompletion"
+	{
+		"#format"	"{1:s},{2:N},{3:s},{4:s},{5:s},{6:s},{7:s},{8:s},{9:s},{10:s},{11:d},{12:s},{13:d},{14:d},{15:s},{16:s},{17:s},{18:s}"
+		"en"		"{1}{2}{3} 完成了 {4}{5}{6} 模式, 完成时间：{7}{8}{9} 排行第 {10}{11}{12} 名,进行了 {13} 次跳跃, {14} 次加速 {15}{16}. {17}(-{18})"
+	}
+	"WorseTime"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s},{6:s},{7:d},{8:d},{9:s},{10:s},{11:s}"
+		"en"		"你已经完成了 ({1}{2}{3}) 模式, 完成时间：{4}{5}{6} 进行了 {7} 次跳跃, {8} 次加速{9}{10}. (+{11})"
+	}
+	"UnrankedTime"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s},{6:s},{7:d},{8:d},{9:s},{10:s}"
+		"en"		"你已经完成了 ({1}{2}{3}) 模式, 完成时间：{4}{5}{6} 进行了 {7} 次跳跃, {8} 次加速{9}{10}."
+	}
+	// ---------- Deletion Menus ---------- //
+	"DeleteAllRecords"
+	{
+		"en"		"删除全部地图记录"
+	}
+	"DeleteAllRecordsMenuTitle"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Delete ALL the records for '{1}'? (Track: {2} | Style: {3})"
+	}
+	"DeleteConfirm"
+	{
+		"en"		"你确定?"
+	}
+	"DeleteMenuTitle"
+	{
+		"en"		"Delete a record from:"
+	}
+	"DeleteSingleRecord"
+	{
+		"en"		"删除单个记录"
+	}
+	"MenuResponseNo"
+	{
+		"en"		"NO!"
+	}
+	"MenuResponseYesSingle"
+	{
+		"en"		"YES!!! DELETE THE RECORD!!!"
+	}
+	"MenuResponseYes"
+	{
+		"en"		"YES!!! DELETE ALL THE RECORDS!!! THIS ACTION IS IRREVERSIBLE!"
+	}
+	"DeleteStyleRecordsRecordsMenuTitle"
+	{
+		"#format"	"{1:s}"
+		"en"		"Choose a style to delete all the records for '{1}':"
+	}
+	"DeleteConfirmStyle"
+	{
+		"#format"	"{1:s}"
+		"en"		"Are you sure you want to delete ALL THE RECORDS for {1}?"
+	}
+	"MenuResponseYesStyle"
+	{
+		"#format"	"{1:s}"
+		"en"		"YES!!! DELETE THE RECORDS FOR {1}!!! THIS ACTION IS IRREVERSIBLE!"
+	}
+	"DeleteTrackSingle"
+	{
+		"en"		"Choose a track to delete a single record from:"
+	}
+	"DeleteTrackAll"
+	{
+		"en"		"Choose a track to delete a ALL records from:"
+	}
+	"DeleteTrackAllStyle"
+	{
+		"#format"	"{1:s}"
+		"en"		"Choose a style to delete all the records for ({1}):"
+	}
+	// ---------- Errors ---------- //
+	"DatabaseError"
+	{
+		"en"		"Database error"
+	}
+	"Error"
+	{
+		"en"		"ERROR"
+	}
+	"NoStyles"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1}FATAL ERROR: {2}No styles are available. Contact the server owner immediately!"
+	}
+	// ---------- WR Menu ---------- //
+	"RecentRecords"
+	{
+		"#format"	"{1:d}"
+		"en"		"近期的 {1} 记录(s)"
+	}
+	"WRDate"
+	{
+		"en"		"日期"
+	}
+	"WRJump"
+	{
+		"en"		"jump"
+	}
+	"WRJumps"
+	{
+		"en"		"Jumps"
+	}
+	"WRMap"
+	{
+		"#format"	"{1:s}"
+		"en"		"Records for {1}"
+	}
+	"WRMapNoRecords"
+	{
+		"en"		"无法找到记录."
+	}
+	"WRMenuTitle"
+	{
+		"en"		"选择一个模式:"
+	}
+	"WRPoints"
+	{
+		"en"		"points"
+	}
+	"WRPlayerStats"
+	{
+		"en"		"Player stats"
+	}
+	"WRDeleteRecord"
+	{
+		"en"		"Delete record"
+	}
+	"WRPointsCap"
+	{
+		"en"		"Points"
+	}
+	"WRRecord"
+	{
+		"en"		"records"
+	}
+	"WRRecordFor"
+	{
+		"en"		"Records for"
+	}
+	"WRStrafes"
+	{
+		"en"		"Strafes"
+	}
+	"WRCompletions"
+	{
+		"en"		"Completions"
+	}
+	"WRStyle"
+	{
+		"en"		"模式"
+	}
+	"WRStyleNothing"
+	{
+		"en"		"Nothing."
+	}
+	"WRTime"
+	{
+		"en"		"时间"
+	}
+}

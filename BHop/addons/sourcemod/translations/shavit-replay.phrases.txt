@@ -1,0 +1,66 @@
+"Phrases"
+{
+	// ---------- Menus ---------- //
+	"DeleteReplayAdminMenu"
+	{
+		"en"		"Delete replay"
+	}
+	"DeleteReplayMenuTitle"
+	{
+		"en"		"Delete a replay:"
+	}
+	"MenuResponseNo"
+	{
+		"en"		"NO!"
+	}
+	"MenuResponseYes"
+	{
+		"en"		"Yes, I understand this action cannot be reversed!"
+	}
+	"ReplayDeletionConfirmation"
+	{
+		"#format"	"{1:s}"
+		"en"		"Confirm deletion of {1} replay?"
+	}
+	"ReplaysUnavailable"
+	{
+		"en"		"无有效的回放."
+	}
+	// ---------- Replay Deletion ---------- //
+	"ReplayDeleted"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Deleted replay for {1}{2}{3}."
+	}
+	"ReplayDeleteFailure"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Could not delete replay for {1}{2}{3}."
+	}
+	// ---------- Central Replay Menu ---------- //
+	"CentralReplaySpectator"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s}"
+		"en"		"你必须 {1}观察{2} 一个 {3}电脑玩家{4} 来使用这些功能."
+	}
+	"CentralReplayTitle"
+	{
+		"en"		"选择一个模式来进行回放:"
+	}
+	"CentralReplayPlaying"
+	{
+		"en"		"回放机器人现在无法播放，再试一次或等他闲置下来."
+	}
+	"CentralReplayStop"
+	{
+		"en"		"停止目前的回放."
+	}
+	"CentralReplayStopped"
+	{
+		"en"		"强制停止回放."
+	}
+	"CentralReplayTrack"
+	{
+		"en"		"Select a track to play:"
+	}
+}

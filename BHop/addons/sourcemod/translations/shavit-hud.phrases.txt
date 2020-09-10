@@ -1,0 +1,193 @@
+"Phrases"
+{
+	// ---------- HUD Components ---------- //
+	// DO NOT MAKE NAMES LONGER THAN DISPLAYED HERE //
+	"HudStartZone"
+	{
+		"en"		"Start Zone"
+	}
+	"HudZoneTier"
+	{
+		"#format"	"{1:d}"
+		"en"		"Tier {1}"
+	}
+	"HudInStartZone"
+	{
+		"#format"	"{1:d}"
+		"en"		"In Start Zone\n\n{1}"
+	}
+	"HudInStartZoneCSGO"
+	{
+		"#format"	"{1:d}"
+		"en"		"In Start Zone\n\n\t\t\t{1}"
+	}
+	"HudEndZone"
+	{
+		"en"		"End Zone"
+	}
+	"HudInEndZone"
+	{
+		"#format"	"{1:d}"
+		"en"		"In End Zone\n\n{1}"
+	}
+	"HudInEndZoneCSGO"
+	{
+		"#format"	"{1:d}"
+		"en"		"In End Zone\n\n\t\t\t{1}"
+	}
+	"HudPaused"
+	{
+		"en"		"[暂停]"
+	}
+	"HudTimeText"
+	{
+		"en"		"时间"
+	}
+	"HudBestText"
+	{
+		"en"		"Best"
+	}
+	"HudJumpsText"
+	{
+		"en"		"Jumps"
+	}
+	"HudStyleText"
+	{
+		"en"		"模式"
+	}
+	"HudSpeedText"
+	{
+		"en"		"速度"
+	}
+	"HudStrafeText"
+	{
+		"en"		"Strafes"
+	}
+	"HudTimeLeft"
+	{
+		"en"		"剩余时间"
+	}
+	"HudSync"
+	{
+		"en"		"同步率"
+	}
+	"HudPerfs"
+	{
+		"en"		"Perfect jumps"
+	}
+	"HudPracticeMode"
+	{
+		"en"		"[练习模式]"
+	}
+	"HudNoSpeedLimit"
+	{
+		"en"		"(无速度限制)"
+	}
+	"HudCustomSpeedLimit"
+	{
+		"#format"	"{1:d}"
+		"en"		"(Speed Limit: {1})"
+	}
+	// ---------- Menus ---------- //
+	"HUDMenuTitle"
+	{
+		"en"		"HUD 设置:"
+	}
+	"HudMaster"
+	{
+		"en"		"总开关"
+	}
+	"HudCenter"
+	{
+		"en"		"Center text"
+	}
+	"HudZoneHud"
+	{
+		"en"		"起点与终点的标识"
+	}
+	"HudObserve"
+	{
+		"en"		"观察者 HUD"
+	}
+	"HudSpectators"
+	{
+		"en"		"观察者列表"
+	}
+	"HudKeyOverlay"
+	{
+		"en"		"按键显示"
+	}
+	"HudHideWeapon"
+	{
+		"en"		"隐藏武器"
+	}
+	"HudTopLeft"
+	{
+		"en"		"左上角显示WR/PB"
+	}
+	"Hud2dVel"
+	{
+		"en"		"使用2D速度面板"
+	}
+	"HudNoRecordSounds"
+	{
+		"en"		"无过关音效"
+	}
+	"HudPracticeModeAlert"
+	{
+		"en"		"无练习模式警告"
+	}
+	"HudRankText"
+	{
+		"en"		"目前时间排名"
+	}
+	"HudTrackText"
+	{
+		"en"		"Timer track"
+	}
+	"HudSplitPbText"
+	{
+		"en"		"Split PB"
+	}
+	"HudMapTierText"
+	{
+		"en"		"地图难度等级"
+	}
+	"HudTimeDifference"
+	{
+		"en"		"时差"
+	}
+	// ---------- Record Bots ---------- //
+	"ReplayText"
+	{
+		"en"		"Replay"
+	}
+	"NoReplayData"
+	{
+		"en"		"No replay data loaded\nPress USE or beat #1 to play"
+	}
+	"NoReplayDataTF2"
+	{
+		"en"		"No replay data loaded\n!replay or beat #1 to play"
+	}
+	// ---------- Panels ---------- //
+	"SpectatorPersonal"
+	{
+		"en"		"观察者"
+	}
+	"SpectatorWatching"
+	{
+		"en"		"其他观察者"
+	}
+	// ---------- Commands ---------- //
+	"HudEnabledComponent"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
+		"en"		"{1}{2} {3}HUD setting {4}enabled{5}."
+	}
+	"HudDisabledComponent"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
+		"en"		"{1}{2} {3}HUD setting {4}disabled{5}."
+	}
+}
