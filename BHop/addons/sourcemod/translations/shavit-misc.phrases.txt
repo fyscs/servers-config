@@ -1,0 +1,203 @@
+"Phrases"
+{
+	// ---------- Commands ---------- //
+	"CommandAlive"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"You have to be {1}alive{2} to use this command."
+	}
+	"CommandAliveSpectate"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s}"
+		"en"		"You have to be {1}alive{2} or {3}spectate a player{4} to use this command."
+	}
+	"CommandSaveCPKZInvalid"
+	{
+		"en"		"You cannot perform this action when airborne or while watching another player."
+	}
+	"CommandSaveCPKZZone"
+	{
+		"en"		"You cannot perform this action while in the start zone."
+	}
+	"CommandTeleCPInvalid"
+	{
+		"en"		"You may not teleport to this checkpoint due to setting mismatch."
+	}
+	"CommandNoPause"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Your timer has to be {1}resumed{2} to use this command."
+	}
+	"CommandDisabled"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"This command is {1}disabled{2}."
+	}
+	"FeatureDisabled"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"This feature is {1}disabled{2}."
+	}
+	"HideEnabled"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"你现在已经 {1}隐藏{2} 玩家."
+	}
+	"HideDisabled"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"你现在已经 {1}无隐藏{2} 玩家."
+	}
+	"LackingAccess"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"You're {1}lacking access{2} to this command."
+	}
+	"SpectateDead"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"你 {1}无法{2} 设定死亡的人为目标."
+	}
+	"SpectatorCount"
+	{
+		"#format"	"{1:s},{2:N},{3:s},{4:s},{5:i},{6:s},{7:s}"
+		"en"		"{1}{2}{3} has {4}{5}{6} spectators: {7}"
+	}
+	"SpectatorCountZero"
+	{
+		"#format"	"{1:s},{2:N},{3:s}"
+		"en"		"No one is spectating {1}{2}{3}."
+	}
+	"SpectatorInvalid"
+	{
+		"en"		"You should be alive or spectate someone to see your/their spectators."
+	}
+	"TeleportAlive"
+	{
+		"en"		"你只能在你活着时候传送."
+	}
+	"TeleportInZone"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s}"
+		"en"		"你 {1}无法使用传送{2} 当你在 {3}起点或者终点区域{4}."
+	}
+	"TeleportInvalidTarget"
+	{
+		"en"		"无效的目标."
+	}
+	"MiscCheckpointsSaved"
+	{
+		"#format"	"{1:d},{2:s},{3:s}"
+		"en"		"存点 ({1}) {2}保存{3}."
+	}
+	"MiscCheckpointsTeleported"
+	{
+		"#format"	"{1:d},{2:s},{3:s}"
+		"en"		"{2}传送至{3} to 存点 ({1})."
+	}
+	"MiscCheckpointsEmpty"
+	{
+		"#format"	"{1:d},{2:s},{3:s}"
+		"en"		"存点 {1} 是 {2}空的{3}."
+	}
+	"MiscCheckpointsOverflow"
+	{
+		"en"		"存点已经达到上限."
+	}
+	"MiscSegmentedCommand"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"使用 {1}!checkpoint{2} 来重新打开segmented模式菜单."
+	}
+	// ---------- Menus ---------- //
+	"StopTimerWarning"
+	{
+		"en"		"你确定要结束目前的进度吗?"
+	}
+	"StopTimerYes"
+	{
+		"en"		"是的，结束我的进度."
+	}
+	"StopTimerNo"
+	{
+		"en"		"不，让他保持."
+	}
+	"ClearCPWarning"
+	{
+		"en"		"你确定要清空你的存点吗?"
+	}
+	"ClearCPYes"
+	{
+		"en"		"是的，我知道这个操作无法撤销."
+	}
+	"ClearCPNo"
+	{
+		"en"		"No."
+	}
+	"TeleportMenuTitle"
+	{
+		"en"		"传送至:"
+	}
+	"WeaponAlive"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"You need to be {1}alive{2} to spawn weapons."
+	}
+	"MiscCheckpointMenu"
+	{
+		"en"		"存点"
+	}
+	"MiscCheckpointMenuSegmented"
+	{
+		"en"		"Segmented 存点"
+	}
+	"MiscCheckpointWarning"
+	{
+		"en"		"警告: 传送至存点将会停止你的时间!"
+	}
+	"MiscCheckpointSave"
+	{
+		"#format"	"{1:d}"
+		"en"		"设置保存点 ({1})"
+	}
+	"MiscCheckpointTeleport"
+	{
+		"#format"	"{1:d}"
+		"en"		"传送至保存点 ({1})"
+	}
+	"MiscCheckpointPrevious"
+	{
+		"en"		"上一个存点"
+	}
+	"MiscCheckpointNext"
+	{
+		"en"		"下一个存点"
+	}
+	"MiscCheckpointReset"
+	{
+		"en"		"重置存点"
+	}
+	"MiscCheckpointPause"
+	{
+		"en"		"暂停"
+	}
+	"MiscCheckpointUseAngles"
+	{
+		"en"		"读取存点时保持原本"
+	}
+	"MiscCheckpointUseVelocity"
+	{
+		"en"		"读取存点时保持原本速度"
+	}
+	// ---------- Misc ---------- //
+	"BHStartZoneDisallowed"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s}"
+		"en"		"你无法在 {1}起点{2} 里 {3}连跳{4}."
+	}
+	"WRNotice"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1}NEW {2} WR!!!"
+	}
+}

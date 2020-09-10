@@ -1,0 +1,100 @@
+"Phrases"
+{
+	// ---------- Commands ---------- //
+	"ChatUpdated"
+	{
+		"en"		"Setting updated."
+	}
+	"ChatCurrent"
+	{
+		"#format"	"{1:s}"
+		"en"		"Current setting: {1}"
+	}
+	"NameOff"
+	{
+		"en"		"Custom chat name is now off."
+	}
+	"MessageOff"
+	{
+		"en"		"Custom chat text color is now off."
+	}
+	"CheckConsole"
+	{
+		"en"		"Check your console."
+	}
+	"CCHelp_Intro"
+	{
+		"en"		"- You have access to custom chat.\nUsage information:"
+	}
+	"CCHelp_Generic"
+	{
+		"en"		"- !ccname can be used to change your custom chat name. Use \"!ccname off\" to toggle it off.\n- !ccmsg can be used to change your custom message prefix/color. Use \"!ccmsg off\" to toggle it off.\nThere are custom variables, such as:"
+	}
+	"CCHelp_GenericVariables"
+	{
+		"en"		"- {name} - your in-game name.\n- {clan} - your clan tag.\n- {rand} - a random color.\n- {team} - your team color.\n- {green} - green color."
+	}
+	"CCHelp_CSS_1"
+	{
+		"en"		"- To use a custom color, write ^RRGGBB (HEX/HTML colors). For example, ^FFFFFF is white and ^000000 is black."
+	}
+	"CCHelp_CSS_2"
+	{
+		"en"		"- You can also use a set alpha (opacity in HEX, where FF is 255). &RRGGBBAA. For example, &FFFFFF7F is 127 alpha, so all text after the color will have 50% opacity."
+	}
+	"CCHelp_CSGO_1"
+	{
+		"en"		"- The following colors are also available: {blue}, {bluegrey}, {darkblue}, {darkred}, {gold}, {grey}, {grey2}, {lightgreen}, {lightred}, {lime}, {orchid}, {yellow} and {palered}."
+	}
+	// ---------- Menu ---------- //
+	"SelectChatRank"
+	{
+		"en"		"Select chat rank:\n"
+	}
+	"AutoAssign"
+	{
+		"en"		"Auto-assign\nAutomatically assign using your rank."
+	}
+	"CustomChat"
+	{
+		"en"		"Custom\nUse custom chat settings. See !cchelp for more information."
+	}
+	"ChatRanksMenu"
+	{
+		"en"		"Obtainable chat ranks:\nSelect an entry to preview.\n"
+	}
+	"ChatRanksMenu_Unranked"
+	{
+		"en"		"Unranked"
+	}
+	"ChatRanksMenu_Points"
+	{
+		"#format"	"{1:d}"
+		"en"		"Have {1} points"
+	}
+	"ChatRanksMenu_Points_Ranged"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Have between {1} and {2} points"
+	}
+	"ChatRanksMenu_Flat"
+	{
+		"#format"	"{1:d}"
+		"en"		"Ranked #{1} or better"
+	}
+	"ChatRanksMenu_Flat_Ranged"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Ranked between #{1} and #{2}"
+	}
+	"ChatRanksMenu_Percentage"
+	{
+		"#format"	"{1:.1f},{2:c}"
+		"en"		"Top {1}{2}"
+	}
+	"ChatRanksMenu_Percentage_Ranged"
+	{
+		"#format"	"{1:.1f},{2:c},{3:.1f},{4:c}"
+		"en"		"Between top {1}{2} and {3}{4}"
+	}
+}
