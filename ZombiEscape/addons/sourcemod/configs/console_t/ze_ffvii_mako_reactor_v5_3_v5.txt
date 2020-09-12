@@ -268,6 +268,7 @@
 	"** WARNING! BAHAMUT IS CASTING ULTIMA ** GET READY TO USE HEAL ++ **"
 	{
 		"chi"		"**警告：巴哈姆特20秒后释放红终！奶神器可以免疫此伤害**"
+		"blocked"   "1"
 	}
 	"** BAHAMUT IS DEAD ** KEEP RUNNING **"
 	{
@@ -330,7 +331,7 @@
 	"** BAHAMUT IS GOING TO EXTERMINATE ALL US ! DONT STOP SHOOTING **"
 	{
 		"chi"		"**巴哈姆特将在7秒后消灭我们！赶快打败它**"
-
+		"blocked"   "1"
 	}
 	"** BAHAMUT HAS CAST WIND **"
 	{
@@ -355,15 +356,15 @@
 	}
 	"** 3 COWBELLS LEFT! **"
 	{
-		"chi"		"**还有3个彩蛋**"
+		"chi"		"**还有三个彩蛋**"
 	}
 	"** 2 COWBELLS LEFT! **"
 	{
-		"chi"		"**还有2个彩蛋**"
+		"chi"		"**还有两个彩蛋**"
 	}
 	"** 1 COWBELLS LEFT!!! **"
 	{
-		"chi"		"**还有1个彩蛋**"
+		"chi"		"**还有一个彩蛋**"
 	}
 	"** NO MORE COWBELL BONUS **"
 	{
