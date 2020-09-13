@@ -27,7 +27,7 @@
 	}
 	">>> ROUTE2 : HOLD 20 SECONDS <<<"
 	{
-		"chi"		">>>路线二:防守20秒<<<"
+		"chi"		">>>路线二：防守20秒<<<"
 	}
 	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{
@@ -88,7 +88,7 @@
 	}
 	">>> ROUTE3 : HOLD 15 SECONDS <<<"
 	{
-		"chi"		">>>路径3:守住15秒<<<"
+		"chi"		">>>路径三：守住15秒<<<"
 	}
 	">>> HOLD 35 SECONDS <<<"
 	{
@@ -198,7 +198,7 @@
 	}
 	">>> PRESS 3 BUTTONS TO MAKE PASSAGE <<<"
 	{
-		"chi"		">>>按3个按钮进入通道<<<"
+		"chi"		">>>按三个按钮进入通道<<<"
 	}
 	">>> YELLOW BUTTON WAS PRESSED <<<"
 	{
@@ -214,7 +214,7 @@
 	}
 	">>> 5 SECONDS LEFT  GET OUT FROM TRAIN <<<"
 	{
-		"chi"		">>>5秒内远离火车<<<"
+		"chi"		">>>火车5秒后开车<<<"
 	}
 	">>> IT'S PRIEST <<<"
 	{
