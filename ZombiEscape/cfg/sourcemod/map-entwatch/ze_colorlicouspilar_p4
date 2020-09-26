@@ -1,0 +1,21 @@
+//彩虹塔 entwatch测试第一次
+"entities"
+{
+    "0"
+    {
+        "name"              "物理学圣剑"
+        "shortname"         "物理学圣剑"
+        "buttonclass"       "func_button"
+        "filtername"        "null"
+        "hasfiltername"     "false"
+        "autotransfer"      "true"
+        "hud"               "true"
+        "hammerid"          "3787"
+        "mode"              "2"
+        "maxuses"           "0"
+        "cooldown"          "11"
+        "maxamount"         "1"
+        "startcd"           "0"
+        "glow"              "false"
+    }
+}
