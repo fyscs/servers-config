@@ -1,0 +1,121 @@
+"Phrases"
+{
+	// ---------- Errors ---------- //
+	"StatsMenuFailure"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1}ERROR: {2}Could not open the stats menu."
+	}
+	// ---------- Map Completions ---------- //
+	"SelectTrack"
+	{
+		"en"		"Select timer track:"
+	}
+	"MapsDone"
+	{
+		"en"		"Maps done"
+	}
+	"MapsDoneFor"
+	{
+		"#format"	"{1:s},{2:s},{3:d}"
+		"en"		"[{1}] Maps done for {2}: ({3})"
+	}
+	"MapsDoneOnStyle"
+	{
+		"#format"	"{1:s}"
+		"en"		"Maps done for {1} on style:"
+	}
+	"MapsLeft"
+	{
+		"en"		"Maps left"
+	}
+	"MapsLeftFor"
+	{
+		"#format"	"{1:s},{2:s},{3:d}"
+		"en"		"[{1}] Maps left for {2}: ({3})"
+	}
+	"MapsLeftOnStyle"
+	{
+		"#format"	"{1:s}"
+		"en"		"Maps left for {1} on style:"
+	}
+	"MapsMenu"
+	{
+		"#format"	"{1:s}"
+		"en"		"[{1}] Stats:"
+	}
+	"MapsPoints"
+	{
+		"en"		"points"
+	}
+	"MapsJumps"
+	{
+		"en"		"jumps"
+	}
+	"Nope"
+	{
+		"en"		"nope"
+	}
+	"NoResults"
+	{
+		"en"		"No results."
+	}
+	// ---------- Player Profiles ---------- //
+	"Country"
+	{
+		"en"		"国家"
+	}
+	"LastLogin"
+	{
+		"en"		"上次登录"
+	}
+	"MapCompletions"
+	{
+		"en"		"完成的地图"
+	}
+	"NoRecords"
+	{
+		"en"		"Nothing."
+	}
+	"Rank"
+	{
+		"en"		"Rank"
+	}
+	"Points"
+	{
+		"en"		"Points"
+	}
+	"PointsUnranked"
+	{
+		"en"		"Unranked"
+	}
+	"Profile"
+	{
+		"en"		"profile"
+	}
+	"WorldRecords"
+	{
+		"en"		"world records"
+	}
+	// ---------- Record Data ---------- //
+	"Date"
+	{
+		"en"		"日期"
+	}
+	"Jumps"
+	{
+		"en"		"Jumps"
+	}
+	"Strafes"
+	{
+		"en"		"Strafes"
+	}
+	"Style"
+	{
+		"en"		"模式"
+	}
+	"Time"
+	{
+		"en"		"Time"
+	}
+}

@@ -1,0 +1,291 @@
+"Phrases"
+{
+	// ---------- Admin Menu ---------- //
+	"AddMapZone"
+	{
+		"en"		"添加地图区域"
+	}
+	"DeleteAllMapZone"
+	{
+		"en"		"删除全部地图区域"
+	}
+	"DeleteMapZone"
+	{
+		"en"		"删除地图区域"
+	}
+	// ---------- Commands ---------- //
+	"StageCommandAlive"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"You have to be {1}alive{2} to use this command."
+	}
+	"ModifierCommandNoArgs"
+	{
+		"en"		"Usage: sm_modifier <decimal number>"
+	}
+	"ModifierTooLow"
+	{
+		"en"		"Modifier must be higher than 0."
+	}
+	"ModifierSet"
+	{
+		"en"		"Modifier set to"
+	}
+	"ZonesCommand"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"You {1}cannot{2} setup mapzones when you're dead."
+	}
+	"ZoneCustomSpawnMenuTitle"
+	{
+		"en"		"Add custom spawn for track:"
+	}
+	"ZoneCustomSpawnMenuDeleteTitle"
+	{
+		"en"		"Delete custom spawn for track:"
+	}
+	"ZoneCustomSpawnExists"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Custom Spawn for track {1}{2}{3} already exists. Please delete it before placing a new one."
+	}
+	"ZoneCustomSpawnMissing"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Custom Spawn for track {1}{2}{3} is missing."
+	}
+	"ZoneCustomSpawnDelete"
+	{
+		"en"		"Deleted Custom Spawn successfully."
+	}
+	"ZoneDead"
+	{
+		"en"		"You can't place zones when you're dead."
+	}
+	// ---------- Panel Text ---------- //
+	"AbortZoneCreation"
+	{
+		"en"		"取消"
+	}
+	"GridSnapPlus"
+	{
+		"#format"	"{1:d}"
+		"en"		"Grid snap + (x{1})"
+	}
+	"GridSnapMinus"
+	{
+		"en"		"Grid snap -"
+	}
+	"WallSnap"
+	{
+		"#format"	"{1:T}"
+		"en"		"Snap to wall: {1}"
+	}
+	"CursorZone"
+	{
+		"#format"	"{1:T}"
+		"en"		"Use cursor position: {1}"
+	}
+	// ---------- Zone Menu ---------- //
+	"ZoneAdjustCancel"
+	{
+		"en"		"取消"
+	}
+	"ZoneAdjustDone"
+	{
+		"en"		"完成!"
+	}
+	"ZoneAdjustPosition"
+	{
+		"en"		"编辑区域的位置.\nUse 'sm_modifier <number>' to set a new modifier."
+	}
+	"ZoneAxis"
+	{
+		"en"		"axis"
+	}
+	"ZoneCustomSpawnSuccess"
+	{
+		"en"		"Successfully placed custom spawn!"
+	}
+	"ZoneDecreased"
+	{
+		"en"		"decreased"
+	}
+	"ZoneEditConfirm"
+	{
+		"en"		"Confirm?"
+	}
+	"ZoneDeleteSuccessful"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Deleted {1}{2}{3} successfully."
+	}
+	"ZoneDeleteAllSuccessful"
+	{
+		"en"		"已成功删除所有地图区域"
+	}
+	"ZoneFirst"
+	{
+		"en"		"FIRST"
+	}
+	"ZoneIncreased"
+	{
+		"en"		"increased"
+	}
+	"ZoneMenuDeleteTitle"
+	{
+		"en"		"删除一个区域:\nPressing a zone will delete it. This action CANNOT BE REVERTED!"
+	}
+	"ZoneMenuDeleteALLTitle"
+	{
+		"en"		"删除全部区域?\nPressing 'Yes' will delete all the existing mapzones for this map.\nThis action CANNOT BE REVERTED!"
+	}
+	"ZoneMenuNo"
+	{
+		"en"		"NO!"
+	}
+	"ZonesMenuNoneFound"
+	{
+		"en"		"无有效区域."
+	}
+	"ZoneMenuStage"
+	{
+		"en"		"Select A Stage:"
+	}
+	"ZoneMenuTrack"
+	{
+		"en"		"Select a track:"
+	}
+	"ZoneMenuTitle"
+	{
+		"#format"	"{1:s}"
+		"en"		"Select a zone type: ({1})"
+	}
+	"ZoneMenuYes"
+	{
+		"en"		"YES!!! DELETE ALL THE MAPZONES!!!"
+	}
+	"ZonePlaceText"
+	{
+		"#format"	"{1:s}"
+		"en"		"Press USE (default 'E') to set the {1} corner in your current position."
+	}
+	"ZonePlaceTextTF2"
+	{
+		"#format"	"{1:s}"
+		"en"		"Press ATTACK2 (default 'right click') to set the {1} corner in your current position."
+	}
+	"ZonePoint"
+	{
+		"#format"	"{1:d},{2:c}"
+		"en"		"Point {1} | {2} axis"
+	}
+	"ZoneSecond"
+	{
+		"en"		"SECOND"
+	}
+	"ZoneSetAdjust"
+	{
+		"en"		"调整位置"
+	}
+	"ZoneForceRender"
+	{
+		"#format"	"{1:s}"
+		"en"		"[{1}] Force zone drawing"
+	}
+	"ZoneSetAiraccelerate"
+	{
+		"#format"	"{1:d}"
+		"en"		"Airaccelerate: {1}"
+	}
+	"ZoneSetSpeedLimit"
+	{
+		"#format"	"{1:d}"
+		"en"		"自定义速度限制: {1}"
+	}
+	"ZoneSetSpeedLimitUnlimited"
+	{
+		"#format"	"{1:d}"
+		"en"		"自定义速度限制: {1} (No Limit)"
+	}
+	"ZoneSetStage"
+	{
+		"#format"	"{1:d}"
+		"en"		"Stage: {1}"
+	}
+	"ZoneEnterDataChat"
+	{
+		"en"		"Input your desired data in chat."
+	}
+	"ZoneSetNo"
+	{
+		"en"		"No"
+	}
+	"ZoneSetTP"
+	{
+		"en"		"Yes (choose teleport destination first)"
+	}
+	"ZoneSetTPZone"
+	{
+		"en"		"Update teleport destination"
+	}
+	"ZoneSetYes"
+	{
+		"en"		"Yes"
+	}
+	"ZoneSizeIncrease"
+	{
+		"#format"	"{1:s},{2:c},{3:s},{4:d},{5:s},{6:.01f},{7:s}"
+		"en"		"{1}{2} axis{3} (point {4}) increased by {5}{6}{7}."
+	}
+	"ZoneSizeDecrease"
+	{
+		"#format"	"{1:s},{2:c},{3:s},{4:d},{5:s},{6:.01f},{7:s}"
+		"en"		"{1}{2} axis{3} (point {4}) decreased by {5}{6}{7}."
+	}
+	"ZoneTeleportUpdated"
+	{
+		"en"		"Teleport destination updated."
+	}
+	"ZoneTeleportInsideZone"
+	{
+		"en"		"You may not place the destination inside the zone."
+	}
+	"ZoneEditTrack"
+	{
+		"#format"	"{1:s}"
+		"en"		"Zone track: {1}"
+	}
+	"ZoneEdit"
+	{
+		"en"		"Edit a map zone"
+	}
+	"ZoneEditTitle"
+	{
+		"en"		"Choose a zone to edit:"
+	}
+	"ZoneInside"
+	{
+		"en"		"(Inside!)"
+	}
+	"ZoneEditRefresh"
+	{
+		"en"		"刷新菜单"
+	}
+	// ---------- Messages ---------- //
+	"ZoneSlayEnter"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"{1}You have been slain for entering a {2}glitch zone{3}."
+	}
+	"ZoneStopEnter"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"{1}Your timer has been stopped for entering a {2}glitch zone{3}."
+	}
+	"ZoneStageEnter"
+	{
+		"#format"	"{1:s},{2:s},{3:d},{4:s},{5:s},{6:s}{7:s}"
+		"en"		"{1}You have reached stage {2}{3}{4} with a time of {5}{6}{7}."
+	}
+}
