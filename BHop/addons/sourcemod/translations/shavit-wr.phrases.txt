@@ -3,27 +3,27 @@
 	// ---------- Commands ---------- //
 	"DeletionAborted"
 	{
-		"en"		"Aborted deletion."
+		"en"		"已中止删除."
 	}
 	"DeletedRecord"
 	{
-		"en"		"Deleted record."
+		"en"		"删除的记录."
 	}
 	"DeletedRecordsMap"
 	{
 		"#format"	"{1:s},{2:s},{3:s}"
-		"en"		"Deleted ALL records for {1}{2}{3}."
+		"en"		"已删除{1}{2}{3}的所有记录."
 	}
 	"DeletedRecordsStyle"
 	{
 		"#format"	"{1:s},{2:s},{3:s}"
-		"en"		"Deleted ALL records for {1}{2}{3}."
+		"en"		"已删除{1}{2}{3}的所有记录."
 	}
 	// ---------- Client Menus ---------- //
 	"ListClientRecords"
 	{
 		"#format"	"{1:s},{2:s}"
-		"en"		"Records for {1}:\n({2})"
+		"en"		"{1}:/n({2})的记录"
 	}
 	// ---------- Completion Messages ---------- //
 	"FirstCompletion"
@@ -62,7 +62,7 @@
 	}
 	"DeleteMenuTitle"
 	{
-		"en"		"Delete a record from:"
+		"en"		"删除一个记录，从:"
 	}
 	"DeleteSingleRecord"
 	{
@@ -70,57 +70,57 @@
 	}
 	"MenuResponseNo"
 	{
-		"en"		"NO!"
+		"en"		"不!"
 	}
 	"MenuResponseYesSingle"
 	{
-		"en"		"YES!!! DELETE THE RECORD!!!"
+		"en"		"YES!!! 删掉记录!!!"
 	}
 	"MenuResponseYes"
 	{
-		"en"		"YES!!! DELETE ALL THE RECORDS!!! THIS ACTION IS IRREVERSIBLE!"
+		"en"		"YES!!!! 删掉所有的记录！！！！！！这个行动是不可逆转的!"
 	}
 	"DeleteStyleRecordsRecordsMenuTitle"
 	{
 		"#format"	"{1:s}"
-		"en"		"Choose a style to delete all the records for '{1}':"
+		"en"		"选择一个模式来删除'{1}'的所有记录:"
 	}
 	"DeleteConfirmStyle"
 	{
 		"#format"	"{1:s}"
-		"en"		"Are you sure you want to delete ALL THE RECORDS for {1}?"
+		"en"		"你确定要删除{1}的所有记录吗?"
 	}
 	"MenuResponseYesStyle"
 	{
 		"#format"	"{1:s}"
-		"en"		"YES!!! DELETE THE RECORDS FOR {1}!!! THIS ACTION IS IRREVERSIBLE!"
+		"en"		"YES!!!! 删除{1}!!!! 的记录.此操作不可逆转!"
 	}
 	"DeleteTrackSingle"
 	{
-		"en"		"Choose a track to delete a single record from:"
+		"en"		"选择要删除单条记录的轨道:"
 	}
 	"DeleteTrackAll"
 	{
-		"en"		"Choose a track to delete a ALL records from:"
+		"en"		"选择要删除所有记录的轨道:"
 	}
 	"DeleteTrackAllStyle"
 	{
 		"#format"	"{1:s}"
-		"en"		"Choose a style to delete all the records for ({1}):"
+		"en"		"选择一种模式来删除({1})的所有记录:"
 	}
 	// ---------- Errors ---------- //
 	"DatabaseError"
 	{
-		"en"		"Database error"
+		"en"		"数据库错误"
 	}
 	"Error"
 	{
-		"en"		"ERROR"
+		"en"		"错误"
 	}
 	"NoStyles"
 	{
 		"#format"	"{1:s},{2:s}"
-		"en"		"{1}FATAL ERROR: {2}No styles are available. Contact the server owner immediately!"
+		"en"		"{1}错误: {2}没有可用的模式。请立即联系服务器所有者!"
 	}
 	// ---------- WR Menu ---------- //
 	"RecentRecords"
@@ -134,7 +134,7 @@
 	}
 	"WRJump"
 	{
-		"en"		"jump"
+		"en"		"跳跃"
 	}
 	"WRJumps"
 	{
@@ -143,7 +143,7 @@
 	"WRMap"
 	{
 		"#format"	"{1:s}"
-		"en"		"Records for {1}"
+		"en"		"{1}的记录"
 	}
 	"WRMapNoRecords"
 	{
@@ -155,35 +155,35 @@
 	}
 	"WRPoints"
 	{
-		"en"		"points"
+		"en"		"得分点"
 	}
 	"WRPlayerStats"
 	{
-		"en"		"Player stats"
+		"en"		"玩家统计"
 	}
 	"WRDeleteRecord"
 	{
-		"en"		"Delete record"
+		"en"		"删除记录"
 	}
 	"WRPointsCap"
 	{
-		"en"		"Points"
+		"en"		"得分点"
 	}
 	"WRRecord"
 	{
-		"en"		"records"
+		"en"		"记录"
 	}
 	"WRRecordFor"
 	{
-		"en"		"Records for"
+		"en"		"记录"
 	}
 	"WRStrafes"
 	{
-		"en"		"Strafes"
+		"en"		"加速"
 	}
 	"WRCompletions"
 	{
-		"en"		"Completions"
+		"en"		"完成情况"
 	}
 	"WRStyle"
 	{
@@ -191,7 +191,7 @@
 	}
 	"WRStyleNothing"
 	{
-		"en"		"Nothing."
+		"en"		"无."
 	}
 	"WRTime"
 	{
