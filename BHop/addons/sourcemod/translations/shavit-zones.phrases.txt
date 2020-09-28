@@ -17,50 +17,50 @@
 	"StageCommandAlive"
 	{
 		"#format"	"{1:s},{2:s}"
-		"en"		"You have to be {1}alive{2} to use this command."
+		"en"		"你必须是{1}还活着{2}才能使用这个命令."
 	}
 	"ModifierCommandNoArgs"
 	{
-		"en"		"Usage: sm_modifier <decimal number>"
+		"en"		"用法: sm_modifier <十进制数>."
 	}
 	"ModifierTooLow"
 	{
-		"en"		"Modifier must be higher than 0."
+		"en"		"修改器必须大于0."
 	}
 	"ModifierSet"
 	{
-		"en"		"Modifier set to"
+		"en"		"修改器设置为"
 	}
 	"ZonesCommand"
 	{
 		"#format"	"{1:s},{2:s}"
-		"en"		"You {1}cannot{2} setup mapzones when you're dead."
+		"en"		"当你死亡时，你不能{1}设置地图区域."
 	}
 	"ZoneCustomSpawnMenuTitle"
 	{
-		"en"		"Add custom spawn for track:"
+		"en"		"为轨道添加自定义生成:"
 	}
 	"ZoneCustomSpawnMenuDeleteTitle"
 	{
-		"en"		"Delete custom spawn for track:"
+		"en"		"删除轨迹的自定义生成:"
 	}
 	"ZoneCustomSpawnExists"
 	{
 		"#format"	"{1:s},{2:s},{3:s}"
-		"en"		"Custom Spawn for track {1}{2}{3} already exists. Please delete it before placing a new one."
+		"en"		"自定义生成的轨道{1}{2}{3}已经存在。请在放置新的之前将其删除."
 	}
 	"ZoneCustomSpawnMissing"
 	{
 		"#format"	"{1:s},{2:s},{3:s}"
-		"en"		"Custom Spawn for track {1}{2}{3} is missing."
+		"en"		"缺少轨道{1}{2}{3}的自定义生成."
 	}
 	"ZoneCustomSpawnDelete"
 	{
-		"en"		"Deleted Custom Spawn successfully."
+		"en"		"成功删除了自定义生成."
 	}
 	"ZoneDead"
 	{
-		"en"		"You can't place zones when you're dead."
+		"en"		"当你死了，你不能设置区域."
 	}
 	// ---------- Panel Text ---------- //
 	"AbortZoneCreation"
@@ -70,21 +70,21 @@
 	"GridSnapPlus"
 	{
 		"#format"	"{1:d}"
-		"en"		"Grid snap + (x{1})"
+		"en"		"网格快照+(x{1})"
 	}
 	"GridSnapMinus"
 	{
-		"en"		"Grid snap -"
+		"en"		"网格快照 -"
 	}
 	"WallSnap"
 	{
 		"#format"	"{1:T}"
-		"en"		"Snap to wall: {1}"
+		"en"		"卡在墙上: {1}"
 	}
 	"CursorZone"
 	{
 		"#format"	"{1:T}"
-		"en"		"Use cursor position: {1}"
+		"en"		"使用光标位置: {1}"
 	}
 	// ---------- Zone Menu ---------- //
 	"ZoneAdjustCancel"
@@ -97,28 +97,28 @@
 	}
 	"ZoneAdjustPosition"
 	{
-		"en"		"编辑区域的位置.\nUse 'sm_modifier <number>' to set a new modifier."
+		"en"		"编辑区域的位置.\n使用'sm_modifier <number>'来设置一个新的修改器."
 	}
 	"ZoneAxis"
 	{
-		"en"		"axis"
+		"en"		"轴心"
 	}
 	"ZoneCustomSpawnSuccess"
 	{
-		"en"		"Successfully placed custom spawn!"
+		"en"		"成功放置自定义的生成!"
 	}
 	"ZoneDecreased"
 	{
-		"en"		"decreased"
+		"en"		"减少"
 	}
 	"ZoneEditConfirm"
 	{
-		"en"		"Confirm?"
+		"en"		"确认?"
 	}
 	"ZoneDeleteSuccessful"
 	{
 		"#format"	"{1:s},{2:s},{3:s}"
-		"en"		"Deleted {1}{2}{3} successfully."
+		"en"		"成功删除{1}{2}{3}."
 	}
 	"ZoneDeleteAllSuccessful"
 	{
@@ -126,11 +126,11 @@
 	}
 	"ZoneFirst"
 	{
-		"en"		"FIRST"
+		"en"		"首先"
 	}
 	"ZoneIncreased"
 	{
-		"en"		"increased"
+		"en"		"增加"
 	}
 	"ZoneMenuDeleteTitle"
 	{
@@ -142,7 +142,7 @@
 	}
 	"ZoneMenuNo"
 	{
-		"en"		"NO!"
+		"en"		"不!"
 	}
 	"ZonesMenuNoneFound"
 	{
@@ -150,39 +150,39 @@
 	}
 	"ZoneMenuStage"
 	{
-		"en"		"Select A Stage:"
+		"en"		"选择一个阶段:"
 	}
 	"ZoneMenuTrack"
 	{
-		"en"		"Select a track:"
+		"en"		"选择一个轨道:"
 	}
 	"ZoneMenuTitle"
 	{
 		"#format"	"{1:s}"
-		"en"		"Select a zone type: ({1})"
+		"en"		"选择一个区段类型。({1})"
 	}
 	"ZoneMenuYes"
 	{
-		"en"		"YES!!! DELETE ALL THE MAPZONES!!!"
+		"en"		"是的！！！删除所有地图区！！！！！！！！"
 	}
 	"ZonePlaceText"
 	{
 		"#format"	"{1:s}"
-		"en"		"Press USE (default 'E') to set the {1} corner in your current position."
+		"en"		"按 "USE "键（默认为 "E"）将{1}角设置在当前位置."
 	}
 	"ZonePlaceTextTF2"
 	{
 		"#format"	"{1:s}"
-		"en"		"Press ATTACK2 (default 'right click') to set the {1} corner in your current position."
+		"en"		"按ATTACK2键（默认为 "右键"），将{1}角设置在当前位置."
 	}
 	"ZonePoint"
 	{
 		"#format"	"{1:d},{2:c}"
-		"en"		"Point {1} | {2} axis"
+		"en"		"点{1}｜{2}轴"
 	}
 	"ZoneSecond"
 	{
-		"en"		"SECOND"
+		"en"		"秒数"
 	}
 	"ZoneSetAdjust"
 	{
@@ -191,7 +191,7 @@
 	"ZoneForceRender"
 	{
 		"#format"	"{1:s}"
-		"en"		"[{1}] Force zone drawing"
+		"en"		"[{1}]强制区绘制"
 	}
 	"ZoneSetAiraccelerate"
 	{
@@ -211,27 +211,27 @@
 	"ZoneSetStage"
 	{
 		"#format"	"{1:d}"
-		"en"		"Stage: {1}"
+		"en"		"阶段：{1}"
 	}
 	"ZoneEnterDataChat"
 	{
-		"en"		"Input your desired data in chat."
+		"en"		"在聊天中输入你想要的数据."
 	}
 	"ZoneSetNo"
 	{
-		"en"		"No"
+		"en"		"不"
 	}
 	"ZoneSetTP"
 	{
-		"en"		"Yes (choose teleport destination first)"
+		"en"		"是（先选择传送目的地)"
 	}
 	"ZoneSetTPZone"
 	{
-		"en"		"Update teleport destination"
+		"en"		"更新传送目的地"
 	}
 	"ZoneSetYes"
 	{
-		"en"		"Yes"
+		"en"		"是的"
 	}
 	"ZoneSizeIncrease"
 	{
@@ -245,28 +245,28 @@
 	}
 	"ZoneTeleportUpdated"
 	{
-		"en"		"Teleport destination updated."
+		"en"		"更新传送目的地."
 	}
 	"ZoneTeleportInsideZone"
 	{
-		"en"		"You may not place the destination inside the zone."
+		"en"		"您不得将目的地置于区域内."
 	}
 	"ZoneEditTrack"
 	{
 		"#format"	"{1:s}"
-		"en"		"Zone track: {1}"
+		"en"		"区间轨道: {1}"
 	}
 	"ZoneEdit"
 	{
-		"en"		"Edit a map zone"
+		"en"		"编辑地图区域"
 	}
 	"ZoneEditTitle"
 	{
-		"en"		"Choose a zone to edit:"
+		"en"		"选择要编辑的区段:"
 	}
 	"ZoneInside"
 	{
-		"en"		"(Inside!)"
+		"en"		"(内部!)"
 	}
 	"ZoneEditRefresh"
 	{
@@ -276,16 +276,16 @@
 	"ZoneSlayEnter"
 	{
 		"#format"	"{1:s},{2:s},{3:s}"
-		"en"		"{1}You have been slain for entering a {2}glitch zone{3}."
+		"en"		"{1}你因为进入{2}故障区而被杀死{3}."
 	}
 	"ZoneStopEnter"
 	{
 		"#format"	"{1:s},{2:s},{3:s}"
-		"en"		"{1}Your timer has been stopped for entering a {2}glitch zone{3}."
+		"en"		"{1}您的计时器因进入{2}故障区而被停止{3}."
 	}
 	"ZoneStageEnter"
 	{
 		"#format"	"{1:s},{2:s},{3:d},{4:s},{5:s},{6:s}{7:s}"
-		"en"		"{1}You have reached stage {2}{3}{4} with a time of {5}{6}{7}."
+		"en"		"{1}你已经达到了阶段{2}{3}{4}，时间为{5}{6}{7}."
 	}
 }
