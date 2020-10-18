@@ -4,36 +4,36 @@
 	// DO NOT MAKE NAMES LONGER THAN DISPLAYED HERE //
 	"HudStartZone"
 	{
-		"en"		"Start Zone"
+		"en"		"开始区域"
 	}
 	"HudZoneTier"
 	{
 		"#format"	"{1:d}"
-		"en"		"Tier {1}"
+		"en"		"难度{1}"
 	}
 	"HudInStartZone"
 	{
 		"#format"	"{1:d}"
-		"en"		"In Start Zone\n\n{1}"
+		"en"		"在开始区域中\n\n{1}"
 	}
 	"HudInStartZoneCSGO"
 	{
 		"#format"	"{1:d}"
-		"en"		"In Start Zone\n\n\t\t\t{1}"
+		"en"		"在开始区域\n\n\t\t\t{1}"
 	}
 	"HudEndZone"
 	{
-		"en"		"End Zone"
+		"en"		"终点区域"
 	}
 	"HudInEndZone"
 	{
 		"#format"	"{1:d}"
-		"en"		"In End Zone\n\n{1}"
+		"en"		"在终点区域\n\n{1}"
 	}
 	"HudInEndZoneCSGO"
 	{
 		"#format"	"{1:d}"
-		"en"		"In End Zone\n\n\t\t\t{1}"
+		"en"		"在终点区域\n\n\t\t\t{1}"
 	}
 	"HudPaused"
 	{
@@ -45,11 +45,11 @@
 	}
 	"HudBestText"
 	{
-		"en"		"Best"
+		"en"		"最佳"
 	}
 	"HudJumpsText"
 	{
-		"en"		"Jumps"
+		"en"		"次 跳 跃"
 	}
 	"HudStyleText"
 	{
@@ -61,7 +61,7 @@
 	}
 	"HudStrafeText"
 	{
-		"en"		"Strafes"
+		"en"		"次 加 速"
 	}
 	"HudTimeLeft"
 	{
@@ -73,7 +73,7 @@
 	}
 	"HudPerfs"
 	{
-		"en"		"Perfect jumps"
+		"en"		"完美跳跃"
 	}
 	"HudPracticeMode"
 	{
@@ -86,7 +86,7 @@
 	"HudCustomSpeedLimit"
 	{
 		"#format"	"{1:d}"
-		"en"		"(Speed Limit: {1})"
+		"en"		"(速度限制: {1})"
 	}
 	// ---------- Menus ---------- //
 	"HUDMenuTitle"
@@ -95,11 +95,11 @@
 	}
 	"HudMaster"
 	{
-		"en"		"总开关"
+		"en"		"总控制"
 	}
 	"HudCenter"
 	{
-		"en"		"Center text"
+		"en"		"居中文本"
 	}
 	"HudZoneHud"
 	{
@@ -143,11 +143,11 @@
 	}
 	"HudTrackText"
 	{
-		"en"		"Timer track"
+		"en"		"计时器轨迹"
 	}
 	"HudSplitPbText"
 	{
-		"en"		"Split PB"
+		"en"		"拆分 PB"
 	}
 	"HudMapTierText"
 	{
@@ -160,11 +160,11 @@
 	// ---------- Record Bots ---------- //
 	"ReplayText"
 	{
-		"en"		"Replay"
+		"en"		"回放"
 	}
 	"NoReplayData"
 	{
-		"en"		"No replay data loaded\nPress USE or beat #1 to play"
+		"en"		"未加载重播数据\n按USE来进行播放"
 	}
 	"NoReplayDataTF2"
 	{
@@ -183,11 +183,11 @@
 	"HudEnabledComponent"
 	{
 		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
-		"en"		"{1}{2} {3}HUD setting {4}enabled{5}."
+		"en"		"{1}{2}{3}HUD设置{4}启用{5}."
 	}
 	"HudDisabledComponent"
 	{
 		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
-		"en"		"{1}{2} {3}HUD setting {4}disabled{5}."
+		"en"		"{1}{2}{3}HUD设置{4}已禁用{5}."
 	}
 }
