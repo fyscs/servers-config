@@ -4,16 +4,16 @@
 	"StatsMenuFailure"
 	{
 		"#format"	"{1:s},{2:s}"
-		"en"		"{1}ERROR: {2}Could not open the stats menu."
+		"en"		"{1}错误:{2}无法打开统计菜单."
 	}
 	// ---------- Map Completions ---------- //
 	"SelectTrack"
 	{
-		"en"		"Select timer track:"
+		"en"		"选择计时器轨迹:"
 	}
 	"MapsDone"
 	{
-		"en"		"Maps done"
+		"en"		"已完成的地图"
 	}
 	"MapsDoneFor"
 	{
@@ -27,7 +27,7 @@
 	}
 	"MapsLeft"
 	{
-		"en"		"Maps left"
+		"en"		"左侧地图"
 	}
 	"MapsLeftFor"
 	{
@@ -46,19 +46,19 @@
 	}
 	"MapsPoints"
 	{
-		"en"		"points"
+		"en"		"分数"
 	}
 	"MapsJumps"
 	{
-		"en"		"jumps"
+		"en"		"跳跃"
 	}
 	"Nope"
 	{
-		"en"		"nope"
+		"en"		"没有"
 	}
 	"NoResults"
 	{
-		"en"		"No results."
+		"en"		"没有结果."
 	}
 	// ---------- Player Profiles ---------- //
 	"Country"
@@ -75,27 +75,27 @@
 	}
 	"NoRecords"
 	{
-		"en"		"Nothing."
+		"en"		"什么也没有."
 	}
 	"Rank"
 	{
-		"en"		"Rank"
+		"en"		"排名"
 	}
 	"Points"
 	{
-		"en"		"Points"
+		"en"		"点数"
 	}
 	"PointsUnranked"
 	{
-		"en"		"Unranked"
+		"en"		"无排名"
 	}
 	"Profile"
 	{
-		"en"		"profile"
+		"en"		"概况"
 	}
 	"WorldRecords"
 	{
-		"en"		"world records"
+		"en"		"世界纪录"
 	}
 	// ---------- Record Data ---------- //
 	"Date"
@@ -104,11 +104,11 @@
 	}
 	"Jumps"
 	{
-		"en"		"Jumps"
+		"en"		"跳跃"
 	}
 	"Strafes"
 	{
-		"en"		"Strafes"
+		"en"		"加速"
 	}
 	"Style"
 	{
@@ -116,6 +116,6 @@
 	}
 	"Time"
 	{
-		"en"		"Time"
+		"en"		"时间"
 	}
 }
