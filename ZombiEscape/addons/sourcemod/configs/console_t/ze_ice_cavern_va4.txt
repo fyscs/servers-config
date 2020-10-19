@@ -1,11 +1,96 @@
+//ze_ice_cavern_va4 翻译测试第一次
 "Console_T"
 {
-	"<<< Cavern door opens in 45 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Outside door closes in 15 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
+		"<<< Bar door opens in 30 seconds! >>>"
+		{
+		"chi"               "<<< 蝙蝠洞闸门30秒后开启！ >>>"
+		}
+		"<<< Zombies teleport in 20 seconds! >>>"
+		{
+		"chi"               "<<< 僵尸将于20秒后传送！ >>>"
+		}
+		"<<< Gate opens in 60 seconds! >>>"
+		{
+		"chi"               "<<< 闸门将于60秒后开启 >>>"
+		}
+		"<<< Last hold! Hold for 60 seconds! >>>"
+		{
+		"chi"               "<<< 最后的防守！再坚持60秒！ >>>"
+		}
+		"<<< 25 more seconds! >>>"
+		{
+		"chi"               "<<< 即将胜利！还有25秒！ >>>"
+		}
+		"<<< Ladder on side of platform has been broken watch out!!!"
+		{
+		"chi"               "<<< 平台侧面的梯子打开了（僵尸侧路） 当心！ >>>"
+		}
+		"<<< Gates open in 10 seconds! >>>"
+		{
+		"chi"               "<<< 闸门将于10秒后开启！准备防守！ >>>"
+		}
+		"<<< Gastly Wind >>>"
+		{
+		"chi"               "<<< 寒冰之息 >>>"
+		}
+		"<<< Killzone >>>"
+		{
+		"chi"               "<<< 严寒炼狱 >>>"
+		}
+		"<<< Replenish >>>"
+		{
+		"chi"               "<<< 冰霜铠甲 >>>"
+		}
+		"<<< Gate opens in 30 seconds! >>>"
+		{
+		"chi"               "<<< boss房闸门将于30秒后开启！ >>>"
+		}
+		"<<< Crystals break in 30 seconds! >>>"
+		{
+		"chi"               "<<< 寒冰结晶将于30秒后破碎 防守！ >>>"
+		}
+		"<<< Zombies teleport in 45 seconds! >>>"
+		{
+		"chi"               "<<< 僵尸将于45秒后传送！ >>>"
+		}
+		"<<< Blade stopping! >>>"
+		{
+		"chi"               "<<< 刀刃停止！ >>>"
+		}
+		"<<< Icicles break in 10 seconds! >>>"
+		{
+		"chi"               "<<< 冰柱将于10秒后破碎！ >>>"
+		}
+		"<<< Gate opens in 30 seconds! >>>"
+		{
+		"chi"               "<<< 机关房出口将于30秒后开启！ >>>"
+		}
+		"<<< Bridge appearing in 5 seconds! >>>"
+		{
+		"chi"               "<<< 冰桥5秒后出现！ >>>"
+		}
+		"<<< Zombies teleport in 60 seconds! >>>"
+		{
+		"chi"               "<<< 僵尸将于60秒后传送！ >>>"
+		}
+		"<<< Cavern door opens in 45 seconds! >>>"
+		{
+		"chi"               "<<< 冰雪神庙大门将于45秒后开启！ >>>"
+		}
+		"<<< Outside door closes in 15 seconds! >>>"
+		{
+		"chi"               "<<< 神庙大门15秒后关闭 注意！ >>>"
+		}
+		"<<< Zombies teleport in 30 seconds! >>>"
+		{
+		"chi"               "<<< 僵尸将于30秒后传送！ >>>"
+		}
+		"<<< Ice breaks in 45 seconds! >>>"
+		{
+		"chi"               "<<< 寒冰结晶将于45秒后破碎！ >>>"
+		}
+		"<<< Ice breaking in 60 seconds! >>>"
+		{
+		"chi"               "<<< 寒冰将于60秒后融化！ >>>"
+		}
 }
