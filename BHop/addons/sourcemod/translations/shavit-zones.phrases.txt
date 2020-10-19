@@ -1,34 +1,4 @@
-"Phrases"
-{
-	// ---------- Admin Menu ---------- //
-	"AddMapZone"
-	{
-		"en"		"添加地图区域"
-	}
-	"DeleteAllMapZone"
-	{
-		"en"		"删除全部地图区域"
-	}
-	"DeleteMapZone"
-	{
-		"en"		"删除地图区域"
-	}
-	// ---------- Commands ---------- //
-	"StageCommandAlive"
-	{
-		"#format"	"{1:s},{2:s}"
-		"en"		"你必须是{1}还活着{2}才能使用这个命令."
-	}
-	"ModifierCommandNoArgs"
-	{
-		"en"		"用法: sm_modifier <十进制数>."
-	}
-	"ModifierTooLow"
-	{
-		"en"		"修改器必须大于0."
-	}
-	"ModifierSet"
-	{
+
 		"en"		"修改器设置为"
 	}
 	"ZonesCommand"
@@ -288,4 +258,14 @@
 		"#format"	"{1:s},{2:s},{3:d},{4:s},{5:s},{6:s}{7:s}"
 		"en"		"{1}你已经达到了阶段{2}{3}{4}，时间为{5}{6}{7}."
 	}
+	"ZoneEditTrack"
+	{
+		"#format"	"{1:s}"
+		"en"		"Zone track: {1}"
+	}
+	"ZoneSecond"
+	{
+		"en"		"SECOND"
+	}
 }
+
