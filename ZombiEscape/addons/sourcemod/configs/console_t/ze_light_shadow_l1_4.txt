@@ -10,15 +10,15 @@
 	}
 	"*** A zombie learned devour ***"
 	{
-		"chi"		"一名玩家捡起了影之息"
+		"chi"		"一只僵尸获得了[zm]影之息"
 	}
 	"*** A zombie learned freeze ***"
 	{
-		"chi"		"一名玩家捡起了暗之柩"
+		"chi"		"一只僵尸获得了[zm]暗之柩"
 	}
 	"*** map by lopb ***"
 	{
-		"chi"		"作者:lopb	汉化:谷歌翻译"
+		"chi"		"作者:lopb	汉化:小三&菜鸡@风云社"
 	}
 	"*** Zombies get the power of light. You lose ***"
 	{
@@ -110,7 +110,7 @@
 	}
 	"*** The core will use the power of light to defeat us ***"
 	{
-		"chi"		"核心将会利用光的力打败我们"
+		"chi"		"核心想利用光的力来打败我们"
 	}
 	"*** Now zombies are coming faster ***"
 	{
@@ -384,4 +384,12 @@
 	{
 		"chi"		"在光的帮助下,人们驱散了这股黑暗,世界迎来了久违的光明"
 	}
-}	
+	"*** A zombie learned flame ***"
+	{
+		"chi"		"一只僵尸获得了[zm]黯焰"
+	}
+	"*** A zombie learned accelerate ***"
+	{
+		"chi"		"一只僵尸获得了[zm]影袭"
+	}
+}
