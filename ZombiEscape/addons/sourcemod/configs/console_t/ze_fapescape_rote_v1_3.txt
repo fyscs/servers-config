@@ -24,7 +24,7 @@
     "*** CONGRATULATIONS  YOU HAVE BEATEN THE MAP! ***"
     {
         "chi" "** 牛批噢, 你过了这图 **"
-        "command" "ze_credits_pass_round 15; rank_ze_win_points_humans 20;"
+        "command" "ze_credits_pass_round 20; rank_ze_win_points_humans 30;"
     }
 
     "*** Hold this position for 20 seconds ***"
@@ -280,6 +280,7 @@
     "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **"
     {
         "chi" "** 天谴关 **"
+        "command"   "rank_ze_win_points_humans 15"
     }
 
     "** Turning on:... **"
