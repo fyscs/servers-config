@@ -11,39 +11,47 @@
 	}
 	"Track_0"
 	{
-		"en"		"主线关"
+		"en"		"Main"
+		"chi"       "主线关"
 	}
 	"Track_1"
 	{
-		"en"		"奖励关"
+		"en"		"Bonus"
+		"chi"       "奖励关"
 	}
 	// ---------- Commands ---------- //
 	"NoCommandAccess"
 	{
-		"en"		"您无权访问此命令."
+		"en"		"You do not have access to this command."
+		"chi"           "您无权访问此命令."
 	}
 	"NoConsole"
 	{
-		"en"		"在游戏内运行这个命令."
+		"en"		"Run this command from inside the game."
+		"chi"          "在游戏内运行这个命令."
 	}
 	"ArgumentsMissing"
 	{
 		"#format"	"{1:s}"
-		"en"		"使用方法: {1}"
+		"en"		"Usage: {1}"
+		"chi"       "使用方法: {1}"
 	}
 	"TimerCommands"
 	{
-		"en"		"计时器指令"
+		"en"		"Timer Commands"
+		"chi"        "计时器指令"
 	}
 	// ---------- Timelimit ---------- //
 	"Minutes"
 	{
 		"#format"	"{1:s}"
-		"en"		"地图剩余时间{1}分钟."
+		"en"		"{1} minutes remaining."
+		"chi"        "地图剩余时间:{1}分钟."
 	}	
 	"Seconds"
 	{
 		"#format"	"{1:s}"
-		"en"		"地图剩余时间{1}秒."
+		"en"		"{1} seconds remaining."
+		"chi"        "地图剩余时间:{1}秒."
 	}
 }
