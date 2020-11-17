@@ -4,16 +4,19 @@
 	"StatsMenuFailure"
 	{
 		"#format"	"{1:s},{2:s}"
-		"en"		"{1}错误:{2}无法打开统计菜单."
+		"en"		"{1}ERROR: {2}Could not open the stats menu."
+		"chi"       "{1}错误:{2}无法打开统计菜单."
 	}
 	// ---------- Map Completions ---------- //
 	"SelectTrack"
 	{
-		"en"		"选择计时器轨迹:"
+		"en"		"Select timer track:"
+		"chi"       "选择计时器轨道:"
 	}
 	"MapsDone"
 	{
-		"en"		"已完成的地图"
+		"en"		"Maps done"
+		"chi"       "已完成的地图"
 	}
 	"MapsDoneFor"
 	{
@@ -24,10 +27,12 @@
 	{
 		"#format"	"{1:s}"
 		"en"		"Maps done for {1} on style:"
+		"chi"       "模式为{1}完成的地图:"
 	}
 	"MapsLeft"
 	{
-		"en"		"左侧地图"
+		"en"		"Maps left"
+		"chi"       "左侧地图"
 	}
 	"MapsLeftFor"
 	{
@@ -43,79 +48,98 @@
 	{
 		"#format"	"{1:s}"
 		"en"		"[{1}] Stats:"
+		"chi"       "[{1}] 数据统计:"
 	}
 	"MapsPoints"
 	{
-		"en"		"分数"
+		"en"		"points"
+		"chi"       "分数"
 	}
 	"MapsJumps"
 	{
-		"en"		"跳跃"
+		"en"		"jumps"
+		"chi"       "跳跃"
 	}
 	"Nope"
 	{
-		"en"		"没有"
+		"en"		"nope"
+		"chi"       "没有"
 	}
 	"NoResults"
 	{
-		"en"		"没有结果."
+		"en"		"No results."
+		"chi"       "没有结果."
 	}
 	// ---------- Player Profiles ---------- //
 	"Country"
 	{
-		"en"		"国家"
+		"en"		"Country"
+		"chi"       "国家"
 	}
 	"LastLogin"
 	{
-		"en"		"上次登录"
+		"en"		"Last Login"
+		"chi"       "上次登录"
 	}
 	"MapCompletions"
 	{
-		"en"		"完成的地图"
+		"en"		"Map completions"
+		"chi"       "完成的地图"
 	}
 	"NoRecords"
 	{
-		"en"		"什么也没有."
+		"en"		"Nothing."
+		"chi"       "什么也没有."
 	}
 	"Rank"
 	{
-		"en"		"排名"
+		"en"		"Rank"
+		"chi"       "排名"
 	}
 	"Points"
 	{
-		"en"		"点数"
+		"en"		"Points"
+		"chi"       "点数"
 	}
 	"PointsUnranked"
 	{
-		"en"		"无排名"
+		"en"		"Unranked"
+		"chi"       "无排名"
 	}
 	"Profile"
 	{
-		"en"		"概况"
+		"en"		"profile"
+		"chi"       "概况"
 	}
 	"WorldRecords"
 	{
-		"en"		"世界纪录"
+		"en"		"world records"
+		"chi"       "世界记录"
 	}
 	// ---------- Record Data ---------- //
 	"Date"
 	{
-		"en"		"日期"
+		"en"		"Date"
+		"chi"       "日期"
 	}
 	"Jumps"
 	{
-		"en"		"跳跃"
+		"en"		"Jumps"
+		"chi"       "跳跃"
 	}
 	"Strafes"
 	{
-		"en"		"加速"
+		"en"		"Strafes"
+		"chi"       "加速"
 	}
 	"Style"
 	{
-		"en"		"模式"
+		"en"		"Style"
+		"chi"       "模式"
 	}
 	"Time"
 	{
-		"en"		"时间"
+		"en"		"Time"
+		"chi"       "时间"
 	}
 }
