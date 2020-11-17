@@ -4,167 +4,206 @@
 	// DO NOT MAKE NAMES LONGER THAN DISPLAYED HERE //
 	"HudStartZone"
 	{
-		"en"		"开始区域"
+		"en"		"Start Zone"
+		"chi"        "开始区域"
 	}
 	"HudZoneTier"
 	{
 		"#format"	"{1:d}"
-		"en"		"难度{1}"
+		"en"		"Tier {1}"
+		"chi"       "难度{1}"
 	}
 	"HudInStartZone"
 	{
 		"#format"	"{1:d}"
-		"en"		"在开始区域中\n\n{1}"
+		"en"		"In Start Zone\n\n{1}"
+		"chi"       "在开始区域中\n\n{1}"
 	}
 	"HudInStartZoneCSGO"
 	{
 		"#format"	"{1:d}"
-		"en"		"在开始区域\n\n\t\t\t{1}"
+		"en"		"In Start Zone\n\n\t\t\t{1}"
+		"chi"       "在开始区域\n\n\t\t\t{1}"
 	}
 	"HudEndZone"
 	{
-		"en"		"终点区域"
+		"en"		"End Zone"
+		"chi"       "终点区域"
 	}
 	"HudInEndZone"
 	{
 		"#format"	"{1:d}"
-		"en"		"在终点区域\n\n{1}"
+		"en"		"In End Zone\n\n{1}"
+		"chi"       "在终点区域\n\n{1}"
 	}
 	"HudInEndZoneCSGO"
 	{
 		"#format"	"{1:d}"
-		"en"		"在终点区域\n\n\t\t\t{1}"
+		"en"		"In End Zone\n\n\t\t\t{1}"
+		"chi"       "在终点区域\n\n\t\t\t{1}"
 	}
 	"HudPaused"
 	{
-		"en"		"[暂停]"
+		"en"		"[PAUSED]"
+		"chi"        "[暂停]"
 	}
 	"HudTimeText"
 	{
-		"en"		"时间"
+		"en"		"Time"
+		"chi"       "时间"
 	}
 	"HudBestText"
 	{
-		"en"		"最佳"
+		"en"		"Best"
+		"chi"       "个人最佳"
 	}
 	"HudJumpsText"
 	{
-		"en"		"次 跳 跃"
+		"en"		"Jumps"
+		"chi"       "次 跳 跃"
 	}
 	"HudStyleText"
 	{
-		"en"		"模式"
+		"en"		"Style"
+		"chi"        "模式"
 	}
 	"HudSpeedText"
 	{
-		"en"		"速度"
+		"en"		"Speed"
+		"chi"        "速度"
 	}
 	"HudStrafeText"
 	{
-		"en"		"次 加 速"
+		"en"		"Strafes"
+		"chi"       "次 加 速"
 	}
 	"HudTimeLeft"
 	{
-		"en"		"剩余时间"
+		"en"		"Time left"
+		"chi"       "剩余时间"
 	}
 	"HudSync"
 	{
-		"en"		"同步率"
+		"en"		"Sync"
+		"chi"       "同步率"
 	}
 	"HudPerfs"
 	{
-		"en"		"完美跳跃"
+		"en"		"Perfect jumps"
+		"chi"        "完美跳跃"
 	}
 	"HudPracticeMode"
 	{
-		"en"		"[练习模式]"
+		"en"		"[PRACTICE]"
+		"chi"       "[练习模式]"
 	}
 	"HudNoSpeedLimit"
 	{
-		"en"		"(无速度限制)"
+		"en"		"(No Speed Limit)"
+		"chi"       "(无速度限制)"
 	}
 	"HudCustomSpeedLimit"
 	{
 		"#format"	"{1:d}"
-		"en"		"(速度限制: {1})"
+		"en"		"(Speed Limit: {1})"
+		"chi"       "(速度限制: {1})"
 	}
 	// ---------- Menus ---------- //
 	"HUDMenuTitle"
 	{
-		"en"		"HUD 设置:"
+		"en"		"HUD settings:"
+		"chi"        "HUD 设置:"
 	}
 	"HudMaster"
 	{
-		"en"		"总控制"
+		"en"		"Master"
+		"chi"       "总控制"
 	}
 	"HudCenter"
 	{
-		"en"		"居中文本"
+		"en"		"Center text"
+		"chi"        "居中文本"
 	}
 	"HudZoneHud"
 	{
-		"en"		"起点与终点的标识"
+		"en"		"Zone HUD"
+		"chi"       "起点与终点的标识"
 	}
 	"HudObserve"
 	{
-		"en"		"观察者 HUD"
+		"en"		"Spectate HUD"
+		"chi"       "观察者 HUD"
 	}
 	"HudSpectators"
 	{
-		"en"		"观察者列表"
+		"en"		"Spectator list"
+		"chi"        "观察者列表"
 	}
 	"HudKeyOverlay"
 	{
-		"en"		"按键显示"
+		"en"		"Key display"
+		"chi"        "按键显示"
 	}
 	"HudHideWeapon"
 	{
-		"en"		"隐藏武器"
+		"en"		"Hide weapons"
+		"chi"        "隐藏武器"
 	}
 	"HudTopLeft"
 	{
-		"en"		"左上角显示WR/PB"
+		"en"		"Top left HUD (WR/PB)"
+		"chi"        "左上角显示WR/PB"
 	}
 	"Hud2dVel"
 	{
-		"en"		"使用2D速度面板"
+		"en"		"Use 2D Velocity"
+		"chi"        "使用2D速度面板"
 	}
 	"HudNoRecordSounds"
 	{
-		"en"		"无过关音效"
+		"en"		"No record sounds"
+		"chi"        "无过关音效"
 	}
 	"HudPracticeModeAlert"
 	{
-		"en"		"无练习模式警告"
+		"en"		"No practice mode alert"
+		"chi"         "无练习模式警告"
 	}
 	"HudRankText"
 	{
-		"en"		"目前时间排名"
+		"en"		"Expected rank"
+		"chi"        "目前时间排名"
 	}
 	"HudTrackText"
 	{
-		"en"		"计时器轨迹"
+		"en"		"Timer track"
+		"chi"        "计时器轨迹"
 	}
 	"HudSplitPbText"
 	{
-		"en"		"拆分 PB"
+		"en"		"Split PB"
+		"chi"        "拆分 PB"
 	}
 	"HudMapTierText"
 	{
-		"en"		"地图难度等级"
+		"en"		"Map tier"
+		"chi        "地图难度等级"
 	}
 	"HudTimeDifference"
 	{
-		"en"		"时差"
+		"en"		"Time Difference"
+		"chi"         "时差"
 	}
 	// ---------- Record Bots ---------- //
 	"ReplayText"
 	{
-		"en"		"回放"
+		"en"		"Replay"
+		"chi"        "回放"
 	}
 	"NoReplayData"
 	{
-		"en"		"未加载重播数据\n按USE来进行播放"
+		"en"		"No replay data loaded\nPress USE or beat #1 to play"
+		"chi"        "未加载重播数据\n按USE来进行播放"
 	}
 	"NoReplayDataTF2"
 	{
@@ -173,21 +212,25 @@
 	// ---------- Panels ---------- //
 	"SpectatorPersonal"
 	{
-		"en"		"观察者"
+		"en"		"Spectators"
+		"chi"        "观察者"
 	}
 	"SpectatorWatching"
 	{
-		"en"		"其他观察者"
+		"en"		"Other Spectators"
+		"chi"        "其他观察者"
 	}
 	// ---------- Commands ---------- //
 	"HudEnabledComponent"
 	{
 		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
-		"en"		"{1}{2}{3}HUD设置{4}启用{5}."
+		"en"		"{1}{2} {3}HUD setting {4}enabled{5}."
+		"chi"        "{1}{2}{3}HUD设置{4}启用{5}."
 	}
 	"HudDisabledComponent"
 	{
 		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
-		"en"		"{1}{2}{3}HUD设置{4}已禁用{5}."
+		"en"		"{1}{2} {3}HUD setting {4}disabled{5}."
+		"chi"       "{1}{2}{3}HUD设置{4}已禁用{5}."
 	}
 }
