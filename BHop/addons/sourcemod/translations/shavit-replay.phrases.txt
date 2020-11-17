@@ -3,64 +3,78 @@
 	// ---------- Menus ---------- //
 	"DeleteReplayAdminMenu"
 	{
-		"en"		"删除重播"
+		"en"		"Delete replay"
+		"chi"        "删除重播"
 	}
 	"DeleteReplayMenuTitle"
 	{
-		"en"		"删除重播:"
+		"en"		"Delete a replay:"
+		"chi"        "删除重播:"
 	}
 	"MenuResponseNo"
 	{
-		"en"		"不!"
+		"en"		"NO!"
+		"chi"       "不!"
 	}
 	"MenuResponseYes"
 	{
-		"en"		"是的，我明白这个动作是不能反悔的!"
+		"en"		"Yes, I understand this action cannot be reversed!"
+		"chi"       "是的,我明白这个动作是不能反悔的!"
 	}
 	"ReplayDeletionConfirmation"
 	{
 		"#format"	"{1:s}"
-		"en"		"确认删除{1}重播?"
+		"en"		"Confirm deletion of {1} replay?"
+		"chi"       "确认删除{1}重播?"
 	}
 	"ReplaysUnavailable"
 	{
-		"en"		"无有效的回放."
+		"en"		"No replays available."
+		"chi"       "无有效的重播."
 	}
 	// ---------- Replay Deletion ---------- //
 	"ReplayDeleted"
 	{
 		"#format"	"{1:s},{2:s},{3:s}"
-		"en"		"删除了{1}{2}{3}的重播."
+		"en"		"Deleted replay for {1}{2}{3}."
+		"chi"       "删除了{1}{2}{3}的重播."
 	}
 	"ReplayDeleteFailure"
 	{
 		"#format"	"{1:s},{2:s},{3:s}"
-		"en"		"无法删除{1}{2}{3}的重播."
+		"en"		"Could not delete replay for {1}{2}{3}."
+		"chi"        "无法删除{1}{2}{3}的重播."
 	}
 	// ---------- Central Replay Menu ---------- //
 	"CentralReplaySpectator"
 	{
 		"#format"	"{1:s},{2:s},{3:s},{4:s}"
-		"en"		"你必须 {1}观察{2} 一个 {3}电脑玩家{4} 来使用这些功能."
+		"en"		"You have to {1}spectate{2} the {3}central bot{4} to use this feature."
+		"chi"       "你必须 {1}观察{2} 一个 {3}电脑玩家{4} 来使用这些功能."
 	}
 	"CentralReplayTitle"
 	{
-		"en"		"选择一个模式来进行回放:"
+		"en"		"Select a replay style to play:"
+		"chi"        "选择一个模式来进行回放:"
 	}
 	"CentralReplayPlaying"
 	{
-		"en"		"回放机器人现在无法播放，再试一次或等他闲置下来."
+		"en"		"The replay bot is busy, try again when it's idle."
+		"chi"        "回放机器人现在无法播放，再试一次或等它闲置下来."
 	}
 	"CentralReplayStop"
 	{
-		"en"		"停止目前的回放."
+		"en"		"Stop the current replay."
+		"chi"        "停止目前的回放."
 	}
 	"CentralReplayStopped"
 	{
-		"en"		"强制停止回放."
+		"en"		"Forcibly stopped replay."
+		"chi"        "强制停止回放."
 	}
 	"CentralReplayTrack"
 	{
-		"en"		"选择要播放的列表"
+		"en"		"Select a track to play:"
+		"chi"         "选择要播放的列表"
 	}
 }
