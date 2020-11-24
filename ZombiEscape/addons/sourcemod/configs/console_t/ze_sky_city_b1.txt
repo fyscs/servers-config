@@ -1,0 +1,80 @@
+"Console_T"
+{
+
+    "<player pinkup gravity>"
+    {
+        "chi" "<黑洞神器被拾取>"
+    }
+    "<hold for 15s>"
+    {
+        "chi" "<坚守15秒>"
+    }
+    "<hold for 10s>"
+    {
+        "chi" "<坚守10秒>"
+    }
+    "<hold for 20s>"
+    {
+        "chi" "<坚守20秒>"
+    }
+    "<hold for 30s>"
+    {
+        "chi" "<坚守30秒>"
+    }
+    "<5s open road>"
+    {
+        "chi" "<5秒后开门>"
+    }
+    "<10s teleport open>"
+    {
+        "chi" "<10秒后开启boss房传送>"
+    }
+    "<100s open road>"
+    {
+        "chi" "<我们需要点时间开启boss房传送，抵御僵尸的进攻100秒>"
+    }
+    "<player pinkup wind>"
+    {
+        "chi" "<风神器被拾取>"
+    }
+    "<player pinkup heal>"
+    {
+        "chi" "<奶神器被拾取>"
+    }
+    "<player pinkup fire>"
+    {
+        "chi" "<火神器被拾取>"
+    }
+    "<hold 18s to win>"
+    {
+        "chi" "<我们击败了紫水晶，但是仍需防守僵尸18秒以获取胜利>"
+    }
+    "<Now the door can shoot>"
+    {
+        "chi" "<就是现在，打碎面前这到门！>"
+    }
+    "<Now push disable>"
+    {
+        "chi" "<风停了>"
+    }
+    "<The wind was so strong>"
+    {
+        "chi" "<有一道无形的风挡住了我们的去路>"
+    }
+    "<afk teleport in 10s>"
+    {
+        "chi" "<挂机玩家将在10秒后被传送>"
+    }
+    "<road open in 25s>"
+    {
+        "chi" "<25秒后清空道路>"
+    }
+    "<boss road open in 40s>"
+    {
+        "chi" "<我们仍需防守40秒，门后就是守护天空城的紫水晶了！>"
+    }
+    "<afk player teleport in 5s>"
+    {
+        "chi" "<挂机玩家将在5秒后传送>"
+    }
+}
