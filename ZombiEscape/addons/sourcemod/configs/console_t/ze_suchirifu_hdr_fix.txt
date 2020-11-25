@@ -1,0 +1,148 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "[Door] 25 seconds [Open]"
+    {
+        "chi" "**大门25秒后打开**"
+    }
+
+    "[Item] Ninja has been picked up"
+    {
+        "chi" "**忍者已被拾取**"
+    }
+
+    "[Item] DarkKnight has been picked up  "
+    {
+        "chi" "**黑暗骑士已被拾取**"
+    }
+
+    "[Object] Press 5 Buttons."
+    {
+        "chi" "**按下5个按钮**"
+    }
+
+    "[Object] The gates will close When you press button."
+    {
+        "chi" "**当你按下按钮时大门会关闭**"
+    }
+
+    "[Object] Those gates open by pressing another button."
+    {
+        "chi" "**按下另外的按钮来打开大门**"
+    }
+
+    "[Door] 18 seconds [Open]"
+    {
+        "chi" "**大门18秒后打开**"
+    }
+
+    "[Door] 15 seconds [Open]"
+    {
+        "chi" "**大门15秒后打开**"
+    }
+
+    "[Door] 20 seconds [Open]"
+    {
+        "chi" "**大门20秒后打开**"
+    }
+
+    "[Message] AFK players teleported to side floor."
+    {
+        "chi" "**挂机玩家传送到另一层**"
+    }
+
+    "[Door] 15 seconds [Close]"
+    {
+        "chi" "**大门15秒后关闭**"
+    }
+
+    "[Message] Good Job!"
+    {
+        "chi" "**干得漂亮！**"
+    }
+
+    "[Map] ze_Suchirifu"
+    {
+        "chi" "**地图名:ze_Suchirifu**"
+    }
+
+    "[Mapper] satoka"
+    {
+        "chi" "**地图作者:satoka,地图翻译：喵杍**"
+    }
+
+    "[Object] Press button to make your way."
+    {
+        "chi" "**按下按钮来打开道路**"
+    }
+
+    "[Door] 10 seconds [Open]"
+    {
+        "chi" "**大门10秒后打开**"
+    }
+
+    "[Lower Door] 10 seconds [Open]"
+    {
+        "chi" "**下方大门10秒后打开**"
+    }
+
+    "[Message] These rooms have Upper side and Lower side."
+    {
+        "chi" "**这些房间有上下两面**"
+    }
+
+    "[Message] Some people must go Lower."
+    {
+        "chi" "**一些人必须去下面**"
+    }
+
+    "[Upper Door] 15 seconds [Open]"
+    {
+        "chi" "**上方大门15秒后打开**"
+    }
+
+    "[Message] Press Button at Lower side."
+    {
+        "chi" "**在下方按下按钮**"
+    }
+
+    "[Message] Hold Upper Side"
+    {
+        "chi" "**守住上方**"
+    }
+
+    "[Lower Door] 15 seconds [Open]"
+    {
+        "chi" "**下方大门15秒后打开**"
+    }
+
+    "[Message] Keep hold Upper"
+    {
+        "chi" "**上方继续坚守**"
+    }
+
+    "[Message] Lower Team Will Open Door"
+    {
+        "chi" "**下方队伍将打开大门**"
+    }
+
+    "[Upper Door] 10 seconds [Open]"
+    {
+        "chi" "**上方大门10秒后打开**"
+    }
+
+    "[Message] Find Button at Upper Side"
+    {
+        "chi" "**在上方找到按钮**"
+    }
+
+    "[Upper Door] 20 seconds [Open]"
+    {
+        "chi" "**上方大门20秒后打开**"
+    }
+
+}
