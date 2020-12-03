@@ -7,6 +7,8 @@
 	"***PISS CART LEAVING IN 15 SECONDS***"
 	{
 		"chi"		"**披萨车15秒后离开**"
+        "command" "rank_ze_win_points_humans 15;"
+        //云点变动  云点重置
 	}
 	"***FRENCH MAN ELEVATOR UPPENING UP SOON OR SOMETHING***"
 	{
@@ -395,6 +397,8 @@
 	"***PREPARE FOR SOMETHING SPECIAL***"
 	{
 		"chi"		"**准备好迎接些特别的**"
+        "command" "rank_ze_win_points_humans 25;"
+        //云点变动  真结局
 	}
 	"***THE BOSS WILL ARRIVE IN 30 SECONDS***"
 	{
