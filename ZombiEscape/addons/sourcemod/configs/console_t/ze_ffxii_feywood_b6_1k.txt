@@ -347,7 +347,7 @@
 	}
 	"**WE GOT IT!!**GET IN THE SMALL ROOM AND DEFEND FOR SOME TIME**"
 	{
-		"chi"		"龙被打败了！我们退到桥后继续防守"
+		"chi"		"前往最后的安全屋"
 	}
 	"**THE GATES WILL CLOSE IN 25 SECONDS**"
 	{
@@ -541,6 +541,7 @@
 	"**ZOMIBIE CURAGA WAS PICKED UP**(HEAL LEVEL 3)**"
 	{
 		"chi"		"僵尸获得奶（Lv.3）"
+		"blocked"        "1"
 	}
 	"**CONGRATILATIONS YOU FINISHED CHOCOBO SIDEQUEST**"
 	{
