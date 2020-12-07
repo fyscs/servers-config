@@ -289,7 +289,6 @@
 	"** HUMAN VICTORY IN 4 MINUTES **"
 	{
 		"chi"		"**生存240秒**"
-
 	}
 	"** HUMAN VICTORY IN 3 MINUTES **"
 	{
@@ -352,7 +351,7 @@
 	"** ULTIMA CAST WILL SUCCED IN 10 SECONDS **"
 	{
 		"chi"		"**终极将在10S后爆炸**"
-
+		"blocked"   "1"
 	}
 	"** 3 COWBELLS LEFT! **"
 	{
