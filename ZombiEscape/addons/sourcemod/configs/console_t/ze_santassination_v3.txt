@@ -3,7 +3,8 @@
 	"***ROCK WALL WILL BREAK IN 15 SECONDS***"
 	{
 		"chi"		"**岩石15秒后碎裂**"
-
+        "command" "rank_ze_win_points_humans 3;"
+        //云点改动 序章人类获胜所得云点降低
 	}
 	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
 	{
@@ -40,7 +41,8 @@
 	"***SNOW WALL WILL BREAK IN 10 SECONDS***"
 	{
 		"chi"		"**雪墙10秒后碎开**"
-
+        "command" "rank_ze_win_points_humans 15;"
+        //云点改动 从雪地关卡开始云点获胜恢复15点
 	}
 	"***DRAWBRIDGE WILL DRAW ITSELF IN 5 SECONDS***"
 	{
@@ -589,6 +591,8 @@
 	"***TRAM 1 IS LEAVING IN 20 SECONDS***"
 	{
 		"chi"		"**电车一20秒后离开**"
+        "command"   "command" "rank_ze_win_points_humans 15;"
+        //云点改动   第三章恢复15云点(防止真结局通关之后一直刷假结局通关)
 	}
 	"***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
@@ -1180,7 +1184,7 @@
 	"***YOU HAVE DEFEATED SOCRATES - THE TRUE SANTA!***"
 	{
 		"chi"		"**你打败了灼眼尊者**"
-		"command" "ze_credits_pass_round 12; rank_ze_win_points_humans 15;"
+		"command" "ze_credits_pass_round 12; rank_ze_win_points_humans 20;"
 	}
 	"***YOU WILL BE REMEMBERED AS CHAMPIONS***"
 	{
