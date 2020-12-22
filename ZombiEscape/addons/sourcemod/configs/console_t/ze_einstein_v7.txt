@@ -1,189 +1,153 @@
 "Console_T"
 {
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
 
     "<> NOTICE: Wait For Your Teammates! <>"
     {
-        "chi" "** **"
+        "chi" " <>注意:等待您的队友!<>"
     }
 
     "<> FINALE: Defend for 30 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<> FINALE:捍卫30秒!<>"
     }
 
     "<> FINALE: Defend for 10 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<> FINALE:捍卫10秒!<>"
     }
 
     "<> FINALE: Defend for 09 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<> FINALE:捍卫9秒!<>"
     }
 
     "<> FINALE: Defend for 08 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<> FINALE:捍卫8秒!<>"
     }
 
     "<> FINALE: Defend for 07 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<> FINALE:捍卫7秒!<>"
     }
 
     "<> FINALE: Defend for 06 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<> FINALE:捍卫6秒!<>"
     }
 
     "<> FINALE: Defend for 05 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<> FINALE:捍卫5秒!<>"
     }
 
     "<> FINALE: Defend for 04 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<> FINALE:捍卫4秒!<>"
     }
 
     "<> FINALE: Defend for 03 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<> FINALE:捍卫3秒!<>"
     }
 
     "<> FINALE: Defend for 02 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<> FINALE:捍卫2秒!<>"
     }
 
     "<> FINALE: Defend for 01 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<> FINALE:捍卫1秒!<>"
     }
 
     "<> FINALE: Defend for 60 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<> FINALE:捍卫60秒!<>"
     }
 
     "<> WARNING: Zombies Teleport in 10 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" " <>警告:僵尸会在10秒内传送!<>"
     }
 
     "<> FINALE: Defend for 20 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" " <> FINALE:防守20秒!<>"
     }
 
     "<> NOTICE: Barricade Final Room! <>"
     {
-        "chi" "** **"
+        "chi" " <>注意:封锁最后一个房间!<>"
     }
 
     "<> NOTICE: Flamethrower Picked Up! <>"
     {
-        "chi" "** **"
+        "chi" "<>注意:喷火器被拾起!<>"
     }
 
     "<> NOTICE: Meat Mincer Picked Up! <>"
     {
-        "chi" "** **"
+        "chi" "<>注意:绞肉机被拾起!<>"
     }
 
     "<> DANGER: Walls Shuffle in 5 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<>危险:墙壁在5秒内随机洗牌!<>"
     }
 
     "<> DANGER: Walls Shuffle in 4 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<>危险:墙壁在4秒内随机洗牌!<>"
     }
 
     "<> DANGER: Walls Shuffle in 1 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<>危险:墙壁在1秒内随机洗牌!<>"
     }
 
     "<> DANGER: Walls Shuffle in 2 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<>危险:墙壁在2秒内随机洗牌!<>"
     }
 
     "<> DANGER: Walls Shuffle in 3 Seconds! <>"
     {
-        "chi" "** **"
-    }
-
-    "<> DANGER: Walls Shuffle in 5 Seconds! <>"
-    {
-        "chi" "** **"
-    }
-
-    "<> DANGER: Walls Shuffle in 1 Seconds! <>"
-    {
-        "chi" "** **"
-    }
-
-    "<> DANGER: Walls Shuffle in 4 Seconds! <>"
-    {
-        "chi" "** **"
-    }
-
-    "<> DANGER: Walls Shuffle in 3 Seconds! <>"
-    {
-        "chi" "** **"
-    }
-
-    "<> DANGER: Walls Shuffle in 2 Seconds! <>"
-    {
-        "chi" "** **"
-    }
-
-    "<> WARNING: Zombies Teleport in 10 Seconds! <>"
-    {
-        "chi" "** **"
+        "chi" "<>危险:墙壁在3秒内随机洗牌!<>"
     }
 
     "<> NOTICE: Trigger 2 Buttons for Elevator! <>"
     {
-        "chi" "** **"
-    }
-
-    "<> WARNING: Zombies Teleport in 10 Seconds! <>"
-    {
-        "chi" "** **"
+        "chi" "<>注意:触发电梯的2个按钮!<>"
     }
 
     "<> NOTICE: Defend the Bridge! <>"
     {
-        "chi" "** **"
+        "chi" "<>注意:守住桥梁!<>"
     }
 
     "<> DANGER: Lava is Rising! <>"
     {
-        "chi" "** **"
-    }
-
-    "<> WARNING: Zombies Teleport in 10 Seconds! <>"
-    {
-        "chi" "** **"
+        "chi" "<>危险:熔岩正在上升!<>"
     }
 
     "<> NOTICE: Button 1/2 Pressed! <>"
     {
-        "chi" "** **"
+        "chi" "<>注意:按下按钮1/2!<>"
     }
 
     "<> NOTICE: Elevator Leaves in 20 Seconds! <>"
     {
-        "chi" "** **"
+        "chi" "<>注意:电梯将在20秒内离开!<>"
     }
 
     "<> NOTICE: Button 2/2 Pressed! <>"
     {
-        "chi" "** **"
+        "chi" "<>注意:已按下按钮2/2!<>"
     }
 
 }
