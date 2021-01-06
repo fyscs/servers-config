@@ -202,7 +202,7 @@
 	}
 	"*** WELL DONE! NEXT DOOR IS OPENING IN 30SEC ***"
 	{
-		"chi"		"**墙壁将在30秒后破裂,在这之前继续防守僵尸**“留意路上的断口”"
+		"chi"		"**墙壁将在30秒后破裂,在这之前继续防守僵尸**'留意路上的断口”"
 
 	}
 	"*** NEXT DOOR OPENS IN 20 SECONDS ***"
@@ -292,12 +292,12 @@
 	}
 	"*** RESIST FOR 30 SECONDS ***"
 	{
-		"chi"		"**防守30秒**“逃生路线在一楼，请勿随便走动”"
+		"chi"		"**防守30秒**'逃生路线在一楼, 请勿随便走动”"
 
 	}
 	"*** FALL BACK 5 SECONDS REMAINING ***"
 	{
-		"chi"		"**防守5秒**“逃生路线在一楼，请勿随便走动”"
+		"chi"		"**防守5秒**'逃生路线在一楼, 请勿随便走动”"
 	}
 	"*** GO INTO UNDERGROUND ***"
 	{

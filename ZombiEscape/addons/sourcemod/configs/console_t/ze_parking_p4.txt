@@ -14,7 +14,7 @@
 	}
 	">>>LEVEL 1 : EVACUATION POINT : ELEVATORS<<<"
 	{
-		"chi"		"**第一关撤离点：电梯**"
+		"chi"		"**第一关撤离点: 电梯**"
 	}
 	">>Let's go ! but be carefull ! there are still some zombies around us<<"
 	{
@@ -26,11 +26,11 @@
 	}
 	">>>MAP BY LeGrem<<<"
 	{
-		"chi"		"**地图制作：LeGrem 地图翻译:小三@风云社**"
+		"chi"		"**地图制作: LeGrem 地图翻译:小三@风云社**"
 	}
 	">>>Thx to JorisCeoen for help with models<<<"
 	{
-		"chi"		"** 模型提供：JorisCeoen**"
+		"chi"		"** 模型提供: JorisCeoen**"
 	}
 	">>COVER 30 SECONDS UNTIL C4 EXPLOSION<<"
 	{
@@ -63,7 +63,7 @@
 	}
 	">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 2<<<"
 	{
-		"chi"		"**你门到达了最后一个守点，下回合是第二关**"
+		"chi"		"**你门到达了最后一个守点, 下回合是第二关**"
 	}
 	">>AFK TELEPORT<<"
 	{
@@ -71,7 +71,7 @@
 	}
 	">>ELEVATORS OPEN ! 15 SECONDS LEFT<<"
 	{
-		"chi"		"**电梯门开了，15秒后电梯门将会关闭**"
+		"chi"		"**电梯门开了, 15秒后电梯门将会关闭**"
 
 	}
 	">>ELEVATORS LEAVING !<<"
@@ -80,7 +80,7 @@
 	}
 	">>>CT WIN - ACCESS TO SPECIAL WEAPONS GRANTED<<<"
 	{
-		"chi"		"**人类胜利：获得使用特别神器的权利**"
+		"chi"		"**人类胜利: 获得使用特别神器的权利**"
 	}
 	">>>LEVEL 2 : EVACUATION POINT : STREET<<<"
 	{
@@ -129,7 +129,7 @@
 	}
 	">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 3<<<"
 	{
-		"chi"		"**你到达了最后一个守点，下一回合是第3关**"
+		"chi"		"**你到达了最后一个守点, 下一回合是第3关**"
 	}
 	">>EXPLOSION IN 5 SECONDS<<"
 	{
@@ -161,7 +161,7 @@
 	}
 	">>>YOU REACH THE LAST COVER POINT NEXT ROUND WILL START AT LEVEL 1<<<"
 	{
-		"chi"		"**你到达了最后一个守点！恭喜你生存了下来**"
+		"chi"		"**你到达了最后一个守点!恭喜你生存了下来**"
 	}
 	">>EXTREME MODE ACTIVATED FOR NEXT ROUNDS<<"
 	{
@@ -178,7 +178,7 @@
 	}
 	">>5 SECONDS LEFT<<"
 	{
-		"chi"		"**还有5秒！还不赶紧上来！！！**"
+		"chi"		"**还有5秒!还不赶紧上来!!!**"
 	}
 	">>>EXTREME MODE ACTIVATED<<<"
 	{
@@ -198,7 +198,7 @@
 	}
 	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE EVACUATION AREA !!<<<"
 	{
-		"chi"		"**撤离区检测到僵尸！特殊武器被禁止使用！**"
+		"chi"		"**撤离区检测到僵尸!特殊武器被禁止使用!**"
 	}
 	">>>>Ammo Dispenser has been picked<<<<"
 	{
@@ -206,7 +206,7 @@
 	}
 	">>>RESTART AT NORMAL LEVEL 1<<<"
 	{
-		"chi"		"**恭喜通关！！！下一关将从第一关开始！**"
+		"chi"		"**恭喜通关!!!下一关将从第一关开始!**"
 	}
 	">>But they wont wait for long time !<<"
 	{
@@ -214,15 +214,15 @@
 	}
 	">>Lets go ! but be carefull ! there are still some zombies around us<<"
 	{
-		"chi"		"**！！！冲冲冲！！！但要小心!可能会有僵尸突然冲出来和你啵嘴！**"
+		"chi"		"**!!!冲冲冲!!!但要小心!可能会有僵尸突然冲出来和你啵嘴!**"
 	}
 	">>>NO ACCESS TO SPECIAL WEAPONS !! ZOMBIES IN THE CHOPPER !!<<<"
 	{
-		"chi"		"**直升机检测到僵尸！特殊武器被禁止使用！**"
+		"chi"		"**直升机检测到僵尸!特殊武器被禁止使用!**"
 	}
 	">>>>Only one Shot - 10s of loading<<<<"
 	{
-		"chi"		"**只能射一发！而且要蓄力10秒**"
+		"chi"		"**只能射一发!而且要蓄力10秒**"
 	}
 	">>>>Electro Gun has been picked<<<<"
 	{
