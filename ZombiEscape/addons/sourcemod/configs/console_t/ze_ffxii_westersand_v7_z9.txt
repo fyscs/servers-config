@@ -2,12 +2,12 @@
 {
 	"** MAP BY SLAYERDRAGON **"
 	{
-		"chi"		"**地图作者：SLAYERORAGON**"
+		"chi"		"**地图作者: SLAYERORAGON**"
 		"command"   "zr_knockback_multi 1.0"
 	}
 	"[NORMAL MODE]"
 	{
-		"chi"		"**关卡难度：NORMAL**"
+		"chi"		"**关卡难度: NORMAL**"
 	}
 	"** Defend untill the guards open the airport. **"
 	{
@@ -119,19 +119,19 @@
 	}
 	"** Zombies Have Escaped **"
 	{
-		"chi"		"**僵尸成功逃离！你们输了**"
+		"chi"		"**僵尸成功逃离!你们输了**"
 	}
 	"** Congratulations - You won [NORMAL] **"
 	{
-		"chi"		"**恭喜，你通过了NORMAL难度**"
+		"chi"		"**恭喜, 你通过了NORMAL难度**"
 	}
 	"[HARD MODE]"
 	{
-		"chi"		"**关卡难度：HARD**"
+		"chi"		"**关卡难度: HARD**"
 	}
 	"** A player has learned Holy magick. **"
 	{
-		"chi"		"**一位玩家习得了终极（小心，只有一次机会）**"
+		"chi"		"**一位玩家习得了终极(小心, 只有一次机会)**"
 	}
 	"** METEOR INBOUND **"
 	{
@@ -151,11 +151,11 @@
 	}
 	"** Congratulations - You won [HARD] **"
 	{
-		"chi"		"**恭喜，你通过了HARD难度**"
+		"chi"		"**恭喜, 你通过了HARD难度**"
 	}
 	"[EXTREME MODE]"
 	{
-		"chi"		"**关卡难度：EX**"
+		"chi"		"**关卡难度: EX**"
 	}
 	"** FIRE NOVA INBOUND **"
 	{
@@ -175,15 +175,15 @@
 	}
 	"** Congratulations - You won [EXTREME] **"
 	{
-		"chi"		"**恭喜，你通过了EX难度**"
+		"chi"		"**恭喜, 你通过了EX难度**"
 	}
 	"[3 WINS IN A ROW] Easteregg unlocked!"
 	{
-		"chi"		"**恭喜你们三连胜！彩蛋触发**"
+		"chi"		"**恭喜你们三连胜!彩蛋触发**"
 	}
 	"[EPIC MODE]"
 	{
-		"chi"		"**关卡难度：EPIC**"
+		"chi"		"**关卡难度: EPIC**"
 	}
 	"** Teleporter will be ready in 20 seconds! **"
 	{
@@ -211,15 +211,15 @@
 	}
 	"** The guardians are dead!! Run back to the entrance!! **"
 	{
-		"chi"		"**守卫死了，跑向出口！**"
+		"chi"		"**守卫死了, 跑向出口!**"
 	}
 	"** The healer is down!! **"
 	{
-		"chi"		"**医疗兵倒下了！**"
+		"chi"		"**医疗兵倒下了!**"
 	}
 	"** The battlemage is down!! **"
 	{
-		"chi"		"**战斗兵倒下了！**"
+		"chi"		"**战斗兵倒下了!**"
 	}
 	"** Defend here for 30 seconds **"
 	{
@@ -231,11 +231,11 @@
 	}
 	"** The airship reactors are going to explode!! **"
 	{
-		"chi"		"**飞船的反应装置将要爆炸了！**"
+		"chi"		"**飞船的反应装置将要爆炸了!**"
 	}
 	"** CHAOS is using a deathwall - RUN FASTER!! **"
 	{
-		"chi"		"**轮回王使用了死亡之墙，向前跑快一点**"
+		"chi"		"**轮回王使用了死亡之墙, 向前跑快一点**"
 		"command"   "zr_knockback_multi 3.0"
 	}
 	"** Congratulations - You won [GODMODE] **"
@@ -245,18 +245,18 @@
 	}
 	"** Chaos has been defeated - RUN !!!!! **"
 	{
-		"chi"		"**轮回王被击败了，快跑！**"
+		"chi"		"**轮回王被击败了, 快跑!**"
 	}
 	"** Congratulations - You won [EPIC] **"
 	{
-		"chi"		"**恭喜，你通过了EPIC难度**"
+		"chi"		"**恭喜, 你通过了EPIC难度**"
 	}
 	"[GOD MODE]"
 	{
-		"chi"		"**难度：GOD**"
+		"chi"		"**难度: GOD**"
 	}
 	"** The dragon has been defeated! GOGOGO **"
 	{
-		"chi"		"**龙被打败了！快溜**"
+		"chi"		"**龙被打败了!快溜**"
 	}
 }

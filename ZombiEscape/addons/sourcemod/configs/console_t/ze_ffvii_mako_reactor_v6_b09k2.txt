@@ -19,71 +19,71 @@
 		}
 		"** An administrator has set [INSANE] for next round! **"
 		{
-		"chi"               "** 管理员已选择疯狂（INSANE）难度在下一回合 **"
+		"chi"               "** 管理员已选择疯狂(INSANE)难度在下一回合 **"
 		}
 		"** An administrator has set [EXTREME] for next round! **"
 		{
-		"chi"               "** 管理员已选择极限（EXTREME）难度在下一回合 **"
+		"chi"               "** 管理员已选择极限(EXTREME)难度在下一回合 **"
 		}
 		"** An administrator has set [HARD] for next round! **"
 		{
-		"chi"               "** 管理员已选择困难（HARD）难度在下一回合 **"
+		"chi"               "** 管理员已选择困难(HARD)难度在下一回合 **"
 		}
 		"** An administrator has set [NORMAL] for next round! **"
 		{
-		"chi"               "** 管理员已选择普通（NORMAL）难度在下一回合 **"
+		"chi"               "** 管理员已选择普通(NORMAL)难度在下一回合 **"
 		}
 		"** An administrator has set [EASY] for next round! **"
 		{
-		"chi"               "** 管理员已选择简单（EASY）难度在下一回合 **"
+		"chi"               "** 管理员已选择简单(EASY)难度在下一回合 **"
 		}
 		"** Congratulations! You have beaten [EASY] **"
 		{
-		"chi"               "** 恭喜！你已成功征服简单（EASY）难度 **"
+		"chi"               "** 恭喜!你已成功征服简单(EASY)难度 **"
 		}
 		"** Congratulations! You have beaten [NORMAL] **"
 		{
-		"chi"               "** 恭喜！你已成功征服普通（NORMAL）难度 **"
+		"chi"               "** 恭喜!你已成功征服普通(NORMAL)难度 **"
 		}
 		"** Congratulations! You have beaten [HARD] **"
 		{
-		"chi"               "** 恭喜！你已成功征服困难（HARD）难度 **"
+		"chi"               "** 恭喜!你已成功征服困难(HARD)难度 **"
 		}
 		"** Congratulations! You have beaten [EXTREME] **"
 		{
-		"chi"               "** 恭喜！你已成功征服极限（EXTREME）难度 **"
+		"chi"               "** 恭喜!你已成功征服极限(EXTREME)难度 **"
 		}
 		"** Congratulations! You have beaten [INSANE] **"
 		{
-		"chi"               "** 恭喜！你已成功征服疯狂（INSANE）难度 **"
+		"chi"               "** 恭喜!你已成功征服疯狂(INSANE)难度 **"
 		}
 		"** Congratulations! You have beaten [ZM] **"
 		{
-		"chi"               "** 恭喜！你已成功征服zm难度 **"
+		"chi"               "** 恭喜!你已成功征服zm难度 **"
 		}
 		"<<< EASY >>>"
 		{
-		"chi"               "<<< 难度：简单 >>>"
+		"chi"               "<<< 难度: 简单 >>>"
 		}
 		"<<< NORMAL >>>"
 		{
-		"chi"               "<<< 难度：普通 >>>"
+		"chi"               "<<< 难度: 普通 >>>"
 		}
 		"<<< HARD >>>"
 		{
-		"chi"               "<<< 难度：困难 >>>"
+		"chi"               "<<< 难度: 困难 >>>"
 		}
 		"<<< EXTREME >>>"
 		{
-		"chi"               "<<< 难度：极限 >>>"
+		"chi"               "<<< 难度: 极限 >>>"
 		}
 		"<<< INSANE >>>"
 		{
-		"chi"               "<<< 难度：疯狂 >>>"
+		"chi"               "<<< 难度: 疯狂 >>>"
 		}
 		"< ZOMBIE MODE >"
 		{
-		"chi"               "< 难度：zm >"
+		"chi"               "< 难度: zm >"
 		}
 		"< TRY TO SURVIVE IN THE CITY AREA >"
 		{
@@ -135,11 +135,11 @@
 		}
 		"** Round failed! Zombies have reached the objective! **"
 		{
-		"chi"               "** 你失败了！僵尸比人类更快触发 **"
+		"chi"               "** 你失败了!僵尸比人类更快触发 **"
 		}
 		"< Any last words? >"
 		{
-		"chi"               "< 你还有遗言吗？ >"
+		"chi"               "< 你还有遗言吗? >"
 		}
 		"< Ugh... Defeated... >"
 		{
@@ -147,19 +147,19 @@
 		}
 		"< Dodge this! >"
 		{
-		"chi"               "< 试试躲开这个！ >"
+		"chi"               "< 试试躲开这个! >"
 		}
 		"< Fly! >"
 		{
-		"chi"               "< 滚开！ >"
+		"chi"               "< 滚开! >"
 		}
 		"< I've been... Defeated? >"
 		{
-		"chi"               "< 不可能 我被...击败了？ >"
+		"chi"               "< 不可能 我被...击败了? >"
 		}
 		"< Impressive! >"
 		{
-		"chi"               "< 有点意思！ >"
+		"chi"               "< 有点意思! >"
 		}
 		"< I understand that you've been looking for me. >"
 		{
@@ -171,7 +171,7 @@
 		}
 		"< Only the chosen may survive! >"
 		{
-		"chi"               "< 只有被神选中的人才能活下去！ >"
+		"chi"               "< 只有被神选中的人才能活下去! >"
 		}
 		"< Hmm... Pitiful fool. >"
 		{
@@ -179,7 +179,7 @@
 		}
 		"< Say goodbye! >"
 		{
-		"chi"               "< 跟你的生命告别吧！ >"
+		"chi"               "< 跟你的生命告别吧! >"
 		}
 		"< Seems I do not have to hold back. >"
 		{
@@ -191,7 +191,7 @@
 		}
 		"< Slow! >"
 		{
-		"chi"               "< 太慢了！ >"
+		"chi"               "< 太慢了! >"
 		}
 		"< Solitude isn't heroism. >"
 		{
@@ -199,7 +199,7 @@
 		}
 		"< Too late for laments! >"
 		{
-		"chi"               "< 你已经太迟了！ >"
+		"chi"               "< 你已经太迟了! >"
 		}
 		"< CARGO LIFT STARTS IN 5 SECONDS >"
 		{
@@ -207,15 +207,15 @@
 		}
 		"** Zombies detected! You lose! **"
 		{
-		"chi"               "** 僵尸逃了出来！你失败了！ **"
+		"chi"               "** 僵尸逃了出来!你失败了! **"
 		}
 		"** Congratulations! You have beaten the Stage! **"
 		{
-		"chi"               "** 恭喜！你已成功征服魔晄炉！ **"
+		"chi"               "** 恭喜!你已成功征服魔晄炉! **"
 		}
 		"** Next difficulty was chosen by an Administrator! **"
 		{
-		"chi"               "** 下个难度需要管理员选择！ **"
+		"chi"               "** 下个难度需要管理员选择! **"
 		}
 		"** MIMIC Materia has been found. **"
 		{

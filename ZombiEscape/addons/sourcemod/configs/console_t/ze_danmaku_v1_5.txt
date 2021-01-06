@@ -40,15 +40,15 @@
 	}
 	"<< Generating 00010110 >>"
 	{
-		"chi"		"生成 “00010110”"
+		"chi"		"生成 '00010110”"
 	}
 	"<< Generating 1010 >>"
 	{
-		"chi"		"生成 “1010”"
+		"chi"		"生成 '1010”"
 	}
 	"<< Generating 010 >>"
 	{
-		"chi"		"生成 “010”"
+		"chi"		"生成 '010”"
 	}
 	"<< Processing Map >>"
 	{
@@ -56,7 +56,7 @@
 	}
 	"+<!>+"
 	{
-		"chi"		"“!”"
+		"chi"		"'!”"
 	}
 	"*** CONGRATULATIONS YOU BEAT THE MAP ***"
 	{
@@ -128,7 +128,7 @@
 	}
 	"<< COSMIC FALL >>"
 	{
-		"chi"		"堕天降临“天坠”"
+		"chi"		"堕天降临'天坠”"
 	}
 	"<< DODGE >>"
 	{
@@ -136,7 +136,7 @@
 	}
 	"<< PUSH >>"
 	{
-		"chi"		"风暴之翼“站蓝色特效躲避”"
+		"chi"		"风暴之翼'站蓝色特效躲避”"
 	}
 	"<Map made by J3wdice ~ Midknight>"
 	{

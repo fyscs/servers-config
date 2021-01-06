@@ -80,7 +80,7 @@
 	}
 	"*The truck will leave in 15 seconds. Resist!*"
 	{
-		"chi"		"**公交车将在15秒后离开**“没时间解释了,快上车!”"
+		"chi"		"**公交车将在15秒后离开**'没时间解释了,快上车!”"
 
 	}
 	"*Exit door opening in 5 seconds*"
@@ -843,11 +843,11 @@
 	}
 	"* TIP: Press the energy control panel to cause an overload in the doors circuitry. *"
 	{
-		"chi"		"**提示:按下能量控制面板，导致门电路过载以打开门**"
+		"chi"		"**提示:按下能量控制面板, 导致门电路过载以打开门**"
 	}
 	"* Wait... Why isnt it ending...? *"
 	{
-		"chi"		"**等待……为什么没有结束?**"
+		"chi"		"**等待......为什么没有结束?**"
 	}
 	"** ITS TOO LATE!!! YOU NOOBZORZ ARE FAIL!!! **"
 	{

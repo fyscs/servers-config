@@ -88,13 +88,13 @@
 	{
 		"chi"		"** **"
 	}
-	"***热身结束，欢迎来到Minecraft的世界***"
+	"***热身结束, 欢迎来到Minecraft的世界***"
 	{
 		"chi"		"** **"
 	}
 	"***TRAIN CALLED, PLEASE STANDBY***"
 	{
-		"chi"		"**离电车到达站台还需要等待一段时间，继续防守**"
+		"chi"		"**离电车到达站台还需要等待一段时间, 继续防守**"
 	}
 	"***TRAIN WILL ARRIVE IN 35 SECONDS***"
 	{
@@ -102,7 +102,7 @@
 	}
 	"***FALLBACK TO THE STATION PLATFORM, ZOMBIES ADVANCING***"
 	{
-		"chi"		"**僵尸追屁股了，溜溜溜**"
+		"chi"		"**僵尸追屁股了, 溜溜溜**"
 	}
 	"***TRAIN APPROACHING***"
 	{
@@ -110,7 +110,7 @@
 	}
 	"***FALLBACK ONTO THE TRAIN***"
 	{
-		"chi"		"**撤退到电车上，小心僵尸侧路（头顶上）**"
+		"chi"		"**撤退到电车上, 小心僵尸侧路(头顶上)**"
 	}
 	"***TRAIN DEPARTS IN 15 SECONDS***"
 	{
@@ -118,11 +118,11 @@
 	}
 	"***ZOMBIE SHORTCUT OPEN***"
 	{
-		"chi"		"**僵尸侧路打开，破点啦**"
+		"chi"		"**僵尸侧路打开, 破点啦**"
 	}
 	"***QUICK! GET THROUGH THE NETHER PORTAL BEFORE IT CLOSES!***"
 	{
-		"chi"		"**赶在幽冥界の门关闭之前进去，不然你就等死吧**"
+		"chi"		"**赶在幽冥界の门关闭之前进去, 不然你就等死吧**"
 	}
 	"***NETHER PORTAL CLOSES IN 10 SECONDS***"
 	{
@@ -130,7 +130,7 @@
 	}
 	"***PORTAL CLOSED***"
 	{
-		"chi"		"**哦豁，你没了**"
+		"chi"		"**哦豁, 你没了**"
 	}
 	"***THE NETHER***"
 	{
@@ -138,27 +138,27 @@
 	}
 	"***DEFEND FOR 20 SECONDS***"
 	{
-		"chi"		"**防守20秒，门开后继续防守**"
+		"chi"		"**防守20秒, 门开后继续防守**"
 	}
 	"***DEFEND FOR 20 MORE SECONDS***"
 	{
-		"chi"		"**这个倒计时告诉你还有20秒（10秒撤退）**"
+		"chi"		"**这个倒计时告诉你还有20秒(10秒撤退)**"
 	}
 	"***DOORS OPENING***"
 	{
-		"chi"		"**门开了，溜了溜了**"
+		"chi"		"**门开了, 溜了溜了**"
 	}
 	"***FALLBACK! THESE DOORS WILL CLOSE IN 10 SECONDS!***"
 	{
-		"chi"		"**还不跑吗？门还有10秒就关了**"
+		"chi"		"**还不跑吗?门还有10秒就关了**"
 	}
 	"***MOVING ZOMBIES FORWARD***"
 	{
-		"chi"		"**僵尸传送在前方，注意侧路**"
+		"chi"		"**僵尸传送在前方, 注意侧路**"
 	}
 	"***DOOR OPENING***"
 	{
-		"chi"		"**门开了，溜之大吉**"
+		"chi"		"**门开了, 溜之大吉**"
 	}
 	"***FALLBACK THROUGH THE PORTAL***"
 	{
@@ -170,27 +170,27 @@
 	}
 	"***[@: Activating Teleport Beam]***"
 	{
-		"chi"		"**命令模块：传送阵**"
+		"chi"		"**命令模块: 传送阵**"
 	}
 	"***[@: Raising Zombie Bridges]***"
 	{
-		"chi"		"**命令模块：僵尸路**"
+		"chi"		"**命令模块: 僵尸路**"
 	}
 	"***[@: Spawning Fire Entity]***"
 	{
-		"chi"		"**命令模块：火焰**"
+		"chi"		"**命令模块: 火焰**"
 	}
 	"***[@: Spawning Wind Entity]***"
 	{
-		"chi"		"**命令模块：疾风**"
+		"chi"		"**命令模块: 疾风**"
 	}
 	"***DOOR OPENS IN 35 SECONDS***"
 	{
-		"chi"		"**门还有35秒后打开，桥25秒上升，防守僵尸**"
+		"chi"		"**门还有35秒后打开, 桥25秒上升, 防守僵尸**"
 	}
 	"***BOSS HAS BEEN DEFEATED***"
 	{
-		"chi"		"**命令模块发生错误，他自爆了**"
+		"chi"		"**命令模块发生错误, 他自爆了**"
 	}
 	"***NETHER PORTAL CLOSING IN 10 SECONDS***"
 	{
@@ -198,7 +198,7 @@
 	}
 	"***WHERE ARE WE?***"
 	{
-		"chi"		"**我们在哪呢？我自己都不知道**"
+		"chi"		"**我们在哪呢?我自己都不知道**"
 	}
 	"***TITAN ENGINE TEST IN PROGRESS***"
 	{
@@ -206,7 +206,7 @@
 	}
 	"***TITAN ENGINE COOLING DOWN***"
 	{
-		"chi"		"**泰坦引擎发生错误，启动失败**"
+		"chi"		"**泰坦引擎发生错误, 启动失败**"
 	}
 	"***OPENING DOORS***"
 	{
@@ -218,11 +218,11 @@
 	}
 	"***ERROR, UNABLE TO IDENTIFY USER***"
 	{
-		"chi"		"**发生错误，你没有权限开启这到门**"
+		"chi"		"**发生错误, 你没有权限开启这到门**"
 	}
 	"***OPENING SERVICE PANEL, SHOOT THE WIRES INSIDE***"
 	{
-		"chi"		"**正在尝试打开这道门，打碎那条旁边的电线**"
+		"chi"		"**正在尝试打开这道门, 打碎那条旁边的电线**"
 	}
 	"***UPPER BUTTON TRIGGERED***"
 	{
@@ -234,7 +234,7 @@
 	}
 	"***TRIGGER THE ELEVATOR AND DEFEND UNTIL IT LEAVES***"
 	{
-		"chi"		"**电梯正在启动，守住直到电梯上升**"
+		"chi"		"**电梯正在启动, 守住直到电梯上升**"
 	}
 	"***ELEVATOR MALFUNCTION***"
 	{
@@ -242,7 +242,7 @@
 	}
 	"***ERROR***"
 	{
-		"chi"		"**错误，错误**"
+		"chi"		"**错误, 错误**"
 	}
 	"***OPENING SERVER ROOM DOOR IN 10 SECONDS***"
 	{
@@ -250,7 +250,7 @@
 	}
 	"***ONLY A FEW PEOPLE NEED TO CLIMB THE ELEVATOR SHAFT AND TRIGGER A BUTTON AT THE TOP TO OPEN THE DOOR***"
 	{
-		"chi"		"**需要一位玩家从电梯里爬到上面按下按钮，才能继续前进**"
+		"chi"		"**需要一位玩家从电梯里爬到上面按下按钮, 才能继续前进**"
 	}
 	"***POWERING ON MAIN ENGINES***"
 	{
@@ -266,7 +266,7 @@
 	}
 	"***OPENING SERVER ROOM EXIT IN 10 SECONDS***"
 	{
-		"chi"		"**10秒后主控室的门打开，继续防守**"
+		"chi"		"**10秒后主控室的门打开, 继续防守**"
 	}
 	"***TITAN READY FOR LAUNCH***"
 	{
@@ -274,7 +274,7 @@
 	}
 	"***BRIDGES COLLAPSE IN 10 SECONDS***"
 	{
-		"chi"		"**甲板桥在10秒后断裂，继续防守**"
+		"chi"		"**甲板桥在10秒后断裂, 继续防守**"
 	}
 	"***CLOSING SERVER ROOM EXIT IN 10 SECONDS***"
 	{
@@ -282,7 +282,7 @@
 	}
 	"***MAP CREATED BY MAVIS***"
 	{
-		"chi"		"**地图作者：MAVIS**"
+		"chi"		"**地图作者: MAVIS**"
 	}
 	"***FOR GFL'S UNOFFICIAL MAPPING CONTEST***"
 	{
@@ -310,7 +310,7 @@
 	}
 	"***WIRES CUT, ATTEMPTING TO OPEN DOOR***"
 	{
-		"chi"		"**门已修复，正在尝试重新打开**"
+		"chi"		"**门已修复, 正在尝试重新打开**"
 	}
 	"***ACCESS GRANTED, OPENING FACILITY DOOR***"
 	{
@@ -318,15 +318,15 @@
 	}
 	"***ELEVATOR LEAVING IN 20 SECONDS***"
 	{
-		"chi"		"**电梯在20秒后启动，继续防守**"
+		"chi"		"**电梯在20秒后启动, 继续防守**"
 	}
 	"***ELEVATOR LEAVING IN 10 SECONDS***"
 	{
-		"chi"		"**电梯在10秒后启动，撤回电梯**"
+		"chi"		"**电梯在10秒后启动, 撤回电梯**"
 	}
 	"***TELEPORTING ZOMBIES***"
 	{
-		"chi"		"**传送僵尸，小心**"
+		"chi"		"**传送僵尸, 小心**"
 	}
 	"***ELEVATOR TRIGGERED***"
 	{
@@ -358,6 +358,6 @@
 	}
 	"***ZOMBIES ARE BEING TELEPORTED FORWARD***"
 	{
-		"chi"		"**僵尸被传送到你们的旁边，注意防守**"
+		"chi"		"**僵尸被传送到你们的旁边, 注意防守**"
 	}
 }
