@@ -2,16 +2,16 @@
 {
 	">>> STAGE 1 : GARDEN MODE<<<"
 	{
-		"chi"		">>>第一关：花园<<<"
+		"chi"		">>>第一关: 花园<<<"
 		"command"   "rank_ze_win_points_humans 5; ze_credits_pass_round 3"
 	}
 	">>> Map made by Moray <<<"
 	{
-		"chi"		">>>地图作者：Moray  地图汉化：大明<<<"
+		"chi"		">>>地图作者: Moray  地图汉化: 大明<<<"
 	}
 	">>> Special thanks to hobbit <<<"
 	{
-		"chi"		">>>特别感谢：hobbit<<<"
+		"chi"		">>>特别感谢: hobbit<<<"
 	}
 	">>> HOLD 20 SECONDS <<<"
 	{
@@ -19,7 +19,7 @@
 	}
 	">>> ROUTE1 : HOLD 20 SECONDS <<<"
 	{
-		"chi"		">>>路线一：防守20秒<<<"
+		"chi"		">>>路线一: 防守20秒<<<"
 	}
 	">>> PLAYER HAS PICKED UP SLOWER SPHERE <<<"
 	{
@@ -27,7 +27,7 @@
 	}
 	">>> ROUTE2 : HOLD 20 SECONDS <<<"
 	{
-		"chi"		">>>路线二：防守20秒<<<"
+		"chi"		">>>路线二: 防守20秒<<<"
 	}
 	">>> PLAYER HAS PICKED UP HEAL <<<"
 	{
@@ -55,11 +55,11 @@
 	}
 	"---Feedback:noojeff@gmail.com---"
 	{
-		"chi"		"**资料：noojeff@gmail.com**"
+		"chi"		"**资料: noojeff@gmail.com**"
 	}
 	"---Special Thank To:HZM654321 and JackBauer123---"
 	{
-		"chi"		"**特别感谢：HZM654321 和 JackBauer123**"
+		"chi"		"**特别感谢: HZM654321 和 JackBauer123**"
 	}
 	">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<"
 	{
@@ -83,12 +83,12 @@
 	}
 	">>> STAGE 2 : FOREST MODE<<<"
 	{
-		"chi"		">>>第二关：森林<<<"
+		"chi"		">>>第二关: 森林<<<"
 		"command"   "rank_ze_win_points_humans 5;ze_credits_pass_round 5"
 	}
 	">>> ROUTE3 : HOLD 15 SECONDS <<<"
 	{
-		"chi"		">>>路径三：守住15秒<<<"
+		"chi"		">>>路径三: 守住15秒<<<"
 	}
 	">>> HOLD 35 SECONDS <<<"
 	{
@@ -116,7 +116,7 @@
 	}
 	">>> STAGE 3 : FACILITY MODE<<<"
 	{
-		"chi"		">>>第三关：城堡<<<"
+		"chi"		">>>第三关: 城堡<<<"
 		"command"   "rank_ze_win_points_humans 10; ze_credits_pass_round 5"
 	}
 	">>> HARPY IS COMING <<<"
@@ -145,7 +145,7 @@
 	}
 	">>> WATCH OUT FOR TAEPODONG <<<"
 	{
-		"chi"		">>>小心大浦洞导弹！<<<"
+		"chi"		">>>小心大浦洞导弹!<<<"
 	}
 	">>> AFK TELEPORT IN 5 SECONDS <<<"
 	{
@@ -157,7 +157,7 @@
 	}
 	">>> TIME TO AVOID CANCER LAZERS <<<"
 	{
-		"chi"		">>>是时候展现真正的实力了！<<<"
+		"chi"		">>>是时候展现真正的实力了!<<<"
 	}
 	">>> STAGE 3 COMPLETED <<<"
 	{
@@ -193,7 +193,7 @@
 	}
 	">>> STAGE 0 : DARK MODE<<<"
 	{
-		"chi"		">>>特殊关卡：里世界<<<"
+		"chi"		">>>特殊关卡: 里世界<<<"
 		"command"   "rank_ze_win_points_humans 35;ze_credits_pass_round 10"
 	}
 	">>> PRESS 3 BUTTONS TO MAKE PASSAGE <<<"
@@ -314,7 +314,7 @@
 	}
 	">>> QUEEN CASTED TRAIN <<<"
 	{
-		"chi"		">>>火车来袭（躲避车轨）<<<"
+		"chi"		">>>火车来袭(躲避车轨)<<<"
 	}
 	">>> WATCH OUT FOR BEAM CANNON <<<"
 	{
@@ -330,7 +330,7 @@
 	}
 	">>> WATCH OUT FOR HUGE TAEPODONG <<<"
 	{
-		"chi"		">>>当心大浦洞导弹！<<<"
+		"chi"		">>>当心大浦洞导弹!<<<"
 	}
 	">>> HUGE TAEPODONG LAUNCHER IS BROKEN <<<"
 	{
@@ -390,11 +390,11 @@
 	}
 	">>> ROUTE 2 : HOLD 20 SECONDS <<<"
 	{
-		"chi"		">>>路线二：守住20秒<<<"
+		"chi"		">>>路线二: 守住20秒<<<"
 	}
 	">>> ROUTE 2 : AFK TELEPORT IN 10 SECONDS <<<"
 	{
-		"chi"		">>>路线二：挂机玩家10秒后传送<<<"
+		"chi"		">>>路线二: 挂机玩家10秒后传送<<<"
 	}
 	">>> NUKE KING IS COMING <<<"
 	{
@@ -438,11 +438,11 @@
 	}
 	">>> ROUTE 1 : HOLD 20 SECONDS <<<"
 	{
-		"chi"		"路线一：守住20秒"
+		"chi"		"路线一: 守住20秒"
 	}
 	">>> ROUTE 1 : AFK TELEPORT IN 10 SECONDS <<<"
 	{
-		"chi"		"路线一：挂机玩家10秒后传送"
+		"chi"		"路线一: 挂机玩家10秒后传送"
 	}
 	">>> PLAYER HAS PICKED UP EARTH TOILET <<<"
 	{

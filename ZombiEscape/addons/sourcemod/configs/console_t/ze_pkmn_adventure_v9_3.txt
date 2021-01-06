@@ -94,7 +94,7 @@
 	}
 	"**Wally: Gallade, use Psycho Cut**"
 	{
-		"chi"		"**满充:鬼斯,使用精神利刃**“无法躲避的跳刀,过了斜坡的都给我死”"
+		"chi"		"**满充:鬼斯,使用精神利刃**'无法躲避的跳刀,过了斜坡的都给我死”"
 	}
 	"**Get out of the cave!**"
 	{
@@ -194,19 +194,19 @@
 	}
 	"**Giratina used Dragon Claw**"
 	{
-		"chi"		"**骑拉帝纳使用龙爪**“跳刀”"
+		"chi"		"**骑拉帝纳使用龙爪**'跳刀”"
 	}	
 	"**Groudon is rising up platforms!**"
 	{
-		"chi"		"**古拉顿召唤了它的小弟**“尸笼”"
+		"chi"		"**古拉顿召唤了它的小弟**'尸笼”"
 	}
 	"**Groudon used Roar!**"
 	{
-		"chi"		"**古拉顿使用吼叫**“按住W抵抗”"
+		"chi"		"**古拉顿使用吼叫**'按住W抵抗”"
 	}
 	"GIRATINA IS SPAWNING PLATFORMS"
 	{
-		"chi"		"**骑拉帝纳召唤了它的小弟**“尸笼”"
+		"chi"		"**骑拉帝纳召唤了它的小弟**'尸笼”"
 	}
 	"**Zombiecage breaking in 12 seconds**"
 	{
@@ -298,7 +298,7 @@
 	}
 	"**Whitney: You want to battle?**"
 	{
-		"chi"		"**小茜:你想和我摔跤嘛？**"
+		"chi"		"**小茜:你想和我摔跤嘛?**"
 	}
 	"**Whitney: I'm warning you, I'm good!**"
 	{
@@ -426,7 +426,7 @@
 	}
 	"**Falkner: Pidgeot, use Whirlwind**"
 	{
-		"chi"		"**阿速:大逼鸟,使用吹飞!**“站在中间”"
+		"chi"		"**阿速:大逼鸟,使用吹飞!**'站在中间”"
 	}
 	"**Teleport will be enabled in 15 seconds"
 	{
@@ -442,7 +442,7 @@
 	}
 	"**Falkner: Noctowl, use Whirlwind"
 	{
-		"chi"		"**阿速:夜猫头鹰,使用吹飞!**“站在中间”"
+		"chi"		"**阿速:夜猫头鹰,使用吹飞!**'站在中间”"
 	}
 	"**Falkner: Noctowl, Roost!"
 	{
@@ -450,7 +450,7 @@
 	}
 	"**Falkner: Noctowl, use Zen Headbutt!"
 	{
-		"chi"		"**阿速:夜猫头鹰,使用意念头锤!**“到左右两边按住W抵抗”"
+		"chi"		"**阿速:夜猫头鹰,使用意念头锤!**'到左右两边按住W抵抗”"
 	}
 	"**Noctowl has fainted!**"
 	{
@@ -594,7 +594,7 @@
 	}
 	"GIRATINA USED VOID"
 	{
-		"chi"		"**骑拉帝纳使用暗黑洞**“后方平台碎裂”"
+		"chi"		"**骑拉帝纳使用暗黑洞**'后方平台碎裂”"
 	}
 	"GO TO THE FRONT HURRY"
 	{
@@ -602,7 +602,7 @@
 	}
 	"**Arceus used Living Earth**"
 	{
-		"chi"		"**阿尔宙斯使用大地之力**“尸笼”"
+		"chi"		"**阿尔宙斯使用大地之力**'尸笼”"
 	}
 	"**Arceus used Judgement**"
 	{
@@ -614,11 +614,11 @@
 	}
 	"**Arceus used Roar of Time**"
 	{
-		"chi"		"**阿尔宙斯使用时光咆哮**“轨道炮”"
+		"chi"		"**阿尔宙斯使用时光咆哮**'轨道炮”"
 	}
 	"**Arceus used Spacial Rend**"
 	{
-		"chi"		"**阿尔宙斯使用亚空裂斩**“跳刀”"
+		"chi"		"**阿尔宙斯使用亚空裂斩**'跳刀”"
 	}
 	"**Arceus has fainted!**"
 	{
@@ -646,7 +646,7 @@
 	}
 	"**Or we will die**"
 	{
-		"chi"		"**我们要死在这里了嘛？**"
+		"chi"		"**我们要死在这里了嘛?**"
 	}
 	"**STAGE FAILED**"
 	{
@@ -754,7 +754,7 @@
 	}
 	"GIRATINA USED OMINOUS WIND!"
 	{
-		"chi"		"**骑拉帝纳使用超极巨旋风袭卷**“按住W抵抗”"
+		"chi"		"**骑拉帝纳使用超极巨旋风袭卷**'按住W抵抗”"
 	}
 	"**Cyrus has been defeated**"
 	{
@@ -814,7 +814,7 @@
 	}
 	"**DODGE THE AERIAL ACES**"
 	{
-		"chi"		"**躲避燕返**“准备跳刀”"
+		"chi"		"**躲避燕返**'准备跳刀”"
 	}
 	"Cyrus: Weavile use Beat Up."
 	{
@@ -830,7 +830,7 @@
 	}
 	"GIRATINA USED DARK FORCE!"
 	{
-		"chi"		"**骑拉帝纳使用了黑暗之力**“沿梯子爬上小平台”"
+		"chi"		"**骑拉帝纳使用了黑暗之力**'沿梯子爬上小平台”"
 	}
 	"CLIMB UP THE LADDER HURRY UP!"
 	{
@@ -926,7 +926,7 @@
 	}
 	"Cyrus: Crobat use Antonish."
 	{
-		"chi"		"****赤日:叉字蝠,使用？？**"
+		"chi"		"****赤日:叉字蝠,使用??**"
 	}
 	"We've arrived to the Distortion World."
 	{
@@ -1050,7 +1050,7 @@
 	}
 	"Ceres: Where do you think you're going?"
 	{
-		"chi"		"**岁星:你想去哪里？"
+		"chi"		"**岁星:你想去哪里?"
 	}
 	"Venus: Our boss is about to complete his plan."
 	{
@@ -1102,7 +1102,7 @@
 	}
 	"**Groudon used Fissure!**"
 	{
-		"chi"		"**古拉顿使用了地裂**“跳到傍边的平台上”"
+		"chi"		"**古拉顿使用了地裂**'跳到傍边的平台上”"
 	}
 	"**Get on the side platforms**"
 	{
@@ -1114,7 +1114,7 @@
 	}
 	"IT'S WALLY!?"
 	{
-		"chi"		"**是满充？他又出现了!**"
+		"chi"		"**是满充?他又出现了!**"
 	}
 	"Wally: IT'S NOT OVER YET GUYS."
 	{
@@ -1238,7 +1238,7 @@
 	}
 	"LET'S SEE WHICH PATH WILL BE AVAIBLE"
 	{
-		"chi"		"**让我们看看那条路是能走的？**"
+		"chi"		"**让我们看看那条路是能走的?**"
 	}
 	"TELEPORTER #1 WILL BE READY IN 45 SECONDS"
 	{

@@ -6,7 +6,7 @@
 	}
 	"**if you lose,zombie door will open**"
 	{
-		"chi"		"**如果你失败了？那么...就去死吧**"
+		"chi"		"**如果你失败了?那么...就去死吧**"
 	}
 	"**15s open boss room door**"
 	{
@@ -34,11 +34,11 @@
 	}
 	"**you need hold 20s to win**"
 	{
-		"chi"		"**再坚守20秒迎来胜利！**"
+		"chi"		"**再坚守20秒迎来胜利!**"
 	}
 	"*door open in 25s(zombie door in 15s)*"
 	{
-		"chi"		"*大门将于25秒后开启（僵尸侧门10秒打开！）*"
+		"chi"		"*大门将于25秒后开启(僵尸侧门10秒打开!)*"
 	}
 		"*door open in 20s*"
 	{
@@ -50,7 +50,7 @@
 	}
 	"*teleport open in 20s*"
 	{
-		"chi"		"*传送将于20秒后开启 坚持！*"
+		"chi"		"*传送将于20秒后开启 坚持!*"
 	}
 	"*20s elevator open*"
 	{
@@ -62,15 +62,15 @@
 	}
 	"*Admin pressed stage 4(wait 5seconds kill button open)*"
 	{
-		"chi"		"*管理员选择第四关（5秒后开启核爆按钮）*"
+		"chi"		"*管理员选择第四关(5秒后开启核爆按钮)*"
 	}
 	"*player pink up heal gun(cd 50s)*"
 	{
-		"chi"		"*一位玩家拾取小奶（cd:50秒）*"
+		"chi"		"*一位玩家拾取小奶(cd:50秒)*"
 	}
 	"*Admin pressed stage 3(wait 5seconds kill button open)*"
 	{
-		"chi"		"*管理员选择第三关（5秒后开启核爆按钮）**"
+		"chi"		"*管理员选择第三关(5秒后开启核爆按钮)**"
 	}
 	"*speed now*"
 	{
@@ -78,15 +78,15 @@
 	}
 	"*you need play the game.if you life,you win;you die,you lose*"
 	{
-		"chi"		"*有时候运气也是重要的考验 赢则生 输则死！*"
+		"chi"		"*有时候运气也是重要的考验 赢则生 输则死!*"
 	}
 	"*Admin pressed stage 1(wait 5seconds kill button open)*"
 	{
-		"chi"		"*管理员选择第一关（5秒后开启核爆按钮）***"
+		"chi"		"*管理员选择第一关(5秒后开启核爆按钮)***"
 	}
 	"*Admin pressed stage 2(wait 5seconds kill button open)*"
 	{
-		"chi"		"*管理员选择第二关（5秒后开启核爆按钮）****"
+		"chi"		"*管理员选择第二关(5秒后开启核爆按钮)****"
 	}
 	"*hold there 20 seconds"
 	{
@@ -114,11 +114,11 @@
 	}
 	"*hold here,20 seaonds break color wood*"
 	{
-		"chi"		"*坚守阵地，每20秒彩虹桥将会断裂*"
+		"chi"		"*坚守阵地, 每20秒彩虹桥将会断裂*"
 	}
 	"*alive 60seconds or die*"
 	{
-		"chi"		"生存60秒或者...死！"
+		"chi"		"生存60秒或者...死!"
 	}
 	"*30seconds boss use Ultimate*"
 	{
@@ -154,7 +154,7 @@
 	}
 	"*you have 210 seconds kill the boss*"
 	{
-		"chi"		"*你只有210秒时间杀死这个boss 不然就会葬生于此！*"
+		"chi"		"*你只有210秒时间杀死这个boss 不然就会葬生于此!*"
 	}
 	"*look the color wall*"
 	{
@@ -182,11 +182,11 @@
 	}
 	"*player pink up heal gun(cd 70s)*"
 	{
-		"chi"		"*一位玩家拾取大奶（cd:70秒）*"
+		"chi"		"*一位玩家拾取大奶(cd:70秒)*"
 	}
 	"*player pink speed gun(speed 1.5)*"
 	{
-		"chi"		"*一位玩家拾取加速（速度增益1.5倍）*"
+		"chi"		"*一位玩家拾取加速(速度增益1.5倍)*"
 	}
 	"*stage win*"
 	{
@@ -222,15 +222,15 @@
 	}
 	"*please CTRL!*"
 	{
-		"chi"		"*赶紧蹲下！*"
+		"chi"		"*赶紧蹲下!*"
 	}
 	"*you kill the boss,defend 60sec win*"
 	{
-		"chi"		"*你战胜了boss，防守60秒后迎接胜利！*"
+		"chi"		"*你战胜了boss, 防守60秒后迎接胜利!*"
 	}
 	"*welcome to the world,happy game*"
 	{
-		"chi"		"*欢迎来到我的领域，但愿你游戏愉快*"
+		"chi"		"*欢迎来到我的领域, 但愿你游戏愉快*"
 	}
 	"*11s teleport*"
 	{

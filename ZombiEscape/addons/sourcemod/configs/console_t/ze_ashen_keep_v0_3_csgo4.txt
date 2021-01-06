@@ -2,7 +2,7 @@
 {
 	"The server is about to close the update ,Please update your game"
 	{
-		"chi"		"**服务器即将关闭，请更新你的游戏**"
+		"chi"		"**服务器即将关闭, 请更新你的游戏**"
 	}
 	"*** STAGE I ***"
 	{
@@ -75,7 +75,7 @@
 	}
 	"*** Round failed! Zombies have reached the objective! ***"
 	{
-		"chi"		"**回合失败！僵尸到了！**"
+		"chi"		"**回合失败!僵尸到了!**"
 	}
 	"*** Divine Orb has been acquired ***"
 	{
@@ -99,7 +99,7 @@
 	}
 	"*** Stage completed! ***"
 	{
-		"chi"		"**关卡通过！**"
+		"chi"		"**关卡通过!**"
 	}
 	"*** STAGE II ***"
 	{
@@ -132,7 +132,7 @@
 	}
 	"*** Defend the 4 statues for 45 seconds ***"
 	{
-		"chi"		"**保护四座雕像45秒（千万别让僵尸接触雕像）**"
+		"chi"		"**保护四座雕像45秒(千万别让僵尸接触雕像)**"
 	}
 	"*** Total destruction in 30 seconds ***"
 	{
@@ -189,11 +189,11 @@
 	}
 	"*** JUMP! ***"
 	{
-		"chi"		"**酱普！**"
+		"chi"		"**酱普!**"
 	}
 	"*** STAGE IV (ZM) ***"
 	{
-		"chi"		"**第四关（感染模式）**"
+		"chi"		"**第四关(感染模式)**"
 		"command"   "rank_ze_win_points_humans 3; ze_credits_pass_round 3"
 	}
 	"*** 5 minutes left ***"
