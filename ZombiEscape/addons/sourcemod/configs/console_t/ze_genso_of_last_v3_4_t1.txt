@@ -22,6 +22,7 @@
 
     "Special Thanks .YuukiAsuna. Gopa Rulucy Sesame BalG"
     {
+        "blocked" "1"
         "chi" "特别感谢:YuukiAsuna  Gopa Rulucy Sesame BalG"
     }
 
@@ -29,9 +30,20 @@
     {
         "chi" "地图作者:XXPohmian/XXMochi	汉化:小鱼干@風雲社"
     }
+    
+    "Map Fixed by Rulucy (For 93x Server Stripper)"
+	{
+        "blocked" "1"
+		"chi"		"** **"
+	}
+	"Map by XXPohmianXXMochi"
+	{
+		"chi" "地图作者:XXPohmian/XXMochi	汉化:小鱼干@風雲社"
+	}
 
     "Thanks for testing *Domain VasyaPupkin other testers"
     {
+        "blocked" "1"
         "chi" "*感谢测试* Domain VasyaPupkin以及其他测试人员"
     }
 
@@ -212,7 +224,7 @@
 
     "*** !? ***"
     {
-        "chi" "*** ！？ ***"
+        "chi" "*** !? ***"
     }
 
     "***Hold 20seconds***"
@@ -402,7 +414,7 @@
 
     "< Survive in 180 seconds  >"
     {
-        "chi" "< 在180秒内存活 >"
+        "chi" "在180秒内存活"
     }
 
 }

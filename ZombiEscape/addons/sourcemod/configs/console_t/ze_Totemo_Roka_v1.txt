@@ -14,7 +14,7 @@
 	}
 	"** Something moved upon touching the gem... **"
 	{
-		"chi"		"**谁触碰了白色宝石...?好像有什么事情要发生了...** “25”"
+		"chi"		"**谁触碰了白色宝石...?好像有什么事情要发生了...** '25”"
 
 	}
 	"** A relay of sorts seems to be moving in the back -- wait for something to happen! **"
@@ -27,7 +27,7 @@
 	}
 	"** We gotta hold our ground over here! **"
 	{
-		"chi"		"**守住这里** “20”"
+		"chi"		"**守住这里** '20”"
 
 	}
 	"** This platform seems like some sort of lift -- do not let anything through!**"
@@ -40,7 +40,7 @@
 	}
 	"** The temple seems to rely on elevators upon elevators... **"
 	{
-		"chi"		"**这个古城依靠着奇怪的电梯搭载生物...** “30”"
+		"chi"		"**这个古城依靠着奇怪的电梯搭载生物...** '30”"
 
 	}
 	"** Keep it up! We cannot afford to have them break through! **"
@@ -49,7 +49,7 @@
 	}
 	"** We reached the first sacred seal! The path should clear soon! **"
 	{
-		"chi"		"**第一封印区域已解除,道路应该很快就打开了** “27”"
+		"chi"		"**第一封印区域已解除,道路应该很快就打开了** '27”"
 
 	}
 	"** The temple may become far more ruthless from this point on... **"
@@ -58,7 +58,7 @@
 	}
 	"** HURRY BACK! The volcano is about to explode! **"
 	{
-		"chi"		"**火山即将爆发!尽快搭乘电梯前往顶部** “32”"
+		"chi"		"**火山即将爆发!尽快搭乘电梯前往顶部** '32”"
 
 	}
 	"** We must get to the top! **"
@@ -67,7 +67,7 @@
 	}
 	"** We are very close! Keep it up for the last bit! **"
 	{
-		"chi"		"**到达顶部还有一些距离!坚持住!** “25”"
+		"chi"		"**到达顶部还有一些距离!坚持住!** '25”"
 	}
 	"** It shouldnt be hard to reach the summit! **"
 	{
@@ -76,7 +76,7 @@
 	}
 	"** We are almost on the summit! The sacred city of Tot-ghul Ka awaits in the horizon! **"
 	{
-		"chi"		"**塔顶快到了,可以看到古代遗迹清晰的坐落在地平线上** “25”"
+		"chi"		"**塔顶快到了,可以看到古代遗迹清晰的坐落在地平线上** '25”"
 
 	}
 	"** One more push! HOLD IT! **"
@@ -102,7 +102,7 @@
 	}
 	"** This is the third seal! The gates will open soon! **"
 	{
-		"chi"		"**第三封印区域已解除!古代遗迹的门即将打开** “50”"
+		"chi"		"**第三封印区域已解除!古代遗迹的门即将打开** '50”"
 
 	}
 	"** First the entrance will fold, then the inner plaza will show itself to us! **"
@@ -159,7 +159,7 @@
 	}
 	"Map made by Ocelot"
 	{
-		"chi"		"**地图制作：Ocelot  汉化：小三@风云社**"
+		"chi"		"**地图制作: Ocelot  汉化: 小三@风云社**"
 	}
 	"** ZE_SUPERSHITSHOW **"
 	{

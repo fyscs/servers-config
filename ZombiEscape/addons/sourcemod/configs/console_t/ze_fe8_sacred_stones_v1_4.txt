@@ -42,7 +42,7 @@
 	}
 	"<<<Formortiis: Facing the deceased ones....how interesting...>>>"
 	{
-		"chi"		"佛德斯:面对死亡,多么有趣的事情 “佛德斯召唤了它的小弟们”"
+		"chi"		"佛德斯:面对死亡,多么有趣的事情 '佛德斯召唤了它的小弟们”"
 	}
 	"***Mist....***"
 	{
@@ -50,11 +50,11 @@
 	}
 	"***Sword of Judgement....***"
 	{
-		"chi"		"审判之剑 “到四周角落躲避”"
+		"chi"		"审判之剑 '到四周角落躲避”"
 	}
 	"<<<Formortiis: Bring them to me...minions>>>"
 	{
-		"chi"		"佛德斯:把他们带给我,我的小弟们 “破坏后方紫色特效”"
+		"chi"		"佛德斯:把他们带给我,我的小弟们 '破坏后方紫色特效”"
 	}
 	"***Formortiis has changed weak point***"
 	{
@@ -70,7 +70,7 @@
 	}
 	"<<<Path opening soon...>>>"
 	{
-		"chi"		"道路即将开放 “50”"
+		"chi"		"道路即将开放 '50”"
 	}
 	"<<<Hint: Zombies will get tp after this....don't doorhug!>>>"
 	{
@@ -106,7 +106,7 @@
 	}
 	"<<<Path to Grado Town will be opened soon>>>"
 	{
-		"chi"		"通往 Grado 小镇的路径即将开放 “15”"
+		"chi"		"通往 Grado 小镇的路径即将开放 '15”"
 	}
 	"<<<Seems like there's no survivors....>>>"
 	{
@@ -114,11 +114,11 @@
 	}
 	"<<<However, a strong seal blocks the path ahead...please wait....>>>"
 	{
-		"chi"		"坚固的障碍物阻挡我们前进的道路,让我们再等一下 “30”"
+		"chi"		"坚固的障碍物阻挡我们前进的道路,让我们再等一下 '30”"
 	}
 	"<<<We have reached the gate! Hold a just bit longer>>>"
 	{
-		"chi"		"我们已经到达了门口,再等一下 “25”"
+		"chi"		"我们已经到达了门口,再等一下 '25”"
 	}
 	"<<<We're finally here....opening up the gate...>>>"
 	{
@@ -150,7 +150,7 @@
 	}
 	"<<<Signal has been sounded...>>>"
 	{
-		"chi"		"信号已经响起 “30”"
+		"chi"		"信号已经响起 '30”"
 	}
 	"<<<Congratulations! Advancing to next chapter>>>"
 	{
@@ -198,7 +198,7 @@
 	}
 	"***Tracing Spirit is casting...***"
 	{
-		"chi"		"匪喷时代 “后方来刀”"
+		"chi"		"匪喷时代 '后方来刀”"
 	}
 	"<<<Platform rising in 15 sec>>>"
 	{
@@ -222,7 +222,7 @@
 	}
 	"<<<Path opening up soon...>>>"
 	{
-		"chi"		"道路即将开放 “25”"
+		"chi"		"道路即将开放 '25”"
 	}
 	"<<<The dungeon is straight ahead...>>>"
 	{
@@ -266,7 +266,7 @@
 	}
 	"<<<That cave opening should lead to the Rausten Depth...Hurry!>>>"
 	{
-		"chi"		"这条应该是通往劳斯滕地牢道路 “25”"
+		"chi"		"这条应该是通往劳斯滕地牢道路 '25”"
 	}
 	"<<<Break the chains to start unsealing processs...>>>"
 	{
@@ -298,7 +298,7 @@
 	}
 	"***Activating Teleporter - Please Hold***"
 	{
-		"chi"		"正在激活传送器 “25”"
+		"chi"		"正在激活传送器 '25”"
 	}
 	"<<<Hint: Break the initial statue>>>"
 	{
@@ -310,7 +310,7 @@
 	}
 	"***Music from: Fire Emblem 8, Vindictus, Overlord***"
 	{
-		"chi"		"音乐来源于:《Fire Emblem 8》《Vindictus》《Overlord》"
+		"chi"		"音乐来源于:'Fire Emblem 8''Vindictus''Overlord'"
 	}
 	"***Your journey begins in 45 seconds***"
 	{
@@ -378,7 +378,7 @@
 	}
 	"***Crystal energy is fading***"
 	{
-		"chi"		"晶体能量正在逐渐消失 “15”"
+		"chi"		"晶体能量正在逐渐消失 '15”"
 	}
 	" Incoming ZM TP..."
 	{
@@ -390,7 +390,7 @@
 	}
 	"<<<Last one! Keep holding!>>>"
 	{
-		"chi"		"最后一个了,继续防守 “15”"
+		"chi"		"最后一个了,继续防守 '15”"
 	}
 	"<<<Path is blocked, perhaps we can destroy the crystal...>>>"
 	{
@@ -402,6 +402,6 @@
 	}
 	"***Crystal energy is fading...***"
 	{
-		"chi"		"晶体能量正在逐渐消失 “15”"
+		"chi"		"晶体能量正在逐渐消失 '15”"
 	}
 }

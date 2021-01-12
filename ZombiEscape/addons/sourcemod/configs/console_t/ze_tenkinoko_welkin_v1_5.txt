@@ -38,12 +38,12 @@
 
     "<<< You are determined to be sunny, but you will face more difficult tests! >>>"
     {
-        "chi" "**你决定拥抱光明，但必经受更多的磨难**"
+        "chi" "**你决定拥抱光明, 但必经受更多的磨难**"
     }
 
     "<<< Feel the rage of the weather! Die! insect! >>>"
     {
-        "chi" "**死吧！渺小的虫子！感受天气的愤怒吧！**"
+        "chi" "**死吧!渺小的虫子!感受天气的愤怒吧!**"
     }
 
     "<<< Jump off the welkin in 15 seconds >>>"
@@ -58,7 +58,7 @@
 
     "<<< You successfully passed the test, you are sunny >>>"
     {
-        "chi" "**你成功的通过了考验，你就是天气之子**"
+        "chi" "**你成功的通过了考验, 你就是天气之子**"
     }
 
     "<<< The door of Yoyogi will open in 10 seconds >>>"
@@ -123,7 +123,7 @@
 
     "<<<[Morishima Hodaka] It's okay for the weather to stay crazy! >>>"
     {
-        "chi" "**森岛帆高:管他什么天气，不正常就不正常吧!**"
+        "chi" "**森岛帆高:管他什么天气, 不正常就不正常吧!**"
     }
 
     "<<< zombie teleported in 5 secs >>>"
@@ -133,7 +133,7 @@
 
     "<<< Run! Get out of here! >>>"
     {
-        "chi" "**快跑！**"
+        "chi" "**快跑!**"
     }
 
     "<<< FrozenTomb was picked up >>>"
@@ -218,17 +218,17 @@
 
     "<<< Amano Hina is no longer Sunny girl, her weather power is scattered everywhere, and the sky will no longer be clear >>>"
     {
-        "chi" "**天野阳菜不再是晴女，她呼唤晴天的力量四处散落，天空也不再晴朗**"
+        "chi" "**天野阳菜不再是晴女, 她呼唤晴天的力量四处散落, 天空也不再晴朗**"
     }
 
     "<<< The weather is angry at losing the sunny girl, maybe we can replace Amano Hina to make the weather sunny again >>>"
     {
-        "chi" "**天气对失去晴女很生气，也许我们可以代替阳菜，让天气再次晴朗起来**"
+        "chi" "**天气对失去晴女很生气, 也许我们可以代替阳菜, 让天气再次晴朗起来**"
     }
 
     "<<< The sky has taken Amano Hina, let's bring her back! >>>"
     {
-        "chi" "**天空带走了阳菜，让我们把她带回来！**"
+        "chi" "**天空带走了阳菜, 让我们把她带回来!**"
     }
 
     "<<< Only one person can survive. Jump! >>>"
@@ -248,67 +248,67 @@
 
     "<<< Tips:Recharge item each have 60 energy,which restore 1 energy per second when not in use >>>"
     {
-        "chi" "**提示：每一个充能神器都有60点能量，不用时每秒恢复1点**"
+        "chi" "**提示: 每一个充能神器都有60点能量, 不用时每秒恢复1点**"
     }
 
     "<<< Tips:When the energy is exhausted or the user uses the upper part, the recharg item's effect  will be invalid >>>"
     {
-        "chi" "**提示：当神器的能量完全耗尽或神器效果未完全释放的时候，无法进行充能**"
+        "chi" "**提示: 当神器的能量完全耗尽或神器效果未完全释放的时候, 无法进行充能**"
     }
 
     "<<< Tips:Human item 65 seconds CD, recharge item 5 seconds CD, zombie item 70 seconds CD, weather item 80 seconds CD >>>"
     {
-        "chi" "**提示：人类神器冷却时间65秒，充能神器5秒；僵尸神器70秒，天气神器80秒**"
+        "chi" "**提示: 人类神器冷却时间65秒, 充能神器5秒; 僵尸神器70秒, 天气神器80秒**"
     }
 
     "<<< Tips:The effect will disappear 4 seconds after FrozenTomb's crystal is crushed >>>"
     {
-        "chi" "**提示：冰封陵墓的水晶消失4秒后其产生的效果也会被移除**"
+        "chi" "**提示: 冰封陵墓的水晶消失4秒后其产生的效果也会被移除**"
     }
 
     "<<< Tips:FrozenTomb will freeze the zombies around for 9 seconds when uses the upper part >>>"
     {
-        "chi" "**提示：冰封陵墓命中后将会冻结周围的僵尸9秒**"
+        "chi" "**提示: 冰封陵墓命中后将会冻结周围的僵尸9秒**"
     }
 
     "<<< Tips:Both SunnyDoll and Rainbow can heal humans, Rainbow will also provide ammunition supplies >>>"
     {
-        "chi" "**提示：晴天娃娃和彩虹都可以治疗人类，彩虹还有无限弹药与免疫感染的效果**"
+        "chi" "**提示: 晴天娃娃和彩虹都可以治疗人类, 彩虹还有无限弹药与免疫感染的效果**"
     }
 
     "<<< Tips:Blizzard will form a storm after 5 seconds, freezing the zombies in the range >>>"
     {
-        "chi" "**提示：暴风雪开启5秒后，将冻结周围的僵尸**"
+        "chi" "**提示: 暴风雪开启5秒后, 将冻结周围的僵尸**"
     }
 
     "<<< Tips:Mist is poisonous, especially in the last 5 seconds >>>"
     {
-        "chi" "**提示：迷雾可是有毒的哦，尤其是最后5秒**"
+        "chi" "**提示: 迷雾可是有毒的哦, 尤其是最后5秒**"
     }
 
     "<<< Tips:Weather items will affect both human item and zombie item, please be cautious >>>"
     {
-        "chi" "**提示：天气物品会影响所有神器的效果，请务必小心**"
+        "chi" "**提示: 天气物品会影响所有神器的效果, 请务必小心**"
     }
 
     "<<< Tips:Weather items will only appear under certain circumstances and will lead to different endings. >>>"
     {
-        "chi" "**提示：天气物品只会在特定条件下出现，这会导致不同的结局**"
+        "chi" "**提示: 天气物品只会在特定条件下出现, 这会导致不同的结局**"
     }
 
     "<<< Tips:SunnyDoll will slightly block zombies and clear the weather effect >>>"
     {
-        "chi" "**提示：晴天娃娃可以略微排斥僵尸并消除天气的影响**"
+        "chi" "**提示: 晴天娃娃可以略微排斥僵尸并消除天气的影响**"
     }
 
     "<<< Tips:Thunderbolt and all recharge item can cause damage to boss >>>"
     {
-        "chi" "**提示：人类神器都可以对boss造成伤害**"
+        "chi" "**提示: 人类神器都可以对boss造成伤害**"
     }
 
     "<<< The journey begins, hope you can enjoy >>>"
     {
-        "chi" "**旅途才刚开始，希望你能享受这一切**"
+        "chi" "**旅途才刚开始, 希望你能享受这一切**"
     }
 
     "<<< ScorchingSun charging completed >>>"
@@ -353,22 +353,22 @@
 
     "<<<[Morishima Hodaka] Is that ... fish ? ... Uhahahahahahah ... >>>"
     {
-        "chi" "**森岛帆高:那是...鱼？...哇啊啊啊啊啊..**"
+        "chi" "**森岛帆高:那是...鱼?...哇啊啊啊啊啊..**"
     }
 
     "<<<[Morishima Hodaka] You don't have to be sunny again! >>>"
     {
-        "chi" "**森岛帆高:你不用再成为晴女了！**"
+        "chi" "**森岛帆高:你不用再成为晴女了!**"
     }
 
     "<<<[Morishima Hodaka] Hina is better for me than blue sky! >>>"
     {
-        "chi" "**森岛帆高:比起蓝天，我更想要阳菜！**"
+        "chi" "**森岛帆高:比起蓝天, 我更想要阳菜!**"
     }
 
     "<<< There are 60 sec of leisure time,Will the weather always be like this? >>>"
     {
-        "chi" "**我们有60s去放松一下，天气会一直这样下去吗？**"
+        "chi" "**我们有60s去放松一下, 天气会一直这样下去吗?**"
     }
 
     "<<< Amano Hina will clear all zombies after 30 seconds >>>"
@@ -388,17 +388,17 @@
 
     "<<< The stairs in the building are blocked. Fight for 25 seconds. Let's find another way >>>"
     {
-        "chi" "**楼梯被堵住了，在找到另一条路前防守25s**"
+        "chi" "**楼梯被堵住了, 在找到另一条路前防守25s**"
     }
 
     "<<< The stairs in the building are blocked. Fight for 15 seconds. Let's find another way >>>"
     {
-        "chi" "**楼梯被堵住了，在找到另一条路前防守15s**"
+        "chi" "**楼梯被堵住了, 在找到另一条路前防守15s**"
     }
 
     "<<<[Morishima Hodaka] Why hinder me! You know everything, but you all pretend not to know! I just wanted to... see that person again! >>>"
     {
-        "chi" "**森岛帆高:为什么要妨碍我！你们什么都知道，但你们都假装不知道！我只是想...再见那个人！**"
+        "chi" "**森岛帆高:为什么要妨碍我!你们什么都知道, 但你们都假装不知道!我只是想...再见那个人!**"
     }
 
     "<<< The elevator will descend in 20 sec >>>"
@@ -428,7 +428,7 @@
 
     "<<< People are detected on the subway, emergency access open >>>"
     {
-        "chi" "**地铁上的人被发现了，开启紧急通道**"
+        "chi" "**地铁上的人被发现了, 开启紧急通道**"
     }
 
     "<<< The road will be cleared in 20 sec >>>"
