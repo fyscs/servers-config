@@ -6,20 +6,20 @@
 	}
 	">>> Hold until the City Doors Open! <<<"
 	{
-		"chi"		"** 守住这个地方等待大门开启!老板们回头打僵尸啦!**"
+		"chi"		"** 开关已按下!大门将在30秒后打开**"
 
 	}
 	"*** Cover the windows until we find a way out of here ***"
 	{
-		"chi"		"** 守住这道门和窗户直到我们找到一条出口!守住听指挥的话! **"
+		"chi"		"** 守住这道门和窗户直到我们找到一个出口! **"
 	}
 	"*** Living room and kitchen windows are broken! ***"
 	{
-		"chi"		"** 客厅和厨房的窗户都被打破了!打破了打破了!!**"
+		"chi"		"** 客厅和厨房的窗户都被打破了!守住30秒!**"
 	}
 	"*** RESIST ***"
 	{
-		"chi"		"** 射击僵尸!开火! **"
+		"chi"		"** 扔雷撤退! **"
 	}
 	"*** GET DOWN IN THE BASEMENT NOW ***"
 	{
@@ -27,7 +27,7 @@
 	}
 	">>> Elevator Leaves in 10 seconds !! <<"
 	{
-		"chi"		"** 电梯将在10秒后离开!!快上电梯!**"
+		"chi"		"** 电梯将在10秒后离开!**"
 	}
 	">>> Door Opens in 25 seconds <<<"
 	{
@@ -62,7 +62,7 @@
 	}
 	"*** THE REACTOR CORES ARE GOING UNSTABLE ***"
 	{
-		"chi"		"** 反应堆堆芯不稳定,什么鬼? **"
+		"chi"		"** 反应堆堆芯不稳定! **"
 	}
 	"*** TRY TO ESCAPE THROUGH THE CARGO AREA ***"
 	{
@@ -74,12 +74,12 @@
 	}
 	"*** SECTOR 1 DOORS SHOULD OPEN SOON! ***"
 	{
-		"chi"		"**  控制室大门将会尽快开启.可能是32秒?shit! **"
+		"chi"		"**  一号控制室的地堡大门将在33秒后开启 **"
 
 	}
 	"*** RESIST! ***"
 	{
-		"chi"		"** 继续屠杀僵尸!**"
+		"chi"		"** 拖住!地堡将在136秒关闭**"
 	}
 	"*** THIS PLACE IS GOING TO BLOW UP IN 2 MINUTES ***"
 	{
@@ -87,7 +87,7 @@
 	}
 	"*** CARGO AREA DOOR SHOULD OPEN SOON! ***"
 	{
-		"chi"		"** 门将会尽快开启!射击僵尸! **"
+		"chi"		"** 射击僵尸!火车大门将在33秒开启! **"
 	}
 	"*** LAST TRAIN OUT OF HERE LEAVES IN 45 SECONDS ***"
 	{
@@ -147,7 +147,7 @@
 	}
 	"*** IN 1 MINUTE THIS WHOLE PLACE BLOWS UP ***"
 	{
-		"chi"		"** 还有1分钟就爆炸了啊!! **"
+		"chi"		"** 还有60秒就爆炸了啊!! **"
 	}
 	"*** PLANE IS READY TO LEAVE ***"
 	{
@@ -175,23 +175,23 @@
 	}
 	"*** Bathroom and living room windows are broken! ***"
 	{
-		"chi"		"**浴室和厨房的窗户被打破了.**"
+		"chi"		"**浴室和厨房的窗户被打破了.守住30秒!**"
 	}
 	"*** Kitchen and living room windows are broken! ***"
 	{
-		"chi"		"**厨房和客厅的窗户被打破了**"
+		"chi"		"**厨房和客厅的窗户被打破了.守住30秒!**"
 	}
 	"*** ELEVATOR DOORS OPEN IN 40 SECONDS ***"
 	{
-		"chi"		"**逃生大门将在 40 秒后开启.**"
+		"chi"		"**电梯大门将在 40 秒后开启.**"
 	}
 	"*** LAST TRAIN OUT OF HERE LEAVES IN 70 SECONDS ***"
 	{
-		"chi"		"**距离末班车离开还有 70 秒.**"
+		"chi"		"**距离末班车离开还有 50 秒.**"
 	}
 	"*** THIS PLACE IS GOING TO BLOW UP IN 85 SECONDS ***"
 	{
-		"chi"		"**距离此处被炸飞还有 85 秒!**"
+		"chi"		"**距离此处被炸飞还有 60 秒!**"
 	}
 	"The server is about to close the update ,Please update your game"
 	{
@@ -237,12 +237,9 @@
 	{
 		"chi"		"** **"
 	}
-	"***MAP BY - LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
+
 	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
 	{
-		"chi"		"** **"
+		"chi"		"**不要尝试开启穿墙模式,你会被传送**"
 	}
 }
