@@ -88,13 +88,13 @@
 
     "*** Defend for 10 seconds! ***"
     {
-        "chi" "** **"
+        "chi" "**防守10秒!**"
     }
 
     "*** Defend for 5 seconds! ***"
     {
         "chi" "**防守5秒!**"
-        "blocked"
+		"blocked"   "1"
     }
 
     "*** Stage 2 has been completed! ***"
@@ -220,7 +220,7 @@
     "Barrier one breaking in 5 seconds."
     {
         "chi" "**一号障碍5秒后破碎**"
-        "blocked"
+        "blocked"   "1"
     }
 
     "Barrier two breaking in 20 seconds."
@@ -231,7 +231,7 @@
     "Barrier two breaking in 5 seconds."
     {
         "chi" "**二号障碍5秒后破碎**"
-        "blocked"
+        "blocked"   "1"
     }
 
     "*** Temple doors will open in 30 seconds. ***"
@@ -242,13 +242,13 @@
     "*** Temple doors will open in 10 seconds. ***"
     {
         "chi" "**神庙大门将在10秒后开启**"
-        "blocked"
+        "blocked"   "1"
     }
 
     "*** Temple doors will open in 5 seconds. ***"
     {
         "chi" "**神庙大门将在5秒后开启**"
-        "blocked"
+        "blocked"   "1"
     }
 
     "*** The door is open, escape! ***"
@@ -284,13 +284,13 @@
     "*** Teleporter activating in 5 seconds. ***"
     {
         "chi" "**传送将在5秒内启动**"
-        "blocked"
+        "blocked"   "1"
     }
 
     "*** Teleporter activating in 15 seconds. ***"
     {
         "chi" "**传送将在15秒内启动**"
-        "blocked"
+        "blocked"   "1"
     }
 
     "*** Teleporter activating in 25 seconds. ***"
@@ -306,7 +306,7 @@
     "*** Bridge spawning in 10 seconds... ***"
     {
         "chi" "**桥10秒后开启**"
-        "blocked"
+        "blocked"   "1"
     }
 
     "*** Barrier 1 breaking in 20 seconds... ***"
@@ -377,25 +377,25 @@
     "*** Teleporter activating in 20 seconds. ***"
     {
         "chi" "**传送器将在20秒后启动.**"
-        "blocked"
+        "blocked"   "1"
     }
 
     "*** Teleporter activating in 30 seconds. ***"
     {
         "chi" "**传送器将在30秒后启动.**"
-        "blocked"
+        "blocked"   "1"
     }
 
     "*** Teleporter activating in 10 seconds. ***"
     {
         "chi" "**传送器将在10秒后启动.**"
-        "blocked"
+        "blocked"   "1"
     }
 
     "*** Teleporter activating in 5 seconds. ***"
     {
         "chi" "**传送器将在5秒后启动.**"
-        "blocked"
+        "blocked"   "1"
     }
 
     "*** Teleporter activating in 35 seconds. ***"
@@ -481,13 +481,13 @@
     "*** Teleporter activating in 15 seconds. ***"
     {
         "chi" "**传送器15秒后启动.**"
-        "blocked"
+        "blocked"   "1"
     }
 
     "*** Teleporter activating in 5 seconds. ***"
     {
         "chi" "**传送器5秒后启动.**"
-        "blocked"
+        "blocked"   "1"
     }
 
     "*** Teleporter active! ***"
