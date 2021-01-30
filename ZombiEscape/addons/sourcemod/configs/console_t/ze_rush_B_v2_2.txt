@@ -1,0 +1,278 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "[PRESTIGE90] MODE"
+    {
+        "chi" "[PRESTIGE90]模式"
+    }
+
+    "*** P90 ONLY! ***"
+    {
+        "chi" "仅限P90!"
+    }
+
+    "*** TELEPORT IN 20 SECONDS ***"
+    {
+        "chi" "20秒内传送"
+    }
+
+    "*** MAP BY: eastern swiss power ***"
+    {
+        "chi" "地图作者:eastern swiss power		汉化:小鱼干@風雲社"
+    }
+
+    "*** THANKS TO: Syoudous ***"
+    {
+        "chi" "感谢:Syoudous"
+    }
+
+    "*** 10 SECONDS ***"
+    {
+        "chi" "10"
+    }
+
+    "*** LASER WALL ITEM PICKED UP ***"
+    {
+        "chi" "一名玩家捡起了激光墙"
+    }
+
+    "*** FIDGET SPINNER PICKED UP ***"
+    {
+        "chi" "一名玩家捡起了急速旋转器"
+    }
+
+    "*** YOU FAILED! ***"
+    {
+        "chi" "僵尸吃掉了你的脑子!"
+    }
+
+    "*** ZOMBIE ITEM SPAWNED! ***"
+    {
+        "chi" "[ZM]神器生成"
+    }
+
+    "THIS MAP IS PRIVATE!"
+    {
+        "chi" "此地图需要作者授权"
+    }
+
+    "BECAUSE SOME PEOPLE (INCLUDING SERVER MANAGERS)"
+    {
+        "chi" "因为有些人(包括服务器管理员)"
+    }
+
+    "DON'T TREAT MAPPERS WITH THEIR DESERVED RESPECT,"
+    {
+        "chi" "不要用地图绘制者应得的尊重来对待他们"
+    }
+
+    "IS THE REASON WHY THIS MAP ISN'T AVAILABLE TO EVERYONE!"
+    {
+        "chi" "这就是为什么这张地图不是每个人都可以使用的原因"
+    }
+
+    "FOR THEIR HARD WORK AND TIME THEY SPENT,"
+    {
+        "chi" "为了他们的辛勤工作和所花的时间"
+    }
+
+    "IF YOU THINK YOU ARE A PART OF A COMMUNITY, ACT LIKE IT!"
+    {
+        "chi" "如果你认为自己是一个社区的一部分,那就表现得像它一样!"
+    }
+
+    "*** SOLO WIN! ***"
+    {
+        "chi" "SOLO WIN!"
+    }
+
+    "*** SURVIVE THE LAST HOLD! ***"
+    {
+        "chi" "在最后一次抓捕中幸存!"
+    }
+
+    "*** DUO WIN! ***"
+    {
+        "chi" "DUO WIN!"
+    }
+
+    "*** TRIO WIN! ***"
+    {
+        "chi" "TRIO WIN!"
+    }
+
+    "*** GOOD JOB, YOU DID IT! ***"
+    {
+        "chi" "干得好,你做到了!"
+    }
+
+    "*** JUST A TRIM ***"
+    {
+        "chi" "只是修剪一下"
+    }
+
+    "*** F%&K, THE PATH IS BLOCKED... ***"
+    {
+        "chi" "F%&K路径被阻止..."
+    }
+
+    "*** ONE OF THE DOORS UNLOCK SOON ***"
+    {
+        "chi" "其中一扇门很快就会开锁"
+    }
+
+    "*** ... WE NEED TO FIND ANOTHER WAY ***"
+    {
+        "chi" "我们需要找到另一种方法"
+    }
+
+    "*** THIS LOOKS LIKE A DEAD END... ***"
+    {
+        "chi" "这看起来是个死胡同..."
+    }
+
+    "*** TRY TO SETUP A PHONE CONNECTION ***"
+    {
+        "chi" "尝试设置电话连接"
+    }
+
+    "*** GIVE ME SOME SECONDS TO FIND THE CORRECT KEY ***"
+    {
+        "chi" "给我几秒钟来找到钥匙"
+    }
+
+    "*** TELEPHONE DIALING... ***"
+    {
+        "chi" "拨号中"
+    }
+
+    "*** ... CONNECTION ESTABLISHED! ***"
+    {
+        "chi" "建立连接!"
+    }
+
+    "*** LOOK UP ***"
+    {
+        "chi" "查找"
+    }
+
+    "*** AND DODGE THE MATRIX CODE ***"
+    {
+        "chi" "闪避矩阵码"
+    }
+
+    "*** ELEVATOR LEAVES IN 15 SECONDS ***"
+    {
+        "chi" "电梯15秒后离开"
+    }
+
+    "*** ZOMBIE TELEPORT IN 10 SECONDS ***"
+    {
+        "chi" "僵尸传送:10秒"
+    }
+
+    "*** ELEVATOR ARRIVES IN 40 SECONDS ***"
+    {
+        "chi" "电梯40秒后到达"
+    }
+
+    "*** DOOR OPENS IN 20 SECONDS ***"
+    {
+        "chi" "门在20秒内打开"
+    }
+
+    "*** LASER WALL DEACTIVATES IN 50 SECONDS ***"
+    {
+        "chi" "激光墙在50秒后关闭"
+    }
+
+    "*** [B]RIDGE DEACTIVATING IN 10 SECONDS ***"
+    {
+        "chi" "[B]山脊在10秒内停用"
+    }
+
+    "*** [B]RIDGE ACTIVATING IN 5 SECONDS ***"
+    {
+        "chi" "[B]脊线在5秒内激活"
+    }
+
+    "*** LASERS TURNING OFF IN 20 SECONDS ***"
+    {
+        "chi" "激光在20秒内关闭"
+    }
+
+    "*** HUMAN ITEM SPAWNED! ***"
+    {
+        "chi" "人类物品刷新!"
+    }
+
+    "*** [B]OATS START IN 5 SECONDS ***"
+    {
+        "chi" "[B]燕麦5秒后开始"
+    }
+
+    "*** MONEY ITEM PICKED UP ***"
+    {
+        "chi" "钱项目拾起"
+    }
+
+    "*** JIHAD ITEM PICKED UP ***"
+    {
+        "chi" "一名玩家捡起了圣战"
+    }
+
+    "*** DODGE THE LASERS ***"
+    {
+        "chi" "避开激光"
+    }
+
+    "*** OR GO TO JAIL! ***"
+    {
+        "chi" "否则就坐牢"
+    }
+
+    "*** SECURITY SYSTEM SHUTTING DOWN... ***"
+    {
+        "chi" "安全系统正在关闭"
+    }
+
+    "*** DOOR OPENS IN 30 SECONDS ***"
+    {
+        "chi" "门在30秒内打开"
+    }
+
+    "*** ZOMBIES TELEPORT IN 10 SECONDS ***"
+    {
+        "chi" "僵尸传送:10"
+    }
+
+    "*** WE DON'T HAVE THE RIGHT EQUIPMENT TO OPEN THE SAFE ***"
+    {
+        "chi" "我们没有合适的设备打开保险箱"
+    }
+
+    "*** TIME FOR PLAN [B] ***"
+    {
+        "chi" "计划时间[B]"
+    }
+
+    "*** PLANT THE [B]OMB! ***"
+    {
+        "chi" "安装OMB"
+    }
+
+    "***DOOR BREAKS IN 15 SECONDS***"
+    {
+        "chi" "门在15秒内就坏了"
+    }
+
+    "*** CRACKING THE CODE OF THE DOOR... ***"
+    {
+        "chi" "破解门的密码"
+    }
+
+}
