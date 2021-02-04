@@ -1,7 +1,7 @@
 ### 風雲社
 [![Build Status](https://travis-ci.com/fys-csgo/servers-config.svg?branch=master)](https://travis-ci.com/fys-csgo/servers-config)
 ##### 服务器配置仓库  
-Copyright © 2019-2020 FyS. ALL RIGHTS RESERVED.  
+Copyright © 2019-2021 FyS. ALL RIGHTS RESERVED.  
 <br />
 <br />
 <br />
