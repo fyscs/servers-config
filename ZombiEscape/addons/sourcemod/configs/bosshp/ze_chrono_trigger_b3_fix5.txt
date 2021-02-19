@@ -1,0 +1,21 @@
+"BossHP"
+{
+    "breakable"
+    {
+        "0"
+        {
+            "targetname" "l1_boss_hp"
+            "displayname" "防卫系统"
+        }
+        "1"
+        {
+            "targetname" "l2_boss_hp"
+            "displayname" "道尔顿爵士"
+        }
+        "2"
+        {
+            "targetname" "l2_final_dalton_hp"
+            "displayname" "道尔顿"
+        }
+    }
+}
