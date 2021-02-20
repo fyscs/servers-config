@@ -1,21 +1,36 @@
 "BossHP"
 {
-    "breakable"
+    "monster"
     {
         "0"
         {
-            "targetname" "l1_boss_hp"
-            "displayname" "防卫系统"
+            "hammerid"  "15610"
+            "displayname"  "防卫系统"
         }
         "1"
         {
-            "targetname" "l2_boss_hp"
-            "displayname" "道尔顿爵士"
+            "hammerid"  "15576"
+            "displayname"  "防卫系统1"
         }
         "2"
         {
-            "targetname" "l2_final_dalton_hp"
-            "displayname" "道尔顿"
+            "hammerid"  "145251"
+            "displayname"  "道尔顿"
+        }
+        "3"
+        {
+            "hammerid"  "136431"
+            "displayname"  "道尔顿1"
+        }
+        "4"
+        {
+            "hammerid"  "155472"
+            "displayname"  "道尔顿爵士"
+        }
+        "5"
+        {
+            "hammerid"  "155498"
+            "displayname"  "道尔顿爵士1"
         }
     }
 }
