@@ -8,11 +8,13 @@
 
     "*** AFK TELEPORT IN 5 SECONDS ***"
     {
+        "blocked" "1"
         "chi" "**5秒后挂机传送**"
     }
 
     "*** AFK TELEPORT IN 10 SECONDS ***"
     {
+        "blocked" "1"
         "chi" "**10秒后挂机传送**"
     }
 
@@ -118,6 +120,7 @@
 
     "*** AFK TELEPORT IN 15 SECONDS ***"
     {
+        "blocked" "1"
         "chi" "**15秒后挂机传送**"
     }
 
@@ -323,6 +326,7 @@
 
     "*** AFK TELE IN 5 SECONDS ***"
     {
+        "blocked" "1"
         "chi" "**5秒后挂机传送**"
     }
 
@@ -378,6 +382,7 @@
 
     "*** AFK TELEPORT IN 20 SECONDS ***"
     {
+        "blocked" "1"
         "chi" "**20秒后挂机传送**"
     }
 
