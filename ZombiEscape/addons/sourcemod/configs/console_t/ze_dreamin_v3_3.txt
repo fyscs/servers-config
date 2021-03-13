@@ -294,6 +294,30 @@
 	}
 	"***Go Back to teleport place***"
 	{
-		"chi"		""
+		"chi"		"回到传送区域"
+	}
+	"***CURRENT LEVEL - 1 -***"
+	{
+		"chi"		"**当前关卡 - 第一关**"
+	}
+	"***Thanks to Shizuru[idea]  uuz[model]***"
+	{
+		"chi"		"**灵感来源于:Shizuru  模型提供:uuz**"
+	}
+	"***CURRENT LEVEL - 2 -***"
+	{
+		"chi"		"**当前关卡 - 第二关**"
+	}
+	"***Last elevator come down in 30 seconds***"
+	{
+		"chi"		"**最后的电梯30秒后下降**"
+	}
+	"***Last elevator goes up in 7 seconds***"
+	{
+		"chi"		"**最后的电梯7秒后上升**"
+	}
+	"***CURRENT LEVEL - 3 -***"
+	{
+		"chi"		"**当前关卡 - 第三关**"
 	}
 }
