@@ -7,17 +7,17 @@
 
     "C4 Activated"
     {
-        "chi" "** **"
+        "chi" "C4 已启用"
     }
 
     "*** Maze wall will break in 45 seconds ***"
     {
-        "chi" "** **"
+        "chi" "迷宫的墙将会在45秒钟后消失"
     }
 
     "*** Centre of maze has been reached ***"
     {
-        "chi" "** **"
+        "chi" "有人已经抵达了迷宫正中心!"
     }
 
 }
