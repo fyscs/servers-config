@@ -1,0 +1,168 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    ">Giving weapons in 5 seconds<"
+    {
+        "chi" "** **"
+    }
+
+    ">A player has won<"
+    {
+        "chi" "** **"
+    }
+
+    ">>PISTOLS<<"
+    {
+        "chi" "** **"
+    }
+
+    ">Choose your weapon<"
+    {
+        "chi" "** **"
+    }
+
+    ">>BHOP<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>KNIFE<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>Gates Will Open in 5 Seconds<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>3<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>2<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>1<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>BATTLE<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>JUMP ROPE<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>Survive as long as you can<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>START<<"
+    {
+        "chi" "** **"
+    }
+
+    ">1<"
+    {
+        "chi" "** **"
+    }
+
+    ">2<"
+    {
+        "chi" "** **"
+    }
+
+    ">3<"
+    {
+        "chi" "** **"
+    }
+
+    ">Wall will break in 5 seconds<"
+    {
+        "chi" "** **"
+    }
+
+    ">>DECOY BATTLE<<"
+    {
+        "chi" "** **"
+    }
+
+    ">Giving Knives in 5 seconds<"
+    {
+        "chi" "** **"
+    }
+
+    ">Giving Knives in 10 seconds<"
+    {
+        "chi" "** **"
+    }
+
+    ">Dodge the falling blocks<"
+    {
+        "chi" "** **"
+    }
+
+    ">>BLOCK DROP<<"
+    {
+        "chi" "** **"
+    }
+
+    ">Buy weapons and eliminate the enemy team<"
+    {
+        "chi" "** **"
+    }
+
+    ">>BUY ZONE<<"
+    {
+        "chi" "** **"
+    }
+
+    ">Jump on the blue or orange platforms to win<"
+    {
+        "chi" "** **"
+    }
+
+    ">>OBSTACLE RACE<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>Eliminate The Enemy Team<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>AWP<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>SKATE<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>MG_GRUBER_MULTIGAMES<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>Created by bdgruber<<"
+    {
+        "chi" "** **"
+    }
+
+}

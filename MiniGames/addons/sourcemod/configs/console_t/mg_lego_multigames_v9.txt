@@ -1,0 +1,188 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "@[Map] TimeLimit"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] every man for himself"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Random mod..."
+    {
+        "chi" "** **"
+    }
+
+    "@[Mod] BackStab mod"
+    {
+        "chi" "** **"
+    }
+
+    "@[Mod] Knife 1HP"
+    {
+        "chi" "** **"
+    }
+
+    "@[Mod] Knife 65HP"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Secret room Enable"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Secret room Disable"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] >Go!<"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] >1<"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] >2<"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] >3<"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] >4<"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] >5<"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 30 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 25 Second"
+    {
+        "chi" "** **"
+    }
+
+    "@[Gravity] Low gravity"
+    {
+        "chi" "** **"
+    }
+
+    "@[Gravity] Normal gravity"
+    {
+        "chi" "** **"
+    }
+
+    "@[Gravity] High gravity"
+    {
+        "chi" "** **"
+    }
+
+    "@[Gravity] Random gravity"
+    {
+        "chi" "** **"
+    }
+
+    "@[Weapon] Awp"
+    {
+        "chi" "** **"
+    }
+
+    "@[Hp] 200"
+    {
+        "chi" "** **"
+    }
+
+    "@[Weapon] Deagle"
+    {
+        "chi" "** **"
+    }
+
+    "@[Hp] 150"
+    {
+        "chi" "** **"
+    }
+
+    "@[Weapon] Knife"
+    {
+        "chi" "** **"
+    }
+
+    "@[Hp] 250"
+    {
+        "chi" "** **"
+    }
+
+    "@[Weapon] AK-47"
+    {
+        "chi" "** **"
+    }
+
+    "@[Hp] 500"
+    {
+        "chi" "** **"
+    }
+
+    "@[Weapon] M4A1"
+    {
+        "chi" "** **"
+    }
+
+    "@[Hp] 300"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Time limit"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] CT Win"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] T Win"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] RandomGame..."
+    {
+        "chi" "** **"
+    }
+
+    "@ TimeLimit!"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 30 seconds slay"
+    {
+        "chi" "** **"
+    }
+
+}

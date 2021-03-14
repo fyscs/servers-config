@@ -1,0 +1,483 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "[THC LEGO] 15 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] SMOKE BATTLE"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] CTs WIN"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Ts ARE ON LEVEL 2"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Ts ARE ON LEVEL 3"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] TERRORISTS WIN"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] CTs ARE ON LEVEL 3"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] CTs ARE ON LEVEL 2"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] WAR"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] CHOOSE WEAPON"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Map by bubblx"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Map ported by Blogger(Dog)"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] ELEVATOR"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] 1 HP"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] 35 HP"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] 100 HP"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] 400 HP"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] FALLING BOXES"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] CHAIR KNIFING"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] SKIPPING ROPE"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] COURSE"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] CLIMB"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] MUSICAL DOORS"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] SLIDE RACE"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] M3"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] CHOOSE MAP"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] MAP CHOSEN"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] TELEPORTING NOW"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] AWP"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] M4A1"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] AK 47"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] SCOUT"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] M249"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] BUY AND BOMB"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] DEAGLE"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] SOCCER"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] CT's get Weapons."
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] GOAL"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] T's get Weapons."
+    {
+        "chi" "** **"
+    }
+
+    "[Music] Illenium - Sleepwalker (feat. Joni Fatora) (Virtu Remix)"
+    {
+        "chi" "** **"
+    }
+
+    "[Music] Calvin Harris ft.Rihanna "
+    {
+        "chi" "** **"
+    }
+
+    "[Music] -Drum&Bass-Mediks - Come Back Down"
+    {
+        "chi" "** **"
+    }
+
+    "[Music] Alan Walker - Sing Me to Sleep "
+    {
+        "chi" "** **"
+    }
+
+    "[Music] Misun - Eli Eli (Maduk Remix)"
+    {
+        "chi" "** **"
+    }
+
+    "[Music] Galantis - Runaway (U & I)"
+    {
+        "chi" "** **"
+    }
+
+    "[Music] Krewella - Alive (Pegboard Nerds Remix)"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Winners Get 10 Points"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Refire Time - 3 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Refire Time - 2 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Refire Time -  1 second"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Refire Time -  0.5 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Random Timer Disabled"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Random Timer Enabled"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Refire Time -  0.3 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] WATER CLIMB"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] SKATE"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] AFK TIMER in 30 sec"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] AFK TIMER activated"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] RANDOM GAME WILL BE CHOSEN"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] AFK TIMER in 10 sec"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Choose A Box - 10 sec Time"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] How To Play?"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Ready?"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] GO!!!"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Btw -> Game By Kinsi"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] Push Or Don't Push"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] You Have To Read Above The Buttons"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] LAST REACTION"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] DODGE WALLS"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] TIME LIMIT"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] 60 SECONDS REMAINING"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] 2 MINUTES REMAINING"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] 3 MINUTES REMAINING"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] ReactionGame Is Disabled"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] LOW GRAVITY is disabled"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] LOW GRAVITY IS ON"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] SOME LEVELS ARE DISABLED"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] CHOOSE SPEED"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] KNIFE MOD - ALL VS ALL"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] CHOOSE HP"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] KNIFE MOD - RING"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] NORMAL SPEED"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] DOUBLE SPEED"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] BHOP - EASY"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] BHOP - HARD"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] WAR is disabled"
+    {
+        "chi" "** **"
+    }
+
+    ">Go!<"
+    {
+        "chi" "** **"
+    }
+
+    ">1<"
+    {
+        "chi" "** **"
+    }
+
+    ">2<"
+    {
+        "chi" "** **"
+    }
+
+    ">3<"
+    {
+        "chi" "** **"
+    }
+
+    ">4<"
+    {
+        "chi" "** **"
+    }
+
+    ">5<"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] KNIFE AFK TIMER"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] LOW GRAV AFK TIMER"
+    {
+        "chi" "** **"
+    }
+
+    "[THC LEGO] WAR AFK TIMER"
+    {
+        "chi" "** **"
+    }
+
+}

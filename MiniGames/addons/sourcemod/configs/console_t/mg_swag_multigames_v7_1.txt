@@ -1,0 +1,333 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "@[MAP] Knife Damage Enabled"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Knife Damage Enabled In 10 Seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] 1HP FOOTBALL"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Type mat_colorcorrection 1 in console"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] WALLHACKS"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Avicii ft. Robbie Williams - The Days"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Cazzette feat. The High - Sleepless"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Ed Sheeran - I See Fire (Kygo Remix)"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Kid Cudi - Pursuit Of Happiness ft. MGMT"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Kool & The Gang - Get Down On It"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Ellie Goulding - Goodness Gracious"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] MGMT - Electric Feel (DallasK Remix)"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Taylor Swift - Shake It Off"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Watsky- Never Let it Die"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] KNIFE"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] SLIDE"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Conveyers disabled"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] AIRDROP"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] CORRIDOR"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] SHOOTING RANGE"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] HEADSHOT PISTOL"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] AFK KILLER IMMINENT"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] SKEET"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] SURVIVAL"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] VIP"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] You can now go up the middle!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] GOAL!!!!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] TERRORISTS WIN!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] COUNTER TERRORISTS WIN!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] The sniping team can now leave the awping area!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Teleport triggers DISABLED!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Ceiling breaking in 5 seconds!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Game starting in 10 seconds.."
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Game starting in 5 seconds.."
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] CYAN - 10 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] RED - 5 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] ORANGE - 5 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] WHITE - 5 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] GREEN - 5 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] BLUE - 7 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] PINK - 13 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] PURPLE - 13 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] BROWN - 11 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] YELLOW - 8 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Map ending...."
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] ONE TERRORIST VIP REMAINING!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Both TERRORIST VIP's have been killed!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] ONE COUNTER-TERRORIST VIP REMAINING!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Both COUNTER-TERRORIST VIP's have been killed!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] [Objective] - Eliminate both of the enemies VIPs!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] PORTAL SLIDE"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] FALL DAMAGE is DISABLED"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Shotguns enabled in 5 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Weapons supply in 5 seconds..."
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] BombSite Unlocked"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] EXPLOSIVE BALLS"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] 50HP KNIFE"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] SMOKEWARS"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] TUNNEL VISION"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] START!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] You may now cross-over"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] KILLER BALLS"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] 3...."
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] 2...."
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] 1...."
+    {
+        "chi" "** **"
+    }
+
+}

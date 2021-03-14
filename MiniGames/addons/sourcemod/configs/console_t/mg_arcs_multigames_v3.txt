@@ -1,0 +1,133 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "Locked against repetition."
+    {
+        "chi" "** **"
+    }
+
+    "Headshot mode enabled."
+    {
+        "chi" "** **"
+    }
+
+    "Map by Arcaninesy"
+    {
+        "chi" "** **"
+    }
+
+    "30 seconds remaining."
+    {
+        "chi" "** **"
+    }
+
+    "You have one minute."
+    {
+        "chi" "** **"
+    }
+
+    "Three"
+    {
+        "chi" "** **"
+    }
+
+    "Two"
+    {
+        "chi" "** **"
+    }
+
+    "One"
+    {
+        "chi" "** **"
+    }
+
+    "Good luck!"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] AFK KILLER"
+    {
+        "chi" "** **"
+    }
+
+    "Boxes disappear in 30 seconds."
+    {
+        "chi" "** **"
+    }
+
+    "Boxes disappear in 1 second."
+    {
+        "chi" "** **"
+    }
+
+    "Boxes disappear in 2 seconds."
+    {
+        "chi" "** **"
+    }
+
+    "Boxes disappear in 3 seconds."
+    {
+        "chi" "** **"
+    }
+
+    "Boxes disappear in 10 seconds."
+    {
+        "chi" "** **"
+    }
+
+    "Cover disappears in 30 seconds."
+    {
+        "chi" "** **"
+    }
+
+    "Cover disappears in 10 seconds."
+    {
+        "chi" "** **"
+    }
+
+    "Cover disappears in 3 seconds."
+    {
+        "chi" "** **"
+    }
+
+    "Cover disappears in 2 seconds."
+    {
+        "chi" "** **"
+    }
+
+    "Cover disappears in 1 second."
+    {
+        "chi" "** **"
+    }
+
+    "Cannons disabled."
+    {
+        "chi" "** **"
+    }
+
+    "Cannons disabled in ten seconds."
+    {
+        "chi" "** **"
+    }
+
+    "Random!"
+    {
+        "chi" "** **"
+    }
+
+    "No remaining players to teleport. Dividing walls have been broken."
+    {
+        "chi" "** **"
+    }
+
+    "Headshot/backstab mode enabled."
+    {
+        "chi" "** **"
+    }
+
+}

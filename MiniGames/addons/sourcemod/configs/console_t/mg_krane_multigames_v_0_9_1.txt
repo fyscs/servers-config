@@ -1,0 +1,18 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "One of the Counter-Terrorists used a secret! They can jump over the walls!"
+    {
+        "chi" "** **"
+    }
+
+    "One of the Terrorists used a secret! They can jump over the walls!"
+    {
+        "chi" "** **"
+    }
+
+}

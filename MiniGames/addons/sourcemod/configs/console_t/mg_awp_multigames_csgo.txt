@@ -1,0 +1,88 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "[Map created by: Ome Joey and DmgVol]"
+    {
+        "chi" "** **"
+    }
+
+    "[Chosen map: India]"
+    {
+        "chi" "** **"
+    }
+
+    "[Chosen map: Rooftops]"
+    {
+        "chi" "** **"
+    }
+
+    "[Chosen map: Head2Head]"
+    {
+        "chi" "** **"
+    }
+
+    "[Chosen map: Underground]"
+    {
+        "chi" "** **"
+    }
+
+    "[Chosen map: Aim_Dust]"
+    {
+        "chi" "** **"
+    }
+
+    "[Chosen map: CastleWar]"
+    {
+        "chi" "** **"
+    }
+
+    "[Chosen map: awp_map]"
+    {
+        "chi" "** **"
+    }
+
+    "[Chosen map: Orange]"
+    {
+        "chi" "** **"
+    }
+
+    "[Chosen map: Scrap Yard]"
+    {
+        "chi" "** **"
+    }
+
+    "[Chosen map: Office]"
+    {
+        "chi" "** **"
+    }
+
+    "[Chosen map: Minecraft]"
+    {
+        "chi" "** **"
+    }
+
+    "[RandomChoice!]"
+    {
+        "chi" "** **"
+    }
+
+    "[ERROR!]"
+    {
+        "chi" "** **"
+    }
+
+    "[System Malfunction!]"
+    {
+        "chi" "** **"
+    }
+
+    "[60 Seconds up! Random map will be picked]"
+    {
+        "chi" "** **"
+    }
+
+}

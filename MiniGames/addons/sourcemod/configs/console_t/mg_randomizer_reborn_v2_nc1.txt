@@ -1,0 +1,143 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "@[MAP] COUNTER-TERRORIST'S WIN!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] TERRORIST'S WIN!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Calvin Harris - Outside ft. Ellie Goulding"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] David Guetta feat. Sam Martin - Dangerous"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Dropout ft. Ryan Ellis - More"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Earth, Wind & Fire - September"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Ed Sheeran - Don't"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Maroon 5 - Animals (Gryffin Remix)"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Olly Murs - Wrapped Up ft. Travie McCoy"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Vicetone - United We Dance"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Watsky-The One - All You Can Do"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] TERRORISTS WIN!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] COUINTER-TERRORISTS WIN!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Jousting starting in 5 seconds..."
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Push triggers disabled!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] DONT HIT THE CORNERS! You will take damage!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Knifes enabled in 10 seconds..."
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Knifes enabled!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Knifes enabled in 5 seconds..."
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Floor breaking in 10 seconds!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Guns in 10 seconds!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Guns in 5 seconds!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Finish them off!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Guys on top have 75 seconds to kill the opposing team!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Burn the blocks to win!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Wall breaking in 10 seconds!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Healing trigger disabled!"
+    {
+        "chi" "** **"
+    }
+
+}

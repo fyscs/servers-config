@@ -1,0 +1,308 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "@[Map] CT WIN"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] T WIN"
+    {
+        "chi" "** **"
+    }
+
+    "@[Time] TimeLimit"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Holes"
+    {
+        "chi" "** **"
+    }
+
+    "@[Music] Arman Cekin - Hold On Ft. BR-VE "
+    {
+        "chi" "** **"
+    }
+
+    "@[Music] Calvin Harris ft. Ellie Goulding - Outside (Anevo Remix)"
+    {
+        "chi" "** **"
+    }
+
+    "@[Music] Dope Arcade - Ascension (MitiS Remix)"
+    {
+        "chi" "** **"
+    }
+
+    "@[Music] Sander van Doorn, Martin Garrix, DVBBS ft. Aleesia - Gold Skies (Justin Caruso Remix)"
+    {
+        "chi" "** **"
+    }
+
+    "@[Music] Imagine Dragons - On Top of the World - Lyrics"
+    {
+        "chi" "** **"
+    }
+
+    "@[Music] Krewella - Come And Get It (Razihel Remix) "
+    {
+        "chi" "** **"
+    }
+
+    "@[Music] Matisyahu - Live Like A Warrior (Richello Remix)"
+    {
+        "chi" "** **"
+    }
+
+    "@[Mod] Normal nod"
+    {
+        "chi" "** **"
+    }
+
+    "@[Mod] BackStab mod"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Aim"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] TimeLimit"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Winners Get 10 Points"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Refire Time - 3 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Refire Time - 2 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Refire Time -  1 second"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Refire Time -  0.5 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Random Timer Disabled"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Random Timer Enabled"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Refire Time -  0.3 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Falling Boxes"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 30 Seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 3 MINUTES REMAINING"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 2 MINUTES REMAINING"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 1 MINUTES REMAINING"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Climb"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Randomly selection"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Grenades"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Arena fight"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Random Weapon"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Weapon Awp"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Weapon Deagle"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Weapon Scout"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Weapon AK-47"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] GOAL!!!!"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] T give weapons"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] CT give weapons"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Football"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map]  AFK TIMER in 30 sec"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] AFK TIMER activated"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] RANDOM GAME WILL BE CHOSEN"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] AFK TIMER in 10 sec"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Skate"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Pistols"
+    {
+        "chi" "** **"
+    }
+
+    "@[Mod] Headshot mod"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] BhopBattle"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Surf Battle"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Player selected"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 60 seconds before the battle"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 5"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 1"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 2"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 3"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 4"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Battle"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] AFK KILLER"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] Map by Blogger(Dog)"
+    {
+        "chi" "** **"
+    }
+
+}
