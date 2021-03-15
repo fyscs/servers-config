@@ -282,7 +282,7 @@
 
     "@[Map] Weapon Nova"
     {
-        "chi" ">武器 新星<
+        "chi" ">武器 新星<"
     }
 
     "@[Map] Weapon P90"
@@ -302,7 +302,7 @@
 
     "@[Map] Sky Knife"
     {
-        "chi" ">空中刀战<"
+        "chi" ">>空中刀战<<"
     }
 
     "@[Map] Level made by DexKekcuk #13"
@@ -317,12 +317,12 @@
 
     "@[Security] Step away from the box, you do not have the right to take the gun "
     {
-        "chi" ">离箱子远一点 你还没有拿枪的许可<"
+        "chi" ">[猪人安保]:离箱子远一点 那把枪不不属于你<"
     }
 
     "@[Security] Stand back or be killed "
     {
-        "chi" ">[猪人安保]:靠边稍稍 不然我要揍你你了<"
+        "chi" ">[猪人安保]:往后靠 别逼我揍你<"
     }
 
 }
