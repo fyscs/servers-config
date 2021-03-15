@@ -7,157 +7,162 @@
 
     ">Giving weapons in 5 seconds<"
     {
-        "chi" ">5秒钟后发放武器<"
+        "chi" "5秒钟后发放武器"
     }
 
     ">A player has won<"
     {
-        "chi" ">一名玩家已经获胜<"
+        "chi" "一名玩家已经获胜"
     }
 
     ">>PISTOLS<<"
     {
-        "chi" ">>手枪<<"
+        "chi" "手枪"
     }
 
     ">Choose your weapon<"
     {
-        "chi" ">选择你的武器<"
+        "chi" "选择你的武器"
     }
 
     ">>BHOP<<"
     {
-        "chi" ">>连跳<<"
+        "chi" "连跳"
     }
 
     ">>KNIFE<<"
     {
-        "chi" ">>刀战<<"
+        "chi" "刀战"
     }
 
     ">>Gates Will Open in 5 Seconds<<"
     {
-        "chi" ">>大门将在5秒钟后打开<<"
+        "chi" "大门将在5秒钟后打开"
     }
 
     ">>3<<"
     {
-        "chi" ">>3<<"
+        "chi" "3"
     }
 
     ">>2<<"
     {
+        "blocked" "1"
         "chi" ">>2<<"
     }
 
     ">>1<<"
     {
+        "blocked" "1"
         "chi" ">>1<<"
     }
 
     ">>BATTLE<<"
     {
-        "chi" ">>开战<<"
+        "chi" "开战"
     }
 
     ">>JUMP ROPE<<"
     {
-        "chi" ">>跳绳<<"
+        "chi" "跳绳"
     }
 
     ">>Survive as long as you can<<"
     {
-        "chi" ">>能撑多久撑多久<<"
+        "chi" "能撑多久撑多久"
     }
 
     ">>START<<"
     {
-        "chi" ">>开始<<"
+        "chi" "开始"
     }
 
     ">1<"
     {
+        "blocked" "1"
         "chi" ">1<"
     }
 
     ">2<"
     {
+        "blocked" "1"
         "chi" ">2<"
     }
 
     ">3<"
     {
-        "chi" ">3<"
+        "chi" "3"
     }
 
     ">Wall will break in 5 seconds<"
     {
-        "chi" ">墙将会在5秒钟后碎裂<"
+        "chi" "墙将会在5秒钟后碎裂"
     }
 
     ">>DECOY BATTLE<<"
     {
-        "chi" ">>诱饵弹大战<<"
+        "chi" "诱饵弹大战"
     }
 
     ">Giving Knives in 5 seconds<"
     {
-        "chi" ">5秒钟后发放匕首<"
+        "blocked" "1"
+        "chi" "5秒钟后发放匕首"
     }
 
     ">Giving Knives in 10 seconds<"
     {
-        "chi" ">10秒钟后发放匕首<"
+        "chi" "10秒钟后发放匕首"
     }
 
     ">Dodge the falling blocks<"
     {
-        "chi" ">躲开从天而降的方块<"
+        "chi" "躲开从天而降的方块"
     }
 
     ">>BLOCK DROP<<"
     {
-        "chi" ">>方块从天而降<<"
+        "chi" "方块从天而降"
     }
 
     ">Buy weapons and eliminate the enemy team<"
     {
-        "chi" ">按B购买武器然后歼灭敌方<"
+        "chi" "按B购买武器然后歼灭敌方"
     }
 
     ">>BUY ZONE<<"
     {
-        "chi" ">>混战<<"
+        "chi" "混战"
     }
 
     ">Jump on the blue or orange platforms to win<"
     {
-        "chi" ">踩掉最多蓝色或者橙色方块的队伍获胜<"
+        "chi" "踩掉最多蓝色或者橙色方块的队伍获胜"
     }
 
     ">>OBSTACLE RACE<<"
     {
-        "chi" ">>障碍赛<<"
+        "chi" "障碍赛"
     }
 
     ">>Eliminate The Enemy Team<<"
     {
-        "chi" ">>歼灭敌队<<"
+        "chi" "歼灭敌队"
     }
 
     ">>AWP<<"
     {
-        "chi" ">>AWP<<"
+        "chi" "AWP"
     }
 
     ">>SKATE<<"
     {
-        "chi" ">>滑冰<<"
+        "chi" "滑冰"
     }
 
     ">>MG_GRUBER_MULTIGAMES<<"
     {
-        "chi" ">>MG_GRUBER_MULTIGAMES<<"
+        "chi" "MG_GRUBER_MULTIGAMES"
     }
 
     ">>Created by bdgruber<<"

@@ -7,7 +7,7 @@
 
     "@[MAP] This map does not work with bots..."
     {
-        "blocked" "** **"
+        "blocked" "1"
     }
 
     "@[MAP] Map by [SG] Paul"
@@ -17,37 +17,38 @@
 
     "@[MAP] Steam name = sgpaul"
     {
+        "blocked" "1"
         "chi" "作者Steam名: sgpaul"
     }
 
     "@[MAP] twitch.tv/summit1g"
     {
-        "blocked" "** **"
+        "blocked" "1"
     }
 
     "@[MAP] twitch.tv/onscreenlol"
     {
-        "blocked" "** **"
+        "blocked" "1"
     }
 
     "@[MAP] VAC Island ft. easy skins"
     {
-        "blocked" "** **"
+        "blocked" "1"
     }
 
     "@[MAP] twitch.tv/b0aty"
     {
-        "blocked" "** **"
+        "blocked" "1"
     }
 
     "@[MAP] twitch.tv/lirik"
     {
-        "blocked" "** **"
+        "blocked" "1"
     }
 
     "@[MAP] twitch.tv/joshog"
     {
-        "blocked" "** **"
+        "blocked" "1"
     }
 
 }

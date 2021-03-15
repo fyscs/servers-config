@@ -7,7 +7,7 @@
 
     "*JUMP*"
     {
-        "chi" ">>跳绳<<"
+        "chi" "跳绳"
     }
 
     "*3*"
@@ -17,11 +17,13 @@
 
     "*2*"
     {
+        "blocked" "1"
         "chi" "2"
     }
 
     "*1*"
     {
+        "blocked" "1"
         "chi" "1"
     }
 
@@ -32,67 +34,69 @@
 
     "***2***"
     {
+        "blocked" "1"
         "chi" "2"
     }
 
     "***1***"
     {
+        "blocked" "1"
         "chi" "1"
     }
 
     "***GO***"
     {
-        "chi" ">开始!<"
+        "chi" "开始!"
     }
 
     "*GO*"
     {
-        "chi" ">开始!<"
+        "chi" "开始!"
     }
 
     "*AWP*"
     {
-        "chi" ">>AWP<<"
+        "chi" "AWP"
     }
 
     "*AIR*"
     {
-        "chi" ">>蹦床<<"
+        "chi" "蹦床"
     }
 
     "*Ring*"
     {
-        "chi" ">>刀战(擂台赛)<<"
+        "chi" "刀战(擂台赛)"
     }
 
     "*SmokeWar*"
     {
-        "chi" ">>烟雾弹大战<<"
+        "chi" "烟雾弹大战"
     }
 
     "*Race*"
     {
-        "chi" ">>竞速<<"
+        "chi" "竞速"
     }
 
     "*Slide*"
     {
-        "chi" ">>滑道<<"
+        "chi" "滑道"
     }
 
     "*Jump*"
     {
-        "chi" ">>跳绳<<"
+        "chi" "跳绳"
     }
 
     "*Climbe*"
     {
-        "chi" ">>攀登<<"
+        "chi" "攀登"
     }
 
     "*Bhop*"
     {
-        "chi" ">>连跳<<"
+        "chi" "连跳"
     }
 
     "*HD Dubstep - Earthquake (Fytch Remix)*"

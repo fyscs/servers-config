@@ -22,11 +22,13 @@
 
     "***2***"
     {
+        "blocked" "1"
         "chi" "2"
     }
 
     "***1***"
     {
+        "blocked" "1"
         "chi" "1"
     }
 
@@ -57,22 +59,22 @@
 
     ">>>Whitelist the commands below:<<<"
     {
-        "blocked" "** **"
+        "blocked" "1"
     }
 
     ">>sm_cvar, sm_say<<"
     {
-        "blocked" "** **"
+        "blocked" "1"
     }
 
     ">>Map requires (balanced values if you don't want to whitelist it):<<<"
     {
-        "blocked" "** **"
+        "blocked" "1"
     }
 
     ">>>cs_enable_player_physics_box 1 & phys_pushscale 900 & phys_timescale 0.75<<<"
     {
-        "blocked" "** **"
+        "blocked" "1"
     }
 
     "Walls Will Break In 5 Seconds."
@@ -87,11 +89,13 @@
 
     "2"
     {
+        "blocked" "1"
         "chi" "2"
     }
 
     "1"
     {
+        "blocked" "1"
         "chi" "1"
     }
 

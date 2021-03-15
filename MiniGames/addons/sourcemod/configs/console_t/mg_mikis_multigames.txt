@@ -7,157 +7,158 @@
 
     "@Looks like we needed more balls"
     {
-        "chi" ">看起来我们需要更多的球<"
+        "chi" "看起来我们需要更多的球"
     }
 
     "@[MAP] Disabled football due low phys_pushscale value"
     {
-        "blocked" "** **"
+        "blocked" "1"
     }
 
     "@Knife damage enabled"
     {
-        "chi" ">刀伤已开启<"
+        "chi" "刀伤已开启"
     }
 
     "@[MiniGame] Football 50HP"
     {
-        "chi" ">>50血足球<<"
+        "chi" "50HP足球"
     }
 
     "@[MiniGame] Football 100HP"
     {
-        "chi" ">>100血足球<<"
+        "chi" "100HP足球"
     }
 
     "@Fall damage disabled"
     {
-        "chi" ">跌落伤害已关闭<"
+        "chi" "跌落伤害已关闭"
     }
 
     "@[MiniGame] Scouts"
     {
-        "chi" ">>鸟狙<<"
+        "chi" "鸟狙"
     }
 
     "@Boosters disabled, middle ones still work"
     {
-        "chi" ">加速板已失效 但是中间的仍在运作<"
+        "chi" "加速板已失效 但是中间的仍在运作"
     }
 
     "@[MiniGame] Knife"
     {
-        "chi" ">>刀战<<"
+        "chi" "刀战"
     }
 
     "@[MiniGame] Football 1HP"
     {
-        "chi" ">>1血足球<<"
+        "chi" "1HP足球"
     }
 
     "@[MiniGame] Knife 35HP"
     {
-        "chi" ">>35血刀战<<"
+        "chi" "35HP刀战"
     }
 
     "@[MiniGame] Knife 100HP"
     {
-        "chi" ">>100血刀战<"
+        "chi" "100HP刀战"
     }
 
     "@You can now destroy platforms with knife"
     {
-        "chi" ">现在你可以用匕首破坏平台了<"
+        "chi" "现在你可以用匕首破坏平台了"
     }
 
     "@Platforms will become destroyable in 5 seconds"
     {
-        "chi" ">5秒钟后平台可破坏<"
+        "chi" "5秒钟后平台可破坏"
     }
 
     "@[MiniGame] Smash Floor"
     {
-        "chi" ">>砸地板<<"
+        "chi" "砸地板"
     }
 
     "@Incoming one time spam"
     {
+        "blocked" "1"
         "chi" "** **"
     }
 
     "@Ts have scored!"
     {
-        "chi" ">T阵营得分!<"
+        "chi" "T阵营得分!"
     }
 
     "@CTs have scored!"
     {
-        "chi" ">CT阵营得分!<"
+        "chi" "CT阵营得分!"
     }
 
     "@Someone has won, teleporting everybody in 15secs"
     {
-        "chi" ">一名玩家已获胜 15秒钟后传送所有玩家<"
+        "chi" "一名玩家已获胜 15秒钟后传送所有玩家"
     }
 
     "@[MiniGame] Pistols Head Shot only"
     {
-        "chi" ">>手枪(爆头战)<<"
+        "chi" "手枪(爆头战)"
     }
 
     "@Regen disabled!"
     {
-        "chi" ">自动回血关闭<"
+        "chi" "自动回血关闭"
     }
 
     "@Knife it out!"
     {
-        "chi" ">开刀!<"
+        "chi" "拼刺刀了!"
     }
 
     "@[MiniGame] BoomBall"
     {
-        "chi" ">>炸弹球<<"
+        "chi" "炸弹球"
     }
 
     "@Skate disabled!"
     {
-        "chi" ">滑不起来了!<"
+        "chi" "滑不起来了!"
     }
 
     "@[MiniGame] Ice Skate"
     {
-        "chi" ">>滑冰<<"
+        "chi" "滑冰"
     }
 
     "@[MiniGame] Taze war"
     {
-        "chi" ">>电击枪大战<<"
+        "chi" "电击枪大战"
     }
 
     "@Fall damage enabled"
     {
-        "chi" ">跌落伤害已关闭<"
+        "chi" "跌落伤害已关闭"
     }
 
     "@[MiniGame] AWP"
     {
-        "chi" ">>AWP<<"
+        "chi" "AWP"
     }
 
     "@Boosters disabled!"
     {
-        "chi" ">加速板已关闭<"
+        "chi" "加速板已关闭"
     }
 
     "@[MiniGame] War & Buy n' plant"
     {
-        "chi" ">>买枪混战<<"
+        "chi" "买枪混战"
     }
 
     "@[MiniGame] Bhop"
     {
-        "chi" ">>连跳<<"
+        "chi" "连跳"
     }
 
     "@[SONG] Black Tiger Sex Machine - Destroy It (Urban Contact remix)"
@@ -197,22 +198,24 @@
 
     "@Map made by Darnias"
     {
-        "chi" ">地图作者: Darnias 地图汉化: 圣剑@风云社<"
+        "chi" "地图作者: Darnias 地图汉化: 圣剑@风云社"
     }
 
     "@[Timelimit] 1 minute"
     {
-        "chi" ">还剩1分钟<"
+        "blocked" "1"
+        "chi" "还剩1分钟"
     }
 
     "@[Timelimit] 30 seconds"
     {
-        "chi" ">还剩30秒<"
+        "chi" "还剩30秒"
     }
 
     "@[Timelimit] 15 seconds"
     {
-        "chi" ">还剩15秒<"
+        "blocked" "1"
+        "chi" "还剩15秒"
     }
 
 }

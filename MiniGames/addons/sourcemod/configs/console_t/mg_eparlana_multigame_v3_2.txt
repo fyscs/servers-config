@@ -32,11 +32,13 @@
 
     "== 2 =="
     {
+        "blocked" "1"
         "chi" "== 2 =="
     }
 
     "== 1 =="
     {
+        "blocked" "1"
         "chi" "== 1 =="
     }
 
@@ -47,17 +49,17 @@
 
     "@[Map] 3 minutes remaining"
     {
-        "chi" "剩余3分钟"
+        "chi" "剩余180秒"
     }
 
     "@[Map] 2 minutes remaining"
     {
-        "chi" "剩余2分钟"
+        "chi" "剩余120秒"
     }
 
     "@[Map] 1 minute remaining"
     {
-        "chi" "剩余1分钟"
+        "chi" "剩余60秒"
     }
 
     "== T WIN =="

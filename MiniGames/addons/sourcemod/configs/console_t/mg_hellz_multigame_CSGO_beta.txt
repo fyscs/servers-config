@@ -37,27 +37,31 @@
 
     ">1<"
     {
+        "blocked" "1"
         "chi" ">1<"
     }
 
     ">2<"
     {
+        "blocked" "1"
         "chi" ">2<"
     }
 
     ">3<"
     {
+        "blocked" "1"
         "chi" ">3<"
     }
 
     ">4<"
     {
+        "blocked" "1"
         "chi" ">4<"
     }
 
     ">5<"
     {
-        "chi" ">5<"
+        "chi" "5"
     }
 
     "Go !"
@@ -72,7 +76,7 @@
 
     "www.zombie-hell.fr"
     {
-        "blocked" "** **"
+        "blocked" "1"
     }
 
 }

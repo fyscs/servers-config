@@ -7,87 +7,89 @@
 
     "@[Map] Map by Blogger(Dog)"
     {
-        "chi" ">地图作者: Blogger(Dog) 地图汉化: 圣剑@风云社<"
+        "chi" "地图作者: Blogger(Dog) 地图汉化: 圣剑@风云社"
     }
 
     "@[Map] Special thanks to DexKekcuk #13"
     {
-        "chi" ">特别感谢: DexKekcuk #13<"
+        "blocked" "1"
+        "chi" "特别感谢: DexKekcuk #13"
     }
 
     "@[Map] Secret room Disable"
     {
-        "chi" ">彩蛋房已关闭<"
+        "chi" "彩蛋房已关闭"
     }
 
     "@[Map] Secret room Enable"
     {
-        "chi" ">彩蛋房已开启<"
+        "chi" "彩蛋房已开启"
     }
 
     "@[Map] Arena fight"
     {
-        "chi" ">>竞技场<<"
+        "chi" "竞技场"
     }
 
     "@[Map] Random weapon..."
     {
-        "chi" ">随机武器...<"
+        "chi" "随机武器..."
     }
 
     "@[Map] Random game..."
     {
-        "chi" ">>随机小游戏...<<"
+        "chi" "随机小游戏..."
     }
 
     "@[Map] Defends"
     {
-        "chi" ">>保卫战<<"
+        "chi" "保卫战"
     }
 
     "@[Map] Train 1 Break"
     {
-        "chi" ">TNT矿车1已被干碎<"
+        "chi" "TNT矿车①已被干碎"
     }
 
     "@[Map] Train 2 Break"
     {
-        "chi" ">TNT矿车2已被干碎<"
+        "chi" "TNT矿车②已被干碎"
     }
 
     "@[Map] 25000 HP "
     {
-        "chi" ">TNT矿车血量 25000HP<"
+        "blocked" "1"
+        "chi" "TNT矿车血量 25000HP"
     }
 
     "@[Map] People winner"
     {
-        "chi" ">我们赢了!<"
+        "chi" "我们赢了!"
     }
 
     "@[Map] Thank you played on this map"
     {
-        "chi" ">感谢您游玩这张地图<"
+        "chi" "感谢您游玩这张地图"
     }
 
     "@[Map] People Winner"
     {
-        "chi" ">我们赢了!<"
+        "chi" "我们赢了!"
     }
 
     "@[Map] Long Jump"
     {
-        "chi" ">>长跳<<"
+        "chi" "长跳"
     }
 
     "@[Map] Awp"
     {
-        "chi" ">>AWP<<"
+        "chi" "AWP"
     }
 
     "@[Music] Aero Chord - 4U"
     {
-        "chi" "BGM: Aero Chord - 4U"
+        "chi" "BGM: Aero Chord"
     }
 
     "@[Music] minence & Supermans Feinde - Night Goes On (feat. Q'AILA)"
@@ -122,62 +124,68 @@
 
     "@[Time] 3 minute before the knifes"
     {
-        "chi" ">3分钟后发放匕首<"
+        "blocked" "1"
+        "chi" "3分钟后发放匕首"
     }
 
     "@[Time] 2 minute before the knifes"
     {
-        "chi" ">2分钟后发放匕首<"
+        "blocked" "1"
+        "chi" "2分钟后发放匕首"
     }
 
     "@[Time] 1 minute before the knifes"
     {
-        "chi" ">1分钟后发放匕首<"
+        "chi" "60秒后发放匕首"
     }
 
     "@[Time] 10 seconds before the knifes"
     {
-        "chi" ">10秒钟后发放匕首<"
+        "blocked" "1"
+        "chi" "10秒钟后发放匕首"
     }
 
     "@[Map] Survival"
     {
-        "chi" ">>生存<<"
+        "chi" "生存"
     }
 
     "@[Map] Luke open 10 seconds"
     {
-        "chi" "** **"
+        "chi" "10"
     }
 
     "@[Map] Boss Battle"
     {
-        "chi" ">>BOSS战<<"
+        "chi" "BOSS战"
     }
 
     "@[Map] 25000HP"
     {
-        "chi" ">>BOSS血量 25000HP<<"
+        "chi" "BOSS血量 25000HP"
     }
 
     "@[Map]  AFK TIMER in 30 sec"
     {
-        "chi" ">30秒钟后自动选图<"
+        "blocked" "1"
+        "chi" "30秒钟后自动选图"
     }
 
     "@[Map] AFK TIMER activated"
     {
-        "chi" ">自动选图已启动<"
+        "blocked" "1"
+        "chi" "自动选图已启动"
     }
 
     "@[Map] RANDOM GAME WILL BE CHOSEN"
     {
-        "chi" ">将会随机选择小游戏<"
+        "chi" "将会随机选择小游戏"
     }
 
     "@[Map] AFK TIMER in 10 sec"
     {
-        "chi" ">10秒钟后自动选图<"
+        "blocked" "1"
+        "chi" "10秒钟后自动选图"
     }
 
     "@[Map] Ghast number two defeated"
@@ -187,142 +195,149 @@
 
     "@[Time] 4 minute 30 seconds before the arrival of the main ghast"
     {
-        "chi" ">4分30秒后失败<"
+        "blocked" "1"
+        "chi" "4分30秒后失败"
     }
 
     "@[Time] 3 minute 30 seconds before the arrival of the main ghast"
     {
-        "chi" ">3分30秒后失败<"
+        "blocked" "1"
+        "chi" "3分30秒后失败"
     }
 
     "@[Time] 2 minute 30 seconds before the arrival of the main ghast"
     {
-        "chi" ">2分30秒后失败<"
+        "blocked" "1"
+        "chi" "2分30秒后失败"
     }
 
     "@[Time] 1 minute 30 seconds before the arrival of the main ghast"
     {
-        "chi" ">1分30秒后失败<"
+        "chi" "90秒后失败"
     }
 
     "@[Time] People lost"
     {
-        "chi" ">我们输了..<"
+        "chi" "我们输了.."
     }
 
     "@[Time] 30 seconds before the arrival of the main ghast"
     {
-        "chi" ">30秒后失败<"
+        "blocked" "1"
+        "chi" "30秒后失败"
     }
 
     "@[Map] Ghast number one defeated"
     {
-        "chi" ">一号恶灵已击败<"
+        "chi" "一号恶灵已击败"
     }
 
     "@[Map] TNT Sirvival"
     {
-        "chi" ">>TNT生存<<"
+        "chi" "TNT生存"
     }
 
     "@[Map] 30 Seconds Before the battle"
     {
-        "chi" ">30秒钟后开战<"
+        "chi" "30秒钟后开战"
     }
 
     "@[Map] 20 Seconds Before the battle"
     {
-        "chi" ">20秒钟后开战<"
+        "blocked" "1"
+        "chi" "20秒钟后开战"
     }
 
     "@[Map] 10 Seconds Before the battle"
     {
-        "chi" ">10秒钟后开战<"
+        "blocked" "1"
+        "chi" "10秒钟后开战"
     }
 
     "@[Map] 5 Seconds Before the battle"
     {
-        "chi" ">5秒钟后开战<"
+        "blocked" "1"
+        "chi" "5秒钟后开战"
     }
 
     "@[Map] Battle"
     {
-        "chi" ">开战!<"
+        "chi" "开战!"
     }
 
     "@[Map] Explode 10 seconds"
     {
-        "chi" ">10秒钟后爆炸<"
+        "chi" "10秒钟后爆炸"
     }
 
     "@[Map] Spawn Fight"
     {
-        "chi" ">>出生点混战<<"
+        "chi" "出生点混战"
     }
 
     "@[Map] Random weapon"
     {
-        "chi" ">随机武器<"
+        "chi" "随机武器"
     }
 
     "@[Map] Weapon Deagle"
     {
-        "chi" ">武器 沙鹰<"
+        "chi" "武器 沙鹰"
     }
 
     "@[Map] Weapon Knife"
     {
-        "chi" ">武器 匕首<"
+        "chi" "武器 匕首"
     }
 
     "@[Map] Weapon M4A1"
     {
-        "chi" ">武器 M4A1<"
+        "chi" "武器 M4A1"
     }
 
     "@[Map] Weapon Nova"
     {
-        "chi" ">武器 新星<"
+        "chi" "武器 新星"
     }
 
     "@[Map] Weapon P90"
     {
-        "chi" ">武器 P90<"
+        "chi" "武器 P90"
     }
 
     "@[Map] Weapon Awp"
     {
-        "chi" ">武器 Awp<"
+        "chi" "武器 Awp"
     }
 
     "@[Map] Hunger Games Labyrinth"
     {
-        "chi" ">>饥饿游戏<<"
+        "chi" "饥饿游戏"
     }
 
     "@[Map] Sky Knife"
     {
-        "chi" ">>空中刀战<<"
+        "chi" "空中刀战"
     }
 
     "@[Map] Level made by DexKekcuk #13"
     {
-        "chi" ">当前关卡作者: DexKekcuk #13<"
+        "chi" "当前关卡作者: DexKekcuk #13"
     }
 
     "@[Creeper] BOOOMMM!!!"
     {
-        "chi" ">[苦力怕]:BOOOMMM!!!<"
+        "chi" "苦力怕: BOOOMMM!!!"
     }
 
     "@[Security] Step away from the box, you do not have the right to take the gun "
     {
-        "chi" ">[猪人安保]:离箱子远一点 那把枪不不属于你<"
+        "chi" "猪人安保: 离箱子远一点 那把枪不不属于你"
     }
 
     "@[Security] Stand back or be killed "
     {
-        "chi" ">[猪人安保]:往后靠 别逼我揍你<"
+        "chi" "猪人安保: 往后靠 别逼我揍你"
     }
 
 }

@@ -47,21 +47,25 @@
 
     "**4**"
     {
+        "blocked" "1"
         "chi" "4"
     }
 
     "**3**"
     {
+        "blocked" "1"
         "chi" "3"
     }
 
     "**2**"
     {
+        "blocked" "1"
         "chi" "2"
     }
 
     "**1**"
     {
+        "blocked" "1"
         "chi" "1"
     }
 
@@ -92,7 +96,7 @@
 
     "**Steam:steamcommunity.com/id/Uidsoc/**"
     {
+        "blocked" "1"
         "chi" "作者Steam个人资料主页: steamcommunity.com/id/Uidsoc/ "
     }
-
 }
