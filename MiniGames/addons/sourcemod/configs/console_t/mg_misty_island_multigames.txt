@@ -1,0 +1,248 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "[Terrorists won! Everyone will be teleported in 5 seconds...]"
+    {
+        "chi" "** **"
+    }
+
+    "[Counter Terrorists won! Everyone will be teleported in 5 seconds...]"
+    {
+        "chi" "** **"
+    }
+
+    "[SURF]"
+    {
+        "chi" "** **"
+    }
+
+    "[CLIMB]"
+    {
+        "chi" "** **"
+    }
+
+    "[RACE]"
+    {
+        "chi" "** **"
+    }
+
+    "[BHOP]"
+    {
+        "chi" "** **"
+    }
+
+    "[AK]"
+    {
+        "chi" "** **"
+    }
+
+    "[DEAGLE]"
+    {
+        "chi" "** **"
+    }
+
+    "[AWP]"
+    {
+        "chi" "** **"
+    }
+
+    "[KNIFE -> 35HP]"
+    {
+        "chi" "** **"
+    }
+
+    "[KNIFE -> 100HP]"
+    {
+        "chi" "** **"
+    }
+
+    "[COOP RACE]"
+    {
+        "chi" "** **"
+    }
+
+    "[DROP BALL]"
+    {
+        "chi" "** **"
+    }
+
+    "[30 seconds remaining]"
+    {
+        "chi" "** **"
+    }
+
+    "[60 seconds remaining]"
+    {
+        "chi" "** **"
+    }
+
+    "[You have 90 seconds]"
+    {
+        "chi" "** **"
+    }
+
+    "[RISING RAMBLE]"
+    {
+        "chi" "** **"
+    }
+
+    "[Respawn disabled]"
+    {
+        "chi" "** **"
+    }
+
+    "[Each team must press the other team s button]"
+    {
+        "chi" "** **"
+    }
+
+    "[Deadly Insertion]"
+    {
+        "chi" "** **"
+    }
+
+    "[CROUCH & JUMP]"
+    {
+        "chi" "** **"
+    }
+
+    "[SPEED RACE]"
+    {
+        "chi" "** **"
+    }
+
+    "[Someone ended! Everyone will be teleported in 15 seconds...]"
+    {
+        "chi" "** **"
+    }
+
+    "[10 seconds remaining]"
+    {
+        "chi" "** **"
+    }
+
+    "[You have 40 seconds to finish the level]"
+    {
+        "chi" "** **"
+    }
+
+    "[1]"
+    {
+        "chi" "** **"
+    }
+
+    "[2]"
+    {
+        "chi" "** **"
+    }
+
+    "[3]"
+    {
+        "chi" "** **"
+    }
+
+    "[Time's up]"
+    {
+        "chi" "** **"
+    }
+
+    "[20 seconds remaining]"
+    {
+        "chi" "** **"
+    }
+
+    "[Music : Vexento - Never Letting Go]"
+    {
+        "chi" "** **"
+    }
+
+    "[Music : Vexento - Sunrise]"
+    {
+        "chi" "** **"
+    }
+
+    "[Music : Vexento - Happiness]"
+    {
+        "chi" "** **"
+    }
+
+    "[Music : Vexento - I Love Mondays]"
+    {
+        "chi" "** **"
+    }
+
+    "[Music : Vexento - Mango Breeze]"
+    {
+        "chi" "** **"
+    }
+
+    "[Music : Vexento - Home]"
+    {
+        "chi" "** **"
+    }
+
+    "[Music : Vexento - Worlds Away]"
+    {
+        "chi" "** **"
+    }
+
+    "[Counter Terrorists ended! Everyone will be teleported in 15 seconds...]"
+    {
+        "chi" "** **"
+    }
+
+    "[Terrorists ended! Everyone will be teleported in 15 seconds...]"
+    {
+        "chi" "** **"
+    }
+
+    "30 seconds remaining!"
+    {
+        "chi" "** **"
+    }
+
+    "15 seconds remaining!"
+    {
+        "chi" "** **"
+    }
+
+    "5..."
+    {
+        "chi" "** **"
+    }
+
+    "4..."
+    {
+        "chi" "** **"
+    }
+
+    "3..."
+    {
+        "chi" "** **"
+    }
+
+    "2..."
+    {
+        "chi" "** **"
+    }
+
+    "1..."
+    {
+        "chi" "** **"
+    }
+
+    "Time's up"
+    {
+        "chi" "** **"
+    }
+
+    "[Map by Laiken]"
+    {
+        "chi" "** **"
+    }
+
+}

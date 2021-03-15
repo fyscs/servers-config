@@ -1,0 +1,98 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "@[MAP]  Map made by Reapr"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] MOVING PLATFORM"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] T WINS"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] CT WINS"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] MAZE M249"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] FOOTBALL"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] SKATE"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] GRAVITY SCOUT"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] STRAFE"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] MAZE NOVA"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] BHOP"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] LONGJUMP"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] AWP"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] SCOUT"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] SKIPPING ROPE"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] KNIFE"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] KNIFE ARENA"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 65HP KNIFE ARENA"
+    {
+        "chi" "** **"
+    }
+
+}

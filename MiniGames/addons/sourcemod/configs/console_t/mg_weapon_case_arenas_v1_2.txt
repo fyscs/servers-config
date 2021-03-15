@@ -1,0 +1,53 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "@[MAP] This map does not work with bots..."
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Map by [SG] Paul"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Steam name = sgpaul"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] twitch.tv/summit1g"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] twitch.tv/onscreenlol"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] VAC Island ft. easy skins"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] twitch.tv/b0aty"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] twitch.tv/lirik"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] twitch.tv/joshog"
+    {
+        "chi" "** **"
+    }
+
+}

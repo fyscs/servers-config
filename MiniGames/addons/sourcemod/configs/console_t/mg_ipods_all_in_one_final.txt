@@ -1,0 +1,118 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "***CT'S Have Scored A Point!!!***"
+    {
+        "chi" "** **"
+    }
+
+    "***CT'S Get Ready To Serve In...***"
+    {
+        "chi" "** **"
+    }
+
+    "***3***"
+    {
+        "chi" "** **"
+    }
+
+    "***2***"
+    {
+        "chi" "** **"
+    }
+
+    "***1***"
+    {
+        "chi" "** **"
+    }
+
+    "***Serve Up!***"
+    {
+        "chi" "** **"
+    }
+
+    "***T'S Get Ready To Serve In...***"
+    {
+        "chi" "** **"
+    }
+
+    "***T'S Have Scored A Point!!!***"
+    {
+        "chi" "** **"
+    }
+
+    "***CT'S Have Won The Match!!!***"
+    {
+        "chi" "** **"
+    }
+
+    "***T'S Have Won The Match!!!***"
+    {
+        "chi" "** **"
+    }
+
+    ">>>Whitelist the commands below:<<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>sm_cvar, sm_say<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>Map requires (balanced values if you don't want to whitelist it):<<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>>cs_enable_player_physics_box 1 & phys_pushscale 900 & phys_timescale 0.75<<<"
+    {
+        "chi" "** **"
+    }
+
+    "Walls Will Break In 5 Seconds."
+    {
+        "chi" "** **"
+    }
+
+    "3"
+    {
+        "chi" "** **"
+    }
+
+    "2"
+    {
+        "chi" "** **"
+    }
+
+    "1"
+    {
+        "chi" "** **"
+    }
+
+    "GO!!!"
+    {
+        "chi" "** **"
+    }
+
+    "***GOAL!!!***"
+    {
+        "chi" "** **"
+    }
+
+    "***GG...But CT's Are The Winners...So The T's Must Die!!!***"
+    {
+        "chi" "** **"
+    }
+
+    "***GG...But T's Are The Winners...So The CT's Must Die!!!***"
+    {
+        "chi" "** **"
+    }
+
+}

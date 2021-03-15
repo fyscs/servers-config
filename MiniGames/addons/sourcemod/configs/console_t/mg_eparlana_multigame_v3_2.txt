@@ -1,0 +1,93 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "==The map start in 5sec=="
+    {
+        "chi" "** **"
+    }
+
+    "==One grenade every 5 sec=="
+    {
+        "chi" "** **"
+    }
+
+    "==Bridge active in 20 secs=="
+    {
+        "chi" "** **"
+    }
+
+    "==Regen and nade disable in 20secs=="
+    {
+        "chi" "** **"
+    }
+
+    "== 3 =="
+    {
+        "chi" "** **"
+    }
+
+    "== 2 =="
+    {
+        "chi" "** **"
+    }
+
+    "== 1 =="
+    {
+        "chi" "** **"
+    }
+
+    "== Go =="
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 3 minutes remaining"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 2 minutes remaining"
+    {
+        "chi" "** **"
+    }
+
+    "@[Map] 1 minute remaining"
+    {
+        "chi" "** **"
+    }
+
+    "== T WIN =="
+    {
+        "chi" "** **"
+    }
+
+    "== CT WIN=="
+    {
+        "chi" "** **"
+    }
+
+    ".-*-. KNIFE PARTY .-*-."
+    {
+        "chi" "** **"
+    }
+
+    "[AFK TIMER] 30 secs"
+    {
+        "chi" "** **"
+    }
+
+    "[AFK TIMER] 10 secs"
+    {
+        "chi" "** **"
+    }
+
+    "[AFK TIMER] AUTO-SELECT"
+    {
+        "chi" "** **"
+    }
+
+}

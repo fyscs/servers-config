@@ -1,0 +1,248 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "Stand in the BLUE to VOTE for a game!"
+    {
+        "chi" "** **"
+    }
+
+    "Voting will start in 10 seconds!"
+    {
+        "chi" "** **"
+    }
+
+    "5..."
+    {
+        "chi" "** **"
+    }
+
+    "4..."
+    {
+        "chi" "** **"
+    }
+
+    "3..."
+    {
+        "chi" "** **"
+    }
+
+    "2..."
+    {
+        "chi" "** **"
+    }
+
+    "1..."
+    {
+        "chi" "** **"
+    }
+
+    "[VOTE]"
+    {
+        "chi" "** **"
+    }
+
+    "Map by: nyro"
+    {
+        "chi" "** **"
+    }
+
+    "Feedback & testing: The Lt. Team"
+    {
+        "chi" "** **"
+    }
+
+    "Someone has won! Round ending in 15 seconds..."
+    {
+        "chi" "** **"
+    }
+
+    "[BUNNYHOP]"
+    {
+        "chi" "** **"
+    }
+
+    "[ICESKATE]"
+    {
+        "chi" "** **"
+    }
+
+    "[SURF]"
+    {
+        "chi" "** **"
+    }
+
+    "[SLIDE]"
+    {
+        "chi" "** **"
+    }
+
+    "[CLIMB]"
+    {
+        "chi" "** **"
+    }
+
+    "[SCOUT] [LOWGRAV]"
+    {
+        "chi" "** **"
+    }
+
+    "[AWP] [DEAGLE]"
+    {
+        "chi" "** **"
+    }
+
+    "[LEVEL TWO]"
+    {
+        "chi" "** **"
+    }
+
+    "[LEVEL THREE]"
+    {
+        "chi" "** **"
+    }
+
+    "[SPHERE]"
+    {
+        "chi" "** **"
+    }
+
+    "[LEVEL ONE]"
+    {
+        "chi" "** **"
+    }
+
+    "[LEVEL FOUR]"
+    {
+        "chi" "** **"
+    }
+
+    "[LEVEL FIVE]"
+    {
+        "chi" "** **"
+    }
+
+    "[START]"
+    {
+        "chi" "** **"
+    }
+
+    "Took too long..."
+    {
+        "chi" "** **"
+    }
+
+    "ZzZzZz..."
+    {
+        "chi" "** **"
+    }
+
+    "Vote kick the afk!"
+    {
+        "chi" "** **"
+    }
+
+    "Draw."
+    {
+        "chi" "** **"
+    }
+
+    "Boring."
+    {
+        "chi" "** **"
+    }
+
+    "lol"
+    {
+        "chi" "** **"
+    }
+
+    "Game Over."
+    {
+        "chi" "** **"
+    }
+
+    "Die."
+    {
+        "chi" "** **"
+    }
+
+    "..."
+    {
+        "chi" "** **"
+    }
+
+    "You guys suck."
+    {
+        "chi" "** **"
+    }
+
+    "Herp Derp"
+    {
+        "chi" "** **"
+    }
+
+    "30 seconds remaining!"
+    {
+        "chi" "** **"
+    }
+
+    "15 seconds remaining!"
+    {
+        "chi" "** **"
+    }
+
+    "[OBSTACLE]"
+    {
+        "chi" "** **"
+    }
+
+    "[NADE]"
+    {
+        "chi" "** **"
+    }
+
+    "[BUY]"
+    {
+        "chi" "** **"
+    }
+
+    "[RANDOM]"
+    {
+        "chi" "** **"
+    }
+
+    "The last T is in RED!"
+    {
+        "chi" "** **"
+    }
+
+    "The last T is in YELLOW!"
+    {
+        "chi" "** **"
+    }
+
+    "The last T is in BLUE!"
+    {
+        "chi" "** **"
+    }
+
+    "The last CT is in BLUE!"
+    {
+        "chi" "** **"
+    }
+
+    "The last CT is in RED!"
+    {
+        "chi" "** **"
+    }
+
+    "The last CT is in YELLOW!"
+    {
+        "chi" "** **"
+    }
+
+}

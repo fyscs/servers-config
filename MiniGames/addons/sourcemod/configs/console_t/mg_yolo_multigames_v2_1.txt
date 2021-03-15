@@ -1,0 +1,253 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "@Map begins in 3 seconds..."
+    {
+        "chi" "** **"
+    }
+
+    "@Map begins in 2 seconds..."
+    {
+        "chi" "** **"
+    }
+
+    "@Map begins in 1 second..."
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] AWP"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] HEADSHOT"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] WALLHACKS"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] CREEPER"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] KNIFE"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] GRENADE HOLES"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] BLOCKS"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] PISTOLS"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] WTF? SCOUTS"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] VOLLEYBALL"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] ELEVATOR"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] AIM"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] This Level By SOLIDSNAKE"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Smash Mouth - All Star"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Daft Punk - Get Lucky"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] OPM - Heaven Is A Halfpipe"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Watsky - IDGAF"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Lenny Kravitz - Fly Away"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Lou Bega - Mambo No 5"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Macklemore - Cant Hold Us"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Disclosure - White Noise"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Major Lazer & DJ Snake - Lean On"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Philip George - Wish You Were Mine"
+    {
+        "chi" "** **"
+    }
+
+    "@[MUSIC] Kygo - Firestone ft. Conrad"
+    {
+        "chi" "** **"
+    }
+
+    "Winners get in position!"
+    {
+        "chi" "** **"
+    }
+
+    "Losers prepare to take balls to the face"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] GOOOOOOAAAAAALLLLL"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] 1HP FOOTBALL"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Knife damage allowed in 30 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Knife damage allowed in 10 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Knife damage enabled!"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] FOOTBALL"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] You can now cross over to enemylines"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Blocks breaking in 30 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Blocks breaking in 10 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Blocks breaking in 5 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Enabling bullet damage in 30 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Enabling bullet damage in 10 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Enabling bullet damage in 5 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Bullet damage enabled"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] Kill The Opposition With YOUR TEAMS COLOURED BLOCKS"
+    {
+        "chi" "** **"
+    }
+
+    "@[MAP] The Blocks Will Fly Towards You When You Shoot"
+    {
+        "chi" "** **"
+    }
+
+    "[TERRORISTS WIN]"
+    {
+        "chi" "** **"
+    }
+
+    "[COUNTER-TERRORISTS WIN]"
+    {
+        "chi" "** **"
+    }
+
+    "[TERRORISTS NOW HAVE 2 BALLS]"
+    {
+        "chi" "** **"
+    }
+
+    "[COUNTER-TERRORISTS NOW HAVE 2 BALLS]"
+    {
+        "chi" "** **"
+    }
+
+}

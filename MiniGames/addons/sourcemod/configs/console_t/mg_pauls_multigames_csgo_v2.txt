@@ -1,0 +1,133 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "**Normal Mode Enabled**"
+    {
+        "chi" "** **"
+    }
+
+    "Go !"
+    {
+        "chi" "** **"
+    }
+
+    ">1<"
+    {
+        "chi" "** **"
+    }
+
+    ">2<"
+    {
+        "chi" "** **"
+    }
+
+    ">3<"
+    {
+        "chi" "** **"
+    }
+
+    ">4<"
+    {
+        "chi" "** **"
+    }
+
+    ">5<"
+    {
+        "chi" "** **"
+    }
+
+    "**Dodge the sliding beams by jumping and crouching**"
+    {
+        "chi" "** **"
+    }
+
+    "**You both got teleported at the same time - Knife it out**"
+    {
+        "chi" "** **"
+    }
+
+    "**Rotating Wall Starts in...*"
+    {
+        "chi" "** **"
+    }
+
+    "**5...*"
+    {
+        "chi" "** **"
+    }
+
+    "**4...*"
+    {
+        "chi" "** **"
+    }
+
+    "**3...*"
+    {
+        "chi" "** **"
+    }
+
+    "**2...*"
+    {
+        "chi" "** **"
+    }
+
+    "**1...*"
+    {
+        "chi" "** **"
+    }
+
+    "**Avoid the wall!*"
+    {
+        "chi" "** **"
+    }
+
+    "**Rotating Wall Speed Increasing**"
+    {
+        "chi" "** **"
+    }
+
+    "**Rotating Wall Speed Increasing again**"
+    {
+        "chi" "** **"
+    }
+
+    "**Stand on the lighter textures - the darker ones fall**"
+    {
+        "chi" "** **"
+    }
+
+    "**Map Made by [SG] Paul**"
+    {
+        "chi" "** **"
+    }
+
+    "**Remake by FreeDOM**"
+    {
+        "chi" "** **"
+    }
+
+    "For StrikeArena.ru"
+    {
+        "chi" "** **"
+    }
+
+    "MiniGame: 77.243.98.227:27024"
+    {
+        "chi" "** **"
+    }
+
+    "Timelimit Up!"
+    {
+        "chi" "** **"
+    }
+
+    "**Hard Mode Enabled**"
+    {
+        "chi" "** **"
+    }
+
+}

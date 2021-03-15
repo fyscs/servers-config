@@ -1,0 +1,628 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "***Chomp Knife Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Match starting in 3...***"
+    {
+        "chi" "** **"
+    }
+
+    "***Match starting in 2...***"
+    {
+        "chi" "** **"
+    }
+
+    "***Match starting in 1...***"
+    {
+        "chi" "** **"
+    }
+
+    "***Match starting in now!***"
+    {
+        "chi" "** **"
+    }
+
+    "found 9 players"
+    {
+        "chi" "** **"
+    }
+
+    "found 10 players"
+    {
+        "chi" "** **"
+    }
+
+    "found 11 players"
+    {
+        "chi" "** **"
+    }
+
+    "found 12 players"
+    {
+        "chi" "** **"
+    }
+
+    "Predators have near invisibility, 600 hp and 2x speed."
+    {
+        "chi" "** **"
+    }
+
+    "Each team must hunt down the other to win."
+    {
+        "chi" "** **"
+    }
+
+    "here will be 10 Predators"
+    {
+        "chi" "** **"
+    }
+
+    "here will be 9 Predators"
+    {
+        "chi" "** **"
+    }
+
+    "here will be 8 Predators"
+    {
+        "chi" "** **"
+    }
+
+    "here will be 7 Predators"
+    {
+        "chi" "** **"
+    }
+
+    "here will be 6 Predators"
+    {
+        "chi" "** **"
+    }
+
+    "here will be 5 Predators"
+    {
+        "chi" "** **"
+    }
+
+    "here will be 4 Predators"
+    {
+        "chi" "** **"
+    }
+
+    "here will be 3 Predators"
+    {
+        "chi" "** **"
+    }
+
+    "here will be 2 Predators"
+    {
+        "chi" "** **"
+    }
+
+    "here will be 1 Predator"
+    {
+        "chi" "** **"
+    }
+
+    "*** You have 10 seconds to select a weapon ***"
+    {
+        "chi" "** **"
+    }
+
+    "***Starting game!***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Game ending in 3 seconds! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Marines have won! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Predators have won! ***"
+    {
+        "chi" "** **"
+    }
+
+    "test passed"
+    {
+        "chi" "** **"
+    }
+
+    "***Marines VS Predators Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Music has been manually disabled for the round ***"
+    {
+        "chi" "** **"
+    }
+
+    "***Gravity Revolvers Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Random Fight Yard Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Shotgun Arena Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "Floor damage starting in 20 seconds..."
+    {
+        "chi" "** **"
+    }
+
+    "***Climbing race Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "**Starting in 5 seconds***"
+    {
+        "chi" "** **"
+    }
+
+    "Weapons spawning in 30 seconds."
+    {
+        "chi" "** **"
+    }
+
+    "Weapons spawning in 10 seconds."
+    {
+        "chi" "** **"
+    }
+
+    "Weapons spawning."
+    {
+        "chi" "** **"
+    }
+
+    "AFK Killer enabling in 15 seconds..."
+    {
+        "chi" "** **"
+    }
+
+    "AFK Killer enabled..."
+    {
+        "chi" "** **"
+    }
+
+    "***Block Fort Combat Arena Starting in 5 seconds***"
+    {
+        "chi" "** **"
+    }
+
+    "***Block Fort Combat Arena Started!***"
+    {
+        "chi" "** **"
+    }
+
+    "***Free for all***"
+    {
+        "chi" "** **"
+    }
+
+    "***Block Fort Combat Arena Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Thwomp Falls Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Thwomp falls starting in 5 seconds***"
+    {
+        "chi" "** **"
+    }
+
+    "***Free for all enabled***"
+    {
+        "chi" "** **"
+    }
+
+    "***Starting in 5 seconds***"
+    {
+        "chi" "** **"
+    }
+
+    "***Starting in 3...***"
+    {
+        "chi" "** **"
+    }
+
+    "***Starting in 2...***"
+    {
+        "chi" "** **"
+    }
+
+    "***Starting in 1...***"
+    {
+        "chi" "** **"
+    }
+
+    "Boom..."
+    {
+        "chi" "** **"
+    }
+
+    "You have 8 seconds to select a platform!"
+    {
+        "chi" "** **"
+    }
+
+    "***Sky Platforms Island Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "If guns dont appear, type mp_weapons_allow_map_placed 1 into console."
+    {
+        "chi" "** **"
+    }
+
+    "***Floating Islands Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Fight Yard Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***King of the hill Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Speed SMGs Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Sniper Thwomps Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Knife Arena Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Chain Chomp Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***ScoutzKnivez Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Auto Kill Trigger in 90 seconds...***"
+    {
+        "chi" "** **"
+    }
+
+    "***Auto Kill Trigger in 60 seconds...***"
+    {
+        "chi" "** **"
+    }
+
+    "***Auto Kill Trigger in 30 seconds...***"
+    {
+        "chi" "** **"
+    }
+
+    "***Hexagon Heat Starting in 5 seconds...***"
+    {
+        "chi" "** **"
+    }
+
+    "***Start!***"
+    {
+        "chi" "** **"
+    }
+
+    "***Free for all weapon fight in spawn!***"
+    {
+        "chi" "** **"
+    }
+
+    "CTs have captured the center!"
+    {
+        "chi" "** **"
+    }
+
+    "Ts have captured the center!"
+    {
+        "chi" "** **"
+    }
+
+    "Ts have 15 seconds left on timer!"
+    {
+        "chi" "** **"
+    }
+
+    "Ts have 10 seconds left on timer!"
+    {
+        "chi" "** **"
+    }
+
+    "Ts have 5 seconds left on timer!"
+    {
+        "chi" "** **"
+    }
+
+    "Ts have 4 seconds left on timer!"
+    {
+        "chi" "** **"
+    }
+
+    "Ts have 3 seconds left on timer!"
+    {
+        "chi" "** **"
+    }
+
+    "Ts have 2 seconds left on timer!"
+    {
+        "chi" "** **"
+    }
+
+    "Ts have 1 seconds left on timer!"
+    {
+        "chi" "** **"
+    }
+
+    "Ts win!"
+    {
+        "chi" "** **"
+    }
+
+    "CTs have 15 seconds left on timer!"
+    {
+        "chi" "** **"
+    }
+
+    "CTs have 10 seconds left on timer!"
+    {
+        "chi" "** **"
+    }
+
+    "CTs have 5 seconds left on timer!"
+    {
+        "chi" "** **"
+    }
+
+    "CTs have 4 seconds left on timer!"
+    {
+        "chi" "** **"
+    }
+
+    "CTs have 3 seconds left on timer!"
+    {
+        "chi" "** **"
+    }
+
+    "CTs have 2 seconds left on timer!"
+    {
+        "chi" "** **"
+    }
+
+    "CTs have 1 seconds left on timer!"
+    {
+        "chi" "** **"
+    }
+
+    "CTs win!"
+    {
+        "chi" "** **"
+    }
+
+    "**Control the centre to win the game!**"
+    {
+        "chi" "** **"
+    }
+
+    "Three..."
+    {
+        "chi" "** **"
+    }
+
+    "Two..."
+    {
+        "chi" "** **"
+    }
+
+    "One..."
+    {
+        "chi" "** **"
+    }
+
+    "Go!!"
+    {
+        "chi" "** **"
+    }
+
+    "Race Starting in Five seconds"
+    {
+        "chi" "** **"
+    }
+
+    "Race in 3..."
+    {
+        "chi" "** **"
+    }
+
+    "2..."
+    {
+        "chi" "** **"
+    }
+
+    "1..."
+    {
+        "chi" "** **"
+    }
+
+    "Go!"
+    {
+        "chi" "** **"
+    }
+
+    "Hunger Games Started!"
+    {
+        "chi" "** **"
+    }
+
+    "Game Starting in 10 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "***Hunger Games is Free for all***"
+    {
+        "chi" "** **"
+    }
+
+    "Game starting in 3 Seconds..."
+    {
+        "chi" "** **"
+    }
+
+    "***Auto Select in 40 seconds***"
+    {
+        "chi" "** **"
+    }
+
+    "Get onto a platform. Game starting in 15 seconds"
+    {
+        "chi" "** **"
+    }
+
+    "Starting in 3 seconds..."
+    {
+        "chi" "** **"
+    }
+
+    "Starting in 2 seconds..."
+    {
+        "chi" "** **"
+    }
+
+    "Starting in 1 seconds..."
+    {
+        "chi" "** **"
+    }
+
+    "***Mario Says Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Hunger Games Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Pirate Climb Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Platform Peril Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Hexagon Heat Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Obstacle Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Map by DTK Development Team***"
+    {
+        "chi" "** **"
+    }
+
+    "By I'm the new guy STEAM_0:1:14214794"
+    {
+        "chi" "** **"
+    }
+
+    "Join us at: www.Dying2kill.com.au"
+    {
+        "chi" "** **"
+    }
+
+    "AFK Killer enabling in 10 seconds."
+    {
+        "chi" "** **"
+    }
+
+    "***Obstacle Complete***"
+    {
+        "chi" "** **"
+    }
+
+    "***Skipping Starting***"
+    {
+        "chi" "** **"
+    }
+
+    "Game Starting in 10 seconds..."
+    {
+        "chi" "** **"
+    }
+
+    "***Knives spawning in 2minutes***"
+    {
+        "chi" "** **"
+    }
+
+    "***Skipping Selected***"
+    {
+        "chi" "** **"
+    }
+
+    "***Knives have spawned***"
+    {
+        "chi" "** **"
+    }
+
+    "***Game Starting in 10 seconds***"
+    {
+        "chi" "** **"
+    }
+
+    "***Pirate Island Selected***"
+    {
+        "chi" "** **"
+    }
+
+}
