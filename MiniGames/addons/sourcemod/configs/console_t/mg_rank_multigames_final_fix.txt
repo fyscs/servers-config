@@ -7,287 +7,300 @@
 
     "*Boost Disabled in 10 sec*"
     {
-        "chi" "** **"
+        "chi" "加速效果将在10秒钟后关闭"
     }
 
     "*Boost Disabled*"
     {
-        "chi" "** **"
+        "chi" "加速效果已关闭"
     }
 
     "* 2 *"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "2"
     }
 
     "* 1 *"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "1"
     }
 
     "* 3 *"
     {
-        "chi" "** **"
+        "chi" "3"
     }
 
     "*Knife Equipped in 10 sec*"
     {
-        "chi" "** **"
+        "chi" "10秒钟后发放匕首"
     }
 
     "*Knife Equipped*"
     {
-        "chi" "** **"
+        "chi" "匕首已发放"
     }
 
     "*> Map made by Dus?K <*"
     {
-        "chi" "** **"
+        "chi" "地图作者: Dus?K 地图汉化: 圣剑@风云社"
     }
 
     "*> Map helped by Nande? Ka[X]de!, Potti <*"
     {
-        "chi" "** **"
+        "chi" "感谢 Nande? Ka[X]de!, Potti 对本图的帮助"
     }
 
     "*> Map Version & Fix : Final_1 <*"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "地图版本与修复 : Final_1"
     }
 
     "*> Map tested by Colabin, Kami, Revenant Server MG Users <*"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "地图由 Colabin,Kami,Revenant服务器MG玩家共同测试"
     }
 
     "@[MAP] mg_Rank_Multigames"
     {
-        "chi" "** **"
+        "chi" "mg_Rank_Multigames"
     }
 
     "*Fight!*"
     {
-        "chi" "** **"
+        "chi" "开战!"
     }
 
     "*...*"
     {
-        "chi" "** **"
+        "chi" "..."
     }
 
     "*1*"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "1"
     }
 
     "*2*"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "2"
     }
 
     "*3*"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "3"
     }
 
     "*4*"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "4"
     }
 
     "*5*"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "5"
     }
 
     "*6*"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "6"
     }
 
     "*7*"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "7"
     }
 
     "*8*"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "8"
     }
 
     "*9*"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "9"
     }
 
     "*10*"
     {
-        "chi" "** **"
+        "chi" "10"
     }
 
     ">Game : Spawn Fight<"
     {
-        "chi" "** **"
+        "chi" "出生点对战"
     }
 
     ">Game : All Weapon Randomizer Fight<"
     {
-        "chi" "** **"
+        "chi" "全武器随机对战"
     }
 
     "*Select Position...*"
     {
-        "chi" "** **"
+        "chi" "选择你的点位"
     }
 
     "*Outside Position Killer in 5 sec*"
     {
-        "chi" "** **"
+        "chi" "未选框框的玩家将在5秒钟后处死"
     }
 
     "*Outside Position Killer On*"
     {
-        "chi" "** **"
+        "chi" "未选框框的玩家已被处死"
     }
 
     ">GO!<"
     {
-        "chi" "** **"
+        "chi" "冲!"
     }
 
     ">Fight!<"
     {
-        "chi" "** **"
+        "chi" "开战!"
     }
 
     ">Game : Shotgun<"
     {
-        "chi" "** **"
+        "chi" "霰弹枪"
     }
 
     ">Game : Negev<"
     {
-        "chi" "** **"
+        "chi" "内格夫"
     }
 
     ">Game : SSG 08<"
     {
-        "chi" "** **"
+        "chi" "SSG 08"
     }
 
     ">Game : Knife<"
     {
-        "chi" "** **"
+        "chi" "刀战"
     }
 
     ">Game : Taser<"
     {
-        "chi" "** **"
+        "chi" "电击枪"
     }
 
     ">Game : Hell Ladder<"
     {
-        "chi" "** **"
+        "chi" "地狱之梯"
     }
 
     ">Game : Minor AR<"
     {
-        "chi" "** **"
+        "chi" "经济型AR"
     }
 
     ">Game : Scope AR<"
     {
-        "chi" "** **"
+        "chi" "瞄具AR"
     }
 
     ">Game : Desert Eagle<"
     {
-        "chi" "** **"
+        "chi" "沙鹰"
     }
 
     ">Game : Fog<"
     {
-        "chi" "** **"
+        "chi" "雾天"
     }
 
     ">Game : Long Jump<"
     {
-        "chi" "** **"
+        "chi" "长跳"
     }
 
     ">Game : AWP<"
     {
-        "chi" "** **"
+        "chi" "AWP"
     }
 
     ">Game : Wall Hack<"
     {
-        "chi" "** **"
+        "chi" "透视"
     }
 
     ">Game : Free-Fall<"
     {
-        "chi" "** **"
+        "chi" "自由落体"
     }
 
     ">Game : Underground<"
     {
-        "chi" "** **"
+        "chi" "AK-M4"
     }
 
     ">Game : Boost Surf<"
     {
-        "chi" "** **"
+        "chi" "加速板滑翔"
     }
 
     ">Game : Tower<"
     {
-        "chi" "** **"
+        "chi" "塔图"
     }
 
     ">Game : Push<"
     {
-        "chi" "** **"
+        "chi" "PUSH!"
     }
 
     ">Game : Bridge<"
     {
-        "chi" "** **"
+        "chi" "桥"
     }
 
     ">Game : Greande<"
     {
-        "chi" "** **"
+        "chi" "手雷"
     }
 
     ">Game : Burn<"
     {
-        "chi" "** **"
+        "chi" "燃烧弹"
     }
 
     ">Game : P250<"
     {
-        "chi" "** **"
+        "chi" "P250"
     }
 
     ">Game : Dual Berettas<"
     {
-        "chi" "** **"
+        "chi" "双持贝瑞塔"
     }
 
     ">Game : 500$ Pistol<"
     {
-        "chi" "** **"
+        "chi" "500块的手枪"
     }
 
     ">Game : R8 Revovler<"
     {
-        "chi" "** **"
+        "chi" "R8左轮"
     }
 
     ">Game : Decoy<"
     {
-        "chi" "** **"
+        "chi" "诱饵弹"
     }
 
 }

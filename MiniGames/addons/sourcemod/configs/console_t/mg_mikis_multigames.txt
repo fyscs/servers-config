@@ -7,212 +7,215 @@
 
     "@Looks like we needed more balls"
     {
-        "chi" "** **"
+        "chi" "看起来我们需要更多的球"
     }
 
     "@[MAP] Disabled football due low phys_pushscale value"
     {
-        "chi" "** **"
+        "blocked" "1"
     }
 
     "@Knife damage enabled"
     {
-        "chi" "** **"
+        "chi" "刀伤已开启"
     }
 
     "@[MiniGame] Football 50HP"
     {
-        "chi" "** **"
+        "chi" "50HP足球"
     }
 
     "@[MiniGame] Football 100HP"
     {
-        "chi" "** **"
+        "chi" "100HP足球"
     }
 
     "@Fall damage disabled"
     {
-        "chi" "** **"
+        "chi" "跌落伤害已关闭"
     }
 
     "@[MiniGame] Scouts"
     {
-        "chi" "** **"
+        "chi" "鸟狙"
     }
 
     "@Boosters disabled, middle ones still work"
     {
-        "chi" "** **"
+        "chi" "加速板已失效 但是中间的仍在运作"
     }
 
     "@[MiniGame] Knife"
     {
-        "chi" "** **"
+        "chi" "刀战"
     }
 
     "@[MiniGame] Football 1HP"
     {
-        "chi" "** **"
+        "chi" "1HP足球"
     }
 
     "@[MiniGame] Knife 35HP"
     {
-        "chi" "** **"
+        "chi" "35HP刀战"
     }
 
     "@[MiniGame] Knife 100HP"
     {
-        "chi" "** **"
+        "chi" "100HP刀战"
     }
 
     "@You can now destroy platforms with knife"
     {
-        "chi" "** **"
+        "chi" "现在你可以用匕首破坏平台了"
     }
 
     "@Platforms will become destroyable in 5 seconds"
     {
-        "chi" "** **"
+        "chi" "5秒钟后平台可破坏"
     }
 
     "@[MiniGame] Smash Floor"
     {
-        "chi" "** **"
+        "chi" "砸地板"
     }
 
     "@Incoming one time spam"
     {
+        "blocked" "1"
         "chi" "** **"
     }
 
     "@Ts have scored!"
     {
-        "chi" "** **"
+        "chi" "T阵营得分!"
     }
 
     "@CTs have scored!"
     {
-        "chi" "** **"
+        "chi" "CT阵营得分!"
     }
 
     "@Someone has won, teleporting everybody in 15secs"
     {
-        "chi" "** **"
+        "chi" "一名玩家已获胜 15秒钟后传送所有玩家"
     }
 
     "@[MiniGame] Pistols Head Shot only"
     {
-        "chi" "** **"
+        "chi" "手枪(爆头战)"
     }
 
     "@Regen disabled!"
     {
-        "chi" "** **"
+        "chi" "自动回血关闭"
     }
 
     "@Knife it out!"
     {
-        "chi" "** **"
+        "chi" "拼刺刀了!"
     }
 
     "@[MiniGame] BoomBall"
     {
-        "chi" "** **"
+        "chi" "炸弹球"
     }
 
     "@Skate disabled!"
     {
-        "chi" "** **"
+        "chi" "滑不起来了!"
     }
 
     "@[MiniGame] Ice Skate"
     {
-        "chi" "** **"
+        "chi" "滑冰"
     }
 
     "@[MiniGame] Taze war"
     {
-        "chi" "** **"
+        "chi" "电击枪大战"
     }
 
     "@Fall damage enabled"
     {
-        "chi" "** **"
+        "chi" "跌落伤害已关闭"
     }
 
     "@[MiniGame] AWP"
     {
-        "chi" "** **"
+        "chi" "AWP"
     }
 
     "@Boosters disabled!"
     {
-        "chi" "** **"
+        "chi" "加速板已关闭"
     }
 
     "@[MiniGame] War & Buy n' plant"
     {
-        "chi" "** **"
+        "chi" "买枪混战"
     }
 
     "@[MiniGame] Bhop"
     {
-        "chi" "** **"
+        "chi" "连跳"
     }
 
     "@[SONG] Black Tiger Sex Machine - Destroy It (Urban Contact remix)"
     {
-        "chi" "** **"
+        "chi" "BGM: Black Tiger Sex Machine - Destroy It (Urban Contact remix)"
     }
 
     "@[SONG] Mediks - Come Back Down"
     {
-        "chi" "** **"
+        "chi" "BGM: Mediks - Come Back Down"
     }
 
     "@[SONG] Monstaz - Popcorn Funk"
     {
-        "chi" "** **"
+        "chi" "BGM: Monstaz - Popcorn Funk"
     }
 
     "@[SONG] Nihils - Help Our Souls (Urban Contact remix)"
     {
-        "chi" "** **"
+        "chi" "BGM: Nihils - Help Our Souls (Urban Contact remix)"
     }
 
     "@[SONG] Virtual Riot - Paper Planes"
     {
-        "chi" "** **"
+        "chi" "BGM: Virtual Riot - Paper Planes"
     }
 
     "@[SONG] The 1975 - Chocolate (Zanski remix)"
     {
-        "chi" "** **"
+        "chi" "BGM: The 1975 - Chocolate (Zanski remix)"
     }
 
     "@[SONG] Milk N Cookies - Mastodon (Louis Child Remix)"
     {
-        "chi" "** **"
+        "chi" "BGM: Milk N Cookies - Mastodon (Louis Child Remix)"
     }
 
     "@Map made by Darnias"
     {
-        "chi" "** **"
+        "chi" "地图作者: Darnias 地图汉化: 圣剑@风云社"
     }
 
     "@[Timelimit] 1 minute"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "还剩1分钟"
     }
 
     "@[Timelimit] 30 seconds"
     {
-        "chi" "** **"
+        "chi" "还剩30秒"
     }
 
     "@[Timelimit] 15 seconds"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "还剩15秒"
     }
 
 }

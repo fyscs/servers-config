@@ -7,127 +7,135 @@
 
     "**Normal Mode Enabled**"
     {
-        "chi" "** **"
+        "chi" "普通模式开启"
     }
 
     "Go !"
     {
-        "chi" "** **"
+        "chi" ">冲!<"
     }
 
     ">1<"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "1"
     }
 
     ">2<"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "2"
     }
 
     ">3<"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "3"
     }
 
     ">4<"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "4"
     }
 
     ">5<"
     {
-        "chi" "** **"
+        "chi" "5"
     }
 
     "**Dodge the sliding beams by jumping and crouching**"
     {
-        "chi" "** **"
+        "chi" "通过跳和蹲来躲避来袭的障碍"
     }
 
     "**You both got teleported at the same time - Knife it out**"
     {
-        "chi" "** **"
+        "chi" "你们被同时传送了!用刀一决胜负吧!"
     }
 
     "**Rotating Wall Starts in...*"
     {
-        "chi" "** **"
+        "chi" "旋转墙即将启动..."
     }
 
     "**5...*"
     {
-        "chi" "** **"
+        "chi" "5"
     }
 
     "**4...*"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "4..."
     }
 
     "**3...*"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "3..."
     }
 
     "**2...*"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "2..."
     }
 
     "**1...*"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "1..."
     }
 
     "**Avoid the wall!*"
     {
-        "chi" "** **"
+        "chi" "不要碰到那面墙!"
     }
 
     "**Rotating Wall Speed Increasing**"
     {
-        "chi" "** **"
+        "chi" "旋转墙提速中"
     }
 
     "**Rotating Wall Speed Increasing again**"
     {
-        "chi" "** **"
+        "chi" "旋转墙再次提速"
     }
 
     "**Stand on the lighter textures - the darker ones fall**"
     {
-        "chi" "** **"
+        "chi" "站在亮面材质地板上 变黑的地板很快就会下落"
     }
 
     "**Map Made by [SG] Paul**"
     {
-        "chi" "** **"
+        "chi" "地图作者: [SG] Paul 地图汉化: 圣剑@风云社"
     }
 
     "**Remake by FreeDOM**"
     {
-        "chi" "** **"
+        "chi" "地图重置: FreeDOM"
     }
 
     "For StrikeArena.ru"
     {
-        "chi" "** **"
+        "blocked" "1"
     }
 
     "MiniGame: 77.243.98.227:27024"
     {
-        "chi" "** **"
+        "blocked" "1"
     }
 
     "Timelimit Up!"
     {
-        "chi" "** **"
+        "chi" "时间到!"
     }
 
     "**Hard Mode Enabled**"
     {
-        "chi" "** **"
+        "chi" "困难模式开启"
     }
 
 }

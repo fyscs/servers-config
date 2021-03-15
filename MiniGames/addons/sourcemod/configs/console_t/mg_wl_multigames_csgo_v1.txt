@@ -7,257 +7,266 @@
 
     "[BHOP] Somebody won the race!"
     {
-        "chi" "** **"
+        "chi" "有人已经赢下了这场竞赛!"
     }
 
     "[BHOP] Teleporting the losers!"
     {
-        "chi" "** **"
+        "chi" "正在传送其他玩家!"
     }
 
     "[MAP] 500HP Spawn-Knife!"
     {
-        "chi" "** **"
+        "chi" "500HP出生点刀战!"
     }
 
     "[MAP] 1 Minute left!"
     {
-        "chi" "** **"
+        "chi" "还剩60秒!"
     }
 
     "[MAP] 10 Seconds left!"
     {
-        "chi" "** **"
+        "chi" "最后10秒钟!"
     }
 
     "[MAP] Bunny-Hop!"
     {
-        "chi" "** **"
+        "chi" "连跳"
     }
 
     "[MAP] 5..."
     {
-        "chi" "** **"
+        "chi" "5"
     }
 
     "[MAP] 4..."
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "4"
     }
 
     "[MAP] 3..."
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "3"
     }
 
     "[MAP] 2..."
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "2"
     }
 
     "[MAP] 1..."
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "1"
     }
 
     "[MAP] 0..."
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "0!"
     }
 
     "[MAP] Dodgeball!"
     {
-        "chi" "** **"
+        "chi" "躲避球"
     }
 
     "[MAP] Climb!"
     {
-        "chi" "** **"
+        "chi" "攀登"
     }
 
     "[MAP] Autporting to Lvl2 climb!"
     {
-        "chi" "** **"
+        "chi" "自动传送落后玩家至第二关"
     }
 
     "[MAP] Autporting to Lvl3 climb!"
     {
-        "chi" "** **"
+        "chi" "自动传送落后玩家至第三关"
     }
 
     "[MAP] 1v1 Deagle - HEADSHOT ONLY!"
     {
-        "chi" "** **"
+        "chi" "1V1沙鹰(爆头)"
     }
 
     "[MAP] Chosing Players"
     {
-        "chi" "** **"
+        "chi" "正在选择玩家"
     }
 
     "[MAP] 1v1 Deagle - 1HP!"
     {
-        "chi" "** **"
+        "chi" "1v1沙鹰(1HP)"
     }
 
     "[MAP] 1v1 Deagle - Normal!"
     {
-        "chi" "** **"
+        "chi" "1v1沙鹰(普通)"
     }
 
     "[MAP] Grenades! R.I.P. Basketball"
     {
-        "chi" "** **"
+        "chi" "nadeking!"
     }
 
     "[MAP] You guys take too long to kill each other. Let me destroy the wall for you! <3"
     {
-        "chi" "** **"
+        "chi" "你们炸个人也太浪费时间了,干脆把中间这堵墙拿掉吧! <3 "
     }
 
     "[MAP] Longjump!"
     {
-        "chi" "** **"
+        "chi" "长跳"
     }
 
     "[MAP] You have 45 seconds to build up speed and jump from the ramp."
     {
-        "chi" "** **"
+        "chi" "你还有有45秒的时间加速!"
     }
 
     "[MAP] The Player who made it the farthest wins."
     {
-        "chi" "** **"
+        "chi" "飞的最远的玩家获胜(注意倒计时)"
     }
 
     "[MAP] 8..."
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "8"
     }
 
     "[MAP] Teleporting Losers"
     {
-        "chi" "** **"
+        "chi" "正在传送其他玩家"
     }
 
     "[MAP] 6..."
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "6"
     }
 
     "[MAP] 9..."
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "9"
     }
 
     "[MAP] 10..."
     {
-        "chi" "** **"
+        "chi" "10"
     }
 
     "[MAP] 7..."
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "7"
     }
 
     "Map made by WL! (STEAM_1:0:104117293)"
     {
-        "chi" "** **"
+        "chi" "地图作者: WL! (STEAM_1:0:104117293) 地图汉化: 圣剑@风云社"
     }
 
     "[Music] Alex Komlew & Kevin Zaremba - Summer Sun"
     {
-        "chi" "** **"
+        "chi" "BGM: Alex Komlew & Kevin Zaremba - Summer Sun"
     }
 
     "[Music] Kubbi - Up In My Jam"
     {
-        "chi" "** **"
+        "chi" "BGM: Kubbi - Up In My Jam"
     }
 
     "[Music] Watsky - Never Let it Die"
     {
-        "chi" "** **"
+        "chi" "BGM: Watsky - Never Let it Die"
     }
 
     "[Music] Watsky - Ugly Faces"
     {
-        "chi" "** **"
+        "chi" "BGM: Watsky - Ugly Faces"
     }
 
     "[Music] benjamin francis leftwich - shine kygo remix"
     {
-        "chi" "** **"
+        "chi" "BGM: benjamin francis leftwich - shine kygo remix"
     }
 
     "[Music] Charlie Puth - Betty Boop Original Mix"
     {
-        "chi" "** **"
+        "chi" "BGM: Charlie Puth - Betty Boop Original Mix"
     }
 
     "[Music] jrabbit - tequila remix"
     {
-        "chi" "** **"
+        "chi" "BGM: jrabbit - tequila remix"
     }
 
     "[MAP] Someone finished Climb!"
     {
-        "chi" "** **"
+        "chi" "一名玩家已经登顶"
     }
 
     "[MAP] Chosing new Players!"
     {
-        "chi" "** **"
+        "chi" "选择新的玩家"
     }
 
     "[MAP] A Player won his duel!"
     {
-        "chi" "** **"
+        "chi" "一名玩家赢下了这场决斗"
     }
 
     "[MAP] Battle - DEAGLE - 100HP!"
     {
-        "chi" "** **"
+        "chi" "竞技场 - 沙鹰 - 100hp"
     }
 
     "[MAP] Deagle Fight - 1HP !"
     {
-        "chi" "** **"
+        "chi" "1HP沙鹰乱斗"
     }
 
     "[MAP] Battle - DEAGLE - Headshot ONLY!"
     {
-        "chi" "** **"
+        "chi" "竞技场 - 沙鹰 - 爆头模式"
     }
 
     "[MAP] Battle - KNIFE - 100HP!"
     {
-        "chi" "** **"
+        "chi" "竞技场 - 刀战 - 100HP"
     }
 
     "[MAP] Battle - KNIFE - 250HP!"
     {
-        "chi" "** **"
+        "chi" "竞技场 - 刀战 - 250HP"
     }
 
     "[MAP] Battle - KNIFE - 1HP!"
     {
-        "chi" "** **"
+        "chi" "竞技场 - 刀战 - 1HP"
     }
 
     "[MAP] Player AFK or too slow. Chosing RANDOM Game."
     {
-        "chi" "** **"
+        "chi" "玩家挂机或是太慢.正在随机选择游戏"
     }
 
     "[MAP] AWP - Battle!"
     {
-        "chi" "** **"
+        "chi" "AWP竞技场"
     }
 
     "[MAP] Scout - Battle!"
     {
-        "chi" "** **"
+        "chi" "SSG08竞技场"
     }
 
 }

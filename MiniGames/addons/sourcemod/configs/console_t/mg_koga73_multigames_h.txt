@@ -7,202 +7,207 @@
 
     "**Gamemode: Plant/Defuse**"
     {
-        "chi" "** **"
+        "chi" "爆破模式"
     }
 
     "**5**"
     {
-        "chi" "** **"
+        "chi" "5"
     }
 
     "**4**"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">4<"
     }
 
     "**3**"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">3<"
     }
 
     "**2**"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">2<"
     }
 
     "**1**"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">1<"
     }
 
     "**GO!**"
     {
-        "chi" "** **"
+        "chi" ">冲!<"
     }
 
     "**Remember to buy your weapons!**"
     {
-        "chi" "** **"
+        "chi" "按B键买枪, 懂?"
     }
 
     "**Bombsite A has been opened!**"
     {
-        "chi" "** **"
+        "chi" "A包点已被解锁"
     }
 
     "**Bombsite B has been opened!**"
     {
-        "chi" "** **"
+        "chi" "B包点已被解锁"
     }
 
     "**Gamemode: AWP Platform (Lasers)**"
     {
-        "chi" "** **"
+        "chi" "AWP移动平台(有激光)"
     }
 
     "**Gamemode: Battle Royale (Teams)**"
     {
-        "chi" "** **"
+        "chi" "大逃杀(团队战)"
     }
 
     "**Teleports are Active!**"
     {
-        "chi" "** **"
+        "chi" "传送点已开启"
     }
 
     "**You have 15 seconds to choose!**"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "你还有15秒的时间来选择"
     }
 
     "**Weapons refreshed**"
     {
-        "chi" "** **"
+        "chi" "武器已刷新"
     }
 
     "**A Winner has been Found!**"
     {
-        "chi" "** **"
+        "chi" "一位玩家获得了胜利!"
     }
 
     "**Gamemode: Deagle (HS)**"
     {
-        "chi" "** **"
+        "chi" "沙鹰(爆头)"
     }
 
     "**Weapons Refreshed**"
     {
-        "chi" "** **"
+        "chi" "武器已刷新"
     }
 
     "**Gamemode: Zeus Arena**"
     {
-        "chi" "** **"
+        "chi" "电击枪竞技场"
     }
 
     "**Gamemode: Battle Royale (FFA)**"
     {
-        "chi" "** **"
+        "chi" "大逃杀(个人战)"
     }
 
     "**Gamemode: Gangstaz**"
     {
-        "chi" "** **"
+        "chi" "黑帮火拼"
     }
 
     "**Gamemode: Race**"
     {
-        "chi" "** **"
+        "chi" "竞速"
     }
 
     "**Gamemode: Escape**"
     {
-        "chi" "** **"
+        "chi" "死跑"
     }
 
     "**Gamemode: AWP War**"
     {
-        "chi" "** **"
+        "chi" "AWP"
     }
 
     "**Gamemode: AK Towers**"
     {
-        "chi" "** **"
+        "chi" "AK塔"
     }
 
     "**Find a place to Hide!**"
     {
-        "chi" "** **"
+        "chi" "快找个地方躲起来!"
     }
 
     "**Gamemode: Glock Headshot**"
     {
-        "chi" "** **"
+        "chi" "格洛克爆头战"
     }
 
     "**Gamemode: Shotgun Showdown**"
     {
-        "chi" "** **"
+        "chi" "加速道霰弹枪战"
     }
 
     "**Boost & Ramps Removed!**"
     {
-        "chi" "** **"
+        "chi" "加速效果与坡道已移除"
     }
 
     "**Gamemode: Box Fortress**"
     {
-        "chi" "** **"
+        "chi" "箱林"
     }
 
     "**Gamemode: Buy Poolday**"
     {
-        "chi" "** **"
+        "chi" "泳池混战"
     }
 
     "**Gamemode: P90 Hunting**"
     {
-        "chi" "** **"
+        "chi" "P90猎杀"
     }
 
     "**A ghost has entered! Don't touch it!**"
     {
-        "chi" "** **"
+        "chi" "出现了一只幽灵! 千万不要碰它!"
     }
 
     "**Gamemode: HE Grenades**"
     {
-        "chi" "** **"
+        "chi" "手雷"
     }
 
     "**Gamemode: Scoutzknivez**"
     {
-        "chi" "** **"
+        "chi" "低重力鸟狙"
     }
 
     "**Gamemode: AWP Platform (Normal)**"
     {
-        "chi" "** **"
+        "chi" "AWP移动平台(普通)"
     }
 
     "**Gamemode: Deagle (Normal)**"
     {
-        "chi" "** **"
+        "chi" "沙鹰(普通)"
     }
 
     "**Map by: Koga73 (STEAM_0:0:39320522)**"
     {
-        "chi" "** **"
+        "chi" "地图作者: Koga73 (STEAM_0:0:39320522) 地图汉化: 圣剑@风云社"
     }
 
     "**Gamemode: BHOP**"
     {
-        "chi" "** **"
+        "chi" "连跳"
     }
 
     "**Gamemode: Moon Knife**"
     {
-        "chi" "** **"
+        "chi" "月球刀战"
     }
 
 }

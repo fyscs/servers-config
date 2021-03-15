@@ -7,47 +7,48 @@
 
     "@[MAP] This map does not work with bots..."
     {
-        "chi" "** **"
+        "blocked" "1"
     }
 
     "@[MAP] Map by [SG] Paul"
     {
-        "chi" "** **"
+        "chi" "地图作者: [SG] Paul"
     }
 
     "@[MAP] Steam name = sgpaul"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "作者Steam名: sgpaul"
     }
 
     "@[MAP] twitch.tv/summit1g"
     {
-        "chi" "** **"
+        "blocked" "1"
     }
 
     "@[MAP] twitch.tv/onscreenlol"
     {
-        "chi" "** **"
+        "blocked" "1"
     }
 
     "@[MAP] VAC Island ft. easy skins"
     {
-        "chi" "** **"
+        "blocked" "1"
     }
 
     "@[MAP] twitch.tv/b0aty"
     {
-        "chi" "** **"
+        "blocked" "1"
     }
 
     "@[MAP] twitch.tv/lirik"
     {
-        "chi" "** **"
+        "blocked" "1"
     }
 
     "@[MAP] twitch.tv/joshog"
     {
-        "chi" "** **"
+        "blocked" "1"
     }
 
 }

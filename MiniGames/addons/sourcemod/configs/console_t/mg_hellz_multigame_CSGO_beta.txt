@@ -7,72 +7,76 @@
 
     "Bunny level 1 Off"
     {
-        "chi" "** **"
+        "chi" "第一关落水传送已关闭"
     }
 
     "Bunny level 2 Off"
     {
-        "chi" "** **"
+        "chi" "第二关落水传送已关闭"
     }
 
     "Bunny level 3 Off"
     {
-        "chi" "** **"
+        "chi" "第三关落水传送已关闭"
     }
 
     "Bunny level 4 Off"
     {
-        "chi" "** **"
+        "chi" "第四关落水传送已关闭"
     }
 
     "Bunny level 5 Off"
     {
-        "chi" "** **"
+        "chi" "第五关落水传送已关闭"
     }
 
     "Bunny level 6 Off"
     {
-        "chi" "** **"
+        "chi" "第六关落水传送已关闭"
     }
 
     ">1<"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">1<"
     }
 
     ">2<"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">2<"
     }
 
     ">3<"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">3<"
     }
 
     ">4<"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">4<"
     }
 
     ">5<"
     {
-        "chi" "** **"
+        "chi" "5"
     }
 
     "Go !"
     {
-        "chi" "** **"
+        "chi" "开始!"
     }
 
     "Map by Phoenix"
     {
-        "chi" "** **"
+        "chi" "地图作者: Phoenix 地图汉化: 圣剑@风云社"
     }
 
     "www.zombie-hell.fr"
     {
-        "chi" "** **"
+        "blocked" "1"
     }
 
 }

@@ -7,242 +7,248 @@
 
     "Stand in the BLUE to VOTE for a game!"
     {
-        "chi" "** **"
+        "chi" ">站在蓝色方块上来投票选图!<"
     }
 
     "Voting will start in 10 seconds!"
     {
-        "chi" "** **"
+        "chi" ">10秒钟后开始投票!<"
     }
 
     "5..."
     {
-        "chi" "** **"
+        "chi" "5"
     }
 
     "4..."
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">4...<"
     }
 
     "3..."
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">3...<"
     }
 
     "2..."
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">2...<"
     }
 
     "1..."
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">1...<"
     }
 
     "[VOTE]"
     {
-        "chi" "** **"
+        "chi" "开始投票"
     }
 
     "Map by: nyro"
     {
-        "chi" "** **"
+        "chi" "地图作者: nyro 地图汉化: 圣剑@风云社"
     }
 
     "Feedback & testing: The Lt. Team"
     {
-        "chi" "** **"
+        "chi" "感谢LT.Team对本图的测试与反馈"
     }
 
     "Someone has won! Round ending in 15 seconds..."
     {
-        "chi" "** **"
+        "chi" "有人赢了! 15秒钟后结束回合..."
     }
 
     "[BUNNYHOP]"
     {
-        "chi" "** **"
+        "chi" "连跳"
     }
 
     "[ICESKATE]"
     {
-        "chi" "** **"
+        "chi" "滑冰"
     }
 
     "[SURF]"
     {
-        "chi" "** **"
+        "chi" "滑翔"
     }
 
     "[SLIDE]"
     {
-        "chi" "** **"
+        "chi" "滑道"
     }
 
     "[CLIMB]"
     {
-        "chi" "** **"
+        "chi" "攀登"
     }
 
     "[SCOUT] [LOWGRAV]"
     {
-        "chi" "** **"
+        "chi" "低重力鸟狙"
     }
 
     "[AWP] [DEAGLE]"
     {
-        "chi" "** **"
+        "chi" "AWP与沙鹰"
     }
 
     "[LEVEL TWO]"
     {
-        "chi" "** **"
+        "chi" "第二关"
     }
 
     "[LEVEL THREE]"
     {
-        "chi" "** **"
+        "chi" "第三关"
     }
 
     "[SPHERE]"
     {
-        "chi" "** **"
+        "chi" "SPHERE"
     }
 
     "[LEVEL ONE]"
     {
-        "chi" "** **"
+        "chi" "第一关"
     }
 
     "[LEVEL FOUR]"
     {
-        "chi" "** **"
+        "chi" "第四关"
     }
 
     "[LEVEL FIVE]"
     {
-        "chi" "** **"
+        "chi" "第五关"
     }
 
     "[START]"
     {
-        "chi" "** **"
+        "chi" "开始!"
     }
 
     "Took too long..."
     {
-        "chi" "** **"
+        "chi" "太慢了吧..."
     }
 
     "ZzZzZz..."
     {
-        "chi" "** **"
+        "chi" "要睡着了ZzZ..."
     }
 
     "Vote kick the afk!"
     {
-        "chi" "** **"
+        "chi" "快投票踢出挂机!"
     }
 
     "Draw."
     {
-        "chi" "** **"
+        "chi" "是不是要平局了"
     }
 
     "Boring."
     {
-        "chi" "** **"
+        "chi" "太无聊了"
     }
 
     "lol"
     {
-        "chi" "** **"
+        "chi" "嘻嘻"
     }
 
     "Game Over."
     {
-        "chi" "** **"
+        "chi" "游戏结束"
     }
 
     "Die."
     {
-        "chi" "** **"
+        "chi" "会打CS吗? 要不要教教你."
     }
 
     "..."
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "..."
     }
 
     "You guys suck."
     {
-        "chi" "** **"
+        "chi" "你们也太菜了"
     }
 
     "Herp Derp"
     {
-        "chi" "** **"
+        "chi" "你们是在用脚柄玩CS吗?"
     }
 
     "30 seconds remaining!"
     {
-        "chi" "** **"
+        "chi" "还剩30秒!"
     }
 
     "15 seconds remaining!"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">还剩15秒!<"
     }
 
     "[OBSTACLE]"
     {
-        "chi" "** **"
+        "chi" "地球仪跳绳"
     }
 
     "[NADE]"
     {
-        "chi" "** **"
+        "chi" "手雷"
     }
 
     "[BUY]"
     {
-        "chi" "** **"
+        "chi" "买枪混战"
     }
 
     "[RANDOM]"
     {
-        "chi" "** **"
+        "chi" "随机"
     }
 
     "The last T is in RED!"
     {
-        "chi" "** **"
+        "chi" "最后一个T在红色!"
     }
 
     "The last T is in YELLOW!"
     {
-        "chi" "** **"
+        "chi" "最后一个T在黄色!"
     }
 
     "The last T is in BLUE!"
     {
-        "chi" "** **"
+        "chi" "最后一个T在蓝色!"
     }
 
     "The last CT is in BLUE!"
     {
-        "chi" "** **"
+        "chi" "最后一个CT在蓝色!"
     }
 
     "The last CT is in RED!"
     {
-        "chi" "** **"
+        "chi" "最后一个CT在红色!"
     }
 
     "The last CT is in YELLOW!"
     {
-        "chi" "** **"
+        "chi" "最后一个CT在黄色!"
     }
 
 }

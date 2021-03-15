@@ -7,182 +7,187 @@
 
     "@[Map] TimeLimit"
     {
-        "chi" "** **"
+        "chi" "时间终了"
     }
 
     "@[Map] every man for himself"
     {
-        "chi" "** **"
+        "chi" "所有人各自为战"
     }
 
     "@[Map] Random mod..."
     {
-        "chi" "** **"
+        "chi" "随机模式..."
     }
 
     "@[Mod] BackStab mod"
     {
-        "chi" "** **"
+        "chi" "背刺模式"
     }
 
     "@[Mod] Knife 1HP"
     {
-        "chi" "** **"
+        "chi" "1hp刀战"
     }
 
     "@[Mod] Knife 65HP"
     {
-        "chi" "** **"
+        "chi" "65hp刀战"
     }
 
     "@[Map] Secret room Enable"
     {
-        "chi" "** **"
+        "chi" "彩蛋房已开启"
     }
 
     "@[Map] Secret room Disable"
     {
-        "chi" "** **"
+        "chi" "彩蛋房已关闭"
     }
 
     "@[Map] >Go!<"
     {
-        "chi" "** **"
+        "chi" "冲!"
     }
 
     "@[Map] >1<"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" "1"
     }
 
     "@[Map] >2<"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">2<"
     }
 
     "@[Map] >3<"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">3<"
     }
 
     "@[Map] >4<"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">4<"
     }
 
     "@[Map] >5<"
     {
-        "chi" "** **"
+        "chi" "5"
     }
 
     "@[Map] 30 seconds"
     {
-        "chi" "** **"
+        "chi" "剩余30秒"
     }
 
     "@[Map] 25 Second"
     {
-        "chi" "** **"
+        "blocked" "1"
+        "chi" ">剩余25秒钟<"
     }
 
     "@[Gravity] Low gravity"
     {
-        "chi" "** **"
+        "chi" "[重力] 低重力"
     }
 
     "@[Gravity] Normal gravity"
     {
-        "chi" "** **"
+        "chi" "[重力] 正常重力"
     }
 
     "@[Gravity] High gravity"
     {
-        "chi" "** **"
+        "chi" "[重力] 高重力"
     }
 
     "@[Gravity] Random gravity"
     {
-        "chi" "** **"
+        "chi" "[重力] 随机重力"
     }
 
     "@[Weapon] Awp"
     {
-        "chi" "** **"
+        "chi" "[武器] AWP"
     }
 
     "@[Hp] 200"
     {
-        "chi" "** **"
+        "chi" "200HP"
     }
 
     "@[Weapon] Deagle"
     {
-        "chi" "** **"
+        "chi" "[武器] 沙鹰"
     }
 
     "@[Hp] 150"
     {
-        "chi" "** **"
+        "chi" "150HP"
     }
 
     "@[Weapon] Knife"
     {
-        "chi" "** **"
+        "chi" "[武器] 匕首"
     }
 
     "@[Hp] 250"
     {
-        "chi" "** **"
+        "chi" "250HP"
     }
 
     "@[Weapon] AK-47"
     {
-        "chi" "** **"
+        "chi" "[武器] AK47"
     }
 
     "@[Hp] 500"
     {
-        "chi" "** **"
+        "chi" "500HP"
     }
 
     "@[Weapon] M4A1"
     {
-        "chi" "** **"
+        "chi" "[武器] M4A1"
     }
 
     "@[Hp] 300"
     {
-        "chi" "** **"
+        "chi" "300HP"
     }
 
     "@[Map] Time limit"
     {
-        "chi" "** **"
+        "chi" "时间有限"
     }
 
     "@[Map] CT Win"
     {
-        "chi" "** **"
+        "chi" "CT 胜利"
     }
 
     "@[Map] T Win"
     {
-        "chi" "** **"
+        "chi" "T 胜利"
     }
 
     "@[Map] RandomGame..."
     {
-        "chi" "** **"
+        "chi" "随机小游戏"
     }
 
     "@ TimeLimit!"
     {
-        "chi" "** **"
+        "chi" "时间终了!"
     }
 
     "@[Map] 30 seconds slay"
     {
-        "chi" "** **"
+        "chi" "30秒后处死"
     }
 
 }
