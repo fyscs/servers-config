@@ -7,87 +7,87 @@
 
     "==The map start in 5sec=="
     {
-        "chi" "** **"
+        "chi" "==地图将在5秒钟后开始=="
     }
 
     "==One grenade every 5 sec=="
     {
-        "chi" "** **"
+        "chi" "==每5秒钟获得一颗手雷=="
     }
 
     "==Bridge active in 20 secs=="
     {
-        "chi" "** **"
+        "chi" "==大桥将在20秒钟后开启=="
     }
 
     "==Regen and nade disable in 20secs=="
     {
-        "chi" "** **"
+        "chi" "==20秒钟后停止发放手雷=="
     }
 
     "== 3 =="
     {
-        "chi" "** **"
+        "chi" "== 3 =="
     }
 
     "== 2 =="
     {
-        "chi" "** **"
+        "chi" "== 2 =="
     }
 
     "== 1 =="
     {
-        "chi" "** **"
+        "chi" "== 1 =="
     }
 
     "== Go =="
     {
-        "chi" "** **"
+        "chi" "== 开始 =="
     }
 
     "@[Map] 3 minutes remaining"
     {
-        "chi" "** **"
+        "chi" "剩余3分钟"
     }
 
     "@[Map] 2 minutes remaining"
     {
-        "chi" "** **"
+        "chi" "剩余2分钟"
     }
 
     "@[Map] 1 minute remaining"
     {
-        "chi" "** **"
+        "chi" "剩余1分钟"
     }
 
     "== T WIN =="
     {
-        "chi" "** **"
+        "chi" "== T 胜利 =="
     }
 
     "== CT WIN=="
     {
-        "chi" "** **"
+        "chi" "== CT 胜利 =="
     }
 
     ".-*-. KNIFE PARTY .-*-."
     {
-        "chi" "** **"
+        "chi" ".-*-. 匕首派对 .-*-."
     }
 
     "[AFK TIMER] 30 secs"
     {
-        "chi" "** **"
+        "chi" "30秒钟后自动选图"
     }
 
     "[AFK TIMER] 10 secs"
     {
-        "chi" "** **"
+        "chi" "10秒钟后自动选图"
     }
 
     "[AFK TIMER] AUTO-SELECT"
     {
-        "chi" "** **"
+        "chi" "正在自动选图"
     }
 
 }
