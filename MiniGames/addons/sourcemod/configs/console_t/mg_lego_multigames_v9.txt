@@ -7,182 +7,187 @@
 
     "@[Map] TimeLimit"
     {
-        "chi" ">时间有限<"
+        "chi" "时间终了"
     }
 
     "@[Map] every man for himself"
     {
-        "chi" ">所有人各自为战<"
+        "chi" "所有人各自为战"
     }
 
     "@[Map] Random mod..."
     {
-        "chi" ">>随机模式...<<"
+        "chi" "随机模式..."
     }
 
     "@[Mod] BackStab mod"
     {
-        "chi" ">背刺模式<"
+        "chi" "背刺模式"
     }
 
     "@[Mod] Knife 1HP"
     {
-        "chi" ">>1hp刀战<<"
+        "chi" "1hp刀战"
     }
 
     "@[Mod] Knife 65HP"
     {
-        "chi" ">>65hp刀战<<"
+        "chi" "65hp刀战"
     }
 
     "@[Map] Secret room Enable"
     {
-        "chi" ">彩蛋房已开启<"
+        "chi" "彩蛋房已开启"
     }
 
     "@[Map] Secret room Disable"
     {
-        "chi" ">彩蛋房已关闭<"
+        "chi" "彩蛋房已关闭"
     }
 
     "@[Map] >Go!<"
     {
-        "chi" ">冲!<"
+        "chi" "冲!"
     }
 
     "@[Map] >1<"
     {
-        "chi" ">1<"
+        "blocked" "1"
+        "chi" "1"
     }
 
     "@[Map] >2<"
     {
+        "blocked" "1"
         "chi" ">2<"
     }
 
     "@[Map] >3<"
     {
+        "blocked" "1"
         "chi" ">3<"
     }
 
     "@[Map] >4<"
     {
+        "blocked" "1"
         "chi" ">4<"
     }
 
     "@[Map] >5<"
     {
-        "chi" ">5<"
+        "chi" "5"
     }
 
     "@[Map] 30 seconds"
     {
-        "chi" ">剩余30秒钟<"
+        "chi" "剩余30秒"
     }
 
     "@[Map] 25 Second"
     {
+        "blocked" "1"
         "chi" ">剩余25秒钟<"
     }
 
     "@[Gravity] Low gravity"
     {
-        "chi" ">[重力] 低重力<"
+        "chi" "[重力] 低重力"
     }
 
     "@[Gravity] Normal gravity"
     {
-        "chi" ">[重力] 正常重力<"
+        "chi" "[重力] 正常重力"
     }
 
     "@[Gravity] High gravity"
     {
-        "chi" ">[重力] 高重力<"
+        "chi" "[重力] 高重力"
     }
 
     "@[Gravity] Random gravity"
     {
-        "chi" ">[重力] 随机重力<"
+        "chi" "[重力] 随机重力"
     }
 
     "@[Weapon] Awp"
     {
-        "chi" ">[武器] AWP<"
+        "chi" "[武器] AWP"
     }
 
     "@[Hp] 200"
     {
-        "chi" ">[Hp] 200血<"
+        "chi" "200HP"
     }
 
     "@[Weapon] Deagle"
     {
-        "chi" ">[武器] 沙鹰<"
+        "chi" "[武器] 沙鹰"
     }
 
     "@[Hp] 150"
     {
-        "chi" ">[Hp] 150血<"
+        "chi" "150HP"
     }
 
     "@[Weapon] Knife"
     {
-        "chi" ">[武器] 匕首<"
+        "chi" "[武器] 匕首"
     }
 
     "@[Hp] 250"
     {
-        "chi" ">[Hp] 250血<"
+        "chi" "250HP"
     }
 
     "@[Weapon] AK-47"
     {
-        "chi" ">[武器] AK47<"
+        "chi" "[武器] AK47"
     }
 
     "@[Hp] 500"
     {
-        "chi" ">[Hp] 500血<"
+        "chi" "500HP"
     }
 
     "@[Weapon] M4A1"
     {
-        "chi" ">[武器] M4A1<"
+        "chi" "[武器] M4A1"
     }
 
     "@[Hp] 300"
     {
-        "chi" ">[Hp] 300血<"
+        "chi" "300HP"
     }
 
     "@[Map] Time limit"
     {
-        "chi" ">时间有限<"
+        "chi" "时间有限"
     }
 
     "@[Map] CT Win"
     {
-        "chi" ">CT 胜利<"
+        "chi" "CT 胜利"
     }
 
     "@[Map] T Win"
     {
-        "chi" ">T 胜利<"
+        "chi" "T 胜利"
     }
 
     "@[Map] RandomGame..."
     {
-        "chi" ">>随机小游戏<<"
+        "chi" "随机小游戏"
     }
 
     "@ TimeLimit!"
     {
-        "chi" ">时间有限!<"
+        "chi" "时间终了!"
     }
 
     "@[Map] 30 seconds slay"
     {
-        "chi" ">30秒钟后处死<"
+        "chi" "30秒后处死"
     }
 
 }

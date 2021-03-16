@@ -12,126 +12,134 @@
 
     "**Remake by FreeDOM**"
     {
-        "chi" ">地图重置: FreeDOM<"
+        "chi" "地图重置: FreeDOM"
     }
 
     "For StrikeArena.ru"
     {
-        "blocked" "** **"
+        "blocked" "1"
     }
 
     "<<<ROUND = Breakwall>>>"
     {
-        "chi" ">>破壁<<"
+        "chi" "破壁"
     }
 
     "<<<ROUND = Boom Headshot!>>>"
     {
-        "chi" ">>爆头<<"
+        "chi" "爆头"
     }
 
     "<<<ROUND = Conveyers!>>>"
     {
-        "chi" ">>加速板刀战<<"
+        "chi" "加速板刀战"
     }
 
     "<<<ROUND = Shank you in the back blad!>>>"
     {
-        "chi" ">>刀战(背刺)<<"
+        "chi" "刀战(背刺)"
     }
 
     "Health Regen has been turned off!"
     {
-        "chi" ">回血已关闭<"
+        "chi" "回血已关闭"
     }
 
     "<<<ROUND = Iceskate!>>>"
     {
-        "chi" ">>滑冰<<"
+        "chi" "滑冰"
     }
 
     "AFK Killer Active!"
     {
-        "chi" ">挂机玩家已处死<"
+        "chi" "挂机玩家已处死"
     }
 
     "AFK Spawn killer active in 10 seconds!"
     {
-        "chi" ">10秒钟后处死出生点玩家<"
+        "chi" "10秒钟后处死出生点玩家"
     }
 
     "<<<ROUND = High speed round! + 300hp>>>"
     {
-        "chi" ">>高移速+300hp对枪<<"
+        "chi" "高移速+300hp对枪"
     }
 
     "<<<ROUND = Scoutsknives round!>>>"
     {
-        "chi" ">>鸟狙<<"
+        "chi" "鸟狙"
     }
 
     "<<<ROUND = HE Grenade round!>>>"
     {
-        "chi" ">>手雷<<"
+        "chi" "手雷"
     }
 
     "<<<ROUND = Wall Illusion round!>>>"
     {
-        "chi" ">>幻觉墙<<"
+        "chi" "幻觉墙"
     }
 
     "<<<ROUND = Jumper round!>>>"
     {
-        "chi" ">>跳绳<<"
+        "chi" "跳绳"
     }
 
     "You have 9 seconds to get onto the circle platform!"
     {
-        "chi" ">你还有9秒钟的时间去站在中间的平台上<"
+        "chi" "你还有9秒钟的时间去站在中间的平台上"
     }
 
     "You have 5 seconds to get onto the circle platform!"
     {
-        "chi" ">你还有5秒钟的时间去站在中间的平台上<"
+        "blocked" "1"
+        "chi" "你还有5秒钟的时间去站在中间的平台上"
     }
 
     "You have 4 seconds to get onto the circle platform!"
     {
-        "chi" ">你还有4秒钟的时间去站在中间的平台上<"
+        "blocked" "1"
+        "chi" "你还有4秒钟的时间去站在中间的平台上"
     }
 
     "You have 3 seconds to get onto the circle platform!"
     {
+        "blocked" "1"
         "chi" ">你还有3秒钟的时间去站在中间的平台上<"
     }
 
     "You have 2 seconds to get onto the circle platform!"
     {
+        "blocked" "1"
         "chi" ">你还有2秒钟的时间去站在中间的平台上<"
     }
 
     "You have 1 second to get onto the circle platform!"
     {
+        "blocked" "1"
         "chi" ">你还有1秒钟的时间去站在中间的平台上<"
     }
 
     "<<<Start!>>>"
     {
-        "chi" ">开始!<"
+        "chi" "冲"
     }
 
     "<<<4>>>"
     {
+        "blocked" "1"
         "chi" "4"
     }
 
     "<<<3>>>"
     {
+        "blocked" "1"
         "chi" "3"
     }
 
     "<<<2>>>"
     {
+        "blocked" "1"
         "chi" "2"
     }
 
@@ -142,6 +150,7 @@
 
     "<<<1>>>"
     {
+        "blocked" "1"
         "chi" "1"
     }
 
@@ -157,7 +166,7 @@
 
     "<<<ROUND = Spotlight Round!>>>"
     {
-        "chi" ">>小黑屋<<"
+        "chi" "小黑屋"
     }
 
     "You have taken too long! Lights on!"
@@ -172,37 +181,37 @@
 
     "<<<ROUND = Dodgeball Round!>>>"
     {
-        "chi" ">>躲避球<<"
+        "chi" "躲避球"
     }
 
     "Knife it out!"
     {
-        "chi" ">用刀决一胜负!<"
+        "chi" "用刀决一胜负!"
     }
 
     "<<<ROUND = Shotgun Round!>>>"
     {
-        "chi" ">霰弹枪回合<"
+        "chi" "霰弹枪回合"
     }
 
     "<<<ROUND = Moving Doors Round!>>>"
     {
-        "chi" ">>刀战(上下移动平台)<<"
+        "chi" "刀战(上下移动平台)"
     }
 
     "<<<ROUND = Smoke War Round!>>>"
     {
-        "chi" ">>烟雾弹大战<<"
+        "chi" "烟雾弹大战"
     }
 
     "<<<ROUND = Musical Holes Round!>>>"
     {
-        "chi" ">>音乐洞<<"
+        "chi" "音乐洞"
     }
 
     "1 of 2 unseen maps from mg_Pauls_Multigames"
     {
-        "chi" ">>来自mg_Pauls_Multigames的地图其一<<"
+        "chi" "来自mg_Pauls_Multigames的地图其一"
     }
 
 }

@@ -7,57 +7,67 @@
 
     "Game starting in 10"
     {
-        "chi" ">10秒钟后游戏开始<"
+        "chi" "10"
     }
 
     "Game starting in 9"
     {
-        "chi" ">9秒钟后游戏开始<"
+        "blocked" "1"
+        "chi" "9秒钟后游戏开始"
     }
 
     "Game starting in 8"
     {
-        "chi" ">8秒钟后游戏开始<"
+        "blocked" "1"
+        "chi" "8秒钟后游戏开始"
     }
 
     "Game starting in 7"
     {
-        "chi" ">7秒钟后游戏开始<"
+        "blocked" "1"
+        "chi" "7秒钟后游戏开始"
     }
 
     "Game starting in 6"
     {
-        "chi" ">6秒钟后游戏开始<"
+        "blocked" "1"
+        "chi" "6秒钟后游戏开始"
     }
 
     "Game starting in 5"
     {
-        "chi" ">5秒钟后游戏开始<"
+        "blocked" "1"
+        "chi" "5秒钟后游戏开始"
     }
 
     "Game starting in 4"
     {
-        "chi" ">4秒钟后游戏开始<"
+        "blocked" "1"
+        "chi" "4秒钟后游戏开始"
     }
 
     "Game starting in 3"
     {
-        "chi" ">3秒钟后游戏开始<"
+        "blocked" "1"
+        "chi" "3秒钟后游戏开始"
     }
 
     "Game starting in 2"
     {
-        "chi" ">2秒钟后游戏开始<"
+        "blocked" "1"
+        "chi" "2秒钟后游戏开始"
     }
 
     "Game starting in 1"
     {
-        "chi" ">1秒钟后游戏开始<"
+        "blocked" "1"
+        "chi" "1秒钟后游戏开始"
     }
 
     "Game Started"
     {
-        "chi" ">游戏正式开始<"
+        "blocked" "1"
+        "chi" "游戏正式开始"
     }
 
 }

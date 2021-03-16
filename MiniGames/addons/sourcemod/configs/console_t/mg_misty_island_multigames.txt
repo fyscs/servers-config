@@ -7,117 +7,118 @@
 
     "[Terrorists won! Everyone will be teleported in 5 seconds...]"
     {
-        "chi" "[T阵营胜利! 5秒钟后所有人都将被传送...]"
+        "chi" "T阵营胜利! 5秒钟后所有人都将被传送..."
     }
 
     "[Counter Terrorists won! Everyone will be teleported in 5 seconds...]"
     {
-        "chi" "[CT阵营胜利! 5秒钟后所有人都将被传送...]"
+        "chi" "CT阵营胜利! 5秒钟后所有人都将被传送..."
     }
 
     "[SURF]"
     {
-        "chi" "[滑翔]"
+        "chi" "滑翔"
     }
 
     "[CLIMB]"
     {
-        "chi" "[攀登]"
+        "chi" "攀登"
     }
 
     "[RACE]"
     {
-        "chi" "[竞速]"
+        "chi" "竞速"
     }
 
     "[BHOP]"
     {
-        "chi" "[连跳]"
+        "chi" "连跳"
     }
 
     "[AK]"
     {
-        "chi" "[AK]"
+        "chi" "AK"
     }
 
     "[DEAGLE]"
     {
-        "chi" "[沙鹰]"
+        "chi" "沙鹰"
     }
 
     "[AWP]"
     {
-        "chi" "[AWP]"
+        "chi" "AWP"
     }
 
     "[KNIFE -> 35HP]"
     {
-        "chi" "[35HP刀战]"
+        "chi" "35HP刀战"
     }
 
     "[KNIFE -> 100HP]"
     {
-        "chi" "[100HP刀战]"
+        "chi" "100HP刀战"
     }
 
     "[COOP RACE]"
     {
-        "chi" "[合作竞速]"
+        "chi" "合作竞速"
     }
 
     "[DROP BALL]"
     {
-        "chi" "[扔球]"
+        "chi" "扔球"
     }
 
     "[30 seconds remaining]"
     {
-        "chi" "[剩余时间30秒]"
+        "blocked" "1"
+        "chi" "剩余时间30秒"
     }
 
     "[60 seconds remaining]"
     {
-        "chi" "[剩余时间60秒]"
+        "chi" "剩余时间60秒"
     }
 
     "[You have 90 seconds]"
     {
-        "chi" "[你还有90秒的时间]"
+        "chi" "你还有90秒的时间"
     }
 
     "[RISING RAMBLE]"
     {
-        "chi" "[空中漫步]"
+        "chi" "空中漫步"
     }
 
     "[Respawn disabled]"
     {
-        "chi" "[重生已关闭]"
+        "chi" "重生已关闭"
     }
 
     "[Each team must press the other team s button]"
     {
-        "chi" "[按下对面家楼顶的按钮即可获得胜利!]"
+        "chi" "按下对面家楼顶的按钮即可获得胜利!"
     }
 
     "[Deadly Insertion]"
     {
-        "chi" "[致命接触]"
+        "chi" "致命接触"
     }
 
     "[CROUCH & JUMP]"
     {
-        "chi" "[蹲和跳]"
+        "chi" "蹲和跳"
     }
 
     "[SPEED RACE]"
     {
-        "chi" "[速跑竞赛]"
+        "chi" "速跑竞赛"
     }
 
     "[Someone ended! Everyone will be teleported in 15 seconds...]"
     {
-        "chi" "[有人抵达了终点! 所有人将会在15秒后传送...]"
+        "chi" "有人抵达了终点! 所有人将会在15秒后传送..."
     }
 
     "[10 seconds remaining]"
@@ -132,27 +133,29 @@
 
     "[1]"
     {
+        "blocked" "1"
         "chi" "[1]"
     }
 
     "[2]"
     {
+        "blocked" "1"
         "chi" "[2]"
     }
 
     "[3]"
     {
-        "chi" "[3]"
+        "chi" "3"
     }
 
     "[Time's up]"
     {
-        "chi" "[时间到!]"
+        "chi" "时间到!"
     }
 
     "[20 seconds remaining]"
     {
-        "chi" "[还剩20秒]"
+        "chi" "还剩20秒"
     }
 
     "[Music : Vexento - Never Letting Go]"
@@ -192,22 +195,22 @@
 
     "[Counter Terrorists ended! Everyone will be teleported in 15 seconds...]"
     {
-        "chi" "[CT抵达终点! 所有人将会在15秒后传送...]"
+        "chi" "CT抵达终点! 所有人将会在15秒后传送..."
     }
 
     "[Terrorists ended! Everyone will be teleported in 15 seconds...]"
     {
-        "chi" "[T抵达终点! 所有人将会在15秒后传送...]"
+        "chi" "T抵达终点! 所有人将会在15秒后传送..."
     }
 
     "30 seconds remaining!"
     {
-        "chi" "[还剩30秒!]"
+        "chi" "还剩30秒!"
     }
 
     "15 seconds remaining!"
     {
-        "chi" "[还剩15秒]"
+        "chi" "还剩15秒"
     }
 
     "5..."
@@ -217,32 +220,36 @@
 
     "4..."
     {
+        "blocked" "1"
         "chi" "4"
     }
 
     "3..."
     {
+        "blocked" "1"
         "chi" "3"
     }
 
     "2..."
     {
+        "blocked" "1"
         "chi" "2"
     }
 
     "1..."
     {
+        "blocked" "1"
         "chi" "1"
     }
 
     "Time's up"
     {
-        "chi" "[时间到!]"
+        "chi" "时间到!"
     }
 
     "[Map by Laiken]"
     {
-        "chi" "[地图作者: Laiken 地图汉化: 圣剑@风云社]"
+        "chi" "地图作者: Laiken 地图汉化: 圣剑@风云社"
     }
 
 }

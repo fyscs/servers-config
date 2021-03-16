@@ -42,37 +42,37 @@
 
     "**YOU'VE CHOSEN SLIDERACE (HARD)**"
     {
-        "chi" "你已选择: 滑道竞速(困难)"
+        "chi" "滑道竞速(困难)"
     }
 
     "**YOU'VE CHOSEN SLIDERACE (EASY)**"
     {
-        "chi" "你已选择: 滑道竞速(简单)"
+        "chi" "滑道竞速(简单)"
     }
 
     "**YOU'VE CHOSEN HEADSHOT (DEAGLE)**"
     {
-        "chi" "你已选择: 爆头模式(沙鹰)"
+        "chi" "爆头模式(沙鹰)"
     }
 
     "**YOU'VE CHOSEN HEADSHOT (AUTOSNIPERS)**"
     {
-        "chi" "你已选择: 爆头模式(连狙)"
+        "chi" "爆头模式(连狙)"
     }
 
     "**YOU'VE CHOSEN SPEEDFIGHT**"
     {
-        "chi" "你已选择: 高速乱斗"
+        "chi" "高速乱斗"
     }
 
     "**YOU'VE CHOSEN FUN**"
     {
-        "chi" "你已选择: 快乐"
+        "chi" "快乐"
     }
 
     "**YOU'VE CHOSEN RANDOM**"
     {
-        "chi" "你已选择: 随机"
+        "chi" "随机"
     }
 
     "**MAP IS NOW SELECTING A MINIGAME**"
@@ -82,22 +82,22 @@
 
     "**YOU'VE CHOSEN BHOP**"
     {
-        "chi" "你已选择: 连跳"
+        "chi" "连跳"
     }
 
     "**YOU'VE CHOSEN KNIFE (SLOW)**"
     {
-        "chi" "你已选择: 龟速刀战"
+        "chi" "龟速刀战"
     }
 
     "**YOU'VE CHOSEN KNIFE (NORMAL)**"
     {
-        "chi" "你已选择: 刀战"
+        "chi" "刀战"
     }
 
     "**YOU'VE CHOSEN KNIFE (FAST)**"
     {
-        "chi" "你已选择: 飞速刀战"
+        "chi" "飞速刀战"
     }
 
     "**START**"
@@ -107,11 +107,13 @@
 
     "**1**"
     {
+        "blocked" "1"
         "chi" "1"
     }
 
     "**2**"
     {
+        "blocked" "1"
         "chi" "2"
     }
 
@@ -122,47 +124,47 @@
 
     "**YOU'VE CHOSEN CLIMB*"
     {
-        "chi" "你已选择: 攀登"
+        "chi" "攀登"
     }
 
     "**YOU'VE CHOSEN ICESKATE**"
     {
-        "chi" "你已选择: 滑冰"
+        "chi" "滑冰"
     }
 
     "**YOU'VE CHOSEN GRENADES**"
     {
-        "chi" "你已选择: 手雷"
+        "chi" "手雷"
     }
 
     "**YOU'VE CHOSEN PUSHCIRCLE**"
     {
-        "chi" "你已选择: 环形加速道"
+        "chi" "环形加速道"
     }
 
     "**YOU'VE CHOSEN LONGJUMP**"
     {
-        "chi" "你已选择: 长跳"
+        "chi" "长跳"
     }
 
     "**YOU'VE CHOSEN STRAFE**"
     {
-        "chi" "你已选择: 见缝插针"
+        "chi" "见缝插针"
     }
 
     "**YOU'VE CHOSEN ARENA (AWP)**"
     {
-        "chi" "你已选择: 竞技场(AWP)"
+        "chi" "竞技场(AWP)"
     }
 
     "**YOU'VE CHOSEN ARENA (AUTO)**"
     {
-        "chi" "你已选择: 竞技场(连狙)"
+        "chi" "竞技场(连狙)"
     }
 
     "**YOU'VE CHOSEN ARENA (SCOUT)**"
     {
-        "chi" "你已选择: 竞技场(鸟狙)"
+        "chi" "竞技场(鸟狙)"
     }
 
     "**RANDOM WILL BE CHOSEN**"

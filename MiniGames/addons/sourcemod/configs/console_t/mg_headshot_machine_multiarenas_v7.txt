@@ -27,11 +27,13 @@
 
     "* 1 *"
     {
+        "blocked" "1"
         "chi" "1"
     }
 
     "* 2 *"
     {
+        "blocked" "1"
         "chi" "2"
     }
 
@@ -47,7 +49,7 @@
 
     "***> Fight! <***"
     {
-        "chi" "> 开战! <"
+        "chi" "冲!"
     }
 
     "*** Infinite Ammo ***"
@@ -72,21 +74,23 @@
 
     "*> Map made by Dus?K <*"
     {
-        "chi" "> 地图作者: Dus>K 地图汉化: 圣剑@风云社 <"
+        "chi" "地图作者: Dus>K 地图汉化: 圣剑@风云社"
     }
 
     "*> Map helped by Nande? Ka[X]de! <*"
     {
-        "chi" "> 地图由: Nande? Ka[X]de 协助完成! < "
+        "chi" "地图由: Nande? Ka[X]de 协助完成!"
     }
 
     "*> Map Version : 7 <*"
     {
+        "blocked" "1"
         "chi" "> 地图版本: 7 <"
     }
 
     "*> Map tested by Revenant Server MG Users <*"
     {
+        "blocked" "1"
         "chi" "> 地图由: Revenant服务器MG玩家 测试 <"
     }
 

@@ -7,22 +7,22 @@
 
     "*Knife Equipped*"
     {
-        "chi" ">匕首已发放<"
+        "chi" "匕首已发放"
     }
 
     "*Knife Equipped in 10 sec*"
     {
-        "chi" ">10秒钟后发放匕首<"
+        "chi" "10秒钟后发放匕首"
     }
 
     "*Wall Breaking*"
     {
-        "chi" ">墙壁已消失<"
+        "chi" "墙壁已消失"
     }
 
     "*Wall Breaking in 10 sec*"
     {
-        "chi" ">10秒钟后墙壁碎裂<"
+        "chi" "10秒钟后墙壁碎裂"
     }
 
     "*3*"
@@ -32,57 +32,59 @@
 
     "*2*"
     {
+        "blocked" "1"
         "chi" "2"
     }
 
     "*1*"
     {
+        "blocked" "1"
         "chi" "1"
     }
 
     "*Fight!*"
     {
-        "chi" ">开战!<"
+        "chi" "开战!"
     }
 
     "*Ground Breaking in 10 sec*"
     {
-        "chi" ">地板在10秒钟后碎裂<"
+        "chi" "地板在10秒钟后碎裂"
     }
 
     "*Ground Breaking*"
     {
-        "chi" ">地板已消失<"
+        "chi" "地板已消失"
     }
 
     "[WEAPON] AWP"
     {
-        "chi" ">[武器] AWP<"
+        "chi" "AWP"
     }
 
     "[WEAPON] AWP&Tec-9"
     {
-        "chi" ">[武器] AWP&Tec9<"
+        "chi" "AWP&Tec9"
     }
 
     "[WEAPON] AWP&Tec-9&Knife"
     {
-        "chi" ">[武器] AWP&Tec9&匕首<"
+        "chi" "AWP&Tec9&匕首"
     }
 
     "*Select Position in 20 sec*"
     {
-        "chi" ">在20秒内选择你的点位<"
+        "chi" "在20秒内选择你的点位"
     }
 
     "*Outside Position Killer in 5 sec*"
     {
-        "chi" ">未选点的玩家将会在5秒钟后处死<"
+        "chi" "未选点的玩家将会在5秒钟后处死"
     }
 
     "*Outside Position Killer On*"
     {
-        "chi" ">未选点玩家已处死<"
+        "chi" "未选点玩家已处死"
     }
 
     "*10*"
@@ -92,107 +94,113 @@
 
     "*9*"
     {
+        "blocked" "1"
         "chi" "9"
     }
 
     "*8*"
     {
+        "blocked" "1"
         "chi" "8"
     }
 
     "*7*"
     {
+        "blocked" "1"
         "chi" "7"
     }
 
     "*6*"
     {
+        "blocked" "1"
         "chi" "6"
     }
 
     "*5*"
     {
+        "blocked" "1"
         "chi" "5"
     }
 
     "*4*"
     {
+        "blocked" "1"
         "chi" "4"
     }
 
     "*...*"
     {
-        "chi" ">...<"
+        "chi" "..."
     }
 
     "[GAME] 200 IQ Hegrenade"
     {
-        "chi" ">>200IQ手雷<<"
+        "chi" "200IQ手雷"
     }
 
     "[WEAPON] Hegrenade"
     {
-        "chi" ">[武器] 高爆手雷<"
+        "chi" "高爆手雷"
     }
 
     "[GAME] King of Reddit"
     {
-        "chi" ">>Reddit之王<<"
+        "chi" "Reddit之王"
     }
 
     "[FEAT] Shroud"
     {
-        "chi" ">** **<"
+        "chi" "Shroud"
     }
 
     "[GAME] 1vs1 Knife"
     {
-        "chi" ">>1v1刀战<<"
+        "chi" "1v1刀战"
     }
 
     "[WEAPON] Knife"
     {
-        "chi" ">[武器] 匕首<"
+        "chi" "匕首"
     }
 
     "[GAME] My Friends"
     {
-        "chi" ">>My Friends<<"
+        "chi" "My Friends"
     }
 
     "[FEAT] pashaBiceps"
     {
-        "chi" "** **"
+        "chi" "pashaBiceps"
     }
 
     "[WEAPON] Dual Berettas"
     {
-        "chi" ">[武器] 双持贝瑞塔<"
+        "chi" "双持贝瑞塔"
     }
 
     "[GAME] Pasha London School"
     {
-        "chi" ">>Pasha London School<<"
+        "chi" "Pasha London School"
     }
 
     "[FEAT] Snax"
     {
-        "chi" "** **"
+        "chi" "Snax"
     }
 
     "[WEAPON] MAG-7"
     {
-        "chi" ">[武器] MAG-7<"
+        "chi" "MAG-7"
     }
 
     "[GAME] Rush B"
     {
-        "chi" ">>RUSH B!<<"
+        "chi" "RUSH B!"
     }
 
     "[WEAPON] CT:USP-S & T:Glock-18"
     {
-        "chi" ">[武器] CT:USP & T:Glock<"
+        "chi" "CT:USP & T:Glock"
     }
 
     "[MUSIC] SLAV KING - Boris vs. DJ Blyatman"
@@ -202,67 +210,67 @@
 
     "[GAME] Smoke Criminal"
     {
-        "chi" ">>Smoke Criminal<<"
+        "chi" "Smoke Criminal"
     }
 
     "[FEAT] Stewie2K"
     {
-        "chi" "** **"
+        "chi" "Stewie2K"
     }
 
     "[WEAPON] Smoke & Taser"
     {
-        "chi" ">[武器] 烟雾弹与电击枪<"
+        "chi" "烟雾弹与电击枪"
     }
 
     "[GAME] Spawn Fight"
     {
-        "chi" ">>出生点乱斗<<"
+        "chi" "出生点乱斗"
     }
 
     "[FEAT] freakazoid"
     {
-        "chi" "** **"
+        "chi" "freakazoid"
     }
 
     "[WEAPON] All Weapon Randomizer"
     {
-        "chi" ">全随机武器<"
+        "chi" "全随机武器"
     }
 
     "[GAME] Undertaker"
     {
-        "chi" ">>Undertaker<<"
+        "chi" "Undertaker"
     }
 
     "[FEAT] S1mple"
     {
-        "chi" "** **"
+        "chi" "S1mple"
     }
 
     "[GAME] Word.exe"
     {
-        "chi" ">>Word.exe<<"
+        "chi" "Word.exe"
     }
 
     "[FEAT] mOE"
     {
-        "chi" "** **"
+        "chi" "mOE"
     }
 
     "[WEAPON] M4A4"
     {
-        "chi" ">[武器] M4A4<"
+        "chi" "M4A4"
     }
 
     "[GAME] All Weapon Randomizer Fight"
     {
-        "chi" ">>全武器随机乱斗<<"
+        "chi" "全武器随机乱斗"
     }
 
     "[FEAT] jasonR"
     {
-        "chi" "** **"
+        "chi" "jasonR"
     }
 
     "[MUSIC] Ween - Ocean Man"
@@ -272,27 +280,27 @@
 
     "[GAME] Boostmeister"
     {
-        "chi" ">>Boostmeister<<"
+        "chi" "Boostmeister"
     }
 
     "[FEAT] olofmeister"
     {
-        "chi" "** **"
+        "chi" "olofmeister"
     }
 
     "[WEAPON] SSG 08"
     {
-        "chi" ">[武器] SSG 08<"
+        "chi" "SSG 08"
     }
 
     "[GAME] BunnyHop"
     {
-        "chi" ">>连跳<<"
+        "chi" "连跳"
     }
 
     "[WEAPON] USP-S"
     {
-        "chi" ">[武器] USP<"
+        "chi" "USP"
     }
 
     "[MUSIC] La Caution - The a la Menthe (Instrumental)"
@@ -302,42 +310,42 @@
 
     "[GAME] Coldzera Style"
     {
-        "chi" ">>Coldzera Style<<"
+        "chi" "Coldzera Style"
     }
 
     "[WEAPON] CT:AWP & T:Glock-18"
     {
-        "chi" ">[武器] CT:AWP & T:Glock<"
+        "chi" "CT:AWP & T:Glock"
     }
 
     "[GAME] Dinked"
     {
-        "chi" ">>迪狗<<"
+        "chi" "迪狗"
     }
 
     "[FEAT] NiKo"
     {
-        "chi" "** **"
+        "chi" "NiKo"
     }
 
     "[WEAPON] Desert Eagle"
     {
-        "chi" ">[武器] 沙鹰<"
+        "chi" "沙鹰"
     }
 
     "[GAME] EDShot Machine"
     {
-        "chi" ">>EDShot Machine<<"
+        "chi" "EDShot Machine"
     }
 
     "[FEAT] ScreaM"
     {
-        "chi" "** **"
+        "chi" "ScreaM"
     }
 
     "[WEAPON] AK-47"
     {
-        "chi" ">[武器] AK47<"
+        "chi" "AK47"
     }
 
     "[MUSIC] EDShot Machine (feat. Thorin)"
@@ -387,27 +395,28 @@
 
     "[MAP] mg_Skilled_or_Lucky_Multigames"
     {
-        "chi" ">mg_Skilled_or_Lucky_Multigames<"
+        "chi" "mg_Skilled_or_Lucky_Multigames"
     }
 
     "[MAP] Made by Dus?K"
     {
-        "chi" ">地图作者: Dus?K<"
+        "chi" "地图作者: Dus?K"
     }
 
     "[SERVER] Revenant Server MiniGame"
     {
-        "blocked" "** **"
+        "blocked" "1"
     }
 
     "[GROUP] makesMGgreatAgain"
     {
-        "chi" ">作者的组: makesMGgreatAgain<"
+        "blocked" "1"
+        "chi" "作者的组: makesMGgreatAgain"
     }
 
     "[AFK] Vote Randomizer 1min"
     {
-        "chi" ">1分钟后自动选图<"
+        "chi" "1分钟后自动选图"
     }
 
 }
