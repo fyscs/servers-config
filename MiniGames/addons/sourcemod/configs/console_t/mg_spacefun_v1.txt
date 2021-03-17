@@ -1,0 +1,118 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "85 seconds to choose a game. "
+    {
+        "chi" "85秒钟之内选择一个游戏"
+    }
+
+    "Random choose in 85 seconds."
+    {
+        "chi" "随机选图在85秒钟后"
+    }
+
+    "Random Game Activated."
+    {
+        "chi" "正在随机选图"
+    }
+
+    "Game: AWP + knife: Gravity Low Fight."
+    {
+        "chi" "低重力AWP"
+    }
+
+    "Game: AWP + knife: Super Mario World"
+    {
+        "chi" "AWP:超级马里奥世界"
+    }
+
+    "Game: Headshot Only: AWP"
+    {
+        "chi" "爆头模式:AWP"
+    }
+
+    "Game: Headshot Only: Deagle "
+    {
+        "chi" "爆头模式: 沙鹰"
+    }
+
+    "Game: Only Knife, normal mode, Speed x3, Gravity -80%, "
+    {
+        "chi" "刀战 20%重力+3倍速度"
+    }
+
+    "Game: Only Knife, Speed x3, Gravity -80%, only stab in the back."
+    {
+        "chi" "刀战,背刺模式 20%重力+3倍速度"
+    }
+
+    "Game: Only Headshot Scout, Speed x2, Gravity -50%"
+    {
+        "chi" "爆头模式: 鸟狙 50%重力+2倍速度"
+    }
+
+    "Game: Only Headshot AWP, Speed x2, Gravity -50%"
+    {
+        "chi" "爆头模式: AWP 50%重力+2倍速度"
+    }
+
+    "Game: ThrowingSmoke: Hit 12 targets with a smokegrenade."
+    {
+        "chi" "NadeKing 用烟雾弹击中12个目标"
+    }
+
+    "Game: ThrowingSmoke: Hit 6 targets with a smokegrenade."
+    {
+        "chi" "NadeKing 用烟雾弹击中6个目标"
+    }
+
+    "Game: DownFall, fast breach. -hard."
+    {
+        "chi" "自由落体,快速 -困难"
+    }
+
+    "DownFall Game Start in 5 seconds."
+    {
+        "chi" "游戏将在5秒钟后开始"
+    }
+
+    "Here, for you a Knife!"
+    {
+        "chi" "来,给你一把刀!"
+    }
+
+    "Jump in the green spotlights teleport. In the middle of the platform and choose a Game."
+    {
+        "chi" "跳到平台中间的一个绿色聚光灯传送点来选择游戏"
+    }
+
+    "Game: ThrowingSmoke: Hit 18 targets with a smokegrenade."
+    {
+        "chi" "NadeKing 用烟雾弹击中18个目标"
+    }
+
+    "Game: Smoke War: Hit the other enemy with a smoke grenade."
+    {
+        "chi" "躲避球"
+    }
+
+    "Game: scout + knife: Super Mario World"
+    {
+        "chi" "鸟狙: 超级马里奥世界"
+    }
+
+    "Game: scout + knife: Gravity Low Fight."
+    {
+        "chi" "低重力鸟狙"
+    }
+
+    "Game: DownFall, slow breach. -easy"
+    {
+        "chi" "自由落体,慢速 -简单"
+    }
+
+}

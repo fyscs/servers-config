@@ -1,0 +1,127 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "**MAP MADE BY: Chiizi**"
+    {
+        "chi" "地图作者: Chiizi 地图汉化: 圣剑@风云社"
+    }
+
+    "**PLAYER HAS CHOSEN AWP**"
+    {
+        "chi" "AWP"
+    }
+
+    "**PLAYER HAS CHOSEN KNIFE**"
+    {
+        "chi" "刀战"
+    }
+
+    "**PLAYER HAS CHOSEN BHOP**"
+    {
+        "chi" "连跳"
+    }
+
+    "**CHOOSE YOUR PLATFORM BEFORE GLASS BREAKS**"
+    {
+        "chi" "在玻璃碎裂前选择你的平台"
+    }
+
+    "**GLASS BREAKING IN 5 SECONDS**"
+    {
+        "chi" "5秒钟后玻璃碎裂"
+    }
+
+    "**INCOMING ARTILLERY!!!**"
+    {
+        "chi" "侦测到在途的巨炮打击!!!"
+    }
+
+    "**PLAYER HAS CHOSEN SCOUTZKNIVEZ**"
+    {
+        "chi" "低重力鸟狙"
+    }
+
+    "**PLAYER HAS CHOSEN ARTILLERY**"
+    {
+        "chi" "炮兵来袭"
+    }
+
+    "**5**"
+    {
+        "chi" "5秒"
+    }
+
+    "**RACE STARTING IN...**"
+    {
+        "chi" "竞速即将开始于..."
+    }
+
+    "**4**"
+    {
+        "blocked" "1"s
+        "chi" "4"
+    }
+
+    "**3**"
+    {
+        "blocked" "1"
+        "chi" "3"
+    }
+
+    "**2**"
+    {
+        "blocked" "1"
+        "chi" "2"
+    }
+
+    "**1**"
+    {
+        "blocked" "1"
+        "chi" "1"
+    }
+
+    "**GO GO GO!!**"
+    {
+        "chi" "冲冲冲!!"
+    }
+
+    "**PLAYER HAS CHOSEN RACE**"
+    {
+        "chi" "竞速"
+    }
+
+    "**PLAYER HAS CHOSEN BREAKFLOOR**"
+    {
+        "chi" "砸地板"
+    }
+
+    "**PLAYER HAS CHOSEN ICESKATE**"
+    {
+        "chi" "滑冰"
+    }
+
+    "**PLAYER HAS CHOSEN SKIPPING ROPE**"
+    {
+        "chi" "跳绳"
+    }
+
+    "**PLAYER HAS CHOSEN SLIDE**"
+    {
+        "chi" "滑道竞速"
+    }
+
+    "**PLAYER HAS CHOSEN FLYING WITH NADES**"
+    {
+        "chi" "跳雷飞人"
+    }
+
+    "**PLAYER HAS CHOSEN TRAMPOLINE**"
+    {
+        "chi" "蹦床"
+    }
+
+}

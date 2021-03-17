@@ -1,0 +1,82 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "Bunny level 1 Off"
+    {
+        "chi" "第一关落水传送已关闭"
+    }
+
+    "Bunny level 2 Off"
+    {
+        "chi" "第二关落水传送已关闭"
+    }
+
+    "Bunny level 3 Off"
+    {
+        "chi" "第三关落水传送已关闭"
+    }
+
+    "Bunny level 4 Off"
+    {
+        "chi" "第四关落水传送已关闭"
+    }
+
+    "Bunny level 5 Off"
+    {
+        "chi" "第五关落水传送已关闭"
+    }
+
+    "Bunny level 6 Off"
+    {
+        "chi" "第六关落水传送已关闭"
+    }
+
+    ">1<"
+    {
+        "blocked" "1"
+        "chi" ">1<"
+    }
+
+    ">2<"
+    {
+        "blocked" "1"
+        "chi" ">2<"
+    }
+
+    ">3<"
+    {
+        "blocked" "1"
+        "chi" ">3<"
+    }
+
+    ">4<"
+    {
+        "blocked" "1"
+        "chi" ">4<"
+    }
+
+    ">5<"
+    {
+        "chi" "5"
+    }
+
+    "Go !"
+    {
+        "chi" "开始!"
+    }
+
+    "Map by Phoenix"
+    {
+        "chi" "地图作者: Phoenix 地图汉化: 圣剑@风云社"
+    }
+
+    "www.zombie-hell.fr"
+    {
+        "blocked" "1"
+    }
+
+}

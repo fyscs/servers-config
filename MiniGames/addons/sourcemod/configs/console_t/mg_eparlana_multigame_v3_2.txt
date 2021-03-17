@@ -1,0 +1,95 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "==The map start in 5sec=="
+    {
+        "chi" "==地图将在5秒钟后开始=="
+    }
+
+    "==One grenade every 5 sec=="
+    {
+        "chi" "==每5秒钟获得一颗手雷=="
+    }
+
+    "==Bridge active in 20 secs=="
+    {
+        "chi" "==大桥将在20秒钟后开启=="
+    }
+
+    "==Regen and nade disable in 20secs=="
+    {
+        "chi" "==20秒钟后停止发放手雷=="
+    }
+
+    "== 3 =="
+    {
+        "chi" "== 3 =="
+    }
+
+    "== 2 =="
+    {
+        "blocked" "1"
+        "chi" "== 2 =="
+    }
+
+    "== 1 =="
+    {
+        "blocked" "1"
+        "chi" "== 1 =="
+    }
+
+    "== Go =="
+    {
+        "chi" "== 开始 =="
+    }
+
+    "@[Map] 3 minutes remaining"
+    {
+        "chi" "剩余180秒"
+    }
+
+    "@[Map] 2 minutes remaining"
+    {
+        "chi" "剩余120秒"
+    }
+
+    "@[Map] 1 minute remaining"
+    {
+        "chi" "剩余60秒"
+    }
+
+    "== T WIN =="
+    {
+        "chi" "== T 胜利 =="
+    }
+
+    "== CT WIN=="
+    {
+        "chi" "== CT 胜利 =="
+    }
+
+    ".-*-. KNIFE PARTY .-*-."
+    {
+        "chi" ".-*-. 匕首派对 .-*-."
+    }
+
+    "[AFK TIMER] 30 secs"
+    {
+        "chi" "30秒钟后自动选图"
+    }
+
+    "[AFK TIMER] 10 secs"
+    {
+        "chi" "10秒钟后自动选图"
+    }
+
+    "[AFK TIMER] AUTO-SELECT"
+    {
+        "chi" "正在自动选图"
+    }
+
+}

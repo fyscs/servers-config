@@ -1,0 +1,142 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    " <GO>"
+    {
+        "chi" "<GO>"
+    }
+
+    "<1>"
+    {
+        "blocked" "1"
+        "chi" "<1>"
+    }
+
+    "<2>"
+    {
+        "blocked" "1"
+        "chi" "<2>"
+    }
+
+    "<3>"
+    {
+        "blocked" "1"
+        "chi" "<3>"
+    }
+
+    "<4>"
+    {
+        "blocked" "1"
+        "chi" "<4>"
+    }
+
+    "<5>"
+    {
+        "chi" "5"
+    }
+
+    "ROPE-MOVE"
+    {
+        "chi" "移动跳绳"
+    }
+
+    "KNIFE-ARENA"
+    {
+        "chi" "刀战(擂台赛)"
+    }
+
+    "SLIDE"
+    {
+        "chi" "滑道"
+    }
+
+    "RANDOM"
+    {
+        "chi" "随机"
+    }
+
+    "SKATE"
+    {
+        "chi" "滑冰"
+    }
+
+    "SMOKE-GLASS"
+    {
+        "chi" "躲避球(附玻璃地板)"
+    }
+
+    "CLIMB"
+    {
+        "chi" "攀登"
+    }
+
+    "TETRIS"
+    {
+        "chi" "俄罗斯方块"
+    }
+
+    "SCOUT"
+    {
+        "chi" "鸟狙"
+    }
+
+    "<GO>"
+    {
+        "chi" "<开始>"
+    }
+
+    "<3>"
+    {
+        "chi" "<3>"
+    }
+
+    "<2>"
+    {
+        "chi" "<2>"
+    }
+
+    "<1>"
+    {
+        "chi" "<1>"
+    }
+
+    "map by xXm0nschd4Xx and Delta Sports clan"
+    {
+        "chi" "地图作者: xXm0nschd4Xx与Delta Sports组 地图汉化: 圣剑@风云社"
+    }
+
+    "NADE"
+    {
+        "chi" "手雷"
+    }
+
+    "SMOKE"
+    {
+        "chi" "躲避球"
+    }
+
+    "AWP"
+    {
+        "chi" "AWP"
+    }
+
+    "ROPE"
+    {
+        "chi" "跳绳"
+    }
+
+    "TRAMPOLINE"
+    {
+        "chi" "蹦床"
+    }
+
+    "KNIFE"
+    {
+        "chi" "刀战"
+    }
+
+}

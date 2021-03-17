@@ -1,0 +1,221 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "@Looks like we needed more balls"
+    {
+        "chi" "看起来我们需要更多的球"
+    }
+
+    "@[MAP] Disabled football due low phys_pushscale value"
+    {
+        "blocked" "1"
+    }
+
+    "@Knife damage enabled"
+    {
+        "chi" "刀伤已开启"
+    }
+
+    "@[MiniGame] Football 50HP"
+    {
+        "chi" "50HP足球"
+    }
+
+    "@[MiniGame] Football 100HP"
+    {
+        "chi" "100HP足球"
+    }
+
+    "@Fall damage disabled"
+    {
+        "chi" "跌落伤害已关闭"
+    }
+
+    "@[MiniGame] Scouts"
+    {
+        "chi" "鸟狙"
+    }
+
+    "@Boosters disabled, middle ones still work"
+    {
+        "chi" "加速板已失效 但是中间的仍在运作"
+    }
+
+    "@[MiniGame] Knife"
+    {
+        "chi" "刀战"
+    }
+
+    "@[MiniGame] Football 1HP"
+    {
+        "chi" "1HP足球"
+    }
+
+    "@[MiniGame] Knife 35HP"
+    {
+        "chi" "35HP刀战"
+    }
+
+    "@[MiniGame] Knife 100HP"
+    {
+        "chi" "100HP刀战"
+    }
+
+    "@You can now destroy platforms with knife"
+    {
+        "chi" "现在你可以用匕首破坏平台了"
+    }
+
+    "@Platforms will become destroyable in 5 seconds"
+    {
+        "chi" "5秒钟后平台可破坏"
+    }
+
+    "@[MiniGame] Smash Floor"
+    {
+        "chi" "砸地板"
+    }
+
+    "@Incoming one time spam"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "@Ts have scored!"
+    {
+        "chi" "T阵营得分!"
+    }
+
+    "@CTs have scored!"
+    {
+        "chi" "CT阵营得分!"
+    }
+
+    "@Someone has won, teleporting everybody in 15secs"
+    {
+        "chi" "一名玩家已获胜 15秒钟后传送所有玩家"
+    }
+
+    "@[MiniGame] Pistols Head Shot only"
+    {
+        "chi" "手枪(爆头战)"
+    }
+
+    "@Regen disabled!"
+    {
+        "chi" "自动回血关闭"
+    }
+
+    "@Knife it out!"
+    {
+        "chi" "拼刺刀了!"
+    }
+
+    "@[MiniGame] BoomBall"
+    {
+        "chi" "炸弹球"
+    }
+
+    "@Skate disabled!"
+    {
+        "chi" "滑不起来了!"
+    }
+
+    "@[MiniGame] Ice Skate"
+    {
+        "chi" "滑冰"
+    }
+
+    "@[MiniGame] Taze war"
+    {
+        "chi" "电击枪大战"
+    }
+
+    "@Fall damage enabled"
+    {
+        "chi" "跌落伤害已关闭"
+    }
+
+    "@[MiniGame] AWP"
+    {
+        "chi" "AWP"
+    }
+
+    "@Boosters disabled!"
+    {
+        "chi" "加速板已关闭"
+    }
+
+    "@[MiniGame] War & Buy n' plant"
+    {
+        "chi" "买枪混战"
+    }
+
+    "@[MiniGame] Bhop"
+    {
+        "chi" "连跳"
+    }
+
+    "@[SONG] Black Tiger Sex Machine - Destroy It (Urban Contact remix)"
+    {
+        "chi" "BGM: Black Tiger Sex Machine - Destroy It (Urban Contact remix)"
+    }
+
+    "@[SONG] Mediks - Come Back Down"
+    {
+        "chi" "BGM: Mediks - Come Back Down"
+    }
+
+    "@[SONG] Monstaz - Popcorn Funk"
+    {
+        "chi" "BGM: Monstaz - Popcorn Funk"
+    }
+
+    "@[SONG] Nihils - Help Our Souls (Urban Contact remix)"
+    {
+        "chi" "BGM: Nihils - Help Our Souls (Urban Contact remix)"
+    }
+
+    "@[SONG] Virtual Riot - Paper Planes"
+    {
+        "chi" "BGM: Virtual Riot - Paper Planes"
+    }
+
+    "@[SONG] The 1975 - Chocolate (Zanski remix)"
+    {
+        "chi" "BGM: The 1975 - Chocolate (Zanski remix)"
+    }
+
+    "@[SONG] Milk N Cookies - Mastodon (Louis Child Remix)"
+    {
+        "chi" "BGM: Milk N Cookies - Mastodon (Louis Child Remix)"
+    }
+
+    "@Map made by Darnias"
+    {
+        "chi" "地图作者: Darnias 地图汉化: 圣剑@风云社"
+    }
+
+    "@[Timelimit] 1 minute"
+    {
+        "blocked" "1"
+        "chi" "还剩1分钟"
+    }
+
+    "@[Timelimit] 30 seconds"
+    {
+        "chi" "还剩30秒"
+    }
+
+    "@[Timelimit] 15 seconds"
+    {
+        "blocked" "1"
+        "chi" "还剩15秒"
+    }
+
+}

@@ -1,0 +1,254 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "Stand in the BLUE to VOTE for a game!"
+    {
+        "chi" ">站在蓝色方块上来投票选图!<"
+    }
+
+    "Voting will start in 10 seconds!"
+    {
+        "chi" ">10秒钟后开始投票!<"
+    }
+
+    "5..."
+    {
+        "chi" "5"
+    }
+
+    "4..."
+    {
+        "blocked" "1"
+        "chi" ">4...<"
+    }
+
+    "3..."
+    {
+        "blocked" "1"
+        "chi" ">3...<"
+    }
+
+    "2..."
+    {
+        "blocked" "1"
+        "chi" ">2...<"
+    }
+
+    "1..."
+    {
+        "blocked" "1"
+        "chi" ">1...<"
+    }
+
+    "[VOTE]"
+    {
+        "chi" "开始投票"
+    }
+
+    "Map by: nyro"
+    {
+        "chi" "地图作者: nyro 地图汉化: 圣剑@风云社"
+    }
+
+    "Feedback & testing: The Lt. Team"
+    {
+        "chi" "感谢LT.Team对本图的测试与反馈"
+    }
+
+    "Someone has won! Round ending in 15 seconds..."
+    {
+        "chi" "有人赢了! 15秒钟后结束回合..."
+    }
+
+    "[BUNNYHOP]"
+    {
+        "chi" "连跳"
+    }
+
+    "[ICESKATE]"
+    {
+        "chi" "滑冰"
+    }
+
+    "[SURF]"
+    {
+        "chi" "滑翔"
+    }
+
+    "[SLIDE]"
+    {
+        "chi" "滑道"
+    }
+
+    "[CLIMB]"
+    {
+        "chi" "攀登"
+    }
+
+    "[SCOUT] [LOWGRAV]"
+    {
+        "chi" "低重力鸟狙"
+    }
+
+    "[AWP] [DEAGLE]"
+    {
+        "chi" "AWP与沙鹰"
+    }
+
+    "[LEVEL TWO]"
+    {
+        "chi" "第二关"
+    }
+
+    "[LEVEL THREE]"
+    {
+        "chi" "第三关"
+    }
+
+    "[SPHERE]"
+    {
+        "chi" "SPHERE"
+    }
+
+    "[LEVEL ONE]"
+    {
+        "chi" "第一关"
+    }
+
+    "[LEVEL FOUR]"
+    {
+        "chi" "第四关"
+    }
+
+    "[LEVEL FIVE]"
+    {
+        "chi" "第五关"
+    }
+
+    "[START]"
+    {
+        "chi" "开始!"
+    }
+
+    "Took too long..."
+    {
+        "chi" "太慢了吧..."
+    }
+
+    "ZzZzZz..."
+    {
+        "chi" "要睡着了ZzZ..."
+    }
+
+    "Vote kick the afk!"
+    {
+        "chi" "快投票踢出挂机!"
+    }
+
+    "Draw."
+    {
+        "chi" "是不是要平局了"
+    }
+
+    "Boring."
+    {
+        "chi" "太无聊了"
+    }
+
+    "lol"
+    {
+        "chi" "嘻嘻"
+    }
+
+    "Game Over."
+    {
+        "chi" "游戏结束"
+    }
+
+    "Die."
+    {
+        "chi" "会打CS吗? 要不要教教你."
+    }
+
+    "..."
+    {
+        "blocked" "1"
+        "chi" "..."
+    }
+
+    "You guys suck."
+    {
+        "chi" "你们也太菜了"
+    }
+
+    "Herp Derp"
+    {
+        "chi" "你们是在用脚柄玩CS吗?"
+    }
+
+    "30 seconds remaining!"
+    {
+        "chi" "还剩30秒!"
+    }
+
+    "15 seconds remaining!"
+    {
+        "blocked" "1"
+        "chi" ">还剩15秒!<"
+    }
+
+    "[OBSTACLE]"
+    {
+        "chi" "地球仪跳绳"
+    }
+
+    "[NADE]"
+    {
+        "chi" "手雷"
+    }
+
+    "[BUY]"
+    {
+        "chi" "买枪混战"
+    }
+
+    "[RANDOM]"
+    {
+        "chi" "随机"
+    }
+
+    "The last T is in RED!"
+    {
+        "chi" "最后一个T在红色!"
+    }
+
+    "The last T is in YELLOW!"
+    {
+        "chi" "最后一个T在黄色!"
+    }
+
+    "The last T is in BLUE!"
+    {
+        "chi" "最后一个T在蓝色!"
+    }
+
+    "The last CT is in BLUE!"
+    {
+        "chi" "最后一个CT在蓝色!"
+    }
+
+    "The last CT is in RED!"
+    {
+        "chi" "最后一个CT在红色!"
+    }
+
+    "The last CT is in YELLOW!"
+    {
+        "chi" "最后一个CT在黄色!"
+    }
+
+}

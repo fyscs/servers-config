@@ -1,0 +1,312 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "@[Map] CT WIN"
+    {
+        "chi" "CT 胜利"
+    }
+
+    "@[Map] T WIN"
+    {
+        "chi" "T 胜利"
+    }
+
+    "@[Time] TimeLimit"
+    {
+        "chi" "时间有限"
+    }
+
+    "@[Map] Holes"
+    {
+        "chi" "手雷高尔夫"
+    }
+
+    "@[Music] Arman Cekin - Hold On Ft. BR-VE "
+    {
+        "chi" "BGM: Arman Cekin - Hold On Ft. BR-VE"
+    }
+
+    "@[Music] Calvin Harris ft. Ellie Goulding - Outside (Anevo Remix)"
+    {
+        "chi" "BGM: Calvin Harris ft. Ellie Goulding - Outside (Anevo Remix)"
+    }
+
+    "@[Music] Dope Arcade - Ascension (MitiS Remix)"
+    {
+        "chi" "BGM: Dope Arcade - Ascension (MitiS Remix)"
+    }
+
+    "@[Music] Sander van Doorn, Martin Garrix, DVBBS ft. Aleesia - Gold Skies (Justin Caruso Remix)"
+    {
+        "chi" "BGM: Sander van Doorn, Martin Garrix, DVBBS ft. Aleesia - Gold Skies (Justin Caruso Remix)"
+    }
+
+    "@[Music] Imagine Dragons - On Top of the World - Lyrics"
+    {
+        "chi" "BGM: Imagine Dragons - On Top of the World - Lyrics"
+    }
+
+    "@[Music] Krewella - Come And Get It (Razihel Remix) "
+    {
+        "chi" "BGM: Krewella - Come And Get It (Razihel Remix)"
+    }
+
+    "@[Music] Matisyahu - Live Like A Warrior (Richello Remix)"
+    {
+        "chi" "BGM: Matisyahu - Live Like A Warrior (Richello Remix)"
+    }
+
+    "@[Mod] Normal nod"
+    {
+        "chi" "正常模式"
+    }
+
+    "@[Mod] BackStab mod"
+    {
+        "chi" "背刺模式"
+    }
+
+    "@[Map] Aim"
+    {
+        "chi" "对枪"
+    }
+
+    "@[Map] TimeLimit"
+    {
+        "chi" "时间有限"
+    }
+
+    "@[Map] Winners Get 10 Points"
+    {
+        "chi" "胜者将得到10分"
+    }
+
+    "@[Map] Refire Time - 3 seconds"
+    {
+        "chi" "方块坠落间隔 3秒钟"
+    }
+
+    "@[Map] Refire Time - 2 seconds"
+    {
+        "chi" "方块坠落间隔 2秒钟"
+    }
+
+    "@[Map] Refire Time -  1 second"
+    {
+        "chi" "方块坠落间隔 1秒钟"
+    }
+
+    "@[Map] Refire Time -  0.5 seconds"
+    {
+        "chi" "方块坠落间隔 0.5秒钟"
+    }
+
+    "@[Map] Random Timer Disabled"
+    {
+        "chi" "随机计时器已关闭"
+    }
+
+    "@[Map] Random Timer Enabled"
+    {
+        "chi" "随机计时器已启用"
+    }
+
+    "@[Map] Refire Time -  0.3 seconds"
+    {
+        "chi" "方块坠落间隔 0.3秒钟"
+    }
+
+    "@[Map] Falling Boxes"
+    {
+        "chi" "天坠方块"
+    }
+
+    "@[Map] 30 Seconds"
+    {
+        "chi" "30秒"
+    }
+
+    "@[Map] 3 MINUTES REMAINING"
+    {
+        "chi" "剩余时间3分钟"
+    }
+
+    "@[Map] 2 MINUTES REMAINING"
+    {
+        "chi" "剩余时间2分钟"
+    }
+
+    "@[Map] 1 MINUTES REMAINING"
+    {
+        "chi" "剩余时间1分钟"
+    }
+
+    "@[Map] Climb"
+    {
+        "chi" "攀登"
+    }
+
+    "@[Map] Randomly selection"
+    {
+        "chi" "随机选择小游戏"
+    }
+
+    "@[Map] Grenades"
+    {
+        "chi" "手雷"
+    }
+
+    "@[Map] Arena fight"
+    {
+        "chi" "竞技场"
+    }
+
+    "@[Map] Random Weapon"
+    {
+        "chi" "随机武器"
+    }
+
+    "@[Map] Weapon Awp"
+    {
+        "chi" "武器 AWP"
+    }
+
+    "@[Map] Weapon Deagle"
+    {
+        "chi" "武器 沙鹰"
+    }
+
+    "@[Map] Weapon Scout"
+    {
+        "chi" "武器 鸟狙"
+    }
+
+    "@[Map] Weapon AK-47"
+    {
+        "chi" "武器 AK47"
+    }
+
+    "@[MAP] GOAL!!!!"
+    {
+        "chi" "球进啦!!!"
+    }
+
+    "@[Map] T give weapons"
+    {
+        "chi" "已为T发放武器"
+    }
+
+    "@[Map] CT give weapons"
+    {
+        "chi" "已为CT发放武器"
+    }
+
+    "@[Map] Football"
+    {
+        "chi" "足球"
+    }
+
+    "@[Map]  AFK TIMER in 30 sec"
+    {
+        "chi" "30秒钟后自动选图"
+    }
+
+    "@[Map] AFK TIMER activated"
+    {
+        "chi" "挂机计时已启动"
+    }
+
+    "@[Map] RANDOM GAME WILL BE CHOSEN"
+    {
+        "chi" "地图自动选图中"
+    }
+
+    "@[Map] AFK TIMER in 10 sec"
+    {
+        "chi" "10秒钟后自动选图"
+    }
+
+    "@[Map] Skate"
+    {
+        "chi" "滑冰"
+    }
+
+    "@[Map] Pistols"
+    {
+        "chi" "手枪"
+    }
+
+    "@[Mod] Headshot mod"
+    {
+        "chi" "爆头模式开启"
+    }
+
+    "@[Map] BhopBattle"
+    {
+        "chi" "连跳对战"
+    }
+
+    "@[Map] Surf Battle"
+    {
+        "chi" "滑翔对战"
+    }
+
+    "@[Map] Player selected"
+    {
+        "chi" "已选择选图者"
+    }
+
+    "@[Map] 60 seconds before the battle"
+    {
+        "chi" "60秒钟后开战"
+    }
+
+    "@[Map] 5"
+    {
+        "chi" "5"
+    }
+
+    "@[Map] 1"
+    {
+        "blocked" "1"
+        "chi" "1"
+    }
+
+    "@[Map] 2"
+    {
+        "blocked" "1"
+        "chi" "2"
+    }
+
+    "@[Map] 3"
+    {
+        "blocked" "1"
+        "chi" "3"
+    }
+
+    "@[Map] 4"
+    {
+        "blocked" "1"
+        "chi" "4"
+    }
+
+    "@[Map] Battle"
+    {
+        "chi" "开战!"
+    }
+
+    "@[Map] AFK KILLER"
+    {
+        "chi" "已处死挂机玩家"
+    }
+
+    "@[Map] Map by Blogger(Dog)"
+    {
+        "chi" "地图作者: Blogger(Dog) 地图汉化: 圣剑@风云社"
+    }
+
+}

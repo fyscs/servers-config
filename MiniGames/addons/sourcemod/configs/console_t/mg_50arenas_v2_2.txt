@@ -1,0 +1,743 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "Kyle whispered BGM to you :  Killer Love - 2G "
+    {
+        "chi" "BGM:  Killer Love - 2G "
+    }
+
+    "Kyle whispered BGM to you :  Seek Bromance (Samuele Sartini remix) - TIM BERG "
+    {
+        "chi" "BGM:  Seek Bromance (Samuele Sartini remix) - TIM BERG "
+    }
+
+    "Kyle whispered BGM to you :  We'll Be Coming Back (Michael Woods Remix) - Calvin Harris feat. Example "
+    {
+        "chi" "BGM:  We'll Be Coming Back (Michael Woods Remix) - Calvin Harris feat. Example "
+    }
+
+    "Kyle whispered BGM to you :  Drinking From the Bottle - Calvin Harris "
+    {
+        "chi" "BGM:  Drinking From the Bottle - Calvin Harris "
+    }
+
+    "Kyle whispered BGM to you :  Just One Last Time - David Guetta "
+    {
+        "chi" "BGM:  Just One Last Time - David Guetta "
+    }
+
+    "Kyle whispered BGM to you :  Need You There (Momentum) [Michael Calfan Vocal Remix] - Dimitri Vegas, Like Mike & Regi "
+    {
+        "chi" "BGM:  Need You There (Momentum) [Michael Calfan Vocal Remix] - Dimitri Vegas, Like Mike & Regi "
+    }
+
+    "Kyle whispered BGM to you :  Live Forever - Ferry Corsten ft. Aruna "
+    {
+        "chi" "BGM:  Live Forever - Ferry Corsten ft. Aruna "
+    }
+
+    "Kyle whispered BGM to you :  In My Mind (Axwell Mix) - Ivan Gough & Feenixpawl ft. Georgi Kay "
+    {
+        "chi" "BGM:  In My Mind (Axwell Mix) - Ivan Gough & Feenixpawl ft. Georgi Kay "
+    }
+
+    "Kyle whispered BGM to you :  Live For The Night (W&W Remix) - Krewella "
+    {
+        "chi" "BGM:  Live For The Night (W&W Remix) - Krewella "
+    }
+
+    "Kyle whispered BGM to you :  Pressure (Alesso Edit) - Nadia Ali, Starkillers & Alex Kenji "
+    {
+        "chi" "BGM:  Pressure (Alesso Edit) - Nadia Ali, Starkillers & Alex Kenji "
+    }
+
+    "Kyle whispered BGM to you :  Reasonable Night Out - 我唔知啊 "
+    {
+        "chi" "BGM:  Reasonable Night Out - 我唔知啊 "
+    }
+
+    "Kyle whispered BGM to you :  Like Home - Nicky Romero & NERVO "
+    {
+        "chi" "BGM:  Like Home - Nicky Romero & NERVO "
+    }
+
+    "Kyle whispered BGM to you :  Clarity (W&W Remix) - Zedd feat. Foxes "
+    {
+        "chi" "BGM:  Clarity (W&W Remix) - Zedd feat. Foxes "
+    }
+
+    "Effect [ Off ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S1 E1 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S1 E2 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S1 E3 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S1 E4 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S1 E5 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S1 E6 ]"
+    {
+        "blocked" "1"
+    }
+
+    "@ EFFECT [ T1 S2 E7 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S2 E1 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S2 E2 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S2 E3 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S2 E4 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S2 E5 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S2 E6 ]"
+    {
+        "blocked" "1"
+    }
+
+    "@ EFFECT [ T1 S3 E7 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S3 E1 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S3 E2 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S3 E3 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S3 E4 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S3 E5 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S3 E6 ]"
+    {
+        "blocked" "1"
+    }
+
+    "@ EFFECT [ T2 S1 E7 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T2 S1 E1 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T2 S1 E2 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T2 S1 E3 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T2 S1 E4 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T2 S1 E5 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T2 S1 E6 ]"
+    {
+        "blocked" "1"
+    }
+
+    "@ EFFECT [ T2 S2 E7 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T2 S2 E1 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T2 S2 E2 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T2 S2 E3 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T2 S2 E4 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T2 S2 E5 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T2 S2 E6 ]"
+    {
+        "blocked" "1"
+    }
+
+    "@ EFFECT [ T3 S1 E7 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T3 S1 E1 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T3 S1 E2 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T3 S1 E3 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T3 S1 E4 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T3 S1 E5 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T3 S1 E6 ]"
+    {
+        "blocked" "1"
+    }
+
+    "@ EFFECT [ T3 S2 E7 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T3 S2 E1 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T3 S2 E2 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T3 S2 E3 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T3 S2 E4 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T3 S2 E5 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T3 S2 E6 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S1 E7 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S2 E7 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T1 S3 E7 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T2 S1 E7 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T2 S2 E7 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T3 S1 E7 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Effect [ T3 S2 E7 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 01 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 02 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 03 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 04 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 05 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 06 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 07 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 08 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 09 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 10 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 11 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 12 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 13 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 14 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 15 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 16 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 17 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 18 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 19 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 20 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 21 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 22 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 23 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 24 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 25 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 26 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 27 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 28 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 29 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 30 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 31 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 32 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 33 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 34 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 35 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 36 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 39 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 40 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 41 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 42 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 43 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 44 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 45 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 46 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 47 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 49 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Super Power [ REVERSE MOTION ]"
+    {
+        "chi" "超能力 [ 操作反转 ]"
+    }
+
+    "Super Power [ INVISIBILITY ]"
+    {
+        "chi" "超能力 [ 隐身 ]"
+    }
+
+    "Super Power [ RAINBOW ]"
+    {
+        "chi" "超能力 [ 彩虹人 ]"
+    }
+
+    "Super Power [ BIG ASS ]"
+    {
+        "chi" "超能力 [ 大屁股 ]"
+    }
+
+    "Super Power [ SPEED ]"
+    {
+        "chi" "超能力 [ 加速 ]"
+    }
+
+    "Super Power [ BUNNYHOPPING Lv.1 ]"
+    {
+        "chi" "超能力 [ 连跳 Lv.1 ]"
+    }
+
+    "Super Power [ BUNNYHOPPING Lv.2 ]"
+    {
+        "chi" "超能力 [ 连跳 Lv.2 ]"
+    }
+
+    "Super Power [ BUNNYHOPPING Lv.3 ]"
+    {
+        "chi" "超能力 [ 连跳 Lv.3 ]"
+    }
+
+    "Super Power [ BUNNYHOPPING Lv.4 ]"
+    {
+        "chi" "超能力 [ 连跳 Lv.4 ]"
+    }
+
+    "Super Power [ BUNNYHOPPING Lv.5 ]"
+    {
+        "chi" "超能力 [ 连跳 Lv.5 ]"
+    }
+
+    "Super Power [ Off ]"
+    {
+        "chi" "超能力 [ 关闭 ]"
+    }
+
+    "Gravity [ 1.0 ]"
+    {
+        "chi" "重力 [ 1.0 ]"
+    }
+
+    "Gravity [ 0.9 ]"
+    {
+        "chi" "重力 [ 0.9 ]"
+    }
+
+    "Gravity [ 0.8 ]"
+    {
+        "chi" "重力 [ 0.8 ]"
+    }
+
+    "Gravity [ 0.7 ]"
+    {
+        "chi" "重力 [ 0.7 ]"
+    }
+
+    "Gravity [ 0.6 ]"
+    {
+        "chi" "重力 [ 0.6 ]"
+    }
+
+    "Gravity [ 0.5 ]"
+    {
+        "chi" "重力 [ 0.5 ]"
+    }
+
+    "Gravity [ 0.1 ]"
+    {
+        "chi" "重力 [ 0.1 ]"
+    }
+
+    "Gravity [ 2.0 ]"
+    {
+        "chi" "重力 [ 2.0 ]"
+    }
+
+    "Arena [ 1 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 2 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 3 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 4 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 5 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 6 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 7 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 8 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 9 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 37 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 38 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 48 ]"
+    {
+        "blocked" "1"
+    }
+
+    "Arena [ 50 ]"
+    {
+        "blocked" "1"
+    }
+
+}

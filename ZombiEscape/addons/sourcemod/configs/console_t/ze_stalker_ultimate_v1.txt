@@ -1,0 +1,463 @@
+"Console_T"
+{
+    "The gate 2 will open in 30 seconds"
+    {
+        "chi" "**实验室门2在30秒后打开 **"
+    }
+
+    "The gate 1 will open in 30 seconds"
+    {
+        "chi" "**实验室门1在30秒后打开 **"
+    }
+
+    "***The electricity in on. You can push the panels to open the gates***"
+    {
+        "chi" "**大门已经通电,现在可以拉下开关打开了! **"
+    }
+
+    "***IF YOU WANT TO OPEN THE GATES TURN THE ELECTRICITY ON!!!***"
+    {
+        "chi" "**如果想打开大门,那必须得给他通电 **"
+    }
+
+    "Hold this position for 6 seconds!!"
+    {
+        "chi" "**守住这里6秒 **"
+    }
+
+    "**This is a map based on the game STALKER**"
+    {
+        "chi" "**这是根据游戏<潜行者>制作的地图 **"
+    }
+
+    "**The map isn't eazy. It needs good ZE skills and good teamplay**"
+    {
+        "chi" "**这不是简单的地图.它需要很好的个人技巧和良好的团队配合 **"
+    }
+
+    "THE LIFT 1 WILL LEAVE IN 4 SECONDS"
+    {
+        "chi" "**1号电梯4秒后离开 **"
+    }
+
+    "THE LIFT 2 WILL LEAVE IN 9 SECONDS"
+    {
+        "chi" "**2号电梯9秒后离开**"
+    }
+
+    "***Break the spheres to escape***"
+    {
+        "chi" "**打爆这个古怪的电球我们才能离开 **"
+    }
+
+    "***OH NO WHO IS IT? WE MUST KILL IT!***"
+    {
+        "chi" "**我草这是什么鬼?赶紧干掉他! **"
+    }
+
+    "**AUTO-SLAYER ENABLED**"
+    {
+        "chi" "**对人型生物收割者打开 **"
+    }
+
+    "***THE BOSS HAS MAXIMUM HP***"
+    {
+        "chi" "**BOSS获得了最大额度的生命值 **"
+    }
+
+    "**Hold the place for 25 seconds**"
+    {
+        "chi" "**守住这里25秒 **"
+    }
+
+    "Zombie shield is disabled."
+    {
+        "chi" "**丧尸空气阻拦装置失效 **"
+    }
+
+    "Zombie shield is activated. You have 15 seconds."
+    {
+        "chi" "**丧尸空气阻拦装置生效时间还有15秒 **"
+    }
+
+    "**You did it!! You have completed stage 2!!**"
+    {
+        "chi" "**第二章完成,接下来还会有什么样的旅途等待着我们? **"
+    }
+
+    "**now is the time to see something new**"
+    {
+        "chi" "**看来是时候去探索一些真相了 **"
+    }
+
+    "**There are zombies in bunker. The level is failed.**"
+    {
+        "chi" "**有僵尸进来了,本关失败 **"
+    }
+
+    "**THE ADMIN SET BLOWOUT. U GONNA DIE IN 20 SECONDS**"
+    {
+        "chi" "**狗管理按下了处死,你们在20秒内必死无疑 **"
+    }
+
+    "**OPENING THE GATES (10 SECONDS)**"
+    {
+        "chi" "**10秒后大门打开 **"
+    }
+
+    "**Bloodsucker have been defeated**"
+    {
+        "chi" "**吸血鬼被我们打死了 **"
+    }
+
+    "**Wait until the debris break**"
+    {
+        "chi" "**碎片还没到,我们不能走 **"
+    }
+
+    "**Your items got more power**"
+    {
+        "chi" "**所有辐射物神器已经得到最大进化 **"
+    }
+
+    "Bloodsucker is watching you..."
+    {
+        "chi" "**吸血鬼在等着我们 **"
+    }
+
+    "**Good job!! You won stage 3!! New area opened!**"
+    {
+        "chi" "**好样的!第三章过关,普里皮亚季地区为你们打开 **"
+    }
+
+    "Type in console mat_colorcorrection 1 for dynamic effects!!"
+    {
+        "chi" "**关闭和开启动态效果在控制台输入mat_colorcorrection 1 **"
+    }
+
+    "Map by gleb_erilov(Headshooter.SC) Special thanks to LonllY POMKA Said Z-O-M-B-I-E"
+    {
+        "chi" "**Headshooter.SC诚意之作 汉化:Ruby  特别感谢:LonllY POMKA Said Z-O-M-B-I-E的各位 **"
+    }
+
+    "**ADMIN SET LEVEL 3 IN THE ADMIN ROOM**"
+    {
+        "chi" "**狗管理选择了第3章 **"
+    }
+
+    "**ADMIN SET LEVEL 2 IN THE ADMIN ROOM**"
+    {
+        "chi" "** 狗管理选择了第2章**"
+    }
+
+    "**ADMIN SET LEVEL 1 IN THE ADMIN ROOM**"
+    {
+        "chi" "*狗管理选择了第1章* **"
+    }
+
+    "You are too slow..."
+    {
+        "chi" "**我们太慢了,僵尸已经破笼而出 **"
+    }
+
+    "A player picked up meatchunk"
+    {
+        "chi" "**一名玩家拿起辐射物:诱引 **"
+    }
+
+    "A player picked up fireball"
+    {
+        "chi" "**一名玩家拿起辐射物:火(可使用2次) **"
+    }
+
+    "A player picked up a piece of flesh"
+    {
+        "chi" "**一名玩家拿起辐射物:风 **"
+    }
+
+    "**You win the round!!You unlock the hard mode.**"
+    {
+        "chi" "**你赢下了本回合,接下来开启困难模式 **"
+    }
+
+    "The emission will be in 50 seconds. Find the bunker and hide in it!!!"
+    {
+        "chi" "**辐射核爆在50秒后到来,赶紧找到掩体躲起来 **"
+    }
+
+    "Survive for 70 seconds"
+    {
+        "chi" "**存活70秒,希望我们还有再见的时候! **"
+    }
+
+    "Zombie sheld is activated for 30 seconds!!"
+    {
+        "chi" "**丧尸空气阻拦装置在30秒后激活 **"
+    }
+
+    "Hold this position for 10 seconds!!"
+    {
+        "chi" "**守住这里10秒 **"
+    }
+
+    "The Chernobyl gate will open in 20 seconds."
+    {
+        "chi" "**切尔诺贝利大门在20秒后打开 **"
+    }
+
+    "**Hold this way for 10 seconds**"
+    {
+        "chi" "**守着这里10秒 **"
+    }
+
+    "**It's dead. Good job**"
+    {
+        "chi" "**它死了,干得好!**"
+    }
+
+    "**1 PLAYER have to go to the command room to take documents**"
+    {
+        "chi" "**必须得让一名玩家进入文档室获得文档 **"
+    }
+
+    "**The documents are here!**We are too close!**"
+    {
+        "chi" "**文档拿到了,快跑! **"
+    }
+
+    "**Defend a bit**The door will explode in a few seconds!**"
+    {
+        "chi" "**稍微抵挡一下丧尸,门很快就炸开了 **"
+    }
+
+    "**RUN RUN RUN!!!**"
+    {
+        "chi" "**快跑!!! **"
+    }
+
+    "**The door wil open in 10 seconds**"
+    {
+        "chi" "**门在10秒后打开 **"
+    }
+
+    "Lab door 1 will open for zombies in 18 seconds"
+    {
+        "chi" "**实验室1门在18后为僵尸打开 **"
+    }
+
+    "Lab door 1 will open in 11 seconds"
+    {
+        "chi" "**实验室1门11秒后打开 **"
+    }
+
+    "Lab door 2 will open for zombies in 18 seconds"
+    {
+        "chi" "**实验室2门在18秒后为僵尸打开**"
+    }
+
+    "Lab door 2 will open in 13 seconds"
+    {
+        "chi" "** 实验室1门在13秒后打开**"
+    }
+
+    "**The blowout is comming**"
+    {
+        "chi" "**电磁风暴要来了 **"
+    }
+
+    "**Prepare for ultimate survival. Fight for your life!!**"
+    {
+        "chi" "**准备好在这末世存活下去吧,自己的命自己才能保护好! **"
+    }
+
+    "**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**"
+    {
+        "chi" "**脑波控制者控制了我们的思想,这里全都是幻觉! **"
+    }
+
+    "**You have defeated controller!!! Good job**"
+    {
+        "chi" "**你打败了脑波控制者!非常好! **"
+    }
+
+    "**Now go away to the coast**"
+    {
+        "chi" "**我们现在只能去海岸了 **"
+    }
+
+    "**Hold here for 25 seconds**"
+    {
+        "chi" "**守住这里25秒 **"
+    }
+
+    "**And then go to the pool**"
+    {
+        "chi" "**这里有个泳池,可以下去看看 **"
+    }
+
+    "**YOU DID IT!!!**GOOD LUCK!!**"
+    {
+        "chi" "**你做到了,干得好! **"
+    }
+
+    "**GO INTO THE TELEPORTER***"
+    {
+        "chi" "**进入传送圈 **"
+    }
+
+    "**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**"
+    {
+        "chi" "**所有挂机玩家马上会被传送 **"
+    }
+
+    "**NOW WE ARE READY TO GO**"
+    {
+        "chi" "**是时候准备好出发了 **"
+    }
+
+    "***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***"
+    {
+        "chi" "**现在还有时间去搜集那些隐藏的辐射物 **"
+    }
+
+    "***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**"
+    {
+        "chi" "**在这里等到障碍打开才能撤退 **"
+    }
+
+    "A player picked up flash"
+    {
+        "chi" "**一位玩家获得了辐射物:电磁球 **"
+    }
+
+    "**ADMIN SET LEVEL 4 IN THE ADMIN ROOM**"
+    {
+        "chi" "**狗管理选择了第四关 **"
+    }
+
+    "A player picked up nightstar"
+    {
+        "chi" "**一位玩家获得了辐射物:夜星 **"
+    }
+
+    "A player picked up spikeball"
+    {
+        "chi" "**一位玩家获得了辐射物:刺球 **"
+    }
+
+    "**FAIL DETECTED**GLITCH WIN PROTECTION IS ON**"
+    {
+        "chi" "**开关检测故障 **"
+    }
+
+    "**..We founded something unusial..**"
+    {
+        "chi" "**我们好像找到了一些不太正常的玩意 **"
+    }
+
+    "**.. Is it a new anomaly?!..**"
+    {
+        "chi" "**这是新的物种吗? **"
+    }
+
+    "**YOU ARE TOO CLOSE TO WIN**KEEP HOLDING**"
+    {
+        "chi" "**我们现在距离胜利近在迟尺!守住! **"
+    }
+
+    "**THEY WANT TO KILL US!! SHOOT AS U CAN!!!**"
+    {
+        "chi" "**它们想杀掉我们,开枪! **"
+    }
+
+    "**Prepare to FIGHT**"
+    {
+        "chi" "**拿起你的武器准备战斗! **"
+    }
+
+    "**YOUR ITEMS GOT MAXIMUM POWER**USE WHEN NESESSARY**"
+    {
+        "chi" "**所有辐射物已经获得最高进化,在必要的时候使用他们! **"
+    }
+
+    "**PREPARE TO MOVE IN 10 SECONDS!**"
+    {
+        "chi" "**10秒后直面你的命运! **"
+    }
+
+    "**GO!!**GO!!**GO!!**"
+    {
+        "chi" "**冲! **"
+    }
+
+    "**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**"
+    {
+        "chi" "**三十功名尘与土,八千里路云和月,你已经将本图踩在了脚下! **"
+    }
+
+    "**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**"
+    {
+        "chi" "**狗管理选择了第五章 **"
+    }
+
+    "**PLAY AS YOU CAN**"
+    {
+        "chi" "**竭尽你所能! **"
+    }
+
+    "**DON'T LET HIM TO FAIL US!!**"
+    {
+        "chi" "**来,跟他一决雌雄! **"
+    }
+
+    "**YOU HAVE FAILED**"
+    {
+        "chi" "**我们失败了 **"
+    }
+
+    "**HE IS DEAD!!NICE WORK!!**"
+    {
+        "chi" "**他死了,干得好! **"
+    }
+
+    "**A PIECE OF FLESH GOT MAXIMUM POWER**"
+    {
+        "chi" "**辐射物风获得了最高进化 **"
+    }
+
+    "**FLASH GOT MAXIMUM POWER**"
+    {
+        "chi" "**电磁球获得了最高进化 **"
+    }
+
+    "**FIREBALL GOT MAXIMUM POWER**"
+    {
+        "chi" "**火球获得了终极能量! **"
+    }
+
+    "**SPIKEBALL GOT MAXIMUM POWER**"
+    {
+        "chi" "**刺球获得了终极能量! **"
+    }
+
+    "**NIGHTSTAR GOT MAXIMUM POWER**"
+    {
+        "chi" "**夜星获得了终极能量! **"
+    }
+
+    "**REWARD**YOU HAVE OBTAINED ONE MORE ITEM ON THIS STAGE"
+    {
+        "chi" "**奖励-你在下回合可以使用更高级的辐射物 **"
+    }
+
+    "**UNKNOWN ARTEFACT** QUEST COMPLETED"
+    {
+        "chi" "**任务完成 **"
+    }
+
+    "say **UNKNOWN ARTEFACT** +50% COMPLETE"
+    {
+        "chi" "**获得了未知的东西+50进度 **"
+    }
+
+}

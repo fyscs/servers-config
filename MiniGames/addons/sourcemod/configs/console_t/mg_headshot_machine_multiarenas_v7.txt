@@ -1,0 +1,272 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "*** Infinite Ammo & Low Gravity ***"
+    {
+        "chi" "无限子弹 & 低重力"
+    }
+
+    "* Converted to High Gravity *"
+    {
+        "chi" "已转换为高重力"
+    }
+
+    "* Converted to High Gravity in 10 sec*"
+    {
+        "chi" "10秒钟后将转换为高重力"
+    }
+
+    "* Headshot Only Disabled *"
+    {
+        "chi" "爆头模式关闭"
+    }
+
+    "* 1 *"
+    {
+        "blocked" "1"
+        "chi" "1"
+    }
+
+    "* 2 *"
+    {
+        "blocked" "1"
+        "chi" "2"
+    }
+
+    "* 3 *"
+    {
+        "chi" "3"
+    }
+
+    "* Headshot Only Disabled in 10 sec *"
+    {
+        "chi" "10秒钟后关闭爆头模式"
+    }
+
+    "***> Fight! <***"
+    {
+        "chi" "冲!"
+    }
+
+    "*** Infinite Ammo ***"
+    {
+        "chi" "无限子弹"
+    }
+
+    "*** Auto BuunyHop & Infinite Ammo ***"
+    {
+        "chi" "自动连跳 & 无限子弹"
+    }
+
+    "*** Low Gravity ***"
+    {
+        "chi" "低重力"
+    }
+
+    "*** Auto BunnyHop ***"
+    {
+        "chi" "自动连跳"
+    }
+
+    "*> Map made by Dus?K <*"
+    {
+        "chi" "地图作者: Dus>K 地图汉化: 圣剑@风云社"
+    }
+
+    "*> Map helped by Nande? Ka[X]de! <*"
+    {
+        "chi" "地图由: Nande? Ka[X]de 协助完成!"
+    }
+
+    "*> Map Version : 7 <*"
+    {
+        "blocked" "1"
+        "chi" "> 地图版本: 7 <"
+    }
+
+    "*> Map tested by Revenant Server MG Users <*"
+    {
+        "blocked" "1"
+        "chi" "> 地图由: Revenant服务器MG玩家 测试 <"
+    }
+
+    "@[MAP] mg_Headshot_Machine_Multiarenas"
+    {
+        "chi" "mg_Headshot_Machine_Multiarenas"
+    }
+
+    "* Knife Equipped *"
+    {
+        "chi" "匕首已发放"
+    }
+
+    "* Knife Equipped in 10 sec *"
+    {
+        "chi" "10秒钟后发放匕首"
+    }
+
+    "* Boost Disabled *"
+    {
+        "chi" "加速板已关闭"
+    }
+
+    "* Boost Disabled in 10 sec *"
+    {
+        "chi" "10秒钟后关闭加速板"
+    }
+
+    "*** USP-S ***"
+    {
+        "chi" "USP"
+    }
+
+    "*** Glock-18 ***"
+    {
+        "chi" "glock"
+    }
+
+    "*** P250 ***"
+    {
+        "chi" "p250"
+    }
+
+    "*** Dual Berettas ***"
+    {
+        "chi" "双持贝雷塔"
+    }
+
+    "*** Five-seveN ***"
+    {
+        "chi" "Five-seveN"
+    }
+
+    "*** Tec-9 ***"
+    {
+        "chi" "Tec-9"
+    }
+
+    "*** Desert Eagle ***"
+    {
+        "chi" "沙鹰"
+    }
+
+    "*** Nova ***"
+    {
+        "chi" "新星"
+    }
+
+    "*** XM1014 ***"
+    {
+        "chi" "XM1014"
+    }
+
+    "*** MAG-7 ***"
+    {
+        "chi" "MAG-7"
+    }
+
+    "*** Sawedoff ***"
+    {
+        "chi" "截断霰弹枪"
+    }
+
+    "*** M249 ***"
+    {
+        "chi" "M249"
+    }
+
+    "*** MP9 ***"
+    {
+        "chi" "MP9"
+    }
+
+    "*** MAC-10 ***"
+    {
+        "chi" "MAC10"
+    }
+
+    "*** MP7 ***"
+    {
+        "chi" "MP7"
+    }
+
+    "*** UMP-45 ***"
+    {
+        "chi" "UMP-45"
+    }
+
+    "*** P90 ***"
+    {
+        "chi" "P90"
+    }
+
+    "*** PP-Bizon ***"
+    {
+        "chi" "PP野牛"
+    }
+
+    "*** FAMAS ***"
+    {
+        "chi" "FAMAS"
+    }
+
+    "*** Galil AR ***"
+    {
+        "chi" "Galil AR"
+    }
+
+    "*** M4A4 ***"
+    {
+        "chi" "M4A4"
+    }
+
+    "*** M4A1-S ***"
+    {
+        "chi" "M4A1-S"
+    }
+
+    "*** AK-47 ***"
+    {
+        "chi" "AK47"
+    }
+
+    "*** AUG ***"
+    {
+        "chi" "AUG"
+    }
+
+    "*** SG 556 ***"
+    {
+        "chi" "SG 556"
+    }
+
+    "*** SSG 08 ***"
+    {
+        "chi" "SSG 08"
+    }
+
+    "*** AWP ***"
+    {
+        "chi" "AWP"
+    }
+
+    "*** SCAR-20 ***"
+    {
+        "chi" "SCAR-20"
+    }
+
+    "*** G3SG1 ***"
+    {
+        "chi" "G3SG1"
+    }
+
+    "*** Negev ***"
+    {
+        "chi" "内格夫"
+    }
+
+}

@@ -1,0 +1,83 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "@[Map] Map ERROR!!!"
+    {
+        "chi" "地图发生错误!!!"
+    }
+
+    "@[Map] Resets the map"
+    {
+        "chi" "请重置地图"
+    }
+
+    "@[Map] Map restored, the beginning of the game after 3 seconds"
+    {
+        "chi" "地图已还原 3秒钟后开始游戏"
+    }
+
+    "@[Music] Alan Walker - Alone"
+    {
+        "chi" "BGM: Alan Walker - Alone"
+    }
+
+    "@[Music] Cash Cash - Surrender (Tritonal Remix)"
+    {
+        "chi" "BGM: Cash Cash - Surrender (Tritonal Remix)"
+    }
+
+    "@[Music] Kevin Blanc & Julia Kins - Better Days"
+    {
+        "chi" "BGM: Kevin Blanc & Julia Kins - Better Days"
+    }
+
+    "@[Music] Lilly Wood & The Prick and Robin Schulz - Prayer In C"
+    {
+        "chi" "BGM: Lilly Wood & The Prick and Robin Schulz - Prayer In C"
+    }
+
+    "@[Music] Sia - Chandelier"
+    {
+        "chi" "BGM: Sia - Chandelier"
+    }
+
+    "@[Map] Crystal is activated, the beginning of the battle in 5 seconds"
+    {
+        "chi" "水晶已被激活 5秒钟后开战"
+    }
+
+    ">>Try to survive for 130 seconds for coming into the Kingroom<<"
+    {
+        "chi" "撑住130秒钟就可以抵达大佬房"
+    }
+
+    "@[Map] Map made by RED"
+    {
+        "chi" "地图作者: RED 地图汉化: 圣剑@风云社"
+    }
+
+    "@[Map] Map ported by Blogger(Dog)/vedeshka"
+    {
+        "chi" "地图移植: Blogger(Dog)/vedeshka"
+    }
+
+    "@[Map] Design by KarKz"
+    {
+        "chi" "地图设计: KarKz"
+    }
+
+    "@[Map] Special thanks to SpsZaPIZZA"
+    {
+        "chi" "特别感谢: SpsZaPIZZA"
+    }
+
+    ">>Your time for 20 seconds in the kingroom<<"
+    {
+        "chi" "你还可以在大佬房待20秒钟的时间"
+    }
+
+}
