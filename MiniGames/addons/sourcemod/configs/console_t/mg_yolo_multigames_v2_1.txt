@@ -185,6 +185,7 @@
     "@[MAP] You can now cross over to enemylines"
     {
         "blocked" "1"
+        "chi" "** **"
     }
 
     "@[MAP] Blocks breaking in 30 seconds"

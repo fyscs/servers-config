@@ -60,21 +60,25 @@
     ">>>Whitelist the commands below:<<<"
     {
         "blocked" "1"
+        "chi" "** **"
     }
 
     ">>sm_cvar, sm_say<<"
     {
         "blocked" "1"
+        "chi" "** **"
     }
 
     ">>Map requires (balanced values if you don't want to whitelist it):<<<"
     {
         "blocked" "1"
+        "chi" "** **"
     }
 
     ">>>cs_enable_player_physics_box 1 & phys_pushscale 900 & phys_timescale 0.75<<<"
     {
         "blocked" "1"
+        "chi" "** **"
     }
 
     "Walls Will Break In 5 Seconds."
