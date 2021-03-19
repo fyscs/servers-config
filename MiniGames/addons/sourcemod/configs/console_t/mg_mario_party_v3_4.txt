@@ -183,7 +183,7 @@
 
     "Floor damage starting in 20 seconds..."
     {
-        "chi" 20秒钟后开启地板伤害..."
+        "chi" "20秒钟后开启地板伤害..."
     }
 
     "***Climbing race Selected***"
@@ -299,6 +299,7 @@
     "If guns dont appear, type mp_weapons_allow_map_placed 1 into console."
     {
         "blocked" "1"
+        "chi" "** **"
     }
 
     "***Floating Islands Selected***"
