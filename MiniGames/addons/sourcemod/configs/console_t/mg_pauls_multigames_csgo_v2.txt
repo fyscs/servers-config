@@ -1,0 +1,143 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "**Normal Mode Enabled**"
+    {
+        "chi" "普通模式开启"
+    }
+
+    "Go !"
+    {
+        "chi" ">冲!<"
+    }
+
+    ">1<"
+    {
+        "blocked" "1"
+        "chi" "1"
+    }
+
+    ">2<"
+    {
+        "blocked" "1"
+        "chi" "2"
+    }
+
+    ">3<"
+    {
+        "blocked" "1"
+        "chi" "3"
+    }
+
+    ">4<"
+    {
+        "blocked" "1"
+        "chi" "4"
+    }
+
+    ">5<"
+    {
+        "chi" "5"
+    }
+
+    "**Dodge the sliding beams by jumping and crouching**"
+    {
+        "chi" "通过跳和蹲来躲避来袭的障碍"
+    }
+
+    "**You both got teleported at the same time - Knife it out**"
+    {
+        "chi" "你们被同时传送了!用刀一决胜负吧!"
+    }
+
+    "**Rotating Wall Starts in...*"
+    {
+        "chi" "旋转墙即将启动..."
+    }
+
+    "**5...*"
+    {
+        "chi" "5"
+    }
+
+    "**4...*"
+    {
+        "blocked" "1"
+        "chi" "4..."
+    }
+
+    "**3...*"
+    {
+        "blocked" "1"
+        "chi" "3..."
+    }
+
+    "**2...*"
+    {
+        "blocked" "1"
+        "chi" "2..."
+    }
+
+    "**1...*"
+    {
+        "blocked" "1"
+        "chi" "1..."
+    }
+
+    "**Avoid the wall!*"
+    {
+        "chi" "不要碰到那面墙!"
+    }
+
+    "**Rotating Wall Speed Increasing**"
+    {
+        "chi" "旋转墙提速中"
+    }
+
+    "**Rotating Wall Speed Increasing again**"
+    {
+        "chi" "旋转墙再次提速"
+    }
+
+    "**Stand on the lighter textures - the darker ones fall**"
+    {
+        "chi" "站在亮面材质地板上 变黑的地板很快就会下落"
+    }
+
+    "**Map Made by [SG] Paul**"
+    {
+        "chi" "地图作者: [SG] Paul 地图汉化: 圣剑@风云社"
+    }
+
+    "**Remake by FreeDOM**"
+    {
+        "chi" "地图重置: FreeDOM"
+    }
+
+    "For StrikeArena.ru"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "MiniGame: 77.243.98.227:27024"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "Timelimit Up!"
+    {
+        "chi" "时间到!"
+    }
+
+    "**Hard Mode Enabled**"
+    {
+        "chi" "困难模式开启"
+    }
+
+}

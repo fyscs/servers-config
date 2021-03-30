@@ -1,0 +1,272 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "[BHOP] Somebody won the race!"
+    {
+        "chi" "有人已经赢下了这场竞赛!"
+    }
+
+    "[BHOP] Teleporting the losers!"
+    {
+        "chi" "正在传送其他玩家!"
+    }
+
+    "[MAP] 500HP Spawn-Knife!"
+    {
+        "chi" "500HP出生点刀战!"
+    }
+
+    "[MAP] 1 Minute left!"
+    {
+        "chi" "还剩60秒!"
+    }
+
+    "[MAP] 10 Seconds left!"
+    {
+        "chi" "最后10秒钟!"
+    }
+
+    "[MAP] Bunny-Hop!"
+    {
+        "chi" "连跳"
+    }
+
+    "[MAP] 5..."
+    {
+        "chi" "5"
+    }
+
+    "[MAP] 4..."
+    {
+        "blocked" "1"
+        "chi" "4"
+    }
+
+    "[MAP] 3..."
+    {
+        "blocked" "1"
+        "chi" "3"
+    }
+
+    "[MAP] 2..."
+    {
+        "blocked" "1"
+        "chi" "2"
+    }
+
+    "[MAP] 1..."
+    {
+        "blocked" "1"
+        "chi" "1"
+    }
+
+    "[MAP] 0..."
+    {
+        "blocked" "1"
+        "chi" "0!"
+    }
+
+    "[MAP] Dodgeball!"
+    {
+        "chi" "躲避球"
+    }
+
+    "[MAP] Climb!"
+    {
+        "chi" "攀登"
+    }
+
+    "[MAP] Autporting to Lvl2 climb!"
+    {
+        "chi" "自动传送落后玩家至第二关"
+    }
+
+    "[MAP] Autporting to Lvl3 climb!"
+    {
+        "chi" "自动传送落后玩家至第三关"
+    }
+
+    "[MAP] 1v1 Deagle - HEADSHOT ONLY!"
+    {
+        "chi" "1V1沙鹰(爆头)"
+    }
+
+    "[MAP] Chosing Players"
+    {
+        "chi" "正在选择玩家"
+    }
+
+    "[MAP] 1v1 Deagle - 1HP!"
+    {
+        "chi" "1v1沙鹰(1HP)"
+    }
+
+    "[MAP] 1v1 Deagle - Normal!"
+    {
+        "chi" "1v1沙鹰(普通)"
+    }
+
+    "[MAP] Grenades! R.I.P. Basketball"
+    {
+        "chi" "nadeking!"
+    }
+
+    "[MAP] You guys take too long to kill each other. Let me destroy the wall for you! <3"
+    {
+        "chi" "你们炸个人也太浪费时间了,干脆把中间这堵墙拿掉吧! <3 "
+    }
+
+    "[MAP] Longjump!"
+    {
+        "chi" "长跳"
+    }
+
+    "[MAP] You have 45 seconds to build up speed and jump from the ramp."
+    {
+        "chi" "你还有有45秒的时间加速!"
+    }
+
+    "[MAP] The Player who made it the farthest wins."
+    {
+        "chi" "飞的最远的玩家获胜(注意倒计时)"
+    }
+
+    "[MAP] 8..."
+    {
+        "blocked" "1"
+        "chi" "8"
+    }
+
+    "[MAP] Teleporting Losers"
+    {
+        "chi" "正在传送其他玩家"
+    }
+
+    "[MAP] 6..."
+    {
+        "blocked" "1"
+        "chi" "6"
+    }
+
+    "[MAP] 9..."
+    {
+        "blocked" "1"
+        "chi" "9"
+    }
+
+    "[MAP] 10..."
+    {
+        "chi" "10"
+    }
+
+    "[MAP] 7..."
+    {
+        "blocked" "1"
+        "chi" "7"
+    }
+
+    "Map made by WL! (STEAM_1:0:104117293)"
+    {
+        "chi" "地图作者: WL! (STEAM_1:0:104117293) 地图汉化: 圣剑@风云社"
+    }
+
+    "[Music] Alex Komlew & Kevin Zaremba - Summer Sun"
+    {
+        "chi" "BGM: Alex Komlew & Kevin Zaremba - Summer Sun"
+    }
+
+    "[Music] Kubbi - Up In My Jam"
+    {
+        "chi" "BGM: Kubbi - Up In My Jam"
+    }
+
+    "[Music] Watsky - Never Let it Die"
+    {
+        "chi" "BGM: Watsky - Never Let it Die"
+    }
+
+    "[Music] Watsky - Ugly Faces"
+    {
+        "chi" "BGM: Watsky - Ugly Faces"
+    }
+
+    "[Music] benjamin francis leftwich - shine kygo remix"
+    {
+        "chi" "BGM: benjamin francis leftwich - shine kygo remix"
+    }
+
+    "[Music] Charlie Puth - Betty Boop Original Mix"
+    {
+        "chi" "BGM: Charlie Puth - Betty Boop Original Mix"
+    }
+
+    "[Music] jrabbit - tequila remix"
+    {
+        "chi" "BGM: jrabbit - tequila remix"
+    }
+
+    "[MAP] Someone finished Climb!"
+    {
+        "chi" "一名玩家已经登顶"
+    }
+
+    "[MAP] Chosing new Players!"
+    {
+        "chi" "选择新的玩家"
+    }
+
+    "[MAP] A Player won his duel!"
+    {
+        "chi" "一名玩家赢下了这场决斗"
+    }
+
+    "[MAP] Battle - DEAGLE - 100HP!"
+    {
+        "chi" "竞技场 - 沙鹰 - 100hp"
+    }
+
+    "[MAP] Deagle Fight - 1HP !"
+    {
+        "chi" "1HP沙鹰乱斗"
+    }
+
+    "[MAP] Battle - DEAGLE - Headshot ONLY!"
+    {
+        "chi" "竞技场 - 沙鹰 - 爆头模式"
+    }
+
+    "[MAP] Battle - KNIFE - 100HP!"
+    {
+        "chi" "竞技场 - 刀战 - 100HP"
+    }
+
+    "[MAP] Battle - KNIFE - 250HP!"
+    {
+        "chi" "竞技场 - 刀战 - 250HP"
+    }
+
+    "[MAP] Battle - KNIFE - 1HP!"
+    {
+        "chi" "竞技场 - 刀战 - 1HP"
+    }
+
+    "[MAP] Player AFK or too slow. Chosing RANDOM Game."
+    {
+        "chi" "玩家挂机或是太慢.正在随机选择游戏"
+    }
+
+    "[MAP] AWP - Battle!"
+    {
+        "chi" "AWP竞技场"
+    }
+
+    "[MAP] Scout - Battle!"
+    {
+        "chi" "SSG08竞技场"
+    }
+
+}

@@ -1,0 +1,73 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "Game starting in 10"
+    {
+        "chi" "10"
+    }
+
+    "Game starting in 9"
+    {
+        "blocked" "1"
+        "chi" "9秒钟后游戏开始"
+    }
+
+    "Game starting in 8"
+    {
+        "blocked" "1"
+        "chi" "8秒钟后游戏开始"
+    }
+
+    "Game starting in 7"
+    {
+        "blocked" "1"
+        "chi" "7秒钟后游戏开始"
+    }
+
+    "Game starting in 6"
+    {
+        "blocked" "1"
+        "chi" "6秒钟后游戏开始"
+    }
+
+    "Game starting in 5"
+    {
+        "blocked" "1"
+        "chi" "5秒钟后游戏开始"
+    }
+
+    "Game starting in 4"
+    {
+        "blocked" "1"
+        "chi" "4秒钟后游戏开始"
+    }
+
+    "Game starting in 3"
+    {
+        "blocked" "1"
+        "chi" "3秒钟后游戏开始"
+    }
+
+    "Game starting in 2"
+    {
+        "blocked" "1"
+        "chi" "2秒钟后游戏开始"
+    }
+
+    "Game starting in 1"
+    {
+        "blocked" "1"
+        "chi" "1秒钟后游戏开始"
+    }
+
+    "Game Started"
+    {
+        "blocked" "1"
+        "chi" "游戏正式开始"
+    }
+
+}

@@ -1,0 +1,23 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "Spawn fight! MAC-10 for all players!"
+    {
+        "chi" "出生点乱斗! 所有玩家人手一把MAC-10!"
+    }
+
+    "Fan will stop after 60 seconds."
+    {
+        "chi" "60秒钟后风扇停转"
+    }
+
+    "Fan stopped."
+    {
+        "chi" "风扇已停转"
+    }
+
+}

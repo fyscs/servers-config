@@ -1,0 +1,337 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "@[MAP] Knife Damage Enabled"
+    {
+        "chi" "刀伤已开启"
+    }
+
+    "@[MAP] Knife Damage Enabled In 10 Seconds"
+    {
+        "chi" "10秒钟后开启刀伤"
+    }
+
+    "@[MAP] 1HP FOOTBALL"
+    {
+        "chi" "1hp足球"
+    }
+
+    "@[MAP] Type mat_colorcorrection 1 in console"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "@[MAP] WALLHACKS"
+    {
+        "chi" "透视"
+    }
+
+    "@[MUSIC] Avicii ft. Robbie Williams - The Days"
+    {
+        "chi" "BGM: Avicii ft. Robbie Williams - The Days"
+    }
+
+    "@[MUSIC] Cazzette feat. The High - Sleepless"
+    {
+        "chi" "BGM: Cazzette feat. The High - Sleepless"
+    }
+
+    "@[MUSIC] Ed Sheeran - I See Fire (Kygo Remix)"
+    {
+        "chi" "BGM: Ed Sheeran - I See Fire (Kygo Remix)"
+    }
+
+    "@[MUSIC] Kid Cudi - Pursuit Of Happiness ft. MGMT"
+    {
+        "chi" "BGM: Kid Cudi - Pursuit Of Happiness ft. MGMT"
+    }
+
+    "@[MUSIC] Kool & The Gang - Get Down On It"
+    {
+        "chi" "BGM: Kool & The Gang - Get Down On It"
+    }
+
+    "@[MUSIC] Ellie Goulding - Goodness Gracious"
+    {
+        "chi" "BGM: Ellie Goulding - Goodness Gracious"
+    }
+
+    "@[MUSIC] MGMT - Electric Feel (DallasK Remix)"
+    {
+        "chi" "BGM: MGMT - Electric Feel (DallasK Remix)"
+    }
+
+    "@[MUSIC] Taylor Swift - Shake It Off"
+    {
+        "chi" "BGM: Taylor Swift - Shake It Off"
+    }
+
+    "@[MUSIC] Watsky- Never Let it Die"
+    {
+        "chi" "BGM: Watsky- Never Let it Die"
+    }
+
+    "@[MAP] KNIFE"
+    {
+        "chi" "刀战"
+    }
+
+    "@[MAP] SLIDE"
+    {
+        "chi" "环形滑道"
+    }
+
+    "@[MAP] Conveyers disabled"
+    {
+        "chi" "加速道已失效"
+    }
+
+    "@[MAP] AIRDROP"
+    {
+        "chi" "天降正义"
+    }
+
+    "@[MAP] CORRIDOR"
+    {
+        "chi" "长廊"
+    }
+
+    "@[MAP] SHOOTING RANGE"
+    {
+        "chi" "靶场"
+    }
+
+    "@[MAP] HEADSHOT PISTOL"
+    {
+        "chi" "手枪(爆头)"
+    }
+
+    "@[MAP] AFK KILLER IMMINENT"
+    {
+        "chi" "挂机玩家即将处死"
+    }
+
+    "@[MAP] SKEET"
+    {
+        "chi" "打飞碟"
+    }
+
+    "@[MAP] SURVIVAL"
+    {
+        "chi" "色盲检测"
+    }
+
+    "@[MAP] VIP"
+    {
+        "chi" "保护VIP"
+    }
+
+    "@[MAP] You can now go up the middle!"
+    {
+        "chi" "可以进入地图中间的发射器了!"
+    }
+
+    "@[MAP] GOAL!!!!"
+    {
+        "chi" "球进啦!!!"
+    }
+
+    "@[MAP] TERRORISTS WIN!"
+    {
+        "chi" "T阵营胜利!"
+    }
+
+    "@[MAP] COUNTER TERRORISTS WIN!"
+    {
+        "chi" "CT阵营胜利!"
+    }
+
+    "@[MAP] The sniping team can now leave the awping area!"
+    {
+        "chi" "狙击手们现在可以离开狙台了!"
+    }
+
+    "@[MAP] Teleport triggers DISABLED!"
+    {
+        "chi" "传送触发关闭"
+    }
+
+    "@[MAP] Ceiling breaking in 5 seconds!"
+    {
+        "chi" "天花板将在5秒钟后碎裂!"
+    }
+
+    "@[MAP] Game starting in 10 seconds.."
+    {
+        "chi" "10秒钟后开始游戏"
+    }
+
+    "@[MAP] Game starting in 5 seconds.."
+    {
+        "blocked" "1"
+        "chi" "5秒钟后开始游戏"
+    }
+
+    "@[MAP] CYAN - 10 seconds"
+    {
+        "chi" "青色 - 倒计时10秒钟"
+    }
+
+    "@[MAP] RED - 5 seconds"
+    {
+        "chi" "红色 - 倒计时5秒钟"
+    }
+
+    "@[MAP] ORANGE - 5 seconds"
+    {
+        "chi" "橘色 - 倒计时5秒钟"
+    }
+
+    "@[MAP] WHITE - 5 seconds"
+    {
+        "chi" "白色 - 倒计时5秒钟"
+    }
+
+    "@[MAP] GREEN - 5 seconds"
+    {
+        "chi" "绿色 - 倒计时5秒钟"
+    }
+
+    "@[MAP] BLUE - 7 seconds"
+    {
+        "chi" "蓝色 - 倒计时7秒钟"
+    }
+
+    "@[MAP] PINK - 13 seconds"
+    {
+        "chi" "粉色 - 倒计时13秒钟"
+    }
+
+    "@[MAP] PURPLE - 13 seconds"
+    {
+        "chi" "紫色 - 倒计时13秒钟"
+    }
+
+    "@[MAP] BROWN - 11 seconds"
+    {
+        "chi" "棕色 - 倒计时11秒钟"
+    }
+
+    "@[MAP] YELLOW - 8 seconds"
+    {
+        "chi" "黄色 - 倒计时8秒钟"
+    }
+
+    "@[MAP] Map ending...."
+    {
+        "chi" "地图结束中..."
+    }
+
+    "@[MAP] ONE TERRORIST VIP REMAINING!"
+    {
+        "chi" "T只剩下一名VIP了!"
+    }
+
+    "@[MAP] Both TERRORIST VIP's have been killed!"
+    {
+        "chi" "T的VIP已全部阵亡"
+    }
+
+    "@[MAP] ONE COUNTER-TERRORIST VIP REMAINING!"
+    {
+        "chi" "CT只剩下一名VIP了!"
+    }
+
+    "@[MAP] Both COUNTER-TERRORIST VIP's have been killed!"
+    {
+        "chi" "CT的VIP已全部阵亡"
+    }
+
+    "@[MAP] [Objective] - Eliminate both of the enemies VIPs!"
+    {
+        "chi" "[主要目标] - 消灭敌方VIPs!"
+    }
+
+    "@[MAP] PORTAL SLIDE"
+    {
+        "chi" "传送门滑道"
+    }
+
+    "@[MAP] FALL DAMAGE is DISABLED"
+    {
+        "chi" "跌落伤害已关闭"
+    }
+
+    "@[MAP] Shotguns enabled in 5 seconds"
+    {
+        "chi" "5秒钟后发放霰弹枪"
+    }
+
+    "@[MAP] Weapons supply in 5 seconds..."
+    {
+        "chi" "武器补给将在5秒钟后到达..."
+    }
+
+    "@[MAP] BombSite Unlocked"
+    {
+        "chi" "包点已解锁"
+    }
+
+    "@[MAP] EXPLOSIVE BALLS"
+    {
+        "chi" "爆炸球"
+    }
+
+    "@[MAP] 50HP KNIFE"
+    {
+        "chi" "50HP刀战"
+    }
+
+    "@[MAP] SMOKEWARS"
+    {
+        "chi" "烟雾弹大战"
+    }
+
+    "@[MAP] TUNNEL VISION"
+    {
+        "chi" "管视"
+    }
+
+    "@[MAP] START!"
+    {
+        "chi" "开始!"
+    }
+
+    "@[MAP] You may now cross-over"
+    {
+        "chi" "你现在可以越过地图中线了"
+    }
+
+    "@[MAP] KILLER BALLS"
+    {
+        "chi" "杀人足球"
+    }
+
+    "@[MAP] 3...."
+    {
+        "chi" "3"
+    }
+
+    "@[MAP] 2...."
+    {
+        "blocked" "1"
+        "chi" "2"
+    }
+
+    "@[MAP] 1...."
+    {
+        "blocked" "1"
+        "chi" "1"
+    }
+
+}

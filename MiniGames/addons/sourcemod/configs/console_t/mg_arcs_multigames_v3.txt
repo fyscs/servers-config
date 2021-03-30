@@ -1,0 +1,133 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "Locked against repetition."
+    {
+        "chi" "为防止重复选图 地图锁已启动."
+    }
+
+    "Headshot mode enabled."
+    {
+        "chi" "爆头模式已开启."
+    }
+
+    "Map by Arcaninesy"
+    {
+        "chi" "地图作者: Zetzui 地图汉化: 圣剑 @风云社"
+    }
+
+    "30 seconds remaining."
+    {
+        "chi" "还剩30秒."
+    }
+
+    "You have one minute."
+    {
+        "chi" "你有1分钟的时间."
+    }
+
+    "Three"
+    {
+        "chi" "3"
+    }
+
+    "Two"
+    {
+        "chi" "2"
+    }
+
+    "One"
+    {
+        "chi" "1"
+    }
+
+    "Good luck!"
+    {
+        "chi" "祝好运!"
+    }
+
+    "@[Map] AFK KILLER"
+    {
+        "chi" "挂机玩家已处死"
+    }
+
+    "Boxes disappear in 30 seconds."
+    {
+        "chi" "箱子将会在30秒钟后消失."
+    }
+
+    "Boxes disappear in 1 second."
+    {
+        "chi" "箱子将会在1秒钟后消失."
+    }
+
+    "Boxes disappear in 2 seconds."
+    {
+        "chi" "箱子将会在2秒钟后消失."
+    }
+
+    "Boxes disappear in 3 seconds."
+    {
+        "chi" "箱子将会在3秒钟后消失."
+    }
+
+    "Boxes disappear in 10 seconds."
+    {
+        "chi" "箱子将会在10秒钟后消失."
+    }
+
+    "Cover disappears in 30 seconds."
+    {
+        "chi" "掩体将会在30秒钟后消失."
+    }
+
+    "Cover disappears in 10 seconds."
+    {
+        "chi" "掩体将会在10秒钟后消失."
+    }
+
+    "Cover disappears in 3 seconds."
+    {
+        "chi" "掩体将会在3秒钟后消失."
+    }
+
+    "Cover disappears in 2 seconds."
+    {
+        "chi" "掩体将会在2秒钟后消失."
+    }
+
+    "Cover disappears in 1 second."
+    {
+        "chi" "掩体将会在1秒钟后消失."
+    }
+
+    "Cannons disabled."
+    {
+        "chi" "大炮已关闭."
+    }
+
+    "Cannons disabled in ten seconds."
+    {
+        "chi" "大炮将会在10秒钟后关闭."
+    }
+
+    "Random!"
+    {
+        "chi" "随机地图!"
+    }
+
+    "No remaining players to teleport. Dividing walls have been broken."
+    {
+        "chi" "没有剩余玩家可以传送. 分界墙已消失."
+    }
+
+    "Headshot/backstab mode enabled."
+    {
+        "chi" "爆头/背刺 模式已开启."
+    }
+
+}

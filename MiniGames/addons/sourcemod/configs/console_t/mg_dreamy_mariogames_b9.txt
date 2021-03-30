@@ -1,0 +1,194 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "[Map] Killing all people in 15seconds"
+    {
+        "chi" "15秒钟后处死所有玩家"
+    }
+
+    "[Map] Killing all people in 10seconds"
+    {
+        "chi" "10秒钟后处死所有玩家"
+    }
+
+    "[Map] Killing all people in 5seconds"
+    {
+        "chi" "5秒钟后处死所有玩家"
+    }
+
+    "[Map] Killing all people in 4seconds"
+    {
+        "chi" "4秒钟后处死所有玩家"
+    }
+
+    "[Map] Killing all people in 3seconds"
+    {
+        "chi" "3秒钟后处死所有玩家"
+    }
+
+    "[Map] Killing all people in 2seconds"
+    {
+        "chi" "2秒钟后处死所有玩家"
+    }
+
+    "[Map] Killing all people in 1second"
+    {
+        "chi" "1秒钟后处死所有玩家"
+    }
+
+    "[Map] nothing choosen..."
+    {
+        "chi" "没有游戏被选择..."
+    }
+
+    "[Map] climb will be the next minigame"
+    {
+        "chi" "攀登将会是下一个小游戏"
+    }
+
+    "[Map] weapon switcher will be the next minigame"
+    {
+        "chi" "可变武器混战将会是下一个小游戏"
+    }
+
+    "[Map] molotov wars will be the next minigame"
+    {
+        "chi" "燃烧瓶大战将会是下一个小游戏"
+    }
+
+    "[Map] bob-omb survival will be the next minigame"
+    {
+        "chi" "炸弹兵将会是下一个小游戏"
+    }
+
+    "[Map] reach the hill will be the next minigame"
+    {
+        "chi" "登顶巅峰将会是下一个小游戏"
+    }
+
+    "[Map] knife will be the next minigame"
+    {
+        "chi" "刀战将会是下一个小游戏"
+    }
+
+    "[Map] block shot will be the next minigame"
+    {
+        "chi" "方块大炮将会是下一个小游戏"
+    }
+
+    "[Map] skipping rope will be the next minigame"
+    {
+        "chi" "跳绳将会是下一个小游戏"
+    }
+
+    "[Map] soccer will be the next minigame"
+    {
+        "chi" "足球将会是下一个小游戏"
+    }
+
+    "[Map] Reach the top of the mountain, the cannon guy will try to block you."
+    {
+        "chi" "尝试到达山顶,大炮操作者会尽力阻挡你"
+    }
+
+    "[Map] Counter-Terrorist win"
+    {
+        "chi" "反恐精英胜利"
+    }
+
+    "[Map] Terrorist win"
+    {
+        "chi" "恐怖分子胜利"
+    }
+
+    "[Map] Everyone get every 5seconds a molotov"
+    {
+        "chi" "每名玩家每5秒钟获得一瓶燃烧瓶"
+    }
+
+    "[Map] weapon switch every 10seconds"
+    {
+        "chi" "每10秒钟变更一次武器"
+    }
+
+    "[Map] engine is switched on"
+    {
+        "chi" "引擎已开启"
+    }
+
+    "[Map] weapon damage disabled"
+    {
+        "chi" "武器伤害已关闭"
+    }
+
+    "[Map] weapon damage enabled"
+    {
+        "chi" "武器伤害已开启"
+    }
+
+    "[Map] - weapon damage disabled"
+    {
+        "chi" "武器伤害已关闭"
+    }
+
+    "[Map] - engaging easy mode"
+    {
+        "chi" "简单模式"
+    }
+
+    "[Map] - increased speed"
+    {
+        "chi" "速度已提高"
+    }
+
+    "[Map] - maximized speed"
+    {
+        "chi" "已提高到最大速度"
+    }
+
+    "[Map] - All players alive get an AWP"
+    {
+        "chi" "存活的玩家将得到AWP"
+    }
+
+    "[Map] - weapon damage enabled"
+    {
+        "chi" "武器伤害已开启"
+    }
+
+    "[Map] - fall damage disabled"
+    {
+        "chi" "跌落伤害已关闭"
+    }
+
+    "[Map] - release first bob-omb"
+    {
+        "chi" "已释放第一个炸弹兵"
+    }
+
+    "[Map] - increase bob-ombs at time to two"
+    {
+        "chi" "同一时间炸弹兵数量提高到两个"
+    }
+
+    "[Map] - maximize bob-ombs at time to three"
+    {
+        "chi" "同一时间炸弹兵数量提高到三个"
+    }
+
+    "[Map] made by Citrien for"
+    {
+        "chi" "地图作者: Citrien for 地图汉化: 圣剑@风云社"
+    }
+
+    "[Map] www.dream-community.de"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+}
