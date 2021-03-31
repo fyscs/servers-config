@@ -37,7 +37,7 @@
 
     "**You have 30 seconds to get ready**"
     {
-        "chi" "你有30秒钟的准备时间"
+        "chi" "% 你有30秒钟的准备时间 %"
     }
 
     "**5**"
@@ -76,7 +76,7 @@
 
     "**Damage will be done to players outside the cave after 80 seconds**"
     {
-        "chi" "80秒钟后将会对洞穴外的玩家造成伤害"
+        "chi" "% 80秒钟后将会对洞穴外的玩家造成伤害 %"
     }
 
     "**Map By Soc**"
