@@ -13,30 +13,30 @@
     "<1>"
     {
         "blocked" "1"
-        "chi" "% 1 %"
+        "chi" "1"
     }
 
     "<2>"
     {
         "blocked" "1"
-        "chi" "% 2 %"
+        "chi" "2"
     }
 
     "<3>"
     {
         "blocked" "1"
-        "chi" "% 3 %"
+        "chi" "3"
     }
 
     "<4>"
     {
         "blocked" "1"
-        "chi" "% 4 %"
+        "chi" "4"
     }
 
     "<5>"
     {
-        "chi" "% 5 %"
+        "chi" "<5>"
     }
 
     "ROPE-MOVE"
@@ -91,17 +91,19 @@
 
     "<3>"
     {
-        "chi" "% 3 %"
+        "chi" "<3>"
     }
 
     "<2>"
     {
-        "chi" "% 2 %"
+        "blocked" "1"
+        "chi" "2"
     }
 
     "<1>"
     {
-        "chi" "% 1 %"
+        "blocked" "1"
+        "chi" "1"
     }
 
     "map by xXm0nschd4Xx and Delta Sports clan"

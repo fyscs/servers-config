@@ -7,37 +7,43 @@
 
     "[Map] Killing all people in 15seconds"
     {
-        "chi" "% 15秒钟后处死所有玩家 %"
+        "chi" "15秒钟后处死所有玩家"
     }
 
     "[Map] Killing all people in 10seconds"
     {
-        "chi" "% 10秒钟后处死所有玩家 %"
+        "blocked" "1"
+        "chi" "10秒钟后处死所有玩家"
     }
 
     "[Map] Killing all people in 5seconds"
     {
-        "chi" "% 5秒钟后处死所有玩家 %"
+        "blocked" "1"
+        "chi" "5秒钟后处死所有玩家"
     }
 
     "[Map] Killing all people in 4seconds"
     {
-        "chi" "% 4秒钟后处死所有玩家 %"
+        "blocked" "1"
+        "chi" "4秒钟后处死所有玩家"
     }
 
     "[Map] Killing all people in 3seconds"
     {
-        "chi" "% 3秒钟后处死所有玩家 %"
+        "blocked" "1"
+        "chi" "3秒钟后处死所有玩家"
     }
 
     "[Map] Killing all people in 2seconds"
     {
-        "chi" "% 2秒钟后处死所有玩家 %"
+        "blocked" "1"
+        "chi" "2秒钟后处死所有玩家"
     }
 
     "[Map] Killing all people in 1second"
     {
-        "chi" "% 1秒钟后处死所有玩家 %"
+        "blocked" "1"
+        "chi" "1秒钟后处死所有玩家"
     }
 
     "[Map] nothing choosen..."
@@ -107,12 +113,12 @@
 
     "[Map] Everyone get every 5seconds a molotov"
     {
-        "chi" "% 每名玩家每5秒钟获得一瓶燃烧瓶 %"
+        "chi" "每五秒获得一瓶燃烧瓶"
     }
 
     "[Map] weapon switch every 10seconds"
     {
-        "chi" "% 每10秒钟变更一次武器 %"
+        "chi" "每十秒变更一次武器"
     }
 
     "[Map] engine is switched on"

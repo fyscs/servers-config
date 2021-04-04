@@ -82,7 +82,8 @@
 
     "[60 Seconds up! Random map will be picked]"
     {
-        "chi" "% 60秒钟后选择随机地图! %"
+        "blocked" "1"
+        "chi" "60秒钟后选择随机地图!"
     }
 
 }

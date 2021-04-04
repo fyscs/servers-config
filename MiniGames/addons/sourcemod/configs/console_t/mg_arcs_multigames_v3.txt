@@ -22,12 +22,12 @@
 
     "30 seconds remaining."
     {
-        "chi" "% 还剩30秒. %"
+        "chi" "还剩30秒%"
     }
 
     "You have one minute."
     {
-        "chi" "% 你有1分钟的时间. %"
+        "chi" "你有一分钟的时间"
     }
 
     "Three"
@@ -57,52 +57,60 @@
 
     "Boxes disappear in 30 seconds."
     {
-        "chi" "% 箱子将会在30秒钟后消失. %"
+        "chi" "箱子将会在30秒钟后消失."
     }
 
     "Boxes disappear in 1 second."
     {
-        "chi" "% 箱子将会在1秒钟后消失. %"
+        "blocked" "1"
+        "chi" "箱子将会在1秒钟后消失."
     }
 
     "Boxes disappear in 2 seconds."
     {
-        "chi" "% 箱子将会在2秒钟后消失. %"
+        "blocked" "1"
+        "chi" "箱子将会在2秒钟后消失."
     }
 
     "Boxes disappear in 3 seconds."
     {
-        "chi" "% 箱子将会在3秒钟后消失. %"
+        "blocked" "1"
+        "chi" "箱子将会在3秒钟后消失."
     }
 
     "Boxes disappear in 10 seconds."
     {
-        "chi" "% 箱子将会在10秒钟后消失. %"
+        "blocked" "1"
+        "chi" "箱子将会在10秒钟后消失."
     }
 
     "Cover disappears in 30 seconds."
     {
-        "chi" "% 掩体将会在30秒钟后消失. %"
+        "chi" "掩体将会在30秒钟后消失."
     }
 
     "Cover disappears in 10 seconds."
     {
-        "chi" "% 掩体将会在10秒钟后消失. %"
+        "blocked" "1"
+        "chi" "掩体将会在10秒钟后消失."
     }
 
     "Cover disappears in 3 seconds."
     {
-        "chi" "% 掩体将会在3秒钟后消失. %"
+        "blocked" "1"
+        "chi" "掩体将会在3秒钟后消失."
     }
 
     "Cover disappears in 2 seconds."
     {
-        "chi" "% 掩体将会在2秒钟后消失. %"
+        "blocked" "1"
+        "chi" "掩体将会在2秒钟后消失."
     }
 
     "Cover disappears in 1 second."
     {
-        "chi" "% 掩体将会在1秒钟后消失. %"
+        "blocked" "1"
+        "chi" "掩体将会在1秒钟后消失."
     }
 
     "Cannons disabled."
@@ -112,7 +120,7 @@
 
     "Cannons disabled in ten seconds."
     {
-        "chi" "% 大炮将会在10秒钟后关闭. %"
+        "chi" "大炮将会在10秒钟后关闭."
     }
 
     "Random!"
