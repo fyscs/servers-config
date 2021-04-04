@@ -42,22 +42,22 @@
 
     "Game: Only Knife, normal mode, Speed x3, Gravity -80%, "
     {
-        "chi" "刀战 20%重力+3倍速度"
+        "chi" "刀战 -20重力+3倍速度"
     }
 
     "Game: Only Knife, Speed x3, Gravity -80%, only stab in the back."
     {
-        "chi" "刀战,背刺模式 20%重力+3倍速度"
+        "chi" "刀战,背刺模式 -20重力+3倍速度"
     }
 
     "Game: Only Headshot Scout, Speed x2, Gravity -50%"
     {
-        "chi" "爆头模式: 鸟狙 50%重力+2倍速度"
+        "chi" "爆头模式: 鸟狙 -50重力+2倍速度"
     }
 
     "Game: Only Headshot AWP, Speed x2, Gravity -50%"
     {
-        "chi" "爆头模式: AWP 50%重力+2倍速度"
+        "chi" "爆头模式: AWP -50重力+2倍速度"
     }
 
     "Game: ThrowingSmoke: Hit 12 targets with a smokegrenade."
