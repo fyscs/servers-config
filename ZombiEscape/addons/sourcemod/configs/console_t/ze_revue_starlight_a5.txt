@@ -1,5 +1,10 @@
 "Console_T"
 {
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
     "star road will open in 10S"
     {
         "chi" "星之路10秒后开启"
@@ -117,56 +122,57 @@
 
     "we meet wall,can not go on"
     {
-        "chi" "这是一条死胡同 快回头守住"
+        "chi" "这是一条死胡同 快回头守住!"
     }
-	
-	"we can find way out,hold"
+
+    "we can find way out,hold"
     {
         "chi" "等等 我们好像发现一条道路了 再坚持一下"
     }
-	
-	"laser in 5S!watch out!"
+
+    "laser in 5S!watch out!"
     {
         "chi" "5秒后有跳刀 当心!"
     }
-	
-	"ze_revue_starlight,thanks people who helped me."
+
+    "ze_revue_starlight,thanks people who helped me."
     {
-        "chi" "ze_revue_starlight(少女歌剧) 谢谢帮助过我的人"
+        "chi" "ze_revue_starlight(少女歌剧) 感蟹帮助过我的人"
     }
-	
-	"nuke in 60S"
+
+    "nuke in 60S"
     {
         "chi" "核爆将于60秒后降临"
     }
-	
-	"<<fake ending-The 99th shengxiang Festival >>"
+
+    "<<fake ending-The 99th shengxiang Festival >>"
     {
         "chi" "<<假结局达成 我们仍未打破第99届圣翔祭的循环>>"
     }
-	
-	"zombie tp in 10S"
+
+    "zombie tp in 10S"
     {
         "chi" "僵尸10秒后传送"
     }
-	
-	"wall will break in 20S"
+
+    "wall will break in 20S"
     {
         "chi" "这堵墙需要20秒时间破坏"
     }
-	
-	"stage will open in 20S"
+
+    "stage will open in 20S"
     {
         "chi" "舞台将在20秒后开放"
     }
-	
-	"zombie coming in 5S"
+
+    "zombie coming in 5S"
     {
         "chi" "僵尸会在5秒后抵达"
     }
-	
-	"stage3-revue of envy"
+
+    "stage3-revue of envy"
     {
         "chi" "第三章 Revue Starlight"
     }
+
 }

@@ -1,315 +1,413 @@
 "Console_T"
 {
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
     ">>Hold onto this...<<"
-	{
-		"chi"		">>拿上这玩意 可能有用...<<"
-	}
-	">>Lab door opening in 10 seconds...<<"
-	{
-		"chi"		">>实验室大门将在10秒后开启<<"
-	}
-	">>HOLD THE COMPOUND FOR 50 SECONDS<<"
-	{
-		"chi"		">>守护化合物50秒<<"
-	}
-	">>10 SECONDS LEFT<<"
-	{
-		"chi"		">>还剩十秒<<"
-	}
-	">>FALL BACK<<"
-	{
-		"chi"		">>撤退!<<"
-	}
-	">>HOLD UP HERE WHILE DOORS ARE HACKED OPEN<<"
-	{
-		"chi"		">>守住这里等待黑入大门<<"
-	}
-	">>DOORS ARE OPEN! FALL BACK<<"
-	{
-		"chi"		">>大门已开启 撤退!<<"
-	}
-	">>NICE JOB! Shields powering down...<<"
-	{
-		"chi"		">>干得好!防护设施已切断电源<<"
-	}
-	">>Hold for 20 seconds...<<"
-	{
-		"chi"		">>坚守20秒...<<"
-	}
-	">>HOLD FOR 40 SECONDS<<"
-	{
-		"chi"		">>坚守40秒<<"
-	}
-	">>ELEVATOR LEAVING IN 15 SECONDS<<"
-	{
-		"chi"		">>电梯15秒后离开<<"
-	}
-	">>ESCAPE THROUGH THE OPEN DOOR!<<"
-	{
-		"chi"		">>穿过这扇大门逃离这里!<<"
-	}
-	">>You've awoken some sort of prototype...<<"
-	{
-		"chi"		">>当心!你好像唤醒了某种沉睡中的原形体...<<"
-	}
-	">>Guards are on their way!!<<"
-	{
-		"chi"		">>糟了 原形体杀过来了!!<<"
-	}
-	">>Laboratory door seals in 30 seconds!! Hold the lab!!<<"
-	{
-		"chi"		">>30秒后实验室大门就开始封锁了 守住!!<<"
-	}
-	">>Door re-opens in 25 seconds! Escape!<<"
-	{
-		"chi"		">>25秒后大门将重新开启 逃离这里!<<"
-	}
-	">>Hit the green button on the computer!<<"
-	{
-		"chi"		">>启动主电脑上的绿色按钮!<<"
-	}
-	">>DEFENSE FIELD STILL ACTIVE!<<"
-	{
-		"chi"		">>注意!防御力场仍然是启用状态<<"
-	}
-	">>THROW A GRENADE INTO THE WATCH TOWER BEHIND YOU!<<"
-	{
-		"chi"		">>准备向你身后的塔楼投掷手雷!<<"
-	}
-	">>NICE JOB! Helicopter leaving in 5 seconds<<"
-	{
-		"chi"		">>干得好!救援直升机5秒后撤离<<"
-	}
-	">>MISSION 1: INTERCEPTION (EASY)<<"
-	{
-		"chi"		">>任务1:入侵(新进干员难度)<<"
-	}
-	">>MISSION 2: ELIMINATION (HARD)<<"
-	{
-		"chi"		">>任务2:破坏(高手难度)<<"
-	}
-	">>MISSION 4: ZM<<"
-	{
-		"chi"		">>任务4:zm(感染模式)<<"
-	}
-	">>Survive until the zombie nuke!<<"
-	{
-		"chi"		">>防守直到核爆降临!<<"
-	}
-	">>Nuke launched!<<"
-	{
-		"chi"		">>核爆降临!<<"
-	}
-	">>10 seconds remain!<<"
-	{
-		"chi"		">>还剩最后十秒!<<"
-	}
-	">>Turn music to zero in options to mute the song<<"
-	{
-		"chi"		">>将选项中的音乐设置为零可使歌曲静音<<"
-	}
-	">>TYPE MAT_COLORCORRECTION 0 TO DISABLE CC<<"
-	{
-		"chi"		">>MAT_COLORCORRECTION 0可关闭视觉污染<<"
-	}
-	">>YOU HAVE DEFEATED PROTOTECH<<"
-	{
-		"chi"		">>你成功击败了原形体<<"
-	}
-	">>Missions restart after this round<<"
-	{
-		"chi"		>>任务将在本轮结束后重启<<"
-	}
-	">>YOU COMPLETED MISSION 1<<"
-	{
-		"chi"		">>你成功完成任务1<<"
-	}
-	">>ENEMY HELICOPTER INCOMING!<<"
-	{
-		"chi"		">>武装直升机到了 当心!<<"
-	}
-	">>WE CANNOT LEAVE UNTIL THAT IS GONE!<<"
-	{
-		"chi"		">>看来不击落它我们是无法继续前行了!<<"
-	}
-	">>Oh shit! Admin hit the nuke button!<<"
-	{
-		"chi"		">>卧槽 有拳男按下了核爆按钮!<<"
-	}
-	">>MISSION 1 SELECTED<<"
-	{
-		"chi"		">>已选择任务1<<"
-	}
-	">>MISSION 2 SELECTED<<"
-	{
-		"chi"		">>已选择任务2<"
-	}
-	">>MISSION 3 SELECTED<<"
-	{
-		"chi"		">>已选择任务3<<"
-	}
-	">>Elevator activating in 20 seconds<<"
-	{
-		"chi"		">>电梯20秒后启动<<"
-	}
-	">>REBOOTING...<<"
-	{
-		"chi"		">>重新启动中...<<"
-	}
-	">>HOLD FOR 40<<"
-	{
-		"chi"		">>坚守40秒<<"
-	}
-	">>Teleporting in 10 seconds<<"
-	{
-		"chi"		"*>>传送将于10秒开启<<"
-	}
-	">>They've been harvesting this creature's planet for energy... they are the monsters!<<"
-	{
-		"chi"		">>它们一直在掠夺星球的能量!干掉这群怪物!<<"
-	}
-	">>We've found the source of Prototech's power!<<"
-	{
-		"chi"		">>我们找到了原形体的能量核心!<<"
-	}
-	">>DESTROY THE RED CORE WHEN IT OPENS UP!!!<<"
-	{
-		"chi"		">>当红色核心开启就摧毁它!!!<<"
-	}
-	">>TIP: Break the glass where the zombies are approaching from!<<"
-	{
-		"chi"		">>提示: 在僵尸靠近的时候击碎玻璃!<<"
-	}
-	">>TIP: Toss the special deagles into their respective colors to the right!<<"
-	{
-		"chi"		">>提示: 把能量核心放入对应的颜色端口!<<"
-	}
-	">>You've been taken to the creature's home planet...<<"
-	{
-		"chi"		">>你被带入了原形体的母星...<<"
-	}
-	">>FINAL DEFENSE! GET ON THE TELEPORTER PAD!<<"
-	{
-		"chi"		">>背水一战 守住传送带!<<"
-	}
-	">>HOLD FOR 5 SECONDS<<"
-	{
-		"chi"		">>再坚守5秒<<"
-	}
-	">>The glass is going to shatter!! Get ready!!<<"
-	{
-		"chi"		">>防护玻璃就要碎了 做好准备!<<"
-	}
-	">>Zombies have infected the helicopter! Game-over!<<"
-	{
-		"chi"		">>僵尸病毒已泄露 你失败了...<<"
-	}
-	">>YOU DID IT! RUN FOR THE EXIT<<"
-	{
-		"chi"		">>你做到了!准备向出口撤离!<<"
-	}
-	">>Bridges disabled! Nice job<<"
-	{
-		"chi"		">>僵尸暂时不会攻过桥梁了 干得好!<<"
-	}
-	">>Throw a red cube into this! (Hint: Drop the weapon)<<"
-	{
-		"chi"		">>快!把能量核心(红色)放进去!<<"
-	}
-	">>Throw a blue cube into this! (Hint: Drop the weapon)<<"
-	{
-		"chi"		">>快!把能量核心(蓝色)放进去!<<"
-	}
-	">>Rotating stopped! Nice Job!<<"
-	{
-		"chi"		">>旋转停止了 干得好!<<"
-	}
-	">>ZM SELECTED<<"
-	{
-		"chi"		">>已选择任务zm<<"
-	}
-	">>MISSION 3: FINAL ESCAPE (EXTREME)<<"
-	{
-		"chi"		">>任务3:逃出生天(极限难度)<<"
-	}
-	">>Train door opening in 40 seconds<<"
-	{
-		"chi"		">>列车门40秒后开启<<"
-	}
-	">>Upper door opening in 35 seconds<<"
-	{
-		"chi"		">>上层大门35秒后开启<<"
-	}
-	">>Gate is preparing to open! Get on the trucks!!<<"
-	{
-		"chi"		">>列车门正在开启 快上车!<<"
-	}
-	">>Trucks leaving in 20 seconds!<<"
-	{
-		"chi"		">>列车20秒后离开!<<"
-	}
-	">>Doors opening...<<"
-	{
-		"chi"		">>大门正在开启中...<<"
-	}
-	">>Activate the elevator to prepare your escape!!<<"
-	{
-		"chi"		">>启动电梯准备逃出生天!!<<"
-	}
-	">>Don't let any zombies into the facility!<<"
-	{
-		"chi"		">>不能漏一只僵尸进入设施 守住!<<"
-	}
-	">>Doors opening in 30 seconds...<<"
-	{
-		"chi"		">>电梯门将在30秒后开启...<<"
-	}
-	">>....it looks like someone was waiting for us...<<"
-	{
-		"chi"		">>好像有什么东西在暗处凝视着我们 小心为妙...<<"
-	}
-	">>THE PROTOTYPE HAS BEEN DEFEATED!<<"
-	{
-		"chi"		">>原形体已被我们击败!<<"
-	}
-	">>ESCAPE WHILE YOU STILL CAN<<"
-	{
-		"chi"		">>赶快撤退 趁你还活着!<<"
-	}
-	">>IT IS NOT DEAD!! SHOOT IT!!<<"
-	{
-		"chi"		">>可恶!竟然还没死 给它最后的致命一击吧!<<"
-	}
-	">>HOLD FOR 15 SECONDS WHILE THE PORTAL OPENS!!!<<"
-	{
-		"chi"		">>坚守这道大门15秒!!!<<"
-	}
-	">>The prototype is dead...<<"
-	{
-		"chi"		">>原形体死了...<<"
-	}
-	">>JUMP INTO THE PORTAL! THERE IS NO GOING BACK!!!<<"
-	{
-		"chi"		">>跳进传送门!我们已经退无可退了!<<"
-	}
-	">>...DISCO MODE ENGAGED<<"
-	{
-		"chi"		">>...DISCO MODE 启用<<"
-	}
-	">>YOU WIN! MOVING ON TO ZM<<"
-	{
-		"chi"		">>你赢了!你才是真正的虐杀原形高手!<<"
-	}
-	">>CTs took too long! Game over!<<"
-	{
-		"chi"		">>太迟了 轰炸已经开始了 你失败了...<<"
-	}
-	">>Zombies infected the teleporter! Game over!<<"
-	{
-		"chi"		">>僵尸病毒已泄露 你失败了...<<"
-	}
-	">>SPLIT UP! GO TOP AND BOTTOM<<"
-	{
-		"chi"		">>兵分两路 两队同时推进!<<"
-	}
+    {
+        "chi" ">>拿上这玩意 可能有用...<<"
+    }
+
+    ">>Lab door opening in 10 seconds...<<"
+    {
+        "chi" ">>实验室大门将在10秒后开启<<"
+    }
+
+    ">>HOLD THE COMPOUND FOR 50 SECONDS<<"
+    {
+        "chi" ">>守护化合物50秒<<"
+    }
+
+    ">>10 SECONDS LEFT<<"
+    {
+        "chi" ">>还剩十秒<<"
+    }
+
+    ">>FALL BACK<<"
+    {
+        "chi" ">>撤退!<<"
+    }
+
+    ">>HOLD UP HERE WHILE DOORS ARE HACKED OPEN<<"
+    {
+        "chi" ">>守住这里等待黑入大门<<"
+    }
+
+    ">>HOLD FOR 40 SECONDS<<"
+    {
+        "chi" ">>坚守40秒<<"
+    }
+
+    ">>DOORS ARE OPEN! FALL BACK<<"
+    {
+        "chi" ">>大门已开启 撤退!<<"
+    }
+
+    ">>NICE JOB! Shields powering down...<<"
+    {
+        "chi" ">>干得好!防护设施已切断电源<<"
+    }
+
+    ">>Hold for 20 seconds...<<"
+    {
+        "chi" ">>坚守20秒...<<"
+    }
+
+    ">>SHIELDS ARE DOWN! RUN TO THE CHOPPER!<<"
+    {
+        "chi" ">>防御力场已失效!快上直升机!<<"
+    }
+
+    ">>ELEVATOR LEAVING IN 15 SECONDS<<"
+    {
+        "chi" ">>电梯15秒后离开<<"
+    }
+
+    ">>ESCAPE THROUGH THE OPEN DOOR!<<"
+    {
+        "chi" ">>穿过这扇大门逃离这里!<<"
+    }
+
+    ">>You've awoken some sort of prototype...<<"
+    {
+        "chi" ">>当心!你好像唤醒了某种沉睡中的原形体...<<"
+    }
+
+    ">>Guards are on their way!!<<"
+    {
+        "chi" ">>糟了 原形体杀过来了!!<<"
+    }
+
+    ">>Laboratory door seals in 30 seconds!! Hold the lab!!<<"
+    {
+        "chi" ">>30秒后实验室大门就开始封锁了 守住!!<<"
+    }
+
+    ">>Door re-opens in 25 seconds! Escape!<<"
+    {
+        "chi" ">>25秒后大门将重新开启 逃离这里!<<"
+    }
+
+    ">>Hit the green button on the computer!<<"
+    {
+        "chi" ">>启动主电脑上的绿色按钮!<<"
+    }
+
+    ">>DEFENSE FIELD STILL ACTIVE!<<"
+    {
+        "chi" ">>注意!防御力场仍然是启用状态<<"
+    }
+
+    ">>THROW A GRENADE INTO THE WATCH TOWER BEHIND YOU!<<"
+    {
+        "chi" ">>准备向你身后的塔楼投掷手雷!<<"
+    }
+
+    ">>NICE JOB! Helicopter leaving in 5 seconds<<"
+    {
+        "chi" ">>干得好!救援直升机5秒后撤离<<"
+    }
+
+    ">>MISSION 1: INTERCEPTION (EASY)<<"
+    {
+        "chi" ">>任务一:入侵(新进干员难度)<<"
+    }
+
+    ">>MISSION 2: ELIMINATION (HARD)<<"
+    {
+        "chi" ">>任务二:破坏(高手难度)<<"
+    }
+
+    ">>MISSION 4: ZM<<"
+    {
+        "chi" ">>任务四:zm(感染模式)<<"
+    }
+
+    ">>Survive until the zombie nuke!<<"
+    {
+        "chi" ">>防守直到核爆降临!<<"
+    }
+
+    ">>Nuke launched!<<"
+    {
+        "chi" ">>核爆降临!<<"
+    }
+
+    ">>10 seconds remain!<<"
+    {
+        "chi" ">>还剩最后十秒!<<"
+    }
+
+    ">>Turn music to zero in options to mute the song<<"
+    {
+        "chi" ">>将选项中的音乐设置为零可使歌曲静音<<"
+    }
+
+    ">>TYPE MAT_COLORCORRECTION 0 TO DISABLE CC<<"
+    {
+        "chi" ">>MAT_COLORCORRECTION 0可关闭视觉污染<<"
+    }
+
+    ">>YOU HAVE DEFEATED PROTOTECH<<"
+    {
+        "chi" ">>你成功击败了原形体<<"
+    }
+
+    ">>Missions restart after this round<<"
+    {
+        "chi" ">>任务将在本轮结束后重启<<"
+    }
+
+    ">>YOU COMPLETED MISSION 1<<"
+    {
+        "chi" ">>你成功完成任务一<<"
+    }
+
+    ">>ENEMY HELICOPTER INCOMING!<<"
+    {
+        "chi" ">>武装直升机来袭 当心!<<"
+    }
+
+    ">>WE CANNOT LEAVE UNTIL THAT IS GONE!<<"
+    {
+        "chi" ">>看来不击落它我们是无法继续前行了!<<"
+    }
+
+    ">>HELICOPTER WILL ATTACK IN 1 MINUTE!!<<"
+    {
+        "chi" ">>武装直升机无差别轰炸一分钟后到来!<<"
+    }
+
+    ">>Oh shit! Admin hit the nuke button!<<"
+    {
+        "chi" ">>卧槽 有拳男按下了核爆按钮!<<"
+    }
+
+    ">>MISSION 1 SELECTED<<"
+    {
+        "chi" ">>已选择任务一<<"
+    }
+
+    ">>MISSION 2 SELECTED<<"
+    {
+        "chi" ">>已选择任务二<<"
+    }
+
+    ">>MISSION 3 SELECTED<<"
+    {
+        "chi" ">>已选择任务三<<"
+    }
+
+    ">>Elevator activating in 20 seconds<<"
+    {
+        "chi" ">>电梯20秒后启动<<"
+    }
+
+    ">>REBOOTING...<<"
+    {
+        "chi" ">>重新启动中...<<"
+    }
+
+    ">>HOLD FOR 40<<"
+    {
+        "chi" ">>坚守40秒<<"
+    }
+
+    ">>Teleporting in 10 seconds<<"
+    {
+        "chi" ">>传送将于10秒开启<<"
+    }
+
+    ">>They've been harvesting this creature's planet for energy... they are the monsters!<<"
+    {
+        "chi" ">>它们竟然一直在掠夺星球的能量!干掉这群怪物!<<"
+    }
+
+    ">>We've found the source of Prototech's power!<<"
+    {
+        "chi" ">>我们找到了原形体的能量核心!<<"
+    }
+
+    ">>DESTROY THE RED CORE WHEN IT OPENS UP!!!<<"
+    {
+        "chi" ">>当红色核心开启就摧毁它!!!<<"
+    }
+
+    ">>TIP: Break the glass where the zombies are approaching from!<<"
+    {
+        "chi" ">>提示: 在僵尸靠近的时候击碎玻璃!<<"
+    }
+
+    ">>TIP: Toss the special deagles into their respective colors to the right!<<"
+    {
+        "chi" ">>提示: 把能量核心放入对应的颜色端口!<<"
+    }
+
+    ">>You've been taken to the creature's home planet...<<"
+    {
+        "chi" ">>你被带入至原形体的母星...<<"
+    }
+
+    ">>FINAL DEFENSE! GET ON THE TELEPORTER PAD!<<"
+    {
+        "chi" ">>背水一战 守住传送带!<<"
+    }
+
+    ">>HOLD FOR 5 SECONDS<<"
+    {
+        "chi" ">>再坚守5秒<<"
+    }
+
+    ">>The glass is going to shatter!! Get ready!!<<"
+    {
+        "chi" ">>防护玻璃就要碎了 做好准备!<<"
+    }
+
+    ">>Zombies have infected the helicopter! Game-over!<<"
+    {
+        "chi" ">>僵尸病毒已泄露 你失败了...<<"
+    }
+
+    ">>YOU DID IT! RUN FOR THE EXIT<<"
+    {
+        "chi" ">>你做到了!准备向出口撤离!<<"
+    }
+
+    ">>Bridges disabled! Nice job<<"
+    {
+        "chi" ">>僵尸暂时不会攻过桥梁了 干得好!<<"
+    }
+
+    ">>Throw a red cube into this! (Hint: Drop the weapon)<<"
+    {
+        "chi" ">>快!把能量核心(红色)放进去!<<"
+    }
+
+    ">>Throw a blue cube into this! (Hint: Drop the weapon)<<"
+    {
+        "chi" ">>快!把能量核心(蓝色)放进去!<<"
+    }
+
+    ">>Rotating stopped! Nice Job!<<"
+    {
+        "chi" ">>旋转停止了 干得好!<<"
+    }
+
+    ">>ZM SELECTED<<"
+    {
+        "chi" ">>已选择任务zm<<"
+    }
+
+    ">>MISSION 3: FINAL ESCAPE (EXTREME)<<"
+    {
+        "chi" ">>任务三:逃出生天(极限难度)<<"
+    }
+
+    ">>Train door opening in 40 seconds<<"
+    {
+        "chi" ">>列车门40秒后开启<<"
+    }
+
+    ">>Upper door opening in 35 seconds<<"
+    {
+        "chi" ">>上层大门35秒后开启<<"
+    }
+
+    ">>Gate is preparing to open! Get on the trucks!!<<"
+    {
+        "chi" ">>列车门正在开启 快上车!<<"
+    }
+
+    ">>Trucks leaving in 20 seconds!<<"
+    {
+        "chi" ">>列车20秒后离开!<<"
+    }
+
+    ">>Doors opening...<<"
+    {
+        "chi" ">>大门正在开启中...<<"
+    }
+
+    ">>Activate the elevator to prepare your escape!!<<"
+    {
+        "chi" ">>启动电梯准备逃出生天!!<<"
+    }
+
+    ">>Don't let any zombies into the facility!<<"
+    {
+        "chi" ">>不能漏一只僵尸进入设施 守住!<<"
+    }
+
+    ">>Doors opening in 30 seconds...<<"
+    {
+        "chi" ">>电梯门将在30秒后开启...<<"
+    }
+
+    ">>Elevator departing in 10 seconds...<<"
+    {
+        "chi" ">>电梯需要10秒才能启动...<<"
+    }
+
+    ">>....it looks like someone was waiting for us...<<"
+    {
+        "chi" ">>好像有什么东西在暗处凝视着我们 小心为妙...<<"
+    }
+
+    ">>THE PROTOTYPE HAS BEEN DEFEATED!<<"
+    {
+        "chi" ">>原形体已被我们击败!<<"
+    }
+
+    ">>ESCAPE WHILE YOU STILL CAN<<"
+    {
+        "chi" ">>赶快撤退 趁你还活着!<<"
+    }
+
+    ">>IT IS NOT DEAD!! SHOOT IT!!<<"
+    {
+        "chi" ">>可恶!竟然还没死 给它最后的致命一击吧!<<"
+    }
+
+    ">>HOLD FOR 15 SECONDS WHILE THE PORTAL OPENS!!!<<"
+    {
+        "chi" ">>坚守这道大门15秒!!!<<"
+    }
+
+    ">>The prototype is dead...<<"
+    {
+        "chi" ">>原形体死了...<<"
+    }
+
+    ">>JUMP INTO THE PORTAL! THERE IS NO GOING BACK!!!<<"
+    {
+        "chi" ">>跳进传送门!我们已经退无可退了!<<"
+    }
+
+    ">>...DISCO MODE ENGAGED<<"
+    {
+        "chi" ">>...DISCO MODE 启用<<"
+    }
+
+    ">>YOU WIN! MOVING ON TO ZM<<"
+    {
+        "chi" ">>你赢了!你才是真正的虐杀原形高手!<<"
+    }
+
+    ">>CTs took too long! Game over!<<"
+    {
+        "chi" ">>太迟了 轰炸已经开始了 你失败了...<<"
+    }
+
+    ">>Zombies infected the teleporter! Game over!<<"
+    {
+        "chi" ">>僵尸病毒已泄露 你失败了...<<"
+    }
+
+    ">>SPLIT UP! GO TOP AND BOTTOM<<"
+    {
+        "chi" ">>兵分两路 两队同时推进!<<"
+    }
+
 }
