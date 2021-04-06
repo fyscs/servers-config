@@ -326,7 +326,7 @@
 	}
 	"***For some reason my profile is dead, you can find me on GUC / GFL discord***"
 	{
-		"chi"		"由于某些原因我的个人资料已失效,你可以在 GUC / GFL 上找到我"
+		"chi"		"由于某些原因我的个人资料已失效,你可以在 GUC, GFL 上找到我"
 	}
 	"***This is the final version of the map, there won't be any more patches/changes unless needed...***"
 	{
@@ -338,7 +338,8 @@
 	}
 	"***Custom assets 90% done by me***"
 	{
-		"chi"		"地图的90%由我完成"
+		"blocked"   "1"
+		"chi"		"** **"
 	}
 	"<<<Duessel mentions a Dark Stone to Ephraim>>>"
 	{
