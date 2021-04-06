@@ -67,17 +67,19 @@
 
     "@[Map] Design by KarKz"
     {
+        "blocked" "1"
         "chi" "地图设计: KarKz"
     }
 
     "@[Map] Special thanks to SpsZaPIZZA"
     {
+        "blocked" "1"
         "chi" "特别感谢: SpsZaPIZZA"
     }
 
     ">>Your time for 20 seconds in the kingroom<<"
     {
-        "chi" "你还可以在大佬房待20秒钟的时间"
+        "chi" "大佬房只开放二十秒,做出你的选择!"
     }
 
 }
