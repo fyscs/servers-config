@@ -82,19 +82,19 @@
 	}
 	"<< The lift will RE-recharge if the power is more than 100 >>"
 	{
-		"chi"		"**充能100%,电梯将会重启**"
+		"chi"		"**充能完成,电梯将会重启**"
 	}
 	"<< TIPS: red square will get 10 power >>"
 	{
-		"chi"		"**红色: 10%**"
+		"chi"		"**红色: 1/10**"
 	}
 	"<< TIPS: green square will get 20 power >>"
 	{
-		"chi"		"**绿色: 20%**"
+		"chi"		"**绿色: 1/5**"
 	}
 	"<< TIPS: blue square will get 30 power >>"
 	{
-		"chi"		"**蓝色: 30%**"
+		"chi"		"**蓝色: 3/10**"
 	}
 	"<< TIPS: white square will refresh other square >>"
 	{
@@ -106,7 +106,7 @@
 	}
 	"Current Power: 0"
 	{
-		"chi"		"**完成充能: 0%**"
+		"chi"		"**完成充能: 0...**"
 	}
 	"COMPLETE!!!"
 	{

@@ -17,7 +17,7 @@
 
     "@[Time] TimeLimit"
     {
-        "chi" "时间有限"
+        "chi" "时间到"
     }
 
     "@[Map] Holes"
@@ -77,32 +77,32 @@
 
     "@[Map] TimeLimit"
     {
-        "chi" "时间有限"
+        "chi" "时间到"
     }
 
     "@[Map] Winners Get 10 Points"
     {
-        "chi" "胜者将得到10分"
+        "chi" "胜者将得到十分"
     }
 
     "@[Map] Refire Time - 3 seconds"
     {
-        "chi" "方块坠落间隔 3秒钟"
+        "chi" "方块坠落间隔 三秒"
     }
 
     "@[Map] Refire Time - 2 seconds"
     {
-        "chi" "方块坠落间隔 2秒钟"
+        "chi" "方块坠落间隔 两秒"
     }
 
     "@[Map] Refire Time -  1 second"
     {
-        "chi" "方块坠落间隔 1秒钟"
+        "chi" "方块坠落间隔 一秒"
     }
 
     "@[Map] Refire Time -  0.5 seconds"
     {
-        "chi" "方块坠落间隔 0.5秒钟"
+        "chi" "方块坠落间隔 零点五秒"
     }
 
     "@[Map] Random Timer Disabled"
@@ -117,32 +117,32 @@
 
     "@[Map] Refire Time -  0.3 seconds"
     {
-        "chi" "方块坠落间隔 0.3秒钟"
+        "chi" "方块坠落间隔 零点三秒"
     }
 
     "@[Map] Falling Boxes"
     {
-        "chi" "天坠方块"
+        "chi" "天坠"
     }
 
     "@[Map] 30 Seconds"
     {
-        "chi" "30秒"
+        "chi" "三十秒"
     }
 
     "@[Map] 3 MINUTES REMAINING"
     {
-        "chi" "剩余时间3分钟"
+        "chi" "剩余时间三分钟"
     }
 
     "@[Map] 2 MINUTES REMAINING"
     {
-        "chi" "剩余时间2分钟"
+        "chi" "剩余时间两分钟"
     }
 
     "@[Map] 1 MINUTES REMAINING"
     {
-        "chi" "剩余时间1分钟"
+        "chi" "剩余时间60秒"
     }
 
     "@[Map] Climb"
@@ -212,11 +212,13 @@
 
     "@[Map]  AFK TIMER in 30 sec"
     {
+        "blocked" "1"
         "chi" "30秒钟后自动选图"
     }
 
     "@[Map] AFK TIMER activated"
     {
+        "blocked" "1"
         "chi" "挂机计时已启动"
     }
 
@@ -227,6 +229,7 @@
 
     "@[Map] AFK TIMER in 10 sec"
     {
+        "blocked" "1"
         "chi" "10秒钟后自动选图"
     }
 

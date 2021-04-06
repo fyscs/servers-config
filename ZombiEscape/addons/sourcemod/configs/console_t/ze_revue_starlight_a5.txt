@@ -1,0 +1,178 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "star road will open in 10S"
+    {
+        "chi" "星之路10秒后开启"
+    }
+
+    "we can get in the white tower in 5S"
+    {
+        "chi" "我们需要5秒才能进入这白色塔楼"
+    }
+
+    "we can get to the tower top in 15S"
+    {
+        "chi" "通往塔顶的道路15秒后开启"
+    }
+
+    "catch that star!!!"
+    {
+        "chi" "快 抓住那颗属于我们的闪耀之星"
+    }
+
+    "we can go on the ladder in 5S"
+    {
+        "chi" "5秒后我们才能攀爬这梯子"
+    }
+
+    "we can climb the tower in 25S"
+    {
+        "chi" "我们需要25秒后才能攀爬这栋塔楼"
+    }
+
+    "keep 30S"
+    {
+        "chi" "坚守住30秒"
+    }
+
+    "we can go to the stage in 30S"
+    {
+        "chi" "Revue舞台需要30秒后才会开放"
+    }
+
+    "stage stair3 will open in 30S"
+    {
+        "chi" "摘星阶梯第三层30秒后开放"
+    }
+
+    "stage stair4 will open in 30S"
+    {
+        "chi" "摘星阶梯第四层30秒后开放"
+    }
+
+    "stage stair5 will open in 28S"
+    {
+        "chi" "摘星阶梯第五层28秒后开放"
+    }
+
+    "stage stair6 will open in 25S"
+    {
+        "chi" "摘星阶梯第六层25秒后开放"
+    }
+
+    "stage stair7 will open in 25S"
+    {
+        "chi" "摘星阶梯第七层25秒后开放"
+    }
+
+    "stage stair8 will open in 20S"
+    {
+        "chi" "摘星阶梯第八层20秒后开放"
+    }
+
+    "final 50S,keep going!"
+    {
+        "chi" "最后50秒 守住即是胜利!"
+    }
+
+    "true ending,thanks for playing!"
+    {
+        "chi" "真结局达成 感谢你的游玩!"
+    }
+
+    "keep 10S"
+    {
+        "chi" "守住10秒"
+    }
+
+    "stage of star will open in 20S"
+    {
+        "chi" "starlight将于20秒后揭开帷幕"
+    }
+
+    "zombie ladder will open in 5S"
+    {
+        "chi" "僵尸侧路梯子5秒后开启"
+    }
+
+    "pink bridge will create in 20S"
+    {
+        "chi" "粉色大桥20秒后浮现"
+    }
+
+    "zombie will tp around the house in 5S"
+    {
+        "chi" "僵尸会在5秒后传送至房子周围"
+    }
+
+    "one way was open,we can go no now"
+    {
+        "chi" "只有一条真正的道路开启 守住!"
+    }
+
+    "platform will leave in 5S"
+    {
+        "chi" "浮空魔毯5秒后离开"
+    }
+
+    "we meet wall,can not go on"
+    {
+        "chi" "这是一条死胡同 快回头守住!"
+    }
+
+    "we can find way out,hold"
+    {
+        "chi" "等等 我们好像发现一条道路了 再坚持一下"
+    }
+
+    "laser in 5S!watch out!"
+    {
+        "chi" "5秒后有跳刀 当心!"
+    }
+
+    "ze_revue_starlight,thanks people who helped me."
+    {
+        "chi" "ze_revue_starlight(少女歌剧) 感蟹帮助过我的人"
+    }
+
+    "nuke in 60S"
+    {
+        "chi" "核爆将于60秒后降临"
+    }
+
+    "<<fake ending-The 99th shengxiang Festival >>"
+    {
+        "chi" "<<假结局达成 我们仍未打破第99届圣翔祭的循环>>"
+    }
+
+    "zombie tp in 10S"
+    {
+        "chi" "僵尸10秒后传送"
+    }
+
+    "wall will break in 20S"
+    {
+        "chi" "这堵墙需要20秒时间破坏"
+    }
+
+    "stage will open in 20S"
+    {
+        "chi" "舞台将在20秒后开放"
+    }
+
+    "zombie coming in 5S"
+    {
+        "chi" "僵尸会在5秒后抵达"
+    }
+
+    "stage3-revue of envy"
+    {
+        "chi" "第三章 Revue Starlight"
+    }
+
+}

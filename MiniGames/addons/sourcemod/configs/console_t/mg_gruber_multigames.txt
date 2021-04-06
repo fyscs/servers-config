@@ -122,7 +122,7 @@
 
     ">>BLOCK DROP<<"
     {
-        "chi" "方块从天而降"
+        "chi" "天坠"
     }
 
     ">Buy weapons and eliminate the enemy team<"
@@ -162,6 +162,7 @@
 
     ">>MG_GRUBER_MULTIGAMES<<"
     {
+        "blocked" "1"
         "chi" "MG_GRUBER_MULTIGAMES"
     }
 
