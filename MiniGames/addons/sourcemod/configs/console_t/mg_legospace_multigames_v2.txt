@@ -62,16 +62,19 @@
 
     "----> Wall Break : 30 Seconds <----"
     {
+        "blocked" "1"
         "chi" "30秒钟后墙壁消失"
     }
 
     "----> Wall Break : 10 Seconds <----"
     {
+        "blocked" "1"
         "chi" "10秒钟后墙壁消失"
     }
 
     "----> Wall Break : 5 Seconds <----"
     {
+        "blocked" "1"
         "chi" "5秒钟后墙壁消失"
     }
 

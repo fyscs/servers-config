@@ -7,36 +7,36 @@
 
     " <GO>"
     {
-        "chi" "<GO>"
+        "chi" "GO!"
     }
 
     "<1>"
     {
         "blocked" "1"
-        "chi" "<1>"
+        "chi" "1"
     }
 
     "<2>"
     {
         "blocked" "1"
-        "chi" "<2>"
+        "chi" "2"
     }
 
     "<3>"
     {
         "blocked" "1"
-        "chi" "<3>"
+        "chi" "3"
     }
 
     "<4>"
     {
         "blocked" "1"
-        "chi" "<4>"
+        "chi" "4"
     }
 
     "<5>"
     {
-        "chi" "5"
+        "chi" "<5>"
     }
 
     "ROPE-MOVE"
@@ -86,7 +86,7 @@
 
     "<GO>"
     {
-        "chi" "<开始>"
+        "chi" "开始!"
     }
 
     "<3>"
@@ -96,17 +96,19 @@
 
     "<2>"
     {
-        "chi" "<2>"
+        "blocked" "1"
+        "chi" "2"
     }
 
     "<1>"
     {
-        "chi" "<1>"
+        "blocked" "1"
+        "chi" "1"
     }
 
     "map by xXm0nschd4Xx and Delta Sports clan"
     {
-        "chi" "地图作者: xXm0nschd4Xx与Delta Sports组 地图汉化: 圣剑@风云社"
+        "chi" "地图作者: xXm0nschd4Xx&Delta Sports Clan 地图汉化: 圣剑@风云社"
     }
 
     "NADE"

@@ -96,6 +96,7 @@
 
     "@[MAP] mg_Headshot_Machine_Multiarenas"
     {
+        "blocked" "1"
         "chi" "mg_Headshot_Machine_Multiarenas"
     }
 
@@ -136,7 +137,7 @@
 
     "*** Dual Berettas ***"
     {
-        "chi" "双持贝雷塔"
+        "chi" "双持贝瑞塔"
     }
 
     "*** Five-seveN ***"

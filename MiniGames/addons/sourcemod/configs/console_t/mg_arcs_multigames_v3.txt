@@ -22,12 +22,12 @@
 
     "30 seconds remaining."
     {
-        "chi" "还剩30秒."
+        "chi" "还剩30秒"
     }
 
     "You have one minute."
     {
-        "chi" "你有1分钟的时间."
+        "chi" "你有一分钟的时间"
     }
 
     "Three"
@@ -62,21 +62,25 @@
 
     "Boxes disappear in 1 second."
     {
+        "blocked" "1"
         "chi" "箱子将会在1秒钟后消失."
     }
 
     "Boxes disappear in 2 seconds."
     {
+        "blocked" "1"
         "chi" "箱子将会在2秒钟后消失."
     }
 
     "Boxes disappear in 3 seconds."
     {
+        "blocked" "1"
         "chi" "箱子将会在3秒钟后消失."
     }
 
     "Boxes disappear in 10 seconds."
     {
+        "blocked" "1"
         "chi" "箱子将会在10秒钟后消失."
     }
 
@@ -87,21 +91,25 @@
 
     "Cover disappears in 10 seconds."
     {
+        "blocked" "1"
         "chi" "掩体将会在10秒钟后消失."
     }
 
     "Cover disappears in 3 seconds."
     {
+        "blocked" "1"
         "chi" "掩体将会在3秒钟后消失."
     }
 
     "Cover disappears in 2 seconds."
     {
+        "blocked" "1"
         "chi" "掩体将会在2秒钟后消失."
     }
 
     "Cover disappears in 1 second."
     {
+        "blocked" "1"
         "chi" "掩体将会在1秒钟后消失."
     }
 
