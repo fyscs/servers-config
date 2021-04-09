@@ -407,6 +407,7 @@
 	"** STARTING AT FIRST LEVEL! **"
 	{
 		"chi"		"** 从第一阶段开始 **"
+                "command"       "ze_weapons_spawn_molotov 0"
 	}
 	"** RESIST 25 SECONDS! **"
 	{
@@ -421,6 +422,7 @@
 	{
 		"chi"		"** 热身回合结束 **"
 	}
+
 	"** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 5**"
 	{
 		"chi"		"** 所有僵尸神器全部解锁, 但是没有5级**"
