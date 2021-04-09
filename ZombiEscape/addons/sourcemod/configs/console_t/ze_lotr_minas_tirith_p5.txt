@@ -19,6 +19,7 @@
 	"** WARMUP ROUND **"
 	{
 		"chi"		"** 热身回合 **"
+		"command"       "ze_weapons_spawn_molotov 0"
 	}
 	"** WARMUP ROUND ** MASSIVE NUKE IN 60 SECONDS **"
 	{
@@ -266,6 +267,7 @@
 	"** STAGE 3 COMPLETED **"
 	{
 		"chi"		"** 第三阶段已完成 **"
+		"command"       "ze_weapons_spawn_molotov 1"
 	}
 	"** WE HAVE LOST THE POSTION ** FALL BACK **"
 	{
