@@ -223,12 +223,12 @@
 	}
 	"** FUEL 20 % **"
 	{
-		"chi"		"**燃料 20 % **"
+		"chi"		"**燃料 1/5 **"
 
 	}
 	"** FUEL 40 % **"
 	{
-		"chi"		"**燃料 40 % **"
+		"chi"		"**燃料 2/5 **"
 
 	}
 	"** ENOUGH FUEL FOR POWERING THE FIRST GUARDDOG! **"
@@ -237,12 +237,12 @@
 	}
 	"** FUEL 60 % **"
 	{
-		"chi"		"**燃料 60 %**"
+		"chi"		"**燃料 3/5**"
 
 	}
 	"** FUEL 80 % **"
 	{
-		"chi"		"**燃料 80 % **"
+		"chi"		"**燃料 4/5 **"
 
 	}
 	"** ENOUGH FUEL FOR POWERING THE SECOND GUARDDOG! **"
@@ -259,7 +259,7 @@
 	}
 	"** FUEL 100 % **"
 	{
-		"chi"		"**燃料 100 % **"
+		"chi"		"**燃料已满 **"
 
 	}
 	"** THE GENERATOR HAS ENOUGH FUEL! **"

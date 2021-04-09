@@ -1,0 +1,126 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "***CT'S Have Scored A Point!!!***"
+    {
+        "chi" "CT们得到一分!!!"
+    }
+
+    "***CT'S Get Ready To Serve In...***"
+    {
+        "chi" "CT们准备发球..."
+    }
+
+    "***3***"
+    {
+        "chi" "3"
+    }
+
+    "***2***"
+    {
+        "blocked" "1"
+        "chi" "2"
+    }
+
+    "***1***"
+    {
+        "blocked" "1"
+        "chi" "1"
+    }
+
+    "***Serve Up!***"
+    {
+        "chi" "发球!"
+    }
+
+    "***T'S Get Ready To Serve In...***"
+    {
+        "chi" "T们准备发球..."
+    }
+
+    "***T'S Have Scored A Point!!!***"
+    {
+        "chi" "T们得到一分!!!"
+    }
+
+    "***CT'S Have Won The Match!!!***"
+    {
+        "chi" "恭喜CT赢下了这场比赛!!!"
+    }
+
+    "***T'S Have Won The Match!!!***"
+    {
+        "chi" "恭喜T赢下了这场比赛!!!"
+    }
+
+    ">>>Whitelist the commands below:<<<"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    ">>sm_cvar, sm_say<<"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    ">>Map requires (balanced values if you don't want to whitelist it):<<<"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    ">>>cs_enable_player_physics_box 1 & phys_pushscale 900 & phys_timescale 0.75<<<"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "Walls Will Break In 5 Seconds."
+    {
+        "chi" "5秒钟后墙壁消失"
+    }
+
+    "3"
+    {
+        "chi" "3"
+    }
+
+    "2"
+    {
+        "blocked" "1"
+        "chi" "2"
+    }
+
+    "1"
+    {
+        "blocked" "1"
+        "chi" "1"
+    }
+
+    "GO!!!"
+    {
+        "chi" "冲!!!"
+    }
+
+    "***GOAL!!!***"
+    {
+        "chi" "球进啦!!!"
+    }
+
+    "***GG...But CT's Are The Winners...So The T's Must Die!!!***"
+    {
+        "chi" "打得不错...但是CT是最后的赢家 T准备好被刷了吗?!"
+    }
+
+    "***GG...But T's Are The Winners...So The CT's Must Die!!!***"
+    {
+        "chi" "打得不错...但是T是最后的赢家 CT准备好被刷了吗?!"
+    }
+
+}

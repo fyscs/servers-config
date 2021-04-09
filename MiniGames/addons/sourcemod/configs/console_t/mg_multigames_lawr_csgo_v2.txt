@@ -1,0 +1,167 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "*JUMP*"
+    {
+        "chi" "跳绳"
+    }
+
+    "*3*"
+    {
+        "chi" "3"
+    }
+
+    "*2*"
+    {
+        "blocked" "1"
+        "chi" "2"
+    }
+
+    "*1*"
+    {
+        "blocked" "1"
+        "chi" "1"
+    }
+
+    "***3***"
+    {
+        "chi" "3"
+    }
+
+    "***2***"
+    {
+        "blocked" "1"
+        "chi" "2"
+    }
+
+    "***1***"
+    {
+        "blocked" "1"
+        "chi" "1"
+    }
+
+    "***GO***"
+    {
+        "chi" "开始!"
+    }
+
+    "*GO*"
+    {
+        "chi" "开始!"
+    }
+
+    "*AWP*"
+    {
+        "chi" "AWP"
+    }
+
+    "*AIR*"
+    {
+        "chi" "蹦床"
+    }
+
+    "*Ring*"
+    {
+        "chi" "刀战(擂台赛)"
+    }
+
+    "*SmokeWar*"
+    {
+        "chi" "烟雾弹大战"
+    }
+
+    "*Race*"
+    {
+        "chi" "竞速"
+    }
+
+    "*Slide*"
+    {
+        "chi" "滑道"
+    }
+
+    "*Jump*"
+    {
+        "chi" "跳绳"
+    }
+
+    "*Climbe*"
+    {
+        "chi" "攀登"
+    }
+
+    "*Bhop*"
+    {
+        "chi" "连跳"
+    }
+
+    "*HD Dubstep - Earthquake (Fytch Remix)*"
+    {
+        "chi" "BGM: HD Dubstep - Earthquake (Fytch Remix)"
+    }
+
+    "*DJ Gollum Vs. Basslovers United - Narcotic (Money G Video Edit)*"
+    {
+        "chi" "BGM: DJ Gollum Vs. Basslovers United - Narcotic (Money G Video Edit)"
+    }
+
+    "*Dj Ivan Frost - I Really Like It Yes I Really Like It*"
+    {
+        "chi" "BGM: Dj Ivan Frost - I Really Like It Yes I Really Like It"
+    }
+
+    "*Drunk (Doctor P remix)*"
+    {
+        "chi" "BGM: Drunk (Doctor P remix)"
+    }
+
+    "*Gigi D'Agostino  - Bla Bla Bla*"
+    {
+        "chi" "BGM: Gigi D'Agostino  - Bla Bla Bla"
+    }
+
+    "*STXB - Raz Raz Eto Hardbass *"
+    {
+        "chi" "BGM: STXB - Raz Raz Eto Hardbass"
+    }
+
+    "*Alex S. - Party With Pinkie*"
+    {
+        "chi" "BGM: Alex S. - Party With Pinkie"
+    }
+
+    "*Bob Marley - Bad Boys*"
+    {
+        "chi" "BGM: Bob Marley - Bad Boys"
+    }
+
+    "*this is horosho - golyy muzhik (mad dee rmx)*"
+    {
+        "chi" "BGM: this is horosho - golyy muzhik (mad dee rmx)"
+    }
+
+    "*R.I.O. feat. U-Jean - Animal*"
+    {
+        "chi" "BGM: R.I.O. feat. U-Jean - Animal"
+    }
+
+    "*DJ Fresh - Louder Flux Pavilion & Doctor P Remix)*"
+    {
+        "chi" "BGM: DJ Fresh - Louder Flux Pavilion & Doctor P Remix)"
+    }
+
+    "*Serebro - Mama Lyuba Davay*"
+    {
+        "chi" "BGM: Serebro - Mama Lyuba Davay"
+    }
+
+    "*SpecialArturyuxMusic*"
+    {
+        "chi" "BGM: SpecialArturyuxMusic"
+    }
+
+}

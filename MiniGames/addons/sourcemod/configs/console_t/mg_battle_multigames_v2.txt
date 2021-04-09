@@ -1,0 +1,102 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "**T has captured the CT flag**"
+    {
+        "chi" "T已经占领了CT的旗帜"
+    }
+
+    "**CT has captured the T flag**"
+    {
+        "chi" "CT已经占领了T的旗帜"
+    }
+
+    "**Bgm:allu**"
+    {
+        "chi" "BGM: allu"
+    }
+
+    "**Bgm:Kronos**"
+    {
+        "chi" "BGM: Kronos"
+    }
+
+    "**Bgm:nein**"
+    {
+        "chi" "BGM: nein"
+    }
+
+    "**Bgm:-opening-**"
+    {
+        "chi" "BGM: -opening"
+    }
+
+    "**You have 30 seconds to get ready**"
+    {
+        "chi" "你有三十秒的准备时间"
+    }
+
+    "**5**"
+    {
+        "chi" "5"
+    }
+
+    "**4**"
+    {
+        "blocked" "1"
+        "chi" "4"
+    }
+
+    "**3**"
+    {
+        "blocked" "1"
+        "chi" "3"
+    }
+
+    "**2**"
+    {
+        "blocked" "1"
+        "chi" "2"
+    }
+
+    "**1**"
+    {
+        "blocked" "1"
+        "chi" "1"
+    }
+
+    "**Start**"
+    {
+        "chi" "开始"
+    }
+
+    "**Damage will be done to players outside the cave after 80 seconds**"
+    {
+        "chi" "八十秒后将会对洞穴外的玩家造成伤害"
+    }
+
+    "**Map By Soc**"
+    {
+        "chi" "地图作者: Soc 地图汉化: 圣剑@风云社 "
+    }
+
+    "**Selecting maps and patterns at random**"
+    {
+        "chi" "正在随机选择地图与模式"
+    }
+
+    "**The map has been selected and the game is about to begin**"
+    {
+        "chi" "已选择地图 游戏即将开始"
+    }
+
+    "**Steam:steamcommunity.com/id/Uidsoc/**"
+    {
+        "blocked" "1"
+        "chi" "作者Steam个人资料主页: steamcommunity.com/id/Uidsoc/ "
+    }
+}
