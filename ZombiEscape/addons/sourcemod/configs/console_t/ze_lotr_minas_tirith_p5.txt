@@ -19,6 +19,7 @@
 	"** WARMUP ROUND **"
 	{
 		"chi"		"** 热身回合 **"
+		"command"       "ze_weapons_spawn_molotov 0"
 	}
 	"** WARMUP ROUND ** MASSIVE NUKE IN 60 SECONDS **"
 	{
@@ -266,6 +267,7 @@
 	"** STAGE 3 COMPLETED **"
 	{
 		"chi"		"** 第三阶段已完成 **"
+		"command"       "ze_weapons_spawn_molotov 2"
 	}
 	"** WE HAVE LOST THE POSTION ** FALL BACK **"
 	{
@@ -405,6 +407,7 @@
 	"** STARTING AT FIRST LEVEL! **"
 	{
 		"chi"		"** 从第一阶段开始 **"
+                "command"       "ze_weapons_spawn_molotov 0"
 	}
 	"** RESIST 25 SECONDS! **"
 	{
@@ -419,6 +422,7 @@
 	{
 		"chi"		"** 热身回合结束 **"
 	}
+
 	"** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 5**"
 	{
 		"chi"		"** 所有僵尸神器全部解锁, 但是没有5级**"
