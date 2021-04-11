@@ -2,32 +2,32 @@
 {
     "tip:You can't pass on the chessboard You must pass on the chess piece"
     {
-        "chi" "**这个棋盘似乎有点不太对劲,当心穿过**"
+        "chi" "**这个棋盘似乎有股神秘的力量阻止我们前进,看来只能从棋子上过去了**"
     }
 
     "you need hold 20s"
     {
-        "chi" "**你们需要防守20秒**"
+        "chi" "**在此地等候20秒**"
     }
 
     "Zombie checkerboard teleport"
     {
-        "chi" "**僵尸现在可以从棋盘通过了哦,小心四周!**"
+        "chi" "**但这股力量似乎无法阻挡僵尸,他们要冲过来了**"
     }
 
     "you need hold 14s"
     {
-        "chi" "**你们需要防守14秒**"
+        "chi" "**等待14秒,防守一下**"
     }
 
     "Something weird was triggered"
     {
-        "chi" "**有奇怪的东东触发了**"
+        "chi" "**有些不对劲,当心**"
     }
 
     "Something strange will happen"
     {
-        "chi" "**有奇怪的东东正在发生**"
+        "chi" "**有奇怪的东西触发了**"
     }
 
     "you need hold 25s"
@@ -37,17 +37,17 @@
 	
 	"Zombies will be teleported in 3 seconds "
     {
-        "chi" "**靓仔们将在3秒后传送**"
+        "chi" "**僵尸将在3秒后传送**"
     }
 	
 	"Zombie teleportation will teleport in 5 seconds "
     {
-        "chi" "**靓仔们将在5秒后传送**"
+        "chi" "**僵尸将在5秒后传送**"
     }
 	
 	"The cave is blocked, damn it "
     {
-        "chi" "**麻麻告诉我遇到不会翻译的就随便谢谢就好啦**"
+        "chi" "**完了,洞穴坍塌了无法前进了**"
     }
 	
 	"Wait a minute, I seem to have seen this sword before "
@@ -57,12 +57,12 @@
 	
 	"I'll inject strength into this sword"
     {
-        "chi" "**这把圣剑将会被我注入洪荒之力**"
+        "chi" "**这把圣剑将会被注入洪荒之力**"
     }
 	
 	"It looks like you've found the board. Give me some time and I'll get him"
     {
-        "chi" "** 重铸圣剑需要一点时间**"
+        "chi" "**重铸圣剑需要一点时间**"
     }
 	
 	"you need hold 10s"
@@ -72,12 +72,12 @@
 
     "Zombie transfer has started"
     {
-        "chi" "**僵尸要传送了哦**"
+        "chi" "**僵尸传送了,当心**"
     }
 
     "Wooden boat leaves after 7S"
     {
-        "chi" "**友谊的小船船要在7秒后开走了**"
+        "chi" "**船夫将于7秒后开船离开**"
     }
 
     "you need hold 15s"
@@ -87,7 +87,7 @@
 
     "This is the last defensive point. It??s life or death. Look at this last 90s."
     {
-        "chi" "**加油!是生还是死,就看能不能撑住这90秒了!**"
+        "chi" "**这是我们最后的一段路程了,守住最后的90秒**"
     }
 
     "you need hold 40s"
@@ -127,27 +127,27 @@
 
     "Congratulations on your victory, EX mode is waiting for you."
     {
-        "chi" "**芜湖,恭喜你通关了!EX模式正在等待在你(在做了)**"
+        "chi" "**恭喜你们通过了第二关,准备一下第三关吧**"
     }
 
     "zombie coming watch you back"
     {
-        "chi" "**快撤!僵尸在你菊部地区了!**"
+        "chi" "**快跑,僵尸快追上你们了**"
     }
 
     "Something seems to have disappeared"
     {
-        "chi" "**嗯?有东西消失了!**"
+        "chi" "**有东西消失了!**"
     }
 
     "There seems to be no road above"
     {
-        "chi" "**嗯?这上面好像没有路**"
+        "chi" "**电梯开始上升了...**"
     }
 
     "I am optimistic about the road under your feet. How come back? Do you understand?"
     {
-        "chi" "**不过好像和下面的道路一样唉,试试原路返回试试,不过小心后面的僵尸**"
+        "chi" "**电梯怎么停下来了,路在哪里?指挥带路啊!**"
     }
 
     "you need hold 18s"
@@ -187,22 +187,22 @@
 	
 	"Zombie shortcut open"
     {
-        "chi" "**靓仔们的专属道路打开了**"
+        "chi" "**僵尸捷径已触发**"
     }
 
     "I remember here, here is my back mountain"
     {
-        "chi" "**在下牛肉粉,有一天在散步的时候被人打晕并丢进了山中**"
+        "chi" "**各位好,我叫牛肉粉,喜欢唱跳rap断后**"
     }
 
     "From here you can reach my house directly"
     {
-        "chi" "**啊,这...是哪里,我为什么会在这个地方,我需要寻找一条出路离开这里**"
+        "chi" "**你们从这往后走就可以看见我的妙妙屋了**"
     }
 
     "You need to defend for 23 seconds."
     {
-        "chi" "**欢迎各位来到武当山,先防守23秒吧**"
+        "chi" "**欢迎来到粉鸽的山头,先在这里守23秒吧**"
     }
 
 }
