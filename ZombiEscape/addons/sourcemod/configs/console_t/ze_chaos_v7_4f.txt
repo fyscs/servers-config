@@ -2,51 +2,51 @@
 {
 	"<--A human has picked Health Ball-->"
 	{
-		"chi"		"**一名玩家捡起了治疗**"
+		"chi"		"**一名人类玩家捡起了治疗光球**"
 	}
 	"<--A zombie has picked Blackhole Ball-->"
 	{
-		"chi"		"**一名玩家捡起了[zm]黑洞**"
+		"chi"		"**一名僵尸玩家捡起了[zm]黑洞光球**"
 	}
 	"<--A human has picked Lightning Ball-->"
 	{
-		"chi"		"**一名玩家捡起了光壁**"
+		"chi"		"**一名人类玩家捡起了闪电壁垒**"
 	}
 	"<--A human has picked Water Ball-->"
 	{
-		"chi"		"**一名玩家捡起了冰瀑**"
+		"chi"		"**一名人类玩家捡起了水牢结界**"
 	}
 	"<--A zombie has picked Poison Ball-->"
 	{
-		"chi"		"**一名玩家捡起了[zm]剧毒**"
+		"chi"		"**一名僵尸玩家捡起了[zm]剧毒光球**"
 	}
 	"<--A human has picked White Knight-->"
 	{
-		"chi"		"**一名玩家捡起了骑士**"
+		"chi"		"**一名人类玩家捡起了白衣骑士**"
 	}
 	"<--A human has picked Fire Ball-->"
 	{
-		"chi"		"**一名玩家捡起了烈火**"
+		"chi"		"**一名人类玩家捡起了烈焰焚尽**"
 	}
 	"<--A zombie has picked Alacrity Ball-->"
 	{
-		"chi"		"**一名玩家捡起了[zm]迅捷**"
+		"chi"		"**一名僵尸玩家捡起了[zm]迅捷加速**"
 	}
 	"<--A zombie has picked Health Ball-->"
 	{
-		"chi"		"**一名玩家捡起了[zm]治疗**"
+		"chi"		"**一名僵尸玩家捡起了[zm]治疗光球**"
 	}
 	"<--A zombie has picked Dark Ball-->"
 	{
-		"chi"		"**一名玩家捡起了[zm]黑洞**"
+		"chi"		"**一名僵尸玩家捡起了[zm]暗黑光球**"
 	}
 	"<--A human has picked Beam Ball-->"
 	{
-		"chi"		"**一名玩家捡起了闪电**"
+		"chi"		"**一名人类玩家捡起了电磁立场**"
 	}
 	"<--A human has picked Snowstorm Ball-->"
 	{
-		"chi"		"**一名玩家捡起了冰雪**"
+		"chi"		"**一名人类玩家捡起了暴风雪**"
 	}
 	"<--Map Made By Color-->"
 	{
@@ -54,23 +54,23 @@
 	}
 	"<--Warm Up Time-->"
 	{
-		"chi"		">>热身时间<<"
+		"chi"		">>***热身时间*** 特殊热身关卡<<"
 	}
 	"<--Wood door will break in 45s-->"
 	{
-		"chi"		">>木门将在45秒后裂掉<<"
+		"chi"		">>道路将在45秒后开启，继续守住<<"
 	}
 	"<--Wood door will break in 5s-->"
 	{
-		"chi"		">>木门将在5秒后裂掉<<"
+		"chi"		">>木门很快会在5秒后打开<<"
 	}
 	"<--Wood door will break in 15s-->"
 	{
-		"chi"		">>木门将在15秒后裂掉<<"
+		"chi"		">>木门将在15秒后打开,不要贴门划刀啦<<"
 	}
 	"<--Touch 2 beams-->"
 	{
-		"chi"		">>需要触碰2个红色的光柱<<"
+		"chi"		">>触碰2个红色光柱,开启之后的道路<<"
 	}
 	"<--5s left-->"
 	{
@@ -78,11 +78,11 @@
 	}
 	"<--What...it's a dragon-->"
 	{
-		"chi"		">>什么,,,,居然出现了一条龙<<"
+		"chi"		">>什么,,,,那是一条邪恶的巨龙!<<"
 	}
 	"<--It comes...-->"
 	{
-		"chi"		">>龙过来了<<"
+		"chi"		">>它要过来了<<"
 	}
 	"<--Grenade can damage dragon-->"
 	{
@@ -90,51 +90,51 @@
 	}
 	"<--Balls can damage dragon except beam ball-->"
 	{
-		"chi"		">>除了光束球 其他球都可以伤害龙<<"
+		"chi"		">>除了电磁立场 其他人类神器都可以对龙造成伤害<<"
 	}
 	"<--Dragon uses meteor-->"
 	{
-		"chi"		">>***天外陨石***<<"
+		"chi"		">>***巨龙使用了小陨石召唤*** 注意脚底红色特效<<"
 	}
 	"<--Dragon uses fire-->"
 	{
-		"chi"		">>***三昧真火*** 后半场火<<"
+		"chi"		">>***巨龙使用了火焰吐息*** 后半场火<<"
 	}
 	"<--Dragon uses black hole-->"
 	{
-		"chi"		">>***万象天引***  吸力<<"
+		"chi"		">>***巨龙使用了吞噬万物***  吸力摁住SSS<<"
 	}
 	"<--Wait for 45s-->"
 	{
-		"chi"		">>我们需要等待45秒 才能通过<<"
+		"chi"		">>还有45秒道路才会开启,回去守点!<<"
 	}
 	"<--Wait for 30s-->"
 	{
-		"chi"		">>我们需要等待30秒  才能通过<<"
+		"chi"		">>家人们再坚持30秒<<"
 	}
 	"<--Hold for last 25s-->"
 	{
-		"chi"		">>需要守住25秒 加油<<"
+		"chi"		">>继续坚守25秒,胜利是我们的!<<"
 	}
 	"<--Wait for 15s-->"
 	{
-		"chi"		">>还有15秒倒计时 加油<<"
+		"chi"		">>等待15秒道路开启 不能在这里倒下<<"
 	}
 	"<--Wait for 20s-->"
 	{
-		"chi"		">>还有20秒倒计时 奥利给<<"
+		"chi"		">>等待20秒 开火开火!<<"
 	}
 	"<--Collect 3 glow balls-->"
 	{
-		"chi"		">>我们需要收集3个红色的光柱<<"
+		"chi"		">>寻找三个红色光柱 触碰它们以开启新的道路<<"
 	}
 	"<--Wait for 40s-->"
 	{
-		"chi"		">>需要守住40秒<<"
+		"chi"		">>等待40秒,我们必须要等待道路的开启<<"
 	}
 	"<--Wait for 10s-->"
 	{
-		"chi"		">>还需要守住10秒<<"
+		"chi"		">>道路将在10秒后开启<<"
 	}
 	">> ZE_ERROR <<"
 	{
@@ -142,14 +142,14 @@
 	}
 	"<--Shoot waha's head if possible-->"
 	{
-		"chi"		"** **"
+		"chi"		"**尽全力攻击他的脑壳**"
 	}
 	"<--Zombies are in the room-->"
 	{
-		"chi"		"** **"
+		"chi"		"**僵尸进来了**"
 	}
 	"<--Failed-->"
 	{
-		"chi"		"** **"
+		"chi"		"**人类失败**"
 	}
 }
