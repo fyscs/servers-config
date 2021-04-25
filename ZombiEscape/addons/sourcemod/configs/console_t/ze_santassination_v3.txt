@@ -587,6 +587,11 @@
 	"***ACT 2 COMPLETE***"
 	{
 		"chi"		"**第二章通过**"
+                "command"       "ze_damage_zombie_cash 0.5"
+                "command"       "ze_weapons_spawn_decoy -1"
+                "command"       "ze_weapons_round_decoy -1"
+                "command"       “ze_weapons_spawn_hegrenade 2”
+                “command”       "ze_weapons_round_tagrenade 1"
 	}
 	"***TRAM 1 IS LEAVING IN 20 SECONDS***"
 	{
@@ -988,6 +993,9 @@
 	"***THIS.. IS THE TRUTH***"
 	{
 		"chi"		"**这才是真相!**"
+                "command"       "zr_classes_csgo_knockback_airmultiplier 0.8"
+                "command"       "zr_knockback_multi 1.0"
+                "command"       "ze_damage_zombie_cash 1.2"
 	}
 	"***SOCRATES IS JUDGING YOU***"
 	{
