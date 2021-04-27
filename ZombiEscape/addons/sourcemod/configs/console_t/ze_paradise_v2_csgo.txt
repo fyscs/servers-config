@@ -6,7 +6,7 @@
 	}
 	"HINT: 'Crouch' into the hang gliders and then stand up inside."
 	{
-		"chi"		"** **"
+		"chi"		"**提示: 滑翔翼需要WASD和鼠标左键来控制**"
 	}
 	"HINT: Cut the boat cable!"
 	{
@@ -14,7 +14,7 @@
 	}
 	"HINT: SWIM AROUND THE BUOY TO REACH WILMEKEA PEAK!"
 	{
-		"chi"		"** **"
+		"chi"		"**提示：游泳健将们需要先绕过浮标最终才能到达山顶!**"
 	}
 	"HINT: Ocean currents will impede progress."
 	{
@@ -22,35 +22,35 @@
 	}
 	"** Helicopter leaving in 15 seconds! **"
 	{
-		"chi"		"****直升机将在15秒内离开!****"
+		"chi"		"****直升机将在15秒后离开!****"
 	}
 	"** Missile launched! You will have to jump! **"
 	{
-		"chi"		"****导弹发射啦! 你必须跳过去!****"
+		"chi"		"****导弹发射啦! 你必须赶紧跳下来!****"
 	}
 	"^^^ Map By: BillSmauz ^^^"
 	{
-		"chi"		"** **"
+		"chi"		"**地图作者：BillSmauz**"
 	}
 	"** Tram leaving in 15 seconds **"
 	{
-		"chi"		"** **"
+		"chi"		"**轨道运载车将在15s后离开**"
 	}
 	"** Jungle bus out of fuel! **"
 	{
-		"chi"		"** **"
+		"chi"		"**丛林观光车没油了!**"
 	}
 	"** Boat leaving in 10 seconds! **"
 	{
-		"chi"		"** **"
+		"chi"		"**友谊的小船将在10s后离开!**"
 	}
 	"** Magma chamber charges detonated. Wilmekea Peak has become unstable! **"
 	{
-		"chi"		"** **"
+		"chi"		"**岩浆控制室已经被引爆!火山已经变得不稳定了!**"
 	}
 	"** Wilmekea has gone critical. 10 seconds until eruption! **"
 	{
-		"chi"		"** **"
+		"chi"		"**火山已经极不稳定!还有10s就要喷发了!**"
 	}
 	"[Map] ze_Suchirifu"
 	{
@@ -62,7 +62,7 @@
 	}
 	"** Zodiac Operator: Jaw's cousin is closing on our six! Shoot her! **"
 	{
-		"chi"		"** **"
+		"chi"		"**有鲨鱼在我们的六点钟方向!快杀死它**"
 	}
 	">>LEVEL 1<<"
 	{
