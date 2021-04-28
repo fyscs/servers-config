@@ -79,9 +79,9 @@
 		"command"   "zr_respawn_delay 1.5"
 		"command"   "zr_knockback_multi 0.9"
 	}
-	"*** 轮回之初始？ ***"
+	"*** 轮回之初始? ***"
 	{
-		"chi"		"*** 轮回之初始？ ***"
+		"chi"		"*** 轮回之初始? ***"
 		"command"   "zr_class_modify 普通僵尸 health_regen_amount 20"
 		"command"   "zr_class_modify 加速僵尸 health_regen_amount 20"
 		"command"   "zr_class_modify 闪灵僵尸 health_regen_amount 20"
