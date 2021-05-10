@@ -58,10 +58,102 @@
 	}
 	"**Stage 2**"
 	{
-		"chi"		"**章节2**"
+		"chi"		"**章节 2**"
 	}
 	"**地图制作 : genL**"
 	{
-		"chi"		"**地图制作: genL 地图翻译: 户冢彩加&萌大奶@风云社**"
+		"chi"		"**地图制作:genL 翻译:户冢彩加&萌大奶&xTeruZikk@风云社**"
+	}
+	"**Player pick up Item_Wind**"
+	{
+		"chi"		"**一位玩家拾起了爆风枪**"
+	}
+	"**Item_Wind use**"
+	{
+		"chi"		"**玩家使用了爆风抢**"
+	}
+	"**glass door will open in 40seconds"
+	{
+		"chi"		"这扇玻璃门40s后打开"
+	}
+	"**The toile door is blocked , we need time to clear it**"
+	{
+		"chi"		"厕所门被堵住了,需要时间来清理!"
+	}
+	"**obstructions are removed in 30 seconds**"
+	{
+		"chi"		"障碍物在30s后清理完成!"
+	}
+	"**we need to go to the controlroom to restart the electricity**"
+	{
+		"chi"		"我们需要去控制室重启电源!"
+	}
+	"**when the electricity restart,go to the meetingroom**"
+	{
+		"chi"		"电源恢复后,就去会议室"
+	}
+	"**use phone on the table to call temporary to open the door"
+	{
+		"chi"		"用桌子上的电话叫临时工把门打开"
+	}
+	"**use phone in the meetingroom to call temporary open the door**"
+	{
+		"chi"		"去用会议室的电话叫临时工把门打开!!"
+	}
+	"**door open in 40 seconds**"
+	{
+		"chi"		"这扇门40s后打开"
+	}
+	"**stair is blocked,we can use elevator**"
+	{
+		"chi"		"楼梯被堵住了,我们可以用电梯上去"
+	}
+	"**elevator open in 20seconds**"
+	{
+		"chi"		"电梯门20s后开启"
+	}
+	"**elevator move in 10 seconds**"
+	{
+		"chi"		"电梯10s后离开,别刷了!!"
+	}
+	"**ladder are mounted in 40seconds**"
+	{
+		"chi"		"梯子40s后准备好,快回头守僵尸!!"
+	}
+	"**we need time to remove the shelves**"
+	{
+		"chi"		"我们需要时间来清理这些货架!"
+	}
+	"**defend here for 30 seconds**"
+	{
+		"chi"		"守住这里30s!!!"
+	}
+	"**The platform will stretch after 20 seconds**"
+	{
+		"chi"		"平台20s后延伸到对面!不要停下来啊!"
+	}
+	"**defend here**"
+	{
+		"chi"		">>守住这里!!<<"
+	}
+	"**boat door open in 30 seconds**"
+	{
+		"chi"		"舱门30s后开启"
+	}
+	"**wood and glass break in 8 seconds**"
+	{
+		"chi"		"门口木板和玻璃8s后破碎!坚持住!"
+	}
+	"**boat move in 15 seconds**"
+	{
+		"chi"		"友谊的小船15s后离开!最后的守点了!"
+	}
+	"**stage 2 finish**"
+	{
+		"chi"		"章节 2 完成"
+	}
+	"**ZM:Hide On Bush**"
+	{
+		"chi"		"ZM:躲在灌木从里!"
 	}
 }
