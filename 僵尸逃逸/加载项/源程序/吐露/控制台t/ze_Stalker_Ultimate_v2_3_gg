@@ -46,15 +46,15 @@
 	}
 	"Lab door 1 will open in 11 seconds"
 	{
-		"chi"		"**实验室门一将在11秒后打开 **"
+		"chi"		"**实验室门①将在11秒后打开 **"
 	}
 	"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
 	{
-		"chi"		"**电梯一将在4秒后离开 **"
+		"chi"		"**电梯①将在4秒后离开 **"
 	}
 	"Lab door 1 will open for zombies in 18 seconds"
 	{
-		"chi"		"**实验门一将在18秒后为僵尸打开 **"
+		"chi"		"**实验门①将在18秒后为僵尸打开 **"
 	}
 	"***IF YOU WANT TO OPEN THE GATES TURN THE ELECTRICITY ON!!!***"
 	{
@@ -62,11 +62,11 @@
 	}
 	"The gate 1 will open in 30 seconds"
 	{
-		"chi"		"**门一将在30秒后打开 **"
+		"chi"		"**门①将在30秒后打开 **"
 	}
 	"The gate 2 will open in 30 seconds"
 	{
-		"chi"		"**门二将在30秒后打开 **"
+		"chi"		"**门②将在30秒后打开 **"
 	}
 	"***The electricity in on. You can push the panels to open the gates***"
 	{
@@ -78,11 +78,11 @@
 	}
 	"Lab door 2 will open in 13 seconds"
 	{
-		"chi"		"**实验室门二将在13秒后打开 **"
+		"chi"		"**实验室门②将在13秒后打开 **"
 	}
 	"Lab door 2 will open for zombies in 18 seconds"
 	{
-		"chi"		"**实验门二将在18秒后为僵尸打开 **"
+		"chi"		"**实验门②将在18秒后为僵尸打开 **"
 	}
 	"Hold this position for 6 seconds!!"
 	{
@@ -106,7 +106,7 @@
 	}
 	"The emission will be in 50 seconds. Find the bunker and hide in it!!!"
 	{
-		"chi"		"**核弹大概在50秒后发射.找到一个安全的掩体并躲在里面 **"
+		"chi"		"**核弹大概在50秒后发射.找到一个安全的掩体防守僵尸! **"
 	}
 	"**You win the round!!You unlock the hard mode.**"
 	{
@@ -118,7 +118,7 @@
 	}
 	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
 	{
-		"chi"		"**电梯二将在9秒后离开 **"
+		"chi"		"**电梯②将在9秒后离开 **"
 	}
 	"**Hold the place for 25 seconds**"
 	{
@@ -138,7 +138,7 @@
 	}
 	"**You did it!! You have completed stage 2!!**"
 	{
-		"chi"		"**你做到了!接下来时候前往新区域了!  **"
+		"chi"		"**我们做到了!接下来时候前往新区域了!  **"
 	}
 	"**now is the time to see something new**"
 	{
@@ -190,7 +190,7 @@
 	}
 	"**Good job!! You won stage 3!! New area opened!**"
 	{
-		"chi"		"**干得好!你赢了第三关!接下来前往普里皮亚季! **"
+		"chi"		"**干得好!你赢了第三关!接下来会前往普里皮亚季完成任务! **"
 	}
 	"**GO INTO THE TELEPORTER***"
 	{
