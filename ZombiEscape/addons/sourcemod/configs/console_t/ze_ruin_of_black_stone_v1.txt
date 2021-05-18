@@ -1,559 +1,559 @@
 "Console_T"
 {
-	"<< Zombie has escaped! FAIL! >>"
+ "<< Zombie has escaped! FAIL! >>"
 	{
-		"chi"		"**僵尸胜利**"
+ "chi" "**僵尸胜利**"
 	}
-	"<< Maybe we should investigate it later......>>"
+ "<< Maybe we should investigate it later......>>"
 	{
-		"chi"		"**也许我们可以日后再调查...**"
+ "chi" "**也许我们可以日后再调查...**"
 	}
-	"<< What's that...... >>"
+ "<< What's that...... >>"
 	{
-		"chi"		"**那是什么...?**"
+ "chi" "**那是什么...?**"
 	}
-	"<< ???: What? You've killed my pet?! >>"
+ "<< ???: What? You've killed my pet?! >>"
 	{
-		"chi"		"**？？？:不...你杀了我的宠物!?**"
+ "chi" "**???:不...你杀了我的宠物!?**"
 	}
-	"<< Got it!!! Tesla has died!!! >>"
+ "<< Got it!!! Tesla has died!!! >>"
 	{
-		"chi"		"**特斯拉已经死了!**"
+ "chi" "**特斯拉已经死了!**"
 	}
-	" << Admin has selected Chapter I >>"
+ " << Admin has selected Chapter I >>"
 	{
-		"chi"		"**管理员选择第一关**"
+ "chi" "**管理员选择第一关**"
 	}
-	"<< Admin has selected Chapter II >>"
+ "<< Admin has selected Chapter II >>"
 	{
-		"chi"		"**管理员选择第二关**"
+ "chi" "**管理员选择第二关**"
 	}
-	"<< Admin has selected Chapter IV >>"
+ "<< Admin has selected Chapter IV >>"
 	{
-		"chi"		"**管理员选择第四关**"
+ "chi" "**管理员选择第四关**"
 	}
-	" << Admin has selected Chapter III >>"
+ " << Admin has selected Chapter III >>"
 	{
-		"chi"		"**管理员选择第三关**"
+ "chi" "**管理员选择第三关**"
 	}
-	"<< A player has picked up poison magic >>"
+ "<< A player has picked up poison magic >>"
 	{
-		"chi"		"**一名玩家习得了毒**"
+ "chi" "**一名玩家习得了毒**"
 	}
-	"<< A zombie has picked up poison magic >>"
+ "<< A zombie has picked up poison magic >>"
 	{
-		"chi"		"**一名玩家习得了[zm]蛊毒**"
+ "chi" "**一名玩家习得了[zm]蛊毒**"
 	}
-	"<< A player has picked up holy magic >>"
+ "<< A player has picked up holy magic >>"
 	{
-		"chi"		"**一名玩家习得了终极**"
+ "chi" "**一名玩家习得了终极**"
 	}
-	"<< A zombie has picked up gravity magic >>"
+ "<< A zombie has picked up gravity magic >>"
 	{
-		"chi"		"**一名玩家习得了[zm]黑洞**"
+ "chi" "**一名玩家习得了[zm]黑洞**"
 	}
-	"<< A zombie has picked up ice magic >>"
+ "<< A zombie has picked up ice magic >>"
 	{
-		"chi"		"**一名玩家习得了[zm]冰域**"
+ "chi" "**一名玩家习得了[zm]冰域**"
 	}
-	"<< A zombie has picked up heal magic >>"
+ "<< A zombie has picked up heal magic >>"
 	{
-		"chi"		"**一名玩家习得了[zm]治疗**"
+ "chi" "**一名玩家习得了[zm]治疗**"
 	}
-	"<< A player has picked up earth magic >>"
+ "<< A player has picked up earth magic >>"
 	{
-		"chi"		"**一名玩家习得了墙**"
+ "chi" "**一名玩家习得了墙**"
 	}
-	"<< A player has picked up snow magic >>"
+ "<< A player has picked up snow magic >>"
 	{
-		"chi"		"**一名玩家习得了雪**"
+ "chi" "**一名玩家习得了雪**"
 	}
-	"<< A player has picked up wind magic >>"
+ "<< A player has picked up wind magic >>"
 	{
-		"chi"		"**一名玩家习得了风**"
+ "chi" "**一名玩家习得了风**"
 	}
-	"<< A player has picked up electro magic >>"
+ "<< A player has picked up electro magic >>"
 	{
-		"chi"		"**一名玩家习得了电**"
+ "chi" "**一名玩家习得了电**"
 	}
-	"<< Congratulations! >>"
+ "<< Congratulations! >>"
 	{
-		"chi"		"**祝贺**"
+ "chi" "**祝贺**"
 	}
-	"<< You've win all the chapters!!! >>"
+ "<< You've win all the chapters!!! >>"
 	{
-		"chi"		"**已通过全部关卡**"
+ "chi" "**已通过全部关卡**"
 	}
-	"<< Map by SilverCrew, reworked by Misaka >>"
+ "<< Map by SilverCrew, reworked by Misaka >>"
 	{
-		"chi"		"**地图制作:SilverCrew  地图重置:Misaka**"
+ "chi" "**地图制作:SilverCrew 地图重置:Misaka**"
 	}
-	"<< Map by SilverCrew, rework by Misaka >>"
+ "<< Map by SilverCrew, rework by Misaka >>"
 	{
-		"chi"		"**地图制作:SilverCrew  地图重置:Misaka**"
+ "chi" "**地图制作:SilverCrew 地图重置:Misaka**"
 	}
-	"<< It's Tesla again! Kill him this time!!! Do Not let it escape again!!! >>"
+ "<< It's Tesla again! Kill him this time!!! Do Not let it escape again!!! >>"
 	{
-		"chi"		"**特斯拉!又是它,这次一定要杀了它,别让它逃了!**"
+ "chi" "**特斯拉!又是它,这次一定要杀了它,别让它逃了!**"
 	}
-	"<< Hold for 5 seconds >>"
+ "<< Hold for 5 seconds >>"
 	{
-		"chi"		"**5**"
+ "chi" "**5**"
 	}
-	"<< Get out of there immediately!!! >>"
+ "<< Get out of there immediately!!! >>"
 	{
-		"chi"		"**立即离开那里**"
+ "chi" "**立即离开那里**"
 	}
-	"<< Tesla disappear.... >>"
+ "<< Tesla disappear.... >>"
 	{
-		"chi"		"**它不见了...**"
+ "chi" "**它不见了...**"
 	}
-	"<< Tesla Disappeared again!!! >>"
+ "<< Tesla Disappeared again!!! >>"
 	{
-		"chi"		"**又让它逃掉了...**"
+ "chi" "**又让它逃掉了...**"
 	}
-	"<< The ruin starts to collapse!!! >>"
+ "<< The ruin starts to collapse!!! >>"
 	{
-		"chi"		"**废墟开始崩溃**"
+ "chi" "**废墟开始崩溃**"
 	}
-	"<< I've already prepared a teleporter at the ruin of black stone >>"
+ "<< I've already prepared a teleporter at the ruin of black stone >>"
 	{
-		"chi"		"**我已经在黑石废墟上准备了一个传送装置**"
+ "chi" "**我已经在黑石废墟上准备了一个传送装置**"
 	}
-	"<< Hurry up!!! Get out of there!!! >>"
+ "<< Hurry up!!! Get out of there!!! >>"
 	{
-		"chi"		"**快点,离开这里!**"
+ "chi" "**快点,离开这里!**"
 	}
-	"<< Tesla is using Gravity!!! >>"
+ "<< Tesla is using Gravity!!! >>"
 	{
-		"chi"		"**特斯拉使用悪魔の颚“黑洞”**"
+ "chi" "**特斯拉使用悪魔の颚'黑洞”**"
 	}
-	"<< Tesla is using Fallen Fire!!! >>"
+ "<< Tesla is using Fallen Fire!!! >>"
 	{
-		"chi"		"**特斯拉使用堕落の火**"
+ "chi" "**特斯拉使用堕落の火**"
 	}
-	"<< Tesla is using Fire Power!!! >>"
+ "<< Tesla is using Fire Power!!! >>"
 	{
-		"chi"		"**特斯拉使用火焰**"
+ "chi" "**特斯拉使用火焰**"
 	}
-	"<< Tesla is using Flame Field!!! >>"
+ "<< Tesla is using Flame Field!!! >>"
 	{
-		"chi"		"**特斯拉使用红莲炼狱“终极”**"
+ "chi" "**特斯拉使用红莲炼狱'终极”**"
 	}
-	"<< Field will activate in 8 seconds>>"
+ "<< Field will activate in 8 seconds>>"
 	{
-		"chi"		"**8秒后“火焰半场秒杀”**"
+ "chi" "**8秒后'火焰半场秒杀”**"
 	}
-	"<< Tesla is activating a fire area >>"
+ "<< Tesla is activating a fire area >>"
 	{
-		"chi"		"**特斯拉开启炼狱炎“远离地上火焰特效”**"
+ "chi" "**特斯拉开启炼狱炎'远离地上火焰特效”**"
 	}
-	"<< ???: Hahahahah, Welcome to the hell >>"
+ "<< ???: Hahahahah, Welcome to the hell >>"
 	{
-		"chi"		"**???:欢迎来到地狱**"
+ "chi" "**???:欢迎来到地狱**"
 	}
-	"<< ???: It seems that you all know why I entrusted you >>"
+ "<< ???: It seems that you all know why I entrusted you >>"
 	{
-		"chi"		"**???:似乎大家都知道我为什么委托您**"
+ "chi" "**???:似乎大家都知道我为什么委托您**"
 	}
-	"<< ???: You should have died when you activated the lever in the city >>"
+ "<< ???: You should have died when you activated the lever in the city >>"
 	{
-		"chi"		"**???:当你激活城市中的控制杆时你就应该死亡**"
+ "chi" "**???:当你激活城市中的控制杆时你就应该死亡**"
 	}
-	"<< ???: But you are alive and you defeated my pet for three times >>"
+ "<< ???: But you are alive and you defeated my pet for three times >>"
 	{
-		"chi"		"**???:但是你还活着,甚至击败了我的宠物三遍**"
+ "chi" "**???:但是你还活着,甚至击败了我的宠物三遍**"
 	}
-	"<< ???: I'm proud of your bravery to come here and find the truth >>"
+ "<< ???: I'm proud of your bravery to come here and find the truth >>"
 	{
-		"chi"		"**???:我为你勇敢来到这里找到真相而感到骄傲**"
+ "chi" "**???:我为你勇敢来到这里找到真相而感到骄傲**"
 	}
-	"<< ???: So you gonna die now and I will bury you all out!!! >>"
+ "<< ???: So you gonna die now and I will bury you all out!!! >>"
 	{
-		"chi"		"**???:所以现在就请去死了,我将把你们全部埋葬**"
+ "chi" "**???:所以现在就请去死了,我将把你们全部埋葬**"
 	}
-	"<< BGM from ze_ffvii_cosmo_canyon >>"
+ "<< BGM from ze_ffvii_cosmo_canyon >>"
 	{
-		"chi"		"**音乐来源于:ze_ffvii_cosmo_canyon**"
+ "chi" "**音乐来源于:ze_ffvii_cosmo_canyon**"
 	}
-	"<< Hold for 20 seconds >>"
+ "<< Hold for 20 seconds >>"
 	{
-		"chi"		"**防守20秒**"
+ "chi" "**防守20秒**"
 	}
-	"<< Hold for 35 seconds >>"
+ "<< Hold for 35 seconds >>"
 	{
-		"chi"		"**防守35秒**"
+ "chi" "**防守35秒**"
 	}
-	"<< The rock will break in 25 seconds >>"
+ "<< The rock will break in 25 seconds >>"
 	{
-		"chi"		"**岩石将在25秒后破裂**"
+ "chi" "**岩石将在25秒后破裂**"
 	}
-	"<< Tips: find all lever and pull it to go ahead >>"
+ "<< Tips: find all lever and pull it to go ahead >>"
 	{
-		"chi"		"**提示:找到所有杠杆并将其拉出**"
+ "chi" "**提示:找到所有杠杆并将其拉出**"
 	}
-	"<< We can not fall back now! Go Ahead !!! >>"
+ "<< We can not fall back now! Go Ahead !!! >>"
 	{
-		"chi"		"**我们现在不能退缩,继续前进**"
+ "chi" "**我们现在不能退缩,继续前进**"
 	}
-	"<< Why so quiet here...... >>"
+ "<< Why so quiet here...... >>"
 	{
-		"chi"		"**这里为什么这么安静**"
+ "chi" "**这里为什么这么安静**"
 	}
-	"<< I'm sure here is the ruin of black stone >>"
+ "<< I'm sure here is the ruin of black stone >>"
 	{
-		"chi"		"**我确定这里是黑石废墟**"
+ "chi" "**我确定这里是黑石废墟**"
 	}
-	"<< No one is here...... >>"
+ "<< No one is here...... >>"
 	{
-		"chi"		"**这里看不到有任何活人...**"
+ "chi" "**这里看不到有任何活人...**"
 	}
-	"<< defend until the rock broken! >>"
+ "<< defend until the rock broken! >>"
 	{
-		"chi"		"**防守直到岩石碎裂**"
+ "chi" "**防守直到岩石碎裂**"
 	}
-	"<< It's the end of this cave >>"
+ "<< It's the end of this cave >>"
 	{
-		"chi"		"**这里是山洞的尽头**"
+ "chi" "**这里是山洞的尽头**"
 	}
-	"<< Hold for 30 seconds >>"
+ "<< Hold for 30 seconds >>"
 	{
-		"chi"		"**防守30秒**"
+ "chi" "**防守30秒**"
 	}
-	"<< He is still not there...... >>"
+ "<< He is still not there...... >>"
 	{
-		"chi"		"**它仍在哪里...**"
+ "chi" "**它仍在哪里...**"
 	}
-	"<< Go Ahead!!! >>"
+ "<< Go Ahead!!! >>"
 	{
-		"chi"		"**继续前行...**"
+ "chi" "**继续前行...**"
 	}
-	"<< The door of the ruin will break in 35 seconds >>"
+ "<< The door of the ruin will break in 35 seconds >>"
 	{
-		"chi"		"**废墟の门将在35秒后打开**"
+ "chi" "**废墟の门将在35秒后打开**"
 	}
-	"<< The rescue team is waitng for us!!! >>"
+ "<< The rescue team is waitng for us!!! >>"
 	{
-		"chi"		"**救援正在等待我们...**"
+ "chi" "**救援正在等待我们...**"
 	}
-	"<< Teleporter will activate in 45 seconds >>"
+ "<< Teleporter will activate in 45 seconds >>"
 	{
-		"chi"		"**传送:45秒**"
+ "chi" "**传送:45秒**"
 	}
-	"<< Mission: Activate the nuke lever >>"
+ "<< Mission: Activate the nuke lever >>"
 	{
-		"chi"		"**任务:激活战术核弹**"
+ "chi" "**任务:激活战术核弹**"
 	}
-	"<< Chapter I >>"
+ "<< Chapter I >>"
 	{
-		"chi"		"**第一章**"
+ "chi" "**第一章**"
 	}
-	"<< We are getting closer to Black Stone City >>"
+ "<< We are getting closer to Black Stone City >>"
 	{
-		"chi"		"**黑石城近在咫尺**"
+ "chi" "**黑石城近在咫尺**"
 	}
-	"<< The mayor of that city entrust us to push the lever to activate the nuke to kill zomebies >>"
+ "<< The mayor of that city entrust us to push the lever to activate the nuke to kill zomebies >>"
 	{
-		"chi"		"**市长委托我们激活战术核弹来清除僵尸**"
+ "chi" "**市长委托我们激活战术核弹来清除僵尸**"
 	}
-	"<< There are a lot of zombies near the city >>"
+ "<< There are a lot of zombies near the city >>"
 	{
-		"chi"		"**城市附近有很多僵尸**"
+ "chi" "**城市附近有很多僵尸**"
 	}
-	"<< Finish this mission as fast as we can! >>"
+ "<< Finish this mission as fast as we can! >>"
 	{
-		"chi"		"**尽快完成委托**"
+ "chi" "**尽快完成委托**"
 	}
-	"<< Mission: HEAD-TO-HEAD >>"
+ "<< Mission: HEAD-TO-HEAD >>"
 	{
-		"chi"		"**任务:头对头**"
+ "chi" "**任务:正面碰撞**"
 	}
-	"<< Chapter III >>"
+ "<< Chapter III >>"
 	{
-		"chi"		"**第三章**"
+ "chi" "**第三章**"
 	}
-	"<< I never hear that we will fight with Tesla >>"
+ "<< I never hear that we will fight with Tesla >>"
 	{
-		"chi"		"**我从未听说过我们将与特斯拉开战**"
+ "chi" "**我从未听说过我们将与特斯拉开战**"
 	}
-	"<< I think we should ask the mayor about this >>"
+ "<< I think we should ask the mayor about this >>"
 	{
-		"chi"		"**市长或许清楚目前的情况**"
+ "chi" "**市长或许清楚目前的情况**"
 	}
-	"<< Go to the City again! >>"
+ "<< Go to the City again! >>"
 	{
-		"chi"		"**再次前往黑石城**"
+ "chi" "**再次前往黑石城**"
 	}
-	"<< Mission: visit the ruin of black stone >>"
+ "<< Mission: visit the ruin of black stone >>"
 	{
-		"chi"		"**任务：调查黑石の废墟**"
+ "chi" "**任务: 调查黑石の废墟**"
 	}
-	"<< Chapter II >>"
+ "<< Chapter II >>"
 	{
-		"chi"		"**第二章**"
+ "chi" "**第二章**"
 	}
-	"<< The mayor wants to meet us at the ruin of black stone >>"
+ "<< The mayor wants to meet us at the ruin of black stone >>"
 	{
-		"chi"		"**在黑石废墟就能见到市长**"
+ "chi" "**在黑石废墟就能见到市长**"
 	}
-	"<< He said that he wants to honour our contribution >>"
+ "<< He said that he wants to honour our contribution >>"
 	{
-		"chi"		"**市长想兑现我们的贡献**"
+ "chi" "**市长想兑现我们的贡献**"
 	}
-	"<< Go through the canyon to get to the ruin! >>"
+ "<< Go through the canyon to get to the ruin! >>"
 	{
-		"chi"		"**穿过峡谷前往废墟**"
+ "chi" "**穿过峡谷前往废墟**"
 	}
-	"<< Chapter IV >>"
+ "<< Chapter IV >>"
 	{
-		"chi"		"**第四章**"
+ "chi" "**第四章**"
 	}
-	"<< Mission: Kill Tesla and Escape from the ruin >>"
+ "<< Mission: Kill Tesla and Escape from the ruin >>"
 	{
-		"chi"		"**任务:杀死特斯拉并从废墟中逃脱**"
+ "chi" "**任务:杀死特斯拉并从废墟中逃脱**"
 	}
-	"<< I've already known the truth >>"
+ "<< I've already known the truth >>"
 	{
-		"chi"		"**我已经知道了真相**"
+ "chi" "**我已经知道了真相**"
 	}
-	"<< The mayor wants to kill us by the hands of others >>"
+ "<< The mayor wants to kill us by the hands of others >>"
 	{
-		"chi"		"**市长想用别人的手杀死我们**"
+ "chi" "**市长想用别人的手杀死我们**"
 	}
-	"<< No matter the lever or Tesla >>"
+ "<< No matter the lever or Tesla >>"
 	{
-		"chi"		"**无论那些致命的杠杆还是特斯拉**"
+ "chi" "**无论那些致命的杠杆还是特斯拉**"
 	}
-	"<< So now, its time for us to counterattack >>"
+ "<< So now, its time for us to counterattack >>"
 	{
-		"chi"		"**所以,是时候反击了**"
+ "chi" "**所以,是时候反击了**"
 	}
-	"<< Kill Tesla and arrest the mayor!!! >>"
+ "<< Kill Tesla and arrest the mayor!!! >>"
 	{
-		"chi"		"**杀死特斯拉并逮捕市长**"
+ "chi" "**杀死特斯拉并逮捕市长**"
 	}
-	"<< Shit! Tesla do not die!!! Keep shooting!!! >>"
+ "<< Shit! Tesla do not die!!! Keep shooting!!! >>"
 	{
-		"chi"		"**该死,它还没死...**"
+ "chi" "**该死,它还没死...**"
 	}
-	"<< Tesla has disappeared.... >>"
+ "<< Tesla has disappeared.... >>"
 	{
-		"chi"		"**特斯拉消失了...**"
+ "chi" "**特斯拉消失了...**"
 	}
-	"<< Maybe we can get the answer at the ruin >>"
+ "<< Maybe we can get the answer at the ruin >>"
 	{
-		"chi"		"**也许我们可以在废墟上得到答案**"
+ "chi" "**也许我们可以在废墟上得到答案**"
 	}
-	"<< Get back to the elevator to leave there, we should go to the ruin again >>"
+ "<< Get back to the elevator to leave there, we should go to the ruin again >>"
 	{
-		"chi"		"**回到电梯离开那里,我们应该再次前往废墟**"
+ "chi" "**回到电梯离开那里,我们应该再次前往废墟**"
 	}
-	"<< Elevator leaves in 25 seconds >>"
+ "<< Elevator leaves in 25 seconds >>"
 	{
-		"chi"		"**电梯将在25秒后离开**"
+ "chi" "**电梯将在25秒后离开**"
 	}
-	"<< Chapter Finish >>"
+ "<< Chapter Finish >>"
 	{
-		"chi"		"**章节完成**"
+ "chi" "**章节完成**"
 	}
-	"<< Prepare for the coming truth...... >>"
+ "<< Prepare for the coming truth...... >>"
 	{
-		"chi"		"**真相逐渐浮现,请再次前往黑石废墟...**"
+ "chi" "**真相逐渐浮现,请再次前往黑石废墟...**"
 	}
-	"<< zombie has escaped!!! >>"
+ "<< zombie has escaped!!! >>"
 	{
-		"chi"		"**僵尸胜利**"
+ "chi" "**僵尸胜利**"
 	}
-	"<< Its Tesla Again!!! Kill him before he kills us!!! >>"
+ "<< Its Tesla Again!!! Kill him before he kills us!!! >>"
 	{
-		"chi"		"**又是它,在它杀我我们之前干掉它!**"
+ "chi" "**又是它,在它杀我我们之前干掉它!**"
 	}
-	"<< Tesla is using Fire Ball >>"
+ "<< Tesla is using Fire Ball >>"
 	{
-		"chi"		"**特斯拉正在使用飞龙火焰**"
+ "chi" "**特斯拉正在使用飞龙火焰**"
 	}
-	"<< Tesla is using Gravity >>"
+ "<< Tesla is using Gravity >>"
 	{
-		"chi"		"**特斯拉正在使用万象天引**"
+ "chi" "**特斯拉正在使用万象天引**"
 	}
-	"<< Tesla release zombies >>"
+ "<< Tesla release zombies >>"
 	{
-		"chi"		"**特斯拉正在释放僵尸**"
+ "chi" "**特斯拉正在释放僵尸**"
 	}
-	"<< Tesla is using Rock Slide! >>"
+ "<< Tesla is using Rock Slide! >>"
 	{
-		"chi"		"**特斯拉正在使用岩石冲击**"
+ "chi" "**特斯拉正在使用岩石冲击**"
 	}
-	"<< Tesla is using Fire Power >>"
+ "<< Tesla is using Fire Power >>"
 	{
-		"chi"		"**特斯拉正在使用灼烂炎帝**"
+ "chi" "**特斯拉正在使用灼烂炎帝**"
 	}
-	"<< Tesla Disappear...... >>"
+ "<< Tesla Disappear...... >>"
 	{
-		"chi"		"**特斯拉消失了...**"
+ "chi" "**特斯拉消失了...**"
 	}
-	"<< The final door will open in 30 seconds >>"
+ "<< The final door will open in 30 seconds >>"
 	{
-		"chi"		"**最终の门将在30秒后打开**"
+ "chi" "**最终の门将在30秒后打开**"
 	}
-	"<< Door will open in 5 seconds >>"
+ "<< Door will open in 5 seconds >>"
 	{
-		"chi"		"**大门将在5秒后打开**"
+ "chi" "**大门将在5秒后打开**"
 	}
-	"<< The button on the top will unlock in 5 seconds >>"
+ "<< The button on the top will unlock in 5 seconds >>"
 	{
-		"chi"		"**顶部按钮将在5秒后解锁**"
+ "chi" "**顶部按钮将在5秒后解锁**"
 	}
-	"<< Door will open in 40 seconds >>"
+ "<< Door will open in 40 seconds >>"
 	{
-		"chi"		"**大门将在40秒后打开**"
+ "chi" "**大门将在40秒后打开**"
 	}
-	"<< The door will open in 20 seconds >>"
+ "<< The door will open in 20 seconds >>"
 	{
-		"chi"		"**大门将在20秒后打开**"
+ "chi" "**大门将在20秒后打开**"
 	}
-	"<< Hold for 15 seconds >>"
+ "<< Hold for 15 seconds >>"
 	{
-		"chi"		"**防守15秒**"
+ "chi" "**防守15秒**"
 	}
-	"<< The teleporter will close in 5 seconds >>"
+ "<< The teleporter will close in 5 seconds >>"
 	{
-		"chi"		"**传送将于5秒后关闭**"
+ "chi" "**传送将于5秒后关闭**"
 	}
-	"<< The teleporter at the entrance start working!!! >>"
+ "<< The teleporter at the entrance start working!!! >>"
 	{
-		"chi"		"**入口处的传送器开启**"
+ "chi" "**入口处的传送器开启**"
 	}
-	"<< Hurry up!!! Get back to the entrance of the town!!! >>"
+ "<< Hurry up!!! Get back to the entrance of the town!!! >>"
 	{
-		"chi"		"**快点,回到小镇的入口!**"
+ "chi" "**快点,回到小镇的入口!**"
 	}
-	"<< Warning: Nuke in 180 seconds >>"
+ "<< Warning: Nuke in 180 seconds >>"
 	{
-		"chi"		"**警告:战术核弹将在180秒后到达**"
+ "chi" "**警告:战术核弹将在180秒后到达**"
 	}
-	"<< The lever has been pushed >>"
+ "<< The lever has been pushed >>"
 	{
-		"chi"		"**杠杆已被推动**"
+ "chi" "**杠杆已被推动**"
 	}
-	"<< Okay...... >>"
+ "<< Okay...... >>"
 	{
-		"chi"		"**好吧...**"
+ "chi" "**好吧...**"
 	}
-	"<< Hold for 10 seconds >>"
+ "<< Hold for 10 seconds >>"
 	{
-		"chi"		"**防守10秒**"
+ "chi" "**防守10秒**"
 	}
-	"<< We should spend a little time to activate it...... >>"
+ "<< We should spend a little time to activate it...... >>"
 	{
-		"chi"		"**我们应该要花一点时间来激活它**"
+ "chi" "**我们应该要花一点时间来激活它**"
 	}
-	"<< It seems that this lever can activate the nuke >>"
+ "<< It seems that this lever can activate the nuke >>"
 	{
-		"chi"		"**这个杠杆似乎可以激活战术核弹**"
+ "chi" "**这个杠杆似乎可以激活战术核弹**"
 	}
-	"<< Where is there...... >>"
+ "<< Where is there...... >>"
 	{
-		"chi"		"**这是哪里...**"
+ "chi" "**这是哪里...**"
 	}
-	"<< Wait.......What happened????? >>"
+ "<< Wait.......What happened????? >>"
 	{
-		"chi"		"**等等...发生了什么?**"
+ "chi" "**等等...发生了什么?**"
 	}
-	"<< It's the monster of lava - Tesla!!! >>"
+ "<< It's the monster of lava - Tesla!!! >>"
 	{
-		"chi"		"**这是熔岩の怪物-特斯拉**"
+ "chi" "**这是熔岩の怪物-特斯拉**"
 	}
-	"<< kill Tesla before it kills us!!! >>"
+ "<< kill Tesla before it kills us!!! >>"
 	{
-		"chi"		"**在特斯拉杀死我们之前杀死它**"
+ "chi" "**在特斯拉杀死我们之前杀死它**"
 	}
-	"<< Fall Back!!! The safe house is opening!!! >>"
+ "<< Fall Back!!! The safe house is opening!!! >>"
 	{
-		"chi"		"**撤退,安全屋的门要开了!**"
+ "chi" "**撤退,安全屋的门要开了!**"
 	}
-	"<< The zombie has escaped!!! >>"
+ "<< The zombie has escaped!!! >>"
 	{
-		"chi"		"**僵尸胜利**"
+ "chi" "**僵尸胜利**"
 	}
-	"<< The way will be able to pass in 30 seconds >>"
+ "<< The way will be able to pass in 30 seconds >>"
 	{
-		"chi"		"**道路将在30秒后开放**"
+ "chi" "**道路将在30秒后开放**"
 	}
-	"<< Give me some time to break this huge stone >>"
+ "<< Give me some time to break this huge stone >>"
 	{
-		"chi"		"**给我一点时间打破这块巨石**"
+ "chi" "**给我一点时间打破这块巨石**"
 	}
-	"<< The door will break in 20 seconds >>"
+ "<< The door will break in 20 seconds >>"
 	{
-		"chi"		"**大门将在20秒后打开**"
+ "chi" "**大门将在20秒后打开**"
 	}
-	"<< Wait for 10 seconds >>"
+ "<< Wait for 10 seconds >>"
 	{
-		"chi"		"**等待10秒**"
+ "chi" "**等待10秒**"
 	}
-	"<< All levers have been pulled >>"
+ "<< All levers have been pulled >>"
 	{
-		"chi"		"**所有杠杆都已激活**"
+ "chi" "**所有杠杆都已激活**"
 	}
-	"<< Door will open in 30 seconds >>"
+ "<< Door will open in 30 seconds >>"
 	{
-		"chi"		"**大门将在30秒后打开**"
+ "chi" "**大门将在30秒后打开**"
 	}
-	"<< door will close in 5 seconds >>"
+ "<< door will close in 5 seconds >>"
 	{
-		"chi"		"**大门将在5秒后关闭**"
+ "chi" "**大门将在5秒后关闭**"
 	}
-	"<< Zombies escape!!! You fail!!! >>"
+ "<< Zombies escape!!! You fail!!! >>"
 	{
-		"chi"		"**僵尸胜利**"
+ "chi" "**僵尸胜利**"
 	}
-	"<< The abandoned storeroom is opened >>"
+ "<< The abandoned storeroom is opened >>"
 	{
-		"chi"		"**废弃仓库的门开了**"
+ "chi" "**废弃仓库的门开了**"
 	}
-	"<< The main entrance is opened >>"
+ "<< The main entrance is opened >>"
 	{
-		"chi"		"**正门打开了**"
+ "chi" "**正门打开了**"
 	}
-	"<< wair for 20 seconds >>"
+ "<< wair for 20 seconds >>"
 	{
-		"chi"		"**等待20秒**"
+ "chi" "**等待20秒**"
 	}
-	"<< The fence will break in 20 seconds >>"
+ "<< The fence will break in 20 seconds >>"
 	{
-		"chi"		"**围栏将在20秒后破裂**"
+ "chi" "**围栏将在20秒后破裂**"
 	}
-	"<< Hold for 40 seconds >>"
+ "<< Hold for 40 seconds >>"
 	{
-		"chi"		"**防守40秒**"
+ "chi" "**防守40秒**"
 	}
-	"<< Hold for 25 seconds >>"
+ "<< Hold for 25 seconds >>"
 	{
-		"chi"		"**防守40秒**"
+ "chi" "**防守25秒**"
 	}
-	"<< Wait for 5 seconds >>"
+ "<< Wait for 5 seconds >>"
 	{
-		"chi"		"**防守5秒**"
+ "chi" "**防守5秒**"
 	}
-	"<< The door will open in 25 seconds >>"
+ "<< The door will open in 25 seconds >>"
 	{
-		"chi"		"**大门将在25秒后打开**"
+ "chi" "**大门将在25秒后打开**"
 	}
-	"<< this button of this storeroom is broken >>"
+ "<< this button of this storeroom is broken >>"
 	{
-		"chi"		"**储藏室的按钮坏了**"
+ "chi" "**储藏室的按钮坏了**"
 	}
-	"<< Wait for 15 seconds until we break the door! >>"
+ "<< Wait for 15 seconds until we break the door! >>"
 	{
-		"chi"		"**防守15秒,直到我们把门打开**"
+ "chi" "**防守15秒,直到我们把门打开**"
 	}
-	"<< Door will open in 25 seconds >>"
+ "<< Door will open in 25 seconds >>"
 	{
-		"chi"		"**大门将在25秒后打开**"
+ "chi" "**大门将在25秒后打开**"
 	}
-	"<< A player has picked up heal magic >>"
+ "<< A player has picked up heal magic >>"
 	{
-		"chi"		"**一名玩家习得了治疗**"
+ "chi" "**一名玩家习得了治疗**"
 	}
 }

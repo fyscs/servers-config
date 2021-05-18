@@ -410,7 +410,7 @@
 	}
 	"defend till the doors been fully opened"
 	{
-		"chi"		"**守住这里，直到门完全打开**"
+		"chi"		"**守住这里, 直到门完全打开**"
 	}
 	"*Enter the Sand Castle*"
 	{
@@ -510,7 +510,7 @@
 	}
 	"***Good Job! You have defeated the virus and now will leave the computer!***"
 	{
-		"chi"		"**电脑病毒清理完毕，获胜人类即将传送**"
+		"chi"		"**电脑病毒清理完毕, 获胜人类即将传送**"
 	}
 	"***I hope you a have a lovely journey back home and...***"
 	{
@@ -548,7 +548,7 @@
 	{
 		"chi"		"[神器超市]已购买 绿墙(小墙)"
 	}
-	"***Defend for 20 seconds***"
+	"***DEFEND FOR 20 SECONDS***"
 	{
 		"chi"		"**守住20秒**"
 	}
@@ -564,11 +564,11 @@
 	{
 		"chi"		"现在你能进商店捡里面的道具了(如果还有道具剩的话)"
 	}
-	"***5 seconds left***"
+	"***5 SECONDS LEFT***"
 	{
 		"chi"		"还剩5秒"
 	}
-	"***Fall back***"
+	"***FALL BACK***"
 	{
 		"chi"		"撤退"
 	}
@@ -588,7 +588,7 @@
 	{
 		"chi"		"加油嗷,要坚强"
 	}
-	"***Defend for 40 seconds***"
+	"***DEFEND FOR 40 SECONDS***"
 	{
 		"chi"		"**守住40秒**"
 	}
@@ -774,7 +774,7 @@
 	}
 	"father"
 	{
-		"chi"		"婴儿星人:爸?"
+		"chi"		"元婴:爸?"
 	}
 	"**stomp attack**"
 	{
@@ -782,31 +782,31 @@
 	}
 	"***GET DIDDLING***"
 	{
-		"chi"		"(婴儿星人在受到凌辱)"
+		"chi"		"(元婴在受到凌辱)"
 	}
 	"***YA DOODLERS***"
 	{
-		"chi"		"(婴儿星人还在受到凌辱)"
+		"chi"		"(元婴还在受到凌辱)"
 	}
 	"***RIP MY POODLE APART***"
 	{
-		"chi"		"(婴儿星人正在被人渣父亲家暴)"
+		"chi"		"(元婴正在被人渣父亲家暴)"
 	}
 	"fist me"
 	{
-		"chi"		"(婴儿星人挨揍的拳击声音)"
+		"chi"		"(元婴挨揍的拳击声音)"
 	}
 	"***THIS GATE SHALL OPEN IN 40 HUMAN SECONDS***"
 	{
-		"chi"		"婴儿星人角斗场之门在40秒后开启"
+		"chi"		"元婴角斗场之门在40秒后开启"
 	}
 	"***THIS GATE SHALL OPEN IN 5 HUMAN SECONDS***"
 	{
-		"chi"		"婴儿星人角斗场之门在5秒后开启"
+		"chi"		"元婴角斗场之门在5秒后开启"
 	}
 	"***THIS GATE SHALL BE OPENING RIGHT NOW***"
 	{
-		"chi"		"婴儿星人角斗场之门开启"
+		"chi"		"元婴角斗场之门开启"
 	}
 	"***FALL BACK, FELLOW HUMANS***"
 	{
@@ -830,19 +830,19 @@
 	}
 	"***1 LIKE = ONE PRAYER FOR JEBUS***"
 	{
-		"chi"		"记得给本地图点赞,每个赞都会给婴儿星人一些祝福"
+		"chi"		"记得给本地图点赞,每个赞都会给元婴一些祝福"
 	}
 	"***THE FETUS WANTS YOU***"
 	{
-		"chi"		"不对劲,婴儿星人想吃掉你"
+		"chi"		"不对劲,元婴想吃掉你"
 	}
 	"***THE FETUS NEEDS NUTRITION***"
 	{
-		"chi"		"婴儿星人需要营养"
+		"chi"		"元婴需要营养"
 	}
 	"***THE FETUS NEEDS YOU***"
 	{
-		"chi"		"婴儿星人要你"
+		"chi"		"元婴要你"
 	}
 	"***WATCH OUT FOR SINKING PLATFORMS***"
 	{
@@ -982,27 +982,27 @@
 	}
 	"***THE END IS COMING IN 10 SECONDS***"
 	{
-		"chi"		"跳刀皇十秒后登场"
+		"chi"		"** **"
 	}
 	"***THE END IS COMING IN 5 SECONDS***"
 	{
-		"chi"		"跳刀皇五秒后登场"
+		"chi"		"跳刀皇5秒后登场"
 	}
 	"***THE END IS COMING IN 4 SECONDS***"
 	{
-		"chi"		"跳刀皇四秒后登场"
+		"chi"		"** **"
 	}
 	"***THE END IS COMING IN 3 SECONDS***"
 	{
-		"chi"		"跳刀皇三秒后登场"
+		"chi"		"** **"
 	}
 	"***THE END IS COMING IN 2 SECONDS***"
 	{
-		"chi"		"跳刀皇二秒后登场"
+		"chi"		"** **"
 	}
 	"***THE END IS COMING IN 1 SECOND***"
 	{
-		"chi"		"跳刀皇即将登场"
+		"chi"		"** **"
 	}
 	"***THE END IS NIGH***"
 	{
@@ -1027,6 +1027,7 @@
 	"***TAKE A LEAP OF FAITH***"
 	{
 		"chi"		"信仰之跃!"
+		"command"		"ze_credits_pass_round 15; rank_ze_win_points_humans 20;"
 	}
 	"***YOU ARE THE ULTIMATE DIDDLERS***"
 	{
@@ -1138,7 +1139,7 @@
 	}
 	"there are probably AT LEAST 50 people in the world who likes to sniff cats buttholes"
 	{
-		"chi"		"据我所知,这个世界上至少有50个人有喜欢闻猫屁股的特殊xp"
+		"chi"		"据我所知,这个世界上至少有五十个人有喜欢闻猫屁股的特殊xp"
 	}
 	"why do we even exist"
 	{
@@ -1186,7 +1187,7 @@
 	}
 	"***BURN ALL 10 HOUSES AND SHOOT ALL 5 WEEBS TO TELEPORT OUT EARLIER***"
 	{
-		"chi"		"烧掉所有的房子，并把5个纸片人烧灭了"
+		"chi"		"烧掉所有的房子, 并把5个纸片人烧灭了"
 	}
 	"***ESCAPE YOUR LOVE***"
 	{
@@ -1367,5 +1368,109 @@
 	"*You are stuck inside Turtle Reaction's Computer - Try to escape this place*"
 	{
 		"chi"		"电脑病毒清理战"
+	}
+	"** LEVEL: NOT TOO ROUGH **"
+	{
+		"chi"		"** **"
+	}
+	"***DIDDLE EXTREME ACTIVATED***"
+	{
+		"chi"		"**轮子妈极限模式[激活]**"
+	}
+	"***PREPARE FOR ULTIMATE DIDDLING***"
+	{
+		"chi"		"** **"
+	}
+	"***极限模式已激活, 你可以射击关卡牌子来选关***"
+	{
+		"chi"		"** **"
+	}
+	"[正常 模式] 投票通过 - SLAYING"
+	{
+		"chi"		"** **"
+	}
+	"[极限 模式] 投票通过 - SLAYING"
+	{
+		"chi"		"** **"
+	}
+	"*这是极限模式,你最好不要贴门...*"
+	{
+		"chi"		"** **"
+	}
+	"*等等, 这是极限模式!*"
+	{
+		"chi"		"** **"
+	}
+	"*这事极限模式, 对吗?*"
+	{
+		"chi"		"** **"
+	}
+	"*WTF, 又来了!*"
+	{
+		"chi"		"** **"
+	}
+	"*Extreme funk!*"
+	{
+		"chi"		"** **"
+	}
+	"*Extreme punk!*"
+	{
+		"chi"		"** **"
+	}
+	"*Extreme dunk!*"
+	{
+		"chi"		"** **"
+	}
+	"*Extreme gunk!*"
+	{
+		"chi"		"** **"
+	}
+	"***OMAHA BEACH CHOSEN***"
+	{
+		"chi"		"** **"
+	}
+	"*干掉前面那些残血的僵尸!*"
+	{
+		"chi"		"** **"
+	}
+	"*Extreme mode to the rescue!*"
+	{
+		"chi"		"** **"
+	}
+	"*Alright now you may proceed*"
+	{
+		"chi"		"** **"
+	}
+	"***I'M RICK HARRISON, AND THIS IS MY PAWN SHOP***"
+	{
+		"chi"		"** **"
+	}
+	"***IFWHEN YOU GET INSIDE YOU'LL HAVE 10 SECONDS TO BUY SOMETHING***"
+	{
+		"chi"		"** **"
+	}
+	"***MAP BY LUFFAREN***"
+	{
+		"chi"		"** **"
+	}
+	"***..THEN DON'T GET INSIDE***"
+	{
+		"chi"		"** **"
+	}
+	"***LOVE ISN'T ALWAYS ON TIME***"
+	{
+		"chi"		"** **"
+	}
+	"***你没拿到全部的硬币,打NM的EX呢??***"
+	{
+		"chi"		"** **"
+	}
+	"***你这菜B, 赶紧重来吧!!!***"
+	{
+		"chi"		"** **"
+	}
+	"***PW Fixes by Kyle & CGMentos & 史莱姆 & 小三 & 喵杍***"
+	{
+		"chi"		"** **"
 	}
 }

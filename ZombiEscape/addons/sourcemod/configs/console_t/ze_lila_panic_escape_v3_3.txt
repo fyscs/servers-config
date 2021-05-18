@@ -1,0 +1,628 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "** MAP BY SLAYERDRAGON **"
+    {
+        "chi" "地图作者:SLAYERDRAGON	汉化:小鱼干@風雲社"
+    }
+
+    "[MUSIC] ACDC - Highway To Hell"
+    {
+        "chi" "[音乐] ACDC - Highway To Hell >>> 通往地狱的高速公路"
+    }
+
+    "[MUSIC] GUNS n ROSES - Paradise City"
+    {
+        "chi" "[音乐] GUNS n ROSES - Paradise City >>> 天堂城"
+    }
+
+    "[MUSIC] AQUA - BARBIE"
+    {
+        "chi" "[音乐] AQUA - BARBIE >>> 芭比娃娃"
+    }
+
+    "[MUSIC] BENNY HILL"
+    {
+        "chi" "[音乐] BENNY HILL >>> 班尼希尔"
+    }
+
+    "[MUSIC] NYAN CAT"
+    {
+        "chi" "[音乐] NYAN CAT >>> 彩虹猫"
+    }
+
+    "[MUSIC] REQUIEM FOR A DREAM"
+    {
+        "chi" "[音乐] REQUIEM FOR A DREAM >>> 梦之安魂曲"
+    }
+
+    "[MUSIC] HOLLYWOOD UNDEAD - Everywhere i go"
+    {
+        "chi" "[音乐] HOLLYWOOD UNDEAD - Everywhere i go >>> 无论我去哪里"
+    }
+
+    "[MUSIC] EIFEL 65 - Blue"
+    {
+        "chi" "[音乐] EIFEL 65 - Blue >>> 蓝色"
+    }
+
+    "[MUSIC] CARAMELLDANSEN !!"
+    {
+        "chi" "[音乐] CARAMELLDANSEN !! >>> 焦糖舞"
+    }
+
+    "[MUSIC] REAL2REAL - I Like To Move It"
+    {
+        "chi" "[音乐] REAL2REAL - I Like To Move It"
+    }
+
+    "[MUSIC] PENDULUM - Encoder "
+    {
+        "chi" "[音乐] PENDULUM - Encoder >>> 编码器"
+    }
+
+    "[MUSIC] S3RL - Pika Girl"
+    {
+        "chi" "[音乐] S3RL - Pika Girl >>> 皮卡丘女孩"
+    }
+
+    "[MUSIC] DAFT PUNK - One More Time "
+    {
+        "chi" "[音乐] DAFT PUNK - One More Time >>> 再来一次"
+    }
+
+    "[MUSIC] LINKIN PARK - Numb"
+    {
+        "chi" "[音乐] LINKIN PARK - Numb >>> QQ飞车赛道曲"
+    }
+
+    "[MUSIC] BLOODHOUND GANG - The Bad Touch"
+    {
+        "chi" "[音乐] BLOODHOUND GANG - The Bad Touch >>> 坏习惯"
+    }
+
+    "[MUSIC] NUMA NUMA YODA"
+    {
+        "chi" "[音乐] NUMA NUMA YODA >>> 吗咿呀嘿"
+    }
+
+    "** ...GRAVITY AND DRUGS FOR EVERYONE ! **"
+    {
+        "chi" "** ...每个人都有重力和药物!**"
+    }
+
+    "** SPECIAL SECRET ACTIVATED... **"
+    {
+        "chi" "**特殊秘密激活...**"
+    }
+
+    "** 60 SECONDS left until VICTORY **"
+    {
+        "chi" "**距离胜利还有60秒**"
+    }
+
+    "** 120 SECONDS left until VICTORY **"
+    {
+        "chi" "**距离胜利还有120秒**"
+    }
+
+    "** 180 SECONDS left until VICTORY **"
+    {
+        "chi" "**距离胜利还有180秒**"
+    }
+
+    "** 30 SECONDS left until VICTORY **"
+    {
+        "chi" "**距离胜利还有30秒**"
+    }
+
+    "** 20 SECONDS left until VICTORY **"
+    {
+        "chi" "**还剩20秒, 直到胜利**"
+    }
+
+    "** 10 SECONDS left until VICTORY **"
+    {
+        "chi" "**还剩20秒, 直到胜利**"
+    }
+
+    "** 5 SECONDS left until VICTORY **"
+    {
+        "chi" "**距离胜利还有5秒钟**"
+    }
+
+    "** 5 SECONDS REMAINING **"
+    {
+        "chi" "**还剩5秒**"
+    }
+
+    "** 10 SECONDS REMAINING **"
+    {
+        "chi" "**还剩10秒**"
+    }
+
+    "** 20 SECONDS REMAINING **"
+    {
+        "chi" "**还剩20秒**"
+    }
+
+    "** 30 SECONDS REMAINING **"
+    {
+        "chi" "**还剩30秒**"
+    }
+
+    "** 40 SECONDS REMAINING **"
+    {
+        "chi" "**还剩40秒**"
+    }
+
+    "** 50 SECONDS REMAINING **"
+    {
+        "chi" "**还剩50秒**"
+    }
+
+    "** 60 SECONDS REMAINING **"
+    {
+        "chi" "**还剩60秒**"
+    }
+
+    "** YOU CAN KILL IT OR LEAVE IT !! **"
+    {
+        "chi" "**你可以杀了它, 也可以远离它!!**"
+    }
+
+    "** ENEMY CHOPPER INBOUND !! **"
+    {
+        "chi" "**敌人直升机进站!!**"
+    }
+
+    "** LILA PANIC COMPOUND IS FALLING APART !! **"
+    {
+        "chi" "里拉的化合物正在下跌!"
+    }
+
+    "** 70 SECONDS REMAINING **"
+    {
+        "chi" "**剩余70秒**"
+    }
+
+    "** 80 SECONDS REMAINING **"
+    {
+        "chi" "**剩余80秒**"
+    }
+
+    "** DEFEND 10 SECONDS **"
+    {
+        "chi" "**守住10秒**"
+    }
+
+    "** SECRET BARBIE COMPLETED **"
+    {
+        "chi" "**<BARBIE>完成**"
+    }
+
+    "** SECRET BLUE WORLD COMPLETED **"
+    {
+        "chi" "**<BLUE WORLD>完成**"
+    }
+
+    "** SECRET I LIKE TO MOVE IT COMPLETED **"
+    {
+        "chi" "**<I LIKE TO MOVE IT>完成**"
+    }
+
+    "** SECRET NYAN CAT COMPLETED **"
+    {
+        "chi" "**<NYAN CAT>完成**"
+    }
+
+    "** SECRET ENCODER COMPLETED **"
+    {
+        "chi" "**<ENCODER>完成**"
+    }
+
+    "** ENEMY CHOPPER INBOUND **"
+    {
+        "chi" "**敌人直升机进站**"
+    }
+
+    "** HOLD THIS POSITION FOR 60 SECONDS !! **"
+    {
+        "chi" "**保持这个姿势60秒!!**"
+    }
+
+    "** END OF THE LINE !! **"
+    {
+        "chi" "**穷途末路!!**"
+    }
+
+    "** FIRE BARREL - 50 sec cooldown **"
+    {
+        "chi" "**火- 50秒冷却**"
+    }
+
+    "** FREEZE BOTTLE - 50 sec cooldown **"
+    {
+        "chi" "**冰- 50秒冷却**"
+    }
+
+    "** LASER GUN - 60 sec cooldown **"
+    {
+        "chi" "**激光- 60秒冷却**"
+    }
+
+    "** SUICIDAL ZOMBIE INCOMING **"
+    {
+        "chi" "**自爆僵尸生成**"
+    }
+
+    "** HEAL GUN - 40 sec cooldown **"
+    {
+        "chi" "** 奶- 40秒冷却**"
+    }
+
+    "** DJ IN DA HOUSE !! **"
+    {
+        "chi" "**DJ- 已接入**"
+    }
+
+    "** DOOR OPENS IN 10 SECONDS **"
+    {
+        "chi" "**10秒后开门**"
+    }
+
+    "** DOOR OPENS IN 15 SECONDS **"
+    {
+        "chi" "**15秒后开门**"
+    }
+
+    "** 5 MORE SECONDS LEFT **"
+    {
+        "chi" "**5秒后开门**"
+    }
+
+    "** Button A1 pressed **"
+    {
+        "chi" "**按钮A1按下**"
+    }
+
+    "** ALL BUTTONS HAVE BEEN PRESSED **"
+    {
+        "chi" "**所有按钮都已按下**"
+    }
+
+    "** Button A2 pressed **"
+    {
+        "chi" "**按钮A2按下**"
+    }
+
+    "** Button A3 Pressed **"
+    {
+        "chi" "**按钮A3按下**"
+    }
+
+    "** DEFEND 20 SECONDS **"
+    {
+        "chi" "**守住20秒**"
+    }
+
+    "** DEFEND 5 MORE SECONDS **"
+    {
+        "chi" "**守住5秒**"
+    }
+
+    "** Button B3 Pressed **"
+    {
+        "chi" "**按钮B3按下**"
+    }
+
+    "** Button B2 Pressed **"
+    {
+        "chi" "**按钮B2按下**"
+    }
+
+    "** Button B1 Pressed **"
+    {
+        "chi" "**按钮B1按下**"
+    }
+
+    "** LEVEL 1 (EASY) **"
+    {
+        "chi" "** **"
+    }
+
+    "** LEVEL 2 (BOSS) **"
+    {
+        "chi" "** **"
+    }
+
+    "** LEVEL 3 (HARD) **"
+    {
+        "chi" "** **"
+    }
+
+    "** LEVEL 4 (BOSS) **"
+    {
+        "chi" "** **"
+    }
+
+    "** LEVEL 5 (ZM ROUND) **"
+    {
+        "chi" "** **"
+    }
+
+    "** LEVEL 6 (BOSS) **"
+    {
+        "chi" "** **"
+    }
+
+    "** LEVEL 7 (EXTREME) **"
+    {
+        "chi" "** **"
+    }
+
+    "** LEVEL 8 (FINAL BOSS) **"
+    {
+        "chi" "** **"
+    }
+
+    "** LEVEL 9 (ZM ROUND) **"
+    {
+        "chi" "** **"
+    }
+
+    "** ADMIN ROOM IS OPEN ! **"
+    {
+        "chi" "**调关房已开放!**"
+    }
+
+    "** ADMIN chose LEVEL 1 for NEXT ROUND **"
+    {
+        "chi" "** ADMIN选择了LEVEL 1"
+    }
+
+    "** ADMIN chose LEVEL 2 for NEXT ROUND **"
+    {
+        "chi" "** ADMIN选择了LEVEL 2"
+    }
+
+    "** ADMIN chose LEVEL 3 for NEXT ROUND **"
+    {
+        "chi" "** ADMIN选择了LEVEL 3"
+    }
+
+    "** ADMIN chose LEVEL 4 for NEXT ROUND **"
+    {
+        "chi" "** ADMIN选择了LEVEL 4"
+    }
+
+    "** ADMIN chose LEVEL 5 for NEXT ROUND **"
+    {
+        "chi" "** ADMIN选择了LEVEL 5"
+    }
+
+    "** ADMIN chose LEVEL 6 for NEXT ROUND **"
+    {
+        "chi" "** ADMIN选择了LEVEL 6"
+    }
+
+    "** ADMIN chose LEVEL 7 for NEXT ROUND **"
+    {
+        "chi" "** ADMIN选择了LEVEL 7"
+    }
+
+    "** ADMIN chose LEVEL 8 for NEXT ROUND **"
+    {
+        "chi" "** ADMIN选择了LEVEL 8"
+    }
+
+    "** ADMIN chose LEVEL 9 for NEXT ROUND **"
+    {
+        "chi" "** ADMIN选择了LEVEL 9"
+    }
+
+    "** U WON LEVEL 1 (EASY) **"
+    {
+        "chi" "**你通过了LEVEL 1**"
+    }
+
+    "** U WON LEVEL 2 (BOSS) **"
+    {
+        "chi" "**你通过了LEVEL 2**"
+    }
+
+    "** U WON LEVEL 3 (HARD) **"
+    {
+        "chi" "**你通过了LEVEL 3**"
+    }
+
+    "** U WON LEVEL 4 (BOSS) **"
+    {
+        "chi" "**你通过了LEVEL 4**"
+    }
+
+    "** U WON LEVEL 5 (ZM ROUND) **"
+    {
+        "chi" "**你通过了LEVEL 5**"
+    }
+
+    "** U WON LEVEL 6 (BOSS) **"
+    {
+        "chi" "**你通过了LEVEL 6**"
+    }
+
+    "** U WON LEVEL 7 (EXTREME) **"
+    {
+        "chi" "**你通过了LEVEL 7**"
+    }
+
+    "** U WON LEVEL 8 (FINAL BOSS) **"
+    {
+        "chi" "**你通过了LEVEL 8**"
+    }
+
+    "** U WON LEVEL 9 (ZM ROUND) **"
+    {
+        "chi" "**你通过了LEVEL 9**"
+    }
+
+    "** CONGRATZ !! U WON THE MAP !! **"
+    {
+        "chi" "**你是这张地图的传奇!!**"
+    }
+
+    "** GATE WILL OPEN IN 15 SECONDS **"
+    {
+        "chi" "**门将在15秒内打开**"
+    }
+
+    "** GATE WILL CLOSE IN 10 SECONDS **"
+    {
+        "chi" "**门将在10秒内关闭**"
+    }
+
+    "** GATE WILL OPEN IN 5 SECONDS **"
+    {
+        "chi" "**门将在5秒内打开**"
+    }
+
+    "** PEDOBEAR HAS BEEN DEFEATED **"
+    {
+        "chi" "**狗♂熊被打败了**"
+    }
+
+    "** BOSS ATTACKS ENABLED **"
+    {
+        "chi" "**狗♂熊击剑模式已启动**"
+    }
+
+    "** OH NOES! ITs PEDOBEAR !! **"
+    {
+        "chi" "**狗♂熊出现了!**"
+    }
+
+    "** KILL IT BEFORE IT RAPES EVERYONE !! **"
+    {
+        "chi" "**如果不想和它击剑就快杀了他**"
+    }
+
+    "** NADES AND SPECIAL ITEMS DO MORE DAMAGE !! **"
+    {
+        "chi" "**手雷和特殊物品会对狗熊造成更高的伤害**"
+    }
+
+    "** ITEM COLLECTED - ALL HUMANS GET 250 HP **"
+    {
+        "chi" "**血包已收集-所有人类获得250 HP**"
+    }
+
+    "** ITEM COLLECTED - PEDOBEAR LOST 150 HP **"
+    {
+        "chi" "**特殊物品已收集-狗熊扣除150 HP**"
+    }
+
+    "** DOOR OPENS IN 20 SECONDS **"
+    {
+        "chi" " **门将在20秒内打开**"
+    }
+
+    "** DOOR OPENS IN 5 SECONDS **"
+    {
+        "chi" " **门将在5秒内打开**"
+    }
+
+    "** MISSION - PLANT THE BOMB AND ESCAPE! **"
+    {
+        "chi" " **任务-炸弹和逃生装置!**"
+    }
+
+    "** WE ARE BACK IN THE COMPOUND ! **"
+    {
+        "chi" "**我们又回来了!**"
+    }
+
+    "** AFK wall will BREAK in 5 SECONDS **"
+    {
+        "chi" "** AFK墙将在5秒内碎掉**"
+    }
+
+    "** SECRETS 1 of 5 FOUND **"
+    {
+        "chi" "**彩蛋1/5**"
+    }
+
+    "** SECRETS 2 of 5 FOUND **"
+    {
+        "chi" "**彩蛋2/5**"
+    }
+
+    "** SECRETS 3 of 5 FOUND **"
+    {
+        "chi" "**彩蛋3/5**"
+    }
+
+    "** SECRETS 4 of 5 FOUND **"
+    {
+        "chi" "**彩蛋4/5**"
+    }
+
+    "** ...GRAVITY INBOUND AT THE ENDING !! **"
+    {
+        "chi" "** ...低重力在结尾出现!**"
+    }
+
+    "** ALL SECRETS HAVE BEEN FOUND... **"
+    {
+        "chi" "**彩蛋已集齐**"
+    }
+
+    "** BOMB HAS BEEN PLANTED **"
+    {
+        "chi" "**炸弹安装完毕**"
+    }
+
+    "** 5 SECONDS LEFT BEFORE THE AIRLOCK OPENS **"
+    {
+        "chi" "**气闸打开前还剩5秒**"
+    }
+
+    "** WE ARE READY TO ESCAPE THIS COMPOUND ! **"
+    {
+        "chi" "**我们已经准备好逃脱这个地方!**"
+    }
+
+    "** 20 SECONDS BEFORE THE AIRLOCK OPENS **"
+    {
+        "chi" " **气闸开启前20秒**"
+    }
+
+    "** AIRLOCK TURBINE IS STARTING... **"
+    {
+        "chi" " **气闸涡轮机正在启动......**"
+    }
+
+    "** GO TO THE CENTRAL BUILDING... **"
+    {
+        "chi" "**前往中央大楼...**"
+    }
+
+    "** ... AND WAIT FOR EVACUATION **"
+    {
+        "chi" "**等待撤离!**"
+    }
+
+    "** AMMO GUN - 40 sec cooldown **"
+    {
+        "chi" "**弹药- 40秒冷却**"
+    }
+
+    "** ADMIN gives EVERYONE LEVEL 5! ENJOY!**"
+    {
+        "chi" "** ADMIN给每个人500分!尽情享受吧!**"
+    }
+
+}

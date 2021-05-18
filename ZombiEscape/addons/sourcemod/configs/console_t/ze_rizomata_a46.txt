@@ -1,170 +1,144 @@
 "Console_T"
 {
-	"*** Map by Airvulpes ***"
-	{
-		"chi"		"**地图作者：Airvulpes 地图汉化：大明**"
-	}
-	"*** Hold 30 seconds ***"
-	{
-		"chi"		"**坚守30秒 **"
 
-	}
-	"*** 10 seconds left ***"
-	{
-		"chi"		"**还有10秒**"
-	}
-	"*** Hold 20 seconds ***"
-	{
-		"chi"		"**坚守20秒 **"
+    "*** Hold 30 seconds ***"
+    {
+        "chi" "**防守30秒**"
+    }
 
-	}
-	"*** 5 seconds left ***"
-	{
-		"chi"		"**还有5秒**"
-	}
-	"*** Hold 25 seconds ***"
-	{
-		"chi"		"**坚守25秒 **"
+    "*** 10 seconds left ***"
+    {
+        "chi" "**防守10秒**"
+    }
 
-	}
-	"*** ZOMBIE GOT INSIDE THE LIFT ***"
-	{
-		"chi"		"**僵尸上了电梯 **"
-	}
-	"*** STAGE FAILED ***"
-	{
-		"chi"		"**关卡失败 **"
-	}
-	"*** EARTH SHOCK ***"
-	{
-		"chi"		"**大地践踏（地图左右两边出现跳刀，先选择一边跳过去然后再跳另一边的刀） **"
-	}
-	"*** CRUSTAL MOVEMENT ***"
-	{
-		"chi"		"**地壳运动（往山的左右两边跳上去，一直按着跳直到跳过去） **"
-	}
-	"*** EARTH STOMP ***"
-	{
-		"chi"		"**大地震击（看头顶躲避石柱） **"
-	}
-	"*** EARTHEN SHIELD ***"
-	{
-		"chi"		"**大地之盾 **"
-	}
-	"*** QUAKE ***"
-	{
-		"chi"		"**地震（开奶一直跳） **"
-	}
-	"*** LAND SUBSIDENCE ***"
-	{
-		"chi"		"**地面沉降（地面随机下降，跑到没有下降的地面） **"
-	}
-	"*** EARTHQUAKE ***"
-	{
-		"chi"		"**大地震（BOSS死亡） **"
-	}
-	"*** doors opens 10 seconds ***"
-	{
-		"chi"		"**大门10秒后打开 **"
+    "*** ZOMBIE GOT INSIDE THE LIFT ***"
+    {
+        "chi" "**僵尸上来了!关卡失败**"
+    }
 
-	}
-	"*** Door opens 25 seconds ***"
-	{
-		"chi"		"**大门25秒后打开 **"
+    "*** STAGE FAILED ***"
+    {
+        "chi" "**关卡失败**"
+    }
 
-	}
-	"*** Door opens 35 seconds ***"
-	{
-		"chi"		"**大门35秒后打开 **"
+    "*** Hold 20 seconds ***"
+    {
+        "chi" "**防守20秒**"
+    }
 
-	}
-	"*** ICICLE FALL ***"
-	{
-		"chi"		"**冰瀑（看头顶找缝隙躲过3次攻击） **"
-	}
-	"*** TIDAL WAVE ***"
-	{
-		"chi"		"**海啸（按住W穿过海啸两次） **"
-	}
-	"*** FREEZING COFFIN ***"
-	{
-		"chi"		"**冰之柩（站到平台中间圆盘位置躲避攻击） **"
-	}
-	"*** BLIZZARD ***"
-	{
-		"chi"		"**暴风雪（使用奶神器） **"
-	}
-	"*** FROZEN WATER ***"
-	{
-		"chi"		"**千里冰封（倒计时7秒结束前跳蹲或者跳到地图四个角落，水面上升之前出现此技能不用管） **"
+    "*** 5 seconds left ***"
+    {
+        "chi" "**防守5秒**"
+    }
 
-	}
-	"*** RISING WATER ***"
-	{
-		"chi"		"**水面上升（不用管） **"
-	}
-	"*** DIAMOND DUST ***"
-	{
-		"chi"		"**钻石星尘（跑到四周水下躲避攻击） **"
-	}
-	"Level 2 set"
-	{
-		"chi"		"**第二关**"
-	}
-	"*** Doors open in 10 seconds ***"
-	{
-		"chi"		"**10秒后门开**"
-	}
-	"*** Door opens in 25 seconds ***"
-	{
-		"chi"		"**25秒后门开**"
-	}
-	"*** Door opens in 35 seconds ***"
-	{
-		"chi"		"**大门35秒后打开**"
-	}
-	"***Map by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	"***Particle Effect by Airvulpes***"
-	{
-		"chi"		"** **"
-	}
-	"***Thanks to Shizuru[idea]  uuz[model]***"
-	{
-		"chi"		"** **"
-	}
-	"Level 3 set"
-	{
-		"chi"		"** **"
-	}
-	"***Map by RelaxingWalls***"
-	{
-		"chi"		"** **"
-	}
-	"***Map made for SteamGamers Mapping Competition***"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"** **"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"** **"
-	}
-	"***DIFFICULTY --- NORMAL***"
-	{
-		"chi"		"** **"
-	}
-	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
-	{
-		"chi"		"** **"
-	}
-	"*** map created by thas ***"
-	{
-		"chi"		"** **"
-	}
+    "*** Hold 25 seconds ***"
+    {
+        "chi" "**防守25秒**"
+    }
+
+    "Level 1 set"
+    {
+        "chi" "**管理员初始探寻之旅**"
+    }
+
+    "Level 2 set"
+    {
+        "chi" "**管理员激活了大地元素**"
+    }
+
+    "Level 3 set"
+    {
+        "chi" "**管理员激活了水之元素**"
+    }
+
+    "*** Doors open in 10 seconds ***"
+    {
+        "chi" "**大门10秒后打开**"
+    }
+
+    "*** Door opens in 25 seconds ***"
+    {
+        "chi" "**大门25秒后打开**"
+    }
+
+    "*** Door opens in 35 seconds ***"
+    {
+        "chi" "**大门35秒后打开**"
+    }
+
+    "*** CRUSTAL MOVEMENT ***"
+    {
+        "chi" "**地壳运动**"
+    }
+
+    "*** EARTH STOMP ***"
+    {
+        "chi" "**大地震击**"
+    }
+
+    "*** QUAKE ***"
+    {
+        "chi" "**地震**"
+    }
+
+    "*** EARTHEN SHIELD ***"
+    {
+        "chi" "**大地之盾**"
+    }
+
+    "*** EARTH SHOCK ***"
+    {
+        "chi" "**大地践踏**"
+    }
+
+    "*** LAND SUBSIDENCE ***"
+    {
+        "chi" "**地面沉降**"
+    }
+
+    "*** EARTHQUAKE ***"
+    {
+        "chi" "**大地震(BOSS死亡)**"
+    }
+
+    "*** FROZEN WATER ***"
+    {
+        "chi" "**千里冰封(7秒后水面冻结)**"
+    }
+
+    "*** FREEZING COFFIN ***"
+    {
+        "chi" "**永恒冻结**"
+    }
+
+    "*** BLIZZARD ***"
+    {
+        "chi" "**暴风雪**"
+    }
+
+    "*** DIAMOND DUST ***"
+    {
+        "chi" "**钻石星尘**"
+    }
+
+    "*** TIDAL WAVE ***"
+    {
+        "chi" "**海啸**"
+    }
+
+    "*** ICICLE FALL ***"
+    {
+        "chi" "**冰瀑**"
+    }
+
+    "*** RISING WATER ***"
+    {
+        "chi" "**水面上升**"
+    }
+
+    "*** Map by Airvulpes ***"
+    {
+        "chi" "**地图作者:Airvulpes 翻译:大明&海苔@FyS**"
+    }
+
 }

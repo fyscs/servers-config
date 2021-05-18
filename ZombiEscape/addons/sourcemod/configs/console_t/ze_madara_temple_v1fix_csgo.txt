@@ -1,0 +1,213 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    ">>Failed to spawn the entity<<"
+    {
+        "chi" "**世界构成构造失败 **"
+    }
+
+    ">> Rock will explode in 10 seconds <<"
+    {
+        "chi" "**土墙将在10秒后碎裂 **"
+    }
+
+    ">> Touch the blue particle to disable the portal <<"
+    {
+        "chi" "**那蓝色的查克拉或许会成为至今以来所有谜团的关键 **"
+    }
+
+    "(>>>Triggered<<<)"
+    {
+        "chi" "**某种机关触发的声音 **"
+    }
+
+    "*** Door opens in 20 seconds ***"
+    {
+        "chi" "**门在20秒后打开 **"
+    }
+
+    "(>>Elevators will move in 40 seconds<<)"
+    {
+        "chi" "**电梯在40秒后上升 **"
+    }
+
+    "** Madara disappear - Escape ! **"
+    {
+        "chi" "**我们暂时击退了宇智波斑,快跑! **"
+    }
+
+    ">> Madara has casted ultima <<"
+    {
+        "chi" "**宇智波斑施展禁术-天碍震星(贴墙) **"
+    }
+
+    ">> Door opens in 15 seconds <<"
+    {
+        "chi" "**门在15秒后打开 **"
+    }
+
+    ">> Teleport will be enabled in 30 seconds <<"
+    {
+        "chi" "**在30秒后会施展传送忍术传送落后的玩家 **"
+    }
+
+    ">> Teleport will be enabled in 10 seconds <<"
+    {
+        "chi" "**在10秒后会施展传送忍术传送落后的玩家 **"
+    }
+
+    ">> Doors opens in 20 seconds <<"
+    {
+        "chi" "**门在20秒后打开 **"
+    }
+
+    ">> Press the three levers to open the door <<"
+    {
+        "chi" "**拉下3个拉杆应该就能打开门了 **"
+    }
+
+    ">> Defend until the particle reaches the shield <<"
+    {
+        "chi" "**我们必须为蓝色查克拉争取时间! **"
+    }
+
+    ">> Run to the portal under the waterfall <<"
+    {
+        "chi" "**瀑布下面好像有路,一库走! **"
+    }
+
+    ">> Find the blue particle to disable the shield <<"
+    {
+        "chi" "**寻找蓝色的查克拉,他应该能帮我们打开虚无之墙 **"
+    }
+
+    ">> Cross the bridge and run to the last door ! <<"
+    {
+        "chi" "**快过桥,前面有道门,或许这就是最后的希望! **"
+    }
+
+    ">> Door opens in 30 seconds <<"
+    {
+        "chi" "**门将在30s后打开 **"
+    }
+
+    ">> Door opens in 10 seconds <<"
+    {
+        "chi" "**门在10秒后打开 **"
+    }
+
+    ">> Zombies will teleport soon <<"
+    {
+        "chi" "**敌方忍者快要被传送过来了! **"
+    }
+
+    ">> Fall back now <<"
+    {
+        "chi" "**撤退!撤退!!! **"
+    }
+
+    ">> Try to find the elevator button <<"
+    {
+        "chi" "**这里应该有个电梯开关,去找找 **"
+    }
+
+    ">> Door will close soon ! <<"
+    {
+        "chi" "**门要关上了! **"
+    }
+
+    ">> Congratulation you won the map <<"
+    {
+        "chi" "**恭喜你赢得本图了 **"
+    }
+
+    ">> PLAYER HAS PICKED UP WIND <<"
+    {
+        "chi" "** 有忍者学会了风遁-镰鼬 **"
+    }
+
+    ">> PLAYER HAS PICKED UP GRAVITY <<"
+    {
+        "chi" "** 有忍者继承了万花筒写轮眼并习得神威! **"
+    }
+
+    ">> PLAYER HAS PICKED UP HEAL <<"
+    {
+        "chi" "** 有忍者学会了医疗忍术 **"
+    }
+
+    ">> PLAYER HAS PICKED UP ELECTRO <<"
+    {
+        "chi" "**有忍者学会了雷切! **"
+    }
+
+    ">> PLAYER HAS PICKED UP ROCK <<"
+    {
+        "chi" "**有忍者学会了土遁-土流壁 **"
+    }
+
+    ">> PLAYER HAS PICKED UP ULTIMA <<"
+    {
+        "chi" "**有忍者学会了禁术-超 神罗天征! **"
+    }
+
+    ">> LOADING ULTIMA 20 SECONDS <<"
+    {
+        "chi" "**禁术-超 神罗天征结印施法需要20秒 **"
+    }
+
+    ">> PLAYER HAS PICKED UP ZOMBIE FIRE <<"
+    {
+        "chi" "**敌方忍者学会了火遁-豪火灭却 **"
+    }
+
+    ">> PLAYER HAS PICKED UP FIRE <<"
+    {
+        "chi" "**有忍者学会了火遁-豪火灭矢 **"
+    }
+
+    ">> PLAYER HAS PICKED UP ZOMBIE WARP <<"
+    {
+        "chi" "**敌方忍者学会了别天神 **"
+    }
+
+    ">> PLAYER HAS PICKED UP ZOMBIE HEAL <<"
+    {
+        "chi" "**敌方忍者也学会了医疗忍术 **"
+    }
+
+    ">> PLAYER HAS PICKED UP ZOMBIE LURE <<"
+    {
+        "chi" "**敌方忍者学会了万象天引! **"
+    }
+
+    "(>>>Map Ported by Henry<<<)"
+    {
+        "chi" "**本图由Henry移植,汉化:Ruby **"
+    }
+
+    ">> Door opens soon <<"
+    {
+        "chi" "**门快开了 **"
+    }
+
+    ">> Door opens in 45 seconds <<"
+    {
+        "chi" "**门将在45s后打开 **"
+    }
+
+    ">> Destroy the Gedo Mazo statue <<"
+    {
+        "chi" "**是外道魔像!快摧毁它! **"
+    }
+
+    ">> Final door opens in 20 seconds <<"
+    {
+        "chi" "**宇智波斑就在这道门后面,20秒,直面命运的终焉! **"
+    }
+
+}

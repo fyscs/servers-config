@@ -1,0 +1,182 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "Owl City - Fireflies"
+    {
+        "chi" "BGM: Owl City - Fireflies"
+    }
+
+    "Pharrell Williams - Happy"
+    {
+        "chi" "BGM: Pharrell Williams - Happy"
+    }
+
+    "Avicii - Levels"
+    {
+        "chi" "BGM: Avicii - Levels"
+    }
+
+    "Martin Garrix - Animals"
+    {
+        "chi" "BGM: Martin Garrix - Animals"
+    }
+
+    "Ylvis - The Fox"
+    {
+        "chi" "BGM: Ylvis - The Fox"
+    }
+
+    "----> Buy <----"
+    {
+        "chi" "买枪混战"
+    }
+
+    "----> AWP <----"
+    {
+        "chi" "AWP"
+    }
+
+    "----> Nova Fight <----"
+    {
+        "chi" "新星对决"
+    }
+
+    "----> Random .... <----"
+    {
+        "chi" "随机游戏"
+    }
+
+    "----> Break Floor <----"
+    {
+        "chi" "砸地板"
+    }
+
+    "----> Wall Break : 60 Seconds <----"
+    {
+        "chi" "60秒钟后墙壁消失"
+    }
+
+    "----> Wall Break : 30 Seconds <----"
+    {
+        "blocked" "1"
+        "chi" "30秒钟后墙壁消失"
+    }
+
+    "----> Wall Break : 10 Seconds <----"
+    {
+        "blocked" "1"
+        "chi" "10秒钟后墙壁消失"
+    }
+
+    "----> Wall Break : 5 Seconds <----"
+    {
+        "blocked" "1"
+        "chi" "5秒钟后墙壁消失"
+    }
+
+    "----> Wall Break : Activated <----"
+    {
+        "chi" "墙壁已消失"
+    }
+
+    "----> Scout <----"
+    {
+        "chi" "低重力鸟狙"
+    }
+
+    "----> Dodgeball <----"
+    {
+        "chi" "燃烧弹躲避球"
+    }
+
+    "----> Someone Reached The End :D <----"
+    {
+        "chi" "有人抵达了终点 :D"
+    }
+
+    "----> Race <----"
+    {
+        "chi" "竞速"
+    }
+
+    "----> 5 Seconds <----"
+    {
+        "chi" "5"
+    }
+
+    "----> 4 Seconds <----"
+    {
+        "blocked" "1"
+        "chi" ">4秒<"
+    }
+
+    "----> 3 Seconds <----"
+    {
+        "blocked" "1"
+        "chi" ">3秒<"
+    }
+
+    "----> 2 Seconds <----"
+    {
+        "blocked" "1"
+        "chi" ">2秒<"
+    }
+
+    "----> 1 Second <----"
+    {
+        "blocked" "1"
+        "chi" ">1秒<"
+    }
+
+    "----> RUN ! <----"
+    {
+        "chi" "冲!"
+    }
+
+    "----> Skate <----"
+    {
+        "chi" "滑冰"
+    }
+
+    "----> Small Area : 1 Min <----"
+    {
+        "chi" "60秒后缩小战区"
+    }
+
+    "----> Small Area : 10 Seconds <----"
+    {
+        "blocked" "1"
+        "chi" ">10秒钟后缩小战区<"
+    }
+
+    "----> Small Area : 5 Seconds <----"
+    {
+        "blocked" "1"
+        "chi" ">5秒钟后缩小战区<"
+    }
+
+    "----> Small Area Activated <----"
+    {
+        "chi" "战区已缩小"
+    }
+
+    "----> Knife <----"
+    {
+        "chi" "刀战"
+    }
+
+    "Map By Batson - Have Fun :P"
+    {
+        "chi" "地图作者: Batson 地图汉化: 圣剑@风云社 玩的开心 :P "
+    }
+
+    "Thanks To Cosmo For Helping"
+    {
+        "chi" "感谢Cosmo的帮助"
+    }
+
+}

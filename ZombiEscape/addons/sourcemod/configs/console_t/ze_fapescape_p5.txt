@@ -86,11 +86,11 @@
 	}
 	"*** OH NOOES ***"
 	{
-		"chi"		"**噢！**"
+		"chi"		"**噢!**"
 	}
 	"*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***"
 	{
-		"chi"		"**快杀了RICK！否则他就会把我们杀了！**"
+		"chi"		"**快杀了RICK!否则他就会把我们杀了!**"
 	}
 	"*** RICK ASTLEY IS DEAD ***"
 	{
@@ -174,7 +174,7 @@
 	}
 	"*** GO GO GO ***"
 	{
-		"chi"		"**可以走了！快溜**"
+		"chi"		"**可以走了!快溜**"
 	}
 	"*** Door opens in 10 seconds ***"
 	{
@@ -238,7 +238,7 @@
 	}
 	"*** Zombie on the tram ***"
 	{
-		"chi"		"**僵尸上了电车了！还不开枪呢**"
+		"chi"		"**僵尸上了电车了!还不开枪呢**"
 	}
 	"** Turning on:... **"
 	{
@@ -247,6 +247,7 @@
 	"** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **"
 	{
 		"chi"		"** 天谴难度 **"
+		"command"   "rank_ze_win_points_humans 10"
 	}
 	"*** Door Opening in 30 seconds! ***"
 	{
@@ -254,11 +255,11 @@
 	}
 	"*** OH NO ITS AN EVIL ROBO BOSS ***"
 	{
-		"chi"		"**哦不，这个该死的机器人**"
+		"chi"		"**哦不, 这个该死的机器人**"
 	}
 	"*** KILL IT BEFORE HE TURNS US ALL INTO ROBOTS ***"
 	{
-		"chi"		"**在他杀死我们之前干掉他！**"
+		"chi"		"**在他杀死我们之前干掉他!**"
 	}
 	"*** YOU HAVE DEFEATED THE ROBO BOSS ***"
 	{

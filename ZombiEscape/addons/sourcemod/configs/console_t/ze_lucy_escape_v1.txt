@@ -1,0 +1,328 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "***BOSS TRAINING***"
+    {
+        "chi" "***boss来袭***"
+    }
+
+    "***ZOMBIE TELEPORT IN 5 SECONDS***"
+    {
+        "chi" "***僵尸将在5秒后传送***"
+    }
+
+    "***WE HAVE ESCAPED AND SAVED LUCY!!!!***"
+    {
+        "chi" "***我们成功找到了猫猫!rtv pls!***"
+    }
+
+    "***WE FAILED, LUCY DIDN'T MAKEI T BACK HOME :(***"
+    {
+        "chi" "***我们失败了 猫猫莫了 呜呜***"
+    }
+
+    "***MARSHY IS SAYING HE KNOWS THE WAY OUT AND HE IS GOING TO HELP US ESCAPE***"
+    {
+        "chi" "***猫猫说他知道如何逃脱 快!跟上她***"
+    }
+
+    "***MARSHY WILL OPEN THE PORTAL IN 10 SECONDS***"
+    {
+        "chi" "***猫猫传送阵将于10秒后开启***"
+    }
+
+    "***MARSHY IS GOING TO ACTIVATE THE FOUNTAIN PORTAL***"
+    {
+        "chi" "***猫猫正在为我们开启传送阵 守护住她!***"
+    }
+
+    "***MARSHY IS SAYING PREPARE TO FALL BACK, ITS ALMOST OPENED***"
+    {
+        "chi" "***准备撤退了 猫猫说快好了!***"
+    }
+
+    "***LIFT GOING DOWN IN 5 SECONDS"
+    {
+        "chi" "***电梯5秒后下降熬***"
+    }
+
+    "***Elder Samurai - You've breached my realm, slain my elder guardian***"
+    {
+        "chi" "***好啊 你们竟然把猪b(指暴风)给干碎了 是我小瞧你们了***"
+    }
+
+    "***Elder Samurai - Just to get your little cat back ? huh ?***"
+    {
+        "chi" "***就只是为了夺回你的猫猫?真感人***"
+    }
+
+    "***Elder Samurai - You should have stayed at your home because this day will be your last***"
+    {
+        "chi" "***你的盾牌残破不堪 你的誓言毒害了你要守护之人(无视吧 瞎翻的...)***"
+    }
+
+    "***Elder Samurai - Your Cat is mine now***"
+    {
+        "chi" "***我宣布你要被ntr了 你的猫猫是我的了 哈哈***"
+    }
+
+    "***Elder Samurai - You have the choice to go back to your home again, so will you accept ?***"
+    {
+        "chi" "***给你最后一次机会 滚回你的家里 因为我就要把你的猫猫变成猫娘了***"
+    }
+
+    "***Elder Samurai - Your answer is no ? impresive...***"
+    {
+        "chi" "***你胆敢忤逆我 可恶啊 我急了!***"
+    }
+
+    "***ARENA ELEVATOR GOING UP IN 10 SECONDS***"
+    {
+        "chi" "***决斗场电梯10秒后上升***"
+    }
+
+    "***THE ELDER SAMURAI IS DEAD, LETS TAKE LUCY AND ESCAPE FROM THIS PLACE***"
+    {
+        "chi" "***铁男已经被我们干碎了 带上我们的猫猫离开这里***"
+    }
+
+    "***THE GATE IS STUCK, MAYBE WE CAN BREAK IT***"
+    {
+        "chi" "***这门已经坏了 给它干碎***"
+    }
+
+    "***LEVEL 1 CHOSEN***"
+    {
+        "chi" "***第一关已选择***"
+    }
+
+    "***LEVEL 2 CHOSEN***"
+    {
+        "chi" "***第二关已选择***"
+    }
+
+    "***FINAL DOOR OPENING IN 45 SECONDS***"
+    {
+        "chi" "***最终的大门将于45秒后开启 背水一战!***"
+    }
+
+    "***WE HAVE TO GO ALL THE WAY UP AND RING THE BELL***"
+    {
+        "chi" "***快!冲向楼顶并敲响钟表***"
+    }
+
+    "***LEVEL 1 - THE STOLEN KITTY***"
+    {
+        "chi" "***第一关 - 我们的猫呢?***"
+    }
+
+    "***MAP BY DEMON***"
+    {
+        "chi" "***MAP BY DEMON 汉化:爱你的❤龙鸣***"
+    }
+
+    "***TELEPORT IN 10 SECONDS"
+    {
+        "chi" "***传送阵10秒后开启***"
+    }
+
+    "***LEVEL 2 - THE UNKNOWN REALM***"
+    {
+        "chi" "***第二关 - 天堂还是地狱?***"
+    }
+
+    "***FLOOR TWO ELEVATOR GOING UP IN 30 SECONSD***"
+    {
+        "chi" "***二楼的电梯30秒后启动***"
+    }
+
+    "***ZOMBIE TELEPORT IN 10 SECONDS***"
+    {
+        "chi" "***僵尸10秒后传送***"
+    }
+
+    "***FIRST FLOOR TWO DOORS OPENING IN 15 SECONDS"
+    {
+        "chi" "***一楼的两扇大门15秒后打开***"
+    }
+
+    "***SECOND FLOOR TWO DOORS OPENING IN 10 SECONDS***"
+    {
+        "chi" "***二楼的两扇大门10秒后打开***"
+    }
+
+    "***LIGHT IS GONNA PULL US OUT IN 10 SECONDS***"
+    {
+        "chi" "***圣光将于10秒后指引我们的道路***"
+    }
+
+    "***CASTLE DOORS ARE GOING TO BREAK IN 20 SECONDS***"
+    {
+        "chi" "***我们需要20秒来破坏城堡大门***"
+    }
+
+    "***FLOOR ONE DOORS OPENING IN 40 SECONDS***"
+    {
+        "chi" "***一楼大门40秒后开启***"
+    }
+
+    "***BLOCKER OPENING IN 30 SECONDS***"
+    {
+        "chi" "***完了 又是一条死路 先防守30秒再说***"
+    }
+
+    "***SUMMON BEHEMOTH  HAS BEEN PICKED UP***"
+    {
+        "chi" "***召唤契约(大)已拾取***"
+    }
+
+    "***VOID PORTAL IS GOING TO OPEN IN 30 SECONDS***"
+    {
+        "chi" "***传送阵需要30秒时间充能 想想办法熬***"
+    }
+
+    "***WAND OF REMEDY HAS BEEN PICKED UP***"
+    {
+        "chi" "***治愈已被拾取***"
+    }
+
+    "***SUMMON ANCIENT HAS BEEN PICKED UP***"
+    {
+        "chi" "***召唤契约(小)已拾取***"
+    }
+
+    "***FIRE STORM HAS BEEN PICKED UP***"
+    {
+        "chi" "***天火已被拾取***"
+    }
+
+    "***PLAZMA BLAST HAS BEEN PICKED UP***"
+    {
+        "chi" "***闪电已被拾取***"
+    }
+
+    "***ROCKS EXPLODING IN 30 SECONDS***"
+    {
+        "chi" "***大石头需要30秒清除***"
+    }
+
+    "***ROCKS EXPLODING IN 40 SECONDS***"
+    {
+        "chi" "***大石头需要40秒清除***"
+    }
+
+    "***BELL CASTLE BRIDGE SUMMONING IN 40 SECONDS***"
+    {
+        "chi" "***通往怪异的城堡道路将于40秒后出现***"
+    }
+
+    "***ZOMBIE TELEPORT IN 10 SECONDS"
+    {
+        "chi" "***僵尸10秒后传送***"
+    }
+
+    "***SHOOT THE FLOATING STATUES***"
+    {
+        "chi" "***对两边漂浮的诡异雕像开枪试试***"
+    }
+
+    "***HOLD UNTIL THE BLOCKER FADES AWAY***"
+    {
+        "chi" "***守住直到封印解除***"
+    }
+
+    "***VOID CHAPEL PATH IS GONNA BE SUMMONED IN 30 SECONDS***"
+    {
+        "chi" "***完了 sb指挥这是死路 先守住30秒再说***"
+    }
+
+    "***CHAPEL DOOR OPENING IN 10 SECONDS"
+    {
+        "chi" "***奇异的教堂大门将于10秒后打开***"
+    }
+
+    "***CHAPEL TELEPORT ACTIVATING IN 40 SECONDS***"
+    {
+        "chi" "***守住教堂40秒等我们传送阵充能完毕***"
+    }
+
+    "***THE TELEPORT IS OPEN, BACK NOW***"
+    {
+        "chi" "***传送阵已开启 溜了溜了***"
+    }
+
+    "***ROCKS EXPLODING IN 60 SECONDS***"
+    {
+        "chi" "***我们需要60秒来清除这块大石头***"
+    }
+
+    "***SHORTCUT WAY IS NOW OPEN***"
+    {
+        "chi" "***僵尸侧路开了 注意!***"
+    }
+
+    "***ZOMBIE TP IN 15 SECONDS***"
+    {
+        "chi" "***僵尸15秒后传送***"
+    }
+
+    "***THE SAMURAI HAS TOOK THIS PORTAL TO ANOTHER PLACE***"
+    {
+        "chi" "***以为跑进传送阵就逮不着你了?跟上它!***"
+    }
+
+    "***DESTROY THE CHARGERS TO OPEN THE PORTAL BEFORE IT DESTROYS IT SELF***"
+    {
+        "chi" "***快!在传送阵失效前破坏两边的水晶解除封锁***"
+    }
+
+    "***PORTAL IS OPENED FOLLOW THE ELDER SMAURAI***"
+    {
+        "chi" "***传送阵已开启 进去干死偷猫贼***"
+    }
+
+    "***ICE ROCKS ARE MELTING, HOLD OFF THE ZOMBIES***"
+    {
+        "chi" "***冰墙需要点时间融化 先回头守住僵尸吧***"
+    }
+
+    "***WE HAVE OPENED THE DOOR, FOLLOW LUCYS TRAIL TO FIND HER***"
+    {
+        "chi" "***好 门开了 沿着猫猫的足迹找到她***"
+    }
+
+    "***THIS DOOR SEEMS RUSTY, IT WILL TAKE A LITTLE WHILE TO OPEN***"
+    {
+        "chi" "***一扇生锈的门 需要点时间打开 守住***"
+    }
+
+    "***THE DOOR HAS BEEN JAMMED, SPAM E ON IT TO OPEN  IT***"
+    {
+        "chi" "***门被锁死了 按E撬门***"
+    }
+
+    "***WHAT IS THAT ??? FOLLOW IT AND SAVE LUCY***"
+    {
+        "chi" "***站住!偷了我的猫还想跑?***"
+    }
+
+    "***ELEVATOR DOORS OPENING IN 30 SECONDS***"
+    {
+        "chi" "***电梯门30秒后开启***"
+    }
+
+    "***ELEVATOR GOING DOWN IN 10 SECONDS***"
+    {
+        "chi" "***电梯10秒后下降***"
+    }
+
+    "***SOMETHING STOLE OUR LOVELY CAT, FOLLOW IT AND SAVE HER***"
+    {
+        "chi" "***nmb有人把我们的猫偷走了 是不是没见过黑手?***"
+    }
+
+}

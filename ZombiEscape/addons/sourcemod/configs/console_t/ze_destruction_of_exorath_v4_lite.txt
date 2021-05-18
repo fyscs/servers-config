@@ -1,0 +1,1098 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "***DOORS OPENING IN 20 SECONDS***"
+    {
+        "chi" "大门将在20秒后打开"
+    }
+
+    "** PUSH GUN HAS BEEN PICKED UP **"
+    {
+        "chi" "推力枪已被拾取"
+    }
+
+    "** AMMO BOX HAS BEEN PICKED UP **"
+    {
+        "chi" "弹药箱已被拾取"
+    }
+
+    "** EXORATH WILL NOT USE THE ANNIHILATION ATTACK **"
+    {
+        "chi" "BOSS将不会使用终极"
+    }
+
+    "** ALL LEVERS HAVE BEEN FOUND AND ACTIVATED **"
+    {
+        "chi" "所有开关已被激活"
+    }
+
+    "** ONLY ONE LEVER LEFT **"
+    {
+        "chi" "还剩一个开关"
+    }
+
+    "** ZOMBIES ARE TRAPPED FOR 15 SECONDS **"
+    {
+        "chi" "僵尸会被困住15秒"
+    }
+
+    "** ALL GET IN ** THE ELEVATOR IS GOING TO LEAVE **"
+    {
+        "chi" "电车要离开了"
+    }
+
+    "** THE ELEVATOR IS LEAVING IN 10 SECONDS **"
+    {
+        "chi" "电车将在10秒后离开"
+    }
+
+    "** THE ELEVATOR IS LEAVING IN 30 SECONDS **"
+    {
+        "chi" "电车将在30秒后离开"
+    }
+
+    "** THE ELEVATOR IS LEAVING IN 20 SECONDS **"
+    {
+        "chi" "电车将在20秒后离开"
+    }
+
+    "** THE ELEVATOR IS LEAVING IN 5 SECONDS **"
+    {
+        "chi" "电车将在5秒后离开"
+    }
+
+    "** HUMANS WIN **"
+    {
+        "chi" "人类胜利"
+    }
+
+    "** EASY MODE COMPLETE ** HARD MODE UNLOCKED **"
+    {
+        "chi" "简单难度完成, 已解锁困难难度"
+    }
+
+    "** ZOMBIES DETECTED IN THE TRAIN **"
+    {
+        "chi" "列车上检测到僵尸"
+    }
+
+    "** EASY MODE FAILED ** RESTARTING **"
+    {
+        "chi" "简单难度失败"
+    }
+
+    "** ROCKY DOOR IN SECTION D8 IS BROKEN ** FALL BACK **"
+    {
+        "chi" "大门已被打破, 撤退"
+    }
+
+    "** ROCKY DOOR IN SECTION D8 WILL BREAK IN 10 SECONDS **"
+    {
+        "chi" "大门将在10秒后打开"
+    }
+
+    "** ROCKY DOOR IN SECTION D8 WILL BREAK IN 20 SECONDS **"
+    {
+        "chi" "大门将在20秒后打开"
+    }
+
+    "** ROCKY DOOR IN SECTION D8 WILL BREAK IN 5 SECONDS **"
+    {
+        "chi" "大门将在5秒后打开"
+    }
+
+    "** ROCKY DOOR IN SECTION D8 WILL BREAK IN 30 SECONDS **"
+    {
+        "chi" "大门将在30秒后打开"
+    }
+
+    "** SLOWMOTION GUN HAS BEEN PICKED UP **"
+    {
+        "chi" "减速枪已被拾取"
+    }
+
+    "** HEALTH BOX HAS BEEN PICKED UP **"
+    {
+        "chi" "奶已被拾取"
+    }
+
+    "** EXTREME MODE COMPLETE ** GODMODE UNLOCKED **"
+    {
+        "chi" "EX难度完成, 已解锁GOD难度"
+    }
+
+    "** HUMANS WON **"
+    {
+        "chi" "人类胜利"
+    }
+
+    "** EXTREME MODE FAILED ** RESTARTING **"
+    {
+        "chi" "EX难度失败"
+    }
+
+    "** ZOMBIES DETECTED ON FLYING PLATE **"
+    {
+        "chi" "飞碟上检测到僵尸"
+    }
+
+    "** GODMODE COMPLETE ** IMPOSSIBLE MODE UNLOCKED **"
+    {
+        "chi" "GOD难度完成, 已解锁不可能难度"
+    }
+
+    "** ZOMBIES DETECTED INSIDE AIRPLANE **"
+    {
+        "chi" "飞机内检测到僵尸"
+    }
+
+    "** GODMODE FAILED ** RESTARTING **"
+    {
+        "chi" "GOD难度失败"
+    }
+
+    "** ZOMBIES ARE TRAPPED FOR 5 SECONDS **"
+    {
+        "chi" "僵尸会被困住5秒"
+    }
+
+    "** ZOMBIES ARE NO LONGER TRAPPED **"
+    {
+        "chi" "僵尸脱困了"
+    }
+
+    "** SONG PLAYING: E.S. POSTHUMUS - NINEVEH **"
+    {
+        "chi" "bgm: E.S. POSTHUMUS - NINEVEH"
+    }
+
+    "** RUN OUTSIDE TO THE PYRAMID **"
+    {
+        "chi" "快跑到外面的金字塔去"
+    }
+
+    "** ROCKY DOOR IN SECTION D8 WILL BREAK IN 15 SECONDS **"
+    {
+        "chi" "大门将在15秒后打开"
+    }
+
+    "** HARD MODE COMPLETE ** EXTREME MODE UNLOCKED **"
+    {
+        "chi" "困难难度完成, 已解锁EX难度"
+    }
+
+    "** HARD MODE FAILED ** RESTARTING **"
+    {
+        "chi" "困难难度失败"
+    }
+
+    "** ZOMBIES DETECTED IN THE TEMPLE **"
+    {
+        "chi" "神庙中检测到僵尸"
+    }
+
+    "** ALL FALL BACK ** PYRAMID DOOR IS CLOSING **"
+    {
+        "chi" "全体撤退, 大门正在关闭"
+    }
+
+    "** NUKE WILL BE DROPPED IN 5 SECONDS **"
+    {
+        "chi" "核弹将在5秒后到达"
+    }
+
+    "** NUKE WILL BE DROPPED IN 10 SECONDS **"
+    {
+        "chi" "核弹将在10秒后到达"
+    }
+
+    "** NUKE WILL BE DROPPED IN 20 SECONDS **"
+    {
+        "chi" "核弹将在20秒后到达"
+    }
+
+    "** NUKE WILL BE DROPPED IN 30 SECONDS **"
+    {
+        "chi" "核弹将在30秒后到达"
+    }
+
+    "** NUKE ACTIVATED ** DEFEND THE PYRAMID FOR 40 SECONDS **"
+    {
+        "chi" "核弹已启动, 守住金字塔40秒"
+    }
+
+    "** SECRET FLAMETHROWER UNLOCKED **"
+    {
+        "chi" "隐藏喷火器已解锁"
+    }
+
+    "** SECRET FLAMETHROWER HAS BEEN PICKED UP **"
+    {
+        "chi" "隐藏喷火器已被拾取"
+    }
+
+    "** ALL ROCKY DOORS IN SECTION D8 ARE BROKEN ** FALL BACK **"
+    {
+        "chi" "所有大门已打开, 撤退"
+    }
+
+    "** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 5 SECONDS **"
+    {
+        "chi" "所有大门将在5秒后打开"
+    }
+
+    "** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 10 SECONDS **"
+    {
+        "chi" "所有大门将在10秒后打开"
+    }
+
+    "** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 15 SECONDS **"
+    {
+        "chi" "所有大门将在15秒后打开"
+    }
+
+    "** ALL ROCKY DOORS IN SECTION D8 WILL BREAK IN 40 SECONDS **"
+    {
+        "chi" "所有大门将在40秒后打开"
+    }
+
+    "** EASY MODE HAS BEEN ACTIVATED VIA THE ADMIN ROOM **"
+    {
+        "chi" "调关房选择了简单难度"
+    }
+
+    "** 1 **"
+    {
+        "chi" "1"
+    }
+
+    "** 2 **"
+    {
+        "chi" "2"
+    }
+
+    "** 3 **"
+    {
+        "chi" "3"
+    }
+
+    "** MASSIVE NUKE INCOMMING **"
+    {
+        "chi" "核爆正在到来"
+    }
+
+    "** HARD MODE HAS BEEN ACTIVATED VIA THE ADMIN ROOM **"
+    {
+        "chi" "调关房选择了困难难度"
+    }
+
+    "** EXTREME MODE HAS BEEN ACTIVATED VIA THE ADMIN ROOM **"
+    {
+        "chi" "调关房选择了EX难度"
+    }
+
+    "** GODMODE HAS BEEN ACTIVATED VIA THE ADMIN ROOM **"
+    {
+        "chi" "调关房选择了GOD难度"
+    }
+
+    "** IMPOSSIBLE MODE HAS BEEN ACTIVATED VIA THE ADMIN ROOM **"
+    {
+        "chi" "调关房选择了不可能难度"
+    }
+
+    "** HUMANS INSIDE THE VENT FAILED ** ZOMBIES SPOTTED **"
+    {
+        "chi" "通风口里的人类守不住了"
+    }
+
+    "** PHYSICS GLITCH HAS BEEN DETECTED **"
+    {
+        "chi" "检测到物理故障"
+    }
+
+    "** ACTIVATE THE TELEPORTER WITH THE COMPUTER BUTTONS **"
+    {
+        "chi" "用电脑按钮激活传送器"
+    }
+
+    "** NADE SPAWNER HAS BEEN PICKED UP **"
+    {
+        "chi" "手雷制造器已被拾取"
+    }
+
+    "** SECRET FREEZE MACHINE HAS BEEN PICKED UP **"
+    {
+        "chi" "隐藏冷冻枪已被拾取"
+    }
+
+    "** BOMB PLACER HAS BEEN PICKED UP **"
+    {
+        "chi" "地雷已被拾取"
+    }
+
+    "** COVER SECTION B4 FOR 15 SECONDS **"
+    {
+        "chi" "守住15秒"
+    }
+
+    "** THE GATE IN SECTION B4 WILL BREAK IN 5 SECONDS **"
+    {
+        "chi" "大门将在5秒后打开"
+    }
+
+    "** THE GATE IN SECTION B4 WILL BREAK IN 10 SECONDS **"
+    {
+        "chi" "大门将在10秒后打开"
+    }
+
+    "** EXORATH HAS BECOME STRONGER ** BE PREPARED FOR A FIGHT **"
+    {
+        "chi" "BOSS变得更强了, 准备战斗"
+    }
+
+    "** SONG PLAYING: TWO STEPS FROM HELL - POWER OF DARKNESS **"
+    {
+        "chi" "bgm:TWO STEPS FROM HELL - POWER OF DARKNESS"
+    }
+
+    "** THE VENT NEED SOME PROTECTION **"
+    {
+        "chi" "守住通风口"
+    }
+
+    "** SONG PLAYING: REMORSE CODE - TRANSCEND **"
+    {
+        "chi" "bgm:REMORSE CODE - TRANSCEND"
+    }
+
+    "** EXORATH HAS LOCATED YOUR POSITION ** BE PREPARED FOR A FIGHT **"
+    {
+        "chi" "BOSS来了, 准备战斗"
+    }
+
+    "** EXORATH IS TAKEN HIS FINAL REVENGE ** BE PREPARED FOR A FIGHT **"
+    {
+        "chi" "BOSS开始了他最后的复仇, 准备战斗"
+    }
+
+    "** SONG PLAYING: DEUS EX OST - SARIF BATTLE THEME **"
+    {
+        "chi" "bgm:DEUS EX OST - SARIF BATTLE THEME"
+    }
+
+    "** THE HELICOPTER IS ON HIS WAY **"
+    {
+        "chi" "直升机在来的路上"
+    }
+
+    "** THE HELICOPTER WILL START IN 10 SECONDS **"
+    {
+        "chi" "直升机将在10秒后启动"
+    }
+
+    "** THE HELICOPTER WILL START IN 15 SECONDS **"
+    {
+        "chi" "直升机将在15秒后启动"
+    }
+
+    "** THE HELICOPTER WILL START IN 25 SECONDS **"
+    {
+        "chi" "直升机将在25秒后启动"
+    }
+
+    "** THE HELICOPTER WILL START IN 35 SECONDS **"
+    {
+        "chi" "直升机将在35秒后启动"
+    }
+
+    "** SONG PLAYING: TWO STEPS FROM HELL - FATAL FURY **"
+    {
+        "chi" "bgm: TWO STEPS FROM HELL - FATAL FURY"
+    }
+
+    "** PELICAN WILL LEAVE IN 5 SECONDS **"
+    {
+        "chi" "船将在5秒后离开"
+    }
+
+    "** PELICAN WILL LEAVE IN 20 SECONDS **"
+    {
+        "chi" "船将在20秒后离开"
+    }
+
+    "** PELICAN WILL LEAVE IN 50 SECONDS **"
+    {
+        "chi" "船将在50秒后离开"
+    }
+
+    "** DEFEND THE PELICAN UNTIL LEAVING **"
+    {
+        "chi" "守住船直到离开"
+    }
+
+    "** SONG PLAYING: E.S POSTHUMUS - KUVERA **"
+    {
+        "chi" "bgm:E.S POSTHUMUS - KUVERA"
+    }
+
+    "** PELICAN WILL LEAVE IN 30 SECONDS **"
+    {
+        "chi" "船将在30后离开"
+    }
+
+    "** FLYING PLATE WILL RAISE UP IN 5 SECONDS **"
+    {
+        "chi" "飞碟将在5秒后起飞"
+    }
+
+    "** FLYING PLATE WILL RAISE UP IN 20 SECONDS **"
+    {
+        "chi" "飞碟将在20秒后起飞"
+    }
+
+    "** FLYING PLATE WILL RAISE UP IN 40 SECONDS **"
+    {
+        "chi" "飞碟将在40秒后起飞"
+    }
+
+    "** DEFEND THE FLYING PLATE UNTIL IT RAISES UP **"
+    {
+        "chi" "守住飞碟直到起飞"
+    }
+
+    "** SONG PLAYING: XENOBLADE CHRONICLES - TIME TO FIGHT **"
+    {
+        "chi" "bgm: XENOBLADE CHRONICLES - TIME TO FIGHT"
+    }
+
+    "** THE HELICOPTER IS HERE ** GET IN **"
+    {
+        "chi" "直升机到了, 快进去"
+    }
+
+    "** THE HELICOPTER IS LEAVING IN 5 SECONDS **"
+    {
+        "chi" "直升机将在5秒后离开"
+    }
+
+    "** THE HELICOPTER IS LEAVING NOW ** GET IN **"
+    {
+        "chi" "直升机正在离开"
+    }
+
+    "** IMPOSSIBLE MODE FAILED ** RESTARTING **"
+    {
+        "chi" "不可能难度失败"
+    }
+
+    "** ZOMBIES DETECTED IN HELICOPTER **"
+    {
+        "chi" "直升机上检测到僵尸"
+    }
+
+    "** ALL LEVELS COMPLETE ** ACTIVATING BONUS **"
+    {
+        "chi" "所有难度完成, 奖励关解锁"
+    }
+
+    "** HUMANS WON ** YOU ROCK **"
+    {
+        "chi" "人类胜利"
+    }
+
+    "** MAP MADE BY PURPZZ ** THANKS FOR PLAYING **"
+    {
+        "chi" "地图作者: PURPZZ, 感谢游玩"
+    }
+
+    "** COVER SECTION B7 FOR 15 SECONDS **"
+    {
+        "chi" "守住15秒"
+    }
+
+    "** THE GATE IN SECTION B7 WILL BREAK IN 5 SECONDS **"
+    {
+        "chi" "大门将在5秒后打开"
+    }
+
+    "** THE GATE IN SECTION B7 WILL BREAK IN 10 SECONDS **"
+    {
+        "chi" "大门将在10秒后打开"
+    }
+
+    "** THE TRAIN WILL LEAVE IN 60 SECONDS **"
+    {
+        "chi" "列车将在60秒后离开"
+    }
+
+    "** THE TRAIN WILL LEAVE IN 5 SECONDS **"
+    {
+        "chi" "列车将在5秒后离开"
+    }
+
+    "** THE TRAIN WILL LEAVE IN 40 SECONDS **"
+    {
+        "chi" "列车将在40秒后离开"
+    }
+
+    "** THE TRAIN WILL LEAVE IN 30 SECONDS **"
+    {
+        "chi" "列车将在30秒后离开"
+    }
+
+    "** THE TRAIN WILL LEAVE IN 20 SECONDS **"
+    {
+        "chi" "列车将在20秒后离开"
+    }
+
+    "** THE TRAIN WILL LEAVE IN 10 SECONDS **"
+    {
+        "chi" "列车将在10秒后离开"
+    }
+
+    "** THE TRAIN IS LEAVING NOW ** BE INSIDE **"
+    {
+        "chi" "列车正在离开, 待在里面"
+    }
+
+    "** SONG PLAYING: HALO 2 OST VOL. 1 - IN AMBER CLAD **"
+    {
+        "chi" "bgm: HALO 2 OST VOL. 1 - IN AMBER CLAD"
+    }
+
+    "** ANNIHILATION FROM EXORATH HAS BEEN DISABLED VIA THE ADMIN ROOM **"
+    {
+        "chi" "调关房关闭了boss的终极技能"
+    }
+
+    "** MASSIVE NUKE ACTIVATED VIA THE ADMIN ROOM **"
+    {
+        "chi" "调关房选择了核爆"
+    }
+
+    "** SECRET FREEZE MACHINE UNLOCKED **"
+    {
+        "chi" "隐藏冷冻机解锁"
+    }
+
+    "** ELEVATOR GENERATOR OFFLINE **"
+    {
+        "chi" "电梯发电机离线"
+    }
+
+    "** ELEVATOR GENERATOR FAILING **"
+    {
+        "chi" "电梯发电机故障"
+    }
+
+    "**WALL BREAKING IN 20 SECONDS**"
+    {
+        "chi" "墙壁将在20秒后被打破"
+    }
+
+    "** 1 MORE SLOT HAS BEEN UNLOCKED IN THE VENT **"
+    {
+        "chi" "通风口上多了一个口"
+    }
+
+    "** 2 MORE SLOTS HAVE BEEN UNLOCKED IN THE VENT **"
+    {
+        "chi" "通风口上多了两个口"
+    }
+
+    "** 3 MORE SLOTS HAVE BEEN UNLOCKED IN THE VENT **"
+    {
+        "chi" "通风口上多了三个口"
+    }
+
+    "** MAP RESET ACTIVATED VIA THE ADMIN ROOM **"
+    {
+        "chi" "调关房激活了地图重置"
+    }
+
+    "** SECRET VENTLEVER HAS BEEN PICKED UP **"
+    {
+        "chi" "隐藏通风杆已被拾取"
+    }
+
+    "** SECRET VENTLEVER HAS BEEN ACTIVATED **"
+    {
+        "chi" "隐藏通风杆已被激活"
+    }
+
+    "** SAFEBOX BROKEN ** PRESS THE BUTTON TO ACTIVATE THE NUKE **"
+    {
+        "chi" "保险箱被打破了, 按下按钮来激活核弹"
+    }
+
+    "** SECRET NUKE HAS BEEN PICKED UP **"
+    {
+        "chi" "隐藏核弹已被拾取"
+    }
+
+    "** SECRET NUKE HAS BEEN UNLOCKED **"
+    {
+        "chi" "隐藏核弹已解锁"
+    }
+
+    "** 2 MINUTES LEFT BEFORE EXORATH DOES THE ULTIMATE ATTACK **"
+    {
+        "chi" "两分钟后boss释放终极"
+    }
+
+    "** EXORATH IS CHARGING ANNIHILATION DESTRUCTION **"
+    {
+        "chi" "boss正在释放终极"
+    }
+
+    "** SONG PLAYING: E.S. POSTHUMUS - POMPEII **"
+    {
+        "chi" "bgm: E.S. POSTHUMUS - POMPEII"
+    }
+
+    "** RESTARTING MODE **"
+    {
+        "chi" "重置模式"
+    }
+
+    "** NO MORE HUMANS LEFT INSIDE THE ARENA ** VENT EXPLODING **"
+    {
+        "chi" "场内已没有人类, 通风口爆炸"
+    }
+
+    "** SOMETHING WENT WRONG ** ACTIVATING MASSIVE NUKE **"
+    {
+        "chi" "不对劲, 快激活巨型核弹"
+    }
+
+    "***Adjust the volume in your music settings or via snd_musicvolume***"
+    {
+        "chi" "在设置中调节好你的音量"
+    }
+
+    "** SONG PLAYING: HYBRID - JUST FOR TODAY **"
+    {
+        "chi" "bgm:HYBRID - JUST FOR TODAY"
+    }
+
+    "** CURRENT: EASY MODE **"
+    {
+        "chi" "当前: 简单难度"
+    }
+
+    "** SONG PLAYING: HYBRID - EMPIRE **"
+    {
+        "chi" "bgm:HYBRID - EMPIRE"
+    }
+
+    "** CURRENT: HARD MODE **"
+    {
+        "chi" "当前难度: 困难难度"
+    }
+
+    "** SONG PLAYING: HYBRID - DOGSTAR **"
+    {
+        "chi" "bgm:HYBRID - DOGSTAR"
+    }
+
+    "** CURRENT: EXTREME MODE **"
+    {
+        "chi" "当前难度: EX难度"
+    }
+
+    "** SONG PLAYING: HYBRID - CHOKE **"
+    {
+        "chi" "bgm:HYBRID - CHOKE"
+    }
+
+    "** CURRENT: GODMODE **"
+    {
+        "chi" "当前难度:GOD难度"
+    }
+
+    "** SONG PLAYING: HYBRID - MARRAKECH **"
+    {
+        "chi" "bgm:HYBRID - MARRAKECH"
+    }
+
+    "** CURRENT: IMPOSSIBLE MODE **"
+    {
+        "chi" "当前难度: 不可能难度"
+    }
+
+    "** GET READY TO VOTE **"
+    {
+        "chi" "准备投票"
+    }
+
+    "** BONUS MODE **"
+    {
+        "chi" "奖励关"
+    }
+
+    "** SONG PLAYING: HYBRID - KEEP IT IN THE FAMILY **"
+    {
+        "chi" "bgm:HYBRID - KEEP IT IN THE FAMILY"
+    }
+
+    "** STARTING MAP **"
+    {
+        "chi" "地图开始"
+    }
+
+    "** WARMUP ROUND **"
+    {
+        "chi" "热身回合"
+    }
+
+    "** SONG PLAYING: RESIDENT EVIL: RETRIBUTION - DRIVE AWAY **"
+    {
+        "chi" "bgm:RESIDENT EVIL: RETRIBUTION - DRIVE AWAY"
+    }
+
+    "** MAP MADE BY PURPZZ ** Rebuild by Skullz **"
+    {
+        "chi" "地图作者: PURPZZ,重置by:Skullz"
+    }
+
+    "** ALL GET IN TRAM 2 ** "
+    {
+        "chi" "全体上二号电车"
+    }
+
+    "** TRAM 2 WILL LEAVE IN 5 SECONDS **"
+    {
+        "chi" "二号电车将在5秒后离开"
+    }
+
+    "** TRAM 2 WILL LEAVE IN 15 SECONDS **"
+    {
+        "chi" "二号电车将在15秒后离开"
+    }
+
+    "** EVERYBODY COVER TRAM 2 **"
+    {
+        "chi" "所有人守住二号电车"
+    }
+
+    "** TRAM 2 WILL LEAVE IN 30 SECONDS **"
+    {
+        "chi" "二号电车将在30秒后离开"
+    }
+
+    "** THE GATE IN SECTION A3 IS BROKEN ** FALL BACK **"
+    {
+        "chi" "大门已被打破, 撤退"
+    }
+
+    "** ALL GET IN TRAM 1 ** "
+    {
+        "chi" "所有人上一号电车"
+    }
+
+    "** TRAM 1 WILL LEAVE IN 5 SECONDS **"
+    {
+        "chi" "一号电车将在5秒后离开"
+    }
+
+    "** TRAM 1 WILL LEAVE IN 15 SECONDS **"
+    {
+        "chi" "一号电车将在15秒后离开"
+    }
+
+    "** EVERYBODY COVER TRAM 1 **"
+    {
+        "chi" "所有人守住一号电车"
+    }
+
+    "** TRAM 1 WILL LEAVE IN 30 SECONDS **"
+    {
+        "chi" "一号电车将在30秒后离开"
+    }
+
+    "** ALL GET IN TRAM 1 OR 2 ** "
+    {
+        "chi" "所有人上一号电车或二号电车"
+    }
+
+    "** TRAM 1 AND 2 WILL LEAVE IN 5 SECONDS **"
+    {
+        "chi" "一号和二号电车将在5秒后离开"
+    }
+
+    "** TRAM 1 AND 2 WILL LEAVE IN 15 SECONDS **"
+    {
+        "chi" "一号和二号电车将在15秒后离开"
+    }
+
+    "** EVERYBODY COVER TRAM 1 AND 2 **"
+    {
+        "chi" "所有人守住一号和二号电车"
+    }
+
+    "** TRAM 1 AND 2 WILL LEAVE IN 30 SECONDS **"
+    {
+        "chi" "一号和二号电车将在30秒后离开"
+    }
+
+    "** THE GATE IN SECTION A5 WILL BREAK IN 5 SECONDS **"
+    {
+        "chi" "大门将在5秒后打开"
+    }
+
+    "** THE GATE IN SECTION A5 WILL BREAK IN 10 SECONDS **"
+    {
+        "chi" "大门将在10秒后打开"
+    }
+
+    "** DEFEND SECTION A5 UNTIL THE GATE BREAKS **"
+    {
+        "chi" "守住直到大门打开"
+    }
+
+    "** THE GATE IN SECTION A5 IS BROKEN ** FALL BACK **"
+    {
+        "chi" "大门已被打破, 撤退"
+    }
+
+    "** THE GATE IN SECTION A3 WILL BREAK IN 5 SECONDS **"
+    {
+        "chi" "大门将在5秒后打开"
+    }
+
+    "** THE GATE IN SECTION A3 WILL BREAK IN 10 SECONDS **"
+    {
+        "chi" "大门将在10秒后打开"
+    }
+
+    "** DEFEND SECTION A3 UNTIL THE GATE BREAKS **"
+    {
+        "chi" "守住直到大门打开"
+    }
+
+    "** ACTIVATING THE TELEPORTER ** FALL BACK **"
+    {
+        "chi" "激活传送器, 撤退"
+    }
+
+    "** THE TELEPORTER WILL BE ACTIVATED IN 5 SECONDS **"
+    {
+        "chi" "传送器将在5秒后激活"
+    }
+
+    "** THE TELEPORTER WILL BE ACTIVATED IN 10 SECONDS **"
+    {
+        "chi" "传送器将在10秒后激活"
+    }
+
+    "** THE TELEPORTER WILL BE ACTIVATED IN 20 SECONDS **"
+    {
+        "chi" "传送器将在20秒后激活"
+    }
+
+    "** THE TELEPORTER WILL BE ACTIVATED IN 30 SECONDS **"
+    {
+        "chi" "传送器将在30秒后激活"
+    }
+
+    "** ACTIVATING THE TELEPORTER ** GET READY TO FALL BACK **"
+    {
+        "chi" "激活传送器, 准备好撤退"
+    }
+
+    "** THE TELEPORTER WILL BE ACTIVATED IN 40 SECONDS **"
+    {
+        "chi" "传送器将在40秒后激活"
+    }
+
+    "** EXORATH HAS LOST THE BATTLE **"
+    {
+        "chi" "BOSS被打败了"
+    }
+
+    "** 30 SECONDS LEFT **"
+    {
+        "chi" "还剩30秒"
+    }
+
+    "** 20 SECONDS LEFT **"
+    {
+        "chi" "还剩20秒"
+    }
+
+    "** 10 SECONDS LEFT **"
+    {
+        "chi" "还剩10秒"
+    }
+
+    "** 5 SECONDS LEFT **"
+    {
+        "chi" "还剩5秒"
+    }
+
+    "** VOTING COMPLETE **"
+    {
+        "chi" "投票完成"
+    }
+
+    "** MASSIVE NUKE IN 30 SECONDS **"
+    {
+        "chi" "30后核爆来临"
+    }
+
+    "** ZR ENABLED **"
+    {
+        "chi" "ZR已启用"
+    }
+
+    "** MASSIVE NUKE IN 20 SECONDS **"
+    {
+        "chi" "20秒后核爆来临"
+    }
+
+    "** MASSIVE NUKE IN 10 SECONDS **"
+    {
+        "chi" "10秒后核暴来临"
+    }
+
+    "** MASSIVE NUKE IN 5 SECONDS **"
+    {
+        "chi" "5秒后核爆来临"
+    }
+
+    "** WELCOME TO THE VOTING SECTION **"
+    {
+        "chi" "欢迎来到投票部分"
+    }
+
+    "** STAND ON THE PLATFORM FROM YOUR SELECTED CHOICE **"
+    {
+        "chi" "站在你选择的平台上"
+    }
+
+    "** THE MODE THAT WINS WILL BE PLAYED UNTIL MAP CHANGE **"
+    {
+        "chi" "投票数多的难度将会一直玩到地图结束"
+    }
+
+    "** IMPOSSIBLE MODE SELECTED **"
+    {
+        "chi" "已选择不可能难度"
+    }
+
+    "** GODMODE SELECTED **"
+    {
+        "chi" "已选择GOD难度"
+    }
+
+    "** EXTREME MODE SELECTED **"
+    {
+        "chi" "已选择EX难度"
+    }
+
+    "** HARD MODE SELECTED **"
+    {
+        "chi" "已选择困难难度"
+    }
+
+    "** EASY MODE SELECTED **"
+    {
+        "chi" "已选择简单难度"
+    }
+
+    "** RANDOM SELECTED **"
+    {
+        "chi" "随机选择"
+    }
+
+    "** CHOOSING RANDOM MODE **"
+    {
+        "chi" "选择随机难度"
+    }
+
+    "** VOTING ENABLED **"
+    {
+        "chi" "投票已启用"
+    }
+
+    "** BONUS ACTIVE ** RELOADING EASY MODE **"
+    {
+        "chi" "重新载入简单难度"
+    }
+
+    "** EASY MODE COMPLETE **"
+    {
+        "chi" "简单难度完成"
+    }
+
+    "** BONUS ACTIVE ** RELOADING HARD MODE **"
+    {
+        "chi" "重新载入困难难度"
+    }
+
+    "** HARD MODE COMPLETE **"
+    {
+        "chi" "困难难度完成"
+    }
+
+    "** BONUS ACTIVE ** RELOADING EXTREME MODE **"
+    {
+        "chi" "重新载入EX难度"
+    }
+
+    "** EXTREME MODE COMPLETE **"
+    {
+        "chi" "EX难度完成"
+    }
+
+    "** GODMODE COMPLETE **"
+    {
+        "chi" "GOD难度完成"
+    }
+
+    "** BONUS ACTIVE ** RELOADING GODMODE **"
+    {
+        "chi" "重新载入GOD难度"
+    }
+
+    "** BONUS ACTIVE ** RELOADING IMPOSSIBLE MODE **"
+    {
+        "chi" "重新载入不可能难度"
+    }
+
+    "** IMPOSSIBLE MODE COMPLETE **"
+    {
+        "chi" "不可能难度完成"
+    }
+
+    "** EASY MODE FAILED **"
+    {
+        "chi" "简单难度失败"
+    }
+
+    "** HARD MODE FAILED **"
+    {
+        "chi" "困难难度失败"
+    }
+
+    "** EXTREME MODE FAILED **"
+    {
+        "chi" "EX难度失败"
+    }
+
+    "** GODMODE FAILED **"
+    {
+        "chi" "GOD难度失败"
+    }
+
+    "** IMPOSSIBLE MODE FAILED **"
+    {
+        "chi" "不可能难度失败"
+    }
+
+}

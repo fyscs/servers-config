@@ -1,0 +1,536 @@
+"Console_T"
+{
+
+    "*** Hold until the path opens ***"
+    {
+        "chi" "** 守住这里 **"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "** 快跑 **"
+    }
+
+    "*** Zombie at the end ***"
+    {
+        "chi" "** 僵尸上来了 **"
+    }
+
+    "*** YOU FAIL! ***"
+    {
+        "chi" "** 你没了 **"
+    }
+
+    "*** CONGRATULATIONS  YOU HAVE BEATEN THE MAP! ***"
+    {
+        "chi" "** 牛批噢, 你过了这图 **"
+        "command" "ze_credits_pass_round 20; rank_ze_win_points_humans 30;"
+    }
+
+    "*** Hold this position for 20 seconds ***"
+    {
+        "chi" "** 守住这里20秒 **"
+    }
+
+    "*** Hold this position for 30 seconds ***"
+    {
+        "chi" "** 守住这里30秒 **"
+    }
+
+    "*** THIS IS THE FINAL HOLD ***"
+    {
+        "chi" "** 这里是最后一个守点了 **"
+    }
+
+    "*** That thing? Leaves in 45 seconds ***"
+    {
+        "chi" "** 45秒后你就可以离开了 **"
+    }
+
+    "*** 20 SECONDS LEFT ***"
+    {
+        "chi" "** 还剩20秒 **"
+    }
+
+    "*** 10 SECONDS LEFT ***"
+    {
+        "chi" "** 还剩10秒 **"
+    }
+
+    "*** 5 SECONDS LEFT ***"
+    {
+        "chi" "** 还剩5秒 **"
+    }
+
+    "*** THE EVIL EYE IS DEAD ***"
+    {
+        "chi" "** 灼眼死了 **"
+    }
+
+    "*** NOW IS THE TIME TO ESCAPE ***"
+    {
+        "chi" "** 现在是跑路的时间了 **"
+    }
+
+    "*** THE BOSS IS ABSORBING ALL THE DAMAGE YOU DO ***"
+    {
+        "chi" "** 灼眼会把你的子弹恢复成血量 **"
+    }
+
+    "*** DONT SHOOT HIM ***"
+    {
+        "chi" "** 别射了 **"
+    }
+
+    "*** WAIT IT HAS TO BE DEAD NOW RIGHT? ***"
+    {
+        "chi" "** 它现在一定死了, 对吧? **"
+    }
+
+    "*** THE BOSS IS DEAD ***"
+    {
+        "chi" "** 灼眼死了 **"
+    }
+
+    "*** WAIT ITS DEAD RIGHT? ***"
+    {
+        "chi" "** 它死了没? **"
+    }
+
+    "*** LOOKS LIKE THE PLATFORM IS BREAKING ***"
+    {
+        "chi" "** 看起来这平台要炸了 **"
+    }
+
+    "*** GET IN THE MIDDLE NOW!! ***"
+    {
+        "chi" "** 快进到中间 **"
+    }
+
+    "*** Keep holding! ***"
+    {
+        "chi" "** 继续守 **"
+    }
+
+    "*** THE BOSS IS USING HIS ULTIMATE ***"
+    {
+        "chi" "** BOSS要终极了 **"
+    }
+
+    "*** SHOOT HIM NOW BEFORE HE WIPES US ALL ***"
+    {
+        "chi" "** 在它把我们鲨了之前把他淦掉 **"
+    }
+
+    "*** ZOMBIES ON BOARD YOU FAIL! ***"
+    {
+        "chi" "** 僵尸上来了, 你无了 **"
+    }
+
+    "*** Level Completed! ***"
+    {
+        "chi" "** 关卡完成 **"
+    }
+
+    "*** Hold this position for 25 seconds ***"
+    {
+        "chi" "** 守住这里25秒 **"
+    }
+
+    "*** 10 more seconds ***"
+    {
+        "chi" "** 还有10秒 **"
+    }
+
+    "*** Heli leaves in 30 seconds ***"
+    {
+        "chi" "** 直升机30秒后离开 **"
+    }
+
+    "*** Heli leaves in 15 seconds ***"
+    {
+        "chi" "** 直升机15秒后离开 **"
+    }
+
+    "*** Heli leaves in 5 seconds ***"
+    {
+        "chi" "** 直升机5秒后离开 **"
+    }
+
+    "*** ZOMBIE ON BOARD YOU FAIL ***"
+    {
+        "chi" "** 僵尸上来了, 你无了 **"
+    }
+
+    "*** Doors open in 35 Seconds ***"
+    {
+        "chi" "** 门在35秒后打开 **"
+    }
+
+    "*** Doors open in 25 Seconds ***"
+    {
+        "chi" "** 门在25秒后打开 **"
+    }
+
+    "*** Doors open in 10 Seconds ***"
+    {
+        "chi" "** 门在10秒后打开 **"
+    }
+
+    "*** Doors are opening ***"
+    {
+        "chi" "** 门开了 **"
+    }
+
+    "*** Doors open in 30 seconds ***"
+    {
+        "chi" "** 门在30秒后打开 **"
+    }
+
+    "*** Buttons pressed! ***"
+    {
+        "chi" "** 按钮已被按下 **"
+    }
+
+    "*** Door opens in 30 seconds! ***"
+    {
+        "chi" "** 门在30秒后打开 **"
+    }
+
+    "*** FALL BACK ****"
+    {
+        "chi" "** 快溜 **"
+    }
+
+    "*** Press both buttons at the same time to open the door! ***"
+    {
+        "chi" "** 同时按下两个按钮来触发机关 **"
+    }
+
+    "*** Hold until the path is cleared ***"
+    {
+        "chi" "** 守住这里 **"
+    }
+
+    "*** Bridge activates in 30 seconds ***"
+    {
+        "chi" "** 桥将在30秒后激活 **"
+    }
+
+    "*** Bridge activates in 15 seconds ***"
+    {
+        "chi" "** 桥将在15秒后激活 **"
+    }
+
+    "*** Final door opens in 25 seconds! ***"
+    {
+        "chi" "** 最终之门将在25秒后打开 **"
+    }
+
+    "*** Hold for 30 seconds! ***"
+    {
+        "chi" "** 守住30秒 **"
+    }
+
+    "*** 20 more seconds! ***"
+    {
+        "chi" "** 还有20秒 **"
+    }
+
+    "*** 10 more seconds! ***"
+    {
+        "chi" "** 还有10秒 **"
+    }
+
+    "*** Doors should open soon ***"
+    {
+        "chi" "** 门稍后将打开 **"
+    }
+
+    "*** Almost at the end.. ***"
+    {
+        "chi" "** 就差一点了, 兄dei **"
+    }
+
+    "*** 15 seconds left ***"
+    {
+        "chi" "** 还有15秒 **"
+    }
+
+    "*** Level 1 ***"
+    {
+        "chi" "** 第一关 **"
+    }
+
+    "* Turning music on *"
+    {
+        "chi" "** 来点好听的BGM **"
+    }
+
+    "*** Level 2 ***"
+    {
+        "chi" "** 第二关 **"
+    }
+
+    "*** Level 3 ***"
+    {
+        "chi" "** 第三关 **"
+    }
+
+    "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **"
+    {
+        "chi" "** 天谴关 **"
+        "command"   "rank_ze_win_points_humans 15"
+    }
+
+    "** Turning on:... **"
+    {
+        "blocked" "1"
+        "chi" "**  **"
+    }
+
+    "*** Player has picked up Heal ***"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "*** It has 1 use ***"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "*** Player has picked up Lego Maker ***"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "*** Player has picked up Pushgun ***"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "*** Player has picked up Electro gun ***"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "*** It has fuel for 10 seconds ***"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "*** Player has picked up Flamethrower ***"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "*** Player has picked up Ammo Box ***"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "*** Player has picked up EyeTech Launcher ***"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "*** It has 10 uses ***"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "*** Player has picked up Pipe bombs ***"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "*** It has 5 uses ***"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "*** Player has picked up EyeTech Cannon ***"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "*** It has unlimited uses ***"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "*** FALL BACK NOW!! ***"
+    {
+        "chi" "** 快溜 **"
+    }
+
+    "*** Door opens in 25 seconds ***"
+    {
+        "chi" "** 门将在25秒后打开 **"
+    }
+
+    "*** Door opens in 10 seconds ***"
+    {
+        "chi" "** 门将在10秒后打开 **"
+    }
+
+    "*** Door is opening ***"
+    {
+        "chi" "** 门开了 **"
+    }
+
+    "*** Door should open quickly ***"
+    {
+        "chi" "** 门马上要开了 **"
+    }
+
+    "*** Keep holding ***"
+    {
+        "chi" "** 继续守 **"
+    }
+
+    "*** Hold them back for 10 seconds ***"
+    {
+        "chi" "** 守住10秒 **"
+    }
+
+    "*** Just a little bit more! ***"
+    {
+        "chi" "** 还差一点了 **"
+    }
+
+    "*** Keep holding them back! ***"
+    {
+        "chi" "** 继续守 **"
+    }
+
+    "*** FALL BACK! ***"
+    {
+        "chi" "** 快溜 **"
+    }
+
+    "*** This is the final hold point! ***"
+    {
+        "chi" "** 这里是最后一个守点了 **"
+    }
+
+    "*** Hold them back for final 20 seconds! ***"
+    {
+        "chi" "** 最后的20秒 **"
+    }
+
+    "*** Elevator leaves in 25 seconds *** "
+    {
+        "chi" "** 电梯还有25秒后离开 **"
+    }
+
+    "*** Elevator leaves in 15 seconds *** "
+    {
+        "chi" "** 电梯还有15秒后离开 **"
+    }
+
+    "*** Elevator leaves in 5 seconds *** "
+    {
+        "chi" "** 电梯还有5秒后离开 **"
+    }
+
+    "*** Elevators leave in 25 seconds *** "
+    {
+        "chi" "** 电梯还有25秒后离开 **"
+    }
+
+    "*** Elevators leave in 15 seconds *** "
+    {
+        "chi" "** 电梯还有15秒后离开 **"
+    }
+
+    "*** Elevators leave in 5 seconds *** "
+    {
+        "chi" "** 电梯还有5秒后离开 **"
+    }
+
+    "*** Door opens in 25 seconds! ***"
+    {
+        "chi" "** 门将在25秒后打开 **"
+    }
+
+    "*** Keep holding until the doors close! ***"
+    {
+        "chi" "** 守到门关 **"
+    }
+
+    "*** Doors are opening in 25 seconds ***"
+    {
+        "chi" "** 门将在25秒后打开 **"
+    }
+
+    "*** RESIST ***"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "*** Doors are opening in 15 seconds ***"
+    {
+        "chi" "** 门将在15秒后打开 **"
+    }
+
+    "*** Doors are opening in 5 seconds ***"
+    {
+        "chi" "** 门将在5秒后打开 **"
+    }
+
+    "*** Hold a bit more! ***"
+    {
+        "chi" "** 再守一丢丢 **"
+    }
+
+    "*** Path will open shortly! ***"
+    {
+        "chi" "** 门很快会打开 **"
+    }
+
+    "*** Hold this position for awhile! ***"
+    {
+        "chi" "** 还有25秒 **"
+    }
+
+    "*** Doors are opening! ***"
+    {
+        "chi" "** 门开了 **"
+    }
+
+    "*** Elevator descends in 20 seconds ***"
+    {
+        "chi" "** 电梯将在20秒后下降 **"
+    }
+
+    "*** HOLD THEM BACK  ***"
+    {
+        "chi" "** 守住这里 **"
+    }
+
+    "*** One final hold! ***"
+    {
+        "chi" "** 最后一个点 **"
+    }
+
+    "*** That thing? should leave soon! ***"
+    {
+        "chi" "** 溜了... **"
+    }
+}

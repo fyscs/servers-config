@@ -1,251 +1,334 @@
 "Console_T"
 {
-	"** TAKE FRONT-LEFT DOOR **"
-	{
-		"chi"		"**注意左前门!**"
-	}
-	"** ENTER THE CENTER OF HALL TO ACCESS SP ITEM ROOM **"
-	{
-		"chi"		"**进入大厅中心进入SP项目室**"
-	}
-	"** TRY TO USE THEM **"
-	{
-		"chi"		"**试着用它们 **"
-	}
-	"** ZE_SIT_CAELUM_PARADISUS **"
-	{
-		"chi"		"** **"
-	}
-	"** ROUTE ONE **"
-	{
-		"chi"		"**第一条路线**"
-	}
-	"** IGNIS AXE HAS BEEN PICKED UP **"
-	{
-		"chi"		"**玩家拾取了火 **"
-	}
-	"** VENTUS STAFF HAS BEEN PICKED UP **"
-	{
-		"chi"		"**玩家拾取了风**"
-	}
-	"** SANATIO STAFF HAS BEEN PICKED UP **"
-	{
-		"chi"		"**玩家拾取了奶**"
-	}
-	"**GRACIES ZOMBIE INCOMING**"
-	{
-		"chi"		"**僵尸拾取了冰**"
-	}
-	"** TERRA AXE HAS BEEN PICKED UP **"
-	{
-		"chi"		"**玩家拾取了墙**"
-	}
-	">>>DOOR BREAKING IN 20 SECS<<<"
-	{
-		"chi"		"**20秒破门**"
-	}
-	">>>HOLD<<<"
-	{
-		"chi"		"**坚持住!**"
-	}
-	"**IGNIS ZOMBIE INCOMING**"
-	{
-		"chi"		"**僵尸拾取了火 **"
-	}
-	">>>DOOR BREAKING IN 25 SECS<<<"
-	{
-		"chi"		"**25秒后破门**"
-	}
-	">>>HHOOLLDD<<<"
-	{
-		"chi"		"**坚持住！！！**"
-	}
-	">>>HOLDDDD<<<"
-	{
-		"chi"		"**坚持住！！！**"
-	}
-	">>>DOOR BREAKING IN 30 SECS<<<"
-	{
-		"chi"		"**30秒后破门！**"
-	}
-	">>>DOOR BREAKING IN 15 SECS<<<"
-	{
-		"chi"		"**15秒后破门！**"
-	}
-	">>>DOOR OPENING 20 SECS<<<"
-	{
-		"chi"		"**20秒后开门！**"
-	}
-	">>>DOOR OPENING IN 35 SECS<<<"
-	{
-		"chi"		"**35秒后开门!**"
-	}
-	">>>LAST HOLD 15 SECS<<<"
-	{
-		"chi"		"**最后的15秒!**"
-	}
-	">>>WAIT FOR TELEPORT<<<"
-	{
-		"chi"		"**等待传送!**"
-	}
-	"** WE SECURED ROUTE ONE **"
-	{
-		"chi"		"**我们完成了第一关**"
-	}
-	">>>LETS GO ROUTE TWO<<<"
-	{
-		"chi"		"**让我们进入下一关!**"
-	}
-	"*** MAP BY SATOKA***"
-	{
-		"chi"		"**制作:SATOKA翻译:Sakura@风云社**"
-	}
-	"** ROUTE TWO **"
-	{
-		"chi"		"**第二关!**"
-	}
-	"** TAKE FRONT-RIGHT DOOR **"
-	{
-		"chi"		"**走右前门**"
-	}
-	">>>DOOR OPENING IN 20 SECS<<<"
-	{
-		"chi"		"**20秒后开门**"
-	}
-	">>>WE MUST FIND AND PRESS THREE HIDDEN BUTTON<<<"
-	{
-		"chi"		"**我们必须找到并按下三个隐藏的按钮 **"
-	}
-	">>>TO HET OUT THIS LIBRARY<<<"
-	{
-		"chi"		"**安排这个图书馆**"
-	}
-	">>>GOOD JOB!<<<"
-	{
-		"chi"		"**Gan的漂亮!**"
-	}
-	">>>NOW TIME TO HOLD<<<"
-	{
-		"chi"		"**坚持住!**"
-	}
-	">>>DOOR BREAKING IN 45 SECS<<<"
-	{
-		"chi"		"**门将在45秒后打破!**"
-	}
-	">>>DOOR BREAKING IN 50 SECS<<<"
-	{
-		"chi"		"**门将在50秒后打破!**"
-	}
-	">>>RUN RUN RUN! <<<"
-	{
-		"chi"		"**快跑!**"
-	}
-	">>>GUARDIAN OF THE RUIN AHEAD <<<"
-	{
-		"chi"		"**前方是废墟的守护者(注意跳刀!)**"
-	}
-	">>>EXTRA VENTUS ACTIVATED<<<"
-	{
-		"chi"		"**额外窗口启动 **"
-	}
-	">>>WELL DONE!<<<"
-	{
-		"chi"		"**干得漂亮!**"
-	}
-	">>>THE GATE TO THE RUIN WILL OPEN SOON<<<"
-	{
-		"chi"		"**通往废墟的大门很快就会打开**"
-	}
-	">>>DEFEND!!<<<"
-	{
-		"chi"		"**坚持住!**"
-	}
-	"** WE SECURED ROUTE TWO **"
-	{
-		"chi"		"**我们成功的通过了第二关!**"
-	}
-	">>>GO TO ROUTE THREE<<<"
-	{
-		"chi"		"**前往第三条路!**"
-	}
-	"** ROUTE THREE **"
-	{
-		"chi"		"**第三关**"
-	}
-	"** TAKE LEFT DOOR **"
-	{
-		"chi"		"**左边的门!**"
-	}
-	">> DOOR OPENING IN 30 SECS <<"
-	{
-		"chi"		"**门将在30秒后打开!**"
-	}
-	">>> DOOR OPENING IN 40 SECS <<<"
-	{
-		"chi"		"**门将在40秒后打开!**"
-	}
-	">> DOOR OPENING IN 50 SECS <<"
-	{
-		"chi"		"**门将在50秒后打开!**"
-	}
-	">> DOOR OPENING IN 10 SECS <<"
-	{
-		"chi"		"**门将在10秒后打开!**"
-	}
-	"*** THE DRAGON NOTICED US ***"
-	{
-		"chi"		"**龙注意到了我们**"
-	}
-	">> KILL HIM!! <<"
-	{
-		"chi"		"**kill了它!**"
-	}
-	"*** IGNIS WAVE !!! ***"
-	{
-		"chi"		"**火焰热浪!**"
-	}
-	"*** IGNIS !!! ***"
-	{
-		"chi"		"**火焰冲击!(场地的一半！注意躲避)**"
-	}
-	"*** VENTUS !!! ***"
-	{
-		"chi"		"**风来了!**"
-	}
-	"*** HEAL !!!***"
-	{
-		"chi"		"**回血!**"
-	}
-	">>> NICELY DONE !! <<<"
-	{
-		"chi"		"**干得漂亮!**"
-	}
-	">>> NOW GET THE HELL OUT OF HERE <<<"
-	{
-		"chi"		"**现在赶紧远离这!**"
-	}
-	">>> RUN TO THE FINAL ROOM <<<"
-	{
-		"chi"		"**跑向最后的房间**"
-	}
-	">>> AND DEFEND UNTIL TELEPORT <<<"
-	{
-		"chi"		"**防守直到传送!**"
-	}
-	">>> 30 SECS LEFT !!! <<<"
-	{
-		"chi"		"**还有30秒!**"
-	}
-	"** WE SECURED ROUTE THREE **"
-	{
-		"chi"		"**我们完成了第3关**"
-	}
-	">>>BACK TO ROUTE ONE<<<"
-	{
-		"chi"		"**回到第一关**"
-	}
-	"*** IGNIS !!!***"
-	{
-		"chi"		"** **"
-	}
+
+    ">>>NOW TIME TO HOLD<<<"
+    {
+        "chi" "**>>>坚持住<<<**"
+    }
+
+    ">>>GOOD JOB!<<<"
+    {
+        "chi" "**>>>做的漂亮!<<<**"
+    }
+
+    ">>> 30 SECS LEFT !!! <<<"
+    {
+        "chi" "**>>>还有30秒!!!<<<**"
+    }
+
+    ">>> AND DEFEND UNTIL TELEPORT <<<"
+    {
+        "chi" "**>>>防守直到传送<<<**"
+    }
+
+    ">>> RUN TO THE FINAL ROOM <<<"
+    {
+        "chi" "**>>>跑向最后的房间<<<**"
+    }
+
+    "**IGNIS ZOMBIE INCOMING**"
+    {
+        "chi" "**僵尸拾取了火**"
+    }
+
+    "**GRACIES ZOMBIE INCOMING**"
+    {
+        "chi" "**僵尸拾取了冰**"
+    }
+
+    "** TERRA AXE HAS BEEN PICKED UP **"
+    {
+        "chi" "**玩家拾取了墙**"
+    }
+
+    "** VENTUS STAFF HAS BEEN PICKED UP **"
+    {
+        "chi" "**玩家拾取了风**"
+    }
+
+    "** SANATIO STAFF HAS BEEN PICKED UP **"
+    {
+        "chi" "**玩家拾取了奶**"
+    }
+
+    "** IGNIS AXE HAS BEEN PICKED UP **"
+    {
+        "chi" "**玩家拾取了火**"
+    }
+
+    ">>>WELL DONE!<<<"
+    {
+        "chi" "**>>>干的漂亮!<<<**"
+    }
+
+    ">>>THE GATE TO THE RUIN WILL OPEN SOON<<<"
+    {
+        "chi" "**>>>通往废墟的大门即将打开<<<**"
+    }
+
+    ">>>DEFEND!!<<<"
+    {
+        "chi" "**>>>防守!!<<<**"
+    }
+
+    ">>>EXTRA VENTUS ACTIVATED<<<"
+    {
+        "chi" "**>>>额外窗口启动<<<**"
+    }
+
+    "** CHANGING ROOT THREE **"
+    {
+        "chi" "**加载第三关**"
+    }
+
+    ">>>BACK TO ROUTE ONE<<<"
+    {
+        "chi" "**>>>返回到第一关路线<<<**"
+    }
+
+    "*** MAP BY SATOKA***"
+    {
+        "chi" "**地图制作:SATOKA 翻译:大雪茄@风云社**"
+    }
+
+    ">> DOOR OPENING IN 30 SECS <<"
+    {
+        "chi" "**>> 门将在30秒后打开 <<**"
+    }
+
+    ">>> DOOR OPENING IN 40 SECS <<<"
+    {
+        "chi" "**>>> 门将在40秒后打开 <<<**"
+    }
+
+    ">> DOOR OPENING IN 50 SECS <<"
+    {
+        "chi" ">> 门将在50秒后打开 <<"
+    }
+
+    ">> DOOR OPENING IN 10 SECS <<"
+    {
+        "chi" "**>> 门将在10秒后打开 <<**"
+    }
+
+    "*** THE DRAGON NOTICED US ***"
+    {
+        "chi" "**龙注意到了我们**"
+    }
+
+    ">> KILL HIM!! <<"
+    {
+        "chi" "**>> 杀了它!! <<**"
+    }
+
+    "*** IGNIS WAVE !!! ***"
+    {
+        "chi" "**火焰热浪!!!**"
+    }
+
+    "*** VENTUS !!! ***"
+    {
+        "chi" "**注意抵抗:风来了!!!**"
+    }
+
+    "*** IGNIS !!!***"
+    {
+        "chi" "**注意躲避:火焰冲击!!!**"
+    }
+
+    ">>> NICELY DONE !! <<<"
+    {
+        "chi" "**>>> 干的漂亮 !! <<<**"
+    }
+
+    ">>> NOW GET THE HELL OUT OF HERE <<<"
+    {
+        "chi" "**快离开这里**"
+    }
+
+    "*** IGNIS !!! ***"
+    {
+        "chi" "**注意躲避:火焰冲击!!!**"
+    }
+
+    "*** HEAL !!!***"
+    {
+        "chi" "**回血!!!**"
+    }
+
+    ">>>GO TO ROUTE THREE<<<"
+    {
+        "chi" "**>>>正在载入第三关<<<**"
+    }
+
+    ">>>DOOR BREAKING IN 25 SECS<<<"
+    {
+        "chi" "**>>>门将在25秒后破碎<<<**"
+    }
+
+    "** TRY TO USE THEM **"
+    {
+        "chi" "**试着使用它们**"
+    }
+
+    "** ENTER THE CENTER OF HALL TO ACCESS SP ITEM ROOM **"
+    {
+        "chi" "**进入大厅中心石柱可传送到高科技武器房**"
+    }
+
+    "** ZE_SIT_CAELUM_PARADISUS **"
+    {
+        "chi" "**雕刻天堂**"
+    }
+
+    "** ROUTE ONE **"
+    {
+        "chi" "**第一关**"
+    }
+
+    "** ROUTE TWO **"
+    {
+        "chi" "**第二关**"
+    }
+
+    "** TAKE FRONT-RIGHT DOOR **"
+    {
+        "chi" "**走右前门**"
+    }
+
+    "** TAKE LEFT DOOR **"
+    {
+        "chi" "**走左边的门**"
+    }
+
+    "** ROUTE THREE **"
+    {
+        "chi" "**第三关**"
+    }
+
+    "** TAKE FRONT-LEFT DOOR **"
+    {
+        "chi" "**注意大厅左边门将在稍后打开**"
+    }
+
+    "** TAKE RIGHT DOOR **"
+    {
+        "chi" "**走右边的门**"
+    }
+
+    "** WE SECURED ROUTE ONE **"
+    {
+        "chi" "**我们完成了第一关**"
+    }
+
+    "** WE SECURED ROUTE TWO **"
+    {
+        "chi" "**我们完成了第二关**"
+    }
+
+    "** WE SECURED ROUTE THREE **"
+    {
+        "chi" "**我们完成了第三关**"
+    }
+
+    "** CHANGING ROOT TWO **"
+    {
+        "chi" "**加载第二关**"
+    }
+
+    "** CHANGING ROOT ONE **"
+    {
+        "chi" "**加载第一关**"
+    }
+
+    ">>>LETS GO ROUTE TWO<<<"
+    {
+        "chi" "**让我们进入第二关**"
+    }
+
+    ">>>DOOR BREAKING IN 20 SECS<<<"
+    {
+        "chi" "**>>>门将在20秒后破碎<<<**"
+    }
+
+    ">>>HOLD<<<"
+    {
+        "chi" "**>>>守住两边通道<<<**"
+    }
+
+    ">>>HHOOLLDD<<<"
+    {
+        "chi" "**>>>守住来的通道<<<**"
+    }
+
+    ">>>HOLDDDD<<<"
+    {
+        "chi" "**>>>守住来的路<<<**"
+    }
+
+    ">>>DOOR BREAKING IN 30 SECS<<<"
+    {
+        "chi" "**>>>门将在30秒后破碎<<<**"
+    }
+
+    ">>>DOOR BREAKING IN 15 SECS<<<"
+    {
+        "chi" "**>>>门将在15秒后破碎<<<**"
+    }
+
+    ">>>DOOR OPENING IN 35 SECS<<<"
+    {
+        "chi" "**>>>门将在35秒后打开<<<**"
+    }
+
+    ">>>DOOR OPENING 20 SECS<<<"
+    {
+        "chi" "**>>>门将在20秒后打开<<<**"
+    }
+
+    ">>>LAST HOLD 15 SECS<<<"
+    {
+        "chi" "**>>>守住最后的15秒<<<**"
+    }
+
+    ">>>WAIT FOR TELEPORT<<<"
+    {
+        "chi" "**>>>等待传送<<<**"
+    }
+
+    ">>>DOOR OPENING IN 20 SECS<<<"
+    {
+        "chi" "**>>>门将在20秒后打开<<<**"
+    }
+
+    ">>>WE MUST FIND AND PRESS THREE HIDDEN BUTTON<<<"
+    {
+        "chi" "**>>>我们必须找到并按下三个隐藏的按钮<<<**"
+    }
+
+    ">>>TO HET OUT THIS LIBRARY<<<"
+    {
+        "chi" "**>>>离开这个图书馆<<<**"
+    }
+
+    ">>>DOOR BREAKING IN 45 SECS<<<"
+    {
+        "chi" "**门将在45秒后破碎**"
+    }
+
+    ">>>DOOR BREAKING IN 50 SECS<<<"
+    {
+        "chi" "**门将在50秒后破碎**"
+    }
+
+    ">>>RUN RUN RUN! <<<"
+    {
+        "chi" "**>>>跑,快跑! <<<**"
+    }
+
+    ">>>GUARDIAN OF THE RUIN AHEAD <<<"
+    {
+        "chi" "**>>>注意跳刀:前方是废墟的守护者<<<**"
+    }
+
 }

@@ -1,0 +1,228 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "**YOU'VE CHOSEN ICESKATE**"
+    {
+        "chi" "滑冰"
+    }
+
+    "**Map made by xGrandx, ported by Tina**"
+    {
+        "chi" "地图作者: xGrandx 地图移植: Tina 地图汉化: 圣剑@风云社"
+    }
+
+    "**YOU'VE CHOSEN SHOTGUNS**"
+    {
+        "chi" "霰弹枪"
+    }
+
+    "**Idea: MoneyB**"
+    {
+        "blocked" "1"
+        "chi" "地图创意: MoneyB"
+    }
+
+    "**YOU'VE CHOSEN BREAKWALL**"
+    {
+        "chi" "破壁"
+    }
+
+    "**YOU'VE CHOSEN KNIFE**"
+    {
+        "chi" "刀战"
+    }
+
+    "**Everyone gets an awp in 15 seconds!**"
+    {
+        "blocked" "1"
+        "chi" "十五秒后人手一把AWP"
+    }
+
+    "**YOU'VE CHOSEN SQUASH**"
+    {
+        "chi" "天坠"
+    }
+
+    "**3**"
+    {
+        "chi" "3"
+    }
+
+    "**2**"
+    {
+        "blocked" "1"
+        "chi" "2"
+    }
+
+    "**1**"
+    {
+        "blocked" "1"
+        "chi" "1"
+    }
+
+    "**START**"
+    {
+        "chi" "开始"
+    }
+
+    "**YOU'VE CHOSEN GRENADES**"
+    {
+        "chi" "手雷"
+    }
+
+    "You will get a grenade every 5 seconds!"
+    {
+        "chi" "每五秒钟你都会得到一颗手雷!"
+    }
+
+    "**0**"
+    {
+        "blocked" "1"
+        "chi" "0"
+    }
+
+    "**YOU'VE CHOSEN SLIDE RACE**"
+    {
+        "chi" "滑道竞速"
+    }
+
+    "**YOU'VE CHOSEN CLIMB**"
+    {
+        "chi" "攀登"
+    }
+
+    "***SONG: ADD***"
+    {
+        "chi" "BGM: ADD"
+    }
+
+    "***SONG: Powers***"
+    {
+        "chi" "BGM: Powers"
+    }
+
+    "***SONG: Tetris Remix***"
+    {
+        "chi" "BGM: Tetris Remix"
+    }
+
+    "***SONG: Nothing Lasts Forever***"
+    {
+        "chi" "BGM: Nothing Lasts Forever"
+    }
+
+    "***SONG: Good Days***"
+    {
+        "chi" "BGM: Good Days"
+    }
+
+    "***SONG: Blind***"
+    {
+        "chi" "BGM: Blind"
+    }
+
+    "***SONG: Build The Cities***"
+    {
+        "chi" "BGM: Build The Cities"
+    }
+
+    "***SONG: Fruit Punch***"
+    {
+        "chi" "BGM: Fruit Punch"
+    }
+
+    "**YOU'VE CHOSEN AWP**"
+    {
+        "chi" "AWP"
+    }
+
+    "**YOU'VE CHOSEN BHOP**"
+    {
+        "chi" "连跳"
+    }
+
+    "**YOU'VE CHOSEN HEADSHOT**"
+    {
+        "chi" "爆头模式"
+    }
+
+    "**YOU'VE CHOSEN RACE**"
+    {
+        "chi" "竞速"
+    }
+
+    "**KNIFE has been chosen!**"
+    {
+        "chi" "刀战"
+    }
+
+    "**SHOTGUNS has been chosen!**"
+    {
+        "chi" "霰弹枪"
+    }
+
+    "**ICESKATE has been chosen!**"
+    {
+        "chi" "滑冰"
+    }
+
+    "**BREAKWALL has been chosen!**"
+    {
+        "chi" "破壁"
+    }
+
+    "**AWP has been chosen!**"
+    {
+        "chi" "AWP"
+    }
+
+    "**BHOP has been chosen!**"
+    {
+        "chi" "连跳"
+    }
+
+    "**HEADSHOT has been chosen!**"
+    {
+        "chi" "爆头模式"
+    }
+
+    "**RACE has been chosen!**"
+    {
+        "chi" "竞速"
+    }
+
+    "**SQUASH has been chosen!**"
+    {
+        "chi" "天坠"
+    }
+
+    "**GRENADES has been chosen!**"
+    {
+        "chi" "手雷"
+    }
+
+    "**SLIDE RACE has been chosen!**"
+    {
+        "chi" "滑道竞速"
+    }
+
+    "**CLIMB has been chosen!**"
+    {
+        "chi" "攀登"
+    }
+
+    "**YOU'VE CHOSEN RANDOM**"
+    {
+        "chi" "随机"
+    }
+
+    "**Map is now loading...**"
+    {
+        "chi" "地图正在加载中..."
+    }
+
+}

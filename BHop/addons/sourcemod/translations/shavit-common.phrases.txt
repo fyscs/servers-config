@@ -1,0 +1,49 @@
+"Phrases"
+{
+	// ---------- Tracks ---------- //
+	"Track"
+	{
+		"en"		"Track"
+	}
+	"Track_Unknown"
+	{
+		"en"		"UNKNOWN TRACK"
+	}
+	"Track_0"
+	{
+		"en"		"主线关"
+	}
+	"Track_1"
+	{
+		"en"		"奖励关"
+	}
+	// ---------- Commands ---------- //
+	"NoCommandAccess"
+	{
+		"en"		"您无权访问此命令."
+	}
+	"NoConsole"
+	{
+		"en"		"在游戏内运行这个命令."
+	}
+	"ArgumentsMissing"
+	{
+		"#format"	"{1:s}"
+		"en"		"使用方法: {1}"
+	}
+	"TimerCommands"
+	{
+		"en"		"计时器指令"
+	}
+	// ---------- Timelimit ---------- //
+	"Minutes"
+	{
+		"#format"	"{1:s}"
+		"en"		"地图剩余时间{1}分钟."
+	}	
+	"Seconds"
+	{
+		"#format"	"{1:s}"
+		"en"		"地图剩余时间{1}秒."
+	}
+}

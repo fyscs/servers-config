@@ -2,11 +2,11 @@
 {
 	"** Thanks to Kaemon **"
 	{
-		"chi"		"**感谢：Kaemon **"
+		"chi"		"**感谢: Kaemon **"
 	}
 	"** MAP BY Hannibal [SPA] (Rafuron) **"
 	{
-		"chi"		"** 地图作者：Hannibal [SPA] (Rafuron)  地图汉化：大明 **"
+		"chi"		"** 地图作者: Hannibal [SPA] (Rafuron)  地图汉化: 大明 **"
 	}
 	"** This is the round 0 ** you are playing alone ** wait until more players or suicide **"
 	{
@@ -19,6 +19,7 @@
 	"** WARMUP ROUND **"
 	{
 		"chi"		"** 热身回合 **"
+		"command"       "ze_weapons_spawn_molotov 0"
 	}
 	"** WARMUP ROUND ** MASSIVE NUKE IN 60 SECONDS **"
 	{
@@ -26,43 +27,43 @@
 	}
 	"** Tip 1 : press +use on pickable objects to build barricades **"
 	{
-		"chi"		"** 提示一：拾取路障按E键可使用 **"
+		"chi"		"** 提示一: 拾取路障按E键可使用 **"
 	}
 	"** Tip 2 : reach and win the end of a stage to level up **"
 	{
-		"chi"		"** 提示二：通关并赢得胜利即可开启下一回合 **"
+		"chi"		"** 提示二: 通关并赢得胜利即可开启下一回合 **"
 	}
 	"** Tip 3 : take items at zombie and human shops in spawn **"
 	{
-		"chi"		"** 提示三：在商店可以获取人类or僵尸神器 **"
+		"chi"		"** 提示三: 在商店可以获取人类or僵尸神器 **"
 	}
 	"** Tip 4 : your current level is your score divided by 100 approximately **"
 	{
-		"chi"		"** 提示四：四舍五入每一百分为一个等级 **"
+		"chi"		"** 提示四: 四舍五入每一百分为一个等级 **"
 	}
 	"** Tip 5 : barricades health depends on the size and material **"
 	{
-		"chi"		"** 提示五：路障的HP取决于它的大小和所用的材料 **"
+		"chi"		"** 提示五: 路障的HP取决于它的大小和所用的材料 **"
 	}
 	"** Tip 6 : hold spots tend to be long  *  hold as much as possible at previous positions **"
 	{
-		"chi"		"** 提示六：守点往往很久 * 尽量在前方守住 **"
+		"chi"		"** 提示六: 守点往往很久 * 尽量在前方守住 **"
 	}
 	"** Tip 7 : guards work as stoppers * but you can shoot throught them **"
 	{
-		"chi"		"** 提示七：卫兵可以阻挡僵尸 * 但是你可以穿过他们 **"
+		"chi"		"** 提示七: 卫兵可以阻挡僵尸 * 但是你可以穿过他们 **"
 	}
 	"** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **"
 	{
-		"chi"		"** 提示八：拥有梯子和炸药桶神器的僵尸对人类威胁非常大，你必须优先击杀这类僵尸！**"
+		"chi"		"** 提示八: 拥有梯子和炸药桶神器的僵尸对人类威胁非常大, 你必须优先击杀这类僵尸!**"
 	}
 	"** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **"
 	{
-		"chi"		"** 提示九：你必须把路障放在卫兵后面以获得最大功效 **"
+		"chi"		"** 提示九: 你必须把路障放在卫兵后面以获得最大功效 **"
 	}
 	"** Tip 10 : horse and armor (while shield is not broken) items can push zombies **"
 	{
-		"chi"		"** 提示十：骑兵和盾牌在被打破前可以推动僵尸 **"
+		"chi"		"** 提示十: 骑兵和盾牌在被打破前可以推动僵尸 **"
 	}
 	"** WARMUP ROUND ** MASSIVE NUKE IN 10 SECONDS **"
 	{
@@ -70,11 +71,11 @@
 	}
 	"** Tip 11 : Balrog scream heals near zombies and increases speed temporally **"
 	{
-		"chi"		"** 提示十一：炎魔的吼叫会治愈并暂时增加附近僵尸的移动速度 **"
+		"chi"		"** 提示十一: 炎魔的吼叫会治愈并暂时增加附近僵尸的移动速度 **"
 	}
 	"** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **"
 	{
-		"chi"		"** 提示十二：第四关厕所在第二个塔的顶部（在木制坡道后右转） **"
+		"chi"		"** 提示十二: 第四关厕所在第二个塔的顶部(在木制坡道后右转) **"
 	}
 	"**CURRENT STAGE >> PART 1 >> OSGILIATH **"
 	{
@@ -95,19 +96,19 @@
 	}
 	"** RETREAT !! RIVER ZONE IS LOST **"
 	{
-		"chi"		"** 撤退！我们失去了河流区域 **"
+		"chi"		"** 撤退!我们失去了河流区域 **"
 	}
 	"** WATCH OUT! WE ARE UNDER SIEGE **"
 	{
-		"chi"		"** 小心！我们被包围了 **"
+		"chi"		"** 小心!我们被包围了 **"
 	}
 	"** TAKE THE HORSES (USE AND FORWARDS KEY) **"
 	{
-		"chi"		"** 跳上马背（对着马头部分按E后连续按W使马匹加速）**"
+		"chi"		"** 跳上马背(对着马头部分按E后连续按W使马匹加速)**"
 	}
 	"** ADMIN PRESSED KILL ALL BUTTON **"
 	{
-		"chi"		"** 管理员：处死全体 **"
+		"chi"		"** 管理员: 处死全体 **"
 	}
 	"** THE WHITE KNIGHT IS READY ROCK THE WORLD**"
 	{
@@ -115,12 +116,12 @@
 	}
 	"** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**"
 	{
-		"chi"		"** 保卫星辰堡垒！我们不能不战而退！守住30秒 **"
+		"chi"		"** 保卫星辰堡垒!我们不能不战而退!守住30秒 **"
 
 	}
 	"** OSGILIATH IS LOST ** RETREAT ! **"
 	{
-		"chi"		"** 我们失去了星辰堡垒——奥斯吉利亚斯！现在只能暂且撤退了！ **"
+		"chi"		"** 我们失去了星辰堡垒--奥斯吉利亚斯!现在只能暂且撤退了! **"
 	}
 	"** DOOR IS OPENING **"
 	{
@@ -128,7 +129,7 @@
 	}
 	"** ZOMBIES ARE COMMING! CLOSE THE DOOR! **"
 	{
-		"chi"		"** 僵尸来了！关上门! **"
+		"chi"		"** 僵尸来了!关上门! **"
 	}
 	"** DOOR IS CLOSED **"
 	{
@@ -140,7 +141,7 @@
 	}
 	"** KILL THE REMAINING ZOMBIES! **"
 	{
-		"chi"		"** 处理剩余的僵尸！ **"
+		"chi"		"** 处理剩余的僵尸! **"
 	}
 	"**CURRENT STAGE >> PART 2 >> MAIN GATES **"
 	{
@@ -152,7 +153,7 @@
 	}
 	"** THIS IS OUT OF CONTROL! RETREAT NOW ! **"
 	{
-		"chi"		"** 我们失去了对这里的控制！现在撤退！ **"
+		"chi"		"** 我们失去了对这里的控制!现在撤退! **"
 	}
 	"** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT**"
 	{
@@ -160,7 +161,7 @@
 	}
 	"** WATCH OUT! **"
 	{
-		"chi"		"** 当心！ **"
+		"chi"		"** 当心! **"
 	}
 	"** SIEGE TOWERS HAVE BEEN SET UP ** WE HAVE LOST THE WALLS ** RETREAT **"
 	{
@@ -168,7 +169,7 @@
 	}
 	"** RETREAT! **"
 	{
-		"chi"		"** 撤！ **"
+		"chi"		"** 撤! **"
 	}
 	"** THIS IS THE LAST STAND AT FIRST LEVEL ** FIGHT UNTIL THE SIGNAL **"
 	{
@@ -176,7 +177,7 @@
 	}
 	"** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **"
 	{
-		"chi"		"** 使用路障可提前锁上大门或者防守60秒！ **"
+		"chi"		"** 使用路障可提前锁上大门或者防守60秒! **"
 	}
 	"** DOOR 2 LOCKED **"
 	{
@@ -196,11 +197,11 @@
 	}
 	"** THEY ARE TRYING TO GET IN ** SHOOT! **"
 	{
-		"chi"		"** 他们想进来 ** 射击！ **"
+		"chi"		"** 他们想进来 ** 射击! **"
 	}
 	"** THEY ARE IN! RETREAT! **"
 	{
-		"chi"		"** 他们进来了！撤退！ **"
+		"chi"		"** 他们进来了!撤退! **"
 	}
 	"** THE LIFT IS LEAVING IN 10 SECONDS **"
 	{
@@ -213,7 +214,7 @@
 	}
 	"** THE LEVER HAS BEEN PRESSED ** THE GATE IS OPENING IN 10 SECONDS ! **"
 	{
-		"chi"		"** 开关已触发 ** 大门在10秒后打开！ **"
+		"chi"		"** 开关已触发 ** 大门在10秒后打开! **"
 
 	}
 	"** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **"
@@ -230,12 +231,12 @@
 	}
 	"** NICE DONE! METAL GATE WILL OPEN IN 10 SECONDS! **"
 	{
-		"chi"		"** 好了！金属栅栏10秒后打开 **"
+		"chi"		"** 好了!金属栅栏10秒后打开 **"
 
 	}
 	"** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *"
 	{
-		"chi"		"** 保护大楼直到平民撤离！ **"
+		"chi"		"** 保护大楼直到平民撤离! **"
 	}
 	"** DEFEND THIS PLACE FOR 35 SECONDS **"
 	{
@@ -244,11 +245,11 @@
 	}
 	"** WAIT FOR SOME SECONDS! OTHER SURVIVORS COULD COME **"
 	{
-		"chi"		"** 再等待几秒，可能还有其他的幸存者正在赶来 **"
+		"chi"		"** 再等待几秒, 可能还有其他的幸存者正在赶来 **"
 	}
 	"** ALL GET IN!! ** PREPARE YOUR LAST DEFENSE **"
 	{
-		"chi"		"** 所有人都进来！准备最后的防御 **"
+		"chi"		"** 所有人都进来!准备最后的防御 **"
 	}
 	"** DEFEND THIS PLACE FOR 70 SECONDS! **"
 	{
@@ -261,11 +262,12 @@
 	}
 	"** DOORS UNLOCKED ** RETREAT ! **"
 	{
-		"chi"		"** 门开了 ** 撤退！ **"
+		"chi"		"** 门开了 ** 撤退! **"
 	}
 	"** STAGE 3 COMPLETED **"
 	{
 		"chi"		"** 第三阶段已完成 **"
+		"command"       "ze_weapons_spawn_molotov 2"
 	}
 	"** WE HAVE LOST THE POSTION ** FALL BACK **"
 	{
@@ -285,19 +287,19 @@
 	}
 	"** (LIBRARY) ** HOLD HERE! ** WAIT UNTIL HORN SIGNAL! **"
 	{
-		"chi"		"**（图书馆）**在这里守住！*等待号角信号！ **"
+		"chi"		"**(图书馆)**在这里守住!*等待号角信号! **"
 	}
 	"** FALL BACK! **"
 	{
-		"chi"		"** 撤退！ **"
+		"chi"		"** 撤退! **"
 	}
 	"** (DUNGEONS) ** HOLD UNTIL THE HORN SIGNAL **"
 	{
-		"chi"		"**（地牢）**战斗到号角信号出现 **"
+		"chi"		"**(地牢)**战斗到号角信号出现 **"
 	}
 	"** WE ARE TRAPPED! FIGHT FOR YOUR LIVES!  **"
 	{
-		"chi"		"** 我们被困住了！为了你的生命而战 **"
+		"chi"		"** 我们被困住了!为了你的生命而战 **"
 	}
 	"** THE CEILING HAS COLLAPSED ** CLIMB THE BROKEN WALL! **"
 	{
@@ -315,12 +317,12 @@
 	}
 	"** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **"
 	{
-		"chi"		"** 幽灵军队来了！准备最后的防守！ **"
+		"chi"		"** 幽灵军队来了!准备最后的防守! **"
 
 	}
 	"** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **"
 	{
-		"chi"		"** 守住大门！以便后面防御它们**"
+		"chi"		"** 守住大门!以便后面防御它们**"
 	}
 	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **"
 	{
@@ -332,7 +334,7 @@
 	}
 	"** THIS IS THE LAST POINT OF THE MAP ** SURVIVE THE REMAINING TIME **"
 	{
-		"chi"		"** 背水一战！**"
+		"chi"		"** 背水一战!**"
 	}
 	"** STAGE 4 COMPLETE ** STARTING AGAIN IN EXTREME MODE! **"
 	{
@@ -340,7 +342,7 @@
 	}
 	"** EXTREME MODE : ON **"
 	{
-		"chi"		"** 极限模组：已载入 **"
+		"chi"		"** 极限模组: 已载入 **"
 	}
 	"** ENABLED BLUE COLORCORRECTION AND PARTICLES **"
 	{
@@ -348,11 +350,11 @@
 	}
 	"** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 4**"
 	{
-		"chi"		"** 所有僵尸的神器都已解锁，但是没有四级 **"
+		"chi"		"** 所有僵尸的神器都已解锁, 但是没有四级 **"
 	}
 	"** CONSTANT METEOR HAS BEEN ENABLED **"
 	{
-		"chi"		"** 天谴模组：已加载 **"
+		"chi"		"** 天谴模组: 已加载 **"
 	}
 	"** INCREASED NUMBER OF NAZGULS **"
 	{
@@ -360,7 +362,7 @@
 	}
 	"** ENABLED FAST RESPAWN **"
 	{
-		"chi"		"** 快速重生：开启 **"
+		"chi"		"** 快速重生: 开启 **"
 	}
 	"** LVL 0 PLAYERS LEVEL UP TO 1 AUTOMATICALLY **"
 	{
@@ -372,7 +374,7 @@
 	}
 	"** Tip 13 : Gandalf +You shall not pass!+ is DAWS and White Knight is AADDSWSW **"
 	{
-		"chi"		"**提示十三：技能提示——甘道夫：DAWDS 白骑：AADDSWSW**"
+		"chi"		"**提示十三: 技能提示--甘道夫: DAWDS 白骑: AADDSWSW**"
 	}
 	"** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT **"
 	{
@@ -380,11 +382,11 @@
 	}
 	"** THIS IS THE MOMENT OF THE TRUTH ** FIGHT LIKE YOU HAVE NEVER FIGHTED BEFORE! **"
 	{
-		"chi"		"** 这是最后的时刻 ** 如此激烈的战斗此生未见！ **"
+		"chi"		"** 这是最后的时刻 ** 如此激烈的战斗此生未见! **"
 	}
 	"** UNLIMITED AMMO ON **"
 	{
-		"chi"		"**无限弹药：开启 **"
+		"chi"		"**无限弹药: 开启 **"
 	}
 	"** YOU DID IT ** YOU WON THE MAP ON ITS HARDEST DIFFICULT ** UNLOCKED ALL ITEMS **"
 	{
@@ -396,15 +398,16 @@
 	}
 	"** Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately **"
 	{
-		"chi"		"** 提示四：四舍五入每一百分为一个等级 **"
+		"chi"		"** 提示四: 四舍五入每一百分为一个等级 **"
 	}
 	"** Tip 13 : Gandalf +You shall not pass!+ is DAWDS and White Knight is AADDSWSW **"
 	{
-		"chi"		"**提示十三：技能提示——甘道夫：DAWDS 白骑：AADDSWSW**"
+		"chi"		"**提示十三: 技能提示--甘道夫: DAWDS 白骑: AADDSWSW**"
 	}
 	"** STARTING AT FIRST LEVEL! **"
 	{
 		"chi"		"** 从第一阶段开始 **"
+                "command"       "ze_weapons_spawn_molotov 0"
 	}
 	"** RESIST 25 SECONDS! **"
 	{
@@ -419,9 +422,10 @@
 	{
 		"chi"		"** 热身回合结束 **"
 	}
+
 	"** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 5**"
 	{
-		"chi"		"** 所有僵尸神器全部解锁，但是没有5级**"
+		"chi"		"** 所有僵尸神器全部解锁, 但是没有5级**"
 	}
 	"** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS **"
 	{
@@ -429,15 +433,15 @@
 	}
 	"** MAP BY Hannibal [SPA] (Rafuron)  Map modified by Rulucy **"
 	{
-		"chi"		"** 地图修正：Rulucy **"
+		"chi"		"** 地图修正: Rulucy **"
 	}
 	"** (LIBRARY) ** DOORS WILL OPEN SOON ** WAIT SOME SECONDS **"
 	{
-		"chi"		"** （图书馆）** 门很快就会打开 ** 稍等片刻 **"
+		"chi"		"** (图书馆)** 门很快就会打开 ** 稍等片刻 **"
 	}
 	"** (LIBRARY) ** DOORS ARE UNLOCKED NOW **"
 	{
-		"chi"		"** （图书馆）** 门现在已解锁 **"
+		"chi"		"** (图书馆)** 门现在已解锁 **"
 	}
 	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 90 SECONDS **"
 	{
@@ -469,10 +473,10 @@
 	}
 	"** MAP BY Hannibal [SPA] (Rafuron)  Map modified by Rulucy&Koyomaple **"
 	{
-		"chi"		"**地图修正：[Rulucy][Koyomaple]**"
+		"chi"		"**地图修正: [Rulucy][Koyomaple]**"
 	}
 	"** This is the first round. Wait for more players to restart round or suicide. **"
 	{
-		"chi"		"** 这是第一轮.等待更多玩家重启回合或自杀。**"
+		"chi"		"** 这是第一轮.等待更多玩家重启回合或自杀. **"
 	}
 }

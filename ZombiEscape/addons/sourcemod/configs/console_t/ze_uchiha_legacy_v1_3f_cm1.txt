@@ -1,0 +1,563 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "** PLAYER HAS PICKED UP MOKUTON **"
+    {
+        "chi" "**有忍者学会了木遁-花树界降临 **"
+    }
+
+    "** PLAYER HAS PICKED UP RASHOMON **"
+    {
+        "chi" "**有忍者学会了通灵术-五重罗生门 **"
+    }
+
+    ">> PLAYER HAS PICKED UP DOTON <<"
+    {
+        "chi" "**有忍者学会了土遁-土流壁 **"
+    }
+
+    "** PLAYER HAS PICKED UP CHAKRA **"
+    {
+        "chi" "**有忍者学会了医疗忍术 **"
+    }
+
+    "** PLAYER HAS PICKED UP SUITON **"
+    {
+        "chi" "**有忍者学会了水遁-水牢之术 **"
+    }
+
+    "** PLAYER HAS PICKED UP FUTON **"
+    {
+        "chi" "**有忍者学会了风遁-压害 **"
+    }
+
+    "** PLAYER HAS PICKED UP RAITON **"
+    {
+        "chi" "**有忍者学会了雷遁-麒麟 **"
+    }
+
+    "** PLAYER HAS PICKED UP KATON **"
+    {
+        "chi" "**有忍者学会了火遁-豪火球 **"
+    }
+
+    "**LEFT DOOR OPENS IN 30 SECONDS**"
+    {
+        "chi" "**左门30秒后开 **"
+    }
+
+    "**GATE OPENS IN 15 SECONDS**"
+    {
+        "chi" "**大门15秒后开 **"
+    }
+
+    "**GATE OPENS IN 25 SECONDS**"
+    {
+        "chi" "**大门25秒后开 **"
+    }
+
+    "**GATE OPENS IN 20 SECONDS**"
+    {
+        "chi" "**大门20秒后开 **"
+    }
+
+    "**GATE OPENS IN 10 SECONDS**"
+    {
+        "chi" "**大门10秒后开 **"
+    }
+
+    "** ITACHI IS USING A STRONG GENJUTSU **"
+    {
+        "chi" "**宇智波鼬使用了强力幻术 **"
+    }
+
+    "** STAY IN THE MIDDLE **"
+    {
+        "chi" "**呆在中间不要乱动 **"
+    }
+
+    "**ITACHI IS LEAVING FALL BACK NOW**"
+    {
+        "chi" "**宇智波鼬被我们击退了现在快跑 **"
+    }
+
+    "**ITACHI DOORS OPENS IN 15 SECONDS**"
+    {
+        "chi" "**宇智波鼬的大门在15秒后打开 **"
+    }
+
+    "** GET IN FAST **"
+    {
+        "chi" "**快进来 **"
+    }
+
+    "** DO NOT LET ZOMBIES ENTER **"
+    {
+        "chi" "**别让僵尸进来 **"
+    }
+
+    "**DOORS OPENS IN 20 SECONDS**"
+    {
+        "chi" "**大门20秒后开 **"
+    }
+
+    "**FINAL GATE OPEN IN 15 SECONDS**"
+    {
+        "chi" "**最后的大门15秒后开 **"
+    }
+
+    "** DODGE ITACHI KATON **"
+    {
+        "chi" "**宇智波鼬对两边墙壁释放了火遁 **"
+    }
+
+    "**NADES DO MORE DAMAGE**"
+    {
+        "chi" "**手雷可以造成更多伤害 **"
+    }
+
+    "**FINAL DOOR OPENS IN 60 SECONDS**"
+    {
+        "chi" "**最后的大门60秒后开 **"
+    }
+
+    "** DEFEND THE BRIDGE 25 MORE SECONDS **"
+    {
+        "chi" "**守住这道桥25秒 **"
+    }
+
+    "**THIS IS YOUR LAST CHANCE**"
+    {
+        "chi" "**这是你最后的机会,直面你的命运 **"
+    }
+
+    "**KILL HIM NOW BEFORE ITS TO LATE**"
+    {
+        "chi" "**在一切都太晚之前杀掉他 **"
+    }
+
+    "** GET TO THE END **"
+    {
+        "chi" "**抵达诸位命运的终点 **"
+    }
+
+    "**RIGHT DOOR OPENS IN 30 SECONDS**"
+    {
+        "chi" "**右门30秒后开 **"
+    }
+
+    "**DOOR OPENS IN 20 SECONDS**"
+    {
+        "chi" "**大门20秒后开 **"
+    }
+
+    "**TELEPORT IN 10 SECONDS**"
+    {
+        "chi" "**在10秒施展时空传送忍术传送挂机玩家 **"
+    }
+
+    "**GATES OPENS IN 15 SECONDS**"
+    {
+        "chi" "**大门15秒后开 **"
+    }
+
+    "**CAVE GATE OPENS IN 15 SECONDS**"
+    {
+        "chi" "**大门15秒后开 **"
+    }
+
+    "**DOOR OPENS IN 10 SECONDS**"
+    {
+        "chi" "**大门10秒后开 **"
+    }
+
+    "**GATES OPENS IN 20 SECONDS**"
+    {
+        "chi" "**大门20秒后开 **"
+    }
+
+    "**DOOR OPENS IN 15 SECONDS**"
+    {
+        "chi" "**大门15秒后开 **"
+    }
+
+    "**DEFEND UNTIL SOMETHING HAPPEN**"
+    {
+        "chi" "**守住,应该会有别的什么事情发生 **"
+    }
+
+    "**30 SECONDS LEFT**"
+    {
+        "chi" "**还有30秒 **"
+    }
+
+    "**YOU WON STAGE 2**"
+    {
+        "chi" "**日斩,你是沐浴阳光的木叶,我是深埋地底的根**"
+    }
+
+    "**CAVE ENTRANCE OPENS IN 15 SECONDS**"
+    {
+        "chi" "**大门15秒后开 **"
+    }
+
+    "** KATON - FIRE RAIN**"
+    {
+        "chi" "**火遁-凤仙花火! **"
+    }
+
+    "** KATON **"
+    {
+        "chi" "**火遁-豪火球之术! **"
+    }
+
+    "** MOKUTON **"
+    {
+        "chi" "**木遁-花树界降临,快去边缘,不要碰到树! **"
+    }
+
+    "** REGENERATION **"
+    {
+        "chi" "**医疗忍术! **"
+    }
+
+    "** MADARA JUST APPEAR **"
+    {
+        "chi" "**宇智波斑将会出现,小心! **"
+    }
+
+    "** SHOOT HIM OR GO TO THE SIDE NOW **"
+    {
+        "chi" "**在他放出忍术之前打断他或者站在场地边缘 **"
+    }
+
+    "** ZOMBIES **"
+    {
+        "chi" "**宇智波带土暂时打开了尸笼,小心! **"
+    }
+
+    "** RUN BEHIND KAKASHI **"
+    {
+        "chi" "**我们快躲到卡卡西背后! **"
+    }
+
+    "** OBITO IS USING ALTERNATE DIMENSION **"
+    {
+        "chi" "**带土使用了神威,把我们吸进了异空间里面! **"
+    }
+
+    "** GOOD JOB YOU FORCED OBITO TO TELEPORT **"
+    {
+        "chi" "**干得好,带土使用传送忍术逃跑了! **"
+    }
+
+    "** PRESS THE CRYSTAL TO ENABLE THE TELEPORT **"
+    {
+        "chi" "**按下水晶为传送忍术提供能量,希望诸位争取时间防守僵尸 **"
+    }
+
+    "**DOOR OPENS IN 30 SECONDS**"
+    {
+        "chi" "**门在30秒后开 **"
+    }
+
+    "**OBITO ARENA DOOR OPENS IN 15 SECONDS**"
+    {
+        "chi" "**15秒后我们就能看见带土了,做好准备 **"
+    }
+
+    "** TELEPORT READY IN 10 SECONDS **"
+    {
+        "chi" "**传送忍术在10秒后启动 **"
+    }
+
+    "** ZM TELEPORT IN 5 SECONDS **"
+    {
+        "chi" "**僵尸5秒后传送 **"
+    }
+
+    "** MIDDLE RIGHT DOOR OPENS IN 30 SECONDS**"
+    {
+        "chi" "**中间靠右的大门30秒后开 **"
+    }
+
+    "** FINAL GATE OPENS IN 25 SECONDS **"
+    {
+        "chi" "**最后之门在25秒后打开,是时候要面对最后的命运了! **"
+    }
+
+    "** LOW GRAVITY ENABLED **"
+    {
+        "chi" "**低重力已经开启 **"
+    }
+
+    "** CLIMB THE MIDDLE AND DEFEND **"
+    {
+        "chi" "**我们赶紧去跳到中间防守僵尸! **"
+    }
+
+    "** OBITO TRANSFORMED IN JINCHIRUKI **"
+    {
+        "chi" "**带土朝我们飞过来了! **"
+    }
+
+    "** GET READY FOR HIS LAST ATTACK **"
+    {
+        "chi" "**带土吸收了十尾,准备迎接六道之力的攻击!看天上!**"
+    }
+
+    "**YOU WON STAGE 3**"
+    {
+        "chi" "**我现在的心什么都感受不到了,即使是痛也没有. **"
+    }
+
+    "** CAVE DOOR OPENS IN 30 SECONDS **"
+    {
+        "chi" "**门在30秒后打开 **"
+    }
+
+    "** DOOR OPENS IN 25 SECONDS **"
+    {
+        "chi" "**门在25秒后打开 **"
+    }
+
+    "** MIDDLE WAY OPENING SOON.. **"
+    {
+        "chi" "**中间的路快开了! **"
+    }
+
+    "** A ROCK IS BLOCKING THE WAY KEEP DEFENDING **"
+    {
+        "chi" "**这块大石头把路堵住了,等我爆破他! **"
+    }
+
+    "** THE ROCK WILL EXPLODE IN 10 SECONDS **"
+    {
+        "chi" "**石头在10秒后爆炸 **"
+    }
+
+    "** FIND THE LEVER UNDER THE BRIDGE **"
+    {
+        "chi" "**找到启动桥的拉杆 **"
+    }
+
+    "** PATH OPEN IN 25 SECONDS **"
+    {
+        "chi" "**路在25秒后打开 **"
+    }
+
+    "** TELEPORT ENABLE IN 20 SECONDS **"
+    {
+        "chi" "**传送忍术在20后释放! **"
+    }
+
+    "** ZM TELEPORT IN 10 SECONDS **"
+    {
+        "chi" "**僵尸在10秒后传送 **"
+    }
+
+    "** GATE OPENS IN 10 SECONDS **"
+    {
+        "chi" "**门在10秒后打开 **"
+    }
+
+    "** FIND THE LEVER UNDER THE WATERFALL TO OPEN THE LEFT DOOR **"
+    {
+        "chi" "**在瀑布后面应该有个拉杆可以打开左边的门 **"
+    }
+
+    "** RIGHT DOOR WILL NOT OPEN **"
+    {
+        "chi" "**右门现在暂时不会打开 **"
+    }
+
+    "** LEFT DOOR OPENS IN 20 SECONDS **"
+    {
+        "chi" "**左门20秒后打开 **"
+    }
+
+    "** SHORTCUT OPEN IN 5 SECONDS **"
+    {
+        "chi" "**小道在5秒后打开 **"
+    }
+
+    "** DOOR OPENS IN 20 SECONDS **"
+    {
+        "chi" "**门在20秒后打开 **"
+    }
+
+    "** MIDDLE LEFT DOOR OPENS IN 30 SECONDS**"
+    {
+        "chi" "**中间靠左的门30秒后打开 **"
+    }
+
+    "** SENPO INTON RAIHA **"
+    {
+        "chi" "**仙法-阴遁雷派! **"
+    }
+
+    "** UCHIHA REFLECTION **"
+    {
+        "chi" "**宇智波反弹!大家不要攻击!**"
+    }
+
+    "** MOKUTON - DEEP FOREST EMERGENCE **"
+    {
+        "chi" "**木遁-花树界降临! **"
+    }
+
+    "** CLONE **"
+    {
+        "chi" "**影分身之术! **"
+    }
+
+    "** LIGHT FANG **"
+    {
+        "chi" "**仙法-岚遁光牙! **"
+    }
+
+    "** RINNEGAN - ABSORPTION **"
+    {
+        "chi" "**封术吸印,可以吸收伤害! **"
+    }
+
+    "** KATON - HIDING IN ASH **"
+    {
+        "chi" "**火遁-豪火灭却! **"
+    }
+
+    "** MADARA  IS CHARGING **"
+    {
+        "chi" "**宇智波斑正在积攒查克拉结印,小心! **"
+    }
+
+    "** LIMBO - HENGOKU **"
+    {
+        "chi" "**轮墓-边狱!! **"
+    }
+
+    "** SHATTERED HEAVEN **"
+    {
+        "chi" "**禁术-天碍震星! **"
+    }
+
+    "** DESTROY THE METEOR OR DIE NOW **"
+    {
+        "chi" "**陨石和我们之间必须得死一个,赶紧把陨石打碎! **"
+    }
+
+    "** NADES DO MORE DAMAGE **"
+    {
+        "chi" "**手雷可以造成更多伤害! **"
+    }
+
+    "** MADARA IS USING PERFECT SUSANOO **"
+    {
+        "chi" "**宇智波斑召唤了须佐轮乎! **"
+    }
+
+    "** DESTROY IT **"
+    {
+        "chi" "**快打败他! **"
+    }
+
+    "** ZOMBIES TELEPORTING NOW **"
+    {
+        "chi" "**僵尸现在要传送了! **"
+    }
+
+    "** GOOD JOB BUT ITS NOT OVER YET **"
+    {
+        "chi" "**你以为这样子就结束了吗?还没完! **"
+    }
+
+    "** GOOD JOB **"
+    {
+        "chi" "**干得好,宇智波斑暂时撤退了! **"
+    }
+
+    "** TELEPORTING NOW **"
+    {
+        "chi" "**现在传送! **"
+    }
+
+    "** FINAL DOOR OPENS IN 25 SECONDS **"
+    {
+        "chi" "**最后的门在25秒后打开 **"
+    }
+
+    "** DOOR OPENS IN 15 SECONDS **"
+    {
+        "chi" "**门在15秒后打开 **"
+    }
+
+    "** MADARA ARENA DOOR OPENS IN 15 SECONDS **"
+    {
+        "chi" "**15秒后我们就可以见到宇智波斑了,准备战斗! **"
+    }
+
+    "** ACTIVATE THE LEVER UNDER THE WATERFALL AGAIN **"
+    {
+        "chi" "**再次启动瀑布后面的拉杆 **"
+    }
+
+    "** GET READY FOR HIS FINAL ATTACK **"
+    {
+        "chi" "**准备好面对宇智波斑最后的攻击! **"
+    }
+
+    "** MADARA WAS WAITING FOR YOU **"
+    {
+        "chi" "**宇智波斑居然在等着我们! **"
+    }
+
+    "** FINISH HIM NOW **"
+    {
+        "chi" "**现在解决他! **"
+    }
+
+    "** YOU'RE A TRUE SHINOBI **"
+    {
+        "chi" "**你们才是忍界真正的忍者! **"
+    }
+
+    "** YOU WON STAGE 4 **"
+    {
+        "chi" "**论忍者的才能,与我较量过的人无出其右,我班愿称你为最强! **"
+    }
+
+    "** STAGE 1 **"
+    {
+        "chi" "**第一章:明花筒的明与暗 **"
+    }
+
+    "** STAGE 2 **"
+    {
+        "chi" "**第二章:宿命的二人 **"
+    }
+
+    "** STAGE 3 **"
+    {
+        "chi" "**第三章:琳 **"
+    }
+
+    "** STAGE 4 **"
+    {
+        "chi" "**第四章:无限之梦 **"
+    }
+
+    "** GATES OPENS IN 15 SECONDS **"
+    {
+        "chi" "**大门15秒后开 **"
+    }
+
+    "** ZOMBIE DETECTED **"
+    {
+        "chi" "**有僵尸逃脱了,我们失败了 **"
+    }
+
+}

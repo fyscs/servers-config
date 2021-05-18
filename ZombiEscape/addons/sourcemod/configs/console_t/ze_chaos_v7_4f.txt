@@ -1,0 +1,155 @@
+"Console_T"
+{
+	"<--A human has picked Health Ball-->"
+	{
+		"chi"		"**一名玩家捡起了治疗**"
+	}
+	"<--A zombie has picked Blackhole Ball-->"
+	{
+		"chi"		"**一名玩家捡起了[zm]黑洞**"
+	}
+	"<--A human has picked Lightning Ball-->"
+	{
+		"chi"		"**一名玩家捡起了光壁**"
+	}
+	"<--A human has picked Water Ball-->"
+	{
+		"chi"		"**一名玩家捡起了冰瀑**"
+	}
+	"<--A zombie has picked Poison Ball-->"
+	{
+		"chi"		"**一名玩家捡起了[zm]剧毒**"
+	}
+	"<--A human has picked White Knight-->"
+	{
+		"chi"		"**一名玩家捡起了骑士**"
+	}
+	"<--A human has picked Fire Ball-->"
+	{
+		"chi"		"**一名玩家捡起了烈火**"
+	}
+	"<--A zombie has picked Alacrity Ball-->"
+	{
+		"chi"		"**一名玩家捡起了[zm]迅捷**"
+	}
+	"<--A zombie has picked Health Ball-->"
+	{
+		"chi"		"**一名玩家捡起了[zm]治疗**"
+	}
+	"<--A zombie has picked Dark Ball-->"
+	{
+		"chi"		"**一名玩家捡起了[zm]黑洞**"
+	}
+	"<--A human has picked Beam Ball-->"
+	{
+		"chi"		"**一名玩家捡起了闪电**"
+	}
+	"<--A human has picked Snowstorm Ball-->"
+	{
+		"chi"		"**一名玩家捡起了冰雪**"
+	}
+	"<--Map Made By Color-->"
+	{
+		"chi"		">>地图作者: color<<"
+	}
+	"<--Warm Up Time-->"
+	{
+		"chi"		">>热身时间<<"
+	}
+	"<--Wood door will break in 45s-->"
+	{
+		"chi"		">>木门将在45秒后裂掉<<"
+	}
+	"<--Wood door will break in 5s-->"
+	{
+		"chi"		">>木门将在5秒后裂掉<<"
+	}
+	"<--Wood door will break in 15s-->"
+	{
+		"chi"		">>木门将在15秒后裂掉<<"
+	}
+	"<--Touch 2 beams-->"
+	{
+		"chi"		">>需要触碰2个红色的光柱<<"
+	}
+	"<--5s left-->"
+	{
+		"chi"		">>还剩下5秒时间<<"
+	}
+	"<--What...it's a dragon-->"
+	{
+		"chi"		">>什么,,,,居然出现了一条龙<<"
+	}
+	"<--It comes...-->"
+	{
+		"chi"		">>龙过来了<<"
+	}
+	"<--Grenade can damage dragon-->"
+	{
+		"chi"		">>手雷可以伤害这条龙<<"
+	}
+	"<--Balls can damage dragon except beam ball-->"
+	{
+		"chi"		">>除了光束球 其他球都可以伤害龙<<"
+	}
+	"<--Dragon uses meteor-->"
+	{
+		"chi"		">>***天外陨石***<<"
+	}
+	"<--Dragon uses fire-->"
+	{
+		"chi"		">>***三昧真火*** 后半场火<<"
+	}
+	"<--Dragon uses black hole-->"
+	{
+		"chi"		">>***万象天引***  吸力<<"
+	}
+	"<--Wait for 45s-->"
+	{
+		"chi"		">>我们需要等待45秒 才能通过<<"
+	}
+	"<--Wait for 30s-->"
+	{
+		"chi"		">>我们需要等待30秒  才能通过<<"
+	}
+	"<--Hold for last 25s-->"
+	{
+		"chi"		">>需要守住25秒 加油<<"
+	}
+	"<--Wait for 15s-->"
+	{
+		"chi"		">>还有15秒倒计时 加油<<"
+	}
+	"<--Wait for 20s-->"
+	{
+		"chi"		">>还有20秒倒计时 奥利给<<"
+	}
+	"<--Collect 3 glow balls-->"
+	{
+		"chi"		">>我们需要收集3个红色的光柱<<"
+	}
+	"<--Wait for 40s-->"
+	{
+		"chi"		">>需要守住40秒<<"
+	}
+	"<--Wait for 10s-->"
+	{
+		"chi"		">>还需要守住10秒<<"
+	}
+	">> ZE_ERROR <<"
+	{
+		"chi"		"** **"
+	}
+	"<--Shoot waha's head if possible-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Zombies are in the room-->"
+	{
+		"chi"		"** **"
+	}
+	"<--Failed-->"
+	{
+		"chi"		"** **"
+	}
+}

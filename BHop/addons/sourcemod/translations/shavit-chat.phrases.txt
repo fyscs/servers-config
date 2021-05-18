@@ -1,0 +1,100 @@
+"Phrases"
+{
+	// ---------- Commands ---------- //
+	"ChatUpdated"
+	{
+		"en"		"设定更新."
+	}
+	"ChatCurrent"
+	{
+		"#format"	"{1:s}"
+		"en"		"当前设置:{1}"
+	}
+	"NameOff"
+	{
+		"en"		"自定义聊天名称现已关闭."
+	}
+	"MessageOff"
+	{
+		"en"		"自定义聊天文本颜色已关闭."
+	}
+	"CheckConsole"
+	{
+		"en"		"检查控制台."
+	}
+	"CCHelp_Intro"
+	{
+		"en"		"- 您可以访问自定义聊天.\n使用信息:"
+	}
+	"CCHelp_Generic"
+	{
+		"en"		"- !cc名称可用于更改自定义聊天名称. Use \"!ccname off\" to toggle it off.\n- !ccmsg可用于更改您的自定义消息前缀/color. Use \"!ccmsg off\" to toggle it off.\nThere are custom variables, such as:"
+	}
+	"CCHelp_GenericVariables"
+	{
+		"en"		"- {name} - 你在游戏中的名字.\n- {clan} - 你的家族标签.\n- {rand} - 随机的颜色.\n- {team} - 你的队伍颜色.\n- {green} - 绿色."
+	}
+	"CCHelp_CSS_1"
+	{
+		"en"		"- 要使用自定义颜色，请写入^RRGGBB（十六进制/HTML颜色）。例如，^FFFFFF为白色，^000000为黑色."
+	}
+	"CCHelp_CSS_2"
+	{
+		"en"		"- 也可以使用设置alpha（以十六进制表示的不透明度，其中FF为255）。. &RRGGBBAA. For example, &FFFFFF7F is 127 alpha, so all text after the color will have 50% opacity."
+	}
+	"CCHelp_CSGO_1"
+	{
+		"en"		"- 以下颜色也可用: {blue}, {bluegrey}, {darkblue}, {darkred}, {gold}, {grey}, {grey2}, {lightgreen}, {lightred}, {lime}, {orchid}, {yellow} and {palered}."
+	}
+	// ---------- Menu ---------- //
+	"SelectChatRank"
+	{
+		"en"		"选择聊天等级:\n"
+	}
+	"AutoAssign"
+	{
+		"en"		"自动分配\n使用您的等级自动分配."
+	}
+	"CustomChat"
+	{
+		"en"		"自定义\n使用自定义聊天设置。看！有关详细信息，请参阅cchelp."
+	}
+	"ChatRanksMenu"
+	{
+		"en"		"可获得的聊天列组：\n选择要预览的项。\n"
+	}
+	"ChatRanksMenu_Unranked"
+	{
+		"en"		"未分级"
+	}
+	"ChatRanksMenu_Points"
+	{
+		"#format"	"{1:d}"
+		"en"		"有一分"
+	}
+	"ChatRanksMenu_Points_Ranged"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"在{1}和{2}分之间"
+	}
+	"ChatRanksMenu_Flat"
+	{
+		"#format"	"{1:d}"
+		"en"		"排名#{1}或更好"
+	}
+	"ChatRanksMenu_Flat_Ranged"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"排名在{1}和{2}之间"
+	}
+	"ChatRanksMenu_Percentage"
+	{
+		"#format"	"{1:.1f},{2:c}"
+		"en"		"最高 {1}{2}"
+	}
+	"ChatRanksMenu_Percentage_Ranged"
+	{
+		"#format"	"{1:.1f},{2:c},{3:.1f},{4:c}"
+		"en"		"在最高 {1}{2} 和 {3}{4}"
+	}
+}

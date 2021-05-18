@@ -1,0 +1,403 @@
+"Console_T"
+{
+	">>> HOLD 25 SECONDS <<<"
+	{
+		"chi"		"**守住25秒**"   
+	}
+	">>> STAGE 1 : SEA VILLAGE MODE <<<"
+	{
+		"chi"		"**第一关:新手村**"     
+	}
+	">>> SUNNY LEVEL <<<"
+	{
+		"chi"		"**简单难度**"     
+	}
+	">>> Map made by Moray <<<"
+	{
+		"chi"		"**作者:Moray	汉化:回億@风云社**"     
+	}
+	">>> ADMIN CHANGED TO STAGE 1 <<<"
+	{
+		"chi"		"**管理员载入第一关:新手村**"     
+	}
+	">>> ADMIN CHANGED TO KILLALL BUTTON  <<<"
+	{
+		"chi"		"**管理员按下处死全体按钮**"     
+	}
+	">>> STAGE 4 : LAVA VILLAGE MODE <<<"
+	{
+		"chi"		"**ex1:新手村**"     
+	}
+	">>> GLOOMY LEVEL <<<"
+	{
+		"chi"		"**困难难度**"     
+	}
+	">>> ADMIN CHANGED TO STAGE 4 <<<"
+	{
+		"chi"		"**管理员载入ex1:新手村**"     
+	}
+	">>> HOLD 20 SECONDS <<<"
+	{
+		"chi"		"**守住20秒**"     
+	}
+	">>> HOLD 30 SECONDS <<<"
+	{
+		"chi"		"**守住30秒**"     
+	}
+	">>> BLOOPER IS COMING <<<"
+	{
+		"chi"		"**乌贼娘来了**"     
+	}
+	">>> BLOOPER IS DEFEATED <<<"
+	{
+		"chi"		"**乌贼娘被打败了**"     
+	}
+	">>> STAGE 2 : GREEN HILL MODE <<<"
+	{
+		"chi"		"**第二关:青青草原**"     
+	}
+	">>> STAGE 5 : BURNING HILL MODE <<<"
+	{
+		"chi"		"**ex2:青青草原**"     
+	}
+	">>> ADMIN CHANGED TO STAGE 2 <<<"
+	{
+		"chi"		"**管理员载入第二关:青青草原**"     
+	}
+	">>> ADMIN CHANGED TO STAGE 5 <<<"
+	{
+		"chi"		"**管理员载入ex2:青青草原**"     
+	}
+	">>> SAITAMA IS DEFEATED <<<"
+	{
+		"chi"		"**小太阳被淦死了**"     
+	}
+	">>> SAITAMA IS COMING <<<"
+	{
+		"chi"		"**小太阳飞过来了**"     
+	}
+	">>> BLOOPER USED PUSH <<<"
+	{
+		"chi"		"**乌贼娘使用了海之浪潮**"     
+	}
+	">>> BLOOPER USED INK <<<"
+	{
+		"chi"		"**乌贼娘使用了喷墨**"     
+	}
+	">>> BLOOPER USED WATER CANNON <<<"
+	{
+		"chi"		"**乌贼娘使用了水炮**"     
+	}
+	">>> BLOOPER USED SPLASH <<<"
+	{
+		"chi"		"**乌贼娘使用了海洋利刃 **"     
+	}
+	">>> BLOOPER USED WATER BREATH <<<"
+	{
+		"chi"		"**乌贼娘使用了海之呼吸 **"     
+	}
+	">>> BLOOPER USED BUBBLE BEAM <<<"
+	{
+		"chi"		"**乌贼娘使用了气泡光束 **"     
+	}
+	">>> BLOOPER USED FIRE CANNON <<<"
+	{
+		"chi"		"**乌贼娘使用了阳炎火炮 **"     
+	}
+	">>> BLOOPER USED FIRE BEAM <<<"
+	{
+		"chi"		"**乌贼娘使用了火之柱 **"     
+	}
+	">>> BLOOPER USED FIRE BREATH <<<"
+	{
+		"chi"		"**乌贼娘使用了炎之呼吸 **"     
+	}
+	">>> HOLD 15 SECONDS <<<"
+	{
+		"chi"		"**守住15秒**"     
+	}
+	">>> ROUTE 2 : HOLD 25 SECONDS <<<"
+	{
+		"chi"		"**路线二:守住25秒**"     
+	}
+	">>> ROUTE 1 : HOLD 25 SECONDS <<<"
+	{
+		"chi"		"**路线一:守住25秒**"     
+	}
+	">>> BOMB 2 WAS ACTIVATED <<<"
+	{
+		"chi"		"**路线二的炸弹已安放**"     
+	}
+	">>> BOMB 1 WAS ACTIVATED <<<"
+	{
+		"chi"		"**路线一的炸弹已安放**"     
+	}
+	">>> HOLD 10 SECONDS <<<"
+	{
+		"chi"		"**守住10秒**"     
+	}
+	">>> ITEM SHOP DOOR OPENING IN 5 SECONDS <<<"
+	{
+		"chi"		"**商店门将在5秒后打开**"     
+	}
+	">>> BOSS IS COMING AGAIN <<<"
+	{
+		"chi"		"**BOSS又来了**"     
+	}
+	">>> BLOOPER WAS ESCAPED <<<"
+	{
+		"chi"		"**乌贼娘夹着尾巴跑了**"     
+	}
+	">>> STAGE 4 COMPLETED <<<"
+	{
+		"chi"		"**EX1完成**"     
+	}
+	">>> FAIL ROUND <<<"
+	{
+		"chi"		"**关卡失败**"     
+	}
+	">>> HOLD 35 SECONDS <<<"
+	{
+		"chi"		"**守住35秒**"     
+	}
+	">>> STAGE 1 COMPLETED <<<"
+	{
+		"chi"		"**第一关完成**"     
+	}
+	">>> AFK TELEPORT IN 10 SECONDS <<<"
+	{
+		"chi"		"**挂机的笨蛋们将在10秒后传送**"     
+	}
+	">>> DON'T FORGET TO CROUCH <<<"
+	{
+		"chi"		"**要记得蹲下哟**"     
+	}
+	">>> STAGE 3 : DIRTY TOWN MODE <<<"
+	{
+		"chi"		"**第三关:脏乱的小镇**"     
+	}
+	">>> STAGE 6 : ARMY TOWN MODE <<<"
+	{
+		"chi"		"**EX3:脏乱的小镇**"     
+	}
+	">>> ADMIN CHANGED TO STAGE 3 <<<"
+	{
+		"chi"		"**管理员载入第三关:脏乱的小镇**"     
+	}
+	">>> ADMIN CHANGED TO STAGE 6 <<<"
+	{
+		"chi"		"**管理员载入EX3:脏乱的小镇**"     
+	}
+	">>> HOLD 45 SECONDS <<<"
+	{
+		"chi"		"**守住45秒**"     
+	}
+	">>> STAGE 5 COMPLETED <<<"
+	{
+		"chi"		"**EX2完成**"     
+	}
+	">>> STAGE 2 COMPLETED <<<"
+	{
+		"chi"		"**第二关完成**"     
+	}
+	">>> SANIC WAS HURT <<<"
+	{
+		"chi"		"**傻尼克受伤了 **"     
+	}
+	">>> SANIC GOT POWER <<<"
+	{
+		"chi"		"**傻尼克获得了力量 **"     
+	}
+	">>> WATCH OUT <<<"
+	{
+		"chi"		"**小心**"     
+	}
+	">>> BUT HE HASN'T DEFEATED  GET AWAY FROM HIM <<<"
+	{
+		"chi"		"**我们还没有打败他, 远离他**"     
+	}
+	">>> SANIC WAS DEFEATED <<<"
+	{
+		"chi"		"**傻尼克被我们淦死了 **"     
+	}
+	">>> EXIT DOOR OPENING IN 100 SECONDS <<<"
+	{
+		"chi"		"**通往出口的门将在100秒后打开**"     
+	}
+	">>> 60 SECONDS LEFT <<<"
+	{
+		"chi"		"**出口的门将在60秒打开**"     
+	}
+	">>> 5 SECONDS LEFT <<<"
+	{
+		"chi"		"**出口的门将在5秒打开**"     
+	}
+	">>> SANIC IS COMING <<<"
+	{
+		"chi"		"**傻尼克要来了**"     
+	}
+	">>> PRIEST IS COMING  SHOOT HIM <<<"
+	{
+		"chi"		"**神父来了, 淦他**"     
+	}
+	">>> HOLD 5 SECONDS <<<"
+	{
+		"chi"		"**守住5秒**"     
+	}
+	">>> PRIEST WAS DEFEATED <<<"
+	{
+		"chi"		"**神父被淦死了**"     
+	}
+	">>> PRIEST CASTED SHIELD <<<"
+	{
+		"chi"		"**神父制造了护盾**"     
+	}
+	">>> PRIEST CASTED CANNON <<<"
+	{
+		"chi"		"**神父制造了大炮**"     
+	}
+	">>> PRIEST CASTED WEB SLASH <<<"
+	{
+		"chi"		"**神父制造了利刃 **"     
+	}
+	">>> TIME TO AVOID CANCER LAZERS <<<"
+	{
+		"chi"		"**该我们表演的时刻了**"     
+	}
+	">>> WATCH OUT FOR TAEPODONG <<<"
+	{
+		"chi"		"**小心人间大炮 **"     
+	}
+	">>> DOOR CLOSING <<<"
+	{
+		"chi"		"**门正在关闭**"     
+	}
+	">>> STAGE 3 COMPLETED <<<"
+	{
+		"chi"		"**第三关完成**"     
+	}
+	">>> STAGE 6 COMPLETED <<<"
+	{
+		"chi"		"**EX3完成**"     
+	}
+	">>> PERSUADING UNBABA <<<"
+	{
+		"chi"		"**睡服回億**"     
+	}
+	">>> PERSUADE WAS SUCCESSFUL  KEEP RUNNING <<<"
+	{
+		"chi"		"**我们成功睡服了回億, 快跑**"     
+	}
+	">>> PERSUADING YOSHI <<<"
+	{
+		"chi"		"**睡服菜鸡 **"     
+	}
+	">>> PLAYER HAS PICKED UP HEAL <<<"
+	{
+		"chi"		"**一名玩家捡起了 治疗**"     
+	}
+	">>> PLAYER HAS PICKED UP AMMO <<<"
+	{
+		"chi"		"**一名玩家捡起了 弹药**"     
+	}
+	">>> PLAYER HAS PICKED UP PUSH <<<"
+	{
+		"chi"		"**一名玩家捡起了 飓风**"     
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
+	{
+		"chi"		"**一名玩家捡起了 [zm]黑洞**"     
+	}
+	">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<"
+	{
+		"chi"		"**一名玩家捡起了 激光**"     
+	}
+	">>> PLAYER HAS PICKED UP SLOWER SPHERE <<<"
+	{
+		"chi"		"**一名玩家捡起了 减速**"     
+	}
+	">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
+	{
+		"chi"		"**一名玩家捡起了 [zm]治疗**"     
+	}
+	">>> EXIT DOOR OPENING IN 120 SECONDS <<<"
+	{
+		"chi"		"**通往出路的门将在120打开**"     
+	}
+	">>> ARMY SANIC WAS DEFEATED <<<"
+	{
+		"chi"		"**狂暴傻尼克被淦翻了**"     
+	}
+	">>> ARMY SANIC IS COMING <<<"
+	{
+		"chi"		"**狂暴傻尼克蹦了出来**"     
+	}
+	">>> PLAYER HAS PICKED UP FIRE TOILET <<<"
+	{
+		"chi"		"**一名玩家捡起了火马桶**"     
+	}
+	">>> PLAYER HAS PICKED UP ICE TOILET <<<"
+	{
+		"chi"		"**一名玩家捡起了冰马桶**"     
+	}
+	">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<"
+	{
+		"chi"		"**一名玩家捡起了电马桶**"     
+	}
+	">>> PLAYER HAS PICKED UP POISON TOILET <<<"
+	{
+		"chi"		"**一名玩家捡起了毒马桶**"     
+	}
+	">>> PLAYER HAS PICKED UP GRAVITY TOILET <<<"
+	{
+		"chi"		"**一名玩家捡起了黑洞马桶**"     
+	}
+	">>> PLAYER HAS PICKED UP EARTH TOILET <<<"
+	{
+		"chi"		"**一名玩家捡起了土马桶**"     
+	}
+	">>> PLAYER HAS PICKED UP WATER TOILET <<<"
+	{
+		"chi"		"**一名玩家捡起了水马桶**"     
+	}
+	">>> PLAYER HAS PICKED UP WIND TOILET <<<"
+	{
+		"chi"		"**一名玩家捡起了风马桶**"     
+	}
+	">>> ROUTE 1 :HOLD 25 SECONDS <<<"
+	{
+		"chi"		"**路线一:守住25秒**"     
+	}
+	">>> ROUTE 2 :HOLD 25 SECONDS <<<"
+	{
+		"chi"		"**路线二:守住25秒**"     
+	}
+	">>> ROUTE 2 : HOLD 5 SECONDS <<<"
+	{
+		"chi"		"**路线二:守住5秒**"     
+	}
+	">>> TWIN SWORD SOLDIER IS COMING <<<"
+	{
+		"chi"		"**双剑骑兵出现**"     
+	}
+	">>> FLAMETHROWER SOLDIER IS COMING <<<"
+	{
+		"chi"		"**火焰喷射兵出现**"     
+	}
+	">>> FREEZER SOLDIER IS COMING <<<"
+	{
+		"chi"		"**冰冻兵出现**"     
+	}
+	">>> MINIGUN SOLDIER IS COMING <<<"
+	{
+		"chi"		"**机关枪兵出现**"     
+	}
+	">>> SANIC SPAWNED BABY SANIC <<<"
+	{
+		"chi"		"**傻尼克生出了傻尼克宝宝 **"     
+	}
+	">>> BREAK THE BLOCK <<<"
+	{
+		"chi"		"**打破障碍**"     
+	}
+}

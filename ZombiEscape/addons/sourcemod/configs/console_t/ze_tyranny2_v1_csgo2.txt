@@ -58,7 +58,7 @@
 	}
 	">>> Map by Moray and nano <<<"
 	{
-		"chi"		">>> 地图作者：Moray&nano 翻译：妮沙@風雲社 <<<"
+		"chi"		">>> 地图作者: Moray&nano 翻译: 妮沙@風雲社 <<<"
 	}
 	">>> Player has picked up Meteor Staff <<<"
 	{
@@ -78,15 +78,15 @@
 	}
 	">>> Player has picked up Ammo <<<"
 	{
-		"chi"		">>> 一名玩家捡起了无限弹药 <<<"
+		"chi"		">>> 一名玩家捡起了弹药箱 <<<"
 	}
 	">>> Player has picked up Shade Staff <<<"
 	{
-		"chi"		">>> 一名玩家捡起了影缚权杖 <<<"
+		"chi"		">>> 一名玩家捡起了暗影权杖 <<<"
 	}
 	">>> Player has picked up Sacred Staff <<<"
 	{
-		"chi"		">>> >一名玩家捡起了神圣权杖 <<<"
+		"chi"		">>> 一名玩家捡起了恐惧权杖 <<<"
 	}
 	">>> Player has picked up Heal Staff <<<"
 	{
@@ -102,23 +102,23 @@
 	}
 	">>> Player has picked up Blood Orb  <<<"
 	{
-		"chi"		">>> 一名玩家学会了祈血术 <<<"
+		"chi"		">>> 血红源泉 <<<"
 	}
 	">>> Player has picked up Explosive Barrel  <<<"
 	{
-		"chi"		">>> 一名玩家学会了炸药术 <<<"
+		"chi"		">>> 烈火爆破 <<<"
 	}
 	">>> Player has picked up Necromancy  <<<"
 	{
-		"chi"		">>> 一名玩家学会了妖术 <<<"
+		"chi"		">>> 星辰之冻结 <<<"
 	}
 	">>> Player has picked up Guillotine  <<<"
 	{
-		"chi"		">>> 一名玩家学会了断头术 <<<"
+		"chi"		">>> 罪: 断头台 <<<"
 	}
 	">>> Player has picked up Abyss  <<<"
 	{
-		"chi"		">>> 一名玩家学会了虚空术 <<<"
+		"chi"		">>> 虚空轮回 <<<"
 	}
 	">>> Ammo Unlocked <<<"
 	{
@@ -130,7 +130,7 @@
 	}
 	">>> Sacred Staff Unlocked <<<"
 	{
-		"chi"		">>> 神圣解锁 <<<"
+		"chi"		">>> 恐惧解锁 <<<"
 	}
 	">>> Bible Unlocked <<<"
 	{
@@ -138,7 +138,7 @@
 	}
 	">>> Shade Staff Unlocked <<<"
 	{
-		"chi"		">>> 影缚解锁 <<<"
+		"chi"		">>> 暗影解锁 <<<"
 	}
 	">>> Hold 20 Seconds <<<"
 	{
@@ -214,7 +214,7 @@
 	}
 	">>> Dragon has been Defeated <<<"
 	{
-		"chi"		">>> 龙王已被击倒 <<<"
+		"chi"		">>> 巨龙已被击倒 <<<"
 	}
 	">>> Angra has been Defeated <<<"
 	{
@@ -270,7 +270,7 @@
 	}
 	"Noob Trashed"
 	{
-		"chi"		">>> 一个菜鸟被抛弃了 <<<"
+		"chi"		">>> 菜鸟去世 <<<"
 	}
 	">>> Troll is Coming <<<"
 	{
@@ -290,7 +290,7 @@
 	}
 	">>> Rakiora is Coming <<<"
 	{
-		"chi"		">>> 拉基奥拉出现了 <<<"
+		"chi"		">>> 拉基奥拉就在我们身后!<<<"
 	}
 	">>> Hold 5 Seconds <<<"
 	{

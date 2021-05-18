@@ -1,0 +1,43 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "The battle begin in 10 sec"
+    {
+        "chi" "战斗即将在10秒钟后打响"
+    }
+
+    "AFK Killing in 15 sec"
+    {
+        "chi" "十五秒后处死挂机玩家"
+    }
+
+    "@[Music] Felxprod - Your Dark Side"
+    {
+        "chi" "BGM: Felxprod - Your Dark Side "
+    }
+
+    "@[Map] The Him - Feels Like Home (feat. Son Mieux)"
+    {
+        "chi" "BGM: The Him - Feels Like Home (feat. Son Mieux)"
+    }
+
+    "@[Music] Tori Kelly - Hollow (Jack Novak Remix)"
+    {
+        "chi" "BGM: Tori Kelly - Hollow (Jack Novak Remix)"
+    }
+
+    "@[Map] Map ported by Blogger(Dog)"
+    {
+        "chi" "地图移植: Blogger(Dog)"
+    }
+
+    "@[Map] Map by Zigrass (Assisted by Blue Tiger)"
+    {
+        "chi" "地图作者: Zigrass (协助者: Blue Tiger) 地图汉化: 圣剑@风云社"
+    }
+
+}

@@ -1,3 +1,6 @@
+os: linux
+dist: focal
+
 addons:
   apt_packages:
     - p7zip-full
@@ -5,7 +8,7 @@ addons:
 
 language: php
 php:
-  - '7.2'
+  - '7.4'
 
 script:
   - bash CI/validator.sh
@@ -16,5 +19,6 @@ notifications:
     - 1149873216@qq.com
     - 834888744@qq.com
     - 286921966@qq.com
+    - 378379682@qq.com
   on_success: never
   on_failure: always

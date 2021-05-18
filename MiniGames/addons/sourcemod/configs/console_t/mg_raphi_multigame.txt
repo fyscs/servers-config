@@ -1,0 +1,147 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "Map by Raphi"
+    {
+        "chi" "地图作者: Raphi 地图汉化: 圣剑@风云社"
+    }
+
+    ">> Free Fall <<"
+    {
+        "chi" "自由落体"
+    }
+
+    "[Raphi] Time's up. "
+    {
+        "chi" "时间到!"
+    }
+
+    ">> Knife Arena <<"
+    {
+        "chi" "刀战竞技场"
+    }
+
+    ">> Face 2 Face <<"
+    {
+        "chi" "面对面"
+    }
+
+    ">> GG WP<<"
+    {
+        "chi" "GGWP"
+    }
+
+    ">> BHOP <<"
+    {
+        "chi" "连跳"
+    }
+
+    "[Raphi] Time's up !!"
+    {
+        "chi" "时间到!!"
+    }
+
+    ">> VolleyBall <<"
+    {
+        "chi" "排球"
+    }
+
+    ">> HalfRide <<"
+    {
+        "chi" "滑道竞速"
+    }
+
+    ">> Slide <<"
+    {
+        "chi" "滑冰"
+    }
+
+    ">> Long Jump <<"
+    {
+        "chi" "长跳"
+    }
+
+    ">> You have 50 sec to get more speed <<"
+    {
+        "chi" "有50秒的时间来供你加速"
+    }
+
+    ">> The best will win in 30 sec <<"
+    {
+        "chi" "30秒后速度最快的玩家将会获胜"
+    }
+
+    ">> 5 sec left <<"
+    {
+        "chi" "还剩5秒"
+    }
+
+    ">> 4 <<"
+    {
+        "blocked" "1"
+        "chi" "4"
+    }
+
+    ">> 3 <<"
+    {
+        "blocked" "1"
+        "chi" "3"
+    }
+
+    ">> 2 <<"
+    {
+        "blocked" "1"
+        "chi" "2"
+    }
+
+    ">> 1 <<"
+    {
+        "blocked" "1"
+        "chi" "1"
+    }
+
+    ">> Teleporting.. <<"
+    {
+        "chi" "传送中..."
+    }
+
+    ">> AWP <<"
+    {
+        "chi" "AWP"
+    }
+
+    ">> Grenade <<"
+    {
+        "chi" "手雷"
+    }
+
+    ">> Wagon <<"
+    {
+        "chi" "** **"
+    }
+
+    ">> Smoke <<"
+    {
+        "chi" "躲避球"
+    }
+
+    "GOOOOOAAAAAAL!!!"
+    {
+        "chi" "球进啦!!!"
+    }
+
+    ">> Football <<"
+    {
+        "chi" "足球"
+    }
+
+    ">> Balance <<"
+    {
+        "chi" "平衡板"
+    }
+
+}

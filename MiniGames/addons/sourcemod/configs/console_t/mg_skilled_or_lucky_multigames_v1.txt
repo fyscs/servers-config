@@ -1,0 +1,423 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "*Knife Equipped*"
+    {
+        "chi" "匕首已发放"
+    }
+
+    "*Knife Equipped in 10 sec*"
+    {
+        "chi" "10秒钟后发放匕首"
+    }
+
+    "*Wall Breaking*"
+    {
+        "chi" "墙壁已消失"
+    }
+
+    "*Wall Breaking in 10 sec*"
+    {
+        "chi" "10秒钟后墙壁碎裂"
+    }
+
+    "*3*"
+    {
+        "chi" "3"
+    }
+
+    "*2*"
+    {
+        "blocked" "1"
+        "chi" "2"
+    }
+
+    "*1*"
+    {
+        "blocked" "1"
+        "chi" "1"
+    }
+
+    "*Fight!*"
+    {
+        "chi" "开战!"
+    }
+
+    "*Ground Breaking in 10 sec*"
+    {
+        "chi" "地板在10秒钟后碎裂"
+    }
+
+    "*Ground Breaking*"
+    {
+        "chi" "地板已消失"
+    }
+
+    "[WEAPON] AWP"
+    {
+        "chi" "AWP"
+    }
+
+    "[WEAPON] AWP&Tec-9"
+    {
+        "chi" "AWP&Tec9"
+    }
+
+    "[WEAPON] AWP&Tec-9&Knife"
+    {
+        "chi" "AWP&Tec9&匕首"
+    }
+
+    "*Select Position in 20 sec*"
+    {
+        "chi" "在20秒内选择你的点位"
+    }
+
+    "*Outside Position Killer in 5 sec*"
+    {
+        "chi" "未选点的玩家将会在5秒钟后处死"
+    }
+
+    "*Outside Position Killer On*"
+    {
+        "chi" "未选点玩家已处死"
+    }
+
+    "*10*"
+    {
+        "chi" "10"
+    }
+
+    "*9*"
+    {
+        "blocked" "1"
+        "chi" "9"
+    }
+
+    "*8*"
+    {
+        "blocked" "1"
+        "chi" "8"
+    }
+
+    "*7*"
+    {
+        "blocked" "1"
+        "chi" "7"
+    }
+
+    "*6*"
+    {
+        "blocked" "1"
+        "chi" "6"
+    }
+
+    "*5*"
+    {
+        "blocked" "1"
+        "chi" "5"
+    }
+
+    "*4*"
+    {
+        "blocked" "1"
+        "chi" "4"
+    }
+
+    "*...*"
+    {
+        "chi" "..."
+    }
+
+    "[GAME] 200 IQ Hegrenade"
+    {
+        "chi" "200IQ手雷"
+    }
+
+    "[WEAPON] Hegrenade"
+    {
+        "chi" "高爆手雷"
+    }
+
+    "[GAME] King of Reddit"
+    {
+        "chi" "Reddit之王"
+    }
+
+    "[FEAT] Shroud"
+    {
+        "chi" "Shroud"
+    }
+
+    "[GAME] 1vs1 Knife"
+    {
+        "chi" "1v1刀战"
+    }
+
+    "[WEAPON] Knife"
+    {
+        "chi" "匕首"
+    }
+
+    "[GAME] My Friends"
+    {
+        "chi" "My Friends"
+    }
+
+    "[FEAT] pashaBiceps"
+    {
+        "chi" "pashaBiceps"
+    }
+
+    "[WEAPON] Dual Berettas"
+    {
+        "chi" "双持贝瑞塔"
+    }
+
+    "[GAME] Pasha London School"
+    {
+        "chi" "Pasha London School"
+    }
+
+    "[FEAT] Snax"
+    {
+        "chi" "Snax"
+    }
+
+    "[WEAPON] MAG-7"
+    {
+        "chi" "MAG-7"
+    }
+
+    "[GAME] Rush B"
+    {
+        "chi" "RUSH B!"
+    }
+
+    "[WEAPON] CT:USP-S & T:Glock-18"
+    {
+        "chi" "CT:USP & T:Glock"
+    }
+
+    "[MUSIC] SLAV KING - Boris vs. DJ Blyatman"
+    {
+        "chi" "BGM: SLAV KING - Boris vs. DJ Blyatman"
+    }
+
+    "[GAME] Smoke Criminal"
+    {
+        "chi" "Smoke Criminal"
+    }
+
+    "[FEAT] Stewie2K"
+    {
+        "chi" "Stewie2K"
+    }
+
+    "[WEAPON] Smoke & Taser"
+    {
+        "chi" "烟雾弹与电击枪"
+    }
+
+    "[GAME] Spawn Fight"
+    {
+        "chi" "出生点乱斗"
+    }
+
+    "[FEAT] freakazoid"
+    {
+        "chi" "freakazoid"
+    }
+
+    "[WEAPON] All Weapon Randomizer"
+    {
+        "chi" "全随机武器"
+    }
+
+    "[GAME] Undertaker"
+    {
+        "chi" "Undertaker"
+    }
+
+    "[FEAT] S1mple"
+    {
+        "chi" "S1mple"
+    }
+
+    "[GAME] Word.exe"
+    {
+        "chi" "Word.exe"
+    }
+
+    "[FEAT] mOE"
+    {
+        "chi" "mOE"
+    }
+
+    "[WEAPON] M4A4"
+    {
+        "chi" "M4A4"
+    }
+
+    "[GAME] All Weapon Randomizer Fight"
+    {
+        "chi" "全武器随机乱斗"
+    }
+
+    "[FEAT] jasonR"
+    {
+        "chi" "jasonR"
+    }
+
+    "[MUSIC] Ween - Ocean Man"
+    {
+        "chi" "BGM: Ween - Ocean Man"
+    }
+
+    "[GAME] Boostmeister"
+    {
+        "chi" "Boostmeister"
+    }
+
+    "[FEAT] olofmeister"
+    {
+        "chi" "olofmeister"
+    }
+
+    "[WEAPON] SSG 08"
+    {
+        "chi" "SSG 08"
+    }
+
+    "[GAME] BunnyHop"
+    {
+        "chi" "连跳"
+    }
+
+    "[WEAPON] USP-S"
+    {
+        "chi" "USP"
+    }
+
+    "[MUSIC] La Caution - The a la Menthe (Instrumental)"
+    {
+        "chi" "BGM: La Caution - The a la Menthe (Instrumental)"
+    }
+
+    "[GAME] Coldzera Style"
+    {
+        "chi" "Coldzera Style"
+    }
+
+    "[WEAPON] CT:AWP & T:Glock-18"
+    {
+        "chi" "CT:AWP & T:Glock"
+    }
+
+    "[GAME] Dinked"
+    {
+        "chi" "迪狗"
+    }
+
+    "[FEAT] NiKo"
+    {
+        "chi" "NiKo"
+    }
+
+    "[WEAPON] Desert Eagle"
+    {
+        "chi" "沙鹰"
+    }
+
+    "[GAME] EDShot Machine"
+    {
+        "chi" "EDShot Machine"
+    }
+
+    "[FEAT] ScreaM"
+    {
+        "chi" "ScreaM"
+    }
+
+    "[WEAPON] AK-47"
+    {
+        "chi" "AK47"
+    }
+
+    "[MUSIC] EDShot Machine (feat. Thorin)"
+    {
+        "chi" "BGM: EDShot Machine (feat. Thorin)"
+    }
+
+    "[MUSIC] AJR - Burn The House Down"
+    {
+        "chi" "BGM: AJR - Burn The House Down"
+    }
+
+    "[MUSIC] Jacob Lee - Demons"
+    {
+        "chi" "BGM: Jacob Lee - Demons"
+    }
+
+    "[MUSIC] Kerli - Savages"
+    {
+        "chi" "BGM: Kerli - Savages"
+    }
+
+    "[MUSIC] Bryce Fox - Horns (STeLOUSE Remix)"
+    {
+        "chi" "BGM: Bryce Fox - Horns (STeLOUSE Remix)"
+    }
+
+    "[MUSIC] LAYTO - Little Poor Me"
+    {
+        "chi" "BGM: LAYTO - Little Poor Me"
+    }
+
+    "[MUSIC] Skan & Krale - No Glory (feat. M.I.M.E & Drama B)"
+    {
+        "chi" "BGM: Skan & Krale - No Glory (feat. M.I.M.E & Drama B)"
+    }
+
+    "[MUSIC] Unlike Pluto ft. Mike Taylor - Everything Black"
+    {
+        "chi" "BGM: Unlike Pluto ft. Mike Taylor - Everything Black"
+    }
+
+    "[MUSIC] Besomorph & Drama B - Stature"
+    {
+        "chi" "BGM: Besomorph & Drama B - Stature"
+    }
+
+    "[MAP] mg_Skilled_or_Lucky_Multigames"
+    {
+        "chi" "mg_Skilled_or_Lucky_Multigames"
+    }
+
+    "[MAP] Made by Dus?K"
+    {
+        "chi" "地图作者: Dus?K"
+    }
+
+    "[SERVER] Revenant Server MiniGame"
+    {
+        "blocked" "1"
+        "chi" "** **"
+    }
+
+    "[GROUP] makesMGgreatAgain"
+    {
+        "blocked" "1"
+        "chi" "作者的组: makesMGgreatAgain"
+    }
+
+    "[AFK] Vote Randomizer 1min"
+    {
+        "chi" "1分钟后自动选图"
+    }
+
+}

@@ -1,0 +1,124 @@
+"Phrases"
+{
+	// ---------- Commands ---------- //
+	"AutobhopEnabled"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"自动跳跃{1}启用{2}."
+	}
+	"AutobhopDisabled"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"自动跳跃{1}已禁用{2}."
+	}
+	"CheatTimerStop"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"{1}计时器已停止! {2}{3}."
+	}
+	"CommandDisabled"
+	{
+		"#format" 	"{1:s},{2:s},{3:s}"
+		"en"		"命令（{1}{2}{3}）被禁用."
+	}
+	"StyleNoAccess"
+	{
+		"#format" 	"{1:s},{2:s}"
+		"en"		"您缺少此模式的{1}权限{2}."
+	}
+	// ---------- Errors ---------- //
+	"VerificationFailed"
+	{
+		"en"		"无法验证您的与服务器或与Steam的连接."
+	}
+	// ---------- Menus ---------- //
+	"StyleMenuTitle"
+	{
+		"en"		"选择一种模式:"
+	}
+	"StyleSelection"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"您已选择游玩{1}{2}{3}."
+	}
+	"StyleUnranked"
+	{
+		"en"		"[未分级]"
+	}
+	// ---------- Misc ---------- //
+	"LeftRightCheat"
+	{
+		"en"		"在不允许的模式上检测到+左/右."
+	}
+	"Inconsistencies"
+	{
+		"en"		"在使用按键时检测到不一致."
+	}
+	"UnrankedWarning"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1}警告：{2}此模式已取消分级。您的时间不会被保存，而且只会显示给您!"
+	}
+	"PracticeModeAlert"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"{1}{你现在正在练习。您的时间不会被保存，而且只会显示给您！"
+	}
+	"SHSWCombination0"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"你的SHSW组合是{1}W/A或者S/D{2}."
+	}
+	"SHSWCombination1"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"你的SHSW组合是{1}W/D或者S/A{2}."
+	}
+	"NewAiraccelerate"
+	{
+		"#format"	"{1:d},{2:s},{3:d},{4:s}"
+		"en"		"你的空气加速度已从{1}更改为{2}{3}{4}."
+	}
+	// ---------- Pauses ---------- //
+	"MessagePause"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"{1}计时器已{2}暂停{3}."
+	}
+	"MessageUnpause"
+	{
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"{1} {2}已恢复计时器}."
+	}
+	"PauseNotOnGround"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"你{1}不在地面时不允许{2}暂停."
+	}
+	"PauseStartZone"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
+		"en"		"{1}您不能{2}在{4}开始区域暂停{5}."
+	}
+	"TimerUnpaused"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"计时器已{1}未暂停{2}."
+	}
+	"TimerPaused"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"计时器已{1}未暂停{2}."
+	}
+	// ---------- Zones ---------- //
+	"StartZoneUndefined"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
+		"en"		"您的定时器{1}不会{2}启动，因为{3}{4}{5}开始区域还没有设置."
+	}
+	"EndZoneUndefined"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"你{1}不能{2}传送，因为地图的终点区域还没有设置."
+	}
+}

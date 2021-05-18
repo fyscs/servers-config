@@ -1,0 +1,420 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "*** Ancient Elculous Defeated ***"
+    {
+        "chi" "***特瓦林战败***"
+    }
+
+    "*** Hand Attack ***"
+    {
+        "chi" "***协助射击***"
+    }
+
+    ">>> Failed <<<"
+    {
+        "chi" ">>>僵尸吃掉了你的脑子<<<"
+    }
+
+    "Special Thanks .YuukiAsuna. Gopa Rulucy Sesame BalG"
+    {
+        "blocked" "1"
+        "chi" "特别感谢:YuukiAsuna  Gopa Rulucy Sesame BalG"
+    }
+
+    "Map by XXPohmian/XXMochi"
+    {
+        "chi" "地图作者:XXPohmianXXMochi 汉化:小鱼干@風雲社"
+    }
+    
+    "Map Fixed by Rulucy (For 93x Server Stripper)"
+	{
+        "blocked" "1"
+		"chi"		"** **"
+	}
+	"Map by XXPohmianXXMochi"
+	{
+		"chi" "地图作者: XXPohmianXXMochi 汉化:小鱼干@風雲社"
+	}
+
+    "Thanks for testing *Domain VasyaPupkin other testers"
+    {
+        "blocked" "1"
+        "chi" "*感谢测试* Domain VasyaPupkin以及其他测试人员"
+    }
+
+    "Ported by isa"
+    {
+        "chi" "地图移植:isa"
+    }
+
+    "***The LeftGate is going to open***"
+    {
+        "chi" "***左边的门要打开了***"
+    }
+
+    "***Hold 25seconds***"
+    {
+        "chi" "***等待25秒***"
+    }
+
+    "***Keep Defending***"
+    {
+        "chi" "***继续防守***"
+    }
+
+    "***The Gate is going to close. Defend***"
+    {
+        "chi" "***大门要关上了,守住***"
+    }
+
+    "*** Moving to NORMAL mode ***"
+    {
+        "chi" "***进入普通模式***"
+    }
+
+    "[Normal Mode]"
+    {
+        "chi" "[普通模式]"
+    }
+
+    "*** Admin Selected NormalMode ***"
+    {
+        "chi" "***二刺猿选择の普通模式***"
+    }
+
+    "*** The LeftGate is unlocked ***"
+    {
+        "chi" "***左边の门解锁***"
+    }
+
+    "[Hard Mode]"
+    {
+        "chi" "[困难模式]"
+    }
+
+    "*** Admin Selected HardMode ***"
+    {
+        "chi" "***二刺猿选择の困难模式***"
+    }
+
+    "*** The RightGate is unlocked ***"
+    {
+        "chi" "***右边の门解锁***"
+    }
+
+    "***The RightGate is going to open***"
+    {
+        "chi" "***右边の门要开了***"
+    }
+
+    "***Hold 30seconds***"
+    {
+        "chi" "***守住30秒***"
+    }
+
+    "***Hold 15seconds***"
+    {
+        "chi" "***守住15秒***"
+    }
+
+    "***The MetalGate is going to break in 20seconds***"
+    {
+        "chi" "***通往二次元的门会在20秒内敞开***"
+    }
+
+    "***Defend more 15seconds***"
+    {
+        "chi" "***再守住15秒***"
+    }
+
+    "***Defend 35seconds***"
+    {
+        "chi" "***再守住35秒***"
+    }
+
+    "***Defend 25seconds***"
+    {
+        "chi" "***再守住25秒***"
+    }
+
+    "***Last Defend***"
+    {
+        "chi" "***最后の防守***"
+    }
+
+    "*** Its getting dark.... ***"
+    {
+        "chi" "***天黑请闭眼***"
+    }
+
+    "[Soul Mode]"
+    {
+        "chi" "[灵魂模式]"
+    }
+
+    "[TheLast Mode]"
+    {
+        "chi" "[末日模式]"
+    }
+
+    "*** Admin Selected ThelastMode ***"
+    {
+        "chi" "***二刺猿选择の末日模式***"
+    }
+
+    "*** Admin Selected SoulMode ***"
+    {
+        "chi" "***二刺猿选择の灵魂模式***"
+    }
+
+    "***You won Normal Mode***"
+    {
+        "chi" "***普通模式通过***"
+    }
+
+    "***You won Hard Mode***"
+    {
+        "chi" "***困难模式通过***"
+    }
+
+    "***Failed***"
+    {
+        "chi" "***僵尸吃掉了你的脑子***"
+    }
+
+    "*** The Gates are going to open ***"
+    {
+        "chi" "***二次元大门马上打开***"
+    }
+
+    "***Defend 20seconds***"
+    {
+        "chi" "***防守20秒***"
+    }
+
+    "***Defend 15seconds***"
+    {
+        "chi" "***防守15秒***"
+    }
+
+    "[Zombies Mode]"
+    {
+        "chi" "ZM模式"
+    }
+
+    "*** Golem Ahglan Defeated ***"
+    {
+        "chi" "***无相之岩被击败***"
+    }
+
+    "***Defend 30seconds***"
+    {
+        "chi" "***防守30秒***"
+    }
+
+    "***You won Soul Mode***"
+    {
+        "chi" "***你通过了灵魂模式***"
+    }
+
+    "*** !? ***"
+    {
+        "chi" "*** !? ***"
+    }
+
+    "***Hold 20seconds***"
+    {
+        "chi" "***守住20秒***"
+    }
+
+    "*** 30 ***"
+    {
+        "chi" "*** 30 ***"
+    }
+
+    "*** 10 ***"
+    {
+        "chi" "*** 10 ***"
+    }
+
+    "*** Open in 10seconds ***"
+    {
+        "chi" "***在10秒内打开***"
+    }
+
+    "*** Open in 20seconds ***"
+    {
+        "chi" "***在20秒内打开***"
+    }
+
+    "*** failed ***"
+    {
+        "chi" "***僵尸吃掉了你的脑子***"
+    }
+
+    "***You won Thelast Mode***"
+    {
+        "chi" "***你通过了末日模式***"
+    }
+
+    "*** The vents are going to open ***"
+    {
+        "chi" "***通风口即将打开***"
+    }
+
+    "*** It going to break ***"
+    {
+        "chi" "***它快要裂开了***"
+    }
+
+    "*** 1 ***"
+    {
+        "chi" "*** 1 ***"
+    }
+
+    "*** 2 ***"
+    {
+        "chi" "*** 2 ***"
+    }
+
+    "*** 3 ***"
+    {
+        "chi" "*** 3 ***"
+    }
+
+    "*** 4 ***"
+    {
+        "chi" "*** 4 ***"
+    }
+
+    "*** 5 ***"
+    {
+        "chi" "*** 5 ***"
+    }
+
+    "*** 10seconds ***"
+    {
+        "chi" "*** 10秒 ***"
+    }
+
+    "*** 100seconds ***"
+    {
+        "chi" "*** 100秒 ***"
+    }
+
+    "*** 50seconds ***"
+    {
+        "chi" "*** 50秒 ***"
+    }
+
+    "***The Last gates will open in 190seconds***"
+    {
+        "chi" "通往二次元的门会在190秒内敞开"
+    }
+
+    "*** 180seconds ***"
+    {
+        "chi" "*** 180秒 ***"
+    }
+
+    "*** Escape ***"
+    {
+        "chi" "***快离开这个鬼地方***"
+    }
+
+    "***You won TheLast Mode***"
+    {
+        "chi" "***你通过了末日模式***"
+    }
+
+    "*** Defend ***"
+    {
+        "chi" "***防守***"
+    }
+
+    "*** Grim Reaper defeated ***"
+    {
+        "chi" "***死神被击败***"
+    }
+
+    "*A player has picked up Ice Magic*"
+    {
+        "chi" "*一名玩家捡起了冰*"
+    }
+
+    "*A player has picked up Fire Magic*"
+    {
+        "chi" "*一名玩家捡起了火*"
+    }
+
+    "*A player has picked up Wind Magic*"
+    {
+        "chi" "*一名玩家捡起了风*"
+    }
+
+    "*A player has picked up Heal Magic*"
+    {
+        "chi" "*一名玩家捡起了奶*"
+    }
+
+    "*** Gravity ***"
+    {
+        "chi" "***万象天引***"
+    }
+
+    "*** Wind ***"
+    {
+        "chi" "***神罗天征***"
+    }
+
+    "*** Double Hands Stamp ***"
+    {
+        "chi" "***捶你小胸口***"
+    }
+
+    "*** Earth Queak ***"
+    {
+        "chi" "***地震***"
+    }
+
+    "*** The Soul was killed ***"
+    {
+        "chi" "***灵魂之心被消灭***"
+    }
+
+    "*** A zombie picked up Heal Magic ***"
+    {
+        "chi" "***僵尸捡起了治疗魔法***"
+    }
+
+    "*** A zombie picked up Warp Magic ***"
+    {
+        "chi" "***僵尸捡起了扭曲魔法***"
+    }
+
+    "< ??? >"
+    {
+        "chi" "< ??? >"
+    }
+
+    "*** A zombie picked up Ice Magic ***"
+    {
+        "chi" "***僵尸捡起了冰冻魔法***"
+    }
+
+    "*A player has picked up Ancient Earth Magic*"
+    {
+        "chi" "*一名玩家捡起了土*"
+    }
+
+    "< Survive in 180 seconds  >"
+    {
+        "chi" "在180秒内存活"
+    }
+
+}

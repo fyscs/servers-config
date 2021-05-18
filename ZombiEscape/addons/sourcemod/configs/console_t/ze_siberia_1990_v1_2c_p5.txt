@@ -7,7 +7,7 @@
 	}
 	"Objective. Find and destroy the source of the outbreak."
 	{
-		"chi"		"**任务:找到并摧毁爆发的源头！ 翻译:Sakura@风云社**"
+		"chi"		"**任务:找到并摧毁爆发的源头! 翻译:Sakura@风云社**"
 	}
 	"Overriding security breach 30 seconds"
 	{
@@ -37,28 +37,28 @@
 	}
 	"Zombie spawns are advancing in 20 seconds"
 	{
-		"chi"		"**僵尸现在被困住20秒！快跑!**"
+		"chi"		"**僵尸现在被困住20秒!快跑!**"
 	}
 	"Reducing steam pressure 10 seconds"
 	{
-		"chi"		"**缓解压力!持续10秒！ **"
+		"chi"		"**缓解压力!持续10秒! **"
 
 	}
 	"Steam pressure at 66%"
 	{
-		"chi"		"**达到66%！ 快去按 2号阀门**"
+		"chi"		"**达到2/3! 快去按 2号阀门**"
 	}
 	"Steam pressure at 33%"
 	{
-		"chi"		"**达到33%！ 快去按 3号阀门**"
+		"chi"		"**达到1/3! 快去按 3号阀门**"
 	}
 	"Steam pressure at 0%"
 	{
-		"chi"		"**达到0%！完成！ 快冲出大门！ **"
+		"chi"		"**快冲出大门! **"
 	}
 	"Zombie spawns advancing in 15 seconds"
 	{
-		"chi"		"**僵尸被困住15秒！快跑!**"
+		"chi"		"**僵尸被困住15秒!快跑!**"
 	}
 	"Dam door opening in 20 seconds"
 	{
@@ -101,7 +101,7 @@
 	}
 	"Arming C4 in 30 seconds"
 	{
-		"chi"		"**安装C4 预计30秒（守住就是胜利）**"
+		"chi"		"**安装C4 预计30秒(守住就是胜利)**"
 
 	}
 	"C4 armed in 10 seconds"
@@ -131,7 +131,7 @@
 	}
 	"Time portal will open in 50 seconds"
 	{
-		"chi"		"**传送门 将在50秒 后启动!（坚持住，支援马上就到）**"
+		"chi"		"**传送门 将在50秒 后启动!(坚持住, 支援马上就到)**"
 
 	}
 	"Zombie spawn advancing in 10 seconds"
@@ -173,7 +173,7 @@
 	}
 	"You have less than 15 seconds to whipe out the remaining infected or face death!"
 	{
-		"chi"		"**你只有不到15秒的时间来抽打剩下的感染者或者面对死亡！ **"
+		"chi"		"**你只有不到15秒的时间来抽打剩下的感染者或者面对死亡! **"
 	}
 	"**stage1**"
 	{
