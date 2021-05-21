@@ -1,0 +1,625 @@
+"Console_T"
+{
+     
+     "*PLEASE OFF NOCLIP IN ADMIN ROOM*"
+     {
+         "chi" "调关房请不要使用穿墙"
+     }
+     
+     "***ADMIN CHOOSES 1 LEVEL***"
+     {
+         "chi" "管理员设置了第一章"
+     }
+     
+     "***ADMIN CHOOSES 2 LEVEL***"
+     {
+         "chi" "管理员设置了第二章"
+     }
+     
+     "***ADMIN CHOOSES 3 LEVEL***"
+     {
+         "chi" "管理员设置了第三章"
+     }
+     
+     "***WAIT PLAYERS***"
+     {
+         "chi" ">>等待玩家进入<<"
+         //WARMUP
+     }
+     
+     "***1 LEVEL WILL START in 45 sec!!!***"
+     {
+         "chi" "第一章将在不久后开始"
+     }
+     
+     "***Map by Limon.***"
+     {
+         "chi" "地图作者:Limon 翻译:xTeruZikk@风云社"
+     }
+     
+     "***WARMUP ROUND***"
+     {
+         "chi" "热身回合"
+     }
+     
+     "***1 LEVEL WILL START in 35 sec!!!***"
+     {
+         "chi" ""
+         "blocked" "1"
+     }
+     
+     "***1 LEVEL WILL START in 25 sec!!!***"
+     {
+         "chi" ""
+         "blocked" "1"
+     }
+     
+     "***1 LEVEL WILL START in 15 sec!!!***"
+     {
+         "chi" ""
+         "blocked" "1"
+     }
+     
+     "***1 LEVEL WILL START in 5 sec!!!***"
+     {
+         "chi" ""
+         "blocked" "1"
+     }
+     
+     "***SPAWN ZONE***"
+     {
+         "chi" "一切的起点"
+     }
+     
+     "***Map by Limon. Thanks for playing***"
+     {
+         "chi" "地图作者:Limon 翻译:xTeruZikk@风云社 感谢各位游玩"
+     }
+     
+     "*GAME WILL START in 15 sec! GL HF*"
+     {
+         "chi" "冒险将在15秒后开始,祝你好运"
+     }
+     
+     "*Teleporting zombies to Zombie Room in 7 sec*"
+     {
+         "chi" "僵尸在7秒后传送到僵尸房"
+     }
+     
+     "***Go to middle-earth map to start playing***"
+     {
+         "chi" "进入中土世界开始冒险吧"
+     }
+     
+     "***LVL1 ROAD TO ISENGARD***"
+     {
+         "chi" "第一章: 前往艾辛格"
+     }
+     
+     "**Teleporting AFK's to cave in 30sec**"
+     {
+         "chi" "AFK玩家在30秒后传送到洞窟"
+     }
+     
+     "***LOOK OUT FOR SPIDER TRAPS!!***"
+     {
+         "chi" "小心蜘蛛的陷阱!!"
+     }
+     
+     "**Random**"
+     {
+         "chi" ">>随机路线<<"
+     }
+     
+     "**RESIST 15 SECONDS**"
+     {
+         "chi" "守住!还有15秒"
+         //L1 LEFT
+     }
+     
+     "**Resist 30s!**"
+     {
+         "chi" "守住!还有30秒"
+     }
+     
+     "**Resist 20s!**"
+     {
+         "chi" "守住!还有20秒"
+         //L1 RIGHT
+     }
+     
+     "**GO**"
+     {
+         "chi" "继续前进!!"
+     }
+     
+     "*If you wont kill spider in 2 min zombies will eat you*"
+     {
+         "chi" "两分钟内杀不死蜘蛛它就会吃了你"
+     }
+     
+     "**KILL the SPIDER NOW***"
+     {
+         "chi" "快杀了它!!"
+     }
+     
+     "**Shoot in the head!**"
+     {
+         "chi" "打它的头!!"
+     }
+     
+     "***SPIDER is dead.***"
+     {
+         "chi" "蜘蛛死了."
+     }
+     
+     "***GO UPSTAIRS***"
+     {
+         "chi" "快爬上去"
+     }
+     
+     "***ZOMBIE PUSH IS DISABLED***"
+     {
+         "chi" "僵尸阻力已消失"
+     }
+     
+     "**HOLD 25 SEC**"
+     {
+         "chi" "守住这25秒"
+     }
+     
+     "**GO GO GO**"
+     {
+         "chi" "继续前进!!"
+     }
+     
+     "***HOLD 20 SEC!!!***"
+     {
+         "chi" "守住!还有20秒"
+     }
+     
+     "***Teleporting Zombies and AFK's in 6 sec!!***"
+     {
+         "chi" "僵尸及AFK玩家将在6秒后传送!!"
+     }
+     
+     "**Defend this building for 50 sec**"
+     {
+         "chi" "守住这个小屋50秒!!"
+     }
+     
+     "***Stairs will break in 10 sec***"
+     {
+         "chi" "楼梯在10秒后损坏"
+     }
+     
+     "**Mass teleport zombies in 15 seconds***"
+     {
+         "chi" "大量僵尸将在15秒后传送"
+     }
+     
+     "***Get to the boats NOW***"
+     {
+         "chi" "快去后面的船上!!"
+     }
+     
+     "***5***"
+     {
+         "chi" "还有5秒"
+     }
+     
+     "***4***"
+     {
+         "chi" ""
+         "blocked" "1"
+     }
+     
+     "***3***"
+     {
+         "chi" ""
+         "blocked" "1"
+     }
+     
+     "***2***"
+     {
+         "chi" ""
+         "blocked" "1"
+     }
+     
+     "***1***"
+     {
+         "chi" ""
+         "blocked" "1"
+     }
+     
+     "***KILL NAZGUL***"
+     {
+         "chi" "杀死前方的戒灵"
+     }
+     
+     "***NAZGUL IS DEAD***"
+     {
+         "chi" "戒灵被杀死了"
+     }
+     
+     "***LVL 1 COMPLETED***"
+     {
+         "chi" "第一章已完成"
+     }
+     
+     "***NUKE IN 2 SEC!!***"
+     {
+         "chi" "将在2秒后结束"
+     }
+     
+     "***NUKE IN 1 SEC!!***"
+     {
+         "chi" ""
+         "blocked" "1"
+     }
+     
+     "***LVL2 ISENGARD***"
+     {
+         "chi" "第二章: 艾辛格"
+     }
+     
+     "**Teleporting AFK's to forest in 30sec**"
+     {
+         "chi" "AFK玩家在30秒后传送到丛林"
+     }
+     
+     "***RANDOM SIDE IN 10 SEC***"
+     {
+         "chi" "十秒后随机选择前进路线"
+     }
+     
+     "***Everyone move left***"
+     {
+         "chi" "所有人去左边的路!!"
+         // L2 LEFT
+     }
+     
+     "***Activate the lever***"
+     {
+         "chi" "去启动杠杆!!"
+     }
+     
+     "***Elevator is going up***"
+     {
+         "chi" "升降机上来了"
+     }
+     
+     "**Zombie push will disable in 5 sec**"
+     {
+         "chi" "僵尸阻力5秒后消失"
+     }
+     
+     "**Teleporting AFK's to wall in 20 sec**"
+     {
+         "chi" "AFK玩家在20秒后传送到城墙"
+     }
+     
+     "***GO GO***"
+     {
+         "chi" "继续前进!!"
+     }
+     
+     "***HOLD 30 SEC***"
+     {
+         "chi" "守住! 还有30秒"
+     }
+     
+     "***HOLD 15 sec!!!***"
+     {
+         "chi" "守住这15秒!!!"
+     }
+     
+     "***GO GO GO***"
+     {
+         "chi" "继续前进!!"
+     }
+     
+     "**Prepare to fight**"
+     {
+         "chi" "准备战斗!!"
+     }
+     
+     "***Teleporting to boss in 10 sec!!!***"
+     {
+         "chi" "10秒后启动传送!!!"
+     }
+     
+     "***Humans will die when music ends***"
+     {
+         "chi" "战歌结束时便是你的死期!!"
+     }
+     
+     "***Teleporting Humans to the Dam in 5 sec!***"
+     {
+         "chi" "人类5秒后传送到堤坝"
+     }
+     
+     "***Teleporting Zombies and AFK's to the Dam in 10 sec***"
+     {
+         "chi" "僵尸及AFK玩家10秒后传送到堤坝"
+     }
+     
+     "***Destroy DAM***"
+     {
+         "chi" ">>毁掉堤坝<<"
+     }
+     
+     "*Mass zombie teleport after elevator activation*"
+     {
+         "chi" "大量僵尸将在升降机启动后传送"
+     }
+     
+     "***Elevator will go up in 20 sec***"
+     {
+         "chi" "升降机20秒后上升"
+     }
+     
+     "***Elevator will go up in 5 sec***"
+     {
+         "chi" "升降机五秒后上升"
+         //L2,L3电梯倒计时
+     }
+     
+     "**GO HUMANS**"
+     {
+         "chi" "前进吧勇敢的人类!"
+     }
+     
+     "**DESTROY All STANCHIONS!**"
+     {
+         "chi" "毁掉全部的支柱!!"
+     }
+     
+     "***Stanchion 1/2 was broken***"
+     {
+         "chi" "支柱一已破坏"
+     }
+     
+     "***Stanchion 2/2 was broken***"
+     {
+         "chi" "支柱二已破坏"
+     }
+     
+     "**Water is coming Run down**"
+     {
+         "chi" "洪水就要来了!!"
+     }
+     
+     "**Zombie ladder is enabled**"
+     {
+         "chi" "僵尸近路梯子已开放"
+     }
+     
+     " ***RUN RUN FAST***"
+     {
+         "chi" "快跑!!"
+     }
+     
+     "**DEFEND HERE**"
+     {
+         "chi" "守住这里!!"
+     }
+     
+     "**HOLD 90 SEC**"
+     {
+         "chi" "守住!还有90秒"
+     }
+     
+     "**Wait for water flow**"
+     {
+         "chi" "等待水流冲跨这一切"
+     }
+     
+     "***Jump on the rocks***"
+     {
+         "chi" "快到巨石上去躲避洪水!!"
+     }
+     
+     "***LVL 2 COMPLETED***"
+     {
+         "chi" "第二章已完成"
+     }
+     
+     "***Everyone move right***"
+     {
+         "chi" "所有人去右边的路!!"
+         //L2 RIGHT
+     }
+     
+     "***Elevator in 30 sec***"
+     {
+         "chi" "升降机30秒后启动"
+     }
+     
+     "***HOLD 20 sec***"
+     {
+         "chi" "守住!还有20秒"
+     }
+     
+     "**GO UP ON LADDER**"
+     {
+         "chi" "快爬上梯子!!"
+     }
+     
+     "***Elevator will go up in 10 sec***"
+     {
+         "chi" "升降机10秒后上升"
+     }
+     
+     "***HOLD 15 SEC***"
+     {
+         "chi" "守住!还有15秒"
+     }
+     
+     "***GO***"
+     {
+         "chi" "继续前进!!"
+     }
+     
+     "***Teleporting AFK's Portal Enable in 10 sec!!***"
+     {
+         "chi" "AFK玩家传送10秒后启动!!"
+     }
+     
+     "**Defend people which destroy dam**"
+     {
+         "chi" "帮破环堤坝的人守住僵尸!!"
+     }
+     
+     "**Meanwhile.......**"
+     {
+         "chi" "与此同时....."
+     }
+     
+     "**Mass teleport Zombies and AFK's in 10 sec!!**"
+     {
+         "chi" "僵尸与AFK玩家10秒后传送"
+     }
+     
+     "***GO UP ON LADDER***"
+     {
+         "chi" "快爬上梯子"
+         //L2 FINISH
+     }
+     
+     "***LVL3 SARUMAN TOWER***"
+     {
+         "chi" "最终章: 萨鲁曼高塔"
+     }
+     
+     "**Teleporting AFK's to Saruman tower in 35sec**"
+     {
+         "chi" "AFK玩家在35秒后传送到萨鲁曼高塔"
+     }
+     
+     "***LEFT DOOR OPEN IN 10 SEC***"
+     {
+         "chi" "左边的门10秒后打开"
+     }
+     
+     "***HOLD***"
+     {
+         "chi" "守住!!"
+     }
+     
+     "***LEFT DOOR OPEN. NEED KEY FOR RIGHT DOOR***"
+     {
+         "chi" "左边的门打开了.需要找到右边门的钥匙"
+     }
+     
+     "***Key is found. Door open in 5 sec***"
+     {
+         "chi" "钥匙找到了,右门5秒后打开"
+     }
+     
+     "***ZOMBIES TELEPORT IN 5 SEC!***"
+     {
+         "chi" "僵尸5秒后传送"
+     }
+     
+     "***NEED KEY***"
+     {
+         "chi" "需要钥匙"
+     }
+     
+     "***Find key in the room***"
+     {
+         "chi" "在这房间里找到钥匙!"
+     }
+     
+     "***Key is found. Door open in 10 sec***"
+     {
+         "chi" "找到了.门10秒后打开"
+     }
+     
+     "***TELEPORT IN 5 SEC!***"
+     {
+         "chi" "5秒后传送"
+     }
+     
+     "**It is Grima!!! KILL HIM!**"
+     {
+         "chi" "是葛力马!!快杀了他!"
+     }
+     
+     "***GRIMA IS DEAD***"
+     {
+         "chi" "葛力马已死"
+     }
+     
+     "***Teleporting AFK's in 10 sec!!***"
+     {
+         "chi" "AFK玩家10秒后传送!!"
+     }
+     
+     "***Get ready for the final battle***"
+     {
+         "chi" "准备好面对最后的战斗吧!"
+         // prepare to meet your end
+     }
+     
+     "***Exit will close in 15 seconds***"
+     {
+         "chi" "通道15秒后关闭,快上来"
+     }
+     
+     "*** 100 HP restored ***"
+     {
+         "chi" "重置HP"
+     }
+     
+     "***SARUMAN is dead.***"
+     {
+         "chi" "萨鲁曼已死!!"
+     }
+     
+     "**>>Congratulations<<**"
+     {
+         "chi" ">>恭喜!勇士们<<"
+     }
+     
+     "***RUN TO THE MAIN GATE***"
+     {
+         "chi" "快撤退到大门那里去"
+     }
+     
+     "**LEVEL 3 COMPLETED**"
+     {
+         "chi" "最终章已完成"
+     }
+     
+     "**NUKE in 5**"
+     {
+         "chi" "将在5秒后结束"
+     }
+     
+     "**NUKE in 4**"
+     {
+         "chi" ""
+         "blocked" "1"
+     }
+     
+     "**NUKE in 3**"
+     {
+         "chi" ""
+         "blocked" "1"
+     }
+     
+     "**NUKE in 2**"
+     {
+         "chi" ""
+         "blocked" "1"
+     }
+     
+     "**NUKE in 1**"
+     {
+         "chi" ""
+         "blocked" "1"
+     }
+     
+}
