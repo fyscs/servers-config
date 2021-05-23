@@ -9,6 +9,7 @@
 	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
 	{
 		"chi"		"**岩石5秒后碎裂**"
+		"blocked" "1"
 	}
 	"***FALL BACK***"
 	{
@@ -93,6 +94,7 @@
 	"***STEELWORKS DOOR WILL OPEN IN 5 SECONDS***"
 	{
 		"chi"		"**铁门5秒后打开**"
+		"blocked" "1"
 	}
 	"***STEELWORKS DOOR IS OPENING***"
 	{
@@ -126,6 +128,7 @@
 	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 5 SECONDS***"
 	{
 		"chi"		"**门5秒后打开**"
+		"blocked" "1"
 	}
 	"***SELF-DESTRUCT SEQUENCE HAS BEEN INITIATED***"
 	{
@@ -138,6 +141,7 @@
 	"***LASER SHUTDOWN IN 5 SECONDS***"
 	{
 		"chi"		"**还有5秒**"
+		"blocked" "1"
 	}
 	"***ESCAPE THE BEAVER STEELWORKS FACILITY***"
 	{
@@ -155,7 +159,6 @@
 	"***ELEVATOR OPENS IN 15 SECONDS***"
 	{
 		"chi"		"**电梯还有15秒启动**"
-
 	}
 	"***ELEVATOR DOOR IS OPEN***"
 	{
@@ -172,6 +175,7 @@
 	"***FINAL ELEVATOR DOOR WILL CLOSE IN 5 SECONDS***"
 	{
 		"chi"		"**还有5秒**"
+		"blocked" "1"
 	}
 	"***FINAL ELEVATOR DOOR IS CLOSING***"
 	{
@@ -196,6 +200,7 @@
 	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
 		"chi"		"**第二个电梯5秒后离开**"
+		"blocked" "1"
 	}
 	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING***"
 	{
@@ -301,6 +306,7 @@
 	"***SANTA FACTORY DOOR IS OPENING IN 5 SECONDS***"
 	{
 		"chi"		"**工厂门5秒后打开**"
+		"blocked" "1"
 	}
 	"***SANTA FACTORY DOOR IS OPENING***"
 	{
@@ -384,7 +390,7 @@
 	}
 	"***THE MEXISLED WOULD PREFER YOU TO CALL IT -THE BURRITO SHITTER-***"
 	{
-		"chi"		"**墨西哥人民更希望你称之为--墨西哥煎饼**"
+		"chi"		"**墨西哥人民更希望你称之为--墨西哥卷饼**"
 	}
 	"***PLEASE COMPLY TO THIS REQUEST OR YOUR CLUB PENGUIN ACCOUNT WILL BE DISABLED***"
 	{
@@ -422,22 +428,27 @@
 	"***FACTORY DOOR OPENS IN 5 SECONDS***"
 	{
 		"chi"		"**工厂门5秒后打开**"
+		"blocked" "1"
 	}
 	"***FACTORY DOOR OPENS IN 4 SECONDS***"
 	{
 		"chi"		"**工厂门4秒后打开**"
+		"blocked" "1"
 	}
 	"***FACTORY DOOR OPENS IN 3 SECONDS***"
 	{
 		"chi"		"**工厂门3秒后打开**"
+		"blocked" "1"
 	}
 	"***FACTORY DOOR OPENS IN 2 SECONDS***"
 	{
 		"chi"		"**工厂门2秒后打开**"
+		"blocked" "1"
 	}
 	"***FACTORY DOOR OPENS IN 1 SECOND***"
 	{
 		"chi"		"**工厂门1秒后打开**"
+		"blocked" "1"
 	}
 	"***OPENING DOORS IN 10 SECONDS***"
 	{
@@ -447,6 +458,7 @@
 	"***OPENING DOORS IN 5 SECONDS***"
 	{
 		"chi"		"**5秒后开门**"
+		"blocked" "1"
 	}
 	"***OPENING DOORS***"
 	{
@@ -472,6 +484,7 @@
 	"***SEXY VENT GATE IS OPENING IN 5 SECONDS***"
 	{
 		"chi"		"**还有5秒**"
+		"blocked" "1"
 	}
 	"***SEXY VENT GATE IS OPENING***"
 	{
@@ -538,6 +551,7 @@
 	"***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***"
 	{
 		"chi"		"**桥上的出口5秒后打开**"
+		"blocked" "1"
 	}
 	"***BRIDGE EXIT GATE IS OPENING***"
 	{
@@ -701,18 +715,22 @@
 	"***SANTA'S DOOR IS CLOSING IN 4 SECONDS***"
 	{
 		"chi"		"**门4秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 3 SECONDS***"
 	{
 		"chi"		"**门3秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 2 SECONDS***"
 	{
 		"chi"		"**门2秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 1 SECONDS***"
 	{
 		"chi"		"**门1秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTA'S DOOR IS CLOSING***"
 	{
@@ -733,7 +751,6 @@
 	"***UPPER TOWER DOOR IS OPENING IN 20 SECONDS***"
 	{
 		"chi"		"**上面的塔门20秒后打开**"
-
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 50 SECONDS***"
 	{
@@ -746,14 +763,17 @@
 	"***THE FINAL ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
 		"chi"		"**最后的电梯20秒后上升**"
+		"blocked" "1"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 10 SECONDS***"
 	{
 		"chi"		"**最后的电梯10秒后上升**"
+		"blocked" "1"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
 		"chi"		"**最后的电梯5秒后上升**"
+		"blocked" "1"
 	}
 	"***THE FINAL ELEVATOR IS LEAVING***"
 	{
@@ -766,6 +786,7 @@
 	"***FINAL GATE IS CLOSING IN 5 SECONDS***"
 	{
 		"chi"		"**最后的大门5秒后关闭**"
+		"blocked" "1"
 	}
 	"***FINAL GATE IS CLOSING***"
 	{
@@ -964,18 +985,22 @@
 	"***SANTAS DOOR IS CLOSING IN 4 SECONDS***"
 	{
 		"chi"		"**门4秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTAS DOOR IS CLOSING IN 3 SECONDS***"
 	{
 		"chi"		"**门3秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTAS DOOR IS CLOSING IN 2 SECONDS***"
 	{
 		"chi"		"**门2秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTAS DOOR IS CLOSING IN 1 SECONDS***"
 	{
 		"chi"		"**门1秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTAS DOOR IS CLOSING***"
 	{
@@ -992,6 +1017,7 @@
 	"***SOCRATES IS JUDGING YOU***"
 	{
 		"chi"		"**灼眼尊者在评判你**"
+		"countdown" "30"
 	}
 	"***SOCRATES HAS TO CLEANSE YOU***"
 	{
@@ -1008,6 +1034,7 @@
 	"***SOCRATES PONDERS***"
 	{
 		"chi"		"**灼眼尊者在思考**"
+		"countdown" "30"
 	}
 	"***SOCRATES CRIES***"
 	{
@@ -1023,11 +1050,12 @@
 	}
 	"***THE TRUE TRAM IS LEAVING IN 30 SECONDS***"
 	{
-		"chi"		"**电车30秒后离开**"
+		"chi"		"**真理电车30秒后离开**"
 	}
 	"***THE TRUE TRAM IS LEAVING IN 5 SECONDS***"
 	{
 		"chi"		"**电车5秒后离开**"
+		"blocked" "1"
 	}
 	"***THE TRUE TRAM IS LEAVING***"
 	{
@@ -1063,19 +1091,21 @@
 	}
 	"***THE TRUE ELEVATOR IS LEAVING IN 30 SECONDS***"
 	{
-		"chi"		"**电梯30秒后离开**"
+		"chi"		"**真理电梯30秒后离开**"
 	}
 	"***THE TRUE ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
 		"chi"		"**电梯5秒后离开**"
+		"blocked" "1"
 	}
 	"***THE TRUE ELEVATOR IS LEAVING***"
 	{
-		"chi"		"**电梯离开**"
+		"chi"		"**真理电梯离开**"
 	}
 	"***SOCRATES WISHES SILENTLY***"
 	{
 		"chi"		"**灼眼尊者在祈祷**"
+		"countdown" "40"
 	}
 	"***SOCRATES FEELS YOU***"
 	{
@@ -1087,7 +1117,7 @@
 	}
 	"***SOCRATES PLAYS NINTENDO 64***"
 	{
-		"chi"		"**灼眼尊者玩任天堂**"
+		"chi"		"**灼眼尊者玩任天堂64**"
 	}
 	"***SOCRATES REGRETS YOUR DEEDS***"
 	{
@@ -1096,6 +1126,7 @@
 	"***SOCRATES CARES FOR NO MAN***"
 	{
 		"chi"		"**灼眼尊者不关心人**"
+		"countdown" "50"
 	}
 	"***SOCRATES IS***"
 	{
@@ -1112,6 +1143,7 @@
 	"***SOCRATES IS ALL***"
 	{
 		"chi"		"**灼眼尊者就是所有**"
+		"countdown" "40"
 	}
 	"***SOCRATES IS NOTHING***"
 	{
@@ -1132,6 +1164,7 @@
 	"***SOCRATES CANNOT KEEP***"
 	{
 		"chi"		"**灼眼尊者不能维持意识**"
+		"countdown" "20"
 	}
 	"***SOCRATES RUMBLES YOUR WILL***"
 	{
@@ -1144,6 +1177,7 @@
 	"***SOCRATES WILL ARRIVE***"
 	{
 		"chi"		"**灼眼尊者会来的**"
+		"countdown" "20"
 	}
 	"***SOCRATES WILL CLEANSE***"
 	{
@@ -1156,6 +1190,7 @@
 	"***SOCRATES IS NEAR***"
 	{
 		"chi"		"**灼眼尊者接近了**"
+		"countdown" "20"
 	}
 	"***SOCRATES WELCOMES YOU***"
 	{
