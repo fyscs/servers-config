@@ -143,12 +143,14 @@
 
     "*** HOLY ***"
     {
-        "chi" "**神圣之力 25**"
+        "chi" "**神圣之力**"
+		"countdown" "25"
     }
 
     "*** CURAGA ***"
     {
-        "chi" "**超级治疗 30**"
+        "chi" "**超级治疗**"
+		"countdown" "30"
     }
 
     "*** STAGE FAILED ***"
