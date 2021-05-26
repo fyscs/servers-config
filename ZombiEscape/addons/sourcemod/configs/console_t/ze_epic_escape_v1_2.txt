@@ -1,23 +1,175 @@
 "Console_T"
 {
+
 	"** Welcome **"
-	{
-		"chi"		"** **"
-	}
-	"*** Level 1 ***"
-	{
-		"chi"		"** **"
-	}
-	"** Hope u like this one, enjoy **"
-	{
-		"chi"		"** **"
-	}
-	"** Defend the cristal **"
-	{
-		"chi"		"** **"
-	}
-	"** If the zombies touch the cristal we all gonna die **"
-	{
-		"chi"		"** **"
-	}
+     {
+         "chi"  "欢迎你的到来"
+     }
+
+	 "*** Level 1 ***"
+     {
+         "chi"  "关卡一"
+     }
+
+	 "** Hope u like this one, enjoy **"
+     {
+         "chi"  "希望你能喜欢这张地图,好好享受吧"
+     }
+
+	 "** Defend the cristal **"
+     {
+         "chi"  "守住传送水晶"
+     }
+
+	 "** Teleport will enable in 30 sec **"
+     {
+         "chi"  "传送将在30秒后启动"
+     }
+
+	 "** If the zombies touch the cristal we all gonna die **"
+     {
+         "chi"  "如果僵尸碰到水晶我们就完蛋了"
+     }
+
+	 "** 5 sec **"
+     {
+         "chi"  ""
+		 "blocked" "1"
+     }
+
+	 "** Defend **"
+     {
+         "chi"  "守住这里,不要在贴门啦"
+     }
+	 
+	 "** Someone need to jump in side the rotating circle **"
+     {
+         "chi"  "需要有人跳进那个旋转的圆框里"
+     }
+
+	 "** Door will open in 30 sec **"
+     {
+         "chi"  "这扇门30秒后打开"
+     }
+
+	 "** FALL BACK **"
+     {
+         "chi"  "是时候撤退了"
+     }
+
+	 "** Elevator start moving in 25sec **"
+     {
+         "chi"  "升降机25秒后启动"
+     }
+
+	 "** elevator will start after 20sec **"
+     {
+         "chi"  "升降机20秒后启动"
+     }
+
+	 "** 10 sec more **"
+     {
+         "chi"  "坚持一下,还有10秒"
+     }
+
+	 "** Defend for 40 sec **"
+     {
+         "chi"  "守住!还有40秒"
+     }
+
+	 "** Don't let the zombies touch the cristal **"
+     {
+         "chi"  "不要让僵尸碰到水晶!!"
+     }
+
+	 "** 20 sec **"
+     {
+         "chi"  "还有20秒"
+     }
+
+	 "** nuke in 5 **"
+     {
+         "chi"  "5秒后结束"
+     }
+
+	 "** 4 **"
+     {
+         "chi"  ""
+	 "blocked" "1"
+     }
+
+	 "** 3 **"
+     {
+         "chi"  ""
+	 "blocked" "1"
+     }
+
+	 "** 2 **"
+     {
+         "chi"  ""
+	 "blocked" "1"
+     }
+
+	 "** 1 **"
+     {
+         "chi"  ""
+	 "blocked" "1"
+     }
+
+	 "*** Level 2 ***"
+     {
+         "chi"  "关卡二"
+     }
+
+	 "** Door will open after 30 sec **"
+     {
+         "chi"  "这扇门30秒后打开"
+     }
+
+	 "** Door open after 30 sec **"
+     {
+         "chi"  "门30秒后打开"
+     }
+
+	 "** 10sec **"
+     {
+         "chi"  ""
+	 "blocked" "1"
+     }
+
+	 "** Shoot the glass on the top **"
+     {
+         "chi"  "打碎顶端的所有玻璃方块"
+     }
+
+	 "** Defend until all the glasses broke **"
+     {
+         "chi"  "守住!方块一定要全部破坏掉"
+     }
+
+	 "** Teleport will enable after 30sec **"
+     {
+         "chi"  "30秒后启动传送"
+     }
+
+	 "** Door will open after 15sec **"
+     {
+         "chi"  "这扇门15秒后打开"
+     }
+
+	 "** Defend 30sec **"
+     {
+         "chi"  "守住!还有30秒"
+     }
+
+	 "** Jump **"
+     {
+         "chi"  "跳下去!不会有人对不准吧!"
+     }
+
+	 "** Don't jump **"
+     {
+         "chi"  "不要急着跳过去,有跳刀!"
+     }
+
 }
