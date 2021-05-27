@@ -233,6 +233,7 @@
 	"**RAGE MODE**"
 	{
 		"chi"		"**难度: RAGE**"
+		"command" "sm_cvar sm_farter_enabled 1"
 	}
 	"**Cover here for 10 seconds before we clear this obstacle**"
 	{
@@ -317,6 +318,7 @@
 	"**We got the power. The gates will open in 15 seconds**"
 	{
 		"chi"		"**应急能源已启动.守住15秒直到逃离神罗基地的大门打开**"
+		"command" "sm_cvar sm_farter_enabled 0"
 	}
 	"** Nades do more damage. **"
 	{
@@ -337,6 +339,7 @@
 	"**You have beaten Cosmo Canyon!! Congratulations !! **"
 	{
 		"chi"		"**你征服了宇宙峡谷!恭喜你**"
+		"command" "sm_cvar sm_farter_enabled 1"
 	}
 	"[Cloud] Nice job! I hope that we are done with them for once and for all. The next stop is Cosmo Canyon.."
 	{
