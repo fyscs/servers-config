@@ -1,0 +1,953 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "***Player Has Picked Up Goblin***"
+    {
+        "chi" "**有探险者拾取了地精 **"
+    }
+
+    "***Player Has Picked Up Holy Cross***"
+    {
+        "chi" "**有探险者拾拾取了神圣十字架 **"
+    }
+
+    "***test***"
+    {
+        "chi" "**测试 **"
+    }
+
+    "***Player Has Picked Up Bow***"
+    {
+        "chi" "**有探险者拾转职了成了弓箭手 **"
+    }
+
+    "***Player Has Picked Up Holy Water***"
+    {
+        "chi" "**有探险者拾捡起了圣水 **"
+    }
+
+    "***We Should Look Around This Cemetery For a Cure***"
+    {
+        "chi" "**墓地周围可能有消除诅咒的办法,去找找 **"
+    }
+
+    "***Damn Dracula's Poisoning Hasn't Worn Off***"
+    {
+        "chi" "**该死的德古拉,怎么他下的毒药还没消失! **"
+    }
+
+    "***[Marry] Use This Explosive to Clear the Way***"
+    {
+        "chi" "**Marry:用炸药炸开这条路 **"
+    }
+
+    "***[Marry] Help Him Escape From This Place***"
+    {
+        "chi" "**Marry:我们得帮助他逃离这个宫殿 **"
+    }
+
+    "***[Marry] Please Help Me Find Harry... He is in The Garden***"
+    {
+        "chi" "**Marry:请帮我找到Harry...他在花园里生死未卜... **"
+    }
+
+    "***[Marry] I am Marry... The Wife of That Vampire***"
+    {
+        "chi" "**Marry:诸位勇士好,我是吸血鬼的妻子Marry **"
+    }
+
+    "***[Marry] Thank You For Saving Me***"
+    {
+        "chi" "**Marry:感谢你们救了我一条命 **"
+    }
+
+    "***[Marry] I Bid You Farewell***"
+    {
+        "chi" "**Marry:诸位有缘再见! **"
+    }
+
+    "***I Got A Bad Feeling About This***"
+    {
+        "chi" "**我怎么突然有一种不好的预感... **"
+    }
+
+    "***Why Are The Gears Not Working?***"
+    {
+        "chi" "**为什么齿轮停止转动了??? **"
+    }
+
+    "***The Ship Wont Hold Much Longer***"
+    {
+        "chi" "**这艘船撑不了多久了,赶紧跑! **"
+    }
+
+    "***Brace YourSelf***"
+    {
+        "chi" "**振作起来,不要在这里垂头丧气! **"
+    }
+
+    "***The Water is Rising Get Back***"
+    {
+        "chi" "**水面开始上涨了! **"
+    }
+
+    "***Wait For Something To Happen***"
+    {
+        "chi" "**我有预感有什么要发生了 **"
+    }
+
+    "***AFK Tp in 10 Seconds***"
+    {
+        "chi" "**在10秒后传送挂机玩家 **"
+    }
+
+    "***Make Your Way Through The Forest***"
+    {
+        "chi" "**你得凭借你自己的力量找到走出森林的路! **"
+    }
+
+    "***The Crest Has Been Broken***"
+    {
+        "chi" "**纹章居然裂开了! **"
+    }
+
+    "***A Key Has Been Obtained***"
+    {
+        "chi" "**我们已经找到了密钥! **"
+    }
+
+    "***The Main Deck Will Open in 10 Seconds***"
+    {
+        "chi" "**主甲板的大门10秒后打开 **"
+    }
+
+    "***Run***"
+    {
+        "chi" "**快跑! **"
+    }
+
+    "***Stage I - Foggy Lake***"
+    {
+        "chi" "**第一章-迷雾之湖 **"
+    }
+
+    "***Stage II - Forest of Silence***"
+    {
+        "chi" "**第二章-缄默之森 **"
+    }
+
+    "***WarmUp***"
+    {
+        "chi" "**热身 **"
+    }
+
+    "***Stage V - Underground Waterway***"
+    {
+        "chi" "**第五章-地下水城 **"
+    }
+
+    "***Tip - The Water is Badly Polluted Stay Out of it***"
+    {
+        "chi" "**提示-别靠近那些被污染的水域,除非你想死! **"
+    }
+
+    "***Stage III - Castle Wall***"
+    {
+        "chi" "**第三章-堡垒 **"
+    }
+
+    "***Stage IV - Villa***"
+    {
+        "chi" "**第四章-恶魔城府邸 **"
+    }
+
+    "***Stage VI - Underground Tunnel***"
+    {
+        "chi" "**第六章-地下迷城 **"
+    }
+
+    "***Stage VII - Castle Center***"
+    {
+        "chi" "**第七章-恶魔城中心 **"
+    }
+
+    "***Admin Changed To Stage I***"
+    {
+        "chi" "**管理选择了第一关 **"
+    }
+
+    "***Admin Changed To Stage II***"
+    {
+        "chi" "**管理选择了第二关 **"
+    }
+
+    "***Admin Pressed Kill All Button***"
+    {
+        "chi" "**管理选择了第三关 **"
+    }
+
+    "***Village Gate Opening in 25 Seconds***"
+    {
+        "chi" "**村子的大门在25秒后打开 **"
+    }
+
+    "***Something is Coming......***"
+    {
+        "chi" "**我感觉到有什么东西要来了... **"
+    }
+
+    "***Looks Like we Made It To The Castles Outer Wall***"
+    {
+        "chi" "**看来我们已经到了城堡的外墙了 **"
+    }
+
+    "***Gates Will Close in 10 Seconds***"
+    {
+        "chi" "**门在10秒后关上 **"
+    }
+
+    "***Its The Giant Skeleton!***"
+    {
+        "chi" "**是亡灵骸骨巨人! **"
+    }
+
+    "***The Fountain Gates Will Open in 15 Seconds***"
+    {
+        "chi" "**喷泉的大门在15秒后打开 **"
+    }
+
+    "***Fall Back***"
+    {
+        "chi" "**撤退! **"
+    }
+
+    "***A Lever Was Pressed***"
+    {
+        "chi" "**一个拉杆拉下 **"
+    }
+
+    "***The Gates Will Open in 25 Seconds***"
+    {
+        "chi" "**门在25秒后打开 **"
+    }
+
+    "***Kill The Remaining Zombies***"
+    {
+        "chi" "**杀掉剩余的丧尸 **"
+    }
+
+    "***A Door is Blocking Our Way***"
+    {
+        "chi" "**这道门挡着我们前进了! **"
+    }
+
+    "***Maybe Shooting The Crest Will Open It***"
+    {
+        "chi" "**或许我们可以打爆这扇门上的纹章 **"
+    }
+
+    "***The Fountain Gate Is Locked***"
+    {
+        "chi" "**喷泉大门被锁住了 **"
+    }
+
+    "***We Need To Find A Way To Open it***"
+    {
+        "chi" "**我们得想一个办法去打开它 **"
+    }
+
+    "***Stage Complete***"
+    {
+        "chi" "**章节完成 **"
+    }
+
+    "***Moving On To Stage II***"
+    {
+        "chi" "**接下来到第二章 **"
+    }
+
+    "***The Gate is Locked***"
+    {
+        "chi" "**这个门被锁住了 **"
+    }
+
+    "***Find A Way To Open it***"
+    {
+        "chi" "**得想个办法打开它 **"
+    }
+
+    "***Game Will Start in 15 Seconds***"
+    {
+        "chi" "**大门将会在15秒后打开 **"
+    }
+
+    "***Level initializing***"
+    {
+        "chi" "**关卡重置 **"
+    }
+
+    "***Teleporting Zombies To Safe Room***"
+    {
+        "chi" "**僵尸被传送到小黑屋 **"
+    }
+
+    "***Map By Saddong***"
+    {
+        "chi" "**地图作者:Saddong 汉化:Ruby **"
+    }
+
+    "***Special Thanks Luffaren Moltard Microsoft & Ricca2554***"
+    {
+        "chi" "**特别感谢: Moltard & Microsoft **"
+    }
+
+    "***[BETA] EXPECT CHANGES IN NEXT VERSION***"
+    {
+        "chi" "**下个版本将会有更多的内容 **"
+    }
+
+    "***We Need To Find A Way To Get Inside Of The Ship***"
+    {
+        "chi" "**我们得想个办法到船里面 **"
+    }
+
+    "***Don't Let The Zombies On***"
+    {
+        "chi" "***别让僵尸进来 **"
+    }
+
+    "***Tip - Camping On The Ship Mast Wont Help Your Team***"
+    {
+        "chi" "** **"
+    }
+
+    "***Wait For Something to Happen***"
+    {
+        "chi" "**提示-在船桅上啥都不干只能坐以待毙 **"
+    }
+
+    "***Both Levers Have Been Pressed***"
+    {
+        "chi" "**所有拉杆已经拉下 **"
+    }
+
+    "***Quickly Get To The Other Side Of The River***"
+    {
+        "chi" "**赶紧到河对面,快! **"
+    }
+
+    "***Admin Changed To Stage III***"
+    {
+        "chi" "**管理选择了第三关 **"
+    }
+
+    "***Admin Changed To Stage IV***"
+    {
+        "chi" "**管理选择了第四关 **"
+    }
+
+    "***Admin Changed To Stage V***"
+    {
+        "chi" "**管理选择了第五关 **"
+    }
+
+    "***Damn How Are We Going To Get Out Of Here The Gate is Closed***"
+    {
+        "chi" "**他妈的,门被关上了,赶紧想个办法逃离这里 **"
+    }
+
+    "***Hmmm Maybe We Should Explore This Place***"
+    {
+        "chi" "**目前或许在这里探索一下比较好 **"
+    }
+
+    "***Lets Head Towards The Sun Tower***"
+    {
+        "chi" "**我们先去太阳之塔看看 **"
+    }
+
+    "***Door Will Open in 20 Seconds***"
+    {
+        "chi" "**大门将在20秒后开启 **"
+    }
+
+    "***The Mist is Poisonous*** "
+    {
+        "chi" "**小心雾气,有毒! **"
+    }
+
+    "***Shit We Need To Get Out of Here*** "
+    {
+        "chi" "**他妈的,我们得赶紧离开这里 **"
+    }
+
+    "***Player Has Picked Up Demonic Bible***"
+    {
+        "chi" "**有丧尸在恶魔的帮助下学会了治愈术 **"
+    }
+
+    "***Player Has Picked Up Purification***"
+    {
+        "chi" "**一位探险者学会了圣疗术 **"
+    }
+
+    "***Gate Will Break in 25 Seconds***"
+    {
+        "chi" "**门在25秒后打开 **"
+    }
+
+    "***Tip - Try To Reach The Top of The Tower Before The Elevater Does***"
+    {
+        "chi" "**提示-尽可能比电梯更快的抵达塔顶 **"
+    }
+
+    "***10 Seconds Left***"
+    {
+        "chi" "**还有10秒 **"
+    }
+
+    "***Tip - There Are Booby Traps in This Tower So Be Careful***"
+    {
+        "chi" "**提示-注意这座塔里面的陷阱 **"
+    }
+
+    "***5 Seconds Left***"
+    {
+        "chi" "**还有5秒 **"
+    }
+
+    "***The Door Will Open in 20 Seconds***"
+    {
+        "chi" "**门在20秒后打开 **"
+    }
+
+    "***We Got The Winch Lever***"
+    {
+        "chi" "**我们找到了控制拉杆 **"
+    }
+
+    "***Lets Head Back To The Main Floor And Go To The Moon Tower***"
+    {
+        "chi" "**让我们先回到主层再去月亮之塔 **"
+    }
+
+    "***Floor Grate Will Break in 15 Seconds***"
+    {
+        "chi" "**地板将在15秒后裂开 **"
+    }
+
+    "***Bone Dragon Has Been Slain***"
+    {
+        "chi" "**骸骨巨龙已被探险者击杀! **"
+    }
+
+    "***Dracula!***"
+    {
+        "chi" "**居然是德古拉!! **"
+    }
+
+    "[Dracula] Upstart weakling...."
+    {
+        "chi" "**德古拉:你们这些弱不禁风的蝼蚁!胆敢打扰孤的休眠! **"
+    }
+
+    "[Dracula] All who oppose the dark lord must die."
+    {
+        "chi" "**德古拉:所有反对黑暗君主的人都该死! **"
+    }
+
+    "[Dracula] Come, meet your doom!"
+    {
+        "chi" "**德古拉:我将会对你们降下诅咒! **"
+    }
+
+    "[Dracula] ha ha ha ha ha."
+    {
+        "chi" "**德古拉:哈哈哈哈!!! **"
+    }
+
+    "***What Is That On The Gears?***"
+    {
+        "chi" "**齿轮上有古怪! **"
+    }
+
+    "***Looks Like it is Sleeping***"
+    {
+        "chi" "**看起来它睡着了 **"
+    }
+
+    "***Activate The lever***"
+    {
+        "chi" "**现在我们重新激活拉杆 **"
+    }
+
+    "***Player Has Picked Up Spooky Ghost***"
+    {
+        "chi" "**有丧尸学会了隐身术 **"
+    }
+
+    "***Activate It***"
+    {
+        "chi" "**激活它! **"
+    }
+
+    "***That Must Be The Last Gate Lever***"
+    {
+        "chi" "**那应该是最后的一个拉杆 **"
+    }
+
+    "***Dracula is Gone***"
+    {
+        "chi" "**德古拉消失了 **"
+    }
+
+    "***Tip - Wait For Dracula To Disapear or Make A Sacrifice To Open The Gate Quicker ***"
+    {
+        "chi" "**提示-等德古拉离开或者献祭一名队友来开启大门 **"
+    }
+
+    "***[Dracula] Turn Back Now or Die***"
+    {
+        "chi" "**德古拉:你们只有2条路,离开或死亡! **"
+    }
+
+    "***[Dracula] ..........***"
+    {
+        "chi" "**德古拉:....很好,那就让你们见识一下!!! **"
+    }
+
+    "***Villa Gates Closing in 30 Seconds***"
+    {
+        "chi" "**城堡大门30秒后关上 **"
+    }
+
+    "***Villa Gates Closing in 10 Seconds***"
+    {
+        "chi" "**城堡大门10秒后关上 **"
+    }
+
+    "***Villa Gates Closing in 5 Seconds***"
+    {
+        "chi" "**城堡大门5秒后关上 **"
+    }
+
+    "***Villa Gates Closing in 4 Seconds***"
+    {
+        "chi" "**城堡大门4秒后关上 **"
+    }
+
+    "***Villa Gates Closing in 3 Seconds***"
+    {
+        "chi" "**城堡大门3秒后关上 **"
+    }
+
+    "***Villa Gates Closing in 2 Seconds***"
+    {
+        "chi" "**城堡大门2秒后关上 **"
+    }
+
+    "***Villa Gates Closing in 1 Second***"
+    {
+        "chi" "**城堡大门1秒后关上 **"
+    }
+
+    "***Dracula: I Warned You***"
+    {
+        "chi" "**德古拉:我想我已经警告过你们了! **"
+    }
+
+    "***Villa Gate's Open in 20 Seconds***"
+    {
+        "chi" "**城堡大门20秒后打开 **"
+    }
+
+    "***Gate Opens in 15 Seconds***"
+    {
+        "chi" "**城堡大门15秒后打开 **"
+    }
+
+    "***That Looks Like the Villa Manor***"
+    {
+        "chi" "**那看起来像是城府的庄园 **"
+    }
+
+    "***We Need To Make Our Way Through There In Order To Reach The Garden***"
+    {
+        "chi" "**我们必须穿过那里才能抵达花园 **"
+    }
+
+    "***The Manor Doors Will Open in 25 Seconds***"
+    {
+        "chi" "**庄园的大门25秒后打开 **"
+    }
+
+    "***AFK Tp in 5 Seconds***"
+    {
+        "chi" "**挂机玩家5秒后传送 **"
+    }
+
+    "***Moving On To Stage III***"
+    {
+        "chi" "**接下来前往第三关 **"
+    }
+
+    "***Moving On To Stage IV***"
+    {
+        "chi" "**接下来前往第四关 **"
+    }
+
+    "*** 2 Players Need To Hold Down The Levers To Keep The Library Door Open***"
+    {
+        "chi" "**需要2位探险者按住机关来打开图书馆的门 **"
+    }
+
+    "*** Tip - Dont Leave The Key Holder Trapped in The Libary***"
+    {
+        "chi" "***提示-不要把拿钥匙的人困在图书馆里 **"
+    }
+
+    "***Vampire Has Been Slain***"
+    {
+        "chi" "**德古拉已被探险者击杀! **"
+    }
+
+    "***These Boxes Are Blocking The Path***"
+    {
+        "chi" "**这些箱子挡着路了! **"
+    }
+
+    "***Find A Way To Break Them***"
+    {
+        "chi" "**想个办法打烂他们 **"
+    }
+
+    "***There's Something In The Mirror***"
+    {
+        "chi" "**有什么东西在镜子里面 **"
+    }
+
+    "***Player Has Picked Up TNT***"
+    {
+        "chi" "**一名探险者拾取了TNT **"
+    }
+
+    "***We Planted The TNT.... Get Back***"
+    {
+        "chi" "**炸药已经放好了, 退后一点, 别炸飞了 **"
+    }
+
+    "***Damn The Back Door To The Garden is Locked***"
+    {
+        "chi" "**他妈的,花园大门锁上了 **"
+    }
+
+    "***There Should Be A Key in One of These Rooms To Open it***"
+    {
+        "chi" "**附近的房间里肯定有一把钥匙可以打开它 **"
+    }
+
+    "***The Garden Door Has Been Unlocked***"
+    {
+        "chi" "**花园大门已经解锁 **"
+    }
+
+    "***Player Has Picked Up Garden Key***"
+    {
+        "chi" "**有探险者拿到了花园钥匙 **"
+    }
+
+    "***You Failed To Protect Henry!***"
+    {
+        "chi" "**我们没有保护好Henry,失败了! **"
+    }
+
+    "***Henry Unlocking Gate in 10 Seconds***"
+    {
+        "chi" "**Henry解锁大门需要10秒 **"
+    }
+
+    "***Henry Unlocking Gate in 15 Seconds***"
+    {
+        "chi" "**Henry解锁大门需要15秒 **"
+    }
+
+    "***Henry Unlocking Door in 20 Seconds***"
+    {
+        "chi" "**Henry解锁大门需要20秒 **"
+    }
+
+    "***Teleport Activate in 10 Seconds***"
+    {
+        "chi" "**传送在10秒后激活 **"
+    }
+
+    "***Objective - Follow Henry And Protect Him at All Cost***"
+    {
+        "chi" "**目标-不惜一切代价去保护Henry **"
+    }
+
+    "***Do Not Let Henry Die***"
+    {
+        "chi" "**别让他死了! **"
+    }
+
+    "***We Have Found Henry***"
+    {
+        "chi" "**我们找到了Henry **"
+    }
+
+    "***Protect Him for 60 Seconds***"
+    {
+        "chi" "**保护他60秒 **"
+    }
+
+    "***Door Close in 5 Seconds***"
+    {
+        "chi" "**门在5秒关上 **"
+    }
+
+    "***Door Close in 4 Seconds***"
+    {
+        "chi" "**门在4秒关上 **"
+    }
+
+    "***Door Close in 3 Seconds***"
+    {
+        "chi" "**门在3秒关上 **"
+    }
+
+    "***Door Close in 2 Seconds***"
+    {
+        "chi" "**门在2秒关上 **"
+    }
+
+    "***Door Close in 1 Second***"
+    {
+        "chi" "**门在1秒关上 **"
+    }
+
+    "***The Gate Will Open In 20 Seconds***"
+    {
+        "chi" "**门在20秒后打开 **"
+    }
+
+    "***The Door Will Open In 15 Seconds***"
+    {
+        "chi" "**门在15秒后打开 **"
+    }
+
+    "***Henry Unlocking Door in 10 Seconds***"
+    {
+        "chi" "**Henry解锁大门需要10秒 **"
+    }
+
+    "***We Have Saved Henry***"
+    {
+        "chi" "**我们救下了Henry **"
+    }
+
+    "***Head Back Into The Maze and Find The Hidden Dungeon***"
+    {
+        "chi" "**我们现在需要*回到迷宫并找到隐藏的地牢 **"
+    }
+
+    "***A Red Jewel Was Obtained***"
+    {
+        "chi" "**红宝石已被找到 **"
+    }
+
+    "***Player Has Picked Up Bomb Crate***"
+    {
+        "chi" "**一位僵尸捡起了炸药 **"
+    }
+
+    "***Make Your Way Into The Castle Walls***"
+    {
+        "chi" "**我们得想个办法进到城堡里面 **"
+    }
+
+    "***The Giant Skeleton Has Been Slain***"
+    {
+        "chi" "**骸骨巨人已被探险者击杀! **"
+    }
+
+    "***Zombies Are After us! Defend***"
+    {
+        "chi" "**僵尸还是穷追不舍, 守住! **"
+    }
+
+    "***Castle Gate is Now Closing***"
+    {
+        "chi" "**城堡的大门正在关闭 **"
+    }
+
+    "***Castle Gate Will Close Soon***"
+    {
+        "chi" "**城堡的大门即将关闭 **"
+    }
+
+    "***Dont Let The Zombies Inside***"
+    {
+        "chi" "**别放过任何一个僵尸! **"
+    }
+
+    "***Player Has Picked Up Purifying Crystal***"
+    {
+        "chi" "**一名探险者找到了净化水晶 **"
+    }
+
+    "***A Player Has Used Antidote On The Fountain***"
+    {
+        "chi" "**一名探险者成功净化了毒素! **"
+    }
+
+    "***That Must Be The Key To The Village***"
+    {
+        "chi" "**那一定是村子大门的钥匙! **"
+    }
+
+    "***Shoot The Perch***"
+    {
+        "chi" "**赶紧射死海怪! **"
+    }
+
+    "***Afk Tp in 5 Seconds***"
+    {
+        "chi" "**挂机玩家在5秒后传送 **"
+    }
+
+    "***Henry: This is The Labyrinth Beneath The Maze***"
+    {
+        "chi" "**Henry: 这是迷宫下面的一个地牢 **"
+    }
+
+    "***Henry: Defend me While I Repair My Tool Kit***"
+    {
+        "chi" "***Henry: 在我修好它之前给我争取时间! **"
+    }
+
+    "***Protect Henry for 25 Seconds***"
+    {
+        "chi" "**保护Henry25秒 **"
+    }
+
+    "***Cargo Room Opening in 20 Seconds***"
+    {
+        "chi" "**货舱大门20秒后开门 **"
+    }
+
+    "***Get Inside The Cargo Room***"
+    {
+        "chi" "**赶紧进货仓! **"
+    }
+
+    "***Cargo Room Opening in 10 Seconds***"
+    {
+        "chi" "**货舱大门10秒后开门 **"
+    }
+
+    "***We Must Escape***"
+    {
+        "chi" "**我们得赶紧跑了! **"
+    }
+
+    "***Damn a Creature is Sinking The Ship***"
+    {
+        "chi" "**他妈的,这艘船好像要沉了 **"
+    }
+
+    "***What Was That***"
+    {
+        "chi" "**那是什么 **"
+    }
+
+    "***Oil Barrel Has Been Used Up***"
+    {
+        "chi" "**燃油已被耗尽 **"
+    }
+
+    "***Player Has Picked Up Oil Barrel***"
+    {
+        "chi" "** 一名探险者找到燃油**"
+    }
+
+    "***Zombie Shortcut is Open***"
+    {
+        "chi" "**僵尸近路已开放 **"
+    }
+
+    "***The Sea Serpent Has Been Slain***"
+    {
+        "chi" "**海怪已被探险者击杀! **"
+    }
+
+    "***Get Inside***"
+    {
+        "chi" "**快进来 **"
+    }
+
+    "***The Entrance To The Forest of Silence Will Open Soon***"
+    {
+        "chi" "**缄默之森的入口很快就要打开了! **"
+    }
+
+    "***Lookout A Sea Serpent!!!***"
+    {
+        "chi" "**小心海怪的攻击! **"
+    }
+
+    "***Tip - Only People On The Boss Platform Can Damage it***"
+    {
+        "chi" "**提示-只有boss平台的人才能伤到海怪 **"
+    }
+
+    "***The Sea Serpent Is Enraged!!!***"
+    {
+        "chi" "**海怪陷入了狂暴状态! **"
+    }
+
+    "***Congratulations You Beat The Map!!!***"
+    {
+        "chi" "**恭喜你征服了这张地图 **"
+    }
+
+    "***Stage 4 Ending Will Change in Next Version***"
+    {
+        "chi" "**第四章的结局将会在下个版本有所变化 **"
+    }
+
+    "***Henry Should be Somewhere in This Garden***"
+    {
+        "chi" "**Henry应该在花园的某个角落 **"
+    }
+
+    "***Find Him***"
+    {
+        "chi" "**找到他! **"
+    }
+
+    "***Draculas Poisoning Seems To Be Wearing Off***"
+    {
+        "chi" "**德古拉的毒药似乎正在失效 **"
+    }
+
+    "***We Got The Key!***"
+    {
+        "chi" "**我们找到钥匙了! **"
+    }
+
+    "***Go Through The Portal and Head Back***"
+    {
+        "chi" "**现在我们穿过大门并往回走才对 **"
+    }
+
+    "***Afk Tp in 10 Seconds***"
+    {
+        "chi" "**挂机玩家10秒后传送 **"
+    }
+
+}
