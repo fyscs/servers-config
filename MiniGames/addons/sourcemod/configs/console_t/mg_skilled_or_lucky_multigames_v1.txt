@@ -12,7 +12,7 @@
 
     "*Knife Equipped in 10 sec*"
     {
-        "chi" "10秒钟后发放匕首"
+        "chi" "!~ 10秒钟后发放匕首"
     }
 
     "*Wall Breaking*"
@@ -22,7 +22,7 @@
 
     "*Wall Breaking in 10 sec*"
     {
-        "chi" "10秒钟后墙壁碎裂"
+        "chi" "!~ 10秒钟后墙壁碎裂"
     }
 
     "*3*"
@@ -49,7 +49,7 @@
 
     "*Ground Breaking in 10 sec*"
     {
-        "chi" "地板在10秒钟后碎裂"
+        "chi" "!~ 地板在10秒钟后碎裂"
     }
 
     "*Ground Breaking*"
@@ -74,7 +74,7 @@
 
     "*Select Position in 20 sec*"
     {
-        "chi" "在20秒内选择你的点位"
+        "chi" "!~ 在20秒内选择你的点位"
     }
 
     "*Outside Position Killer in 5 sec*"
@@ -135,7 +135,7 @@
 
     "[GAME] 200 IQ Hegrenade"
     {
-        "chi" "200IQ手雷"
+        "chi" "!~ 200IQ手雷"
     }
 
     "[WEAPON] Hegrenade"
@@ -290,7 +290,7 @@
 
     "[WEAPON] SSG 08"
     {
-        "chi" "SSG 08"
+        "chi" "!~ SSG 08"
     }
 
     "[GAME] BunnyHop"
@@ -417,7 +417,7 @@
 
     "[AFK] Vote Randomizer 1min"
     {
-        "chi" "1分钟后自动选图"
+        "chi" "!~ 1分钟后自动选图"
     }
 
 }
