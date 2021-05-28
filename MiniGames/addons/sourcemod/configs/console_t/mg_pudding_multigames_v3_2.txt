@@ -152,7 +152,7 @@
 
     "**You have 20 seconds every time**"
     {
-        "chi" "你有20秒钟的时间来决出胜负"
+        "chi" "!~ 你有20秒钟的时间来决出胜负"
     }
 
     ">>Knife - 100HP<<"
@@ -232,7 +232,7 @@
 
     "**Choose your pistol in 20 seconds**"
     {
-        "chi" "在20秒内选择你的手枪"
+        "chi" "!~ 在20秒内选择你的手枪"
     }
 
     ">>Teleport PC<<"
@@ -337,7 +337,7 @@
 
     "**Choose your game in 20 seconds**"
     {
-        "chi" "在20秒内选择一个小游戏"
+        "chi" "!~ 在20秒内选择一个小游戏"
     }
 
 }
