@@ -68,7 +68,7 @@
      
      "***SPAWN ZONE***"
      {
-         "chi"  "一切的起点"
+         "chi"  "这里是一切的起点"
      }
      
      "***Map by Limon. Thanks for playing***"
@@ -84,6 +84,11 @@
      "*Teleporting zombies to Zombie Room in 7 sec*"
      {
          "chi"  "僵尸在7秒后传送到僵尸房"
+     }
+     
+     "**Teleporting Zombies to spawn in 15 sec**"
+     {
+         "chi" "僵尸在15秒后传送到起点"
      }
      
      "***Go to middle-earth map to start playing***"
@@ -201,6 +206,11 @@
      "***Get to the boats NOW***"
      {
          "chi"  "快去后面的船上!!"
+     }
+
+     "***Zombies on boat. Humans lose.***"
+     {
+         "chi"  "僵尸上船了,我们死定了."
      }
      
      "***5***"
@@ -334,7 +344,12 @@
          "chi"  "战歌结束时便是你的死期!!"
      }
      
-     "***Teleporting Humans to the Dam in 5 sec!***"
+     "***CAPTAIN Uruk-hai is dead.***"
+     {
+         "chi"  "乌鲁克头目被击败了."
+     }
+     
+     "***Teleporting Humans to the Dam in 5 sec***"
      {
          "chi"  "人类5秒后传送到堤坝"
      }
@@ -361,7 +376,7 @@
      
      "***Elevator will go up in 5 sec***"
      {
-         "chi"  "升降机五秒后上升"
+         "chi"  "升降机5秒后上升"
          //L2,L3电梯倒计时
      }
      
@@ -375,12 +390,12 @@
          "chi"  "毁掉全部的支柱!!"
      }
      
-     "***Stanchion 1/2 was broken***"
+     "***Stanchion 12 was broken***"
      {
          "chi"  "支柱一已破坏"
      }
      
-     "***Stanchion 2/2 was broken***"
+     "***Stanchion 22 was broken***"
      {
          "chi"  "支柱二已破坏"
      }
@@ -393,6 +408,11 @@
      "**Zombie ladder is enabled**"
      {
          "chi"  "僵尸近路梯子已开放"
+     }
+     
+     "**RUN**"
+     {
+         "chi"  "快跑"
      }
      
      " ***RUN RUN FAST***"
@@ -480,10 +500,27 @@
      {
          "chi"  "僵尸与AFK玩家10秒后传送"
      }
+     
      "***Everyone move forward***"
-	{
-		"chi"  "**所有人都往前走 **"
-	}
+     {
+      "chi"  "所有人都向前走"
+	 // L2 F
+     }
+     
+     "**HOLD 25 SECONDS**"
+     {
+         "chi"  "守住这里25秒"
+     }
+     
+     "**HOLD 30 SECONDS**"
+     {
+         "chi"  "守住这里,还有30秒"
+     }
+     
+     "**GO GO**"
+     {
+         "chi"  "是时候继续前进了"
+     }
      
      "***GO UP ON LADDER***"
      {
@@ -499,6 +536,11 @@
      "**Teleporting AFK's to Saruman tower in 35sec**"
      {
          "chi"  "AFK玩家35秒后传送到萨鲁曼高塔"
+     }
+     
+     "*Teleporting Zombies and AFKs to Saruman tower in 20s*"
+     {
+         "chi"  "AFK玩家20秒后传送至萨鲁曼高塔"
      }
      
      "***GANDALF IS DEAD***"
@@ -578,7 +620,7 @@
      
      "***Get ready for the final battle***"
      {
-         "chi"  "准备面对最后的决战吧!"
+         "chi"  "准备面对最后的战斗!"
          // prepare to meet your end
      }
      
@@ -589,7 +631,7 @@
      
      "*** 100 HP restored ***"
      {
-         "chi"  "所有人都是最佳状态"
+         "chi"  "所有人都恢复到最佳状态"
      }
      
      "***SARUMAN is dead.***"
