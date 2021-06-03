@@ -1,0 +1,207 @@
+"Console_T"
+{
+    ">>> PLAYER HAS PICKED UP SCP-714 - Ammo bag <<<"
+    {
+        "chi" ">>> 一位玩家拾取疲惫玉戒(scp714) <<<"
+    }
+
+    ">>> PLAYER HAS PICKED UP SCP-500 - Medic Bag <<<"
+    {
+        "chi" ">>> 一位玩家拾取万能药(scp500) <<<"
+    }
+
+    "< SCP-049 has been escaped >"
+    {
+        "chi" "< 注意!疫医(scp049)收容失效 >"
+    }
+
+    "< SCP-096 has been escaped >"
+    {
+        "chi" "< 注意!害羞的人(scp096)收容失效 >"
+    }
+
+    "< SCP-106 has been escaped >"
+    {
+        "chi" "< 注意!恐怖老人(scp106)收容失效 >"
+    }
+
+    "<The door will open soon>"
+    {
+        "chi" "<大门即将开放>"
+    }
+
+    "<The next door will open in 15 seconds>"
+    {
+        "chi" "<下一扇门将在15秒后开启>"
+    }
+
+    "<The next door will open in 30 seconds>"
+    {
+        "chi" "<下一扇门将在30秒后开启>"
+    }
+
+    "<Check Point will open in 20 seconds>"
+    {
+        "chi" "<检查点将于20秒后开放>"
+    }
+
+    "<The next door will open in 25 seconds>"
+    {
+        "chi" "<下一扇门将在25秒后开启>"
+    }
+
+    "<We will reach Check Point>"
+    {
+        "chi" "<我们即将抵达检查点>"
+    }
+
+    "ze_SCP_Containment_Breach"
+    {
+        "chi" "ze_SCP_Containment_Breach(scp秘密实验室)"
+    }
+
+    "This map is based on SCP Contaiment Breach"
+    {
+        "chi" "这张图是基于scp制作"
+    }
+
+    "map by Mochi/Pohmian"
+    {
+        "chi" "map by Mochi, Pohmian 汉化:by-爱你的❤龙鸣"
+    }
+
+    "<The doors will open in 50 seconds>"
+    {
+        "chi" "<这扇门将于50秒后开启>"
+    }
+
+    "<The door will open>"
+    {
+        "chi" "<大门即将开放 请等待!>"
+    }
+
+    "<The doors will open in 35 seconds>"
+    {
+        "chi" "<这扇门将于35秒后开启>"
+    }
+
+    "<The door will open in 15 seconds>"
+    {
+        "chi" "<这扇门将于15秒后开启>"
+    }
+
+    "<Where are we....?>"
+    {
+        "chi" "<我们...这是在哪儿?>"
+    }
+
+    "<20>"
+    {
+        "chi" "<请等待20秒>"
+    }
+
+    "< 25 >"
+    {
+        "chi" "< 请等待25秒 >"
+    }
+
+    "<The tesla will be disabled in 20 seconds>"
+    {
+        "chi" "<高压电网将于20秒后关闭>"
+    }
+
+    "<Defend here for 15 seconds>"
+    {
+        "chi" "<防守这里15秒!>"
+    }
+
+    "<Something is coming...>"
+    {
+        "chi" "<当心!有些东西正在逼近...>"
+    }
+	
+	"<SCP-106 has been defeated>"
+    {
+        "chi" "<恐怖老人(scp106)已被重新收容>"
+    }
+	
+	"<Escape from Pocket Dimension>"
+    {
+        "chi" "<快!从腐烂口袋中逃出去!>"
+    }
+	
+	"<Defend the Gate A>"
+    {
+        "chi" "<保卫A区大门!>"
+    }
+	
+	"<SCP-106 escaped....>"
+    {
+        "chi" "<恐怖老人(scp106)已逃逸...>"
+    }
+	
+	"<SCP-106 has been defeated!!>"
+    {
+        "chi" "<恐怖老人(scp106)已被重新收容!!>"
+    }
+	
+	"<What the.......?>"
+    {
+        "chi" "<怎么会...这样!?>"
+    }
+	
+	"<Do not let SCP-106 across the GATE A!!>"
+    {
+        "chi" "<不能让恐怖老人(scp106)逃出设施 保卫A区!!>"
+    }
+	
+	"<We escaped from SITE-19>"
+    {
+        "chi" "<我们成功从19号设施逃离!>"
+    }
+	
+	"<We have failed...>"
+    {
+        "chi" "<结束了 我们失败了...>"
+    }
+	
+	"< Detonating The Alpha Warheads in T-Minus 185 seconds >"
+    {
+        "chi" "<警告!阿尔法核弹会在185秒内引爆>"
+    }
+	
+	"< All personnel are adviced to enter the nearest blast shelter immediately. >"
+    {
+        "chi" "<警告!请设施最近的人员立即进入庇护所!>"
+    }
+	
+	"< Get away from middle >"
+    {
+        "chi" "<当心!远离中间区域!>"
+    }
+	
+	"< Judgement of Cornerstone >"
+    {
+        "chi" "<当心!注意地面!>"
+    }
+	
+	"< SCP-1048-A >"
+    {
+        "chi" "<注意!泰迪熊建造者(scp1048)>"
+    }
+	
+	"< SCP-1048-A has been defeated >"
+    {
+        "chi" "<泰迪熊建造者(scp1048)已被重新收容>"
+    }
+	
+	"< Someone is approaching us... >"
+    {
+        "chi" "<小心!有什么东西正在接近我们...>"
+    }
+	
+	"< SCP-079 Containment Room will open soon >"
+    {
+        "chi" "<注意!旧AI(scp079)收容区即将开放>"
+    }
+}

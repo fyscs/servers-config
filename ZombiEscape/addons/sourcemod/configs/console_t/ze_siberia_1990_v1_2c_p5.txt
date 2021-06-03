@@ -46,15 +46,15 @@
 	}
 	"Steam pressure at 66%"
 	{
-		"chi"		"**达到66%! 快去按 2号阀门**"
+		"chi"		"**达到2/3! 快去按 2号阀门**"
 	}
 	"Steam pressure at 33%"
 	{
-		"chi"		"**达到33%! 快去按 3号阀门**"
+		"chi"		"**达到1/3! 快去按 3号阀门**"
 	}
 	"Steam pressure at 0%"
 	{
-		"chi"		"**达到0%!完成! 快冲出大门! **"
+		"chi"		"**快冲出大门! **"
 	}
 	"Zombie spawns advancing in 15 seconds"
 	{
