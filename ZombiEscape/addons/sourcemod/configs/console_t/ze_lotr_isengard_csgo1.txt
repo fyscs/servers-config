@@ -611,6 +611,7 @@
      "***GRIMA IS DEAD***"
      {
          "chi"  "葛力马已死"
+	 "command" "sv_falldamage_scale 0.5;"
      }
      
      "***Teleporting AFK's in 10 sec!!***"
@@ -637,6 +638,7 @@
      "***SARUMAN is dead.***"
      {
          "chi"  "萨鲁曼已死!!"
+	 "command" "sv_falldamage_scale 1.0;"
      }
      
      "**>>Congratulations<<**"
