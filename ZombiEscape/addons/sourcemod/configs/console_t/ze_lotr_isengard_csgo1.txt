@@ -24,7 +24,7 @@
      "***WAIT PLAYERS***"
      {
          "chi"  ">>等待玩家进入<<"
-         //WARMUP
+         // WARMUP
      }
      
      "***1 LEVEL WILL START in 45 sec!!!***"
@@ -130,7 +130,7 @@
      "**Resist 20s!**"
      {
          "chi"  "守住!还有20秒"
-         //L1 RIGHT
+         // L1 RIGHT
      }
      
      "**GO**"
@@ -377,7 +377,7 @@
      "***Elevator will go up in 5 sec***"
      {
          "chi"  "升降机5秒后上升"
-         //L2,L3电梯倒计时
+         // L2,L3电梯倒计时
      }
      
      "**GO HUMANS**"
@@ -448,7 +448,7 @@
      "***Everyone move right***"
      {
          "chi"  "所有人去右边的路!!"
-         //L2 RIGHT
+         // L2 RIGHT
      }
      
      "***Elevator in 30 sec***"
@@ -525,7 +525,7 @@
      "***GO UP ON LADDER***"
      {
          "chi"  "快爬上梯子"
-         //L2 FINISH
+         // L2 FINISH
      }
      
      "***LVL3 SARUMAN TOWER***"
