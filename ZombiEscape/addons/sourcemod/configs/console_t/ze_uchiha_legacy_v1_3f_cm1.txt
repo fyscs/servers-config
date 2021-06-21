@@ -37,7 +37,7 @@
 
     "** PLAYER HAS PICKED UP RAITON **"
     {
-        "chi" "**有忍者学会了雷遁-麒麟 **"
+        "chi" "**有忍者学会了雷遁-千鸟流**"
     }
 
     "** PLAYER HAS PICKED UP KATON **"
@@ -72,7 +72,7 @@
 
     "** ITACHI IS USING A STRONG GENJUTSU **"
     {
-        "chi" "**宇智波鼬使用了强力幻术 **"
+        "chi" "**宇智波鼬使用了月读! **"
     }
 
     "** STAY IN THE MIDDLE **"
@@ -117,7 +117,7 @@
 
     "**NADES DO MORE DAMAGE**"
     {
-        "chi" "**手雷可以造成更多伤害 **"
+        "chi" "**手雷可以对他造成更多伤害 **"
     }
 
     "**FINAL DOOR OPENS IN 60 SECONDS**"
@@ -197,7 +197,7 @@
 
     "**YOU WON STAGE 2**"
     {
-        "chi" "**日斩,你是沐浴阳光的木叶,我是深埋地底的根**"
+        "chi" "**我们已经见过了佐助,接下来该去会会宇智波带土了!**"
     }
 
     "**CAVE ENTRANCE OPENS IN 15 SECONDS**"
@@ -217,7 +217,7 @@
 
     "** MOKUTON **"
     {
-        "chi" "**木遁-花树界降临,快去边缘,不要碰到树! **"
+        "chi" "**木遁-花树界降临,快去边缘! **"
     }
 
     "** REGENERATION **"
@@ -227,7 +227,7 @@
 
     "** MADARA JUST APPEAR **"
     {
-        "chi" "**宇智波斑将会出现,小心! **"
+        "chi" "**看天上,是宇智波斑!他要释放绝招了! **"
     }
 
     "** SHOOT HIM OR GO TO THE SIDE NOW **"
@@ -309,10 +309,9 @@
     {
         "chi" "**带土吸收了十尾,准备迎接六道之力的攻击!看天上!**"
     }
-
     "**YOU WON STAGE 3**"
     {
-        "chi" "**我现在的心什么都感受不到了,即使是痛也没有. **"
+        "chi" "**根据线索,接下来我们最后的敌人,应该就是宇智波斑了! **"
     }
 
     "** CAVE DOOR OPENS IN 30 SECONDS **"
@@ -412,7 +411,7 @@
 
     "** CLONE **"
     {
-        "chi" "**影分身之术! **"
+        "chi" "**斑使用了影分身之术! **"
     }
 
     "** LIGHT FANG **"
@@ -507,17 +506,18 @@
 
     "** GET READY FOR HIS FINAL ATTACK **"
     {
-        "chi" "**准备好面对宇智波斑最后的攻击! **"
+        "chi" "**宇智波斑还没有放弃,他召唤了须佐轮乎! **"
+        "command" "zr_knockback_multi "3.0"   
     }
 
     "** MADARA WAS WAITING FOR YOU **"
     {
-        "chi" "**宇智波斑居然在等着我们! **"
+        "chi" "**宇智波斑:尔等为何阴魂不散?你们也想起舞吗! **"
     }
 
     "** FINISH HIM NOW **"
     {
-        "chi" "**现在解决他! **"
+        "chi" "**宇智波斑:今天不是你死,就是我亡! **"
     }
 
     "** YOU'RE A TRUE SHINOBI **"
@@ -527,12 +527,12 @@
 
     "** YOU WON STAGE 4 **"
     {
-        "chi" "**论忍者的才能,与我较量过的人无出其右,我班愿称你为最强! **"
+        "chi" "**论忍者的才能,与我较量过的人无出其右,我班愿称你们为最强! **"
     }
 
     "** STAGE 1 **"
     {
-        "chi" "**第一章:明花筒的明与暗 **"
+        "chi" "**第一章:万花筒的明与暗 **"
     }
 
     "** STAGE 2 **"
