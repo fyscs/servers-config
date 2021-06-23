@@ -45,10 +45,12 @@
 	{
 		"chi"		"**升降梯25s后运行**"
 		"command"		"sv_airaccelerate 12"
+		"command"		"sm_hunter_enabled 0"
 	}
 	"*** GAS ACTIVATED 40 SEC ***"
 	{
 		"chi"		"**毒气40s后释放**"
+		"command"		"sm_hunter_enabled 1"
 	}
 	"***WWW.SUPREME-ELITE.FR ***"
 	{
