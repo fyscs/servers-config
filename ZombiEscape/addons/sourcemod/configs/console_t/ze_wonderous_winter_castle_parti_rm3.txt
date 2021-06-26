@@ -18,7 +18,7 @@
 	}
 	"***Dargon clip break in 20sec***"
 	{
-		"chi"		"**BOSS房空气墙20秒后关闭**"
+		"chi"		"**boss房空气墙20秒后关闭**"
 	}
 	"***DRAGON USED FREEZING WALL***"
 	{
@@ -142,7 +142,7 @@
 	}
 	"**It's Bahamut again,Shoot him!**"
 	{
-		"chi"		"**又是巴哈姆特,开枪!!!**"
+		"chi"		"**又是巴哈姆特，开枪!!!**"
 	}
 	"***Hold 30sec***"
 	{
@@ -154,7 +154,7 @@
 	}
 	"***Boss fight push 10sec***"
 	{
-		"chi"		"**BOSS房推力10秒后开启**"
+		"chi"		"**boss房推力10秒后开启**"
 	}
 	"***Balrog used Blazing Meteors***"
 	{
@@ -198,6 +198,22 @@
 	}
 	"***Part I ending in 10 seconds***"
 	{
-		"chi"		"**Part I将在10秒后结束,感谢您的游玩**"
+		"chi"		"**part1将在10秒后结束,感谢您的游玩**"
+	}
+	"***Zombie pickup shield***"
+	{
+		"chi"		"**一名僵尸拾起了<护盾>**"
+	}
+	"**teleplate open in 40S**"
+	{
+		"chi"		"**传送40秒后开启**"
+	}
+	"**door open in 20S***"
+	{
+		"chi"		"**门20秒后开启**"
+	}
+	"**Teleplate starts in 30 seconds**"
+	{
+		"chi"		"**传送30秒后开启**"
 	}
 }
