@@ -1,0 +1,353 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "*** Manual Door Override Activated [1/3] ***"
+    {
+        "chi" "**手动门激活进度	[1/3]**"
+    }
+
+    "*** Manual Door Override Activated [2/3] ***"
+    {
+        "chi" "**手动门激活进度	[2/3]**"
+    }
+
+    "*** Manual Door Override Activated [3/3] ***"
+    {
+        "chi" "**手动门激活进度	[3/3]**"
+    }
+
+    "*** WARNING: Core Unstable - Manual Door Override Disabled ***"
+    {
+        "chi" "**警告:核心处于不稳定状态,手动门故障**"
+    }
+
+    "*** All Doors Will Open Fully in 10 Seconds ***"
+    {
+        "chi" "**所有通道将在10秒后打开**"
+    }
+
+    "Zombies Coming From Down the Hallway!"
+    {
+        "chi" "**僵尸即将从下方进入**"
+    }
+
+    "*** Elevator Rising in 10 Seconds ***"
+    {
+        "chi" "**距离电梯离开:10秒**"
+    }
+
+    "*** Next Round Set to Level 1 ***"
+    {
+        "chi" "**载入关卡一**"
+    }
+
+    "*** Next Round Set to Level 2 ***"
+    {
+        "chi" "**载入关卡二**"
+    }
+
+    "*** Next Round Set to Level 3 ***"
+    {
+        "chi" "**载入关卡三**"
+    }
+
+    "*** Normal Mode Cleared! ***"
+    {
+        "chi" "**简易难度通过**"
+    }
+
+    "*** Hard Mode Cleared! ***"
+    {
+        "chi" "**极限难度通过**"
+    }
+
+    ">>> Zombies Ahead of Humans, Slaying Unreachable Humans <<<"
+    {
+        "chi" "**这是一场杀戮,我们毫无胜算**"
+    }
+
+    "*** Elevator Activating in 30 Seconds ***"
+    {
+        "chi" "**距离电梯离开:30秒**"
+    }
+
+    "*** Train Leaving in 15 Seconds ***"
+    {
+        "chi" "**距离列车离开:15秒**"
+    }
+
+    "*** Train Leaving in 70 Seconds ***"
+    {
+        "chi" "**距离列车离开:70秒**"
+    }
+
+    "*** Elevator Leaving in 10 Seconds ***"
+    {
+        "chi" "**距离电梯离开:15秒**"
+    }
+
+    "*** Elevator Leaving in 50 Seconds ***"
+    {
+        "chi" "**距离电梯离开:50秒**"
+    }
+
+    "*** LAVA RISING ***"
+    {
+        "chi" "**熔岩上升**"
+    }
+
+    "*** 10 Seconds ***"
+    {
+        "chi" "**10**"
+    }
+
+    "*** Elevator Leaving in 30 Seconds ***"
+    {
+        "chi" "**距离电梯离开:30秒**"
+    }
+
+    "*** Activate the Next Elevator ***"
+    {
+        "chi" "**去激活下一个电梯**"
+    }
+
+    "*** Door Opening in 30 Seconds ***"
+    {
+        "chi" "**，门即将打开:30秒**"
+    }
+
+    ">>> Backup TP in 15 seconds <<<"
+    {
+        "chi" "**传送:15秒**"
+    }
+
+    "*** Final Doors Closing in 10 Seconds ***"
+    {
+        "chi" "**最终的门即将关闭:10秒**"
+    }
+
+    "*** Final Doors Closing in 45 Seconds ***"
+    {
+        "chi" "**最终的门即将关闭:45秒**"
+    }
+
+    "*** Ladder Door Opening in 25 Seconds ***"
+    {
+        "chi" "**距离滑梯开放:25秒**"
+    }
+
+    "*** Dodge the Support Beams ***"
+    {
+        "chi" "**是时候展现真正的技术了**"
+    }
+
+    "Custom textures by TopHATTwaffle"
+    {
+        "chi" "**纹理支持:TopHATTwaffle**"
+    }
+
+    "Thanks to everyone else who helped test"
+    {
+        "chi" "**感谢每一位参与测试的小基佬**"
+    }
+
+    "Special thanks to W..., StarSlayer, LzYoRHa, and Chicago Ben"
+    {
+        "chi" "**特别支持:W..., StarSlayer, LzYoRHa, and Chicago Ben**"
+    }
+
+    "Map by Tsubasa"
+    {
+        "chi" "**地图制作:Tsubasa	汉化:小三@風雲社**"
+    }
+
+    "*** Map Cleared ***"
+    {
+        "chi" "** **"
+    }
+
+    "Tested on ZEMasters"
+    {
+        "chi" "**最初测试服务器:ZEMasters**"
+    }
+
+    ">>> No Humans Survived <<<"
+    {
+        "chi" "**无人生还**"
+    }
+
+    ">>> Level Failed <<<"
+    {
+        "chi" "**失败**"
+    }
+
+    "*** Zombie Rope Broken ***"
+    {
+        "chi" "**僵尸来杀你们马了**"
+    }
+
+    "*** Upper Elevator Activating in 20 Seconds ***"
+    {
+        "chi" "**距离电梯[上]离开:20秒**"
+    }
+
+    "*** Lower Elevator Activating in 20 Seconds ***"
+    {
+        "chi" "**距离电梯[下]离开:20秒**"
+    }
+
+    "*** Lower Elevator Activating in 30 Seconds ***"
+    {
+        "chi" "**距离电梯[下]离开:30秒**"
+    }
+
+    "*** Upper Elevator Activating in 25 Seconds ***"
+    {
+        "chi" "**距离电梯[上]离开:25秒**"
+    }
+
+    "*** Side Elevator Activating in 10 Seconds ***"
+    {
+        "chi" "**距离电梯[中]离开:10秒**"
+    }
+
+    "*** Elevator Leaving in 35 Seconds ***"
+    {
+        "chi" "**距离电梯离开:35秒**"
+    }
+
+    "*** Vents Breaking in 30 Seconds ***"
+    {
+        "chi" "**通风管道碎裂:30秒**"
+    }
+
+    "*** Avoid the White Pulses! ***"
+    {
+        "chi" "**注意躲避白色脉冲**"
+    }
+
+    "*** Cleared ***"
+    {
+        "chi" "**前方安全**"
+    }
+
+    "*** Lasers Activating in 10 Seconds ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Route : Upper Elevator ***"
+    {
+        "chi" "**路线:电梯[上]**"
+    }
+
+    "*** Railings Breaking in 25 Seconds ***"
+    {
+        "chi" "**栅栏碎裂:25秒**"
+    }
+
+    "*** Railings Breaking in 5 Seconds ***"
+    {
+        "chi" "**栅栏碎裂:5秒**"
+    }
+
+    "*** Elevator Moving in 25 Seconds ***"
+    {
+        "chi" "**电梯移动:25秒**"
+    }
+
+    "*** Upper Path ***"
+    {
+        "chi" "** **"
+    }
+
+    "Map By Tsubasa"
+    {
+        "chi" "**地图制作:Tsubasa	汉化:小三@風雲社**"
+    }
+
+    "*** Lower Path ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Both Paths Open ***"
+    {
+        "chi" "** **"
+    }
+
+    "Custom Textures by TopHATTwaffle"
+    {
+        "chi" "**纹理支持:TopHATTwaffle**"
+    }
+
+    "*** Elevator Activating in 40 Seconds ***"
+    {
+        "chi" "**距离电梯离开:40秒**"
+    }
+
+    "*** Cleaning Room Reopening ***"
+    {
+        "chi" "**安全屋打开**"
+    }
+
+    "*** Cleaning Room Closing in 30 Seconds ***"
+    {
+        "chi" "**距离安全屋关闭:30秒**"
+    }
+
+    "*** Main Elevator Activating in 35 Seconds ***"
+    {
+        "chi" "**距离主电梯离开:35秒**"
+    }
+
+    "*** Elevator Activated ***"
+    {
+        "chi" "**电力恢复**"
+    }
+
+    "*** Jump Down! ***"
+    {
+        "chi" "**跳**"
+    }
+
+    "*** Vent Breaking in 45 Seconds ***"
+    {
+        "chi" "**通风管道碎裂:45秒**"
+    }
+
+    "*** Vent Breaking in 5 Seconds ***"
+    {
+        "chi" "**通风管道碎裂:5秒**"
+    }
+
+    "*** Elevator Activating in 25 Seconds ***"
+    {
+        "chi" "**距离电梯离开:25秒**"
+    }
+
+    "*** Elevator Activating in 5 Seconds ***"
+    {
+        "chi" "**距离电梯离开:5秒**"
+    }
+
+    "*** Activate the Main Elevator ***"
+    {
+        "chi" "**主电梯可使用**"
+    }
+
+    "*** Railings Breaking in 15 Seconds ***"
+    {
+        "chi" "**栅栏碎裂:15秒**"
+    }
+
+    "*** Lift Activated ***"
+    {
+        "chi" "**电梯可使用**"
+    }
+
+}
