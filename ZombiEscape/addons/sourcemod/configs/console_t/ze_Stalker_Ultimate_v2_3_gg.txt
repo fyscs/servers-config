@@ -2,7 +2,7 @@
 {
 	"**This is a map based on the game STALKER**"
 	{
-		"chi"		"**这是根据潜行者:普里皮亚季制作的地图 **"
+		"chi"		"**这是根据游戏(潜行者)制作的地图 **"
 	}
 	"**The map isn't eazy. It needs good ZE skills and good teamplay**"
 	{
@@ -10,11 +10,11 @@
 	}
 	"Map by gleb_erilov(Headshooter.SC) Special thanks to HaRyDe POMKA Said Z-O-M-B-I-E"
 	{
-		"chi"		"**地图制作:gleb_erilov(Headshooter.SC),地图汉化:Ruby 特别感谢:HaRyDe POMKA Said Z-O-M-B-I-E的各位 **"
+		"chi"		"**地图制作:gleb_erilov(Headshooter.SC)地图翻译:Ruby  特别感谢:HaRyDe POMKA Said Z-O-M-B-I-E的各位 **"
 	}
 	"Type in console mat_colorcorrection 1 for dynamic effects!!"
 	{
-		"chi"		"**关闭和开启动态效果在控制台输入mat_colorcorrection 1 **"
+		"chi"		"**祝大家好运**"
 	}
 	"A player picked up meatchunk"
 	{
@@ -46,15 +46,15 @@
 	}
 	"Lab door 1 will open in 11 seconds"
 	{
-		"chi"		"**实验室门①将在11秒后打开 **"
+		"chi"		"**实验室门一将在11秒后打开 **"
 	}
 	"THE LIFT 1 WILL LEAVE IN 4 SECONDS"
 	{
-		"chi"		"**电梯①将在4秒后离开 **"
+		"chi"		"**电梯一将在4秒后离开 **"
 	}
 	"Lab door 1 will open for zombies in 18 seconds"
 	{
-		"chi"		"**实验门①将在18秒后为僵尸打开 **"
+		"chi"		"**实验门一将在18秒后为僵尸打开 **"
 	}
 	"***IF YOU WANT TO OPEN THE GATES TURN THE ELECTRICITY ON!!!***"
 	{
@@ -62,11 +62,11 @@
 	}
 	"The gate 1 will open in 30 seconds"
 	{
-		"chi"		"**门①将在30秒后打开 **"
+		"chi"		"**门一将在30秒后打开 **"
 	}
 	"The gate 2 will open in 30 seconds"
 	{
-		"chi"		"**门②将在30秒后打开 **"
+		"chi"		"**门二将在30秒后打开 **"
 	}
 	"***The electricity in on. You can push the panels to open the gates***"
 	{
@@ -78,11 +78,11 @@
 	}
 	"Lab door 2 will open in 13 seconds"
 	{
-		"chi"		"**实验室门②将在13秒后打开 **"
+		"chi"		"**实验室门二将在13秒后打开 **"
 	}
 	"Lab door 2 will open for zombies in 18 seconds"
 	{
-		"chi"		"**实验门②将在18秒后为僵尸打开 **"
+		"chi"		"**实验门二将在18秒后为僵尸打开 **"
 	}
 	"Hold this position for 6 seconds!!"
 	{
@@ -106,11 +106,11 @@
 	}
 	"The emission will be in 50 seconds. Find the bunker and hide in it!!!"
 	{
-		"chi"		"**核弹大概在50秒后发射.找到一个安全的掩体防守僵尸! **"
+		"chi"		"**核弹大概在50秒后发射.找到一个安全的掩体并躲在里面 **"
 	}
 	"**You win the round!!You unlock the hard mode.**"
 	{
-		"chi"		"**我们暂时安全了,接下来恐怕有更难的东西在等着我们 **"
+		"chi"		"**你赢了这一轮!解锁了困难模式 **"
 	}
 	"**AUTO-SLAYER ENABLED**"
 	{
@@ -118,27 +118,27 @@
 	}
 	"THE LIFT 2 WILL LEAVE IN 9 SECONDS"
 	{
-		"chi"		"**电梯②将在9秒后离开 **"
+		"chi"		"**电梯二将在9秒后离开 **"
 	}
 	"**Hold the place for 25 seconds**"
 	{
-		"chi"		"**守住这里25秒 **"
+		"chi"		"**守住这个位置25秒 **"
 	}
 	"***Break the spheres to escape***"
 	{
-		"chi"		"**中间的柱子有问题,不能让它们继续工作了!赶紧全部打碎! **"
+		"chi"		"**中间的柱子有问题,不能让它们继续工作了!赶紧全部打碎 **"
 	}
 	"***OH NO WHO IS IT? WE MUST KILL IT!***"
 	{
-		"chi"		"**根据情报分析,我们应该是进入了闪电变异点,这是特异物<灵魂>! **"
+		"chi"		"**根据分析,我们应该是进入了闪电变异点,这是特异物<灵魂>! **"
 	}
 	"**There are zombies in bunker. The level is failed.**"
 	{
-		"chi"		"**有僵尸进来了,我们失败了... **"
+		"chi"		"**有僵尸进来了,本关失败 **"
 	}
 	"**You did it!! You have completed stage 2!!**"
 	{
-		"chi"		"**我们做到了!接下来是时候前往新区域了!  **"
+		"chi"		"**你做到了!接下来时候前往新区域了!  **"
 	}
 	"**now is the time to see something new**"
 	{
@@ -146,7 +146,7 @@
 	}
 	"Bloodsucker is watching you..."
 	{
-		"chi"		"**有什么东西在注视着我们....!小心! **"
+		"chi"		"**吸血鬼在注视着我们....! **"
 	}
 	"**Bloodsucker have been defeated**"
 	{
@@ -178,7 +178,7 @@
 	}
 	"**The documents are here!**We are too close!**"
 	{
-		"chi"		"**文件在这里!**我们很快就能逃出这里了! **"
+		"chi"		"**文件在这里!**我们很快就要逃出这里了! **"
 	}
 	"**Defend a bit**The door will explode in a few seconds!**"
 	{
@@ -190,11 +190,11 @@
 	}
 	"**Good job!! You won stage 3!! New area opened!**"
 	{
-		"chi"		"**干得好!我们成功取到了文件,接下来会前往普里皮亚季完成剩下的任务! **"
+		"chi"		"**干得好!你赢了第三关!接下来前往普里皮亚季! **"
 	}
 	"**GO INTO THE TELEPORTER***"
 	{
-		"chi"		"**现在可以进入传送点了 **"
+		"chi"		"**进入传送点 **"
 	}
 	"***YOU HAVE TIME TO SEARCH FOR SOME HIDDEN ITEMS***"
 	{
@@ -202,7 +202,7 @@
 	}
 	"***AND THEN RETREAT AND WAIT THE BARRIER TO BE OPENED**"
 	{
-		"chi"		"**现在等队友汇合才能撤退,这里的路等下就开了! **"
+		"chi"		"**等队友来了,然后撤退,这里的路等下就开了! **"
 	}
 	"**ALL AFK AND SLOW PLAYERS WERE TELEPORTED**"
 	{
@@ -210,7 +210,7 @@
 	}
 	"**NOW WE ARE READY TO GO**"
 	{
-		"chi"		"**现在是时候整装待发了! **"
+		"chi"		"**是时候出发了! **"
 	}
 	"**Hold here for 25 seconds**"
 	{
@@ -222,7 +222,7 @@
 	}
 	"**..We founded something unusial..**"
 	{
-		"chi"		"**根据情报分析,这里就是水泥浴室特异点了,小心! **"
+		"chi"		"**我们发现了一些不寻常的...??? **"
 	}
 	"**.. Is it a new anomaly?!..**"
 	{
@@ -230,11 +230,11 @@
 	}
 	"**THE BOSS IS CONTROLLING YOUR BRAINS!!THIS PLACE IS NOT REAL!!**"
 	{
-		"chi"		"**脑波控制者控制了你的大脑!这个地方只是幻想!! **"
+		"chi"		"**脑波控制者控制了你的大脑!这个地方不是真实的!! **"
 	}
 	"**You have defeated controller!!! Good job**"
 	{
-		"chi"		"**我们打败了脑波控制者,非常好 **"
+		"chi"		"**你打败了脑波控制者,做得好 **"
 	}
 	"**Now go away to the coast**"
 	{
@@ -242,7 +242,7 @@
 	}
 	"**The blowout is comming**"
 	{
-		"chi"		"**该死的电磁风暴怎么突然开始生成,大家赶紧找个建筑躲起来! **"
+		"chi"		"**该死的,电磁风暴怎么突然开始生成,大家赶紧找个建筑躲起来! **"
 	}
 	"**Prepare for ultimate survival. Fight for your life!!**"
 	{
@@ -290,7 +290,7 @@
 	}
 	"**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**"
 	{
-		"chi"		"**你征服了普里皮亚季!!你才是真正的潜行者!!! **"
+		"chi"		"**你征服了普里皮亚季!!你是真正的潜行者!!! **"
 	}
 	"**UNKNOWN ARTEFACT** QUEST COMPLETED"
 	{
@@ -302,23 +302,23 @@
 	}
 	"**SPIKEBALL GOT MAXIMUM POWER**"
 	{
-		"chi"		"**<刺球>升级到最高级 **"
+		"chi"		"**刺球升级到最高级 **"
 	}
 	"***THE BOSS HAS MAXIMUM HP***"
 	{
-		"chi"		"**<灵魂>特异物的生命值得到提升 **"
+		"chi"		"**灵魂特异物的生命值得到提升 **"
 	}
 	"**A PIECE OF FLESH GOT MAXIMUM POWER**"
 	{
-		"chi"		"**<肉块>升级到最高级 **"
+		"chi"		"**肉块升级到最高级 **"
 	}
 	"**NIGHTSTAR GOT MAXIMUM POWER**"
 	{
-		"chi"		"**<夜星>升级到最高级 **"
+		"chi"		"**夜星升级到最高级 **"
 	}
 	"**FLASH GOT MAXIMUM POWER**"
 	{
-		"chi"		"**<灵魂>升级到最高级 **"
+		"chi"		"**灵魂升级到最高级 **"
 	}
 	"**You have failed**"
 	{
@@ -335,9 +335,5 @@
 	"Ported by IntimateLover"
 	{
 		"chi"		"**本图由蓬莱山移植 **"
-	}
-	"It's dead. Good job"
-	{
-		"chi"		"**这个诡异的黄色光球终于被我们打爆了! **"
 	}
 }
