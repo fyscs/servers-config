@@ -1,0 +1,1314 @@
+﻿"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    ">>> VOLDEMORT HAS CAST FIRE <<<"
+    {
+        "chi" "**伏地魔使用了火焰熊熊 **"
+    }
+
+    ">>> VOLDEMORT HAS CAST POISON <<<"
+    {
+        "chi" "**伏地魔释放了毒 **"
+    }
+
+    ">>> VOLDEMORT HAS CAST ICE <<<"
+    {
+        "chi" "**伏地魔使用了冰冻咒让我们动弹不得 **"
+    }
+
+    ">>> VOLDEMORT IS GOING TO CAST AVADA <<<"
+    {
+        "chi" "**伏地魔使用了cast咒 **"
+    }
+
+    ">>> HEAL BE READY OR HARRY COUNTER IT <<<"
+    {
+        "chi" "**人类奶和哈利波特准备应对之 **"
+    }
+
+    ">>> ATTACK COUNTERED BY HARRY <<<"
+    {
+        "chi" "**哈利波特化解了这次攻击 **"
+    }
+
+    ">>> SOMEBODY TAKE OVER HARRY POTTER SPOT <<<"
+    {
+        "chi" "**快来一个玩家继承哈利波特 **"
+    }
+
+    ">>> HARRY POTTER DIED <<<"
+    {
+        "chi" "**哈利波特死了 **"
+    }
+
+    ">>> YOU ARE TOO LATE HARRY <<<"
+    {
+        "chi" "**哈利波特你太迟了! **"
+    }
+
+    ">>> VOLDEMORT IS BREAKING THE DOOR FOR THE ZOMBIES <<<"
+    {
+        "chi" "** 伏地魔给尸笼开了一道口子**"
+    }
+
+    ">>> GATES BREAKING - RESTARTING STAGE IN 10 SECONDS <<<"
+    {
+        "chi" "**将在10秒后重启关卡 **"
+    }
+
+    ">>> RESTARTING STAGE <<<"
+    {
+        "chi" "**关卡重启 **"
+    }
+
+    ">>> ALL DEATHEATERS ARE KILLED <<<"
+    {
+        "chi" "**所有食死徒都已经被干掉 **"
+    }
+
+    ">>> HELP HARRY DEFEATING VOLDEMORT <<<"
+    {
+        "chi" "** 现在我们要帮助哈利波特一起打败伏地魔**"
+    }
+
+    ">>> SPLIT UP - ONE TEAM COVER THE DOOR <<<"
+    {
+        "chi" "**守住,分一部分人守住尸笼 **"
+    }
+
+    ">>> ALL ZOMBIE WANDS EXCEPT REDUCIO ARE ENABLED <<<"
+    {
+        "chi" "**僵尸所有法杖已经激活除了阿瓦达索命咒 **"
+    }
+
+    ">>> NO HUMANS LEFT TO HELP HARRY <<<"
+    {
+        "chi" "**没人活着帮助哈利波特了 **"
+    }
+
+    ">>> VOLDEMORT IS DEAD - FALL BACK <<<"
+    {
+        "chi" "**伏地魔死了快跑 **"
+    }
+
+    ">>> TELEPORTER ACTIVE IN 5 SECONDS <<<"
+    {
+        "chi" "**将在5秒后传送 **"
+    }
+
+    ">>> DELIVER THE BROOMSTICK ON THE PLATFORM IN THE CITY <<<"
+    {
+        "chi" "**我们要拿着扫把站在魔法圈里 **"
+    }
+
+    ">>> BE SURE YOU ARE STANDING INSIDE THE BLUE CIRCLE <<<"
+    {
+        "chi" "** 得确保自己在蓝圈内**"
+    }
+
+    ">>> TELEPORTER ACTIVE IN 10 SECONDS <<<"
+    {
+        "chi" "** 传送在10秒内激活**"
+    }
+
+    ">>> THE BROOMSTICK HAS BEEN COLLECTED <<<"
+    {
+        "chi" "** 魔法扫把已经获得**"
+    }
+
+    ">>> ZOMBIES COLLECTED THE BROOMSTICK - WIZARD MODE FAILED <<<"
+    {
+        "chi" "**僵尸把魔法扫把持有者干掉了,本局失败 **"
+    }
+
+    ">>> DELIVER THE EGG ON THE PLATFORM IN THE CITY <<<"
+    {
+        "chi" "**拿到龙蛋后赶紧来传送点 **"
+    }
+
+    ">>> THE EGG HAS BEEN COLLECTED <<<"
+    {
+        "chi" "**龙蛋已经被找到 **"
+    }
+
+    ">>> ZOMBIES COLLECTED THE EGG - WIZARD MODE FAILED <<<"
+    {
+        "chi" "** 龙蛋持有者被抓了本局失败**"
+    }
+
+    ">>> DELIVER THE CUP ON THE PLATFORM IN THE CITY <<<"
+    {
+        "chi" "**找到圣杯然后站在传送里面 **"
+    }
+
+    ">>> THE CUP HAS BEEN COLLECTED <<<"
+    {
+        "chi" "**圣杯被找到了 **"
+    }
+
+    ">>> ZOMBIES COLLECTED THE CUP - WIZARD MODE FAILED <<<"
+    {
+        "chi" "** 圣杯持有者被抓了本局失败**"
+    }
+
+    ">>> FIND AND COLLECT THE EGG <<<"
+    {
+        "chi" "** 找到并收集龙蛋**"
+    }
+
+    ">>> MINI STAGE 2 WILL ACTIVATE IN 5 SECONDS <<<"
+    {
+        "chi" "** 第二小关在5秒后开始**"
+    }
+
+    ">>> MINI STAGE 2 WILL ACTIVATE IN 15 SECONDS <<<"
+    {
+        "chi" "** 第二小关在15秒后开始**"
+    }
+
+    ">>> BONUS: ADDING 2 MINUTES TO THE TIMER <<<"
+    {
+        "chi" "**提示:给回合时间添加2分钟 **"
+    }
+
+    ">>> BROOMSTICK SUCCESFULL DELIVERED [1/3] <<<"
+    {
+        "chi" "**扫把已经被成功带回(1/3) **"
+    }
+
+    ">>> FIND AND COLLECT THE CUP <<<"
+    {
+        "chi" "** 找到圣杯**"
+    }
+
+    ">>> MINI STAGE 3 WILL ACTIVATE IN 5 SECONDS <<<"
+    {
+        "chi" "**第三小关在5秒后开始 **"
+    }
+
+    ">>> MINI STAGE 3 WILL ACTIVATE IN 15 SECONDS <<<"
+    {
+        "chi" "**第三小关在15后开始 **"
+    }
+
+    ">>> EGG SUCCESFULL DELIVERED [2/3] <<<"
+    {
+        "chi" "**龙蛋已经成功带回(2/3) **"
+    }
+
+    ">>> ALL OBJECTS ARE SUCCESFULL DELIVERED - TIMER DISABLED <<<"
+    {
+        "chi" "** 所有任务物品已经成功收集,时间停止计时**"
+    }
+
+    ">>> CUP SUCCESFULL DELIVERED [3/3] <<<"
+    {
+        "chi" "**圣杯已经成功带回(3/3) **"
+    }
+
+    ">>> PLATFORM BUYZONE ACTIVE FOR 4 SECONDS <<<"
+    {
+        "chi" "** 临时购买区域在4秒后解锁**"
+    }
+
+    ">>> RESTARTING WIZARD MODE <<<"
+    {
+        "chi" "** 重启魔法师关卡**"
+    }
+
+    ">>> 1 <<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>> 2 <<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>> 3 <<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>> THE COLLECTOR DIED <<<"
+    {
+        "chi" "** 收集者死了**"
+    }
+
+    ">>> KEEP DEFENDING UNTIL THE DOOR CLOSES <<<"
+    {
+        "chi" "** 守到门关**"
+    }
+
+    ">>> 5 SECONDS LEFT <<<"
+    {
+        "chi" "**还有5秒 **"
+    }
+
+    ">>> DOORS OPENING IN 15 SECONDS <<<"
+    {
+        "chi" "**门在15秒后打开 **"
+    }
+
+    ">>> DEFEND THE DOORWAY UNTIL THE DOORS CLOSING <<<"
+    {
+        "chi" "** 守住这里直到门关**"
+    }
+
+    ">>> GET INSIDE THE CLASSROOM <<<"
+    {
+        "chi" "**要上课了赶紧进教室 **"
+    }
+
+    ">>> HOLD THE BRIDGE FOR 10 SECONDS <<<"
+    {
+        "chi" "** 守住这座桥10秒**"
+    }
+
+    ">>> DOORS OPENING IN 10 SECONDS <<<"
+    {
+        "chi" "**门10秒后打开 **"
+    }
+
+    ">>> DOOR WILL BREAK IN 15 SECONDS <<<"
+    {
+        "chi" "**门15秒后裂开来 **"
+    }
+
+    ">>> DOOR BREAKING IN 10 SECONDS <<<"
+    {
+        "chi" "**门10秒后裂开 **"
+    }
+
+    ">>> BARRELS EXPLODING IN 10 SECONDS <<<"
+    {
+        "chi" "**炸药桶10秒后爆炸 **"
+    }
+
+    ">>> BARRELS EXPLODING IN 20 SECONDS <<<"
+    {
+        "chi" "** 炸药桶20秒后爆炸**"
+    }
+
+    ">>> DOORS ARE CLOSING - GET INSIDE <<<"
+    {
+        "chi" "**门要关了快进来 **"
+    }
+
+    ">>> KEEP DEFENDING THIS LAST HOLD <<<"
+    {
+        "chi" "** 守住最后的守点**"
+    }
+
+    ">>> DOORS ARE OPENING - GET INSIDE <<<"
+    {
+        "chi" "**门开了快进来 **"
+    }
+
+    ">>> LAST LEVER UNLOCKING IN 25 SECONDS <<<"
+    {
+        "chi" "** 最后一个拉杆在25秒后解锁**"
+    }
+
+    ">>> DEFEND INSIDE UNTIL THE LAST LEVER UNLOCKS <<<"
+    {
+        "chi" "**守到最后一个拉杆解锁 **"
+    }
+
+    ">>> DOORS ARE BROKEN - GET INSIDE <<<"
+    {
+        "chi" "**门烂了快进来 **"
+    }
+
+    ">>> LEVER HAS BEEN PRESSED <<<"
+    {
+        "chi" "**拉杆已经被落下 **"
+    }
+
+    ">>> LAST LEVER UNLOCKED <<<"
+    {
+        "chi" "** 所有拉杆已经触发**"
+    }
+
+    ">>> LAST LEVER UNLOCKING IN 5 SECONDS <<<"
+    {
+        "chi" "**最后一个拉杆5秒后解锁最后一个拉杆5秒后解锁 **"
+    }
+
+    ">>> LAST LEVER UNLOCKING IN 15 SECONDS <<<"
+    {
+        "chi" "** 最后一个拉杆15秒后解锁**"
+    }
+
+    ">>> LAST LEVER UNLOCKING IN 20 SECONDS <<<"
+    {
+        "chi" "**最后拉杆在20秒后解锁 **"
+    }
+
+    ">>> FIND AND COLLECT THE BROOMSTICK <<<"
+    {
+        "chi" "**找到魔法扫把 **"
+    }
+
+    ">>> EARN EXTRA TIME WITH COLLECTING AND DELIVERING AN OBJECT TO THE CITY <<<"
+    {
+        "chi" "**通过找到并交还收藏品来延长地图时间 **"
+    }
+
+    ">>> SUCCES <<<"
+    {
+        "chi" "**我们成功了 **"
+    }
+
+    ">>> THE TIMER SHOWS THE TOTAL TIME LEFT TO COMPLETE THE WIZARD MODE <<<"
+    {
+        "chi" "** 计时器会显示我们还剩下多少时间**"
+    }
+
+    ">>> ADDING 2 MINUTES TO THE TIMER <<<"
+    {
+        "chi" "**添加计时器2分钟 **"
+    }
+
+    ">>> FIRST MINI STAGE WILL ACTIVATE IN 14 SECONDS <<<"
+    {
+        "chi" "** 第一小关在14秒后开始**"
+    }
+
+    ">>> WIZARD MODE ACTIVATED <<<"
+    {
+        "chi" "** 魔法师关卡开始**"
+    }
+
+    ">>> VOLDEMORT IS BACK FOR A FINAL BATTLE <<<"
+    {
+        "chi" "**伏地魔在最后的决战等着我们 **"
+    }
+
+    ">>> ONE PERSON CAN BE HARRY POTTER <<<"
+    {
+        "chi" "** 我们需要一位勇士来担当哈利波特**"
+    }
+
+    ">>> KEEP DEFENDING UNTIL THE BIG DOORS CLOSING <<<"
+    {
+        "chi" "**守住直到大门关上 **"
+    }
+
+    ">>> GET INSIDE THE COURT <<<"
+    {
+        "chi" "**快进来 **"
+    }
+
+    ">>> KEEP DEFENDING UNTIL THE DOORS ARE CLOSING <<<"
+    {
+        "chi" "**守住直到门关上 **"
+    }
+
+    ">>> DOOR WILL BREAK IN 10 SECONDS <<<"
+    {
+        "chi" "** 门在10秒后裂开**"
+    }
+
+    ">>> KILL HIM AND HOLD THE ZOMBIES <<<"
+    {
+        "chi" "*守住僵尸* **"
+    }
+
+    ">>> ITS FLUFFY GARDING THE HATCH <<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>> DOORS WILL BREAK IN 10 SECONDS <<<"
+    {
+        "chi" "**门在10秒后打开 **"
+    }
+
+    ">>> ITS A DEATHEATER - KILL HIM <<<"
+    {
+        "chi" "**是食死徒,杀掉他 **"
+    }
+
+    ">>> 10 SECONDS LEFT <<<"
+    {
+        "chi" "**还有10秒 **"
+    }
+
+    ">>> 15 SECONDS LEFT <<<"
+    {
+        "chi" "**还有15秒 **"
+    }
+
+    ">>> GET INSIDE AND PROTECT THE CAVE FOR 20 SECONDS <<<"
+    {
+        "chi" "**进来守住20秒 **"
+    }
+
+    ">>> DOORS OPENING IN 5 SECONDS <<<"
+    {
+        "chi" "**门在5秒打开 **"
+    }
+
+    ">>> COVER THIS POINT UNTIL THE DOORS CLOSES <<<"
+    {
+        "chi" "**守住这里直到门关上 **"
+    }
+
+    ">>> GATE WILL BREAK IN 10 SECONDS <<<"
+    {
+        "chi" "**门在10秒后炸开 **"
+    }
+
+    ">>> GATE OPENING IN 10 SECONDS <<<"
+    {
+        "chi" "**门在10秒后开 **"
+    }
+
+    ">>> DOORS WILL OPEN IN 10 SECONDS <<<"
+    {
+        "chi" "**门在10秒后开 **"
+    }
+
+    ">>> DEATHEATER IS HEALING <<<"
+    {
+        "chi" "**食死徒对自己使用了续命再生咒 **"
+    }
+
+    ">>> THE DEATHEATER IS DEAD - FALL BACK <<<"
+    {
+        "chi" "**食死徒死了快跑 **"
+    }
+
+    ">>> LEFT LEVER PRESSED <<<"
+    {
+        "chi" "**左边拉杆拉下 **"
+    }
+
+    ">>> RIGHT LEVER PRESSED <<<"
+    {
+        "chi" "**右边拉杆拉下 **"
+    }
+
+    ">>> THE REMAINING TIME HAS EXPIRED <<<"
+    {
+        "chi" "**剩余时间还未截止 **"
+    }
+
+    ">>> WIZARD MODE FAILED <<<"
+    {
+        "chi" "**魔法师关卡失败 **"
+    }
+
+    ">>> NOT ALL OBJECTS HAVE BEEN COLLECTED WITHIN TIME ALLOTTED <<<"
+    {
+        "chi" "**在回合时间结束之前我们收集了全部任务道具 **"
+    }
+
+    ">>> THE DEATHEATER IS DEAD - LEVER UNLOCKED <<<"
+    {
+        "chi" "**食死徒死了,开关解锁 **"
+    }
+
+    ">>> ALL DEMENTORS ARE DEAD - KILL VOLDEMORT <<<"
+    {
+        "chi" "**所有食死徒都死了,快杀掉伏地魔 **"
+    }
+
+    ">>> SHOOT THE CRYSTALS TO STOP THEM <<<"
+    {
+        "chi" "**射爆水晶来阻止他们 **"
+    }
+
+    ">>> THE DEMENTORS ARE HEALING VOLDEMORT <<<"
+    {
+        "chi" "**食死徒对伏地魔使用了接骨续命咒 **"
+    }
+
+    ">>> SHOOT THE CRYSTALS TO AVOID AN AVADA ATTACK <<<"
+    {
+        "chi" "**射爆水晶来阻止阿瓦达索命的释放 **"
+    }
+
+    ">>> THE DEMENTORS ARE HELPING VOLDEMORT <<<"
+    {
+        "chi" "**食死徒在帮助伏地魔 **"
+    }
+
+    ">>> SHOOT THE CRYSTALS TO STOP THE TORNADO ATTACK <<<"
+    {
+        "chi" "**快射爆水晶来阻止伏地魔释放咒语 **"
+    }
+
+    ">>> SHOOT THE CRYSTALS TO BREAK IT <<<"
+    {
+        "chi" "**不把4个水晶打爆我们就死定了 **"
+    }
+
+    ">>> THE DEMENTORS ARE COVERING VOLDEMORT <<<"
+    {
+        "chi" "**食死徒在拱卫着伏地魔 **"
+    }
+
+    ">>> 25 SECONDS LEFT <<<"
+    {
+        "chi" "**还有25秒 **"
+    }
+
+    ">>> BATHROOM TROLL IS DEAD - FALL BACK <<<"
+    {
+        "chi" "**澡堂巨魔死了快跑 **"
+    }
+
+    ">>> LOOK OUT FOR THE TOILET <<<"
+    {
+        "chi" "**小心马桶攻击 **"
+    }
+
+    ">>> WATCH OUT FOR THE MIDDLE <<<"
+    {
+        "chi" "**小心中间 **"
+    }
+
+    ">>> TROLL IS CHARGING SLAP ATTACK <<<"
+    {
+        "chi" "**巨魔想打我们一巴掌 **"
+    }
+
+    ">>> TROLL IS CHARGING PUSH ATTACK <<<"
+    {
+        "chi" "**巨魔打了个哈欠把我们吹跑了 **"
+    }
+
+    ">>> MINI SPIDER IS DEAD - KILL ARAGOG <<<"
+    {
+        "chi" "**小蜘蛛死了,快杀掉大蜘蛛 **"
+    }
+
+    ">>> ITS ARAGOG - KILL HIM <<<"
+    {
+        "chi" "**阿拉戈克大蜘蛛,杀了它 **"
+    }
+
+    ">>> MINISPIDERS ACTIVATED <<<"
+    {
+        "chi" "**小蜘蛛死了 **"
+    }
+
+    ">>> KILL THE MINI SPIDER <<<"
+    {
+        "chi" "**杀掉小蜘蛛 **"
+    }
+
+    ">>> ARAGOG CANNOT DIE AS LONG AS THE MINI SPIDER IS ALIVE <<<"
+    {
+        "chi" "**如果小蜘蛛没死就打不了大蜘蛛 **"
+    }
+
+    ">>> KILL THE MINI SPIDER AND AVOID ARAGOG <<<"
+    {
+        "chi" "**杀掉小蜘蛛才能打大的 **"
+    }
+
+    ">>> GET INSIDE AND PRESS THE LEVER TO OPEN THE DOORS <<<"
+    {
+        "chi" "**进去然后触发按钮才能开门 **"
+    }
+
+    ">>> ARAGOG IS DEAD <<<"
+    {
+        "chi" "**阿拉戈克大蜘蛛死了 **"
+    }
+
+    ">>> WATCH OUT FOR MASSIVE FIRE <<<"
+    {
+        "chi" "**小心火焰 **"
+    }
+
+    ">>> WATCH OUT FOR BITE ON RIGHT SIDE <<<"
+    {
+        "chi" "**小心右边的腐蚀毒液 **"
+    }
+
+    ">>> WATCH OUT FOR FIRE IN THE MIDDLE <<<"
+    {
+        "chi" "**小心中间的腐蚀毒液 **"
+    }
+
+    ">>> WATCH OUT FOR BITE ON LEFT SIDE <<<"
+    {
+        "chi" "**小心左边的腐蚀毒液 **"
+    }
+
+    ">>> WATCH OUT FOR FIRE ON THE RIGHT SIDE <<<"
+    {
+        "chi" "**小心右边的火 **"
+    }
+
+    ">>> WATCH OUT FOR BITE IN THE MIDDLE <<<"
+    {
+        "chi" "**小心右边的火 **"
+    }
+
+    ">>> WATCH OUT FOR FIRE ON THE LEFT SIDE <<<"
+    {
+        "chi" "**小心左边的火 **"
+    }
+
+    ">>> BASILISK IS GOING TO USE PETRIFY - FACE THE MIRROR <<<"
+    {
+        "chi" "**巨蛇会撕咬中间,快跑 **"
+    }
+
+    ">>> GET TO THE LAST HOLDPOINT <<<"
+    {
+        "chi" "**去最后的守点 **"
+    }
+
+    ">>> BASILISK IS DEAD - FALL BACK <<<"
+    {
+        "chi" "**巨蛇死了,快跑 **"
+    }
+
+    ">>> WATCH OUT FOR FALLING ROCKS IN THE MIDDLE <<<"
+    {
+        "chi" "**离中间远一点,有落石 **"
+    }
+
+    ">>> STAY CLOSE TO THE ROCK ON THE RIGHT SIDE <<<"
+    {
+        "chi" "**离右边远一点,有落石 **"
+    }
+
+    ">>> STAY CLOSE TO THE ROCK ON THE LEFT SIDE <<<"
+    {
+        "chi" "**离左边远一点,有落石 **"
+    }
+
+    ">>> AVOID THE MIDDLE - RUN TO THE SIDES <<<"
+    {
+        "chi" "**去2边,中间有陷阱 **"
+    }
+
+    ">>> DEFEND THIS LAST HOLD FOR 40 SECONDS <<<"
+    {
+        "chi" "**守住最后40秒 **"
+    }
+
+    ">>> DEFEND THIS LAST HOLD FOR 30 SECONDS <<<"
+    {
+        "chi" "**守住最后30秒 **"
+    }
+
+    ">>> DEFEND THIS LAST HOLD FOR 20 SECONDS <<<"
+    {
+        "chi" "**守住最后20秒 **"
+    }
+
+    ">>> DEFEND THIS LAST HOLD FOR 10 SECONDS <<<"
+    {
+        "chi" "**守住最后10秒 **"
+    }
+
+    ">>> WATCH OUT FOR THE FIRE ON THE RIGHT SIDE <<<"
+    {
+        "chi" "**右边将会出现火焰熊熊咒 **"
+    }
+
+    ">>> WATCH OUT FOR THE FIRE IN THE MIDDLE <<<"
+    {
+        "chi" "**中间将会出现火焰熊熊咒 **"
+    }
+
+    ">>> WATCH OUT FOR THE FIRE ON THE LEFT SIDE <<<"
+    {
+        "chi" "**左边将会出现火焰熊熊咒 **"
+    }
+
+    ">>> FINAL DOORS CLOSING IN 25 SECONDS <<<"
+    {
+        "chi" "**最后的门将在25秒后关上 **"
+    }
+
+    ">>> FINAL DOORS CLOSING IN 35 SECONDS <<<"
+    {
+        "chi" "**最后的门将在35秒后关上 **"
+    }
+
+    ">>> YOU HAVE DEFEAT ALL DRAGONS <<<"
+    {
+        "chi" "**小心左边 **"
+    }
+
+    ">>> FLUFFY IS DEAD - FALL BACK <<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>> WATCH OUT FOR THE LEFT SIDE <<<"
+    {
+        "chi" "** **"
+    }
+
+    ">>> WATCH OUT FOR THE RIGHT SIDE <<<"
+    {
+        "chi" "**小心右边 **"
+    }
+
+    ">>> [ADMIN ROOM] BARREL DAMAGE ENABLED <<<"
+    {
+        "chi" "**爆炸桶伤害打开 **"
+    }
+
+    ">>> [ADMIN ROOM] BARREL DAMAGE DISABLED <<<"
+    {
+        "chi" "**炸药桶爆炸伤害关闭 **"
+    }
+
+    ">>> [ADMIN ROOM] FLYING CAR METEORS SYSTEM ENABLED <<<"
+    {
+        "chi" "**天谴系统打开 **"
+    }
+
+    ">>> [ADMIN ROOM] FLYING CAR METEORS SYSTEM DISABLED <<<"
+    {
+        "chi" "**天谴系统关闭 **"
+    }
+
+    ">>> KILL THE DEATHEATER <<<"
+    {
+        "chi" "**杀掉食死徒 **"
+    }
+
+    ">>> DOOR BREAKING - FALL BACK <<"
+    {
+        "chi" "**门烂了快跑 **"
+    }
+
+    ">>> BOTH LEVERS ARE ACTIVATED <<<"
+    {
+        "chi" "**所有拉杆已经拉下 **"
+    }
+
+    ">>> ZOMBIE MOD ONLY ACTIVE <<<"
+    {
+        "chi" "**ZM MOD激活 **"
+    }
+
+    ">>> RELOADING THIS STAGE AGAIN <<<"
+    {
+        "chi" "**重载关卡 **"
+    }
+
+    ">>> HUMANS FAILED - RESTARTING STAGE <<<"
+    {
+        "chi" "**人类失败,重启关卡 **"
+    }
+
+    ">>> KEEP DEFENDING - MAGIC NUKE INCOMMING <<<"
+    {
+        "chi" "**守到魔法核爆来临 **"
+    }
+
+    ">>> TELEPORTING ZOMBIES INSIDE - DEFEND <<<"
+    {
+        "chi" "**有僵尸跟我们一起传送了,失败 **"
+    }
+
+    ">>> YOU KILLED IT - BAN IT NOW <<<"
+    {
+        "chi" "**我们成功封印了它 **"
+    }
+
+    ">>> !!! WATCH OUT !!! <<<"
+    {
+        "chi" "**小心!!! **"
+    }
+
+    ">>> THE DEMENTOR DIED - GET INSIDE <<<"
+    {
+        "chi" "**疯子死了快跑 **"
+    }
+
+    ">>> GET INSIDE AND DEFEND THE FINAL ROOM <<<"
+    {
+        "chi" "**进来守到过关 **"
+    }
+
+    ">>> KILL HIM BEFORE THE LEVER IS COMPLETELY PRESSED <<<"
+    {
+        "chi" "**杀掉他我们才能打开开关 **"
+    }
+
+    ">>> HE IS USING MAGIC TO CLOSE THE DOOR <<<"
+    {
+        "chi" "**他用魔法把门关上了 **"
+    }
+
+    ">>> A DEMENTOR IS BLOCKING OUR WAY <<<"
+    {
+        "chi" "**一个疯子挡住了我们 **"
+    }
+
+    ">>> HUMANS WON THIS STAGE <<<"
+    {
+        "chi" "**魔法学徒们成功通过了本学年魔法期末考试 **"
+    }
+
+    ">>> 20 SECONDS LEFT TO KILL THE REMAINING ZOMBIES <<<"
+    {
+        "chi" "**还有20秒杀掉进来的僵尸 **"
+    }
+
+    ">>> 15 SECONDS LEFT TO KILL THE REMAINING ZOMBIES <<<"
+    {
+        "chi" "**还有15秒杀掉进来的僵尸 **"
+    }
+
+    ">>> NO PLAYERS DETECTED INSIDE THE FINAL ROOM <<<"
+    {
+        "chi" "**没有玩家在最后的房间里面 **"
+    }
+
+    ">>> HUMANS FAILED - NO MORE TIME LEFT <<<"
+    {
+        "chi" "**人类由于回合时间不够失败 **"
+    }
+
+    ">>> ONE OF THEM WILL OPEN THE NEXT DOOR <<<"
+    {
+        "chi" "**其中一个房间有我们需要的东西 **"
+    }
+
+    ">>> BOXES BREAKING IN 10 SECONDS <<<"
+    {
+        "chi" "**箱子在10秒后破碎 **"
+    }
+
+    ">>> SHOOT THE WHITE CHESS PIECES <<<"
+    {
+        "chi" "**打掉白色的棋子 **"
+    }
+
+    ">>> BOXES BREAKING IN 5 SECONDS <<<"
+    {
+        "chi" "**箱子在5秒后裂开来 **"
+    }
+
+    ">>> BARRELS EXPLODING IN 5 SECONDS <<<"
+    {
+        "chi" "**炸药桶在5秒后炸 **"
+    }
+
+    ">>> KILL BASILISK <<<"
+    {
+        "chi" "**杀掉巨蛇**"
+    }
+
+    ">>> HOLD THIS POINT WHILE UNLOCKING THE BUTTONS <<<"
+    {
+        "chi" "**守住这里直到开关解锁 **"
+    }
+
+    ">>> THE GATE WILL BREAK WHEN BOTH LEVERS ARE PRESSED <<<"
+    {
+        "chi" "**所有拉杆拉下才能打开大门 **"
+    }
+
+    ">>> SHOOT A HEADSHOT IN THE TARGET ABOVE THE BUTTON <<<"
+    {
+        "chi" "**射到标靶的头才能解锁开关 **"
+    }
+
+    ">>> NADES STILL HURT VOLDEMORT TOO <<<"
+    {
+        "chi" "**手雷现在可以炸到伏地魔 **"
+    }
+
+    ">>> ONLY HARRY CAN HURT VOLDEMORT UNTIL THE DEATHEATER IS DEAD <<<"
+    {
+        "chi" "**在食死徒没死之前只有哈利波特能打到伏地魔 **"
+    }
+
+    ">>> USE THE WHEEL TO OPEN THE DOOR <<<"
+    {
+        "chi" "**这个门要旋转转盘才能开 **"
+    }
+
+    ">>> ONE MORE LEVER TO GO <<<"
+    {
+        "chi" "**还有一个拉杆 **"
+    }
+
+    ">>> DOOR OPENING IN 10 SECONDS <<<"
+    {
+        "chi" "**门在10秒后开 **"
+    }
+
+    ">>> WE FOUND THE CHESS PIECE <<<"
+    {
+        "chi" "**我们找到了棋片 **"
+    }
+
+    ">>> DOOR OPENING <<<"
+    {
+        "chi" "**门开了 **"
+    }
+
+    ">>> KEEP DEFENDING THE DOORWAY UNTIL THE DOOR CLOSES <<<"
+    {
+        "chi" "**守住直到门开 **"
+    }
+
+    ">>> ITS VOLDEMORT - DEFEAT HIM <<<"
+    {
+        "chi" "**伏地魔,打败他 **"
+    }
+
+    ">>> DOOR CLOSING IN 5 SECONDS <<<"
+    {
+        "chi" "**门在5秒后关 **"
+    }
+
+    ">>> VOLDEMORT IS DEFEATED - FALL BACK <<<"
+    {
+        "chi" "**伏地魔被我们打死了快跑 **"
+    }
+
+    ">>> VOLDEMORT IS CHARGING FIRE ATTACK <<<"
+    {
+        "chi" "**伏地魔发动火焰熊熊咒 **"
+    }
+
+    ">>> VOLDEMORT IS CHARGING GRAVITY ATTACK <<<"
+    {
+        "chi" "**伏地魔发动了行动迟缓咒 **"
+    }
+
+    ">>> VOLDEMORT IS CHARGING AVADA ATTACK <<<"
+    {
+        "chi" "**伏地魔发动阿瓦达-索命咒 **"
+    }
+
+    ">>> THE HUMANS HAVE 10 SECONDS LEFT TO ACTIVATE THE WIZARD MODE <<<"
+    {
+        "chi" "**人类还有10秒激活魔法师关卡 **"
+    }
+
+    ">>> THE HUMANS HAVE 5 SECONDS LEFT TO ACTIVATE THE WIZARD MODE <<<"
+    {
+        "chi" "*人类还有5秒激活魔法师关卡* **"
+    }
+
+    ">>> THE HUMANS HAVE 3 SECONDS LEFT TO ACTIVATE THE WIZARD MODE <<<"
+    {
+        "chi" "**人类还有3秒激活魔法师关卡 **"
+    }
+
+    ">>> THE HUMANS HAVE 2 SECONDS LEFT TO ACTIVATE THE WIZARD MODE <<<"
+    {
+        "chi" "**人类还有2秒激活魔法师关卡 **"
+    }
+
+    ">>> THE HUMANS HAVE 1 SECOND LEFT TO ACTIVATE THE WIZARD MODE <<<"
+    {
+        "chi" "**人类还有1秒激活魔法师关卡 **"
+    }
+
+    ">>> GOOD LUCK <<<"
+    {
+        "chi" "**祝你们好运 **"
+    }
+
+    ">>> THE HUMANS HAVE 55 SECONDS LEFT TO ACTIVATE THE WIZARD MODE <<<"
+    {
+        "chi" "*人类还有55秒激活魔法师关卡* **"
+    }
+
+    ">>> PRESS THE LEVER ON THE PLATFORM TO ACTIVATE THE WIZARD MODE <<<"
+    {
+        "chi" "**按下拉杆来激活魔法师关卡 **"
+    }
+
+    ">>> EVERY ITEM IS PROTECTED BY A DRAGON <<<"
+    {
+        "chi" "**所有神器对龙都有效果 **"
+    }
+
+    ">>> FOUND THE ITEM? PRESS E ON THE ITEM TO COLLECT IT <<<"
+    {
+        "chi" "**找到了特殊任务道具按E收集 **"
+    }
+
+    ">>> YOU WILL NEED TO COLLECT ITEMS IN EACH MINI STAGE <<<"
+    {
+        "chi" "**我们需要收集特殊道具解锁别的小关卡 **"
+    }
+
+    ">>> WELCOME TO THE HARRY POTTER WIZARD MODE <<<"
+    {
+        "chi" "**欢迎来到哈利波特魔法师关卡 **"
+    }
+
+    ">>> THE HUMANS NEED TO PROTECT THE COLLECTOR <<<"
+    {
+        "chi" "**所有人类都要保护特殊玩家 **"
+    }
+
+    ">>> THE COLLECTOR NEEDS TO DELIVER THE ITEM ON THE PLATFORM <<<"
+    {
+        "chi" "**特殊道具持有者得去解锁下一关 **"
+    }
+
+    ">>> IF THE COLLECTOR DIES THE ENTIRE TEAM DIES <<<"
+    {
+        "chi" "**如果拿着特殊任务道具的玩家死了,那么所有人都得死 **"
+    }
+
+    ">>> THE HUMANS HAVE 20 SECONDS LEFT TO ACTIVATE THE WIZARD MODE <<<"
+    {
+        "chi" "**人类还有20秒激活魔法师关卡 **"
+    }
+
+    ">>> THE HUMANS HAVE 30 SECONDS LEFT TO ACTIVATE THE WIZARD MODE <<<"
+    {
+        "chi" "**人类还有30秒激活魔法师关卡 **"
+    }
+
+    ">>> THE WIZARD MODE HAS NOT BEEN ACTIVATED <<<"
+    {
+        "chi" "**魔法师关卡没有人激活 **"
+    }
+
+    ">>> THE HUMANS HAVE 40 SECONDS LEFT TO ACTIVATE THE WIZARD MODE <<<"
+    {
+        "chi" "**人类还有40秒激活魔法师关卡 **"
+    }
+
+    ">>> FINAL DOORS CLOSING IN 10 SECONDS <<<"
+    {
+        "chi" "**最后的门将在10秒后关上 **"
+    }
+
+
+    ">>> FINAL DOORS OPENING IN 20 SECONDS <<<"
+    {
+        "chi" "**最后的门将在20秒后打开 **"
+    }
+
+    ">>> DEFEND FOR 10 SECONDS <<<"
+    {
+        "chi" "**守住10秒 **"
+    }
+
+    ">>> FINAL DOORS OPENING IN 15 SECONDS <<<"
+    {
+        "chi" "**最后的门将在15秒后打开 **"
+    }
+
+    ">>> BOSS STAGE WILL ACTIVATE IN 5 SECONDS <<<"
+    {
+        "chi" "**BOSS战将在5秒后解锁 **"
+    }
+
+    ">>> BOSS STAGE WILL ACTIVATE IN 15 SECONDS <<<"
+    {
+        "chi" "**BOSS战将在15秒后解锁 **"
+    }
+
+    ">>> PLATFORM BUYZONE ACTIVE FOR 6 SECONDS <<<"
+    {
+        "chi" "**购买区域将在6秒后解锁 **"
+    }
+
+    ">>> LEVER WHEELS UNLOCKED <<<"
+    {
+        "chi" "**转盘尚未解锁 **"
+    }
+
+    ">>> TURN BOTH WHEELS UNTIL BOTH LEVER ARE UNLOCKED <<<"
+    {
+        "chi" "**按住转盘触发 **"
+    }
+
+    ">>> WHEN UNLOCKED PRESS THEM TO ACTIVATE THE BOSS STAGE <<<"
+    {
+        "chi" "**解锁了开关我们才能触发去打BOSS **"
+    }
+
+    ">>> BOTH LEVERS HAVE BEEN PRESSED <<<"
+    {
+        "chi" "**所有拉杆已经拉下 **"
+    }
+
+    ">>> SPLIT UP AND DEFEND ALL SIDES <<<"
+    {
+        "chi" "**在这里守住全部路口 **"
+    }
+
+    ">>> MASSIVE TELEPORT TO INSIDE IN 10 SECONDS <<<"
+    {
+        "chi" "**传送将在10秒后 **"
+    }
+
+    ">>> ZOMBIES CAN ALSO ESCAPE VIA THE SIDES NOW <<<"
+    {
+        "chi" "**僵尸现在可以逃脱??? **"
+    }
+
+    ">>> 2 LEVERS ARE PRESSED <<<"
+    {
+        "chi" "**2个拉杆已经按下 **"
+    }
+
+    ">>> DOOR WILL BREAK IN 20 SECONDS <<<"
+    {
+        "chi" "**门在20秒后TM的裂开来 **"
+    }
+
+    ">>> ITS ANOTHER DEATHEATER - KILL HIM <<<"
+    {
+        "chi" "**是另一个食死徒,杀了他 **"
+    }
+
+    ">>> MASSIVE NUKE IN 5 SECONDS <<<"
+    {
+        "chi" "**魔法核爆在5秒后到来 **"
+    }
+
+    ">>> MAP CREATED BY SKULLZ AND DEVIOUS <<<"
+    {
+        "chi" "**本图由SKULLZ和DEVIOUS制作,汉化:fys Ruby **"
+    }
+
+    ">>> PRESS E ON THE BARRELS  <<<"
+    {
+        "chi" "**按E点燃炸药桶 **"
+    }
+
+    ">>> THE PATH IS BLOCKED BY WOOD <<<"
+    {
+        "chi" "**这条小路被障碍物挡住了 **"
+    }
+
+    ">>> ITS A DEATHEATER GUARDING THE BUTTON - KILL HIM <<<"
+    {
+        "chi" "**一个食死徒在守着开关,杀了他 **"
+    }
+
+    ">>> BOTH LEVERS ACTIVATED <<<"
+    {
+        "chi" "**所有拉杆已经激活 **"
+    }
+
+    ">>> BOSS STAGE WILL ACTIVATE IN 10 SECONDS <<<"
+    {
+        "chi" "**BOSS站传送将在10秒后 **"
+    }
+
+    ">>> SHOOT AND BREAK THE WALL <<<"
+    {
+        "chi" "**用枪打碎这道墙 **"
+    }
+
+    ">>> NADES HAVE NO EFFECT <<<"
+    {
+        "chi" "**手雷对BOSS没用了 **"
+    }
+
+    ">>> GATE BREAKING IN 10 SECONDS <<<"
+    {
+        "chi" "**门在10秒后开 **"
+    }
+
+    ">>> ZOMBIES DETECTED <<<"
+    {
+        "chi" "**有僵尸进来了 **"
+    }
+
+    ">>> HUMANS WIN <<<"
+    {
+        "chi" "**人类胜利 **"
+    }
+
+    ">>> ZOMBIES WIN <<<"
+    {
+        "chi" "**僵尸胜利 **"
+    }
+
+    ">>> DOOR BROKEN - FALL BACK <<"
+    {
+        "chi" "**门炸了快跑 **"
+    }
+
+    ">>> DEATHEATER IS CHARGING POISON ATTACK <<<"
+    {
+        "chi" "**食死徒对你使用了毒素 **"
+    }
+
+    ">>> DEATHEATER IS CHARGING FIRE ATTACK <<<"
+    {
+        "chi" "**食死徒使用了火焰魔法 **"
+    }
+
+    ">>> DEATHEATER IS CHARGING GRAVITY ATTACK <<<"
+    {
+        "chi" "**食死徒使用了黑洞魔法 **"
+    }
+
+    ">>> DEATHEATER IS CHARGING WIND ATTACK <<<"
+    {
+        "chi" "**食死徒使用了狂风魔法 **"
+    }
+
+    ">>> STAGE TELEPORT ENABLED IN 5 SECONDS <<<"
+    {
+        "chi" "**出生点将在5秒后开启传送 **"
+    }
+
+    ">>> STAGE TELEPORT ENABLED IN 8 SECONDS <<<"
+    {
+        "chi" "**出生点将在8秒后开启传送 **"
+    }
+
+    ">>> SPAWN TELEPORT ENABLED IN 30 SECONDS <<<"
+    {
+        "chi" "**出生点将在30秒后开启传送 **"
+    }
+
+    ">>> SPAWN TELEPORT ENABLED IN 20 SECONDS <<<"
+    {
+        "chi" "**出生点将在20秒后开启传送 **"
+    }
+
+    ">>> WARMUP ROUND <<<"
+    {
+        "chi" "** 热身回合 **"
+    }
+	
+    ">>> HARRY POTTER COUNTER IT <<<"
+    {
+        "chi" "**哈利波特应对之 **"
+    }
+
+    ">>> [ADMIN ROOM] WEATHER SYSTEM ENABLED <<<"
+    {
+        "chi" "**管理员打开了粒子天气系统 **"
+    }
+
+    ">>> [ADMIN ROOM] WEATHER SYSTEM DISABLED <<<"
+    {
+        "chi" "**管理员关掉了粒子天气系统 **"
+    }
+
+    ">>> WATCH OUT FOR FLYING CARS <<<"
+    {
+        "chi" "**小心天上飞来的汽车 **"
+    }
+
+}

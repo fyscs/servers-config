@@ -4,7 +4,7 @@
 	{
 		"chi"		"**岩石15秒后碎裂**"
         "command" "rank_ze_win_points_humans 3;"
-        //云点改动 序章人类获胜所得云点降低
+        // 云点改动 序章人类获胜所得云点降低
 	}
 	"***ROCK WALL WILL BREAK IN 5 SECONDS***"
 	{
@@ -24,7 +24,7 @@
 	}
 	"***GET UP ON THAT ROCK***"
 	{
-		"chi"		"**在那块石头上待着**"
+		"chi"		"**在那块石头上待着,不要贴边**"
 	}
 	"***MUFASA.. IS DEAD...***"
 	{
@@ -42,7 +42,7 @@
 	{
 		"chi"		"**雪墙10秒后碎开**"
         "command" "rank_ze_win_points_humans 15;"
-        //云点改动 从雪地关卡开始云点获胜恢复15点
+        // 云点改动 从雪地关卡开始云点获胜恢复15点
 	}
 	"***DRAWBRIDGE WILL DRAW ITSELF IN 5 SECONDS***"
 	{
@@ -63,7 +63,7 @@
 	}
 	"***INNER INNEST INCEST BEAVER BLASTDOOR IS OPENING IN 15 SECONDS***"
 	{
-		"chi"		"**内部有河狸的防爆门15秒后打开**"
+		"chi"		"**第二道防爆门15秒后打开,小心河狸**"
 	}
 	"***THIS GATE WILL OPEN ONCE BOTH PATHS HAVE BEEN CLEARED***"
 	{
@@ -365,7 +365,7 @@
 	}
 	"***GLASS WILL BREAK IN 5 SECONDS***"
 	{
-		"chi"		"**玻璃5秒后碎**"
+		"chi"		"**玻璃5秒后破碎**"
 
 	}
 	"***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***"
@@ -396,7 +396,7 @@
 	}
 	"***THE BURRITO SHITTER IS DEPARTING***"
 	{
-		"chi"		"**墨西哥煎饼正在离去**"
+		"chi"		"**墨西哥卷饼车正在启程**"
 	}
 	"***NEXT STOP - ILLEGALITY***"
 	{
@@ -404,7 +404,7 @@
 	}
 	"***PUNISHING EDGERS WITH BURRITO LOVE***"
 	{
-		"chi"		"**用煎饼的爱惩罚他们**"
+		"chi"		"**用卷饼的爱惩罚他们**"
 	}
 	"***MAGIC ZOMBIE PUSH IS DISABLED***"
 	{
@@ -412,7 +412,7 @@
 	}
 	"***ZOMBIES CAN NOW GET YOU FROM THE SIDES***"
 	{
-		"chi"		"**僵尸现在可以从侧面来抓你**"
+		"chi"		"**僵尸现在可以从两侧来抓你**"
 	}
 	"***FACTORY DOOR OPENS IN 10 SECONDS***"
 	{
@@ -483,11 +483,11 @@
 	}
 	"***TIP - YOU CAN BREAK THE RUSTY METAL***"
 	{
-		"chi"		"**提示 你可以打碎生锈的金属**"
+		"chi"		"**提示:你可以打碎生锈的金属,但是请等等你的队友**"
 	}
 	"***FIND THE BUTTONS***"
 	{
-		"chi"		"**找到按钮**"
+		"chi"		"**找到三个按钮**"
 	}
 	"***BUTTON 1 PRESSED***"
 	{
@@ -590,13 +590,13 @@
 	}
 	"***TRAM 1 IS LEAVING IN 20 SECONDS***"
 	{
-		"chi"		"**电车一20秒后离开**"
+		"chi"		"**板子:电车一20秒后离开**"
         "command"   "command" "rank_ze_win_points_humans 15;"
-        //云点改动   第三章恢复15云点(防止真结局通关之后一直刷假结局通关)
+        // 云点改动   第三章恢复15云点(防止真结局通关之后一直刷假结局通关)
 	}
 	"***LOWER ELEVATOR IS LEAVING IN 20 SECONDS***"
 	{
-		"chi"		"**低电梯20秒后离开**"
+		"chi"		"**鹦鹉:低电梯20秒后离开**"
 	}
 	"***TRAM 1 IS LEAVING***"
 	{
@@ -604,11 +604,11 @@
 	}
 	"***LOWER ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"chi"		"**低电梯5秒后离开**"
+		"chi"		"**鹦鹉:低电梯5秒后离开**"
 	}
 	"***TRAM 2 IS LEAVING IN 10 SECONDS***"
 	{
-		"chi"		"**电车二10秒后离开**"
+		"chi"		"**板子:电车二10秒后离开**"
 	}
 	"***LOWER ELEVATOR IS LEAVING***"
 	{
@@ -620,16 +620,16 @@
 	}
 	"***LOWER GATE IS OPENING IN 35 SECONDS***"
 	{
-		"chi"		"**低门35秒后打开**"
+		"chi"		"**鹦鹉:低门35秒后打开**"
 
 	}
 	"***INNER UPPER GATE IS OPENING IN 40 SECONDS***"
 	{
-		"chi"		"**内门40秒后打开**"
+		"chi"		"**板子:内门40秒后打开**"
 	}
 	"***LOWER GATE IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"**低门5秒后打开**"
+		"chi"		"**鹦鹉:低门5秒后打开**"
 	}
 	"***LOWER GATE IS OPENING***"
 	{
@@ -637,7 +637,7 @@
 	}
 	"***INNER UPPER GATE IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"**内门5秒后打开**"
+		"chi"		"**板子:内门5秒后打开**"
 	}
 	"***INNER UPPER GATE IS OPENING***"
 	{
@@ -667,7 +667,7 @@
 	}
 	"***UPPER GATE IS OPENING***"
 	{
-		"chi"		"**高门开了**"
+		"chi"		"**高门开了,麻烦拿奶的玩家去贴一下外门**"
 	}
 	"***OUTER GATE WILL OPEN IN 20 SECONDS***"
 	{
@@ -683,7 +683,7 @@
 	}
 	"***MOVE IT***"
 	{
-		"chi"		"**移动它**"
+		"chi"		"**快溜**"
 	}
 	"***SANTA'S DOOR IS OPENING IN 20 SECONDS***"
 	{
@@ -789,7 +789,7 @@
 	}
 	"***THANK YOU FOR PLAYING***"
 	{
-		"chi"		"**谢谢你的游玩么么哒(づ￣ 3￣)づ**"
+		"chi"		"**[全剧终]可以进行RTV投票了**"
 	}
 	"***MAP MADE BY - LUFFAREN***"
 	{
@@ -809,16 +809,16 @@
 	}
 	"***OUTER GATE IS OPENING IN 50 SECONDS***"
 	{
-		"chi"		"**外门50秒后打开**"
+		"chi"		"**狮子:外门50秒后打开**"
 
 	}
 	"***CENTER GATE IS OPENING IN 30 SECONDS***"
 	{
-		"chi"		"**中央门30秒后打开**"
+		"chi"		"**中间:中央门30秒后打开**"
 	}
 	"***CENTER GATE IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"**中央门5秒后打开**"
+		"chi"		"**中间:中央门5秒后打开**"
 	}
 	"***CENTER GATE IS OPENING***"
 	{
@@ -826,7 +826,7 @@
 	}
 	"***OUTER GATE IS OPENING IN 10 SECONDS***"
 	{
-		"chi"		"**外门10秒后打开**"
+		"chi"		"**狮子:外门10秒后打开**"
 	}
 	"***OUTER GATE IS OPENING***"
 	{
@@ -834,19 +834,19 @@
 	}
 	"***ELEVATOR SHAFT GATE IS OPENING IN 30 SECONDS***"
 	{
-		"chi"		"**电梯井门30秒后打开**"
+		"chi"		"**中间:电梯井门30秒后打开**"
 	}
 	"***OUTER ELEVATOR IS LEAVING IN 40 SECONDS***"
 	{
-		"chi"		"**电梯40秒后离开**"
+		"chi"		"**狮子:电梯40秒后离开**"
 	}
 	"***ZAZU IS PRAYING FOR THE TRUTH***"
 	{
-		"chi"		"**沙祖正在寻找真相**"
+		"chi"		"**鹦鹉路:沙祖正在寻找真相**"
 	}
 	"***ELEVATOR SHAFT GATE IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"**电梯井门5秒后打开**"
+		"chi"		"**中间:电梯井门5秒后打开**"
 	}
 	"***ELEVATOR SHAFT GATE IS OPENING***"
 	{
@@ -854,7 +854,7 @@
 	}
 	"***OUTER ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
-		"chi"		"**电梯5秒后离开**"
+		"chi"		"**狮子:电梯5秒后离开**"
 	}
 	"***OUTER ELEVATOR IS LEAVING***"
 	{
@@ -862,7 +862,7 @@
 	}
 	"***SIMBA IS PRAYING FOR THE TRUTH***"
 	{
-		"chi"		"**辛巴正在寻找真相**"
+		"chi"		"**狮子路:辛巴正在寻找真相**"
 	}
 	"***MUFASA IS PRAYING FOR THE TRUTH***"
 	{
@@ -1288,7 +1288,7 @@
 	}
 	"***90% OF THE HUMANS NEED TO VOTE IN ORDER FOR IT TO PASS***"
 	{
-		"chi"		"**90%的人需要投票才能通过**"
+		"chi"		"**9成以上的人需要投票才能通过**"
 	}
 	"***TRUMP IS PROUD OF YOU***"
 	{

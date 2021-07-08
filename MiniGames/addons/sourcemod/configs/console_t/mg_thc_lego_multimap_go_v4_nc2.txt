@@ -72,27 +72,27 @@
 
     "[THC LEGO] 1 HP"
     {
-        "chi" "1HP"
+        "chi" "一血"
     }
 
     "[THC LEGO] 35 HP"
     {
-        "chi" "35HP"
+        "chi" "三十五血"
     }
 
     "[THC LEGO] 100 HP"
     {
-        "chi" "100HP"
+        "chi" "一百血"
     }
 
     "[THC LEGO] 400 HP"
     {
-        "chi" "400HP"
+        "chi" "四百血"
     }
 
     "[THC LEGO] FALLING BOXES"
     {
-        "chi" "天坠之箱"
+        "chi" "天坠"
     }
 
     "[THC LEGO] CHAIR KNIFING"
@@ -237,27 +237,27 @@
 
     "[THC LEGO] Winners Get 10 Points"
     {
-        "chi" "胜者得到10分"
+        "chi" "胜者得到十分"
     }
 
     "[THC LEGO] Refire Time - 3 seconds"
     {
-        "chi" "箱子发射间隔时间 - 3秒"
+        "chi" "箱子发射间隔时间 - 三秒"
     }
 
     "[THC LEGO] Refire Time - 2 seconds"
     {
-        "chi" "箱子发射间隔时间 - 2秒"
+        "chi" "箱子发射间隔时间 - 两秒"
     }
 
     "[THC LEGO] Refire Time -  1 second"
     {
-        "chi" "箱子发射间隔时间 - 1秒"
+        "chi" "箱子发射间隔时间 - 一秒"
     }
 
     "[THC LEGO] Refire Time -  0.5 seconds"
     {
-        "chi" "箱子发射间隔时间 - 0.5秒"
+        "chi" "箱子发射间隔时间 - 零点五秒"
     }
 
     "[THC LEGO] Random Timer Disabled"
@@ -272,7 +272,7 @@
 
     "[THC LEGO] Refire Time -  0.3 seconds"
     {
-        "chi" "箱子发射间隔时间 - 0.3秒"
+        "chi" "箱子发射间隔时间 - 零点三秒"
     }
 
     "[THC LEGO] WATER CLIMB"
@@ -287,6 +287,7 @@
 
     "[THC LEGO] AFK TIMER in 30 sec"
     {
+        "blocked" "1"
         "chi" "30秒钟后自动选图"
     }
 
@@ -302,12 +303,13 @@
 
     "[THC LEGO] AFK TIMER in 10 sec"
     {
+        "blocked" "1"
         "chi" "10秒钟后自动选图"
     }
 
     "[THC LEGO] Choose A Box - 10 sec Time"
     {
-        "chi" "你有10秒钟的时间选择一个电话亭"
+        "chi" "10秒内选择一个电话亭"
     }
 
     "[THC LEGO] How To Play?"
@@ -327,17 +329,18 @@
 
     "[THC LEGO] Btw -> Game By Kinsi"
     {
+        "blocked" "1"
         "chi" "游戏制作者: Kinsi"
     }
 
     "[THC LEGO] Push Or Don't Push"
     {
-        "chi" "来决定按或是不按按钮"
+        "chi" "按还是不按?这是一个问题"
     }
 
     "[THC LEGO] You Have To Read Above The Buttons"
     {
-        "chi" "你需要按照按钮上方的指示"
+        "chi" "显示push的时候按下按钮.按慢了,按错了就等于死亡!"
     }
 
     "[THC LEGO] LAST REACTION"
@@ -352,7 +355,7 @@
 
     "[THC LEGO] TIME LIMIT"
     {
-        "chi" "时间有限"
+        "chi" "时间到"
     }
 
     "[THC LEGO] 60 SECONDS REMAINING"
@@ -474,16 +477,19 @@
 
     "[THC LEGO] KNIFE AFK TIMER"
     {
+        "blocked" "1"
         "chi" "长时间未选择子选择 即将自动选择"
     }
 
     "[THC LEGO] LOW GRAV AFK TIMER"
     {
+        "blocked" "1"
         "chi" "长时间未选择子选择 即将自动选择"
     }
 
     "[THC LEGO] WAR AFK TIMER"
     {
+        "blocked" "1"
         "chi" "长时间未选择子选择 即将自动选择"
     }
 
