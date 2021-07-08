@@ -6,11 +6,11 @@
 	}
 	"*** Porting helped by Airvulpes,kune***"
 	{
-		"chi"		"** **"
+		"chi"		"感谢Airvulpes,kune对移植的帮助"
 	}
 	"** NOT ALLOWING PORTING TO CSS ***"
 	{
-		"chi"		"** **"
+		"chi"		"禁止移植到CSS"
 	}
 	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
 	{
@@ -42,15 +42,17 @@
 	}
 	"*** ADVENTURE WILL START IN 30 SECONDS ***"
 	{
-		"chi"		"** **"
+		"chi"		"**冒险将在30秒后开始**"
 	}
 	"*** ADVENTURE WILL START IN 10 SECONDS ***"
 	{
 		"chi"		"** **"
+		"blocked" "1"
 	}
 	"*** ADVENTURE WILL START IN 5 SECONDS ***"
 	{
 		"chi"		"** **"
+		"blocked" "1"
 	}
 	"*** ADVENTURE is begining... Good lu"
 	{
@@ -99,14 +101,16 @@
 	"*** LEVEL2 Portal will activate in 20 SECONDS***"
 	{
 		"chi"		"**传送还有20秒!**"
+		"blocked" "1"
 	}
 	"*** LEVEL2 Portal will activate in 10 SECONDS***"
 	{
 		"chi"		"**传送还有10秒!**"
+		"blocked" "1"
 	}
 	"*** LEVEL2 Portal will activate in 5 SECONDS***"
 	{
-		"chi"		"**传送还有5秒!**"
+		"chi"		"**传送还有五秒!**"
 	}
 	"*** LEVEL 2:  LADDERS ***"
 	{
@@ -119,14 +123,16 @@
 	"*** LEVEL3 Portal will activate in 20 SECONDS***"
 	{
 		"chi"		"**传送还有20秒!**"
+		"blocked" "1"
 	}
 	"*** LEVEL3 Portal will activate in 10 SECONDS***"
 	{
 		"chi"		"**传送还有10秒!**"
+		"blocked" "1"
 	}
 	"*** LEVEL3 Portal will activate in 5 SECONDS***"
 	{
-		"chi"		"**传送还有5秒!**"
+		"chi"		"**传送还有五秒!**"
 	}
 	"***LEVEL 3: MOVING SCAFFOLDS 1 ***"
 	{
@@ -139,14 +145,16 @@
 	"*** LEVEL4 Portal will activate in 20 SECONDS***"
 	{
 		"chi"		"**传送还有20秒!**"
+		"blocked" "1"
 	}
 	"*** LEVEL4 Portal will activate in 10 SECONDS***"
 	{
 		"chi"		"**传送还有10秒!**"
+		"blocked" "1"
 	}
 	"*** LEVEL4 Portal will activate in 5 SECONDS***"
 	{
-		"chi"		"**传送还有5秒!**"
+		"chi"		"**传送还有五秒!**"
 	}
 	"*** LEVEL4 LOW GRAVITY ***"
 	{
@@ -158,19 +166,21 @@
 	}
 	"*** LEVEL5 Portal will activate in 30 SECONDS***"
 	{
-		"chi"		"**第5关的传送将在30秒后触发!**"
+		"chi"		"**第五关的传送将在30秒后触发!**"
 	}
 	"*** LEVEL5 Portal will activate in 20 SECONDS***"
 	{
 		"chi"		"**传送还有20秒!**"
+		"blocked" "1"
 	}
 	"*** LEVEL5 Portal will activate in 10 SECONDS***"
 	{
 		"chi"		"**传送还有10秒!**"
+		"blocked" "1"
 	}
 	"*** LEVEL5 Portal will activate in 5 SECONDS***"
 	{
-		"chi"		"**传送还有5秒!**"
+		"chi"		"**传送还有五秒!**"
 	}
 	"*** LEVEL5 WINDY ***"
 	{
@@ -183,14 +193,16 @@
 	"*** LEVEL6 Portal will activate in 20 SECONDS***"
 	{
 		"chi"		"**传送还有20秒!**"
+		"blocked" "1"
 	}
 	"*** LEVEL6 Portal will activate in 10 SECONDS***"
 	{
 		"chi"		"**传送还有10秒!**"
+		"blocked" "1"
 	}
 	"*** LEVEL6 Portal will activate in 5 SECONDS***"
 	{
-		"chi"		"**传送还有5秒!**"
+		"chi"		"**传送还有五秒!**"
 	}
 	"*** LEVEL6 SLIDE 1 ***"
 	{
@@ -203,14 +215,16 @@
 	"*** LEVEL7 Portal will activate in 20 SECONDS***"
 	{
 		"chi"		"**传送还有20秒!**"
+		"blocked" "1"
 	}
 	"*** LEVEL7 Portal will activate in 10 SECONDS***"
 	{
 		"chi"		"**传送还有10秒!**"
+		"blocked" "1"
 	}
 	"*** LEVEL7 Portal will activate in 5 SECONDS***"
 	{
-		"chi"		"**传送还有5秒!**"
+		"chi"		"**传送还有五秒!**"
 	}
 	"*** LEVEL7 HOLD THIS POSITION ***"
 	{
@@ -223,14 +237,16 @@
 	"*** HOLD THIS POSITION for 20 SECONDS***"
 	{
 		"chi"		"**守住20秒!**"
+		"blocked" "1"
 	}
 	"*** HOLD THIS POSITION for 10 SECONDS***"
 	{
 		"chi"		"**守住10秒!**"
+		"blocked" "1"
 	}
 	"*** HOLD THIS POSITION for 5 SECONDS***"
 	{
-		"chi"		"**守住5秒!**"
+		"chi"		"**守住五秒!**"
 	}
 	"*** STAGE 1 COMPLETED ***"
 	{
@@ -242,7 +258,7 @@
 	}
 	"*** LEVEL 8: THE MOVING WALLS ***"
 	{
-		"chi"		"**第八关会移动的强**"
+		"chi"		"**第八关会移动的墙**"
 	}
 	"*** LEVEL9 Portal will activate in 30 SECONDS ***"
 	{
@@ -263,14 +279,16 @@
 	"*** LEVEL9 Portal will activate in 20 SECONDS ***"
 	{
 		"chi"		"**传送还有20秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL9 Portal will activate in 10 SEDONDS ***"
 	{
 		"chi"		"**传送还有10秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL9 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"**传送还有5秒**"
+		"chi"		"**传送还有五秒**"
 	}
 	"*** LEVEL 9:  THE ROTATING SCAFFOLDS ***"
 	{
@@ -291,14 +309,16 @@
 	"*** LEVEL10 Portal will activate in 20 SECONDS ***"
 	{
 		"chi"		"**第十关传送还有20秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL10 Portal will activate in 10 SEDONDS ***"
 	{
 		"chi"		"**10秒!**"
+		"blocked" "1"
 	}
 	"*** LEVEL10 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"**5秒!**"
+		"chi"		"**还有五秒!**"
 	}
 	"*** LEVEL 10:  THE MOVING SCAFFOLDS 2 ***"
 	{
@@ -311,14 +331,16 @@
 	"*** LEVEL11 Portal will activate in 20 SECONDS ***"
 	{
 		"chi"		"**还有20秒!**"
+		"blocked" "1"
 	}
 	"*** LEVEL11 Portal will activate in 10 SEDONDS ***"
 	{
 		"chi"		"**还有10秒!
+		"blocked" "1"
 	}
 	"*** LEVEL11 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"**还有5秒!
+		"chi"		"**还有五秒!
 	}
 	"*** LEVEL 11:  JUMPS ***"
 	{
@@ -339,14 +361,16 @@
 	"*** LEVEL12 Portal will activate in 20 SECONDS ***"
 	{
 		"chi"		"**还有20秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL12 Portal will activate in 10 SEDONDS ***"
 	{
 		"chi"		"**还有10秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL12 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"**还有5秒**"
+		"chi"		"**还有五秒**"
 	}
 	"*** LEVEL 12:  LASERS ***"
 	{
@@ -367,14 +391,16 @@
 	"*** LEVEL13 Portal will activate in 20 SECONDS ***"
 	{
 		"chi"		"**第十三关传送将在20秒后触发**"
+		"blocked" "1"
 	}
 	"*** LEVEL13 Portal will activate in 10 SEDONDS ***"
 	{
 		"chi"		"**还有10秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL13 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"**还有5秒**"
+		"chi"		"**还有五秒**"
 	}
 	"*** LEVEL 13: FLYING ***"
 	{
@@ -387,14 +413,16 @@
 	"*** LEVEL14 Portal will activate in 20 SECONDS ***"
 	{
 		"chi"		"**还有20秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL14 Portal will activate in 10 SEDONDS ***"
 	{
 		"chi"		"**还有10秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL14 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"**还有5秒**"
+		"chi"		"**还有五秒**"
 	}
 	"*** LEVEL 14:  THE CLOUD BOSS ***"
 	{
@@ -402,15 +430,16 @@
 	}
 	"*** THE SCAFFOLD WILL RISE IN 20 SECONDS ***"
 	{
-		"chi"		"**平台将在二十秒后升起**"
+		"chi"		"**平台将在20秒后升起**"
 	}
 	"*** THE SCAFFOLD WILL RISE IN 10 SECONDS ***"
 	{
-		"chi"		"**平台将在十秒后升起**"
+		"chi"		"**平台将在10秒后升起**"
+		"blocked" "1"
 	}
 	"*** THE SCAFFOLD WILL RISE IN 5 SECONDS ***"
 	{
-		"chi"		"**平台将在5s后升起**"
+		"chi"		"**平台将在五秒后升起**"
 	}
 	"BOY CLOUD : !? they're the humans !?"
 	{
@@ -479,14 +508,17 @@
 	"*** STAGE COMPLETE IN 20 SECONDS ***"
 	{
 		"chi"		"**20秒后结束**"
+		"blocked" "1"
 	}
 	"*** STAGE COMPLETE IN 10 SECONDS ***"
 	{
 		"chi"		"**10秒!**"
+		"blocked" "1"
 	}
 	"*** STAGE COMPLETE IN 5 SECONDS ***"
 	{
 		"chi"		"**5秒!**"
+		"blocked" "1"
 	}
 	"*** STAGE 2 COMPLETED ***"
 	{
@@ -514,19 +546,21 @@
 	}
 	"*** LEVEL16 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"**第16关传送将在30秒后触发**"
+		"chi"		"**第十六关传送将在30秒后触发**"
 	}
 	"*** LEVEL16 Portal will activate in 20 SECONDS ***"
 	{
 		"chi"		"**还有20秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL16 Portal will activate in 10 SEDONDS ***"
 	{
 		"chi"		"**还有10秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL16 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"**还有5秒**"
+		"chi"		"**还有五秒**"
 	}
 	"*** LEVEL 16: VARIOUS TYPE ROAD 1 ***"
 	{
@@ -542,19 +576,21 @@
 	}
 	"*** LEVEL17 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"**第17关传送还有30秒!**"
+		"chi"		"**第十七关传送还有30秒!**"
 	}
 	"*** LEVEL17 Portal will activate in 20 SECONDS ***"
 	{
 		"chi"		"**还有20秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL17 Portal will activate in 10 SEDONDS ***"
 	{
 		"chi"		"**还有10秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL17 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"**还有5秒**"
+		"chi"		"**还有五秒**"
 	}
 	"*** LEVEL 17: VARIOUS TYPE ROAD 2 ***"
 	{
@@ -566,19 +602,21 @@
 	}
 	"*** LEVEL18 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"**第18关传送还有30秒**"
+		"chi"		"**第十八关传送还有30秒**"
 	}
 	"*** LEVEL18 Portal will activate in 20 SECONDS ***"
 	{
 		"chi"		"**还有20秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL18 Portal will activate in 10 SEDONDS ***"
 	{
 		"chi"		"**还有10秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL18 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"**还有5秒**"
+		"chi"		"**还有五秒**"
 	}
 	"*** LEVEL18 SLIDE 2 ***"
 	{
@@ -586,19 +624,21 @@
 	}
 	"*** LEVEL19 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"**第19关传送还有30秒**"
+		"chi"		"**第十九关传送还有30秒**"
 	}
 	"*** LEVEL19 Portal will activate in 20 SECONDS ***"
 	{
 		"chi"		"**还有20秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL19 Portal will activate in 10 SEDONDS ***"
 	{
 		"chi"		"**还有10秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL19 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"**还有5秒**"
+		"chi"		"**还有五秒**"
 	}
 	"*** LEVEL 19: VARIOUS TYPE ROAD 3 ***"
 	{
@@ -610,19 +650,21 @@
 	}
 	"*** LEVEL20 Portal will activate in 30 SECONDS ***"
 	{
-		"chi"		"**第20关传送还有30秒!**"
+		"chi"		"**第二十关传送还有30秒!**"
 	}
 	"*** LEVEL20 Portal will activate in 20 SECONDS ***"
 	{
 		"chi"		"**还有20秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL20 Portal will activate in 10 SEDONDS ***"
 	{
 		"chi"		"**还有10秒**"
+		"blocked" "1"
 	}
 	"*** LEVEL20 Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"**还有5秒**"
+		"chi"		"**还有五秒**"
 	}
 	"*** LEVEL 20: VARIOUS TYPE ROAD 4 ***"
 	{
@@ -639,6 +681,7 @@
 	"*** FINAL Portal will activate in 20 SECONDS ***"
 	{
 		"chi"		"**还有20秒**"
+		"blocked" "1"
 	}
 	"*** EXPLOSION IN 3 SECONDS!!!!! ***"
 	{
@@ -655,10 +698,11 @@
 	"*** FINAL Portal will activate in 10 SEDONDS ***"
 	{
 		"chi"		"**最后的传送还有10秒!**"
+		"blocked" "1"
 	}
 	"*** FINAL Portal will activate in 5 SECONDS ***"
 	{
-		"chi"		"** 5秒!**"
+		"chi"		"** 五秒!**"
 	}
 	"*** FINAL LEVEL:  ???? ***"
 	{
@@ -703,6 +747,7 @@
 	"*** ALL STAGE COMPLETE IN 20 SECONDS ***"
 	{
 		"chi"		"**还有20秒!**"
+		"blocked" "1"
 	}
 	"*** !? ***"
 	{
@@ -715,10 +760,11 @@
 	"*** ALL STAGE COMPLETE IN 10 SECONDS ***"
 	{
 		"chi"		"**10秒!**"
+		"blocked" "1"
 	}
 	"*** ALL STAGE COMPLETE IN 5 SECONDS ***"
 	{
-		"chi"		"**5秒!**""
+		"chi"		"**五秒!**""
 	}
 	"*** ALL STAGE COMPLETED. EXTREME MODE IS COMING ***"
 	{
@@ -730,7 +776,7 @@
 	}
 	"*** STAGE 1: EXTREME ***"
 	{
-		"chi"		"**EX1**""
+		"chi"		"**EX①**""
 	}
 	"*** Weather is getting worse... ***"
 	{
@@ -843,66 +889,79 @@
 	"*** SURVIVE FOR 14 SECONDS !! ***"
 	{
 		"chi"		"**存活14秒!!**"
+		"blocked" "1"
 	}
 	"*** SURVIVE FOR 13 SECONDS !! ***"
 	{
 		"chi"		"**存活13秒!**"
+		"blocked" "1"
 	}
 	"*** SURVIVE FOR 12 SECONDS !! ***"
 	{
 		"chi"		"**存活12秒**"
+		"blocked" "1"
 	}
 	"*** SURVIVE FOR 11 SECONDS !! ***"
 	{
 		"chi"		"**存活11秒**"
+		"blocked" "1"
 	}
 	"*** SURVIVE FOR 10 SECONDS !! ***"
 	{
 		"chi"		"**存活10秒**"
+		"blocked" "1"
 	}
 	"*** SURVIVE FOR 9 SECONDS !! ***"
 	{
-		"chi"		"**9秒**"
+		"chi"		"**还有9秒**"
 	}
 	"*** SURVIVE FOR 8 SECONDS !! ***"
 	{
 		"chi"		"**8秒**""
+		"blocked" "1"
 	}
 	"*** SURVIVE FOR 7 SECONDS !! ***"
 	{
 		"chi"		"**7秒**"
+		"blocked" "1"
 	}
 	"*** SURVIVE FOR 6 SECONDS !! ***"
 	{
 		"chi"		"**6秒**"
+		"blocked" "1"
 	}
 	"*** SURVIVE FOR 5 SECONDS !! ***"
 	{
 		"chi"		"**5秒**"
+		"blocked" "1"
 	}
 	"*** SURVIVE FOR 4 SECONDS !! ***"
 	{
 		"chi"		"**4秒**"
+		"blocked" "1"
 	}
 	"*** SURVIVE FOR 3 SECONDS !! ***"
 	{
 		"chi"		"**3秒**"
+		"blocked" "1"
 	}
 	"*** SURVIVE FOR 2 SECONDS !! ***"
 	{
 		"chi"		"**2秒**"
+		"blocked" "1"
 	}
 	"*** SURVIVE FOR 1 SECONDS !! ***"
 	{
 		"chi"		"**1秒**"
+		"blocked" "1"
 	}
 	"*** STAGE 1: EXTREME COMPLETED ***"
 	{
-		"chi"		"**EX1结束!**"
+		"chi"		"**EX①结束!**"
 	}
 	"*** STAGE 2: EXTREME ***"
 	{
-		"chi"		"**EX2**"
+		"chi"		"**EX②**"
 	}
 	"*** A PLAYER HAS PICKED UP A SMALL HEALTH LIGHT ***"
 	{
@@ -1018,11 +1077,11 @@
 	}
 	"*** STAGE 2 :EXTREME COMPLETED ***"
 	{
-		"chi"		"**EX2结束**"
+		"chi"		"**EX②结束**"
 	}
 	"*** STAGE 3: EXTREME ***"
 	{
-		"chi"		"**EX3**"
+		"chi"		"**EX③**"
 	}
 	"*** FIRST Portal will activate in 10 SECONDS ***"
 	{
@@ -1047,14 +1106,17 @@
 	"*** ALL EXTREME STAGE COMPLETE IN 20 SECONDS ***"
 	{
 		"chi"		"**20秒**"
+		"blocked" "1"
 	}
 	"*** ALL EXTREME STAGE COMPLETE IN 10 SECONDS ***"
 	{
 		"chi"		"**10秒**"
+		"blocked" "1"
 	}
 	"*** ALL EXTREME STAGE COMPLETE IN 5 SECONDS ***"
 	{
 		"chi"		"**5秒**"
+		"blocked" "1"
 	}
 	"*** JUMP ***"
 	{
@@ -1191,14 +1253,16 @@
 	"*** Defend for 20 seconds ***"
 	{
 		"chi"		"**防守20秒!**"
+		"blocked" "1"
 	}
 	"*** Defend for 10 seconds ***"
 	{
 		"chi"		"**10秒!!!!!**"
+		"blocked" "1"
 	}
 	"*** Defend for 5 seconds ***"
 	{
-		"chi"		"**5秒!!!!!**"
+		"chi"		"**还有5秒!!**"
 	}
 	"*** CONGRATULATIONS !!!!!!!! ***"
 	{
@@ -1230,23 +1294,26 @@
 	}
 	"*** 40 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有40秒**"
 	}
 	"*** 30 ***"
 	{
 		"chi"		"** **"
+		"blocked" "1"
 	}
 	"*** 20 ***"
 	{
 		"chi"		"** **"
+		"blocked" "1"
 	}
 	"*** 10 ***"
 	{
 		"chi"		"** **"
+		"blocked" "1"
 	}
 	"*** 5 ***"
 	{
-		"chi"		"** **"
+		"chi"		"**还有5秒**"
 	}
 	"*** SHOOT HIM !! He has very strong power !! ***"
 	{
