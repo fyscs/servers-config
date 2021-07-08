@@ -318,7 +318,6 @@
 	"**We got the power. The gates will open in 15 seconds**"
 	{
 		"chi"		"**应急能源已启动.守住15秒直到逃离神罗基地的大门打开**"
-		"command" "sm_farter_enabled 0"
 	}
 	"** Nades do more damage. **"
 	{
