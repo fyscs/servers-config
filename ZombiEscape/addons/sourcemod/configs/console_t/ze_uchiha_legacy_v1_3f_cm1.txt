@@ -331,7 +331,7 @@
 
     "** A ROCK IS BLOCKING THE WAY KEEP DEFENDING **"
     {
-        "chi" "**这块大石头把路堵住了,等我爆破他! **"
+        "chi" "**这块大石头把路堵住了,等我爆破它! **"
     }
 
     "** THE ROCK WILL EXPLODE IN 10 SECONDS **"
@@ -506,8 +506,7 @@
 
     "** GET READY FOR HIS FINAL ATTACK **"
     {
-        "chi" "**宇智波斑还没有放弃,他召唤了须佐轮乎!(对僵尸空中击退加强) **"
-        "command" "zr_classes_csgo_knockback_airmultiplier 1.5" 
+        "chi" "**宇智波斑还没有放弃,他召唤了须佐能乎! **"
     }
 
     "** MADARA WAS WAITING FOR YOU **"
@@ -548,7 +547,6 @@
     "** STAGE 4 **"
     {
         "chi" "**第四章:无限之梦 **"
-        "command" "zr_classes_csgo_knockback_airmultiplier 0.5" 
     }
 
     "** GATES OPENS IN 15 SECONDS **"
