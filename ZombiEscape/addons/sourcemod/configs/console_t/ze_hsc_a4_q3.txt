@@ -24,6 +24,7 @@
     "ELEVATOR RISES IN 15 SECONDS"
     {
         "chi" "电梯还有15s上升"
+        "command" "sm_farter_enabled 0"
     }
 
     "DOORS OPENING IN 30 SECONDS"
@@ -200,6 +201,7 @@
     "STAGE 3 - HEAVENLY SPACED CONTAINMENT"
     {
         "chi" "lv③-维度裂隙"
+        "command" "sm_farter_enabled 1"
     }
 
     "STAGE 2 - HARMONIOUS SPATIAL CREATIONS"
