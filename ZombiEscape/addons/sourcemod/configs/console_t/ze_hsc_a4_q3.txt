@@ -164,9 +164,7 @@
     "ELEVATOR WILL RISE IN 30 SECONDS"
     {
         "chi" "电梯还有30s开始上升"
-        "command" "sm_blader_enabled 0"
-        "command" "sm_boomer_enabled 0"
-        "command" "sm_hunter_enabled 0"
+        "command" "sm_blader_enabled 0;sm_hunter_enabled 0;sm_boomer_enabled 0"
     }
 
     "A WAY WILL OPEN IN 40 SECONDS!"
@@ -207,9 +205,7 @@
     "STAGE 2 - HARMONIOUS SPATIAL CREATIONS"
     {
         "chi" "lv②-空间造物"
-        "command" "sm_blader_enabled 1"
-        "command" "sm_boomer_enabled 1"
-        "command" "sm_hunter_enabled 1"
+        "command" "sm_blader_enabled 1;sm_boomer_enabled 1;sm_hunter_enabled 1"
     }
 
     "STAGE 1 - HYPER SPACE CUBE"
