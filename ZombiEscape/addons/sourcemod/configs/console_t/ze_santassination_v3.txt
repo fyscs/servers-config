@@ -51,6 +51,7 @@
 	"***DRAWBRIDGE IS DRAWING***"
 	{
 		"chi"		"**吊桥正在启动**"
+		"countdown" "35"
 	}
 	"***DRAWBRIDGE HAS BEEN DRAWED***"
 	{
@@ -305,6 +306,7 @@
 	"***SANTA FACTORY DOOR IS OPENING***"
 	{
 		"chi"		"**工厂门开了**"
+		"countdown" "40"
 	}
 	"***MAJOR FACE WALL EXPLODES IN 15 SECONDS***"
 	{
@@ -384,7 +386,7 @@
 	}
 	"***THE MEXISLED WOULD PREFER YOU TO CALL IT -THE BURRITO SHITTER-***"
 	{
-		"chi"		"**墨西哥人民更希望你称之为--墨西哥煎饼**"
+		"chi"		"**墨西哥人民更希望你称之为--墨西哥卷饼**"
 	}
 	"***PLEASE COMPLY TO THIS REQUEST OR YOUR CLUB PENGUIN ACCOUNT WILL BE DISABLED***"
 	{
@@ -1096,6 +1098,7 @@
 	"***SOCRATES CARES FOR NO MAN***"
 	{
 		"chi"		"**灼眼尊者不关心人**"
+		"countdown" "50"
 	}
 	"***SOCRATES IS***"
 	{
@@ -1156,6 +1159,7 @@
 	"***SOCRATES IS NEAR***"
 	{
 		"chi"		"**灼眼尊者接近了**"
+		"countdown" "35"
 	}
 	"***SOCRATES WELCOMES YOU***"
 	{
