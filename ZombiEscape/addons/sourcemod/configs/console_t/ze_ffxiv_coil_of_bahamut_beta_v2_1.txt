@@ -3,7 +3,7 @@
 
     "**YOU MUST KILL ALL THE ZOMBIES TO WIN**"
     {
-        "chi" "** 你必须杀死所有的僵尸以获胜 **"
+        "chi" "** 你必须杀死所有的僵尸才能获胜 **"
     }
 
     "**Bahamut**"
@@ -28,17 +28,17 @@
 
     "**Zenos : Yout won't stay alive from here.**"
     {
-        "chi" "** 芝诺斯:你们在这里是活不下去的 **"
+        "chi" "** 芝诺斯:你们不会活着离开这里 **"
     }
 
     "**Gabranth : Your journey ends here.**"
     {
-        "chi" "** 加布兰:你的旅程到此结束.**"
+        "chi" "** 伽布拉斯:你的旅程到此为止.**"
     }
 
     "**You failed. You didn't stop Hashmal.**"
     {
-        "chi" "** 你失败了.你没能阻止哈什马尔 **"
+        "chi" "** 你失败了.你没能阻止哈修马利姆 **"
     }
 
     "**A player has picked up Ice **"
@@ -48,7 +48,7 @@
 
     "**You need to damage the boss according to different positions**"
     {
-        "chi" "** **"
+        "chi" "**你需要从不同的位置对boss造成伤害**"
     }
 
     "**Quake IV** "
@@ -83,7 +83,7 @@
 
     "**Hashmal, kill them!**"
     {
-        "chi" "** Hashmal,杀了他们 **"
+        "chi" "** 哈修马利姆,杀了他们 **"
     }
 
     "**Zenos : Well, how about this one**"
@@ -93,7 +93,7 @@
 
     "** It seems that i have to do it by myself**"
     {
-        "chi" "** 看来我得自己做了 **"
+        "chi" "** 看来只能靠自己了 **"
     }
 
     "**It's too late**"
@@ -103,7 +103,7 @@
 
     "**A zombie got some power from Shiva**"
     {
-        "chi" "** 一个僵尸从湿婆那里得到了一些力量 **"
+        "chi" "** 一个僵尸从希瓦那里得到了一些力量 **"
     }
 
     "**Exhale** "
@@ -133,7 +133,7 @@
 
     "**Bahamut is going to wake up in 10 seconds**"
     {
-        "chi" "** 巴哈姆特10秒后醒来 **"
+        "chi" "** 巴哈姆特将在10秒后苏醒 **"
     }
 
     "**NUCLEAR EXPLOSION** "
@@ -198,12 +198,12 @@
 
     "**Bahamut is going to destroy us with trillions of nuclear explosions**"
     {
-        "chi" "** **"
+        "chi" "**巴哈姆特会用数万亿次核爆摧毁我们**"
     }
 
     "**Don't even think you can get away from here!**"
     {
-        "chi" "**巴哈姆特会用数万亿次核爆炸摧毁我们 **"
+        "chi" "**不要以为你能从这里安然离开**"
     }
 
     "**Briny Cannonade** "
@@ -224,46 +224,49 @@
     "**10 seconds remaining**"
     {
         "chi" "** 剩余10秒 **"
+        "blocked" "1"
     }
 
     "**20 seconds remaining**"
     {
         "chi" "** 剩余20秒 **"
+        "blocked" "1"
     }
 
     "**30 seconds remaining**"
     {
         "chi" "** 剩余30秒 **"
+        "blocked" "1"
     }
 
     "**Warm Round**"
     {
-        "chi" "** **"
+        "chi" "**热身回合**"
     }
 
     "**60 seconds remaining**"
     {
-        "chi" "** 剩余60秒 **"
+        "chi" "**一切将在不久之后开始**"
     }
 
     "**A player has learned an ability from Astrologian **"
     {
-        "chi" "** **"
+        "chi" "**一名玩家从占星术士那里学到了什么**"
     }
 
     "**A player has learned an ability from White Mage **"
     {
-        "chi" "** **"
+        "chi" "**一名玩家从白魔法师那里学到了什么**"
     }
 
     "**Bahamut? What he gonna do**"
     {
-        "chi" "** **"
+        "chi" "**是巴哈姆特!它要干什么?**"
     }
 
     "**What.. What's he doing?**"
     {
-        "chi" "** **"
+        "chi" "**沃特发..它在干什么**"
     }
 
     "(Bahamut is going to use Mega Flare teleport us!)"
@@ -298,12 +301,12 @@
 
     "**Wait until the platform go up**"
     {
-        "chi" "** **"
+        "chi" "**等待平台上升**"
     }
 
     "**Zombies can climb up from both sides**"
     {
-        "chi" "** **"
+        "chi" "**僵尸可以从两边爬上来**"
     }
 
     "**Defend 20s**"
@@ -313,7 +316,7 @@
 
     "**Cuchulainn is blocking the way, kill him!**"
     {
-        "chi" "** **"
+        "chi" "**丘库雷因挡住了去路,杀了他!**"
     }
 
     "**Defend**"
@@ -328,22 +331,22 @@
 
     "**A player has picked up Electric **"
     {
-        "chi" "** **"
+        "chi" "**一名玩家拿起了电**"
     }
 
     "**A zombie got some power from Garuda**"
     {
-        "chi" "** **"
+        "chi" "**僵尸从迦楼罗那里获得了什么(风)**"
     }
 
     "**A zombie got some power from Ifrit**"
     {
-        "chi" "** **"
+        "chi" "**僵尸从伊弗利特那里获得了什么(火)**"
     }
 
     "**A zombie got some power from Ramuh**"
     {
-        "chi" "** **"
+        "chi" "**僵尸从拉姆那里获得了什么(电)**"
     }
 
     "**Defend 20s for the teleport**"
@@ -353,7 +356,7 @@
 
     "**Oh shit it's Gabranth again, Kill him!**"
     {
-        "chi" "** **"
+        "chi" "**哦谢特又是伽布拉斯,快杀了他!**"
     }
 
     "**Defend 25s**"
@@ -373,17 +376,17 @@
 
     "**Wait until the platform go down**"
     {
-        "chi" "** **"
+        "chi" "**等待平台下降**"
     }
 
     "**It seems Gabranth is summoning something...**"
     {
-        "chi" "** **"
+        "chi" "**看起来伽布拉斯正在召唤什么...**"
     }
 
     "**He might using the thing that he picked up on the ground before to summon**"
     {
-        "chi" "** **"
+        "chi" "**在召唤前他可能会使用从地上拿起来的那个东西**"
     }
 
     "**Defend 15s**"
@@ -413,37 +416,37 @@
 
     "**The road on the right is blocked. We should find another way to go**"
     {
-        "chi" "** **"
+        "chi" "**右边的路被封锁了,我们得找其他的路**"
     }
 
     "**Look! There is a teleporter**"
     {
-        "chi" "** **"
+        "chi" "**那里有个传送器!**"
     }
 
     "**Looks like he is Gabranth, what is he doing here**"
     {
-        "chi" "** **"
+        "chi" "**看来是伽布拉斯,他在这里干什么**"
     }
 
     "**It seems somethings dropped down here**"
     {
-        "chi" "** **"
+        "chi" "**貌似什么东西要落下来了**"
     }
 
     "**Like a stone**"
     {
-        "chi" "** **"
+        "chi" "**像是块石头**"
     }
 
     "**Last defense, keep holding here for 15s!**"
     {
-        "chi" "** **"
+        "chi" "**最后的防守,还有15秒!**"
     }
 
     "**Defend until both sides doors open**"
     {
-        "chi" "** **"
+        "chi" "**防守直到两边的门打开**"
     }
 
     "**Destory ADS in 180s**"
@@ -453,12 +456,12 @@
 
     "**Small ADS can provide speed to zombie**"
     {
-        "chi" "** **"
+        "chi" "**副ADS会加速僵尸**"
     }
 
     "**Destory small ADS can also reduce the main ADS hp**"
     {
-        "chi" "** **"
+        "chi" "**破坏副ADS可以削减主ADS的HP**"
     }
 
     "**AFK 40s**"
@@ -473,12 +476,12 @@
 
     "**Defend 40s for the teleport**"
     {
-        "chi" "** 守住40秒直到传送 **"
+        "chi" "** 守住40秒!准备传送 **"
     }
 
     "**Defend until the path is clear**"
     {
-        "chi" "** 守住这里直到区域清空 **"
+        "chi" "** 守住这里直到路径清空 **"
     }
 
 }
