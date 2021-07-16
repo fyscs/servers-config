@@ -3,17 +3,17 @@
 
     "!!! ADMIN HAS SET LEVEL 3 !!!"
     {
-        "chi" "管理员选择了 lv3"
+        "chi" "管理员选择了 lv③"
     }
 
     "!!! ADMIN HAS SET LEVEL 2 !!!"
     {
-        "chi" "管理员选择了 lv2"
+        "chi" "管理员选择了 lv②"
     }
 
     "!!! ADMIN HAS SET LEVEL 1 !!!"
     {
-        "chi" "管理员选择了 lv1"
+        "chi" "管理员选择了 lv①"
     }
 
     "RESIST FOR 30 MORE SECONDS!"
@@ -24,6 +24,7 @@
     "ELEVATOR RISES IN 15 SECONDS"
     {
         "chi" "电梯还有15s上升"
+        "command" "sm_farter_enabled 0"
     }
 
     "DOORS OPENING IN 30 SECONDS"
@@ -108,7 +109,7 @@
 
     "THIS MAP IS IN ALPHA. THERE ARE ONLY THREE STAGES BUILT CURRENTLY."
     {
-        "chi" "这张地图还在测试阶段, 目前只完成了3关."
+        "chi" "这张地图还在测试阶段, 目前只完成了三关."
     }
 
     "THANKS TO LUFFAREN"
@@ -164,6 +165,7 @@
     "ELEVATOR WILL RISE IN 30 SECONDS"
     {
         "chi" "电梯还有30s开始上升"
+        "command" "sm_blader_enabled 0;sm_hunter_enabled 0;sm_boomer_enabled 0"
     }
 
     "A WAY WILL OPEN IN 40 SECONDS!"
@@ -198,17 +200,19 @@
 
     "STAGE 3 - HEAVENLY SPACED CONTAINMENT"
     {
-        "chi" "lv3-维度裂隙"
+        "chi" "lv③-维度裂隙"
+        "command" "sm_farter_enabled 1"
     }
 
     "STAGE 2 - HARMONIOUS SPATIAL CREATIONS"
     {
-        "chi" "lv2-空间造物"
+        "chi" "lv②-空间造物"
+        "command" "sm_blader_enabled 1;sm_boomer_enabled 1;sm_hunter_enabled 1"
     }
 
     "STAGE 1 - HYPER SPACE CUBE"
     {
-        "chi" "lv1-超维空间"
+        "chi" "lv①-超维空间"
     }
 
 }
