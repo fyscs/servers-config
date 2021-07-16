@@ -164,6 +164,7 @@
 	"**ZE_FFVII_COSMO_CANYON**"
 	{
 		"chi"		"**最终幻想七: 宇宙大峡谷**"
+		"command" "sm_farter_enabled 1;"
 	}
 	"**Map by Headshooter.SC & HaRyDe**"
 	{
@@ -591,5 +592,10 @@
 	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
 	{
 		"chi"		"** **"
+	}
+	"||屁王技能已禁用||"
+	{
+		"chi"		"** **"
+		"command" "sm_farter_enabled 0;"
 	}
 }
