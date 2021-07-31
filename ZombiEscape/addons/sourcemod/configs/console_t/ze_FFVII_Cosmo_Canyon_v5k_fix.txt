@@ -154,8 +154,7 @@
 	}
 	"[Genesis] Huh.. Did not think that you will survive.."
 	{
-		"chi"		"**[杰内西斯]嘛..没想到你居然活下来了...
-**"
+		"chi"		"**[杰内西斯]嘛..没想到你居然活下来了...**"
 	}
 	"[Genesis] Anyways Gi Nattak soul is mine now and I can realize my plan.. Farewell!"
 	{
@@ -164,6 +163,7 @@
 	"**ZE_FFVII_COSMO_CANYON**"
 	{
 		"chi"		"**最终幻想七: 宇宙大峡谷**"
+		"command"	"sm_farter_enabled 1"
 	}
 	"**Map by Headshooter.SC & HaRyDe**"
 	{
@@ -233,7 +233,7 @@
 	"**RAGE MODE**"
 	{
 		"chi"		"**难度: RAGE**"
-		"command" "sm_farter_enabled 1"
+		"command"	"sm_farter_enabled 1"
 	}
 	"**Cover here for 10 seconds before we clear this obstacle**"
 	{
@@ -318,7 +318,6 @@
 	"**We got the power. The gates will open in 15 seconds**"
 	{
 		"chi"		"**应急能源已启动.守住15秒直到逃离神罗基地的大门打开**"
-		"command" "sm_farter_enabled 0"
 	}
 	"** Nades do more damage. **"
 	{
@@ -339,7 +338,7 @@
 	"**You have beaten Cosmo Canyon!! Congratulations !! **"
 	{
 		"chi"		"**你征服了宇宙峡谷!恭喜你**"
-		"command" "sm_farter_enabled 1"
+		"command"	"sm_farter_enabled 1"
 	}
 	"[Cloud] Nice job! I hope that we are done with them for once and for all. The next stop is Cosmo Canyon.."
 	{
@@ -592,5 +591,10 @@
 	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
 	{
 		"chi"		"** **"
+	}
+	"||屁王技能已禁用||"
+	{
+		"chi"		"** **"
+		"command"	"sm_farter_enabled 0"
 	}
 }
