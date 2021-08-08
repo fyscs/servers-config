@@ -31,15 +31,9 @@
 	"***COMPLETE!***"
 	{
 		"chi"		"** **"
-		"command" "sm_farter_enabled 1;"
 	}
 	">> Stage1"
 	{
 		"chi"		"** **"
-	}
-	"||屁王技能已禁用||"
-	{
-		"chi"		"** **"
-		"command" "sm_farter_enabled 0;"
 	}
 }
