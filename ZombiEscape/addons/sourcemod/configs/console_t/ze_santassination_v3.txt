@@ -51,6 +51,7 @@
 	"***DRAWBRIDGE IS DRAWING***"
 	{
 		"chi"		"**吊桥正在启动**"
+		"countdown" "35"
 	}
 	"***DRAWBRIDGE HAS BEEN DRAWED***"
 	{
@@ -58,12 +59,12 @@
 	}
 	"***INNER BEAVER BLASTDOOR IS OPENING IN 20 SECONDS***"
 	{
-		"chi"		"**内部有河狸的防爆门20秒后打开**"
+		"chi"		"**内部有板鸭的防爆门20秒后打开**"
 
 	}
 	"***INNER INNEST INCEST BEAVER BLASTDOOR IS OPENING IN 15 SECONDS***"
 	{
-		"chi"		"**第二道防爆门15秒后打开,小心河狸**"
+		"chi"		"**第二道防爆门15秒后打开,小心板鸭**"
 	}
 	"***THIS GATE WILL OPEN ONCE BOTH PATHS HAVE BEEN CLEARED***"
 	{
@@ -108,11 +109,11 @@
 	}
 	"***THE BEAVERS ARE COMING***"
 	{
-		"chi"		"**河狸小分队准备出击!**"
+		"chi"		"**板鸭小分队准备出击!**"
 	}
 	"***THE BEAVERS ARE AGRESSIVE***"
 	{
-		"chi"		"**在河狸看来你们就是猎物**"
+		"chi"		"**在板鸭看来你们就是猎物**"
 	}
 	"***THAT SEEMS TO BE THE LAST OF THEM***"
 	{
@@ -141,7 +142,7 @@
 	}
 	"***ESCAPE THE BEAVER STEELWORKS FACILITY***"
 	{
-		"chi"		"**逃出河狸基地**"
+		"chi"		"**逃出板鸭基地**"
 	}
 	"***PRIMARY PROTOCOL DOOR WILL OPEN IN 20 SECONDS***"
 	{
@@ -212,11 +213,11 @@
 	}
 	"***SATISFY THE LIPS WITH SEWER CHOCOLATE IN ORDER TO ENTER***"
 	{
-		"chi"		"**用下水道的巧克力来满足大嘴巴**"
+		"chi"		"**用下水道的巧克力来填饱大嘴巴**"
 	}
 	"***7 SMEARED HUMANS SHOULD BE ABLE TO SATISFY THOSE SORE LIPS***"
 	{
-		"chi"		"**大嘴巴想要舔七个老婆身上的巧克力**"
+		"chi"		"**大嘴巴想要舔七个玩家身上的巧克力**"
 	}
 	"***GOOD LUCK***"
 	{
@@ -279,7 +280,7 @@
 	}
 	"***THE GATEFACE IS PLEASED WITH YOUR CHOCOLATE SERVICE***"
 	{
-		"chi"		"**它对你的巧克力服务很满意**"
+		"chi"		"**它对你的巧克力很满意**"
 	}
 	"***YOU MAY NOW ENTER***"
 	{
@@ -305,6 +306,7 @@
 	"***SANTA FACTORY DOOR IS OPENING***"
 	{
 		"chi"		"**工厂门开了**"
+		"countdown" "40"
 	}
 	"***MAJOR FACE WALL EXPLODES IN 15 SECONDS***"
 	{
@@ -317,7 +319,7 @@
 	}
 	"***SMELL THE DANK MIXTAPE***"
 	{
-		"chi"		"**闻到潮湿的混音带**"
+		"chi"		"**闻到潮湿的混响**"
 	}
 	"***MAJOR FACE WALL IS ABOUT TO EXPLODE***"
 	{
@@ -325,7 +327,7 @@
 	}
 	"***THE MIXTAPE IS OUT OF CONTROL***"
 	{
-		"chi"		"**混音带失去了控制**"
+		"chi"		"**混响失去了控制**"
 	}
 	"***MAJOR FACE WALL WENT BOOM***"
 	{
@@ -345,11 +347,11 @@
 	}
 	"***HITLERS TEETH ARE NOW BROKEN***"
 	{
-		"chi"		"**我们打破了希希的计划**"
+		"chi"		"**我们打破了邪恶的计划**"
 	}
 	"***DEMOCRACY HEREBY WINS THE SUPERBOWL***"
 	{
-		"chi"		"**民主社会主义胜利了!**"
+		"chi"		"**大家伙团结胜利了!**"
 	}
 	"***NAZI NIPPLE***"
 	{
@@ -370,7 +372,7 @@
 	}
 	"***THE MEXISLED CAN TAKE YOU OVER THE BORDER FOR 40$***"
 	{
-		"chi"		"**可以花四十美金让墨西哥佬带你过边境**"
+		"chi"		"**可以花四十美金让船夫带你过边境**"
 
 	}
 	"***YOU MANAGED TO SCRAPE TOGETHER 41$ FROM YOUR TUITION MONEY***"
@@ -384,11 +386,11 @@
 	}
 	"***THE MEXISLED WOULD PREFER YOU TO CALL IT -THE BURRITO SHITTER-***"
 	{
-		"chi"		"**墨西哥人民更希望你称之为--墨西哥煎饼**"
+		"chi"		"**墨西哥人民更希望你称之为--墨西哥卷饼**"
 	}
 	"***PLEASE COMPLY TO THIS REQUEST OR YOUR CLUB PENGUIN ACCOUNT WILL BE DISABLED***"
 	{
-		"chi"		"**请遵守此要求, 否则您的企鹅俱乐部帐户将被禁用**"
+		"chi"		"**请遵守此要求, 否则您的俱乐部帐户将被禁用**"
 	}
 	"***5 SECONDS UNTIL DEPARTURE***"
 	{
@@ -454,7 +456,7 @@
 	}
 	"***FIND THE BABY - PRESS THE BUTTON IN ORDER TO OPEN THE SEXY VENT GATE***"
 	{
-		"chi"		"**找到那个宝贝 - 按下按钮以打开通风口**"
+		"chi"		"**找到那个按钮 - 按下按钮以打开通风口**"
 	}
 	"***THE BABYLON BABY BUTTON HAS BEEN TOUCHED***"
 	{
@@ -462,7 +464,7 @@
 	}
 	"***THE BABYLON BABY IS PLEASED WITH YOUR ASSISTANCE***"
 	{
-		"chi"		"**巴比伦宝宝对你的帮助很满意**"
+		"chi"		"**按钮已经成功按下**"
 	}
 	"***SEXY VENT GATE IS OPENING IN 20 SECONDS***"
 	{
@@ -520,16 +522,16 @@
 	}
 	"***SEXY REINDEER IS OPENING IN 15 SECONDS***"
 	{
-		"chi"		"**性感的驯鹿15秒后出发**"
+		"chi"		"**驯鹿15秒后出发**"
 
 	}
 	"***SEXY REINDEER IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"**性感的驯鹿5秒后出发**"
+		"chi"		"**驯鹿5秒后出发**"
 	}
 	"***SEXY REINDEER IS SPREADING***"
 	{
-		"chi"		"**性感的驯鹿出发**"
+		"chi"		"**驯鹿出发**"
 	}
 	"***BRIDGE EXIT GATE IS OPENING IN 15 SECONDS***"
 	{
@@ -911,15 +913,15 @@
 	}
 	"***SKIPPING CUTSCENE***"
 	{
-		"chi"		"**跳过剪切场景**"
+		"chi"		"**跳过动画场景**"
 	}
 	"***YOU SICK BASTARDS...***"
 	{
-		"chi"		"**你们这些混蛋...**"
+		"chi"		"**你们这些坏人...**"
 	}
 	"ALL HAIL LUFFAREN, THE GOD OF BEAVERS AND DREAMS!"
 	{
-		"chi"		"**一半的luffaren, 河狸之神和梦想!**"
+		"chi"		"**一半的luffaren, 板鸭之神和梦想!**"
 	}
 	"Where da nudes for Luffaren b at?"
 	{
@@ -927,7 +929,7 @@
 	}
 	"^Wtf are you even talking about?"
 	{
-		"chi"		"**你特凉到底的在说什么吉吧?**"
+		"chi"		"**你特凉到底的在说什么?**"
 	}
 	"***HEAD TOWARDS SANTAS FACTORY***"
 	{
@@ -1015,7 +1017,7 @@
 	}
 	"***SOCRATES ERECTS***"
 	{
-		"chi"		"**灼眼尊者下面起来了**"
+		"chi"		"**灼眼尊者起来了**"
 	}
 	"***SOCRATES IS BLOSSOMING***"
 	{
@@ -1096,6 +1098,7 @@
 	"***SOCRATES CARES FOR NO MAN***"
 	{
 		"chi"		"**灼眼尊者不关心人**"
+		"countdown" "50"
 	}
 	"***SOCRATES IS***"
 	{
@@ -1156,6 +1159,7 @@
 	"***SOCRATES IS NEAR***"
 	{
 		"chi"		"**灼眼尊者接近了**"
+		"countdown" "35"
 	}
 	"***SOCRATES WELCOMES YOU***"
 	{
@@ -1163,7 +1167,7 @@
 	}
 	"***SOCRATES IS SANTA***"
 	{
-		"chi"		"**灼眼尊者是圣诞老人**"
+		"chi"		"**灼眼尊者就是圣诞老人**"
 	}
 	"***PLAYER PICKED UP ITEM - HERDER***"
 	{
@@ -1200,7 +1204,7 @@
 	}
 	"***IT HAS COME TO THE MAPMAKERS ATTENTION THAT YOU DONT ENJOY HIS FRESH MIXTAPE...***"
 	{
-		"chi"		"**地图作者注意到你不喜欢他的新混音带...**"
+		"chi"		"**地图作者注意到你不喜欢他的新混响...**"
 	}
 	"***THE MAPMAKER THINKS THAT YOU MAY NEED SOME PUNISHMENT FOR SUCH INSOLENCE***"
 	{
@@ -1236,7 +1240,7 @@
 	}
 	"YOU AND EVERYONE YOU KNOW WILL DIE ONE DAY"
 	{
-		"chi"		"**你和你认识的人总有一天会死的**"
+		"chi"		"**你和你认识的人总有一天会离开的**"
 	}
 	"EVERYONE GO HERE AND TELL KAEMON TO STOP SLACKING - http:"
 	{
@@ -1308,7 +1312,7 @@
 	}
 	"***HAIL TRUMP***"
 	{
-		"chi"		"**共产主义万岁**"
+		"chi"		"**团结万岁**"
 	}
 	"***LUFFAREN HAS ENTERED THE ADMIN ROOM***"
 	{
