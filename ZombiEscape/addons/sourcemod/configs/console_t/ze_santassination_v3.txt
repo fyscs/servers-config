@@ -122,11 +122,11 @@
 	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 40 SECONDS***"
 	{
 		"chi"		"**门40秒后打开**"
-
 	}
 	"***SUB-PRIMARY PROTOCOL DOOR WILL OPEN IN 5 SECONDS***"
 	{
 		"chi"		"**门5秒后打开**"
+		"blocked" "1"
 	}
 	"***SELF-DESTRUCT SEQUENCE HAS BEEN INITIATED***"
 	{
@@ -173,6 +173,7 @@
 	"***FINAL ELEVATOR DOOR WILL CLOSE IN 5 SECONDS***"
 	{
 		"chi"		"**还有5秒**"
+		"blocked" "1"
 	}
 	"***FINAL ELEVATOR DOOR IS CLOSING***"
 	{
@@ -197,6 +198,7 @@
 	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
 		"chi"		"**第二个电梯5秒后离开**"
+		"blocked" "1"
 	}
 	"***SECONDARY PROTOCOL ELEVATOR IS LEAVING***"
 	{
@@ -302,6 +304,7 @@
 	"***SANTA FACTORY DOOR IS OPENING IN 5 SECONDS***"
 	{
 		"chi"		"**工厂门5秒后打开**"
+		"blocked" "1"
 	}
 	"***SANTA FACTORY DOOR IS OPENING***"
 	{
@@ -336,6 +339,7 @@
 	"***MAIN ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
 		"chi"		"**电梯5秒后离开**"
+		"blocked" "1"
 	}
 	"***THE PIZZA IS AGGRESSIVE***"
 	{
@@ -394,7 +398,7 @@
 	}
 	"***5 SECONDS UNTIL DEPARTURE***"
 	{
-		"chi"		"**5秒后出发**"
+		"chi"		"**五秒后出发**"
 	}
 	"***THE BURRITO SHITTER IS DEPARTING***"
 	{
@@ -419,27 +423,32 @@
 	"***FACTORY DOOR OPENS IN 10 SECONDS***"
 	{
 		"chi"		"**工厂门10秒后打开**"
-
+		"blocked" "1"
 	}
 	"***FACTORY DOOR OPENS IN 5 SECONDS***"
 	{
 		"chi"		"**工厂门5秒后打开**"
+		"blocked" "1"
 	}
 	"***FACTORY DOOR OPENS IN 4 SECONDS***"
 	{
 		"chi"		"**工厂门4秒后打开**"
+		"blocked" "1"
 	}
 	"***FACTORY DOOR OPENS IN 3 SECONDS***"
 	{
 		"chi"		"**工厂门3秒后打开**"
+		"blocked" "1"
 	}
 	"***FACTORY DOOR OPENS IN 2 SECONDS***"
 	{
 		"chi"		"**工厂门2秒后打开**"
+		"blocked" "1"
 	}
 	"***FACTORY DOOR OPENS IN 1 SECOND***"
 	{
 		"chi"		"**工厂门1秒后打开**"
+		"blocked" "1"
 	}
 	"***OPENING DOORS IN 10 SECONDS***"
 	{
@@ -449,6 +458,7 @@
 	"***OPENING DOORS IN 5 SECONDS***"
 	{
 		"chi"		"**5秒后开门**"
+		"blocked" "1"
 	}
 	"***OPENING DOORS***"
 	{
@@ -474,6 +484,7 @@
 	"***SEXY VENT GATE IS OPENING IN 5 SECONDS***"
 	{
 		"chi"		"**还有5秒**"
+		"blocked" "1"
 	}
 	"***SEXY VENT GATE IS OPENING***"
 	{
@@ -528,6 +539,7 @@
 	"***SEXY REINDEER IS OPENING IN 5 SECONDS***"
 	{
 		"chi"		"**驯鹿5秒后出发**"
+		"blocked" "1"
 	}
 	"***SEXY REINDEER IS SPREADING***"
 	{
@@ -540,6 +552,7 @@
 	"***BRIDGE EXIT GATE IS OPENING IN 5 SECONDS***"
 	{
 		"chi"		"**桥上的出口5秒后打开**"
+		"blocked" "1"
 	}
 	"***BRIDGE EXIT GATE IS OPENING***"
 	{
@@ -648,11 +661,12 @@
 	"***OUTER WALL ENTRANCE IS OPENING IN 30 SECONDS***"
 	{
 		"chi"		"**外墙入口30秒后打开**"
-
+		"countdown" "60"
 	}
 	"***OUTER WALL ENTRANCE IS OPENING IN 5 SECONDS***"
 	{
 		"chi"		"**外墙入口5秒后打开**"
+		"blocked" "1"
 	}
 	"***OUTER WALL ENTRANCE IS OPENING***"
 	{
@@ -703,18 +717,22 @@
 	"***SANTA'S DOOR IS CLOSING IN 4 SECONDS***"
 	{
 		"chi"		"**门4秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 3 SECONDS***"
 	{
 		"chi"		"**门3秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 2 SECONDS***"
 	{
 		"chi"		"**门2秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTA'S DOOR IS CLOSING IN 1 SECONDS***"
 	{
 		"chi"		"**门1秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTA'S DOOR IS CLOSING***"
 	{
@@ -768,6 +786,7 @@
 	"***FINAL GATE IS CLOSING IN 5 SECONDS***"
 	{
 		"chi"		"**最后的大门5秒后关闭**"
+		"blocked" "1"
 	}
 	"***FINAL GATE IS CLOSING***"
 	{
@@ -966,18 +985,22 @@
 	"***SANTAS DOOR IS CLOSING IN 4 SECONDS***"
 	{
 		"chi"		"**门4秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTAS DOOR IS CLOSING IN 3 SECONDS***"
 	{
 		"chi"		"**门3秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTAS DOOR IS CLOSING IN 2 SECONDS***"
 	{
 		"chi"		"**门2秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTAS DOOR IS CLOSING IN 1 SECONDS***"
 	{
 		"chi"		"**门1秒后关闭**"
+		"blocked" "1"
 	}
 	"***SANTAS DOOR IS CLOSING***"
 	{
@@ -1042,14 +1065,17 @@
 	"***4***"
 	{
 		"chi"		"**4**"
+		"blocked" "1"
 	}
 	"***3***"
 	{
 		"chi"		"**3**"
+		"blocked" "1"
 	}
 	"***2***"
 	{
 		"chi"		"**2**"
+		"blocked" "1"
 	}
 	"***UNO***"
 	{
@@ -1070,6 +1096,7 @@
 	"***THE TRUE ELEVATOR IS LEAVING IN 5 SECONDS***"
 	{
 		"chi"		"**电梯5秒后离开**"
+		"blocked" "1"
 	}
 	"***THE TRUE ELEVATOR IS LEAVING***"
 	{
@@ -1159,7 +1186,7 @@
 	"***SOCRATES IS NEAR***"
 	{
 		"chi"		"**灼眼尊者接近了**"
-		"countdown" "35"
+		"countdown" "36"
 	}
 	"***SOCRATES WELCOMES YOU***"
 	{
