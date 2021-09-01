@@ -1,0 +1,58 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    ">>boat wil leave in 10S<<"
+    {
+        "chi" "**友谊小船:10秒**"
+    }
+
+    ">>we can get out in 30S<<"
+    {
+        "chi" "**逃离:30秒**"
+    }
+
+    ">>we should keep 30S<<"
+    {
+        "chi" "**防守:30秒**"
+    }
+
+    ">>we can get in to the garden 30S<<"
+    {
+        "chi" "**花园区域开放时间:30秒**"
+    }
+
+    ">>we should keep 45S<<"
+    {
+        "chi" "**防守45秒**"
+    }
+
+    ">>nuke in 60s<<"
+    {
+        "chi" "**核弹:60秒**"
+    }
+
+    "map by Natsume,hope you like this map of Chinese style."
+    {
+        "chi" "**作者:四季夏目	汉化:小三@Fys**"
+    }
+
+    ">>keep 25S<<"
+    {
+        "chi" "**防守25秒**"
+    }
+
+    ">>keep 30S<<"
+    {
+        "chi" "**防守30秒**"
+    }
+
+    ">>we can get on the bridge in 30S<<"
+    {
+        "chi" "**防守30秒**"
+    }
+
+}
