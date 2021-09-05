@@ -1,0 +1,48 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "| Door opens in 35 seconds |"
+    {
+        "chi" "**门在35秒打开 **"
+    }
+
+    "| 5 seconds left |"
+    {
+        "chi" "**还有5秒 **"
+    }
+
+    "| Door opens in 15 seconds |"
+    {
+        "chi" "**门在15秒后开 **"
+    }
+
+    "| Door opens in 20 seconds |"
+    {
+        "chi" "**门在20秒后打开 **"
+    }
+
+    "| Door opens in 25 seconds |"
+    {
+        "chi" "**门在25秒后打开 **"
+    }
+
+    "| Final door opens in 10 seconds |"
+    {
+        "chi" "**最后的门在10秒后打开 **"
+    }
+
+    "| Loading shockwave 15 seconds |"
+    {
+        "chi" "**冲击波在15秒后生效 **"
+    }
+
+    "| Player has picked up shockwave |"
+    {
+        "chi" "**有玩家拾取了冲击波 **"
+    }
+
+}
