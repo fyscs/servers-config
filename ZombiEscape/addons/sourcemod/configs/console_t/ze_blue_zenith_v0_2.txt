@@ -1,0 +1,88 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "**Defend here zombies will spawn at the other side**"
+    {
+        "chi" "**防守僵尸直至道路打开**"
+    }
+
+    "**Don't move**"
+    {
+        "chi" "**别动**"
+    }
+
+    "**Reach the final platform and defend**"
+    {
+        "chi" "**前往最终平台进行防守**"
+    }
+
+    "**Zombie speed has been picked**"
+    {
+        "chi" "**一名僵尸捡起了加速**"
+    }
+
+    "**Zombie heal has been picked**"
+    {
+        "chi" "**一名僵尸捡起了治疗**"
+    }
+
+    "**Zombie freeze has been picked**"
+    {
+        "chi" "**一名僵尸捡起了微风**"
+    }
+
+    "**All monoliths were activated**"
+    {
+        "chi" "**所有石碑已激活**"
+    }
+
+    "**Extra hp will be given at the end of the map**"
+    {
+        "chi" "** **"
+    }
+
+    "**A monolith has been activated**"
+    {
+        "chi" "**其中一个石碑被激活了**"
+    }
+
+    "**Zombie teleport in 10 seconds**"
+    {
+        "chi" "**僵尸传送:10秒**"
+    }
+
+    "**Two monliths are in different sides**"
+    {
+        "chi" "**石碑在两侧**"
+    }
+
+    "**We should split**"
+    {
+        "chi" "**就此分别撤退**"
+    }
+
+    "**Activate all Monoliths**"
+    {
+        "chi" "**所有石碑已激活**"
+    }
+
+    "**Optional quest**"
+    {
+        "chi" "** **"
+    }
+
+    "**Special thanks to Jewdice for particles and 3D Skybox**"
+    {
+        "chi" "**天空纹理 & 粒子特效提供:Jewdice**"
+    }
+
+    "**All Snipers and Negevs are restricted**"
+    {
+        "chi" "**地图将限制 AWP 和 NEGEV**"
+    }
+
+}
