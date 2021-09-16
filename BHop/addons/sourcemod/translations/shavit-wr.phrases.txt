@@ -29,27 +29,37 @@
 	"FirstCompletion"
 	{
 		"#format"	"{1:s},{2:N},{3:s},{4:s},{5:s},{6:s},{7:s},{8:s},{9:s},{10:s},{11:d},{12:s},{13:d},{14:d},{15:s},{16:s}"
-		"en"		"{1}{2}{3} 完成了 {4}{5}{6} , 完成时间：{7}{8}{9} 排行第 {10}{11}{12} 名,进行了 {13} 次跳跃, {14} 次加速 {15}{16}."
+		"en"		"{1}{2}{3} finished ({4}{5}{6}) in {7}{8}{9} ({10}#{11}{12}) with {13} jumps, {14} strafes{15}{16}."
 	}
 	"NotFirstCompletion"
 	{
 		"#format"	"{1:s},{2:N},{3:s},{4:s},{5:s},{6:s},{7:s},{8:s},{9:s},{10:s},{11:d},{12:s},{13:d},{14:d},{15:s},{16:s},{17:s},{18:s}"
-		"en"		"{1}{2}{3} 完成了 {4}{5}{6} , 完成时间：{7}{8}{9} 排行第 {10}{11}{12} 名,进行了 {13} 次跳跃, {14} 次加速 {15}{16}. {17}(-{18})"
+		"en"		"{1}{2}{3} finished ({4}{5}{6}) in {7}{8}{9} ({10}#{11}{12}) with {13} jumps, {14} strafes{15}{16} {17}(-{18})"
+	}
+	"NotFirstCompletionWorse"
+	{
+		"#format"	"{1:s},{2:N},{3:s},{4:s},{5:s},{6:s},{7:s},{8:s},{9:s},{10:s},{11:d},{12:s},{13:d},{14:d},{15:s},{16:s},{17:s}"
+		"en"		"{1}{2}{3} finished ({4}{5}{6}) in {7}{8}{9} ({10}#{11}{12}) with {13} jumps, {14} strafes{15}{16} (+{17})"
 	}
 	"WorseTime"
 	{
 		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s},{6:s},{7:d},{8:d},{9:s},{10:s},{11:s}"
-		"en"		"你已经完成了 ({1}{2}{3}) , 完成时间：{4}{5}{6} 进行了 {7} 次跳跃, {8} 次加速{9}{10}. (+{11})"
+		"en"		"You have finished ({1}{2}{3}) in {4}{5}{6} with {7} jumps, {8} strafes{9}{10} (+{11})"
 	}
 	"UnrankedTime"
 	{
 		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s},{6:s},{7:d},{8:d},{9:s},{10:s}"
-		"en"		"你已经完成了 ({1}{2}{3}) , 完成时间：{4}{5}{6} 进行了 {7} 次跳跃, {8} 次加速{9}{10}."
+		"en"		"You have finished ({1}{2}{3}) in {4}{5}{6} with {7} jumps, {8} strafes{9}{10}."
+	}
+	"CompletionExtraInfo"
+	{
+		"#format"   "{1:s},{2:.2f},{3:s},{4:s},{5:.2f},{6:s},{7:s},{8:.1f},{9:s}"
+		"en"        "Avg/Max Spd: {1}{2}{3}/{4}{5}{6}. Perfs: {7}{8}{9}%%."
 	}
 	// ---------- Deletion Menus ---------- //
 	"DeleteAllRecords"
 	{
-		"en"		"删除全部地图记录"
+		"en"		"Delete ALL map records"
 	}
 	"DeleteAllRecordsMenuTitle"
 	{
@@ -58,7 +68,7 @@
 	}
 	"DeleteConfirm"
 	{
-		"en"		"你确定?"
+		"en"		"Are you sure?"
 	}
 	"DeleteMenuTitle"
 	{
@@ -66,7 +76,7 @@
 	}
 	"DeleteSingleRecord"
 	{
-		"en"		"删除单个记录"
+		"en"		"Delete a single record"
 	}
 	"MenuResponseNo"
 	{
@@ -126,11 +136,11 @@
 	"RecentRecords"
 	{
 		"#format"	"{1:d}"
-		"en"		"近期的 {1} 记录(s)"
+		"en"		"Recent {1} record(s)"
 	}
 	"WRDate"
 	{
-		"en"		"日期"
+		"en"		"Date"
 	}
 	"WRJump"
 	{
@@ -147,11 +157,11 @@
 	}
 	"WRMapNoRecords"
 	{
-		"en"		"无法找到记录."
+		"en"		"No records found."
 	}
 	"WRMenuTitle"
 	{
-		"en"		"选择一个模式:"
+		"en"		"Choose a style:"
 	}
 	"WRPoints"
 	{
@@ -187,7 +197,7 @@
 	}
 	"WRStyle"
 	{
-		"en"		"模式"
+		"en"		"Style"
 	}
 	"WRStyleNothing"
 	{
@@ -195,6 +205,12 @@
 	}
 	"WRTime"
 	{
-		"en"		"时间"
+		"en"		"Time"
+	}
+	// ---------- Messages ---------- //
+	"WRStageTime"
+	{
+		"#format"	"{1:s},{2:s},{3:d},{4:s},{5:s},{6:s},{7:s},{8:s},{9:s},{10:s}"
+		"en"		"{1}You have reached stage {2}{3}{4} with a time of {5}{6}{7} (WR {8}{9}{10})."
 	}
 }

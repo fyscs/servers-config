@@ -41,12 +41,12 @@
 	"HideEnabled"
 	{
 		"#format"	"{1:s},{2:s}"
-		"en"		"你现在已经 {1}隐藏{2} 玩家."
+		"en"		"You are now {1}hiding{2} players."
 	}
 	"HideDisabled"
 	{
 		"#format"	"{1:s},{2:s}"
-		"en"		"你现在已经 {1}无隐藏{2} 玩家."
+		"en"		"You are now {1}not hiding{2} players."
 	}
 	"LackingAccess"
 	{
@@ -56,7 +56,7 @@
 	"SpectateDead"
 	{
 		"#format"	"{1:s},{2:s}"
-		"en"		"你 {1}无法{2} 设定死亡的人为目标."
+		"en"		"You {1}cannot{2} target a dead player."
 	}
 	"SpectatorCount"
 	{
@@ -74,61 +74,56 @@
 	}
 	"TeleportAlive"
 	{
-		"en"		"你只能在你活着时候传送."
-	}
-	"TeleportInZone"
-	{
-		"#format"	"{1:s},{2:s},{3:s},{4:s}"
-		"en"		"你 {1}无法使用传送{2} 当你在 {3}起点或者终点区域{4}."
+		"en"		"You can teleport only if you are alive."
 	}
 	"TeleportInvalidTarget"
 	{
-		"en"		"无效的目标."
+		"en"		"Invalid target."
 	}
 	"MiscCheckpointsSaved"
 	{
 		"#format"	"{1:d},{2:s},{3:s}"
-		"en"		"存点 ({1}) {2}保存{3}."
+		"en"		"Checkpoint ({1}) {2}saved{3}."
 	}
 	"MiscCheckpointsTeleported"
 	{
 		"#format"	"{1:d},{2:s},{3:s}"
-		"en"		"{2}传送至{3} to 存点 ({1})."
+		"en"		"{2}Teleported{3} to checkpoint ({1})."
 	}
 	"MiscCheckpointsEmpty"
 	{
 		"#format"	"{1:d},{2:s},{3:s}"
-		"en"		"存点 {1} 是 {2}空的{3}."
+		"en"		"Checkpoint {1} is {2}empty{3}."
 	}
 	"MiscCheckpointsOverflow"
 	{
-		"en"		"存点已经达到上限."
+		"en"		"Unable to save due to checkpoint overflow."
 	}
 	"MiscSegmentedCommand"
 	{
 		"#format"	"{1:s},{2:s}"
-		"en"		"使用 {1}!checkpoint{2} 来重新打开segmented模式菜单."
+		"en"		"Use {1}!cp{2} to re-open the segmented checkpoints menu."
 	}
 	// ---------- Menus ---------- //
 	"StopTimerWarning"
 	{
-		"en"		"你确定要结束目前的进度吗?"
+		"en"		"Are you sure you want to stop your timer?"
 	}
 	"StopTimerYes"
 	{
-		"en"		"是的，结束我的进度."
+		"en"		"Yes, stop my timer."
 	}
 	"StopTimerNo"
 	{
-		"en"		"不，让他保持."
+		"en"		"No, keep my timer running."
 	}
 	"ClearCPWarning"
 	{
-		"en"		"你确定要清空你的存点吗?"
+		"en"		"Are you sure you want to clear your checkpoints?"
 	}
 	"ClearCPYes"
 	{
-		"en"		"是的，我知道这个操作无法撤销."
+		"en"		"Yes, and I know this action cannot be reversed."
 	}
 	"ClearCPNo"
 	{
@@ -136,7 +131,7 @@
 	}
 	"TeleportMenuTitle"
 	{
-		"en"		"传送至:"
+		"en"		"Teleport to:"
 	}
 	"WeaponAlive"
 	{
@@ -145,63 +140,71 @@
 	}
 	"MiscCheckpointMenu"
 	{
-		"en"		"存点"
+		"en"		"Checkpoints"
 	}
 	"MiscCheckpointMenuSegmented"
 	{
-		"en"		"Segmented 存点"
+		"en"		"Segmented Checkpoints"
 	}
 	"MiscCheckpointWarning"
 	{
-		"en"		"警告: 传送至存点将会停止你的时间!"
+		"en"		"WARNING: Teleporting will stop your timer!"
 	}
 	"MiscCheckpointSave"
 	{
 		"#format"	"{1:d}"
-		"en"		"设置保存点 ({1})"
+		"en"		"Save checkpoint ({1})"
 	}
 	"MiscCheckpointTeleport"
 	{
 		"#format"	"{1:d}"
-		"en"		"传送至保存点 ({1})"
+		"en"		"Teleport to checkpoint ({1})"
 	}
 	"MiscCheckpointPrevious"
 	{
-		"en"		"上一个存点"
+		"en"		"Previous"
 	}
 	"MiscCheckpointNext"
 	{
-		"en"		"下一个存点"
+		"en"		"Next"
 	}
 	"MiscCheckpointReset"
 	{
-		"en"		"重置存点"
+		"en"		"Reset checkpoints"
 	}
 	"MiscCheckpointDeleteCurrent"
 	{
-		"en"		"删除当前存点"
+		"en"		"Delete current checkpoint"
 	}
 	"MiscCheckpointPause"
 	{
-		"en"		"暂停"
+		"en"		"Pause"
 	}
 	"MiscCheckpointUseAngles"
 	{
-		"en"		"读取存点时保持原本"
+		"en"		"Use angles"
 	}
 	"MiscCheckpointUseVelocity"
 	{
-		"en"		"读取存点时保持原本速度"
+		"en"		"Use velocity"
 	}
 	// ---------- Misc ---------- //
 	"BHStartZoneDisallowed"
 	{
 		"#format"	"{1:s},{2:s},{3:s},{4:s}"
-		"en"		"你无法在 {1}起点{2} 里 {3}连跳{4}."
+		"en"		"Bunnyhopping in the {1}start zone{2} is {3}not allowed{4}."
 	}
 	"WRNotice"
 	{
 		"#format"	"{1:s},{2:s}"
 		"en"		"{1}NEW {2} WR!!!"
+	}
+	"AdvertisementsEnabled"
+	{
+		"en"		"Advertisements enabled"
+	}
+	"AdvertisementsDisabled"
+	{
+		"en"		"Advertisements disabled"
 	}
 }
