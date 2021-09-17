@@ -9,41 +9,42 @@
 	{
 		"en"		"UNKNOWN TRACK"
 	}
-	"Track_0"
+	"Track_Main"
 	{
-		"en"		"主线关"
+		"en"		"Main"
 	}
-	"Track_1"
+	"Track_Bonus"
 	{
-		"en"		"奖励关"
+		"#format"	"{1:d}"
+		"en"		"Bonus {1}"
 	}
 	// ---------- Commands ---------- //
 	"NoCommandAccess"
 	{
-		"en"		"您无权访问此命令."
+		"en"		"You do not have access to this command."
 	}
 	"NoConsole"
 	{
-		"en"		"在游戏内运行这个命令."
+		"en"		"Run this command from inside the game."
 	}
 	"ArgumentsMissing"
 	{
 		"#format"	"{1:s}"
-		"en"		"使用方法: {1}"
+		"en"		"Usage: {1}"
 	}
 	"TimerCommands"
 	{
-		"en"		"计时器指令"
+		"en"		"Timer Commands"
 	}
 	// ---------- Timelimit ---------- //
 	"Minutes"
 	{
 		"#format"	"{1:s}"
-		"en"		"地图剩余时间{1}分钟."
+		"en"		"{1} minutes remaining."
 	}	
 	"Seconds"
 	{
 		"#format"	"{1:s}"
-		"en"		"地图剩余时间{1}秒."
+		"en"		"{1} seconds remaining."
 	}
 }

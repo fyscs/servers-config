@@ -3,64 +3,112 @@
 	// ---------- Menus ---------- //
 	"DeleteReplayAdminMenu"
 	{
-		"en"		"删除重播"
+		"en"		"Delete replay"
 	}
 	"DeleteReplayMenuTitle"
 	{
-		"en"		"删除重播:"
+		"en"		"Delete a replay:"
 	}
 	"MenuResponseNo"
 	{
-		"en"		"不!"
+		"en"		"NO!"
 	}
 	"MenuResponseYes"
 	{
-		"en"		"是的，我明白这个动作是不能反悔的!"
+		"en"		"Yes, I understand this action cannot be reversed!"
 	}
 	"ReplayDeletionConfirmation"
 	{
 		"#format"	"{1:s}"
-		"en"		"确认删除{1}重播?"
+		"en"		"Confirm deletion of {1} replay?"
 	}
 	"ReplaysUnavailable"
 	{
-		"en"		"无有效的回放."
+		"en"		"No replays available."
 	}
 	// ---------- Replay Deletion ---------- //
 	"ReplayDeleted"
 	{
 		"#format"	"{1:s},{2:s},{3:s}"
-		"en"		"删除了{1}{2}{3}的重播."
+		"en"		"Deleted replay for {1}{2}{3}."
 	}
 	"ReplayDeleteFailure"
 	{
 		"#format"	"{1:s},{2:s},{3:s}"
-		"en"		"无法删除{1}{2}{3}的重播."
+		"en"		"Could not delete replay for {1}{2}{3}."
 	}
 	// ---------- Central Replay Menu ---------- //
-	"CentralReplaySpectator"
-	{
-		"#format"	"{1:s},{2:s},{3:s},{4:s}"
-		"en"		"你必须 {1}观察{2} 一个 {3}电脑玩家{4} 来使用这些功能."
-	}
 	"CentralReplayTitle"
 	{
-		"en"		"选择一个模式来进行回放:"
+		"en"		"Select a replay style to play:"
 	}
 	"CentralReplayPlaying"
 	{
-		"en"		"回放机器人现在无法播放，再试一次或等他闲置下来."
+		"en"		"The replay bot is busy, try again when it's idle."
 	}
 	"CentralReplayStop"
 	{
-		"en"		"停止目前的回放."
+		"en"		"Stop the current replay."
 	}
 	"CentralReplayStopped"
 	{
-		"en"		"强制停止回放."
+		"en"		"Forcibly stopped replay."
 	}
 	"CentralReplayTrack"
 	{
-		"en"		"选择要播放的列表"
+		"en"		"Select a track to play:"
+	}
+	"Replay_Central"
+	{
+		"en"		"!replay"
+	}
+	"Replay_Dynamic"
+	{
+		"en"		"Dynamic"
+	}
+	"Replay_Looping"
+	{
+		"en"		"Looping"
+	}
+	"Menu_ReplayBotType"
+	{
+		"en"		"Replay bot type:"
+	}
+	"Menu_Replay_Central"
+	{
+		"en"		"Central !replay bot"
+	}
+	"Menu_Replay_Dynamic"
+	{
+		"en"		"Spawn dynamic bot"
+	}
+	"Menu_Replay_Prop"
+	{
+		"en"		"Spawn physics prop bot"
+	}
+	"TooManyDynamicBots"
+	{
+		"en"		"Too many dynamic bots are playing. Can't spawn more."
+	}
+	"FailedToCreateReplay"
+	{
+		"en"		"Failed to create replay"
+	}
+	"Menu_Replay"
+	{
+		"en"		"Replay"
+	}
+	"Menu_SpawnReplay"
+	{
+		"en"		"Spawn replay"
+	}
+	"Menu_Replay2X"
+	{
+		"#format"	"{1:s}"
+		"en"		"[{1}] Toggle 2x speed"
+	}
+	"Menu_RefreshReplay"
+	{
+		"en"		"Refresh"
 	}
 }
