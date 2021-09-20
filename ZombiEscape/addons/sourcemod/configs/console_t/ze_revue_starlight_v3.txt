@@ -1,5 +1,6 @@
 "Console_T"
 {
+
     "<<one player has picked up white knight,press wwssaadd to use the ultimate>>"
     {
         "chi" "**一名玩家捡起了苍白骑士,按wwssadd使用终极**"
@@ -107,12 +108,12 @@
 
     "door of calssB will break in 30S"
     {
-        "chi" "**B班门30秒后破坏**"
+        "chi" "**门30秒后破坏**"
     }
 
     "door calssA will break in 30S"
     {
-        "chi" "**A班门30秒后破坏**"
+        "chi" "**门30秒后破坏**"
     }
 
     "door of dance romm will break in 30S"
@@ -148,11 +149,6 @@
     "we can go on the ladder in 5S"
     {
         "chi" "**5秒后梯子开放**"
-    }
-
-    "we can climb the tower in 25S"
-    {
-        "chi" "**这座塔25秒后开放**"
     }
 
     "we can go to the stage in 30S"
@@ -260,19 +256,14 @@
         "chi" "**假结局:第九十九次圣象演出**"
     }
 
-    "zombie tp in 10S"
+    "zombie tp in 20S"
     {
-        "chi" "**僵尸10秒后传送**"
+        "chi" "**僵尸20秒后传送**"
     }
 
     "wall will break in 20S"
     {
         "chi" "**墙壁20秒后破碎**"
-    }
-
-    "stage will open in 20S"
-    {
-        "chi" "**舞台20秒后开放**"
     }
 
     "zombie coming in 5S"
