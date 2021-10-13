@@ -81,6 +81,14 @@
 	{
 		"en"		"Rank"
 	}
+	"Playtime"
+	{
+		"en"		"Play time"
+	}
+	"YourPlaytime"
+	{
+		"en"		"Yours"
+	}
 	"Points"
 	{
 		"en"		"Points"
@@ -95,7 +103,7 @@
 	}
 	"WorldRecords"
 	{
-		"en"		"world records"
+		"en"		"World records"
 	}
 	// ---------- Record Data ---------- //
 	"Date"
