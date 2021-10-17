@@ -1,0 +1,153 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "<<<The door has opened>>>"
+    {
+        "chi" "**<<< 大门已经打开 >>>**"
+    }
+
+    "We are not giving thanks to Friend for brushwork"
+    {
+        "chi" "** 我可不是为了感谢Frinend捏地形才写这句话的哦! **"
+    }
+
+    "<<<GO GO GOOOO>>>"
+    {
+        "chi" "**<<< 快跑啊!!!!! >>> **"
+    }
+
+    "<<<It's not finished>>>"
+    {
+        "chi" "**<<<人类的伟业尚未完成,你们还需要最后一搏!>>> **"
+    }
+
+    "Hint: maybe you should decode the message?"
+    {
+        "chi" "**提示:可能你们需要解码一段信息?**"
+    }
+
+    "There is a secret on the map. Try to locate it."
+    {
+        "chi" "**这是你们前往最终结局的唯一钥匙,请诸位加油 **"
+    }
+
+    "***The door will open in 10 seconds***"
+    {
+        "chi" "**门在10秒后打开 **"
+    }
+
+    "<<<Call the elevator>>>"
+    {
+        "chi" "**已经在呼叫电梯了 **"
+    }
+
+    "<<<We are not giving thanks to Kotya for scripts>>>"
+    {
+        "chi" "** 我可不是为了感谢Koyta写脚本才写这句话的哦! **"
+    }
+
+    "DON'T TOUCH THE LASERS"
+    {
+        "chi" "**别去碰激光! **"
+    }
+
+    "<<<The electricity should be cut off in a few seconds>>>"
+    {
+        "chi" "**<<<电力还需要一会才能或恢复>>> **"
+    }
+
+    "<<<Electricity is OFF>>>"
+    {
+        "chi" "**停电了,我怀疑这里欠费没交电费 **"
+    }
+
+    "<<<The door leading to the elevator are open!>>>"
+    {
+        "chi" "** 电梯门开了,快跑! **"
+    }
+
+    "<<<Advance before it closes !>>>"
+    {
+        "chi" "**<<< 要关上了,快!!!! >>>**"
+    }
+
+    "<<<Quickly climb the ladder or the zombies will slap your ass !>>>"
+    {
+        "chi" "**<<<快爬梯子,不然僵尸就要追尾了!>>> **"
+    }
+
+    "<<<The fence has broken>>>"
+    {
+        "chi" "**<<< 可以走了,快跑!!!! >>> **"
+    }
+
+    "<<<Get out of here !!!>>>"
+    {
+        "chi" "**<<< 快离开这里!! >>> **"
+    }
+
+    "<<<The yellow door Area 9 will open in 10 seconds>>>"
+    {
+        "chi" "**<<< 第九地区黄色大门在10秒后打开 >>>**"
+    }
+
+    "<<<The yellow door leading to the HUB will open soon>>>"
+    {
+        "chi" "** <<< 通往实验室的黄色大门马就要开了 >>> **"
+    }
+
+    "Welcome on Objective NPST"
+    {
+        "chi" "** >>> NPST 绝境讨伐战 <<< 开始! **"
+    }
+
+    "Good Luck !"
+    {
+        "chi" "**<< 祝各位勇士,武运昌隆!>>**"
+    }
+
+    "All the music is in the link :"
+    {
+        "chi" "**所有地图音乐都在链接里面 **"
+    }
+
+    "<<<The door is opening get inside !>>>"
+    {
+        "chi" "** <<< 门开了快进去!!! >>> **"
+    }
+
+    "<<<The door is going to open>>>"
+    {
+        "chi" "** <<< 门开了快跑!!! >>> **"
+    }
+
+    "<<<Prepare to shoot>>>"
+    {
+        "chi" "** <<< 准备射击 >>> **"
+    }
+
+    "<<<We are not giving thanks to Waffel for helping>>>"
+    {
+        "chi" "**<<< 我可不是因为Waffel提供了点小帮助才写这句话哦! >>> **"
+    }
+
+    "<<<The water level is increasing>>>"
+    {
+        "chi" "** <<< 水面开始上升了,注意 >>> **"
+    }
+
+    "<<<THE DOOR HAS OPENED>>>"
+    {
+        "chi" "** 这个门开了快跑 **"
+    }
+
+    "<<<DOOR IS OPEN>>>"
+    {
+        "chi" "** 我亲爱的队友们,这个门开了,快跑 **"
+    }
+
+}
