@@ -661,7 +661,6 @@
 	"***OUTER WALL ENTRANCE IS OPENING IN 30 SECONDS***"
 	{
 		"chi"		"**外墙入口30秒后打开**"
-		"countdown" "60"
 	}
 	"***OUTER WALL ENTRANCE IS OPENING IN 5 SECONDS***"
 	{
@@ -671,6 +670,7 @@
 	"***OUTER WALL ENTRANCE IS OPENING***"
 	{
 		"chi"		"**外墙入口开了**"
+		"countdown" "30"
 	}
 	"***UPPER GATE IS OPENING IN 30 SECONDS***"
 	{
@@ -1101,6 +1101,7 @@
 	"***THE TRUE ELEVATOR IS LEAVING***"
 	{
 		"chi"		"**电梯离开**"
+		"countdown" "38"
 	}
 	"***SOCRATES WISHES SILENTLY***"
 	{
@@ -1125,7 +1126,7 @@
 	"***SOCRATES CARES FOR NO MAN***"
 	{
 		"chi"		"**灼眼尊者不关心人**"
-		"countdown" "50"
+		"countdown" "60"
 	}
 	"***SOCRATES IS***"
 	{
