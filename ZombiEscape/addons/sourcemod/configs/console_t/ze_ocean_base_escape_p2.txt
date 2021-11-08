@@ -1,0 +1,248 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "***Hurry up! We only have to 10secs left!!***"
+    {
+        "chi" "**快激活!还剩最后10秒就要自毁了! **"
+    }
+
+    "***Someone take the overhead ladder! Everyone else give them cover fire!***"
+    {
+        "chi" "**勇士爬上脚手架了!其余所有人开枪掩护他! **"
+    }
+
+    "***Someone has to go back there and activate the core!***"
+    {
+        "chi" "**看来需要一位勇士舍生取义激活核心... **"
+    }
+
+    "***Manual activation required!**"
+    {
+        "chi" "**自动装置失效!需要手动激活! **"
+    }
+
+    "***CORE OVERLOAD ERROR**"
+    {
+        "chi" "**警告!核心超载失败! **"
+    }
+
+    "***Submarine Atomic Core overload at 95%!***"
+    {
+        "chi" "**潜艇原子核心超载百分之九十五 **"
+    }
+
+    "***Submarine Atomic Core overload at 60%!***"
+    {
+        "chi" "**潜艇原子核心超载百分之六十 **"
+    }
+
+    "***Submarine Atomic Core overload at 25%!***"
+    {
+        "chi" "**潜艇原子核心超载百分之二十五 **"
+    }
+
+    "***Submarine Atomic Core overload activated! Full overload in 45secs!***"
+    {
+        "chi" "**潜艇原子核心超载激活中!预计45秒之内完成... **"
+    }
+
+    "***The lift is out of power. We'll have to go through the hole in the hull.***"
+    {
+        "chi" "**该死 电梯没有能源了 我们只能另寻出路了 **"
+    }
+
+    "***Left Gate opening!***"
+    {
+        "chi" "**左侧闸门打开 **"
+    }
+
+    "***Left Gate opening in 20secs!***"
+    {
+        "chi" "**左侧闸门20秒后开启 **"
+    }
+
+    "***Right Gate opening in 20secs!***"
+    {
+        "chi" "**右侧闸门20秒后开启 **"
+    }
+
+    "***Right Gate opening!***"
+    {
+        "chi" "**右侧闸门打开 **"
+    }
+
+    "***Launch Bay Open!***"
+    {
+        "chi" "**导弹发射台打开 **"
+    }
+
+    "***RUN! Get into the Submarine! Zombie can't get in!***"
+    {
+        "chi" "**快进入最后的潜艇!这应该能挡住僵尸! **"
+    }
+
+    "***The Ocean Base is starting to explode!***"
+    {
+        "chi" "**检测到生化污染!深海基地自毁启动! **"
+    }
+
+    "***Find a place to hide and hold here for 45secs until a path is clear!!***"
+    {
+        "chi" "**找一个据点坚守45秒直到路障清除 **"
+    }
+
+    "***Path clear. Make your way to the other end of the base before it's too late!***"
+    {
+        "chi" "**路障已清除 抓紧时间前往潜艇港口逃生！ **"
+    }
+
+    "***Submarine leaving in 30secs!***"
+    {
+        "chi" "**潜艇30秒后出发 **"
+    }
+
+    "***Get in and hold the control room!***"
+    {
+        "chi" "**一定要坚守住控制室! **"
+    }
+
+    "***Grab any weapons or nades you might need!***"
+    {
+        "chi" "**检查你的枪支弹药 背水一战! **"
+    }
+
+    "***We can't let them reach the surface!***"
+    {
+        "chi" "**我们一定不能让病毒泄露! **"
+    }
+
+    "***Damn! The only way to get rid of them is to activate the Atomic Core overload program!***"
+    {
+        "chi" "**可恶 看来只能超载潜艇的原子核心了... **"
+    }
+
+    "***OH NO! They got on board!***"
+    {
+        "chi" "**怎么会!?他们突破潜艇的防御了! **"
+    }
+
+    "***ACTIVATE THE CORE OVERLOAD FROM THE CONSOLE!!!***"
+    {
+        "chi" "**赶快启动超载按钮! **"
+    }
+
+    "***We made it just in time!***"
+    {
+        "chi" "**真险啊 还好我们赶上了 **"
+    }
+
+    "***Hit the switch to activate the door.***"
+    {
+        "chi" "**开关激活中 **"
+    }
+
+    "***CORE OVERLOAD 100%!**"
+    {
+        "chi" "**潜艇原子核心超载百分之百... **"
+    }
+
+    "***...We made it...**"
+    {
+        "chi" "**他做到了... **"
+    }
+
+    "***...Thank you...<<Insert Name Here>>...**"
+    {
+        "chi" "**蟹蟹你 勇士 **"
+    }
+
+    "***Thank You for Playing!!***"
+    {
+        "chi" "**同时也感谢你们的游玩 汉化:龙鸣 **"
+    }
+
+    "***Use the pipes along the wall to get across the pit of fire!***"
+    {
+        "chi" "**快沿着墙边尚未倒塌的管道穿过烈火 **"
+    }
+
+    "***Tram power has shut down! Zombies can now walk across!***"
+    {
+        "chi" "**缆车电源已瘫痪(僵尸可以穿过了 注意!) **"
+    }
+
+    "***Tram leaving!***"
+    {
+        "chi" "**缆车离开中... **"
+    }
+
+    "***Tram leaving in 25secs!***"
+    {
+        "chi" "**缆车电源正在充能 预计25秒后出发 **"
+    }
+
+    "***Tram leaving in 5secs!***"
+    {
+        "chi" "**注意!还剩5秒! **"
+    }
+
+    "***Break the glass and make your way across the ship's hull.*** "
+    {
+        "chi" "**快!打碎玻璃穿过船体! **"
+    }
+
+    "***If we break the weak glass we can't make it back into the base.***"
+    {
+        "chi" "**注意!穿过玻璃后我们将无法回头了 当心追尾! **"
+    }
+
+    "***Activate the lift and hold the boxes while it powers up!***"
+    {
+        "chi" "**等待升降机运行! **"
+    }
+
+    "***Careful scaling across the top on the crates!***"
+    {
+        "chi" "**水太深了 我们应该在纸板箱上才能翻过去! **"
+    }
+
+    "***Make your way to the other end of the ballroom! There's a hole in the railing to can use to make it to the second floor!***"
+    {
+        "chi" "**这里已经开始崩塌了 赶紧寻找出路! **"
+    }
+
+    "***Jump and slide down to use the ladders to get off the ceiling!***"
+    {
+        "chi" "**看来可以通过舞台的梯子滑到二楼 快跳! **"
+    }
+
+    "***Old Lab path opening in 5secs. RUN!!***"
+    {
+        "chi" "**废弃实验室路劲5秒后开启 快跑! **"
+    }
+
+    "***Modern Lab path opening in 5secs. RUN!!***"
+    {
+        "chi" "**主实验室路径5秒后开启 快跑! **"
+    }
+
+    "***Research path opening in 7secs. RUN!!***"
+    {
+        "chi" "**研究所路径7秒后开启 快跑! **"
+    }
+
+    "***Swim to the wrecked ship. We'll have to go through the hole in the hull.***"
+    {
+        "chi" "**这里已经被水淹没了 赶紧下潜寻找出路! **"
+    }
+
+    "***Ocean Base status critical!***"
+    {
+        "chi" "**深海基地结构损毁严重 请设施内的人员立即撤离! **"
+    }
+
+}
