@@ -1,0 +1,338 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "** Admin changed to Level 1! **"
+    {
+        "chi" "**管理员设置第一关 **"
+    }
+
+    "** Admin changed to Level 2! **"
+    {
+        "chi" "**管理员设置第二关 **"
+    }
+
+    "** Admin changed to Level 3! **"
+    {
+        "chi" "**管理员设置第三关 **"
+    }
+
+    "** Ash: Pikachu use Shock Wave!! **"
+    {
+        "chi" "**小智:皮卡丘快使用冲击波! **"
+    }
+
+    "** Ash: Pikachu use Thunder!! **"
+    {
+        "chi" "**小智:皮卡丘快使用闪电! **"
+    }
+
+    "** Flygon leaving in 15 seconds! **"
+    {
+        "chi" "**飞龙将于15后离开 **"
+    }
+
+    "** Zombies detected! **"
+    {
+        "chi" "**僵尸逃脱啦 你输了! **"
+    }
+
+    "** Ash: Pikachu let's finish this! Use Thunder Bolt! **"
+    {
+        "chi" "**小智:皮卡丘快使用十万伏特终结技! **"
+    }
+
+    "**** Map Made by DarkOgre! ****"
+    {
+        "chi" "**地图作者:DarkOgre 汉化:龙鸣 **"
+    }
+
+    "** ZOMBIE DETECTED IN FINAL ROOM! YOU LOST! **"
+    {
+        "chi" "**僵尸又又又逃脱了 你输了! **"
+    }
+
+    "** Level 1: Saffron City **"
+    {
+        "chi" "**第一关:金黄市 **"
+    }
+
+    "** Level 3: Victory Road **"
+    {
+        "chi" "**第三关:通往胜利之路 **"
+    }
+
+    "** Level 2: Syphon Lab **"
+    {
+        "chi" "**第二关:实验室 **"
+    }
+
+    "** Lasers will be disabled in 15 seconds! **"
+    {
+        "chi" "**激光将于15秒后关闭 **"
+    }
+
+    "** Seems like a Sigilyph is bloocking the way! We need to destroy him! **"
+    {
+        "chi" "**神秘面具怪挡住了我们 消灭它! **"
+    }
+
+    "** Sigilyph is using Psychic Attack! **"
+    {
+        "chi" "**神秘面具怪使用了精神干扰! **"
+    }
+
+    "** Sigilyph is using Psychic Wave! **"
+    {
+        "chi" "**神秘面具怪灵魂冲击! **"
+    }
+
+    "** Rival: Noooooo! You have beat me again, I surrender! **"
+    {
+        "chi" "**小智:打不过 我润了 **"
+    }
+
+    "** Vaporean used surf! **"
+    {
+        "chi" "**水龙使用了海浪! **"
+    }
+
+    "** Ash is healing his Pokemons! **"
+    {
+        "chi" "**小智正在给他的宝可乐喂奶 **"
+    }
+
+    "** Umbreon used Confuse Ray! **"
+    {
+        "chi" "**黑猫使用了混乱射线! **"
+    }
+
+    "** Jolteon used Thunder! **"
+    {
+        "chi" "**电狐使用了闪电! **"
+    }
+
+    "** Glaceon used Blizzard! **"
+    {
+        "chi" "**雪马使用了暴雪! **"
+    }
+
+    "** A player has adquired Potion! **"
+    {
+        "chi" "**一位宝可梦训练师获得了疗伤药 **"
+    }
+
+    "** A player has adquired Ammo! **"
+    {
+        "chi" "**一位宝可梦训练师获得了大师球 **"
+    }
+
+    "** A player has adquired Gust! **"
+    {
+        "chi" "**一位宝可梦训练师获得了风球 **"
+    }
+
+    "** Gate will fully oppen in 20 seconds! **"
+    {
+        "chi" "**大门需要20秒完全打开 **"
+    }
+
+    "** Elite Door will open in 25 seconds!! **"
+    {
+        "chi" "**大师决斗场需要20秒开放 **"
+    }
+
+    "** Elite Door is open! You have 10 seconds to enter!! **"
+    {
+        "chi" "**决斗场已开放 你只有10秒时间进入! **"
+    }
+
+    "** Rival: So you are my rival! Do you think you can beat me? **"
+    {
+        "chi" "**你的噩梦就是我 敢不敢跟我碰一碰? **"
+    }
+
+    "** Rival: Glaceon, Jolteon, Umbreon and Vaporeon lets show them what we are capable of! **"
+    {
+        "chi" "**出来吧 我的宝可梦们 让他们看看什么是真正的力量! **"
+    }
+
+    "** Hold for 15 seconds! **"
+    {
+        "chi" "**坚守15秒 **"
+    }
+
+    "** Gate will open in 20 seconds! **"
+    {
+        "chi" "**大门需要20秒打开 **"
+    }
+
+    "** Hold for 20 seconds! **"
+    {
+        "chi" "**坚守20秒 **"
+    }
+
+    "** A player has adquired Bicycle! **"
+    {
+        "chi" "**一位宝可梦训练师获得了自行车 **"
+    }
+
+    "** A player has adquired Pokeball! **"
+    {
+        "chi" "**一位宝可梦训练师获得了新的宝可梦 **"
+    }
+
+    "** Wailord leaving in 15 seconds! **"
+    {
+        "chi" "**鲸鱼王15秒后离开! **"
+    }
+
+    "** Zapdos is using Thunder Wave! **"
+    {
+        "chi" "**雷伊使用了闪电波! **"
+    }
+
+    "** Zapdos is using Thunder Shock! **"
+    {
+        "chi" "**雷伊使用了闪电冲击! **"
+    }
+
+    "** Zapdos is using Thunder Bolt! **"
+    {
+        "chi" "**雷伊使用了瞬雷天闪! **"
+    }
+
+    "** Zapdos is using Heal! **"
+    {
+        "chi" "**雷伊治疗了自己! **"
+    }
+
+    "** Zapdos is Using Zap Cannon! **"
+    {
+        "chi" "**雷伊使用了扫射 **"
+    }
+
+    "** Teleport is powering up! **"
+    {
+        "chi" "**传送器充电中... **"
+    }
+
+    "** 5 More seconds! **"
+    {
+        "chi" "**还剩5秒! **"
+    }
+
+    "** Ash: Pikachu... Nooooo! **"
+    {
+        "chi" "**小智:皮卡丘...不!!! **"
+    }
+
+    "** Teleport will activate in 15 seconds **"
+    {
+        "chi" "**传送将于15秒后启动 **"
+    }
+
+    "** Door will open in 20 seconds! **"
+    {
+        "chi" "**大门20秒后打开 **"
+    }
+
+    "**  Left door will open in 15 seconds! **"
+    {
+        "chi" "**左门15后开放 **"
+    }
+
+    "** Right door will open in 15 seconds! **"
+    {
+        "chi" "**右门15秒后开放 **"
+    }
+
+    "** Blissey: Sorry, but the elevator does not work on this floor! Please take the stairs! **"
+    {
+        "chi" "**保安:抱歉啊,电梯最近出了故障 还请你们走旁边的楼梯 **"
+    }
+
+    "** Wait the truck get out the way! **"
+    {
+        "chi" "**等待卡车离开ing... **"
+    }
+
+    "** Blissey is waiting you inside the Mart! **"
+    {
+        "chi" "**快进入商店整备一下 **"
+    }
+
+    "** Blissey: Hello friend, Give me 15 seconds to open the gate for you!"
+    {
+        "chi" "**热心的路人:朋友们 给我15秒时间打开这个门 **"
+    }
+
+    "** Gym door closing in 15 seconds **"
+    {
+        "chi" "**道馆大门15秒后关闭 **"
+    }
+
+    "** Ash: So... You are my new opponent! **"
+    {
+        "chi" "**小智:一个新的对手？很好! **"
+    }
+
+    "** Ash: Do you think you can beat me? Don't make me laugh! **"
+    {
+        "chi" "**小智:你认为你能击败我?真是笑的我满地找头! **"
+    }
+
+    "** Ash: Go Pikachu!!! **"
+    {
+        "chi" "**小智:去吧!皮卡丘! **"
+    }
+
+    "** Dont let the zombies enter the Mart! **"
+    {
+        "chi" "**别让僵尸进入商店 守住! **"
+    }
+
+    "** Left Water elevator leaving in 25 seconds! **"
+    {
+        "chi" "**左边的喷泉电梯25秒后上升 **"
+    }
+
+    "** Right Water elevator leaving in 25 seconds! **"
+    {
+        "chi" "**右边的喷泉电梯25秒后上升 **"
+    }
+
+    "** Hold the bedroom for 30 seconds! **"
+    {
+        "chi" "**守住这个卧室30秒 **"
+    }
+
+    "** Hitmontop: Leave our gym, or else we will destroy you! **"
+    {
+        "chi" "**愤怒的路人:赶紧离开 否则干碎你! **"
+    }
+
+    "** The path is blocked! What can we do now? **"
+    {
+        "chi" "**完了!死路一条!!! **"
+    }
+
+    "** What noise is this? OMG Heatrans, hide before they kill you! **"
+    {
+        "chi" "**什么声音?是地震嘛?不好 快躲起来! **"
+    }
+
+    "** Computer is processing! **"
+    {
+        "chi" "**计算机超频ing... **"
+    }
+
+    "** Computer is having a malfunction. Attention keep distance!**"
+    {
+        "chi" "**计算机冒烟ind...情况良好... **"
+    }
+
+}
