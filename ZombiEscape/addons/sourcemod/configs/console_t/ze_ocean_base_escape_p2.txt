@@ -28,6 +28,7 @@
     "***CORE OVERLOAD ERROR**"
     {
         "chi" "**警告!核心超载失败! **"
+		"command"       "sm_smoker_enabled 0"
     }
 
     "***Submarine Atomic Core overload at 95%!***"
@@ -138,7 +139,7 @@
     "***We made it just in time!***"
     {
         "chi" "**真险啊 还好我们赶上了 **"
-		"command"       "ze_weapons_round_molotov 2"
+		"command"       "ze_weapons_round_molotov 1"
     }
 
     "***Hit the switch to activate the door.***"
@@ -159,6 +160,7 @@
     "***...Thank you...<<Insert Name Here>>...**"
     {
         "chi" "**蟹蟹你 勇士 **"
+		"command"       "sm_smoker_enabled 1"
     }
 
     "***Thank You for Playing!!***"
