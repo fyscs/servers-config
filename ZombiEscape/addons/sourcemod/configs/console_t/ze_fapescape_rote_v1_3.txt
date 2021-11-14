@@ -260,6 +260,7 @@
     "*** Level 1 ***"
     {
         "chi" "** 第一关 **"
+        "command" "ze_credits_pass_round 10; rank_ze_win_points_humans 4;"
     }
 
     "* Turning music on *"
