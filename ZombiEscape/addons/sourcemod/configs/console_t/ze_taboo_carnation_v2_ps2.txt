@@ -1,0 +1,2803 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "** Compound door opening in 5 seconds. **"
+    {
+        "chi" "**基地外围大门5秒后开启 **"
+    }
+
+    "** Hold the area! The headquarters' door is opening in 40 seconds **"
+    {
+        "chi" "**坚守阵地!基地大门需要40秒破解 **"
+    }
+
+    "** Keep holding! We can't let anything through! **"
+    {
+        "chi" "**坚持住!不能让僵尸靠近! **"
+    }
+
+    "** MOVE IT! THE DOORS ARE OPENING!!! **"
+    {
+        "chi" "**撤退!基地大门开了! **"
+    }
+
+    "** We are going to have to hack into the security system! Hold while it is done! **"
+    {
+        "chi" "**我们需要一部分人前去破坏基地的安保系统 另一对人掩护! **"
+    }
+
+    "** Hold! The entrance to the calculus room will open soon! **"
+    {
+        "chi" "**坚守 直到我们找到安保控制区 **"
+    }
+
+    "** Defend the hangar until we can open the door! **"
+    {
+        "chi" "**载具区大门即将开放! **"
+    }
+
+    "** Hold right here! The other team must crack the security system for us to pass! **"
+    {
+        "chi" "**坚守阵地并等待破解部队打开大门 **"
+    }
+
+    "** The system has been successfully hacked! The doors will open soon! **"
+    {
+        "chi" "**滴!安保系统已被破坏 内部大门即将开放! **"
+    }
+
+    "** From this point on there might be guards! Be careful! **"
+    {
+        "chi" "**当心基地内安保人员的反击! **"
+    }
+
+    "** Hold the elevator! We need to resist until it leaves! **"
+    {
+        "chi" "**防守直到电梯启动! **"
+    }
+
+    "** RESIST! The door will open soon! **"
+    {
+        "chi" "**闸门即将打开! **"
+    }
+
+    "** Hold the path! We will be able to get into the warehouse in 25 seconds! **"
+    {
+        "chi" "**仓库大门需要25秒时间打开! **"
+    }
+
+    "** Keep it up! 5 seconds left! **"
+    {
+        "chi" "**还剩5秒! **"
+    }
+
+    "** GET IN!!! **"
+    {
+        "chi" "**快进来! **"
+    }
+
+    "** Planting a bomb! Stay away from it not to be hurt by the explosion!!! **"
+    {
+        "chi" "**一条死路?准备爆破逃离 注意远离爆炸区域! **"
+    }
+
+    "** GET MOVING! The wall has been blown up! **"
+    {
+        "chi" "**撤退! **"
+    }
+
+    "** HOLD! We need to resist in this hallway while we try to deactivate the power! **"
+    {
+        "chi" "**我们需要切断基地的电力系统 坚守住! **"
+    }
+
+    "** RESIST AT THE DOOR! WE HAVE TO GET THROUGH IT! **"
+    {
+        "chi" "**守住直到门开 不然就要全军覆没了! **"
+    }
+
+    "** The power should go off soon... **"
+    {
+        "chi" "**电力系统差不多要瘫痪了... **"
+    }
+
+    "** The door is opening... MOVE! **"
+    {
+        "chi" "**大门开了 撤退! **"
+    }
+
+    "** Huh?! How are those lights still going... **"
+    {
+        "chi" "**奇怪?这些灯怎么还亮着? **"
+    }
+
+    "** The expected extraction path is blocked too! **"
+    {
+        "chi" "**情报有误 怎么会! **"
+    }
+
+    "** We will have to deal with the situation ourselves. **"
+    {
+        "chi" "**看来我们得重新规划行动了 **"
+    }
+
+    "** How did all these Wehrmatch soldiers get in here? **"
+    {
+        "chi" "**这些士兵为什么会被关在培养槽里? **"
+    }
+
+    "** Get out! The bomb cannot be defused at this point! **"
+    {
+        "chi" "**准备撤退了 我们在这安放了炸弹! **"
+    }
+
+    "** The elevator is leaving just now! **"
+    {
+        "chi" "**电梯即将离去... **"
+    }
+
+    "** The satellite link has been re-established! Transmission incoming... **"
+    {
+        "chi" "**卫星通信已重新建立 传输接入... **"
+    }
+
+    "** An imminent atomic launch has been programmed over the neighbouring Isla del Jabu... **"
+    {
+        "chi" "**一枚核弹在附近的发射中心已激活...我们必须做点什么! **"
+    }
+
+    "** Well done! The missile has been redirected to impact on this very position!  **"
+    {
+        "chi" "**做得好...核弹攻击已定位到此基地! **"
+    }
+
+    "** Dr. Carmack: We should get going unless you guys want to become a roasted squad! **"
+    {
+        "chi" "**博士:我们应该赶紧撤离 除非你们想跟这个基地陪葬! **"
+    }
+
+    "** You have failed! The atomic missile will impact on the neighbouring Isla del Jabu! **"
+    {
+        "chi" "**你失败了 核弹已抵达! **"
+    }
+
+    "** Dr. Carmack: Elite forces? ELITE FORCES MY ASS! You're horrible! **"
+    {
+        "chi" "**博士:别催我啦 我已经在全速前进了! **"
+    }
+
+    "** Dr. Carmack: I should have done it myself instead of letting those knucklehead punks do it! **"
+    {
+        "chi" "**博士:我应该自己动手 而不是其他baka动手 **"
+    }
+
+    "** This seems to be one of the many hangars  of the island... **"
+    {
+        "chi" "**这里似乎就是机库了... **"
+    }
+
+    "** DAMN - SHOOT! HOSTILE FORCES AHEAD!!! **"
+    {
+        "chi" "**可恶!前方有埋伏! **"
+    }
+
+    "** Resist for the last bit! Help is on the way! **"
+    {
+        "chi" "**没办法了!背水一战! **"
+    }
+
+    "** DAMMIT! HOSTILE HELICOPTER APPROACHING! WE'LL NEED TO TAKE IT DOWN! **"
+    {
+        "chi" "**真是阴魂不散!让我们来给这残兵最后一击吧! **"
+    }
+
+    "** Dr. Carmack is dead! **"
+    {
+        "chi" "**卡马克博士已阵亡 **"
+    }
+
+    "** Get going! I'll start the redirection routine just now! **"
+    {
+        "chi" "**我现在就开始重新定位程序 **"
+    }
+
+    "** We need to change the destination coordinates of the atomic bomb to this island to end it at last! **"
+    {
+        "chi" "**我们需要把核弹攻击定位到这座岛上! **"
+    }
+
+    "** We seem to have reached one of the twelve prisons where the scientists are kept! **"
+    {
+        "chi" "**这里貌似就是关押科学家的监狱 **"
+    }
+
+    "** Planting a bomb! Let's hope for this wall to lead somewhere else! **"
+    {
+        "chi" "**死路?那就准备爆破吧! **"
+    }
+
+    "** RESIST RIGHT HERE! WE'RE CLOSE TO THE EXTRACTION POINT! **"
+    {
+        "chi" "**坚持住!我们就要抵达撤离点了! **"
+    }
+
+    "** We need to hold this area! This door leads to our extraction point! **"
+    {
+        "chi" "**我们需要坚守住这里!这扇大门直通撤离点! **"
+    }
+
+    "** It seems to be about to blow up! **"
+    {
+        "chi" "**好像要爆炸了! **"
+    }
+
+    "** The smell is nasty in here! We are trapped in the sewage system it seems... **"
+    {
+        "chi" "**真是呛鼻 这里应该是基地污水处理管道了... **"
+    }
+
+    "** Final score: 0 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 1 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 2 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 3 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 4 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 5 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 6 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 7 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 8 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 9 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 10 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 11 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 12 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 13 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 14 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 15 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 16 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 17 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 18 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 19 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 20 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 21 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 22 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 23 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 24 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 25 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 26 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 27 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 28 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 29 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 30 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 31 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 48 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 49 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 50 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 51 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 52 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 53 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 54 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 55 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 56 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 57 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 58 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 59 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 60 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 61 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 62 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 63 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 32 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 33 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 34 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 35 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 36 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 37 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 38 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 39 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 40 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 41 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 42 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 43 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 44 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 45 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 46 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 47 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 64 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 65 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 66 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 67 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 68 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 69 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 70 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 71 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 72 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 73 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 74 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 75 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 76 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 77 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 78 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 79 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 80 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 81 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 82 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 83 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 84 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 85 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 86 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 87 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 88 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 89 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 90 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 91 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 92 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 93 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 94 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 95 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 96 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 97 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 98 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 99 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 100 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 101 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 102 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 103 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 104 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 105 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 106 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 107 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 108 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 109 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 110 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 111 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 112 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 113 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 114 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 115 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 116 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 117 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 118 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 119 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 120 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 121 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 122 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 123 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 124 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 125 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 126 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 127 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 128 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 129 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 130 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 131 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 132 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 133 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 134 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 135 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 136 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 137 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 138 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 139 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 140 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 141 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 142 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 143 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 144 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 145 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 146 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 147 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 148 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 149 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 150 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 151 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 152 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 153 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 154 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 155 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 156 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 157 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 158 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 159 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 160 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 161 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 162 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 163 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 164 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 165 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 166 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 167 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 168 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 169 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 170 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 171 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 172 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 173 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 174 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 175 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 176 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 177 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 178 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 179 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 180 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 181 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 182 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 183 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 184 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 185 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 186 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 187 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score:188 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 189 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 190 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 191 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 192 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 193 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 194 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 195 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 196 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 197 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 198 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 199 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 200 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 201 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 202 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 203 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 204 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 205 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 206 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 207 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 208 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 209 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 210 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 211 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 212 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 213 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 214 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 215 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 216 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 217 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 218 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 219 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 220 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 221 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 222 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 223 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 224 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 225 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 226 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 227 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 228 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 229 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 230 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 231 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 232 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 233 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 234 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 235 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 236 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 237 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 238 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 239 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 240 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 241 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 242 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 243 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 244 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 245 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 246**"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 247 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 248 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 249 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 250 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 251 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 252 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 253 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 254 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Final score: 255 **"
+    {
+        "chi" "** **"
+    }
+
+    "** ADMIN ROOM HAS BEEN ACCESSED TO CHANGE LEVEL**"
+    {
+        "chi" "**管理员已更改地图章节 **"
+    }
+
+    "** FAKE TEAM POINTS ACTIVATED TO AVOID SCORE-FAKING**"
+    {
+        "chi" "** **"
+    }
+
+    "** TIP: The hud will display information about the mission and some tips at times. **"
+    {
+        "chi" "**提示:hud有时会显示任务面板 **"
+    }
+
+    "** ... We have reached Isla Bonita. Waiting for instructions **"
+    {
+        "chi" "**我们已抵达基地外围 等待指示 **"
+    }
+
+    "** Act I: A bed of blood red carnations **"
+    {
+        "chi" "**第一章:秘密潜入 **"
+    }
+
+    "Map by Enviolinador. Port by isa"
+    {
+        "chi" "**地图作者:Enviolinador,isa 汉化:龙鸣**"
+    }
+
+    "** The lower levels seem to have collapsed due to the explosion... **"
+    {
+        "chi" "**爆破结束 底层竟然坍塌了... **"
+    }
+
+    "** Act II: Walking out the cavern **"
+    {
+        "chi" "**第二章:逃出生天 **"
+    }
+
+    "** We have lost the connection to the satellite link. Unidentified position. **"
+    {
+        "chi" "**我们失去了与卫星通信的连接 位置不明... **"
+    }
+
+    "** Hold right here! The door will take a bit to unlock! **"
+    {
+        "chi" "**坚守!这扇大门看来得需要点时间打开! **"
+    }
+
+    "** Almost there! Resist until it is open at last! **"
+    {
+        "chi" "**快!再坚持会! **"
+    }
+
+    "** So this is the infamous supercomputer? It seems we will have to finish it ourselves! **"
+    {
+        "chi" "**这就是主处理设施了 看来我们得做点什么! **"
+    }
+
+    "** We will need to hold a bit until the door can be opened. **"
+    {
+        "chi" "**这扇大门得等会才能打开! **"
+    }
+
+    "** This bridge seems to lead to the core judging by the intrincate design. **"
+    {
+        "chi" "**这座桥应该通往基地核心... **"
+    }
+
+    "** Two bombs have been planted! It should be enough to end with the computational core! **"
+    {
+        "chi" "**安放了两枚炸弹 这应该足够摧毁这里了! **"
+    }
+
+    "** INVALID VICTORY - ELEVATOR INTERCEPTED **"
+    {
+        "chi" "**任务失败:电梯被拦截 **"
+    }
+
+    "** Squad ID: A1 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: B2 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: C2 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: Z1 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: D2 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: X2 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: F2 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: E1 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: Z2 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: X1 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: F1 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: E2 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: D1 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: C1 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: B1 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: A2 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: A3 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: B4 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: C4 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: Z3 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: D4 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: X4 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: F4 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: E3 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: Z4 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: X3 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: F3 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: E4 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: D3 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: C3 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: B3 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: A4 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: A5 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: B6 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: C6 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: Z5 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: D6 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: X6 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: F6 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: E5 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: Z6 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: X5 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: F5 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: E6 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: D5 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: C5 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: B5 **"
+    {
+        "chi" "** **"
+    }
+
+    "** Squad ID: A6 **"
+    {
+        "chi" "** **"
+    }
+
+    "** We need to hold this area until we unlock these sturdy doors! **"
+    {
+        "chi" "**我们需要坚守这个区域直到我们打开这坚固的门 **"
+    }
+
+    "** Do not retreat yet! It's going to take a bit longer! RESIST!!! **"
+    {
+        "chi" "**不要后退 还得需要很长一会! **"
+    }
+
+    "** We are almost there! KEEP IT UP!!! **"
+    {
+        "chi" "**就快了 坚持住! **"
+    }
+
+    "** Fall back! The doors are opening! **"
+    {
+        "chi" "**撤退!大门开了! **"
+    }
+
+    "** Temporal satisfaction grade: A **"
+    {
+        "chi" "** **"
+    }
+
+    "** Temporal satisfaction grade: B **"
+    {
+        "chi" "** **"
+    }
+
+    "** Temporal satisfaction grade: C **"
+    {
+        "chi" "** **"
+    }
+
+    "** Temporal satisfaction grade: D **"
+    {
+        "chi" "** **"
+    }
+
+    "** Temporal satisfaction grade: E **"
+    {
+        "chi" "** **"
+    }
+
+    "** Temporal satisfaction grade: F **"
+    {
+        "chi" "** **"
+    }
+
+    "** Hold the area! The door seems to be sealed up until the missile's departure! **"
+    {
+        "chi" "**坚守这里! **"
+    }
+
+    "** It seems that the nuke is about to go off... **"
+    {
+        "chi" "**看来核弹就要爆炸了... **"
+    }
+
+    "** Keep it up! We gotta resist for the last bit! **"
+    {
+        "chi" "**我们必须得坚守到底! **"
+    }
+
+    "** Dr. Carmack: I feel as if my stomach was full of delicious tasty lead! Oh...! **"
+    {
+        "chi" "**博士:我感觉似乎有铅的味道... **"
+    }
+
+    "** Dr. Carmack: Oh - Ah! The darkness hurts... **"
+    {
+        "chi" "**博士:我受伤了 **"
+    }
+
+    "** Dr. Carmack: Those fuckers brought me DOOM even if they can't aim on the Z-Axis! **"
+    {
+        "chi" "**博士:看来他们的枪法不太好 **"
+    }
+
+    "** Dr. Carmack: Pew pew pew - now I am dead! I thought you would do better! **"
+    {
+        "chi" "**博士:我要挂了... **"
+    }
+
+    "** Dr. Carmack: Now I wish I had studied baking instead of astrophysics - I'm hurt by particles... Again! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Dr. Carmack: Yeah baby! That's how I like it: Killer and to the heart! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Dr. Carmack: I can see my uncle Rob and his weird friend Billy Tom filming me again from the stars... **"
+    {
+        "chi" "** **"
+    }
+
+    "** Dr. Carmack: OOOOOOOOOOOOWH MOMMA! TO HELL I'M GOING! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Dr. Carmack: I wish I'd been a girly just like my dear pappa... **"
+    {
+        "chi" "** **"
+    }
+
+    "** Dr. Carmack: Please! Tell my wife... that I... I... POOPFART..! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Dr. Carmack: I only regret not having eaten more guac and tacos! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Dr. Carmack: THIS DEATH IS SPONSORED BY DELICIOUS CUNT-A-COLA! **"
+    {
+        "chi" "** **"
+    }
+
+    "** It's working! The other tanks are heating up and will explode soon! **"
+    {
+        "chi" "**起作用了!这里很快就会爆炸了! **"
+    }
+
+    "** The whole fortress will be turned to dust when the fire spreads through its extensive pipeline! **"
+    {
+        "chi" "**当火势蔓延到主管道 这座基地将化为灰烬! **"
+    }
+
+    "** Final mission status: FAILED **"
+    {
+        "chi" "**任务失败 **"
+    }
+
+    "** Final mission status: COMPLETE **"
+    {
+        "chi" "**任务完成 **"
+    }
+
+    "** Final mission status: ACCOMPLISHED **"
+    {
+        "chi" "**任务完美完成 **"
+    }
+
+    "** Planting the bombs on the oil tanks! They are connected to the fortress so it will blow up to pieces! **"
+    {
+        "chi" "**把炸弹放在坦克上 他们与主管道相连 所以基地会被炸成碎片! **"
+    }
+
+    "** Extraction chopper approaching! Resist until we can jump in! **"
+    {
+        "chi" "**撤离直升机来了 守住直到他靠近! **"
+    }
+
+    "** We need to find a way to blow up the fortress now that we can't redirect the nuke! **"
+    {
+        "chi" "**既然我们无法重新定位核弹的攻击目标 那我们就要想其他办法摧毁这里了! **"
+    }
+
+    "** Get moving! We have to get to the extraction point located in the cliff past the bunker! **"
+    {
+        "chi" "**快!我们必须抵达悬崖旁的撤离点! **"
+    }
+
+    "** Those oil tanks... Perhaps we can blow them up! **"
+    {
+        "chi" "**这貌似是载具库...我们可以引爆这里! **"
+    }
+
+    "** RESCUE HELICOPTER HAS BEEN INTERCEPTED - MISSION FAILURE! **"
+    {
+        "chi" "**任务失败:撤离直升机被拦截! **"
+    }
+
+    "** WE'RE FINALLY HEADING OUT OF ISLA BONITA! **"
+    {
+        "chi" "**我们终于要离开这该死的基地了! **"
+    }
+
+    "** Congratulations Squad A1 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad B2 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad C2 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad Z1 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad D2 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad X2 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad F2 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad E1 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad Z2 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad X1 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad F1 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad E2 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad D1 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad C1 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad B1 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad A2 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad A3 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad B4 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad C4 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad Z3 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad D4 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad X4 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad F4 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad E3 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad Z4 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad X3 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad F3 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad E4 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad D3 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad C3 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad B3 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad A4 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad A5 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad B6 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad C6 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad Z5 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad D6 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad X6 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad F6 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad E5 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad Z6 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad X5 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad F5 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad E6 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad D5 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad C5 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad B5 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Congratulations Squad A6 - YOU MADE IT TO THE END! **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad A1 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad B2 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad C2 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad Z1 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad D2 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad X2 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad F2 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad E1 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad Z2 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad X1 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad F1 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad E2 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad D1 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad C1 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad B1 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad A2 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad A3 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad B4 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad C4 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad Z3 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad D4 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad X4 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad F4 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad E3 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad Z4 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad X3 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad F3 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad E4 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad D3 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad C3 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad B3 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad A4 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad A5 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad B6 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad C6 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad Z5 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad D6 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad X6 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad F6 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad E5 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad Z6 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad X5 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad F5 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad E6 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad D5 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad C5 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad B5 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** Not a very successful mission Squad A6 - At least you survived. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD A1 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD B2 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD C2 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD Z1 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD D2 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD X2 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD F2 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD E1 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD Z2 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD X1 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD F1 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD E2 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD D1 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD C1 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD B1 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD A2 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD A3 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD B4 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD C4 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD Z3 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD D4 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD X4 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD F4 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD E3 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD Z4 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD X3 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD F3 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD E4 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD D3 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD C3 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD B3 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD A4 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD A5 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD B6 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD C6 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD Z5 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD D6 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD X6 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD F6 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD E5 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD Z6 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD X5 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD F5 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD E6 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD D5 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD C5 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD B5 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** A REALLY ASTONISHING EFFORT SQUAD A6 - A GREAT CAREER CAN BE EASILY FORESEEN. **"
+    {
+        "chi" "** **"
+    }
+
+    "** We did it just in time! The enemy chopper is down just as the nuclear bomb comes! **"
+    {
+        "chi" "**真险啊!就在核弹爆炸的时候 敌机坠毁了!**"
+    }
+
+    "** Some intrusive signal is disrupting the navigation system! We need to leave now before we lose control! **"
+    {
+        "chi" "**一些莫名的干扰信号正在干扰系统 我们必须在失去控制之前离开! **"
+    }
+
+    "** IT'S TOO DAMN LATE! THE SELF DESTRUCTION SEQUENCE HAS BEEN ENABLED TO PROTECT ANY INTEL. DATA! **"
+    {
+        "chi" "**太迟了!已启用自毁程序以保护机密文件 **"
+    }
+
+    "** Hurry! Take that other chopper down! We might crash at any time! **"
+    {
+        "chi" "**赶紧摧毁敌机 要不然我们就要坠毁了! **"
+    }
+
+    "** MISSION FAILED - COMMUNICATIONS INTERCEPTED **"
+    {
+        "chi" "**任务失败:机密文件被截获 **"
+    }
+
+    "** FRESH DEVOURING BACTERIA UNLEASHED! IT'S OVER! **"
+    {
+        "chi" "**任务失败:尸脑兽被释放 **"
+    }
+
+    "** TRAINING MODE HAS BEEN ENABLED **"
+    {
+        "chi" "** **"
+    }
+
+    "** THIS MODE IS NOT MEANT TO PLAY ON ZOMBIE SERVERS **"
+    {
+        "chi" "** **"
+    }
+
+    "** JUST ON LOCAL SERVERS ALONE OR WITH FRIENDS **"
+    {
+        "chi" "** **"
+    }
+
+    "** YOU WILL NEED TO CHANGE BACK TO THE MAP IF YOU FUCKED UP AS A SERVER ADMIN **"
+    {
+        "chi" "** **"
+    }
+
+    "** Training mode enabled... **"
+    {
+        "chi" "** **"
+    }
+
+}
