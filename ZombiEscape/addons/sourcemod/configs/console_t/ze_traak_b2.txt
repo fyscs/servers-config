@@ -1,0 +1,78 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "*** MAP BY P'A'SS ***"
+    {
+        "chi" "**地图作者:P'A'SS 汉化:龙鸣 **"
+    }
+
+    "*** Elevator is powering up! ***"
+    {
+        "chi" "**电梯正在通电! **"
+    }
+
+    "*** KEEP HOLDING***"
+    {
+        "chi" "**一定要坚守住! **"
+    }
+
+    "*** Elevator leaves in 5 seconds ***"
+    {
+        "chi" "**电梯5秒后离开 **"
+    }
+
+    "*** Door opens in 30 seconds ***"
+    {
+        "chi" "**大门将于30秒后开启 **"
+    }
+
+    "*** DOOR IS OPENING***"
+    {
+        "chi" "**大门已打开 **"
+    }
+
+    "*** Door should open soon! ***"
+    {
+        "chi" "**大门应该快要打开了 坚持住! **"
+    }
+
+    "*** RESIST ***"
+    {
+        "chi" "**坚守 **"
+    }
+
+    "*** Warehouse door opens in 30 seconds ***"
+    {
+        "chi" "**仓库门需要30秒打开 **"
+    }
+
+    "*** DOOR IS OPENING ***"
+    {
+        "chi" "**仓库门已开放 **"
+    }
+
+    "*** This is the final hold ***"
+    {
+        "chi" "**这是最后的救援点 背水一战! **"
+    }
+
+    "*** The ship will leave soon! ***"
+    {
+        "chi" "**货轮即将启动 **"
+    }
+
+    "*** ZOMBIES ON THE SHIP ***"
+    {
+        "chi" "**僵尸已侵入货轮... **"
+    }
+
+    "*** YOU FAIL ***"
+    {
+        "chi" "**你失败了! **"
+    }
+
+}
