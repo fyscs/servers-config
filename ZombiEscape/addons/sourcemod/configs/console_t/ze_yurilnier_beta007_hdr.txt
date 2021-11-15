@@ -1,0 +1,143 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "** PHASE : FRIGIDUS SELECTED **"
+    {
+        "chi" "**第一章:荒芜雪径 **"
+    }
+
+    "** PHASE : GLORIA SELECTED **"
+    {
+        "chi" "**第二章:雪域孤城 **"
+    }
+
+    "** KILL ALL **"
+    {
+        "chi" "**核爆 **"
+    }
+
+    "** DOORS OPENING IN 25 SECONDS **"
+    {
+        "chi" "**大门将于25秒后开启 **"
+    }
+
+    "** TELEPORTER ACTIVATED **"
+    {
+        "chi" "**传送已启动 **"
+    }
+
+    "** DOORS OPENING IN 35 SECONDS **"
+    {
+        "chi" "**大门将于35秒后开启 **"
+    }
+
+    "** MIDDLE DOORS OPENING IN 30 SECONDS **"
+    {
+        "chi" "**中间的大门将于30秒后开启 **"
+    }
+
+    "** DOORS OPENING IN 40 SECONDS **"
+    {
+        "chi" "**大门将于40秒后开启 **"
+    }
+
+    "** LAST ROOM DOORS CLOSING IN 60 SECONDS **"
+    {
+        "chi" "**最终之门需要60秒关上 **"
+    }
+
+    "** 15 SECONDS **"
+    {
+        "chi" "**坚守15秒 **"
+    }
+
+    "** DOORS OPENING IN 30 SECONDS **"
+    {
+        "chi" "**大门将于30秒后开启 **"
+    }
+
+    "** DOORS OPENING IN 45 SECONDS **"
+    {
+        "chi" "**大门将于45秒后开启 **"
+    }
+
+    "** DOORS OPENING IN 50 SECONDS **"
+    {
+        "chi" "**大门将于50秒后开启 **"
+    }
+
+    "** LAST ROOM DOORS CLOSING IN 40 SECONDS **"
+    {
+        "chi" "**最终之门需要40秒关上 **"
+    }
+
+    "** LOWER DOORS OPENING IN 40 SECONDS **"
+    {
+        "chi" "**下门将于40秒后打开 **"
+    }
+
+    "** UPPER DOORS OPENING IN 15 SECONDS **"
+    {
+        "chi" "**上门将于15秒后打开 **"
+    }
+
+    "** TIP : ESCAPE PATH WILL OPEN BY +USE HANGING LANTERN ON THE WALL **"
+    {
+        "chi" "**提示:注意寻找激活路上的灵魂之炬 **"
+    }
+
+    "** ZE_ YURILNIER**"
+    {
+        "chi" "**ZE_ YURILNIER 雪域幽径 **"
+    }
+
+    "** TIP : THERE ARE NO FORCE TELEPORTS **"
+    {
+        "chi" "**提示:没有强制传送 **"
+    }
+
+    "** TIP : IF YOU LATE FOR THE PARTY. FIND AND DIVE LANTERN ON THE GROUND **"
+    {
+        "chi" "**提示"如果你掉队了 可以寻找灵魂之炬传送 **"
+    }
+
+    "** MAP MADE BY SATOKA **"
+    {
+        "chi" "**地图作者:SATOKA 汉化:龙鸣 **"
+    }
+
+    "** PHASE : FRIGUS **"
+    {
+        "chi" "** **"
+    }
+
+    "** PHASE : VITAE **"
+    {
+        "chi" "** **"
+    }
+
+    "** FRIGUS COMPLETED **"
+    {
+        "chi" "**第一章:荒芜雪径 完成 **"
+    }
+
+    "** VITAE COMPLETED **"
+    {
+        "chi" "**第二章:雪域孤城 完成 **"
+    }
+
+    "** MOVING TO PHASE : VITAE **"
+    {
+        "chi" "**正在前往第二章:雪域孤城... **"
+    }
+
+    "** BACK TO PHASE : FRIGUS **"
+    {
+        "chi" "**全图通关 正在返回第一章:荒芜雪径... **"
+    }
+
+}
