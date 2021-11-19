@@ -161,6 +161,7 @@
     {
         "chi" "**蟹蟹你 勇士 **"
 		"command"       "sm_smoker_enabled 1"
+		"command"       "ze_weapons_round_molotov -1"
     }
 
     "***Thank You for Playing!!***"
