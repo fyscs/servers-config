@@ -1,0 +1,53 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    ">> Hold 3 Seconds <<"
+    {
+        "chi" "**坚守3秒 **"
+    }
+
+    ">> Escape Success <<"
+    {
+        "chi" "**成功逃脱 **"
+    }
+
+    ">> Zombie Escaped <<"
+    {
+        "chi" "**僵尸逃脱 **"
+    }
+
+    ">> Door Will Open In 15 Seconds <<"
+    {
+        "chi" "**大门将于15秒后打开 **"
+    }
+
+    ">> This map is based on CSO ze_bloodcastle <<"
+    {
+        "chi" "**这张图是基于CSO ze_bloodcastle的 **"
+    }
+
+    ">> Map by Hestia <<"
+    {
+        "chi" "**地图作者:Hestia 汉化:龙鸣 **"
+    }
+
+    ">> Hold 25 Seconds <<"
+    {
+        "chi" "**坚守25秒 **"
+    }
+
+    ">> Hold 12 Seconds <<"
+    {
+        "chi" "**坚守12秒 **"
+    }
+
+    ">> Hold 5 Seconds <<"
+    {
+        "chi" "**坚守5秒 **"
+    }
+
+}
