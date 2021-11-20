@@ -1,0 +1,78 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "***reloaded***"
+    {
+        "chi" "**气球充气ing... **"
+    }
+
+    "***Push gun have been found***"
+    {
+        "chi" "**神奇の气球已获取 **"
+    }
+
+    "***metal door opens in 30 seconds***"
+    {
+        "chi" "**铁门30秒后打开 **"
+    }
+
+    "***metal door is opening***"
+    {
+        "chi" "**铁门已打开 **"
+    }
+
+    "***shoot the table legs***"
+    {
+        "chi" "**朝木桌腿开枪 **"
+    }
+
+    "***storage door opens in 15 seconds***"
+    {
+        "chi" "**仓库门15秒后打开 **"
+    }
+
+    "***storage door is opening***"
+    {
+        "chi" "**仓库门已打开 **"
+    }
+
+    "***low gravity zone ahead. jump from the platfrom to the roof***"
+    {
+        "chi" "**低重力区 赶紧跳到屋顶上 **"
+    }
+
+    "***low gravity zone ahead. jump over the wall***"
+    {
+        "chi" "**低重力区 赶紧翻墙 **"
+    }
+
+    "***elevator is arriving in 40 seconds***"
+    {
+        "chi" "**电梯需要40秒启动 **"
+    }
+
+    "***Elevator is here***"
+    {
+        "chi" "**电梯已抵达 **"
+    }
+
+    "**wtf boom nuke is launched. 10 seconds until explosion**"
+    {
+        "chi" "**10秒后wtf核弹启动 净化一切 **"
+    }
+
+    "***map by Denn15***"
+    {
+        "chi" "**地图作者:Denn15 汉化:龙鸣 **"
+    }
+
+    "***low gravity area ahead. walk onto the launchpad***"
+    {
+        "chi" "**低重力区 赶紧去蹦蹦床 **"
+    }
+
+}
