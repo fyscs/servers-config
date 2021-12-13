@@ -1,0 +1,553 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "** ENGINE STARTING **"
+    {
+        "chi" "**引擎启动 **"
+    }
+
+    "** ENGINE IS ROTATING **"
+    {
+        "chi" "**引擎正在转动 **"
+    }
+
+    "** ELEVATOR STARTING **"
+    {
+        "chi" "**电梯启动 **"
+    }
+
+    "** ELEVATOR IS ASCENDING **"
+    {
+        "chi" "**电梯上升中 **"
+    }
+
+    "** NO SIGNAL DETECTED. **"
+    {
+        "chi" "**未检测到信号. **"
+    }
+
+    "** NO SIGNAL DETECTED.. **"
+    {
+        "chi" "**未检测到信号.. **"
+    }
+
+    "** NO SIGNAL DETECTED... **"
+    {
+        "chi" "**未检测到信号... **"
+    }
+
+    "** SIGNAL FOUND **"
+    {
+        "chi" "**发现信号 **"
+    }
+
+    "** GEARS: OFFLINE. **"
+    {
+        "chi" "**齿轮离线. **"
+    }
+
+    "** GEARS: OFFLINE.. **"
+    {
+        "chi" "**齿轮离线.. **"
+    }
+
+    "** GEARS: OFFLINE... **"
+    {
+        "chi" "**齿轮离线... **"
+    }
+
+    "** GEARS: ONLINE **"
+    {
+        "chi" "**齿轮启动 **"
+    }
+
+    "** GEARS: STARTING **"
+    {
+        "chi" "**齿轮运转 **"
+    }
+
+    "** POWER FOUND **"
+    {
+        "chi" "**获取动力 **"
+    }
+
+    "** ATTEMPTING TO RESTORE POWER. **"
+    {
+        "chi" "**试图恢复动力. **"
+    }
+
+    "** ATTEMPTING TO RESTORE POWER.. **"
+    {
+        "chi" "**试图恢复动力.. **"
+    }
+
+    "** ATTEMPTING TO RESTORE POWER... **"
+    {
+        "chi" "**试图恢复动力... **"
+    }
+
+    "** POWER IS RESTORED **"
+    {
+        "chi" "**动力已恢复 **"
+    }
+
+    "** ELEVATOR IS STARTING **"
+    {
+        "chi" "**电梯启动 **"
+    }
+
+    "** 30s BEFORE DESCEND **"
+    {
+        "chi" "**30秒后下降 **"
+    }
+
+    "** ATTEMPTING TO TELEPORT. **"
+    {
+        "chi" "**即将传送. **"
+    }
+
+    "** ATTEMPTING TO TELEPORT.. **"
+    {
+        "chi" "**即将传送.. **"
+    }
+
+    "** ATTEMPTING TO TELEPORT... **"
+    {
+        "chi" "**即将传送... **"
+    }
+
+    "** ATTEMPt tO tElpoRt.. **"
+    {
+        "chi" "**尝试传送... **"
+    }
+
+    "** teelEPortiign... **"
+    {
+        "chi" "**正在运转... **"
+    }
+
+    "** ALL GEARS ACTIVATED **"
+    {
+        "chi" "**所有齿轮已启动 **"
+    }
+
+    "** ATTEMPTING TO START MAIN GEAR. **"
+    {
+        "chi" "**主齿轮启动中. **"
+    }
+
+    "** ATTEMPTING TO START MAIN GEAR.. **"
+    {
+        "chi" "**主齿轮启动中.. **"
+    }
+
+    "** ATTEMPTING TO START MAIN GEAR... **"
+    {
+        "chi" "**主齿轮启动中... **"
+    }
+
+    "** SUCCESS **"
+    {
+        "chi" "**你做到了 **"
+    }
+
+    "** MAIN GEAR IS MALFUNCTIONING **"
+    {
+        "chi" "**主齿轮出现故障 **"
+    }
+
+    "** ERROR **"
+    {
+        "chi" "**错误 **"
+    }
+
+    "** ATTEMPTING TO RESTART GEARS **"
+    {
+        "chi" "**尝试启动齿轮 **"
+    }
+
+    "** STARTING ELEVATOR INSTEAD **"
+    {
+        "chi" "**改为启动电梯 **"
+    }
+
+    "** MAIN GEAR IS BACK ONLINE **"
+    {
+        "chi" "**主齿轮正在重新启动 **"
+    }
+
+    "** ALL GEARS IN SECTION 1 IS ACTIVATED  **"
+    {
+        "chi" "**第一区域齿轮都已激活 **"
+    }
+
+    "** MOVING TO SECTION 2 **"
+    {
+        "chi" "**前往第二区域 **"
+    }
+
+    "** ACTIVATING trigger_hurt ON SECTION 1 **"
+    {
+        "chi" "**第一区域开启地图伤害 **"
+    }
+
+    "** Map by Kayena and Heyfumi **"
+    {
+        "chi" "**地图作者:Kayena and Heyfumi 汉化:龙鸣 **"
+    }
+
+    "** SECTION 1 **"
+    {
+        "chi" "**第一区域 **"
+    }
+
+    "** SECTION 2 **"
+    {
+        "chi" "**第二区域 **"
+    }
+
+    "** SECTION 3 **"
+    {
+        "chi" "**第三区域 **"
+    }
+
+    "** SECTION 4 **"
+    {
+        "chi" "**第四区域 **"
+    }
+
+    "** OPENING DOOR 1 **"
+    {
+        "chi" "**一号大门已开启 **"
+    }
+
+    "** STARTING ENGINE 1 **"
+    {
+        "chi" "**一号引擎已启动 **"
+    }
+
+    "** OPENING DOOR 2 **"
+    {
+        "chi" "**二号大门已开启 **"
+    }
+
+    "** STARTING ENGINE 2 **"
+    {
+        "chi" "**二号引擎已启动 **"
+    }
+
+    "** TRAIN WILL START IN 30 SECONDS **"
+    {
+        "chi" "**齿轮列车将于30秒后启动 **"
+    }
+
+    "** OPENING DOOR 3 **"
+    {
+        "chi" "**三号大门已开启 **"
+    }
+
+    "** STARTING ENGINE 3 **"
+    {
+        "chi" "**三号引擎已启动 **"
+    }
+
+    "** ENGINE: OFFLINE. **"
+    {
+        "chi" "**引擎已离线. **"
+    }
+
+    "** ENGINE: OFFLINE.. **"
+    {
+        "chi" "**引擎已离线.. **"
+    }
+
+    "** ENGINE: OFFLINE... **"
+    {
+        "chi" "**引擎已离线... **"
+    }
+
+    "** ATTEMPTING TO START GEARS. **"
+    {
+        "chi" "**试图启动齿轮. **"
+    }
+
+    "** ATTEMPTING TO START GEARS.. **"
+    {
+        "chi" "**试图启动齿轮.. **"
+    }
+
+    "** ATTEMPTING TO START GEARS... **"
+    {
+        "chi" "**试图启动齿轮... **"
+    }
+
+    "** 3/3 POWER ACTIVATED **"
+    {
+        "chi" "**3/3动力已激活 **"
+    }
+
+    "** ADDING 200 HP TO EACH PLAYER **"
+    {
+        "chi" "**所有玩家增加200HP **"
+    }
+
+    "** DORMIENTIS **"
+    {
+        "chi" "**梦魇 **"
+    }
+
+    "** EXPERRECTUS **"
+    {
+        "chi" "**智慧 **"
+    }
+
+    "** SPLENDOR PRAETERITUM **"
+    {
+        "chi" "**光辉 **"
+    }
+
+    "** NE MEMINERIS **"
+    {
+        "chi" "**轮回 **"
+    }
+
+    "** INCIPIENS **"
+    {
+        "chi" "**诞生 **"
+    }
+
+    "** PRIMI MOTUS **"
+    {
+        "chi" "**降临 **"
+    }
+
+    "** MUNDUS IN DOLORE **"
+    {
+        "chi" "**梦幻 **"
+    }
+
+    "** REANIMATE **"
+    {
+        "chi" "**重生 **"
+    }
+
+    "** WEAK **"
+    {
+        "chi" "**虚弱 **"
+    }
+
+    "** YOU FAIL **"
+    {
+        "chi" "**你失败了 **"
+    }
+
+    "** I AM NOT DONE YET **"
+    {
+        "chi" "**这还不是时候 **"
+    }
+
+    "** ALL GEARS IN SECTION 2 IS ACTIVATED  **"
+    {
+        "chi" "**第二区域齿轮都已激活 **"
+    }
+
+    "** MOVING TO SECTION 3 **"
+    {
+        "chi" "**前往第三区域 **"
+    }
+
+    "** ACTIVATING trigger_hurt ON SECTION 2 **"
+    {
+        "chi" "**第二区域开启地图伤害 **"
+    }
+
+    "** ATTEMPTING TO MOVE **"
+    {
+        "chi" "**尝试移动 **"
+    }
+
+    "** OPENING DOOR IN 30 SECONDS **"
+    {
+        "chi" "**30秒后大门开启 **"
+    }
+
+    "** TRAIN WILL START IN 10 SECONDS **"
+    {
+        "chi" "**齿轮列车将于10秒后启动 **"
+    }
+
+    "** OPENING DOOR IN 10 SECONDS **"
+    {
+        "chi" "**10秒后大门开启 **"
+    }
+
+    "** GEARS: STARTING. **"
+    {
+        "chi" "**齿轮运转. **"
+    }
+
+    "** GEARS: STARTING.. **"
+    {
+        "chi" "**齿轮运转.. **"
+    }
+
+    "** GEARS: STARTING... **"
+    {
+        "chi" "**齿轮运转... **"
+    }
+
+    "** I AM BACK MORTAL **"
+    {
+        "chi" "**我重返世间了 凡人们 **"
+    }
+
+    "** ZOMBIE TP IN 10 SECONDS **"
+    {
+        "chi" "**僵尸10秒后传送 **"
+    }
+
+    "** MY MINION WILL TAKE THE REST **"
+    {
+        "chi" "**我的手下就足以击败你们了 **"
+    }
+
+    "** YOU ARE SO WEAK MORTAL **"
+    {
+        "chi" "**你们太脆弱了 凡人们 **"
+    }
+
+    "** HA HA HA **"
+    {
+        "chi" "** **"
+    }
+
+    "** GEARS: STARTING IN 15 SECONDS **"
+    {
+        "chi" "**齿轮15秒后启动 **"
+    }
+
+    "** PLATFORM WILL GO UP IN 15 SECONDS **"
+    {
+        "chi" "**平台15秒后上升 **"
+    }
+
+    "** TRAIN WILL START IN 20 SECONDS **"
+    {
+        "chi" "**齿轮列车将于20秒后启动 **"
+    }
+
+    "** ALL GEARS IN SECTION 3 IS ACTIVATED  **"
+    {
+        "chi" "**第三区域齿轮都已激活 **"
+    }
+
+    "** MOVING TO FINAL SECTION **"
+    {
+        "chi" "**前往最终区域 **"
+    }
+
+    "** ACTIVATING trigger_hurt ON SECTION 3 **"
+    {
+        "chi" "**第三区域开启地图伤害 **"
+    }
+
+    "Yuno - ???????????????????????????????????????????????????"
+    {
+        "chi" "** **"
+    }
+
+    "AMS - ????????????"
+    {
+        "chi" "** **"
+    }
+
+    "Dove - ????????????????????????"
+    {
+        "chi" "** **"
+    }
+
+    "Ephey - He-he-he-he-he"
+    {
+        "chi" "** **"
+    }
+
+    "Wind - ???????????????????????????"
+    {
+        "chi" "** **"
+    }
+
+    "496 Gaming - 458 c?? die back ??? ????y kh??ng? 458 die back r???iiiiiii"
+    {
+        "chi" "** **"
+    }
+
+    "496 Gaming - Tai n???n qu??... Kh??ng sao winnable. winnable guys"
+    {
+        "chi" "** **"
+    }
+
+    "Arkosh Gaming - ??????????????????????????????"
+    {
+        "chi" "** **"
+    }
+
+    "beastcoast - ??Muy bien los chiquitos!"
+    {
+        "chi" "** **"
+    }
+
+    "Elephant - ????????????"
+    {
+        "chi" "** **"
+    }
+
+    "Hippomaniacs - Kombo bombo mombo rombo!"
+    {
+        "chi" "** **"
+    }
+
+    "Motivate.Trust Gaming - ????????????????????????????????? ????????????????????????????????????"
+    {
+        "chi" "** **"
+    }
+
+    "OG - I can't believe it."
+    {
+        "chi" "** **"
+    }
+
+    "Phoenix Gaming - Hahahahahaha Oooooh"
+    {
+        "chi" "** **"
+    }
+
+    "Team DogChamp - Awooo Awooo"
+    {
+        "chi" "** **"
+    }
+
+    "Thunder Predator - ??M??talo!"
+    {
+        "chi" "** **"
+    }
+
+    "** TO BE CONTINUED. **"
+    {
+        "chi" "**未完待续. **"
+    }
+
+    "**  SECTION 4 IS STILL UNDER CONSTRUCTION **"
+    {
+        "chi" "**第四区域尚未完成 即将开放 **"
+    }
+
+    "**  HOW ABOUT WE RTV HUH? **"
+    {
+        "chi" "**现在是!everoneRTV环节 懂? **"
+    }
+
+}
