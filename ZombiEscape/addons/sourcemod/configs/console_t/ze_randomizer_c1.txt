@@ -173,7 +173,7 @@
     "<< OR GO FOR THE BEAT SABER ENDING >>"
     {
         "chi" "**或者选择弹幕狗最喜欢的best saber弹幕结局 **"
-        sm_farter_enabled  0
+        "command" "sm_farter_enabled  0" 
     }
 
     "<< CHOOSE WISELY >>"
@@ -274,7 +274,7 @@
     "***Congratz! You beat the 2nd ending !***"
     {
         "chi" "**捧读:恭喜弹幕玩家拿下弹幕结局 **"
-        sm_farter_enabled  1
+         "command" "sm_farter_enabled  1" 
     }
 
     "***What about the last one now ?***"
