@@ -3,6 +3,10 @@
 	">> WARMUP ROUND <<"
 	{
 		"chi"		"**热身回合**"
+		"command"       "ze_weapons_spawn_molotov 0"
+		"command"       "sm_faster_maxspeed 1.7"
+		"command"       "zr_knockback_multi 0.95"
+		"command"       "ze_weapons_spawn_hegrenade 2"
 	}
 	"*** Map By P'a'ss and Kim ***"
 	{
@@ -43,7 +47,6 @@
 	">> City gate closes in 50 seconds <<"
 	{
 		"chi"		"**海尔根堡垒的大门将在50s之后关闭**"
-
 	}
 	">> Run for the helgen keep NOW! <<"
 	{
@@ -90,6 +93,10 @@
 	"*** Stage Completed ***"
 	{
 		"chi"		"关卡通过"
+		"command"       "ze_weapons_spawn_molotov 1"
+		"command"       "sm_faster_maxspeed 1.6"
+		"command"       "zr_knockback_multi 0.9"
+		"command"       "ze_weapons_spawn_hegrenade 1"
 	}
 	">> Stage 2 Whiterun <<"
 	{
