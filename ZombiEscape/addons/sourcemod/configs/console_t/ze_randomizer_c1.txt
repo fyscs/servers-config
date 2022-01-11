@@ -22,7 +22,7 @@
 
     "***YOU DEFEATED THE GMAN!!!***"
     {
-        "chi" "**我们历经万千磨难,终于打败了游戏管理员!! **"
+        "chi" "**我草,历经万千磨难,我们终于打败了游戏管理员!! **"
     }
 
     "***GET TO THE DOOR***"
@@ -77,7 +77,7 @@
 
     "*** Mines item has been picked (5 use) ***"
     {
-        "chi" "**地雷已被拿起,只有5颗 **"
+        "chi" "**地雷已被拿起,只有五颗 **"
     }
 
     "***MINES item picked up***"
@@ -132,12 +132,12 @@
 
     "***Zombies have pickd up MAGIC CYLINDER item***"
     {
-        "chi" "**僵尸获得了魔法反伤圆筒 **"
+        "chi" "**僵尸获得了陷阱魔法卡:反伤圆筒 **"
     }
 
     "***NON EUCLIDIAN item picked up***"
     {
-        "chi" "**欧几里得公式被人拿起 **"
+        "chi" "**欧几里得TP僵尸枪被人拿起 **"
     }
 
     "***5 seconds remaining.***"
@@ -173,6 +173,7 @@
     "<< OR GO FOR THE BEAT SABER ENDING >>"
     {
         "chi" "**或者选择弹幕狗最喜欢的best saber弹幕结局 **"
+        "command" "sm_farter_enabled  0" 
     }
 
     "<< CHOOSE WISELY >>"
@@ -273,6 +274,7 @@
     "***Congratz! You beat the 2nd ending !***"
     {
         "chi" "**捧读:恭喜弹幕玩家拿下弹幕结局 **"
+         "command" "sm_farter_enabled  1" 
     }
 
     "***What about the last one now ?***"
@@ -362,27 +364,27 @@
 
     "***STAGE SIMON SAY***"
     {
-        "chi" "**关卡:飞行之轮 **"
+        "chi" "**关卡:看图操作 **"
     }
 
     "***MODE: EASY***"
     {
-        "chi" "**关卡:看提示操作 **"
+        "chi" "**简单有手就行 **"
     }
 
     "***MODE: MEDIUM***"
     {
-        "chi" "**中等难度 **"
+        "chi" "**中等我奶奶都能过 **"
     }
 
     "***MODE: HARD***"
     {
-        "chi" "**困难难度 **"
+        "chi" "**困难单手随便过 **"
     }
 
     "***MODE: EXTREME***"
     {
-        "chi" "**极限难度 **"
+        "chi" "**极限稍微认真点 **"
     }
 
     "***STAGE DEATHRUN ***"
@@ -417,7 +419,7 @@
 
     "<< REALLY ?? LMAO NOPE >>"
     {
-        "chi" "**搞得跟真的一样,笑死人了哈哈哈 **"
+        "chi" "**这跳刀搞得跟真的一样,笑死人了哈哈哈 **"
     }
 
     "<< BRIDGES VANISHING IN 10 SEC >>"
@@ -437,7 +439,7 @@
 
     "<< WHAT A BRAVE TEAM >>"
     {
-        "chi" "**我们超勇超会闯关! **"
+        "chi" "**我们超勇超会闯关的啦! **"
     }
 
     "<< I WAS EXPECTING BETTER FROM YOU >>"
@@ -602,7 +604,7 @@
 
     "OH SHIT"
     {
-        "chi" "**他妈了隔壁的 **"
+        "chi" "**他妈了个B的 **"
     }
 
     "***Ground units be advised. We will airstrike one of the entry points for you.***"
@@ -632,7 +634,7 @@
 
     "***I hope everybody's out by now...***"
     {
-        "chi" "**我希望现在大家都能或者出去 **"
+        "chi" "**我希望现在大家都能活者出去 **"
     }
 
     "***30 seconds remaining.***"
@@ -642,12 +644,12 @@
 
     "***Hope you're having a good day! 30 seconds remaining.***"
     {
-        "chi" "**我希望你们今天有个好日子,还有30秒 **"
+        "chi" "**我希望你们今天还能有说有笑,还有30秒 **"
     }
 
     "***Next stage is probably big trim. 30 seconds remaining.***"
     {
-        "chi" "**下一关有可能要死很多人,还有30秒 **"
+        "chi" "**下一关有可能要死很多人,还要守30秒 **"
     }
 
     "[SM] chinny wants to rock the vote. (30 s, out of 30 s remaining)"
@@ -667,7 +669,7 @@
 
     "yeah... you're welcome. 30 second divisions of the hour remaining."
     {
-        "chi" "**是啊,不客气,还有30秒 **"
+        "chi" "**是啊,不客气,但是你还是要守30秒 **"
     }
 
     "***Zombies are held back for 10 seconds. Be prepared!***"
@@ -682,7 +684,7 @@
 
     "***A ZOMBIE HAS ENTERED THE JAIL! KILL IT IN 10 SECONDS BEFORE IT GOES MAYHEM!***"
     {
-        "chi" "**衣有僵尸进来了,赶紧在10秒之内杀死他 **"
+        "chi" "**有僵尸进来了,赶紧在10秒之内杀死他 **"
     }
 
     "***REPEAT! THE JAIL WILL BREAK IN 5 SECONDS***"
@@ -862,7 +864,7 @@
 
     "***STAGE SCOOBYDOO ***"
     {
-        "chi" "**关卡:史努比大舞台 **"
+        "chi" "**关卡:黑漆漆的屋子 **"
     }
 
     "**Survival 30 sec**"
@@ -892,7 +894,7 @@
 
     "**Find the light!**"
     {
-        "chi" "**去找光 **"
+        "chi" "**去找光,然后成为迪迦 **"
     }
 
     "||| Defend this door 20 seconds |||"
@@ -902,7 +904,7 @@
 
     "||| Wait, is that a rock wall? |||"
     {
-        "chi" "**等下,这是岩壁吗 **"
+        "chi" "**石头是吧,等下就给你炸了 **"
     }
 
     "||| Wait until it explodes 30 sec |||"
@@ -927,12 +929,12 @@
 
     "** Floodgate 1 opens in 22 seconds **"
     {
-        "chi" "**血门1号20秒后开 **"
+        "chi" "**血门一号20秒后开 **"
     }
 
     "** Floodgate 2 opens in 20 seconds **"
     {
-        "chi" "**血门2号20秒后开 **"
+        "chi" "**血门二号20秒后开 **"
     }
 
     "**Exit will open in 30 seconds**"
@@ -1002,7 +1004,7 @@
 
     "***NON EUCLIDEAN STAGE***"
     {
-        "chi" "**关卡:欧几里得公式 **"
+        "chi" "**关卡:浑浑噩噩的地狱之纯白拷打大伙空间 **"
     }
 
     "***We have to get to that elevator***"
