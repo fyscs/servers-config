@@ -1,0 +1,624 @@
+"Console_T"
+{
+
+    "*** A zombie has picked up Nuke Magic ***>"
+    {
+        "chi" "**一名僵尸捡起了<核弹>**"
+    }
+
+    "*** A zombie has picked up Ice Magic ***"
+    {
+        "chi" "**一名僵尸捡起了<寒冰>**"
+    }
+
+    "*** A zombie has picked up Gravity Magic ***"
+    {
+        "chi" "**一名僵尸捡起了<黑洞>**"
+    }
+
+    "*** A zombie has picked up Heal Magic ***"
+    {
+        "chi" "**一名僵尸捡起了<巫医>**"
+    }
+
+    "*** A player has picked up Snow Magic ***"
+    {
+        "chi" "**一名玩家捡起了<雪>**"
+    }
+
+    "*** A player has picked up Healing Magic ***"
+    {
+        "chi" "**一名玩家捡起了<奶>**"
+    }
+
+    "*** A player has picked up Earth Magic ***"
+    {
+        "chi" "**一名玩家捡起了<土>**"
+    }
+
+    "*** A player has picked up Electro Magic ***"
+    {
+        "chi" "**一名玩家捡起了<电>**"
+    }
+
+    "*** A player has picked up Wind Magic ***"
+    {
+        "chi" "**一名玩家捡起了<风>**"
+    }
+
+    "*** A player has picked up Poison Magic ***"
+    {
+        "chi" "**一名玩家捡起了<毒>**"
+    }
+
+    "*** A player has picked up Holy Magic ***"
+    {
+        "chi" "**一名玩家捡起了<终极>**"
+    }
+
+    "*** Dr.X again!!! Keep Shooting!!! ***"
+    {
+        "chi" "**又是插博士!!!干碎他!!!**"
+    }
+
+    "*** Rock will explode in 5 seconds ***"
+    {
+        "chi" "**岩石5秒后爆炸**"
+    }
+
+    "*** Zombie Escape... ***"
+    {
+        "chi" "**僵尸逃离了...**"
+    }
+
+    "*** Fail... ***"
+    {
+        "chi" "**你们失败了...**"
+    }
+
+    "*** Minolila..... I do not know why she is there ***"
+    {
+        "chi" "**米诺莉拉...我不明白她为什么出现在这**"
+    }
+
+    "*** I think we should go to the palace of minolila again... ***"
+    {
+        "chi" "**我想我们只有到了米诺莉拉的宫殿只能了解事情真相了...**"
+    }
+
+    "*** Congratulations!!! ***"
+    {
+        "chi" "**恭喜你们!!!**"
+    }
+
+    "*** You have win all Level!!! ***"
+    {
+        "chi" "**你们才是黑石城的主人**"
+    }
+
+    "*** Map by Misaka ***"
+    {
+        "chi" "**地图作者:Misaka 地图汉化:海苔 @FyS**"
+    }
+
+    "*** We do it!!! ***"
+    {
+        "chi" "**我们做到了!!!**"
+    }
+
+    "*** ?! ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Teleporter will activate in 45 seconds ***"
+    {
+        "chi" "**传送45秒后开启**"
+    }
+
+    "*** The rescue team is waiting for us ***"
+    {
+        "chi" "**救援队正在等我们**"
+    }
+
+    "*** Dr.X: You finally come here ***"
+    {
+        "chi" "**插博士:你可终于来了**"
+    }
+
+    "*** Dr.X: So you gonna die now and I will bury you all out!!! ***"
+    {
+        "chi" "**插博士:我会把你们整个生吞掉!!!**"
+    }
+
+    "*** Dr.X: I'm proud of your bravery to come here and find the truth ***"
+    {
+        "chi" "**插博士:真高兴你们有勇气踏入我的妙妙屋**"
+    }
+
+    "*** Dr.X is using Data Analysis!!! ***"
+    {
+        "chi" "**插博士正在分析数据!!!**"
+    }
+
+    "*** Do not move!!! ***"
+    {
+        "chi" "**不要动!!!**"
+    }
+
+    "*** Dr.X summons zombies!!! *** "
+    {
+        "chi" "**插博士开启了尸笼**"
+    }
+
+    "*** Dr.X: Not too bad... ***"
+    {
+        "chi" "**插博士:还不算太坏...**"
+    }
+
+    "*** The ruin starts to collapse!!!***"
+    {
+        "chi" "**废墟开始坍塌了!!!**"
+    }
+
+    "*** I've already prepared a teleporter at the ruin of black stone ***"
+    {
+        "chi" "**我在黑石废墟准备了一台传送机**"
+    }
+
+    "*** Hurry up!!! Get out of there!!!  ***"
+    {
+        "chi" "**快点!!!离开那里!!!**"
+    }
+
+    "*** Our guns do not affect him??? ***"
+    {
+        "chi" "**我们未能击破敌方护甲???**"
+    }
+
+    "*** Shooting these electric box first!!! ***"
+    {
+        "chi" "**先拆了这些电箱!!!**"
+    }
+
+    "*** Defend until the rock explode ***"
+    {
+        "chi" "**防守直到岩石爆炸**"
+    }
+
+    "*** Defend for 15 seconds ***"
+    {
+        "chi" "**坚持15秒**"
+    }
+
+    "*** Gate will open in 20 seconds ***"
+    {
+        "chi" "**门20秒后打开**"
+    }
+
+    "*** Try to find a way to break the gate ***"
+    {
+        "chi" "**找到方法破坏这扇门**"
+    }
+
+    "*** Dr.X is not here... ***"
+    {
+        "chi" "**插博士不在这...**"
+    }
+
+    "*** It seems that we can teleport by this fountain ***"
+    {
+        "chi" "**看来我们可以通过这个喷泉传送**"
+    }
+
+    "*** Defend for 10 seconds ***"
+    {
+        "chi" "**坚持10秒**"
+    }
+
+    "*** Hold for 15 seconds ***"
+    {
+        "chi" "**坚持15秒**"
+    }
+
+    "*** The Rock blocks our way ***"
+    {
+        "chi" "**岩石挡住了我们的路**"
+    }
+
+    "*** Boss - Tesla EX ***"
+    {
+        "chi" "**Boss - 炎王帝君**"
+    }
+
+    "*** Gate will open in 5 seconds ***"
+    {
+        "chi" "**门5秒后打开**"
+    }
+
+    "*** The final gate will open in 25 seconds ***"
+    {
+        "chi" "**最后的门25秒后打开**"
+    }
+
+    "*** Dr.X??? ***"
+    {
+        "chi" "**插博士???**"
+    }
+
+    "*** Be careful about the strong wind!!! ***"
+    {
+        "chi" "**小心强风!!!**"
+    }
+
+    "*** Dr.X disappeared... ***"
+    {
+        "chi" "**插博士不见了...**"
+    }
+
+    "*** There is no doubt that Dr.X is the wire-puller ***"
+    {
+        "chi" "**毫无疑问,插博士就是幕后黑手**"
+    }
+
+    "*** I can not believe that the crazy man is still alive ***"
+    {
+        "chi" "**我不敢相信那个疯子还活着**"
+    }
+
+    "*** I think we should go back to the ruin of black stone again ***"
+    {
+        "chi" "**我认为我们应该再次回到黑石城废墟**"
+    }
+
+    "*** Elevator will leave in 25 seconds ***"
+    {
+        "chi" "**电梯25秒后离开**"
+    }
+
+    "*** Tesla has been slained!!! Fall back now!!! ***"
+    {
+        "chi" "**我们干碎了特斯拉!!!快溜!!!**"
+    }
+
+    "*** Zombie escape...... ***"
+    {
+        "chi" "**僵尸逃离了...**"
+    }
+
+    "*** Level Complete ***"
+    {
+        "chi" "**关卡完成**"
+    }
+
+    "*** Door will open in 20 seconds ***"
+    {
+        "chi" "**门20秒后打开**"
+    }
+
+    "*** There is no way, we need to use c4 to break this wall! ***"
+    {
+        "chi" "**没路了,用炸弹把这堵墙炸开!**"
+    }
+
+    "*** C4 will explode in 20 seconds ***"
+    {
+        "chi" "**炸弹20秒后爆破**"
+    }
+
+    "*** Hold for 20 seconds ***"
+    {
+        "chi" "**坚持20秒**"
+    }
+
+    "*** Elevator will activate in 10 seconds ***"
+    {
+        "chi" "**电梯10秒后启动**"
+    }
+
+    "*** Elevator will open in 5 seconds ***"
+    {
+        "chi" "**电梯5秒后开启**"
+    }
+
+    "*** The fire is too strong!!! ***"
+    {
+        "chi" "**这火太猛了**"
+    }
+
+    "*** We need to find another way ***"
+    {
+        "chi" "**我们需要找其他路**"
+    }
+
+    "*** Door will open in 35 seconds ***"
+    {
+        "chi" "**门35秒后打开**"
+    }
+
+    "*** Safe room will open in 30 seconds ***"
+    {
+        "chi" "**安全屋30秒后打开**"
+    }
+
+    "*** Fall back!!! The safe room is opening!!! ***"
+    {
+        "chi" "**快溜!!!安全屋已经打开了!!!**"
+    }
+
+    "*** Level II Complete ***"
+    {
+        "chi" "**第二关完成**"
+    }
+
+    "*** Zombies Escape...... ***"
+    {
+        "chi" "**僵尸逃离了......**"
+    }
+
+    "*** Fail...... ***"
+    {
+        "chi" "**你们失败了......**"
+    }
+
+    "*** Tesla will release zombies in 120 seconds ***"
+    {
+        "chi" "**特斯拉120秒后开放尸笼**"
+    }
+
+    "*** Boss - Tesla ***"
+    {
+        "chi" "**Boss - 特斯拉**"
+    }
+
+    "*** Gate will open in 30 seconds ***"
+    {
+        "chi" "**门30秒后打开**"
+    }
+
+    "*** Gate will close in 5 seconds ***"
+    {
+        "chi" "**门5秒后关闭**"
+    }
+
+    "*** Level II ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Mission: Searching the Ruin of Black Stone ***"
+    {
+        "chi" "**任务：搜寻黑石城废墟**"
+    }
+
+    "*** Mission: The Final Battle ***"
+    {
+        "chi" "**任务：最后一战**"
+    }
+
+    "*** Extreme II ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Do NOT jump down ***"
+    {
+        "chi" "**不要往下跳**"
+    }
+
+    "*** Give me some time to destroy this huge rock ***"
+    {
+        "chi" "**给我点时间摧毁这块巨石**"
+    }
+
+    "*** Rock will break in 20 seconds ***"
+    {
+        "chi" "**岩石20秒后破碎**"
+    }
+
+    "*** Rock will break in 30 seconds ***"
+    {
+        "chi" "**岩石30秒后破碎**"
+    }
+
+    "*** It is the end of this cave ***"
+    {
+        "chi" "**这里是洞穴的尽头**"
+    }
+
+    "*** Find a button to break the gate ***"
+    {
+        "chi" "**找到开关破坏这个门**"
+    }
+
+    "*** Level I ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Mission: Searching the Black Stone City ***"
+    {
+        "chi" "**任务：搜索黑石城**"
+    }
+
+    "*** Extreme I ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Mission: HEAD-TO-HEAD ***"
+    {
+        "chi" "**任务:正面交锋**"
+    }
+
+    "*** Tesla should have died several years ago ***"
+    {
+        "chi" "**特斯拉几年前就该死了**"
+    }
+
+    "*** I do not know why Tesla is still alive ***"
+    {
+        "chi" "**我不知道特斯拉为什么还活着**"
+    }
+
+    "*** Go through the City, we need to find more truth! ***"
+    {
+        "chi" "**穿过这座城市,我们需要找到更多的真相!**"
+    }
+
+    "*** This is the last defence!!! ***"
+    {
+        "chi" "**这是最后一道防线!!!**"
+    }
+
+    "*** Gate will close in 30 seconds ***"
+    {
+        "chi" "**门30秒后关闭**"
+    }
+
+    "*** Do not let the zombies out!!! ***"
+    {
+        "chi" "**不要让僵尸进来!!!**"
+    }
+
+    "*** Level I Complete ***"
+    {
+        "chi" "**第一关完成**"
+    }
+
+    "**** Zombie Escape... ***"
+    {
+        "chi" "**僵尸逃离了...**"
+    }
+
+    "**** Fail... ***"
+    {
+        "chi" "**你们失败了...**"
+    }
+
+    "*** Gate will open in 35 seconds ***"
+    {
+        "chi" "**门35秒后打开**"
+    }
+
+    "*** The fire is too strong below!!! Go right side!!! ***"
+    {
+        "chi" "**下面的火太强烈了!!走右边!!!**"
+    }
+
+    "*** Give me some time to prepare the teleporter ***"
+    {
+        "chi" "**给我一些时间开启传送器**"
+    }
+
+    "*** Defend until the teleporter is activated ***"
+    {
+        "chi" "**坚守到传送器开启**"
+    }
+
+    "*** Teleporter will activate in 40 seconds ***"
+    {
+        "chi" "**传送器40秒后开启**"
+    }
+
+    "*** We need some time to unlock this door ***"
+    {
+        "chi" "**我们需要一些时间把门关上**"
+    }
+
+    "*** Hold for 30 seconds ***"
+    {
+        "chi" "**坚持30秒**"
+    }
+
+    "*** Gate will open in 10 seconds ***"
+    {
+        "chi" "**门10秒后打开**"
+    }
+
+    "*** Hold for 12 seconds ***"
+    {
+        "chi" "**坚持12秒**"
+    }
+
+    "*** The helicopter is waiting for us ***"
+    {
+        "chi" "**直升机在等我们**"
+    }
+
+    "*** Hold for 15 seconds until the door closing ***"
+    {
+        "chi" "**守住15秒,门马上关!**"
+    }
+
+    "*** ... ***"
+    {
+        "chi" "** **"
+    }
+
+    "*** Be Careful!!! ***"
+    {
+        "chi" "**小心!!!**"
+    }
+
+    "*** I do not know why the heli is crashed... ***"
+    {
+        "chi" "**这直升机是并夕夕买的吗?怎么坠毁了...**"
+    }
+
+    "***Fall back to the entrance of the city!!! ***"
+    {
+        "chi" "**退回城市的入口!!!**"
+    }
+
+    "*** Gate will open in 15 seconds ***"
+    {
+        "chi" "**门15秒后打开**"
+    }
+
+    "*** C4 has been planted ***"
+    {
+        "chi" "**炸弹已经安放**"
+    }
+
+    "*** Teleporter will activate in 30 seconds ***"
+    {
+        "chi" "**传送器30秒后开启**"
+    }
+
+    "*** Fence will break in 5 seconds ***"
+    {
+        "chi" "**围栏5秒后破碎**"
+    }
+
+    "*** Wait for 5 seconds ***"
+    {
+        "chi" "**等待5秒**"
+    }
+
+    "*** The way to the city is blocked, wait until the C4 is planted!! **"
+    {
+        "chi" "**去城市的路被堵住了,用炸弹炸开他!!**"
+    }
+
+    "*** Difficulty changed to Level I ***"
+    {
+        "chi" "**管理员:调至第一关**"
+    }
+
+    "*** Difficulty changed to Level II ***"
+    {
+        "chi" "**管理员:调至第二关**"
+    }
+
+    "*** Difficulty changed to Extreme II ***"
+    {
+        "chi" "**管理员:调至易插二**"
+    }
+
+    "*** Difficulty changed to Extreme I ***"
+    {
+        "chi" "**管理员:调至易插一**"
+    }
+
+}
