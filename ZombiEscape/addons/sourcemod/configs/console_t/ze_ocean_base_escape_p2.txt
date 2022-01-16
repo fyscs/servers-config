@@ -8,6 +8,7 @@
     "***Hurry up! We only have to 10secs left!!***"
     {
         "chi" "**快激活!还剩最后10秒就要自毁了! **"
+	"command"	"sv_falldamage_scale 0"
     }
 
     "***Someone take the overhead ladder! Everyone else give them cover fire!***"

@@ -1,0 +1,334 @@
+"Console_T"
+{
+
+    "**Admin set level 1**"
+    {
+        "chi" "**管理员设置第一关**"
+    }
+
+    "**Warm Up**"
+    {
+        "chi" "**--热身--**"
+    }
+
+    "**Warm up**"
+    {
+        "chi" "**--热身--**"
+    }
+
+    "**Admin set level 2**"
+    {
+        "chi" "**管理员设置第二关**"
+    }
+
+    ">Heal<"
+    {
+        "chi" "**>治愈<**"
+    }
+
+    ">Heal Max<"
+    {
+        "chi" "**>治愈Max<**"
+    }
+
+    ">Ice<"
+    {
+        "chi" "**>冰冻<**"
+    }
+
+    ">Ice Max<"
+    {
+        "chi" "**>冰冻Max<**"
+    }
+
+    ">Electricity<"
+    {
+        "chi" "**>电击<**"
+    }
+
+    ">Electricity Max<"
+    {
+        "chi" "**>电击Max<**"
+    }
+
+    "---Max---"
+    {
+        "chi" "**>Max<**"
+    }
+
+    "10 Seconds!"
+    {
+        "chi" "**10秒!**"
+    }
+
+    "25 Seconds!"
+    {
+        "chi" "**25秒!**"
+    }
+
+    "20 Seconds!"
+    {
+        "chi" "**20秒!**"
+    }
+
+    "30 Seconds!"
+    {
+        "chi" "**30秒!**"
+    }
+
+    "There is no way ahead."
+    {
+        "chi" "**前面没有道路了**"
+    }
+
+    "Without a road, we create our own."
+    {
+        "chi" "**倒塌的石柱挡住了去路**"
+    }
+
+    "Try shooting at the side post."
+    {
+        "chi" "**开枪把石柱拆了**"
+    }
+
+    "We may need some help from our teammates on the other side."
+    {
+        "chi" "**我们需要另一边的队友帮一点小忙**"
+    }
+
+    "AFK tp in 10 Seconds!"
+    {
+        "chi" "**10S后传送**"
+    }
+
+    "Treasures of the King !"
+    {
+        "chi" "**>>王之宝库<<**"
+    }
+
+    "This is our last chance!"
+    {
+        "chi" "**这是我们最后的机会**"
+    }
+
+    "Live before the magic array opens!"
+    {
+        "chi" "**在魔法阵打开之前守住这里!**"
+    }
+
+    "Right fire!"
+    {
+        "chi" "**>>右火焰<<**"
+    }
+
+    "Left fire!"
+    {
+        "chi" "**>>左火焰<<**"
+    }
+
+    "Sword dance!"
+    {
+        "chi" "**>>剑舞<<**"
+    }
+
+    "zombie!"
+    {
+        "chi" "**>>尸笼<<**"
+    }
+
+    "Boss used Laser !"
+    {
+        "chi" "**>>剑阵<<**"
+    }
+
+    "Boss used Attract !"
+    {
+        "chi" "**>>引力<<**"
+    }
+
+    "Boss used electric !"
+    {
+        "chi" "**>>电场(蹲下)<<**"
+    }
+
+    "Boss used Shield !"
+    {
+        "chi" "**>>治疗<<**"
+    }
+
+    "Boss used Burn out!"
+    {
+        "chi" "**>>震击<<**"
+    }
+
+    "Boss used Attract!"
+    {
+        "chi" "**>>引力<<**"
+    }
+
+    "30 seconds!"
+    {
+        "chi" "**30秒!**"
+    }
+
+    "15 seconds!"
+    {
+        "chi" "**15秒!**"
+    }
+
+    "Door open in 30 seconds."
+    {
+        "chi" "**门30秒后打开**"
+    }
+
+    "Door close in 5 seconds."
+    {
+        "chi" "**门5秒后关闭**"
+    }
+
+    "He wants to kill us. Don't let him succeed."
+    {
+        "chi" "**他想干碎我们,不要让他得逞**"
+    }
+
+    "10 seconds left!!!"
+    {
+        "chi" "**10秒!!**"
+    }
+
+    "Left gale!"
+    {
+        "chi" "**>>左强推<<**"
+    }
+
+    "Right gale!"
+    {
+        "chi" "**>>右强推<<**"
+    }
+
+    "Flame Nova!Get out of the middle!"
+    {
+        "chi" "**>>诅咒(远离中间)<<**"
+    }
+
+    "earthquake!"
+    {
+        "chi" "**>>地震<<**"
+    }
+
+    "There seems to be a magic barrier blocking the way,waiting for unknown events to happen."
+    {
+        "chi" "**似乎有一道魔障挡住了道路,等待着未知事件的发生**"
+    }
+
+    "The magic enchantment is gone. Move on."
+    {
+        "chi" "**屏障似乎消失了,快走**"
+    }
+
+    "Turn on the transmission array in 10 seconds."
+    {
+        "chi" "**10秒后开启传送**"
+    }
+
+    "AFK tp in 5 seconds."
+    {
+        "chi" "**挂机5秒后传送**"
+    }
+
+    "The underground mausoleum opens in 20 seconds."
+    {
+        "chi" "**地下陵墓在20秒后打开**"
+    }
+
+    "clip kill in 20 seconds"
+    {
+        "chi" "**屏障20秒后关闭**"
+    }
+
+    "button unlock in 20 seconds."
+    {
+        "chi" "**按钮20秒后解锁**"
+    }
+
+    "Door open in 40 seconds"
+    {
+        "chi" "**门40秒后打开**"
+    }
+
+    "AFK tp in 10 seconds."
+    {
+        "chi" "**挂机10秒后传送**"
+    }
+
+    "We don't seem to be welcome here."
+    {
+        "chi" "**这里似乎不欢迎我们**"
+    }
+
+    "Give me 25 seconds to open the door."
+    {
+        "chi" "**门25秒后打开**"
+    }
+
+    "The door is open. Let's go!"
+    {
+        "chi" "**门开了,快润!**"
+    }
+
+    "The mystery room opens in 20 seconds."
+    {
+        "chi" "**神秘房间20秒后开放**"
+    }
+
+    "Super magic: sky falling!!"
+    {
+        "chi" "**超位魔法:天空陨落!**"
+    }
+
+    "Too late!"
+    {
+        "chi" "**尸笼开放**"
+    }
+
+    "Damn it,go up there!"
+    {
+        "chi" "**该死,只能走上面了**"
+    }
+
+    "The transmission array will turn on in 30 seconds."
+    {
+        "chi" "**30秒后开启传送**"
+    }
+
+    "AFK tp in 5 seconds. "
+    {
+        "chi" "**挂机5秒后传送**"
+    }
+
+    "15 Seconds!"
+    {
+        "chi" "**15秒!**"
+    }
+
+    "I need 30 seconds to open this door."
+    {
+        "chi" "**门30秒后打开**"
+    }
+
+    "20 Seconds !"
+    {
+        "chi" "**20秒!**"
+    }
+
+    "Afk tp in 5 Seconds !"
+    {
+        "chi" "**挂机5秒后传送!**"
+    }
+
+    "40 Seconds!"
+    {
+        "chi" "**40秒!**"
+    }
+
+}

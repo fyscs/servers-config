@@ -1,0 +1,63 @@
+"Console_T"
+{
+	"defend 40sec"
+	{
+		"chi"		"**防守40秒**"
+	}
+	"**player pickup music gun**"
+	{
+		"chi"		"**有玩家拾取了点歌姬**"
+	}
+	"**player pickup yinpin**"
+	{
+		"chi"		"**音频枪get**"
+	}
+	"hold,we need 30sec"
+	{
+		"chi"		"**防守30秒**"
+	}
+	"**door open in 20sec**"
+	{
+		"chi"		"**门还需要20秒才能击碎**"
+	}
+	"**door open in 50sec**"
+	{
+		"chi"		"**等待50秒**"
+	}
+	"**AFK teleport in 15s**"
+	{
+		"chi"		"**挂机玩家将在15秒后传送**"
+	}
+	"we need defend 35sec"
+	{
+		"chi"		"**我们需要防守35秒**"
+	}
+	"goliath need 50sec"
+	{
+		"chi"		"**高达需要50秒预热**"
+	}
+	"boat 40sec"
+	{
+		"chi"		"**船40秒后出发**"
+	}
+	"helicopter take off in 35sec"
+	{
+		"chi"		"**直升机将在35秒后起飞**"
+	}
+	"**road open in 5sec**"
+	{
+		"chi"		"**桥路5秒后修复完毕**"
+	}
+	"**AFK teleport 10sec**"
+	{
+		"chi"		"**10秒后传送挂机玩家**"
+	}
+	"**teleport open 10sec**"
+	{
+		"chi"		"**上岛的传送将在10秒后启动**"
+	}
+	"**nuke in 70sec**"
+	{
+		"chi"		"**核弹将在70秒后净化一切**"
+	}
+}

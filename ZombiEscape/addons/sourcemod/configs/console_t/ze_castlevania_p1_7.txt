@@ -3,6 +3,7 @@
 	"***STAGE 1 -- THE SHIP***"
 	{
 		"chi"		"**阶段一-遭遇海怪**"
+		"command"	"sv_falldamage_scale 0"
 	}
 	"***ENEMY INCOMING***"
 	{
