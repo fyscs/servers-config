@@ -1,0 +1,468 @@
+﻿"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "**The Myath blocking path! Shoot him!**"
+    {
+        "chi" "**尸龙麦斯正在阻挡我们的去路,保持射击!**"
+    }
+
+    "**The Myath is defeated! Keep running!**"
+    {
+        "chi" "**尸龙麦斯已经倒下,继续前进吧! **"
+    }
+
+    "**Level has been changed on Normal Mode** "
+    {
+        "chi" "**难度调整至普通**"
+    }
+
+    "**Level has been changed on Hard Mode** "
+    {
+        "chi" "**难度调整至困难 **"
+    }
+
+    "**Level has been changed on Extreme Mode** "
+    {
+        "chi" "**难度调整至极限**"
+    }
+
+    "**Level has been changed on Ultimate Mode** "
+    {
+        "chi" "**难度调整至终焉**"
+    }
+
+    "**Secret soundtrack enable!**"
+    {
+        "chi" "**隐藏音乐开启**"
+    }
+
+    "**Well done, Teleport lantern has been activeted!"
+    {
+        "chi" "**干的漂亮,晓光台座已经启动**"
+    }
+
+    "**Hold this area until way is open!**"
+    {
+        "chi" "**守住这里直到前方的路可以通行**"
+    }
+
+    "**Hold here for 23 seconds!**"
+    {
+        "chi" "**守住这片区域23秒!**"
+    }
+
+    "**Gabranth took control Zeromus ability and going to use it on us! Shoot him!**"
+    {
+        "chi" "**伽布拉斯控制了扎罗姆斯的能力企图消灭我们,快解决它!**"
+    }
+
+    "**Gabranth vanquished! Keep running!**"
+    {
+        "chi" "**伽布拉斯已经力竭!不要停下脚步!**"
+    }
+
+    "**Zombies escaped, you lose!**"
+    {
+        "chi" "**僵尸逃脱,你们已经在劫难逃!**"
+    }
+
+    "**Stage completed! Congratulations, you beat the map!**"
+    {
+        "chi" "**关卡完成,祝贺你们把弥利亚姆遗迹踩在脚下!**"
+    }
+
+    "**To take control of Zeromus ability we must defeat him!**"
+    {
+        "chi" "**为了控制扎罗姆斯的力量,我们必须击败它**"
+    }
+
+    "**Be careful Zeromus is going to cast ability in few seconds!**"
+    {
+        "chi" "**小心,扎罗姆斯正在蓄力**"
+    }
+
+    "**Zeromus vanquished!**"
+    {
+        "chi" "**扎罗姆斯已经力竭**"
+    }
+
+    "**Hold this area for 45 seconds!**"
+    {
+        "chi" "**守住这片区域45秒**"
+    }
+
+    "**The Gates will open in 25 seconds!**"
+    {
+        "chi" "**大门将于25秒后打开**"
+    }
+
+    "**Hold this area for 35 seconds until way is open!**"
+    {
+        "chi" "**守住这片区域直至前方道路通行**"
+    }
+
+    "**The Gates will open in 45 seconds!**"
+    {
+        "chi" "**大门将于45秒后打开**"
+    }
+
+    "igger cmd:Command:say **Hold this area for 28 seconds!**:0.00:1"
+    {
+        "chi" "**守住这里28秒**"
+    }
+
+    "essed cmd:Command:say **Hold this area until the teleport is enable!**:2.00:-1"
+    {
+        "chi" "**守住这里直到传送启动**"
+    }
+
+    "**Hold this area for 20 seconds!**"
+    {
+        "chi" "**守住这片区域20秒**"
+    }
+
+    "**The Gates will open in 15 seconds!**"
+    {
+        "chi" "**大门将于15秒后打开**"
+    }
+
+    "**Hold here for 15 seconds!**"
+    {
+        "chi" "**守住这里15秒**"
+    }
+
+    "**Wait 10 seconds more!**"
+    {
+        "chi" "**再等待10秒**"
+    }
+
+    "**It's last hold! We need time to open that gates!**"
+    {
+        "chi" "**这里最后的守点了!为打开这道门争取时间!**"
+    }
+
+    "**Hold here until the gates will open!**"
+    {
+        "chi" "**守住这里直到大门开启**"
+    }
+
+    "**You have failed...**"
+    {
+        "chi" "**你输了...**"
+    }
+
+    "**Occuria Kato vanquished!**"
+    {
+        "chi" "**不灭者已经力竭**"
+    }
+
+    "**Occuria Kato incoming! shoot him!**"
+    {
+        "chi" "**不灭者冲过来了,集火他!**"
+    }
+
+    "**Stage completed!**"
+    {
+        "chi" "**关卡完成**"
+    }
+
+    "**A Player has acquired Wind Magick**"
+    {
+        "chi" "**一位玩家已习得暴风之力**"
+    }
+
+    "**A Player has acquired Dark Magick**"
+    {
+        "chi" "**一位玩家已习得坍缩之力**"
+    }
+
+    "**A Player has acquired Blizzard Magick**"
+    {
+        "chi" "**一位玩家已习得召唤暴雪**"
+    }
+
+    "**A Player has acquired Heal Magick**"
+    {
+        "chi" "**一位玩家已习得治愈魔法**"
+    }
+
+    "**A Player has acquired Fire Magick**"
+    {
+        "chi" "**一位玩家已习得烈火魔法**"
+    }
+
+    "**A Player has acquired Thunder Magick**"
+    {
+        "chi" "**一位玩家已习得召唤雷电**"
+    }
+
+    "**A Player has acquired Oil Magick**"
+    {
+        "chi" "**一位玩家已习得黏油魔法**"
+    }
+
+    "**Occuria incoming! Shoot him before he kill us!**"
+    {
+        "chi" "**不灭者冲过来了,在它杀死我们之前击败它**"
+    }
+
+    "**Occuria has been defeated! Keep running!**"
+    {
+        "chi" "**不灭者已经击败,保持移动!**"
+    }
+
+    "**The Stilshrine of Miriam gates will close in 25 seconds**"
+    {
+        "chi" "**通往弥利亚姆遗迹的大门将于25秒后打开**"
+    }
+
+    "**Wait 20 seconds until teleport is enable!**"
+    {
+        "chi" "**在守20秒,传送就开了!**"
+    }
+
+    "**A player picked up Sword of Kings**"
+    {
+        "chi" "**一位玩家拔起了莱斯沃尔历代王者之剑**"
+    }
+
+    "**Only player with Sword of Kings can save you! Don't let him die!**"
+    {
+        "chi" "**我们沐浴在王者之剑的庇佑下,不要让持有者死亡!**"
+    }
+
+    "**The Gate will open in 15 seconds, defend!**"
+    {
+        "chi" "**再守住这道门15秒**"
+    }
+
+    "**Hold this area until path is open!**"
+    {
+        "chi" "**守住这片区域直到道路顺畅**"
+    }
+
+    "**We get the hell back to Mt Bur-Omisace and soon as possible!**"
+    {
+        "chi" "**我们需要尽快回到神都布尔欧密谢斯**"
+    }
+
+    "**What could it mean?**"
+    {
+        "chi" "**这意味着什么?**"
+    }
+
+    "**look there!**"
+    {
+        "chi" "**看!**"
+    }
+
+    "**The way past the colossus is open!**"
+    {
+        "chi" "**巨像之剑的封印已经解除了!**"
+    }
+
+    "**The Gates will open in 20 seconds!**"
+    {
+        "chi" "**大门将于20秒后打开**"
+    }
+
+    "**Defend until the gates is open!**"
+    {
+        "chi" "**守住这里直到大门打开**"
+    }
+
+    "**Esper Mateus vanquished!**"
+    {
+        "chi" "**玛提乌斯已经力竭**"
+    }
+
+    "**The Gates are open! Hurry up, take Sword of Kings!**"
+    {
+        "chi" "**大门已经开了,快带上王者之剑**"
+    }
+
+    "essed cmd:Command:say **The Gates of Cold Distance will open in 20 seconds!:2.00:-1"
+    {
+        "chi" "**离别步廊的大门将于20秒后打开**"
+    }
+
+    "essed cmd:Command:say **The Gates Walk of Prescience will open in 25 seconds!:0.00:-1"
+    {
+        "chi" "**远谋回廊的大门将于25秒后开放**"
+    }
+
+    "igger cmd:Command:say **Hold this area for 20 seconds!**:0.00:1"
+    {
+        "chi" "**守住这里20秒**"
+    }
+
+    "**Hold this area until teleport start working!**"
+    {
+        "chi" "**守住这里直到传送启动**"
+    }
+
+    "essed cmd:Command:say **The Gates Ward of Steel will open in 20 seconds!:0.00:-1"
+    {
+        "chi" "**钢铁之守护的大门将于20秒后打开**"
+    }
+
+    "igger cmd:Command:say **Hold this area for 18 seconds!**:0.00:1"
+    {
+        "chi" "**守住这里18秒**"
+    }
+
+    "**Blackened vanquished!**"
+    {
+        "chi" "**黑影已经力竭**"
+    }
+
+    "**Now we can enable teleport lantern! Hurry up!**"
+    {
+        "chi" "**现在我们可以启动晓光台座了!**"
+    }
+
+    "**Hold this area until the teleport is enable!**"
+    {
+        "chi" "**守住这里直到传送启动**"
+    }
+
+    "igger cmd:Command:say **Hold this area until the gates is close!**:18.00:-1"
+    {
+        "chi" "**守住这里直到门关**"
+    }
+
+    "igger cmd:Command:say **Hold this area for 15 seconds!**:0.00:1"
+    {
+        "chi" "**守住这里15秒**"
+    }
+
+    "**Wal of Mind segment will unlock in 35 seconds!**"
+    {
+        "chi" "**条理之回廊的大门将于35秒后打开**"
+    }
+
+    "**The Gates of Ward of Measure will open in 20 seconds!**"
+    {
+        "chi" "**平衡之守护的大门将于20秒后打开**"
+    }
+
+    "**We need to find teleport lantern!**"
+    {
+        "chi" "**我们需要找到晓光台座!**"
+    }
+
+    "**Map Status: No Stripper!**"
+    {
+        "chi" "**Map Status: No Stripper! **"
+    }
+
+    "**ze_stilshrine_of_the_miriam**"
+    {
+        "chi" "**FFXII:弥利亚姆遗迹 **"
+    }
+
+    "**Thanks to Lerrdy, Meringer, Shady and TuPu**"
+    {
+        "chi" "**Thanks to Lerrdy, Meringer, Shady and TuPu **"
+    }
+
+    "**Models by Tianli & K.**"
+    {
+        "chi" "**Models by Tianli & K. **"
+    }
+
+    "**Map by Ma/l/go**"
+    {
+        "chi" "**地图作者 Ma/l/go 汉化:aqua **"
+    }
+
+    "**Be careful, stars are falling from the sky, they can be dangerous to us!**"
+    {
+        "chi" "**小心点,星辰坠落会对我们造成威胁**"
+    }
+
+    "**An ancient shrine deep within the Jagd Ramooda**"
+    {
+        "chi" "**坐落于拉姆达大陆深处的古代遗迹**"
+    }
+
+    "**Like Raithwall?s tomb, this, too, was constructed in the time of the Galtean Alliance**"
+    {
+        "chi" "**和莱斯沃尔王墓一样,建造在阿尔盖迪亚帝国**"
+    }
+
+    "**Originally to honor the ancient god of swords and martial**"
+    {
+        "chi" "**起初是用来歌颂战争古神**"
+    }
+
+    "**It is said that a Gran Kiltias of long ago selected the Stilshrine to house the relics of Dynast-King Raithwall!**"
+    {
+        "chi" "**相传格兰基尔提亚用这座遗迹去纪念历代王-莱斯沃尔**"
+    }
+
+    "**You Journed across the Paramina Rift to the Stilshrine of Miriam**"
+    {
+        "chi" "**我们穿过帕拉密纳峡谷来到弥利亚姆遗迹**"
+    }
+
+    "**here rests the gift he entrusted to the Gran Kiltias of his time**"
+    {
+        "chi" "**这是交付给格兰基尔提亚的馈赠**"
+    }
+
+    "**Seek it out. The Sword of Kings... can cut through nethicite!**"
+    {
+        "chi" "**我们要找的王者之剑,相传它能斩断破魔石**"
+    }
+
+    "**We have to check what the next segment of the temple is hiding in front of us!**"
+    {
+        "chi" "**我们是时候去探索神庙中的秘密了**"
+    }
+
+    "**Go to the undiscovered part of the temple and explore its nooks and crannies!**"
+    {
+        "chi" "**探索神庙里未知的奥秘吧!**"
+    }
+
+    "**In the distant past, the Great Condemner, too, sought such power, and was stricken down by the gods!**"
+    {
+        "chi" "**在遥远的过去,至高君主也获得了强大魔力,并受到了神明的庇佑(天阳之茧) **"
+    }
+
+    "** Even now, his spirit is bound within the Stilshrine of Miriam**"
+    {
+        "chi" "**时至今日,他的灵魂仍与这座遗迹梦萦**"
+    }
+
+    "**Know the fate of those who have fallen in their search for strength**"
+    {
+        "chi" "**知晓曾在渴求力量中失落之人的命运**"
+    }
+
+    "**Welcome to Stilshrine of Miriam!**"
+    {
+        "chi" "**欢迎来到弥利亚姆遗迹**"
+    }
+
+    "**The Stilshrine of Miriam will open in 25 seconds**"
+    {
+        "chi" "**通往弥利亚姆遗迹的大门将于25秒后开启**"
+    }
+
+    "**Dragon Aevis vanquished!**"
+    {
+        "chi" "**枭龙已经力竭**"
+    }
+
+    "**Now we can enter new segment on temple! Find button and open new area!*"
+    {
+        "chi" "**现在我们可以探索神庙的一部分,去找到开关开启新的区域**"
+    }
+
+}
