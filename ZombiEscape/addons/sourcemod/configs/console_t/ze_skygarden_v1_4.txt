@@ -1,0 +1,243 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "** The wind is rising **"
+    {
+        "chi" ">起风了<"
+    }
+
+    "** An undead learned wind shield magic **"
+    {
+        "chi" "一名僵尸学会了风墙"
+    }
+
+    "** An undead learned wind magic **"
+    {
+        "chi" "一名僵尸学会了风"
+    }
+
+    "** An undead learned speed magic **"
+    {
+        "chi" "一名僵尸学会了加速"
+    }
+
+    "** We failed to protect the core **"
+    {
+        "chi" "我们没能保住核心"
+    }
+
+    "** They will die, we made it,  jump!!! **"
+    {
+        "chi" "我们做到了,僵尸全都会死,快跳起来!!"
+    }
+
+    "** The undead will fight us to death after five seconds **"
+    {
+        "chi" "我们将与僵尸正面交锋,还有5秒"
+    }
+
+    "** The sacred tree is already purifying the undead. Hold on **"
+    {
+        "chi" "神圣之树即将净化这些丧尸,再坚持一会!"
+    }
+
+    "** Stay in the protected area of the sky tree **"
+    {
+        "chi" "待在天穹树的保护区域里!"
+    }
+
+    "** Hold 20 second, we're almost at the sky tree **"
+    {
+        "chi" "还有20秒,我们就快到那里了"
+    }
+
+    "** Hold 20 second **"
+    {
+        "chi" "还有20秒"
+    }
+
+    "** Hold 30 second to break the wall **"
+    {
+        "chi" "还有30秒才能破开这面墙"
+    }
+
+    "** A player has picked up earth magic **"
+    {
+        "chi" "一名玩家拿起了大地元素?"
+    }
+
+    "** A player has picked up wind magic **"
+    {
+        "chi" "一名玩家拿起了风元素"
+    }
+
+    "** A player has picked up fire magic **"
+    {
+        "chi" "一名玩家拿起了火元素"
+    }
+
+    "** Hold 25 second to clear the tree **"
+    {
+        "chi" "守住,还有25秒清理完树枝"
+    }
+
+    "** The core will emit energy, protect it from being polluted by the undead **"
+    {
+        "chi" "核心会释放能量,请保护它不被僵尸污染"
+    }
+
+    "** The divine tree has received energy, we need another 20 seconds to open the door **"
+    {
+        "chi" "神圣之树获得了精华,还有20秒才能打开这里的门"
+    }
+
+    "** Hold on, The core is releasing energy **"
+    {
+        "chi" "等一会,核心正在释放能量"
+    }
+
+    "** Now go to the sky tree for shelter **"
+    {
+        "chi" "现在前往天穹之树寻求庇护吧"
+    }
+
+    "** We have got the core. Now we need to fill the core with energy in the holy pool **"
+    {
+        "chi" "我们拿到了核心,现在要在圣水池中向其中注入能量"
+    }
+
+    "** Looks like we need to hold 30s **"
+    {
+        "chi" "看起来我们需要防守30秒"
+    }
+
+    "** The core is full of energy and we can leave **"
+    {
+        "chi" "核心充满了能量,我们可以离开这里了"
+    }
+
+    "** The core is healing the people around **"
+    {
+        "chi" "核心会治愈周围的人类"
+    }
+
+    "** The airship leaves in 25 seconds **"
+    {
+        "chi" "天之船25秒后离开"
+    }
+
+    "** We have reached the sky tree tower **"
+    {
+        "chi" "我们已经抵达天穹树之塔"
+    }
+
+    "** Bring the core to the root of the sky tree **"
+    {
+        "chi" "把核心带到天穹树的树根那里去"
+    }
+
+    "** Hold 20 second to open the door **"
+    {
+        "chi" "还有20秒才能打开这里的门"
+    }
+
+    "** Put the core into the pool **"
+    {
+        "chi" "把核心放到池子里面"
+    }
+
+    "** We have reached the temple **"
+    {
+        "chi" "我们已经到达了神庙"
+    }
+
+    "** Now we need go to get the core and recharge it **"
+    {
+        "chi" "现在我们要找到核心,还要重新激活它"
+    }
+
+    "** Hold 15 second to remove the magic array **"
+    {
+        "chi" "还有15秒才能移除魔法阵"
+    }
+
+    "** Keep defending, we need to get the energy core **"
+    {
+        "chi" "继续防守,我们需要拿到能量核心"
+    }
+
+    "** Hold 35 second to open the door **"
+    {
+        "chi" "离门打开还有35秒"
+    }
+
+    "** The door is open. We need to leave the temple **"
+    {
+        "chi" "门开了,我们需要离开神庙"
+    }
+
+    "** Finally escaped **"
+    {
+        "chi" "我们成功了!!!"
+    }
+
+    "** We need to take the airship to reach the sky tree tower **"
+    {
+        "chi" "我们需要乘坐天之船才能到天穹树那去"
+    }
+
+    "** Hold 30 second to activate the tower **"
+    {
+        "chi" "还有30秒启动传送塔"
+    }
+
+    "** The door is open **"
+    {
+        "chi" "门开了"
+    }
+
+    "** Jump to transfer array **"
+    {
+        "chi" "跳进传送阵"
+    }
+
+    "** Hold 30 second to destroy the fence**"
+    {
+        "chi" "还有30秒才能破坏这些栅栏"
+    }
+
+    "** Infected undead can only be purified by sky tree **"
+    {
+        "chi" "只有天穹树才能净化这些被感染的丧尸"
+    }
+
+    "** The plague from ancient times broke out **"
+    {
+        "chi" "古时的瘟疫再次爆发"
+    }
+
+    "** However, the sacred tree needs energy to release purification magic **"
+    {
+        "chi" "但是神圣之树需要能量才能释放净化魔法"
+    }
+
+    "** We need to go to the temple to get the core of energy **"
+    {
+        "chi" "我们得先去神庙拿到能量核心"
+    }
+
+    "** Hold 30 second to clear the rock**"
+    {
+        "chi" "需要30秒清理石块"
+    }
+
+    "** Hold 25 second to destroy the rock **"
+    {
+        "chi" "需要25秒破坏石墙"
+    }
+
+}

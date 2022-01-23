@@ -8,6 +8,7 @@
     "***Hurry up! We only have to 10secs left!!***"
     {
         "chi" "**快激活!还剩最后10秒就要自毁了! **"
+	"command"	"sv_falldamage_scale 0"
     }
 
     "***Someone take the overhead ladder! Everyone else give them cover fire!***"
@@ -89,6 +90,7 @@
     "***The Ocean Base is starting to explode!***"
     {
         "chi" "**检测到生化污染!深海基地自毁启动! **"
+		"command"       "ze_weapons_round_molotov -1"
     }
 
     "***Find a place to hide and hold here for 45secs until a path is clear!!***"
@@ -160,12 +162,13 @@
     "***...Thank you...<<Insert Name Here>>...**"
     {
         "chi" "**蟹蟹你 勇士 **"
-		"command"       "sm_smoker_enabled 1"
     }
 
     "***Thank You for Playing!!***"
     {
         "chi" "**同时也感谢你们的游玩 汉化:龙鸣 **"
+		"command"       "ze_weapons_round_molotov -1"
+		"command"       "sm_smoker_enabled 1"
     }
 
     "***Use the pipes along the wall to get across the pit of fire!***"
