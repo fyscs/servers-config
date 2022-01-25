@@ -1,0 +1,118 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "<!> Destroy the wire mesh 10 s <!>"
+    {
+        "chi" "**10秒后铁丝网被破坏 **"
+    }
+
+    "<!> Destroy the wire mesh 20 s <!>"
+    {
+        "chi" "**20秒后铁丝网被破坏 **"
+    }
+
+    "<!> Destroy the barricade 10 s <!>"
+    {
+        "chi" "**路障10秒后被摧毁 **"
+    }
+
+    "<!> Destroy the barricade 30 s <!>"
+    {
+        "chi" "**路障30秒后被摧毁 **"
+    }
+
+    "<!> Elevator starts moving 10 s <!>"
+    {
+        "chi" "**电梯10秒后开始启动 **"
+    }
+
+    "<!> Elevator starts moving 40 s <!>"
+    {
+        "chi" "**电梯40秒后开始启动 **"
+    }
+
+    "<!> Old door opens 10 s <!>"
+    {
+        "chi" "**残破不堪的旧门10秒后打开 **"
+    }
+
+    "<!> Old door opens 20 s <!>"
+    {
+        "chi" "**残破不堪的旧门20秒后打开 **"
+    }
+
+    "<!> Rusty door opens 10 s <!>"
+    {
+        "chi" "**锈迹斑斑的大门10秒后打开 **"
+    }
+
+    "<!> Rusty door opens 40 s <!>"
+    {
+        "chi" "**锈迹斑斑的大门40秒后打开 **"
+    }
+
+    "<!> I found a lost item... I'll report it to Murata. 10 s <!>"
+    {
+        "chi" "**还剩10秒 **"
+    }
+
+    "<!> I found a lost item... I'll report it to Murata. 20 s <!>"
+    {
+        "chi" "**等等 我有一些诡异的发现 我得向村田先生汇报 坚守20秒 **"
+    }
+
+    "<!> Barricade will open 10 s <!>"
+    {
+        "chi" "**路障10秒后被摧毁 **"
+    }
+
+    "<!> Barricade will open 40 s <!>"
+    {
+        "chi" "**路障40秒后被摧毁 **"
+    }
+
+    "<!> hatch will open 10 s <!>"
+    {
+        "chi" "**地下闸道10秒后打开 **"
+    }
+
+    "<!> hatch will open 30 s <!>"
+    {
+        "chi" "**地下闸道30秒后打开 **"
+    }
+
+    "<!> Destroy the drums 10 s <!>"
+    {
+        "chi" "**建筑材料10秒后摧毁 **"
+    }
+
+    "<!> Destroy the drums 40 s <!>"
+    {
+        "chi" "**建筑材料40秒后摧毁 **"
+    }
+
+    "<!> Barricade will open 30 s <!>"
+    {
+        "chi" "**路障30秒后被打开 **"
+    }
+
+    ">> Warm up round End <<"
+    {
+        "chi" "**热身回合结束 **"
+    }
+
+    "<!> Get out of the tunnel! 10 s <!>"
+    {
+        "chi" "**还剩10秒 快! **"
+    }
+
+    "<!> Get out of the tunnel! 60 s <!>"
+    {
+        "chi" "**60秒内赶紧离开这诡异的隧道 快! **"
+    }
+
+}

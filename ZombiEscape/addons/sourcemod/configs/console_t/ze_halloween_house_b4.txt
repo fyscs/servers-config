@@ -3,6 +3,7 @@
 	"** There seems to be a nasty bug infestation! **"
 	{
 		"chi"		"**好像有讨厌的虫子出没!**"
+		"command"	"sv_falldamage_scale 0"
 	}
 	"** Luckily bugs tend to dislike bright lights! **"
 	{
