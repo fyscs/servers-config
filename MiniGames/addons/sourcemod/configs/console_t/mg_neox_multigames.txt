@@ -1,13 +1,19 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
-
-    "*Map by BES*"
-    {
-        "chi" "地图作者: BES"
-    }
-
+	"*Map by BES*"
+	{
+		"chi"		"地图作者: BES"
+	}
+	"[MAP] mg_Skilled_or_Lucky_Multigames"
+	{
+		"chi"		"** **"
+	}
+	"[MAP] Made by Dus?K"
+	{
+		"chi"		"** **"
+	}
+	"@Map by Gunman, welcome to report bug to me, hf"
+	{
+		"chi"		"** **"
+	}
 }
