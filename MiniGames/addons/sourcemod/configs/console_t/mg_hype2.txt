@@ -1,63 +1,147 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
-
-    "Song - ROZES - Fragile (AVNU Remix)"
-    {
-        "chi" "BGM: ROZES - Fragile (AVNU Remix)"
-    }
-
-    "Song - Henrix - Feel Alive (Fever Remix) "
-    {
-        "chi" "BGM: Henrix - Feel Alive (Fever Remix)"
-    }
-
-    "Song - Embers : Feint"
-    {
-        "chi" "BGM: Embers : Feint"
-    }
-
-    "Song - Said The Sky ft. Diamond Eyes - Mountains"
-    {
-        "chi" "BGM: Said The Sky ft. Diamond Eyes - Mountains"
-    }
-
-    "Song - Jumper : Third Eye Blind"
-    {
-        "chi" "BGM: Jumper : Third Eye Blind"
-    }
-
-    "Song - Closer : Lazlo"
-    {
-        "chi" "BGM: Closer : Lazlo"
-    }
-
-    "Song - Ed Sheeran - I See Fire (Kygo Remix)"
-    {
-        "chi" "BGM: Ed Sheeran - I See Fire (Kygo Remix)"
-    }
-
-    "Song - It'll Be Okay : SMLE ft. Helen Tess"
-    {
-        "chi" "BGM: It'll Be Okay : SMLE ft. Helen Tess"
-    }
-
-    "Song - Kygo - Stay (ft. Maty Noyes)"
-    {
-        "chi" "BGM: Kygo - Stay (ft. Maty Noyes)"
-    }
-
-    "Knife Damage Enabled!"
-    {
-        "chi" "刀伤已启动!"
-    }
-
-    "Welcome to hype2"
-    {
-        "chi" "欢迎来到hype2"
-    }
-
+	"Song - ROZES - Fragile (AVNU Remix)"
+	{
+		"chi"		"BGM: ROZES - Fragile (AVNU Remix)"
+	}
+	"Song - Henrix - Feel Alive (Fever Remix) "
+	{
+		"chi"		"BGM: Henrix - Feel Alive (Fever Remix)"
+	}
+	"Song - Embers : Feint"
+	{
+		"chi"		"BGM: Embers : Feint"
+	}
+	"Song - Said The Sky ft. Diamond Eyes - Mountains"
+	{
+		"chi"		"BGM: Said The Sky ft. Diamond Eyes - Mountains"
+	}
+	"Song - Jumper : Third Eye Blind"
+	{
+		"chi"		"BGM: Jumper : Third Eye Blind"
+	}
+	"Song - Closer : Lazlo"
+	{
+		"chi"		"BGM: Closer : Lazlo"
+	}
+	"Song - Ed Sheeran - I See Fire (Kygo Remix)"
+	{
+		"chi"		"BGM: Ed Sheeran - I See Fire (Kygo Remix)"
+	}
+	"Song - It'll Be Okay : SMLE ft. Helen Tess"
+	{
+		"chi"		"BGM: It'll Be Okay : SMLE ft. Helen Tess"
+	}
+	"Song - Kygo - Stay (ft. Maty Noyes)"
+	{
+		"chi"		"BGM: Kygo - Stay (ft. Maty Noyes)"
+	}
+	"Knife Damage Enabled!"
+	{
+		"chi"		"刀伤已启动!"
+	}
+	"Welcome to hype2"
+	{
+		"chi"		"欢迎来到hype2"
+	}
+	"Duck Hunt v1. CT's are Ducks!"
+	{
+		"chi"		"** **"
+	}
+	"Rifle - AK47"
+	{
+		"chi"		"** **"
+	}
+	"awp"
+	{
+		"chi"		"** **"
+	}
+	"rifle"
+	{
+		"chi"		"** **"
+	}
+	"Deagles"
+	{
+		"chi"		"** **"
+	}
+	"Wallhacks - USP"
+	{
+		"chi"		"** **"
+	}
+	"DeathRun"
+	{
+		"chi"		"** **"
+	}
+	"Shotguns"
+	{
+		"chi"		"** **"
+	}
+	"Song - Henrix - Feel Alive (Fever Remix)"
+	{
+		"chi"		"** **"
+	}
+	"Duck Hunt v2, Picking Sides..."
+	{
+		"chi"		"** **"
+	}
+	"Wall Breaks in 5 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Level One Kill Trigger in 15 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Level Two Kill Trigger in 10 Seconds!"
+	{
+		"chi"		"** **"
+	}
+	"Iceskate"
+	{
+		"chi"		"** **"
+	}
+	"35hp Knife"
+	{
+		"chi"		"** **"
+	}
+	"Dual Beretta's"
+	{
+		"chi"		"** **"
+	}
+	"ScoutsKnives"
+	{
+		"chi"		"** **"
+	}
+	"Wallhacks - M4A1-S"
+	{
+		"chi"		"** **"
+	}
+	"Grenades"
+	{
+		"chi"		"** **"
+	}
+	"Pistols [HS]"
+	{
+		"chi"		"** **"
+	}
+	"Football [1hp]"
+	{
+		"chi"		"** **"
+	}
+	"Duck Hunt v1. T's are Ducks!"
+	{
+		"chi"		"** **"
+	}
+	"Barrel Box Selected"
+	{
+		"chi"		"** **"
+	}
+	"**MAP MADE BY: Chiizi**"
+	{
+		"chi"		"** **"
+	}
+	"100hp Knife"
+	{
+		"chi"		"** **"
+	}
 }
