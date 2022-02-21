@@ -15,7 +15,7 @@
 	}
 	"***WELCOME TO BEST KOREA***"
 	{
-		"chi"		"**欢迎来到美丽滴泰..朝鲜**"
+		"chi"		"**欢迎来到大头之国**"
 	}
 	"***WE WILL PROCESS YOUR ENTRY REQUEST***"
 	{
@@ -47,11 +47,11 @@
 	}
 	"***JUST LET THEM THINK FOR A WHILE***"
 	{
-		"chi"		"**让他们思考一会**"
+		"chi"		"**他们正在思考人生...**"
 	}
 	"***THEY WERE THINKING ABOUT PIZZA***"
 	{
-		"chi"		"**他们想吃披萨**"
+		"chi"		"**他们觉得披萨很好吃**"
 	}
 	"***PATH OPENING IN 30 SECONDS***"
 	{
@@ -119,7 +119,7 @@
 	}
 	"***WELCOME TO THE BEST KOREAN BALLOON***"
 	{
-		"chi"		"**欢迎来到朝鲜飞艇**"
+		"chi"		"**欢迎来到大头飞艇**"
 	}
 	"***SPONSORED BY PRINGLES***"
 	{
@@ -183,7 +183,7 @@
 	}
 	"***HAIL BEST KOREA***"
 	{
-		"chi"		"**奥力给朝鲜!**"
+		"chi"		"**奥力给！**"
 	}
 	"***ELEVATOR IS COMING IN 5 SECONDS***"
 	{
@@ -199,15 +199,15 @@
 	}
 	"***BEST KOREA DOOR IS OPENING IN 5 SECONDS***"
 	{
-		"chi"		"**朝鲜大门5秒后打开**"
+		"chi"		"**大头之国大门5秒后打开**"
 	}
 	"***BEST KOREA DOOR IS CLOSING IN 5 SECONDS***"
 	{
-		"chi"		"**朝鲜大门5秒后关闭**"
+		"chi"		"**大头之国大门5秒后关闭**"
 	}
 	"***BEST KOREA DOOR IS CLOSING***"
 	{
-		"chi"		"**朝鲜大门关闭中**"
+		"chi"		"**大头之国大门关闭中**"
 	}
 	"***STAGE 1 WON***"
 	{
@@ -231,7 +231,7 @@
 	}
 	"***A BOY HAS BLOWN YOU AWAY***"
 	{
-		"chi"		"**一脚一个小朋友**"
+		"chi"		"**大头士兵：劳资一脚一个小朋友**"
 	}
 	"***BOMB PLANTED***"
 	{
@@ -323,11 +323,11 @@
 	}
 	"***BIG BEST KIM IS PROUD***"
 	{
-		"chi"		"**大胖引以为傲**"
+		"chi"		"**胖大头很自豪**"
 	}
 	"***HAVE TWO PRINGLES***"
 	{
-		"chi"		"**有两个弹簧**"
+		"chi"		"**有两罐品客薯片**"
 	}
 	"***OUTER GATE IS OPENING***"
 	{
@@ -363,7 +363,7 @@
 	}
 	"***IT'S BABY BOY KIM***"
 	{
-		"chi"		"**一只野生的金大胖出现了**"
+		"chi"		"**胖大头出现了**"
 	}
 	"***RUN FOR IT***"
 	{
@@ -419,7 +419,7 @@
 	}
 	"***YOUNG BABY KIM IS DEAD***"
 	{
-		"chi"		"**金小胖狗带了**"
+		"chi"		"**胖大头狗带了**"
 	}
 	"***WHAT HAVE YOU DONE...***"
 	{
@@ -476,8 +476,7 @@
 	"***STAGE 2 WON***"
 	{
 		"chi"		"**第二章完成**"
-		"command"       "ze_weapons_round_tagrenade 1"
-		"command"       "ze_weapons_round_flash "1"
+		"command"       "ze_weapons_round_tagrenade 1;ze_weapons_round_flash 2"
 	}
 	"surf's up dude"
 	{
@@ -585,7 +584,7 @@
 	}
 	"***I HAVE A HARD TIME OPENING UP TO YOU BECAUSE FATHER IS HERE***"
 	{
-		"chi"		"**因为大胖子在这所以我很难向你实话实说**"
+		"chi"		"**因为胖大头在这所以我很难向你实话实说**"
 	}
 	"***COULD YOU PLEASE HELP ME GET RID OF HIM?***"
 	{
@@ -597,7 +596,7 @@
 	}
 	"***I GET SO EMBARRASSED WHEN DADDY IS WATCHING...***"
 	{
-		"chi"		"**大胖子看的我很尴尬**"
+		"chi"		"**胖大头看的我很尴尬**"
 	}
 	"***CASTLE PIECE ADDED (16)***"
 	{
@@ -689,7 +688,7 @@
 	}
 	"***MAKE YOUR WAY TO THE BEST KOREAN SPACE ROCKET***"
 	{
-		"chi"		"**前往奥力给朝鲜火箭**"
+		"chi"		"**前往大头帝国火箭**"
 	}
 	"***DEFEND AS YOU SEE FIT ALONG THE WAY***"
 	{
