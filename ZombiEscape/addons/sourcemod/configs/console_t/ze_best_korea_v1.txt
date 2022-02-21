@@ -42,7 +42,7 @@
 	}
 	"***THE GUARDS IN THE BACK ARE A BIT SLOW***"
 	{
-		"chi"		"**后面的警卫有点慢**"
+		"chi"		"**后面的大头警卫有点慢**"
 	}
 	"***JUST LET THEM THINK FOR A WHILE***"
 	{
@@ -475,6 +475,8 @@
 	"***STAGE 2 WON***"
 	{
 		"chi"		"**第二章完成**"
+		"command"       "ze_weapons_round_tagrenade 1"
+		"command"       "ze_weapons_round_flash "1"
 	}
 	"surf's up dude"
 	{
