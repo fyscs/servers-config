@@ -3,6 +3,7 @@
 	"**stage 1**"
 	{
 		"chi"		"**第一关**"
+		"command"       "sv_falldamage_scale 0"
 	}
 	"**welcome to ze_fat_hours_escape**"
 	{
