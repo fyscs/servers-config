@@ -3,7 +3,6 @@
 	"**stage 1**"
 	{
 		"chi"		"**第一关**"
-		"command"       "sv_falldamage_scale 0"
 	}
 	"**welcome to ze_fat_hours_escape**"
 	{
@@ -16,6 +15,7 @@
 	"***WELCOME TO BEST KOREA***"
 	{
 		"chi"		"**欢迎来到大头之国**"
+		"command"       "sv_falldamage_scale 0"
 	}
 	"***WE WILL PROCESS YOUR ENTRY REQUEST***"
 	{
