@@ -3,6 +3,7 @@
 	"** [STORY] STAGE 1 - PRISON **"
 	{
 		"chi"		"***[故事] 第①关 - 监狱 ***"
+	        "command"           "sv_disable_radar 1"	
 	}
 	"** [STORY] We have met a nice guy in prison called slenderman - he wants to help us escape the prison! **"
 	{
