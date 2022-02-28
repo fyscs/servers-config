@@ -1,0 +1,33 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "lll PLANT LEAVE IN 50 SEC lll"
+    {
+        "chi" "**运输机:50秒**"
+    }
+
+    "lll GATE OPEN IN 35 SEC lll"
+    {
+        "chi" "**围栏:35秒**"
+    }
+
+    "lll DOOR UNLOCK IN 30 SEC lll"
+    {
+        "chi" "**解锁:30秒**"
+    }
+
+    "lll THE DOOR EXPLOSION 35 SEC lll"
+    {
+        "chi" "**爆破:35秒**"
+    }
+
+    "lll GATE OPEN IN 30 SEC lll"
+    {
+        "chi" "**围栏:30秒**"
+    }
+
+}
