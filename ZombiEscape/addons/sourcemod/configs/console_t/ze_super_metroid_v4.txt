@@ -1,139 +1,94 @@
 "Console_T"
 {
-	"***Ok marines, listen up.  The last Metroid is being held somewhere here on planet Zebes.***"
-	{
-		"chi"		"人类们!听好最后的战士将在....出现"
-	}
-	"***Commander Xenosaj's orders are clear: find the Metroid, retrieve or eliminate it, and get out.***"
-	{
-		"chi"		"上级的命令很明确 找到他..或摧毁它..."
-	}
-	"***Head for the abandoned bunker north of your location.  Start searching there.***"
-	{
-		"chi"		"去北方荒废的地堡看看!"
-	}
-	"***Hostile movement detected south of your position.  I'm sealing the bunker doors in 10 seconds, get in or get left behind!***"
-	{
-		"chi"		"地堡门10秒后关闭!赶紧进来!"
-	}
-	"***I've managed to activate the secondary bulkheads, that should keep them--shit, watch out for Ridley's firebeam!***"
-	{
-		"chi"		"小心激光!不要触碰它!"
-	}
-	"***There's a hidden exit in the back, hold them off while I try to open it.***"
-	{
-		"chi"		"发现一个隐藏出口在后面!!守到门开!"
-	}
-	"***The exit's clear, get out of there!***"
-	{
-		"chi"		"门开了!快给我进去!"
-	}
-	"***I don't know where that teleporter will take you, but it's better than staying here!***"
-	{
-		"chi"		"进入传送装置!"
-	}
-	"***Welcome to Zebes' version of hell--Norfair.  You've got maybe a minute before the heat overwhelms you.***"
-	{
-		"chi"		"还有1分钟!不然你会死亡!"
-	}
-	"***There's a teleporter up top.  Make your way across the bridge and use the grappling beams to get to the higher ledges.***"
-	{
-		"chi"		"传送点在顶端!找到方法过去!"
-	}
-	"***WARNING.  INTRUDERS DETECTED IN METROID HABITATION CHAMBER.***"
-	{
-		"chi"		"警告....不明生物入侵"
-	}
-	"***MOTHER BRAIN DEFENSE SYSTEM ACTIVATED.  CHAMBER PURGE IN TEN SECONDS.***"
-	{
-		"chi"		"基地:防御装置已经启动, 10秒后开启清除计划"
-	}
-	"***Quick--shoot out the glass surrounding Mother Brain!***"
-	{
-		"chi"		"快射击主脑的玻璃!"
-	}
-	"***SYSTEM MALFUNCTION.  ACTIVATING SECONDARY SYSTEMS.***"
-	{
-		"chi"		"基地:系统XX, 启动二号系统"
-	}
-	"***Commander Xenosajs orders are clear: find the Metroid, retrieve or eliminate it, and get out.***"
-	{
-		"chi"		"**上级的命令很明确找到节拍器..带回它或摧毁它...**"
-	}
-	"***Hostile movement detected south of your position.  Im sealing the bunker doors in 10 seconds, get in or get left behind!***"
-	{
-		"chi"		"**发现敌对阵营!10秒后门可以....留下或者离开! **"
-	}
-	"***Ive managed to activate the secondary bulkheads, that should keep them--shit, watch out for Ridleys firebeam!***"
-	{
-		"chi"		"**plan b!, 这应该会让他们-shit!, 小心雷德利的火柱! **"
-	}
-	"***Theres a hidden exit in the back, hold them off while I try to open it.***"
-	{
-		"chi"		"**背后有一个隐藏的出口, 在我试图打开的时候把它们关起来.  **"
-	}
-	"***The exits clear, get out of there!***"
-	{
-		"chi"		"**门开了!快走!**"
-	}
-	"***I dont know where that teleporter will take you, but its better than staying here!***"
-	{
-		"chi"		"**我不知道那个传送机会带你去哪里, 但总比呆在这里好!**"
-	}
-	"***Welcome to Zebes version of hell--Norfair.  Youve got maybe a minute before the heat overwhelms you.***"
-	{
-		"chi"		"**welcome来到地狱--诺菲尔. 你还有1分钟时间!. **"
-	}
-	"***Theres a teleporter up top.  Make your way across the bridge and use the grappling beams to get to the higher ledges.***"
-	{
-		"chi"		"**上面好像有个传送机. 从大桥过去!!!. **"
-	}
-	"***SELF-DESTRUCT SEQUENCE INITIATED.  ONE MINUTE UNTIL REACTOR CORE MELTDOWN.***"
-	{
-		"chi"		"**销毁程序启动..... 反应堆熔毁还有一分钟**"
-	}
-	"***The exits clear, get the hell out of there.  Youve got maybe ten seconds before the zombies can follow.***"
-	{
-		"chi"		"*出口清除了, 赶快离开那里. 大概还有10秒钟僵尸才能跟上!**"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"** **"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"** **"
-	}
-	"*** STEAMGAMERS.COM ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Mapper: yardy ***"
-	{
-		"chi"		"**制作:yardy翻译:Sakura@风云社**"
-	}
-	"*** Co-Mapper: starbucks ***"
-	{
-		"chi"		"** **"
-	}
-	"***The exit's clear, get the hell out of there.  You've got maybe ten seconds before the zombies can follow.***"
-	{
-		"chi"		"** **"
-	}
-	"***Welcome to Crazy Kart***"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Luffaren***"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Taskuvaras***"
-	{
-		"chi"		"** **"
-	}
-	"***Human door opening in 15s***"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***Commander Xenosaj's orders are clear: find the Metroid, retrieve or eliminate it, and get out.***"
+    {
+        "chi" "上级的命令很明确 找到他..或摧毁它..."
+    }
+
+    "***Head for the abandoned bunker north of your location.  Start searching there.***"
+    {
+        "chi" "去北方荒废的地堡看看!"
+    }
+
+    "***Hostile movement detected south of your position.  I'm sealing the bunker doors in 10 seconds, get in or get left behind!***"
+    {
+        "chi" "地堡门10秒后关闭!赶紧进来!"
+    }
+
+    "***I don't know where that teleporter will take you, but it's better than staying here!***"
+    {
+        "chi" "进入传送装置!"
+    }
+
+    "***I've managed to activate the secondary bulkheads, that should keep them--shit, watch out for Ridley's firebeam!***"
+    {
+        "chi" "小心激光!不要触碰它!"
+    }
+
+    "***MOTHER BRAIN DEFENSE SYSTEM ACTIVATED.  CHAMBER PURGE IN TEN SECONDS.***"
+    {
+        "chi" "基地:防御装置已经启动, 10秒后开启清除计划"
+    }
+
+    "***Ok marines, listen up.  The last Metroid is being held somewhere here on planet Zebes.***"
+    {
+        "chi" "人类们!听好最后的战士将在....出现"
+    }
+
+    "***Quick--shoot out the glass surrounding Mother Brain!***"
+    {
+        "chi" "快射击主脑的玻璃!"
+    }
+
+    "***SELF-DESTRUCT SEQUENCE INITIATED.  ONE MINUTE UNTIL REACTOR CORE MELTDOWN.***"
+    {
+        "chi" "**销毁程序启动..... 反应堆熔毁还有一分钟**"
+    }
+
+    "***SYSTEM MALFUNCTION.  ACTIVATING SECONDARY SYSTEMS.***"
+    {
+        "chi" "基地:系统XX, 启动二号系统"
+    }
+
+    "***The exit's clear, get out of there!***"
+    {
+        "chi" "门开了!快给我进去!"
+    }
+
+    "***The exit's clear, get the hell out of there.  You've got maybe ten seconds before the zombies can follow.***"
+    {
+        "chi" "__null__"
+    }
+
+    "***There's a hidden exit in the back, hold them off while I try to open it.***"
+    {
+        "chi" "发现一个隐藏出口在后面!!守到门开!"
+    }
+
+    "***There's a teleporter up top.  Make your way across the bridge and use the grappling beams to get to the higher ledges.***"
+    {
+        "chi" "传送点在顶端!找到方法过去!"
+    }
+
+    "***WARNING.  INTRUDERS DETECTED IN METROID HABITATION CHAMBER.***"
+    {
+        "chi" "警告....不明生物入侵"
+    }
+
+    "***Welcome to Zebes' version of hell--Norfair.  You've got maybe a minute before the heat overwhelms you.***"
+    {
+        "chi" "还有1分钟!不然你会死亡!"
+    }
+
 }

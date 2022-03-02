@@ -1,19 +1,49 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    ">>>Right-Elevator leaving in 10 seconds<<<"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    ">>>!1!<<<"
     {
-        "chi" "**右边的电梯10s后离开**"
+        "chi" "__null__"
     }
 
-    ">>>Left-Elevator unlocked<<<"
+    ">>>!2!<<<"
     {
-        "chi" "**左边的电梯已解锁**"
+        "chi" "__null__"
     }
 
-    ">>>Left-Elevator leaving in 10 seconds<<<"
+    ">>>!3!<<<"
     {
-        "chi" "**左边的电梯10s后离开**"
+        "chi" "__null__"
+    }
+
+    ">>>10 seconds left<<<"
+    {
+        "chi" "**>>还有10s<<**"
+    }
+
+    ">>>30 seconds until vacuum<<<"
+    {
+        "chi" "**还有三十秒**"
+    }
+
+    ">>>60 seconds until vacuum in Spawn Sections<<<"
+    {
+        "chi" "**出生点还有六十秒进入真空状态**"
+    }
+
+    ">>>DEATH-STAR EXPLODING IN 5 SECONDS<<<"
+    {
+        "chi" "**死星将在5s后爆炸**"
     }
 
     ">>>Door opening in 10 seconds<<<"
@@ -26,11 +56,6 @@
         "chi" "**大门5s后打开**"
     }
 
-    ">>>Lightbridge deactivating in 8 sec<<<"
-    {
-        "chi" "**激光桥8s后失效**"
-    }
-
     ">>>Generator section losing air...vacuum in 10 seconds"
     {
         "chi" "**发电机部门失压中,10s后进入真空**"
@@ -41,14 +66,9 @@
         "chi" "**守住小酒吧25s**"
     }
 
-    ">>>10 seconds left<<<"
+    ">>>HOLD THE LOCK 30 SECONDS<<<"
     {
-        "chi" "**>>还有10s<<**"
-    }
-
-    ">>>May the force be with you!<<<"
-    {
-        "chi" "**>>愿原力与你同在!<<**"
+        "chi" "**守住这个气闸30s,给队友争取时间**"
     }
 
     ">>>Inner areas being cleaned in 10 seconds<<<"
@@ -56,9 +76,19 @@
         "chi" "**内部区域10s后完成清理**"
     }
 
-    ">>>Right-Lock closing in 5 seconds<<<"
+    ">>>Lambda-shuttle departing in 15 seconds<<<"
     {
-        "chi" "**右边气闸5s后关闭**"
+        "chi" "**兰姆达穿梭机15s后离港**"
+    }
+
+    ">>>Left-Elevator leaving in 10 seconds<<<"
+    {
+        "chi" "**左边的电梯10s后离开**"
+    }
+
+    ">>>Left-Elevator unlocked<<<"
+    {
+        "chi" "**左边的电梯已解锁**"
     }
 
     ">>>Left-Lock closing in 5 seconds<<<"
@@ -66,59 +96,19 @@
         "chi" "**左边气闸5s后关闭**"
     }
 
+    ">>>Lightbridge deactivating in 8 sec<<<"
+    {
+        "chi" "**激光桥8s后失效**"
+    }
+
     ">>>Map created by FreeZe<<<"
     {
         "chi" "**地图作者:Freeze 翻译:xTeruZikk@风云社**"
     }
 
-    ">>>Zombies detected ! Try to escape from Death-Star<<<"
+    ">>>May the force be with you!<<<"
     {
-        "chi" "**检测到僵尸!尽你所能离开死星!**"
-    }
-
-    ">>>Spawn Sections losing air...vacuum in 10 seconds<<<"
-    {
-        "chi" "**出生点正在失压,10s后进入真空!**"
-    }
-
-    "Testers: Fuu Belafarinrod Senne Teddy"
-    {
-        "chi" "**测试者:Fuu Belafarinrod Senne Teddy**"
-    }
-
-    ">>>60 seconds until vacuum in Spawn Sections<<<"
-    {
-        "chi" "**出生点还有六十秒进入真空状态**"
-    }
-
-    ">>>30 seconds until vacuum<<<"
-    {
-        "chi" "**还有三十秒**"
-    }
-
-    ">>>Lambda-shuttle departing in 15 seconds<<<"
-    {
-        "chi" "**兰姆达穿梭机15s后离港**"
-    }
-
-    ">>>DEATH-STAR EXPLODING IN 5 SECONDS<<<"
-    {
-        "chi" "**死星将在5s后爆炸**"
-    }
-
-    ">>>!3!<<<"
-    {
-        "chi" "** **"
-    }
-
-    ">>>!2!<<<"
-    {
-        "chi" "** **"
-    }
-
-    ">>>!1!<<<"
-    {
-        "chi" "** **"
+        "chi" "**>>愿原力与你同在!<<**"
     }
 
     ">>>RAMP CLOSING<<<"
@@ -126,9 +116,29 @@
         "chi" "**机舱正在关闭,小心僵尸挠脚**"
     }
 
-    ">>>HOLD THE LOCK 30 SECONDS<<<"
+    ">>>Right-Elevator leaving in 10 seconds<<<"
     {
-        "chi" "**守住这个气闸30s,给队友争取时间**"
+        "chi" "**右边的电梯10s后离开**"
+    }
+
+    ">>>Right-Lock closing in 5 seconds<<<"
+    {
+        "chi" "**右边气闸5s后关闭**"
+    }
+
+    ">>>Spawn Sections losing air...vacuum in 10 seconds<<<"
+    {
+        "chi" "**出生点正在失压,10s后进入真空!**"
+    }
+
+    ">>>Zombies detected ! Try to escape from Death-Star<<<"
+    {
+        "chi" "**检测到僵尸!尽你所能离开死星!**"
+    }
+
+    "Testers: Fuu Belafarinrod Senne Teddy"
+    {
+        "chi" "**测试者:Fuu Belafarinrod Senne Teddy**"
     }
 
 }

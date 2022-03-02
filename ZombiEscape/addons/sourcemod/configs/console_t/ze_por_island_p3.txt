@@ -1,99 +1,69 @@
 "Console_T"
 {
-	"** Door opening in 15 sec **"
-	{
-		"chi"		"** 大门15秒后打开 **"
-	}
-	"** Second door opening in 10 seconds **"
-	{
-		"chi"		"** 第二扇门还有10秒打开 **"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"** Boat leaving in 20 sec **"
-	{
-		"chi"		"** 距离船只启动还有20秒 **"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"** Door opening in 25 sec **"
-	{
-		"chi"		"** 大门25秒后打开 **"
 
-	}
-	"** Door opening in 15 sec. **"
-	{
-		"chi"		"** 大门15秒后打开 **"
-	}
-	"** Door opening in 20 sec **"
-	{
-		"chi"		"** 大门20秒后 **"
-	}
-	"** Final door opening in 50 sec!!! **"
-	{
-		"chi"		"** 最后的大门将在50秒后打开!!! **"
+    "** Be ready! Zombies in bunker are coming!!! **"
+    {
+        "chi" "** 准备好!铁门里有一堆的僵尸!开枪!!开枪!! **"
+    }
 
-	}
-	"** Be ready! Zombies in bunker are coming!!! **"
-	{
-		"chi"		"** 准备好!铁门里有一堆的僵尸!开枪!!开枪!! **"
-	}
-	"**Elevator leaving in 30 sec **"
-	{
-		"chi"		"** 电梯30秒后启动 **"
-	}
-	"**USE THE BUTTON IN THE CONTROL PANNEL!**"
-	{
-		"chi"		"** 快去控制台按下按钮!**"
-	}
-	"** Bridge will be destroyed after 30 sec .**"
-	{
-		"chi"		"** 木桥30秒后摧毁 **"
-	}
-	"**Stage 1**"
-	{
-		"chi"		"** **"
-	}
-	"**welcome to ze_fat_hours_escape**"
-	{
-		"chi"		"** **"
-	}
-	"**map by yinyuehzixi**"
-	{
-		"chi"		"**地图作者: yinyuehzixi 地图翻译: 小三@风云社 "
-	}
-	"** re shen 50 miao **"
-	{
-		"chi"		"**热身50秒**"
-	}
-	"** WARMUP ROUND **"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL: EASY<<"
-	{
-		"chi"		"** **"
-	}
-	"***WELCOME TO PIZZA LAND***"
-	{
-		"chi"		"** **"
-	}
-	"***MAMA KOWAMA 2017***"
-	{
-		"chi"		"** **"
-	}
-	"<== Map made by qazlll456 [Hong Kong]==>"
-	{
-		"chi"		"** **"
-	}
-	"<== Also Thank [Syoudous] for helping testing the map ==>"
-	{
-		"chi"		"** **"
-	}
-	"**level 1**"
-	{
-		"chi"		"** **"
-	}
-	"**Map By Batnik_Reference.smd and ShotT **"
-	{
-		"chi"		"** **"
-	}
+    "** Boat leaving in 20 sec **"
+    {
+        "chi" "** 距离船只启动还有20秒 **"
+    }
+
+    "** Bridge will be destroyed after 30 sec .**"
+    {
+        "chi" "** 木桥30秒后摧毁 **"
+    }
+
+    "** Door opening in 15 sec **"
+    {
+        "chi" "** 大门15秒后打开 **"
+    }
+
+    "** Door opening in 15 sec. **"
+    {
+        "chi" "** 大门15秒后打开 **"
+    }
+
+    "** Door opening in 20 sec **"
+    {
+        "chi" "** 大门20秒后 **"
+    }
+
+    "** Door opening in 25 sec **"
+    {
+        "chi" "** 大门25秒后打开 **"
+    }
+
+    "** Final door opening in 50 sec!!! **"
+    {
+        "chi" "** 最后的大门将在50秒后打开!!! **"
+    }
+
+    "** Second door opening in 10 seconds **"
+    {
+        "chi" "** 第二扇门还有10秒打开 **"
+    }
+
+    "**Elevator leaving in 30 sec **"
+    {
+        "chi" "** 电梯30秒后启动 **"
+    }
+
+    "**USE THE BUTTON IN THE CONTROL PANNEL!**"
+    {
+        "chi" "** 快去控制台按下按钮!**"
+    }
+
 }

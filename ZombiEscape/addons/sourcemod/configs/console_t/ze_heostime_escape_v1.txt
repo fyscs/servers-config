@@ -1,114 +1,119 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "*** final stage heosdem ***"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** 10 seconds left ***"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "*** 10 secons left open heos ***"
+    {
+        "chi" "__null__"
     }
 
     "*** 120 seconds left open heos ***"
     {
-        "chi" "** **"
-    }
-
-    "*** 60 secons left open heos ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** 10 secons left open heos ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** last heos open! it closed in 2 seconds!! ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** GG ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** map by DJ_tusla ty for playing ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** heos moved in 10 seconds ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** stage 4 heos ride ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** side heos break in 10 seconds ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** side heos broke ****"
-    {
-        "chi" "** **"
-    }
-
-    "*** stage 2 maze ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** 50 seconds open heos ***"
-    {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "*** 30 seconds left ***"
     {
-        "chi" "** **"
-    }
-
-    "*** heos opend ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** 10 seconds left ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** stage 1 fail nade ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** 60 seconds left open heos ***"
-    {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "*** 30 seconds left open heos ***"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "*** 10 secons left open heos ***"
+    "*** 50 seconds open heos ***"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "*** 60 seconds left open heos ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 60 secons left open heos ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** final stage heosdem ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** GG ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** heos moved in 10 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** heos opend ***"
+    {
+        "chi" "__null__"
     }
 
     "*** heos opened ***"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "*** last heos open! it closed in 2 seconds!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** map by DJ_tusla ty for playing ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** side heos break in 10 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** side heos broke ****"
+    {
+        "chi" "__null__"
+    }
+
+    "*** stage 1 fail nade ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** stage 2 maze ***"
+    {
+        "chi" "__null__"
     }
 
     "*** stage 3 jump ***"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "*** stage 4 heos ride ***"
+    {
+        "chi" "__null__"
     }
 
 }

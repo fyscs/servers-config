@@ -1,33 +1,39 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "[PRESTIGE90] MODE"
+
+    "*** ... CONNECTION ESTABLISHED! ***"
     {
-        "chi" "[PRESTIGE90]模式"
+        "chi" "连接已建立!"
     }
 
-    "*** P90 ONLY! ***"
+    "*** ... WE NEED TO FIND ANOTHER WAY ***"
     {
-        "chi" "P90!RUSH B!"
+        "chi" "我们需要找到另一条路"
     }
 
-    "*** TELEPORT IN 20 SECONDS ***"
+    "*** [B]OATS START IN 5 SECONDS ***"
     {
-        "chi" "20秒后传送"
+        "chi" "小船5秒后启动"
     }
 
-    "*** MAP BY: eastern swiss power ***"
+    "*** [B]RIDGE ACTIVATING IN 5 SECONDS ***"
     {
-        "chi" "地图作者:eastern swiss power		汉化:小鱼干&xTeruZikk@風雲社"
+        "chi" "桥梁在5秒后激活"
     }
 
-    "*** THANKS TO: Syoudous ***"
+    "*** [B]RIDGE DEACTIVATING IN 10 SECONDS ***"
     {
-        "chi" "感谢:Syoudous"
+        "chi" "桥梁在10秒后失效"
     }
 
     "*** 10 SECONDS ***"
@@ -35,9 +41,49 @@
         "chi" "还有10秒钟"
     }
 
-    "*** LASER WALL ITEM PICKED UP ***"
+    "*** AND DODGE THE MATRIX CODE ***"
     {
-        "chi" "激光墙被拾起"
+        "chi" "躲避矩阵代码"
+    }
+
+    "*** CRACKING THE CODE OF THE DOOR... ***"
+    {
+        "chi" "正在破解门禁密码"
+    }
+
+    "*** DODGE THE LASERS ***"
+    {
+        "chi" "是愉快的跳刀时间"
+    }
+
+    "*** DOOR OPENS IN 20 SECONDS ***"
+    {
+        "chi" "门在20秒后打开"
+    }
+
+    "*** DOOR OPENS IN 30 SECONDS ***"
+    {
+        "chi" "门在30秒后打开"
+    }
+
+    "*** DUO WIN! ***"
+    {
+        "chi" "能不能送个SOLO!"
+    }
+
+    "*** ELEVATOR ARRIVES IN 40 SECONDS ***"
+    {
+        "chi" "电梯于40秒后到达"
+    }
+
+    "*** ELEVATOR LEAVES IN 15 SECONDS ***"
+    {
+        "chi" "电梯15秒后离开"
+    }
+
+    "*** F%&K, THE PATH IS BLOCKED... ***"
+    {
+        "chi" "F..K线路被封锁了..."
     }
 
     "*** FIDGET SPINNER PICKED UP ***"
@@ -45,44 +91,84 @@
         "chi" "急速旋转器被拾起"
     }
 
-    "*** YOU FAILED! ***"
+    "*** GIVE ME SOME SECONDS TO FIND THE CORRECT KEY ***"
     {
-        "chi" "你失败了!"
+        "chi" "给我点时间来找到正确的钥匙"
     }
 
-    "*** ZOMBIE ITEM SPAWNED! ***"
+    "*** GOOD JOB, YOU DID IT! ***"
     {
-        "chi" "僵尸物品生成"
+        "chi" "干得好,你做到了!"
     }
 
-    "THIS MAP IS PRIVATE!"
+    "*** HUMAN ITEM SPAWNED! ***"
     {
-        "chi" "此地图需要作者授权"
+        "chi" "人类物品生成!"
     }
 
-    "BECAUSE SOME PEOPLE (INCLUDING SERVER MANAGERS)"
+    "*** JIHAD ITEM PICKED UP ***"
     {
-        "chi" "因为有些人(包括服务器管理员们)"
+        "chi" "圣战被拾起"
     }
 
-    "DON'T TREAT MAPPERS WITH THEIR DESERVED RESPECT,"
+    "*** JUST A TRIM ***"
     {
-        "chi" "不给予地图绘制者他们应得的尊重"
+        "chi" "休整一下"
     }
 
-    "IS THE REASON WHY THIS MAP ISN'T AVAILABLE TO EVERYONE!"
+    "*** LASER WALL DEACTIVATES IN 50 SECONDS ***"
     {
-        "chi" "这就是为什么这张地图并不开放给所有人"
+        "chi" "激光墙在50秒后失效"
     }
 
-    "FOR THEIR HARD WORK AND TIME THEY SPENT,"
+    "*** LASER WALL ITEM PICKED UP ***"
     {
-        "chi" "为了他们的辛勤工作和所花的时间"
+        "chi" "激光墙被拾起"
     }
 
-    "IF YOU THINK YOU ARE A PART OF A COMMUNITY, ACT LIKE IT!"
+    "*** LASERS TURNING OFF IN 20 SECONDS ***"
     {
-        "chi" "如果你认为自己是这个社区的一部分,那就行动起来!"
+        "chi" "激光束在20秒后关闭"
+    }
+
+    "*** LOOK UP ***"
+    {
+        "chi" "向上看"
+    }
+
+    "*** MAP BY: eastern swiss power ***"
+    {
+        "chi" "地图作者:eastern swiss power		汉化:小鱼干&xTeruZikk@風雲社"
+    }
+
+    "*** MONEY ITEM PICKED UP ***"
+    {
+        "chi" "钱箱被拾起"
+    }
+
+    "*** ONE OF THE DOORS UNLOCK SOON ***"
+    {
+        "chi" "其中一扇门很快就会打开"
+    }
+
+    "*** OR GO TO JAIL! ***"
+    {
+        "chi" "加油兄弟们"
+    }
+
+    "*** P90 ONLY! ***"
+    {
+        "chi" "P90!RUSH B!"
+    }
+
+    "*** PLANT THE [B]OMB! ***"
+    {
+        "chi" "安装炸弹!"
+    }
+
+    "*** SECURITY SYSTEM SHUTTING DOWN... ***"
+    {
+        "chi" "安全系统正在关闭"
     }
 
     "*** SOLO WIN! ***"
@@ -95,39 +181,19 @@
         "chi" "最后一战!"
     }
 
-    "*** DUO WIN! ***"
+    "*** TELEPHONE DIALING... ***"
     {
-        "chi" "能不能送个SOLO!"
+        "chi" "拨号中"
     }
 
-    "*** TRIO WIN! ***"
+    "*** TELEPORT IN 20 SECONDS ***"
     {
-        "chi" "竟然有三个人活下来了"
+        "chi" "20秒后传送"
     }
 
-    "*** GOOD JOB, YOU DID IT! ***"
+    "*** THANKS TO: Syoudous ***"
     {
-        "chi" "干得好,你做到了!"
-    }
-
-    "*** JUST A TRIM ***"
-    {
-        "chi" "休整一下"
-    }
-
-    "*** F%&K, THE PATH IS BLOCKED... ***"
-    {
-        "chi" "F..K线路被封锁了..."
-    }
-
-    "*** ONE OF THE DOORS UNLOCK SOON ***"
-    {
-        "chi" "其中一扇门很快就会打开"
-    }
-
-    "*** ... WE NEED TO FIND ANOTHER WAY ***"
-    {
-        "chi" "我们需要找到另一条路"
+        "chi" "感谢:Syoudous"
     }
 
     "*** THIS LOOKS LIKE A DEAD END... ***"
@@ -135,119 +201,19 @@
         "chi" "这看起来是个死胡同..."
     }
 
+    "*** TIME FOR PLAN [B] ***"
+    {
+        "chi" "是时候转B了"
+    }
+
+    "*** TRIO WIN! ***"
+    {
+        "chi" "竟然有三个人活下来了"
+    }
+
     "*** TRY TO SETUP A PHONE CONNECTION ***"
     {
         "chi" "尝试设置电话连接"
-    }
-
-    "*** GIVE ME SOME SECONDS TO FIND THE CORRECT KEY ***"
-    {
-        "chi" "给我点时间来找到正确的钥匙"
-    }
-
-    "*** TELEPHONE DIALING... ***"
-    {
-        "chi" "拨号中"
-    }
-
-    "*** ... CONNECTION ESTABLISHED! ***"
-    {
-        "chi" "连接已建立!"
-    }
-
-    "*** LOOK UP ***"
-    {
-        "chi" "向上看"
-    }
-
-    "*** AND DODGE THE MATRIX CODE ***"
-    {
-        "chi" "躲避矩阵代码"
-    }
-
-    "*** ELEVATOR LEAVES IN 15 SECONDS ***"
-    {
-        "chi" "电梯15秒后离开"
-    }
-
-    "*** ZOMBIE TELEPORT IN 10 SECONDS ***"
-    {
-        "chi" "僵尸10秒后传送"
-    }
-
-    "*** ELEVATOR ARRIVES IN 40 SECONDS ***"
-    {
-        "chi" "电梯于40秒后到达"
-    }
-
-    "*** DOOR OPENS IN 20 SECONDS ***"
-    {
-        "chi" "门在20秒后打开"
-    }
-
-    "*** LASER WALL DEACTIVATES IN 50 SECONDS ***"
-    {
-        "chi" "激光墙在50秒后失效"
-    }
-
-    "*** [B]RIDGE DEACTIVATING IN 10 SECONDS ***"
-    {
-        "chi" "桥梁在10秒后失效"
-    }
-
-    "*** [B]RIDGE ACTIVATING IN 5 SECONDS ***"
-    {
-        "chi" "桥梁在5秒后激活"
-    }
-
-    "*** LASERS TURNING OFF IN 20 SECONDS ***"
-    {
-        "chi" "激光束在20秒后关闭"
-    }
-
-    "*** HUMAN ITEM SPAWNED! ***"
-    {
-        "chi" "人类物品生成!"
-    }
-
-    "*** [B]OATS START IN 5 SECONDS ***"
-    {
-        "chi" "小船5秒后启动"
-    }
-
-    "*** MONEY ITEM PICKED UP ***"
-    {
-        "chi" "钱箱被拾起"
-    }
-
-    "*** JIHAD ITEM PICKED UP ***"
-    {
-        "chi" "圣战被拾起"
-    }
-
-    "*** DODGE THE LASERS ***"
-    {
-        "chi" "是愉快的跳刀时间"
-    }
-
-    "*** OR GO TO JAIL! ***"
-    {
-        "chi" "加油兄弟们"
-    }
-
-    "*** SECURITY SYSTEM SHUTTING DOWN... ***"
-    {
-        "chi" "安全系统正在关闭"
-    }
-
-    "*** DOOR OPENS IN 30 SECONDS ***"
-    {
-        "chi" "门在30秒后打开"
-    }
-
-    "*** ZOMBIES TELEPORT IN 10 SECONDS ***"
-    {
-        "chi" "僵尸10秒后传送"
     }
 
     "*** WE DON'T HAVE THE RIGHT EQUIPMENT TO OPEN THE SAFE ***"
@@ -255,14 +221,24 @@
         "chi" "我们没有合适的工具打开保险箱"
     }
 
-    "*** TIME FOR PLAN [B] ***"
+    "*** YOU FAILED! ***"
     {
-        "chi" "是时候转B了"
+        "chi" "你失败了!"
     }
 
-    "*** PLANT THE [B]OMB! ***"
+    "*** ZOMBIE ITEM SPAWNED! ***"
     {
-        "chi" "安装炸弹!"
+        "chi" "僵尸物品生成"
+    }
+
+    "*** ZOMBIE TELEPORT IN 10 SECONDS ***"
+    {
+        "chi" "僵尸10秒后传送"
+    }
+
+    "*** ZOMBIES TELEPORT IN 10 SECONDS ***"
+    {
+        "chi" "僵尸10秒后传送"
     }
 
     "***DOOR BREAKS IN 15 SECONDS***"
@@ -270,9 +246,39 @@
         "chi" "门在15秒后打开"
     }
 
-    "*** CRACKING THE CODE OF THE DOOR... ***"
+    "[PRESTIGE90] MODE"
     {
-        "chi" "正在破解门禁密码"
+        "chi" "[PRESTIGE90]模式"
+    }
+
+    "BECAUSE SOME PEOPLE (INCLUDING SERVER MANAGERS)"
+    {
+        "chi" "因为有些人(包括服务器管理员们)"
+    }
+
+    "DON'T TREAT MAPPERS WITH THEIR DESERVED RESPECT,"
+    {
+        "chi" "不给予地图绘制者他们应得的尊重"
+    }
+
+    "FOR THEIR HARD WORK AND TIME THEY SPENT,"
+    {
+        "chi" "为了他们的辛勤工作和所花的时间"
+    }
+
+    "IF YOU THINK YOU ARE A PART OF A COMMUNITY, ACT LIKE IT!"
+    {
+        "chi" "如果你认为自己是这个社区的一部分,那就行动起来!"
+    }
+
+    "IS THE REASON WHY THIS MAP ISN'T AVAILABLE TO EVERYONE!"
+    {
+        "chi" "这就是为什么这张地图并不开放给所有人"
+    }
+
+    "THIS MAP IS PRIVATE!"
+    {
+        "chi" "此地图需要作者授权"
     }
 
 }

@@ -1,59 +1,44 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "***HOLD FOR 20 seconds***"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** Defend both sides***"
     {
-        "chi" "**防守20秒**"
+        "chi" "**防守住这两条路**"
     }
 
-    "***GO!GO!GO!***"
+    "*** GET OFF THE ELEVATOR!!!***"
     {
-        "chi" "**溜了溜了**"
+        "chi" "**撤离至电梯**"
     }
 
-    "***GO!***"
+    "*** KILL IT BEFORE IT DOES SOMETHING***"
     {
-        "chi" "**溜了溜了**"
+        "chi" "**淦死它**"
     }
 
-    "***HOLD FOR 30 seconds***"
+    "*** OH NO! ITS UKA UKA!!!***"
     {
-        "chi" "**防守30秒**"
+        "chi" "**这是什么玩意?作者给它起名为 'UKA”**"
     }
 
-    ">>LEVEL 1<<"
+    "*** SHOOT THE WALL ***"
     {
-        "chi" "**第一关**"
+        "chi" "**破坏这面墙壁**"
     }
 
-    ">>LEVEL 1 Extreme<<"
+    "*** UKA UKA IS DEFEATED! RUN TO SAFETY!***"
     {
-        "chi" "**一插一**"
-    }
-
-    ">>LEVEL 2<<"
-    {
-        "chi" "**第二关**"
-    }
-
-    ">>LEVEL 2 Extreme<<"
-    {
-        "chi" "**一插二**"
-    }
-
-    "LEVEL COMPLETED!!"
-    {
-        "chi" "**人类胜利**"
-    }
-
-    "***HOLD FOR 10 seconds***"
-    {
-        "chi" "**防守10秒**"
-    }
-
-    "***STAY ON GLOWING AREA OR...***"
-    {
-        "chi" "**呆在发光区域**"
+        "chi" "**UKA 被我们淦死了,撤离到安全区域**"
     }
 
     "***--- YOU WILL DIE WHEN BALLOON STARTS MOVING***"
@@ -61,9 +46,9 @@
         "chi" "**气球移动之时,人类暴毙之日**"
     }
 
-    "***TRY TO KILL IT WITH SOMETHING ELSE***"
+    "***APPLE-CANNON UNLOCKED FOR NEXT ROUNDS***"
     {
-        "chi" "**杀死它**"
+        "chi" "'APPLE-CANNON”**将在下一轮中解锁**"
     }
 
     "***CORTEX DOESNT TAKE DAMAGE FROM BULLETS***"
@@ -71,9 +56,64 @@
         "chi" "**子弹无法对早造成伤害**"
     }
 
+    "***DEFEND FOR 10 SECONDS!!***"
+    {
+        "chi" "**防守10秒**"
+    }
+
+    "***GO!***"
+    {
+        "chi" "**溜了溜了**"
+    }
+
+    "***GO!GO!GO!***"
+    {
+        "chi" "**溜了溜了**"
+    }
+
+    "***Hold for 10 seconds***"
+    {
+        "chi" "**防守10秒**"
+    }
+
+    "***HOLD FOR 10 seconds***"
+    {
+        "chi" "**防守10秒**"
+    }
+
+    "***HOLD FOR 20 seconds***"
+    {
+        "chi" "**防守20秒**"
+    }
+
+    "***HOLD FOR 30 seconds***"
+    {
+        "chi" "**防守30秒**"
+    }
+
     "***NOW FINISH THE LEVEL TO UNLOCK APPLE-CANNON***"
     {
         "chi" "**完成本关可载入 'APPLE-CANNON”**"
+    }
+
+    "***STAY ON GLOWING AREA OR...***"
+    {
+        "chi" "**呆在发光区域**"
+    }
+
+    "***TRY TO KILL IT WITH SOMETHING ELSE***"
+    {
+        "chi" "**杀死它**"
+    }
+
+    "***ZOMBIES INSIDE!!!***"
+    {
+        "chi" "**检测到僵尸**"
+    }
+
+    ">> NUKE LAUNCHED<<"
+    {
+        "chi" "**愿世界核平**"
     }
 
     ">> PLAYER HAS CHOSEN LEVEL 1<<"
@@ -86,9 +126,9 @@
         "chi" "**第二关载入**"
     }
 
-    ">> PLAYER HAS CHOSEN LEVEL EXTREME 2<<"
+    ">> PLAYER HAS CHOSEN LEVEL 3<<"
     {
-        "chi" "**一插二载入**"
+        "chi" "**第三关载入**"
     }
 
     ">> PLAYER HAS CHOSEN LEVEL EXTREME 1<<"
@@ -96,64 +136,9 @@
         "chi" "**一插一载入**"
     }
 
-    ">> NUKE LAUNCHED<<"
+    ">> PLAYER HAS CHOSEN LEVEL EXTREME 2<<"
     {
-        "chi" "**愿世界核平**"
-    }
-
-    "***ZOMBIES INSIDE!!!***"
-    {
-        "chi" "**检测到僵尸**"
-    }
-
-    "***APPLE-CANNON UNLOCKED FOR NEXT ROUNDS***"
-    {
-        "chi" "'APPLE-CANNON”**将在下一轮中解锁**"
-    }
-
-    "*** Defend both sides***"
-    {
-        "chi" "**防守住这两条路**"
-    }
-
-    "*** SHOOT THE WALL ***"
-    {
-        "chi" "**破坏这面墙壁**"
-    }
-
-    ">>LEVEL 3<<"
-    {
-        "chi" "**第三关**"
-    }
-
-    ">>LEVEL 3 Extreme<<"
-    {
-        "chi" "**一插三**"
-    }
-
-    "*** UKA UKA IS DEFEATED! RUN TO SAFETY!***"
-    {
-        "chi" "**UKA 被我们淦死了,撤离到安全区域**"
-    }
-
-    "***DEFEND FOR 10 SECONDS!!***"
-    {
-        "chi" "**防守10秒**"
-    }
-
-    "*** OH NO! ITS UKA UKA!!!***"
-    {
-        "chi" "**这是什么玩意?作者给它起名为 'UKA”**"
-    }
-
-    "*** KILL IT BEFORE IT DOES SOMETHING***"
-    {
-        "chi" "**淦死它**"
-    }
-
-    ">> PLAYER HAS CHOSEN LEVEL 3<<"
-    {
-        "chi" "**第三关载入**"
+        "chi" "**一插二载入**"
     }
 
     ">> PLAYER HAS CHOSEN LEVEL EXTREME 3<<"
@@ -161,9 +146,34 @@
         "chi" "**一插三载入**"
     }
 
-    "***Hold for 10 seconds***"
+    ">>LEVEL 1 Extreme<<"
     {
-        "chi" "**防守10秒**"
+        "chi" "**一插一**"
+    }
+
+    ">>LEVEL 1<<"
+    {
+        "chi" "**第一关**"
+    }
+
+    ">>LEVEL 2 Extreme<<"
+    {
+        "chi" "**一插二**"
+    }
+
+    ">>LEVEL 2<<"
+    {
+        "chi" "**第二关**"
+    }
+
+    ">>LEVEL 3 Extreme<<"
+    {
+        "chi" "**一插三**"
+    }
+
+    ">>LEVEL 3<<"
+    {
+        "chi" "**第三关**"
     }
 
     ">>PLAYER HAS PICKED UP APPLE-CANNON<<"
@@ -171,9 +181,9 @@
         "chi" "'APPLE-CANNON”**载入**"
     }
 
-    "*** GET OFF THE ELEVATOR!!!***"
+    "LEVEL COMPLETED!!"
     {
-        "chi" "**撤离至电梯**"
+        "chi" "**人类胜利**"
     }
 
 }

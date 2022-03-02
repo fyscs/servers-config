@@ -1,95 +1,119 @@
 "Console_T"
 {
-	"After a long trip to mars you finally land but something strange has happend..."
-	{
-		"chi"		"**火星之旅是如此的漫长!!!等等...这里貌似发生了可怕的事情...**"
-	}
-	"Map made by Xquality."
-	{
-		"chi"		"**地图制作:Xquality  汉化:小三@风云社**"
-	}
-	"Mini airlock opening in 5."
-	{
-		"chi"		"**气闸门5秒后打开**"
-	}
-	"Security airlock closing."
-	{
-		"chi"		"**安全门关闭**"
-	}
-	"Power generator Offline."
-	{
-		"chi"		"**发电机离线中**"
-	}
-	"Power generator waiting for restart."
-	{
-		"chi"		"**发电机等待重启中...**"
-	}
-	"Elivator coming back."
-	{
-		"chi"		"**电梯抵达**"
-	}
-	"Airlock opening in 20 secs."
-	{
-		"chi"		"**气闸门20秒后打开**"
-	}
-	"Power Generator Online."
-	{
-		"chi"		"**发电机重启完毕**"
-	}
-	"Airlock opening in 15 secs."
-	{
-		"chi"		"**铁门将在15秒后打开**"
-	}
-	"Airlock opening in 10 secs."
-	{
-		"chi"		"**铁门将在10秒后打开**"
-	}
-	"Airlock opening in 5 secs."
-	{
-		"chi"		"**铁门将在5秒后打开**"
-	}
-	"Airlock opening."
-	{
-		"chi"		"**溜了溜了!**"
-	}
-	"Pole doors closing."
-	{
-		"chi"		"**大门正在关闭**"
-	}
-	"Bunker closing in 40 secs"
-	{
-		"chi"		"**魔仙堡40秒后关闭**"
-	}
-	"Bunker closing in 30 secs"
-	{
-		"chi"		"**魔仙堡30秒后关闭**"
-	}
-	"Bunker closing in 20 secs"
-	{
-		"chi"		"**魔仙堡20秒后关闭**"
-	}
-	"Bunker closing in 10 secs"
-	{
-		"chi"		"**魔仙堡10秒后关闭**"
-	}
-	"Bunker closing in 5 secs"
-	{
-		"chi"		"**魔仙堡5秒后关闭**"
-	}
-	"Marslab self-destructing in..."
-	{
-		"chi"		"**古娜拉黑暗之神-乌呼啦呼-僵尸给我死**"
-	}
-	"Bunker Secure."
-	{
-		"chi"		"**魔仙堡安全了!**"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"**重生墙20秒后打开**"
-	}
-	"---Special Thank To:HZM654321 and JackBauer123---"
-	{
-		"chi"		"**特别鸣谢: HZM654321 and JackBauer123**"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "After a long trip to mars you finally land but something strange has happend..."
+    {
+        "chi" "**火星之旅是如此的漫长!!!等等...这里貌似发生了可怕的事情...**"
+    }
+
+    "Airlock opening in 10 secs."
+    {
+        "chi" "**铁门将在10秒后打开**"
+    }
+
+    "Airlock opening in 15 secs."
+    {
+        "chi" "**铁门将在15秒后打开**"
+    }
+
+    "Airlock opening in 20 secs."
+    {
+        "chi" "**气闸门20秒后打开**"
+    }
+
+    "Airlock opening in 5 secs."
+    {
+        "chi" "**铁门将在5秒后打开**"
+    }
+
+    "Airlock opening."
+    {
+        "chi" "**溜了溜了!**"
+    }
+
+    "Bunker closing in 10 secs"
+    {
+        "chi" "**魔仙堡10秒后关闭**"
+    }
+
+    "Bunker closing in 20 secs"
+    {
+        "chi" "**魔仙堡20秒后关闭**"
+    }
+
+    "Bunker closing in 30 secs"
+    {
+        "chi" "**魔仙堡30秒后关闭**"
+    }
+
+    "Bunker closing in 40 secs"
+    {
+        "chi" "**魔仙堡40秒后关闭**"
+    }
+
+    "Bunker closing in 5 secs"
+    {
+        "chi" "**魔仙堡5秒后关闭**"
+    }
+
+    "Bunker Secure."
+    {
+        "chi" "**魔仙堡安全了!**"
+    }
+
+    "Elivator coming back."
+    {
+        "chi" "**电梯抵达**"
+    }
+
+    "Map made by Xquality."
+    {
+        "chi" "**地图制作:Xquality  汉化:小三@风云社**"
+    }
+
+    "Marslab self-destructing in..."
+    {
+        "chi" "**古娜拉黑暗之神-乌呼啦呼-僵尸给我死**"
+    }
+
+    "Mini airlock opening in 5."
+    {
+        "chi" "**气闸门5秒后打开**"
+    }
+
+    "Pole doors closing."
+    {
+        "chi" "**大门正在关闭**"
+    }
+
+    "Power generator Offline."
+    {
+        "chi" "**发电机离线中**"
+    }
+
+    "Power Generator Online."
+    {
+        "chi" "**发电机重启完毕**"
+    }
+
+    "Power generator waiting for restart."
+    {
+        "chi" "**发电机等待重启中...**"
+    }
+
+    "Security airlock closing."
+    {
+        "chi" "**安全门关闭**"
+    }
+
 }

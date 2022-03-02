@@ -1,71 +1,99 @@
 "Console_T"
 {
-		"***ze_MindTree***"
-		{
-		"chi"               "***ze_MindTree***"
-		}
-		"***Map by XXMochi/XXPohmian***"
-		{
-		"chi"               "***地图作者:XXMochi/XXPohmian 汉化:龙鸣***"
-		}
-		"*** 30 ***"
-		{
-		"chi"               "*** 30 ***"
-		}
-		"*** 25 ***"
-		{
-		"chi"               "*** 25 ***"
-		}
-		"*** 40 ***"
-		{
-		"chi"               "*** 40 ***"
-		}
-		"*** 45 ***"
-		{
-		"chi"               "*** 45 ***"
-		}
-		"*** 35 ***"
-		{
-		"chi"               "*** 35 ***"
-		}
-		"< Barriers of The Mind >"
-		{
-		"chi"               "<树之壁障>"
-		}
-		"<Mind Nightmare>"
-		{
-		"chi"               "<心灵噩梦>"
-		}
-		"<The Minds Ego>"
-		{
-		"chi"               "<意识降临>"
-		}
-		"<Fell In Love>"
-		{
-		"chi"               "<爱之黑洞>"
-		}
-		"< Defend >"
-		{
-		"chi"               "<坚守住!>"
-		}
-		"<Super Ego>"
-		{
-		"chi"               "<意识反转>"
-		}
-		"<Mind Fruits>"
-		{
-		"chi"               "<心灵结界>"
-		}
-		"< Mind by XXMochi/XXPohmian >"
-		{
-		"chi"               "<地图作者:XXMochi/XXPohmian>"
-		}
-		"<Death Drive>"
-		{
-		"chi"               "<灵魂湮灭>"
-		}
-		"<Rejection>"
-		{
-		"chi"               "<思维突破>"
-		}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** 25 ***"
+    {
+        "chi" "*** 25 ***"
+    }
+
+    "*** 30 ***"
+    {
+        "chi" "*** 30 ***"
+    }
+
+    "*** 35 ***"
+    {
+        "chi" "*** 35 ***"
+    }
+
+    "*** 40 ***"
+    {
+        "chi" "*** 40 ***"
+    }
+
+    "*** 45 ***"
+    {
+        "chi" "*** 45 ***"
+    }
+
+    "***Map by XXMochi/XXPohmian***"
+    {
+        "chi" "***地图作者:XXMochi/XXPohmian 汉化:龙鸣***"
+    }
+
+    "***ze_MindTree***"
+    {
+        "chi" "***ze_MindTree***"
+    }
+
+    "< Barriers of The Mind >"
+    {
+        "chi" "<树之壁障>"
+    }
+
+    "< Defend >"
+    {
+        "chi" "<坚守住!>"
+    }
+
+    "< Mind by XXMochi/XXPohmian >"
+    {
+        "chi" "<地图作者:XXMochi/XXPohmian>"
+    }
+
+    "<Death Drive>"
+    {
+        "chi" "<灵魂湮灭>"
+    }
+
+    "<Fell In Love>"
+    {
+        "chi" "<爱之黑洞>"
+    }
+
+    "<Mind Fruits>"
+    {
+        "chi" "<心灵结界>"
+    }
+
+    "<Mind Nightmare>"
+    {
+        "chi" "<心灵噩梦>"
+    }
+
+    "<Rejection>"
+    {
+        "chi" "<思维突破>"
+    }
+
+    "<Super Ego>"
+    {
+        "chi" "<意识反转>"
+    }
+
+    "<The Minds Ego>"
+    {
+        "chi" "<意识降临>"
+    }
+
 }

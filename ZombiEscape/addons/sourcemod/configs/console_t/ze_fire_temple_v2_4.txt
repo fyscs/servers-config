@@ -1,99 +1,139 @@
 "Console_T"
 {
-	"<<< SHOOT THE CRYSTAL!!!! >>>"
-	{
-		"chi"		"**破坏红色水晶**"   
-	}
-	"<<< Defend for 45 seconds! >>>"
-	{
-		"chi"		"**防守45秒**"     
-	}
-	"<<< Zombies teleport in 20 seconds! >>>"
-	{
-		"chi"		"**僵尸将于20秒后传送**" 
-	}
-	"<<< Defend for 90 seconds! >>>"
-	{
-		"chi"		"**防守90秒**"   
-	}
-	"<<< SHOOT THE CRYSTAL!!! >>>"
-	{
-		"chi"		"**破坏红色水晶**"     
-	}
-	"<<< Back door will open in 30 seconds! >>>"
-	{
-		"chi"		"**门将在30秒后打开**" 
-	}
-	"<<< Boss fight coming soon! >>>"
-	{
-		"chi"		"**与BOSS进行决战**"     
-	}
-	"<<< Map made by Jllaneras >>>"
-	{
-		"chi"		"**地图制作:Jllaneras  汉化:小三@风云社**" 
-	}
-	"<<< Cage closing in 30 seconds! >>>"
-	{
-		"chi"		"**30秒后将开启传送**" 
-	}
-	"<<< Zombies teleport in 25 seconds! >>>"
-	{
-		"chi"		"**僵尸将于25秒后传送**"     
-	}
-	"<<< Defend for 30 seconds! >>>"
-	{
-		"chi"		"**防守30秒**" 
-	}
-	"<<< Zombies will teleport in 30 seconds! >>>"
-	{
-		"chi"		"**僵尸将于30秒后传送**"   
-	}
-	"<<< Zombies have been teleported! >>>"
-	{
-		"chi"		"**僵尸被关进了笼子里**" 
-	}
-	"<<< Back gate opening in 15 seconds! >>>"
-	{
-		"chi"		"**门将在15秒打开**"   
-	}
-	"<<< Zombies teleport in 40 seconds! >>>"
-	{
-		"chi"		"**僵尸将于40秒后传送**"     
-	}
-	"<<< Lift leaves in 40 seconds! >>>"
-	{
-		"chi"		"**平台40秒后上升**"     
-	}
-	"<<< 10 seconds left! >>>"
-	{
-		"chi"		"**剩余10秒**" 
-	}
-	"<<< Top door will open in 60 seconds! >>>"
-	{
-		"chi"		"**顶部大门将在60秒后打开**" 
-	}
-	"<<< Zombies will teleport in 10 seconds! >>>"
-	{
-		"chi"		"**僵尸将于10秒后传送**"     
-	}
-	"<<< 30 seconds left! >>>"
-	{
-		"chi"		"**还剩30秒**" 
-	}
-	"<<< 10 seconds left untill back door opens! >>>"
-	{
-		"chi"		"**还剩10秒**"     
-	}
-	"<<< Zombies teleport in 30 seconds! >>>"
-	{
-		"chi"		"**僵尸将于30秒后传送**"     
-	}
-	"<<< Box will break in 30 seconds! >>>"
-	{
-		"chi"		"**箱子将在30秒后碎裂**" 
-	}
-	"<<< SHOOT CRYSTAL!!!! >>>"
-	{
-		"chi"		"**破坏红色水晶**"     
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "<<< 10 seconds left untill back door opens! >>>"
+    {
+        "chi" "**还剩10秒**"
+    }
+
+    "<<< 10 seconds left! >>>"
+    {
+        "chi" "**剩余10秒**"
+    }
+
+    "<<< 30 seconds left! >>>"
+    {
+        "chi" "**还剩30秒**"
+    }
+
+    "<<< Back door will open in 30 seconds! >>>"
+    {
+        "chi" "**门将在30秒后打开**"
+    }
+
+    "<<< Back gate opening in 15 seconds! >>>"
+    {
+        "chi" "**门将在15秒打开**"
+    }
+
+    "<<< Boss fight coming soon! >>>"
+    {
+        "chi" "**与BOSS进行决战**"
+    }
+
+    "<<< Box will break in 30 seconds! >>>"
+    {
+        "chi" "**箱子将在30秒后碎裂**"
+    }
+
+    "<<< Cage closing in 30 seconds! >>>"
+    {
+        "chi" "**30秒后将开启传送**"
+    }
+
+    "<<< Defend for 30 seconds! >>>"
+    {
+        "chi" "**防守30秒**"
+    }
+
+    "<<< Defend for 45 seconds! >>>"
+    {
+        "chi" "**防守45秒**"
+    }
+
+    "<<< Defend for 90 seconds! >>>"
+    {
+        "chi" "**防守90秒**"
+    }
+
+    "<<< LET THE TROLLING COMMENCE >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Lift leaves in 40 seconds! >>>"
+    {
+        "chi" "**平台40秒后上升**"
+    }
+
+    "<<< Map made by Jllaneras >>>"
+    {
+        "chi" "**地图制作:Jllaneras  汉化:小三@风云社**"
+    }
+
+    "<<< SHOOT CRYSTAL!!!! >>>"
+    {
+        "chi" "**破坏红色水晶**"
+    }
+
+    "<<< SHOOT THE CRYSTAL!!! >>>"
+    {
+        "chi" "**破坏红色水晶**"
+    }
+
+    "<<< SHOOT THE CRYSTAL!!!! >>>"
+    {
+        "chi" "**破坏红色水晶**"
+    }
+
+    "<<< Top door will open in 60 seconds! >>>"
+    {
+        "chi" "**顶部大门将在60秒后打开**"
+    }
+
+    "<<< Zombies have been teleported! >>>"
+    {
+        "chi" "**僵尸被关进了笼子里**"
+    }
+
+    "<<< Zombies teleport in 20 seconds! >>>"
+    {
+        "chi" "**僵尸将于20秒后传送**"
+    }
+
+    "<<< Zombies teleport in 25 seconds! >>>"
+    {
+        "chi" "**僵尸将于25秒后传送**"
+    }
+
+    "<<< Zombies teleport in 30 seconds! >>>"
+    {
+        "chi" "**僵尸将于30秒后传送**"
+    }
+
+    "<<< Zombies teleport in 40 seconds! >>>"
+    {
+        "chi" "**僵尸将于40秒后传送**"
+    }
+
+    "<<< Zombies will teleport in 10 seconds! >>>"
+    {
+        "chi" "**僵尸将于10秒后传送**"
+    }
+
+    "<<< Zombies will teleport in 30 seconds! >>>"
+    {
+        "chi" "**僵尸将于30秒后传送**"
+    }
+
 }

@@ -1,188 +1,194 @@
 "Console_T"
 {
-	"** Totemo Roka lies ahead -- and beyond, the sacred city of Totghul Ka! **"
-	{
-		"chi"		"**圣地近在眼前,这里坐落着传说中的古代遗迹**"
-	}
-	"** Swim to the shore! We must reach the top! **"
-	{
-		"chi"		"**上岸,我们必须登上它的顶部**"
-	}
-	"** We have finally reached the Karuga archipelago... **"
-	{
-		"chi"		"**前面就是卡鲁加岛屿**"
-	}
-	"** Something moved upon touching the gem... **"
-	{
-		"chi"		"**谁触碰了白色宝石...?好像有什么事情要发生了...** '25”"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"** A relay of sorts seems to be moving in the back -- wait for something to happen! **"
-	{
-		"chi"		"**貌似有什么东西在运转...看看会有什么事情发生!**"
-	}
-	"** The way is clear! We must reach the top of Totemo Roka! **"
-	{
-		"chi"		"**道路清空了!我们要尽快登上圣地的顶峰!**"
-	}
-	"** We gotta hold our ground over here! **"
-	{
-		"chi"		"**守住这里** '20”"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"** This platform seems like some sort of lift -- do not let anything through!**"
-	{
-		"chi"		"**平台应该是一种电梯,别让僵尸过来**"
-	}
-	"** Some sort of contraption is rising! Do not let them reach us! **"
-	{
-		"chi"		"**等待电梯再次上升,别让僵尸过来**"
-	}
-	"** The temple seems to rely on elevators upon elevators... **"
-	{
-		"chi"		"**这个古城依靠着奇怪的电梯搭载生物...** '30”"
 
-	}
-	"** Keep it up! We cannot afford to have them break through! **"
-	{
-		"chi"		"**坚持住!别让僵尸突破我们的防线**"
-	}
-	"** We reached the first sacred seal! The path should clear soon! **"
-	{
-		"chi"		"**第一封印区域已解除,道路应该很快就打开了** '27”"
+    "** A relay of sorts seems to be moving in the back -- wait for something to happen! **"
+    {
+        "chi" "**貌似有什么东西在运转...看看会有什么事情发生!**"
+    }
 
-	}
-	"** The temple may become far more ruthless from this point on... **"
-	{
-		"chi"		"**从现在起,道路将会崎岖不平**"
-	}
-	"** HURRY BACK! The volcano is about to explode! **"
-	{
-		"chi"		"**火山即将爆发!尽快搭乘电梯前往顶部** '32”"
+    "** A SEAL WAS TAINTED BY THE INFECTED! THE GODS ARE ANGERED! **"
+    {
+        "chi" "**宝石被邪恶的力量侵蚀!守护者为此降下了神罚!**"
+    }
 
-	}
-	"** We must get to the top! **"
-	{
-		"chi"		"**尽快撤离至顶部**"
-	}
-	"** We are very close! Keep it up for the last bit! **"
-	{
-		"chi"		"**到达顶部还有一些距离!坚持住!** '25”"
-	}
-	"** It shouldnt be hard to reach the summit! **"
-	{
-		"chi"		"**登上山顶应该不难**"
+    "** A secret passageway is opening! **"
+    {
+        "chi" "**一条隐秘的道路打开了**"
+    }
 
-	}
-	"** We are almost on the summit! The sacred city of Tot-ghul Ka awaits in the horizon! **"
-	{
-		"chi"		"**塔顶快到了,可以看到古代遗迹清晰的坐落在地平线上** '25”"
+    "** C'mon get inside! We have to unlock the energy of the last gems before the volcano blows up! **"
+    {
+        "chi" "**快进来,我们要赶在火山爆发前释放最后一颗宝石的能量**"
+    }
 
-	}
-	"** One more push! HOLD IT! **"
-	{
-		"chi"		"**释放宝石的能量并守住邪灵**"
+    "** First the entrance will fold, then the inner plaza will show itself to us! **"
+    {
+        "chi" "**门没有完全关上,从裂缝里可以看出里面是一个广场**"
+    }
 
-	}
-	"** This is the second seal! A way should appear for us to reach Tot-ghul Ka will open shortly! **"
-	{
-		"chi"		"**第二封印区域已解除,应该会有一条通往古代遗迹的道路**"
-	}
-	"** The legend was true! A bridge slashes through the waters of an everblue sea! JUMP! **"
-	{
-		"chi"		"**传说是真的,一座隐藏的桥正在海面上升起,来场信仰之跃吧!**"
-	}
-	"** The gem only produced a faint sound, as if the effect was to be felt far away... **"
-	{
-		"chi"		"**宝石发出微弱的声音,即使在远处也能依稀听到**"
-	}
-	"** We need to find a way into the walled temple! Move it! **"
-	{
-		"chi"		"**该走了!寻找进入古代遗迹的道路!**"
-	}
-	"** This is the third seal! The gates will open soon! **"
-	{
-		"chi"		"**第三封印区域已解除!古代遗迹的门即将打开** '50”"
+    "** Hold your ground! The inner court is behind these doors, waiting for us! **"
+    {
+        "chi" "**保持防线!门后可能隐藏着巨大的宝藏**"
+    }
 
-	}
-	"** First the entrance will fold, then the inner plaza will show itself to us! **"
-	{
-		"chi"		"**门没有完全关上,从裂缝里可以看出里面是一个广场**"
-	}
-	"** MOVE IT! THEY ARE EVERYWHERE! **"
-	{
-		"chi"		"**别掉以轻心,邪灵无处不在!**"
-	}
-	"** Hold your ground! The inner court is behind these doors, waiting for us! **"
-	{
-		"chi"		"**保持防线!门后可能隐藏着巨大的宝藏**"
-	}
-	"** Cmon get inside! We have to unlock the energy of the last gems before the volcano blows up! **"
-	{
-		"chi"		"**快进来,我们要赶在火山爆发前释放最后一颗宝石的能量**"
-	}
-	"** YES! The final seal is right there! **"
-	{
-		"chi"		"**最后的封印之地就在那里!解除封印我们才能离开!**"
-	}
-	"** RESIST! WE ARE ABOUT TO GO! **"
-	{
-		"chi"		"**撤离至古代遗迹广场**"
-	}
-	"** A secret passageway is opening! **"
-	{
-		"chi"		"**一条隐秘的道路打开了**"
-	}
-	"** This is our chance to break free from the Totema Curse! **"
-	{
-		"chi"		"**这是我们逃离古代遗迹的最后机会!**"
-	}
-	"** Touch the gem at the helm -- there cant be much time left! **"
-	{
-		"chi"		"**快释放最后一颗宝石的能量,我们所剩时间不多了**"
-	}
-	"** We cracked the last seal! Our escape pod should be here soon! **"
-	{
-		"chi"		"**最后的封印解除了,救援很快就会到达**"
-	}
-	"** A SEAL WAS TAINTED BY THE INFECTED! THE GODS ARE ANGERED! **"
-	{
-		"chi"		"**宝石被邪恶的力量侵蚀!守护者为此降下了神罚!**"
-	}
-	"** YOU ARE DONE! **"
-	{
-		"chi"		"**你完蛋了**"
-	}
-	"Thanks test play POSSESSION server!!"
-	{
-		"chi"		"**非常感谢实装了此地图的社区服务器**"
-	}
-	"Map made by Ocelot"
-	{
-		"chi"		"**地图制作: Ocelot  汉化: 小三@风云社**"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"** **"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"**不久将选择一种模式**"
-	}
-	"** It shouldn't be hard to reach the summit! **"
-	{
-		"chi"		"**攀登至顶部应该不难**"
-	}
-	"** C'mon get inside! We have to unlock the energy of the last gems before the volcano blows up! **"
-	{
-		"chi"		"**快进来,我们要赶在火山爆发前释放最后一颗宝石的能量**"
-	}
-	"** Touch the gem at the helm -- there can't be much time left! **"
-	{
-		"chi"		"**快释放最后一颗宝石的能量,我们所剩时间不多了**"
-	}
-	"Please wait 20 seconds before the door opening"
-	{
-		"chi"		"**防守20秒直到大门打开**"
-	}
+    "** HURRY BACK! The volcano is about to explode! **"
+    {
+        "chi" "**火山即将爆发!尽快搭乘电梯前往顶部** '32”"
+    }
+
+    "** It shouldn't be hard to reach the summit! **"
+    {
+        "chi" "**攀登至顶部应该不难**"
+    }
+
+    "** Keep it up! We cannot afford to have them break through! **"
+    {
+        "chi" "**坚持住!别让僵尸突破我们的防线**"
+    }
+
+    "** MOVE IT! THEY ARE EVERYWHERE! **"
+    {
+        "chi" "**别掉以轻心,邪灵无处不在!**"
+    }
+
+    "** One more push! HOLD IT! **"
+    {
+        "chi" "**释放宝石的能量并守住邪灵**"
+    }
+
+    "** RESIST! WE ARE ABOUT TO GO! **"
+    {
+        "chi" "**撤离至古代遗迹广场**"
+    }
+
+    "** Some sort of contraption is rising! Do not let them reach us! **"
+    {
+        "chi" "**等待电梯再次上升,别让僵尸过来**"
+    }
+
+    "** Something moved upon touching the gem... **"
+    {
+        "chi" "**谁触碰了白色宝石...?好像有什么事情要发生了...** '25”"
+    }
+
+    "** Swim to the shore! We must reach the top! **"
+    {
+        "chi" "**上岸,我们必须登上它的顶部**"
+    }
+
+    "** The gem only produced a faint sound, as if the effect was to be felt far away... **"
+    {
+        "chi" "**宝石发出微弱的声音,即使在远处也能依稀听到**"
+    }
+
+    "** The legend was true! A bridge slashes through the waters of an everblue sea! JUMP! **"
+    {
+        "chi" "**传说是真的,一座隐藏的桥正在海面上升起,来场信仰之跃吧!**"
+    }
+
+    "** The temple may become far more ruthless from this point on... **"
+    {
+        "chi" "**从现在起,道路将会崎岖不平**"
+    }
+
+    "** The temple seems to rely on elevators upon elevators... **"
+    {
+        "chi" "**这个古城依靠着奇怪的电梯搭载生物...** '30”"
+    }
+
+    "** The way is clear! We must reach the top of Totemo Roka! **"
+    {
+        "chi" "**道路清空了!我们要尽快登上圣地的顶峰!**"
+    }
+
+    "** This is our chance to break free from the Totema Curse! **"
+    {
+        "chi" "**这是我们逃离古代遗迹的最后机会!**"
+    }
+
+    "** This is the second seal! A way should appear for us to reach Tot-ghul Ka will open shortly! **"
+    {
+        "chi" "**第二封印区域已解除,应该会有一条通往古代遗迹的道路**"
+    }
+
+    "** This is the third seal! The gates will open soon! **"
+    {
+        "chi" "**第三封印区域已解除!古代遗迹的门即将打开** '50”"
+    }
+
+    "** This platform seems like some sort of lift -- do not let anything through!**"
+    {
+        "chi" "**平台应该是一种电梯,别让僵尸过来**"
+    }
+
+    "** Totemo Roka lies ahead -- and beyond, the sacred city of Totghul Ka! **"
+    {
+        "chi" "**圣地近在眼前,这里坐落着传说中的古代遗迹**"
+    }
+
+    "** Touch the gem at the helm -- there can't be much time left! **"
+    {
+        "chi" "**快释放最后一颗宝石的能量,我们所剩时间不多了**"
+    }
+
+    "** We are almost on the summit! The sacred city of Tot-ghul Ka awaits in the horizon! **"
+    {
+        "chi" "**塔顶快到了,可以看到古代遗迹清晰的坐落在地平线上** '25”"
+    }
+
+    "** We are very close! Keep it up for the last bit! **"
+    {
+        "chi" "**到达顶部还有一些距离!坚持住!** '25”"
+    }
+
+    "** We cracked the last seal! Our escape pod should be here soon! **"
+    {
+        "chi" "**最后的封印解除了,救援很快就会到达**"
+    }
+
+    "** We gotta hold our ground over here! **"
+    {
+        "chi" "**守住这里** '20”"
+    }
+
+    "** We have finally reached the Karuga archipelago... **"
+    {
+        "chi" "**前面就是卡鲁加岛屿**"
+    }
+
+    "** We must get to the top! **"
+    {
+        "chi" "**尽快撤离至顶部**"
+    }
+
+    "** We need to find a way into the walled temple! Move it! **"
+    {
+        "chi" "**该走了!寻找进入古代遗迹的道路!**"
+    }
+
+    "** We reached the first sacred seal! The path should clear soon! **"
+    {
+        "chi" "**第一封印区域已解除,道路应该很快就打开了** '27”"
+    }
+
+    "** YES! The final seal is right there! **"
+    {
+        "chi" "**最后的封印之地就在那里!解除封印我们才能离开!**"
+    }
+
+    "** YOU ARE DONE! **"
+    {
+        "chi" "**你完蛋了**"
+    }
+
 }

@@ -1,371 +1,379 @@
 "Console_T"
 {
-	"++DIFFICULTY LEVEL : EASY++"
-	{
-		"chi"		"**+难度等级: 萌新+**"
-	}
-	"++GO TO THE PATH YOU WANT++"
-	{
-		"chi"		"**+选择一条路, 想去哪就去哪+**"
-	}
-	"++MAP BY GARGANTUA++"
-	{
-		"chi"		"**地图制作: GARGANTUA		汉化: 小三@风云社**"
-	}
-	"++EDITED BY: Hallucinogenic Troll++"
-	{
-		"chi"		"**路线: 破碎的集装箱**"
-	}
-	"**stage 1**"
-	{
-		"chi"		"***第一阶段***"
-	}
-	"++DOOR WILL OPEN IN 90 SECONDS++"
-	{
-		"chi"		"**+门将在90秒后打开+**"
-	}
-	"++HELICOPTER LEAVING IN 5 SECONDS++"
-	{
-		"chi"		"**+5秒后直升机撤离+**"
-	}
-	"++DOOR WILL OPEN IN 60 SECONDS++"
-	{
-		"chi"		"**门将在60秒后打开**"
-	}
-	"++HELICOPTER IS LEAVING++"
-	{
-		"chi"		"**直升机要撤离了**"
-	}
-	"++DOOR WILL OPEN IN 30 SECONDS++"
-	{
-		"chi"		"**门将在30秒后打开**"
-	}
-	"++DOOR WILL OPEN IN 15 SECONDS++"
-	{
-		"chi"		"**门将在15秒后打开**"
-	}
-	"++DOOR WILL OPEN IN 10 SECONDS++"
-	{
-		"chi"		"**门将在10秒后打开**"
-	}
-	"++DOOR WILL OPEN IN 5 SECONDS++"
-	{
-		"chi"		"**门将在5秒后打开**"
-	}
-	"++DOOR IS NOW OPEN!!++"
-	{
-		"chi"		"**门开了**"
-	}
-	"++DOOR WILL CLOSE IN 10 SECONDS++"
-	{
-		"chi"		"**门将在10秒后关闭**"
-	}
-	"++DOOR WILL CLOSE IN 5 SECONDS++"
-	{
-		"chi"		"**门将在5秒后关闭**"
-	}
-	"++DOOR IS CLOSING++"
-	{
-		"chi"		"**核弹来袭**"
-	}
-	"++INCOMING AIRSTRIKE!!++"
-	{
-		"chi"		"**僵尸给我死**"
-	}
-	"++EASY MODE COMPLETED++"
-	{
-		"chi"		"**已通过萌新难度**"
-	}
-	"++NEXT LEVEL IS NORMAL++"
-	{
-		"chi"		"**下一关: 咸鱼嫩度**"
-	}
-	"++DIFFICULTY LEVEL : NORMAL++"
-	{
-		"chi"		"**当前难度: 咸鱼**"
-	}
-	"++GO ONLY UPON THE ROOF++"
-	{
-		"chi"		"**路线: 屋顶**"
-	}
-	"++GLASS BREAK IN 20 SECONDS++"
-	{
-		"chi"		"**玻璃20秒后碎裂**"
-	}
-	"++GLASS IS BROKEN++"
-	{
-		"chi"		"**玻璃碎了, 撤退!**"
-	}
-	"++ZOMBIES ARE INSIDE!!YOU LOSE++"
-	{
-		"chi"		"**检测到僵尸!人类失败!**"
-	}
-	"++NORMAL MODE COMPLETED++"
-	{
-		"chi"		"**咸鱼难度完成**"
-	}
-	"++NEXT LEVEL IS HARD++"
-	{
-		"chi"		"**下一关: 萌新司机难度**"
-	}
-	"++DIFFICULTY LEVEL : HARD++"
-	{
-		"chi"		"**当前难度: 萌新司机**"
-	}
-	"++GO ONLY UNDER THE ROOFS++"
-	{
-		"chi"		"**路线: 木箱**"
-	}
-	"++ONE PLAYER WILL PRESS THE ACTIVE CRUSHER BUTTON++"
-	{
-		"chi"		"**需要一名玩家触发开关**"
-	}
-	"++THE OTHER COVER A WHILE++"
-	{
-		"chi"		"**其他人在触发开关之前掩护他**"
-	}
-	"++WELL DONE!! YOU PRESSED THE BUTTON++"
-	{
-		"chi"		"**做得好, 按钮已经被按下**"
-	}
-	"++HOLD FOR 25 SECONDS++"
-	{
-		"chi"		"**继续防守25秒**"
-	}
-	"++HOLD FOR 15 SECONDS++"
-	{
-		"chi"		"**继续防守15秒**"
-	}
-	"++HOLD FOR MORE 5 SECONDS++"
-	{
-		"chi"		"**继续防守5秒**"
-	}
-	"++RUN!!!!++"
-	{
-		"chi"		"**撤退**"
-	}
-	"++WAIT 15 SECONDS TO CRUSHER MOVE++"
-	{
-		"chi"		"**等待15秒!**"
-	}
-	"++WAIT 5 SECONDS TO CRUSHER MOVE++"
-	{
-		"chi"		"**还剩5秒**"
-	}
-	"++CRUSHER IS MOVING!! GO!!!++"
-	{
-		"chi"		"**撤退**"
-	}
-	"++ZOMBIE PROTECT WALL BREAK IN 15 SECONDS++"
-	{
-		"chi"		"**僵尸梯子15秒后打开**"
-	}
-	"++HELICOPTER COMES IN 75 SECONDS++"
-	{
-		"chi"		"**防守75秒**"
-	}
-	"++ZOMBIE PROTECT WALL IS BROKEN!! BE CAREFUL!!++"
-	{
-		"chi"		"**僵尸梯子处于开放状态, 小心**"
-	}
-	"++HELICOPTER COMES IN 60 SECONDS++"
-	{
-		"chi"		"**防守60秒**"
-	}
-	"++HELICOPTER COMES IN 45 SECONDS++"
-	{
-		"chi"		"**防守45秒**"
-	}
-	"++HELICOPTER COMES IN 30 SECONDS++"
-	{
-		"chi"		"**防守30秒**"
-	}
-	"++HELICOPTER COMES IN 15 SECONDS++"
-	{
-		"chi"		"**防守15秒**"
-	}
-	"++HELICOPTER COMES IN 10 SECONDS++"
-	{
-		"chi"		"**防守10秒**"
-	}
-	"++HELICOPTER COMES IN 5 SECONDS++"
-	{
-		"chi"		"**防守5秒**"
-	}
-	"++HELICOPTER IS COMING++"
-	{
-		"chi"		"**救援直升机正在赶来**"
-	}
-	"++HELICOPTER WILL LEAVE IN 15 SECONDS++"
-	{
-		"chi"		"**15秒后直升机撤离**"
-	}
-	"++HELICOPTER WILL LEAVE IN 10 SECONDS++"
-	{
-		"chi"		"**10秒后直升机撤离**"
-	}
-	"++HELICOPTER WILL LEAVE IN 5 SECONDS++"
-	{
-		"chi"		"**5秒后直升机撤离**"
-	}
-	"++ZOMBIES ARE IN THE HELICOPTER!!YOU LOSE++"
-	{
-		"chi"		"**直升机检测到僵尸, 人类失败!**"
-	}
-	"++HARD MODE COMPLETED++"
-	{
-		"chi"		"**萌新司机难度完成**"
-	}
-	"++NEXT LEVEL IS EXTREME++"
-	{
-		"chi"		"**下一关: 老司机难度**"
-	}
-	"++DIFFICULTY LEVEL : EXTREME++"
-	{
-		"chi"		"**当前难度: 老司机**"
-	}
-	"++GO ONLY BEHIND THE BASES++"
-	{
-		"chi"		"**路线: 基地后方**"
-	}
-	"++WALL BREAK IN 30 SECONDS++"
-	{
-		"chi"		"**墙壁30秒后碎裂**"
-	}
-	"++WALL BREAK IN 15 SECONDS++"
-	{
-		"chi"		"**墙壁15秒后碎裂**"
-	}
-	"++WALL IS BROKEN!!RUN++"
-	{
-		"chi"		"**撤退**"
-	}
-	"++ ONE PLAYER GO TO THE BUTTON++"
-	{
-		"chi"		"**开关已经被触发**"
-	}
-	"++THE OTHERS COVER A WHILE++"
-	{
-		"chi"		"**其他人继续防守**"
-	}
-	"++GLASS WILL BREAK IN 30 SECONDS++"
-	{
-		"chi"		"**玻璃30秒后碎裂**"
-	}
-	"++GLASS WILL BREAK IN 15 SECONDS++"
-	{
-		"chi"		"**玻璃15秒后碎裂**"
-	}
-	"++GLASS IS BROKEN!!!++"
-	{
-		"chi"		"**玻璃碎掉了**"
-	}
-	"++WALL IS BROKEN!!!!++"
-	{
-		"chi"		"**墙碎裂了**"
-	}
-	"++WALL IS BROKEN!! RUN!!++"
-	{
-		"chi"		"**墙碎裂了, 撤退**"
-	}
-	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
-	{
-		"chi"		"**热身: 40秒**"
-	}
-	"++EXTREME MODE COMPLETED++"
-	{
-		"chi"		"**老司机难度完成**"
-	}
-	"++NEXT LEVEL IS RACE++"
-	{
-		"chi"		"**完成所有难度, 下一关将自由选择关卡**"
-	}
-	"++DIFFICULTY LEVEL: RACE MOD++"
-	{
-		"chi"		"**当前难度: 选择关卡**"
-	}
-	"++YOU HAVE 45 SECONDS TO CHOSE THE LEVEL++"
-	{
-		"chi"		"**你们有45秒钟的时间选择难度**"
-	}
-	"++ONLY 1 CAN GO TO THE ADMIN BUTTON++"
-	{
-		"chi"		"**只能选择一次**"
-	}
-	"++YOU HAVE 20 SECONDS TO CHOSE THE LEVEL++"
-	{
-		"chi"		"**你们有20秒钟的时间选择难度**"
-	}
-	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
-	{
-		"chi"		"** **"
-	}
-	"*** map created by thas ***"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"** **"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"** **"
-	}
-	"ESCAPE FROM ZOMBIELAND"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"**Map by TheIceTiger!**"
-	{
-		"chi"		"** **"
-	}
-	"**Map made by Binbow**"
-	{
-		"chi"		"** **"
-	}
-	"***Modified by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	"***60 SECONDS LEFT***"
-	{
-		"chi"		"** **"
-	}
-	"***WARM UP ROUIND***"
-	{
-		"chi"		"** **"
-	}
-	"***WELCOME TO PIZZA LAND***"
-	{
-		"chi"		"** **"
-	}
-	"***MAMA KOWAMA 2017***"
-	{
-		"chi"		"** **"
-	}
-	"**level 1**"
-	{
-		"chi"		"** **"
-	}
-	"**Map By Batnik_Reference.smd and ShotT **"
-	{
-		"chi"		"** **"
-	}
-	"---Feedback:noojeff@gmail.com---"
-	{
-		"chi"		"** **"
-	}
-	"---Special Thank To:HZM654321 and JackBauer123---"
-	{
-		"chi"		"** **"
-	}
-	"---***This map will mute your sound if you are outside the lunar base***---"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "++ ONE PLAYER GO TO THE BUTTON++"
+    {
+        "chi" "**开关已经被触发**"
+    }
+
+    "++ADMIN HAS PRESSED KILL ALL BUTTON++"
+    {
+        "chi" "__null__"
+    }
+
+    "++CRUSHER IS MOVING!! GO!!!++"
+    {
+        "chi" "**撤退**"
+    }
+
+    "++DIFFICULTY LEVEL : EASY++"
+    {
+        "chi" "**+难度等级: 萌新+**"
+    }
+
+    "++DIFFICULTY LEVEL : EXTREME++"
+    {
+        "chi" "**当前难度: 老司机**"
+    }
+
+    "++DIFFICULTY LEVEL : HARD++"
+    {
+        "chi" "**当前难度: 萌新司机**"
+    }
+
+    "++DIFFICULTY LEVEL : NORMAL++"
+    {
+        "chi" "**当前难度: 咸鱼**"
+    }
+
+    "++DIFFICULTY LEVEL: RACE MOD++"
+    {
+        "chi" "**当前难度: 选择关卡**"
+    }
+
+    "++DOOR IS CLOSING++"
+    {
+        "chi" "**核弹来袭**"
+    }
+
+    "++DOOR IS NOW OPEN!!++"
+    {
+        "chi" "**门开了**"
+    }
+
+    "++DOOR WILL CLOSE IN 10 SECONDS++"
+    {
+        "chi" "**门将在10秒后关闭**"
+    }
+
+    "++DOOR WILL CLOSE IN 5 SECONDS++"
+    {
+        "chi" "**门将在5秒后关闭**"
+    }
+
+    "++DOOR WILL OPEN IN 10 SECONDS++"
+    {
+        "chi" "**门将在10秒后打开**"
+    }
+
+    "++DOOR WILL OPEN IN 15 SECONDS++"
+    {
+        "chi" "**门将在15秒后打开**"
+    }
+
+    "++DOOR WILL OPEN IN 30 SECONDS++"
+    {
+        "chi" "**门将在30秒后打开**"
+    }
+
+    "++DOOR WILL OPEN IN 5 SECONDS++"
+    {
+        "chi" "**门将在5秒后打开**"
+    }
+
+    "++DOOR WILL OPEN IN 60 SECONDS++"
+    {
+        "chi" "**门将在60秒后打开**"
+    }
+
+    "++DOOR WILL OPEN IN 90 SECONDS++"
+    {
+        "chi" "**+门将在90秒后打开+**"
+    }
+
+    "++EASY MODE COMPLETED++"
+    {
+        "chi" "**已通过萌新难度**"
+    }
+
+    "++EDITED BY: Hallucinogenic Troll++"
+    {
+        "chi" "**路线: 破碎的集装箱**"
+    }
+
+    "++EXTREME MODE COMPLETED++"
+    {
+        "chi" "**老司机难度完成**"
+    }
+
+    "++GLASS BREAK IN 20 SECONDS++"
+    {
+        "chi" "**玻璃20秒后碎裂**"
+    }
+
+    "++GLASS IS BROKEN!!!++"
+    {
+        "chi" "**玻璃碎掉了**"
+    }
+
+    "++GLASS IS BROKEN++"
+    {
+        "chi" "**玻璃碎了, 撤退!**"
+    }
+
+    "++GLASS WILL BREAK IN 15 SECONDS++"
+    {
+        "chi" "**玻璃15秒后碎裂**"
+    }
+
+    "++GLASS WILL BREAK IN 30 SECONDS++"
+    {
+        "chi" "**玻璃30秒后碎裂**"
+    }
+
+    "++GO ONLY BEHIND THE BASES++"
+    {
+        "chi" "**路线: 基地后方**"
+    }
+
+    "++GO ONLY UNDER THE ROOFS ++"
+    {
+        "chi" "__null__"
+    }
+
+    "++GO ONLY UPON THE ROOF++"
+    {
+        "chi" "**路线: 屋顶**"
+    }
+
+    "++GO TO THE PATH YOU WANT++"
+    {
+        "chi" "**+选择一条路, 想去哪就去哪+**"
+    }
+
+    "++HARD MODE COMPLETED++"
+    {
+        "chi" "**萌新司机难度完成**"
+    }
+
+    "++HELICOPTER COMES IN 10 SECONDS++"
+    {
+        "chi" "**防守10秒**"
+    }
+
+    "++HELICOPTER COMES IN 15 SECONDS++"
+    {
+        "chi" "**防守15秒**"
+    }
+
+    "++HELICOPTER COMES IN 30 SECONDS++"
+    {
+        "chi" "**防守30秒**"
+    }
+
+    "++HELICOPTER COMES IN 45 SECONDS++"
+    {
+        "chi" "**防守45秒**"
+    }
+
+    "++HELICOPTER COMES IN 5 SECONDS++"
+    {
+        "chi" "**防守5秒**"
+    }
+
+    "++HELICOPTER COMES IN 60 SECONDS++"
+    {
+        "chi" "**防守60秒**"
+    }
+
+    "++HELICOPTER COMES IN 75 SECONDS++"
+    {
+        "chi" "**防守75秒**"
+    }
+
+    "++HELICOPTER IS COMING++"
+    {
+        "chi" "**救援直升机正在赶来**"
+    }
+
+    "++HELICOPTER IS LEAVING++"
+    {
+        "chi" "**直升机要撤离了**"
+    }
+
+    "++HELICOPTER LEAVING IN 5 SECONDS++"
+    {
+        "chi" "**+5秒后直升机撤离+**"
+    }
+
+    "++HELICOPTER WILL LEAVE IN 10 SECONDS++"
+    {
+        "chi" "**10秒后直升机撤离**"
+    }
+
+    "++HELICOPTER WILL LEAVE IN 15 SECONDS++"
+    {
+        "chi" "**15秒后直升机撤离**"
+    }
+
+    "++HELICOPTER WILL LEAVE IN 5 SECONDS++"
+    {
+        "chi" "**5秒后直升机撤离**"
+    }
+
+    "++HOLD FOR 15 SECONDS++"
+    {
+        "chi" "**继续防守15秒**"
+    }
+
+    "++HOLD FOR 25 SECONDS++"
+    {
+        "chi" "**继续防守25秒**"
+    }
+
+    "++HOLD FOR MORE 5 SECONDS++"
+    {
+        "chi" "**继续防守5秒**"
+    }
+
+    "++INCOMING AIRSTRIKE!!++"
+    {
+        "chi" "**僵尸给我死**"
+    }
+
+    "++MAP BY GARGANTUA++"
+    {
+        "chi" "**地图制作: GARGANTUA		汉化: 小三@风云社**"
+    }
+
+    "++NEXT LEVEL IS EXTREME++"
+    {
+        "chi" "**下一关: 老司机难度**"
+    }
+
+    "++NEXT LEVEL IS HARD++"
+    {
+        "chi" "**下一关: 萌新司机难度**"
+    }
+
+    "++NEXT LEVEL IS NORMAL++"
+    {
+        "chi" "**下一关: 咸鱼嫩度**"
+    }
+
+    "++NEXT LEVEL IS RACE++"
+    {
+        "chi" "**完成所有难度, 下一关将自由选择关卡**"
+    }
+
+    "++NORMAL MODE COMPLETED++"
+    {
+        "chi" "**咸鱼难度完成**"
+    }
+
+    "++ONE PLAYER WILL PRESS THE ACTIVE CRUSHER BUTTON++"
+    {
+        "chi" "**需要一名玩家触发开关**"
+    }
+
+    "++ONLY 1 CAN GO TO THE ADMIN BUTTON++"
+    {
+        "chi" "**只能选择一次**"
+    }
+
+    "++RUN!!!!++"
+    {
+        "chi" "**撤退**"
+    }
+
+    "++THE OTHER COVER A WHILE++"
+    {
+        "chi" "**其他人在触发开关之前掩护他**"
+    }
+
+    "++THE OTHERS COVER A WHILE++"
+    {
+        "chi" "**其他人继续防守**"
+    }
+
+    "++WAIT 15 SECONDS TO CRUSHER MOVE++"
+    {
+        "chi" "**等待15秒!**"
+    }
+
+    "++WAIT 5 SECONDS TO CRUSHER MOVE++"
+    {
+        "chi" "**还剩5秒**"
+    }
+
+    "++WALL BREAK IN 15 SECONDS++"
+    {
+        "chi" "**墙壁15秒后碎裂**"
+    }
+
+    "++WALL BREAK IN 30 SECONDS++"
+    {
+        "chi" "**墙壁30秒后碎裂**"
+    }
+
+    "++WALL IS BROKEN!! RUN!!++"
+    {
+        "chi" "**墙碎裂了, 撤退**"
+    }
+
+    "++WALL IS BROKEN!!!!++"
+    {
+        "chi" "**墙碎裂了**"
+    }
+
+    "++WALL IS BROKEN!!RUN++"
+    {
+        "chi" "**撤退**"
+    }
+
+    "++WELL DONE!! YOU PRESSED THE BUTTON++"
+    {
+        "chi" "**做得好, 按钮已经被按下**"
+    }
+
+    "++YOU HAVE 20 SECONDS TO CHOSE THE LEVEL++"
+    {
+        "chi" "**你们有20秒钟的时间选择难度**"
+    }
+
+    "++YOU HAVE 45 SECONDS TO CHOSE THE LEVEL++"
+    {
+        "chi" "**你们有45秒钟的时间选择难度**"
+    }
+
+    "++ZOMBIE PROTECT WALL BREAK IN 15 SECONDS++"
+    {
+        "chi" "**僵尸梯子15秒后打开**"
+    }
+
+    "++ZOMBIE PROTECT WALL IS BROKEN!! BE CAREFUL!!++"
+    {
+        "chi" "**僵尸梯子处于开放状态, 小心**"
+    }
+
+    "++ZOMBIES ARE IN THE HELICOPTER!!YOU LOSE++ "
+    {
+        "chi" "__null__"
+    }
+
+    "++ZOMBIES ARE INSIDE!!YOU LOSE++ "
+    {
+        "chi" "__null__"
+    }
+
 }

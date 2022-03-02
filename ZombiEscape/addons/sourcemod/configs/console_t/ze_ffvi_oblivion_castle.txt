@@ -1,174 +1,154 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "Door opens in 30 Seconds!"
-    {
-        "chi" "** **"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "Door opens in 15 Seconds"
-    {
-        "chi" "** **"
-    }
-
-    "Difficulty : Easy"
-    {
-        "chi" "** **"
-    }
-
-    "Difficulty : Normal"
-    {
-        "chi" "** **"
-    }
-
-    "Difficulty: Hard"
-    {
-        "chi" "** **"
-    }
-
-    "Difficulty : Extreme"
-    {
-        "chi" "** **"
-    }
-
-    "ifficulty : Impossible"
-    {
-        "chi" "** **"
-    }
 
     "***Map by Lord. Death.***"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "Bombs Exploding in 20 Seconds, Hold!"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "Doors Opening in 20 Seconds!"
+    "Difficulty : Easy"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "Doors Opening!"
+    "Difficulty : Extreme"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "Metal Breaks in 15 Seconds"
+    "Difficulty : Normal"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "Metal Broke"
+    "Difficulty: Hard"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "Teleporting Zombies! Fall back!"
+    "Door opens in 15 Seconds"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "Ladders Opening in 10 Seconds!"
+    "Door opens in 30 Seconds!"
     {
-        "chi" "** **"
-    }
-
-    "Explosion in 20 Seconds!"
-    {
-        "chi" "** **"
-    }
-
-    "Doors Opening 30 Seconds!"
-    {
-        "chi" "** **"
-    }
-
-    "Doors Opening in 15 Seconds!"
-    {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "Doors are Opening!"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "Teleporting Zombies!"
+    "Doors Opening 30 Seconds!"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "Metal Breaks in 20 Seconds"
+    "Doors Opening in 15 Seconds!"
     {
-        "chi" "** **"
-    }
-
-    "Metal Broke"
-    {
-        "chi" "** **"
-    }
-
-    "Teleporting Zombies in 10 Seconds!"
-    {
-        "chi" "** **"
-    }
-
-    "Metal Breaks in 35 Seconds!"
-    {
-        "chi" "** **"
-    }
-
-    "Metal Breaks in 20 Seconds"
-    {
-        "chi" "** **"
-    }
-
-    "Metal Broke!"
-    {
-        "chi" "** **"
-    }
-
-    "Teleporting Zombies!"
-    {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "Doors opening in 20 Seconds!"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "Doors Opening in 20 Seconds!"
+    {
+        "chi" "__null__"
+    }
+
+    "Doors Opening!"
+    {
+        "chi" "__null__"
+    }
+
+    "Explosion in 20 Seconds!"
+    {
+        "chi" "__null__"
     }
 
     "Hold for 10 Seconds!"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "Teleporting Zombies in 5 seconds!"
+    "Ladders Opening in 10 Seconds!"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "Shot this Glass!"
+    "Metal Breaks in 15 Seconds"
     {
-        "chi" "** **"
-    }
-
-    "Shot this Glass!"
-    {
-        "chi" "** **"
-    }
-
-    "Shot this Glass!"
-    {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "Metal Breaks in 15 Seconds!"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "Metal Breaks in 20 Seconds"
+    {
+        "chi" "__null__"
+    }
+
+    "Metal Breaks in 35 Seconds!"
+    {
+        "chi" "__null__"
+    }
+
+    "Metal Broke"
+    {
+        "chi" "__null__"
+    }
+
+    "Metal Broke!"
+    {
+        "chi" "__null__"
+    }
+
+    "Shot this Glass!"
+    {
+        "chi" "__null__"
+    }
+
+    "Teleporting Zombies in 10 Seconds!"
+    {
+        "chi" "__null__"
+    }
+
+    "Teleporting Zombies in 5 seconds!"
+    {
+        "chi" "__null__"
+    }
+
+    "Teleporting Zombies!"
+    {
+        "chi" "__null__"
+    }
+
+    "Teleporting Zombies! Fall back!"
+    {
+        "chi" "__null__"
     }
 
 }

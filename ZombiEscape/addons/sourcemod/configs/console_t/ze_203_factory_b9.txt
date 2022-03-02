@@ -1,18 +1,24 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "Open the underground warehouse door in 30 seconds"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "30 seconds later the elevator starts"
     {
-        "chi" "**仓库门:30秒**"
+        "chi" "**电梯:30秒**"
     }
 
-    "Hanger Transfer"
+    "45 seconds after the knife jump"
     {
-        "chi" "**僵尸传送**"
+        "chi" "__null__"
     }
 
     "Close the door after 25 seconds"
@@ -20,24 +26,9 @@
         "chi" "**大门关闭:25秒**"
     }
 
-    "45 seconds after the knife jump"
+    "Hanger Transfer"
     {
-        "chi" "** **"
-    }
-
-    "The switch is dead. We have to switch on again."
-    {
-        "chi" "**发电机离线,必须去重启**"
-    }
-
-    "The generator is behind the left"
-    {
-        "chi" "**发电机在左边**"
-    }
-
-    "Okay, now we can press the elevator button."
-    {
-        "chi" "**电力重启,电梯恢复运行**"
+        "chi" "**僵尸传送**"
     }
 
     "Obstacles break in 10 seconds"
@@ -45,19 +36,14 @@
         "chi" "**障碍碎裂:10秒**"
     }
 
-    "The right iron plate was opened."
-    {
-        "chi" "**右边的铁门碎裂**"
-    }
-
     "Oh, no gas leaks. We have to squat through this area."
     {
         "chi" "**发生毒气泄漏,我们必须蹲着通过这篇区域**"
     }
 
-    "There is a switch at the end to turn off the gas."
+    "Okay, now we can press the elevator button."
     {
-        "chi" "** 前方有个安全阀门,去关闭它**"
+        "chi" "**电力重启,电梯恢复运行**"
     }
 
     "Open the door in 10 seconds"
@@ -65,9 +51,9 @@
         "chi" "**大门:10秒**"
     }
 
-    "The ventilation pipe is closed. Come on."
+    "Open the underground warehouse door in 30 seconds"
     {
-        "chi" "**紧急措施启动,红色警报解除**"
+        "chi" "**仓库门:30秒**"
     }
 
     "The elevator will start in 30 seconds."
@@ -75,9 +61,29 @@
         "chi" "**电梯:30秒**"
     }
 
-    "30 seconds later the elevator starts"
+    "The generator is behind the left"
     {
-        "chi" "**电梯:30秒**"
+        "chi" "**发电机在左边**"
+    }
+
+    "The right iron plate was opened."
+    {
+        "chi" "**右边的铁门碎裂**"
+    }
+
+    "The switch is dead. We have to switch on again."
+    {
+        "chi" "**发电机离线,必须去重启**"
+    }
+
+    "The ventilation pipe is closed. Come on."
+    {
+        "chi" "**紧急措施启动,红色警报解除**"
+    }
+
+    "There is a switch at the end to turn off the gas."
+    {
+        "chi" "** 前方有个安全阀门,去关闭它**"
     }
 
     "Transfer the hanger in 35 seconds"

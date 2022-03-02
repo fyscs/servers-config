@@ -1,109 +1,24 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "**Generator Elevator leaving in 25 s**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** Cargo secction upper door opening in 15s**"
     {
-        "chi" "**电梯25秒后离开**"
+        "chi" "**15秒后货舱分离上车门打开**"
     }
 
-    "**Generator Elevator leaving 15 s**"
+    "** Cargo secction upper door opening in 5s**"
     {
-        "chi" "**电梯15秒后离开**"
-    }
-
-    "**Generator Elevator is leaving**"
-    {
-        "chi" "**电梯正在离开**"
-    }
-
-    "**Double doors sealing in 15s**"
-    {
-        "chi" "**双重门15S后封闭**"
-    }
-
-    "**Double doors sealing in 5s**"
-    {
-        "chi" "**双重门5S后封闭**"
-    }
-
-    "**Sealing double doors**"
-    {
-        "chi" "**正在封闭双重门**"
-    }
-
-    "**Sealing elevator acces for security**"
-    {
-        "chi" "**封闭电梯入口, 确保安全**"
-    }
-
-    "**Door malfunction**"
-    {
-        "chi" "**门出现了故障**"
-    }
-
-    "**Giant red star is unstable**"
-    {
-        "chi" "**红巨星很不稳定!**"
-    }
-
-    "**Go to the top of the station and find scape pods**"
-    {
-        "chi" "**去车站找顶棚**"
-    }
-
-    "**Map by Eddie**"
-    {
-        "chi" "**地图作者: Eddie  地图翻译: 海苔@风云社**"
-    }
-
-    "**Special thanks to Kaemon and Hannibal (SPA)**"
-    {
-        "chi" "**特别感谢Kaemon和Hannibal(SPA)**"
-    }
-
-    "**And also thanks to i3D Community and Supreme Elite Community**"
-    {
-        "chi" "**也感谢i3D社区和Superme Elite社区**"
-    }
-
-    "**맵 제작자 : Eddie**"
-    {
-        "chi" "**地图作者: Eddie  地图翻译: 海苔@风云社**"
-    }
-
-    "**맵 조력자 : Kaemon, Hannibal (SPA)**"
-    {
-        "chi" "**特别感谢Kaemon和Hannibal(SPA)**"
-    }
-
-    "**Map ported by [ＥSＣAＰＥ] Loving You **"
-    {
-        "chi" "**地图来自[ＥSＣAＰＥ] Loving You**"
-    }
-
-    "**맵 수정자 : [ＥSＣAＰＥ] Loving You**"
-    {
-        "chi" "**地图来自[ＥSＣAＰＥ] Loving You**"
-    }
-
-    "**소나기, 러빙유 탈출좀비 서버를 많이 기억해주세요.**"
-    {
-        "chi" "**请大家多多记住[ＥSＣAＰＥ] Loving You僵尸服务器**"
-    }
-
-    "**Cargo lift leaving in 5 s**"
-    {
-        "chi" "**货梯5秒后离开**"
-    }
-
-    "**Cargo lift leaving in 30 s**"
-    {
-        "chi" "**货梯30秒后离开**"
-    }
-
-    "**Cargo lift leaving in 15 s**"
-    {
-        "chi" "**货梯15秒后离开**"
+        "chi" "**5秒后货舱分离上车门打开**"
     }
 
     "**A blackhole!**"
@@ -111,44 +26,34 @@
         "chi" "**一个黑洞!**"
     }
 
-    "**What the hell...**"
+    "**All zombies will get teleported to the infected pod**"
     {
-        "chi" "**我勒个去. . . **"
+        "chi" "**所有僵尸都会被传送到受感染的吊舱上**"
     }
 
-    "**Pods are leaving the dangerous area**"
+    "**And also thanks to i3D Community and Supreme Elite Community**"
     {
-        "chi" "**吊舱正在离开危险区域**"
+        "chi" "**也感谢i3D社区和Superme Elite社区**"
     }
 
-    "**The star has exploded**"
+    "**Cargo lift leaving in 15 s**"
     {
-        "chi" "**这颗巨星爆炸了**"
+        "chi" "**货梯15秒后离开**"
     }
 
-    "**Push zombies at the rear section of each pod**"
+    "**Cargo lift leaving in 30 s**"
     {
-        "chi" "**把僵尸推到每个吊舱的后面**"
+        "chi" "**货梯30秒后离开**"
     }
 
-    "**Sections will separate from the pod and will fall to the blackhole**"
+    "**Cargo lift leaving in 5 s**"
     {
-        "chi" "**部分将从吊舱中分离并落入黑洞**"
+        "chi" "**货梯5秒后离开**"
     }
 
-    "**Rear section sealing in 15 s**"
+    "**Central section leaving the structure**"
     {
-        "chi" "**15秒后封闭后部**"
-    }
-
-    "**Rear section sealing in 5 s**"
-    {
-        "chi" "**5秒后封闭后部**"
-    }
-
-    "**Rear section leaving the structure**"
-    {
-        "chi" "**离开这个结构的后部**"
+        "chi" "**离开这个结构的中段**"
     }
 
     "**Central section sealing in 15 s**"
@@ -161,71 +66,6 @@
         "chi" "**5秒中段封闭**"
     }
 
-    "**Central section leaving the structure**"
-    {
-        "chi" "**离开这个结构的中段**"
-    }
-
-    "**Station will not resist the explosion**"
-    {
-        "chi" "**车站无法抵抗爆炸**"
-    }
-
-    "**Gravity of the blackhole is very strong**"
-    {
-        "chi" "**黑洞的引力很强**"
-    }
-
-    "**Pods will departure in 2 minutes**"
-    {
-        "chi" "**吊舱两分钟后出发**"
-    }
-
-    "**Giant Star is in critical situation**"
-    {
-        "chi" "**巨星处境危急**"
-    }
-
-    "**Pod acces door will close in 10 s**"
-    {
-        "chi" "**舱门将在10秒内关闭**"
-    }
-
-    "**Pod acces door will close in 5 s**"
-    {
-        "chi" "**舱门将在5秒内关闭**"
-    }
-
-    "**Pods are leaving the platform**"
-    {
-        "chi" "**吊舱正在离开站台**"
-    }
-
-    "**Pod acces door will close in 20 s**"
-    {
-        "chi" "**舱门将在20秒内关闭**"
-    }
-
-    "**Pods wil departure in 1 minute**"
-    {
-        "chi" "**船舱一分钟后就要出发. **"
-    }
-
-    "**You should cover both escape pods**"
-    {
-        "chi" "**你必须要掩护这两个逃生舱**"
-    }
-
-    "**All zombies will get teleported to the infected pod**"
-    {
-        "chi" "**所有僵尸都会被传送到受感染的吊舱上**"
-    }
-
-    "**Do not allow zombies to infect pods**"
-    {
-        "chi" "**不要让僵尸感染吊舱**"
-    }
-
     "**Closing gravity tower upper acces**"
     {
         "chi" "**关闭重力塔上部通道**"
@@ -236,19 +76,189 @@
         "chi" "**板条箱锁定重力塔入口**"
     }
 
+    "**Do not allow zombies to infect pods**"
+    {
+        "chi" "**不要让僵尸感染吊舱**"
+    }
+
+    "**Door malfunction**"
+    {
+        "chi" "**门出现了故障**"
+    }
+
+    "**Double doors sealing in 15s**"
+    {
+        "chi" "**双重门15S后封闭**"
+    }
+
+    "**Double doors sealing in 5s**"
+    {
+        "chi" "**双重门5S后封闭**"
+    }
+
+    "**Generator Elevator is leaving**"
+    {
+        "chi" "**电梯正在离开**"
+    }
+
+    "**Generator Elevator leaving 15 s**"
+    {
+        "chi" "**电梯15秒后离开**"
+    }
+
+    "**Generator Elevator leaving in 25 s**"
+    {
+        "chi" "**电梯25秒后离开**"
+    }
+
+    "**Giant red star is unstable**"
+    {
+        "chi" "**红巨星很不稳定!**"
+    }
+
+    "**Giant Star is in critical situation**"
+    {
+        "chi" "**巨星处境危急**"
+    }
+
+    "**Go to the top of the station and find scape pods**"
+    {
+        "chi" "**去车站找顶棚**"
+    }
+
+    "**Gravity of the blackhole is very strong**"
+    {
+        "chi" "**黑洞的引力很强**"
+    }
+
     "**Gravity tower acces breaking crate in 5s**"
     {
         "chi" "**重力塔在5s内进入破碎箱**"
     }
 
-    "** Cargo secction upper door opening in 15s**"
+    "**Map by Eddie**"
     {
-        "chi" "**15秒后货舱分离上车门打开**"
+        "chi" "**地图作者: Eddie  地图翻译: 海苔@风云社**"
     }
 
-    "** Cargo secction upper door opening in 5s**"
+    "**Map ported by [ＥSＣAＰＥ] Loving You **"
     {
-        "chi" "**5秒后货舱分离上车门打开**"
+        "chi" "**地图来自[ＥSＣAＰＥ] Loving You**"
+    }
+
+    "**Pod acces door will close in 10 s**"
+    {
+        "chi" "**舱门将在10秒内关闭**"
+    }
+
+    "**Pod acces door will close in 20 s**"
+    {
+        "chi" "**舱门将在20秒内关闭**"
+    }
+
+    "**Pod acces door will close in 5 s**"
+    {
+        "chi" "**舱门将在5秒内关闭**"
+    }
+
+    "**Pods are leaving the dangerous area**"
+    {
+        "chi" "**吊舱正在离开危险区域**"
+    }
+
+    "**Pods are leaving the platform**"
+    {
+        "chi" "**吊舱正在离开站台**"
+    }
+
+    "**Pods wil departure in 1 minute**"
+    {
+        "chi" "**船舱一分钟后就要出发. **"
+    }
+
+    "**Pods will departure in 2 minutes**"
+    {
+        "chi" "**吊舱两分钟后出发**"
+    }
+
+    "**Push zombies at the rear section of each pod**"
+    {
+        "chi" "**把僵尸推到每个吊舱的后面**"
+    }
+
+    "**Rear section leaving the structure**"
+    {
+        "chi" "**离开这个结构的后部**"
+    }
+
+    "**Rear section sealing in 15 s**"
+    {
+        "chi" "**15秒后封闭后部**"
+    }
+
+    "**Rear section sealing in 5 s**"
+    {
+        "chi" "**5秒后封闭后部**"
+    }
+
+    "**Sealing double doors**"
+    {
+        "chi" "**正在封闭双重门**"
+    }
+
+    "**Sealing elevator acces for security**"
+    {
+        "chi" "**封闭电梯入口, 确保安全**"
+    }
+
+    "**Sections will separate from the pod and will fall to the blackhole**"
+    {
+        "chi" "**部分将从吊舱中分离并落入黑洞**"
+    }
+
+    "**Special thanks to Kaemon and Hannibal (SPA)**"
+    {
+        "chi" "**特别感谢Kaemon和Hannibal(SPA)**"
+    }
+
+    "**Station will not resist the explosion**"
+    {
+        "chi" "**车站无法抵抗爆炸**"
+    }
+
+    "**The star has exploded**"
+    {
+        "chi" "**这颗巨星爆炸了**"
+    }
+
+    "**What the hell...**"
+    {
+        "chi" "**我勒个去. . . **"
+    }
+
+    "**You should cover both escape pods**"
+    {
+        "chi" "**你必须要掩护这两个逃生舱**"
+    }
+
+    "**맵 수정자 : [ＥSＣAＰＥ] Loving You**"
+    {
+        "chi" "**地图来自[ＥSＣAＰＥ] Loving You**"
+    }
+
+    "**맵 제작자 : Eddie**"
+    {
+        "chi" "**地图作者: Eddie  地图翻译: 海苔@风云社**"
+    }
+
+    "**맵 조력자 : Kaemon, Hannibal (SPA)**"
+    {
+        "chi" "**特别感谢Kaemon和Hannibal(SPA)**"
+    }
+
+    "**소나기, 러빙유 탈출좀비 서버를 많이 기억해주세요.**"
+    {
+        "chi" "**请大家多多记住[ＥSＣAＰＥ] Loving You僵尸服务器**"
     }
 
 }

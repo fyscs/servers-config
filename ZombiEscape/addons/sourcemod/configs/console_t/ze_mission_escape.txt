@@ -1,13 +1,24 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "lll PLANT LEAVE IN 50 SEC lll"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "lll DOOR UNLOCK IN 30 SEC lll"
     {
-        "chi" "**运输机:50秒**"
+        "chi" "**解锁:30秒**"
+    }
+
+    "lll GATE OPEN IN 30 SEC lll"
+    {
+        "chi" "**围栏:30秒**"
     }
 
     "lll GATE OPEN IN 35 SEC lll"
@@ -15,19 +26,14 @@
         "chi" "**围栏:35秒**"
     }
 
-    "lll DOOR UNLOCK IN 30 SEC lll"
+    "lll PLANT LEAVE IN 50 SEC lll"
     {
-        "chi" "**解锁:30秒**"
+        "chi" "**运输机:50秒**"
     }
 
     "lll THE DOOR EXPLOSION 35 SEC lll"
     {
         "chi" "**爆破:35秒**"
-    }
-
-    "lll GATE OPEN IN 30 SEC lll"
-    {
-        "chi" "**围栏:30秒**"
     }
 
 }

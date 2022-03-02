@@ -1,129 +1,109 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "***THE PIZZA IS AGGRESSIVE***"
-    {
-        "chi" "** **"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "***FINAL DOOR CLOSING IN 60 SECONDS***"
-    {
-        "chi" "** **"
-    }
 
-    "***FINAL DOOR CLOSING IN 30 SECONDS***"
+    "***BETA VERSION - MORE THINGS TO COME***"
     {
-        "chi" "** **"
-    }
-
-    "***FINAL DOOR CLOSING IN 15 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***FINAL DOOR CLOSING IN 10 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***FINAL DOOR CLOSING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***FINAL DOOR CLOSING IN 4 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***FINAL DOOR CLOSING IN 3 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***FINAL DOOR CLOSING IN 2 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***FINAL DOOR CLOSING IN 1 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***FINAL DOOR IS CLOSING***"
-    {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "***BOMB PLANTED***"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "***FALL BACK***"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "***TOWER ELEVATOR LEAVING IN 10 SECONDS***"
+    "***FINAL DOOR CLOSING IN 1 SECONDS***"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "***TOWER ELEVATOR LEAVING IN 5 SECONDS***"
+    "***FINAL DOOR CLOSING IN 10 SECONDS***"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "***FINAL DOOR CLOSING IN 15 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***FINAL DOOR CLOSING IN 2 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***FINAL DOOR CLOSING IN 3 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***FINAL DOOR CLOSING IN 30 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***FINAL DOOR CLOSING IN 4 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***FINAL DOOR CLOSING IN 5 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***FINAL DOOR CLOSING IN 60 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***FINAL DOOR IS CLOSING***"
+    {
+        "chi" "__null__"
+    }
+
+    "***GENERATING LAYOUT...***"
+    {
+        "chi" "__null__"
+    }
+
+    "***MAP BY LUFFAREN***"
+    {
+        "chi" "__null__"
+    }
+
+    "***THE PIZZA IS AGGRESSIVE***"
+    {
+        "chi" "__null__"
     }
 
     "***TOWER ELEVATOR IS LEAVING***"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "***MAP BY LUFFAREN***"
+    "***TOWER ELEVATOR LEAVING IN 10 SECONDS***"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "***MAP BY LUFFAREN***"
+    "***TOWER ELEVATOR LEAVING IN 5 SECONDS***"
     {
-        "chi" "** **"
-    }
-
-    "***MAP BY LUFFAREN***"
-    {
-        "chi" "** **"
-    }
-
-    "***BETA VERSION - MORE THINGS TO COME***"
-    {
-        "chi" "** **"
-    }
-
-    "***BETA VERSION - MORE THINGS TO COME***"
-    {
-        "chi" "** **"
-    }
-
-    "***BETA VERSION - MORE THINGS TO COME***"
-    {
-        "chi" "** **"
-    }
-
-    "***GENERATING LAYOUT...***"
-    {
-        "chi" "** **"
-    }
-
-    "***GENERATING LAYOUT...***"
-    {
-        "chi" "** **"
-    }
-
-    "***GENERATING LAYOUT...***"
-    {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
 }

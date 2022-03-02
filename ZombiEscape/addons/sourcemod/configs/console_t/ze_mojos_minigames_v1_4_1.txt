@@ -1,239 +1,229 @@
 "Console_T"
 {
-	"* * * STAND in your platform of choice by the time the countdown ENDS * * *"
-	{
-		"chi"		"**在倒计时结束前站在你所选的平台上**"
-	}
-	"* * * If you don't complete a map objective you will take 20% of your health as UNHEALABLE DAMAGE - try to play by the rules * * *"
-	{
-		"chi"		"**如果你没有完成一个地图目标, 你将会扣除1/5的生命值作为无法治愈的伤害 --试着按规则行事**"
-	}
-	"* * * Choose the first MINIGAME * * *"
-	{
-		"chi"		"**选择第一个小游戏**"
-	}
-	"* * * SLIDE RACE! * * *"
-	{
-		"chi"		"**滑行赛跑**"
-	}
-	"* * * Make it to the end or die trying * * *"
-	{
-		"chi"		"**走到尽头, 否则就死了**"
-	}
-	"* * * Teleporting everyone in the slide race in 20 seconds * * *"
-	{
-		"chi"		"**20秒后将所有人传送到滑行赛跑**"
-	}
-	"* * * If you don't reach the exit by then you will get punished! * * *"
-	{
-		"chi"		"**如果你到不了出口, 你就会受到惩罚**"
-	}
-	"* * * Choose the next MAP * * *"
-	{
-		"chi"		"**选择下一张地图**"
-	}
-	"* * * RAT MAZE! * * *"
-	{
-		"chi"		"**老鼠迷宫**"
-	}
-	"* * * The exit is in one corner, there are breakable and passable walls, and zombies can set up delayed bombs - good luck! * * *"
-	{
-		"chi"		"**出口在一个角落, 有可被打破和隐藏的墙, 僵尸可以设置延迟炸弹-祝你好运**"
-	}
-	"* * * Teleporting everyone still in the maze in 20 seconds * * *"
-	{
-		"chi"		"**将在20秒后传送所有人到迷宫**"
-	}
-	"* * * If you don't make it, you will get punished! * * *"
-	{
-		"chi"		"**如果你没有完成目标, 你将会受到惩罚**"
-	}
-	"* * * VALLEY! * * *"
-	{
-		"chi"		"**山谷!**"
-	}
-	"* * * Jumps, surf, ramps, traps - a lovely chill map * * *"
-	{
-		"chi"		"**跳跃, 冲浪, 斜坡, 陷阱 - 一个很可爱的阴险的地图**"
-	}
-	"* * * Opening bunker doors * * *"
-	{
-		"chi"		"**打开煤仓门**"
-	}
-	"* * * Doors will close in 25 seconds* * *"
-	{
-		"chi"		"**门将会在25秒后关闭**"
-	}
-	"* * * If zombies get inside either bunker, all humans will be punished! * * *"
-	{
-		"chi"		"**如果僵尸进入任何一个掩体, 所有人都会受到惩罚**"
-	}
-	"* * * Doors will close in 5 seconds* * *"
-	{
-		"chi"		"**门将在五秒后关闭**"
-	}
-	"* * * Choose the next MINIGAME * * *"
-	{
-		"chi"		"**选择下一个小游戏**"
-	}
-	"* * * BOUNCEBOX!* * *"
-	{
-		"chi"		"**弹跳箱子**"
-	}
-	"* * * Evade the glowy stuff and don't step on the goo * * *"
-	{
-		"chi"		"**避开那些箱子, 不要踩到粘液**"
-	}
-	"* * * Just stay alive! * * *"
-	{
-		"chi"		"**坚持活下去!**"
-	}
-	"* * * BOATLESS ESCAPE! * * *"
-	{
-		"chi"		"**木筏逃生**"
-	}
-	"* * * Venture through these frozen lands, but be wary of SNOW STORMS! * * *"
-	{
-		"chi"		"**冒险穿过这些冰冻的土地, 但要提防暴风雪!**"
-	}
-	"* * * Raft leaving in 30 seconds * * *"
-	{
-		"chi"		"**30秒后木筏离开**"
-	}
-	"* * * Raft leaving in 10 seconds * * *"
-	{
-		"chi"		"**10秒后木筏离开**"
-	}
-	"* * * Raft leaving * * *"
-	{
-		"chi"		"**木筏已离开**"
-	}
-	"* * * Teleporting everyone in 20 seconds * * *"
-	{
-		"chi"		"**20秒后传送所有人**"
-	}
-	"* * * If zombies are in the end island by then, all humans will get punished! * * *"
-	{
-		"chi"		"**如果僵尸在最后一个岛上, 那么所有的人类都将受到惩罚!**"
-	}
-	"* * * Choose the LAST MAP * * *"
-	{
-		"chi"		"**选择最后一个小游戏**"
-	}
-	"* * * DEEP LEARNING!* * *"
-	{
-		"chi"		"**深度学习!**"
-	}
-	"* * * A learning experience from the depths of the land * * *"
-	{
-		"chi"		"**从地底深处学习的经历**"
-	}
-	"* * * Knowledge is power * * *"
-	{
-		"chi"		"**知识就是力量**"
-	}
-	"* * * Last grate breaking in 25 seconds! * * *"
-	{
-		"chi"		"**最后大门25秒后打开**"
-	}
-	"* * * CRUMBLE RUMBLE! * * *"
-	{
-		"chi"		"**破碎的隆隆声!**"
-	}
-	"* * * The ground falls on its own, but zombies can break it as well - Try to stay alive! * * *"
-	{
-		"chi"		"**地面会自行坠落, 但僵尸也会将其击碎--试着活下去!**"
-	}
-	"* * * Falling down will get you punished! * * *"
-	{
-		"chi"		"**如果掉下去, 你会受到惩罚!**"
-	}
-	"* * * CURSED RITUAL! * * *"
-	{
-		"chi"		"**诅咒的仪式!**"
-	}
-	"* * * Some say the dead guard these ruins... * * *"
-	{
-		"chi"		"**有人说死者守卫着这些废墟...**"
-	}
-	"* * * The remains have been taken - path clearing in 25 seconds * * *"
-	{
-		"chi"		"**遗体已被带走-25秒后清除路径**"
-	}
-	"* * * Blast doors opening in 20 seconds * * *"
-	{
-		"chi"		"**防爆门20秒后打开**"
-	}
-	"* * * 10 seconds * * *"
-	{
-		"chi"		"**10秒**"
-	}
-	"* * * Teleporting everyone in cursed ritual in 15 seconds - Slow humans will get punished * * *"
-	{
-		"chi"		"**在15秒内以诅咒仪式传送每个人-走慢的人将受到惩罚**"
-	}
-	"* * * 15 platforms more to win! * * *"
-	{
-		"chi"		"**再赢15个平台!**"
-	}
-	"* * * Time for the mandatory LASERS!* * *"
-	{
-		"chi"		"**是时候来一场激光雨了!**"
-	}
-	"* * * Humans get x3 HP - if you lose it you die! * * *"
-	{
-		"chi"		"**人类获得3倍当前血量加成!**"
-	}
-	"* * * CMON COLLEGE BOY * * *"
-	{
-		"chi"		"** **"
-	}
-	"* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
-	{
-		"chi"		"**第一回合-10秒后重新启动**"
-	}
-	"**stage 1**"
-	{
-		"chi"		"**第一章**"
-	}
-	"* * * MAP BY AobaSuzukaze(sweetS), Special Thanks reflelia * * *"
-	{
-		"chi"		"**地图作者:AobaSuzukaze(sweetS), 特别感谢:reflelia**"
-	}
-	"* * * Map translated by 斯沃特精英* * *"
-	{
-		"chi"		"**地图翻译:斯沃特精英**"
-	}
-	"---***This map will mute your sound if you are outside the lunar base***---"
-	{
-		"chi"		"** **"
-	}
-	"*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
-	{
-		"chi"		"** **"
-	}
-	"*** map created by thas ***"
-	{
-		"chi"		"** **"
-	}
-	"*** MAP BY GEORGE ***"
-	{
-		"chi"		"** **"
-	}
-	">> Map by TaskuVaras and Moltard <<"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Model :Dakotec ***"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "* * * 10 seconds * * *"
+    {
+        "chi" "**10秒**"
+    }
+
+    "* * * A learning experience from the depths of the land * * *"
+    {
+        "chi" "**从地底深处学习的经历**"
+    }
+
+    "* * * BELIEVE * * *"
+    {
+        "chi" "__null__"
+    }
+
+    "* * * Blast doors opening in 20 seconds * * *"
+    {
+        "chi" "**防爆门20秒后打开**"
+    }
+
+    "* * * BOATLESS ESCAPE! * * *"
+    {
+        "chi" "**木筏逃生**"
+    }
+
+    "* * * BOUNCEBOX!* * *"
+    {
+        "chi" "**弹跳箱子**"
+    }
+
+    "* * * CMON COLLEGE BOY * * *"
+    {
+        "chi" "__null__"
+    }
+
+    "* * * CRUMBLE RUMBLE! * * *"
+    {
+        "chi" "**破碎的隆隆声!**"
+    }
+
+    "* * * CURSED RITUAL! * * *"
+    {
+        "chi" "**诅咒的仪式!**"
+    }
+
+    "* * * DEEP LEARNING!* * *"
+    {
+        "chi" "**深度学习!**"
+    }
+
+    "* * * Doors will close in 25 seconds* * *"
+    {
+        "chi" "**门将会在25秒后关闭**"
+    }
+
+    "* * * Doors will close in 5 seconds* * *"
+    {
+        "chi" "**门将在五秒后关闭**"
+    }
+
+    "* * * Evade the glowy stuff and don't step on the goo * * *"
+    {
+        "chi" "**避开那些箱子, 不要踩到粘液**"
+    }
+
+    "* * * Falling down will get you punished! * * *"
+    {
+        "chi" "**如果掉下去, 你会受到惩罚!**"
+    }
+
+    "* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
+    {
+        "chi" "**第一回合-10秒后重新启动**"
+    }
+
+    "* * * Humans get x3 HP - if you lose it you die! * * *"
+    {
+        "chi" "**人类获得3倍当前血量加成!**"
+    }
+
+    "* * * If you don't complete a map objective you will take 20% of your health as UNHEALABLE DAMAGE - try to play by the rules * * *"
+    {
+        "chi" "**如果你没有完成一个地图目标, 你将会扣除1/5的生命值作为无法治愈的伤害 --试着按规则行事**"
+    }
+
+    "* * * If you don't make it, you will get punished! * * *"
+    {
+        "chi" "**如果你没有完成目标, 你将会受到惩罚**"
+    }
+
+    "* * * If you don't reach the exit by then you will get punished! * * *"
+    {
+        "chi" "**如果你到不了出口, 你就会受到惩罚**"
+    }
+
+    "* * * If zombies are in the end island by then, all humans will get punished! * * *"
+    {
+        "chi" "**如果僵尸在最后一个岛上, 那么所有的人类都将受到惩罚!**"
+    }
+
+    "* * * If zombies get inside either bunker, all humans will be punished! * * *"
+    {
+        "chi" "**如果僵尸进入任何一个掩体, 所有人都会受到惩罚**"
+    }
+
+    "* * * Jumps, surf, ramps, traps - a lovely chill map * * *"
+    {
+        "chi" "**跳跃, 冲浪, 斜坡, 陷阱 - 一个很可爱的阴险的地图**"
+    }
+
+    "* * * Just stay alive! * * *"
+    {
+        "chi" "**坚持活下去!**"
+    }
+
+    "* * * Knowledge is power * * *"
+    {
+        "chi" "**知识就是力量**"
+    }
+
+    "* * * Last grate breaking in 25 seconds! * * *"
+    {
+        "chi" "**最后大门25秒后打开**"
+    }
+
+    "* * * Make it to the end or die trying * * *"
+    {
+        "chi" "**走到尽头, 否则就死了**"
+    }
+
+    "* * * Opening bunker doors * * *"
+    {
+        "chi" "**打开煤仓门**"
+    }
+
+    "* * * Raft leaving * * *"
+    {
+        "chi" "**木筏已离开**"
+    }
+
+    "* * * Raft leaving in 10 seconds * * *"
+    {
+        "chi" "**10秒后木筏离开**"
+    }
+
+    "* * * Raft leaving in 30 seconds * * *"
+    {
+        "chi" "**30秒后木筏离开**"
+    }
+
+    "* * * RAT MAZE! * * *"
+    {
+        "chi" "**老鼠迷宫**"
+    }
+
+    "* * * SLIDE RACE! * * *"
+    {
+        "chi" "**滑行赛跑**"
+    }
+
+    "* * * Some say the dead guard these ruins... * * *"
+    {
+        "chi" "**有人说死者守卫着这些废墟...**"
+    }
+
+    "* * * Teleporting everyone in 20 seconds * * *"
+    {
+        "chi" "**20秒后传送所有人**"
+    }
+
+    "* * * Teleporting everyone in cursed ritual in 15 seconds - Slow humans will get punished * * *"
+    {
+        "chi" "**在15秒内以诅咒仪式传送每个人-走慢的人将受到惩罚**"
+    }
+
+    "* * * Teleporting everyone in the slide race in 20 seconds * * *"
+    {
+        "chi" "**20秒后将所有人传送到滑行赛跑**"
+    }
+
+    "* * * Teleporting everyone still in the maze in 20 seconds * * *"
+    {
+        "chi" "**将在20秒后传送所有人到迷宫**"
+    }
+
+    "* * * The exit is in one corner, there are breakable and passable walls, and zombies can set up delayed bombs - good luck! * * *"
+    {
+        "chi" "**出口在一个角落, 有可被打破和隐藏的墙, 僵尸可以设置延迟炸弹-祝你好运**"
+    }
+
+    "* * * The ground falls on its own, but zombies can break it as well - Try to stay alive! * * *"
+    {
+        "chi" "**地面会自行坠落, 但僵尸也会将其击碎--试着活下去!**"
+    }
+
+    "* * * The remains have been taken - path clearing in 25 seconds * * *"
+    {
+        "chi" "**遗体已被带走-25秒后清除路径**"
+    }
+
+    "* * * Time for the mandatory LASERS!* * *"
+    {
+        "chi" "**是时候来一场激光雨了!**"
+    }
+
+    "* * * VALLEY! * * *"
+    {
+        "chi" "**山谷!**"
+    }
+
+    "* * * Venture through these frozen lands, but be wary of SNOW STORMS! * * *"
+    {
+        "chi" "**冒险穿过这些冰冻的土地, 但要提防暴风雪!**"
+    }
+
 }

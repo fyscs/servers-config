@@ -1,114 +1,114 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "Made by Luigi"
-    {
-        "chi" "** **"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "rocks brek in 24.93 second"
-    {
-        "chi" "** **"
-    }
-
-    "go)"
-    {
-        "chi" "** **"
-    }
-
-    "gaets will oopen in 40.1 seconds ! Defend men =)"
-    {
-        "chi" "** **"
-    }
-
-    "gates is open"
-    {
-        "chi" "** **"
-    }
-
-    "SHIP LEAFS IN 20 SEKONS  ! !!!"
-    {
-        "chi" "** **"
-    }
-
-    "SEPIROTH REMOV ROCK IN 25 SEC !"
-    {
-        "chi" "** **"
-    }
-
-    "barier break in 10 seconds"
-    {
-        "chi" "** **"
-    }
-
-    "go gogo)"
-    {
-        "chi" "** **"
-    }
-
-    "oh no iz Bahamoot kil him now"
-    {
-        "chi" "** **"
-    }
-
-    "barier break in 10 seconds"
-    {
-        "chi" "** **"
-    }
-
-    "go gogo)"
-    {
-        "chi" "** **"
-    }
-
-    "boss ded go now"
-    {
-        "chi" "** **"
-    }
-
-    "door to FF place wil open in 20 sec"
-    {
-        "chi" "** **"
-    }
 
     "anohter door to FF place wil open in 25 sec"
     {
-        "chi" "** **"
-    }
-
-    "oh no Clod is block our way"
-    {
-        "chi" "** **"
-    }
-
-    "Cloud is ded lets go)"
-    {
-        "chi" "** **"
-    }
-
-    "get on ship"
-    {
-        "chi" "** **"
-    }
-
-    "shoot that foker now"
-    {
-        "chi" "** **"
-    }
-
-    "ez xd)"
-    {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "bahamut use puish"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "barier break in 10 seconds"
+    {
+        "chi" "__null__"
+    }
+
+    "boss ded go now"
+    {
+        "chi" "__null__"
+    }
+
+    "Cloud is ded lets go)"
+    {
+        "chi" "__null__"
+    }
+
+    "door to FF place wil open in 20 sec"
+    {
+        "chi" "__null__"
+    }
+
+    "ez xd)"
+    {
+        "chi" "__null__"
+    }
+
+    "gaets will oopen in 40.1 seconds ! Defend men =)"
+    {
+        "chi" "__null__"
+    }
+
+    "gates is open"
+    {
+        "chi" "__null__"
     }
 
     "get on rock"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "get on ship"
+    {
+        "chi" "__null__"
+    }
+
+    "go gogo)"
+    {
+        "chi" "__null__"
+    }
+
+    "go)"
+    {
+        "chi" "__null__"
+    }
+
+    "Made by Luigi"
+    {
+        "chi" "__null__"
+    }
+
+    "oh no Clod is block our way"
+    {
+        "chi" "__null__"
+    }
+
+    "oh no iz Bahamoot kil him now"
+    {
+        "chi" "__null__"
+    }
+
+    "rocks brek in 24.93 second"
+    {
+        "chi" "__null__"
+    }
+
+    "SEPIROTH REMOV ROCK IN 25 SEC !"
+    {
+        "chi" "__null__"
+    }
+
+    "SHIP LEAFS IN 20 SEKONS  ! !!!"
+    {
+        "chi" "__null__"
+    }
+
+    "shoot that foker now"
+    {
+        "chi" "__null__"
     }
 
 }

@@ -1,284 +1,419 @@
 "Console_T"
 {
-	"*** Level 1 ***"
-	{
-		"chi"		"**第一关**"
-	}
-	"* Turning music on *"
-	{
-		"chi"		"**BGM开始播放了**"
-	}
-	"*** Player has picked up Grenade Maker ***"
-	{
-		"chi"		"**有玩家捡起了无限手雷**"
-	}
-	"*** Player has picked up Heal ***"
-	{
-		"chi"		"**有玩家捡起了奥利奥**"
-	}
-	"*** Player has picked up Explosive Mines ***"
-	{
-		"chi"		"**有玩家捡起了地雷**"
-	}
-	"*** Player has picked up Ammo Box ***"
-	{
-		"chi"		"**有玩家捡起了弹药箱**"
-	}
-	"*** Door opens in 35 seconds ***"
-	{
-		"chi"		"**门将在35秒后打开**"
-	}
-	"*** Player has picked up Lego Maker ***"
-	{
-		"chi"		"**有玩家捡起了积木**"
-	}
-	"*** Player has picked up HandCannon ***"
-	{
-		"chi"		"**有玩家捡了加农炮**"
-	}
-	"*** Door opens in 25 seconds ***"
-	{
-		"chi"		"**门将在25秒后打开**"
-	}
-	"*** 10 seconds left ***"
-	{
-		"chi"		"**10秒剩余**"
-	}
-	"*** Gate opening ***"
-	{
-		"chi"		"**门开了**"
-	}
-	"*** Door is Opening ***"
-	{
-		"chi"		"**门开了**"
-	}
-	"*** Player has picked up Flamethrower ***"
-	{
-		"chi"		"**有玩家捡起了喷火器**"
-	}
-	"*** Player has picked up PushGun ***"
-	{
-		"chi"		"**有玩家捡起了推力枪**"
-	}
-	"*** Door Opening in 25 seconds! ***"
-	{
-		"chi"		"**门将在25秒后打开**"
-	}
-	"*** FALL BACK ***"
-	{
-		"chi"		"**快跑**"
-	}
-	">>> Hold for 15 seconds! <<<"
-	{
-		"chi"		">>>守住15秒<<<"
-	}
-	">>> Hold for a bit more! <<<"
-	{
-		"chi"		">>>再多守一会<<<"
-	}
-	"*** Teleporter Activates in 20 Seconds ***"
-	{
-		"chi"		"**传送将在20秒后激活**"
-	}
-	"*** Door Opens in 30 seconds ***"
-	{
-		"chi"		"**门将在30秒后打开**"
-	}
-	"*** OH NOOES ***"
-	{
-		"chi"		"**噢!**"
-	}
-	"*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***"
-	{
-		"chi"		"**快杀了RICK!否则他就会把我们杀了!**"
-	}
-	"*** RICK ASTLEY IS DEAD ***"
-	{
-		"chi"		"**RICK死了**"
-	}
-	"*** Hold here for 20 seconds ***"
-	{
-		"chi"		"**守住这里20秒**"
-	}
-	"*** Hold 20 second for victory! ***"
-	{
-		"chi"		"**守住20秒就赢了**"
-	}
-	"*** Level Completed ***"
-	{
-		"chi"		"**关卡完成**"
-	}
-	"*** Level 2 ***"
-	{
-		"chi"		"**第二关**"
-	}
-	">>> Hold until the path is cleared! <<<"
-	{
-		"chi"		">>>守住直到这个门开<<<"
-	}
-	">>> GO GO GO <<<"
-	{
-		"chi"		">>>可以撤退了<<<"
-	}
-	"*** Defend for 25 seconds ***"
-	{
-		"chi"		"**守住这里25秒**"
-	}
-	">>> Hold until the door opens! <<<"
-	{
-		"chi"		">>>守住这里等到门开<<<"
-	}
-	"*** Right Door Opens in 10 seconds ***"
-	{
-		"chi"		"**右边的门将在10秒后打开**"
-	}
-	"*** Left Door Opens in 10 seconds ***"
-	{
-		"chi"		"**左边的门将在10秒后打开**"
-	}
-	"*** Success! ***"
-	{
-		"chi"		"**已成功触发机关**"
-	}
-	"*** Doors open in 30 seconds ***"
-	{
-		"chi"		"**门将在30秒后打开**"
-	}
-	"*** The Boss is dead! ***"
-	{
-		"chi"		"**BOSS死了**"
-	}
-	">>> Hold The Zombies Until Door Opens <<<"
-	{
-		"chi"		">>>守僵尸等到门开<<<"
-	}
-	"*** Elevator is Leaving in 20 seconds ***"
-	{
-		"chi"		"**电梯20秒后离开**"
-	}
-	"*** Level 3 ***"
-	{
-		"chi"		"**第三关**"
-	}
-	">>> Hold until the path is clear! <<<"
-	{
-		"chi"		">>>守到这个门打开<<<"
-	}
-	"*** Ladders open in 30 seconds ***"
-	{
-		"chi"		"**梯子30秒后打开**"
-	}
-	"*** HOLD Until the path is clear ***"
-	{
-		"chi"		"**守到这个障碍物爆炸**"
-	}
-	"*** GO GO GO ***"
-	{
-		"chi"		"**可以走了!快溜**"
-	}
-	"*** Door opens in 10 seconds ***"
-	{
-		"chi"		"**10秒后开门**"
-	}
-	"*** Hold here for 30 seconds ***"
-	{
-		"chi"		"**守住这里30秒**"
-	}
-	"*** Door Opens in 5 seconds ***"
-	{
-		"chi"		"**5秒后开门**"
-	}
-	"*** Door Opens in 4 seconds ***"
-	{
-		"chi"		"**4秒后开门**"
-	}
-	"*** Door Opens in 3 seconds ***"
-	{
-		"chi"		"**3秒后开门**"
-	}
-	"*** Door Opens in 2 seconds ***"
-	{
-		"chi"		"**2秒后开门**"
-	}
-	"*** Door Opens in 1 second ***"
-	{
-		"chi"		"**1秒后开门**"
-	}
-	"*** The Ship Thingy is Destroyed! ***"
-	{
-		"chi"		"**这艘船被毁了**"
-	}
-	"*** Defend for 25 seconds! ***"
-	{
-		"chi"		"**守住25秒**"
-	}
-	"*** Tram Leaves in 35 seconds ***"
-	{
-		"chi"		"**35秒后逃亡**"
-	}
-	"*** 15 seconds left ***"
-	{
-		"chi"		"**还剩15秒**"
-	}
-	"*** 5 seconds left ***"
-	{
-		"chi"		"**还剩5秒**"
-	}
-	"*** Tram is leaving ***"
-	{
-		"chi"		"**电车离开了**"
-	}
-	"*** You got both items to the end ***"
-	{
-		"chi"		"**你获得了2个东西**"
-	}
-	"*** Defending Will be easier Now! ***"
-	{
-		"chi"		"**现在防守更简单了**"
-	}
-	"*** Zombie on the tram ***"
-	{
-		"chi"		"**僵尸上了电车了!还不开枪呢**"
-	}
-	"** Turning on:... **"
-	{
-		"chi"		"**开启中...**"
-	}
-	"** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **"
-	{
-		"chi"		"** 天谴难度 **"
-		"command"   "rank_ze_win_points_humans 10"
-	}
-	"*** Door Opening in 30 seconds! ***"
-	{
-		"chi"		"**门将在30秒后打开**"
-	}
-	"*** OH NO ITS AN EVIL ROBO BOSS ***"
-	{
-		"chi"		"**哦不, 这个该死的机器人**"
-	}
-	"*** KILL IT BEFORE HE TURNS US ALL INTO ROBOTS ***"
-	{
-		"chi"		"**在他杀死我们之前干掉他!**"
-	}
-	"*** YOU HAVE DEFEATED THE ROBO BOSS ***"
-	{
-		"chi"		"**你干掉了这个机器人**"
-	}
-	"*** TIME TO RUN NOW ***"
-	{
-		"chi"		"**现在可以走了**"
-	}
-	"*** Ladders open in 25 seconds ***"
-	{
-		"chi"		"**楼梯在25秒后打开**"
-	}
-	"*** Door opens in 20 seconds ***"
-	{
-		"chi"		"**门在20秒后打开**"
-	}
-	"*** Hold here for 25 seconds ***"
-	{
-		"chi"		"**守在这里25秒**"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **"
+    {
+        "chi" "** 天谴难度 **"
+    }
+
+    "** Turning on:... **"
+    {
+        "chi" "**开启中...**"
+    }
+
+    "*** 10 seconds left ***"
+    {
+        "chi" "**10秒剩余**"
+    }
+
+    "*** 15 seconds left ***"
+    {
+        "chi" "**还剩15秒**"
+    }
+
+    "*** 25 seconds left ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 5 seconds left ***"
+    {
+        "chi" "**还剩5秒**"
+    }
+
+    "*** Defend for 25 seconds ***"
+    {
+        "chi" "**守住这里25秒**"
+    }
+
+    "*** Defend for 25 seconds! ***"
+    {
+        "chi" "**守住25秒**"
+    }
+
+    "*** Defending Will be easier Now! ***"
+    {
+        "chi" "**现在防守更简单了**"
+    }
+
+    "*** Door is opening ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Door is Opening ***"
+    {
+        "chi" "**门开了**"
+    }
+
+    "*** Door Opens in 1 second ***"
+    {
+        "chi" "**1秒后开门**"
+    }
+
+    "*** Door opens in 10 seconds ***"
+    {
+        "chi" "**10秒后开门**"
+    }
+
+    "*** Door Opens in 10 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Door Opens in 2 seconds ***"
+    {
+        "chi" "**2秒后开门**"
+    }
+
+    "*** Door opens in 20 seconds ***"
+    {
+        "chi" "**门在20秒后打开**"
+    }
+
+    "*** Door opens in 25 seconds ***"
+    {
+        "chi" "**门将在25秒后打开**"
+    }
+
+    "*** Door Opens in 3 seconds ***"
+    {
+        "chi" "**3秒后开门**"
+    }
+
+    "*** Door Opens in 30 seconds ***"
+    {
+        "chi" "**门将在30秒后打开**"
+    }
+
+    "*** Door opens in 35 seconds ***"
+    {
+        "chi" "**门将在35秒后打开**"
+    }
+
+    "*** Door Opens in 4 seconds ***"
+    {
+        "chi" "**4秒后开门**"
+    }
+
+    "*** Door Opens in 5 seconds ***"
+    {
+        "chi" "**5秒后开门**"
+    }
+
+    "*** Doors open in 30 seconds ***"
+    {
+        "chi" "**门将在30秒后打开**"
+    }
+
+    "*** Elevator is Leaving in 20 seconds ***"
+    {
+        "chi" "**电梯20秒后离开**"
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "**快跑**"
+    }
+
+    "*** Gate opening ***"
+    {
+        "chi" "**门开了**"
+    }
+
+    "*** GO GO GO ***"
+    {
+        "chi" "**可以走了!快溜**"
+    }
+
+    "*** Hold 20 second for victory! ***"
+    {
+        "chi" "**守住20秒就赢了**"
+    }
+
+    "*** Hold here for 20 seconds ***"
+    {
+        "chi" "**守住这里20秒**"
+    }
+
+    "*** Hold here for 25 seconds ***"
+    {
+        "chi" "**守在这里25秒**"
+    }
+
+    "*** Hold here for 30 seconds ***"
+    {
+        "chi" "**守住这里30秒**"
+    }
+
+    "*** HOLD Until the path is clear ***"
+    {
+        "chi" "**守到这个障碍物爆炸**"
+    }
+
+    "*** KILL IT BEFORE HE TURNS US ALL INTO ROBOTS ***"
+    {
+        "chi" "**在他杀死我们之前干掉他!**"
+    }
+
+    "*** KILL RICK ASTLEY BEFORE HE RICKROLLS US! ***"
+    {
+        "chi" "**快杀了RICK!否则他就会把我们杀了!**"
+    }
+
+    "*** Ladders open in 25 seconds ***"
+    {
+        "chi" "**楼梯在25秒后打开**"
+    }
+
+    "*** Ladders open in 30 seconds ***"
+    {
+        "chi" "**梯子30秒后打开**"
+    }
+
+    "*** Left Door Opens in 10 seconds ***"
+    {
+        "chi" "**左边的门将在10秒后打开**"
+    }
+
+    "*** Level 1 ***"
+    {
+        "chi" "**第一关**"
+    }
+
+    "*** Level 2 ***"
+    {
+        "chi" "**第二关**"
+    }
+
+    "*** Level 3 ***"
+    {
+        "chi" "**第三关**"
+    }
+
+    "*** Level Completed ***"
+    {
+        "chi" "**关卡完成**"
+    }
+
+    "*** Nice Job You Have Beaten FapEscape! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** OH NO ITS AN EVIL ROBO BOSS ***"
+    {
+        "chi" "**哦不, 这个该死的机器人**"
+    }
+
+    "*** OH NO.. ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** OH NOOES ***"
+    {
+        "chi" "**噢!**"
+    }
+
+    "*** Player has picked up Ammo Box ***"
+    {
+        "chi" "**有玩家捡起了弹药箱**"
+    }
+
+    "*** Player has picked up Explosive Mines ***"
+    {
+        "chi" "**有玩家捡起了地雷**"
+    }
+
+    "*** Player has picked up Flamethrower ***"
+    {
+        "chi" "**有玩家捡起了喷火器**"
+    }
+
+    "*** Player has picked up Grenade Maker ***"
+    {
+        "chi" "**有玩家捡起了无限手雷**"
+    }
+
+    "*** Player has picked up HandCannon ***"
+    {
+        "chi" "**有玩家捡了加农炮**"
+    }
+
+    "*** Player has picked up Heal ***"
+    {
+        "chi" "**有玩家捡起了奥利奥**"
+    }
+
+    "*** Player has picked up Lego Maker ***"
+    {
+        "chi" "**有玩家捡起了积木**"
+    }
+
+    "*** Player has picked up PushGun ***"
+    {
+        "chi" "**有玩家捡起了推力枪**"
+    }
+
+    "*** RICK ASTLEY IS DEAD ***"
+    {
+        "chi" "**RICK死了**"
+    }
+
+    "*** Right Door Opens in 10 seconds ***"
+    {
+        "chi" "**右边的门将在10秒后打开**"
+    }
+
+    "*** Success! ***"
+    {
+        "chi" "**已成功触发机关**"
+    }
+
+    "*** Survive for 3 Minutes ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Teleporter Activates in 20 Seconds ***"
+    {
+        "chi" "**传送将在20秒后激活**"
+    }
+
+    "*** The Boss is dead! ***"
+    {
+        "chi" "**BOSS死了**"
+    }
+
+    "*** The Ship Thingy is Destroyed! ***"
+    {
+        "chi" "**这艘船被毁了**"
+    }
+
+    "*** TIME TO RUN NOW ***"
+    {
+        "chi" "**现在可以走了**"
+    }
+
+    "*** Tram is leaving ***"
+    {
+        "chi" "**电车离开了**"
+    }
+
+    "*** Tram Leaves in 35 seconds ***"
+    {
+        "chi" "**35秒后逃亡**"
+    }
+
+    "*** Tram Leaves in 45 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** You Fail ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** You got both items to the end ***"
+    {
+        "chi" "**你获得了2个东西**"
+    }
+
+    "*** YOU HAVE DEFEATED THE ROBO BOSS ***"
+    {
+        "chi" "**你干掉了这个机器人**"
+    }
+
+    "*** YOU SUCK ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ZM ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Zombie at the end YOU FAIL ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Zombie in elevator You Fail ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Zombie on the tram ***"
+    {
+        "chi" "**僵尸上了电车了!还不开枪呢**"
+    }
+
+    ">>> GO GO GO <<<"
+    {
+        "chi" ">>>可以撤退了<<<"
+    }
+
+    ">>> Hold for 15 seconds! <<<"
+    {
+        "chi" ">>>守住15秒<<<"
+    }
+
+    ">>> Hold for a bit more! <<<"
+    {
+        "chi" ">>>再多守一会<<<"
+    }
+
+    ">>> Hold The Zombies Until Door Opens <<<"
+    {
+        "chi" ">>>守僵尸等到门开<<<"
+    }
+
+    ">>> Hold until the door opens! <<<"
+    {
+        "chi" ">>>守住这里等到门开<<<"
+    }
+
+    ">>> Hold until the path is clear! <<<"
+    {
+        "chi" ">>>守到这个门打开<<<"
+    }
+
+    ">>> Hold until the path is cleared! <<<"
+    {
+        "chi" ">>>守住直到这个门开<<<"
+    }
+
+    ">>> NOW IS THE TIME TO ESCAPE FROM THIS FORSAKEN PLACE <<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>> THE EVIL EYE IS DEAD <<<"
+    {
+        "chi" "__null__"
+    }
+
 }

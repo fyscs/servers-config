@@ -7,7 +7,7 @@
 	"@[MAP] Disabled football due low phys_pushscale value"
 	{
 		"blocked"		"1"
-		"chi"		"** **"
+		"chi"		"__null__"
 	}
 	"@Knife damage enabled"
 	{
@@ -64,7 +64,7 @@
 	"@Incoming one time spam"
 	{
 		"blocked"		"1"
-		"chi"		"** **"
+		"chi"		"__null__"
 	}
 	"@Ts have scored!"
 	{
@@ -174,10 +174,10 @@
 	}
 	"[MAP] Map made by Arcaninesy"
 	{
-		"chi"		"** **"
+		"chi"		"__null__"
 	}
 	"***Normal Round***"
 	{
-		"chi"		"** **"
+		"chi"		"__null__"
 	}
 }

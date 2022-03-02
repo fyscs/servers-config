@@ -1,83 +1,379 @@
 "Console_T"
 {
-	"** LEVEL: NOT TOO ROUGH **"
-	{
-		"chi"		"**阶段: 一般一般**"
-	}
-	"** Map by Night Fury **"
-	{
-		"chi"		"**地图制作:  Night Fury   地图翻译: 叶巷**"
-	}
-	"A player has aquired the soulsphere powerup!"
-	{
-		"chi"		"**一位玩家获得了能量装置**"
-	}
-	"** Door opening in 30 seconds! **"
-	{
-		"chi"		"**门将在30秒后打开!守住!**"
-	}
-	"Soulsphere power has 2 charges and a 120 second cooldown!"
-	{
-		"chi"		"**能量装置只能奶2次!CD是120秒!**"
-	}
-	"** Door opening in 10 seconds! **"
-	{
-		"chi"		"**门将在10秒后打开!不要开假枪!**"
-	}
-	"** Door opened! **"
-	{
-		"chi"		"**门开了哦!**"
-	}
-	"** Door opening in 25 seconds! **"
-	{
-		"chi"		"**门将在25秒后打开!给老子守住!**"
-	}
-	"First soulsphere charge used!"
-	{
-		"chi"		"**能量装置使用了一次!**"
-	}
-	"Soulsphere first charge depleted!"
-	{
-		"chi"		"**能量装置第一次充能耗尽!**"
-	}
-	"Soulsphere recharged!"
-	{
-		"chi"		"**能量装置充电完成!**"
-	}
-	"Soulsphere final charge used!"
-	{
-		"chi"		"**能量装置使用第二次!**"
-	}
-	"Soulsphere power fully depleted!"
-	{
-		"chi"		"**能量装置所有次数耗尽!**"
-	}
-	"** Door opening in 25 seconds **"
-	{
-		"chi"		"**门将在25秒后打开!压住!**"
-	}
-	"** Door opening in 10 seconds **"
-	{
-		"chi"		"**门将在10秒后打开!不要着急!**"
-	}
-	"** Door Opening in 23 Seconds **"
-	{
-		"chi"		"**门将在23秒后打开!全力开火!**"
-	}
-	"** Opening door in 15 Seconds!! **"
-	{
-		"chi"		"**门将在15秒后打开!顶住!**"
-	}
-	"** Resist! a few seconds more **"
-	{
-		"chi"		"**坚持住!还需要一点时间!!**"
-	}
-	"** Exit door opening in 40 seconds! **"
-	{
-		"chi"		"**撤退的门将会在40秒后打开!**"
-	}
-	"***STAGE 1 -- THE SHIP***"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** 10 seconds left to kill boss! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** BAD WIN!! ZOMBIES DETECTED **"
+    {
+        "chi" "__null__"
+    }
+
+    "** BAD WIN!! ZOMBIES DETECTED!! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Boss defeated! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door Opened **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door opened! **"
+    {
+        "chi" "**门开了哦!**"
+    }
+
+    "** Door opening in 10 seconds **"
+    {
+        "chi" "**门将在10秒后打开!不要着急!**"
+    }
+
+    "** Door Opening in 10 Seconds **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door opening in 10 seconds! **"
+    {
+        "chi" "**门将在10秒后打开!不要开假枪!**"
+    }
+
+    "** Door Opening in 15 Seconds !!!**"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door opening in 20 seconds! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door Opening in 23 Seconds **"
+    {
+        "chi" "**门将在23秒后打开!全力开火!**"
+    }
+
+    "** Door opening in 25 seconds **"
+    {
+        "chi" "**门将在25秒后打开!压住!**"
+    }
+
+    "** Door opening in 25 seconds! **"
+    {
+        "chi" "**门将在25秒后打开!给老子守住!**"
+    }
+
+    "** Door opening in 30 seconds! **"
+    {
+        "chi" "**门将在30秒后打开!守住!**"
+    }
+
+    "** Door Opening in 30 seconds! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door opening in 40 seconds! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Elevator Leaving in 10 Seconds...**"
+    {
+        "chi" "__null__"
+    }
+
+    "** Elevator Leaving in 35 Seconds...**"
+    {
+        "chi" "__null__"
+    }
+
+    "** Exit door closed! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Exit door closing in 10 seconds! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Exit door closing in 15 seconds! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Exit door closing in 40 seconds! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Exit door opened! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Exit door opening in 10 seconds! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Exit door opening in 40 seconds! **"
+    {
+        "chi" "**撤退的门将会在40秒后打开!**"
+    }
+
+    "** Humans failed! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Humans have 2 minutes to deafet the boss! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Killing exit room in 10 seconds! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** LEVEL: NIGHTMARE **"
+    {
+        "chi" "__null__"
+    }
+
+    "** LEVEL: NO REST FOR LIVING **"
+    {
+        "chi" "__null__"
+    }
+
+    "** LEVEL: NOT TOO ROUGH **"
+    {
+        "chi" "**阶段: 一般一般**"
+    }
+
+    "** Map by Night Fury **"
+    {
+        "chi" "**地图制作:  Night Fury   地图翻译: 叶巷**"
+    }
+
+    "** NIGHTMARE! difficulty selected. **"
+    {
+        "chi" "__null__"
+    }
+
+    "** NO REST FOR THE LIVING difficulty selected. **"
+    {
+        "chi" "__null__"
+    }
+
+    "** NOT TOO ROUGH difficulty selected. **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Opening door in 10 Seconds **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Opening door in 10 seconds... **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Opening door in 15 Seconds!! **"
+    {
+        "chi" "**门将在15秒后打开!顶住!**"
+    }
+
+    "** Opening door in 20 Seconds **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Opening Door... **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Opening X door in few seconds **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Resist! a few seconds more **"
+    {
+        "chi" "**坚持住!还需要一点时间!!**"
+    }
+
+    "** Teleport active in 10 seconds! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Teleport active in 40 seconds! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Teleport active! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Zombies have been released! **"
+    {
+        "chi" "__null__"
+    }
+
+    "A player has aquired berserker powerup!"
+    {
+        "chi" "__null__"
+    }
+
+    "A player has aquired the BFG!"
+    {
+        "chi" "__null__"
+    }
+
+    "A player has aquired the megasphere powerup!"
+    {
+        "chi" "__null__"
+    }
+
+    "A player has aquired the soulsphere powerup!"
+    {
+        "chi" "**一位玩家获得了能量装置**"
+    }
+
+    "Berserker powerup has one charge!"
+    {
+        "chi" "__null__"
+    }
+
+    "Beserker charge depleting in 1"
+    {
+        "chi" "__null__"
+    }
+
+    "Beserker charge depleting in 2"
+    {
+        "chi" "__null__"
+    }
+
+    "Beserker charge depleting in 3"
+    {
+        "chi" "__null__"
+    }
+
+    "Beserker charge fully depleted!"
+    {
+        "chi" "__null__"
+    }
+
+    "Beserker has been enabled!"
+    {
+        "chi" "__null__"
+    }
+
+    "BFG now usable!"
+    {
+        "chi" "__null__"
+    }
+
+    "BFG only usable 30 seconds after pickup!"
+    {
+        "chi" "__null__"
+    }
+
+    "BFG powerup has one shot!"
+    {
+        "chi" "__null__"
+    }
+
+    "Bfg used!"
+    {
+        "chi" "__null__"
+    }
+
+    "First soulsphere charge used!"
+    {
+        "chi" "**能量装置使用了一次!**"
+    }
+
+    "Megasphere now usable!"
+    {
+        "chi" "__null__"
+    }
+
+    "Megasphere only usable 30 seconds after pikcup!"
+    {
+        "chi" "__null__"
+    }
+
+    "Megasphere power depleted!"
+    {
+        "chi" "__null__"
+    }
+
+    "Megasphere powerup has one charge!"
+    {
+        "chi" "__null__"
+    }
+
+    "Megasphere used!"
+    {
+        "chi" "__null__"
+    }
+
+    "Soulsphere final charge used!"
+    {
+        "chi" "**能量装置使用第二次!**"
+    }
+
+    "Soulsphere first charge depleted!"
+    {
+        "chi" "**能量装置第一次充能耗尽!**"
+    }
+
+    "Soulsphere power fully depleted!"
+    {
+        "chi" "**能量装置所有次数耗尽!**"
+    }
+
+    "Soulsphere power has 2 charges and a 120 second cooldown!"
+    {
+        "chi" "**能量装置只能奶2次!CD是120秒!**"
+    }
+
+    "Soulsphere recharged"
+    {
+        "chi" "__null__"
+    }
+
+    "Soulsphere recharged!"
+    {
+        "chi" "**能量装置充电完成!**"
+    }
+
 }

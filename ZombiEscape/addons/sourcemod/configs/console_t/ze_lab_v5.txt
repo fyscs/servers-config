@@ -1,216 +1,194 @@
 "Console_T"
 {
-	">>>The bridge will be activated in 40 seconds!<<<"
-	{
-		"chi"		"**40秒后桥就可以通过了!坚持住!**"
-	}
-	">>>Door open in 40 seconds<<<"
-	{
-		"chi"		"**还有40秒后打开大门!射击僵尸!**"
-	}
-	">>>Gate will open in 40 seconds!<<<"
-	{
-		"chi"		"**还有40秒后打开大门!加油!守住这里!**"
-	}
-	">>>Now get in the tunnel!<<<"
-	{
-		"chi"		"**现在可以进入隧道了!快走!**"
-	}
-	">>>And def the path for 30 seconds<<<"
-	{
-		"chi"		"**防守僵尸30秒!**"
-	}
-	">>>Door has opened,GOGOGO<<<"
-	{
-		"chi"		"**大门已经启动!快走!**"
-	}
-	">>>Now hold these bridges!<<<"
-	{
-		"chi"		"**守住这座大桥!直到僵尸传送!**"
-	}
-	">>>10 seconds left!<<<"
-	{
-		"chi"		"**我们在守住10秒!**"
-	}
-	">>>Door has opened,RUUUUUUNNN<<<"
-	{
-		"chi"		"**大门开启, fallback!**"
-	}
-	">>>Lowing the bridge,GO!<<<"
-	{
-		"chi"		"**等待桥完全下降后在通过!**"
-	}
-	">>>Zombies trapped for 17 seconds!<<<"
-	{
-		"chi"		"**17秒打开尸笼!**"
-	}
-	">>>Door opening<<<"
-	{
-		"chi"		"**大门开启!滴滴滴!**"
-	}
-	">>>Please wait<<<"
-	{
-		"chi"		"**等待一会!别急!**"
-	}
-	">>>This door is moving VERY SLOWLY<<<"
-	{
-		"chi"		"**等到门完全打开我们才可以通过!**"
-	}
-	">>>Thanks for your patience<<<"
-	{
-		"chi"		"**可以通过了!快撤退!**"
-	}
-	">>>Door now is fully opened<<<"
-	{
-		"chi"		"**门已经完全打开了!**"
-	}
-	"---Feedback:noojeff@gmail.com---"
-	{
-		"chi"		"**有什么意见会建议可以反馈: noojeff@gmail.com**"
-	}
-	"---Special Thank To:HZM654321 and JackBauer123---"
-	{
-		"chi"		"**特别感谢: HZM654321 and JackBauer123**"
-	}
-	"---Map made by Jeff---"
-	{
-		"chi"		"**地图作者: Jeff 地图翻译: 户冢彩加&萌大奶@风云社**"
-	}
-	"---Have Fun!---"
-	{
-		"chi"		"---玩得开心!---"
-	}
-	">>>AFK teleport in 20s<<<"
-	{
-		"chi"		"**挂机的玩家将在 20 秒后传送**"
-	}
-	">>>Zombies trapped for 25 seconds<<<"
-	{
-		"chi"		"**僵尸将会被困住 25 秒**"
-	}
-	">>>10 seconds left<<<"
-	{
-		"chi"		"**还有10秒!守住这里!**"
-	}
-	">>>Exit is open!<<<"
-	{
-		"chi"		"**往后退!撤退!**"
-	}
-	">>>Door close in 5s<<<"
-	{
-		"chi"		"**5秒后关门!准备撤退!**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	">>>Teleport initializing<<<"
-	{
-		"chi"		"**传送门正在初始化...请稍等**"
-	}
-	">>>PLease Stand By<<<"
-	{
-		"chi"		"**请做好防御工作!射击僵尸!守住!**"
-	}
-	">>>Door B fatal ERROR detected<<<"
-	{
-		"chi"		"**检测到B门出现严重问题**"
-	}
-	">>>10%<<<"
-	{
-		"chi"		"** 1/10 **"
-	}
-	">>>Def!!!!<<<"
-	{
-		"chi"		"**拖住僵尸!!!**"
-	}
-	">>>50%<<<"
-	{
-		"chi"		"** 1/2 **"
-	}
-	">>>Door A Losing power!!!<<<"
-	{
-		"chi"		"**A门正在启动!稍等!**"
-	}
-	">>>WATCH OUT<<<"
-	{
-		"chi"		"**再坚持一下!!开枪!**"
-	}
-	">>>90%<<<"
-	{
-		"chi"		"** 9/10 **"
-	}
-	">>>Teleport<<<" 
-	{
-		"chi"		"**传送门初始化完毕!完成!**"
-	}
-	">>>Get in the Teleport!!!!<<<"	
-	{
-		"chi"		"**快进入传送门!!快走!**"
-	}
-	">>>Teleport is Online<<<"
-	{
-		"chi"		"**传送门就绪**"
-	}
-	">>>Get in the Teleport!!!!<<<"
-	{
-		"chi"		"**快进传送门!!快走!fallback!**"
-	}
-	"steamworkshop search this map's name"
-	{
-		"chi"		"** **"
-	}
-	"**Stage 1**"
-	{
-		"chi"		"**关卡 1**"
-	}
-	"**welcome to ze_fat_hours_escape**"
-	{
-		"chi"		"** **"
-	}
-	"**map by yinyuehzixi**"
-	{
-		"chi"		"** **"
-	}
-	"** re shen 50 miao **"
-	{
-		"chi"		"** **"
-	}
-	"Special Thanks: Airvulpes"
-	{
-		"chi"		"** **"
-	}
-	"Test Server: Possession"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Taskuvaras***"
-	{
-		"chi"		"** **"
-	}
-	"***Human door opening in 15s***"
-	{
-		"chi"		"** **"
-	}
-	"***Map by RelaxingWalls***"
-	{
-		"chi"		"** **"
-	}
-	"***Map made for SteamGamers Mapping Competition***"
-	{
-		"chi"		"** **"
-	}
-	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
-	{
-		"chi"		"** **"
-	}
-	"***Map ported by ??????***"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT MODE: EASY ***"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    ">>>10 seconds left!<<<"
+    {
+        "chi" "**我们在守住10秒!**"
+    }
+
+    ">>>10 Seconds left<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>10%<<<"
+    {
+        "chi" "** 1/10 **"
+    }
+
+    ">>>50%<<<"
+    {
+        "chi" "** 1/2 **"
+    }
+
+    ">>>90%<<<"
+    {
+        "chi" "** 9/10 **"
+    }
+
+    ">>>AFK teleport in 20s<<<"
+    {
+        "chi" "**挂机的玩家将在 20 秒后传送**"
+    }
+
+    ">>>And def the path for 30 seconds<<<"
+    {
+        "chi" "**防守僵尸30秒!**"
+    }
+
+    ">>>Def!!!!<<<"
+    {
+        "chi" "**拖住僵尸!!!**"
+    }
+
+    ">>>Door A Losing power!!!<<<"
+    {
+        "chi" "**A门正在启动!稍等!**"
+    }
+
+    ">>>Door B fatal ERROR detected<<<"
+    {
+        "chi" "**检测到B门出现严重问题**"
+    }
+
+    ">>>Door close in 5s<<<"
+    {
+        "chi" "**5秒后关门!准备撤退!**"
+    }
+
+    ">>>Door has opened,GOGOGO<<<"
+    {
+        "chi" "**大门已经启动!快走!**"
+    }
+
+    ">>>Door has opened,RUUUUUUNNN<<<"
+    {
+        "chi" "**大门开启, fallback!**"
+    }
+
+    ">>>Door now is fully opened<<<"
+    {
+        "chi" "**门已经完全打开了!**"
+    }
+
+    ">>>Door open in 40 seconds<<<"
+    {
+        "chi" "**还有40秒后打开大门!射击僵尸!**"
+    }
+
+    ">>>Door opening<<<"
+    {
+        "chi" "**大门开启!滴滴滴!**"
+    }
+
+    ">>>Exit is open!<<<"
+    {
+        "chi" "**往后退!撤退!**"
+    }
+
+    ">>>Gate will open in 40 seconds!<<<"
+    {
+        "chi" "**还有40秒后打开大门!加油!守住这里!**"
+    }
+
+    ">>>Get in the Teleport!!!!<<<"
+    {
+        "chi" "**快进传送门!!快走!fallback!**"
+    }
+
+    ">>>Lowing the bridge,GO!<<<"
+    {
+        "chi" "**等待桥完全下降后在通过!**"
+    }
+
+    ">>>Now get in the tunnel!<<<"
+    {
+        "chi" "**现在可以进入隧道了!快走!**"
+    }
+
+    ">>>Now hold these bridges!<<<"
+    {
+        "chi" "**守住这座大桥!直到僵尸传送!**"
+    }
+
+    ">>>PLease Stand By<<<"
+    {
+        "chi" "**请做好防御工作!射击僵尸!守住!**"
+    }
+
+    ">>>Please wait<<<"
+    {
+        "chi" "**等待一会!别急!**"
+    }
+
+    ">>>Teleport initializing<<<"
+    {
+        "chi" "**传送门正在初始化...请稍等**"
+    }
+
+    ">>>Teleport is Online<<<"
+    {
+        "chi" "**传送门就绪**"
+    }
+
+    ">>>Thanks for your patience<<<"
+    {
+        "chi" "**可以通过了!快撤退!**"
+    }
+
+    ">>>The bridge will be activated in 40 seconds!<<<"
+    {
+        "chi" "**40秒后桥就可以通过了!坚持住!**"
+    }
+
+    ">>>This door is moving VERY SLOWLY<<<"
+    {
+        "chi" "**等到门完全打开我们才可以通过!**"
+    }
+
+    ">>>WATCH OUT<<<"
+    {
+        "chi" "**再坚持一下!!开枪!**"
+    }
+
+    ">>>Zombies trapped for 17 seconds!<<<"
+    {
+        "chi" "**17秒打开尸笼!**"
+    }
+
+    ">>>Zombies trapped for 25 seconds<<<"
+    {
+        "chi" "**僵尸将会被困住 25 秒**"
+    }
+
+    "---Feedback:noojeff@gmail.com---"
+    {
+        "chi" "**有什么意见会建议可以反馈: noojeff@gmail.com**"
+    }
+
+    "---Have Fun!---"
+    {
+        "chi" "---玩得开心!---"
+    }
+
+    "---Map made by Jeff---"
+    {
+        "chi" "**地图作者: Jeff 地图翻译: 户冢彩加&萌大奶@风云社**"
+    }
+
+    "---Special Thank To:HZM654321 and JackBauer123---"
+    {
+        "chi" "**特别感谢: HZM654321 and JackBauer123**"
+    }
+
 }

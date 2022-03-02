@@ -1,49 +1,19 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "** What are you expecting to open? **"
-    {
-        "chi" "**你在期待着什么?**"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "** Someone damned the dam! **"
-    {
-        "chi" "**前方有座大坝**"
-    }
 
-    "** Watch out! It's gonna blow! **"
+    "** A hidden missile launcher appeared! **"
     {
-        "chi" "**大坝闸门损坏,小心洪水**"
-    }
-
-    "** You touched a very special teapot! **"
-    {
-        "chi" "**你找到了一个特别的茶壶**"
-    }
-
-    "** Factory front door opening in 35 seconds! **"
-    {
-        "chi" "**正门:35秒**"
-    }
-
-    "** Top left door opening in 25 seconds! **"
-    {
-        "chi" "**顶部右门:25秒**"
-    }
-
-    "** Top right door opening in 10 seconds! **"
-    {
-        "chi" "**顶部左门:10秒**"
-    }
-
-    "** Down under door opening in 25 seconds! **"
-    {
-        "chi" "**底部大门:25秒**"
-    }
-
-    "** Cave C4 planted! **"
-    {
-        "chi" "**引爆炸药**"
+        "chi" "**核弹按钮激活**"
     }
 
     "** Back door opening in 45 seconds! **"
@@ -51,9 +21,44 @@
         "chi" "**防守:45秒**"
     }
 
-    "** Right boat leaving in 15 seconds! **"
+    "** Cave C4 planted! **"
     {
-        "chi" "**船只[左]:15秒**"
+        "chi" "**引爆炸药**"
+    }
+
+    "** Destination reached! Get in the bunker! **"
+    {
+        "chi" "**到达目的地,就地寻找掩体**"
+    }
+
+    "** Down under door opening in 25 seconds! **"
+    {
+        "chi" "**底部大门:25秒**"
+    }
+
+    "** Drawbridge opening in 20 seconds! **"
+    {
+        "chi" "**吊桥:20秒**"
+    }
+
+    "** Factory front door opening in 35 seconds! **"
+    {
+        "chi" "**正门:35秒**"
+    }
+
+    "** Help is on the way! Survive until the chopper is here! **"
+    {
+        "chi" "**活下去**"
+    }
+
+    "** Hidden warehouse door opening in 30 seconds **"
+    {
+        "chi" "**仓库正门:30秒**"
+    }
+
+    "** Hop on the chopper! We are leaving this forsaken place! **"
+    {
+        "chi" "**撤离至直升机,离开这里**"
     }
 
     "** Left boat leaving in 15 seconds! **"
@@ -86,39 +91,14 @@
         "chi" "**平台[四]:15秒**"
     }
 
-    "** The A-Team has been contacted! **"
-    {
-        "chi" "**与救援队伍取得联系**"
-    }
-
-    "** Help is on the way! Survive until the chopper is here! **"
-    {
-        "chi" "**活下去**"
-    }
-
-    "** Drawbridge opening in 20 seconds! **"
-    {
-        "chi" "**吊桥:20秒**"
-    }
-
-    "** Hop on the chopper! We are leaving this forsaken place! **"
-    {
-        "chi" "**撤离至直升机,离开这里**"
-    }
-
-    "** A hidden missile launcher appeared! **"
-    {
-        "chi" "**核弹按钮激活**"
-    }
-
-    "** Destination reached! Get in the bunker! **"
-    {
-        "chi" "**到达目的地,就地寻找掩体**"
-    }
-
     "** Push the remaining zombies out of the bunker! **"
     {
         "chi" "**杀死剩余的僵尸**"
+    }
+
+    "** Right boat leaving in 15 seconds! **"
+    {
+        "chi" "**船只[左]:15秒**"
     }
 
     "** Scrap metal chopper flying out in 7 seconds! **"
@@ -126,14 +106,39 @@
         "chi" "**直升机撤离:7秒**"
     }
 
-    "** Hidden warehouse door opening in 30 seconds **"
+    "** Someone damned the dam! **"
     {
-        "chi" "**仓库正门:30秒**"
+        "chi" "**前方有座大坝**"
     }
 
-    "** Cave C4 planted! **"
+    "** The A-Team has been contacted! **"
     {
-        "chi" "**引爆炸药**"
+        "chi" "**与救援队伍取得联系**"
+    }
+
+    "** Top left door opening in 25 seconds! **"
+    {
+        "chi" "**顶部右门:25秒**"
+    }
+
+    "** Top right door opening in 10 seconds! **"
+    {
+        "chi" "**顶部左门:10秒**"
+    }
+
+    "** Watch out! It's gonna blow! **"
+    {
+        "chi" "**大坝闸门损坏,小心洪水**"
+    }
+
+    "** What are you expecting to open? **"
+    {
+        "chi" "**你在期待着什么?**"
+    }
+
+    "** You touched a very special teapot! **"
+    {
+        "chi" "**你找到了一个特别的茶壶**"
     }
 
 }

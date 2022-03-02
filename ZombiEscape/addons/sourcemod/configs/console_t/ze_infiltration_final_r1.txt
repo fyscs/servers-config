@@ -1,164 +1,169 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "*** someone picked up the secret weapon (120 sec cooldown) ***"
-    {
-        "chi" "** **"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
 
     "--- ELEVATOR 1 LEAVING IN 10 SECONDS ---"
     {
-        "chi" "** **"
-    }
-
-    "*** BLASTDOOR OPENING IN 30 SECONDS ***"
-    {
-        "chi" "** **"
-    }
-
-    "--- TRAM LEAVES IN 10 SECONDS ---"
-    {
-        "chi" "** **"
-    }
-
-    "*** Door opens in 15 seconds ***"
-    {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "--- RESIST 15 SECONDS ---"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "*** Door opens in 18 seconds ***"
+    "--- TRAM LEAVES IN 10 SECONDS ---"
     {
-        "chi" "** **"
-    }
-
-    "*** Find a spot and resist for 50 seconds ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** 5 seconds untill radio scrambler collapses ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** The zombies are trapped for 15 seconds ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** MOVE IT! ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** Resist 20 seconds ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** Resist 20 seconds ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** Resist 15 seconds ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** Opening cargo elevator door ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** Humans are recommended to stay in the elevator***"
-    {
-        "chi" "** **"
-    }
-
-    "*** THIS IS OUR FINAL STAND ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** RESIST OR DIE ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** Contacting HQ ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** A helicopter is waiting at the helipad ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** GET TO THE CHOPPER! ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** HQ will send a nuke at your position ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** Get away from there A.S.A.P ***"
-    {
-        "chi" "** **"
-    }
-
-    "Map made by Luffaren/Per30010"
-    {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "*** 10 seconds untill explosion ***"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "*** Nuke inbound ***"
+    "*** 5 seconds untill radio scrambler collapses ***"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "*** A helicopter is waiting at the helipad ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** BLASTDOOR OPENING IN 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Contacting HQ ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Door opens in 15 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Door opens in 18 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Find a spot and resist for 50 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Get away from there A.S.A.P ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** GET TO THE CHOPPER! ***"
+    {
+        "chi" "__null__"
     }
 
     "*** HELICOPTER IS LEAVING IN 10 SECONDS ***"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "*** HELICOPTER IS LEAVING IN 70 SECONDS ***"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "*** ZOMBIE SHORTCUT TELEPORT ACTIVATED ***"
+    "*** HQ will send a nuke at your position ***"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "*** ZOMBIE SHORTCUT TELEPORT ACTIVATES IN 20 SECONDS ***"
+    "*** Humans are recommended to stay in the elevator***"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "*** MOVE IT! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Nuke inbound ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Opening cargo elevator door ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Resist 15 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Resist 20 seconds ***"
+    {
+        "chi" "__null__"
     }
 
     "*** Resist 20 seconds in the poolroom ***"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "*** RESIST OR DIE ***"
+    {
+        "chi" "__null__"
     }
 
     "*** Run to the controlroom and press the button ***"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "*** someone picked up the secret weapon (120 sec cooldown) ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The zombies are trapped for 15 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** THIS IS OUR FINAL STAND ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ZOMBIE SHORTCUT TELEPORT ACTIVATED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ZOMBIE SHORTCUT TELEPORT ACTIVATES IN 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "Map made by Luffaren/Per30010"
+    {
+        "chi" "__null__"
     }
 
 }

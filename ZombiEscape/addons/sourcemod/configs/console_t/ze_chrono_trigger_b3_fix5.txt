@@ -1,259 +1,24 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "***Player has picked WATER***"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** .... ***"
     {
-        "chi" "**水神器被拾取**"
+        "chi" "**....**"
     }
 
-    "***Recharge: 60 seconds.***"
+    "*** Access granted. ***"
     {
-        "chi" "**传送阵60秒**"
-    }
-
-    "*** Defend for 20 seconds aboard the bridge! ***"
-    {
-        "chi" "**在大桥上守住20秒!**"
-    }
-
-    "*** Defend for 10 seconds aboard the bridge! ***"
-    {
-        "chi" "**还剩10秒,坚持住!**"
-    }
-
-    "*** Defend for 5 seconds aboard the bridge! ***"
-    {
-        "chi" "** 还有5秒,开枪丢雷!!**"
-    }
-
-    "*** Dalton: We will meet again... ***"
-    {
-        "chi" "**道尔顿:我们还会再见面的...**"
-    }
-
-    "*** The mist has disappeared! ***"
-    {
-        "chi" "**雾消失了!**"
-    }
-
-    "*** Dalton uses: Hexagon Mist! Jump! ***"
-    {
-        "chi" "**道尔顿施法:Mist!跳起来! **"
-    }
-
-    "*** The mist has disappeared! ***"
-    {
-        "chi" "**Mist消失了!**"
-    }
-
-    "*** Dalton uses: Hexagon Mist! Crouch! ***"
-    {
-        "chi" "**道尔顿施法:Mist!蹲下!**"
-    }
-
-    "*** Dalton uses: Chaotic Zone! Get away from the zombies! ***"
-    {
-        "chi" "**道尔顿施法:召唤僵尸 拖住它们!**"
-    }
-
-    "*** Dalton: You won't survive this! ***"
-    {
-        "chi" "**道尔顿:你活不下去的!**"
-    }
-
-    "*** Dalton: Say goodbye! ***"
-    {
-        "chi" "**道尔顿:该说再见了!**"
-    }
-
-    "*** Dalton: No! I can't be defeated now! ***"
-    {
-        "chi" "**道尔顿:不!我现在还不能倒下!**"
-    }
-
-    "*** Dalton: Not when immortality is so close to hand. ***"
-    {
-        "chi" "**道尔顿:永生离我如此接近 哎.**"
-    }
-
-    "*** Dalton: We will meet again. ***"
-    {
-        "chi" "**道尔顿:我们会再次见面的.**"
-    }
-
-    "*** Defend for 20 seconds! ***"
-    {
-        "chi" "**防守20秒!**"
-    }
-
-    "*** Defend for 10 seconds! ***"
-    {
-        "chi" "**防守10秒!**"
-    }
-
-    "*** Defend for 5 seconds! ***"
-    {
-        "chi" "**防守5秒!**"
-		"blocked"   "1"
-    }
-
-    "*** Stage 2 has been completed! ***"
-    {
-        "chi" "**第二阶段已经完成!**"
-    }
-
-    "*** Dalton: I've been... defeated? ***"
-    {
-        "chi" "**道尔顿:我被...打败了?**"
-    }
-
-    "*** Dalton: Not yet. I still have one more thing up my sleeve. ***"
-    {
-        "chi" "**道尔顿:不!还没有!我还有件事要做!**"
-    }
-
-    "*** Dalton uses: Omega Flare! Dodge the laser! ***"
-    {
-        "chi" "**道尔顿施法:欧米茄之光!**"
-    }
-
-    "*** Dalton uses: Omega Flare! Dodge the laser! ***"
-    {
-        "chi" "**道尔顿施法:欧米茄之光!快躲开!**"
-    }
-
-    "*** Dalton uses: Omega Flare! Dodge the laser! ***"
-    {
-        "chi" "**道尔顿施法:欧米茄之光!快躲开!**"
-    }
-
-    "*** Dalton: So you finally decided to show up. ***"
-    {
-        "chi" "**道尔顿:最终你还是来了.**"
-    }
-
-    "*** Dalton: I let the Prophet go, knowing he'd mess up sooner or later. ***"
-    {
-        "chi" "**道尔顿:我让先知提前走了,因为我知道她迟早会搞砸.**"
-    }
-
-    "*** Dalton: But I've no use for you anymore. ***"
-    {
-        "chi" "**道尔顿:但我已不再需要你了.**"
-    }
-
-    "*** Dalton: You're history!. ***"
-    {
-        "chi" "**道尔顿:你已经成了历史!**"
-    }
-
-    "*** Dalton uses: Vortex! Get away from the middle! ***"
-    {
-        "chi" "**道尔顿施法:大漩涡!远离中间!**"
-    }
-
-    "*** The vortex has disappeared! ***"
-    {
-        "chi" "**大旋涡消失了!**"
-    }
-
-    "*** Dalton uses: Vortex! Get away from the sides! ***"
-    {
-        "chi" "**道尔顿施法:旋涡!远离左右俩边!**"
-    }
-
-    "*** The vortex has disappeared! ***"
-    {
-        "chi" "**旋涡消失了!**"
-    }
-
-    "*** Dalton uses: Hallation ***"
-    {
-        "chi" "**道尔顿施法:幻觉**"
-    }
-
-    "*** Dalton uses: Hallation ***"
-    {
-        "chi" "**道尔顿施法:幻觉**"
-    }
-
-    "*** Dalton uses: Hallation ***"
-    {
-        "chi" "**道尔顿施法:幻觉**"
-    }
-
-    "*** Dalton uses: Hallation ***"
-    {
-        "chi" "**道尔顿施法:幻觉**"
-    }
-
-    "*** Dalton uses: Teleportation! Get away from the middle! ***"
-    {
-        "chi" "**道尔顿施法:心灵传送!远离中场!**"
-    }
-
-    "*** Barrier 1 breaking in 15 seconds.. ***"
-    {
-        "chi" "**屏障一将在15秒后被打破**"
-    }
-
-    "*** Barrier 2 breaking in 15 seconds.. ***"
-    {
-        "chi" "**屏障二将在15秒后被打破**"
-    }
-
-    "*** Barrier 3 breaking in 15 seconds.. ***"
-    {
-        "chi" "**屏障三将在15秒后被打破**"
-    }
-
-    "Zombies teleporting in 5 seconds."
-    {
-        "chi" "**僵尸5秒后传送**"
-    }
-
-    "Barrier one breaking in 20 seconds."
-    {
-        "chi" "**一号障碍20秒后破碎**"
-    }
-
-    "Barrier one breaking in 5 seconds."
-    {
-        "chi" "**一号障碍5秒后破碎**"
-        "blocked"   "1"
-    }
-
-    "Barrier two breaking in 20 seconds."
-    {
-        "chi" "**二号障碍20秒后破碎**"
-    }
-
-    "Barrier two breaking in 5 seconds."
-    {
-        "chi" "**二号障碍5秒后破碎**"
-        "blocked"   "1"
-    }
-
-    "*** Temple doors will open in 30 seconds. ***"
-    {
-        "chi" "**神庙大门将在30秒后开启**"
-    }
-
-    "*** Temple doors will open in 10 seconds. ***"
-    {
-        "chi" "**神庙大门将在10秒后开启**"
-        "blocked"   "1"
-    }
-
-    "*** Temple doors will open in 5 seconds. ***"
-    {
-        "chi" "**神庙大门将在5秒后开启**"
-        "blocked"   "1"
-    }
-
-    "*** The door is open, escape! ***"
-    {
-        "chi" "**门开了!**"
+        "chi" "**已授权访问权限**"
     }
 
     "*** ADMIN HAS SWITCHED TO LEVEL 1.... ***"
@@ -266,52 +31,14 @@
         "chi" "**管理员将关卡调成了第二关**"
     }
 
-    "*** So you were able to escape... ***"
+    "*** ALERT! SELF DESTRUCT MODE INITIATING***"
     {
-        "chi" "**所以你得以逃脱...**"
+        "chi" "**警告!自毁模块已启动!**"
     }
 
-    "*** The Prophet was right... ***"
+    "*** ALERT: HUMANS DETECTED IN THE SECURITY SYSTEM ***"
     {
-        "chi" "**也许先知是对的...**"
-    }
-
-    "*** You must be stopped! ***"
-    {
-        "chi" "**必须阻止你!**"
-    }
-
-    "*** Teleporter activating in 5 seconds. ***"
-    {
-        "chi" "**传送将在5秒内启动**"
-        "blocked"   "1"
-    }
-
-    "*** Teleporter activating in 15 seconds. ***"
-    {
-        "chi" "**传送将在15秒内启动**"
-        "blocked"   "1"
-    }
-
-    "*** Teleporter activating in 25 seconds. ***"
-    {
-        "chi" "**传送将在25秒内启动**"
-    }
-
-    "*** Bridge spawning in 20 seconds... ***"
-    {
-        "chi" "**桥20秒后开启**"
-    }
-
-    "*** Bridge spawning in 10 seconds... ***"
-    {
-        "chi" "**桥10秒后开启**"
-        "blocked"   "1"
-    }
-
-    "*** Barrier 1 breaking in 20 seconds... ***"
-    {
-        "chi" "**一号障碍20秒后破碎**"
+        "chi" "**警告!防卫系统发现敌人**"
     }
 
     "*** Barrier 1 breaking in 10 seconds... ***"
@@ -319,103 +46,171 @@
         "chi" "**一号障碍10秒后破碎**"
     }
 
+    "*** Barrier 1 breaking in 15 seconds.. ***"
+    {
+        "chi" "**屏障一将在15秒后被打破**"
+    }
+
+    "*** Barrier 1 breaking in 20 seconds... ***"
+    {
+        "chi" "**一号障碍20秒后破碎**"
+    }
+
     "*** Barrier 2 breaking in 10 seconds... ***"
     {
         "chi" "**二号障碍10秒后破碎**"
     }
 
-    "*** Zombies teleporting in 3 seconds.... ***"
+    "*** Barrier 2 breaking in 15 seconds.. ***"
     {
-        "chi" "**僵尸3秒后传送...**"
+        "chi" "**屏障二将在15秒后被打破**"
     }
 
-    "*** Security System uses: Gravity ***"
+    "*** Barrier 3 breaking in 15 seconds.. ***"
     {
-        "chi" "**防卫系统:重力**"
+        "chi" "**屏障三将在15秒后被打破**"
     }
 
-    "*** Security System uses: Reversal ***"
+    "*** Bridge spawning in 10 seconds... ***"
     {
-        "chi" "**防卫系统:二极反转**"
+        "chi" "**桥10秒后开启**"
+        "blocked" "1"
     }
 
-    "*** Security System uses: Delta Attack ***"
+    "*** Bridge spawning in 20 seconds... ***"
     {
-        "chi" "**防卫系统:三位一体!**"
+        "chi" "**桥20秒后开启**"
     }
 
-    "*** Stage 1 Completed! ***"
+    "*** Dalton uses: Chaotic Zone! Get away from the zombies! ***"
     {
-        "chi" "**第一阶段完成!地图翻译:小彩旗**"
+        "chi" "**道尔顿施法:召唤僵尸 拖住它们!**"
     }
 
-    "*** The Security System has been defeated. ***"
+    "*** Dalton uses: Hallation ***"
     {
-        "chi" "**防卫系统被破坏了.**"
+        "chi" "**道尔顿施法:幻觉**"
     }
 
-    "*** ALERT! SELF DESTRUCT MODE INITIATING***"
+    "*** Dalton uses: Hexagon Mist! Crouch! ***"
     {
-        "chi" "**警告!自毁模块已启动!**"
+        "chi" "**道尔顿施法:Mist!蹲下!**"
     }
 
-    "*** Hurry, get in the teleporter! ***"
+    "*** Dalton uses: Hexagon Mist! Jump! ***"
     {
-        "chi" "**走,前往传送器!**"
+        "chi" "**道尔顿施法:Mist!跳起来! **"
     }
 
-    "*** Security System uses: Reduction ***"
+    "*** Dalton uses: Omega Flare! Dodge the laser! ***"
     {
-        "chi" "**防卫系统:减少**"
+        "chi" "**道尔顿施法:欧米茄之光!快躲开!**"
     }
 
-    "*** Teleporter active! ***"
+    "*** Dalton uses: Teleportation! Get away from the middle! ***"
     {
-        "chi" "**传送器启动**"
+        "chi" "**道尔顿施法:心灵传送!远离中场!**"
     }
 
-    "*** Teleporter activating in 20 seconds. ***"
+    "*** Dalton uses: Vortex! Get away from the middle! ***"
     {
-        "chi" "**传送器将在20秒后启动.**"
-        "blocked"   "1"
+        "chi" "**道尔顿施法:大漩涡!远离中间!**"
     }
 
-    "*** Teleporter activating in 30 seconds. ***"
+    "*** Dalton uses: Vortex! Get away from the sides! ***"
     {
-        "chi" "**传送器将在30秒后启动.**"
-        "blocked"   "1"
+        "chi" "**道尔顿施法:旋涡!远离左右俩边!**"
     }
 
-    "*** Teleporter activating in 10 seconds. ***"
+    "*** Dalton: But I've no use for you anymore. ***"
     {
-        "chi" "**传送器将在10秒后启动.**"
-        "blocked"   "1"
+        "chi" "**道尔顿:但我已不再需要你了.**"
     }
 
-    "*** Teleporter activating in 5 seconds. ***"
+    "*** Dalton: I let the Prophet go, knowing he'd mess up sooner or later. ***"
     {
-        "chi" "**传送器将在5秒后启动.**"
-        "blocked"   "1"
+        "chi" "**道尔顿:我让先知提前走了,因为我知道她迟早会搞砸.**"
     }
 
-    "*** Teleporter activating in 35 seconds. ***"
+    "*** Dalton: I've been... defeated? ***"
     {
-        "chi" "**传送器将在35秒后启动.**"
+        "chi" "**道尔顿:我被...打败了?**"
     }
 
-    "*** Zombies teleporting in 3 seconds... ***"
+    "*** Dalton: No! I can't be defeated now! ***"
     {
-        "chi" "**僵尸3秒后传送**"
+        "chi" "**道尔顿:不!我现在还不能倒下!**"
     }
 
-    "*** Stay away from the teleporter as it activates. ***"
+    "*** Dalton: Not when immortality is so close to hand. ***"
     {
-        "chi" "**远离传送器,你会死的哦**"
+        "chi" "**道尔顿:永生离我如此接近 哎.**"
     }
 
-    "*** The temple is locked? ***"
+    "*** Dalton: Not yet. I still have one more thing up my sleeve. ***"
     {
-        "chi" "**神庙被上锁了?**"
+        "chi" "**道尔顿:不!还没有!我还有件事要做!**"
+    }
+
+    "*** Dalton: Say goodbye! ***"
+    {
+        "chi" "**道尔顿:该说再见了!**"
+    }
+
+    "*** Dalton: So you finally decided to show up. ***"
+    {
+        "chi" "**道尔顿:最终你还是来了.**"
+    }
+
+    "*** Dalton: We will meet again. ***"
+    {
+        "chi" "**道尔顿:我们会再次见面的.**"
+    }
+
+    "*** Dalton: We will meet again... ***"
+    {
+        "chi" "**道尔顿:我们还会再见面的...**"
+    }
+
+    "*** Dalton: You won't survive this! ***"
+    {
+        "chi" "**道尔顿:你活不下去的!**"
+    }
+
+    "*** Dalton: You're history!. ***"
+    {
+        "chi" "**道尔顿:你已经成了历史!**"
+    }
+
+    "*** Defend for 10 seconds aboard the bridge! ***"
+    {
+        "chi" "**还剩10秒,坚持住!**"
+    }
+
+    "*** Defend for 10 seconds! ***"
+    {
+        "chi" "**防守10秒!**"
+    }
+
+    "*** Defend for 20 seconds aboard the bridge! ***"
+    {
+        "chi" "**在大桥上守住20秒!**"
+    }
+
+    "*** Defend for 20 seconds! ***"
+    {
+        "chi" "**防守20秒!**"
+    }
+
+    "*** Defend for 5 seconds aboard the bridge! ***"
+    {
+        "chi" "** 还有5秒,开枪丢雷!!**"
+    }
+
+    "*** Defend for 5 seconds! ***"
+    {
+        "chi" "**防守5秒!**"
+        "blocked" "1"
     }
 
     "*** Defend until something happens. ***"
@@ -423,24 +218,9 @@
         "chi" "**守株待兔.**"
     }
 
-    "*** .... ***"
+    "*** Hurry, get in the teleporter! ***"
     {
-        "chi" "**....**"
-    }
-
-    "*** The door is open, fall back!. ***"
-    {
-        "chi" "**门开了,退后!.**"
-    }
-
-    "*** Zombies are teleporting in 3 seconds. ***"
-    {
-        "chi" "**僵尸3秒传送**"
-    }
-
-    "*** The door will be closing in 5 seconds.... ***"
-    {
-        "chi" "**大门5秒后关闭**"
+        "chi" "**走,前往传送器!**"
     }
 
     "*** Lucca: This doesn't look like Zeal Palace. ***"
@@ -453,46 +233,9 @@
         "chi" "**Lucca:有了这台机器,我差点说是..**"
     }
 
-    "*** ALERT: HUMANS DETECTED IN THE SECURITY SYSTEM ***"
-    {
-        "chi" "**警告!防卫系统发现敌人**"
-    }
-
     "*** PREPARE TO BE ELIMINATED ***"
     {
         "chi" "**准备被淘汰吧**"
-    }
-
-    "*** Security System used: Terminate ***"
-    {
-        "chi" "**防卫系统:终止**"
-    }
-
-    "*** ze_Chrono_Trigger. ***"
-    {
-        "chi" "**计时器已触发.地图翻译:小彩旗**"
-    }
-
-    "*** Teleporter activating in 25 seconds. ***"
-    {
-        "chi" "**传送器25秒后启动.**"
-    }
-
-    "*** Teleporter activating in 15 seconds. ***"
-    {
-        "chi" "**传送器15秒后启动.**"
-        "blocked"   "1"
-    }
-
-    "*** Teleporter activating in 5 seconds. ***"
-    {
-        "chi" "**传送器5秒后启动.**"
-        "blocked"   "1"
-    }
-
-    "*** Teleporter active! ***"
-    {
-        "chi" "**传送器启动.**"
     }
 
     "*** Requesting access from Zeal Palace. ***"
@@ -500,9 +243,213 @@
         "chi" "**请从热情宫殿进入.**"
     }
 
-    "*** Access granted. ***"
+    "*** Security System used: Terminate ***"
     {
-        "chi" "**已授权访问权限**"
+        "chi" "**防卫系统:终止**"
+    }
+
+    "*** Security System uses: Delta Attack ***"
+    {
+        "chi" "**防卫系统:三位一体!**"
+    }
+
+    "*** Security System uses: Gravity ***"
+    {
+        "chi" "**防卫系统:重力**"
+    }
+
+    "*** Security System uses: Reduction ***"
+    {
+        "chi" "**防卫系统:减少**"
+    }
+
+    "*** Security System uses: Reversal ***"
+    {
+        "chi" "**防卫系统:二极反转**"
+    }
+
+    "*** So you were able to escape... ***"
+    {
+        "chi" "**所以你得以逃脱...**"
+    }
+
+    "*** Stage 1 Completed! ***"
+    {
+        "chi" "**第一阶段完成!地图翻译:小彩旗**"
+    }
+
+    "*** Stage 2 has been completed! ***"
+    {
+        "chi" "**第二阶段已经完成!**"
+    }
+
+    "*** Stay away from the teleporter as it activates. ***"
+    {
+        "chi" "**远离传送器,你会死的哦**"
+    }
+
+    "*** Teleporter activating in 10 seconds. ***"
+    {
+        "chi" "**传送器将在10秒后启动.**"
+        "blocked" "1"
+    }
+
+    "*** Teleporter activating in 15 seconds. ***"
+    {
+        "chi" "**传送器15秒后启动.**"
+        "blocked" "1"
+    }
+
+    "*** Teleporter activating in 20 seconds. ***"
+    {
+        "chi" "**传送器将在20秒后启动.**"
+        "blocked" "1"
+    }
+
+    "*** Teleporter activating in 25 seconds. ***"
+    {
+        "chi" "**传送器25秒后启动.**"
+    }
+
+    "*** Teleporter activating in 30 seconds. ***"
+    {
+        "chi" "**传送器将在30秒后启动.**"
+        "blocked" "1"
+    }
+
+    "*** Teleporter activating in 35 seconds. ***"
+    {
+        "chi" "**传送器将在35秒后启动.**"
+    }
+
+    "*** Teleporter activating in 5 seconds. ***"
+    {
+        "chi" "**传送器5秒后启动.**"
+        "blocked" "1"
+    }
+
+    "*** Teleporter active! ***"
+    {
+        "chi" "**传送器启动.**"
+    }
+
+    "*** Temple doors will open in 10 seconds. ***"
+    {
+        "chi" "**神庙大门将在10秒后开启**"
+        "blocked" "1"
+    }
+
+    "*** Temple doors will open in 30 seconds. ***"
+    {
+        "chi" "**神庙大门将在30秒后开启**"
+    }
+
+    "*** Temple doors will open in 5 seconds. ***"
+    {
+        "chi" "**神庙大门将在5秒后开启**"
+        "blocked" "1"
+    }
+
+    "*** The door is open, escape! ***"
+    {
+        "chi" "**门开了!**"
+    }
+
+    "*** The door is open, fall back!. ***"
+    {
+        "chi" "**门开了,退后!.**"
+    }
+
+    "*** The door will be closing in 5 seconds.... ***"
+    {
+        "chi" "**大门5秒后关闭**"
+    }
+
+    "*** The mist has disappeared! ***"
+    {
+        "chi" "**Mist消失了!**"
+    }
+
+    "*** The Prophet was right... ***"
+    {
+        "chi" "**也许先知是对的...**"
+    }
+
+    "*** The Security System has been defeated. ***"
+    {
+        "chi" "**防卫系统被破坏了.**"
+    }
+
+    "*** The temple is locked? ***"
+    {
+        "chi" "**神庙被上锁了?**"
+    }
+
+    "*** The vortex has disappeared! ***"
+    {
+        "chi" "**旋涡消失了!**"
+    }
+
+    "*** You must be stopped! ***"
+    {
+        "chi" "**必须阻止你!**"
+    }
+
+    "*** ze_Chrono_Trigger. ***"
+    {
+        "chi" "**计时器已触发.地图翻译:小彩旗**"
+    }
+
+    "*** Zombies are teleporting in 3 seconds. ***"
+    {
+        "chi" "**僵尸3秒传送**"
+    }
+
+    "*** Zombies teleporting in 3 seconds... ***"
+    {
+        "chi" "**僵尸3秒后传送**"
+    }
+
+    "*** Zombies teleporting in 3 seconds.... ***"
+    {
+        "chi" "**僵尸3秒后传送...**"
+    }
+
+    "***Player has picked WATER***"
+    {
+        "chi" "**水神器被拾取**"
+    }
+
+    "***Recharge: 60 seconds.***"
+    {
+        "chi" "**传送阵60秒**"
+    }
+
+    "Barrier one breaking in 20 seconds."
+    {
+        "chi" "**一号障碍20秒后破碎**"
+    }
+
+    "Barrier one breaking in 5 seconds."
+    {
+        "chi" "**一号障碍5秒后破碎**"
+        "blocked" "1"
+    }
+
+    "Barrier two breaking in 20 seconds."
+    {
+        "chi" "**二号障碍20秒后破碎**"
+    }
+
+    "Barrier two breaking in 5 seconds."
+    {
+        "chi" "**二号障碍5秒后破碎**"
+        "blocked" "1"
+    }
+
+    "Zombies teleporting in 5 seconds."
+    {
+        "chi" "**僵尸5秒后传送**"
     }
 
 }

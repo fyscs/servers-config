@@ -1,35 +1,79 @@
 "Console_T"
 {
-	"| PROLOGUE |"
-	{
-		"chi"		"**序幕**"
-	}
-	"| 10 SECONDS |"
-	{
-		"chi"		"**10**"
-	}
-	"| 30 SECONDS |"
-	{
-		"chi"		"**30**"
-	}
-	"| 20 SECONDS |"
-	{
-		"chi"		"**20**"
-	}
-	"| 40 SECONDS |"
-	{
-		"chi"		"**40**"
-	}
-	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
-	{
-		"chi"		"** **"
-	}
-	"***Map ported by ??????***"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT MODE: EASY ***"
-	{
-		"chi"		"**当前模式[简单]**"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "| +500 |"
+    {
+        "chi" "__null__"
+    }
+
+    "| 10 SECONDS |"
+    {
+        "chi" "**10**"
+    }
+
+    "| 20 SECONDS |"
+    {
+        "chi" "**20**"
+    }
+
+    "| 30 SECONDS |"
+    {
+        "chi" "**30**"
+    }
+
+    "| 40 SECONDS |"
+    {
+        "chi" "**40**"
+    }
+
+    "| ADMIN KILL PRESSED |"
+    {
+        "chi" "__null__"
+    }
+
+    "| Kill List Enabled |"
+    {
+        "chi" "__null__"
+    }
+
+    "| PASSAGE 1 SELECTED |"
+    {
+        "chi" "__null__"
+    }
+
+    "| PASSAGE 2 |"
+    {
+        "chi" "__null__"
+    }
+
+    "| PASSAGE 2 SELECTED |"
+    {
+        "chi" "__null__"
+    }
+
+    "| PASSAGE 3 |"
+    {
+        "chi" "__null__"
+    }
+
+    "| PASSAGE 3 SELECTED |"
+    {
+        "chi" "__null__"
+    }
+
+    "| PROLOGUE |"
+    {
+        "chi" "**序幕**"
+    }
+
 }

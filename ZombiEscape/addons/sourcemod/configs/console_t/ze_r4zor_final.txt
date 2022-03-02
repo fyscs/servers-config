@@ -1,103 +1,184 @@
 "Console_T"
 {
-	"***Special thx:Lerrdy,Puklica***"
-	{
-		"chi"		"**感谢:Lerrdy,Puklica 提供的帮助**"
-	}
-	"***Thx Viktorski,Acelor,Welyof***"
-	{
-		"chi"		"**感谢:Viktorski,Acelor,Welyof 提供的帮助**"
-	}
-	"***www.laming.cz***"
-	{
-		"chi"		"** **"
-	}
-	"***GL-HF and mnam do pici!***"
-	{
-		"chi"		"** **"
-	}
-	"***Welcome to my first map PePeHands***"
-	{
-		"chi"		"**这是我制作的第一张地图**"
-	}
-	"***Defend  45 seconds left***"
-	{
-		"chi"		"**防守45秒**"
-	}
-	"***Afk teleport 5 second left***"
-	{
-		"chi"		"**挂机咸鱼将在5秒后传送**"
-	}
-	"***Defend  15 seconds left***"
-	{
-		"chi"		"**防守15秒**"
-	}
-	"***Go Go Go!!!***"
-	{
-		"chi"		"**溜了溜了**"
-	}
-	"***Defend 45 seconds left***"
-	{
-		"chi"		"**防守45秒**"
-	}
-	"***Afk teleport 5 seconds left***"
-	{
-		"chi"		"**挂机咸鱼将在5秒后传送**"
-	}
-	"***Defend 15 seconds left***"
-	{
-		"chi"		"**防守15秒**"
-	}
-	"***Defend 45 second left***"
-	{
-		"chi"		"**防守45秒**"
-	}
-	"***Defend here until the fence breaks***"
-	{
-		"chi"		"**守住这里直到栅栏碎裂**"
-	}
-	"***The first fence broke***"
-	{
-		"chi"		"**第一道栅栏已碎裂**"
-	}
-	"***The second fence will break in 55 seconds***"
-	{
-		"chi"		"**第二道栅栏将在55秒后碎裂**"
-	}
-	"***Afk teleport 5second left***"
-	{
-		"chi"		"**挂机咸鱼将在5秒后传送**"
-	}
-	"***Only 10 seconds left***"
-	{
-		"chi"		"**10**"
-	}
-	"***Ready for lasers? :)***"
-	{
-		"chi"		"**听说你们喜欢跳刀**"
-	}
-	"***GO GO GO***"
-	{
-		"chi"		"**溜了溜了**"
-	}
-	"***The final fence broke***"
-	{
-		"chi"		"**最后的栅栏已碎裂**"
-	}
-	"***Lasers!!!gl-hf***"
-	{
-		"chi"		"**弹幕狗给俺死**"
-	}
-	"***Too easy for you?***"
-	{
-		"chi"		"**对你来说是不是太简单了**"
-	}
-	"***Ok...***"
-	{
-		"chi"		"**很好**"
-	}
-	"***Lets try something harder :)***"
-	{
-		"chi"		"**让我们再努力一点**"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***Afk teleport 5 second left***"
+    {
+        "chi" "**挂机咸鱼将在5秒后传送**"
+    }
+
+    "***Afk teleport 5 seconds left***"
+    {
+        "chi" "**挂机咸鱼将在5秒后传送**"
+    }
+
+    "***Afk teleport 5second left***"
+    {
+        "chi" "**挂机咸鱼将在5秒后传送**"
+    }
+
+    "***Coming soon :-P***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Congratulation!!!***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Defend  15 seconds left***"
+    {
+        "chi" "**防守15秒**"
+    }
+
+    "***Defend  45 seconds left***"
+    {
+        "chi" "**防守45秒**"
+    }
+
+    "***Defend 15 seconds left***"
+    {
+        "chi" "**防守15秒**"
+    }
+
+    "***Defend 45 second left***"
+    {
+        "chi" "**防守45秒**"
+    }
+
+    "***Defend 45 seconds left***"
+    {
+        "chi" "**防守45秒**"
+    }
+
+    "***Defend here until the fence breaks***"
+    {
+        "chi" "**守住这里直到栅栏碎裂**"
+    }
+
+    "***GL-HF and mnam do pici!***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Go Go Go!!!***"
+    {
+        "chi" "**溜了溜了**"
+    }
+
+    "***GO GO GO***"
+    {
+        "chi" "**溜了溜了**"
+    }
+
+    "***Lasers!!!gl-hf***"
+    {
+        "chi" "**弹幕狗给俺死**"
+    }
+
+    "***Lerrdy si hraje s vasemi ousky :)***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Lets try something harder :)***"
+    {
+        "chi" "**让我们再努力一点**"
+    }
+
+    "***Macka picka has been acquired***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Map by R4ZoR,Lerrdy,Puklica***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Mnam do piiiici ez win!***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Next map : ze_anal***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Ok...***"
+    {
+        "chi" "**很好**"
+    }
+
+    "***Only 10 seconds left***"
+    {
+        "chi" "**10**"
+    }
+
+    "***Pekne no!You are PRO!!!***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Ready for lasers? :)***"
+    {
+        "chi" "**听说你们喜欢跳刀**"
+    }
+
+    "***Shiiiiiit***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Special thx:Lerrdy,Puklica***"
+    {
+        "chi" "**感谢:Lerrdy,Puklica 提供的帮助**"
+    }
+
+    "***The final fence broke***"
+    {
+        "chi" "**最后的栅栏已碎裂**"
+    }
+
+    "***The first fence broke***"
+    {
+        "chi" "**第一道栅栏已碎裂**"
+    }
+
+    "***The second fence will break in 55 seconds***"
+    {
+        "chi" "**第二道栅栏将在55秒后碎裂**"
+    }
+
+    "***Thx Viktorski,Acelor,Welyof***"
+    {
+        "chi" "**感谢:Viktorski,Acelor,Welyof 提供的帮助**"
+    }
+
+    "***Too easy for you?***"
+    {
+        "chi" "**对你来说是不是太简单了**"
+    }
+
+    "***Welcome to my first map PePeHands***"
+    {
+        "chi" "**这是我制作的第一张地图**"
+    }
+
+    "***www.laming.cz***"
+    {
+        "chi" "__null__"
+    }
+
 }
