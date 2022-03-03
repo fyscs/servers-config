@@ -1,159 +1,169 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "**Door 1 will open in 10 seconds**"
-    {
-        "chi" "** **"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "**Door 2 will open in 10 seconds**"
-    {
-        "chi" "** **"
-    }
 
-    "**The poison waste machines have been activated**"
+    "** Defend the gates until departure!**"
     {
-        "chi" "** **"
-    }
-
-    "**The swine flu disease will reach the first floor in 10 seconds**"
-    {
-        "chi" "** **"
-    }
-
-    "**Elevator is activated. Leaving in 12 seconds**"
-    {
-        "chi" "** **"
-    }
-
-    "**The elevator door is now open. Closing in 5 seconds**"
-    {
-        "chi" "** **"
-    }
-
-    "**The elevator door will open in 40 seconds**"
-    {
-        "chi" "** **"
-    }
-
-    "**The elevator door will open in 10 seconds**"
-    {
-        "chi" "** **"
-    }
-
-    "**The ebola disease will reach the second floor in 10 seconds**"
-    {
-        "chi" "** **"
-    }
-
-    "**Final door will open in 30 seconds**"
-    {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "**Activated the emergency button...**"
     {
-        "chi" "** **"
-    }
-
-    "**Preparing fuel. Help will arrive in 40 seconds**"
-    {
-        "chi" "** **"
-    }
-
-    "**Help will arrive in 20 seconds**"
-    {
-        "chi" "** **"
-    }
-
-    "**Help will arrive in 10 seconds!**"
-    {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "**Closing gates in...**"
     {
-        "chi" "** **"
-    }
-
-    "**The teleports are now enabled!**"
-    {
-        "chi" "** **"
-    }
-
-    "**The machines have now been shut off...**"
-    {
-        "chi" "** **"
-    }
-
-    "**Help has arrived. Departure in 15 seconds**"
-    {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "**Departure in 5 seconds**"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "**The nukes have been launched!!** "
+    "**Door 1 will open in 10 seconds**"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "** Defend the gates until departure!**"
+    "**Door 2 will open in 10 seconds**"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "**Elevator is activated. Leaving in 12 seconds**"
+    {
+        "chi" "__null__"
+    }
+
+    "**Final door will open in 30 seconds**"
+    {
+        "chi" "__null__"
+    }
+
+    "**Help has arrived. Departure in 15 seconds**"
+    {
+        "chi" "__null__"
+    }
+
+    "**Help will arrive in 10 seconds!**"
+    {
+        "chi" "__null__"
+    }
+
+    "**Help will arrive in 20 seconds**"
+    {
+        "chi" "__null__"
     }
 
     "**Map made by: Westsid3r**"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
-    "**The infected have passed the final door!**"
+    "**Preparing fuel. Help will arrive in 40 seconds**"
     {
-        "chi" "** **"
-    }
-
-    "**Zombies will be teleported in 35 secs!**"
-    {
-        "chi" "** **"
-    }
-
-    "**Zombies arriving closer in 20 secs!**"
-    {
-        "chi" "** **"
-    }
-
-    "**Zombies arriving in 5 secs!**"
-    {
-        "chi" "** **"
-    }
-
-    "**The junk machines will start in 3 seconds...**"
-    {
-        "chi" "** **"
-    }
-
-    "**The bridge is preparing for activation...**"
-    {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "**Prevent the infected from crossing the bridge!**"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "**Shaft 1 will open in 15 seconds**"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "**Shaft 2 will open in 15 seconds**"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "**The bridge is preparing for activation...**"
+    {
+        "chi" "__null__"
+    }
+
+    "**The ebola disease will reach the second floor in 10 seconds**"
+    {
+        "chi" "__null__"
+    }
+
+    "**The elevator door is now open. Closing in 5 seconds**"
+    {
+        "chi" "__null__"
+    }
+
+    "**The elevator door will open in 10 seconds**"
+    {
+        "chi" "__null__"
+    }
+
+    "**The elevator door will open in 40 seconds**"
+    {
+        "chi" "__null__"
+    }
+
+    "**The infected have passed the final door!**"
+    {
+        "chi" "__null__"
+    }
+
+    "**The junk machines will start in 3 seconds...**"
+    {
+        "chi" "__null__"
+    }
+
+    "**The machines have now been shut off...**"
+    {
+        "chi" "__null__"
+    }
+
+    "**The nukes have been launched!!** "
+    {
+        "chi" "__null__"
+    }
+
+    "**The poison waste machines have been activated**"
+    {
+        "chi" "__null__"
+    }
+
+    "**The swine flu disease will reach the first floor in 10 seconds**"
+    {
+        "chi" "__null__"
+    }
+
+    "**The teleports are now enabled!**"
+    {
+        "chi" "__null__"
+    }
+
+    "**Zombies arriving closer in 20 secs!**"
+    {
+        "chi" "__null__"
+    }
+
+    "**Zombies arriving in 5 secs!**"
+    {
+        "chi" "__null__"
+    }
+
+    "**Zombies will be teleported in 35 secs!**"
+    {
+        "chi" "__null__"
     }
 
 }

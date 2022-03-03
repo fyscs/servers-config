@@ -1,73 +1,19 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
 
     "**After 20s start fight**"
     {
         "chi" "**20秒后开始战斗 **"
-    }
-
-    "**The door will open in 25s**"
-    {
-        "chi" "**大门25秒后打开 **"
-    }
-
-    "**Kill it**"
-    {
-        "chi" "**快给他干碎 **"
-    }
-
-    "**The door will open in 15s**"
-    {
-        "chi" "**大门15秒后打开 **"
-    }
-
-    "**Zombie will enter in 8s**"
-    {
-        "chi" "**僵尸8秒后进攻 **"
-    }
-
-    "**The door will be open in 25 seconds**"
-    {
-        "chi" "**大门25秒后打开 **"
-    }
-
-    "**The door will open in 15 seconds**"
-    {
-        "chi" "**大门15秒后打开 **"
-    }
-
-    "**The door will open in 30 seconds**"
-    {
-        "chi" "**大门30秒后打开 **"
-    }
-
-    "**The door will open in 25 seconds**"
-    {
-        "chi" "**大门25秒后打开 **"
-    }
-
-    "**The door will open in 45s**"
-    {
-        "chi" "**大门45秒后打开 **"
-    }
-
-    "**left after 8s**"
-    {
-        "chi" "**坚守8秒 **"
-    }
-
-    "**This is not a successful map**"
-    {
-        "chi" "**该地图不是最终成品 **"
-    }
-
-    "**And this is my first map**"
-    {
-        "chi" "**这是我的第一张地图 **"
     }
 
     "**And I will make better map in future**"
@@ -75,9 +21,24 @@
         "chi" "**我将在未来优化的更好 **"
     }
 
-    "**The map was left unfinished because of something**"
+    "**And this is my first map**"
     {
-        "chi" "**该地图尚未完成 **"
+        "chi" "**这是我的第一张地图 **"
+    }
+
+    "**Kill it**"
+    {
+        "chi" "**快给他干碎 **"
+    }
+
+    "**left after 8s**"
+    {
+        "chi" "**坚守8秒 **"
+    }
+
+    "**Map BY Tastysaw & Hanz71711**"
+    {
+        "chi" "__null__"
     }
 
     "**So it have many bugs**"
@@ -85,9 +46,59 @@
         "chi" "**所以可能会有意想不到的bug(如有问题请联系龙鸣) **"
     }
 
+    "**The door will be open in 25 seconds**"
+    {
+        "chi" "**大门25秒后打开 **"
+    }
+
     "**The door will close in 20s**"
     {
         "chi" "**大门20秒后打开 **"
+    }
+
+    "**The door will open in 15 seconds**"
+    {
+        "chi" "**大门15秒后打开 **"
+    }
+
+    "**The door will open in 15s**"
+    {
+        "chi" "**大门15秒后打开 **"
+    }
+
+    "**The door will open in 25 seconds**"
+    {
+        "chi" "**大门25秒后打开 **"
+    }
+
+    "**The door will open in 25s**"
+    {
+        "chi" "**大门25秒后打开 **"
+    }
+
+    "**The door will open in 30 seconds**"
+    {
+        "chi" "**大门30秒后打开 **"
+    }
+
+    "**The door will open in 45s**"
+    {
+        "chi" "**大门45秒后打开 **"
+    }
+
+    "**The map was left unfinished because of something**"
+    {
+        "chi" "**该地图尚未完成 **"
+    }
+
+    "**This is not a successful map**"
+    {
+        "chi" "**该地图不是最终成品 **"
+    }
+
+    "**Zombie will enter in 9s**"
+    {
+        "chi" "__null__"
     }
 
 }

@@ -1,251 +1,339 @@
 "Console_T"
 {
-	"### MAP CREATED BY  SHIKA  ###"
-	{
-		"chi"		"**地图作者: SHIKA 地图翻译: 户冢彩加&萌大奶@风云社 **"
-	}
-	"### 10 SECONDS ###"
-	{
-		"chi"		"**木门将在10秒后裂开**"
-	}
-	"### 5 Seconds left ###"
-	{
-		"chi"		"**还有5秒 **"
-	}
-	"### Boss room door now closed !!, Goodluck ###"
-	{
-		"chi"		"**boss房门正在关闭!!祝你们好运**"
-	}
-	"### BOSS COMING IN 3 SECONDS ###"
-	{
-		"chi"		"**boss在3秒后出现**"
-	}
-	"### 2 SECONDS ###"
-	{
-		"chi"		"**2秒**"
-	}
-	"### 1 SECONDS ###"
-	{
-		"chi"		"**1秒**"
-	}
-	"### UNKNOWN BOSS APPEARS ###"
-	{
-		"chi"		"**有什么东西出现了**"
-	}
-	"### KILL HIM IN 2 MINTUES  ##"
-	{
-		"chi"		"**一定要在2分钟内杀死他**"
-	}
-	"### BEFORE HE CASTS AN >> ULTIMA << ###"
-	{
-		"chi"		"**别让他放出终极!**"
-	}
-	"### DONT LET SHE FOOLS YOU  ###"
-	{
-		"chi"		"**小心点 注意走位**"
-	}
-	"### WHEN SHE KISSES THE WALL ###"
-	{
-		"chi"		"****"
-	}
-	"### UNKNOWN BOSS HAS DISAPPEARED ###"
-	{
-		"chi"		"**boss死了**"
-	}
-	"## The jail door is going to BREAK in 15 seconds ##"
-	{
-		"chi"		"**尸笼在15秒后打开 **"
-	}
-	"## Run to the final destination ##"
-	{
-		"chi"		"**快奔向终点 **"
-	}
-	"### ZOMBIES WAIT FOR 10 SECONDS ###"
-	{
-		"chi"		"**还有10秒 僵尸就来了!**"
-	}
-	"### THIS IS IT !! THE LAST DEFEND ###"
-	{
-		"chi"		"**这里就是最后的守点了**"
-	}
-	"### GET INSIDE BEFORE THE DOOR CLOSED ###"
-	{
-		"chi"		"** 在门关之前赶紧进去**"
-	}
-	"### IN 20 SECONDS AND DEFEND BOTH SIDES ###"
-	{
-		"chi"		"**防守僵尸20秒**"
-	}
-	"### HOLD FOR 40 SECONDS ###"
-	{
-		"chi"		"**坚守僵尸40秒**"
-	}
-	"### 30 SECONDS ###"
-	{
-		"chi"		"**还有僵尸30秒**"
-	}
-	"### ZOMBIES ARE COMING FROM LEFT AND RIGHT ###"
-	{
-		"chi"		"**小心两侧的僵尸**"
-	}
-	"### 20 SECONDS ###"
-	{
-		"chi"		"**还有20秒 **"
-	}
-	"### 5 SECONDS ###"
-	{
-		"chi"		"**还有5秒 **"
-	}
-	"### 4 SECONDS ###"
-	{
-		"chi"		"**4**"
-	}
-	"### 3 SECONDS ###"
-	{
-		"chi"		"**3**"
-	}
-	"### Congratulation !! YOU MADE IT !!! ###"
-	{
-		"chi"		"**恭喜!!你成功了!**"
-	}
-	"### Welcome to Abandoned Bio Bunker  ###"
-	{
-		"chi"		"**欢迎来到废弃生物燃料库**"
-	}
-	"### Wooden doors break in 10 seconds ###"
-	{
-		"chi"		"**门将在10秒后打开**"
-	}
-	"### THANKS TO MAPEADORES SERVER ###"
-	{
-		"chi"		"**感谢您的游玩**"
-	}
-	"### Door 2 open in 25 seconds ###"
-	{
-		"chi"		"**二号门将在25秒后打开**"
-	}
-	"### Door 2 open in 5 Seconds ###"
-	{
-		"chi"		"**二号门将在5秒后打开**"
-	}
-	"### Door 2 Open !! ###"
-	{
-		"chi"		"**二号门打开了 **"
-	}
-	"### ZOMBIES ARE COMING FROM DOOR 2 !! ###"
-	{
-		"chi"		"**僵尸从二号门来了!! **"
-	}
-	"### HOLD HERE FOR 30 SECONDS ###"
-	{
-		"chi"		"**坚守僵尸30秒**"
-	}
-	"### 20 Seconds left ###"
-	{
-		"chi"		"**还需要防守20秒**"
-	}
-	"### 10 Seconds left ###"
-	{
-		"chi"		"**还剩10秒!**"
-	}
-	"### >> Backk Backk << ###"
-	{
-		"chi"		"**撤退!**"
-	}
-	"### ZOMBIES ARE COMING !!! ###"
-	{
-		"chi"		"**僵尸被释放了!**"
-	}
-	"### >> HOLD THIS DOOR !! << ###"
-	{
-		"chi"		"**守住这个地方!**"
-	}
-	"### ZOMBIES ARE COMING !! ###"
-	{
-		"chi"		"**僵尸被放出来了!**"
-	}
-	"### >> Back Backk << ###"
-	{
-		"chi"		"**撤退!**"
-	}
-	"### Hold here !! ###"
-	{
-		"chi"		"**在这里守僵尸!**"
-	}
-	"### Before the boss room ###"
-	{
-		"chi"		"**在boss房门前**"
-	}
-	"### Hold for  40 seconds  ###"
-	{
-		"chi"		"**守住僵尸40秒 **"
-	}
-	"###  30 seconds  ###"
-	{
-		"chi"		"**还有30秒**"
-	}
-	"###  20 seconds  ###"
-	{
-		"chi"		"**还剩20秒**"
-	}
-	"###  5 seconds  ###"
-	{
-		"chi"		"**只有5秒了!**"
-	}
-	"###  4 seconds  ###"
-	{
-		"chi"		"**4**"
-	}
-	"###  3 seconds  ###"
-	{
-		"chi"		"**3**"
-	}
-	"###  2 seconds  ###"
-	{
-		"chi"		"**2**"
-	}
-	"### The last door will open after this door closed ###"
-	{
-		"chi"		"**守到这扇门完全关闭最终的门才会打开**"
-	}
-	"### Defend until the door closed ###"
-	{
-		"chi"		"**守到这个门完全关**"
-	}
-	"### Run to the boss room ###"
-	{
-		"chi"		"**快进boss房**"
-	}
-	"### BOSS room door will be closed in 10 Seconds ###"
-	{
-		"chi"		"**boss房还有10秒关闭**"
-	}
-	"### All Players that are not in the boss room ###"
-	{
-		"chi"		"**没有在boss房的人类**"
-	}
-	"### will be teleported to the jail room ###"
-	{
-		"chi"		"**马上会被传送到尸笼和僵尸啵嘴**"
-	}
-	"### Door 1 open in 25 seconds ###"
-	{
-		"chi"		"**一号门将在25秒后开启**"
-	}
-	"### Door 1 open in 5 Seconds left ###"
-	{
-		"chi"		"**一号门还有5秒才会开 **"
-	}
-	"### Door 1 Open !!! ###"
-	{
-		"chi"		"**一号门打开了**"
-	}
-	"### ZOMBIES ARE COMING FROM DOOR 1 !! ###"
-	{
-		"chi"		"**僵尸们很多在一号门冲过来了!**"
-	}
-	"## Ultima has been casted ##"
-	{
-		"chi"		"**boss释放终极**"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "## Run to the final destination ##"
+    {
+        "chi" "**快奔向终点 **"
+    }
+
+    "## The jail door is going to BREAK in 15 seconds ##"
+    {
+        "chi" "**尸笼在15秒后打开 **"
+    }
+
+    "## Ultima has been casted ##"
+    {
+        "chi" "**boss释放终极**"
+    }
+
+    "###  2 seconds  ###"
+    {
+        "chi" "**2**"
+    }
+
+    "###  20 seconds  ###"
+    {
+        "chi" "**还剩20秒**"
+    }
+
+    "###  3 seconds  ###"
+    {
+        "chi" "**3**"
+    }
+
+    "###  30 seconds  ###"
+    {
+        "chi" "**还有30秒**"
+    }
+
+    "###  4 seconds  ###"
+    {
+        "chi" "**4**"
+    }
+
+    "###  5 seconds  ###"
+    {
+        "chi" "**只有5秒了!**"
+    }
+
+    "### >> Back Backk << ###"
+    {
+        "chi" "**撤退!**"
+    }
+
+    "### >> Backk Backk << ###"
+    {
+        "chi" "**撤退!**"
+    }
+
+    "### >> HOLD THIS DOOR !! << ###"
+    {
+        "chi" "**守住这个地方!**"
+    }
+
+    "### 1 SECONDS ###"
+    {
+        "chi" "**1秒**"
+    }
+
+    "### 10 seconds ###"
+    {
+        "chi" "__null__"
+    }
+
+    "### 10 Seconds ###"
+    {
+        "chi" "__null__"
+    }
+
+    "### 10 SECONDS ###"
+    {
+        "chi" "**木门将在10秒后裂开**"
+    }
+
+    "### 10 Seconds left ###"
+    {
+        "chi" "**还剩10秒!**"
+    }
+
+    "### 2 SECONDS ###"
+    {
+        "chi" "**2秒**"
+    }
+
+    "### 20 SECONDS ###"
+    {
+        "chi" "**还有20秒 **"
+    }
+
+    "### 20 Seconds left ###"
+    {
+        "chi" "**还需要防守20秒**"
+    }
+
+    "### 3 SECONDS ###"
+    {
+        "chi" "**3**"
+    }
+
+    "### 30 SECONDS ###"
+    {
+        "chi" "**还有僵尸30秒**"
+    }
+
+    "### 4 SECONDS ###"
+    {
+        "chi" "**4**"
+    }
+
+    "### 5 Seconds ###"
+    {
+        "chi" "__null__"
+    }
+
+    "### 5 SECONDS ###"
+    {
+        "chi" "**还有5秒 **"
+    }
+
+    "### 5 Seconds left ###"
+    {
+        "chi" "**还有5秒 **"
+    }
+
+    "### All Players that are not in the boss room ###"
+    {
+        "chi" "**没有在boss房的人类**"
+    }
+
+    "### BEFORE HE CASTS AN >> ULTIMA << ###"
+    {
+        "chi" "**别让他放出终极!**"
+    }
+
+    "### Before the boss room ###"
+    {
+        "chi" "**在boss房门前**"
+    }
+
+    "### BOSS COMING IN 3 SECONDS ###"
+    {
+        "chi" "**boss在3秒后出现**"
+    }
+
+    "### Boss room door now closed !!, Goodluck ###"
+    {
+        "chi" "**boss房门正在关闭!!祝你们好运**"
+    }
+
+    "### BOSS room door will be closed in 10 Seconds ###"
+    {
+        "chi" "**boss房还有10秒关闭**"
+    }
+
+    "### Congratulation !! YOU MADE IT !!! ###"
+    {
+        "chi" "**恭喜!!你成功了!**"
+    }
+
+    "### Defend until the door closed ###"
+    {
+        "chi" "**守到这个门完全关**"
+    }
+
+    "### DONT LET SHE FOOLS YOU  ###"
+    {
+        "chi" "**小心点 注意走位**"
+    }
+
+    "### Door 1 Open !!! ###"
+    {
+        "chi" "**一号门打开了**"
+    }
+
+    "### Door 1 open in 25 seconds ###"
+    {
+        "chi" "**一号门将在25秒后开启**"
+    }
+
+    "### Door 1 open in 5 Seconds left ###"
+    {
+        "chi" "**一号门还有5秒才会开 **"
+    }
+
+    "### Door 2 Open !! ###"
+    {
+        "chi" "**二号门打开了 **"
+    }
+
+    "### Door 2 open in 25 seconds ###"
+    {
+        "chi" "**二号门将在25秒后打开**"
+    }
+
+    "### Door 2 open in 5 Seconds ###"
+    {
+        "chi" "**二号门将在5秒后打开**"
+    }
+
+    "### GET INSIDE BEFORE THE DOOR CLOSED ###"
+    {
+        "chi" "** 在门关之前赶紧进去**"
+    }
+
+    "### Hold for  40 seconds  ###"
+    {
+        "chi" "**守住僵尸40秒 **"
+    }
+
+    "### HOLD FOR 40 SECONDS ###"
+    {
+        "chi" "**坚守僵尸40秒**"
+    }
+
+    "### Hold here !! ###"
+    {
+        "chi" "**在这里守僵尸!**"
+    }
+
+    "### Hold here for 30 seconds ###"
+    {
+        "chi" "__null__"
+    }
+
+    "### IN 20 SECONDS AND DEFEND BOTH SIDES ###"
+    {
+        "chi" "**防守僵尸20秒**"
+    }
+
+    "### KILL HIM IN 2 MINTUES  ##"
+    {
+        "chi" "**一定要在2分钟内杀死他**"
+    }
+
+    "### MAP CREATED BY '' SHIKA '' ###"
+    {
+        "chi" "__null__"
+    }
+
+    "### Run to the boss room ###"
+    {
+        "chi" "**快进boss房**"
+    }
+
+    "### THANKS TO MAPEADORES SERVER ###"
+    {
+        "chi" "**感谢您的游玩**"
+    }
+
+    "### The last door will open after this door closed ###"
+    {
+        "chi" "**守到这扇门完全关闭最终的门才会打开**"
+    }
+
+    "### THIS IS IT !! THE LAST DEFEND ###"
+    {
+        "chi" "**这里就是最后的守点了**"
+    }
+
+    "### UNKNOWN BOSS APPEARS ###"
+    {
+        "chi" "**有什么东西出现了**"
+    }
+
+    "### UNKNOWN BOSS HAS DISAPPEARED ###"
+    {
+        "chi" "**boss死了**"
+    }
+
+    "### Welcome to Abandoned Bio Bunker  ###"
+    {
+        "chi" "**欢迎来到废弃生物燃料库**"
+    }
+
+    "### WHEN SHE KISSES THE WALL ###"
+    {
+        "chi" "****"
+    }
+
+    "### will be teleported to the jail room ###"
+    {
+        "chi" "**马上会被传送到尸笼和僵尸啵嘴**"
+    }
+
+    "### Wooden doors break in 10 seconds ###"
+    {
+        "chi" "**门将在10秒后打开**"
+    }
+
+    "### ZOMBIES ARE COMING !! ###"
+    {
+        "chi" "**僵尸被放出来了!**"
+    }
+
+    "### ZOMBIES ARE COMING !!! ###"
+    {
+        "chi" "**僵尸被释放了!**"
+    }
+
+    "### ZOMBIES ARE COMING FROM DOOR 1 !! ###"
+    {
+        "chi" "**僵尸们很多在一号门冲过来了!**"
+    }
+
+    "### ZOMBIES ARE COMING FROM DOOR 2 !! ###"
+    {
+        "chi" "**僵尸从二号门来了!! **"
+    }
+
+    "### ZOMBIES ARE COMING FROM LEFT AND RIGHT ### "
+    {
+        "chi" "__null__"
+    }
+
+    "### ZOMBIES WAIT FOR 10 SECONDS ###"
+    {
+        "chi" "**还有10秒 僵尸就来了!**"
+    }
+
 }

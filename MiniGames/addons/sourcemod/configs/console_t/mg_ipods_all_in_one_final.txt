@@ -1,126 +1,251 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
-
-    "***CT'S Have Scored A Point!!!***"
-    {
-        "chi" "CT们得到一分!!!"
-    }
-
-    "***CT'S Get Ready To Serve In...***"
-    {
-        "chi" "CT们准备发球..."
-    }
-
-    "***3***"
-    {
-        "chi" "3"
-    }
-
-    "***2***"
-    {
-        "blocked" "1"
-        "chi" "2"
-    }
-
-    "***1***"
-    {
-        "blocked" "1"
-        "chi" "1"
-    }
-
-    "***Serve Up!***"
-    {
-        "chi" "发球!"
-    }
-
-    "***T'S Get Ready To Serve In...***"
-    {
-        "chi" "T们准备发球..."
-    }
-
-    "***T'S Have Scored A Point!!!***"
-    {
-        "chi" "T们得到一分!!!"
-    }
-
-    "***CT'S Have Won The Match!!!***"
-    {
-        "chi" "恭喜CT赢下了这场比赛!!!"
-    }
-
-    "***T'S Have Won The Match!!!***"
-    {
-        "chi" "恭喜T赢下了这场比赛!!!"
-    }
-
-    ">>>Whitelist the commands below:<<<"
-    {
-        "blocked" "1"
-        "chi" "** **"
-    }
-
-    ">>sm_cvar, sm_say<<"
-    {
-        "blocked" "1"
-        "chi" "** **"
-    }
-
-    ">>Map requires (balanced values if you don't want to whitelist it):<<<"
-    {
-        "blocked" "1"
-        "chi" "** **"
-    }
-
-    ">>>cs_enable_player_physics_box 1 & phys_pushscale 900 & phys_timescale 0.75<<<"
-    {
-        "blocked" "1"
-        "chi" "** **"
-    }
-
-    "Walls Will Break In 5 Seconds."
-    {
-        "chi" "5秒钟后墙壁消失"
-    }
-
-    "3"
-    {
-        "chi" "3"
-    }
-
-    "2"
-    {
-        "blocked" "1"
-        "chi" "2"
-    }
-
-    "1"
-    {
-        "blocked" "1"
-        "chi" "1"
-    }
-
-    "GO!!!"
-    {
-        "chi" "冲!!!"
-    }
-
-    "***GOAL!!!***"
-    {
-        "chi" "球进啦!!!"
-    }
-
-    "***GG...But CT's Are The Winners...So The T's Must Die!!!***"
-    {
-        "chi" "打得不错...但是CT是最后的赢家 T准备好被刷了吗?!"
-    }
-
-    "***GG...But T's Are The Winners...So The CT's Must Die!!!***"
-    {
-        "chi" "打得不错...但是T是最后的赢家 CT准备好被刷了吗?!"
-    }
-
+	"***CT'S Have Scored A Point!!!***"
+	{
+		"chi"		"CT们得到一分!!!"
+	}
+	"***CT'S Get Ready To Serve In...***"
+	{
+		"chi"		"CT们准备发球..."
+	}
+	"***3***"
+	{
+		"chi"		"3"
+	}
+	"***2***"
+	{
+		"blocked"		"1"
+		"chi"		"2"
+	}
+	"***1***"
+	{
+		"blocked"		"1"
+		"chi"		"1"
+	}
+	"***Serve Up!***"
+	{
+		"chi"		"发球!"
+	}
+	"***T'S Get Ready To Serve In...***"
+	{
+		"chi"		"T们准备发球..."
+	}
+	"***T'S Have Scored A Point!!!***"
+	{
+		"chi"		"T们得到一分!!!"
+	}
+	"***CT'S Have Won The Match!!!***"
+	{
+		"chi"		"恭喜CT赢下了这场比赛!!!"
+	}
+	"***T'S Have Won The Match!!!***"
+	{
+		"chi"		"恭喜T赢下了这场比赛!!!"
+	}
+	">>>Whitelist the commands below:<<<"
+	{
+		"blocked"		"1"
+		"chi"		"__null__"
+	}
+	">>sm_cvar, sm_say<<"
+	{
+		"blocked"		"1"
+		"chi"		"__null__"
+	}
+	">>Map requires (balanced values if you don't want to whitelist it):<<<"
+	{
+		"blocked"		"1"
+		"chi"		"__null__"
+	}
+	">>>cs_enable_player_physics_box 1 & phys_pushscale 900 & phys_timescale 0.75<<<"
+	{
+		"blocked"		"1"
+		"chi"		"__null__"
+	}
+	"Walls Will Break In 5 Seconds."
+	{
+		"chi"		"5秒钟后墙壁消失"
+	}
+	"3"
+	{
+		"chi"		"3"
+	}
+	"2"
+	{
+		"blocked"		"1"
+		"chi"		"2"
+	}
+	"1"
+	{
+		"blocked"		"1"
+		"chi"		"1"
+	}
+	"GO!!!"
+	{
+		"chi"		"冲!!!"
+	}
+	"***GOAL!!!***"
+	{
+		"chi"		"球进啦!!!"
+	}
+	"***GG...But CT's Are The Winners...So The T's Must Die!!!***"
+	{
+		"chi"		"打得不错...但是CT是最后的赢家 T准备好被刷了吗?!"
+	}
+	"***GG...But T's Are The Winners...So The CT's Must Die!!!***"
+	{
+		"chi"		"打得不错...但是T是最后的赢家 CT准备好被刷了吗?!"
+	}
+	">>>Map ported for SteamGamers by [SG] Punky<<<"
+	{
+		"chi"		"__null__"
+	}
+	"***Map By: Lt.| iPod***"
+	{
+		"chi"		"__null__"
+	}
+	"***Music Must Be Picked Before You Can Choose A LvL***"
+	{
+		"chi"		"__null__"
+	}
+	"***Music Selection is....***"
+	{
+		"chi"		"__null__"
+	}
+	"***Rock***"
+	{
+		"chi"		"__null__"
+	}
+	"***You Have Chosen Volleyball***"
+	{
+		"chi"		"__null__"
+	}
+	"***Have Fun!!!***"
+	{
+		"chi"		"__null__"
+	}
+	"***Music Selection is...***"
+	{
+		"chi"		"__null__"
+	}
+	"***Techno***"
+	{
+		"chi"		"__null__"
+	}
+	"***You Have Chose Random Because You Are A Indecisive Douchebag***"
+	{
+		"chi"		"__null__"
+	}
+	"***You Have Chosen Iceskate***"
+	{
+		"chi"		"__null__"
+	}
+	"***Hip-Pop***"
+	{
+		"chi"		"__null__"
+	}
+	"***You Have Chosen Regular CS:GO***"
+	{
+		"chi"		"__null__"
+	}
+	"***Spawn Will Open In 5 Seconds***"
+	{
+		"chi"		"__null__"
+	}
+	"***You Have Chosen Soccer***"
+	{
+		"chi"		"__null__"
+	}
+	"***Doors Will Open In 5 Seconds***"
+	{
+		"chi"		"__null__"
+	}
+	"***Doors Will Open In 4 Seconds***"
+	{
+		"chi"		"__null__"
+	}
+	"***Doors Will Open In 3 Seconds***"
+	{
+		"chi"		"__null__"
+	}
+	"***Doors Will Open In 2 Seconds***"
+	{
+		"chi"		"__null__"
+	}
+	"***Doors Will Open In 1 Seconds***"
+	{
+		"chi"		"__null__"
+	}
+	"***Lets Play Some Soccer!!!!***"
+	{
+		"chi"		"__null__"
+	}
+	"***First Team To Score 2 Goals Win!!!***"
+	{
+		"chi"		"__null__"
+	}
+	"***Gay...What A Fag!***"
+	{
+		"chi"		"__null__"
+	}
+	"***You Have Chosen Knife Arena***"
+	{
+		"chi"		"__null__"
+	}
+	"***You Have Chosen Autosniper LvL***"
+	{
+		"chi"		"__null__"
+	}
+	"***You Have Chosen Pistols LvL***"
+	{
+		"chi"		"__null__"
+	}
+	"***You Have Chosen Climb***"
+	{
+		"chi"		"__null__"
+	}
+	"***Good Luck...Your Going Too Need It***"
+	{
+		"chi"		"__null__"
+	}
+	"***You Have Chosen Scoutzknivez***"
+	{
+		"chi"		"__null__"
+	}
+	"***You Have Chosen Dodgeball***"
+	{
+		"chi"		"__null__"
+	}
+	"Middle Barrier Will Be Lifted In 30 Seconds"
+	{
+		"chi"		"__null__"
+	}
+	"***You Have Chosen Slide Race***"
+	{
+		"chi"		"__null__"
+	}
+	"***Have Fun***"
+	{
+		"chi"		"__null__"
+	}
+	"***You Have Chosen AK--COLT***"
+	{
+		"chi"		"__null__"
+	}
+	"***You Have Chosen Bhop***"
+	{
+		"chi"		"__null__"
+	}
+	"***Dont Worry Its Easy...Except For Noobs***"
+	{
+		"chi"		"__null__"
+	}
+	"***You Have Chosen Death Race***"
+	{
+		"chi"		"__null__"
+	}
+	"***Try to Get To The End First...Or Kill The Other Team Along The Way***"
+	{
+		"chi"		"__null__"
+	}
 }

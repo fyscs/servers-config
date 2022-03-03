@@ -1,19 +1,34 @@
 "Console_T"
 {
-	"##Many ideas come from ze_rizomata##"
-	{
-		"chi"		"些许灵感来源于精灵塔"
-	}
-	"##thaks for your playing##"
-	{
-		"chi"		"欢迎下次再来哟"
-	}
-	"##Heal&Wind has been used##"
-	{
-		"chi"		"奶&风 已使用"
-	}
-	"##someone picked up the Heal&Wind##"
-	{
-		"chi"		"一名玩家捡起了奶&风"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "##Heal&Wind has been used##"
+    {
+        "chi" "奶&风 已使用"
+    }
+
+    "##Many ideas come from ze_rizomata##"
+    {
+        "chi" "些许灵感来源于精灵塔"
+    }
+
+    "##someone picked up the Heal&Wind##"
+    {
+        "chi" "一名玩家捡起了奶&风"
+    }
+
+    "##thaks for your playing##"
+    {
+        "chi" "欢迎下次再来哟"
+    }
+
 }

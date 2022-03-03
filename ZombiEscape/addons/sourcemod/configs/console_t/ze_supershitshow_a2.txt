@@ -1,1031 +1,1144 @@
 "Console_T"
 {
-	"** MODE: EXTRACTION **"
-	{
-		"chi"		"**模式:直升机逃亡**"
-	}
-	"** MODE: MINI HOLDATHON **"
-	{
-		"chi"		"**模式: 迷你守点**"
-	}
-	"** Getting outta here! Hold it all and get to the choppa! **"
-	{
-		"chi"		"**到直升机那里去!守住!**"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"**随机模式准备中!**"
-	}
-	"** No more run & gun! Holds sprinkled throughout! Fast nuke! **"
-	{
-		"chi"		"**没有武器一身轻!快跑!**"
-	}
-	"** The first holds will open in 15 seconds! Dont let em get ya! **"
-	{
-		"chi"		"**第一道障碍物将在15秒后打开-别被抓了!兄弟萌**"
-	}
-	"** To open up the next pathway you need to press the buttons! **"
-	{
-		"chi"		"**按下按钮!以开启下一条路!**"
-	}
-	"** ALL ITEMS SPAWN! REACHING THE TOP SHALL NEVER BE THE SAME! **"
-	{
-		"chi"		"**神器全部出现!去拿吧!**"
-	}
-	"** PULVERIZER HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**粉碎机已被拿起**"
-	}
-	"** MODE: VIP **"
-	{
-		"chi"		"**模式:VIP**"
-	}
-	"** A VIP will be chosen shortly! Take him to the end or perish! **"
-	{
-		"chi"		"**一位VIP即将选出-掩护他去山顶 不然全部death!**"
-	}
-	"** The VIP has been chosen! **"
-	{
-		"chi"		"**VIP已选出**"
-	}
-	"** PROTECT THE VIP! **"
-	{
-		"chi"		"**保护VIP**"
-	}
-	"** Good job! Only one button to go! **"
-	{
-		"chi"		"**GDPL!只有一条路可以走**"
-	}
-	"** Both buttons have been pressed! Hold for 30 seconds! **"
-	{
-		"chi"		"**两个按钮都已按下-守住30秒!加油兄弟萌!**"
-	}
-	"** Keep it up! We are almost there! **"
-	{
-		"chi"		"**坚持下去-我们快到了**"
-	}
-	"** GET READY! ITS ABOUT TO OPEN UP! **"
-	{
-		"chi"		"**准备好了!马上就打开了!**"
-	}
-	"** We are about to reach it! Hold for 20 seconds! We can see the top! **"
-	{
-		"chi"		"**我们就要到了-守住20秒,是山顶!我的天啊!**"
-	}
-	"** RESIST! 5 MORE SECONDS! **"
-	{
-		"chi"		"**再守5秒钟!准备撤退!**"
-	}
-	"** Hold until we can get to the top of the world! **"
-	{
-		"chi"		"**坚持住-直到我们到达山顶!**"
-	}
-	"** A portal has appeared... **"
-	{
-		"chi"		"**是>>>传送门嘛!**"
-	}
-	"** The final nuke has been launched! **"
-	{
-		"chi"		"**核爆已经启动!**"
-	}
-	"** Impact in 30 seconds! You better run! **"
-	{
-		"chi"		"**30秒后爆炸!你赶紧跑!**"
-	}
-	"** Almost there! Just hold them back a bit more! **"
-	{
-		"chi"		"**我觉得够了!过来一点!*"
-	}
-	"** MOVE IT! **"
-	{
-		"chi"		"**快把它移走!**"
-	}
-	"** No more running no more! Kill the remaining zombies! **"
-	{
-		"chi"		"**处理剩下的僵尸!**"
-	}
-	"** TRUCKEORS ARE FALLING FROM THE SKY! **"
-	{
-		"chi"		"**生死有命!富贵在Tian!天谴启动!**"
-	}
-	"** MODE: EASY **"
-	{
-		"chi"		"**模式:简单**"
-	}
-	"** Ya need some schooling! There will be no traps! **"
-	{
-		"chi"		"**路上非常安全!**"
-	}
-	"** 2 **"
-	{
-		"chi"		"** **"
-	}
-	"** 1 **"
-	{
-		"chi"		"** **"
-	}
-	"** MODE: DEATH PENALTY **"
-	{
-		"chi"		"**模式: 缓慢死刑**"
-	}
-	"** You slowly lose your health! Shoot zombies to refill your health! **"
-	{
-		"chi"		"**你会慢慢地失去血量!射击僵尸以用来回血!**"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"**快乐的游戏即将开始!**"
-	}
-	"** 3 **"
-	{
-		"chi"		"** **"
-	}
-	"** MODE: FACE YOUR FEARS **"
-	{
-		"chi"		"**模式: 直面恐惧**"
-	}
-	"** ... **"
-	{
-		"chi"		"** **"
-	}
-	"** MODE: EXTREME **"
-	{
-		"chi"		"**模式: 极端**"
-	}
-	"** TRUCKEORS! ALL ZOMBIE ITEMS! LAVA! BLOOD IN YOUR EYES! **"
-	{
-		"chi"		"**天谴卡车!所有僵尸神器!熔岩上升!屏幕变红**"
-	}
-	"** MODE: EARLY CHRISTMAS **"
-	{
-		"chi"		"**模式: 早晨的圣诞节**"
-	}
-	"** MODE: CARNIVAL **"
-	{
-		"chi"		"**模式: 嘉年华**"
-	}
-	"** Extra choppers spawn! Weird characters! Extra messy! **"
-	{
-		"chi"		"**额外的直升机!奇怪的字符!更多BUFF**"
-	}
-	"** MODE: VS. RUN **"
-	{
-		"chi"		"**模式:僵尸神器VS人类神器**"
-	}
-	"** Each team gets an item! Pray for some good luck! **"
-	{
-		"chi"		"**僵尸或人类会获得一个神器-祈求自己好运吧**"
-	}
-	"** HUMANS GET... **"
-	{
-		"chi"		"**人类得到**"
-	}
-	"** CARS! **"
-	{
-		"chi"		"**汽车**"
-	}
-	"** ZOMBIES GET... **"
-	{
-		"chi"		"**僵尸得到**"
-	}
-	"** KAMIKAZES! **"
-	{
-		"chi"		"**神风敢死队**"
-	}
-	"** MODE: FLOOR IS LAVA **"
-	{
-		"chi"		"**模式: 熔岩上升**"
-	}
-	"** MAGMA FROM THE DEPTHS OF THE EARTH WILL RISE UP! RUN! ITS RED! **"
-	{
-		"chi"		"**oh!shit是岩浆!红色的!**"
-	}
-	"** THROUGH EYES OF GLASS! Humans are trapped inside glass jars! **"
-	{
-		"chi"		"**帮助队友!打破玻璃!**"
-	}
-	"** Feeling drownsy! Humans are slowed down for 6 seconds! **"
-	{
-		"chi"		"**人类速度降低了!6秒!**"
-	}
-	"** What does this look like to you..? **"
-	{
-		"chi"		"**你怎么回事!**"
-	}
-	"** Bitterness is the language that you speak. You, violently running after the truth that makes you insane. **"
-	{
-		"chi"		"**感受痛苦.....是你的语言...**"
-	}
-	"** For how long will you blame the external world for what amounts to your own faults and wrongful deeds? **"
-	{
-		"chi"		"**你一直责备外面的世界...因为你的过失还要多久...**"
-	}
-	"** You reach summit after summit and only find emptiness... **"
-	{
-		"chi"		"**你穿过一个又一个的山峰**"
-	}
-	"> > >   Move ahead   < < <"
-	{
-		"chi"		">>>前进<<<"
-	}
-	"** ...it looks deep into your eyes, gazing into your personal hell...**"
-	{
-		"chi"		"**它看着你..宛如地狱**"
-	}
-	"** ...loneliness, ignorance, poverty, shame...**"
-	{
-		"chi"		"**负面情绪?孤独...贫穷....**"
-	}
-	"** ...is desperation its name...?**"
-	{
-		"chi"		"**绝望的名字?**"
-	}
-	"** ...to never look at its face... **"
-	{
-		"chi"		"**别直视它的脸...**"
-	}
-	"** ...but long ago you told yourself...**"
-	{
-		"chi"		"**但是之前你告诉过自己**"
-	}
-	"** ...as the constant humming of your silent pains...**"
-	{
-		"chi"		"**就像你在痛苦下..不断哼唱..**"
-	}
-	"** ...it whispers faintly in the back of your head...**"
-	{
-		"chi"		"**它在你背后...轻声低语...**"
-	}
-	"** ...you know what it is--it always lurks in the corner of your eyes...**"
-	{
-		"chi"		"**你当然知道它是什么...它躲在你的眼角里...**"
-	}
-	"** TOUCHY! Humans drop whatever they are carrying! **"
-	{
-		"chi"		"**人类丢弃了他们现在携带的任何武器**"
-	}
-	"** CHOPPER FUEL HAS RAN OUT! **"
-	{
-		"chi"		"**直升机燃料耗尽**"
-	}
-	"** ELEVATOR WILL LEAVE IN 60 SECONDS! **"
-	{
-		"chi"		"**电梯60秒后离开!加油守住!**"
-	}
-	"** ELEVATOR WILL LEAVE IN 30 SECONDS! **"
-	{
-		"chi"		"**电梯30秒后离开!继续!开枪!**"
-	}
-	"** BULLDOZER HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**僵尸已拿起推土机**"
-	}
-	"** THE RAMP IS NOT FULLY RAMPED! HOLD FOR 45 SECONDS! **"
-	{
-		"chi"		"**斜坡还没完全做好-继续守住40秒!守住我相信你们!**"
-	}
-	"** HOLD FOR 20 MORE SECONDS! TIME? **"
-	{
-		"chi"		"**还能继续坚持20秒吗!这不是废话!当然能!**"
-	}
-	"** ROCK WALL WILL BREAK IN 30 SECONDS! RESIST! **"
-	{
-		"chi"		"**石墙将在30秒后破碎-继续守住!守住!**"
-	}
-	"** THE FINAL GRATE WILL OPEN SOON! HOLD! **"
-	{
-		"chi"		"**最后的铁网很快就会打开-守住**"
-	}
-	"** KAMIKAZE HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**神风敢死队已出现**"
-	}
-	"** RESIST 10 MORE SECONDS! **"
-	{
-		"chi"		"**守住10秒**"
-	}
-	"** HURRY! JUMP ON THE LADDER! THE CHOPPER WILL BE READY IN 20 SECONDS! **"
-	{
-		"chi"		"**快上去!飞机还有20秒后就离开了!**"
-	}
-	"** HURRY UP! THE NUKE WILL GO OFF IN 30 SECONDS! **"
-	{
-		"chi"		"**30秒后核爆!快点!跑啊!**"
-	}
-	"** YOU BETTER GET OUT OF THE LOWER BLAST ZONE! ITS OVER OTHERWISE! **"
-	{
-		"chi"		"**你最好从下面往上面走...不然我也不知会发生什么!**"
-	}
-	"** LAMPS OF GOD! **"
-	{
-		"chi"		"**台灯**"
-	}
-	"** BULLDOZERS! **"
-	{
-		"chi"		"**推土机**"
-	}
-	"** CAR HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**玩家拾取了小车!**"
-	}
-	"** WALL HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**玩家拾取了墙!**"
-	}
-	"** You suddenly feel weightless -- like an eagles feather! **"
-	{
-		"chi"		"**警告!失重!就像...羽毛?**"
-	}
-	"** NAPALM THROWER HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**玩家拾取了喷火器**"
-	}
-	"** EVENT HORIZON HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**玩家拾取了黑洞炮**"
-	}
-	"** AMMO TABLE HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**玩家拾取了弹药**"
-	}
-	"** VACATIONING CHICKEN HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**正在度假的鸡被绑起**"
-	}
-	"** LAMP OF GOD HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**玩家拾取台灯**"
-	}
-	"** ESSENCE OF KRISHNA HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**玩家拾取圣光**"
-	}
-	"** WINDBLOWER HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**玩家拾取吹风机**"
-	}
-	"** FREEZER HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**玩家拾取冰冻枪**"
-	}
-	"** MASSIVE SAW HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**玩家拾取大电锯!**"
-	}
-	"** Impact in around 75 seconds! Get to the top of the canyon! **"
-	{
-		"chi"		"**75秒后核爆!boom!**"
-	}
-	"** Stoned zombies! Zombies cant move for 4 seconds! **"
-	{
-		"chi"		"**僵尸被冻住4秒**"
-	}
-	"** GREENPEACE BOMB HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**绿色和平组织的炸弹被发现了!**"
-	}
-	"*** ZOMBIE JUMPER HAS BEEN PICKED UP ***"
-	{
-		"chi"		"**僵尸拾取了跳跃**"
-	}
-	"*** ZOMBIE CRATE HAS BEEN PICKED UP! ***"
-	{
-		"chi"		"**僵尸拾取了箱子**"
-	}
-	"*** ZOMBIE LADDER HAS BEEN PICKED UP! ***"
-	{
-		"chi"		"**僵尸拾取了梯子**"
-	}
-	"*** ZOMBIE ENERGY HAS BEEN PICKED UP! ***"
-	{
-		"chi"		"**僵尸拾取了加速**"
-	}
-	"** WALL BUILDERS! **"
-	{
-		"chi"		"**城墙建造着**"
-	}
-	"** MODE: WHITE CHOCOLATE **"
-	{
-		"chi"		"**模式: 大雾弥漫**"
-	}
-	"** Everything is covered by a whole lotta nothing in the end. **"
-	{
-		"chi"		"**你看不清大部分的东西....**"
-	}
-	"** WINDY CINDY! Humans get pushed in 2 seconds! **"
-	{
-		"chi"		"**风来了!人类被吹动2秒!**"
-	}
-	"** KROKODIL USERS! Zombies become 200HP junkies! **"
-	{
-		"chi"		"**KROKOOIL使用-僵尸血量变为2000**"
-	}
-	"** Albert Hoffman! Zombies take a hit of LSD for 8 seconds! **"
-	{
-		"chi"		"**僵尸食用迷幻药-8秒**"
-	}
-	"** Weightless! Gravity stops existing for 20 seconds! **"
-	{
-		"chi"		"**失重-低重力持续20秒**"
-	}
-	"** The lower areas have been wiped out! Remove the remaining zombies! **"
-	{
-		"chi"		"**低处的僵尸已全部死亡-现在消灭其余地方的僵尸**"
-	}
-	"** ??? **"
-	{
-		"chi"		"** **"
-	}
-	"** CARTOON WEIGHTS ARE BECOMING REAL! **"
-	{
-		"chi"		"**卡通重量正在变成现实**"
-	}
-	"** FREEZERS! **"
-	{
-		"chi"		"**冰箱**"
-	}
-	"** ZOMBIE ENERGY! **"
-	{
-		"chi"		"**僵尸能量**"
-	}
-	"** Red hot! Humans burn for 6 seconds! **"
-	{
-		"chi"		"**红辣椒-人类燃烧6秒**"
-	}
-	"** PERMANENT TRIGGER: WARPERS ENABLED **"
-	{
-		"chi"		"** **"
-	}
-	"** The top has been reached! The VIP should get there in less than 90 seconds before everything is over! **"
-	{
-		"chi"		"**到达了山顶!VIP90秒内到达结束一切!**"
-	}
-	"** THE VIP HAS DIED! **"
-	{
-		"chi"		"**VIP死了**"
-	}
-	"** PERMANENT TRIGGER: LADDER MADNESS! **"
-	{
-		"chi"		"**永久BUFF: 出现更多可以攀爬的梯子**"
-	}
-	"** Plump booties! Gravity becomes higher for 4 seconds! **"
-	{
-		"chi"		"**重力上升4秒!**"
-	}
-	"** Slippery slope! No friction for 8 seconds! **"
-	{
-		"chi"		"**滑冰-8秒!滑冰吧!**"
-	}
-	"** SUDDEN DEATH ENABLED **"
-	{
-		"chi"		"**突然致死模式启动**"
-	}	
-	"** CATAPULT! Zombies get pushed real upwards **"
-	{
-		"chi"		"**僵尸跳高!**"
-	}
-	"** Total darkness! Nobody sees a thing for 5 seconds! **"
-	{
-		"chi"		"**人类屏幕变黑5秒!**"
-	}
-	"** Well aint that some nice hellfire raining? **"
-	{
-		"chi"		"**好吧, 不是下着雨吗?**"
-	}
-	"** MODE: FAST NUKE **"
-	{
-		"chi"		"**模式: 快速核爆**"
-	}
-	"** MODE: SPOOKY MALONE **"
-	{
-		"chi"		"**模式:毛骨悚然**"
-	}
-	"** MODE: LOW GRAVITY **"
-	{
-		"chi"		"**模式: 低重力**"
-	}
-	"** MODE: LYSERGIC ACID DIETHYLAMIDE **"
-	{
-		"chi"		"**模式: 显卡危机**"
-	}
-	"** HOP! HOP! Everybody jumps for 10 seconds! **"
-	{
-		"chi"		"**自动跳跃!10秒!**"
-	}
-	"** Gone through the mirror! Inverted controls for 10 seconds! **"
-	{
-		"chi"		"**反向控制10秒!考验操作的时候到了!**"
-	}
-	"** Coked up! Humans run faster for 6 seconds! **"
-	{
-		"chi"		"**人类加速6秒!**"
-	}
-	"** Ladders! **"
-	{
-		"chi"		"**梯子**"
-	}
-	"** GREENPEACE BOMBS! **"
-	{
-		"chi"		"**GREENPEACE BOMB**"
-	}
-	"** JUMPERS! **"
-	{
-		"chi"		"**跳跃**"
-	}
-	"** Your face is a wet sandwich and you want to flow like a palm tree? **"
-	{
-		"chi"		"**你的脸就像三明治...能吃么..., 你像棕榈树一样流淌**"
-	}
-	"** NAPALM THROWERS! **"
-	{
-		"chi"		"**凝固汽油弹喷射器**"
-	}
-	"** ESSENCES OF KRISHNA! **"
-	{
-		"chi"		"**克里希纳的精华**"
-	}
-	"** Something awaits ahead... **"
-	{
-		"chi"		"**有什么东西即将发生**"
-	}
-	"** Among the running gags inside your head you are the common thread. **"
-	{
-		"chi"		"**在你脑子里的流言中, 你是一条共同的线. **"
-	}
-	"** SPONGEMAKER HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**海绵匠已被拾取**"
-	}
-	"** AMMO TABLES! **"
-	{
-		"chi"		"**弹药桌已被拾取**"
-	}
-	"** Uncapable. Very slow. Doomed to fail. **"
-	{
-		"chi"		"**无法承受. 非常慢. 注定要失败. **"
-	}
-	"** The VIP has reached the top! Defend until the zombies are wiped from the map! **"
-	{
-		"chi"		"**VIP已经到了山顶!防御直到僵尸从地图上消失!**"
-	}
-	"** Everything has been wiped out! Kill the remaining zombies! **"
-	{
-		"chi"		"**一切都被消灭了!杀死剩下的僵尸!**"
-	}
-	"** MODE: CLASSIC **"
-	{
-		"chi"		"**模式: 经典**"
-	}
-	"** Get this: a house, but floating! Groundbreaking, I know! **"
-	{
-		"chi"		"**得到这个: 房子, 但漂浮!开创性的, 我知道!使僵尸消瘦!**"
-	}
-	"** Antenna activated. Searching for master satellite... **"
-	{
-		"chi"		"**DI.DI.DI搜索ing....**"
-	}
-	"** Master satellite connected. Nuke launched. Impact in 90 seconds. **"
-	{
-		"chi"		"**搜索成功!90秒后核爆!**"
-	}
-	"** Escape-door opens in 25 seconds. **"
-	{
-		"chi"		"**最后的大门还有25秒后打开!坚持住!**"
-	}
-	"** Escape-door opened. Helicopter departs in 50 seconds. **"
-	{
-		"chi"		"**大门!已打开, 直升机50秒后起飞!守住这里啊!**"
-	}
-	"** Helicopter departs in 10 seconds. **"
-	{
-		"chi"		"**直升机10秒后起飞!快了!**"
-	}
-	"** Helicopter is departing! Impact in 30 seconds. **"
-	{
-		"chi"		"**直升机将在30秒后离开!加油守住!**"
-	}
-	"** EVENT HORIZONS! **"
-	{
-		"chi"		"**活动视野**"
-	}
-	"** STOPPERS! **"
-	{
-		"chi"		"**停止!**"
-	}
-	"** SPONGEMAKERS! **"
-	{
-		"chi"		"**海绵匠!**"
-	}
-	"** YOU WERE TOO SLOW! **"
-	{
-		"chi"		"**你太慢了!**"
-	}
-	"** VACATIONING CHICKENS! **"
-	{
-		"chi"		"**度假鸡!**"
-	}
-	"** MODE: FLOATING ITEMS **"
-	{
-		"chi"		"**模式: 浮动项**"
-	}
-	"** ITEMS! ON A RUSSIAN FLOATING HOUSE! WITH LITTLE SENSE TO IT! **"
-	{
-		"chi"		"**在俄罗斯的浮屋上!没什么感觉!**"
-	}
-	"** IMPACT! **"
-	{
-		"chi"		"**冲击力! **"
-	}
-	"** MASSIVE SAWS! **"
-	{
-		"chi"		"**巨大的锯子!**"
-	}
-	"** PULVERIZERS! **"
-	{
-		"chi"		"**粉碎机!**"
-	}
-	"** DOWN-FLOATING TRUCKS! CARING FOR THE ENVIRONMENT! ZOMBIE ITEMS! **"
-	{
-		"chi"		"**向下浮动的卡车!爱护环境!僵尸物品!**"
-	}
-	"** PUSHGUNS! **"
-	{
-		"chi"		"**push枪**"
-	}
-	"** Gone. **"
-	{
-		"chi"		"**跑了. **"
-	}
-	"** You struck your fear--but victory is beyond. **"
-	{
-		"chi"		"**你触动了你的恐惧, 但胜利是无法战胜的. **"
-	}
-	"** Advance. Hold up. You must still work before you move on. **"
-	{
-		"chi"		"**前进. 等等. 你必须继续工作才能继续前进. **"
-	}
-	"** A last sprint towards freedom. Your final chance. **"
-	{
-		"chi"		"**向自由的最后冲刺. 你最后的机会. **"
-	}
-	"** But wait! Fear shocks and reappears! Can the blind men focus, hurry, advance and hear...? **"
-	{
-		"chi"		"**但是等等!恐惧惊吓又重现!盲人能集中注意力, 快点, 前进, 听到. . . ?**"
-	}
-	"** THE KUBRICKATOR HAS BEEN SLAIN! **"
-	{
-		"chi"		"**库布里卡托被杀了!**"
-	}
-	"** Impact in 20 seconds! You better run! **"
-	{
-		"chi"		"**20秒后撞击!你最好快跑!**"
-	}
-	"** Whatever is left cannot be much! Clear it all! **"
-	{
-		"chi"		"**剩下的不多!全部清除!快跑!**"
-	}
-	"** MODE: PROVERBIAL SON **"
-	{
-		"chi"		"**模式: 众所周知的Son**"
-	}
-	"** EVERYTHING? AN ELEPHANT IN THE ROOM. POSITIVE VIBES IS THE NEW CYNIC OUTLOOK. **"
-	{
-		"chi"		"**一切?房间里的大象. 积极的情绪是新的愤世嫉俗的观点. **"
-	}
-	"** MODE: COWBOYS AND ALIENS **"
-	{
-		"chi"		"**模式: 牛仔与外星人**"
-	}
-	"** Revolvers and elites only! Acid-spitting enemies! Items on wooden pedestals! **"
-	{
-		"chi"		"**只有左轮手枪和精英!吐酸的敌人!木制底座上的物品!**"
-	}
-	"** MODE: KINGDOM COME **"
-	{
-		"chi"		"**模式: 王国来了**"
-	}
-	"** Travel the land! Holds will appear sprinkled throughout! **"
-	{
-		"chi"		"**去陆地旅行!货舱会到处都是!**"
-	}
-	"** MODE: UFO **"
-	{
-		"chi"		"**模式: 不明飞行物**"
-	}
-	"** They came! UFOs will look for nearby players and woppity-wop them! Run! **"
-	{
-		"chi"		"**他们来了!不明飞行物会寻找附近的玩家, 然后大吃一惊!快跑!**"
-	}
-	"** MODE: FREEZE PANIC **"
-	{
-		"chi"		"**模式: 冻结恐慌**"
-	}
-	"** ITS COLD! A team will freeze for a bit every so often! **"
-	{
-		"chi"		"**很冷!一支队伍每隔一段时间就会冻结一点!**"
-	}
-	"*** ZOMBIE PORTAL HAS BEEN PICKED UP! ***"
-	{
-		"chi"		"**僵尸门已经被打开了!**"
-	}
-	"** AUTOHOP! Infinite bunny hopping for 20 seconds! **"
-	{
-		"chi"		"**车!无限兔子跳跃20秒! **"
-	}
-	"** SLASH BASH! Knife-only challenge activated! **"
-	{
-		"chi"		"**猛击!仅刀挑战激活!**"
-	}
-	"** MODE: BARRICADE! **"
-	{
-		"chi"		"**模式: 路障!**"
-	}
-	"** SURVIVAL TIME! PICKABLE PROPS! MULTIPLE PLACES TO HOLD! SURVIVAL & HUNTING TIME! **"
-	{
-		"chi"		"**生存时间!可挑选的道具!多个地方可以容纳!生存和狩猎时间!**"
-	}
-	"** Barrel roll! Crazy jump mechanics for 12 seconds! **"
-	{
-		"chi"		"**滚桶!疯狂跳跃12秒!**"
-	}
-	"** TOWER HAS BEEN PICKED UP! **"
-	{
-		"chi"		"**塔已经被捡起了!**"
-	}
-	"** MODE: CASTLE DEFENSE **"
-	{
-		"chi"		"**模式: 城堡防御**"
-	}
-	"** Defend the fortress! Get to the castle and withstand the attack of the evil hordes! **"
-	{
-		"chi"		"**保卫堡垒!到城堡去抵御邪恶部落的攻击!**"
-	}
-	"** TOWERS! **"
-	{
-		"chi"		"**塔!**"
-	}
-	"** Impact in 45 seconds! You better run! **"
-	{
-		"chi"		"**45秒后撞击!你最好快跑!**"
-	}
-	"** POOT POOT! Pistols only challenge activated! **"
-	{
-		"chi"		"**噗噗!只有手枪挑战激活!**"
-	}
-	"** FINAL LASER ENABLED! **"
-	{
-		"chi"		"**最终激光启动!**"
-	}
-	"** LASERS WILL GO UP IN 5 SECONDS! **"
-	{
-		"chi"		"**激光将在5秒内上升!**"
-	}
-	"** Hold the castle! Push any zombies out of the summit! **"
-	{
-		"chi"		"**守住城堡!把僵尸赶出山顶!**"
-	}
-	"** C4! **"
-	{
-		"chi"		"**C4**"
-	}
-	"** 1 HP FOR ALL PLAYERS ENABLED! **"
-	{
-		"chi"		"**所有玩家1滴血!! **"
-	}
-	"** THE WATER FLOWS! ONLY THE TOP WILL BE SAFE! **"
-	{
-		"chi"		"**水流!只有最上面的才是安全的!***"
-	}
-	"** MODE: ARENA **"
-	{
-		"chi"		"**模式: 竞技场**"
-	}
-	"** TOTAL MADNESS! FIGHT WITH ALL ITEMS IN A CONSTRAINED SPACE! **"
-	{
-		"chi"		"**完全疯狂!在有限的空间内与所有物品战斗!**"
-	}
-	"** METROPOCALYPSE ENABLED! **"
-	{
-		"chi"		"**大城市**"
-	}
-	"** A CITY WILL CRUSH UPON US IN 5 SECONDS! **"
-	{
-		"chi"		"**一座城市将在5秒钟内袭击我们!**"
-	}
-	"** MODE: FLOATING 0-G **"
-	{
-		"chi"		"**模式: 浮动0-G**"
-	}
-	"** Bouncy bouncy little home! Lets keep moving on! **"
-	{
-		"chi"		"**蹦蹦跳跳的小家!让我们继续前进!**"
-	}
-	"** FINAL ARENA ENABLED! **"
-	{
-		"chi"		"**最后竞技场启用!**"
-	}
-	"** KUBRICK WILL GO DOWN IN 5 SECONDS! **"
-	{
-		"chi"		"**库布里克5秒后就会倒下!**"
-	}
-	"** BIRDOS! **"
-	{
-		"chi"		"**鸟!**"
-	}
-	"** TITAN PIGEONS! **"
-	{
-		"chi"		"**泰坦鸽子!**"
-	}
-	"** Stoned zombies! Zombies can't move for 4 seconds! **"
-	{
-		"chi"		"**石头僵尸!僵尸不能移动4秒!**"
-	}
-	"** The first holds will open in 15 seconds! Don't let 'em get ya! **"
-	{
-		"chi"		"**15秒后第一个等待点就要打开了!别让他们抓住你!**"
-	}
-	"** GET READY! IT'S ABOUT TO OPEN UP! **"
-	{
-		"chi"		"**准备好了!就要开门了!**"
-	}
-	"** Well ain't that some nice hellfire raining? **"
-	{
-		"chi"		"**那不是下着雨吗?**"
-	}
-	"** IT'S COLD! A team will freeze for a bit every so often! **"
-	{
-		"chi"		"**很冷!一支队伍每隔一段时间就会冻结一点!***"
-	}
-	"** SLASHY BUTCHERS! **"
-	{
-		"chi"		"**卑鄙的屠夫!**"
-	}
-	"** You suddenly feel weightless -- like an eagle's feather! **"
-	{
-		"chi"		"**你突然觉得自己失去了重量--就像鹰的羽毛!**"
-	}
-	"** MAGMA FROM THE DEPTHS OF THE EARTH WILL RISE UP! RUN! IT'S RED! **"
-	{
-		"chi"		"**来自地球深处的岩浆会上升!快跑!是红色的!**"
-	}
-	"** DARK MEN! **"
-	{
-		"chi"		"**黑暗的人!**"
-	}
-	">>LEVEL 1<<"
-	{
-		"chi"		"** **"
-	}
-	"** MAP BY Hannibal [SPA] (Rafuron) **"
-	{
-		"chi"		"** **"
-	}
-	"**Stage 1**"
-	{
-		"chi"		"**关卡1**"
-	}
-	"**welcome to ze_fat_hours_escape**"
-	{
-		"chi"		"** **"
-	}
-	"**map by yinyuehzixi**"
-	{
-		"chi"		"** **"
-	}
-	"** YOU BETTER GET OUT OF THE LOWER BLAST ZONE! IT'S OVER OTHERWISE! **"
-	{
-		"chi"		"** **"
-	}
-	"**Map made by Eugenio *Motanum* Roman**"
-	{
-		"chi"		"** **"
-	}
-	"**Contact me at eugenio.motanum91 AT gmail.com**"
-	{
-		"chi"		"** **"
-	}
-	"***Selecting default difficulty****"
-	{
-		"chi"		"**选择默认难度**"
-	}
-	"**Thanks to [PF] PlagueFest for their support!**"
-	{
-		"chi"		"** **"
-	}
-	"***Waiting for players****"
-	{
-		"chi"		"**等待玩家**"
-	}
-	"***Reseting game in 20 seconds****"
-	{
-		"chi"		"**20s后重新开始游戏**"
-	}
-	"**Thanks to Airvulpes for the textures**"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	"***Particle Effect by Airvulpes***"
-	{
-		"chi"		"** **"
-	}
-	"***Thanks to Shizuru[idea]  uuz[model]***"
-	{
-		"chi"		"** **"
-	}
-	"### Welcome to Abandoned Bio Bunker  ###"
-	{
-		"chi"		"** **"
-	}
-	"** WARMUP ROUND **"
-	{
-		"chi"		"**热身时间**"
-	}
-	"<== Map made by qazlll456 [Hong Kong香港]==>"
-	{
-		"chi"		"** **"
-	}
-	"<== Also Thank [Syoudous] for helping testing the map ==>"
-	{
-		"chi"		"** **"
-	}
-	"**stage1**"
-	{
-		"chi"		"**关卡1**"
-	}
-	"**map by:一条会翻身的鱼**"
-	{
-		"chi"		"** **"
-	}
-	"> ZE UT2004 CONVOY"
-	{
-		"chi"		"** **"
-	}
-	"**map by koyomaple**"
-	{
-		"chi"		"** **"
-	}
-	"** Welcome to the mystical island of Kraznov Poopata **"
-	{
-		"chi"		"** **"
-	}
-	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Model :Dakotec ***"
-	{
-		"chi"		"** **"
-	}
-	"ZE Sunlight"
-	{
-		"chi"		"** **"
-	}
-	"** Bouncy bouncy little home! Let's keep moving on! **"
-	{
-		"chi"		"**蹦蹦跳跳的小家!让我们继续前进**"
-	}
-	"Thanks by Sakura, Possession"
-	{
-		"chi"		"** **"
-	}
-	"Original Map by Xquality"
-	{
-		"chi"		"** **"
-	}
-	"---***This map will mute your sound if you are outside the lunar base***---"
-	{
-		"chi"		"**如果你在月球外, 你将会听不到任何声音**"
-	}
-	">> Map by Taskuvaras <<"
-	{
-		"chi"		"**制作:Taskuvaras翻译:Sakura@风云社**"
-	}
-	"** CHICKEN ABOMINATIONS! **"
-	{
-		"chi"		"**讨厌的鸡!**"
-	}
-	"** THE CHICKENROG HAS BEEN UNLEASHED!!! **"
-	{
-		"chi"		"**小鸡怪被释放了!**"
-	}
-	"***Modified by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	"***60 SECONDS LEFT***"
-	{
-		"chi"		"**还有60秒!**"
-	}
-	"***WARM UP ROUIND***"
-	{
-		"chi"		"**热身赛 **"
-	}
-	">> IDEA: Sienestaja <<"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "**  - Baltasar Gracian's El criticon. **"
+    {
+        "chi" "__null__"
+    }
+
+    "**  - Calderon de la Barca's La vida es sue�o. **"
+    {
+        "chi" "__null__"
+    }
+
+    "**  - Herman Hesse's Siddharta. **"
+    {
+        "chi" "__null__"
+    }
+
+    "**  - Rafael Alberti's Sobre los angeles. **"
+    {
+        "chi" "__null__"
+    }
+
+    "**  - Seneca's On the brevity of life. **"
+    {
+        "chi" "__null__"
+    }
+
+    "**  - The ancient sumerian tale of Gilgamesh. **"
+    {
+        "chi" "__null__"
+    }
+
+    "**  - The Bhagavad Gita. **"
+    {
+        "chi" "__null__"
+    }
+
+    "**  - Yevgueni Zamiatin's We. **"
+    {
+        "chi" "__null__"
+    }
+
+    "** ... **"
+    {
+        "chi" "__null__"
+    }
+
+    "** ...as the constant humming of your silent pains...**"
+    {
+        "chi" "**就像你在痛苦下..不断哼唱..**"
+    }
+
+    "** ...but long ago you told yourself...**"
+    {
+        "chi" "**但是之前你告诉过自己**"
+    }
+
+    "** ...is desperation its name...?**"
+    {
+        "chi" "**绝望的名字?**"
+    }
+
+    "** ...it looks deep into your eyes, gazing into your personal hell...**"
+    {
+        "chi" "**它看着你..宛如地狱**"
+    }
+
+    "** ...it whispers faintly in the back of your head...**"
+    {
+        "chi" "**它在你背后...轻声低语...**"
+    }
+
+    "** ...loneliness, ignorance, poverty, shame...**"
+    {
+        "chi" "**负面情绪?孤独...贫穷....**"
+    }
+
+    "** ...to never look at its face... **"
+    {
+        "chi" "**别直视它的脸...**"
+    }
+
+    "** ...you know what it is--it always lurks in the corner of your eyes...**"
+    {
+        "chi" "**你当然知道它是什么...它躲在你的眼角里...**"
+    }
+
+    "** ??? **"
+    {
+        "chi" "__null__"
+    }
+
+    "** 1 **"
+    {
+        "chi" "__null__"
+    }
+
+    "** 1 HP FOR ALL PLAYERS ENABLED! **"
+    {
+        "chi" "**所有玩家1滴血!! **"
+    }
+
+    "** 2 **"
+    {
+        "chi" "__null__"
+    }
+
+    "** 3 **"
+    {
+        "chi" "__null__"
+    }
+
+    "** A CITY WILL CRUSH UPON US IN 5 SECONDS! **"
+    {
+        "chi" "**一座城市将在5秒钟内袭击我们!**"
+    }
+
+    "** A last sprint towards freedom. Your final chance. **"
+    {
+        "chi" "**向自由的最后冲刺. 你最后的机会. **"
+    }
+
+    "** A mode will be chosen shortly... **"
+    {
+        "chi" "**随机模式准备中!**"
+    }
+
+    "** A portal has appeared... **"
+    {
+        "chi" "**是>>>传送门嘛!**"
+    }
+
+    "** A VIP will be chosen shortly! Take him to the end or perish! **"
+    {
+        "chi" "**一位VIP即将选出-掩护他去山顶 不然全部death!**"
+    }
+
+    "** Advance. Hold up. You must still work before you move on. **"
+    {
+        "chi" "**前进. 等等. 你必须继续工作才能继续前进. **"
+    }
+
+    "** Albert Hoffman! Zombies take a hit of LSD for 8 seconds! **"
+    {
+        "chi" "**僵尸食用迷幻药-8秒**"
+    }
+
+    "** ALL ITEMS SPAWN! REACHING THE TOP SHALL NEVER BE THE SAME! **"
+    {
+        "chi" "**神器全部出现!去拿吧!**"
+    }
+
+    "** Almost there! Just hold them back a bit more! **"
+    {
+        "chi" "**我觉得够了!过来一点!*"
+    }
+
+    "** AMMO TABLE HAS BEEN PICKED UP! **"
+    {
+        "chi" "**玩家拾取了弹药**"
+    }
+
+    "** AMMO TABLES! **"
+    {
+        "chi" "**弹药桌已被拾取**"
+    }
+
+    "** Among the running gags inside your head you are the common thread. **"
+    {
+        "chi" "**在你脑子里的流言中, 你是一条共同的线. **"
+    }
+
+    "** Antenna activated. Searching for master satellite... **"
+    {
+        "chi" "**DI.DI.DI搜索ing....**"
+    }
+
+    "** AUTOHOP! Infinite bunny hopping for 20 seconds! **"
+    {
+        "chi" "**车!无限兔子跳跃20秒! **"
+    }
+
+    "** Barrel roll! Crazy jump mechanics for 12 seconds! **"
+    {
+        "chi" "**滚桶!疯狂跳跃12秒!**"
+    }
+
+    "** BIRDOS! **"
+    {
+        "chi" "**鸟!**"
+    }
+
+    "** Bitterness is the language that you speak. You, violently running after the truth that makes you insane. **"
+    {
+        "chi" "**感受痛苦.....是你的语言...**"
+    }
+
+    "** Both buttons have been pressed! Hold for 30 seconds! **"
+    {
+        "chi" "**两个按钮都已按下-守住30秒!加油兄弟萌!**"
+    }
+
+    "** Bouncy bouncy little home! Let's keep moving on! **"
+    {
+        "chi" "**蹦蹦跳跳的小家!让我们继续前进**"
+    }
+
+    "** BULLDOZER HAS BEEN PICKED UP! **"
+    {
+        "chi" "**僵尸已拿起推土机**"
+    }
+
+    "** BULLDOZERS! **"
+    {
+        "chi" "**推土机**"
+    }
+
+    "** But wait! Fear shocks and reappears! Can the blind men focus, hurry, advance and hear...? **"
+    {
+        "chi" "**但是等等!恐惧惊吓又重现!盲人能集中注意力, 快点, 前进, 听到. . . ?**"
+    }
+
+    "** C4! **"
+    {
+        "chi" "**C4**"
+    }
+
+    "** CAR HAS BEEN PICKED UP! **"
+    {
+        "chi" "**玩家拾取了小车!**"
+    }
+
+    "** CARS! **"
+    {
+        "chi" "**汽车**"
+    }
+
+    "** CARTOON WEIGHTS ARE BECOMING REAL! **"
+    {
+        "chi" "**卡通重量正在变成现实**"
+    }
+
+    "** CATAPULT! Zombies get pushed real upwards **"
+    {
+        "chi" "**僵尸跳高!**"
+    }
+
+    "** CHICKEN ABOMINATIONS! **"
+    {
+        "chi" "**讨厌的鸡!**"
+    }
+
+    "** CHOPPER FUEL HAS RAN OUT! **"
+    {
+        "chi" "**直升机燃料耗尽**"
+    }
+
+    "** Coked up! Humans run faster for 6 seconds! **"
+    {
+        "chi" "**人类加速6秒!**"
+    }
+
+    "** DARK MEN! **"
+    {
+        "chi" "**黑暗的人!**"
+    }
+
+    "** Defend the fortress! Get to the castle and withstand the attack of the evil hordes! **"
+    {
+        "chi" "**保卫堡垒!到城堡去抵御邪恶部落的攻击!**"
+    }
+
+    "** DOWN-FLOATING TRUCKS! CARING FOR THE ENVIRONMENT! ZOMBIE ITEMS! **"
+    {
+        "chi" "**向下浮动的卡车!爱护环境!僵尸物品!**"
+    }
+
+    "** Each team gets an item! Pray for some good luck! **"
+    {
+        "chi" "**僵尸或人类会获得一个神器-祈求自己好运吧**"
+    }
+
+    "** ELEVATOR WILL LEAVE IN 30 SECONDS! **"
+    {
+        "chi" "**电梯30秒后离开!继续!开枪!**"
+    }
+
+    "** ELEVATOR WILL LEAVE IN 60 SECONDS! **"
+    {
+        "chi" "**电梯60秒后离开!加油守住!**"
+    }
+
+    "** Escape-door opened. Helicopter departs in 50 seconds. **"
+    {
+        "chi" "**大门!已打开, 直升机50秒后起飞!守住这里啊!**"
+    }
+
+    "** Escape-door opens in 25 seconds. **"
+    {
+        "chi" "**最后的大门还有25秒后打开!坚持住!**"
+    }
+
+    "** ESSENCE OF KRISHNA HAS BEEN PICKED UP! **"
+    {
+        "chi" "**玩家拾取圣光**"
+    }
+
+    "** ESSENCES OF KRISHNA! **"
+    {
+        "chi" "**克里希纳的精华**"
+    }
+
+    "** EVENT HORIZON HAS BEEN PICKED UP! **"
+    {
+        "chi" "**玩家拾取了黑洞炮**"
+    }
+
+    "** EVENT HORIZONS! **"
+    {
+        "chi" "**活动视野**"
+    }
+
+    "** Everything has been wiped out! Kill the remaining zombies! **"
+    {
+        "chi" "**一切都被消灭了!杀死剩下的僵尸!**"
+    }
+
+    "** Everything is covered by a whole lotta nothing in the end. **"
+    {
+        "chi" "**你看不清大部分的东西....**"
+    }
+
+    "** EVERYTHING? AN ELEPHANT IN THE ROOM. POSITIVE VIBES IS THE NEW CYNIC OUTLOOK. **"
+    {
+        "chi" "**一切?房间里的大象. 积极的情绪是新的愤世嫉俗的观点. **"
+    }
+
+    "** Extra choppers spawn! Weird characters! Extra messy! **"
+    {
+        "chi" "**额外的直升机!奇怪的字符!更多BUFF**"
+    }
+
+    "** Feeling drownsy! Humans are slowed down for 6 seconds! **"
+    {
+        "chi" "**人类速度降低了!6秒!**"
+    }
+
+    "** FINAL ARENA ENABLED! **"
+    {
+        "chi" "**最后竞技场启用!**"
+    }
+
+    "** FINAL LASER ENABLED! **"
+    {
+        "chi" "**最终激光启动!**"
+    }
+
+    "** For how long will you blame the external world for what amounts to your own faults and wrongful deeds? **"
+    {
+        "chi" "**你一直责备外面的世界...因为你的过失还要多久...**"
+    }
+
+    "** FREEZER HAS BEEN PICKED UP! **"
+    {
+        "chi" "**玩家拾取冰冻枪**"
+    }
+
+    "** FREEZERS! **"
+    {
+        "chi" "**冰箱**"
+    }
+
+    "** GET READY! IT'S ABOUT TO OPEN UP! **"
+    {
+        "chi" "**准备好了!就要开门了!**"
+    }
+
+    "** Get this: a house, but floating! Groundbreaking, I know! **"
+    {
+        "chi" "**得到这个: 房子, 但漂浮!开创性的, 我知道!使僵尸消瘦!**"
+    }
+
+    "** Getting outta here! Hold it all and get to the choppa! **"
+    {
+        "chi" "**到直升机那里去!守住!**"
+    }
+
+    "** Gone through the mirror! Inverted controls for 10 seconds! **"
+    {
+        "chi" "**反向控制10秒!考验操作的时候到了!**"
+    }
+
+    "** Gone. **"
+    {
+        "chi" "**跑了. **"
+    }
+
+    "** Good job! Only one button to go! **"
+    {
+        "chi" "**GDPL!只有一条路可以走**"
+    }
+
+    "** GREENPEACE BOMB HAS BEEN PICKED UP! **"
+    {
+        "chi" "**绿色和平组织的炸弹被发现了!**"
+    }
+
+    "** GREENPEACE BOMBS! **"
+    {
+        "chi" "**GREENPEACE BOMB**"
+    }
+
+    "** Helicopter departs in 10 seconds. **"
+    {
+        "chi" "**直升机10秒后起飞!快了!**"
+    }
+
+    "** Helicopter is departing! Impact in 30 seconds. **"
+    {
+        "chi" "**直升机将在30秒后离开!加油守住!**"
+    }
+
+    "** HOLD FOR 20 MORE SECONDS! TIME? **"
+    {
+        "chi" "**还能继续坚持20秒吗!这不是废话!当然能!**"
+    }
+
+    "** Hold the castle! Push any zombies out of the summit! **"
+    {
+        "chi" "**守住城堡!把僵尸赶出山顶!**"
+    }
+
+    "** Hold until we can get to the top of the world! **"
+    {
+        "chi" "**坚持住-直到我们到达山顶!**"
+    }
+
+    "** HOP! HOP! Everybody jumps for 10 seconds! **"
+    {
+        "chi" "**自动跳跃!10秒!**"
+    }
+
+    "** HUMANS GET... **"
+    {
+        "chi" "**人类得到**"
+    }
+
+    "** HURRY UP! THE NUKE WILL GO OFF IN 30 SECONDS! **"
+    {
+        "chi" "**30秒后核爆!快点!跑啊!**"
+    }
+
+    "** HURRY! JUMP ON THE LADDER! THE CHOPPER WILL BE READY IN 20 SECONDS! **"
+    {
+        "chi" "**快上去!飞机还有20秒后就离开了!**"
+    }
+
+    "** Impact in 20 seconds! You better run! **"
+    {
+        "chi" "**20秒后撞击!你最好快跑!**"
+    }
+
+    "** Impact in 30 seconds! You better run! **"
+    {
+        "chi" "**30秒后爆炸!你赶紧跑!**"
+    }
+
+    "** Impact in 45 seconds! You better run! **"
+    {
+        "chi" "**45秒后撞击!你最好快跑!**"
+    }
+
+    "** Impact in around 75 seconds! Get to the top of the canyon! **"
+    {
+        "chi" "**75秒后核爆!boom!**"
+    }
+
+    "** IMPACT! **"
+    {
+        "chi" "**冲击力! **"
+    }
+
+    "** Isn't it swell when idiots take what isn't theirs without permission? **"
+    {
+        "chi" "__null__"
+    }
+
+    "** ITEMS! ON A RUSSIAN FLOATING HOUSE! WITH LITTLE SENSE TO IT! **"
+    {
+        "chi" "**在俄罗斯的浮屋上!没什么感觉!**"
+    }
+
+    "** IT'S COLD! A team will freeze for a bit every so often! **"
+    {
+        "chi" "**很冷!一支队伍每隔一段时间就会冻结一点!***"
+    }
+
+    "** JUMPERS! **"
+    {
+        "chi" "**跳跃**"
+    }
+
+    "** KAMIKAZE HAS BEEN PICKED UP! **"
+    {
+        "chi" "**神风敢死队已出现**"
+    }
+
+    "** KAMIKAZES! **"
+    {
+        "chi" "**神风敢死队**"
+    }
+
+    "** Keep it up! We are almost there! **"
+    {
+        "chi" "**坚持下去-我们快到了**"
+    }
+
+    "** KROKODIL USERS! Zombies become 200HP junkies! **"
+    {
+        "chi" "**KROKOOIL使用-僵尸血量变为2000**"
+    }
+
+    "** KUBRICK WILL GO DOWN IN 5 SECONDS! **"
+    {
+        "chi" "**库布里克5秒后就会倒下!**"
+    }
+
+    "** LADDERS! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** LAMP OF GOD HAS BEEN PICKED UP! **"
+    {
+        "chi" "**玩家拾取台灯**"
+    }
+
+    "** LAMPS OF GOD! **"
+    {
+        "chi" "**台灯**"
+    }
+
+    "** LASERS WILL GO UP IN 5 SECONDS! **"
+    {
+        "chi" "**激光将在5秒内上升!**"
+    }
+
+    "** MAGMA FROM THE DEPTHS OF THE EARTH WILL RISE UP! RUN! IT'S RED! **"
+    {
+        "chi" "**来自地球深处的岩浆会上升!快跑!是红色的!**"
+    }
+
+    "** MASSIVE SAW HAS BEEN PICKED UP! **"
+    {
+        "chi" "**玩家拾取大电锯!**"
+    }
+
+    "** MASSIVE SAWS! **"
+    {
+        "chi" "**巨大的锯子!**"
+    }
+
+    "** Master satellite connected. Nuke launched. Impact in 90 seconds. **"
+    {
+        "chi" "**搜索成功!90秒后核爆!**"
+    }
+
+    "** METROPOCALYPSE ENABLED! **"
+    {
+        "chi" "**大城市**"
+    }
+
+    "** MODE: ARENA **"
+    {
+        "chi" "**模式: 竞技场**"
+    }
+
+    "** MODE: BARRICADE! **"
+    {
+        "chi" "**模式: 路障!**"
+    }
+
+    "** MODE: CARNIVAL **"
+    {
+        "chi" "**模式: 嘉年华**"
+    }
+
+    "** MODE: CASTLE DEFENSE **"
+    {
+        "chi" "**模式: 城堡防御**"
+    }
+
+    "** MODE: CLASSIC **"
+    {
+        "chi" "**模式: 经典**"
+    }
+
+    "** MODE: COWBOYS AND ALIENS **"
+    {
+        "chi" "**模式: 牛仔与外星人**"
+    }
+
+    "** MODE: DEATH PENALTY **"
+    {
+        "chi" "**模式: 缓慢死刑**"
+    }
+
+    "** MODE: EARLY CHRISTMAS **"
+    {
+        "chi" "**模式: 早晨的圣诞节**"
+    }
+
+    "** MODE: EASY **"
+    {
+        "chi" "**模式:简单**"
+    }
+
+    "** MODE: EXTRACTION **"
+    {
+        "chi" "**模式:直升机逃亡**"
+    }
+
+    "** MODE: EXTREME **"
+    {
+        "chi" "**模式: 极端**"
+    }
+
+    "** MODE: FACE YOUR FEARS **"
+    {
+        "chi" "**模式: 直面恐惧**"
+    }
+
+    "** MODE: FAST NUKE **"
+    {
+        "chi" "**模式: 快速核爆**"
+    }
+
+    "** MODE: FLOATING 0-G **"
+    {
+        "chi" "**模式: 浮动0-G**"
+    }
+
+    "** MODE: FLOATING ITEMS **"
+    {
+        "chi" "**模式: 浮动项**"
+    }
+
+    "** MODE: FLOOR IS LAVA **"
+    {
+        "chi" "**模式: 熔岩上升**"
+    }
+
+    "** MODE: FREEZE PANIC **"
+    {
+        "chi" "**模式: 冻结恐慌**"
+    }
+
+    "** MODE: KINGDOM COME **"
+    {
+        "chi" "**模式: 王国来了**"
+    }
+
+    "** MODE: LOW GRAVITY **"
+    {
+        "chi" "**模式: 低重力**"
+    }
+
+    "** MODE: LYSERGIC ACID DIETHYLAMIDE **"
+    {
+        "chi" "**模式: 显卡危机**"
+    }
+
+    "** MODE: MINI HOLDATHON **"
+    {
+        "chi" "**模式: 迷你守点**"
+    }
+
+    "** MODE: PROVERBIAL SON **"
+    {
+        "chi" "**模式: 众所周知的Son**"
+    }
+
+    "** MODE: SPOOKY MALONE **"
+    {
+        "chi" "**模式:毛骨悚然**"
+    }
+
+    "** MODE: UFO **"
+    {
+        "chi" "**模式: 不明飞行物**"
+    }
+
+    "** MODE: VIP **"
+    {
+        "chi" "**模式:VIP**"
+    }
+
+    "** MODE: VS. RUN **"
+    {
+        "chi" "**模式:僵尸神器VS人类神器**"
+    }
+
+    "** MODE: WHITE CHOCOLATE **"
+    {
+        "chi" "**模式: 大雾弥漫**"
+    }
+
+    "** MOVE IT! **"
+    {
+        "chi" "**快把它移走!**"
+    }
+
+    "** NAPALM THROWER HAS BEEN PICKED UP! **"
+    {
+        "chi" "**玩家拾取了喷火器**"
+    }
+
+    "** NAPALM THROWERS! **"
+    {
+        "chi" "**凝固汽油弹喷射器**"
+    }
+
+    "** No more run & gun! Holds sprinkled throughout! Fast nuke! **"
+    {
+        "chi" "**没有武器一身轻!快跑!**"
+    }
+
+    "** No more running no more! Kill the remaining zombies! **"
+    {
+        "chi" "**处理剩下的僵尸!**"
+    }
+
+    "** PERMANENT TRIGGER: LADDER MADNESS! **"
+    {
+        "chi" "**永久BUFF: 出现更多可以攀爬的梯子**"
+    }
+
+    "** PERMANENT TRIGGER: WARPERS ENABLED **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Plump booties! Gravity becomes higher for 4 seconds! **"
+    {
+        "chi" "**重力上升4秒!**"
+    }
+
+    "** POOT POOT! Pistols only challenge activated! **"
+    {
+        "chi" "**噗噗!只有手枪挑战激活!**"
+    }
+
+    "** PROTECT THE VIP! **"
+    {
+        "chi" "**保护VIP**"
+    }
+
+    "** PULVERIZER HAS BEEN PICKED UP! **"
+    {
+        "chi" "**粉碎机已被拿起**"
+    }
+
+    "** PULVERIZERS! **"
+    {
+        "chi" "**粉碎机!**"
+    }
+
+    "** PUSHGUNS! **"
+    {
+        "chi" "**push枪**"
+    }
+
+    "** Red hot! Humans burn for 6 seconds! **"
+    {
+        "chi" "**红辣椒-人类燃烧6秒**"
+    }
+
+    "** RESIST 10 MORE SECONDS! **"
+    {
+        "chi" "**守住10秒**"
+    }
+
+    "** RESIST! 5 MORE SECONDS! **"
+    {
+        "chi" "**再守5秒钟!准备撤退!**"
+    }
+
+    "** Revolvers and elites only! Acid-spitting enemies! Items on wooden pedestals! **"
+    {
+        "chi" "**只有左轮手枪和精英!吐酸的敌人!木制底座上的物品!**"
+    }
+
+    "** ROCK WALL WILL BREAK IN 30 SECONDS! RESIST! **"
+    {
+        "chi" "**石墙将在30秒后破碎-继续守住!守住!**"
+    }
+
+    "** SLASH BASH! Knife-only challenge activated! **"
+    {
+        "chi" "**猛击!仅刀挑战激活!**"
+    }
+
+    "** SLASHY BUTCHERS! **"
+    {
+        "chi" "**卑鄙的屠夫!**"
+    }
+
+    "** Slippery slope! No friction for 8 seconds! **"
+    {
+        "chi" "**滑冰-8秒!滑冰吧!**"
+    }
+
+    "** Something awaits ahead... **"
+    {
+        "chi" "**有什么东西即将发生**"
+    }
+
+    "** SPONGEMAKER HAS BEEN PICKED UP! **"
+    {
+        "chi" "**海绵匠已被拾取**"
+    }
+
+    "** SPONGEMAKERS! **"
+    {
+        "chi" "**海绵匠!**"
+    }
+
+    "** Stoned zombies! Zombies can't move for 4 seconds! **"
+    {
+        "chi" "**石头僵尸!僵尸不能移动4秒!**"
+    }
+
+    "** STOPPERS! **"
+    {
+        "chi" "**停止!**"
+    }
+
+    "** SUDDEN DEATH ENABLED **"
+    {
+        "chi" "**突然致死模式启动**"
+    }
+
+    "** SURVIVAL TIME! PICKABLE PROPS! MULTIPLE PLACES TO HOLD! SURVIVAL & HUNTING TIME! **"
+    {
+        "chi" "**生存时间!可挑选的道具!多个地方可以容纳!生存和狩猎时间!**"
+    }
+
+    "** The admins of this server didn't wait for the map to be public because they are impatient. They should read a good book like: **"
+    {
+        "chi" "__null__"
+    }
+
+    "** THE CHICKENROG HAS BEEN UNLEASHED!!! **"
+    {
+        "chi" "**小鸡怪被释放了!**"
+    }
+
+    "** THE FINAL GRATE WILL OPEN SOON! HOLD! **"
+    {
+        "chi" "**最后的铁网很快就会打开-守住**"
+    }
+
+    "** The final nuke has been launched! **"
+    {
+        "chi" "**核爆已经启动!**"
+    }
+
+    "** The first holds will open in 15 seconds! Don't let 'em get ya! **"
+    {
+        "chi" "**15秒后第一个等待点就要打开了!别让他们抓住你!**"
+    }
+
+    "** THE KUBRICKATOR HAS BEEN SLAIN! **"
+    {
+        "chi" "**库布里卡托被杀了!**"
+    }
+
+    "** The lower areas have been wiped out! Remove the remaining zombies! **"
+    {
+        "chi" "**低处的僵尸已全部死亡-现在消灭其余地方的僵尸**"
+    }
+
+    "** THE RAMP IS NOT FULLY RAMPED! HOLD FOR 45 SECONDS! **"
+    {
+        "chi" "**斜坡还没完全做好-继续守住40秒!守住我相信你们!**"
+    }
+
+    "** The top has been reached! The VIP should get there in less than 90 seconds before everything is over! **"
+    {
+        "chi" "**到达了山顶!VIP90秒内到达结束一切!**"
+    }
+
+    "** The VIP has been chosen! **"
+    {
+        "chi" "**VIP已选出**"
+    }
+
+    "** THE VIP HAS DIED! **"
+    {
+        "chi" "**VIP死了**"
+    }
+
+    "** The VIP has reached the top! Defend until the zombies are wiped from the map! **"
+    {
+        "chi" "**VIP已经到了山顶!防御直到僵尸从地图上消失!**"
+    }
+
+    "** THE WATER FLOWS! ONLY THE TOP WILL BE SAFE! **"
+    {
+        "chi" "**水流!只有最上面的才是安全的!***"
+    }
+
+    "** They came! UFOs will look for nearby players and woppity-wop them! Run! **"
+    {
+        "chi" "**他们来了!不明飞行物会寻找附近的玩家, 然后大吃一惊!快跑!**"
+    }
+
+    "** They don't even ask. Who would want to deal with people like that? HINT: Wait until this map is released publicly. **"
+    {
+        "chi" "__null__"
+    }
+
+    "** THROUGH EYES OF GLASS! Humans are trapped inside glass jars! **"
+    {
+        "chi" "**帮助队友!打破玻璃!**"
+    }
+
+    "** TITAN PIGEONS! **"
+    {
+        "chi" "**泰坦鸽子!**"
+    }
+
+    "** To open up the next pathway you need to press the buttons! **"
+    {
+        "chi" "**按下按钮!以开启下一条路!**"
+    }
+
+    "** Total darkness! Nobody sees a thing for 5 seconds! **"
+    {
+        "chi" "**人类屏幕变黑5秒!**"
+    }
+
+    "** TOTAL MADNESS! FIGHT WITH ALL ITEMS IN A CONSTRAINED SPACE! **"
+    {
+        "chi" "**完全疯狂!在有限的空间内与所有物品战斗!**"
+    }
+
+    "** TOUCHY! Humans drop whatever they are carrying! **"
+    {
+        "chi" "**人类丢弃了他们现在携带的任何武器**"
+    }
+
+    "** TOWER HAS BEEN PICKED UP! **"
+    {
+        "chi" "**塔已经被捡起了!**"
+    }
+
+    "** TOWERS! **"
+    {
+        "chi" "**塔!**"
+    }
+
+    "** Travel the land! Holds will appear sprinkled throughout! **"
+    {
+        "chi" "**去陆地旅行!货舱会到处都是!**"
+    }
+
+    "** Triggered! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** TRUCKEORS ARE FALLING FROM THE SKY! **"
+    {
+        "chi" "**生死有命!富贵在Tian!天谴启动!**"
+    }
+
+    "** TRUCKEORS! ALL ZOMBIE ITEMS! LAVA! BLOOD IN YOUR EYES! **"
+    {
+        "chi" "**天谴卡车!所有僵尸神器!熔岩上升!屏幕变红**"
+    }
+
+    "** Uncapable. Very slow. Doomed to fail. **"
+    {
+        "chi" "**无法承受. 非常慢. 注定要失败. **"
+    }
+
+    "** VACATIONING CHICKEN HAS BEEN PICKED UP! **"
+    {
+        "chi" "**正在度假的鸡被绑起**"
+    }
+
+    "** VACATIONING CHICKENS! **"
+    {
+        "chi" "**度假鸡!**"
+    }
+
+    "** WALL BUILDERS! **"
+    {
+        "chi" "**城墙建造着**"
+    }
+
+    "** WALL HAS BEEN PICKED UP! **"
+    {
+        "chi" "**玩家拾取了墙!**"
+    }
+
+    "** We are about to reach it! Hold for 20 seconds! We can see the top! **"
+    {
+        "chi" "**我们就要到了-守住20秒,是山顶!我的天啊!**"
+    }
+
+    "** Weightless! Gravity stops existing for 20 seconds! **"
+    {
+        "chi" "**失重-低重力持续20秒**"
+    }
+
+    "** Well ain't that some nice hellfire raining? **"
+    {
+        "chi" "**那不是下着雨吗?**"
+    }
+
+    "** We're gonna have some fun, though. No worries -- Enjoy the crash! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** What does this look like to you..? **"
+    {
+        "chi" "**你怎么回事!**"
+    }
+
+    "** Whatever is left cannot be much! Clear it all! **"
+    {
+        "chi" "**剩下的不多!全部清除!快跑!**"
+    }
+
+    "** WINDBLOWER HAS BEEN PICKED UP! **"
+    {
+        "chi" "**玩家拾取吹风机**"
+    }
+
+    "** WINDY CINDY! Humans get pushed in 2 seconds! **"
+    {
+        "chi" "**风来了!人类被吹动2秒!**"
+    }
+
+    "** Ya need some schooling! There will be no traps! **"
+    {
+        "chi" "**路上非常安全!**"
+    }
+
+    "** YOU BETTER GET OUT OF THE LOWER BLAST ZONE! IT'S OVER OTHERWISE! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** You reach summit after summit and only find emptiness... **"
+    {
+        "chi" "**你穿过一个又一个的山峰**"
+    }
+
+    "** You slowly lose your health! Shoot zombies to refill your health! **"
+    {
+        "chi" "**你会慢慢地失去血量!射击僵尸以用来回血!**"
+    }
+
+    "** You struck your fear--but victory is beyond. **"
+    {
+        "chi" "**你触动了你的恐惧, 但胜利是无法战胜的. **"
+    }
+
+    "** You suddenly feel weightless -- like an eagle's feather! **"
+    {
+        "chi" "**你突然觉得自己失去了重量--就像鹰的羽毛!**"
+    }
+
+    "** YOU WERE TOO SLOW! **"
+    {
+        "chi" "**你太慢了!**"
+    }
+
+    "** Your face is a wet sandwich and you want to flow like a palm tree? **"
+    {
+        "chi" "**你的脸就像三明治...能吃么..., 你像棕榈树一样流淌**"
+    }
+
+    "** ZE_SUPERSHITSHOW **"
+    {
+        "chi" "**快乐的游戏即将开始!**"
+    }
+
+    "** ZOMBIE ENERGY! **"
+    {
+        "chi" "**僵尸能量**"
+    }
+
+    "** ZOMBIES GET... **"
+    {
+        "chi" "**僵尸得到**"
+    }
+
+    "*** ZOMBIE CRATE HAS BEEN PICKED UP! ***"
+    {
+        "chi" "**僵尸拾取了箱子**"
+    }
+
+    "*** ZOMBIE ENERGY HAS BEEN PICKED UP! ***"
+    {
+        "chi" "**僵尸拾取了加速**"
+    }
+
+    "*** ZOMBIE JUMPER HAS BEEN PICKED UP ***"
+    {
+        "chi" "**僵尸拾取了跳跃**"
+    }
+
+    "*** ZOMBIE LADDER HAS BEEN PICKED UP! ***"
+    {
+        "chi" "**僵尸拾取了梯子**"
+    }
+
+    "*** ZOMBIE PORTAL HAS BEEN PICKED UP! ***"
+    {
+        "chi" "**僵尸门已经被打开了!**"
+    }
+
+    "> > >   Move ahead   < < <"
+    {
+        "chi" ">>>前进<<<"
+    }
+
 }

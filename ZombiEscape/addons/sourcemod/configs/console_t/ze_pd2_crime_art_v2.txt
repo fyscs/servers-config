@@ -1,101 +1,119 @@
 "Console_T"
 {
-	"** MAP MADE BY DARKOGRE AND PATRAO! **"
-	{
-		"chi"		"**地图制作:DARKOGRE和PATRAD  汉化:小三@风云社**"
-	}
-	"** USE THE COMPUTERS TO OPEN THE DOOR **"
-	{
-		"chi"		"**使用电脑打开大门**"
-	}
-	"** DOOR OPENS IN 20 SECONDS **"
-	{
-		"chi"		"**铁门20秒后碎裂**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"** TURN THE LASERS OFF **"
-	{
-		"chi"		"**关闭激光**"
-	}
-	"** BATHROOM DOOR OPENS IN 15 SECONDS **"
-	{
-		"chi"		"**厕所15秒后开放**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"** GO TO THE BATHROOM **"
-	{
-		"chi"		"**撤离至厕所**'同一个时间,同一个厕所,干了兄弟萌,奥利给!”"
-	}
-	"** DOOR IS OPEN **"
-	{
-		"chi"		"**厕所门开了**"
-	}
-	"** Truck leaving in 15 seconds! **"
-	{
-		"chi"		"**卡车15秒后出发**"
 
-	}
-	"** The police wants to stop you! **"
-	{
-		"chi"		"**我们受到了雇佣兵的袭击**"
-	}
-	"** Shoot them! **"
-	{
-		"chi"		"**找到并杀死他们**"
-	}
-	"** The Elevator will leave in 10 seconds. Don't miss it! **"
-	{
-		"chi"		"**电梯10秒后上升**'小心右边拐角的僵尸”"
-	}
-	"** HOLD 40 SECONDS **"
-	{
-		"chi"		"**死守40秒!**"
+    "** 30 SECONDS TO UNLOCK THE DOOR **"
+    {
+        "chi" "**通往屋顶的门30秒后才打开**'急啥呢,门还没开呢,下去守到门关”"
+    }
 
-	}
-	"** 5 SECONDS LEFT  **"
-	{
-		"chi"		"**死守5秒!**"
-	}
-	"** HOLD THE KITCHEN! DON'T LET ZOMBIES IN! **"
-	{
-		"chi"		"**守住厨房,别让僵尸进来**"
-	}
-	"** DOOR IS OPENING **"
-	{
-		"chi"		"**卧室门打开了**"
-	}
-	"** HOLD THE BEDROOM **"
-	{
-		"chi"		"**守住卧室!**'大型搞基现场”"
-	}
-	"** MAKE YOUR WAY TO THE OFFICE **"
-	{
-		"chi"		"**找到办公室的路**"
-	}
-	"** THE OFFICE SHOULD BE AT YOUR RIGHT SIDE **"
-	{
-		"chi"		"**办公室在你们的右边**"
-	}
-	"** USE THE COMPUTER TO OPEN THE DOOR TO THE ROOF!! **"
-	{
-		"chi"		"**用电脑打开去屋顶的门**"
-	}
-	"** 30 SECONDS TO UNLOCK THE DOOR **"
-	{
-		"chi"		"**通往屋顶的门30秒后才打开**'急啥呢,门还没开呢,下去守到门关”"
+    "** 5 SECONDS LEFT  **"
+    {
+        "chi" "**死守5秒!**"
+    }
 
-	}
-	"** GET IN THE CHOPPA! **"
-	{
-		"chi"		"**冲冲冲**"
-	}
-	"** The Elevator will leave in 10 seconds. Dont miss it! **"
-	{
-		"chi"		"**电梯还有10秒离开,别错过了**"
+    "** BATHROOM DOOR OPENS IN 15 SECONDS **"
+    {
+        "chi" "**厕所15秒后开放**"
+    }
 
-	}
-	"** HOLD THE KITCHEN! DONT LET ZOMBIES IN! **"
-	{
-		"chi"		"**守住厨房,别让僵尸进来**"
-	}
+    "** DOOR IS OPEN **"
+    {
+        "chi" "**厕所门开了**"
+    }
+
+    "** DOOR IS OPENING **"
+    {
+        "chi" "**卧室门打开了**"
+    }
+
+    "** DOOR OPENS IN 20 SECONDS **"
+    {
+        "chi" "**铁门20秒后碎裂**"
+    }
+
+    "** GET IN THE CHOPPA! **"
+    {
+        "chi" "**冲冲冲**"
+    }
+
+    "** GO TO THE BATHROOM **"
+    {
+        "chi" "**撤离至厕所**'同一个时间,同一个厕所,干了兄弟萌,奥利给!”"
+    }
+
+    "** HOLD 40 SECONDS **"
+    {
+        "chi" "**死守40秒!**"
+    }
+
+    "** HOLD THE BEDROOM **"
+    {
+        "chi" "**守住卧室!**'大型搞基现场”"
+    }
+
+    "** HOLD THE KITCHEN! DON'T LET ZOMBIES IN! **"
+    {
+        "chi" "**守住厨房,别让僵尸进来**"
+    }
+
+    "** MAKE YOUR WAY TO THE OFFICE **"
+    {
+        "chi" "**找到办公室的路**"
+    }
+
+    "** MAP MADE BY DARKOGRE AND PATRAO! **"
+    {
+        "chi" "**地图制作:DARKOGRE和PATRAD  汉化:小三@风云社**"
+    }
+
+    "** Shoot them! **"
+    {
+        "chi" "**找到并杀死他们**"
+    }
+
+    "** The Elevator will leave in 10 seconds. Don't miss it! **"
+    {
+        "chi" "**电梯10秒后上升**'小心右边拐角的僵尸”"
+    }
+
+    "** THE OFFICE SHOULD BE AT YOUR RIGHT SIDE **"
+    {
+        "chi" "**办公室在你们的右边**"
+    }
+
+    "** The police wants to stop you! **"
+    {
+        "chi" "**我们受到了雇佣兵的袭击**"
+    }
+
+    "** Truck leaving in 15 seconds! **"
+    {
+        "chi" "**卡车15秒后出发**"
+    }
+
+    "** TURN THE LASERS OFF **"
+    {
+        "chi" "**关闭激光**"
+    }
+
+    "** USE THE COMPUTER TO OPEN THE DOOR TO THE ROOF!! **"
+    {
+        "chi" "**用电脑打开去屋顶的门**"
+    }
+
+    "** USE THE COMPUTERS TO OPEN THE DOOR **"
+    {
+        "chi" "**使用电脑打开大门**"
+    }
+
 }

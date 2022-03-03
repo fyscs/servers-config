@@ -1,175 +1,179 @@
 "Console_T"
 {
-	"*** FALL BACK! ***"
-	{
-		"chi"		"**快进传送光柱     **"
-	}
-	"*** PROTECT THE CASTLE! ***"
-	{
-		"chi"		"**守住这个城堡**"
-	}
-	"*** FALL BACK TO THE RAINBOW! ***"
-	{
-		"chi"		"**快爪巴上彩虹**"
-	}
-	"*** HOLD IT! 15 seconds! ***"
-	{
-		"chi"		"**守住15秒**"
-	}
-	"*** King Pedobear will let you pass in 30 secs! ***"
-	{
-		"chi"		"**King Pedobear 在30秒后才会允许你通过这里**"
-	}
-	"*** You can pass! Go go go! ***"
-	{
-		"chi"		"**可以通过了 冲冲冲!**"
-	}
-	"*** SURVIVE 60 SECS! ***"
-	{
-		"chi"		"**守住僵尸60秒**"
-	}
-	"*** 5 SECONDS! ***"
-	{
-		"chi"		"**守住僵尸5秒**"
-	}
-	"*** RUN! ***"
-	{
-		"chi"		"**可以走了 快跑**"
-	}
-	"*** King Pedobear will let you pass in 40 secs ***"
-	{
-		"chi"		"**King Pedobear 在40秒后才会允许你通过这里**"
-	}
-	"*** King Pedobear has allowed you to pass! ***"
-	{
-		"chi"		"**King Pedobear说 可 快溜**"
-	}
-	"*** The rainbow will be open in 30 secs ***"
-	{
-		"chi"		"**彩虹在30秒以后才可以被爪巴**"
-	}
-	"*** YOU HAVE 20 SECS TO ESCAPE! ***"
-	{
-		"chi"		"**你有20秒时间逃离这里**"
-	}
-	"*** OH NO IT'S PEDOBEAR! ***"
-	{
-		"chi"		"**噢!是PEDOBEAR**"
-	}
-	"*** SHOOT AND DODGE HIS ATTACKS! ***"
-	{
-		"chi"		"**一边躲避他的攻击一边向他嘘嘘**"
-	}
-	"*** YOU HAVE 2 MINUTES TO KILL PEDOBEAR! ***"
-	{
-		"chi"		"**2分钟后PEDOBEAR将会释放终极**"
-	}
-	"*** You killed Pedobear! ***"
-	{
-		"chi"		"**你干掉他了!**"
-	}
-	"*** Escape from the sky now! ***"
-	{
-		"chi"		"**现在赶快逃离这个地方**"
-	}
-	"*** Hold 30 secs! ***"
-	{
-		"chi"		"**防守僵尸30秒**"
-	}
-	"*** GET INSIDE THE HOUSE! ***"
-	{
-		"chi"		"**快进房子里防守**"
-	}
-	"*** SURVIVE 60 SECONDS! ***"
-	{
-		"chi"		"**守住僵尸60秒**"
-	}
-	"*** Get ready to run!!! ***"
-	{
-		"chi"		"**我觉得我们可以准备溜了!!**"
-	}
-	"*** You can now access the second level of the house! ***"
-	{
-		"chi"		"**你可以爪巴房子的第二层了!**"
-	}
-	"*** Get to the roof for the escape! ***"
-	{
-		"chi"		"**快爪巴上屋顶!**"
-	}
-	"*** Ladder barrier disappears in 30 seconds ***"
-	{
-		"chi"		"**30秒后才能爪巴梯子**"
-	}
-	"*** Ladder barrier has vanished! ***"
-	{
-		"chi"		"**梯子现在可以爪巴了**"
-	}
-	"*** Go go go! ***"
-	{
-		"chi"		"**快给爷爬梯子**"
-	}
-	"*** King Pedobear will help you in 40 secs! ***"
-	{
-		"chi"		"**King Pedobear在40秒后悔帮助你**"
-	}
-	"*** Get Ready! ***"
-	{
-		"chi"		"**小心!**"
-	}
-	"*** The ice glass will break in 30 secs! ***"
-	{
-		"chi"		"**冰在30秒后就碎裂了!**"
-	}
-	"*** Get moving! GO! ***"
-	{
-		"chi"		"**可以走了 冲!**"
-	}
-	"*** ITS PEDOBEAR AGAIN! ***"
-	{
-		"chi"		"**又是PEDOBEAR**"
-	}
-	"*** YOU HAVE 60 SECONDS TO KILL PEDOBEAR! ***"
-	{
-		"chi"		"**你有60秒杀掉PEDOBEAR**"
-	}
-	"*** YOU HAVE 30 SECONDS TO KILL PEDOBEAR! ***"
-	{
-		"chi"		"**你还有30秒杀掉PEDOBEAR**"
-	}
-	"*** YOU HAVE 10 SECONDS TO KILL PEDOBEAR! ***"
-	{
-		"chi"		"**你还有10秒杀掉PEDOBEAR**"
-	}
-	"*** YOU HAVE 5 SECONDS TO KILL PEDOBEAR! ***"
-	{
-		"chi"		"**你只有5秒钟啦!gkd**"
-	}
-	"*** YOU FAILED TO KILL PEDOBEAR IN TIME! ***"
-	{
-		"chi"		"**你没能杀死PEDOBEAR**"
-	}
-	"*** THE PARTY WAS A DISASTER! ***"
-	{
-		"chi"		"**这将会是场屠杀**"
-	}
-	"*** YOU LOSE! ***"
-	{
-		"chi"		"**你输了**"
-	}
-	"*** SURVIVE! 30 secs! ***"
-	{
-		"chi"		"**生存30秒**"
-	}
-	"*** RUUUUUUUUN! ***"
-	{
-		"chi"		"**快跑!!!**"
-	}
-	"*** Congratulations! ***"
-	{
-		"chi"		"**恭喜!**"
-	}
-	"*** You did it! You've finished off Pedobear!!! ***"
-	{
-		"chi"		"**你做到了!你干掉Pedobear了!**"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** 5 SECONDS! *** "
+    {
+        "chi" "__null__"
+    }
+
+    "*** FALL BACK TO THE RAINBOW! ***"
+    {
+        "chi" "**快爪巴上彩虹**"
+    }
+
+    "*** Fall back! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** FALL BACK! ***"
+    {
+        "chi" "**快进传送光柱     **"
+    }
+
+    "*** Get moving! GO! ***"
+    {
+        "chi" "**可以走了 冲!**"
+    }
+
+    "*** Get Ready! ***"
+    {
+        "chi" "**小心!**"
+    }
+
+    "*** Hold 30 secs! ***"
+    {
+        "chi" "**防守僵尸30秒**"
+    }
+
+    "*** HOLD IT! 15 seconds! ***"
+    {
+        "chi" "**守住15秒**"
+    }
+
+    "*** ITS PEDOBEAR AGAIN! ***"
+    {
+        "chi" "**又是PEDOBEAR**"
+    }
+
+    "*** King Pedobear has allowed you to pass! ***"
+    {
+        "chi" "**King Pedobear说 可 快溜**"
+    }
+
+    "*** King Pedobear will help you in 40 secs! ***"
+    {
+        "chi" "**King Pedobear在40秒后悔帮助你**"
+    }
+
+    "*** King Pedobear will let you pass in 30 secs! ***"
+    {
+        "chi" "**King Pedobear 在30秒后才会允许你通过这里**"
+    }
+
+    "*** King Pedobear will let you pass in 40 secs ***"
+    {
+        "chi" "**King Pedobear 在40秒后才会允许你通过这里**"
+    }
+
+    "*** OH NO IT'S PEDOBEAR! ***"
+    {
+        "chi" "**噢!是PEDOBEAR**"
+    }
+
+    "*** PROTECT THE CASTLE! ***"
+    {
+        "chi" "**守住这个城堡**"
+    }
+
+    "*** RUN! ***"
+    {
+        "chi" "**可以走了 快跑**"
+    }
+
+    "*** RUUUUUUUUN! ***"
+    {
+        "chi" "**快跑!!!**"
+    }
+
+    "*** SHOOT AND DODGE HIS ATTACKS! ***"
+    {
+        "chi" "**一边躲避他的攻击一边向他嘘嘘**"
+    }
+
+    "*** SURVIVE 60 SECS! ***"
+    {
+        "chi" "**守住僵尸60秒**"
+    }
+
+    "*** SURVIVE! 30 secs! ***"
+    {
+        "chi" "**生存30秒**"
+    }
+
+    "*** The ice glass will break in 30 secs! ***"
+    {
+        "chi" "**冰在30秒后就碎裂了!**"
+    }
+
+    "*** THE PARTY WAS A DISASTER! ***"
+    {
+        "chi" "**这将会是场屠杀**"
+    }
+
+    "*** The rainbow will be open in 30 secs ***"
+    {
+        "chi" "**彩虹在30秒以后才可以被爪巴**"
+    }
+
+    "*** You can pass! Go go go! ***"
+    {
+        "chi" "**可以通过了 冲冲冲!**"
+    }
+
+    "*** YOU FAILED TO KILL PEDOBEAR IN TIME! ***"
+    {
+        "chi" "**你没能杀死PEDOBEAR**"
+    }
+
+    "*** YOU HAVE 10 SECONDS TO KILL PEDOBEAR! ***"
+    {
+        "chi" "**你还有10秒杀掉PEDOBEAR**"
+    }
+
+    "*** YOU HAVE 2 MINUTES TO KILL PEDOBEAR! ***"
+    {
+        "chi" "**2分钟后PEDOBEAR将会释放终极**"
+    }
+
+    "*** YOU HAVE 20 SECS TO ESCAPE! ***"
+    {
+        "chi" "**你有20秒时间逃离这里**"
+    }
+
+    "*** YOU HAVE 30 SECONDS TO KILL PEDOBEAR! ***"
+    {
+        "chi" "**你还有30秒杀掉PEDOBEAR**"
+    }
+
+    "*** YOU HAVE 5 SECONDS TO KILL PEDOBEAR! ***"
+    {
+        "chi" "**你只有5秒钟啦!gkd**"
+    }
+
+    "*** YOU HAVE 60 SECONDS TO KILL PEDOBEAR! ***"
+    {
+        "chi" "**你有60秒杀掉PEDOBEAR**"
+    }
+
+    "*** YOU KILLED PEDOBEAR! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** YOU LOSE! ***"
+    {
+        "chi" "**你输了**"
+    }
+
 }

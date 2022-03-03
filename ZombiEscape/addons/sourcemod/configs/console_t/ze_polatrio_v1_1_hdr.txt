@@ -1,115 +1,114 @@
 "Console_T"
 {
-	"*** ...... ***"
-	{
-		"chi"		"**......**"
-	}
-	"*** ......Ah... ***"
-	{
-		"chi"		"**......啊...**"
-	}
-	"*** Where are we...? ***"
-	{
-		"chi"		"**我们这是在哪...?**"
-	}
-	"*** We just killed by zombies... ***"
-	{
-		"chi"		"**刚才不是被姜丝......**"
-	}
-	"*** Why are we still alive...? ***"
-	{
-		"chi"		"**为什么现在还活着...?**"
-	}
-	"*** ... ***"
-	{
-		"chi"		"**...**"
-	}
-	"*** We must reserch this place. ***"
-	{
-		"chi"		"**必须先探索一下这个地方**"
-	}
-	"*** Gear up. We are on the move.  ***"
-	{
-		"chi"		"**准备好就出发吧**"
-	}
-	"MESSAGE : HOLD 15 SECONDS"
-	{
-		"chi"		"**防守15秒**"
-	}
-	"MESSAGE : HOLD 20 SECONDS"
-	{
-		"chi"		"**防守20秒**"
-	}
-	"MESSAGE : HOLD 30 SECONDS"
-	{
-		"chi"		"**防守30秒**"
-	}
-	"*** It seems like... ***"
-	{
-		"chi"		"**似乎...**"
-	}
-	"*** We have reached dead end. ***"
-	{
-		"chi"		"**已经无路可走了**"
-	}
-	"*** Hold on, AST radar detects huge hallway below us. ***"
-	{
-		"chi"		"**等等, AST发现下面有一条巨大的通道**"
-	}
-	"*** Breach this floor, and make our way. ***"
-	{
-		"chi"		"**得想办法突破这层地板**"
-	}
-	"*** Explosive planted. ***"
-	{
-		"chi"		"**炸弹已经放好了**"
-	}
-	"*** Breaching in 20 seconds. ***"
-	{
-		"chi"		"**20秒后地板会爆炸  别走错路了**"
-	}
-	"MESSAGE : ALL LIVING KINDS WILL PUNISHED IN 50 SECONDS"
-	{
-		"chi"		"**最后50秒, 坚持住**"
-	}
-	"MESSAGE : ONLY THE DEAD WILL ALIVE"
-	{
-		"chi"		"**只有死者才能永生**"
-	}
-	"MESSAGE : MAP MADE BY SATOKA"
-	{
-		"chi"		"**地图作者: SATOKA  翻译: 没见过菜鸡啊@风云社**"
-	}
-	"***Map by Taskuvaras***"
-	{
-		"chi"		"** **"
-	}
-	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
-	{
-		"chi"		"** **"
-	}
-	"***Welcome***"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Qahnaarin***"
-	{
-		"chi"		"** **"
-	}
-	"*** MAP BY GEORGE ***"
-	{
-		"chi"		"** **"
-	}
-	">> IDEA: Sienestaja <<"
-	{
-		"chi"		"** **"
-	}
-	">> Map by Taskuvaras <<"
-	{
-		"chi"		"** **"
-	}
-	"***CURRENT DIFFICULTY IS NORMAL***"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** ... ***"
+    {
+        "chi" "**...**"
+    }
+
+    "*** ...... ***"
+    {
+        "chi" "**......**"
+    }
+
+    "*** ......Ah... ***"
+    {
+        "chi" "**......啊...**"
+    }
+
+    "*** Breach this floor, and make our way. ***"
+    {
+        "chi" "**得想办法突破这层地板**"
+    }
+
+    "*** Breaching in 20 seconds. ***"
+    {
+        "chi" "**20秒后地板会爆炸  别走错路了**"
+    }
+
+    "*** Explosive planted. ***"
+    {
+        "chi" "**炸弹已经放好了**"
+    }
+
+    "*** Gear up. We are on the move.  ***"
+    {
+        "chi" "**准备好就出发吧**"
+    }
+
+    "*** Hold on, AST radar detects huge hallway below us. ***"
+    {
+        "chi" "**等等, AST发现下面有一条巨大的通道**"
+    }
+
+    "*** It seems like... ***"
+    {
+        "chi" "**似乎...**"
+    }
+
+    "*** We have reached dead end. ***"
+    {
+        "chi" "**已经无路可走了**"
+    }
+
+    "*** We just killed by zombies... ***"
+    {
+        "chi" "**刚才不是被姜丝......**"
+    }
+
+    "*** We must reserch this place. ***"
+    {
+        "chi" "**必须先探索一下这个地方**"
+    }
+
+    "*** Where are we...? ***"
+    {
+        "chi" "**我们这是在哪...?**"
+    }
+
+    "*** Why are we still alive...? ***"
+    {
+        "chi" "**为什么现在还活着...?**"
+    }
+
+    "MESSAGE : ALL LIVING KINDS WILL PUNISHED IN 50 SECONDS"
+    {
+        "chi" "**最后50秒, 坚持住**"
+    }
+
+    "MESSAGE : HOLD 15 SECONDS"
+    {
+        "chi" "**防守15秒**"
+    }
+
+    "MESSAGE : HOLD 20 SECONDS"
+    {
+        "chi" "**防守20秒**"
+    }
+
+    "MESSAGE : HOLD 30 SECONDS"
+    {
+        "chi" "**防守30秒**"
+    }
+
+    "MESSAGE : MAP MADE BY SATOKA"
+    {
+        "chi" "**地图作者: SATOKA  翻译: 没见过菜鸡啊@风云社**"
+    }
+
+    "MESSAGE : ONLY THE DEAD WILL ALIVE"
+    {
+        "chi" "**只有死者才能永生**"
+    }
+
 }

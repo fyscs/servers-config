@@ -1,23 +1,34 @@
 "Console_T"
 {
-	"***30 seconds for pressing button!!!***"
-	{
-		"chi"		"**30秒内触发开关**"
-	}
-	"***30 second for pressing button!!!***"
-	{
-		"chi"		"**30秒内触发开关**"
-	}
-	"***30 seconds for pressing right button!!!***"
-	{
-		"chi"		"**30秒内触发右边的开关**"
-	}
-	"map made by -sang-. helper: V1KT0P"
-	{
-		"chi"		"**地图作者: sang 帮助: V1KTOP 汉化: 大明**"
-	}
-	">>LEVEL 1<<"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***30 second for pressing button!!!***"
+    {
+        "chi" "**30秒内触发开关**"
+    }
+
+    "***30 seconds for pressing button!!!***"
+    {
+        "chi" "**30秒内触发开关**"
+    }
+
+    "***30 seconds for pressing right button!!!***"
+    {
+        "chi" "**30秒内触发右边的开关**"
+    }
+
+    "map made by -sang-. helper: V1KT0P"
+    {
+        "chi" "**地图作者: sang 帮助: V1KTOP 汉化: 大明**"
+    }
+
 }

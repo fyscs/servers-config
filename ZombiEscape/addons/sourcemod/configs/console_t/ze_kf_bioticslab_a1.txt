@@ -1,23 +1,19 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "<<<Mr.Foster: Do you know how this works? You just push the red button!>>>"
-    {
-        "chi" "**福斯特先生:按下红色的按钮就能运行啦 **"
-    }
 
-    "<<<Mr.Foster: You know maybe we should use the wrench from earlier...>>>"
+    "***14962***"
     {
-        "chi" "**福斯特先生:扳手现在该派上用场啦 **"
-    }
-
-    "<<<Mr.Foster: Haha! See? Just press the big red button! It always works!>>>"
-    {
-        "chi" "**福斯特先生:管他三七二十一 按红色按钮就完事 **"
+        "chi" "**14962 **"
     }
 
     "***A Player has picked up Heal Nades***"
@@ -25,89 +21,9 @@
         "chi" "**一名玩家拾取医疗手雷 **"
     }
 
-    "<<<Mr.Foster: HQ sent us some supplies...Let's go through the plan one more time>>>"
+    "***Boss model port by B_CANSIN***"
     {
-        "chi" "**福斯特先生:商店补给已抵达 让我们重新规划下任务 **"
-    }
-
-    "***Wave complete!***"
-    {
-        "chi" "**章节完成 **"
-    }
-
-    "<<<Mr.Foster: Manual Override complete! Goodjob>>>"
-    {
-        "chi" "**福斯特先生:好样的! **"
-    }
-
-    "<<<Mr.Foster: door's stuck? I'll figure something out I guess?>>>"
-    {
-        "chi" "**福斯特先生:门卡住了?别急 总会有办法的 **"
-    }
-
-    "<<<Mr.Foster: Ok, there should be a room ahead where you can do manual override>>>"
-    {
-        "chi" "**福斯特先生:前面应该又房间能手动控制 **"
-    }
-
-    "<<<Mr.Foster: You may also need this....>>>"
-    {
-        "chi" "**福斯特先生:也许这能派上用场... **"
-    }
-
-    "<<<Mr.Foster: Hold on, I just got a reading that someone...or something is ahead...>>>"
-    {
-        "chi" "**福斯特先生:稍等 前面貌似有点异常 **"
-    }
-
-    "<<<Mr.Foster: Ah never mind, it's just a rat. You're in the clear.>>>"
-    {
-        "chi" "**福斯特先生:别担心 只是一直老鼠 你是安全的 **"
-    }
-
-    "<<<Mr.Foster: Room to the power room is now unlocked..hurry!>>>"
-    {
-        "chi" "**福斯特先生:电源室已解锁 赶紧 **"
-    }
-
-    "<<<Mr.Foster: Buggers are on our asses! Hold them off>>>"
-    {
-        "chi" "**福斯特先生:卧槽 什么时候溜到我们后面来了 **"
-    }
-
-    "<<<Mr.Foster: Well done....I will meet you at the elevator before>>>"
-    {
-        "chi" "**福斯特先生:我会在电梯与你们碰面 **"
-    }
-
-    "<<<Mr.Foster: we head to the samples room>>>"
-    {
-        "chi" "**福斯特先生:向样品室进发 **"
-    }
-
-    "<<<Mr.Foster: Bloody wankers got me!>>>"
-    {
-        "chi" "**福斯特先生:卧槽 我受伤了 **"
-    }
-
-    "<<<Mr.Foster: Of course! why would an abandoned lab not have locked doors?>>>"
-    {
-        "chi" "**福斯特先生:果然 实验室是锁着的 **"
-    }
-
-    "<<<Mr.Foster: Meh, there must be a control station somewhere...>>>"
-    {
-        "chi" "**福斯特先生:一定有个控制室在附近 **"
-    }
-
-    "<<<Mr.Foster: Ok so the control station is upstairs...>>>"
-    {
-        "chi" "**福斯特先生:找到了 在我们楼上 **"
-    }
-
-    "<<<Mr.Foster: Alright wankers! Grab the samples and we outta here!>>>"
-    {
-        "chi" "**福斯特先生:赶紧拿上样品 然后撤离 **"
+        "chi" "**Boss model port by B_CANSIN **"
     }
 
     "***Follow and protect Mr.Foster!***"
@@ -115,104 +31,14 @@
         "chi" "**护送福斯特先生!!! **"
     }
 
-    "<<<Mr.Foster: Bugger! Door's stuck!>>>"
-    {
-        "chi" "**福斯特先生:该死 门锁住了! **"
-    }
-
-    "<<<Mr. Foster: I'll think of something...>>>"
-    {
-        "chi" "**福斯特先生:总会有办法的... **"
-    }
-
-    "<<<Mr.Foster: Now where did my welder go...>>>"
-    {
-        "chi" "**福斯特先生:焊工人呢 赶紧的 **"
-    }
-
-    "<<<Mr.Foster: Ah! here we go!>>>"
-    {
-        "chi" "**福斯特先生:好了 继续前进 **"
-    }
-
-    "<<<Mr. Foster: You might wanna stand behind the doorway...and keep those pests off me>>>"
-    {
-        "chi" "**福斯特先生:别傻愣这 掩护我 **"
-    }
-
-    "<<<Mr. Foster: Just give me 5 more seconds...>>>"
-    {
-        "chi" "**福斯特先生:再给我5秒钟 **"
-    }
-
-    "<<<Mr.Foster: Hmmm, room to generator requires clearance...>>>"
-    {
-        "chi" "**福斯特先生:嗯...发电机室需要时间清理下... **"
-    }
-
-    "<<<Mr.Foster: There should be a spare keycard on me...one sec>>>"
-    {
-        "chi" "**福斯特先生:等下 让我找找备用钥匙卡 **"
-    }
-
-    "<<<Well never mind that, there must be a keycard somewhere in here>>>"
-    {
-        "chi" "**别担心 这附近一定有钥匙卡 **"
-    }
-
-    "***14962***"
-    {
-        "chi" "**14962 **"
-    }
-
-    "<<<Mr.Foster Come on come on, open the door!>>>"
-    {
-        "chi" "**福斯特先生:我已经全速前进啦 **"
-    }
-
-    "<<<Mr.Foster: Alright, now generator is on, we just need to get to the samples room...>>>"
-    {
-        "chi" "**福斯特先生:好了 电源接通了 现在样品室开放了应该... **"
-    }
-
-    "<<<Mr.Foster: I'll stay here and guide you>>>"
-    {
-        "chi" "**福斯特先生:兵分两路 我会和你们保持联络的 **"
-    }
-
-    "<<<Mr.Foster: There's nothing that can't be fixed with a little bit of love taps...>>>"
-    {
-        "chi" "**福斯特先生:可以试试用爱发电 **"
-    }
-
-    "<<<Mr.Foster: Now where would I find a key in an abandoned lab?>>>"
-    {
-        "chi" "**福斯特先生:tmd这废弃实验室找得到个毛钥匙 **"
-    }
-
-    "<<<Mr.Foster: And press this, flip that, and.....DONE!>>>"
-    {
-        "chi" "**福斯特先生:乱按就完事 **"
-    }
-
-    "<<<Mr.Foster: Ok, power is on, I'm gonna open the door to safe room. Keep defending!>>>"
-    {
-        "chi" "**福斯特先生:电源已接通 现在我要打开安全屋大门了 坚持住! **"
-    }
-
-    "<<<Mr.Foster: Ah! This is the card we need...now let's head to the generator room>>>"
-    {
-        "chi" "**福斯特先生:钥匙卡已获取 现在赶紧去发电机房 **"
-    }
-
-    "<<<Mr.Foster: we're in one piece. Very nice.>>>"
-    {
-        "chi" "**福斯特先生:太险了 干得好伙计们 **"
-    }
-
     "***Level complete! Prepare for next wave...***"
     {
         "chi" "**章节完成 正在载入下一章节 **"
+    }
+
+    "***Map based on Killing Floor BioticsLab***"
+    {
+        "chi" "**该地图灵感基于杀戮空间实验室 **"
     }
 
     "***Map by iXi***"
@@ -230,14 +56,9 @@
         "chi" "**Model port by iXi **"
     }
 
-    "***Boss model port by B_CANSIN***"
+    "***Version: Alpha, a lot of stuff will be added later***"
     {
-        "chi" "**Boss model port by B_CANSIN **"
-    }
-
-    "***Map based on Killing Floor BioticsLab***"
-    {
-        "chi" "**该地图灵感基于杀戮空间实验室 **"
+        "chi" "**测试版本 后期将会添加更多内容**"
     }
 
     "***Warmup***"
@@ -245,9 +66,194 @@
         "chi" "**热身阶段 **"
     }
 
-    "***Version: Alpha, a lot of stuff will be added later***"
+    "***Wave complete!***"
     {
-        "chi" "**测试版本 后期将会添加更多内容**"
+        "chi" "**章节完成 **"
+    }
+
+    "<<<Mr. Foster: I'll think of something...>>>"
+    {
+        "chi" "**福斯特先生:总会有办法的... **"
+    }
+
+    "<<<Mr. Foster: Just give me 5 more seconds...>>>"
+    {
+        "chi" "**福斯特先生:再给我5秒钟 **"
+    }
+
+    "<<<Mr. Foster: You might wanna stand behind the doorway...and keep those pests off me>>>"
+    {
+        "chi" "**福斯特先生:别傻愣这 掩护我 **"
+    }
+
+    "<<<Mr.Foster Come on come on, open the door!>>>"
+    {
+        "chi" "**福斯特先生:我已经全速前进啦 **"
+    }
+
+    "<<<Mr.Foster: Ah never mind, it's just a rat. You're in the clear.>>>"
+    {
+        "chi" "**福斯特先生:别担心 只是一直老鼠 你是安全的 **"
+    }
+
+    "<<<Mr.Foster: Ah! here we go!>>>"
+    {
+        "chi" "**福斯特先生:好了 继续前进 **"
+    }
+
+    "<<<Mr.Foster: Ah! This is the card we need...now let's head to the generator room>>>"
+    {
+        "chi" "**福斯特先生:钥匙卡已获取 现在赶紧去发电机房 **"
+    }
+
+    "<<<Mr.Foster: Alright wankers! Grab the samples and we outta here!>>>"
+    {
+        "chi" "**福斯特先生:赶紧拿上样品 然后撤离 **"
+    }
+
+    "<<<Mr.Foster: Alright, now generator is on, we just need to get to the samples room...>>>"
+    {
+        "chi" "**福斯特先生:好了 电源接通了 现在样品室开放了应该... **"
+    }
+
+    "<<<Mr.Foster: And press this, flip that, and.....DONE!>>>"
+    {
+        "chi" "**福斯特先生:乱按就完事 **"
+    }
+
+    "<<<Mr.Foster: Bloody wankers got me!>>>"
+    {
+        "chi" "**福斯特先生:卧槽 我受伤了 **"
+    }
+
+    "<<<Mr.Foster: Bugger! Door's stuck!>>>"
+    {
+        "chi" "**福斯特先生:该死 门锁住了! **"
+    }
+
+    "<<<Mr.Foster: Buggers are on our asses! Hold them off>>>"
+    {
+        "chi" "**福斯特先生:卧槽 什么时候溜到我们后面来了 **"
+    }
+
+    "<<<Mr.Foster: Do you know how this works? You just push the red button!>>>"
+    {
+        "chi" "**福斯特先生:按下红色的按钮就能运行啦 **"
+    }
+
+    "<<<Mr.Foster: door's stuck? I'll figure something out I guess?>>>"
+    {
+        "chi" "**福斯特先生:门卡住了?别急 总会有办法的 **"
+    }
+
+    "<<<Mr.Foster: Haha! See? Just press the big red button! It always works!>>>"
+    {
+        "chi" "**福斯特先生:管他三七二十一 按红色按钮就完事 **"
+    }
+
+    "<<<Mr.Foster: Hmmm, room to generator requires clearance...>>>"
+    {
+        "chi" "**福斯特先生:嗯...发电机室需要时间清理下... **"
+    }
+
+    "<<<Mr.Foster: Hold on, I just got a reading that someone...or something is ahead...>>>"
+    {
+        "chi" "**福斯特先生:稍等 前面貌似有点异常 **"
+    }
+
+    "<<<Mr.Foster: HQ sent us some supplies...Let's go through the plan one more time>>>"
+    {
+        "chi" "**福斯特先生:商店补给已抵达 让我们重新规划下任务 **"
+    }
+
+    "<<<Mr.Foster: I'll stay here and guide you>>>"
+    {
+        "chi" "**福斯特先生:兵分两路 我会和你们保持联络的 **"
+    }
+
+    "<<<Mr.Foster: Manual Override complete! Goodjob>>>"
+    {
+        "chi" "**福斯特先生:好样的! **"
+    }
+
+    "<<<Mr.Foster: Meh, there must be a control station somewhere...>>>"
+    {
+        "chi" "**福斯特先生:一定有个控制室在附近 **"
+    }
+
+    "<<<Mr.Foster: Now where did my welder go...>>>"
+    {
+        "chi" "**福斯特先生:焊工人呢 赶紧的 **"
+    }
+
+    "<<<Mr.Foster: Now where would I find a key in an abandoned lab?>>>"
+    {
+        "chi" "**福斯特先生:tmd这废弃实验室找得到个毛钥匙 **"
+    }
+
+    "<<<Mr.Foster: Of course! why would an abandoned lab not have locked doors?>>>"
+    {
+        "chi" "**福斯特先生:果然 实验室是锁着的 **"
+    }
+
+    "<<<Mr.Foster: Ok so the control station is upstairs...>>>"
+    {
+        "chi" "**福斯特先生:找到了 在我们楼上 **"
+    }
+
+    "<<<Mr.Foster: Ok, power is on, I'm gonna open the door to safe room. Keep defending!>>>"
+    {
+        "chi" "**福斯特先生:电源已接通 现在我要打开安全屋大门了 坚持住! **"
+    }
+
+    "<<<Mr.Foster: Ok, there should be a room ahead where you can do manual override>>>"
+    {
+        "chi" "**福斯特先生:前面应该又房间能手动控制 **"
+    }
+
+    "<<<Mr.Foster: Room to the power room is now unlocked..hurry!>>>"
+    {
+        "chi" "**福斯特先生:电源室已解锁 赶紧 **"
+    }
+
+    "<<<Mr.Foster: There should be a spare keycard on me...one sec>>>"
+    {
+        "chi" "**福斯特先生:等下 让我找找备用钥匙卡 **"
+    }
+
+    "<<<Mr.Foster: There's nothing that can't be fixed with a little bit of love taps...>>>"
+    {
+        "chi" "**福斯特先生:可以试试用爱发电 **"
+    }
+
+    "<<<Mr.Foster: we head to the samples room>>>"
+    {
+        "chi" "**福斯特先生:向样品室进发 **"
+    }
+
+    "<<<Mr.Foster: Well done....I will meet you at the elevator before>>>"
+    {
+        "chi" "**福斯特先生:我会在电梯与你们碰面 **"
+    }
+
+    "<<<Mr.Foster: we're in one piece. Very nice.>>>"
+    {
+        "chi" "**福斯特先生:太险了 干得好伙计们 **"
+    }
+
+    "<<<Mr.Foster: You know maybe we should use the wrench from earlier...>>>"
+    {
+        "chi" "**福斯特先生:扳手现在该派上用场啦 **"
+    }
+
+    "<<<Mr.Foster: You may also need this....>>>"
+    {
+        "chi" "**福斯特先生:也许这能派上用场... **"
+    }
+
+    "<<<Well never mind that, there must be a keycard somewhere in here>>>"
+    {
+        "chi" "**别担心 这附近一定有钥匙卡 **"
     }
 
 }

@@ -1,55 +1,84 @@
 "Console_T"
 {
-	"Map : ze_surf_shonyudo"
-	{
-		"chi"		"** **"
-	}
-	"Who : Hmn"
-	{
-		"chi"		"** **"
-	}
-	">> Destroy the rock 30 SECONDS <<"
-	{
-		"chi"		"**岩石30秒后碎开**"
-	}
-	">> Destroy the rock 10 SECONDS <<"
-	{
-		"chi"		"**岩石10秒后碎开**"
-	}
-	">> Laser_Lv -- Godlike -- <<"
-	{
-		"chi"		"**跳刀关--干得漂亮--**"
-	}
-	">> Fixing the elevator 30 SECONDS <<"
-	{
-		"chi"		"**守住电梯30秒**"
-	}
-	">> Fixing the elevator 10 SECONDS <<"
-	{
-		"chi"		"**守住电梯10秒**"
-	}
-	">> GOOD LUCK <<"
-	{
-		"chi"		"**祝你好运**"
-	}
-	">> RUN! <<"
-	{
-		"chi"		"**快溜!**"
-	}
-	">> Escape The World !! 40 SECONDS  <<"
-	{
-		"chi"		"**还有40秒逃离这里**"
-	}
-	">> Escape The World !! 10 SECONDS  <<"
-	{
-		"chi"		"**还有10秒**"
-	}
-	">> ORE NO KATI  <<"
-	{
-		"chi"		"** **"
-	}
-	"<<< 第一章_起点 >>>"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    ">> Destroy the rock 10 SECONDS <<"
+    {
+        "chi" "**岩石10秒后碎开**"
+    }
+
+    ">> Destroy the rock 30 SECONDS <<"
+    {
+        "chi" "**岩石30秒后碎开**"
+    }
+
+    ">> Escape The World !! 10 SECONDS  <<"
+    {
+        "chi" "**还有10秒**"
+    }
+
+    ">> Escape The World !! 40 SECONDS  <<"
+    {
+        "chi" "**还有40秒逃离这里**"
+    }
+
+    ">> Fixing the elevator 10 SECONDS <<"
+    {
+        "chi" "**守住电梯10秒**"
+    }
+
+    ">> Fixing the elevator 30 SECONDS <<"
+    {
+        "chi" "**守住电梯30秒**"
+    }
+
+    ">> GOOD LUCK <<"
+    {
+        "chi" "**祝你好运**"
+    }
+
+    ">> Laser_Lv -- ??? -- <<"
+    {
+        "chi" "__null__"
+    }
+
+    ">> Laser_Lv -- Carnage -- <<"
+    {
+        "chi" "__null__"
+    }
+
+    ">> Laser_Lv -- Godlike -- <<"
+    {
+        "chi" "**跳刀关--干得漂亮--**"
+    }
+
+    ">> ORE NO KATI  <<"
+    {
+        "chi" "__null__"
+    }
+
+    ">> RUN! <<"
+    {
+        "chi" "**快溜!**"
+    }
+
+    "Map : ze_surf_shonyudo"
+    {
+        "chi" "__null__"
+    }
+
+    "Who : Hmn"
+    {
+        "chi" "__null__"
+    }
+
 }

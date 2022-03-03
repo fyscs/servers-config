@@ -1,164 +1,144 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "***HACKING SECURITY BLASTDOOR...***"
-    {
-        "chi" "** **"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "***ESTIMATED TIME IS 20 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***HACKING 100% COMPLETE***"
-    {
-        "chi" "** **"
-    }
-
-    "***SECURITY BLASTDOOR IS OPEN***"
-    {
-        "chi" "** **"
-    }
-
-    "***FALL BACK***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOUBLE ELEVATOR IS LEAVING IN 10 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOUBLE ELEVATOR IS LEAVING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***ELEVATOR LEAVING IN 20 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***ELEVATOR LEAVING IN 10 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***ELEVATOR LEAVING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***OPENING FINAL DOOR***"
-    {
-        "chi" "** **"
-    }
-
-    "***DUAL DOORS ARE OPENING IN 30 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DUAL DOORS ARE OPENING IN 10 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DUAL DOORS ARE OPENING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DUAL DOORS ARE OPENING***"
-    {
-        "chi" "** **"
-    }
-
-    "***FALL BACK***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 15 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 10 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 10 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 15 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***OPENING BLASTDOOR TO INNER COMPLEX***"
-    {
-        "chi" "** **"
-    }
-
-    "***FINAL DOOR IS CLOSING***"
-    {
-        "chi" "** **"
-    }
-
-    "***FENCE OPENING IN 15 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***FENCE OPENING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***SEWER OPENING IN 20 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***SEWER OPENING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
 
     "***COMPLEX GATE OPENING IN 20 SECONDS***"
     {
-        "chi" "** **"
+        "chi" "__null__"
     }
 
     "***COMPLEX GATE OPENING IN 5 SECONDS***"
     {
-        "chi" "** **"
+        "chi" "__null__"
+    }
+
+    "***DOOR IS OPENING IN 10 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***DOOR IS OPENING IN 15 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***DOOR IS OPENING IN 5 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***DOUBLE ELEVATOR IS LEAVING IN 10 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***DOUBLE ELEVATOR IS LEAVING IN 5 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***DUAL DOORS ARE OPENING IN 10 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***DUAL DOORS ARE OPENING IN 30 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***DUAL DOORS ARE OPENING IN 5 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***DUAL DOORS ARE OPENING***"
+    {
+        "chi" "__null__"
+    }
+
+    "***ELEVATOR LEAVING IN 10 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***ELEVATOR LEAVING IN 20 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***ELEVATOR LEAVING IN 5 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***ESTIMATED TIME IS 20 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***FALL BACK***"
+    {
+        "chi" "__null__"
+    }
+
+    "***FENCE OPENING IN 15 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***FENCE OPENING IN 5 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***FINAL DOOR IS CLOSING***"
+    {
+        "chi" "__null__"
+    }
+
+    "***HACKING 100% COMPLETE***"
+    {
+        "chi" "__null__"
+    }
+
+    "***HACKING SECURITY BLASTDOOR...***"
+    {
+        "chi" "__null__"
+    }
+
+    "***OPENING BLASTDOOR TO INNER COMPLEX***"
+    {
+        "chi" "__null__"
+    }
+
+    "***OPENING FINAL DOOR***"
+    {
+        "chi" "__null__"
+    }
+
+    "***SECURITY BLASTDOOR IS OPEN***"
+    {
+        "chi" "__null__"
+    }
+
+    "***SEWER OPENING IN 20 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "***SEWER OPENING IN 5 SECONDS***"
+    {
+        "chi" "__null__"
     }
 
 }

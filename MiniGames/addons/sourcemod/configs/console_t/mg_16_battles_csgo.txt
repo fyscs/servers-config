@@ -1,13 +1,75 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
-
-    "Maze will be disabled in 5 seconds!"
-    {
-        "chi" "迷宫将会在5秒钟后消失"
-    }
-
+	"Maze will be disabled in 5 seconds!"
+	{
+		"chi"		"迷宫将会在5秒钟后消失"
+	}
+	"Map Ported by Shawn for GiClan"
+	{
+		"chi"		"__null__"
+	}
+	"You have 45 Seconds to Buy!"
+	{
+		"chi"		"__null__"
+	}
+	"You have chosen: Maze!"
+	{
+		"chi"		"__null__"
+	}
+	"You have chosen: Hill!"
+	{
+		"chi"		"__null__"
+	}
+	"You have chosen: Speed circle!"
+	{
+		"chi"		"__null__"
+	}
+	"You have chosen: Cemetery!"
+	{
+		"chi"		"__null__"
+	}
+	"You have chosen: Glass!"
+	{
+		"chi"		"__null__"
+	}
+	"You have chosen: Eye rape!"
+	{
+		"chi"		"__null__"
+	}
+	"You have chosen: Nether!"
+	{
+		"chi"		"__null__"
+	}
+	"You have chosen: Submarine!"
+	{
+		"chi"		"__null__"
+	}
+	"You have chosen: Fortress!"
+	{
+		"chi"		"__null__"
+	}
+	"You have chosen: Highway!"
+	{
+		"chi"		"__null__"
+	}
+	"You have chosen: Dev!"
+	{
+		"chi"		"__null__"
+	}
+	"You have chosen: Freezer!"
+	{
+		"chi"		"__null__"
+	}
+	"You have chosen: Sparta!"
+	{
+		"chi"		"__null__"
+	}
+	"You have chosen: Rooftop!"
+	{
+		"chi"		"__null__"
+	}
+	"You have chosen: Sewers!"
+	{
+		"chi"		"__null__"
+	}
 }

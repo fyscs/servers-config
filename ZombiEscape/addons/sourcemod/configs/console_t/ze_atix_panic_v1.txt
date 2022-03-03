@@ -1,33 +1,24 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "++ 60 seconds until the secret is disabled ++"
-    {
-        "chi" "**60秒后将禁用密码**"
-    }
-
-    "++ Wrong button! ++"
-    {
-        "chi" "**错误的按钮**"
-    }
 
     "++ 15 seconds to choose ++"
     {
         "chi" "**你有15秒的时间去选择**"
     }
 
-    "++ NUKE IN 10 SECONDS ++"
+    "++ 20 SECONDS UNTIL THE HELICOPTER LEAVES ++"
     {
-        "chi" "**核弹:10秒**"
-    }
-
-    "++ HELICOPTER ON THE WAY ++"
-    {
-        "chi" "**等待直升机**"
+        "chi" "**直升机撤离:20秒**"
     }
 
     "++ 30 SECONDS UNTIL ARRIVAL ++"
@@ -35,9 +26,9 @@
         "chi" "**30**"
     }
 
-    "++ ZOMBIE BARRIERS ARE EASIER TO BREAK NOW ++"
+    "++ 60 seconds until the secret is disabled ++"
     {
-        "chi" "**障碍物现在将变得不堪一击**"
+        "chi" "**60秒后将禁用密码**"
     }
 
     "++ ALL FLOORS ARE UNLOCKED ++"
@@ -45,19 +36,9 @@
         "chi" "**全面解锁**"
     }
 
-    "++ THIRD FLOOR WILL BE UNLOCKED IN 10 SECONDS ++"
+    "++ DOORS WILL BE UNLOCKED IN 120 SECONDS ++"
     {
-        "chi" "**三楼解锁:10秒**"
-    }
-
-    "++ SECOND FLOOR WILL BE UNLOCKED IN 10 SECONDS ++"
-    {
-        "chi" "**二楼解锁:10秒**"
-    }
-
-    "++ FIRST FLOOR WILL BE UNLOCKED IN 10 SECONDS ++"
-    {
-        "chi" "**一楼解锁:10秒**"
+        "chi" "**大门解锁:120秒**"
     }
 
     "++ DOORS WILL BE UNLOCKED IN 30 SECONDS ++"
@@ -70,19 +51,44 @@
         "chi" "**大门解锁:60秒**"
     }
 
-    "++ DOORS WILL BE UNLOCKED IN 120 SECONDS ++"
+    "++ FIRST FLOOR WILL BE UNLOCKED IN 10 SECONDS ++"
     {
-        "chi" "**大门解锁:120秒**"
-    }
-
-    "++ 20 SECONDS UNTIL THE HELICOPTER LEAVES ++"
-    {
-        "chi" "**直升机撤离:20秒**"
+        "chi" "**一楼解锁:10秒**"
     }
 
     "++ HELICOPTER IS LEAVING ++"
     {
         "chi" "**直升机正在撤离**"
+    }
+
+    "++ HELICOPTER ON THE WAY ++"
+    {
+        "chi" "**等待直升机**"
+    }
+
+    "++ NUKE IN 10 SECONDS ++"
+    {
+        "chi" "**核弹:10秒**"
+    }
+
+    "++ SECOND FLOOR WILL BE UNLOCKED IN 10 SECONDS ++"
+    {
+        "chi" "**二楼解锁:10秒**"
+    }
+
+    "++ THIRD FLOOR WILL BE UNLOCKED IN 10 SECONDS ++"
+    {
+        "chi" "**三楼解锁:10秒**"
+    }
+
+    "++ Wrong button! ++"
+    {
+        "chi" "**错误的按钮**"
+    }
+
+    "++ ZOMBIE BARRIERS ARE EASIER TO BREAK NOW ++"
+    {
+        "chi" "**障碍物现在将变得不堪一击**"
     }
 
 }

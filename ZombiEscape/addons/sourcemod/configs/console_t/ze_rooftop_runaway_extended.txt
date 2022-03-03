@@ -1,75 +1,94 @@
 "Console_T"
 {
-	"MAP MADE BY GARGANTUA"
-	{
-		"chi"		"**地图制作: GARGANTUA		汉化: 小三@风云社**"
-	}
-	"DOOR WILL OPEN IN 60 SECONDS."
-	{
-		"chi"		"**大门60秒后打开**"
-	}
-	"DOOR WILL OPEN IN 30 SECONDS."
-	{
-		"chi"		"**大门30秒后打开**"
-	}
-	"DOOR WILL OPEN IN 15 SECONDS."
-	{
-		"chi"		"**大门15秒后打开**"
-	}
-	"DOOR WILL OPEN IN 10 SECONDS."
-	{
-		"chi"		"**大门10秒后打开**"
-	}
-	"DOOR IS NOW OPEN!!"
-	{
-		"chi"		"**门开了!**"
-	}
-	"TRAIN IS LEAVING IN 15 SECONDS."
-	{
-		"chi"		"**火车15秒后撤离**"
-	}
-	"TRAIN IS LEAVING IN 10 SECONDS."
-	{
-		"chi"		"**火车10秒后撤离**"
-	}
-	"TRAIN IS LEAVING IN 5 SECONDS."
-	{
-		"chi"		"**火车5秒后撤离**"
-	}
-	"TRAIN IS LEAVING NOW!!"
-	{
-		"chi"		"**火车正在撤离中**"
-	}
-	"DOOR WILL OPEN IN 90 SECONDS."
-	{
-		"chi"		"**大门90秒后打开**"
-	}
-	"DOOR WILL OPEN IN 5 SECONDS."
-	{
-		"chi"		"**大门5秒后打开**"
-	}
-	"DOOR WILL CLOSE IN 15 SECONDS."
-	{
-		"chi"		"**大门15秒后关闭**"
-	}
-	"DOOR WILL CLOSE IN 5 SECONDS."
-	{
-		"chi"		"**大门5秒后关闭**"
-	}
-	"DOOR IS CLOSING"
-	{
-		"chi"		"**大门关闭中**"
-	}
-	"INCOMING AIRSTRIKE!!"
-	{
-		"chi"		"**核弹来袭**"
-	}
-	"++ ZE_ITALY_TOWN ++"
-	{
-		"chi"		"** **"
-	}
-	"***wait for 40sec***"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "DOOR IS CLOSING"
+    {
+        "chi" "**大门关闭中**"
+    }
+
+    "DOOR IS NOW OPEN!!"
+    {
+        "chi" "**门开了!**"
+    }
+
+    "DOOR WILL CLOSE IN 15 SECONDS."
+    {
+        "chi" "**大门15秒后关闭**"
+    }
+
+    "DOOR WILL CLOSE IN 5 SECONDS."
+    {
+        "chi" "**大门5秒后关闭**"
+    }
+
+    "DOOR WILL OPEN IN 10 SECONDS."
+    {
+        "chi" "**大门10秒后打开**"
+    }
+
+    "DOOR WILL OPEN IN 15 SECONDS."
+    {
+        "chi" "**大门15秒后打开**"
+    }
+
+    "DOOR WILL OPEN IN 30 SECONDS."
+    {
+        "chi" "**大门30秒后打开**"
+    }
+
+    "DOOR WILL OPEN IN 5 SECONDS."
+    {
+        "chi" "**大门5秒后打开**"
+    }
+
+    "DOOR WILL OPEN IN 60 SECONDS."
+    {
+        "chi" "**大门60秒后打开**"
+    }
+
+    "DOOR WILL OPEN IN 90 SECONDS."
+    {
+        "chi" "**大门90秒后打开**"
+    }
+
+    "INCOMING AIRSTRIKE!!"
+    {
+        "chi" "**核弹来袭**"
+    }
+
+    "MAP MADE BY GARGANTUA"
+    {
+        "chi" "**地图制作: GARGANTUA		汉化: 小三@风云社**"
+    }
+
+    "TRAIN IS LEAVING IN 10 SECONDS."
+    {
+        "chi" "**火车10秒后撤离**"
+    }
+
+    "TRAIN IS LEAVING IN 15 SECONDS."
+    {
+        "chi" "**火车15秒后撤离**"
+    }
+
+    "TRAIN IS LEAVING IN 5 SECONDS."
+    {
+        "chi" "**火车5秒后撤离**"
+    }
+
+    "TRAIN IS LEAVING NOW!!"
+    {
+        "chi" "**火车正在撤离中**"
+    }
+
 }

@@ -1,9 +1,155 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** Floodgate 1 opens in 22 seconds **"
+    {
+        "chi" "**血门一号20秒后开 **"
+    }
+
+    "** Floodgate 2 opens in 20 seconds **"
+    {
+        "chi" "**血门二号20秒后开 **"
+    }
+
+    "***  low gravity rising in 1 ***"
+    {
+        "chi" "**低重力还有1秒到来 **"
+    }
+
+    "***  low gravity rising in 3 ***"
+    {
+        "chi" "**低重力还有3秒到来 **"
+    }
+
+    "*** All mines have been used ***"
+    {
+        "chi" "**地雷已经全部使用完毕 **"
+    }
+
+    "*** DOOR OPENS IN 10 SECONDS ***"
+    {
+        "chi" "**门在10秒后开 **"
+    }
+
+    "*** DOOR OPENS IN 15 SECONDS ***"
+    {
+        "chi" "**门在15秒后开 **"
+    }
+
+    "*** DOOR OPENS IN 20 SECONDS ***"
+    {
+        "chi" "**门在20秒后开 **"
+    }
+
+    "*** ENTER THE PORTAL ***"
+    {
+        "chi" "**快上船 **"
+    }
+
+    "*** FINAL DOOR OPENS IN 15 SECONDS ***"
+    {
+        "chi" "**最后之门将在15秒后打开 **"
+    }
+
+    "*** Final teleport enables in 15 seconds ***"
+    {
+        "chi" "**最后的传送在15秒后开启 **"
+    }
+
+    "*** FINAL TP ENABLES IN 15 SECONDS ***"
+    {
+        "chi" "**最后的传送点15秒后开 **"
+    }
+
+    "*** Hold 30 seconds ***"
+    {
+        "chi" "**防守30秒 **"
+    }
+
+    "*** low gravity rising in 1 ***"
+    {
+        "chi" "**低重力还有1秒到来 **"
+    }
+
+    "*** low gravity rising in 2 ***"
+    {
+        "chi" "**低重力还有2秒到来 **"
+    }
+
+    "*** low gravity rising in 3 ***"
+    {
+        "chi" "**低重力还有3秒到来 **"
+    }
+
+    "*** Mines item has been picked (5 use) ***"
+    {
+        "chi" "**地雷已被拿起,只有五颗 **"
+    }
+
+    "*** Moves in 15 seconds ***"
+    {
+        "chi" "**15后撤退 **"
+    }
+
+    "*** Random path in 10 seconds ***"
+    {
+        "chi" "**10秒后打开一个随机区域 **"
+    }
+
+    "*** SLOW POKES AND VENT CAMPERS GET TP IN 15 SECONDS ***"
+    {
+        "chi" "**15秒后传送管道上的玩家 **"
+    }
+
+    "*** SLOW POKES AND VENT CAMPERS GET TP IN 20 SECONDS ***"
+    {
+        "chi" "**20秒后传送管道上的玩家 **"
+    }
+
+    "*** TELEPORT IN 5 SECONDS ***"
+    {
+        "chi" "**5秒后传送 **"
+    }
+
+    "*** TELEPORTING SLOWPOKES IN 5 SECONDS ***"
+    {
+        "chi" "**最后的传送在5秒后开启 **"
+    }
+
+    "*** WHEELS ARE LEAVING IN 15 SECONDS ***"
+    {
+        "chi" "**飞轮15秒后离开 **"
+    }
+
+    "*** ZOMBIES IN 5 SECS ***"
+    {
+        "chi" "**僵尸还有5秒到达 **"
+    }
+
+    "***30 seconds remaining.***"
+    {
+        "chi" "**还有30秒 **"
+    }
+
+    "***5 seconds remaining.***"
+    {
+        "chi" "**还有5秒 **"
+    }
+
+    "***A ZOMBIE HAS ENTERED THE JAIL! KILL IT IN 10 SECONDS BEFORE IT GOES MAYHEM!***"
+    {
+        "chi" "**有僵尸进来了,赶紧在10秒之内杀死他 **"
+    }
 
     "***ADMIN TOGGLED ENDING 1***"
     {
@@ -20,104 +166,9 @@
         "chi" "**管理员选择了最终结局 **"
     }
 
-    "***YOU DEFEATED THE GMAN!!!***"
+    "***AFK tp in 10 sec***"
     {
-        "chi" "**我草,历经万千磨难,我们终于打败了游戏管理员!! **"
-    }
-
-    "***GET TO THE DOOR***"
-    {
-        "chi" "**快进门 **"
-    }
-
-    "***DEFEND 40 SEC***"
-    {
-        "chi" "**防守40秒 **"
-    }
-
-    "***DEFEND 10 SEC***"
-    {
-        "chi" "**防守10秒 **"
-    }
-
-    "***GET IN***"
-    {
-        "chi" "**快进来 **"
-    }
-
-    "***CONGRATS YOU ESCAPED***"
-    {
-        "chi" "**恭喜你逃脱了这里 **"
-    }
-
-    "**DEFEND 30 SEC**"
-    {
-        "chi" "**防守30秒 **"
-    }
-
-    "**FALL BACK**"
-    {
-        "chi" "**快跑! **"
-    }
-
-    "**DEFEND 10 SEC**"
-    {
-        "chi" "**防守10秒 **"
-    }
-
-    "**DEFEND 20 SEC**"
-    {
-        "chi" "**防守20秒 **"
-    }
-
-    "***Zombies have pickd up FOR FRODO item***"
-    {
-        "chi" "**僵尸获得了魔戒米纳斯牌冲锋号 **"
-    }
-
-    "*** Mines item has been picked (5 use) ***"
-    {
-        "chi" "**地雷已被拿起,只有五颗 **"
-    }
-
-    "***MINES item picked up***"
-    {
-        "chi" "**地雷已被拿起 **"
-    }
-
-    "*** All mines have been used ***"
-    {
-        "chi" "**地雷已经全部使用完毕 **"
-    }
-
-    "***SCOOBY SNACKS item picked up***"
-    {
-        "chi" "**史努比的小饼干已经被人拿起 **"
-    }
-
-    "***BFG item picked up***"
-    {
-        "chi" "**超级无敌吸附式绝灭僵尸炮被人拿起 **"
-    }
-
-    "***MACHINE GUN item picked up***"
-    {
-        "chi" "**重型机枪被人拿起 **"
-    }
-
-    "***Zombies have pickd up PULL FORCE item***"
-    {
-        "chi" "**僵尸获得了黑洞 **"
-    }
-
-    "***TRANSPARENT item picked up***"
-    {
-        "chi" "**隐形被人拿起 **"
-    }
-
-    "***MORELLS MONEY item picked up***"
-    {
-        "chi" "**印钞机被人拿起 **"
+        "chi" "**AFK玩家10秒后传送 **"
     }
 
     "***BAN HAMMER item picked up***"
@@ -125,611 +176,9 @@
         "chi" "**权限锤被人拿起 **"
     }
 
-    "***OLD AGE item picked up***"
+    "***BFG item picked up***"
     {
-        "chi" "**老掉牙的神器被人拿起 **"
-    }
-
-    "***Zombies have pickd up MAGIC CYLINDER item***"
-    {
-        "chi" "**僵尸获得了陷阱魔法卡:反伤圆筒 **"
-    }
-
-    "***NON EUCLIDIAN item picked up***"
-    {
-        "chi" "**欧几里得TP僵尸枪被人拿起 **"
-    }
-
-    "***5 seconds remaining.***"
-    {
-        "chi" "**还有5秒 **"
-    }
-
-    "***STAGE COMPLETED***"
-    {
-        "chi" "**本关完成 **"
-    }
-
-    "***STAGE Fortress Defence***"
-    {
-        "chi" "**关卡:要塞防御 **"
-    }
-
-    "<< ITS VOTING TIME BOYOS >>"
-    {
-        "chi" "**好了,小伙子们该选择了 **"
-    }
-
-    "<< YOU BEAT 10 LEVELS IN A ROW >>"
-    {
-        "chi" "**你们居然在这段时间赢了十个小游戏 **"
-    }
-
-    "<< YOU CAN DECIDE TO CONTINUE >>"
-    {
-        "chi" "**你可以决定继续,正所谓百尺竿头更进一步 **"
-    }
-
-    "<< OR GO FOR THE BEAT SABER ENDING >>"
-    {
-        "chi" "**或者选择弹幕狗最喜欢的best saber弹幕结局 **"
-        "command" "sm_farter_enabled  0" 
-    }
-
-    "<< CHOOSE WISELY >>"
-    {
-        "chi" "**明智的选择 **"
-    }
-
-    "<< 20 SEC TO VOTE >>"
-    {
-        "chi" "**20秒的选择时间 **"
-    }
-
-    "<< 5 SEC LEFT >>"
-    {
-        "chi" "**5 **"
-    }
-
-    "<< 4 SEC LEFT >>"
-    {
-        "chi" "** 4**"
-    }
-
-    "<< 3 SEC LEFT >>"
-    {
-        "chi" "** 3**"
-    }
-
-    "<< 2 SEC LEFT >>"
-    {
-        "chi" "** 2**"
-    }
-
-    "<< 1 SEC LEFT >>"
-    {
-        "chi" "**1 **"
-    }
-
-    "<< BEAT SABER ENDING >>"
-    {
-        "chi" "**好!你们锁定了节奏光剑结局! **"
-    }
-
-    "<< CONTINUE >>"
-    {
-        "chi" "**继续! **"
-    }
-
-    "<< DID YOU REALLY SPLIT HALF HALF ???? >>"
-    {
-        "chi" "**你们会不会选票啊 **"
-    }
-
-    "<< YOU CANT FUCKING DECIDE TOGETHER GG >>"
-    {
-        "chi" "**你们就不能选好一个结局然后痛快的去死吗? **"
-    }
-
-    "<< ILL DECIDE FOR YOU THEN >>"
-    {
-        "chi" "**时间慢慢流逝,我将会为你们做出抉择 **"
-    }
-
-    "<< LETS GO FOR LEVEL 11 >>"
-    {
-        "chi" "**你们就去第十一关吧! **"
-    }
-
-    "<< GOOD LUCK THEN!! >>"
-    {
-        "chi" "**祝你们好运 **"
-    }
-
-    "<< GOOD CHOICE >>"
-    {
-        "chi" "**很好的选择 **"
-    }
-
-    "<< GET READY TO DODGE THESE CUBES >>"
-    {
-        "chi" "**准备好躲避这些弹幕了嗷,不是秒杀的! **"
-    }
-
-    "***MISSION: Dodge the obstacles***"
-    {
-        "chi" "**关卡:躲避障碍 **"
-    }
-
-    "***SONG: Don Diablo - People Say***"
-    {
-        "chi" "**目前OST:Don Diablo - People Say **"
-    }
-
-    "***DEFEND FOR 30 SEC***"
-    {
-        "chi" "**防守30秒 **"
-    }
-
-    "***Congratz! You beat the 2nd ending !***"
-    {
-        "chi" "**捧读:恭喜弹幕玩家拿下弹幕结局 **"
-         "command" "sm_farter_enabled  1" 
-    }
-
-    "***What about the last one now ?***"
-    {
-        "chi" "**你们猜最后会是啥? **"
-    }
-
-    "***SCALING CENTER STAGE***"
-    {
-        "chi" "**关卡:成比例缩小 **"
-    }
-
-    "<== Today we will test  ==>"
-    {
-        "chi" "**今天我将会测测你们的刷分水平 **"
-    }
-
-    "<== Welcome and again, welcome to the abstract science scaling cover centre ==>"
-    {
-        "chi" "**欢迎再次来到这里,这里会随机刷出地形辅助大家守点! **"
-    }
-
-    "<== Defend 100 seconds  ==>"
-    {
-        "chi" "**守100秒罢了 **"
-    }
-
-    "***STAGE DARK WORLD***"
-    {
-        "chi" "**关卡:望向远处黑的一批的防守关 **"
-    }
-
-    "***RATWAY STAGE***"
-    {
-        "chi" "**矿洞大逃亡 **"
-    }
-
-    "***THE SIMS STAGE***"
-    {
-        "chi" "**关卡:模仿小游戏 **"
-    }
-
-    "> DEFEND FIRST FLOOR 40 SEC <"
-    {
-        "chi" "**第一个门40秒后开 **"
-    }
-
-    "> OPENING SECOND FLOOR IN 10 SEC <"
-    {
-        "chi" "**第二个门10秒后开 **"
-    }
-
-    "> DEFEND SECOND FLOOR 30 SEC <"
-    {
-        "chi" "**第二个门守30秒 **"
-    }
-
-    "> RUN <"
-    {
-        "chi" "**润! **"
-    }
-
-    "> GET TO THE ROOF IN 10 SEC <"
-    {
-        "chi" "**10秒内不进房子你就无**"
-    }
-
-    "> GET TO THE ROOF <"
-    {
-        "chi" "**快进去! **"
-    }
-
-    "> DEFEND THE ROOF 30 SEC <"
-    {
-        "chi" "**房子守30秒 **"
-    }
-
-    "> STAGE COMPLETED <"
-    {
-        "chi" "**关卡完成 **"
-    }
-
-    "***STAGE FLYING WHEEL***"
-    {
-        "chi" "**关卡:飞行之轮 **"
-    }
-
-    "***STAGE SIMON SAY***"
-    {
-        "chi" "**关卡:看图操作 **"
-    }
-
-    "***MODE: EASY***"
-    {
-        "chi" "**简单有手就行 **"
-    }
-
-    "***MODE: MEDIUM***"
-    {
-        "chi" "**中等我奶奶都能过 **"
-    }
-
-    "***MODE: HARD***"
-    {
-        "chi" "**困难单手随便过 **"
-    }
-
-    "***MODE: EXTREME***"
-    {
-        "chi" "**极限稍微认真点 **"
-    }
-
-    "***STAGE DEATHRUN ***"
-    {
-        "chi" "**关卡:死亡奔跑 **"
-    }
-
-    "*** DOOR OPENS IN 10 SECONDS ***"
-    {
-        "chi" "**门在10秒后开 **"
-    }
-
-    "***NIGHTMARE STAGE***"
-    {
-        "chi" "**关卡:梦魇 **"
-    }
-
-    "***STAGE: STRAFESCAPE***"
-    {
-        "chi" "**关卡:失重空间 **"
-    }
-
-    "||| The pirate ship will  floats away in 25 seconds! |||"
-    {
-        "chi" "**海盗船将在25秒后起航 **"
-    }
-
-    "***STAGE PIRATES***"
-    {
-        "chi" "**关卡:加勒比海盗 **"
-    }
-
-    "<< REALLY ?? LMAO NOPE >>"
-    {
-        "chi" "**这跳刀搞得跟真的一样,笑死人了哈哈哈 **"
-    }
-
-    "<< BRIDGES VANISHING IN 10 SEC >>"
-    {
-        "chi" "**桥在10秒后断 **"
-    }
-
-    "<< BUDGET ENDING >>"
-    {
-        "chi" "**是在我预想中的结局呢 **"
-    }
-
-    "<< LETS GO FOR LEVEL 6 >>"
-    {
-        "chi" "**你们赶紧去第六关吧 **"
-    }
-
-    "<< WHAT A BRAVE TEAM >>"
-    {
-        "chi" "**我们超勇超会闯关的啦! **"
-    }
-
-    "<< I WAS EXPECTING BETTER FROM YOU >>"
-    {
-        "chi" "**我期待你们能做的更好 **"
-    }
-
-    "<< GET YOUR FUCKING LASERS AND ENJOY THE SONG >>"
-    {
-        "chi" "**跳刀fag听你们那该死的跳刀嗨歌吧 **"
-    }
-
-    "<< YOU BEAT 5 LEVELS IN A ROW >>"
-    {
-        "chi" "**你们一口气打败了5关 **"
-    }
-
-    "<< OR GO FOR THE BUDGET ENDING >>"
-    {
-        "chi" "**现在可以选择跳刀结局 **"
-    }
-
-    "RANDOMIZING..."
-    {
-        "chi" "**随机中 **"
-    }
-
-    "***DOOR OPENING IN 20 SEC***"
-    {
-        "chi" "**门在20秒后开 **"
-    }
-
-    "***DOOR OPENING IN 10 SEC***"
-    {
-        "chi" "**门在10秒后开 **"
-    }
-
-    "***DOOR CLOSING IN 30 SEC***"
-    {
-        "chi" "**门在30秒后关 **"
-    }
-
-    "***STAGE: PRISON***"
-    {
-        "chi" "**关卡:监狱暴动 **"
-    }
-
-    "***OPENING CELLS***"
-    {
-        "chi" "**牢门打开 **"
-    }
-
-    "***RACE STARTING IN 3***"
-    {
-        "chi" "**3秒后开始润 **"
-    }
-
-    "***RACE STARTING IN 2***"
-    {
-        "chi" "**2秒后开始润 **"
-    }
-
-    "***RACE STARTING IN 1***"
-    {
-        "chi" "**1秒后开始润 **"
-    }
-
-    "***GO GO GO***"
-    {
-        "chi" "**润!!!!! **"
-    }
-
-    "***SOMEONE FINISHED THE RACE***"
-    {
-        "chi" "**有人完成了赛跑比赛 **"
-    }
-
-    "***HOLD FOR 30 SECONDS***"
-    {
-        "chi" "**防守30秒 **"
-    }
-
-    "***STAGE: KARTING***"
-    {
-        "chi" "**关卡:看谁润的快 **"
-    }
-
-    "*** FINAL DOOR OPENS IN 15 SECONDS ***"
-    {
-        "chi" "**最后之门将在15秒后打开 **"
-    }
-
-    "*** DOOR OPENS IN 15 SECONDS ***"
-    {
-        "chi" "**门在15秒后开 **"
-    }
-
-    "*** TELEPORT IN 5 SECONDS ***"
-    {
-        "chi" "**5秒后传送 **"
-    }
-
-    "*** DOOR OPENS IN 20 SECONDS ***"
-    {
-        "chi" "**门在20秒后开 **"
-    }
-
-    "***STAGE: POWERPLANT***"
-    {
-        "chi" "**关卡:跟僵尸练习断后拉扯 **"
-    }
-
-    "***LASERFAG STAGE***"
-    {
-        "chi" "**关卡:跳刀c的狂欢 **"
-    }
-
-    "***RANDOMIZING...***"
-    {
-        "chi" "**随机中 **"
-    }
-
-    "***HOLD 30 SECONDS***"
-    {
-        "chi" "**防守30秒 **"
-    }
-
-    "***STAGE: FALL GUYS***"
-    {
-        "chi" "**关卡:糖豆人 **"
-    }
-
-    "***YOU LOST***"
-    {
-        "chi" "**你输了,不会吧,就这水平? **"
-    }
-
-    "***Emergency evacuation activated. Saferoom will be contained in 30 seconds.***"
-    {
-        "chi" "**紧急疏散已经被触发,安全屋将在30秒后关闭 **"
-    }
-
-    "***Saferoom will be contained in 5 seconds.***"
-    {
-        "chi" "**安全屋还有5秒就开启 **"
-    }
-
-    "GO GO! MAKE YOURSELF TO THE SAFEROOM DEEP UNDERGROUND"
-    {
-        "chi" "**快跑,赶紧去地下深处的安全室 **"
-    }
-
-    "safe for now... the saferoom entrance is automatically sealed in 30 secs."
-    {
-        "chi" "**我们暂时安全了现在...安全屋入口将在30秒后锁死 **"
-    }
-
-    "***Saferoom door is closing in 5 seconds***"
-    {
-        "chi" "**安全屋还有5秒就关上 **"
-    }
-
-    "OH SHIT"
-    {
-        "chi" "**他妈了个B的 **"
-    }
-
-    "***Ground units be advised. We will airstrike one of the entry points for you.***"
-    {
-        "chi" "**请通知地面军队,我方空军将会为友方创造一个机会 **"
-    }
-
-    "***The water is... lava? Look, just don't fall into the water.***"
-    {
-        "chi" "**卧槽这是岩浆,小心不要掉下去了**"
-    }
-
-    "***Turns out making your defence out of styrofoam is not a good idea.***"
-    {
-        "chi" "**事实证明,做围墙还是不能偷工减料 **"
-    }
-
-    "***The sewer infrastructure is unstable! Better fall back to a better position!***"
-    {
-        "chi" "**下水道看上去结构马上就要坍塌了,马上去安全的位置! **"
-    }
-
-    "***The sewers are filling with toxins! Evacuate immediately within 10 seconds!***"
-    {
-        "chi" "**下水道里面充满了有毒气体,10秒内再不走就为时已晚 **"
-    }
-
-    "***I hope everybody's out by now...***"
-    {
-        "chi" "**我希望现在大家都能活者出去 **"
-    }
-
-    "***30 seconds remaining.***"
-    {
-        "chi" "**还有30秒 **"
-    }
-
-    "***Hope you're having a good day! 30 seconds remaining.***"
-    {
-        "chi" "**我希望你们今天还能有说有笑,还有30秒 **"
-    }
-
-    "***Next stage is probably big trim. 30 seconds remaining.***"
-    {
-        "chi" "**下一关有可能要死很多人,还要守30秒 **"
-    }
-
-    "[SM] chinny wants to rock the vote. (30 s, out of 30 s remaining)"
-    {
-        "chi" "**超级管理员:我想要RTV换图 **"
-    }
-
-    "treinta segundos restantes. (lo siento no hablo espanol)"
-    {
-        "chi" "**还有30秒,这句话是西班牙语翻译过来的 **"
-    }
-
-    "Fun fact: The measurement of time, the second, is called that because it's the second division of the hour."
-    {
-        "chi" "**秒之所以是时间的度量,是因为秒是(划)分时的秒 **"
-    }
-
-    "yeah... you're welcome. 30 second divisions of the hour remaining."
-    {
-        "chi" "**是啊,不客气,但是你还是要守30秒 **"
-    }
-
-    "***Zombies are held back for 10 seconds. Be prepared!***"
-    {
-        "chi" "**僵尸被阻挡30秒,做好准备 **"
-    }
-
-    "***DEFEND for 60 seconds!***"
-    {
-        "chi" "**防守60秒 **"
-    }
-
-    "***A ZOMBIE HAS ENTERED THE JAIL! KILL IT IN 10 SECONDS BEFORE IT GOES MAYHEM!***"
-    {
-        "chi" "**有僵尸进来了,赶紧在10秒之内杀死他 **"
-    }
-
-    "***REPEAT! THE JAIL WILL BREAK IN 5 SECONDS***"
-    {
-        "chi" "**准备.监狱将在5秒内打开 **"
-    }
-
-    "***Hold for 30 sec***"
-    {
-        "chi" "**防守30秒 **"
-    }
-
-    "***AFK tp in 10 sec***"
-    {
-        "chi" "**AFK玩家10秒后传送 **"
-    }
-
-    "***Get on the platform!***"
-    {
-        "chi" "**快进来! **"
-    }
-
-    "***Ladder path opens in 5 sec***"
-    {
-        "chi" "**楼梯将在5秒后打开 **"
-    }
-
-    "***Pipe breaks in 5 sec***"
-    {
-        "chi" "**5秒后管道就会裂开 **"
-    }
-
-    "***Watch out for the windmill***"
-    {
-        "chi" "**小心风车! **"
-    }
-
-    "***Pipes break in 5 sec***"
-    {
-        "chi" "**5秒后管道就会裂开 **"
-    }
-
-    "***second ladder path opens in 5 sec***"
-    {
-        "chi" "**第二个楼梯在5秒后打开 **"
+        "chi" "**超级无敌吸附式绝灭僵尸炮被人拿起 **"
     }
 
     "***Bush breaks in 5 sec***"
@@ -737,39 +186,149 @@
         "chi" "*门在5秒后打开* **"
     }
 
-    "***STAGE FEZ***"
+    "***CONGRATS YOU ESCAPED***"
     {
-        "chi" "**关卡:跳跳乐 **"
+        "chi" "**恭喜你逃脱了这里 **"
     }
 
-    "*** Moves in 15 seconds ***"
+    "***Congratz! You beat the 2nd ending !***"
     {
-        "chi" "**15后撤退 **"
+        "chi" "**捧读:恭喜弹幕玩家拿下弹幕结局 **"
     }
 
-    "***  low gravity rising in 1 ***"
+    "***DEFEND 10 SEC***"
     {
-        "chi" "**低重力还有1秒到来 **"
+        "chi" "**防守10秒 **"
     }
 
-    "*** low gravity rising in 2 ***"
+    "***DEFEND 40 SEC***"
     {
-        "chi" "**低重力还有2秒到来 **"
+        "chi" "**防守40秒 **"
     }
 
-    "***  low gravity rising in 3 ***"
-    {
-        "chi" "**低重力还有3秒到来 **"
-    }
-
-    "*** Random path in 10 seconds ***"
-    {
-        "chi" "**10秒后打开一个随机区域 **"
-    }
-
-    "*** Hold 30 seconds ***"
+    "***DEFEND FOR 30 SEC***"
     {
         "chi" "**防守30秒 **"
+    }
+
+    "***DEFEND for 60 seconds!***"
+    {
+        "chi" "**防守60秒 **"
+    }
+
+    "***DEFEND THE INFINITE STAIRCASE FOR 15 SECONDS***"
+    {
+        "chi" "**守住隐形门15秒 **"
+    }
+
+    "***Defend until the doors close!**"
+    {
+        "chi" "**守到门关 **"
+    }
+
+    "***Despite the name, nothing in this level is random***"
+    {
+        "chi" "**在这一个小游戏,没有随机,一切都有迹可循 **"
+    }
+
+    "***Dont get too close to it***"
+    {
+        "chi" "**不要离这个怪兽太近 **"
+    }
+
+    "***DOOR CLOSING IN 30 SEC***"
+    {
+        "chi" "**门在30秒后关 **"
+    }
+
+    "***DOOR OPENING IN 10 SEC***"
+    {
+        "chi" "**门在10秒后开 **"
+    }
+
+    "***DOOR OPENING IN 20 SEC***"
+    {
+        "chi" "**门在20秒后开 **"
+    }
+
+    "***Emergency evacuation activated. Saferoom will be contained in 30 seconds.***"
+    {
+        "chi" "**紧急疏散已经被触发,安全屋将在30秒后关闭 **"
+    }
+
+    "***FIND THE EXIT***"
+    {
+        "chi" "**找到出口 **"
+    }
+
+    "***Find the panels to start it up!***"
+    {
+        "chi" "**快找到面板启动电梯 **"
+    }
+
+    "***GET IN***"
+    {
+        "chi" "**快进来 **"
+    }
+
+    "***Get on the platform!***"
+    {
+        "chi" "**快进来! **"
+    }
+
+    "***GET TO THE DOOR***"
+    {
+        "chi" "**快进门 **"
+    }
+
+    "***GO GO GO***"
+    {
+        "chi" "**润!!!!! **"
+    }
+
+    "***Ground units be advised. We will airstrike one of the entry points for you.***"
+    {
+        "chi" "**请通知地面军队,我方空军将会为友方创造一个机会 **"
+    }
+
+    "***HOLD 30 SECONDS***"
+    {
+        "chi" "**防守30秒 **"
+    }
+
+    "***Hold for 30 sec***"
+    {
+        "chi" "**防守30秒 **"
+    }
+
+    "***HOLD FOR 30 SECONDS***"
+    {
+        "chi" "**防守30秒 **"
+    }
+
+    "***HOLD THE IMPOSSIBLE DOOR FOR SOME TIME***"
+    {
+        "chi" "**守住不可能之门一会 **"
+    }
+
+    "***Hope you're having a good day! 30 seconds remaining.***"
+    {
+        "chi" "**我希望你们今天还能有说有笑,还有30秒 **"
+    }
+
+    "***I hope everybody's out by now...***"
+    {
+        "chi" "**我希望现在大家都能活者出去 **"
+    }
+
+    "***Ladder path opens in 5 sec***"
+    {
+        "chi" "**楼梯将在5秒后打开 **"
+    }
+
+    "***LASERFAG STAGE***"
+    {
+        "chi" "**关卡:跳刀c的狂欢 **"
     }
 
     "***low gravity rising in 1 ***"
@@ -787,14 +346,309 @@
         "chi" "**低重力还有3秒到来 **"
     }
 
-    "*** low gravity rising in 3 ***"
+    "***MACHINE GUN item picked up***"
     {
-        "chi" "**低重力还有3秒到来 **"
+        "chi" "**重型机枪被人拿起 **"
     }
 
-    "*** low gravity rising in 1 ***"
+    "***Maybe its only our only way to escape this nightmare***"
     {
-        "chi" "**低重力还有1秒到来 **"
+        "chi" "**或许这是我们离开梦魇这一关的唯一出路 **"
+    }
+
+    "***MINES item picked up***"
+    {
+        "chi" "**地雷已被拿起 **"
+    }
+
+    "***MISSION: Dodge the obstacles***"
+    {
+        "chi" "**关卡:躲避障碍 **"
+    }
+
+    "***MODE: EASY***"
+    {
+        "chi" "**简单有手就行 **"
+    }
+
+    "***MODE: EXTREME***"
+    {
+        "chi" "**极限稍微认真点 **"
+    }
+
+    "***MODE: HARD***"
+    {
+        "chi" "**困难单手随便过 **"
+    }
+
+    "***MODE: MEDIUM***"
+    {
+        "chi" "**中等我奶奶都能过 **"
+    }
+
+    "***MORELLS MONEY item picked up***"
+    {
+        "chi" "**印钞机被人拿起 **"
+    }
+
+    "***Next stage is probably big trim. 30 seconds remaining.***"
+    {
+        "chi" "**下一关有可能要死很多人,还要守30秒 **"
+    }
+
+    "***NIGHTMARE STAGE***"
+    {
+        "chi" "**关卡:梦魇 **"
+    }
+
+    "***No really, thats it, get going***"
+    {
+        "chi" "**那没什么,走吧! **"
+    }
+
+    "***NON EUCLIDEAN STAGE***"
+    {
+        "chi" "**关卡:浑浑噩噩的地狱之纯白拷打大伙空间 **"
+    }
+
+    "***NON EUCLIDIAN item picked up***"
+    {
+        "chi" "**欧几里得TP僵尸枪被人拿起 **"
+    }
+
+    "***OLD AGE item picked up***"
+    {
+        "chi" "**老掉牙的神器被人拿起 **"
+    }
+
+    "***OPENING CELLS***"
+    {
+        "chi" "**牢门打开 **"
+    }
+
+    "***Pipe breaks in 5 sec***"
+    {
+        "chi" "**5秒后管道就会裂开 **"
+    }
+
+    "***Pipes break in 5 sec***"
+    {
+        "chi" "**5秒后管道就会裂开 **"
+    }
+
+    "***Quick! Get in the elevator***"
+    {
+        "chi" "**快上电梯 **"
+    }
+
+    "***RACE STARTING IN 1***"
+    {
+        "chi" "**1秒后开始润 **"
+    }
+
+    "***RACE STARTING IN 2***"
+    {
+        "chi" "**2秒后开始润 **"
+    }
+
+    "***RACE STARTING IN 3***"
+    {
+        "chi" "**3秒后开始润 **"
+    }
+
+    "***RANDOMIZING...***"
+    {
+        "chi" "**随机中 **"
+    }
+
+    "***RATWAY STAGE***"
+    {
+        "chi" "**矿洞大逃亡 **"
+    }
+
+    "***REPEAT! THE JAIL WILL BREAK IN 5 SECONDS***"
+    {
+        "chi" "**准备.监狱将在5秒内打开 **"
+    }
+
+    "***Saferoom door is closing in 5 seconds***"
+    {
+        "chi" "**安全屋还有5秒就关上 **"
+    }
+
+    "***Saferoom will be contained in 5 seconds.***"
+    {
+        "chi" "**安全屋还有5秒就开启 **"
+    }
+
+    "***SCALING CENTER STAGE***"
+    {
+        "chi" "**关卡:成比例缩小 **"
+    }
+
+    "***SCOOBY SNACKS item picked up***"
+    {
+        "chi" "**史努比的小饼干已经被人拿起 **"
+    }
+
+    "***second ladder path opens in 5 sec***"
+    {
+        "chi" "**第二个楼梯在5秒后打开 **"
+    }
+
+    "***Seems like the engine for the next elevator isnt working***"
+    {
+        "chi" "**看上去电梯没电了 **"
+    }
+
+    "***SOMEONE FINISHED THE RACE***"
+    {
+        "chi" "**有人完成了赛跑比赛 **"
+    }
+
+    "***SONG: Don Diablo - People Say***"
+    {
+        "chi" "**目前OST:Don Diablo - People Say **"
+    }
+
+    "***STAGE COMPLETED***"
+    {
+        "chi" "**本关完成 **"
+    }
+
+    "***STAGE DARK WORLD***"
+    {
+        "chi" "**关卡:望向远处黑的一批的防守关 **"
+    }
+
+    "***STAGE DEATHRUN ***"
+    {
+        "chi" "**关卡:死亡奔跑 **"
+    }
+
+    "***STAGE FEZ***"
+    {
+        "chi" "**关卡:跳跳乐 **"
+    }
+
+    "***STAGE FLYING WHEEL***"
+    {
+        "chi" "**关卡:飞行之轮 **"
+    }
+
+    "***STAGE Fortress Defence***"
+    {
+        "chi" "**关卡:要塞防御 **"
+    }
+
+    "***STAGE PIRATES***"
+    {
+        "chi" "**关卡:加勒比海盗 **"
+    }
+
+    "***STAGE SCOOBYDOO ***"
+    {
+        "chi" "**关卡:黑漆漆的屋子 **"
+    }
+
+    "***STAGE SIMON SAY***"
+    {
+        "chi" "**关卡:看图操作 **"
+    }
+
+    "***STAGE: FALL GUYS***"
+    {
+        "chi" "**关卡:糖豆人 **"
+    }
+
+    "***STAGE: KARTING***"
+    {
+        "chi" "**关卡:看谁润的快 **"
+    }
+
+    "***STAGE: POWERPLANT***"
+    {
+        "chi" "**关卡:跟僵尸练习断后拉扯 **"
+    }
+
+    "***STAGE: PRISON***"
+    {
+        "chi" "**关卡:监狱暴动 **"
+    }
+
+    "***STAGE: STRAFESCAPE***"
+    {
+        "chi" "**关卡:失重空间 **"
+    }
+
+    "***STARTING IN 10 SEC***"
+    {
+        "chi" "**在10秒后开始 **"
+    }
+
+    "***TELEPORTING OUT OF THIS MADNESS IN 25 SECONDS***"
+    {
+        "chi" "**离开这里的传送在25秒后 **"
+    }
+
+    "***The doors are closing***"
+    {
+        "chi" "**门正在关上 **"
+    }
+
+    "***The doors are now closing!**"
+    {
+        "chi" "**门正在关上中 **"
+    }
+
+    "***The doors are now opening! Get in quickly!***"
+    {
+        "chi" "**门要打开了,快进去! **"
+    }
+
+    "***The doors are opening!***"
+    {
+        "chi" "**门正在开启 **"
+    }
+
+    "***The doors are soon opening***"
+    {
+        "chi" "**门正在打开 **"
+    }
+
+    "***The doors will soon open!***"
+    {
+        "chi" "**门马上就要开了 **"
+    }
+
+    "***The elevator engine is now starting up!***"
+    {
+        "chi" "**电梯现在开始启动了 **"
+    }
+
+    "***The sewer infrastructure is unstable! Better fall back to a better position!***"
+    {
+        "chi" "**下水道看上去结构马上就要坍塌了,马上去安全的位置! **"
+    }
+
+    "***The sewers are filling with toxins! Evacuate immediately within 10 seconds!***"
+    {
+        "chi" "**下水道里面充满了有毒气体,10秒内再不走就为时已晚 **"
+    }
+
+    "***THE SIMS STAGE***"
+    {
+        "chi" "**关卡:模仿小游戏 **"
+    }
+
+    "***The water is... lava? Look, just don't fall into the water.***"
+    {
+        "chi" "**卧槽这是岩浆,小心不要掉下去了**"
+    }
+
+    "***TP EXIT OPENING IN 10 SECONDS***"
+    {
+        "chi" "**传送撤退点还有10秒打开 **"
     }
 
     "***TP EXIT OPENING IN 30 SECONDS***"
@@ -807,9 +661,104 @@
         "chi" "**门开了快跑 **"
     }
 
-    "***TP EXIT OPENING IN 10 SECONDS***"
+    "***TRANSPARENT item picked up***"
     {
-        "chi" "**传送撤退点还有10秒打开 **"
+        "chi" "**隐形被人拿起 **"
+    }
+
+    "***Turns out making your defence out of styrofoam is not a good idea.***"
+    {
+        "chi" "**事实证明,做围墙还是不能偷工减料 **"
+    }
+
+    "***Watch out for the windmill***"
+    {
+        "chi" "**小心风车! **"
+    }
+
+    "***Watch out! An abomination!***"
+    {
+        "chi" "**卧槽,真尼玛恶心这个东西 **"
+    }
+
+    "***We have to get to that elevator***"
+    {
+        "chi" "**我们只能上电梯了 **"
+    }
+
+    "***WELCOME TO ZE_RANDOMIZER***"
+    {
+        "chi" "**欢迎来到无敌高手版随机小游戏 **"
+    }
+
+    "***What about the last one now ?***"
+    {
+        "chi" "**你们猜最后会是啥? **"
+    }
+
+    "***What is this place?***"
+    {
+        "chi" "**这他妈是哪里 **"
+    }
+
+    "***YOU DEFEATED THE GMAN!!!***"
+    {
+        "chi" "**我草,历经万千磨难,我们终于打败了游戏管理员!! **"
+    }
+
+    "***YOU LOST***"
+    {
+        "chi" "**你输了,不会吧,就这水平? **"
+    }
+
+    "***Zombies are held back for 10 seconds. Be prepared!***"
+    {
+        "chi" "**僵尸被阻挡30秒,做好准备 **"
+    }
+
+    "***Zombies have pickd up FOR FRODO item***"
+    {
+        "chi" "**僵尸获得了魔戒米纳斯牌冲锋号 **"
+    }
+
+    "***Zombies have pickd up MAGIC CYLINDER item***"
+    {
+        "chi" "**僵尸获得了陷阱魔法卡:反伤圆筒 **"
+    }
+
+    "***Zombies have pickd up PULL FORCE item***"
+    {
+        "chi" "**僵尸获得了黑洞 **"
+    }
+
+    "**DEFEND 10 SEC**"
+    {
+        "chi" "**防守10秒 **"
+    }
+
+    "**DEFEND 20 SEC**"
+    {
+        "chi" "**防守20秒 **"
+    }
+
+    "**DEFEND 30 SEC**"
+    {
+        "chi" "**防守30秒 **"
+    }
+
+    "**Exit will open in 30 seconds**"
+    {
+        "chi" "**撤退路线39秒后开启 **"
+    }
+
+    "**FALL BACK**"
+    {
+        "chi" "**快跑! **"
+    }
+
+    "**Find the light!**"
+    {
+        "chi" "**去找光,然后成为迪迦 **"
     }
 
     "**RANDOMAZE***"
@@ -817,69 +766,9 @@
         "chi" "**随机中 **"
     }
 
-    "***Despite the name, nothing in this level is random***"
-    {
-        "chi" "**在这一个小游戏,没有随机,一切都有迹可循 **"
-    }
-
-    "***FIND THE EXIT***"
-    {
-        "chi" "**找到出口 **"
-    }
-
-    "***No really, thats it, get going***"
-    {
-        "chi" "**那没什么,走吧! **"
-    }
-
-    "> DOOR OPENING IN 20 SEC <"
-    {
-        "chi" "**门在20秒后开 **"
-    }
-
-    "> DOOR OPENING IN 10 SEC <"
-    {
-        "chi" "**门在10秒后开 **"
-    }
-
-    "> DOOR OPENING IN 15 SEC <"
-    {
-        "chi" "**门在15秒后开 **"
-    }
-
-    "> DOOR OPENING IN 25 SEC <"
-    {
-        "chi" "**门在25秒后开 **"
-    }
-
-    "> HOLD 30 SEC <"
-    {
-        "chi" "**防守30秒 **"
-    }
-
-    "> 10 SECONDS LEFT <"
-    {
-        "chi" "**还有10秒 **"
-    }
-
-    "***STAGE SCOOBYDOO ***"
-    {
-        "chi" "**关卡:黑漆漆的屋子 **"
-    }
-
     "**Survival 30 sec**"
     {
         "chi" "**存活30秒 **"
-    }
-
-    "**This is final! Survival 30 sec**"
-    {
-        "chi" "**这里就是最后了,存活30秒 **"
-    }
-
-    "Find the light! "
-    {
-        "chi" "**去找光 **"
     }
 
     "**The doors will open in 15 sec**"
@@ -892,9 +781,14 @@
         "chi" "**门在5秒后开 **"
     }
 
-    "**Find the light!**"
+    "**This is final! Survival 30 sec**"
     {
-        "chi" "**去找光,然后成为迪迦 **"
+        "chi" "**这里就是最后了,存活30秒 **"
+    }
+
+    "[SM] chinny wants to rock the vote. (30 s, out of 30 s remaining)"
+    {
+        "chi" "**超级管理员:我想要RTV换图 **"
     }
 
     "||| Defend this door 20 seconds |||"
@@ -902,9 +796,9 @@
         "chi" "**20秒,守一下 **"
     }
 
-    "||| Wait, is that a rock wall? |||"
+    "||| The pirate ship will  floats away in 25 seconds! |||"
     {
-        "chi" "**石头是吧,等下就给你炸了 **"
+        "chi" "**海盗船将在25秒后起航 **"
     }
 
     "||| Wait until it explodes 30 sec |||"
@@ -912,69 +806,269 @@
         "chi" "**30秒后爆炸 **"
     }
 
-    "*** SLOW POKES AND VENT CAMPERS GET TP IN 15 SECONDS ***"
+    "||| Wait, is that a rock wall? |||"
     {
-        "chi" "**15秒后传送管道上的玩家 **"
+        "chi" "**石头是吧,等下就给你炸了 **"
     }
 
-    "*** SLOW POKES AND VENT CAMPERS GET TP IN 20 SECONDS ***"
+    "<< 1 SEC LEFT >>"
     {
-        "chi" "**20秒后传送管道上的玩家 **"
+        "chi" "**1 **"
     }
 
-    "*** FINAL TP ENABLES IN 15 SECONDS ***"
+    "<< 2 SEC LEFT >>"
     {
-        "chi" "**最后的传送点15秒后开 **"
+        "chi" "** 2**"
     }
 
-    "** Floodgate 1 opens in 22 seconds **"
+    "<< 20 SEC TO VOTE >>"
     {
-        "chi" "**血门一号20秒后开 **"
+        "chi" "**20秒的选择时间 **"
     }
 
-    "** Floodgate 2 opens in 20 seconds **"
+    "<< 3 SEC LEFT >>"
     {
-        "chi" "**血门二号20秒后开 **"
+        "chi" "** 3**"
     }
 
-    "**Exit will open in 30 seconds**"
+    "<< 4 SEC LEFT >>"
     {
-        "chi" "**撤退路线39秒后开启 **"
+        "chi" "** 4**"
     }
 
-    "*** WHEELS ARE LEAVING IN 15 SECONDS ***"
+    "<< 5 SEC LEFT >>"
     {
-        "chi" "**飞轮15秒后离开 **"
+        "chi" "**5 **"
     }
 
-    "*** ZOMBIES IN 5 SECS ***"
+    "<< BEAT SABER ENDING >>"
     {
-        "chi" "**僵尸还有5秒到达 **"
+        "chi" "**好!你们锁定了节奏光剑结局! **"
     }
 
-    "*** TELEPORTING SLOWPOKES IN 5 SECONDS ***"
+    "<< BRIDGES VANISHING IN 10 SEC >>"
     {
-        "chi" "**最后的传送在5秒后开启 **"
+        "chi" "**桥在10秒后断 **"
     }
 
-    "*** Final teleport enables in 15 seconds ***"
+    "<< BUDGET ENDING >>"
     {
-        "chi" "**最后的传送在15秒后开启 **"
+        "chi" "**是在我预想中的结局呢 **"
     }
 
-    "*** ENTER THE PORTAL ***"
+    "<< CHOOSE WISELY >>"
     {
-        "chi" "**快上船 **"
+        "chi" "**明智的选择 **"
     }
 
-    "***STARTING IN 10 SEC***"
+    "<< CONTINUE >>"
     {
-        "chi" "**在10秒后开始 **"
+        "chi" "**继续! **"
     }
 
-    "***WELCOME TO ZE_RANDOMIZER***"
+    "<< DID YOU REALLY SPLIT HALF HALF ???? >>"
     {
-        "chi" "**欢迎来到无敌高手版随机小游戏 **"
+        "chi" "**你们会不会选票啊 **"
+    }
+
+    "<< GET READY TO DODGE THESE CUBES >>"
+    {
+        "chi" "**准备好躲避这些弹幕了嗷,不是秒杀的! **"
+    }
+
+    "<< GET YOUR FUCKING LASERS AND ENJOY THE SONG >>"
+    {
+        "chi" "**跳刀fag听你们那该死的跳刀嗨歌吧 **"
+    }
+
+    "<< GOOD CHOICE >>"
+    {
+        "chi" "**很好的选择 **"
+    }
+
+    "<< GOOD LUCK THEN!! >>"
+    {
+        "chi" "**祝你们好运 **"
+    }
+
+    "<< I WAS EXPECTING BETTER FROM YOU >>"
+    {
+        "chi" "**我期待你们能做的更好 **"
+    }
+
+    "<< ILL DECIDE FOR YOU THEN >>"
+    {
+        "chi" "**时间慢慢流逝,我将会为你们做出抉择 **"
+    }
+
+    "<< ITS VOTING TIME BOYOS >>"
+    {
+        "chi" "**好了,小伙子们该选择了 **"
+    }
+
+    "<< LETS GO FOR LEVEL 11 >>"
+    {
+        "chi" "**你们就去第十一关吧! **"
+    }
+
+    "<< LETS GO FOR LEVEL 6 >>"
+    {
+        "chi" "**你们赶紧去第六关吧 **"
+    }
+
+    "<< OR GO FOR THE BEAT SABER ENDING >>"
+    {
+        "chi" "**或者选择弹幕狗最喜欢的best saber弹幕结局 **"
+    }
+
+    "<< OR GO FOR THE BUDGET ENDING >>"
+    {
+        "chi" "**现在可以选择跳刀结局 **"
+    }
+
+    "<< REALLY ?? LMAO NOPE >>"
+    {
+        "chi" "**这跳刀搞得跟真的一样,笑死人了哈哈哈 **"
+    }
+
+    "<< WHAT A BRAVE TEAM >>"
+    {
+        "chi" "**我们超勇超会闯关的啦! **"
+    }
+
+    "<< YOU BEAT 10 LEVELS IN A ROW >>"
+    {
+        "chi" "**你们居然在这段时间赢了十个小游戏 **"
+    }
+
+    "<< YOU BEAT 5 LEVELS IN A ROW >>"
+    {
+        "chi" "**你们一口气打败了5关 **"
+    }
+
+    "<< YOU CAN DECIDE TO CONTINUE >>"
+    {
+        "chi" "**你可以决定继续,正所谓百尺竿头更进一步 **"
+    }
+
+    "<< YOU CANT FUCKING DECIDE TOGETHER GG >>"
+    {
+        "chi" "**你们就不能选好一个结局然后痛快的去死吗? **"
+    }
+
+    "<== Airplane! Airplane! Airplane! ==>"
+    {
+        "chi" "**这次是飞机 **"
+    }
+
+    "<== Boat! Boat! Boat! ==>"
+    {
+        "chi" "**这次是船 **"
+    }
+
+    "<== Car! Car! Car! ==>"
+    {
+        "chi" "**这次是泥头车 **"
+    }
+
+    "<== Defend 100 seconds  ==>"
+    {
+        "chi" "**守100秒罢了 **"
+    }
+
+    "<== Today we will test  ==>"
+    {
+        "chi" "**今天我将会测测你们的刷分水平 **"
+    }
+
+    "<== Welcome and again, welcome to the abstract science scaling cover centre ==>"
+    {
+        "chi" "**欢迎再次来到这里,这里会随机刷出地形辅助大家守点! **"
+    }
+
+    "> 10 SECONDS LEFT <"
+    {
+        "chi" "**还有10秒 **"
+    }
+
+    "> DEFEND FIRST FLOOR 40 SEC <"
+    {
+        "chi" "**第一个门40秒后开 **"
+    }
+
+    "> DEFEND SECOND FLOOR 30 SEC <"
+    {
+        "chi" "**第二个门守30秒 **"
+    }
+
+    "> DEFEND THE ROOF 30 SEC <"
+    {
+        "chi" "**房子守30秒 **"
+    }
+
+    "> DOOR OPENING IN 10 SEC <"
+    {
+        "chi" "**门在10秒后开 **"
+    }
+
+    "> DOOR OPENING IN 15 SEC <"
+    {
+        "chi" "**门在15秒后开 **"
+    }
+
+    "> DOOR OPENING IN 20 SEC <"
+    {
+        "chi" "**门在20秒后开 **"
+    }
+
+    "> DOOR OPENING IN 25 SEC <"
+    {
+        "chi" "**门在25秒后开 **"
+    }
+
+    "> GET TO THE ROOF <"
+    {
+        "chi" "**快进去! **"
+    }
+
+    "> GET TO THE ROOF IN 10 SEC <"
+    {
+        "chi" "**10秒内不进房子你就无**"
+    }
+
+    "> HOLD 30 SEC <"
+    {
+        "chi" "**防守30秒 **"
+    }
+
+    "> OPENING SECOND FLOOR IN 10 SEC <"
+    {
+        "chi" "**第二个门10秒后开 **"
+    }
+
+    "> RUN <"
+    {
+        "chi" "**润! **"
+    }
+
+    "> STAGE COMPLETED <"
+    {
+        "chi" "**关卡完成 **"
+    }
+
+    "Find the light! "
+    {
+        "chi" "**去找光 **"
+    }
+
+    "Fun fact: The measurement of time, the second, is called that because it's the second division of the hour."
+    {
+        "chi" "**秒之所以是时间的度量,是因为秒是(划)分时的秒 **"
+    }
+
+    "GO GO! MAKE YOURSELF TO THE SAFEROOM DEEP UNDERGROUND"
+    {
+        "chi" "**快跑,赶紧去地下深处的安全室 **"
     }
 
     "Mappers: m4dara Qazlll456 Ordiaxer Chinny Yesme Frenchy "
@@ -987,119 +1081,29 @@
         "chi" "**Chemodan Hichatu Nostar Raphi 4Echo,诚意汉化:Ruby **"
     }
 
-    "***DEFEND THE INFINITE STAIRCASE FOR 15 SECONDS***"
+    "OH SHIT"
     {
-        "chi" "**守住隐形门15秒 **"
+        "chi" "**他妈了个B的 **"
     }
 
-    "***HOLD THE IMPOSSIBLE DOOR FOR SOME TIME***"
+    "RANDOMIZING..."
     {
-        "chi" "**守住不可能之门一会 **"
+        "chi" "**随机中 **"
     }
 
-    "***TELEPORTING OUT OF THIS MADNESS IN 25 SECONDS***"
+    "safe for now... the saferoom entrance is automatically sealed in 30 secs."
     {
-        "chi" "**离开这里的传送在25秒后 **"
+        "chi" "**我们暂时安全了现在...安全屋入口将在30秒后锁死 **"
     }
 
-    "***NON EUCLIDEAN STAGE***"
+    "treinta segundos restantes. (lo siento no hablo espanol)"
     {
-        "chi" "**关卡:浑浑噩噩的地狱之纯白拷打大伙空间 **"
+        "chi" "**还有30秒,这句话是西班牙语翻译过来的 **"
     }
 
-    "***We have to get to that elevator***"
+    "yeah... you're welcome. 30 second divisions of the hour remaining."
     {
-        "chi" "**我们只能上电梯了 **"
-    }
-
-    "***Maybe its only our only way to escape this nightmare***"
-    {
-        "chi" "**或许这是我们离开梦魇这一关的唯一出路 **"
-    }
-
-    "***Watch out! An abomination!***"
-    {
-        "chi" "**卧槽,真尼玛恶心这个东西 **"
-    }
-
-    "***Dont get too close to it***"
-    {
-        "chi" "**不要离这个怪兽太近 **"
-    }
-
-    "***Seems like the engine for the next elevator isnt working***"
-    {
-        "chi" "**看上去电梯没电了 **"
-    }
-
-    "***Find the panels to start it up!***"
-    {
-        "chi" "**快找到面板启动电梯 **"
-    }
-
-    "***What is this place?***"
-    {
-        "chi" "**这他妈是哪里 **"
-    }
-
-    "***Quick! Get in the elevator***"
-    {
-        "chi" "**快上电梯 **"
-    }
-
-    "***Defend until the doors close!**"
-    {
-        "chi" "**守到门关 **"
-    }
-
-    "***The doors are now closing!**"
-    {
-        "chi" "**门正在关上中 **"
-    }
-
-    "***The elevator engine is now starting up!***"
-    {
-        "chi" "**电梯现在开始启动了 **"
-    }
-
-    "***The doors are soon opening***"
-    {
-        "chi" "**门正在打开 **"
-    }
-
-    "***The doors are opening!***"
-    {
-        "chi" "**门正在开启 **"
-    }
-
-    "***The doors will soon open!***"
-    {
-        "chi" "**门马上就要开了 **"
-    }
-
-    "***The doors are now opening! Get in quickly!***"
-    {
-        "chi" "**门要打开了,快进去! **"
-    }
-
-    "***The doors are closing***"
-    {
-        "chi" "**门正在关上 **"
-    }
-
-    "<== Car! Car! Car! ==>"
-    {
-        "chi" "**这次是泥头车 **"
-    }
-
-    "<== Boat! Boat! Boat! ==>"
-    {
-        "chi" "**这次是船 **"
-    }
-
-    "<== Airplane! Airplane! Airplane! ==>"
-    {
-        "chi" "**这次是飞机 **"
+        "chi" "**是啊,不客气,但是你还是要守30秒 **"
     }
 
 }

@@ -1,201 +1,214 @@
 "Console_T"
 {
-	"**We got the Intelligence! Lets get out of here!**"
-	{
-		"chi"		"**我们拿到了情报,快点离开这里**"
-	}
-	"**OBJECTIVE: Infiltrate and eliminate whoevers in charge!**"
-	{
-		"chi"		"**目标: 渗透并消灭所有负责人**"
-	}
-	"**Medkit has been acquired!**"
-	{
-		"chi"		"**一名玩家捡起了医疗包**"
-	}
-	"**Weve waited long enough! GO!**"
-	{
-		"chi"		"**我们等待得足够久了**"
-	}
-	"**OBJECTIVE: Infiltrate and steal the enemy intelligence**"
-	{
-		"chi"		"**目标: 潜入并窃取敌人的情报**"
-	}
-	"**DIFFICULTY: NORMAL**"
-	{
-		"chi"		"**难度: 萌新  汉化: 小三@风云社**"
-	}
-	"**Thanks to Complexity for being a noob and testing!**"
-	{
-		"chi"		"**特别感谢菜鸟社区对本地图关于复杂性的测试**"
-	}
-	"**Front doors will be opening in 10 seconds**"
-	{
-		"chi"		"**大门将在10秒后打开**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"**Doors will be opening in 20 seconds. Hold the zombies back!**"
-	{
-		"chi"		"**大门20秒后打开,继续防守**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"**Hold here for awhile!**"
-	{
-		"chi"		"**在这里守一会**"
-	}
-	"**Fall back!**"
-	{
-		"chi"		"**撤退**"
-	}
-	"**Find a way to disable the security system to advance!**"
-	{
-		"chi"		"**想办法关闭安全系统**"
-	}
-	"**Armory is open!**"
-	{
-		"chi"		"**军械库处于开放状态**"
-	}
-	"**The security system has been disabled!**"
-	{
-		"chi"		"**安全系统关闭**"
-	}
-	"**Wait here for awhile!**"
-	{
-		"chi"		"**再等一会**"
-	}
-	"**Elevator is leaving in 10 seconds!**"
-	{
-		"chi"		"**电梯将在10秒后离开**"
 
-	}
-	"**Lift is leaving in 20 seconds! Hold the zombies back!"
-	{
-		"chi"		"**电梯将在20秒后离开"
+    "**?!**"
+    {
+        "chi" "__null__"
+    }
 
-	}
-	"**Good job! You won!**"
-	{
-		"chi"		"**祝贺!通关!**"
-	}
-	"**Map ported by Et3rnity**"
-	{
-		"chi"		"**地图移植: Et3rnity**"
-	}
-	"**DIFFICULTY: EXPERIENCED**"
-	{
-		"chi"		"**难度: 咸鱼  汉化: 小三@风云社**"
-	}
-	"**Both buttons have been pressed! Door opens in 25 seconds!**"
-	{
-		"chi"		"**按钮被同时按下, 大门25秒后开启**"
+    "**Ammo Box has been picked up!**"
+    {
+        "chi" "**一名玩家捡起了弹药箱**"
+    }
 
-	}
-	"**Wait here for awhile! Others may come!**"
-	{
-		"chi"		"**在这里等等,会有其他人到来**"
-	}
-	"**Jetstream Sam has been defeated!**"
-	{
-		"chi"		"**氏源被打败了**"
-	}
-	"**Teleporter is charging up!**"
-	{
-		"chi"		"**传送装置正在充能**"
-	}
-	"**Teleporter is fully charged!**"
-	{
-		"chi"		"**传送装置目前处于开启状态**"
-	}
-	"**Hold the zombies back until the door is open!**"
-	{
-		"chi"		"**在这里防守僵尸直到大门开启**"
-	}
-	"**You won Experienced! Right on!**"
-	{
-		"chi"		"**好样的**"
-	}
-	"**DIFFICULTY: IMMENSE**"
-	{
-		"chi"		"**难度: 萌新司机  汉化: 小三@风云社**"
-	}
-	"**OBJECTIVE: Infiltrate and eliminate Jetstream Sam**"
-	{
-		"chi"		"**目标: 清除氏源**"
-	}
-	"**Hold until the door is open!**"
-	{
-		"chi"		"**在这里防守僵尸直到大门开启**"
-	}
-	"**Complex door is opening in 25 seconds**"
-	{
-		"chi"		"**大门将在25秒后开启**"
+    "**Another door! Hold them back until the door is open!**"
+    {
+        "chi" "**小心另外一条路,防守僵尸直到大门打开**"
+    }
 
-	}
-	"**Ammo Box has been picked up!**"
-	{
-		"chi"		"**一名玩家捡起了弹药箱**"
-	}
-	"**It has only one use!**"
-	{
-		"chi"		"**弹药箱只能使用一次**"
-	}
-	"**Hold the hallways until the doors open!**"
-	{
-		"chi"		"**在这个走廊防守僵尸直到大门打开**"
-	}
-	"**Zombies got onboard! You have lost!**"
-	{
-		"chi"		"**检测到僵尸,通关失败!**"
-	}
-	"**This whole place is going down! Get out of here!**"
-	{
-		"chi"		"**这个地方将会全部坍塌,快点撤离这里**"
-	}
-	"**Another door! Hold them back until the door is open!**"
-	{
-		"chi"		"**小心另外一条路,防守僵尸直到大门打开**"
-	}
-	"**This is your final stand! Hold until the door is fully closed!**"
-	{
-		"chi"		"**这是你们的最后一战**"
-	}
-	"**You have successfully escaped!**"
-	{
-		"chi"		"**逃脱成功**"
-	}
-	"**Doors will be opening in 20 seconds! Hold the zombies off!**"
-	{
-		"chi"		"**大门将在20秒后打开**"
-	}
-	"**Elevator is leaving in 15 seconds!**"
-	{
-		"chi"		"**电梯将在15秒后离开**"
-	}
-	"**Chopper is leaving in 25 seconds! Resist the zombies for a final time!**"
-	{
-		"chi"		"**直升机将在30秒后撤离!抵挡住席卷而来的尸潮**"
-	}
-	"**Both buttons have been pressed! Door opens in 20 seconds!**"
-	{
-		"chi"		"**按钮成功触发!大门将在20秒后打开!**"
-	}
-	"**We got the Intelligence! Let's get out of here!**"
-	{
-		"chi"		"**情报已经成功窃取!是时候离开这里了**"
-	}
-	"**OBJECTIVE: Infiltrate and eliminate whoever's in charge!**"
-	{
-		"chi"		"**目标: 渗透并消灭所有负责人**"
-	}
-	"**We've waited long enough! GO!**"
-	{
-		"chi"		"**我们等待得足够久了**"
-	}
-	"**map by koyomaple**"
-	{
-		"chi"		"** **"
-	}
-	"* * Map by Mojonero * *"
-	{
-		"chi"		"** **"
-	}
+    "**Armory is open!**"
+    {
+        "chi" "**军械库处于开放状态**"
+    }
+
+    "**Both buttons have been pressed! Door opens in 20 seconds!**"
+    {
+        "chi" "**按钮成功触发!大门将在20秒后打开!**"
+    }
+
+    "**Chopper is leaving in 25 seconds! Resist the zombies for a final time!**"
+    {
+        "chi" "**直升机将在30秒后撤离!抵挡住席卷而来的尸潮**"
+    }
+
+    "**Complex door is opening in 25 seconds**"
+    {
+        "chi" "**大门将在25秒后开启**"
+    }
+
+    "**DIFFICULTY: EXPERIENCED**"
+    {
+        "chi" "**难度: 咸鱼  汉化: 小三@风云社**"
+    }
+
+    "**DIFFICULTY: IMMENSE**"
+    {
+        "chi" "**难度: 萌新司机  汉化: 小三@风云社**"
+    }
+
+    "**DIFFICULTY: NORMAL**"
+    {
+        "chi" "**难度: 萌新  汉化: 小三@风云社**"
+    }
+
+    "**Doors will be opening in 20 seconds! Hold the zombies off!**"
+    {
+        "chi" "**大门将在20秒后打开**"
+    }
+
+    "**Doors will be opening in 20 seconds. Hold the zombies back!**"
+    {
+        "chi" "**大门20秒后打开,继续防守**"
+    }
+
+    "**Elevator is leaving in 15 seconds!**"
+    {
+        "chi" "**电梯将在15秒后离开**"
+    }
+
+    "**Fall back!**"
+    {
+        "chi" "**撤退**"
+    }
+
+    "**Front doors will be opening in 10 seconds**"
+    {
+        "chi" "**大门将在10秒后打开**"
+    }
+
+    "**Good job! You won!**"
+    {
+        "chi" "**祝贺!通关!**"
+    }
+
+    "**Hold here for awhile!**"
+    {
+        "chi" "**在这里守一会**"
+    }
+
+    "**Hold the hallways until the doors open!**"
+    {
+        "chi" "**在这个走廊防守僵尸直到大门打开**"
+    }
+
+    "**Hold the zombies back until the door is open!**"
+    {
+        "chi" "**在这里防守僵尸直到大门开启**"
+    }
+
+    "**Hold until the door is open!**"
+    {
+        "chi" "**在这里防守僵尸直到大门开启**"
+    }
+
+    "**It has only one use!**"
+    {
+        "chi" "**弹药箱只能使用一次**"
+    }
+
+    "**Jetstream Sam has been defeated!**"
+    {
+        "chi" "**氏源被打败了**"
+    }
+
+    "**Kill all remaining zombies!**"
+    {
+        "chi" "__null__"
+    }
+
+    "**Kloud's AWP has been picked up!**"
+    {
+        "chi" "__null__"
+    }
+
+    "**Lift is leaving in 20 seconds! Hold the zombies back!"
+    {
+        "chi" "**电梯将在20秒后离开"
+    }
+
+    "**Medkit has been acquired!**"
+    {
+        "chi" "**一名玩家捡起了医疗包**"
+    }
+
+    "**OBJECTIVE: Infiltrate and eliminate Jetstream Sam**"
+    {
+        "chi" "**目标: 清除氏源**"
+    }
+
+    "**OBJECTIVE: Infiltrate and eliminate whoever's in charge!**"
+    {
+        "chi" "**目标: 渗透并消灭所有负责人**"
+    }
+
+    "**OBJECTIVE: Infiltrate and steal the enemy intelligence**"
+    {
+        "chi" "**目标: 潜入并窃取敌人的情报**"
+    }
+
+    "**Someone has entered Retslag's office!**"
+    {
+        "chi" "__null__"
+    }
+
+    "**This is your final stand! Hold until the door is fully closed!**"
+    {
+        "chi" "**这是你们的最后一战**"
+    }
+
+    "**This whole place is going down! Get out of here!**"
+    {
+        "chi" "**这个地方将会全部坍塌,快点撤离这里**"
+    }
+
+    "**Wait here for awhile! Others may come!**"
+    {
+        "chi" "**在这里等等,会有其他人到来**"
+    }
+
+    "**Wait here for awhile!**"
+    {
+        "chi" "**再等一会**"
+    }
+
+    "**We got the Intelligence! Let's get out of here!**"
+    {
+        "chi" "**情报已经成功窃取!是时候离开这里了**"
+    }
+
+    "**We've waited long enough! GO!**"
+    {
+        "chi" "**我们等待得足够久了**"
+    }
+
+    "**You have successfully escaped!**"
+    {
+        "chi" "**逃脱成功**"
+    }
+
+    "**You won Experienced! Right on!**"
+    {
+        "chi" "**好样的**"
+    }
+
+    "**Zombies got onboard! You have lost!**"
+    {
+        "chi" "**检测到僵尸,通关失败!**"
+    }
+
+    "[SM] Changing map to ze_LOTR_Minas_Tirith_v3_3..."
+    {
+        "chi" "__null__"
+    }
+
 }

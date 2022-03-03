@@ -1,62 +1,74 @@
 "Console_T"
 {
-	"**** MAP BY AERIS_004 ****"
-	{
-		"chi"		"**地图作者: AERIS_004  地图汉化: 大明**"
-		"command"		"sv_airaccelerate 12"
-	}
-	"*** WWW.SUPREME-ELITE.FR ***"
-	{
-		"chi"		"** **"
-	}
-	"***START ELEVATOR 15 SEC***"
-	{
-		"chi"		"**电梯15s后下降**"
-	}
-	"***ELEVATOR UP 14 SEC***"
-	{
-		"chi"		"**桥14s后上升 **"
-	}
-	"*** CATCH GOLD MEDAL ***"
-	{
-		"chi"		"**金币已拾取**"
-	}
-	"***GENERATOR DESACTIVED***"
-	{
-		"chi"		"**发电机未激活**"
-	}
-	"***CATCH FUSE***"
-	{
-		"chi"		"**保险丝已拾取**"
-	}
-	"***CATCH SILVER MEDAL***"
-	{
-		"chi"		"**银币已拾取**"
-	}
-	"*** START TRAIN 20 SEC ***"
-	{
-		"chi"		"**电车20s后运行**"
-	}
-	"*** START TRAIN 10 SEC ***"
-	{
-		"chi"		"**电车10s后运行**"
-	}
-	"***START ELEVATOR 25 SEC***"
-	{
-		"chi"		"**升降梯25s后运行**"
-		"command"		"sv_airaccelerate 12"
-	}
-	"*** GAS ACTIVATED 40 SEC ***"
-	{
-		"chi"		"**毒气40s后释放**"
-	}
-	"***WWW.SUPREME-ELITE.FR ***"
-	{
-		"chi"		"** **"
-	}
-	"***START TRAIN 20 SEC ***"
-	{
-		"chi"		"**电车20s后启动 **"
-		"command"		"sv_airaccelerate 1"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    " **** MAP BY AERIS_004 ****"
+    {
+        "chi" "__null__"
+    }
+
+    " ***START TRAIN 20 SEC ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** CATCH GOLD MEDAL ***"
+    {
+        "chi" "**金币已拾取**"
+    }
+
+    "*** GAS ACTIVATED 40 SEC ***"
+    {
+        "chi" "**毒气40s后释放**"
+    }
+
+    "*** START TRAIN 10 SEC ***"
+    {
+        "chi" "**电车10s后运行**"
+    }
+
+    "***CATCH FUSE***"
+    {
+        "chi" "**保险丝已拾取**"
+    }
+
+    "***CATCH SILVER MEDAL***"
+    {
+        "chi" "**银币已拾取**"
+    }
+
+    "***ELEVATOR UP 14 SEC***"
+    {
+        "chi" "**桥14s后上升 **"
+    }
+
+    "***GENERATOR DESACTIVED***"
+    {
+        "chi" "**发电机未激活**"
+    }
+
+    "***START ELEVATOR 15 SEC***"
+    {
+        "chi" "**电梯15s后下降**"
+    }
+
+    "***START ELEVATOR 25 SEC***"
+    {
+        "chi" "**升降梯25s后运行**"
+    }
+
+    "***WWW.SUPREME-ELITE.FR ***"
+    {
+        "chi" "__null__"
+    }
+
 }

@@ -1,7 +1,39 @@
 "Console_T"
 {
-	"** re shen 50 miao **"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** LEVEL1 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL2 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL3 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL4 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** rtv ***"
+    {
+        "chi" "__null__"
+    }
+
 }

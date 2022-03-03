@@ -1,223 +1,24 @@
-﻿"Console_T"
+"Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "***TEMPLE CLOSING IN 40 SEC***"
+
+    "***10 SECONDS LEFT***"
     {
-        "chi" "**神庙大门于40秒后关闭**"
+        "chi" "**我闻到了黑魔法的气息!**"
     }
 
-    "***YOU'RE THE WORST TEAM IVE EVER SEEN***"
+    "***30 SECONDS LEFT***"
     {
-        "chi" "**这也太笨比了**"
-    }
-
-    "***ILL JUST SKIP THE ENIGMA FOR YOU***"
-    {
-        "chi" "**算了,我就大发慈悲帮你跳过这个谜题吧**"
-    }
-
-    "***CHRISTMAS ARTIFACT PICKED UP***"
-    {
-        "chi" "**有玩家拾起了圣诞工艺品**"
-    }
-
-    "***CAN BE USED EVERY 60 SEC***"
-    {
-        "chi" "**每六十秒可使用一次**"
-    }
-
-    "***SLOW DOWN THE ZOMBIES***"
-    {
-        "chi" "**跟随并减速范围内的僵尸直至效果结束**"
-    }
-
-    "***HALLOWEEN ARTIFACT PICKED UP***"
-    {
-        "chi" "**有玩家拾起了万圣工艺品**"
-    }
-
-    "***PUSH THE ZOMBIES AWAY***"
-    {
-        "chi" "**以自身为中心向前方的扇形飓风**"
-    }
-
-    "***HEAL PICKED UP***"
-    {
-        "chi" "**有玩家拾起了巧克力**"
-    }
-
-    "***ONLY 1 USE***"
-    {
-        "chi" "**注意,只有一次使用机会!**"
-    }
-
-    "***MINE PICKED UP***"
-    {
-        "chi" "**有玩家拾起了地雷**"
-    }
-
-    "***CAN BE USED EVERY 20 SEC***"
-    {
-        "chi" "**每二十秒可使用一次**"
-    }
-
-    "***DOOR CLOSING IN 30 SECONDS***"
-    {
-        "chi" "**大门于30秒后关闭**"
-    }
-
-    "***DOOR CLOSING IN 10 SECONDS***"
-    {
-        "chi" "**大门于10秒后关闭**"
-    }
-
-    "***ARTIFACT TAKEN***"
-    {
-        "chi" "**已拾起工艺品**"
-    }
-
-    "***YOU WON HALLOWEEN LEVEL***"
-    {
-        "chi" "**在万圣夜最黑暗的时候...我们迎来了黎明**"
-    }
-
-    "***ELEVATOR LEAVING IN 30 SEC***"
-    {
-        "chi" "**电梯于30秒后离开**"
-    }
-
-    "***ELEVATOR LEAVING IN 10 SEC***"
-    {
-        "chi" "**电梯于10秒后启动**"
-    }
-
-    "***YOU DEFEATED HIM***"
-    {
-        "chi" "**你打败了他**"
-    }
-
-    "***PICK UP THE ARTIFACT***"
-    {
-        "chi" "**快拾起这件工艺品!**"
-    }
-
-    "***BUTTON PRESSED***"
-    {
-        "chi" "**按钮按下..请耐心等待...**"
-    }
-
-    "***TELEPORT ENABLE IN 40 SEC***"
-    {
-        "chi" "**40秒后开启传送**"
-    }
-
-    "***CIRCLES HAVE BEEN TRIGGERED***"
-    {
-        "chi" "**所有圆圈都被触发了!**"
-    }
-
-    "***ENABLING TELEPORT IN 10 SEC***"
-    {
-        "chi" "**10秒后开启传送**"
-    }
-
-    "***WAIT 20 SECONDS***"
-    {
-        "chi" "**守住20秒**"
-    }
-
-    "***DOOR OPENING IN 30 SEC***"
-    {
-        "chi" "**大门于30秒后开启**"
-    }
-
-    "***DOOR OPENING IN 10 SEC***"
-    {
-        "chi" "**大门于10秒后开启**"
-    }
-
-    "***DOORS OPENING IN 20 SEC***"
-    {
-        "chi" "**大门于20秒后开启**"
-    }
-
-    "***DOORS WILL OPEN IN 20 SEC***"
-    {
-        "chi" "**大门于20秒后开启**"
-    }
-
-    "***OPENNING IN 5 SEC***"
-    {
-        "chi" "**5**"
-    }
-
-    "***DOOR OPENNING IN 20 SEC***"
-    {
-        "chi" "**大门于20秒后开启**"
-    }
-
-    "***DOORS OPENING IN 30 SEC***"
-    {
-        "chi" "**大门于30秒后开启**"
-    }
-
-    "***DOORS OPENING IN 10 SEC***"
-    {
-        "chi" "**大门于20秒后开启**"
-    }
-
-    "***PRESS THE BUTTON TO OPEN THE DOORS***"
-    {
-        "chi" "**按下开关解锁大门 **"
-    }
-
-    "***Both button pressed***"
-    {
-        "chi" "**两路按钮都已按下...请等待**"
-    }
-
-    "***Upper Button Pressed***"
-    {
-        "chi" "**近路按钮已按下**"
-    }
-
-    "***Downer Button Pressed***"
-    {
-        "chi" "**远路按钮已按下**"
-    }
-
-    "***WALL WILL BREAK IN 20 SEC***"
-    {
-        "chi" "**墙壁于20秒后破开**"
-    }
-
-    "***WALL WILL BREAK IN 5 SEC***"
-    {
-        "chi" "**5**"
-    }
-
-    "***UPPER DOOR OPENING IN 20 SEC***"
-    {
-        "chi" "**上方大门于20秒后开启**"
-    }
-
-    "***UPPER DOOR OPENING IN 5 SEC***"
-    {
-        "chi" "**5**"
-    }
-
-    "***SOMEONE HAS TO CALL THE ELEVATOR***"
-    {
-        "chi" "**去一个人kz触发电梯,清理姜饼人后回头守住僵尸**"
-    }
-
-    "***ELEVATOR GOING DOWN***"
-    {
-        "chi" "**电梯开始下降**"
+        "chi" "**这里是...天空神庙?**"
     }
 
     "***A PORTAIL HAS BEEN OPENED AT THE ENTRANCE***"
@@ -225,44 +26,44 @@
         "chi" "**撤离传送门已开启,快走!**"
     }
 
-    "***YOU WON CHRISTMAS LEVEL***"
+    "***ARTIFACT TAKEN***"
     {
-        "chi" "**成功取走圣诞工艺品并逃离...**"
+        "chi" "**已拾起工艺品**"
     }
 
-    "***PICK UP THE ARTEFACT AND RUN AWAY***"
+    "***Both button pressed***"
     {
-        "chi" "**花盆消逝了...快拾起工艺品!**"
+        "chi" "**两路按钮都已按下...请等待**"
     }
 
-    "***RELEASING ZOMBIES IN 5 SEC***"
+    "***BUTTON PRESSED***"
     {
-        "chi" "**尸笼还有5秒打开**"
+        "chi" "**按钮按下..请耐心等待...**"
     }
 
-    "***TELEPORTING ZM IN 5 SEC***"
+    "***CAN BE USED EVERY 20 SEC***"
     {
-        "chi" "**僵尸将在5秒后传送**"
+        "chi" "**每二十秒可使用一次**"
     }
 
-    "***SOLVE THE ENIGMA***"
+    "***CAN BE USED EVERY 60 SEC***"
     {
-        "chi" "**这是...圣诞老人留下的谜团**"
+        "chi" "**每六十秒可使用一次**"
     }
 
-    "***DOOR OPENS IN 20 SEC***"
+    "***CHRISTMAS ARTIFACT PICKED UP***"
     {
-        "chi" "**大门于20秒后开启**"
+        "chi" "**有玩家拾起了圣诞工艺品**"
     }
 
-    "***DOOR OPENS IN 5 SEC***"
+    "***Christmas LEVEL***"
     {
-        "chi" "**5**"
+        "chi" "**圣诞节**"
     }
 
-    "***DEFEND 45 SEC***"
+    "***CIRCLES HAVE BEEN TRIGGERED***"
     {
-        "chi" "**防守45秒**"
+        "chi" "**所有圆圈都被触发了!**"
     }
 
     "***CLOSING DOOR IN 10 SEC***"
@@ -270,29 +71,34 @@
         "chi" "**大门于10秒后关闭**"
     }
 
-    "SANTA: WHY DID YOU COME ON MY ISLAND"
+    "***CONGRATZ***"
     {
-        "chi" "**圣诞老人:你为何会来到我的岛屿?**"
+        "chi" "**恭喜你征服了这张地图**"
     }
 
-    "SANTA: Oh I see... You came for my artefact"
+    "***DEFEND 45 SEC***"
     {
-        "chi" "**圣诞老人:噢,我明白了...你想取走我的工艺品**"
+        "chi" "**防守45秒**"
     }
 
-    "SANTA: You will pay for the damage you have already done!"
+    "***DOOR CLOSE IN 5 SEC***"
     {
-        "chi" "**圣诞老人:凡人之血,必将染于我剑!**"
+        "chi" "**大门还有5秒关闭!快进门!**"
     }
 
-    "SANTA: I AM A HALF GOD. BE READY FOR INCREDIBLE POWER"
+    "***DOOR CLOSING IN 10 SEC***"
     {
-        "chi" "**圣诞老人:半神的无上伟力,岂是尔等虫豸能对抗的?**"
+        "chi" "**大门于10秒后关闭**"
     }
 
-    "***ENIGMA SOLVED***"
+    "***DOOR CLOSING IN 10 SECONDS***"
     {
-        "chi" "**芜湖,谜团解开我们该走了**"
+        "chi" "**大门于10秒后关闭**"
+    }
+
+    "***DOOR CLOSING IN 30 SECONDS***"
+    {
+        "chi" "**大门于30秒后关闭**"
     }
 
     "***DOOR OPEN IN 20 SEC***"
@@ -305,34 +111,9 @@
         "chi" "**5**"
     }
 
-    "***DOOR CLOSE IN 5 SEC***"
-    {
-        "chi" "**大门还有5秒关闭!快进门!**"
-    }
-
-    "***GET IN THE TRAINS***"
-    {
-        "chi" "**没时间解释了,快上车!**"
-    }
-
-    "***DOOR CLOSING IN 10 SEC***"
-    {
-        "chi" "**大门于10秒后关闭**"
-    }
-
-    "***DOOR WILL OPEN IN 30 SEC***"
-    {
-        "chi" "**大门于30秒后开启**"
-    }
-
-    "***DOOR WILL OPEN IN 10 SEC***"
+    "***DOOR OPENING IN 10 SEC***"
     {
         "chi" "**大门于10秒后开启**"
-    }
-
-    "***Right Button Pressed***"
-    {
-        "chi" "**右侧按钮已按下**"
     }
 
     "***DOOR OPENING IN 20 SEC***"
@@ -340,64 +121,119 @@
         "chi" "**大门于20秒开启**"
     }
 
+    "***DOOR OPENING IN 30 SEC***"
+    {
+        "chi" "**大门于30秒后开启**"
+    }
+
+    "***DOOR OPENING IN 40 SEC***"
+    {
+        "chi" "**大门于40秒后开启**"
+    }
+
     "***DOOR OPENING IN 5 SEC***"
     {
         "chi" "**5**"
     }
 
-    "***Left Button Pressed***"
+    "***DOOR OPENNING IN 20 SEC***"
     {
-        "chi" "**左侧按钮已按下**"
+        "chi" "**大门于20秒后开启**"
     }
 
-    "***Christmas LEVEL***"
+    "***DOOR OPENS IN 20 SEC***"
     {
-        "chi" "**圣诞节**"
+        "chi" "**大门于20秒后开启**"
     }
 
-    "***Halloween LEVEL***"
+    "***DOOR OPENS IN 5 SEC***"
     {
-        "chi" "**万圣夜**"
+        "chi" "**5**"
     }
 
-    "***WARMUP ROUND***"
+    "***DOOR WILL OPEN IN 10 SEC***"
     {
-        "chi" "**平安夜**"
+        "chi" "**大门于10秒后开启**"
     }
 
-    "***MAP STARTING IN 30 SEC***"
+    "***DOOR WILL OPEN IN 30 SEC***"
     {
-        "chi" "**圣诞老人...**"
+        "chi" "**大门于30秒后开启**"
     }
 
-    "***MAP STARTING IN 20 SEC***"
+    "***DOORS OPENING IN 10 SEC***"
     {
-        "chi" "南瓜头..."
+        "chi" "**大门于20秒后开启**"
     }
 
-    "***YOUR MISSION WILL BE TO BRING THE 2 ARTIFACTS***"
+    "***DOORS OPENING IN 20 SEC***"
     {
-        "chi" "**熊...**"
+        "chi" "**大门于20秒后开启**"
     }
 
-    "***YOU WILL START BY THE CHRISTMAS ONE***"
+    "***DOORS OPENING IN 30 SEC***"
     {
-        "chi" "**你已知晓痛苦与悲伤...**"
+        "chi" "**大门于30秒后开启**"
     }
 
-    "***MAP STARTING IN 5 SEC***"
+    "***DOORS WILL OPEN IN 20 SEC***"
     {
-        "chi" "诅咒..."
+        "chi" "**大门于20秒后开启**"
     }
 
-    "***MAP BY RAPHI***"
+    "***Downer Button Pressed***"
     {
-        "chi" "**地图作者:RAPHI,汉化:翠夏,Ruby**"
+        "chi" "**远路按钮已按下**"
     }
 
-    "***YOU FINALLY DEFEATED HIM!!!***"
+    "***ELEVATOR ENABLED***"
     {
-        "chi" "**诅咒的力量消散了**"
+        "chi" "**电梯启动了**"
+    }
+
+    "***ELEVATOR GOING DOWN***"
+    {
+        "chi" "**电梯开始下降**"
+    }
+
+    "***ELEVATOR LEAVING IN 10 SEC***"
+    {
+        "chi" "**电梯于10秒后启动**"
+    }
+
+    "***ELEVATOR LEAVING IN 30 SEC***"
+    {
+        "chi" "**电梯于30秒后离开**"
+    }
+
+    "***ENABLING TELEPORT IN 10 SEC***"
+    {
+        "chi" "**10秒后开启传送**"
+    }
+
+    "***ENIGMA SOLVED***"
+    {
+        "chi" "**芜湖,谜团解开我们该走了**"
+    }
+
+    "***FALL BACK***"
+    {
+        "chi" "**润!**"
+    }
+
+    "***FALLBACK***"
+    {
+        "chi" "**润!**"
+    }
+
+    "***Final LEVEL***"
+    {
+        "chi" "**落叶也会归根,我们的终点,也已快到**"
+    }
+
+    "***GET IN THE TRAINS***"
+    {
+        "chi" "**没时间解释了,快上车!**"
     }
 
     "***GET OUT OF THE TEMPLE***"
@@ -405,24 +241,14 @@
         "chi" "**神庙变得极其不稳定,我们得赶紧离开这里**"
     }
 
-    "***KEEP DEFENDING***"
+    "***HALLOWEEN ARTIFACT PICKED UP***"
     {
-        "chi" "**守住**"
+        "chi" "**有玩家拾起了万圣工艺品**"
     }
 
-    "***TELEPORT SPAWNING IN 10 SEC***"
+    "***Halloween LEVEL***"
     {
-        "chi" "**传送于10秒后开启**"
-    }
-
-    "***30 SECONDS LEFT***"
-    {
-        "chi" "**这里是...天空神庙?**"
-    }
-
-    "***10 SECONDS LEFT***"
-    {
-        "chi" "**我闻到了黑魔法的气息!**"
+        "chi" "**万圣夜**"
     }
 
     "***HE IS STEALING THE ARTIFACT***"
@@ -430,9 +256,209 @@
         "chi" "**我草,熊...?**"
     }
 
+    "***HEAL PICKED UP***"
+    {
+        "chi" "**有玩家拾起了巧克力**"
+    }
+
+    "***ILL JUST SKIP THE ENIGMA FOR YOU***"
+    {
+        "chi" "**算了,我就大发慈悲帮你跳过这个谜题吧**"
+    }
+
+    "***KEEP DEFENDING***"
+    {
+        "chi" "**守住**"
+    }
+
+    "***Left Button Pressed***"
+    {
+        "chi" "**左侧按钮已按下**"
+    }
+
+    "***LEFT LEVER PRESSED***"
+    {
+        "chi" "**左侧按钮已按下**"
+    }
+
+    "***MADE BY RAPHI***"
+    {
+        "chi" "**地图作者:RAPHI,汉化:翠夏,Ruby 修复:BOPE**"
+    }
+
+    "***MAP BY RAPHI***"
+    {
+        "chi" "**地图作者:RAPHI,汉化:翠夏,Ruby**"
+    }
+
+    "***MAP STARTING IN 20 SEC***"
+    {
+        "chi" "南瓜头..."
+    }
+
+    "***MAP STARTING IN 30 SEC***"
+    {
+        "chi" "**圣诞老人...**"
+    }
+
+    "***MAP STARTING IN 5 SEC***"
+    {
+        "chi" "诅咒..."
+    }
+
+    "***MINE PICKED UP***"
+    {
+        "chi" "**有玩家拾起了地雷**"
+    }
+
+    "***ONLY 1 USE***"
+    {
+        "chi" "**注意,只有一次使用机会!**"
+    }
+
+    "***OPENNING IN 5 SEC***"
+    {
+        "chi" "**5**"
+    }
+
+    "***PICK UP THE ARTEFACT AND RUN AWAY***"
+    {
+        "chi" "**花盆消逝了...快拾起工艺品!**"
+    }
+
+    "***PICK UP THE ARTIFACT***"
+    {
+        "chi" "**快拾起这件工艺品!**"
+    }
+
+    "***PRESS THE BUTTON TO OPEN THE DOORS***"
+    {
+        "chi" "**按下开关解锁大门 **"
+    }
+
+    "***PUSH THE ZOMBIES AWAY***"
+    {
+        "chi" "**以自身为中心向前方的扇形飓风**"
+    }
+
+    "***RELEASING ZOMBIES IN 5 SEC***"
+    {
+        "chi" "**尸笼还有5秒打开**"
+    }
+
+    "***Right Button Pressed***"
+    {
+        "chi" "**右侧按钮已按下**"
+    }
+
+    "***RIGHT LEVER PRESSED***"
+    {
+        "chi" "**右侧按钮已按下**"
+    }
+
+    "***SLOW DOWN THE ZOMBIES***"
+    {
+        "chi" "**跟随并减速范围内的僵尸直至效果结束**"
+    }
+
+    "***SOLVE THE ENIGMA***"
+    {
+        "chi" "**这是...圣诞老人留下的谜团**"
+    }
+
+    "***SOMEONE HAS TO CALL THE ELEVATOR***"
+    {
+        "chi" "**去一个人kz触发电梯,清理姜饼人后回头守住僵尸**"
+    }
+
+    "***TELEPORT ENABLE IN 40 SEC***"
+    {
+        "chi" "**40秒后开启传送**"
+    }
+
+    "***TELEPORT SPAWNING IN 10 SEC***"
+    {
+        "chi" "**传送于10秒后开启**"
+    }
+
+    "***TELEPORTING ZM IN 5 SEC***"
+    {
+        "chi" "**僵尸将在5秒后传送**"
+    }
+
+    "***TELEPORTING ZOMBIES ON THE SIDES IN 5 SEC***"
+    {
+        "chi" "**僵尸于5秒后传送**"
+    }
+
+    "***TEMPLE CLOSING IN 40 SEC***"
+    {
+        "chi" "**神庙大门于40秒后关闭**"
+    }
+
+    "***TEMPLE WILL OPEN IN 20 SEC***"
+    {
+        "chi" "**神庙于20秒后开放**"
+    }
+
     "***THIS TRAITOR RAN AWAY***"
     {
         "chi" "**那是诅咒的关键,我们必须追回**"
+    }
+
+    "***Upper Button Pressed***"
+    {
+        "chi" "**近路按钮已按下**"
+    }
+
+    "***UPPER DOOR OPENING IN 20 SEC***"
+    {
+        "chi" "**上方大门于20秒后开启**"
+    }
+
+    "***UPPER DOOR OPENING IN 5 SEC***"
+    {
+        "chi" "**5**"
+    }
+
+    "***WAIT 20 SECONDS***"
+    {
+        "chi" "**守住20秒**"
+    }
+
+    "***WAIT 30 SEC***"
+    {
+        "chi" "**等待30秒**"
+    }
+
+    "***WAIT SOMEONE IS COMING***"
+    {
+        "chi" "**等等...好像有人来了**"
+    }
+
+    "***WALL BREAKING IN 20 SEC***"
+    {
+        "chi" "**墙壁于20秒后破开**"
+    }
+
+    "***WALL BREAKING IN 30 SEC***"
+    {
+        "chi" "**墙壁于30秒后破开**"
+    }
+
+    "***WALL WILL BREAK IN 20 SEC***"
+    {
+        "chi" "**墙壁于20秒后破开**"
+    }
+
+    "***WALL WILL BREAK IN 5 SEC***"
+    {
+        "chi" "**5**"
+    }
+
+    "***WARMUP ROUND***"
+    {
+        "chi" "**平安夜**"
     }
 
     "***WE HAVE TO KILL HIM NOW***"
@@ -445,39 +471,14 @@
         "chi" "**那便是最后的...**"
     }
 
-    "***WAIT SOMEONE IS COMING***"
+    "***YOU DEFEATED HIM***"
     {
-        "chi" "**等等...好像有人来了**"
+        "chi" "**你打败了他**"
     }
 
-    "***DOOR OPENING IN 40 SEC***"
+    "***YOU FINALLY DEFEATED HIM!!!***"
     {
-        "chi" "**大门于40秒后开启**"
-    }
-
-    "***FALLBACK***"
-    {
-        "chi" "**润!**"
-    }
-
-    "***TELEPORTING ZOMBIES ON THE SIDES IN 5 SEC***"
-    {
-        "chi" "**僵尸于5秒后传送**"
-    }
-
-    "***WAIT 30 SEC***"
-    {
-        "chi" "**等待30秒**"
-    }
-
-    "***LEFT LEVER PRESSED***"
-    {
-        "chi" "**左侧按钮已按下**"
-    }
-
-    "***RIGHT LEVER PRESSED***"
-    {
-        "chi" "**右侧按钮已按下**"
+        "chi" "**诅咒的力量消散了**"
     }
 
     "***YOU JUST BEAT THE MAP***"
@@ -485,44 +486,49 @@
         "chi" "**令人难忘的旅途落下了帷幕**"
     }
 
-    "***CONGRATZ***"
+    "***YOU WILL START BY THE CHRISTMAS ONE***"
     {
-        "chi" "**恭喜你征服了这张地图**"
+        "chi" "**你已知晓痛苦与悲伤...**"
     }
 
-    "***MADE BY RAPHI***"
+    "***YOU WON CHRISTMAS LEVEL***"
     {
-        "chi" "**地图作者:RAPHI,汉化:翠夏,Ruby 修复:BOPE**"
+        "chi" "**成功取走圣诞工艺品并逃离...**"
     }
 
-    "***Final LEVEL***"
+    "***YOU WON HALLOWEEN LEVEL***"
     {
-        "chi" "**落叶也会归根,我们的终点,也已快到**"
+        "chi" "**在万圣夜最黑暗的时候...我们迎来了黎明**"
     }
 
-    "***WALL BREAKING IN 30 SEC***"
+    "***YOUR MISSION WILL BE TO BRING THE 2 ARTIFACTS***"
     {
-        "chi" "**墙壁于30秒后破开**"
+        "chi" "**熊...**"
     }
 
-    "***FALL BACK***"
+    "***YOU'RE THE WORST TEAM IVE EVER SEEN***"
     {
-        "chi" "**润!**"
+        "chi" "**这也太笨比了**"
     }
 
-    "***TEMPLE WILL OPEN IN 20 SEC***"
+    "SANTA: I AM A HALF GOD. BE READY FOR INCREDIBLE POWER"
     {
-        "chi" "**神庙于20秒后开放**"
+        "chi" "**圣诞老人:半神的无上伟力,岂是尔等虫豸能对抗的?**"
     }
 
-    "***ELEVATOR ENABLED***"
+    "SANTA: Oh I see... You came for my artefact"
     {
-        "chi" "**电梯启动了**"
+        "chi" "**圣诞老人:噢,我明白了...你想取走我的工艺品**"
     }
 
-    "***WALL BREAKING IN 20 SEC***"
+    "SANTA: WHY DID YOU COME ON MY ISLAND"
     {
-        "chi" "**墙壁于20秒后破开**"
+        "chi" "**圣诞老人:你为何会来到我的岛屿?**"
+    }
+
+    "SANTA: You will pay for the damage you have already done!"
+    {
+        "chi" "**圣诞老人:凡人之血,必将染于我剑!**"
     }
 
 }

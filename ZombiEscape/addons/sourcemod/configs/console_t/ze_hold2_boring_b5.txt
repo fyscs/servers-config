@@ -1,127 +1,294 @@
 "Console_T"
 {
-	"** Music by MapleStory **"
-	{
-		"chi"		"** **"
-	}
-	"** Welcome to this shit map **"
-	{
-		"chi"		"** **"
-	}
-	"** Its very boring and very hard , but end is funny .**"
-	{
-		"chi"		"**这张图非常无聊而且很难, 但结局很有趣**"
-	}
-	"** Have a good time , guys ! **"
-	{
-		"chi"		"**祝各位玩的开心~**"
-	}
-	"** Zombie Buff : SPEED **"
-	{
-		"chi"		"**僵尸获得速度增益**"
-	}
-	"** Map by ClariceTang **"
-	{
-		"chi"		"**地图作者: ClariceTang 地图翻译: 户冢彩加&萌大奶@风云社**"
-	}
-	"** Level 1 - Easy **"
-	{
-		"chi"		"**第一关 简单**"
-	}
-	"** Model by K. **"
-	{
-		"chi"		"** **"
-	}
-	"** Musicbox picker up **"
-	{
-		"chi"		"** **"
-	}
-	"** Sound Playing - Goshanghai **"
-	{
-		"chi"		"** **"
-	}
-	"** Zombie Buff : GODMODE **"
-	{
-		"chi"		"** 僵尸获得不死增益**"
-	}
-	"** Sound Playing - Darkmountain **"
-	{
-		"chi"		"** **"
-	}
-	"** Door 1# will be opened in 90 seconds ! **"
-	{
-		"chi"		"**1号门在90秒后打开**"
-	}
-	"** Door 1# will be opened in 60 seconds ! **"
-	{
-		"chi"		"**1号门在60秒后打开****"
-	}
-	"** Sound Playing - Whitechristmas **"
-	{
-		"chi"		"** **"
-	}
-	"** Zombie Buff : INVIS **"
-	{
-		"chi"		"**僵尸获得隐身增益**"
-	}
-	"** Door 1# will be opened in 30 seconds ! **"
-	{
-		"chi"		"**1号门在30秒后打开**"
-	}
-	"** Door 1# will be opened in 10 seconds ! **"
-	{
-		"chi"		"**1号门在10秒后打开**"
-	}
-	"** Door 2# will be opened in 90 seconds ! **"
-	{
-		"chi"		"**2号门在90秒后打开**"
-	}
-	"** Door 2# will be opened in 60 seconds ! **"
-	{
-		"chi"		"**2号门在60秒后打开**"
-	}
-	"** Door 2# will be opened in 30 seconds ! **"
-	{
-		"chi"		"**2号门在30秒后打开**"
-	}
-	"** Door 2# will be opened in 10 seconds ! **"
-	{
-		"chi"		"**2号门在10秒后打开**"
-	}
-	"** Door 3# will be opened in 90 seconds ! **"
-	{
-		"chi"		"**3号门在90秒后打开**"
-	}
-	"** Door 3# will be opened in 60 seconds ! **"
-	{
-		"chi"		"**3号门在60秒后打开**"
-	}
-	"** Door 3# will be opened in 30 seconds ! **"
-	{
-		"chi"		"**3号门在30秒后打开**"
-	}
-	"** Door 3# will be opened in 10 seconds ! **"
-	{
-		"chi"		"**3号门在10秒后打开**"
-	}
-	"** Door 4# will be opened in 90 seconds ! **"
-	{
-		"chi"		"**4号门在90秒后打开**"
-	}
-	"** Door 4# will be opened in 60 seconds ! **"
-	{
-		"chi"		"**4号门在60秒后打开**"
-	}
-	"** Door 4# will be opened in 30 seconds ! **"
-	{
-		"chi"		"**4号门在30秒后打开**"
-	}
-	"** Door 4# will be opened in 10 seconds ! **"
-	{
-		"chi"		"**4号门在10秒后打开**"
-	}
-	"** Hold here 20s ! **"
-	{
-		"chi"		"**守住这里20秒**"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** Door 1# will be opened in 10 seconds ! **"
+    {
+        "chi" "**1号门在10秒后打开**"
+    }
+
+    "** Door 1# will be opened in 30 seconds ! **"
+    {
+        "chi" "**1号门在30秒后打开**"
+    }
+
+    "** Door 1# will be opened in 60 seconds ! **"
+    {
+        "chi" "**1号门在60秒后打开****"
+    }
+
+    "** Door 1# will be opened in 90 seconds ! **"
+    {
+        "chi" "**1号门在90秒后打开**"
+    }
+
+    "** Door 2# will be opened in 10 seconds ! **"
+    {
+        "chi" "**2号门在10秒后打开**"
+    }
+
+    "** Door 2# will be opened in 30 seconds ! **"
+    {
+        "chi" "**2号门在30秒后打开**"
+    }
+
+    "** Door 2# will be opened in 60 seconds ! **"
+    {
+        "chi" "**2号门在60秒后打开**"
+    }
+
+    "** Door 2# will be opened in 90 seconds ! **"
+    {
+        "chi" "**2号门在90秒后打开**"
+    }
+
+    "** Door 3# will be opened in 10 seconds ! **"
+    {
+        "chi" "**3号门在10秒后打开**"
+    }
+
+    "** Door 3# will be opened in 30 seconds ! **"
+    {
+        "chi" "**3号门在30秒后打开**"
+    }
+
+    "** Door 3# will be opened in 60 seconds ! **"
+    {
+        "chi" "**3号门在60秒后打开**"
+    }
+
+    "** Door 3# will be opened in 90 seconds ! **"
+    {
+        "chi" "**3号门在90秒后打开**"
+    }
+
+    "** Door 4# will be opened in 10 seconds ! **"
+    {
+        "chi" "**4号门在10秒后打开**"
+    }
+
+    "** Door 4# will be opened in 30 seconds ! **"
+    {
+        "chi" "**4号门在30秒后打开**"
+    }
+
+    "** Door 4# will be opened in 60 seconds ! **"
+    {
+        "chi" "**4号门在60秒后打开**"
+    }
+
+    "** Door 4# will be opened in 90 seconds ! **"
+    {
+        "chi" "**4号门在90秒后打开**"
+    }
+
+    "** Door 5# will be opened in 10 seconds ! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door 5# will be opened in 30 seconds ! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door 5# will be opened in 60 seconds ! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door 5# will be opened in 90 seconds ! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door 6# will be opened in 10 seconds ! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door 6# will be opened in 30 seconds ! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door 6# will be opened in 60 seconds ! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door 6# will be opened in 90 seconds ! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door 7# will be opened in 10 seconds ! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door 7# will be opened in 30 seconds ! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door 7# will be opened in 60 seconds ! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Door 7# will be opened in 90 seconds ! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Have a good time , guys ! **"
+    {
+        "chi" "**祝各位玩的开心~**"
+    }
+
+    "** Hold 30s ! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Hold here 20s ! **"
+    {
+        "chi" "**守住这里20秒**"
+    }
+
+    "** Its very boring and very hard , but end is funny .**"
+    {
+        "chi" "**这张图非常无聊而且很难, 但结局很有趣**"
+    }
+
+    "** Level 1 - Easy **"
+    {
+        "chi" "**第一关 简单**"
+    }
+
+    "** Level 2 - Hard **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Map by ClariceTang **"
+    {
+        "chi" "**地图作者: ClariceTang 地图翻译: 户冢彩加&萌大奶@风云社**"
+    }
+
+    "** Model by K. **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Music by MapleStory **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Musicbox picker up **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Sound Playing - Abovethetreetops **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Sound Playing - Badguys **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Sound Playing - Bamboogym **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Sound Playing - Darkmountain **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Sound Playing - Dragondream **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Sound Playing - Florallife **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Sound Playing - flyinginabluedream **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Sound Playing - Goshanghai **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Sound Playing - Snowdrop **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Sound Playing - Subway **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Sound Playing - Warmregard **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Sound Playing - Whitechristmas **"
+    {
+        "chi" "__null__"
+    }
+
+    "** There is no way here ! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Watch out laser !!! **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Welcome to this shit map **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Zombie Buff : GODMODE **"
+    {
+        "chi" "** 僵尸获得不死增益**"
+    }
+
+    "** Zombie Buff : INVIS **"
+    {
+        "chi" "**僵尸获得隐身增益**"
+    }
+
+    "** Zombie Buff : SPEED **"
+    {
+        "chi" "**僵尸获得速度增益**"
+    }
+
 }

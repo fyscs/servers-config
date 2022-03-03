@@ -1,196 +1,259 @@
 "Console_T"
 {
-	"<<< Map made by Jllaneras >>>"
-	{
-		"chi"		"** Jllaneras制作翻译:Sakura@风云社**"
-	}
-	"<<< Run to first box and defend! >>>"
-	{
-		"chi"		"** 快去第一个箱子防御僵尸!**"
-	}
-	"<<< Fall back and keep defending! >>>"
-	{
-		"chi"		"** 快跑!移动射击!**"
-	}
-	"<<< Almost there keep defending! >>>"
-	{
-		"chi"		"** 快到了, 保持射击!**"
-	}
-	"<<< Get behind last pillars for teleport! >>>"
-	{
-		"chi"		"**去最后一个柱子等待传送 **"
-	}
-	"*** Rush to door! ***"
-	{
-		"chi"		"** 快走!**"
-	}
-	"*** Defend until second door opens! ***"
-	{
-		"chi"		"** 坚持住直到第二个门开启!**"
-	}
-	"*** Defend until third door opens! ***"
-	{
-		"chi"		"** 坚持住直到第三个门开启!**"
-	}
-	"*** Defend inside until door closes! ***"
-	{
-		"chi"		"** 快进去守到门关!保持火力!**"
-	}
-	"<<< Get inside next temple and defend! >>>"
-	{
-		"chi"		"** 到神庙里面防御!**"
-	}
-	"<<< Climb the ladder! >>>"
-	{
-		"chi"		"** 快爬梯子!**"
-	}
-	"<<< Fan has been turned off! >>>"
-	{
-		"chi"		"** 风扇已经关闭**"
-	}
-	"<<< Defend for 30 more seconds! >>>"
-	{
-		"chi"		"** 守住30秒,开火老铁们!**"
-	}
-	"<<< Break the fence and get in the water! >>>"
-	{
-		"chi"		"** 打碎栅栏!跳到水里!**"
-	}
-	"<<< Back up and defend! >>>"
-	{
-		"chi"		"** 撤退!开火!**"
-	}
-	"<<< Defend for 30 seconds! >>>"
-	{
-		"chi"		"** 抵御30秒**"
-	}
-	"<<< Fall back! >>>"
-	{
-		"chi"		"** 撤退!!!**"
-	}
-	"<<< Watch the water up ahead! >>>"
-	{
-		"chi"		"** 小心水里面**"
-	}
-	"<<< Defend for 25 more seconds! >>>"
-	{
-		"chi"		"** 抵御25秒**"
-	}
-	"<<< Defend for 15 more seconds! >>>"
-	{
-		"chi"		"** 抵御15秒**"
-	}
-	"<<< Defend at top of stairs for 35 seconds! >>>"
-	{
-		"chi"		"** 坚守楼梯35秒**"
-	}
-	"<<< Climb!!! >>>"
-	{
-		"chi"		"** 快爬上去!**"
-	}
-	"<<< Stay back against wall! >>>"
-	{
-		"chi"		"** 贴着墙**"
-	}
-	"<<< Bulvian The Almighty >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Gale >>>"
-	{
-		"chi"		">>>风来了!<<<"
-	}
-	"<<< Fire Spin >>>"
-	{
-		"chi"		">>>火焰!<<<"
-	}
-	"<<< Breakout >>>"
-	{
-		"chi"		">>>尸笼!<<<"
-	}
-	"<<< Torment >>>"
-	{
-		"chi"		">>>痛苦<<<"
-	}
-	"<<< Glide >>>"
-	{
-		"chi"		">>>低摩擦<<<"
-	}
-	"<<< Level 1 >>>"
-	{
-		"chi"		"**第一关**"
-	}
-	"<<< Level 1 Complete! >>>"
-	{
-		"chi"		"**第一关完成**"
-	}
-	"<<< Level 2 >>>"
-	{
-		"chi"		"**第二关**"
-	}
-	"<<< Stay and defend bottom! >>>"
-	{
-		"chi"		"**守住下面**"
-	}
-	"<<< Gate broken get in for tp! >>>"
-	{
-		"chi"		"** 门已打开, 快进传送**"
-	}
-	"<<< Incinerate >>>"
-	{
-		"chi"		">>>火焰!<<<"
-	}
-	"<<< Defend for 60 seconds! >>>"
-	{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-		"chi"		"** **"
-	}
-	"<<< Disperse >>>"
-	{
-		"chi"		">>>驱散<<<"
-	}
-	"<<< Frenzy >>>"
-	{
-		"chi"		">>>狂暴<<<"
-	}
-	"<<< Level 2 complete! >>>"
-	{
-		"chi"		"**第二关完成**"
-	}
-	"<<< Level 3 >>>"
-	{
-		"chi"		"**第三关**"
-	}
-	"<<< Button activated! >>>"
-	{
-		"chi"		"**按钮已激活**"
-	}
-	"<<< Defend for 15 seconds! >>>"
-	{
-		"chi"		"**坚守15秒**"
-	}
-	"<<< Button pressed defend for 10 more seconds! >>>"
-	{
-		"chi"		"**按钮已被按下坚持10秒走**"
-	}
-	"<<< Button pressed defend for 10 seconds! >>>"
-	{
-		"chi"		"**按钮已被按下坚持10秒走**"
-	}
-	"<<< Level 3 Complete! >>>"
-	{
-		"chi"		"**第三关完成**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"*** ... ***"
-	{
-		"chi"		"** **"
-	}
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** Defend inside until door closes! ***"
+    {
+        "chi" "** 快进去守到门关!保持火力!**"
+    }
+
+    "*** Defend until second door opens! ***"
+    {
+        "chi" "** 坚持住直到第二个门开启!**"
+    }
+
+    "*** Defend until third door opens! ***"
+    {
+        "chi" "** 坚持住直到第三个门开启!**"
+    }
+
+    "*** Rush to door! ***"
+    {
+        "chi" "** 快走!**"
+    }
+
+    "<<< Almost there keep defending! >>>"
+    {
+        "chi" "** 快到了, 保持射击!**"
+    }
+
+    "<<< Back up and defend! >>>"
+    {
+        "chi" "** 撤退!开火!**"
+    }
+
+    "<<< Break the fence and get in the water! >>>"
+    {
+        "chi" "** 打碎栅栏!跳到水里!**"
+    }
+
+    "<<< Breakout >>>"
+    {
+        "chi" ">>>尸笼!<<<"
+    }
+
+    "<<< Bulvian The Almighty >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Button activated! >>>"
+    {
+        "chi" "**按钮已激活**"
+    }
+
+    "<<< Button pressed defend for 10 more seconds! >>>"
+    {
+        "chi" "**按钮已被按下坚持10秒走**"
+    }
+
+    "<<< Button pressed defend for 10 seconds! >>>"
+    {
+        "chi" "**按钮已被按下坚持10秒走**"
+    }
+
+    "<<< Changed to level 1 >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Changed to level 2 >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Changed to level 3 >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Climb the ladder! >>>"
+    {
+        "chi" "** 快爬梯子!**"
+    }
+
+    "<<< Climb!!! >>>"
+    {
+        "chi" "** 快爬上去!**"
+    }
+
+    "<<< Defend at top of stairs for 35 seconds! >>>"
+    {
+        "chi" "** 坚守楼梯35秒**"
+    }
+
+    "<<< Defend for 15 more seconds! >>>"
+    {
+        "chi" "** 抵御15秒**"
+    }
+
+    "<<< Defend for 15 seconds! >>>"
+    {
+        "chi" "**坚守15秒**"
+    }
+
+    "<<< Defend for 25 more seconds! >>>"
+    {
+        "chi" "** 抵御25秒**"
+    }
+
+    "<<< Defend for 30 more seconds! >>>"
+    {
+        "chi" "** 守住30秒,开火老铁们!**"
+    }
+
+    "<<< Defend for 30 seconds! >>>"
+    {
+        "chi" "** 抵御30秒**"
+    }
+
+    "<<< Defend for 60 seconds! >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Disperse >>>"
+    {
+        "chi" ">>>驱散<<<"
+    }
+
+    "<<< Fall back and keep defending! >>>"
+    {
+        "chi" "** 快跑!移动射击!**"
+    }
+
+    "<<< Fall back! >>>"
+    {
+        "chi" "** 撤退!!!**"
+    }
+
+    "<<< Fall Back! >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Frenzy >>>"
+    {
+        "chi" ">>>狂暴<<<"
+    }
+
+    "<<< Gale >>>"
+    {
+        "chi" ">>>风来了!<<<"
+    }
+
+    "<<< Gate broken get in for tp! >>>"
+    {
+        "chi" "** 门已打开, 快进传送**"
+    }
+
+    "<<< Get behind last pillars for teleport! >>>"
+    {
+        "chi" "**去最后一个柱子等待传送 **"
+    }
+
+    "<<< Get inside next temple and defend! >>>"
+    {
+        "chi" "** 到神庙里面防御!**"
+    }
+
+    "<<< Glide >>>"
+    {
+        "chi" ">>>低摩擦<<<"
+    }
+
+    "<<< Incinerate >>>"
+    {
+        "chi" ">>>火焰!<<<"
+    }
+
+    "<<< Lasers >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Level 1 >>>"
+    {
+        "chi" "**第一关**"
+    }
+
+    "<<< Level 1 complete >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Level 1 Complete! >>>"
+    {
+        "chi" "**第一关完成**"
+    }
+
+    "<<< Level 2 >>>"
+    {
+        "chi" "**第二关**"
+    }
+
+    "<<< Level 2 complete! >>>"
+    {
+        "chi" "**第二关完成**"
+    }
+
+    "<<< Level 3 >>>"
+    {
+        "chi" "**第三关**"
+    }
+
+    "<<< Level 3 Complete! >>>"
+    {
+        "chi" "**第三关完成**"
+    }
+
+    "<<< Map made by JLlaneras >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Run to first box and defend! >>>"
+    {
+        "chi" "** 快去第一个箱子防御僵尸!**"
+    }
+
+    "<<< Stay and defend bottom! >>>"
+    {
+        "chi" "**守住下面**"
+    }
+
+    "<<< Stay back against wall! >>>"
+    {
+        "chi" "** 贴着墙**"
+    }
+
+    "<<< Torment >>>"
+    {
+        "chi" ">>>痛苦<<<"
+    }
+
+    "<<< Watch the water up ahead! >>>"
+    {
+        "chi" "** 小心水里面**"
+    }
+
 }

@@ -1,0 +1,74 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "| 10 |"
+    {
+        "chi" "__null__"
+    }
+
+    "| 15 |"
+    {
+        "chi" "__null__"
+    }
+
+    "| 20 |"
+    {
+        "chi" "__null__"
+    }
+
+    "| 25 |"
+    {
+        "chi" "__null__"
+    }
+
+    "| 30 |"
+    {
+        "chi" "__null__"
+    }
+
+    "| 5 |"
+    {
+        "chi" "__null__"
+    }
+
+    "| Blue |"
+    {
+        "chi" "__null__"
+    }
+
+    "| Cyan |"
+    {
+        "chi" "__null__"
+    }
+
+    "| Green |"
+    {
+        "chi" "__null__"
+    }
+
+    "| Loading simulation.. |"
+    {
+        "chi" "__null__"
+    }
+
+    "| Purple |"
+    {
+        "chi" "__null__"
+    }
+
+    "| WARMUP ROUND |"
+    {
+        "chi" "__null__"
+    }
+
+}

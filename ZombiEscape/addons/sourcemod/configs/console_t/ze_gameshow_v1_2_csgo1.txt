@@ -1,367 +1,494 @@
 "Console_T"
 {
-	">>After buying a special weapon"
-	{
-		"chi"		"**购买一件特殊武器**"
-	}
-	">>MAP BY DREAM EATER<<"
-	{
-		"chi"		"**地图作者Dream Eater**"
-	}
-	">>PICKING A RANDOM MIDDLE WALL IN 30 SECONDS!<<"
-	{
-		"chi"		"**30秒内随机选取一面墙壁**"
-	}
-	">>Weapons don't damage in the lobby!<<"
-	{
-		"chi"		"**武器在大厅内不造成伤害**"
-	}
-	">>Wall 4 is open!<<"
-	{
-		"chi"		"**墙4秒后打开**"
-	}
-	">>Pick a level! You have 10 seconds!<<"
-	{
-		"chi"		"**选择难度!你有十秒钟!**"
-	}
-	">>Delay and the teleporter will reactivate!!<<"
-	{
-		"chi"		"**延迟传送将重启**"
-	}
-	">>LEVEL 3 SELECTED...<<"
-	{
-		"chi"		"**关卡选择: 3**"
-	}
-	">>Level commencing in 3...<<"
-	{
-		"chi"		"** **"
-	}
-	">>Level commencing in 2...<<"
-	{
-		"chi"		"** **"
-	}
-	">>Level commencing in 1...<<"
-	{
-		"chi"		"** **"
-	}
-	">>GET INTO THE AIRSHIP AND DESTROY THE ENGINE!<<"
-	{
-		"chi"		"**进入飞艇, 摧毁引擎!**"
-	}
-	">>HOLD THE CABIN FOR 40 SECONDS<<"
-	{
-		"chi"		"**坚守客舱40秒**"
-	}
-	">>10 SECONDS LEFT<<"
-	{
-		"chi"		"**还剩10秒**"
-	}
-	">>Hold for 20 seconds while the door opens!<<"
-	{
-		"chi"		"**门开后继续守20秒**"
-	}
-	">>Door opens in 5 seconds!<<"
-	{
-		"chi"		"**5秒后开门**"
-	}
-	">>HOLD THE ENGINE ROOM FOR 40 SECONDS!<<"
-	{
-		"chi"		"**防守住引擎室40秒**"
-	}
-	">>10 SECONDS LEFT UNTIL C4 DETONATES!!<<"
-	{
-		"chi"		"**10秒后C4爆炸**"
-	}
-	">>GENERATOR IS DESTROYED! RETURN TO THE HELIPAD<<"
-	{
-		"chi"		"**发电机坏了!返回直升机停机坪**"
-	}
-	">>HELI LEAVES IN 30 SECONDS!!<<"
-	{
-		"chi"		"**直升机30秒后起飞**"
-	}
-	">>10 SECONDS REMAIN!!<<"
-	{
-		"chi"		"** **"
-	}
-	">>5...<<"
-	{
-		"chi"		"** **"
-	}
-	">>4...<<"
-	{
-		"chi"		"** **"
-	}
-	">>3...<<"
-	{
-		"chi"		"** **"
-	}
-	">>2...<<"
-	{
-		"chi"		"** **"
-	}
-	">>1...<<"
-	{
-		"chi"		"** **"
-	}
-	">>YOU WIN! BACK TO THE LOBBY!<<"
-	{
-		"chi"		"**你赢了!返回大厅**"
-	}
-	">>Wall 3 is open!<<"
-	{
-		"chi"		"**墙壁3打开了**"
-	}
-	">>LEVEL 2 SELECTED...<<"
-	{
-		"chi"		"**关卡选择: 2**"
-	}
-	">>Hold the Train Station for 30 seconds!<<"
-	{
-		"chi"		"**守住火车站30秒**"
-	}
-	">>Fall back!<<"
-	{
-		"chi"		"**撤退!**"
-	}
-	">>The city is infected! Hold the street from the zombies!<<"
-	{
-		"chi"		"**这座城市沦陷了!在街道抵御僵尸进攻!**"
-	}
-	">>30 SECONDS REMAIN<<"
-	{
-		"chi"		"**还剩30秒**"
-	}
-	">>C4 explodes in 10 seconds!<<"
-	{
-		"chi"		"**距离C4爆炸还有10秒**"
-	}
-	">>Hold the sewer for 15 seconds!<<"
-	{
-		"chi"		"**在下水道守住15秒**"
-	}
-	">>Sewer defenders fall back!<<"
-	{
-		"chi"		"**还在下水道的人快撤!**"
-	}
-	">>Nuclear fallout base activating!<<"
-	{
-		"chi"		"**核辐射基地启动!**"
-	}
-	">>Defend for 50 seconds until the nuke is detonated!<<"
-	{
-		"chi"		"**防御50秒直到核弹被引爆!**"
-	}
-	">>ZOMBIES GOT INTO THE BUNKER! GAME OVER!<<"
-	{
-		"chi"		"**僵尸进了地堡!GG!**"
-	}
-	">>GAME OVER IF ZOMBIES GET IN THE BUNKER<<"
-	{
-		"chi"		"**一旦僵尸进入地堡我们都完了**"
-	}
-	">>40 SECONDS REMAIN<<"
-	{
-		"chi"		"**还剩40秒**"
-	}
-	">>Wall 1 is open!<<"
-	{
-		"chi"		"**墙壁1打开**"
-	}
-	">>LEVEL 1 SELECTED...<<"
-	{
-		"chi"		"**关卡选择: 1**"
-	}
-	">>HOLD THE HARBOR FOR 50 SECONDS<<"
-	{
-		"chi"		"**守住港口50秒**"
-	}
-	">>HANGER DOOR OPENS IN 10 SECONDS<<"
-	{
-		"chi"		"**10秒后挂门打开**"
-	}
-	">>FALL BACK<<"
-	{
-		"chi"		"**撤退**"
-	}
-	"WARNING: ZOMBIE INFESTATION DETECTED"
-	{
-		"chi"		"**警告: 检测到僵尸感染**"
-	}
-	"ACTIVATING BARRIER IN 5 SECONDS"
-	{
-		"chi"		"**5秒内激活屏障**"
-	}
-	"BARRIER DEACTIVATING IN 5 SECONDS"
-	{
-		"chi"		"**屏障在5秒内关闭**"
-	}
-	">>Hold the kitchen until the gate opens!<<"
-	{
-		"chi"		"**守住厨房直到大门打开!**"
-	}
-	">>Gate opening in 15 seconds<<"
-	{
-		"chi"		"**15秒后大门开启**"
-	}
-	">>Gate is opening...<<"
-	{
-		"chi"		"**门开了**"
-	}
-	">>Hold the docks until the forklift starts!<<"
-	{
-		"chi"		"**坚守码头直到叉车启动!**"
-	}
-	">>The forklift is making noises...<<"
-	{
-		"chi"		"**叉车正在发出噪音...**"
-	}
-	">>The forklift broke through the glass! Run<<"
-	{
-		"chi"		"**叉车打碎了玻璃!快跑**"
-	}
-	">>FINAL STAND! DEFEND THE SHIP!<<"
-	{
-		"chi"		"**最后一战!防守住船!**"
-	}
-	">>Hold for 45 seconds<<"
-	{
-		"chi"		"**防守45秒**"
-	}
-	">>ZOMBIES INFECTED THE HELI! GAME OVER!<<"
-	{
-		"chi"		"**僵尸感染了直升机!游戏结束!**"
-	}
-	">>15 SECONDS REMAIN UNTIL CHOPPER LEAVES<<"
-	{
-		"chi"		"**15秒后直升机起飞**"
-	}
-	">>10 SECONDS REMAIN UNTIL CHOPPER LEAVES<<"
-	{
-		"chi"		"**10秒后直升机起飞**"
-	}
-	">>20 SECONDS REMAIN<<"
-	{
-		"chi"		"**20秒**"
-	}
-	">>10 SECONDS REMAIN<<"
-	{
-		"chi"		"**10秒**"
-	}
-	">>Roof top defenders! Hold for 10 seconds!<<"
-	{
-		"chi"		"**在房顶守10秒**"
-	}
-	"**ZE_DARK_SOULS**"
-	{
-		"chi"		"** **"
-	}
-	">>Wall 2 is open!<<"
-	{
-		"chi"		"**二号墙开了**"
-	}
-	"[Map] ze_Suchirifu"
-	{
-		"chi"		"** **"
-	}
-	">>Push gun picked up!<<"
-	{
-		"chi"		"**推力枪被捡起**"
-	}
-	">>Monkey bombs picked up!<<"
-	{
-		"chi"		"**猴子炸弹被捡起**"
-	}
-	">>Freeze gun picked up!<<"
-	{
-		"chi"		"**冰冻枪被捡起**"
-	}
-	">>Escape through the hole in the walls!<<"
-	{
-		"chi"		"**从墙上的洞里逃出来!**"
-	}
-	">>THE BUILDING IS BECOMING UNSTABLE<<"
-	{
-		"chi"		"**这座建筑物正在变得不稳定**"
-	}
-	">>Hold while the elevator is called! 40 SECONDS!<<"
-	{
-		"chi"		"**等电梯来!40秒!**"
-	}
-	">>10 SECONDS UNTIL ELEVATOR LEAVES!<<"
-	{
-		"chi"		"**电梯还有10秒离开**"
-	}
-	">>Zombies wait for teleport...<<"
-	{
-		"chi"		"**僵尸请等待传送...**"
-	}
-	">>Hold for 40 seconds until C4 detonates!<<"
-	{
-		"chi"		"**距离C4引爆还有40秒**"
-	}
-	">>10 seconds left!!<<"
-	{
-		"chi"		"**还有10秒**"
-	}
-	">>Underground passage opening in 30 seconds<<"
-	{
-		"chi"		"**30秒后地下通道开放**"
-	}
-	">>Passage opening in 5 seconds<<"
-	{
-		"chi"		"** **"
-	}
-	">>SKYWALK SEALING IN 5 SECONDS<<"
-	{
-		"chi"		"**5秒后天桥封锁**"
-	}
-	">>....there is one final task to complete....<<"
-	{
-		"chi"		"**....还有最后一项任务要完成....**"
-	}
-	">>Defeat the boss to escape the Game Show<<"
-	{
-		"chi"		"**打败Boss并且逃离**"
-	}
-	">>THE BOSS IS DEFEATED!<<"
-	{
-		"chi"		"**Boss被打败了**"
-	}
-	">>ESCAPE IN THE TELEPORTER<<"
-	{
-		"chi"		"**在传送机里逃跑**"
-	}
-	">>Hold for 10 seconds!<<"
-	{
-		"chi"		"**坚守10秒**"
-	}
-	">>Keep the zombies away from the line!<<"
-	{
-		"chi"		"**让僵尸远离那条线!**"
-	}
-	">>YOU BEAT ZE_GAMESHOW!<<"
-	{
-		"chi"		"**你征服了这张地图**"
-	}
-	"Time for a much needed vacation...."
-	{
-		"chi"		"**是时候去度一个非常需要的假期了...**"
-	}
-	">>Zombies reached the line! Game over!<<"
-	{
-		"chi"		"**僵尸碰到了线!游戏结束!**"
-	}
-	">>Zombies are released!!<<"
-	{
-		"chi"		"**僵尸被释放了!**"
-	}
-	">>Ding ding!<<"
-	{
-		"chi"		"**叮叮!**"
-	}
-	"***Welcome to my first map PePeHands***"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    ">>....there is one final task to complete....<<"
+    {
+        "chi" "**....还有最后一项任务要完成....**"
+    }
+
+    ">>1...<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>10 SECONDS LEFT UNTIL C4 DETONATES!!<<"
+    {
+        "chi" "**10秒后C4爆炸**"
+    }
+
+    ">>10 seconds left!!<<"
+    {
+        "chi" "**还有10秒**"
+    }
+
+    ">>10 SECONDS LEFT<<"
+    {
+        "chi" "**还剩10秒**"
+    }
+
+    ">>10 SECONDS REMAIN UNTIL CHOPPER LEAVES<<"
+    {
+        "chi" "**10秒后直升机起飞**"
+    }
+
+    ">>10 SECONDS REMAIN!!<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>10 SECONDS REMAIN<<"
+    {
+        "chi" "**10秒**"
+    }
+
+    ">>10 SECONDS UNTIL ELEVATOR LEAVES!<<"
+    {
+        "chi" "**电梯还有10秒离开**"
+    }
+
+    ">>15 SECONDS REMAIN UNTIL CHOPPER LEAVES<<"
+    {
+        "chi" "**15秒后直升机起飞**"
+    }
+
+    ">>2...<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>20 SECONDS REMAIN<<"
+    {
+        "chi" "**20秒**"
+    }
+
+    ">>3...<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>30 seconds remain<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>30 SECONDS REMAIN<<"
+    {
+        "chi" "**还剩30秒**"
+    }
+
+    ">>4...<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>40 SECONDS REMAIN<<"
+    {
+        "chi" "**还剩40秒**"
+    }
+
+    ">>5...<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>After buying a special weapon"
+    {
+        "chi" "**购买一件特殊武器**"
+    }
+
+    ">>All four monkey bombs used!<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>C4 explodes in 10 seconds!<<"
+    {
+        "chi" "**距离C4爆炸还有10秒**"
+    }
+
+    ">>Defeat the boss to escape the Game Show<<"
+    {
+        "chi" "**打败Boss并且逃离**"
+    }
+
+    ">>Defend for 50 seconds until the nuke is detonated!<<"
+    {
+        "chi" "**防御50秒直到核弹被引爆!**"
+    }
+
+    ">>Delay and the teleporter will reactivate!!<<"
+    {
+        "chi" "**延迟传送将重启**"
+    }
+
+    ">>Ding ding!<<"
+    {
+        "chi" "**叮叮!**"
+    }
+
+    ">>Door opens in 5 seconds!<<"
+    {
+        "chi" "**5秒后开门**"
+    }
+
+    ">>ESCAPE IN THE TELEPORTER<<"
+    {
+        "chi" "**在传送机里逃跑**"
+    }
+
+    ">>Escape through the hole in the walls!<<"
+    {
+        "chi" "**从墙上的洞里逃出来!**"
+    }
+
+    ">>Fall back!<<"
+    {
+        "chi" "**撤退!**"
+    }
+
+    ">>FALL BACK<<"
+    {
+        "chi" "**撤退**"
+    }
+
+    ">>FINAL STAND! DEFEND THE SHIP!<<"
+    {
+        "chi" "**最后一战!防守住船!**"
+    }
+
+    ">>Freeze gun picked up!<<"
+    {
+        "chi" "**冰冻枪被捡起**"
+    }
+
+    ">>GAME OVER IF ZOMBIES GET IN THE BUNKER<<"
+    {
+        "chi" "**一旦僵尸进入地堡我们都完了**"
+    }
+
+    ">>Gate is opening...<<"
+    {
+        "chi" "**门开了**"
+    }
+
+    ">>Gate opening in 15 seconds<<"
+    {
+        "chi" "**15秒后大门开启**"
+    }
+
+    ">>GENERATOR IS DESTROYED! RETURN TO THE HELIPAD<<"
+    {
+        "chi" "**发电机坏了!返回直升机停机坪**"
+    }
+
+    ">>GET INTO THE AIRSHIP AND DESTROY THE ENGINE!<<"
+    {
+        "chi" "**进入飞艇, 摧毁引擎!**"
+    }
+
+    ">>HANGER DOOR OPENS IN 10 SECONDS<<"
+    {
+        "chi" "**10秒后挂门打开**"
+    }
+
+    ">>HELI LEAVES IN 30 SECONDS!!<<"
+    {
+        "chi" "**直升机30秒后起飞**"
+    }
+
+    ">>Hold for 10 seconds!<<"
+    {
+        "chi" "**坚守10秒**"
+    }
+
+    ">>Hold for 20 seconds while the door opens!<<"
+    {
+        "chi" "**门开后继续守20秒**"
+    }
+
+    ">>Hold for 40 seconds until C4 detonates!<<"
+    {
+        "chi" "**距离C4引爆还有40秒**"
+    }
+
+    ">>Hold for 45 seconds<<"
+    {
+        "chi" "**防守45秒**"
+    }
+
+    ">>HOLD THE CABIN FOR 40 SECONDS<<"
+    {
+        "chi" "**坚守客舱40秒**"
+    }
+
+    ">>Hold the docks until the forklift starts!<<"
+    {
+        "chi" "**坚守码头直到叉车启动!**"
+    }
+
+    ">>HOLD THE ENGINE ROOM FOR 40 SECONDS!<<"
+    {
+        "chi" "**防守住引擎室40秒**"
+    }
+
+    ">>HOLD THE HARBOR FOR 50 SECONDS<<"
+    {
+        "chi" "**守住港口50秒**"
+    }
+
+    ">>Hold the kitchen until the gate opens!<<"
+    {
+        "chi" "**守住厨房直到大门打开!**"
+    }
+
+    ">>Hold the sewer for 15 seconds!<<"
+    {
+        "chi" "**在下水道守住15秒**"
+    }
+
+    ">>Hold the Train Station for 30 seconds!<<"
+    {
+        "chi" "**守住火车站30秒**"
+    }
+
+    ">>Hold while the elevator is called! 40 SECONDS!<<"
+    {
+        "chi" "**等电梯来!40秒!**"
+    }
+
+    ">>Keep the zombies away from the line!<<"
+    {
+        "chi" "**让僵尸远离那条线!**"
+    }
+
+    ">>LEVEL 1 SELECTED...<<"
+    {
+        "chi" "**关卡选择: 1**"
+    }
+
+    ">>LEVEL 2 SELECTED...<<"
+    {
+        "chi" "**关卡选择: 2**"
+    }
+
+    ">>LEVEL 3 SELECTED...<<"
+    {
+        "chi" "**关卡选择: 3**"
+    }
+
+    ">>Level commencing in 1...<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>Level commencing in 2...<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>Level commencing in 3...<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>MAP BY DREAM EATER<<"
+    {
+        "chi" "**地图作者Dream Eater**"
+    }
+
+    ">>Monkey bombs picked up!<<"
+    {
+        "chi" "**猴子炸弹被捡起**"
+    }
+
+    ">>Nuclear fallout base activating!<<"
+    {
+        "chi" "**核辐射基地启动!**"
+    }
+
+    ">>OH SHIT! ADMIN HIT THE NUKE BUTTON<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>Parking garage zombie gate opened....<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>Passage opening in 5 seconds<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>Pick a level! You have 10 seconds!<<"
+    {
+        "chi" "**选择难度!你有十秒钟!**"
+    }
+
+    ">>PICKING A RANDOM MIDDLE WALL IN 30 SECONDS!<<"
+    {
+        "chi" "**30秒内随机选取一面墙壁**"
+    }
+
+    ">>Push gun picked up!<<"
+    {
+        "chi" "**推力枪被捡起**"
+    }
+
+    ">>Restarting to avoid problems! (Sorry!)<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>Roof top defenders! Hold for 10 seconds!<<"
+    {
+        "chi" "**在房顶守10秒**"
+    }
+
+    ">>Sewer defenders fall back!<<"
+    {
+        "chi" "**还在下水道的人快撤!**"
+    }
+
+    ">>SKYWALK SEALING IN 5 SECONDS<<"
+    {
+        "chi" "**5秒后天桥封锁**"
+    }
+
+    ">>Someone enter the secret DJ room!<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>THE BOSS IS DEFEATED!<<"
+    {
+        "chi" "**Boss被打败了**"
+    }
+
+    ">>THE BUILDING IS BECOMING UNSTABLE<<"
+    {
+        "chi" "**这座建筑物正在变得不稳定**"
+    }
+
+    ">>The city is infected! Hold the street from the zombies!<<"
+    {
+        "chi" "**这座城市沦陷了!在街道抵御僵尸进攻!**"
+    }
+
+    ">>The end is near...<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>The forklift broke through the glass! Run<<"
+    {
+        "chi" "**叉车打碎了玻璃!快跑**"
+    }
+
+    ">>The forklift is making noises...<<"
+    {
+        "chi" "**叉车正在发出噪音...**"
+    }
+
+    ">>Uh oh... two maps were picked at the same time...<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>Underground passage opening in 30 seconds<<"
+    {
+        "chi" "**30秒后地下通道开放**"
+    }
+
+    ">>Wall 1 is open!<<"
+    {
+        "chi" "**墙壁1打开**"
+    }
+
+    ">>Wall 2 is open!<<"
+    {
+        "chi" "**二号墙开了**"
+    }
+
+    ">>Wall 3 is open!<<"
+    {
+        "chi" "**墙壁3打开了**"
+    }
+
+    ">>Wall 4 is open!<<"
+    {
+        "chi" "**墙4秒后打开**"
+    }
+
+    ">>Weapons don't damage in the lobby!<<"
+    {
+        "chi" "**武器在大厅内不造成伤害**"
+    }
+
+    ">>YOU BEAT ZE_GAMESHOW!<<"
+    {
+        "chi" "**你征服了这张地图**"
+    }
+
+    ">>YOU WIN! BACK TO THE LOBBY!<<"
+    {
+        "chi" "**你赢了!返回大厅**"
+    }
+
+    ">>Zombies are released!!<<"
+    {
+        "chi" "**僵尸被释放了!**"
+    }
+
+    ">>ZOMBIES GOT INTO THE BUNKER! GAME OVER!<<"
+    {
+        "chi" "**僵尸进了地堡!GG!**"
+    }
+
+    ">>ZOMBIES INFECTED THE HELI! GAME OVER!<<"
+    {
+        "chi" "**僵尸感染了直升机!游戏结束!**"
+    }
+
+    ">>Zombies reached the line! Game over!<<"
+    {
+        "chi" "**僵尸碰到了线!游戏结束!**"
+    }
+
+    ">>Zombies wait for teleport...<<"
+    {
+        "chi" "**僵尸请等待传送...**"
+    }
+
+    "ACTIVATING BARRIER IN 5 SECONDS"
+    {
+        "chi" "**5秒内激活屏障**"
+    }
+
+    "BARRIER DEACTIVATING IN 5 SECONDS"
+    {
+        "chi" "**屏障在5秒内关闭**"
+    }
+
+    "Time for a much needed vacation...."
+    {
+        "chi" "**是时候去度一个非常需要的假期了...**"
+    }
+
+    "WARNING: ZOMBIE INFESTATION DETECTED"
+    {
+        "chi" "**警告: 检测到僵尸感染**"
+    }
+
 }

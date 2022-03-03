@@ -1,119 +1,159 @@
 "Console_T"
 {
-	"<< World 1st Winner is coming!!! >>"
-	{
-		"chi"		"** **"
-	}
-	"<< End in 120 seconds >>"
-	{
-		"chi"		"**120**"
-	}
-	"<< Warning: 20 seconds left >>"
-	{
-		"chi"		"**20**"
-	}
-	"<< Admin select stage square >>"
-	{
-		"chi"		"**方形载入**"
-	}
-	"<< Admin select stage circle >>"
-	{
-		"chi"		"**圆形载入**"
-	}
-	"<< Hold for 35 seconds>>"
-	{
-		"chi"		"**防守35秒**"
-	}
-	"<< Hold for 30 seconds >>"
-	{
-		"chi"		"***防守30秒*"
-	}
-	"<< Hold for 20 seconds >>"
-	{
-		"chi"		"**防守20秒**"
-	}
-	"<< Admin select stage triangle >>"
-	{
-		"chi"		"**三角形载入**"
-	}
-	"<< Admin select the final stage >>"
-	{
-		"chi"		"**几何世界载入**"
-	}
-	"<< RTV plz >>"
-	{
-		"chi"		"** **"
-	}
-	"<< ... >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Hold for 15 seconds >>"
-	{
-		"chi"		"**防守15秒**"
-	}
-	"<< STAGE COMPLETE >>"
-	{
-		"chi"		"**人类胜利**"
-	}
-	"<< 10 seconds >>"
-	{
-		"chi"		"**10**"
-	}
-	"<< Hold for 25 seconds >>"
-	{
-		"chi"		"**防守25秒**"
-	}
-	"<< Hold for 35 seconds >>"
-	{
-		"chi"		"**防守35秒**"
-	}
-	"<< Hold for 60 seconds >>"
-	{
-		"chi"		"**防守60秒**"
-	}
-	"<< Platform will move in 8 seconds >>"
-	{
-		"chi"		"**平台将在8秒后移动**"
-	}
-	"<< Shooting the square to recharge the power of the lift >>"
-	{
-		"chi"		"**破坏晶体为电梯充能**"
-	}
-	"<< The lift will RE-recharge if the power is more than 100 >>"
-	{
-		"chi"		"**充能完成,电梯将会重启**"
-	}
-	"<< TIPS: red square will get 10 power >>"
-	{
-		"chi"		"**红色: 1/10**"
-	}
-	"<< TIPS: green square will get 20 power >>"
-	{
-		"chi"		"**绿色: 1/5**"
-	}
-	"<< TIPS: blue square will get 30 power >>"
-	{
-		"chi"		"**蓝色: 3/10**"
-	}
-	"<< TIPS: white square will refresh other square >>"
-	{
-		"chi"		"**白色: 刷新晶体**"
-	}
-	"OVERLOAD!!!"
-	{
-		"chi"		"**过载!!!**"
-	}
-	"Current Power: 0"
-	{
-		"chi"		"**完成充能: 0...**"
-	}
-	"COMPLETE!!!"
-	{
-		"chi"		"**完毕!!!**"
-	}
-	"<< quiet before the storm...... >>"
-	{
-		"chi"		"**新的风暴已经出现**"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "<< ... >>"
+    {
+        "chi" "__null__"
+    }
+
+    "<< 10 seconds >>"
+    {
+        "chi" "**10**"
+    }
+
+    "<< Admin select stage circle >>"
+    {
+        "chi" "**圆形载入**"
+    }
+
+    "<< Admin select stage square >>"
+    {
+        "chi" "**方形载入**"
+    }
+
+    "<< Admin select stage triangle >>"
+    {
+        "chi" "**三角形载入**"
+    }
+
+    "<< Admin select the final stage >>"
+    {
+        "chi" "**几何世界载入**"
+    }
+
+    "<< End in 120 seconds >>"
+    {
+        "chi" "**120**"
+    }
+
+    "<< Hold for 15 seconds >>"
+    {
+        "chi" "**防守15秒**"
+    }
+
+    "<< Hold for 20 seconds >>"
+    {
+        "chi" "**防守20秒**"
+    }
+
+    "<< Hold for 25 seconds >>"
+    {
+        "chi" "**防守25秒**"
+    }
+
+    "<< Hold for 30 seconds >>"
+    {
+        "chi" "***防守30秒*"
+    }
+
+    "<< Hold for 35 seconds >>"
+    {
+        "chi" "**防守35秒**"
+    }
+
+    "<< Hold for 35 seconds>>"
+    {
+        "chi" "**防守35秒**"
+    }
+
+    "<< Hold for 60 seconds >>"
+    {
+        "chi" "**防守60秒**"
+    }
+
+    "<< Platform will move in 8 seconds >>"
+    {
+        "chi" "**平台将在8秒后移动**"
+    }
+
+    "<< quiet before the storm...... >>"
+    {
+        "chi" "**新的风暴已经出现**"
+    }
+
+    "<< reverse...... >>"
+    {
+        "chi" "__null__"
+    }
+
+    "<< RTV plz >>"
+    {
+        "chi" "__null__"
+    }
+
+    "<< RTV2 >>"
+    {
+        "chi" "__null__"
+    }
+
+    "<< RTV3 >>"
+    {
+        "chi" "__null__"
+    }
+
+    "<< Shooting the square to recharge the power of the lift >>"
+    {
+        "chi" "**破坏晶体为电梯充能**"
+    }
+
+    "<< STAGE COMPLETE >>"
+    {
+        "chi" "**人类胜利**"
+    }
+
+    "<< The lift will RE-recharge if the power is more than 100 >>"
+    {
+        "chi" "**充能完成,电梯将会重启**"
+    }
+
+    "<< TIPS: blue square will get 30 power >>"
+    {
+        "chi" "**蓝色: 3/10**"
+    }
+
+    "<< TIPS: green square will get 20 power >>"
+    {
+        "chi" "**绿色: 1/5**"
+    }
+
+    "<< TIPS: red square will get 10 power >>"
+    {
+        "chi" "**红色: 1/10**"
+    }
+
+    "<< TIPS: white square will refresh other square >>"
+    {
+        "chi" "**白色: 刷新晶体**"
+    }
+
+    "<< Warning: 20 seconds left >>"
+    {
+        "chi" "**20**"
+    }
+
+    "<< World 1st Winner is coming!!! >>"
+    {
+        "chi" "__null__"
+    }
+
 }

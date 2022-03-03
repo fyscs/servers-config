@@ -1,0 +1,84 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** Nuke launched! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Rescue boats are leaving ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Rescue boats departing in 10 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Rescue boats departing in 15 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Rescue boats departing in 30 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Rescue boats departing in 5 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Rescue boats inbound ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Rescue helicopter departing in 10 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Rescue helicopter departing in 15 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Rescue helicopter departing in 30 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Rescue helicopter departing in 5 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Rescue helicopter is leaving ***"
+    {
+        "chi" "__null__"
+    }
+
+    "***MAP EXPORTED TO CSGO BY BIOHAZARD***"
+    {
+        "chi" "__null__"
+    }
+
+    "***WWW.FOG.ASSO.FR***"
+    {
+        "chi" "__null__"
+    }
+
+}

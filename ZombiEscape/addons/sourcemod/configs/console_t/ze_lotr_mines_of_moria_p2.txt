@@ -1,171 +1,164 @@
 "Console_T"
 {
-	"**Map by: Hannibal [SPA] (Rafuron)**"
-	{
-		"chi"		"**地图制作: Hannibal [SPA] (Rafuron)  地图翻译: 萌大奶＆户冢彩加@风云社**"
-	}
-	"**Bring the ring to Khazad-Dum bridge to win easily**"
-	{
-		"chi"		"**人类快把魔戒带到Khazad-Dum大桥**"
-	}
-	"**The ring has been picked!**"
-	{
-		"chi"		"**有玩家捡起了魔戒**"
-	}
-	"**Saruman staff has been picked!**"
-	{
-		"chi"		"**有玩家拾起了减速法杖**"
-	}
-	"**Humans have reached Balins tomb! Resist 55 s**"
-	{
-		"chi"		"**守住Balins的坟墓55秒**"
-	}
-	"**Balins door closing in 10 s**"
-	{
-		"chi"		"**坟墓大门将会在10秒后关闭**"
-	}
-	"**Zombies have been alerted!**"
-	{
-		"chi"		"**僵尸来了**"
-	}
-	"**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
-	{
-		"chi"		"**炎魔将会在15秒后到楼梯**"
-	}
-	"**Resist 30 s**"
-	{
-		"chi"		"**坚守僵尸30秒**"
-	}
-	"**Resist 15 s**"
-	{
-		"chi"		"**坚守僵尸15秒**"
-	}
-	"**Go to the Khazad-Dum bridge!**"
-	{
-		"chi"		"**快跑到Khazad-Dum大桥!**"
-	}
-	"**Gandalf staff has been picked!**"
-	{
-		"chi"		"**有玩家拾起了甘道夫法杖**"
-	}
-	"**Stay in the circle! Zombies cant go in!**"
-	{
-		"chi"		"**僵尸看起来无法接近圣光 我们进去吧**"
-	}
-	"** Protection ring will close in 15 s **"
-	{
-		"chi"		"**圣光将会在15秒后消逝**"
-	}
-	"** ... **"
-	{
-		"chi"		"** **"
-	}
-	"** Moria is unstable! Run towards the stairs in  **"
-	{
-		"chi"		"**快跑到楼梯那边!**"
-	}
-	"**5**"
-	{
-		"chi"		"**5秒**"
-	}
-	"**4**"
-	{
-		"chi"		"**4秒**"
-	}
-	"**3**"
-	{
-		"chi"		"**3秒**"
-	}
-	"**2**"
-	{
-		"chi"		"**2秒**"
-	}
-	"**1**"
-	{
-		"chi"		"**1秒**"
-	}
-	"**Go!**"
-	{
-		"chi"		"**快跑**"
-	}
-	"**Balrog coming to BALIN AND COLUMN ZONE in 15s**"
-	{
-		"chi"		"**炎魔将会在15秒后到达巴林的墓室**"
-	}
-	"**(Zombies) The door to Khazad-Dum bridge is now open**"
-	{
-		"chi"		"**(僵尸)现在可以前往Khazad-Dum了**"
-	}
-	"**Balrog coming to SUPERIOR STAIRS ZONE in 15s**"
-	{
-		"chi"		"**炎魔将会在15秒后到达巨型楼梯**"
-	}
-	"**Gandalf in the middle**"
-	{
-		"chi"		"**甘道夫屹立在桥中央(不过好像一刀死)**"
-	}
-	"**Gandalf is dead!**"
-	{
-		"chi"		"**甘道夫死了......**"
-	}
-	"**Protect Gandalf during 35s! He must break the bridge! **"
-	{
-		"chi"		"**人类一定要守住甘道夫至少35秒才行!**"
-	}
-	"**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**"
-	{
-		"chi"		"**人类把魔戒带到了Khazad-Dum 木桥摧毁**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"**Humans have reached Balin's tomb! Resist 55 s**"
-	{
-		"chi"		"** **"
-	}
-	"**Balin's door closing in 10 s**"
-	{
-		"chi"		"** **"
-	}
-	"**Stay in the circle! Zombies can't go in!**"
-	{
-		"chi"		"** **"
-	}
-	"*** ze_Chrono_Trigger. ***"
-	{
-		"chi"		"** **"
-	}
-	"For POSSESSION, Respect to Sakura"
-	{
-		"chi"		"** **"
-	}
-	"Based-map by Xquality"
-	{
-		"chi"		"** **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** TRUCK EVACUATION ***"
-	{
-		"chi"		"** **"
-	}
-	"+++  MAP MADE BY GARGANTUA +++"
-	{
-		"chi"		"** **"
-	}
-	"**Stage 1**"
-	{
-		"chi"		"** **"
-	}
-	"- Level 1 -"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL: EASY<<"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** ... **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Moria is unstable! Run towards the stairs in  **"
+    {
+        "chi" "**快跑到楼梯那边!**"
+    }
+
+    "** Protection ring will close in 15 s **"
+    {
+        "chi" "**圣光将会在15秒后消逝**"
+    }
+
+    "**(Zombies) The door to Khazad-Dum bridge is now open**"
+    {
+        "chi" "**(僵尸)现在可以前往Khazad-Dum了**"
+    }
+
+    "**1**"
+    {
+        "chi" "**1秒**"
+    }
+
+    "**2**"
+    {
+        "chi" "**2秒**"
+    }
+
+    "**3**"
+    {
+        "chi" "**3秒**"
+    }
+
+    "**4**"
+    {
+        "chi" "**4秒**"
+    }
+
+    "**5**"
+    {
+        "chi" "**5秒**"
+    }
+
+    "**Balin's door closing in 10 s**"
+    {
+        "chi" "__null__"
+    }
+
+    "**Balrog coming to BALIN AND COLUMN ZONE in 15s**"
+    {
+        "chi" "**炎魔将会在15秒后到达巴林的墓室**"
+    }
+
+    "**Balrog coming to SPAWN CAVE AND LADDER ZONE in 15s**"
+    {
+        "chi" "**炎魔将会在15秒后到楼梯**"
+    }
+
+    "**Balrog coming to SUPERIOR STAIRS ZONE in 15s**"
+    {
+        "chi" "**炎魔将会在15秒后到达巨型楼梯**"
+    }
+
+    "**Bring the ring to Khazad-Dum bridge to win easily**"
+    {
+        "chi" "**人类快把魔戒带到Khazad-Dum大桥**"
+    }
+
+    "**Congratulations! The ring has reached Khazad-Dum! The wooden bridge has been destroyed**"
+    {
+        "chi" "**人类把魔戒带到了Khazad-Dum 木桥摧毁**"
+    }
+
+    "**Gandalf in the middle**"
+    {
+        "chi" "**甘道夫屹立在桥中央(不过好像一刀死)**"
+    }
+
+    "**Gandalf is dead!**"
+    {
+        "chi" "**甘道夫死了......**"
+    }
+
+    "**Gandalf staff has been picked!**"
+    {
+        "chi" "**有玩家拾起了甘道夫法杖**"
+    }
+
+    "**Go to the Khazad-Dum bridge!**"
+    {
+        "chi" "**快跑到Khazad-Dum大桥!**"
+    }
+
+    "**Go!**"
+    {
+        "chi" "**快跑**"
+    }
+
+    "**Humans have reached Balin's tomb! Resist 55 s**"
+    {
+        "chi" "__null__"
+    }
+
+    "**Map by: Hannibal [SPA] (Rafuron)**"
+    {
+        "chi" "**地图制作: Hannibal [SPA] (Rafuron)  地图翻译: 萌大奶＆户冢彩加@风云社**"
+    }
+
+    "**Protect Gandalf during 35s! He must break the bridge! **"
+    {
+        "chi" "**人类一定要守住甘道夫至少35秒才行!**"
+    }
+
+    "**Resist 15 s**"
+    {
+        "chi" "**坚守僵尸15秒**"
+    }
+
+    "**Resist 30 s**"
+    {
+        "chi" "**坚守僵尸30秒**"
+    }
+
+    "**Saruman staff has been picked!**"
+    {
+        "chi" "**有玩家拾起了减速法杖**"
+    }
+
+    "**Stay in the circle! Zombies can't go in!**"
+    {
+        "chi" "__null__"
+    }
+
+    "**The ring has been picked!**"
+    {
+        "chi" "**有玩家捡起了魔戒**"
+    }
+
+    "**Zombies have been alerted!**"
+    {
+        "chi" "**僵尸来了**"
+    }
+
+    "ay ** MAP BY HANNIBAL [SPA] (Rafuron) **"
+    {
+        "chi" "__null__"
+    }
+
 }

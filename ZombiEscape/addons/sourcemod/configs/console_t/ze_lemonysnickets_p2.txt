@@ -1,202 +1,179 @@
 "Console_T"
 {
-	"*Map created by Snake*"
-	{
-		"chi"		"**地图作者: Snake 地图翻译: 户冢彩加&萌大奶@风云社**"
-	}
-	"*Defend Inside for 45s!*"
-	{
-		"chi"		"**防御45秒!加油兄弟萌!**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"*5 Seconds Left!*"
-	{
-		"chi"		"**还有5秒!快了!准备撤退!**"
-	}
-	"*Hold here for 30s!*"
-	{
-		"chi"		"**抵御僵尸30秒!守住这里!**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"*10 seconds left!*"
-	{
-		"chi"		"**守住僵尸10秒!坚守!**"
-	}
-	"*Defend here for 15 sec*"
-	{
-		"chi"		"**在这里守住僵尸15秒!开枪! **"
-	}
-	"*Hold for another 5s!*"
-	{
-		"chi"		"**守住另一个道路5秒!准备好撤退! **"
-	}
-	"*Someone has to get inside to open the doors*"
-	{
-		"chi"		"**要有人进去打开门!gkd! **"
-	}
-	"*Zombies have crawled through the window!*"
-	{
-		"chi"		"**有僵尸从窗户进来了!防御! **"
-	}
-	"*Castle Doors open in 15s!*"
-	{
-		"chi"		"**城堡大门在15秒后打开!守住这里! **"
 
-	}
-	"*Castle Doors Open!*"
-	{
-		"chi"		"**城堡大门开了!fallbcak! **"
-	}
-	"*Portal is Charging*"
-	{
-		"chi"		"**传送门需要充能才能打开!我们快去! **"
-	}
-	"*Portal 25 percent charged*"
-	{
-		"chi"		"**已充能1/4!加油啊! **"
-	}
-	"*Portal 50 percent charged!*"
-	{
-		"chi"		"**已充能一半了! **"
-	}
-	"*Portal 75 percent charged!!*"
-	{
-		"chi"		"**已充能3/4 !准备撤退!**"
-	}
-	"*Portal 100 percent charged!*"
-	{
-		"chi"		"**充能完成!nice! **"
-	}
-	"*Jump into the middle of the portal!*"
-	{
-		"chi"		"**快进门!fallback!**"
-	}
-	"*Gate will open soon defend!*"
-	{
-		"chi"		"**门即将打开, 守住! **"
-	}
-	"*Zombie boat door broken!*"
-	{
-		"chi"		"**门碎了, 僵尸上船了 **"
-	}
-	"*Zombie boat leaving in 10s*"
-	{
-		"chi"		"**僵尸船10秒后离开 **"
-	}
-	"*Zombie boat is leaving!*"
-	{
-		"chi"		"**僵尸船已离开! **"
-	}
-	"*Back Gate Open*"
-	{
-		"chi"		"**后面的门开了!撤退! **"
-	}
-	"*Hold here!*"
-	{
-		"chi"		"**守住这里!加油兄弟! **"
-	}
-	"*Gates are open!*"
-	{
-		"chi"		"**门开了!撤退! **"
-	}
-	"*Nuke in 30 sec!*"
-	{
-		"chi"		"**侦测到我方核聚变打击在30秒后抵达!防守! **"
-	}
-	"*Nuke in 10 sec!*"
-	{
-		"chi"		"**侦测到我方核聚变打击在10秒后抵达! 快结束了!**"
-	}
-	"*Map ported by Et3rnity*"
-	{
-		"chi"		"** **"
-	}
-	"*Kill all remaining zombies!*"
-	{
-		"chi"		"**杀光所有剩余的僵尸!**"
-	}
-	"*Defend here for 30 seconds*"
-	{
-		"chi"		"**守住僵尸30秒!加油!**"
-	}
-	"*Hold for another 10s!*"
-	{
-		"chi"		"**守住僵尸10秒!快了!**"
-	}
-	"*5s left! Get ready to run!*"
-	{
-		"chi"		"**还剩5秒, 准备撤退!**"
-	}
-	"*Hold here for 65 s*"
-	{
-		"chi"		"**守住这里65秒!防御!!!**"
-	}
-	"*5 Seconds left*"
-	{
-		"chi"		"**还剩5秒!**"
-	}
-	"*Gate will open in 55 seconds!*"
-	{
-		"chi"		"**大门将会在55秒后打开!抵御僵尸的进攻!**"
-	}
-	"*Gate will open in 20 seconds!*"
-	{
-		"chi"		"**大门将会在20秒后打开!准备好撤退!**"
-	}
-	"*Rocket Launched!*"
-	{
-		"chi"		"**火箭发射!**"
-	}
-	"*5 seconds until gate opens!!*"
-	{
-		"chi"		"**守住僵尸5秒直到大门打开!**"
-	}
-	"*Survive another 30 seconds!*"
-	{
-		"chi"		"**在这里生存30秒!守住这里!**"
-	}
-	"*Hold here for 35s!*"
-	{
-		"chi"		"**在这里守住35s抵御僵尸!**"
-	}
-	"*Youre taking too long!*"
-	{
-		"chi"		"**你花的时间太长了**"
-	}
-	"LEVEL: EASY"
-	{
-		"chi"		"**关卡难度: 简单**"
-	}
-	"*** Special Thanks testing: GFL & MAPEADORES  ***"
-	{
-		"chi"		"** **"
-	}
-	"***Welcome to Crazy Kart***"
-	{
-		"chi"		"** **"
-	}
-	"***MAP BY LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"***Thanks to Enviolinador for the green shell bouncevector logic***"
-	{
-		"chi"		"** **"
-	}
-	"***Modified by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	"***60 SECONDS LEFT***"
-	{
-		"chi"		"** **"
-	}
-	"***WARM UP ROUIND***"
-	{
-		"chi"		"** **"
-	}
-	"[NORMAL MODE]"
-	{
-		"chi"		"** **"
-	}
+    "*10 seconds left!*"
+    {
+        "chi" "**守住僵尸10秒!坚守!**"
+    }
+
+    "*5 seconds left!*"
+    {
+        "chi" "__null__"
+    }
+
+    "*5 Seconds Left!*"
+    {
+        "chi" "**还有5秒!快了!准备撤退!**"
+    }
+
+    "*5 Seconds left*"
+    {
+        "chi" "**还剩5秒!**"
+    }
+
+    "*5 seconds until gate opens!!*"
+    {
+        "chi" "**守住僵尸5秒直到大门打开!**"
+    }
+
+    "*5s left! Get ready to run!*"
+    {
+        "chi" "**还剩5秒, 准备撤退!**"
+    }
+
+    "*Back Gate Open*"
+    {
+        "chi" "**后面的门开了!撤退! **"
+    }
+
+    "*Castle Doors open in 15s!*"
+    {
+        "chi" "**城堡大门在15秒后打开!守住这里! **"
+    }
+
+    "*Castle Doors Open!*"
+    {
+        "chi" "**城堡大门开了!fallbcak! **"
+    }
+
+    "*Defend here for 30 Seconds*"
+    {
+        "chi" "__null__"
+    }
+
+    "*Defend Inside for 45s!*"
+    {
+        "chi" "**防御45秒!加油兄弟萌!**"
+    }
+
+    "*Gate will open in 20 seconds!*"
+    {
+        "chi" "**大门将会在20秒后打开!准备好撤退!**"
+    }
+
+    "*Gate will open in 55 seconds!*"
+    {
+        "chi" "**大门将会在55秒后打开!抵御僵尸的进攻!**"
+    }
+
+    "*Gates are open!*"
+    {
+        "chi" "**门开了!撤退! **"
+    }
+
+    "*Hold for another 10s!*"
+    {
+        "chi" "**守住僵尸10秒!快了!**"
+    }
+
+    "*Hold here for 30s!*"
+    {
+        "chi" "**抵御僵尸30秒!守住这里!**"
+    }
+
+    "*Hold here for 35s!*"
+    {
+        "chi" "**在这里守住35s抵御僵尸!**"
+    }
+
+    "*Hold here for 65 s*"
+    {
+        "chi" "**守住这里65秒!防御!!!**"
+    }
+
+    "*Jump into the middle of the portal!*"
+    {
+        "chi" "**快进门!fallback!**"
+    }
+
+    "*Map created by Snake*"
+    {
+        "chi" "**地图作者: Snake 地图翻译: 户冢彩加&萌大奶@风云社**"
+    }
+
+    "*Portal 100 percent charged!*"
+    {
+        "chi" "**充能完成!nice! **"
+    }
+
+    "*Portal 25 percent charged*"
+    {
+        "chi" "**已充能1/4!加油啊! **"
+    }
+
+    "*Portal 50 percent charged!*"
+    {
+        "chi" "**已充能一半了! **"
+    }
+
+    "*Portal 75 percent charged!!*"
+    {
+        "chi" "**已充能3/4 !准备撤退!**"
+    }
+
+    "*Portal is Charging*"
+    {
+        "chi" "**传送门需要充能才能打开!我们快去! **"
+    }
+
+    "*Rocket Launched!*"
+    {
+        "chi" "**火箭发射!**"
+    }
+
+    "*Someone has to get inside to open the doors*"
+    {
+        "chi" "**要有人进去打开门!gkd! **"
+    }
+
+    "*Survive another 30 seconds!*"
+    {
+        "chi" "**在这里生存30秒!守住这里!**"
+    }
+
+    "*You're taking too long!*"
+    {
+        "chi" "__null__"
+    }
+
+    "*Zombie boat door broken!*"
+    {
+        "chi" "**门碎了, 僵尸上船了 **"
+    }
+
+    "*Zombie boat is leaving!*"
+    {
+        "chi" "**僵尸船已离开! **"
+    }
+
+    "*Zombie boat leaving in 10s*"
+    {
+        "chi" "**僵尸船10秒后离开 **"
+    }
+
+    "*Zombies have crawled through the window!*"
+    {
+        "chi" "**有僵尸从窗户进来了!防御! **"
+    }
+
 }

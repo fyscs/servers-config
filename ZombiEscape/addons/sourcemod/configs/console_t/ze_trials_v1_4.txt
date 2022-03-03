@@ -1,259 +1,274 @@
 "Console_T"
 {
-	"<<< Map by Jllaneras >>>"
-	{
-		"chi"		">>>作者:JLLaneras翻译:Sakura@风云社<<<"
-	}
-	"<<< Trial 1 >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Door opens in 30 seconds! >>>"
-	{
-		"chi"		">>>大门将在30秒后开启!开枪啊!兄弟萌!<<<"
-	}
-	"<<< Zombies teleport in 40 seconds! >>>"
-	{
-		"chi"		">>>僵尸将在40秒后进行传送!<<<"
-	}
-	"<<< Press"
-	{
-		"chi"		"** **"
-	}
-	"<<< Wall has been picked up! >>>"
-	{
-		"chi"		">>>玩家拾取了墙<<<"
-	}
-	"<<< Door_opens in 30 seconds! >>>"
-	{
-		"chi"		">>>门将在30秒后打开!多打一点钱!<<<"
-	}
-	"<<< Walk backwards and press"
-	{
-		"chi"		">>>往后走!撤退!fall!back!<<<"
-	}
-	"<<< Zombie has speed! >>>"
-	{
-		"chi"		">>>僵尸捡起了加速!<<<"
-	}
-	"<<< Fence opens in 30 seconds! >>>"
-	{
-		"chi"		">>>铁栅栏30秒后开放!回头守住!<<<"
-	}
-	"<<< Zombie used speed! >>>"
-	{
-		"chi"		">>>僵尸使用了加速!他来了!!!<<<"
-	}
-	"<<< Zombies teleport in 25 seconds! >>>"
-	{
-		"chi"		">>>僵尸将在二十五秒后进行传送<<<"
-	}
-	"<<< Door opens in 45 seconds! >>>"
-	{
-		"chi"		">>>大门将在45秒后开启!小心僵尸!<<<"
-	}
-	"<<< Doors open in 15 seconds! >>>"
-	{
-		"chi"		">>>大门将在15秒后开启!加油啊!快开启了!<<<"
-	}
-	"<<< Wall used! >>>"
-	{
-		"chi"		">>>使用了墙<<<"
-	}
-	"<<< Bridge breaks in 10 seconds! >>>"
-	{
-		"chi"		">>>10秒后桥将会断裂!守住!守住!<<<"
-	}
-	"<<< Zombies teleport in 10 seconds! >>>"
-	{
-		"chi"		"**僵尸将在10秒后传送**"
-	}
-	"<<< Ultra Beam >>>"
-	{
-		"chi"		"**超光束**"
-	}
-	"<<< Ominous Wind >>>"
-	{
-		"chi"		"**妖风**"
-	}
-	"<<< Ramming Bolts >>>"
-	{
-		"chi"		">>>旋转激光<<<"
-	}
-	"<<< Spinning Pushing Bolts >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Zombies teleport in 20 seconds! >>>"
-	{
-		"chi"		"**僵尸将在20秒后传送**"
-	}
-	"<<< You got the sky scroll! >>>"
-	{
-		"chi"		"**你得到了天空卷轴!**"
-	}
-	"<<< Defend for 20 seconds! >>>"
-	{
-		"chi"		">>>守住这里20秒<<<"
-	}
-	"<<< Defend for 10 more seconds! >>>"
-	{
-		"chi"		">>>还有个10秒<<<"
-	}
-	"<<< Trial 1 Complete! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Trial 2 >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Wand has been picked up! >>>"
-	{
-		"chi"		">>>玩家拾取了push<<<"
-	}
-	"<<< Door closing in 25 seconds! >>>"
-	{
-		"chi"		">>>大门25秒后关闭!赏它个麻辣烫!<<<"
-	}
-	"<<< Wand used! >>>"
-	{
-		"chi"		">>>push使用!!<<<"
-	}
-	"<<< Castle gate opens in 45 seconds! >>>"
-	{
-		"chi"		">>>白色城堡的大门将在45秒后为您开放!谢天谢地!<<<"
-	}
-	"<<< Zombies teleport to entrance of castle in 30 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Boxes break in 35 seconds! >>>"
-	{
-		"chi"		">>>箱子堆35秒后碎裂!<<<"
-	}
-	"<<< Box break in 35 seconds! >>>"
-	{
-		"chi"		">>>箱子35秒后碎裂<<<"
-	}
-	"<<< Zombies teleport in 30 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Zombies teleported to top! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Light activates in 30 seconds! >>>"
-	{
-		"chi"		">>>传送圣光将在30秒后将你传送离开这被僵尸污染的城堡<<<"
-	}
-	"<<< Trial 2 Complete! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Trial 3 >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Heal has been picked up! >>>"
-	{
-		"chi"		">>>玩家拾取了奶<<<"
-	}
-	"<<< Elevator leaves in 30 seconds! >>>"
-	{
-		"chi"		">>>电梯30秒后上升!守住这里!<<<"
-	}
-	"<<< Heal used! >>>"
-	{
-		"chi"		">>>玩家使用了奶!过来加血!<<<"
-	}
-	"<<< Door opens in 20 seconds! >>>"
-	{
-		"chi"		">>>白色墙壁20秒后打开!坚持下去!我们能赢!<<<"
-	}
-	"<<< Elevator leaves in 45 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Falling Sky >>>"
-	{
-		"chi"		">>>天空坠落<<<"
-	}
-	"<<< Pillar >>>"
-	{
-		"chi"		">>>柱子<<<"
-	}
-	"<<< Blades >>>"
-	{
-		"chi"		">>>是跳刀!<<<"
-	}
-	"<<< Almighty Pull >>>"
-	{
-		"chi"		">>>吸<<<"
-	}
-	"<<< Electric Cut >>>"
-	{
-		"chi"		">>>激光切割<<<"
-	}
-	"<<< Light Beam >>>"
-	{
-		"chi"		">>>激光束<<<"
-	}
-	"<<< Trial 3 Complete! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Zombies teleport in 15 seconds! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Zombies reached the end. Humans lose! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Secret level 1 button pressed! >>>"
-	{
-		"chi"		"** **"
-	}
-	"<< ze_surf_virtus >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Fix by : Lishang >>"
-	{
-		"chi"		"** **"
-	}
-	"***CURRENT DIFFICULTY IS NORMAL***"
-	{
-		"chi"		"** **"
-	}
-	"* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
-	{
-		"chi"		"** **"
-	}
-	"* * * Choose the first MINIGAME * * *"
-	{
-		"chi"		"** **"
-	}
-	"*** STEAMGAMERS.COM ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Mapper: yardy ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Co-Mapper: starbucks ***"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"---***This map will mute your sound if you are outside the lunar base***---"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "<<< Almighty Pull >>>"
+    {
+        "chi" ">>>吸<<<"
+    }
+
+    "<<< Blades >>>"
+    {
+        "chi" ">>>是跳刀!<<<"
+    }
+
+    "<<< Box break in 35 seconds! >>>"
+    {
+        "chi" ">>>箱子35秒后碎裂<<<"
+    }
+
+    "<<< Boxes break in 35 seconds! >>>"
+    {
+        "chi" ">>>箱子堆35秒后碎裂!<<<"
+    }
+
+    "<<< Bridge breaks in 10 seconds! >>>"
+    {
+        "chi" ">>>10秒后桥将会断裂!守住!守住!<<<"
+    }
+
+    "<<< Castle gate opens in 45 seconds! >>>"
+    {
+        "chi" ">>>白色城堡的大门将在45秒后为您开放!谢天谢地!<<<"
+    }
+
+    "<<< Defend for 10 more seconds! >>>"
+    {
+        "chi" ">>>还有个10秒<<<"
+    }
+
+    "<<< Defend for 20 seconds! >>>"
+    {
+        "chi" ">>>守住这里20秒<<<"
+    }
+
+    "<<< Door closing in 25 seconds! >>>"
+    {
+        "chi" ">>>大门25秒后关闭!赏它个麻辣烫!<<<"
+    }
+
+    "<<< Door opens in 20 seconds! >>>"
+    {
+        "chi" ">>>白色墙壁20秒后打开!坚持下去!我们能赢!<<<"
+    }
+
+    "<<< Door opens in 30 seconds! >>>"
+    {
+        "chi" ">>>大门将在30秒后开启!开枪啊!兄弟萌!<<<"
+    }
+
+    "<<< Door opens in 45 seconds! >>>"
+    {
+        "chi" ">>>大门将在45秒后开启!小心僵尸!<<<"
+    }
+
+    "<<< Door_opens in 30 seconds! >>>"
+    {
+        "chi" ">>>门将在30秒后打开!多打一点钱!<<<"
+    }
+
+    "<<< Doors open in 15 seconds! >>>"
+    {
+        "chi" ">>>大门将在15秒后开启!加油啊!快开启了!<<<"
+    }
+
+    "<<< Electric Cut >>>"
+    {
+        "chi" ">>>激光切割<<<"
+    }
+
+    "<<< Elevator leaves in 30 seconds! >>>"
+    {
+        "chi" ">>>电梯30秒后上升!守住这里!<<<"
+    }
+
+    "<<< Elevator leaves in 45 seconds! >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Falling Sky >>>"
+    {
+        "chi" ">>>天空坠落<<<"
+    }
+
+    "<<< Fence opens in 30 seconds! >>>"
+    {
+        "chi" ">>>铁栅栏30秒后开放!回头守住!<<<"
+    }
+
+    "<<< Heal has been picked up! >>>"
+    {
+        "chi" ">>>玩家拾取了奶<<<"
+    }
+
+    "<<< Heal used! >>>"
+    {
+        "chi" ">>>玩家使用了奶!过来加血!<<<"
+    }
+
+    "<<< Light activates in 30 seconds! >>>"
+    {
+        "chi" ">>>传送圣光将在30秒后将你传送离开这被僵尸污染的城堡<<<"
+    }
+
+    "<<< Light Beam >>>"
+    {
+        "chi" ">>>激光束<<<"
+    }
+
+    "<<< Map by Jllaneras >>>"
+    {
+        "chi" ">>>作者:JLLaneras翻译:Sakura@风云社<<<"
+    }
+
+    "<<< Ominous Wind >>>"
+    {
+        "chi" "**妖风**"
+    }
+
+    "<<< Pillar >>>"
+    {
+        "chi" ">>>柱子<<<"
+    }
+
+    "<<< Ramming Bolts >>>"
+    {
+        "chi" ">>>旋转激光<<<"
+    }
+
+    "<<< Secret level 1 button pressed! >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Spinning Pushing Bolts >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Trial 1 >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Trial 1 Complete! >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Trial 2 >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Trial 2 Complete! >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Trial 3 >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Trial 3 Complete! >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Ultra Beam >>>"
+    {
+        "chi" "**超光束**"
+    }
+
+    "<<< Wall has been picked up! >>>"
+    {
+        "chi" ">>>玩家拾取了墙<<<"
+    }
+
+    "<<< Wall used! >>>"
+    {
+        "chi" ">>>使用了墙<<<"
+    }
+
+    "<<< Wand has been picked up! >>>"
+    {
+        "chi" ">>>玩家拾取了push<<<"
+    }
+
+    "<<< Wand used! >>>"
+    {
+        "chi" ">>>push使用!!<<<"
+    }
+
+    "<<< You got the sky scroll! >>>"
+    {
+        "chi" "**你得到了天空卷轴!**"
+    }
+
+    "<<< Zombie has speed! >>>"
+    {
+        "chi" ">>>僵尸捡起了加速!<<<"
+    }
+
+    "<<< Zombie used speed! >>>"
+    {
+        "chi" ">>>僵尸使用了加速!他来了!!!<<<"
+    }
+
+    "<<< Zombies reached the end. Humans lose! >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Zombies teleport in 10 seconds! >>>"
+    {
+        "chi" "**僵尸将在10秒后传送**"
+    }
+
+    "<<< Zombies teleport in 15 seconds! >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Zombies teleport in 20 seconds! >>>"
+    {
+        "chi" "**僵尸将在20秒后传送**"
+    }
+
+    "<<< Zombies teleport in 25 seconds! >>>"
+    {
+        "chi" ">>>僵尸将在二十五秒后进行传送<<<"
+    }
+
+    "<<< Zombies teleport in 30 seconds! >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Zombies teleport in 40 seconds! >>>"
+    {
+        "chi" ">>>僵尸将在40秒后进行传送!<<<"
+    }
+
+    "<<< Zombies teleport to entrance of castle in 30 seconds! >>>"
+    {
+        "chi" "__null__"
+    }
+
+    "<<< Zombies teleported to top! >>>"
+    {
+        "chi" "__null__"
+    }
+
 }

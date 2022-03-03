@@ -1,0 +1,1959 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    " *** >>>> WARNING <<<< KEYBOARD RUSH ***"
+    {
+        "chi" "__null__"
+    }
+
+    "!?"
+    {
+        "chi" "__null__"
+    }
+
+    "** NOT ALLOWING PORTING TO CSS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** !? ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 0 **"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 1 **"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 1!!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 10 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 2 **"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 2!!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 20 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 3 **"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 30 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 4 **"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 40 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 5 **"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 5 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 5 SECONDS LEFT !!***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 5 seconds left ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 6 **"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 7 **"
+    {
+        "chi" "__null__"
+    }
+
+    "*** 8 **"
+    {
+        "chi" "__null__"
+    }
+
+    "*** A PLAYER HAS PICKED UP A BIG HEALTH LIGHT ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** A PLAYER HAS PICKED UP A BURNING LIGHT ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** A PLAYER HAS PICKED UP A COLD LIGHT ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** A PLAYER HAS PICKED UP A PUSH LIGHT ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** A PLAYER HAS PICKED UP A SMALL HEALTH LIGHT ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** A player has picked up the CLOUD FATHER ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Across their head !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ADVENTURE is begining... Good lu"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ADVENTURE IS OVER ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Adventure is over,need to chenge map ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ADVENTURE WILL START IN 1 MINUTE AND 30 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ADVENTURE WILL START IN 10 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ADVENTURE WILL START IN 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ADVENTURE WILL START IN 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ALL EXTREME STAGE COMPLETE IN 10 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ALL EXTREME STAGE COMPLETE IN 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ALL EXTREME STAGE COMPLETE IN 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ALL EXTREME STAGE COMPLETE IN 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ALL OF LASER DISABLED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ALL STAGE COMPLETE IN 10 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ALL STAGE COMPLETE IN 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ALL STAGE COMPLETE IN 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ALL STAGE COMPLETE IN 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ALL STAGE COMPLETED. EXTREME MODE IS COMING ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Another cannon started ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** BARRIER DISABLED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Be careful !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** BOY CLOUD IS DEFEATED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** BURNING KEYBOARD ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** CAREFULL!!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Character brok** a*d ano**er way o*****  ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** CLOUD FATHER'S TRUE ATTACKS !!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** CONGRATULATIONS !!!!!!!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** CRASHER HEALED 70 HP ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** CUTE CLOUDS created escape road !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Defend for 10 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Defend for 20 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Defend for 30 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Defend for 5 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** DRAIN KEYBOARD ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** DRAIN KEYBOARD 2 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ESC STORM ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** EXPLOSION IN 3 SECONDS!!!!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** FINAL LEVEL:  ???? ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** FINAL Portal will activate in 10 SEDONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** FINAL Portal will activate in 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** FINAL Portal will activate in 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** FINAL Portal will activate in 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** FIRST Portal will activate in 10 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** FIRST Portal will activate in 20 SEDONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** FIRST Portal will activate in 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** FLYING CHANCE ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** GET ON THE HIM !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** GOOD LUCK... ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** HE COMES AGAIN !!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** He is not dead yet !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** HE ISN'T HERE...?***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Her machine is releasing smoke!!keep shooting !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** HINT : Don't shoot the machine !! SHOOT THE her head !!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** HOLD FOR 35 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** HOLD THIS POSITION for 10 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** HOLD THIS POSITION for 20 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** HOLD THIS POSITION for 30 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** HOLD THIS POSITION for 5 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** HUMAN>>> Climb the ladder ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** HURTING ZOMBIES ARE COMING ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** IT CALLED MORE HIS FRIENDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** It's her final attack !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** JUMP ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** KAMIKAZE ZOMBIES ARE COMING ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** KEY BOARD CRASHER IS ANGRY!! DON'T STOP SHOOTING!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** KEY BOARD CRASHER IS APPEARED!! SHOOT HIM!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** KEY BOARD CRASHER IS DEAD ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** KEY BOARD CRASHER STARTED MOVING ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** KEY CANNON ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** KEY METEOR ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** KEY METEOR 2 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** KEY RUINS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** KEYBOARD ATTACK ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** KEYBOARD CUTTER ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** KEYBOARD CUTTER 2 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** KEYBOARD PARADISE ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEFT DOOR AND RIGHT DOOR ARE OPENING ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Let's practice before starting the game !!***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL 1: NORMAL JUMP ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL 10:  THE MOVING SCAFFOLDS 2 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL 11:  JUMPS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL 12:  LASERS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL 13: FLYING ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL 14:  THE CLOUD BOSS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL 15: THE MOVING SCAFFOLD 3 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL 16: VARIOUS TYPE ROAD 1 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL 17: VARIOUS TYPE ROAD 2 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL 19: VARIOUS TYPE ROAD 3 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL 2:  LADDERS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL 20: VARIOUS TYPE ROAD 4 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL 8: THE MOVING WALLS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL 9:  THE ROTATING SCAFFOLDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL UNKNOWN : UNKNOWN AREA *** ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL10 Portal will activate in 10 SEDONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL10 Portal will activate in 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL10 Portal will activate in 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL10 Portal will activate in 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL11 Portal will activate in 10 SEDONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL11 Portal will activate in 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL11 Portal will activate in 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL11 Portal will activate in 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL12 Portal will activate in 10 SEDONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL12 Portal will activate in 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL12 Portal will activate in 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL12 Portal will activate in 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL13 Portal will activate in 10 SEDONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL13 Portal will activate in 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL13 Portal will activate in 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL13 Portal will activate in 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL14 Portal will activate in 10 SEDONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL14 Portal will activate in 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL14 Portal will activate in 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL14 Portal will activate in 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL16 Portal will activate in 10 SEDONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL16 Portal will activate in 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL16 Portal will activate in 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL16 Portal will activate in 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL17 Portal will activate in 10 SEDONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL17 Portal will activate in 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL17 Portal will activate in 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL17 Portal will activate in 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL18 Portal will activate in 10 SEDONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL18 Portal will activate in 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL18 Portal will activate in 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL18 Portal will activate in 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL18 SLIDE 2 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL19 Portal will activate in 10 SEDONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL19 Portal will activate in 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL19 Portal will activate in 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL19 Portal will activate in 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL2 Portal will activate in 10 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL2 Portal will activate in 20 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL2 Portal will activate in 30 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL2 Portal will activate in 5 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL20 Portal will activate in 10 SEDONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL20 Portal will activate in 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL20 Portal will activate in 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL20 Portal will activate in 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL3 Portal will activate in 10 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL3 Portal will activate in 20 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL3 Portal will activate in 30 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL3 Portal will activate in 5 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL4 LOW GRAVITY ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL4 Portal will activate in 10 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL4 Portal will activate in 20 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL4 Portal will activate in 30 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL4 Portal will activate in 5 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL5 Portal will activate in 10 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL5 Portal will activate in 20 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL5 Portal will activate in 30 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL5 Portal will activate in 5 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL5 WINDY ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL6 Portal will activate in 10 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL6 Portal will activate in 20 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL6 Portal will activate in 30 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL6 Portal will activate in 5 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL6 SLIDE 1 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL7 HOLD THIS POSITION ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL7 Portal will activate in 10 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL7 Portal will activate in 20 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL7 Portal will activate in 30 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL7 Portal will activate in 5 SECONDS***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL9 Portal will activate in 10 SEDONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL9 Portal will activate in 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL9 Portal will activate in 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** LEVEL9 Portal will activate in 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Lift will start in 7 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** map created by thas ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** OVERRUN PROTECTER DISABLED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** OVERRUN PROTECTER ENABLED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** PORTAL ACTIVATED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Portal is broken by unknown !!!!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Porting helped by Airvulpes,kune***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** PUSHING ZOMBIES ARE COMING ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** RUN !!!!!!!***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** RUN TO THE NEXT DEFENCE POINT ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SHOOT !! BEFORE HE KILL CLOUD FATHER !!!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SHOOT HIM !! He has very strong power !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SHOOT HIM WITH YOUR FULL POWER !!!!!!!!!!!!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE : ????? button PRESSED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE : HIS POWER button PRESSED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE : KEY WORLD ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE : No kidding 3/1***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE : No kidding 3/2***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE : No kidding 3/3***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE 1 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE 1 COMPLETED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE 1: EXTREME ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE 1: EXTREME COMPLETED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE 2 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE 2 :EXTREME COMPLETED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE 2 COMPLETED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE 2: EXTREME ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE 3 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE 3: EXTREME ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE COMPLETE IN 10 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE COMPLETE IN 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE COMPLETE IN 30 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** STAGE COMPLETE IN 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Stage1 button PRESSED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Stage1:EXTREME button PRESSED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Stage2 button PRESSED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Stage2:EXTREME button PRESSED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Stage3 button PRESSED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Stage3: EXTREME button PRESSED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Star road will activate in 20 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Star road will activate in 5 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SUMMONING KEY ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SURVIVE FOR 1 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SURVIVE FOR 10 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SURVIVE FOR 11 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SURVIVE FOR 12 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SURVIVE FOR 13 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SURVIVE FOR 14 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SURVIVE FOR 15 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SURVIVE FOR 2 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SURVIVE FOR 3 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SURVIVE FOR 4 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SURVIVE FOR 5 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SURVIVE FOR 6 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SURVIVE FOR 7 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SURVIVE FOR 8 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** SURVIVE FOR 9 SECONDS !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** TAPIOKA PUNCH ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** THE CLOUD FATHER IS KILLED BY HIM !!* **"
+    {
+        "chi" "__null__"
+    }
+
+    "*** THE CLOUD FATHER is top of the way !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The ESC Key is blocking our way !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** THE LASER MACHINE IS BROKEN ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** THE SCAFFOLD WILL MOVE IN 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** THE SCAFFOLD WILL RISE IN 10 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** THE SCAFFOLD WILL RISE IN 20 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** THE SCAFFOLD WILL RISE IN 5 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** THE WAY OF DELETEING ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** This area seems to begin to collapse !!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** This round is WARM UP ROUND ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** This world needs something Technique ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Wait until esc key come ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Wait until something happen ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** WARM UP ROUND ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** WARNING : FAST SPAWN ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** WATCH OUT !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** WATCH OUT !!!!!!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Watch out for esc cannon and your head !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Watch out for something !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** WE BACKED ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** We can feel hard wind pressure...!! Dodge it !!! "
+    {
+        "chi" "__null__"
+    }
+
+    "*** We don't know what will happen... ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** We have lost the escape route ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Weather is getting worse... ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Welcome to the sky athletic !!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** WHAT !! where is there...? ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** What are you doing? adventure is over.type rtv now ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Where are we...? ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** WIND is too strong !! Bullets will be back !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** YOU CAN ACROSS NOW !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** You defeated CLOUD FATHER ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** You defeated Girl cloud ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** YOU DID IT !!! HE REALLY DEAD !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** You have beaten all stages !!!! Congratulations !!!! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** YOU SECURED SKY ATHLETIC...? ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ZOMBIE ARE ALIVE !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ZOMBIE WAVE ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Zombie will come in 10 seconds  ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ZOMBIE WILL COME IN 10 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ZOMBIE WILL COME IN 8 SECONDS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ZOMBIE>>> Should go to under the entrance ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ZOMBIES ARE ALIVE !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ZOMBIES ARE ALIVE !! BE CAREFUL !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ZOMBIES ARE ALIVE !! SHOOT THEM TOO !! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ZOMBIES ARE COMING ***"
+    {
+        "chi" "__null__"
+    }
+
+    "***LEVEL 3: MOVING SCAFFOLDS 1 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "***ZOMBIES ARE COMING***"
+    {
+        "chi" "__null__"
+    }
+
+    "????? :That you won't !!!"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD : !? they're the humans !?"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD : Hey !! I and my friends will defeat you humans !!"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD : If I will be able to defeat you..."
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD : It's very proud for me too!!"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD : My father said human is getting our place..."
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD : My father will praise me !!"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD : Nuwaaaaaaaa!! My best speedddddd!!!!!"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD : Shoot me !! if you can follow my speed !!"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD : So!!! I need to defeat you at this time !!"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD : Too hot!! keep away it from me !!"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD : What's this wind !? I can't do the best of speed !!"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD :Ahhh...They...really...strong...!!!"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD :HEY DAD !! PLEASE DEFEAT THEM !!!!!!!!"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD :Hey humans !!"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD :I can't trust you even my father trust you !!"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD :I couldn't beat you humans..."
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD :Please defeat them !! We will help you !!"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD :TAKE MY FINAL ATTACK !!!!!!!!!!!!!!!!!!!!!"
+    {
+        "chi" "__null__"
+    }
+
+    "BOY CLOUD: Ahh!! remember this things !!!!!!"
+    {
+        "chi" "__null__"
+    }
+
+    "CAUTION :It can use only once"
+    {
+        "chi" "__null__"
+    }
+
+    "cccccccckkkkkkkkkkkkkkkkkkkkkkkkkk"
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER : and I want to fight with you too."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER : Can we fight without kidding...?"
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER : hehehe..."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER : I think you want to experience the more hard."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER : Is which a winner...?"
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER : Remember your items can't effect me !!"
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER : Welcome humans."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER : You are our hero,thanks...."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :...Me? don't worry I was made of water."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :...So you should use it in other area."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :Alright...finally you defeat me,you won."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :Can you survive !?"
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :Don't take hand for them !!"
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :Hey! Humans !! I will help you !!"
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :Hey... You are very strong...."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :Humans,we don't know he is really dead."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :I couldn't defeat him,because he was very stronger than me."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :I hope he is dead..."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :I think..."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :If you was in at that time...we could save my..."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :I'm giving the power to you..."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :IRASSYAI MASE"
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :It seems your power is true..."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :LOOK !!"
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :Oh,please pretend you didn't hear that."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :oh... I'm defeated.."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :ok,Humans time to change your area...!"
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :Pick up me !! I will attack him !!!"
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :So please defeat him instead of me..."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :Take care if you go anymore."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :This injured will fix soon."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :Time to show my high power..."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :You can complete other area even you have it."
+    {
+        "chi" "__null__"
+    }
+
+    "CLOUD FATHER :you can defeat him..."
+    {
+        "chi" "__null__"
+    }
+
+    "COOL DOWN : 35 SEC"
+    {
+        "chi" "__null__"
+    }
+
+    "COOL DOWN : 40 SEC"
+    {
+        "chi" "__null__"
+    }
+
+    "COOL DOWN : 50 SEC"
+    {
+        "chi" "__null__"
+    }
+
+    "CRASHER : hahahahHAHAHAHAHHHAHHAHAhHHHHHAAHAHA"
+    {
+        "chi" "__null__"
+    }
+
+    "CRASHER : You can't kill me forever !!!!"
+    {
+        "chi" "__null__"
+    }
+
+    "CRASHER :BANZAIIIIIIIIIIIIIIIIIIIII !!!!!!!!!!!!!!!!!!"
+    {
+        "chi" "__null__"
+    }
+
+    "CRASHER :HAHAHA !!! You can't kill me whatever you do anything !!!!!!"
+    {
+        "chi" "__null__"
+    }
+
+    "CRASHER :HAHAHA!!! What's the taste of this !!!?!?!?!"
+    {
+        "chi" "__null__"
+    }
+
+    "CRASHER :It's over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD : !? Not my father made !! ! I was made it myself !!"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD : A,Anyway !! you will be defeated by this machine!!"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl cloud : Ahh!! Please move !!"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD : Ahh... I was taught by him a little..."
+    {
+        "chi" "__null__"
+    }
+
+    "Girl cloud : AHHHHHHHHHHHH !!"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD : but... I prepared the machine for you"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD : Guh...you are stronger than I thought..."
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD : LOOK THE MY MACHINE !!!!"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD : What do you think about this machine ?"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl cloud : What...? Why can't move !?"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD :?? My machine is strong from wind!! that can't effect me !!"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD :Can't move finely !! Is engine colding !?"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD :I couldn't beat you too..."
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD :Stop it !! Engine will be burning !!"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD: Fight me !!"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD: I will defeat you !!"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD: I'm boy cloud's sister!"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD: I'm stronger than you and father are thinking!!"
+    {
+        "chi" "__null__"
+    }
+
+    "Girl CLOUD: You defeated my brother and come this place right?"
+    {
+        "chi" "__null__"
+    }
+
+    "Remember : 10 COUNTS !!!!!"
+    {
+        "chi" "__null__"
+    }
+
+    "TWO CLOUDS :but..."
+    {
+        "chi" "__null__"
+    }
+
+    "TWO CLOUDS :My Father will defeat you instead of us !!"
+    {
+        "chi" "__null__"
+    }
+
+    "WARNING : ZOMBIES ARE ALIVE !!!"
+    {
+        "chi" "__null__"
+    }
+
+}
