@@ -14,81 +14,97 @@
     "* [[ NYCRockRadio FM 81.2 :: Arthur Brown - I've Got Money ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* [[ NYCRockRadio FM 81.2 :: Leaf Hound - Growers Of Mushroom ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* [[ NYCRockRadio FM 81.2 :: Motorhead - Ace of Spades ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* [[ NYCRockRadio FM 81.2 :: Ram Jam - Black Betty ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* [[ NYCRockRadio FM 81.2 :: The Doors - Roadhouse Blues ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "** 15 seconds left! Keep defending! **"
@@ -108,7 +124,7 @@
 
     "** BOTH VALVES HAVE BEEN UNLOCKED!!! **"
     {
-        "chi" "__null__"
+        "chi" "两个阀门都已解锁"
     }
 
     "** CHECKPOINT REACHED: STAY ON THE WHITE CIRCLES TO KEEP GOING. **"
@@ -118,7 +134,7 @@
 
     "** C'mon! 15 more seconds! **"
     {
-        "chi" "__null__"
+        "chi" "15"
     }
 
     "** Engine area door is opening in 15 seconds. **"
@@ -138,12 +154,12 @@
 
     "** GO! The penis UFO doors are opening!!! **"
     {
-        "chi" "__null__"
+        "chi" "不明飞行物的门已经打开了"
     }
 
     "** GO! We have to hold the park until we find a way out! **"
     {
-        "chi" "__null__"
+        "chi" "我们必须守住公园,直到找到离开这里的方法"
     }
 
     "** Hold the broken wall! The door will open in 25 seconds! **"
@@ -173,12 +189,12 @@
 
     "** Last 5 seconds! HOLD!!! **"
     {
-        "chi" "__null__"
+        "chi" "最后5秒,守住"
     }
 
     "** Left valve has been fully opened! **"
     {
-        "chi" "__null__"
+        "chi" "左阀门已完全打开"
     }
 
     "** Oh noes! The tunnel is locked! We'll have to hold a bit (30s) **"
@@ -188,17 +204,18 @@
 
     "** OK GO! The Penis-UFO is coming! RESIST!!! **"
     {
-        "chi" "__null__"
+        "chi" "厚礼蟹!!!外星人!!!"
     }
 
     "** RESIST FOR 15 SECONDS!!! **"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "** RESIST FOR 20 SECONDS!!! **"
     {
-        "chi" "__null__"
+        "chi" "防守:20秒"
     }
 
     "** Resist! 10 more seconds! **"
@@ -223,7 +240,7 @@
 
     "** Right valve has been fully opened! **"
     {
-        "chi" "__null__"
+        "chi" "右阀门已完全打开"
     }
 
     "** Spam E on the valves! We need to let the toxic waste out!!! **"
@@ -238,12 +255,12 @@
 
     "** The exitless park doors are opening in 20 seconds! **"
     {
-        "chi" "__null__"
+        "chi" "公园门:20秒"
     }
 
     "** The helicopter is leaving in 30 seconds. RESIST! **"
     {
-        "chi" "__null__"
+        "chi" "直升机:30秒"
     }
 
     "** This will wipe out those darn filthy zombies! **"
@@ -263,7 +280,7 @@
 
     "** We could call a Penis-UFO and split the fare... **"
     {
-        "chi" "__null__"
+        "chi" "我们可以乘坐外星人的飞船"
     }
 
     "** We must resist here until the door unlocks! (25s) **"
@@ -279,41 +296,48 @@
     "*** 0110100001101001 ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** Address: 0x6469636b ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** Current level: Onion ***"
     {
-        "chi" "__null__"
+        "chi" "当前关卡:麻麻告诉我不会翻译的这样写就行啦"
     }
 
     "*** Current stage: Mines of Moria ***"
     {
-        "chi" "__null__"
+        "chi" "当前关卡:莫里亚矿山"
     }
 
     "*** Difficulty: MissingNo ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** DIFFICULTY: XTRIMER ***"
     {
         "chi" "** 难度: XTRIMER **"
+        "blocked"    "1"
+        
     }
 
     "*** Escape: THE PAPER DIMENSION ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** FIDDICULTU: STRING 2 ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** I FUCKING HATE YOU WALT WHITMAN!!! ***"
@@ -324,21 +348,25 @@
     "*** LETS KICK SHELL!!! ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** LEVEL: Monkeymmunism. ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** LEVEL: ULTIMATE ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** MODE: RABBIT RIBBIT ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** NY MARATHON: GET READY TO RUN! ***"
@@ -349,61 +377,70 @@
     "*** OH! PIZZA PIZZA PIZZA PIZZA PIZZA!!! ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** PACO! THERE IS UNA PARTY EN MY PANTALONES ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** PIZZA: PIZZA PIZZA PIZZA ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** Stage 4: Cuckoo ***"
     {
-        "chi" "** 关卡4: 布谷鸟 **"
+        "chi" "** 关卡四:布谷鸟 **"
     }
 
     "*** Turn on the chopper's engines! ***"
     {
-        "chi" "__null__"
+        "chi" "修理直升机"
     }
 
     "*** Word: BIRD ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***0***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***1***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***2***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***3***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***4***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***5***"
     {
-        "chi" "__null__"
+        "chi" "...5..."
     }
 
 }

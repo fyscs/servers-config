@@ -13,12 +13,12 @@
 
     " +++ The door opens in 10 seconds +++"
     {
-        "chi" "__null__"
+        "chi" "门在10秒后打开"
     }
 
     "*** Map ported by Et3rnity***"
     {
-        "chi" "__null__"
+        "chi" "地图由 Et3rnity 移植"
     }
 
     "++ FLAMETHROWER ADQUIRED ++"
@@ -43,7 +43,7 @@
 
     "++ Hold for 5 more seconds!!! ++"
     {
-        "chi" "__null__"
+        "chi" "再坚持 5 秒钟!!!"
     }
 
     "++ HOLD! DOOR OPENS IN 20 SEC ++"
@@ -73,12 +73,12 @@
 
     "++ Impact in 10 seconds ++"
     {
-        "chi" "__null__"
+        "chi" "将在10秒后遭受冲击"
     }
 
     "++ Impact in 30 seconds ++"
     {
-        "chi" "__null__"
+        "chi" "将在30秒后遭受冲击"
     }
 
     "++ Nuke launched. Impact in 30 seconds ++"
@@ -98,7 +98,7 @@
 
     "++ RESIST! 5 LAST SECONDS!!! ++"
     {
-        "chi" "__null__"
+        "chi" "抵抗最后 5 秒!!!"
     }
 
     "++ THE BALCONY! JUMP!!! ++"
@@ -113,12 +113,12 @@
 
     "++ ZE_ITALY_TOWN ++"
     {
-        "chi" "__null__"
+        "chi" "图名:意大利小镇"
     }
 
     "+++ 10 seconds left!!! +++"
     {
-        "chi" "__null__"
+        "chi" "还剩 10 秒!!!"
     }
 
     "+++ 15 seconds left!!! +++"
@@ -138,7 +138,7 @@
 
     "+++ CURRENT LEVEL: EXTREME +++"
     {
-        "chi" "__null__"
+        "chi" "极致难度"
     }
 
     "+++ CURRENT LEVEL: HARD +++"
@@ -153,7 +153,7 @@
 
     "+++ Defend for 20 seconds +++"
     {
-        "chi" "__null__"
+        "chi" "防守 20 秒"
     }
 
     "+++ Defend for 25 seconds +++"
@@ -168,7 +168,7 @@
 
     "+++ Double doors are opening!!! +++"
     {
-        "chi" "__null__"
+        "chi" "双门正在打开!!!"
     }
 
     "+++ Double doors open in 10 seconds +++"
@@ -224,6 +224,7 @@
     "+++ Sword has been picked up +++"
     {
         "chi" "**大保健拾取**"
+        "blocked"    "1"
     }
 
     "+++ The door is opening +++"
@@ -253,7 +254,7 @@
 
     "+++ YOU HAVE WON! RESTARTING MAP +++"
     {
-        "chi" "__null__"
+        "chi" "你赢了!重新启动地图"
     }
 
     "+++ ZOMBIES ON BUNKER +++"

@@ -48,7 +48,7 @@
 
     "<< 5 >>"
     {
-        "chi" "5"
+        "chi" "blocked"    "1"
     }
 
     "<< 5 more seconds >>"
@@ -109,11 +109,13 @@
     "<< A player has picked up heal >>"
     {
         "chi" "一名玩家捡起了奶"
+        "blocked"    "1"
     }
 
     "<< a player has picked up wind >>"
     {
         "chi" "一名玩家捡起了风"
+        "blocked"    "1"
     }
 
     "<< A SECRET BUTTON has been UNLOCKED !!! >>"
@@ -124,6 +126,7 @@
     "<< A zombie has picked up speed >>"
     {
         "chi" "一名僵尸获得了加速"
+        "blocked"    "1"
     }
 
     "<< Absolute Purification >>"
@@ -143,7 +146,7 @@
 
     "<< Admin Select Stage 1 >>"
     {
-        "chi" "__null__"
+        "chi" "管理员选择了第一关"
     }
 
     "<< Admin select Stage 2 >>"
@@ -188,7 +191,7 @@
 
     "<< boss is defeated >>"
     {
-        "chi" "__null__"
+        "chi" "Boss被击败了"
     }
 
     "<< climb to the top and shooting the guard, so that the teleport can be activated >>"
@@ -243,7 +246,7 @@
 
     "<< Drain >>"
     {
-        "chi" "__null__"
+        "chi" "Drain"
     }
 
     "<< Fallen Sky >>"
@@ -263,7 +266,7 @@
 
     "<< Haste >>"
     {
-        "chi" "__null__"
+        "chi" "Haste"
     }
 
     "<< heal used >>"
@@ -343,17 +346,18 @@
 
     "<< map by Misaka >>"
     {
-        "chi" "__null__"
+        "chi" "作者:Misaka  汉化:小三@風雲社"
     }
 
     "<< Map by Misaka >>"
     {
-        "chi" "地图制作:Misaka  汉化:小三@风云社"
+        "chi" "作者:Misaka  汉化:小三@風雲社"
     }
 
     "<< Mapper is in the server >>"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "<< Mega Push >>"
@@ -393,7 +397,7 @@
 
     "<< Push >>"
     {
-        "chi" "__null__"
+        "chi" "推力"
     }
 
     "<< Reaping Slash >>"

@@ -33,7 +33,7 @@
 
     ">>> ADMIN CHANGED TO STAGE 2 <<<"
     {
-        "chi" "__null__"
+        "chi" "管理员选择了第二关"
     }
 
     ">>> ADMIN CHANGED TO STAGE 3 <<<"
@@ -169,76 +169,91 @@
     ">>> PLAYER HAS PICKED UP AMMO <<<"
     {
         "chi" ">>>一名人类获得了弹药<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP EARTH TOILET <<<"
     {
         "chi" "*一名人类获得了土马桶"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<"
     {
         "chi" ">>>一名人类获得了电<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP FIRE TOILET <<<"
     {
         "chi" ">>>一名人类获得了火马桶<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP GRAVITY TOILET <<<"
     {
         "chi" "一名人类获得了黑洞马桶"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP HEAL <<<"
     {
         "chi" ">>>一名人类获得了奶<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ICE TOILET <<<"
     {
         "chi" ">>>一名人类获得了冰马桶<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP POISON TOILET <<<"
     {
         "chi" "一名人类获得了毒马桶"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP PUSH <<<"
     {
         "chi" ">>>一名人类获得了风<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<"
     {
         "chi" ">>>一名人类获得了激光<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP SLOWER SPHERE <<<"
     {
         "chi" ">>>一名人类获得了减速带<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP WATER TOILET <<<"
     {
         "chi" ">>>一名人类获得了水马桶<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP WIND TOILET <<<"
     {
         "chi" "一名人类获得了风马桶"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
     {
         "chi" ">>>一名僵尸获得了黑洞<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
     {
         "chi" ">>>一名僵尸获得了奶<<<"
+        "blocked"    "1"
     }
 
     ">>> PRESS 3 BUTTONS TO MAKE PASSAGE <<<"

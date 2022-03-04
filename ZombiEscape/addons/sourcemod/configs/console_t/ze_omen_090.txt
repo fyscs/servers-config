@@ -13,7 +13,7 @@
 
     "| +500 |"
     {
-        "chi" "__null__"
+        "chi" "+500"
     }
 
     "| 10 SECONDS |"
@@ -38,37 +38,37 @@
 
     "| ADMIN KILL PRESSED |"
     {
-        "chi" "__null__"
+        "chi" "处死全体"
     }
 
     "| Kill List Enabled |"
     {
-        "chi" "__null__"
+        "chi" "杀戮模式启用"
     }
 
     "| PASSAGE 1 SELECTED |"
     {
-        "chi" "__null__"
+        "chi" "载入第一关"
     }
 
     "| PASSAGE 2 |"
     {
-        "chi" "__null__"
+        "chi" "第一关"
     }
 
     "| PASSAGE 2 SELECTED |"
     {
-        "chi" "__null__"
+        "chi" "载入第二关"
     }
 
     "| PASSAGE 3 |"
     {
-        "chi" "__null__"
+        "chi" "第三关"
     }
 
     "| PASSAGE 3 SELECTED |"
     {
-        "chi" "__null__"
+        "chi" "载入第三关"
     }
 
     "| PROLOGUE |"

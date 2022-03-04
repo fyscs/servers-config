@@ -13,7 +13,7 @@
 
     "!!! KILL ALL ZOMBIES !!!"
     {
-        "chi" "__null__"
+        "chi" "杀光它们"
     }
 
     "*** Difficulty : Disuse ***"
@@ -43,12 +43,12 @@
 
     "*** Door Opens in 25 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "大门25秒后打开"
     }
 
     "*** Door Opens in 30 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "大门30秒后打开"
     }
 
     "*** Door Opens in 5 seconds ***"
@@ -68,12 +68,12 @@
 
     "Admin pressed Disuse button"
     {
-        "chi" "__null__"
+        "chi" "加载第一关"
     }
 
     "Admin pressed Inspection button"
     {
-        "chi" "__null__"
+        "chi" "加载第二关"
     }
 
 }

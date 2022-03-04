@@ -14,11 +14,13 @@
     "** WIND HAS BEEN PICKED UP! **"
     {
         "chi" "**风已被拾起**"
+        "blocked"    "1"
     }
 
     "***Shield has been picked up***"
     {
         "chi" "**护盾已被拾起**"
+        "blocked"    "1"
     }
 
     "Stage Normal "

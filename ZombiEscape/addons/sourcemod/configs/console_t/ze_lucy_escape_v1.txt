@@ -99,6 +99,7 @@
     "***FIRE STORM HAS BEEN PICKED UP***"
     {
         "chi" "***天火已被拾取***"
+        "blocked"    "1"
     }
 
     "***FIRST FLOOR TWO DOORS OPENING IN 15 SECONDS"
@@ -184,6 +185,7 @@
     "***PLAZMA BLAST HAS BEEN PICKED UP***"
     {
         "chi" "***闪电已被拾取***"
+        "blocked"    "1"
     }
 
     "***PORTAL IS OPENED FOLLOW THE ELDER SMAURAI***"
@@ -229,11 +231,13 @@
     "***SUMMON ANCIENT HAS BEEN PICKED UP***"
     {
         "chi" "***召唤契约(小)已拾取***"
+        "blocked"    "1"
     }
 
     "***SUMMON BEHEMOTH  HAS BEEN PICKED UP***"
     {
         "chi" "***召唤契约(大)已拾取***"
+        "blocked"    "1"
     }
 
     "***TELEPORT IN 10 SECONDS"
@@ -284,6 +288,7 @@
     "***WAND OF REMEDY HAS BEEN PICKED UP***"
     {
         "chi" "***治愈已被拾取***"
+        "blocked"    "1"
     }
 
     "***WE FAILED, LUCY DIDN'T MAKEI T BACK HOME :(***"

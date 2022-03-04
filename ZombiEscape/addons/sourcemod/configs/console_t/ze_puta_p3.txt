@@ -59,6 +59,7 @@
     "** ASTONISHING! WILL YOU BE ABLE TO BEAT THE SAVAGE MODE? **"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "** Current level: EASY**"
@@ -178,17 +179,17 @@
 
     "** LEVEL CHANGED TO EASY **"
     {
-        "chi" "__null__"
+        "chi" "加载简单难度"
     }
 
     "** LEVEL CHANGED TO MODERATE **"
     {
-        "chi" "__null__"
+        "chi" "加载中等难度"
     }
 
     "** LEVEL CHANGED TO SAVAGE **"
     {
-        "chi" "__null__"
+        "chi" "加载高难难度"
     }
 
     "** RESIST! 20 SECONDS LEFT! **"

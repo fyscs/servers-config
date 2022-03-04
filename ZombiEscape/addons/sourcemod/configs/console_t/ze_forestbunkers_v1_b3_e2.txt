@@ -13,12 +13,12 @@
 
     "***Map ported by Et3rnity***"
     {
-        "chi" "__null__"
+        "chi" "地图制作:Et3rnity"
     }
 
     ">> 1 << "
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     ">> 1 MINUTE TO ESCAPE <<"
@@ -33,17 +33,17 @@
 
     ">> 10 SECONDS TO ESCAPE <<"
     {
-        "chi" "__null__"
+        "chi" "10"
     }
 
     ">> 2 << "
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     ">> 3 << "
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     ">> 5 SECONDS <<"
@@ -118,12 +118,12 @@
 
     ">> CHOPPER IS ON THE WAY! << "
     {
-        "chi" "__null__"
+        "chi" "直升机来了"
     }
 
     ">> CHOPPER IS READY TO PICK YOU UP FROM THE OLD SHED << "
     {
-        "chi" "__null__"
+        "chi" "直升机已经准备从旧棚屋来接你们了"
     }
 
     ">> CHOPPER LEAVING IN 30 SECONDS <<"
@@ -139,6 +139,7 @@
     ">> DEATHRAY PICKED UP (ONE USE) <<"
     {
         "chi" "**一次性神器 伤害 被拾取**"
+        "blocked"    "1"
     }
 
     ">> DONT FALL BEHIND! <<"
@@ -209,11 +210,13 @@
     ">> FREEZERAY PICKED UP <<"
     {
         "chi" "**有玩家拾取了神器冷冻枪**"
+        "blocked"    "1"
     }
 
     ">> HEALTHPACK PICKED UP (ONE USE) <<"
     {
         "chi" "**一次性神器 治疗枪 被拾取**"
+        "blocked"    "1"
     }
 
     ">> HOLD THE RIVER FOR 25 SECONDS <<"
@@ -253,7 +256,7 @@
 
     ">> ROUND OVER <<"
     {
-        "chi" "__null__"
+        "chi" "回合结束"
     }
 
     ">> THE CHOPPER MUST TAKE OFF IN THE NEXT 30 SECONDS TO AVOID ROUND LOSS <<"
@@ -263,12 +266,13 @@
 
     ">> WAIT FOR ZOMBIES TO BE TELEPORTED << "
     {
-        "chi" "__null__"
+        "chi" "等待僵尸被传送"
     }
 
     ">> ZOMBIE REPELENT PICKED UP (ONE USE) <<"
     {
         "chi" "**一次性神器 推力 已被拾取**"
+        "blocked"    "1"
     }
 
     ">> ZOMBIES HAVE BEEN TELEPORTED. RUN!! FOLLOW THE LIGHTS <<"
