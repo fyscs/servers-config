@@ -14,41 +14,45 @@
     "***1***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***2***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***3***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***4***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***5***"
     {
-        "chi" "__null__"
+        "chi" "...5..."
     }
 
     "***COMPLETE!***"
     {
-        "chi" "__null__"
+        "chi" "胜利"
     }
 
     "***Modified by Reflelia***"
     {
-        "chi" "__null__"
+        "chi" "作者:Reflelia"
     }
 
-    "5"
+    "blocked"    "1"
     {
-        "chi" "__null__"
+        "chi" "...5..."
     }
 
 }

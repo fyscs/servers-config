@@ -109,6 +109,7 @@
     "*** BOOM BAM BOP BATTA BOP BOOP POW ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** BUNKER IS CLOSING ***"
@@ -194,6 +195,7 @@
     "*** ELY'S PUSHER HAS BEEN PICKED UP ***"
     {
         "chi" "**推力已经被捡起**"
+        "blocked"    "1"
     }
 
     "*** ESCAPE HAS BEEN CALLED!! REGROUP AT THE TOP OF THE BUILDING!! ***"
@@ -224,6 +226,7 @@
     "*** FLAME OF UDUN HAS BEEN PICKED UP ***"
     {
         "chi" "**火焰已经被捡起**"
+        "blocked"    "1"
     }
 
     "*** GATES A5 & C2 WILL BREAK IN 5 SECONDS ***"

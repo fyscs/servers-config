@@ -19,6 +19,7 @@
     "** TREX HAS BEEN PICKED UP! **"
     {
         "chi" "**有玩家捡起了霸王龙 小心别被杀马了!**"
+        "blocked"    "1"
     }
 
     "**10 seconds are left!**"
@@ -43,7 +44,7 @@
 
     "**15 seconds left!**"
     {
-        "chi" "__null__"
+        "chi" "守住僵尸15秒"
     }
 
     "**20 seconds are left!**"
@@ -63,7 +64,7 @@
 
     "**20 SECONDS LEFT**"
     {
-        "chi" "__null__"
+        "chi" "守住僵尸20秒"
     }
 
     "**25 seconds are left**"
@@ -93,7 +94,7 @@
 
     "**5 seconds left**"
     {
-        "chi" "__null__"
+        "chi" "守住僵尸5秒"
     }
 
     "**5 SECONDS LEFT**"
@@ -108,22 +109,22 @@
 
     "**5 SECONDS!**"
     {
-        "chi" "__null__"
+        "chi" "守住僵尸5秒"
     }
 
     "**ADMIN SWITCHING TO STAGE 1**"
     {
-        "chi" "__null__"
+        "chi" "管理员切换到第 一 阶段"
     }
 
     "**ADMIN SWITCHING TO STAGE 2**"
     {
-        "chi" "__null__"
+        "chi" "管理员切换到第 二 阶段"
     }
 
     "**ADMIN SWITCHING TO STAGE 3**"
     {
-        "chi" "__null__"
+        "chi" "管理员切换到第 三 阶段"
     }
 
     "**ADMIN SWITCHING TO STAGE 4**"
@@ -218,12 +219,12 @@
 
     "**FALL BACK!**"
     {
-        "chi" "__null__"
+        "chi" "快撤退!!"
     }
 
     "**FALL BACK**"
     {
-        "chi" "__null__"
+        "chi" "快撤退!!"
     }
 
     "**Gate opening in 20 seconds**"
@@ -413,7 +414,7 @@
 
     "**THANKS FOR PLAYING! MAP BY JENZ**"
     {
-        "chi" "__null__"
+        "感谢您的参与！地图由 JENZ"
     }
 
     "**The boat will leave in 30 seconds!**"
@@ -619,6 +620,7 @@
     ">>>Cura bubble has been picked up!<<<"
     {
         "chi" "**神器 奶 被拾取**"
+        "blocked"    "1"
     }
 
     ">>CONGRATULATION YOU WON THE FIRST STAGE<<"
@@ -629,6 +631,7 @@
     ">>Electro has been picked up<<"
     {
         "chi" "**神器 电 被拾取**"
+        "blocked"    "1"
     }
 
     ">>Good job you collected the crystal!<<"
@@ -639,11 +642,13 @@
     ">>Ice has been picked up<<"
     {
         "chi" "**神器 冰 被拾取**"
+        "blocked"    "1"
     }
 
     ">>Wurzel push has been picked up<<"
     {
         "chi" "**神器 风 被拾取**"
+        "blocked"    "1"
     }
 
     ">>Wurzel sculpture has been picked up<<"

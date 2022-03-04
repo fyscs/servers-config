@@ -13,27 +13,27 @@
 
     " ||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
     {
-        "chi" "__null__"
+        "chi" "八爪叫兽使用了气泡"
     }
 
     " ||| KRAKEN HAS SENT A WAVE ON YOU |||"
     {
-        "chi" "__null__"
+        "chi" "八爪叫兽使用了海浪"
     }
 
     " ||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
     {
-        "chi" "__null__"
+        "chi" "八爪叫兽抓取了一只僵尸"
     }
 
     " ||| KRAKEN HAS THROWN BARREL ON YOU |||"
     {
-        "chi" "__null__"
+        "chi" "八爪叫兽扔出了滚桶"
     }
 
     " ||| KRAKEN HAS THROWN BARRELS ON YOU |||"
     {
-        "chi" "__null__"
+        "chi" "八爪叫兽扔出了滚桶"
     }
 
     "!!! KILL ALL ZOMBIES !!!"
@@ -64,16 +64,19 @@
     "*** BARREL picked up ***"
     {
         "chi" "一位玩家获得了炸药桶"
+        "blocked"    "1"
     }
 
     "*** BUBBLES picked up ***"
     {
         "chi" "一位玩家获得了泡泡"
+        "blocked"    "1"
     }
 
     "*** HEAL picked up***"
     {
         "chi" "一位玩家获得了治愈药"
+        "blocked"    "1"
     }
 
     "*** LAST MEDALLION picked up ***"
@@ -84,16 +87,19 @@
     "*** MEDALLION picked up ***"
     {
         "chi" "一位玩家获得了勋章"
+        "blocked"    "1"
     }
 
     "*** SWORD picked up ***"
     {
         "chi" "一位玩家获得了青光剑"
+        "blocked"    "1"
     }
 
     "*** WALL picked up ***"
     {
         "chi" "一位玩家获得了木墙"
+        "blocked"    "1"
     }
 
     "*** YOU HAVE BEATEN LEVEL 1. CHALLENGE CONTINUES ON LEVEL 2 ***"
@@ -268,7 +274,7 @@
 
     ">>> DOOR CLOSES IN 5 sec <<<"
     {
-        "chi" "__null__"
+        "chi" "门5秒后关闭"
     }
 
     ">>> DOOR CLOSES IN 5 SEC <<<"
@@ -293,7 +299,7 @@
 
     ">>> DOOR OPENS IN 25 SEC <<<"
     {
-        "chi" "__null__"
+        "chi" "门在25秒后打开"
     }
 
     ">>> DOOR OPENS IN 30 SEC <<<"
@@ -308,7 +314,7 @@
 
     ">>> DOOR OPENS IN 5 SEC <<<"
     {
-        "chi" "__null__"
+        "chi" "门在5秒后打开"
     }
 
     ">>> ENTRANCE TO THE SHELTER IS OPENING IN 30 SEC <<<"
@@ -538,22 +544,22 @@
 
     ">>> YOU ARE A REAL PIRATE! <<< "
     {
-        "chi" "__null__"
+        "chi" "我是要成为海贼王的男人"
     }
 
     ">>> YOU HAVE WON THE MAP. BUT ONLY EASY KRAKEN <<< "
     {
-        "chi" "__null__"
+        "chi" "你征服了简单难度的八爪叫兽"
     }
 
     ">>> YOU KILLED GOD KRAKEN AND WON THE MAP, AMAZING. <<< "
     {
-        "chi" "__null__"
+        "chi" "恭喜你们征服了这张地图"
     }
 
     "Map made by Puklica"
     {
-        "chi" "地图作者: Puklica  地图汉化: 大明"
+        "chi" "作者:Puklica  汉化:大明@風雲社"
     }
 
 }

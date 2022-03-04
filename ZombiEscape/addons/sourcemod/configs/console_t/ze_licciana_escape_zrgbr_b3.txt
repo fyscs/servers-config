@@ -13,12 +13,12 @@
 
     "++ 15 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
     {
-        "chi" "__null__"
+        "chi" "还剩15秒到达安全地点"
     }
 
     "++ 30 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
     {
-        "chi" "**还剩30秒到达安全地点: LICCIANA**"
+        "chi" "**还剩30秒到达安全地点**"
     }
 
     "++ ESCAPE LIFT 1 ARRIVED ++"
@@ -93,7 +93,7 @@
 
     "+++ 30 SECONDS LEFT +++"
     {
-        "chi" "__null__"
+        "chi" "守住 30 秒"
     }
 
     "+++ HOLD FOR 15 SECONDS +++"
@@ -118,7 +118,7 @@
 
     "+++ PUT THE PENIS IN HIS ASS +++"
     {
-        "chi" "__null__"
+        "chi" "哦!我的上帝,你说的是什么话!"
     }
 
     "+++ THE BOAT IS LEAVING +++"
@@ -128,12 +128,12 @@
 
     "+++ THE HARU APPEARED! KILL HIM +++"
     {
-        "chi" "__null__"
+        "chi" "HARU出现了!杀了他"
     }
 
     "+++ WAIT, WTF IS THIS? +++"
     {
-        "chi" "__null__"
+        "chi" "等等,WTF是这个吗?"
     }
 
     "+++ YOU LOST +++"
@@ -144,31 +144,32 @@
     "+++Heal picked up+++"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "CHANGING LEVEL TO EASY"
     {
-        "chi" "__null__"
+        "chi" "将级别更改为"简单""
     }
 
     "CHANGING LEVEL TO EXTREME"
     {
-        "chi" "__null__"
+        "chi" "将级别更改为"极端""
     }
 
     "CHANGING LEVEL TO HARD"
     {
-        "chi" "__null__"
+        "chi" "将级别更改为"HARD""
     }
 
     "CHANGING LEVEL TO MEDIUM"
     {
-        "chi" "__null__"
+        "chi" "将级别更改为"普通""
     }
 
     "CONGRATULATIONS, YOU WON ALL THE LEVELS!"
     {
-        "chi" "__null__"
+        "chi" "恭喜你,你赢得了所有级别!"
     }
 
     "LEVEL: EASY"
@@ -198,12 +199,12 @@
 
     "NUKE ACTIVATED!"
     {
-        "chi" "__null__"
+        "chi" "导弹激活!"
     }
 
     "YOU W..."
     {
-        "chi" "__null__"
+        "chi" "芜湖!"
     }
 
     "YOU WON LEVEL EASY"
@@ -213,7 +214,7 @@
 
     "YOU WON LEVEL EXTREME"
     {
-        "chi" "__null__"
+        "chi" "**你通关了极限难度**"
     }
 
     "YOU WON LEVEL HARD"

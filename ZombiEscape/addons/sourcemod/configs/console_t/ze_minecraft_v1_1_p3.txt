@@ -194,6 +194,7 @@
     "***PUMPKIN HEAD HAS BEEN PICKED UP***"
     {
         "chi" "**一名玩家捡起了南瓜头**"
+        "blocked"    "1"
     }
 
     "***STONE DOOR OPENING***"
@@ -209,11 +210,13 @@
     "***THE BOW HAS BEEN PICKED UP***"
     {
         "chi" "**弓箭被拾起"
+        "blocked"    "1"
     }
 
     "***THE SWORD HAS BEEN PICKED UP***"
     {
         "chi" "**钻石剑被拾起*"
+        "blocked"    "1"
     }
 
     "***THIS WILL CRAFT THE SWORD*** "

@@ -13,17 +13,17 @@
 
     "*** LEVEL SET TO EXTREME ***"
     {
-        "chi" "__null__"
+        "chi" "加载极限难度"
     }
 
     "*** LEVEL SET TO HARD ***"
     {
-        "chi" "__null__"
+        "chi" "加载困难难度"
     }
 
     "*** LEVEL SET TO NORMAL ***"
     {
-        "chi" "__null__"
+        "chi" "加载正常难度"
     }
 
     "***ALL CLOSED DOORS WILL OPEN IN 15 SECONDS***"
@@ -49,11 +49,12 @@
     "***CHEAT BUTTON PRESSED***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***CLIMB THE ROCKS!***"
     {
-        "chi" "__null__"
+        "chi" "攀岩"
     }
 
     "***CT WIN!***"
@@ -98,7 +99,7 @@
 
     "***FOLLOW THE ELECTRIC PATH***"
     {
-        "chi" "__null__"
+        "chi" "沿着电气路径"
     }
 
     "***GAS CANS HAVE BEEN COLLECTED***"
@@ -128,27 +129,27 @@
 
     "***GROUND DOORS ARE OPEN***"
     {
-        "chi" "__null__"
+        "chi" "打开地面门"
     }
 
     "***GROUND DOORS WILL OPEN IN 10 SECONDS***"
     {
-        "chi" "__null__"
+        "chi" "地面门将在10秒内打开"
     }
 
     "***GROUND DOORS WILL OPEN IN 15 SECONDS***"
     {
-        "chi" "__null__"
+        "chi" "地面门将在15秒内打开"
     }
 
     "***GROUND DOORS WILL OPEN IN 5 SECONDS***"
     {
-        "chi" "__null__"
+        "chi" "地面门将在5秒内打开"
     }
 
     "***HOLD THE DOOR UNTIL IT OPENS!***"
     {
-        "chi" "__null__"
+        "chi" "按住门直到门打开"
     }
 
     "***HOLD THIS POSITION!***"
@@ -163,7 +164,7 @@
 
     "***ITS FALLING DOWN!!!***"
     {
-        "chi" "__null__"
+        "chi" "正在下降"
     }
 
     "***KILL IT!***"
@@ -188,7 +189,7 @@
 
     "***MAP RESET***"
     {
-        "chi" "__null__"
+        "chi" "地图重置"
     }
 
     "***MOVING ON TO EXTREME MODE***"
@@ -208,7 +209,7 @@
 
     "***NUKE IS COMING!!!***"
     {
-        "chi" "__null__"
+        "chi" "导弹来啦!!!"
     }
 
     "***ON THE DOOR TO THE CONTAINER***"
@@ -263,7 +264,7 @@
 
     "***THANKS FOR PLAYING : )***"
     {
-        "chi" "__null__"
+        "chi" "感谢您的参与: )"
     }
 
     "***THE BUTTON WILL CLOSE THE GATES***"
@@ -278,17 +279,17 @@
 
     "***YOU WON!!!!***"
     {
-        "chi" "__null__"
+        "chi" "你赢了!!!"
     }
 
     "***YOU WON!!!***"
     {
-        "chi" "__null__"
+        "chi" "你赢了!!!"
     }
 
     "***ZOMBIE DETECTED***"
     {
-        "chi" "__null__"
+        "chi" "检测到僵尸"
     }
 
     "***ZOMBIES HAVE BEEN TRAPPED...RUUN!***"

@@ -74,16 +74,19 @@
     "*** A zombie picked up Heal Magic ***"
     {
         "chi" "***僵尸捡起了治疗魔法***"
+        "blocked"    "1"
     }
 
     "*** A zombie picked up Ice Magic ***"
     {
         "chi" "***僵尸捡起了冰冻魔法***"
+        "blocked"    "1"
     }
 
     "*** A zombie picked up Warp Magic ***"
     {
         "chi" "***僵尸捡起了扭曲魔法***"
+        "blocked"    "1"
     }
 
     "*** Admin Selected HardMode ***"
@@ -329,26 +332,31 @@
     "*A player has picked up Ancient Earth Magic*"
     {
         "chi" "*一名玩家捡起了土*"
+        "blocked"    "1"
     }
 
     "*A player has picked up Fire Magic*"
     {
         "chi" "*一名玩家捡起了火*"
+        "blocked"    "1"
     }
 
     "*A player has picked up Heal Magic*"
     {
         "chi" "*一名玩家捡起了奶*"
+        "blocked"    "1"
     }
 
     "*A player has picked up Ice Magic*"
     {
         "chi" "*一名玩家捡起了冰*"
+        "blocked"    "1"
     }
 
     "*A player has picked up Wind Magic*"
     {
         "chi" "*一名玩家捡起了风*"
+        "blocked"    "1"
     }
 
     "[Hard Mode]"
@@ -404,13 +412,13 @@
     "Special Thanks .YuukiAsuna. Gopa Rulucy Sesame BalG"
     {
         "chi" "特别感谢:YuukiAsuna  Gopa Rulucy Sesame BalG"
-        "blocked" "1"
+        "blocked"    "1"
     }
 
     "Thanks for testing *Domain VasyaPupkin other testers"
     {
         "chi" "*感谢测试* Domain VasyaPupkin以及其他测试人员"
-        "blocked" "1"
+        "blocked"    "1"
     }
 
 }

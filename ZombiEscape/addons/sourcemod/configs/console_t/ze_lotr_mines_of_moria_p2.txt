@@ -14,6 +14,7 @@
     "** ... **"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "** Moria is unstable! Run towards the stairs in  **"
@@ -58,7 +59,7 @@
 
     "**Balin's door closing in 10 s**"
     {
-        "chi" "__null__"
+        "chi" "巴林的门在10秒后关闭"
     }
 
     "**Balrog coming to BALIN AND COLUMN ZONE in 15s**"
@@ -99,6 +100,7 @@
     "**Gandalf staff has been picked!**"
     {
         "chi" "**有玩家拾起了甘道夫法杖**"
+        "blocked"    "1"
     }
 
     "**Go to the Khazad-Dum bridge!**"
@@ -113,7 +115,7 @@
 
     "**Humans have reached Balin's tomb! Resist 55 s**"
     {
-        "chi" "__null__"
+        "chi" "人类已经到达了巴林的坟墓!坚持 55 秒"
     }
 
     "**Map by: Hannibal [SPA] (Rafuron)**"
@@ -139,16 +141,19 @@
     "**Saruman staff has been picked!**"
     {
         "chi" "**有玩家拾起了减速法杖**"
+        "blocked"    "1"
     }
 
     "**Stay in the circle! Zombies can't go in!**"
     {
-        "chi" "__null__"
+        "chi" "留在圈子里!僵尸进不去!"
     }
 
     "**The ring has been picked!**"
     {
         "chi" "**有玩家捡起了魔戒**"
+        "blocked"    "1"
+        "blocked"    "1"
     }
 
     "**Zombies have been alerted!**"
@@ -158,7 +163,7 @@
 
     "ay ** MAP BY HANNIBAL [SPA] (Rafuron) **"
     {
-        "chi" "__null__"
+        "chi" "地图作者：HANNIBAL [SPA] (Rafuron)
     }
 
 }

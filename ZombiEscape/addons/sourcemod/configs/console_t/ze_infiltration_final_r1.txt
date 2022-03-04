@@ -13,157 +13,158 @@
 
     "--- ELEVATOR 1 LEAVING IN 10 SECONDS ---"
     {
-        "chi" "__null__"
+        "chi" "电梯一将在 10 秒内离开"
     }
 
     "--- RESIST 15 SECONDS ---"
     {
-        "chi" "__null__"
+        "chi" "坚持 15 秒"
     }
 
     "--- TRAM LEAVES IN 10 SECONDS ---"
     {
-        "chi" "__null__"
+        "chi" "电车在10秒内离开"
     }
 
     "*** 10 seconds untill explosion ***"
     {
-        "chi" "__null__"
+        "chi" "将在10秒后爆炸"
     }
 
     "*** 5 seconds untill radio scrambler collapses ***"
     {
-        "chi" "__null__"
+        "chi" "坚持 5 秒,直到无线电扰频器崩溃"
     }
 
     "*** A helicopter is waiting at the helipad ***"
     {
-        "chi" "__null__"
+        "chi" "直升机已在直升机停机坪等候"
     }
 
     "*** BLASTDOOR OPENING IN 30 SECONDS ***"
     {
-        "chi" "__null__"
+        "chi" "30 秒内打开防爆门"
     }
 
     "*** Contacting HQ ***"
     {
-        "chi" "__null__"
+        "chi" "联系总部"
     }
 
     "*** Door opens in 15 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "门在15秒内打开"
     }
 
     "*** Door opens in 18 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "门在18秒内打开"
     }
 
     "*** Find a spot and resist for 50 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "兄弟们!顶住这50秒"
     }
 
     "*** Get away from there A.S.A.P ***"
     {
-        "chi" "__null__"
+        "chi" "快离开那里 A.S.A.P"
     }
 
     "*** GET TO THE CHOPPER! ***"
     {
-        "chi" "__null__"
+        "chi" "到达直升机附近"
     }
 
     "*** HELICOPTER IS LEAVING IN 10 SECONDS ***"
     {
-        "chi" "__null__"
+        "chi" "直升机将在10秒内离开"
     }
 
     "*** HELICOPTER IS LEAVING IN 70 SECONDS ***"
     {
-        "chi" "__null__"
+        "chi" "直升机将在70秒内离开"
     }
 
     "*** HQ will send a nuke at your position ***"
     {
-        "chi" "__null__"
+        "chi" "总部将向你的位置发送导弹"
     }
 
     "*** Humans are recommended to stay in the elevator***"
     {
-        "chi" "__null__"
+        "chi" "建议将人留在电梯内"
     }
 
     "*** MOVE IT! ***"
     {
-        "chi" "__null__"
+        "chi" "快点!!"
     }
 
     "*** Nuke inbound ***"
     {
-        "chi" "__null__"
+        "chi" "导弹来啦!!_"
     }
 
     "*** Opening cargo elevator door ***"
     {
-        "chi" "__null__"
+        "chi" "快打开载货电梯门!"
     }
 
     "*** Resist 15 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "坚持 15 秒"
     }
 
     "*** Resist 20 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "坚持 20 秒"
     }
 
     "*** Resist 20 seconds in the poolroom ***"
     {
-        "chi" "__null__"
+        "chi" "在台球室坚持20秒"
     }
 
     "*** RESIST OR DIE ***"
     {
-        "chi" "__null__"
+        "chi" "抗拒或死亡"
     }
 
     "*** Run to the controlroom and press the button ***"
     {
-        "chi" "__null__"
+        "chi" "跑到控制室并按下按钮"
     }
 
     "*** someone picked up the secret weapon (120 sec cooldown) ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** The zombies are trapped for 15 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "僵尸将会被困住15秒"
     }
 
     "*** THIS IS OUR FINAL STAND ***"
     {
-        "chi" "__null__"
+        "chi" "这是我们的最后一站了,加把劲!"
     }
 
     "*** ZOMBIE SHORTCUT TELEPORT ACTIVATED ***"
     {
-        "chi" "__null__"
+        "chi" "僵尸技能 瞬移 已激活"
     }
 
     "*** ZOMBIE SHORTCUT TELEPORT ACTIVATES IN 20 SECONDS ***"
     {
-        "chi" "__null__"
+        "chi" "僵尸技能瞬移将在20秒内激活"
     }
 
     "Map made by Luffaren/Per30010"
     {
-        "chi" "__null__"
+        "地图由Luffaren/Per30010制作"
     }
 
 }

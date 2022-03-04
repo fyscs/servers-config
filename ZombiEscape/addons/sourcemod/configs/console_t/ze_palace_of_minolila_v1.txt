@@ -254,56 +254,67 @@
     "<< A player has picked up earth magic >>"
     {
         "chi" "一名玩家捡起了土"
+        "blocked"    "1"
     }
 
     "<< A player has picked up electro magic >>"
     {
         "chi" "一名玩家捡起了电"
+        "blocked"    "1"
     }
 
     "<< A player has picked up Frostmourn >>"
     {
         "chi" "一名玩家捡起了霜之哀伤"
+        "blocked"    "1"
     }
 
     "<< A player has picked up gravity magic >>"
     {
         "chi" "一名玩家捡起了黑洞"
+        "blocked"    "1"
     }
 
     "<< A player has picked up heal magic >>"
     {
         "chi" "一名玩家捡起了奶"
+        "blocked"    "1"
     }
 
     "<< A player has picked up snow magic >>"
     {
         "chi" "一名玩家捡起了雪"
+        "blocked"    "1"
     }
 
     "<< A player has picked up wind magic >>"
     {
         "chi" "一名玩家捡起了风"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up gravity magic >>"
     {
         "chi" "一名玩家捡起了[zm]黑洞"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up heal magic >>"
     {
         "chi" "一名玩家捡起了[zm]治疗"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up ice magic >>"
     {
         "chi" "一名玩家捡起了[zm]冰冻"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up touching infection >>"
     {
         "chi" "一名玩家捡起了[zm]秒杀"
+        "blocked"    "1"
     }
 
     "<< Admin select EASY MODE >>"
@@ -553,17 +564,17 @@
 
     "<< Misaka: But I am lazy..... >>"
     {
-        "chi" "__null__"
+        "chi" "作者[Misaka]:我炒鸡懒得"
     }
 
     "<< Misaka: I want to make another ending of this map at first >>"
     {
-        "chi" "__null__"
+        "chi" "作者[Misaka]:我想先给这张地图做另一个结局"
     }
 
     "<< Misaka: So I will delete this button...... >>"
     {
-        "chi" "__null__"
+        "chi" "作者[Misaka]:所以我会删除这个按钮"
     }
 
     "<< Next door will open in 5 seconds >>"
