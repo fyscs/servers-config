@@ -13,27 +13,28 @@
 
     "** 10 seconds left to kill boss! **"
     {
-        "chi" "__null__"
+        "chi" "10"
     }
 
     "** BAD WIN!! ZOMBIES DETECTED **"
     {
-        "chi" "__null__"
+        "chi" "检测到僵尸,失败"
     }
 
     "** BAD WIN!! ZOMBIES DETECTED!! **"
     {
-        "chi" "__null__"
+        "chi" "检测到僵尸,失败"
     }
 
     "** Boss defeated! **"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "** Door Opened **"
     {
-        "chi" "__null__"
+        "chi" "门开了"
     }
 
     "** Door opened! **"
@@ -48,7 +49,7 @@
 
     "** Door Opening in 10 Seconds **"
     {
-        "chi" "__null__"
+        "chi" "门将在10秒后打开!不要开假枪"
     }
 
     "** Door opening in 10 seconds! **"
@@ -58,12 +59,12 @@
 
     "** Door Opening in 15 Seconds !!!**"
     {
-        "chi" "__null__"
+        "chi" "门将在15秒后打开!不要开假枪!"
     }
 
     "** Door opening in 20 seconds! **"
     {
-        "chi" "__null__"
+        "chi" "门将在20秒后打开!不要开假枪!"
     }
 
     "** Door Opening in 23 Seconds **"
@@ -88,52 +89,56 @@
 
     "** Door Opening in 30 seconds! **"
     {
-        "chi" "__null__"
+        "chi" "门将在30秒后打开!不要开假枪!"
     }
 
     "** Door opening in 40 seconds! **"
     {
-        "chi" "__null__"
+        "chi" "门将在40秒后打开!不要开假枪!"
     }
 
     "** Elevator Leaving in 10 Seconds...**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "** Elevator Leaving in 35 Seconds...**"
     {
-        "chi" "__null__"
+        "chi" "电梯:35秒"
     }
 
     "** Exit door closed! **"
     {
-        "chi" "__null__"
+        "chi" "出口门已关闭"
     }
 
     "** Exit door closing in 10 seconds! **"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "** Exit door closing in 15 seconds! **"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "** Exit door closing in 40 seconds! **"
     {
-        "chi" "__null__"
+        "chi" "距离大门关闭还有40秒"
     }
 
     "** Exit door opened! **"
     {
-        "chi" "__null__"
+        "chi" "出口的门打开了"
     }
 
     "** Exit door opening in 10 seconds! **"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "** Exit door opening in 40 seconds! **"
@@ -143,32 +148,32 @@
 
     "** Humans failed! **"
     {
-        "chi" "__null__"
+        "chi" "失败"
     }
 
     "** Humans have 2 minutes to deafet the boss! **"
     {
-        "chi" "__null__"
+        "chi" "你有120秒的时间去打败boss"
     }
 
     "** Killing exit room in 10 seconds! **"
     {
-        "chi" "__null__"
+        "chi" "10"
     }
 
     "** LEVEL: NIGHTMARE **"
     {
-        "chi" "__null__"
+        "chi" "当前难度:恶梦"
     }
 
     "** LEVEL: NO REST FOR LIVING **"
     {
-        "chi" "__null__"
+        "chi" "当前难度:困难"
     }
 
     "** LEVEL: NOT TOO ROUGH **"
     {
-        "chi" "**阶段: 一般一般**"
+        "chi" "**当前难度:一般**"
     }
 
     "** Map by Night Fury **"
@@ -178,27 +183,27 @@
 
     "** NIGHTMARE! difficulty selected. **"
     {
-        "chi" "__null__"
+        "chi" "噩梦难度载入"
     }
 
     "** NO REST FOR THE LIVING difficulty selected. **"
     {
-        "chi" "__null__"
+        "chi" "困难难度载入"
     }
 
     "** NOT TOO ROUGH difficulty selected. **"
     {
-        "chi" "__null__"
+        "chi" "一般难度载入"
     }
 
     "** Opening door in 10 Seconds **"
     {
-        "chi" "__null__"
+        "chi" "门将在10秒后打开"
     }
 
     "** Opening door in 10 seconds... **"
     {
-        "chi" "__null__"
+        "chi" "门将在10秒后打开"
     }
 
     "** Opening door in 15 Seconds!! **"
@@ -208,17 +213,18 @@
 
     "** Opening door in 20 Seconds **"
     {
-        "chi" "__null__"
+        "chi" "门将在20秒后打开"
     }
 
     "** Opening Door... **"
     {
-        "chi" "__null__"
+        "chi" "门已开放"
     }
 
     "** Opening X door in few seconds **"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "** Resist! a few seconds more **"
@@ -229,36 +235,38 @@
     "** Teleport active in 10 seconds! **"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "** Teleport active in 40 seconds! **"
     {
-        "chi" "__null__"
+        "chi" "传送:40秒"
     }
 
     "** Teleport active! **"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "** Zombies have been released! **"
     {
-        "chi" "__null__"
+        "chi" "丧尸出笼"
     }
 
     "A player has aquired berserker powerup!"
     {
-        "chi" "__null__"
+        "chi" "一名玩家获得了狂暴"
     }
 
     "A player has aquired the BFG!"
     {
-        "chi" "__null__"
+        "chi" "一名玩家获得了BFG"
     }
 
     "A player has aquired the megasphere powerup!"
     {
-        "chi" "__null__"
+        "chi" "一位玩家获得了能量装置"
     }
 
     "A player has aquired the soulsphere powerup!"
@@ -268,52 +276,52 @@
 
     "Berserker powerup has one charge!"
     {
-        "chi" "__null__"
+        "chi" "狂暴有使用限制"
     }
 
     "Beserker charge depleting in 1"
     {
-        "chi" "__null__"
+        "chi" "狂暴耗尽:一"
     }
 
     "Beserker charge depleting in 2"
     {
-        "chi" "__null__"
+        "chi" "狂暴耗尽:二"
     }
 
     "Beserker charge depleting in 3"
     {
-        "chi" "__null__"
+        "chi" "狂暴耗尽:三"
     }
 
     "Beserker charge fully depleted!"
     {
-        "chi" "__null__"
+        "chi" "狂爆充能完全耗尽"
     }
 
     "Beserker has been enabled!"
     {
-        "chi" "__null__"
+        "chi" "狂暴已激活"
     }
 
     "BFG now usable!"
     {
-        "chi" "__null__"
+        "chi" "BFG已激活"
     }
 
     "BFG only usable 30 seconds after pickup!"
     {
-        "chi" "__null__"
+        "chi" "BFG仅在或许30秒内能使用"
     }
 
     "BFG powerup has one shot!"
     {
-        "chi" "__null__"
+        "chi" "BFG仅可以使用一次"
     }
 
     "Bfg used!"
     {
-        "chi" "__null__"
+        "chi" "使用了BFG"
     }
 
     "First soulsphere charge used!"
@@ -323,27 +331,27 @@
 
     "Megasphere now usable!"
     {
-        "chi" "__null__"
+        "chi" "能量装置激活"
     }
 
     "Megasphere only usable 30 seconds after pikcup!"
     {
-        "chi" "__null__"
+        "chi" "能量装置仅在或许30秒内能使用"
     }
 
     "Megasphere power depleted!"
     {
-        "chi" "__null__"
+        "chi" "能量装置充能耗尽"
     }
 
     "Megasphere powerup has one charge!"
     {
-        "chi" "__null__"
+        "chi" "能量装置仅可以使用一次"
     }
 
     "Megasphere used!"
     {
-        "chi" "__null__"
+        "chi" "使用了能量装置"
     }
 
     "Soulsphere final charge used!"
@@ -368,7 +376,7 @@
 
     "Soulsphere recharged"
     {
-        "chi" "__null__"
+        "chi" "能量装置充电完成"
     }
 
     "Soulsphere recharged!"

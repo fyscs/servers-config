@@ -13,7 +13,7 @@
 
     " [Teleport in 20 secs ]"
     {
-        "chi" "__null__"
+        "chi" "传送:20秒"
     }
 
     "[A cube has been break]"
@@ -24,6 +24,7 @@
     "[A zombie has speed item]"
     {
         "chi" "一名玩家捡起了[ZM]加速"
+        "blocked"    "1"
     }
 
     "[Admin have select stage 1]"
@@ -353,7 +354,7 @@
 
     "[Tele Zm in 5 secs]"
     {
-        "chi" "__null__"
+        "chi" "僵尸传送:5秒"
     }
 
     "[Teleport Afk in 10 secs]"
@@ -373,7 +374,7 @@
 
     "[Teleport will enable in 20 secs]"
     {
-        "chi" "__null__"
+        "chi" "传送:20秒"
     }
 
     "[Teleport will Enable in 20 secs]"

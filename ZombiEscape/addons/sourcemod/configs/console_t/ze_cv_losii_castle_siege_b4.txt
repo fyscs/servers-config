@@ -14,6 +14,7 @@
     "*** Dragon Tailsmen relic has been picked up.***"
     {
         "chi" "**一名玩家捡起了神圣**"
+        "blocked"    "1"
     }
 
     "***BOSS IS CHARGING ANGELIC FLAME***"
@@ -99,6 +100,7 @@
     "***Chaos Magic has been acquired.***"
     {
         "chi" "**一名玩家捡起了烈火**"
+        "blocked"    "1"
     }
 
     "***Defend for 30 seconds until gates open.***"
@@ -134,6 +136,7 @@
     "***Heal Magic has been acquired.***"
     {
         "chi" "**一名玩家捡起了治疗**"
+        "blocked"    "1"
     }
 
     "***Hold for 20 seconds untill the portal opens.***"
@@ -269,6 +272,7 @@
     "***Void Magic has been acquired.***"
     {
         "chi" "**一名玩家捡起了寒冰**"
+        "blocked"    "1"
     }
 
     "***Wait, its The Paladin of God again, prepare for anything he is up to do.***"
@@ -333,7 +337,7 @@
 
     "***Zombie teleport is advancing in 10 seconds.***"
     {
-        "chi" "__null__"
+        "chi" "僵尸将于10秒后传送"
     }
 
     "***Zombie teleport is advancing in 20 seconds"

@@ -44,6 +44,7 @@
     "++ FLAMETHROWER HAS BEEN PICKED. PRESS E TO USE ++"
     {
         "chi" "**火焰枪已被拾起**"
+        "blocked"    "1"
     }
 
     "++ FUEL FOR 10 SECONDS ++"
@@ -83,7 +84,7 @@
 
     "+++ FIXED BY CISNEROS +++"
     {
-        "chi" "__null__"
+        "chi" "修复:CISNEROS"
     }
 
     "+++ PREPARE YOUR DEFENSE AND DEFEND AT THIS ZONE +++"

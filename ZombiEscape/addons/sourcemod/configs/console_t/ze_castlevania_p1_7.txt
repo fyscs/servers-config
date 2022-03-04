@@ -28,27 +28,27 @@
 
     "***5 SECONDS LEFT***"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "***A CRYSTAL HAS BEEN ABSORBED***"
     {
-        "chi" "__null__"
+        "chi" "水晶已被吸收"
     }
 
     "***A KEY HAS BEEN ACQUIRED***"
     {
-        "chi" "__null__"
+        "chi" "已获得钥匙"
     }
 
     "***A LEVER HAS BEEN PRESSED***"
     {
-        "chi" "__null__"
+        "chi" "已按下杠杆"
     }
 
     "***ADMIN ROOM - KILL ALL***"
     {
-        "chi" "__null__"
+        "chi" "处死全体"
     }
 
     "***ADMIN ROOM - STAGE 1 SET***"
@@ -143,7 +143,7 @@
 
     "***DEFEND FOR 20 SECONDS***"
     {
-        "chi" "__null__"
+        "chi" "防守:20秒"
     }
 
     "***DEFEND THE CHAPEL***"
@@ -213,7 +213,7 @@
 
     "***GET RID OF THE REMAINING ZOMBIES***"
     {
-        "chi" "__null__"
+        "chi" "摆脱剩余的僵尸"
     }
 
     "***GO OUT THROUGH THE MAIN GATE***"
@@ -228,7 +228,7 @@
 
     "***HOLD FOR 20 SECONDS***"
     {
-        "chi" "__null__"
+        "chi" "防守:20秒"
     }
 
     "***HOLD HERE FOR 15 SECONDS***"
@@ -253,7 +253,7 @@
 
     "***HOLD OUT UNTIL IT'S EXTINGUISHED***"
     {
-        "chi" "__null__"
+        "chi" "坚持到它熄灭"
     }
 
     "***HOLD THE ZOMBIES BACK FOR A WHILE***"
@@ -303,12 +303,12 @@
 
     "***IT'S A SNOW TITAN***"
     {
-        "chi" "__null__"
+        "chi" "这是冰霜巨人"
     }
 
     "***IT'S ABOUT TO ATTACK***"
     {
-        "chi" "__null__"
+        "chi" "即将发起攻击"
     }
 
     "***ITS COMING***"
@@ -318,7 +318,7 @@
 
     "***IT'S NOT OVER YET***"
     {
-        "chi" "__null__"
+        "chi" "还没结束呢"
     }
 
     "***KILL ANY REMAINING ENEMIES***"
@@ -343,7 +343,7 @@
 
     "***LUFFAREN HAS ENTERED THE GAME***"
     {
-        "chi" "__null__"
+        "chi" "luffaren进入游戏"
     }
 
     "***LUFFAREN PROUDLY PRESENTS...***"
@@ -458,7 +458,7 @@
 
     "***STAGE -- ZM***"
     {
-        "chi" "__null__"
+        "chi" "生存关"
     }
 
     "***STAGE 1 -- THE SHIP***"
@@ -493,7 +493,7 @@
 
     "***STAGE 7 -- THE MOUNTAIN***"
     {
-        "chi" "__null__"
+        "chi" "阶段七-德古拉城堡"
     }
 
     "***STAGE 7 -- THE ROAD TO CASTLE DRACULA***"
@@ -503,7 +503,7 @@
 
     "***STAGE 8 -- THE MOLTEN CORE***"
     {
-        "chi" "__null__"
+        "chi" "阶段八-熔岩核心"
     }
 
     "***STAGE COMPLETE***"
@@ -583,7 +583,7 @@
 
     "***THE ELEVATOR WILL ASCEND IN 30 SECONDS***"
     {
-        "chi" "__null__"
+        "chi" "电梯将在30秒后上升"
     }
 
     "***THE ELEVATOR WILL ASCEND IN 5 SECONDS***"
@@ -658,7 +658,7 @@
 
     "***THE VIP HAS BEEN KILLED***"
     {
-        "chi" "__null__"
+        "chi" "VIP已死亡"
     }
 
     "***THEY ARE AFTER US***"
@@ -743,7 +743,7 @@
 
     "***WATCH OUT!***"
     {
-        "chi" "__null__"
+        "chi" "小心"
     }
 
     "***WATCH OUT***"
@@ -769,6 +769,7 @@
     "***WE'RE SAVED***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***WOMBO COMBO ENDED!***"
@@ -803,7 +804,7 @@
 
     "***YOU LOST***"
     {
-        "chi" "__null__"
+        "chi" "失败"
     }
 
     "***YOU MADE IT TO THE TOWN ENTRANCE***"

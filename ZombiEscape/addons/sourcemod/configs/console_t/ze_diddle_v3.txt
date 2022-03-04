@@ -23,7 +23,7 @@
 
     "***..THEN DON'T GET INSIDE***"
     {
-        "chi" "__null__"
+        "chi" "不要进入"
     }
 
     "***1 LIKE = ONE PRAYER FOR JEBUS***"
@@ -38,12 +38,12 @@
 
     "***15 SECONDS LEFT***"
     {
-        "chi" "大门在十五秒后打开"
+        "chi" "大门在15秒后打开"
     }
 
     "***30 SECONDS LEFT***"
     {
-        "chi" "__null__"
+        "chi" "门在30秒后打开"
     }
 
     "***5 SECONDS LEFT***"
@@ -258,7 +258,7 @@
 
     "***DADDY PLEASE STOP IT HURTS***"
     {
-        "chi" "__null__"
+        "chi" "爸爸请不要再打我的屁股了"
     }
 
     "***DEFEND FOR 20 SECONDS***"
@@ -284,6 +284,7 @@
     "***dick attack*** WIP"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***DIDDLE THEM OFF FOR 20 SECONDS***"
@@ -353,7 +354,7 @@
 
     "***FIST ME DADDY***"
     {
-        "chi" "__null__"
+        "chi" "快用你的大拳拳打我,爸爸"
     }
 
     "***FUS RO...***"
@@ -399,6 +400,7 @@
     "***HICHATU CAN'T MAKE MODELS IN BLENDER***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***HOLD OUT FOR 30 SECONDS***"
@@ -458,12 +460,12 @@
 
     "***IF/WHEN YOU GET INSIDE YOU'LL HAVE 10 SECONDS TO BUY SOMETHING***"
     {
-        "chi" "__null__"
+        "chi" "进入商店后,你有十秒的时间购买物品"
     }
 
     "***I'M RICK HARRISON, AND THIS IS MY PAWN SHOP***"
     {
-        "chi" "__null__"
+        "chi" "我是里克哈里森,这是我的商店"
     }
 
     "***JUMP INSIDE THE DOODLE DOODY***"
@@ -498,7 +500,7 @@
 
     "***LOVE ISN'T ALWAYS ON TIME***"
     {
-        "chi" "__null__"
+        "chi" "爱并不总是准时"
     }
 
     "***MAY THE DOODLING BE WITH YOU***"
@@ -518,7 +520,7 @@
 
     "***OH NO, IT'S THE DIDDLE DICK***"
     {
-        "chi" "__null__"
+        "chi" "厚礼蟹,你这蠢货"
     }
 
     "***OH NO, THE SEAL IS TOO POWERFUL***"
@@ -529,6 +531,7 @@
     "***OH YEAH DADDY HARDER***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***PEACE SHALL REMAIN IN THE PEACEFUL LAND OF ANTARCTICA***"
@@ -798,17 +801,17 @@
 
     "***THE END IS COMING IN 1 SECOND***"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     "***THE END IS COMING IN 10 SECONDS***"
     {
-        "chi" "__null__"
+        "chi" "10"
     }
 
     "***THE END IS COMING IN 2 SECONDS***"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "***THE END IS COMING IN 20 SECONDS***"
@@ -818,12 +821,12 @@
 
     "***THE END IS COMING IN 3 SECONDS***"
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     "***THE END IS COMING IN 4 SECONDS***"
     {
-        "chi" "__null__"
+        "chi" "4"
     }
 
     "***THE END IS COMING IN 5 SECONDS***"
@@ -934,6 +937,7 @@
     "***TP'ING IN 1 SEC***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***TP'ING IN 10 SECS***"
@@ -944,21 +948,25 @@
     "***TP'ING IN 2 SECS***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***TP'ING IN 3 SECS***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***TP'ING IN 4 SECS***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***TP'ING IN 5 SECS***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***Turtle heals every 50 seconds***"
@@ -1018,7 +1026,7 @@
 
     "***You didn't make it in time, what a fucking shame, you don't get the secret item now***"
     {
-        "chi" "__null__"
+        "chi" "丢人"
     }
 
     "***YOU MUST FIND A WAY TO BREAK THE POWERFUL SEAL***"
@@ -1063,12 +1071,12 @@
 
     "***ZOMBIES REACHED ELEVATOR - YOU'RE DEAD***"
     {
-        "chi" "__null__"
+        "chi" "僵尸到达僵尸,你们完了"
     }
 
     "***ZOMBIES REACHED TOP GATE - YOU'RE DEAD***"
     {
-        "chi" "__null__"
+        "chi" "僵尸到达顶门,你们完了"
     }
 
     "***ZOMBIES TELEPORT IN 10 SECONDS***"
@@ -1189,6 +1197,7 @@
     "*Demon Turtle casts 29--;*"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*Demon Turtle casts Chill*"
@@ -1464,6 +1473,7 @@
     "===[ ZOMBIE JIHAD ABORTED - BAD/EXPLOIT SPOT ]==="
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "> HICHATU"
@@ -1508,7 +1518,7 @@
 
     "defend"
     {
-        "chi" "__null__"
+        "chi" "防守"
     }
 
     "defend for 10 sec"
@@ -1574,6 +1584,7 @@
     "I killed a faggot weeaboo"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "i love you"

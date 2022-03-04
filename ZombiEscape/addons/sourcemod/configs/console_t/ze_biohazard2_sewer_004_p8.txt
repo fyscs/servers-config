@@ -13,12 +13,12 @@
 
     " **** MAP BY AERIS_004 ****"
     {
-        "chi" "__null__"
+        "chi" "作者:AERIS_004    汉化:小三@風雲社"
     }
 
     " ***START TRAIN 20 SEC ***"
     {
-        "chi" "__null__"
+        "chi" "电车20s后运行"
     }
 
     "*** CATCH GOLD MEDAL ***"
@@ -69,6 +69,7 @@
     "***WWW.SUPREME-ELITE.FR ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
 }

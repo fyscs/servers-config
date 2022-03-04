@@ -13,7 +13,7 @@
 
     " ** 10sec **"
     {
-        "chi" "__null__"
+        "chi" "10"
     }
 
     "** 1 **"
@@ -24,13 +24,12 @@
 
     "** 10 sec more **"
     {
-        "chi" "坚持一下,还有10秒"
+        "chi" "10"
     }
 
     "** 10sec **"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "10"
     }
 
     "** 2 **"
@@ -64,17 +63,17 @@
 
     "** 5 sec**"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "** 5sec **"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "** 5sec**"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "** Defend **"
@@ -119,7 +118,7 @@
 
     "** Door will close after 20sec **"
     {
-        "chi" "__null__"
+        "chi" "扇门20秒后打开"
     }
 
     "** Door will open after 15sec **"
@@ -134,7 +133,7 @@
 
     "** Door will open after 30sec **"
     {
-        "chi" "__null__"
+        "chi" "扇门30秒后打开"
     }
 
     "** Door will open in 30 sec **"
@@ -179,7 +178,7 @@
 
     "** NUKE in 5 **"
     {
-        "chi" "__null__"
+        "chi" "核爆:5秒"
     }
 
     "** Shoot the glass on the top **"
@@ -204,7 +203,7 @@
 
     "** Teleport will enable in 30 sec**"
     {
-        "chi" "__null__"
+        "chi" "传送:30秒"
     }
 
     "** Welcome **"
@@ -214,12 +213,12 @@
 
     "** You failed me **"
     {
-        "chi" "__null__"
+        "chi" "你让我太失望了"
     }
 
     "** Zombie will teleport after 10sec **"
     {
-        "chi" "__null__"
+        "chi" "僵尸传送:10秒"
     }
 
     "*** Level 1 ***"

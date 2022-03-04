@@ -103,7 +103,7 @@
 
     "***Afk Tp in 10 Seconds***"
     {
-        "chi" "__null__"
+        "chi" "挂机传送:10秒"
     }
 
     "***AFK Tp in 10 Seconds***"
@@ -208,7 +208,7 @@
 
     "***Defend This Area For 20 Seconds***"
     {
-        "chi" "__null__"
+        "chi" "防守:20秒"
     }
 
     "***Defend Until We Find A Way To Break Them***"
@@ -313,7 +313,7 @@
 
     "***FallBack***"
     {
-        "chi" "__null__"
+        "chi" "撤退"
     }
 
     "***Find A Way To Open it***"
@@ -524,46 +524,55 @@
     "***Player Has Picked Up Bomb Crate***"
     {
         "chi" "**一只僵尸拾取了炸弹箱**"
+        "blocked"    "1"
     }
 
     "***Player Has Picked Up Demonic Bible***"
     {
         "chi" "**一只僵尸拾取了恶魔圣经**"
+        "blocked"    "1"
     }
 
     "***Player Has Picked Up Garden Key***"
     {
         "chi" "**一名人类拾取了花园钥匙**"
+        "blocked"    "1"
     }
 
     "***Player Has Picked Up Oil Barrel***"
     {
         "chi" "**一名人类拾取燃油**"
+        "blocked"    "1"
     }
 
     "***Player Has Picked Up Pulsar***"
     {
         "chi" "**一只僵尸拾取了脉冲波**"
+        "blocked"    "1"
     }
 
     "***Player Has Picked Up Purification***"
     {
         "chi" "**一名人类拾取了净化**"
+        "blocked"    "1"
     }
 
     "***Player Has Picked Up Purifying Crystal***"
     {
         "chi" "**一名人类找到了净化水晶**"
+        "blocked"    "1"
     }
 
     "***Player Has Picked Up Spooky Ghost***"
     {
         "chi" "**一只僵尸拾取了幽灵**"
+        "blocked"    "1"
     }
 
     "***Player Has Picked Up TNT***"
     {
         "chi" "**一名玩家拾取了TNT**"
+        "blocked"    "1"
     }
 
     "***Please Help Me Find Harry... He is in The Garden***"
@@ -589,6 +598,7 @@
     "***Shoot The Perch***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***Something is Coming......***"
@@ -673,7 +683,7 @@
 
     "***That Must Be The Key To The Village***"
     {
-        "chi" "__null__"
+        "chi" "那一定是通往村庄的钥匙"
     }
 
     "***That Must Be The Last Gate Lever***"
@@ -868,7 +878,7 @@
 
     "***We Got The Key***"
     {
-        "chi" "__null__"
+        "chi" "钥匙找到了"
     }
 
     "***We Got The Winch Lever***"

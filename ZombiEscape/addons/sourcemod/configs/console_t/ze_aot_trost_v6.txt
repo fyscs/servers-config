@@ -123,7 +123,7 @@
 
     ">>Map by Natsume,model by Sea_sedge/Qigongxiaoxie,script by Sea_sedge,particle help:Li qiluo<<"
     {
-        "chi" "__null__"
+        "chi" "地图制作:Natsume    模型:Sea_sedge/Qigongxiaoxie    脚本:Sea_sedge,particle    帮助:Li qiluo"
     }
 
     ">>Mission completed, loading the Extreme Mode<<"
@@ -259,11 +259,6 @@
     ">This remade map is based on ze_attackontitan_trotster and aot_trostlos,some house models come from ze_tyranny2<"
     {
         "chi" "**>>地图重置于Ze_attackontitan_trotster和aot_trostlos,一些房屋模型来自于暴君2<<**"
-    }
-
-    "Monkey threw a stone.Watch out!"
-    {
-        "chi" "__null__"
     }
 
 }

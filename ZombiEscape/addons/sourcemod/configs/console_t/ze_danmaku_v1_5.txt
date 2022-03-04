@@ -13,12 +13,12 @@
 
     " << COSMIC FALL >>"
     {
-        "chi" "__null__"
+        "chi" "天坠"
     }
 
     " << PUSH >>"
     {
-        "chi" "__null__"
+        "chi" "推力"
     }
 
     "*** Calculating Round Data ***"
@@ -139,16 +139,19 @@
     "<ZOMBIE HAS PICKED UP:DEMONIC AURA>"
     {
         "chi" "一名捡起捡起了恶魔光环"
+        "blocked"    "1"
     }
 
     "<ZOMBIE HAS PICKED UP:MANIPULATION>"
     {
         "chi" "一名捡起捡起了控制"
+        "blocked"    "1"
     }
 
     "<ZOMBIE HAS PICKED UP:ORDNANCE:>"
     {
         "chi" "一名捡起捡起了灼热光炮"
+        "blocked"    "1"
     }
 
     "===DiagramEnabled==="
@@ -174,21 +177,25 @@
     ">PLAYER HAS PICKED UP:BULWARK MAKER<"
     {
         "chi" "一名玩家捡起了坚盾壁垒"
+        "blocked"    "1"
     }
 
     ">PLAYER HAS PICKED UP:GIST<"
     {
         "chi" "一名捡起捡起了能量环带"
+        "blocked"    "1"
     }
 
     ">PLAYER HAS PICKED UP:HOLY AURA<"
     {
         "chi" "一名捡起捡起了能量爆发"
+        "blocked"    "1"
     }
 
     ">PLAYER HAS PICKED UP:PONDER<"
     {
-        "chi" "一名捡起捡起了静默领域"
+        "chi" "一名捡起了静默领域"
+        "blocked"    "1"
     }
 
     ">Skematics enabled<"
@@ -213,7 +220,7 @@
 
     "Warmup Round Ending"
     {
-        "chi" "__null__"
+        "chi" "热身结束"
     }
 
 }

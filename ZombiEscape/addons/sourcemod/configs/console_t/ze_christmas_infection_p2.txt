@@ -14,11 +14,13 @@
     "* Trampoline placer has been picked up. Press +USE (E) to place a trampoline. *"
     {
         "chi" "**蹦床被捡到了.按E键使用 **"
+        "blocked"    "1"
     }
 
     "* Whirpool summoner has been picked up. Press +USE (E) to summon*"
     {
         "chi" "**呼啸召唤器被捡到了.按E使用 **"
+        "blocked"    "1"
     }
 
     "** 15 SECONDS! KEEP IT UP!!! **"
@@ -33,7 +35,7 @@
 
     "** 15 SECONDS!!! **"
     {
-        "chi" "__null__"
+        "chi" "15"
     }
 
     "** 5 seconds! RESIST!!! **"
@@ -43,32 +45,32 @@
 
     "** AN ADMIN CHANGED THE LEVEL TO APOCALYPSE! **"
     {
-        "chi" "__null__"
+        "chi" "末日难度载入"
     }
 
     "** AN ADMIN CHANGED THE LEVEL TO BARRICADE AND VOTE ROUND! **"
     {
-        "chi" "__null__"
+        "chi" "投票选择是否载入路障难度"
     }
 
     "** AN ADMIN CHANGED THE LEVEL TO EASY! **"
     {
-        "chi" "__null__"
+        "chi" "简单难度载入"
     }
 
     "** AN ADMIN CHANGED THE LEVEL TO MEDIUM! **"
     {
-        "chi" "__null__"
+        "chi" "困难难度载入"
     }
 
     "** AN ADMIN CHANGED THE LEVEL TO TOUGH! **"
     {
-        "chi" "__null__"
+        "chi" "极限难度载入"
     }
 
     "** AN ADMIN PRESSED THE NUKE BUTTON! **"
     {
-        "chi" "__null__"
+        "chi" "处死全体"
     }
 
     "** An evil christmas ogre has appeared... **"
@@ -83,7 +85,7 @@
 
     "** CURRENT LEVEL: BARRICADE AND LEVEL VOTE **"
     {
-        "chi" "__null__"
+        "chi" "投票选择地图难度"
     }
 
     "** CURRENT LEVEL: EASY **"
@@ -154,16 +156,18 @@
     "** Ice boomerang has been picked up. Press +USE (E) to throw it. **"
     {
         "chi" "**冰棒被捡到了.按E使用 **"
+        "blocked"    "1"
     }
 
     "** Icewall spawner has been picked up. Press +USE (E) to spawn a wall. **"
     {
         "chi" "**冰墙被捡到了.按E键使用 **"
+        "blocked"    "1"
     }
 
     "** If after 30 seconds no level has been selected the nuke will activate! **"
     {
-        "chi" "__null__"
+        "chi" "核爆:30秒"
     }
 
     "** IT'S TOO LATE! THE BOAT WILL NOT DO IT IN TIME! WE WILL DIE! **"
@@ -173,7 +177,7 @@
 
     "** Just one minute! Keep it up! **"
     {
-        "chi" "__null__"
+        "chi" "60秒"
     }
 
     "** Keep defending! 15 seconds left! **"
@@ -193,7 +197,7 @@
 
     "** LAST 30 SECONDS! HOLD THE LAST BIT! **"
     {
-        "chi" "__null__"
+        "chi" "最后30秒"
     }
 
     "** LAST 5 SECONDS! GET READY!!! **"
@@ -214,16 +218,18 @@
     "** Magical lantern has been picked up. Press +USE (E) to activate it. **"
     {
         "chi" "**魔灯被捡到了.按E使用 **"
+        "blocked"    "1"
     }
 
     "** Napalm candle has been picked up. Press +USE (E) to activate **"
     {
         "chi" "**火焰被捡到了.按E使用 **"
+        "blocked"    "1"
     }
 
     "** No level was chosen in time! The next level will be random!!! **"
     {
-        "chi" "__null__"
+        "chi" "你没有选择,地图难度将会随机"
     }
 
     "** Only 5 seconds left! RESIST! **"
@@ -233,7 +239,7 @@
 
     "** Only humans will be able to vote! **"
     {
-        "chi" "__null__"
+        "chi" "只有人类才能投票"
     }
 
     "** Red and blue presents will contain zombie and human items respectively. **"
@@ -258,7 +264,7 @@
 
     "** RESIST! 5 SECONDS!!! **"
     {
-        "chi" "__null__"
+        "chi" "防守:5秒"
     }
 
     "** Resist! The doors will open in 10 seconds!!! **"
@@ -273,7 +279,7 @@
 
     "** Select one of the endings pressing the buttons! Nuke in 30 seconds! **"
     {
-        "chi" "__null__"
+        "chi" "核弹:30秒"
     }
 
     "** SHOOT! Zombies can jump into the balloon!!! **"
@@ -284,6 +290,7 @@
     "** Snowball launcher has been picked up. Press +USE (E) to launch a snowball. **"
     {
         "chi" "**雪球被捡到了.按E使用 **"
+        "blocked"    "1"
     }
 
     "** Storage area door opening in 15 seconds. HOLD! **"
@@ -293,7 +300,7 @@
 
     "** Survive for 4 minutes to get to the vote level! **"
     {
-        "chi" "__null__"
+        "chi" "生存240秒"
     }
 
     "** Systems activated! Doors opening in 10 seconds! **"
@@ -333,27 +340,27 @@
 
     "** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE APOCALYPSE! **"
     {
-        "chi" "__null__"
+        "chi" "投票结果:末日难度载入"
     }
 
     "** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE BARRICADE AND VOTE AGAIN! **"
     {
-        "chi" "__null__"
+        "chi" "投票结果:障碍"
     }
 
     "** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE EASY! **"
     {
-        "chi" "__null__"
+        "chi" "投票结果:简单难度载入"
     }
 
     "** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE MEDIUM! **"
     {
-        "chi" "__null__"
+        "chi" "投票结果:困难难度载入"
     }
 
     "** THE VOTE HAS SPOKEN! NEXT LEVEL WILL BE TOUGH! **"
     {
-        "chi" "__null__"
+        "chi" "投票结果:极限难度载入"
     }
 
     "** The way is locked! Open the doors pressing the buttons at the control area! **"
@@ -379,16 +386,17 @@
     "** Tree placer has been picked up. Press +USE (E) to place a tree. **"
     {
         "chi" "**树木被捡到了.按E使用 **"
+        "blocked"    "1"
     }
 
     "** Two minutes left! RESIST! **"
     {
-        "chi" "__null__"
+        "chi" "还有120秒"
     }
 
     "** UNBELIEVABLE!!! You have beaten the map! Next round will be barricade and level vote! **"
     {
-        "chi" "__null__"
+        "chi" "你征服了这张地图,下一回合将会进行投票以选择地图难度"
     }
 
     "** We have to hold this area for 40 seconds until the doors open! **"
@@ -423,7 +431,7 @@
 
     "** Well done! Vote for the level you want to play! **"
     {
-        "chi" "__null__"
+        "chi" "投票选择你想玩的关卡"
     }
 
     "** You have beaten easy mode... Let's see now how you do in MEDIUM! **"
@@ -438,22 +446,25 @@
 
     "** ZE_CHRISTMAS_INFECTION **"
     {
-        "chi" "__null__"
+        "chi" "地图:圣诞大逃亡"
     }
 
     "** Zombie fog has been picked up. Press +USE (E) to activate **"
     {
         "chi" "**僵尸雾霾被捡到了.按E使用 **"
+        "blocked"    "1"
     }
 
     "** Zombie heal has been picked up. Press +USE (E) to activate.**"
     {
         "chi" "**僵尸治愈被捡到了.按E使用 **"
+        "blocked"    "1"
     }
 
     "** Zombie present placer has been picked up. Press +USE (E) to place a present. **"
     {
         "chi" "**僵尸礼物被捡到了.按E放置 **"
+        "blocked"    "1"
     }
 
     "*** Activate both control pannels at once to unlock the door! ***"
@@ -523,7 +534,7 @@
 
     "*** ZOMBIES DETECTED ON THE BALLOON - INVALID VICTORY!!! ***"
     {
-        "chi" "__null__"
+        "chi" "检测到僵尸,失败"
     }
 
 }

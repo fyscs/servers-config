@@ -13,32 +13,32 @@
 
     "###$$$%%%LEVEL 1%%%$$$###"
     {
-        "chi" "__null__"
+        "chi" "第一关"
     }
 
     "###$$$%%%LEVEL 2%%%$$$###"
     {
-        "chi" "__null__"
+        "chi" "第二关"
     }
 
     "###$$$%%%LEVEL 3%%%$$$###"
     {
-        "chi" "__null__"
+        "chi" "第三关"
     }
 
     "###$$$%%%LEVEL 4%%%$$$###"
     {
-        "chi" "__null__"
+        "chi" "第四关"
     }
 
     "###$$$%%%LEVEL 5%%%$$$###"
     {
-        "chi" "__null__"
+        "chi" "第五关"
     }
 
     "10 Seconds left"
     {
-        "chi" "__null__"
+        "chi" "10"
     }
 
     "5 Seconds Left!"
@@ -49,6 +49,8 @@
     "a player picked up the fan!"
     {
         "chi" "**一名玩家获得了扇子**"
+        "blocked"    "1"
+        
     }
 
     "Boss Fight in 10 Sec"
@@ -58,7 +60,7 @@
 
     "Boss Fight in 5 Seconds!"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "Boss is Defeated!"
@@ -69,6 +71,8 @@
     "BROKEN BB_IU AAAAAAAAAAAAAAAA"
     {
         "chi" "__null__"
+        "blocked"    "1"
+        
     }
 
     "Door Closes in 10 Seconds"
@@ -78,12 +82,12 @@
 
     "Door opens in 15 Seconds!"
     {
-        "chi" "__null__"
+        "chi" "门:15秒"
     }
 
     "Door Opens in 35 Seconds!"
     {
-        "chi" "__null__"
+        "chi" "门:35秒"
     }
 
     "Elevator will leave in 30 Seconds!"
@@ -98,17 +102,17 @@
 
     "Final Door Opens in 20 Seconds!"
     {
-        "chi" "__null__"
+        "chi" "最后の门:20秒"
     }
 
     "Final Door Opens in 40 Seconds!"
     {
-        "chi" "__null__"
+        "chi" "最后の门:40秒"
     }
 
     "Hold for 20 Seconds!"
     {
-        "chi" "__null__"
+        "chi" "防守:20秒"
     }
 
     "Hold for 40 Seconds!"
@@ -139,6 +143,7 @@
     "Majin boo has a good idea!"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "Map by Lord. Death. - GFLClan.com"
@@ -183,7 +188,7 @@
 
     "Oh no! It's bb! Kill him before he kills us"
     {
-        "chi" "__null__"
+        "chi" "厚礼蟹,这是无敌地鼠,快淦掉它"
     }
 
     "Okay, Keep holding for another 30 Seconds!"
@@ -193,17 +198,19 @@
 
     "Path is open, Teleporting Zombies in 10 Seconds!"
     {
-        "chi" "__null__"
+        "chi" "僵尸传送:10秒"
     }
 
     "Player has picked up heal!"
     {
         "chi" "**一名玩家获得了奶**"
+        "blocked"    "1"
     }
 
     "Player has picked up the Sword!"
     {
         "chi" "**一名玩家获得了宝剑**"
+        "blocked"    "1"
     }
 
     "Press E to heal your teammates!"
@@ -288,7 +295,7 @@
 
     "Teleporting humans inside in 15 seconds"
     {
-        "chi" "__null__"
+        "chi" "传送:15秒"
     }
 
     "Teleporting Zombies"
@@ -339,6 +346,7 @@
     "Turning on music!"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "Turning On music!"
