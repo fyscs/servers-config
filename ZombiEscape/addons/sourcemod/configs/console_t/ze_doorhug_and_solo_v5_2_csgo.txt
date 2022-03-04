@@ -18,67 +18,68 @@
 
     "** Holy grenade has been picked**"
     {
-        "chi" "__null__"
+        "chi" "一名玩家捡起了神圣手雷"
+        "blocked"    "1"
     }
 
     "**[Playing] Allahu Akbar (Mix by Headshooter.SC)**"
     {
-        "chi" "__null__"
+        "chi" "[音乐]Allahu Akbar (Mix by Headshooter.SC)"
     }
 
     "**[Playing] Emotional Titanic Flute**"
     {
-        "chi" "__null__"
+        "chi" "[音乐]Emotional Titanic Flute"
     }
 
     "**[Playing] Funny Chinese Music**"
     {
-        "chi" "__null__"
+        "chi" "[音乐]Funny Chinese Music"
     }
 
     "**[Playing] He-Man - HEYYEYAAEYAAAEYAEYAA**"
     {
-        "chi" "__null__"
+        "chi" "[音乐]He-Man - HEYYEYAAEYAAAEYAEYAA"
     }
 
     "**[Playing] Lady LaLa (Lady Gaga feat. the La La Dog)**"
     {
-        "chi" "__null__"
+        "chi" "[音乐]Lady LaLa (Lady Gaga feat. the La La Dog)"
     }
 
     "**[Playing] MC Danil (SFX) - Moles and hamsters**"
     {
-        "chi" "__null__"
+        "chi" "[音乐]MC Danil (SFX) - Moles and hamsters"
     }
 
     "**[Playing] Pendulum - Encoder**"
     {
-        "chi" "__null__"
+        "chi" "[音乐]Pendulum - Encoder"
     }
 
     "**[Playing] Pendulum - Tarantula (Tom Budin Remix) (Edit by Headshooter.SC)**"
     {
-        "chi" "__null__"
+        "chi" "[音乐]Pendulum - Tarantula (Tom Budin Remix) (Edit by Headshooter.SC)"
     }
 
     "**[Playing] SWIGGITY SWAG**"
     {
-        "chi" "__null__"
+        "chi" "[音乐]SWIGGITY SWAG"
     }
 
     "**[Playing] The are taking the Hobbits to Isengard**"
     {
-        "chi" "__null__"
+        "chi" "[音乐]The are taking the Hobbits to Isengard"
     }
 
     "**[Playing] Two Steps From Hell - To Glory (Chepoffs cover)**"
     {
-        "chi" "__null__"
+        "chi" "[音乐]Two Steps From Hell - To Glory (Chepoffs cover)"
     }
 
     "**[Playing] XS Project - Bochka Bass Kolbaser**"
     {
-        "chi" "__null__"
+        "chi" "[音乐]XS Project - Bochka Bass Kolbaser"
     }
 
     "**1 SECONDS LEFT**"
@@ -89,6 +90,7 @@
     "**10 SECONDS BEFORE THE DUCK DEPART**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**10 SECONDS LEFT**"
@@ -99,11 +101,12 @@
     "**120 SECONDS BEFORE THE DUCK DEPART**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**150 SECONDS BEFORE THE DUCK DEPART**"
     {
-        "chi" "__null__"
+        "chi" "150"
     }
 
     "**2 SECONDS LEFT**"
@@ -124,6 +127,7 @@
     "**30 SECONDS BEFORE THE DUCK DEPART**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**30 SECONDS LEFT**"
@@ -144,6 +148,7 @@
     "**60 SECONDS BEFORE THE DUCK DEPART**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**60 SECONDS LEFT**"
@@ -154,6 +159,7 @@
     "**90 SECONDS BEFORE THE DUCK DEPART**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**90 SECONDS LEFT**"
@@ -164,46 +170,48 @@
     "**A player has picked up EARTH materia**"
     {
         "chi" "**一个玩家拾取了土**"
+        "blocked"    "1"
     }
 
     "**A player has picked up WIND materia**"
     {
         "chi" "**一个玩家拾取了风**"
+        "blocked"    "1"
     }
 
     "**Admin set BOSS MODE for the next round**"
     {
-        "chi" "__null__"
+        "chi" "BOSS模式载入"
     }
 
     "**Admin set FOG MODE for the next round**"
     {
-        "chi" "__null__"
+        "chi" "雾天模式载入"
     }
 
     "**Admin set PRO DEFEND MODE for the next round**"
     {
-        "chi" "__null__"
+        "chi" "防守模式载入"
     }
 
     "**Admin set SOLO MODE for the next round**"
     {
-        "chi" "__null__"
+        "chi" "孤儿模式载入"
     }
 
     "**Admin set SPINNER MODE for the next round**"
     {
-        "chi" "__null__"
+        "chi" "SPINNER模式载入"
     }
 
     "**Admin set TEAM MODE for the next round**"
     {
-        "chi" "__null__"
+        "chi" "TEAM模式载入"
     }
 
     "**Admin set ZM MODE for the next round**"
     {
-        "chi" "__null__"
+        "chi" "生存关载入"
     }
 
     "**Ah yeah... Music.. We got something good for you**"
@@ -224,6 +232,7 @@
     "**BYE BYE NIGGERS**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**Central ZM teleport is enabled**"
@@ -288,7 +297,7 @@
 
     "**No win for you shitters GG**"
     {
-        "chi" "__null__"
+        "chi" "GG"
     }
 
     "**Oh seems like its the end.. Well khm..**"
@@ -308,7 +317,7 @@
 
     "**PRO DEFEND MODE** Get to the tower and defend..."
     {
-        "chi" "__null__"
+        "chi" "[防守模式]到塔里防守"
     }
 
     "**RUSH THEM IF YOU WANNA SOLO**"
@@ -328,22 +337,23 @@
 
     "**SPINNER MODE** It is spinning YEEEAAAHHHF2389yhfwj3@HJ#"
     {
-        "chi" "__null__"
+        "chi" "[SPINNER模式]"
+
     }
 
     "**TEAM MODE** If you are good at lazerz you can win..."
     {
-        "chi" "__null__"
+        "chi" "[TEAM模式]"
     }
 
     "**THE BOSS IS USING RAGE** WATCH OUT"
     {
-        "chi" "__null__"
+        "chi" "BOSS非常生气"
     }
 
     "**The BOSS was picked up by a zombie**"
     {
-        "chi" "__null__"
+        "chi" "BOSS抓取了一只僵尸"
     }
 
     "**The final wall will open in 40 seconds**"
@@ -353,7 +363,7 @@
 
     "**The player who took the boss seems to be left** **So get to the end**"
     {
-        "chi" "__null__"
+        "chi" "当前获取BOSS的玩家离开了游戏"
     }
 
     "**The round is being lost by ZOMBIES** **No one got the boss**"
@@ -383,7 +393,7 @@
 
     "**This shit seems to be dead!** **Run to the final path**"
     {
-        "chi" "__null__"
+        "chi" "它死了,撤退"
     }
 
     "**To be serious this map is fun made just to see if it will get to the top**"
@@ -409,6 +419,7 @@
     "**Zombie chocobo has been picked up**"
     {
         "chi" "**僵尸chocobo已被拾取**"
+        "blocked"    "1"
     }
 
 }

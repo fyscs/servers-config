@@ -14,11 +14,12 @@
     "***The medkit was picked up***"
     {
         "chi" "**急救包被拾取**"
+        "blocked"    "1"
     }
 
     "**5 seconds left**"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "**5 SECONDS LEFT**"
@@ -29,16 +30,17 @@
     "**A player has picked up the Flamethrower**"
     {
         "chi" "**一位玩家拾取了火焰喷射器**"
+        "blocked"    "1"
     }
 
     "**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**"
     {
-        "chi" "__null__"
+        "chi" "地图难度已更改"
     }
 
     "**ADMIN PRESSED KILL ALL BUTTON**"
     {
-        "chi" "__null__"
+        "chi" "全体处死"
     }
 
     "**But what is that doing here?**"
@@ -48,7 +50,7 @@
 
     "**Congratulations you beat the map! More stages will come soon...**"
     {
-        "chi" "__null__"
+        "chi" "恭喜你征服了这张地图"
     }
 
     "**CS GO remake by HaRyDe and Headsh**"
@@ -133,12 +135,12 @@
 
     "**HARD mode was beaten. Unlocking STARS mode **"
     {
-        "chi" "__null__"
+        "chi" "胜利,极限难度载入"
     }
 
     "**HARD MODE**"
     {
-        "chi" "__null__"
+        "chi" "当前难度:困难"
     }
 
     "**Hell the city turned into total chaos**"
@@ -148,7 +150,7 @@
 
     "**Hurry up or die**"
     {
-        "chi" "__null__"
+        "chi" "超越自我或死"
     }
 
     "**It remains only to fight off the zombies and we are saved**"
@@ -178,7 +180,7 @@
 
     "**Nemesis is defeated..Find your way out of the lab**"
     {
-        "chi" "__null__"
+        "chi" "复仇者被击败,寻找撤离的通道"
     }
 
     "**Nice! Now we need to go back to the closed door**"
@@ -188,7 +190,7 @@
 
     "**NORMAL mode was beaten. Unlocking HARD mode **"
     {
-        "chi" "__null__"
+        "chi" "胜利,极限难度解锁"
     }
 
     "**NORMAL MODE**"
@@ -198,7 +200,7 @@
 
     "**Now press the second button**"
     {
-        "chi" "__null__"
+        "chi" "现在按下第二个按钮"
     }
 
     "**Oh crap! Someone blew up a tunnel**"
@@ -243,7 +245,7 @@
 
     "**S.T.A.R.S MODE**"
     {
-        "chi" "__null__"
+        "chi" "当前难度:极限"
     }
 
     "**Second door will open in 20 seconds**"
@@ -253,12 +255,12 @@
 
     "**Secret doors are now open**"
     {
-        "chi" "__null__"
+        "chi" "第二扇门已打开"
     }
 
     "**Shotgun is out of ammo**"
     {
-        "chi" "__null__"
+        "chi" "散弹枪子弹已用尽"
     }
 
     "**So let's start..**"
@@ -269,26 +271,28 @@
     "**The battery was picked up**"
     {
         "chi" "**电池已被拾取 **"
+        "blocked"    "1"
     }
 
     "**The blue crystal was picked up**"
     {
         "chi" "**蓝色水晶已被拾取**"
+        "blocked"    "1"
     }
 
     "**The control panel now ON**"
     {
-        "chi" "__null__"
+        "chi" "控制器已解锁"
     }
 
     "**The Ending A was completed**"
     {
-        "chi" "__null__"
+        "chi" "A结局完成"
     }
 
     "**The Ending B was completed**"
     {
-        "chi" "__null__"
+        "chi" "B结局完成"
     }
 
     "**The exit door will open soon**"
@@ -298,7 +302,7 @@
 
     "**The final elevator leaves in 20 seconds**"
     {
-        "chi" "__null__"
+        "chi" "电梯:20秒"
     }
 
     "**The fuse was activated!! Wait here few seconds**"
@@ -309,6 +313,7 @@
     "**The fuse was picked up**"
     {
         "chi" "**保险丝已被拾取**"
+        "blocked"    "1"
     }
 
     "**The game will start in a few seconds. Once the metal door opens..**"
@@ -319,26 +324,29 @@
     "**The green crystal was picked up**"
     {
         "chi" "**绿色水晶已被拾取**"
+        "blocked"    "1"
     }
 
     "**The knife has been picked**"
     {
-        "chi" "__null__"
+        "chi" "一名玩家捡起了黄金匕首"
+        "blocked"    "1"
     }
 
     "**The lever was picked up**"
     {
         "chi" "**拉杆已被拾取 **"
+        "blocked"    "1"
     }
 
     "**The Nemesis is now in fury**"
     {
-        "chi" "__null__"
+        "chi" "复仇者进入狂暴状态"
     }
 
     "**The Nemesis ultimate attack is ready ** Watch out**"
     {
-        "chi" "__null__"
+        "chi" "复仇者要使用绝招了,小心"
     }
 
     "**The Raccoon City Hall will open soon**"
@@ -358,7 +366,8 @@
 
     "**The shotgun has been picked**"
     {
-        "chi" "__null__"
+        "chi" "一名玩家捡起了散弹枪"
+        "blocked"    "1"
     }
 
     "**The storage door will open soon**"
@@ -368,12 +377,13 @@
 
     "**The train departs in 10 seconds**"
     {
-        "chi" "__null__"
+        "chi" "火车:10秒"
     }
 
     "**The wrench was picked up**"
     {
         "chi" "**扳手已被拾取**"
+        "blocked"    "1"
     }
 
     "**This is a lever from the gaz station**"
@@ -388,12 +398,12 @@
 
     "**This is the last point wait for the evacuation**"
     {
-        "chi" "__null__"
+        "chi" "这里就是撤离点了"
     }
 
     "**This is the last point. The train departs in 35 seconds**"
     {
-        "chi" "__null__"
+        "chi" "火车:35秒"
     }
 
     "**Wait until the energy recovers**"
@@ -403,7 +413,7 @@
 
     "**WARMUP ROUND**"
     {
-        "chi" "__null__"
+        "chi" "热身"
     }
 
     "**We can try to find another train nearby**"
@@ -433,7 +443,7 @@
 
     "**You are too slow**"
     {
-        "chi" "__null__"
+        "chi" "你们太菜了"
     }
 
     "**ZE_BIOHAZARD3_NEMESIS**"
@@ -443,7 +453,7 @@
 
     "**Zombies are in the train cabine. The ending is failed**"
     {
-        "chi" "__null__"
+        "chi" "车厢检测到僵尸,失败"
     }
 
 }

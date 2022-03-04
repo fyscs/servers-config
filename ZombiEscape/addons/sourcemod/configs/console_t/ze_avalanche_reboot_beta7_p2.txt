@@ -68,7 +68,7 @@
 
     ">>> AFK TELEPORT IN 5 SECONDS  <<<"
     {
-        "chi" "__null__"
+        "chi" "传送:5秒"
     }
 
     ">>> AFK TELEPORT IN 5 SECONDS <<<"
@@ -154,6 +154,7 @@
     ">>> C4 PICKED UP <<<"
     {
         "chi" " >>> c4炸弹已获取 <<<"
+        "blocked"    "1"
     }
 
     ">>> CONTROL ROOM DOOR OPENING IN 100 SECONDS <<<"
@@ -283,42 +284,50 @@
 
     ">>> PLAYER PICKED AMMO <<<"
     {
-        "chi" " >>> 一位玩家获取补给 <<<"
+        "chi" " >>> 一位玩家获取补给 <<<
+        "blocked"    "1""
     }
 
     ">>> PLAYER PICKED BLUE SPARK <<<"
     {
         "chi" ">>> 一位玩家获取电磁脉冲 <<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER PICKED ELECTRIC BEAM CANNON <<<"
     {
         "chi" " >>> 一位玩家获取轻型电磁炮 <<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER PICKED FLAME BEAM CANNON <<<"
     {
         "chi" " >>> 一位玩家获取高能聚光炮 <<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER PICKED HEAL <<<"
     {
         "chi" " >>> 一位玩家获取医疗包 <<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER PICKED ICY VORTEX <<<"
     {
         "chi" " >>> 一位玩家获取极寒冰卷 <<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER PICKED VENOM BEAM CANNON <<<"
     {
         "chi" " >>> 一位玩家获取剧毒穿甲炮 <<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER PICKED WIND BLASTER <<<"
     {
         "chi" " >>> 一位玩家获取重型高压风炮 <<<"
+        "blocked"    "1"
     }
 
     ">>> PRESS OTHER BUTTON TO UNLOCK <<<"
@@ -383,7 +392,7 @@
 
     ">>> STAGE 3 COMPLETED <<<"
     {
-        "chi" "__null__"
+        "chi" "你做到了!第三章不可能难度完成"
     }
 
     ">>> STAGE 4 COMPLETED <<<"

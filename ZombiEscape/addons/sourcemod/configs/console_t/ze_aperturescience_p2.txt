@@ -13,7 +13,7 @@
 
     "**--**AFK KILLER ENABLED!**--**"
     {
-        "chi" "__null__"
+        "chi" "挂机咸鱼将会被清理"
     }
 
     "--**HINT: Crouch to clear the orange sphere!**--"
@@ -24,11 +24,6 @@
     "**Hint: Crouch to go over the glass**"
     {
         "chi" "钻洞钻洞 冲冲冲"
-    }
-
-    "**Zombie Stopper has been disabled.**"
-    {
-        "chi" "__null__"
     }
 
     "--1--"
@@ -108,12 +103,12 @@
 
     "--Elevator 2 going up in 2 seconds--"
     {
-        "chi" "__null__"
+        "chi" "电梯[二]:2秒"
     }
 
     "--Elevator 2 leaving in 10 seconds--"
     {
-        "chi" "__null__"
+        "chi" "电梯[二]:10秒"
     }
 
     "--Escape lift doors closing in 10 seconds--"

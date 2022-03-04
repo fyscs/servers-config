@@ -13,7 +13,7 @@
 
     "*** 5 SECONDS! *** "
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "*** FALL BACK TO THE RAINBOW! ***"
@@ -23,7 +23,7 @@
 
     "*** Fall back! ***"
     {
-        "chi" "__null__"
+        "chi" "撤退"
     }
 
     "*** FALL BACK! ***"
@@ -51,34 +51,34 @@
         "chi" "**守住15秒**"
     }
 
-    "*** ITS PEDOBEAR AGAIN! ***"
+    "*** ITS Pedobear AGAIN! ***"
     {
-        "chi" "**又是PEDOBEAR**"
+        "chi" "**又是玩具熊**"
     }
 
     "*** King Pedobear has allowed you to pass! ***"
     {
-        "chi" "**King Pedobear说 可 快溜**"
+        "chi" "**玩具熊说:快溜**"
     }
 
     "*** King Pedobear will help you in 40 secs! ***"
     {
-        "chi" "**King Pedobear在40秒后悔帮助你**"
+        "chi" "**玩具熊在40秒后悔帮助你**"
     }
 
     "*** King Pedobear will let you pass in 30 secs! ***"
     {
-        "chi" "**King Pedobear 在30秒后才会允许你通过这里**"
+        "chi" "**玩具熊 在30秒后才会允许你通过这里**"
     }
 
     "*** King Pedobear will let you pass in 40 secs ***"
     {
-        "chi" "**King Pedobear 在40秒后才会允许你通过这里**"
+        "chi" "**玩具熊 在40秒后才会允许你通过这里**"
     }
 
-    "*** OH NO IT'S PEDOBEAR! ***"
+    "*** OH NO IT'S Pedobear! ***"
     {
-        "chi" "**噢!是PEDOBEAR**"
+        "chi" "**噢!是玩具熊**"
     }
 
     "*** PROTECT THE CASTLE! ***"
@@ -131,19 +131,19 @@
         "chi" "**可以通过了 冲冲冲!**"
     }
 
-    "*** YOU FAILED TO KILL PEDOBEAR IN TIME! ***"
+    "*** YOU FAILED TO KILL Pedobear IN TIME! ***"
     {
-        "chi" "**你没能杀死PEDOBEAR**"
+        "chi" "**你没能杀死玩具熊**"
     }
 
-    "*** YOU HAVE 10 SECONDS TO KILL PEDOBEAR! ***"
+    "*** YOU HAVE 10 SECONDS TO KILL Pedobear! ***"
     {
-        "chi" "**你还有10秒杀掉PEDOBEAR**"
+        "chi" "**你还有10秒杀掉玩具熊**"
     }
 
-    "*** YOU HAVE 2 MINUTES TO KILL PEDOBEAR! ***"
+    "*** YOU HAVE 2 MINUTES TO KILL Pedobear! ***"
     {
-        "chi" "**2分钟后PEDOBEAR将会释放终极**"
+        "chi" "**2分钟后玩具熊将会释放终极**"
     }
 
     "*** YOU HAVE 20 SECS TO ESCAPE! ***"
@@ -151,24 +151,24 @@
         "chi" "**你有20秒时间逃离这里**"
     }
 
-    "*** YOU HAVE 30 SECONDS TO KILL PEDOBEAR! ***"
+    "*** YOU HAVE 30 SECONDS TO KILL Pedobear! ***"
     {
-        "chi" "**你还有30秒杀掉PEDOBEAR**"
+        "chi" "**你还有30秒杀掉玩具熊**"
     }
 
-    "*** YOU HAVE 5 SECONDS TO KILL PEDOBEAR! ***"
+    "*** YOU HAVE 5 SECONDS TO KILL Pedobear! ***"
     {
         "chi" "**你只有5秒钟啦!gkd**"
     }
 
-    "*** YOU HAVE 60 SECONDS TO KILL PEDOBEAR! ***"
+    "*** YOU HAVE 60 SECONDS TO KILL Pedobear! ***"
     {
-        "chi" "**你有60秒杀掉PEDOBEAR**"
+        "chi" "**你有60秒杀掉玩具熊**"
     }
 
-    "*** YOU KILLED PEDOBEAR! ***"
+    "*** YOU KILLED Pedobear! ***"
     {
-        "chi" "__null__"
+        "chi" "玩具熊生天了"
     }
 
     "*** YOU LOSE! ***"

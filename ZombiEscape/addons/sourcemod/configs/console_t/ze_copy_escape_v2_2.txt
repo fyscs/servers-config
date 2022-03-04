@@ -119,41 +119,49 @@
     "< Player picked up anemo >"
     {
         "chi" "**一名玩家捡起了风**"
+        "blocked"    "1"
     }
 
     "< Player picked up cryo >"
     {
         "chi" "**一名玩家捡起了雪**"
+        "blocked"    "1"
     }
 
     "< Player picked up floor spawner (5 times only) >"
     {
         "chi" "**一名玩家捡起了地板**"
+        "blocked"    "1"
     }
 
     "< Player picked up heal >"
     {
         "chi" "**一名玩家捡起了奶**"
+        "blocked"    "1"
     }
 
     "< Player picked up pyro >"
     {
         "chi" "**一名玩家捡起了火**"
+        "blocked"    "1"
     }
 
     "< Player picked up z-gravity (90 sec) >"
     {
         "chi" "**一名玩家捡起了[ZM]黑洞**"
+        "blocked"    "1"
     }
 
     "< Player picked up z-heal (120 sec) >"
     {
         "chi" "**一名玩家捡起了[ZM]治疗**"
+        "blocked"    "1"
     }
 
     "< Player picked up z-nuke (100 sec) >"
     {
         "chi" "**一名玩家捡起了[ZM]秒杀**"
+        "blocked"    "1"
     }
 
     "< Push >"

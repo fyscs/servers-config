@@ -18,7 +18,7 @@
 
     "|Admin Room|***Admin has changed difficulty to LEVEL 1 ***"
     {
-        "chi" "__null__"
+        "chi" "管理员选择了第一关"
     }
 
     "|Admin Room|***Admin has changed difficulty to LEVEL 2 ***"
@@ -38,7 +38,7 @@
 
     ">>> |LEVEL 3| <<<"
     {
-        "chi" "__null__"
+        "chi" "第三关"
     }
 
     "Fall back we can walk across the door."
@@ -48,7 +48,7 @@
 
     "Fall back!"
     {
-        "chi" "__null__"
+        "chi" "撤退"
     }
 
     "Final doors are going to close in 30 seconds! Resist!"
@@ -84,6 +84,7 @@
     "Mouse trap has been picked up."
     {
         "chi" "**一名玩家获得了捕鼠夹**"
+        "blocked"    "1"
     }
 
     "Resist for 20 seconds."
@@ -109,6 +110,7 @@
     "Sponge builder has been picked up."
     {
         "chi" "**一名玩家获得了海绵墙**"
+        "blocked"    "1"
     }
 
     "That's it! Break the shelf support."

@@ -94,36 +94,43 @@
     ">>> PLAYER HAS PICKED UP FIRE <<<"
     {
         "chi" "**一位玩家获得了火 **"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP GRAVITY <<<"
     {
         "chi" "**一位玩家获得了黑洞 **"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP HEAL <<<"
     {
         "chi" "**一位玩家获得了奶 **"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ICE <<<"
     {
         "chi" "**一位玩家获得了冰 **"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP LASER <<<"
     {
         "chi" "**一位玩家获得了死亡推墙 **"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP POISON <<<"
     {
         "chi" "**一位玩家获得了毒 **"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP SPEED <<<"
     {
         "chi" "**一位玩家获得了急速 **"
+        "blocked"    "1"
     }
 
     "Welcome ze_codevein_v1_cm4"

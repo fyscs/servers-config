@@ -13,7 +13,7 @@
 
     " >>NYAN CAT ADDED<<"
     {
-        "chi" "__null__"
+        "chi" "喵喵喵"
     }
 
     "*** PLAYER HAS CHOSEN LEVEL 1 EXTREME ***"
@@ -249,6 +249,7 @@
     "[Bug] End bug"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     ">> Congratulation <<"
@@ -309,11 +310,13 @@
     ">> PLAYER HAS PICKED UP GRAVITY <<"
     {
         "chi" "**一名玩家拾取了重力**"
+        "blocked"    "1"
     }
 
     ">> PLAYER HAS PICKED UP HEAL <<"
     {
         "chi" "**一名玩家拾取了奶**"
+        "blocked"    "1"
     }
 
     ">> There is an error in the level system <<"

@@ -14,36 +14,43 @@
     "** A player has learned Ammo. **"
     {
         "chi" "**一名玩家捡起弹药**"
+        "blocked"    "1"
     }
 
     "** A player has learned Cannon ultimate. **"
     {
         "chi" "**一名玩家捡起了终极**"
+        "blocked"    "1"
     }
 
     "** A player has learned Electro magick. **"
     {
         "chi" "**一名玩家捡起了电**"
+        "blocked"    "1"
     }
 
     "** A player has learned Fire magick. **"
     {
         "chi" "**一名玩家捡起噴火器**"
+        "blocked"    "1"
     }
 
     "** A player has learned Heal magick. **"
     {
         "chi" "**一名玩家捡起了奶**"
+        "blocked"    "1"
     }
 
     "** A player has learned Mine. **"
     {
         "chi" "**一名玩家捡起地雷**"
+        "blocked"    "1"
     }
 
     "** A player has learned Stopper magick. **"
     {
         "chi" "**一名玩家捡起冰**"
+        "blocked"    "1"
     }
 
     "[ADMIN] Selected [FINAL STAGE] for next round. Restarting round in 5 seconds."
@@ -63,7 +70,7 @@
 
     "[ADMIN] Selected [STAGE 2 EXTREME] for next round. Restarting round in 5 seconds."
     {
-        "chi" "__null__"
+        "chi" "管理员载入在第二关,5秒后将会重新开始游戏"
     }
 
     "[ADMIN] Selected [STAGE 2 NORMAL] for next round. Restarting round in 5 seconds."
@@ -73,7 +80,7 @@
 
     "[ADMIN] Selected [STAGE 3 EXTREME] for next round. Restarting round in 5 seconds."
     {
-        "chi" "__null__"
+        "chi" "管理员载入在第三关,5秒后将会重新开始游戏"
     }
 
     "[ADMIN] Selected [STAGE 3 NORMAL] for next round. Restarting round in 5 seconds."
@@ -113,7 +120,7 @@
 
     "MAP BY FRENCHY "
     {
-        "chi" "__null__"
+        "chi" "**地图制作:FRENCHY 汉化:萌大奶,彩加**"
     }
 
     "ONLY DEFEND! TELEPORT ENABLE IN 180 SECOND"

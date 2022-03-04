@@ -43,7 +43,8 @@
 
     "*** Celestial Embrace has been acquired ***"
     {
-        "chi" "__null__"
+        "chi" "一命玩家捡起了神罚"
+        "blocked"    "1"
     }
 
     "*** Defend the 4 statues for 45 seconds ***"
@@ -83,7 +84,7 @@
 
     "*** Global nuke activated from admin room ***"
     {
-        "chi" "__null__"
+        "chi" "从调关房按下处死按钮"
     }
 
     "*** Gust Orb has been acquired ***"
@@ -133,22 +134,22 @@
 
     "*** STAGE I activated from admin room ***"
     {
-        "chi" "__null__"
+        "chi" "第一关载入"
     }
 
     "*** STAGE II activated from admin room ***"
     {
-        "chi" "__null__"
+        "chi" "第二关载入"
     }
 
     "*** STAGE III activated from admin room ***"
     {
-        "chi" "__null__"
+        "chi" "第三关载入"
     }
 
     "*** STAGE IV (ZM) activated from admin room ***"
     {
-        "chi" "__null__"
+        "chi" "生存关载入"
     }
 
     "*** The tomb has been reached ***"

@@ -33,7 +33,7 @@
 
     "*** 25 seconds left ***"
     {
-        "chi" "__null__"
+        "chi" "还剩25秒"
     }
 
     "*** 5 seconds left ***"
@@ -58,7 +58,7 @@
 
     "*** Door is opening ***"
     {
-        "chi" "__null__"
+        "chi" "门开了"
     }
 
     "*** Door is Opening ***"
@@ -78,7 +78,7 @@
 
     "*** Door Opens in 10 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "10秒后开门"
     }
 
     "*** Door Opens in 2 seconds ***"
@@ -219,6 +219,7 @@
     "*** Nice Job You Have Beaten FapEscape! ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** OH NO ITS AN EVIL ROBO BOSS ***"
@@ -228,7 +229,7 @@
 
     "*** OH NO.. ***"
     {
-        "chi" "__null__"
+        "chi" "厚礼蟹"
     }
 
     "*** OH NOOES ***"
@@ -239,41 +240,49 @@
     "*** Player has picked up Ammo Box ***"
     {
         "chi" "**有玩家捡起了弹药箱**"
+        "blocked"    "1"
     }
 
     "*** Player has picked up Explosive Mines ***"
     {
         "chi" "**有玩家捡起了地雷**"
+        "blocked"    "1"
     }
 
     "*** Player has picked up Flamethrower ***"
     {
         "chi" "**有玩家捡起了喷火器**"
+        "blocked"    "1"
     }
 
     "*** Player has picked up Grenade Maker ***"
     {
         "chi" "**有玩家捡起了无限手雷**"
+        "blocked"    "1"
     }
 
     "*** Player has picked up HandCannon ***"
     {
         "chi" "**有玩家捡了加农炮**"
+        "blocked"    "1"
     }
 
     "*** Player has picked up Heal ***"
     {
         "chi" "**有玩家捡起了奥利奥**"
+        "blocked"    "1"
     }
 
     "*** Player has picked up Lego Maker ***"
     {
         "chi" "**有玩家捡起了积木**"
+        "blocked"    "1"
     }
 
     "*** Player has picked up PushGun ***"
     {
         "chi" "**有玩家捡起了推力枪**"
+        "blocked"    "1"
     }
 
     "*** RICK ASTLEY IS DEAD ***"
@@ -293,7 +302,7 @@
 
     "*** Survive for 3 Minutes ***"
     {
-        "chi" "__null__"
+        "chi" "生存:300秒"
     }
 
     "*** Teleporter Activates in 20 Seconds ***"
@@ -328,12 +337,12 @@
 
     "*** Tram Leaves in 45 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "45秒后逃亡"
     }
 
     "*** You Fail ***"
     {
-        "chi" "__null__"
+        "chi" "失败"
     }
 
     "*** You got both items to the end ***"
@@ -349,21 +358,22 @@
     "*** YOU SUCK ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** ZM ***"
     {
-        "chi" "__null__"
+        "chi" "生存关"
     }
 
     "*** Zombie at the end YOU FAIL ***"
     {
-        "chi" "__null__"
+        "chi" "检测到僵尸,失败"
     }
 
     "*** Zombie in elevator You Fail ***"
     {
-        "chi" "__null__"
+        "chi" "检测到僵尸,失败"
     }
 
     "*** Zombie on the tram ***"
@@ -408,12 +418,12 @@
 
     ">>> NOW IS THE TIME TO ESCAPE FROM THIS FORSAKEN PLACE <<<"
     {
-        "chi" "__null__"
+        "chi" "是时候溜了"
     }
 
     ">>> THE EVIL EYE IS DEAD <<<"
     {
-        "chi" "__null__"
+        "chi" "机器人死了"
     }
 
 }

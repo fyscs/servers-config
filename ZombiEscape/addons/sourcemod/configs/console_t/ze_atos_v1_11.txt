@@ -38,7 +38,7 @@
 
     "<--Default are 5 lasers-->"
     {
-        "chi" "__null__"
+        "chi" "默认刀数:5"
     }
 
     "<--Default is 5 lasers-->"
@@ -48,7 +48,7 @@
 
     "<--Detected zombies->"
     {
-        "chi" "__null__"
+        "chi" "检测到僵尸"
     }
 
     "<--Elevator will move in 25s-->"
@@ -193,7 +193,7 @@
 
     "<--Trip failed->"
     {
-        "chi" "__null__"
+        "chi" "失败"
     }
 
     "<--Wait boat for 25s-->"
@@ -238,32 +238,34 @@
 
     "artTouch cmd:Command:say <--Find a place and play with your partner-->:0:1"
     {
-        "chi" "__null__"
+        "chi" "生存"
     }
 
     "artTouch cmd:Command:say <--Hold for 180s-->:38:1"
     {
-        "chi" "__null__"
+        "chi" "180"
     }
 
     "artTouch cmd:Command:say <--Some places can only stay 5 to 15 humans-->:1:1"
     {
-        "chi" "__null__"
+        "chi" "某系地方只能容纳5-15人"
     }
 
     "igger cmd:Command:say <--You are the best-->:1:1"
     {
-        "chi" "__null__"
+        "chi" "胜利,你们是最棒的"
     }
 
     "igger cmd:Command:say <--You are the best-->:2:1"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "igger cmd:Command:say <--You are the best-->:3:1"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
 }
