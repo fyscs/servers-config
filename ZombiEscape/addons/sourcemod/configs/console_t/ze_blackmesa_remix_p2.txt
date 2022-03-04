@@ -18,7 +18,7 @@
 
     "** REDESIGN BY CISNEROS **"
     {
-        "chi" "__null__"
+        "chi" "地图重置:CISNEROS"
     }
 
     "*** 30 seconds to go! C'mon! ***"
@@ -63,7 +63,7 @@
 
     "*** C'mon!!! Just 5 seconds! ***"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "*** Defend that natural bridge! The seismometer reads a new earthquake soon!!! ***"
@@ -98,7 +98,8 @@
 
     "*** Freezegun has been picked up. Press +USE (E) to activate. 60 seconds cooldown. "
     {
-        "chi" "__null__"
+        "chi" "一名玩家捡起了冰冻枪,按E使用,冷却时间为60秒"
+        "blocked"    "1"
     }
 
     "*** Go to the small cave up there! Its walls are built off granite! ***"
@@ -154,6 +155,7 @@
     "*** Landmines have been picked up. Press +USE (E) to spawn. You only have 4 landmines. ***"
     {
         "chi" "**地雷被拾起. 按e使用. 只能使用4次**"
+        "blocked"    "1"
     }
 
     "*** Lift is leaving in 15 Seconds ***"
@@ -274,6 +276,7 @@
     "*** SlowRing generator has been picked up. Press +USE (E) to use. 45 seconds cooldown. ***"
     {
         "chi" "**减速枪被拾起. 按e使用. 45秒冷却时间**"
+        "blocked"    "1"
     }
 
     "*** Someone found some druggidy-drug and is now faster. Drugs are bad mmmkay? ***"
@@ -284,6 +287,7 @@
     "*** Stick-Bomb has been picked up ***"
     {
         "chi" "**炸弹被捡到了**"
+        "blocked"    "1"
     }
 
     "*** This cave has collapsed... Maybe another earthquake could help? ***"
@@ -298,12 +302,12 @@
 
     "*** TWIST: ALL ABOARD THE FAILTRAM - NO BRIDGE / SECRET ***"
     {
-        "chi" "__null__"
+        "chi" "随机:船上的失败者-没有桥/密道"
     }
 
     "*** TWIST: ALL ABOARD THE FAILTRAM & NO FRONT / SECRET ***"
     {
-        "chi" "__null__"
+        "chi" "随机:船上的失败者-没有电车/密道"
     }
 
     "*** TWIST: BREAK ON THROUGH TO THE OTHER SIDE - NO TRAM & FRONT WAY LOCKED ***"
@@ -328,7 +332,7 @@
 
     "*** TWIST: STRANGE SPACE SITUATION - OTHER SIDE/NO SECRET/LOW GRAV ***"
     {
-        "chi" "__null__"
+        "chi" "随机:奇异空间-没有电车/没有密道/地重力模式"
     }
 
     "*** Two minutes left! Stay alive!!! ***"
@@ -379,6 +383,7 @@
     "**Flamethrower has been picked up. Press +Use (E) to activate**"
     {
         "chi" "**火焰枪被拾起. 按e使用. , **"
+        "blocked"    "1"
     }
 
     "**Fuel lasts about 10 seconds. **"
@@ -389,6 +394,7 @@
     "*Ammo Box has been picked up. Press +USE (E) to activate.*"
     {
         "chi" "**弹药箱已拾取. 按使用e使用. **"
+        "blocked"    "1"
     }
 
     "*It has a 90 seconds cooldown.*"

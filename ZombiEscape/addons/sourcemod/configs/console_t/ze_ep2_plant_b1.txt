@@ -13,62 +13,64 @@
 
     "**Loading...**"
     {
-        "chi" "__null__"
+        "chi" "正在载入..."
     }
 
     "**number0 button pressed**"
     {
-        "chi" "__null__"
+        "chi" "[编号0]激活"
     }
 
     "**number1 button pressed**"
     {
-        "chi" "__null__"
+        "chi" "[编号1]激活"
     }
 
     "**number2 button pressed**"
     {
-        "chi" "__null__"
+        "chi" "[编号2]激活"
     }
 
     "**number3 button pressed**"
     {
-        "chi" "__null__"
+        "chi" "[编号3]激活"
     }
 
     "**number4 button pressed**"
     {
-        "chi" "__null__"
+        "chi" "[编号4]激活"
     }
 
     "**number5 button pressed**"
     {
-        "chi" "__null__"
+        "chi" "[编号5]激活"
     }
 
     "**number6 button pressed**"
     {
-        "chi" "__null__"
+        "chi" "[编号6]激活"
     }
 
     "**number7 button pressed**"
     {
-        "chi" "__null__"
+        "chi" "[编号7]激活"
     }
 
     "**number8 button pressed**"
     {
-        "chi" "__null__"
+        "chi" "[编号8]激活"
     }
 
     "**Play secret bgm1**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**Play secret bgm2**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
 }

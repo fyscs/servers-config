@@ -24,26 +24,27 @@
     "**CD 40seconds**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**CD 60 seconds**"
     {
-        "chi" "__null__"
+        "chi" "60"
     }
 
     "**choose stage 1**"
     {
-        "chi" "__null__"
+        "chi" "载入第一关"
     }
 
     "**choose stage 2**"
     {
-        "chi" "__null__"
+        "chi" "载入第二关"
     }
 
     "**choose ZM**"
     {
-        "chi" "__null__"
+        "chi" "载入生存关"
     }
 
     "**defend here for 30 seconds**"
@@ -58,7 +59,7 @@
 
     "**defend here,we need time to put ladder**"
     {
-        "chi" "__null__"
+        "chi" "防守"
     }
 
     "**door open in 40 seconds**"
@@ -83,12 +84,12 @@
 
     "**Hide for 240 seconds,then you can kill zombies**"
     {
-        "chi" "__null__"
+        "chi" "生存:240秒"
     }
 
     "**Item_Ice use**"
     {
-        "chi" "__null__"
+        "chi" "使用了冰冻枪"
     }
 
     "**Item_Wind use**"
@@ -98,7 +99,7 @@
 
     "**kill them!!!**"
     {
-        "chi" "__null__"
+        "chi" "杀光他们"
     }
 
     "**ladder are mounted in 40seconds**"
@@ -113,7 +114,8 @@
 
     "**player pick up Item_ice**"
     {
-        "chi" "__null__"
+        "chi" "一名玩家捡起了冰冻枪"
+        "blocked"    "1"
     }
 
     "**Player pick up Item_Wind**"
@@ -138,7 +140,7 @@
 
     "**stage 2**"
     {
-        "chi" "__null__"
+        "chi" "第二关"
     }
 
     "**stair is blocked,we can use elevator**"
@@ -148,7 +150,7 @@
 
     "**system error**"
     {
-        "chi" "__null__"
+        "chi" "系统错误"
     }
 
     "**The platform will stretch after 20 seconds**"
@@ -198,7 +200,7 @@
 
     "**you finished the map**"
     {
-        "chi" "__null__"
+        "chi" "你征服了这张地图"
     }
 
     "**ZM:Hide On Bush**"
@@ -208,7 +210,7 @@
 
     "**zombies will teleport in 5 seconds**"
     {
-        "chi" "__null__"
+        "chi" "僵尸传送:5秒"
     }
 
     "**地图制作 : genL**"
@@ -218,7 +220,7 @@
 
     "**特别感谢 : 酸奶 **"
     {
-        "chi" "__null__"
+        "chi" "特别感谢:酸奶"
     }
 
     "go~go~go!!!"
@@ -273,12 +275,12 @@
 
     "地图制作 : genL"
     {
-        "chi" "__null__"
+        "chi" "作者:genL"
     }
 
     "特别感谢 : 酸奶"
     {
-        "chi" "__null__"
+        "chi" "特别感谢:酸奶"
     }
 
 }

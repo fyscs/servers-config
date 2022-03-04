@@ -19,6 +19,7 @@
     "*** ZOMBIE PICKED UP HEAL ! ***"
     {
         "chi" "**僵尸已拾取zm奶 **"
+        "blocked"    "1"
     }
 
     "*** ZOMBIES ARIVED AT DOOR FIRST, AUTO-PRESSING THEM LEVERS***"

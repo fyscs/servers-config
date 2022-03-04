@@ -329,6 +329,7 @@
     ">>Campaign Completed<<"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     ">>Chapter Completed<<"
@@ -468,7 +469,7 @@
 
     "essed console:Command:say *AFK teleport in 5s:3*:1"
     {
-        "chi" "__null__"
+        "chi" "传送:5秒"
     }
 
     "That's a Little Sister. Looks like she's alone..."

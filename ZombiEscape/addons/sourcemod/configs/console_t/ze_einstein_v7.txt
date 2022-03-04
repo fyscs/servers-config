@@ -134,11 +134,13 @@
     "<> NOTICE: Flamethrower Picked Up! <>"
     {
         "chi" "<>注意:喷火器被拾起!<>"
+        "blocked"    "1"
     }
 
     "<> NOTICE: Meat Mincer Picked Up! <>"
     {
         "chi" "<>注意:绞肉机被拾起!<>"
+        "blocked"    "1"
     }
 
     "<> NOTICE: Trigger 2 Buttons for Elevator! <>"

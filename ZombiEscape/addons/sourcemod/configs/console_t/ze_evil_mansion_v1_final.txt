@@ -13,32 +13,32 @@
 
     " ** Zombies are trapped for 15 secs or til CTs find a solution.**"
     {
-        "chi" "__null__"
+        "chi" "僵尸被困住15秒"
     }
 
     " **Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!**"
     {
-        "chi" "__null__"
+        "chi" "博士:再见,我要去放屁了"
     }
 
     " **Dr. Valencia: I might need to expell some gas soon.**"
     {
-        "chi" "__null__"
+        "chi" "博士:我还想拉粑粑"
     }
 
     " **Dr. Valencia: TAKE THIS!!!**"
     {
-        "chi" "__null__"
+        "chi" "博士:厚礼蟹"
     }
 
     " -=Dr. Valencia:  DOOR OPENED!  MAKE WAY!!!=-"
     {
-        "chi" "__null__"
+        "chi" "博士:让开,别当着我拉粑粑"
     }
 
     " -=Dr. Valencia:  Door opening in 5.=-"
     {
-        "chi" "__null__"
+        "chi" "门:5秒"
     }
 
     "**Does this copter have enough fuel?**"

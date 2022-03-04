@@ -23,7 +23,7 @@
 
     "**Activate the gold weapon of the Predator and the Predator will take away the weapon and won't kill you**"
     {
-        "chi" "__null__"
+        "chi" "获取铁血战士的特殊装置"
     }
 
     "**Activate the gold weapon of the Predator while pressing E=use**"
@@ -33,12 +33,12 @@
 
     "**Activation of 2 level**"
     {
-        "chi" "__null__"
+        "chi" "载入关卡二"
     }
 
     "**Activation of 3 level**"
     {
-        "chi" "__null__"
+        "chi" "载入关卡三"
     }
 
     "**alien IS DEAD**"
@@ -143,12 +143,12 @@
 
     "**level 1**"
     {
-        "chi" "__null__"
+        "chi" "第一关"
     }
 
     "**level 2**"
     {
-        "chi" "__null__"
+        "chi" "第二关"
     }
 
     "**Lock Gun**"

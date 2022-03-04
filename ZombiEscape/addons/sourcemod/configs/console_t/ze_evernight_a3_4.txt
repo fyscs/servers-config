@@ -183,7 +183,7 @@
 
     "**Act II complete**"
     {
-        "chi" "__null__"
+        "chi" "第二幕通过"
     }
 
     "**Act III complete**"
@@ -228,7 +228,7 @@
 
     "**Automatic Defense System 'the Watcher' reactivate**"
     {
-        "chi" "__null__"
+        "chi" "自动防御系统[守望者]重新启动"
     }
 
     "**Blizzard**"
@@ -238,7 +238,7 @@
 
     "**Burning Field**"
     {
-        "chi" "__null__"
+        "chi" "火场"
     }
 
     "**C4 has been planted**"
@@ -468,7 +468,7 @@
 
     "**Map by Asami/Ateistia**"
     {
-        "chi" "__null__"
+        "chi" "作者:Asami,Ateistia"
     }
 
     "**Maybe we can use it to attack Gradyrat?**"
@@ -488,7 +488,7 @@
 
     "**Meltdown**"
     {
-        "chi" "__null__"
+        "chi" "小火"
     }
 
     "**Model help:Dakotec**"
@@ -563,12 +563,13 @@
 
     "**Sidewind**"
     {
-        "chi" "__null__"
+        "chi" "侧风"
     }
 
     "**Solar Crush - Causes damage to Gradyrat for 6 seconds,total 20% of its maximum HP**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**Spitacid**"
@@ -724,6 +725,7 @@
     "**try to find a way to open the gate**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**Try to find a way to open the gate**"

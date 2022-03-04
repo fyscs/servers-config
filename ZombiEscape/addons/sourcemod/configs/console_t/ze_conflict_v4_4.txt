@@ -13,7 +13,8 @@
 
     "::: 1 :::"
     {
-        "chi" "__null__"
+        "chi" "1"
+        "blocked"    "1"
     }
 
     "::: 10 seconds left :::"
@@ -53,7 +54,7 @@
 
     "::: 2 :::"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "::: 20 seconds left :::"
@@ -68,7 +69,7 @@
 
     "::: 3 :::"
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     "::: 30 seconds left :::"
@@ -78,7 +79,7 @@
 
     "::: 4 :::"
     {
-        "chi" "__null__"
+        "chi" "4"
     }
 
     "::: 40 seconds left :::"
@@ -88,7 +89,7 @@
 
     "::: 5 :::"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "::: 5 seconds left :::"
@@ -129,6 +130,7 @@
     "::: End :::"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "::: Hold 20 Seconds :::"

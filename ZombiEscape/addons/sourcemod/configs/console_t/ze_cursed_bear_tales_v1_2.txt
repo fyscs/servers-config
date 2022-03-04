@@ -54,6 +54,7 @@
     "***CHRISTMAS ARTIFACT PICKED UP***"
     {
         "chi" "**有玩家拾起了圣诞工艺品**"
+        "blocked"    "1"
     }
 
     "***Christmas LEVEL***"
@@ -244,6 +245,7 @@
     "***HALLOWEEN ARTIFACT PICKED UP***"
     {
         "chi" "**有玩家拾起了万圣工艺品**"
+        "blocked"    "1"
     }
 
     "***Halloween LEVEL***"
@@ -259,6 +261,7 @@
     "***HEAL PICKED UP***"
     {
         "chi" "**有玩家拾起了巧克力**"
+        "blocked"    "1"
     }
 
     "***ILL JUST SKIP THE ENIGMA FOR YOU***"
@@ -309,6 +312,7 @@
     "***MINE PICKED UP***"
     {
         "chi" "**有玩家拾起了地雷**"
+        "blocked"    "1"
     }
 
     "***ONLY 1 USE***"

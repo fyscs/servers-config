@@ -14,26 +14,30 @@
     "*1*"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*2*"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*3*"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*4*"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*5*"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "*-'A low gravity room.Kinda expected that'-*"
@@ -93,7 +97,7 @@
 
     "*Nuclear detonation imminent! 30 seconds remaining.*"
     {
-        "chi" "__null__"
+        "chi" "核爆:30秒"
     }
 
     "*-'Oh look,chemical weapons.More specificly VX '-*"
@@ -178,7 +182,7 @@
 
     "--Music by RageVI and CT--"
     {
-        "chi" "__null__"
+        "chi" "音乐:RageVI and CT"
     }
 
     "--Photonic Blade Obtained: 30 seconds cooldown--"

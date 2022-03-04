@@ -18,22 +18,25 @@
 
     "***Bonfire + 1***"
     {
-        "chi" "__null__"
+        "chi" "篝火 + 1"
     }
 
     "**A player has picked up Ashen Estus Flask**"
     {
         "chi" "**一位玩家拿起了原素灰瓶**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Black Flame**"
     {
         "chi" "**一位僵尸习得了黑炎**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Chaos Storm**"
     {
         "chi" "**一位玩家习得了混沌风暴**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Dark Orb**"
@@ -44,56 +47,67 @@
     "**A player has picked up Darkstorm**"
     {
         "chi" "**一位玩家习得了黑暗风暴**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Estus Flask**"
     {
         "chi" "**一位玩家拿起了原素瓶**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Great Heavy Soul Arrow**"
     {
         "chi" "**有玩家习得了灵魂巨箭**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Green Blossom**"
     {
         "chi" "**一位玩家拿起了绿花草**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Hidden Body**"
     {
         "chi" "**一位玩家拿起了隐形身躯**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Lightning Spear**"
     {
         "chi" "**有玩家习得了阳光枪**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Power Within**"
     {
         "chi" "**有僵尸习得了内在潜力**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Soothing Sunlight**"
     {
         "chi" "**一位玩家拿起了阳光疗愈**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Toxic Mist**"
     {
         "chi" "**有僵尸习得了猛毒雾**"
+        "blocked"    "1"
     }
 
     "**A player has picked up White Dragon Breath**"
     {
         "chi" "**一位玩家习得了白龙吐息**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Wrath of The Gods**"
     {
         "chi" "**一位玩家习得了诸神之怒**"
+        "blocked"    "1"
     }
 
     "**ALL THE BOULDERS ARE DISABLED***"
@@ -203,7 +217,7 @@
 
     "**The gate will open in 20 seconds**"
     {
-        "chi" "__null__"
+        "chi" "大门20秒后打开"
     }
 
     "**The gate will open in 20 seconds***"
@@ -213,7 +227,7 @@
 
     "**The gates will open in 10 seconds**"
     {
-        "chi" "__null__"
+        "chi" "大门10秒后开启"
     }
 
     "**The gates will open in 15 seconds**"
@@ -223,27 +237,27 @@
 
     "**The gates will open in 20 seconds**"
     {
-        "chi" "__null__"
+        "chi" "大门20秒后开启"
     }
 
     "**The gates will open in 25 seconds**"
     {
-        "chi" "__null__"
+        "chi" "大门25秒后开启"
     }
 
     "**The gates will open in 5 seconds**"
     {
-        "chi" "__null__"
+        "chi" "大门5秒后开启"
     }
 
     "**The limit of Fire Keeper Souls is reached**"
     {
-        "chi" "__null__"
+        "chi" "火焰守护者的灵魂已达到上限"
     }
 
     "**The Sen's Fortress gates will open in 30 seconds**"
     {
-        "chi" "__null__"
+        "chi" "大门30秒后开启"
     }
 
     "**The Usurpation of Fire ending is beginning...**"
@@ -303,22 +317,22 @@
 
     "igger cmd:Command:say **...You got rid of the curse of the Undead. But you continued Era of the Gods...**:0:1"
     {
-        "chi" "__null__"
+        "chi" "你摆脱了亡灵的诅咒"
     }
 
     "igger cmd:Command:say **..But you did not get rid of the curse..**:1:1"
     {
-        "chi" "__null__"
+        "chi" "但你并没有摆脱诅咒"
     }
 
     "igger cmd:Command:say **..You started the Dark Era. The Era of Humans..**:0:1"
     {
-        "chi" "__null__"
+        "chi" "你开启了黑暗时代"
     }
 
     "igger cmd:Command:say **You have usurpated the First Flame and became the new Lord of Lordran**:0:1"
     {
-        "chi" "__null__"
+        "chi" "你篡夺了第一火焰,成为了新的洛德兰领主"
     }
 
 }

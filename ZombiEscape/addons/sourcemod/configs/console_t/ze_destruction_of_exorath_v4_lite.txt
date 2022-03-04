@@ -144,6 +144,7 @@
     "** AMMO BOX HAS BEEN PICKED UP **"
     {
         "chi" "弹药箱已被拾取"
+        "blocked"    "1"
     }
 
     "** ANNIHILATION FROM EXORATH HAS BEEN DISABLED VIA THE ADMIN ROOM **"
@@ -154,6 +155,7 @@
     "** BOMB PLACER HAS BEEN PICKED UP **"
     {
         "chi" "地雷已被拾取"
+        "blocked"    "1"
     }
 
     "** BONUS ACTIVE ** RELOADING EASY MODE **"
@@ -444,6 +446,7 @@
     "** HEALTH BOX HAS BEEN PICKED UP **"
     {
         "chi" "奶已被拾取"
+        "blocked"    "1"
     }
 
     "** HUMANS INSIDE THE VENT FAILED ** ZOMBIES SPOTTED **"
@@ -539,6 +542,7 @@
     "** NADE SPAWNER HAS BEEN PICKED UP **"
     {
         "chi" "手雷制造器已被拾取"
+        "blocked"    "1"
     }
 
     "** NO MORE HUMANS LEFT INSIDE THE ARENA ** VENT EXPLODING **"
@@ -604,6 +608,7 @@
     "** PUSH GUN HAS BEEN PICKED UP **"
     {
         "chi" "推力枪已被拾取"
+        "blocked"    "1"
     }
 
     "** RANDOM SELECTED **"
@@ -659,6 +664,7 @@
     "** SECRET FLAMETHROWER HAS BEEN PICKED UP **"
     {
         "chi" "隐藏喷火器已被拾取"
+        "blocked"    "1"
     }
 
     "** SECRET FLAMETHROWER UNLOCKED **"
@@ -669,6 +675,7 @@
     "** SECRET FREEZE MACHINE HAS BEEN PICKED UP **"
     {
         "chi" "隐藏冷冻枪已被拾取"
+        "blocked"    "1"
     }
 
     "** SECRET FREEZE MACHINE UNLOCKED **"
@@ -679,6 +686,7 @@
     "** SECRET NUKE HAS BEEN PICKED UP **"
     {
         "chi" "隐藏核弹已被拾取"
+        "blocked"    "1"
     }
 
     "** SECRET NUKE HAS BEEN UNLOCKED **"
@@ -694,11 +702,13 @@
     "** SECRET VENTLEVER HAS BEEN PICKED UP **"
     {
         "chi" "隐藏通风杆已被拾取"
+        "blocked"    "1"
     }
 
     "** SLOWMOTION GUN HAS BEEN PICKED UP **"
     {
         "chi" "减速枪已被拾取"
+        "blocked"    "1"
     }
 
     "** SOMETHING WENT WRONG ** ACTIVATING MASSIVE NUKE **"

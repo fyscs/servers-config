@@ -13,12 +13,13 @@
 
     "*** Alien Reactor Overload 100% *** "
     {
-        "chi" "__null__"
+        "chi" "**外星反应堆过载完成**"
     }
 
-    "*** Alien Reactor Overload 50% *** "
+    "*** Alien Reactor Overload 50 *** "
     {
-        "chi" "__null__"
+        "chi" "**外星反应堆过载**"
+        "blocked"    "1"
     }
 
     "*** ALIEN shield has been activated ***"
@@ -99,6 +100,7 @@
     "*** STEAMGAMERS.COM ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** TO BE CONTINUED ***"

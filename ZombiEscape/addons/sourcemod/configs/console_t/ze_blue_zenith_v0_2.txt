@@ -43,12 +43,13 @@
 
     "**Extra hp will be given at the end of the map**"
     {
-        "chi" "__null__"
+        "chi" "结尾将会给予玩家额外的血量"
     }
 
     "**Optional quest**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**Reach the final platform and defend**"
@@ -74,16 +75,19 @@
     "**Zombie freeze has been picked**"
     {
         "chi" "**一名僵尸捡起了微风**"
+        "blocked"    "1"
     }
 
     "**Zombie heal has been picked**"
     {
         "chi" "**一名僵尸捡起了治疗**"
+        "blocked"    "1"
     }
 
     "**Zombie speed has been picked**"
     {
         "chi" "**一名僵尸捡起了加速**"
+        "blocked"    "1"
     }
 
     "**Zombie teleport in 10 seconds**"
