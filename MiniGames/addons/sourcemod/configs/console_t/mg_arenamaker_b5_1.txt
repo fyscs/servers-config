@@ -1,163 +1,139 @@
 "Console_T"
 {
-	"Map by Ka[X]de"
-	{
-		"chi"		"__null__"
-	}
-	"Special thanks to Hestia, Revenant(RSS) ZE&MG server."
-	{
-		"chi"		"__null__"
-	}
-	"Recommend cl_use_opens_buy_menu set to 0"
-	{
-		"chi"		"__null__"
-	}
-	"mg_arenamaker_b5_1"
-	{
-		"chi"		"__null__"
-	}
-	"Teleporting all in 15 seconds."
-	{
-		"chi"		"__null__"
-	}
-	"Note : Snipers are disabled on this map."
-	{
-		"chi"		"__null__"
-	}
-	"Teleporting all in 5 seconds."
-	{
-		"chi"		"__null__"
-	}
-	"Makers have 70 seconds."
-	{
-		"chi"		"__null__"
-	}
-	"30 seconds left."
-	{
-		"chi"		"__null__"
-	}
-	"10 seconds left."
-	{
-		"chi"		"__null__"
-	}
-	"Makers have....."
-	{
-		"chi"		"__null__"
-	}
-	"*  5  *"
-	{
-		"chi"		"__null__"
-	}
-	"*  4  *"
-	{
-		"chi"		"__null__"
-	}
-	"*  3  *"
-	{
-		"chi"		"__null__"
-	}
-	"*  2  *"
-	{
-		"chi"		"__null__"
-	}
-	"*  1  *"
-	{
-		"chi"		"__null__"
-	}
-	"Teleporting all makers."
-	{
-		"chi"		"__null__"
-	}
-	"Respawn is disabled."
-	{
-		"chi"		"__null__"
-	}
-	"Starting in......"
-	{
-		"chi"		"__null__"
-	}
-	"Start."
-	{
-		"chi"		"__null__"
-	}
-	"Open field after 120 seconds."
-	{
-		"chi"		"__null__"
-	}
-	"Open field after 60 seconds."
-	{
-		"chi"		"__null__"
-	}
-	"Open field after 30 seconds."
-	{
-		"chi"		"__null__"
-	}
-	"Open field after 10 seconds."
-	{
-		"chi"		"__null__"
-	}
-	"Activating open field in....."
-	{
-		"chi"		"__null__"
-	}
-	"[MAP] mg_dream_xmas_edition_final"
-	{
-		"chi"		"__null__"
-	}
-	"*Map By SkyK1llx3 -- Have Fun!!!*"
-	{
-		"chi"		"__null__"
-	}
-	"Music : Just Jack - Basement"
-	{
-		"chi"		"__null__"
-	}
-	"[OAKS] mg_OAKs_Multigames_v2_2"
-	{
-		"chi"		"__null__"
-	}
-	"[OAKS] Map by ProfessorOak"
-	{
-		"chi"		"__null__"
-	}
-	"[OAKS] Port by Ara Dus?K"
-	{
-		"chi"		"__null__"
-	}
-	"Map made by [SG] Paul"
-	{
-		"chi"		"__null__"
-	}
-	"**Remake by FreeDOM**"
-	{
-		"chi"		"__null__"
-	}
-	"@[MAP] mg_Rank_Multigames"
-	{
-		"chi"		"__null__"
-	}
-	"@[MAP] mg_Headshot_Machine_Multiarenas"
-	{
-		"chi"		"__null__"
-	}
-	"[MAP] mg_Skilled_or_Lucky_Multigames"
-	{
-		"chi"		"__null__"
-	}
-	"[MAP] Made by Dus?K"
-	{
-		"chi"		"__null__"
-	}
-	"Map Ported by Shawn for GiClan"
-	{
-		"chi"		"__null__"
-	}
-	"@[MAP] This map does not work with bots..."
-	{
-		"chi"		"__null__"
-	}
-	"@[MAP] Map by [SG] Paul"
-	{
-		"chi"		"__null__"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*  1  *"
+    {
+        "chi" "__null__"
+    }
+
+    "*  2  *"
+    {
+        "chi" "__null__"
+    }
+
+    "*  3  *"
+    {
+        "chi" "__null__"
+    }
+
+    "*  4  *"
+    {
+        "chi" "__null__"
+    }
+
+    "*  5  *"
+    {
+        "chi" "__null__"
+    }
+
+    "10 seconds left."
+    {
+        "chi" "__null__"
+    }
+
+    "30 seconds left."
+    {
+        "chi" "__null__"
+    }
+
+    "Activating open field in....."
+    {
+        "chi" "__null__"
+    }
+
+    "Makers have 70 seconds."
+    {
+        "chi" "__null__"
+    }
+
+    "Makers have....."
+    {
+        "chi" "__null__"
+    }
+
+    "Map by Ka[X]de"
+    {
+        "chi" "__null__"
+    }
+
+    "mg_arenamaker_b5_1"
+    {
+        "chi" "__null__"
+    }
+
+    "Note : Snipers are disabled on this map."
+    {
+        "chi" "__null__"
+    }
+
+    "Open field after 10 seconds."
+    {
+        "chi" "__null__"
+    }
+
+    "Open field after 120 seconds."
+    {
+        "chi" "__null__"
+    }
+
+    "Open field after 30 seconds."
+    {
+        "chi" "__null__"
+    }
+
+    "Open field after 60 seconds."
+    {
+        "chi" "__null__"
+    }
+
+    "Recommend cl_use_opens_buy_menu set to 0"
+    {
+        "chi" "__null__"
+    }
+
+    "Respawn is disabled."
+    {
+        "chi" "__null__"
+    }
+
+    "Special thanks to Hestia, Revenant(RSS) ZE&MG server."
+    {
+        "chi" "__null__"
+    }
+
+    "Start."
+    {
+        "chi" "__null__"
+    }
+
+    "Starting in......"
+    {
+        "chi" "__null__"
+    }
+
+    "Teleporting all in 15 seconds."
+    {
+        "chi" "__null__"
+    }
+
+    "Teleporting all in 5 seconds."
+    {
+        "chi" "__null__"
+    }
+
+    "Teleporting all makers."
+    {
+        "chi" "__null__"
+    }
+
 }

@@ -1,75 +1,109 @@
 "Console_T"
 {
-	"[Map by Hypilix]"
-	{
-		"chi"		"__null__"
-	}
-	"[Musics by NCS]"
-	{
-		"chi"		"__null__"
-	}
-	"[Deagle Arena]"
-	{
-		"chi"		"__null__"
-	}
-	"[Scout vs Scout]"
-	{
-		"chi"		"__null__"
-	}
-	"[Shotgun Invisible]"
-	{
-		"chi"		"__null__"
-	}
-	"[Jedi Arena]"
-	{
-		"chi"		"__null__"
-	}
-	"[Naboo Arena]"
-	{
-		"chi"		"__null__"
-	}
-	"[Target Decoy]"
-	{
-		"chi"		"__null__"
-	}
-	"[Taser Arena]"
-	{
-		"chi"		"__null__"
-	}
-	"[Jedi Kong Arcade]"
-	{
-		"chi"		"__null__"
-	}
-	"[Invisible Area]"
-	{
-		"chi"		"__null__"
-	}
-	"[Battlefront Course]"
-	{
-		"chi"		"__null__"
-	}
-	"[Jedi Volleyball]"
-	{
-		"chi"		"__null__"
-	}
-	"[Mustafar Bhop]"
-	{
-		"chi"		"__null__"
-	}
-	"[Movingfloor]"
-	{
-		"chi"		"__null__"
-	}
-	"[Jedi Course]"
-	{
-		"chi"		"__null__"
-	}
-	"[Incendiary Spleef]"
-	{
-		"chi"		"__null__"
-	}
-	"[Deathspace]"
-	{
-		"chi"		"__null__"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "[Battlefront Course]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Deagle Arena]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Deathspace]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Incendiary Spleef]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Invisible Area]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Jedi Arena]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Jedi Course]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Jedi Kong Arcade]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Jedi Volleyball]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Map by Hypilix]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Movingfloor]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Musics by NCS]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Mustafar Bhop]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Naboo Arena]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Random]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Scout vs Scout]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Shotgun Invisible]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Target Decoy]"
+    {
+        "chi" "__null__"
+    }
+
+    "[Taser Arena]"
+    {
+        "chi" "__null__"
+    }
+
 }

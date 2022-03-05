@@ -1,51 +1,74 @@
 "Console_T"
 {
-	"Map by [XIX]"
-	{
-		"chi"		"__null__"
-	}
-	"3"
-	{
-		"chi"		"__null__"
-	}
-	"2"
-	{
-		"chi"		"__null__"
-	}
-	"1"
-	{
-		"chi"		"__null__"
-	}
-	"= = = The First Player at the Bus drive the Vehicle !!!  = = ="
-	{
-		"chi"		"__null__"
-	}
-	"= = = Last Team in the Arena wins the Match !!!  = = ="
-	{
-		"chi"		"__null__"
-	}
-	"= = = Hurry up !!!  = = ="
-	{
-		"chi"		"__null__"
-	}
-	"= = = Auto Map is activated  = = ="
-	{
-		"chi"		"__null__"
-	}
-	"= = = Music off  = = ="
-	{
-		"chi"		"__null__"
-	}
-	"Choose your attack Team !!!"
-	{
-		"chi"		"__null__"
-	}
-	"**MAP MADE BY: Chiizi**"
-	{
-		"chi"		"__null__"
-	}
-	"= = = Block Push is disabled  = = ="
-	{
-		"chi"		"__null__"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "= = = Auto Map is activated  = = ="
+    {
+        "chi" "__null__"
+    }
+
+    "= = = Block Push is disabled  = = ="
+    {
+        "chi" "__null__"
+    }
+
+    "= = = Hurry up !!!  = = ="
+    {
+        "chi" "__null__"
+    }
+
+    "= = = Last Team in the Arena wins the Match !!!  = = ="
+    {
+        "chi" "__null__"
+    }
+
+    "= = = Music off  = = ="
+    {
+        "chi" "__null__"
+    }
+
+    "= = = The First Player at the Bus drive the Vehicle !!!  = = ="
+    {
+        "chi" "__null__"
+    }
+
+    "1"
+    {
+        "chi" "__null__"
+    }
+
+    "2"
+    {
+        "chi" "__null__"
+    }
+
+    "3"
+    {
+        "chi" "__null__"
+    }
+
+    "Choose your attack Team !!!"
+    {
+        "chi" "__null__"
+    }
+
+    "Map by [XIX]"
+    {
+        "chi" "__null__"
+    }
+
+    "This Mini Game need more Players !!!"
+    {
+        "chi" "__null__"
+    }
+
 }
