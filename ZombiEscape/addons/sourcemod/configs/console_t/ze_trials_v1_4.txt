@@ -93,7 +93,7 @@
 
     "<<< Elevator leaves in 45 seconds! >>>"
     {
-        "chi" "__null__"
+        "chi" "电梯45秒后上升!守住这里!"
     }
 
     "<<< Falling Sky >>>"
@@ -109,6 +109,7 @@
     "<<< Heal has been picked up! >>>"
     {
         "chi" ">>>玩家拾取了奶<<<"
+        "blocked"    "1"
     }
 
     "<<< Heal used! >>>"
@@ -148,42 +149,42 @@
 
     "<<< Secret level 1 button pressed! >>>"
     {
-        "chi" "__null__"
+        "chi" "加载第一关"
     }
 
     "<<< Spinning Pushing Bolts >>>"
     {
-        "chi" "__null__"
+        "chi" "推动螺栓"
     }
 
     "<<< Trial 1 >>>"
     {
-        "chi" "__null__"
+        "chi" "第一关"
     }
 
     "<<< Trial 1 Complete! >>>"
     {
-        "chi" "__null__"
+        "chi" "胜利"
     }
 
     "<<< Trial 2 >>>"
     {
-        "chi" "__null__"
+        "chi" "第二关"
     }
 
     "<<< Trial 2 Complete! >>>"
     {
-        "chi" "__null__"
+        "chi" "胜利"
     }
 
     "<<< Trial 3 >>>"
     {
-        "chi" "__null__"
+        "chi" "第三关"
     }
 
     "<<< Trial 3 Complete! >>>"
     {
-        "chi" "__null__"
+        "chi" "胜利"
     }
 
     "<<< Ultra Beam >>>"
@@ -194,6 +195,7 @@
     "<<< Wall has been picked up! >>>"
     {
         "chi" ">>>玩家拾取了墙<<<"
+        "blocked"    "1"
     }
 
     "<<< Wall used! >>>"
@@ -204,6 +206,7 @@
     "<<< Wand has been picked up! >>>"
     {
         "chi" ">>>玩家拾取了push<<<"
+        "blocked"    "1"
     }
 
     "<<< Wand used! >>>"
@@ -228,7 +231,7 @@
 
     "<<< Zombies reached the end. Humans lose! >>>"
     {
-        "chi" "__null__"
+        "chi" "失败"
     }
 
     "<<< Zombies teleport in 10 seconds! >>>"
@@ -238,7 +241,7 @@
 
     "<<< Zombies teleport in 15 seconds! >>>"
     {
-        "chi" "__null__"
+        "chi" "僵尸将在15秒后传送"
     }
 
     "<<< Zombies teleport in 20 seconds! >>>"
@@ -253,7 +256,7 @@
 
     "<<< Zombies teleport in 30 seconds! >>>"
     {
-        "chi" "__null__"
+        "chi" "僵尸将在30秒后传送"
     }
 
     "<<< Zombies teleport in 40 seconds! >>>"
@@ -263,12 +266,12 @@
 
     "<<< Zombies teleport to entrance of castle in 30 seconds! >>>"
     {
-        "chi" "__null__"
+        "chi" "僵尸30秒后传送到城堡入口"
     }
 
     "<<< Zombies teleported to top! >>>"
     {
-        "chi" "__null__"
+        "chi" "僵尸已传送至顶部"
     }
 
 }

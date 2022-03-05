@@ -13,67 +13,78 @@
 
     "*** ... ***"
     {
-        "chi" "__null__"
+        "chi" "..."
     }
 
     "*** ?! ***"
     {
-        "chi" "__null__"
+        "chi" "?!"
     }
 
     "*** A player has picked up Earth Magic ***"
     {
         "chi" "**一名玩家捡起了<土>**"
+        "blocked"    "1"
     }
 
     "*** A player has picked up Electro Magic ***"
     {
         "chi" "**一名玩家捡起了<电>**"
+        "blocked"    "1"
     }
 
     "*** A player has picked up Healing Magic ***"
     {
         "chi" "**一名玩家捡起了<奶>**"
+        "blocked"    "1"
     }
 
     "*** A player has picked up Holy Magic ***"
     {
         "chi" "**一名玩家捡起了<终极>**"
+        "blocked"    "1"
     }
 
     "*** A player has picked up Poison Magic ***"
     {
         "chi" "**一名玩家捡起了<毒>**"
+        "blocked"    "1"
     }
 
     "*** A player has picked up Snow Magic ***"
     {
         "chi" "**一名玩家捡起了<雪>**"
+        "blocked"    "1"
     }
 
     "*** A player has picked up Wind Magic ***"
     {
         "chi" "**一名玩家捡起了<风>**"
+        "blocked"    "1"
     }
 
     "*** A zombie has picked up Gravity Magic ***"
     {
         "chi" "**一名僵尸捡起了<黑洞>**"
+        "blocked"    "1"
     }
 
     "*** A zombie has picked up Heal Magic ***"
     {
         "chi" "**一名僵尸捡起了<巫医>**"
+        "blocked"    "1"
     }
 
     "*** A zombie has picked up Ice Magic ***"
     {
         "chi" "**一名僵尸捡起了<寒冰>**"
+        "blocked"    "1"
     }
 
     "*** A zombie has picked up Nuke Magic ***>"
     {
         "chi" "**一名僵尸捡起了<核弹>**"
+        "blocked"    "1"
     }
 
     "*** Be careful about the strong wind!!! ***"
@@ -243,12 +254,12 @@
 
     "*** Extreme I ***"
     {
-        "chi" "__null__"
+        "chi" "极限模式一"
     }
 
     "*** Extreme II ***"
     {
-        "chi" "__null__"
+        "chi" "极限模式二"
     }
 
     "*** Fail... ***"
@@ -408,7 +419,7 @@
 
     "*** Level I ***"
     {
-        "chi" "__null__"
+        "chi" "**第一关**"
     }
 
     "*** Level I Complete ***"
@@ -418,7 +429,7 @@
 
     "*** Level II ***"
     {
-        "chi" "__null__"
+        "chi" "**第二关**"
     }
 
     "*** Level II Complete ***"

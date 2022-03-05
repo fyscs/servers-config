@@ -18,17 +18,17 @@
 
     "*** Admin pressed Ex button ***"
     {
-        "chi" "__null__"
+        "chi" "加载极限难度"
     }
 
     "*** Admin pressed Stage1 button ***"
     {
-        "chi" "__null__"
+        "chi" "加载第一关"
     }
 
     "*** Admin pressed Stage2 button ***"
     {
-        "chi" "__null__"
+        "chi" "加载第二关"
     }
 
     "*** Door opening in 10 seconds ! ***"
@@ -48,7 +48,7 @@
 
     "*** Door Opens in 10 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "门将在10秒后开启"
     }
 
     "*** Door opens in 15 seconds ! ***"
@@ -63,7 +63,7 @@
 
     "*** Door opens in 5 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "门将在5秒后开启"
     }
 
     "*** Entrance Door will close in 1 minutes ! ***"
@@ -118,7 +118,7 @@
 
     "*** STAGE COMPLETED ***"
     {
-        "chi" "__null__"
+        "chi" "胜利"
     }
 
     "*** Superior door opens in 30 seconds ! ***"
@@ -143,7 +143,7 @@
 
     "***Button Pressed***"
     {
-        "chi" "__null__"
+        "chi" "按钮已按下"
     }
 
 }

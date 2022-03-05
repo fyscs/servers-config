@@ -118,7 +118,7 @@
 
     ">>> BLOOPER USED STICKY INK <<<"
     {
-        "chi" "__null__"
+        "chi" "乌贼娘使用了墨水"
     }
 
     ">>> BLOOPER USED WATER BREATH <<<"
@@ -248,7 +248,7 @@
 
     ">>> Map made by Moray <<<"
     {
-        "chi" "**作者:Moray 汉化:回億@风云社**"
+        "chi" "**作者:Moray	汉化:回億@风云社**"
     }
 
     ">>> MINIGUN SOLDIER IS COMING <<<"
@@ -274,76 +274,91 @@
     ">>> PLAYER HAS PICKED UP AMMO <<<"
     {
         "chi" "**一名玩家捡起了 弹药**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP EARTH TOILET <<<"
     {
         "chi" "**一名玩家捡起了土马桶**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ELECTRIC TOILET <<<"
     {
         "chi" "**一名玩家捡起了电马桶**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP FIRE TOILET <<<"
     {
         "chi" "**一名玩家捡起了火马桶**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP GRAVITY TOILET <<<"
     {
         "chi" "**一名玩家捡起了黑洞马桶**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP HEAL <<<"
     {
         "chi" "**一名玩家捡起了 治疗**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ICE TOILET <<<"
     {
         "chi" "**一名玩家捡起了冰马桶**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP POISON TOILET <<<"
     {
         "chi" "**一名玩家捡起了毒马桶**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP PUSH <<<"
     {
         "chi" "**一名玩家捡起了 飓风**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP RAINBOW BEAM <<<"
     {
         "chi" "**一名玩家捡起了 激光**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP SLOWER SPHERE <<<"
     {
         "chi" "**一名玩家捡起了 减速**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP WATER TOILET <<<"
     {
         "chi" "**一名玩家捡起了水马桶**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP WIND TOILET <<<"
     {
         "chi" "**一名玩家捡起了风马桶**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
     {
         "chi" "**一名玩家捡起了 [zm]黑洞**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
     {
         "chi" "**一名玩家捡起了 [zm]治疗**"
+        "blocked"    "1"
     }
 
     ">>> PRIEST CASTED CANNON <<<"
@@ -383,7 +398,7 @@
 
     ">>> ROUTE 2 : HOLD 15 SECONDS <<<"
     {
-        "chi" "__null__"
+        "chi" "路线二:守住15秒"
     }
 
     ">>> ROUTE 2 : HOLD 25 SECONDS <<<"

@@ -34,6 +34,7 @@
     "** IGNIS AXE HAS BEEN PICKED UP **"
     {
         "chi" "**玩家拾取了火**"
+        "blocked"    "1"
     }
 
     "** ROUTE ONE **"
@@ -54,6 +55,7 @@
     "** SANATIO STAFF HAS BEEN PICKED UP **"
     {
         "chi" "**玩家拾取了奶**"
+        "blocked"    "1"
     }
 
     "** TAKE FRONT-LEFT DOOR **"
@@ -79,6 +81,7 @@
     "** TERRA AXE HAS BEEN PICKED UP **"
     {
         "chi" "**玩家拾取了墙**"
+        "blocked"    "1"
     }
 
     "** TRY TO USE THEM **"
@@ -89,6 +92,7 @@
     "** VENTUS STAFF HAS BEEN PICKED UP **"
     {
         "chi" "**玩家拾取了风**"
+        "blocked"    "1"
     }
 
     "** WE SECURED ROUTE ONE **"

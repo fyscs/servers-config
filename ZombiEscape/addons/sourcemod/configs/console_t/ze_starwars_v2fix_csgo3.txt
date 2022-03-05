@@ -13,7 +13,7 @@
 
     " The teleport will earn in 25 second"
     {
-        "chi" "__null__"
+        "chi" "**传送25秒2后开启**"
     }
 
     "**Activate the ship**"
@@ -23,12 +23,12 @@
 
     "**ADMIN HAS PRESSED KILL ALL BUTTON**"
     {
-        "chi" "__null__"
+        "chi" "**管理员按下处死全体按钮**"
     }
 
     "**Admin set Jedi Knight MODE in the admin room**"
     {
-        "chi" "__null__"
+        "chi" "**管理员设置Jedi Knight模式**"
     }
 
     "**Admin set Jedi Master MODE in the admin room**"
@@ -38,17 +38,17 @@
 
     "**Admin set Jedi MODE in the admin room**"
     {
-        "chi" "__null__"
+        "chi" "**管理员设置Jedi模式**"
     }
 
     "**Admin set Padawan MODE in the admin room**"
     {
-        "chi" "__null__"
+        "chi" "**管理员设置Padawan模式**"
     }
 
     "**Admin set Yound Padawan MODE in the admin room**"
     {
-        "chi" "__null__"
+        "chi" "**管理员设置Yound Padawan模式**"
     }
 
     "**AFK TELEPORT IN 5 SECOND**"
@@ -93,7 +93,7 @@
 
     "**Fall back! Droids are killed** "
     {
-        "chi" "__null__"
+        "chi" "**机器人死了!快走! **"
     }
 
     "**Fall back! The bridge has closed**"
@@ -123,7 +123,7 @@
 
     "**First door will open in 45 seconds** "
     {
-        "chi" "__null__"
+        "chi" "**第一扇大门45秒后打开**"
     }
 
     "**Last door will open in 30 seconds**"
@@ -143,22 +143,22 @@
 
     "**Level changes to EPIC** "
     {
-        "chi" "__null__"
+        "chi" "**关卡加载史诗难度**"
     }
 
     "**Level changes to EXTREME** "
     {
-        "chi" "__null__"
+        "chi" "**关卡加载极限难度**"
     }
 
     "**Level changes to HARD** "
     {
-        "chi" "__null__"
+        "chi" "**关卡加载困难难度**"
     }
 
     "**Level changes to NORMAL** "
     {
-        "chi" "__null__"
+        "chi" "**关卡加载普通难度**"
     }
 
     "**MAP BY MAKVI_ANKOM**"
@@ -218,7 +218,7 @@
 
     "**The doors will open in 5 seconds** "
     {
-        "chi" "__null__"
+        "chi" "**门5秒后打开**"
     }
 
     "**The droids will be killed in 10 seconds**"
@@ -333,42 +333,49 @@
 
     "5 SECOND"
     {
-        "chi" "__null__"
+        "chi" "**5秒**"
     }
 
     "A player picked up Force Blaster"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "A player picked up Force Grip"
     {
         "chi" "**一位玩家拾取了水! **"
+        "blocked"    "1"
     }
 
     "A player picked up Force Heal"
     {
         "chi" "***一位玩家拾取了奶! **"
+        "blocked"    "1"
     }
 
     "A player picked up Force Lightning"
     {
         "chi" "**一位玩家拾取了电! **"
+        "blocked"    "1"
     }
 
     "A player picked up Force Push"
     {
         "chi" "**一位玩家拾取了风! **"
+        "blocked"    "1"
     }
 
     "A player picked up Force Rage"
     {
         "chi" "**一位玩家拾取了终极 **"
+        "blocked"    "1"
     }
 
     "A player picked up Force Speed"
     {
         "chi" "**一位玩家拾取了加速! **"
+        "blocked"    "1"
     }
 
     "AFK TELEPORT 5 IN SECOND"
@@ -378,7 +385,7 @@
 
     "AFK TELEPORT IN 10 SECOND "
     {
-        "chi" "__null__"
+        "chi" "**挂机的玩家将在10秒后传送!**"
     }
 
     "AFK TELEPORT IN 5 SECOND"
@@ -428,7 +435,7 @@
 
     "BOSS USE RAGE "
     {
-        "chi" "__null__"
+        "chi" "**BOSS使用了技能狂怒, 紧贴墙壁! **"
     }
 
     "BOSS USE RAGE. BACK BACK BACK!!!!!!"
@@ -473,7 +480,7 @@
 
     "get to the side GET TO THE SIDE"
     {
-        "chi" "__null__"
+        "chi" "**到一边去**"
     }
 
     "Good station explode! Shoot ZM!"
@@ -513,7 +520,7 @@
 
     "Second door will open in 10 seconds "
     {
-        "chi" "__null__"
+        "chi" "**还有10秒后打开第二道大门!**"
     }
 
     "Second door will open in 15 seconds"

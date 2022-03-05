@@ -18,7 +18,7 @@
 
     "++ADMIN HAS PRESSED KILL ALL BUTTON++"
     {
-        "chi" "__null__"
+        "chi" "管理员按下处死全体按钮"
     }
 
     "++CRUSHER IS MOVING!! GO!!!++"
@@ -148,7 +148,7 @@
 
     "++GO ONLY UNDER THE ROOFS ++"
     {
-        "chi" "__null__"
+        "chi" "**路线: 屋顶下**"
     }
 
     "++GO ONLY UPON THE ROOF++"
@@ -253,7 +253,7 @@
 
     "++MAP BY GARGANTUA++"
     {
-        "chi" "**地图制作: GARGANTUA  汉化: 小三@风云社**"
+        "chi" "**地图制作: GARGANTUA		汉化: 小三@风云社**"
     }
 
     "++NEXT LEVEL IS EXTREME++"
@@ -368,12 +368,12 @@
 
     "++ZOMBIES ARE IN THE HELICOPTER!!YOU LOSE++ "
     {
-        "chi" "__null__"
+        "chi" "**直升机里有僵尸,你失败了**"
     }
 
     "++ZOMBIES ARE INSIDE!!YOU LOSE++ "
     {
-        "chi" "__null__"
+        "chi" "**僵尸进来了,你失败了**"
     }
 
 }

@@ -58,7 +58,7 @@
 
     ">>> Gate is opening <<<"
     {
-        "chi" "__null__"
+        "chi" "**大门打开**"
     }
 
     ">>> Gate will close in 10 seconds <<<"
@@ -104,6 +104,7 @@
     ">>> Heal has been picked <<<"
     {
         "chi" "**奶已被拿起 **"
+        "blocked"    "1"
     }
 
     ">>> Keep defending untill the gate closes <<<"
@@ -149,6 +150,7 @@
     ">>> Push has been picked <<<"
     {
         "chi" "**风已被拿起 **"
+        "blocked"    "1"
     }
 
     ">>> RED <<<"
@@ -178,7 +180,7 @@
 
     ">>> Thanks to Syoudous & Enviolinador for help / Tips"
     {
-        "chi" "__null__"
+        "chi" "**感谢Syoudous和Enviolinador的帮助和提醒**"
     }
 
     ">>> Try shooting the walls <<<"
@@ -194,6 +196,7 @@
     ">>> Wall has been picked <<<"
     {
         "chi" "**墙已被拿起 **"
+        "blocked"    "1"
     }
 
     ">>> Wall will break in 25 seconds <<<"

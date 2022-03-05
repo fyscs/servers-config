@@ -13,17 +13,17 @@
 
     "***10 seconds left***"
     {
-        "chi" "__null__"
+        "chi" "10"
     }
 
     "***5 second left***"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "***5 seconds left***"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "***Detonation in 3 seconds***"
@@ -33,12 +33,13 @@
 
     "***Find Another Button***"
     {
-        "chi" "__null__"
+        "chi" "寻找其他按钮"
     }
 
     "***Gravity picked up***"
     {
         "chi" "**玩家拾取了重力!**"
+        "blocked"    "1"
     }
 
     "***Gravity Used***"
@@ -49,6 +50,7 @@
     "***Low Health picked up***"
     {
         "chi" "**玩家拾取了低血量!**"
+        "blocked"    "1"
     }
 
     "***Low Health Used***"
@@ -63,12 +65,12 @@
 
     "***No Secret Chance***"
     {
-        "chi" "__null__"
+        "chi" "没有机会了"
     }
 
     "***Ready for final surf***"
     {
-        "chi" "__null__"
+        "chi" "准备好最后的滑翔"
     }
 
     "***READY TO RUN***"
@@ -133,7 +135,7 @@
 
     "***zombies are coming***"
     {
-        "chi" "__null__"
+        "chi" "**僵尸来了**"
     }
 
 }

@@ -13,27 +13,27 @@
 
     "***1***"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     "***2***"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "***3***"
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     "***4***"
     {
-        "chi" "__null__"
+        "chi" "4"
     }
 
     "***5***"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "***Door 2 open.***"
@@ -63,7 +63,7 @@
 
     "***Dream Over.***"
     {
-        "chi" "__null__"
+        "chi" "宝贝,你行啦!"
     }
 
     "***Mausoleum wall will  fall in 50secs.***"
@@ -93,27 +93,30 @@
 
     "***Waking Up. Door open.*** "
     {
-        "chi" "__null__"
+        "chi" "门打开了"
     }
 
     "***Waking Up. Door opening in 10secs.*** "
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***Waking Up. Door opening in 20secs.*** "
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***Waking Up. Door opening in 30secs.*** "
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***Waking Up. Door opening in 60secs.*** "
     {
-        "chi" "__null__"
+        "chi" "门60秒后打开"
     }
 
 }

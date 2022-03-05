@@ -14,21 +14,25 @@
     "** Doritos has been picked up**"
     {
         "chi" "**一名玩家捡起了薯片**"
+        "blocked"    "1"
     }
 
     "** Heal has been picked up**"
     {
         "chi" "**一名玩家捡起了肥宅水**"
+        "blocked"    "1"
     }
 
     "** MG42 has been picked up**"
     {
         "chi" "*一名玩家捡起了MG3机枪**"
+        "blocked"    "1"
     }
 
     "** Super Pink Star?! has been picked up**"
     {
         "chi" "**一名玩家捡起了魔法少女甘道夫**"
+        "blocked"    "1"
     }
 
     "** Sword has been picked up! **"
@@ -258,7 +262,7 @@
 
     "**Map by Ma/l/go**"
     {
-        "chi" "**地图作者:Ma/l/go 汉化:喵杍@風雲社**"
+        "chi" "**地图作者:Ma/l/go	汉化:喵杍@風雲社**"
     }
 
     "**Mine has been picked up!**"
