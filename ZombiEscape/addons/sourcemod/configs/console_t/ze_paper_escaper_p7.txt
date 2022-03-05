@@ -19,6 +19,7 @@
     "* Cisneros' Hero Burguer has been picked up! *"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "* Defend the bridge for 30 seconds until it is blown up!!! *"
@@ -48,7 +49,7 @@
 
     "* FIRST FLOOR: Emergencies and stairway/elevator access. *"
     {
-        "chi" "__null__"
+        "chi" "一楼:应急通道和楼梯/电梯通道"
     }
 
     "* FOURTH FLOOR: Emergency generator and Helipad access. *"
@@ -263,12 +264,13 @@
 
     "** IT'S TOO LATE!!! YOU NOOBZORZ ARE FAIL!!! **"
     {
-        "chi" "__null__"
+        "chi" "失败"
     }
 
     "** Mojonero's PenisGun has been picked up. **"
     {
         "chi" "**大屌枪被拾起**"
+        "blocked"    "1"
     }
 
     "** PLANE ENDING: GET TO THE PAPER PLANE **"
@@ -278,7 +280,7 @@
 
     "** PLEASE CONSIDER SUICIDE IF YOU ARE UNSURE ABOUT BEING ABLE TO BEAT THIS ROUND! **"
     {
-        "chi" "__null__"
+        "chi" "如果您不确定能否战胜这一轮,请考虑自杀"
     }
 
     "** Raivb1000 Prototype door has been unlocked! **"
@@ -289,6 +291,7 @@
     "** Raivb1000 prototype has been picked up. Press E (+USE) to activate. **"
     {
         "chi" "**终极被拾起**"
+        "blocked"    "1"
     }
 
     "** SHOOT IT! **"
@@ -338,32 +341,32 @@
 
     "*** ADMIN: EXTREME MODE ACTIVATED ***"
     {
-        "chi" "__null__"
+        "chi" "载入萌新司机关"
     }
 
     "*** ADMIN: HARD MODE ACTIVATED ***"
     {
-        "chi" "__null__"
+        "chi" "载入咸鱼关"
     }
 
     "*** ADMIN: MASSACRE MODE ACTIVATED ***"
     {
-        "chi" "__null__"
+        "chi" "载入老司机关"
     }
 
     "*** ADMIN: NORMAL MODE ACTIVATED ***"
     {
-        "chi" "__null__"
+        "chi" "载入萌新关"
     }
 
     "*** ADMIN: PANIC MODE ACTIVATED ***"
     {
-        "chi" "__null__"
+        "chi" "载入老咸鱼关"
     }
 
     "*** ADMIN: THE END MODE ACTIVATED ***"
     {
-        "chi" "__null__"
+        "chi" "载入最终关关"
     }
 
     "*** Current level: EXTREME  *** Escape: EVIL CORP. HEADQUARTERS ***"
@@ -413,7 +416,7 @@
 
     "*** Energy is coming back to the engine! ***"
     {
-        "chi" "__null__"
+        "chi" "引擎正在发动"
     }
 
     "*** EXTREME MODE COMPLETED ***"
@@ -468,7 +471,7 @@
 
     "*** MASSACRE MODE COMPLETED ***"
     {
-        "chi" "**已通关萌新司机难度**"
+        "chi" "**已通关老司机难度**"
     }
 
     "*** MOVE! The doors will close in 15 seconds! ***"
@@ -498,7 +501,7 @@
 
     "*** OH NO!!! WE'RE TOO LATE! ***"
     {
-        "chi" "__null__"
+        "chi" "失败"
     }
 
     "*** PANIC MODE COMPLETED ***"
@@ -543,7 +546,7 @@
 
     "*** WE'RE DOOMED!!! ***"
     {
-        "chi" "__null__"
+        "chi" "注定..."
     }
 
     "*** ZOMBIES DETECTED: INVALID VICTORY **"
@@ -554,6 +557,7 @@
     "**Flamethrower has been picked up. Press +Use (E) to activate**"
     {
         "chi" "**喷火器被拾起 按'E'来使用**"
+        "blocked"    "1"
     }
 
     "**Fuel lasts about 10 seconds. **"
@@ -574,6 +578,7 @@
     "**Rocket launcher picked up. Press +USE (E) to activate.**"
     {
         "chi" "**沙皇炸弹被拾起 按'E'来使用[只有一发] **"
+        "blocked"    "1"
     }
 
     "*Activate the bridge to enter the engines area*"
@@ -584,6 +589,7 @@
     "*Ammo Box has been picked up. Press +USE (E) to activate.*"
     {
         "chi" "**弹药箱被拾起**"
+        "blocked"    "1"
     }
 
     "*Annihilator mode activated. Unloading offensive modules.*"
@@ -719,6 +725,7 @@
     "*Heal has been picked up. Press +USE (E) to activate.*"
     {
         "chi" "**奶被拾起**"
+        "blocked"    "1"
     }
 
     "*He's going to use his more powerfull attack and wipe us out!*"
@@ -744,6 +751,7 @@
     "*Landmine picked up. Jump and press +USE (E) to activate.*"
     {
         "chi" "**地雷被拾起**"
+        "blocked"    "1"
     }
 
     "*Last offensive module activated: Plasma cannon module loaded*"
@@ -829,6 +837,7 @@
     "*Speed weapon has been picked up. It grants a slight speed boost.*"
     {
         "chi" "**加速枪被拾起 **"
+        "blocked"    "1"
     }
 
     "*Storage door opening in 15 seconds*"
@@ -884,6 +893,7 @@
     "*Tornado generator has been picked up. Press +USE (E) to activate.*"
     {
         "chi" "**风已被拾起**"
+        "blocked"    "1"
     }
 
     "*Transporter I leaving in 5 seconds.*"

@@ -19,6 +19,7 @@
     "|| 5 seconds left ||"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "|| 5 Seconds left ||"
@@ -64,6 +65,7 @@
     "|| Alpharadia's cut has been picked up ||"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "|| Another guide is being chosen... ||"
@@ -74,6 +76,7 @@
     "|| Berserker has been picked up ||"
     {
         "chi" "|| ||"
+        "blocked"    "1"
     }
 
     "|| Boats are leaving ||"
@@ -164,6 +167,7 @@
     "|| Healer has been picked up ||"
     {
         "chi" "|| ||"
+        "blocked"    "1"
     }
 
     "|| Kill Remaining zombies ||"
@@ -173,7 +177,7 @@
 
     "|| Map by Alpharadia ||"
     {
-        "chi" "||地图作者: Alpharadia  汉化: 小三@风云社||"
+        "chi" "||地图作者: Alpharadia		汉化: 小三@风云社||"
     }
 
     "|| One player must fetch the guide light ||"
@@ -209,6 +213,7 @@
     "|| Someone has entered the DJ Room ||"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "|| Thanks for playing ! ||"
@@ -259,11 +264,13 @@
     "|| Zombie shocker has been picked up ||"
     {
         "chi" "|| ||"
+        "blocked"    "1"
     }
 
     "|| Zombie stopper has been picked up ||"
     {
         "chi" "|| ||"
+        "blocked"    "1"
     }
 
     "|| Zombies prepare to take control of the Giant Eye ||"

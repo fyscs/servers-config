@@ -18,7 +18,7 @@
 
     "**Right Elevator Leaving in 15s**"
     {
-        "chi" "__null__"
+        "chi" "右边电梯将在15秒离开"
     }
 
     "**Train depart**"
@@ -53,12 +53,12 @@
 
     ">>Map Modified by LeGrem<<"
     {
-        "chi" "**修改地图:LeGrem**"
+        "chi" "**修复:LeGrem**"
     }
 
     ">>PRESS THE BUTTON TO START THE TRAIN<<"
     {
-        "chi" "__null__"
+        "chi" "按下制动"
     }
 
 }

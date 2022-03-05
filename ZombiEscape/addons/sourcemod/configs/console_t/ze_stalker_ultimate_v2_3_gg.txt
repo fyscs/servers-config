@@ -63,12 +63,12 @@
 
     "**15 SECONDS LEFT**"
     {
-        "chi" "__null__"
+        "chi" "**15秒**"
     }
 
     "**5 SECONDS LEFT**"
     {
-        "chi" "__null__"
+        "chi" "**5秒**"
     }
 
     "**A PIECE OF FLESH GOT MAXIMUM POWER**"
@@ -78,22 +78,22 @@
 
     "**ADMIN SET LEVEL 1 IN THE ADMIN ROOM**"
     {
-        "chi" "__null__"
+        "chi" "**管理员把关卡调至第一关 **"
     }
 
     "**ADMIN SET LEVEL 2 IN THE ADMIN ROOM**"
     {
-        "chi" "__null__"
+        "chi" "**管理员把关卡调至第二关 **"
     }
 
     "**ADMIN SET LEVEL 3 IN THE ADMIN ROOM**"
     {
-        "chi" "__null__"
+        "chi" "**管理员把关卡调至第三关 **"
     }
 
     "**ADMIN SET LEVEL 4 IN THE ADMIN ROOM**"
     {
-        "chi" "__null__"
+        "chi" "**管理员把关卡调至第四关 **"
     }
 
     "**ADMIN SET LEVEL 5 IN THE ADMIN ROOM**"
@@ -128,12 +128,12 @@
 
     "**DON'T LET HIM TO FAIL US!!**"
     {
-        "chi" "__null__"
+        "chi" "**别让他让我们失望 **"
     }
 
     "**FAIL DETECTED**GLITCH WIN PROTECTION IS ON**"
     {
-        "chi" "__null__"
+        "chi" "**检测到故障,故障保护打开**"
     }
 
     "**FIREBALL GOT MAXIMUM POWER**"
@@ -153,7 +153,7 @@
 
     "**GO!!**GO!!**GO!!**"
     {
-        "chi" "__null__"
+        "chi" "**走!!**"
     }
 
     "**Good job!! You won stage 3!! New area opened!**"
@@ -183,7 +183,7 @@
 
     "**It's dead. Good job**"
     {
-        "chi" "__null__"
+        "chi" "**它死了,干得漂亮**"
     }
 
     "**NIGHTSTAR GOT MAXIMUM POWER**"
@@ -223,7 +223,7 @@
 
     "**Prepare to FIGHT**"
     {
-        "chi" "__null__"
+        "chi" "**准备战斗**"
     }
 
     "**PREPARE TO MOVE IN 10 SECONDS!**"
@@ -248,7 +248,7 @@
 
     "**THE ADMIN SET BLOWOUT. U GONNA DIE IN 20 SECONDS**"
     {
-        "chi" "__null__"
+        "chi" "**管理员设置炸弹,20秒后你会死**"
     }
 
     "**The blowout is comming**"
@@ -273,7 +273,7 @@
 
     "**THE LEVEL IS FAILED** ZOMBIES MADE IT TO THE SECOND WAY**"
     {
-        "chi" "__null__"
+        "chi" "**关卡失败,僵尸进来了,加载第二关**"
     }
 
     "**The map isn't eazy. It needs good ZE skills and good teamplay**"
@@ -328,7 +328,7 @@
 
     "**YOU HAVE FAILED**"
     {
-        "chi" "__null__"
+        "chi" "**你失败了**"
     }
 
     "**YOU WIN THE MAP!!YOU ARE THE TRUE STALKERS!!!**"
@@ -354,31 +354,37 @@
     "A player picked up a piece of flesh"
     {
         "chi" "**一名玩家拿起神器腐烂的肉块<风> **"
+        "blocked"    "1"
     }
 
     "A player picked up fireball"
     {
         "chi" "**一名玩家拿起神器<火焰> **"
+        "blocked"    "1"
     }
 
     "A player picked up flash"
     {
         "chi" "**一名玩家拿起神器灵魂<电>**"
+        "blocked"    "1"
     }
 
     "A player picked up meatchunk"
     {
         "chi" "**一名玩家拿起神器<重力> **"
+        "blocked"    "1"
     }
 
     "A player picked up nightstar"
     {
         "chi" "**一名玩家拿起神器夜星<减速> **"
+        "blocked"    "1"
     }
 
     "A player picked up spikeball"
     {
         "chi" "**一名玩家拿起神器刺球<奶> **"
+        "blocked"    "1"
     }
 
     "Bloodsucker is watching you..."
@@ -418,12 +424,12 @@
 
     "say **UNKNOWN ARTEFACT** +50% COMPLETE"
     {
-        "chi" "__null__"
+        "chi" "**未知制品**"
     }
 
     "say **UNKNOWN ARTEFACT**+50% COMPLETED"
     {
-        "chi" "__null__"
+        "chi" "**未知制品**"
     }
 
     "Survive for 70 seconds"

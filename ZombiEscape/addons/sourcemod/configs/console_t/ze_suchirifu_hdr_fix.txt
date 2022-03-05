@@ -44,11 +44,13 @@
     "[Item] DarkKnight has been picked up  "
     {
         "chi" "**黑暗骑士已被拾取**"
+        "blocked"    "1"
     }
 
     "[Item] Ninja has been picked up"
     {
         "chi" "**忍者已被拾取**"
+        "blocked"    "1"
     }
 
     "[Lower Door] 10 seconds [Open]"

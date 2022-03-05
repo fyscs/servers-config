@@ -28,7 +28,7 @@
 
     "** A DOOR IS OPEN ** RUN UPSTAIRS ** GO GO GO **"
     {
-        "chi" "__null__"
+        "chi" "一扇门是开着的**跑上楼**GO GO GO**"
     }
 
     "** ADMIN PRESSED KILL ALL BUTTON **"
@@ -338,7 +338,7 @@
 
     "** Tip 1 : press +use on pickable objects to build barricades ** "
     {
-        "chi" "__null__"
+        "chi" "提示一:在可拾取的物体上按+使用以建造路障"
     }
 
     "** Tip 10 : horse and armor (while shield is not broken) items can push zombies **"
@@ -363,12 +363,12 @@
 
     "** Tip 2 : reach and win the end of a stage to level up ** "
     {
-        "chi" "__null__"
+        "chi" "提示二:到达并赢得一个阶段的结束升级"
     }
 
     "** Tip 3 : take items at zombie and human shops in spawn ** "
     {
-        "chi" "__null__"
+        "chi" "提示三:在生成中的僵尸和人类商店中获取物品"
     }
 
     "** Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately **"
@@ -428,12 +428,12 @@
 
     "** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS ** "
     {
-        "chi" "__null__"
+        "chi" "预热回合 ** 在 10 秒内完成回合重启**"
     }
 
     "** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS ** "
     {
-        "chi" "__null__"
+        "chi" "预热回合 ** 在 60 秒内完成回合重启**"
     }
 
     "** WARMUP ROUND IS OVER! **"
@@ -479,6 +479,7 @@
     "*** This map is a port in progress and is not currently available to play on your server. Feel free to change map. ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**CURRENT STAGE >> PART 1 >> OSGILIATH **"

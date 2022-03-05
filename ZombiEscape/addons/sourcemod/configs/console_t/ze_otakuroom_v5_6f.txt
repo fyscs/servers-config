@@ -13,22 +13,22 @@
 
     "**[Admin]Stage 1**"
     {
-        "chi" "__null__"
+        "chi" "载入第一关"
     }
 
     "**[Admin]Stage 2**"
     {
-        "chi" "__null__"
+        "chi" "载入第二关"
     }
 
     "**[Admin]Stage 3**"
     {
-        "chi" "**管理员选择第三关**"
+        "chi" "**载入第三关**"
     }
 
     "**[Admin]ZM**"
     {
-        "chi" "**管理员选择了ZM关 **"
+        "chi" "**载入第生存关 **"
     }
 
     "**[ZM]**"
@@ -39,16 +39,19 @@
     "**1**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**2**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**3**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**5 seconds**"
@@ -143,7 +146,7 @@
 
     "**Model by uuz**"
     {
-        "chi" "__null__"
+        "chi" "作者:uuz 汉化:小三@風雲社"
     }
 
     "**Nuke in 1 min**"
@@ -168,7 +171,7 @@
 
     "**Original map : kz_otakuroom_v3 , by GemaYue**"
     {
-        "chi" "__null__"
+        "chi" "地图基于:kz_otakuroom_v3改版 作者:GemaYue"
     }
 
     "**Round Failed**"
@@ -188,12 +191,12 @@
 
     "**Stage 1**"
     {
-        "chi" "__null__"
+        "chi" "第一关"
     }
 
     "**Stage 2**"
     {
-        "chi" "__null__"
+        "chi" "第二关"
     }
 
     "**Stage 3**"
@@ -223,7 +226,7 @@
 
     "**Wall breaking in 20 seconds**"
     {
-        "chi" "__null__"
+        "chi" "墙:20秒"
     }
 
     "**You failed**"
@@ -233,7 +236,7 @@
 
     "**全人类の绯想�?**"
     {
-        "chi" "__null__"
+        "chi" "全人类の绯想?"
     }
 
 }

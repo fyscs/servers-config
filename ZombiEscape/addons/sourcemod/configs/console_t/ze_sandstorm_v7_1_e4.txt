@@ -18,7 +18,7 @@
 
     "** 5 seconds left **"
     {
-        "chi" "__null__"
+        "chi" "**还有10秒**"
     }
 
     "** 5 seconds left. **"
@@ -29,31 +29,37 @@
     "** A player has picked up Earth Staff **"
     {
         "chi" "**一位玩家获得了大地权杖**"
+        "blocked"    "1"
     }
 
     "** A player has picked up Fire Staff **"
     {
         "chi" "**一位玩家获得了烈火权杖**"
+        "blocked"    "1"
     }
 
     "** A player has picked up Heal Staff **"
     {
         "chi" "** 一位玩家获得了治愈权杖 **"
+        "blocked"    "1"
     }
 
     "** A player has picked up Quicksand Staff **"
     {
         "chi" "**一位玩家获得了流沙权杖**"
+        "blocked"    "1"
     }
 
     "** A player has picked up SandStorm Staff **"
     {
         "chi" "** 一位玩家获得了沙暴权杖 **"
+        "blocked"    "1"
     }
 
     "** A player has picked up Tornado Staff **"
     {
         "chi" "** 一位玩家获得了飓风权杖 **"
+        "blocked"    "1"
     }
 
     "** Bomb explodes in 10 seconds **"
@@ -108,7 +114,7 @@
 
     "** Kill the remaining zombies! **"
     {
-        "chi" "__null__"
+        "chi" "**杀死剩余的僵尸**"
     }
 
     "** LEVEL 1 **"
@@ -148,7 +154,7 @@
 
     "** Map Ported By 上古,單純 **"
     {
-        "chi" "__null__"
+        "chi" "**地图移植:上古,單純**"
     }
 
     "** Press on the 4 obelisks to open the door **"
@@ -283,12 +289,12 @@
 
     ">| ADMIN ROOM |< Level changed to 1. Kill all in 5 seconds."
     {
-        "chi" "__null__"
+        "chi" "**[管理员]第一关.5秒后处死所有人**"
     }
 
     ">| ADMIN ROOM |< Level changed to 2. Kill all in 5 seconds."
     {
-        "chi" "__null__"
+        "chi" "**[管理员]第二关.5秒后处死所有人**"
     }
 
     ">| ADMIN ROOM |< Level changed to 3. Kill all in 5 seconds."

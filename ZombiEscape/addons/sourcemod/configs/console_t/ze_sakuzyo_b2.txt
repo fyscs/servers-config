@@ -13,7 +13,7 @@
 
     "** 5 SECONDS REMAINING **"
     {
-        "chi" "__null__"
+        "chi" "**还剩5秒**"
     }
 
     "** Defend until the door opens **"
@@ -43,7 +43,7 @@
 
     "*** 5 SECOND REMAINING ***"
     {
-        "chi" "__null__"
+        "chi" "**还剩5秒**"
     }
 
     "*** 5 SECONDS REMAINING ***"
@@ -163,7 +163,7 @@
 
     "*** Ice element is casting a final attack! ***"
     {
-        "chi" "__null__"
+        "chi" "冰元素正在进行最后的攻击!"
     }
 
     "*** Ice element is charging an attack! ***"
@@ -193,7 +193,7 @@
 
     "*** Map by Lv. 100 Crobat ***"
     {
-        "chi" "**地图制作: Lv. 100 Crobat  汉化: 小三@风云社**"
+        "chi" "**地图制作:Lv.100 Crobat 汉化:小三@風雲社**"
     }
 
     "*** Platforms will break in 15 seconds ***"
@@ -213,7 +213,7 @@
 
     "*** S?ku??o: Exe?ut? G?it?h 82 ***"
     {
-        "chi" "__null__"
+        "chi" "S?ku??o:Exe?ut?G?it?h "
     }
 
     "*** SHOOT THE ICE PROGRAM ***"
@@ -268,7 +268,7 @@
 
     "*** YOU ARE TOO SLOW ***"
     {
-        "chi" "__null__"
+        "chi" "**太迟了**"
     }
 
     "*** YOU ARE TOO SLOW! ***"

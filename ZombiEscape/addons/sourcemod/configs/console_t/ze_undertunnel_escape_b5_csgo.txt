@@ -14,16 +14,17 @@
     "*** !? ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** ANTI BHOP :Bhopping is not allowed by the map "
     {
-        "chi" "__null__"
+        "chi" "地图连跳已被限制"
     }
 
     "*** BE CAREFUL !! ***"
     {
-        "chi" "__null__"
+        "chi" "小心"
     }
 
     "*** BIG FALL ROCK !! ***"
@@ -113,7 +114,7 @@
 
     "*** Map created by thas ***"
     {
-        "chi" "__null__"
+        "chi" "作者:thas 汉化:小三@風雲社"
     }
 
     "*** OH NO !! IT'S EARTHQUAKE !! ***"
@@ -133,7 +134,7 @@
 
     "*** THE BIG ROCK IS BLOCKING OUR ESCAPE ROAD... ***"
     {
-        "chi" "__null__"
+        "chi" "这该死的石头挡住了我们的去路"
     }
 
     "*** THIS MACHINE IS HIS ***"

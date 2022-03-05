@@ -13,32 +13,36 @@
 
     "[Unkown Voice] My name is Null"
     {
-        "chi" "[未知声音] 我的名字是Null"
+        "chi" "[未知声音] 我的名字是..."
     }
 
     "1!!"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "2!!"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "3!!"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "4!!"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "5!!"
     {
-        "chi" "__null__"
+        "chi" "...5..."
     }
 
     "Bridges coming in 10 Seconds!"
@@ -273,27 +277,27 @@
 
     "Null: Give me 5 seconds!"
     {
-        "chi" "Null:给我5秒时间"
+        "chi" "[未知声音]:给我5秒时间"
     }
 
     "Null: Good luck!"
     {
-        "chi" "Null:祝好运"
+        "chi" "[未知声音]:祝好运"
     }
 
     "Null: I can get you out of there!"
     {
-        "chi" "Null:我可以帮助你们离开这里"
+        "chi" "[未知声音]:我可以帮助你们离开这里"
     }
 
     "Null: Seems that you are stuck!"
     {
-        "chi" "Null:似乎你们被困住了?"
+        "chi" "[未知声音]:似乎你们被困住了?"
     }
 
     "Null: Stand on the circle sign! It's a teleport gate!"
     {
-        "chi" "Null:站在圆圈标志上,你们将会被传送"
+        "chi" "[未知声音]:站在圆圈标志上,你们将会被传送"
     }
 
     "Once the 45 Seconds are over you will get teleported!"
@@ -364,13 +368,13 @@
     "Special Thanks to Luffaren"
     {
         "chi" " "
-        "blocked" "1"
+        "blocked"    "1"
     }
 
     "Special Thanks to Moltard"
     {
         "chi" " "
-        "blocked" "1"
+        "blocked"    "1"
     }
 
     "Special Thanks to Onahole"
@@ -381,7 +385,7 @@
     "Special Thanks to Qahnaarin"
     {
         "chi" " "
-        "blocked" "1"
+        "blocked"    "1"
     }
 
     "Teleportert is active!"

@@ -149,76 +149,91 @@
     ">>> Player has picked up Abyss  <<<"
     {
         "chi" ">>> 虚空轮回 <<<"
+        "blocked"    "1"
     }
 
     ">>> Player has picked up Ammo <<<"
     {
         "chi" ">>> 一名玩家捡起了弹药箱 <<<"
+        "blocked"    "1"
     }
 
     ">>> Player has picked up Ballista <<<"
     {
         "chi" ">>> 一名玩家捡起了弩炮 <<<"
+        "blocked"    "1"
     }
 
     ">>> Player has picked up Bible <<<"
     {
         "chi" ">>> 一名玩家捡起了圣经 <<<"
+        "blocked"    "1"
     }
 
     ">>> Player has picked up Blood Orb  <<<"
     {
         "chi" ">>> 血红源泉 <<<"
+        "blocked"    "1"
     }
 
     ">>> Player has picked up Crystal Staff <<<"
     {
         "chi" ">>> 一名玩家捡起了水晶权杖 <<<"
+        "blocked"    "1"
     }
 
     ">>> Player has picked up Explosive Barrel  <<<"
     {
         "chi" ">>> 烈火爆破 <<<"
+        "blocked"    "1"
     }
 
     ">>> Player has picked up Guillotine  <<<"
     {
         "chi" ">>> 罪: 断头台 <<<"
+        "blocked"    "1"
     }
 
     ">>> Player has picked up Heal Staff <<<"
     {
         "chi" ">>> 一名玩家捡起了治疗权杖 <<<"
+        "blocked"    "1"
     }
 
     ">>> Player has picked up Meteor Staff <<<"
     {
         "chi" ">>> 一名玩家捡起了流星权杖 <<<"
+        "blocked"    "1"
     }
 
     ">>> Player has picked up Necromancy  <<<"
     {
         "chi" ">>> 星辰之冻结 <<<"
+        "blocked"    "1"
     }
 
     ">>> Player has picked up Sacred Staff <<<"
     {
         "chi" ">>> 一名玩家捡起了恐惧权杖 <<<"
+        "blocked"    "1"
     }
 
     ">>> Player has picked up Shade Staff <<<"
     {
         "chi" ">>> 一名玩家捡起了暗影权杖 <<<"
+        "blocked"    "1"
     }
 
     ">>> Player has picked up Tornado Staff <<<"
     {
         "chi" ">>> 一名玩家捡起了飓风权杖 <<<"
+        "blocked"    "1"
     }
 
     ">>> Player has picked up Venom Staff <<<"
     {
         "chi" ">>> 一名玩家捡起了毒液权杖 <<<"
+        "blocked"    "1"
     }
 
     ">>> Rakiora is Coming <<<"
@@ -346,34 +361,34 @@
         "chi" ">>> 僵尸们10秒后传送 <<<"
     }
 
-    "artTouch command:Command:say >>> Left Door Opening in 15 Seconds <<<:0:1"
+    ">>> Left Door Opening in 15 Seconds <<<"
     {
-        "chi" "__null__"
+        "chi" "左门15秒后打开"
     }
 
-    "artTouch command:Command:say >>> Left Door Opening in 20 Seconds <<<:0:1"
+    ">>> Left Door Opening in 20 Seconds <<<"
     {
-        "chi" "__null__"
+        "chi" "左门20秒后打开"
     }
 
-    "artTouch command:Command:say >>> Library Route Opened <<<:65:1"
+    ">>> Library Route Opened <<<"
     {
-        "chi" "__null__"
+        "chi" "图书馆区域开放"
     }
 
-    "artTouch command:Command:say >>> Meeting Room Route Opened <<<:65:1"
+    ">>> Meeting Room Route Opened <<<"
     {
-        "chi" "__null__"
+        "chi" "会议室开放"
     }
 
-    "artTouch command:Command:say >>> Middle Door Opening in 20 Seconds <<<:0:1"
+    ">>> Middle Door Opening in 20 Seconds <<<"
     {
-        "chi" "__null__"
+        "chi" "会议室门20秒后打开"
     }
 
-    "artTouch command:Command:say >>> Right Door Opening in 15 Seconds <<<:0:1"
+    ">>> Right Door Opening in 15 Seconds <<<"
     {
-        "chi" "__null__"
+        "chi" "右边15秒后打开"
     }
 
     "Noob Trashed"

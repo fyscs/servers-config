@@ -49,61 +49,72 @@
     "<< A player has picked up earth magic >>"
     {
         "chi" "**一名玩家习得了墙**"
+        "blocked"    "1"
     }
 
     "<< A player has picked up electro magic >>"
     {
         "chi" "**一名玩家习得了电**"
+        "blocked"    "1"
     }
 
     "<< A player has picked up heal magic >>"
     {
         "chi" "**一名玩家习得了治疗**"
+        "blocked"    "1"
     }
 
     "<< A player has picked up holy magic >>"
     {
         "chi" "**一名玩家习得了终极**"
+        "blocked"    "1"
     }
 
     "<< A player has picked up poison magic >>"
     {
         "chi" "**一名玩家习得了毒**"
+        "blocked"    "1"
     }
 
     "<< A player has picked up snow magic >>"
     {
         "chi" "**一名玩家习得了雪**"
+        "blocked"    "1"
     }
 
     "<< A player has picked up wind magic >>"
     {
         "chi" "**一名玩家习得了风**"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up gravity magic >>"
     {
         "chi" "**一名玩家习得了[zm]黑洞**"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up heal magic >>"
     {
         "chi" "**一名玩家习得了[zm]治疗**"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up ice magic >>"
     {
         "chi" "**一名玩家习得了[zm]冰域**"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up poison magic >>"
     {
         "chi" "**一名玩家习得了[zm]蛊毒**"
+        "blocked"    "1"
     }
 
     "<< Admin has selected Chapter I >>"
     {
-        "chi" "__null__"
+        "chi" "**管理员选择第一关**"
     }
 
     "<< Admin has selected Chapter II >>"
@@ -113,7 +124,7 @@
 
     "<< Admin has selected Chapter III >>"
     {
-        "chi" "__null__"
+        "chi" "**管理员选择第三关**"
     }
 
     "<< Admin has selected Chapter IV >>"
@@ -233,7 +244,7 @@
 
     "<< Go through the canyon to get to the ruin! >> "
     {
-        "chi" "__null__"
+        "chi" "穿过峡谷到达废墟!"
     }
 
     "<< Go to the City again! >>"
@@ -448,7 +459,7 @@
 
     "<< Tesla disappeared again... >>"
     {
-        "chi" "__null__"
+        "chi" "**特斯拉又消失了...**"
     }
 
     "<< Tesla has disappeared.... >>"
@@ -608,7 +619,7 @@
 
     "<< The zombies have escaped!!! >>"
     {
-        "chi" "__null__"
+        "chi" "**僵尸逃走了**"
     }
 
     "<< There are a lot of zombies near the city >>"
@@ -638,7 +649,7 @@
 
     "<< wait for 20 seconds >>"
     {
-        "chi" "__null__"
+        "chi" "**防守20秒**"
     }
 
     "<< Wait for 5 seconds >>"
@@ -703,7 +714,7 @@
 
     "<< Zombies have escaped! YOU FAIL! >>"
     {
-        "chi" "__null__"
+        "chi" "**僵尸胜利**"
     }
 
 }

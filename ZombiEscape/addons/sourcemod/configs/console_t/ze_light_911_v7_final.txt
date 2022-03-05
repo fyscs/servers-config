@@ -28,7 +28,7 @@
 
     "*** DEFEND/NUKE 30s ***"
     {
-        "chi" "__null__"
+        "chi" "防御导弹30秒"
     }
 
     "*** FALL BACK ***"
@@ -38,27 +38,27 @@
 
     "*** Map by: Kappoochino ***"
     {
-        "chi" "__null__"
+        "chi" "地图来源: Kappoochino"
     }
 
     "*** NUKE 1 *** "
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     "*** NUKE 2 *** "
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "*** NUKE 3 *** "
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     "*** rtv *** "
     {
-        "chi" "__null__"
+        "chi" "rtv"
     }
 
     "*** Special Thanks testing: GFL & MAPEADORES  ***"
@@ -78,7 +78,7 @@
 
     "*** Zombies TP in 5 sec! *** "
     {
-        "chi" "__null__"
+        "chi" "僵尸将在5秒后传送!"
     }
 
     ">>> DEFEND 30s <<<"
@@ -88,7 +88,7 @@
 
     ">>> FALL BACK <<<"
     {
-        "chi" "__null__"
+        "chi" "撤退!"
     }
 
 }

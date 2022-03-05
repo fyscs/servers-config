@@ -24,31 +24,37 @@
     "***A human has picked up fire!***"
     {
         "chi" "**一位人类获得火神器**"
+        "blocked"    "1"
     }
 
     "***A human has picked up health!***"
     {
         "chi" "**一名玩家获得奶神器**"
+        "blocked"    "1"
     }
 
     "***A human has picked up lightning!***"
     {
         "chi" "一名玩家获得电神器"
+        "blocked"    "1"
     }
 
     "***A human has picked up rock!***"
     {
         "chi" "**一位玩家获得土神器**"
+        "blocked"    "1"
     }
 
     "***A human has picked up unlimited ammo!***"
     {
         "chi" "弹药库已出现"
+        "blocked"    "1"
     }
 
     "***A human has picked up unlimited hegrenade!***"
     {
         "chi" "偷雷王已出现"
+        "blocked"    "1"
     }
 
     "***A human will shine the roof!***"
@@ -59,21 +65,18 @@
     "***A zombie has picked up accelerate!***"
     {
         "chi" "一名僵尸获得了加速"
+        "blocked"    "1"
     }
 
     "***A zombie has picked up fireball! ***"
     {
         "chi" "**一位僵尸获得了僵尸火(向前放火伤害人类)**"
-    }
-
-    "***All zombies will be teleported in 9s!***"
-    {
-        "chi" "**所有僵尸9秒后传送**"
+        "blocked"    "1"
     }
 
     "***All zombies will be teleported in 9s!*** "
     {
-        "chi" "__null__"
+        "chi" "**所有僵尸9秒后传送**"
     }
 
     "***All zombies will come in 20s!***"
@@ -136,11 +139,6 @@
         "chi" "守住150秒"
     }
 
-    "***Hold for 30s!***"
-    {
-        "chi" "**坚守30秒**"
-    }
-
     "***Hold for 35s!***"
     {
         "chi" "**坚守35秒**"
@@ -198,7 +196,7 @@
 
     "***Map Made By Color!***"
     {
-        "chi" "**地图作者: Color 地图汉化: 大明**"
+        "chi" "**地图作者: Color 地图汉化: 大明@風雲社**"
     }
 
     "***Next Stage:[Laser]***"
@@ -213,7 +211,7 @@
 
     "***Next Stage:[Stage 1]***"
     {
-        "chi" "__null__"
+        "chi" "**下一关: [第一关]**"
     }
 
     "***Next Stage:[Stage 2]***"
@@ -423,102 +421,57 @@
 
     "***Zombies will come in 20s!***"
     {
-        "chi" "僵尸20秒后来袭"
+        "chi" "**僵尸20秒后来袭**"
     }
 
-    "artTouch servercommand:Command:say  ***25s left!***:0.00:0"
+    "***25s left!***"
     {
-        "chi" "__null__"
+        "chi" "**25s**"
     }
 
-    "artTouch servercommand:Command:say  ***5s left!***: 20.00:0"
+    "***Enter the safe room!The nuke will launch in 10s!***"
     {
-        "chi" "__null__"
+        "chi" "**进入安全屋,10秒后核爆**"
     }
 
-    "artTouch servercommand:Command:say  ***5s left!***: 25.00:0"
+    "***Hold for 25s!***"
     {
-        "chi" "__null__"
+        "chi" "**守住25秒**"
     }
 
-    "artTouch servercommand:Command:say  ***5s left!***: 30.00:0"
+    "***Hold for 30s!***"
     {
-        "chi" "__null__"
+        "chi" "**守住30秒**"
     }
 
-    "artTouch servercommand:Command:say  ***5s left!***:20.00:0"
+    "***All zombies will be teleported in 9s!***"
     {
-        "chi" "__null__"
+        "chi" "**僵尸9秒后传送**"
     }
 
-    "artTouch servercommand:Command:say  ***Enter the safe room!The nuke will launch in 10s!***: 15.00:0"
+    "***Rock monster will use forward-push in 3s!***"
     {
-        "chi" "__null__"
+        "chi" "**boss在3秒后使用吸力(按住S向后移动)**"
     }
 
-    "artTouch servercommand:Command:say  ***Enter the safe room!The nuke will launch in 10s!***: 20.00:0"
+    "***Rock monster uses skyfire!***"
     {
-        "chi" "__null__"
+        "chi" "**boss使用天火**"
     }
 
-    "artTouch servercommand:Command:say  ***Enter the safe room!The nuke will launch in 10s!***: 25.00:0"
+    "***Rock monster will use backward-push in 3s!***"
     {
-        "chi" "__null__"
+        "chi" "**boss在3秒后使用推力(按住W向前移动)"
     }
 
-    "artTouch servercommand:Command:say  ***Hold for 25s!***: 0.00:0"
+    "***Rock monster will use left-push in 3s!***"
     {
-        "chi" "__null__"
+        "chi" "**boss在3秒后使用左推力(按住D向右移动)"
     }
 
-    "artTouch servercommand:Command:say  ***Hold for 30s!***: 0.00:0"
+    "***Rock monster will use right-push in 3s!***"
     {
-        "chi" "__null__"
-    }
-
-    "artTouch servercommand:Command:say  ***Hold for 35s!***: 0.00:0"
-    {
-        "chi" "__null__"
-    }
-
-    "essed servercommand:Command:say ***All zombies will be teleported in 9s!***:1.00:0"
-    {
-        "chi" "__null__"
-    }
-
-    "essed servercommand:Command:say ***All zombies will be teleported in 9s!***:1.00:1"
-    {
-        "chi" "__null__"
-    }
-
-    "se02 servercommand:Command:say ***Rock monster uses skyfire!***:0.00:0 "
-    {
-        "chi" "__null__"
-    }
-
-    "se05 servercommand:Command:say ***Rock monster will use forward-push in 3s!***:0.00:0 "
-    {
-        "chi" "__null__"
-    }
-
-    "se06 servercommand:Command:say ***Rock monster uses skyfire!***:0.00:0 "
-    {
-        "chi" "__null__"
-    }
-
-    "se07 servercommand:Command:say ***Rock monster will use backward-push in 3s!***:0.00:0 "
-    {
-        "chi" "__null__"
-    }
-
-    "se08 servercommand:Command:say ***Rock monster will use left-push in 3s!***:0.00:0 "
-    {
-        "chi" "__null__"
-    }
-
-    "se09 servercommand:Command:say ***Rock monster will use right-push in 3s!***:0.00:0 "
-    {
-        "chi" "__null__"
+        "chi" "**boss在3秒后使用右推力(按住A向左移动)**"
     }
 
 }

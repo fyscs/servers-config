@@ -18,12 +18,12 @@
 
     "*** 20 seconds left ***"
     {
-        "chi" "__null__"
+        "chi" "还剩20秒"
     }
 
     "*** 5 seconds left ***"
     {
-        "chi" "__null__"
+        "chi" "还剩5秒 加油加油!拿出你们的力量!"
     }
 
     "*** Door closing in 10 seconds ***"
@@ -33,17 +33,17 @@
 
     "*** HOLD HERE ***"
     {
-        "chi" "__null__"
+        "chi" "坚守阵地"
     }
 
     "*** LEVEL1 ***"
     {
-        "chi" "__null__"
+        "chi" "第一关"
     }
 
     "*** LEVEL2 ***"
     {
-        "chi" "**第二关!**"
+        "chi" "**第二关**"
     }
 
     "*** MAP by kune ***"
@@ -54,6 +54,7 @@
     "*** TEST ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
 }

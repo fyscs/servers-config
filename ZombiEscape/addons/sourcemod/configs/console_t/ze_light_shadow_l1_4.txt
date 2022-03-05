@@ -44,11 +44,13 @@
     "*** A human learned freeze ***"
     {
         "chi" "一名玩家捡起了光环"
+        "blocked"    "1"
     }
 
     "*** A human learned push ***"
     {
         "chi" "一名玩家捡起了推力"
+        "blocked"    "1"
     }
 
     "*** A long time ago, Shadow drown out Light ***"
@@ -223,7 +225,7 @@
 
     "*** map by lopb ***"
     {
-        "chi" "作者:lopb 汉化:小三&菜鸡@风云社"
+        "chi" "作者:lopb	汉化:小三&菜鸡@风云社"
     }
 
     "*** Maybe one day, shadow will be really defeated ***"
@@ -398,7 +400,7 @@
 
     "*** Zombies are faster than us. We lose ***"
     {
-        "chi" "__null__"
+        "chi" "僵尸比我们快!我们输了"
     }
 
     "*** Zombies are faster than you. You lose ***"

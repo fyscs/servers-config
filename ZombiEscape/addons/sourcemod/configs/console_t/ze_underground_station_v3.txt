@@ -13,42 +13,43 @@
 
     "*** Stage 1 Win ***"
     {
-        "chi" "__null__"
+        "chi" "胜利"
     }
 
     "*** Stage 2 Win ***"
     {
-        "chi" "__null__"
+        "chi" "胜利"
     }
 
     "***Door opens in 5 seconds***"
     {
-        "chi" "__null__"
+        "chi" "门5秒后打开"
     }
 
     "***Lasers ON!  Home run !!***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***map by user1.1***"
     {
-        "chi" "__null__"
+        "chi" "作者:user1.1 汉化:小三@風雲社"
     }
 
     "***Stage 2***"
     {
-        "chi" "__null__"
+        "chi" "第二关"
     }
 
     "***stay near of the door, something will happen!***"
     {
-        "chi" "__null__"
+        "chi" "别离开这扇门"
     }
 
     "***you have beaten the map***"
     {
-        "chi" "__null__"
+        "chi" "恭喜你已经成功征服了这张地图"
     }
 
 }

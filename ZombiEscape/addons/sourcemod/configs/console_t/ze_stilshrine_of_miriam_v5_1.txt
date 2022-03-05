@@ -14,66 +14,79 @@
     "**A player has picked up Blizzard Magick**"
     {
         "chi" "**一名玩家拾取了神器:冰**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Cure Magick**"
     {
         "chi" "**一名玩家拾取了神器:奶**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Darkga Magick **"
     {
         "chi" "**一名玩家拾取了神器:黑洞**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Earth Magick**"
     {
         "chi" "**一名玩家拾取了神器:土**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Flame Magick**"
     {
         "chi" "**一名玩家拾取了神器:火**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Haste Magick**"
     {
         "chi" "**一名玩家拾取了神器:加速**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Health Potion**"
     {
         "chi" "**一名玩家拾取了奶**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Oil Magick**"
     {
         "chi" "**一名玩家拾取了神器:油**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Phoenix down**"
     {
         "chi" "**一名玩家拾取了神器:不死鸟之尾**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Poison Magick**"
     {
         "chi" "**一名玩家拾取了神器:毒**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Restore Magick**"
     {
         "chi" "**一名玩家拾取了神器:治愈药剂  '只能使用一次”**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Thunder Magick**"
     {
         "chi" "**一名玩家拾取了神器:电**"
+        "blocked"    "1"
     }
 
     "**A player has picked up Wind Magick**"
     {
         "chi" "**一名玩家拾取了神器:风**"
+        "blocked"    "1"
     }
 
     "**Bergan in using Berserk Magick! Get out of him!!!"
@@ -203,7 +216,7 @@
 
     "**Find and activate Teleport Lantern!**"
     {
-        "chi" "__null__"
+        "chi" "**找到并激活传送灯**"
     }
 
     "**Get out of her, it's very strong attack**"
@@ -288,17 +301,17 @@
 
     "**Level has been changed on Extreme Mode** "
     {
-        "chi" "__null__"
+        "chi" "**极限模式**"
     }
 
     "**Level has been changed on Hard Mode** "
     {
-        "chi" "__null__"
+        "chi" "**困难模式**"
     }
 
     "**Level has been changed on Savage Mode** "
     {
-        "chi" "__null__"
+        "chi" "**凶残模式**"
     }
 
     "**Level has been changed on Ultima Mode** "
@@ -313,7 +326,7 @@
 
     "**Map by Ma/l/go**"
     {
-        "chi" "**地图制作:Malgo  汉化:DeadRabbit@風雲社**"
+        "chi" "**地图制作:Malgo 汉化:DeadRabbit@風雲社**"
     }
 
     "**Mateus healing yourself, she's recuperate 255 health points!**"
@@ -383,7 +396,7 @@
 
     "**Some of the items can affect him. Use them!**"
     {
-        "chi" "__null__"
+        "chi" "**一些神器能够伤害他.使用他们!**"
     }
 
     "**Some of the items can affect Matues. Use them!**"
@@ -473,7 +486,7 @@
 
     "**The Way will open in 15 seconds**"
     {
-        "chi" "__null__"
+        "chi" "**15秒之后开启道路**"
     }
 
     "**The way will open in 20 seconds**"
@@ -568,7 +581,7 @@
 
     "**Vyraal vanquished, keep running!**"
     {
-        "chi" "__null__"
+        "chi" "Vyraal倒下了,快润"
     }
 
     "**We get the hell back to Mt Bur-Omisace and soon as possible!**"

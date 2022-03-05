@@ -13,27 +13,27 @@
 
     "**Complete the final course to select the level**"
     {
-        "chi" "__null__"
+        "chi" "恭喜你已经成功征服了这张地图"
     }
 
     "**Level 1 - Blue Eyes selected**"
     {
-        "chi" "__null__"
+        "chi" "第一关:蓝"
     }
 
     "**Level 2 - Green Eyes selected**"
     {
-        "chi" "**第二关:选择绿眼**"
+        "chi" "**第二关:绿**"
     }
 
     "**Level 3 - Red Eyes selected**"
     {
-        "chi" "**第三关-选择红眼**"
+        "chi" "**第三关:红**"
     }
 
     "**Level 4 - Three Eyes selected**"
     {
-        "chi" "**第四关:选择三只眼**"
+        "chi" "**第四关:三色奏章**"
     }
 
     "**Pick a platform**"
@@ -43,17 +43,19 @@
 
     "**Special thanks to Jewdice for particles work**"
     {
-        "chi" "__null__"
+        "chi" "非常感谢:Jewdice,Moltard,Airvulpes,Connor(EasterLee)"
     }
 
     "**Special thanks to Moltard and Soft Serve**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**Special thanks to sG/UNLOZE/ZRAGE/GFL/PSE servers for testing**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**Stay on the Cube**"
@@ -69,11 +71,13 @@
     "**Thanks to Airvulpes for the textures**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**Thanks to Connor(EasterLee) server for testing**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**Wait here for the moving platform**"

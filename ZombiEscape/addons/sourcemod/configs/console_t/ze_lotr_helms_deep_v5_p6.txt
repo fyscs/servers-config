@@ -43,7 +43,7 @@
 
     "** MAP BY HANNIBAL [SPA] (Rafuron) **"
     {
-        "chi" "__null__"
+        "chi" "作者:HANNIBAL 汉化:小三@風雲社"
     }
 
     "** Teleporting AFK to the cage in 30s **"
@@ -178,17 +178,18 @@
 
     "ay ** MAP BY HANNIBAL [SPA] (Rafuron) **"
     {
-        "chi" "__null__"
+        "chi" "作者:HANNIBAL 汉化:小三@風雲社"
     }
 
     "ay **Attention!**"
     {
-        "chi" "__null__"
+        "chi" "注意!"
     }
 
     "ay **Charge!**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
 }

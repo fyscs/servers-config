@@ -19,6 +19,7 @@
     "*** Dream Orb has been picked up ***"
     {
         "chi" "**梦想球体已经拾起(直线PUSH)**"
+        "blocked"    "1"
     }
 
     "*** EPILOGUE / RTV SOON ***"
@@ -29,6 +30,7 @@
     "*** Global Silence have been picked up ***"
     {
         "chi" "**环形沉默已经拾起(范围免抓)**"
+        "blocked"    "1"
     }
 
     "*** MAP BY HEYFUMI ***"
@@ -39,11 +41,13 @@
     "*** Pit Of Malice has been picked up ***"
     {
         "chi" "**暗黑深渊已经拾起(制造一个雷霆区域减速僵尸)**"
+        "blocked"    "1"
     }
 
     "*** Pyrexae Artifact has been picked up ***"
     {
         "chi" "**灼霜之墙已经拾起(升起一道竖墙,冻住僵尸)**"
+        "blocked"    "1"
     }
 
     "*** REPORT BUG TO HEYFUMI ***"
