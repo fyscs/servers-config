@@ -18,7 +18,7 @@
 
     "*** Door opens in 20 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "门将在20秒后打开"
     }
 
     "*** Fall back!***"
@@ -73,7 +73,7 @@
 
     "***5***"
     {
-        "chi" "5"
+        "chi" "blocked"    "1"
     }
 
     "***Come inside***"
@@ -133,7 +133,7 @@
 
     "***RUN!***"
     {
-        "chi" "__null__"
+        "chi" "撤!!"
     }
 
     "***Shoot!***"

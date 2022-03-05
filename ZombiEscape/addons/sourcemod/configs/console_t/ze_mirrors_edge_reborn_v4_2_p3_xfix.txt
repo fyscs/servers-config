@@ -13,7 +13,7 @@
 
     "<<< 1 >>>"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     "<<< 10 Seconds Remaining >>>"
@@ -23,17 +23,17 @@
 
     "<<< 2 >>>"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "<<< 3 >>>"
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     "<<< 4 >>>"
     {
-        "chi" "__null__"
+        "chi" "4"
     }
 
     "<<< ADJUST THE MUSIC VOLUME IN AUDIO SETTINGS >>>"
@@ -229,6 +229,7 @@
     "<<< Unlimited ammo has been picked >>>"
     {
         "chi" "**一名玩家捡起了无限弹药**"
+        "blocked"    "1"
     }
 
     "<<< YOU DONT HAVE WALLS OR PROPS TO HELP WITH COVER >>>"
@@ -258,12 +259,12 @@
 
     ">>>1<<<"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     ">>>2<<<"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     ">>>Edited first by [pF]Detonator<<<"
@@ -303,22 +304,22 @@
 
     "1"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     "2 "
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "3 "
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     "4"
     {
-        "chi" "__null__"
+        "chi" "4"
     }
 
 }

@@ -19,11 +19,13 @@
     ">>>>Ammo Dispenser has been picked<<<<"
     {
         "chi" "**无限子弹被拾取**"
+        "blocked"    "1"
     }
 
     ">>>>Electro Gun has been picked<<<<"
     {
         "chi" "**电击枪被拾取**"
+        "blocked"    "1"
     }
 
     ">>>>Electro Gun shoot in 10s<<<<"
@@ -34,16 +36,19 @@
     ">>>>Flamethrower has been picked<<<<"
     {
         "chi" "**喷火器被拾取**"
+        "blocked"    "1"
     }
 
     ">>>>Grenade Launcher has been picked<<<<"
     {
         "chi" "**榴弹发射器被拾取**"
+        "blocked"    "1"
     }
 
     ">>>>Minigun has been picked<<<<"
     {
         "chi" "**加特林被拾取**"
+        "blocked"    "1"
     }
 
     ">>>>Only 15 Proxi Mines<<<<"
@@ -64,11 +69,13 @@
     ">>>>Proxi Mine has been picked<<<<"
     {
         "chi" "**地雷被拾取**"
+        "blocked"    "1"
     }
 
     ">>>>UAV has been picked<<<<"
     {
         "chi" "**无人驾驶飞行器被拾取**"
+        "blocked"    "1"
     }
 
     ">>>CT WIN - ACCESS TO SPECIAL WEAPONS GRANTED<<<"
@@ -78,7 +85,7 @@
 
     ">>>EXTREME MODE ACTIVATED IN DEV ROOM<<<"
     {
-        "chi" "__null__"
+        "chi" "载入极限模式"
     }
 
     ">>>EXTREME MODE ACTIVATED<<<"
@@ -88,12 +95,12 @@
 
     ">>>EXTREME MODE DESACTIVATED IN DEVROOM<<<"
     {
-        "chi" "__null__"
+        "chi" "极限模式已禁用"
     }
 
     ">>>KILLING EVERYONE<<<"
     {
-        "chi" "__null__"
+        "chi" "杀光他们"
     }
 
     ">>>LEVEL 1 : EVACUATION POINT : ELEVATORS<<<"
@@ -113,17 +120,17 @@
 
     ">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 1<<<"
     {
-        "chi" "__null__"
+        "chi" "加载第一关"
     }
 
     ">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 2<<<"
     {
-        "chi" "__null__"
+        "chi" "加载第二关"
     }
 
     ">>>LEVEL CHANGED IN DEVROOM FOR LEVEL 3<<<"
     {
-        "chi" "__null__"
+        "chi" "加载第三关"
     }
 
     ">>>MAP BY LeGrem<<<"
@@ -148,7 +155,7 @@
 
     ">>>RESET ROUND<<<"
     {
-        "chi" "__null__"
+        "chi" "重置回合"
     }
 
     ">>>RESTART AT NORMAL LEVEL 1<<<"
@@ -324,6 +331,7 @@
     "artTouch cmd:Command:say >> RETURN TO COVER THE DOOR <<<:0:1"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
 }

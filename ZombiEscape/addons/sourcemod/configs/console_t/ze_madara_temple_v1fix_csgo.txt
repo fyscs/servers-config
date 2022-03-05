@@ -119,56 +119,67 @@
     ">> PLAYER HAS PICKED UP ELECTRO <<"
     {
         "chi" "**有忍者学会了雷切! **"
+        "blocked"    "1"
     }
 
     ">> PLAYER HAS PICKED UP FIRE <<"
     {
         "chi" "**有忍者学会了火遁-豪火灭矢 **"
+        "blocked"    "1"
     }
 
     ">> PLAYER HAS PICKED UP GRAVITY <<"
     {
         "chi" "** 有忍者继承了万花筒写轮眼并习得神威! **"
+        "blocked"    "1"
     }
 
     ">> PLAYER HAS PICKED UP HEAL <<"
     {
         "chi" "** 有忍者学会了医疗忍术 **"
+        "blocked"    "1"
     }
 
     ">> PLAYER HAS PICKED UP ROCK <<"
     {
         "chi" "**有忍者学会了土遁-土流壁 **"
+        "blocked"    "1"
     }
 
     ">> PLAYER HAS PICKED UP ULTIMA <<"
     {
         "chi" "**有忍者学会了禁术-超 神罗天征! **"
+        "blocked"    "1"
     }
 
     ">> PLAYER HAS PICKED UP WIND <<"
     {
         "chi" "** 有忍者学会了风遁-镰鼬 **"
+        "blocked"    "1"
     }
 
     ">> PLAYER HAS PICKED UP ZOMBIE FIRE <<"
     {
         "chi" "**敌方忍者学会了火遁-豪火灭却 **"
+        "blocked"    "1"
     }
 
     ">> PLAYER HAS PICKED UP ZOMBIE HEAL <<"
     {
         "chi" "**敌方忍者也学会了医疗忍术 **"
+        "blocked"    "1"
     }
 
     ">> PLAYER HAS PICKED UP ZOMBIE LURE <<"
     {
         "chi" "**敌方忍者学会了万象天引! **"
+        "blocked"    "1"
     }
 
     ">> PLAYER HAS PICKED UP ZOMBIE WARP <<"
     {
         "chi" "**敌方忍者学会了别天神 **"
+        "blocked"    "1"
     }
 
     ">> Press the three levers to open the door <<"

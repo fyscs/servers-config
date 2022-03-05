@@ -53,22 +53,22 @@
 
     "*** ADMIN ROOM: CHANGING STAGE TO 1 ***"
     {
-        "chi" "__null__"
+        "chi" "管理室:将关卡更改为 一"
     }
 
     "*** ADMIN ROOM: CHANGING STAGE TO 2 ***"
     {
-        "chi" "__null__"
+        "chi" "管理室:将关卡更改为 二"
     }
 
     "*** ADMIN ROOM: CHANGING STAGE TO 3 ***"
     {
-        "chi" "__null__"
+        "chi" "管理室:将关卡更改为 三"
     }
 
     "*** ADMIN ROOM: CHANGING STAGE TO 4 ***"
     {
-        "chi" "__null__"
+        "chi" "_管理室:将关卡更改为 四"
     }
 
     "*** ALL CRYSTALS ARE BROKEN ***"
@@ -128,7 +128,7 @@
 
     "*** DOOR IS OPENING ***"
     {
-        "chi" "__null__"
+        "chi" "门正在打开"
     }
 
     "*** DOOR OPENS IN 20 SEC ***"
@@ -184,6 +184,7 @@
     "*** FLINT HAS BEEN PICKED UP ***"
     {
         "chi" "**一名玩家捡起了燧石**"
+        "blocked"    "1"
     }
 
     "*** GET IN THE MIDDLE WE HAVE TO FIGHT THE DRAGON ***"
@@ -258,7 +259,7 @@
 
     "*** Map made by Cuniczek ***"
     {
-        "chi" "__null__"
+        "chi" "地图由Cuniczek制作"
     }
 
     "*** MINECARTS LEAVING IN 10 SEC ***"
@@ -344,6 +345,7 @@
     "*** STEEL HAS BEEN PICKED UP ***"
     {
         "chi" "**一名玩家捡起了铁**"
+        "blocked"    "1"
     }
 
     "*** TAKE PICKAXE AND BREAK OBSIDIAN TO BUILD PORTAL ***"
@@ -443,7 +445,7 @@
 
     "say He's watching you..."
     {
-        "chi" "__null__"
+        "chi" "他在看着你"
     }
 
     "Thanks to Enviolinador & Kaesar"

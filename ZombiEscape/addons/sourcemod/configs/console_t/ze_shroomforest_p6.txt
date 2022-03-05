@@ -38,7 +38,7 @@
 
     "*** ELEVATOR LEAVING IN 10 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "电梯10秒后离开"
     }
 
     "*** ELEVATOR LEAVING IN 20 seconds ***"
@@ -48,7 +48,7 @@
 
     "*** ELEVATOR LEAVING IN 5 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "电梯5秒后离开"
     }
 
     "*** FIND A WAY TO CLOSE ELEVATOR ACCESS ***"
@@ -88,7 +88,7 @@
 
     "*** HOLD FOR 30 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "坚守30秒"
     }
 
     "*** HOLD FOR 40 seconds ***"
@@ -223,17 +223,17 @@
 
     "*** YOU HAVE 10 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
     {
-        "chi" "__null__"
+        "chi" "10秒后核爆"
     }
 
     "*** YOU HAVE 15 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
     {
-        "chi" "__null__"
+        "chi" "15秒后核爆"
     }
 
     "*** YOU HAVE 30 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
     {
-        "chi" "__null__"
+        "chi" "30秒后核爆"
     }
 
     "*** YOU HAVE 45 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
@@ -243,7 +243,7 @@
 
     "*** YOU HAVE 5 SECONDS UNTIL MASSIVE NUKE EXPLODES ***"
     {
-        "chi" "__null__"
+        "chi" "5秒后核爆"
     }
 
     "*** YOU HAVE 60 SECONDS TO DO THIS UNTIL MASSIVE NUKE EXPLODES ***"
@@ -258,7 +258,7 @@
 
     ">> 10 seconds left <<"
     {
-        "chi" "__null__"
+        "chi" "还有10秒"
     }
 
     ">> 10 SECONDS LEFT <<"
@@ -268,7 +268,7 @@
 
     ">> 20 seconds left <<"
     {
-        "chi" "__null__"
+        "chi" "还有20秒"
     }
 
     ">> 20 SECONDS LEFT <<"
@@ -283,7 +283,7 @@
 
     ">> 40 seconds left <<"
     {
-        "chi" "__null__"
+        "chi" "还有40秒"
     }
 
     ">> 40 SECONDS LEFT <<"
@@ -298,12 +298,12 @@
 
     ">> 5 seconds left <<"
     {
-        "chi" "__null__"
+        "chi" "还有5秒"
     }
 
     ">> 60 seconds left <<"
     {
-        "chi" "__null__"
+        "chi" "还有60秒"
     }
 
     ">> A WILD PIKACHU IS WAITING FOR US !! <<"
@@ -348,7 +348,7 @@
 
     ">> Congratulation ! <<"
     {
-        "chi" "__null__"
+        "chi" "祝贺!你已经征服了这张地图"
     }
 
     ">> CT GET OFF THE ELEVATOR OR U WILL GET PUNISHED <<"
@@ -398,7 +398,7 @@
 
     ">> DITTO LEAF ARE DESTROYED <<"
     {
-        "chi" "__null__"
+        "chi" "杰哥的叶子消失了"
     }
 
     ">> EXTREME MODE ADDED <<"
@@ -408,7 +408,7 @@
 
     ">> Find a place to hold and survive 1 minute and 30 seconds! <<"
     {
-        "chi" "__null__"
+        "chi" "生存90秒"
     }
 
     ">> Fixed by Moltard <<"
@@ -483,12 +483,12 @@
 
     ">> Map by TaskuVaras <<"
     {
-        "chi" "__null__"
+        "chi" "作者:TaskuVaras 汉化:大明@風雲社"
     }
 
     ">> Map will reset after this current round <<"
     {
-        "chi" "__null__"
+        "chi" "地图将在本轮结束后重置"
     }
 
     ">> MAYBE ITS IN THOSE BOXES IN SIDE ROOMS <<"
@@ -503,7 +503,7 @@
 
     ">> NOBODY SURVIVED!! LEVEL FAILED!! <<"
     {
-        "chi" "__null__"
+        "chi" "无人存活,失败"
     }
 
     ">> NUKE INCOMING IN 5 SECONDS <<"
@@ -513,7 +513,7 @@
 
     ">> ONE PLAYER NEED TO GO AND PRESS THE BUTTON!! <<"
     {
-        "chi" "__null__"
+        "chi" "需要一个玩家去按下按钮"
     }
 
     ">> PIKACHU IS USING THUNDERBOLT KEEP SHOOTING!!!!!!!!!! <<"
@@ -523,7 +523,7 @@
 
     ">> Play ShroomForest2 to continue the adventure <<"
     {
-        "chi" "__null__"
+        "chi" "开始你们新的征程"
     }
 
     ">> PLAYER HAS CHOSEN LEVEL: A NEW BEGINNING <<"
@@ -533,32 +533,32 @@
 
     ">> PLAYER HAS CHOSEN: BIG TREE EXTREME <<"
     {
-        "chi" "__null__"
+        "chi" "一位玩家选择了:极限模式[巨树]"
     }
 
     ">> PLAYER HAS CHOSEN: BIG TREE NORMAL <<"
     {
-        "chi" "__null__"
+        "chi" "一位玩家选择了:普通模式[巨树]"
     }
 
     ">> PLAYER HAS CHOSEN: FLAT GRASS EXTREME <<"
     {
-        "chi" "__null__"
+        "chi" "一位玩家选择了:极限模式[平原]"
     }
 
     ">> PLAYER HAS CHOSEN: FLAT GRASS NORMAL <<"
     {
-        "chi" "__null__"
+        "chi" "一位玩家选择了:普通模式[平原]"
     }
 
     ">> PLAYER HAS CHOSEN: HELL EXTREME <<"
     {
-        "chi" "**一位玩家选择了:地狱极限模式**"
+        "chi" "**一位玩家选择了:极限模式[地狱]**"
     }
 
     ">> PLAYER HAS CHOSEN: HELL NORMAL <<"
     {
-        "chi" "__null__"
+        "chi" "一位玩家选择了:普通模式[地狱]"
     }
 
     ">> PLAYER HAS PICKED UP 6 MINES <<"
@@ -614,11 +614,13 @@
     ">> Quick ZM Mod <<"
     {
         "chi" "__null__"
+        "blocked"    "1"
+
     }
 
     ">> RESTARTING ROUND IN 5 SECONDS <<"
     {
-        "chi" "__null__"
+        "chi" "5 秒后重新开始"
     }
 
     ">> SECRET IS NOW OPEN <<"
@@ -633,7 +635,7 @@
 
     ">> There is an error in the level system <<"
     {
-        "chi" "__null__"
+        "chi" "关卡系统出现错误"
     }
 
     ">> WAIT FOR 10 SECONDS <<"
@@ -668,7 +670,7 @@
 
     ">> You beat the map ! <<"
     {
-        "chi" "__null__"
+        "chi" "你已经征服了这张地图"
     }
 
     ">> You have succesfully saved Shroomforest <<"
@@ -693,7 +695,7 @@
 
     ">> ZOMBIES DETECTED!! LEVEL FAILED!! <<"
     {
-        "chi" "__null__"
+        "chi" "检测到僵尸,失败"
     }
 
     ">> ZOMBIES INSIDE!! LEVEL FAILED!! <<"
@@ -704,6 +706,7 @@
     "se02 Server:Command:say >> BUT ITS NOT VERY EFFECTIVE ! <<:3:1"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
 }

@@ -13,27 +13,28 @@
 
     "*** ADMIN BUTTON STAGE 1 ***"
     {
-        "chi" "__null__"
+        "chi" "载入第一关"
     }
 
     "*** ADMIN BUTTON STAGE 2 ***"
     {
-        "chi" "__null__"
+        "chi" "载入第二关"
     }
 
     "/slay @all"
     {
-        "chi" "__null__"
+        "chi" "处死全体"
     }
 
     "Special Thanks: Airvulpes"
     {
-        "chi" "__null__"
+        "chi" "特别感谢:Airvulpes"
     }
 
     "Test Server: Possession"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
 }

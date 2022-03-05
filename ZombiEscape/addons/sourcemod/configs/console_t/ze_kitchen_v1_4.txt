@@ -13,37 +13,37 @@
 
     "|Admin Room| *** Admin has changed difficulty to STAGE 1 ***"
     {
-        "chi" "__null__"
+        "chi" "|管理室|管理员已将难度更改为阶段 一 ***"
     }
 
     "|Admin Room| *** Admin has changed difficulty to STAGE 2 ***"
     {
-        "chi" "__null__"
+        "chi" "|管理室|管理员已将难度更改为阶段 二"
     }
 
     "|Admin Room| *** Admin has changed difficulty to STAGE 3 ***"
     {
-        "chi" "__null__"
+        "chi" "|管理室|管理员已将难度更改为阶段 三"
     }
 
     "|Admin Room| *** SLAY ALL ***"
     {
-        "chi" "__null__"
+        "chi" "|管理室|西内!"
     }
 
     ">>> 1 <<<"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     ">>> 2 <<<"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     ">>> 3 <<<"
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     ">>> Defend 10 sec <<<"
@@ -123,7 +123,7 @@
 
     ">>> Fly model created by Kaesar <<<"
     {
-        "chi" "__null__"
+        "chi" "由Kaesar创建的苍蝇模型"
     }
 
     ">>> RUN <<<"
@@ -133,7 +133,7 @@
 
     ">>> START SHOOTING <<<"
     {
-        "chi" "__null__"
+        "chi" "开始拍摄"
     }
 
     ">>> Still defend 5 sec <<<"
@@ -173,7 +173,7 @@
 
     "Kill all zombies inside!"
     {
-        "chi" "__null__"
+        "chi" "杀死里面的所有僵尸!"
     }
 
 }

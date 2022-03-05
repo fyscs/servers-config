@@ -13,27 +13,28 @@
 
     " <<<Destroy all ships to advance to next chapter...>>>"
     {
-        "chi" "__null__"
+        "chi" "<<<摧毁所以船进入下一章>>>"
     }
 
     " <<<Incoming ZM TP...>>>"
     {
-        "chi" "__null__"
+        "chi" "<<<僵尸传送>>>"
     }
 
     " <<<Seems like there's no survivors....>>>"
     {
-        "chi" "__null__"
+        "chi" "<<<这里似乎没有幸存者了....>>>"
     }
 
     " <<<We have arrived at Grado Harbor..we should hurry>>>"
     {
-        "chi" "__null__"
+        "chi" "<<<我们已经到达格拉多港,加快进度>>>"
     }
 
     "***A Player has picked up Roy***"
     {
         "chi" "一名玩家捡起了Roy"
+        "blocked"    "1"
     }
 
     "***Activating Teleporter - Please Hold***"
@@ -79,7 +80,7 @@
     "***Custom assets 90% done by me***"
     {
         "chi" "__null__"
-        "blocked" "1"
+        "blocked"    "1"
     }
 
     "***Final Chapter: Formortiis***"
@@ -224,7 +225,7 @@
 
     "<<<Formortiis: Come, and face your death! Im waiting, you miserable fool. Your corpse will make a perfect offering in my resurrection...>>>"
     {
-        "chi" "__null__"
+        "chi" "<<<Formortiis:来吧,面对死亡!我在等你,你这个可怜的小丑.你的尸体将成为我复活的完美祭品...>>>"
     }
 
     "<<<Formortiis: Facing the deceased ones....how interesting...>>>"

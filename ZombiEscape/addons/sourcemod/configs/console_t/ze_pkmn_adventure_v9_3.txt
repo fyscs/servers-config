@@ -14,6 +14,7 @@
     "**!?**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***A wild Electrode is comming***"
@@ -24,21 +25,25 @@
     "***A wild Gastly is comming***"
     {
         "chi" "***僵尸捡起了鬼斯***"
+        "blocked"    "1"
     }
 
     "***Player has picked Buizel! (WATER)***"
     {
         "chi" "**水被拾取**"
+        "blocked"    "1"
     }
 
     "***Player has picked Chansey! (HEAL)***"
     {
         "chi" "**奶被拾取**"
+        "blocked"    "1"
     }
 
     "***Player has picked Gardevoir! (WALL)***"
     {
         "chi" "**墙被拾取**"
+        "blocked"    "1"
     }
 
     "***Recharge: 45 seconds.***"
@@ -393,7 +398,7 @@
 
     "**GO TO VIOLET CITY**"
     {
-        "chi" "__null__"
+        "chi" "进入桔梗市"
     }
 
     "**Groudon is rising up platforms!**"
@@ -903,7 +908,7 @@
 
     "**ZOMBIES TELEPORTED**"
     {
-        "chi" "__null__"
+        "chi" "传送僵尸"
     }
 
     "**ZOMBIES TRAPPED**"
@@ -1068,7 +1073,7 @@
 
     "Cyrus: Crobat, use Cross Venom."
     {
-        "chi" "__null__"
+        "chi" "赤日:叉字蝠,使用毒液"
     }
 
     "Cyrus: Defeating it will make this world dissapear!"
@@ -1428,7 +1433,7 @@
 
     "RIGHT PATH OPEN!"
     {
-        "chi" "__null__"
+        "chi" "正确的道路打开"
     }
 
     "SHOOT GIRATINA!"

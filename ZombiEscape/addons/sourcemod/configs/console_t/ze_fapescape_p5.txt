@@ -59,6 +59,17 @@
     "*** Door is opening ***"
     {
         "chi" "门开了"
+        "blocked"    "1"
+    }
+
+    "* Turning music on *"
+    {
+        "chi" "打开你们的音乐好嘛?"
+    }
+
+    "*** Door Opening in 25 seconds! ***"
+    {
+        "chi" "25秒后开门"
     }
 
     "*** Door is Opening ***"

@@ -104,6 +104,7 @@
     "...................."
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "[Humans] Now we kill them all then we go home!"
@@ -158,7 +159,7 @@
 
     "Burning Dick!"
     {
-        "chi" "__null__"
+        "chi" "燃烧的迪克"
     }
 
     "CONGRATS!!!! YOU HAVE BEATEN THE SECRET ENDING"
@@ -378,7 +379,7 @@
 
     "Second lever is triggered"
     {
-        "chi" "__null__"
+        "chi" "第二个操纵杆已触发"
     }
 
     "second lever is triggered!"
@@ -418,7 +419,7 @@
 
     "Teleporting Zombies in 10 Seconds!"
     {
-        "chi" "__null__"
+        "chi" "将在10秒后传送僵尸"
     }
 
     "Teleporting Zombies In 15 Seconds!"
