@@ -13,22 +13,23 @@
 
     "A safehouse spawned at spawn."
     {
-        "chi" "__null__"
+        "chi" "在出生点时你们是安全的"
+        "blocked"    "1"
     }
 
     "All coins collected."
     {
-        "chi" "__null__"
+        "chi" "收集的所有硬币"
     }
 
     "All paths are dead."
     {
-        "chi" "__null__"
+        "chi" "所以路径已经被封死"
     }
 
     "CT flags can now teleport humans back to spawn."
     {
-        "chi" "__null__"
+        "chi" "蓝色旗帜现在可以将人类传送回生成点"
     }
 
     "Map made by Cuniczek"
@@ -38,57 +39,58 @@
 
     "Meteors are raining from the sky!"
     {
-        "chi" "__null__"
+        "chi" "流星雨来啦"
     }
 
     "No safehouse spawned. Map broken rtv."
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "Platforms are now breakable!"
     {
-        "chi" "__null__"
+        "chi" "脚下的道路现在可以被破坏了"
     }
 
     "Proceed to find a safehouse if you want to survive."
     {
-        "chi" "__null__"
+        "chi" "寻找安全屋"
     }
 
     "Safehouse doors closing in 10 seconds."
     {
-        "chi" "__null__"
+        "chi" "安全屋关闭:10秒"
     }
 
     "Safehouse doors closing in 20 seconds."
     {
-        "chi" "__null__"
+        "chi" "安全屋关闭:20秒"
     }
 
     "Safehouse doors closing in 30 seconds."
     {
-        "chi" "__null__"
+        "chi" "安全屋关闭:30秒"
     }
 
     "Safehouse doors opening in 20 seconds."
     {
-        "chi" "__null__"
+        "chi" "安全屋打开:20秒"
     }
 
     "Some items have spawned on top of safehouses."
     {
-        "chi" "__null__"
+        "chi" "某些神器将会投放至安全屋顶"
     }
 
     "Thanks to Enviolinador & Darnias"
     {
-        "chi" "__null__"
+        "chi" "感谢:Enviolinador,Darnias"
     }
 
     "Zombies have secured a checkpoint."
     {
-        "chi" "__null__"
+        "chi" "僵尸占领了一个旗帜"
     }
 
 }

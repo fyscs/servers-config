@@ -18,7 +18,7 @@
 
     "**!EXPLOSION!**"
     {
-        "chi" "__null__"
+        "chi" "Boom"
     }
 
     "***MAP BY Limon. [Russian]***"
@@ -34,25 +34,24 @@
     "**1 seconds**"
     {
         "chi" "__null__"
-        "blocked" "1"
+        "blocked"    "1"
     }
 
     "**2 seconds**"
     {
         "chi" "__null__"
-        "blocked" "1"
+        "blocked"    "1"
     }
 
     "**3 seconds**"
     {
         "chi" "__null__"
-        "blocked" "1"
+        "blocked"    "1"
     }
 
     "**4 seconds**"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "4"
     }
 
     "**Another gate is closed ahead! This one isn't sturdy...**"
@@ -73,6 +72,7 @@
     "**Gandalf staff has been picked!**"
     {
         "chi" "**甘道夫法杖已被拾起!**"
+        "blocked"    "1"
     }
 
     "**Gate in throne-room opens in 90 seconds!**"
@@ -138,6 +138,7 @@
     "**Saruman staff has been picked!**"
     {
         "chi" "**萨鲁曼法杖已被拾起!**"
+        "blocked"    "1"
     }
 
     "**SHOOT IT DOWN!**"
@@ -163,6 +164,7 @@
     "**The ring has been picked!**"
     {
         "chi" "**魔戒已被拾起!**"
+        "blocked"    "1"
     }
 
     "**The tower is destroyed**"

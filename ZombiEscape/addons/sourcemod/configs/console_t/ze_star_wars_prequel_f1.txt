@@ -14,6 +14,7 @@
     "*** Player has picked up Heal ***"
     {
         "chi" "**有玩家捡起了奶**"
+        "blocked"    "1"
     }
 
     "***10 SEC LEFT***"
@@ -119,7 +120,7 @@
     "***ELEVATOR LEAVING IN 10 SEC***"
     {
         "chi" "__null__"
-        "blocked" "1"
+        "blocked"    "1"
     }
 
     "***ELEVATOR LEAVING IN 30 SEC***"
@@ -235,7 +236,7 @@
     "***OPENING IN 10 SEC***"
     {
         "chi" "__null__"
-        "blocked" "1"
+        "blocked"    "1"
     }
 
     "***OPENING IN 30 SEC***"

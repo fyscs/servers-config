@@ -18,12 +18,12 @@
 
     "***2!***"
     {
-        "chi" "__null__"
+        "chi" "**2**"
     }
 
     "***3!***"
     {
-        "chi" "__null__"
+        "chi" "**3**"
     }
 
     "***30s left to win!***"
@@ -33,67 +33,75 @@
 
     "***30s left!***"
     {
-        "chi" "__null__"
+        "chi" "**30**"
     }
 
     "***4!***"
     {
-        "chi" "__null__"
+        "chi" "**4**"
     }
 
     "***5!***"
     {
-        "chi" "__null__"
+        "chi" "**5**"
     }
 
     "***5s left!***"
     {
-        "chi" "__null__"
+        "chi" "**5**"
     }
 
     "***A traveller has picked Boss Star's ultimate --- Wave!***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***A traveller has picked halo crystal!***"
     {
         "chi" "**一位旅行者选择了光环晶体!**"
+        "blocked"    "1"
     }
 
     "***A traveller has picked lightwall crystal!***"
     {
         "chi" "**一位旅行者选择了光壁晶体!**"
+        "blocked"    "1"
     }
 
     "***A traveller has picked roar crystal!***"
     {
         "chi" "**一位旅行者选择了咆哮晶体!**"
+        "blocked"    "1"
     }
 
     "***A traveller has picked shock ring!***"
     {
         "chi" "**一位旅行者选择了保护圈!**"
+        "blocked"    "1"
     }
 
     "***A traveller has picked snowstorm crystal!***"
     {
         "chi" "**一位旅行者选择了暴风雪晶体!**"
+        "blocked"    "1"
     }
 
     "***A traveller has picked unknown crystal!***"
     {
-        "chi" "__null__"
+        "chi" "**一个旅行者捡到了未知的水晶**"
     }
 
     "***A zombie has picked fear crystal!***"
     {
         "chi" "**一个僵尸选择了恐惧晶体!**"
+        "blocked"    "1"
     }
 
     "***A zombie has picked health crystal!***"
     {
         "chi" "**一位僵尸选择了治愈晶体!**"
+        "blocked"    "1"
     }
 
     "***All zombies will be teleported in 10s!***"
@@ -103,7 +111,7 @@
 
     "***Boss Star will appear in 10s!***"
     {
-        "chi" "__null__"
+        "chi" "**BOSS之星将在10秒后出现**"
     }
 
     "***Boss Star***"
@@ -113,12 +121,12 @@
 
     "***Check travellers' crystals......***"
     {
-        "chi" "__null__"
+        "chi" "**检查旅客的水晶......**"
     }
 
     "***Check zombies' crystals......***"
     {
-        "chi" "__null__"
+        "chi" "**检查僵尸的水晶......**"
     }
 
     "***Congratulations!Travellers succeed!***"
@@ -193,7 +201,7 @@
 
     "***The teleportion crystal will be active in 45s!***"
     {
-        "chi" "__null__"
+        "chi" "**传送水晶45秒后激活**"
     }
 
     "***Wait for 120s or complete last surf to activate the teleportion crystal!***"
@@ -208,7 +216,7 @@
 
     "***Welcome to froyo world!Let's enjoy a fantastic trip!***"
     {
-        "chi" "__null__"
+        "chi" "**欢迎来到酸奶世界,让我们享受这特别的旅行**"
     }
 
     "***Well!Boss Star was defeated!***"
@@ -243,7 +251,7 @@
 
     "***Zombies will come in 12s!"
     {
-        "chi" "__null__"
+        "chi" "**僵尸12秒后开始活动!**"
     }
 
     "***Zombies will come in 15s!***"
@@ -258,27 +266,27 @@
 
     "***Zombies!Feel froyo's force!balabala...***"
     {
-        "chi" "__null__"
+        "chi" "僵尸!感受酸奶世界的力量!balabala..."
     }
 
-    "mer command:Command:say ***Boss Star will destroy all travellers in 5s!***:0:1"
+    "***Boss Star will destroy all travellers in 5s!***"
     {
-        "chi" "__null__"
+        "chi" "**BOSS之星将在5秒后杀死所以旅客**"
     }
 
-    "se01 command:Command:say ***You have 90s to fight Boss Star!***:0:1"
+    "***You have 90s to fight Boss Star!***"
     {
-        "chi" "__null__"
+        "chi" "**你们有90秒时间打败BOSS之星**"
     }
 
-    "se02 command:Command:say ***You have 60s to fight Boss Star!***:0:1"
+    "***You have 60s to fight Boss Star!***"
     {
-        "chi" "__null__"
+        "chi" "**你们有60秒时间打败BOSS之星**"
     }
 
-    "se03 command:Command:say ***You have 30s to fight Boss Star!***:0:1"
+    "***You have 30s to fight Boss Star!***"
     {
-        "chi" "__null__"
+        "chi" "**你们有30秒时间打败BOSS之星**"
     }
 
 }

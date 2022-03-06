@@ -1,199 +1,239 @@
 "Console_T"
 {
-	">>SWEEPER<<"
-	{
-		"chi"		"__null__"
-	}
-	">Picking random game: if not already picked<"
-	{
-		"chi"		"__null__"
-	}
-	">>>>SLIDE<<<<"
-	{
-		"chi"		"__null__"
-	}
-	">>EXPLOSIVE BALLS<<"
-	{
-		"chi"		"__null__"
-	}
-	">>>>EXPLOSIVE BALLS<<<<"
-	{
-		"chi"		"__null__"
-	}
-	">Map by PluM (Moofinz)<"
-	{
-		"chi"		"__null__"
-	}
-	">>Knife damage enable.<<"
-	{
-		"chi"		"__null__"
-	}
-	">>LAVA RUN<<"
-	{
-		"chi"		"__null__"
-	}
-	">>>>JUMP ROPE<<<"
-	{
-		"chi"		"__null__"
-	}
-	">>AWP<<"
-	{
-		"chi"		"__null__"
-	}
-	">>BUYZONE<<"
-	{
-		"chi"		"__null__"
-	}
-	">>>>RACE<<<<"
-	{
-		"chi"		"__null__"
-	}
-	">>RACE<<"
-	{
-		"chi"		"__null__"
-	}
-	">>>>DEAGLE HEADSHOT<<<<"
-	{
-		"chi"		"__null__"
-	}
-	">>GRENADE<<"
-	{
-		"chi"		"__null__"
-	}
-	">>>>LAVA RUN<<<<"
-	{
-		"chi"		"__null__"
-	}
-	">>>>SMOKE BATTLE<<<<"
-	{
-		"chi"		"__null__"
-	}
-	">>PICKING RANDOM<<"
-	{
-		"chi"		"__null__"
-	}
-	">>>>DODGEBALL<<<<"
-	{
-		"chi"		"__null__"
-	}
-	">>DEAGLE HEADSHOT<<"
-	{
-		"chi"		"__null__"
-	}
-	">>>>AWP<<<<"
-	{
-		"chi"		"__null__"
-	}
-	">>SLIDE RACE<<"
-	{
-		"chi"		"__null__"
-	}
-	">5<"
-	{
-		"chi"		"__null__"
-	}
-	">4<"
-	{
-		"chi"		"__null__"
-	}
-	">3<"
-	{
-		"chi"		"__null__"
-	}
-	">2<"
-	{
-		"chi"		"__null__"
-	}
-	">1<"
-	{
-		"chi"		"__null__"
-	}
-	">>>>BUYZONE<<<<"
-	{
-		"chi"		"__null__"
-	}
-	">>>>BACKSTAB<<<<"
-	{
-		"chi"		"__null__"
-	}
-	">>>>BHOP<<<<"
-	{
-		"chi"		"__null__"
-	}
-	">>BACKSTAB<<"
-	{
-		"chi"		"__null__"
-	}
-	">>>>CLIMB<<<<"
-	{
-		"chi"		"__null__"
-	}
-	">>>>SWEEPER<<<<"
-	{
-		"chi"		"__null__"
-	}
-	">>JUMP ROPE<<"
-	{
-		"chi"		"__null__"
-	}
-	">>BHOP<<"
-	{
-		"chi"		"__null__"
-	}
-	">>>>GRENADE<<<<"
-	{
-		"chi"		"__null__"
-	}
-	"Map made by [SG] Paul"
-	{
-		"chi"		"__null__"
-	}
-	"**Remake by FreeDOM**"
-	{
-		"chi"		"__null__"
-	}
-	">>DODGEBALL<<"
-	{
-		"chi"		"__null__"
-	}
-	">>SMOKE BATTLE<<"
-	{
-		"chi"		"__null__"
-	}
-	"[MAP] You have 1 minute to build a base!"
-	{
-		"chi"		"__null__"
-	}
-	">30 Seconds remain<"
-	{
-		"chi"		"__null__"
-	}
-	"***Auto Select in 40 seconds***"
-	{
-		"chi"		"__null__"
-	}
-	"***Map by DTK Development Team***"
-	{
-		"chi"		"__null__"
-	}
-	">>CLIMB<<"
-	{
-		"chi"		"__null__"
-	}
-	"Map Ported by Shawn for GiClan"
-	{
-		"chi"		"__null__"
-	}
-	"[Ported for SteamGamers by [SG] Punky]"
-	{
-		"chi"		"__null__"
-	}
-	"[Map made by Kirby]"
-	{
-		"chi"		"__null__"
-	}
-	"[MAP] Map made by Arcaninesy"
-	{
-		"chi"		"__null__"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    " >1<"
+    {
+        "chi" "__null__"
+    }
+
+    " >10 Seconds remain<"
+    {
+        "chi" "__null__"
+    }
+
+    " >2<"
+    {
+        "chi" "__null__"
+    }
+
+    " >3<"
+    {
+        "chi" "__null__"
+    }
+
+    " >30 Seconds remain<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>>AWP<<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>>BACKSTAB<<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>>BHOP<<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>>BUYZONE<<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>>CLIMB<<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>>DEAGLE HEADSHOT<<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>>DODGEBALL<<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>>EXPLOSIVE BALLS<<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>>GRENADE<<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>>JUMP ROPE<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>>LAVA RUN<<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>>RACE<<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>>SLIDE<<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>>SMOKE BATTLE<<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>>>SWEEPER<<<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>AWP<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>BACKSTAB<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>BHOP<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>BUYZONE<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>CLIMB<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>DEAGLE HEADSHOT<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>DODGEBALL<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>EXPLOSIVE BALLS<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>GRENADE<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>JUMP ROPE<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>Knife damage enable.<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>LAVA RUN<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>PICKING RANDOM<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>RACE<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>SLIDE RACE<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>SMOKE BATTLE<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>SWEEPER<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">1<"
+    {
+        "chi" "__null__"
+    }
+
+    ">10 seconds remain<"
+    {
+        "chi" "__null__"
+    }
+
+    ">2<"
+    {
+        "chi" "__null__"
+    }
+
+    ">3<"
+    {
+        "chi" "__null__"
+    }
+
+    ">4<"
+    {
+        "chi" "__null__"
+    }
+
+    ">5<"
+    {
+        "chi" "__null__"
+    }
+
+    ">Map by PluM (Moofinz)<"
+    {
+        "chi" "__null__"
+    }
+
+    ">Picking random game: if not already picked<"
+    {
+        "chi" "__null__"
+    }
+
 }

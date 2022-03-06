@@ -13,37 +13,37 @@
 
     "***(Admin)Boss Froyo in next round!***"
     {
-        "chi" "__null__"
+        "chi" "管理员选择BOSS酸奶"
     }
 
     "***(Admin)Boss Star II in next round!***"
     {
-        "chi" "__null__"
+        "chi" "管理员选择BOSS之星二号"
     }
 
     "***(Admin)Boss Star in next round!***"
     {
-        "chi" "__null__"
+        "chi" "管理员选择BOSS之星"
     }
 
     "***(Admin)Hard in next round!***"
     {
-        "chi" "__null__"
+        "chi" "管理员选择Hard难度"
     }
 
     "***(Admin)Initial in next round!***"
     {
-        "chi" "__null__"
+        "chi" "管理员设置Initial难度"
     }
 
     "***(Admin)Laser in next round!***"
     {
-        "chi" "__null__"
+        "chi" "管理员设置Laser难度"
     }
 
     "***(Admin)Normal in next round!***"
     {
-        "chi" "__null__"
+        "chi" "管理员设置Normal难度"
     }
 
     "***1!***"
@@ -58,12 +58,12 @@
 
     "***2!***"
     {
-        "chi" "__null__"
+        "chi" "**2**"
     }
 
     "***3!***"
     {
-        "chi" "__null__"
+        "chi" "**3**"
     }
 
     "***30s left to win!***"
@@ -73,72 +73,82 @@
 
     "***30s left!***"
     {
-        "chi" "__null__"
+        "chi" "**30**"
     }
 
     "***4!***"
     {
-        "chi" "__null__"
+        "chi" "**4**"
     }
 
     "***5!***"
     {
-        "chi" "__null__"
+        "chi" "**5**"
     }
 
     "***5s left!***"
     {
-        "chi" "__null__"
+        "chi" "**5**"
     }
 
     "***A traveller has picked Boss Froyo's ultimate --- Blast!***"
     {
         "chi" "**一位旅行者选择了恐惧之星的终极选择-爆炸!**"
+        "blocked"    "1"
     }
 
     "***A traveller has picked Boss Star's ultimate --- Wave!***"
     {
         "chi" "**一位旅行者选择了恐惧之星的终极之波!**"
+        "blocked"    "1"
     }
 
     "***A traveller has picked halo crystal!***"
     {
         "chi" "**一位旅行者选择了光环水晶!**"
+        "blocked"    "1"
     }
 
     "***A traveller has picked lightwall crystal!***"
     {
         "chi" "**一位旅行者选择了光壁水晶!**"
+        "blocked"    "1"
     }
 
     "***A traveller has picked roar crystal!***"
     {
         "chi" "**一位旅行者选择了咆哮水晶体!**"
+        "blocked"    "1"
     }
 
     "***A traveller has picked shock ring!***"
     {
         "chi" "**一位旅行者选择了游泳圈!**"
+        "blocked"    "1"
     }
 
     "***A traveller has picked snowstorm crystal!***"
     {
         "chi" "**一位旅行者选择了暴风雪水晶体!**"
+        "blocked"    "1"
     }
 
     "***A traveller has picked unknown crystal!***"
     {
         "chi" "**一位旅行者捡到了一块不知名的水晶**"
+        "blocked"    "1"
     }
 
     "***A zombie has picked fear crystal!***"
     {
         "chi" "**一个僵尸选择了恐惧水晶!**"
+        "blocked"    "1"
     }
 
     "***A zombie has picked health crystal!***"
     {
         "chi" "**一位僵尸选择了治愈水晶!**"
+        "blocked"    "1"
     }
 
     "***All zombies will be teleported in 10s!***"
@@ -193,12 +203,12 @@
 
     "***Check travellers' crystals......***"
     {
-        "chi" "__null__"
+        "chi" "检查旅客的水晶"
     }
 
     "***Check zombies' crystals......***"
     {
-        "chi" "__null__"
+        "chi" "检查僵尸的水晶"
     }
 
     "***Congratulations!Travellers succeed!***"
@@ -233,7 +243,7 @@
 
     "***Great!The teleportion crystal is active!***"
     {
-        "chi" "__null__"
+        "chi" "好!传送水晶激活了"
     }
 
     "***Hard***"
@@ -501,39 +511,39 @@
         "chi" "**僵尸们!感受酸奶世界的力量吧!哈哈哈...**"
     }
 
-    "mer command:Command:say ***Boss Froyo will destroy all travellers in 5s!***:0:1"
+    "***Boss Froyo will destroy all travellers in 5s!"
     {
-        "chi" "__null__"
+        "chi" "**BOSS酸奶将在5秒后杀死所以旅客**"
     }
 
-    "mer command:Command:say ***Boss Star will destroy all travellers in 5s!***:0:1"
+    "***Boss Star will destroy all travellers in 5s!***"
     {
-        "chi" "__null__"
+        "chi" "**BOSS之星将在5秒后杀死所以旅客**"
     }
 
-    "se01 command:Command:say ***You have 60s to fight Boss Froyo!***:0:1"
+    "***You have 60s to fight Boss Froyo!***"
     {
-        "chi" "__null__"
+        "chi" "**你们有60秒时间打败BOSS酸奶**"
     }
 
-    "se01 command:Command:say ***You have 90s to fight Boss Star!***:0:1"
+    "***You have 90s to fight Boss Star!***"
     {
-        "chi" "__null__"
+        "chi" "**你们有90秒时间打败BOSS之星**"
     }
 
-    "se02 command:Command:say ***You have 30s to fight Boss Froyo!***:0:1"
+    "***You have 30s to fight Boss Froyo!***"
     {
-        "chi" "__null__"
+        "chi" "**你们有60秒时间打败BOSS酸奶**"
     }
 
-    "se02 command:Command:say ***You have 60s to fight Boss Star!***:0:1"
+    "***You have 60s to fight Boss Star!***"
     {
-        "chi" "__null__"
+        "chi" "**你们有60秒时间打败BOSS之星**"
     }
 
-    "se03 command:Command:say ***You have 30s to fight Boss Star!***:0:1"
+    "***You have 30s to fight Boss Star!***"
     {
-        "chi" "__null__"
+        "chi" "**你们有30秒时间打败BOSS之星**"
     }
 
 }

@@ -13,12 +13,12 @@
 
     "***1***"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     "***2***"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "***25s Left Before Teleport***"
@@ -28,7 +28,7 @@
 
     "***3***"
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     "***5s Left Before Teleport***"
@@ -43,12 +43,12 @@
 
     "***5s Left***"
     {
-        "chi" "__null__"
+        "chi" "剩余5秒"
     }
 
     "***5s left*** "
     {
-        "chi" "__null__"
+        "chi" "剩余5秒"
     }
 
     "***60s left to trigger towers***"
@@ -63,12 +63,12 @@
 
     "***AFK Teleport in 5s***"
     {
-        "chi" "__null__"
+        "chi" "挂机玩家5s后传送"
     }
 
     "***Congrats!!!***"
     {
-        "chi" "__null__"
+        "chi" "恭喜!!!"
     }
 
     "***Defend Both Sides***"
@@ -88,12 +88,12 @@
 
     "***Dodge the Lasers***"
     {
-        "chi" "__null__"
+        "chi" "躲避激光"
     }
 
     "***Dodge The Lasers***"
     {
-        "chi" "__null__"
+        "chi" "躲避激光"
     }
 
     "***Dont Trust The White Lasers***"
@@ -103,22 +103,22 @@
 
     "***Door Is Open***"
     {
-        "chi" "__null__"
+        "chi" "打开门"
     }
 
     "***Door Opens In 25s***"
     {
-        "chi" "__null__"
+        "chi" "门在25秒后打开"
     }
 
     "***Door Opens in 5s***"
     {
-        "chi" "__null__"
+        "chi" "门在5秒后打开"
     }
 
     "***Door Opens In 5s***"
     {
-        "chi" "__null__"
+        "chi" "门在5秒后打开"
     }
 
     "***Doors Open In 35s***"
@@ -133,12 +133,12 @@
 
     "***Fall Back***"
     {
-        "chi" "__null__"
+        "chi" "撤!"
     }
 
     "***Fall Back*** "
     {
-        "chi" "__null__"
+        "chi" "撤!"
     }
 
     "***Few Go Down Middle For Trigger***"
@@ -149,6 +149,7 @@
     "***Freeze Item Picked Up***"
     {
         "chi" "**冰被捡起来**"
+        "blocked"    "1"
     }
 
     "***Go Left and Right***"
@@ -158,7 +159,7 @@
 
     "***Hold for 20s***"
     {
-        "chi" "__null__"
+        "chi" "守住20秒"
     }
 
     "***Hold For 20s***"
@@ -168,12 +169,12 @@
 
     "***Hold for 25s***"
     {
-        "chi" "__null__"
+        "chi" "守住25秒"
     }
 
     "***Hold For 35s*** "
     {
-        "chi" "__null__"
+        "chi" "守住35秒"
     }
 
     "***Hold for 5s***"
@@ -188,12 +189,12 @@
 
     "***Map made by W...***"
     {
-        "chi" "**Map made by W**"
+        "chi" "作者:W... 汉化:小三@風雲社**"
     }
 
     "***Map Made by W...***"
     {
-        "chi" "__null__"
+        "chi" "作者:W... 汉化:小三@風雲社"
     }
 
     "***Path opens in 15s***"
@@ -218,7 +219,7 @@
 
     "***Paths Open in 25s***"
     {
-        "chi" "__null__"
+        "chi" "路在25秒后打开"
     }
 
     "***Paths Open in 5s***"
@@ -228,17 +229,17 @@
 
     "***Platform is Rising***"
     {
-        "chi" "__null__"
+        "chi" "平台正在升起"
     }
 
     "***Platform Will Rise in 30s***"
     {
-        "chi" "__null__"
+        "chi" "平台将在30秒后升起"
     }
 
     "***Platform Will Rise in 5s***"
     {
-        "chi" "__null__"
+        "chi" "平台将在5秒后升起"
     }
 
     "***Platform Will Rise in10s***"
@@ -249,6 +250,7 @@
     "***Push Item Picked Up***"
     {
         "chi" "**PUSH被捡起来**"
+        "blocked"    "1"
     }
 
     "***Round Failed: Zombie Reached The Top***"
@@ -273,12 +275,12 @@
 
     "***Survive***"
     {
-        "chi" "__null__"
+        "chi" "生存"
     }
 
     "***Teleport Activated***"
     {
-        "chi" "__null__"
+        "chi" "瞬移已激活"
     }
 
     "***Teleport Activates in 10s***"
@@ -288,17 +290,17 @@
 
     "***Teleport Activates in 25s***"
     {
-        "chi" "__null__"
+        "chi" "瞬移在25秒后激活"
     }
 
     "***Teleport Activates in 30s***"
     {
-        "chi" "__null__"
+        "chi" "传送在30秒后激活"
     }
 
     "***Teleport Activates in 5s***"
     {
-        "chi" "__null__"
+        "chi" "传送在 5 秒后激活"
     }
 
     "***Teleport Active In 25s***"
@@ -318,7 +320,7 @@
 
     "***Teleport In 15s***"
     {
-        "chi" "__null__"
+        "chi" "15秒后传送"
     }
 
     "***Teleport in 5s***"
@@ -349,6 +351,7 @@
     "***Wall Item Picked Up***"
     {
         "chi" "**墙被捡起来**"
+        "blocked"    "1"
     }
 
 }

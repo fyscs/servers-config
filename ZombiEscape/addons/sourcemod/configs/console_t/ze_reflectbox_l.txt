@@ -13,7 +13,7 @@
 
     " Zombies can move on in 30 Secs, hurry up!"
     {
-        "chi" "__null__"
+        "chi" "**30秒后释放僵尸,赶快!**"
     }
 
     "also special thanks to Enviolinador"
@@ -43,12 +43,12 @@
 
     "Map by Eiskrieg"
     {
-        "chi" "**地图制作: Eiskrieg		汉化: 小三@风云社**"
+        "chi" "**地图制作:Eiskrieg 汉化:小三@风云社**"
     }
 
     "Map was made for Mapeadores Zombie Escape"
     {
-        "chi" "__null__"
+        "chi" "**地图是为Mapeadores制作的**"
     }
 
     "Train is leaving in 45 Seconds, keep defending!"
@@ -73,7 +73,7 @@
 
     "Zombies Will be teleported in 30 Seconds!"
     {
-        "chi" "__null__"
+        "chi" "**僵尸将于30秒后传送**"
     }
 
 }

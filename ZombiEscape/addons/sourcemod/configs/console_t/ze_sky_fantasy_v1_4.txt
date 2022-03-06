@@ -14,56 +14,67 @@
     "<< A player has picked up earth magic >>"
     {
         "chi" "一位玩家捡起了土"
+        "blocked"    "1"
     }
 
     "<< A player has picked up fantasy crystal >>"
     {
         "chi" "一位玩家捡起了幻想水晶"
+        "blocked"    "1"
     }
 
     "<< A player has picked up fire magic >>"
     {
         "chi" "一位玩家捡起了火"
+        "blocked"    "1"
     }
 
     "<< A player has picked up heal magic >>"
     {
         "chi" "一位玩家捡起了治疗"
+        "blocked"    "1"
     }
 
     "<< A player has picked up holy magic >>"
     {
         "chi" "一位玩家捡起了终极"
+        "blocked"    "1"
     }
 
     "<< A player has picked up water magic >>"
     {
         "chi" "一位玩家捡起了风"
+        "blocked"    "1"
     }
 
     "<< A player has picked up wind magic >>"
     {
         "chi" "一位玩家捡起了风"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up Doom Desire >>"
     {
         "chi" "一位僵尸捡起了幻境水晶"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up gravity magic >>"
     {
         "chi" "一位僵尸捡起了黑洞"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up heal magic >>"
     {
         "chi" "一位僵尸捡起了治疗"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up killer magic >>"
     {
         "chi" "一位僵尸捡起了秒杀"
+        "blocked"    "1"
     }
 
     "<< Aurora Veil >>"
@@ -153,7 +164,7 @@
 
     "<< TIPS: Shooting 8 buttons >>"
     {
-        "chi" "__null__"
+        "chi" "提示:射击8个按钮"
     }
 
     "<< Tornado Blade >>"
@@ -168,7 +179,7 @@
 
     "<< zombie can move in 8 seconds >>"
     {
-        "chi" "__null__"
+        "chi" "8秒后僵尸释放"
     }
 
 }

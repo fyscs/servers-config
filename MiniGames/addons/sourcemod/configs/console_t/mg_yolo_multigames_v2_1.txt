@@ -1,80 +1,19 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "@Map begins in 3 seconds..."
-    {
-        "chi" "3"
-    }
 
-    "@Map begins in 2 seconds..."
+    "@[MAP] 1HP FOOTBALL"
     {
-        "blocked" "1"
-        "chi" "地图将在2秒钟后开始"
-    }
-
-    "@Map begins in 1 second..."
-    {
-        "blocked" "1"
-        "chi" "地图将在1秒钟后开始"
-    }
-
-    "@[MAP] AWP"
-    {
-        "chi" "AWP"
-    }
-
-    "@[MAP] HEADSHOT"
-    {
-        "chi" "爆头"
-    }
-
-    "@[MAP] WALLHACKS"
-    {
-        "chi" "透视"
-    }
-
-    "@[MAP] CREEPER"
-    {
-        "chi" "苦力怕"
-    }
-
-    "@[MAP] KNIFE"
-    {
-        "chi" "刀战"
-    }
-
-    "@[MAP] GRENADE HOLES"
-    {
-        "chi" "NadeKing"
-    }
-
-    "@[MAP] BLOCKS"
-    {
-        "chi" "杀人方块"
-    }
-
-    "@[MAP] PISTOLS"
-    {
-        "chi" "手枪"
-    }
-
-    "@[MAP] WTF? SCOUTS"
-    {
-        "chi" "什么鬼? 鸟狙"
-    }
-
-    "@[MAP] VOLLEYBALL"
-    {
-        "chi" "排球"
-    }
-
-    "@[MAP] ELEVATOR"
-    {
-        "chi" "电梯"
+        "chi" "1HP足球"
     }
 
     "@[MAP] AIM"
@@ -82,14 +21,144 @@
         "chi" "混战塔"
     }
 
+    "@[MAP] AWP"
+    {
+        "chi" "AWP"
+    }
+
+    "@[MAP] BLOCKS"
+    {
+        "chi" "杀人方块"
+    }
+
+    "@[MAP] Blocks breaking in 10 seconds"
+    {
+        "chi" "方块在10秒后碎裂"
+        "blocked" "1"
+    }
+
+    "@[MAP] Blocks breaking in 30 seconds"
+    {
+        "chi" "方块在30秒后碎裂"
+    }
+
+    "@[MAP] Blocks breaking in 5 seconds"
+    {
+        "chi" "方块在5秒后碎裂"
+        "blocked" "1"
+    }
+
+    "@[MAP] Bullet damage enabled"
+    {
+        "chi" "子弹伤害已开启"
+    }
+
+    "@[MAP] CREEPER"
+    {
+        "chi" "苦力怕"
+    }
+
+    "@[MAP] ELEVATOR"
+    {
+        "chi" "电梯"
+    }
+
+    "@[MAP] Enabling bullet damage in 10 seconds"
+    {
+        "chi" "子弹伤害在10秒后开启"
+        "blocked" "1"
+    }
+
+    "@[MAP] Enabling bullet damage in 30 seconds"
+    {
+        "chi" "子弹伤害在30秒后开启"
+    }
+
+    "@[MAP] Enabling bullet damage in 5 seconds"
+    {
+        "chi" "子弹伤害在5秒后开启"
+        "blocked" "1"
+    }
+
+    "@[MAP] FOOTBALL"
+    {
+        "chi" "足球"
+    }
+
+    "@[MAP] GOOOOOOAAAAAALLLLL"
+    {
+        "chi" "球进进进进进进了了了了了了"
+    }
+
+    "@[MAP] GRENADE HOLES"
+    {
+        "chi" "NadeKing"
+    }
+
+    "@[MAP] HEADSHOT"
+    {
+        "chi" "爆头"
+    }
+
+    "@[MAP] Kill The Opposition With YOUR TEAMS COLOURED BLOCKS"
+    {
+        "chi" "用你的队伍颜色的方块来消灭敌人"
+    }
+
+    "@[MAP] KNIFE"
+    {
+        "chi" "刀战"
+    }
+
+    "@[MAP] Knife damage allowed in 10 seconds"
+    {
+        "chi" "10秒后开启刀伤"
+    }
+
+    "@[MAP] Knife damage allowed in 30 seconds"
+    {
+        "chi" "30秒后开启刀伤"
+    }
+
+    "@[MAP] Knife damage enabled!"
+    {
+        "chi" "刀伤已开启!"
+    }
+
+    "@[MAP] PISTOLS"
+    {
+        "chi" "手枪"
+    }
+
+    "@[MAP] The Blocks Will Fly Towards You When You Shoot"
+    {
+        "chi" "方块可以被你的子弹击飞"
+    }
+
     "@[MAP] This Level By SOLIDSNAKE"
     {
         "chi" "这个关卡的作者为: SOLIDSNAKE"
     }
 
-    "@[MUSIC] Smash Mouth - All Star"
+    "@[MAP] VOLLEYBALL"
     {
-        "chi" "BGM: Smash Mouth - All Star"
+        "chi" "排球"
+    }
+
+    "@[MAP] WALLHACKS"
+    {
+        "chi" "透视"
+    }
+
+    "@[MAP] WTF? SCOUTS"
+    {
+        "chi" "什么鬼? 鸟狙"
+    }
+
+    "@[MAP] You can now cross over to enemylines"
+    {
+        "chi" "__null__"
+        "blocked" "1"
     }
 
     "@[MUSIC] Daft Punk - Get Lucky"
@@ -97,14 +166,14 @@
         "chi" "BGM: Daft Punk - Get Lucky"
     }
 
-    "@[MUSIC] OPM - Heaven Is A Halfpipe"
+    "@[MUSIC] Disclosure - White Noise"
     {
-        "chi" "BGM: OPM - Heaven Is A Halfpipe"
+        "chi" "BGM: Disclosure - White Noise"
     }
 
-    "@[MUSIC] Watsky - IDGAF"
+    "@[MUSIC] Kygo - Firestone ft. Conrad"
     {
-        "chi" "BGM: Watsky - IDGAF"
+        "chi" "BGM: Kygo - Firestone ft. Conrad"
     }
 
     "@[MUSIC] Lenny Kravitz - Fly Away"
@@ -122,14 +191,14 @@
         "chi" "BGM: Macklemore - Cant Hold Us"
     }
 
-    "@[MUSIC] Disclosure - White Noise"
-    {
-        "chi" "BGM: Disclosure - White Noise"
-    }
-
     "@[MUSIC] Major Lazer & DJ Snake - Lean On"
     {
         "chi" "BGM: Major Lazer & DJ Snake - Lean On"
+    }
+
+    "@[MUSIC] OPM - Heaven Is A Halfpipe"
+    {
+        "chi" "BGM: OPM - Heaven Is A Halfpipe"
     }
 
     "@[MUSIC] Philip George - Wish You Were Mine"
@@ -137,109 +206,36 @@
         "chi" "BGM: Philip George - Wish You Were Mine"
     }
 
-    "@[MUSIC] Kygo - Firestone ft. Conrad"
+    "@[MUSIC] Smash Mouth - All Star"
     {
-        "chi" "BGM: Kygo - Firestone ft. Conrad"
+        "chi" "BGM: Smash Mouth - All Star"
     }
 
-    "Winners get in position!"
+    "@[MUSIC] Watsky - IDGAF"
     {
-        "chi" "赢家们各就各位!"
+        "chi" "BGM: Watsky - IDGAF"
     }
 
-    "Losers prepare to take balls to the face"
+    "@Map begins in 1 second..."
     {
-        "chi" "失败者准备用脸接球吧"
-    }
-
-    "@[MAP] GOOOOOOAAAAAALLLLL"
-    {
-        "chi" "球进进进进进进了了了了了了"
-    }
-
-    "@[MAP] 1HP FOOTBALL"
-    {
-        "chi" "1HP足球"
-    }
-
-    "@[MAP] Knife damage allowed in 30 seconds"
-    {
-        "chi" "30秒后开启刀伤"
-    }
-
-    "@[MAP] Knife damage allowed in 10 seconds"
-    {
-        "chi" "10秒后开启刀伤"
-    }
-
-    "@[MAP] Knife damage enabled!"
-    {
-        "chi" "刀伤已开启!"
-    }
-
-    "@[MAP] FOOTBALL"
-    {
-        "chi" "足球"
-    }
-
-    "@[MAP] You can now cross over to enemylines"
-    {
+        "chi" "地图将在1秒钟后开始"
         "blocked" "1"
-        "chi" "__null__"
     }
 
-    "@[MAP] Blocks breaking in 30 seconds"
+    "@Map begins in 2 seconds..."
     {
-        "chi" "方块在30秒后碎裂"
-    }
-
-    "@[MAP] Blocks breaking in 10 seconds"
-    {
+        "chi" "地图将在2秒钟后开始"
         "blocked" "1"
-        "chi" "方块在10秒后碎裂"
     }
 
-    "@[MAP] Blocks breaking in 5 seconds"
+    "@Map begins in 3 seconds..."
     {
-        "blocked" "1"
-        "chi" "方块在5秒后碎裂"
+        "chi" "3"
     }
 
-    "@[MAP] Enabling bullet damage in 30 seconds"
+    "[COUNTER-TERRORISTS NOW HAVE 2 BALLS]"
     {
-        "chi" "子弹伤害在30秒后开启"
-    }
-
-    "@[MAP] Enabling bullet damage in 10 seconds"
-    {
-        "blocked" "1"
-        "chi" "子弹伤害在10秒后开启"
-    }
-
-    "@[MAP] Enabling bullet damage in 5 seconds"
-    {
-        "blocked" "1"
-        "chi" "子弹伤害在5秒后开启"
-    }
-
-    "@[MAP] Bullet damage enabled"
-    {
-        "chi" "子弹伤害已开启"
-    }
-
-    "@[MAP] Kill The Opposition With YOUR TEAMS COLOURED BLOCKS"
-    {
-        "chi" "用你的队伍颜色的方块来消灭敌人"
-    }
-
-    "@[MAP] The Blocks Will Fly Towards You When You Shoot"
-    {
-        "chi" "方块可以被你的子弹击飞"
-    }
-
-    "[TERRORISTS WIN]"
-    {
-        "chi" "[T阵营胜利]"
+        "chi" "[CT阵营现在拥有两个球]"
     }
 
     "[COUNTER-TERRORISTS WIN]"
@@ -252,9 +248,19 @@
         "chi" "[T阵营现在拥有两个球]"
     }
 
-    "[COUNTER-TERRORISTS NOW HAVE 2 BALLS]"
+    "[TERRORISTS WIN]"
     {
-        "chi" "[CT阵营现在拥有两个球]"
+        "chi" "[T阵营胜利]"
+    }
+
+    "Losers prepare to take balls to the face"
+    {
+        "chi" "失败者准备用脸接球吧"
+    }
+
+    "Winners get in position!"
+    {
+        "chi" "赢家们各就各位!"
     }
 
 }

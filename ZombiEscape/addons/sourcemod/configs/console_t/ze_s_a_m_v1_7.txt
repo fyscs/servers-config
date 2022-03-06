@@ -24,51 +24,61 @@
     "**Player has picked up <Earth Magic>**"
     {
         "chi" "**一名玩家学会了<要岩>**"
+        "blocked"    "1"
     }
 
     "**Player has picked up <Gravity Magic>**"
     {
         "chi" "**一名玩家学会了<黑洞>**"
+        "blocked"    "1"
     }
 
     "**Player has picked up <Heal Magic>**"
     {
         "chi" "**一名玩家学会了<治愈>**"
+        "blocked"    "1"
     }
 
     "**Player has picked up <Lightning Magic>**"
     {
         "chi" "**一名玩家学会了<电环>**"
+        "blocked"    "1"
     }
 
     "**Player has picked up <Teleport Crystal>**"
     {
         "chi" "**一名玩家拾起了<传送水晶>**"
+        "blocked"    "1"
     }
 
     "**Player has picked up <Tornado Magic>**"
     {
         "chi" "**一名玩家学会了<飓风>**"
+        "blocked"    "1"
     }
 
     "**Player has picked up <Trace>**"
     {
         "chi" "**一名玩家学会了<克隆>**"
+        "blocked"    "1"
     }
 
     "**Player has picked up <Ultima Magic>**"
     {
         "chi" "**一名玩家学会了<终焉之奏>**"
+        "blocked"    "1"
     }
 
     "**Player has picked up <Water Magic>**"
     {
         "chi" "**一名玩家学会了<浮游>**"
+        "blocked"    "1"
     }
 
     "**Player has picked up <Zero Magic>**"
     {
         "chi" "**一名玩家获得了<零>**"
+        "blocked"    "1"
     }
 
     "**Stage 1 has been chosen**"
@@ -129,21 +139,25 @@
     "**Zombie has picked up <Gravity>**"
     {
         "chi" "**一名黄泉引路人学会了<黑洞>**"
+        "blocked"    "1"
     }
 
     "**Zombie has picked up <Ice>**"
     {
         "chi" "**僵尸学会了<冰墙>**"
+        "blocked"    "1"
     }
 
     "**Zombie has picked up <Shield>**"
     {
         "chi" "**僵尸学会了<护盾>**"
+        "blocked"    "1"
     }
 
     "**Zombie has picked up <Stealth>**"
     {
         "chi" "**僵尸学会了<密隐>**"
+        "blocked"    "1"
     }
 
     "<<ANGER SHIELD>>"

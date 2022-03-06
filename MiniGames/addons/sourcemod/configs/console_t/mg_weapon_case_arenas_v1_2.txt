@@ -1,67 +1,67 @@
 "Console_T"
 {
-	"@[MAP] This map does not work with bots..."
-	{
-		"blocked"		"1"
-		"chi"		"__null__"
-	}
-	"@[MAP] Map by [SG] Paul"
-	{
-		"chi"		"地图作者: [SG] Paul"
-	}
-	"@[MAP] Steam name = sgpaul"
-	{
-		"blocked"		"1"
-		"chi"		"作者Steam名: sgpaul"
-	}
-	"@[MAP] twitch.tv/summit1g"
-	{
-		"blocked"		"1"
-		"chi"		"__null__"
-	}
-	"@[MAP] twitch.tv/onscreenlol"
-	{
-		"blocked"		"1"
-		"chi"		"__null__"
-	}
-	"@[MAP] VAC Island ft. easy skins"
-	{
-		"blocked"		"1"
-		"chi"		"__null__"
-	}
-	"@[MAP] twitch.tv/b0aty"
-	{
-		"blocked"		"1"
-		"chi"		"__null__"
-	}
-	"@[MAP] twitch.tv/lirik"
-	{
-		"blocked"		"1"
-		"chi"		"__null__"
-	}
-	"@[MAP] twitch.tv/joshog"
-	{
-		"blocked"		"1"
-		"chi"		"__null__"
-	}
-	"@[MAP] twitch.tvjoshog"
-	{
-		"chi"		"__null__"
-	}
-	"@[MAP] twitch.tvsummit1g"
-	{
-		"chi"		"__null__"
-	}
-	"@[MAP] twitch.tvlirik"
-	{
-		"chi"		"__null__"
-	}
-	"@[MAP] twitch.tvonscreenlol"
-	{
-		"chi"		"__null__"
-	}
-	"@[MAP] twitch.tvb0aty"
-	{
-		"chi"		"__null__"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "@[MAP] Map by [SG] Paul"
+    {
+        "chi" "地图作者: [SG] Paul"
+    }
+
+    "@[MAP] Steam name = sgpaul"
+    {
+        "chi" "作者Steam名: sgpaul"
+        "blocked" "1"
+    }
+
+    "@[MAP] This map does not work with bots..."
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "@[MAP] twitch.tv/b0aty"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "@[MAP] twitch.tv/joshog"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "@[MAP] twitch.tv/lirik"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "@[MAP] twitch.tv/onscreenlol"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "@[MAP] twitch.tv/summit1g"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "@[MAP] VAC Island ft. easy skins"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
 }

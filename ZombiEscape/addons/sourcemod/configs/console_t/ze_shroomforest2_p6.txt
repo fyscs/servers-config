@@ -13,12 +13,12 @@
 
     " >> EXTREME MODE ADDED <<"
     {
-        "chi" "__null__"
+        "chi" "极限模式加载"
     }
 
     " >> LEVEL: ZM <<"
     {
-        "chi" "__null__"
+        "chi" "场景: 生存"
     }
 
     "*** .... WHAT IS HAPPENING ?? ***"
@@ -58,7 +58,7 @@
 
     "*** DOORS OPENING IN 30 SECONDS ***"
     {
-        "chi" "__null__"
+        "chi" "蒙娜丽傻门30秒后打开"
     }
 
     "*** ELEVATOR LEAVING IN 10 SECONDS ***"
@@ -283,7 +283,7 @@
 
     ">> FALL BACK !!! << "
     {
-        "chi" "__null__"
+        "chi" "快溜"
     }
 
     ">> FALL BACK <<"
@@ -438,7 +438,7 @@
 
     ">> PLAYER HAS CHOSEN: TV NORMAL <<"
     {
-        "chi" "__null__"
+        "chi" "一位玩家选择了: 电视机"
     }
 
     ">> PLAYER HAS CHOSEN: ZM<<"
@@ -588,7 +588,7 @@
 
     ">> There is an error in the level system <<"
     {
-        "chi" "__null__"
+        "chi" "关卡系统出现错误"
     }
 
     ">> THEY WILL TELEPORT US OUT <<"
@@ -639,6 +639,7 @@
     "er3 Server:Command:say >> SECRET MUSIC UNLOCKED <<:1:1"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
 }

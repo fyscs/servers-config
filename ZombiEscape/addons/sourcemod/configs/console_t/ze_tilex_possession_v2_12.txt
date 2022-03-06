@@ -43,7 +43,7 @@
 
     "Admin pressed Easy button"
     {
-        "chi" "__null__"
+        "chi" "管理员选择了简单难度"
     }
 
     "Admin pressed Ex button"
@@ -53,17 +53,17 @@
 
     "Admin pressed Ex disable button"
     {
-        "chi" "__null__"
+        "chi" "管理员禁用极限难度"
     }
 
     "Admin pressed Extreme button"
     {
-        "chi" "__null__"
+        "chi" "管理员选择了极限难度"
     }
 
     "Admin pressed Hard button"
     {
-        "chi" "__null__"
+        "chi" "管理员选择了极困难难度"
     }
 
     "Admin pressed Insane button"
@@ -73,7 +73,7 @@
 
     "Admin pressed Normal button"
     {
-        "chi" "__null__"
+        "chi" "理员选择了普通难度"
     }
 
     "Admin pressed rtv button"

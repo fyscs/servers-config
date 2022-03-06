@@ -13,37 +13,37 @@
 
     "++ 1 ++"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     "++ 1st December 2016 ++"
     {
-        "chi" "__null__"
+        "chi" "2016年12月1日"
     }
 
     "++ 2 ++"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "++ 3 ++"
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     "++ 4 ++"
     {
-        "chi" "__null__"
+        "chi" "4"
     }
 
     "++ 5 ++"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "++ ACTIVATE THE EYE ++"
     {
-        "chi" "__null__"
+        "chi" "**活动下眼睑**"
     }
 
     "++ BOATS ARE LEAVING IN 10 SECONDS ++"
@@ -78,27 +78,27 @@
 
     "++ DIFFICULTY WILL BE CHANGED TO EASY ++"
     {
-        "chi" "__null__"
+        "chi" "**简单**"
     }
 
     "++ DIFFICULTY WILL BE CHANGED TO HARD ++"
     {
-        "chi" "__null__"
+        "chi" "**困难**"
     }
 
     "++ DIFFICULTY WILL BE CHANGED TO IMPOSSIBLE ++"
     {
-        "chi" "__null__"
+        "chi" "**不可能**"
     }
 
     "++ DIFFICULTY WILL BE CHANGED TO INSANE ++"
     {
-        "chi" "__null__"
+        "chi" "**疯狂**"
     }
 
     "++ DIFFICULTY WILL BE CHANGED TO MEDIUM ++"
     {
-        "chi" "__null__"
+        "chi" "**中等**"
     }
 
     "++ EASY ++"
@@ -208,7 +208,7 @@
 
     "++ LEVEL UP DENIED ++"
     {
-        "chi" "__null__"
+        "chi" "**拒绝升级**"
     }
 
     "++ MEDIUM ++"
@@ -228,37 +228,37 @@
 
     "++ PART 1 ++"
     {
-        "chi" "__null__"
+        "chi" "**第一部分**"
     }
 
     "++ PART 2 ++"
     {
-        "chi" "__null__"
+        "chi" "**第二部分**"
     }
 
     "++ PART 3 ++"
     {
-        "chi" "__null__"
+        "chi" "**第三部分**"
     }
 
     "++ PART 4 ++"
     {
-        "chi" "__null__"
+        "chi" "**第四部分**"
     }
 
     "++ SECRET BOAT is leaving in 12 seconds ++"
     {
-        "chi" "__null__"
+        "chi" "**秘密船只12秒离开**"
     }
 
     "++ SECRET BOAT is leaving in 15 seconds ++"
     {
-        "chi" "__null__"
+        "chi" "**秘密船只15秒离开**"
     }
 
     "++ SECRET BOAT is leaving in 30 seconds ++"
     {
-        "chi" "__null__"
+        "chi" "**秘密船只30秒离开**"
     }
 
     "++ SECRET BOAT is leaving in 5 seconds ++"
@@ -278,7 +278,7 @@
 
     "++ SECRET BOAT WILL VANISH IN 10 SECONDS ++"
     {
-        "chi" "__null__"
+        "chi" "**秘密船10秒后消失**"
     }
 
     "++ SPAWN TELEPORT ENABLED ++"
@@ -288,12 +288,12 @@
 
     "++ THE EYE HAS DISAPPEARED ++"
     {
-        "chi" "__null__"
+        "chi" "**眼睑不见了**"
     }
 
     "++ YOU ADVANCED TO THE NEXT LEVEL ++"
     {
-        "chi" "__null__"
+        "chi" "**加载下一难度**"
     }
 
     "++ YOU MASTERED THE HIGHEST LEVEL ++"
@@ -303,7 +303,7 @@
 
     "++ ZOMBIES REACHED THE ISLAND ++"
     {
-        "chi" "__null__"
+        "chi" "**僵尸上岛了**"
     }
 
     "MAP MADE BY MR.MUESLI AND GARGANTUA"
@@ -313,7 +313,7 @@
 
     "say ++ BOATS ARE LEAVING IN 30 SECONDS ++"
     {
-        "chi" "__null__"
+        "chi" "**船将在30秒后离开**"
     }
 
 }

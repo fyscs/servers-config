@@ -53,12 +53,12 @@
 
     "*** Defend for 30 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "守住30秒"
     }
 
     "*** Defend for 5 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "守住5秒"
     }
 
     "*** Defend until the path is clear ***"
@@ -78,7 +78,7 @@
 
     "*** Door opening in 20 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "门20秒后开"
     }
 
     "*** Door opening in 25 seconds ***"
@@ -88,12 +88,12 @@
 
     "*** Door opening in 30 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "门30秒后开"
     }
 
     "*** Door opening in 5 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "门15秒后开"
     }
 
     "*** Doors are open! RUN!! ***"
@@ -133,7 +133,7 @@
 
     "*** ELEVATOR LEAVING IN 5 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "电梯5秒后离开"
     }
 
     "*** ESCAPE WHILE HE IS ASLEEP ***"
@@ -143,7 +143,7 @@
 
     "*** Gate opening in 25 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "大门25秒后打开"
     }
 
     "*** Gate opening in 5 seconds ***"
@@ -558,7 +558,7 @@
 
     ">> NOBODY ESCAPED!! LEVEL FAILED!! <<"
     {
-        "chi" "__null__"
+        "chi" "无人存活,失败"
     }
 
     ">> NUKE ALL IN 30 SECONDS <<"
@@ -628,7 +628,7 @@
 
     ">> PLAYER HAS CHOSEN: CAVES EXTREME <<"
     {
-        "chi" "__null__"
+        "chi" "一位玩家选择了: 洞の穴极限难度"
     }
 
     ">> PLAYER HAS CHOSEN: CAVES NORMAL <<"
@@ -643,7 +643,7 @@
 
     ">> PLAYER HAS CHOSEN: DEAD TREE EXTREME <<"
     {
-        "chi" "__null__"
+        "chi" "一位玩家选择了:死の树极限难度"
     }
 
     ">> PLAYER HAS CHOSEN: POKEBALL EXTREME <<"
@@ -653,7 +653,7 @@
 
     ">> PLAYER HAS CHOSEN: POKEBALL NORMAL <<"
     {
-        "chi" "__null__"
+        "chi" "一位玩家选择了: 宝可梦の世界"
     }
 
     ">> PLAYER HAS CHOSEN: TIME LOOP <<"
@@ -763,7 +763,7 @@
 
     ">> SATAN ABSORB NADES TO HEAL HIMSELF <<"
     {
-        "chi" "__null__"
+        "chi" "撒旦吸取僵尸得灵魂治疗自己"
     }
 
     ">> SATAN IS ESCAPING !! <<"
@@ -888,7 +888,7 @@
 
     ">> There is an error in the level system <<"
     {
-        "chi" "__null__"
+        "chi" "关卡系统出现错误"
     }
 
     ">> THIS IS THE BRINK OF TIME <<"
@@ -973,7 +973,7 @@
 
     ">> ZOMBIES IN THE SAFE AREA <<"
     {
-        "chi" "__null__"
+        "chi" "僵尸被关进尸笼啦"
     }
 
     ">> ZOMBIES INSIDE THE ELEVATOR <<"
@@ -983,52 +983,52 @@
 
     "er1 Server:Command:say ** Satan can summon Fire Minions **:0:1"
     {
-        "chi" "__null__"
+        "chi" "撒旦可以召唤火焰"
     }
 
     "er1 Server:Command:say ** Satan can summon Tornado Minions **:0:1"
     {
-        "chi" "__null__"
+        "chi" "撒旦可以召唤龙卷风"
     }
 
     "er1 Server:Command:say ** Satan can summon Water Minions **:0:1"
     {
-        "chi" "__null__"
+        "chi" "撒旦可以召唤水"
     }
 
     "er1 Server:Command:say ** Satan control the Electricity **:0:1"
     {
-        "chi" "__null__"
+        "chi" "撒旦可以控制电力"
     }
 
     "er1 Server:Command:say ** Satan control the Explosions **:0:1"
     {
-        "chi" "__null__"
+        "chi" "撒旦可以产生大爆炸"
     }
 
     "er1 Server:Command:say ** Satan control the Ice **:0:1"
     {
-        "chi" "__null__"
+        "chi" "撒旦可以控制冰"
     }
 
     "er1 Server:Command:say ** Satan is immune to Grenades **:0:1"
     {
-        "chi" "__null__"
+        "chi" "撒旦对手榴弹免疫"
     }
 
     "er1 Server:Command:say ** Satan's Speed Increased **:0:1"
     {
-        "chi" "__null__"
+        "chi" "撒旦变成了快男"
     }
 
     "igger Server:Command:say -- [ZOMBIES] No More Powers to find --:2:1"
     {
-        "chi" "__null__"
+        "chi" "僵尸已经没有足够的祭坛去献祭灵魂了"
     }
 
     "igger Server:Command:say -- [ZOMBIES] You can explore the Hell during the fight --:3:1"
     {
-        "chi" "__null__"
+        "chi" "但你门可以到处逛逛"
     }
 
 }

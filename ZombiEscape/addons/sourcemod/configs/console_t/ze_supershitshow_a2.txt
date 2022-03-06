@@ -13,47 +13,47 @@
 
     "**  - Baltasar Gracian's El criticon. **"
     {
-        "chi" "__null__"
+        "chi" "Baltasar Gracian's El criticon"
     }
 
     "**  - Calderon de la Barca's La vida es sue�o. **"
     {
-        "chi" "__null__"
+        "chi" "Calderon de la Barca's La vida es sueo"
     }
 
     "**  - Herman Hesse's Siddharta. **"
     {
-        "chi" "__null__"
+        "chi" "Herman Hesse's Siddharta"
     }
 
     "**  - Rafael Alberti's Sobre los angeles. **"
     {
-        "chi" "__null__"
+        "chi" "Rafael Alberti's Sobre los angeles"
     }
 
     "**  - Seneca's On the brevity of life. **"
     {
-        "chi" "__null__"
+        "chi" "Seneca's On the brevity of life"
     }
 
     "**  - The ancient sumerian tale of Gilgamesh. **"
     {
-        "chi" "__null__"
+        "chi" "The ancient sumerian tale of Gilgamesh"
     }
 
     "**  - The Bhagavad Gita. **"
     {
-        "chi" "__null__"
+        "chi" "The Bhagavad Gita"
     }
 
     "**  - Yevgueni Zamiatin's We. **"
     {
-        "chi" "__null__"
+        "chi" "Yevgueni Zamiatin's We"
     }
 
     "** ... **"
     {
-        "chi" "__null__"
+        "chi" "..."
     }
 
     "** ...as the constant humming of your silent pains...**"
@@ -98,12 +98,12 @@
 
     "** ??? **"
     {
-        "chi" "__null__"
+        "chi" "???"
     }
 
     "** 1 **"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     "** 1 HP FOR ALL PLAYERS ENABLED! **"
@@ -113,12 +113,12 @@
 
     "** 2 **"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "** 3 **"
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     "** A CITY WILL CRUSH UPON US IN 5 SECONDS! **"
@@ -169,6 +169,7 @@
     "** AMMO TABLE HAS BEEN PICKED UP! **"
     {
         "chi" "**玩家拾取了弹药**"
+        "blocked"    "1"
     }
 
     "** AMMO TABLES! **"
@@ -219,6 +220,7 @@
     "** BULLDOZER HAS BEEN PICKED UP! **"
     {
         "chi" "**僵尸已拿起推土机**"
+        "blocked"    "1"
     }
 
     "** BULLDOZERS! **"
@@ -239,6 +241,7 @@
     "** CAR HAS BEEN PICKED UP! **"
     {
         "chi" "**玩家拾取了小车!**"
+        "blocked"    "1"
     }
 
     "** CARS! **"
@@ -493,7 +496,7 @@
 
     "** Isn't it swell when idiots take what isn't theirs without permission? **"
     {
-        "chi" "__null__"
+        "chi" "笨蛋未经允许拿走了不属于他们的东西,这不是很好吗?"
     }
 
     "** ITEMS! ON A RUSSIAN FLOATING HOUSE! WITH LITTLE SENSE TO IT! **"
@@ -538,7 +541,7 @@
 
     "** LADDERS! **"
     {
-        "chi" "__null__"
+        "chi" "梯子!"
     }
 
     "** LAMP OF GOD HAS BEEN PICKED UP! **"
@@ -748,7 +751,7 @@
 
     "** PERMANENT TRIGGER: WARPERS ENABLED **"
     {
-        "chi" "__null__"
+        "chi" "PERMANENT TRIGGER: WARPERS ENABLED"
     }
 
     "** Plump booties! Gravity becomes higher for 4 seconds! **"
@@ -858,7 +861,7 @@
 
     "** The admins of this server didn't wait for the map to be public because they are impatient. They should read a good book like: **"
     {
-        "chi" "__null__"
+        "chi" "该服务器的管理员没有等待地图公开,因为他们没有耐心.他们应该读一本好书,比如"
     }
 
     "** THE CHICKENROG HAS BEEN UNLEASHED!!! **"
@@ -928,7 +931,7 @@
 
     "** They don't even ask. Who would want to deal with people like that? HINT: Wait until this map is released publicly. **"
     {
-        "chi" "__null__"
+        "chi" "他们甚至不问.谁愿意和这样的人打交道?提示:等待此地图公开发布."
     }
 
     "** THROUGH EYES OF GLASS! Humans are trapped inside glass jars! **"
@@ -978,7 +981,7 @@
 
     "** Triggered! **"
     {
-        "chi" "__null__"
+        "chi" "触发"
     }
 
     "** TRUCKEORS ARE FALLING FROM THE SKY! **"
@@ -1033,7 +1036,7 @@
 
     "** We're gonna have some fun, though. No worries -- Enjoy the crash! **"
     {
-        "chi" "__null__"
+        "chi" "不过我们会玩得开心的.别担心"
     }
 
     "** What does this look like to you..? **"
@@ -1063,7 +1066,7 @@
 
     "** YOU BETTER GET OUT OF THE LOWER BLAST ZONE! IT'S OVER OTHERWISE! **"
     {
-        "chi" "__null__"
+        "chi" "你最好离开下爆炸区!否则就完了!"
     }
 
     "** You reach summit after summit and only find emptiness... **"

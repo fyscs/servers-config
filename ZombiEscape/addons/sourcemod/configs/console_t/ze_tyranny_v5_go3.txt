@@ -83,17 +83,17 @@
 
     ">>> 5 SECONDS REMAINING. DON'T DELAY <<<"
     {
-        "chi" "__null__"
+        "chi" "剩余5秒"
     }
 
     ">>> ADMIN CHANGED TO STAGE 1 <<<"
     {
-        "chi" "__null__"
+        "chi" "加载第一关"
     }
 
     ">>> ADMIN CHANGED TO STAGE 2 <<<"
     {
-        "chi" "__null__"
+        "chi" "加载第二关"
     }
 
     ">>> ADMIN CHANGED TO STAGE 3 <<<"
@@ -394,81 +394,97 @@
     ">>> PLAYER HAS PICKED UP AMMO <<<"
     {
         "chi" "**一名玩家拾取了补给权杖**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP FIRE <<<"
     {
         "chi" "**一名玩家拾取了烈焰权杖**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP GRAVITY <<<"
     {
         "chi" "**一名玩家拾取了重力权杖**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP HEAL <<<"
     {
         "chi" "**一名玩家拾取了治疗权杖**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP HEDGE <<<"
     {
-        "chi" "**一名玩家拾取了树篱权杖**"
+        "chi" "**一名玩家拾取了树篱权杖**
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ICE <<<"
     {
         "chi" "**一名玩家拾取了急冻权杖**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP KILLER <<<"
     {
         "chi" ">>>一名玩家拾取了终湮之奏<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP LIGHTNING <<<"
     {
         "chi" "**一名玩家拾取了闪电权杖**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP PUSH <<<"
     {
         "chi" "**一名玩家玩家拾取了飓风权杖**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ZOMBIE DRUG <<<"
     {
         "chi" ">>>一名僵尸学会了视线干扰<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ZOMBIE FIRE <<<"
     {
         "chi" ">>>一名僵尸学会了焚炎<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ZOMBIE GRAVITY <<<"
     {
         "chi" ">>>一名僵尸学会了重力抓取<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ZOMBIE HEAL <<<"
     {
         "chi" "**一名僵尸学会了巫蛊回复**"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ZOMBIE INVISIBLE <<<"
     {
         "chi" ">>>一名僵尸学会了幽灵步伐<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ZOMBIE KILLER <<<"
     {
         "chi" ">>>一名僵尸学会了终湮之奏<<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP ZOMBIE POISON <<<"
     {
         "chi" "**一名僵尸学会了腐蚀剧毒**"
+        "blocked"    "1"
     }
 
     ">>> RUN <<<"

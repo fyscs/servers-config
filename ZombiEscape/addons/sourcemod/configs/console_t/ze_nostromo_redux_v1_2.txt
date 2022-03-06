@@ -13,17 +13,17 @@
 
     "'***Flamethrower is charging in 3 seconds!***'"
     {
-        "chi" "__null__"
+        "chi" "火焰喷射器3秒后补充燃料"
     }
 
     "'***Flamethrower ready!***'"
     {
-        "chi" "__null__"
+        "chi" "火焰喷射器准备就绪"
     }
 
     "'***Flamethrower recharging, 10 seconds!***'"
     {
-        "chi" "__null__"
+        "chi" "火焰喷射器10秒后补充燃料"
     }
 
     ">>> 5 seconds left! <<<"
@@ -229,6 +229,7 @@
     "Flamethrower picked up. Use to push aliens away!"
     {
         "chi" ">>>火焰喷射器被拾取, 可以用它把僵尸推开<<<"
+        "blocked"    "1"
     }
 
     "Hold off for 15 seconds and wait for the ladder access override!"
@@ -249,6 +250,7 @@
     "Prod picked up. Aim at alien for shock damage!"
     {
         "chi" ">>>Prod被捡起了, 瞄准僵尸!开炮!<<<"
+        "blocked"    "1"
     }
 
 }

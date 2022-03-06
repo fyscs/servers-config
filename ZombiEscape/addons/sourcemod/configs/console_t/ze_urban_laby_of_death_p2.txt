@@ -19,11 +19,13 @@
     "*** Ammo Box has been picked up. ***"
     {
         "chi" "**一名高玩拾取了无限子弹**"
+        "blocked"    "1"
     }
 
     "*** Flamethrower has been picked up. ***"
     {
         "chi" "**一位高玩拾取了喷火器!**"
+        "blocked"    "1"
     }
 
     "*** Flamethrower lasts about 16 secs and can be toggled. ***"
@@ -39,6 +41,7 @@
     "*** Freeze Ring has been picked up. ***"
     {
         "chi" "**一名高玩拾取了冰冻陷阱 **"
+        "blocked"    "1"
     }
 
     "*** Invulnerability has a cooldown of 60 secs. ***"
@@ -49,6 +52,7 @@
     "*** Invulnerability has been picked up. ***"
     {
         "chi" "**一位高玩拾取了无敌!**"
+        "blocked"    "1"
     }
 
     "*** Mines can be used up to 6 times. ***"
@@ -59,6 +63,7 @@
     "*** Mines has been picked up. ***"
     {
         "chi" "**一位玩家拾取了地雷**"
+        "blocked"    "1"
     }
 
     "*** Push Gun has a cooldown of 20 secs. ***"
@@ -69,6 +74,7 @@
     "*** Push Gun has been picked up. ***"
     {
         "chi" "**一名高玩拾取了推力枪!这是啥东西怎么没用过!**"
+        "blocked"    "1"
     }
 
     "*** Sprint has a cooldown of 90 secs. ***"
@@ -79,11 +85,13 @@
     "*** Sprint has been picked up. ***"
     {
         "chi" "**一位高玩拾取了冲刺**"
+        "blocked"    "1"
     }
 
     "*** TEST ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** Zombie Heal has a cooldown of 60 secs. ***"
@@ -94,6 +102,7 @@
     "*** Zombie Heal has been picked up. ***"
     {
         "chi" "**一只僵尸拾取了奶**"
+        "blocked"    "1"
     }
 
     "*** Zombie Rage has a cooldown of 60 secs. ***"
@@ -109,6 +118,7 @@
     "*** Zombie Stopper has been picked up. ***"
     {
         "chi" "**一只僵尸捡到了 障碍**"
+        "blocked"    "1"
     }
 
     "*** Zombie Sucker has a cooldown of 60 secs. ***"
@@ -119,11 +129,13 @@
     "*** Zombie Sucker has been picked up. ***"
     {
         "chi" "**一只僵尸拾取了吸人器(乖乖这也太强了8)能不能别吸Sakura**"
+        "blocked"    "1"
     }
 
     "***C4 has been picked***"
     {
         "chi" "**一名玩家找到了救命的C4**"
+        "blocked"    "1"
     }
 
     "**C4 has been placed!**"

@@ -18,7 +18,7 @@
 
     ">>1...<<"
     {
-        "chi" "__null__"
+        "chi" "一..."
     }
 
     ">>10 SECONDS LEFT UNTIL C4 DETONATES!!<<"
@@ -43,7 +43,7 @@
 
     ">>10 SECONDS REMAIN!!<<"
     {
-        "chi" "__null__"
+        "chi" "**10秒**"
     }
 
     ">>10 SECONDS REMAIN<<"
@@ -63,7 +63,7 @@
 
     ">>2...<<"
     {
-        "chi" "__null__"
+        "chi" "二..."
     }
 
     ">>20 SECONDS REMAIN<<"
@@ -73,12 +73,12 @@
 
     ">>3...<<"
     {
-        "chi" "__null__"
+        "chi" "三..."
     }
 
     ">>30 seconds remain<<"
     {
-        "chi" "__null__"
+        "chi" "**还剩30秒**"
     }
 
     ">>30 SECONDS REMAIN<<"
@@ -88,7 +88,7 @@
 
     ">>4...<<"
     {
-        "chi" "__null__"
+        "chi" "四..."
     }
 
     ">>40 SECONDS REMAIN<<"
@@ -98,7 +98,7 @@
 
     ">>5...<<"
     {
-        "chi" "__null__"
+        "chi" "五..."
     }
 
     ">>After buying a special weapon"
@@ -108,7 +108,7 @@
 
     ">>All four monkey bombs used!<<"
     {
-        "chi" "__null__"
+        "chi" "**四枚猴子炸弹都被用完了**"
     }
 
     ">>C4 explodes in 10 seconds!<<"
@@ -169,6 +169,7 @@
     ">>Freeze gun picked up!<<"
     {
         "chi" "**冰冻枪被捡起**"
+        "blocked"    "1"
     }
 
     ">>GAME OVER IF ZOMBIES GET IN THE BUNKER<<"
@@ -288,17 +289,17 @@
 
     ">>Level commencing in 1...<<"
     {
-        "chi" "__null__"
+        "chi" "**关卡加载: 1**"
     }
 
     ">>Level commencing in 2...<<"
     {
-        "chi" "__null__"
+        "chi" "**关卡加载: 2**"
     }
 
     ">>Level commencing in 3...<<"
     {
-        "chi" "__null__"
+        "chi" "**关卡加载: 3**"
     }
 
     ">>MAP BY DREAM EATER<<"
@@ -309,6 +310,7 @@
     ">>Monkey bombs picked up!<<"
     {
         "chi" "**猴子炸弹被捡起**"
+        "blocked"    "1"
     }
 
     ">>Nuclear fallout base activating!<<"
@@ -318,17 +320,17 @@
 
     ">>OH SHIT! ADMIN HIT THE NUKE BUTTON<<"
     {
-        "chi" "__null__"
+        "chi" "**坏了!管理员按下了核弹按钮**"
     }
 
     ">>Parking garage zombie gate opened....<<"
     {
-        "chi" "__null__"
+        "chi" "**停车场僵尸门打开**"
     }
 
     ">>Passage opening in 5 seconds<<"
     {
-        "chi" "__null__"
+        "chi" "**通道5秒后打开**"
     }
 
     ">>Pick a level! You have 10 seconds!<<"
@@ -344,11 +346,12 @@
     ">>Push gun picked up!<<"
     {
         "chi" "**推力枪被捡起**"
+        "blocked"    "1"
     }
 
     ">>Restarting to avoid problems! (Sorry!)<<"
     {
-        "chi" "__null__"
+        "chi" "**重新启动避免问题**"
     }
 
     ">>Roof top defenders! Hold for 10 seconds!<<"
@@ -368,7 +371,7 @@
 
     ">>Someone enter the secret DJ room!<<"
     {
-        "chi" "__null__"
+        "chi" "**有人进入了秘密DJ房**"
     }
 
     ">>THE BOSS IS DEFEATED!<<"
@@ -388,7 +391,7 @@
 
     ">>The end is near...<<"
     {
-        "chi" "__null__"
+        "chi" "**末日即将来临**"
     }
 
     ">>The forklift broke through the glass! Run<<"
@@ -403,7 +406,7 @@
 
     ">>Uh oh... two maps were picked at the same time...<<"
     {
-        "chi" "__null__"
+        "chi" "**芜湖...两张地图同时被选中**"
     }
 
     ">>Underground passage opening in 30 seconds<<"

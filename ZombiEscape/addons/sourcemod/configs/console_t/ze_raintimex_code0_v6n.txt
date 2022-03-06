@@ -43,7 +43,7 @@
 
     "** 18s **"
     {
-        "chi" "__null__"
+        "chi" "**18秒**"
     }
 
     "** 2 **"
@@ -84,21 +84,24 @@
     "** health **"
     {
         "chi" "**<奶>已捡起**"
+        "blocked"    "1"
     }
 
     "** hold on 30s **"
     {
-        "chi" "__null__"
+        "chi" "**守住30秒**"
     }
 
     "** lightening **"
     {
         "chi" "**<电>已捡起**"
+        "blocked"    "1"
     }
 
     "** sharp wind **"
     {
         "chi" "**<直线风>已捡起**"
+        "blocked"    "1"
     }
 
     "** silence **"
@@ -109,6 +112,7 @@
     "** surround wind **"
     {
         "chi" "**<环形风>已捡起**"
+        "blocked"    "1"
     }
 
     "** T3 **"
@@ -124,6 +128,7 @@
     "** wall **"
     {
         "chi" "**<墙>已捡起**"
+        "blocked"    "1"
     }
 
     "** you win **"
@@ -139,6 +144,7 @@
     "**A player has picked up the book**"
     {
         "chi" "**一名玩家已经拿起了书**"
+        "blocked"    "1"
     }
 
     "**ex open **"

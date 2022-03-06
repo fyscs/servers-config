@@ -194,11 +194,13 @@
     ">>> PLAYER HAS PICKED UP SCP-500 - Medic Bag <<<"
     {
         "chi" ">>> 一位玩家拾取万能药(scp500) <<<"
+        "blocked"    "1"
     }
 
     ">>> PLAYER HAS PICKED UP SCP-714 - Ammo bag <<<"
     {
         "chi" ">>> 一位玩家拾取疲惫玉戒(scp714) <<<"
+        "blocked"    "1"
     }
 
     "map by Mochi/Pohmian"

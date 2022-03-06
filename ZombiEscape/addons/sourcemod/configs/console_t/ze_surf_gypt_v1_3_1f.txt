@@ -114,16 +114,19 @@
     "*** PLAYER HAS PICKED UP BLUE TRAIL ***"
     {
         "chi" "**玩家发现了蓝色彩线枪 **"
+        "blocked"    "1"
     }
 
     "*** PLAYER HAS PICKED UP GREEN TRAIL ***"
     {
         "chi" "**玩家发现了绿色彩线枪 **"
+        "blocked"    "1"
     }
 
     "*** PLAYER HAS PICKED UP RED TRAIL ***"
     {
         "chi" "**玩家发现了红色彩线枪 **"
+        "blocked"    "1"
     }
 
     "*** PRESS BUTTON ON THE CONSOLE TO ENABLE THE ELEVATOR ***"
@@ -134,6 +137,7 @@
     "*** SOMEONE HAS PICKED UP [Pompje's Pizza Boye] ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** THERE 3 GUNS THAT GIVE A COLOURED TRAIL, GL FINDING THEM ***"

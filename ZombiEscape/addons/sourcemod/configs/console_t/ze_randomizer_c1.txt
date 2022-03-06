@@ -94,6 +94,7 @@
     "*** Mines item has been picked (5 use) ***"
     {
         "chi" "**地雷已被拿起,只有五颗 **"
+        "blocked"    "1"
     }
 
     "*** Moves in 15 seconds ***"
@@ -174,11 +175,13 @@
     "***BAN HAMMER item picked up***"
     {
         "chi" "**权限锤被人拿起 **"
+        "blocked"    "1"
     }
 
     "***BFG item picked up***"
     {
         "chi" "**超级无敌吸附式绝灭僵尸炮被人拿起 **"
+        "blocked"    "1"
     }
 
     "***Bush breaks in 5 sec***"
@@ -349,6 +352,7 @@
     "***MACHINE GUN item picked up***"
     {
         "chi" "**重型机枪被人拿起 **"
+        "blocked"    "1"
     }
 
     "***Maybe its only our only way to escape this nightmare***"
@@ -359,6 +363,7 @@
     "***MINES item picked up***"
     {
         "chi" "**地雷已被拿起 **"
+        "blocked"    "1"
     }
 
     "***MISSION: Dodge the obstacles***"
@@ -389,6 +394,7 @@
     "***MORELLS MONEY item picked up***"
     {
         "chi" "**印钞机被人拿起 **"
+        "blocked"    "1"
     }
 
     "***Next stage is probably big trim. 30 seconds remaining.***"
@@ -414,11 +420,13 @@
     "***NON EUCLIDIAN item picked up***"
     {
         "chi" "**欧几里得TP僵尸枪被人拿起 **"
+        "blocked"    "1"
     }
 
     "***OLD AGE item picked up***"
     {
         "chi" "**老掉牙的神器被人拿起 **"
+        "blocked"    "1"
     }
 
     "***OPENING CELLS***"
@@ -489,6 +497,7 @@
     "***SCOOBY SNACKS item picked up***"
     {
         "chi" "**史努比的小饼干已经被人拿起 **"
+        "blocked"    "1"
     }
 
     "***second ladder path opens in 5 sec***"
@@ -664,6 +673,7 @@
     "***TRANSPARENT item picked up***"
     {
         "chi" "**隐形被人拿起 **"
+        "blocked"    "1"
     }
 
     "***Turns out making your defence out of styrofoam is not a good idea.***"
