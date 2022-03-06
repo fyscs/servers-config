@@ -89,6 +89,7 @@
     "*** FIDGET SPINNER PICKED UP ***"
     {
         "chi" "急速旋转器被拾起"
+        "blocked"    "1"
     }
 
     "*** GIVE ME SOME SECONDS TO FIND THE CORRECT KEY ***"
@@ -109,6 +110,7 @@
     "*** JIHAD ITEM PICKED UP ***"
     {
         "chi" "圣战被拾起"
+        "blocked"    "1"
     }
 
     "*** JUST A TRIM ***"
@@ -124,6 +126,7 @@
     "*** LASER WALL ITEM PICKED UP ***"
     {
         "chi" "激光墙被拾起"
+        "blocked"    "1"
     }
 
     "*** LASERS TURNING OFF IN 20 SECONDS ***"
@@ -138,12 +141,13 @@
 
     "*** MAP BY: eastern swiss power ***"
     {
-        "chi" "地图作者:eastern swiss power  汉化:小鱼干&xTeruZikk@風雲社"
+        "chi" "地图作者:eastern,swiss,power 汉化:小鱼干,xTeruZikk@風雲社"
     }
 
     "*** MONEY ITEM PICKED UP ***"
     {
         "chi" "钱箱被拾起"
+        "blocked"    "1"
     }
 
     "*** ONE OF THE DOORS UNLOCK SOON ***"

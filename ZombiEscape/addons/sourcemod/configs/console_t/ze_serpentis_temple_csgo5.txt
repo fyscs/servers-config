@@ -83,17 +83,17 @@
 
     "*** DOOR OPEN IN 10 SECONDS ***"
     {
-        "chi" "__null__"
+        "chi" "**门10秒后打开**"
     }
 
     "*** DOOR OPEN IN 15 SECONDS ***"
     {
-        "chi" "__null__"
+        "chi" "**门15秒后打开**"
     }
 
     "*** Door open in 20 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "**门20秒后打开**"
     }
 
     "*** DOOR OPEN IN 20 SECONDS ***"
@@ -118,12 +118,12 @@
 
     "*** DOOR OPENS IN 10 SECONDS ***"
     {
-        "chi" "__null__"
+        "chi" "**门10秒后打开**"
     }
 
     "*** DOOR OPENS IN 15 SECONDS ***"
     {
-        "chi" "__null__"
+        "chi" "**门15秒后打开**"
     }
 
     "*** DOORS CLOSE IN 10 SECONDS ***"
@@ -138,7 +138,7 @@
 
     "*** DOORS OPEN IN 10 SECONDS ***"
     {
-        "chi" "__null__"
+        "chi" "**门10秒后打开**"
     }
 
     "*** DOORS OPEN IN 20 SECONDS ***"
@@ -169,6 +169,7 @@
     "*** Fire Snake has been picked ***"
     {
         "chi" "**一位玩家获得烈火蛇杖**"
+        "blocked"    "1"
     }
 
     "*** First doors will be close in 5 seconds ***"
@@ -184,6 +185,7 @@
     "*** Heal/Ammo Snake has been picked ***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** HELICOPTER MOVE IN 10 SECONDS ! ***"
@@ -193,17 +195,17 @@
 
     "*** HOLD 10 SECONDS ***"
     {
-        "chi" "__null__"
+        "chi" "**守住这里10秒**"
     }
 
     "*** HOLD 25 SECONDS ***"
     {
-        "chi" "__null__"
+        "chi" "**守住这里25秒**"
     }
 
     "*** HOLD HERE ***"
     {
-        "chi" "__null__"
+        "chi" "**守住这里**"
     }
 
     "*** HOLD HERE 20 SECONDS ***"
@@ -243,7 +245,7 @@
 
     "*** Map by Nostar ***"
     {
-        "chi" "__null__"
+        "chi" "**地图作者: Nostar 地图汉化: 大明**"
     }
 
     "*** Map By Nostar ***"
@@ -269,6 +271,7 @@
     "*** Poison Snake has been picked ***"
     {
         "chi" "**一位玩家获得毒雾蛇杖**"
+        "blocked"    "1"
     }
 
     "*** PORTAL IS READY ! FALL BACK ! ***"
@@ -413,7 +416,7 @@
 
     "[ADMIN ROOM] STAGE 2 NEXT ROUND"
     {
-        "chi" "__null__"
+        "chi" "**[管理员]下一关卡设置为第二关**"
     }
 
     "[ADMIN ROOM] STAGE 3 NEXT ROUND"

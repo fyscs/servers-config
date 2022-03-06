@@ -49,6 +49,7 @@
     "| Player has picked up shockwave |"
     {
         "chi" "**有玩家拾取了冲击波 **"
+        "blocked"    "1"
     }
 
 }

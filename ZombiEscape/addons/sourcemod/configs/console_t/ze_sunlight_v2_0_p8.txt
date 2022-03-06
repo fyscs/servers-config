@@ -13,7 +13,7 @@
 
     "*** 1 ***"
     {
-        "chi" "__null__"
+        "chi" "** 1 **"
     }
 
     "*** 1 minute left ***"
@@ -28,7 +28,7 @@
 
     "*** 2 ***"
     {
-        "chi" "__null__"
+        "chi" "** 2 **"
     }
 
     "*** 2 minutes left ***"
@@ -38,7 +38,7 @@
 
     "*** 3 ***"
     {
-        "chi" "__null__"
+        "chi" "** 3 **"
     }
 
     "*** 3 minutes left ***"
@@ -128,12 +128,12 @@
 
     "*** NUKE has been activated from the admin room ***"
     {
-        "chi" "__null__"
+        "chi" "**管理员按下核弹按钮**"
     }
 
     "*** Nuke in 1 minute ***"
     {
-        "chi" "__null__"
+        "chi" "**侦测到我方核聚变打击将在1分钟后到达! **"
     }
 
     "*** Nuke in 10 seconds ***"
@@ -173,7 +173,7 @@
 
     "*** STAGE I has been selected from the admin room ***"
     {
-        "chi" "__null__"
+        "chi" "**管理员选择第一关**"
     }
 
     "*** STAGE II ***"
@@ -183,7 +183,7 @@
 
     "*** STAGE II has been selected from the admin room ***"
     {
-        "chi" "__null__"
+        "chi" "**管理员选择第二关**"
     }
 
     "*** STAGE III ***"
@@ -193,7 +193,7 @@
 
     "*** STAGE III has been selected from the admin room ***"
     {
-        "chi" "__null__"
+        "chi" "**管理员选择第三关**"
     }
 
     "*** STAGE IV ***"
@@ -203,7 +203,7 @@
 
     "*** STAGE IV has been selected from the admin room ***"
     {
-        "chi" "__null__"
+        "chi" "**管理员选择第四关**"
     }
 
     "*** STAGE V ***"
@@ -213,7 +213,7 @@
 
     "*** STAGE V has been selected from the admin room ***"
     {
-        "chi" "__null__"
+        "chi" "**管理员选择第五关**"
     }
 
     "*** Teleporting humans in 10 seconds ***"

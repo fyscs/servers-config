@@ -13,32 +13,36 @@
 
     "***1 minute 30s***"
     {
-        "chi" "__null__"
+        "chi" "90"
     }
 
     "***1 minute***"
     {
-        "chi" "__null__"
+        "chi" "60"
     }
 
     "***15s***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***30s***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***45s***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***5s***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***A garden?**"
@@ -53,12 +57,12 @@
 
     "***AFK teleport in 10s***"
     {
-        "chi" "__null__"
+        "chi" "挂机传送:10秒"
     }
 
     "***Ahhhhhhhhhhhhhh***"
     {
-        "chi" "__null__"
+        "chi" "厚礼蟹"
     }
 
     "***All buttons are pressed***"
@@ -68,7 +72,7 @@
 
     "***All buttons are triggered***"
     {
-        "chi" "__null__"
+        "chi" "所有按钮已经触发"
     }
 
     "***All pillars have been activated***"
@@ -98,12 +102,12 @@
 
     "***But I'm not dead yet.....***"
     {
-        "chi" "__null__"
+        "chi" "你以为就这样结束了嘛?"
     }
 
     "***But...***"
     {
-        "chi" "__null__"
+        "chi" "但是..."
     }
 
     "***Button 1 is triggered***"
@@ -118,17 +122,17 @@
 
     "***Changing to Level 1***"
     {
-        "chi" "__null__"
+        "chi" "载入第一关"
     }
 
     "***Changing to Level 2***"
     {
-        "chi" "__null__"
+        "chi" "载入第二关"
     }
 
     "***Changing to Level 3***"
     {
-        "chi" "__null__"
+        "chi" "载入第三关"
     }
 
     "***Congratulation!!!!***"
@@ -138,7 +142,7 @@
 
     "***Congratulation!!!***"
     {
-        "chi" "__null__"
+        "chi" "恭喜!!!"
     }
 
     "***Congratulations!!!***"
@@ -218,17 +222,19 @@
 
     "***FACE THE JUDGEMENT***"
     {
-        "chi" "__null__"
+        "chi" "接受审判吧"
     }
 
     "***Fall back***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***Fall Back***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***FALL BACK***"
@@ -253,12 +259,12 @@
 
     "***Hold them for 2 minutes***"
     {
-        "chi" "__null__"
+        "chi" "防守:120秒"
     }
 
     "***How about now?***"
     {
-        "chi" "__null__"
+        "chi" "现在觉得怎样?"
     }
 
     "***I have to do this....***"
@@ -268,7 +274,7 @@
 
     "***I hope you enjoy this map***"
     {
-        "chi" "__null__"
+        "chi" "enjoy"
     }
 
     "***I know I will see you in the future......***"
@@ -298,7 +304,7 @@
 
     "***Lasers!!!**"
     {
-        "chi" "__null__"
+        "chi" "跳刀"
     }
 
     "***Lasers!!!***"
@@ -313,7 +319,7 @@
 
     "***Let's do a test***"
     {
-        "chi" "__null__"
+        "chi" "来一场试验吧"
     }
 
     "***Level: The Maze completed***"
@@ -328,37 +334,37 @@
 
     "***Level: The Necromanteion activated***"
     {
-        "chi" "__null__"
+        "chi" "关卡:死灵法师在深渊凝视这你"
     }
 
     "***Level: The Necromanteion***"
     {
-        "chi" "__null__"
+        "chi" "关卡:死灵法师"
     }
 
     "***Level: The Underground activated***"
     {
-        "chi" "__null__"
+        "chi" "关卡:炼狱"
     }
 
     "***Level: The Underground***"
     {
-        "chi" "__null__"
+        "chi" "关卡:炼狱"
     }
 
     "***Looks like something gonna happen...***"
     {
-        "chi" "__null__"
+        "chi" "我有不好的预感"
     }
 
     "***Map by Qahnaarin***"
     {
-        "chi" "__null__"
+        "chi" "作者:Qahnaarin 汉化:小三@風雲社"
     }
 
     "***Not bad...***"
     {
-        "chi" "__null__"
+        "chi" "不错"
     }
 
     "***Only the chosen one can live***"
@@ -433,27 +439,31 @@
 
     "***Special thanks to: Jllaneras***"
     {
-        "chi" "__null__"
+        "chi" "特别感谢:Jllaneras,Leks,Luffaren,Moltard,Onahole"
     }
 
     "***Special thanks to: Leks***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***Special thanks to: Luffaren***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***Special thanks to: Moltard***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***Special thanks to: Onahole***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***SUPERNOVA***"
@@ -498,7 +508,7 @@
 
     "***Thanks for playing***"
     {
-        "chi" "__null__"
+        "chi" "感谢游玩这张地图的每一个人"
     }
 
     "***The bridge is activated***"
@@ -608,7 +618,7 @@
 
     "***The first button is triggered***"
     {
-        "chi" "__null__"
+        "chi" "第一个按钮被触发"
     }
 
     "***The floor will break in 20s***"
@@ -658,7 +668,7 @@
 
     "***The portal will activate in 70s***"
     {
-        "chi" "__null__"
+        "chi" "70秒后入口打开"
     }
 
     "***The secret door is opening***"
@@ -673,7 +683,7 @@
 
     "***Wait...what...***"
     {
-        "chi" "__null__"
+        "chi" "等等...厚礼蟹..."
     }
 
     "***Waiting for something to happen...***"
@@ -683,7 +693,7 @@
 
     "***WELCOME MORTALS***"
     {
-        "chi" "__null__"
+        "chi" "哼...凡人..."
     }
 
     "***WELCOME TO THE MAZE***"
@@ -703,7 +713,7 @@
 
     "***What is this?***"
     {
-        "chi" "__null__"
+        "chi" "厚礼蟹..."
     }
 
     "***You are too weak***"
@@ -723,7 +733,7 @@
 
     "***You failed***"
     {
-        "chi" "__null__"
+        "chi" "你们输了"
     }
 
     "***You found the button***"
@@ -738,12 +748,12 @@
 
     "***You won Level: The Underground***"
     {
-        "chi" "__null__"
+        "chi" "关卡:炼狱 完成"
     }
 
     "***You won this map!!!***"
     {
-        "chi" "__null__"
+        "chi" "恭喜你们征服了这张地图"
     }
 
     "***Zombie Teleport in 10s***"
@@ -759,6 +769,7 @@
     "***Zombies aboard***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**Door is opening***"

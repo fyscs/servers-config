@@ -23,12 +23,12 @@
 
     "<!!!> 5 SECONDS <!!!>"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "<!!!> 5 SECONDS! <!!!>"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     "<!!!> CALL HELICOPTER <!!!>"
@@ -268,7 +268,7 @@
 
     "<!!!> ZOMBIES DETECTED | YOU FAIL <!!!>"
     {
-        "chi" "__null__"
+        "chi" "**检测到僵尸.你失败了 **"
     }
 
     "<!!!> ZOMBIES DETECTED | YOU FAILED <!!!>"

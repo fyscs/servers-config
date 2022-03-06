@@ -268,22 +268,22 @@
 
     "ADMIN Set: Level 1 - Misty!"
     {
-        "chi" "__null__"
+        "chi" "加载第一关"
     }
 
     "ADMIN Set: Level 2 - Brock!"
     {
-        "chi" "__null__"
+        "chi" "加载第二关"
     }
 
     "ADMIN Set: Level 3 - Gary!"
     {
-        "chi" "__null__"
+        "chi" "加载第三关"
     }
 
     "ADMIN Set: Level X!"
     {
-        "chi" "__null__"
+        "chi" "加载关卡[X]"
     }
 
     "Alright Zombies, you can pick a starter aswell!"
@@ -333,7 +333,7 @@
 
     "But you may press it again now."
     {
-        "chi" "__null__"
+        "chi" "但你现在可以再按一次"
     }
 
     "CHARMANDER used EMBER!"
@@ -363,7 +363,7 @@
 
     "DIGLETT used GROWL!"
     {
-        "chi" "__null__"
+        "chi" "无敌地鼠使用了咆哮"
     }
 
     "DIGLETT used MUD SLAP!"
@@ -558,7 +558,7 @@
 
     "Enemy WEEDLE used TACKLE!"
     {
-        "chi" "__null__"
+        "chi" "神龙使用了春药"
     }
 
     "Enemys POKEMON fainted!"
@@ -738,7 +738,7 @@
 
     "HUMAN POKEMON evaded attack!"
     {
-        "chi" "__null__"
+        "chi" "类的小精灵闪避了"
     }
 
     "HUMAN POKEMON is hurt by its burn!"
@@ -758,7 +758,7 @@
 
     "HUMANS are out of useable POKEMON!"
     {
-        "chi" "__null__"
+        "chi" "人类的小精灵全部去世了"
     }
 
     "HUMAN's blacked out!"
@@ -1088,7 +1088,7 @@
 
     "This button does nothing."
     {
-        "chi" "__null__"
+        "chi" "这个按钮没什么卵用"
     }
 
     "This POKEMON is really quite energetic!"

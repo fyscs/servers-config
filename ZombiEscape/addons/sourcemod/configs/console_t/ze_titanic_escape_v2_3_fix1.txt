@@ -24,7 +24,7 @@
     "**Final Door will open in 30 seconds**"
     {
         "chi" "**30秒后打开最终大门**"
-        "blocked" "1"
+        "blocked"    "1"
     }
 
     "**Final Door will open in 60 seconds**"
@@ -45,7 +45,7 @@
     "**Lasers will be de-activated in 5 seconds**"
     {
         "chi" "**激光将在5秒后消失!马上就可以穿过去了!**"
-        "blocked" "1"
+        "blocked"    "1"
     }
 
     "**Main elevator is leaving in 15 seconds!!**"
@@ -56,7 +56,7 @@
     "**Main elevator is leaving in 5 seconds!!**"
     {
         "chi" "**大电梯将在5秒后离开!**"
-        "blocked" "1"
+        "blocked"    "1"
     }
 
     "**Main elevator's second doors now unlocked**"
@@ -87,7 +87,7 @@
     "**The boats will leave in 10 seconds!**"
     {
         "chi" "**救生船将在 10 秒后离开!快逃脱了!**"
-        "blocked" "1"
+        "blocked"    "1"
     }
 
     "**The boats will leave in 2 minutes!** "

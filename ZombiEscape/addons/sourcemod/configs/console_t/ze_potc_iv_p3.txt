@@ -13,7 +13,7 @@
 
     ">>  5 MORE SECONDS <<"
     {
-        "chi" "__null__"
+        "chi" "5秒"
     }
 
     ">>  5 MORE SECONDS<<"
@@ -23,7 +23,7 @@
 
     ">>  TELEPORTING everyone to fountain of youth <<"
     {
-        "chi" "__null__"
+        "chi" "即将传送到青春之泉"
     }
 
     ">>  TELEPORTING everyone to fountain of youth<<"
@@ -53,7 +53,7 @@
 
     ">> DEFEND FOR 60 SEC <<"
     {
-        "chi" "__null__"
+        "chi" "守住60秒"
     }
 
     ">> DEFEND FOR 60 SEC<<"
@@ -78,7 +78,7 @@
 
     ">> NO LEVEL CHANGE ON WIN! <<"
     {
-        "chi" "__null__"
+        "chi" "这张地图只有一关,且难度不变"
     }
 
     ">> others try to keep zombies in water<<"
@@ -103,7 +103,7 @@
 
     ">> YOU FORGOT THE CHALICES! <<"
     {
-        "chi" "__null__"
+        "chi" "你没有获取圣杯"
     }
 
     ">>>JACKS PISTOL HAS BEEN TAKEN<<<"
@@ -118,7 +118,7 @@
 
     ">>>MASSIVE NUKE COMING IN 5 SECONDS<<<"
     {
-        "chi" "__null__"
+        "chi" "核弹:5秒"
     }
 
     ">>>Press USE to fire<<<"
@@ -138,7 +138,7 @@
 
     ">>LEVEL COMPLETED! <<"
     {
-        "chi" "__null__"
+        "chi" "本关完成"
     }
 
     ">>LEVEL COMPLETED!<<"

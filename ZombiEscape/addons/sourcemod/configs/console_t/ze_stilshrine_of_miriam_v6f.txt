@@ -54,6 +54,7 @@
     "**A player picked up Sword of Kings**"
     {
         "chi" "**一位玩家拔起了莱斯沃尔历代王者之剑**"
+        "blocked"    "1"
     }
 
     "**An ancient shrine deep within the Jagd Ramooda**"
@@ -203,7 +204,7 @@
 
     "**Like Raithwall�s tomb, this, too, was constructed in the time of the Galtean Alliance**"
     {
-        "chi" "__null__"
+        "chi" "**这座陵墓也是在加尔特联盟时期建造的**"
     }
 
     "**look there!**"

@@ -13,12 +13,13 @@
 
     "**?!**"
     {
-        "chi" "__null__"
+        "chi" "?!"
     }
 
     "**Ammo Box has been picked up!**"
     {
         "chi" "**一名玩家捡起了弹药箱**"
+        "blocked"    "1"
     }
 
     "**Another door! Hold them back until the door is open!**"
@@ -123,12 +124,13 @@
 
     "**Kill all remaining zombies!**"
     {
-        "chi" "__null__"
+        "chi" "**杀死剩余的僵尸**"
     }
 
     "**Kloud's AWP has been picked up!**"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**Lift is leaving in 20 seconds! Hold the zombies back!"
@@ -158,7 +160,7 @@
 
     "**Someone has entered Retslag's office!**"
     {
-        "chi" "__null__"
+        "chi" "**有人进了Retslag的办公室**"
     }
 
     "**This is your final stand! Hold until the door is fully closed!**"
@@ -208,7 +210,7 @@
 
     "[SM] Changing map to ze_LOTR_Minas_Tirith_v3_3..."
     {
-        "chi" "__null__"
+        "chi" "**将地图更改为ze_LOTR_Minas_Tirith_v3_3...**"
     }
 
 }

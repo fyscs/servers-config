@@ -13,22 +13,22 @@
 
     "-=[ 1 ]=-"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     "-=[ 1 more minute ]=-"
     {
-        "chi" "__null__"
+        "chi" "一分钟"
     }
 
     "-=[ 2 ]=-"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "-=[ 3 ]=-"
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     "-=[ 30 more seconds... ]=-"
@@ -38,12 +38,12 @@
 
     "-=[ 4 ]=-"
     {
-        "chi" "__null__"
+        "chi" "4"
     }
 
     "-=[ 5 ]=-"
     {
-        "chi" "__null__"
+        "chi" "blocked"    "1"
     }
 
     "-=[ Activating in 5 ]=-"
@@ -73,7 +73,7 @@
 
     "-=[ Castle gates open in 15 seconds ]=-"
     {
-        "chi" "__null__"
+        "chi" "**15秒后打开城门**"
     }
 
     "-=[ Castle gates open in 30 seconds ]=-"
@@ -98,17 +98,17 @@
 
     "-=[ Easy Mode :: CT/T == 4 ]=-"
     {
-        "chi" "__null__"
+        "chi" "**简单模式**"
     }
 
     "-=[ Easy Mode :: CT/T > 4 ]=-"
     {
-        "chi" "__null__"
+        "chi" "**简单模式**"
     }
 
     "-=[ Easy Mode ]=-"
     {
-        "chi" "__null__"
+        "chi" "**简单模式**"
     }
 
     "-=[ Enter the Castle ]=-"
@@ -118,7 +118,7 @@
 
     "-=[ Extreme Mode :: CT/T < 1 ]=-"
     {
-        "chi" "__null__"
+        "chi" "**极限模式**"
     }
 
     "-=[ Extreme Mode ]=-"
@@ -138,12 +138,12 @@
 
     "-=[ Finishing Game :: < 2 ]=-"
     {
-        "chi" "__null__"
+        "chi" "**游戏结束**"
     }
 
     "-=[ Finishing Game :: == 2 ]=-"
     {
-        "chi" "__null__"
+        "chi" "**游戏结束**"
     }
 
     "-=[ Finishing in 30 seconds ]=-"
@@ -163,12 +163,12 @@
 
     "-=[ Hard Mode :: CT/T == 1 ]=-"
     {
-        "chi" "__null__"
+        "chi" "**困难模式**"
     }
 
     "-=[ Hard Mode :: CT/T > 1 < 2 ]=-"
     {
-        "chi" "__null__"
+        "chi" "**困难模式**"
     }
 
     "-=[ Hard Mode ]=-"
@@ -188,7 +188,7 @@
 
     "-=[ Hold 15 seconds ]=-"
     {
-        "chi" "__null__"
+        "chi" "**坚守15秒**"
     }
 
     "-=[ Hold for 30 seconds ]=-"
@@ -223,7 +223,7 @@
 
     "-=[ Lavapit activating in 5 seconds ]=-"
     {
-        "chi" "__null__"
+        "chi" "blocked"    "1"
     }
 
     "-=[ Make your way to the highway ]=-"
@@ -238,12 +238,12 @@
 
     "-=[ Normal Mode :: CT/T == 2 ]=-"
     {
-        "chi" "__null__"
+        "chi" "**普通模式**"
     }
 
     "-=[ Normal Mode :: CT/T > 2 < 4 ]=-"
     {
-        "chi" "__null__"
+        "chi" "**普通模式**"
     }
 
     "-=[ Normal Mode ]=-"
@@ -273,7 +273,7 @@
 
     "-=[ Starting game: Conveyor ]=-"
     {
-        "chi" "__null__"
+        "chi" "**传送**"
     }
 
     "-=[ Starting game: Deathrun ]=-"
@@ -318,7 +318,7 @@
 
     "-=[ Starting game: The Trap ]=-"
     {
-        "chi" "__null__"
+        "chi" "**陷阱**"
     }
 
     "-=[ Survive 60 seconds ]=-"
@@ -338,7 +338,7 @@
 
     "-=[ Survive until next ratio mode ]=-"
     {
-        "chi" "__null__"
+        "chi" "**存活下一个模式**"
     }
 
     "-=[ The catapult is coming!!! ]=-"
@@ -348,12 +348,12 @@
 
     "-=[ The main gates are under attack ]=-"
     {
-        "chi" "__null__"
+        "chi" "**大门遭到攻击**"
     }
 
     "-=[ The main gates have been penetrated ]=-"
     {
-        "chi" "__null__"
+        "chi" "**大门已被击穿**"
     }
 
     "-=[ Welcome to Zombie Games ]=-"
@@ -363,7 +363,7 @@
 
     "-=[ Worked ]=-"
     {
-        "chi" "__null__"
+        "chi" "**奏效**"
     }
 
     "-=[ You have 1 minute to reach the end ]=-"
@@ -393,17 +393,17 @@
 
     "-=[ Zombie spawn advanced ]=-"
     {
-        "chi" "__null__"
+        "chi" "**僵尸准备传送**"
     }
 
     "-=[ Zombie spawn has advanced ]=-"
     {
-        "chi" "__null__"
+        "chi" "**僵尸已经传送**"
     }
 
     "-=[ Zombies Activated Trap ]=-"
     {
-        "chi" "__null__"
+        "chi" "**僵尸激活陷阱**"
     }
 
     "-=[ Zombies are blind!!!! ]=-"
@@ -418,7 +418,7 @@
 
     "-=[Normal Mode ]=-"
     {
-        "chi" "__null__"
+        "chi" "**普通模式**"
     }
 
 }
