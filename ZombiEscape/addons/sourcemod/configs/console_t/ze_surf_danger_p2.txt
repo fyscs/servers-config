@@ -73,12 +73,13 @@
 
     ">>>Respawn wall break in 20 sec<<<"
     {
-        "chi" "__null__"
+        "chi" "**20秒后破壁重生**"
     }
 
     ">>>Secret pistols picked up<<<"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     ">>>Self Destruction Actived<<<"

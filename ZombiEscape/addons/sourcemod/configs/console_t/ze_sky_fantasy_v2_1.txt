@@ -113,12 +113,12 @@
 
     "--- Mapper K.KID is in the server ---"
     {
-        "chi" "__null__"
+        "chi" "地图作者K.KID在服务器中"
     }
 
     "--- Mapper Misakaaaaa is in the server ---"
     {
-        "chi" "__null__"
+        "chi" "地图作者Misakaaaaa在服务器中"
     }
 
     "- MISAKA is blocking our way!!! -"
@@ -229,61 +229,73 @@
     "<< A player has picked up earth magic >>"
     {
         "chi" "**<<一名玩家学会土魔法>>**"
+        "blocked"    "1"
     }
 
     "<< A player has picked up electro magic >>"
     {
         "chi" "**<<一名玩家学会电魔法>>**"
+        "blocked"    "1"
     }
 
     "<< A player has picked up fantasy crystal >>"
     {
         "chi" "**<<一名玩家拾取幻想水晶>>**"
+        "blocked"    "1"
     }
 
     "<< A player has picked up fire ball >>"
     {
         "chi" "**<<一名玩家学会火球>>**"
+        "blocked"    "1"
     }
 
     "<< A player has picked up heal magic >>"
     {
         "chi" "**<<一名玩家学会治疗魔法>>**"
+        "blocked"    "1"
     }
 
     "<< A player has picked up holy magic >>"
     {
         "chi" "**<<一名玩家学会终极降临>>**"
+        "blocked"    "1"
     }
 
     "<< A player has picked up water magic >>"
     {
         "chi" "**<<一名玩家学会水魔法>>**"
+        "blocked"    "1"
     }
 
     "<< A player has picked up wind magic >>"
     {
         "chi" "**<<一名玩家学会风魔法>>**"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up gravity magic >>"
     {
         "chi" "**<<一名僵尸学会黑洞魔法>>**"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up heal magic >>"
     {
         "chi" "**<<一名僵尸学会治愈魔法>>**"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up ice magic >>"
     {
         "chi" "**<<一名僵尸学会冰魔法>>**"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up nuke magic >>"
     {
         "chi" "**<<一名僵尸学会百万核爆>>**"
+        "blocked"    "1"
     }
 
     "<< STAGE COMPLETE >>"

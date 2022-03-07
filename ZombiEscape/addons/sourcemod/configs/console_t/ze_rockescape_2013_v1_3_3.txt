@@ -38,22 +38,22 @@
 
     "-=[ Boats are ready!!! ]=-"
     {
-        "chi" "__null__"
+        "chi" "友谊的小船准备就绪"
     }
 
     "-=[ Boats ready in 10 seconds... ]=-"
     {
-        "chi" "__null__"
+        "chi" "友谊的小船10秒后就绪"
     }
 
     "-=[ Boats ready in 30 seconds... ]=-"
     {
-        "chi" "__null__"
+        "chi" "友谊的小船30秒后就绪"
     }
 
     "-=[ Boats ready in 5 seconds... ]=-"
     {
-        "chi" "__null__"
+        "chi" "友谊的小船5秒后就绪"
     }
 
     "-=[ Boats ready in 60 seconds... ]=-"
@@ -83,7 +83,7 @@
 
     "-=[ Command exit has opened ]=-"
     {
-        "chi" "__null__"
+        "chi" "出口已经打开"
     }
 
     "-=[ Command exit opening in 60 seconds ]=-"
@@ -148,12 +148,12 @@
 
     "-=[ Nuke detonation in 10 seconds ]=-"
     {
-        "chi" "__null__"
+        "chi" "10秒核爆"
     }
 
     "-=[ Nuke detonation in 5 seconds ]=-"
     {
-        "chi" "__null__"
+        "chi" "5秒核爆"
     }
 
     "-=[ Use C4 to blow your way out!!! ]=-"
@@ -163,7 +163,7 @@
 
     "-=[ Zombie spawn advanced ]=-"
     {
-        "chi" "__null__"
+        "chi" "刷新僵尸重生点"
     }
 
     "-=[ Zombie Spawn Advanced ]=-"

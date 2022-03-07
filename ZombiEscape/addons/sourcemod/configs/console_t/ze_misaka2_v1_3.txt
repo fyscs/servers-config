@@ -64,16 +64,19 @@
     "<< A player has picked up heal magic >>"
     {
         "chi" "**奶 拾取**"
+        "blocked"    "1"
     }
 
     "<< A player has picked up snow magic >>"
     {
         "chi" "**水 拾取**"
+        "blocked"    "1"
     }
 
     "<< A player has picked up wind magic >>"
     {
         "chi" "**风 拾取**"
+        "blocked"    "1"
     }
 
     "<< A story of this map >>"
@@ -84,11 +87,13 @@
     "<< A zombie has picked up gravity magic >>"
     {
         "chi" "**僵尸黑洞 拾取**"
+        "blocked"    "1"
     }
 
     "<< A zombie has picked up speed magic >>"
     {
         "chi" "**僵尸加速 拾取**"
+        "blocked"    "1"
     }
 
     "<< Admin select STAGE I >>"
@@ -223,7 +228,7 @@
 
     "<< FAIL...... >>"
     {
-        "chi" "__null__"
+        "chi" "失败...."
     }
 
     "<< FALL OF EARTH >>"
@@ -238,7 +243,7 @@
 
     "<< FALLEN SKY >>"
     {
-        "chi" "__null__"
+        "chi" "天坠"
     }
 
     "<< Finally, it becomes to the green soul that you have seen before >>"
@@ -263,7 +268,7 @@
 
     "<< GIGA DRAIN >>"
     {
-        "chi" "__null__"
+        "chi" "GIGA DRAIN"
     }
 
     "<< hold for 15 seconds >>"
@@ -363,12 +368,12 @@
 
     "<< MEGA PUSH >>"
     {
-        "chi" "__null__"
+        "chi" "增强推力"
     }
 
     "<< Misaka mode >>"
     {
-        "chi" "__null__"
+        "chi" "御坂模式"
     }
 
     "<< Misaka will help you >>"
@@ -393,12 +398,12 @@
 
     "<< No Misaka Mode >>"
     {
-        "chi" "__null__"
+        "chi" "没有御坂模式"
     }
 
     "<< No Misaka Mode for only one round >>"
     {
-        "chi" "__null__"
+        "chi" "没有御坂模式,只有一轮"
     }
 
     "<< No...... >>"
@@ -493,7 +498,7 @@
 
     "<< Teleport in 20 seconds >>"
     {
-        "chi" "__null__"
+        "chi" "20秒后传送"
     }
 
     "<< the boat will move again in 10 seconds >>"
@@ -568,7 +573,7 @@
 
     "<< Trials of Sword lv.2 >>"
     {
-        "chi" "__null__"
+        "chi" "**跳刀审判 Lv.2**"
     }
 
     "<< wait for 20 seconds >>"

@@ -259,36 +259,43 @@
     "** PLAYER HAS PICKED UP CHAKRA **"
     {
         "chi" "**有忍者学会了医疗忍术 **"
+        "blocked"    "1"
     }
 
     "** PLAYER HAS PICKED UP FUTON **"
     {
         "chi" "**有忍者学会了风遁-压害 **"
+        "blocked"    "1"
     }
 
     "** PLAYER HAS PICKED UP KATON **"
     {
         "chi" "**有忍者学会了火遁-豪火球 **"
+        "blocked"    "1"
     }
 
     "** PLAYER HAS PICKED UP MOKUTON **"
     {
         "chi" "**有忍者学会了木遁-花树界降临 **"
+        "blocked"    "1"
     }
 
     "** PLAYER HAS PICKED UP RAITON **"
     {
         "chi" "**有忍者学会了雷遁-千鸟流**"
+        "blocked"    "1"
     }
 
     "** PLAYER HAS PICKED UP RASHOMON **"
     {
         "chi" "**有忍者学会了通灵术-五重罗生门 **"
+        "blocked"    "1"
     }
 
     "** PLAYER HAS PICKED UP SUITON **"
     {
         "chi" "**有忍者学会了水遁-水牢之术 **"
+        "blocked"    "1"
     }
 
     "** PRESS THE CRYSTAL TO ENABLE THE TELEPORT **"

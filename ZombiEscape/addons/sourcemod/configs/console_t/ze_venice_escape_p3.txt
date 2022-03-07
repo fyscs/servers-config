@@ -13,17 +13,17 @@
 
     "***1***"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     "***2***"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "***3***"
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     "***AFK Teleport in 45 seconds!***"
@@ -73,7 +73,7 @@
 
     "***Boat house bridge charges set for 15secs!*** "
     {
-        "chi" "__null__"
+        "chi" "房子的船15秒后离开"
     }
 
     "***Boat house door open!***"
@@ -83,7 +83,7 @@
 
     "***Bridge charges set for 15secs!*** "
     {
-        "chi" "__null__"
+        "chi" "木桥桥的船15秒后离开"
     }
 
     "***Escape Venice through the Grand Canal and to the Escape Island!***"
@@ -113,7 +113,7 @@
 
     "***Left bridge charges set for 15secs!*** "
     {
-        "chi" "__null__"
+        "chi" "剩余的木桥的船15秒后离开"
     }
 
     "***Lift 1 leaving in 10secs!***"

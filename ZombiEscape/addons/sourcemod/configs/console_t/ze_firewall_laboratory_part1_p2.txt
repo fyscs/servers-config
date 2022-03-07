@@ -63,72 +63,72 @@
 
     "ay ===100 seconds remaining to detonation==="
     {
-        "chi" "__null__"
+        "chi" "100秒后核爆"
     }
 
     "ay ===40 seconds remaining to detonation==="
     {
-        "chi" "__null__"
+        "chi" "40秒后核爆"
     }
 
     "ay ===50 seconds remaining to detonation==="
     {
-        "chi" "__null__"
+        "chi" "50秒后核爆"
     }
 
     "ay ===60 seconds remaining to detonation==="
     {
-        "chi" "__null__"
+        "chi" "60秒后核爆"
     }
 
     "ay ===70 seconds remaining to detonation==="
     {
-        "chi" "__null__"
+        "chi" "70秒后核爆"
     }
 
     "ay ===80 seconds remaining to detonation==="
     {
-        "chi" "__null__"
+        "chi" "80秒后核爆"
     }
 
     "ay ===90 seconds remaining to detonation==="
     {
-        "chi" "__null__"
+        "chi" "90秒后核爆"
     }
 
     "ay EMERGENCY WARNING===5 seconds remaining to detonation==="
     {
-        "chi" "__null__"
+        "chi" "紧急警告,5秒后核爆"
     }
 
     "ay WARNING--- BLAST DOORS CLOSING"
     {
-        "chi" "__null__"
+        "chi" "警告,防爆门关闭"
     }
 
     "ay WARNING! Facility emergency self-destruction sequence activated."
     {
-        "chi" "__null__"
+        "chi" "警告!设施自毁序列代码已激活"
     }
 
     "ay WARNING===10 seconds remaining to detonation==="
     {
-        "chi" "__null__"
+        "chi" "10秒后核爆"
     }
 
     "ay WARNING===20 seconds remaining to detonation==="
     {
-        "chi" "__null__"
+        "chi" "20秒后核爆"
     }
 
     "ay WARNING===30 seconds remaining to detonation==="
     {
-        "chi" "__null__"
+        "chi" "30秒后核爆"
     }
 
     "Cable Car leaving in 5 seconds!"
     {
-        "chi" "__null__"
+        "chi" "缆车5秒后发车"
     }
 
     "Door opening in 15 seconds..."
@@ -183,7 +183,7 @@
 
     "Map by FW -=LightningZLaser=-"
     {
-        "chi" "**地图制作:FW -=LightningZLaser=-	汉化:小三@风云社**"
+        "chi" "**地图制作:LightningZLaser 汉化:小三@風雲社**"
     }
 
     "Notice! <Insert Player Name Here> is going to heaven!"
@@ -208,57 +208,57 @@
 
     "say Detonation in >> 0 <<"
     {
-        "chi" "__null__"
+        "chi" "0"
     }
 
     "say Detonation in >> 1 <<"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     "say Detonation in >> 2 <<"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "say Detonation in >> 3 <<"
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     "say Detonation in >> 4 <<"
     {
-        "chi" "__null__"
+        "chi" "4"
     }
 
     "say Detonation in >> 5 <<"
     {
-        "chi" "__null__"
+        "chi" "blocked"    "1"
     }
 
     "say Detonation in 06"
     {
-        "chi" "__null__"
+        "chi" "6"
     }
 
     "say Detonation in 07"
     {
-        "chi" "__null__"
+        "chi" "7"
     }
 
     "say Detonation in 08"
     {
-        "chi" "__null__"
+        "chi" "8"
     }
 
     "say Detonation in 09"
     {
-        "chi" "__null__"
+        "chi" "9"
     }
 
     "say Detonation in 10"
     {
-        "chi" "__null__"
+        "chi" "10"
     }
 
     "WARNING- BLAST DOORS CLOSING"
@@ -288,7 +288,7 @@
 
     "www.FireWaLLCS.net/forums"
     {
-        "chi" "__null__"
+        "chi" "www.FireWaLLCS.net/forums"
     }
 
     "Zombies are blocked for 10 seconds!"

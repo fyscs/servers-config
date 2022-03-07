@@ -13,12 +13,12 @@
 
     "*** Admin switched to Act L4 and L5! ***"
     {
-        "chi" "__null__"
+        "chi" "**管理员切换第四和第五幕**"
     }
 
     "*** Admin switched to Act L6-L7! ***"
     {
-        "chi" "__null__"
+        "chi" "****管理员切换第六和第七幕****"
     }
 
     "***Gods Fire has been claimed***"
@@ -33,7 +33,7 @@
 
     "**10 Seconds**"
     {
-        "chi" "__null__"
+        "chi" "** 剩余10秒**"
     }
 
     "**10 SECONDS**"
@@ -43,7 +43,7 @@
 
     "**5 SECONDS**"
     {
-        "chi" "__null__"
+        "chi" "** 剩余5秒**"
     }
 
     "**Act L4 and L5 completed**"
@@ -188,7 +188,7 @@
 
     "**It's VIZ! **"
     {
-        "chi" "__null__"
+        "chi" "**是VIZ**"
     }
 
     "**Leiv: Heal my warriors and prepare to fight.**"
@@ -203,7 +203,7 @@
 
     "**Let's go to the teleporter, we need to shoot the core**"
     {
-        "chi" "__null__"
+        "chi" "****让我们去传送那里****"
     }
 
     "**Reach the teleporter**"
@@ -243,7 +243,7 @@
 
     "**Zombie teleport in 5 seconds//"
     {
-        "chi" "__null__"
+        "chi" "**僵尸5秒后传送**"
     }
 
 }

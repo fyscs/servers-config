@@ -28,7 +28,7 @@
 
     "# 40 SECONDS #"
     {
-        "chi" "__null__"
+        "chi" "**40秒**"
     }
 
     "# 5 SECONDS #"
@@ -73,7 +73,7 @@
 
     "# FINAL DOOR CLOSING IN 50 SECONDS #"
     {
-        "chi" "__null__"
+        "chi" "**最后一道门将在50秒后关闭 **"
     }
 
     "# FLAMETHROWER #"
@@ -88,7 +88,7 @@
 
     "# FLAMETHROWER RE-FUELED #"
     {
-        "chi" "__null__"
+        "chi" "**火焰喷射器燃料重装**"
     }
 
     "# GO GO #"
@@ -168,7 +168,7 @@
 
     "# NUKE IN 10 SECONDS #"
     {
-        "chi" "__null__"
+        "chi" "**10秒后核爆**"
     }
 
     "# PART 1 - ESCAPE! #"
@@ -208,12 +208,12 @@
 
     "# TRAM ARRIVED # "
     {
-        "chi" "__null__"
+        "chi" "**电车来了**"
     }
 
     "# TRAM IS LEAVING # "
     {
-        "chi" "__null__"
+        "chi" "**电车离开**"
     }
 
     "# TRAM ON ITS WAY #"
@@ -368,7 +368,7 @@
 
     "<!!!> MAP COMPLETED <!!!>"
     {
-        "chi" "__null__"
+        "chi" "**完成**"
     }
 
     "<!!!> MED COMPLETED <!!!>"

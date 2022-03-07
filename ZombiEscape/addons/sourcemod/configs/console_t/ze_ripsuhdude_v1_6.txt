@@ -33,7 +33,7 @@
 
     ">>> Dont let zombies enter the final room, DEFEND !"
     {
-        "chi" "__null__"
+        "chi" "**不要让僵尸进入最后的房间,防守!**"
     }
 
     ">>> DOOR IS NOW OPEN, SEND ONE GUY TO DODGE AND DISABLE THE LASERS ! <<<"
@@ -58,12 +58,12 @@
 
     ">>> Final Gate will close in 25 seconds, KEEP DEFENDING !!! <<<"
     {
-        "chi" "__null__"
+        "chi" "**最后的门25秒关闭,继续防守!!!**"
     }
 
     ">>> Final gate will close in 5 seconds!! GET BACK <<<"
     {
-        "chi" "__null__"
+        "chi" "****最后的门5秒关闭,继续防守!!!****"
     }
 
     ">>> Gate will open in 10 seconds <<<"
@@ -98,22 +98,22 @@
 
     ">>> Lasers disabled <<<"
     {
-        "chi" "__null__"
+        "chi" "**激光关闭**"
     }
 
     ">>> Someone needs to climb up and press the nuke <<<"
     {
-        "chi" "__null__"
+        "chi" "**需要有人去按下核弹**"
     }
 
     ">>> Zombie inside final room, slaying all in 3 seconds <<"
     {
-        "chi" "__null__"
+        "chi" "**僵尸进入最后的房间,3秒处死全体**"
     }
 
     ">>> Zombie Inside final room, slaying all in 3 seconds <<<"
     {
-        "chi" "__null__"
+        "chi" "**僵尸进入最后的房间,3秒处死全体**"
     }
 
     ">>> Zombies will teleport in 10 seconds"

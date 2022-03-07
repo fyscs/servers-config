@@ -1,13 +1,41 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "*** Infinite Ammo & Low Gravity ***"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "* 1 *"
     {
-        "chi" "无限子弹 & 低重力"
+        "chi" "1"
+        "blocked" "1"
+    }
+
+    "* 2 *"
+    {
+        "chi" "2"
+        "blocked" "1"
+    }
+
+    "* 3 *"
+    {
+        "chi" "3"
+    }
+
+    "* Boost Disabled *"
+    {
+        "chi" "加速板已关闭"
+    }
+
+    "* Boost Disabled in 10 sec *"
+    {
+        "chi" "10秒钟后关闭加速板"
     }
 
     "* Converted to High Gravity *"
@@ -25,79 +53,9 @@
         "chi" "爆头模式关闭"
     }
 
-    "* 1 *"
-    {
-        "blocked" "1"
-        "chi" "1"
-    }
-
-    "* 2 *"
-    {
-        "blocked" "1"
-        "chi" "2"
-    }
-
-    "* 3 *"
-    {
-        "chi" "3"
-    }
-
     "* Headshot Only Disabled in 10 sec *"
     {
         "chi" "10秒钟后关闭爆头模式"
-    }
-
-    "***> Fight! <***"
-    {
-        "chi" "冲!"
-    }
-
-    "*** Infinite Ammo ***"
-    {
-        "chi" "无限子弹"
-    }
-
-    "*** Auto BuunyHop & Infinite Ammo ***"
-    {
-        "chi" "自动连跳 & 无限子弹"
-    }
-
-    "*** Low Gravity ***"
-    {
-        "chi" "低重力"
-    }
-
-    "*** Auto BunnyHop ***"
-    {
-        "chi" "自动连跳"
-    }
-
-    "*> Map made by Dus?K <*"
-    {
-        "chi" "地图作者: Dus>K 地图汉化: 圣剑@风云社"
-    }
-
-    "*> Map helped by Nande? Ka[X]de! <*"
-    {
-        "chi" "地图由: Nande? Ka[X]de 协助完成!"
-    }
-
-    "*> Map Version : 7 <*"
-    {
-        "blocked" "1"
-        "chi" "> 地图版本: 7 <"
-    }
-
-    "*> Map tested by Revenant Server MG Users <*"
-    {
-        "blocked" "1"
-        "chi" "> 地图由: Revenant服务器MG玩家 测试 <"
-    }
-
-    "@[MAP] mg_Headshot_Machine_Multiarenas"
-    {
-        "blocked" "1"
-        "chi" "mg_Headshot_Machine_Multiarenas"
     }
 
     "* Knife Equipped *"
@@ -110,44 +68,29 @@
         "chi" "10秒钟后发放匕首"
     }
 
-    "* Boost Disabled *"
+    "*** AK-47 ***"
     {
-        "chi" "加速板已关闭"
+        "chi" "AK47"
     }
 
-    "* Boost Disabled in 10 sec *"
+    "*** AUG ***"
     {
-        "chi" "10秒钟后关闭加速板"
+        "chi" "AUG"
     }
 
-    "*** USP-S ***"
+    "*** Auto BunnyHop ***"
     {
-        "chi" "USP"
+        "chi" "自动连跳"
     }
 
-    "*** Glock-18 ***"
+    "*** Auto BuunyHop & Infinite Ammo ***"
     {
-        "chi" "glock"
+        "chi" "自动连跳 & 无限子弹"
     }
 
-    "*** P250 ***"
+    "*** AWP ***"
     {
-        "chi" "p250"
-    }
-
-    "*** Dual Berettas ***"
-    {
-        "chi" "双持贝瑞塔"
-    }
-
-    "*** Five-seveN ***"
-    {
-        "chi" "Five-seveN"
-    }
-
-    "*** Tec-9 ***"
-    {
-        "chi" "Tec-9"
+        "chi" "AWP"
     }
 
     "*** Desert Eagle ***"
@@ -155,24 +98,49 @@
         "chi" "沙鹰"
     }
 
-    "*** Nova ***"
+    "*** Dual Berettas ***"
     {
-        "chi" "新星"
+        "chi" "双持贝瑞塔"
     }
 
-    "*** XM1014 ***"
+    "*** FAMAS ***"
     {
-        "chi" "XM1014"
+        "chi" "FAMAS"
     }
 
-    "*** MAG-7 ***"
+    "*** Five-seveN ***"
     {
-        "chi" "MAG-7"
+        "chi" "Five-seveN"
     }
 
-    "*** Sawedoff ***"
+    "*** G3SG1 ***"
     {
-        "chi" "截断霰弹枪"
+        "chi" "G3SG1"
+    }
+
+    "*** Galil AR ***"
+    {
+        "chi" "Galil AR"
+    }
+
+    "*** Glock-18 ***"
+    {
+        "chi" "glock"
+    }
+
+    "*** Infinite Ammo & Low Gravity ***"
+    {
+        "chi" "无限子弹 & 低重力"
+    }
+
+    "*** Infinite Ammo ***"
+    {
+        "chi" "无限子弹"
+    }
+
+    "*** Low Gravity ***"
+    {
+        "chi" "低重力"
     }
 
     "*** M249 ***"
@@ -180,9 +148,14 @@
         "chi" "M249"
     }
 
-    "*** MP9 ***"
+    "*** M4A1-S ***"
     {
-        "chi" "MP9"
+        "chi" "M4A1-S"
+    }
+
+    "*** M4A4 ***"
+    {
+        "chi" "M4A4"
     }
 
     "*** MAC-10 ***"
@@ -190,14 +163,34 @@
         "chi" "MAC10"
     }
 
+    "*** MAG-7 ***"
+    {
+        "chi" "MAG-7"
+    }
+
     "*** MP7 ***"
     {
         "chi" "MP7"
     }
 
-    "*** UMP-45 ***"
+    "*** MP9 ***"
     {
-        "chi" "UMP-45"
+        "chi" "MP9"
+    }
+
+    "*** Negev ***"
+    {
+        "chi" "内格夫"
+    }
+
+    "*** Nova ***"
+    {
+        "chi" "新星"
+    }
+
+    "*** P250 ***"
+    {
+        "chi" "p250"
     }
 
     "*** P90 ***"
@@ -210,34 +203,14 @@
         "chi" "PP野牛"
     }
 
-    "*** FAMAS ***"
+    "*** Sawedoff ***"
     {
-        "chi" "FAMAS"
+        "chi" "截断霰弹枪"
     }
 
-    "*** Galil AR ***"
+    "*** SCAR-20 ***"
     {
-        "chi" "Galil AR"
-    }
-
-    "*** M4A4 ***"
-    {
-        "chi" "M4A4"
-    }
-
-    "*** M4A1-S ***"
-    {
-        "chi" "M4A1-S"
-    }
-
-    "*** AK-47 ***"
-    {
-        "chi" "AK47"
-    }
-
-    "*** AUG ***"
-    {
-        "chi" "AUG"
+        "chi" "SCAR-20"
     }
 
     "*** SG 556 ***"
@@ -250,24 +223,57 @@
         "chi" "SSG 08"
     }
 
-    "*** AWP ***"
+    "*** Tec-9 ***"
     {
-        "chi" "AWP"
+        "chi" "Tec-9"
     }
 
-    "*** SCAR-20 ***"
+    "*** UMP-45 ***"
     {
-        "chi" "SCAR-20"
+        "chi" "UMP-45"
     }
 
-    "*** G3SG1 ***"
+    "*** USP-S ***"
     {
-        "chi" "G3SG1"
+        "chi" "USP"
     }
 
-    "*** Negev ***"
+    "*** XM1014 ***"
     {
-        "chi" "内格夫"
+        "chi" "XM1014"
+    }
+
+    "***> Fight! <***"
+    {
+        "chi" "冲!"
+    }
+
+    "*> Map helped by Nande? Ka[X]de! <*"
+    {
+        "chi" "地图由: Nande? Ka[X]de 协助完成!"
+    }
+
+    "*> Map made by Dus?K <*"
+    {
+        "chi" "地图作者: Dus>K 地图汉化: 圣剑@风云社"
+    }
+
+    "*> Map tested by Revenant Server MG Users <*"
+    {
+        "chi" "> 地图由: Revenant服务器MG玩家 测试 <"
+        "blocked" "1"
+    }
+
+    "*> Map Version : 7 <*"
+    {
+        "chi" "> 地图版本: 7 <"
+        "blocked" "1"
+    }
+
+    "@[MAP] mg_Headshot_Machine_Multiarenas"
+    {
+        "chi" "mg_Headshot_Machine_Multiarenas"
+        "blocked" "1"
     }
 
 }

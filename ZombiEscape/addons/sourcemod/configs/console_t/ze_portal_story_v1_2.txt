@@ -13,32 +13,32 @@
 
     "> (RMG) Synopsis [pF] - special items help"
     {
-        "chi" "__null__"
+        "chi" "特别感谢Synopsis的神器指导"
     }
 
     "> Admin pressed the NEUROTOXIN button"
     {
-        "chi" "__null__"
+        "chi" "神经毒素释放"
     }
 
     "> Admin switched difficulty to EXTREME"
     {
-        "chi" "__null__"
+        "chi" "加载萌新司机难度"
     }
 
     "> Admin switched difficulty to HARD"
     {
-        "chi" "__null__"
+        "chi" "加载咸鱼难度"
     }
 
     "> Admin switched difficulty to NORMAL"
     {
-        "chi" "__null__"
+        "chi" "加载萌新难度"
     }
 
     "> Enviolinador - multiple things help"
     {
-        "chi" "__null__"
+        "chi" "感谢Enviolinador的全面指导"
     }
 
     "> JorisCeoen - models help"
@@ -108,17 +108,17 @@
 
     ">>> ALL COMPANION CUBES HAVE BEEN FOUND <<<"
     {
-        "chi" "__null__"
+        "chi" "已获得全部立方体"
     }
 
     ">>> ALL HUMANS ARE GETTING 250 HP AT GLaDOS ROOM ENTRANCE FOR THIS ROUND <<<"
     {
-        "chi" "__null__"
+        "chi" "HP + 250"
     }
 
     ">>> ALL HUMANS ARE GETTING FULL AMMO LOAD AT GLaDOS ROOM ENTRANCE FOR THIS ROUND <<<"
     {
-        "chi" "__null__"
+        "chi" "弹药 + MAX"
     }
 
     ">>> DESTROY THE TURRETS <<<"
@@ -143,7 +143,7 @@
 
     ">>> EXTREME MODE COMPLETED <<<"
     {
-        "chi" "__null__"
+        "chi" "司机难度完成"
     }
 
     ">>> GLaDOS IS DEAD <<<"
@@ -204,6 +204,7 @@
     ">>> HORIZONTAL LASERS ARE DISABLED FOR THIS ROUND <<<"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     ">>> It has a 40 Second cooldown and speeds humans up <<<"
@@ -218,7 +219,7 @@
 
     ">>> MOVING BACK TO NORMAL MODE <<<"
     {
-        "chi" "__null__"
+        "chi" "加载萌新难度"
     }
 
     ">>> MOVING ON TO EXTREME MODE <<<"
@@ -233,27 +234,29 @@
 
     ">>> NEUROTOXIN IN 1 MINUTE! <<<"
     {
-        "chi" ">>>神经毒素系统1分钟后启动!<<<"
+        "chi" ">>>神经毒素系统60秒后启动!<<<"
     }
 
     ">>> NEUROTOXIN IN 15 SECS! <<<"
     {
         "chi" ">>>15秒后神经毒素系统启动<<<"
+        "blocked"    "1"
     }
 
     ">>> NEUROTOXIN IN 2 MINUTE! <<<"
     {
-        "chi" ">>>神经毒素系统2分钟后启动!<<<"
+        "chi" ">>>神经毒素系统160秒后启动!<<<"
     }
 
     ">>> NEUROTOXIN IN 3 MINUTES! <<<"
     {
-        "chi" "__null__"
+        "chi" "神经毒素系统180秒后启动"
     }
 
     ">>> NEUROTOXIN IN 30 SECS! <<<"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     ">>> NEUROTOXIN IN 5 SECS! <<<"
@@ -268,17 +271,17 @@
 
     ">>> NEUROTOXIN SYSTEM ENABLED! NEUROTOXIN IN 3 MINUTES! <<<"
     {
-        "chi" ">>>神经毒素系统3分钟后启动!<<<"
+        "chi" ">>>神经毒素系统180秒后启动!<<<"
     }
 
     ">>> NEUROTOXIN SYSTEM ENABLED! NEUROTOXIN IN 4 MINUTES! <<<"
     {
-        "chi" "__null__"
+        "chi" "神经毒素系统240秒后启动"
     }
 
     ">>> NEUROTOXIN SYSTEMS ARE DELAYED FOR 30 SECONDS FOR THIS ROUND <<<"
     {
-        "chi" "__null__"
+        "chi" "神经毒素系统启用离线,正在修复"
     }
 
     ">>> NORMAL MODE COMPLETED <<<"
@@ -289,26 +292,31 @@
     ">>> PHYSICS BUG DETECTED! RESTART THE MAP IMMEDIATELY! <<<"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     ">>> PORTAL PLACERS ARE DISABLED FOR THIS ROUND <<<"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     ">>> Propulsion gel has been aquired <<<"
     {
         "chi" ">>>加速凝胶被拾取<<<"
+        "blocked"    "1"
     }
 
     ">>> Repulsion gel has been aquired <<<"
     {
         "chi" ">>>减速凝胶已拾取<<<"
+        "blocked"    "1"
     }
 
     ">>> ROCKET TURRET IS DISABLED FOR THIS ROUND <<<"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     ">>> SOLUTION FOUND <<<"
@@ -324,11 +332,13 @@
     ">>> VERTICAL LASERS ARE DISABLED FOR THIS ROUND <<<"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     ">>> ZE PORTAL STORY - EXTREME DIFFICULTY <<<"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     ">>> ZE PORTAL STORY - HARD DIFFICULTY <<<"

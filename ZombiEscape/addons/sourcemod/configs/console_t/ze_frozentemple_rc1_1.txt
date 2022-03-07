@@ -13,27 +13,27 @@
 
     "*** 1 ***"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     "*** 2 ***"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "*** 3 ***"
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     "*** 4 ***"
     {
-        "chi" "__null__"
+        "chi" "4"
     }
 
     "*** 5 ***"
     {
-        "chi" "__null__"
+        "chi" "blocked"    "1"
     }
 
     "*** BLANKET FREEZE ***"
@@ -53,7 +53,7 @@
 
     "*** DOOR OPENS IN 25 SECONDS ***"
     {
-        "chi" "__null__"
+        "chi" "**大门25秒后开启 **"
     }
 
     "*** DOOR OPENS IN 40 SECONDS ***"
@@ -113,7 +113,7 @@
 
     "*** OH WELL! WHATEVER IT IS IT'S GONE NOW! ***"
     {
-        "chi" "__null__"
+        "chi" "好吧!不管是什么,现在都不见了!"
     }
 
     "*** RESIST UNTIL SOMETHING HAPPENS ***"

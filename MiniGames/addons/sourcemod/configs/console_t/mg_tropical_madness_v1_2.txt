@@ -1,91 +1,104 @@
 "Console_T"
 {
-	"***Map created by Azet for GameBanana's CSGO Minigame Mapping Contest***"
-	{
-		"chi"		"__null__"
-	}
-	"***Random map will be selected in 30 seconds!***"
-	{
-		"chi"		"__null__"
-	}
-	"***Tropical Soccer selected***"
-	{
-		"chi"		"__null__"
-	}
-	"***Don't throw away your decoy! It helps you use Ice Cream weapon :)***"
-	{
-		"chi"		"__null__"
-	}
-	"***Mini Danger Zone selected***"
-	{
-		"chi"		"__null__"
-	}
-	"***Teleporting to Mini Danger Zone in 10 seconds!***"
-	{
-		"chi"		"__null__"
-	}
-	"***Please wear your parachute!***"
-	{
-		"chi"		"__null__"
-	}
-	"***Exosimon selected***"
-	{
-		"chi"		"__null__"
-	}
-	"***Teleporting to volcano in 10 seconds!***"
-	{
-		"chi"		"__null__"
-	}
-	"***Please wear your exojump boots!***"
-	{
-		"chi"		"__null__"
-	}
-	"***Volcano Volleyball selected***"
-	{
-		"chi"		"__null__"
-	}
-	"***Breach Charge Party selected***"
-	{
-		"chi"		"__null__"
-	}
-	"***Sentry Rampage selected***"
-	{
-		"chi"		"__null__"
-	}
-	"***Daring Escape selected***"
-	{
-		"chi"		"__null__"
-	}
-	"***Exosimon Starting in 10 seconds...***"
-	{
-		"chi"		"__null__"
-	}
-	"***Use ctrl+jump!***"
-	{
-		"chi"		"__null__"
-	}
-	"***Start!***"
-	{
-		"chi"		"__null__"
-	}
-	"***Fightyard Party selected***"
-	{
-		"chi"		"__null__"
-	}
-	"***Auto Select in 40 seconds***"
-	{
-		"chi"		"__null__"
-	}
-	"***Map by DTK Development Team***"
-	{
-		"chi"		"__null__"
-	}
-	"***Normal Round***"
-	{
-		"chi"		"__null__"
-	}
-	"Music : Just Jack - Basement"
-	{
-		"chi"		"__null__"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***Breach Charge Party selected***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Daring Escape selected***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Don't throw away your decoy! It helps you use Ice Cream weapon :)***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Exosimon selected***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Exosimon Starting in 10 seconds...***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Fightyard Party selected***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Map created by Azet for GameBanana's CSGO Minigame Mapping Contest***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Mini Danger Zone selected***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Please wear your exojump boots!***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Please wear your parachute!***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Random map will be selected in 30 seconds!***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Sentry Rampage selected***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Start!***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Teleporting to Mini Danger Zone in 10 seconds!***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Teleporting to volcano in 10 seconds!***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Tropical Soccer selected***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Use ctrl+jump!***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Volcano Volleyball selected***"
+    {
+        "chi" "__null__"
+    }
+
 }

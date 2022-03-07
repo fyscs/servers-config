@@ -14,16 +14,19 @@
     "***A JALAPENO HAS BEEN PICKED UP***"
     {
         "chi" "**牛角已被捡起(小喷火器) **"
+        "blocked"    "1"
     }
 
     "***A METAL ASS HAS BEEN PICKED UP***"
     {
         "chi" "**金属屁屁已被捡起(小推力枪) **"
+        "blocked"    "1"
     }
 
     "***A TOASTER HAS BEEN PICKED UP***"
     {
         "chi" "**烤面包已被捡起(击中定身) **"
+        "blocked"    "1"
     }
 
     "***BREAK THE BLOCKING METAL PIECE UNDERNEATH***"
@@ -63,7 +66,7 @@
 
     "***DOOR OPENING IN 20 SECONDS***"
     {
-        "chi" "__null__"
+        "chi" "大门20秒内开启"
     }
 
     "***DOOR OPENING IN 5 SECONDS***"
@@ -209,6 +212,7 @@
     "***SOME SOUR MILK HAS BEEN PICKED UP***"
     {
         "chi" "**酸牛奶已被捡起(小炸药桶) **"
+        "blocked"    "1"
     }
 
     "***SOMETHING IS BLOCKING THE LEVER***"
@@ -303,7 +307,7 @@
 
     "***UR***"
     {
-        "chi" "__null__"
+        "chi" "乌拉"
     }
 
     "***WAIT A SECOND...***"

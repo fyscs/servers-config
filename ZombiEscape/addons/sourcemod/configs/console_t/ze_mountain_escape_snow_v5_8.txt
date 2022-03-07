@@ -13,12 +13,12 @@
 
     "***1***"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     "***10 seconds left***"
     {
-        "chi" "__null__"
+        "chi" "还剩 10 秒"
     }
 
     "***10 SECONDS LEFT***"
@@ -28,7 +28,7 @@
 
     "***2***"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "***20 SECONDS LEFT***"
@@ -43,7 +43,7 @@
 
     "***30 seconds left***"
     {
-        "chi" "__null__"
+        "chi" "还剩 30 秒"
     }
 
     "***30 SECONDS LEFT***"
@@ -53,7 +53,7 @@
 
     "***4***"
     {
-        "chi" "__null__"
+        "chi" "4"
     }
 
     "***40 SECONDS LEFT***"
@@ -98,7 +98,7 @@
 
     "***ADMIN ENABLE ADDON MODE [FOG]***"
     {
-        "chi" "__null__"
+        "chi" "管理员启用插件模式 [雾]"
     }
 
     "***ADMIN ENABLE ADDON MODE [LOW FRICTION]***"
@@ -108,17 +108,19 @@
 
     "***ADMIN ENABLE ADDON MODE [LOW GRAVITY]***"
     {
-        "chi" "__null__"
+        "chi" "管理员启用插件模式 [低重力]"
     }
 
     "***Barrel picked up***"
     {
         "chi" "**桶已被拿起 **"
+        "blocked"    "1"
     }
 
     "***ChainSaw Picked up***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***CURRENT MODE >>>CUSTOM<<<***"
@@ -133,17 +135,19 @@
 
     "***For Balance, Please Do not use this Item***"
     {
-        "chi" "__null__"
+        "chi" "请不要使用此项目"
     }
 
     "***grenade picked up***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***Heal picked up***"
     {
         "chi" "**奶已被拿起 **"
+        "blocked"    "1"
     }
 
     "***Helicopter 1 explode in 3s***"
@@ -159,6 +163,7 @@
     "***Ice picked up***"
     {
         "chi" "**冰已被拿起 **"
+        "blocked"    "1"
     }
 
     "***Jump portal opened***"
@@ -184,31 +189,36 @@
     "***Player Picked up Pulse***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***Player picked up Radio***"
     {
         "chi" "**一位玩家拿起点歌机 **"
+        "blocked"    "1"
     }
 
     "***Snow picked up***"
     {
         "chi" "**泡泡已被拿起 **"
+        "blocked"    "1"
     }
 
     "***Speed picked up***"
     {
         "chi" "**加速已被拿起 **"
+        "blocked"    "1"
     }
 
     "***TRAIN EXPLODED***"
     {
-        "chi" "__null__"
+        "chi" "悄悄的告诉你,火车要爆炸了!"
     }
 
     "***Wall picked up***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***WARM UP ROUIND***"
@@ -219,101 +229,109 @@
     "***Wind picked up***"
     {
         "chi" "**风已被拿起 **"
+        "blocked"    "1"
     }
 
     "***Zombie picked up Freeze***"
     {
         "chi" "**一位僵尸拿起了僵尸冰冻 **"
+        "blocked"    "1"
     }
 
     "***Zombie picked up Gravity***"
     {
         "chi" "**一位僵尸拿起了黑洞 **"
+        "blocked"    "1"
     }
 
     "***Zombie picked up Jump***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***Zombie picked up Laser***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***Zombie picked up Nuke***"
     {
         "chi" "**僵尸核弹已被拿起 **"
+        "blocked"    "1"
     }
 
     "***Zombie picked up Pizza***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "***Zombie picked up Protector***"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "[MUSIC] An - TearVid"
     {
-        "chi" "__null__"
+        "chi" "[音乐]安 - TearVid"
     }
 
     "[MUSIC] Blue Stahli - Shotgun Senorita (Zardonic remix)"
     {
-        "chi" "__null__"
+        "chi" "[音乐]Blue Stahli - Shotgun Senorita (Zardonic remix)"
     }
 
     "[MUSIC] Cosmo@RunawayP - Oceanus"
     {
-        "chi" "__null__"
+        "chi" "[音乐]Cosmo@RunawayP - 海洋"
     }
 
     "[MUSIC] I'm Gonna Be - The Proclaimers Remix"
     {
-        "chi" "__null__"
+        "chi" "[音乐]I'm will to Be - The Proclarers Remix"
     }
 
     "[MUSIC] Jim Yosef - Link"
     {
-        "chi" "__null__"
+        "chi" "[音乐]Jim Yosef - Link"
     }
 
     "[MUSIC] Pendulum - Encoder"
     {
-        "chi" "__null__"
+        "chi" "[音乐]Pendulum - Encoder"
     }
 
     "[MUSIC] Pendulum - Vulture"
     {
-        "chi" "__null__"
+        "chi" "[音乐]Pendulum - Vulture"
     }
 
     "[MUSIC] Polysha - Ultimate Weapon pt. 2"
     {
-        "chi" "__null__"
+        "chi" "[音乐]Polysha - Ultimate Weapon pt. 2"
     }
 
     "[MUSIC] SYUNN - Megalara Garuda"
     {
-        "chi" "__null__"
+        "chi" "[音乐SYUNN - Megalara Garuda]"
     }
 
     "[MUSIC] TAG - GERBERA"
     {
-        "chi" "__null__"
+        "chi" "[音乐]TAG - GERBERA"
     }
 
     "[MUSIC] Tobu - Higher"
     {
-        "chi" "__null__"
+        "chi" "[音乐]Tobu - Higher"
     }
 
     "[MUSIC] WAiKURO - Androgynos"
     {
-        "chi" "__null__"
+        "chi" "[音乐]WAiKURO - Androgynos"
     }
 
 }

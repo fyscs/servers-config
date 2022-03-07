@@ -54,6 +54,7 @@
     "> LIGHTNING RIFLE has been acquired"
     {
         "chi" "__null__"
+        "blocked"    "1"
     }
 
     "> Map by SubDelt@"
@@ -88,7 +89,7 @@
 
     "> THE KILL ALL BUTTON HAS BEEN PRESSED! "
     {
-        "chi" "__null__"
+        "chi" "寄汤来咯"
     }
 
     "> Tip - You can do this by standing near the lever at the rear part of the vessel"
