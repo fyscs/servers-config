@@ -1,0 +1,42 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    
+    "Current Stage: PURPLE"
+    {
+        "chi" "** 章节: 「法则的降神」**"
+    }
+    "Special Thanks to Chrazini for those Beautiful Letters!"
+    {
+        "chi" "**非常感谢: Chrazini**"
+    }
+    "Current Music: Moon Halo"
+    {
+        "chi" "**[音乐] Moon Halo**"
+    }
+    "Current Stage: RED"
+    {
+        "chi" "**章节: 「净罪的殉仪」**"
+    }
+    "Current Stage: YELLOW"
+    {
+        "chi" "**章节: 「永劫的收束」**"
+    }
+    "Current Music: On A Good Day"
+    {
+        "chi" "**[音乐] On A Good Day**"
+    }
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "**地图摔伤已关闭**"
+    }
+
+}
