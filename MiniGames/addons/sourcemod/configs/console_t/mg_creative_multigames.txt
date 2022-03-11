@@ -23,7 +23,7 @@
 
     "* Draw - Knife enabled! * 60s or die"
     {
-        "chi" "__null__"
+        "chi" "平局 - 启用刀!* 60秒或死亡"
     }
 
     "* Empate - Cuchillo Activado! * 60s o muere"
@@ -43,7 +43,7 @@
 
     "** Auto MAP ** "
     {
-        "chi" "__null__"
+        "chi" "自动地图"
     }
 
     "*** Cuchillo Activado! ***"
@@ -53,22 +53,22 @@
 
     "*** El The map will begin within 5 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "地图将在5秒后开始"
     }
 
     "*** Ganado | Win -  m249 ***"
     {
-        "chi" "__null__"
+        "chi" "M249"
     }
 
     "*** Ganado/Win (AWP) ***"
     {
-        "chi" "__null__"
+        "chi" "AWP"
     }
 
     "*** GOOL BLUE TEAM WINS ***"
     {
-        "chi" "__null__"
+        "chi" "CT获胜"
     }
 
     "*** GOOL EQUIPO AZUL GANA ***"
@@ -83,372 +83,372 @@
 
     "*** GOOL RED TEAM WINS ***"
     {
-        "chi" "__null__"
+        "chi" "T获胜"
     }
 
     "*** Knife enabled! ***"
     {
-        "chi" "__null__"
+        "chi" "准备掏刀"
     }
 
     "*** Play ***"
     {
-        "chi" "__null__"
+        "chi" "GO"
     }
 
     "*** Ronda 3 Cuchillo Protecion off ***"
     {
-        "chi" "__null__"
+        "chi" "Ronda 3 Cuchillo关闭防护"
     }
 
     "*** Round 2 Balls ***"
     {
-        "chi" "__null__"
+        "chi" "第2回合球"
     }
 
     "*** Round 3 Knife Protecion off ***"
     {
-        "chi" "__null__"
+        "chi" "第三回合 刀拔掉"
     }
 
     "*** The mode selected: Aim Deagle - Knife ***"
     {
-        "chi" "__null__"
+        "chi" "选择游戏模式沙鹰-刀"
     }
 
     "*** The mode selected: Aim/Ak47 ***"
     {
-        "chi" "__null__"
+        "chi" "选择游戏模式AK-47"
     }
 
     "*** The mode selected: AWP 100hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:AWP 100hp"
     }
 
     "*** The mode selected: AWP 400hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:AWP 400hp"
     }
 
     "*** The mode selected: Balance ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式：平衡"
     }
 
     "*** The mode selected: Ball Prisoner ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:球囚"
     }
 
     "*** The mode selected: Battle ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:战斗"
     }
 
     "*** The mode selected: Billiards 500hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:台球 500HP"
     }
 
     "*** The mode selected: BUNNY ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:兔子"
     }
 
     "*** The mode selected: Canon Surft ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:冲浪"
     }
 
     "*** The mode selected: Cars Crash ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:车祸"
     }
 
     "*** The mode selected: CLIMB ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:攀爬"
     }
 
     "*** The mode selected: Comba ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:Comba"
     }
 
     "*** The mode selected: Cube/Dual ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:立体/双重"
     }
 
     "*** The mode selected: Cube/knife ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:方块/刀"
     }
 
     "*** The mode selected: Deagle 100hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:沙鹰 100hp"
     }
 
     "*** The mode selected: Deagle 200hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:沙鹰 200hp"
     }
 
     "*** The mode selected: Glass 100hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:玻璃 100hp"
     }
 
     "*** The mode selected: Glass 200hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:玻璃 200hp"
     }
 
     "*** The mode selected: Glass 300hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:玻璃 300hp"
     }
 
     "*** The mode selected: Glass 500hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:玻璃 500hp"
     }
 
     "*** The mode selected: Grenada ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:Grenada"
     }
 
     "*** The mode selected: Hockey Ice ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:冰球"
     }
 
     "*** The mode selected: House ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:房屋"
     }
 
     "*** The mode selected: ICE 100hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:ICE 100hp"
     }
 
     "*** The mode selected: ICE 16hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:ICE 16hp"
     }
 
     "*** The mode selected: Impulse in a circle MP5 ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:冲动的圆圈MP5"
     }
 
     "*** The mode selected: Infinite Life (Deagle) ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:无限生命(沙鹰)"
     }
 
     "*** The mode selected: Jump Knife 100hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:跳刀 100hp"
     }
 
     "*** The mode selected: Jump Knife 200hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:跳刀 200hp"
     }
 
     "*** The mode selected: Knife Exploit barrels with REG  ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:带红的刀子削桶"
     }
 
     "*** The mode selected: Knife Lava 100hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:熔岩刀战 100hp"
     }
 
     "*** The mode selected: Knife Lava 16hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:熔岩刀战 16hp"
     }
 
     "*** The mode selected: Knife Lava 200hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:熔岩刀战 200hp"
     }
 
     "*** The mode selected: Knife Lava 66hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:熔岩刀战 66hp"
     }
 
     "*** The mode selected: Knife/Break 100hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:刀具/破损 100hp"
     }
 
     "*** The mode selected: Knife/Break 16hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:刀具/破损 16hp"
     }
 
     "*** The mode selected: Knife/Break 200hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:刀具/破损 200hp"
     }
 
     "*** The mode selected: Knife/Break 66hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:刀具/破损 66hp"
     }
 
     "*** The mode selected: Labyrinth Dark  ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:黑暗迷宫"
     }
 
     "*** The mode selected: Lava/Run ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:熔岩跑步"
     }
 
     "*** The mode selected: M3 100hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:M3 100hp"
     }
 
     "*** The mode selected: M3 200hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:M3 200hp"
     }
 
     "*** The mode selected: Matrix - Galil ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:加利尔"
     }
 
     "*** The mode selected: Ninja vs Ninja ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:忍者对忍者"
     }
 
     "*** The mode selected: Paintball ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:彩弹射击"
     }
 
     "*** The mode selected: Pyramid 175hp Famas ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:金字塔175hp法玛斯"
     }
 
     "*** The mode selected: Race ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:竞速"
     }
 
     "*** The mode selected: SCOUT 100hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:SCOUT 100血"
     }
 
     "*** The mode selected: SCOUT 200hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:SCOUT 200血"
     }
 
     "*** The mode selected: Snowboard 190hp MAC ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:滑雪板190hp MAC"
     }
 
     "*** The mode selected: Soccer ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:足球"
     }
 
     "*** The mode selected: TASER 1hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:电击枪 1hp"
     }
 
     "*** The mode selected: TASER 400hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:电击枪 400hp"
     }
 
     "*** The mode selected: Taser Infinite ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:电击枪 无限"
     }
 
     "*** The mode selected: TOWER 100hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:塔楼 100hp"
     }
 
     "*** The mode selected: TOWER 200hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:塔楼 200hp"
     }
 
     "*** The mode selected: TOWER 300hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:塔楼 300hp"
     }
 
     "*** The mode selected: TOWER 500hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:塔楼 500hp"
     }
 
     "*** The mode selected: Trampoline ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:蹦床"
     }
 
     "*** The mode selected: UMP45 - Speed - Gravity - HP 300 ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:UMP45 - 速度 - 重力 - HP 300"
     }
 
     "*** The mode selected: VolleyBall ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:排球"
     }
 
     "*** The mode selected: War of Boats 200hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:船战 200hp"
     }
 
     "*** The mode selected: War of Boats 400hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:船战 400hp"
     }
 
     "*** The mode selected: WaterPolo ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:水球"
     }
 
     "*** The mode selected: Weapons AK/M4 125hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:武器AK/M4 125hp"
     }
 
     "*** The mode selected: Weapons AUG/SIG 200hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:武器AUG/SIG 200hp"
     }
 
     "*** The mode selected: Weapons Mag7 66hp ***"
     {
-        "chi" "__null__"
+        "chi" "所选模式:武器Mag7 66hp"
     }
 
     "*Cuchillo/Knife - ON *"
@@ -513,27 +513,27 @@
 
     "AutoMode: * Speed * Bridge: OFF"
     {
-        "chi" "__null__"
+        "chi" "自动模式.* 速度 *桥接.关闭"
     }
 
     "AutoMode: * Velocidad * Puente: OFF"
     {
-        "chi" "__null__"
+        "chi" "自动模式：*速度*桥梁.关闭"
     }
 
     "AutoMode: 200 hp"
     {
-        "chi" "__null__"
+        "chi" "自动模式:200hp"
     }
 
     "AutoMode: Normal"
     {
-        "chi" "__null__"
+        "chi" "自动模式:正常"
     }
 
     "AutoMode: Only (HeadShot) Bridge: OFF"
     {
-        "chi" "__null__"
+        "chi" ""
     }
 
     "AutoMode: Solo (HeadShot) Puente: OFF"
@@ -553,7 +553,7 @@
 
     "Map by $p@w!"
     {
-        "chi" "__null__"
+        "chi" "地图由$p@w制作"
     }
 
 }
