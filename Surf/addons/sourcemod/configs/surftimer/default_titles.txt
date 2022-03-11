@@ -1,0 +1,14 @@
+// Assign default titles to be enforced here
+// Make sure ck_enforce_default_titles is set to above 0
+//
+// Accepts "steamid" or "flag"
+// SteamIDs must be in STEAM_1:X:YYYYYYYYY format (SteamID32)
+// "type" can be "chat", "scoreboard" or "both" to change where the title will display, default is both
+// Note: The first match for either a steamid or flag is what title will be assigned
+//
+// Available colors: {default}, {red}, {lightred}, {darkred}, {bluegray}, {blue}, {darkblue}, {purple}, {orchid}, {yellow}, {gold}, {lightgreen}, {green}, {lime}, {gray}, {gray2}
+
+"Default Titles"
+{
+
+}
