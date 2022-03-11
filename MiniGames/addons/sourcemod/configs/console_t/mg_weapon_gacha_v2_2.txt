@@ -13,87 +13,87 @@
 
     "-->  1  <--"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     "-->  1  <---"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     "-->  2  <--"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "-->  2  <---"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     "-->  3  <--"
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     "-->  3  <---"
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     "--> !!!Teleport Error!!!  <---"
     {
-        "chi" "__null__"
+        "chi" "传送错误!!!"
     }
 
     "--> !!Teleport Error!!  <---"
     {
-        "chi" "__null__"
+        "chi" "传送错误!!!"
     }
 
     "--> !Teleport Error!  <---"
     {
-        "chi" "__null__"
+        "chi" "传送错误!!!"
     }
 
     "--> 10 seconds. <--"
     {
-        "chi" "__null__"
+        "chi" "10秒"
     }
 
     "--> Round restart after 10 seconds.  <--"
     {
-        "chi" "__null__"
+        "chi" "10秒后重新开始回合"
     }
 
-    "--> Round restart after 20 seconds.  <--"
+    "--> Round restart after 15 seconds.  <--"
     {
-        "chi" "__null__"
+        "chi" "20秒后重新开始回合"
     }
 
     "--> Round restart after 5 seconds.  <--"
     {
-        "chi" "__null__"
+        "chi" "5秒后重新开始回合"
     }
 
     "--> Setting new teleport destination.  <---"
     {
-        "chi" "__null__"
+        "chi" "设置新的传送目的地"
     }
 
     "--> Someone picked up C4 <--"
     {
-        "chi" "__null__"
+        "chi" "有人捡到了C4"
     }
 
     "--> Teleporting in...  <---"
     {
-        "chi" "__null__"
+        "chi" "远距离传输中..."
     }
 
     "--> Teleporting.... <--"
     {
-        "chi" "__null__"
+        "chi" "远距传输...."
     }
 
 }
