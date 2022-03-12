@@ -1,14 +1,15 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "| Door opens in 35 seconds |"
-    {
-        "chi" "**门在35秒打开 **"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
 
     "| 5 seconds left |"
     {
@@ -30,6 +31,11 @@
         "chi" "**门在25秒后打开 **"
     }
 
+    "| Door opens in 35 seconds |"
+    {
+        "chi" "**门在35秒打开 **"
+    }
+
     "| Final door opens in 10 seconds |"
     {
         "chi" "**最后的门在10秒后打开 **"
@@ -43,6 +49,7 @@
     "| Player has picked up shockwave |"
     {
         "chi" "**有玩家拾取了冲击波 **"
+        "blocked"    "1"
     }
 
 }

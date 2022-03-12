@@ -1,34 +1,54 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    ">> ZE_ERROR <<"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** Opening door... wait**"
     {
-        "chi" "**错误大逃亡   翻译: 没见过菜鸡啊@风云社**"
+        "chi" "**大门正在开启**"
     }
 
-    ">>ERROR<<"
+    ">> 15 SECONDS <<"
     {
-        "chi" "**错误**"
+        "chi" "**15s**"
     }
 
-    ">>ERROR<<"
+    ">> 5 SECONDS <<"
     {
-        "chi" "**错误**"
+        "chi" "**5s**"
     }
 
-    ">>3<<"
+    ">> GO GO <<"
     {
-        "chi" "**3s**"
+        "chi" "**溜了**"
     }
 
-    ">>2<<"
+    ">> MISSION: AIRTEST <<"
     {
-        "chi" "**2s**"
+        "chi" "**目标: AIRTESE**"
     }
 
-    ">>1<<"
+    ">> MISSION: DEJAB? <<"
     {
-        "chi" "**1s**"
+        "chi" "**目标: DEJAB?**"
+    }
+
+    ">> RESIST 30 SECONDS <<"
+    {
+        "chi" "**防守30秒**"
+    }
+
+    ">> RESIST 40 SECONDS <<"
+    {
+        "chi" "**防守40秒**"
     }
 
     ">> RESIST HERE <<"
@@ -38,87 +58,32 @@
 
     ">> RESIST HERE 25 SECONDS <<"
     {
-        "chi" "**防守25秒**"
-    }
-
-    ">> 15 SECONDS <<"
-    {
-        "chi" "**15s**"
-    }
-
-    ">> 5 SECONDS <<"
-    {
-        "chi" "**5s**"
-    }
-
-    ">> RESIST HERE 25 SECONDS <<"
-    {
         "chi" "**防守25s**"
     }
 
-    ">> 15 SECONDS <<"
+    ">> ZE_ERROR <<"
     {
-        "chi" "**15s**"
+        "chi" "**错误大逃亡   翻译: 没见过菜鸡啊@风云社**"
     }
 
-    ">> 5 SECONDS <<"
+    ">>1<<"
     {
-        "chi" "**5s**"
+        "chi" "**1s**"
     }
 
-    ">> MISSION: DEJAB? <<"
+    ">>2<<"
     {
-        "chi" "**目标: DEJAB?**"
+        "chi" "**2s**"
     }
 
-    ">> MISSION: AIRTEST <<"
+    ">>3<<"
     {
-        "chi" "**目标: AIRTESE**"
+        "chi" "**3s**"
     }
 
-    "** Opening door... wait**"
+    ">>ERROR<<"
     {
-        "chi" "**大门正在开启...别急**"
-    }
-
-    ">> GO GO <<"
-    {
-        "chi" "**咕了**"
-    }
-
-    ">> RESIST 30 SECONDS <<"
-    {
-        "chi" "**防守30秒**"
-    }
-
-    "** Opening door... wait**"
-    {
-        "chi" "**大门正在开启**"
-    }
-
-    ">> RESIST 30 SECONDS <<"
-    {
-        "chi" "**防守30秒**"
-    }
-
-    ">> GO GO <<"
-    {
-        "chi" "**咕咕咕**"
-    }
-
-    "** Opening door... wait**"
-    {
-        "chi" "**大门正在开启**"
-    }
-
-    ">> RESIST 40 SECONDS <<"
-    {
-        "chi" "**防守40秒**"
-    }
-
-    ">> GO GO <<"
-    {
-        "chi" "**溜了**"
+        "chi" "**错误**"
     }
 
 }

@@ -1,368 +1,404 @@
 "Console_T"
 {
-	"# WARM UP ROUND #"
-	{
-		"chi"		"**热身赛 **"
-	}
-	"# RETURN TO CASTLE WOLFENSTEIN #"
-	{
-		"chi"		"**重返德军总部**"
-	}
-	"# MAP BY JB_GAMBLE #"
-	{
-		"chi"		"**地图作者:JB_GAMBLE  汉化:小三@风云社**"
-	}
-	"# MISSION 1 - OMINOUS RUMORS #"
-	{
-		"chi"		"**任务:不详的谣言**"
-	}
-	"# PART 1 - ESCAPE! #"
-	{
-		"chi"		"**第一关: 逃脱**"
-	}
-	"<!!!> HOLD THIS POSITION <!!!>"
-	{
-		"chi"		"**在这个位置防守僵尸**"
-	}
-	"<!!!> GATE OPEN <!!!>"
-	{
-		"chi"		"**门开了**"
-	}
-	"<!!!> FALL BACK <!!!>"
-	{
-		"chi"		"**撤退**"
-	}
-	"<!!!> DOOR OPEN <!!!>"
-	{
-		"chi"		"**大门打开**"
-	}
-	"<!!!> HOLD HERE <!!!>"
-	{
-		"chi"		"**守住这里**"
-	}
-	"# BLACK MAGIC #"
-	{
-		"chi"		"**古娜拉黑暗魔法**"
-	}
-	"<!!!> FINAL DOOR CLOSING IN <!!!>"
-	{
-		"chi"		"**最后一道门要关闭了**"
-	}
-	"<!!!> 40 SECONDS <!!!>"
-	{
-		"chi"		"**40秒**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"<!!!> 30 SECONDS <!!!>"
-	{
-		"chi"		"**30秒**"
-	}
-	"<!!!> 20 SECONDS <!!!>"
-	{
-		"chi"		"**20秒**"
-	}
-	"<!!!> 10 SECONDS <!!!>"
-	{
-		"chi"		"**10秒**"
-	}
-	"<!!!> 5 SECONDS <!!!>"
-	{
-		"chi"		"**5秒**"
-	}
-	"<!!!> ZOMBIE'S DETECTED - YOU LOSE <!!!>"
-	{
-		"chi"		"**检测到僵尸,人类失败!**"
-	}
-	"<!!!> PART 1 - ESCAPE! PASSED <!!!>"
-	{
-		"chi"		"**人类胜利**"
-	}
-	"# PART 2 - CASTLE KEEP #"
-	{
-		"chi"		"**第二关:德意志魔仙堡**"
-	}
-	"# HOLD HERE #"
-	{
-		"chi"		"**守住这里**"
-	}
-	"<!!!> ACTIVATE LEVER <!!!>"
-	{
-		"chi"		"**激活杠杆**"
-	}
-	"# 10 SECONDS #"
-	{
-		"chi"		"**10秒**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"<!!!> GO GO GO <!!!>"
-	{
-		"chi"		"**撤退**"
-	}
-	"<!!!> UP THE STAIRS <!!!>"
-	{
-		"chi"		"**往螺旋楼梯上方走**"
-	}
-	"# HOLD THIS POSITION #"
-	{
-		"chi"		"**在这里防守僵尸**"
-	}
-	"# PRESS BUTTON #"
-	{
-		"chi"		"**按下按扭**"
-	}
-	"<!!!> GATE OPEN IN 20 SECONDS <!!!>"
-	{
-		"chi"		"**闸门20秒后打开**"
 
-	}
-	"<!!!> GO LEFT <!!!>"
-	{
-		"chi"		"**向左走**"
-	}
-	"# UNLIMITED AMMO #"
-	{
-		"chi"		"**无限子弹**"
-	}
-	"# UNLIMITED AMMO - 14 SECONDS #"
-	{
-		"chi"		"**无限子弹:14秒**"
-	}
-	"<!!!> DOOR CLOSING IN 15 SECONDS <!!!>"
-	{
-		"chi"		"**门将在5秒后关闭**"
+    "# 10 SECONDS #"
+    {
+        "chi" "**10秒**"
+    }
 
-	}
-	"<!!!> DEFEND THIS POSITION <!!!>"
-	{
-		"chi"		"**守住这个位置**"
-	}
-	"<!!!> PART 2 - CASTLE KEEP PASSED <!!!>"
-	{
-		"chi"		"**人类胜利**"
-	}
-	"# PART 3 - TRAM RIDE #"
-	{
-		"chi"		"**第三关:电车之狼**"
-	}
-	"# TRAM ON ITS WAY #"
-	{
-		"chi"		"**电车正在赶来**"
-	}
-	"# TRAM ARRIVED #"
-	{
-		"chi"		"**电车抵达**"
-	}
-	"# TRAM IS LEAVING #"
-	{
-		"chi"		"**电车正在离开**"
-	}
-	"# HOLD TRAM #"
-	{
-		"chi"		"**守住电车**"
-	}
-	"# TRAM START IN 20 SECONDS #"
-	{
-		"chi"		"**电车20秒后重新出发**"
+    "# 20 SECONDS #"
+    {
+        "chi" "**最后一道门将在20秒后关闭**"
+    }
 
-	}
-	"# DOOR OPEN IN 20 SECONDS #"
-	{
-		"chi"		"**门20秒后打开**"
+    "# 30 SECONDS #"
+    {
+        "chi" "**最后一道门将在30秒后关闭**"
+    }
 
-	}
-	"# DOOR OPEN #"
-	{
-		"chi"		"**门开了**"
-	}
-	"# TORCH #"
-	{
-		"chi"		"**火炬**"
-	}
-	"# FINAL DOOR CLOSING IN 20 SECONDS #"
-	{
-		"chi"		"**最后一道门将在20秒后关闭**"
+    "# 40 SECONDS #"
+    {
+        "chi" "**40秒**"
+    }
 
-	}
-	"# 5 SECONDS #"
-	{
-		"chi"		"**最后一道门将在5秒后关闭**"
-	}
-	"<!!!> PART 3 - TRAM RIDE PASSED <!!!>"
-	{
-		"chi"		"**人类胜利**"
-	}
-	"<!!!> EASY COMPLETED <!!!>"
-	{
-		"chi"		"**轻松完成**"
-	}
-	"# SANDBAG WALL #"
-	{
-		"chi"		"**沙袋墙**"
-	}
-	"# MAGIC - FOG #"
-	{
-		"chi"		"**古娜拉暗黑魔法烟雾**"
-	}
-	"# VENT OPEN IN 15 SECONDS #"
-	{
-		"chi"		"**排气管道将15秒后打开 **"
-	}
-	"# VENT OPEN #"
-	{
-		"chi"		"**排气管道打开了**"
-	}
-	"# FINAL DOOR CLOSING IN 40 SECONDS #"
-	{
-		"chi"		"**最后一道门将在40秒后关闭 **"
+    "# 5 SECONDS #"
+    {
+        "chi" "**最后一道门将在5秒后关闭**"
+    }
 
-	}
-	"# 30 SECONDS #"
-	{
-		"chi"		"**最后一道门将在30秒后关闭**"
-	}
-	"# 20 SECONDS #"
-	{
-		"chi"		"**最后一道门将在20秒后关闭**"
-	}
-	"<!!!> MED COMPLETED <!!!>"
-	{
-		"chi"		"**完成**"
-	}
-	"# ITEM RESTRICTION - BLACK MAGIC #"
-	{
-		"chi"		"**限制:古娜拉黑暗魔法**"
-	}
-	"<!!!> 60 SECONDS <!!!>"
-	{
-		"chi"		"**还剩60秒**"
+    "# BAZOOKA #"
+    {
+        "chi" "**火箭炮**"
+    }
 
-	}
-	"<!!!> 50 SECONDS <!!!>"
-	{
-		"chi"		"**还剩50秒**"
-	}
-	"# ITEM RESTRICTION - BAZOOKA #"
-	{
-		"chi"		"**限制项目:火箭炮**"
-	}
-	"# ITEM RESTRICTION - SANDBAG WALL #"
-	{
-		"chi"		"**限制项目:沙袋墙**"
-	}
-	"# MAGIC - FREEZE #"
-	{
-		"chi"		"**古娜拉黑暗秘法-魔法冻结**"
-	}
-	"^^^ Map By: BillSmauz ^^^"
-	{
-		"chi"		"**地图作者:BillSmauz**"
-	}
-	"# BAZOOKA #"
-	{
-		"chi"		"**火箭炮**"
-	}
-	"# MG42 AMMO #"
-	{
-		"chi"		"**MG42机枪弹药装载**"
-	}
-	"# MG42 AMMO LOADED #"
-	{
-		"chi"		"**MG42机枪部署完毕**"
-	}
-	"# FLAMETHROWER #"
-	{
-		"chi"		"**火焰喷射器**"
-	}
-	"# FLAMETHROWER EMPTY #"
-	{
-		"chi"		"**火焰喷射器燃气用完了**"
-	}
-	"*** Map by : Airvulpes ***"
-	{
-		"chi"		"**地图作者:Airvulpes**"
-	}
-	"# ITEM RESTRICTION - UNLIMITED AMMO #"
-	{
-		"chi"		"**限制:无限弹药**"
-	}
-	"<!!!> GATE OPEN IN 30 SECONDS <!!!>"
-	{
-		"chi"		"**闸门30秒后打开**"
+    "# BLACK MAGIC #"
+    {
+        "chi" "**古娜拉黑暗魔法**"
+    }
 
-	}
-	"# FALL BACK - DOOR #"
-	{
-		"chi"		"**从门那里撤退**"
+    "# DOOR OPEN #"
+    {
+        "chi" "**门开了**"
+    }
 
-	}
-	"# TURN TRAM POWER ON #"
-	{
-		"chi"		"**电车开关被触发**"
-	}
-	"# GO GO #"
-	{
-		"chi"		"**撤退**"
-	}
-	"# TRAM START IN 30 SECONDS #"
-	{
-		"chi"		"**电车将在30秒后离开**"
+    "# DOOR OPEN IN 20 SECONDS #"
+    {
+        "chi" "**门20秒后打开**"
+    }
 
-	}
-	"# FINAL DOOR CLOSING IN 50 SECONDS #"
-	{
-		"chi"		"** **"
+    "# FALL BACK - DOOR #"
+    {
+        "chi" "**从门那里撤退**"
+    }
 
-	}
-	"# 40 SECONDS #"
-	{
-		"chi"		"** **"
-	}
-	"<!!!> MAP COMPLETED <!!!>"
-	{
-		"chi"		"** **"
-	}
-	"<!!!> ZOMBIES DETECTED - YOU LOSE <!!!>"
-	{
-		"chi"		"** **"
-	}
-	"# ITEM RESTRICTION - FLAMETHROWER #"
-	{
-		"chi"		"**限制:喷火器**"
-	}
-	"[NORMAL MODE]"
-	{
-		"chi"		"** **"
-	}
-	"**ZE_DARK_SOULS**"
-	{
-		"chi"		"** **"
-	}
-	"***Adjust the volume in your music settings or via snd_musicvolume***"
-	{
-		"chi"		"** **"
-	}
-	"** MAP MADE BY PURPZZ ** Rebuild by Skullz **"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"** **"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"** **"
-	}
-	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
-	{
-		"chi"		"** **"
-	}
-	"+++  MAP MADE BY GARGANTUA +++"
-	{
-		"chi"		"** **"
-	}
-	"***STAGE 1 -- THE SHIP***"
-	{
-		"chi"		"** **"
-	}
+    "# FINAL DOOR CLOSING IN 20 SECONDS #"
+    {
+        "chi" "**最后一道门将在20秒后关闭**"
+    }
+
+    "# FINAL DOOR CLOSING IN 40 SECONDS #"
+    {
+        "chi" "**最后一道门将在40秒后关闭 **"
+    }
+
+    "# FINAL DOOR CLOSING IN 50 SECONDS #"
+    {
+        "chi" "**最后一道门将在50秒后关闭 **"
+    }
+
+    "# FLAMETHROWER #"
+    {
+        "chi" "**火焰喷射器**"
+    }
+
+    "# FLAMETHROWER EMPTY #"
+    {
+        "chi" "**火焰喷射器燃气用完了**"
+    }
+
+    "# FLAMETHROWER RE-FUELED #"
+    {
+        "chi" "**火焰喷射器燃料重装**"
+    }
+
+    "# GO GO #"
+    {
+        "chi" "**撤退**"
+    }
+
+    "# HOLD HERE #"
+    {
+        "chi" "**守住这里**"
+    }
+
+    "# HOLD THIS POSITION #"
+    {
+        "chi" "**在这里防守僵尸**"
+    }
+
+    "# HOLD TRAM #"
+    {
+        "chi" "**守住电车**"
+    }
+
+    "# ITEM RESTRICTION - BAZOOKA #"
+    {
+        "chi" "**限制项目:火箭炮**"
+    }
+
+    "# ITEM RESTRICTION - BLACK MAGIC #"
+    {
+        "chi" "**限制:古娜拉黑暗魔法**"
+    }
+
+    "# ITEM RESTRICTION - FLAMETHROWER #"
+    {
+        "chi" "**限制:喷火器**"
+    }
+
+    "# ITEM RESTRICTION - SANDBAG WALL #"
+    {
+        "chi" "**限制项目:沙袋墙**"
+    }
+
+    "# ITEM RESTRICTION - UNLIMITED AMMO #"
+    {
+        "chi" "**限制:无限弹药**"
+    }
+
+    "# MAGIC - FOG #"
+    {
+        "chi" "**古娜拉暗黑魔法烟雾**"
+    }
+
+    "# MAGIC - FREEZE #"
+    {
+        "chi" "**古娜拉黑暗秘法-魔法冻结**"
+    }
+
+    "# MAP BY JB_GAMBLE #"
+    {
+        "chi" "**地图作者:JB_GAMBLE  汉化:小三@风云社**"
+    }
+
+    "# MG42 AMMO #"
+    {
+        "chi" "**MG42机枪弹药装载**"
+    }
+
+    "# MG42 AMMO LOADED #"
+    {
+        "chi" "**MG42机枪部署完毕**"
+    }
+
+    "# MISSION 1 - OMINOUS RUMORS #"
+    {
+        "chi" "**任务:不详的谣言**"
+    }
+
+    "# NUKE IN 10 SECONDS #"
+    {
+        "chi" "**10秒后核爆**"
+    }
+
+    "# PART 1 - ESCAPE! #"
+    {
+        "chi" "**第一关: 逃脱**"
+    }
+
+    "# PART 2 - CASTLE KEEP #"
+    {
+        "chi" "**第二关:德意志魔仙堡**"
+    }
+
+    "# PART 3 - TRAM RIDE #"
+    {
+        "chi" "**第三关:电车之狼**"
+    }
+
+    "# PRESS BUTTON #"
+    {
+        "chi" "**按下按扭**"
+    }
+
+    "# RETURN TO CASTLE WOLFENSTEIN #"
+    {
+        "chi" "**重返德军总部**"
+    }
+
+    "# SANDBAG WALL #"
+    {
+        "chi" "**沙袋墙**"
+    }
+
+    "# TORCH #"
+    {
+        "chi" "**火炬**"
+    }
+
+    "# TRAM ARRIVED # "
+    {
+        "chi" "**电车来了**"
+    }
+
+    "# TRAM IS LEAVING # "
+    {
+        "chi" "**电车离开**"
+    }
+
+    "# TRAM ON ITS WAY #"
+    {
+        "chi" "**电车正在赶来**"
+    }
+
+    "# TRAM START IN 20 SECONDS #"
+    {
+        "chi" "**电车20秒后重新出发**"
+    }
+
+    "# TRAM START IN 30 SECONDS #"
+    {
+        "chi" "**电车将在30秒后离开**"
+    }
+
+    "# TURN TRAM POWER ON #"
+    {
+        "chi" "**电车开关被触发**"
+    }
+
+    "# UNLIMITED AMMO - 14 SECONDS #"
+    {
+        "chi" "**无限子弹:14秒**"
+    }
+
+    "# UNLIMITED AMMO #"
+    {
+        "chi" "**无限子弹**"
+    }
+
+    "# VENT OPEN #"
+    {
+        "chi" "**排气管道打开了**"
+    }
+
+    "# VENT OPEN IN 15 SECONDS #"
+    {
+        "chi" "**排气管道将15秒后打开 **"
+    }
+
+    "# WARM UP ROUND #"
+    {
+        "chi" "**热身赛 **"
+    }
+
+    "<!!!> 10 SECONDS <!!!>"
+    {
+        "chi" "**10秒**"
+    }
+
+    "<!!!> 20 SECONDS <!!!>"
+    {
+        "chi" "**20秒**"
+    }
+
+    "<!!!> 30 SECONDS <!!!>"
+    {
+        "chi" "**30秒**"
+    }
+
+    "<!!!> 40 SECONDS <!!!>"
+    {
+        "chi" "**40秒**"
+    }
+
+    "<!!!> 5 SECONDS <!!!>"
+    {
+        "chi" "**5秒**"
+    }
+
+    "<!!!> 50 SECONDS <!!!>"
+    {
+        "chi" "**还剩50秒**"
+    }
+
+    "<!!!> 60 SECONDS <!!!>"
+    {
+        "chi" "**还剩60秒**"
+    }
+
+    "<!!!> ACTIVATE LEVER <!!!>"
+    {
+        "chi" "**激活杠杆**"
+    }
+
+    "<!!!> DEFEND THIS POSITION <!!!>"
+    {
+        "chi" "**守住这个位置**"
+    }
+
+    "<!!!> DOOR CLOSING IN 15 SECONDS <!!!>"
+    {
+        "chi" "**门将在5秒后关闭**"
+    }
+
+    "<!!!> DOOR OPEN <!!!>"
+    {
+        "chi" "**大门打开**"
+    }
+
+    "<!!!> EASY COMPLETED <!!!>"
+    {
+        "chi" "**轻松完成**"
+    }
+
+    "<!!!> FALL BACK <!!!>"
+    {
+        "chi" "**撤退**"
+    }
+
+    "<!!!> FINAL DOOR CLOSING IN <!!!>"
+    {
+        "chi" "**最后一道门要关闭了**"
+    }
+
+    "<!!!> GATE OPEN <!!!>"
+    {
+        "chi" "**门开了**"
+    }
+
+    "<!!!> GATE OPEN IN 20 SECONDS <!!!>"
+    {
+        "chi" "**闸门20秒后打开**"
+    }
+
+    "<!!!> GATE OPEN IN 30 SECONDS <!!!>"
+    {
+        "chi" "**闸门30秒后打开**"
+    }
+
+    "<!!!> GO GO GO <!!!>"
+    {
+        "chi" "**撤退**"
+    }
+
+    "<!!!> GO LEFT <!!!>"
+    {
+        "chi" "**向左走**"
+    }
+
+    "<!!!> HOLD HERE <!!!>"
+    {
+        "chi" "**守住这里**"
+    }
+
+    "<!!!> HOLD THIS POSITION <!!!>"
+    {
+        "chi" "**在这个位置防守僵尸**"
+    }
+
+    "<!!!> MAP COMPLETED <!!!>"
+    {
+        "chi" "**完成**"
+    }
+
+    "<!!!> MED COMPLETED <!!!>"
+    {
+        "chi" "**完成**"
+    }
+
+    "<!!!> PART 1 - ESCAPE! PASSED <!!!>"
+    {
+        "chi" "**人类胜利**"
+    }
+
+    "<!!!> PART 2 - CASTLE KEEP PASSED <!!!>"
+    {
+        "chi" "**人类胜利**"
+    }
+
+    "<!!!> PART 3 - TRAM RIDE PASSED <!!!>"
+    {
+        "chi" "**人类胜利**"
+    }
+
+    "<!!!> UP THE STAIRS <!!!>"
+    {
+        "chi" "**往螺旋楼梯上方走**"
+    }
+
+    "<!!!> ZOMBIE'S DETECTED - YOU LOSE <!!!>"
+    {
+        "chi" "**检测到僵尸,人类失败!**"
+    }
+
 }

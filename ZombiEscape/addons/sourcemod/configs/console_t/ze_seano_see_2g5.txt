@@ -1,119 +1,89 @@
 "Console_T"
 {
-	"**stage 1**"
-	{
-		"chi"		"**第一关!**"
-	}
-	"**a player pick up Item_halo**"
-	{
-		"chi"		"**玩家拾取了光环**"
-	}
-	"**halo use!**"
-	{
-		"chi"		"**玩家使用了光环**"
-	}
-	"**a zombie pick up Item_xiaoqiu**"
-	{
-		"chi"		"**僵尸拾取了小球!**"
-	}
-	"**zombie xiaoqiu use!**"
-	{
-		"chi"		"**僵尸使用了小球!**"
-	}
-	"**a zombie pick up Item_jiguang**"
-	{
-		"chi"		"**僵尸拾取了激光**"
-	}
-	"**a player pick up Item_wall**"
-	{
-		"chi"		"**玩家拾取了墙**"
-	}
-	"**clearlove7777777!!!!!!!**"
-	{
-		"chi"		"**厂长救我!!!!!!!**"
-	}
-	"**7777777wall use!**"
-	{
-		"chi"		"**玩家使用了墙!**"
-	}
-	"**a player pick up Item_water**"
-	{
-		"chi"		"**玩家拾取了水!**"
-	}
-	"**zombie car4 move in 5 seconds**"
-	{
-		"chi"		"**僵尸4号小车将在5秒后离开**"
-	}
-	"**zombie car3 move in 5 seconds**"
-	{
-		"chi"		"**僵尸3号小车将在5秒后离开**"
-	}
-	"**Item_jiguang use!**"
-	{
-		"chi"		"**僵尸使用了激光!**"
-	}
-	"**a player pick up Item_push**"
-	{
-		"chi"		"**玩家拾取了推力**"
-	}
-	"**push use!**"
-	{
-		"chi"		"**玩家使用了推力**"
-	}
-	"**a player pick up Item_heal**"
-	{
-		"chi"		"**玩家拾取了奶**"
-	}
-	"**Stage 2**"
-	{
-		"chi"		"**第二关**"
-	}
-	"**heal use!**"
-	{
-		"chi"		"**玩家使用了奶**"
-	}
-	"**wall use**"
-	{
-		"chi"		"**玩家使用了墙**"
-	}
-	"**a zombie pick up Item_baodan*"
-	{
-		"chi"		"**僵尸拾取了爆弹**"
-	}
-	"**zombie baodan use!**"
-	{
-		"chi"		"**僵尸使用了爆弹**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"***MAP BY - LUFFAREN***"
-	{
-		"chi"		"**制作:LUFFAREN翻译:Sakura@风云社**"
-	}
-	"***DO NOT TRY TO TAKE SHORTCUTS - IT WILL RESULT IN TELEPORTING BACK***"
-	{
-		"chi"		"**别想着走捷径**"
-	}
-	"* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
-	{
-		"chi"		"**10秒后重启地图**"
-	}
-	"* * * Choose the first MINIGAME * * *"
-	{
-		"chi"		"**请选择第一个迷你游戏**"
-	}
-	"***CURRENT DIFFICULTY IS NORMAL***"
-	{
-		"chi"		"**灾难始终慢我一步**"
-	}
-	"** ORIGINAL ZE BLACKMESA BY BILL SMAUTZ **"
-	{
-		"chi"		"** **"
-	}
-	"** REDESIGN BY CISNEROS **"
-	{
-		"chi"		"**地图重置:CISNEROS**"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    " **wall use**"
+    {
+        "chi" "**玩家使用墙**"
+    }
+
+    "**a player pick up Item_halo**"
+    {
+        "chi" "**玩家拾取了光环**"
+    }
+
+    "**a player pick up Item_heal**"
+    {
+        "chi" "**玩家拾取了奶**"
+    }
+
+    "**a player pick up Item_push**"
+    {
+        "chi" "**玩家拾取了推力**"
+    }
+
+    "**a player pick up Item_wall**"
+    {
+        "chi" "**玩家拾取了墙**"
+    }
+
+    "**a player pick up Item_water**"
+    {
+        "chi" "**玩家拾取了水!**"
+    }
+
+    "**a zombie pick up Item_baodan*"
+    {
+        "chi" "**僵尸拾取了爆弹**"
+    }
+
+    "**a zombie pick up Item_jiguang**"
+    {
+        "chi" "**僵尸拾取了激光**"
+    }
+
+    "**halo use!**"
+    {
+        "chi" "**玩家使用了光环**"
+    }
+
+    "**heal use!**"
+    {
+        "chi" "**玩家使用了奶**"
+    }
+
+    "**Item_jiguang use!**"
+    {
+        "chi" "**僵尸使用了激光!**"
+    }
+
+    "**push use!**"
+    {
+        "chi" "**玩家使用了推力**"
+    }
+
+    "**stage 1**"
+    {
+        "chi" "**第一关!**"
+    }
+
+    "**stage 2**"
+    {
+        "chi" "**第二关!**"
+    }
+
+    "**zombie baodan use!**"
+    {
+        "chi" "**僵尸使用了爆弹**"
+    }
+
 }

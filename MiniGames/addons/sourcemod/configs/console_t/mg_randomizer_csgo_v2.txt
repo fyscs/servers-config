@@ -1,29 +1,48 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "Map made by [SG] Paul"
-    {
-        "chi" ">地图作者: [SG] Paul 地图汉化: 圣剑@风云社<"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
 
     "**Remake by FreeDOM**"
     {
         "chi" "地图重置: FreeDOM"
     }
 
-    "For StrikeArena.ru"
+    "<<<1>>>"
     {
+        "chi" "1"
         "blocked" "1"
-        "chi" "** **"
     }
 
-    "<<<ROUND = Breakwall>>>"
+    "<<<2>>>"
     {
-        "chi" "破壁"
+        "chi" "2"
+        "blocked" "1"
+    }
+
+    "<<<3>>>"
+    {
+        "chi" "3"
+        "blocked" "1"
+    }
+
+    "<<<4>>>"
+    {
+        "chi" "4"
+        "blocked" "1"
+    }
+
+    "<<<5>>>"
+    {
+        "chi" "5"
     }
 
     "<<<ROUND = Boom Headshot!>>>"
@@ -31,9 +50,54 @@
         "chi" "爆头"
     }
 
+    "<<<ROUND = Breakwall>>>"
+    {
+        "chi" "破壁"
+    }
+
     "<<<ROUND = Conveyers!>>>"
     {
         "chi" "加速板刀战"
+    }
+
+    "<<<ROUND = Dodgeball Round!>>>"
+    {
+        "chi" "躲避球"
+    }
+
+    "<<<ROUND = HE Grenade round!>>>"
+    {
+        "chi" "手雷"
+    }
+
+    "<<<ROUND = High speed round! + 300hp>>>"
+    {
+        "chi" "高移速+300hp对枪"
+    }
+
+    "<<<ROUND = Iceskate!>>>"
+    {
+        "chi" "滑冰"
+    }
+
+    "<<<ROUND = Jumper round!>>>"
+    {
+        "chi" "跳绳"
+    }
+
+    "<<<ROUND = Moving Doors Round!>>>"
+    {
+        "chi" "刀战(上下移动平台)"
+    }
+
+    "<<<ROUND = Musical Holes Round!>>>"
+    {
+        "chi" "音乐洞"
+    }
+
+    "<<<ROUND = Scoutsknives round!>>>"
+    {
+        "chi" "鸟狙"
     }
 
     "<<<ROUND = Shank you in the back blad!>>>"
@@ -41,14 +105,34 @@
         "chi" "刀战(背刺)"
     }
 
-    "Health Regen has been turned off!"
+    "<<<ROUND = Shotgun Round!>>>"
     {
-        "chi" "回血已关闭"
+        "chi" "霰弹枪回合"
     }
 
-    "<<<ROUND = Iceskate!>>>"
+    "<<<ROUND = Smoke War Round!>>>"
     {
-        "chi" "滑冰"
+        "chi" "烟雾弹大战"
+    }
+
+    "<<<ROUND = Spotlight Round!>>>"
+    {
+        "chi" "小黑屋"
+    }
+
+    "<<<ROUND = Wall Illusion round!>>>"
+    {
+        "chi" "幻觉墙"
+    }
+
+    "<<<Start!>>>"
+    {
+        "chi" "冲"
+    }
+
+    "1 of 2 unseen maps from mg_Pauls_Multigames"
+    {
+        "chi" "来自mg_Pauls_Multigames的地图其一"
     }
 
     "AFK Killer Active!"
@@ -61,128 +145,15 @@
         "chi" "10秒钟后处死出生点玩家"
     }
 
-    "<<<ROUND = High speed round! + 300hp>>>"
+    "For StrikeArena.ru"
     {
-        "chi" "高移速+300hp对枪"
-    }
-
-    "<<<ROUND = Scoutsknives round!>>>"
-    {
-        "chi" "鸟狙"
-    }
-
-    "<<<ROUND = HE Grenade round!>>>"
-    {
-        "chi" "手雷"
-    }
-
-    "<<<ROUND = Wall Illusion round!>>>"
-    {
-        "chi" "幻觉墙"
-    }
-
-    "<<<ROUND = Jumper round!>>>"
-    {
-        "chi" "跳绳"
-    }
-
-    "You have 9 seconds to get onto the circle platform!"
-    {
-        "chi" "你还有9秒钟的时间去站在中间的平台上"
-    }
-
-    "You have 5 seconds to get onto the circle platform!"
-    {
+        "chi" "__null__"
         "blocked" "1"
-        "chi" "你还有5秒钟的时间去站在中间的平台上"
     }
 
-    "You have 4 seconds to get onto the circle platform!"
+    "Health Regen has been turned off!"
     {
-        "blocked" "1"
-        "chi" "你还有4秒钟的时间去站在中间的平台上"
-    }
-
-    "You have 3 seconds to get onto the circle platform!"
-    {
-        "blocked" "1"
-        "chi" ">你还有3秒钟的时间去站在中间的平台上<"
-    }
-
-    "You have 2 seconds to get onto the circle platform!"
-    {
-        "blocked" "1"
-        "chi" ">你还有2秒钟的时间去站在中间的平台上<"
-    }
-
-    "You have 1 second to get onto the circle platform!"
-    {
-        "blocked" "1"
-        "chi" ">你还有1秒钟的时间去站在中间的平台上<"
-    }
-
-    "<<<Start!>>>"
-    {
-        "chi" "冲"
-    }
-
-    "<<<4>>>"
-    {
-        "blocked" "1"
-        "chi" "4"
-    }
-
-    "<<<3>>>"
-    {
-        "blocked" "1"
-        "chi" "3"
-    }
-
-    "<<<2>>>"
-    {
-        "blocked" "1"
-        "chi" "2"
-    }
-
-    "<<<5>>>"
-    {
-        "chi" "5"
-    }
-
-    "<<<1>>>"
-    {
-        "blocked" "1"
-        "chi" "1"
-    }
-
-    "You have 30 seconds to knife each other!"
-    {
-        "chi" "你有30秒钟的时间去刀别人"
-    }
-
-    "You have taken too long!"
-    {
-        "chi" "你花了太长时间!"
-    }
-
-    "<<<ROUND = Spotlight Round!>>>"
-    {
-        "chi" "小黑屋"
-    }
-
-    "You have taken too long! Lights on!"
-    {
-        "chi" "你花了太长时间!开灯!"
-    }
-
-    "Spawn kill active in 10 seconds!"
-    {
-        "chi" "挂机的玩家将会在10秒钟后被处死"
-    }
-
-    "<<<ROUND = Dodgeball Round!>>>"
-    {
-        "chi" "躲避球"
+        "chi" "回血已关闭"
     }
 
     "Knife it out!"
@@ -190,29 +161,69 @@
         "chi" "用刀决一胜负!"
     }
 
-    "<<<ROUND = Shotgun Round!>>>"
+    "Map made by [SG] Paul"
     {
-        "chi" "霰弹枪回合"
+        "chi" ">地图作者: [SG] Paul 地图汉化: 圣剑@风云社<"
     }
 
-    "<<<ROUND = Moving Doors Round!>>>"
+    "MiniGame: 77.243.98.227:27024"
     {
-        "chi" "刀战(上下移动平台)"
+        "chi" "__null__"
     }
 
-    "<<<ROUND = Smoke War Round!>>>"
+    "Spawn kill active in 10 seconds!"
     {
-        "chi" "烟雾弹大战"
+        "chi" "挂机的玩家将会在10秒钟后被处死"
     }
 
-    "<<<ROUND = Musical Holes Round!>>>"
+    "You have 1 second to get onto the circle platform!"
     {
-        "chi" "音乐洞"
+        "chi" ">你还有1秒钟的时间去站在中间的平台上<"
+        "blocked" "1"
     }
 
-    "1 of 2 unseen maps from mg_Pauls_Multigames"
+    "You have 2 seconds to get onto the circle platform!"
     {
-        "chi" "来自mg_Pauls_Multigames的地图其一"
+        "chi" ">你还有2秒钟的时间去站在中间的平台上<"
+        "blocked" "1"
+    }
+
+    "You have 3 seconds to get onto the circle platform!"
+    {
+        "chi" ">你还有3秒钟的时间去站在中间的平台上<"
+        "blocked" "1"
+    }
+
+    "You have 30 seconds to knife each other!"
+    {
+        "chi" "你有30秒钟的时间去刀别人"
+    }
+
+    "You have 4 seconds to get onto the circle platform!"
+    {
+        "chi" "你还有4秒钟的时间去站在中间的平台上"
+        "blocked" "1"
+    }
+
+    "You have 5 seconds to get onto the circle platform!"
+    {
+        "chi" "你还有5秒钟的时间去站在中间的平台上"
+        "blocked" "1"
+    }
+
+    "You have 9 seconds to get onto the circle platform!"
+    {
+        "chi" "你还有9秒钟的时间去站在中间的平台上"
+    }
+
+    "You have taken too long!"
+    {
+        "chi" "你花了太长时间!"
+    }
+
+    "You have taken too long! Lights on!"
+    {
+        "chi" "你花了太长时间!开灯!"
     }
 
 }

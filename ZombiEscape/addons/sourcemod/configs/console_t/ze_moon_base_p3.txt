@@ -1,135 +1,104 @@
 "Console_T"
 {
-	"---***This map will mute your sound if you are outside the lunar base***---"
-	{
-		"chi"		"**如果你处于月球基地外,你将被静音"
-	}
-	"***Defend for 30 seconds!***"
-	{
-		"chi"		"**防御 30 秒!**"
-	}
-	"***10 seconds!***"
-	{
-		"chi"		"**防御 10 秒!**"
-	}
-	"***Defense 1 is Open again***"
-	{
-		"chi"		"**咕咕咕**"
-	}
-	"***Defend for 45 seconds!***"
-	{
-		"chi"		"***防御 45 秒!**"
-	}
-	"***15 seconds!***"
-	{
-		"chi"		"**防御 15 秒!**"
-	}
-	"***Get to the Lunar Vehicle!***"
-	{
-		"chi"		"**快上月球车!**"
-	}
-	"***Lunar vehicle leaves in 10!***"
-	{
-		"chi"		"**距离月球车发车还有 10 秒!**"
-	}
-	"***Defence 2 is Open again***"
-	{
-		"chi"		"**月球车往下一个防守点**"
-	}
-	"***Lunar vehicle is leaving!***"
-	{
-		"chi"		"**月球车出发了!**"
-	}
-	"**Space Ship leaves in 90 seconds!**"
-	{
-		"chi"		"**太空船 90 秒后离开!**"
-	}
-	"**Just 60 more seconds!**"
-	{
-		"chi"		"**太空船 60 秒后离开!**"
-	}
-	"**Just 30 more seconds!**"
-	{
-		"chi"		"**太空船 30 秒后离开!!**"
-	}
-	"**15 SECONDS LEFT!**"
-	{
-		"chi"		"**太空船 15 秒后离开!**"
-	}
-	"**Blast Doors have been override!**"
-	{
-		"chi"		"**太空船门关闭!**"
-	}
-	"**Spaceship is leaving now!**"
-	{
-		"chi"		"**太空船正在离开!**"
-	}
-	"***Keep Running!***"
-	{
-		"chi"		"**继续走!**"
-	}
-	"***Do not look back!***"
-	{
-		"chi"		"**别回头!**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"[Map] ze_Suchirifu"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"** **"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Luffaren***"
-	{
-		"chi"		"**地图制作: Luffaren		汉化: 小三@风云社**"
-	}
-	"steamworkshop search this map's name"
-	{
-		"chi"		"** **"
-	}
-	"***Map by RelaxingWalls***"
-	{
-		"chi"		"** **"
-	}
-	"***Map made for SteamGamers Mapping Competition***"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL: EASY<<"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL 1<<"
-	{
-		"chi"		"** **"
-	}
-	">> 9 MINUTES TO ESCAPE <<"
-	{
-		"chi"		"** **"
-	}
-	"** Welcome to the mystical island of Kraznov Poopata **"
-	{
-		"chi"		"** **"
-	}
-	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Model :Dakotec ***"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***10 seconds!***"
+    {
+        "chi" "**防御 10 秒!**"
+    }
+
+    "***15 seconds!***"
+    {
+        "chi" "**防御 15 秒!**"
+    }
+
+    "***Defence 2 is Open again***"
+    {
+        "chi" "**月球车往下一个防守点**"
+    }
+
+    "***Defend for 30 seconds!***"
+    {
+        "chi" "**防御 30 秒!**"
+    }
+
+    "***Defend for 45 seconds!***"
+    {
+        "chi" "***防御 45 秒!**"
+    }
+
+    "***Defense 1 is Open again***"
+    {
+        "chi" "**咕咕咕**"
+    }
+
+    "***Do not look back!***"
+    {
+        "chi" "**别回头!**"
+    }
+
+    "***Get to the Lunar Vehicle!***"
+    {
+        "chi" "**快上月球车!**"
+    }
+
+    "***Keep Running!***"
+    {
+        "chi" "**继续走!**"
+    }
+
+    "***Lunar vehicle is leaving!***"
+    {
+        "chi" "**月球车出发了!**"
+    }
+
+    "***Lunar vehicle leaves in 10!***"
+    {
+        "chi" "**距离月球车发车还有 10 秒!**"
+    }
+
+    "---***This map will mute your sound if you are outside the lunar base***---"
+    {
+        "chi" "**如果你处于月球基地外,你将被静音"
+    }
+
+    "**15 seconds left!**"
+    {
+        "chi" "还剩 15 秒哦"
+    }
+
+    "**Blast Doors have been override!**"
+    {
+        "chi" "**太空船门关闭!**"
+    }
+
+    "**Just 30 more seconds!**"
+    {
+        "chi" "**太空船 30 秒后离开!!**"
+    }
+
+    "**Just 60 more seconds!**"
+    {
+        "chi" "**太空船 60 秒后离开!**"
+    }
+
+    "**Space Ship leaves in 90 seconds!**"
+    {
+        "chi" "**太空船 90 秒后离开!**"
+    }
+
+    "**Spaceship is leaving now!**"
+    {
+        "chi" "**太空船正在离开!**"
+    }
+
 }

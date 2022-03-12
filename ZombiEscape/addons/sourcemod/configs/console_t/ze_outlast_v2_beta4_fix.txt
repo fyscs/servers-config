@@ -1,40 +1,15 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "||| Elevator star move at 10 seconds  |||"
-    {
-        "chi" "**||| 电梯将在10秒后离开 |||**"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "*** STAGE 1 MOUNT MASSIVE  ***"
-    {
-        "chi" "**第一章:巨山精神病院**"
-    }
-
-    "||| Welcome to ze_Outlast_v2_Beta4_fix |||"
-    {
-        "chi" "**||| 欢迎来到以逃生为原型的ZE地图 |||**"
-    }
-
-    "||| Thanks for playing  |||"
-    {
-        "chi" "**||| 感谢游玩 |||**"
-    }
-
-    "||| This is my frist ze map |||"
-    {
-        "chi" "**||| 这是我的第一张地图 |||**"
-    }
-
-    "||| Map by The Chemodan |||"
-    {
-        "chi" "**||| 地图作者:Chemodan 汉化:Ruby |||**"
-    }
-
-    "*** STAGE 2 HOSPITAL  ***"
-    {
-        "chi" "**第二章:医院**"
-    }
 
     "*** HUMANS WON! MOVING ON TO STAGE 1 ***"
     {
@@ -46,29 +21,39 @@
         "chi" "**人类胜利!进入第二章**"
     }
 
-    "||| You win Stage 2 |||"
+    "*** STAGE 1 MOUNT MASSIVE  ***"
     {
-        "chi" "**||| 第二章通关 |||**"
+        "chi" "**第一章:巨山精神病院**"
     }
 
-    "||| Wait for new updates Good Luckl  |||"
+    "*** STAGE 2 HOSPITAL  ***"
     {
-        "chi" "**||| 请等待后续更新 |||**"
+        "chi" "**第二章:医院**"
     }
 
-    "||| You win Stage 1 |||"
+    "||| 1/5 documents found |||"
     {
-        "chi" "**||| 第一章通关 |||**"
+        "chi" "文件:1/5"
     }
 
-    "||| Thanks to everyone who wait the map, wait for new updates Good Luck all  |||"
+    "||| 2/5 documents found |||"
     {
-        "chi" "**||| 本图已经结束请等待后续更新 |||**"
+        "chi" "文件:2/5"
     }
 
-    "||| SHOOT THE BOSS!  |||"
+    "||| 3/5 documents found |||"
     {
-        "chi" "**||| 他居然走过来了!快杀死他!|||**"
+        "chi" "文件:3/5"
+    }
+
+    "||| 4/5 documents found |||"
+    {
+        "chi" "文件:4/5"
+    }
+
+    "||| 5/5 documents found |||"
+    {
+        "chi" "文件:5/5"
     }
 
     "||| Afk Teleport Enable at 10 second  |||"
@@ -76,104 +61,9 @@
         "chi" "**||| 挂机玩家将在10秒后传送 |||**"
     }
 
-    "||| The door will open at 20 second  |||"
-    {
-        "chi" "**||| 门将在20秒后开启 |||**"
-    }
-
-    "||| The door will open at 10 second  |||"
-    {
-        "chi" "**||| 门将在10秒后开启 |||**"
-    }
-
-    "||| TAKE THE KEY AND GO BACK TO ELEVATOR  |||"
-    {
-        "chi" "**||| 这里有把钥匙,先拿着回电梯吧 |||**"
-    }
-
-    "||| The LAST door will open at 30 second  |||"
-    {
-        "chi" "**||| 最后的门将在30秒后开启 |||**"
-    }
-
-    "||| Hold here 20 seconds  |||"
-    {
-        "chi" "**||| 防守20秒 |||**"
-    }
-
-    "||| OH GOD WHERE AM I?  |||"
-    {
-        "chi" "**||| 该死的,头有点晕,我现在哪里? |||**"
-    }
-
-    "||| The door will open at 30 second  |||"
-    {
-        "chi" "**||| 门将在30秒后开启 |||**"
-    }
-
-    "||| Hold here for 10 seconds  |||"
-    {
-        "chi" "**||| 防守10秒 |||**"
-    }
-
     "||| Bliat Resotka Zakroetsia Cerez 10 Seconds  |||"
     {
         "chi" "**十秒后返回**"
-    }
-
-    "||| Hold here for 20 seconds  |||"
-    {
-        "chi" "**||| 防守20秒 |||**"
-    }
-
-    "||| YOU NEED JUMP AND DEFEND ZM  |||"
-    {
-        "chi" "**||| 僵尸快来了!前面有个坑我们跳过去先!|||**"
-    }
-
-    "||| Stage 2 Hospital   |||"
-    {
-        "chi" "**||| 第二章:医院 |||**"
-    }
-
-    "||| 45 documents found |||"
-    {
-        "chi" "**文档:4/5已找到**"
-    }
-
-    "||| 35 documents found |||"
-    {
-        "chi" "**文档:3/5已找到**"
-    }
-
-    "||| 15 documents found |||"
-    {
-        "chi" "**文档:1/5已找到**"
-    }
-
-    "||| 25 documents found |||"
-    {
-        "chi" "**文档:2/5已找到**"
-    }
-
-    "||| Shoot the Boss and finsh The lasers!  |||"
-    {
-        "chi" "**||| 开枪射击他!并且注意激光 |||**"
-    }
-
-    "||| You found all the secrets Good Job |||"
-    {
-        "chi" "**有人找到了所有的彩蛋,下一关是孤儿跳刀!**"
-    }
-
-    "||| 55 documents found |||"
-    {
-        "chi" "**文档:5/5已找到**"
-    }
-
-    "||| Security door will Close at 20 second  |||"
-    {
-        "chi" "**||| 安全控制室门将在20秒后关闭 |||**"
     }
 
     "||| Camera Taken |||"
@@ -181,64 +71,9 @@
         "chi" "**||| 摄像机已拾取 |||**"
     }
 
-    "||| Find the generator to turn on the power  |||"
-    {
-        "chi" "**||| 寻找发电机并启动电源 |||**"
-    }
-
     "||| DEFEND YOU STUPID NIGERS OR DIE  |||"
     {
         "chi" "**||| 坚守阵地,不能让僵尸过来!|||**"
-    }
-
-    "||| Zombie push disable  |||"
-    {
-        "chi" "**||| 僵尸空气墙已禁用 |||**"
-    }
-
-    "||| Find the last button and go back  |||"
-    {
-        "chi" "**找到最后一个按钮,然后返回发电机**"
-    }
-
-    "||| Press button in the middle  |||"
-    {
-        "chi" "**||| 按下发电机按钮 |||**"
-    }
-
-    "||| The power on go back to defend   |||"
-    {
-        "chi" "**电源已开启,现在返回防守**"
-    }
-
-    "||| Find 4 buttons to Turn On Power  |||"
-    {
-        "chi" "**寻找4个按钮并开启发电机**"
-    }
-
-    "||| Go back to Server Room  |||"
-    {
-        "chi" "**快返回服务器机房**"
-    }
-
-    "||| Hide in the locker don't try to fight  |||"
-    {
-        "chi" "**||| 小心!有人过来了快藏在左边储物柜,快! |||**"
-    }
-
-    "||| Security door will open at 30 second  |||"
-    {
-        "chi" "**||| 安全控制室门将在30秒后打开 |||**"
-    }
-
-    "||| Security door will Close at 10 second  |||"
-    {
-        "chi" "**||| 安全控制室门将在10秒后关闭 |||**"
-    }
-
-    "||| Fall Back  |||"
-    {
-        "chi" "**||| 撤退 |||**"
     }
 
     "||| Door Open  |||"
@@ -246,19 +81,24 @@
         "chi" "**||| 门已开启 |||**"
     }
 
-    "||| Keycard is taken  |||"
+    "||| Elevator star move at 10 seconds  |||"
     {
-        "chi" "**|||* 钥匙卡已拿到 |||**"
+        "chi" "**||| 电梯将在10秒后离开 |||**"
     }
 
-    "||| Go to Server Room  |||"
+    "||| Fall Back  |||"
     {
-        "chi" "**||| 好了现在快去服务器机房 |||**"
+        "chi" "**||| 撤退 |||**"
     }
 
-    "||| The wall will explode  at 30 second  |||"
+    "||| Find 4 buttons to Turn On Power  |||"
     {
-        "chi" "**||| 墙壁将在30秒后爆炸 |||**"
+        "chi" "**寻找4个按钮并开启发电机**"
+    }
+
+    "||| Find the generator to turn on the power  |||"
+    {
+        "chi" "**||| 寻找发电机并启动电源 |||**"
     }
 
     "||| Find the KeyCard   |||"
@@ -266,9 +106,179 @@
         "chi" "**||| 找到钥匙卡 |||**"
     }
 
+    "||| Find the last button and go back  |||"
+    {
+        "chi" "**找到最后一个按钮,然后返回发电机**"
+    }
+
+    "||| Go back to Server Room  |||"
+    {
+        "chi" "**快返回服务器机房**"
+    }
+
+    "||| Go to Server Room  |||"
+    {
+        "chi" "**||| 好了现在快去服务器机房 |||**"
+    }
+
+    "||| Hide in the locker don't try to fight  |||"
+    {
+        "chi" "**||| 小心!有人过来了快藏在左边储物柜,快! |||**"
+    }
+
+    "||| Hold here 20 seconds  |||"
+    {
+        "chi" "**||| 防守20秒 |||**"
+    }
+
+    "||| Hold here for 10 seconds  |||"
+    {
+        "chi" "**||| 防守10秒 |||**"
+    }
+
+    "||| Hold here for 20 seconds  |||"
+    {
+        "chi" "**||| 防守20秒 |||**"
+    }
+
+    "||| Keycard is taken  |||"
+    {
+        "chi" "**|||* 钥匙卡已拿到 |||**"
+    }
+
+    "||| Map by The Chemodan |||"
+    {
+        "chi" "**||| 地图作者:Chemodan 汉化:Ruby |||**"
+    }
+
+    "||| OH GOD WHERE AM I?  |||"
+    {
+        "chi" "**||| 该死的,头有点晕,我现在哪里? |||**"
+    }
+
+    "||| Press button in the middle  |||"
+    {
+        "chi" "**||| 按下发电机按钮 |||**"
+    }
+
+    "||| Security door will Close at 10 second  |||"
+    {
+        "chi" "**||| 安全控制室门将在10秒后关闭 |||**"
+    }
+
+    "||| Security door will Close at 20 second  |||"
+    {
+        "chi" "**||| 安全控制室门将在20秒后关闭 |||**"
+    }
+
+    "||| Security door will open at 30 second  |||"
+    {
+        "chi" "**||| 安全控制室门将在30秒后打开 |||**"
+    }
+
+    "||| Shoot the Boss and finsh The lasers!  |||"
+    {
+        "chi" "**||| 开枪射击他!并且注意激光 |||**"
+    }
+
+    "||| SHOOT THE BOSS!  |||"
+    {
+        "chi" "**||| 他居然走过来了!快杀死他!|||**"
+    }
+
+    "||| Stage 2 Hospital   |||"
+    {
+        "chi" "**||| 第二章:医院 |||**"
+    }
+
+    "||| TAKE THE KEY AND GO BACK TO ELEVATOR  |||"
+    {
+        "chi" "**||| 这里有把钥匙,先拿着回电梯吧 |||**"
+    }
+
+    "||| Thanks for playing  |||"
+    {
+        "chi" "**||| 感谢游玩 |||**"
+    }
+
+    "||| Thanks to everyone who wait the map, wait for new updates Good Luck all  |||"
+    {
+        "chi" "**||| 本图已经结束请等待后续更新 |||**"
+    }
+
+    "||| The door will open at 10 second  |||"
+    {
+        "chi" "**||| 门将在10秒后开启 |||**"
+    }
+
+    "||| The door will open at 20 second  |||"
+    {
+        "chi" "**||| 门将在20秒后开启 |||**"
+    }
+
+    "||| The door will open at 30 second  |||"
+    {
+        "chi" "**||| 门将在30秒后开启 |||**"
+    }
+
+    "||| The LAST door will open at 30 second  |||"
+    {
+        "chi" "**||| 最后的门将在30秒后开启 |||**"
+    }
+
+    "||| The power on go back to defend   |||"
+    {
+        "chi" "**电源已开启,现在返回防守**"
+    }
+
+    "||| The wall will explode  at 30 second  |||"
+    {
+        "chi" "**||| 墙壁将在30秒后爆炸 |||**"
+    }
+
     "||| The window will break at 20 seconds  |||"
     {
         "chi" "**||| 窗户将在20秒后破碎 |||**"
+    }
+
+    "||| This is my frist ze map |||"
+    {
+        "chi" "**||| 这是我的第一张地图 |||**"
+    }
+
+    "||| Wait for new updates Good Luckl  |||"
+    {
+        "chi" "**||| 请等待后续更新 |||**"
+    }
+
+    "||| Welcome to ze_Outlast_v2_Beta4_fix |||"
+    {
+        "chi" "**||| 欢迎来到以逃生为原型的ZE地图 |||**"
+    }
+
+    "||| You found all the secrets Good Job |||"
+    {
+        "chi" "**有人找到了所有的彩蛋,下一关是孤儿跳刀!**"
+    }
+
+    "||| YOU NEED JUMP AND DEFEND ZM  |||"
+    {
+        "chi" "**||| 僵尸快来了!前面有个坑我们跳过去先!|||**"
+    }
+
+    "||| You win Stage 1 |||"
+    {
+        "chi" "**||| 第一章通关 |||**"
+    }
+
+    "||| You win Stage 2 |||"
+    {
+        "chi" "**||| 第二章通关 |||**"
+    }
+
+    "||| Zombie push disable  |||"
+    {
+        "chi" "**||| 僵尸空气墙已禁用 |||**"
     }
 
 }

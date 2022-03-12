@@ -1,113 +1,144 @@
 "Console_T"
 {
-	"[MAP INFO] The gate will open in 20 seconds! *****"
-	{
-		"chi"		"**20秒后开门**"
-	}
-	"[MAP INFO] *** The gate has opened, move on! ***"
-	{
-		"chi"		"**溜了,门开了**"
-	}
-	"[MAP INFO] *** Defend for 25 seconds until the platform breaks! ***"
-	{
-		"chi"		"**坚守25秒直到平台碎裂**"
-	}
-	"[MAP INFO] *** Get in the hole! ***"
-	{
-		"chi"		"**跳入洞穴**"
-	}
-	"[MAP INFO] The gate is slowly opening, hold this area! ***"
-	{
-		"chi"		"**坚守!门开得很慢!**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"[MAP INFO] *** Hold here for 25 seconds! ***"
-	{
-		"chi"		"**坚守25秒**"
-	}
-	"[MAP INFO] *** Explosives have been set, hold for 30 seconds! ***"
-	{
-		"chi"		"**C4已经触发, 坚守30秒**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"[MAP INFO] ** The metal wall will break down in 20 seconds! ***"
-	{
-		"chi"		"**20秒后门碎**"
-	}
-	"[MAP INFO] *** Hold this area until the gate opens, someone must activate the button first! ***"
-	{
-		"chi"		"**坚守直到大门打开,必须有人按下开关**"
-	}
-	"[MAP INFO] *** Button has been pressed, hold area until gate opens! ***"
-	{
-		"chi"		"**按钮被按下,等待大门打开**"
-	}
-	"[MAP INFO] *** This map has been created by FuTuRe ***"
-	{
-		"chi"		"** **"
-	}
-	"[MAP INFO] *** Special thanks to Syoudous for helping me with a lot of things! ***"
-	{
-		"chi"		"** **"
-	}
-	"[MAP INFO] *** Gate has opened up, move move move! ***"
-	{
-		"chi"		"**门开了,溜溜溜**"
-	}
-	"[MAP INFO] *** Keep this area until we get sent to the next world! ***"
-	{
-		"chi"		"**防守直到我们被传送**"
-	}
-	"[MAP INFO] *** Zombies get sent to the new world in 10 seconds!***"
-	{
-		"chi"		"**10秒后僵尸传送**"
-	}
-	"[MAP INFO] *** Zombies get sent to the new world in 5 seconds!***"
-	{
-		"chi"		"**5秒后僵尸传送**"
-	}
-	"*** HUMANS MUST KILL ZOMBIES WITHIN 60 SECS OR KNIFE IT OUT! ***"
-	{
-		"chi"		"**60秒内杀死所有僵尸**"
-	}
-	"*** HUMANS MUST KILL ZOMBIES WITHIN 30 SECS OR KNIFE IT OUT! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** HUMANS MUST KILL ZOMBIES WITHIN 15 SECS OR KNIFE IT OUT! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** HUMANS MUST KILL ZOMBIES WITHIN 5 SECS OR KNIFE IT OUT! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** HUMANS HAVE BEEN WARNED, KNIFE ONLY MODE HAS BEEN ENABLED, GOODLUCK! ***"
-	{
-		"chi"		"** **"
-	}
-	"[MAP INFO] *** ACTIVATE THE EXPLOSIVE ON THE DOOR ***"
-	{
-		"chi"		"** **"
-	}
-	"[MAP INFO] *** 5 seconds left until explosion! ***"
-	{
-		"chi"		"** **"
-	}
-	"[MAP INFO] ** The metal wall will break down in 15 seconds! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** WORLD NUKE INCOMING IN 15 SECONDS! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** WORLD NUKE INCOMING IN 10 SECONDS! ***"
-	{
-		"chi"		"** **"
-	}
-	"*** WORLD NUKE INCOMING IN 5 SECONDS! ***"
-	{
-		"chi"		"** **"
-	}
+
+    "*** HUMANS HAVE BEEN WARNED, KNIFE ONLY MODE HAS BEEN ENABLED, GOODLUCK! ***"
+    {
+        "chi" "宝贝!!!来和我拼刺刀!!!"
+    }
+
+    "*** HUMANS MUST KILL ZOMBIES WITHIN 15 SECS OR KNIFE IT OUT! ***"
+    {
+        "chi" "15"
+    }
+
+    "*** HUMANS MUST KILL ZOMBIES WITHIN 30 SECS OR KNIFE IT OUT! ***"
+    {
+        "chi" "30"
+    }
+
+    "*** HUMANS MUST KILL ZOMBIES WITHIN 5 SECS OR KNIFE IT OUT! ***"
+    {
+        "chi" "5"
+    }
+
+    "*** HUMANS MUST KILL ZOMBIES WITHIN 60 SECS OR KNIFE IT OUT! ***"
+    {
+        "chi" "**60秒内杀死所有僵尸**"
+    }
+
+    "*** WORLD NUKE INCOMING IN 10 SECONDS! ***"
+    {
+        "chi" "核弹:10秒"
+    }
+
+    "*** WORLD NUKE INCOMING IN 15 SECONDS! ***"
+    {
+        "chi" "核弹:15秒"
+    }
+
+    "*** WORLD NUKE INCOMING IN 5 SECONDS! ***"
+    {
+        "chi" "核弹:5秒"
+    }
+
+    "[MAP INFO] ** The metal wall will break down in 15 seconds! ***"
+    {
+        "chi" "金属墙:15秒"
+    }
+
+    "[MAP INFO] *** 5 seconds left until explosion! ***"
+    {
+        "chi" "爆破:5秒"
+    }
+
+    "[MAP INFO] *** ACTIVATE THE EXPLOSIVE ON THE DOOR ***"
+    {
+        "chi" "安放炸药"
+    }
+
+    "[MAP INFO] *** Button has been pressed, hold area until gate opens! ***"
+    {
+        "chi" "**按钮被按下,等待大门打开**"
+    }
+
+    "[MAP INFO] *** Defend for 25 seconds until the platform breaks! ***"
+    {
+        "chi" "**坚守25秒直到平台碎裂**"
+    }
+
+    "[MAP INFO] *** Explosives have been set, hold for 30 seconds! ***"
+    {
+        "chi" "**C4已经触发, 坚守30秒**"
+    }
+
+    "[MAP INFO] *** Gate has opened up, move move move! ***"
+    {
+        "chi" "**门开了,溜溜溜**"
+    }
+
+    "[MAP INFO] *** Get in the hole! ***"
+    {
+        "chi" "**跳入洞穴**"
+    }
+
+    "[MAP INFO] *** Hold here for 25 seconds! ***"
+    {
+        "chi" "**坚守25秒**"
+    }
+
+    "[MAP INFO] *** Hold this area until the gate opens, someone must activate the button first! ***"
+    {
+        "chi" "**坚守直到大门打开,必须有人按下开关**"
+    }
+
+    "[MAP INFO] *** Keep this area until we get sent to the next world! ***"
+    {
+        "chi" "**防守直到我们被传送**"
+    }
+
+    "[MAP INFO] *** Special thanks to Syoudous for helping me with a lot of things! ***"
+    {
+        "chi" "感谢:Syoudous"
+    }
+
+    "[MAP INFO] *** The gate has opened, move on! ***"
+    {
+        "chi" "**溜了,门开了**"
+    }
+
+    "[MAP INFO] *** This map has been created by FuTuRe ***"
+    {
+        "chi" "作者:FuTuRe 汉化:小三@風雲社"
+    }
+
+    "[MAP INFO] *** Zombies get sent to the new world in 10 seconds!***"
+    {
+        "chi" "**10秒后僵尸传送**"
+    }
+
+    "[MAP INFO] *** Zombies get sent to the new world in 5 seconds!***"
+    {
+        "chi" "**5秒后僵尸传送**"
+    }
+
+    "[MAP INFO] The gate is slowly opening, hold this area! ***"
+    {
+        "chi" "**坚守!门开得很慢!**"
+    }
+
+    "[MAP INFO] The gate will open in 20 seconds! *****"
+    {
+        "chi" "**20秒后开门**"
+    }
+
 }

@@ -1,435 +1,424 @@
 "Console_T"
 {
-	"-=[ Welcome to Zombie Games ]=-"
-	{
-		"chi"		"**欢迎来到刺激小游戏**"
-	}
-	"-=[ Round starting in 10 seconds ]=-"
-	{
-		"chi"		"**回合10秒后开始**"
-	}
-	"-=[ Starting game: Obstacle Race ]=-"
-	{
-		"chi"		"**障碍赛跑**"
-	}
-	"-=[ You have 1 minute to reach the end ]=-"
-	{
-		"chi"		"**你有一分钟的时间跑到终点**"
-	}
-	"-=[ You have 40 seconds ]=-"
-	{
-		"chi"		"**你还有40秒的时间**"
-	}
-	"-=[ You have 20 more seconds ]=-"
-	{
-		"chi"		"**还有20秒 再不到终点就请您去世了**"
-	}
-	"-=[ Hurry, 10 seconds left ]=-"
-	{
-		"chi"		"**10秒 准备跟僵尸啵嘴吧**"
-	}
-	"-=[ 5 ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ 4 ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ 3 ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ 2 ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ 1 ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Select your first game ]=-"
-	{
-		"chi"		"**选择一个刺激小游戏**"
-	}
-	"-=[ Autopick in 1 minute ]=-"
-	{
-		"chi"		"**系统酱一分钟后帮你随机选一个小游戏**"
-	}
-	"-=[ Easy Mode :: CTT > 4 ]=-"
-	{
-		"chi"		"**简单模式**"
-	}
-	"-=[ Starting game: Frogger ]=-"
-	{
-		"chi"		"**青蛙过河**"
-	}
-	"-=[ Collect the gems in 45 seconds ]=-"
-	{
-		"chi"		"**在45秒内收集墙上的青蛙卡片**"
-	}
-	"-=[ All Gems have been collected ]=-"
-	{
-		"chi"		"**卡片都收集齐了**"
-	}
-	"-=[ Make your way to the highway ]=-"
-	{
-		"chi"		"**穿过高速公路**"
-	}
-	"-=[ Zombies are free ]=-"
-	{
-		"chi"		"**丧尸出笼**"
-	}
-	"-=[ Middle Exit opening in 30 seconds ]=-"
-	{
-		"chi"		"**中间出口30秒后开放**"
-	}
-	"-=[ Doors opening in 5 ]=-"
-	{
-		"chi"		"**五秒后开门**"
-	}
-	"-=[ Hold for 30 seconds ]=-"
-	{
-		"chi"		"**坚守30秒**"
-	}
-	"-=[ Finishing in 5 ]=-"
-	{
-		"chi"		"**5秒后结束**"
-	}
-	"-=[ It's time for the final minigame ]=-"
-	{
-		"chi"		"**是时候准备最后一个小游戏了**"
-	}
-	"-=[ Normal Mode :: CTT > 2 < 4 ]=-"
-	{
-		"chi"		"**普通模式**"
-	}
-	"-=[ Starting game: Drop ]=-"
-	{
-		"chi"		"**掉落**"
-	}
-	"-=[ Survive 60 Seconds... ]=-"
-	{
-		"chi"		"**存活60秒**"
-	}
-	"-=[ Activating in 5 ]=-"
-	{
-		"chi"		"**5秒后激活**"
-	}
-	"-=[ Humans Win ]=-"
-	{
-		"chi"		"**人类胜利**"
-	}
-	"-=[ Killing zombies in 5 ]=-"
-	{
-		"chi"		"**5秒内杀死僵尸**"
-	}
-	"-=[ Extreme Mode :: CTT < 1 ]=-"
-	{
-		"chi"		"**极限模式**"
-	}
-	"-=[ Starting game: Obstacle ]=-"
-	{
-		"chi"		"**障碍**"
-	}
-	"-=[ Extreme Mode ]=-"
-	{
-		"chi"		"**极限模式**"
-	}
-	"-=[ Survive 90 Seconds... ]=-"
-	{
-		"chi"		"**存活90秒**"
-	}
-	"-=[ Here come the zombies ]=-"
-	{
-		"chi"		"**僵尸来了**"
-	}
-	"-=[ You have 60 seconds ]=-"
-	{
-		"chi"		"**你有60秒时间**"
-	}
-	"-=[ Zombie spawn has advanced ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Starting game: Slingshot ]=-"
-	{
-		"chi"		"**靶场(你是咸鱼吗选打靶?)**"
-	}
-	"-=[ Normal Mode ]=-"
-	{
-		"chi"		"**普通模式**"
-	}
-	"-=[ Easy Mode :: CTT == 4 ]=-"
-	{
-		"chi"		"**简单模式**"
-	}
-	"-=[ Normal Mode :: CTT == 2 ]=-"
-	{
-		"chi"		"**普通模式**"
-	}
-	"-=[ Starting game: Murder in the dark ]=-"
-	{
-		"chi"		"**躲猫猫**"
-	}
-	"-=[ Survive 60 seconds ]=-"
-	{
-		"chi"		"**存活60秒**"
-	}
-	"-=[ Zombies are blind!!!! ]=-"
-	{
-		"chi"		"**僵尸都变瞎子了**"
-	}
-	"-=[ 30 more seconds... ]=-"
-	{
-		"chi"		"**还剩30秒**"
-	}
-	"-=[ Finishing in 5... ]=-"
-	{
-		"chi"		"**还剩5秒**"
-	}
-	"-=[ Hard Mode :: CTT == 1 ]=-"
-	{
-		"chi"		"**困难模式**"
-	}
-	"-=[ Starting Game: Castle Defence ]=-"
-	{
-		"chi"		"**城堡守卫**"
-	}
-	"-=[ Hard Mode ]=-"
-	{
-		"chi"		"**困难模式**"
-	}
-	"-=[ Enter the Castle ]=-"
-	{
-		"chi"		"**进入城堡**"
-	}
-	"-=[ Doors closing in 5 seconds ]=-"
-	{
-		"chi"		"**5秒后关门**"
-	}
-	"-=[ Shoot the ladders down ]=-"
-	{
-		"chi"		"**射击升起的梯子**"
-	}
-	"-=[ The catapult is coming!!! ]=-"
-	{
-		"chi"		"**投石车来了!!!**"
-	}
-	"-=[ Castle gates open in 30 seconds ]=-"
-	{
-		"chi"		"**30秒后打开城门**"
-	}
-	"-=[ Fallback ]=-"
-	{
-		"chi"		"**撤退**"
-	}
-	"-=[ Castle gates open in 15 seconds ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Castle gates are opening ]=-"
-	{
-		"chi"		"**城门开了**"
-	}
-	"-=[ Finishing in 30 seconds ]=-"
-	{
-		"chi"		"**30秒后结束游戏**"
-	}
-	"-=[ Starting game: The Trap ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Activating Trap ]=-"
-	{
-		"chi"		"**陷阱**"
-	}
-	"-=[ Fallback up the ladders ]=-"
-	{
-		"chi"		"**退后准备爬上梯子**"
-	}
-	"-=[ You have 30 seconds ]=-"
-	{
-		"chi"		"**你有30秒时间**"
-	}
-	"-=[ Hard Mode :: CTT > 1 < 2 ]=-"
-	{
-		"chi"		"**困难模式**"
-	}
-	"-=[ Starting game: Low Gravity ]=-"
-	{
-		"chi"		"**低重力**"
-	}
-	"-=[ Here come the zombies!!! ]=-"
-	{
-		"chi"		"**僵尸来了**"
-	}
-	"-=[ Starting game: Deathrun ]=-"
-	{
-		"chi"		"**死亡赛跑**"
-	}
-	"-=[ Hold for 90 seconds ]=-"
-	{
-		"chi"		"**防守90秒**"
-	}
-	"-=[ 1 more minute ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Zombie spawn advanced ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Lavapit activating in 5 seconds ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Easy Mode ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Survive until next ratio mode ]=-"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Reflelia***"
-	{
-		"chi"		"**地图翻译: 斯沃特精英**"
-	}
-	"***Particle Effect by Airvulpes***"
-	{
-		"chi"		"** **"
-	}
-	"***Thanks to Shizuru[idea]  uuz[model]***"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Starting game: Conveyor ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[Normal Mode ]=-"
-	{
-		"chi"		"** **"
-	}
-	"---Feedback:noojeff@gmail.com---"
-	{
-		"chi"		"** **"
-	}
-	"---Special Thank To:HZM654321 and JackBauer123---"
-	{
-		"chi"		"** **"
-	}
-	"**Stage 1**"
-	{
-		"chi"		"** **"
-	}
-	"**welcome to ze_fat_hours_escape**"
-	{
-		"chi"		"** **"
-	}
-	"**map by yinyuehzixi**"
-	{
-		"chi"		"** **"
-	}
-	"*** ZE_BOATESCAPEX ***"
-	{
-		"chi"		"** **"
-	}
-	"*** A mode is being randomly chosen... ***"
-	{
-		"chi"		"** **"
-	}
-	"*** MAP BY STRUPPI ***"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Finishing Game :: < 2 ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Zombies Activated Trap ]=-"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Hold 15 seconds ]=-"
-	{
-		"chi"		"** **"
-	}
-	"**ZE_DARK_SOULS**"
-	{
-		"chi"		"** **"
-	}
-	"-=[ Finishing Game :: == 2 ]=-"
-	{
-		"chi"		"** **"
-	}
-	"<< ze_surf_virtus >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Fix by : Lishang >>"
-	{
-		"chi"		"** **"
-	}
-	"** CURRENT LEVEL: BEN SEA **"
-	{
-		"chi"		"** **"
-	}
-	"***Modified by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	"***60 SECONDS LEFT***"
-	{
-		"chi"		"** **"
-	}
-	"***WARM UP ROUIND***"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL 1<<"
-	{
-		"chi"		"** **"
-	}
-	"Map by XXPohmianXXMochi"
-	{
-		"chi"		"** **"
-	}
-	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
-	{
-		"chi"		"** **"
-	}
-	"***Map ported by ??????***"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT MODE: EASY ***"
-	{
-		"chi"		"** **"
-	}
-	"<<< Map by Jllaneras >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Trial 1 >>>"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"** **"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"** **"
-	}
-	"***Welcome to my first map PePeHands***"
-	{
-		"chi"		"** **"
-	}
-	"-=[ The main gates have been penetrated ]=-"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "-=[ 1 ]=-"
+    {
+        "chi" "1"
+    }
+
+    "-=[ 1 more minute ]=-"
+    {
+        "chi" "一分钟"
+    }
+
+    "-=[ 2 ]=-"
+    {
+        "chi" "2"
+    }
+
+    "-=[ 3 ]=-"
+    {
+        "chi" "3"
+    }
+
+    "-=[ 30 more seconds... ]=-"
+    {
+        "chi" "**还剩30秒**"
+    }
+
+    "-=[ 4 ]=-"
+    {
+        "chi" "4"
+    }
+
+    "-=[ 5 ]=-"
+    {
+        "chi" "blocked"    "1"
+    }
+
+    "-=[ Activating in 5 ]=-"
+    {
+        "chi" "**5秒后激活**"
+    }
+
+    "-=[ Activating Trap ]=-"
+    {
+        "chi" "**陷阱**"
+    }
+
+    "-=[ All Gems have been collected ]=-"
+    {
+        "chi" "**卡片都收集齐了**"
+    }
+
+    "-=[ Autopick in 1 minute ]=-"
+    {
+        "chi" "**系统酱一分钟后帮你随机选一个小游戏**"
+    }
+
+    "-=[ Castle gates are opening ]=-"
+    {
+        "chi" "**城门开了**"
+    }
+
+    "-=[ Castle gates open in 15 seconds ]=-"
+    {
+        "chi" "**15秒后打开城门**"
+    }
+
+    "-=[ Castle gates open in 30 seconds ]=-"
+    {
+        "chi" "**30秒后打开城门**"
+    }
+
+    "-=[ Collect the gems in 45 seconds ]=-"
+    {
+        "chi" "**在45秒内收集墙上的青蛙卡片**"
+    }
+
+    "-=[ Doors closing in 5 seconds ]=-"
+    {
+        "chi" "**5秒后关门**"
+    }
+
+    "-=[ Doors opening in 5 ]=-"
+    {
+        "chi" "**五秒后开门**"
+    }
+
+    "-=[ Easy Mode :: CT/T == 4 ]=-"
+    {
+        "chi" "**简单模式**"
+    }
+
+    "-=[ Easy Mode :: CT/T > 4 ]=-"
+    {
+        "chi" "**简单模式**"
+    }
+
+    "-=[ Easy Mode ]=-"
+    {
+        "chi" "**简单模式**"
+    }
+
+    "-=[ Enter the Castle ]=-"
+    {
+        "chi" "**进入城堡**"
+    }
+
+    "-=[ Extreme Mode :: CT/T < 1 ]=-"
+    {
+        "chi" "**极限模式**"
+    }
+
+    "-=[ Extreme Mode ]=-"
+    {
+        "chi" "**极限模式**"
+    }
+
+    "-=[ Fallback ]=-"
+    {
+        "chi" "**撤退**"
+    }
+
+    "-=[ Fallback up the ladders ]=-"
+    {
+        "chi" "**退后准备爬上梯子**"
+    }
+
+    "-=[ Finishing Game :: < 2 ]=-"
+    {
+        "chi" "**游戏结束**"
+    }
+
+    "-=[ Finishing Game :: == 2 ]=-"
+    {
+        "chi" "**游戏结束**"
+    }
+
+    "-=[ Finishing in 30 seconds ]=-"
+    {
+        "chi" "**30秒后结束游戏**"
+    }
+
+    "-=[ Finishing in 5 ]=-"
+    {
+        "chi" "**5秒后结束**"
+    }
+
+    "-=[ Finishing in 5... ]=-"
+    {
+        "chi" "**还剩5秒**"
+    }
+
+    "-=[ Hard Mode :: CT/T == 1 ]=-"
+    {
+        "chi" "**困难模式**"
+    }
+
+    "-=[ Hard Mode :: CT/T > 1 < 2 ]=-"
+    {
+        "chi" "**困难模式**"
+    }
+
+    "-=[ Hard Mode ]=-"
+    {
+        "chi" "**困难模式**"
+    }
+
+    "-=[ Here come the zombies ]=-"
+    {
+        "chi" "**僵尸来了**"
+    }
+
+    "-=[ Here come the zombies!!! ]=-"
+    {
+        "chi" "**僵尸来了**"
+    }
+
+    "-=[ Hold 15 seconds ]=-"
+    {
+        "chi" "**坚守15秒**"
+    }
+
+    "-=[ Hold for 30 seconds ]=-"
+    {
+        "chi" "**坚守30秒**"
+    }
+
+    "-=[ Hold for 90 seconds ]=-"
+    {
+        "chi" "**防守90秒**"
+    }
+
+    "-=[ Humans Win ]=-"
+    {
+        "chi" "**人类胜利**"
+    }
+
+    "-=[ Hurry, 10 seconds left ]=-"
+    {
+        "chi" "**10秒 准备跟僵尸啵嘴吧**"
+    }
+
+    "-=[ It's time for the final minigame ]=-"
+    {
+        "chi" "**是时候准备最后一个小游戏了**"
+    }
+
+    "-=[ Killing zombies in 5 ]=-"
+    {
+        "chi" "**5秒内杀死僵尸**"
+    }
+
+    "-=[ Lavapit activating in 5 seconds ]=-"
+    {
+        "chi" "blocked"    "1"
+    }
+
+    "-=[ Make your way to the highway ]=-"
+    {
+        "chi" "**穿过高速公路**"
+    }
+
+    "-=[ Middle Exit opening in 30 seconds ]=-"
+    {
+        "chi" "**中间出口30秒后开放**"
+    }
+
+    "-=[ Normal Mode :: CT/T == 2 ]=-"
+    {
+        "chi" "**普通模式**"
+    }
+
+    "-=[ Normal Mode :: CT/T > 2 < 4 ]=-"
+    {
+        "chi" "**普通模式**"
+    }
+
+    "-=[ Normal Mode ]=-"
+    {
+        "chi" "**普通模式**"
+    }
+
+    "-=[ Round starting in 10 seconds ]=-"
+    {
+        "chi" "**回合10秒后开始**"
+    }
+
+    "-=[ Select your first game ]=-"
+    {
+        "chi" "**选择一个刺激小游戏**"
+    }
+
+    "-=[ Shoot the ladders down ]=-"
+    {
+        "chi" "**射击升起的梯子**"
+    }
+
+    "-=[ Starting Game: Castle Defence ]=-"
+    {
+        "chi" "**城堡守卫**"
+    }
+
+    "-=[ Starting game: Conveyor ]=-"
+    {
+        "chi" "**传送**"
+    }
+
+    "-=[ Starting game: Deathrun ]=-"
+    {
+        "chi" "**死亡赛跑**"
+    }
+
+    "-=[ Starting game: Drop ]=-"
+    {
+        "chi" "**掉落**"
+    }
+
+    "-=[ Starting game: Frogger ]=-"
+    {
+        "chi" "**青蛙过河**"
+    }
+
+    "-=[ Starting game: Low Gravity ]=-"
+    {
+        "chi" "**低重力**"
+    }
+
+    "-=[ Starting game: Murder in the dark ]=-"
+    {
+        "chi" "**躲猫猫**"
+    }
+
+    "-=[ Starting game: Obstacle ]=-"
+    {
+        "chi" "**障碍**"
+    }
+
+    "-=[ Starting game: Obstacle Race ]=-"
+    {
+        "chi" "**障碍赛跑**"
+    }
+
+    "-=[ Starting game: Slingshot ]=-"
+    {
+        "chi" "**靶场(你是咸鱼吗选打靶?)**"
+    }
+
+    "-=[ Starting game: The Trap ]=-"
+    {
+        "chi" "**陷阱**"
+    }
+
+    "-=[ Survive 60 seconds ]=-"
+    {
+        "chi" "**存活60秒**"
+    }
+
+    "-=[ Survive 60 Seconds... ]=-"
+    {
+        "chi" "**存活60秒**"
+    }
+
+    "-=[ Survive 90 Seconds... ]=-"
+    {
+        "chi" "**存活90秒**"
+    }
+
+    "-=[ Survive until next ratio mode ]=-"
+    {
+        "chi" "**存活下一个模式**"
+    }
+
+    "-=[ The catapult is coming!!! ]=-"
+    {
+        "chi" "**投石车来了!!!**"
+    }
+
+    "-=[ The main gates are under attack ]=-"
+    {
+        "chi" "**大门遭到攻击**"
+    }
+
+    "-=[ The main gates have been penetrated ]=-"
+    {
+        "chi" "**大门已被击穿**"
+    }
+
+    "-=[ Welcome to Zombie Games ]=-"
+    {
+        "chi" "**欢迎来到刺激小游戏**"
+    }
+
+    "-=[ Worked ]=-"
+    {
+        "chi" "**奏效**"
+    }
+
+    "-=[ You have 1 minute to reach the end ]=-"
+    {
+        "chi" "**你有一分钟的时间跑到终点**"
+    }
+
+    "-=[ You have 20 more seconds ]=-"
+    {
+        "chi" "**还有20秒 再不到终点就请您去世了**"
+    }
+
+    "-=[ You have 30 seconds ]=-"
+    {
+        "chi" "**你有30秒时间**"
+    }
+
+    "-=[ You have 40 seconds ]=-"
+    {
+        "chi" "**你还有40秒的时间**"
+    }
+
+    "-=[ You have 60 seconds ]=-"
+    {
+        "chi" "**你有60秒时间**"
+    }
+
+    "-=[ Zombie spawn advanced ]=-"
+    {
+        "chi" "**僵尸准备传送**"
+    }
+
+    "-=[ Zombie spawn has advanced ]=-"
+    {
+        "chi" "**僵尸已经传送**"
+    }
+
+    "-=[ Zombies Activated Trap ]=-"
+    {
+        "chi" "**僵尸激活陷阱**"
+    }
+
+    "-=[ Zombies are blind!!!! ]=-"
+    {
+        "chi" "**僵尸都变瞎子了**"
+    }
+
+    "-=[ Zombies are free ]=-"
+    {
+        "chi" "**丧尸出笼**"
+    }
+
+    "-=[Normal Mode ]=-"
+    {
+        "chi" "**普通模式**"
+    }
+
 }

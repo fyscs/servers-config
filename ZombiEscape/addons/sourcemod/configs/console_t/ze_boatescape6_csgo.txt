@@ -1,0 +1,91 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** Nuke launched! ***"
+    {
+        "chi" "鸡汤来咯"
+    }
+
+    "*** Rescue boats are leaving ***"
+    {
+        "chi" "救援船只正在离开"
+    }
+
+    "*** Rescue boats departing in 10 seconds ***"
+    {
+        "chi" "救援船只:10秒"
+        "blocked"    "1"
+    }
+
+    "*** Rescue boats departing in 15 seconds ***"
+    {
+        "chi" "救援船只:15秒"
+        "blocked"    "1"
+    }
+
+    "*** Rescue boats departing in 30 seconds ***"
+    {
+        "chi" "救援船只:30秒"
+    }
+
+    "*** Rescue boats departing in 5 seconds ***"
+    {
+        "chi" "救援船只:5秒"
+        "blocked"    "1"
+    }
+
+    "*** Rescue boats inbound ***"
+    {
+        "chi" "救援船只已抵达"
+    }
+
+    "*** Rescue helicopter departing in 10 seconds ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** Rescue helicopter departing in 15 seconds ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** Rescue helicopter departing in 30 seconds ***"
+    {
+        "chi" "直升机:30秒"
+    }
+
+    "*** Rescue helicopter departing in 5 seconds ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** Rescue helicopter is leaving ***"
+    {
+        "chi" "直升机正在撤离"
+    }
+
+    "***MAP EXPORTED TO CSGO BY BIOHAZARD***"
+    {
+        "chi" "作者:BIOHAZARD    汉化:小三@風雲社"
+    }
+
+    "***WWW.FOG.ASSO.FR***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+}

@@ -1,107 +1,114 @@
 "Console_T"
 {
-	">>>Map Created By: Bill Smauz<<<"
-	{
-		"chi"		"**制作:Bill Smauz翻译:Sakura@风云社**"
-	}
-	"Thanks: Kaemon and Struki and Jazzman"
-	{
-		"chi"		"**感谢凯门(Kaemon)史处奇(Struki)以及爵士(Jazzman)**"
-	}
-	"Thanks To: The SteamGamers Community"
-	{
-		"chi"		"**感谢steam社区玩家**"
-	}
-	"***Lift Returning Across Canyon***"
-	{
-		"chi"		"**电梯正在路上**"
-	}
-	"***Lift Departing in 5 Seconds***"
-	{
-		"chi"		"**电梯还有5秒启动**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"***Second Cave Wall Will Collapse in 20 Seconds***"
-	{
-		"chi"		"**第二面墙将在20秒后坍塌**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"***Defend This Location***"
-	{
-		"chi"		"**防守这个地方**"
-	}
-	"***Cave Wall Will Collapse in 18 Seconds***"
-	{
-		"chi"		"**第一面墙在18秒后坍塌**"
 
-	}
-	"***APC Starting in 5 Seconds***"
-	{
-		"chi"		"**无敌装甲车将在5秒后出发**"
+    "***12 Seconds to Enter the Outpost***"
+    {
+        "chi" "**12秒之内进入前哨站**"
+    }
 
-	}
-	"***Stay Within the APC's Interior***"
-	{
-		"chi"		"**待在车里!不要动!**"
-	}
-	"***12 Seconds to Enter the Outpost***"
-	{
-		"chi"		"**12秒之内进入前哨站**"
-	}
-	"***Dropship Arrival in 60 Seconds***"
-	{
-		"chi"		"**星际飞船支援在60秒后抵达!请坚守阵地!**"
-	}
-	"***Nuking Planet Surface in 60 Seconds***"
-	{
-		"chi"		"**侦测到我方核聚变打击将在60秒后抵达**"
-	}
-	"***Dropship Arrival in 30 Seconds***"
-	{
-		"chi"		"**星际飞船支援在30秒后抵达**"
-	}
-	"***BugHole has Opened in Center of Outpost***"
-	{
-		"chi"		"**一个白洞在前哨站中心打开了**"
-	}
-	"***Dropship Arrival in 10 Seconds***"
-	{
-		"chi"		"**星际飞船支援在10秒后抵达**"
-	}
-	"***Dropship has Arrived***"
-	{
-		"chi"		"**星际飞船已抵达**"
-	}
-	"***Dropship Departing in 15 Seconds***"
-	{
-		"chi"		"**星际飞船在15秒后起飞**"
-	}
-	"***Dropship is Departing***"
-	{
-		"chi"		"**星际飞船已离开**"
-	}
-	"***Stay Within the APCs Interior***"
-	{
-		"chi"		"** **"
-	}
-	"Song: Tool - Lateralus"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"+++  MAP MADE BY GARGANTUA +++"
-	{
-		"chi"		"** **"
-	}
-	"***MAP BY LUFFAREN***"
-	{
-		"chi"		"** **"
-	}
-	"** [HARD MODE] **"
-	{
-		"chi"		"** **"
-	}
+    "***APC Starting in 5 Seconds***"
+    {
+        "chi" "**无敌装甲车将在5秒后出发**"
+    }
+
+    "***BugHole has Opened in Center of Outpost***"
+    {
+        "chi" "**一个白洞在前哨站中心打开了**"
+    }
+
+    "***Cave Wall Will Collapse in 18 Seconds***"
+    {
+        "chi" "**第一面墙在18秒后坍塌**"
+    }
+
+    "***Defend This Location***"
+    {
+        "chi" "**防守这个地方**"
+    }
+
+    "***Dropship Arrival in 10 Seconds***"
+    {
+        "chi" "**星际飞船支援在10秒后抵达**"
+    }
+
+    "***Dropship Arrival in 30 Seconds***"
+    {
+        "chi" "**星际飞船支援在30秒后抵达**"
+    }
+
+    "***Dropship Arrival in 60 Seconds***"
+    {
+        "chi" "**星际飞船支援在60秒后抵达!请坚守阵地!**"
+    }
+
+    "***Dropship Departing in 15 Seconds***"
+    {
+        "chi" "**星际飞船在15秒后起飞**"
+    }
+
+    "***Dropship has Arrived***"
+    {
+        "chi" "**星际飞船已抵达**"
+    }
+
+    "***Dropship is Departing***"
+    {
+        "chi" "**星际飞船已离开**"
+    }
+
+    "***Lift Departing in 5 Seconds***"
+    {
+        "chi" "**电梯还有5秒启动**"
+    }
+
+    "***Lift Returning Across Canyon***"
+    {
+        "chi" "**电梯正在路上**"
+    }
+
+    "***Nuking Planet Surface in 60 Seconds***"
+    {
+        "chi" "**侦测到我方核聚变打击将在60秒后抵达**"
+    }
+
+    "***Second Cave Wall Will Collapse in 20 Seconds***"
+    {
+        "chi" "**第二面墙将在20秒后坍塌**"
+    }
+
+    "***Stay Within the APC's Interior***"
+    {
+        "chi" "**待在车里!不要动!**"
+    }
+
+    ">>>Map Created By: Bill Smauz<<<"
+    {
+        "chi" "**制作:Bill Smauz翻译:Sakura@风云社**"
+    }
+
+    "Song: Tool - Lateralus"
+    {
+        "chi" "歌曲:Tool  Lateralus"
+    }
+
+    "Thanks To: The SteamGamers Community"
+    {
+        "chi" "**感谢steam社区玩家**"
+    }
+
+    "Thanks: Kaemon and Struki and Jazzman"
+    {
+        "chi" "**感谢凯门(Kaemon)史处奇(Struki)以及爵士(Jazzman)**"
+    }
+
 }

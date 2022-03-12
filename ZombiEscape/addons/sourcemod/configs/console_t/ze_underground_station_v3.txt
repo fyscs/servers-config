@@ -1,11 +1,55 @@
 "Console_T"
 {
-	"***DOOR OPENS IN 5 SECONDS***"
-	{
-		"chi"		"**大门将在5秒后打开**"
-	}
-	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** Stage 1 Win ***"
+    {
+        "chi" "胜利"
+    }
+
+    "*** Stage 2 Win ***"
+    {
+        "chi" "胜利"
+    }
+
+    "***Door opens in 5 seconds***"
+    {
+        "chi" "门5秒后打开"
+    }
+
+    "***Lasers ON!  Home run !!***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "***map by user1.1***"
+    {
+        "chi" "作者:user1.1 汉化:小三@風雲社"
+    }
+
+    "***Stage 2***"
+    {
+        "chi" "第二关"
+    }
+
+    "***stay near of the door, something will happen!***"
+    {
+        "chi" "别离开这扇门"
+    }
+
+    "***you have beaten the map***"
+    {
+        "chi" "恭喜你已经成功征服了这张地图"
+    }
+
 }

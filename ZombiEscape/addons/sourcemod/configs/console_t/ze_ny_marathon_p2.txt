@@ -1,335 +1,446 @@
 "Console_T"
 {
-	"*** Stage 4: Cuckoo ***"
-	{
-		"chi"		"** 关卡4: 布谷鸟 **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *"
-	{
-		"chi"		"** **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"** 纽约马拉松: 准备开始 **"
-	}
-	"*** DIFFICULTY: XTRIMER ***"
-	{
-		"chi"		"** 难度: XTRIMER **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Leaf Hound - Growers Of Mushroom ]] *"
-	{
-		"chi"		"** **"
-	}
-	"** Oh noes! The tunnel is locked! We'll have to hold a bit (30s) **"
-	{
-		"chi"		"** 噢!不!隧道无法通行!五门需要等待30秒 **"
-	}
-	"** 15 seconds left! Keep defending! **"
-	{
-		"chi"		"** 继续抵御僵尸15秒 **"
-	}
-	"** 5 seconds left! Resist! **"
-	{
-		"chi"		"** 还剩5秒 **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *"
-	{
-		"chi"		"** **"
-	}
-	"*** Address: 0x6469636b ***"
-	{
-		"chi"		"** **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] *"
-	{
-		"chi"		"** **"
-	}
-	"** We need to resist! The park's door will open in 20 seconds! **"
-	{
-		"chi"		"** 防守!公园的们20秒后打开 **"
-	}
-	"** RESIST! Last 5 seconds! **"
-	{
-		"chi"		"** 还剩下5秒 **"
-	}
-	"** Hold the broken wall! The door will open in 25 seconds! **"
-	{
-		"chi"		"** 守住这道破损的墙, 门25秒后打开 **"
-	}
-	"** Resist! 10 more seconds! **"
-	{
-		"chi"		"** 还剩10秒 **"
-	}
-	"** CHECKPOINT REACHED: STAY ON THE WHITE CIRCLES TO KEEP GOING. **"
-	{
-		"chi"		"** 到达检查点: 停留在白色圆圈上以继续前进 **"
-	}
-	"** THE CHECKPOINT HAS BEEN ENABLED! **"
-	{
-		"chi"		"** 检查点启用 **"
-	}
-	"** AFK AND SLOW WOBBLES WILL BE TELEPORTED TO IT IN 20 SECONDS. **"
-	{
-		"chi"		"** 挂机咸鱼和老寒腿20秒后将被传送至该点 **"
-	}
-	"** HOLD! The station door will open in 25 seconds! **"
-	{
-		"chi"		"** 守住!车站的门25秒后打开 **"
-	}
-	"** HOLD! The station door will open in 10 seconds! **"
-	{
-		"chi"		"** 守住!车站的门10秒后打开 **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] *"
-	{
-		"chi"		"** **"
-	}
-	"** JUMP OVER THE TRAINS! WE HAVE TO GET TO THE OTHER SIDE!!! **"
-	{
-		"chi"		"** 穿过火车, 我们去另一边 **"
-	}
-	"** We must resist here until the door unlocks! (25s) **"
-	{
-		"chi"		"** 在这里防守僵尸25秒直至开门 **"
-	}
-	"** Resist! 10 seconds left! **"
-	{
-		"chi"		"** 还剩10秒 **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Arthur Brown - I've Got Money ]] *"
-	{
-		"chi"		"** **"
-	}
-	"*** MODE: RABBIT RIBBIT ***"
-	{
-		"chi"		"** **"
-	}
-	"** HOLD! The doors will open in 15 seconds!!! **"
-	{
-		"chi"		"** 守住!门15秒后打开 **"
-	}
-	"** RESIST! 5 seconds left!!! **"
-	{
-		"chi"		"** 还剩下5秒 **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] *"
-	{
-		"chi"		"** **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] *"
-	{
-		"chi"		"** **"
-	}
-	"** Engine area door is opening in 30 seconds. **"
-	{
-		"chi"		"** 发动机区域的门30秒后打开 **"
-	}
-	"** Engine area door is opening in 15 seconds. **"
-	{
-		"chi"		"** 发动机区域的门15秒后打开 **"
-	}
-	"** Engine area door is opening in 5 seconds. RESIST!!! **"
-	{
-		"chi"		"** 发动机区域的门5秒后打开 **"
-	}
-	"** Valve room door is opening in 15 seconds. **"
-	{
-		"chi"		"** 阀室大门15秒打开 **"
-	}
-	"** Valve room door is opening in 5 seconds. RESIST!!! **"
-	{
-		"chi"		"** 阀室大门5秒打开 **"
-	}
-	"** Spam E on the valves! We need to let the toxic waste out!!! **"
-	{
-		"chi"		"** 在阀门上按E, 我们必须释放有毒物质 **"
-	}
-	"** This will wipe out those darn filthy zombies! **"
-	{
-		"chi"		"** 这会消灭那些肮脏的僵尸 **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Ram Jam - Black Betty ]] *"
-	{
-		"chi"		"** **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *"
-	{
-		"chi"		"** **"
-	}
-	"*** I FUCKING HATE YOU WALT WHITMAN!!! ***"
-	{
-		"chi"		"** 我恨你 **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] *"
-	{
-		"chi"		"** **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Reflelia***"
-	{
-		"chi"		"** 地图制作: Reflelia 地图翻译: 小三@风云社 **"
-	}
-	"*** Difficulty: MissingNo ***"
-	{
-		"chi"		"** **"
-	}
-	"*** 0110100001101001 ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Turn on the chopper's engines! ***"
-	{
-		"chi"		"** **"
-	}
-	"** The helicopter is leaving in 30 seconds. RESIST! **"
-	{
-		"chi"		"** **"
-	}
-	"** C'mon! 15 more seconds! **"
-	{
-		"chi"		"** **"
-	}
-	"** Last 5 seconds! HOLD!!! **"
-	{
-		"chi"		"** **"
-	}
-	"***5***"
-	{
-		"chi"		"** **"
-	}
-	"***4***"
-	{
-		"chi"		"** **"
-	}
-	"***3***"
-	{
-		"chi"		"** **"
-	}
-	"***2***"
-	{
-		"chi"		"** **"
-	}
-	"***1***"
-	{
-		"chi"		"** **"
-	}
-	"***0***"
-	{
-		"chi"		"** **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Motorhead - Ace of Spades ]] *"
-	{
-		"chi"		"** **"
-	}
-	"*** Current level: Onion ***"
-	{
-		"chi"		"** **"
-	}
-	"*** FIDDICULTU: STRING 2 ***"
-	{
-		"chi"		"** **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] *"
-	{
-		"chi"		"** **"
-	}
-	"*** Word: BIRD ***"
-	{
-		"chi"		"** **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] *"
-	{
-		"chi"		"** **"
-	}
-	"---Feedback:noojeff@gmail.com---"
-	{
-		"chi"		"** **"
-	}
-	"*** Current stage: Mines of Moria ***"
-	{
-		"chi"		"** **"
-	}
-	"* [[ NYCRockRadio FM 81.2 :: The Doors - Roadhouse Blues ]] *"
-	{
-		"chi"		"** **"
-	}
-	"*** Escape: THE PAPER DIMENSION ***"
-	{
-		"chi"		"** **"
-	}
-	"*** LEVEL: ULTIMATE ***"
-	{
-		"chi"		"** **"
-	}
-	"** The exitless park doors are opening in 20 seconds! **"
-	{
-		"chi"		"** **"
-	}
-	"** GO! We have to hold the park until we find a way out! **"
-	{
-		"chi"		"** **"
-	}
-	"** We could call a Penis-UFO and split the fare... **"
-	{
-		"chi"		"** **"
-	}
-	"** OK GO! The Penis-UFO is coming! RESIST!!! **"
-	{
-		"chi"		"** **"
-	}
-	"** GO! The penis UFO doors are opening!!! **"
-	{
-		"chi"		"** **"
-	}
-	"** RESIST FOR 20 SECONDS!!! **"
-	{
-		"chi"		"** **"
-	}
-	"** Left valve has been fully opened! **"
-	{
-		"chi"		"** **"
-	}
-	"** BOTH VALVES HAVE BEEN UNLOCKED!!! **"
-	{
-		"chi"		"** **"
-	}
-	"** RESIST FOR 15 SECONDS!!! **"
-	{
-		"chi"		"** **"
-	}
-	"***Modified by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	"** Right valve has been fully opened! **"
-	{
-		"chi"		"** **"
-	}
-	"<<< Level 1 >>>"
-	{
-		"chi"		"** **"
-	}
-	"ESCAPE FROM ZOMBIELAND"
-	{
-		"chi"		"** **"
-	}
-	"Please wait 20 seconds before the door opening"
-	{
-		"chi"		"** **"
-	}
-	"* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
-	{
-		"chi"		"** **"
-	}
-	"* * * Choose the first MINIGAME * * *"
-	{
-		"chi"		"** **"
-	}
-	"[Map] ze_Suchirifu"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "* [[ NYCRockRadio FM 81.2 :: Arthur Brown - I've Got Money ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "* [[ NYCRockRadio FM 81.2 :: Arzachel - Leg ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "* [[ NYCRockRadio FM 81.2 :: Buffalo - Shylock ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "* [[ NYCRockRadio FM 81.2 :: Deep Purple - Highway Star ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "* [[ NYCRockRadio FM 81.2 :: Flower Travellin' Band - Satori PT1 ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "* [[ NYCRockRadio FM 81.2 :: Girlschool - C'mon Let's Go! ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "* [[ NYCRockRadio FM 81.2 :: Granicus - Cleveland Ohio ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "* [[ NYCRockRadio FM 81.2 :: Leaf Hound - Growers Of Mushroom ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "* [[ NYCRockRadio FM 81.2 :: M.O.D. - Surfin' USA ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "* [[ NYCRockRadio FM 81.2 :: Motorhead - Ace of Spades ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "* [[ NYCRockRadio FM 81.2 :: Ram Jam - Black Betty ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "* [[ NYCRockRadio FM 81.2 :: Sir Lord Baltimore - Hell Hound ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "* [[ NYCRockRadio FM 81.2 :: Steppenwolf - Born To Be Wild ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "* [[ NYCRockRadio FM 81.2 :: The Doors - Roadhouse Blues ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "* [[ NYCRockRadio FM 81.2 :: The Gun - Race With The Devil ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "* [[ NYCRockRadio FM 81.2 :: Warpig - Rock Star ]] *"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** 15 seconds left! Keep defending! **"
+    {
+        "chi" "** 继续抵御僵尸15秒 **"
+    }
+
+    "** 5 seconds left! Resist! **"
+    {
+        "chi" "** 还剩5秒 **"
+    }
+
+    "** AFK AND SLOW WOBBLES WILL BE TELEPORTED TO IT IN 20 SECONDS. **"
+    {
+        "chi" "** 挂机咸鱼和老寒腿20秒后将被传送至该点 **"
+    }
+
+    "** BOTH VALVES HAVE BEEN UNLOCKED!!! **"
+    {
+        "chi" "两个阀门都已解锁"
+    }
+
+    "** CHECKPOINT REACHED: STAY ON THE WHITE CIRCLES TO KEEP GOING. **"
+    {
+        "chi" "** 到达检查点: 停留在白色圆圈上以继续前进 **"
+    }
+
+    "** C'mon! 15 more seconds! **"
+    {
+        "chi" "15"
+    }
+
+    "** Engine area door is opening in 15 seconds. **"
+    {
+        "chi" "** 发动机区域的门15秒后打开 **"
+    }
+
+    "** Engine area door is opening in 30 seconds. **"
+    {
+        "chi" "** 发动机区域的门30秒后打开 **"
+    }
+
+    "** Engine area door is opening in 5 seconds. RESIST!!! **"
+    {
+        "chi" "** 发动机区域的门5秒后打开 **"
+    }
+
+    "** GO! The penis UFO doors are opening!!! **"
+    {
+        "chi" "不明飞行物的门已经打开了"
+    }
+
+    "** GO! We have to hold the park until we find a way out! **"
+    {
+        "chi" "我们必须守住公园,直到找到离开这里的方法"
+    }
+
+    "** Hold the broken wall! The door will open in 25 seconds! **"
+    {
+        "chi" "** 守住这道破损的墙, 门25秒后打开 **"
+    }
+
+    "** HOLD! The doors will open in 15 seconds!!! **"
+    {
+        "chi" "** 守住!门15秒后打开 **"
+    }
+
+    "** HOLD! The station door will open in 10 seconds! **"
+    {
+        "chi" "** 守住!车站的门10秒后打开 **"
+    }
+
+    "** HOLD! The station door will open in 25 seconds! **"
+    {
+        "chi" "** 守住!车站的门25秒后打开 **"
+    }
+
+    "** JUMP OVER THE TRAINS! WE HAVE TO GET TO THE OTHER SIDE!!! **"
+    {
+        "chi" "** 穿过火车, 我们去另一边 **"
+    }
+
+    "** Last 5 seconds! HOLD!!! **"
+    {
+        "chi" "最后5秒,守住"
+    }
+
+    "** Left valve has been fully opened! **"
+    {
+        "chi" "左阀门已完全打开"
+    }
+
+    "** Oh noes! The tunnel is locked! We'll have to hold a bit (30s) **"
+    {
+        "chi" "** 噢!不!隧道无法通行!五门需要等待30秒 **"
+    }
+
+    "** OK GO! The Penis-UFO is coming! RESIST!!! **"
+    {
+        "chi" "厚礼蟹!!!外星人!!!"
+    }
+
+    "** RESIST FOR 15 SECONDS!!! **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** RESIST FOR 20 SECONDS!!! **"
+    {
+        "chi" "防守:20秒"
+    }
+
+    "** Resist! 10 more seconds! **"
+    {
+        "chi" "** 还剩10秒 **"
+    }
+
+    "** Resist! 10 seconds left! **"
+    {
+        "chi" "** 还剩10秒 **"
+    }
+
+    "** RESIST! 5 seconds left!!! **"
+    {
+        "chi" "** 还剩下5秒 **"
+    }
+
+    "** RESIST! Last 5 seconds! **"
+    {
+        "chi" "** 还剩下5秒 **"
+    }
+
+    "** Right valve has been fully opened! **"
+    {
+        "chi" "右阀门已完全打开"
+    }
+
+    "** Spam E on the valves! We need to let the toxic waste out!!! **"
+    {
+        "chi" "** 在阀门上按E, 我们必须释放有毒物质 **"
+    }
+
+    "** THE CHECKPOINT HAS BEEN ENABLED! **"
+    {
+        "chi" "** 检查点启用 **"
+    }
+
+    "** The exitless park doors are opening in 20 seconds! **"
+    {
+        "chi" "公园门:20秒"
+    }
+
+    "** The helicopter is leaving in 30 seconds. RESIST! **"
+    {
+        "chi" "直升机:30秒"
+    }
+
+    "** This will wipe out those darn filthy zombies! **"
+    {
+        "chi" "** 这会消灭那些肮脏的僵尸 **"
+    }
+
+    "** Valve room door is opening in 15 seconds. **"
+    {
+        "chi" "** 阀室大门15秒打开 **"
+    }
+
+    "** Valve room door is opening in 5 seconds. RESIST!!! **"
+    {
+        "chi" "** 阀室大门5秒打开 **"
+    }
+
+    "** We could call a Penis-UFO and split the fare... **"
+    {
+        "chi" "我们可以乘坐外星人的飞船"
+    }
+
+    "** We must resist here until the door unlocks! (25s) **"
+    {
+        "chi" "** 在这里防守僵尸25秒直至开门 **"
+    }
+
+    "** We need to resist! The park's door will open in 20 seconds! **"
+    {
+        "chi" "** 防守!公园的们20秒后打开 **"
+    }
+
+    "*** 0110100001101001 ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** Address: 0x6469636b ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** Current level: Onion ***"
+    {
+        "chi" "当前关卡:麻麻告诉我不会翻译的这样写就行啦"
+    }
+
+    "*** Current stage: Mines of Moria ***"
+    {
+        "chi" "当前关卡:莫里亚矿山"
+    }
+
+    "*** Difficulty: MissingNo ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** DIFFICULTY: XTRIMER ***"
+    {
+        "chi" "** 难度: XTRIMER **"
+        "blocked"    "1"
+        
+    }
+
+    "*** Escape: THE PAPER DIMENSION ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** FIDDICULTU: STRING 2 ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** I FUCKING HATE YOU WALT WHITMAN!!! ***"
+    {
+        "chi" "** 我恨你 **"
+    }
+
+    "*** LETS KICK SHELL!!! ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** LEVEL: Monkeymmunism. ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** LEVEL: ULTIMATE ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** MODE: RABBIT RIBBIT ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** NY MARATHON: GET READY TO RUN! ***"
+    {
+        "chi" "** 纽约马拉松: 准备开始 **"
+    }
+
+    "*** OH! PIZZA PIZZA PIZZA PIZZA PIZZA!!! ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** PACO! THERE IS UNA PARTY EN MY PANTALONES ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** PIZZA: PIZZA PIZZA PIZZA ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** Stage 4: Cuckoo ***"
+    {
+        "chi" "** 关卡四:布谷鸟 **"
+    }
+
+    "*** Turn on the chopper's engines! ***"
+    {
+        "chi" "修理直升机"
+    }
+
+    "*** Word: BIRD ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "***0***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "***1***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "***2***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "***3***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "***4***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "***5***"
+    {
+        "chi" "...5..."
+    }
+
 }

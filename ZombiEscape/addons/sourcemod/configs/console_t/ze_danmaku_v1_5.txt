@@ -1,173 +1,226 @@
 "Console_T"
 {
-	"<human win>"
-	{
-		"chi"		"人类胜利"
-		"command"	"sm_ef fys_global_relay RunScriptCode KillTE()"
-	}
-	"<< INFECTED DETECTED >>"
-	{
-		"chi"		"检测到感染体,人类失败"
-		"command"	"sm_ef fys_global_relay RunScriptCode KillCT()"
-	}
-	"*** Level 3 Button Pressed ***"
-	{
-		"chi"		"第三关载入"
-	}
-	"*** Level 2 Button Pressed ***"
-	{
-		"chi"		"第二关载入"
-	}
-	"*** SLAY BUTTON PRESSED ***"
-	{
-		"chi"		"按下处死全体按钮"
-	}
-	"*** SLAYING ALL IN 3 SECONDS ***"
-	{
-		"chi"		"3秒后全体暴毙"
-	}
-	"Warmup Round"
-	{
-		"chi"		"热身赛"
-	}
-	">>> Round Failed <<<"
-	{
-		"chi"		"回合失败"
-	}
-	"*** DESTROYING MAP ***"
-	{
-		"chi"		"重置地图"
-	}
-	"<< Generating 00010110 >>"
-	{
-		"chi"		"生成 '00010110”"
-	}
-	"<< Generating 1010 >>"
-	{
-		"chi"		"生成 '1010”"
-	}
-	"<< Generating 010 >>"
-	{
-		"chi"		"生成 '010”"
-	}
-	"<< Processing Map >>"
-	{
-		"chi"		"处理中"
-	}
-	"+<!>+"
-	{
-		"chi"		"'!”"
-	}
-	"*** CONGRATULATIONS YOU BEAT THE MAP ***"
-	{
-		"chi"		"祝贺!地图通关"
-	}
-	"*** For Now... ***"
-	{
-		"chi"		"就是现在"
-	}
-	"*** Calculating Round Data ***"
-	{
-		"chi"		"计算回合数据*"
-	}
-	"===Spawning==="
-	{
-		"chi"		"===Spawning==="
-	}
-	"===DiagramEnabled==="
-	{
-		"chi"		"===DiagramEnabled==="
-	}
-	">PLAYER HAS PICKED UP:BULWARK MAKER<"
-	{
-		"chi"		"一名玩家捡起了坚盾壁垒"
-	}
-	">Skematics enabled<"
-	{
-		"chi"		"坚盾壁垒预构已启用"
-	}
-	"<ZOMBIE HAS PICKED UP:MANIPULATION>"
-	{
-		"chi"		"一名捡起捡起了控制"
-	}
-	">PLAYER HAS PICKED UP:GIST<"
-	{
-		"chi"		"一名捡起捡起了能量环带"
-	}
-	">PLAYER HAS PICKED UP:PONDER<"
-	{
-		"chi"		"一名捡起捡起了静默领域"
-	}
-	"<ZOMBIE HAS PICKED UP:DEMONIC AURA>"
-	{
-		"chi"		"一名捡起捡起了恶魔光环"
-	}
-	"<ZOMBIE HAS PICKED UP:ORDNANCE:>"
-	{
-		"chi"		"一名捡起捡起了灼热光炮"
-	}
-	">PLAYER HAS PICKED UP:HOLY AURA<"
-	{
-		"chi"		"一名捡起捡起了能量爆发"
-	}
-	"<< EYE OF HEALING >>"
-	{
-		"chi"		"治愈之眼"
-	}
-	"*Healed*"
-	{
-		"chi"		"回复了血量"
-	}
-	"<< SHIFT >>"
-	{
-		"chi"		"地面沉降"
-	}
-	"<< SCRAMBLE >>"
-	{
-		"chi"		"魔贯光杀炮"
-	}
-	"<< COSMIC FALL >>"
-	{
-		"chi"		"堕天降临'天坠”"
-	}
-	"<< DODGE >>"
-	{
-		"chi"		"能量倾泻"
-	}
-	"<< PUSH >>"
-	{
-		"chi"		"风暴之翼'站蓝色特效躲避”"
-	}
-	"<Map made by J3wdice ~ Midknight>"
-	{
-		"chi"		"地图制作:J3wdice ~ Midknight  汉化:小三@風雲社"
-	}
-	"<STAGE:EASY>"
-	{
-		"chi"		"第一关"
-	}
-	":ZITEM:MODULATE"
-	{
-		"chi"		"ZM关"
-	}
-	">STAGE:EXPERT<"
-	{
-		"chi"		"第三关"
-	}
-	">Map made by J3wDice ~ Midknight<"
-	{
-		"chi"		"地图制作:J3wdice ~ Midknight  汉化:小三@風雲社"
-	}
-	">STAGE:HARD<"
-	{
-		"chi"		"第二关"
-	}
-	"human tele in 10s"
-	{
-		"chi"		"人类传送:10秒"
-	}
-	"zmbie tele in 5s"
-	{
-		"chi"		"僵尸传送:5秒"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    " << COSMIC FALL >>"
+    {
+        "chi" "天坠"
+    }
+
+    " << PUSH >>"
+    {
+        "chi" "推力"
+    }
+
+    "*** Calculating Round Data ***"
+    {
+        "chi" "计算回合数据*"
+    }
+
+    "*** CONGRATULATIONS YOU BEAT THE MAP ***"
+    {
+        "chi" "祝贺!地图通关"
+    }
+
+    "*** DESTROYING MAP ***"
+    {
+        "chi" "重置地图"
+    }
+
+    "*** For Now... ***"
+    {
+        "chi" "就是现在"
+    }
+
+    "*** Level 2 Button Pressed ***"
+    {
+        "chi" "第二关载入"
+    }
+
+    "*** Level 3 Button Pressed ***"
+    {
+        "chi" "第三关载入"
+    }
+
+    "*** SLAY BUTTON PRESSED ***"
+    {
+        "chi" "按下处死全体按钮"
+    }
+
+    "*** SLAYING ALL IN 3 SECONDS ***"
+    {
+        "chi" "3秒后全体暴毙"
+    }
+
+    "*Healed*"
+    {
+        "chi" "回复了血量"
+    }
+
+    ":ZITEM:MODULATE"
+    {
+        "chi" "ZM关"
+    }
+
+    "+<!>+"
+    {
+        "chi" "'!”"
+    }
+
+    "<< COSMIC FALL >>"
+    {
+        "chi" "堕天降临'天坠”"
+    }
+
+    "<< DODGE >>"
+    {
+        "chi" "能量倾泻"
+    }
+
+    "<< EYE OF HEALING >>"
+    {
+        "chi" "治愈之眼"
+    }
+
+    "<< Generating 00010110 >>"
+    {
+        "chi" "生成 '00010110”"
+    }
+
+    "<< Generating 010 >>"
+    {
+        "chi" "生成 '010”"
+    }
+
+    "<< Generating 1010 >>"
+    {
+        "chi" "生成 '1010”"
+    }
+
+    "<< INFECTED DETECTED >>"
+    {
+        "chi" "检测到感染体,人类失败"
+    }
+
+    "<< Processing Map >>"
+    {
+        "chi" "处理中"
+    }
+
+    "<< SCRAMBLE >>"
+    {
+        "chi" "魔贯光杀炮"
+    }
+
+    "<< SHIFT >>"
+    {
+        "chi" "地面沉降"
+    }
+
+    "<Map made by J3wdice ~ Midknight>"
+    {
+        "chi" "地图制作:J3wdice ~ Midknight  汉化:小三@風雲社"
+    }
+
+    "<STAGE:EASY>"
+    {
+        "chi" "第一关"
+    }
+
+    "<ZOMBIE HAS PICKED UP:DEMONIC AURA>"
+    {
+        "chi" "一名捡起捡起了恶魔光环"
+        "blocked"    "1"
+    }
+
+    "<ZOMBIE HAS PICKED UP:MANIPULATION>"
+    {
+        "chi" "一名捡起捡起了控制"
+        "blocked"    "1"
+    }
+
+    "<ZOMBIE HAS PICKED UP:ORDNANCE:>"
+    {
+        "chi" "一名捡起捡起了灼热光炮"
+        "blocked"    "1"
+    }
+
+    "===DiagramEnabled==="
+    {
+        "chi" "===DiagramEnabled==="
+    }
+
+    "===Spawning==="
+    {
+        "chi" "===Spawning==="
+    }
+
+    ">>> Round Failed <<<"
+    {
+        "chi" "回合失败"
+    }
+
+    ">Map made by J3wDice ~ Midknight<"
+    {
+        "chi" "地图制作:J3wdice ~ Midknight  汉化:小三@風雲社"
+    }
+
+    ">PLAYER HAS PICKED UP:BULWARK MAKER<"
+    {
+        "chi" "一名玩家捡起了坚盾壁垒"
+        "blocked"    "1"
+    }
+
+    ">PLAYER HAS PICKED UP:GIST<"
+    {
+        "chi" "一名捡起捡起了能量环带"
+        "blocked"    "1"
+    }
+
+    ">PLAYER HAS PICKED UP:HOLY AURA<"
+    {
+        "chi" "一名捡起捡起了能量爆发"
+        "blocked"    "1"
+    }
+
+    ">PLAYER HAS PICKED UP:PONDER<"
+    {
+        "chi" "一名捡起了静默领域"
+        "blocked"    "1"
+    }
+
+    ">Skematics enabled<"
+    {
+        "chi" "坚盾壁垒预构已启用"
+    }
+
+    ">STAGE:EXPERT<"
+    {
+        "chi" "第三关"
+    }
+
+    ">STAGE:HARD<"
+    {
+        "chi" "第二关"
+    }
+
+    "Warmup Round"
+    {
+        "chi" "热身赛"
+    }
+
+    "Warmup Round Ending"
+    {
+        "chi" "热身结束"
+    }
+
 }

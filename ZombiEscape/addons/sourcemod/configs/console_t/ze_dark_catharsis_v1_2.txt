@@ -1,13 +1,25 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "MAP BY MK!NG"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** if zombies arive at the next door first, its over ***"
     {
-        "chi" "**地图作者:MK!NG 汉化:龙鸣 **"
+        "chi" "**如果僵尸到达下一扇大门 那么...你就失败了... **"
+    }
+
+    "*** ZOMBIE PICKED UP HEAL ! ***"
+    {
+        "chi" "**僵尸已拾取zm奶 **"
+        "blocked"    "1"
     }
 
     "*** ZOMBIES ARIVED AT DOOR FIRST, AUTO-PRESSING THEM LEVERS***"
@@ -15,44 +27,9 @@
         "chi" "**如果僵尸贴到门 那么将自动触发! **"
     }
 
-    "*** ZOMBIE PICKED UP HEAL ! ***"
+    "***Activate the bonfire on the center...***"
     {
-        "chi" "**僵尸已拾取zm奶 **"
-    }
-
-    "***YOU WIN!***"
-    {
-        "chi" "**恭喜你征服该地图 **"
-    }
-
-    "***To be continued... (?) ***"
-    {
-        "chi" "**未完待继...? **"
-    }
-
-    "***YOU FAIL, A DARK CATHARSIS IS TRIGGERED***"
-    {
-        "chi" "**你输了 暗黑之力失去了控制 **"
-    }
-
-    "***CLEANSING THE WORLD IN 15 SECONDS***"
-    {
-        "chi" "**15秒后神圣裁决降临 **"
-    }
-
-    "***Lighting up the bonfire... your sins will be cleansed...***"
-    {
-        "chi" "**点燃圣火 你的灵魂将得到净化... **"
-    }
-
-    "***No impure creature must touch the bonfire***"
-    {
-        "chi" "**不能让黑暗生物触碰到圣火 **"
-    }
-
-    "***Defend for more than 50 seconds***"
-    {
-        "chi" "**坚守50秒!!! **"
+        "chi" "**点燃中间的圣火... **"
     }
 
     "***All sides are reached, gates will open soon***"
@@ -65,14 +42,24 @@
         "chi" "**议政厅15秒后开放 **"
     }
 
-    "***Activate the bonfire on the center...***"
+    "***CLEANSING THE WORLD IN 15 SECONDS***"
     {
-        "chi" "**点燃中间的圣火... **"
+        "chi" "**15秒后神圣裁决降临 **"
     }
 
-    "**Zombies destroyed one of the souls... you shall suffer the consequences!**"
+    "***Defend for more than 50 seconds***"
     {
-        "chi" "**僵尸已摧毁一个灵魂 你需要付出相应代价! **"
+        "chi" "**坚守50秒!!! **"
+    }
+
+    "***Lighting up the bonfire... your sins will be cleansed...***"
+    {
+        "chi" "**点燃圣火 你的灵魂将得到净化... **"
+    }
+
+    "***No impure creature must touch the bonfire***"
+    {
+        "chi" "**不能让黑暗生物触碰到圣火 **"
     }
 
     "***Platform powered up.. it will leave shortly***"
@@ -85,6 +72,96 @@
         "chi" "**等待上升气流激活 **"
     }
 
+    "***To be continued... (?) ***"
+    {
+        "chi" "**未完待继...? **"
+    }
+
+    "***YOU FAIL, A DARK CATHARSIS IS TRIGGERED***"
+    {
+        "chi" "**你输了 暗黑之力失去了控制 **"
+    }
+
+    "***YOU WIN!***"
+    {
+        "chi" "**恭喜你征服该地图 **"
+    }
+
+    "***Zombie TP advancing in 5 seconds***"
+    {
+        "chi" "**僵尸传送将于5秒后激活 **"
+    }
+
+    "***Zombie TP in 10 seconds***"
+    {
+        "chi" "**僵尸传送将于10秒后激活 **"
+    }
+
+    "**A button was found under the desk**"
+    {
+        "chi" "**嗯...桌子下貌似有个隐藏的按钮 **"
+    }
+
+    "**Doors will open in 15 seconds**"
+    {
+        "chi" "**大门15秒后打开 **"
+    }
+
+    "**Doors will open in 30 seconds**"
+    {
+        "chi" "**大门需要30秒打开 **"
+    }
+
+    "**Doors will open in 5 seconds**"
+    {
+        "chi" "**大门5秒后打开 **"
+    }
+
+    "**Elevator closes in 10 seconds**"
+    {
+        "chi" "**电梯闸门需要10秒关闭 **"
+    }
+
+    "**Elevator DOORS opens in 20 seconds**"
+    {
+        "chi" "**电梯闸门需要20秒打开 **"
+    }
+
+    "**Enter it at your own risk...**"
+    {
+        "chi" "**你需要自行承担后果 **"
+    }
+
+    "**Human detected on the dimensional teleporter...**"
+    {
+        "chi" "**传送仪检测到人类... **"
+    }
+
+    "**Main doors will open in 15 seconds**"
+    {
+        "chi" "**主门将于15秒后打开 **"
+    }
+
+    "**One of the levers has been activated**"
+    {
+        "chi" "**一个操纵杆已被激活 **"
+    }
+
+    "**Only 15 seconds until...**"
+    {
+        "chi" "**还剩15秒 **"
+    }
+
+    "**Path opens in 20 seconds**"
+    {
+        "chi" "**坚守20秒 **"
+    }
+
+    "**Path opens in 25 seconds**"
+    {
+        "chi" "**坚守25秒 **"
+    }
+
     "**Pillar platform will move soon...**"
     {
         "chi" "**支柱平台即将激活 **"
@@ -95,14 +172,9 @@
         "chi" "**你所拯救的灵魂皆会化为你的征程中的助力 **"
     }
 
-    "**The more humans nearby the souls, the stronger it will become**"
+    "**The altar looks suspicious, we better check it**"
     {
-        "chi" "**灵魂附近的人类越多 他的力量就越强大 **"
-    }
-
-    "**The cross is moving!**"
-    {
-        "chi" "**看 十字架正在移动! **"
+        "chi" "**这祭坛有些古怪 我们应该仔细调查 **"
     }
 
     "**The both sides have locked doors... but the map shows that there are levers that activate them, let's find'em**"
@@ -110,84 +182,14 @@
         "chi" "**找到隐藏的激活开关! **"
     }
 
-    "**Zombie detected in trigger, you failed**"
+    "**The cross is moving!**"
     {
-        "chi" "**检测到僵尸 你失败了 **"
+        "chi" "**看 十字架正在移动! **"
     }
 
-    "**There seems to be both sides down here... we must check'em both**"
+    "**The more humans nearby the souls, the stronger it will become**"
     {
-        "chi" "**这两个相邻的开关有点古怪 我们应该仔细调查... **"
-    }
-
-    "**Doors will open in 15 seconds**"
-    {
-        "chi" "**大门15秒后打开 **"
-    }
-
-    "**Doors will open in 5 seconds**"
-    {
-        "chi" "**大门5秒后打开 **"
-    }
-
-    "***Zombie TP advancing in 5 seconds***"
-    {
-        "chi" "**僵尸传送将于5秒后激活 **"
-    }
-
-    "**Elevator closes in 10 seconds**"
-    {
-        "chi" "**电梯闸门需要10秒关闭 **"
-    }
-
-    "**We must must split up in 3 groups for now...**"
-    {
-        "chi" "**貌似我们必须分成三个小队... **"
-    }
-
-    "***Zombie TP in 10 seconds***"
-    {
-        "chi" "**僵尸传送将于10秒后激活 **"
-    }
-
-    "**Human detected on the dimensional teleporter...**"
-    {
-        "chi" "**传送仪检测到人类... **"
-    }
-
-    "**The teleproter is warming up**"
-    {
-        "chi" "**传送仪正在充能 **"
-    }
-
-    "**Only 15 seconds until...**"
-    {
-        "chi" "**还剩15秒 **"
-    }
-
-    "**Enter it at your own risk...**"
-    {
-        "chi" "**你需要自行承担后果 **"
-    }
-
-    "**Elevator DOORS opens in 20 seconds**"
-    {
-        "chi" "**电梯闸门需要20秒打开 **"
-    }
-
-    "**One of the levers has been activated**"
-    {
-        "chi" "**一个操纵杆已被激活 **"
-    }
-
-    "**Doors will open in 30 seconds**"
-    {
-        "chi" "**大门需要30秒打开 **"
-    }
-
-    "**A button was found under the desk**"
-    {
-        "chi" "**嗯...桌子下貌似有个隐藏的按钮 **"
+        "chi" "**灵魂附近的人类越多 他的力量就越强大 **"
     }
 
     "**The paper reads...**"
@@ -200,9 +202,9 @@
         "chi" "**教堂的二楼有一个秘密 **"
     }
 
-    "**The altar looks suspicious, we better check it**"
+    "**The teleproter is warming up**"
     {
-        "chi" "**这祭坛有些古怪 我们应该仔细调查 **"
+        "chi" "**传送仪正在充能 **"
     }
 
     "**There must be a lever to open that gate...**"
@@ -210,9 +212,9 @@
         "chi" "**需要启动一个开关才能打开这扇门 **"
     }
 
-    "**Well opens in 25 seconds**"
+    "**There seems to be both sides down here... we must check'em both**"
     {
-        "chi" "**通往未知区域的井25秒后打开 **"
+        "chi" "**这两个相邻的开关有点古怪 我们应该仔细调查... **"
     }
 
     "**TIP: don't stay above the well**"
@@ -225,24 +227,29 @@
         "chi" "**这口井一定有玄机 我们应该仔细调查 **"
     }
 
-    "**Path opens in 25 seconds**"
+    "**We must must split up in 3 groups for now...**"
     {
-        "chi" "**坚守25秒 **"
+        "chi" "**貌似我们必须分成三个小队... **"
     }
 
-    "**Path opens in 20 seconds**"
+    "**Well opens in 25 seconds**"
     {
-        "chi" "**坚守20秒 **"
+        "chi" "**通往未知区域的井25秒后打开 **"
     }
 
-    "**Main doors will open in 15 seconds**"
+    "**Zombie detected in trigger, you failed**"
     {
-        "chi" "**主门将于15秒后打开 **"
+        "chi" "**检测到僵尸 你失败了 **"
     }
 
-    "*** if zombies arive at the next door first, its over ***"
+    "**Zombies destroyed one of the souls... you shall suffer the consequences!**"
     {
-        "chi" "**如果僵尸到达下一扇大门 那么...你就失败了... **"
+        "chi" "**僵尸已摧毁一个灵魂 你需要付出相应代价! **"
+    }
+
+    "MAP BY MK!NG"
+    {
+        "chi" "**地图作者:MK!NG 汉化:龙鸣 **"
     }
 
 }

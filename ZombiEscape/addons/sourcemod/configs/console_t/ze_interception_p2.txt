@@ -1,164 +1,144 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "***HACKING SECURITY BLASTDOOR...***"
-    {
-        "chi" "** **"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "***ESTIMATED TIME IS 20 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***HACKING 100% COMPLETE***"
-    {
-        "chi" "** **"
-    }
-
-    "***SECURITY BLASTDOOR IS OPEN***"
-    {
-        "chi" "** **"
-    }
-
-    "***FALL BACK***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOUBLE ELEVATOR IS LEAVING IN 10 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOUBLE ELEVATOR IS LEAVING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***ELEVATOR LEAVING IN 20 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***ELEVATOR LEAVING IN 10 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***ELEVATOR LEAVING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***OPENING FINAL DOOR***"
-    {
-        "chi" "** **"
-    }
-
-    "***DUAL DOORS ARE OPENING IN 30 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DUAL DOORS ARE OPENING IN 10 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DUAL DOORS ARE OPENING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DUAL DOORS ARE OPENING***"
-    {
-        "chi" "** **"
-    }
-
-    "***FALL BACK***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 15 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 10 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 10 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 15 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***DOOR IS OPENING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***OPENING BLASTDOOR TO INNER COMPLEX***"
-    {
-        "chi" "** **"
-    }
-
-    "***FINAL DOOR IS CLOSING***"
-    {
-        "chi" "** **"
-    }
-
-    "***FENCE OPENING IN 15 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***FENCE OPENING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***SEWER OPENING IN 20 SECONDS***"
-    {
-        "chi" "** **"
-    }
-
-    "***SEWER OPENING IN 5 SECONDS***"
-    {
-        "chi" "** **"
-    }
 
     "***COMPLEX GATE OPENING IN 20 SECONDS***"
     {
-        "chi" "** **"
+        "chi" "门将在20秒后开启"
     }
 
     "***COMPLEX GATE OPENING IN 5 SECONDS***"
     {
-        "chi" "** **"
+        "chi" "闸门在 5 秒内打开"
+    }
+
+    "***DOOR IS OPENING IN 10 SECONDS***"
+    {
+        "chi" "门在10秒后打开"
+    }
+
+    "***DOOR IS OPENING IN 15 SECONDS***"
+    {
+        "chi" "门在15秒后打开"
+    }
+
+    "***DOOR IS OPENING IN 5 SECONDS***"
+    {
+        "chi" "门在5秒后打开"
+    }
+
+    "***DOUBLE ELEVATOR IS LEAVING IN 10 SECONDS***"
+    {
+        "chi" "双电梯在10秒后离开"
+    }
+
+    "***DOUBLE ELEVATOR IS LEAVING IN 5 SECONDS***"
+    {
+        "chi" "双电梯在5秒后离开"
+    }
+
+    "***DUAL DOORS ARE OPENING IN 10 SECONDS***"
+    {
+        "chi" "双门在10秒后打开"
+    }
+
+    "***DUAL DOORS ARE OPENING IN 30 SECONDS***"
+    {
+        "chi" "双门在30秒后打开"
+    }
+
+    "***DUAL DOORS ARE OPENING IN 5 SECONDS***"
+    {
+        "chi" "双门在5秒后打开"
+    }
+
+    "***DUAL DOORS ARE OPENING***"
+    {
+        "chi" "双门正在打开"
+    }
+
+    "***ELEVATOR LEAVING IN 10 SECONDS***"
+    {
+        "chi" "电梯在10秒后离开"
+    }
+
+    "***ELEVATOR LEAVING IN 20 SECONDS***"
+    {
+        "chi" "电梯在20秒后离开"
+    }
+
+    "***ELEVATOR LEAVING IN 5 SECONDS***"
+    {
+        "chi" "电梯在5秒后离开"
+    }
+
+    "***ESTIMATED TIME IS 20 SECONDS***"
+    {
+        "chi" "预估时间为 20 秒"
+    }
+
+    "***FALL BACK***"
+    {
+        "chi" "快撤离!!!"
+    }
+
+    "***FENCE OPENING IN 15 SECONDS***"
+    {
+        "chi" "围栏在15秒后打开"
+    }
+
+    "***FENCE OPENING IN 5 SECONDS***"
+    {
+        "chi" "围栏在5秒后打开"
+    }
+
+    "***FINAL DOOR IS CLOSING***"
+    {
+        "chi" "最后的大门正在关闭"
+    }
+
+    "***HACKING 100% COMPLETE***"
+    {
+        "chi" "黑客攻击完成 "
+    }
+
+    "***HACKING SECURITY BLASTDOOR...***"
+    {
+        "chi" "黑客安全防爆门..."
+    }
+
+    "***OPENING BLASTDOOR TO INNER COMPLEX***"
+    {
+        "chi" "打开内部建筑群的防爆门"
+    }
+
+    "***OPENING FINAL DOOR***"
+    {
+        "chi" "打开最终的大门"
+    }
+
+    "***SECURITY BLASTDOOR IS OPEN***"
+    {
+        "chi" "安全防爆门已打开"
+    }
+
+    "***SEWER OPENING IN 20 SECONDS***"
+    {
+        "chi" "下水道在20秒内打开"
+    }
+
+    "***SEWER OPENING IN 5 SECONDS***"
+    {
+        "chi" "下水道在5秒内打开"
     }
 
 }

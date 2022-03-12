@@ -1,0 +1,829 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    " **I hope the soldiers of the empire will not disturb us**"
+    {
+        "chi" "__null__"
+    }
+
+    "** This is a zm round"
+    {
+        "chi" "**zm回合,活下来! **"
+    }
+
+    "**[Exodus] Face your weaknesses or die!**"
+    {
+        "chi" "**天秤座:直面自身懦弱,或作为一介懦夫窝囊死去! **"
+    }
+
+    "**[Exodus] Goodbye!**"
+    {
+        "chi" "**天秤座:再见! **"
+    }
+
+    "**[Exodus] Welcome to Kiltian temple"
+    {
+        "chi" "**天秤座:欢迎大家来到Kiltian神庙 **"
+    }
+
+    "**[Tonberry] Congratulation"
+    {
+        "chi" "**冬贝利:哇哦,金色传说! **"
+    }
+
+    "**[Tonberry] Unfortunately"
+    {
+        "chi" "**冬贝利:看来今天运气有点不够! **"
+    }
+
+    "**A Player has acquired Betelgeuse**"
+    {
+        "chi" "**一位玩家拿了?神器[参宿4型光炮] **"
+    }
+
+    "**A Player has acquired Cactuar Summon**"
+    {
+        "chi" "**一位玩家获得了仙人掌 **"
+    }
+
+    "**A Player has acquired Chaos Blade**"
+    {
+        "chi" "**一位玩家拾起了混沌之剑 **"
+    }
+
+    "**A Player has acquired Ensanguined Shield**"
+    {
+        "chi" "**一位玩家拾取了誓言之盾 **"
+    }
+
+    "**A Player has acquired Gunblade**"
+    {
+        "chi" "**一位玩家转职成为了绝枪战士 **"
+    }
+
+    "**A Player has acquired Haste Potion**"
+    {
+        "chi" "**一位玩家获得了加速药剂 **"
+    }
+
+    "**A Player has acquired Heal Magick**"
+    {
+        "chi" "**一位玩家学会了治愈魔法 **"
+    }
+
+    "**A Player has acquired HP Potion**"
+    {
+        "chi" "**一位玩家获得了小奶 **"
+    }
+
+    "**A Player has acquired King Bomb Summon**"
+    {
+        "chi" "**一位玩家获得了炸弹精灵王 **"
+    }
+
+    "**A Player has acquired Penetrator Crossbow**"
+    {
+        "chi" "**一位玩家拾取了十字弩 **"
+    }
+
+    "**A Player has acquired Sandstorm Magick**"
+    {
+        "chi" "**一位玩家习得了沙尘暴魔法 **"
+    }
+
+    "**A Player has acquired Silver Mace**"
+    {
+        "chi" "**一位玩家拾起了白银权杖 **"
+    }
+
+    "**A Player has acquired Thunder Magick**"
+    {
+        "chi" "**一位玩家习得了雷电魔法 **"
+    }
+
+    "**A Player has acquired Ultimate Blade!**"
+    {
+        "chi" "**一位玩家拾取了弑神之剑 **"
+    }
+
+    "**A Player has acquired Underworld Rod**"
+    {
+        "chi" "**一位玩家习得了冥府之握 **"
+    }
+
+    "**Admin set Maximum Tenberry quest**"
+    {
+        "chi" "**管理员开启了满仙人掌彩蛋 **"
+    }
+
+    "**Bahamut has casted Cure Ability!**"
+    {
+        "chi" "**巴哈姆特使用了治疗魔法! **"
+    }
+
+    "**Bahamut has casted Lure Ability!**"
+    {
+        "chi" "**巴哈姆特使用了黑洞吸附![按S] **"
+    }
+
+    "**Bahamut has casted Push Ability!**"
+    {
+        "chi" "**巴哈姆特:风暴魔法![别跟Boss特效一条直线] **"
+    }
+
+    "**Bahamut has summoned Electro Ability!**"
+    {
+        "chi" "**巴哈姆特使用了雷电攻击! **"
+    }
+
+    "**Bahamut has summoned Flame Ability!**"
+    {
+        "chi" "**巴哈姆特使用了烈焰焚烧! **"
+    }
+
+    "**Bahamut has summoned Implosion Ability!**"
+    {
+        "chi" "**巴哈姆特使用了爆炸攻击![远离脚底] **"
+    }
+
+    "**Bahamut has summoned Mega Flare Ability!**"
+    {
+        "chi" "**巴哈姆特使用了百万核爆! **"
+    }
+
+    "**Bahamut has summoned Shield Ability!**"
+    {
+        "chi" "**巴哈姆特使用了护盾! **"
+    }
+
+    "**Bahamut has summoned Ultimate Electro Ability!**"
+    {
+        "chi" "**巴哈姆特使用了暗影电流! **"
+    }
+
+    "**Bahamut has summoned Ultimate Push Ability!**"
+    {
+        "chi" "**巴哈姆特:终极风暴[别跟Boss特效一条直线] **"
+    }
+
+    "**Bahamut is blocking your path - Shoot it now!**"
+    {
+        "chi" "**蛮神巴哈姆特讨伐战,开始! **"
+    }
+
+    "**Bahamut is retreating! run!**"
+    {
+        "chi" "**巴哈姆特逃走了!继续前进! **"
+    }
+
+    "**Bergan attacks get 100% boost!**"
+    {
+        "chi" "**贝甘现在砍人双倍伤害! **"
+    }
+
+    "**Bergan has casted Bad Breath Ability!**"
+    {
+        "chi" "**贝甘使用了毒气[全场伤害] **"
+    }
+
+    "**Bergan has casted Blood Drain Ability!*"
+    {
+        "chi" "**贝甘吸收了我们部分生命!治疗了自己! **"
+    }
+
+    "**Bergan has casted Blood Drain Ability!**"
+    {
+        "chi" "**贝甘使用了吸血魔法! **"
+    }
+
+    "**Bergan has casted Chelonian Gate Ability!**"
+    {
+        "chi" "**贝甘使用了玄冥壁[人类变100血] **"
+    }
+
+    "**Bergan has casted Heal Ability!**"
+    {
+        "chi" "**贝甘对自己使用了治疗魔法 **"
+    }
+
+    "**Bergan has casted Peripheral Synthesis Ability!**"
+    {
+        "chi" "**贝甘在场外召唤了弹幕,但是没有什么效果 **"
+    }
+
+    "**Bergan has casted Protect Ability!**"
+    {
+        "chi" "**贝甘使用了防御护盾! **"
+    }
+
+    "**Bergan has casted Reflux Ability!**"
+    {
+        "chi" "**贝甘召唤了逆流水瀑 **"
+    }
+
+    "**Bergan has casted Shock Strike Ability!**"
+    {
+        "chi" "**贝甘使用了冲击波! **"
+    }
+
+    "**Bergan has casted White Wind Ability!**"
+    {
+        "chi" "**贝甘召唤了复苏之风,企图把我们推下去 **"
+    }
+
+    "**Bergan has summoned 1000 Needles Ability!**"
+    {
+        "chi" "**贝甘使用了针千本![中间蹲下]**"
+    }
+
+    "**Bergan has summoned Fire Angon Ability!**"
+    {
+        "chi" "**贝甘使用了龙息标枪! **"
+    }
+
+    "**Bergan has summoned White Knight's Tour Ability!"
+    {
+        "chi" "**贝甘使用了白骑士巡礼[黑洞]**"
+    }
+
+    "**Bergan has summoned Fire Angon Ability**"
+    {
+        "chi" "**贝甘使用了龙息标枪 **"
+    }
+
+    "**Bergan has summoned Fire Bomb!**"
+    {
+        "chi" "__null__"
+    }
+
+    "**Bergan has summoned Fire Nova Ability!**"
+    {
+        "chi" "**贝甘召唤了烈焰新星! **"
+    }
+
+    "**Bergan has summoned Ice Spikes Ability!**"
+    {
+        "chi" "**贝甘在我们脚底召唤了冰之结界! **"
+    }
+
+    "**Bergan has summoned Shock Strike Ability!**"
+    {
+        "chi" "**贝甘使用了雷电冲击! **"
+    }
+
+    "**Bergan has summoned Sonic Boom Ability!**"
+    {
+        "chi" "**贝甘使用了音波爆弹! **"
+    }
+
+    "**Bergan has summoned Water Cannon Ability!**"
+    {
+        "chi" "**贝甘使用了水铁炮 **"
+    }
+
+    "**Bergan has summoned White Wind Ability!**"
+    {
+        "chi" "**贝甘使用了风! **"
+    }
+
+    "**Bergan is using Cure Magick!**"
+    {
+        "chi" "**贝甘正在治疗自己! **"
+    }
+
+    "**Bridge exploded"
+    {
+        "chi" "**大桥爆炸了! **"
+    }
+
+    "**Defeat Exodus before his power will consume us!**"
+    {
+        "chi" "**在天秤座杀死我们之前击败他 **"
+    }
+
+    "**Defeat King Bomb before he burn us!**"
+    {
+        "chi" "**在炸弹精灵王烧死我们之前击败他! **"
+    }
+
+    "**Defend until gates is opens!**"
+    {
+        "chi" "**守住直到大门打开! **"
+    }
+
+    "**Defend until something happen!**"
+    {
+        "chi" "**守住僵尸直到某些事情发生! **"
+    }
+
+    "**Defend until way is opens!**"
+    {
+        "chi" "**守着这里直到路开! **"
+    }
+
+    "**Defend! Way will open in 25 seconds!**"
+    {
+        "chi" "**守住!道路将在25秒后开! **"
+    }
+
+    "**Defend! Way will open in 30 seconds!**"
+    {
+        "chi" "**守住30秒直到大门打开! **"
+    }
+
+    "**Epic mode was beaten. You won map! **"
+    {
+        "chi" "**史诗难度已被击破,你征服了这张地图!! **"
+    }
+
+    "**Exodus attacks get 50% boost!**"
+    {
+        "chi" "**天秤座狂暴程度:百分之五十,满了我们就完蛋了!**"
+    }
+
+    "**Exodus finally is dead. run!**"
+    {
+        "chi" "**天秤座终于死了,快逃离这里! **"
+    }
+
+    "**Exodus has casted Break Exploiter Ability!**"
+    {
+        "chi" "**天秤座吸收了我们的生命! **"
+    }
+
+    "**Exodus has casted Elemental Retrieval Ability!**"
+    {
+        "chi" "**天秤座使用了狂暴汲取 **"
+    }
+
+    "**Exodus has casted Guard Breaker**"
+    {
+        "chi" "**天秤座使用了护盾 **"
+    }
+
+    "**Exodus has casted Reflux Ability!**"
+    {
+        "chi" "**天秤座使用了逆流水瀑 **"
+    }
+
+    "**Exodus has casted Ultimate Ability!**"
+    {
+        "chi" "**天秤座使用了终极 **"
+    }
+
+    "**Exodus has casted Ultravibration Ability!**"
+    {
+        "chi" "**天秤座使用了大地震颤 **"
+    }
+
+    "**Exodus has casted Weakness Breaker Ability!**"
+    {
+        "chi" "**天秤座使用了弱点打击,对我方平A会更痛! **"
+    }
+
+    "**Exodus has summoned Electrogenesis Ability!**"
+    {
+        "chi" "**天秤座释放了暗影电流 **"
+    }
+
+    "**Exodus has summoned Electrogenesis Ability**"
+    {
+        "chi" "**天秤座使用了暗影电流 **"
+    }
+
+    "**Exodus has summoned Imbue Wind Ability**"
+    {
+        "chi" "**天秤座使用了暴风推动! **"
+    }
+
+    "**Exodus has summoned Perpetual Ray Ability!**"
+    {
+        "chi" "**天秤座使用了死亡激光 **"
+    }
+
+    "**Exodus has summoned Shock Strike Ability**"
+    {
+        "chi" "**天秤座使用了冲击波 **"
+    }
+
+    "**Exodus vanquished!**"
+    {
+        "chi" "**天秤座已被彻底击败 **"
+    }
+
+    "**Find way to main temple and talk with Gran Kiltias Anastasis**"
+    {
+        "chi" "** 任务:找到前往神庙的路,并与大僧正阿纳斯塔西斯交谈 **"
+    }
+
+    "**Gates will open in 20 seconds!**"
+    {
+        "chi" "**大门将在20秒后打开! **"
+    }
+
+    "**Gates will open in 5 second!**"
+    {
+        "chi" "**大门将在5秒后打开 **"
+    }
+
+    "**Hard mode was beaten. Unlocking Insane mode**"
+    {
+        "chi" "**困难模式已击破,疯狂模式已解锁**"
+    }
+
+    "**Hold here for 15 seconds!*"
+    {
+        "chi" "**守住这里15秒! **"
+    }
+
+    "**Hold here, temple will open in 30 seconds!**"
+    {
+        "chi" "**守住!神庙大门将于30秒后开放! **"
+    }
+
+    "**Hold this area for 20 seconds!**"
+    {
+        "chi" "**守住这里20秒 **"
+    }
+
+    "**Hold this area for 30 seconds**"
+    {
+        "chi" "**守住这里30秒 **"
+    }
+
+    "**Hold this area until gate is open!**"
+    {
+        "chi" "**守住这个区域直到大门打开 **"
+    }
+
+    "**Hold this area until way is open!**"
+    {
+        "chi" "**守着这里直到道路开放! **"
+    }
+
+    "**Hold this area! Way will open in 20 seconds!**"
+    {
+        "chi" "**守住这里!门还有20秒打开! **"
+    }
+
+    "**Hold this area! We leaving in 35 seconds!**"
+    {
+        "chi" "**守住这里35秒,我们就快能够离开这里了! **"
+    }
+
+    "**Hopefully Gran Kiltias Anastasis is safe**"
+    {
+        "chi" "**现在只能希望大僧正阿纳斯塔西斯平安无事了 **"
+    }
+
+    "**Hurry up! Bergan summon his most powerful ability!**"
+    {
+        "chi" "**裁判长贝甘讨伐战,开始! **"
+    }
+
+    "**Hurry up! Exodus summon his most powerful ability!**"
+    {
+        "chi" "**在天秤座杀掉我们所有人之前,尽快干掉他! **"
+    }
+
+    "**Hurry up!!! - Judge Bergan power up his abilities**"
+    {
+        "chi" "**裁判长贝甘已经身受重伤,估计要放大了,赶紧杀了他! **"
+    }
+
+    "**Insane mode was beaten. Unlocking Epic mode **"
+    {
+        "chi" "**疯狂模式已被击破,史诗模式解锁! **"
+    }
+
+    "**It's last hold gates will open in 20 seconds!***"
+    {
+        "chi" "**守住20秒直到最后的大门打开 **"
+    }
+
+    "**Judge Bergan blocking the way"
+    {
+        "chi" "**今天我要走的路,贝甘也拦不住!开始决斗!**"
+    }
+
+    "**Judge Bergan is dead"
+    {
+        "chi" "**裁判长贝甘已被我们干碎 **"
+    }
+
+    "**Judge Bergan probably went to the room where Gran Kiltias Anastasis is staying!**"
+    {
+        "chi" "**裁判长贝甘很可能已经前往大僧正的房间了! **"
+    }
+
+    "**Judge Bergan should be dead but with them you never know"
+    {
+        "chi" "**贝甘裁判长现在被我们淦碎了,目前已失去主要线索,该怎么办呢?**"
+    }
+
+    "**King Bomb has casted Flame Ability!**"
+    {
+        "chi" "**炸弹精灵王使用了火焰魔法 **"
+    }
+
+    "**King Bomb has casted Revenge Blast Ability!**"
+    {
+        "chi" "**炸弹精灵王使用了复仇爆破! **"
+    }
+
+    "**King Bomb has casted Self-Destruct Ability!**"
+    {
+        "chi" "**炸弹精灵王自爆了!小心! **"
+    }
+
+    "**King Bomb has summoned Eruption Ability!**"
+    {
+        "chi" "**炸弹精灵王使用了火焰喷射! **"
+    }
+
+    "**King Bomb has summoned Fire Angon Ability!**"
+    {
+        "chi" "**炸弹精灵王使用了龙息标枪! **"
+    }
+
+    "**King Bomb has summoned Mustard Bomb Ability!**"
+    {
+        "chi" "**炸弹精灵王使用了毒气炸弹! **"
+    }
+
+    "**King Bomb has summoned Ultimate Bomb Meteor Ability!**"
+    {
+        "chi" "**炸弹精灵召唤了究极流星爆弹! **"
+    }
+
+    "**King Bomb has summoned Ultimate Fireball Ability!**"
+    {
+        "chi" "**炸弹精灵王使用了终极火球 **"
+    }
+
+    "**King Bomb has summoned Ultimate Flame Shield Ability!**"
+    {
+        "chi" "**炸弹精灵王使用了火焰护盾! **"
+    }
+
+    "**Level has been changed on Epic Mode**"
+    {
+        "chi" "**难度被设置为史诗难度 **"
+    }
+
+    "**Level has been changed on Hard Mode**"
+    {
+        "chi" "**难度被设置为困难 **"
+    }
+
+    "**Level has been changed on Insane Mode**"
+    {
+        "chi" "**难度被设为疯狂难度 **"
+    }
+
+    "**Level has been changed on Normal Mode**"
+    {
+        "chi" "**难度被设置为普通难度 **"
+    }
+
+    "**Map Status: No Stripper!**"
+    {
+        "chi" "**未加载stripper! **"
+    }
+
+    "**Nades do 200% more damage!**"
+    {
+        "chi" "**手雷现在造成双倍伤害 **"
+    }
+
+    "**Nades do more damage!**"
+    {
+        "chi" "**手雷可以造成更多伤害 **"
+    }
+
+    "**Nades do more damage**"
+    {
+        "chi" "**手雷可以对Boss造成更多伤害 **"
+    }
+
+    "**Normal mode was beaten. Unlocking Hard mode**"
+    {
+        "chi" "**普通模式已被击破,困难模式解锁 **"
+    }
+
+    "**Oh no, the way is blocked!**"
+    {
+        "chi" "**该死,道路被堵住了! **"
+    }
+
+    "**Path will open in 25 seconds!**"
+    {
+        "chi" "**路在25秒后开 **"
+    }
+
+    "**Special thanks GhostCapGaming and Zeddy's for testing!**"
+    {
+        "chi" "**鸣谢GhostCapGaming和Zeddy服务器,汉化:fys 宝宝兽,Ruby **"
+    }
+
+    "**Stay on the middle to dodge the attack!**"
+    {
+        "chi" "**待在中场来躲避天秤座的攻击 **"
+    }
+
+    "**Strahl exploded? Defend until something happen!**"
+    {
+        "chi" "**飞船被炸毁了!??快,先守住僵尸! **"
+    }
+
+    "**Survive 10 seconds!**"
+    {
+        "chi" "**生存10秒!**"
+    }
+
+    "**Survive 180 seconds!**"
+    {
+        "chi" "**生存一百八十秒 **"
+    }
+
+    "**Survive 230 seconds!**"
+    {
+        "chi" "**生存二百三十秒 **"
+    }
+
+    "**Survive 30 seconds!**"
+    {
+        "chi" "**生存三十秒 **"
+    }
+
+    "**Survive 60 seconds!**"
+    {
+        "chi" "**生存六十秒 **"
+    }
+
+    "**Survive 90 seconds!**"
+    {
+        "chi" "**生存九十秒 **"
+    }
+
+    "**Teleport will enable in 15 seconds!**"
+    {
+        "chi" "**传送将于15秒后可用 **"
+    }
+
+    "**Temple Gates will open in 30 seconds**"
+    {
+        "chi" "**神庙大门打开还有30秒 **"
+    }
+
+    "**That must be Bahamut lair"
+    {
+        "chi" "**这里应该就是巴哈姆特的巢穴 **"
+    }
+
+    "**The Gates will open in 20 seconds!**"
+    {
+        "chi" "**大门将在20秒后打开! **"
+    }
+
+    "**We can run away from this empty tower**"
+    {
+        "chi" "**留在高塔现已没有意义,赶紧离开这里! **"
+    }
+
+    "**We have to check it out**"
+    {
+        "chi" "**我们必须马上赶回神都,并调查狼烟的来源! **"
+    }
+
+    "**We have to get out of here somehow"
+    {
+        "chi" "**我们得想个办法逃离这里 **"
+    }
+
+    "**We need to get to him asap**"
+    {
+        "chi" "**我们需要尽快找到他! **"
+    }
+
+    "**Well done, bahamut is dead! now we can escape from this lair!**"
+    {
+        "chi" "**干得漂亮,巴哈姆特已经死了!现在我们需要逃出这个洞穴!**"
+    }
+
+    "**When we were in the Stilshrine of Miriam we could see smoke coming from that area**"
+    {
+        "chi" "**当我们正在探索米利暗遗迹的时候,神都布尔奥米塞斯突然升起了狼烟. **"
+    }
+
+    "**Where we are? i never saw this place before!**"
+    {
+        "chi" "**目前我方位置尚不明确,确定是初次进入该领域 **"
+    }
+
+    "**Zombie detected"
+    {
+        "chi" "**僵尸已被释放 **"
+    }
+
+    "**Zombie Warlock blocking the path! Defeat him!**"
+    {
+        "chi" "**死灵法师挡住了道路!杀死他! **"
+    }
+
+    "< You are too slow >"
+    {
+        "chi" "**哀悼已经为时已晚.. **"
+    }
+
+    "essed cmd:Command:say **[Tonberry] But I lost my Cactus Toys could you help we find them?**:3:1"
+    {
+        "chi" "__null__"
+    }
+
+    "essed cmd:Command:say **[Tonberry] Hello my friend I got lost and I am looking for a way back**:0:1"
+    {
+        "chi" "__null__"
+    }
+
+    "essed cmd:Command:say **[Tonberry] I will try to summon an item for you maybe it may be useful to you**:3:1"
+    {
+        "chi" "__null__"
+    }
+
+    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 1 more toys **:0:1"
+    {
+        "chi" "__null__"
+    }
+
+    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 2 more toys **:0:1"
+    {
+        "chi" "__null__"
+    }
+
+    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 3 more toys **:0:1"
+    {
+        "chi" "__null__"
+    }
+
+    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 4 more toys **:0:1"
+    {
+        "chi" "__null__"
+    }
+
+    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 5 more toys **:0:1"
+    {
+        "chi" "__null__"
+    }
+
+    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 6 more toys **:0:1"
+    {
+        "chi" "__null__"
+    }
+
+    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 7 more toys **:0:1"
+    {
+        "chi" "__null__"
+    }
+
+    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 8 more toys **:0:1"
+    {
+        "chi" "__null__"
+    }
+
+    "essed cmd:Command:say **[Tonberry] Still havent found all the toys? You need to bring me 9 more toys **:0:1"
+    {
+        "chi" "__null__"
+    }
+
+    "essed cmd:Command:say **[Tonberry] Thanks as a gratitude I'll give you a small gift when you next time give back all toys****:6:1"
+    {
+        "chi" "__null__"
+    }
+
+    "essed cmd:Command:say **[Tonberry] Thanks for your help now I can go back to my own**:0:1"
+    {
+        "chi" "__null__"
+    }
+
+    "se15 cmd:Command:say **[Tonberry] Congratulation I hope this item will serve you well!**:1.30:1"
+    {
+        "chi" "__null__"
+    }
+
+    "se16 cmd:Command:say **[Tonberry] Congratulation I hope this item will serve you well!**:1.30:1"
+    {
+        "chi" "__null__"
+    }
+
+}

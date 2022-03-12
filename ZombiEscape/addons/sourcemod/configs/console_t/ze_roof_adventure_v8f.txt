@@ -1,407 +1,472 @@
 "Console_T"
 {
-	"***Map Made By Color!***"
-	{
-		"chi"		"**地图作者: Color 地图汉化: 大明**"
-	}
-	"***Stage 1***"
-	{
-		"chi"		"**第一关**"
-	}
-	"***Hold for 35s!***"
-	{
-		"chi"		"**坚守35秒**"
-	}
-	"***5s left!***"
-	{
-		"chi"		"**还有5秒**"
-	}
-	"***Wood door will break in 10s!***"
-	{
-		"chi"		"**木门将在10秒后碎开**"
-	}
-	"***All zombies will be teleported in 9s!***"
-	{
-		"chi"		"**所有僵尸9秒后传送**"
-	}
-	"***Hold for 45s!***"
-	{
-		"chi"		"**坚守45秒**"
-	}
-	"***A human has picked up health!***"
-	{
-		"chi"		"**一名玩家获得奶神器**"
-	}
-	"***Hold for 30s!***"
-	{
-		"chi"		"**坚守30秒**"
-	}
-	"***Rock monster will appear in 20s!***"
-	{
-		"chi"		"**boss在20秒后出现**"
-	}
-	"***Shoot rock monster between two eyes!(use m249 or negev)***"
-	{
-		"chi"		"**攻击boss的大脑门**"
-	}
-	"***Rock monster will attack in 5s!***"
-	{
-		"chi"		"**月球怪5秒后攻击**"
-	}
-	"***Rock monster uses blast!(move to the edge of the platform)***"
-	{
-		"chi"		"**冲击(去平台边缘)**"
-	}
-	"***Rock monster has been defeated!Go!***"
-	{
-		"chi"		"**boss被打被了!搞快点, 跑起来!**"
-	}
-	"***Hold for 25s!***"
-	{
-		"chi"		"**坚守25秒**"
-	}
-	"***Do not allow zombies to enter the safe room!***"
-	{
-		"chi"		"**不要让僵尸进入这个安全屋!**"
-	}
-	"***Enter the safe room!The nuke will launch in 10s!***"
-	{
-		"chi"		"**待在安全屋!核弹10秒后引爆**"
-	}
-	"***Stage completed!***"
-	{
-		"chi"		"**关卡完成!**"
-	}
-	"***Next Stage:[Race]***"
-	{
-		"chi"		"**下一关: [逮虾户竞速]**"
-	}
-	"***Race***"
-	{
-		"chi"		"**竞速赛跑**"
-	}
-	"***Winners will have access to get special items in next stage!***"
-	{
-		"chi"		"**胜者在下一关有机会获得特殊道具**"
-	}
-	"***Zombies will come in 12s!***"
-	{
-		"chi"		"**僵尸12秒后追上来**"
-	}
-	"***Great!Hold for 60s!***"
-	{
-		"chi"		"**干得漂亮!坚守60秒**"
-	}
-	"***Next Stage:[Stage 2]***"
-	{
-		"chi"		"**下一关: [第二关]**"
-	}
-	"***Stage 2***"
-	{
-		"chi"		"**第二关**"
-	}
-	"***Next Stage:[Laser]***"
-	{
-		"chi"		"**下一关: [跳刀]**"
-	}
-	"***A human has picked up rock!***"
-	{
-		"chi"		"**一位玩家获得土神器**"
-	}
-	"***The wood door will break in 25s!***"
-	{
-		"chi"		"**木门25秒后消失**"
-	}
-	"***Keep care of zombies!***"
-	{
-		"chi"		"**守住僵尸**"
-	}
-	"***Laser race will begin later!***"
-	{
-		"chi"		"**跳刀关卡正在加载**"
-	}
-	"***Laser***"
-	{
-		"chi"		"**跳刀**"
-	}
-	"***Some tips!***"
-	{
-		"chi"		"**提示**"
-	}
-	"***Tip1:Red laser can add health!***"
-	{
-		"chi"		"**红色跳刀可以回血**"
-	}
-	"***Tip2:Blue laser can hurt!***"
-	{
-		"chi"		"**蓝色跳刀能造成伤害**"
-	}
-	"***Tip3:Purple laser can reduce speed infinitely!***"
-	{
-		"chi"		"**紫色跳刀会使你整局游戏减速**"
-	}
-	"***Tip4:Green laser can teleport!***"
-	{
-		"chi"		"**绿色跳刀会让你传送回去**"
-	}
-	"***Laser slash will appear in 5s***"
-	{
-		"chi"		"跳刀将于5秒后开始"
-	}
-	"***Stage failed!***"
-	{
-		"chi"		"回合失败"
-	}
-	"***Next Stage:[Stage 3]***"
-	{
-		"chi"		"**下一关: [第三关]**"
-	}
-	"***Stage 3***"
-	{
-		"chi"		"**第三关**"
-	}
-	"***Some barriers disappeared!***"
-	{
-		"chi"		"一些障碍消失了!"
-	}
-	"***Color lasers are activated!***"
-	{
-		"chi"		"彩虹刀激活!"
-	}
-	"***Next Stage:[Surf]***"
-	{
-		"chi"		"下一关: [滑翔]"
-	}
-	"***A human has picked up lightning!***"
-	{
-		"chi"		"一名玩家获得电神器"
-	}
-	"***A zombie has picked up accelerate!***"
-	{
-		"chi"		"一名僵尸获得了加速"
-	}
-	"***Surf***"
-	{
-		"chi"		"滑翔"
-	}
-	"***Find a place to hold for 45s! ***"
-	{
-		"chi"		"**找一个地方开黑45秒**"
-	}
-	"***Teleport all players in 20s! ***"
-	{
-		"chi"		"**20秒后传送所有玩家**"
-	}
-	"***Zombies will come in 20s!***"
-	{
-		"chi"		"僵尸20秒后来袭"
-	}
-	"***Hold here for 35s!***"
-	{
-		"chi"		"**守住这里35秒**"
-	}
-	"***Complete the surf and you will award 100 scores and a molotov!***"
-	{
-		"chi"		"通过滑翔你将会获得一百分和燃烧弹"
-	}
-	"***All zombies will come in 20s!***"
-	{
-		"chi"		"所有僵尸20秒后来袭"
-	}
-	"***Jump above the chicken!***"
-	{
-		"chi"		"站在鸡上面"
-	}
-	"***Hold the chicken for last 35s!***"
-	{
-		"chi"		"守住这只鸡35秒"
-	}
-	"***Hold here for 25s or complete last surf!***"
-	{
-		"chi"		"在这里守住25秒或者完成最后的滑翔"
-	}
-	"***Next Stage:[Stage 4]***"
-	{
-		"chi"		"下一关: [第四关]"
-	}
-	"***Stage 4***"
-	{
-		"chi"		"第四关"
-	}
-	"***Constant skyfire will appear in some areas!***"
-	{
-		"chi"		"天谴模组已加载"
-	}
-	"***Next Stage:[Wind]***"
-	{
-		"chi"		"下一关: [好玩又有趣又可以solo]"
-	}
-	"***A human will shine the roof!***"
-	{
-		"chi"		"曙光?或者..."
-	}
-	"***A zombie has picked up fireball! ***"
-	{
-		"chi"		"**一位僵尸获得了僵尸火(向前放火伤害人类)**"
-	}
-	"***Wood door will break in 30s!***"
-	{
-		"chi"		"**木门30秒后碎开**"
-	}
-	"***Find the green glow to activate the wood bed!***"
-	{
-		"chi"		"找到隐藏开关激活木板"
-	}
-	"***The wood bed will move in 10s!***"
-	{
-		"chi"		"木板10秒后上升"
-	}
-	"***Rock monster uses skyfire!***"
-	{
-		"chi"		"**boss使用了天火(注意头顶)**"
-	}
-	"***Wind***"
-	{
-		"chi"		"好玩又有趣又可以solo"
-	}
-	"***Oh!You are shining the roof!***"
-	{
-		"chi"		"你就是曙光英雄"
-	}
-	"***Choice begins in 20s!***"
-	{
-		"chi"		"20秒后选择你想游玩的关卡"
-	}
-	"***Choose a stage!***"
-	{
-		"chi"		"选择一个关卡"
-	}
-	"***Zombie infection!Enjoy yourself!***"
-	{
-		"chi"		"ZM"
-	}
-	"***Hold for 150s!***"
-	{
-		"chi"		"守住150秒"
-	}
-	"***60s left!***"
-	{
-		"chi"		"**还有60秒**"
-	}
-	"***Map by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	"***Particle Effect by Airvulpes***"
-	{
-		"chi"		"** **"
-	}
-	"***Thanks to Shizuru[idea]  uuz[model]***"
-	{
-		"chi"		"感谢: Shizuru[创意] uuz[模型]"
-	}
-	"<< ze_surf_virtus >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Fix by : Lishang >>"
-	{
-		"chi"		"**修复: 离殇**"
-	}
-	"***Boss will destroy us in 5s!***"
-	{
-		"chi"		"**月球怪5秒后开始进攻**"
-	}
-	"***A human has picked up unlimited hegrenade!***"
-	{
-		"chi"		"偷雷王已出现"
-	}
-	"***A human has picked up fire!***"
-	{
-		"chi"		"**一位人类获得火神器**"
-	}
-	"***Rock monster uses water!(go to the end of the platform)***"
-	{
-		"chi"		"**水波(站到平台边缘)**"
-	}
-	"***Rock monster uses lightning!(crouch)***"
-	{
-		"chi"		"**光圈(蹲下)**"
-	}
-	"***Rock monster uses right fire(move to left)!***"
-	{
-		"chi"		"**火场(往左移动)**"
-	}
-	"***Rock monster uses left fire(move to right)!***"
-	{
-		"chi"		"**火场(往右移动)**"
-	}
-	"***A human has picked up unlimited ammo!***"
-	{
-		"chi"		"弹药库已出现"
-	}
-	"***Hold here for 25s!***"
-	{
-		"chi"		"**守住25秒**"
-	}
-	"***Resist for 25s!***"
-	{
-		"chi"		"防守25秒"
-	}
-	"***Rock monster will use forward-push in 3s!***"
-	{
-		"chi"		"**3秒后出现推力(按住S向后移动)**"
-	}
-	"***Rock monster will use backward-push in 3s!***"
-	{
-		"chi"		"**3秒后出现推力(按住W向前移动)**"
-	}
-	"***The ultimate will start in 14s!***"
-	{
-		"chi"		"**终极14秒后释放**"
-	}
-	"***Rock monster will use left-push in 3s!***"
-	{
-		"chi"		"**3秒后出现推力(按住D向右移动)**"
-	}
-	"***Rock monster will use right-push in 3s!***"
-	{
-		"chi"		"**3秒后出现推力(按住A向左移动)**"
-	}
-	"***25s left!***"
-	{
-		"chi"		"**还有25秒**"
-	}
-	"**Stage 1**"
-	{
-		"chi"		"第一关"
-	}
-	"Map made by Ripsaw"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"** **"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"稍后选择一种模式"
-	}
-	"***Zombies are in win-room,stage failed!***"
-	{
-		"chi"		"僵尸到达了目的地!人类失败"
-	}
-	"**stage1**"
-	{
-		"chi"		"第一关"
-	}
-	"**map by:一条会翻身的鱼**"
-	{
-		"chi"		"** **"
-	}
-	">> Map by TaskuVaras <<"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***5s left!***"
+    {
+        "chi" "**还有5秒**"
+    }
+
+    "***60s left!***"
+    {
+        "chi" "**还有60秒**"
+    }
+
+    "***A human has picked up fire!***"
+    {
+        "chi" "**一位人类获得火神器**"
+        "blocked"    "1"
+    }
+
+    "***A human has picked up health!***"
+    {
+        "chi" "**一名玩家获得奶神器**"
+        "blocked"    "1"
+    }
+
+    "***A human has picked up lightning!***"
+    {
+        "chi" "一名玩家获得电神器"
+        "blocked"    "1"
+    }
+
+    "***A human has picked up rock!***"
+    {
+        "chi" "**一位玩家获得土神器**"
+        "blocked"    "1"
+    }
+
+    "***A human has picked up unlimited ammo!***"
+    {
+        "chi" "弹药库已出现"
+        "blocked"    "1"
+    }
+
+    "***A human has picked up unlimited hegrenade!***"
+    {
+        "chi" "偷雷王已出现"
+        "blocked"    "1"
+    }
+
+    "***A human will shine the roof!***"
+    {
+        "chi" "曙光?或者..."
+    }
+
+    "***A zombie has picked up accelerate!***"
+    {
+        "chi" "一名僵尸获得了加速"
+        "blocked"    "1"
+    }
+
+    "***A zombie has picked up fireball! ***"
+    {
+        "chi" "**一位僵尸获得了僵尸火(向前放火伤害人类)**"
+        "blocked"    "1"
+    }
+
+    "***All zombies will be teleported in 9s!***"
+    {
+        "chi" "**所有僵尸9秒后传送**"
+    }
+
+    "***All zombies will come in 20s!***"
+    {
+        "chi" "所有僵尸20秒后来袭"
+    }
+
+    "***Boss will destroy us in 5s!***"
+    {
+        "chi" "**月球怪5秒后开始进攻**"
+    }
+
+    "***Choice begins in 20s!***"
+    {
+        "chi" "20秒后选择你想游玩的关卡"
+    }
+
+    "***Choose a stage!***"
+    {
+        "chi" "选择一个关卡"
+    }
+
+    "***Color lasers are activated!***"
+    {
+        "chi" "彩虹刀激活!"
+    }
+
+    "***Complete the surf and you will award 100 scores and a molotov!***"
+    {
+        "chi" "通过滑翔你将会获得一百分和燃烧弹"
+    }
+
+    "***Constant skyfire will appear in some areas!***"
+    {
+        "chi" "天谴模组已加载"
+    }
+
+    "***Do not allow zombies to enter the safe room!***"
+    {
+        "chi" "**不要让僵尸进入这个安全屋!**"
+    }
+
+    "***Find a place to hold for 45s! ***"
+    {
+        "chi" "**找一个地方开黑45秒**"
+    }
+
+    "***Find the green glow to activate the wood bed!***"
+    {
+        "chi" "找到隐藏开关激活木板"
+    }
+
+    "***Great!Hold for 60s!***"
+    {
+        "chi" "**干得漂亮!坚守60秒**"
+    }
+
+    "***Hold for 150s!***"
+    {
+        "chi" "守住150秒"
+    }
+
+    "***Hold for 35s!***"
+    {
+        "chi" "**坚守35秒**"
+    }
+
+    "***Hold for 45s!***"
+    {
+        "chi" "**坚守45秒**"
+    }
+
+    "***Hold here for 25s or complete last surf!***"
+    {
+        "chi" "在这里守住25秒或者完成最后的滑翔"
+    }
+
+    "***Hold here for 25s!***"
+    {
+        "chi" "**守住25秒**"
+    }
+
+    "***Hold here for 35s!***"
+    {
+        "chi" "**守住这里35秒**"
+    }
+
+    "***Hold the chicken for last 35s!***"
+    {
+        "chi" "守住这只鸡35秒"
+    }
+
+    "***Jump above the chicken!***"
+    {
+        "chi" "站在鸡上面"
+    }
+
+    "***Keep care of zombies!***"
+    {
+        "chi" "**守住僵尸**"
+    }
+
+    "***Laser race will begin later!***"
+    {
+        "chi" "**跳刀关卡正在加载**"
+    }
+
+    "***Laser slash will appear in 5s***"
+    {
+        "chi" "跳刀将于5秒后开始"
+    }
+
+    "***Laser***"
+    {
+        "chi" "**跳刀**"
+    }
+
+    "***Map Made By Color!***"
+    {
+        "chi" "**地图作者: Color 地图汉化: 大明@風雲社**"
+    }
+
+    "***Next Stage:[Laser]***"
+    {
+        "chi" "**下一关: [跳刀]**"
+    }
+
+    "***Next Stage:[Race]***"
+    {
+        "chi" "**下一关: [逮虾户竞速]**"
+    }
+
+    "***Next Stage:[Stage 1]***"
+    {
+        "chi" "**下一关: [第一关]**"
+    }
+
+    "***Next Stage:[Stage 2]***"
+    {
+        "chi" "**下一关: [第二关]**"
+    }
+
+    "***Next Stage:[Stage 3]***"
+    {
+        "chi" "**下一关: [第三关]**"
+    }
+
+    "***Next Stage:[Stage 4]***"
+    {
+        "chi" "下一关: [第四关]"
+    }
+
+    "***Next Stage:[Surf]***"
+    {
+        "chi" "下一关: [滑翔]"
+    }
+
+    "***Next Stage:[Wind]***"
+    {
+        "chi" "下一关: [好玩又有趣又可以solo]"
+    }
+
+    "***Oh!You are shining the roof!***"
+    {
+        "chi" "你就是曙光英雄"
+    }
+
+    "***Race***"
+    {
+        "chi" "**竞速赛跑**"
+    }
+
+    "***Resist for 25s!***"
+    {
+        "chi" "防守25秒"
+    }
+
+    "***Rock monster has been defeated!Go!***"
+    {
+        "chi" "**boss被打被了!搞快点, 跑起来!**"
+    }
+
+    "***Rock monster uses blast!(move to the edge of the platform)***"
+    {
+        "chi" "**冲击(去平台边缘)**"
+    }
+
+    "***Rock monster uses left fire(move to right)!***"
+    {
+        "chi" "**火场(往右移动)**"
+    }
+
+    "***Rock monster uses lightning!(crouch)***"
+    {
+        "chi" "**光圈(蹲下)**"
+    }
+
+    "***Rock monster uses right fire(move to left)!***"
+    {
+        "chi" "**火场(往左移动)**"
+    }
+
+    "***Rock monster uses water!(go to the end of the platform)***"
+    {
+        "chi" "**水波(站到平台边缘)**"
+    }
+
+    "***Rock monster will appear in 20s!***"
+    {
+        "chi" "**boss在20秒后出现**"
+    }
+
+    "***Rock monster will attack in 5s!***"
+    {
+        "chi" "**月球怪5秒后攻击**"
+    }
+
+    "***Shoot rock monster between two eyes!(use m249 or negev)***"
+    {
+        "chi" "**攻击boss的大脑门**"
+    }
+
+    "***Some barriers disappeared!***"
+    {
+        "chi" "一些障碍消失了!"
+    }
+
+    "***Some tips!***"
+    {
+        "chi" "**提示**"
+    }
+
+    "***Stage 1***"
+    {
+        "chi" "**第一关**"
+    }
+
+    "***Stage 2***"
+    {
+        "chi" "**第二关**"
+    }
+
+    "***Stage 3***"
+    {
+        "chi" "**第三关**"
+    }
+
+    "***Stage 4***"
+    {
+        "chi" "第四关"
+    }
+
+    "***Stage completed!***"
+    {
+        "chi" "**关卡完成!**"
+    }
+
+    "***Stage failed!***"
+    {
+        "chi" "回合失败"
+    }
+
+    "***Surf***"
+    {
+        "chi" "滑翔"
+    }
+
+    "***Teleport all players in 20s! ***"
+    {
+        "chi" "**20秒后传送所有玩家**"
+    }
+
+    "***The ultimate will start in 14s!***"
+    {
+        "chi" "**终极14秒后释放**"
+    }
+
+    "***The wood bed will move in 10s!***"
+    {
+        "chi" "木板10秒后上升"
+    }
+
+    "***The wood door will break in 25s!***"
+    {
+        "chi" "**木门25秒后消失**"
+    }
+
+    "***Tip1:Red laser can add health!***"
+    {
+        "chi" "**红色跳刀可以回血**"
+    }
+
+    "***Tip2:Blue laser can hurt!***"
+    {
+        "chi" "**蓝色跳刀能造成伤害**"
+    }
+
+    "***Tip3:Purple laser can reduce speed infinitely!***"
+    {
+        "chi" "**紫色跳刀会使你整局游戏减速**"
+    }
+
+    "***Tip4:Green laser can teleport!***"
+    {
+        "chi" "**绿色跳刀会让你传送回去**"
+    }
+
+    "***Wind***"
+    {
+        "chi" "好玩又有趣又可以solo"
+    }
+
+    "***Winners will have access to get special items in next stage!***"
+    {
+        "chi" "**胜者在下一关有机会获得特殊道具**"
+    }
+
+    "***Wood door will break in 10s!***"
+    {
+        "chi" "**木门将在10秒后碎开**"
+    }
+
+    "***Wood door will break in 30s!***"
+    {
+        "chi" "**木门30秒后碎开**"
+    }
+
+    "***Zombie infection!Enjoy yourself!***"
+    {
+        "chi" "ZM"
+    }
+
+    "***Zombies are in win-room,stage failed!***"
+    {
+        "chi" "僵尸到达了目的地!人类失败"
+    }
+
+    "***Zombies will come in 12s!***"
+    {
+        "chi" "**僵尸12秒后追上来**"
+    }
+
+    "***Zombies will come in 20s!***"
+    {
+        "chi" "**僵尸20秒后来袭**"
+    }
+
+    "***25s left!***"
+    {
+        "chi" "**25s**"
+    }
+
+    "***Enter the safe room!The nuke will launch in 10s!***"
+    {
+        "chi" "**进入安全屋,10秒后核爆**"
+    }
+
+    "***Hold for 25s!***"
+    {
+        "chi" "**守住25秒**"
+    }
+
+    "***Hold for 30s!***"
+    {
+        "chi" "**守住30秒**"
+    }
+
+    "***Rock monster will use forward-push in 3s!***"
+    {
+        "chi" "**boss在3秒后使用吸力(按住S向后移动)**"
+    }
+
+    "***Rock monster uses skyfire!***"
+    {
+        "chi" "**boss使用天火**"
+    }
+
+    "***Rock monster will use backward-push in 3s!***"
+    {
+        "chi" "**boss在3秒后使用推力(按住W向前移动)"
+    }
+
+    "***Rock monster will use left-push in 3s!***"
+    {
+        "chi" "**boss在3秒后使用左推力(按住D向右移动)"
+    }
+
+    "***Rock monster will use right-push in 3s!***"
+    {
+        "chi" "**boss在3秒后使用右推力(按住A向左移动)**"
+    }
+
 }

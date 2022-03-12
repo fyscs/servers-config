@@ -1,159 +1,300 @@
 "Console_T"
 {
-	"***CURRENT DIFFICULTY IS NORMAL***"
-	{
-		"chi"		"**难度: 正常   地图翻译: 户冢彩加&萌大奶@风云社**"
-	}
-	"***MULDOON'S SHOTGUN HAS BEEN FOUND***"
-	{
-		"chi"		"**MULDOON的猎枪被找到了**"
-	}
-	"***RESTORE THE POWER!***"
-	{
-		"chi"		"**恢复能源!**"
-	}
-	"***HOLD THIS POSITION!***"
-	{
-		"chi"		"**守住这里!**"
-	}
-	"***POWER RESTORING IN 15 SECONDS***"
-	{
-		"chi"		"**15秒后能源恢复**"
-	}
-	"***POWER RESTORING IN 10 SECONDS***"
-	{
-		"chi"		"**10秒后能源恢复**"
-	}
-	"***POWER RESTORING IN 5 SECONDS***"
-	{
-		"chi"		"**5秒后能源恢复**"
-	}
-	"***TELEPORTING ALL TO GENERATOR CATWALK***"
-	{
-		"chi"		"**传送所有人到发电机走道**"
-	}
-	"***POWER HAS BEEN RESTORED***"
-	{
-		"chi"		"**能源已恢复**"
-	}
-	"***ZOMBIES HAVE BEEN TRAPPED...RUUN!***"
-	{
-		"chi"		"**僵尸被困住了 快跑!**"
-	}
-	"***ALL CLOSED DOORS WILL OPEN IN 60 SECONDS***"
-	{
-		"chi"		"**所有关闭的门将在60秒后打开**"
-	}
-	"***ALL CLOSED DOORS WILL OPEN IN 30 SECONDS***"
-	{
-		"chi"		"**所有关闭的门将在30秒内打开 **"
-	}
-	"***ALL CLOSED DOORS WILL OPEN IN 15 SECONDS***"
-	{
-		"chi"		"**所有关闭的门将在15秒内打开**"
-	}
-	"***GO TO THE CONTROL ROOM***"
-	{
-		"chi"		"**快去控制室**"
-	}
-	"***GET INTO THE TRUCK***"
-	{
-		"chi"		"**没时间解释了 快上车**"
-	}
-	"***GET OUT THE TRUCK AND GO TO THE HATCH***"
-	{
-		"chi"		"**下车去舱口**"
-	}
-	"***LIFT IS COMING***"
-	{
-		"chi"		"**电梯来了!**"
-	}
-	"***HOLD THIS POSTION***"
-	{
-		"chi"		"**守住这里!**"
-	}
-	"***LIFT IS HERE!***"
-	{
-		"chi"		"**电梯到了!**"
-	}
-	"***FALL BACK***"
-	{
-		"chi"		"**溜了溜了**"
-	}
-	"***DOOR WILL OPEN IN 20 SECONDS***"
-	{
-		"chi"		"**大门在20秒后开启**"
-	}
-	"***DOOR WILL OPEN IN 10 SECONDS***"
-	{
-		"chi"		"**大门在10秒后开启**"
-	}
-	"***FALL BACK!!!***"
-	{
-		"chi"		"**快撤**"
-	}
-	"***CT WIN!***"
-	{
-		"chi"		"**人类胜利!**"
-	}
-	"***MOVING ON TO HARD MODE***"
-	{
-		"chi"		"**进入困难难度**"
-	}
-	"***CURRENT DIFFICULTY IS HARD***"
-	{
-		"chi"		"**难度: 困难**"
-	}
-	"***USE GENERATOR TO ENABLE POWER TO BUTTON***"
-	{
-		"chi"		"**按下按钮启用电源**"
-	}
-	"***THE BUTTON WILL CLOSE THE GATES***"
-	{
-		"chi"		"**按下按钮将关闭大门**"
-	}
-	"***GO GO PLANT THE C4***"
-	{
-		"chi"		"**快去安装炸弹**"
-	}
-	"***ON THE DOOR TO THE CONTAINER***"
-	{
-		"chi"		"**在集装箱的门上**"
-	}
-	"***PRESS USE ON THE CONTAINER DOOR***"
-	{
-		"chi"		"**在集装箱的门上使用**"
-	}
-	"***GAS CANS HAVE BEEN COLLECTED***"
-	{
-		"chi"		"**已经收集到汽油罐**"
-	}
-	"***RUN BACK TO THE BOAT***"
-	{
-		"chi"		"**快回到船上**"
-	}
-	"***BOAT REFUELING***"
-	{
-		"chi"		"**给船加油**"
-	}
-	"***MOVING ON TO EXTREME MODE***"
-	{
-		"chi"		"**进入极限难度**"
-	}
-	"***SHOTGUN OUT OF AMMO***"
-	{
-		"chi"		"**霰弹枪子弹用尽**"
-	}
-	"***CURRENT DIFFICULTY IS EXTREME***"
-	{
-		"chi"		"**难度: 极限**"
-	}
-	"***LOOK OUT!!! ITS A T-REX***"
-	{
-		"chi"		"**啊 看呐!这是一条霸王龙**"
-	}
-	"***KILL IT!***"
-	{
-		"chi"		"**杀死它!**"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** LEVEL SET TO EXTREME ***"
+    {
+        "chi" "加载极限难度"
+    }
+
+    "*** LEVEL SET TO HARD ***"
+    {
+        "chi" "加载困难难度"
+    }
+
+    "*** LEVEL SET TO NORMAL ***"
+    {
+        "chi" "加载正常难度"
+    }
+
+    "***ALL CLOSED DOORS WILL OPEN IN 15 SECONDS***"
+    {
+        "chi" "**所有关闭的门将在15秒内打开**"
+    }
+
+    "***ALL CLOSED DOORS WILL OPEN IN 30 SECONDS***"
+    {
+        "chi" "**所有关闭的门将在30秒内打开 **"
+    }
+
+    "***ALL CLOSED DOORS WILL OPEN IN 60 SECONDS***"
+    {
+        "chi" "**所有关闭的门将在60秒后打开**"
+    }
+
+    "***BOAT REFUELING***"
+    {
+        "chi" "**给船加油**"
+    }
+
+    "***CHEAT BUTTON PRESSED***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "***CLIMB THE ROCKS!***"
+    {
+        "chi" "攀岩"
+    }
+
+    "***CT WIN!***"
+    {
+        "chi" "**人类胜利!**"
+    }
+
+    "***CURRENT DIFFICULTY IS EXTREME***"
+    {
+        "chi" "**难度: 极限**"
+    }
+
+    "***CURRENT DIFFICULTY IS HARD***"
+    {
+        "chi" "**难度: 困难**"
+    }
+
+    "***CURRENT DIFFICULTY IS NORMAL***"
+    {
+        "chi" "**难度: 正常   地图翻译: 户冢彩加&萌大奶@风云社**"
+    }
+
+    "***DOOR WILL OPEN IN 10 SECONDS***"
+    {
+        "chi" "**大门在10秒后开启**"
+    }
+
+    "***DOOR WILL OPEN IN 20 SECONDS***"
+    {
+        "chi" "**大门在20秒后开启**"
+    }
+
+    "***FALL BACK!!!***"
+    {
+        "chi" "**快撤**"
+    }
+
+    "***FALL BACK***"
+    {
+        "chi" "**溜了溜了**"
+    }
+
+    "***FOLLOW THE ELECTRIC PATH***"
+    {
+        "chi" "沿着电气路径"
+    }
+
+    "***GAS CANS HAVE BEEN COLLECTED***"
+    {
+        "chi" "**已经收集到汽油罐**"
+    }
+
+    "***GET INTO THE TRUCK***"
+    {
+        "chi" "**没时间解释了 快上车**"
+    }
+
+    "***GET OUT THE TRUCK AND GO TO THE HATCH***"
+    {
+        "chi" "**下车去舱口**"
+    }
+
+    "***GO GO PLANT THE C4***"
+    {
+        "chi" "**快去安装炸弹**"
+    }
+
+    "***GO TO THE CONTROL ROOM***"
+    {
+        "chi" "**快去控制室**"
+    }
+
+    "***GROUND DOORS ARE OPEN***"
+    {
+        "chi" "打开地面门"
+    }
+
+    "***GROUND DOORS WILL OPEN IN 10 SECONDS***"
+    {
+        "chi" "地面门将在10秒内打开"
+    }
+
+    "***GROUND DOORS WILL OPEN IN 15 SECONDS***"
+    {
+        "chi" "地面门将在15秒内打开"
+    }
+
+    "***GROUND DOORS WILL OPEN IN 5 SECONDS***"
+    {
+        "chi" "地面门将在5秒内打开"
+    }
+
+    "***HOLD THE DOOR UNTIL IT OPENS!***"
+    {
+        "chi" "按住门直到门打开"
+    }
+
+    "***HOLD THIS POSITION!***"
+    {
+        "chi" "**守住这里!**"
+    }
+
+    "***HOLD THIS POSTION***"
+    {
+        "chi" "**守住这里!**"
+    }
+
+    "***ITS FALLING DOWN!!!***"
+    {
+        "chi" "正在下降"
+    }
+
+    "***KILL IT!***"
+    {
+        "chi" "**杀死它!**"
+    }
+
+    "***LIFT IS COMING***"
+    {
+        "chi" "**电梯来了!**"
+    }
+
+    "***LIFT IS HERE!***"
+    {
+        "chi" "**电梯到了!**"
+    }
+
+    "***LOOK OUT!!! ITS A T-REX***"
+    {
+        "chi" "**啊 看呐!这是一条霸王龙**"
+    }
+
+    "***MAP RESET***"
+    {
+        "chi" "地图重置"
+    }
+
+    "***MOVING ON TO EXTREME MODE***"
+    {
+        "chi" "**进入极限难度**"
+    }
+
+    "***MOVING ON TO HARD MODE***"
+    {
+        "chi" "**进入困难难度**"
+    }
+
+    "***MULDOON'S SHOTGUN HAS BEEN FOUND***"
+    {
+        "chi" "**MULDOON的猎枪被找到了**"
+    }
+
+    "***NUKE IS COMING!!!***"
+    {
+        "chi" "导弹来啦!!!"
+    }
+
+    "***ON THE DOOR TO THE CONTAINER***"
+    {
+        "chi" "**在集装箱的门上**"
+    }
+
+    "***POWER HAS BEEN RESTORED***"
+    {
+        "chi" "**能源已恢复**"
+    }
+
+    "***POWER RESTORING IN 10 SECONDS***"
+    {
+        "chi" "**10秒后能源恢复**"
+    }
+
+    "***POWER RESTORING IN 15 SECONDS***"
+    {
+        "chi" "**15秒后能源恢复**"
+    }
+
+    "***POWER RESTORING IN 5 SECONDS***"
+    {
+        "chi" "**5秒后能源恢复**"
+    }
+
+    "***PRESS USE ON THE CONTAINER DOOR***"
+    {
+        "chi" "**在集装箱的门上使用**"
+    }
+
+    "***RESTORE THE POWER!***"
+    {
+        "chi" "**恢复能源!**"
+    }
+
+    "***RUN BACK TO THE BOAT***"
+    {
+        "chi" "**快回到船上**"
+    }
+
+    "***SHOTGUN OUT OF AMMO***"
+    {
+        "chi" "**霰弹枪子弹用尽**"
+    }
+
+    "***TELEPORTING ALL TO GENERATOR CATWALK***"
+    {
+        "chi" "**传送所有人到发电机走道**"
+    }
+
+    "***THANKS FOR PLAYING : )***"
+    {
+        "chi" "感谢您的参与: )"
+    }
+
+    "***THE BUTTON WILL CLOSE THE GATES***"
+    {
+        "chi" "**按下按钮将关闭大门**"
+    }
+
+    "***USE GENERATOR TO ENABLE POWER TO BUTTON***"
+    {
+        "chi" "**按下按钮启用电源**"
+    }
+
+    "***YOU WON!!!!***"
+    {
+        "chi" "你赢了!!!"
+    }
+
+    "***YOU WON!!!***"
+    {
+        "chi" "你赢了!!!"
+    }
+
+    "***ZOMBIE DETECTED***"
+    {
+        "chi" "检测到僵尸"
+    }
+
+    "***ZOMBIES HAVE BEEN TRAPPED...RUUN!***"
+    {
+        "chi" "**僵尸被困住了 快跑!**"
+    }
+
 }

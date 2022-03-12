@@ -1,187 +1,205 @@
 "Console_T"
 {
-	"*** We have to escape from this tunnel... ***"
-	{
-		"chi"		"**我们得从隧道里逃出来**"
-	}
-	"*** map created by thas ***"
-	{
-		"chi"		"**制作:thas翻译:Sakura@风云社**"
-	}
-	"*** ANTI BHOP :Bhopping is not allowed by the map"
-	{
-		"chi"		"**这张图禁止使用连跳**"
-	}
-	"*** THREE SPIKE ROCKS WILL EXPLODE IN 15 SECONDS ***"
-	{
-		"chi"		"**15秒后石头会爆炸!回头开枪!**"
-	}
-	"*** THREE SPIKE ROCKS WILL EXPLODE IN 5 SECONDS ***"
-	{
-		"chi"		"**5秒后爆炸!走的时候留火!**"
-	}
-	"*** GET OUT FROM NEAR DYNAMITE !! ***"
-	{
-		"chi"		"**快走!一路向前!**"
-	}
-	"*** LIGHTING ROCKS WILL EXPLODE IN 30 SECONDS ***"
-	{
-		"chi"		"**石头会在30秒内爆炸!坚守阵地!**"
-	}
-	"*** LIGHTING ROCKS WILL EXPLODE IN 5 SECONDS ***"
-	{
-		"chi"		"**石头会在5秒内爆炸!准备撤退!**"
-	}
-	"*** WATCH OUT!! ***"
-	{
-		"chi"		"**小心!什么东西!**"
-	}
-	"*** THREE LIGHTING ROCKS WILL EXPLODE IN 25 SECONDS ***"
-	{
-		"chi"		"**石头会在25秒后爆炸**"
-	}
-	"*** THREE LIGHTING ROCKS WILL EXPLODE IN 5 SECONDS ***"
-	{
-		"chi"		"**石头会在5秒后爆炸**"
-	}
-	"*** WATCH OUT FOR FALL ROCKS !!! ***"
-	{
-		"chi"		"**当心石头!**"
-	}
-	"*** FALL ROCKS FOR HUMANS WILL COME IN 25 SECONDS ***"
-	{
-		"chi"		"**落石将在25秒后到达!**"
-	}
-	"*** HOLD HERE !! ***"
-	{
-		"chi"		"**守住!**"
-	}
-	"*** FALL ROCKS FOR HUMANS WILL COME IN 5 SECONDS ***"
-	{
-		"chi"		"**5秒!**"
-	}
-	"*** FALL ROCKS ARE COMING ***"
-	{
-		"chi"		"**来了!!!**"
-	}
-	"*** !? ***"
-	{
-		"chi"		"** **"
-	}
-	"*** OH NO !! IT'S EARTHQUAKE !! ***"
-	{
-		"chi"		"**不!是地震!**"
-	}
-	"*** Be careful !! ***"
-	{
-		"chi"		"**注意!**"
-	}
-	"*** WATCH OUT !! ***"
-	{
-		"chi"		"**小心!**"
-	}
-	"*** FALL ROCKS ARE BROKE ***"
-	{
-		"chi"		"**石头被摧毁了!!**"
-	}
-	"*** BIG FALL ROCKS !! ***"
-	{
-		"chi"		"**来了!!小心!
-	}
-	"*** THE BIG ROCK IS BLOCKING OUR ESCAPE ROAD... ***"
-	{
-		"chi"		"**挡住了我们逃跑的路线!**"
-	}
-	"*** BUT PROBABLY IT LOOKS CAN PUSH IN OUR POWER ***"
-	{
-		"chi"		"**或许我们可以推动!**"
-	}
-	"*** SOMEONE HAVE TO STAND IN FRONT OF BIG ROCK ***"
-	{
-		"chi"		"**必须有人站在前面**"
-	}
-	"*** HOLD HERE UNTIL FINISH PUSHING THE BIG ROCK !! ***"
-	{
-		"chi"		"**守住这里知道我们推动滚石!**"
-	}
-	"*** SOMEONE FINISHED PUSHING THE ROCK ***"
-	{
-		"chi"		"**有人完成了!**"
-	}
-	"*** FALL BACK !! ***"
-	{
-		"chi"		"**快撤退!**"
-	}
-	"*** WE FOUND MACHINE TO CALL HELP ***"
-	{
-		"chi"		"**我们找到寻找救援的方法了!**"
-	}
-	"*** THIS MACHINE IS HIS ***"
-	{
-		"chi"		"**这个是他的**"
-	}
-	"*** BUT HE IS ALREADY DEAD ***"
-	{
-		"chi"		"**但是他已经死了**"
-	}
-	"*** IT CAN CALL HELP ***"
-	{
-		"chi"		"**快寻找救援!**"
-	}
-	"*** WE ARE TRYING TO CALL HELP... ***"
-	{
-		"chi"		"**我们试图寻找救援**"
-	}
-	"*** WE HAVE FINISHED CALLING HELP ***"
-	{
-		"chi"		"**我们完成了!**"
-	}
-	"*** HOLD HERE UNTIL COME HELP ***"
-	{
-		"chi"		"**守住这里直到救援来!**"
-	}
-	"*** LADDER IS COMING ! FALL BACK !!! ***"
-	{
-		"chi"		"**救援来了!撤退!**"
-	}
-	"*** WE HAVE ESCAPED UNDERTUNNEL ***"
-	{
-		"chi"		"**我们成功逃离了!**"
-	}
-	"*** BIG FALL ROCK !! ***"
-	{
-		"chi"		"**大滚石!**"
-	}
-	"### WELCOME TO CRAZY ESCAPE ###"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	"* * * MAP BY AobaSuzukaze(sweetS), Special Thanks reflelia * * *"
-	{
-		"chi"		"** **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Taskuvaras***"
-	{
-		"chi"		"** **"
-	}
-	"***Human door opening in 15s***"
-	{
-		"chi"		"** **"
-	}
-	"**Map made by Binbow**"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** !? ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** ANTI BHOP :Bhopping is not allowed by the map "
+    {
+        "chi" "地图连跳已被限制"
+    }
+
+    "*** BE CAREFUL !! ***"
+    {
+        "chi" "小心"
+    }
+
+    "*** BIG FALL ROCK !! ***"
+    {
+        "chi" "**大滚石!**"
+    }
+
+    "*** BIG FALL ROCKS !! ***"
+    {
+        "chi" "**挡住了我们逃跑的路线!**"
+    }
+
+    "*** BUT HE IS ALREADY DEAD ***"
+    {
+        "chi" "**但是他已经死了**"
+    }
+
+    "*** BUT PROBABLY IT LOOKS CAN PUSH IN OUR POWER ***"
+    {
+        "chi" "**或许我们可以推动!**"
+    }
+
+    "*** FALL BACK !! ***"
+    {
+        "chi" "**快撤退!**"
+    }
+
+    "*** FALL ROCKS ARE BROKE ***"
+    {
+        "chi" "**石头被摧毁了!!**"
+    }
+
+    "*** FALL ROCKS ARE COMING ***"
+    {
+        "chi" "**来了!!!**"
+    }
+
+    "*** FALL ROCKS FOR HUMANS WILL COME IN 25 SECONDS ***"
+    {
+        "chi" "**落石将在25秒后到达!**"
+    }
+
+    "*** FALL ROCKS FOR HUMANS WILL COME IN 5 SECONDS ***"
+    {
+        "chi" "**5秒!**"
+    }
+
+    "*** GET OUT FROM NEAR DYNAMITE !! ***"
+    {
+        "chi" "**快走!一路向前!**"
+    }
+
+    "*** HOLD HERE !! ***"
+    {
+        "chi" "**守住!**"
+    }
+
+    "*** HOLD HERE UNTIL COME HELP ***"
+    {
+        "chi" "**守住这里直到救援来!**"
+    }
+
+    "*** HOLD HERE UNTIL FINISH PUSHING THE BIG ROCK !! ***"
+    {
+        "chi" "**守住这里知道我们推动滚石!**"
+    }
+
+    "*** IT CAN CALL HELP ***"
+    {
+        "chi" "**快寻找救援!**"
+    }
+
+    "*** LADDER IS COMING ! FALL BACK !!! ***"
+    {
+        "chi" "**救援来了!撤退!**"
+    }
+
+    "*** LIGHTING ROCKS WILL EXPLODE IN 30 SECONDS ***"
+    {
+        "chi" "**石头会在30秒内爆炸!坚守阵地!**"
+    }
+
+    "*** LIGHTING ROCKS WILL EXPLODE IN 5 SECONDS ***"
+    {
+        "chi" "**石头会在5秒内爆炸!准备撤退!**"
+    }
+
+    "*** Map created by thas ***"
+    {
+        "chi" "作者:thas 汉化:小三@風雲社"
+    }
+
+    "*** OH NO !! IT'S EARTHQUAKE !! ***"
+    {
+        "chi" "**不!是地震!**"
+    }
+
+    "*** SOMEONE FINISHED PUSHING THE ROCK ***"
+    {
+        "chi" "**有人完成了!**"
+    }
+
+    "*** SOMEONE HAVE TO STAND IN FRONT OF BIG ROCK ***"
+    {
+        "chi" "**必须有人站在前面**"
+    }
+
+    "*** THE BIG ROCK IS BLOCKING OUR ESCAPE ROAD... ***"
+    {
+        "chi" "这该死的石头挡住了我们的去路"
+    }
+
+    "*** THIS MACHINE IS HIS ***"
+    {
+        "chi" "**这个是他的**"
+    }
+
+    "*** THREE LIGHTING ROCKS WILL EXPLODE IN 25 SECONDS ***"
+    {
+        "chi" "**石头会在25秒后爆炸**"
+    }
+
+    "*** THREE LIGHTING ROCKS WILL EXPLODE IN 5 SECONDS ***"
+    {
+        "chi" "**石头会在5秒后爆炸**"
+    }
+
+    "*** THREE SPIKE ROCKS WILL EXPLODE IN 15 SECONDS ***"
+    {
+        "chi" "**15秒后石头会爆炸!回头开枪!**"
+    }
+
+    "*** THREE SPIKE ROCKS WILL EXPLODE IN 5 SECONDS ***"
+    {
+        "chi" "**5秒后爆炸!走的时候留火!**"
+    }
+
+    "*** WATCH OUT !! ***"
+    {
+        "chi" "**小心!**"
+    }
+
+    "*** WATCH OUT FOR FALL ROCKS !!! ***"
+    {
+        "chi" "**当心石头!**"
+    }
+
+    "*** WATCH OUT!! ***"
+    {
+        "chi" "**小心!什么东西!**"
+    }
+
+    "*** WE ARE TRYING TO CALL HELP... ***"
+    {
+        "chi" "**我们试图寻找救援**"
+    }
+
+    "*** WE FOUND MACHINE TO CALL HELP ***"
+    {
+        "chi" "**我们找到寻找救援的方法了!**"
+    }
+
+    "*** WE HAVE ESCAPED UNDERTUNNEL ***"
+    {
+        "chi" "**我们成功逃离了!**"
+    }
+
+    "*** WE HAVE FINISHED CALLING HELP ***"
+    {
+        "chi" "**我们完成了!**"
+    }
+
+    "*** We have to escape from this tunnel... ***"
+    {
+        "chi" "**我们得从隧道里逃出来**"
+    }
+
 }

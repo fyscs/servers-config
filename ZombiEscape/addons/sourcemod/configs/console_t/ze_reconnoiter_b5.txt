@@ -1,71 +1,69 @@
 "Console_T"
 {
-	"Defend, the door open soon !"
-	{
-		"chi"		"**守住, 门很快就开了**"
-	}
-	"Fall back !"
-	{
-		"chi"		"**撤退**"
-	}
-	"Door its open !"
-	{
-		"chi"		"**门开了**"
-	}
-	"The Train leave soon !"
-	{
-		"chi"		"**电车快要离开了**"
-	}
-	"The Train leave in 10 seconds !"
-	{
-		"chi"		"**电车将在10秒后撤离**"
-	}
-	"Jump in train !"
-	{
-		"chi"		"**跳上电车**                        '萌新不要学大佬装B”"
-	}
-	"Dont touch drilling device when it is on work !!!"
-	{
-		"chi"		"**不要碰正在运行中的钻孔装置 **"
-	}
-	"Fall back to elevator !"
-	{
-		"chi"		"**撤离至电梯防守**"
-	}
-	"Defend and wait until boats leave !"
-	{
-		"chi"		"**防守, 直到船撤离**"
-	}
-	"Zombie teleport in 5 seconds"
-	{
-		"chi"		"**僵尸将于5秒后传送至白色集装箱位置**               '还撩前面刷呢”"
-	}
-	"Boats leave in 5 seconds !"
-	{
-		"chi"		"**友谊的小船5秒后撤离**"
-	}
-	"###Map Made By Mononoke###"
-	{
-		"chi"		"**地图制作: Mononoke		汉化: 小三@风云社"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"** Welcome to the mystical island of Kraznov Poopata **"
-	{
-		"chi"		"**欢迎来到神秘的Kraznov Poopata岛**"
-	}
-	"**Map made by Malgo**"
-	{
-		"chi"		"**地图制作: Malgo		汉化: 小三@风云社**"
-	}
-	"*** Special Thanks testing: GFL & MAPEADORES  ***"
-	{
-		"chi"		"** **"
-	}
-	"<!!!> MAP BY JB_GAMBLE <!!!>"
-	{
-		"chi"		"**地图制作: JB_GAMBLE		汉化: 小三@风云社**"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "Boats leave in 5 seconds !"
+    {
+        "chi" "**友谊的小船5秒后撤离**"
+    }
+
+    "Defend and wait until boats leave !"
+    {
+        "chi" "**防守, 直到船撤离**"
+    }
+
+    "Defend, the door open soon !"
+    {
+        "chi" "**守住, 门很快就开了**"
+    }
+
+    "Dont touch drilling device when it is on work !!!"
+    {
+        "chi" "**不要碰正在运行中的钻孔装置 **"
+    }
+
+    "Door its open !"
+    {
+        "chi" "**门开了**"
+    }
+
+    "Fall back !"
+    {
+        "chi" "**撤退**"
+    }
+
+    "Fall back to elevator !"
+    {
+        "chi" "**撤离至电梯防守**"
+    }
+
+    "Jump in train !"
+    {
+        "chi" "**跳上电车**                        '萌新不要学大佬装B”"
+    }
+
+    "The Train leave in 10 seconds !"
+    {
+        "chi" "**电车将在10秒后撤离**"
+    }
+
+    "The Train leave soon !"
+    {
+        "chi" "**电车快要离开了**"
+    }
+
+    "Zombie teleport in 5 seconds"
+    {
+        "chi" "**僵尸将于5秒后传送至白色集装箱位置**               '还撩前面刷呢”"
+    }
+
 }

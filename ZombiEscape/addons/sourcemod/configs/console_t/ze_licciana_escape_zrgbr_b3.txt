@@ -1,123 +1,230 @@
 "Console_T"
 {
-	"MAP BY GARGANTUA AND EDITED BY FANZACK AND CHUCK FROM ZRAGE"
-	{
-		"chi"		"**地图作者: GARGANTUA,FANZACK,ZRAGE 地图翻译: 户冢彩加&萌大奶@风云社**"
-	}
-	"LEVEL: EASY"
-	{
-		"chi"		"**难度: 简单**"
-	}
-	"+++ THE BOAT IS LEAVING +++"
-	{
-		"chi"		"**船要起航了!上船了么!**"
-	}
-	"++ ESCAPE LIFT 1 ARRIVING IN 30 SECONDS ++"
-	{
-		"chi"		"**电梯1到达在30秒后!防守!**"
-	}
-	"++ ESCAPE LIFT 2 ARRIVING IN 30 SECONDS ++"
-	{
-		"chi"		"**电梯2到达在30秒后!防守!**"
-	}
-	"++ ESCAPE LIFT 1 ARRIVED ++"
-	{
-		"chi"		"**电梯1到达!准备撤退!**"
-	}
-	"++ LIFT DOOR 1 OPENING UP ++"
-	{
-		"chi"		"**电梯1门开了!fallback!**"
-	}
-	"++ ESCAPE LIFT 1 LEAVING IN 30 SECONDS ++"
-	{
-		"chi"		"**电梯1离开在30秒后!防守这里!**"
-	}
-	"++ ESCAPE LIFT 2 ARRIVED ++"
-	{
-		"chi"		"**电梯2到了准备撤退!**"
-	}
-	"++ ESCAPE LIFT 1 LEAVING IN 15 SECONDS ++"
-	{
-		"chi"		"**电梯1离开在15秒后防守这里!**"
-	}
-	"++ LIFT DOOR 2 OPENING UP ++"
-	{
-		"chi"		"**电梯2门开了!进电梯! **"
-	}
-	"++ ESCAPE LIFT 2 LEAVING IN 30 SECONDS ++"
-	{
-		"chi"		"**电梯2离开在30秒后!防守这里! **"
-	}
-	"+++ YOU LOST +++"
-	{
-		"chi"		"**你输了 **"
-	}
-	"++ TOXIC MINE GAS HAS BEEN RELEASED!! ++"
-	{
-		"chi"		"**有瓦斯气体已经释放!!!是毒气! **"
-	}
-	"++ ESCAPE LIFT 2 LEAVING IN 15 SECONDS ++"
-	{
-		"chi"		"**逃生电梯2在15秒后离开!准备撤离! **"
-	}
-	"++ ESCAPE LIFT 2 IS LEAVING IN 5 SECONDS ++"
-	{
-		"chi"		"**逃生电梯2在5秒!快了! **"
-	}
-	"++ ESCAPE LIFT 1 IS LEAVING IN 5 SECONDS ++"
-	{
-		"chi"		"**逃生电梯1在5秒后离开!fallback!**"
-	}
-	"++ 30 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
-	{
-		"chi"		"**还剩30秒到达安全地点: LICCIANA**"
-	}
-	"++ TOXIC MINE GAS IN AIR !! ++"
-	{
-		"chi"		"**空气中弥漫着毒气**"
-	}
-	"YOU WON LEVEL EASY"
-	{
-		"chi"		"**你通过了简单难度!**"
-	}
-	"LEVEL: MEDIUM"
-	{
-		"chi"		"****难度: 中等****"
-	}
-	"+++ LASERS! +++"
-	{
-		"chi"		"**跳刀!**"
-	}
-	"+++ HOLD FOR 20 SECONDS +++"
-	{
-		"chi"		"**守住20秒!守住!**"
-	}
-	"+++ LADDER OPENING IN 5 SECONDS +++"
-	{
-		"chi"		"**梯子在5秒后可以攀爬!准备撤退!爬梯子!**"
-	}
-	"YOU WON LEVEL MEDIUM"
-	{
-		"chi"		"**你通关了中等难度**"
-	}
-	"LEVEL: HARD"
-	{
-		"chi"		"****难度: 困难****"
-	}
-	"YOU WON LEVEL HARD"
-	{
-		"chi"		"**你通关了困难难度**"
-	}
-	"LEVEL: EXTREME"
-	{
-		"chi"		"**难度: 极限**"
-	}
-	"+++ HOLD FOR 15 SECONDS +++"
-	{
-		"chi"		"**守住15秒!!!**"
-	}
-	"*** Special Thanks testing: GFL & MAPEADORES  ***"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "++ 15 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
+    {
+        "chi" "还剩15秒到达安全地点"
+    }
+
+    "++ 30 SECONDS LEFT TO GET TO SAFE GROUNDS : LICCIANA !! ++"
+    {
+        "chi" "**还剩30秒到达安全地点**"
+    }
+
+    "++ ESCAPE LIFT 1 ARRIVED ++"
+    {
+        "chi" "**电梯1到达!准备撤退!**"
+    }
+
+    "++ ESCAPE LIFT 1 ARRIVING IN 30 SECONDS ++"
+    {
+        "chi" "**电梯1到达在30秒后!防守!**"
+    }
+
+    "++ ESCAPE LIFT 1 IS LEAVING IN 5 SECONDS ++"
+    {
+        "chi" "**逃生电梯1在5秒后离开!fallback!**"
+    }
+
+    "++ ESCAPE LIFT 1 LEAVING IN 15 SECONDS ++"
+    {
+        "chi" "**电梯1离开在15秒后防守这里!**"
+    }
+
+    "++ ESCAPE LIFT 1 LEAVING IN 30 SECONDS ++"
+    {
+        "chi" "**电梯1离开在30秒后!防守这里!**"
+    }
+
+    "++ ESCAPE LIFT 2 ARRIVED ++"
+    {
+        "chi" "**电梯2到了准备撤退!**"
+    }
+
+    "++ ESCAPE LIFT 2 ARRIVING IN 30 SECONDS ++"
+    {
+        "chi" "**电梯2到达在30秒后!防守!**"
+    }
+
+    "++ ESCAPE LIFT 2 IS LEAVING IN 5 SECONDS ++"
+    {
+        "chi" "**逃生电梯2在5秒!快了! **"
+    }
+
+    "++ ESCAPE LIFT 2 LEAVING IN 15 SECONDS ++"
+    {
+        "chi" "**逃生电梯2在15秒后离开!准备撤离! **"
+    }
+
+    "++ ESCAPE LIFT 2 LEAVING IN 30 SECONDS ++"
+    {
+        "chi" "**电梯2离开在30秒后!防守这里! **"
+    }
+
+    "++ LIFT DOOR 1 OPENING UP ++"
+    {
+        "chi" "**电梯1门开了!fallback!**"
+    }
+
+    "++ LIFT DOOR 2 OPENING UP ++"
+    {
+        "chi" "**电梯2门开了!进电梯! **"
+    }
+
+    "++ TOXIC MINE GAS HAS BEEN RELEASED!! ++"
+    {
+        "chi" "**有瓦斯气体已经释放!!!是毒气! **"
+    }
+
+    "++ TOXIC MINE GAS IN AIR !! ++"
+    {
+        "chi" "**空气中弥漫着毒气**"
+    }
+
+    "+++ 30 SECONDS LEFT +++"
+    {
+        "chi" "守住 30 秒"
+    }
+
+    "+++ HOLD FOR 15 SECONDS +++"
+    {
+        "chi" "**守住15秒!!!**"
+    }
+
+    "+++ HOLD FOR 20 SECONDS +++"
+    {
+        "chi" "**守住20秒!守住!**"
+    }
+
+    "+++ LADDER OPENING IN 5 SECONDS +++"
+    {
+        "chi" "**梯子在5秒后可以攀爬!准备撤退!爬梯子!**"
+    }
+
+    "+++ LASERS! +++"
+    {
+        "chi" "**跳刀!**"
+    }
+
+    "+++ PUT THE PENIS IN HIS ASS +++"
+    {
+        "chi" "哦!我的上帝,你说的是什么话!"
+    }
+
+    "+++ THE BOAT IS LEAVING +++"
+    {
+        "chi" "**船要起航了!上船了么!**"
+    }
+
+    "+++ THE HARU APPEARED! KILL HIM +++"
+    {
+        "chi" "HARU出现了!杀了他"
+    }
+
+    "+++ WAIT, WTF IS THIS? +++"
+    {
+        "chi" "等等,WTF是这个吗?"
+    }
+
+    "+++ YOU LOST +++"
+    {
+        "chi" "**你输了 **"
+    }
+
+    "+++Heal picked up+++"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "CHANGING LEVEL TO EASY"
+    {
+        "chi" "将级别更改为"简单""
+    }
+
+    "CHANGING LEVEL TO EXTREME"
+    {
+        "chi" "将级别更改为"极端""
+    }
+
+    "CHANGING LEVEL TO HARD"
+    {
+        "chi" "将级别更改为"HARD""
+    }
+
+    "CHANGING LEVEL TO MEDIUM"
+    {
+        "chi" "将级别更改为"普通""
+    }
+
+    "CONGRATULATIONS, YOU WON ALL THE LEVELS!"
+    {
+        "chi" "恭喜你,你赢得了所有级别!"
+    }
+
+    "LEVEL: EASY"
+    {
+        "chi" "**难度: 简单**"
+    }
+
+    "LEVEL: EXTREME"
+    {
+        "chi" "**难度: 极限**"
+    }
+
+    "LEVEL: HARD"
+    {
+        "chi" "****难度: 困难****"
+    }
+
+    "LEVEL: MEDIUM"
+    {
+        "chi" "****难度: 中等****"
+    }
+
+    "MAP BY GARGANTUA AND EDITED BY FANZACK AND CHUCK FROM ZRAGE"
+    {
+        "chi" "**地图作者: GARGANTUA,FANZACK,ZRAGE 地图翻译: 户冢彩加&萌大奶@风云社**"
+    }
+
+    "NUKE ACTIVATED!"
+    {
+        "chi" "导弹激活!"
+    }
+
+    "YOU W..."
+    {
+        "chi" "芜湖!"
+    }
+
+    "YOU WON LEVEL EASY"
+    {
+        "chi" "**你通过了简单难度!**"
+    }
+
+    "YOU WON LEVEL EXTREME"
+    {
+        "chi" "**你通关了极限难度**"
+    }
+
+    "YOU WON LEVEL HARD"
+    {
+        "chi" "**你通关了困难难度**"
+    }
+
+    "YOU WON LEVEL MEDIUM"
+    {
+        "chi" "**你通关了中等难度**"
+    }
+
 }

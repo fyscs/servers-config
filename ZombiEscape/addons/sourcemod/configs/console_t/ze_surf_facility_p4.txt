@@ -1,215 +1,154 @@
 "Console_T"
 {
-	"***Prepare defences! 45 seconds!***"
-	{
-		"chi"		"**防守45秒!兄弟萌跟着人群!**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"***Intro song is Spanish Flea***"
-	{
-		"chi"		"****"
-	}
-	"***Middle song is Red Canyon by F-Zero***"
-	{
-		"chi"		"****"
-	}
-	"***Finale song is Jump by Two Steps From Hell***"
-	{
-		"chi"		"****"
-	}
-	"****Map by Eugenio *Motanum* Roman****"
-	{
-		"chi"		"**地图作者: Eugenio *Motanum* Roman   翻译: Sakura@风云社**"
-	}
-	"****Contact me at eugenio.motanum91@gmail.com****"
-	{
-		"chi"		"**对地图有建议可以联系作者: eugenio.motanum91@gmail.com**"
-	}
-	"***5 seconds left!**"
-	{
-		"chi"		"**还剩下5秒!板子会破碎!**"
-	}
-	"***Humans Run to next exit***"
-	{
-		"chi"		"**快去下一关!**"
-	}
-	"***Afk Killer is enabled for 5 seconds***"
-	{
-		"chi"		"**5秒后清理挂机的玩家!**"
-	}
-	"***Zombies are out of jail***"
-	{
-		"chi"		"**僵尸来了!还没过去的要凉了!**"
-	}
-	"***Protect yourself from Jumpy Zomby!**"
-	{
-		"chi"		"**僵尸连跳来咯!快丢雷呀!**"
-	}
-	"***60 seconds left!**"
-	{
-		"chi"		"**还有60秒!坚持住!**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"***Humans Run to next exit**"
-	{
-		"chi"		"**人类冲向下一关!**"
-	}
-	"***Zombies have broken out of Jail!**"
-	{
-		"chi"		"**僵尸来了!快丢雷!**"
-	}
-	"***Prepare defences! 45 seconds!**"
-	{
-		"chi"		"**准备防守45秒!守住这里!别问为什么!**"
 
-	}
-	"***Zombies out of Jail**"
-	{
-		"chi"		"**僵尸来咯!来了他们来了!**"
-	}
-	"***Humans reach final point***"
-	{
-		"chi"		"**人类已经抵达最后一关!**"
-	}
-	"***Hold 75 seconds***"
-	{
-		"chi"		"**防守75秒!**"
-	}
-	"***Hold 50 seconds!***"
-	{
-		"chi"		"**再给我防守50秒!最后一个点了!守住2边口子!**"
+    "****Contact me at eugenio.motanum91@gmail.com****"
+    {
+        "chi" "**对地图有建议可以联系作者: eugenio.motanum91@gmail.com**"
+    }
 
-	}
-	"***Humans have been teleported!***"
-	{
-		"chi"		"**没滑完的萌新已被传送了**"
-	}
-	"***Hold 30 seconds!***"
-	{
-		"chi"		"**只剩30秒了!守住!**"
-	}
-	"***Final Zombie Wave is Inbound!***"
-	{
-		"chi"		"**僵尸最后的机会了!他们更猛烈了!**"
-	}
-	"***Hold 10 seconds***"
-	{
-		"chi"		"**最后10秒!!!站到中间!**"
-	}
-	"***Final Escape is in progres***"
-	{
-		"chi"		"**门要开了准备走!**"
-	}
-	"***No game score will be applied***"
-	{
-		"chi"		"**那一天, 人类终于回想起, 那被他们所支配的滑翔, 还有被囚禁于尸笼的耻辱**"
-	}
-	"***Zombies reached final surf***"
-	{
-		"chi"		"**僵尸到了最后一个滑翔**"
-	}
-	"***Zombies reached the Hill***"
-	{
-		"chi"		"**僵尸冲上了平台!!!**"
-	}
-	"***No place is safe!***"
-	{
-		"chi"		"**生死有命!富贵在天!**"
-	}
-	"* * * MAP BY AobaSuzukaze(sweetS), Special Thanks reflelia * * *"
-	{
-		"chi"		"** **"
-	}
-	"* * * FIRST ROUND OF THE MAP - RESTARTING IN 10s * * *"
-	{
-		"chi"		"** **"
-	}
-	"* * * Choose the first MINIGAME * * *"
-	{
-		"chi"		"** **"
-	}
-	"<< ze_surf_virtus >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Fix by : Lishang >>"
-	{
-		"chi"		"** **"
-	}
-	"*** WARMUP ROUND (60 sec) ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Map By Nostar & Moltard ***"
-	{
-		"chi"		"** **"
-	}
-	"***CURRENT DIFFICULTY IS NORMAL***"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	">> Map by Taskuvaras <<"
-	{
-		"chi"		"** **"
-	}
-	"**stage 1**"
-	{
-		"chi"		"** **"
-	}
-	"**welcome to ze_fat_hours_escape**"
-	{
-		"chi"		"** **"
-	}
-	"**map by yinyuehzixi**"
-	{
-		"chi"		"** **"
-	}
-	"**Thanks to Airvulpes for the textures**"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"** **"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"** **"
-	}
-	"ZE Sunlight"
-	{
-		"chi"		"** **"
-	}
-	"**Map made by Eugenio *Motanum* Roman**"
-	{
-		"chi"		"** **"
-	}
-	"**Contact me at eugenio.motanum91 AT gmail.com**"
-	{
-		"chi"		"** **"
-	}
-	"***Selecting default difficulty****"
-	{
-		"chi"		"** **"
-	}
-	"**Thanks to [PF] PlagueFest for their support!**"
-	{
-		"chi"		"** **"
-	}
-	"***Waiting for players****"
-	{
-		"chi"		"** **"
-	}
-	"***Reseting game in 20 seconds****"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
+    "****Map by Eugenio *Motanum* Roman****"
+    {
+        "chi" "**地图作者: Eugenio *Motanum* Roman   翻译: Sakura@风云社**"
+    }
+
+    "***5 seconds left!**"
+    {
+        "chi" "**还剩下5秒!板子会破碎!**"
+    }
+
+    "***60 seconds left!**"
+    {
+        "chi" "**还有60秒!坚持住!**"
+    }
+
+    "***Afk Killer is enabled for 5 seconds***"
+    {
+        "chi" "**5秒后清理挂机的玩家!**"
+    }
+
+    "***Final Escape is in progres***"
+    {
+        "chi" "**门要开了准备走!**"
+    }
+
+    "***Final Zombie Wave is Inbound!***"
+    {
+        "chi" "**僵尸最后的机会了!他们更猛烈了!**"
+    }
+
+    "***Finale song is Jump by Two Steps From Hell***"
+    {
+        "chi" "****"
+    }
+
+    "***Hold 10 seconds***"
+    {
+        "chi" "**最后10秒!!!站到中间!**"
+    }
+
+    "***Hold 30 seconds!***"
+    {
+        "chi" "**只剩30秒了!守住!**"
+    }
+
+    "***Hold 50 seconds!***"
+    {
+        "chi" "**再给我防守50秒!最后一个点了!守住2边口子!**"
+    }
+
+    "***Hold 75 seconds***"
+    {
+        "chi" "**防守75秒!**"
+    }
+
+    "***Humans have been teleported!***"
+    {
+        "chi" "**没滑完的萌新已被传送了**"
+    }
+
+    "***Humans reach final point***"
+    {
+        "chi" "**人类已经抵达最后一关!**"
+    }
+
+    "***Humans Run to next exit**"
+    {
+        "chi" "**人类冲向下一关!**"
+    }
+
+    "***Humans Run to next exit***"
+    {
+        "chi" "**快去下一关!**"
+    }
+
+    "***Intro song is Spanish Flea***"
+    {
+        "chi" "****"
+    }
+
+    "***Middle song is Red Canyon by F-Zero***"
+    {
+        "chi" "****"
+    }
+
+    "***No game score will be applied***"
+    {
+        "chi" "**那一天, 人类终于回想起, 那被他们所支配的滑翔, 还有被囚禁于尸笼的耻辱**"
+    }
+
+    "***No place is safe!***"
+    {
+        "chi" "没有一个地方是安全的"
+    }
+
+    "***Prepare defences! 45 seconds!**"
+    {
+        "chi" "**准备防守45秒!守住这里!别问为什么!**"
+    }
+
+    "***Prepare defences! 45 seconds!***"
+    {
+        "chi" "**防守45秒!兄弟萌跟着人群!**"
+    }
+
+    "***Protect yourself from Jumpy Zomby!**"
+    {
+        "chi" "**僵尸连跳来咯!快丢雷呀!**"
+    }
+
+    "***Zombies are out of jail***"
+    {
+        "chi" "**僵尸来了!还没过去的要凉了!**"
+    }
+
+    "***Zombies have broken out of Jail!**"
+    {
+        "chi" "**僵尸来了!快丢雷!**"
+    }
+
+    "***Zombies out of Jail**"
+    {
+        "chi" "**僵尸来咯!来了他们来了!**"
+    }
+
+    "***Zombies reached final surf***"
+    {
+        "chi" "**僵尸到了最后一个滑翔**"
+    }
+
+    "***Zombies reached the Hill***"
+    {
+        "chi" "僵尸们来到了山上"
+    }
+
 }

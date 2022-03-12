@@ -1,19 +1,40 @@
 "Console_T"
 {
-	"Special Thanks: Airvulpes"
-	{
-		"chi"		"** **"
-	}
-	"Test Server: Possession"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Taskuvaras***"
-	{
-		"chi"		"** **"
-	}
-	"***Human door opening in 15s***"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** ADMIN BUTTON STAGE 1 ***"
+    {
+        "chi" "载入第一关"
+    }
+
+    "*** ADMIN BUTTON STAGE 2 ***"
+    {
+        "chi" "载入第二关"
+    }
+
+    "/slay @all"
+    {
+        "chi" "处死全体"
+    }
+
+    "Special Thanks: Airvulpes"
+    {
+        "chi" "特别感谢:Airvulpes"
+    }
+
+    "Test Server: Possession"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
 }

@@ -1,59 +1,49 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "|||LEFT CONSOLE PRESSED|||"
-    {
-        "chi" "** **"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "|||RIGHT CONSOLE PRESSED|||"
+
+    "|||FAR LEFT CONSOLE PRESSED|||"
     {
-        "chi" "** **"
+        "chi" "最左边的控制台已按下"
     }
 
     "|||FAR RIGHT CONSOLE PRESSED|||"
     {
-        "chi" "** **"
-    }
-
-    "|||FAR LEFT CONSOLE PRESSED|||"
-    {
-        "chi" "** **"
+        "chi" "最右边的控制台已按下"
     }
 
     "|||LEFT CONSOLE PRESSED|||"
     {
-        "chi" "** **"
+        "chi" "按左控制台"
     }
 
     "|||RIGHT CONSOLE PRESSED|||"
     {
-        "chi" "** **"
+        "chi" "按右控制台"
     }
 
     "++ MAP BY HANNIBAL[SPA] / Rafuron ++"
     {
-        "chi" "** **"
-    }
-
-    "++ MAP BY HANNIBAL[SPA] / Rafuron ++"
-    {
-        "chi" "** **"
-    }
-
-    "++ MAP BY HANNIBAL[SPA] / Rafuron ++"
-    {
-        "chi" "** **"
+        "chi" "地图 作者:HANNIBAL[SPA] / Rafuron"
     }
 
     "++ MAP FIXED BY STRUPPI ++"
     {
-        "chi" "** **"
+        "chi" "地图由STRUPPI修复"
     }
 
     "++ Thanks to George and Sgt. zuff ++"
     {
-        "chi" "** **"
+        "chi" "感谢George和zuff中士"
     }
 
 }

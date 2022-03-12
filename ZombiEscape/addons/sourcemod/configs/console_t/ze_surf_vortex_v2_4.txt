@@ -1,225 +1,141 @@
 "Console_T"
 {
-	"***READY TO RUN***"
-	{
-		"chi"		"**僵尸逃跑现在开始! **"
-	}
-	"***Map by Reflelia***"
-	{
-		"chi"		"**制作:Reflelia翻译:Sakura@风云社**"
-	}
-	"***Teleport activates in 20 seconds***"
-	{
-		"chi"		"**20秒后传送!**"
-	}
-	"***3***"
-	{
-		"chi"		"**3**"
-	}
-	"***2***"
-	{
-		"chi"		"**2**"
-	}
-	"***1***"
-	{
-		"chi"		"**1**"
-	}
-	"***RUN***"
-	{
-		"chi"		"**快走!撤退!**"
-	}
-	"***Resist for 60 seconds***"
-	{
-		"chi"		"**在这里守住60秒!射击僵尸!突突突!**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"***Zombies are coming!!***"
-	{
-		"chi"		"**僵尸出笼**"
-	}
-	"***Teleporting all humans...***"
-	{
-		"chi"		"**传送所有人类**"
-	}
-	"***Teleporting all zombies...***"
-	{
-		"chi"		"**传送所有僵尸**"
-	}
-	"***Gravity picked up***"
-	{
-		"chi"		"**玩家拾取了重力!**"
-	}
-	"***10 SECONDS LEFT***"
-	{
-		"chi"		"**还剩10秒!准备撤退!**"
-	}
-	"***Resist 60 seconds***"
-	{
-		"chi"		"**守住60秒!坚守这里!**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"***Zombies are coming!***"
-	{
-		"chi"		"**僵尸来了**"
-	}
-	"***Gravity Used***"
-	{
-		"chi"		"**玩家使用了重力!**"
-	}
-	"***Resist 45 seconds***"
-	{
-		"chi"		"**守住45秒!加油兄弟萌!**"
 
-	}
-	"***shorcut open***"
-	{
-		"chi"		"**捷径开了**"
-	}
-	"***Low Health picked up***"
-	{
-		"chi"		"**玩家拾取了低血量!**"
-	}
-	"***Teleport error***"
-	{
-		"chi"		"**传送错误, 我们还得继续守一会!**"
-	}
-	"***Zombies are coming in 15 seconds***"
-	{
-		"chi"		"**僵尸15秒后到来**"
-	}
-	"***Try to find button***"
-	{
-		"chi"		"**尝试找到触发按钮**"
-	}
-	"***Teleport error fixed in 30 seconds***"
-	{
-		"chi"		"**传送错误.30秒后修复!继续坚守!**"
+    "***10 seconds left***"
+    {
+        "chi" "10"
+    }
 
-	}
-	"***Try to find second button***"
-	{
-		"chi"		"**尝试找到触发按钮**"
-	}
-	"***Low Health Used***"
-	{
-		"chi"		"**玩家使用了低血量!僵尸没血了!**"
-	}
-	"***ZOMBIES ARE COMING***"
-	{
-		"chi"		"**僵尸来了**"
-	}
-	"***Second teleport fixed in 30 seconds***"
-	{
-		"chi"		"**传送30秒后启动 **"
+    "***5 second left***"
+    {
+        "chi" "5"
+    }
 
-	}
-	"***5 seconds left, prepare yourself***"
-	{
-		"chi"		"**还剩5秒,准备撤退 **"
-	}
-	"***Watch out!***"
-	{
-		"chi"		"**当心!(就一放慢的蘑菇刀, 练练吧) **"
-	}
-	"***Resist for 30 seconds***"
-	{
-		"chi"		"**守住30秒!守住!
+    "***5 seconds left***"
+    {
+        "chi" "5"
+    }
 
-	}
-	"***5 seconds left***"
-	{
-		"chi"		"**还剩5秒!加油啊!
-	}
-	"***Ready for final surf***"
-	{
-		"chi"		"**准备最后的滑翔!全凭本事!**"
-	}
-	"***Watermelon***"
-	{
-		"chi"		"**西瓜 **"
-	}
-	"***Detonation in 3 seconds***"
-	{
-		"chi"		"**3秒后爆炸**"
-	}
-	"***No Secret Chance***"
-	{
-		"chi"		"** **"
-	}
-	"***Timed Out***"
-	{
-		"chi"		"**超时了 **"
-	}
-	"***Find Another Button***"
-	{
-		"chi"		"** **"
-	}
-	"***5 second left***"
-	{
-		"chi"		"** **"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"*** WARMUP ROUND (60 sec) ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Map By Nostar ***"
-	{
-		"chi"		"** **"
-	}
-	"<< ze_surf_virtus >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Fix by : Lishang >>"
-	{
-		"chi"		"** **"
-	}
-	"***Map by RelaxingWalls***"
-	{
-		"chi"		"** **"
-	}
-	"***Map made for SteamGamers Mapping Competition***"
-	{
-		"chi"		"** **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"** **"
-	}
-	"**stage 1**"
-	{
-		"chi"		"** **"
-	}
-	"**welcome to ze_fat_hours_escape**"
-	{
-		"chi"		"** **"
-	}
-	"**map by yinyuehzixi**"
-	{
-		"chi"		"** **"
-	}
-	"---Feedback:noojeff@gmail.com---"
-	{
-		"chi"		"** **"
-	}
-	"---Special Thank To:HZM654321 and JackBauer123---"
-	{
-		"chi"		"** **"
-	}
-	">> Map by Taskuvaras <<"
-	{
-		"chi"		"** **"
-	}
-	"+++  MAP MADE BY GARGANTUA +++"
-	{
-		"chi"		"** **"
-	}
-	"<!!!> MAP BY JB_GAMBLE <!!!>"
-	{
-		"chi"		"** **"
-	}
+    "***Detonation in 3 seconds***"
+    {
+        "chi" "**3秒后爆炸**"
+    }
+
+    "***Find Another Button***"
+    {
+        "chi" "寻找其他按钮"
+    }
+
+    "***Gravity picked up***"
+    {
+        "chi" "**玩家拾取了重力!**"
+        "blocked"    "1"
+    }
+
+    "***Gravity Used***"
+    {
+        "chi" "**玩家使用了重力!**"
+    }
+
+    "***Low Health picked up***"
+    {
+        "chi" "**玩家拾取了低血量!**"
+        "blocked"    "1"
+    }
+
+    "***Low Health Used***"
+    {
+        "chi" "**玩家使用了低血量!僵尸没血了!**"
+    }
+
+    "***Map by Reflelia***"
+    {
+        "chi" "**制作:Reflelia翻译:Sakura@风云社**"
+    }
+
+    "***No Secret Chance***"
+    {
+        "chi" "没有机会了"
+    }
+
+    "***Ready for final surf***"
+    {
+        "chi" "准备好最后的滑翔"
+    }
+
+    "***READY TO RUN***"
+    {
+        "chi" "**僵尸逃跑现在开始! **"
+    }
+
+    "***Resist 45 seconds***"
+    {
+        "chi" "**守住45秒!加油兄弟萌!**"
+    }
+
+    "***Resist for 30 seconds***"
+    {
+        "chi" "**准备最后的滑翔!全凭本事!**"
+    }
+
+    "***Resist for 60 seconds***"
+    {
+        "chi" "**在这里守住60秒!射击僵尸!突突突!**"
+    }
+
+    "***Second teleport fixed in 30 seconds***"
+    {
+        "chi" "**传送30秒后启动 **"
+    }
+
+    "***shorcut open***"
+    {
+        "chi" "**捷径开了**"
+    }
+
+    "***Teleport activates in 20 seconds***"
+    {
+        "chi" "**20秒后传送!**"
+    }
+
+    "***Teleport error fixed in 30 seconds***"
+    {
+        "chi" "**传送错误.30秒后修复!继续坚守!**"
+    }
+
+    "***Try to find second button***"
+    {
+        "chi" "**尝试找到触发按钮**"
+    }
+
+    "***Watch out!***"
+    {
+        "chi" "**当心!(就一放慢的蘑菇刀, 练练吧) **"
+    }
+
+    "***Watermelon***"
+    {
+        "chi" "**西瓜 **"
+    }
+
+    "***Zombies are coming!***"
+    {
+        "chi" "**僵尸来了**"
+    }
+
+    "***zombies are coming***"
+    {
+        "chi" "**僵尸来了**"
+    }
+
 }

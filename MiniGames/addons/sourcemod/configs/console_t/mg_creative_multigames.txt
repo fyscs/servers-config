@@ -1,0 +1,559 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "(-_-) !!"
+    {
+        "chi" "__null__"
+    }
+
+    "* Cuchillo/Knife - 2s *"
+    {
+        "chi" "__null__"
+    }
+
+    "* Draw - Knife enabled! * 60s or die"
+    {
+        "chi" "__null__"
+    }
+
+    "* Empate - Cuchillo Activado! * 60s o muere"
+    {
+        "chi" "__null__"
+    }
+
+    "* Mas/More*"
+    {
+        "chi" "__null__"
+    }
+
+    "* Win/Ganado * HE *"
+    {
+        "chi" "__null__"
+    }
+
+    "** Auto MAP **"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Cuchillo Activado! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** El The map will begin within 5 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Ganado | Win -  m249 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Ganado/Win (AWP) ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** GOOL BLUE TEAM WINS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** GOOL EQUIPO AZUL GANA ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** GOOL EQUIPO ROJO GANA ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** GOOL RED TEAM WINS ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Knife enabled! ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Play ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Ronda 3 Cuchillo Protecion off ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Round 2 Balls ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Round 3 Knife Protecion off ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Aim Deagle - Knife ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Aim/Ak47 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: AWP 100hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: AWP 400hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Balance ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Ball Prisoner ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Battle ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Billiards 500hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: BUNNY ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Canon Surft ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Cars Crash ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: CLIMB ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Comba ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Cube/Dual ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Cube/knife ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Deagle 100hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Deagle 200hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Glass 100hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Glass 200hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Glass 300hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Glass 500hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Grenada ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Hockey Ice ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: House ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: ICE 100hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: ICE 16hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Impulse in a circle MP5 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Infinite Life (Deagle) ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Jump Knife 100hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Jump Knife 200hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Knife Exploit barrels with REG  ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Knife Lava 100hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Knife Lava 16hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Knife Lava 200hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Knife Lava 66hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Knife/Break 100hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Knife/Break 16hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Knife/Break 200hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Knife/Break 66hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Labyrinth Dark  ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Lava/Run ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: M3 100hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: M3 200hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Matrix - Galil ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Ninja vs Ninja ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Paintball ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Pyramid 175hp Famas ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Race ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: SCOUT 100hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: SCOUT 200hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Snowboard 190hp MAC ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Soccer ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: TASER 1hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: TASER 400hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Taser Infinite ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: TOWER 100hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: TOWER 200hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: TOWER 300hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: TOWER 500hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Trampoline ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: UMP45 - Speed - Gravity - HP 300 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: VolleyBall ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: War of Boats 200hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: War of Boats 400hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: WaterPolo ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Weapons AK/M4 125hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Weapons AUG/SIG 200hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** The mode selected: Weapons Mag7 66hp ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*Cuchillo/Knife - ON *"
+    {
+        "chi" "__null__"
+    }
+
+    ">1<"
+    {
+        "chi" "__null__"
+    }
+
+    ">2<"
+    {
+        "chi" "__null__"
+    }
+
+    ">3<"
+    {
+        "chi" "__null__"
+    }
+
+    ">4<"
+    {
+        "chi" "__null__"
+    }
+
+    ">5<"
+    {
+        "chi" "__null__"
+    }
+
+    ">GO<"
+    {
+        "chi" "__null__"
+    }
+
+    "2s"
+    {
+        "chi" "__null__"
+    }
+
+    "3s"
+    {
+        "chi" "__null__"
+    }
+
+    "4s"
+    {
+        "chi" "__null__"
+    }
+
+    "5s"
+    {
+        "chi" "__null__"
+    }
+
+    "artTouch CMD Client:Command:say *** Round 1 ***:1.5:1"
+    {
+        "chi" "__null__"
+    }
+
+    "AutoMode: * Speed * Bridge: OFF"
+    {
+        "chi" "__null__"
+    }
+
+    "AutoMode: * Velocidad * Puente: OFF"
+    {
+        "chi" "__null__"
+    }
+
+    "AutoMode: 200 hp"
+    {
+        "chi" "__null__"
+    }
+
+    "AutoMode: Normal"
+    {
+        "chi" "__null__"
+    }
+
+    "AutoMode: Only (HeadShot) Bridge: OFF"
+    {
+        "chi" "__null__"
+    }
+
+    "AutoMode: Solo (HeadShot) Puente: OFF"
+    {
+        "chi" "__null__"
+    }
+
+    "GO"
+    {
+        "chi" "__null__"
+    }
+
+    "Go !"
+    {
+        "chi" "__null__"
+    }
+
+    "Map by $p@w!"
+    {
+        "chi" "__null__"
+    }
+
+}

@@ -1,47 +1,74 @@
 "Console_T"
 {
-	"ZE remake of the map by ?Aleksander | Nen |"
-	{
-		"chi"		"**地图制作: ?Aleksander | Nen | 地图翻译: 小三@风云社**"
-	}
-	"Defend here 30 seconds!"
-	{
-		"chi"		"**在这个位置守住僵尸30秒**"
-	}
-	"Find the way out!"
-	{
-		"chi"		"**寻找撤离这里的办法**"
-	}
-	"Stove button has been pressed!"
-	{
-		"chi"		"**炉子的按钮已按下**"
-	}
-	"Split here! We have to defend two sides!"
-	{
-		"chi"		"**在这里分开!我们必须去防守两条路**"
-	}
-	"Someone have to go down!"
-	{
-		"chi"		"**必须有人下去**"
-	}
-	"Defend 30 seconds!"
-	{
-		"chi"		"**防守30秒!**"
-	}
-	"Defend and wait for sponge!"
-	{
-		"chi"		"**!!!守株待兔!!!**"
-	}
-	"Sponge is moving!"
-	{
-		"chi"		"**海绵在移动!**"
-	}
-	"FALL BACK!"
-	{
-		"chi"		"**撤退!**"
-	}
-	"WE DID IT!"
-	{
-		"chi"		"**!!!我们做到了!!!**"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "Defend 30 seconds!"
+    {
+        "chi" "**防守30秒!**"
+    }
+
+    "DEFEND 30 SECONDS!"
+    {
+        "chi" "**防守30秒!**"
+    }
+
+    "Defend and wait for sponge!"
+    {
+        "chi" "**!!!守株待兔!!!**"
+    }
+
+    "Defend here 30 seconds!"
+    {
+        "chi" "**在这个位置守住僵尸30秒**"
+    }
+
+    "FALL BACK!"
+    {
+        "chi" "**撤退!**"
+    }
+
+    "Find the way out!"
+    {
+        "chi" "**寻找撤离这里的办法**"
+    }
+
+    "Someone have to go down!"
+    {
+        "chi" "**必须有人下去**"
+    }
+
+    "Split here! We have to defend two sides!"
+    {
+        "chi" "**在这里分开!我们必须去防守两条路**"
+    }
+
+    "Sponge is moving!"
+    {
+        "chi" "**海绵在移动!**"
+    }
+
+    "Stove button has been pressed!"
+    {
+        "chi" "**炉子的按钮已按下**"
+    }
+
+    "WE DID IT!"
+    {
+        "chi" "**!!!我们做到了!!!**"
+    }
+
+    "ZE remake of the map by � Aleksander | Nen |"
+    {
+        "chi" "地图重置:Aleksander Nen "
+    }
+
 }

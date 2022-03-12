@@ -1,209 +1,195 @@
 "Console_T"
 {
-	"** MAP BY Hannibal [SPA] (Rafuron) **"
-	{
-		"chi"		"**地图制作者: HANNIBAL [SPA] (Rafuron) 地图翻译: 萌大奶＆户冢彩加@风云社**"
-	}
-	"** Teleporting AFK to the cage in 30s **"
-	{
-		"chi"		"**挂机的人将在30秒后和僵尸一起到尸笼啵嘴**"
-	}
-	"**Door will close in 30 s  ** Get safe into Helms Deep!**"
-	{
-		"chi"		"**城门将会在30秒后关闭!**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"** The door is closing in 10s **"
-	{
-		"chi"		"**城门将会在10秒后关闭!**"
-	}
-	"**Show them no mercy...**"
-	{
-		"chi"		"**别可怜他们!**"
-	}
-	"** for you shall receive none!**"
-	{
-		"chi"		"**他们不会可怜你们的! **"
-	}
-	"**Objective: people at wall MUST defend the wall**"
-	{
-		"chi"		"**目标: 城墙上可以放过僵尸越过城墙**"
-	}
-	"**Objective: people at gate MUST defend the gate**"
-	{
-		"chi"		"**目标: 在城门的人类一定要下去守住城门**"
-	}
-	"**Note: if you defend at defensive points you will earn 1 point every 10 seconds (near GATE and TOP of WALL)**"
-	{
-		"chi"		"**在城墙的人类: 一定要守住那个拿火炬的僵尸!  **"
-	}
-	"**Note for ZOMBIES: if you set a ladder you will earn 1 point ** Same if you attack the gate**"
-	{
-		"chi"		"**在城门的人类: 僵尸抓破城门后可以补救一下城门**"
-	}
-	"**You must not retrieve ** The retrieve will be announced **"
-	{
-		"chi"		"**僵尸们就拿上攻城锤去打城门吧!**"
-	}
-	"**Door is under attack!**"
-	{
-		"chi"		"**城门快要被抓烂了!**"
-	}
-	"** Ladders! **"
-	{
-		"chi"		"**梯子升起来了!!**"
-	}
-	"**A zombie has passed the GATE! Kill him or think about start a retreat!**"
-	{
-		"chi"		"**僵尸越过城门!人类要小心了!**"
-	}
-	"** Kill him! Stop the torch bearer!**"
-	{
-		"chi"		"**不要让那个拿火炬的僵尸靠近城墙!**"
-	}
-	"**The door is now open Get in the fort now!**"
-	{
-		"chi"		"**里面的门开了!我们快进去吧**"
-	}
-	"**Fall back! Get in the fortress! Follow the shiny path**"
-	{
-		"chi"		"**快跑!跟着圣光进去!**"
-	}
-	"** Defend at fort! Hall door will open in 40s!**"
-	{
-		"chi"		"**守住这里!还有40秒木板才会碎裂**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"**Hurry! get in the hall!**"
-	{
-		"chi"		"**GKD!赶紧到议政厅里来!**"
-	}
-	"**Resist 30s!**"
-	{
-		"chi"		"**守住僵尸30秒**"
-	}
-	"** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!** "
-	{
-		"chi"		"**僵尸们冲过来了!我们一定要守住这里!**"
-	}
-	"** Get safe in the fort! **"
-	{
-		"chi"		"**快进城堡!**"
-	}
-	"**Sun is rising.**"
-	{
-		"chi"		"**太阳升起!**"
-	}
-	"**Charge! Follow the shiny path! Do not separate! "
-	{
-		"chi"		"**所有人跟着圣光一块走向终点!**"
-	}
-	"**A zombie has passed the WALL! Kill him or think about start a retreat!**"
-	{
-		"chi"		"**僵尸越过城墙了!快跑!**"
-	}
-	"** Gate zone is out of control ** retreat NOW!**"
-	{
-		"chi"		"**城门沦陷!人类快撤退**"
-	}
-	"**The battering ram is breaking the door!**"
-	{
-		"chi"		"**攻城锤正在反复敲击城门(好像并没有什么用)!**"
-	}
-	"**Main door cannot hold the battering ram! RETREAT NOW!**"
-	{
-		"chi"		"**城门快被攻城锤撞烂了!**"
-	}
-	"**Kill the remaining zombies of the room!**"
-	{
-		"chi"		"**我们只能杀掉房间里的僵尸了!**"
-	}
-	"**Huge ladder is being setting!**"
-	{
-		"chi"		"**小心大梯子!人类快往后退**"
-	}
-	"**Horn activated ** Charge with unlimited ammo **"
-	{
-		"chi"		"**有人触发了无限子弹!**"
-	}
-	"** Wall zone is out of control ** retreat NOW!**"
-	{
-		"chi"		"**城墙被攻破 人类退到后面防守!!**"
-	}
-	"**The wall has been destroyed! Fall back! Get in the fortress!**"
-	{
-		"chi"		"**城墙被摧毁 人类退到后面防守!!**"
-	}
-	"** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!**"
-	{
-		"chi"		"**僵尸们已经完全进来了!人类一定要守住这里!**"
-	}
-	"**Charge! Follow the shiny path! Do not separate!"
-	{
-		"chi"		"**人类一定要受到圣光庇佑!**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"** **"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"** **"
-	}
-	"[NORMAL MODE]"
-	{
-		"chi"		"** **"
-	}
-	"** Map by ClariceTang **"
-	{
-		"chi"		"** **"
-	}
-	"** Level 1 - Easy **"
-	{
-		"chi"		"** **"
-	}
-	"** Model by K. **"
-	{
-		"chi"		"** **"
-	}
-	"**Welcome to Minas Tirith - City of Kings**"
-	{
-		"chi"		"** **"
-	}
-	"**Stage 1**"
-	{
-		"chi"		"** **"
-	}
-	"***WARMUP***"
-	{
-		"chi"		"** **"
-	}
-	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Model :Dakotec ***"
-	{
-		"chi"		"** **"
-	}
-	"** MAP BY Hannibal [SPA] (Rafuron)  Map modified by Rulucy&Koyomaple **"
-	{
-		"chi"		"** **"
-	}
-	"**map by koyomaple**"
-	{
-		"chi"		"** **"
-	}
-	"***Welcome to my first map PePeHands***"
-	{
-		"chi"		"** **"
-	}
-	">>> WARMUP ROUND 40 SECONDS REMAINING <<<"
-	{
-		"chi"		"** **"
-	}
+
+    "** Defend at fort! Hall door will open in 40s!**"
+    {
+        "chi" "**守住这里!还有40秒木板才会碎裂**"
+    }
+
+    "** for you shall receive none!**"
+    {
+        "chi" "**他们不会可怜你们的! **"
+    }
+
+    "** Gate zone is out of control ** retreat NOW!**"
+    {
+        "chi" "**城门沦陷!人类快撤退**"
+    }
+
+    "** Get safe in the fort! **"
+    {
+        "chi" "**快进城堡!**"
+    }
+
+    "** Kill him! Stop the torch bearer!**"
+    {
+        "chi" "**不要让那个拿火炬的僵尸靠近城墙!**"
+    }
+
+    "** Ladders! **"
+    {
+        "chi" "**梯子升起来了!!**"
+    }
+
+    "** MAP BY HANNIBAL [SPA] (Rafuron) **"
+    {
+        "chi" "作者:HANNIBAL 汉化:小三@風雲社"
+    }
+
+    "** Teleporting AFK to the cage in 30s **"
+    {
+        "chi" "**挂机的人将在30秒后和僵尸一起到尸笼啵嘴**"
+    }
+
+    "** The door is closing in 10s **"
+    {
+        "chi" "**城门将会在10秒后关闭!**"
+    }
+
+    "** They have broken through! The castle is breached! Retreat! Get them inside! Into the Keep!**"
+    {
+        "chi" "**僵尸们冲过来了!我们一定要守住这里!**"
+    }
+
+    "** Wall zone is out of control ** retreat NOW!**"
+    {
+        "chi" "**城墙被攻破 人类退到后面防守!!**"
+    }
+
+    "**A zombie has passed the GATE! Kill him or think about start a retreat!**"
+    {
+        "chi" "**僵尸越过城门!人类要小心了!**"
+    }
+
+    "**A zombie has passed the WALL! Kill him or think about start a retreat!**"
+    {
+        "chi" "**僵尸越过城墙了!快跑!**"
+    }
+
+    "**Charge! Follow the shiny path! Do not separate! "
+    {
+        "chi" "**所有人跟着圣光一块走向终点!**"
+    }
+
+    "**Door is under attack!**"
+    {
+        "chi" "**城门快要被抓烂了!**"
+    }
+
+    "**Door will close in 30 s  ** Get safe into Helms Deep!**"
+    {
+        "chi" "**城门将会在30秒后关闭!**"
+    }
+
+    "**Fall back! Get in the fortress! Follow the shiny path**"
+    {
+        "chi" "**快跑!跟着圣光进去!**"
+    }
+
+    "**Horn activated ** Charge with unlimited ammo **"
+    {
+        "chi" "**有人触发了无限子弹!**"
+    }
+
+    "**Huge ladder is being setting!**"
+    {
+        "chi" "**小心大梯子!人类快往后退**"
+    }
+
+    "**Hurry! get in the hall!**"
+    {
+        "chi" "**GKD!赶紧到议政厅里来!**"
+    }
+
+    "**Kill the remaining zombies of the room!**"
+    {
+        "chi" "**我们只能杀掉房间里的僵尸了!**"
+    }
+
+    "**Main door cannot hold the battering ram! RETREAT NOW!**"
+    {
+        "chi" "**城门快被攻城锤撞烂了!**"
+    }
+
+    "**Note for ZOMBIES: if you set a ladder you will earn 1 point ** Same if you attack the gate**"
+    {
+        "chi" "**在城门的人类: 僵尸抓破城门后可以补救一下城门**"
+    }
+
+    "**Note: if you defend at defensive points you will earn 1 point every 10 seconds (near GATE and TOP of WALL)**"
+    {
+        "chi" "**在城墙的人类: 一定要守住那个拿火炬的僵尸!  **"
+    }
+
+    "**Objective: people at gate MUST defend the gate**"
+    {
+        "chi" "**目标: 在城门的人类一定要下去守住城门**"
+    }
+
+    "**Objective: people at wall MUST defend the wall**"
+    {
+        "chi" "**目标: 城墙上可以放过僵尸越过城墙**"
+    }
+
+    "**Resist 30s!**"
+    {
+        "chi" "**守住僵尸30秒**"
+    }
+
+    "**Show them no mercy...**"
+    {
+        "chi" "**别可怜他们!**"
+    }
+
+    "**Sun is rising.**"
+    {
+        "chi" "**太阳升起!**"
+    }
+
+    "**The battering ram is breaking the door!**"
+    {
+        "chi" "**攻城锤正在反复敲击城门(好像并没有什么用)!**"
+    }
+
+    "**The door is now open Get in the fort now!**"
+    {
+        "chi" "**里面的门开了!我们快进去吧**"
+    }
+
+    "**The wall has been destroyed! Fall back! Get in the fortress!**"
+    {
+        "chi" "**城墙被摧毁 人类退到后面防守!!**"
+    }
+
+    "**You must not retrieve ** The retrieve will be announced **"
+    {
+        "chi" "**僵尸们就拿上攻城锤去打城门吧!**"
+    }
+
+    "ay ** MAP BY HANNIBAL [SPA] (Rafuron) **"
+    {
+        "chi" "作者:HANNIBAL 汉化:小三@風雲社"
+    }
+
+    "ay **Attention!**"
+    {
+        "chi" "注意!"
+    }
+
+    "ay **Charge!**"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
 }

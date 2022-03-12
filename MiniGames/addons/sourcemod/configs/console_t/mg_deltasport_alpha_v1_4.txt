@@ -1,87 +1,39 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    " <GO>"
-    {
-        "chi" "GO!"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
 
     "<1>"
     {
-        "blocked" "1"
-        "chi" "1"
+        "chi" "__null__"
     }
 
     "<2>"
     {
-        "blocked" "1"
-        "chi" "2"
+        "chi" "__null__"
     }
 
     "<3>"
     {
-        "blocked" "1"
-        "chi" "3"
+        "chi" "__null__"
     }
 
     "<4>"
     {
-        "blocked" "1"
-        "chi" "4"
+        "chi" "__null__"
     }
 
     "<5>"
     {
-        "chi" "<5>"
-    }
-
-    "ROPE-MOVE"
-    {
-        "chi" "移动跳绳"
-    }
-
-    "KNIFE-ARENA"
-    {
-        "chi" "刀战(擂台赛)"
-    }
-
-    "SLIDE"
-    {
-        "chi" "滑道"
-    }
-
-    "RANDOM"
-    {
-        "chi" "随机"
-    }
-
-    "SKATE"
-    {
-        "chi" "滑冰"
-    }
-
-    "SMOKE-GLASS"
-    {
-        "chi" "躲避球(附玻璃地板)"
-    }
-
-    "CLIMB"
-    {
-        "chi" "攀登"
-    }
-
-    "TETRIS"
-    {
-        "chi" "俄罗斯方块"
-    }
-
-    "SCOUT"
-    {
-        "chi" "鸟狙"
+        "chi" "__null__"
     }
 
     "<GO>"
@@ -89,21 +41,24 @@
         "chi" "开始!"
     }
 
-    "<3>"
+    "AWP"
     {
-        "chi" "<3>"
+        "chi" "AWP"
     }
 
-    "<2>"
+    "CLIMB"
     {
-        "blocked" "1"
-        "chi" "2"
+        "chi" "攀登"
     }
 
-    "<1>"
+    "KNIFE"
     {
-        "blocked" "1"
-        "chi" "1"
+        "chi" "刀战"
+    }
+
+    "KNIFE-ARENA"
+    {
+        "chi" "刀战(擂台赛)"
     }
 
     "map by xXm0nschd4Xx and Delta Sports clan"
@@ -116,14 +71,9 @@
         "chi" "手雷"
     }
 
-    "SMOKE"
+    "RANDOM"
     {
-        "chi" "躲避球"
-    }
-
-    "AWP"
-    {
-        "chi" "AWP"
+        "chi" "随机"
     }
 
     "ROPE"
@@ -131,14 +81,44 @@
         "chi" "跳绳"
     }
 
+    "ROPE-MOVE"
+    {
+        "chi" "移动跳绳"
+    }
+
+    "SCOUT"
+    {
+        "chi" "鸟狙"
+    }
+
+    "SKATE"
+    {
+        "chi" "滑冰"
+    }
+
+    "SLIDE"
+    {
+        "chi" "滑道"
+    }
+
+    "SMOKE"
+    {
+        "chi" "躲避球"
+    }
+
+    "SMOKE-GLASS"
+    {
+        "chi" "躲避球(附玻璃地板)"
+    }
+
+    "TETRIS"
+    {
+        "chi" "俄罗斯方块"
+    }
+
     "TRAMPOLINE"
     {
         "chi" "蹦床"
-    }
-
-    "KNIFE"
-    {
-        "chi" "刀战"
     }
 
 }

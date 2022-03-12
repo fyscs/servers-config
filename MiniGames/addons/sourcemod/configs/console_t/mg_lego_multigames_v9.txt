@@ -1,13 +1,119 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "@[Map] TimeLimit"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "@ TimeLimit!"
     {
-        "chi" "时间终了"
+        "chi" "时间终了!"
+    }
+
+    "@[Gravity] High gravity"
+    {
+        "chi" "[重力] 高重力"
+    }
+
+    "@[Gravity] Low gravity"
+    {
+        "chi" "[重力] 低重力"
+    }
+
+    "@[Gravity] Normal gravity"
+    {
+        "chi" "[重力] 正常重力"
+    }
+
+    "@[Gravity] Random gravity"
+    {
+        "chi" "[重力] 随机重力"
+    }
+
+    "@[Hp] 150"
+    {
+        "chi" "150HP"
+    }
+
+    "@[Hp] 200"
+    {
+        "chi" "200HP"
+    }
+
+    "@[Hp] 250"
+    {
+        "chi" "250HP"
+    }
+
+    "@[Hp] 300"
+    {
+        "chi" "300HP"
+    }
+
+    "@[Hp] 500"
+    {
+        "chi" "500HP"
+    }
+
+    "@[Map] >1<"
+    {
+        "chi" "1"
+        "blocked" "1"
+    }
+
+    "@[Map] >2<"
+    {
+        "chi" ">2<"
+        "blocked" "1"
+    }
+
+    "@[Map] >3<"
+    {
+        "chi" ">3<"
+        "blocked" "1"
+    }
+
+    "@[Map] >4<"
+    {
+        "chi" ">4<"
+        "blocked" "1"
+    }
+
+    "@[Map] >5<"
+    {
+        "chi" "5"
+    }
+
+    "@[Map] >Go!<"
+    {
+        "chi" "冲!"
+    }
+
+    "@[Map] 25 Second"
+    {
+        "chi" ">剩余25秒钟<"
+        "blocked" "1"
+    }
+
+    "@[Map] 30 seconds"
+    {
+        "chi" "剩余30秒"
+    }
+
+    "@[Map] 30 seconds slay"
+    {
+        "chi" "30秒后处死"
+    }
+
+    "@[Map] CT Win"
+    {
+        "chi" "CT 胜利"
     }
 
     "@[Map] every man for himself"
@@ -18,6 +124,36 @@
     "@[Map] Random mod..."
     {
         "chi" "随机模式..."
+    }
+
+    "@[Map] RandomGame..."
+    {
+        "chi" "随机小游戏"
+    }
+
+    "@[Map] Secret room Disable"
+    {
+        "chi" "彩蛋房已关闭"
+    }
+
+    "@[Map] Secret room Enable"
+    {
+        "chi" "彩蛋房已开启"
+    }
+
+    "@[Map] T Win"
+    {
+        "chi" "T 胜利"
+    }
+
+    "@[Map] Time limit"
+    {
+        "chi" "时间有限"
+    }
+
+    "@[Map] TimeLimit"
+    {
+        "chi" "时间终了"
     }
 
     "@[Mod] BackStab mod"
@@ -35,79 +171,9 @@
         "chi" "65hp刀战"
     }
 
-    "@[Map] Secret room Enable"
+    "@[Weapon] AK-47"
     {
-        "chi" "彩蛋房已开启"
-    }
-
-    "@[Map] Secret room Disable"
-    {
-        "chi" "彩蛋房已关闭"
-    }
-
-    "@[Map] >Go!<"
-    {
-        "chi" "冲!"
-    }
-
-    "@[Map] >1<"
-    {
-        "blocked" "1"
-        "chi" "1"
-    }
-
-    "@[Map] >2<"
-    {
-        "blocked" "1"
-        "chi" ">2<"
-    }
-
-    "@[Map] >3<"
-    {
-        "blocked" "1"
-        "chi" ">3<"
-    }
-
-    "@[Map] >4<"
-    {
-        "blocked" "1"
-        "chi" ">4<"
-    }
-
-    "@[Map] >5<"
-    {
-        "chi" "5"
-    }
-
-    "@[Map] 30 seconds"
-    {
-        "chi" "剩余30秒"
-    }
-
-    "@[Map] 25 Second"
-    {
-        "blocked" "1"
-        "chi" ">剩余25秒钟<"
-    }
-
-    "@[Gravity] Low gravity"
-    {
-        "chi" "[重力] 低重力"
-    }
-
-    "@[Gravity] Normal gravity"
-    {
-        "chi" "[重力] 正常重力"
-    }
-
-    "@[Gravity] High gravity"
-    {
-        "chi" "[重力] 高重力"
-    }
-
-    "@[Gravity] Random gravity"
-    {
-        "chi" "[重力] 随机重力"
+        "chi" "[武器] AK47"
     }
 
     "@[Weapon] Awp"
@@ -115,19 +181,9 @@
         "chi" "[武器] AWP"
     }
 
-    "@[Hp] 200"
-    {
-        "chi" "200HP"
-    }
-
     "@[Weapon] Deagle"
     {
         "chi" "[武器] 沙鹰"
-    }
-
-    "@[Hp] 150"
-    {
-        "chi" "150HP"
     }
 
     "@[Weapon] Knife"
@@ -135,59 +191,9 @@
         "chi" "[武器] 匕首"
     }
 
-    "@[Hp] 250"
-    {
-        "chi" "250HP"
-    }
-
-    "@[Weapon] AK-47"
-    {
-        "chi" "[武器] AK47"
-    }
-
-    "@[Hp] 500"
-    {
-        "chi" "500HP"
-    }
-
     "@[Weapon] M4A1"
     {
         "chi" "[武器] M4A1"
-    }
-
-    "@[Hp] 300"
-    {
-        "chi" "300HP"
-    }
-
-    "@[Map] Time limit"
-    {
-        "chi" "时间有限"
-    }
-
-    "@[Map] CT Win"
-    {
-        "chi" "CT 胜利"
-    }
-
-    "@[Map] T Win"
-    {
-        "chi" "T 胜利"
-    }
-
-    "@[Map] RandomGame..."
-    {
-        "chi" "随机小游戏"
-    }
-
-    "@ TimeLimit!"
-    {
-        "chi" "时间终了!"
-    }
-
-    "@[Map] 30 seconds slay"
-    {
-        "chi" "30秒后处死"
     }
 
 }

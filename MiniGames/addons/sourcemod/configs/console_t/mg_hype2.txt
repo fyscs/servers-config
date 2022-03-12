@@ -1,58 +1,164 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "Song - ROZES - Fragile (AVNU Remix)"
+
+    "100hp Knife"
     {
-        "chi" "BGM: ROZES - Fragile (AVNU Remix)"
+        "chi" "__null__"
     }
 
-    "Song - Henrix - Feel Alive (Fever Remix) "
+    "35hp Knife"
     {
-        "chi" "BGM: Henrix - Feel Alive (Fever Remix)"
+        "chi" "__null__"
     }
 
-    "Song - Embers : Feint"
+    "65hp Knife"
     {
-        "chi" "BGM: Embers : Feint"
+        "chi" "__null__"
     }
 
-    "Song - Said The Sky ft. Diamond Eyes - Mountains"
+    "AWP "
     {
-        "chi" "BGM: Said The Sky ft. Diamond Eyes - Mountains"
+        "chi" "__null__"
     }
 
-    "Song - Jumper : Third Eye Blind"
+    "Barrel Box Selected"
     {
-        "chi" "BGM: Jumper : Third Eye Blind"
+        "chi" "__null__"
     }
 
-    "Song - Closer : Lazlo"
+    "Bhop"
     {
-        "chi" "BGM: Closer : Lazlo"
+        "chi" "__null__"
     }
 
-    "Song - Ed Sheeran - I See Fire (Kygo Remix)"
+    "Deagles"
     {
-        "chi" "BGM: Ed Sheeran - I See Fire (Kygo Remix)"
+        "chi" "__null__"
     }
 
-    "Song - It'll Be Okay : SMLE ft. Helen Tess"
+    "DeathRun"
     {
-        "chi" "BGM: It'll Be Okay : SMLE ft. Helen Tess"
+        "chi" "__null__"
     }
 
-    "Song - Kygo - Stay (ft. Maty Noyes)"
+    "Dual Beretta's"
     {
-        "chi" "BGM: Kygo - Stay (ft. Maty Noyes)"
+        "chi" "__null__"
+    }
+
+    "Duck Hunt v1. CT's are Ducks!"
+    {
+        "chi" "__null__"
+    }
+
+    "Duck Hunt v1. T's are Ducks!"
+    {
+        "chi" "__null__"
+    }
+
+    "Duck Hunt v2, Picking Sides..."
+    {
+        "chi" "__null__"
+    }
+
+    "Easter Egg Has Been Found."
+    {
+        "chi" "__null__"
+    }
+
+    "Football [1hp]"
+    {
+        "chi" "__null__"
+    }
+
+    "Grenades"
+    {
+        "chi" "__null__"
+    }
+
+    "Iceskate"
+    {
+        "chi" "__null__"
     }
 
     "Knife Damage Enabled!"
     {
         "chi" "刀伤已启动!"
+    }
+
+    "Level Four Kill Trigger in 10 Seconds!"
+    {
+        "chi" "__null__"
+    }
+
+    "Level One Kill Trigger in 15 Seconds!"
+    {
+        "chi" "__null__"
+    }
+
+    "Level Three Kill Trigger in 10 Seconds!"
+    {
+        "chi" "__null__"
+    }
+
+    "Level Two Kill Trigger in 10 Seconds!"
+    {
+        "chi" "__null__"
+    }
+
+    "Low Gravity Negev War!"
+    {
+        "chi" "__null__"
+    }
+
+    "Pistols [HS]"
+    {
+        "chi" "__null__"
+    }
+
+    "Rifle"
+    {
+        "chi" "__null__"
+    }
+
+    "Rifle - AK47"
+    {
+        "chi" "__null__"
+    }
+
+    "ScoutsKnives"
+    {
+        "chi" "__null__"
+    }
+
+    "Shotguns"
+    {
+        "chi" "__null__"
+    }
+
+    "Wall Breaks in 5 Seconds!"
+    {
+        "chi" "__null__"
+    }
+
+    "Wallhacks - M4A1-S"
+    {
+        "chi" "__null__"
+    }
+
+    "Wallhacks - USP"
+    {
+        "chi" "__null__"
     }
 
     "Welcome to hype2"

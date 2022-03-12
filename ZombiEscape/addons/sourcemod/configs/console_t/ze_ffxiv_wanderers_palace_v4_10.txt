@@ -1,579 +1,719 @@
 "Console_T"
 {
-	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
-	{
-		"chi"		"**地图帮助: [Airvulpes][Kune][thas][Rukly][Shufen]**"
-	}
-	"*** Map made by Altima ***"
-	{
-		"chi"		"**地图作者: Altima  地图翻译: 大明@風雲社**"
-	}
-	"*** ze_ffxiv_wanderers_palace ***"
-	{
-		"chi"		"**最终幻想十四: 浪子神殿 **"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"*** Level:Normal ***"
-	{
-		"chi"		"**难度: 普通 **"
-	}
-	"*** HINT: Activate Nymian Device ***"
-	{
-		"chi"		"**提示: 触发尼敏装置 **"
-	}
-	"*** 15 seconds to activate Nymian device ***"
-	{
-		"chi"		"**尼敏装置已触发守住15秒 **"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"*** 5 SECONDS ***"
-	{
-		"chi"		"**还有5秒**"
-	}
-	"*** 30 seconds to Activate Nymian device ***"
-	{
-		"chi"		"**尼敏装置已触发守住30秒 **"
 
-	}
-	"*** 15 seconds to Enkidu Battle and AFK Teleport ***"
-	{
-		"chi"		"**恩奇都15秒后出现同时传送挂机玩家 **"
-	}
-	"*** Enkidu appeared ***"
-	{
-		"chi"		"**恩奇都已出现 **"
-	}
-	"*** Shoot to Enkidu ***"
-	{
-		"chi"		"**射击恩奇都 **"
-	}
-	"*** Enkidu dead ***"
-	{
-		"chi"		"**恩奇都已死亡 **"
-	}
-	"*** 25 seconds to Activate Nymian device ***"
-	{
-		"chi"		"**尼敏装置已触发守住25秒 **"
+    "*** 1 ***"
+    {
+        "chi" "**1**"
+    }
 
-	}
-	"*** 10 seconds  ***"
-	{
-		"chi"		"**还有10秒**"
-	}
-	"*** Look for all of Nymian device ***"
-	{
-		"chi"		"**找到所有的尼敏装置 **"
-	}
-	"*** Nymian device 1 activated ***"
-	{
-		"chi"		"**一号尼敏装置已触发 **"
+    "*** 10 seconds   ***"
+    {
+        "chi" "**10秒剩余**"
+    }
 
-	}
-	"*** Nymian device 2 activated ***"
-	{
-		"chi"		"**二号尼敏装置已触发 **"
+    "*** 10 seconds  ***"
+    {
+        "chi" "**还有10秒**"
+    }
 
-	}
-	"*** Nymian device 3 activated ***"
-	{
-		"chi"		"**三号尼敏装置已触发 **"
+    "*** 10 seconds ***"
+    {
+        "chi" "**还有10秒**"
+    }
 
-	}
-	"*** Nymian device 4 activated ***"
-	{
-		"chi"		"**四号尼敏装置已触发 **"
+    "*** 15 seconds to activate Elevator ***"
+    {
+        "chi" "**电梯15秒后上升**"
+    }
 
-	}
-	"*** ALL Nymian device Activated ***"
-	{
-		"chi"		"**所有的尼敏装置已触发 **"
+    "*** 15 seconds to activate Nymian device ***"
+    {
+        "chi" "**尼敏装置已触发守住15秒 **"
+    }
 
-	}
-	"*** 5 seconds to Activate Nymian device ***"
-	{
-		"chi"		"**尼敏装置已触发守住5秒等待大门打开 **"
-	}
-	"*** Normal Clear!! ***"
-	{
-		"chi"		"**普通难度通过 **"
-	}
-	"*** Next Level Hard ***"
-	{
-		"chi"		"**下一关难度: 困难**"
-	}
-	"*** Level:Hard ***"
-	{
-		"chi"		"**难度: 困难**"
-	}
-	"***A player picked up Summoner Shadow Flare***"
-	{
-		"chi"		"**一位玩家习得了电**"
-	}
-	"***Recast 60s***"
-	{
-		"chi"		"**CD: 60秒 **"
+    "*** 15 seconds to Enkidu Battle and AFK Teleport ***"
+    {
+        "chi" "**恩奇都15秒后出现同时传送挂机玩家 **"
+    }
 
-	}
-	"***A player picked up Black Mage Flare***"
-	{
-		"chi"		"**一位玩家习得了火**"
-	}
-	"***Recast 55s***"
-	{
-		"chi"		"**CD: 55秒 **"
+    "*** 15 seconds to leave Tonberrys ***"
+    {
+        "chi" "**冬贝利们15秒后离开 **"
+    }
 
-	}
-	"*** 15 seconds to leave Tonberrys ***"
-	{
-		"chi"		"**冬贝利们15秒后离开 **"
-	}
-	"*** 20 seconds to activate Nymian device ***"
-	{
-		"chi"		"**尼敏装置已触发守住20秒**"
+    "*** 2 ***"
+    {
+        "chi" "**2**"
+    }
 
-	}
-	"*** 30 seconds to Open Road ***"
-	{
-		"chi"		"**30秒后道路可通**"
+    "*** 20 seconds to activate Nymian device ***"
+    {
+        "chi" "**尼敏装置已触发守住20秒**"
+    }
 
-	}
-	"***A player picked up Mount Night Mare***"
-	{
-		"chi"		"**一位玩家习得了墙**"
-	}
-	"***Recast 50s***"
-	{
-		"chi"		"**CD: 50秒 **"
+    "*** 25 seconds to activate Nymian device ***"
+    {
+        "chi" "__null__"
+    }
 
-	}
-	"*** 30 seconds to Activate Nymian device  ***"
-	{
-		"chi"		"**尼敏装置已触发守住30秒**"
+    "*** 25 seconds to Activate Nymian device ***"
+    {
+        "chi" "**尼敏装置已触发守住25秒 **"
+    }
 
-	}
-	"*** 10 seconds   ***"
-	{
-		"chi"		"**10秒剩余**"
-	}
-	"*** Location: The Navel ***"
-	{
-		"chi"		"**当前场景: 地下洞穴**"
-	}
-	"*** Behemoth King Appeared ***"
-	{
-		"chi"		"**贝尔摩斯出现了**"
-	}
-	"*** Shoot him ***"
-	{
-		"chi"		"**射击它**"
-	}
-	"*** Land Slide ***"
-	{
-		"chi"		"**山崩地裂**"
+    "*** 3 ***"
+    {
+        "chi" "**3**"
+    }
 
-	}
-	"*** Heavens Fall ***"
-	{
-		"chi"		"**天堂陨落**"
+    "*** 30 seconds to Activate Nymian device  ***"
+    {
+        "chi" "**尼敏装置已触发守住30秒**"
+    }
 
-	}
-	"*** Cauterize***"
-	{
-		"chi"		"**毁灭冲击**"
+    "*** 30 seconds to activate Nymian device ***"
+    {
+        "chi" "__null__"
+    }
 
-	}
-	"*** Flare ***"
-	{
-		"chi"		"**火**"
+    "*** 30 seconds to Activate Nymian device ***"
+    {
+        "chi" "**尼敏装置已触发守住30秒 **"
+    }
 
-	}
-	"*** Behemoth King dead ***"
-	{
-		"chi"		"**贝尔摩斯被打败了**"
-	}
-	"***45 seconds to HARD CLEAR***"
-	{
-		"chi"		"**守住45秒 **"
-	}
-	"***5 seconds***"
-	{
-		"chi"		"**还有5秒**"
-	}
-	"***Gravity ON***"
-	{
-		"chi"		"**低重力开启**"
-	}
-	"***HARD CLEAR***"
-	{
-		"chi"		"**困难难度通过 **"
-	}
-	"***Texture Support by fujione***"
-	{
-		"chi"		"**纹理帮助: fujione **"
-	}
-	"***Map made by Altima***"
-	{
-		"chi"		"**地图制作: Altima 地图翻译: 大明@風雲社**"
-	}
-	"***NEXT LEVEL EXTREME***"
-	{
-		"chi"		"**下一关难度: 极限 **"
-	}
-	"*** Level:Extreme ***"
-	{
-		"chi"		"**本关难度: 极限 **"
-	}
-	"*** 35 seconds to activate Nymian device ***"
-	{
-		"chi"		"**尼敏装置已触发守住35秒 **"
-	}
-	"*** 10 seconds ***"
-	{
-		"chi"		"**还有10秒**"
-	}
-	"*** Chase the ADS ***"
-	{
-		"chi"		"**追上ADS **"
-	}
-	"*** 30 seconds to Open Door ***"
-	{
-		"chi"		"**大门30秒后打开 **"
-	}
-	"*** 45 seconds to Break Rocks ***"
-	{
-		"chi"		"**墙体45秒后碎开.接着跳进管道 **"
+    "*** 30 seconds to Break Fence ***"
+    {
+        "chi" "**铁网30秒后破碎**"
+    }
 
-	}
-	"***A player picked up Limit Break***"
-	{
-		"chi"		"**一位玩家习得了终极**"
-	}
-	"*** once only ***"
-	{
-		"chi"		"**只能释放一次**"
-	}
-	"***Bahamut Prime appeared***"
-	{
-		"chi"		"**巴哈姆特灵体出现**"
-	}
-	"***Bahamut Prime is Casting now***"
-	{
-		"chi"		"**射击巴哈姆特灵体**"
-	}
-	"***Akh Morn***"
-	{
-		"chi"		"**超星撕裂**"
-	}
-	"*** 3 ***"
-	{
-		"chi"		"**3**"
-	}
-	"*** 2 ***"
-	{
-		"chi"		"**2**"
-	}
-	"*** 1 ***"
-	{
-		"chi"		"**1**"
-	}
-	"***ADS Attack***"
-	{
-		"chi"		"**ADS攻击**"
-	}
-	"*** Model :Dakotec ***"
-	{
-		"chi"		"**模型: Dakotec **"
-	}
-	"***A player picked up Bird Armys Paeon***"
-	{
-		"chi"		"**一位玩家获得了弹药**"
-	}
-	"***Recast 90s***"
-	{
-		"chi"		"**CD:90秒**"
+    "*** 30 seconds to Open Door ***"
+    {
+        "chi" "**大门30秒后打开 **"
+    }
 
-	}
-	"***A player picked up Paladin Shield Oath"
-	{
-		"chi"		"**一位玩家获得了盾**"
+    "*** 30 seconds to Open Road ***"
+    {
+        "chi" "**30秒后道路可通**"
+    }
 
-	}
-	"***Recast 80s***"
-	{
-		"chi"		"**CD: 80秒 **"
+    "*** 30 seconds to Open Wall ***"
+    {
+        "chi" "**墙壁30秒后碎开**"
+    }
 
-	}
-	"***A player picked up White Mage Benediction***"
-	{
-		"chi"		"**一位玩家获得了奶**"
-	}
-	"*** Recast 150s ***"
-	{
-		"chi"		"**CD: 150秒 **"
+    "*** 35 seconds to activate Nymian device ***"
+    {
+        "chi" "**尼敏装置已触发守住35秒 **"
+    }
 
-	}
-	"***Flare***"
-	{
-		"chi"		"**火**"
-	}
-	"***shoot ADS and Zombies***"
-	{
-		"chi"		"**射击两边的ADS并守住僵尸**"
-	}
-	"***Heavens Fall***"
-	{
-		"chi"		"**天堂陨落**"
-	}
-	"***Earth Shaker***"
-	{
-		"chi"		"**巨石冲击**"
-	}
-	"***Bahamut Prime dead***"
-	{
-		"chi"		"**巴哈姆特灵体已死亡**"
-	}
-	"*** 15 seconds to activate Elevator ***"
-	{
-		"chi"		"**电梯15秒后上升**"
+    "*** 45 seconds to Break Rocks ***"
+    {
+        "chi" "**墙体45秒后碎开.接着跳进管道 **"
+    }
 
-	}
-	"*** 30 seconds to Open Wall ***"
-	{
-		"chi"		"**墙壁30秒后碎开**"
+    "*** 45 seconds to Open Wall ***"
+    {
+        "chi" "**墙壁45秒后破碎 **"
+    }
 
-	}
-	"*** Dont Touch Water ***"
-	{
-		"chi"		"**不要进入水池**"
-	}
-	"*** Water is Death Zone ***"
-	{
-		"chi"		"**下水会让你去世**"
-	}
-	"*** Nael Van Dahrnus Appeared ***"
-	{
-		"chi"		"**宫殿守卫出现**"
-	}
-	"*** Kill HER ***"
-	{
-		"chi"		"**射击他**"
-	}
-	"*** Dead ***"
-	{
-		"chi"		"**宫殿守卫倒下了**"
-	}
-	"*** Extreme CLEAR ***"
-	{
-		"chi"		"**极限难度通过**"
-	}
-	"*** Next Level Savage ***"
-	{
-		"chi"		"**下一难度: 疯狂**"
-	}
-	"*** Human Killer ON ***"
-	{
-		"chi"		"**人类杀手开启**"
-	}
-	"***Tempest Wing***"
-	{
-		"chi"		"**狂风之翼[退到平台面最后抵御吸力]**"
-	}
-	"*** Level:Savage ***"
-	{
-		"chi"		"**当前难度: 疯狂**"
-	}
-	"***Holm gang zombie incoming...***"
-	{
-		"chi"		"**僵尸定身已被拿起...**"
-	}
-	"*** Recast 95s ***"
-	{
-		"chi"		"**CD: 95秒**"
+    "*** 5 seconds ***"
+    {
+        "chi" "__null__"
+    }
 
-	}
-	"*** 30 seconds to Break Fence ***"
-	{
-		"chi"		"**铁网30秒后破碎**"
+    "*** 5 seconds to Activate Nymian device ***"
+    {
+        "chi" "**尼敏装置已触发守住5秒等待大门打开 **"
+    }
 
-	}
-	"*** Hold 20 seconds ***"
-	{
-		"chi"		"**守住20秒**"
+    "*** ADMIN BUTTON Level Extreme ***"
+    {
+        "chi" "管理员把关卡调至极限难度**"
+    }
 
-	}
-	"***Location: The Ragnarok ***"
-	{
-		"chi"		"**当前场景: 诸神黄昏**"
-	}
-	"*** Defend 45 seconds ***"
-	{
-		"chi"		"**防守45秒**"
+    "*** ADMIN BUTTON Level Hard ***"
+    {
+        "chi" "__null__"
+    }
 
-	}
-	"*** ADS ATTACK ***"
-	{
-		"chi"		"**射击ADS**"
-	}
-	"*** Dalamud appeared ***"
-	{
-		"chi"		"**杜拉姆出现**"
-	}
-	"*** Dalamud the last boss ***"
-	{
-		"chi"		"**杜拉姆是最后一个BOSS**"
-	}
-	"*** Shadow Flare ***"
-	{
-		"chi"		"**电**"
-	}
-	"*** Cauterize ***"
-	{
-		"chi"		"**恶龙穿行**"
-	}
-	"*** True Bahamut appeared ***"
-	{
-		"chi"		"**真-巴哈姆特出现 **"
-	}
-	"*** True Tempest wing ***"
-	{
-		"chi"		"**真-狂风之翼**"
-	}
-	"*** True Heavens fall ***"
-	{
-		"chi"		"**真-天堂陨落**"
-	}
-	"*** Steam Judge ***"
-	{
-		"chi"		"**光束穿刺**"
-	}
-	"*** Sentence to death ***"
-	{
-		"chi"		"**死亡裁决**"
-	}
-	"*** True Bahamut dead ***"
-	{
-		"chi"		"**真 巴哈姆特死亡 **"
-	}
-	"*** 45 seconds to Open Wall ***"
-	{
-		"chi"		"**墙壁45秒后破碎 **"
+    "*** ADMIN BUTTON Level Normal ***"
+    {
+        "chi" "__null__"
+    }
 
-	}
-	"*** Odin Appeared ***"
-	{
-		"chi"		"**奥丁出现了**"
-	}
-	"*** Kill Odin ***"
-	{
-		"chi"		"**杀了奥丁**"
-	}
-	"*** Savage CLEAR ***"
-	{
-		"chi"		"**疯狂模式通关**"
-	}
-	"*** Winners are Heroes of Light ***"
-	{
-		"chi"		"**胜利者是圣光英雄**"
-	}
-	"*** TOO LATE ***"
-	{
-		"chi"		"**来不及了**"
-	}
-	"*** Ultimate mode incoming.... ***"
-	{
-		"chi"		"**最终关卡加载中....**"
-	}
-	"*** ze_ffxiv_wanderers_palace...? ***"
-	{
-		"chi"		"**最终幻想十四: 浪子神殿 **"
+    "*** ADMIN BUTTON Level Savage ***"
+    {
+        "chi" "管理员把关卡调至疯狂难度**"
+    }
 
-	}
-	"*** Level:Ultimate ***"
-	{
-		"chi"		"**当前难度: Ultimate**"
-	}
-	"*** This mode is Secret mode ***"
-	{
-		"chi"		"**这是个隐藏模式**"
-	}
-	"*** Chances are once only ***"
-	{
-		"chi"		"**只有一次机会**"
-	}
-	"*** Level set .... Next Level Normal ***"
-	{
-		"chi"		"**关卡重置...下一难度: 普通 **"
-	}
-	"*** Random Item breaker Activate... ***"
-	{
-		"chi"		"**随机神器消失模组加载成功**"
-	}
-	"*** You have passed through the first phase ***"
-	{
-		"chi"		"**你们已经到达了存档点**"
-	}
-	"*** Level set....Next Level Ultimate ***"
-	{
-		"chi"		"**关卡重置...下一难度: Ultimate**"
-	}
-	"*** Night Mare***"
-	{
-		"chi"		"**墙**"
-	}
-	"*** Ultimate Heavens fall ***"
-	{
-		"chi"		"**极-天堂陨落**"
-	}
-	"*** Ultimate Shadow Flare ***"
-	{
-		"chi"		"**极-暗影电流**"
-	}
-	"*** Ultimate Tempest wing ***"
-	{
-		"chi"		"**极-狂风之翼**"
-	}
-	"*** Ultimate Cauterize ***"
-	{
-		"chi"		"**极-恶龙穿行**"
-	}
-	"*** Shield Oath ***"
-	{
-		"chi"		"**盾**"
-	}
-	"*** Dark Bahamut is blocking the road ***"
-	{
-		"chi"		"**暗黑巴哈姆特挡住了道路**"
-	}
-	"***Ultimate Akh Morn***"
-	{
-		"chi"		"**极-超星撕裂**"
-	}
-	"*** Ultimate CLEAR ***"
-	{
-		"chi"		"**Ultimate难度通过 **"
-	}
-	"*** Armys Paeon ***"
-	{
-		"chi"		"**弹药**"
-	}
-	"*** ADMIN BUTTON Level Ultimate ***"
-	{
-		"chi"		"**管理员把关卡调至Ultimate难度**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"**服务器即将关闭,请更新你的游戏 **"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
-	"*** ADMIN BUTTON Level Savage ***"
-	{
-		"chi"		"管理员把关卡调至疯狂难度**"
-	}
-	"*** ADMIN BUTTON Level Extreme ***"
-	{
-		"chi"		"管理员把关卡调至极限难度**"
-	}
+    "*** ADMIN BUTTON Level Ultimate ***"
+    {
+        "chi" "**管理员把关卡调至Ultimate难度**"
+    }
+
+    "*** ADMIN BUTTON STAGE 1 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ADMIN BUTTON STAGE 2 ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** ADS ATTACK ***"
+    {
+        "chi" "**射击ADS**"
+    }
+
+    "*** ALL Nymian device Activated ***"
+    {
+        "chi" "**所有的尼敏装置已触发 **"
+    }
+
+    "*** Armys Paeon ***"
+    {
+        "chi" "**弹药**"
+    }
+
+    "*** Behemoth King Appeared ***"
+    {
+        "chi" "**贝尔摩斯出现了**"
+    }
+
+    "*** Behemoth King dead ***"
+    {
+        "chi" "**贝尔摩斯被打败了**"
+    }
+
+    "*** Cauterize ***"
+    {
+        "chi" "**恶龙穿行**"
+    }
+
+    "*** Cauterize***"
+    {
+        "chi" "**毁灭冲击**"
+    }
+
+    "*** Chances are once only ***"
+    {
+        "chi" "**只有一次机会**"
+    }
+
+    "*** Chase the ADS ***"
+    {
+        "chi" "**追上ADS **"
+    }
+
+    "*** Dalamud appeared ***"
+    {
+        "chi" "**杜拉姆出现**"
+    }
+
+    "*** Dalamud the last boss ***"
+    {
+        "chi" "**杜拉姆是最后一个BOSS**"
+    }
+
+    "*** Dark Bahamut is blocking the road ***"
+    {
+        "chi" "**暗黑巴哈姆特挡住了道路**"
+    }
+
+    "*** Dead ***"
+    {
+        "chi" "**宫殿守卫倒下了**"
+    }
+
+    "*** Defend 45 seconds ***"
+    {
+        "chi" "**防守45秒**"
+    }
+
+    "*** Dont Touch Water ***"
+    {
+        "chi" "**不要进入水池**"
+    }
+
+    "*** Enkidu appeared ***"
+    {
+        "chi" "**恩奇都已出现 **"
+    }
+
+    "*** Enkidu dead ***"
+    {
+        "chi" "**恩奇都已死亡 **"
+    }
+
+    "*** Extreme CLEAR ***"
+    {
+        "chi" "**极限难度通过**"
+    }
+
+    "*** Flare ***"
+    {
+        "chi" "**火**"
+    }
+
+    "*** Heavens Fall ***"
+    {
+        "chi" "**天堂陨落**"
+    }
+
+    "*** HINT: Activate Nymian Device ***"
+    {
+        "chi" "**提示: 触发尼敏装置 **"
+    }
+
+    "*** HOLD 20 seconds ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Human Killer ON ***"
+    {
+        "chi" "**人类杀手开启**"
+    }
+
+    "*** Kill HER ***"
+    {
+        "chi" "**射击他**"
+    }
+
+    "*** Kill Odin ***"
+    {
+        "chi" "**杀了奥丁**"
+    }
+
+    "*** Land Slide ***"
+    {
+        "chi" "**山崩地裂**"
+    }
+
+    "*** Level set .... Next Level Normal ***"
+    {
+        "chi" "**关卡重置...下一难度: 普通 **"
+    }
+
+    "*** Level set....Next Level Ultimate ***"
+    {
+        "chi" "**关卡重置...下一难度: Ultimate**"
+    }
+
+    "*** Level:Extreme ***"
+    {
+        "chi" "**本关难度: 极限 **"
+    }
+
+    "*** Level:Hard ***"
+    {
+        "chi" "**难度: 困难**"
+    }
+
+    "*** Level:Normal ***"
+    {
+        "chi" "**难度: 普通 **"
+    }
+
+    "*** Level:Savage ***"
+    {
+        "chi" "**当前难度: 疯狂**"
+    }
+
+    "*** Level:Ultimate ***"
+    {
+        "chi" "**当前难度: Ultimate**"
+    }
+
+    "*** Location: The Navel ***"
+    {
+        "chi" "**当前场景: 地下洞穴**"
+    }
+
+    "*** Look for all of Nymian device ***"
+    {
+        "chi" "**找到所有的尼敏装置 **"
+    }
+
+    "*** Map made by Altima ***"
+    {
+        "chi" "**地图作者: Altima  地图翻译: 大明@風雲社**"
+    }
+
+    "*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
+    {
+        "chi" "**地图帮助: [Airvulpes][Kune][thas][Rukly][Shufen]**"
+    }
+
+    "*** Model :Dakotec ***"
+    {
+        "chi" "**模型: Dakotec **"
+    }
+
+    "*** Nael Van Dahrnus Appeared ***"
+    {
+        "chi" "**宫殿守卫出现**"
+    }
+
+    "*** Next Level Hard ***"
+    {
+        "chi" "**下一关难度: 困难**"
+    }
+
+    "*** Next Level Savage ***"
+    {
+        "chi" "**下一难度: 疯狂**"
+    }
+
+    "*** Night Mare***"
+    {
+        "chi" "**墙**"
+    }
+
+    "*** Normal Clear!! ***"
+    {
+        "chi" "**普通难度通过 **"
+    }
+
+    "*** Nymian device 1 activated ***"
+    {
+        "chi" "**一号尼敏装置已触发 **"
+    }
+
+    "*** Nymian device 2 activated ***"
+    {
+        "chi" "**二号尼敏装置已触发 **"
+    }
+
+    "*** Nymian device 3 activated ***"
+    {
+        "chi" "**三号尼敏装置已触发 **"
+    }
+
+    "*** Nymian device 4 activated ***"
+    {
+        "chi" "**四号尼敏装置已触发 **"
+    }
+
+    "*** Odin Appeared ***"
+    {
+        "chi" "**奥丁出现了**"
+    }
+
+    "*** once only ***"
+    {
+        "chi" "**只能释放一次**"
+    }
+
+    "*** Random Item breaker Activate... ***"
+    {
+        "chi" "**随机神器消失模组加载成功**"
+    }
+
+    "*** Recast 150s ***"
+    {
+        "chi" "**CD: 150秒 **"
+    }
+
+    "*** Recast 95s ***"
+    {
+        "chi" "**CD: 95秒**"
+    }
+
+    "*** Savage CLEAR ***"
+    {
+        "chi" "**疯狂模式通关**"
+    }
+
+    "*** Sentence to death ***"
+    {
+        "chi" "**死亡裁决**"
+    }
+
+    "*** Shadow Flare ***"
+    {
+        "chi" "**电**"
+    }
+
+    "*** Shield Oath ***"
+    {
+        "chi" "**盾**"
+    }
+
+    "*** Shoot him ***"
+    {
+        "chi" "**射击它**"
+    }
+
+    "*** Shoot Him ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Shoot to Enkidu ***"
+    {
+        "chi" "**射击恩奇都 **"
+    }
+
+    "*** Steam Judge ***"
+    {
+        "chi" "**光束穿刺**"
+    }
+
+    "*** This mode is Secret mode ***"
+    {
+        "chi" "**这是个隐藏模式**"
+    }
+
+    "*** TOO LATE ***"
+    {
+        "chi" "**来不及了**"
+    }
+
+    "*** True Bahamut appeared ***"
+    {
+        "chi" "**真-巴哈姆特出现 **"
+    }
+
+    "*** True Bahamut dead ***"
+    {
+        "chi" "**真 巴哈姆特死亡 **"
+    }
+
+    "*** True Heavens fall ***"
+    {
+        "chi" "**真-天堂陨落**"
+    }
+
+    "*** True Tempest wing ***"
+    {
+        "chi" "**真-狂风之翼**"
+    }
+
+    "*** Ultimate Cauterize ***"
+    {
+        "chi" "**极-恶龙穿行**"
+    }
+
+    "*** Ultimate CLEAR ***"
+    {
+        "chi" "**Ultimate难度通过 **"
+    }
+
+    "*** Ultimate Heavens fall ***"
+    {
+        "chi" "**极-天堂陨落**"
+    }
+
+    "*** Ultimate mode incoming.... ***"
+    {
+        "chi" "**最终关卡加载中....**"
+    }
+
+    "*** Ultimate Shadow Flare ***"
+    {
+        "chi" "**极-暗影电流**"
+    }
+
+    "*** Ultimate Tempest wing ***"
+    {
+        "chi" "**极-狂风之翼**"
+    }
+
+    "*** Water is Death Zone ***"
+    {
+        "chi" "**下水会让你去世**"
+    }
+
+    "*** Winners are Heroes of Light ***"
+    {
+        "chi" "**胜利者是圣光英雄**"
+    }
+
+    "*** You have passed through the first phase ***"
+    {
+        "chi" "**你们已经到达了存档点**"
+    }
+
+    "*** ze_ffxiv_wanderers_palace ***"
+    {
+        "chi" "**最终幻想十四: 浪子神殿 **"
+    }
+
+    "*** ze_ffxiv_wanderers_palace...? ***"
+    {
+        "chi" "**最终幻想十四: 浪子神殿 **"
+    }
+
+    "***45 seconds to HARD CLEAR***"
+    {
+        "chi" "**守住45秒 **"
+    }
+
+    "***5 seconds***"
+    {
+        "chi" "**还有5秒**"
+    }
+
+    "***A player picked up Bird Armys Paeon***"
+    {
+        "chi" "**一位玩家获得了弹药**"
+    }
+
+    "***A player picked up Black Mage Flare***"
+    {
+        "chi" "**一位玩家习得了火**"
+    }
+
+    "***A player picked up Limit Break***"
+    {
+        "chi" "**一位玩家习得了终极**"
+    }
+
+    "***A player picked up Mount Night Mare***"
+    {
+        "chi" "**一位玩家习得了墙**"
+    }
+
+    "***A player picked up Paladin Shield Oath"
+    {
+        "chi" "**一位玩家获得了盾**"
+    }
+
+    "***A player picked up Summoner Shadow Flare***"
+    {
+        "chi" "**一位玩家习得了电**"
+    }
+
+    "***A player picked up White Mage Benediction***"
+    {
+        "chi" "**一位玩家获得了奶**"
+    }
+
+    "***ADS Attack***"
+    {
+        "chi" "**ADS攻击**"
+    }
+
+    "***Akh Morn***"
+    {
+        "chi" "**超星撕裂**"
+    }
+
+    "***Bahamut Prime appeared***"
+    {
+        "chi" "**巴哈姆特灵体出现**"
+    }
+
+    "***Bahamut Prime dead***"
+    {
+        "chi" "**巴哈姆特灵体已死亡**"
+    }
+
+    "***Bahamut Prime is Casting now***"
+    {
+        "chi" "**射击巴哈姆特灵体**"
+    }
+
+    "***Earth Shaker***"
+    {
+        "chi" "**巨石冲击**"
+    }
+
+    "***Flare***"
+    {
+        "chi" "**火**"
+    }
+
+    "***HARD CLEAR***"
+    {
+        "chi" "**困难难度通过 **"
+    }
+
+    "***Heavens Fall***"
+    {
+        "chi" "**天堂陨落**"
+    }
+
+    "***Holm gang zombie incoming...***"
+    {
+        "chi" "**僵尸定身已被拿起...**"
+    }
+
+    "***Location: The Ragnarok ***"
+    {
+        "chi" "**当前场景: 诸神黄昏**"
+    }
+
+    "***Map made by Altima***"
+    {
+        "chi" "**地图制作: Altima 地图翻译: 大明@風雲社**"
+    }
+
+    "***Next Level Extreme***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Recast 50s***"
+    {
+        "chi" "**CD: 50秒 **"
+    }
+
+    "***Recast 55s***"
+    {
+        "chi" "**CD: 55秒 **"
+    }
+
+    "***Recast 60s***"
+    {
+        "chi" "**CD: 60秒 **"
+    }
+
+    "***Recast 80s***"
+    {
+        "chi" "**CD: 80秒 **"
+    }
+
+    "***Recast 90s***"
+    {
+        "chi" "**CD:90秒**"
+    }
+
+    "***shoot ADS and Zombies***"
+    {
+        "chi" "**射击两边的ADS并守住僵尸**"
+    }
+
+    "***Tempest Wing***"
+    {
+        "chi" "**狂风之翼[退到平台面最后抵御吸力]**"
+    }
+
+    "***Texture Support by fujione***"
+    {
+        "chi" "**纹理帮助: fujione **"
+    }
+
+    "***Ultimate Akh Morn***"
+    {
+        "chi" "**极-超星撕裂**"
+    }
+
+    "/slay @all"
+    {
+        "chi" "__null__"
+    }
+
 }

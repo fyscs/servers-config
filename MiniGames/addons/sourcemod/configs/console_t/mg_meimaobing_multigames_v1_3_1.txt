@@ -1,18 +1,19 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "@Area push in 90 secs"
-    {
-        "chi" "90秒钟后缩小战区"
-    }
 
-    "@Pushing.."
+    "@60 seconds last"
     {
-        "chi" "缩圈中.."
+        "chi" "还剩60秒"
     }
 
     "@Area push again in 30secs"
@@ -20,98 +21,19 @@
         "chi" "30秒钟后再一次缩小战区"
     }
 
-    "@Choose game TrulySkate"
+    "@Area push in 90 secs"
     {
-        "chi" "真正意义上的滑冰"
+        "chi" "90秒钟后缩小战区"
     }
 
-    "@Choose game BombMan"
+    "@Battle 30 seconds last"
     {
-        "chi" "炸弹人"
+        "chi" "战斗将在30秒钟后结束"
     }
 
-    "@Press E on ground to plant bomb"
+    "@Battle last 50 seconds"
     {
-        "chi" "对地板按E来放置炸弹"
-    }
-
-    "@Oh.."
-    {
-        "chi" "哇偶.."
-    }
-
-    "@Choose game ssg08+knife"
-    {
-        "chi" "鸟狙"
-    }
-
-    "@Goal !!!"
-    {
-        "chi" "球进啦!!!"
-    }
-
-    "@Choose game Soccer"
-    {
-        "chi" "足球"
-    }
-
-    "@Choose game Skate"
-    {
-        "chi" "滑冰"
-    }
-
-    "@Oops.."
-    {
-        "chi" "哎呀.."
-    }
-
-    "5.."
-    {
-        "chi" "5"
-    }
-
-    "4.."
-    {
-        "blocked" "1"
-        "chi" "4"
-    }
-
-    "3.."
-    {
-        "blocked" "1"
-        "chi" "3"
-    }
-
-    "2.."
-    {
-        "blocked" "1"
-        "chi" "2"
-    }
-
-    "1.."
-    {
-        "blocked" "1"
-        "chi" "1"
-    }
-
-    "@60 seconds last"
-    {
-        "chi" "还剩60秒"
-    }
-
-    "@Choose game Rope skipping"
-    {
-        "chi" "跳绳"
-    }
-
-    "@Choose game Speedrun"
-    {
-        "chi" "快跑"
-    }
-
-    "@Choose game AWP"
-    {
-        "chi" "AWP"
+        "chi" "战斗将在50秒钟后结束"
     }
 
     "@Choose game AK47"
@@ -119,33 +41,90 @@
         "chi" "AK47"
     }
 
-    "1"
+    "@Choose game AWP"
     {
-        "blocked" "1"
-        "chi" "1"
+        "chi" "AWP"
     }
 
-    "2"
+    "@Choose game BombMan"
     {
-        "blocked" "1"
-        "chi" "2"
+        "chi" "炸弹人"
     }
 
-    "3"
+    "@Choose game Headshot"
     {
-        "blocked" "1"
-        "chi" "3"
+        "chi" "爆头"
     }
 
-    "4"
+    "@Choose game Knife1v1"
     {
-        "blocked" "1"
-        "chi" "4"
+        "chi" "solo刀战"
     }
 
-    "5"
+    "@Choose game Maze"
     {
-        "chi" "5"
+        "chi" "迷宫"
+    }
+
+    "@Choose game Nade"
+    {
+        "chi" "手雷"
+    }
+
+    "@Choose game Rope skipping"
+    {
+        "chi" "跳绳"
+    }
+
+    "@Choose game Skate"
+    {
+        "chi" "滑冰"
+    }
+
+    "@Choose game Soccer"
+    {
+        "chi" "足球"
+    }
+
+    "@Choose game Speedjump"
+    {
+        "chi" "快速旋转跳"
+    }
+
+    "@Choose game Speedrun"
+    {
+        "chi" "快跑"
+    }
+
+    "@Choose game ssg08+knife"
+    {
+        "chi" "鸟狙"
+    }
+
+    "@Choose game TrulySkate"
+    {
+        "chi" "真正意义上的滑冰"
+    }
+
+    "@Goal !!!"
+    {
+        "chi" "球进啦!!!"
+    }
+
+    "@Jump 60 seconds last"
+    {
+        "chi" "请坚持60秒"
+    }
+
+    "@Map by Gunman, welcome to report bug to me, hf"
+    {
+        "chi" "地图作者: Gunman 欢迎向作者反馈地图BUG 地图汉化: 圣剑@风云社"
+    }
+
+    "@Map version 1.3.1"
+    {
+        "chi" "地图版本: 1.3.1"
+        "blocked" "1"
     }
 
     "@Now choose a new player..."
@@ -158,24 +137,24 @@
         "chi" "正在选择新的玩家..."
     }
 
-    "@Battle last 50 seconds"
+    "@Oh.."
     {
-        "chi" "战斗将在50秒钟后结束"
+        "chi" "哇偶.."
     }
 
-    "@Choose game Knife1v1"
+    "@Oops.."
     {
-        "chi" "solo刀战"
+        "chi" "哎呀.."
     }
 
-    "@Choose game Headshot"
+    "@Press E on ground to plant bomb"
     {
-        "chi" "爆头"
+        "chi" "对地板按E来放置炸弹"
     }
 
-    "@Choose game Maze"
+    "@Pushing.."
     {
-        "chi" "迷宫"
+        "chi" "缩圈中.."
     }
 
     "@Random choosing..."
@@ -183,35 +162,62 @@
         "chi" "随机..."
     }
 
-    "@Battle 30 seconds last"
+    "1"
     {
-        "chi" "战斗将在30秒钟后结束"
-    }
-
-    "@Jump 60 seconds last"
-    {
-        "chi" "请坚持60秒"
-    }
-
-    "@Choose game Speedjump"
-    {
-        "chi" "快速旋转跳"
-    }
-
-    "@Choose game Nade"
-    {
-        "chi" "手雷"
-    }
-
-    "@Map by Gunman, welcome to report bug to me, hf"
-    {
-        "chi" "地图作者: Gunman 欢迎向作者反馈地图BUG 地图汉化: 圣剑@风云社"
-    }
-
-    "@Map version 1.3.1"
-    {
+        "chi" "1"
         "blocked" "1"
-        "chi" "地图版本: 1.3.1"
+    }
+
+    "1.."
+    {
+        "chi" "1"
+        "blocked" "1"
+    }
+
+    "2"
+    {
+        "chi" "2"
+        "blocked" "1"
+    }
+
+    "2.."
+    {
+        "chi" "2"
+        "blocked" "1"
+    }
+
+    "3"
+    {
+        "chi" "3"
+        "blocked" "1"
+    }
+
+    "3.."
+    {
+        "chi" "3"
+        "blocked" "1"
+    }
+
+    "4"
+    {
+        "chi" "4"
+        "blocked" "1"
+    }
+
+    "4.."
+    {
+        "chi" "4"
+        "blocked" "1"
+    }
+
+    "5"
+    {
+        "chi" "5"
+    }
+
+    "5.."
+    {
+        "chi" "5"
     }
 
 }

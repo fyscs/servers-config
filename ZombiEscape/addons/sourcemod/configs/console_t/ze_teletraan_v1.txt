@@ -1,97 +1,49 @@
 "Console_T"
 {
-	"Teletraan will open door in few seconds !"
-	{
-		"chi"		"*** 防守45秒!射击僵尸!**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"Fall Back !!!"
-	{
-		"chi"		"***fallback!fallback!**"
-	}
-	"Teletraan will open door soon !"
-	{
-		"chi"		"***防守45秒!开枪守住!**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"Optimus is now to clear the way !"
-	{
-		"chi"		"**擎天柱清理了路线!**"
-	}
-	"Teletraan will close door in few seconds"
-	{
-		"chi"		"**门将在一段时间后关闭!**"
-	}
-	"Teletraan will close door in 10 seconds"
-	{
-		"chi"		"**Teletran将在10秒内关门**"
-	}
-	"Map by Lup4n`"
-	{
-		"chi"		"** **"
-	}
-	">>LEVEL 1<<"
-	{
-		"chi"		"**关卡一**"
-	}
-	"**level 1**"
-	{
-		"chi"		"**关卡一**"
-	}
-	"**Map By Batnik_Reference.smd and ShotT **"
-	{
-		"chi"		"** **"
-	}
-	"**ZE_DARK_SOULS**"
-	{
-		"chi"		"** **"
-	}
-	"[Map] ze_Suchirifu"
-	{
-		"chi"		"** **"
-	}
-	"Map made by Ripsaw"
-	{
-		"chi"		"** **"
-	}
-	"**stage 1**"
-	{
-		"chi"		"**第一阶段**"
-	}
-	"**Map made by Eugenio *Motanum* Roman**"
-	{
-		"chi"		"** **"
-	}
-	"**Contact me at eugenio.motanum91 AT gmail.com**"
-	{
-		"chi"		"** **"
-	}
-	"***Selecting default difficulty****"
-	{
-		"chi"		"** **"
-	}
-	"**Thanks to [PF] PlagueFest for their support!**"
-	{
-		"chi"		"** **"
-	}
-	"***Waiting for players****"
-	{
-		"chi"		"** **"
-	}
-	"***Reseting game in 20 seconds****"
-	{
-		"chi"		"** **"
-	}
-	"***Welcome***"
-	{
-		"chi"		"**欢迎**"
-	}
-	"***Map by Qahnaarin***"
-	{
-		"chi"		"** **"
-	}
-	"Map by XXPohmianXXMochi"
-	{
-		"chi"		"** **"
-	}
+
+    "Fall Back !!!"
+    {
+        "chi" "撤退"
+    }
+
+    "Map by Lup4n`"
+    {
+        "chi" "作者:Lup4n 汉化:小三@風雲社"
+    }
+
+    "Optimus is now to clear the way !"
+    {
+        "chi" "**擎天柱清理了路线!**"
+    }
+
+    "Teletraan will close door in 10 seconds"
+    {
+        "chi" "**Teletran将在10秒内关门**"
+    }
+
+    "Teletraan will close door in few seconds"
+    {
+        "chi" "**门将在一段时间后关闭!**"
+    }
+
+    "Teletraan will open door in few seconds !"
+    {
+        "chi" "*** 防守45秒!射击僵尸!**"
+    }
+
+    "Teletraan will open door soon !"
+    {
+        "chi" "***防守45秒!开枪守住!**"
+    }
+
 }

@@ -1,0 +1,829 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "@ 100HP"
+    {
+        "chi" "__null__"
+    }
+
+    "@ 100HP HEADSHOTZ!"
+    {
+        "chi" "__null__"
+    }
+
+    "@ 150HP"
+    {
+        "chi" "__null__"
+    }
+
+    "@ 1HP HOLYSHIT!"
+    {
+        "chi" "__null__"
+    }
+
+    "@ 200HP"
+    {
+        "chi" "__null__"
+    }
+
+    "@ 500HP"
+    {
+        "chi" "__null__"
+    }
+
+    "@ 50HP"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 1 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 10 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 11 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 12 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 13 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 14 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 15 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 16 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 17 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 18 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 19 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 2 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 20 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 21 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 22 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 23 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 24 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 25 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 26 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 27 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 28 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 29 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 3 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 30 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 31 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 32 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 33 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 34 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 35 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 36 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 37 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 38 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 39 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 4 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 40 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 41 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 42 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 43 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 44 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 45 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 46 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 47 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 48 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 49 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 5 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 50 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 6 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 7 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 8 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ ARENA  [ 9 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ OFF ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S1 E1 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S1 E2 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S1 E3 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S1 E4 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S1 E5 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S1 E6 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S1 E7 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S2 E1 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S2 E2 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S2 E3 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S2 E4 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S2 E5 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S2 E6 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S2 E7 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S3 E1 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S3 E2 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S3 E3 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S3 E4 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S3 E5 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S3 E6 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T1 S3 E7 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T2 S1 E1 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T2 S1 E2 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T2 S1 E3 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T2 S1 E4 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T2 S1 E5 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T2 S1 E6 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T2 S1 E7 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T2 S2 E1 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T2 S2 E2 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T2 S2 E3 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T2 S2 E4 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T2 S2 E5 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T2 S2 E6 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T2 S2 E7 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T3 S1 E1 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T3 S1 E2 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T3 S1 E3 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T3 S1 E4 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T3 S1 E5 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T3 S1 E6 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T3 S1 E7 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T3 S2 E1 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T3 S2 E2 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T3 S2 E3 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T3 S2 E4 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T3 S2 E5 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T3 S2 E6 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ EFFECT [ T3 S2 E7 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ GRAV [ 0.1 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ GRAV [ 0.5 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ GRAV [ 0.6 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ GRAV [ 0.7 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ GRAV [ 0.8 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ GRAV [ 0.9 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ GRAV [ 1 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ GRAV [ 2.0 ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ LETS GO"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS AK47"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS AUG"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS AWP"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS BIZON"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS CZ75A"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS DEAGLE"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS ELITE"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS FAMAS"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS FIVESEVEN"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS FLASHBANG"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS G3SG1"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS GALILAR"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS GLOCK"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS HEGRENADE"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS HKP2000"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS INCGRENADE"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS KNIFE"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS M249"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS M4A1"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS M4A1S"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS MAC10"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS MAG7"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS MOLOTOV"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS MP7"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS MP9"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS NEGEV"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS NOVA"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS P250"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS P90"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS REVOLVER"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS SAWEDOFF"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS SCAR20"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS SG556"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS SMOKEGRENADE"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS SSG08"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS TEC9"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS UMP45"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS USP"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS XM1014"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SIMON SAYS ZEUS"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SUPER POWER [ BIG ASS ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SUPER POWER [ INFINITE AMMO ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SUPER POWER [ INVISIBILITY ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SUPER POWER [ OFF ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SUPER POWER [ RAINBOW ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SUPER POWER [ REVERSE MOTION ]"
+    {
+        "chi" "__null__"
+    }
+
+    "@ SUPER POWER [ SPEED ]"
+    {
+        "chi" "__null__"
+    }
+
+}

@@ -1,79 +1,109 @@
 "Console_T"
 {
-	"* * * Zombie Shield Disabled! * * *"
-	{
-		"chi"		"**防御系统离线**"
-	}
-	"* * Zombie Shield Activated! * *"
-	{
-		"chi"		"**防御系统开启**"
-	}
-	"* * * Zombie Shield Disable in 20 Seconds! * * *"
-	{
-		"chi"		"**僵尸将被阻挡20秒**"
-	}
-	"* * * The Gate Door Will Open in 5 Seconds! * * *"
-	{
-		"chi"		"**大门将在5秒后打开**"
-	}
-	"* * * Zombie Shield Activated in 20 Seconds!"
-	{
-		"chi"		"**僵尸防御系统将在20秒后生效**"
-	}
-	"* * * The Gate Door Will Open in 10 Seconds! * * *"
-	{
-		"chi"		"**大门将在10秒后打开**"
-	}
-	"* * * Teleport is Charged in 30 Seconds! * * *"
-	{
-		"chi"		"**传送装置: 30秒**"
-	}
-	"* * Break the iron planks to enter the doors! * *"
-	{
-		"chi"		"**把铁板打碎**"
-	}
-	"* * * The Water is Electric so dont swim! * * *"
-	{
-		"chi"		"**水里有电**  '下水游泳能治疗网瘾”"
-	}
-	"* * * Get on the Train! * * *"
-	{
-		"chi"		"**没时间解释了,快上车**"
-	}
-	"* * * Train is leaving in 15 seconds! * * *"
-	{
-		"chi"		"**电车将在15秒后离开**"
-	}
-	"* * The Electric Water will be disabled in 15 seconds! * *"
-	{
-		"chi"		"**池水电流将在15秒后消失**"
-	}
-	"* * * Electric Water is Disabled * * *"
-	{
-		"chi"		"**池水电流已经完全消失**"
-	}
-	"* * * Get up on the rescue spot! * * *"
-	{
-		"chi"		"**在救援区域防守僵尸**"
-	}
-	"* * Pull the Lever to charge the Teleport! * * *"
-	{
-		"chi"		"**拉动控制杆给传送装置充能**"
-	}
-	"* * * Break the DOOR to Enter! * * *"
-	{
-		"chi"		"**破门而入**"
-	}
-	"* * * Run to the Safe Room! * * *"
-	{
-		"chi"		"**前往米奇妙妙屋**"
-	}
-	"* * * LAST DOOR CLOSING IN 40 SECONDS! * * *"
-	{
-		"chi"		"**米奇妙妙屋将在40秒后关闭**"
-	}
-	"* * * Zombie Nervegas Activated in 5 Seconds! * * *"
-	{
-		"chi"		"**僵尸还有5秒就要全部升天啦**"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "* * * Break the DOOR to Enter! * * *"
+    {
+        "chi" "**破门而入**"
+    }
+
+    "* * * Electric Water is Disabled * * *"
+    {
+        "chi" "**池水电流已经完全消失**"
+    }
+
+    "* * * Get on the Train! * * *"
+    {
+        "chi" "**没时间解释了,快上车**"
+    }
+
+    "* * * Get up on the rescue spot! * * *"
+    {
+        "chi" "**在救援区域防守僵尸**"
+    }
+
+    "* * * LAST DOOR CLOSING IN 40 SECONDS! * * *"
+    {
+        "chi" "**米奇妙妙屋将在40秒后关闭**"
+    }
+
+    "* * * Run to the Safe Room! * * *"
+    {
+        "chi" "**前往米奇妙妙屋**"
+    }
+
+    "* * * Teleport is Charged in 30 Seconds! * * *"
+    {
+        "chi" "**传送装置: 30秒**"
+    }
+
+    "* * * The Gate Door Will Open in 10 Seconds! * * *"
+    {
+        "chi" "**大门将在10秒后打开**"
+    }
+
+    "* * * The Gate Door Will Open in 5 Seconds! * * *"
+    {
+        "chi" "**大门将在5秒后打开**"
+    }
+
+    "* * * The Water is Electric so dont swim! * * *"
+    {
+        "chi" "**水里有电**  '下水游泳能治疗网瘾”"
+    }
+
+    "* * * Train is leaving in 15 seconds! * * *"
+    {
+        "chi" "**电车将在15秒后离开**"
+    }
+
+    "* * * Zombie Nervegas Activated in 5 Seconds! * * *"
+    {
+        "chi" "**僵尸还有5秒就要全部升天啦**"
+    }
+
+    "* * * Zombie Shield Activated in 20 Seconds!"
+    {
+        "chi" "**僵尸防御系统将在20秒后生效**"
+    }
+
+    "* * * Zombie Shield Disable in 20 Seconds! * * *"
+    {
+        "chi" "**僵尸将被阻挡20秒**"
+    }
+
+    "* * * Zombie Shield Disabled! * * *"
+    {
+        "chi" "**防御系统离线**"
+    }
+
+    "* * Break the iron planks to enter the doors! * *"
+    {
+        "chi" "**把铁板打碎**"
+    }
+
+    "* * Pull the Lever to charge the Teleport! * * *"
+    {
+        "chi" "**拉动控制杆给传送装置充能**"
+    }
+
+    "* * The Electric Water will be disabled in 15 seconds! * *"
+    {
+        "chi" "**池水电流将在15秒后消失**"
+    }
+
+    "* * Zombie Shield Activated! * *"
+    {
+        "chi" "**防御系统开启**"
+    }
+
 }

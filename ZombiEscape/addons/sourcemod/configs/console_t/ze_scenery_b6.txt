@@ -1,18 +1,24 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
 
     "***30S***"
     {
         "chi" "**坚守30秒 **"
     }
 
-    "***door open in 30S***"
+    "***Countdown 20 S***"
     {
-        "chi" "**还剩30秒大门打开 **"
+        "chi" "**坚守20秒 **"
     }
 
     "***Countdown 40 S***"
@@ -25,9 +31,9 @@
         "chi" "**坚守70秒 **"
     }
 
-    "***Countdown 20 S***"
+    "***door open in 30S***"
     {
-        "chi" "**坚守20秒 **"
+        "chi" "**还剩30秒大门打开 **"
     }
 
     "***map by HuiYi***"

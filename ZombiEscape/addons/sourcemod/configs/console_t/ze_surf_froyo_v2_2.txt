@@ -1,851 +1,549 @@
 "Console_T"
 {
-	"***Map By Color[酸奶]!***"
-	{
-		"chi"		"**地图制作: Color[酸奶]! 地图翻译: 白衣 **"
-	}
-	"***Welcome to froyo world!Lets enjoy a fantastic trip!***"
-	{
-		"chi"		"**欢迎各位来到酸奶世界!我来带你们感受一下奇妙的旅行吧!**"
-	}
-	"***Warm Up Round!***"
-	{
-		"chi"		"**热身赛!**"
-	}
-	"***Initializing froyo world in 3s!***"
-	{
-		"chi"		"**酸奶的世界将在3秒后初始化**"
-	}
-	"***Initializing froyo world in 2s!***"
-	{
-		"chi"		"**酸奶的世界将在2秒后初始化**"
-	}
-	"***Initializing froyo world in 1s!***"
-	{
-		"chi"		"**酸奶的世界将在1秒后初始化**"
-	}
-	"***Initial***"
-	{
-		"chi"		"**初始化成功! **"
-	}
-	"***You travellers must travel around the initial froyo world!***"
-	{
-		"chi"		"**旅行者们你们必须先通关最初关卡 **"
-	}
-	"***Then you can explore more and more different froyo worlds!***"
-	{
-		"chi"		"**通关最初关卡,你们就可以对这个世界展开奇妙的探索 **"
-	}
-	"***Well!If the count of travellers is less than half,all zombies will be teleported in 60s!***"
-	{
-		"chi"		"**如果人类数量不到一半,僵尸就会在60秒后传送**"
-	}
-	"***Hold for 80s!***"
-	{
-		"chi"		"**旅行者们守住80秒 **"
-	}
-	"***Map Made By Color[酸奶]!***"
-	{
-		"chi"		"**地图制作: Color[酸奶]! 地图翻译: 白衣**"
-	}
-	"***Hold for 60s!***"
-	{
-		"chi"		"**旅行者们守住这60秒**"
-	}
-	"***The platform will move in 35s!***"
-	{
-		"chi"		"**这个平台将在35秒后移动**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"***Zombies will come in 20s!***"
-	{
-		"chi"		"**僵尸将在20秒后出击!**"
-	}
-	"***Hold froyo for 30s!***"
-	{
-		"chi"		"**旅行者们保护酸奶30秒**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"***Hold for last 60s!***"
-	{
-		"chi"		"**请守住守住激光桥60秒**"
 
-	}
-	"***30s left to win!***"
-	{
-		"chi"		"**旅行者们30秒后通关**"
-	}
-	"***1!***"
-	{
-		"chi"		"**1**"
-	}
-	"***Zombies!Feel froyos force!balabala...***"
-	{
-		"chi"		"**僵尸们!感受酸奶世界的驱逐吧!**"
-	}
-	"***Congratulations!Travellers succeed!***"
-	{
-		"chi"		"**旅行者们!恭喜你们成功通关!**"
-	}
-	"***30s left!***"
-	{
-		"chi"		"** **"
-	}
-	"***5s left!***"
-	{
-		"chi"		"** **"
-	}
-	"***5!***"
-	{
-		"chi"		"** **"
-	}
-	"***4!***"
-	{
-		"chi"		"** **"
-	}
-	"***3!***"
-	{
-		"chi"		"** **"
-	}
-	"***2!***"
-	{
-		"chi"		"** **"
-	}
-	"***Hold star for 60s!***"
-	{
-		"chi"		"**旅行者们守住60秒**"
+    "***(Admin)Boss Froyo in next round!***"
+    {
+        "chi" "管理员选择BOSS酸奶"
+    }
 
-	}
-	"***Generating froyo world in 3s!***"
-	{
-		"chi"		"**酸奶世界将在3秒后形成**"
-	}
-	"***Generating froyo world in 2s!***"
-	{
-		"chi"		"**酸奶世界将在2秒后形成**"
-	}
-	"***Generating froyo world in 1s!***"
-	{
-		"chi"		"**酸奶世界将在1秒后形成**"
-	}
-	"***Boss Star II***"
-	{
-		"chi"		"**恐惧之星二号**"
-	}
-	"***Check travellers crystals......***"
-	{
-		"chi"		"**检测到旅行者水晶....**"
-	}
-	"***Sorry!You travellers have no crystal to use!Good luck!***"
-	{
-		"chi"		"**抱歉!旅行者们并没有使用水晶!祝你好运!**"
-	}
-	"***Check zombies crystals......***"
-	{
-		"chi"		"**检测到僵尸水晶....**"
-	}
-	"***Well,Zombies!Get your crystals to infect travellers!***"
-	{
-		"chi"		"**Good,僵尸!利用你的水晶去攻击旅行者!**"
-	}
-	"***A zombie has picked health crystal!***"
-	{
-		"chi"		"**一位僵尸选择了治愈水晶!**"
-	}
-	"***Zombies will come in 15s!***"
-	{
-		"chi"		"**僵尸将在15秒后出动!**"
-	}
-	"***Plane 2 will move in 25s!***"
-	{
-		"chi"		"**二号纸飞机将25秒后起飞**"
-	}
-	"***Hold here for 30s!***"
-	{
-		"chi"		"**旅行者们守住30秒**"
+    "***(Admin)Boss Star II in next round!***"
+    {
+        "chi" "管理员选择BOSS之星二号"
+    }
 
-	}
-	"***Wood box will break in 30s!***"
-	{
-		"chi"		"**木箱将在30秒后破碎**"
+    "***(Admin)Boss Star in next round!***"
+    {
+        "chi" "管理员选择BOSS之星"
+    }
 
-	}
-	"***Wood box will break in 5s!***"
-	{
-		"chi"		"**木箱将在5秒后破碎**"
-	}
-	"***Bridge can pass through in 35s!***"
-	{
-		"chi"		"**鸳鸯桥将会在35秒后开放**"
+    "***(Admin)Hard in next round!***"
+    {
+        "chi" "管理员选择Hard难度"
+    }
 
-	}
-	"***Bridge can pass through in 5s!***"
-	{
-		"chi"		"**鸳鸯桥将会在5秒后开放**"
-	}
-	"***Hold for 30s!***"
-	{
-		"chi"		"**旅行者们守住30秒**"
+    "***(Admin)Initial in next round!***"
+    {
+        "chi" "管理员设置Initial难度"
+    }
 
-	}
-	"***Wood will break in 45s!***"
-	{
-		"chi"		"**木箱将在45秒后破碎**"
+    "***(Admin)Laser in next round!***"
+    {
+        "chi" "管理员设置Laser难度"
+    }
 
-	}
-	"***Teleport all zombies!***"
-	{
-		"chi"		"**传送所有僵尸到达指定地点**"
-	}
-	"***Boss Star will appear in 40s!***"
-	{
-		"chi"		"**恐惧之星将在40秒后出现**"
+    "***(Admin)Normal in next round!***"
+    {
+        "chi" "管理员设置Normal难度"
+    }
 
-	}
-	"***You have 120s to fight Boss Star!***"
-	{
-		"chi"		"**你有120秒的时间击败恐惧之星**"
-	}
-	"***Hegrenade can give Boss Star more damage!***"
-	{
-		"chi"		"**旅行者们,手雷可以对恐怖造成更多伤害!**"
-	}
-	"***Well!Boss Star was defeated!***"
-	{
-		"chi"		"**干得漂亮!恐惧之星被击败了!**"
-	}
-	"***The star platform will rise in 4s!***"
-	{
-		"chi"		"**星之平台将在4秒后上升**"
-	}
-	"***Boss Star***"
-	{
-		"chi"		"**恐惧之星**"
-	}
-	"***A traveller has picked shock ring!***"
-	{
-		"chi"		"**一位旅行者选择了游泳圈!**"
-	}
-	"***Well,Travellers!Making good use of these crystals!***"
-	{
-		"chi"		"**好的, 旅行者们!好好利用这些水晶!**"
-	}
-	"***Sorry!Zombies have no crystal to use!***"
-	{
-		"chi"		"**对不起!僵尸没有水晶使用!**"
-	}
-	"***A traveller has picked snowstorm crystal!***"
-	{
-		"chi"		"**一位旅行者选择了暴风雪水晶体!**"
-	}
-	"***Press the red button and enter the castle!***"
-	{
-		"chi"		"**旅行者们,按下红色按钮进入城堡!**"
-	}
-	"***Wood door will open in 10s!***"
-	{
-		"chi"		"**木箱将在10秒后破碎**"
-	}
-	"***Find and touch the froyo!***"
-	{
-		"chi"		"**旅行者们!发现并触碰酸奶!**"
-	}
-	"***Hold for 75s!***"
-	{
-		"chi"		"**旅行者们守住75秒**"
+    "***1!***"
+    {
+        "chi" "**1**"
+    }
 
-	}
-	"***All zombies will be teleported in 10s!***"
-	{
-		"chi"		"**所有僵尸将在10秒后传送**"
-	}
-	"***Boss Froyo***"
-	{
-		"chi"		"**恐惧酸奶**"
-	}
-	"***A traveller has picked roar crystal!***"
-	{
-		"chi"		"**一位旅行者选择了咆哮水晶体!**"
-	}
-	"***The boat will move in 75s!***"
-	{
-		"chi"		"**泰坦尼克号将在75秒后离开**"
+    "***10s left to win!***"
+    {
+        "chi" "**还有10秒,胜利就在眼前!**"
+    }
 
-	}
-	"***The boat will move in 30s!***"
-	{
-		"chi"		"**泰坦尼克号将在30秒后离开**"
-	}
-	"***Plane 1 will move in 25s!***"
-	{
-		"chi"		"**一号轰炸机将在25秒后离开**"
-	}
-	"***Plane 3 will move in 25s!***"
-	{
-		"chi"		"**三号轰炸机将在25秒后离开**"
-	}
-	"***You have 90s to fight Boss Star!***"
-	{
-		"chi"		"**旅行者们!你们只有90秒的时间击败恐惧之星**"
-	}
-	"***Laser***"
-	{
-		"chi"		"**激光**"
-	}
-	"***Hard***"
-	{
-		"chi"		"**困难**"
-	}
-	"***A traveller has picked lightwall crystal!***"
-	{
-		"chi"		"**一位旅行者选择了光壁水晶!**"
-	}
-	"***A zombie has picked fear crystal!***"
-	{
-		"chi"		"**一个僵尸选择了恐惧水晶!**"
-	}
-	"***A traveller has picked halo crystal!***"
-	{
-		"chi"		"**一位旅行者选择了光环水晶!**"
-	}
-	"***Boss Froyo will appear in 30s!***"
-	{
-		"chi"		"**恐惧之星将在30秒后出现**"
-	}
-	"***You have 90s to fight Boss Froyo!***"
-	{
-		"chi"		"**旅行者们!你们还剩90秒击败恐惧之星**"
-	}
-	"***You have 60s to fight Boss Froyo!***"
-	{
-		"chi"		"**旅行者们!你们还剩60秒击败恐惧之星**"
-	}
-	"***You have 30s to fight Boss Froyo!***"
-	{
-		"chi"		"**旅行者们!你们还剩30秒击败恐惧之星**"
-	}
-	"***Boss Froyo will destroy all travellers in 5s!***"
-	{
-		"chi"		"**恐惧之星将在5秒后释放终极**"
-	}
-	"***Normal***"
-	{
-		"chi"		"**普通**"
-	}
-	"***Wait for 120s or complete last surf to activate the teleportion crystal!***"
-	{
-		"chi"		"**旅行者们!等待120秒或者完成最后的滑翔激活传送**"
-	}
-	"***The teleportion crystal is active!***"
-	{
-		"chi"		"**传送水晶已激活!**"
-	}
-	"***Zombies will come in 8s!"
-	{
-		"chi"		"**僵尸将在8秒内赶到**"
-	}
-	"***Wait for 30s until the box breaks!***"
-	{
-		"chi"		"**请等待!箱子将在30秒后碎掉!**"
-	}
-	"***Hold for 35s!***"
-	{
-		"chi"		"**旅行者们!撑住35秒!**"
-	}
-	"***10s left to win!***"
-	{
-		"chi"		"**还有10秒,胜利就在眼前!**"
-	}
-	"***You have 30s to fight Boss Star!***"
-	{
-		"chi"		"**30秒后进入BOSS战**"
-	}
-	"***A traveller has picked Boss Stars ultimate --- Wave!***"
-	{
-		"chi"		"**一位玩家捡起来了星星BOSS终极**"
-	}
-	"***A traveller has picked unknown crystal!***"
-	{
-		"chi"		"**一位旅行者捡到了一块不知名的水晶**"
-	}
-	"***Wood will break in 30s!***"
-	{
-		"chi"		"**木板将在30秒碎掉**"
-	}
-	"***You have 60s to fight Boss Star!***"
-	{
-		"chi"		"**你有六十秒时间击败恐惧之星**"
-	}
-	"***Boss Star will destroy all travellers in 5s!***"
-	{
-		"chi"		"**恐惧之星将在5秒后释放终极**"
-	}
-	"***Box will break in 35s!***"
-	{
-		"chi"		"**箱子将在35秒后碎掉**"
-	}
-	"***Box will break in 5s!***"
-	{
-		"chi"		"**箱子将在5秒后碎掉**"
-	}
-	"***Find and touch the star!***"
-	{
-		"chi"		"**旅行者们!请找到并接触星星**"
-	}
-	"***The teleportion crystal will be active in 60s!***"
-	{
-		"chi"		"**传送水晶将在60秒后激活**"
-	}
-	"***Well!Boss Froyo has been defeated!***"
-	{
-		"chi"		"**干得漂亮!恐惧之星被击败了**"
-	}
-	"***A traveller has picked Boss Froyos ultimate --- Blast!***"
-	{
-		"chi"		"**一位旅行者选择了恐惧之星的终极选择-爆炸 **"
-	}
-	"***Wait for 40s until the box breaks!***"
-	{
-		"chi"		"**旅行者们!请等待60秒知道箱字破碎**"
-	}
-	"***Press the button and activate teleportion!***"
-	{
-		"chi"		"**按下按钮并启动传送!**"
-	}
-	"***Well!Teleportion will be active in 60s!***"
-	{
-		"chi"		"**干得漂亮!传送将在60秒后激活**"
-	}
-	"***Teleportion is active!Go ahead,travellers!***"
-	{
-		"chi"		"**传送已激活!去吧,旅行者!**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"***Boss Star will appear in 20s!***"
-	{
-		"chi"		"**恐惧之星将在20秒后出现**"
-	}
-	"***Box will break in 20s!***"
-	{
-		"chi"		"**箱子将在20秒后碎掉**"
-	}
-	"***Box will break in 10s!***"
-	{
-		"chi"		"**箱子将在10秒后碎掉**"
-	}
-	"***Wait for 10s until the box breaks!***"
-	{
-		"chi"		"**请等待10秒直至箱子碎掉**"
-	}
-	"***Hold for 25s!***"
-	{
-		"chi"		"**旅行者们!守住25秒!**"
-	}
-	"***Map Made By Color!***"
-	{
-		"chi"		"**地图作者: 酸奶 地图翻译: 白衣**"
-	}
-	"***Well!If the count of travellers is less than half,all zombies will be teleported in 40s!***"
-	{
-		"chi"		"**请记住如果旅行者的数量少于一半,所有僵尸将在40秒内传送!**"
-	}
-	"***Hold star for 40s!***"
-	{
-		"chi"		"**守护星星40秒**"
-	}
-	"***Hold for 40s!***"
-	{
-		"chi"		"**保持40秒**"
-	}
-	"***The boat will move in 60s!***"
-	{
-		"chi"		"**泰坦尼克号将在60秒后开船**"
-	}
-	"***Bridge can pass through in 25s!***"
-	{
-		"chi"		"**请在25秒内通过鸳鸯桥**"
-	}
-	"***Welcome to froyo world!Let's enjoy a fantastic trip!***"
-	{
-		"chi"		"**欢迎来到酸奶世界!让我们享受一次美妙的旅行吧!**"
-	}
-	"***Zombies!Feel froyo's force!balabala...***"
-	{
-		"chi"		"**僵尸们!感受酸奶世界的力量吧!哈哈哈...**"
-	}
-	"***A traveller has picked Boss Star's ultimate --- Wave!***"
-	{
-		"chi"		"**一位旅行者选择了恐惧之星的终极之波!**"
-	}
-	"***A traveller has picked Boss Froyo's ultimate --- Blast!***"
-	{
-		"chi"		"**一位旅行者选择了恐惧之星的终极选择-爆炸!**"
-	}
-	"***Welcome***"
-	{
-		"chi"		"**旅行者!欢迎你的到来!**"
-	}
-	"***Map made by Qahnaarin***"
-	{
-		"chi"		"** **"
-	}
-	"**ZE_DARK_SOULS**"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 60 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 59 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 58 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 57 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 56 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 55 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 54 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 53 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 52 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 51 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 50 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 49 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 48 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 47 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 46 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 45 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 44 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 43 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 42 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 41 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 40 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 39 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 38 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 37 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 36 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 35 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 34 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 33 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 32 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 31 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 30 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 29 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 28 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 27 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 26 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 25 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 24 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 23 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 22 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 21 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 20 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 19 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 18 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 17 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 16 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 15 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 14 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 13 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 12 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 11 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 10 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 9 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 8 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 7 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 6 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 5 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 4 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 3 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 2 seconds"
-	{
-		"chi"		"** **"
-	}
-	"Server restart in 1 seconds"
-	{
-		"chi"		"** **"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"** **"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"**请选择游玩模式**"
-	}
-	"> ZE UT2004 CONVOY"
-	{
-		"chi"		"** **"
-	}
-	"<< ze_surf_virtus >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Fix by : Lishang >>"
-	{
-		"chi"		"** **"
-	}
-	"[Map] ze_Suchirifu"
-	{
-		"chi"		"** **"
-	}
-	">> Map by TaskuVaras <<"
-	{
-		"chi"		"** **"
-	}
-	"*** MAP BY STRUPPI ***"
-	{
-		"chi"		"** **"
-	}
-	"**Stage 1**"
-	{
-		"chi"		"** **"
-	}
-	"*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
-	{
-		"chi"		"** **"
-	}
-	"***Map ported by ??????***"
-	{
-		"chi"		"** **"
-	}
-	"*** CURRENT MODE: EASY ***"
-	{
-		"chi"		"** **"
-	}
-	"***WARMUP***"
-	{
-		"chi"		"** **"
-	}
-	"+++  MAP MADE BY GARGANTUA +++"
-	{
-		"chi"		"** **"
-	}
-	"***Welcome to Crazy Kart***"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Luffaren***"
-	{
-		"chi"		"** **"
-	}
-	"**stage1**"
-	{
-		"chi"		"** **"
-	}
-	"**map by:一条会翻身的鱼**"
-	{
-		"chi"		"** **"
-	}
-	"++ ZE_ITALY_TOWN ++"
-	{
-		"chi"		"** **"
-	}
-	"Thanks test play POSSESSION server!!"
-	{
-		"chi"		"**感谢试玩次地图!**"
-	}
-	"Map made by Ocelot"
-	{
-		"chi"		"** **"
-	}
-	"**Thanks to Airvulpes for the textures**"
-	{
-		"chi"		"** **"
-	}
-	">> ZE_ERROR <<"
-	{
-		"chi"		"** **"
-	}
-	"**map by koyomaple**"
-	{
-		"chi"		"** **"
-	}
-	">> IDEA: Sienestaja <<"
-	{
-		"chi"		"** **"
-	}
-	"For POSSESSION, Respect to Sakura"
-	{
-		"chi"		"** **"
-	}
-	"Based-map by Xquality"
-	{
-		"chi"		"** **"
-	}
-	"** re shen 50 miao **"
-	{
-		"chi"		"** **"
-	}
+    "***2!***"
+    {
+        "chi" "**2**"
+    }
+
+    "***3!***"
+    {
+        "chi" "**3**"
+    }
+
+    "***30s left to win!***"
+    {
+        "chi" "**旅行者们30秒后通关**"
+    }
+
+    "***30s left!***"
+    {
+        "chi" "**30**"
+    }
+
+    "***4!***"
+    {
+        "chi" "**4**"
+    }
+
+    "***5!***"
+    {
+        "chi" "**5**"
+    }
+
+    "***5s left!***"
+    {
+        "chi" "**5**"
+    }
+
+    "***A traveller has picked Boss Froyo's ultimate --- Blast!***"
+    {
+        "chi" "**一位旅行者选择了恐惧之星的终极选择-爆炸!**"
+        "blocked"    "1"
+    }
+
+    "***A traveller has picked Boss Star's ultimate --- Wave!***"
+    {
+        "chi" "**一位旅行者选择了恐惧之星的终极之波!**"
+        "blocked"    "1"
+    }
+
+    "***A traveller has picked halo crystal!***"
+    {
+        "chi" "**一位旅行者选择了光环水晶!**"
+        "blocked"    "1"
+    }
+
+    "***A traveller has picked lightwall crystal!***"
+    {
+        "chi" "**一位旅行者选择了光壁水晶!**"
+        "blocked"    "1"
+    }
+
+    "***A traveller has picked roar crystal!***"
+    {
+        "chi" "**一位旅行者选择了咆哮水晶体!**"
+        "blocked"    "1"
+    }
+
+    "***A traveller has picked shock ring!***"
+    {
+        "chi" "**一位旅行者选择了游泳圈!**"
+        "blocked"    "1"
+    }
+
+    "***A traveller has picked snowstorm crystal!***"
+    {
+        "chi" "**一位旅行者选择了暴风雪水晶体!**"
+        "blocked"    "1"
+    }
+
+    "***A traveller has picked unknown crystal!***"
+    {
+        "chi" "**一位旅行者捡到了一块不知名的水晶**"
+        "blocked"    "1"
+    }
+
+    "***A zombie has picked fear crystal!***"
+    {
+        "chi" "**一个僵尸选择了恐惧水晶!**"
+        "blocked"    "1"
+    }
+
+    "***A zombie has picked health crystal!***"
+    {
+        "chi" "**一位僵尸选择了治愈水晶!**"
+        "blocked"    "1"
+    }
+
+    "***All zombies will be teleported in 10s!***"
+    {
+        "chi" "**所有僵尸将在10秒后传送**"
+    }
+
+    "***Boss Froyo will appear in 30s!***"
+    {
+        "chi" "**恐惧之星将在30秒后出现**"
+    }
+
+    "***Boss Froyo***"
+    {
+        "chi" "**恐惧酸奶**"
+    }
+
+    "***Boss Star II***"
+    {
+        "chi" "**恐惧之星二号**"
+    }
+
+    "***Boss Star will appear in 20s!***"
+    {
+        "chi" "**恐惧之星将在20秒后出现**"
+    }
+
+    "***Boss Star***"
+    {
+        "chi" "**恐惧之星**"
+    }
+
+    "***Box will break in 10s!***"
+    {
+        "chi" "**箱子将在10秒后碎掉**"
+    }
+
+    "***Box will break in 20s!***"
+    {
+        "chi" "**箱子将在20秒后碎掉**"
+    }
+
+    "***Bridge can pass through in 25s!***"
+    {
+        "chi" "**请在25秒内通过鸳鸯桥**"
+    }
+
+    "***Bridge can pass through in 5s!***"
+    {
+        "chi" "**鸳鸯桥将会在5秒后开放**"
+    }
+
+    "***Check travellers' crystals......***"
+    {
+        "chi" "检查旅客的水晶"
+    }
+
+    "***Check zombies' crystals......***"
+    {
+        "chi" "检查僵尸的水晶"
+    }
+
+    "***Congratulations!Travellers succeed!***"
+    {
+        "chi" "**旅行者们!恭喜你们成功通关!**"
+    }
+
+    "***Find and touch the froyo!***"
+    {
+        "chi" "**旅行者们!发现并触碰酸奶!**"
+    }
+
+    "***Find and touch the star!***"
+    {
+        "chi" "**旅行者们!请找到并接触星星**"
+    }
+
+    "***Generating froyo world in 1s!***"
+    {
+        "chi" "**酸奶世界将在1秒后形成**"
+    }
+
+    "***Generating froyo world in 2s!***"
+    {
+        "chi" "**酸奶世界将在2秒后形成**"
+    }
+
+    "***Generating froyo world in 3s!***"
+    {
+        "chi" "**酸奶世界将在3秒后形成**"
+    }
+
+    "***Great!The teleportion crystal is active!***"
+    {
+        "chi" "好!传送水晶激活了"
+    }
+
+    "***Hard***"
+    {
+        "chi" "**困难**"
+    }
+
+    "***Hegrenade can give Boss Star more damage!***"
+    {
+        "chi" "**旅行者们,手雷可以对恐怖造成更多伤害!**"
+    }
+
+    "***Hold for 25s!***"
+    {
+        "chi" "**旅行者们!守住25秒!**"
+    }
+
+    "***Hold for 40s!***"
+    {
+        "chi" "**保持40秒**"
+    }
+
+    "***Hold for 60s!***"
+    {
+        "chi" "**旅行者们守住这60秒**"
+    }
+
+    "***Hold froyo for 30s!***"
+    {
+        "chi" "**旅行者们保护酸奶30秒**"
+    }
+
+    "***Hold here for 30s!***"
+    {
+        "chi" "**旅行者们守住30秒**"
+    }
+
+    "***Hold star for 40s!***"
+    {
+        "chi" "**守护星星40秒**"
+    }
+
+    "***Initial***"
+    {
+        "chi" "**初始化成功! **"
+    }
+
+    "***Initializing froyo world in 1s!***"
+    {
+        "chi" "**酸奶的世界将在1秒后初始化**"
+    }
+
+    "***Initializing froyo world in 2s!***"
+    {
+        "chi" "**酸奶的世界将在2秒后初始化**"
+    }
+
+    "***Initializing froyo world in 3s!***"
+    {
+        "chi" "**酸奶的世界将在3秒后初始化**"
+    }
+
+    "***Laser***"
+    {
+        "chi" "**激光**"
+    }
+
+    "***Map Made By Color!***"
+    {
+        "chi" "**地图作者: 酸奶 地图翻译: 白衣**"
+    }
+
+    "***Normal***"
+    {
+        "chi" "**普通**"
+    }
+
+    "***Plane 1 will move in 25s!***"
+    {
+        "chi" "**一号轰炸机将在25秒后离开**"
+    }
+
+    "***Plane 2 will move in 25s!***"
+    {
+        "chi" "**二号纸飞机将25秒后起飞**"
+    }
+
+    "***Plane 3 will move in 25s!***"
+    {
+        "chi" "**三号轰炸机将在25秒后离开**"
+    }
+
+    "***Press the button and activate teleportion!***"
+    {
+        "chi" "**按下按钮并启动传送!**"
+    }
+
+    "***Press the red button and enter the castle!***"
+    {
+        "chi" "**旅行者们,按下红色按钮进入城堡!**"
+    }
+
+    "***Sorry!You travellers have no crystal to use!Good luck!***"
+    {
+        "chi" "**抱歉!旅行者们并没有使用水晶!祝你好运!**"
+    }
+
+    "***Sorry!Zombies have no crystal to use!***"
+    {
+        "chi" "**对不起!僵尸没有水晶使用!**"
+    }
+
+    "***Teleport all zombies!***"
+    {
+        "chi" "**传送所有僵尸到达指定地点**"
+    }
+
+    "***Teleportion is active!Go ahead,travellers!***"
+    {
+        "chi" "**传送已激活!去吧,旅行者!**"
+    }
+
+    "***The boat will move in 30s!***"
+    {
+        "chi" "**泰坦尼克号将在30秒后离开**"
+    }
+
+    "***The boat will move in 60s!***"
+    {
+        "chi" "**泰坦尼克号将在60秒后开船**"
+    }
+
+    "***The platform will move in 35s!***"
+    {
+        "chi" "**这个平台将在35秒后移动**"
+    }
+
+    "***The star platform will rise in 4s!***"
+    {
+        "chi" "**星之平台将在4秒后上升**"
+    }
+
+    "***The teleportion crystal is active!***"
+    {
+        "chi" "**传送水晶已激活!**"
+    }
+
+    "***The teleportion crystal will be active in 60s!***"
+    {
+        "chi" "**传送水晶将在60秒后激活**"
+    }
+
+    "***Then you can explore more and more different froyo worlds!***"
+    {
+        "chi" "**通关最初关卡,你们就可以对这个世界展开奇妙的探索 **"
+    }
+
+    "***Wait for 10s until the box breaks!***"
+    {
+        "chi" "**请等待10秒直至箱子碎掉**"
+    }
+
+    "***Wait for 120s or complete last surf to activate the teleportion crystal!***"
+    {
+        "chi" "**旅行者们!等待120秒或者完成最后的滑翔激活传送**"
+    }
+
+    "***Wait for 40s until the box breaks!***"
+    {
+        "chi" "**旅行者们!请等待60秒知道箱字破碎**"
+    }
+
+    "***Warm Up Round!***"
+    {
+        "chi" "**热身赛!**"
+    }
+
+    "***Welcome to froyo world!Let's enjoy a fantastic trip!***"
+    {
+        "chi" "**欢迎来到酸奶世界!让我们享受一次美妙的旅行吧!**"
+    }
+
+    "***Well!Boss Froyo has been defeated!***"
+    {
+        "chi" "**干得漂亮!恐惧之星被击败了**"
+    }
+
+    "***Well!Boss Star was defeated!***"
+    {
+        "chi" "**干得漂亮!恐惧之星被击败了!**"
+    }
+
+    "***Well!If the count of travellers is less than half,all zombies will be teleported in 40s!***"
+    {
+        "chi" "**请记住如果旅行者的数量少于一半,所有僵尸将在40秒内传送!**"
+    }
+
+    "***Well!Teleportion will be active in 60s!***"
+    {
+        "chi" "**干得漂亮!传送将在60秒后激活**"
+    }
+
+    "***Well,Travellers!Making good use of these crystals!***"
+    {
+        "chi" "**好的, 旅行者们!好好利用这些水晶!**"
+    }
+
+    "***Well,Zombies!Get your crystals to infect travellers!***"
+    {
+        "chi" "**Good,僵尸!利用你的水晶去攻击旅行者!**"
+    }
+
+    "***Wood box will break in 30s!***"
+    {
+        "chi" "**木箱将在30秒后破碎**"
+    }
+
+    "***Wood box will break in 5s!***"
+    {
+        "chi" "**木箱将在5秒后破碎**"
+    }
+
+    "***Wood door will open in 10s!***"
+    {
+        "chi" "**木箱将在10秒后破碎**"
+    }
+
+    "***Wood will break in 30s!***"
+    {
+        "chi" "**木板将在30秒碎掉**"
+    }
+
+    "***You have 120s to fight Boss Star!***"
+    {
+        "chi" "**你有120秒的时间击败恐惧之星**"
+    }
+
+    "***You have 90s to fight Boss Froyo!***"
+    {
+        "chi" "**旅行者们!你们还剩90秒击败恐惧之星**"
+    }
+
+    "***You travellers must travel around the initial froyo world!***"
+    {
+        "chi" "**旅行者们你们必须先通关最初关卡 **"
+    }
+
+    "***Zombies will come in 15s!***"
+    {
+        "chi" "**僵尸将在15秒后出动!**"
+    }
+
+    "***Zombies will come in 20s!***"
+    {
+        "chi" "**僵尸将在20秒后出击!**"
+    }
+
+    "***Zombies will come in 8s!"
+    {
+        "chi" "**僵尸将在8秒内赶到**"
+    }
+
+    "***Zombies!Feel froyo's force!balabala...***"
+    {
+        "chi" "**僵尸们!感受酸奶世界的力量吧!哈哈哈...**"
+    }
+
+    "***Boss Froyo will destroy all travellers in 5s!"
+    {
+        "chi" "**BOSS酸奶将在5秒后杀死所以旅客**"
+    }
+
+    "***Boss Star will destroy all travellers in 5s!***"
+    {
+        "chi" "**BOSS之星将在5秒后杀死所以旅客**"
+    }
+
+    "***You have 60s to fight Boss Froyo!***"
+    {
+        "chi" "**你们有60秒时间打败BOSS酸奶**"
+    }
+
+    "***You have 90s to fight Boss Star!***"
+    {
+        "chi" "**你们有90秒时间打败BOSS之星**"
+    }
+
+    "***You have 30s to fight Boss Froyo!***"
+    {
+        "chi" "**你们有60秒时间打败BOSS酸奶**"
+    }
+
+    "***You have 60s to fight Boss Star!***"
+    {
+        "chi" "**你们有60秒时间打败BOSS之星**"
+    }
+
+    "***You have 30s to fight Boss Star!***"
+    {
+        "chi" "**你们有30秒时间打败BOSS之星**"
+    }
+
 }

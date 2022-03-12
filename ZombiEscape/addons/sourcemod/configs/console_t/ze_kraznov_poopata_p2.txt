@@ -1,719 +1,792 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "** Among the stars a cavern of endless night in blue and black awaits... **"
-    {
-        "chi" "** **"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "** The cavern is godawful and ugly - as it is a metaphor for your face **"
-    {
-        "chi" "** **"
-    }
 
-    "** TIP: That shit is retarded. Hold a bit and the purple wall will open. **"
+    "** A leap of faith is usually needed to get your endeavours to a good end **"
     {
-        "chi" "** **"
-    }
-
-    "** May you rest again or try hard for a futile bounty... **"
-    {
-        "chi" "** **"
-    }
-
-    "** TIP: Holding without going into the seizure-inducing bridge is good - if you don't want a present. **"
-    {
-        "chi" "** **"
-    }
-
-    "** Go ahead! Your path is full of endless possibilities! **"
-    {
-        "chi" "** **"
-    }
-
-    "** Down you go - perhaps it is sadness knocking? **"
-    {
-        "chi" "** **"
-    }
-
-    "** It's a simple elevator... **"
-    {
-        "chi" "** **"
-    }
-
-    "** Thanks for the tip!!!!!!!!!!!!!!11!!1!1!one **"
-    {
-        "chi" "** **"
-    }
-
-    "** At times the tree of life branches and the green lively leaves have to say goodbye... **"
-    {
-        "chi" "** **"
-    }
-
-    "** TIP: I think that's actually a bit straightforward... UR ALL MORANS!!! **"
-    {
-        "chi" "** **"
-    }
-
-    "** That was not nice. At all. **"
-    {
-        "chi" "** **"
-    }
-
-    "** TIP: Sigh... OK - Split up and press both buttons (red blocks) at the same time (YAY INNOVATIVE!!!) **"
-    {
-        "chi" "** **"
-    }
-
-    "** When the end is near pancakes become tastier **"
-    {
-        "chi" "** **"
-    }
-
-    "** Run for the end! This is like the last stand... GO FULL TRYHARD! **"
-    {
-        "chi" "** **"
-    }
-
-    "** I was the other day like wondering how would zombie pancakes taste... **"
-    {
-        "chi" "** **"
-    }
-
-    "** They'd kinda be gooey and mushy but also crunchy and putrid - so neat **"
-    {
-        "chi" "** **"
-    }
-
-    "** I wish I could eat zombie pancakes for once... **"
-    {
-        "chi" "** **"
-    }
-
-    "** Please kill. Faster kill. Go kill. Kill kill. **"
-    {
-        "chi" "** **"
-    }
-
-    "** The pain of being such a horrible map is unbearable... **"
-    {
-        "chi" "** **"
-    }
-
-    "** I hope the creator - THE CREATOR! - steps on a lego and dies of internal bleeding **"
-    {
-        "chi" "** **"
-    }
-
-    "** Oh look! Pancakes!!! **"
-    {
-        "chi" "** **"
-    }
-
-    "** Descend back to purity to play the games that had once freed you **"
-    {
-        "chi" "** **"
-    }
-
-    "** and meet again the wippity part of yourselves... **"
-    {
-        "chi" "** **"
-    }
-
-    "** TIP: I think that means you have to play some puzzle or game now... **"
-    {
-        "chi" "** **"
-    }
-
-    "** There is an orange cube thing and a sorta basket thing... Might it be basketball? **"
-    {
-        "chi" "** **"
-    }
-
-    "** And now for once meet the universally known bridges of stupidity! **"
-    {
-        "chi" "** **"
-    }
-
-    "** The only fierce bridges in the mystical world of belief that enforce backpedalling! **"
-    {
-        "chi" "** **"
-    }
-
-    "** TIP: Walking forward is sketchy. You will have to walk backwards for ease. **"
-    {
-        "chi" "** **"
-    }
-
-    "** Remember! Those bridges are named as such because only stupids backpedal! **"
-    {
-        "chi" "** **"
-    }
-
-    "** This door right here opens faster if you give it some sweet loving - I swear! **"
-    {
-        "chi" "** **"
-    }
-
-    "** TIP: The map would never lie. EVER. Go hug the door. **"
-    {
-        "chi" "** **"
-    }
-
-    "** Use your mouse and jump to hold and get to the end. **"
-    {
-        "chi" "** **"
-    }
-
-    "** There's good news and bad news! **"
-    {
-        "chi" "** **"
-    }
-
-    "** The good news is that the end of the map is close - thank the Holy Molly goo! **"
-    {
-        "chi" "** **"
-    }
-
-    "** The bad ones... well... There's this absurd puzzle thing here I don't even understand. **"
-    {
-        "chi" "** **"
-    }
-
-    "** To the top of the tip in the blue of a fish we've arrived **"
-    {
-        "chi" "** **"
-    }
-
-    "** and as the journey comes to an end the phrases become more and more stale **"
-    {
-        "chi" "** **"
-    }
-
-    "** just to say -yet again- that you have to hold them well! **"
-    {
-        "chi" "** **"
-    }
-
-    "** And now a final leap of faith that only the pure can perform... **"
-    {
-        "chi" "** **"
-    }
-
-    "** I WANT THE MAP TO END! **"
-    {
-        "chi" "** **"
-    }
-
-    "** I WANT THE MAP TO END! **"
-    {
-        "chi" "** **"
-    }
-
-    "** I WANT THE MAP TO END ALREADY FUCK! **"
-    {
-        "chi" "** **"
-    }
-
-    "** Welcome to the mystical island of Kraznov Poopata **"
-    {
-        "chi" "** **"
-    }
-
-    "** Its existence is far away from time or matter - it exists out of pure belief **"
-    {
-        "chi" "** **"
-    }
-
-    "** The horror of absolute reason of no doubt might be released soon! Beware! **"
-    {
-        "chi" "** **"
+        "chi" "通常需要一个信念的飞跃,让你的努力达到一个好的结局!"
     }
 
     "** A wall of stubbornness will open soon and will the journey begin... **"
     {
-        "chi" "** **"
-    }
-
-    "** YOU'RE GETTING POOPFARTED FOR BEING 2LOW WACKOS **"
-    {
-        "chi" "** **"
-    }
-
-    "** ERRBODY GETTIN' DEDED - GO H8 THE MAP MOAR! **"
-    {
-        "chi" "** **"
-    }
-
-    "** You might be exhausted from all that physical exercise - take the elevator! **"
-    {
-        "chi" "** **"
-    }
-
-    "** Staying in the middle is the best way to ensure you will go up... **"
-    {
-        "chi" "** **"
-    }
-
-    "** Now reborn into pure innocence freedom comes at last... **"
-    {
-        "chi" "** **"
-    }
-
-    "** Another uppity down thingo wacko thong... The mapper obviously doesn't know what to do! **"
-    {
-        "chi" "** **"
-    }
-
-    "** Cooperation for once brought success to the situation **"
-    {
-        "chi" "** **"
-    }
-
-    "** Who would have said... Heh? **"
-    {
-        "chi" "** **"
-    }
-
-    "** Most of the time patience is virtue - the rest of it it's just boring **"
-    {
-        "chi" "** **"
-    }
-
-    "** Yeah right... Let's hold right here again because we need to make this awful map even longer. **"
-    {
-        "chi" "** **"
-    }
-
-    "** MAD FUCKING MAPPING SKILLS. I. TELL. YOU. **"
-    {
-        "chi" "** **"
-    }
-
-    "** A leap of faith is usually needed to get your endeavours to a good end **"
-    {
-        "chi" "** **"
-    }
-
-    "** Great! Now we all might die if the map is just a troll map. REAL FUCKING FUN. **"
-    {
-        "chi" "** **"
-    }
-
-    "** Most of the time you are waiting for things that aren't worth it **"
-    {
-        "chi" "** **"
-    }
-
-    "** OK! Get going a bit - You'll need to hold that shapeless attempt of a thing right there! **"
-    {
-        "chi" "** **"
-    }
-
-    "** You're kinda starting to get my feelings hurt and it's not nice... **"
-    {
-        "chi" "** **"
-    }
-
-    "** They're obviously bridged nipples! Don't you see? **"
-    {
-        "chi" "** **"
-    }
-
-    "** Why are you even bothering with this map? It's just helpless... **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 1 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 2 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 11 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 4 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 13 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 14 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 15 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 16 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 8 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 7 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 6 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 5 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 12 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 3 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 10 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 9 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 17 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 18 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 27 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 20 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 29 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 30 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 31 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 32 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 24 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 23 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 22 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 21 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 28 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 19 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 26 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 25 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 33 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 34 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 43 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 36 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 45 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 46 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 47 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 48 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 40 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 39 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 38 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 37 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 44 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 35 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 42 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 41 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 49 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 50 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 59 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 52 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 61 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 62 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 63 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 64 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 56 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 55 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 54 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 53 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 60 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 51 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 58 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Map: 57 - People that make their mom ashamed with their stupidity: 0 **"
-    {
-        "chi" "** **"
-    }
-
-    "** Cool! You solved the puzzle designed for toddlers! **"
-    {
-        "chi" "** **"
-    }
-
-    "** You should probably feel proud **"
-    {
-        "chi" "** **"
-    }
-
-    "** It might be a good idea to get going and try to survive the awkwardness of the map and all... **"
-    {
-        "chi" "** **"
-    }
-
-    "** GET OUT! This map is stinking more and more as time goes by! **"
-    {
-        "chi" "** **"
-    }
-
-    "** Although it is a piss easy puzzle if we are completely fair... Matching colors? Boo! **"
-    {
-        "chi" "** **"
-    }
-
-    "** Really wild - You solved it! **"
-    {
-        "chi" "** **"
-    }
-
-    "** Alright! It's not that we should tryhard here but holding a bit would be cool... **"
-    {
-        "chi" "** **"
-    }
-
-    "** This is just pointless. Another fucking senseless hold? Fuck off. **"
-    {
-        "chi" "** **"
-    }
-
-    "** It's like whoever made this piece of shit wants people to rtv  the fuck out... **"
-    {
-        "chi" "** **"
-    }
-
-    "** I will break the wall pretty fast because it just doesn't make any fucking sense... **"
-    {
-        "chi" "** **"
-    }
-
-    "** HOCUS POCUS ABRA CADABRA YOUR MOM IS A WOOPA CUNTA PALABRA! **"
-    {
-        "chi" "** **"
+        "chi" "一堵固执的墙很快就会打开,旅程将开始......"
     }
 
     "** Again it comes a time to freely jump and just believe you can fly... **"
     {
-        "chi" "** **"
+        "chi" "又到了自由跳跃的时候了,只是相信你可以飞......"
     }
 
-    "** But beware! Perhaps only accurate faith will let you make it! **"
+    "** Alright! It's not that we should tryhard here but holding a bit would be cool... **"
     {
-        "chi" "** **"
+        "chi" "好!这并不是说我们应该在这里努力尝试,但保持一点会很酷......"
+    }
+
+    "** Although it is a piss easy puzzle if we are completely fair... Matching colors? Boo! **"
+    {
+        "chi" "虽然如果我们完全公平,这是一个容易撒尿的谜题......匹配的颜色?喝倒彩!"
+    }
+
+    "** Among the stars a cavern of endless night in blue and black awaits... **"
+    {
+        "chi" "在星星之间,一个蓝色和黑色的无尽夜晚的洞穴等待着......"
     }
 
     "** And all this tiresome effort for a simple cartoony cock? Oh dear... **"
     {
-        "chi" "** **"
+        "chi" "所有这些令人厌烦的努力对于一个简单的卡通公鸡?哦,亲爱的..."
+    }
+
+    "** and as the journey comes to an end the phrases become more and more stale **"
+    {
+         "chi" "随着旅程的结束,短语变得越来越陈旧."
+    }
+
+    "** and meet again the wippity part of yourselves... **"
+    {
+        "chi" "并再次遇见你们自己的妻子..."
+    }
+
+    "** And now a final leap of faith that only the pure can perform... **"
+    {
+        "chi" "现在,只有纯洁才能实现信仰的最后一步......"
+    }
+
+    "** And now for once meet the universally known bridges of stupidity! **"
+    {
+        "chi" "现在,一次遇见众所周知的愚蠢的桥梁!"
+    }
+
+    "** Another uppity down thingo wacko thong... The mapper obviously doesn't know what to do! **"
+    {
+        "chi" "另一个可怜的东西丁字裤...测绘师显然不知道该怎么办!"
+    }
+
+    "** At times the tree of life branches and the green lively leaves have to say goodbye... **"
+    {
+        "chi" "有时生命树的树枝和绿色活泼的叶子不得不说再见......"
+    }
+
+    "** But beware! Perhaps only accurate faith will let you make it! **"
+    {
+        "chi" "但要小心!也许只有准确的信仰才能让你成功!"
+    }
+
+    "** Cool! You solved the puzzle designed for toddlers! **"
+    {
+        "chi" "酷!你解决了为幼儿设计的难题!你是天才!"
+    }
+
+    "** Cooperation for once brought success to the situation **"
+    {
+        "chi" "合作往往会带来成功局面"
+    }
+
+    "** Descend back to purity to play the games that had once freed you **"
+    {
+        "chi" "回到纯洁,玩曾经解放你的游戏"
+    }
+
+    "** Down you go - perhaps it is sadness knocking? **"
+    {
+        "chi" "你走下去..也许是悲伤敲门?"
+    }
+
+    "** ERRBODY GETTIN' DEDED - GO H8 THE MAP MOAR! **"
+    {
+        "chi" "咕噜咕噜"
+    }
+
+    "** GET OUT! This map is stinking more and more as time goes by! **"
+    {
+        "chi" "出去!随着时间的流逝,这张地图越来越臭!"
+    }
+
+    "** Go ahead! Your path is full of endless possibilities! **"
+    {
+        "chi" "继续!你的道路充满了无限的可能性!"
+    }
+
+    "** Great! Now we all might die if the map is just a troll map. REAL FUCKING FUN. **"
+    {
+        "chi" "伟大!现在,如果地图只是一张巨魔地图,我们所有人都可能会死.真好玩."
+    }
+
+    "** HOCUS POCUS ABRA CADABRA YOUR MOM IS A WOOPA CUNTA PALABRA! **"
+    {
+        "chi" "哦妈妈咪亚"
+    }
+
+    "** I hope the creator - THE CREATOR! - steps on a lego and dies of internal bleeding **"
+    {
+        "chi" "我希望创造者!创造者!踩在乐高积木上,死于内出血"
+    }
+
+    "** I WANT THE MAP TO END ALREADY FUCK! **"
+    {
+        "chi" "结束吧!!"
+    }
+
+    "** I WANT THE MAP TO END! **"
+    {
+        "chi" "我希望地图结束!"
+    }
+
+    "** I was the other day like wondering how would zombie pancakes taste... **"
+    {
+        "chi" "前几天我想知道僵尸煎饼的味道如何......"
+    }
+
+    "** I will break the wall pretty fast because it just doesn't make any fucking sense... **"
+    {
+        "chi" "我会很快打破这堵墙,因为它没有任何意义......"
+    }
+
+    "** I wish I could eat zombie pancakes for once... **"
+    {
+        "chi" "我希望我能吃一次僵尸煎饼..."
+    }
+
+    "** It might be a good idea to get going and try to survive the awkwardness of the map and all... **"
+    {
+        "chi" "开始尝试在地图和所有东西的尴尬中生存下来可能是一个好主意......"
+    }
+
+    "** It's a simple elevator... **"
+    {
+        "chi" "很明显,这是一个电梯..."
+    }
+
+    "** Its existence is far away from time or matter - it exists out of pure belief **"
+    {
+        "chi" "它的存在远离时间或物质,它的存在是出于纯粹的信仰"
+    }
+
+    "** It's like whoever made this piece of shit wants people to rtv  the fuck out... **"
+    {
+        "chi" "老子的意大利炮呢?"
+    }
+
+    "** just to say -yet again- that you have to hold them well! **"
+    {
+        "chi" "只是要再说一遍,你必须把它们握好!"
+    }
+
+    "** MAD FUCKING MAPPING SKILLS. I. TELL. YOU. **"
+    {
+        "chi" "疯狂的映射技能!我告诉你."
+    }
+
+    "** Map: 1 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 10 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 11 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 12 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 13 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 14 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 15 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 16 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 17 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 18 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 19 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 2 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 20 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 21 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 22 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 23 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 24 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 25 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 26 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 27 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 28 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 29 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 3 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 30 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 31 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 32 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 33 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 34 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 35 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+    }
+
+    "** Map: 36 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 37 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 38 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 39 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 4 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 40 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 41 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 42 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 43 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 44 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 45 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 46 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 47 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 48 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 49 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 5 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 50 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 51 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 52 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 53 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 54 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 55 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 56 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 57 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 58 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 59 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 6 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 60 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "blocked"    "1"
+        "chi" "__null__"
+    }
+
+    "** Map: 61 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 62 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 63 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 64 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 7 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 8 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** Map: 9 - People that make their mom ashamed with their stupidity: 0 **"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "** May you rest again or try hard for a futile bounty... **"
+    {
+        "chi" "愿你再次休息,或者努力争取徒劳的赏金......"
+    }
+
+    "** Most of the time patience is virtue - the rest of it it's just boring **"
+    {
+        "chi" "大多数时候,耐心是美德 - 其余的只是无聊"
+    }
+
+    "** Most of the time you are waiting for things that aren't worth it **"
+    {
+        "chi" "大多数时候,你都在等待不值得的事情."
+    }
+
+    "** Now reborn into pure innocence freedom comes at last... **"
+    {
+        "chi" "现在,重生到纯洁纯净的自由终于来了......"
+    }
+
+    "** Oh look! Pancakes!!! **"
+    {
+        "chi" "哦!看啊!煎饼!!!"
+    }
+
+    "** OK! Get going a bit - You'll need to hold that shapeless attempt of a thing right there! **"
+    {
+        "chi" "还行!开始吧,你需要在那里保持一个东西的无形尝试!"
+    }
+
+    "** Please kill. Faster kill. Go kill. Kill kill. **"
+    {
+        "chi" "杀吧!杀吧!哈哈哈哈!杀戮的快感,淹没我把!"
+    }
+
+    "** Really wild - You solved it! **"
+    {
+        "chi" "真的很狂野,你解决了它"
+    }
+
+    "** Remember! Those bridges are named as such because only stupids backpedal! **"
+    {
+        "chi" "记得!这些桥梁之所以这样命名,是因为只有愚蠢的人才会退缩!"
+    }
+
+    "** Run for the end! This is like the last stand... GO FULL TRYHARD! **"
+    {
+        "chi" "为终点而奔跑!这就像最后一站...全力以赴!"
+    }
+
+    "** Staying in the middle is the best way to ensure you will go up... **"
+    {
+        "chi" "留在中间是确保你上去的最好方法......"
+    }
+
+    "** Thanks for the tip!!!!!!!!!!!!!!11!!1!1!one **"
+    {
+        "chi" "感谢您的提示!!!!!!!!"
+    }
+
+    "** That was not nice. At all. **"
+    {
+        "chi" "这并不好!完全不好!"
+    }
+
+    "** The bad ones... well... There's this absurd puzzle thing here I don't even understand. **"
+    {
+        "chi" "这里有一个荒谬的谜题,我甚至不明白!"
+    }
+
+    "** The cavern is godawful and ugly - as it is a metaphor for your face **"
+    {
+        "chi" "洞穴是可怕的和丑陋的,因为它是你的脸的隐喻"
+    }
+
+    "** The good news is that the end of the map is close - thank the Holy Molly goo! **"
+    {
+        "chi" "好消息是地图的尽头已经接近了,感谢神圣的莫莉咕噜!"
+    }
+
+    "** The horror of absolute reason of no doubt might be released soon! Beware! **"
+    {
+        "chi" "毫无疑问的绝对理性的恐怖可能很快就会释放!小心!"
+    }
+
+    "** The only fierce bridges in the mystical world of belief that enforce backpedalling! **"
+    {
+        "chi" "在神秘的信仰世界中,唯一一座强制倒退的激烈桥梁!"
+    }
+
+    "** The pain of being such a horrible map is unbearable... **"
+    {
+        "chi" "成为如此可怕的地图的痛苦是无法忍受的..."
+    }
+
+    "** There is an orange cube thing and a sorta basket thing... Might it be basketball? **"
+    {
+        "chi" "有一个橙色的立方体的东西和一个篮子的东西...是篮球吗?"
+    }
+
+    "** There's good news and bad news! **"
+    {
+        "chi" "有好消息也有坏消息!!你想听那个?"
+    }
+
+    "** They'd kinda be gooey and mushy but also crunchy and putrid - so neat **"
+    {
+        "chi" "它们有点粘稠和糊状,但也很脆和腐烂,如此整洁"
+    }
+
+    "** They're obviously bridged nipples! Don't you see? **"
+    {
+        "chi" "它们显然是桥接的!你没看到吗?"
+    }
+
+    "** This door right here opens faster if you give it some sweet loving - I swear! **"
+    {
+        "chi" "这扇门打开得更快,如果你给它一些甜蜜的爱!我发誓!"
+    }
+
+    "** This is just pointless. Another fucking senseless hold? Fuck off. **"
+    {
+        "chi" "这是毫无意义的!又毫无意义的抱?滚开!!"
+    }
+
+    "** TIP: Holding without going into the seizure-inducing bridge is good - if you don't want a present. **"
+    {
+        "chi" "提示:保持不进入诱发癫痫发作的桥是好的!如果你不想要礼物!"
+    }
+
+    "** TIP: I think that means you have to play some puzzle or game now... **"
+    {
+        "chi" "提示:我认为这意味着你现在必须玩一些益智游戏或游戏......"
+    }
+
+    "** TIP: I think that's actually a bit straightforward... UR ALL MORANS!!! **"
+    {
+        "chi" "提示:我认为这实际上有点简单...乌尔所有莫兰人!!!"
+    }
+
+    "** TIP: Sigh... OK - Split up and press both buttons (red blocks) at the same time (YAY INNOVATIVE!!!) **"
+    {
+        "chi" "提示:叹息...确定拆分并同时按下两个按钮[红色块]"
+    }
+
+    "** TIP: That shit is retarded. Hold a bit and the purple wall will open. **"
+    {
+        "chi" "提示:那个狗屎是迟钝的!抱住一点,紫色的墙就会打开"
+    }
+
+    "** TIP: The map would never lie. EVER. Go hug the door. **"
+    {
+        "chi" "提示:地图永远不会说谎!去拥抱门!"
+    }
+
+    "** TIP: Walking forward is sketchy. You will have to walk backwards for ease. **"
+    {
+        "chi" "提示:向前走是粗略的!为了方便起见,您将不得不向后走"
+    }
+
+    "** To the top of the tip in the blue of a fish we've arrived **"
+    {
+        "chi" "在尖端的顶部,我们到达的蓝色的鱼"
+    }
+
+    "** Use your mouse and jump to hold and get to the end. **"
+    {
+        "chi" "使用鼠标并跳跃以保持并到达终点"
+    }
+
+    "** Welcome to the mystical island of Kraznov Poopata **"
+    {
+        "chi" "欢迎来到神秘的克拉兹诺夫波帕塔岛"
+    }
+
+    "** When the end is near pancakes become tastier **"
+    {
+        "chi" "当结束接近时,煎饼变得更美味"
+    }
+
+    "** Who would have said... Heh? **"
+    {
+        "chi" "谁会说...嘿?"
+    }
+
+    "** Why are you even bothering with this map? It's just helpless... **"
+    {
+        "chi" "你为什么还要为这张地图而烦恼?只是无助..."
+    }
+
+    "** Yeah right... Let's hold right here again because we need to make this awful map even longer. **"
+    {
+        "chi" "是的,没错...让我们再次坚持在这里,因为我们需要让这张可怕的地图更长"
+    }
+
+    "** You might be exhausted from all that physical exercise - take the elevator! **"
+    {
+        "chi" "你可能会因为所有的体育锻炼而筋疲力尽!乘坐电梯!"
+    }
+
+    "** You should probably feel proud **"
+    {
+        "chi" "你应该感到自豪!"
+    }
+
+    "** YOU'RE GETTING POOPFARTED FOR BEING 2LOW WACKOS **"
+    {
+        "chi" "你因为是2LOW WACKOS而被痛扁"
+    }
+
+    "** You're kinda starting to get my feelings hurt and it's not nice... **"
+    {
+        "chi" "你有点开始让我的感情受到伤害,这并不好......"
+    }
+
+    "er1 Console:Command:say ** Oh! Statistics time! **:0:1"
+    {
+        "chi" "er1 控制台:命令:说** 哦!统计时间!**:0:1"
     }
 
 }

@@ -1,0 +1,74 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "[Music] Barry White - You're The First The Last My Everything"
+    {
+        "chi" "__null__"
+    }
+
+    "[Music] Daft Punk - Get Lucky"
+    {
+        "chi" "__null__"
+    }
+
+    "[Music] Eagles - Hotel California"
+    {
+        "chi" "__null__"
+    }
+
+    "[Music] Electric Light Orchestra - Mr. Blue Sky"
+    {
+        "chi" "__null__"
+    }
+
+    "[Music] Michael Jackson - Love Never Felt So Good"
+    {
+        "chi" "__null__"
+    }
+
+    "[Music] Queen & David Bowie - Under Pressure"
+    {
+        "chi" "__null__"
+    }
+
+    "[Music] Van Halen - Jump"
+    {
+        "chi" "__null__"
+    }
+
+    "1"
+    {
+        "chi" "__null__"
+    }
+
+    "2"
+    {
+        "chi" "__null__"
+    }
+
+    "3"
+    {
+        "chi" "__null__"
+    }
+
+    "4"
+    {
+        "chi" "__null__"
+    }
+
+    "5"
+    {
+        "chi" "__null__"
+    }
+
+}

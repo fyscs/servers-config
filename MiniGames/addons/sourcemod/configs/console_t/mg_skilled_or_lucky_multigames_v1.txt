@@ -1,28 +1,36 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "*Knife Equipped*"
+
+    "*...*"
     {
-        "chi" "匕首已发放"
+        "chi" "..."
     }
 
-    "*Knife Equipped in 10 sec*"
+    "*1*"
     {
-        "chi" "!~ 10秒钟后发放匕首"
+        "chi" "1"
+        "blocked" "1"
     }
 
-    "*Wall Breaking*"
+    "*10*"
     {
-        "chi" "墙壁已消失"
+        "chi" "10"
     }
 
-    "*Wall Breaking in 10 sec*"
+    "*2*"
     {
-        "chi" "!~ 10秒钟后墙壁碎裂"
+        "chi" "2"
+        "blocked" "1"
     }
 
     "*3*"
@@ -30,16 +38,40 @@
         "chi" "3"
     }
 
-    "*2*"
+    "*4*"
     {
+        "chi" "4"
         "blocked" "1"
-        "chi" "2"
     }
 
-    "*1*"
+    "*5*"
     {
+        "chi" "5"
         "blocked" "1"
-        "chi" "1"
+    }
+
+    "*6*"
+    {
+        "chi" "6"
+        "blocked" "1"
+    }
+
+    "*7*"
+    {
+        "chi" "7"
+        "blocked" "1"
+    }
+
+    "*8*"
+    {
+        "chi" "8"
+        "blocked" "1"
+    }
+
+    "*9*"
+    {
+        "chi" "9"
+        "blocked" "1"
     }
 
     "*Fight!*"
@@ -57,6 +89,273 @@
         "chi" "地板已消失"
     }
 
+    "*Knife Equipped in 10 sec*"
+    {
+        "chi" "!~ 10秒钟后发放匕首"
+    }
+
+    "*Knife Equipped*"
+    {
+        "chi" "匕首已发放"
+    }
+
+    "*Outside Position Killer in 5 sec*"
+    {
+        "chi" "未选点的玩家将会在5秒钟后处死"
+    }
+
+    "*Outside Position Killer On*"
+    {
+        "chi" "未选点玩家已处死"
+    }
+
+    "*Select Position in 20 sec*"
+    {
+        "chi" "!~ 在20秒内选择你的点位"
+    }
+
+    "*Wall Breaking in 10 sec*"
+    {
+        "chi" "!~ 10秒钟后墙壁碎裂"
+    }
+
+    "*Wall Breaking*"
+    {
+        "chi" "墙壁已消失"
+    }
+
+    "[AFK] Vote Randomizer 1min"
+    {
+        "chi" "!~ 1分钟后自动选图"
+    }
+
+    "[FEAT] freakazoid"
+    {
+        "chi" "freakazoid"
+    }
+
+    "[FEAT] jasonR"
+    {
+        "chi" "jasonR"
+    }
+
+    "[FEAT] mOE"
+    {
+        "chi" "mOE"
+    }
+
+    "[FEAT] NiKo"
+    {
+        "chi" "NiKo"
+    }
+
+    "[FEAT] olofmeister"
+    {
+        "chi" "olofmeister"
+    }
+
+    "[FEAT] pashaBiceps"
+    {
+        "chi" "pashaBiceps"
+    }
+
+    "[FEAT] S1mple"
+    {
+        "chi" "S1mple"
+    }
+
+    "[FEAT] ScreaM"
+    {
+        "chi" "ScreaM"
+    }
+
+    "[FEAT] Shroud"
+    {
+        "chi" "Shroud"
+    }
+
+    "[FEAT] Snax"
+    {
+        "chi" "Snax"
+    }
+
+    "[FEAT] Stewie2K"
+    {
+        "chi" "Stewie2K"
+    }
+
+    "[GAME] 1vs1 Knife"
+    {
+        "chi" "1v1刀战"
+    }
+
+    "[GAME] 200 IQ Hegrenade"
+    {
+        "chi" "!~ 200IQ手雷"
+    }
+
+    "[GAME] All Weapon Randomizer Fight"
+    {
+        "chi" "全武器随机乱斗"
+    }
+
+    "[GAME] Boostmeister"
+    {
+        "chi" "Boostmeister"
+    }
+
+    "[GAME] BunnyHop"
+    {
+        "chi" "连跳"
+    }
+
+    "[GAME] Coldzera Style"
+    {
+        "chi" "Coldzera Style"
+    }
+
+    "[GAME] Dinked"
+    {
+        "chi" "迪狗"
+    }
+
+    "[GAME] EDShot Machine"
+    {
+        "chi" "EDShot Machine"
+    }
+
+    "[GAME] King of Reddit"
+    {
+        "chi" "Reddit之王"
+    }
+
+    "[GAME] My Friends"
+    {
+        "chi" "My Friends"
+    }
+
+    "[GAME] Pasha London School"
+    {
+        "chi" "Pasha London School"
+    }
+
+    "[GAME] Rush B"
+    {
+        "chi" "RUSH B!"
+    }
+
+    "[GAME] Smoke Criminal"
+    {
+        "chi" "Smoke Criminal"
+    }
+
+    "[GAME] Spawn Fight"
+    {
+        "chi" "出生点乱斗"
+    }
+
+    "[GAME] Undertaker"
+    {
+        "chi" "Undertaker"
+    }
+
+    "[GAME] Word.exe"
+    {
+        "chi" "Word.exe"
+    }
+
+    "[GROUP] makesMGgreatAgain"
+    {
+        "chi" "作者的组: makesMGgreatAgain"
+        "blocked" "1"
+    }
+
+    "[MAP] Made by Dus?K"
+    {
+        "chi" "地图作者: Dus?K"
+    }
+
+    "[MAP] mg_Skilled_or_Lucky_Multigames"
+    {
+        "chi" "mg_Skilled_or_Lucky_Multigames"
+    }
+
+    "[MUSIC] AJR - Burn The House Down"
+    {
+        "chi" "BGM: AJR - Burn The House Down"
+    }
+
+    "[MUSIC] Besomorph & Drama B - Stature"
+    {
+        "chi" "BGM: Besomorph & Drama B - Stature"
+    }
+
+    "[MUSIC] Bryce Fox - Horns (STeLOUSE Remix)"
+    {
+        "chi" "BGM: Bryce Fox - Horns (STeLOUSE Remix)"
+    }
+
+    "[MUSIC] EDShot Machine (feat. Thorin)"
+    {
+        "chi" "BGM: EDShot Machine (feat. Thorin)"
+    }
+
+    "[MUSIC] Jacob Lee - Demons"
+    {
+        "chi" "BGM: Jacob Lee - Demons"
+    }
+
+    "[MUSIC] Kerli - Savages"
+    {
+        "chi" "BGM: Kerli - Savages"
+    }
+
+    "[MUSIC] La Caution - The a la Menthe (Instrumental)"
+    {
+        "chi" "BGM: La Caution - The a la Menthe (Instrumental)"
+    }
+
+    "[MUSIC] LAYTO - Little Poor Me"
+    {
+        "chi" "BGM: LAYTO - Little Poor Me"
+    }
+
+    "[MUSIC] Skan & Krale - No Glory (feat. M.I.M.E & Drama B)"
+    {
+        "chi" "BGM: Skan & Krale - No Glory (feat. M.I.M.E & Drama B)"
+    }
+
+    "[MUSIC] SLAV KING - Boris vs. DJ Blyatman"
+    {
+        "chi" "BGM: SLAV KING - Boris vs. DJ Blyatman"
+    }
+
+    "[MUSIC] Unlike Pluto ft. Mike Taylor - Everything Black"
+    {
+        "chi" "BGM: Unlike Pluto ft. Mike Taylor - Everything Black"
+    }
+
+    "[MUSIC] Ween - Ocean Man"
+    {
+        "chi" "BGM: Ween - Ocean Man"
+    }
+
+    "[SERVER] Revenant Server MiniGame"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "[WEAPON] AK-47"
+    {
+        "chi" "AK47"
+    }
+
+    "[WEAPON] All Weapon Randomizer"
+    {
+        "chi" "全随机武器"
+    }
+
     "[WEAPON] AWP"
     {
         "chi" "AWP"
@@ -72,130 +371,9 @@
         "chi" "AWP&Tec9&匕首"
     }
 
-    "*Select Position in 20 sec*"
+    "[WEAPON] CT:AWP & T:Glock-18"
     {
-        "chi" "!~ 在20秒内选择你的点位"
-    }
-
-    "*Outside Position Killer in 5 sec*"
-    {
-        "chi" "未选点的玩家将会在5秒钟后处死"
-    }
-
-    "*Outside Position Killer On*"
-    {
-        "chi" "未选点玩家已处死"
-    }
-
-    "*10*"
-    {
-        "chi" "10"
-    }
-
-    "*9*"
-    {
-        "blocked" "1"
-        "chi" "9"
-    }
-
-    "*8*"
-    {
-        "blocked" "1"
-        "chi" "8"
-    }
-
-    "*7*"
-    {
-        "blocked" "1"
-        "chi" "7"
-    }
-
-    "*6*"
-    {
-        "blocked" "1"
-        "chi" "6"
-    }
-
-    "*5*"
-    {
-        "blocked" "1"
-        "chi" "5"
-    }
-
-    "*4*"
-    {
-        "blocked" "1"
-        "chi" "4"
-    }
-
-    "*...*"
-    {
-        "chi" "..."
-    }
-
-    "[GAME] 200 IQ Hegrenade"
-    {
-        "chi" "!~ 200IQ手雷"
-    }
-
-    "[WEAPON] Hegrenade"
-    {
-        "chi" "高爆手雷"
-    }
-
-    "[GAME] King of Reddit"
-    {
-        "chi" "Reddit之王"
-    }
-
-    "[FEAT] Shroud"
-    {
-        "chi" "Shroud"
-    }
-
-    "[GAME] 1vs1 Knife"
-    {
-        "chi" "1v1刀战"
-    }
-
-    "[WEAPON] Knife"
-    {
-        "chi" "匕首"
-    }
-
-    "[GAME] My Friends"
-    {
-        "chi" "My Friends"
-    }
-
-    "[FEAT] pashaBiceps"
-    {
-        "chi" "pashaBiceps"
-    }
-
-    "[WEAPON] Dual Berettas"
-    {
-        "chi" "双持贝瑞塔"
-    }
-
-    "[GAME] Pasha London School"
-    {
-        "chi" "Pasha London School"
-    }
-
-    "[FEAT] Snax"
-    {
-        "chi" "Snax"
-    }
-
-    "[WEAPON] MAG-7"
-    {
-        "chi" "MAG-7"
-    }
-
-    "[GAME] Rush B"
-    {
-        "chi" "RUSH B!"
+        "chi" "CT:AWP & T:Glock"
     }
 
     "[WEAPON] CT:USP-S & T:Glock-18"
@@ -203,59 +381,24 @@
         "chi" "CT:USP & T:Glock"
     }
 
-    "[MUSIC] SLAV KING - Boris vs. DJ Blyatman"
+    "[WEAPON] Desert Eagle"
     {
-        "chi" "BGM: SLAV KING - Boris vs. DJ Blyatman"
+        "chi" "沙鹰"
     }
 
-    "[GAME] Smoke Criminal"
+    "[WEAPON] Dual Berettas"
     {
-        "chi" "Smoke Criminal"
+        "chi" "双持贝瑞塔"
     }
 
-    "[FEAT] Stewie2K"
+    "[WEAPON] Hegrenade"
     {
-        "chi" "Stewie2K"
+        "chi" "高爆手雷"
     }
 
-    "[WEAPON] Smoke & Taser"
+    "[WEAPON] Knife"
     {
-        "chi" "烟雾弹与电击枪"
-    }
-
-    "[GAME] Spawn Fight"
-    {
-        "chi" "出生点乱斗"
-    }
-
-    "[FEAT] freakazoid"
-    {
-        "chi" "freakazoid"
-    }
-
-    "[WEAPON] All Weapon Randomizer"
-    {
-        "chi" "全随机武器"
-    }
-
-    "[GAME] Undertaker"
-    {
-        "chi" "Undertaker"
-    }
-
-    "[FEAT] S1mple"
-    {
-        "chi" "S1mple"
-    }
-
-    "[GAME] Word.exe"
-    {
-        "chi" "Word.exe"
-    }
-
-    "[FEAT] mOE"
-    {
-        "chi" "mOE"
+        "chi" "匕首"
     }
 
     "[WEAPON] M4A4"
@@ -263,29 +406,14 @@
         "chi" "M4A4"
     }
 
-    "[GAME] All Weapon Randomizer Fight"
+    "[WEAPON] MAG-7"
     {
-        "chi" "全武器随机乱斗"
+        "chi" "MAG-7"
     }
 
-    "[FEAT] jasonR"
+    "[WEAPON] Smoke & Taser"
     {
-        "chi" "jasonR"
-    }
-
-    "[MUSIC] Ween - Ocean Man"
-    {
-        "chi" "BGM: Ween - Ocean Man"
-    }
-
-    "[GAME] Boostmeister"
-    {
-        "chi" "Boostmeister"
-    }
-
-    "[FEAT] olofmeister"
-    {
-        "chi" "olofmeister"
+        "chi" "烟雾弹与电击枪"
     }
 
     "[WEAPON] SSG 08"
@@ -293,131 +421,9 @@
         "chi" "!~ SSG 08"
     }
 
-    "[GAME] BunnyHop"
-    {
-        "chi" "连跳"
-    }
-
     "[WEAPON] USP-S"
     {
         "chi" "USP"
-    }
-
-    "[MUSIC] La Caution - The a la Menthe (Instrumental)"
-    {
-        "chi" "BGM: La Caution - The a la Menthe (Instrumental)"
-    }
-
-    "[GAME] Coldzera Style"
-    {
-        "chi" "Coldzera Style"
-    }
-
-    "[WEAPON] CT:AWP & T:Glock-18"
-    {
-        "chi" "CT:AWP & T:Glock"
-    }
-
-    "[GAME] Dinked"
-    {
-        "chi" "迪狗"
-    }
-
-    "[FEAT] NiKo"
-    {
-        "chi" "NiKo"
-    }
-
-    "[WEAPON] Desert Eagle"
-    {
-        "chi" "沙鹰"
-    }
-
-    "[GAME] EDShot Machine"
-    {
-        "chi" "EDShot Machine"
-    }
-
-    "[FEAT] ScreaM"
-    {
-        "chi" "ScreaM"
-    }
-
-    "[WEAPON] AK-47"
-    {
-        "chi" "AK47"
-    }
-
-    "[MUSIC] EDShot Machine (feat. Thorin)"
-    {
-        "chi" "BGM: EDShot Machine (feat. Thorin)"
-    }
-
-    "[MUSIC] AJR - Burn The House Down"
-    {
-        "chi" "BGM: AJR - Burn The House Down"
-    }
-
-    "[MUSIC] Jacob Lee - Demons"
-    {
-        "chi" "BGM: Jacob Lee - Demons"
-    }
-
-    "[MUSIC] Kerli - Savages"
-    {
-        "chi" "BGM: Kerli - Savages"
-    }
-
-    "[MUSIC] Bryce Fox - Horns (STeLOUSE Remix)"
-    {
-        "chi" "BGM: Bryce Fox - Horns (STeLOUSE Remix)"
-    }
-
-    "[MUSIC] LAYTO - Little Poor Me"
-    {
-        "chi" "BGM: LAYTO - Little Poor Me"
-    }
-
-    "[MUSIC] Skan & Krale - No Glory (feat. M.I.M.E & Drama B)"
-    {
-        "chi" "BGM: Skan & Krale - No Glory (feat. M.I.M.E & Drama B)"
-    }
-
-    "[MUSIC] Unlike Pluto ft. Mike Taylor - Everything Black"
-    {
-        "chi" "BGM: Unlike Pluto ft. Mike Taylor - Everything Black"
-    }
-
-    "[MUSIC] Besomorph & Drama B - Stature"
-    {
-        "chi" "BGM: Besomorph & Drama B - Stature"
-    }
-
-    "[MAP] mg_Skilled_or_Lucky_Multigames"
-    {
-        "chi" "mg_Skilled_or_Lucky_Multigames"
-    }
-
-    "[MAP] Made by Dus?K"
-    {
-        "chi" "地图作者: Dus?K"
-    }
-
-    "[SERVER] Revenant Server MiniGame"
-    {
-        "blocked" "1"
-        "chi" "** **"
-    }
-
-    "[GROUP] makesMGgreatAgain"
-    {
-        "blocked" "1"
-        "chi" "作者的组: makesMGgreatAgain"
-    }
-
-    "[AFK] Vote Randomizer 1min"
-    {
-        "chi" "!~ 1分钟后自动选图"
     }
 
 }
