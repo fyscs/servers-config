@@ -1,0 +1,40 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "- > 35 < -"
+    {
+        "chi" "**35**"
+    }
+
+    "- > 50 < -"
+    {
+        "chi" "**50**"
+    }
+
+    "zombie tp - > 10 < -"
+    {
+        "chi" "**僵尸传送:10**"
+    }
+
+    "- > 25 < -"
+    {
+        "chi" "**25**"
+    }
+
+    "**player pickup yinpin**"
+    {
+        "chi" "** **"
+		"blocked"    "1"
+    }
+
+    "**player pickup music gun**"
+    {
+        "chi" "** **"
+		"blocked"    "1"
+    }
+
+}
