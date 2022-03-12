@@ -13,87 +13,87 @@
 
     "-->  1  <--"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "-->  1  <---"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "-->  2  <--"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "-->  2  <---"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "-->  3  <--"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "-->  3  <---"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "--> !!!Teleport Error!!!  <---"
     {
-        "chi" "__null__"
+        "chi" "传送失败!!!"
     }
 
     "--> !!Teleport Error!!  <---"
     {
-        "chi" "__null__"
+        "chi" "传送失败!!!"
     }
 
     "--> !Teleport Error!  <---"
     {
-        "chi" "__null__"
+        "chi" "传送失败!!!"
     }
 
     "--> 10 seconds. <--"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "--> Round restart after 10 seconds.  <--"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "--> Round restart after 20 seconds.  <--"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "--> Round restart after 5 seconds.  <--"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "--> Setting new teleport destination.  <---"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "--> Someone picked up C4 <--"
     {
-        "chi" "__null__"
+        "chi" "有人拿到了C4"
     }
 
     "--> Teleporting in...  <---"
     {
-        "chi" "__null__"
+        "chi" "即将传送..."
     }
 
     "--> Teleporting.... <--"
     {
-        "chi" "__null__"
+        "chi" "正在传送..."
     }
 
 }

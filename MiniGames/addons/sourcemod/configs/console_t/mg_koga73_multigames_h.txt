@@ -153,6 +153,7 @@
     "**Gamemode: P90 Hunting**"
     {
         "chi" "P90猎杀"
+        "notimer" "1"
     }
 
     "**Gamemode: Plant/Defuse**"
@@ -188,6 +189,7 @@
     "**Map by: Koga73 (STEAM_0:0:39320522)**"
     {
         "chi" "地图作者: Koga73 (STEAM_0:0:39320522) 地图汉化: 圣剑@风云社"
+        "notimer" "1"
     }
 
     "**Remember to buy your weapons!**"
@@ -207,7 +209,7 @@
 
     "**Weapons Refreshed**"
     {
-        "chi" "__null__"
+        "chi" "武器已刷新"
     }
 
     "**You have 15 seconds to choose!**"

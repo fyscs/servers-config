@@ -13,37 +13,37 @@
 
     "[OAKS] >> LASERS: ORANGE (HARD)"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "[OAKS] >> WINNER!"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "[OAKS] LASERS: << 1 >>"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "[OAKS] LASERS: << 2 >>"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "[OAKS] LASERS: << 3 >>"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "[OAKS] LASERS: << GO >>"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "[OAKS] No one made it"
     {
-        "chi" "__null__"
+        "chi" "没有能人撑下来."
     }
 
 }

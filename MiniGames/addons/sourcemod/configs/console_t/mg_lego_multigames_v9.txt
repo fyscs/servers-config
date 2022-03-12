@@ -39,26 +39,31 @@
     "@[Hp] 150"
     {
         "chi" "150HP"
+        "notimer" "1"
     }
 
     "@[Hp] 200"
     {
         "chi" "200HP"
+        "notimer" "1"
     }
 
     "@[Hp] 250"
     {
         "chi" "250HP"
+        "notimer" "1"
     }
 
     "@[Hp] 300"
     {
         "chi" "300HP"
+        "notimer" "1"
     }
 
     "@[Hp] 500"
     {
         "chi" "500HP"
+        "notimer" "1"
     }
 
     "@[Map] >1<"
