@@ -28,17 +28,17 @@
 
     "Counter-Terrorists are at 25%"
     {
-        "chi" "CT的比例为25%."
+        "chi" "CT的比例为25."
     }
 
     "Counter-Terrorists are at 50%"
     {
-        "chi" "CT的比例为50%."
+        "chi" "CT的比例为50."
     }
 
     "Counter-Terrorists are at 75%"
     {
-        "chi" "CT的比例为75%."
+        "chi" "CT的比例为75."
     }
 
     "Counter-Terrorists goal!!"
@@ -56,19 +56,19 @@
         "chi" "CT赢了!"
     }
 
-    "Counter-Terrorists: 25%!"
+    "Counter-Terrorists: 25!"
     {
         "chi" "CT:25%!"
     }
 
-    "Counter-Terrorists: 50%!"
+    "Counter-Terrorists: 50!"
     {
         "chi" "CT:50%!"
     }
 
     "Counter-Terrorists: 75%!"
     {
-        "chi" "CT:75%!"
+        "chi" "CT:75!"
     }
 
     "Game: AWP Ghosts"
@@ -248,7 +248,7 @@
 
     "Players are now visible"
     {
-        "chi" "现在可以看到球员了"
+        "chi" "现在可以看到玩家了"
     }
 
     "Players will become visible in 10 seconds"
@@ -263,17 +263,17 @@
 
     "Terrorists are at 25%"
     {
-        "chi" "T的比例为25%"
+        "chi" "T的比例为25"
     }
 
-    "Terrorists are at 50%"
+    "Terrorists are at 50"
     {
-        "chi" "T的比例为50%"
+        "chi" "T的比例为50"
     }
 
     "Terrorists are at 75%"
     {
-        "chi" "T的比例为75%"
+        "chi" "T的比例为75"
     }
 
     "Terrorists goal!!"
@@ -293,17 +293,17 @@
 
     "Terrorists: 25%"
     {
-        "chi" "T:25%"
+        "chi" "T:25"
     }
 
     "Terrorists: 50%"
     {
-        "chi" "T:50%"
+        "chi" "T:50"
     }
 
     "Terrorists: 75%"
     {
-        "chi" "T:75%"
+        "chi" "T:75"
     }
 
 }
