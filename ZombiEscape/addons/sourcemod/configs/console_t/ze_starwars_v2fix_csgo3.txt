@@ -91,11 +91,6 @@
         "chi" "**机器人死了!快走! **"
     }
 
-    "**Fall back! Droids are killed** "
-    {
-        "chi" "**机器人死了!快走! **"
-    }
-
     "**Fall back! The bridge has closed**"
     {
         "chi" "**撤回不要犹豫!桥开了!**"
@@ -121,7 +116,7 @@
         "chi" "**撤退! **"
     }
 
-    "**First door will open in 45 seconds** "
+    "**First door will open in 45 seconds**"
     {
         "chi" "**第一扇大门45秒后打开**"
     }
@@ -141,22 +136,22 @@
         "chi" "**关卡5已完成 **"
     }
 
-    "**Level changes to EPIC** "
+    "**Level changes to EPIC**"
     {
         "chi" "**关卡加载史诗难度**"
     }
 
-    "**Level changes to EXTREME** "
+    "**Level changes to EXTREME**"
     {
         "chi" "**关卡加载极限难度**"
     }
 
-    "**Level changes to HARD** "
+    "**Level changes to HARD**"
     {
         "chi" "**关卡加载困难难度**"
     }
 
-    "**Level changes to NORMAL** "
+    "**Level changes to NORMAL**"
     {
         "chi" "**关卡加载普通难度**"
     }
@@ -214,11 +209,6 @@
     "**The doors will open in 5 seconds**"
     {
         "chi" "**还有5秒!准备撤退! **"
-    }
-
-    "**The doors will open in 5 seconds** "
-    {
-        "chi" "**门5秒后打开**"
     }
 
     "**The droids will be killed in 10 seconds**"

@@ -11,27 +11,22 @@
     // "countdown"  // 添加特殊的独立的倒计时
 
 
-    " >1<"
+    ">1<"
     {
         "chi" "__null__"
     }
 
-    " >10 Seconds remain<"
+    ">2<"
     {
         "chi" "__null__"
     }
 
-    " >2<"
+    ">3<"
     {
         "chi" "__null__"
     }
 
-    " >3<"
-    {
-        "chi" "__null__"
-    }
-
-    " >30 Seconds remain<"
+    ">30 Seconds remain<"
     {
         "chi" "__null__"
     }
@@ -196,22 +191,7 @@
         "chi" "__null__"
     }
 
-    ">1<"
-    {
-        "chi" "__null__"
-    }
-
     ">10 seconds remain<"
-    {
-        "chi" "__null__"
-    }
-
-    ">2<"
-    {
-        "chi" "__null__"
-    }
-
-    ">3<"
     {
         "chi" "__null__"
     }

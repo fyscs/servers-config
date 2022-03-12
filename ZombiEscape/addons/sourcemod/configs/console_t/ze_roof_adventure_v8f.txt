@@ -74,7 +74,7 @@
         "blocked"    "1"
     }
 
-    "***All zombies will be teleported in 9s!*** "
+    "***All zombies will be teleported in 9s!***"
     {
         "chi" "**所有僵尸9秒后传送**"
     }
@@ -442,11 +442,6 @@
     "***Hold for 30s!***"
     {
         "chi" "**守住30秒**"
-    }
-
-    "***All zombies will be teleported in 9s!***"
-    {
-        "chi" "**僵尸9秒后传送**"
     }
 
     "***Rock monster will use forward-push in 3s!***"
