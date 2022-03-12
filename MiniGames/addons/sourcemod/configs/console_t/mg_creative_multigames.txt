@@ -28,17 +28,17 @@
 
     "* Empate - Cuchillo Activado! * 60s o muere"
     {
-        "chi" "__null__"
+        "chi" "Cuchillo Activado"
     }
 
     "* Mas/More*"
     {
-        "chi" "__null__"
+        "chi" "Mas/More"
     }
 
     "* Win/Ganado * HE *"
     {
-        "chi" "__null__"
+        "chi" "Win/Ganado * HE *"
     }
 
     "** Auto MAP **"
@@ -48,7 +48,7 @@
 
     "*** Cuchillo Activado! ***"
     {
-        "chi" "__null__"
+        "chi" "Cuchillo Activado"
     }
 
     "*** El The map will begin within 5 seconds ***"
@@ -73,12 +73,12 @@
 
     "*** GOOL EQUIPO AZUL GANA ***"
     {
-        "chi" "__null__"
+        "chi" "GOOL EQUIPO AZUL GANA"
     }
 
     "*** GOOL EQUIPO ROJO GANA ***"
     {
-        "chi" "__null__"
+        "chi" "GOOL EQUIPO AZUL GANA"
     }
 
     "*** GOOL RED TEAM WINS ***"
@@ -453,67 +453,67 @@
 
     "*Cuchillo/Knife - ON *"
     {
-        "chi" "__null__"
+        "chi" "Cuchillo/Knife - ON"
     }
 
     ">1<"
     {
-        "chi" "__null__"
+        "chi" "1"
     }
 
     ">2<"
     {
-        "chi" "__null__"
+        "chi" "2"
     }
 
     ">3<"
     {
-        "chi" "__null__"
+        "chi" "3"
     }
 
     ">4<"
     {
-        "chi" "__null__"
+        "chi" "4"
     }
 
     ">5<"
     {
-        "chi" "__null__"
+        "chi" "5"
     }
 
     ">GO<"
     {
-        "chi" "__null__"
+        "chi" "Go"
     }
 
     "2s"
     {
-        "chi" "__null__"
+        "chi" "2秒"
     }
 
     "3s"
     {
-        "chi" "__null__"
+        "chi" "3秒"
     }
 
     "4s"
     {
-        "chi" "__null__"
+        "chi" "4秒"
     }
 
     "5s"
     {
-        "chi" "__null__"
+        "chi" "5秒"
     }
 
     "artTouch CMD Client:Command:say *** Round 1 ***:1.5:1"
     {
-        "chi" "__null__"
+        "chi" "Say"
     }
 
     "AutoMode: * Speed * Bridge: OFF"
     {
-        "chi" "自动模式.速度桥接.关闭"
+        "chi" "自动模式:速度桥接.关闭"
     }
 
     "AutoMode: * Velocidad * Puente: OFF"
@@ -533,22 +533,22 @@
 
     "AutoMode: Only (HeadShot) Bridge: OFF"
     {
-        "chi" ""
+        "chi" "Only爆头关闭"
     }
 
     "AutoMode: Solo (HeadShot) Puente: OFF"
     {
-        "chi" "__null__"
+        "chi" "Solo爆头关闭"
     }
 
     "GO"
     {
-        "chi" "__null__"
+        "chi" "GO"
     }
 
     "Go !"
     {
-        "chi" "__null__"
+        "chi" "GO"
     }
 
     "Map by $p@w!"
