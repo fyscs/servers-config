@@ -13,202 +13,203 @@
 
     "***Dont Worry Its Easy...Except For Noobs***"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***Doors Will Open In 1 Seconds***"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***Doors Will Open In 2 Seconds***"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***Doors Will Open In 3 Seconds***"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***Doors Will Open In 4 Seconds***"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***Doors Will Open In 5 Seconds***"
     {
-        "chi" "__null__"
+        "chi" "门将在5秒内打开"
     }
 
     "***First Team To Score 2 Goals Win!!!***"
     {
-        "chi" "__null__"
+        "chi" "哪一队先拿两分赢"
     }
 
     "***Gay...What A Fag!***"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***Good Luck...Your Going Too Need It***"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "***Have Fun!!!***"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "***Have Fun***"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "***Hip-Pop***"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***Lets Play Some Soccer!!!!***"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***Map By: Lt.| iPod***"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***Music Must Be Picked Before You Can Choose A LvL***"
     {
-        "chi" "__null__"
+        "chi" "先选了音乐才能选图"
     }
 
     "***Music Selection is...***"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***Music Selection is....***"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***Rock***"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***Spawn Will Open In 5 Seconds***"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "***Techno***"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***Try to Get To The End First...Or Kill The Other Team Along The Way***"
     {
-        "chi" "__null__"
+        "chi" "尽量先去终点,或者你可以在路上用机关整对面"
     }
 
     "***You Have Chose Random Because You Are A Indecisive Douchebag***"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***You Have Chosen AK--COLT***"
     {
-        "chi" "__null__"
+        "chi" "AK/M4"
+        "notimer" "1"
     }
 
     "***You Have Chosen Autosniper LvL***"
     {
-        "chi" "__null__"
+        "chi" "连狙"
     }
 
     "***You Have Chosen Bhop***"
     {
-        "chi" "__null__"
+        "chi" "连跳"
     }
 
     "***You Have Chosen Climb***"
     {
-        "chi" "__null__"
+        "chi" "攀登"
     }
 
     "***You Have Chosen Death Race***"
     {
-        "chi" "__null__"
+        "chi" "死亡竞速"
     }
 
     "***You Have Chosen Dodgeball***"
     {
-        "chi" "__null__"
+        "chi" "躲避球"
     }
 
     "***You Have Chosen Iceskate***"
     {
-        "chi" "__null__"
+        "chi" "溜冰"
     }
 
     "***You Have Chosen Knife Arena***"
     {
-        "chi" "__null__"
+        "chi" "刀"
     }
 
     "***You Have Chosen Pistols LvL***"
     {
-        "chi" "__null__"
+        "chi" "手枪"
     }
 
     "***You Have Chosen Regular CS:GO***"
     {
-        "chi" "__null__"
+        "chi" "官方休闲"
     }
 
     "***You Have Chosen Scoutzknivez***"
     {
-        "chi" "__null__"
+        "chi" "鸟狙"
     }
 
     "***You Have Chosen Slide Race***"
     {
-        "chi" "__null__"
+        "chi" "滑道竞速"
     }
 
     "***You Have Chosen Soccer***"
     {
-        "chi" "__null__"
+        "chi" "足球"
     }
 
     "***You Have Chosen Volleyball***"
     {
-        "chi" "__null__"
+        "chi" "排球"
     }
 
     ">>>Map ported for SteamGamers by [SG] Punky<<<"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     ">>sm_cvar, say<<"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "Middle Barrier Is Now Lifted"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "Middle Barrier Will Be Lifted In 30 Seconds"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
 }

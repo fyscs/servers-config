@@ -13,22 +13,22 @@
 
     "*** Bank has been chosen ***"
     {
-        "chi" "__null__"
+        "chi" "地图: 银行"
     }
 
     "*** Blinddoge has been chosen ***"
     {
-        "chi" "__null__"
+        "chi" "地图: doge盲射"
     }
 
     "*** Breakcastle has been chosen ***"
     {
-        "chi" "__null__"
+        "chi" "地图: doge城堡"
     }
 
     "*** Bunker has been chosen ***"
     {
-        "chi" "__null__"
+        "chi" "地图: 地堡"
     }
 
     "*** Centre of maze has been reached ***"
@@ -38,12 +38,12 @@
 
     "*** Island has been chosen ***"
     {
-        "chi" "__null__"
+        "chi" "地图: 岛"
     }
 
     "*** Maze has been chosen ***"
     {
-        "chi" "__null__"
+        "chi" "地图: 迷宫"
     }
 
     "*** Maze wall will break in 45 seconds ***"
@@ -53,17 +53,17 @@
 
     "*** Spawn has been chosen ***"
     {
-        "chi" "__null__"
+        "chi" "地图: 出生点"
     }
 
     "C4 Activated"
     {
-        "chi" "C4 已启用"
+        "chi" "C4 已激活"
     }
 
     "Map made by Cloud for Extreme Network"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
 }

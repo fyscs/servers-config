@@ -13,337 +13,338 @@
 
     "[THC LEGO] 10 SECONDS REMAINING"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "[THC LEGO] 2 MINUTES REMAINING"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "[THC LEGO] 3 MINUTES REMAINING"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "[THC LEGO] 60 SECONDS REMAINING"
     {
-        "chi" "__null__"
+        "chi" "还剩下60秒"
     }
 
     "[THC LEGO] AK 47"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "[THC LEGO] ALL PLAYERS IN THE CAGE"
     {
-        "chi" "__null__"
+        "chi" "所有人在一个笼子里面"
     }
 
     "[THC LEGO] AWP"
     {
-        "chi" "__null__"
+        "chi" "大狙"
     }
 
     "[THC LEGO] BHOP - EASY"
     {
-        "chi" "__null__"
+        "chi" "连跳-简单"
     }
 
     "[THC LEGO] BHOP - HARD"
     {
-        "chi" "__null__"
+        "chi" "连跳-困难"
     }
 
     "[THC LEGO] CAR OF DEATH"
     {
-        "chi" "__null__"
+        "chi" "滴滴撞人"
     }
 
     "[THC LEGO] CAR OF DEATH BEGINS"
     {
-        "chi" "__null__"
+        "chi" "滴滴撞人准备开始"
     }
 
     "[THC LEGO] CHAIR KNIFING"
     {
-        "chi" "__null__"
+        "chi" "打椅子"
     }
 
     "[THC LEGO] CHOOSE MAP"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "[THC LEGO] CHOOSING NEW PLAYER..."
     {
-        "chi" "__null__"
+        "chi" "正在选下一个人"
     }
 
     "[THC LEGO] CHOSEN PLAYER IS AFK"
     {
-        "chi" "__null__"
+        "chi" "这个人在挂机"
     }
 
     "[THC LEGO] CLIMB"
     {
-        "chi" "__null__"
+        "chi" "攀登"
     }
 
     "[THC LEGO] COURSE"
     {
-        "chi" "__null__"
+        "chi" "闯关"
     }
 
     "[THC LEGO] CTs ARE ON LEVEL 2"
     {
-        "chi" "__null__"
+        "chi" "CT现在在第二关"
     }
 
     "[THC LEGO] CTs ARE ON LEVEL 3"
     {
-        "chi" "__null__"
+        "chi" "CT现在在第三关"
     }
 
     "[THC LEGO] CT's get Weapons."
     {
-        "chi" "__null__"
+        "chi" "CT拿到枪了"
     }
 
     "[THC LEGO] CTs WIN"
     {
-        "chi" "__null__"
+        "chi" "CT获胜了"
     }
 
     "[THC LEGO] DEAGLE"
     {
-        "chi" "__null__"
+        "chi" "沙鹰"
     }
 
     "[THC LEGO] ELEVATOR"
     {
-        "chi" "__null__"
+        "chi" "电梯"
     }
 
     "[THC LEGO] ENABLING KNIVES IN 5 SECONDS"
     {
-        "chi" "__null__"
+        "chi" "在5秒内开启刀伤"
     }
 
     "[THC LEGO] GAME OVER"
     {
-        "chi" "__null__"
+        "chi" "游戏结束"
     }
 
     "[THC LEGO] GOAL"
     {
-        "chi" "__null__"
+        "chi" "进球啦!"
     }
 
     "[THC LEGO] KILLING EVERYONE IN 10 SECONDS"
     {
-        "chi" "__null__"
+        "chi" "将在10秒后处死所有人"
     }
 
     "[THC LEGO] KILLING EVERYONE IN 20 SECONDS"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "[THC LEGO] KILLING EVERYONE IN 30 SECONDS"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "[THC LEGO] KNIFE"
     {
-        "chi" "__null__"
+        "chi" "刀"
     }
 
     "[THC LEGO] KNIFE MOD - T VS CT"
     {
-        "chi" "__null__"
+        "chi" "刀"
     }
 
     "[THC LEGO] KNIVES ENABLED IN 30 SECONDS"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "[THC LEGO] LOADING RANDOM GAME"
     {
-        "chi" "__null__"
+        "chi" "随机游戏"
     }
 
     "[THC LEGO] LOADING RANDOM GAME..."
     {
-        "chi" "__null__"
+        "chi" "随机游戏"
     }
 
     "[THC LEGO] LONG JUMP"
     {
-        "chi" "__null__"
+        "chi" "长跳"
     }
 
     "[THC LEGO] M4A1-S"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "[THC LEGO] MUSICAL DOORS"
     {
-        "chi" "__null__"
+        "chi" "抢椅子"
     }
 
     "[THC LEGO] NEGEV"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "[THC LEGO] NEW PLAYER IN 10 SECONDS"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "[THC LEGO] NEW PLAYER IN 30 SECONDS"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "[THC LEGO] NO GAME CHOSEN"
     {
-        "chi" "__null__"
+        "chi" "没有选游戏"
     }
 
     "[THC LEGO] NOVA"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "[THC LEGO] PLAYER TELEPORTED"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "[THC LEGO] SCORE 20 POINTS TO WIN"
     {
-        "chi" "__null__"
+        "chi" "先拿20分胜"
     }
 
     "[THC LEGO] SCOUT"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "[THC LEGO] SKIPPING ROPE"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "[THC LEGO] SMOKE BATTLE"
     {
-        "chi" "__null__"
+        "chi" "躲避球"
     }
 
     "[THC LEGO] SOCCER"
     {
-        "chi" "__null__"
+        "chi" "足球"
     }
 
     "[THC LEGO] TELEPORTED PLAYER SEEMS TO BE AFK"
     {
-        "chi" "__null__"
+        "chi" "传上去那个人好像在挂机"
     }
 
     "[THC LEGO] TELEPORTING NEW PLAYER..."
     {
-        "chi" "__null__"
+        "chi" "传送新的人"
     }
 
     "[THC LEGO] TELEPORTING NOW"
     {
-        "chi" "__null__"
+        "chi" "正在传送"
     }
 
     "[THC LEGO] TERRORISTS WIN"
     {
-        "chi" "__null__"
+        "chi" "T获胜了"
     }
 
     "[THC LEGO] TIME LIMIT"
     {
-        "chi" "__null__"
+        "chi" "时间到"
     }
 
     "[THC LEGO] Ts ARE ON LEVEL 2"
     {
-        "chi" "__null__"
+        "chi" "T在第二关"
     }
 
     "[THC LEGO] Ts ARE ON LEVEL 3"
     {
-        "chi" "__null__"
+        "chi" "T在第三关"
     }
 
     "[THC LEGO] T's get Weapons."
     {
-        "chi" "__null__"
+        "chi" "T拿到武器了"
     }
 
     "[THC LEGO] WAR"
     {
-        "chi" "__null__"
+        "chi" "混战"
     }
 
     "[THC LEGO] WAR MAP 2"
     {
-        "chi" "__null__"
+        "chi" "混战图2"
+        "notimer" "1"
     }
 
     "{THC LEGO] DODGE WALLS"
     {
-        "chi" "__null__"
+        "chi" "躲避墙"
     }
 
     ">1<"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     ">2<"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     ">3<"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     ">4<"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     ">5<"
     {
-        "chi" "__null__"
+        "chi" ">5<"
     }
 
     ">Go!<"
     {
-        "chi" "__null__"
+        "chi" "冲!"
     }
 
     "Counter-Terrorists win."
     {
-        "chi" "__null__"
+        "chi" "CT获胜了"
     }
 
     "Terrorists win."
     {
-        "chi" "__null__"
+        "chi" "T获胜了"
     }
 
 }

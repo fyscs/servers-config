@@ -13,27 +13,27 @@
 
     "[Map made by Kirby]"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "[Picking stage] in 1 sec"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "[Picking stage] in 2 sec"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "[Picking stage] in 3 sec"
     {
-        "chi" "__null__"
+        "chi" "3秒内开打"
     }
 
     "[Ported for SteamGamers by [SG] Punky]"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
 }
