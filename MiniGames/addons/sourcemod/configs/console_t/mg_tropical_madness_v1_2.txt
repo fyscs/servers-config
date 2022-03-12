@@ -13,92 +13,94 @@
 
     "***Breach Charge Party selected***"
     {
-        "chi" "__null__"
+        "chi" "遥控C4派对"
+        "notimer" "1"
     }
 
     "***Daring Escape selected***"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "***Don't throw away your decoy! It helps you use Ice Cream weapon :)***"
     {
-        "chi" "__null__"
+        "chi" "__keep__"
     }
 
     "***Exosimon selected***"
     {
-        "chi" "__null__"
+        "chi" "七色花"
     }
 
     "***Exosimon Starting in 10 seconds...***"
     {
-        "chi" "__null__"
+        "chi" "七色花将在10秒内开始"
     }
 
     "***Fightyard Party selected***"
     {
-        "chi" "__null__"
+        "chi" "对枪"
     }
 
     "***Map created by Azet for GameBanana's CSGO Minigame Mapping Contest***"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***Mini Danger Zone selected***"
     {
-        "chi" "__null__"
+        "chi" "迷你绝地求生"
     }
 
     "***Please wear your exojump boots!***"
     {
-        "chi" "__null__"
+        "chi" "快穿外骨骼长跳模块"
     }
 
     "***Please wear your parachute!***"
     {
-        "chi" "__null__"
+        "chi" "快穿降落伞"
     }
 
     "***Random map will be selected in 30 seconds!***"
     {
-        "chi" "__null__"
+        "chi" "将在30秒内随机地图"
+        "notimer" "1"
     }
 
     "***Sentry Rampage selected***"
     {
-        "chi" "__null__"
+        "chi" "无差别杀人机枪"
     }
 
     "***Start!***"
     {
-        "chi" "__null__"
+        "chi" "开始"
     }
 
     "***Teleporting to Mini Danger Zone in 10 seconds!***"
     {
-        "chi" "__null__"
+        "chi" "将在10秒内传送大伙到绝地求生地图"
     }
 
     "***Teleporting to volcano in 10 seconds!***"
     {
-        "chi" "__null__"
+        "chi" "10秒内传送各位到火山"
     }
 
     "***Tropical Soccer selected***"
     {
-        "chi" "__null__"
+        "chi" "足球"
     }
 
     "***Use ctrl+jump!***"
     {
-        "chi" "__null__"
+        "chi" "用 蹲+跳 来用长跳装置"
     }
 
     "***Volcano Volleyball selected***"
     {
-        "chi" "__null__"
+        "chi" "排球"
     }
 
 }

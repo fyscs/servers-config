@@ -116,6 +116,7 @@
     "*** G3SG1 ***"
     {
         "chi" "G3SG1"
+        "notimer" "1"
     }
 
     "*** Galil AR ***"
@@ -146,36 +147,43 @@
     "*** M249 ***"
     {
         "chi" "M249"
+        "notimer" "1"
     }
 
     "*** M4A1-S ***"
     {
         "chi" "M4A1-S"
+        "notimer" "1"
     }
 
     "*** M4A4 ***"
     {
         "chi" "M4A4"
+        "notimer" "1"
     }
 
     "*** MAC-10 ***"
     {
         "chi" "MAC10"
+        "notimer" "1"
     }
 
     "*** MAG-7 ***"
     {
         "chi" "MAG-7"
+        "notimer" "1"
     }
 
     "*** MP7 ***"
     {
         "chi" "MP7"
+        "notimer" "1"
     }
 
     "*** MP9 ***"
     {
         "chi" "MP9"
+        "notimer" "1"
     }
 
     "*** Negev ***"
@@ -191,11 +199,13 @@
     "*** P250 ***"
     {
         "chi" "p250"
+        "notimer" "1"
     }
 
     "*** P90 ***"
     {
         "chi" "P90"
+        "notimer" "1"
     }
 
     "*** PP-Bizon ***"
@@ -211,26 +221,31 @@
     "*** SCAR-20 ***"
     {
         "chi" "SCAR-20"
+        "notimer" "1"
     }
 
     "*** SG 556 ***"
     {
         "chi" "SG 556"
+        "notimer" "1"
     }
 
     "*** SSG 08 ***"
     {
         "chi" "SSG 08"
+        "notimer" "1"
     }
 
     "*** Tec-9 ***"
     {
         "chi" "Tec-9"
+        "notimer" "1"
     }
 
     "*** UMP-45 ***"
     {
         "chi" "UMP-45"
+        "notimer" "1"
     }
 
     "*** USP-S ***"
@@ -241,6 +256,7 @@
     "*** XM1014 ***"
     {
         "chi" "XM1014"
+        "notimer" "1"
     }
 
     "***> Fight! <***"

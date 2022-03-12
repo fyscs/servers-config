@@ -33,13 +33,11 @@
 
     "[AFK TIMER] 10 secs"
     {
-        "chi" "10秒钟后自动选图"
         "blocked" "1"
     }
 
     "[AFK TIMER] 30 secs"
     {
-        "chi" "30秒钟后自动选图"
         "blocked" "1"
     }
 
@@ -50,13 +48,11 @@
 
     "== 1 =="
     {
-        "chi" "== 1 =="
         "blocked" "1"
     }
 
     "== 2 =="
     {
-        "chi" "== 2 =="
         "blocked" "1"
     }
 
@@ -97,7 +93,6 @@
 
     "==The map start in 5sec=="
     {
-        "chi" "==地图将在5秒钟后开始=="
         "blocked" "1"
     }
 

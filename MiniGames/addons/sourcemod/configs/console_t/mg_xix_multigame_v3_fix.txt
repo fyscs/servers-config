@@ -13,62 +13,62 @@
 
     "= = = Auto Map is activated  = = ="
     {
-        "chi" "__null__"
+        "chi" "随机地图"
     }
 
     "= = = Block Push is disabled  = = ="
     {
-        "chi" "__null__"
+        "chi" "方块推力已经关闭"
     }
 
     "= = = Hurry up !!!  = = ="
     {
-        "chi" "__null__"
+        "chi" "快点!!"
     }
 
     "= = = Last Team in the Arena wins the Match !!!  = = ="
     {
-        "chi" "__null__"
+        "chi" "最后还在场的那一队胜利!"
     }
 
     "= = = Music off  = = ="
     {
-        "chi" "__null__"
+        "chi" "音乐关闭"
     }
 
     "= = = The First Player at the Bus drive the Vehicle !!!  = = ="
     {
-        "chi" "__null__"
+        "chi" "先到巴士那个人来开车"
     }
 
     "1"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "2"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "3"
     {
-        "chi" "__null__"
+        "chi" ">3<"
     }
 
     "Choose your attack Team !!!"
     {
-        "chi" "__null__"
+        "chi" "在地面上 选择进攻队伍"
     }
 
     "Map by [XIX]"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "This Mini Game need more Players !!!"
     {
-        "chi" "__null__"
+        "chi" "这个小游戏需要多点人才能玩"
     }
 
 }

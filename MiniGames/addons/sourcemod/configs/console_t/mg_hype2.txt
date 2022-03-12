@@ -13,82 +13,88 @@
 
     "100hp Knife"
     {
-        "chi" "__null__"
+        "chi" "100hp 刀"
+        "notimer" "1"
     }
 
     "35hp Knife"
     {
-        "chi" "__null__"
+        "chi" "35hp 刀"
+        "notimer" "1"
     }
 
     "65hp Knife"
     {
-        "chi" "__null__"
+        "chi" "65hp 刀"
+        "notimer" "1"
     }
 
     "AWP "
     {
-        "chi" "__null__"
+        "chi" "大狙"
     }
 
     "Barrel Box Selected"
     {
-        "chi" "__null__"
+        "chi" "炸油桶"
     }
 
     "Bhop"
     {
-        "chi" "__null__"
+        "chi" "连跳"
     }
 
     "Deagles"
     {
-        "chi" "__null__"
+        "chi" "沙鹰"
     }
 
     "DeathRun"
     {
-        "chi" "__null__"
+        "chi" "闯关"
     }
 
     "Dual Beretta's"
     {
-        "chi" "__null__"
+        "chi" "双持贝瑞塔"
     }
 
     "Duck Hunt v1. CT's are Ducks!"
     {
-        "chi" "__null__"
+        "chi" "打鸭子v1,CT是鸭子"
+        "notimer" "1"
     }
 
     "Duck Hunt v1. T's are Ducks!"
     {
-        "chi" "__null__"
+        "chi" "打鸭子v1,T是鸭子"
+        "notimer" "1"
     }
 
     "Duck Hunt v2, Picking Sides..."
     {
-        "chi" "__null__"
+        "chi" "打鸭子v2,正在选边"
+        "notimer" "1"
     }
 
     "Easter Egg Has Been Found."
     {
-        "chi" "__null__"
+        "chi" "有人找到了彩蛋"
     }
 
     "Football [1hp]"
     {
-        "chi" "__null__"
+        "chi" "一血足球"
     }
 
     "Grenades"
     {
-        "chi" "__null__"
+        "chi" "手雷"
     }
 
     "Iceskate"
     {
-        "chi" "__null__"
+        "chi" "溜冰"
     }
 
     "Knife Damage Enabled!"
@@ -98,72 +104,75 @@
 
     "Level Four Kill Trigger in 10 Seconds!"
     {
-        "chi" "__null__"
+        "chi" "将在10秒内处死第四关里面的人"
     }
 
     "Level One Kill Trigger in 15 Seconds!"
     {
-        "chi" "__null__"
+        "chi" "将在10秒内处死第一关里面的人"
     }
 
     "Level Three Kill Trigger in 10 Seconds!"
     {
-        "chi" "__null__"
+        "chi" "将在10秒内处死第三关里面的人"
     }
 
     "Level Two Kill Trigger in 10 Seconds!"
     {
-        "chi" "__null__"
+        "chi" "将在10秒内处死第二关里面的人"
     }
 
     "Low Gravity Negev War!"
     {
-        "chi" "__null__"
+        "chi" "低重力大菠萝"
     }
 
     "Pistols [HS]"
     {
-        "chi" "__null__"
+        "chi" "手枪爆头"
     }
 
     "Rifle"
     {
-        "chi" "__null__"
+        "chi" "步枪"
     }
 
     "Rifle - AK47"
     {
-        "chi" "__null__"
+        "chi" "步枪-AK47"
+        "notimer" "1"
     }
 
     "ScoutsKnives"
     {
-        "chi" "__null__"
+        "chi" "鸟狙"
     }
 
     "Shotguns"
     {
-        "chi" "__null__"
+        "chi" "喷子"
     }
 
     "Wall Breaks in 5 Seconds!"
     {
-        "chi" "__null__"
+        "chi" "墙将在5秒内消失"
     }
 
     "Wallhacks - M4A1-S"
     {
-        "chi" "__null__"
+        "chi" "透视M4A1-S"
+        "notimer" "1"
     }
 
     "Wallhacks - USP"
     {
-        "chi" "__null__"
+        "chi" "透视USP"
     }
 
     "Welcome to hype2"
     {
         "chi" "欢迎来到hype2"
+        "notimer" "1"
     }
 
 }

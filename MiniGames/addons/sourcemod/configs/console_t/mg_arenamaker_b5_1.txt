@@ -13,127 +13,127 @@
 
     "*  1  *"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "*  2  *"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "*  3  *"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "*  4  *"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "*  5  *"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "10 seconds left."
     {
-        "chi" "__null__"
+        "chi" "还剩下10秒"
     }
 
     "30 seconds left."
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "Activating open field in....."
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "Makers have 70 seconds."
     {
-        "chi" "__null__"
+        "chi" "你有70秒来建造场地"
     }
 
     "Makers have....."
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "Map by Ka[X]de"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "mg_arenamaker_b5_1"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "Note : Snipers are disabled on this map."
     {
-        "chi" "__null__"
+        "chi" "这张图禁用了狙击枪"
     }
 
     "Open field after 10 seconds."
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "Open field after 120 seconds."
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "Open field after 30 seconds."
     {
-        "chi" "__null__"
+        "chi" "将在30秒之后开始乱斗"
     }
 
     "Open field after 60 seconds."
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "Recommend cl_use_opens_buy_menu set to 0"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "Respawn is disabled."
     {
-        "chi" "__null__"
+        "chi" "死亡复活已经关闭"
     }
 
     "Special thanks to Hestia, Revenant(RSS) ZE&MG server."
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "Start."
     {
-        "chi" "__null__"
+        "chi" "开始"
     }
 
     "Starting in......"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "Teleporting all in 15 seconds."
     {
-        "chi" "__null__"
+        "chi" "将在15秒内传送所有人"
     }
 
     "Teleporting all in 5 seconds."
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "Teleporting all makers."
     {
-        "chi" "__null__"
+        "chi" "正在传送所有人"
     }
 
 }

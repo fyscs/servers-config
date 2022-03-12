@@ -13,72 +13,72 @@
 
     "[Map] 1"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "[Map] 2"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "[Map] 3"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "[Map] 4"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "[Map] 5"
     {
-        "chi" "__null__"
+        "chi" ">5<"
     }
 
     "[Map] A player has finished the race!"
     {
-        "chi" "__null__"
+        "chi" "有人到了终点"
     }
 
     "[Map] Both teams can now enter in each other base !"
     {
-        "chi" "__null__"
+        "chi" "现在两边可以互相去对方的家"
     }
 
     "[Map] GOOOOOOL !"
     {
-        "chi" "__null__"
+        "chi" "进球啦!"
     }
 
     "[Map] Race starts in:"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "[Map] Random choice !"
     {
-        "chi" "__null__"
+        "chi" "随机"
     }
 
     "[Map] Random Game..."
     {
-        "chi" "__null__"
+        "chi" "随机游戏"
     }
 
     "[Map] Slay in 10 seconds !"
     {
-        "chi" "__null__"
+        "chi" "将在10秒后处死"
     }
 
     "[Map] The race has started !"
     {
-        "chi" "__null__"
+        "chi" "竞速开始"
     }
 
     "[Map] Time limit !"
     {
-        "chi" "__null__"
+        "chi" "时间到!"
     }
 
 }

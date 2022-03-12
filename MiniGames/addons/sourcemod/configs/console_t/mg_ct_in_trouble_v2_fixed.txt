@@ -13,42 +13,42 @@
 
     "***** CTs must guard the four cases for 3 mins *****"
     {
-        "chi" "__null__"
+        "chi" "CT必须要在3分钟内守住这4个箱子"
     }
 
     "***** EasY MoD *****"
     {
-        "chi" "__null__"
+        "chi" "简单模式"
     }
 
     "***** Free MoD *****"
     {
-        "chi" "__null__"
+        "chi" "自由模式"
     }
 
     "***** HaRD MoD *****"
     {
-        "chi" "__null__"
+        "chi" "困难模式"
     }
 
     "***** IMPossiBLe MoD *****"
     {
-        "chi" "__null__"
+        "chi" "根本赢不了模式"
     }
 
     "***** Map By PORSCHE.AE *****"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "***** NoRMAL MoD *****"
     {
-        "chi" "__null__"
+        "chi" "正常模式"
     }
 
     "***** T's must steal the four cases and throw it in the hole to destroy the house *****"
     {
-        "chi" "__null__"
+        "chi" "T必须要偷到4个箱子然后把它们扔进出生点的洞来摧毁这个房子"
     }
 
 }

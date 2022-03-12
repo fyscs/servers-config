@@ -13,32 +13,32 @@
 
     ">> 1 <<"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     ">> 2 << "
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     ">> 3 <<"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     ">> 4 <<"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     ">> HAVE FUN <<"
     {
-        "chi" "__null__"
+        "chi" "祝你玩得开心"
     }
 
     "Map made by Mathijs"
     {
-        "chi" "__null__"
+        "blocked" "1"
     }
 
     "Spawn kill in 5 seconds"
