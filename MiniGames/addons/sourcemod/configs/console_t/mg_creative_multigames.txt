@@ -13,17 +13,17 @@
 
     "(-_-) !!"
     {
-        "chi" "__null__"
+        "chi" "!!"
     }
 
     "* Cuchillo/Knife - 2s *"
     {
-        "chi" "__null__"
+        "chi" "two"
     }
 
     "* Draw - Knife enabled! * 60s or die"
     {
-        "chi" "平局 - 启用刀!* 60秒或死亡"
+        "chi" "平局启用刀!60秒或死亡"
     }
 
     "* Empate - Cuchillo Activado! * 60s o muere"
@@ -108,7 +108,7 @@
 
     "*** Round 3 Knife Protecion off ***"
     {
-        "chi" "第三回合 刀拔掉"
+        "chi" "第三回合 刀"
     }
 
     "*** The mode selected: Aim Deagle - Knife ***"
@@ -123,17 +123,17 @@
 
     "*** The mode selected: AWP 100hp ***"
     {
-        "chi" "所选模式:AWP 100hp"
+        "chi" "所选模式:AWP100hp"
     }
 
     "*** The mode selected: AWP 400hp ***"
     {
-        "chi" "所选模式:AWP 400hp"
+        "chi" "所选模式:AWP400hp"
     }
 
     "*** The mode selected: Balance ***"
     {
-        "chi" "所选模式：平衡"
+        "chi" "所选模式:平衡"
     }
 
     "*** The mode selected: Ball Prisoner ***"
@@ -413,7 +413,7 @@
 
     "*** The mode selected: UMP45 - Speed - Gravity - HP 300 ***"
     {
-        "chi" "所选模式:UMP45 - 速度 - 重力 - HP 300"
+        "chi" "所选模式:UMP45,速度,重力,HP 300"
     }
 
     "*** The mode selected: VolleyBall ***"
@@ -513,12 +513,12 @@
 
     "AutoMode: * Speed * Bridge: OFF"
     {
-        "chi" "自动模式.* 速度 *桥接.关闭"
+        "chi" "自动模式.速度桥接.关闭"
     }
 
     "AutoMode: * Velocidad * Puente: OFF"
     {
-        "chi" "自动模式：*速度*桥梁.关闭"
+        "chi" "自动模式:速度桥梁.关闭"
     }
 
     "AutoMode: 200 hp"
@@ -553,7 +553,7 @@
 
     "Map by $p@w!"
     {
-        "chi" "地图由$p@w制作"
+        "chi" "地图由$p@w制作.地图翻译白衣@风云社"
     }
 
 }
