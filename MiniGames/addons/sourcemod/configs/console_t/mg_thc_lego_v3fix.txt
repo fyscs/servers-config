@@ -13,22 +13,22 @@
 
     "[THC LEGO] 10 SECONDS REMAINING"
     {
-        "chi" "[thc lego] 剩余10秒"
+        "chi" "剩余10秒"
     }
 
     "[THC LEGO] 2 MINUTES REMAINING"
     {
-        "chi" "[thc lego] 剩余2分钟"
+        "chi" "剩余2分钟"
     }
 
     "[THC LEGO] 3 MINUTES REMAINING"
     {
-        "chi" "[thc lego] 剩余3分钟"
+        "chi" "剩余3分钟"
     }
 
     "[THC LEGO] 60 SECONDS REMAINING"
     {
-        "chi" "[thc lego] 剩余60秒"
+        "chi" "剩余60秒"
     }
 
     "[THC LEGO] AK 47"
@@ -38,7 +38,7 @@
 
     "[THC LEGO] ALL PLAYERS IN THE CAGE"
     {
-        "chi" "[thc lego] 所有球员都在笼子里"
+        "chi" "所有球员都在笼子里"
     }
 
     "[THC LEGO] AWP"
@@ -73,17 +73,17 @@
 
     "[THC LEGO] CHOOSE MAP"
     {
-        "chi" "[thc lego] 选择地图"
+        "chi" "选择地图"
     }
 
     "[THC LEGO] CHOOSING NEW PLAYER..."
     {
-        "chi" "[thc lego] 选择新球员..."
+        "chi" "选择新球员..."
     }
 
     "[THC LEGO] CHOSEN PLAYER IS AFK"
     {
-        "chi" "[thc lego] 被选中的球员是afk"
+        "chi" "被选中的球员是afk"
     }
 
     "[THC LEGO] CLIMB"
@@ -98,22 +98,22 @@
 
     "[THC LEGO] CTs ARE ON LEVEL 2"
     {
-        "chi" "__null__"
+        "chi" "CT在第2层"
     }
 
     "[THC LEGO] CTs ARE ON LEVEL 3"
     {
-        "chi" "[thc lego] CT在第2层"
+        "chi" "CT在第3层"
     }
 
     "[THC LEGO] CT's get Weapons."
     {
-        "chi" "[thc lego] CT获得武器"
+        "chi" "CT获得武器"
     }
 
     "[THC LEGO] CTs WIN"
     {
-        "chi" "[thc lego] CT胜利"
+        "chi" "CT胜利"
     }
 
     "[THC LEGO] DEAGLE"
@@ -143,17 +143,17 @@
 
     "[THC LEGO] KILLING EVERYONE IN 10 SECONDS"
     {
-        "chi" "[thc lego] 在10秒内杀死所有人"
+        "chi" "在10秒内杀死所有人"
     }
 
     "[THC LEGO] KILLING EVERYONE IN 20 SECONDS"
     {
-        "chi" "[thc lego] 在20秒内杀死所有人"
+        "chi" "在20秒内杀死所有人"
     }
 
     "[THC LEGO] KILLING EVERYONE IN 30 SECONDS"
     {
-        "chi" "[thc lego] 在30秒内杀死所有人"
+        "chi" "在30秒内杀死所有人"
     }
 
     "[THC LEGO] KNIFE"
@@ -168,17 +168,17 @@
 
     "[THC LEGO] KNIVES ENABLED IN 30 SECONDS"
     {
-        "chi" "[thc lego] 30秒后发刀"
+        "chi" "30秒后发刀"
     }
 
     "[THC LEGO] LOADING RANDOM GAME"
     {
-        "chi" "[thc lego] 加载随机游戏"
+        "chi" "加载随机游戏"
     }
 
     "[THC LEGO] LOADING RANDOM GAME..."
     {
-        "chi" "[thc lego] 加载随机游戏..."
+        "chi" "加载随机游戏..."
     }
 
     "[THC LEGO] LONG JUMP"
@@ -203,17 +203,17 @@
 
     "[THC LEGO] NEW PLAYER IN 10 SECONDS"
     {
-        "chi" "[thc lego] 10秒后的新球员"
+        "chi" "10秒后的新球员"
     }
 
     "[THC LEGO] NEW PLAYER IN 30 SECONDS"
     {
-        "chi" "[thc lego] 30秒后的新球员"
+        "chi" "0秒后的新球员"
     }
 
     "[THC LEGO] NO GAME CHOSEN"
     {
-        "chi" "[thc lego] 没有选择游戏"
+        "chi" "没有选择游戏"
     }
 
     "[THC LEGO] NOVA"
@@ -223,12 +223,12 @@
 
     "[THC LEGO] PLAYER TELEPORTED"
     {
-        "chi" "[thc lego] 玩家被传送了"
+        "chi" "玩家被传送了"
     }
 
     "[THC LEGO] SCORE 20 POINTS TO WIN"
     {
-        "chi" "[thc lego] 得20分获胜"
+        "chi" "得20分获胜"
     }
 
     "[THC LEGO] SCOUT"
@@ -253,57 +253,57 @@
 
     "[THC LEGO] TELEPORTED PLAYER SEEMS TO BE AFK"
     {
-        "chi" "[thc lego] 传送afk玩家"
+        "chi" "传送afk玩家"
     }
 
     "[THC LEGO] TELEPORTING NEW PLAYER..."
     {
-        "chi" "[thc lego] 传送新玩家..."
+        "chi" "传送新玩家..."
     }
 
     "[THC LEGO] TELEPORTING NOW"
     {
-        "chi" "[thc lego] 现在正在进行远程传输"
+        "chi" "现在正在进行远程传输"
     }
 
     "[THC LEGO] TERRORISTS WIN"
     {
-        "chi" "[thc lego] 恐怖分子获胜"
+        "chi" "恐怖分子获胜"
     }
 
     "[THC LEGO] TIME LIMIT"
     {
-        "chi" "[thc lego] 时间限制"
+        "chi" "[时间限制"
     }
 
     "[THC LEGO] Ts ARE ON LEVEL 2"
     {
-        "chi" "[thc lego] T在第2层"
+        "chi" "T在第2层"
     }
 
     "[THC LEGO] Ts ARE ON LEVEL 3"
     {
-        "chi" "[thc lego] T在第3层"
+        "chi" "T在第3层"
     }
 
     "[THC LEGO] T's get Weapons."
     {
-        "chi" "[thc lego] T获得枪支"
+        "chi" "T获得枪支"
     }
 
     "[THC LEGO] WAR"
     {
-        "chi" "[thc lego] 战争"
+        "chi" "战争"
     }
 
     "[THC LEGO] WAR MAP 2"
     {
-        "chi" "[thc lego] 战争地图2"
+        "chi" "战争地图2"
     }
 
     "{THC LEGO] DODGE WALLS"
     {
-        "chi" "[thc lego] 躲避墙壁"
+        "chi" "躲避墙壁"
     }
 
     ">1<"
