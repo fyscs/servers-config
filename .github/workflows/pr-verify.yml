@@ -1,0 +1,15 @@
+name: PR Verify
+
+on:
+  pull_request:
+    types: ['opened', 'edited', 'reopened', 'synchronize']
+
+jobs:
+  pr-lint:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: seferov/pr-lint-action@master
+      with:
+        title-regex: '^(新增|修改)\:(\ )(ze|mg|ttt|jb|bhop|surf|kz|kzpro|vnl|skz|bkz|xc)\_[a-zA-Z0-9_]+$'
++       github-token: ${{ secrets.SECRET_NAME }}
++       auto-close-message: '非法的PR标题, example: ``修改: mg_abc_v1`` 或 ``新增: mg_abc_v2``.'
