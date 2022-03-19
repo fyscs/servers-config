@@ -11,7 +11,7 @@ jobs:
     - uses: morrisoncole/pr-lint-action@v1.6.1
       with:
         title-regex: '^(新增|修改)\:(\ )(ze|mg|ttt|jb|bhop|surf|kz|kzpro|vnl|skz|bkz|xc)\_[a-zA-Z0-9_]+$'
-        on-failed-regex-fail-action: false
+        on-failed-regex-fail-action: true
         on-failed-regex-create-review: true
-        on-failed-regex-comment: "非法的PR标题, example: ``修改: mg_abc_v1`` 或 ``新增: mg_abc_v2``."
+        on-failed-regex-comment: "无效的PR标题, 请修改为符合手册的规范, 例如: ``修改: mg_abc_v1`` 或 ``新增: mg_abc_v2``"
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
