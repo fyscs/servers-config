@@ -13,52 +13,52 @@
 
     " *** >>>> WARNING <<<< KEYBOARD RUSH ***"
     {
-        "chi" "警告-键盘冲击"
+        "chi" ">>>>警告<<<< 小心推力!"
     }
 
     "!?"
     {
-        "chi" "???"
+        "chi" "!?"
     }
 
     "** NOT ALLOWING PORTING TO CSS ***"
     {
-        "chi" "禁止移植至css"
+        "chi" "禁止移植到css"
     }
 
     "*** !? ***"
     {
-        "chi" "???"
+        "chi" "!?"
     }
 
     "*** 0 **"
     {
-        "chi" "零"
+        "chi" "0"
     }
 
     "*** 1 **"
     {
-        "chi" "一"
+        "chi" "1"
     }
 
     "*** 1!!! ***"
     {
-        "chi" "一!!!!"
+        "chi" "1!!!"
     }
 
     "*** 10 ***"
     {
-        "chi" "十"
+        "chi" "10"
     }
 
     "*** 2 **"
     {
-        "chi" "二"
+        "chi" "2"
     }
 
     "*** 2!!! ***"
     {
-        "chi" "二!!!"
+        "chi" "2!!!"
     }
 
     "*** 20 ***"
@@ -68,7 +68,7 @@
 
     "*** 3 **"
     {
-        "chi" "三"
+        "chi" "3"
     }
 
     "*** 30 ***"
@@ -78,7 +78,7 @@
 
     "*** 4 **"
     {
-        "chi" "四"
+        "chi" "4"
     }
 
     "*** 40 ***"
@@ -88,73 +88,67 @@
 
     "*** 5 **"
     {
-        "chi" "五"
+        "chi" "5"
     }
 
     "*** 5 ***"
     {
-        "chi" "五"
+        "chi" "5"
     }
 
     "*** 5 SECONDS LEFT !!***"
     {
-        "chi" "还剩5秒!"
+        "chi" "还剩5秒!!"
     }
 
     "*** 5 seconds left ***"
     {
-        "chi" "还剩5秒"
+        "chi" "还剩5秒!!"
     }
 
     "*** 6 **"
     {
-        "chi" "六"
+        "chi" "6"
     }
 
     "*** 7 **"
     {
-        "chi" "七"
+        "chi" "7"
     }
 
     "*** 8 **"
     {
-        "chi" "八"
+        "chi" "8"
     }
 
     "*** A PLAYER HAS PICKED UP A BIG HEALTH LIGHT ***"
     {
-        "chi" "一位玩家捡起了大奶"
-        "blocked"    "1"
+        "chi" "一名人类捡起了大奶 按e使用"
     }
 
     "*** A PLAYER HAS PICKED UP A BURNING LIGHT ***"
     {
-        "chi" "一位玩家捡起了治疗"
-        "blocked"    "1"
+        "chi" "一名人类捡起了燃烧 按e使用"
     }
 
     "*** A PLAYER HAS PICKED UP A COLD LIGHT ***"
     {
-        "chi" "一位玩家捡起了冰冻"
-        "blocked"    "1"
+        "chi" "一名人类捡起了冰冻 按e使用"
     }
 
     "*** A PLAYER HAS PICKED UP A PUSH LIGHT ***"
     {
-        "chi" "一位玩家捡起了推力风"
-        "blocked"    "1"
+        "chi" "一名人类捡起了推力风 按e使用"
     }
 
     "*** A PLAYER HAS PICKED UP A SMALL HEALTH LIGHT ***"
     {
-        "chi" "一位玩家捡起了小奶"
-        "blocked"    "1"
+        "chi" "一名人类捡起了小奶 按e使用"
     }
 
     "*** A player has picked up the CLOUD FATHER ***"
     {
-        "chi" "一位玩家捡起了云之父"
-        "blocked"    "1"
+        "chi" "一名人类捡起了云爸爸 "
     }
 
     "*** Across their head !! ***"
@@ -164,117 +158,117 @@
 
     "*** ADVENTURE is begining... Good lu"
     {
-        "chi" "冒险即将开始,祝你好运"
+        "chi" "冒险开始 祝你们好运啦!"
     }
 
     "*** ADVENTURE IS OVER ***"
     {
-        "chi" "冒险开始了"
+        "chi" "冒险结束!"
     }
 
     "*** Adventure is over,need to chenge map ***"
     {
-        "chi" "冒险结束,我们该rtv了"
+        "chi" "冒险结束了,记得rtv更换地图哦"
     }
 
     "*** ADVENTURE WILL START IN 1 MINUTE AND 30 SECONDS***"
     {
-        "chi" "冒险将在九十秒后开始"
+        "chi" "冒险将在90秒后开始"
     }
 
     "*** ADVENTURE WILL START IN 10 SECONDS ***"
     {
-        "chi" "冒险十秒后开始"
+        "chi" "冒险将在10秒后开始"
     }
 
     "*** ADVENTURE WILL START IN 30 SECONDS ***"
     {
-        "chi" "冒险三十秒后开始"
+        "chi" "冒险将在30秒后开始"
     }
 
     "*** ADVENTURE WILL START IN 5 SECONDS ***"
     {
-        "chi" "冒险五秒后开始"
+        "chi" "冒险将在5秒后开始"
     }
 
     "*** ALL EXTREME STAGE COMPLETE IN 10 SECONDS ***"
     {
-        "chi" "全部ex关卡十秒后完成"
+        "chi" "所有ex关在10秒内完成"
     }
 
     "*** ALL EXTREME STAGE COMPLETE IN 20 SECONDS ***"
     {
-        "chi" "全部ex关卡二十秒后完成"
+        "chi" "所有ex关在20秒内完成"
     }
 
     "*** ALL EXTREME STAGE COMPLETE IN 30 SECONDS ***"
     {
-        "chi" "全部ex关卡三十秒后完成"
+        "chi" "所有ex关在30秒内完成"
     }
 
     "*** ALL EXTREME STAGE COMPLETE IN 5 SECONDS ***"
     {
-        "chi" "全部ex关卡五秒后完成"
+        "chi" "所有ex关在5秒内完成"
     }
 
     "*** ALL OF LASER DISABLED ***"
     {
-        "chi" "关闭所有激光"
+        "chi" "所有激光都消失了!"
     }
 
     "*** ALL STAGE COMPLETE IN 10 SECONDS ***"
     {
-        "chi" "全部关卡十秒后完成"
+        "chi" "所有关卡在10秒内完成"
     }
 
     "*** ALL STAGE COMPLETE IN 20 SECONDS ***"
     {
-        "chi" "全部关卡二十秒后完成"
+        "chi" "所有关卡在20秒内完成"
     }
 
     "*** ALL STAGE COMPLETE IN 30 SECONDS ***"
     {
-        "chi" "全部关卡三十秒后完成"
+        "chi" "所有关卡在30秒内完成"
     }
 
     "*** ALL STAGE COMPLETE IN 5 SECONDS ***"
     {
-        "chi" "全部关卡五秒后完成"
+        "chi" "所有关卡在5秒内完成"
     }
 
     "*** ALL STAGE COMPLETED. EXTREME MODE IS COMING ***"
     {
-        "chi" "普通关完成,正在加载ex模式"
+        "chi" "所有关卡均已完成!!正在加载ex模式!!"
     }
 
     "*** Another cannon started ***"
     {
-        "chi" "启动另一个大炮"
+        "chi" "另一个加农炮已经开始了"
     }
 
     "*** BARRIER DISABLED ***"
     {
-        "chi" "屏障消失"
+        "chi" "障碍已解除 僵尸们可以进攻了!!"
     }
 
     "*** Be careful !! ***"
     {
-        "chi" "当心!"
+        "chi" "请小心!!"
     }
 
     "*** BOY CLOUD IS DEFEATED ***"
     {
-        "chi" "云被打败了"
+        "chi" "那个云boy已经寄了"
     }
 
     "*** BURNING KEYBOARD ***"
     {
-        "chi" "燃烧键盘侠"
+        "chi" "燃烧!"
     }
 
     "*** CAREFULL!!! ***"
     {
-        "chi" "小心!!!"
+        "chi" "请小心!"
     }
 
     "*** Character brok** a*d ano**er way o*****  ***"
@@ -284,7 +278,7 @@
 
     "*** CLOUD FATHER'S TRUE ATTACKS !!! ***"
     {
-        "chi" "云之父真正的攻击袭来"
+        "chi" "云爸爸真正的攻击袭来!!"
     }
 
     "*** CONGRATULATIONS !!!!!!!! ***"
@@ -294,32 +288,32 @@
 
     "*** CRASHER HEALED 70 HP ***"
     {
-        "chi" "破碎机治愈自身70hp"
+        "chi" "破碎机恢复了七十血量"
     }
 
     "*** CUTE CLOUDS created escape road !! ***"
     {
-        "chi" "云妹妹开启了逃生道路"
+        "chi" "云朵创造了新的逃生之路"
     }
 
     "*** Defend for 10 seconds ***"
     {
-        "chi" "防守十秒"
+        "chi" "守住10秒"
     }
 
     "*** Defend for 20 seconds ***"
     {
-        "chi" "防守二十秒"
+        "chi" "守住20秒"
     }
 
     "*** Defend for 30 seconds ***"
     {
-        "chi" "防守三十秒"
+        "chi" "守住30秒"
     }
 
     "*** Defend for 5 seconds ***"
     {
-        "chi" "防守五秒"
+        "chi" "守住5秒"
     }
 
     "*** DRAIN KEYBOARD ***"
@@ -339,47 +333,47 @@
 
     "*** EXPLOSION IN 3 SECONDS!!!!! ***"
     {
-        "chi" "3秒后爆炸"
+        "chi" "3秒内爆炸!!!!"
     }
 
     "*** FINAL LEVEL:  ???? ***"
     {
-        "chi" "最终关卡????"
+        "chi" "最终关卡:???"
     }
 
     "*** FINAL Portal will activate in 10 SEDONDS ***"
     {
-        "chi" "最终之门十秒后激活"
+        "chi" "最终之门将在10秒后激活"
     }
 
     "*** FINAL Portal will activate in 20 SECONDS ***"
     {
-        "chi" "最终之门二十秒后激活"
+        "chi" "最终之门将在20秒后激活"
     }
 
     "*** FINAL Portal will activate in 30 SECONDS ***"
     {
-        "chi" "最终之门三十秒后激活"
+        "chi" "最终之门将在30秒后激活"
     }
 
     "*** FINAL Portal will activate in 5 SECONDS ***"
     {
-        "chi" "最终之门五秒后激活"
+        "chi" "最终之门将在5秒后激活"
     }
 
     "*** FIRST Portal will activate in 10 SECONDS ***"
     {
-        "chi" "初始门十秒后激活"
+        "chi" "第一个传送器将在10秒后激活"
     }
 
     "*** FIRST Portal will activate in 20 SEDONDS ***"
     {
-        "chi" "初始门二十秒后激活"
+        "chi" "第一个传送器将在20秒后激活"
     }
 
     "*** FIRST Portal will activate in 5 SECONDS ***"
     {
-        "chi" "初始门五秒后激活"
+        "chi" "第一个传送器将在5秒后激活"
     }
 
     "*** FLYING CHANCE ***"
@@ -389,12 +383,12 @@
 
     "*** GET ON THE HIM !! ***"
     {
-        "chi" "抓住他!"
+        "chi" "抓住他"
     }
 
     "*** GOOD LUCK... ***"
     {
-        "chi" "祝你好运...."
+        "chi" "祝你好运!"
     }
 
     "*** HE COMES AGAIN !!! ***"
@@ -404,102 +398,102 @@
 
     "*** He is not dead yet !! ***"
     {
-        "chi" "他还没死"
+        "chi" "他还没死!"
     }
 
     "*** HE ISN'T HERE...?***"
     {
-        "chi" "他不在这....?"
+        "chi" "他...不在这么?"
     }
 
     "*** Her machine is releasing smoke!!keep shooting !! ***"
     {
-        "chi" "她的机器正在释放烟雾!!保持射击!!"
+        "chi" "他冒烟了,很快就坚持不住了,继续攻击!!"
     }
 
     "*** HINT : Don't shoot the machine !! SHOOT THE her head !!! ***"
     {
-        "chi" "不要射击他的机器!!射击他的头!!!"
+        "chi" "提示:不要射击机器!射击她的头!!!1"
     }
 
     "*** HOLD FOR 35 SECONDS !! ***"
     {
-        "chi" "防守35秒"
+        "chi" "继续保持35秒!!"
     }
 
     "*** HOLD THIS POSITION for 10 SECONDS***"
     {
-        "chi" "防守这个地方十秒"
+        "chi" "继续保持住!还有10秒"
     }
 
     "*** HOLD THIS POSITION for 20 SECONDS***"
     {
-        "chi" "防守这个地方二十秒"
+        "chi" "继续保持住!还有20秒"
     }
 
     "*** HOLD THIS POSITION for 30 SECONDS***"
     {
-        "chi" "防守这个地方三十秒"
+        "chi" "继续保持住!还有30秒"
     }
 
     "*** HOLD THIS POSITION for 5 SECONDS***"
     {
-        "chi" "防守这个地方五秒"
+        "chi" "还有5秒了"
     }
 
     "*** HUMAN>>> Climb the ladder ***"
     {
-        "chi" "人类>>>爬上梯子"
+        "chi" "人类:快去爬梯子"
     }
 
     "*** HURTING ZOMBIES ARE COMING ***"
     {
-        "chi" "伤害僵尸们来了"
+        "chi" "伤害僵尸来了"
     }
 
     "*** IT CALLED MORE HIS FRIENDS ***"
     {
-        "chi" "他召唤了他更多的朋友"
+        "chi" "他叫了更多她的朋友"
     }
 
     "*** It's her final attack !! ***"
     {
-        "chi" "这是他最后的余温!!"
+        "chi" "这是他的最后一击!!坚持住"
     }
 
     "*** JUMP ***"
     {
-        "chi" "跳"
+        "chi" "快跳"
     }
 
     "*** KAMIKAZE ZOMBIES ARE COMING ***"
     {
-        "chi" "神风敢死队来了"
+        "chi" "神风僵尸来了"
     }
 
     "*** KEY BOARD CRASHER IS ANGRY!! DON'T STOP SHOOTING!! ***"
     {
-        "chi" "键盘侠很生气!!不要停止射击!!"
+        "chi" "键盘侠很生气!继续攻击!!"
     }
 
     "*** KEY BOARD CRASHER IS APPEARED!! SHOOT HIM!! ***"
     {
-        "chi" "键盘侠出现了!!社保他!!"
+        "chi" "键盘侠来了,准备开火!!"
     }
 
     "*** KEY BOARD CRASHER IS DEAD ***"
     {
-        "chi" "键盘侠陨落了"
+        "chi" "干的漂亮键盘侠寄了"
     }
 
     "*** KEY BOARD CRASHER STARTED MOVING ***"
     {
-        "chi" "键盘侠开始移动了"
+        "chi" "键盘侠开始移动了!!"
     }
 
     "*** KEY CANNON ***"
     {
-        "chi" "键盘之炮"
+        "chi" "键盘加农炮"
     }
 
     "*** KEY METEOR ***"
@@ -514,12 +508,12 @@
 
     "*** KEY RUINS ***"
     {
-        "chi" "键盘残骸"
+        "chi" "键盘遗迹"
     }
 
     "*** KEYBOARD ATTACK ***"
     {
-        "chi" "键盘攻击"
+        "chi" "键盘攻击!!"
     }
 
     "*** KEYBOARD CUTTER ***"
@@ -539,482 +533,482 @@
 
     "*** LEFT DOOR AND RIGHT DOOR ARE OPENING ***"
     {
-        "chi" "左门与右门正在打开"
+        "chi" "左门和右门正在打开"
     }
 
     "*** Let's practice before starting the game !!***"
     {
-        "chi" "游戏开始之前,让我们先联系一会"
+        "chi" "在开始游戏之前练习一下吧"
     }
 
     "*** LEVEL 1: NORMAL JUMP ***"
     {
-        "chi" "第一关,基本跳跃"
+        "chi" "第一关 有手就行 "
     }
 
     "*** LEVEL 10:  THE MOVING SCAFFOLDS 2 ***"
     {
-        "chi" "第十关,移动断头台2"
+        "chi" "第十关 移动跳板"
     }
 
     "*** LEVEL 11:  JUMPS ***"
     {
-        "chi" "第十一关,跳跃"
+        "chi" "第十一关 反复横跳"
     }
 
     "*** LEVEL 12:  LASERS ***"
     {
-        "chi" "第十二关,激光"
+        "chi" "第十二关 躲避激光"
     }
 
     "*** LEVEL 13: FLYING ***"
     {
-        "chi" "第十三关,飞翔"
+        "chi" "第十三关 扶摇直上"
     }
 
     "*** LEVEL 14:  THE CLOUD BOSS ***"
     {
-        "chi" "第十四关,云boss"
+        "chi" "第十四关 BOSS之战"
     }
 
     "*** LEVEL 15: THE MOVING SCAFFOLD 3 ***"
     {
-        "chi" "第十五关,移动断头台3"
+        "chi" "第十五关  跨栏"
     }
 
     "*** LEVEL 16: VARIOUS TYPE ROAD 1 ***"
     {
-        "chi" "第十六关,多样道路"
+        "chi" "第十六关 躲避障碍"
     }
 
     "*** LEVEL 17: VARIOUS TYPE ROAD 2 ***"
     {
-        "chi" "第十七关,多样道路2"
+        "chi" "第十七关 综合躲避"
     }
 
     "*** LEVEL 19: VARIOUS TYPE ROAD 3 ***"
     {
-        "chi" "第十九关,多样道路3"
+        "chi" "第九关 更难的综合躲避"
     }
 
     "*** LEVEL 2:  LADDERS ***"
     {
-        "chi" "第二关,梯子"
+        "chi" "第二关 快速爬梯"
     }
 
     "*** LEVEL 20: VARIOUS TYPE ROAD 4 ***"
     {
-        "chi" "第二十关,多样道路4"
+        "chi" "第二十关 最难的综合躲避"
     }
 
     "*** LEVEL 8: THE MOVING WALLS ***"
     {
-        "chi" "第八关,移动墙"
+        "chi" "第八关 移动的墙"
     }
 
     "*** LEVEL 9:  THE ROTATING SCAFFOLDS ***"
     {
-        "chi" "第九关,旋转断头台"
+        "chi" "第九关 大鸟转转转"
     }
 
     "*** LEVEL UNKNOWN : UNKNOWN AREA *** ***"
     {
-        "chi" "未知关卡,未知领域"
+        "chi" "未知关卡:区域未知"
     }
 
     "*** LEVEL10 Portal will activate in 10 SEDONDS ***"
     {
-        "chi" "第十关十秒后激活"
+        "chi" "第十关 传送器将在10后开启"
     }
 
     "*** LEVEL10 Portal will activate in 20 SECONDS ***"
     {
-        "chi" "第十关二十秒后激活"
+        "chi" "第十关 传送器将在20后开启"
     }
 
     "*** LEVEL10 Portal will activate in 30 SECONDS ***"
     {
-        "chi" "第十关30秒后激活"
+        "chi" "第十关 传送器将在30后开启"
     }
 
     "*** LEVEL10 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "第十关五秒后激活"
+        "chi" "第十关 传送器将在5后开启"
     }
 
     "*** LEVEL11 Portal will activate in 10 SEDONDS ***"
     {
-        "chi" "第十一关十秒后激活"
+        "chi" "第十一关 传送器将在10后开启"
     }
 
     "*** LEVEL11 Portal will activate in 20 SECONDS ***"
     {
-        "chi" "第十一关二十秒后激活"
+        "chi" "第十一关 传送器将在20后开启"
     }
 
     "*** LEVEL11 Portal will activate in 30 SECONDS ***"
     {
-        "chi" "第十一关30秒后激活"
+        "chi" "第十一关 传送器将在30后开启"
     }
 
     "*** LEVEL11 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "第十一关五秒后激活"
+        "chi" "第十一关 传送器将在5后开启"
     }
 
     "*** LEVEL12 Portal will activate in 10 SEDONDS ***"
     {
-        "chi" "第十二关十秒后激活"
+        "chi" "第十二关 传送器将在10后开启"
     }
 
     "*** LEVEL12 Portal will activate in 20 SECONDS ***"
     {
-        "chi" "第十二关二十秒后激活"
+        "chi" "第十二关 传送器将在20后开启"
     }
 
     "*** LEVEL12 Portal will activate in 30 SECONDS ***"
     {
-        "chi" "第十二关30秒后激活"
+        "chi" "第十二关 传送器将在30后开启"
     }
 
     "*** LEVEL12 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "第十二关五秒后激活"
+        "chi" "第十二关 传送器将在5后开启"
     }
 
     "*** LEVEL13 Portal will activate in 10 SEDONDS ***"
     {
-        "chi" "十三关十秒后激活"
+        "chi" "第十三关 传送器将在10后开启"
     }
 
     "*** LEVEL13 Portal will activate in 20 SECONDS ***"
     {
-        "chi" "十三关二十秒后激活"
+        "chi" "第十三关 传送器将在20后开启"
     }
 
     "*** LEVEL13 Portal will activate in 30 SECONDS ***"
     {
-        "chi" "十三关30秒后激活"
+        "chi" "第十三关 传送器将在30后开启"
     }
 
     "*** LEVEL13 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "十三关五秒后激活"
+        "chi" "第十三关 传送器将在5后开启"
     }
 
     "*** LEVEL14 Portal will activate in 10 SEDONDS ***"
     {
-        "chi" "十四关十秒后激活"
+        "chi" "第十四关 传送器将在10后开启"
     }
 
     "*** LEVEL14 Portal will activate in 20 SECONDS ***"
     {
-        "chi" "十四关二十秒后激活"
+        "chi" "第十四关 传送器将在20后开启"
     }
 
     "*** LEVEL14 Portal will activate in 30 SECONDS ***"
     {
-        "chi" "十四关30秒后激活"
+        "chi" "第十四关 传送器将在30后开启"
     }
 
     "*** LEVEL14 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "十四关五秒后激活"
+        "chi" "第十四关 传送器将在5后开启"
     }
 
     "*** LEVEL16 Portal will activate in 10 SEDONDS ***"
     {
-        "chi" "十六关十秒后激活"
+        "chi" "第十六关 传送器将在10后开启"
     }
 
     "*** LEVEL16 Portal will activate in 20 SECONDS ***"
     {
-        "chi" "十六关二十秒后激活"
+        "chi" "第十六关 传送器将在20后开启"
     }
 
     "*** LEVEL16 Portal will activate in 30 SECONDS ***"
     {
-        "chi" "十六关30秒后激活"
+        "chi" "第十六关 传送器将在30后开启"
     }
 
     "*** LEVEL16 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "十六关五秒后激活"
+        "chi" "第十六关 传送器将在5后开启"
     }
 
     "*** LEVEL17 Portal will activate in 10 SEDONDS ***"
     {
-        "chi" "十七关十秒后激活"
+        "chi" "第十七关 传送器将在10后开启"
     }
 
     "*** LEVEL17 Portal will activate in 20 SECONDS ***"
     {
-        "chi" "十七关二十秒后激活"
+        "chi" "第十七关 传送器将在20后开启"
     }
 
     "*** LEVEL17 Portal will activate in 30 SECONDS ***"
     {
-        "chi" "十七关30秒后激活"
+        "chi" "第十七关 传送器将在30后开启"
     }
 
     "*** LEVEL17 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "十七关五秒后激活"
+        "chi" "第十七关 传送器将在5后开启"
     }
 
     "*** LEVEL18 Portal will activate in 10 SEDONDS ***"
     {
-        "chi" "十八关十秒后激活"
+        "chi" "第十八关 传送器将在10后开启"
     }
 
     "*** LEVEL18 Portal will activate in 20 SECONDS ***"
     {
-        "chi" "十八关二十秒后激活"
+        "chi" "第十八关 传送器将在20后开启"
     }
 
     "*** LEVEL18 Portal will activate in 30 SECONDS ***"
     {
-        "chi" "十八关30秒后激活"
+        "chi" "第十八关 传送器将在30后开启"
     }
 
     "*** LEVEL18 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "十八关五秒后激活"
+        "chi" "第十八关 传送器将在5后开启"
     }
 
     "*** LEVEL18 SLIDE 2 ***"
     {
-        "chi" "第十八关,滑行2"
+        "chi" "第十八关 高速移动躲避"
     }
 
     "*** LEVEL19 Portal will activate in 10 SEDONDS ***"
     {
-        "chi" "十九关十秒后激活"
+        "chi" "第十九关 传送器将在10后开启"
     }
 
     "*** LEVEL19 Portal will activate in 20 SECONDS ***"
     {
-        "chi" "十九关二十秒后激活"
+        "chi" "第十九关 传送器将在20后开启"
     }
 
     "*** LEVEL19 Portal will activate in 30 SECONDS ***"
     {
-        "chi" "十九关30秒后激活"
+        "chi" "第十九关 传送器将在30后开启"
     }
 
     "*** LEVEL19 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "十九关五秒后激活"
+        "chi" "第十九关 传送器将在5后开启"
     }
 
     "*** LEVEL2 Portal will activate in 10 SECONDS***"
     {
-        "chi" "第二关十秒后激活"
+        "chi" "第二关 传送器将在10后开启"
     }
 
     "*** LEVEL2 Portal will activate in 20 SECONDS***"
     {
-        "chi" "第二关二十秒后激活"
+        "chi" "第二关 传送器将在20后开启"
     }
 
     "*** LEVEL2 Portal will activate in 30 SECONDS***"
     {
-        "chi" "第二关30秒后激活"
+        "chi" "第二关 传送器将在30后开启"
     }
 
     "*** LEVEL2 Portal will activate in 5 SECONDS***"
     {
-        "chi" "第二关五秒后激活"
+        "chi" "第二关 传送器将在5后开启 (即将进入 移动的障碍)"
     }
 
     "*** LEVEL20 Portal will activate in 10 SEDONDS ***"
     {
-        "chi" "第二十关十秒后激活"
+        "chi" "第二十关 传送器将在10后开启"
     }
 
     "*** LEVEL20 Portal will activate in 20 SECONDS ***"
     {
-        "chi" "第二十关二十秒后激活"
+        "chi" "第二十关 传送器将在20后开启"
     }
 
     "*** LEVEL20 Portal will activate in 30 SECONDS ***"
     {
-        "chi" "第二十关30秒后激活"
+        "chi" "第二十关 传送器将在30后开启"
     }
 
     "*** LEVEL20 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "第二十关五秒后激活"
+        "chi" "第二十关 传送器将在5后开启"
     }
 
     "*** LEVEL3 Portal will activate in 10 SECONDS***"
     {
-        "chi" "第三关十秒后激活"
+        "chi" "第三关 传送器将在10后开启"
     }
 
     "*** LEVEL3 Portal will activate in 20 SECONDS***"
     {
-        "chi" "第三关二十秒后激活"
+        "chi" "第三关 传送器将在20后开启"
     }
 
     "*** LEVEL3 Portal will activate in 30 SECONDS***"
     {
-        "chi" "第三关30秒后激活"
+        "chi" "第三关 传送器将在30后开启"
     }
 
     "*** LEVEL3 Portal will activate in 5 SECONDS***"
     {
-        "chi" "第三关五秒后激活"
+        "chi" "第三关 传送器将在5后开启 (即将进入 低重力)"
     }
 
     "*** LEVEL4 LOW GRAVITY ***"
     {
-        "chi" "第四关,低重力"
+        "chi" "第四关 低重力!"
     }
 
     "*** LEVEL4 Portal will activate in 10 SECONDS***"
     {
-        "chi" "第四关十秒后激活"
+        "chi" "第四关 传送器将在10后开启"
     }
 
     "*** LEVEL4 Portal will activate in 20 SECONDS***"
     {
-        "chi" "第四关二十秒后激活"
+        "chi" "第四关 传送器将在20后开启"
     }
 
     "*** LEVEL4 Portal will activate in 30 SECONDS***"
     {
-        "chi" "第四关30秒后激活"
+        "chi" "第四关 传送器将在30后开启"
     }
 
     "*** LEVEL4 Portal will activate in 5 SECONDS***"
     {
-        "chi" "第四关五秒后激活"
+        "chi" "第四关 传送器将在5后开启 (即将进入 小推力)"
     }
 
     "*** LEVEL5 Portal will activate in 10 SECONDS***"
     {
-        "chi" "第五关十秒后激活"
+        "chi" "第五关 传送器将在10后开启"
     }
 
     "*** LEVEL5 Portal will activate in 20 SECONDS***"
     {
-        "chi" "第五关二十秒后激活"
+        "chi" "第五关 传送器将在20后开启"
     }
 
     "*** LEVEL5 Portal will activate in 30 SECONDS***"
     {
-        "chi" "第五关30秒后激活"
+        "chi" "第五关 传送器将在30后开启"
     }
 
     "*** LEVEL5 Portal will activate in 5 SECONDS***"
     {
-        "chi" "第五关五秒后激活"
+        "chi" "第五关 传送器将在5后开启 (即将进入 高速躲避障碍)"
     }
 
     "*** LEVEL5 WINDY ***"
     {
-        "chi" "第五关,风"
+        "chi" "第五关 小推力"
     }
 
     "*** LEVEL6 Portal will activate in 10 SECONDS***"
     {
-        "chi" "第六关十秒后激活"
+        "chi" "第六关 传送器将在10后开启"
     }
 
     "*** LEVEL6 Portal will activate in 20 SECONDS***"
     {
-        "chi" "第六关二十秒后激活"
+        "chi" "第六关 传送器将在20后开启"
     }
 
     "*** LEVEL6 Portal will activate in 30 SECONDS***"
     {
-        "chi" "第六关30秒后激活"
+        "chi" "第六关 传送器将在30后开启"
     }
 
     "*** LEVEL6 Portal will activate in 5 SECONDS***"
     {
-        "chi" "第六关五秒后激活"
+        "chi" "第六关 传送器将在5后开启 (即将进入 蹲口防守)"
     }
 
     "*** LEVEL6 SLIDE 1 ***"
     {
-        "chi" "第六关,滑行1"
+        "chi" "第六关 高速躲避障碍"
     }
 
     "*** LEVEL7 HOLD THIS POSITION ***"
     {
-        "chi" "第七关,守住这里"
+        "chi" "第七关 蹲口防守"
     }
 
     "*** LEVEL7 Portal will activate in 10 SECONDS***"
     {
-        "chi" "第七关十秒后激活"
+        "chi" "第七关 传送器将在10后开启"
     }
 
     "*** LEVEL7 Portal will activate in 20 SECONDS***"
     {
-        "chi" "第七关二十秒后激活"
+        "chi" "第七关 传送器将在20后开启"
     }
 
     "*** LEVEL7 Portal will activate in 30 SECONDS***"
     {
-        "chi" "第七关30秒后激活"
+        "chi" "第七关 传送器将在30后开启"
     }
 
     "*** LEVEL7 Portal will activate in 5 SECONDS***"
     {
-        "chi" "第七关五秒后激活"
+        "chi" "第七关 传送器将在5后开启"
     }
 
     "*** LEVEL9 Portal will activate in 10 SEDONDS ***"
     {
-        "chi" "第九关十秒后激活"
+        "chi" "第九关 传送器将在10后开启"
     }
 
     "*** LEVEL9 Portal will activate in 20 SECONDS ***"
     {
-        "chi" "第九关二十秒后激活"
+        "chi" "第九关 传送器将在20后开启"
     }
 
     "*** LEVEL9 Portal will activate in 30 SECONDS ***"
     {
-        "chi" "第九关30秒后激活"
+        "chi" "第九关 传送器将在30后开启"
     }
 
     "*** LEVEL9 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "第九关五秒后激活"
+        "chi" "第九关 传送器将在5后开启"
     }
 
     "*** Lift will start in 7 seconds ***"
     {
-        "chi" "升降梯7秒后移动"
+        "chi" "电梯将在7秒后启动"
     }
 
     "*** map created by thas ***"
     {
-        "chi" "地图作者:thas,汉化:大呲花, 四季夏目@風雲社"
+        "chi" "地图由thas创建,汉化:大呲花, 四季夏目@風雲社"
     }
 
     "*** OVERRUN PROTECTER DISABLED ***"
     {
-        "chi" "保护消失"
+        "chi" "保护已禁用"
     }
 
     "*** OVERRUN PROTECTER ENABLED ***"
     {
-        "chi" "保护激活"
+        "chi" "保护已开启"
     }
 
     "*** PORTAL ACTIVATED ***"
     {
-        "chi" "门被激活了"
+        "chi" "传送门激活"
     }
 
     "*** Portal is broken by unknown !!!!! ***"
     {
-        "chi" "门被不明物品破坏了!!!!"
+        "chi" "传送门被未知破坏!!!"
     }
 
     "*** Porting helped by Airvulpes,kune***"
@@ -1029,37 +1023,37 @@
 
     "*** RUN !!!!!!!***"
     {
-        "chi" "快跑!!!!!"
+        "chi" "快跑!!!"
     }
 
     "*** RUN TO THE NEXT DEFENCE POINT ***"
     {
-        "chi" "快去下一地点防守"
+        "chi" "快去下一个防守点!!"
     }
 
     "*** SHOOT !! BEFORE HE KILL CLOUD FATHER !!!! ***"
     {
-        "chi" "在他杀死云父之前射击他!!!"
+        "chi" "开枪射击!在他杀死云爸爸之前!!"
     }
 
     "*** SHOOT HIM !! He has very strong power !! ***"
     {
-        "chi" "射击他!他好像有很强大的力量!"
+        "chi" "快开枪,他有非常强的力量!!"
     }
 
     "*** SHOOT HIM WITH YOUR FULL POWER !!!!!!!!!!!!! ***"
     {
-        "chi" "狠狠的社保他!!!"
+        "chi" "集中火力向他开枪!!!!!"
     }
 
     "*** STAGE : ????? button PRESSED ***"
     {
-        "chi" "关卡????按钮按下"
+        "chi" "关卡:??? 快按下按钮"
     }
 
     "*** STAGE : HIS POWER button PRESSED ***"
     {
-        "chi" "关卡:他的力量按钮按下"
+        "chi" "关卡:按下他的电源按钮"
     }
 
     "*** STAGE : KEY WORLD ***"
@@ -1069,17 +1063,17 @@
 
     "*** STAGE : No kidding 3/1***"
     {
-        "chi" "不开玩笑关卡一"
+        "chi" "关卡一:不开玩笑"
     }
 
     "*** STAGE : No kidding 3/2***"
     {
-        "chi" "不开玩笑关卡二"
+        "chi" "关卡二:不开玩笑"
     }
 
     "*** STAGE : No kidding 3/3***"
     {
-        "chi" "不开玩笑关卡三"
+        "chi" "关卡三:不开玩笑"
     }
 
     "*** STAGE 1 ***"
@@ -1094,12 +1088,12 @@
 
     "*** STAGE 1: EXTREME ***"
     {
-        "chi" "极限关卡一"
+        "chi" "ex关卡一"
     }
 
     "*** STAGE 1: EXTREME COMPLETED ***"
     {
-        "chi" "极限关卡一完成"
+        "chi" "ex关卡一完成"
     }
 
     "*** STAGE 2 ***"
@@ -1109,7 +1103,7 @@
 
     "*** STAGE 2 :EXTREME COMPLETED ***"
     {
-        "chi" "极限关卡二完成"
+        "chi" "ex关卡二完成"
     }
 
     "*** STAGE 2 COMPLETED ***"
@@ -1119,7 +1113,7 @@
 
     "*** STAGE 2: EXTREME ***"
     {
-        "chi" "_极限关卡二"
+        "chi" "ex关卡二"
     }
 
     "*** STAGE 3 ***"
@@ -1129,17 +1123,17 @@
 
     "*** STAGE 3: EXTREME ***"
     {
-        "chi" "极限关卡三"
+        "chi" "ex关卡三"
     }
 
     "*** STAGE COMPLETE IN 10 SECONDS ***"
     {
-        "chi" "十秒后完成关卡"
+        "chi" "10秒后完成关卡"
     }
 
     "*** STAGE COMPLETE IN 20 SECONDS ***"
     {
-        "chi" "二十秒后完成关卡"
+        "chi" "20秒后完成关卡"
     }
 
     "*** STAGE COMPLETE IN 30 SECONDS ***"
@@ -1149,7 +1143,7 @@
 
     "*** STAGE COMPLETE IN 5 SECONDS ***"
     {
-        "chi" "五秒后完成关卡"
+        "chi" "5秒后完成关卡"
     }
 
     "*** Stage1 button PRESSED ***"
@@ -1159,7 +1153,7 @@
 
     "*** Stage1:EXTREME button PRESSED ***"
     {
-        "chi" "极限关卡一按钮按下"
+        "chi" "ex关卡一按钮按下"
     }
 
     "*** Stage2 button PRESSED ***"
@@ -1169,7 +1163,7 @@
 
     "*** Stage2:EXTREME button PRESSED ***"
     {
-        "chi" "极限关卡二按钮按下"
+        "chi" "ex关卡二按钮按下"
     }
 
     "*** Stage3 button PRESSED ***"
@@ -1179,17 +1173,17 @@
 
     "*** Stage3: EXTREME button PRESSED ***"
     {
-        "chi" "极限关卡三按钮按下"
+        "chi" "ex关卡三按钮按下"
     }
 
     "*** Star road will activate in 20 seconds ***"
     {
-        "chi" "20秒后激活道路"
+        "chi" "星路将在20秒后激活"
     }
 
     "*** Star road will activate in 5 seconds ***"
     {
-        "chi" "五秒后激活道路"
+        "chi" "星路将在5秒后激活"
     }
 
     "*** SUMMONING KEY ***"
@@ -1199,77 +1193,77 @@
 
     "*** SURVIVE FOR 1 SECONDS !! ***"
     {
-        "chi" "存活一秒!"
+        "chi" "存活1秒!!!!"
     }
 
     "*** SURVIVE FOR 10 SECONDS !! ***"
     {
-        "chi" "存活十秒"
+        "chi" "存活10秒!!!!"
     }
 
     "*** SURVIVE FOR 11 SECONDS !! ***"
     {
-        "chi" "存活十一秒"
+        "chi" "存活11秒!!!!"
     }
 
     "*** SURVIVE FOR 12 SECONDS !! ***"
     {
-        "chi" "存活十二秒"
+        "chi" "存活12秒!!!!"
     }
 
     "*** SURVIVE FOR 13 SECONDS !! ***"
     {
-        "chi" "存活十三秒"
+        "chi" "存活13秒!!!!"
     }
 
     "*** SURVIVE FOR 14 SECONDS !! ***"
     {
-        "chi" "存活十四秒"
+        "chi" "存活14秒!!!!"
     }
 
     "*** SURVIVE FOR 15 SECONDS !! ***"
     {
-        "chi" "存活15秒"
+        "chi" "存活15秒!!!!"
     }
 
     "*** SURVIVE FOR 2 SECONDS !! ***"
     {
-        "chi" "存活二秒"
+        "chi" "存活12秒!!!!"
     }
 
     "*** SURVIVE FOR 3 SECONDS !! ***"
     {
-        "chi" "存活三秒"
+        "chi" "存活3秒!!!!"
     }
 
     "*** SURVIVE FOR 4 SECONDS !! ***"
     {
-        "chi" "存活四秒"
+        "chi" "存活4秒!!!!"
     }
 
     "*** SURVIVE FOR 5 SECONDS !! ***"
     {
-        "chi" "存活五秒"
+        "chi" "存活5秒!!!!"
     }
 
     "*** SURVIVE FOR 6 SECONDS !! ***"
     {
-        "chi" "存活六秒"
+        "chi" "存活6秒!!!!"
     }
 
     "*** SURVIVE FOR 7 SECONDS !! ***"
     {
-        "chi" "存活七秒"
+        "chi" "存活7秒!!!!"
     }
 
     "*** SURVIVE FOR 8 SECONDS !! ***"
     {
-        "chi" "存活八秒"
+        "chi" "存活8秒!!!!"
     }
 
     "*** SURVIVE FOR 9 SECONDS !! ***"
     {
-        "chi" "存活九秒"
+        "chi" "存活9秒!!!!"
     }
 
     "*** TAPIOKA PUNCH ***"
@@ -1279,47 +1273,47 @@
 
     "*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
     {
-        "chi" "测试服务器Sakura[CS:S],POSSESSION[CS:GO] "
+        "chi" "测试服务器sakura[cs:s],possession[cs:go]"
     }
 
     "*** THE CLOUD FATHER IS KILLED BY HIM !!* **"
     {
-        "chi" "云父被他杀掉了!!"
+        "chi" "云爸爸被杀了!"
     }
 
     "*** THE CLOUD FATHER is top of the way !! ***"
     {
-        "chi" "云父在道路顶部!!"
+        "chi" "云爸爸在道路顶部!"
     }
 
     "*** The ESC Key is blocking our way !! ***"
     {
-        "chi" "esc键盘挡住了我们的道路!!"
+        "chi" "esc键挡住了我们的去路"
     }
 
     "*** THE LASER MACHINE IS BROKEN ***"
     {
-        "chi" "激光机器损坏了"
+        "chi" "激光机损坏了!"
     }
 
     "*** THE SCAFFOLD WILL MOVE IN 5 SECONDS ***"
     {
-        "chi" "断头台五秒后移动"
+        "chi" "障碍将在5秒内移动"
     }
 
     "*** THE SCAFFOLD WILL RISE IN 10 SECONDS ***"
     {
-        "chi" "断头台十秒后升起"
+        "chi" "障碍将在10秒内升起"
     }
 
     "*** THE SCAFFOLD WILL RISE IN 20 SECONDS ***"
     {
-        "chi" "断头台20秒后升起"
+        "chi" "障碍将在20秒内升起"
     }
 
     "*** THE SCAFFOLD WILL RISE IN 5 SECONDS ***"
     {
-        "chi" "断头台五秒后升起"
+        "chi" "障碍将在5秒内升起"
     }
 
     "*** THE WAY OF DELETEING ***"
@@ -1329,32 +1323,32 @@
 
     "*** This area seems to begin to collapse !!! ***"
     {
-        "chi" "这地方貌似要崩塌了"
+        "chi" "这片区域好像要开始崩塌了!!!"
     }
 
     "*** This round is WARM UP ROUND ***"
     {
-        "chi" "这条路是热身回合"
+        "chi" "这一轮是热身轮"
     }
 
     "*** This world needs something Technique ***"
     {
-        "chi" "这个世界需要某些技术"
+        "chi" "这个世界需要一些技术"
     }
 
     "*** Wait until esc key come ***"
     {
-        "chi" "守住直到esc键盘过来"
+        "chi" "守住等到esc键来"
     }
 
     "*** Wait until something happen ***"
     {
-        "chi" "等待某件事发生"
+        "chi" "等到有事发生"
     }
 
     "*** WARM UP ROUND ***"
     {
-        "chi" "热身回合"
+        "chi" "热身赛"
     }
 
     "*** WARNING : FAST SPAWN ***"
@@ -1364,47 +1358,47 @@
 
     "*** WATCH OUT !! ***"
     {
-        "chi" "注意点!!"
+        "chi" "小心!!"
     }
 
     "*** WATCH OUT !!!!!!! ***"
     {
-        "chi" "注意点!!!!!"
+        "chi" "小心!!!!!!!"
     }
 
     "*** Watch out for esc cannon and your head !! ***"
     {
-        "chi" "小心你的头与esc炮弹!!"
+        "chi" "当心esc加农炮和你的头"
     }
 
     "*** Watch out for something !! ***"
     {
-        "chi" "小心某些东西!!"
+        "chi" "当心某一些事情!!"
     }
 
     "*** WE BACKED ***"
     {
-        "chi" "我们撤退了"
+        "chi" "我们撤退!!"
     }
 
     "*** We can feel hard wind pressure...!! Dodge it !!! "
     {
-        "chi" "我们能感受到强大的风压!!躲避它!!"
+        "chi" "我们能感受到强烈的风压....!!快躲开!!!!!"
     }
 
     "*** We don't know what will happen... ***"
     {
-        "chi" "我们不知道会发生什么..."
+        "chi" "我也不知道会发生什么.."
     }
 
     "*** We have lost the escape route ***"
     {
-        "chi" "我们已经迷失了逃脱路线"
+        "chi" "我们的逃生路线行不通了"
     }
 
     "*** Weather is getting worse... ***"
     {
-        "chi" "天气越来越糟糕了..."
+        "chi" "天气越来越差了"
     }
 
     "*** Welcome to the sky athletic !!! ***"
@@ -1414,32 +1408,32 @@
 
     "*** WHAT !! where is there...? ***"
     {
-        "chi" "什么!!这是哪...?"
+        "chi" "等会??那里是什么??"
     }
 
     "*** What are you doing? adventure is over.type rtv now ***"
     {
-        "chi" "你们在干嘛?冒险已经结束了,可以rtv了"
+        "chi" "还在等什么!冒险结束了!输入rtv换图"
     }
 
     "*** Where are we...? ***"
     {
-        "chi" "我们在哪...?"
+        "chi" "我...我们在哪??"
     }
 
     "*** WIND is too strong !! Bullets will be back !! ***"
     {
-        "chi" "风力太大!!子弹都被吹回来了!!"
+        "chi" "风太强了!!子弹都被吹回来了!!"
     }
 
     "*** YOU CAN ACROSS NOW !! ***"
     {
-        "chi" "你们现在可以通过了!!"
+        "chi" "你现在可以通过了!!"
     }
 
     "*** You defeated CLOUD FATHER ***"
     {
-        "chi" "你们打败了云之父"
+        "chi" "你们打败了云爸爸"
     }
 
     "*** You defeated Girl cloud ***"
@@ -1449,517 +1443,517 @@
 
     "*** YOU DID IT !!! HE REALLY DEAD !! ***"
     {
-        "chi" "你们做到了!!他已经死了!!"
+        "chi" "你们做到了!!他寄了!!!"
     }
 
     "*** You have beaten all stages !!!! Congratulations !!!! ***"
     {
-        "chi" "你们通关了所有关卡!!!!恭喜你们!!!"
+        "chi" "你们已经通关所有阶段!!恭喜!!!"
     }
 
     "*** YOU SECURED SKY ATHLETIC...? ***"
     {
-        "chi" "你们保护了天空竞技场...?"
+        "chi" "你们保护了天空竞技场"
     }
 
     "*** ZOMBIE ARE ALIVE !! ***"
     {
-        "chi" "僵尸还活着!!"
+        "chi" "僵尸们还活着!!!"
     }
 
     "*** ZOMBIE WAVE ***"
     {
-        "chi" "僵尸巨浪"
+        "chi" "尸潮来了!!"
     }
 
     "*** Zombie will come in 10 seconds  ***"
     {
-        "chi" "僵尸10秒后来临"
+        "chi" "僵尸会在10秒后出现"
     }
 
     "*** ZOMBIE WILL COME IN 10 SECONDS ***"
     {
-        "chi" "僵尸10秒之后来临"
+        "chi" "僵尸会在10秒后出现"
     }
 
     "*** ZOMBIE WILL COME IN 8 SECONDS ***"
     {
-        "chi" "僵尸8秒后来临"
+        "chi" "僵尸会在8秒后出现"
     }
 
     "*** ZOMBIE>>> Should go to under the entrance ***"
     {
-        "chi" "僵尸>>可以去下方入口"
+        "chi" "僵尸>>>可以去下放入口"
     }
 
     "*** ZOMBIES ARE ALIVE !! ***"
     {
-        "chi" "僵尸们还活着!!"
+        "chi" "僵尸们还活着"
     }
 
     "*** ZOMBIES ARE ALIVE !! BE CAREFUL !! ***"
     {
-        "chi" "僵尸们还没死!!小心!!"
+        "chi" "僵尸们还活着 要小心"
     }
 
     "*** ZOMBIES ARE ALIVE !! SHOOT THEM TOO !! ***"
     {
-        "chi" "僵尸还活着!!也要注意他们!!"
+        "chi" "僵尸们还活着 朝他们开枪 不要做贴们栽种!!"
     }
 
     "*** ZOMBIES ARE COMING ***"
     {
-        "chi" "僵尸们来了"
+        "chi" "僵尸们开咯"
     }
 
     "***LEVEL 3: MOVING SCAFFOLDS 1 ***"
     {
-        "chi" "第三关,移动断头台"
+        "chi" "第三关 移动的障碍"
     }
 
     "***ZOMBIES ARE COMING***"
     {
-        "chi" "僵尸们来咯"
+        "chi" "僵尸来咯"
     }
 
     "????? :That you won't !!!"
     {
-        "chi" "???:你不会的!!"
+        "chi" "????:你..不会!!!!"
     }
 
     "BOY CLOUD : !? they're the humans !?"
     {
-        "chi" "云宝宝:!?他们是人类!?"
+        "chi" "云boy:!?他们...是人类?"
     }
 
     "BOY CLOUD : Hey !! I and my friends will defeat you humans !!"
     {
-        "chi" "云宝宝:嗨!!我和我的朋友将要打败你们这群人类!!"
+        "chi" "云boy:我和我的朋友们会打败你们人类的!!"
     }
 
     "BOY CLOUD : If I will be able to defeat you..."
     {
-        "chi" "云宝宝:如果我能打败你们..."
+        "chi" "云boy:但如果我能打败你们.."
     }
 
     "BOY CLOUD : It's very proud for me too!!"
     {
-        "chi" "云宝宝:这将也是是我的骄傲!!"
+        "chi" "云boy:我也会很自豪!!!"
     }
 
     "BOY CLOUD : My father said human is getting our place..."
     {
-        "chi" "云宝宝:我的父亲说,人类正在找到我们的住所.."
+        "chi" "云boy:我爹说人类正在占领我们的土地"
     }
 
     "BOY CLOUD : My father will praise me !!"
     {
-        "chi" "云宝宝:我的父亲将会保佑我!!"
+        "chi" "云boy:我爹会表扬我的"
     }
 
     "BOY CLOUD : Nuwaaaaaaaa!! My best speedddddd!!!!!"
     {
-        "chi" "云宝宝:啊啊啊啊!!看我的超级速度!!!!"
+        "chi" "云boy:啊哈哈哈哈哈,我最快的速度!!!!"
     }
 
     "BOY CLOUD : Shoot me !! if you can follow my speed !!"
     {
-        "chi" "云宝宝:射击我!!如果你能跟上我速度的话!!"
+        "chi" "云boy:图过你能跟上我的速度,就朝我开抢"
     }
 
     "BOY CLOUD : So!!! I need to defeat you at this time !!"
     {
-        "chi" "云宝宝:所以,我需要在这时打败你们!!"
+        "chi" "云boy:所以 这个时候我要打败你"
     }
 
     "BOY CLOUD : Too hot!! keep away it from me !!"
     {
-        "chi" "云宝宝:太热了!离我远点!!"
+        "chi" "云boy:太热啦!离我远点"
     }
 
     "BOY CLOUD : What's this wind !? I can't do the best of speed !!"
     {
-        "chi" "云宝宝:这事什么风?我达不到我最快的速度了!!"
+        "chi" "云boy:这么有风 我达不到我最快的速度了"
     }
 
     "BOY CLOUD :Ahhh...They...really...strong...!!!"
     {
-        "chi" "云宝宝:啊啊..他们...真的很强!!!"
+        "chi" "云boy:啊....你们....真的 很强..."
     }
 
     "BOY CLOUD :HEY DAD !! PLEASE DEFEAT THEM !!!!!!!!"
     {
-        "chi" "云宝宝:爹!!请打败他们!!!!"
+        "chi" "云boy:爹!!帮我揍他们!!"
     }
 
     "BOY CLOUD :Hey humans !!"
     {
-        "chi" "云宝宝:你们这群人类!!"
+        "chi" "云boy:emmm 你们听好了"
     }
 
     "BOY CLOUD :I can't trust you even my father trust you !!"
     {
-        "chi" "云宝宝:就算我父亲信任你们,我也不会相信你们!!"
+        "chi" "云boy:我不能相信你 连我父亲都相信你"
     }
 
     "BOY CLOUD :I couldn't beat you humans..."
     {
-        "chi" "云宝宝:我不能攻击你们人类...."
+        "chi" "云boy:我打不过你们"
     }
 
     "BOY CLOUD :Please defeat them !! We will help you !!"
     {
-        "chi" "云宝宝:请打败他们!!我们将会协助你们!!"
+        "chi" "云boy:打败他们!!我会帮助你的!!"
     }
 
     "BOY CLOUD :TAKE MY FINAL ATTACK !!!!!!!!!!!!!!!!!!!!!"
     {
-        "chi" "云宝宝:吃我最后一击!!!!!!!"
+        "chi" "我的最后一击!!!!!!!!!!!!!!!"
     }
 
     "BOY CLOUD: Ahh!! remember this things !!!!!!"
     {
-        "chi" "云宝宝:啊哈!记住这些事!!!!"
+        "chi" "云boy:行吧,我会记住这件事的"
     }
 
     "CAUTION :It can use only once"
     {
-        "chi" "云宝宝:它只能使用一次"
+        "chi" "注意:它只能使用一次"
     }
 
     "cccccccckkkkkkkkkkkkkkkkkkkkkkkkkk"
     {
-        "chi" "ccccccccckkkkkkkkkkkkk"
+        "chi" "咳咳咳啊啊啊啊啊啊啊啊啊啊啊啊吧阿吧"
     }
 
     "CLOUD FATHER : and I want to fight with you too."
     {
-        "chi" "云之父:我也想和你们过过招"
+        "chi" "云爸爸:来看看我真正的实力吧"
     }
 
     "CLOUD FATHER : Can we fight without kidding...?"
     {
-        "chi" "云之父:我们能认真打一场吗...?"
+        "chi" "云爸爸:我们...能不能别开玩笑...."
     }
 
     "CLOUD FATHER : hehehe..."
     {
-        "chi" "云之父:hehehhe...."
+        "chi" "云爸爸:嘿嘿嘿嘿"
     }
 
     "CLOUD FATHER : I think you want to experience the more hard."
     {
-        "chi" "云之父:我猜你们想体验更难的东西"
+        "chi" "云爸爸:我看你是想尝试下更难的"
     }
 
     "CLOUD FATHER : Is which a winner...?"
     {
-        "chi" "云之父:这就是赢家么....?"
+        "chi" "云爸爸:哪一个是赢家呢?"
     }
 
     "CLOUD FATHER : Remember your items can't effect me !!"
     {
-        "chi" "云之父:记住,你们的神器可对我没用!!"
+        "chi" "云爸爸:记住你的东西不会影响我的"
     }
 
     "CLOUD FATHER : Welcome humans."
     {
-        "chi" "云之父:欢迎人类"
+        "chi" "云爸爸:欢迎你们"
     }
 
     "CLOUD FATHER : You are our hero,thanks...."
     {
-        "chi" "云之父:你们是我们的英雄,谢谢......."
+        "chi" "云爸爸:你是我们的英雄.谢谢"
     }
 
     "CLOUD FATHER :...Me? don't worry I was made of water."
     {
-        "chi" "云之父:....我?别担心,我是水制成的"
+        "chi" "云爸爸:...我?别担心我使用水做的"
     }
 
     "CLOUD FATHER :...So you should use it in other area."
     {
-        "chi" "云之父:......所以你们应该在其他地方使用它"
+        "chi" "云爸爸:所以...你在别的地方用更好吧"
     }
 
     "CLOUD FATHER :Alright...finally you defeat me,you won."
     {
-        "chi" "云之父:好吧..你们最终打败了我,是你们赢了"
+        "chi" "云爸爸:行吧 你终于还是打败了我 你赢了"
     }
 
     "CLOUD FATHER :Can you survive !?"
     {
-        "chi" "云之父:你们能活下来么!?"
+        "chi" "你能活下来么?!!"
     }
 
     "CLOUD FATHER :Don't take hand for them !!"
     {
-        "chi" "云之父:别碰到它们!!"
+        "chi" "云爸爸:别和他们牵手"
     }
 
     "CLOUD FATHER :Hey! Humans !! I will help you !!"
     {
-        "chi" "云之父:hey!人类!!我会帮助们的!!"
+        "chi" "云爸爸:嘿!大伙!我来帮你们!!"
     }
 
     "CLOUD FATHER :Hey... You are very strong...."
     {
-        "chi" "云之父:hey....你们太强大了...."
+        "chi" "云爸爸:哎...你好强...."
     }
 
     "CLOUD FATHER :Humans,we don't know he is really dead."
     {
-        "chi" "云之父:人类,我们不知道他是真的死了"
+        "chi" "云爸爸:他死了么"
     }
 
     "CLOUD FATHER :I couldn't defeat him,because he was very stronger than me."
     {
-        "chi" "云之父:我打不过他,因为他比我强太多"
+        "chi" "云爸爸:他太强了 我根本不是他的对手"
     }
 
     "CLOUD FATHER :I hope he is dead..."
     {
-        "chi" "云之父:我希望他已经死了"
+        "chi" "云爸爸:但愿他死了"
     }
 
     "CLOUD FATHER :I think..."
     {
-        "chi" "云之父:我想...."
+        "chi" "云爸爸:我觉得"
     }
 
     "CLOUD FATHER :If you was in at that time...we could save my..."
     {
-        "chi" "云之父:如果你们当时也在....我们也许能拯救我的...."
+        "chi" "云爸爸:如果你当时在的话 就可以救我....."
     }
 
     "CLOUD FATHER :I'm giving the power to you..."
     {
-        "chi" "云之父:我会给你们力量...."
+        "chi" "云爸爸:来吧 我给你力量"
     }
 
     "CLOUD FATHER :IRASSYAI MASE"
     {
-        "chi" "云之父:IRASSYAI MASE"
+        "chi" "云爸爸:inassyai mase"
     }
 
     "CLOUD FATHER :It seems your power is true..."
     {
-        "chi" "云之父:看来你们的力量是真的...."
+        "chi" "云爸爸:看来 你的力量是真的"
     }
 
     "CLOUD FATHER :LOOK !!"
     {
-        "chi" "云之父:快看!!"
+        "chi" "云爸爸:快看"
     }
 
     "CLOUD FATHER :Oh,please pretend you didn't hear that."
     {
-        "chi" "云之父:哦,请假装你们没听到那些"
+        "chi" "云爸爸:没事了 装作没听到就好了"
     }
 
     "CLOUD FATHER :oh... I'm defeated.."
     {
-        "chi" "云之父:oh...我被打败了.."
+        "chi" "云爸爸:不 我被打败了"
     }
 
     "CLOUD FATHER :ok,Humans time to change your area...!"
     {
-        "chi" "云之父:ok,人类是时候改变你们的地盘了..!"
+        "chi" "云爸爸:是时候做出行动了"
     }
 
     "CLOUD FATHER :Pick up me !! I will attack him !!!"
     {
-        "chi" "云之父:快选我!!我将会攻击他!!!"
+        "chi" "云爸爸:推我上去!!我取杀了他"
     }
 
     "CLOUD FATHER :So please defeat him instead of me..."
     {
-        "chi" "云之父:所以,请替我打败他..."
+        "chi" "云爸爸:所以请打败他 而不是我啊"
     }
 
     "CLOUD FATHER :Take care if you go anymore."
     {
-        "chi" "云之父:路上小心"
+        "chi" "云爸爸:再走小心点"
     }
 
     "CLOUD FATHER :This injured will fix soon."
     {
-        "chi" "云之父:伤口不久将会愈合"
+        "chi" "云爸爸:小伤 问题不大"
     }
 
     "CLOUD FATHER :Time to show my high power..."
     {
-        "chi" "云之父:是时候展示我更强的力量了..."
+        "chi" "云爸爸:是时候大显身手了"
     }
 
     "CLOUD FATHER :You can complete other area even you have it."
     {
-        "chi" "云之父:你们能完成其他地方,即使你们拥有它"
+        "chi" "云爸爸:如果有其他区域 你也可以去做"
     }
 
     "CLOUD FATHER :you can defeat him..."
     {
-        "chi" "云之父:你们能打败它的..."
+        "chi" "云爸爸:你可以打败他的"
     }
 
     "COOL DOWN : 35 SEC"
     {
-        "chi" "三十五秒"
+        "chi" "冷却:35秒"
     }
 
     "COOL DOWN : 40 SEC"
     {
-        "chi" "四十秒"
+        "chi" "冷却:40秒"
     }
 
     "COOL DOWN : 50 SEC"
     {
-        "chi" "50秒"
+        "chi" "冷却:50秒"
     }
 
     "CRASHER : hahahahHAHAHAHAHHHAHHAHAhHHHHHAAHAHA"
     {
-        "chi" "破碎机:hahahahahah"
+        "chi" "破坏者:哈哈哈哈哈哈"
     }
 
     "CRASHER : You can't kill me forever !!!!"
     {
-        "chi" "破碎机:你们永远都别想杀了我!!!"
+        "chi" "破坏者:你永远也杀不掉我的"
     }
 
-    "CRASHER :BANZAIIIIIIIIIIIIIIIIIIIII !!!!!!!!!!!!!!!!!!"
+    "CRASHER : !!!!!!!!!!!!!!!!!!"
     {
-        "chi" "破碎机:万岁!!!!!!!!!!!!!!"
+        "chi" "破坏者:!!!!!!"
     }
 
     "CRASHER :HAHAHA !!! You can't kill me whatever you do anything !!!!!!"
     {
-        "chi" "破碎机:哈哈哈!!!不管你们做什么都杀不死我!!!!"
+        "chi" "破坏者:你做什么我都杀不掉我的!!!!!"
     }
 
     "CRASHER :HAHAHA!!! What's the taste of this !!!?!?!?!"
     {
-        "chi" "破碎机:哈哈哈!!这些尝起来如何!!!?!?!"
+        "chi" "破坏者:哈哈哈!!这是什么味道!!!!!"
     }
 
     "CRASHER :It's over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
     {
-        "chi" "破碎机:结束了!!!!哈哈哈哈哈哈哈!!!!!"
+        "chi" "破坏者:都结束了!哈哈哈哈哈哈!!!!!!"
     }
 
     "Girl CLOUD : !? Not my father made !! ! I was made it myself !!"
     {
-        "chi" "云妹妹:!?不是我父亲创造了我!!是我自己创造了自己!!!"
+        "chi" "云妹妹:不是我爸爸做的 都我自己做的"
     }
 
     "Girl CLOUD : A,Anyway !! you will be defeated by this machine!!"
     {
-        "chi" "云妹妹:无论如何!!你们将会被这个机器所打败"
+        "chi" "云妹妹:反正你会被这东西打败的"
     }
 
     "Girl cloud : Ahh!! Please move !!"
     {
-        "chi" "云妹妹:啊哈!请动起来!!"
+        "chi" "云妹妹:快动起来"
     }
 
     "Girl CLOUD : Ahh... I was taught by him a little..."
     {
-        "chi" "云妹妹:啊哈...我跟他学了一点点..."
+        "chi" "云妹妹:啊...他教过我一点...."
     }
 
     "Girl cloud : AHHHHHHHHHHHH !!"
     {
-        "chi" "云妹妹:啊哈哈哈哈哈哈!!"
+        "chi" "云妹妹:啊啊啊啊啊啊!!"
     }
 
     "Girl CLOUD : but... I prepared the machine for you"
     {
-        "chi" "云妹妹:但是....我为你们准备了机器"
+        "chi" "云妹妹:但是...我为你准备了机械装置"
     }
 
     "Girl CLOUD : Guh...you are stronger than I thought..."
     {
-        "chi" "云妹妹:好吧..你们比我想的要厉害..."
+        "chi" "云妹妹:我可比你想象的要坚强多了!!"
     }
 
     "Girl CLOUD : LOOK THE MY MACHINE !!!!"
     {
-        "chi" "云妹妹:看看我的机器!!!"
+        "chi" "云妹妹:看我的大宝贝"
     }
 
     "Girl CLOUD : What do you think about this machine ?"
     {
-        "chi" "云妹妹:你们觉得这机器怎么样?"
+        "chi" "云妹妹:觉得我的大宝贝伙怎么样哈哈哈"
     }
 
     "Girl cloud : What...? Why can't move !?"
     {
-        "chi" "云妹妹:什么...?为什么不能动了!?"
+        "chi" "云妹妹:什么??为啥我动不了??"
     }
 
     "Girl CLOUD :?? My machine is strong from wind!! that can't effect me !!"
     {
-        "chi" "云妹妹:??我的机器可比风厉害多了!!风可对我没用!!"
+        "chi" "云妹妹:我的大宝贝 风 很大!!这对我可没啥影响"
     }
 
     "Girl CLOUD :Can't move finely !! Is engine colding !?"
     {
-        "chi" "云妹妹:不能动了!!是引擎冷却了吗!?"
+        "chi" "云妹妹:怎么动不了,需要预热么???"
     }
 
     "Girl CLOUD :I couldn't beat you too..."
     {
-        "chi" "云妹妹:我也打不过你们了...."
+        "chi" "云妹妹:我也打不过你..."
     }
 
     "Girl CLOUD :Stop it !! Engine will be burning !!"
     {
-        "chi" "云妹妹:快停下来!引擎着火了!!"
+        "chi" "云妹妹:快停下!!引擎会爆炸的"
     }
 
     "Girl CLOUD: Fight me !!"
     {
-        "chi" "云妹妹:和我打一架吧!!"
+        "chi" "云妹妹:别放水"
     }
 
     "Girl CLOUD: I will defeat you !!"
     {
-        "chi" "云妹妹:我要打败你们!!"
+        "chi" "云妹妹:我要打败你"
     }
 
     "Girl CLOUD: I'm boy cloud's sister!"
     {
-        "chi" "云妹妹:我是云宝宝的姐姐!"
+        "chi" "云妹妹:我可是他姐姐"
     }
 
     "Girl CLOUD: I'm stronger than you and father are thinking!!"
     {
-        "chi" "云妹妹:我可比你们和父亲想的厉害多了!!"
+        "chi" "云妹妹:我比你和你父亲想象的要更强大!!"
     }
 
     "Girl CLOUD: You defeated my brother and come this place right?"
     {
-        "chi" "云妹妹:你们打败了我的弟弟,并且到这来了..对吗?"
+        "chi" "云妹妹:你打败了我弟弟,然后来找我了是吧?"
     }
 
     "Remember : 10 COUNTS !!!!!"
     {
-        "chi" "记住:10秒倒计时!!!"
+        "chi" "记住:10秒倒计时!!"
     }
 
     "TWO CLOUDS :but..."
     {
-        "chi" "两朵云:但是..."
+        "chi" "云弟弟和姐姐:但是...."
     }
 
     "TWO CLOUDS :My Father will defeat you instead of us !!"
     {
-        "chi" "两朵云:我的父亲将会替我们打败你们!!"
+        "chi" "云弟弟和姐姐:我的父亲会打败你 而不是我们"
     }
 
     "WARNING : ZOMBIES ARE ALIVE !!!"
     {
-        "chi" "警告:僵尸还活着!!!"
+        "chi" "警告:僵尸还活着"
     }
 
 }
