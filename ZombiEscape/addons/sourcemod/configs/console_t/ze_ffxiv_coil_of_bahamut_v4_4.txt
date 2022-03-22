@@ -1,4 +1,4 @@
-﻿"Console_T"
+"Console_T"
 {
     // Console SayText i18n file generator.
     // Copyright 2022 Kyle 'Kxnrl' Frankiss 
@@ -13,12 +13,12 @@
 
     "** Piercing Laser **"
     {
-        "chi" "穿过激光"
+        "chi" "激光(靠近它)"
     }
 
     "** Repelling Cannon **"
     {
-        "chi" "驱逐炮"
+        "chi" "驱逐炮(远离它)"
     }
 
     "**0**"
@@ -168,7 +168,7 @@
 
     "**Aggression**"
     {
-        "chi" "入侵之章"
+        "chi" "侵略之章"
     }
 
     "**Ark Morn**"
@@ -198,7 +198,7 @@
 
     "**Collision** "
     {
-        "chi" "俯冲"
+        "chi" "火焰俯冲"
     }
 
     "**Dalamud Dive**"
@@ -278,12 +278,12 @@
 
     "**Gravity** "
     {
-        "chi" "重力"
+        "chi" "引力"
     }
 
     "**Ground Circles**"
     {
-        "chi" "绝地回环"
+        "chi" "地爆之环"
     }
 
     "**Heavenfall Trio** "
