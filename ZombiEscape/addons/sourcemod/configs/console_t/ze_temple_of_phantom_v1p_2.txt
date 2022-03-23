@@ -18,7 +18,7 @@
 
     "** The door opens after 3s **"
     {
-        "chi" "3秒后门打开"
+        "chi" "3秒门打开"
     }
 
     "**The wind has been picked up**"
@@ -73,7 +73,7 @@
 
     "** 40 **"
     {
-        "chi" "4"
+        "chi" "40"
     }
 
     "** Phase 2 **"
@@ -108,7 +108,7 @@
 
     "** Burning with fire **"
     {
-        "chi" "燃烧2"
+        "chi" "燃烧"
     }
 
     "** Highly toxic **"
@@ -139,6 +139,7 @@
     "**you only have 350 seconds to kill this dragon**"
     {
         "chi" "你们只有三百五十秒杀死恶龙"
+        "countdown" "350"
     }
 
     "** 10 **"
@@ -159,11 +160,6 @@
     "** 50 **"
     {
         "chi" "50"
-    }
-
-    "** 35 **"
-    {
-        "chi" "35"
     }
 
     "**The torch has been picked up**"
