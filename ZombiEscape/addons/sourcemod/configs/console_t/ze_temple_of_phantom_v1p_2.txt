@@ -18,7 +18,278 @@
 
     "** The door opens after 3s **"
     {
-        "chi" "门将在3秒以后打开"
+        "chi" "门将在3秒后打开"
+    }
+
+    "**The wind has been picked up**"
+    {
+        "chi" "一名玩家捡起了风"
+    }
+
+    "** 18 **"
+    {
+        "chi" "18"
+    }
+
+    "** 20 **"
+    {
+        "chi" "20"
+    }
+
+    "**30 **"
+    {
+        "chi" "30"
+    }
+
+    "** Regional Slave **"
+    {
+        "chi" "奴隶"
+    }
+
+    "** Great Earthquake **"
+    {
+        "chi" "大地震"
+    }
+
+    "** 45 **"
+    {
+        "chi" "45"
+    }
+
+    "** Sky Roar **"
+    {
+        "chi" "天空咆哮"
+    }
+
+    "** Fire Field **"
+    {
+        "chi" "火场"
+    }
+
+    "** Lava Rise **"
+    {
+        "chi" "岩浆上升"
+    }
+
+    "** 40 **"
+    {
+        "chi" "40"
+    }
+
+    "** Phase 2 **"
+    {
+        "chi" "第二阶段"
+    }
+
+    "** Freezing air **"
+    {
+        "chi" "寒风"
+    }
+
+    "** scorching sun **"
+    {
+        "chi" "烈焰"
+    }
+
+    "** Big storm **"
+    {
+        "chi" "风暴"
+    }
+
+    "** Freezing cold **"
+    {
+        "chi" "冰冻"
+    }
+
+    "** Frozen miles **"
+    {
+        "chi" "千里冰封"
+    }
+
+    "** Burning with fire **"
+    {
+        "chi" "燃烧"
+    }
+
+    "** Highly toxic **"
+    {
+        "chi" "剧毒"
+    }
+
+    "** Unfreezing zombies **"
+    {
+        "chi" "解冻僵尸"
+    }
+
+    "* * phase 1 complete**"
+    {
+        "chi" "第一阶段完成"
+    }
+
+    "** phase 1**"
+    {
+        "chi" "第一阶段"
+    }
+
+    "** 35 **"
+    {
+        "chi" "35"
+    }
+
+    "**you only have 350 seconds to kill this dragon**"
+    {
+        "chi" "你们只有三百五十秒杀死恶龙"
+    }
+
+    "** 10 **"
+    {
+        "chi" "10"
+    }
+
+    "** 80 **"
+    {
+        "chi" "80"
+    }
+
+    "** 25 **"
+    {
+        "chi" "25"
+    }
+
+    "** 50 **"
+    {
+        "chi" "50"
+    }
+
+    "**The torch has been picked up**"
+    {
+        "chi" "火把被捡起"
+    }
+
+    "**A player chose the Holy Knight**"
+    {
+        "chi" "一名玩家选择骑士"
+    }
+
+    "**Quick use SAWDWDSA can release the ultimate magic**"
+    {
+        "chi" "快速使用SAWDWDSA可以释放终极魔法"
+    }
+
+    "**Right click to wield a weapon to launch an attack**"
+    {
+        "chi" "右键使用武器发起攻击"
+    }
+
+    "**Can use Holy Light to heal allies and slow down enemies**"
+    {
+        "chi" "可以使用圣光治疗队友并减缓敌人的速度"
+    }
+
+    "**Use the power of the Holy Sword to attack the enemy remotely**"
+    {
+        "chi" "使用圣剑的力量远程攻击敌人"
+    }
+
+    "**Secret Chaos has been picked up**"
+    {
+        "chi" "混沌被捡起"
+    }
+
+    "**Right click can destroy all human artifact effects instantly**"
+    {
+        "chi" "右键可以摧毁人类所有神器的效果"
+    }
+
+    "**Release chaotic magic to blind enemies**"
+    {
+        "chi" "向失明的敌人释放混沌魔法"
+    }
+
+    "**The extreme cold storm has been picked up**"
+    {
+        "chi" "一名玩家捡起寒风"
+    }
+
+    "**The fire of extinction has been picked up**"
+    {
+        "chi" "一名玩家捡起烈焰"
+    }
+
+    "**The Dark Mystery has been picked up**"
+    {
+        "chi" "一只僵尸捡起巫医"
+    }
+
+    "**Right click to release the Ice Blue Blade to damage and slow down the enemy**"
+    {
+        "chi" "右键释放冰蓝色剑刃造成伤害,减慢敌人速度"
+    }
+
+    "**Release the dark magic to heal and accelerate**"
+    {
+        "chi" "释放黑魔法来治疗和加速"
+    }
+
+    "**Secret of Ice has been picked up**"
+    {
+        "chi" "一只僵尸捡起冰封"
+    }
+
+    "**Right click to release a small snowstorm to slow down surrounding enemies**"
+    {
+        "chi" "右键释放小暴风雪,减缓敌人的速度"
+    }
+
+    "**Freeze enemies around 5 seconds after release**"
+    {
+        "chi" "释放后冻结敌人五秒"
+    }
+
+    "**Light Summoning Magic has been picked up**"
+    {
+        "chi" "一名玩家捡起天雷"
+    }
+
+    "**Void Mystery has been picked up**"
+    {
+        "chi" "一只僵尸捡起邪灵"
+    }
+
+    "**Release the Son of Death from the Void and rush towards the target**"
+    {
+        "chi" "从虚空中释放死亡之子,冲向前方"
+    }
+
+    "**Right click to form a Void Shield to resist human attacks**"
+    {
+        "chi" "右击形成盾,抵御人类攻击"
+    }
+
+    "**Holy Magic has been picked up**"
+    {
+        "chi" "一名玩家捡起圣灵"
+    }
+
+    "** The far door opens after 20 seconds **"
+    {
+        "chi" "20秒后远门打开"
+    }
+
+    "** ze_templ_of_phantom_v1 **"
+    {
+        "chi" "幻想神殿"
+        "blocked" "1"
+    }
+
+    "** ??????????????????????????????ZE?????????????????? **"
+    {
+        "blocked" "1"
+    }
+
+    "**????????????E??????????????????????????????????**"
+    {
+        "blocked" "1"
     }
 
 }
