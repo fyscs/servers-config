@@ -1,0 +1,364 @@
+﻿"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***5 seconds left***"
+    {
+        "chi" "还剩5秒"
+    }
+
+    "***All items will Disable in 1 seconds***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "***All items will Disable in 2 seconds***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "***All items will Disable in 3 seconds***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "***All items will Disable in 4 seconds***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "***All items will Disable in 5 seconds***"
+    {
+        "chi" "神器将在5秒后禁用"
+    }
+
+    "***Break the box***"
+    {
+        "chi" "打碎水晶"
+    }
+
+    "***Bridge opening...***"
+    {
+        "chi" "桥梁显现"
+    }
+
+    "***CURRENT LEVEL - 1 -***"
+    {
+        "chi" "第一关"
+    }
+
+    "***CURRENT LEVEL - 2 -***"
+    {
+        "chi" "第二关"
+    }
+
+    "***CURRENT LEVEL - 3 -***"
+    {
+        "chi" "第三关"
+    }
+
+    "***Danger Field***"
+    {
+        "chi" "煎蛋"
+    }
+
+    "***DIFFICULTY SET TO [DREAM]"
+    {
+        "chi" "设置为第二关"
+    }
+
+    "***DIFFICULTY SET TO [FADE]"
+    {
+        "chi" "设置为第一关"
+    }
+
+    "***DIFFICULTY SET TO -3-***"
+    {
+        "chi" "设置为第三关"
+    }
+
+    "***DIFFICULTY SET TO -4-***"
+    {
+        "chi" "设置为rtv关"
+    }
+
+    "***Door break in 20 seconds***"
+    {
+        "chi" "20秒后大门破碎"
+    }
+
+    "***Door Break in 20 seconds***"
+    {
+        "chi" "20秒后大门破碎"
+    }
+
+    "***Door open in 20 seconds***"
+    {
+        "chi" "20秒后大门打开"
+    }
+
+    "***Elevator rise up in 10 seconds***"
+    {
+        "chi" "电梯还有10秒上升"
+    }
+
+    "***Ende***"
+    {
+        "chi" "结束"
+    }
+
+    "***ESCAPE***"
+    {
+        "chi" "通关"
+    }
+
+    "***Failed***"
+    {
+        "chi" "失败"
+    }
+
+    "***FAILED***"
+    {
+        "chi" "失败"
+    }
+
+    "***Final teleport enable in 35 seconds***"
+    {
+        "chi" "最后的传送于35秒后激活"
+    }
+
+    "***First Door Break in 20 seconds***"
+    {
+        "chi" "第一扇门于20秒后打开"
+    }
+
+    "***For Upper***"
+    {
+        "chi" "激光"
+    }
+
+    "***Freezer picked up***"
+    {
+        "chi" "一名玩家捡起了冰"
+    }
+
+    "***Go Back to teleport place***"
+    {
+        "chi" "回到传送区域"
+    }
+
+    "***Gravity Casted***"
+    {
+        "chi" "吸力"
+    }
+
+    "***Hold 20 seconds***"
+    {
+        "chi" "守住20秒"
+    }
+
+    "***Hold 30 seconds***"
+    {
+        "chi" "守住30秒"
+    }
+
+    "***HOLD FOR 20 SECONDS***"
+    {
+        "chi" "守住20秒"
+    }
+
+    "***Hold until Door break***"
+    {
+        "chi" "防守至大门破碎"
+    }
+
+    "***Hold until Door Break***"
+    {
+        "chi" "防守至大门破碎"
+    }
+
+    "***HOLD UNTIL GATE OPEN***"
+    {
+        "chi" "防守至大门打开"
+    }
+
+    "***Ice Casted***"
+    {
+        "chi" "冰气"
+    }
+
+    "***Laser***"
+    {
+        "chi" "跳刀"
+    }
+
+    "***Last elevator come down in 30 seconds***"
+    {
+        "chi" "最后的电梯30秒后到达"
+    }
+
+    "***Last elevator goes up in 7 seconds***"
+    {
+        "chi" "最后的电梯7秒后上升"
+    }
+
+    "***Map by Reflelia***"
+    {
+        "chi" "作者:Reflelia 翻译:夕阳"
+    }
+
+    "***Particle Effect by Airvulpes***"
+    {
+        "chi" "粒子:Airvulpes"
+    }
+
+    "***Portal open in 30 seconds***"
+    {
+        "chi" "大门30秒后开启"
+    }
+
+    "***Portal Open in 30 seconds***"
+    {
+        "chi" "大门30秒后开启"
+    }
+
+    "***Recovery picked up***"
+    {
+        "chi" "一名玩家捡起了奶"
+    }
+
+    "***Reflection Casted***"
+    {
+        "chi" "反伤"
+    }
+
+    "***Reflection ended***"
+    {
+        "chi" "反伤结束"
+    }
+
+    "***Reflection will cast in 1s*"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "***Reflection will cast in 2s*"
+    {
+        "chi" "反伤2"
+    }
+
+    "***Resist 15 seconds***"
+    {
+        "chi" "防守15秒"
+    }
+
+    "***Resist 20 seconds***"
+    {
+        "chi" "防守20秒"
+    }
+
+    "***RESIST 25 SECONDS***"
+    {
+        "chi" "防守25秒"
+    }
+
+    "***Resist 30 seconds***"
+    {
+        "chi" "防守30秒"
+    }
+
+    "***RESIST FOR 35 SECONDS***"
+    {
+        "chi" "防守35秒"
+    }
+
+    "***Run!***"
+    {
+        "chi" "跑"
+    }
+
+    "***Snow picked up***"
+    {
+        "chi" "一名玩家捡起了雪"
+    }
+
+    "***Spread out***"
+    {
+        "chi" "黑球"
+    }
+
+    "***Teleport activates in 45 seconds***"
+    {
+        "chi" "传送于45秒后激活"
+    }
+
+    "***TELEPORT ENABLE IN 30 SECONDS***"
+    {
+        "chi" "传送于30秒后激活"
+    }
+
+    "***Thanks to Shizuru[idea] / uuz[model]***"
+    {
+        "chi" "灵感来源:Shizuru 模型提供:uuz"
+    }
+
+    "***Thruster Casted***"
+    {
+        "chi" "跳跳乐"
+    }
+
+    "***Wind Casted***"
+    {
+        "chi" "狂风"
+    }
+
+    "***Wind picked up***"
+    {
+        "chi" "一名玩家捡起了风"
+    }
+
+    "***Zombie Escaped***"
+    {
+        "chi" "僵尸胜利"
+    }
+
+    "***Zombie picked up Gravity***"
+    {
+        "chi" "僵尸黑洞被拾取"
+    }
+
+    "***Zombie picked up Heal***"
+    {
+        "chi" "僵尸治疗被拾取"
+    }
+
+    "***Zombie picked up Ice***"
+    {
+        "chi" "僵尸冰冻被拾取"
+    }
+
+    "***Zombie picked up Nuke***"
+    {
+        "chi" "僵尸秒杀被拾取"
+    }
+
+    "***Zombie teleport in 10 seconds***"
+    {
+        "chi" "僵尸在10秒后传送"
+    }
+
+}
