@@ -1,4 +1,4 @@
-﻿"Console_T"
+"Console_T"
 {
     // Console SayText i18n file generator.
     // Copyright 2022 Kyle 'Kxnrl' Frankiss 
@@ -13,12 +13,12 @@
 
     "** Piercing Laser **"
     {
-        "chi" "穿过激光"
+        "chi" "外场电"
     }
 
     "** Repelling Cannon **"
     {
-        "chi" "驱逐炮"
+        "chi" "内场电"
     }
 
     "**0**"
@@ -278,7 +278,7 @@
 
     "**Gravity** "
     {
-        "chi" "重力"
+        "chi" "引力"
     }
 
     "**Ground Circles**"
