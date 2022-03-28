@@ -8,7 +8,7 @@ jobs:
   pr-lint:
     runs-on: ubuntu-latest
     steps:
-    - uses: fys-csgo/pr-lint-action@master
+    - uses: fys-csgo/pr-lint-action@v1.6.2
       with:
         title-regex: '^(新增|修改)\:(\ )(ze|mg|ttt|jb|bhop|surf|kz|kzpro|vnl|skz|bkz|xc)\_[a-zA-Z0-9_]+$'
         verify-head-commit-message-as-title: true
