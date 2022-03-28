@@ -1,0 +1,322 @@
+﻿"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "ADMIN ROOM: SOUNDTRACK MAP"
+    {
+        "chi" "__null__"
+    }
+
+    "And help by How Super Terrible?"
+    {
+        "chi" "__null__"
+    }
+
+    "Audiomachine - Earth Shaker"
+    {
+        "chi" "__null__"
+    }
+
+    "Battlefield 1 Single Player Story  Suns And Stars"
+    {
+        "chi" "__null__"
+    }
+
+    "Blue Stahli - Not Over Til We Say So"
+    {
+        "chi" "__null__"
+    }
+
+    "Break the laser power switch!"
+    {
+        "chi" "破坏那个开关!!!"
+    }
+
+    "C4 has been planted"
+    {
+        "chi" "炸弹已安放!!"
+    }
+
+    "Cliff  Lin - Waiting"
+    {
+        "chi" "__null__"
+    }
+
+    "Cliff Lin - A Call To Arms"
+    {
+        "chi" "__null__"
+    }
+
+    "Cliff Lin - Dawn Awaits"
+    {
+        "chi" "__null__"
+    }
+
+    "Cliff Lin - Everyday Superstar "
+    {
+        "chi" "__null__"
+    }
+
+    "Cliff Lin - How The East Was Lost"
+    {
+        "chi" "__null__"
+    }
+
+    "Cliff Lin - Nightfall"
+    {
+        "chi" "__null__"
+    }
+
+    "Cliff Lin - Pioneers Of The Apocalypse"
+    {
+        "chi" "__null__"
+    }
+
+    "Cliff Lin - Poison Control"
+    {
+        "chi" "__null__"
+    }
+
+    "Cliff Lin - Scorched Earth"
+    {
+        "chi" "__null__"
+    }
+
+    "Cliff Lin - The Only Way Out Is In"
+    {
+        "chi" "__null__"
+    }
+
+    "Climb up the boxes after activated the detonator !"
+    {
+        "chi" "启动炸弹!快到箱子上去!!"
+    }
+
+    "CREDITS MAP"
+    {
+        "chi" "__null__"
+    }
+
+    "CSGO version Ported by TuPu"
+    {
+        "chi" "__null__"
+    }
+
+    "Devil May Cry 3 - Devil Never Cry"
+    {
+        "chi" "__null__"
+    }
+
+    "Devil May Cry 4 - Shall Never Surrender"
+    {
+        "chi" "__null__"
+    }
+
+    "Door is opening"
+    {
+        "chi" "门开了!!"
+    }
+
+    "DragonForce - Through the Fire and Flames"
+    {
+        "chi" "__null__"
+    }
+
+    "Find a way to get into the room!"
+    {
+        "chi" "想办法进到房子里去!"
+    }
+
+    "Find a way to turn off the gas"
+    {
+        "chi" "想办法把蒸汽管道关上!!"
+    }
+
+    "Get in and keep holding until the door is closed!"
+    {
+        "chi" "快进来!!门马上就要关了!!"
+    }
+
+    "Get inside !"
+    {
+        "chi" "快进来!!"
+    }
+
+    "GET ON THE ELEVATOR"
+    {
+        "chi" "快上电梯!!(也可以再守一会~)"
+    }
+
+    "GET ON THE HELICOPTER"
+    {
+        "chi" "快上飞机!我们该走了!!"
+    }
+
+    "Good Luck !"
+    {
+        "chi" "祝你好运!!"
+    }
+
+    "Keep holding until zombies get teleport!"
+    {
+        "chi" "保持防守!直到僵尸传送!!"
+    }
+
+    "Linkin Park - Lost in the Echo (Remix by Paul Udarov)"
+    {
+        "chi" "__null__"
+    }
+
+    "Map made by Trazix"
+    {
+        "chi" "__null__"
+    }
+
+    "Models and materials use by Crowbar Collective Black Mesa Team"
+    {
+        "chi" "__null__"
+    }
+
+    "My Demons - Starset"
+    {
+        "chi" "__null__"
+    }
+
+    "Paul Udarov & Voicians - Inside"
+    {
+        "chi" "__null__"
+    }
+
+    "Pendulum - Crush"
+    {
+        "chi" "__null__"
+    }
+
+    "Pendulum - Fountain"
+    {
+        "chi" "__null__"
+    }
+
+    "Place the c4 to break the wall!"
+    {
+        "chi" "放置炸弹把墙炸开!!"
+    }
+
+    "Prepare for your LAST FIGHT"
+    {
+        "chi" "最后一战!!!"
+    }
+
+    "Prepare.."
+    {
+        "chi" "准备好..."
+    }
+
+    "Put the valve on and turn it"
+    {
+        "chi" "找到阀门放上去,然后转动它..."
+    }
+
+    "Remake of one part from L4D2 Campaign Day Break by DannBo "
+    {
+        "chi" "__null__"
+    }
+
+    "RUN"
+    {
+        "chi" "快润快润!!"
+    }
+
+    "Some level of Transmissions: Element 120 "
+    {
+        "chi" "__null__"
+    }
+
+    "Some of the zombie cage has placed portals to teleport between each zombie cage"
+    {
+        "chi" "部分尸笼之间放置了可以使用的传送阵."
+    }
+
+    "Special thanks to Zombieden for testing and people who guiding me on anything"
+    {
+        "chi" "感谢zed社区为地图提供测试,也感谢那些帮助过我的人!!"
+    }
+
+    "Stay inside the room until the zombies outside get teleport!"
+    {
+        "chi" "待在这里!僵尸马上就会传送!!"
+    }
+
+    "Thanks to AzoNa  Ray and Master Tof"
+    {
+        "chi" "感谢AzoNa与MasterTof"
+    }
+
+    "Thanks to Zombieden for testing csgo version"
+    {
+        "chi" "感谢zed社区对地图测试提供的帮助"
+    }
+
+    "The door opening in 15s"
+    {
+        "chi" "门15秒后开"
+    }
+
+    "The doors opening in 30s"
+    {
+        "chi" "这扇门30秒后开."
+    }
+
+    "Trigger the BOMB and wait for helipoter to bring us out of this island !"
+    {
+        "chi" "启动炸弹!!直升机会来接我们离开这里!!"
+    }
+
+    "Twelve Titans Music - Monolith Epic Massive Trailer Action"
+    {
+        "chi" "__null__"
+    }
+
+    "Voicians - Birthright feat. Martin Harp Celldweller Cover"
+    {
+        "chi" "__null__"
+    }
+
+    "Watch out!"
+    {
+        "chi" "小心!!"
+    }
+
+    "We need to hack the computer and upload the virus!"
+    {
+        "chi" "我们需要侵入计算机上传病毒!!"
+    }
+
+    "Welcome on Objective Rampage"
+    {
+        "chi" "行动代号: 横空去世"
+    }
+
+    "West One Music - Race to the Line"
+    {
+        "chi" "__null__"
+    }
+
+    "zombies, take advantage of it!"
+    {
+        "chi" "僵尸们!不要让人类轻易跑掉!!"
+    }
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置: 已关闭摔伤"
+    }
+}
