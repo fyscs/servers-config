@@ -8,13 +8,13 @@ jobs:
   pr-lint:
     runs-on: ubuntu-latest
     steps:
-    - uses: fys-csgo/pr-lint-action@v1.6.2
+    - uses: fys-csgo/pr-lint-action@v1.6.3
       with:
         title-regex: '^(新增|修改)\:(\ )(ze|mg|ttt|jb|bhop|surf|kz|kzpro|vnl|skz|bkz|xc)\_[a-zA-Z0-9_]+$'
         verify-head-commit-message-as-title: true
         on-failed-regex-fail-action: true
         on-failed-regex-create-review: true
         on-failed-verify-head-commit-message-close: true
-        on-failed-verify-head-commit-message-comment: "首个提交的Commit summary请匹配标题"
+        on-failed-verify-head-commit-message-comment: "首次Commit的Summary请匹配Pull Request标题"
         on-failed-regex-comment: "无效的PR标题, 请修改为符合手册的规范, 例如: ``修改: mg_abc_v1`` 或 ``新增: mg_abc_v2``"
         repo-token: "${{ secrets.GITHUB_TOKEN }}"
