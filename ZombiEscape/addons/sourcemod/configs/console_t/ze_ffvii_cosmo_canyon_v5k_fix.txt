@@ -118,17 +118,17 @@
 
     "**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**"
     {
-        "chi" "__null__"
+        "chi" "管理员通过调关房调整了关卡."
     }
 
     "**ADMIN PRESSED KILL ALL BUTTON**"
     {
-        "chi" "__null__"
+        "chi" "管理员按下处死按钮"
     }
 
     "**Chest Quest completed!**"
     {
-        "chi" "__null__"
+        "chi" "宝箱任务完成!"
     }
 
     "**CHEST SIDEQUEST STARTED**"
@@ -368,7 +368,7 @@
 
     "**The gates will open in 25 seconds**"
     {
-        "chi" "__null__"
+        "chi" "大门25秒后打开."
     }
 
     "**The gates will open in 30 seconds**"
@@ -393,7 +393,7 @@
 
     "**The reward is waiting for you in the gi cave**"
     {
-        "chi" "__null__"
+        "chi" "奖励在洞穴里等待着你!"
     }
 
     "**The rock will explode in 25 seconds**"
@@ -498,7 +498,7 @@
 
     "[Cloud] Hold on! I will take you on the airship.. And then we will go to Shinra base. "
     {
-        "chi" "__null__"
+        "chi" "等等!你也上来!我们得一块去神罗基地!"
     }
 
     "[Cloud] If you succeed with that then we explode the base with Jenova."
@@ -518,17 +518,17 @@
 
     "[Cloud] Really do not think that he could lose that easy.. Anyways the base will explode soon. "
     {
-        "chi" "__null__"
+        "chi" "我真不会认为他会这样轻易输掉...不过基地快爆炸了!"
     }
 
     "[Cloud] Red-XIII will stay here and will help to reestablish the Village. "
     {
-        "chi" "__null__"
+        "chi" "赤红十三会待在这里帮助重建村庄."
     }
 
     "[Cloud] See you on the top evacuation point. "
     {
-        "chi" "__null__"
+        "chi" "在最高的那处撤离点等你."
     }
 
     "[Cloud] So lets start from the Temple of the Ancients.."
@@ -573,17 +573,17 @@
 
     "[Red-XIII] I cannot find enough words to thank them for all... they did a really good job. "
     {
-        "chi" "__null__"
+        "chi" "我对他们帮助的感谢难以言表...他们真的太棒了!!"
     }
 
     "[Red-XIII] I guess we can rest for a bit here and keep going then.. What do you think? "
     {
-        "chi" "__null__"
+        "chi" "我想我们可以在这休息会再继续前进...你觉得怎么样?"
     }
 
     "[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave. "
     {
-        "chi" "__null__"
+        "chi" "当然,但是我得先去做点什么...在基纳塔克的洞穴见"
     }
 
     "[Red-XIII] That guy could summon Bahamut.. Where did he take that power?"
@@ -593,7 +593,7 @@
 
     "[Red-XIII] There I will give you all the stuff you need. "
     {
-        "chi" "__null__"
+        "chi" "在那里我会给你你想要的全部东西."
     }
 
     "igger cmd:Command:say [Cloud] Ay.. There you are!:2:1"
