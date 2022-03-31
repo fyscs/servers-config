@@ -98,7 +98,7 @@
 
     "**A player has picked up Phoenix Down**"
     {
-        "chi" "__null__"
+        "chi" "一名玩家拾取了凤凰!"
     }
 
     "**A player has picked up SLEEP materia**"
@@ -118,17 +118,17 @@
 
     "**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**"
     {
-        "chi" "__null__"
+        "chi" "管理员通过调关房调整了关卡."
     }
 
     "**ADMIN PRESSED KILL ALL BUTTON**"
     {
-        "chi" "__null__"
+        "chi" "管理员按下处死按钮"
     }
 
     "**Chest Quest completed!**"
     {
-        "chi" "__null__"
+        "chi" "宝箱任务完成!"
     }
 
     "**CHEST SIDEQUEST STARTED**"
@@ -368,7 +368,7 @@
 
     "**The gates will open in 25 seconds**"
     {
-        "chi" "__null__"
+        "chi" "大门25秒后打开."
     }
 
     "**The gates will open in 30 seconds**"
@@ -393,7 +393,7 @@
 
     "**The reward is waiting for you in the gi cave**"
     {
-        "chi" "__null__"
+        "chi" "奖励在洞穴里等待着你!"
     }
 
     "**The rock will explode in 25 seconds**"
@@ -443,7 +443,7 @@
 
     "**You are too slow**"
     {
-        "chi" "__null__"
+        "chi" "太慢啦!"
     }
 
     "**You have beaten Cosmo Canyon!! Congratulations !! **"
@@ -478,7 +478,7 @@
 
     "**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**"
     {
-        "chi" "__null__"
+        "chi" "守住!酒馆后门还有25秒打开!!"
     }
 
     "[Cloud] Especially if he got Gi Nattak soul.. Hard to imagine how mighty he will become.."
@@ -498,7 +498,7 @@
 
     "[Cloud] Hold on! I will take you on the airship.. And then we will go to Shinra base. "
     {
-        "chi" "__null__"
+        "chi" "等等!你也上来!我们得一块去神罗基地!"
     }
 
     "[Cloud] If you succeed with that then we explode the base with Jenova."
@@ -518,17 +518,17 @@
 
     "[Cloud] Really do not think that he could lose that easy.. Anyways the base will explode soon. "
     {
-        "chi" "__null__"
+        "chi" "我真不会认为他会这样轻易输掉...不过基地快爆炸了!"
     }
 
     "[Cloud] Red-XIII will stay here and will help to reestablish the Village. "
     {
-        "chi" "__null__"
+        "chi" "赤红十三会待在这里帮助重建村庄."
     }
 
     "[Cloud] See you on the top evacuation point. "
     {
-        "chi" "__null__"
+        "chi" "在最高的那处撤离点等你."
     }
 
     "[Cloud] So lets start from the Temple of the Ancients.."
@@ -573,17 +573,17 @@
 
     "[Red-XIII] I cannot find enough words to thank them for all... they did a really good job. "
     {
-        "chi" "__null__"
+        "chi" "我对他们帮助的感谢难以言表...他们真的太棒了!!"
     }
 
     "[Red-XIII] I guess we can rest for a bit here and keep going then.. What do you think? "
     {
-        "chi" "__null__"
+        "chi" "我想我们可以在这休息会再继续前进...你觉得怎么样?"
     }
 
     "[Red-XIII] Of course. But I need to do something first.. I will see you in the Gi Cave. "
     {
-        "chi" "__null__"
+        "chi" "当然,但是我得先去做点什么...在基纳塔克的洞穴见"
     }
 
     "[Red-XIII] That guy could summon Bahamut.. Where did he take that power?"
@@ -593,122 +593,122 @@
 
     "[Red-XIII] There I will give you all the stuff you need. "
     {
-        "chi" "__null__"
+        "chi" "在那里我会给你你想要的全部东西."
     }
 
-    "igger cmd:Command:say [Cloud] Ay.. There you are!:2:1"
+    "[Cloud] Ay.. There you are!"
     {
-        "chi" "__null__"
+        "chi" "嗯...给你这个"
     }
 
-    "igger cmd:Command:say [Cloud] Just in case.. I will bring the ship to the end of the canyon and will take you away..:5:1"
+    "[Cloud] Just in case.. I will bring the ship to the end of the canyon and will take you away.."
     {
-        "chi" "__null__"
+        "chi" "万一出事的话..我会把飞船开到峡谷尽头带你离开这里.."
     }
 
-    "igger cmd:Command:say [Cloud] Oh sh#t. Theres a stranger right near our airship. Be careful..:41:1"
+    "[Cloud] Oh sh#t. Theres a stranger right near our airship. Be careful.."
     {
-        "chi" "__null__"
+        "chi" "坏了!有个陌生人在我们的飞船附近,小心"
     }
 
-    "igger cmd:Command:say [Cloud] Oh what a pity.. :12:1"
+    "[Cloud] Oh what a pity.."
     {
-        "chi" "__null__"
+        "chi" "哦真是太遗憾了.."
     }
 
-    "igger cmd:Command:say [Cloud] Thanks. But one question.. What did we forget here?:6:1"
+    "[Cloud] Thanks. But one question.. What did we forget here?"
     {
-        "chi" "__null__"
+        "chi" "谢谢,但是说起来..我们是不是忘了什么?"
     }
 
-    "igger cmd:Command:say [Cloud] This is so bad.. Theres one of the Shinra bases nearby. I guess here we will find him.:8:1"
+    "[Cloud] This is so bad.. Theres one of the Shinra bases nearby. I guess here we will find him."
     {
-        "chi" "__null__"
+        "chi" "太糟糕了..这附近有一个神罗基地,我想我们会在那里找到它."
     }
 
-    "igger cmd:Command:say [Cloud] This was 1st Class SOLDIER Genesis.. But what did he forget here?:4:1"
+    "[Cloud] This was 1st Class SOLDIER Genesis.. But what did he forget here?"
     {
-        "chi" "__null__"
+        "chi" "杰内西斯曾是一阶战士..但是他为什么在这里?"
     }
 
-    "igger cmd:Command:say [Cloud] Yea I wish you good luck. When you end with him I go repair our airship.. :16:1"
+    "[Cloud] Yea I wish you good luck. When you end with him I go repair our airship.. "
     {
-        "chi" "__null__"
+        "chi" "祝你好运,当你与他了结一切后我去修我们的飞船.."
     }
 
-    "igger cmd:Command:say [Genesis] Anyways Gi Nattak soul is mine now and I can realize my plan.. Farewell! :1:1"
+    "[Genesis] Anyways Gi Nattak soul is mine now and I can realize my plan.. Farewell! "
     {
-        "chi" "__null__"
+        "chi" "不过基纳塔克的灵魂已经是我的了,我的计划也得以实现...再见!!"
     }
 
-    "igger cmd:Command:say [Genesis] Due to you I found what I need.. Face your death here..:0:1"
+    "[Genesis] Due to you I found what I need.. Face your death here.."
     {
-        "chi" "__null__"
+        "chi" "谢谢你我找到了想要的的东西..现在你可以安息了.."
     }
 
-    "igger cmd:Command:say [Genesis] Huh.. Did not think that you will survive.. :0:1"
+    "[Genesis] Huh.. Did not think that you will survive.. "
     {
-        "chi" "__null__"
+        "chi" "额...没想到你活下来了.."
     }
 
-    "igger cmd:Command:say [Red-XIII] And he sacrificed himself in order to save the Cosmo Canyon..:10:1"
+    "[Red-XIII] And he sacrificed himself in order to save the Cosmo Canyon.."
     {
-        "chi" "__null__"
+        "chi" "同时他为了拯救宇宙峡谷牺牲了自己"
     }
 
-    "igger cmd:Command:say [Red-XIII] Cloud do you know that guy?:2:1"
+    "[Red-XIII] Cloud do you know that guy?"
     {
-        "chi" "__null__"
+        "chi" "克劳德你知道那家伙吗?"
     }
 
-    "igger cmd:Command:say [Red-XIII] Do not bring this close to your heart.. He died like a hero and I hope that you guys can defeat him..:14:1"
+    "[Red-XIII] Do not bring this close to your heart.. He died like a hero and I hope that you guys can defeat him.."
     {
-        "chi" "__null__"
+        "chi" "不要想得太多...他以英雄的身份死去.我希望你们能击败他!!"
     }
 
-    "igger cmd:Command:say [Red-XIII] Hope he will not escape this time� I afraid that we could attract extra attention..:2:1"
+    "[Red-XIII] Hope he will not escape this time� I afraid that we could attract extra attention.."
     {
-        "chi" "__null__"
+        "chi" "希望他这次就死在这里,我可不想我们吸引到其他人的注意.."
     }
 
-    "igger cmd:Command:say [Red-XIII] Possibly he needs the Gi Nattak soul.. Because it contains huge amount of power.:6:1"
+    "[Red-XIII] Possibly he needs the Gi Nattak soul.. Because it contains huge amount of power."
     {
-        "chi" "__null__"
+        "chi" "可能他需要基纳塔克的灵魂,毕竟其包含巨大的能量."
     }
 
-    "igger cmd:Command:say [Red-XIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak..:8:1"
+    "[Red-XIII] This is the ancient cave of spirits.. Far ago my father was fighting with Gi Nattak.."
     {
-        "chi" "__null__"
+        "chi" "这是精灵的古老洞穴,很久之前我的父亲曾经直面基纳塔克"
     }
 
-    "igger cmd:Command:say [Red-XIII] Yes. They helped me a lot. Did you ask for that? This is for you..:4:1"
+    "[Red-XIII] Yes. They helped me a lot. Did you ask for that? This is for you.."
     {
-        "chi" "__null__"
+        "chi" "是的,他们帮过我很多.这是给你的."
     }
 
-    "se06 cmd:Command:say **Get on the rocks to get saved!!!**:1:1"
+    "**Get on the rocks to get saved!!!**"
     {
-        "chi" "__null__"
+        "chi" "快跳到石头上!!!"
     }
 
-    "se06 cmd:Command:say **GI NATTAK USES LAVA SUPERATTACK**:0:1"
+    "**GI NATTAK USES LAVA SUPERATTACK**"
     {
-        "chi" "__null__"
+        "chi" "基纳塔克使岩浆面上升了"
     }
 
-    "tMin cmd:Command:say **Ifrit is defeated! Get on the airship**:0:1"
+    "**Ifrit is defeated! Get on the airship**"
     {
-        "chi" "__null__"
+        "chi" "伊芙利特被击败,快上飞船!!"
     }
 
-    "tMin cmd:Command:say [Cloud] Hurry! Get on the airship! I can not stay for long here!"
+    "[Cloud] Hurry! Get on the airship! I can not stay for long here!"
     {
-        "chi" "__null__"
+        "chi" "快上飞船!!我在这里停不了多长时间!!"
     }
 
-    "tMin cmd:Command:say [Cloud] Sh#t! He ran away.. I guess Shinra will notice Bahamut above Cosmo Canyon and we will have more destructions then.."
+    "[Cloud] Sh#t! He ran away.. I guess Shinra will notice Bahamut above Cosmo Canyon and we will have more destructions then.."
     {
-        "chi" "__null__"
+        "chi" "草,他还是跑了...我猜神罗会注意到峡谷的巴哈姆特..我们又有其他事情干了..."
     }
 
 }
