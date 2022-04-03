@@ -2,11 +2,11 @@ name: PR Auto Merge
 
 on:
   pull_request:
-    types: ['opened', 'edited', 'reopened', 'synchronize', 'ready_for_review']
+    types: [opened, edited, reopened, synchronize, ready_for_review]
   pull_request_review:
-    types: ['submitted']
+    types: [submitted, edited]
   check_suite:
-    types: ['completed']
+    types: [completed]
   status: {}
 
 permissions:
@@ -17,12 +17,14 @@ jobs:
   automerge:
     runs-on: ubuntu-latest
     steps:
-      - id: automerge
-        name: automerge
-        uses: fys-csgo/automerge-action@main
+      - name: Auto Merge
+        uses: pascalgn/automerge-action@v0.15.2
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           MERGE_LABELS: ""
           MERGE_METHOD: "squash"
+          MERGE_RETRIES: 5
+          MERGE_RETRY_SLEEP: 10000
+          MERGE_ERROR_FAIL: true
           MERGE_REQUIRED_APPROVALS: 1
           MERGE_COMMIT_MESSAGE: "{pull-request-title} (#{pullRequest.number})"
