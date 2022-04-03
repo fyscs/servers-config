@@ -4,10 +4,7 @@ on:
   pull_request:
     types: [opened, edited, reopened, synchronize]
 
-permissions:
-  contents: write
-  issues: write
-  pull-requests: write
+permissions: write-all
 
 jobs:
   pr-lint:
