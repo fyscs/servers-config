@@ -4,9 +4,9 @@ on:
   #pull_request:
   #  types: [opened, edited, reopened, synchronize, ready_for_review]
   pull_request_review:
-    types: [submitted, edited, dismissed]
+    types: [ 'submitted', 'edited', 'dismissed' ]
   check_suite:
-    types: [completed]
+    types: [ 'completed' ]
   status: {}
 
 permissions: write-all
