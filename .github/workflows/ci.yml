@@ -1,0 +1,38 @@
+name: Continuous Integration
+
+on: 
+  push:
+    branches:
+     - master
+  pull_request:
+    branches:
+     - master
+
+jobs:
+  lock:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: true
+    steps:
+      - name: CheckOut
+        uses: actions/checkout@v3
+      - name: Setup PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: '7.4'
+          extensions: curl, mbstring, fileinfo, json, pcre
+        env:
+          fail-fast: true
+      - name: Setup PHP scripts
+        run: |
+          wget "https://github.com/Kxnrl/php-utility/raw/master/KeyValues/KeyValues.php" -q -O KeyValues.php
+          wget "https://github.com/Kxnrl/php-utility/raw/master/Configs/Configs.php" -q -O Configs.php
+          wget "https://github.com/Kxnrl/php-utility/raw/master/Images/Images.php" -q -O Images.php
+      - name: Check KeyValues
+        run: php -f KeyValues.php
+      - name: Check Configs
+        run: php -f Configs.php
+      - name: Check Images
+        run: php -f Images.php
+
+      
