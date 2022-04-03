@@ -1,10 +1,10 @@
 name: PR Auto Merge
 
 on:
-  pull_request:
-    types: [opened, edited, reopened, synchronize, ready_for_review]
+  #pull_request:
+  #  types: [opened, edited, reopened, synchronize, ready_for_review]
   pull_request_review:
-    types: [submitted, edited]
+    types: [submitted, edited, dismissed]
   check_suite:
     types: [completed]
   status: {}
