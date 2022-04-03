@@ -2,21 +2,11 @@ name: PR Auto Merge
 
 on:
   pull_request:
-    types:
-      - labeled
-      - unlabeled
-      - synchronize
-      - opened
-      - edited
-      - ready_for_review
-      - reopened
-      - unlocked
+    types: ['opened', 'edited', 'reopened', 'synchronize', 'ready_for_review']
   pull_request_review:
-    types:
-      - submitted
+    types: ['submitted']
   check_suite:
-    types:
-      - completed
+    types: ['completed']
   status: {}
 
 permissions:
@@ -29,7 +19,7 @@ jobs:
     steps:
       - id: automerge
         name: automerge
-        uses: "pascalgn/automerge-action@v0.15.2"
+        uses: fys-csgo/automerge-action@main
         env:
           GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
           MERGE_LABELS: ""
