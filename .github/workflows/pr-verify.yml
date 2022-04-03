@@ -9,10 +9,10 @@ permissions:
   pull-requests: write
 
 jobs:
-  pr-lint:
+  Verify:
     runs-on: ubuntu-latest
     steps:
-    - uses: fys-csgo/pr-lint-action@main
+    - uses: fys-csgo/pr-lint-action@v1.6.5
       with:
         title-regex: '["^(新增|修改|回滚)(ZE|TTT|JB|MG|KZ|Retakes|BHop|Surf|HnS)服务器(配置|参数)\\:\\s\\S+$","^新增地图\\:\\s(ze|mg|ttt|jb|bhop|surf|kz|kzpro|vnl|skz|bkz|xc)\\_[a-zA-Z0-9_]+$","^(修改|回滚|补充)地图(数据|翻译|Boss|关卡|按钮|参数|神器|通关奖励)?\\:\\s(ze|mg|ttt|jb|bhop|surf|kz|kzpro|vnl|skz|bkz|xc)\\_[a-zA-Z0-9_]+$"]'
         on-failed-regex-fail-action: true

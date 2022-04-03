@@ -9,10 +9,8 @@ on:
     types: [ 'completed' ]
   status: {}
 
-permissions: write-all
-
 jobs:
-  automerge:
+  Runner:
     runs-on: ubuntu-latest
     steps:
       - name: Auto Merge
