@@ -3,14 +3,8 @@ name: Pull Request
 on:
   pull_request:
     types: ['opened', 'edited', 'reopened', 'synchronize']
-  pull_request_review:
-    types: [ 'submitted', 'edited', 'dismissed' ]
-  check_suite:
-    types: [ 'completed' ]
-  status: {}
 
 permissions:
-  contents: write
   issues: write
   pull-requests: write
 
@@ -28,15 +22,4 @@ jobs:
           on-failed-regex-fail-action: true
           on-failed-regex-create-review: true
           on-failed-regex-comment: "无效的PR标题, 请修改为符合手册的规范, 例如: ``新增ZE服务器参数: 武器限制`` 或 ``新增地图: mg_abc_v2`` 或 ``修改地图Boss: ze_abc``"
-          repo-token: "${{ github.token }}"
-      - name: Auto Merge
-        uses: pascalgn/automerge-action@v0.15.2
-        env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
-          MERGE_LABELS: ""
-          MERGE_METHOD: "squash"
-          MERGE_RETRIES: 5
-          MERGE_RETRY_SLEEP: 10000
-          MERGE_ERROR_FAIL: true
-          MERGE_REQUIRED_APPROVALS: 1
-          MERGE_COMMIT_MESSAGE: "{pull-request-title} (#{pullRequest.number})"
+          repo-token: "${{ secrets.GITHUB_TOKEN }}"
