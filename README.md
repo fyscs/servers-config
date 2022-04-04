@@ -5,9 +5,8 @@ Copyright © 2019-2022 FyS. ALL RIGHTS RESERVED.
 <br />
   
 ### 管理员说明
-- 配置文件将会通过github webhook推送.
-- 管理员commit后将立即在服务器内生效.
-- 请各个管理员不要频繁push.
+- 合并请求前请确定填写了正确的合并标题.  
+- PR在``Approve``之后将会自动合并.  
   
   
 ### 注意事项
