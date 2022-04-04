@@ -9,7 +9,7 @@ on:
      - master
 
 jobs:
-  Verify:
+  Worker:
     runs-on: ubuntu-latest
     strategy:
       fail-fast: true
