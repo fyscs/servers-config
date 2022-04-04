@@ -9,8 +9,9 @@ on:
      - master
 
 jobs:
-  Verify:
+  Worker:
     runs-on: ubuntu-latest
+    continue-on-error: false
     strategy:
       fail-fast: true
     steps:
