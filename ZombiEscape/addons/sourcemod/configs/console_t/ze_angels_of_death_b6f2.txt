@@ -1,0 +1,2239 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "lv2"
+    {
+        "chi" "**第二关 **"
+    }
+
+    "*ray*Zack, wake up. I brought the medicine "
+    {
+        "chi" "*ray*札克醒醒,我把药带过来了"
+    }
+
+    "*zack*Hey, ray, what's the reason you're trying so hard to help me"
+    {
+        "chi" "*zack*喂,瑞依,你这么拼命帮我的理由是什么"
+    }
+
+    "*ray*Because Zack you are my God"
+    {
+        "chi" "*ray*因为札克你是我的神"
+    }
+
+    "*zack*Why are you saying such disgusting things "
+    {
+        "chi" "*zack*为什么你要说这么恶心的话..."
+    }
+
+    "*zack*..."
+    {
+        "chi" "*zack*..."
+    }
+
+    "*zack*We'll leave when we're done"
+    {
+        "chi" "*zack*完事了我们就走"
+    }
+
+    "Close the elevator door after 15 seconds"
+    {
+        "chi" "电梯门15秒后关闭"
+    }
+
+    "Zombies will teleport in 10 seconds"
+    {
+        "chi" "僵尸10秒后传送"
+    }
+
+    "*gray*who are you?"
+    {
+        "chi" "*gray*你是谁"
+    }
+
+    "*gray*I'm the priest of this church, gray "
+    {
+        "chi" "*gray*我是这个教会的神父,葛雷"
+    }
+
+    "*ray*My name is Rachel Gardner..."
+    {
+        "chi" "*ray*我叫瑞吉儿加德纳..."
+    }
+
+    "*gray*What are you looking for?"
+    {
+        "chi" "*gray*你在找什么"
+    }
+
+    "*ray*I'm looking for something to stop the bleeding"
+    {
+        "chi" "*ray*我在找能止血的药品"
+    }
+
+    "*gray*Unfortunately, there is no medicine here that can be used for treatment"
+    {
+        "chi" "*gray*很不巧 这里没有任何能用来治疗的药品"
+    }
+
+    "*gray*Only Danny has"
+    {
+        "chi" "*gray*只有丹尼的楼层有"
+    }
+
+    "*gray*But if you want to go, you must accept some small trials"
+    {
+        "chi" "*gray*但如果要去,你必须接受一些小小的试炼"
+    }
+
+    "*gray*I just want to know who you are"
+    {
+        "chi" "*gray*我只想知道你是谁"
+    }
+
+    "*ray*... I accept your trial "
+    {
+        "chi" "*ray*...我接受你的试炼"
+    }
+
+    "*ray*Zack is still waiting for me zack"
+    {
+        "chi" "*ray*札克还在等着我"
+    }
+
+    "*ray*Don't get in my way"
+    {
+        "chi" "*ray*碍事的东西别来妨碍我"
+    }
+
+    "Defend for 40 seconds"
+    {
+        "chi" "守住40秒"
+    }
+
+    "The other door will open in 10 seconds "
+    {
+        "chi" "另一扇门10秒后打开"
+    }
+
+    "*ray*Another strange place"
+    {
+        "chi" "*ray*又到了一个奇怪的地方"
+    }
+
+    "*ray*I have to hurry to save people now"
+    {
+        "chi" "*ray*我现在要赶着去救人啊"
+    }
+
+    "The door will break in 15 seconds"
+    {
+        "chi" "门15秒后碎裂"
+    }
+
+    "*gray*Why did you wake up"
+    {
+        "chi" "*gray*你为什么会清醒过来"
+    }
+
+    "*ray*A series of strange things on this floor are illusions "
+    {
+        "chi" "*ray*这个楼层一系列奇怪的事情都是幻觉"
+    }
+
+    "*ray*It was my God who woke me up"
+    {
+        "chi" "*ray*是我的神让我清醒了过来"
+    }
+
+    "*gray*It seems that I failed to purify the witch"
+    {
+        "chi" "*gray*看来我没能净化掉魔女"
+    }
+
+    "*ray*Now, hand in the medicine"
+    {
+        "chi" "*ray*现在,把药交出来"
+    }
+
+    "*gray*Well, the medicine is in the dark door next to the bookcase"
+    {
+        "chi" "*gray*好吧,药就在书柜旁边的暗门里"
+    }
+
+    "*gray*A sad witch who only loves herself "
+    {
+        "chi" "*gray*只爱自己的可悲魔女啊"
+    }
+
+    "*gray*Next will be the witch trial"
+    {
+        "chi" "*gray*接下来将进行魔女审判"
+    }
+
+    "*gray*The gods love pure people"
+    {
+        "chi" "*gray*神明钟爱的是清纯之人"
+    }
+
+    "*gray*Now I doubt that you are a witch and deceived my angels"
+    {
+        "chi" "*gray*如今我怀疑你是魔女,欺骗了我的天使们"
+    }
+
+    "*gray*Next, let's invite witness Cathy to present his testimony"
+    {
+        "chi" "*gray*现在请凯西证人来阐述观点"
+    }
+
+    "*cathy*The woman standing here looks gentle and elegant"
+    {
+        "chi" "*cathy*站在这里的女人,外表看上去温文尔雅"
+    }
+
+    "*cathy*But her heart was dark"
+    {
+        "chi" "*cathy*但她的心肠却是漆黑一片"
+    }
+
+    "*cathy*He is a witch worthy of the name"
+    {
+        "chi" "*cathy*他就是一个名副其实的魔女"
+    }
+
+    "*cathy*I asked for her waterboarding"
+    {
+        "chi" "*cathy*我请求对她处以水刑"
+    }
+
+    "*gray*That's enough. You don't have the right to use punishment"
+    {
+        "chi" "*gray*够了,你还没有权力用刑罚"
+    }
+
+    "*gray*Eddie, can you prove her guilt"
+    {
+        "chi" "*gray*埃迪,你能证明她的罪孽吗"
+    }
+
+    "*eddie*no problem"
+    {
+        "chi" "*eddie*没问题,神父大人"
+    }
+
+    "*eddie*My actions are all for her"
+    {
+        "chi" "*eddie*我的行动都是为了她"
+    }
+
+    "*eddie*But Rachel didn't think so "
+    {
+        "chi" "*eddie*但瑞吉儿却不是这么想的"
+    }
+
+    "*eddie*He acted for himself"
+    {
+        "chi" "*eddie*他的行动都是为了她自己"
+    }
+
+    "*eddie*You are so self willed and selfish"
+    {
+        "chi" "*eddie*你太任性自私了"
+    }
+
+    "*eddie*Finally, I was killed by Zack and lay alone in the cemetery"
+    {
+        "chi" "*eddie*最后我还被札克杀了,孤零零躺在墓地里"
+    }
+
+    "*eddie*I asked for the use of needles against her"
+    {
+        "chi" "*eddie*我请求对她使用针刑"
+    }
+
+    "*gray*only this and nothing more"
+    {
+        "chi" "*gray*到此为止"
+    }
+
+    "*gray*Next witness, please"
+    {
+        "chi" "*gray*有请下一位证人,丹尼"
+    }
+
+    "*danny*It's my turn at last"
+    {
+        "chi" "*danny*终于轮到我了呀"
+    }
+
+    "*danny*I have to talk about her charm"
+    {
+        "chi" "*danny*我必须要将她的魅力娓娓道来"
+    }
+
+    "*danny*At that time, I was always looking for my ideal eyes"
+    {
+        "chi" "*danny*当时我一直都在寻找我理想中的眼眸"
+    }
+
+    "*danny*Eyes that are still alive, but have died forever"
+    {
+        "chi" "*danny*明明还活着，却已经永远死去的眼睛"
+    }
+
+    "*danny*At this time, I met her"
+    {
+        "chi" "*danny*这时,我却遇到了她"
+    }
+
+    "*danny*Her eyes are what I've been looking for"
+    {
+        "chi" "*danny*她的眼睛就是我一直在寻找的"
+    }
+
+    "*danny*There is no doubt that her heart is abnormal"
+    {
+        "chi" "*danny*毫无疑问,她的内心是不正常的"
+    }
+
+    "*danny*If it's about her charm, I can say it in more detail"
+    {
+        "chi" "*danny*如果是有关她的魅力,我还能说的更详细点"
+    }
+
+    "*gray*That's enough. There's no need to listen any more"
+    {
+        "chi" "*gray*够了,没必要再听下去了"
+    }
+
+    "*gray*The witness can leave the scene"
+    {
+        "chi" "*gray*证人可以退场了"
+    }
+
+    "*gray*Rachel Gardner, your verdict has been reached"
+    {
+        "chi" "*gray*瑞吉儿加德纳,你的判决已经有了结论"
+    }
+
+    "*gray*I declare the verdict"
+    {
+        "chi" "*gray*我宣布判决"
+    }
+
+    "*gray*Rachel Gardner is the witch"
+    {
+        "chi" "*gray*瑞吉儿加德纳就是魔女"
+    }
+
+    "*gray*Now use fire"
+    {
+        "chi" "*gray*现在立刻被处以火刑"
+    }
+
+    "Defend for 30 seconds"
+    {
+        "chi" "死守30秒"
+    }
+
+    "The door will open in 15 seconds"
+    {
+        "chi" "门15秒后打开"
+    }
+
+    "ray*There's a sweet smell here..."
+    {
+        "chi" "*ray*这里有甜甜的香味..."
+    }
+
+    "ray*It feels strange"
+    {
+        "chi" "*ray*感觉很奇怪.."
+    }
+
+    "The confessional opens in 15 seconds"
+    {
+        "chi" "忏悔室15秒后开放"
+    }
+
+    "ray*The sweet smell seems to have become stronger..."
+    {
+        "chi" "*ray*甜甜的香味好像变的更浓烈了"
+    }
+
+    "The door of repentance will open in 10 seconds"
+    {
+        "chi" "忏悔之门将在10秒后打开"
+    }
+
+    "Defend for 15 seconds"
+    {
+        "chi" "守住15秒"
+    }
+
+    "Zombies will teleport in 5 seconds"
+    {
+        "chi" "僵尸5秒后传送"
+    }
+
+    "The mirror will break in 10 seconds"
+    {
+        "chi" "镜子10秒后碎裂"
+    }
+
+    "*ray* zack!"
+    {
+        "chi" "*ray*札克!"
+    }
+
+    "*zack*You're back safely"
+    {
+        "chi" "*zack*你平安回来了就好"
+    }
+
+    "*ray*Sorry, all the medicine in Danny's floor is missing"
+    {
+        "chi" "*ray*对不起,丹尼那一层里的药品全都不见了"
+    }
+
+    "*zack*Speaking of it, the bastard said he had medicine on him"
+    {
+        "chi" "*zack*说起来,那混蛋说自己身上有药品"
+    }
+
+    "*ray*Did the doctor say anything else"
+    {
+        "chi" "*ray*医生还说了什么其他的话吗"
+    }
+
+    "*zack*You don't have to worry about it"
+    {
+        "chi" "*zack*这事就用不着你操心了"
+    }
+
+    "*zack*Did you go to my floor"
+    {
+        "chi" "*zack*我的楼层你去了吗"
+    }
+
+    "*ray*yes"
+    {
+        "chi" "*ray*嗯..."
+    }
+
+    "*zack*Give me the dagger. Let's go"
+    {
+        "chi" "*zack*把匕首给我,我们走吧"
+    }
+
+    "*ray*You can't move yet"
+    {
+        "chi" "*ray*你还不能乱动"
+    }
+
+    "*zack*You are so wordy"
+    {
+        "chi" "*zack*你好啰嗦啊"
+    }
+
+    "*zack*After sleeping so long, I can go"
+    {
+        "chi" "*zack*睡了这么久我早就能动了"
+    }
+
+    "*zack*Remember I'm a monster"
+    {
+        "chi" "*zack*我可是个怪物啊"
+    }
+
+    "*zack*Monsters don't die easily"
+    {
+        "chi" "*zack*怪物可没那么容易死"
+    }
+
+    "*zack*Since there is no medicine, we can only go forward"
+    {
+        "chi" "*zack*既然没有药品,那也只能往前走了"
+    }
+
+    "*ray* zack"
+    {
+        "chi" "*ray*呐,札克"
+    }
+
+    "*ray*Have you always lived in that room with a dagger"
+    {
+        "chi" "*ray*你一直都生活在那个放匕首的房间吗"
+    }
+
+    "*zack*So what?"
+    {
+        "chi" "*zack*那又怎样"
+    }
+
+    "*ray*Just a little care"
+    {
+        "chi" "*ray*就是有些在意"
+    }
+
+    "*zack*I won't go back anyway. Don't worry"
+    {
+        "chi" "*zack*反正也不会再回去了,不要管了"
+    }
+
+    "*ray*Zack, stop walking and have a rest"
+    {
+        "chi" "*ray*你不能再乱动了,休息一下吧"
+    }
+
+    "*zack*I said I wouldn't die yet"
+    {
+        "chi" "*zack*我都说了我还不会死"
+    }
+
+    "*ray*I can walk alone. I'll find the medicine this time"
+    {
+        "chi" "*ray*我一个人也能走,这次我一定把药找来"
+    }
+
+    "*zack*You'll die if you go like this"
+    {
+        "chi" "*zack*你这样不就是去送死吗"
+    }
+
+    "*zack*Do you still want to be killed by me "
+    {
+        "chi" "*zack*你还想不想被我杀了"
+    }
+
+    "*zack*But you are so desperate for my life and death"
+    {
+        "chi" "*zack*你为我的死活这么拼命干什么"
+    }
+
+    "*zack*What are you looking for from me"
+    {
+        "chi" "*zack*你在向我寻求什么"
+    }
+
+    "*ray*Because you swore to God"
+    {
+        "chi" "*ray*因为你向神起誓了"
+    }
+
+    "*zack*I'm going to sleep. Whatever you want"
+    {
+        "chi" "*zack*我要睡了,随便你吧"
+    }
+
+    "*ray*Zack, I must help you this time"
+    {
+        "chi" "*ray*札克,这次我一定要帮上你"
+    }
+
+    "*ray*Where's Zack"
+    {
+        "chi" "*ray*札克呢"
+    }
+
+    "*gray*Even if you stare at me like this, you can't see anything"
+    {
+        "chi" "*gray*就算你用这种眼瞪着我,也看不出什么的"
+    }
+
+    "*gray*I've been watching your actions"
+    {
+        "chi" "*gray*我一直在观察你的行动"
+    }
+
+    "*gray*I'd like to know what kind of existence you are that disrupts everything here"
+    {
+        "chi" "*gray*我很想知道,把这里的一切都打乱的你是个怎样的存在"
+    }
+
+    "*gray*If you bring bad influence, I must punish you"
+    {
+        "chi" "*gray*如果是你带来了坏影响,那我就必须制裁你"
+    }
+
+    "*ray*It's not my problem. I'm going to find Zack"
+    {
+        "chi" "*ray*不是我的问题,我要去找札克了"
+    }
+
+    "*gray*Your actions are too selfish"
+    {
+        "chi" "*gray*你的行动实在太过自私"
+    }
+
+    "*gray*Well, I'll make some preparations before I give you a judgment"
+    {
+        "chi" "*gray*好了,我要给你下达判决之前要做些准备"
+    }
+
+    "*gray*All right, Rachel Gardner"
+    {
+        "chi" "*gray*瑞吉儿加德纳"
+    }
+
+    "*gray*Your review continues"
+    {
+        "chi" "*gray*你的审查还在继续"
+    }
+
+    "*ray*You're disgusting. Don't get in my way"
+    {
+        "chi" "*ray*你们好恶心,别来妨碍我"
+    }
+
+    "*gray*Are you a poor lamb or a devil"
+    {
+        "chi" "*gray*你究竟是可怜的小羊羔,还是恶魔"
+    }
+
+    "*ray*There's no medicine"
+    {
+        "chi" "*ray*药呢,全都没有了"
+    }
+
+    "*ray*How is that possible?"
+    {
+        "chi" "*ray*怎么可能"
+    }
+
+    "Defend for 40 seconds "
+    {
+        "chi" "守住40秒"
+    }
+
+    "*ray*You said there was medicine on this floor"
+    {
+        "chi" "*ray*是你说这个楼层里有药的"
+    }
+
+    "*gray*Looks like you're doubting me"
+    {
+        "chi" "*gray*看来你是在怀疑我"
+    }
+
+    "*gray*Didn't you think you caused all these unfortunate things"
+    {
+        "chi" "*gray*你就没想过这一切不幸的事情都是你造成的吗"
+    }
+
+    "*ray*I don't know such a thing"
+    {
+        "chi" "*ray*这种事我不知道"
+    }
+
+    "*gray*Maybe there's a bandage in Zack's layer"
+    {
+        "chi" "*gray*也许札克那一层里有绷带"
+    }
+
+    "*gray*How's it going"
+    {
+        "chi" "*gray*怎么样"
+    }
+
+    "*ray*I want to go"
+    {
+        "chi" "*ray*我要去"
+    }
+
+    "*ray*This is Zack's room"
+    {
+        "chi" "*ray*这里就是札克的房间"
+    }
+
+    "*ray*The bandage won't work"
+    {
+        "chi" "*ray*绷带都没法用了"
+    }
+
+    "*ray*He has always lived here"
+    {
+        "chi" "*ray*他一直都生活在这里啊"
+    }
+
+    "*ray*Go back to Zack"
+    {
+        "chi" "*ray*回到札克的身边去吧"
+    }
+
+    "*gray*Have you achieved your goal"
+    {
+        "chi" "*gray*你的目的达到了吗"
+    }
+
+    "*ray*Yes, I want to go back quickly"
+    {
+        "chi" "*ray*是的,我想快点回去"
+    }
+
+    "*gray*Well, there are some things I care about"
+    {
+        "chi" "*gray*好吧,有些事我也挺在意的"
+    }
+
+    "*gray*Hurry back"
+    {
+        "chi" "*gray*赶紧回去吧"
+    }
+
+    "Close the elevator door after 20 seconds"
+    {
+        "chi" "电梯门20秒后关闭"
+    }
+
+    "success"
+    {
+        "chi" "检测到名牌"
+    }
+
+    "*zack* What's the meaning of this?"
+    {
+        "chi" "*zack*这是什么意思"
+    }
+
+    "*ray*No, nothing. Let's go"
+    {
+        "chi" "*ray*没什么,快走吧"
+    }
+
+    "Use Zack tag to open elevator doors"
+    {
+        "chi" "***使用札克名牌以用来开启电梯门***"
+    }
+
+    "Zombie teleport in 10 seconds"
+    {
+        "chi" "僵尸10秒后传送"
+    }
+
+    "Zack has lost his reason now. Run"
+    {
+        "chi" "*ray*札克现在已经失去了理性,我得快跑!"
+    }
+
+    "*cathy*It's hard for you to rush all the way here"
+    {
+        "chi" "*cathy*真难为你们一路闯到这里"
+    }
+
+    "*cathy*I'm sorry to interrupt you"
+    {
+        "chi" "*cathy*打断了你们的好事真是抱歉"
+    }
+
+    "*cathy*I'm really happy to see you two break up"
+    {
+        "chi" "*cathy*看你们俩决裂,我真的是非常愉快"
+    }
+
+    "*zack*That's so annoying"
+    {
+        "chi" "*zack*烦死了"
+    }
+
+    "*zack*I'll kill you"
+    {
+        "chi" "*zack*我要杀了你"
+    }
+
+    "*cathy*You got the wrong guy, Zack"
+    {
+        "chi" "*cathy*你可是搞错了对象呢,札克"
+    }
+
+    "*cathy*Now enjoy the punishment here"
+    {
+        "chi" "*cathy*现在先好好享受这里的惩罚吧"
+    }
+
+    "*cathy*no how dare you"
+    {
+        "chi" "*cathy*不是吧你怎么敢..."
+    }
+
+    "*zack* Your expression makes me want to kill people very much"
+    {
+        "chi" "*zack*你那个表情看得我非常想杀人"
+    }
+
+    "*zack* It woke me up all at once"
+    {
+        "chi" "*zack*一下子就让我清醒过来了"
+    }
+
+    "*zack*go to hell"
+    {
+        "chi" "*zack*去死吧"
+    }
+
+    "*cathy*How could that happen alive"
+    {
+        "chi" "*cathy*那种情况居然还能活着出来"
+    }
+
+    "*cathy*What a surprise. I should praise you"
+    {
+        "chi" "*cathy*还真是出乎我的意料,我该表扬你们"
+    }
+
+    "*cathy*As a special service, I've opened the door"
+    {
+        "chi" "*cathy*作为特别服务,我已经把门打开了"
+    }
+
+    "*zack*We're all out. Isn't that what you should do"
+    {
+        "chi" "*zack*我们都出来了,这不是你该做的吗"
+    }
+
+    "*ray*Keep going"
+    {
+        "chi" "*ray*继续走吧"
+    }
+
+    "*cathy*By the way, Zack, I'll ask you again"
+    {
+        "chi" "*cathy*对了札克,我再问你一遍"
+    }
+
+    "*cathy*You really don't want to stay in prison all your life?"
+    {
+        "chi" "*cathy*真不打算在牢里待一辈子?"
+    }
+
+    "*zack*I said no"
+    {
+        "chi" "*zack*我都说了不要"
+    }
+
+    "*cathy*Are you really not going to be my pastime prop?"
+    {
+        "chi" "*cathy*你真不打算成为我的消遣道具?"
+    }
+
+    "*cathy*You two have a strange agreement, don't you"
+    {
+        "chi" "*cathy*你们俩之间有个奇怪的约定吧?"
+    }
+
+    "*cathy*In fact, you just use each other"
+    {
+        "chi" "*cathy*实际上你们只是相互利用罢了"
+    }
+
+    "*cathy*But who is the real prop"
+    {
+        "chi" "*cathy*但你们谁才是真正的道具,不用我说了吧"
+    }
+
+    "*zack*What do you mean"
+    {
+        "chi" "*zacK*你这话是什么意思"
+    }
+
+    "*cathy*Forget it, look forward to the next punishment"
+    {
+        "chi" "*cathy*算啦,尽情期待下一个刑罚吧"
+    }
+
+    "*cathy*Zack, do you remember anything"
+    {
+        "chi" "*cathy*札克,你有没有想起什么呀"
+    }
+
+    "*zack*Shut up, smelly woman"
+    {
+        "chi" "*zack*闭嘴啊,臭女人"
+    }
+
+    "*cathy*If you're so grumpy again, I won't let you out"
+    {
+        "chi" "*cathy*你要是再这么暴躁我可就不让你出去了"
+    }
+
+    "Zombie teleport in 5 seconds"
+    {
+        "chi" "僵尸5秒后传送"
+    }
+
+    "Defend for 10 seconds"
+    {
+        "chi" "守住10秒"
+    }
+
+    "*zack*Damn dizziness"
+    {
+        "chi" "*zack*可恶 头晕得不行"
+    }
+
+    "*zack*I was in a trance just now"
+    {
+        "chi" "*zack*刚才开始脑子就恍恍惚惚的"
+    }
+
+    "*zack*Want to kill, want to kill, want to kill"
+    {
+        "chi" "*zack*想杀人,想杀人,想杀人"
+    }
+
+    "*ray*I don't mind zack"
+    {
+        "chi" "*ray*我不介意,札克"
+    }
+
+    "*ray*Zack, you swore to me. That's your oath. You're also my God"
+    {
+        "chi" "*ray*札克你对我发过誓,那是你的誓言,你也是我的神"
+    }
+
+    "*ray*But is this really good?"
+    {
+        "chi" "*ray*但这样子真的好吗?"
+    }
+
+    "*zack*... "
+    {
+        "chi" "*zack*... "
+    }
+
+    "*zack*Then please"
+    {
+        "chi" "*zack*那就拜托了"
+    }
+
+    "*ray*Don't let me kill you now"
+    {
+        "chi" "*ray*现在别让我杀了你"
+    }
+
+    "The door closes in 5 seconds"
+    {
+        "chi" "门5秒后关闭"
+    }
+
+    "*cathy*hello zack"
+    {
+        "chi" "*cathy*你们好啊,扎克"
+    }
+
+    "*zack*Bitch"
+    {
+        "chi" "*cathy*臭女人"
+    }
+
+    "*cathy*Let me explain this room"
+    {
+        "chi" "*cathy*我来解释一下这间房间"
+    }
+
+    "*cathy*If you don't want to die, listen carefully"
+    {
+        "chi" "*cathy*如果不想死就给我仔细听好了"
+    }
+
+    "*cathy*Such a room is full of great things"
+    {
+        "chi" "*cathy*这样的房间里充满了一种很棒的东西"
+    }
+
+    "*cathy*Poison gas"
+    {
+        "chi" "*cathy*毒气"
+    }
+
+    "*cathy*Try to escape within the time limit"
+    {
+        "chi" "*cathy*在时限内努力逃出去吧"
+    }
+
+    "*cathy*Or we'll send you powerful poison gas that none of you can save"
+    {
+        "chi" "*cathy*不然就送你们谁都救不了的强力毒气"
+    }
+
+    "*cathy*enjoy"
+    {
+        "chi" "*cathy*好好享受吧"
+    }
+
+    "*ray*There seems to be something in the pipe"
+    {
+        "chi" "*ray*管道好像有什么东西"
+    }
+
+    "*ray*I found the key card"
+    {
+        "chi" "*ray*找到钥匙卡了"
+    }
+
+    "*cathy*Ah, you found it"
+    {
+        "chi" "*cathy*啊咧咧,你们居然找到了"
+    }
+
+    "*cathy*But it's past the time limit, and you can't get out"
+    {
+        "chi" "*cathy*可是,已经超过时限了,而且你们也出不去"
+    }
+
+    "*cathy*Now is the long-awaited performance time of special poison gas "
+    {
+        "chi" "*cathy*现在是各位期待已久的特制毒气的表演时间"
+    }
+
+    "*cathy*go to hell"
+    {
+        "chi" "*cathy*去死吧"
+    }
+
+    "*ray*The agreement with Zack can't be realized if we don't go out alive"
+    {
+        "chi" "*ray*和札克之间的约定,不活着出去实现不了吧"
+    }
+
+    "*ray*Zack, do you believe me"
+    {
+        "chi" "*ray*札克,你相信我吗"
+    }
+
+    "*zack*Whatever. Let's do it"
+    {
+        "chi" "*zack*怎么都行,动手吧"
+    }
+
+    "Find a hiding place in 8 seconds to avoid the explosion"
+    {
+        "chi" "8秒后毒气室将会爆炸,找个地方藏起来"
+    }
+
+    "*ray*It's dangerous at first sight"
+    {
+        "chi" "*ray*这个一看就知道很危险"
+    }
+
+    "*zack*If you're afraid, how can you go forward"
+    {
+        "chi" "*zack*要是怕了还怎么往前走"
+    }
+
+    "*ray*I think it's better to be cautious"
+    {
+        "chi" "*ray*我觉得还是谨慎点好"
+    }
+
+    "*zack*Don't dawdle. Let's go quickly"
+    {
+        "chi" "*zack*别磨蹭了,还是快点走吧"
+    }
+
+    "The door opens in 10 seconds"
+    {
+        "chi" "门10秒后打开"
+    }
+
+    "*ray*All dummies?"
+    {
+        "chi" "*ray*都是假人?"
+    }
+
+    "*zack*This room is also very inexplicable"
+    {
+        "chi" "*zack*这间房间也挺莫名其妙的"
+    }
+
+    "*ray*The door is locked"
+    {
+        "chi" "*ray*门锁住了"
+    }
+
+    "*zack*I don't care. Find a way to get out of here"
+    {
+        "chi" "*zack*我不管,快点想办法离开这里"
+    }
+
+    "*ray*I don't know the mechanism here"
+    {
+        "chi" "*ray*我还不清楚这里的机关"
+    }
+
+    "*zack*It's really annoying"
+    {
+        "chi" "*zack*真是烦死人了"
+    }
+
+    "*zack*Finding a mechanism is the most tiring"
+    {
+        "chi" "*zack*找机关最累人了"
+    }
+
+    "need a player to sit in a chair"
+    {
+        "chi" "***持有zack名牌的人需要坐上电椅***"
+    }
+
+    "*cathy*Hello, please forgive me across the screen"
+    {
+        "chi" "*cathy*大家好,请原谅我隔着屏幕"
+    }
+
+    "*cathy*I am the owner of this floor"
+    {
+        "chi" "*cathy*我就是这个楼层的断罪者"
+    }
+
+    "*cathy*cathy "
+    {
+        "chi" "*cathy* 凯西哟"
+    }
+
+    "*cathy*You must remember me "
+    {
+        "chi" "*cathy*你们可要记住我哟"
+    }
+
+    "*cathy*Oh, it's Zack sitting on it"
+    {
+        "chi" "*cathy*哎哟讨厌,居然是扎克坐在上面"
+    }
+
+    "*zack*Bitch, let me go "
+    {
+        "chi" "*zack*臭女人,快放开我"
+    }
+
+    "*cathy*How could I let you go"
+    {
+        "chi" "*cathy*我怎么可能会放你走呢"
+    }
+
+    "*cathy*Let's start"
+    {
+        "chi" "*cathy*那就开始了"
+    }
+
+    "*cathy*How long can a monster last under my punishment"
+    {
+        "chi" "*cathy*怪物一样的人,在我的惩罚之下能撑多久呢"
+    }
+
+    "*cathy*Let me give you a hint"
+    {
+        "chi" "*cathy*给你个提示吧"
+    }
+
+    "*cathy*The eyes of the audience will fall on punishment"
+    {
+        "chi" "*cathy*观众的目光会降下惩罚"
+    }
+
+    "*cathy*For the sake of Rachel's efforts, let you go here"
+    {
+        "chi" "*cathy*看在瑞吉儿努力的份上,这里就让你们走吧"
+    }
+
+    "*cathy*The punishment is more than that"
+    {
+        "chi" "*cathy*惩罚可不止这一个"
+    }
+
+    "*zack*This smelly woman, I must kill her"
+    {
+        "chi" "*zack*这个臭女人我一定要杀了她"
+    }
+
+    "*zack*Why do we have to take pictures"
+    {
+        "chi" "*zack*干嘛一定要拍照呢"
+    }
+
+    "*ray*You can't go on without taking pictures"
+    {
+        "chi" "*ray*不拍就没法继续走了"
+    }
+
+    "*ray*It's locked"
+    {
+        "chi" "*ray*是锁着的"
+    }
+
+    "*zack*Didn't you agree to let us through"
+    {
+        "chi" "*zack*你不是同意让我们过去的吗"
+    }
+
+    "*cathy*Don't worry. You can prepare before you accept the punishment"
+    {
+        "chi" "*cathy*别着急,你们先去准备一下再来接受惩罚吧"
+    }
+
+    "*cathy*I'll open the necessary rooms for you"
+    {
+        "chi" "*cathy*我会帮你们打开必要的房间"
+    }
+
+    "*cathy*Here I let you choose"
+    {
+        "chi" "*cathy*这里我让你们选"
+    }
+
+    "*cathy*There are many ways to convict"
+    {
+        "chi" "*cathy*断罪的方式有很多种"
+    }
+
+    "*cathy*There are many painful punishments waiting for you"
+    {
+        "chi" "*cathy*前方有很多痛苦的刑罚再等着你们哟"
+    }
+
+    "*zack*If only I could rise to the top in one breath"
+    {
+        "chi" "*zack*要是能一口气升到最上层就好了"
+    }
+
+    "*zack*It feels bad here"
+    {
+        "chi" "*zack*这里感觉真不爽"
+    }
+
+    "*ray*This is locked"
+    {
+        "chi" "*ray*这里是锁住的"
+    }
+
+    "*ray*There is nothing else in this room"
+    {
+        "chi" "*ray*这个房间里也没有其他东西"
+    }
+
+    "*zack*How can I understand something you don't even understand"
+    {
+        "chi" "*zack*连你都不明白的事情,我怎么可能明白"
+    }
+
+    "*ray*I think so."
+    {
+        "chi" "*ray*我想也是"
+    }
+
+    "*cathy*hi zack"
+    {
+        "chi" "*cathy*你好啊,札克"
+    }
+
+    "*cathy*I'm the judge of criminals"
+    {
+        "chi" "*cathy*我是断罪者"
+    }
+
+    "*cathy*Ah, sinful people"
+    {
+        "chi" "*cathy*啊,罪孽深重的恶人们"
+    }
+
+    "*cathy*I'll teach you a lesson before I get forgiveness"
+    {
+        "chi" "*cathy*在得到宽恕之前我要好好教训你们"
+    }
+
+    "*cathy*And I am the one who has been given this right"
+    {
+        "chi" "*cathy*而我就是被赋予了这个权利的人 "
+    }
+
+    "*eddie*however"
+    {
+        "chi" "*eddie*但是"
+    }
+
+    "*eddie*Take it easy"
+    {
+        "chi" "*eddie*你放心吧"
+    }
+
+    "*eddie*It's dark, cool and comfortable to be buried in the soil"
+    {
+        "chi" "*eddie*埋在土里又黑又凉快,很舒服的"
+    }
+
+    "*zack*Don't even think about it"
+    {
+        "chi" "*zack*想都别想"
+    }
+
+    "*eddie*I will keep you in a beautiful sarcophagus forever"
+    {
+        "chi" "*eddie*我要把你永远关在美丽的石棺里"
+    }
+
+    "*eddie*Rachel, I wanted you to die beautiful"
+    {
+        "chi" "*eddie*瑞吉儿,我本来是想让你死得漂亮点"
+    }
+
+    "Defend for 45 seconds"
+    {
+        "chi" "守住45秒"
+    }
+
+    "Be careful Eddie will attack you in the dark fog"
+    {
+        "chi" "小心Eddie在烟雾里攻击你"
+    }
+
+    "*eddie*Rachel.. why..?"
+    {
+        "chi" "*eddie*瑞吉儿,为什么..."
+    }
+
+    "*eddie*I made a coffin for you"
+    {
+        "chi" "*eddie*我都特意为你做了棺材"
+    }
+
+    "*eddie*Only I really understand you"
+    {
+        "chi" "*eddie*只有我才是真正理解你"
+    }
+
+    "*eddie* why..?"
+    {
+        "chi" "*eddie*为什么..."
+    }
+
+    "*zack*That means you got dumped"
+    {
+        "chi" "*zack*这就说明你,被甩啦"
+    }
+
+    "Rachel, let me realize your wish"
+    {
+        "chi" "瑞吉儿,让我来实现你的愿望吧"
+    }
+
+    "But I also have a wish"
+    {
+        "chi" "但我也有一个愿望"
+    }
+
+    "If you can, I hope you can rely on me"
+    {
+        "chi" "可以的话,希望你能来依靠我"
+    }
+
+    "Because it's beautiful to be happy with each other"
+    {
+        "chi" "** **"
+    }
+
+    "I know you very well. You want to die, don't you"
+    {
+        "chi" "因为两情相悦很美好啊"
+    }
+
+    "therefore"
+    {
+        "chi" "所以"
+    }
+
+    "Say * yes * to me"
+    {
+        "chi" "对我说YES吧"
+    }
+
+    "*eddie*We finally met, Rachel."
+    {
+        "chi" "*eddie*我们终于见面了,瑞吉儿"
+    }
+
+    "*eddie*I'm Eddie"
+    {
+        "chi" "*eddie*我是埃迪"
+    }
+
+    "*eddie*You don't have to run "
+    {
+        "chi" "*eddie*你用不着跑"
+    }
+
+    "*eddie*I won't suddenly kill you like everyone else"
+    {
+        "chi" "*eddie*我不会像其他人那样直接来杀了你"
+    }
+
+    "*eddie*It doesn't matter. I know everything about you"
+    {
+        "chi" "*eddie*没关系,你的一切我都知道"
+    }
+
+    "*ray*Why am I here"
+    {
+        "chi" "*ray*我为什么会在这里"
+    }
+
+    "*eddie*Don't you remember?"
+    {
+        "chi" "*eddie*你不记得了吗"
+    }
+
+    "*eddie*Forget it if you don't remember"
+    {
+        "chi" "*eddie*你不记得就算了"
+    }
+
+    "*eddie*Don't say that. I'll make it easy for you to die"
+    {
+        "chi" "*eddie*别说这个了,我会让你死得很轻松"
+    }
+
+    "*eddie*Let me realize your wish"
+    {
+        "chi" "*eddie*让我来实现你的愿望"
+    }
+
+    "*eddie*Say * yes * to me "
+    {
+        "chi" "*eddie*对我说yes吧"
+    }
+
+    "*zack*Hey, did you hear me"
+    {
+        "chi" "*zack*你听见了吧,我说你呢,你啊"
+    }
+
+    "*ray* me?"
+    {
+        "chi" "*ray*我吗?"
+    }
+
+    "*zack*Don't even think about getting killed so easily"
+    {
+        "chi" "*zack*这么容易就想被杀,你想都别想"
+    }
+
+    "*zack*There are many people in this building trying to kill you"
+    {
+        "chi" "*zack*这栋楼想杀你的人多了去了"
+    }
+
+    "*zack*But it must be me who can kill you in the end"
+    {
+        "chi" "*zack*但最后能杀了你的一定是我"
+    }
+
+    "*zack*I swear to God"
+    {
+        "chi" "*zack*我向神起誓"
+    }
+
+    "Break the wall and escape"
+    {
+        "chi" "打碎墙壁逃出去"
+    }
+
+    "empty"
+    {
+        "chi" "空的"
+    }
+
+    "You don't have to hesitate"
+    {
+        "chi" "你无需犹豫"
+    }
+
+    "I am very suitable to realize your wish"
+    {
+        "chi" "我非常适合去实现你的愿望"
+    }
+
+    "*ray*Is someone here?"
+    {
+        "chi" "*ray*这里有人吗"
+    }
+
+    "*ray* Watkin Becket"
+    {
+        "chi" "*ray*沃特金.贝克特"
+    }
+
+    "*ray*Place of death B3"
+    {
+        "chi" "*ray*死亡地点B3"
+    }
+
+    "*ray*The cause of death was shot and lost too much blood "
+    {
+        "chi" "*ray*死因.中弹失血过多"
+    }
+
+    "*ray*Killed in B6"
+    {
+        "chi" "*ray*在B6被斩杀"
+    }
+
+    "*ray*Hanged at B5"
+    {
+        "chi" "*ray*在B5被吊死"
+    }
+
+    "*ray*beat to death in B4"
+    {
+        "chi" "*ray*在B4被打死"
+    }
+
+    "*ray*Are these all people here?"
+    {
+        "chi" "*ray*这些全都是来这里的人?"
+    }
+
+    "*ray*It's my resume..."
+    {
+        "chi" "*ray*是我的简历..."
+    }
+
+    "*ray*Do you know this building well"
+    {
+        "chi" "*ray*你对这座建筑很了解吗?"
+    }
+
+    "*zack*The specific situation is not very clear"
+    {
+        "chi" "*zack*具体情况不是很清楚"
+    }
+
+    "*zack*Someone told me * you can kill whoever you want * so I came here"
+    {
+        "chi" "*zack*有人告诉我你想杀谁就杀谁,所以就来这了"
+    }
+
+    "*zack*Guys on other floors should be like this"
+    {
+        "chi" "*zack*其他楼层的家伙应该也是这样子的"
+    }
+
+    "*ray*Is it..."
+    {
+        "chi" "*ray*是吗.."
+    }
+
+    "*zack*What is this"
+    {
+        "chi" "*zack*这啥玩意"
+    }
+
+    "*ray*grave?"
+    {
+        "chi" "*ray*坟墓?"
+    }
+
+    "*zack*No wonder there's a smell of dirt"
+    {
+        "chi" "*zack*怪不得一股土腥气"
+    }
+
+    "*zack*hurry"
+    {
+        "chi" "*zack*快点走!"
+    }
+
+    "*zack*Why don't you give up this grave?"
+    {
+        "chi" "*zack*怎么,你还舍不得这座坟头啊?"
+    }
+
+    "*zack* hurry up!"
+    {
+        "chi" "*zack*快走!"
+    }
+
+    "*ray*This tombstone is new"
+    {
+        "chi" "*ray*这个墓碑是新的"
+    }
+
+    "*zack* So what"
+    {
+        "chi" "*zack*这又怎么了"
+    }
+
+    "*ray*The name is engraved on it"
+    {
+        "chi" "*ray*上面刻着名字"
+    }
+
+    "*ray*RACHEL GARDNER"
+    {
+        "chi" "*ray*瑞吉儿.加德纳"
+    }
+
+    "*zack*Don't always stare at that tombstone"
+    {
+        "chi" "*zack*别总是盯着那个墓碑看啊"
+    }
+
+    "*zack*I don't want to die with you. Go and find an exit for me"
+    {
+        "chi" "*zack*我可不想和你一起死,赶紧去给我找出口"
+    }
+
+    "*ray*There's a wind blowing over there"
+    {
+        "chi" "*ray*那边有风吹过来"
+    }
+
+    "*zack*Is there anything in here?"
+    {
+        "chi" "*zack*这里面有东西吗?"
+    }
+
+    "*ray*Shall I go in and have a look?"
+    {
+        "chi" "*ray*要我进去看看吗?"
+    }
+
+    "*zack*You don't want to run away, do you"
+    {
+        "chi" "*zack*你不会想趁机逃跑吧"
+    }
+
+    "*ray*I won't run away"
+    {
+        "chi" "*ray*我不会逃的"
+    }
+
+    "*ray*Because you haven't killed me yet"
+    {
+        "chi" "*ray*因为我还没被你杀死"
+    }
+
+    "*zack* Forget it, you go in and have a look"
+    {
+        "chi" "*zack*算了,你进去看看吧"
+    }
+
+    "*ray* that.."
+    {
+        "chi" "*ray*我还有一个请求"
+    }
+
+    "*ray* If you can, don't destroy my grave, okay?"
+    {
+        "chi" "*ray*如果可以的话不要破坏我的墓碑好吗?"
+    }
+
+    "*zack* Who cares"
+    {
+        "chi" "*zack*谁管你啊"
+    }
+
+    "Rachel, I've cared about you a long time ago"
+    {
+        "chi" "瑞吉儿,我从很久以前就很在意你了"
+    }
+
+    "I want to see you"
+    {
+        "chi" "我想见你"
+    }
+
+    "But that guy will get in the way"
+    {
+        "chi" "但那家伙就会碍事"
+    }
+
+    "I fell in love with you at first sight"
+    {
+        "chi" "我啊,可是对你一见钟情的"
+    }
+
+    "So I prepared a special gift for you"
+    {
+        "chi" "所以我为你准备了特别的礼物"
+    }
+
+    "That only belongs to you"
+    {
+        "chi" "那个只属于你的"
+    }
+
+    "A place to sleep forever"
+    {
+        "chi" "永远长眠的地方"
+    }
+
+    "Find the right tombstone and break it"
+    {
+        "chi" "找到正确的墓碑砸碎它"
+    }
+
+    "The door opened"
+    {
+        "chi" "门开了"
+    }
+
+    "All humans go to the passage in the middle of the hall"
+    {
+        "chi" "所有人类前往大厅的中间通道"
+    }
+
+    "*zack* Why do you dare to run here carelessly"
+    {
+        "chi" "*zack*你干嘛,还敢满不在乎的跑过来"
+    }
+
+    "*ray* I have a request . Kill me.. Please"
+    {
+        "chi" "*ray*我有个请求,求求你,杀了我吧"
+    }
+
+    "*zack* ..."
+    {
+        "chi" "*zack*..."
+    }
+
+    "*zack* If you have time to say such disgusting words"
+    {
+        "chi" "*zack*有时间说这么恶心的话"
+    }
+
+    "*zack* you might as well find a way to open this"
+    {
+        "chi" "*zack*不如想办法把这个打开"
+    }
+
+    "*ray* Just open this door and you'll kill me"
+    {
+        "chi" "*ray*只要打开这扇门,你就肯杀了我吗"
+    }
+
+    "*zack* As long as I can get out of here, I'll kill you"
+    {
+        "chi" "*zack*只要能离开这里,我就会杀了你"
+    }
+
+    "Rachel, can I take a closer look at your eyes"
+    {
+        "chi" "瑞吉儿,可以让我仔细看看你的眼睛吗"
+    }
+
+    "Your eyes are so beautiful"
+    {
+        "chi" "你的眼睛真漂亮啊"
+    }
+
+    "But your eyes are full of fear"
+    {
+        "chi" "然而你的眼里却充满了恐惧"
+    }
+
+    "I'm so sad"
+    {
+        "chi" "我好伤心啊"
+    }
+
+    "Like my mother's eyes"
+    {
+        "chi" "就像我妈妈的眼睛"
+    }
+
+    "Like a pair of ordinary eyes"
+    {
+        "chi" "就像一双普通眼睛"
+    }
+
+    "I really want to see your really beautiful eyes"
+    {
+        "chi" "我好想看你那双真正漂亮的眼睛"
+    }
+
+    "If you can wake up from this nightmare"
+    {
+        "chi" "如果能从这场噩梦中醒来"
+    }
+
+    "Can you change back to those beautiful and silent eyes like the blue moon"
+    {
+        "chi" "你是否能够变回那双宛如那蓝色月亮般美丽而沉寂的双眸呢"
+    }
+
+    "Rachel, I want to live by your eyes"
+    {
+        "chi" "瑞吉儿,我啊,想要活在你的双眸身边啊"
+    }
+
+    "*ray* doctor?"
+    {
+        "chi" "*ray*医生?"
+    }
+
+    "By the way, I left something important around here"
+    {
+        "chi" "对了,我把一件重要的东西忘在这附近了"
+    }
+
+    "Can you help me find it"
+    {
+        "chi" "你能帮我找吗"
+    }
+
+    "*ray* Looking for something?"
+    {
+        "chi" "*ray*找东西?"
+    }
+
+    "I'm looking for this room"
+    {
+        "chi" "这件房间我来找"
+    }
+
+    "Can you help me look in the room"
+    {
+        "chi" "你能帮我去里面的房间找找看吗"
+    }
+
+    "Let me give you a hint"
+    {
+        "chi" "给你个提示吧"
+    }
+
+    "My eyes are purple jade"
+    {
+        "chi" "我的眼珠是紫翠玉"
+    }
+
+    "Rachel, the room inside is dark. Be careful"
+    {
+        "chi" "瑞吉儿,里面的房间很暗,小心点"
+    }
+
+    "That's it"
+    {
+        "chi" "就是那个啊"
+    }
+
+    "Looking at this, you still can't remember anything?"
+    {
+        "chi" "看着这个,你还是什么都想不起来吗?"
+    }
+
+    "I'm going to put this on now"
+    {
+        "chi" "我现在要去把这个戴上"
+    }
+
+    "Can you wait for me in the opposite room?"
+    {
+        "chi" "你能在对面的房间等我一会吗?"
+    }
+
+    "Rachel, you can't run away"
+    {
+        "chi" "瑞吉儿,你可不许逃跑哦"
+    }
+
+    "*ray* That's strange. This is not the doctor I know. I have to run away"
+    {
+        "chi" "*ray*太奇怪了,这不是我认识的医生 必须要逃走"
+    }
+
+    "Didn't I say no escape"
+    {
+        "chi" "我不是说了不许逃吗"
+    }
+
+    "This is my floor"
+    {
+        "chi" "这里可是我的楼层"
+    }
+
+    "Rachel, give me your eyes"
+    {
+        "chi" "瑞吉儿,把你的眼睛给我吧"
+    }
+
+    "Then meet your parents in hell"
+    {
+        "chi" "然后和你的父母在地狱里相见吧"
+    }
+
+    "Looks like you're still in a dream"
+    {
+        "chi" "看来你还在梦里呢"
+    }
+
+    "You helped me find it. Thank you"
+    {
+        "chi" "你帮我找到了啊,谢谢你"
+    }
+
+    "*ray* Is this artificial eye a doctor's?"
+    {
+        "chi" "*ray*这个义眼是医生的吗?"
+    }
+
+    "zombie tp in 5seconds"
+    {
+        "chi" "僵尸5秒后传送"
+    }
+
+    "y.. you...."
+    {
+        "chi" "你...你."
+    }
+
+    "*zack* Danny, why are you shouting so happy"
+    {
+        "chi" "*zack*丹尼,你干嘛要发出如此幸福的喊声啊"
+    }
+
+    "*zack* This will make me want to cut you"
+    {
+        "chi" "*zack*这样会让我忍不住想要砍了你的"
+    }
+
+    "*zack* Little girl"
+    {
+        "chi" "*zack*我说,小姑娘啊"
+    }
+
+    "*zack* Running after you here seems to be making a big deal"
+    {
+        "chi" "*zack*追着你跑到这里,事情好像有点闹大了"
+    }
+
+    "*zack* Run for your life and I'll kill you with a knife"
+    {
+        "chi" "*zack*快逃命吧,然后我会一刀刺死你"
+    }
+
+    "*zack* Don't you want to live?"
+    {
+        "chi" "*zack*你不想活了?"
+    }
+
+    "*zack* I'm not interested in shredding dolls"
+    {
+        "chi" "*zack*我可没有兴趣切碎人偶"
+    }
+
+    "The B6 attacked the B5"
+    {
+        "chi" "B6层领主攻击了B5层领主"
+    }
+
+    "For violating the rules, the Betrayer was regarded as a sacrifice"
+    {
+        "chi" "因违反了规则,将背叛者视为祭品"
+    }
+
+    "*zack* Are you kidding? I'd better run away"
+    {
+        "chi" "*zack*开什么玩笑,我还是逃走好了"
+    }
+
+    "*ray* What are the rules?"
+    {
+        "chi" "*ray*规则是什么"
+    }
+
+    "There are probably some rules here"
+    {
+        "chi" "这里大概是有什么规则的吧"
+    }
+
+    "*ray* What is the wish?"
+    {
+        "chi" "*ray*那愿望又是什么"
+    }
+
+    "Everyone's wishes are different, right?"
+    {
+        "chi" "每个人的愿望都是不同的吧"
+    }
+
+    "If it were me"
+    {
+        "chi" "是我的话"
+    }
+
+    "Just want beautiful eyes"
+    {
+        "chi" "就想要双漂亮的眼睛啊"
+    }
+
+    "Because there's something wrong with one of my eyes"
+    {
+        "chi" "因为我的一只眼睛有点问题"
+    }
+
+    "If eyes like you were mine"
+    {
+        "chi" "如果像你这样的眼睛是我的话"
+    }
+
+    "That's wonderful"
+    {
+        "chi" "那可真是太美好了"
+    }
+
+    "Let's go and have a look in another room"
+    {
+        "chi" "走吧,去别的房间看看吧"
+    }
+
+    "zombie tp in 10seconds"
+    {
+        "chi" "僵尸10秒后传送"
+    }
+
+    "zombie tp in 15seconds"
+    {
+        "chi" "僵尸15秒后传送"
+    }
+
+    "Rachel, let's go find the exit"
+    {
+        "chi" "瑞吉儿,我们一起去找出口吧"
+    }
+
+    "believe me"
+    {
+        "chi" "相信我"
+    }
+
+    "It doesn't matter. He can't get to this floor"
+    {
+        "chi" "没关系,他是到不了这一层的"
+    }
+
+    "*ray* Doctor, we need to run quickly"
+    {
+        "chi" "医生,我们要快点逃"
+    }
+
+    "I'm afraid the one who chased you is a murderer"
+    {
+        "chi" "追杀你的那位,恐怕是杀人鬼"
+    }
+
+    "*ray* Who is going to kill me?"
+    {
+        "chi" "请问,追杀我的那位是？"
+    }
+
+    "But don't worry. I'm really your doctor"
+    {
+        "chi" "不过你放心吧,我确实是你的医生"
+    }
+
+    "You seem a little confused"
+    {
+        "chi" "你似乎还有些混乱"
+    }
+
+    "Yeah, don't you remember?"
+    {
+        "chi" "是啊,你不记得了吗"
+    }
+
+    "*ray* Are you my psychologist?"
+    {
+        "chi" "*ray*你是我的心理医生?"
+    }
+
+    "It's me. I'm your psychologist, Danny"
+    {
+        "chi" "是我啊,我是你的心理医生丹尼啊"
+    }
+
+    "Finally found you"
+    {
+        "chi" "终于找到你了呀"
+    }
+
+    "I won't give you a second this time"
+    {
+        "chi" "我不会再给你第二次时间的"
+    }
+
+    "The final elevator will start in 25seconds"
+    {
+        "chi" "最后的电梯25秒后启动"
+    }
+
+    "bird?"
+    {
+        "chi" "小鸟?"
+    }
+
+    "It's hurt?"
+    {
+        "chi" "受伤了吗?"
+    }
+
+    "Don't run. Don't be afraid"
+    {
+        "chi" "你别跑啊,别害怕"
+    }
+
+    "Come to me"
+    {
+        "chi" "来,到我这来"
+    }
+
+    "Let's get out together"
+    {
+        "chi" "我们一起逃出去吧"
+    }
+
+    "Wipe that stupid,smug look off your face! "
+    {
+        "chi" "你刚才的表情可是充满了期待呢"
+    }
+
+    "And surrender to despair!"
+    {
+        "chi" "而现在却变成了绝望"
+    }
+
+    "I'll give you a 3 second head start how far can you run?!"
+    {
+        "chi" "我倒数3秒,所以你就趁机逃命吧"
+    }
+
+    "show me the despair on your face! YES! MORE!"
+    {
+        "chi" "让我多看看你那绝望的表情吧"
+    }
+
+    "3"
+    {
+        "chi" "** 3 **"
+    }
+
+    "2"
+    {
+        "chi" "** 2 **"
+    }
+
+    "1"
+    {
+        "chi" "** 1 **"
+    }
+
+    "Find a place to hide 20seconds"
+    {
+        "chi" "20秒内找个地方藏起来"
+    }
+
+    "zombie tp in 7 seconds"
+    {
+        "chi" "僵尸7秒后传送"
+    }
+
+    "What's your name"
+    {
+        "chi" "*pc*你的名字"
+    }
+
+    "Rachel..Gardner"
+    {
+        "chi" "瑞吉儿..加德纳"
+    }
+
+    "Why are you here"
+    {
+        "chi" "*pc*你为什么在这"
+    }
+
+    "I'm pretty sure I was at a hospital...And when I came to, I was here..."
+    {
+        "chi" "来到了医院..等注意到时就已经在这里了..."
+    }
+
+    "Why?"
+    {
+        "chi" "*pc*为什么?"
+    }
+
+    "Why are you in the hospital?"
+    {
+        "chi" "*pc*你为什么在医院里"
+    }
+
+    "I saw someone... I saw someone die."
+    {
+        "chi" "因为看到有人死了..看到有人被杀了"
+    }
+
+    "It happened right in front of me.."
+    {
+        "chi" "就发生在我眼前.."
+    }
+
+    "So, I was brought here for counseling.."
+    {
+        "chi" "所以..我就被带来接受心理治疗了.."
+    }
+
+    "I wanna see my mom and dad..."
+    {
+        "chi" "我想见爸爸妈妈"
+    }
+
+    "The elevator will start in 15seconds"
+    {
+        "chi" "电梯15秒后启动"
+    }
+
+    "I should have gone to the hospital, but not here"
+    {
+        "chi" "我应该是去了医院,但不是这里"
+    }
+
+    "defend 10 seconds"
+    {
+        "chi" "守住10秒"
+    }
+
+    "Where am I?"
+    {
+        "chi" "我这是在哪里?"
+    }
+
+    "Beautiful moon"
+    {
+        "chi" "湛蓝美丽的月亮"
+    }
+
+    "But the blue moon is not real"
+    {
+        "chi" "但这个蓝色的月亮美的有点不真实"
+    }
+
+    "Anyway, hurry up and go back to find mom and dad."
+    {
+        "chi" "总之要快点回去找爸爸妈妈"
+    }
+
+    "lv1"
+    {
+        "chi" "第一关"
+    }
+
+}
