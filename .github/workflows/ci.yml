@@ -1,4 +1,4 @@
-name: Continuous Integration
+name: GitHub Action
 
 on: 
   push:
@@ -20,7 +20,7 @@ jobs:
       - name: Setup PHP
         uses: shivammathur/setup-php@v2
         with:
-          php-version: '7.4'
+          php-version: '8.0'
           extensions: curl, mbstring, fileinfo, json, pcre
         env:
           fail-fast: true
@@ -35,5 +35,3 @@ jobs:
         run: php -f Configs.php
       - name: Check Images
         run: php -f Images.php
-
-      
