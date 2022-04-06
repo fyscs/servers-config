@@ -16,7 +16,7 @@
         "chi" "地图制作:Et3rnity"
     }
 
-    ">> 1 << "
+    ">> 1 <<"
     {
         "chi" "1"
     }
@@ -36,12 +36,12 @@
         "chi" "10"
     }
 
-    ">> 2 << "
+    ">> 2 <<"
     {
         "chi" "2"
     }
 
-    ">> 3 << "
+    ">> 3 <<"
     {
         "chi" "3"
     }
@@ -116,12 +116,12 @@
         "chi" "**直升机起飞了**"
     }
 
-    ">> CHOPPER IS ON THE WAY! << "
+    ">> CHOPPER IS ON THE WAY! <<"
     {
         "chi" "直升机来了"
     }
 
-    ">> CHOPPER IS READY TO PICK YOU UP FROM THE OLD SHED << "
+    ">> CHOPPER IS READY TO PICK YOU UP FROM THE OLD SHED <<"
     {
         "chi" "直升机已经准备从旧棚屋来接你们了"
     }
@@ -264,7 +264,7 @@
         "chi" "**直升机必须在30秒内起飞**"
     }
 
-    ">> WAIT FOR ZOMBIES TO BE TELEPORTED << "
+    ">> WAIT FOR ZOMBIES TO BE TELEPORTED <<"
     {
         "chi" "等待僵尸被传送"
     }

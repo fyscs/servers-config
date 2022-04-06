@@ -11,7 +11,7 @@
     // "countdown"  // 添加特殊的独立的倒计时
 
 
-    " The teleport will earn in 25 second"
+    "The teleport will earn in 25 second"
     {
         "chi" "**传送25秒2后开启**"
     }
@@ -373,7 +373,7 @@
         "chi" "**挂机的玩家还有5秒后传送**"
     }
 
-    "AFK TELEPORT IN 10 SECOND "
+    "AFK TELEPORT IN 10 SECOND"
     {
         "chi" "**挂机的玩家将在10秒后传送!**"
     }
@@ -419,11 +419,6 @@
     }
 
     "BOSS USE RAGE"
-    {
-        "chi" "**BOSS使用了技能狂怒, 紧贴墙壁! **"
-    }
-
-    "BOSS USE RAGE "
     {
         "chi" "**BOSS使用了技能狂怒, 紧贴墙壁! **"
     }
@@ -508,7 +503,7 @@
         "chi" "**快跑还有15秒后墙就爆炸了! **"
     }
 
-    "Second door will open in 10 seconds "
+    "Second door will open in 10 seconds"
     {
         "chi" "**还有10秒后打开第二道大门!**"
     }

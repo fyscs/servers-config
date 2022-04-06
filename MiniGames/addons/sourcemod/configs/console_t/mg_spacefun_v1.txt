@@ -11,7 +11,7 @@
     // "countdown"  // 添加特殊的独立的倒计时
 
 
-    "85 seconds to choose a game. "
+    "85 seconds to choose a game."
     {
         "chi" "85秒钟之内选择一个游戏"
         "blocked" "1"
@@ -47,7 +47,7 @@
         "chi" "爆头模式:AWP"
     }
 
-    "Game: Headshot Only: Deagle "
+    "Game: Headshot Only: Deagle"
     {
         "chi" "爆头模式: 沙鹰"
     }
@@ -62,7 +62,7 @@
         "chi" "爆头模式: 鸟狙 低重力 二倍速"
     }
 
-    "Game: Only Knife, normal mode, Speed x3, Gravity -80%, "
+    "Game: Only Knife, normal mode, Speed x3, Gravity -80%,"
     {
         "chi" "刀战 超低重力 三倍速"
     }

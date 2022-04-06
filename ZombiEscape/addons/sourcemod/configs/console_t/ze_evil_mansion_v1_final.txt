@@ -11,32 +11,32 @@
     // "countdown"  // 添加特殊的独立的倒计时
 
 
-    " ** Zombies are trapped for 15 secs or til CTs find a solution.**"
+    "** Zombies are trapped for 15 secs or til CTs find a solution.**"
     {
         "chi" "僵尸被困住15秒"
     }
 
-    " **Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!**"
+    "**Dr. Valencia:  Hold the door!  I'll use the remaining gas to conjure up a nuke!**"
     {
         "chi" "博士:再见,我要去放屁了"
     }
 
-    " **Dr. Valencia: I might need to expell some gas soon.**"
+    "**Dr. Valencia: I might need to expell some gas soon.**"
     {
         "chi" "博士:我还想拉粑粑"
     }
 
-    " **Dr. Valencia: TAKE THIS!!!**"
+    "**Dr. Valencia: TAKE THIS!!!**"
     {
         "chi" "博士:厚礼蟹"
     }
 
-    " -=Dr. Valencia:  DOOR OPENED!  MAKE WAY!!!=-"
+    "-=Dr. Valencia:  DOOR OPENED!  MAKE WAY!!!=-"
     {
         "chi" "博士:让开,别当着我拉粑粑"
     }
 
-    " -=Dr. Valencia:  Door opening in 5.=-"
+    "-=Dr. Valencia:  Door opening in 5.=-"
     {
         "chi" "门:5秒"
     }
