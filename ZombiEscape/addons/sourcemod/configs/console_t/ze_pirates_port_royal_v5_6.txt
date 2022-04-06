@@ -11,27 +11,27 @@
     // "countdown"  // 添加特殊的独立的倒计时
 
 
-    " ||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
+    "||| KRAKEN HAS SENT A BUBBLES ON YOU |||"
     {
         "chi" "八爪叫兽使用了气泡"
     }
 
-    " ||| KRAKEN HAS SENT A WAVE ON YOU |||"
+    "||| KRAKEN HAS SENT A WAVE ON YOU |||"
     {
         "chi" "八爪叫兽使用了海浪"
     }
 
-    " ||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
+    "||| KRAKEN HAS SENT AN EXPLOSIVE ZOMBIE |||"
     {
         "chi" "八爪叫兽抓取了一只僵尸"
     }
 
-    " ||| KRAKEN HAS THROWN BARREL ON YOU |||"
+    "||| KRAKEN HAS THROWN BARREL ON YOU |||"
     {
         "chi" "八爪叫兽扔出了滚桶"
     }
 
-    " ||| KRAKEN HAS THROWN BARRELS ON YOU |||"
+    "||| KRAKEN HAS THROWN BARRELS ON YOU |||"
     {
         "chi" "八爪叫兽扔出了滚桶"
     }
@@ -472,7 +472,7 @@
         "chi" "克拉肯吐了一口老坛清理道路"
     }
 
-    ">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<< "
+    ">>> KRAKEN IS DEAD. JUMP ONTO THE RAFT <<<"
     {
         "chi" "克拉肯去世了.快向前方的小岛移动"
     }
@@ -547,7 +547,7 @@
         "chi" "我是要成为海贼王的男人"
     }
 
-    ">>> YOU HAVE WON THE MAP. BUT ONLY EASY KRAKEN <<< "
+    ">>> YOU HAVE WON THE MAP. BUT ONLY EASY KRAKEN <<<"
     {
         "chi" "你征服了简单难度的八爪叫兽"
     }
