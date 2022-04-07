@@ -11,7 +11,7 @@
     // "countdown"  // 添加特殊的独立的倒计时
 
 
-    "*** >>>> WARNING <<<< KEYBOARD RUSH ***"
+    " *** >>>> WARNING <<<< KEYBOARD RUSH ***"
     {
         "chi" ">>>>警告<<<< 小心推力!"
     }
@@ -255,7 +255,7 @@
 
     "*** BARRIER DISABLED ***"
     {
-        "chi" "障碍已解除 僵尸们可以进攻了!!"
+        "chi" "障碍已解除"
     }
 
     "*** Be careful !! ***"
@@ -325,12 +325,12 @@
 
     "*** DRAIN KEYBOARD ***"
     {
-        "chi" "键盘侠吸推"
+        "chi" "键盘吸推"
     }
 
     "*** DRAIN KEYBOARD 2 ***"
     {
-        "chi" "键盘侠吸推2"
+        "chi" "键盘吸推2"
     }
 
     "*** ESC STORM ***"
@@ -455,7 +455,7 @@
 
     "*** HURTING ZOMBIES ARE COMING ***"
     {
-        "chi" "伤害僵尸来了"
+        "chi" "僵尸拿起了伤害"
     }
 
     "*** IT CALLED MORE HIS FRIENDS ***"
@@ -475,7 +475,7 @@
 
     "*** KAMIKAZE ZOMBIES ARE COMING ***"
     {
-        "chi" "神风僵尸来了"
+        "chi" "僵尸拿起了圣战"
     }
 
     "*** KEY BOARD CRASHER IS ANGRY!! DON'T STOP SHOOTING!! ***"
@@ -500,7 +500,7 @@
 
     "*** KEY CANNON ***"
     {
-        "chi" "键盘加农炮"
+        "chi" "键盘加农炮, 躲避四周来的键盘弹幕"
     }
 
     "*** KEY METEOR ***"
@@ -580,7 +580,7 @@
 
     "*** LEVEL 15: THE MOVING SCAFFOLD 3 ***"
     {
-        "chi" "第十五关  跨栏"
+        "chi" "第十五关 跨栏"
     }
 
     "*** LEVEL 16: VARIOUS TYPE ROAD 1 ***"
@@ -640,7 +640,7 @@
 
     "*** LEVEL10 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "第十关 传送器将在5后开启"
+        "chi" "第十关 传送器将在5后开启, 即将进入下一关 移动跳板"
     }
 
     "*** LEVEL11 Portal will activate in 10 SEDONDS ***"
@@ -660,7 +660,7 @@
 
     "*** LEVEL11 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "第十一关 传送器将在5后开启"
+        "chi" "第十一关 传送器将在5后开启, 即将进入下一关 反复横跳"
     }
 
     "*** LEVEL12 Portal will activate in 10 SEDONDS ***"
@@ -680,7 +680,7 @@
 
     "*** LEVEL12 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "第十二关 传送器将在5后开启"
+        "chi" "第十二关 传送器将在5后开启, 即将进入下一关 躲避激光"
     }
 
     "*** LEVEL13 Portal will activate in 10 SEDONDS ***"
@@ -700,7 +700,7 @@
 
     "*** LEVEL13 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "第十三关 传送器将在5后开启"
+        "chi" "第十三关 传送器将在5后开启, 即将进入下一关 扶摇直上"
     }
 
     "*** LEVEL14 Portal will activate in 10 SEDONDS ***"
@@ -720,7 +720,7 @@
 
     "*** LEVEL14 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "第十四关 传送器将在5后开启"
+        "chi" "第十四关 传送器将在5后开启, 即将进入下一关 BOSS战"
     }
 
     "*** LEVEL16 Portal will activate in 10 SEDONDS ***"
@@ -740,7 +740,7 @@
 
     "*** LEVEL16 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "第十六关 传送器将在5后开启"
+        "chi" "第十六关 传送器将在5后开启, 即将进入下一关 躲避障碍"
     }
 
     "*** LEVEL17 Portal will activate in 10 SEDONDS ***"
@@ -760,7 +760,7 @@
 
     "*** LEVEL17 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "第十七关 传送器将在5后开启"
+        "chi" "第十七关 传送器将在5后开启, 即将进入下一关 综合躲避"
     }
 
     "*** LEVEL18 Portal will activate in 10 SEDONDS ***"
@@ -780,7 +780,7 @@
 
     "*** LEVEL18 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "第十八关 传送器将在5后开启"
+        "chi" "第十八关 传送器将在5后开启, 即将进入下一关 高速移动躲避"
     }
 
     "*** LEVEL18 SLIDE 2 ***"
@@ -825,7 +825,7 @@
 
     "*** LEVEL2 Portal will activate in 5 SECONDS***"
     {
-        "chi" "第二关 传送器将在5后开启, 即将进入 移动的障碍"
+        "chi" "第二关 传送器将在5后开启, 即将进入下一关 快速爬梯"
     }
 
     "*** LEVEL20 Portal will activate in 10 SEDONDS ***"
@@ -865,7 +865,7 @@
 
     "*** LEVEL3 Portal will activate in 5 SECONDS***"
     {
-        "chi" "第三关 传送器将在5后开启, 即将进入 低重力"
+        "chi" "第三关 传送器将在5后开启, 即将进入下一关 移动的障碍"
     }
 
     "*** LEVEL4 LOW GRAVITY ***"
@@ -890,7 +890,7 @@
 
     "*** LEVEL4 Portal will activate in 5 SECONDS***"
     {
-        "chi" "第四关 传送器将在5后开启, 即将进入 小推力"
+        "chi" "第四关 传送器将在5后开启, 即将进入下一关 低重力"
     }
 
     "*** LEVEL5 Portal will activate in 10 SECONDS***"
@@ -910,7 +910,7 @@
 
     "*** LEVEL5 Portal will activate in 5 SECONDS***"
     {
-        "chi" "第五关 传送器将在5后开启, 即将进入 高速躲避障碍"
+        "chi" "第五关 传送器将在5后开启, 即将进入下一关 小推力"
     }
 
     "*** LEVEL5 WINDY ***"
@@ -935,7 +935,7 @@
 
     "*** LEVEL6 Portal will activate in 5 SECONDS***"
     {
-        "chi" "第六关 传送器将在5后开启, 即将进入 蹲口防守"
+        "chi" "第六关 传送器将在5后开启, 即将进入下一关 高速躲避障碍"
     }
 
     "*** LEVEL6 SLIDE 1 ***"
@@ -965,7 +965,7 @@
 
     "*** LEVEL7 Portal will activate in 5 SECONDS***"
     {
-        "chi" "第七关 传送器将在5后开启"
+        "chi" "第七关 传送器将在5后开启, 即将进入下一关 蹲口防守"
     }
 
     "*** LEVEL9 Portal will activate in 10 SEDONDS ***"
@@ -985,7 +985,7 @@
 
     "*** LEVEL9 Portal will activate in 5 SECONDS ***"
     {
-        "chi" "第九关 传送器将在5后开启"
+        "chi" "第九关 传送器将在5后开启, 即将进入下一关 大鸟转转转"
     }
 
     "*** Lift will start in 7 seconds ***"
@@ -1025,7 +1025,7 @@
 
     "*** PUSHING ZOMBIES ARE COMING ***"
     {
-        "chi" "推力僵尸来了"
+        "chi" "僵尸拿到了疾风"
     }
 
     "*** RUN !!!!!!!***"
@@ -1388,7 +1388,7 @@
         "chi" "我们撤退!!"
     }
 
-    "*** We can feel hard wind pressure...!! Dodge it !!!"
+    "*** We can feel hard wind pressure...!! Dodge it !!! "
     {
         "chi" "我们能感受到强烈的风压....!!快躲开!!!"
     }
@@ -1495,7 +1495,7 @@
 
     "*** ZOMBIES ARE ALIVE !! ***"
     {
-        "chi" "僵尸们还活着"
+        "chi" "注意尸笼"
     }
 
     "*** ZOMBIES ARE ALIVE !! BE CAREFUL !! ***"
@@ -1510,7 +1510,7 @@
 
     "*** ZOMBIES ARE COMING ***"
     {
-        "chi" "僵尸们开咯"
+        "chi" "僵尸们来咯"
     }
 
     "***LEVEL 3: MOVING SCAFFOLDS 1 ***"
@@ -1520,7 +1520,7 @@
 
     "***ZOMBIES ARE COMING***"
     {
-        "chi" "僵尸来咯"
+        "chi" "僵尸屏障消失, 僵尸们可以进攻咯!!"
     }
 
     "????? :That you won't !!!"
@@ -1830,17 +1830,17 @@
 
     "CRASHER : !!!!!!!!!!!!!!!!!!"
     {
-        "chi" "破坏者:!!!!!!"
+        "chi" "破坏者:!!!!!"
     }
 
     "CRASHER :HAHAHA !!! You can't kill me whatever you do anything !!!!!!"
     {
-        "chi" "破坏者:你做什么我都杀不掉我的!!!!!"
+        "chi" "破坏者:你做什么我都杀不掉我的!!"
     }
 
     "CRASHER :HAHAHA!!! What's the taste of this !!!?!?!?!"
     {
-        "chi" "破坏者:哈哈哈!!这是什么味道!!!!!"
+        "chi" "破坏者:哈哈哈!!这是什么味道!!"
     }
 
     "CRASHER :It's over !!!!!!!!!!!!! HAHAHAHAHAHHAHHHHHH !!!!!!"
@@ -1960,7 +1960,7 @@
 
     "WARNING : ZOMBIES ARE ALIVE !!!"
     {
-        "chi" "警告:僵尸还活着"
+        "chi" "警告:注意尸笼"
     }
 
 }
