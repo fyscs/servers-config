@@ -1,0 +1,926 @@
+﻿"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "--- 10 Sec left,Or you wanna stay here?... ---"
+    {
+        "chi" "还剩10秒, 还是说你想留在这里?"
+    }
+
+    "- 5 Sec left,Are u car? -"
+    {
+        "chi" "还剩5秒, 你有车吗?"
+    }
+
+    "--- Almost done,Be ready to go ---"
+    {
+        "chi" "差不多了, 准备好了吗"
+    }
+
+    "--- Door open in 10 sec ---"
+    {
+        "chi" "10秒后开门"
+    }
+
+    "--- Gate open in 10 sec ---"
+    {
+        "chi" "10秒后开门"
+    }
+
+    "--- Sure you won't,Come here now! ---"
+    {
+        "chi" "你当然不会, 快过来"
+    }
+
+    "--- The Gate open in 20 sec ---"
+    {
+        "chi" "大门20秒后打开 "
+    }
+
+    "--- The Platfrom rise in 20 sec ---"
+    {
+        "chi" "平台将在20秒内上升"
+    }
+
+    "....."
+    {
+        "chi" "..."
+    }
+
+    "...???"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "< Select Level...Extreme >"
+    {
+        "chi" "< 选择难度: ex> "
+    }
+
+    "< Select Level...The Stage 0...ZM Mode >"
+    {
+        "chi" "选择难度: 第0关, ZM"
+    }
+
+    "< Select Level...The Stage 1 >"
+    {
+        "chi" "选择难度: 第一关"
+    }
+
+    "< Select Level...The Stage 2 >"
+    {
+        "chi" "选择难度: 第二关"
+    }
+
+    "< Select Level...The Stage 3 >"
+    {
+        "chi" "选择难度: 第三关"
+    }
+
+    "<Aurora Tower>"
+    {
+        "chi" "极光塔传说"
+    }
+
+    "<Gabranth>....Where the fuck am i."
+    {
+        "chi" "[Gabranth] 他奶奶滴, 我在哪?"
+    }
+
+    "<Gabranth>..You need my help?...Fine."
+    {
+        "chi" "[Gabranth] 你需要我的帮助吗?…很好"
+    }
+
+    "<Gabranth>But you have to bring me back to westersand after this."
+    {
+        "chi" "[Gabranth] 但你必须在这之后把我带回westersand"
+    }
+
+    "<Gabranth>Wew,u sucks."
+    {
+        "chi" "哇, 你太猪比了"
+    }
+
+    "<Map made by Cye.>"
+    {
+        "chi" "作者: Cye    汉化: 雪鱼粉@風雲社"
+    }
+
+    ">[W][A][D]< to Control mecha's action."
+    {
+        "chi" "[W] [A] [D] 控制机架的动作"
+    }
+
+    ">>10 Sec left.<<"
+    {
+        "chi" "还剩10秒"
+    }
+
+    ">>100 Sec left.<<"
+    {
+        "chi" "还剩100秒"
+    }
+
+    ">>30 Sec left.<<"
+    {
+        "chi" "还剩30秒"
+    }
+
+    ">>50 Sec left.<<"
+    {
+        "chi" "还剩50秒"
+    }
+
+    ">>Disco Ball casting skill Circles Shock<<"
+    {
+        "chi" "迪斯科使用了圣白节奏 [远离外圈]"
+    }
+
+    ">>Disco Ball casting skill Dance Of The Dead<<"
+    {
+        "chi" "迪斯科舞厅使用了死亡之舞 [持续拍空格跳]"
+    }
+
+    ">>Disco Ball casting skill Pluse Spark<<"
+    {
+        "chi" "迪斯科球使用了激光 [远离白色激光]"
+    }
+
+    ">>Double Ability Activate<<"
+    {
+        "chi" "双重技能激活"
+    }
+
+    ">>Secret Stage EXTREME has unlock<<"
+    {
+        "chi" "秘密舞台极限难度解锁"
+    }
+
+    ">>Stage 1 Complete<<"
+    {
+        "chi" "第一关完成"
+    }
+
+    ">>Stage 2 Complete<<"
+    {
+        "chi" "第二关完成"
+    }
+
+    ">>Survival in 180 sec,Have fun.<<"
+    {
+        "chi" "存活180s, 玩得开心"
+    }
+
+    ">>This is ZM Level,Run for ya life boi B).<<"
+    {
+        "chi" "生存关"
+    }
+
+    ">>You have beat the Aurora Tower..?<<"
+    {
+        "chi" "你打败了极光塔"
+    }
+
+    ">10 Sec left,Get ready<"
+    {
+        "chi" "还剩10秒, 准备好了吗"
+    }
+
+    ">A human pickup the Loudspeaker<"
+    {
+        "chi" "有贴门高手拾取了超强神器"
+        "blocked"    "1"
+    }
+
+    ">A human pickup the Shard of Aurora Bridge<"
+    {
+        "chi" "一个人捡起了极光桥的碎片搭路方块"
+        "blocked"    "1"
+    }
+
+    ">A Player has reach the top :Oooo<"
+    {
+        "chi" "一名玩家已经达到巅峰: Oooo"
+        "blocked"    "1"
+    }
+
+    ">A zombie has control the Mecha<"
+    {
+        "chi" "僵尸拾取了机械装置"
+        "blocked"    "1"
+    }
+
+    ">And also,Thanks for everyone playing my first map!<"
+    {
+        "chi" "同时, 感谢大家游玩我的第一张地图"
+    }
+
+    ">Aurora Tower will fade peacefully now...<"
+    {
+        "chi" "极光塔在将平静地毁灭"
+    }
+
+    ">Bomb has been activated,Hold for 20 Sec<"
+    {
+        "chi" "炸弹已启动, 保持20秒"
+    }
+
+    ">Born with the aurora,Cronus raise his sword again<"
+    {
+        "chi" "出生于极光, 克洛诺斯再次举起他的剑"
+    }
+
+    ">Bring it on...<"
+    {
+        "chi" "加油..."
+    }
+
+    ">Don't worry,All door opened :/ .<"
+    {
+        "chi" "别担心, 所有的门都打开了"
+    }
+
+    ">Extreme beaten<"
+    {
+        "chi" "EX关获胜"
+    }
+
+    ">Final escape in 15 sec<"
+    {
+        "chi" "15秒后逃离这座塔"
+    }
+
+    ">For the Feast of the soul,Devourer's follower has arrive...<"
+    {
+        "chi" "为了灵魂的盛宴, 吞噬者的追随者已经到达"
+    }
+
+    ">Get back to the ship,Its is the only way<"
+    {
+        "chi" "快回飞船, 这是唯一的办法"
+    }
+
+    ">Hold 35 sec<"
+    {
+        "chi" "等待35秒"
+    }
+
+    ">Human< You can use the sword to stun the Mecha 5 sec."
+    {
+        "chi" "你可以用剑击晕机甲⑤秒"
+    }
+
+    ">Is time,To face the true ending<"
+    {
+        "chi" "现在, 该去面对真正的结局了"
+    }
+
+    ">It won't hold the tower too long<"
+    {
+        "chi" "它不会支撑极光塔太久"
+    }
+
+    ">Lightning Burst casting<"
+    {
+        "chi" "闪电爆发"
+    }
+
+    ">Little Hint: The first player on the top will teleport into the level room.<"
+    {
+        "chi" "小提示: 第一个到达顶部的玩家会传送到调关房"
+    }
+
+    ">Love you all xdddd.<"
+    {
+        "chi" "爱你们所有人"
+    }
+
+    ">May the stars follow with you<"
+    {
+        "chi" "愿星星与你同行"
+    }
+
+    ">Mecha casting Pluse Shot<"
+    {
+        "chi" "机甲发射了脉冲光粒"
+    }
+
+    ">Mecha charging the core to brust<"
+    {
+        "chi" "机甲正在充能”"
+    }
+
+    ">Mecha's soul has been released<"
+    {
+        "chi" "机甲的灵魂被释放"
+    }
+
+    ">My body already faded away with the old king.<"
+    {
+        "chi" "我的身体已经随着老国王消失了"
+    }
+
+    ">Now dance.<"
+    {
+        "chi" "打僵尸不如跳舞, 跳起来"
+        "blocked"    "1"
+    }
+
+    ">Now,you can choose a level,and safely wait in here.<"
+    {
+        "chi" "现在, 您可以选择一个关卡, 并在这里安全等待"
+    }
+
+    ">Opening the portal,Hold 25 sec<"
+    {
+        "chi" "打开入口, 保持25秒"
+    }
+
+    ">Otherworldly Staff<"
+    {
+        "chi" "超凡脱俗的员工"
+    }
+
+    ">Portal opend,Get inside!<"
+    {
+        "chi" "门开了, 快进去"
+    }
+
+    ">Releasing power from the core...<"
+    {
+        "chi" "正在释放核心能量"
+    }
+
+    ">Run<"
+    {
+        "chi" "速run"
+    }
+
+    ">Soul of Ronin<"
+    {
+        "chi" "浪人之魂"
+    }
+
+    ">Stay away from him<"
+    {
+        "chi" "快离他远点"
+    }
+
+    ">Sup.<"
+    {
+        "chi" "呵"
+    }
+
+    ">Thanks for Playing<"
+    {
+        "chi" "感谢游玩"
+    }
+
+    ">The Aurora Devourer has bring the doom to here....<"
+    {
+        "chi" "极光的吞噬者将厄运带到了这里"
+    }
+
+    ">The looping...has break...<"
+    {
+        "chi" "循环…已中断"
+    }
+
+    ">The obsession is shattered<"
+    {
+        "chi" "迷恋已经破灭了"
+    }
+
+    ">The road...has changed...<"
+    {
+        "chi" "道路……已经改变了"
+    }
+
+    ">The time start frezzing..Use Relics disengage it<"
+    {
+        "chi" "时间开始闪烁, 使用沙漏"
+    }
+
+    ">Tonight,We will break the dawn<"
+    {
+        "chi" "今晚, 我们将要打破拂晓"
+    }
+
+    ">We got to escape here now<"
+    {
+        "chi" "我们现在得逃到这里"
+    }
+
+    ">You don't realize.<"
+    {
+        "chi" "你没有意识到"
+    }
+
+    ">You failed...<"
+    {
+        "chi" "你失败了"
+    }
+
+    ">You're already dead in your own looping.<"
+    {
+        "chi" "你已经死在自己的循环中了"
+    }
+
+    ">Zombie Attacking<"
+    {
+        "chi" "丧失出笼"
+    }
+
+    ">Zombie break out in 4 sec<"
+    {
+        "chi" "僵尸在4秒内出现"
+    }
+
+    ">Zombie break out in 7 sec<"
+    {
+        "chi" "僵尸在7秒内出现"
+    }
+
+    ">Zombie Defend Protocol<"
+    {
+        "chi" "僵尸防御协议"
+    }
+
+    ">Zombie has hide into shadows...<"
+    {
+        "chi" "僵尸遁入阴影了"
+    }
+
+    ">Zombie on the ship<"
+    {
+        "chi" "船上的僵尸"
+    }
+
+    ">Zombie will start attack after few sec..<"
+    {
+        "chi" "僵尸将在几秒钟后开始攻击"
+    }
+
+    ">Zombie< Touch the white platform to control the Mecha."
+    {
+        "chi" "僵尸触摸白色平台就能开高达"
+    }
+
+    "---10 Sec left,You know what to do---"
+    {
+        "chi" "还剩10秒, 你知道该怎么办"
+    }
+
+    "10 Sec,Get ready to freefall :O"
+    {
+        "chi" "10秒, 准备信仰之跃"
+    }
+
+    "A secret just been triggered... B)"
+    {
+        "chi" "刚刚触发了一个图腾B"
+    }
+
+    "always be with "
+    {
+        "chi" "永远和你在一起"
+    }
+
+    "Are you ready?"
+    {
+        "chi" "你准备好了吗"
+    }
+
+    "Both Gate will open in 25 sec."
+    {
+        "chi" "另一扇门将在25秒后打开"
+    }
+
+    "But...better not go that early.."
+    {
+        "chi" "两扇门将在25秒内打开"
+    }
+
+    "Come on,Take a look,Maybe we could find something useful."
+    {
+        "chi" "来吧, 看看, 也许我们能找到有用的东西"
+    }
+
+    "Come up here!"
+    {
+        "chi" "上来"
+    }
+
+    "Crap,This place looks dead and silent..."
+    {
+        "chi" "该死, 这地方看起来死气沉沉的"
+    }
+
+    "Crazy idea,But i like it."
+    {
+        "chi" "这个主意很疯狂, 但是我喜欢"
+    }
+
+    "Do it now,Before its too late!"
+    {
+        "chi" "现在就做吧, 否则就太晚了"
+    }
+
+    "Door locked,Clime that platform on the left!"
+    {
+        "chi" "门锁上了, 请把左边的月台打开"
+    }
+
+    "Even the rescue..."
+    {
+        "chi" "即使是救援"
+    }
+
+    "Farewell,My king..."
+    {
+        "chi" "再见, 我的王"
+    }
+
+    "---Final defend for 30 sec---"
+    {
+        "chi" "最后防守30秒"
+    }
+
+    "---Final defend for 35 sec---"
+    {
+        "chi" "最后一次防守35秒"
+    }
+
+    "---Gate open in 20 sec---"
+    {
+        "chi" "20秒后, 大门打开"
+    }
+
+    "-Get on the platform,We need to go now-"
+    {
+        "chi" "快上舞台, 我们得走了"
+    }
+
+    "Get ready..."
+    {
+        "chi" "准备好"
+    }
+
+    "God damn it dude,You could just pick me on the top!"
+    {
+        "chi" "该死的老兄, 你可以选我在最上面"
+    }
+
+    "Good,We here...Wait.."
+    {
+        "chi" "很好, 我们在这里, 等等"
+    }
+
+    "Great,I might break my leg."
+    {
+        "chi" "太好了, 我可能会摔断腿"
+    }
+
+    "---Great,Now come back and defend for 10 sec---"
+    {
+        "chi" "太好了, 现在回来防守10秒-"
+    }
+
+    "Hello,Is anyone there??"
+    {
+        "chi" "你好? 有人吗"
+    }
+
+    "I dunno,But fuxk it,Let's jump!!"
+    {
+        "chi" "“我不知道, 去TM的, 我们跳吧”"
+    }
+
+    "I guess this door will open in 15 sec."
+    {
+        "chi" "我想这扇门15秒后就会打开"
+    }
+
+    "I saw the ship...Wait,Why he fly so low?"
+    {
+        "chi" "我看见飞船了, 等等, 他为什么飞得这么低"
+    }
+
+    "Its break,Do it now!"
+    {
+        "chi" "现在休息一下"
+    }
+
+    "Its clear,Go!"
+    {
+        "chi" "没问题, 快走"
+    }
+
+    "Its gonna be a tough fight..."
+    {
+        "chi" "这将是一场艰苦的战斗"
+    }
+
+    "It's is our fate?..."
+    {
+        "chi" "这就是我们的命运?"
+    }
+
+    "Its open,Don't let them in!"
+    {
+        "chi" "门开了, 别让僵尸进来"
+    }
+
+    "Its the end,Rescue should be here soon."
+    {
+        "chi" "结束了, 救援应该很快就到了"
+    }
+
+    "-It's work!Keep defend 20 sec and the path will shows-"
+    {
+        "chi" "成功了继续防守20秒, 道路将会显示出来"
+    }
+
+    "--Lost One,The Aurora Mecha--"
+    {
+        "chi" "我们失去了机甲"
+    }
+
+    "luffaren and"
+    {
+        "chi" "luffaren和"
+    }
+
+    "never forget us"
+    {
+        "chi" "永远不要忘记我们"
+    }
+
+    "No more Relics left :/ That's bad."
+    {
+        "chi" "次数用完了: 那太糟糕了"
+    }
+
+    "No Piece left :/ I hope you using it right."
+    {
+        "chi" "不剩了: 我希望你用对了"
+    }
+
+    "No time to find the path,Climb up the edge now!"
+    {
+        "chi" "没时间找路了, 现在就爬上边缘"
+    }
+
+    "No way to go now,This is our last stand!"
+    {
+        "chi" "现在不行, 这是我们的最后一站"
+    }
+
+    "Oh shit,He got no time to fly up!"
+    {
+        "chi" "该死, 他没时间继续向上飞了"
+    }
+
+    "Old enemy has shows..."
+    {
+        "chi" "老敌人有表演"
+    }
+
+    "Pilot,Its done,come here pick us..."
+    {
+        "chi" "结束了, 飞行员会过来接我们"
+    }
+
+    "Pilot: But you guys survived,So stop complaining,Alright?"
+    {
+        "chi" "飞行员: 但你们幸存了下来, 所以别再抱怨了, 好吗"
+    }
+
+    "Pilot: Hold steady,We gonna go now."
+    {
+        "chi" "飞行员: 站稳, 我们要走了"
+    }
+
+    "Pilot: Im control them on here..but it won't be long."
+    {
+        "chi" "飞行员:我在这里控制他们, 但不会太久"
+    }
+
+    "Pilot: Im fine...just gonna walk in hell..."
+    {
+        "chi" "飞行员: 我很好, 只是要走进地狱"
+    }
+
+    "Pilot: NO,Don't come to me!"
+    {
+        "chi" "飞行员: 不, 不要来找我"
+    }
+
+    "Pilot: The zombie...they got me."
+    {
+        "chi" "飞行员:僵尸... 他们抓住了我"
+    }
+
+    "Pilot: You have to go back to the ship,The tower is falling apart."
+    {
+        "chi" "飞行员: 你必须回到船上, 塔正在倒塌"
+    }
+
+    "Pilot: You have to run...before its too late.."
+    {
+        "chi" "飞行员: 你得赶紧跑, 否则就太晚了"
+    }
+
+    "pizza"
+    {
+        "chi" "披萨"
+    }
+
+    "Plant that bomb,Make that gate into dust."
+    {
+        "chi" "埋下炸弹, 把那扇门炸碎"
+    }
+
+    "Secret find..Gabranth has been pickup."
+    {
+        "chi" "秘密发现, Gabranth出现了"
+    }
+
+    "Survive 20 sec and something will happen..."
+    {
+        "chi" "生存20秒"
+    }
+
+    "-Teleport everyone outta ship in 40 sec-"
+    {
+        "chi" "在40秒内将所有人传送出飞船"
+    }
+
+    "That button link two doors,Defend here."
+    {
+        "chi" "那个按钮连接两扇门, 在这里防守"
+    }
+
+    "That sounds like someone just lost his pts :/"
+    {
+        "chi" "听起来好像有人丢了他的菊花"
+    }
+
+    "That's not what I was expecting for"
+    {
+        "chi" "这不是我所期待的"
+    }
+
+    "---The Bridge forming...Hold for 20 sec---"
+    {
+        "chi" "桥梁正在形成…保持20秒"
+    }
+
+    "---The Gate close in 10 sec---"
+    {
+        "chi" "10秒后大门将关闭"
+    }
+
+    "---The Platform forming..Wait for 20 sec ---"
+    {
+        "chi" "平台正在生成, 防守20秒"
+    }
+
+    "---The Window open in 20 sec---"
+    {
+        "chi" "20秒后窗户就开了"
+    }
+
+    "There is no reply from the radio..."
+    {
+        "chi" "收音机没有回音"
+    }
+
+    "There is no way to go,We have to get in there"
+    {
+        "chi" "无路可走了, 我们必须进去"
+    }
+
+    "---They breaking the Trapdoor!---"
+    {
+        "chi" "他们打破了活板门"
+    }
+
+    "They here,Jump now!!"
+    {
+        "chi" "他们在这里, 快跳"
+    }
+
+    "--Tower collapse in 10 sec--"
+    {
+        "chi" "极光塔在10秒后倒塌"
+    }
+
+    "--Tower collapse in 2 minutes--"
+    {
+        "chi" "极光塔在120秒后倒塌"
+    }
+
+    "--Tower collapse in 20 sec--"
+    {
+        "chi" "极光塔在20秒后倒塌"
+    }
+
+    "--Tower collapse in 30 sec--"
+    {
+        "chi" "极光塔在30秒后倒塌"
+    }
+
+    "--Tower collapse in 60 sec--"
+    {
+        "chi" "极光塔在60秒后倒塌"
+    }
+
+    "W..What happen,Pilot?"
+    {
+        "chi" "怎... 怎么了, 飞行员"
+    }
+
+    "Wait!The Trapdoor stuck,How do we get out now?!"
+    {
+        "chi" "等等! 活板门卡住了, 我们现在怎么出去?"
+    }
+
+    "Wait,We can use the Shard to stretch out the path!"
+    {
+        "chi" "等等, 我们可以用碎片 [搭路方块] 来铺开这条路"
+    }
+
+    "We can jump down from here!"
+    {
+        "chi" "我们可以从这里跳下去"
+    }
+
+    "We can't leave too fast,Just defend down there!"
+    {
+        "chi" "我们不能走得太快, 就在这下面防守"
+    }
+
+    "We don't have time to play that stupid puzzle!"
+    {
+        "chi" "我们没时间玩那个猪比的谜题"
+    }
+
+    "We have to defend here..Set one guy to open that door!"
+    {
+        "chi" "我们必须在这里防守…派一个人去开门"
+    }
+
+    "We have to use the Shard to make a path to that ladder,This is the only way."
+    {
+        "chi" "我们必须利用碎片 [搭路方块] 找到通往梯子的路, 这是唯一的办法"
+    }
+
+    "We must jump on it,Its is the only way,My friend."
+    {
+        "chi" "我们必须跳上去, 这是唯一的办法, 我的朋友"
+    }
+
+    "---We need to clear the debris,Hold for 25 sec ---"
+    {
+        "chi" "我们需要清理碎片, 防守25秒"
+    }
+
+    "What the hell,The bridge gone!"
+    {
+        "chi" "见鬼, 桥不见了"
+    }
+
+    "Yea whatever."
+    {
+        "chi" "是的, 无论是什么"
+    }
+
+    "Yes,I made it easier,u happy now? :/"
+    {
+        "chi" "是的, 我让它变得容易了, 你现在高兴了吗"
+    }
+
+    "you"
+    {
+        "chi" "你"
+        "blocked"    "1"
+    }
+
+    "---Zombie climing up the tower,Watch your sides---"
+    {
+        "chi" "僵尸爬上塔了, 小心你的菊花和你的脚下"
+    }
+
+}
