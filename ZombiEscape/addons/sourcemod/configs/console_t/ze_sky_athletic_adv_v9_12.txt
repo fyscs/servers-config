@@ -270,7 +270,7 @@
 
     "*** BURNING KEYBOARD ***"
     {
-        "chi" "燃烧!"
+        "chi" "键盘燃烧!"
     }
 
     "*** CAREFULL!!! ***"
@@ -325,17 +325,17 @@
 
     "*** DRAIN KEYBOARD ***"
     {
-        "chi" "键盘吸推"
+        "chi" "键盘吸力(退到最后 准备按s抵抗)"
     }
 
     "*** DRAIN KEYBOARD 2 ***"
     {
-        "chi" "键盘吸推2"
+        "chi" "键盘吸力2(看脚下,远离淡灰色地板)"
     }
 
     "*** ESC STORM ***"
     {
-        "chi" "esc风暴"
+        "chi" "esc风暴(躲避前面的esc)"
     }
 
     "*** EXPLOSION IN 3 SECONDS!!!!! ***"
@@ -385,7 +385,7 @@
 
     "*** FLYING CHANCE ***"
     {
-        "chi" "飞行变换"
+        "chi" "飞行推力(面对boss准备按w抵抗)"
     }
 
     "*** GET ON THE HIM !! ***"
@@ -470,7 +470,7 @@
 
     "*** JUMP ***"
     {
-        "chi" "快跳"
+        "chi" "跳"
     }
 
     "*** KAMIKAZE ZOMBIES ARE COMING ***"
@@ -500,7 +500,7 @@
 
     "*** KEY CANNON ***"
     {
-        "chi" "键盘加农炮, 躲避四周来的键盘弹幕"
+        "chi" "键盘加农炮(躲避四周来的键盘弹幕)"
     }
 
     "*** KEY METEOR ***"
@@ -515,17 +515,17 @@
 
     "*** KEY RUINS ***"
     {
-        "chi" "键盘遗迹"
+        "chi" "键盘破坏"
     }
 
     "*** KEYBOARD ATTACK ***"
     {
-        "chi" "键盘攻击!!"
+        "chi" "键盘拍击(全屏固定伤害)"
     }
 
     "*** KEYBOARD CUTTER ***"
     {
-        "chi" "键盘切割"
+        "chi" "键盘切割(看前面和脚下躲避)"
     }
 
     "*** KEYBOARD CUTTER 2 ***"
@@ -1275,7 +1275,7 @@
 
     "*** TAPIOKA PUNCH ***"
     {
-        "chi" "拳击打击"
+        "chi" "木薯拳击(看前面偏上,躲避出现的方块)"
     }
 
     "*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
@@ -1325,7 +1325,7 @@
 
     "*** THE WAY OF DELETEING ***"
     {
-        "chi" "删除道路"
+        "chi" "删除道路(打碎队友身上的玻璃,离开原地)"
     }
 
     "*** This area seems to begin to collapse !!! ***"
@@ -1430,7 +1430,7 @@
 
     "*** WIND is too strong !! Bullets will be back !! ***"
     {
-        "chi" "风太强了!!子弹都被吹回来了!!"
+        "chi" "风太强了!!子弹无法打到他了!!"
     }
 
     "*** YOU CAN ACROSS NOW !! ***"
@@ -1615,7 +1615,7 @@
 
     "BOY CLOUD :TAKE MY FINAL ATTACK !!!!!!!!!!!!!!!!!!!!!"
     {
-        "chi" "我的最后一击!!!"
+        "chi" "云boy:我的最后一击!!!"
     }
 
     "BOY CLOUD: Ahh!! remember this things !!!!!!"
@@ -1630,7 +1630,7 @@
 
     "cccccccckkkkkkkkkkkkkkkkkkkkkkkkkk"
     {
-        "chi" "咳咳咳啊啊啊啊啊啊啊啊啊啊啊啊吧阿吧"
+        "chi" "咳咳咳啊啊啊啊啊吧阿吧"
     }
 
     "CLOUD FATHER : and I want to fight with you too."
@@ -1900,7 +1900,7 @@
 
     "Girl CLOUD :?? My machine is strong from wind!! that can't effect me !!"
     {
-        "chi" "云妹妹:我的大宝贝 风 很大!!这对我可没啥影响"
+        "chi" "云妹妹:我的宝贝风很大!!这对我可没啥影响"
     }
 
     "Girl CLOUD :Can't move finely !! Is engine colding !?"
