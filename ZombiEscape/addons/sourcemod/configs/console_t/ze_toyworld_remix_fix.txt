@@ -1,4 +1,4 @@
-﻿"Console_T"
+"Console_T"
 {
     // Console SayText i18n file generator.
     // Copyright 2022 Kyle 'Kxnrl' Frankiss 
@@ -23,7 +23,7 @@
 
     "** SURVIVAL 45 S **"
     {
-        "chi" "生存:45秒"
+        "chi" "生存: 45秒"
     }
 
     "| AFK TP 10 S |"
@@ -65,5 +65,4 @@
     {
         "chi" "释放猛男:15秒"
     }
-
 }
