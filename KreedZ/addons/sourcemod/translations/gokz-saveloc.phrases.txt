@@ -42,7 +42,22 @@
 		"en"		"{grey}Loaded {yellow}#{1} {2} {default}| {grey}Created by {lime}{3}"
 		"ru"		"{grey}Загружено {yellow}#{1} {2} {default}| {grey}Создал {lime}{3}"
 	}
+	"LoadLoc - Mode Not Available"
+	{
+		// LoadLoc partially failed because the Vanilla mode is currently not available.
+		"#format"	"{1:s}"
+		"en"		"{darkred}LoadLoc partially failed because {purple}{1} {darkred}mode is currently not available."
+	}
 
+	// =====[ PREV/NEXTLOC ]=====
+	"PrevLoc - Can't Prev Location (No Location Found)"
+	{
+		"en"		"{darkred}You have no location to go back to."
+	}
+	"NextLoc - Can't Next Location (No Location Found)"
+	{
+		"en"		"{darkred}You have no location to go forward to."
+	}
 
 	// =====[ NAMELOC ]=====
 	"NameLoc - Usage"
@@ -83,11 +98,6 @@
 		"en"		"{darkred}You must be alive to use that command."
 		"ru"		"{darkred}Вы должны быть живы, чтобы использовать эту команду."
 	}
-	"Timer Running"
-	{
-		"en"		"{darkred}You must stop your timer to use that command."
-		"ru"		"{darkred}Вы должны остановить таймер, чтобы использовать эту команду."
-	}
 	"Location Not Found"
 	{
 		"en"		"{darkred}Location not found."
@@ -97,5 +107,40 @@
 	{
 		"en"		"{darkred}No saved locations found."
 		"ru"		"{darkred}Не найдено сохраненных локаций."
+	}
+
+	
+	// ====[ TIMER ]====
+	"Beat Map (NUB)"
+	{
+		// SaveLoc - Bill finished in NUB 01:23.45 [Mode]
+		"#format"	"{1:N},{2:s},{3:s}"
+		"en"		"{orchid}SaveLoc {grey}- {lime}{1} {grey}finished in {yellow}NUB {default}{2} {grey}[{purple}{3}{grey}]"
+		"chi"		"{orchid}SaveLoc {grey}- {lime}{1} {grey}以{yellow}读点{grey}方式完成地图,用时{default}{2}{grey} [{purple}{3}{grey}]"
+		"ru"		"{orchid}SaveLoc {grey}- {lime}{1} {grey}завершил на {yellow}NUB {default} {2} {grey}[{purple}{3}{grey}]"
+	}
+	"Beat Map (PRO)"
+	{
+		// SaveLoc - Bill finished in PRO 01:23.45 [Mode]
+		"#format"	"{1:N},{2:s},{3:s}"
+		"en"		"{orchid}SaveLoc {grey}- {lime}{1} {grey}finished in {blue}PRO {default}{2} {grey}[{purple}{3}{grey}]"
+		"chi"		"{orchid}SaveLoc {grey}- {lime}{1} {grey}以 {blue}裸跳{grey}方式完成地图,用时 {default}{2}{grey} [{purple}{3}{grey}]"
+		"ru"		"{orchid}SaveLoc {grey}- {lime}{1} {grey}завершил на {blue}PRO {default}{2} {grey}[{purple}{3}{grey}]"
+	}
+	"Beat Bonus (NUB)"
+	{
+		// SaveLoc - Bill finished Bonus 1 in NUB 01:23.45 [Mode]
+		"#format"	"{1:N},{2:d},{3:s},{4:s}"
+		"en"		"{orchid}SaveLoc {grey}- {lime}{1} {grey}finished {bluegrey}Bonus {2} {grey}in {yellow}NUB {default}{3} {grey}[{purple}{4}{grey}]"
+		"chi"		"{orchid}SaveLoc {grey}- {lime}{1} {grey}在{bluegrey}加成{2}阶{grey}下以{yellow}读点{default}方式完成地图,用时{3}{grey} [{purple}{4}{grey}]"
+		"ru"		"{orchid}SaveLoc {grey}- {lime}{1} {grey}завершил {bluegrey}Bonus {2} {grey}на {yellow}NUB {default}{3} {grey}[{purple}{4}{grey}]"
+	}
+	"Beat Bonus (PRO)"
+	{
+		// SaveLoc - Bill finished Bonus 1 in PRO 01:23.45 [Mode]
+		"#format"	"{1:N},{2:d},{3:s},{4:s}"
+		"en"		"{orchid}SaveLoc {grey}- {lime}{1} {grey}finished {bluegrey}Bonus {2} {grey}in {blue}PRO {default}{3} {grey}[{purple}{4}{grey}]"
+		"chi"		"{orchid}SaveLoc {grey}- {lime}{1} {grey}在{bluegrey}加成{2}阶{grey}下以{yellow}裸跳{default}方式完成地图,用时{3}{grey} [{purple}{4}{grey}]"
+		"ru"		"{orchid}SaveLoc {grey}- {lime}{1} {grey}завершил {bluegrey}Bonus {2} {grey}на {blue}PRO {default}{3} {grey}[{purple}{4}{grey}]"
 	}
 }

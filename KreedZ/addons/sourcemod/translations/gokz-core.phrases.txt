@@ -65,6 +65,10 @@
 		"chi"		"{darkred}落地瞬间无法存点."
 		"ru"		"{darkred}Вы не можете поставить чекпойнт после приземления."
 	}
+	"Can't Checkpoint (Anti Checkpoint Area)"
+	{
+		"en"		"{darkred}You can't checkpoint because checkpoints are disabled in this area."
+	}
 	"Can't Teleport (No Checkpoints)"
 	{
 		"en"		"{darkred}You can't teleport because you have not set a checkpoint."
@@ -107,6 +111,10 @@
 		"chi"		"{darkred}落地瞬间无法撤销存点."
 		"ru"		"{darkred}Вы не можете отменить после приземления."
 	}
+	"Can't Undo (AntiCp)"
+	{
+		"en"		"{darkred}You can't undo because you teleported while in an anti-checkpoint zone."
+	}
 	"Can't Pause (Just Resumed)"
 	{
 		"en"		"{darkred}You can't pause because you just resumed."
@@ -123,6 +131,10 @@
 	{
 		"en"		"{darkred}You can't pause because you just landed."
 		"ru"		"{darkred}Вы не можете поставить паузу после приземления."
+	}
+	"Can't Pause (Anti Pause Area)"
+	{
+		"en"		"{darkred}You can't pause because pausing is disabled in this area."
 	}
 	"Can't Resume (Just Paused)"
 	{
@@ -168,18 +180,15 @@
 		"#format"	"{1:d}"
 		"en"		"{grey}The start of {bluegrey}Bonus {1} {grey}was not found."
 		"ru"		"{grey}Начало {bluegrey}Bonus {1} {grey}не найдено."
-	}
-	"Option - Auto Restart - Enable"
+	}	
+	"No End Found"
 	{
-		"en"		"{grey}Your timer will now restart upon teleporting to start buttons."
-		"chi"		"{grey}你的计时器将重置,直到传送到起点."
-		"ru"		"{grey}Ваш таймер теперь будет перезапускаться после телепортации к кнопке начала."
+		"en"		"{grey}The end of the {bluegrey}Main Course {grey}was not found."
 	}
-	"Option - Auto Restart - Disable"
+	"No End Found (Bonus)"
 	{
-		"en"		"{grey}Your timer will no longer restart upon teleporting to start buttons."
-		"chi"		"{grey}你的计时器直到传送到起点前不再重置."
-		"ru"		"{grey}Ваш таймер больше не будет перезапускаться при телепортации к кнопке начала."
+		"#format"	"{1:d}"
+		"en"		"{grey}The end of {bluegrey}Bonus {1} {grey}was not found."
 	}
 	"Option - Virtual Button Indicators - Enable"
 	{
@@ -234,12 +243,6 @@
 	{
 		"en"		"Style"
 		"ru"		"Стиль"
-	}
-	"Options Menu - Auto Restart"
-	{
-		"en"		"Auto restart"
-		"chi"		"自动重新开始"
-		"ru"		"Авто-рестарт"
 	}
 	"Options Menu - Checkpoint Messages"
 	{

@@ -48,6 +48,20 @@
 		"chi"		"加载录像\n \nMap - {1}\n \n选择模式"
 		"ru"		"Загрузить повтор\n \nКарта - {1}\n \nВыбрать режим"
 	}
+	"Replay Menu - Wrong Map"
+	{
+		"#format"	"{1:s}"
+		"en"		"{darkred}This replay was not recorded on this map. Please switch to {1} and try again."
+	}
+	"Replay Menu - No File"
+	{
+		"en"		"{darkred}There is no file for this replay. Please contact an admin if you think this is an error."
+	}
+	"Replay Menu - Wrong Tickrate"
+	{
+		"#format"	"{1:f},{2:f}"
+		"en"		"{darkred}This replay was recorded on {1} tickrate. This server's tickrate is {2}."
+	}
 
 
 	// =====[ REPLAY CONTROL MENU ]=====
@@ -55,6 +69,11 @@
 	{
 		"en"		"Replay Controls"
 		"ru"		"Управление повтором"
+	}
+	"Replay Controls - Teleports"
+	{
+		"#format"	"{1:d}"
+		"en"		"Teleports: {1}"
 	}
 	"Replay Controls - Pause"
 	{
@@ -80,6 +99,10 @@
 	{
 		"en"		"Freecam"
 		"ru"		"Свободная камера"
+	}
+	"Replay Controls - Exit"
+	{
+		"en"		"Exit"
 	}
 	"Replay Controls - Invalid Time"
 	{

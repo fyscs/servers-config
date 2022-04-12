@@ -17,11 +17,26 @@
 		"en"		"{lime}{1} {grey}set a new {lightgreen}{2} Block {default}{3} {yellow}PB {grey}of {default}{4} {grey}[{purple}{5}{grey}]"
 		"ru"		"{lime}{1} {grey}поставил новый {lightgreen}{2} Block {default}{3} {yellow}PB {grey}на {default}{4} {grey}[{purple}{5}{grey}]"
 	}
-	"Jump Deleted"
+	"Best Jump Deleted"
 	{
 		"#format"	"{1:s},{2:s},{3:s},{4:d},{5:d}"
 		"en"		"{grey}Deleted the {purple}{1} {lightgreen}{2}{default}{3} record of '{default}STEAM_1:{4}:{5}{grey}'"
 		"ru"		"{grey}Удален {purple}{1} {lightgreen}{2}{default}{3} рекорд у '{default}STEAM_1:{4}:{5}{grey}'"
+	}
+	"All Jumps Deleted"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"{grey}Deleted all jumps of '{default}STEAM_1:{1}:{2}{grey}'"
+	}
+	"Jump Deleted"
+	{
+		"#format"	"{1:d}"
+		"en"		"{grey}Deleted jump with id {default}{1}"
+	}
+	"Time Deleted"
+	{
+		"#format"	"{1:d}"
+		"en"		"{grey}Deleted time with id {default}{1}"
 	}
 	"No SteamID specified"
 	{
@@ -43,10 +58,30 @@
 		"en"		"{darkred}Invalid jumptype (Options: LJ, BH, MBH, WJ, LAJ, LAH, JB, LBH, LWJ)"
 		"ru"		"{darkred}Неверный тип прыжка (Варианты: LJ, BH, MBH, WJ, LAJ, LAH, JB, LBH, LWJ)"
 	}
+	"Invalid Jump ID"
+	{
+		"en"		"{darkred}Invalid jump id."
+	}
+	"Invalid Time ID"
+	{
+		"en"		"{darkred}Invalid time id."
+	}
+	"Delete Best Jump Usage"
+	{
+		"en"		"Usage: !deletebestjump <STEAM_1:X:X> <mode> <jump type> <block?>"
+		"ru"		"Используйте: !deletebestjump <STEAM_1:X:X> <режим> <тип прыжка> <блок?>"
+	}
+	"Delete All Jumps Usage"
+	{
+		"en"		"Usage: !deletealljumps <STEAM_1:X:X>"
+	}
 	"Delete Jump Usage"
 	{
-		"en"		"Usage: !deletejump <STEAM_1:X:X> <mode> <jump type> <block?>"
-		"ru"		"Используйте: !deletejump <STEAM_1:X:X> <режим> <тип прыжка> <блок?>"
+		"en"		"Usage: !deletejump <id>"
+	}
+	"Delete Time Usage"
+	{
+		"en"		"Usage: !deletetime <id>"
 	}
 	"Set Cheater"
 	{

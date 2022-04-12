@@ -380,6 +380,10 @@
 		"en"		"{grey}No jumpstats were found!"
 		"ru"		"{grey}Статистика прыжков не найдена!"
 	}
+	"No Replay for Jump"
+	{
+		"en"		"{red}No replay for jump found!"
+	}
 	"Jump Record"
 	{
 		"#format"	"{1:s},{2:s},{3:s},{4:.4f}"
@@ -523,7 +527,56 @@
 	}
 
 
+	// =====[ JUMPSTATS PB MENU ]=====
+	"Jump Stats Mode Menu - Title"
+	{
+		"#format"	"{1:s}"
+		"en"		"Jumpstats\n \nPlayer - {1}\n \nSelect a Mode"
+	}
+	"Jump Stats Block Type Menu - Title"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Jumpstats\n \nPlayer - {1}\nMode - {2}\n \nSelect a Category"
+	}
+	"Jump Stats Submenu - Title (Jump)"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Jumpstats\n \nPlayer - {1}\nMode - {2}\n "
+	}
+	"Jump Stats Submenu - Title (Block Jump)"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Block Jumpstats\n \nPlayer - {1}\nMode - {2}\n "
+	}
+	"Jump Stats Menu - No Jump Stats"
+	{
+		"#format"	"{1:s}"
+		"en"		"{lime}{1} {grey}does not have any jumpstats."
+	}
+	"Jump Stats Menu - No Block Jump Stats"
+	{
+		"#format"	"{1:s}"
+		"en"		"{lime}{1} {grey}does not have any block jumpstats."
+	}
+	"Jump Stats - Jump Console Header"
+	{
+		"#format"	"{1:s},{2:s},{3:d},{4:d}"
+		"en"		"{1} jumpstats for {2} <STEAM_1:{3}:{4}>"
+	}
+	"Jump Stats - Block Jump Console Header"
+	{
+		"#format"	"{1:s},{2:s},{3:d},{4:d}"
+		"en"		"{1} block jumpstats for {2} <STEAM_1:{3}:{4}>"
+	}
+
+
 	// =====[ RECENT RECORDS MENU ]=====
+	"Recent Records Mode Menu - Title"
+	{
+		// Recently Broken Records
+		//
+		"en"		"Recently Broken Records\n \nSelect a Mode"
+	}
 	"Recent Records Menu - Title"
 	{
 		// Recently Broken Records
@@ -571,6 +624,30 @@
 	{
 		"en"		"Jump Records"
 		"ru"		"Рекорды прыжков"
+	}
+	"Jump Top Mode Menu - Title"
+	{
+		"en"		"Jumpstats Top\n \nSelect a Mode"
+	}
+	"Jump Top Type Menu - Title"
+	{
+		"#format"	"{1:s}"
+		"en"		"Jumpstats Top\n \nMode - {1}\n \nSelect a Type"
+	}
+	"Jump Top Block Type Menu - Title"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Jumpstats Top\n \nMode - {1}\nType - {2}\n \nSelect a Category"
+	}
+	"Jump Top Submenu - Title (Jump)"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Jumpstats Top\n \nMode - {1}\nType - {2}\n "
+	}
+	"Jump Top Submenu - Title (Block Jump)"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Block Jumpstats Top\n \nMode - {1}\nType - {2}\n "
 	}
 
 

@@ -27,6 +27,12 @@
 		"chi"		"{grey}字符'{default}{1}{grey}'无效,不是有效数字."
 		"ru"		"{grey}'{default}{1}{grey}' не является бонусным уровнем."
 	}
+	"Invalid Course Number"
+	{
+		// 'asdf' is not a valid course number.
+		"#format"	"{1:s}"
+		"en"		"{grey}'{default}{1}{grey}' is not a valid course number."
+	}
 	"Player No Longer Valid"
 	{
 		"en"		"{darkred}The player you specified is no longer valid."

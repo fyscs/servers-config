@@ -30,12 +30,6 @@
 		"chi"		"{grey}可通过{default}!setstartpos{grey}/{default}!ssp {grey}以及{default}!clearstartpos{grey}/{default}!csp {grey}来创建/清除自定义传送点."
 		"ru"		"{grey}Вы можете использовать {default}!setstartpos{grey}/{default}!ssp {grey}и {default}!clearstartpos{grey}/{default}!csp {grey}для управления стартовой позиции телепорта."
 	}
-	"!autorestart"
-	{
-		"en"		"{grey}Tired of pressing E? Enable the {default}!autorestart {grey}option!"
-		"chi"		"{grey}不想对着起点按E? 聊天框中输入{default}!autorestart {grey}即可!"
-		"ru"		"{grey}Надоело нажимать E при каждом перезапуске? Используйте опцию {default}!autorestart"
-	}
 	"!vbi"
 	{
 		"en"		"{grey}Having trouble visualising virtual buttons? Use {default}!vbi{grey} to toggle indicators for them."

@@ -77,6 +77,34 @@
 		"chi"		"{lime}{1}{grey} 刷新了{bluegrey}加成{2}阶下的{darkred}裸跳世界纪录: {grey}[{purple}{3}{grey}]"
 		"ru"		"{lime}{1}{grey} поставил новый рекорд в {bluegrey}Bonus {2} {darkred}GLOBAL PRO {grey}[{purple}{3}{grey}]"
 	}
+	"GPB Header"
+	{
+		// Global PB on kz_map [SKZ]
+		"#format"	"{1:s},{2:s}"
+		"en"		"{grey}Global PB on {default}{1} {grey}[{purple}{2}{grey}]"
+	}
+	"GPB Header (Bonus)"
+	{
+		// Global PB on kz_map Bonus 1 [SKZ]
+		"#format"	"{1:s},{2:d},{3:s}"
+		"en"		"{grey}Global PB on {default}{1} {bluegrey}Bonus {2} {grey}[{purple}{3}{grey}]"
+	}
+	"GPB Time - NUB"
+	{
+		// GLOBAL NUB PB: 01:23.45
+		"#format"	"{1:s}"
+		"en"		"{red}GLOBAL NUB PB{grey}: {default}{1}"
+	}
+	"GPB Time - PRO"
+	{
+		// GLOBAL PRO PB: 01:23.45
+		"#format"	"{1:s}"
+		"en"		"{darkred}GLOBAL PRO PB{grey}: {default}{1}"
+	}
+	"GPB Time - No PRO Time"
+	{
+		"en"		"{darkred}GLOBAL PRO PB{grey}: None... yet."
+	}
 	"GWR Header"
 	{
 		// Global Records on kz_map [SKZ]
@@ -130,6 +158,18 @@
 		"en"		"{default}{1} {grey}- {yellow}Tier Unknown"
 		"chi"		"{default}{1} {grey}- {yellow}未知阶层"
 		"ru"		"{default}{1} {grey}- {yellow}Tier Неизвестен"
+	}
+	"Total Points"
+	{
+		// Total points - PRO: 14000 | NUB: 56000
+		"#format"	"{1:d},{2:d}"
+		"en"		"{default}Total points: {blue}PRO{default}: {1} {yellow}NUB{default}: {2}"
+	}
+	"Map Points"
+	{
+		// Map points - PRO: 560 | NUB: 850
+		"#format"	"{1:d},{2:d}"
+		"en"		"{default}Map points: {blue}PRO{default}: {1} {yellow}NUB{default}: {2}"
 	}
 	"Global Check Header"
 	{
