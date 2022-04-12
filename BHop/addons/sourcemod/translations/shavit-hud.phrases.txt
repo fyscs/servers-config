@@ -19,7 +19,7 @@
 	"HudInStartZoneCSGO"
 	{
 		"#format"	"{1:d}"
-		"en"		"In Start Zone\n\n\t\t\t{1}"
+		"en"		"In Start Zone"
 	}
 	"HudEndZone"
 	{
@@ -33,7 +33,7 @@
 	"HudInEndZoneCSGO"
 	{
 		"#format"	"{1:d}"
-		"en"		"In End Zone\n\n\t\t\t{1}"
+		"en"		"In End Zone"
 	}
 	"HudPaused"
 	{
@@ -75,6 +75,18 @@
 	{
 		"en"		"Perfect jumps"
 	}
+	"HudDefaultPistol"
+	{
+		"en"		"Default Pistol: 1=USP 2=Glock"
+	}
+	"HudUSPSilencer"
+	{
+		"en"		"Spawn USPs with a silencer attached"
+	}
+	"HudGlockBurst"
+	{
+		"en"		"Spawn Glocks with Burst"
+	}
 	"HudPracticeMode"
 	{
 		"en"		"[PRACTICE]"
@@ -87,6 +99,10 @@
 	{
 		"#format"	"{1:d}"
 		"en"		"(Speed Limit: {1})"
+	}
+	"HudCenterKeys"
+	{
+		"en"        "!keys in the center"
 	}
 	// ---------- Menus ---------- //
 	"HUDMenuTitle"
@@ -164,6 +180,10 @@
 	"HudVelocityDifference"
 	{
 		"en"		"Velocity Difference"
+	}
+	"HudDebugTargetname"
+	{
+		"en"        "Debug targetname"
 	}
 	// ---------- Record Bots ---------- //
 	"ReplayText"
