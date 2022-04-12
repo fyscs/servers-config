@@ -1,0 +1,46 @@
+Phrases
+{
+	// =====[ CHAT MESSAGES ]=====
+	"Stopped Sounds"
+	{
+		"en"		"{grey}You have stopped all sounds."
+		"chi"		"{grey}你屏蔽了所有音效."
+		"ru"		"{grey}Вы выключили все звуки."
+	}
+	"Option - Show Players - Enable"
+	{
+		"en"		"{grey}You are now showing other players."
+		"chi"		"{grey}已取消屏蔽其他玩家."
+		"ru"		"{grey}Теперь вы видите остальных игроков."
+	}
+	"Option - Show Players - Disable"
+	{
+		"en"		"{grey}You are now hiding other players."
+		"chi"		"{grey}已屏蔽其他玩家模型."
+		"ru"		"{grey}Теперь вы не видите остальных игроков."
+	}
+	"Option - Map Sounds - Enable"
+	{
+		"en"		"{grey}Map sounds are now enabled."
+		"ru"		"{grey}Звуки карты теперь включены."
+	}
+	"Option - Map Sounds - Disable"
+	{
+		"en"		"{grey}Map sounds are now disabled."
+		"ru"		"{grey}Звуки карты теперь выключены."
+	}
+
+
+	// =====[ OPTIONS MENU ]=====
+	"Options Menu - Show Players"
+	{
+		"en"		"Show players"
+		"chi"		"屏蔽其他玩家"
+		"ru"		"Показать игроков"
+	}
+	"Options Menu - Map Sounds"
+	{
+		"en"		"Play map sounds"
+		"ru"		"Play map sounds"
+	}
+}

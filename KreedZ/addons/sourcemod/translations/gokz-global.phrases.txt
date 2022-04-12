@@ -1,0 +1,244 @@
+"Phrases"
+{
+	// =====[ CHAT MESSAGES ]=====
+	"No Global Times Found"
+	{
+		"en"		"{grey}No global times were found!"
+		"chi"		"{grey}本图暂未发现世界纪录!"
+		"ru"		"{grey}Никаких глобальных рекордов не найдено!"
+	}
+	"No Global Times Found (PRO)"
+	{
+		"en"		"{grey}No global {blue}PRO{grey} times were found!"
+		"chi"		"{grey}本图暂未发现{blue}裸跳{grey}纪录!"
+		"ru"		"{grey}Глобальное {blue}PRO{grey} время не найдено!"
+	}
+	"New Global Top Time (NUB)"
+	{
+		// linus is now #2 in the GLOBAL NUB TOP [SKZ]
+		"#format"	"{1:N},{2:d},{3:s}"
+		"en"		"{lime}{1}{grey} is now #{default}{2} {grey}in the {red}GLOBAL NUB TOP {grey}[{purple}{3}{grey}]"
+		"chi"		"{lime}{1}{grey} 现在成为了{red}全球前{grey}[{purple}{3}{grey}]名存点纪录中的第{default}{2}{grey}名"
+		"ru"		"{lime}{1}{grey} теперь #{default}{2} {grey}в {red}GLOBAL NUB TOP {grey}[{purple}{3}{grey}]"
+	}
+	"New Global Top Time (PRO)"
+	{
+		// linus is now #2 in the GLOBAL PRO TOP [SKZ]
+		"#format"	"{1:N},{2:d},{3:s}"
+		"en"		"{lime}{1}{grey} is now #{default}{2} {grey}in the {darkred}GLOBAL PRO TOP {grey}[{purple}{3}{grey}]"
+		"chi"		"{lime}{1}{grey} 现在成为了{darkred}全球前{grey}[{purple}{3}{grey}]名裸跳纪录中的第{default}{2}{grey}名"
+		"ru"		"{lime}{1}{grey} теперь #{default}{2} {grey}в {darkred}GLOBAL PRO TOP {grey}[{purple}{3}{grey}]"
+	}
+	"New Global Top Bonus Time (NUB)"
+	{
+		// linus is now #2 in the Bonus 1 GLOBAL NUB TOP [SKZ]
+		"#format"	"{1:N},{2:d},{3:d},{4:s}"
+		"en"		"{lime}{1}{grey} is now #{default}{2} {grey}in the {bluegrey}Bonus {3} {red}GLOBAL NUB TOP {grey}[{purple}{4}{grey}]"
+		"chi"		"{lime}{1}{grey} 现在成为了{bluegrey}加成{3}阶{red}下全球前{grey}[{purple}{4}{grey}名的读点纪录中的第{default}{2}{grey}名"
+		"ru"		"{lime}{1}{grey} теперь #{default}{2} {grey}в {bluegrey}Bonus {3} {red}GLOBAL NUB TOP {grey}[{purple}{4}{grey}]"
+	}
+	"New Global Top Bonus Time (PRO)"
+	{
+		// linus is now #2 in the Bonus 1 GLOBAL PRO TOP [SKZ]
+		"#format"	"{1:N},{2:d},{3:d},{4:s}"
+		"en"		"{lime}{1}{grey} is now #{default}{2} {grey}in the {bluegrey}Bonus {3} {darkred}GLOBAL PRO TOP {grey}[{purple}{4}{grey}]"
+		"chi"		"{lime}{1}{grey} 现在成为了{bluegrey}加成{3}阶{darkred}下全球前{grey}[{purple}{4}{grey}名的第#{default}{2}{grey}名"
+		"ru"		"{lime}{1}{grey} теперь #{default}{2} {grey}в {bluegrey}Bonus {3} {darkred}GLOBAL PRO TOP {grey}[{purple}{4}{grey}]"
+	}
+	"New Global Record (NUB)"
+	{
+		// Bill set a new GLOBAL NUB RECORD [Mode]
+		"#format"	"{1:N},{2:s}"
+		"en"		"{lime}{1}{grey} set a new {red}GLOBAL NUB RECORD {grey}[{purple}{2}{grey}]"
+		"chi"		"{lime}{1}{grey} 刷新了{red}存点全球纪录: {grey}[{purple}{2}{grey}]"
+		"ru"		"{lime}{1}{grey} поставил новый рекорд в {red}GLOBAL NUB {grey}[{purple}{2}{grey}]"
+	}
+	"New Global Record (PRO)"
+	{
+		// Bill set a new GLOBAL PRO RECORD [Mode]
+		"#format"	"{1:N},{2:s}"
+		"en"		"{lime}{1}{grey} set a new {darkred}GLOBAL PRO RECORD {grey}[{purple}{2}{grey}]"
+		"chi"		"{lime}{1}{grey} 刷新了{darkred}裸跳世界纪录: {grey}[{purple}{2}{grey}]"
+		"ru"		"{lime}{1}{grey} поставил новый рекорд в {darkred}GLOBAL PRO {grey}[{purple}{2}{grey}]"
+	}
+	"New Global Bonus Record (NUB)"
+	{
+		// Bill set a new Bonus 1 GLOBAL NUB RECORD [Mode]
+		"#format"	"{1:N},{2:d},{3:s}"
+		"en"		"{lime}{1}{grey} set a new {bluegrey}Bonus {2} {red}GLOBAL NUB RECORD {grey}[{purple}{3}{grey}]"
+		"chi"		"{lime}{1}{grey} 刷新了{bluegrey}加成{2}阶下的{darkred}存点世界纪录: {grey}[{purple}{3}{grey}]"
+		"ru"		"{lime}{1}{grey} поставил новый рекорд в {bluegrey}Bonus {2} {red}GLOBAL NUB {grey}[{purple}{3}{grey}]"
+	}
+	"New Global Bonus Record (PRO)"
+	{
+		// Bill set a new Bonus 1 GLOBAL PRO RECORD [Mode]
+		"#format"	"{1:N},{2:d},{3:s}"
+		"en"		"{lime}{1}{grey} set a new {bluegrey}Bonus {2} {darkred}GLOBAL PRO RECORD {grey}[{purple}{3}{grey}]"
+		"chi"		"{lime}{1}{grey} 刷新了{bluegrey}加成{2}阶下的{darkred}裸跳世界纪录: {grey}[{purple}{3}{grey}]"
+		"ru"		"{lime}{1}{grey} поставил новый рекорд в {bluegrey}Bonus {2} {darkred}GLOBAL PRO {grey}[{purple}{3}{grey}]"
+	}
+	"GWR Header"
+	{
+		// Global Records on kz_map [SKZ]
+		"#format"	"{1:s},{2:s}"
+		"en"		"{grey}Global Records on {default}{1} {grey}[{purple}{2}{grey}]"
+		"chi"		"{grey}地图 {default}{1}{grey}的世界纪录:[{purple}{2}{grey}]"
+		"ru"		"{grey}Глобальные рекорды на {default}{1} {grey}[{purple}{2}{grey}]"
+	}
+	"GWR Header (Bonus)"
+	{
+		// Global Records on kz_map Bonus 1 [SKZ]
+		"#format"	"{1:s},{2:d},{3:s}"
+		"en"		"{grey}Global Records on {default}{1} {bluegrey}Bonus {2} {grey}[{purple}{3}{grey}]"
+		"chi"		"{grey}地图 {default}{1}{bluegrey}在加成{2}阶下{grey}的世界纪录:[{purple}{3}{grey}]"
+		"ru"		"{grey}Глобальные рекорды на {default}{1} {bluegrey}Bonus {2} {grey}[{purple}{3}{grey}]"
+	}
+	"GWR Time - NUB"
+	{
+		// GLOBAL NUB RECORD: 01:23.45 by linus
+		"#format"	"{1:s},{2:s}"
+		"en"		"{red}GLOBAL NUB RECORD{grey}: {default}{1}{grey} by {lime}{2}"
+		"chi"		"{red}存点世界纪录{grey}: {default}{1}{grey} ,纪录保持者:{lime}{2}"
+		"ru"		"{red}GLOBAL NUB RECORD{grey}: {default}{1}{grey} принадлежит {lime}{2}"
+	}
+	"GWR Time - PRO"
+	{
+		// GLOBAL PRO RECORD: 01:23.45 by linus
+		"#format"	"{1:s},{2:s}"
+		"en"		"{darkred}GLOBAL PRO RECORD{grey}: {default}{1}{grey} by {lime}{2}"
+		"chi"		"{darkred}裸跳世界纪录{grey}: {default}{1}{grey} ,纪录保持者:{lime}{2}"
+		"ru"		"{red}GLOBAL PRO RECORD{grey}: принадлежит {lime}{2} {grey}с временем {default}{1}"
+	}
+	"GWR Time - No PRO Time"
+	{
+		"en"		"{darkred}GLOBAL PRO RECORD{grey}: None... yet."
+		"chi"		"{darkred}裸跳世界纪录{grey}: 暂无"
+		"ru"		"{darkred}GLOBAL PRO RECORD{grey}: Пока... его нет."
+	}
+	"Map Tier"
+	{
+		// kz_map - Tier 3
+		"#format"	"{1:s},{2:d}"
+		"en"		"{default}{1} {grey}- {yellow}Tier {2}"
+		"chi"		"{default}{1} {grey}- {yellow}第{2}阶"
+		"ru"		"{default}{1} {grey}- {yellow}Tier {2}"
+	}
+	"Map Tier (Unknown)"
+	{
+		// kz_map - Tier Unknown
+		"#format"	"{1:s}"
+		"en"		"{default}{1} {grey}- {yellow}Tier Unknown"
+		"chi"		"{default}{1} {grey}- {yellow}未知阶层"
+		"ru"		"{default}{1} {grey}- {yellow}Tier Неизвестен"
+	}
+	"Global Check Header"
+	{
+		"en"		"{grey}Global Records Availability Check"
+		"chi"		"{grey}GR可运行性检测"
+		"ru"		"{grey}Наличие глобальных рекордов"
+	}
+	"Global Check"
+	{
+		// API Key X | Settings Enforcer X | Map X | You X
+		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
+		"en"		"{grey}API Key {1}{grey} | Plugins {2}{grey} | Settings Enforcer {3}{grey} | Map {4}{grey} | You {5}"
+		"chi"		"{grey}API Key {1}{grey} | Plugins {2}{grey} | Settings Enforcer {3}{grey} | Map {4}{grey} | You {5}"
+		"ru"		"{grey}Ключ API {1}{grey} | Плагины {2}{grey} | Настройки Enforcer {3}{grey} | Карта {4}{grey} | Ты {5}"
+	}
+	"Kick Player fps_max"
+	{
+		"en"		"Please set your fps_max to more than 120 to continue playing on this server"
+		"ru"		"Пожалуйста, поставьте значение fps_max выше 120 для продолжения игры на данном сервере"
+	}
+	"Warn Player fps_max"
+	{
+		"en"		"{darkred} Please set your fps_max above 120 to continue playing. You will be kicked unless you change it!"
+		"ru"		"{darkred} Пожалуйста, поставьте значение fps_max выше 120 для продолжения игры, иначе вы будете кикнуты."
+	}
+	"Kick Player m_yaw"
+	{
+		"en"		"Your m_yaw value must be less or equal to 0.3 to play on this server"
+		"ru"		"Ваше значение m_yaw должно быть меньше или равно 0.3 для игры на этом сервере."
+	}
+
+
+	// =====[ GLOBAL TOP MENU ]=====
+	"Global Map Top Mode Menu - Title"
+	{
+		// Global Map Top
+		//
+		// Map - kz_map
+		//
+		"#format"	"{1:s}"
+		"en"		"Global Map Top\n \nMap - {1}\n "
+		"chi"	"地图世界纪录\n \n地图 - {1}\n "
+		"ru"		"Глобальный топ карты\n \nКарта - {1}\n "
+	}
+	"Global Map Top Mode Menu - Title (Bonus)"
+	{
+		// Global Map Top
+		//
+		// Map - kz_map (Bonus 1)
+		//
+		"#format"	"{1:s},{2:d}"
+		"en"		"Global Map Top\n \nMap - {1} (Bonus {2})\n "
+		"chi"	"地图世界纪录\n \n地图 - {1} (加成{2}阶)\n "
+		"ru"		"Глобальный топ карты\n \nКарта - {1} (Бонус {2})\n "
+	}
+	"Global Map Top Menu - Title"
+	{
+		// Global Map Top
+		//
+		// Map - kz_map
+		// Mode - Vanilla
+		//
+		"#format"	"{1:s},{2:s}"
+		"en"		"Global Map Top\n \nMap - {1}\nMode - {2}\n "
+		"chi"	"地图世界纪录\n \n地图 - {1}\n模式 - {2}\n "
+		"ru"		"Глобальный топ карты\n \nКарта - {1}\nРежим - {2}\n "
+	}
+	"Global Map Top Menu - Title (Bonus)"
+	{
+		// Global Map Top
+		//
+		// Map - kz_map (Bonus 1)
+		// Mode - Vanilla
+		//
+		"#format"	"{1:s},{2:d},{3:s}"
+		"en"		"Global Map Top\n \nMap - {1} (Bonus {2})\nMode - {3}\n "
+		"chi"	"地图世界纪录\n \n地图 - {1} (加成{2}阶)\n模式 - {3}\n "
+		"ru"		"Глобальный топ карты\n \nКарта - {1} (Бонус {2})\nРежим - {3}\n "
+	}
+	"Global Map Top Submenu - Title"
+	{
+		// Global Top PRO Times
+		//
+		// Map - kz_map
+		// Mode - Vanilla
+		//
+		"#format"	"{1:s},{2:s},{3:s}"
+		"en"		"Global Top {1} Times\n \nMap - {2}\nMode - {3}\n "
+		"chi"	"地图 {1} 世界排名\n \n地图 - {2}\n模式 - {3}\n "
+		"ru"		"Глобальный топ {1} времени\n \nКарта - {2}\nРежим - {3}\n "
+	}
+	"Global Map Top Submenu - Title (Bonus)"
+	{
+		// Global Top PRO Times
+		//
+		// Map - kz_map (Bonus 1)
+		// Mode - Vanilla
+		//
+		"#format"	"{1:s},{2:s},{3:d},{4:s}"
+		"en"		"Global Top {1} Times\n \nMap - {2} (Bonus {3})\nMode - {4}\n "
+		"chi"	"地图 {1} 世界排名\n \n地图 - {2} (加成{3}阶)\n模式 - {4}\n "
+		"ru"		"Глобальный топ {1} времени\n \nКарта - {2} (Бонус {3})\nРежим - {4}\n "
+	}
+	"Global Map Top Menu - Top"
+	{
+		// Top PRO
+		"#format"	"{1:s}"
+		"en"		"Top {1}"
+		"chi"	"前 {1} 名"
+		"ru"		"Топ {1}"
+	}
+}

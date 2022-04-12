@@ -1,0 +1,288 @@
+"Phrases"
+{
+	// =====[ GENERAL ]=====
+	"Offset"
+	{
+		"en"		"Offset"
+		"chi"		"位移"
+		"ru"		"Сдвиг"
+	}
+	"Offset Short"
+	{
+		"en"		"Off"
+		"ru"		"Off"
+	}
+	"Height"
+	{
+		"en"		"Height"
+		"chi"		"高度"
+		"ru"		"Высота"
+	}
+	"Pre"
+	{
+		"en"		"Pre"
+		"chi"		"Pre"
+		"ru"		"Pre"
+	}
+	"Max"
+	{
+		"en"		"Max"
+		"chi"		"Max"
+		"ru"		"Макс."
+	}
+	"Strafes" // Plural
+	{
+		"en"		"Strafes"
+		"chi"		"加速"
+		"ru"		"Стрейфы"
+	}
+	"Strafe" // Singular
+	{
+		"en"		"Strafe"
+		"chi"		"加速"
+		"ru"		"Стрейф"
+	}
+	"Sync"
+	{
+		"en"		"Sync"
+		"chi"		"同步率"
+		"ru"		"Sync"
+	}
+	"Airtime"
+	{
+		"en"		"Airtime"
+		"chi"		"滞空"
+		"ru"		"Airtime"
+	}
+	"units"
+	{
+		"en"		"units"
+		"chi"		"单位"
+		"ru"		"юнитов"
+	}
+	"Avg. Width"
+	{
+		"en"		"Avg. Width"
+		"ru"		"Ср. ширина"
+	}
+	"Block"
+	{
+		"en"		"Block"
+		"ru"		"Блок"
+	}
+	"Overlap"
+	{
+		"en"		"OL"
+		"ru"		"OL"
+	}
+	"Dead Air"
+	{
+		"en"		"DA"
+		"ru"		"DA"
+	}
+	"Edge"
+	{
+		"en"		"Edge"
+		"ru"		"Край"
+	}
+	"Edge Short"
+	{
+		"en"		"E"
+		"ru"		"E"
+	}
+	"Deviation"
+	{
+		"en"		"Deviation"
+		"ru"		"Отклонение"
+	}
+	"W Release"
+	{
+		"en"		"W"
+		"ru"		"W"
+	}
+	"Width"
+	{
+		"en"		"Width"
+		"ru"		"Ширина"
+	}
+	"Speed"
+	{
+		"en"		"Speed"
+		"ru"		"Скорость"
+	}
+	"Crouch Ticks"
+	{
+		"en"		"Crouched"
+		"ru"		"Crouched"
+	}
+	"Crouch Release"
+	{
+		"en"		"C"
+		"ru"		"C"
+	}
+	"Miss"
+	{
+		"en"		"Miss"
+		"ru"		"Miss"
+	}
+
+
+	// =====[ CHAT MESSAGES ]=====
+	"Dropped Too Far (Weird Jump)"
+	{
+		// You fell too for for a valid Weird Jump (96.0/64.0).
+		"#format"	"{1:.1f},{2:.1f}"
+		"en"		"{grey}You fell too far for a valid Weird Jump ({lightred}{1}{grey}/{green}{2}{grey})."
+		"chi"		"{grey}你的下落距离太高,无法判定为WJ (实际距离:{lightred}{1}{grey}/高度上限:{green}{2}{grey})."
+		"ru"		"{grey}Ты приземлился слишком далеко для Weird прыжка ({lightred}{1}{grey}/{green}{2}{grey})."
+	}
+	"Jumpstats Option - Master Switch - Enable"
+	{
+		"en"		"{grey}You have enabled jumpstats reporting."
+		"chi"		"{grey}已开启起跳数据."
+		"ru"		"{grey}Вы включили отчеты по прыжкам."
+	}
+	"Jumpstats Option - Master Switch - Disable"
+	{
+		"en"		"{grey}You have disabled all jumpstats reporting."
+		"chi"		"{grey}已关闭起跳数据."
+		"ru"		"{grey}Вы отключили отчеты по прыжкам."
+	}
+	"Jumpstats Option - Jumpstats Always - Enable"
+	{
+		"en"		"{grey}You have enabled the always-on jumpstats."
+		"ru"		"{grey}Вы включили постоянные отчеты по прыжкам."
+	}
+	"Jumpstats Option - Jumpstats Always - Disable"
+	{
+		"en"		"{grey}You have disabled the always-on jumpstats."
+		"ru"		"{grey}Вы отключили постоянные отчеты по прыжкам."
+	}
+	"Broadcast Jumpstat Chat Report"
+	{
+		"#format"	"{1:s},{2:N},{3:.2f},{4:s}"
+		"en"		"{1}{2} jumped {3} units with a {4}"
+		"ru"		"{1}{2} прыгнул {3} юнитов с {4}"
+	}
+
+
+	// =====[ CONSOLE MESSAGES ]===== 
+	"Console Jump Header"
+	{
+		// Bill jumped 268.3485 units with a Long Jump
+		"#format"	"{1:N},{2:.4f},{3:s}"
+		"en"		"{1} jumped {2} units with a {3}"
+		"chi"		"{1} 以{3}方式跳出了{2} 单位"
+		"ru"		"{1} прыгнул {2} юнитов с {3}"
+	}
+	"Console Failstat Header"
+	{
+		// Bill failed a 268.3485 unit Long Jump
+		"#format"	"{1:N},{2:.4f},{3:s}"
+		"en"		"{1} failed a {2} unit {3}"
+		"ru"		"{1} не удалось прыгнуть {2} юнитов {3}"
+	}
+	// NOTE: For table formatting in console, these 'headers' should
+	// be the same number of characters as the English translation.
+	"Sync (Table)"
+	{
+		"en"		"Sync      "
+		"chi"		"同步      "
+		"ru"		"Sync      "
+	}
+	"Gain (Table)"
+	{
+		"en"		"Gain      "
+		"chi"		"获得      "
+		"ru"		"Gain      "
+	}
+	"Loss (Table)"
+	{
+		"en"		"Loss      "
+		"chi"		"损失      "
+		"ru"		"Loss      "
+	}
+	"Airtime (Table)"
+	{
+		"en"		"Airtime   "
+		"chi"		"滞空时间  "
+		"ru"		"Airtime   "
+	}
+	"Width (Table)"
+	{
+		"en"		"Width     "
+		"ru"		"Width     "
+	}
+	"Overlap (Table)"
+	{
+		"en"		"OL     "
+		"ru"		"OL     "
+	}
+	"Dead Air (Table)"
+	{
+		"en"		"DA     "
+		"ru"		"DA     "
+	}
+
+
+	// =====[ OPTIONS MENU ]=====
+	"Options Menu - Jumpstats"
+	{
+		"en"		"Jumpstats"
+		"ru"		"Статистика прыжков"
+	}
+	"Options Menu - Jumpstats Master Switch"
+	{
+		"en"		"Jumpstats"
+		"chi"		"起跳数据显示"
+		"ru"		"Статистика прыжков"
+	}
+	"Options Menu - Jumpstats Chat Report"
+	{
+		"en"		"Chat report"
+		"chi"		"聊天框显示"
+		"ru"		"Оповещения в чат"
+	}
+	"Options Menu - Jumpstats Console Report"
+	{
+		"en"		"Console report"
+		"chi"		"控制台输出显示"
+		"ru"		"Оповещения в консоль"
+	}
+	"Options Menu - Jumpstats Sounds"
+	{
+		"en"		"Sounds"
+		"chi"		"音效"
+		"ru"		"Звуки"
+	}
+	"Options Menu - Extended Jump Chat Report"
+	{
+		"en"		"Extended Chat Report"
+		"ru"		"Расширенные оповещения в чат"
+	}
+	"Options Menu - Failstats Console Report"
+	{
+		"en"		"Failstats Console Report"
+		"ru"		"Оповещения в консоль о плохих прыжках"
+	}
+	"Options Menu - Failstats Chat Report"
+	{
+		"en"		"Failstats Chat Report"
+		"ru"		"Оповещения в чат о плохих прыжках"
+	}
+	"Options Menu - Jumpstats Always"
+	{
+		"en"		"Always Print Jumpstats"
+		"ru"		"Всегда показывать статистику прыжков"
+	}
+	"Options Menu - Minimal Jump Chat Broadcast Tier"
+	{
+		"en"		"Min Chat Broadcast Tier"
+		"ru"		"Мин. Tier для оповещения"
+	}
+	"Options Menu - Minimal Jump Sound Broadcast Tier"
+	{
+		"en"		"Min Sound Broadcast Tier"
+		"ru"		"Мин. Tier для проигрывания звука"
+	}
+}

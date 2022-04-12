@@ -1,0 +1,89 @@
+"Phrases"
+{
+	// =====[ CHAT MESSAGES ]=====
+	"No Replays Found (Map)"
+	{
+		"en"		"{darkred}No replays for this map were found."
+		"chi"		"{darkred}当前地图没有录像."
+		"ru"		"{darkred}На этой карте не найдено повторов."
+	}
+	"No Replays Found (Mode)"
+	{
+		// No Vanilla replays for this map were found.
+		"#format"	"{1:s}"
+		"en"		"{darkred}No {1} replays on this map were found."
+		"chi"		"{darkred}当前地图没有录像({1})."
+		"ru"		"{darkred}На этой карте нет повторов {1} режима."
+	}
+	"No Bots Available"
+	{
+		"en"		"{darkred}There are currently no replay bots available."
+		"chi"		"{darkred}当前没有可用的回放机器人."
+		"ru"		"{darkred}В настоящее время нет доступных ботов воспроизведения."
+	}
+
+
+	// =====[ REPLAY MENU ]=====
+	"Replay Menu - Title"
+	{
+		// Load a Replay
+		//
+		// Map - kz_map
+		// Mode - Vanilla
+		//
+		"#format"	"{1:s},{2:s}"
+		"en"		"Load a Replay\n \nMap - {1}\nMode - {2}\n "
+		"chi"		"加载录像\n \nMap - {1}\n模式 - {2}\n "
+		"ru"		"Загрузить повтор\n \nКарта - {1}\nРежим - {2}\n "
+	}
+	"Replay Menu (Mode) - Title"
+	{
+		// Load a Replay
+		//
+		// Map - kz_map
+		//
+		// Select a Mode
+		"#format"	"{1:s}"
+		"en"		"Load a Replay\n \nMap - {1}\n \nSelect a Mode"
+		"chi"		"加载录像\n \nMap - {1}\n \n选择模式"
+		"ru"		"Загрузить повтор\n \nКарта - {1}\n \nВыбрать режим"
+	}
+
+
+	// =====[ REPLAY CONTROL MENU ]=====
+	"Replay Controls - Title"
+	{
+		"en"		"Replay Controls"
+		"ru"		"Управление повтором"
+	}
+	"Replay Controls - Pause"
+	{
+		"en"		"Pause"
+		"ru"		"Пауза"
+	}
+	"Replay Controls - Resume"
+	{
+		"en"		"Resume"
+		"ru"		"Продолжить"
+	}
+	"Replay Controls - Skip"
+	{
+		"en"		"Skip 10s"
+		"ru"		"Пропустить 10с"
+	}
+	"Replay Controls - Rewind"
+	{
+		"en"		"Rewind 10s"
+		"ru"		"Перемотать 10с"
+	}
+	"Replay Controls - Freecam"
+	{
+		"en"		"Freecam"
+		"ru"		"Свободная камера"
+	}
+	"Replay Controls - Invalid Time"
+	{
+		"en"		"{red}Invalid Time."
+		"ru"		"{red}Неправильное время."
+	}
+}

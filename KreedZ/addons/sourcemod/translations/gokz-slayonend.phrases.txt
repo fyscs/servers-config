@@ -1,0 +1,25 @@
+"Phrases"
+{
+	// =====[ CHAT MESSAGES ]=====
+	"Option - Slay On End - Enable"
+	{
+		"en"		"{grey}You will now be slain shortly after completing a course. This helps de-glitch POV demo recordings."
+		"chi"		"{grey}为保证不出现卡顿POV录像,完成地图后你将被强制复活一次."
+		"ru"		"{grey}Теперь вы будете убиты вскоре после прохождения карты. Это помогает избежать глюков POV демо-записей."
+	}
+	"Option - Slay On End - Disable"
+	{
+		"en"		"{grey}You will no longer be slain after completing a course."
+		"chi"		"{grey}完成地图后不再强制复活."
+		"ru"		"{grey}Вы больше не будете убиты после прохождения карты."
+	}
+
+
+	// =====[ OPTIONS MENU ]=====
+	"Options Menu - Slay On End"
+	{
+		"en"		"End timer slay"
+		"chi"		"完成地图强制复活"
+		"ru"		"Убрать лаги POV"
+	}
+}

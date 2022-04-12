@@ -1,0 +1,454 @@
+"Phrases"
+{
+	// =====[ GENERAL ]=====
+	"Checkpoint Rule - None"
+	{
+		"en"		"No Checkpoints"
+		"ru"		"Нет чекпойнтов"
+	}
+	"Checkpoint Rule - No Checkpoint Limit"
+	{
+		"en"		"Checkpoint Limit: Unlimited"
+		"ru"		"Лимит чекпойнтов: Без лимита"
+	}
+	"Checkpoint Rule - Checkpoint Limit"
+	{
+		"#format"	"{1:d}"
+		"en"		"Checkpoint Limit: {1}"
+		"ru"		"Лимит чекпойнтов: {1}"
+	}
+	"Checkpoint Rule - No Checkpoint Cooldown"
+	{
+		"en"		"Checkpoint Cooldown: None"
+		"ru"		"Перезарядка чекпойнта: Нет"
+	}
+	"Checkpoint Rule - Checkpoint Cooldown"
+	{
+		"#format"	"{1:d}"
+		"en"		"Checkpoint Cooldown: {1}s"
+		"ru"		"Перезарядка чекпойнта: {1}с."
+	}
+	"Checkpoint Rule - Unlimited"
+	{
+		"en"		"Unlimited"
+		"ru"		"Неограниченно"
+	}
+
+	"Rule Summary - Unlimited"
+	{
+		"en"		"Unlimited"
+		"ru"		"Неограниченно"
+	}
+	"Rule Summary - Limited Checkpoints"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1} checkpoints"
+		"ru"		"{1} чекпойнтов"
+	}
+	"Rule Summary - Limited Cooldown"
+	{
+		"#format"	"{1:d}"
+		"en"		"{1}s cooldown"
+		"ru"		"{1}s перезарядка"
+	}
+	"Rule Summary - Limited Everything"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"{1} checkpoints, {2}s cooldown"
+		"ru"		"{1} чекпойнтов, {2}s перезарядка"
+	}
+	"Rule Summary - No Checkpoints"
+	{
+		"en"		"No checkpoints"
+		"ru"		"Нет чекпойнтов"
+	}
+	"No Start Found"
+	{
+		"en"		"Unable to find the start of the course, cannot teleport you there"
+		"ru"		"Не найдено начало, поэтому мы не можем телепортировать вас туда."
+	}
+
+
+	// =====[ CHAT MESSAGES ]=====
+	"Checkpoints Not Allowed During Race"
+	{
+		"en"		"{darkred}You aren't allowed to checkpoint during this race."
+		"ru"		"{darkred}Вы не можете использовать чекпойнты во время гонки."
+	}
+	"Checkpoint On Cooldown"
+	{
+		"#format"	"{1:.1f}"
+		"en"		"{darkred}You must wait another {default}{1} {darkred}seconds before checkpointing."
+		"ru"		"{darkred}Вы должны подождать еще {default}{1} {darkred}секунд перед использованием чекпойнта."
+	}
+	"No Checkpoints Left"
+	{
+		"en"		"{darkred}You have already used all your checkpoints in this race."
+		"ru"		"{darkred}Вы уже использовали все доступные вам чекпойнты в гонке."
+	}
+	"Undo TP Not Allowed During Race"
+	{
+		"en"		"{darkred}You aren't allowed to undo TP during this race."
+		"ru"		"{darkred}Вы не можете отменить TP во время этой гонки."
+	}
+	"You Are Already Part Of A Race"
+	{
+		"en"		"{darkred}You are already participating in a race."
+		"ru"		"{darkred}Вы уже участвуете в гонке."
+	}
+	"You Are Not Hosting A Race"
+	{
+		"en"		"{darkred}You are not hosting a race."
+		"ru"		"{darkred}Вы не устраиваете гонки."
+	}
+	"You Invited Everyone"
+	{
+		"en"		"{grey}You have invited everyone that is available to be challenged."
+		"ru"		"{grey}Вы пригласили всех, кто может участвовать."
+	}
+	"Player Already In A Race"
+	{
+		// Alice is already in a race.
+		"#format"	"{1:N}"
+		"en"		"{lime}{1} {darkred}is already in a race."
+		"ru"		"{lime}{1} {darkred}уже находится в гонке."
+	}
+	"Race Countdown Started"
+	{
+		"en"		"{grey}The countdown has started! {green}Get ready!"
+		"ru"		"{grey}Обратный отсчет начался! {green}Приготовьтесь!"
+	}
+	"Race Has Been Aborted"
+	{
+		"en"		"{darkred}The race has been aborted."
+		"ru"		"{darkred}Гонка была прервана."
+	}
+	"No One Accepted"
+	{
+		"en"		"{darkred}No one has accepted the race yet."
+		"ru"		"{darkred}Никто ещё не принял участие в гонке."
+	}
+	"Race Already Started"
+	{
+		"en"		"{darkred}The race has already started."
+		"ru"		"{darkred}Гонка уже началась."
+	}
+	"No Opponents Available"
+	{
+		"en"		"{darkred}No one is currently available to be challenged."
+		"ru"		"{darkred}В настоящее время никто не может быть приглашен."
+	}
+	"Race Rules - No Checkpoints"
+	{
+		// Rules [SimpleKZ | No checkpoints]
+		"#format"	"{1:s},{2:s}"
+		"en"		"{grey}Rules - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}No checkpoints"
+		"ru"		"{grey}Правила - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}Без чекпойнтов"
+	}
+	"Race Rules - Unlimited"
+	{
+		// Rules [SimpleKZ | Unlimited]
+		"#format"	"{1:s},{2:s}"
+		"en"		"{grey}Rules - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}Unlimited"
+		"ru"		"{grey}Правила - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}Неограниченно"
+	}
+	"Race Rules - Limited"
+	{
+		// Rules [SimpleKZ | Num checkpoints | Cooldown time]
+		"#format"	"{1:s},{2:s},{3:d},{4:d}"
+		"en"		"{grey}Rules - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}{3} checkpoints{grey} | {yellow}{4}s checkpoint cooldown{grey}"
+		"ru"		"{grey}Правила - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}{3} чекпойнтов{grey} | {yellow}{4}s перезарядка чекпойнтов{grey}"
+	}
+	"Race Rules - Limited Checkpoints"
+	{
+		"#format"	"{1:s},{2:s},{3:d}"
+		"en"		"{grey}Rules - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}{3} checkpoints{grey}"
+		"ru"		"{grey}Правила - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}{3} чекпойнтов{grey}"
+	}
+	"Race Rules - Limited Cooldown"
+	{
+		"#format"	"{1:s},{2:s},{3:d}"
+		"en"		"{grey}Rules - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}{3}s checkpoint cooldown{grey}"
+		"ru"		"{grey}Правила - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}{3}s перезарядка чекпойнтов{grey}"
+	}
+	"Race Rules - Main Course"
+	{
+		"en"		"Main Course"
+		"ru"		"Основная карта"
+	}
+	"Race Rules - Bonus Course"
+	{
+		"en"		"Bonus"
+		"ru"		"Бонус"
+	}
+	"You Have Seconds To Accept"
+	{
+		// You have 15 seconds to !accept.
+		"#format"	"{1:d}"
+		"en"		"{grey}You have {default}{1} {grey}seconds to {default}!accept{grey}."
+		"ru"		"{grey}У вас есть {default}{1} {grey}секунд, чтобы написать {default}!accept{grey}."
+	}
+	"You Have Declined"
+	{
+		"en"		"{grey}You have declined."
+		"ru"		"{grey}Вы отказались."
+	}
+	"Player Has Declined"
+	{
+		// Alice has declined.
+		"#format"	"{1:N}"
+		"en"		"{lime}{1} {grey}has declined."
+		"ru"		"{lime}{1} {grey}отказался."
+	}
+	"Race Request Received"
+	{
+		// Bob has invited you to a race.
+		"#format"	"{1:N}"
+		"en"		"{lime}{1} {grey}has invited you to a race."
+		"ru"		"{lime}{1} {grey}пригласил тебя в гонку."
+	}
+	"Race Request Accepted"
+	{
+		// Alice has accepted the race!
+		"#format"	"{1:N}"
+		"en"		"{lime}{1} {grey}has accepted the race!"
+		"ru"		"{lime}{1} {grey}принял приглашение участовать в гонке!"
+	}
+	"Race Request Not Accepted In Time (Host)"
+	{
+		// Alice didn't accept the race in time.
+		"#format"	"{1:N}"
+		"en"		"{lime}{1} {grey}didn't accept the race in time."
+		"ru"		"{lime}{1} {grey}не принял приглашение в гонку вовремя."
+	}
+	"Race Request Not Accepted In Time (Target)"
+	{
+		"en"		"{grey}You didn't accept the race in time."
+		"ru"		"{grey}Вы не приняли приглашение в гонку вовремя."
+	}
+	"Race Won"
+	{
+		// Alice has won the race!
+		"#format"	"{1:N}"
+		"en"		"{lime}{1} {grey}has won the race!"
+		"ru"		"{lime}{1} {grey}выиграл в гонке!"
+	}
+	"Race Placed"
+	{
+		// Alice has finished the race! [#2]
+		"#format"	"{1:N},{2:d}"
+		"en"		"{lime}{1} {grey}has finished the race! [#{default}{2}{grey}]"
+		"ru"		"{lime}{1} {grey}финишировал в гонке! [#{default}{2}{grey}]"
+	}
+	"Race Lost"
+	{
+		// Alice came last in the race. [#5]
+		"#format"	"{1:N},{2:d}"
+		"en"		"{lime}{1} {grey}came last in the race. [#{default}{2}{grey}]"
+		"ru"		"{lime}{1} {grey}пришел последним в гонке. [#{default}{2}{grey}]"
+	}
+	"Race Surrendered"
+	{
+		// Alice has surrendered!
+		"#format"	"{1:N}"
+		"en"		"{lime}{1} {grey}has surrendered!"
+		"ru"		"{lime}{1} {grey}сдался!"
+	}
+	"Duel Request Sent"
+	{
+		// You have challenged Alice to a duel.
+		"#format"	"{1:N}"
+		"en"		"{grey}You have challenged {lime}{1}{grey} to a duel."
+		"ru"		"{grey}Вы вызвали {lime}{1}{grey} на дуэль."
+	}
+	"Duel Request Received"
+	{
+		// Alice has challenged you to a duel!
+		"#format"	"{1:N}"
+		"en"		"{lime}{1} {grey}has challenged you to a duel!"
+		"ru"		"{lime}{1} {grey}вызвал тебя на дуэль!"
+	}
+	"Duel Request Accepted"
+	{
+		// Alice has accepted a duel against Bob.
+		"#format"	"{1:N},{2:N}"
+		"en"		"{lime}{1} {grey}has accepted a duel against {lime}{2}{grey}!"
+		"ru"		"{lime}{1} {grey}принял дуэль против {lime}{2}{grey}!"
+	}
+	"Duel Request Not Accepted In Time (Host)"
+	{
+		// Alice didn't accept the duel in time.
+		"#format"	"{1:N}"
+		"en"		"{lime}{1} {grey}didn't accept the duel in time."
+		"ru"		"{lime}{1} {grey}не принял приглашение на дуэль вовремя."
+	}
+	"Duel Request Not Accepted In Time (Target)"
+	{
+		"en"		"You didn't accept the duel in time."
+		"ru"		"Вы не приняли приглашение на дуэль вовремя."
+	}
+	"Duel Won"
+	{
+		// Alice won their duel against Bob!
+		"#format"	"{1:N},{2:N}"
+		"en"		"{lime}{1} {grey}won their duel against {lime}{2}{grey}!"
+		"ru"		"{lime}{1} {grey}выиграл дуэль против {lime}{2}{grey}!"
+	}
+	"Duel Surrendered"
+	{
+		// Alice surrendered in their duel against Bob!
+		"#format"	"{1:N},{2:N}"
+		"en"		"{lime}{1} {grey}has surrendered in their duel against {lime}{2}{grey}!"
+		"ru"		"{lime}{1} {grey}сдался в дуэли против {lime}{2}{grey}!"
+	}
+
+
+	// =====[ RACE MENU ]=====
+	"Race Menu - Title"
+	{
+		"en"		"Host a Race"
+		"ru"		"Провести гонку"
+	}
+	"Race Menu - Start Race"
+	{
+		"en"		"Start race"
+		"ru"		"Начать гонку"
+	}
+	"Race Menu - Abort Race"
+	{
+		"en"		"Abort race"
+		"ru"		"Прервать гонку"
+	}
+	"Race Menu - Invite Everyone"
+	{
+		"en"		"Invite everyone"
+		"ru"		"Пригласить всех"
+	}
+	"Race Menu - Rules"
+	{
+		"en"		"Rules"
+		"ru"		"Правила"
+	}
+	"Race Menu - Course Main"
+	{
+		"en"		"Main"
+		"ru"		"Основная"
+	}
+	"Race Menu - Course Bonus"
+	{
+		"en"		"Bonus"
+		"ru"		"Бонус"
+	}
+
+
+	// =====[ DUEL MENU ]=====
+	"Duel Menu - Title"
+	{
+		"en"		"Start a Duel"
+		"ru"		"Начать дуэль"
+	}
+	"Duel Menu - Choose Opponent"
+	{
+		"en"		"Send challenge"
+		"ru"		"Бросить вызов"
+	}
+	"Duel Opponent Selection Menu - Title"
+	{
+		"en"		"Choose Your Opponent"
+		"ru"		"Выбери своего противника"
+	}
+
+
+
+	// =====[ CP LIMIT MENU ]=====
+	"Checkpoint Limit Menu - Title Limited"
+	{
+		"#format"	"{1:d}"
+		"en"		"Max number of CPs: {1}"
+		"ru"		"Макс. количество ЧП: {1}"
+	}
+	"Checkpoint Limit Menu - Title Unlimited"
+	{
+		"en"		"Max number of CPs: Unlimited"
+		"ru"		"Макс. количество ЧП: Неограниченно"
+	}
+	"Checkpoint Limit Menu - Add One"
+	{
+		"en"		"Add one"
+		"ru"		"Добавить одну"
+	}
+	"Checkpoint Limit Menu - Add Five"
+	{
+		"en"		"Add five"
+		"ru"		"Добавить пять"
+	}
+	"Checkpoint Limit Menu - Remove One"
+	{
+		"en"		"Remove one"
+		"ru"		"Убрать одну"
+	}
+	"Checkpoint Limit Menu - Remove Five"
+	{
+		"en"		"Remove five"
+		"ru"		"Убрать пять"
+	}
+	"Checkpoint Limit Menu - Unlimited"
+	{
+		"en"		"Unlimited"
+		"ru"		"Неограниченно"
+	}
+
+
+
+	// =====[ CP COOLDOWN MENU ]=====
+	"Checkpoint Cooldown Menu - Title None"
+	{
+		"en"		"Cooldown between CPs: None"
+		"ru"		"Перезарядка ЧП: Нет"
+	}
+	"Checkpoint Cooldown Menu - Title Limited"
+	{
+		"#format"	"{1:d}"
+		"en"		"Cooldown between CPs: {1}s"
+		"ru"		"Перезарядка ЧП: {1}s"
+	}
+	"Checkpoint Cooldown Menu - Add One Second"
+	{
+		"en"		"Add 1s"
+		"ru"		"Добавить 1с"
+	}
+	"Checkpoint Cooldown Menu - Add Five Seconds"
+	{
+		"en"		"Add 5s"
+		"ru"		"Добавить 5с"
+	}
+	"Checkpoint Cooldown Menu - Remove One Second"
+	{
+		"en"		"Remove 1s"
+		"ru"		"Убрать 1с"
+	}
+	"Checkpoint Cooldown Menu - Remove Five Seconds"
+	{
+		"en"		"Remove 5s"
+		"ru"		"Убрать 5с"
+	}
+	"Checkpoint Cooldown Menu - None"
+	{
+		"en"		"None"
+		"ru"		"Нет"
+	}
+
+
+
+	// =====[ OTHER MENUS ]=====
+	"Mode Rule Menu - Title"
+	{
+		"en"		"Set Rule - Mode"
+		"ru"		"Установить правило - Режим"
+	}
+	"Checkpoint Rule Menu - Title"
+	{
+		"en"		"Set Rule - Checkpoints"
+		"ru"		"Установить правило - Чекпойнты"
+	}
+}

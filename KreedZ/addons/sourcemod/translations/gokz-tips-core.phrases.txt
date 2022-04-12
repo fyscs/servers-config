@@ -1,0 +1,54 @@
+"Phrases"
+{
+	"!options"
+	{
+		"en"		"{grey}Open the {default}!options {grey}menu to easily view and change most of the settings available to you."
+		"chi"		"{grey}聊天框中输入 {default}!options {grey}显示可用选项."
+		"ru"		"{grey}Откройте {default}!options {grey}меню для просмотра и изменения большинства доступных вам настроек."
+	}
+	"!mode"
+	{
+		"en"		"{grey}The {default}!mode {grey}menu is where you can easily switch between the different movement modes."
+		"chi"		"{grey}聊天框中输入 {default}!mode {grey}切换模式."
+		"ru"		"{grey}Меню {default}!mode {grey}позволяет легко переключаться между различными режимами игры."
+	}
+	"!nc"
+	{
+		"en"		"{grey}Use {default}!nc {grey}as a toggle or bind a key to {default}+noclip {grey}and hold it to be able to fly around the map."
+		"chi"		"{grey}聊天框中输入 {default}!nc {grey}或再控制台中为某个按键绑定{default}+noclip {grey}以使用穿墙模式."
+		"ru"		"{grey}Используйте команду {default}!nc {grey}для использования или поставьте бинд на клавишу {default}+noclip {grey} и удерживайте его, чтобы летать по карте."
+	}
+	"Quick Switch Mode"
+	{
+		"en"		"{grey}You can switch to a mode by typing its abbreviation. For example, type {default}!s{grey}/{default}!skz{grey} to switch to {purple}SimpleKZ{grey}."
+		"chi"		"{grey}可通过输入!+首字母或者缩写快速开启某些功能.例如:{default}!s{grey}/{default}!skz{grey}来打开{purple}SimpleKZ{grey}."
+		"ru"		"{grey}Вы можете переключиться на режим, введя его аббревиатуру. Например, введите {default}!s{grey}/{default}!skz{grey} для переключения режима на {purple}SimpleKZ{grey}."
+	}
+	"Custom Start Position"
+	{
+		"en"		"{grey}You can use {default}!setstartpos{grey}/{default}!ssp {grey}and {default}!clearstartpos{grey}/{default}!csp {grey}to control your start teleport position."
+		"chi"		"{grey}可通过{default}!setstartpos{grey}/{default}!ssp {grey}以及{default}!clearstartpos{grey}/{default}!csp {grey}来创建/清除自定义传送点."
+		"ru"		"{grey}Вы можете использовать {default}!setstartpos{grey}/{default}!ssp {grey}и {default}!clearstartpos{grey}/{default}!csp {grey}для управления стартовой позиции телепорта."
+	}
+	"!autorestart"
+	{
+		"en"		"{grey}Tired of pressing E? Enable the {default}!autorestart {grey}option!"
+		"chi"		"{grey}不想对着起点按E? 聊天框中输入{default}!autorestart {grey}即可!"
+		"ru"		"{grey}Надоело нажимать E при каждом перезапуске? Используйте опцию {default}!autorestart"
+	}
+	"!vbi"
+	{
+		"en"		"{grey}Having trouble visualising virtual buttons? Use {default}!vbi{grey} to toggle indicators for them."
+		"ru"		"{grey}Возникли проблемы с визуализацией виртуальных кнопок?  Используйте {default}!vbi{grey} для переключения их индикаторов."
+	}
+	"!vb"
+	{
+		"en"		"{grey}Have you set up your virtual buttons perfectly? Use {default}!vb{grey} to lock them in place."
+		"ru"		"{grey}Ты настроил под себя виртуальные кнопки? Используй {default}!vb{grey} для их фиксации."
+	}
+	"Stretch"
+	{
+		"en"		"{grey}Look after yourself. Take regular breaks to stretch and stay hydrated."
+		"ru"		"{grey}Следите за собою. Делайте регулярные перерывы во время игры!"
+	}
+}

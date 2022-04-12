@@ -1,0 +1,101 @@
+"Phrases"
+{
+	// =====[ SAVELOC ]=====
+	"SaveLoc - Usage"
+	{
+		"en"		"{grey}Usage: {default}!saveloc <name>"
+		"ru"		"{grey}Используйте: {default}!saveloc <имя>"
+	}
+	"SaveLoc - ID Name"
+	{
+		// Saved #7 BobsLocation
+		"#format"	"{1:d},{2:s}"
+		"en"		"{grey}Saved {yellow}#{1} {lightgreen}{2}"
+		"ru"		"{grey}Сохранено {yellow}#{1} {lightgreen}{2}"
+	}
+
+
+	// =====[ LOADLOC ]=====
+	"LoadLoc - Usage"
+	{
+		"en"		"{grey}Usage: {default}!loadloc <#id OR name>"
+		"ru"		"{grey}Используйте: {default}!loadloc <#id ИЛИ имя>"
+	}
+	"LoadLoc - ID Name"
+	{
+		// Loaded #7 BobsLocation
+		"#format"	"{1:d},{2:s}"
+		"en"		"{grey}Loaded {yellow}#{1} {lightgreen}{2}"
+		"ru"		"{grey}Загружено {yellow}#{1} {lightgreen}{2}"
+	}
+	"LoadLoc - ID Creator"
+	{
+		// Loaded #7 | Created by Bob
+		"#format"	"{1:d},{2:s}"
+		"en"		"{grey}Loaded {yellow}#{1} {default}| {grey}Created by {lime}{2}"
+		"ru"		"{grey}Загружено {yellow}#{1} {default}| {grey}Создал {lime}{2}"
+	}
+	"LoadLoc - ID Name Creator"
+	{
+		// Saved #7 customName | Created by Bob
+		"#format"	"{1:d},{2:s},{3:s}"
+		"en"		"{grey}Loaded {yellow}#{1} {2} {default}| {grey}Created by {lime}{3}"
+		"ru"		"{grey}Загружено {yellow}#{1} {2} {default}| {grey}Создал {lime}{3}"
+	}
+
+
+	// =====[ NAMELOC ]=====
+	"NameLoc - Usage"
+	{
+		"en"		"{grey}Usage: {default}!nameloc <#id> <name>"
+		"ru"		"{grey}Используйте: {default}!nameloc <#id> <имя>"
+	}
+	"NameLoc - ID Name"
+	{
+		// Named #7 BobsLocation
+		"#format"	"{1:d},{2:s}"
+		"en"		"{grey}Named {yellow}#{1} {lightgreen}{2}"
+		"ru"		"{grey}Named {yellow}#{1} {lightgreen}{2}"
+	}
+	"NameLoc - Naming Format"
+	{
+		"en"		"{darkred}Location name must start with a letter and be unique."
+		"ru"		"{darkred}Название локации должно начинаться с буквы и быть уникальным."
+	}
+	"NameLoc - Not Creator"
+	{
+		"en"		"{darkred}You can't name another player's location."
+		"ru"		"{darkred}Вы не можете назвать местоположение именемдругого игрока."
+	}
+
+
+	// =====[ LOCMENU ]=====
+	"LocMenu - Title"
+	{
+		"en"		"Locations"
+		"ru"		"Локации"
+	}
+
+
+	// ====[ GENERAL ]====
+	"Must Be Alive"
+	{
+		"en"		"{darkred}You must be alive to use that command."
+		"ru"		"{darkred}Вы должны быть живы, чтобы использовать эту команду."
+	}
+	"Timer Running"
+	{
+		"en"		"{darkred}You must stop your timer to use that command."
+		"ru"		"{darkred}Вы должны остановить таймер, чтобы использовать эту команду."
+	}
+	"Location Not Found"
+	{
+		"en"		"{darkred}Location not found."
+		"ru"		"{darkred}Локация не найдена."
+	}
+	"No Locations Found"
+	{
+		"en"		"{darkred}No saved locations found."
+		"ru"		"{darkred}Не найдено сохраненных локаций."
+	}
+}

@@ -1,0 +1,107 @@
+"Phrases"
+{
+	// =====[ CHAT MESSAGES ]=====
+	"No Players Found"
+	{
+		"en"		"{darkred}No players were found."
+		"chi"		"{darkred}查无此人."
+		"ru"		"{darkred}Игроки не найдены."
+	}
+	"See Console"
+	{
+		"en"		"{grey}See console for command output."
+		"chi"		"{grey}请移步至控制台(~键)查看输出信息."
+		"ru"		"{grey}В консоль выведены команды."
+	}
+	"Must Be Alive"
+	{
+		"en"		"{darkred}You must be alive to do that."
+		"chi"		"{darkred}你必须活着才能那么做."
+		"ru"		"{darkred}Вы должны быть живы, чтобы сделать это."
+	}
+	"Invalid Bonus Number"
+	{
+		// 'asdf' is not a valid bonus number.
+		"#format"	"{1:s}"
+		"en"		"{grey}'{default}{1}{grey}' is not a valid bonus number."
+		"chi"		"{grey}字符'{default}{1}{grey}'无效,不是有效数字."
+		"ru"		"{grey}'{default}{1}{grey}' не является бонусным уровнем."
+	}
+	"Player No Longer Valid"
+	{
+		"en"		"{darkred}The player you specified is no longer valid."
+		"chi"		"{darkred}你观察过的玩家已经不存在."
+		"ru"		"{darkred}Указанный вами игрок не найден."
+	}
+	"Please Wait Before Using Command Again"
+	{
+		"en"		"{grey}Please wait before using that command again."
+		"chi"		"{grey}请勿频繁输入指令,请稍后再试."
+		"ru"		"{grey}Пожалуйста, подождите, прежде чем использовать эту команду снова."
+	}
+	"Please Wait Before Using Command"
+	{
+		// Please wait 2.5 seconds before using that command.
+		"#format"	"{1:.1f}"
+		"en"		"{grey}Please wait {default}{1} {grey}seconds before using that command."
+		"chi"		"{grey}请在{default}{1}{grey}秒后再使用该指令."
+		"ru"		"{grey}Пожалуйста, подождите {default}{1} {grey}сек. , прежде чем использовать эту команду."
+	}
+	"Timer Stopped"
+	{
+		"en"		"{darkred}Your timer has stopped."
+		"chi"		"{darkred}计时已暂停."
+		"ru"		"{darkred}Ваш таймер остановлен."
+	}
+
+
+	// =====[ OPTIONS MENU ]=====
+	"Options Menu - Enabled"
+	{
+		"en"		"Enabled"
+		"chi"		"开启"
+		"ru"		"Включено"
+	}
+	"Options Menu - Disabled"
+	{
+		"en"		"Disabled"
+		"chi"		"关闭"
+		"ru"		"Выключено"
+	}
+	"Options Menu - Top"
+	{
+		"en"		"Top"
+		"chi"		"最顶"
+		"ru"		"Сверху"
+	}
+	"Options Menu - Bottom"
+	{
+		"en"		"Bottom"
+		"chi"		"最底"
+		"ru"		"Снизу"
+	}
+	"Options Menu - Always"
+	{
+		"en"		"Always"
+		"chi"		"总是"
+		"ru"		"Всегда"
+	}
+	"Options Menu - Spectating"
+	{
+		"en"		"Spectating"
+		"chi"		"观察"
+		"ru"		"Наблюдать"
+	}
+	"Options Menu - Simple"
+	{
+		"en"		"Simple"
+		"chi"		"简易"
+		"ru"		"Простой"
+	}
+	"Options Menu - Advanced"
+	{
+		"en"		"Advanced"
+		"chi"		"高级"
+		"ru"		"Продвинутый"
+	}
+}

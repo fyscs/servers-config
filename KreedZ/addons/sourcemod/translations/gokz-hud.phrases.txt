@@ -1,0 +1,229 @@
+"Phrases"
+{
+	// =====[ CHAT MESSAGES ]=====
+	"Option - Teleport Menu - Disable"
+	{
+		"en"		"{grey}The teleport menu has been disabled."
+		"chi"		"{grey}存点菜单已关闭."
+		"ru"		"{grey}Меню телепортации отключено."
+	}
+	"Option - Teleport Menu - Enable (Simple)"
+	{
+		"en"		"{grey}The simple teleport menu has been enabled."
+		"chi"		"{grey}简易存点菜单已开启."
+		"ru"		"{grey}Простое меню телепортации включено."
+	}
+	"Option - Teleport Menu - Enable (Advanced)"
+	{
+		"en"		"{grey}The advanced teleport menu has been enabled."
+		"chi"		"{grey}高级存点菜单已开启."
+		"ru"		"{grey}Продвинутое меню телепортации включено."
+	}
+	"Option - Info Panel - Enable"
+	{
+		"en"		"{grey}Your centre information panel has been enabled."
+		"chi"		"{grey}你的中心面板已打开."
+		"ru"		"{grey}Ваша центровая информационная панель была включена."
+	}
+	"Option - Info Panel - Disable"
+	{
+		"en"		"{grey}Your centre information panel has been disabled."
+		"chi"		"{grey}你的中心面板已关闭."
+		"ru"		"{grey}Ваша центровая информационная панель была выключена."
+	}
+	"Option - Timer Style - Standard"
+	{
+		"en"		"{grey}Your timer text style is now standard."
+		"ru"		"{grey}Ваш стиль текста таймера теперь стандартный."
+	}
+	"Option - Timer Style - Precise"
+	{
+		"en"		"{grey}Your timer text style is now more precise."
+		"ru"		"{grey}Ваш стиль текста таймера теперь более точен."
+	}
+	"Option - Timer Type - Enabled"
+	{
+		"en"		"{grey}Your timer now displays the type of run."
+		"ru"		"{grey}Ваш таймер теперь отображает тип запуска."
+	}
+	"Option - Timer Type - Disabled"
+	{
+		"en"		"{grey}Your timer now hides the type of run."
+		"ru"		"{grey}Ваше время теперь скрывает тип запуска."
+	}
+	"Option - Show Weapon - Enable"
+	{
+		"en"		"{grey}You are now showing your weapon."
+		"chi"		"{grey}你现在能看到你的武器了."
+		"ru"		"{grey}Теперь вы показываете свое оружие."
+	}
+	"Option - Show Weapon - Disable"
+	{
+		"en"		"{grey}You are now hiding your weapon."
+		"chi"		"{grey}你现在屏蔽了你的武器显示."
+		"ru"		"{grey}Теперь вы скрыли свое оружие."
+	}
+
+
+	// =====[ INFO PANEL ]=====
+	"Info Panel Text - Time"
+	{
+		"en"		"Time"
+		"chi"		"计时"
+		"ru"		"Время"
+	}
+	"Info Panel Text - Stopped"
+	{
+		"en"		"Stopped"
+		"chi"		"计时停止"
+		"ru"		"Остановлено"
+	}
+	"Info Panel Text - PAUSED"
+	{
+		"en"		"PAUSED"
+		"chi"		"计时暂停"
+		"ru"		"ПАУЗА"
+	}
+	"Info Panel Text - Speed"
+	{
+		"en"		"Speed"
+		"chi"		"速度"
+		"ru"		"Скорость"
+	}
+	"Info Panel Text - Keys"
+	{
+		"en"		"Keys"
+		"chi"		"按键"
+		"ru"		"Клавиши"
+	}
+
+
+	// =====[ TELEPORT MENU ]=====
+	"TP Menu - Checkpoint"
+	{
+		"en"		"Checkpoint"
+		"chi"		"存点"
+		"ru"		"Чекпойнт"
+	}
+	"TP Menu - Teleport"
+	{
+		"en"		"Teleport"
+		"chi"		"传送"
+		"ru"		"Телепорт"
+	}
+	"TP Menu - Prev CP"
+	{
+		"en"		"Prev CP"
+		"chi"		"上一个存点"
+		"ru"		"Назад ЧП"
+	}
+	"TP Menu - Next CP"
+	{
+		"en"		"Next CP"
+		"chi"		"下一个存点"
+		"ru"		"Вперед ЧП"
+	}
+	"TP Menu - Undo TP"
+	{
+		"en"		"Undo TP"
+		"chi"		"撤销存点"
+		"ru"		"Отменить ТП"
+	}
+	"TP Menu - Pause"
+	{
+		"en"		"Pause"
+		"chi"		"暂停计时"
+		"ru"		"Пауза"
+	}
+	"TP Menu - Resume"
+	{
+		"en"		"Resume"
+		"chi"		"恢复计时"
+		"ru"		"Возобновить"
+	}
+	"TP Menu - Start"
+	{
+		"en"		"Start"
+		"chi"		"开始"
+		"ru"		"Старт"
+	}
+	"TP Menu - Restart"
+	{
+		"en"		"Restart"
+		"chi"		"重新开始"
+		"ru"		"Рестарт"
+	}
+	"TP Menu - Respawn"
+	{
+		"en"		"Respawn"
+		"chi"		"重生"
+		"ru"		"Респавн"
+	}
+
+
+	// =====[ OPTIONS MENU ]=====
+	"Options Menu - HUD"
+	{
+		"en"		"HUD"
+		"ru"		"HUD"
+	}
+	"Options Menu - Teleport Menu"
+	{
+		"en"		"Teleport menu"
+		"chi"		"存点菜单"
+		"ru"		"Меню телепортации"
+	}
+	"Options Menu - Info Panel"
+	{
+		"en"		"Centre panel"
+		"chi"		"中心面板"
+		"ru"		"Центральная панель"
+	}
+	"Options Menu - Show Keys"
+	{
+		"en"		"Show key presses"
+		"chi"		"显示按键"
+		"ru"		"Показать нажимаемые клавиши"
+	}
+	"Options Menu - Timer Text"
+	{
+		"en"		"Timer text"
+		"chi"		"计时器音效"
+		"ru"		"Текст таймера"
+	}
+	"Options Menu - Timer Style"
+	{
+		"en"		"Timer style"
+		"ru"		"Стиль таймера"
+	}
+	"Options Menu - Timer Type"
+	{
+		"en"		"Show run type"
+		"ru"		"Показать тип старта"
+	}
+	"Options Menu - Speed Text"
+	{
+		"en"		"Speed text"
+		"chi"		"空速文字"
+		"ru"		"Текст скорости"
+	}
+	"Options Menu - Show Weapon"
+	{
+		"en"		"Show weapon"
+		"chi"		"屏蔽武器显示"
+		"ru"		"Показать оружие"
+	}
+
+
+	// =====[ RACING ]=====
+	"Get Ready"
+	{
+		"en"		"GET READY"
+		"ru"		"ПРИГОТОВИТЬСЯ"
+	}
+	"Go!"
+	{
+		"en"		"GO!"
+		"ru"		"НАЧАЛИ!"
+	}
+}

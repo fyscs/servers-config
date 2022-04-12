@@ -1,0 +1,20 @@
+"Phrases"
+{
+	// =====[ CHAT MESSAGES ]=====
+	"Client Connection Message"
+	{
+		// Bill has joined the server.
+		"#format"	"{1:N}"
+		"en"		"{lime}{1}{grey} has joined the server."
+		"chi"		"玩家 {lime}{1}{grey}进入服务器."
+		"ru"		"{lime}{1}{grey} присоединился к серверу."
+	}
+	"Client Disconnection Message"
+	{
+		// Bill has left the server (Disconnect).
+		"#format"	"{1:N},{2:s}"
+		"en"		"{lime}{1}{grey} has left the server ({2})."
+		"chi"		"玩家 {lime}{1}{grey}离开了服务器 ({2})."
+		"ru"		"{lime}{1}{grey} вышел с сервера ({2})."
+	}
+}

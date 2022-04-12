@@ -1,0 +1,88 @@
+"Phrases"
+{
+	"Block"
+	{
+		"en"	"Block"
+		"ru"	"Блок"
+	}
+	"Jump Record"
+	{
+		"#format"	"{1:N},{2:s},{3:.4f},{4:s}"
+		"en"		"{lime}{1} {grey}set a new {default}{2} {yellow}PB {grey}of {default}{3} {grey}[{purple}{4}{grey}]"
+		"ru"		"{lime}{1} {grey}поставил новый {default}{2} {yellow}PB {grey}на {default}{3} {grey}[{purple}{4}{grey}]"
+	}
+	"Block Jump Record"
+	{
+		"#format"	"{1:N},{2:d},{3:s},{4:.4f},{5:s}"
+		"en"		"{lime}{1} {grey}set a new {lightgreen}{2} Block {default}{3} {yellow}PB {grey}of {default}{4} {grey}[{purple}{5}{grey}]"
+		"ru"		"{lime}{1} {grey}поставил новый {lightgreen}{2} Block {default}{3} {yellow}PB {grey}на {default}{4} {grey}[{purple}{5}{grey}]"
+	}
+	"Jump Deleted"
+	{
+		"#format"	"{1:s},{2:s},{3:s},{4:d},{5:d}"
+		"en"		"{grey}Deleted the {purple}{1} {lightgreen}{2}{default}{3} record of '{default}STEAM_1:{4}:{5}{grey}'"
+		"ru"		"{grey}Удален {purple}{1} {lightgreen}{2}{default}{3} рекорд у '{default}STEAM_1:{4}:{5}{grey}'"
+	}
+	"No SteamID specified"
+	{
+		"en"		"{darkred}No SteamID specified."
+		"ru"		"{darkred}Не указан SteamID."
+	}
+	"Invalid SteamID"
+	{
+		"en"		"{darkred}Invalid SteamID (Format: STEAM_1:X:X)."
+		"ru"		"{darkred}Недопустимый SteamID (Формат: STEAM_1:X:X)."
+	}
+	"Invalid Mode"
+	{
+		"en"		"{darkred}Invalid mode (Options: SKZ, KZT, VNL)"
+		"ru"		"{darkred}Несуществующий режим (Режимы: SKZ, KZT, VNL)"
+	}
+	"Invalid Jumptype"
+	{
+		"en"		"{darkred}Invalid jumptype (Options: LJ, BH, MBH, WJ, LAJ, LAH, JB, LBH, LWJ)"
+		"ru"		"{darkred}Неверный тип прыжка (Варианты: LJ, BH, MBH, WJ, LAJ, LAH, JB, LBH, LWJ)"
+	}
+	"Delete Jump Usage"
+	{
+		"en"		"Usage: !deletejump <STEAM_1:X:X> <mode> <jump type> <block?>"
+		"ru"		"Используйте: !deletejump <STEAM_1:X:X> <режим> <тип прыжка> <блок?>"
+	}
+	"Set Cheater"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"{grey}SteamID32 '{default}STEAM_1:{1}:{2}{grey}' was set as a cheater."
+		"ru"		"{grey}SteamID32 '{default}STEAM_1:{1}:{2}{grey}' задано значение «читер»"
+	}
+	"Set Not Cheater"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"{grey}SteamID32 '{default}STEAM_1:{1}:{2}{grey}' was set as not a cheater."
+		"ru"		"{grey}SteamID32 '{default}STEAM_1:{1}:{2}{grey}' задано значение «не читер»"
+	}
+	"Timer Setup Saved"
+	{
+		"en"		"{grey}Saved the current timer setup!"
+		"ru"		"{grey}Сохранена текущая настройка таймера!"
+	}
+	"Timer Setup Loaded"
+	{
+		"en"		"{grey}Timer setup loaded!"
+		"ru"		"{grey}Настройка таймера загружена!"
+	}
+	"Options Menu - Disabled"
+	{
+		"en"		"Disabled"
+		"ru"		"Выключен"
+	}
+	"Options Menu - Enabled"
+	{
+		"en"		"Enabled"
+		"ru"		"Включен"
+	}
+	"Options Menu - Auto Load Timer Setup"
+	{
+		"en"		"Load & lock timer setup at map start"
+		"ru"		"Загрузка и блокировка таймера при запуске карты"
+	}
+}
