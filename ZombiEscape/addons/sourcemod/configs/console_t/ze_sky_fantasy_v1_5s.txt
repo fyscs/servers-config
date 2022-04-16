@@ -1,0 +1,248 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** Boss - Fantasy Spirit ***"
+    {
+        "chi" "__null__"
+    }
+
+    "*** Fantasy - Earth ***"
+    {
+        "chi" "古娜拉黑暗之神 - 大地之力"
+    }
+
+    "*** Fantasy - Fantasy Star ***"
+    {
+        "chi" "古娜拉黑暗之神 - 星光"
+    }
+
+    "*** Fantasy - Fire ***"
+    {
+        "chi" "古娜拉黑暗之神 - 火焰"
+    }
+
+    "*** Fantasy - Heal ***"
+    {
+        "chi" "古娜拉黑暗之神 - 血界"
+    }
+
+    "*** Fantasy - Holy ***"
+    {
+        "chi" "古娜拉黑暗之神 - 爆裂吧,魔法"
+    }
+
+    "*** Fantasy - Water ***"
+    {
+        "chi" "古娜拉黑暗之神 - 凝结之水"
+    }
+
+    "*** Fantasy - Wind ***"
+    {
+        "chi" "古娜拉黑暗之神 - 风暴之翼"
+    }
+
+    "*** Holy effects in 4 seconds ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** Its not over...... ***"
+    {
+        "chi" "嘛哒嘛哒哟"
+    }
+
+    "*** Map by Misaka ***"
+    {
+        "chi" "作者:Misaka 汉化:魔改筋肉人"
+    }
+
+    "*** Special Thanks to Excarliber & Koyomaple ***"
+    {
+        "chi" "感谢: Excarliber, Koyomaple 提供的帮助"
+    }
+
+    "*** Star energy counteracts the boss's skills ***"
+    {
+        "chi" "新光抵消了马猴烧酒的魔法技能"
+    }
+
+    "*** Star power can not be used... ***"
+    {
+        "chi" "星光次数已用尽"
+    }
+
+    "*** Zombies are coming!!! ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** Zombies can tele under the tree now! ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< A player has picked up earth magic >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< A player has picked up fantasy crystal >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< A player has picked up fire magic >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< A player has picked up heal magic >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< A player has picked up holy magic >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< A player has picked up star magic >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< A player has picked up water magic >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< A player has picked up wind magic >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< A zombie has picked up Doom Desire >>"
+    {
+        "chi" "__null__"
+    }
+
+    "<< A zombie has picked up gravity magic >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< A zombie has picked up heal magic >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< A zombie has picked up killer magic >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< Aurora Veil >>"
+    {
+        "chi" "极光荧幕"
+    }
+
+    "<< Can only effect on boss's wind&fire&water&earth >>"
+    {
+        "chi" "星光可以抵消马猴烧酒的魔法技能: 风 - 火 - 土"
+    }
+
+    "<< Creation Shield >>"
+    {
+        "chi" "血继限界  - 反伤"
+    }
+
+    "<< Danger Range >>"
+    {
+        "chi" "雷神之怒 - 躲避脚下红色区域"
+    }
+
+    "<< Demon Cage >>"
+    {
+        "chi" "恶魔牢笼"
+    }
+
+    "<< Earth Power >>"
+    {
+        "chi" "大地之力 - 寻找上升平台"
+    }
+
+    "<< Flash Cannon >>"
+    {
+        "chi" "魔贯光杀炮"
+    }
+
+    "<< Ominous Wind >>"
+    {
+        "chi" "风暴之翼 - 四个方向随机推力"
+    }
+
+    "<< Only 2 Uses >>"
+    {
+        "chi" "仅可使用二次"
+    }
+
+    "<< Pressure >>"
+    {
+        "chi" "压力 '蹲下"
+    }
+
+    "<< Pure Fury >>"
+    {
+        "chi" "纯粹の愤怒 - 召唤小弟"
+    }
+
+    "<< Rotating Blade >>"
+    {
+        "chi" "幻影剑 - 天坠"
+    }
+
+    "<< Sinister Omen >>"
+    {
+        "chi" "不详之兆 - 站平台边缘"
+    }
+
+    "<< TIPS: Shooting 8 buttons >>"
+    {
+        "chi" "打碎八盏灯"
+    }
+
+    "<< Tri Crystal >>"
+    {
+        "chi" "三色水晶 - 紫吸绿推红蹲"
+    }
+
+    "<< zombie can move in 8 seconds >>"
+    {
+        "chi" "靓仔出笼: 8秒"
+    }
+
+}
