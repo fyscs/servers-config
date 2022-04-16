@@ -497,4 +497,29 @@
         "chi" "**当前阶段 >> 第三阶段 >> 投石车 **"
     }
 
+    "** RESIST 20 SECONDS! **"
+    {
+        "chi" "** 防守20秒! **"
+    }
+
+    "** THIS IS OUT OF CONTROL! RETREAT NOW ! **"
+    {
+        "chi" "** 这里失去了控制!撤退! **"
+    }
+
+    "** (LIBRARY) ** DOORS WILL OPEN SOON ** WAIT SOME SECONDS **"
+    {
+        "chi" "**(图书馆)**门即将打开**等一会儿**"
+    }
+
+    "** (LIBRARY) ** DOORS ARE UNLOCKED NOW **"
+    {
+        "chi" "**(图书馆)**门现已解锁**"
+    }
+
+    "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 90 SECONDS **"
+    {
+        "chi" "**道路打开**到达米纳斯的顶端**存活90秒**"
+    }
+
 }
