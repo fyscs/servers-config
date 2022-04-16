@@ -1,0 +1,140 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "| 10 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 120 SECONDS LEFT |"
+    {
+        "chi" "还有两分钟"
+    }
+
+    "| 15 |"
+    {
+        "chi" "还有15秒"
+    }
+
+    "| 20 |"
+    {
+        "chi" "还有20秒"
+    }
+
+    "| 25 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 30 |"
+    {
+        "chi" "还有30秒"
+    }
+
+    "| 5 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| BEAM |"
+    {
+        "chi" "光束"
+    }
+
+    "| CUBE |"
+    {
+        "chi" "方块"
+    }
+
+    "| SHIELD |"
+    {
+        "chi" "护盾"
+    }
+
+    "| STAGE 1 SET AS NEXT STAGE |"
+    {
+        "chi" "管理员设置了第一关"
+    }
+
+    "| STAGE 2 SET AS NEXT STAGE |"
+    {
+        "chi" "管理员设置了第二关"
+    }
+
+    "| STAGE 3 SET AS NEXT STAGE |"
+    {
+        "chi" "管理员设置了第三关"
+    }
+
+    "| STAGE 4 SET AS NEXT STAGE |"
+    {
+        "chi" "管理员设置了第四关"
+    }
+
+    "| SURVIVE FOR 40 SECONDS |"
+    {
+        "chi" "生存40秒"
+    }
+
+    "| Zombie beam |"
+    {
+        "chi" "僵尸光束"
+    }
+
+    "| Zombie gravity |"
+    {
+        "chi" "僵尸黑洞"
+    }
+
+    "| Zombie heal |"
+    {
+        "chi" "僵尸治疗"
+    }
+
+    "| Zombie stars |"
+    {
+        "chi" "僵尸星辰"
+    }
+
+    "> 10 <"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "> 15 <"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "> 20 <"
+    {
+        "chi" "还有20秒"
+    }
+
+    "> 5 <"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置: 已关闭摔伤"
+    }
+
+}
