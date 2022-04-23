@@ -13,7 +13,7 @@
 
     "*** >>>> WARNING <<<< KEYBOARD RUSH ***"
     {
-        "chi" ">>>>警告<<<< 小心推力!"
+        "chi" "键盘冲击(全体强制一滴血)"
     }
 
     "!?"
@@ -505,7 +505,7 @@
 
     "*** KEY METEOR ***"
     {
-        "chi" "键盘流星"
+        "chi" "键盘流星(注意看头顶远离天坠)"
     }
 
     "*** KEY METEOR 2 ***"
@@ -525,12 +525,12 @@
 
     "*** KEYBOARD CUTTER ***"
     {
-        "chi" "键盘切割(看前面和脚下躲避)"
+        "chi" "键盘切割(先看脚下 再看前面躲避)"
     }
 
     "*** KEYBOARD CUTTER 2 ***"
     {
-        "chi" "键盘切割2"
+        "chi" "键盘切割(远离boss正面)"
     }
 
     "*** KEYBOARD PARADISE ***"
@@ -1015,7 +1015,7 @@
 
     "*** Portal is broken by unknown !!!!! ***"
     {
-        "chi" "传送门被未知破坏!!!"
+        "chi" "传送门被未知破坏!(原地等待)"
     }
 
     "*** Porting helped by Airvulpes,kune***"
@@ -1465,7 +1465,7 @@
 
     "*** ZOMBIE ARE ALIVE !! ***"
     {
-        "chi" "僵尸们还活着!!!"
+        "chi" "尸笼已开启!"
     }
 
     "*** ZOMBIE WAVE ***"
@@ -1500,12 +1500,12 @@
 
     "*** ZOMBIES ARE ALIVE !! BE CAREFUL !! ***"
     {
-        "chi" "僵尸们还活着 要小心"
+        "chi" "尸笼已开启 请注意"
     }
 
     "*** ZOMBIES ARE ALIVE !! SHOOT THEM TOO !! ***"
     {
-        "chi" "僵尸们还活着 朝他们开枪 不要做贴们栽种!!"
+        "chi" "注意尸笼!"
     }
 
     "*** ZOMBIES ARE COMING ***"
@@ -1520,7 +1520,7 @@
 
     "***ZOMBIES ARE COMING***"
     {
-        "chi" "僵尸屏障消失, 僵尸们可以进攻咯!!"
+        "chi" "僵尸屏障消失,僵尸可以进攻咯!!"
     }
 
     "????? :That you won't !!!"
@@ -1625,7 +1625,7 @@
 
     "CAUTION :It can use only once"
     {
-        "chi" "注意:它只能使用一次"
+        "chi" "注意:大奶只能使用一次"
     }
 
     "cccccccckkkkkkkkkkkkkkkkkkkkkkkkkk"
@@ -1806,16 +1806,19 @@
     "COOL DOWN : 35 SEC"
     {
         "chi" "冷却:35秒"
+        "blocked"    "1"
     }
 
     "COOL DOWN : 40 SEC"
     {
         "chi" "冷却:40秒"
+        "blocked"    "1"
     }
 
     "COOL DOWN : 50 SEC"
     {
         "chi" "冷却:50秒"
+        "blocked"    "1"
     }
 
     "CRASHER : hahahahHAHAHAHAHHHAHHAHAhHHHHHAAHAHA"
