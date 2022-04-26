@@ -13,7 +13,7 @@
 
     "*** Boss - Fantasy Spirit ***"
     {
-        "chi" "__null__"
+        "chi" "古娜拉黑暗之神 - 呜呼啦呼 - 黑魔变身"
     }
 
     "*** Fantasy - Earth ***"
@@ -145,6 +145,7 @@
     "<< A zombie has picked up Doom Desire >>"
     {
         "chi" "__null__"
+        "blocked" "1"
     }
 
     "<< A zombie has picked up gravity magic >>"
@@ -177,7 +178,7 @@
 
     "<< Creation Shield >>"
     {
-        "chi" "血继限界  - 反伤"
+        "chi" "血继限界 - 反伤"
     }
 
     "<< Danger Range >>"
@@ -207,7 +208,7 @@
 
     "<< Only 2 Uses >>"
     {
-        "chi" "仅可使用二次"
+        "chi" "仅可使用[②]次"
     }
 
     "<< Pressure >>"
@@ -232,7 +233,7 @@
 
     "<< TIPS: Shooting 8 buttons >>"
     {
-        "chi" "打碎八盏灯"
+        "chi" "打碎[⑧]盏灯"
     }
 
     "<< Tri Crystal >>"
