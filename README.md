@@ -1,20 +1,29 @@
 ### 風雲社
-[![Build Status](https://travis-ci.com/fys-csgo/servers-config.svg?branch=master)](https://travis-ci.com/fys-csgo/servers-config)
+![workflow](https://img.shields.io/github/workflow/status/fys-csgo/servers-config/GitHub%20Action?label=GitHub%20Action&style=flat-square)
+![contributors](https://img.shields.io/github/contributors/fys-csgo/servers-config?label=贡献者&style=flat-square)
+![CommitM](https://img.shields.io/github/commit-activity/m/fys-csgo/servers-config?label=项目活跃&style=flat-square)
+
+![Size](https://img.shields.io/github/repo-size/fys-csgo/servers-config?style=flat-square&label=仓库大小)
+![MapData](https://img.shields.io/github/search/fys-csgo/servers-config/MapData?style=flat-square&label=MapData)
+![BossHP](https://img.shields.io/github/search/fys-csgo/servers-config/BossHP?style=flat-square&label=BossHP)
+![Translations](https://img.shields.io/github/search/fys-csgo/servers-config/Console_T?style=flat-square&label=Translations)
+![EntWatch](https://img.shields.io/github/search/fys-csgo/servers-config/entities?style=flat-square&label=EntWatch)
+![Configs](https://img.shields.io/github/search/fys-csgo/servers-config/auto-generated?style=flat-square&label=Map%20Configs)
 ##### 服务器配置仓库  
 Copyright © 2019-2022 FyS. ALL RIGHTS RESERVED.  
 <br />
   
 ### 管理员说明
 - 合并请求前请确定填写了正确的合并标题.  
-- PR在``Approve``之后将会自动合并.  
+- PR在``通过``之后将会自动合并.  
   
   
 ### 注意事项
-- 文本缩进统一为4空格缩进
+- 开始``PR``之前请先阅读 <a rel="readme" href="https://github.com/fys-csgo/servers-config/blob/master/.fys/%E5%8F%82%E6%95%B0%E4%BF%AE%E6%94%B9%E5%85%AC%E7%BA%A6.md">参数修改公约</a>
 - 文本换行符统一为LF
 - 文本保存格式统一保存为UTF8-无BOM
+- 文本缩进为统一4空格缩进
 - KeyValues文件禁止使用中文标点
-- 禁止直接推送到master分支, 优先从PullRequest
   
   
 ### License
