@@ -19,7 +19,7 @@
     "*** ADMIN: SET STAGE TO WARMUP ***"
     {
         "chi" "__null__"
-		"blocked" "1"
+        "blocked" "1"
     }
 
     ">>> 1 <<<"
@@ -50,18 +50,19 @@
     ">>> WAITING FOR PLAYERS <<<"
     {
         "chi" "__null__"
+        "blocked" "1"
     }
 
     "Zombie Checkpoint...Saved"
     {
         "chi" "__null__"
-		"blocked" "1"
+        "blocked" "1"
     }
 
     "Zombie Shortcut...Opened"
     {
         "chi" "__null__"
-		"blocked" "1"
+        "blocked" "1"
     }
 
 }
