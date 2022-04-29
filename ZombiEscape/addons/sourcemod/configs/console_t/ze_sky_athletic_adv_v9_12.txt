@@ -270,7 +270,7 @@
 
     "*** BURNING KEYBOARD ***"
     {
-        "chi" "键盘燃烧(小心boss前后的火焰 可以穿过火焰 不要吃叠伤)"
+        "chi" "键盘燃烧(小心boss前后的火焰)"
     }
 
     "*** CAREFULL!!! ***"
@@ -500,12 +500,12 @@
 
     "*** KEY CANNON ***"
     {
-        "chi" "键盘加农炮(躲避四周来的键盘弹幕)"
+        "chi" "键盘加农炮(注意四周键盘弹幕)"
     }
 
     "*** KEY METEOR ***"
     {
-        "chi" "键盘流星(注意看头顶远离天坠)"
+        "chi" "键盘流星(注意看头顶天坠)"
     }
 
     "*** KEY METEOR 2 ***"
@@ -1275,7 +1275,7 @@
 
     "*** TAPIOKA PUNCH ***"
     {
-        "chi" "木薯拳击(看前面偏上,躲避出现的方块)"
+        "chi" "木薯拳击(看前面偏上,躲避方块)"
     }
 
     "*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
@@ -1325,7 +1325,7 @@
 
     "*** THE WAY OF DELETEING ***"
     {
-        "chi" "删除道路(打碎队友身上的玻璃,离开原地)"
+        "chi" "删除道路(打碎队友身上的冰块)"
     }
 
     "*** This area seems to begin to collapse !!! ***"
