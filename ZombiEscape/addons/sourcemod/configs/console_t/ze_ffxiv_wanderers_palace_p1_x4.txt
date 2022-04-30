@@ -1,0 +1,209 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** It's too late.The zombie broke through the barrier and came in **"
+    {
+        "chi" "太迟了,僵尸冲防线碍进来了"
+    }
+
+    "** The gate opens in 15 seconds **"
+    {
+        "chi" "大门15秒后打开"
+    }
+
+    "** The gate opens in 20 seconds **"
+    {
+        "chi" "大门20秒后打开"
+    }
+
+    "** The gate opens in 25 seconds **"
+    {
+        "chi" "大门25秒后打开"
+    }
+
+    "** The gate opens in 30 seconds **"
+    {
+        "chi" "大门30秒后打开"
+    }
+
+    "** The gate opens in 40 seconds **"
+    {
+        "chi" "大门40秒后打开"
+    }
+
+    "** The road passes in 10 seconds **"
+    {
+        "chi" "道路在10秒后畅通"
+    }
+
+    "** The road passes in 15 seconds **"
+    {
+        "chi" "道路在15秒后畅通"
+    }
+
+    "** The road passes in 20 seconds **"
+    {
+        "chi" "道路在20秒后畅通"
+    }
+
+    "** The road passes in 25 seconds **"
+    {
+        "chi" "道路在25秒后畅通"
+    }
+
+    "** The road passes in 30 seconds **"
+    {
+        "chi" "道路在30秒后畅通"
+    }
+
+    "** Transmission starts in 35 seconds **"
+    {
+        "chi" "35秒后传送"
+    }
+
+    "**** Abyss Depiction ****"
+    {
+        "chi" "深渊描绘"
+    }
+
+    "**** Atmospheric Burst ****"
+    {
+        "chi" "大气爆发"
+    }
+
+    "**** Death Reincarnation ****"
+    {
+        "chi" "死亡轮回"
+    }
+
+    "**** Death Spray ****"
+    {
+        "chi" "死亡浪花"
+    }
+
+    "**** Diamond Dust ****"
+    {
+        "chi" "钻石星尘"
+    }
+
+    "**** Earth Blowing ****"
+    {
+        "chi" "大地爆发"
+    }
+
+    "**** Electricity ****"
+    {
+        "chi" "电流"
+    }
+
+    "**** Eye of Ice ****"
+    {
+        "chi" "冰眼"
+    }
+
+    "**** Fire ****"
+    {
+        "chi" "火"
+    }
+
+    "**** Heart of Fire ****"
+    {
+        "chi" "心火"
+    }
+
+    "**** Heaven Falls ****"
+    {
+        "chi" "天崩地裂"
+    }
+
+    "**** level 1 ****"
+    {
+        "chi" "第一关"
+    }
+
+    "**** level 2 ****"
+    {
+        "chi" "第二关"
+    }
+
+    "**** level 3 ****"
+    {
+        "chi" "第三关"
+    }
+
+    "**** level ZM ****"
+    {
+        "chi" "第四关"
+    }
+
+    "**** load level 1 ****"
+    {
+        "chi" "加载第一关"
+    }
+
+    "**** load level 2 ****"
+    {
+        "chi" "加载第二关"
+    }
+
+    "**** load level 3 ****"
+    {
+        "chi" "加载第三关"
+    }
+
+    "**** load ZM ****"
+    {
+        "chi" "加载第四关"
+    }
+
+    "**** Lock of Combustion ****"
+    {
+        "chi" "火焰封锁"
+    }
+
+    "**** Meteo Break ****"
+    {
+        "chi" "陨石冲击"
+    }
+
+    "**** Roar of Cold Ice ****"
+    {
+        "chi" "寒冰咆哮"
+    }
+
+    "**** Serial Puncture ****"
+    {
+        "chi" "连续穿刺"
+    }
+
+    "**** The Fire of Hell ****"
+    {
+        "chi" "地狱之火"
+    }
+
+    "**** Thunder Ice spits Breath ****"
+    {
+        "chi" "雷冰吐息"
+    }
+
+    "**** Thunder of Sanctions ****"
+    {
+        "chi" "制裁之雷电"
+    }
+
+    "**** Thunder Roar ****"
+    {
+        "chi" "雷鸣"
+    }
+
+}
