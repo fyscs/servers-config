@@ -270,7 +270,7 @@
 
     "*** BURNING KEYBOARD ***"
     {
-        "chi" "键盘燃烧(小心boss前后的火焰)"
+        "chi" "旋转火焰刀(小心boss喷出的火焰)"
     }
 
     "*** CAREFULL!!! ***"
@@ -335,7 +335,7 @@
 
     "*** ESC STORM ***"
     {
-        "chi" "esc风暴(躲避前面的esc)"
+        "chi" "esc弹幕(躲避前面的esc)"
     }
 
     "*** EXPLOSION IN 3 SECONDS!!!!! ***"
@@ -500,22 +500,22 @@
 
     "*** KEY CANNON ***"
     {
-        "chi" "键盘加农炮(注意四周键盘弹幕)"
+        "chi" "键盘加农炮(注意四周弹幕)"
     }
 
     "*** KEY METEOR ***"
     {
-        "chi" "键盘流星(注意看头顶天坠)"
+        "chi" "键盘流星"
     }
 
     "*** KEY METEOR 2 ***"
     {
-        "chi" "键盘流星2"
+        "chi" "键盘天坠(注意看头顶天坠)"
     }
 
     "*** KEY RUINS ***"
     {
-        "chi" "键盘破坏"
+        "chi" "他要开始攻击了 神器冰可以控住他"
     }
 
     "*** KEYBOARD ATTACK ***"
@@ -525,17 +525,17 @@
 
     "*** KEYBOARD CUTTER ***"
     {
-        "chi" "键盘切割(先看脚下 再看前面躲避)"
+        "chi" "键盘切割(看脚下和前面躲避)"
     }
 
     "*** KEYBOARD CUTTER 2 ***"
     {
-        "chi" "键盘切割(远离boss正面)"
+        "chi" "键盘切割(注意boss正面的刀)"
     }
 
     "*** KEYBOARD PARADISE ***"
     {
-        "chi" "键盘天堂"
+        "chi" "键盘喷发(注意boss喷出的天坠)"
     }
 
     "*** LEFT DOOR AND RIGHT DOOR ARE OPENING ***"
@@ -1015,7 +1015,7 @@
 
     "*** Portal is broken by unknown !!!!! ***"
     {
-        "chi" "传送门被未知破坏!(原地等待)"
+        "chi" "传送门被未知破坏!!!"
     }
 
     "*** Porting helped by Airvulpes,kune***"
@@ -1275,7 +1275,7 @@
 
     "*** TAPIOKA PUNCH ***"
     {
-        "chi" "木薯拳击(看前面偏上,躲避方块)"
+        "chi" "木薯拳击(看前面偏上,躲避出现的方块)"
     }
 
     "*** Tested server : Sakura[CS:S],POSSESSION[CS:GO] ***"
@@ -1520,7 +1520,7 @@
 
     "***ZOMBIES ARE COMING***"
     {
-        "chi" "僵尸屏障消失,僵尸可以进攻咯!!"
+        "chi" "屏障消失, 僵尸们可以进攻咯!!"
     }
 
     "????? :That you won't !!!"
