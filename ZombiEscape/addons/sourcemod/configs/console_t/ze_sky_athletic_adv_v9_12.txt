@@ -13,7 +13,7 @@
 
     "*** >>>> WARNING <<<< KEYBOARD RUSH ***"
     {
-        "chi" ">>>>警告<<<< 小心推力!"
+        "chi" "键盘冲击(全体强制一滴血)"
     }
 
     "!?"
@@ -270,7 +270,7 @@
 
     "*** BURNING KEYBOARD ***"
     {
-        "chi" "键盘燃烧!"
+        "chi" "旋转火焰刀(小心boss喷出的火焰)"
     }
 
     "*** CAREFULL!!! ***"
@@ -335,7 +335,7 @@
 
     "*** ESC STORM ***"
     {
-        "chi" "esc风暴(躲避前面的esc)"
+        "chi" "esc弹幕(躲避前面的esc)"
     }
 
     "*** EXPLOSION IN 3 SECONDS!!!!! ***"
@@ -500,7 +500,7 @@
 
     "*** KEY CANNON ***"
     {
-        "chi" "键盘加农炮(躲避四周来的键盘弹幕)"
+        "chi" "键盘加农炮(注意四周弹幕)"
     }
 
     "*** KEY METEOR ***"
@@ -510,12 +510,12 @@
 
     "*** KEY METEOR 2 ***"
     {
-        "chi" "键盘流星2"
+        "chi" "键盘天坠(注意看头顶天坠)"
     }
 
     "*** KEY RUINS ***"
     {
-        "chi" "键盘破坏"
+        "chi" "他要开始攻击了 神器冰可以控住他"
     }
 
     "*** KEYBOARD ATTACK ***"
@@ -525,17 +525,17 @@
 
     "*** KEYBOARD CUTTER ***"
     {
-        "chi" "键盘切割(看前面和脚下躲避)"
+        "chi" "键盘切割(看脚下和前面躲避)"
     }
 
     "*** KEYBOARD CUTTER 2 ***"
     {
-        "chi" "键盘切割2"
+        "chi" "键盘切割机(注意boss正面的刀)"
     }
 
     "*** KEYBOARD PARADISE ***"
     {
-        "chi" "键盘天堂"
+        "chi" "键盘喷发(注意boss喷出的天坠)"
     }
 
     "*** LEFT DOOR AND RIGHT DOOR ARE OPENING ***"
@@ -1325,7 +1325,7 @@
 
     "*** THE WAY OF DELETEING ***"
     {
-        "chi" "删除道路(打碎队友身上的玻璃,离开原地)"
+        "chi" "键盘禁锢(打碎队友身上的冰块)"
     }
 
     "*** This area seems to begin to collapse !!! ***"
@@ -1465,7 +1465,7 @@
 
     "*** ZOMBIE ARE ALIVE !! ***"
     {
-        "chi" "僵尸们还活着!!!"
+        "chi" "尸笼已开启!"
     }
 
     "*** ZOMBIE WAVE ***"
@@ -1500,12 +1500,12 @@
 
     "*** ZOMBIES ARE ALIVE !! BE CAREFUL !! ***"
     {
-        "chi" "僵尸们还活着 要小心"
+        "chi" "尸笼已开启 请注意"
     }
 
     "*** ZOMBIES ARE ALIVE !! SHOOT THEM TOO !! ***"
     {
-        "chi" "僵尸们还活着 朝他们开枪 不要做贴们栽种!!"
+        "chi" "注意尸笼!"
     }
 
     "*** ZOMBIES ARE COMING ***"
@@ -1520,7 +1520,7 @@
 
     "***ZOMBIES ARE COMING***"
     {
-        "chi" "僵尸屏障消失, 僵尸们可以进攻咯!!"
+        "chi" "屏障消失, 僵尸们可以进攻咯!!"
     }
 
     "????? :That you won't !!!"
@@ -1625,7 +1625,7 @@
 
     "CAUTION :It can use only once"
     {
-        "chi" "注意:它只能使用一次"
+        "chi" "注意:大奶只能使用一次"
     }
 
     "cccccccckkkkkkkkkkkkkkkkkkkkkkkkkk"
@@ -1806,16 +1806,19 @@
     "COOL DOWN : 35 SEC"
     {
         "chi" "冷却:35秒"
+        "blocked"    "1"
     }
 
     "COOL DOWN : 40 SEC"
     {
         "chi" "冷却:40秒"
+        "blocked"    "1"
     }
 
     "COOL DOWN : 50 SEC"
     {
         "chi" "冷却:50秒"
+        "blocked"    "1"
     }
 
     "CRASHER : hahahahHAHAHAHAHHHAHHAHAhHHHHHAAHAHA"
