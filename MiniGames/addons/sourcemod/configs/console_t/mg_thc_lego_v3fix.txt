@@ -9,6 +9,8 @@
     // "cleartext"  // 清除所有HUD文本
     // "cleartimer" // 清除所有倒计时
     // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
 
 
     "[THC LEGO] 10 SECONDS REMAINING"
@@ -229,6 +231,7 @@
     "[THC LEGO] SCORE 20 POINTS TO WIN"
     {
         "chi" "先拿20分胜"
+        "notimer" "1"
     }
 
     "[THC LEGO] SCOUT"
@@ -238,7 +241,7 @@
 
     "[THC LEGO] SKIPPING ROPE"
     {
-        "chi" "__keep__"
+        "chi" "跳绳"
     }
 
     "[THC LEGO] SMOKE BATTLE"
@@ -253,7 +256,7 @@
 
     "[THC LEGO] TELEPORTED PLAYER SEEMS TO BE AFK"
     {
-        "chi" "传上去那个人好像在挂机"
+        "chi" "上去的那个人好像在挂机"
     }
 
     "[THC LEGO] TELEPORTING NEW PLAYER..."
