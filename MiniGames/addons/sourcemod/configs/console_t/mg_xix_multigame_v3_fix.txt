@@ -9,6 +9,8 @@
     // "cleartext"  // 清除所有HUD文本
     // "cleartimer" // 清除所有倒计时
     // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
 
 
     "= = = Auto Map is activated  = = ="
@@ -23,7 +25,7 @@
 
     "= = = Hurry up !!!  = = ="
     {
-        "chi" "快点!!"
+        "chi" "速度点!!你是乌龟吗?"
     }
 
     "= = = Last Team in the Arena wins the Match !!!  = = ="
@@ -38,7 +40,7 @@
 
     "= = = The First Player at the Bus drive the Vehicle !!!  = = ="
     {
-        "chi" "先到巴士那个人来开车"
+        "chi" "先碰到巴士那个人来开车"
     }
 
     "1"
@@ -58,7 +60,7 @@
 
     "Choose your attack Team !!!"
     {
-        "chi" "在地面上 选择进攻队伍"
+        "chi" "请在地面上选择进攻队伍"
     }
 
     "Map by [XIX]"
