@@ -1,0 +1,134 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "### Hold this position ###"
+    {
+        "chi" "守住这里"
+    }
+
+    "### Hold this position! ###"
+    {
+        "chi" "守住这里!!"
+    }
+
+    "### MAP CREATED BY CISNEROS ###"
+    {
+        "chi" "地图作者:cisneros, 地图汉化:小鱼sama@風雲社"
+    }
+
+    "### Objetive: Run for your life ###"
+    {
+        "chi" "保住自己的命!快润!"
+    }
+
+    "### The door is open ###"
+    {
+        "chi" "门开咯"
+    }
+
+    "### The door will open in 10 seconds ###"
+    {
+        "chi" "门还有10秒打开"
+    }
+
+    "### The door will open in 15 seconds ###"
+    {
+        "chi" "门还有15秒打开"
+    }
+
+    "### The door will open in 25 seconds ###"
+    {
+        "chi" "门还有25秒打开"
+    }
+
+    "### The door will open in 35 seconds ###"
+    {
+        "chi" "门还有35秒打开"
+    }
+
+    "### The door will open in 40 seconds ###"
+    {
+        "chi" "门还有40秒打开"
+    }
+
+    "### The door will open in 5 seconds ###"
+    {
+        "chi" "门还有5秒打开"
+    }
+
+    "### The door will open soon ###"
+    {
+        "chi" "门马上就开了!"
+    }
+
+    "### The door will open soon###"
+    {
+        "chi" "门马上就开了!"
+    }
+
+    "### The elevator will leave in 15 sec ###"
+    {
+        "chi" "电梯15秒后离开"
+    }
+
+    "### The elevator will leave in 25 seconds ###"
+    {
+        "chi" "电梯25秒后离开"
+    }
+
+    "### The elevator will leave in 35 seconds ###"
+    {
+        "chi" "电梯35秒后离开"
+    }
+
+    "### The elevator will leave in 5 seconds ###"
+    {
+        "chi" "电梯还有5秒后离开 守住!"
+    }
+
+    "### The final door will close in 10 seconds ###"
+    {
+        "chi" "最后的门10秒后就要关啦"
+    }
+
+    "### The final door will open in 10 seconds ###"
+    {
+        "chi" "最后的门将在10秒后打开 再坚持一下!"
+    }
+
+    "### The final door will open in 50 seconds ###"
+    {
+        "chi" "最后的门将在50秒后打开"
+    }
+
+    "### The ship is coming ###"
+    {
+        "chi" "友谊的小船来了, 噢耶baby"
+    }
+
+    "### The tram will come in 20 seconds ###"
+    {
+        "chi" "电车还有20秒后到达"
+    }
+
+    "### The tram will come in 5 seconds ###"
+    {
+        "chi" "电车还有5秒到达"
+    }
+
+    "### WELCOME TO ARTIKA BASE ###"
+    {
+        "chi" "欢迎来到阿提卡基地, 玩的开心!"
+    }
+
+}
