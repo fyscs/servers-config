@@ -83,4 +83,174 @@
         "blocked"    "1"
     }
 
+    "<--Map Made By Color-->"
+    {
+        "chi" ">>地图作者: color<<"
+    }
+
+    "<--Warm Up Time-->"
+    {
+        "chi" ">>热身时间<<"
+    }
+
+    "<--Wood door will break in 45s-->"
+    {
+        "chi" ">>木门将在45秒后裂掉<<"
+    }
+
+    "<--Wood door will break in 5s-->"
+    {
+        "chi" ">>木门将在5秒后裂掉<<"
+    }
+
+    "<--Wood door will break in 15s-->"
+    {
+        "chi" ">>木门将在15秒后裂掉<<"
+    }
+
+    "<--Touch 2 beams-->"
+    {
+        "chi" ">>需要触碰2个红色的光柱<<"
+    }
+
+    "<--5s left-->"
+    {
+        "chi" ">>还剩下5秒时间<<"
+    }
+
+    "<--What...it's a dragon-->"
+    {
+        "chi" ">>什么...居然出现了一条龙<<"
+    }
+
+    "<--It comes...-->"
+    {
+        "chi" ">>龙过来了<<"
+    }
+
+    "<--Grenade can damage dragon-->"
+    {
+        "chi" ">>手雷可以伤害这条龙<<"
+    }
+
+    "<--Balls can damage dragon except beam ball-->"
+    {
+        "chi" ">>除了闪电 其他神器都可以伤害龙<<"
+    }
+
+    "<--Dragon uses meteor-->"
+    {
+        "chi" ">>***天外陨石***<<"
+    }
+
+    "<--Dragon uses fire-->"
+    {
+        "chi" ">>***三昧真火*** 后半场火<<"
+    }
+
+    "<--Dragon uses black hole-->"
+    {
+        "chi" ">>***万象天引***  吸力<<"
+    }
+
+    "<--Wait for 45s-->"
+    {
+        "chi" ">>守住45秒<<"
+    }
+
+    "<--Wait for 30s-->"
+    {
+        "chi" ">>守住30秒<<"
+    }
+
+    "<--Hold for last 25s-->"
+    {
+        "chi" ">>守住25秒<<"
+    }
+
+    "<--Wait for 15s-->"
+    {
+        "chi" ">>守住15秒<<"
+    }
+
+    "<--Wait for 20s-->"
+    {
+        "chi" ">>守住20秒<<"
+    }
+
+    "<--Collect 3 glow balls-->"
+    {
+        "chi" ">>我们需要收集3个红色的光柱<<"
+    }
+
+    "<--Wait for 40s-->"
+    {
+        "chi" ">>守住40秒<<"
+    }
+
+    "<--Wait for 10s-->"
+    {
+        "chi" ">>守住10秒<<"
+    }
+
+    "<--Shoot waha's head if possible-->"
+    {
+        "chi" ">>尽可能射击BOSS的头<<"
+    }
+
+    "<--Zombies are in the room-->"
+    {
+        "chi" ">>检测到僵尸在房间里<<"
+    }
+
+    "<--Failed-->"
+    {
+        "chi" ">>你失败了<<"
+    }
+
+    "<--Shoot zombies into the water-->"
+    {
+        "chi" ">>把僵尸打入水中<<"
+    }
+
+    "<--Hold for last 30s-->"
+    {
+        "chi" ">>守住30秒<<"
+    }
+
+    "<--4s left-->"
+    {
+        "blocked" "1"
+    }
+
+    "<--3s left-->"
+    {
+        "blocked" "1"
+    }
+
+    "<--2s left-->"
+    {
+        "blocked" "1"
+    }
+
+    "<--1s left-->"
+    {
+        "blocked" "1"
+    }
+
+    "<--Hold for 15s-->"
+    {
+        "chi" ">>守住15秒<<"
+    }
+
+    "<--Hold for 40s-->"
+    {
+        "chi" ">>守住40秒<<"
+    }
+
+    "<--Hold for 35s-->"
+    {
+        "chi" ">>守住35秒<<"
+    }
+
 }
