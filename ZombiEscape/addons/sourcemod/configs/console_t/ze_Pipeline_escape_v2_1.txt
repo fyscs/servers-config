@@ -1,0 +1,386 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // 
+    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** ** OK You need RTV because you can't get through this level.**"
+    {
+        "chi" "可以输入RTV了"
+    }
+
+    "** ** stage HOLD : HARD/EXTRA defend like Paleta ****"
+    {
+        "chi" "关卡：守点"
+    }
+
+    "** Break this up quickly **"
+    {
+        "chi" "尽快破坏它"
+    }
+
+    "** don��t panic, SHOOT wall!! **"
+    {
+        "chi" "射击墙壁"
+    }
+
+    "** The way will close in 25S**"
+    {
+        "chi" "道路25秒后关闭"
+    }
+
+    "** we're drowning **"
+    {
+        "chi" "我们要淹死了"
+    }
+
+    "**** We found the way to escape but it needs 40S to open? ****"
+    {
+        "chi" "坚持40秒"
+    }
+
+    "**40s teleport**"
+    {
+        "chi" "40秒后传送"
+    }
+
+    "**a player pick up ice**"
+    {
+        "chi" "冰 被拾取"
+         "blocked"  "1"
+    }
+
+    "**a player pick up sb elite**"
+    {
+        "chi" "沙碧 被拾取"
+         "blocked"  "1"
+    }
+
+    "**all kill**"
+    {
+        "chi" "全体都有! 起立! "
+    }
+
+    "**be careful that the floor will break**"
+    {
+        "chi" "注意地板会碎"
+    }
+
+    "**Crouch wall will break in 30S**"
+    {
+        "chi" "蹲墙30秒后碎"
+    }
+
+    "**DEFEND  elevator for 40S , SOLO incoming!!!**"
+    {
+        "chi" "守住电梯40秒! 谁会是soloking呢？"
+    }
+
+    "**DEFEND elevator for 30S until it starts**"
+    {
+        "chi" "电梯30秒后启动"
+    }
+
+    "**double laser coming!!!**"
+    {
+        "chi" "夹心刀"
+    }
+
+    "**Elevator starts in 15 seconds**"
+    {
+        "chi" "电梯15秒后启动"
+    }
+
+    "**Elevator starts in 30 seconds**"
+    {
+        "chi" "电梯30秒后启动"
+    }
+
+    "**English translations : GUC admin WILD  **"
+    {
+        "chi" "__null__"
+         "blocked"  "1"
+    }
+
+    "**final wall will break after 25S **"
+    {
+        "chi" "墙壁25秒后碎开"
+    }
+
+    "**GET BACK TO THE ELEVATOR FAST !!!! Starts in 30S**"
+    {
+        "chi" "守住电梯30秒"
+    }
+
+    "**good luck**"
+    {
+        "chi" "祝你好运"
+    }
+
+    "**hold 230s**"
+    {
+        "chi" "守住23秒"
+    }
+
+    "**HOLD here!!!! A path should open��**"
+    {
+        "chi" "侧路快开了"
+		"blocked" "1"
+    }
+
+    "**human win **"
+    {
+        "chi" "人类胜利"
+    }
+
+    "**LASERS! WATCH OUT!**"
+    {
+        "chi" "小心跳刀"
+    }
+
+    "**last door 10s open**"
+    {
+        "chi" "最后的门10秒后开"
+    }
+
+    "**level 1 laser 10 seconds later**"
+    {
+        "chi" "第一层跳刀10秒后开始"
+    }
+
+    "**level 10 laser 15 seconds later**"
+    {
+        "chi" "第十层跳刀15秒后开始"
+    }
+
+    "**level 11 laser 20 seconds later**"
+    {
+        "chi" "第十一层跳刀20秒后开始"
+    }
+
+    "**level 2 laser 15 seconds later**"
+    {
+        "chi" "第二层跳刀15秒后开始"
+    }
+
+    "**level 3 laser 15 seconds later**"
+    {
+        "chi" "第三层跳刀15秒后开始"
+    }
+
+    "**level 4 laser 15 seconds later**"
+    {
+        "chi" "第四层跳刀15秒后开始"
+    }
+
+    "**level 5 laser 15 seconds later**"
+    {
+        "chi" "第五层跳刀15秒后开始"
+    }
+
+    "**level 6 laser 15 seconds later**"
+    {
+        "chi" "第六层跳刀15秒后开始"
+    }
+
+    "**level 7 laser 15 seconds later**"
+    {
+        "chi" "第七层跳刀15秒后开始"
+    }
+
+    "**level 8 laser 15 seconds later**"
+    {
+        "chi" "第八层跳刀15秒后开始"
+    }
+
+    "**level 9 laser 15 seconds later**"
+    {
+        "chi" "第九层跳刀15秒后开始"
+    }
+
+    "**light  wall will break, EXTRA DEFEND!!!!**"
+    {
+        "chi" "记得看侧路"
+    }
+
+    "**Light wall breaks in 20S **"
+    {
+        "chi" "光壁20秒后碎裂"
+    }
+
+    "**Light wall breaks in 30S **"
+    {
+        "chi" "光壁30秒后碎裂"
+    }
+
+    "**Light wall breaks in 40S **"
+    {
+        "chi" "光壁40秒后碎裂"
+    }
+
+    "**map by:一条会翻身的鱼**"
+    {
+        "chi" "地图作者:一条会翻身的鱼  地图汉化:大明@风云社"
+    }
+
+    "**Press the button to start elevator**"
+    {
+        "chi" "启动电梯按钮"
+    }
+
+    "**RTV PLS !!!!!!**"
+    {
+        "chi" "兄弟们速速输入!ext"
+    }
+
+    "**stage:hold**"
+    {
+        "chi" "关卡:守点"
+    }
+
+    "**stage:laser**"
+    {
+        "chi" "关卡:跳刀"
+    }
+
+    "**stage1**"
+    {
+        "chi" "第一关"
+    }
+
+    "**stage2**"
+    {
+        "chi" "第二关"
+    }
+
+    "**Thank you for play**"
+    {
+        "chi" "感谢你的游玩"
+    }
+
+    "**The wetsuit was taken.Let's hurry and get out of here.**"
+    {
+        "chi" "拾取潜水衣"
+         "blocked"  "1"
+    }
+
+    "**There should be diving suits in this base��.**"
+    {
+        "chi" "找到潜水衣避免缺氧"
+    }
+
+    "**This pipeline should have a place that breaks**"
+    {
+        "chi" "找到缺口"
+    }
+
+    "**wall break 10s**"
+    {
+        "chi" "墙壁10秒后碎开"
+    }
+
+    "**wall breaks in 30S**"
+    {
+        "chi" "墙壁30秒后碎开"
+    }
+
+    "**wall disappears in 30S**"
+    {
+        "chi" "墙壁30秒后消失"
+    }
+
+    "**WE  need  10S to open this locker**"
+    {
+        "chi" "我们需要10秒来打开储物柜"
+    }
+
+    "**we need defend 25s !!!**"
+    {
+        "chi" "防守25秒"
+    }
+
+    "**What does the red light source look like?**"
+    {
+        "chi" "红色光源是什么？"
+    }
+
+    "**What's happening here? We need to find the way to leave **"
+    {
+        "chi" "尽快离开这里"
+    }
+
+    "**Will the light wall break after 25S**"
+    {
+        "chi" "光壁25秒后碎开"
+    }
+
+    "**you get it**"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "**zombie teleport in 10s**"
+    {
+        "chi" "僵尸10秒后传送"
+    }
+
+    "**Zombies be careful**"
+    {
+        "chi" "小心僵尸"
+    }
+
+    "**非常感谢:酸奶**"
+    {
+        "chi" "非常感谢:酸奶"
+    }
+
+    "**僵尸都在头上 小心**"
+    {
+        "chi" "小心僵尸空降"
+    }
+
+    "*ACG I'm coming.!!!!*"
+    {
+        "chi" "注意前方二刺猿!"
+    }
+
+    "Go to another elevator."
+    {
+        "chi" "换乘电梯"
+    }
+
+    "hold 30s"
+    {
+        "chi" "守住30秒"
+    }
+
+    "holy on elevator star in 10s"
+    {
+        "chi" "10秒"
+    }
+
+    "the door will open in 15s"
+    {
+        "chi" "门15秒后打开"
+    }
+
+    "the door will open in 30s"
+    {
+        "chi" "门30秒后打开"
+    }
+
+    "The elevator starts in 20 seconds."
+    {
+        "chi" "电梯20秒后启动"
+    }
+
+}
