@@ -55,13 +55,13 @@
     "**a player pick up ice**"
     {
         "chi" "冰 被拾取"
-         "blocked"  "1"
+        "blocked"  "1"
     }
 
     "**a player pick up sb elite**"
     {
         "chi" "沙碧 被拾取"
-         "blocked"  "1"
+        "blocked"  "1"
     }
 
     "**all kill**"
@@ -107,7 +107,7 @@
     "**English translations : GUC admin WILD  **"
     {
         "chi" "__null__"
-         "blocked"  "1"
+        "blocked"  "1"
     }
 
     "**final wall will break after 25S **"
@@ -269,7 +269,7 @@
     "**The wetsuit was taken.Let's hurry and get out of here.**"
     {
         "chi" "拾取潜水衣"
-         "blocked"  "1"
+        "blocked"  "1"
     }
 
     "**There should be diving suits in this base��.**"
