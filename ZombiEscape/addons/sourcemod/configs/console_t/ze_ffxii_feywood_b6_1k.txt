@@ -13,7 +13,7 @@
 
     "**THE GATES ARE OPENING**"
     {
-        "chi" "__null__"
+        "chi" "大门正在打开..."
     }
 
     "(allahu-akbar)"
@@ -79,26 +79,30 @@
     "**15 SECONDS LEFT!**"
     {
         "chi" "15"
+        "blocked" "1"
     }
 
     "**2 MINUTES LEFT!**"
     {
         "chi" "120"
+        "blocked" "1"
     }
 
     "**3 MINUTES LEFT!**"
     {
         "chi" "180"
+        "blocked" "1"
     }
 
     "**30 SECONDS LEFT!**"
     {
         "chi" "30"
+        "blocked" "1"
     }
 
     "**4 MINUTES LEFT!**"
     {
-        "chi" "240"
+        "chi" "还有四分钟"
     }
 
     "**5 SECONDS LEFT!!!**"
@@ -473,7 +477,7 @@
 
     "**THE GATE WILL OPEN IN 20 SECONDS**"
     {
-        "chi" "__null__"
+        "chi" "这扇门20秒后打开"
     }
 
     "**THE GATES ARE CLOSING**"
@@ -489,6 +493,7 @@
     "**THE GATES WILL OPEN IN 20 SECONDS**"
     {
         "chi" "__null__"
+        "blocked" "1"
     }
 
     "**THE GATES WILL OPEN IN 25 SECONDS**"
@@ -499,6 +504,7 @@
     "**THE GATES WILL OPEN IN 5 SECONDS**"
     {
         "chi" "__null__"
+        "blocked" "1"
     }
 
     "**THE HENNE MINES ENTRANCE WILL OPEN IN 30 SECONDS**"
@@ -529,6 +535,7 @@
     "**THE ROCK WILL EXPLODE IN 5 SECONDS**"
     {
         "chi" "石头5秒后爆炸(靠近石头会被炸死)"
+        "blocked" "1"
     }
 
     "**THE SOLO WINNER WILL BE THE KING OF THE NEXT ROUND**"
@@ -748,7 +755,7 @@
 
     "**ZOMBIE JAIL OPENED**YOU HAVE FAILED**"
     {
-        "chi" "__null__"
+        "chi" "尸笼打开了,你失败了!"
     }
 
     "**ZOMBIES HAVE ESCAPED**"
@@ -817,24 +824,24 @@
         "chi" "僵尸获得秒杀(Lv.3)"
     }
 
-    "igger cmd:Command:say **GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**:25.00:1"
+    "**GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**"
     {
-        "chi" "__null__"
+        "chi" "到另一边去!还有30秒!"
     }
 
-    "igger Cmd:Command:say **THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**:5.00:1"
+    "**THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**"
     {
-        "chi" "__null__"
+        "chi" "继续防守,还有15秒"
     }
 
-    "igger cmd:Command:say **THE LAST GATES WILL OPEN IN 20 SECONDS**:0.00:1"
+    "**THE LAST GATES WILL OPEN IN 20 SECONDS**"
     {
-        "chi" "__null__"
+        "chi" "最后的门在20秒后打开"
     }
 
-    "igger cmd:Command:say **THE TOMB GATES WILL OPEN IN 20 SECONDS**:0.00:1"
+    "**THE TOMB GATES WILL OPEN IN 20 SECONDS**"
     {
-        "chi" "__null__"
+        "chi" "遗迹大门20秒后开启"
     }
 
 }
