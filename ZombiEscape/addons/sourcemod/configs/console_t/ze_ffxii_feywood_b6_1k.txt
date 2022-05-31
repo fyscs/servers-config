@@ -13,7 +13,7 @@
 
     "**THE GATES ARE OPENING**"
     {
-        "chi" "__null__"
+        "chi" "大门正在打开"
     }
 
     "(allahu-akbar)"
@@ -817,24 +817,24 @@
         "chi" "僵尸获得秒杀(Lv.3)"
     }
 
-    "igger cmd:Command:say **GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**:25.00:1"
+    "**GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**"
     {
-        "chi" "__null__"
+        "chi" "还有30秒!快到另一边去"
     }
 
-    "igger Cmd:Command:say **THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**:5.00:1"
+    "**THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!"
     {
-        "chi" "__null__"
+        "chi" "大门15秒后打开"
     }
 
-    "igger cmd:Command:say **THE LAST GATES WILL OPEN IN 20 SECONDS**:0.00:1"
+    "**THE LAST GATES WILL OPEN IN 20 SECONDS**"
     {
-        "chi" "__null__"
+        "chi" "最后的大门20秒后打开"
     }
 
-    "igger cmd:Command:say **THE TOMB GATES WILL OPEN IN 20 SECONDS**:0.00:1"
+    "**THE TOMB GATES WILL OPEN IN 20 SECONDS**"
     {
-        "chi" "__null__"
+        "chi" "陵墓大门20秒后打开"
     }
 
 }
