@@ -36,81 +36,97 @@
     "Map: Combat Ruin Zone + 100HP"
     {
         "chi" "遗迹竞技场 + 100hp"
+        "notimer" "1"
     }
 
     "Map: Combat Ruin Zone + 1HP"
     {
         "chi" "遗迹竞技场 + 1hp"
+        "notimer" "1"
     }
 
     "Map: Combat Ruin Zone + 300HP"
     {
         "chi" "遗迹竞技场 + 300hp"
+        "notimer" "1"
     }
 
     "Map: Combat Ruin Zone + 500HP"
     {
         "chi" "遗迹竞技场 + 500hp"
+        "notimer" "1"
     }
 
     "Map: Knife High Zone + 16hp"
     {
         "chi" "高台刀战 + 16hp"
+        "notimer" "1"
     }
 
     "Map: Knife High Zone + 1hp"
     {
         "chi" "高台刀战 + 1hp"
+        "notimer" "1"
     }
 
     "Map: Knife High Zone + 35hp"
     {
         "chi" "高台刀战 + 35hp"
+        "notimer" "1"
     }
 
     "Map: Knife High Zone + 66hp"
     {
         "chi" "高台刀战 + 66hp"
+        "notimer" "1"
     }
 
     "Map: Knife Island Zone + 100hp"
     {
         "chi" "岛屿刀战 + 100hp"
+        "notimer" "1"
     }
 
     "Map: Knife Island Zone + 165hp"
     {
         "chi" "岛屿刀战 + 165hp"
+        "notimer" "1"
     }
 
     "Map: Knife Island Zone + 200hp"
     {
         "chi" "岛屿刀战 + 200hp"
+        "notimer" "1"
     }
 
     "Map: Knife Island Zone + 66hp"
     {
         "chi" "岛屿刀战 + 66hp"
+        "notimer" "1"
     }
 
     "Map: Knife Valley Zone + 100HP"
     {
         "chi" "峡谷刀战 + 100hp"
+        "notimer" "1"
     }
 
     "Map: Knife Valley Zone + 165HP"
     {
         "chi" "峡谷刀战 + 165hp"
+        "notimer" "1"
     }
 
     "Map: Knife Valley Zone + 35HP"
     {
         "chi" "峡谷刀战 + 35hp"
+        "notimer" "1"
     }
 
     "Map: Knife Valley Zone + 66HP"
     {
         "chi" "峡谷刀战 + 66hp"
+        "notimer" "1"
     }
 
     "Map: Race Way Zone + DMG Fatal"
@@ -191,6 +207,7 @@
     "Weapon: P250"
     {
         "chi" "武器: P250"
+        "notimer" "1"
     }
 
     "Weapon: Scout"
