@@ -173,7 +173,6 @@
     "***DRAWBRIDGE IS DRAWING***"
     {
         "chi" "**吊桥正在启动**"
-        "countdown" "35"
     }
 
     "***DRAWBRIDGE WILL DRAW ITSELF IN 5 SECONDS***"
@@ -654,7 +653,6 @@
     "***OUTER WALL ENTRANCE IS OPENING IN 30 SECONDS***"
     {
         "chi" "**外墙入口30秒后打开**"
-        "countdown" "60"
     }
 
     "***OUTER WALL ENTRANCE IS OPENING IN 5 SECONDS***"
@@ -793,7 +791,6 @@
     "***SANTA FACTORY DOOR IS OPENING***"
     {
         "chi" "**工厂门开了**"
-        "countdown" "40"
     }
 
     "***SANTA'S DOOR IS CLOSING IN 1 SECONDS***"
@@ -981,7 +978,6 @@
     "***SOCRATES CARES FOR NO MAN***"
     {
         "chi" "**灼眼尊者不关心人**"
-        "countdown" "50"
     }
 
     "***SOCRATES CRAVES***"
@@ -1057,7 +1053,6 @@
     "***SOCRATES IS NEAR***"
     {
         "chi" "**灼眼尊者接近了**"
-        "countdown" "36"
     }
 
     "***SOCRATES IS NOTHING AT ALL***"
@@ -1655,6 +1650,21 @@
     "YOU AND EVERYONE YOU KNOW WILL DIE ONE DAY"
     {
         "chi" "**你和你认识的人总有一天会离开的**"
+    }
+    
+    "36 SECONDS REMAIN"
+    {
+        "chi" "还有36秒"
+    }
+    
+    "50 SECONDS REMAIN"
+    {
+        "chi" "还有50秒"
+    }
+    
+    "40 SECONDS REMAIN"
+    {
+        "chi" "还有40秒"
     }
 
 }
