@@ -1,0 +1,553 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** Even now, his spirit is bound within the Stilshrine of Miriam**"
+    {
+        "chi" "即便如今,他的灵魂仍与遗迹同在"
+    }
+
+    "**A Player has acquired Blizzard Magick**"
+    {
+        "chi" "玩家习得了暴雪魔法"
+    }
+
+    "**A Player has acquired Dark Magick**"
+    {
+        "chi" "玩家习得了坍缩魔法"
+    }
+
+    "**A Player has acquired Earth Magick**"
+    {
+        "chi" "玩家习得了岩土魔法"
+    }
+
+    "**A Player has acquired Esper Mateus**"
+    {
+        "chi" "玩家取得了召唤兽玛提乌斯"
+    }
+
+    "**A Player has acquired Fire Magick**"
+    {
+        "chi" "玩家习得了火焰魔法"
+    }
+
+    "**A Player has acquired Heal Magick**"
+    {
+        "chi" "玩家习得了治愈魔法"
+    }
+
+    "**A Player has acquired Oil Magick**"
+    {
+        "chi" "玩家习得了黏油魔法"
+    }
+
+    "**A Player has acquired Thunder Magick**"
+    {
+        "chi" "玩家习得了雷电魔法"
+    }
+
+    "**A Player has acquired Wind Magick**"
+    {
+        "chi" "玩家习得了狂风魔法"
+    }
+
+    "**A player picked up Sword of Kings**"
+    {
+        "chi" "一位玩家拿起了王者之剑!"
+    }
+
+    "**An ancient shrine deep within the Jagd Ramooda**"
+    {
+        "chi" "坐落于拉姆达大陆深处的古代遗迹"
+    }
+
+    "**Be careful, stars are falling from the sky, they can be dangerous to us!**"
+    {
+        "chi" "小心,星屑正在坠落,对我们来说很危险!"
+    }
+
+    "**Cactuar blocked the road!**"
+    {
+        "chi" "仙人掌挡住了去路!"
+    }
+
+    "**Defeat Judge Bergan before ship escape, if you lose we never see him again!**"
+    {
+        "chi" "在飞船离开前击败贝甘,失败的话就再也找不到他了!"
+    }
+
+    "**Defend until the gates is open!**"
+    {
+        "chi" "守住直到大门打开!"
+    }
+
+    "**Dragon Aevis vanquished!**"
+    {
+        "chi" "枭龙已战败!"
+    }
+
+    "**Esper Mateus vanquished!**"
+    {
+        "chi" "玛提乌斯已战败"
+    }
+
+    "**Find and kill General of Imperial Army then try to get the hell out of here**"
+    {
+        "chi" "找到杀掉军团长后赶紧离开这里!"
+    }
+
+    "**Find General and kill him, you can't lose!**"
+    {
+        "chi" "找到军团长并杀了他,我们没有退路!"
+    }
+
+    "**Find the answers to what's happening in this city**"
+    {
+        "chi" "调查这座城市里到底发生了什么"
+    }
+
+    "**Gabranth couldn?t easily died, we need to find him as soon as possible before the imperial army attacks!**"
+    {
+        "chi" "伽布拉斯没这么容易死.我们得在军团进攻前尽快找到他!"
+    }
+
+    "**Gabranth must heal his wounds, and he?s probably escaped to the city?s underworld. Find him and kill!**"
+    {
+        "chi" "伽布拉斯一定治好了自己的伤.可能会趁机逃到城市地下去.找到并杀了他!"
+    }
+
+    "**Go to the undiscovered part of the temple and explore its nooks and crannies!**"
+    {
+        "chi" "探索神庙里未知的一切吧!"
+    }
+
+    "**here rests the gift he entrusted to the Gran Kiltias of his time**"
+    {
+        "chi" "这是交付给格兰基尔提亚的馈赠"
+    }
+
+    "**Hold area for 45 seconds!**"
+    {
+        "chi" "守住,还有45秒!"
+    }
+
+    "**Hold here for 15 seconds!**"
+    {
+        "chi" "守住,还有15秒!"
+    }
+
+    "**Hold here for 20 seconds!**"
+    {
+        "chi" "守住,还有20秒!"
+    }
+
+    "**Hold here for 23 seconds!**"
+    {
+        "chi" "守住,还有23秒!"
+    }
+
+    "**Hold here for 25 seconds!**"
+    {
+        "chi" "守住,还有25秒!"
+    }
+
+    "**Hold here! I will take you on the airship.. And then we will back to city!** "
+    {
+        "chi" "守住这里!我会开飞船来接你..然后我们回城市里去"
+    }
+
+    "**Hold this area  for 25 seconds!**"
+    {
+        "chi" "守住这里,还有25秒!"
+    }
+
+    "**Hold this area for 15 seconds!**"
+    {
+        "chi" "守住这里,还有15秒!"
+    }
+
+    "**Hold this area for 17 seconds!**"
+    {
+        "chi" "守住这里,还有17秒!"
+    }
+
+    "**Hold this area for 20 seconds!**"
+    {
+        "chi" "守住这里,还有20秒!"
+    }
+
+    "**Hold this area for 25 seconds!**"
+    {
+        "chi" "守住这里,还有25秒!"
+    }
+
+    "**Hold this area for 28 seconds!**"
+    {
+        "chi" "还有28秒,守住这里!"
+    }
+
+    "**Hold this area for 8 seconds!**"
+    {
+        "chi" "还有8秒,守住这里!"
+    }
+
+    "**Hold this area until teleport start working!**"
+    {
+        "chi" "守住这里直到传送器启动!"
+    }
+
+    "**Hold this area until way is open!**"
+    {
+        "chi" "守住这里直到道路开启!"
+    }
+
+    "**Hopeful not all roads are collapsed, if yes, we need to find another way to enter tower**"
+    {
+        "chi" "希望还有道路进入塔楼,不然我们还得想其他办法.."
+    }
+
+    "**If you defeat Judge, find way out and get out of here!**"
+    {
+        "chi" "一旦击败了审判长,就想办法离开这里!"
+    }
+
+    "**Imperial army must have set a trap beforehand, find Gabrantha and get out of here!** "
+    {
+        "chi" "帝国军队在前面设下了陷阱,找到伽布拉斯并离开这里!"
+    }
+
+    "**In the distant past, the Great Condemner, too, sought such power, and was stricken down by the gods!**"
+    {
+        "chi" "在遥远的过去,至高君主获得了强大魔力,并受到了神明的庇佑(天阳之茧)"
+    }
+
+    "**It is said that a Gran Kiltias of long ago selected the Stilshrine to house the relics of Dynast-King Raithwall!**"
+    {
+        "chi" "据传格兰基尔提亚选择用这座遗迹去纪念历代王莱斯沃尔"
+    }
+
+    "**It's last hold! defend here for 22 seconds!**"
+    {
+        "chi" "最后一战!守住这里22秒!"
+    }
+
+    "**Judge Bergan escape! We need to find him and kill once for all!**"
+    {
+        "chi" "贝甘逃掉了!我们需要找到他并直接杀掉他!"
+    }
+
+    "**Judge Bergan has casted Holy Magick, Get out of the middle now!**"
+    {
+        "chi" "贝甘使用了HOLY,快离开中间!"
+    }
+
+    "**Know the fate of those who have fallen in their search for strength**"
+    {
+        "chi" "知晓曾在寻求力量旅途中沉沦之人的命运"
+    }
+
+    "**Level has been changed on Extreme Mode** "
+    {
+        "chi" "关卡已设定为极限"
+    }
+
+    "**Level has been changed on Hard Mode** "
+    {
+        "chi" "关卡已设定为困难"
+    }
+
+    "**Level has been changed on Normal Mode** "
+    {
+        "chi" "关卡已设定为普通"
+    }
+
+    "**Level has been changed on Ultimate Mode** "
+    {
+        "chi" "关卡已设定为究极"
+    }
+
+    "**Like Raithwall?s tomb, this, too, was constructed in the time of the Galtean Alliance**"
+    {
+        "chi" "就像莱斯沃尔,这座陵墓也是在加尔特联盟时期建造的"
+    }
+
+    "**Map by Ma/l/go**"
+    {
+        "chi" "地图作者:Malgo 翻译:泥耗麻辣狗痴"
+    }
+
+    "**Map Status: No Stripper!**"
+    {
+        "chi" "Stripper状态: 未加载"
+    }
+
+    "**Mateus come back again! Shoot!**"
+    {
+        "chi" "玛提乌斯又回来了!快射击!"
+    }
+
+    "**Mateus vanquished! Keep running!**"
+    {
+        "chi" "玛提乌斯已战败!继续前进!"
+    }
+
+    "**Most likely Judge Bergan want escape by ship, exit the tower, fast!**"
+    {
+        "chi" "看起来贝甘想乘飞船逃离这里,动作快点!"
+    }
+
+    "**Nade do more damage!**"
+    {
+        "chi" "丢雷啦先!"
+    }
+
+    "**Nades do more damage**"
+    {
+        "chi" "丢雷啦你!"
+    }
+
+    "**Now we can enter new segment on temple! Find button and open new area!*"
+    {
+        "chi" "现在我们可以探索庙宇其他部分了!找到按钮开启新的区域!"
+    }
+
+    "**Only player with Sword of Kings can save you! Don't let him die!**"
+    {
+        "chi" "只有持有王者之剑的玩家能拯救你们!不要让他死了!"
+    }
+
+    "**Originally to honor the ancient god of swords and martial**"
+    {
+        "chi" "起初是用来歌颂古时的剑神与战争之神"
+    }
+
+    "**Seek it out. The Sword of Kings... can cut through nethicite!**"
+    {
+        "chi" "彻底搜查清楚.据说王者之剑可以斩断破魔石!"
+    }
+
+    "**Smoke?**"
+    {
+        "chi" "是???"
+    }
+
+    "**Special thanks to Vueru for textures"
+    {
+        "chi" "特别感谢Vueru在材质上的帮助"
+    }
+
+    "**Stage completed!**"
+    {
+        "chi" "关卡已完成!"
+    }
+
+    "**Thanks to Lerrdy, Meringer, Shady and TuPu**"
+    {
+        "chi" "感谢Lerrdy,Meringer,Shady与TuPu的帮助"
+    }
+
+    "**The Gate of Tower will open in 24 seconds**"
+    {
+        "chi" "塔楼的大门24秒后开启"
+    }
+
+    "**The Gate will open in 35 second!**"
+    {
+        "chi" "大门将在35秒后打开"
+    }
+
+    "**The Gates are open! Hurry up, take Sword of Kings!**"
+    {
+        "chi" "门开了!快点拿起王者之剑!"
+    }
+
+    "**The Gates of Cold Distance will open in 20 seconds!"
+    {
+        "chi" "离别步廊的大门20秒后开启"
+    }
+
+    "**The Gates of Ward of Measure will open in 15 seconds!**"
+    {
+        "chi" "平衡之守护的大门20秒后开启"
+    }
+
+    "**The Gates Walk of Prescience will open in 15 seconds!"
+    {
+        "chi" "远谋回廊的大门25秒后开启"
+    }
+
+    "**The Gates Ward of Steel will open in 20 seconds!"
+    {
+        "chi" "钢铁之守护的大门20秒后开启"
+    }
+
+    "**The Gates will open in 10 seconds!**"
+    {
+        "chi" "大门将在10秒后打开!"
+    }
+
+    "**The Gates will open in 15 seconds!**"
+    {
+        "chi" "大门将在15秒后打开!"
+    }
+
+    "**The Gates will open in 20 seconds!**"
+    {
+        "chi" "大门将在20秒后打开!"
+    }
+
+    "**The Myath blocking path! Shoot him!**"
+    {
+        "chi" "尸龙麦斯封锁了前路!开枪射击!"
+    }
+
+    "**The Myath is defeated! Keep running!**"
+    {
+        "chi" "尸龙麦斯被击败了!继续前进!"
+    }
+
+    "**The Stilshrine of Miriam will open in 15 seconds**"
+    {
+        "chi" "弥利亚姆遗迹将在15秒后开启"
+    }
+
+    "**The way past the colossus is open!**"
+    {
+        "chi" "穿过巨像的道路已经打开!"
+    }
+
+    "**The way will open in 20 seconds**"
+    {
+        "chi" "路径将在20秒后打开"
+    }
+
+    "**To get that materia you need to shoot him!*"
+    {
+        "chi" "你只有射击才能拿到那个!"
+    }
+
+    "**Wait 12 seconds until teleport is enable!**"
+    {
+        "chi" "传送还有12秒钟启动!"
+    }
+
+    "**Wal of Mind segment will unlock in 23 seconds!**"
+    {
+        "chi" "风墙将在23秒后解锁!"
+    }
+
+    "**We are almost there, keep defending!**"
+    {
+        "chi" "我们快到那里了,继续防守!"
+    }
+
+    "**We don't have time, Hurry up**"
+    {
+        "chi" "我们没时间了,快点!"
+    }
+
+    "**We get the hell back to city and soon as possible!**"
+    {
+        "chi" "我们需要尽快返回城市"
+    }
+
+    "**We have to check what the next segment of the temple is hiding in front of us!**"
+    {
+        "chi" "前面还有很多未知的事物,我们需要尽快探索"
+    }
+
+    "**We need to defeat Gabranth once for all, shoot him!**"
+    {
+        "chi" "我们需要彻底击败伽布拉斯,快朝他射击!"
+    }
+
+    "**We need to find teleport lantern!**"
+    {
+        "chi" "我们需要找到晓光台座"
+    }
+
+    "**We need to stop Imperial army, if you lose they capture city!**"
+    {
+        "chi" "我们需要阻止帝国军队继续前进,如果输了他们会拿下这座城市!"
+    }
+
+    "**Welcome to Stilshrine of Miriam!**"
+    {
+        "chi" "欢迎来到弥利亚姆遗迹"
+    }
+
+    "**Well done, Judge Bergan is dead! Keep running!**"
+    {
+        "chi" "干的漂亮,贝甘已经死了!快跑!"
+    }
+
+    "**Well done, Teleport lantern has been activeted!"
+    {
+        "chi" "不错,传送已被激活!"
+    }
+
+    "**What could it mean?**"
+    {
+        "chi" "它意味着什么?"
+    }
+
+    "**You are too slow!**"
+    {
+        "chi" "太慢了!"
+    }
+
+    "**You can't fail**"
+    {
+        "chi" "绝不容许失败."
+    }
+
+    "**You have beaten map! Congratulations! **"
+    {
+        "chi" "恭喜!你们攻克了这张地图!"
+    }
+
+    "**You Journed across the Paramina Rift to the Stilshrine of Miriam**"
+    {
+        "chi" "你们的旅途穿过帕拉密纳峡谷并来到了弥利亚姆遗迹"
+    }
+
+    "**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+    {
+        "chi" "你必须杀掉剩余僵尸才能获得胜利"
+    }
+
+    "**ze_stilshrine_of_the_miriam**"
+    {
+        "chi" "最终幻想XII:弥利亚姆遗迹"
+    }
+	
+	"[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置: 设置摔伤关闭"
+    }
+
+    "**Map Status: Stripper #2 enable!**"
+    {
+        "chi" "地图状态: Stripper已启用!"
+    }
+
+    "**Thanks to Vueru for textures"
+    {
+        "chi" "感谢Vueru材质上的帮助"
+    }
+
+    "**Special Thanks to Detroid for help!"
+    {
+        "chi" "感谢Detroid的帮助!"
+    }
+}
