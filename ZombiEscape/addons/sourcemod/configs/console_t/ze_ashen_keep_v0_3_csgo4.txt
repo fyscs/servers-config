@@ -182,4 +182,124 @@
         "chi" "**玻璃窗45秒后破碎**"
     }
 
+    "*** STAGE I ***"
+    {
+        "chi" "**关卡一**"
+    }
+
+    "*** Spawn area teleport activating in 5 seconds ***"
+    {
+        "chi" "**传送阵在5秒后激活**"
+    }
+
+    "*** Inner gate opening in 10 seconds ***"
+    {
+        "chi" "**10秒后内门打开**"
+    }
+
+    "*** Door opening in 45 seconds ***"
+    {
+        "chi" "**45秒后打开门**"
+    }
+
+    "*** Doors opening in 45 seconds ***"
+    {
+        "chi" "**45秒后打开门**"
+    }
+
+    "*** Total destruction in 45 seconds ***"
+    {
+        "chi" "**45秒后摧毁所有**"
+    }
+
+    "*** STAGE II ***"
+    {
+        "chi" "**关卡二**"
+    }
+
+    "*** Outer gate opening in 10 seconds ***"
+    {
+        "chi" "**10秒后外门打开**"
+    }
+
+    "*** Chapel lift leaving in 30 seconds ***"
+    {
+        "chi" "**教堂升降机30秒后离开**"
+    }
+
+    "*** Doors closing in 45 seconds ***"
+    {
+        "chi" "**45秒后关闭门**"
+    }
+
+    "*** Library lift leaving in 30 seconds ***"
+    {
+        "chi" "**图书馆电梯30秒后离开**"
+    }
+
+    "*** STAGE III ***"
+    {
+        "chi" "**关卡三**"
+    }
+
+    "*** STAGE IV (ZM) ***"
+    {
+        "chi" "**ZM关**"
+    }
+
+    "*** 5 minutes left ***"
+    {
+        "chi" "**5s**"
+    }
+
+    "*** 4 minutes left ***"
+    {
+        "blocked" "1"
+    }
+
+    "*** 3 minutes left ***"
+    {
+        "blocked" "1"
+    }
+
+    "*** 2 minutes left ***"
+    {
+        "blocked" "1"
+    }
+
+    "*** 1 minute left ***"
+    {
+        "blocked" "1"
+    }
+
+    "*** WARMUP - 50 SECONDS LEFT ***"
+    {
+        "chi" "**热身时间-50s**""
+    }
+
+    "*** WARMUP - 40 SECONDS LEFT ***"
+    {
+        "blocked" "1"
+    }
+
+    "*** WARMUP - 30 SECONDS LEFT ***"
+    {
+        "blocked" "1"
+    }
+
+    "*** WARMUP - 20 SECONDS LEFT ***"
+    {
+        "blocked" "1"
+    }
+
+    "*** WARMUP - 10 SECONDS LEFT ***"
+    {
+        "blocked" "1"
+    }
+
+    "*** WARMUP OVER - RESTARTING ROUND ***"
+    {
+        "chi" "**热身结束**"
+    }
+
 }
