@@ -1,0 +1,79 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***Map Made by xXhamadryadesXx***"
+    {
+        "chi" "地图作者:xXhamadryadesXx"
+    }
+
+    "***Wall will break in 20 sec***"
+    {
+        "chi" "这面墙20秒后破开"
+    }
+
+    "***Doors will opens in 20 sec***"
+    {
+        "chi" "这扇门20秒后开启"
+    }
+
+    "***Shit ! the door is blocked ! Hold this position***"
+    {
+        "chi" "靠!门锁上了!守住这里!"
+    }
+
+    "***Hold this position for 20 sec***"
+    {
+        "chi" "守住!还有20秒"
+    }
+
+    "***Defend this position for 20 sec***"
+    {
+        "chi" "在这里守20秒"
+    }
+
+    "***Defend this position 20 sec***"
+    {
+        "chi" "还有20秒,守住!"
+    }
+
+    "***Defend this position for 15 sec***"
+    {
+        "chi" "还有15秒,守住!"
+    }
+
+    "***Team Fall Back to the reactor room***"
+    {
+        "chi" "退进反应堆室内,快!!"
+    }
+
+    "***Defend the reactor for 20 sec***"
+    {
+        "chi" "守住反应堆20秒"
+    }
+
+    "***Fuck! the reactor is uncontrollable, exit the K-19***"
+    {
+        "chi" "靠!反应堆已失控,快离开这里!"
+    }
+
+    "***Crate will break in 25 sec***"
+    {
+        "chi" "木箱25秒后破开"
+    }
+
+    "***Defend the exit for 25 sec***"
+    {
+        "chi" "最后的守点!还有25秒"
+    }
+    
+}
