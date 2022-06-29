@@ -38,12 +38,12 @@
 
     "<<< BOSS USE FIREBALL ! DONT STAY IN THE MIDDLE ! >>>"
     {
-        "chi" "BOSS使用了火球 !不要站在中间 !"
+        "chi" "BOSS使用了火球 ! 不要站在中间 !"
     }
 
     "<<< BOSS USE GRAVITY ! GO BACK ! >>>"
     {
-        "chi" "BOSS使用了重力 ! 注意回到平台 !"
+        "chi" "BOSS使用了吸力 ! 后退抵抗 !"
     }
 
     "<<< BOSS USE SHIELD ! DONT SHOOT ! >>>"
@@ -53,12 +53,12 @@
 
     "<<< BOSS USE SMASH ! JUMP ! >>>"
     {
-        "chi" "BOSS使用了粉碎 !跳起来 !"
+        "chi" "BOSS使用了粉碎 ! 跳或回到平台 !"
     }
 
     "<<< BOSS USE WIND ! GO FORWARD ! >>>"
     {
-        "chi" "BOSS使用了狂风 ! 保持抵抗"
+        "chi" "BOSS使用了狂风 ! 前进抵抗 !"
     }
 
     "<<< BREAK CRYSTAL TO OPEN THE DOOR >>>"
@@ -68,7 +68,7 @@
 
     "<<< SURVIVE !!! >>>"
     {
-        "chi" "活下去 !!!"
+        "chi" "存活下去 !!!"
     }
 
     "<<< YOU MUST KILL ALL ZOMBIES TO WIN ! >>>"
@@ -78,32 +78,32 @@
 
     "<<< YOU WIN LEVEL *1* >>>"
     {
-        "chi" "您赢得关卡*1*"
+        "chi" "您赢得关卡*一*"
     }
 
     "<<< YOU WIN LEVEL *2* >>>"
     {
-        "chi" "你赢了关卡*2*"
+        "chi" "你赢了关卡*二*"
     }
 
     "<<< YOU WIN LEVEL *3* >>>"
     {
-        "chi" "你赢了关卡*3*"
+        "chi" "你赢了关卡*三*"
     }
 
     "<<Level>><<1>>"
     {
-        "chi" "<< 关卡 >><< 1 >>"
+        "chi" "<< 关卡 >><< 一 >>"
     }
 
     "<<Level>><<2>>"
     {
-        "chi" "<< 关卡 >><< 2 >>"
+        "chi" "<< 关卡 >><< 二 >>"
     }
 
     "<<Level>><<3>>"
     {
-        "chi" "<< 关卡 >><< 3 >>"
+        "chi" "<< 关卡 >><< 三 >>"
     }
 
     "<<WARM UP - 10 SEK>>"
@@ -143,17 +143,17 @@
 
     ">> ADMIN RESTARTING TO LEVEL 1 <<"
     {
-        "chi" "管理员选择 关卡 1"
+        "chi" "管理员选择 关卡 一"
     }
 
     ">> ADMIN RESTARTING TO LEVEL 2 <<"
     {
-        "chi" "管理员选择 关卡 2"
+        "chi" "管理员选择 关卡 二"
     }
 
     ">> ADMIN RESTARTING TO LEVEL 3 <<"
     {
-        "chi" "管理员选择 关卡3"
+        "chi" "管理员选择 关卡 三"
     }
 
     ">>> PLAYER HAS PICKED UP ELECTRO <<<"
@@ -198,7 +198,7 @@
 
     ">>> PLAYER USED HEAL <<<"
     {
-        "chi" "玩家使用了治疗"
+        "chi" "治疗拯救我的队友, 求怕累!"
     }
 
     ">>> PLAYER USED ICE <<<"
@@ -223,7 +223,7 @@
 
     ">>> ZOMBIE USED GRAVITY <<<"
     {
-        "chi" "僵尸使用引力"
+        "chi" "僵尸使用了鲨马琪"
     }
 
 }
