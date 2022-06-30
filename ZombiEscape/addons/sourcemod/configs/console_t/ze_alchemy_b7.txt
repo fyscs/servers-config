@@ -14,7 +14,7 @@
     "** PLAYER PICKED UP HEALING AXE**"
     {
         "chi" "__null__"
-		"blocked" "1"
+        "blocked" "1"
     }
 
     "*** CRUSH ***"
@@ -50,7 +50,7 @@
     "*** LAZORS IN 10 SECONDS ***"
     {
         "chi" "还剩10s到达LAZORS"
-		"bolcked" "1"
+        "bolcked" "1"
     }
 
     "*** map by: MK!NG ***"
@@ -76,19 +76,19 @@
     "*** PLAYER PICKED UP AMMO MACE ***"
     {
         "chi" "__null__"
-		"blocked" "1"
+        "blocked" "1"
     }
 
     "*** PLAYER PICKED UP ELECTRIC MACE ***"
     {
         "chi" "__null__"
-		"blocked" "1"
+        "blocked" "1"
     }
 
     "*** PLAYER PICKED UP TWISTER MACE ***"
     {
         "chi" "__null__"
-		"blocked" "1"
+        "blocked" "1"
     }
 
     "*** ROCK THROW ***"
@@ -234,43 +234,43 @@
     "***PLAYER PICKED UP BURNING AXE***"
     {
         "chi" "__null__"
-		"blocked" "1"
+        "blocked" "1"
     }
 
     "***PLAYER PICKED UP FREEZING AXE***"
     {
         "chi" "__null__"
-		"blocked" "1"
+        "blocked" "1"
     }
 
     "***PLAYER PICKED UP GRAVITY AXE***"
     {
         "chi" "__null__"
-		"blocked" "1"
+        "blocked" "1"
     }
 
     "***PLAYER PICKED UP ZOMBIE FREEZE***"
     {
         "chi" "__null__"
-		"blocked" "1"
+        "blocked" "1"
     }
 
     "***PLAYER PICKED UP ZOMBIE LURE***"
     {
         "chi" "__null__"
-		"blocked" "1"
+        "blocked" "1"
     }
 
     "***PLAYER PICKED UP ZOMBIE SPEED***"
     {
         "chi" "__null__"
-		"blocked" "1"
+        "blocked" "1"
     }
 
     "***PLAYER PICKED UP ZOMBIE WARP***"
     {
         "chi" "__null__"
-		"blocked" "1"
+        "blocked" "1"
     }
 
     "***PROTECT THIS PLATFORM FOR 30 SECONDS***"
@@ -336,7 +336,7 @@
     "**Break the glass**"
     {
         "chi" "打碎菱形玻璃"
-		"blocked" "1"
+        "blocked" "1"
     }
 
     "**BREAK THE WALLS**"
