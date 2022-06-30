@@ -1,0 +1,696 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** PLAYER PICKED UP HEALING AXE**"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** CRUSH ***"
+    {
+        "chi" "把你夹成肉饼"
+    }
+
+    "*** FINAL ELEVATOR LEAVES IN 15 SECONDS ***"
+    {
+        "chi" "电梯:15秒"
+    }
+
+    "*** HE IS DEAD ***"
+    {
+        "chi" "他已经升天了"
+    }
+
+    "*** HOLY FUCKELS ***"
+    {
+        "chi" "恭喜这个B,solo,King"
+    }
+
+    "*** KILL HIM BEFORE HE KILLS YOU!! ***"
+    {
+        "chi" "生存亦或死亡"
+    }
+
+    "*** KILL LAST ZOMBIES !!! ***"
+    {
+        "chi" "杀死所有感染体"
+    }
+
+    "*** LAZORS IN 10 SECONDS ***"
+    {
+        "chi" "寄汤来咯: 10秒"
+    }
+
+    "*** map by: MK!NG ***"
+    {
+        "chi" "作者:MK!NG    汉化: 丢了个小女孩@風雲社"
+    }
+
+    "*** NADES DO MORE DAMAGE OK ***"
+    {
+        "chi" "手雷可以造成额外伤害"
+    }
+
+    "*** NO HUMANS DETECTED ON ENDING, RESTARTING WHOLE FUCKING LEVEL OK ***"
+    {
+        "chi" "无人存活,失败"
+    }
+
+    "*** Only one CT needs to do the parkour ***"
+    {
+        "chi" "仅需一名人类触发"
+    }
+
+    "*** PLAYER PICKED UP AMMO MACE ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** PLAYER PICKED UP ELECTRIC MACE ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** PLAYER PICKED UP TWISTER MACE ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** ROCK THROW ***"
+    {
+        "chi" "剪刀头石头布,出石头"
+    }
+
+    "*** SOMETHING HAPPENS IN 15 SECONDS ***"
+    {
+        "chi" "等待15秒"
+    }
+
+    "*** TELEPORTING SLOW FOKES IN 10 SECONDS ***"
+    {
+        "chi" "挂机传送:15秒"
+    }
+
+    "*** Thank you for playing ***"
+    {
+        "chi" "感谢每一位小伙伴对此地图的支持"
+    }
+
+    "*** THE GUARDIAN IS BACK! ***"
+    {
+        "chi" "守护者被击退了"
+    }
+
+    "*** TP IN 10 SEC ***"
+    {
+        "chi" "传送:10秒"
+    }
+
+    "*** Zombie shortcuts open in 10 seconds ***"
+    {
+        "chi" "僵尸捷径:10秒"
+    }
+
+    "*** zombies reached trigger first, fast triggering... ***"
+    {
+        "chi" "感染体触发"
+    }
+
+    "***AFK tele in 15 seconds***"
+    {
+        "chi" "挂机传送:15秒"
+    }
+
+    "***BOSS DOOR IS CLOSING IN 10 SECONDS***"
+    {
+        "chi" "等待15秒"
+    }
+
+    "***Boss fight in 40 seconds***"
+    {
+        "chi" "等待40秒"
+    }
+
+    "***BRIDGE DOOR OPENS IN 20 SECONDS***"
+    {
+        "chi" "门:20秒"
+    }
+
+    "***DEATH ARROW***"
+    {
+        "chi" "死亡之箭"
+    }
+
+    "***ELEVATOR IS LEAVING IN 30 SECONDS***"
+    {
+        "chi" "电梯:30秒"
+    }
+
+    "***ELEVATOR LEAVES IN 25 SECONDS***"
+    {
+        "chi" "电梯:25秒"
+    }
+
+    "***Final door will close in 30 seconds***"
+    {
+        "chi" "距离最终の门关闭:30秒"
+    }
+
+    "***FIRST GATE OPENS IN 30 SECONDS***"
+    {
+        "chi" "门:30秒"
+    }
+
+    "***FOUNTAIN PUSH STARTS IN 30 SECONDS***"
+    {
+        "chi" "30秒后开启升天仪式"
+    }
+
+    "***Fountain teleport will be ready in 15 seconds***"
+    {
+        "chi" "传送:15秒"
+    }
+
+    "***Gates will break in 15 seconds***"
+    {
+        "chi" "门:15秒"
+    }
+
+    "***Hold here for 10 seconds***"
+    {
+        "chi" "防守10秒"
+    }
+
+    "***Hold here for 25 seconds***"
+    {
+        "chi" "防守25秒"
+    }
+
+    "***Hold here for 35 seconds***"
+    {
+        "chi" "防守35秒"
+    }
+
+    "***LANDSLIDE***"
+    {
+        "chi" "土遁 - 土牛逼"
+    }
+
+    "***MULTI LANDSLIDE***"
+    {
+        "chi" "土遁 - 土牛逼"
+    }
+
+    "***Path opens in 20 seconds***"
+    {
+        "chi" "道路开放:20秒"
+    }
+
+    "***PATH OPENS IN 25 SECONDS***"
+    {
+        "chi" "道路开放:25秒"
+    }
+
+    "***PATH WILL BE CLEAR IN 25 SECONDS***"
+    {
+        "chi" "道路开放:25秒"
+    }
+
+    "***PLAYER PICKED UP BURNING AXE***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***PLAYER PICKED UP FREEZING AXE***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***PLAYER PICKED UP GRAVITY AXE***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***PLAYER PICKED UP ZOMBIE FREEZE***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***PLAYER PICKED UP ZOMBIE LURE***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***PLAYER PICKED UP ZOMBIE SPEED***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***PLAYER PICKED UP ZOMBIE WARP***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***PROTECT THIS PLATFORM FOR 30 SECONDS***"
+    {
+        "chi" "防守平台30秒"
+    }
+
+    "***STAGE 2 COMPLETE***"
+    {
+        "chi" "第二章节完成"
+    }
+
+    "***The path will open in 30 seconds***"
+    {
+        "chi" "道路开放:30秒"
+    }
+
+    "***UNDER PATH OPENS IN 20 SECONDS***"
+    {
+        "chi" "下方道路开放:20秒"
+    }
+
+    "***We must find the totem and destroy it in order to proceed***"
+    {
+        "chi" "摧毁图腾"
+    }
+
+    "***Zombie shortcut opens in 5 seconds***"
+    {
+        "chi" "僵尸捷径:5秒"
+    }
+
+    "***Zombie teleport advancing  in 15 seconds***"
+    {
+        "chi" "感染体传送:15秒"
+    }
+
+    "***Zombie TP in 8 seconds***"
+    {
+        "chi" "感染体传送:8秒"
+    }
+
+    "**Above path opens in 10 seconds**"
+    {
+        "chi" "上方道路开放:10秒"
+    }
+
+    "**AFK teleport in 10 seconds**"
+    {
+        "chi" "挂机传送:10秒"
+    }
+
+    "**AFK teleport in 5 seconds**"
+    {
+        "chi" "挂机传送:5秒"
+    }
+
+    "**Black path glass breaks in 15 seconds**"
+    {
+        "chi" "黑色玻璃通道开放:15秒"
+    }
+
+    "**Break the glass**"
+    {
+        "chi" "打碎菱形玻璃"
+        "blocked" "1"
+    }
+
+    "**BREAK THE WALLS**"
+    {
+        "chi" "摧毁墙壁"
+    }
+
+    "**CHOKE**"
+    {
+        "chi" "窒息?"
+    }
+
+    "**DEATH ARROW**"
+    {
+        "chi" "死亡之箭"
+    }
+
+    "**DON'T EDGE ON THE PLATFORM**"
+    {
+        "chi" "小心头顶"
+    }
+
+    "**Door closes in 10 seconds**"
+    {
+        "chi" "大门关闭:10秒"
+    }
+
+    "**Door closes in 20 seconds**"
+    {
+        "chi" "大门关闭:20秒"
+    }
+
+    "**Door to the alchemist opens in 30 seconds**"
+    {
+        "chi" "门:30秒"
+    }
+
+    "**DOORS OPEN IN 20 SECONDS**"
+    {
+        "chi" "门:20秒"
+    }
+
+    "**DOORS OPEN IN 30 SECONDS**"
+    {
+        "chi" "门:30秒"
+    }
+
+    "**Doors will open in 20 seconds**"
+    {
+        "chi" "门:20秒"
+    }
+
+    "**Final door opens in 30 seconds**"
+    {
+        "chi" "最终の门:30秒"
+    }
+
+    "**FROSTBITE**"
+    {
+        "chi" "冻伤"
+    }
+
+    "**GATE BREAKS IN 20 SECONDS**"
+    {
+        "chi" "铁门:20秒"
+    }
+
+    "**Gates will break in 30 seconds**"
+    {
+        "chi" "铁门:30秒"
+    }
+
+    "**GREAT, HOLD HERE FOR A BIT, THE GLASSES WILL BREAK**"
+    {
+        "chi" "防守,直至道路可同行"
+    }
+
+    "**Great, stay splitted and activate both side levers**"
+    {
+        "chi" "激活操纵杆"
+    }
+
+    "**HALF THE TEAM GOES UP, HALF THE TEAM GOES DOWN**"
+    {
+        "chi" "前方道路开支,需要分队"
+    }
+
+    "**HEAD TO THE STATUE, THERE WILL BE A TELEPORT THERE!**"
+    {
+        "chi" "前行高能,艹是弔像,过去传送"
+    }
+
+    "**JUMP JUMP JUMP JUMP**"
+    {
+        "chi" "跳..."
+    }
+
+    "**Kill the remaining zombies!**"
+    {
+        "chi" "杀死所有感染体"
+    }
+
+    "**LANDSLIDE**"
+    {
+        "chi" "土遁 - 土牛逼"
+    }
+
+    "**Laser wall will go down in 30 seconds**"
+    {
+        "chi" "防守30秒"
+    }
+
+    "**LEFT route gate breaks in 15 seconds**"
+    {
+        "chi" "左门:15秒"
+    }
+
+    "**LEFT side has been reached**"
+    {
+        "chi" "已到达左侧"
+    }
+
+    "**Lever A has been activated**"
+    {
+        "chi" "操纵杆按下"
+    }
+
+    "**Lever B has been activated**"
+    {
+        "chi" "操纵杆按下"
+    }
+
+    "**Main door closes in 15 seconds**"
+    {
+        "chi" "距离中门关闭:15秒"
+    }
+
+    "**Main gate opens in 30 seconds**"
+    {
+        "chi" "距离中门开放:15秒"
+    }
+
+    "**MIDDLE route gate breaks in 15 seconds**"
+    {
+        "chi" "距离中间铁门碎裂:15秒"
+    }
+
+    "**Nice, keep holding your rooms, the doors will open**"
+    {
+        "chi" "门即将打开"
+    }
+
+    "**OMNI PUSH**"
+    {
+        "chi" "BOSS使用了:退!退!退!"
+    }
+
+    "**Path will open in 15 seconds**"
+    {
+        "chi" "道路开放:15秒"
+    }
+
+    "**PULLING TOWARDS BLACK WALL**"
+    {
+        "chi" "要到黑墙咯"
+    }
+
+    "**PULLING TOWARDS ZOMBIE WALL**"
+    {
+        "chi" "要到尸笼咯"
+    }
+
+    "**RIGHT route gate breaks in 15 seconds**"
+    {
+        "chi" "左门:15秒"
+    }
+
+    "**RIGHT side has been reached**"
+    {
+        "chi" "左门开放"
+    }
+
+    "**SHOOT THOSE WALLS!**"
+    {
+        "chi" "开枪!打破两边屏障"
+    }
+
+    "**Shortcut opens in 10 seconds**"
+    {
+        "chi" "捷径:10秒"
+    }
+
+    "**Shortcut opens in 15 seconds**"
+    {
+        "chi" "捷径:15秒"
+    }
+
+    "**Side doors close in 15 seconds**"
+    {
+        "chi" "距离中门关闭:15秒"
+    }
+
+    "**SOUL EATER**"
+    {
+        "chi" "不知名的猫鼬斩使用伤害技能"
+    }
+
+    "**SPLIT THE TEAM UP, BOTH SIDES MUST BE ACTIVATED IN ORDER TO PROCEED**"
+    {
+        "chi" "前方分行,需激活两侧才能前行"
+    }
+
+    "**STAGE 1 COMPLETE**"
+    {
+        "chi" "第一章完成"
+    }
+
+    "**STAGE 3 COMPLETE**"
+    {
+        "chi" "第三章完成"
+    }
+
+    "**Stage switched to 1**"
+    {
+        "chi" "载入第一章"
+    }
+
+    "**Stage switched to 2**"
+    {
+        "chi" "载入第二章"
+    }
+
+    "**Stage switched to 3**"
+    {
+        "chi" "载入第三章"
+    }
+
+    "**Stage switched to 4**"
+    {
+        "chi" "载入第四章"
+    }
+
+    "**Stage switched to RTV**"
+    {
+        "chi" "RTV"
+    }
+
+    "**STATUE HAS BEEN BROKEN, HEAD FOR THE GATE**"
+    {
+        "chi" "雕像已被破坏"
+    }
+
+    "**Statue tp enables in 20 seconds**"
+    {
+        "chi" "传送:20秒"
+    }
+
+    "**stay close to the statue!**"
+    {
+        "chi" "靠近那个弔像"
+    }
+
+    "**Teleport enables in 45 seconds**"
+    {
+        "chi" "传送:45秒"
+    }
+
+    "**TELEPORTING ALL ZOMBIES TO CORRIDOR IN 10 SECONDS**"
+    {
+        "chi" "10秒后传送所有感染体至走廊"
+    }
+
+    "**The doors will open in 20 seconds**"
+    {
+        "chi" "门:20秒"
+    }
+
+    "**TIP: both sides reach the end**"
+    {
+        "chi" "提示:两条道路均可同行"
+    }
+
+    "**TIP: the iron gates are shortcuts**"
+    {
+        "chi" "提示:铁门是捷径"
+    }
+
+    "**Under path opens in 10 seconds**"
+    {
+        "chi" "下方道路开放:10秒"
+    }
+
+    "**Wait till the door opens,...**"
+    {
+        "chi" "等待大门打开"
+    }
+
+    "**WALL OF SORROW**"
+    {
+        "chi" "悲伤之墙?"
+    }
+
+    "**White path glass breaks in 10 seconds**"
+    {
+        "chi" "白色玻璃通道开放:10秒"
+    }
+
+    "**ZOMBIE DETECTED IN ONE OF THE TRIGGERS, MAKE HASTE OR YOU WILL SUFFER**"
+    {
+        "chi" "检测到感染体,请抓紧时间"
+    }
+
+    "**Zombie dettected nearby one of the triggers, make haste or you will fail!**"
+    {
+        "chi" "检测到感染体,请抓紧时间"
+    }
+
+    "**Zombie push enabled in 5 seconds**"
+    {
+        "chi" "感染体5秒后被阻挡"
+    }
+
+    "**zombie shortcut opens in 15 seconds**"
+    {
+        "chi" "感染体捷径:15秒"
+    }
+
+    "**Zombie teleport advancing in 5 seconds**"
+    {
+        "chi" "感染体传送:5秒"
+    }
+
+    "**zombie TP advancing in 10 seconds**"
+    {
+        "chi" "感染体传送:10秒"
+    }
+
+    "**Zombie TP advancing in 15 seconds**"
+    {
+        "chi" "感染体传送:15秒"
+    }
+
+    "**ZOMBIES DETECTED, KILL THOSE FUCKERS IF YOU WANT TO WIN!**"
+    {
+        "chi" "检测到感染体,不想死就杀光它们"
+    }
+
+    "**Zombies dettected in the last floor, level failed!**"
+    {
+        "chi" "前方检测到大量感染体,已经没有希望了"
+    }
+
+    "**Zombies must jump**"
+    {
+        "chi" "僵尸往上跳"
+    }
+
+}
