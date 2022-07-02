@@ -1,25 +1,27 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
 
-    "85 seconds to choose a game. "
+
+    "85 seconds to choose a game."
     {
-        "blocked" "1"
         "chi" "85秒钟之内选择一个游戏"
-    }
-
-    "Random choose in 85 seconds."
-    {
         "blocked" "1"
-        "chi" "随机选图在85秒钟后"
     }
 
-    "Random Game Activated."
+    "DownFall Game Start in 5 seconds."
     {
-        "chi" "正在随机选图"
+        "chi" "游戏将在5秒钟后开始"
     }
 
     "Game: AWP + knife: Gravity Low Fight."
@@ -32,17 +34,37 @@
         "chi" "AWP:超级马里奥世界"
     }
 
+    "Game: DownFall, fast breach. -hard."
+    {
+        "chi" "自由落体,快速 -困难"
+    }
+
+    "Game: DownFall, slow breach. -easy"
+    {
+        "chi" "自由落体,慢速 -简单"
+    }
+
     "Game: Headshot Only: AWP"
     {
         "chi" "爆头模式:AWP"
     }
 
-    "Game: Headshot Only: Deagle "
+    "Game: Headshot Only: Deagle"
     {
         "chi" "爆头模式: 沙鹰"
     }
 
-    "Game: Only Knife, normal mode, Speed x3, Gravity -80%, "
+    "Game: Only Headshot AWP, Speed x2, Gravity -50%"
+    {
+        "chi" "爆头模式: AWP 低重力 二倍速"
+    }
+
+    "Game: Only Headshot Scout, Speed x2, Gravity -50%"
+    {
+        "chi" "爆头模式: 鸟狙 低重力 二倍速"
+    }
+
+    "Game: Only Knife, normal mode, Speed x3, Gravity -80%,"
     {
         "chi" "刀战 超低重力 三倍速"
     }
@@ -52,14 +74,19 @@
         "chi" "刀战 背刺模式 超低重力 三倍速"
     }
 
-    "Game: Only Headshot Scout, Speed x2, Gravity -50%"
+    "Game: scout + knife: Gravity Low Fight."
     {
-        "chi" "爆头模式: 鸟狙 低重力 二倍速"
+        "chi" "低重力鸟狙"
     }
 
-    "Game: Only Headshot AWP, Speed x2, Gravity -50%"
+    "Game: scout + knife: Super Mario World"
     {
-        "chi" "爆头模式: AWP 低重力 二倍速"
+        "chi" "鸟狙: 超级马里奥世界"
+    }
+
+    "Game: Smoke War: Hit the other enemy with a smoke grenade."
+    {
+        "chi" "躲避球"
     }
 
     "Game: ThrowingSmoke: Hit 12 targets with a smokegrenade."
@@ -67,19 +94,14 @@
         "chi" "NadeKing 用烟雾弹击中十二个目标"
     }
 
+    "Game: ThrowingSmoke: Hit 18 targets with a smokegrenade."
+    {
+        "chi" "NadeKing 用烟雾弹击中十八个目标"
+    }
+
     "Game: ThrowingSmoke: Hit 6 targets with a smokegrenade."
     {
         "chi" "NadeKing 用烟雾弹击中六个目标"
-    }
-
-    "Game: DownFall, fast breach. -hard."
-    {
-        "chi" "自由落体,快速 -困难"
-    }
-
-    "DownFall Game Start in 5 seconds."
-    {
-        "chi" "游戏将在5秒钟后开始"
     }
 
     "Here, for you a Knife!"
@@ -92,29 +114,15 @@
         "chi" "跳到平台中间的一个绿色聚光灯传送点来选择游戏"
     }
 
-    "Game: ThrowingSmoke: Hit 18 targets with a smokegrenade."
+    "Random choose in 85 seconds."
     {
-        "chi" "NadeKing 用烟雾弹击中十八个目标"
+        "chi" "随机选图在85秒钟后"
+        "blocked" "1"
     }
 
-    "Game: Smoke War: Hit the other enemy with a smoke grenade."
+    "Random Game Activated."
     {
-        "chi" "躲避球"
-    }
-
-    "Game: scout + knife: Super Mario World"
-    {
-        "chi" "鸟狙: 超级马里奥世界"
-    }
-
-    "Game: scout + knife: Gravity Low Fight."
-    {
-        "chi" "低重力鸟狙"
-    }
-
-    "Game: DownFall, slow breach. -easy"
-    {
-        "chi" "自由落体,慢速 -简单"
+        "chi" "正在随机选图"
     }
 
 }

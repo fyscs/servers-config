@@ -1,0 +1,548 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+    ">>> ???????????????????????????????? ???????? ??????????????????? <<<"
+    {
+        "chi" "????????"
+    }
+
+    ">>> Special thanks to hobbit <<<"
+    {
+        "chi" "特别感谢hobbit"
+    }
+
+    ">>> Map made by Moray <<<"
+    {
+        "chi" "地图作者:Moray 汉化:枣子哥@風雲社"
+    }
+
+    ">>> SUNNY LEVEL <<<"
+    {
+        "chi" "等级:阳光"
+    }
+
+    ">>> STAGE 1 : RIVER MODE <<<"
+    {
+        "chi" "关卡一:河流模式"
+    }
+
+    ">>> STAGE 2 : TERMINAL MODE <<<"
+    {
+        "chi" "关卡二:终点站模式"
+    }
+
+    ">>> STAGE 3 : TEMPLE MODE <<<"
+    {
+        "chi" "关卡三:神庙模式"
+    }
+
+    ">>> HELL LEVEL <<<"
+    {
+        "chi" "等级:地狱"
+    }
+
+    ">>> STAGE 4 : RIVER MODE <<<"
+    {
+        "chi" "关卡四:河流模式"
+    }
+
+    ">>> STAGE 5 : TERMINAL MODE <<<"
+    {
+        "chi" "关卡五:终点站模式"
+    }
+
+    ">>> STAGE 6 : TEMPLE MODE <<<"
+    {
+        "chi" "关卡六:神庙模式"
+    }
+
+    ">>> NUKE IN 90 SECONDS <<<"
+    {
+        "chi" "90秒后核爆降临"
+    }
+
+    ">>> DEFEAT HIM AGAIN <<<"
+    {
+        "chi" "再一次打败他"
+    }
+
+    ">>> IFRIT IS GETTING POWER <<<"
+    {
+        "chi" "伊芙利特正在获得力量"
+    }
+
+    ">>> IFRIT IS HURT <<<"
+    {
+        "chi" "伊芙利特受伤了"
+    }
+
+    ">>> 5 SECONDS LEFT <<<"
+    {
+        "chi" "还剩5秒"
+    }
+
+    ">>> 30 SECONDS LEFT <<<"
+    {
+        "chi" "还剩30秒"
+    }
+
+    ">>> 60 SECONDS LEFT <<<"
+    {
+        "chi" "还剩60秒"
+    }
+
+    ">>> EXIT DOOR OPEN IN 100 SECONDS <<<"
+    {
+        "chi" "逃生门将在100秒后开启"
+    }
+
+    ">>> NUKE IS DISABLED <<<"
+    {
+        "chi" "核爆解除了"
+    }
+
+    ">>> IFRIT IS DEFEATED <<<"
+    {
+        "chi" "伊芙利特被打败了"
+    }
+
+    ">>> EXIT DOOR OPEN IN 120 SECONDS <<<"
+    {
+        "chi" "逃生门将在120秒后开启"
+    }
+
+    ">>> LIFT START TO MOVE IN 5 SECONDS <<<"
+    {
+        "chi" "升降梯5秒后移动"
+    }
+
+    ">>> HOLD 5 SECONDS <<<"
+    {
+        "chi" "防守5秒"
+    }
+
+    ">>> BARRIER DISABLED <<<"
+    {
+        "chi" "屏障消失了"
+    }
+
+    ">>> PRESS THE NEXT BUTTON <<<"
+    {
+        "chi" "按下下一个按钮"
+    }
+
+    ">>> 5 SECONDS LEFT SOMETHING HAPPENS <<<"
+    {
+        "chi" "5秒后会发生某件事"
+    }
+
+    ">>> PLATFORM MOVE IN 20 SECONDS <<<"
+    {
+        "chi" "平台20秒后移动"
+    }
+
+    ">>> STAIRS OPENED <<<"
+    {
+        "chi" "楼梯开了"
+    }
+
+    ">>> ADMIN CHANGED TO STAGE 1 <<<"
+    {
+        "chi" "管理员调至第一关"
+    }
+
+    ">>> ADMIN CHANGED TO STAGE 4 <<<"
+    {
+        "chi" "管理员调至第四关"
+    }
+
+    ">>> ADMIN CHANGED TO STAGE 2 <<<"
+    {
+        "chi" "管理员调至第二关"
+    }
+
+    ">>> ADMIN CHANGED TO STAGE 5 <<<"
+    {
+        "chi" "管理员调至第五关"
+    }
+
+    ">>> ADMIN CHANGED TO STAGE 3 <<<"
+    {
+        "chi" "管理员调至第三关"
+    }
+
+    ">>> ADMIN CHANGED TO STAGE 6 <<<"
+    {
+        "chi" "管理员调至第六关"
+    }
+
+    ">>> HOLD 20 SECONDS <<<"
+    {
+        "chi" "防御20秒"
+    }
+
+    ">>> HOLD 25 SECONDS <<<"
+    {
+        "chi" "守住25秒"
+    }
+
+    ">>> AFK TELEPORT IN 10 SECONDS <<<"
+    {
+        "chi" "僵尸10秒后传送"
+    }
+
+    ">>> HOLD 15 SECONDS <<<"
+    {
+        "chi" "防守15秒"
+    }
+
+    ">>> SHORT CUT FENCE BREAK IN 10 SECONDS <<<"
+    {
+        "chi" "小栅栏10秒后破碎"
+    }
+
+    ">>> AIRCRAFT IS COMING <<<"
+    {
+        "chi" "飞机来了"
+    }
+
+    ">>> UFO IS COMING <<<"
+    {
+        "chi" "UFO来了"
+    }
+
+    ">>> AIRCRAFT IS CALLING SOMETHING <<<"
+    {
+        "chi" "飞机正在呼叫什么"
+    }
+
+    ">>> AIRCRAFT IS DEFEATED <<<"
+    {
+        "chi" "飞机被打败了"
+    }
+
+    ">>> ZOMBIE ITEMS UNLOCKED <<<"
+    {
+        "chi" "僵尸神器解锁"
+    }
+
+    ">>> UFO IS DEFEATED <<<"
+    {
+        "chi" "UFO被打败了"
+    }
+
+    ">>> HOLD 30 SECONDS <<<"
+    {
+        "chi" "防守30秒"
+    }
+
+    ">>> HOLD 10 SECONDS <<<"
+    {
+        "chi" "守住10秒"
+    }
+
+    ">>> SANICTANK IS DEFEATED <<<"
+    {
+        "chi" "傻尼克被打败了"
+    }
+
+    ">>> PORYGON IS COMING <<<"
+    {
+        "chi" "多边兽来咯"
+    }
+
+    ">>> PORYGON USED TRI ATTACK <<<"
+    {
+        "chi" "多边兽使用了三边攻击"
+    }
+
+    ">>> PORYGON USED ZUP CANNON <<<"
+    {
+        "chi" "多边兽使用了大炮"
+    }
+
+    ">>> PORYGON USED DISCHARGE <<<"
+    {
+        "chi" "多边兽使用了喷射"
+    }
+
+    ">>> PORYGON USED SIGNAL BEAM <<<"
+    {
+        "chi" "多边兽使用了单激光"
+    }
+
+    ">>> PORYGON USED PSYBEAM <<<"
+    {
+        "chi" "多边兽使用了精神光线"
+    }
+
+    ">>> PORYGON USED PSYSHOCK <<<"
+    {
+        "chi" "多边兽使用了精神震荡"
+    }
+
+    ">>> PORYGON USED CONVERSION <<<"
+    {
+        "chi" "多边兽使用了转变攻击"
+    }
+
+    ">>> PORYGON IS DEFEATED <<<"
+    {
+        "chi" "多边兽被打败了"
+    }
+
+    ">>> SANICTANK IS COMING <<<"
+    {
+        "chi" "傻尼克来了"
+    }
+
+    ">>> GOLEM IS COMING <<<"
+    {
+        "chi" "傀儡来了"
+    }
+
+    ">>> GOLEM USE DERP CANNON <<<"
+    {
+        "chi" "傀儡使用了绝望大炮"
+    }
+
+    ">>> GOLEM USE DERP PUSH <<<"
+    {
+        "chi" "傀儡使用了绝望推力"
+    }
+
+    ">>> GOLEM USE DERP BEAM <<<"
+    {
+        "chi" "傀儡使用了绝望激光"
+    }
+
+    ">>> HARPY IS COMING <<<"
+    {
+        "chi" "哈比来了"
+    }
+
+    ">>> AVOID FEATHERS <<<"
+    {
+        "chi" "躲避羽毛"
+    }
+
+    ">>> ZOMBIE GRAVITY LOCKED <<<"
+    {
+        "chi" "僵尸重力锁定"
+    }
+
+    ">>> ZOMBIE GRAVITY UNLOCKED <<<"
+    {
+        "chi" "僵尸重力解锁"
+    }
+
+    ">>> KILL GUARDIANS <<<"
+    {
+        "chi" "杀掉守卫"
+    }
+
+    ">>> PLATFORM IS RISING <<<"
+    {
+        "chi" "平台正在升起"
+    }
+
+    ">>> FALL BACK <<<"
+    {
+        "chi" "撤退"
+    }
+
+    ">>> GOLEM IS DEFEATED <<<"
+    {
+        "chi" "傀儡被打败了"
+    }
+
+    ">>> IFRIT IS COMING <<<"
+    {
+        "chi" "伊芙利特来了"
+    }
+
+    ">>> BAMBOO IS GROWING <<<"
+    {
+        "chi" "竹子正在生长"
+    }
+
+    ">>> IFRIT USED SLASH <<<"
+    {
+        "chi" "伊芙利特使用了劈砍"
+    }
+
+    ">>> IFRIT USED METEOR FALLS <<<"
+    {
+        "chi" "伊芙利特使用了流星坠落"
+    }
+
+    ">>> BREAK THEM <<<"
+    {
+        "chi" "打碎他们"
+    }
+
+    ">>> IFRIT SUMMONED SPINNER <<<"
+    {
+        "chi" "伊芙利特召唤了旋转器"
+    }
+
+    ">>> IFRIT USED WIND <<<"
+    {
+        "chi" "伊芙利特使用了风"
+    }
+
+    ">>> ROUTE 1 : HOLD 15 SECONDS <<<"
+    {
+        "chi" "路线一:防守15秒"
+    }
+
+    ">>> ROUTE 1 : HOLD 20 SECONDS <<<"
+    {
+        "chi" "路线一:防守20秒"
+    }
+
+    ">>> ROUTE 2 : HOLD 15 SECONDS <<<"
+    {
+        "chi" "路线二:防守15秒"
+    }
+
+    ">>> ROUTE 2 : HOLD 20 SECONDS <<<"
+    {
+        "chi" "路线二:防守20秒"
+    }
+
+    ">>> IFRIT USE BEAM <<<"
+    {
+        "chi" "伊芙利特使用了激光"
+    }
+
+    ">>> GET AWAY FROM GRATE <<<"
+    {
+        "chi" "远离这炉子"
+    }
+
+    ">>> GET ON THE CRATE <<<"
+    {
+        "chi" "到木箱上去"
+    }
+
+    ">>> 5 SECONDS LEFT  <<<"
+    {
+        "chi" "还剩5秒"
+    }
+
+    ">>> GET ON THE LIFT IF YOU WANT DIE <<<"
+    {
+        "chi" "别上升降梯,除非你想死"
+    }
+
+    ">>> HOLD HERE <<<"
+    {
+        "chi" "守住这里"
+    }
+
+    ">>> HINT 1 : YOU CAN MOVE ELEVATOR TO PRESS BLUE GLOWING BUTTON <<<"
+    {
+        "chi" "提示一:可以移动电梯去按下蓝色按钮"
+    }
+
+    ">>> HINT 2 : YOU CAN MAKE PASSAGE TO PRESS WHITE GLOWING BUTTON <<<"
+    {
+        "chi" "提示二:可以制作道路去按下白色按钮"
+    }
+
+    ">>> ROUTE 2 : HOLD 30 SECONDS <<<"
+    {
+        "chi" "路线二:防守30秒"
+    }
+
+    ">>> ROUTE 1 : HOLD 30 SECONDS <<<"
+    {
+        "chi" "路线一:防守30秒"
+    }
+
+    ">>> IFRIT SUMMONED MINIONS <<<"
+    {
+        "chi" "伊芙利特召唤了小兵"
+    }
+
+    ">>> DO NOT BLOCK THE DOOR <<<"
+    {
+        "chi" "别堵门"
+    }
+
+    ">>> STAGE 1 COMPLETED <<<"
+    {
+        "chi" "关卡一完成"
+    }
+
+    ">>> STAGE 4 COMPLETED <<<"
+    {
+        "chi" "关卡四完成"
+    }
+
+    ">>> FAIL ROUND <<<"
+    {
+        "chi" "回合失败"
+    }
+
+    ">>> STAGE 5 COMPLETED <<<"
+    {
+        "chi" "关卡五完成"
+    }
+
+    ">>> STAGE 2 COMPLETED <<<"
+    {
+        "chi" "关卡二完成"
+    }
+
+    ">>> STAGE 3 COMPLETED <<<"
+    {
+        "chi" "关卡三完成"
+    }
+
+    ">>> STAGE 6 COMPLETED <<<"
+    {
+        "chi" "关卡六完成"
+    }
+
+    ">>> FINAL DOOR IS CLOSING <<<"
+    {
+        "chi" "最终之门正在关闭"
+    }
+
+    ">>> GOLEM IS APPROACHING <<<"
+    {
+        "chi" "傀儡正在接近"
+    }
+
+    ">>> AFK TELEPORT IN 5 SECONDS <<<"
+    {
+        "chi" "僵尸5秒后传送"
+    }
+
+    ">>> ZOMBIE IS COMING <<<"
+    {
+        "chi" "僵尸来了"
+    }
+
+    ">>> TIME TO AVOID CANCER LASERS  <<<"
+    {
+        "chi" "躲避激光"
+    }
+
+    ">>> TIME TO AVOID CANCER LASERS <<<"
+    {
+        "chi" "躲避这些激光"
+    }
+
+}

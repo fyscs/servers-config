@@ -1,33 +1,21 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
 
-    "[Map created by: Ome Joey and DmgVol]"
-    {
-        "chi" "地图作者: Ome Joey and DmgVol 地图汉化: 圣剑 @风云社"
-    }
 
-    "[Chosen map: India]"
+    "[60 Seconds up! Random map will be picked]"
     {
-        "chi" "已选择地图: 印度"
-    }
-
-    "[Chosen map: Rooftops]"
-    {
-        "chi" "已选择地图: 天台"
-    }
-
-    "[Chosen map: Head2Head]"
-    {
-        "chi" "已选择地图: 面对面"
-    }
-
-    "[Chosen map: Underground]"
-    {
-        "chi" "已选择地图: 地下"
+        "blocked" "1"
     }
 
     "[Chosen map: Aim_Dust]"
@@ -35,29 +23,24 @@
         "chi" "已选择地图: Aim_Dust"
     }
 
-    "[Chosen map: CastleWar]"
-    {
-        "chi" "已选择地图: 城堡战争"
-    }
-
     "[Chosen map: awp_map]"
     {
         "chi" "已选择地图: awp_map"
     }
 
-    "[Chosen map: Orange]"
+    "[Chosen map: CastleWar]"
     {
-        "chi" "已选择地图: 橘子"
+        "chi" "已选择地图: 城堡战争"
     }
 
-    "[Chosen map: Scrap Yard]"
+    "[Chosen map: Head2Head]"
     {
-        "chi" "已选择地图: 废料场"
+        "chi" "已选择地图: 面对面"
     }
 
-    "[Chosen map: Office]"
+    "[Chosen map: India]"
     {
-        "chi" "已选择地图: 办公室"
+        "chi" "已选择地图: 印度"
     }
 
     "[Chosen map: Minecraft]"
@@ -65,9 +48,29 @@
         "chi" "已选择地图: Minecraft"
     }
 
-    "[RandomChoice!]"
+    "[Chosen map: Office]"
     {
-        "chi" "随机地图!"
+        "chi" "已选择地图: 办公室"
+    }
+
+    "[Chosen map: Orange]"
+    {
+        "chi" "已选择地图: 橘子"
+    }
+
+    "[Chosen map: Rooftops]"
+    {
+        "chi" "已选择地图: 天台"
+    }
+
+    "[Chosen map: Scrap Yard]"
+    {
+        "chi" "已选择地图: 废料场"
+    }
+
+    "[Chosen map: Underground]"
+    {
+        "chi" "已选择地图: 地下"
     }
 
     "[ERROR!]"
@@ -75,15 +78,19 @@
         "chi" "ERROR!"
     }
 
+    "[Map created by: Ome Joey and DmgVol]"
+    {
+        "chi" "地图作者: Ome Joey and DmgVol 地图汉化: 圣剑 @风云社"
+    }
+
+    "[RandomChoice!]"
+    {
+        "chi" "随机地图!"
+    }
+
     "[System Malfunction!]"
     {
         "chi" "系统错误!"
-    }
-
-    "[60 Seconds up! Random map will be picked]"
-    {
-        "blocked" "1"
-        "chi" "60秒钟后选择随机地图!"
     }
 
 }

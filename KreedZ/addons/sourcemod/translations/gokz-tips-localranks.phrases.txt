@@ -1,0 +1,44 @@
+"Phrases"
+{
+	"!wr"
+	{
+		"en"		"{grey}Use {default}!wr <map> {grey}or {default}!bwr <bonus> <map> {grey}to see a course's fastest times for your current mode."
+		"chi"		"{grey}聊天框中输入 {default}!wr <map> {grey}或{default}!bwr <bonus> <map> {grey}来查看世界纪录."
+		"ru"		"{grey}Используйте {default}!wr <картаp> {grey}или {default}!bwr <бонус> <карта> {grey}для посмотра лучших результатов прохождения вашего режима."
+	}
+	"!maptop"
+	{
+		"en"		"{grey}Check out a map's top times for your currently selected mode by typing {default}!maptop <map>{grey}."
+		"chi"		"{grey}聊天框中输入 {default}!maptop <map>{grey} 来查看当前地图最快纪录."
+		"ru"		"{grey}Вы можете посмотреть лучшие результате на карте для выбранного в данный момент режима, набрав {default}!maptop <карта>{grey}."
+	}
+	"!avg"
+	{
+		"en"		"{grey}Type {default}!avg <map> {grey}to see the map's average run time."
+		"chi"		"{grey}聊天框中输入 {default}!avg <map> {grey} 查看地图平均完成时间."
+		"ru"		"{grey}Напишите {default}!avg <карта> {grey}для посмотра среднего времени прохождения карты."
+	}
+	"!pc"
+	{
+		"en"		"{grey}Want to check how many maps and bonuses you've beaten? Type {default}!pc <player> {grey}to find out!"
+		"chi"		"{grey}聊天框中输入{default}!pc <player> {grey}查看你的地图完成进度"
+		"ru"		"{grey}Хотите проверить, сколько карт и бонусов вы прошли? Напишите {default}!pc <игрок>{grey}, чтобы узнать результат!"
+	}
+	"Bonus Commands"
+	{
+		"en"		"{grey}For bonuses, you can use {default}!bwr <bonus>{grey}, {default}!bmaptop <bonus>{grey}, and so on instead of the normal commands."
+		"chi"		"{grey}聊天框中输入 {default}!bwr <bonus>{grey}, {default}!bmaptop <bonus>{grey}, 等指令查看相对应的加成阶级简介."
+		"ru"		"{grey}Для бонусов вы можете использовать {default}!bwr <бонус>{grey}, {default}!bmaptop <бонус>{grey}, и так далее вместо обычных команд."
+	}
+	"MVP Stars"
+	{
+		"en"		"{grey}Your MVP stars represent the percentage of maps and bonuses you've {blue}PRO{grey}'d on the server's default mode."
+		"chi"		"{grey}MVP星星数量是普通模式下以 {blue}裸跳{grey}完成地图的数量以及总地图数量的比例."
+		"ru"		"{grey}Ваши звезды MVP представляют собой процент карт и бонусов, которые вы прошли на {blue}PRO{grey} в обычном режиме сервера."
+	}
+	"!jumptop"
+	{
+		"en"		"{grey}Use the {default}!jumptop{grey} menu to see the server's longest recorded jumps."
+		"ru"		"{grey}Используйте {default}!jumptop{grey} меню для просмотра самых лучших прыжков сервера."
+	}
+}

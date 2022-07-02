@@ -1,482 +1,525 @@
 "Console_T"
 {
-	"** Thanks to Kaemon **"
-	{
-		"chi"		"**感谢: Kaemon **"
-	}
-	"** MAP BY Hannibal [SPA] (Rafuron) **"
-	{
-		"chi"		"** 地图作者: Hannibal [SPA] (Rafuron)  地图汉化: 大明 **"
-	}
-	"** This is the round 0 ** you are playing alone ** wait until more players or suicide **"
-	{
-		"chi"		"** 这是热身回合 ** 你独自游戏 ** 等待更多玩家或自杀 **"
-	}
-	"** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **"
-	{
-		"chi"		"** 本轮游戏将在几秒后开始 ** 请检查你的等级并以此获取对应神器 **"
-	}
-	"** WARMUP ROUND **"
-	{
-		"chi"		"** 热身回合 **"
-		"command"       "ze_weapons_spawn_molotov 0"
-	}
-	"** WARMUP ROUND ** MASSIVE NUKE IN 60 SECONDS **"
-	{
-		"chi"		"** 热身回合 ** 还有60秒 **"
-	}
-	"** Tip 1 : press +use on pickable objects to build barricades **"
-	{
-		"chi"		"** 提示一: 拾取路障按E键可使用 **"
-	}
-	"** Tip 2 : reach and win the end of a stage to level up **"
-	{
-		"chi"		"** 提示二: 通关并赢得胜利即可开启下一回合 **"
-	}
-	"** Tip 3 : take items at zombie and human shops in spawn **"
-	{
-		"chi"		"** 提示三: 在商店可以获取人类or僵尸神器 **"
-	}
-	"** Tip 4 : your current level is your score divided by 100 approximately **"
-	{
-		"chi"		"** 提示四: 四舍五入每一百分为一个等级 **"
-	}
-	"** Tip 5 : barricades health depends on the size and material **"
-	{
-		"chi"		"** 提示五: 路障的HP取决于它的大小和所用的材料 **"
-	}
-	"** Tip 6 : hold spots tend to be long  *  hold as much as possible at previous positions **"
-	{
-		"chi"		"** 提示六: 守点往往很久 * 尽量在前方守住 **"
-	}
-	"** Tip 7 : guards work as stoppers * but you can shoot throught them **"
-	{
-		"chi"		"** 提示七: 卫兵可以阻挡僵尸 * 但是你可以穿过他们 **"
-	}
-	"** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **"
-	{
-		"chi"		"** 提示八: 拥有梯子和炸药桶神器的僵尸对人类威胁非常大, 你必须优先击杀这类僵尸!**"
-	}
-	"** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **"
-	{
-		"chi"		"** 提示九: 你必须把路障放在卫兵后面以获得最大功效 **"
-	}
-	"** Tip 10 : horse and armor (while shield is not broken) items can push zombies **"
-	{
-		"chi"		"** 提示十: 骑兵和盾牌在被打破前可以推动僵尸 **"
-	}
-	"** WARMUP ROUND ** MASSIVE NUKE IN 10 SECONDS **"
-	{
-		"chi"		"** 热身回合 ** 还有10秒 **"
-	}
-	"** Tip 11 : Balrog scream heals near zombies and increases speed temporally **"
-	{
-		"chi"		"** 提示十一: 炎魔的吼叫会治愈并暂时增加附近僵尸的移动速度 **"
-	}
-	"** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **"
-	{
-		"chi"		"** 提示十二: 第四关厕所在第二个塔的顶部(在木制坡道后右转) **"
-	}
-	"**CURRENT STAGE >> PART 1 >> OSGILIATH **"
-	{
-		"chi"		"** 当前阶段 >> 第一阶段 >> 星辰堡垒之战 **"
-	}
-	"** THE ROUND HAS STARTED ** TAKE ONE OF THE PORTALS ** MASSIVE TELEPORTATION IN 20 SECONDS **"
-	{
-		"chi"		"** 游戏开始了 ** 进入其中一个入口 ** 20秒后进行大规模传送 **"
-	}
-	"** THE BOATS ARE COMMING ** PREPARE YOURSELVES **"
-	{
-		"chi"		"** 船来了 ** 做好准备 **"
-	}
-	"** RESIST 20 SECONDS! **"
-	{
-		"chi"		"** 守住23秒 **"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"** RETREAT !! RIVER ZONE IS LOST **"
-	{
-		"chi"		"** 撤退!我们失去了河流区域 **"
-	}
-	"** WATCH OUT! WE ARE UNDER SIEGE **"
-	{
-		"chi"		"** 小心!我们被包围了 **"
-	}
-	"** TAKE THE HORSES (USE AND FORWARDS KEY) **"
-	{
-		"chi"		"** 跳上马背(对着马头部分按E后连续按W使马匹加速)**"
-	}
-	"** ADMIN PRESSED KILL ALL BUTTON **"
-	{
-		"chi"		"** 管理员: 处死全体 **"
-	}
-	"** THE WHITE KNIGHT IS READY ROCK THE WORLD**"
-	{
-		"chi"		"**白衣骑士已准备战斗 **"
-	}
-	"** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**"
-	{
-		"chi"		"** 保卫星辰堡垒!我们不能不战而退!守住30秒 **"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"** OSGILIATH IS LOST ** RETREAT ! **"
-	{
-		"chi"		"** 我们失去了星辰堡垒--奥斯吉利亚斯!现在只能暂且撤退了! **"
-	}
-	"** DOOR IS OPENING **"
-	{
-		"chi"		"** 门开了 **"
-	}
-	"** ZOMBIES ARE COMMING! CLOSE THE DOOR! **"
-	{
-		"chi"		"** 僵尸来了!关上门! **"
-	}
-	"** DOOR IS CLOSED **"
-	{
-		"chi"		"** 门关了 **"
-	}
-	"** STAGE COMPLETED **"
-	{
-		"chi"		"** 阶段已完成 **"
-	}
-	"** KILL THE REMAINING ZOMBIES! **"
-	{
-		"chi"		"** 处理剩余的僵尸! **"
-	}
-	"**CURRENT STAGE >> PART 2 >> MAIN GATES **"
-	{
-		"chi"		"** 当前阶段 >> 第二阶段 >> 主城门 **"
-	}
-	"** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
-	{
-		"chi"		"**...暗影与炽炎的怪物到来了... **"
-	}
-	"** THIS IS OUT OF CONTROL! RETREAT NOW ! **"
-	{
-		"chi"		"** 我们失去了对这里的控制!现在撤退! **"
-	}
-	"** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT**"
-	{
-		"chi"		"** 兽人冲破了我们的防线 ** 快撤**"
-	}
-	"** WATCH OUT! **"
-	{
-		"chi"		"** 当心! **"
-	}
-	"** SIEGE TOWERS HAVE BEEN SET UP ** WE HAVE LOST THE WALLS ** RETREAT **"
-	{
-		"chi"		"** 攻城塔已经建立 ** 我们失去了城墙区域 ** 撤退 **"
-	}
-	"** RETREAT! **"
-	{
-		"chi"		"** 撤! **"
-	}
-	"** THIS IS THE LAST STAND AT FIRST LEVEL ** FIGHT UNTIL THE SIGNAL **"
-	{
-		"chi"		"** 这是第一层的最后一站 ** 战斗到信号出现 **"
-	}
-	"** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **"
-	{
-		"chi"		"** 使用路障可提前锁上大门或者防守60秒! **"
-	}
-	"** DOOR 2 LOCKED **"
-	{
-		"chi"		"** 大门二关闭 **"
-	}
-	"** DOORS LOCKED **"
-	{
-		"chi"		"** 大门已全部关闭 **"
-	}
-	"** DOOR 1 LOCKED **"
-	{
-		"chi"		"** 大门一关闭 **"
-	}
-	"**CURRENT STAGE >> PART 3 >> CATAPULTS **"
-	{
-		"chi"		"**当前阶段 >> 第三阶段 >> 投石车 **"
-	}
-	"** THEY ARE TRYING TO GET IN ** SHOOT! **"
-	{
-		"chi"		"** 他们想进来 ** 射击! **"
-	}
-	"** THEY ARE IN! RETREAT! **"
-	{
-		"chi"		"** 他们进来了!撤退! **"
-	}
-	"** THE LIFT IS LEAVING IN 10 SECONDS **"
-	{
-		"chi"		"** 电梯10秒后离开 **"
 
-	}
-	"** GATES ARE CLOSED ** SOMEONE MUST PRESS THE LEVER **"
-	{
-		"chi"		"** 大门是关上的 ** 必须有人触发开关 **"
-	}
-	"** THE LEVER HAS BEEN PRESSED ** THE GATE IS OPENING IN 10 SECONDS ! **"
-	{
-		"chi"		"** 开关已触发 ** 大门在10秒后打开! **"
+    "** (DUNGEONS) ** HOLD UNTIL THE HORN SIGNAL **"
+    {
+        "chi" "**(地牢)**战斗到号角信号出现 **"
+    }
 
-	}
-	"** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **"
-	{
-		"chi"		"** 使用投石车继续防守米纳斯城 **"
-	}
-	"** Catapult 1 activated **"
-	{
-		"chi"		"** 一号投石车激活 **"
-	}
-	"** Catapult 2 activated **"
-	{
-		"chi"		"** 二号投石车激活 **"
-	}
-	"** NICE DONE! METAL GATE WILL OPEN IN 10 SECONDS! **"
-	{
-		"chi"		"** 好了!金属栅栏10秒后打开 **"
+    "** (LIBRARY) ** HOLD HERE! ** WAIT UNTIL HORN SIGNAL! **"
+    {
+        "chi" "**(图书馆)**在这里守住!*等待号角信号! **"
+    }
 
-	}
-	"** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *"
-	{
-		"chi"		"** 保护大楼直到平民撤离! **"
-	}
-	"** DEFEND THIS PLACE FOR 35 SECONDS **"
-	{
-		"chi"		"** 守住这里35秒 **"
+    "** .. THE CREATURE OF SHADOW AND FIRE IS HERE ... **"
+    {
+        "chi" "**...暗影与炽炎的怪物到来了... **"
+    }
 
-	}
-	"** WAIT FOR SOME SECONDS! OTHER SURVIVORS COULD COME **"
-	{
-		"chi"		"** 再等待几秒, 可能还有其他的幸存者正在赶来 **"
-	}
-	"** ALL GET IN!! ** PREPARE YOUR LAST DEFENSE **"
-	{
-		"chi"		"** 所有人都进来!准备最后的防御 **"
-	}
-	"** DEFEND THIS PLACE FOR 70 SECONDS! **"
-	{
-		"chi"		"** 守住这个地方70秒 **"
+    "** A DOOR IS OPEN ** RUN UPSTAIRS ** GO GO GO **"
+    {
+        "chi" "一扇门是开着的**跑上楼**GO GO GO**"
+    }
 
-	}
-	"** THE POSITION IS LOST ** RETREAT **"
-	{
-		"chi"		"** 我们失去了这个位置 ** 撤退 **"
-	}
-	"** DOORS UNLOCKED ** RETREAT ! **"
-	{
-		"chi"		"** 门开了 ** 撤退! **"
-	}
-	"** STAGE 3 COMPLETED **"
-	{
-		"chi"		"** 第三阶段已完成 **"
-		"command"       "ze_weapons_spawn_molotov 2"
-	}
-	"** WE HAVE LOST THE POSTION ** FALL BACK **"
-	{
-		"chi"		"**我们失去了这个位置 ** 撤退 **"
-	}
-	"** CURRENT STAGE >> PART 4 >> THE LAST STAND **"
-	{
-		"chi"		"** 当前阶段 >> 第四阶段 >> 背水一战 **"
-	}
-	"** DOORS WILL OPEN SOON ** WAIT SOME SECONDS **"
-	{
-		"chi"		"** 大门将很快打开 ** 稍等一会 **"
-	}
-	"** DOORS ARE UNLOCKED NOW **"
-	{
-		"chi"		"** 门开了 **"
-	}
-	"** (LIBRARY) ** HOLD HERE! ** WAIT UNTIL HORN SIGNAL! **"
-	{
-		"chi"		"**(图书馆)**在这里守住!*等待号角信号! **"
-	}
-	"** FALL BACK! **"
-	{
-		"chi"		"** 撤退! **"
-	}
-	"** (DUNGEONS) ** HOLD UNTIL THE HORN SIGNAL **"
-	{
-		"chi"		"**(地牢)**战斗到号角信号出现 **"
-	}
-	"** WE ARE TRAPPED! FIGHT FOR YOUR LIVES!  **"
-	{
-		"chi"		"** 我们被困住了!为了你的生命而战 **"
-	}
-	"** THE CEILING HAS COLLAPSED ** CLIMB THE BROKEN WALL! **"
-	{
-		"chi"		"** 天花板塌了 ** 爬上断墙 **"
-	}
-	"** WE ARE NEAR THE TOP OF MINAS TIRITH  ** HOLD THIS PLACE FOR 30 SECONDS **"
-	{
-		"chi"		"** 我们目前在米纳斯的顶部附近 ** 守住这里30秒 **"
+    "** ADMIN PRESSED KILL ALL BUTTON **"
+    {
+        "chi" "** 管理员: 处死全体 **"
+    }
 
-	}
-	"** LIFT IS LEAVING IN 10 SECONDS **"
-	{
-		"chi"		"** 升降梯10秒后离开 **"
+    "** ALL GET IN!! ** PREPARE YOUR LAST DEFENSE **"
+    {
+        "chi" "** 所有人都进来!准备最后的防御 **"
+    }
 
-	}
-	"** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **"
-	{
-		"chi"		"** 幽灵军队来了!准备最后的防守! **"
+    "** All humans at bottom part will die in 15 seconds **"
+    {
+        "chi" "** 底层的所有人都会在15秒后被兽人大军淹没**"
+    }
 
-	}
-	"** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **"
-	{
-		"chi"		"** 守住大门!以便后面防御它们**"
-	}
-	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **"
-	{
-		"chi"		"** 门打开了 ** 爬上米纳斯顶端 ** 生存80秒**"
-	}
-	"** All humans at bottom part will die in 15 seconds **"
-	{
-		"chi"		"** 底层的所有人都会在15秒后被兽人大军淹没**"
-	}
-	"** THIS IS THE LAST POINT OF THE MAP ** SURVIVE THE REMAINING TIME **"
-	{
-		"chi"		"** 背水一战!**"
-	}
-	"** STAGE 4 COMPLETE ** STARTING AGAIN IN EXTREME MODE! **"
-	{
-		"chi"		"** 阶段四已完成 ** 极限模组加载中... **"
-	}
-	"** EXTREME MODE : ON **"
-	{
-		"chi"		"** 极限模组: 已载入 **"
-	}
-	"** ENABLED BLUE COLORCORRECTION AND PARTICLES **"
-	{
-		"chi"		"** 启用蓝色校正和粒子特效校正 **"
-	}
-	"** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 4**"
-	{
-		"chi"		"** 所有僵尸的神器都已解锁, 但是没有四级 **"
-	}
-	"** CONSTANT METEOR HAS BEEN ENABLED **"
-	{
-		"chi"		"** 天谴模组: 已加载 **"
-	}
-	"** INCREASED NUMBER OF NAZGULS **"
-	{
-		"chi"		"** 戒灵的数量增加 **"
-	}
-	"** ENABLED FAST RESPAWN **"
-	{
-		"chi"		"** 快速重生: 开启 **"
-	}
-	"** LVL 0 PLAYERS LEVEL UP TO 1 AUTOMATICALLY **"
-	{
-		"chi"		"**神器等级0的玩家自动升至一级 **"
-	}
-	"** KILL THE REMAINING ZOMBIES **"
-	{
-		"chi"		"** 处理剩余的僵尸 **"
-	}
-	"** Tip 13 : Gandalf +You shall not pass!+ is DAWS and White Knight is AADDSWSW **"
-	{
-		"chi"		"**提示十三: 技能提示--甘道夫: DAWDS 白骑: AADDSWSW**"
-	}
-	"** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT **"
-	{
-		"chi"		"** 兽人冲破了我们的防线 ** 撤退 **"
-	}
-	"** THIS IS THE MOMENT OF THE TRUTH ** FIGHT LIKE YOU HAVE NEVER FIGHTED BEFORE! **"
-	{
-		"chi"		"** 这是最后的时刻 ** 如此激烈的战斗此生未见! **"
-	}
-	"** UNLIMITED AMMO ON **"
-	{
-		"chi"		"**无限弹药: 开启 **"
-	}
-	"** YOU DID IT ** YOU WON THE MAP ON ITS HARDEST DIFFICULT ** UNLOCKED ALL ITEMS **"
-	{
-		"chi"		"** 你做到了 ** 你战胜了这张地图 ** 解锁所有神器 **"
-	}
-	"** FEEL FREE TO RTV THE MAP **"
-	{
-		"chi"		"** 你可以随时RTV **"
-	}
-	"** Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately **"
-	{
-		"chi"		"** 提示四: 四舍五入每一百分为一个等级 **"
-	}
-	"** Tip 13 : Gandalf +You shall not pass!+ is DAWDS and White Knight is AADDSWSW **"
-	{
-		"chi"		"**提示十三: 技能提示--甘道夫: DAWDS 白骑: AADDSWSW**"
-	}
-	"** STARTING AT FIRST LEVEL! **"
-	{
-		"chi"		"** 从第一阶段开始 **"
-                "command"       "ze_weapons_spawn_molotov 0"
-	}
-	"** RESIST 25 SECONDS! **"
-	{
-		"chi"		"** 守住25秒 **"
+    "** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 5**"
+    {
+        "chi" "** 所有僵尸神器全部解锁, 但是没有5级**"
+    }
 
-	}
-	"** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS **"
-	{
-		"chi"		"** 热身回合 ** 热身回合10秒后结束**"
-	}
-	"** WARMUP ROUND IS OVER! **"
-	{
-		"chi"		"** 热身回合结束 **"
-	}
+    "** Catapult 1 activated **"
+    {
+        "chi" "** 一号投石车激活 **"
+    }
 
-	"** ALL ITEMS FOR ZOMBIE HAVE BEEN UNLOCKED BUT NOT LVL 5**"
-	{
-		"chi"		"** 所有僵尸神器全部解锁, 但是没有5级**"
-	}
-	"** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS **"
-	{
-		"chi"		"** 热身回合 ** 还有60秒 **"
-	}
-	"** MAP BY Hannibal [SPA] (Rafuron)  Map modified by Rulucy **"
-	{
-		"chi"		"** 地图修正: Rulucy **"
-	}
-	"** (LIBRARY) ** DOORS WILL OPEN SOON ** WAIT SOME SECONDS **"
-	{
-		"chi"		"** (图书馆)** 门很快就会打开 ** 稍等片刻 **"
-	}
-	"** (LIBRARY) ** DOORS ARE UNLOCKED NOW **"
-	{
-		"chi"		"** (图书馆)** 门现在已解锁 **"
-	}
-	"** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 90 SECONDS **"
-	{
-		"chi"		"** 通道打开 ** 到达米纳斯提利斯山顶 ** 存活90秒 **"
-	}
-	"** ZE_SUPERSHITSHOW **"
-	{
-		"chi"		"** **"
-	}
-	"** A mode will be chosen shortly... **"
-	{
-		"chi"		"** 很快就会选择一个模式...**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	">> Map by TaskuVaras and Moltard <<"
-	{
-		"chi"		"** **"
-	}
-	"*** WARMUP ROUND (60 sec) ***"
-	{
-		"chi"		"** 热身回合 ** 60秒 **"
-	}
-	"*** Map By Nostar & Moltard ***"
-	{
-		"chi"		"** **"
-	}
-	"** MAP BY Hannibal [SPA] (Rafuron)  Map modified by Rulucy&Koyomaple **"
-	{
-		"chi"		"**地图修正: [Rulucy][Koyomaple]**"
-	}
-	"** This is the first round. Wait for more players to restart round or suicide. **"
-	{
-		"chi"		"** 这是第一轮.等待更多玩家重启回合或自杀. **"
-	}
+    "** Catapult 2 activated **"
+    {
+        "chi" "** 二号投石车激活 **"
+    }
+
+    "** CONSTANT METEOR HAS BEEN ENABLED **"
+    {
+        "chi" "** 天谴模组: 已加载 **"
+    }
+
+    "** CURRENT STAGE >> PART 4 >> THE LAST STAND **"
+    {
+        "chi" "** 当前阶段 >> 第四阶段 >> 背水一战 **"
+    }
+
+    "** DEFEND OSGILIATH! WE ARE NOT LEAVING THIS PLACE WITHOUT FIGHT! (30 SECONDS)**"
+    {
+        "chi" "** 保卫星辰堡垒!我们不能不战而退!守住30秒 **"
+    }
+
+    "** DEFEND THE MAIN GATE IN ORDER TO CONTINUE THE DEFENSE AT TOP OF MINAS TIRITH ! **"
+    {
+        "chi" "** 守住大门!以便后面防御它们**"
+    }
+
+    "** DEFEND THIS PLACE FOR 35 SECONDS **"
+    {
+        "chi" "** 守住这里35秒 **"
+    }
+
+    "** DEFEND THIS PLACE FOR 70 SECONDS! **"
+    {
+        "chi" "** 守住这个地方70秒 **"
+    }
+
+    "** DOOR 1 LOCKED **"
+    {
+        "chi" "** 大门一关闭 **"
+    }
+
+    "** DOOR 2 LOCKED **"
+    {
+        "chi" "** 大门二关闭 **"
+    }
+
+    "** DOOR IS CLOSED **"
+    {
+        "chi" "** 门关了 **"
+    }
+
+    "** DOOR IS OPENING **"
+    {
+        "chi" "** 门开了 **"
+    }
+
+    "** DOORS ARE UNLOCKED NOW **"
+    {
+        "chi" "** 门开了 **"
+    }
+
+    "** DOORS LOCKED **"
+    {
+        "chi" "** 大门已全部关闭 **"
+    }
+
+    "** DOORS UNLOCKED ** RETREAT ! **"
+    {
+        "chi" "** 门开了 ** 撤退! **"
+    }
+
+    "** DOORS WILL OPEN SOON ** WAIT SOME SECONDS **"
+    {
+        "chi" "** 大门将很快打开 ** 稍等一会 **"
+    }
+
+    "** ENABLED BLUE COLORCORRECTION AND PARTICLES **"
+    {
+        "chi" "** 启用蓝色校正和粒子特效校正 **"
+    }
+
+    "** EXTREME MODE : ON **"
+    {
+        "chi" "** 极限模组: 已载入 **"
+    }
+
+    "** FALL BACK! **"
+    {
+        "chi" "** 撤退! **"
+    }
+
+    "** FEEL FREE TO RTV THE MAP **"
+    {
+        "chi" "** 你可以随时RTV **"
+    }
+
+    "** GATES ARE CLOSED ** SOMEONE MUST PRESS THE LEVER **"
+    {
+        "chi" "** 大门是关上的 ** 必须有人触发开关 **"
+    }
+
+    "** INCREASED NUMBER OF NAZGULS **"
+    {
+        "chi" "** 戒灵的数量增加 **"
+    }
+
+    "** KILL THE REMAINING ZOMBIES **"
+    {
+        "chi" "** 处理剩余的僵尸 **"
+    }
+
+    "** KILL THE REMAINING ZOMBIES! **"
+    {
+        "chi" "** 处理剩余的僵尸! **"
+    }
+
+    "** LIFT IS LEAVING IN 10 SECONDS **"
+    {
+        "chi" "** 升降梯10秒后离开 **"
+    }
+
+    "** LVL 0 PLAYERS LEVEL UP TO 1 AUTOMATICALLY **"
+    {
+        "chi" "**神器等级0的玩家自动升至一级 **"
+    }
+
+    "** MAP BY Hannibal [SPA] (Rafuron) **"
+    {
+        "chi" "** 地图作者: Hannibal [SPA] (Rafuron)  地图汉化: 大明 **"
+    }
+
+    "** NICE DONE! METAL GATE WILL OPEN IN 10 SECONDS! **"
+    {
+        "chi" "** 好了!金属栅栏10秒后打开 **"
+    }
+
+    "** ORCS HAVE IRRUPTED THROUGH OUR DEFENSES ** RETREAT **"
+    {
+        "chi" "** 兽人冲破了我们的防线 ** 撤退 **"
+    }
+
+    "** OSGILIATH IS LOST ** RETREAT ! **"
+    {
+        "chi" "** 我们失去了星辰堡垒--奥斯吉利亚斯!现在只能暂且撤退了! **"
+    }
+
+    "** PROTECT THE BUILDING UNTIL CIVILIAN EVACUATION! *"
+    {
+        "chi" "** 保护大楼直到平民撤离! **"
+    }
+
+    "** RESIST 25 SECONDS! **"
+    {
+        "chi" "** 守住25秒 **"
+    }
+
+    "** RETREAT !! RIVER ZONE IS LOST **"
+    {
+        "chi" "** 撤退!我们失去了河流区域 **"
+    }
+
+    "** RETREAT! **"
+    {
+        "chi" "** 撤! **"
+    }
+
+    "** SIEGE TOWERS HAVE BEEN SET UP ** WE HAVE LOST THE WALLS ** RETREAT **"
+    {
+        "chi" "** 攻城塔已经建立 ** 我们失去了城墙区域 ** 撤退 **"
+    }
+
+    "** STAGE 3 COMPLETED **"
+    {
+        "chi" "** 第三阶段已完成 **"
+    }
+
+    "** STAGE 4 COMPLETE ** STARTING AGAIN IN EXTREME MODE! **"
+    {
+        "chi" "** 阶段四已完成 ** 极限模组加载中... **"
+    }
+
+    "** STAGE COMPLETED **"
+    {
+        "chi" "** 阶段已完成 **"
+    }
+
+    "** STARTING AT FIRST LEVEL! **"
+    {
+        "chi" "** 从第一阶段开始 **"
+    }
+
+    "** TAKE THE HORSES (USE AND FORWARDS KEY) **"
+    {
+        "chi" "** 跳上马背(对着马头部分按E后连续按W使马匹加速)**"
+    }
+
+    "** Thanks to Kaemon **"
+    {
+        "chi" "**感谢: Kaemon **"
+    }
+
+    "** THE BOATS ARE COMMING ** PREPARE YOURSELVES **"
+    {
+        "chi" "** 船来了 ** 做好准备 **"
+    }
+
+    "** THE CEILING HAS COLLAPSED ** CLIMB THE BROKEN WALL! **"
+    {
+        "chi" "** 天花板塌了 ** 爬上断墙 **"
+    }
+
+    "** THE GHOST ARMY IS COMING! PREPARE YOURSELVES FOR THE LAST DEFENSE ! **"
+    {
+        "chi" "** 幽灵军队来了!准备最后的防守! **"
+    }
+
+    "** THE LEVER HAS BEEN PRESSED ** THE GATE IS OPENING IN 10 SECONDS ! **"
+    {
+        "chi" "** 开关已触发 ** 大门在10秒后打开! **"
+    }
+
+    "** THE LIFT IS LEAVING IN 10 SECONDS **"
+    {
+        "chi" "** 电梯10秒后离开 **"
+    }
+
+    "** THE POSITION IS LOST ** RETREAT **"
+    {
+        "chi" "** 我们失去了这个位置 ** 撤退 **"
+    }
+
+    "** THE ROUND HAS STARTED ** TAKE ONE OF THE PORTALS ** MASSIVE TELEPORTATION IN 20 SECONDS **"
+    {
+        "chi" "** 游戏开始了 ** 进入其中一个入口 ** 20秒后进行大规模传送 **"
+    }
+
+    "** THE ROUND WILL START IN FEW SECONDS ** CHECK YOUR LEVEL AND PROCEED TO BUY AN ITEM **"
+    {
+        "chi" "** 本轮游戏将在几秒后开始 ** 请检查你的等级并以此获取对应神器 **"
+    }
+
+    "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 80 SECONDS **"
+    {
+        "chi" "** 门打开了 ** 爬上米纳斯顶端 ** 生存80秒**"
+    }
+
+    "** THE WHITE KNIGHT IS READY ROCK THE WORLD**"
+    {
+        "chi" "**白衣骑士已准备战斗 **"
+    }
+
+    "** THEY ARE IN! RETREAT! **"
+    {
+        "chi" "** 他们进来了!撤退! **"
+    }
+
+    "** THEY ARE TRYING TO GET IN ** SHOOT! **"
+    {
+        "chi" "** 他们想进来 ** 射击! **"
+    }
+
+    "** This is the first round. Wait for more players to restart round or suicide. **"
+    {
+        "chi" "** 这是第一轮.等待更多玩家重启回合或自杀. **"
+    }
+
+    "** THIS IS THE LAST POINT OF THE MAP ** SURVIVE THE REMAINING TIME **"
+    {
+        "chi" "** 背水一战!**"
+    }
+
+    "** THIS IS THE LAST STAND AT FIRST LEVEL ** FIGHT UNTIL THE SIGNAL **"
+    {
+        "chi" "** 这是第一层的最后一站 ** 战斗到信号出现 **"
+    }
+
+    "** THIS IS THE MOMENT OF THE TRUTH ** FIGHT LIKE YOU HAVE NEVER FIGHTED BEFORE! **"
+    {
+        "chi" "** 这是最后的时刻 ** 如此激烈的战斗此生未见! **"
+    }
+
+    "** Tip 1 : press +use on pickable objects to build barricades **"
+    {
+        "chi" "提示一:在可拾取的物体上按+使用以建造路障"
+    }
+
+    "** Tip 10 : horse and armor (while shield is not broken) items can push zombies **"
+    {
+        "chi" "** 提示十: 骑兵和盾牌在被打破前可以推动僵尸 **"
+    }
+
+    "** Tip 11 : Balrog scream heals near zombies and increases speed temporally **"
+    {
+        "chi" "** 提示十一: 炎魔的吼叫会治愈并暂时增加附近僵尸的移动速度 **"
+    }
+
+    "** Tip 12 : the stage 4 WC is in the top of the second tower (turn right after the wooden ramp) **"
+    {
+        "chi" "** 提示十二: 第四关厕所在第二个塔的顶部(在木制坡道后右转) **"
+    }
+
+    "** Tip 13 : Gandalf +You shall not pass!+ is DAWDS and White Knight is AADDSWSW **"
+    {
+        "chi" "**提示十三: 技能提示--甘道夫: DAWDS 白骑: AADDSWSW**"
+    }
+
+    "** Tip 2 : reach and win the end of a stage to level up **"
+    {
+        "chi" "提示二:到达并赢得一个阶段的结束升级"
+    }
+
+    "** Tip 3 : take items at zombie and human shops in spawn **"
+    {
+        "chi" "提示三:在生成中的僵尸和人类商店中获取物品"
+    }
+
+    "** Tip 4 : your current level is always displayed on new rounds or your kill score divided by 100 approximately **"
+    {
+        "chi" "** 提示四: 四舍五入每一百分为一个等级 **"
+    }
+
+    "** Tip 5 : barricades health depends on the size and material **"
+    {
+        "chi" "** 提示五: 路障的HP取决于它的大小和所用的材料 **"
+    }
+
+    "** Tip 6 : hold spots tend to be long  *  hold as much as possible at previous positions **"
+    {
+        "chi" "** 提示六: 守点往往很久 * 尽量在前方守住 **"
+    }
+
+    "** Tip 7 : guards work as stoppers * but you can shoot throught them **"
+    {
+        "chi" "** 提示七: 卫兵可以阻挡僵尸 * 但是你可以穿过他们 **"
+    }
+
+    "** Tip 8 : the ladder and bomb items are powerful items * you must kill these zombies the first! **"
+    {
+        "chi" "** 提示八: 拥有梯子和炸药桶神器的僵尸对人类威胁非常大, 你必须优先击杀这类僵尸!**"
+    }
+
+    "** Tip 9 : you must put the barricades BEHIND the guards to get maximum efficacy **"
+    {
+        "chi" "** 提示九: 你必须把路障放在卫兵后面以获得最大功效 **"
+    }
+
+    "** UNLIMITED AMMO ON **"
+    {
+        "chi" "**无限弹药: 开启 **"
+    }
+
+    "** USE THE BARRICADES TO LOCK THE GATES OR DEFEND 60 SECONDS ! **"
+    {
+        "chi" "** 使用路障可提前锁上大门或者防守60秒! **"
+    }
+
+    "** USE THE CATAPULTS IN ORDER TO CONTINUE THE MINAS TIRITH DEFENSE! **"
+    {
+        "chi" "** 使用投石车继续防守米纳斯城 **"
+    }
+
+    "** WAIT FOR SOME SECONDS! OTHER SURVIVORS COULD COME **"
+    {
+        "chi" "** 再等待几秒, 可能还有其他的幸存者正在赶来 **"
+    }
+
+    "** WARMUP ROUND **"
+    {
+        "chi" "** 热身回合 **"
+    }
+
+    "** WARMUP ROUND ** ROUND RESTART IN 10 SECONDS **"
+    {
+        "chi" "预热回合 ** 在 10 秒内完成回合重启**"
+    }
+
+    "** WARMUP ROUND ** ROUND RESTART IN 60 SECONDS **"
+    {
+        "chi" "预热回合 ** 在 60 秒内完成回合重启**"
+    }
+
+    "** WARMUP ROUND IS OVER! **"
+    {
+        "chi" "** 热身回合结束 **"
+    }
+
+    "** WATCH OUT! **"
+    {
+        "chi" "** 当心! **"
+    }
+
+    "** WATCH OUT! WE ARE UNDER SIEGE **"
+    {
+        "chi" "** 小心!我们被包围了 **"
+    }
+
+    "** WE ARE NEAR THE TOP OF MINAS TIRITH  ** HOLD THIS PLACE FOR 30 SECONDS **"
+    {
+        "chi" "** 我们目前在米纳斯的顶部附近 ** 守住这里30秒 **"
+    }
+
+    "** WE ARE TRAPPED! FIGHT FOR YOUR LIVES!  **"
+    {
+        "chi" "** 我们被困住了!为了你的生命而战 **"
+    }
+
+    "** WE HAVE LOST THE POSTION ** FALL BACK **"
+    {
+        "chi" "**我们失去了这个位置 ** 撤退 **"
+    }
+
+    "** YOU DID IT ** YOU WON THE MAP ON ITS HARDEST DIFFICULT ** UNLOCKED ALL ITEMS **"
+    {
+        "chi" "** 你做到了 ** 你战胜了这张地图 ** 解锁所有神器 **"
+    }
+
+    "** ZOMBIES ARE COMMING! CLOSE THE DOOR! **"
+    {
+        "chi" "** 僵尸来了!关上门! **"
+    }
+
+    "*** This map is a port in progress and is not currently available to play on your server. Feel free to change map. ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "**CURRENT STAGE >> PART 1 >> OSGILIATH **"
+    {
+        "chi" "** 当前阶段 >> 第一阶段 >> 星辰堡垒之战 **"
+    }
+
+    "**CURRENT STAGE >> PART 2 >> MAIN GATES **"
+    {
+        "chi" "** 当前阶段 >> 第二阶段 >> 主城门 **"
+    }
+
+    "**CURRENT STAGE >> PART 3 >> CATAPULTS **"
+    {
+        "chi" "**当前阶段 >> 第三阶段 >> 投石车 **"
+    }
+
+    "** RESIST 20 SECONDS! **"
+    {
+        "chi" "** 防守20秒! **"
+    }
+
+    "** THIS IS OUT OF CONTROL! RETREAT NOW ! **"
+    {
+        "chi" "** 这里失去了控制!撤退! **"
+    }
+
+    "** (LIBRARY) ** DOORS WILL OPEN SOON ** WAIT SOME SECONDS **"
+    {
+        "chi" "**(图书馆)**门即将打开**等一会儿**"
+    }
+
+    "** (LIBRARY) ** DOORS ARE UNLOCKED NOW **"
+    {
+        "chi" "**(图书馆)**门现已解锁**"
+    }
+
+    "** THE WAYS ARE OPENED ** REACH THE TOP OF MINAS TIRITH ** SURVIVE 90 SECONDS **"
+    {
+        "chi" "**道路打开**到达米纳斯的顶端**存活90秒**"
+    }
+
 }

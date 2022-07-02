@@ -1,23 +1,21 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
 
-    "Locked against repetition."
-    {
-        "chi" "为防止重复选图 地图锁已启动."
-    }
 
-    "Headshot mode enabled."
+    "@[Map] AFK KILLER"
     {
-        "chi" "爆头模式已开启."
-    }
-
-    "Map by Arcaninesy"
-    {
-        "chi" "地图作者: Zetzui 地图汉化: 圣剑 @风云社"
+        "chi" "挂机玩家已处死"
     }
 
     "30 seconds remaining."
@@ -25,9 +23,104 @@
         "chi" "还剩30秒"
     }
 
-    "You have one minute."
+    "Boxes disappear in 1 second."
     {
-        "chi" "你有一分钟的时间"
+        "blocked" "1"
+    }
+
+    "Boxes disappear in 10 seconds."
+    {
+        "blocked" "1"
+    }
+
+    "Boxes disappear in 2 seconds."
+    {
+        "blocked" "1"
+    }
+
+    "Boxes disappear in 3 seconds."
+    {
+        "blocked" "1"
+    }
+
+    "Boxes disappear in 30 seconds."
+    {
+        "chi" "箱子将会在30秒钟后消失."
+    }
+
+    "Cannons disabled in ten seconds."
+    {
+        "chi" "大炮将会在10秒钟后关闭."
+    }
+
+    "Cannons disabled."
+    {
+        "chi" "大炮已关闭."
+    }
+
+    "Cover disappears in 1 second."
+    {
+        "blocked" "1"
+    }
+
+    "Cover disappears in 10 seconds."
+    {
+        "blocked" "1"
+    }
+
+    "Cover disappears in 2 seconds."
+    {
+        "blocked" "1"
+    }
+
+    "Cover disappears in 3 seconds."
+    {
+        "blocked" "1"
+    }
+
+    "Cover disappears in 30 seconds."
+    {
+        "chi" "掩体将会在30秒钟后消失."
+    }
+
+    "Good luck!"
+    {
+        "chi" "祝好运!"
+    }
+
+    "Headshot mode enabled."
+    {
+        "chi" "爆头模式已开启."
+    }
+
+    "Headshot/backstab mode enabled."
+    {
+        "chi" "爆头/背刺 模式已开启."
+    }
+
+    "Locked against repetition."
+    {
+        "chi" "为防止重复选图 地图锁已启动."
+    }
+
+    "Map by Arcaninesy"
+    {
+        "chi" "地图作者: Zetzui 地图汉化: 圣剑 @风云社"
+    }
+
+    "No remaining players to teleport. Dividing walls have been broken."
+    {
+        "chi" "没有剩余玩家可以传送. 分界墙已消失."
+    }
+
+    "One"
+    {
+        "chi" "1"
+    }
+
+    "Random!"
+    {
+        "chi" "随机地图!"
     }
 
     "Three"
@@ -40,102 +133,9 @@
         "chi" "2"
     }
 
-    "One"
+    "You have one minute."
     {
-        "chi" "1"
-    }
-
-    "Good luck!"
-    {
-        "chi" "祝好运!"
-    }
-
-    "@[Map] AFK KILLER"
-    {
-        "chi" "挂机玩家已处死"
-    }
-
-    "Boxes disappear in 30 seconds."
-    {
-        "chi" "箱子将会在30秒钟后消失."
-    }
-
-    "Boxes disappear in 1 second."
-    {
-        "blocked" "1"
-        "chi" "箱子将会在1秒钟后消失."
-    }
-
-    "Boxes disappear in 2 seconds."
-    {
-        "blocked" "1"
-        "chi" "箱子将会在2秒钟后消失."
-    }
-
-    "Boxes disappear in 3 seconds."
-    {
-        "blocked" "1"
-        "chi" "箱子将会在3秒钟后消失."
-    }
-
-    "Boxes disappear in 10 seconds."
-    {
-        "blocked" "1"
-        "chi" "箱子将会在10秒钟后消失."
-    }
-
-    "Cover disappears in 30 seconds."
-    {
-        "chi" "掩体将会在30秒钟后消失."
-    }
-
-    "Cover disappears in 10 seconds."
-    {
-        "blocked" "1"
-        "chi" "掩体将会在10秒钟后消失."
-    }
-
-    "Cover disappears in 3 seconds."
-    {
-        "blocked" "1"
-        "chi" "掩体将会在3秒钟后消失."
-    }
-
-    "Cover disappears in 2 seconds."
-    {
-        "blocked" "1"
-        "chi" "掩体将会在2秒钟后消失."
-    }
-
-    "Cover disappears in 1 second."
-    {
-        "blocked" "1"
-        "chi" "掩体将会在1秒钟后消失."
-    }
-
-    "Cannons disabled."
-    {
-        "chi" "大炮已关闭."
-    }
-
-    "Cannons disabled in ten seconds."
-    {
-        "chi" "大炮将会在10秒钟后关闭."
-    }
-
-    "Random!"
-    {
-        "chi" "随机地图!"
-    }
-
-    "No remaining players to teleport. Dividing walls have been broken."
-    {
-        "chi" "没有剩余玩家可以传送. 分界墙已消失."
-    }
-
-    "Headshot/backstab mode enabled."
-    {
-        "chi" "爆头/背刺 模式已开启."
+        "chi" "你有一分钟的时间"
     }
 
 }

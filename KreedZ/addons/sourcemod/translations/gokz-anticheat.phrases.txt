@@ -1,0 +1,56 @@
+"Phrases"
+{
+	// =====[ GENERAL ]=====
+	"Perfs"
+	{
+		"en"		"Perfs"
+		"chi"		"Perfs"
+		"ru"		"Perfs"
+	}
+	"Average"
+	{
+		"en"		"Average"
+		"chi"		"Average"
+		"ru"		"Average"
+	}
+	"Pattern"
+	{
+		"en"		"Pattern"
+		"chi"		"Pattern"
+		"ru"		"Pattern"
+	}
+
+
+	// =====[ CHAT MESSAGES ]=====
+	"Anti-Cheat Warning"
+	{
+		"en"		"{darkred}WARNING! The use of software, macros, hyperscroll, or any other external assistance to aid character movement is strictly not allowed and may result in an automatic ban."
+		"chi"		"{darkred}警告!一经发现任何作弊行为,将立即封禁,毫不留情!"
+		"ru"		"{darkred}Внимание! Любое использование ПО, читов, макросов для облегчения игры строго запрещено!"
+	}
+	"Not Enough Bhops"
+	{
+		// Bill has not bhopped enough for a bhop check.
+		"#format"	"{1:N}"
+		"en"		"{lime}{1} {grey}has not bhopped enough for a bhop check."
+		"chi"		"{lime}{1} {grey}BHOP距离未通过BHOP检查."
+		"ru"		"{lime}{1} {grey}не хватает bhop для его проверки."
+		}
+	"Not Enough Bhops (Self)"
+	{
+		"en"		"{grey}You have not bhopped enough for a bhop check."
+		"chi"		"{grey}你的BHOP距离未通过BHOP检查."
+		"ru"		"{grey}У вас не хватает bhop для его проверки."
+	}
+
+
+	// =====[ CONSOLE MESSAGES ]=====
+	"Not Enough Bhops (Console)"
+	{
+		// Bill has not bhopped enough for a bhop check. Skipping...
+		"#format"	"{1:N}"
+		"en"		"{1} has not bhopped enough for a bhop check. Skipping..."
+		"chi"		"{1} BHOP距离未通过BHOP检查,跳过...."
+		"ru"		"{1} не хватило bhop для его проверки. Пропускаю..."
+	}
+}

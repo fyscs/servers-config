@@ -1,13 +1,19 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    ">> Hold 3 Seconds <<"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    ">> Door Will Open In 15 Seconds <<"
     {
-        "chi" "**坚守3秒 **"
+        "chi" "**大门将于15秒后打开 **"
     }
 
     ">> Escape Success <<"
@@ -15,24 +21,9 @@
         "chi" "**成功逃脱 **"
     }
 
-    ">> Zombie Escaped <<"
+    ">> Hold 12 Seconds <<"
     {
-        "chi" "**僵尸逃脱 **"
-    }
-
-    ">> Door Will Open In 15 Seconds <<"
-    {
-        "chi" "**大门将于15秒后打开 **"
-    }
-
-    ">> This map is based on CSO ze_bloodcastle <<"
-    {
-        "chi" "**这张图是基于CSO ze_bloodcastle的 **"
-    }
-
-    ">> Map by Hestia <<"
-    {
-        "chi" "**地图作者:Hestia 汉化:龙鸣 **"
+        "chi" "**坚守12秒 **"
     }
 
     ">> Hold 25 Seconds <<"
@@ -40,14 +31,29 @@
         "chi" "**坚守25秒 **"
     }
 
-    ">> Hold 12 Seconds <<"
+    ">> Hold 3 Seconds <<"
     {
-        "chi" "**坚守12秒 **"
+        "chi" "**坚守3秒 **"
     }
 
     ">> Hold 5 Seconds <<"
     {
         "chi" "**坚守5秒 **"
+    }
+
+    ">> Map by Hestia <<"
+    {
+        "chi" "**地图作者:Hestia 汉化:龙鸣 **"
+    }
+
+    ">> This map is based on CSO ze_bloodcastle <<"
+    {
+        "chi" "**这张图是基于CSO ze_bloodcastle的 **"
+    }
+
+    ">> Zombie Escaped <<"
+    {
+        "chi" "**僵尸逃脱 **"
     }
 
 }

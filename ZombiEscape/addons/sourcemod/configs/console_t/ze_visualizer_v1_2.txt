@@ -1,163 +1,174 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
     "| 10 |"
     {
-        "chi" "** **"
-    }
-
-    "| 5 |"
-    {
-        "chi" "** **"
-    }
-
-    "| Loading stage 1.. |"
-    {
-        "chi" "**|读取第一关|**"
-    }
-
-    "| Loading stage 2.. |"
-    {
-        "chi" "**|读取第二关|**"
-    }
-
-    "| Loading stage 3.. |"
-    {
-        "chi" "**|读取第三关|**"
-    }
-
-    "| Loading stage 4.. |"
-    {
-        "chi" "**|读取第四关|**"
-    }
-
-    "| Loading stage 5.. |"
-    {
-        "chi" "**|读取第五关|**"
-    }
-
-    "| Loading stage 6.. |"
-    {
-        "chi" "**|读取第六关|**"
-    }
-
-    "| Gravity ball |"
-    {
-        "chi" "**|黑洞球|**"
-    }
-
-    "| Shield |"
-    {
-        "chi" "**|护盾|**"
-    }
-
-    "| Square |"
-    {
-        "chi" "**|方块|**"
-    }
-
-    "| Energy ball |"
-    {
-        "chi" "**|能量球|**"
-    }
-
-    "| Zombie energy ball |"
-    {
-        "chi" "**|ZM能量球|**"
-    }
-
-    "| Zombie gravity |"
-    {
-        "chi" "**|ZM黑洞|**"
-    }
-
-    "| Zombie heal |"
-    {
-        "chi" "**|ZM治疗|**"
-    }
-
-    "| Zombie freezeball |"
-    {
-        "chi" "**|ZM冰冻球|**"
-    }
-
-    "| Freeze ball |"
-    {
-        "chi" "**|冰冻球|**"
-    }
-
-    "| Heal |"
-    {
-        "chi" "**|治疗|**"
+        "chi" "10"
     }
 
     "| 15 |"
     {
-        "chi" "** **"
+        "chi" "15"
     }
 
     "| 20 |"
     {
-        "chi" "** **"
-    }
-
-    "| 65 |"
-    {
-        "chi" "** **"
-    }
-
-    "| 60 |"
-    {
-        "chi" "** **"
-    }
-
-    "| 55 |"
-    {
-        "chi" "** **"
-    }
-
-    "| 50 |"
-    {
-        "chi" "** **"
-    }
-
-    "| 45 |"
-    {
-        "chi" "** **"
-    }
-
-    "| 40 |"
-    {
-        "chi" "** **"
-    }
-
-    "| 35 |"
-    {
-        "chi" "** **"
-    }
-
-    "| 30 |"
-    {
-        "chi" "** **"
+        "chi" "20"
     }
 
     "| 25 |"
     {
-        "chi" "** **"
+        "chi" "25"
+    }
+
+    "| 30 |"
+    {
+        "chi" "30"
+    }
+
+    "| 35 |"
+    {
+        "chi" "35"
+    }
+
+    "| 40 |"
+    {
+        "chi" "40"
+    }
+
+    "| 45 |"
+    {
+        "chi" "45"
+    }
+
+    "| 5 |"
+    {
+        "chi" "5"
+    }
+
+    "| 50 |"
+    {
+        "chi" "50"
+    }
+
+    "| 55 |"
+    {
+        "chi" "55"
+    }
+
+    "| 60 |"
+    {
+        "chi" "60"
+    }
+
+    "| 65 |"
+    {
+        "chi" "65"
     }
 
     "| 80 SECONDS LEFT |"
     {
-        "chi" "**|还剩80秒|**"
+        "chi" "**还剩80秒**"
     }
 
-    "| SURVIVE FOR 60 SECONDS |"
+    "| Energy ball |"
     {
-        "chi" "**|存活60秒|**"
+        "chi" "**能量球**"
+    }
+
+    "| Freeze ball |"
+    {
+        "chi" "**冰冻球**"
+    }
+
+    "| Gravity ball |"
+    {
+        "chi" "**黑洞球**"
+    }
+
+    "| Heal |"
+    {
+        "chi" "**治疗**"
+    }
+
+    "| Loading stage 1.. |"
+    {
+        "chi" "**读取第一关**"
+    }
+
+    "| Loading stage 2.. |"
+    {
+        "chi" "**读取第二关**"
+    }
+
+    "| Loading stage 3.. |"
+    {
+        "chi" "**读取第三关**"
+    }
+
+    "| Loading stage 4.. |"
+    {
+        "chi" "**读取第四关**"
+    }
+
+    "| Loading stage 5.. |"
+    {
+        "chi" "**读取第五关**"
+    }
+
+    "| Loading stage 6.. |"
+    {
+        "chi" "**读取第六关**"
+    }
+
+    "| Shield |"
+    {
+        "chi" "**护盾**"
     }
 
     "| SIMULATION FAILED |"
     {
-        "chi" "**|关卡失败|**"
+        "chi" "**关卡失败**"
+    }
+
+    "| Square |"
+    {
+        "chi" "**方块**"
+    }
+
+    "| SURVIVE FOR 60 SECONDS |"
+    {
+        "chi" "**存活60秒**"
+    }
+
+    "| Zombie energy ball |"
+    {
+        "chi" "**ZM能量球**"
+    }
+
+    "| Zombie freezeball |"
+    {
+        "chi" "**ZM冰冻球**"
+    }
+
+    "| Zombie gravity |"
+    {
+        "chi" "**ZM黑洞**"
+    }
+
+    "| Zombie heal |"
+    {
+        "chi" "**ZM治疗**"
     }
 
 }

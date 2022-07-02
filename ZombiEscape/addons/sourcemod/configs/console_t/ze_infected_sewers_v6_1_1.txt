@@ -1,29 +1,19 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "*** THE HELICOPTER IS HERE!!! ***"
-    {
-        "chi" "**直升机已经来了!!!**"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "*** 10 SECONDS!!! ***"
-    {
-        "chi" "**10秒**"
-    }
 
-    "*** 5 SECONDS ***"
+    "*** 1 ***"
     {
-        "chi" "**5秒**"
-    }
-
-    "*** DOOR OPENING IN 30 SECONDS ***"
-    {
-        "chi" "**门将在30秒后开启**"
-    }
-
-    "*** DOOR OPENING IN 10 SECONDS ***"
-    {
-        "chi" "**门将在10秒后开启**"
+        "chi" "**1**"
     }
 
     "*** 10 SECONDS LEFT ***"
@@ -31,79 +21,29 @@
         "chi" "**还剩10秒**"
     }
 
-    "*** 5 SECONDS LEFT ***"
+    "*** 10 SECONDS!!! ***"
     {
-        "chi" "**还剩5秒**"
+        "chi" "**10秒**"
     }
 
-    "*** ELEVATOR IS LEAVING ***"
+    "*** 2 ***"
     {
-        "chi" "**电梯已经启动**"
+        "chi" "**2**"
     }
 
-    "*** ELEVATOR LEAVES IN 30 SECONDS ***"
+    "*** 3 ***"
     {
-        "chi" "**电梯将在30秒后启动**"
+        "chi" "**3**"
     }
 
-    "*** FLAME OF UDUN HAS BEEN PICKED UP ***"
+    "*** 35 SECONDS FOR IMPACT ***"
     {
-        "chi" "**火焰已经被捡起**"
+        "chi" "**35秒核弹命中**"
     }
 
-    "*** ELY'S PUSHER HAS BEEN PICKED UP ***"
+    "*** 5 SECONDS ***"
     {
-        "chi" "**推力已经被捡起**"
-    }
-
-    "*** BOOM BAM BOP BATTA BOP BOOP POW ***"
-    {
-        "chi" "** **"
-    }
-
-    "*** ESCAPE HAS BEEN CALLED!! REGROUP AT THE TOP OF THE BUILDING!! ***"
-    {
-        "chi" "**救援已经被呼叫!!快去楼顶等待救援!!**"
-    }
-
-    "*** REGROUP OUTSIDE NOW!! WE DON'T HAVE MUCH TIME!! ***"
-    {
-        "chi" "**赶快!!我们没有多少时间了!!**"
-    }
-
-    "*** HOLD YOUR POSITIONS!! GATES WILL OPEN IN 25 SECONDS ***"
-    {
-        "chi" "**守住阵地!!大门将在25秒内打开!!**"
-    }
-
-    "*** WALL BREAKS IN 20 SECONDS ***"
-    {
-        "chi" "**墙在20秒内破碎**"
-    }
-
-    "*** FALL BACK! ***"
-    {
-        "chi" "**撤退!**"
-    }
-
-    "*** DOOR OPENING IN 5 SECONDS ***"
-    {
-        "chi" "**门将在5秒后开启**"
-    }
-
-    "*** MOVE!! ***"
-    {
-        "chi" "**快走!!**"
-    }
-
-    "*** WALL BREAKS IN 15 SECONDS ***"
-    {
-        "chi" "**墙将在15秒后破碎**"
-    }
-
-    "*** FALL BACK!!!!!! ***"
-    {
-        "chi" "**撤退!!!!!!**"
+        "chi" "**5秒**"
     }
 
     "*** 5 SECONDS LEFT ***"
@@ -111,79 +51,24 @@
         "chi" "**还剩5秒**"
     }
 
-    "*** DOOR OPENING IN 20 SECONDS ***"
+    "*** AGM MISSILE HAS BEEN DEPLOYED ***"
     {
-        "chi" "**门将在20秒后开启**"
+        "chi" "**核弹已经部署**"
     }
 
-    "*** KEEP THEM INSIDE THE BUILDING FOR 25 SECONDS ***"
+    "*** AGM MISSILE IN 10 SECONDS ***"
     {
-        "chi" "**守住僵尸25秒!不要放他们出来**"
-    }
-
-    "*** FALL BACK!!! WE ARE SAFE! ***"
-    {
-        "chi" "**撤退!!!我们安全了!**"
-    }
-
-    "*** DAFUQ IS THAT?! ***"
-    {
-        "chi" "**那是什么?!**"
-    }
-
-    "*** ANYWAY SHOOT IT!!!! ***"
-    {
-        "chi" "**不管是什么!向它开枪!!!!**"
-    }
-
-    "*** WAIT... ***"
-    {
-        "chi" "**什么...**"
-    }
-
-    "*** KEEP MOVING FORWARD!!!! ***"
-    {
-        "chi" "**继续前进!!!!**"
-    }
-
-    "*** KEEP MOVING FORWARD!!!! ***"
-    {
-        "chi" "**继续前进!!!!**"
-    }
-
-    "*** KEEP MOVING FORWARD!!!! ***"
-    {
-        "chi" "**继续前进!!!!**"
-    }
-
-    "*** KEEP MOVING FORWARD!!!! ***"
-    {
-        "chi" "**继续前进!!!!**"
-    }
-
-    "*** KEEP MOVING FORWARD!!!! ***"
-    {
-        "chi" "**继续前进!!!!**"
-    }
-
-    "*** KEEP MOVING FORWARD!!!! ***"
-    {
-        "chi" "**继续前进!!!!**"
-    }
-
-    "*** RAGEMODE ON!! ***"
-    {
-        "chi" "**疯狂模式开启!!**"
-    }
-
-    "*** RAGEMODE ON!! ***"
-    {
-        "chi" "**疯狂模式开启!!**"
+        "chi" "**核弹10秒后命中**"
     }
 
     "*** AGM MISSILE IN 1s!!!!!!!!!!!!!!!!!!!!!!!!!! ***"
     {
         "chi" "**核弹3秒后命中**"
+    }
+
+    "*** AGM MISSILE IN 20 SECONDS ***"
+    {
+        "chi" "**核弹20秒后命中**"
     }
 
     "*** AGM MISSILE IN 2s!!!!!!!!!!!!!!!!!!!!!! ***"
@@ -201,24 +86,14 @@
         "chi" "**核弹4秒后命中**"
     }
 
-    "*** AGM MISSILE IN 5s!!!!!! ***"
-    {
-        "chi" "**核弹5秒后命中**"
-    }
-
-    "*** AGM MISSILE IN 10 SECONDS ***"
-    {
-        "chi" "**核弹10秒后命中**"
-    }
-
-    "*** AGM MISSILE IN 20 SECONDS ***"
-    {
-        "chi" "**核弹20秒后命中**"
-    }
-
     "*** AGM MISSILE IN 50 SECONDS ***"
     {
         "chi" "**核弹50秒后命中**"
+    }
+
+    "*** AGM MISSILE IN 5s!!!!!! ***"
+    {
+        "chi" "**核弹5秒后命中**"
     }
 
     "*** AGM MISSILE WILL KILL US IN 100 SECONDS ***"
@@ -226,34 +101,15 @@
         "chi" "**将在100秒后核爆**"
     }
 
-    "*** AGM MISSILE HAS BEEN DEPLOYED ***"
+    "*** ANYWAY SHOOT IT!!!! ***"
     {
-        "chi" "**核弹已经部署**"
+        "chi" "**不管是什么!向它开枪!!!!**"
     }
 
-    "*** ELEVATOR LEAVING IN 20 SECONDS ***"
+    "*** BOOM BAM BOP BATTA BOP BOOP POW ***"
     {
-        "chi" "**电梯将在20秒后启动**"
-    }
-
-    "*** 10 SECONDS LEFT ***"
-    {
-        "chi" "**还剩10秒**"
-    }
-
-    "*** 2 ***"
-    {
-        "chi" "**2**"
-    }
-
-    "*** 1 ***"
-    {
-        "chi" "**1**"
-    }
-
-    "*** 3 ***"
-    {
-        "chi" "**3**"
+        "chi" "__null__"
+        "blocked"    "1"
     }
 
     "*** BUNKER IS CLOSING ***"
@@ -261,79 +117,14 @@
         "chi" "**地下庇护所关闭**"
     }
 
-    "*** BUNKER IS CLOSING IN 35 SECONDS ***"
-    {
-        "chi" "**地下庇护所将在35秒关闭**"
-    }
-
     "*** BUNKER IS CLOSING IN 20 SECONDS ***"
     {
         "chi" "**地下庇护所将在20秒关闭**"
     }
 
-    "*** 5 SECONDS LEFT ***"
+    "*** BUNKER IS CLOSING IN 35 SECONDS ***"
     {
-        "chi" "**还剩5秒**"
-    }
-
-    "*** NORMAL DIFFICULTY COMPLETE ***"
-    {
-        "chi" "**正常难度完成**"
-    }
-
-    "*** MOVING ON TO HARD ***"
-    {
-        "chi" "**继续努力**"
-    }
-
-    "*** NORMAL DIFFICULTY COMPLETE ***"
-    {
-        "chi" "**正常难度完成**"
-    }
-
-    "*** NORMAL DIFFICULTY COMPLETE ***"
-    {
-        "chi" "**正常难度完成**"
-    }
-
-    "*** ZOMBIES IN THE BUNKER!!! ***"
-    {
-        "chi" "**地下庇护所里侦测到有僵尸**"
-    }
-
-    "*** RESTARTING NORMAL DIFFICULTY ***"
-    {
-        "chi" "**重启到正常难度**"
-    }
-
-    "*** ZOMBIES IN THE BUNKER!!! ***"
-    {
-        "chi" "**地下庇护所里侦测到有僵尸**"
-    }
-
-    "*** ZOMBIES IN THE BUNKER!!! ***"
-    {
-        "chi" "**地下庇护所里侦测到有僵尸**"
-    }
-
-    "*** THE LAST TRAIN IS COMING ***"
-    {
-        "chi" "**最后一班列车已经抵达**"
-    }
-
-    "*** MAP MADE BY KAGALERA***"
-    {
-        "chi" "**地图作者:KAGALERA 地图翻译:风潇潇**"
-    }
-
-    "*** MUSIC VOLUME CAN BE ADJUSTED IN THE SOUND SETTINGS ***"
-    {
-        "chi" "**按Y输入!dj调整音乐和音效的音量**"
-    }
-
-    "*** STARTING THE MAP ***"
-    {
-        "chi" "**感谢游玩地图**"
+        "chi" "**地下庇护所将在35秒关闭**"
     }
 
     "*** CURRENT DIFFICULTY --- EASY ***"
@@ -341,144 +132,14 @@
         "chi" "**当前难度:简单**"
     }
 
-    "*** CURRENT DIFFICULTY --- NORMAL ***"
-    {
-        "chi" "**当前难度:正常**"
-    }
-
     "*** CURRENT DIFFICULTY --- HAAAAAAARD!!!! ***"
     {
         "chi" "**当前难度:困困困难**"
     }
 
-    "*** MAP MADE BY KAGALERA ***"
+    "*** CURRENT DIFFICULTY --- NORMAL ***"
     {
-        "chi" "**地图作者:KAGALERA 地图翻译:风潇潇**"
-    }
-
-    "*** FIXED BY SKULLZ AND LEV ***"
-    {
-        "chi" "**地图修复:SKULLZ＆LEV**"
-    }
-
-    "*** GATES A5 & C2 WILL BREAK IN 5 SECONDS ***"
-    {
-        "chi" "**A5和C2门将在5秒后关闭**"
-    }
-
-    "*** EASY DIFFICULTY SET ON ADMIN ROOM ***"
-    {
-        "chi" "**管理员设置简单难度**"
-    }
-
-    "*** NORMAL DIFFICULTY SET ON ADMIN ROOM ***"
-    {
-        "chi" "**管理员设置普通难度**"
-    }
-
-    "*** HARD DIFFICULTY SET ON ADMIN ROOM ***"
-    {
-        "chi" "**管理员设置困难难度**"
-    }
-
-    "*** ZOMBIES ESCAPED! ***"
-    {
-        "chi" "**僵尸出笼了!**"
-    }
-
-    "*** RESTARTING EASY DIFFICULTY ***"
-    {
-        "chi" "**重启启动到简单难度**"
-    }
-
-    "*** ZOMBIES ESCAPED! ***"
-    {
-        "chi" "**僵尸出笼了!**"
-    }
-
-    "*** ZOMBIES ESCAPED! ***"
-    {
-        "chi" "**僵尸出笼了!**"
-    }
-
-    "*** EASY DIFFICULTY COMPLETE ***"
-    {
-        "chi" "**恭喜你们完成简单难度**"
-    }
-
-    "*** MOVING ON TO NORMAL ***"
-    {
-        "chi" "**启动正常难度**"
-    }
-
-    "*** EASY DIFFICULTY COMPLETE ***"
-    {
-        "chi" "**恭喜你们完成简单难度**"
-    }
-
-    "*** EASY DIFFICULTY COMPLETE ***"
-    {
-        "chi" "**恭喜你们完成简单难度**"
-    }
-
-    "*** YOU FAILED ***"
-    {
-        "chi" "**你们失败了**"
-    }
-
-    "*** YOU FAILED ***"
-    {
-        "chi" "**你们失败了**"
-    }
-
-    "*** YOU FAILED ***"
-    {
-        "chi" "**你们失败了**"
-    }
-
-    "*** YOU FAILED ***"
-    {
-        "chi" "**你们失败了**"
-    }
-
-    "*** YOU FAILED ***"
-    {
-        "chi" "**你们失败了**"
-    }
-
-    "*** YOU FAILED ***"
-    {
-        "chi" "**你们失败了**"
-    }
-
-    "*** ZOMBIES ON THE TRAIN ***"
-    {
-        "chi" "**列车上有僵尸**"
-    }
-
-    "*** ZOMBIES ON THE TRAIN ***"
-    {
-        "chi" "**列车上有僵尸**"
-    }
-
-    "*** ZOMBIES ON THE TRAIN ***"
-    {
-        "chi" "**列车上有僵尸**"
-    }
-
-    "*** WARMUP ROUND ***"
-    {
-        "chi" "**热身时间**"
-    }
-
-    "*** KEEP THEM INSIDE THE BUILDING FOR 25 SECONDS ***"
-    {
-        "chi" "**守住僵尸25秒!不要放他们出来**"
-    }
-
-    "*** FALL BACK!!! WE ARE SAFE! ***"
-    {
-        "chi" "**撤退!!!我们暂时安全了!**"
+        "chi" "**当前难度:正常**"
     }
 
     "*** DAFUQ IS THAT?! ***"
@@ -486,34 +147,91 @@
         "chi" "**那什么?!**"
     }
 
-    "*** ANYWAY SHOOT IT!!!! ***"
+    "*** DOOR OPENING IN 10 SECONDS ***"
     {
-        "chi" "**不管是什么!向它开枪!!!!**"
+        "chi" "**门将在10秒后开启**"
     }
 
-    "*** WAIT... ***"
+    "*** DOOR OPENING IN 20 SECONDS ***"
     {
-        "chi" "**什么...**"
+        "chi" "**门将在20秒后开启**"
     }
 
-    "*** NADES DO MORE DAMAGE ***"
+    "*** DOOR OPENING IN 30 SECONDS ***"
     {
-        "chi" "**手雷能对BOSS造成更多伤害**"
+        "chi" "**门将在30秒后开启**"
     }
 
-    "*** YOU DID IT!!!! YOU WON ALL DIFFICULTIES!!! ***"
+    "*** DOOR OPENING IN 5 SECONDS ***"
     {
-        "chi" "**你们做到了!!!!你们完成了所有难度!!!**"
+        "chi" "**门将在5秒后开启**"
     }
 
-    "*** MAP RESET ACTIVATED ***"
+    "*** EASY DIFFICULTY COMPLETE ***"
     {
-        "chi" "**地图重置:ACTIVATED 地图翻译:风潇潇**"
+        "chi" "**恭喜你们完成简单难度**"
     }
 
-    "*** WATCH OUT FOR ELECTRICITY WAVES ***"
+    "*** EASY DIFFICULTY SET ON ADMIN ROOM ***"
     {
-        "chi" "**小心电波**"
+        "chi" "**管理员设置简单难度**"
+    }
+
+    "*** ELEVATOR IS LEAVING ***"
+    {
+        "chi" "**电梯已经启动**"
+    }
+
+    "*** ELEVATOR LEAVES IN 30 SECONDS ***"
+    {
+        "chi" "**电梯将在30秒后启动**"
+    }
+
+    "*** ELEVATOR LEAVING IN 20 SECONDS ***"
+    {
+        "chi" "**电梯将在20秒后启动**"
+    }
+
+    "*** ELY'S PUSHER HAS BEEN PICKED UP ***"
+    {
+        "chi" "**推力已经被捡起**"
+        "blocked"    "1"
+    }
+
+    "*** ESCAPE HAS BEEN CALLED!! REGROUP AT THE TOP OF THE BUILDING!! ***"
+    {
+        "chi" "**救援已经被呼叫!!快去楼顶等待救援!!**"
+    }
+
+    "*** FALL BACK! ***"
+    {
+        "chi" "**撤退!**"
+    }
+
+    "*** FALL BACK!!! WE ARE SAFE! ***"
+    {
+        "chi" "**撤退!!!我们暂时安全了!**"
+    }
+
+    "*** FALL BACK!!!!!! ***"
+    {
+        "chi" "**撤退!!!!!!**"
+    }
+
+    "*** FIXED BY SKULLZ AND LEV ***"
+    {
+        "chi" "**地图修复:SKULLZ＆LEV**"
+    }
+
+    "*** FLAME OF UDUN HAS BEEN PICKED UP ***"
+    {
+        "chi" "**火焰已经被捡起**"
+        "blocked"    "1"
+    }
+
+    "*** GATES A5 & C2 WILL BREAK IN 5 SECONDS ***"
+    {
+        "chi" "**A5和C2门将在5秒后关闭**"
     }
 
     "*** GO INTO THE TRAIN STATION ***"
@@ -521,44 +239,9 @@
         "chi" "**快进入列车站**"
     }
 
-    "*** SPIDER TANK HAS BEEN DESTROYED!!! ***"
+    "*** HARD DIFFICULTY SET ON ADMIN ROOM ***"
     {
-        "chi" "**蜘蛛坦克已被摧毁!!!**"
-    }
-
-    "*** MOVE LEFT TOWARDS THE BUNKER!!! ***"
-    {
-        "chi" "**快进入地下庇护所!!!**"
-    }
-
-    "*** MOVE LEFT TOWARDS THE BUNKER!!! ***"
-    {
-        "chi" "**快进入地下庇护所!!!**"
-    }
-
-    "*** MOVE LEFT TOWARDS THE BUNKER!!! ***"
-    {
-        "chi" "**快进入地下庇护所!!!**"
-    }
-
-    "*** MOVE LEFT TOWARDS THE BUNKER!!! ***"
-    {
-        "chi" "**快进入地下庇护所!!!**"
-    }
-
-    "*** MOVE LEFT TOWARDS THE BUNKER!!! ***"
-    {
-        "chi" "**快进入地下庇护所!!!**"
-    }
-
-    "*** MOVE LEFT TOWARDS THE BUNKER!!! ***"
-    {
-        "chi" "**快进入地下庇护所!!!**"
-    }
-
-    "*** 35 SECONDS FOR IMPACT ***"
-    {
-        "chi" "**35秒核弹命中**"
+        "chi" "**管理员设置困难难度**"
     }
 
     "*** HELICOPTER IS NEAR FALL BACK!!! ***"
@@ -566,9 +249,169 @@
         "chi" "**直升机准备撤离了!!!**"
     }
 
+    "*** HOLD YOUR POSITIONS!! GATES WILL OPEN IN 25 SECONDS ***"
+    {
+        "chi" "**守住阵地!!大门将在25秒内打开!!**"
+    }
+
+    "*** KEEP MOVING FORWARD!!!! ***"
+    {
+        "chi" "**继续前进!!!!**"
+    }
+
+    "*** KEEP THEM INSIDE THE BUILDING FOR 25 SECONDS ***"
+    {
+        "chi" "**守住僵尸25秒!不要放他们出来**"
+    }
+
+    "*** MAP MADE BY KAGALERA ***"
+    {
+        "chi" "**地图作者:KAGALERA 地图翻译:风潇潇**"
+    }
+
+    "*** MAP MADE BY KAGALERA***"
+    {
+        "chi" "**地图作者:KAGALERA 地图翻译:风潇潇**"
+    }
+
+    "*** MAP RESET ACTIVATED ***"
+    {
+        "chi" "**地图重置:ACTIVATED 地图翻译:风潇潇**"
+    }
+
     "*** MISSILES INBOUND ***"
     {
         "chi" "**核弹引爆**"
+    }
+
+    "*** MOVE LEFT TOWARDS THE BUNKER!!! ***"
+    {
+        "chi" "**快进入地下庇护所!!!**"
+    }
+
+    "*** MOVE!! ***"
+    {
+        "chi" "**快走!!**"
+    }
+
+    "*** MOVING ON TO HARD ***"
+    {
+        "chi" "**继续努力**"
+    }
+
+    "*** MOVING ON TO NORMAL ***"
+    {
+        "chi" "**启动正常难度**"
+    }
+
+    "*** MUSIC VOLUME CAN BE ADJUSTED IN THE SOUND SETTINGS ***"
+    {
+        "chi" "**按Y输入!dj调整音乐和音效的音量**"
+    }
+
+    "*** NADES DO MORE DAMAGE ***"
+    {
+        "chi" "**手雷能对BOSS造成更多伤害**"
+    }
+
+    "*** NORMAL DIFFICULTY COMPLETE ***"
+    {
+        "chi" "**正常难度完成**"
+    }
+
+    "*** NORMAL DIFFICULTY SET ON ADMIN ROOM ***"
+    {
+        "chi" "**管理员设置普通难度**"
+    }
+
+    "*** RAGEMODE ON!! ***"
+    {
+        "chi" "**疯狂模式开启!!**"
+    }
+
+    "*** REGROUP OUTSIDE NOW!! WE DON'T HAVE MUCH TIME!! ***"
+    {
+        "chi" "**赶快!!我们没有多少时间了!!**"
+    }
+
+    "*** RESTARTING EASY DIFFICULTY ***"
+    {
+        "chi" "**重启启动到简单难度**"
+    }
+
+    "*** RESTARTING NORMAL DIFFICULTY ***"
+    {
+        "chi" "**重启到正常难度**"
+    }
+
+    "*** SPIDER TANK HAS BEEN DESTROYED!!! ***"
+    {
+        "chi" "**蜘蛛坦克已被摧毁!!!**"
+    }
+
+    "*** STARTING THE MAP ***"
+    {
+        "chi" "**感谢游玩地图**"
+    }
+
+    "*** THE HELICOPTER IS HERE!!! ***"
+    {
+        "chi" "**直升机已经来了!!!**"
+    }
+
+    "*** THE LAST TRAIN IS COMING ***"
+    {
+        "chi" "**最后一班列车已经抵达**"
+    }
+
+    "*** WAIT... ***"
+    {
+        "chi" "**什么...**"
+    }
+
+    "*** WALL BREAKS IN 15 SECONDS ***"
+    {
+        "chi" "**墙将在15秒后破碎**"
+    }
+
+    "*** WALL BREAKS IN 20 SECONDS ***"
+    {
+        "chi" "**墙在20秒内破碎**"
+    }
+
+    "*** WARMUP ROUND ***"
+    {
+        "chi" "**热身时间**"
+    }
+
+    "*** WATCH OUT FOR ELECTRICITY WAVES ***"
+    {
+        "chi" "**小心电波**"
+    }
+
+    "*** YOU DID IT!!!! YOU WON ALL DIFFICULTIES!!! ***"
+    {
+        "chi" "**你们做到了!!!!你们完成了所有难度!!!**"
+    }
+
+    "*** YOU FAILED ***"
+    {
+        "chi" "**你们失败了**"
+    }
+
+    "*** ZOMBIES ESCAPED! ***"
+    {
+        "chi" "**僵尸出笼了!**"
+    }
+
+    "*** ZOMBIES IN THE BUNKER!!! ***"
+    {
+        "chi" "**地下庇护所里侦测到有僵尸**"
+    }
+
+    "*** ZOMBIES ON THE TRAIN ***"
+    {
+        "chi" "**列车上有僵尸**"
     }
 
 }

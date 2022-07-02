@@ -1,251 +1,319 @@
 "Console_T"
 {
-	"++ CURRENT DIFFICULTY ++"
-	{
-		"chi"		"**难度**"
-	}
-	"++ EASY ++"
-	{
-		"chi"		"**简单**"
-	}
-	"MAP MADE BY MR.MUESLI AND GARGANTUA"
-	{
-		"chi"		"**制作:MR.MUESLI AND GARGANTUA翻译Sakura@风云社**"
-	}
-	"++ GATE 1 WILL OPEN IN 35 SECONDS ++"
-	{
-		"chi"		"**第一道门将在35秒后打开**"
-	}
-	"++ SPAWN TELEPORT ENABLED ++"
-	{
-		"chi"		"**复活传送开启**"
-	}
-	"++ GATE 1 WILL OPEN IN 20 SECONDS ++"
-	{
-		"chi"		"**第一道门将在20秒后打开**"
-	}
-	"++ GATE 1 WILL OPEN IN 10 SECONDS ++"
-	{
-		"chi"		"**第一道门将在10秒后打开**"
-	}
-	"++ SECRET BOAT is leaving in 5 seconds ++"
-	{
-		"chi"		"**快看是谁坐的秘密船!5秒钟后就要离开了**"
-	}
-	"++ SECRET BOAT is leaving!! ++"
-	{
-		"chi"		"**小船走了**"
-	}
-	"++ GATE 1 WILL OPEN IN 5 SECONDS ++"
-	{
-		"chi"		"**第一道门将在5秒后打开**"
-	}
-	"++ GATE 1 IS NOW OPEN!! ++"
-	{
-		"chi"		"**第一道门开了**"
-	}
-	"++ GATE 2 WILL OPEN IN 5 SECONDS ++"
-	{
-		"chi"		"**第二道门将在5秒后打开**"
-	}
-	"++ GATE 2 IS NOW OPEN!! ++"
-	{
-		"chi"		"**第二道门开了**"
-	}
-	"++ BOATS ARE LEAVING IN 30 SECONDS ++"
-	{
-		"chi"		"**船将在30秒后离开**"
-	}
-	"++ BOATS ARE LEAVING IN 15 SECONDS ++"
-	{
-		"chi"		"**船将在15秒后离开**"
-	}
-	"++ BOATS ARE LEAVING IN 10 SECONDS ++"
-	{
-		"chi"		"**船将在10秒后离开**"
-	}
-	"++ BOATS ARE LEAVING!! ++"
-	{
-		"chi"		"**船离开了!**"
-	}
-	"++ NUKE IN 10 SECONDS ++"
-	{
-		"chi"		"**10秒后核爆!**"
-	}
-	"++ ZOMBIES REACHED THE ISLAND ++"
-	{
-		"chi"		"** **"
-	}
-	"++ LEVEL UP DENIED ++"
-	{
-		"chi"		"** **"
-	}
-	"** Welcome to the mystical island of Kraznov Poopata **"
-	{
-		"chi"		"** **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"** **"
-	}
-	"++ YOU ADVANCED TO THE NEXT LEVEL ++"
-	{
-		"chi"		"** **"
-	}
-	"++ MEDIUM ++"
-	{
-		"chi"		"**难度:中等**"
-	}
-	"++ GATE 1 WILL OPEN IN 45 SECONDS ++"
-	{
-		"chi"		"**第一道门将在45秒后打开**"
-	}
-	"++ GATE 1 WILL OPEN IN 30 SECONDS ++"
-	{
-		"chi"		"**第一道门将在30秒后打开**"
-	}
-	"++ SECRET BOAT is leaving in 8 seconds ++"
-	{
-		"chi"		"**又有人坐秘密船了!将在8秒后离开!**"
-	}
-	"++ GATE 1 WILL OPEN IN 15 SECONDS ++"
-	{
-		"chi"		"**第一道门将在15秒后打开**"
-	}
-	"++ HARD ++"
-	{
-		"chi"		"**难度:困难**"
-	}
-	"++ GATE 1 WILL OPEN IN 60 SECONDS ++"
-	{
-		"chi"		"**第一道门将在60秒后打开**"
-	}
-	"++ GATE 2 WILL OPEN IN 10 SECONDS ++"
-	{
-		"chi"		"**第二道门将在10秒后打开**"
-	}
-	"++ OLDSCHOOL BOAT WILL LEAVE IN 8 SECONDS ++"
-	{
-		"chi"		"**船将在8秒后离开**"
-	}
-	"++ INSANE ++"
-	{
-		"chi"		"**难度:疯狂**"
-	}
-	"++ GATE 1 WILL OPEN IN 70 SECONDS ++"
-	{
-		"chi"		"**第一道门将在70秒后打开**"
-	}
-	"++ GATE 1 WILL OPEN IN 55 SECONDS ++"
-	{
-		"chi"		"**第一道门将在55秒后打开**"
-	}
-	"++ GATE 1 WILL OPEN IN 40 SECONDS ++"
-	{
-		"chi"		"**第一道门将在40秒后打开**"
-	}
-	"++ GATE 2 WILL OPEN IN 15 SECONDS ++"
-	{
-		"chi"		"**第二道门将在15秒后打开**"
-	}
-	"++ IMPOSSIBLE ++"
-	{
-		"chi"		"**难度:IMPOSSIBLE**"
-	}
-	"++ GATE 1 WILL OPEN IN 90 SECONDS ++"
-	{
-		"chi"		"**第一道门将在90秒后打开**"
-	}
-	"++ CONGRATULATIONS ++"
-	{
-		"chi"		"**恭喜**"
-	}
-	"++ YOU MASTERED THE HIGHEST LEVEL ++"
-	{
-		"chi"		"**你通关了!**"
-	}
-	"++ 1st December 2016 ++"
-	{
-		"chi"		"** **"
-	}
-	"<< ze_surf_virtus >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Fix by : Lishang >>"
-	{
-		"chi"		"** **"
-	}
-	"++ PART 1 ++"
-	{
-		"chi"		"** **"
-	}
-	"++ PART 2 ++"
-	{
-		"chi"		"** **"
-	}
-	"++ PART 3 ++"
-	{
-		"chi"		"** **"
-	}
-	"++ PART 4 ++"
-	{
-		"chi"		"** **"
-	}
-	"++ ACTIVATE THE EYE ++"
-	{
-		"chi"		"** **"
-	}
-	"++ THE EYE HAS DISAPPEARED ++"
-	{
-		"chi"		"** **"
-	}
-	"++ DIFFICULTY WILL BE CHANGED TO IMPOSSIBLE ++"
-	{
-		"chi"		"** **"
-	}
-	"++ 5 ++"
-	{
-		"chi"		"** **"
-	}
-	"++ 4 ++"
-	{
-		"chi"		"** **"
-	}
-	"++ 3 ++"
-	{
-		"chi"		"** **"
-	}
-	"++ 2 ++"
-	{
-		"chi"		"** **"
-	}
-	"++ 1 ++"
-	{
-		"chi"		"** **"
-	}
-	"*** ZE_NOTHING ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Enthusiast help: Reflelia ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Mapping Help Airvulpes,Kune,thas,Rukly,Shufen ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Model :Dakotec ***"
-	{
-		"chi"		"** **"
-	}
-	"**Stage 1**"
-	{
-		"chi"		"** **"
-	}
-	"<<< Level 1 >>>"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "++ 1 ++"
+    {
+        "chi" "1"
+    }
+
+    "++ 1st December 2016 ++"
+    {
+        "chi" "2016年12月1日"
+    }
+
+    "++ 2 ++"
+    {
+        "chi" "2"
+    }
+
+    "++ 3 ++"
+    {
+        "chi" "3"
+    }
+
+    "++ 4 ++"
+    {
+        "chi" "4"
+    }
+
+    "++ 5 ++"
+    {
+        "chi" "5"
+    }
+
+    "++ ACTIVATE THE EYE ++"
+    {
+        "chi" "**活动下眼睑**"
+    }
+
+    "++ BOATS ARE LEAVING IN 10 SECONDS ++"
+    {
+        "chi" "**船将在10秒后离开**"
+    }
+
+    "++ BOATS ARE LEAVING IN 15 SECONDS ++"
+    {
+        "chi" "**船将在15秒后离开**"
+    }
+
+    "++ BOATS ARE LEAVING IN 30 SECONDS ++"
+    {
+        "chi" "**船将在30秒后离开**"
+    }
+
+    "++ BOATS ARE LEAVING!! ++"
+    {
+        "chi" "**船离开了!**"
+    }
+
+    "++ CONGRATULATIONS ++"
+    {
+        "chi" "**恭喜**"
+    }
+
+    "++ CURRENT DIFFICULTY ++"
+    {
+        "chi" "**难度**"
+    }
+
+    "++ DIFFICULTY WILL BE CHANGED TO EASY ++"
+    {
+        "chi" "**简单**"
+    }
+
+    "++ DIFFICULTY WILL BE CHANGED TO HARD ++"
+    {
+        "chi" "**困难**"
+    }
+
+    "++ DIFFICULTY WILL BE CHANGED TO IMPOSSIBLE ++"
+    {
+        "chi" "**不可能**"
+    }
+
+    "++ DIFFICULTY WILL BE CHANGED TO INSANE ++"
+    {
+        "chi" "**疯狂**"
+    }
+
+    "++ DIFFICULTY WILL BE CHANGED TO MEDIUM ++"
+    {
+        "chi" "**中等**"
+    }
+
+    "++ EASY ++"
+    {
+        "chi" "**简单**"
+    }
+
+    "++ GATE 1 IS NOW OPEN!! ++"
+    {
+        "chi" "**第一道门开了**"
+    }
+
+    "++ GATE 1 WILL OPEN IN 10 SECONDS ++"
+    {
+        "chi" "**第一道门将在10秒后打开**"
+    }
+
+    "++ GATE 1 WILL OPEN IN 15 SECONDS ++"
+    {
+        "chi" "**第一道门将在15秒后打开**"
+    }
+
+    "++ GATE 1 WILL OPEN IN 20 SECONDS ++"
+    {
+        "chi" "**第一道门将在20秒后打开**"
+    }
+
+    "++ GATE 1 WILL OPEN IN 30 SECONDS ++"
+    {
+        "chi" "**第一道门将在30秒后打开**"
+    }
+
+    "++ GATE 1 WILL OPEN IN 35 SECONDS ++"
+    {
+        "chi" "**第一道门将在35秒后打开**"
+    }
+
+    "++ GATE 1 WILL OPEN IN 40 SECONDS ++"
+    {
+        "chi" "**第一道门将在40秒后打开**"
+    }
+
+    "++ GATE 1 WILL OPEN IN 45 SECONDS ++"
+    {
+        "chi" "**第一道门将在45秒后打开**"
+    }
+
+    "++ GATE 1 WILL OPEN IN 5 SECONDS ++"
+    {
+        "chi" "**第一道门将在5秒后打开**"
+    }
+
+    "++ GATE 1 WILL OPEN IN 55 SECONDS ++"
+    {
+        "chi" "**第一道门将在55秒后打开**"
+    }
+
+    "++ GATE 1 WILL OPEN IN 60 SECONDS ++"
+    {
+        "chi" "**第一道门将在60秒后打开**"
+    }
+
+    "++ GATE 1 WILL OPEN IN 70 SECONDS ++"
+    {
+        "chi" "**第一道门将在70秒后打开**"
+    }
+
+    "++ GATE 1 WILL OPEN IN 90 SECONDS ++"
+    {
+        "chi" "**第一道门将在90秒后打开**"
+    }
+
+    "++ GATE 2 IS NOW OPEN!! ++"
+    {
+        "chi" "**第二道门开了**"
+    }
+
+    "++ GATE 2 WILL OPEN IN 10 SECONDS ++"
+    {
+        "chi" "**第二道门将在10秒后打开**"
+    }
+
+    "++ GATE 2 WILL OPEN IN 15 SECONDS ++"
+    {
+        "chi" "**第二道门将在15秒后打开**"
+    }
+
+    "++ GATE 2 WILL OPEN IN 5 SECONDS ++"
+    {
+        "chi" "**第二道门将在5秒后打开**"
+    }
+
+    "++ HARD ++"
+    {
+        "chi" "**难度:困难**"
+    }
+
+    "++ IMPOSSIBLE ++"
+    {
+        "chi" "**难度:IMPOSSIBLE**"
+    }
+
+    "++ INSANE ++"
+    {
+        "chi" "**难度:疯狂**"
+    }
+
+    "++ LEVEL UP DENIED ++"
+    {
+        "chi" "**拒绝升级**"
+    }
+
+    "++ MEDIUM ++"
+    {
+        "chi" "**难度:中等**"
+    }
+
+    "++ NUKE IN 10 SECONDS ++"
+    {
+        "chi" "**10秒后核爆!**"
+    }
+
+    "++ OLDSCHOOL BOAT WILL LEAVE IN 8 SECONDS ++"
+    {
+        "chi" "**船将在8秒后离开**"
+    }
+
+    "++ PART 1 ++"
+    {
+        "chi" "**第一部分**"
+    }
+
+    "++ PART 2 ++"
+    {
+        "chi" "**第二部分**"
+    }
+
+    "++ PART 3 ++"
+    {
+        "chi" "**第三部分**"
+    }
+
+    "++ PART 4 ++"
+    {
+        "chi" "**第四部分**"
+    }
+
+    "++ SECRET BOAT is leaving in 12 seconds ++"
+    {
+        "chi" "**秘密船只12秒离开**"
+    }
+
+    "++ SECRET BOAT is leaving in 15 seconds ++"
+    {
+        "chi" "**秘密船只15秒离开**"
+    }
+
+    "++ SECRET BOAT is leaving in 30 seconds ++"
+    {
+        "chi" "**秘密船只30秒离开**"
+    }
+
+    "++ SECRET BOAT is leaving in 5 seconds ++"
+    {
+        "chi" "**快看是谁坐的秘密船!5秒钟后就要离开了**"
+    }
+
+    "++ SECRET BOAT is leaving in 8 seconds ++"
+    {
+        "chi" "**又有人坐秘密船了!将在8秒后离开!**"
+    }
+
+    "++ SECRET BOAT is leaving!! ++"
+    {
+        "chi" "**小船走了**"
+    }
+
+    "++ SECRET BOAT WILL VANISH IN 10 SECONDS ++"
+    {
+        "chi" "**秘密船10秒后消失**"
+    }
+
+    "++ SPAWN TELEPORT ENABLED ++"
+    {
+        "chi" "**复活传送开启**"
+    }
+
+    "++ THE EYE HAS DISAPPEARED ++"
+    {
+        "chi" "**眼睑不见了**"
+    }
+
+    "++ YOU ADVANCED TO THE NEXT LEVEL ++"
+    {
+        "chi" "**加载下一难度**"
+    }
+
+    "++ YOU MASTERED THE HIGHEST LEVEL ++"
+    {
+        "chi" "**你通关了!**"
+    }
+
+    "++ ZOMBIES REACHED THE ISLAND ++"
+    {
+        "chi" "**僵尸上岛了**"
+    }
+
+    "MAP MADE BY MR.MUESLI AND GARGANTUA"
+    {
+        "chi" "**制作:MR.MUESLI AND GARGANTUA翻译Sakura@风云社**"
+    }
+
+    "say ++ BOATS ARE LEAVING IN 30 SECONDS ++"
+    {
+        "chi" "**船将在30秒后离开**"
+    }
+
 }

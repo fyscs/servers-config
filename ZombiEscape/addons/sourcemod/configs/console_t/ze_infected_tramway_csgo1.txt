@@ -1,220 +1,290 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***Admin changed difficulty to easy***"
+    {
+        "chi" "管理员设置了简单难度"
+    }
+
+    "***Admin changed difficulty to hard***"
+    {
+        "chi" "管理员设置了困难难度"
+    }
+
+    "***Admin changed difficulty to normal***"
+    {
+        "chi" "管理员设置了普通难度"
+    }
+
+    "***Admin changed difficulty to suicide***"
+    {
+        "chi" "管理员设置了地狱难度"
+    }
 
     "***Admin is in difficulty settings room***"
-     {
-         "chi" "管理员进入了调关房"
-     }
+    {
+        "chi" "管理员进入了调关房"
+    }
 
-     "***Admin left difficulty settings room***"
-     {
-         "chi" "管理员离开了调关房"
-     }
+    "***Admin left difficulty settings room***"
+    {
+        "chi" "管理员离开了调关房"
+    }
 
-     "***Admin changed difficulty to normal***"
-     {
-         "chi" "管理员设置了普通难度"
-     }
+    "***Changing level to Hard***"
+    {
+        "chi" "级别更改为"Hard""
+    }
 
-     "***Admin changed difficulty to easy***"
-     {
-         "chi" "管理员设置了简单难度"
-     }
+    "***Changing level to Normal***"
+    {
+        "chi" "级别更改为"Normal""
+    }
 
-     "***Admin changed difficulty to hard***"
-     {
-         "chi" "管理员设置了困难难度"
-     }
+    "***Changing level to Suicide***"
+    {
+        "chi" "级别更改为"Suicide"
+    }
 
-     "***Admin changed difficulty to suicide***"
-     {
-         "chi" "管理员设置了地狱难度"
-     }
+    "***Difficulty will not change***"
+    {
+        "chi" "难度不会更改"
+    }
 
-     "**Contact me at eugenio.motanum91 AT gmail.com**"
-     {
-         "chi" "如果有问题请联系我"
-     }
+    "***Easy mode completed***"
+    {
+        "chi" "简单模式已完成"
+    }
 
-     "***Use admin room to change difficulty***"
-     {
-         "chi" "使用调关房来调整难度"
-     }
+    "***Executing game reset****"
+    {
+        "chi" "游戏即将重置"
+    }
 
-     "**Thanks to [PF] PlagueFest for their support!**"
-     {
-         "chi" "感谢PlagueFest的支持"
-     }
+    "***Hard mode completed***"
+    {
+        "chi" "困难模式已完成"
+    }
 
-     "**Map made by Eugenio *Motanum* Roman**"
-     {
-         "chi" "地图作者:Motanum 翻译:xTeruZikk@风云社"
-     }
+    "***Mission Status: Aborted***"
+    {
+        "chi" "任务以已中止"
+    }
 
-     "***Obtain the plans to a secret rocket launch pad!***"
-     {
-         "chi" "获取火箭发射控制台的机密计划"
-     }
+    "***No fall damage***"
+    {
+        "chi" "已取消掉落伤害"
+    }
 
-     "***No fall damage***"
-     {
-         "chi" "已取消掉落伤害"
-     }
+    "***Normal mode completed***"
+    {
+        "chi" "普通模式已完成"
+    }
 
-     "**AFK Killer enabled for 5 seconds**"
-     {
-         "chi" "已开始清理AFK玩家,还有5秒"
-     }
+    "***Obtain the plans to a secret rocket launch pad!***"
+    {
+        "chi" "获取火箭发射控制台的机密计划"
+    }
 
-     "**AFK Killer is off**"
-     {
-         "chi" "清理完成,已关闭"
-     }
+    "***Reseting game in 20 seconds****"
+    {
+        "chi" "20秒内重置游戏"
+    }
 
-     "**Hacking into the barrier and door system**"
-     {
-         "chi" "快骇入屏障与门禁系统"
-     }
+    "***Selecting default difficulty****"
+    {
+        "chi" "默认难度"
+    }
 
-     "**Calculating progress time**"
-     {
-         "chi" "正在计算所需时间"
-     }
+    "***Suicide difficulty will stay***"
+    {
+        "chi" "自杀困难将持续存在"
+    }
 
-     "**T minus 60 seconds**"
-     {
-         "chi" "还有60秒,守住这里!!"
-     }
+    "***Suicide level complete!***"
+    {
+        "chi" "自杀级别完成!"
+    }
 
-     "**T minus 30 seconds**"
-     {
-         "chi" ""
-         "blocked" "1"
-     }
+    "***Use admin room to change difficulty***"
+    {
+        "chi" "使用调关房来调整难度"
+    }
 
-     "**T minus 10 seconds**"
-     {
-         "chi" ""
-         "blocked" "1"
-     }
+    "***Waiting for players****"
+    {
+        "chi" "等待玩家"
+    }
 
-     "**Gates are opening and barriers are online!**"
-     {
-         "chi" "门禁打开了,屏障系统已生效"
-     }
+    "***Zombies reached rescue vehicle!***"
+    {
+        "chi" "有僵尸跳上了救援直升机!"
+    }
 
-     "**Barrier system deactivated in 15 seconds**"
-     {
-         "chi" "屏障系统15秒后失效"
-     }
+    "**AFK Killer enabled for 5 seconds**"
+    {
+        "chi" "已开始清理AFK玩家,还有5秒"
+    }
 
-     "**Barrier system is broken! Watch your backs!**"
-     {
-         "chi" "屏障失效了,小心屁股!"
-     }
+    "**AFK Killer is off**"
+    {
+        "chi" "清理完成,已关闭"
+    }
 
-     "**Monitor A active**"
-     {
-         "chi" "控制台A已启动"
-     }
+    "**Barrier system deactivated in 15 seconds**"
+    {
+        "chi" "屏障系统15秒后失效"
+    }
 
-     "**Monitor B active**"
-     {
-         "chi" "控制台B已启动"
-     }
+    "**Barrier system is broken! Watch your backs!**"
+    {
+        "chi" "屏障失效了,小心屁股!"
+    }
 
-     "**Plans aquired**"
-     {
-         "chi" "机密计划已获取"
-     }
+    "**Blast door system is broken!**"
+    {
+        "chi" "安全门控制系统已离线"
+    }
 
-     "**Find a way out of here!**"
-     {
-         "chi" "赶紧找到路离开这里"
-     }
+    "**Building power for Tramway! 90 seconds remaining!**"
+    {
+        "chi" "正在给电车准备能源,还有90秒"
+    }
 
-     "**T minus 45s for detonation**"
-     {
-         "chi" "炸弹已安装,还有45秒"
-     }
+    "**Calculating progress time**"
+    {
+        "chi" "正在计算所需时间"
+    }
 
-     "**T minus 30s for detonation**"
-     {
-         "chi" ""
-         "blocked" "1"
-     }
+    "**Contact me at eugenio.motanum91 AT gmail.com**"
+    {
+        "chi" "如果有问题请联系我"
+    }
 
-     "**T minus 15s for detonation**"
-     {
-         "chi" ""
-         "blocked" "1"
-     }
+    "**Final Wave inminent!**"
+    {
+        "chi" "最后一波即将到来"
+    }
 
-     "**Blast door system is broken!**"
-     {
-         "chi" "安全门控制系统已离线"
-     }
+    "**Find a way out of here!**"
+    {
+        "chi" "赶紧找到路离开这里"
+    }
 
-     "**Building power for Tramway! 90 seconds remaining!**"
-     {
-         "chi" "正在给电车准备能源,还有90秒"
-     }
+    "**Gates are opening and barriers are online!**"
+    {
+        "chi" "门禁打开了,屏障系统已生效"
+    }
 
-     "**Final Wave inminent!**"
-     {
-         "chi" "最后一波即将到来"
-     }
+    "**Get to the chopper**"
+    {
+        "chi" "快跳上直升机!!"
+    }
 
-     "**Tramway leaving in 60 seconds!**"
-     {
-         "chi" "电车60秒后离开"
-     }
+    "**Hacking into the barrier and door system**"
+    {
+        "chi" "快骇入屏障与门禁系统"
+    }
 
-     "**Tramway leaving in 30 seconds!**"
-     {
-         "chi" ""
-         "blocked" "1"
-     }
+    "**Hold the octagon until gates are open!**"
+    {
+        "chi" "按住八角形!直到大门打开!"
+    }
 
-     "**Tramway leaving in 10 seconds!**"
-     {
-         "chi" ""
-         "blocked" "1"
-     }
+    "**Map made by Eugenio *Motanum* Roman**"
+    {
+        "chi" "地图作者:Motanum 翻译:xTeruZikk@风云社"
+    }
 
-     "**Tramway has left the station!**"
-     {
-         "chi" "电车已离开站台"
-     }
+    "**Monitor A active**"
+    {
+        "chi" "控制台A已启动"
+    }
 
-     "**Get to the chopper**"
-     {
-         "chi" "快跳上直升机!!"
-     }
+    "**Monitor B active**"
+    {
+        "chi" "控制台B已启动"
+    }
 
-     "***Zombies reached rescue vehicle!***"
-     {
-         "chi" "有僵尸跳上了救援直升机!"
-     }
+    "**Plans aquired**"
+    {
+        "chi" "机密计划已获取"
+    }
 
-     "***Easy mode completed***"
-     {
-         "chi" "简单模式已完成"
-     }
+    "**T minus 10 seconds**"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
 
-     "***Normal mode completed***"
-     {
-         "chi" "普通模式已完成"
-     }
+    "**T minus 15s for detonation**"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
 
-     "***Hard mode completed***"
-     {
-         "chi" "困难模式已完成"
-     }
+    "**T minus 30 seconds**"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
 
-     "***Suicide mode completed***"
-     {
-         "chi" "地狱模式已完成"
-     }
+    "**T minus 30s for detonation**"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "**T minus 45s for detonation**"
+    {
+        "chi" "炸弹已安装,还有45秒"
+    }
+
+    "**T minus 60 seconds**"
+    {
+        "chi" "还有60秒,守住这里!!"
+    }
+
+    "**Thanks to [PF] PlagueFest for their support!**"
+    {
+        "chi" "感谢PlagueFest的支持"
+    }
+
+    "**Tramway has left the station!**"
+    {
+        "chi" "电车已离开站台"
+    }
+
+    "**Tramway leaving in 10 seconds!**"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "**Tramway leaving in 30 seconds!**"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "**Tramway leaving in 60 seconds!**"
+    {
+        "chi" "电车60秒后离开"
+    }
+
+    "**Use the tramway to get to the Helicopters!**"
+    {
+        "chi" "使用电车前往直升机!"
+    }
 
 }

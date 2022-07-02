@@ -1,15 +1,17 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "@[MAP] This map does not work with bots..."
-    {
-        "blocked" "1"
-        "chi" "** **"
-    }
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
+
 
     "@[MAP] Map by [SG] Paul"
     {
@@ -18,44 +20,43 @@
 
     "@[MAP] Steam name = sgpaul"
     {
-        "blocked" "1"
         "chi" "作者Steam名: sgpaul"
+        "blocked" "1"
     }
 
-    "@[MAP] twitch.tv/summit1g"
+    "@[MAP] This map does not work with bots..."
     {
         "blocked" "1"
-        "chi" "** **"
-    }
-
-    "@[MAP] twitch.tv/onscreenlol"
-    {
-        "blocked" "1"
-        "chi" "** **"
-    }
-
-    "@[MAP] VAC Island ft. easy skins"
-    {
-        "blocked" "1"
-        "chi" "** **"
     }
 
     "@[MAP] twitch.tv/b0aty"
     {
         "blocked" "1"
-        "chi" "** **"
-    }
-
-    "@[MAP] twitch.tv/lirik"
-    {
-        "blocked" "1"
-        "chi" "** **"
     }
 
     "@[MAP] twitch.tv/joshog"
     {
         "blocked" "1"
-        "chi" "** **"
+    }
+
+    "@[MAP] twitch.tv/lirik"
+    {
+        "blocked" "1"
+    }
+
+    "@[MAP] twitch.tv/onscreenlol"
+    {
+        "blocked" "1"
+    }
+
+    "@[MAP] twitch.tv/summit1g"
+    {
+        "blocked" "1"
+    }
+
+    "@[MAP] VAC Island ft. easy skins"
+    {
+        "blocked" "1"
     }
 
 }

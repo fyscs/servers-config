@@ -1,542 +1,609 @@
 "Console_T"
 {
-	"***5 seconds***"
-	{
-		"chi"		"**5秒**"
-	}
-	"***Location: The Wanderers Palace***"
-	{
-		"chi"		"**地点:浪子神殿**"
-	}
-	"***Level:Normal"
-	{
-		"chi"		"**难度: 普通**"
-	}
-	"***Look for Nymian Device***"
-	{
-		"chi"		"**寻找尼敏装置**"
-	}
-	"***A player found Nymian Device***"
-	{
-		"chi"		"**一位玩家找到了尼敏装置**"
-	}
-	"***20 seconds to Activate Nymian Device***"
-	{
-		"chi"		"**20秒后激活尼敏装置**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"*** 5 seconds***"
-	{
-		"chi"		"**5秒**"
-	}
-	"***Break Fence***"
-	{
-		"chi"		"**墙体碎开**"
-	}
-	"***10 seconds to Activate Nymian Device***"
-	{
-		"chi"		"**10秒后激活尼敏装置**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"***Wait for 20 seconds ***"
-	{
-		"chi"		"**坚守20秒**"
 
-	}
-	"***Door opened***"
-	{
-		"chi"		"**门已打开**"
-	}
-	"***Door close 10 seconds***"
-	{
-		"chi"		"**门10秒后关闭**"
+    "*** 1 ***"
+    {
+        "chi" "**1**"
+    }
 
-	}
-	"***Enkidu appered***"
-	{
-		"chi"		"**恩奇都出现了**"
-	}
-	"***Keep shooting Enkidu***"
-	{
-		"chi"		"**射击恩奇都**"
-	}
-	"***10 seconds to attack of the boss***"
-	{
-		"chi"		"**还有10秒攻击boss**"
-	}
-	"***Attack of the boss***"
-	{
-		"chi"		"**赶快攻击boss**"
-	}
-	"***Enkidu died***"
-	{
-		"chi"		"**恩奇都已去世**"
-	}
-	"***15 seconds to Active Nymian Device***"
-	{
-		"chi"		"**15秒后激活尼敏装置**"
+    "*** 2 ***"
+    {
+        "chi" "**2**"
+    }
 
-	}
-	"***Look for RED,YELLOW,GREEN Nymian Devices***"
-	{
-		"chi"		"**找到并激活红色, 黄色, 绿色的尼敏装置**"
-	}
-	"***Activated GREEN Nymian Device***"
-	{
-		"chi"		"**绿色尼敏装置已激活**"
-	}
-	"***Activated YELLOW Nymian Device***"
-	{
-		"chi"		"**黄色尼敏装置已激活**"
-	}
-	"***Activated RED Nymian Device***"
-	{
-		"chi"		"**红色尼敏装置已激活**"
-	}
-	"***10 seconds to Active Nymian Device***"
-	{
-		"chi"		"**10秒后激活尼敏装置**"
+    "*** 3 ***"
+    {
+        "chi" "**3**"
+    }
 
-	}
-	"***20 seconds to Activate Escape Elevator***"
-	{
-		"chi"		"**20秒后启动电梯**"
+    "*** 5 seconds***"
+    {
+        "chi" "**5秒**"
+    }
 
-	}
-	"***Congratulations***"
-	{
-		"chi"		"**恭喜通关**"
-	}
-	"***Next Level Savage***"
-	{
-		"chi"		"**下一难度: 疯狂**"
-	}
-	"***Map made by Altima***"
-	{
-		"chi"		"**地图作者: Altima 翻译: 大明@風雲社**"
-	}
-	"***Level:Savage"
-	{
-		"chi"		"**难度: 疯狂**"
-	}
-	"***Wait for 20 seconds***"
-	{
-		"chi"		"**坚守20秒**"
+    "*** Cauterize***"
+    {
+        "chi" "**毁灭冲击**"
+    }
 
-	}
-	"***Wait for 30 seconds"
-	{
-		"chi"		"**坚守30秒**"
+    "*** Electro***"
+    {
+        "chi" "**电流**"
+    }
 
-	}
-	"***35 seconds to Activate Nymian Device***"
-	{
-		"chi"		"**35秒后激活尼敏装置**"
+    "*** Heavens Fall***"
+    {
+        "chi" "**天堂陨落**"
+    }
 
-	}
-	"***Hold this position 35 seconds***"
-	{
-		"chi"		"**坚守35秒**"
+    "***1***"
+    {
+        "chi" "**1**"
+    }
 
-	}
-	"***Teleporter Activate***"
-	{
-		"chi"		"**传送器已激活**"
-	}
-	"***Location:The Binding Coil of Bahamut***"
-	{
-		"chi"		"**当前场景: 巴哈姆特空间**"
-	}
-	"***Found Intruders!!!!!!!***"
-	{
-		"chi"		"**发现入侵者!!!!!!!**"
-	}
-	"***ADS........Activated***"
-	{
-		"chi"		"**ADS........启动**"
-	}
-	"***ADS appeared***"
-	{
-		"chi"		"**ADS已出现**"
-	}
-	"***Keep shooting to ADS***"
-	{
-		"chi"		"**赶快射击ADS**"
-	}
-	"***ADS is selecting now...***"
-	{
-		"chi"		"**ADS技能载入中...**"
-	}
-	"*** Cauterize***"
-	{
-		"chi"		"**毁灭冲击**"
-	}
-	"*** Electro***"
-	{
-		"chi"		"**电流**"
-	}
-	"***ADS died***"
-	{
-		"chi"		"**ADS已去世**"
-	}
-	"***45 seconds to MAP CLEAR***"
-	{
-		"chi"		"**坚守45秒你就能通关了**"
+    "***10 seconds to Activate Nymian Device***"
+    {
+        "chi" "**10秒后激活尼敏装置**"
+    }
 
-	}
-	"***Human Killer ON***"
-	{
-		"chi"		"**人类杀手模组已加载**"
-	}
-	"***Gravity ON***"
-	{
-		"chi"		"**低重力启动**"
-	}
-	"***STAGE CLEAR***"
-	{
-		"chi"		"**关卡通过**"
-	}
-	"***Texture Support by fujione***"
-	{
-		"chi"		"**纹理帮助: fujione**"
-	}
-	"*** Heavens Fall***"
-	{
-		"chi"		"**天堂陨落**"
-	}
-	"***10seconds to Mega Flare***"
-	{
-		"chi"		"**10秒后释放超星撕裂**"
-	}
-	"***5***"
-	{
-		"chi"		"**5**"
-	}
-	"***4***"
-	{
-		"chi"		"**4**"
-	}
-	"***3***"
-	{
-		"chi"		"**3**"
-	}
-	"***2***"
-	{
-		"chi"		"**2**"
-	}
-	"***1***"
-	{
-		"chi"		"**1**"
-	}
-	"***Next Level A Realm Reborn***"
-	{
-		"chi"		"**下一关卡: 涅槃之域**"
-	}
-	"***Skill Unlocked***"
-	{
-		"chi"		"**神器解锁**"
-	}
-	"***Level:A Realm Reborn***"
-	{
-		"chi"		"**关卡: 涅槃之域**"
-	}
-	"***A player picked up Summoner Shadow Flare***"
-	{
-		"chi"		"**一位玩家习得了电**"
-	}
-	"***Recast 60s***"
-	{
-		"chi"		"**CD: 60秒**"
+    "***10 seconds to Active Nymian Device***"
+    {
+        "chi" "**10秒后激活尼敏装置**"
+    }
 
-	}
-	"***A player picked up Black Mage Flare***"
-	{
-		"chi"		"**一位玩家习得了火**"
-	}
-	"***Recast 45s***"
-	{
-		"chi"		"**CD: 45秒**"
+    "***10 seconds to attack of the boss***"
+    {
+        "chi" "**还有10秒攻击boss**"
+    }
 
-	}
-	"***A player picked up Paladin Shild Oath"
-	{
-		"chi"		"**一位玩家获得了盾**"
-	}
-	"***Recast 70s***"
-	{
-		"chi"		"**CD: 70秒**"
+    "***10 seconds***"
+    {
+        "chi" "**10秒**"
+    }
 
-	}
-	"***Wait for 30 seconds***"
-	{
-		"chi"		"**坚守30秒**"
+    "***10seconds to Mega Flare***"
+    {
+        "chi" "**10秒后释放超星撕裂**"
+    }
 
-	}
-	"***A player picked up Bird Armys Paeon***"
-	{
-		"chi"		"**一位玩家获得了弹药**"
-	}
-	"***Recast 90s***"
-	{
-		"chi"		"**CD: 90秒**"
+    "***15 seconds to Active Nymian Device***"
+    {
+        "chi" "**15秒后激活尼敏装置**"
+    }
 
-	}
-	"***A player picked up Mount Night Mare***"
-	{
-		"chi"		"**一位玩家获得了墙**"
-	}
-	"***Recast 50s***"
-	{
-		"chi"		"**CD: 50秒**"
-	}
-	"***30 seconds to Active Nymian Device***"
-	{
-		"chi"		"**30秒后激活尼敏装置**"
+    "***2***"
+    {
+        "chi" "**2**"
+    }
 
-	}
-	"***Hold this position 20 seconds***"
-	{
-		"chi"		"**坚守这个位置20秒**"
+    "***20 seconds to Activate Elevator"
+    {
+        "chi" "**电梯20秒后启动**"
+    }
 
-	}
-	"***Hold this position 60 seconds***"
-	{
-		"chi"		"**坚守这个位置60秒**"
+    "***20 seconds to Activate Escape Elevator***"
+    {
+        "chi" "**20秒后启动电梯**"
+    }
 
-	}
-	"***Heavens Fall***"
-	{
-		"chi"		"**天堂陨落**"
-	}
-	"***Go to the Escape Elevator Tower***"
-	{
-		"chi"		"**赶快前往逃离电梯**"
-	}
-	"***20 seconds to Active Nymian Device***"
-	{
-		"chi"		"**20秒后激活尼敏装置**"
+    "***20 seconds to Activate Nymian Device***"
+    {
+        "chi" "**20秒后激活尼敏装置**"
+    }
 
-	}
-	"***30 seconds to Activate Escape Elevator***"
-	{
-		"chi"		"**电梯30秒后上升**"
+    "***20 seconds to Active Nymian Device***"
+    {
+        "chi" "**20秒后激活尼敏装置**"
+    }
 
-	}
-	"***Ravana Used Stop***"
-	{
-		"chi"		"**罗波那使用了时停**"
-	}
-	"***Next Level:Heavens Ward***"
-	{
-		"chi"		"**下一关卡: 诸神黄昏**"
-	}
-	"***Level:Heavens Ward***"
-	{
-		"chi"		"**关卡: 诸神黄昏**"
-	}
-	"***Hold this position 40 seconds***"
-	{
-		"chi"		"**坚守40秒**"
+    "***3***"
+    {
+        "chi" "**3**"
+    }
 
-	}
-	"***20 seconds to Activate Elevator"
-	{
-		"chi"		"**电梯20秒后启动**"
+    "***30 seconds to Activate Elevator***"
+    {
+        "chi" "**电梯30秒后启动**"
+    }
 
-	}
-	"***30 seconds to Activate Elevator***"
-	{
-		"chi"		"**电梯30秒后启动**"
+    "***30 seconds to Activate Escape Elevator***"
+    {
+        "chi" "**电梯30秒后上升**"
+    }
 
-	}
-	"***30 seconds to Break Wall***"
-	{
-		"chi"		"**30秒后墙体碎开**"
+    "***30 seconds to Active Nymian Device***"
+    {
+        "chi" "**30秒后激活尼敏装置**"
+    }
 
-	}
-	"***40 seconds to Activate Telepoter"
-	{
-		"chi"		"**传送器40秒后激活**"
+    "***30 seconds to Break Wall***"
+    {
+        "chi" "**30秒后墙体碎开**"
+    }
 
-	}
-	"***A player picked up White Mage Benediction***"
-	{
-		"chi"		"**一位玩家拾取了奶 -- CD: 90秒**"
+    "***4***"
+    {
+        "chi" "**4**"
+    }
 
-	}
-	"***Bahamut Prime appeared***"
-	{
-		"chi"		"**巴哈姆特出现了**"
-	}
-	"***Bahamut Prime has casting now***"
-	{
-		"chi"		"**巴哈姆特技能载入中**"
-	}
-	"***Akh Morn***"
-	{
-		"chi"		"**超星撕裂**"
+    "***40 seconds to Activate Telepoter"
+    {
+        "chi" "**传送器40秒后激活**"
+    }
 
-	}
-	"*** 3 ***"
-	{
-		"chi"		"**3**"
-	}
-	"*** 2 ***"
-	{
-		"chi"		"**2**"
-	}
-	"*** 1 ***"
-	{
-		"chi"		"**1**"
-	}
-	"***Flare***"
-	{
-		"chi"		"**烈焰**"
-	}
-	"***Tempest Wing***"
-	{
-		"chi"		"**狂风之翼**"
-	}
-	"***Bahamut Prime died***"
-	{
-		"chi"		"**巴哈姆特已去世**"
-	}
-	"***Go to the Escape Elevator***"
-	{
-		"chi"		"**赶快前往逃离电梯**"
-	}
-	"***Elevator Gravity ON***"
-	{
-		"chi"		"**电梯低重力启动**"
-	}
-	"***Hold this position to 15 seconds***"
-	{
-		"chi"		"**防守15秒**"
+    "***45 seconds to MAP CLEAR***"
+    {
+        "chi" "**坚守45秒你就能通关了**"
+    }
 
-	}
-	"***Jump!***"
-	{
-		"chi"		"**跳!**"
-	}
-	"***The Wanderers Palace Clear to 20 seconds***"
-	{
-		"chi"		"**浪子神殿将在20秒后毁灭**"
+    "***5 seconds***"
+    {
+        "chi" "**5秒**"
+    }
 
-	}
-	"***The Wanderers Palace CLEAR***"
-	{
-		"chi"		"**浪子神殿毁灭**"
-	}
-	"***ADS Attack***"
-	{
-		"chi"		"**ADS来袭**"
-	}
-	"***shoot ADS and Zombies***"
-	{
-		"chi"		"**射击ADS**"
-	}
-	"***Earth Shaker***"
-	{
-		"chi"		"**巨石冲击**"
-	}
-	"***10 seconds***"
-	{
-		"chi"		"**10秒**"
-	}
-	"***Recast 55s***"
-	{
-		"chi"		"**CD: 55秒**"
+    "***5***"
+    {
+        "chi" "**5**"
+    }
 
-	}
-	"***A player picked up Paladin Shield Oath"
-	{
-		"chi"		"**一位玩家获得了流沙**"
-	}
-	"***Recast 80s***"
-	{
-		"chi"		"**CD: 80秒**"
+    "***A player found Nymian Device***"
+    {
+        "chi" "**一位玩家找到了尼敏装置**"
+    }
 
-	}
-	"***Level:Savage set***"
-	{
-		"chi"		"**难度: 疯狂模式已加载**"
-	}
-	"***Hold this position to 30 seconds***"
-	{
-		"chi"		"**坚守30秒**"
+    "***A player picked up Bird Armys Paeon***"
+    {
+        "chi" "**一位玩家获得了弹药**"
+    }
 
-	}
-	"***Laser***"
-	{
-		"chi"		"**跳刀**"
-	}
-	"***The Wanderers Palace Clear to 10 seconds***"
-	{
-		"chi"		"**浪子神殿将在10秒后毁灭**"
-	}
-	"***Nael Van Durnas appeared***"
-	{
-		"chi"		"**神殿守卫出现了**"
-	}
-	"***KILL HER***"
-	{
-		"chi"		"**杀了他**"
-	}
-	"***GO GO GO GO***"
-	{
-		"chi"		"**跑起来**"
-	}
-	"***The Wanderers Palace Clear...?***"
-	{
-		"chi"		"**你以为这就结束了?**"
-	}
-	"***I will kill you guys***"
-	{
-		"chi"		"**我会杀了你们**"
-	}
-	"***Savage Nael appeared ***"
-	{
-		"chi"		"**疯狂的守卫出现了**"
-	}
-	"***Dogde Last Lasers***"
-	{
-		"chi"		"**最后的跳刀**"
-	}
-	"***Nael Van Darnus DIED***"
-	{
-		"chi"		"**神殿守卫已去世**"
-	}
-	"***Level:Secret Type-0***"
-	{
-		"chi"		"**难度: 隐秘**"
-	}
-	"***Level:Heavens Ward set***"
-	{
-		"chi"		"**难度: 诸神黄昏载入中**"
-	}
-	"***Level:type-0 set***"
-	{
-		"chi"		"**难度: 隐秘载入中**"
-	}
-	"***Hold this position to 70 seconds***"
-	{
-		"chi"		"**坚守这个位置70秒**"
+    "***A player picked up Black Mage Flare***"
+    {
+        "chi" "**一位玩家习得了火**"
+    }
 
-	}
-	"***SECRET CLEAR ALLMODE COMPLETE***"
-	{
-		"chi"		"**所有难度已通过**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"**服务器即将关闭, 请更新你的游戏**"
-	}
-	"***Location: The Wanderer's Palace***"
-	{
-		"chi"		"**当前场景: 浪子神殿**"
-	}
-	"***Modified by Reflelia***"
-	{
-		"chi"		"** **"
-	}
+    "***A player picked up Mount Night Mare***"
+    {
+        "chi" "**一位玩家获得了墙**"
+    }
+
+    "***A player picked up Paladin Shield Oath"
+    {
+        "chi" "**一位玩家获得了流沙**"
+    }
+
+    "***A player picked up Summoner Shadow Flare***"
+    {
+        "chi" "**一位玩家习得了电**"
+    }
+
+    "***A player picked up White Mage Benediction***"
+    {
+        "chi" "**一位玩家拾取了奶 -- CD: 90秒**"
+    }
+
+    "***Activated GREEN Nymian Device***"
+    {
+        "chi" "**绿色尼敏装置已激活**"
+    }
+
+    "***Activated RED Nymian Device***"
+    {
+        "chi" "**红色尼敏装置已激活**"
+    }
+
+    "***Activated YELLOW Nymian Device***"
+    {
+        "chi" "**黄色尼敏装置已激活**"
+    }
+
+    "***ADS appeared***"
+    {
+        "chi" "**ADS已出现**"
+    }
+
+    "***ADS Attack***"
+    {
+        "chi" "**ADS来袭**"
+    }
+
+    "***ADS died***"
+    {
+        "chi" "**ADS已去世**"
+    }
+
+    "***ADS is selecting now...***"
+    {
+        "chi" "**ADS技能载入中...**"
+    }
+
+    "***ADS........Activated***"
+    {
+        "chi" "**ADS........启动**"
+    }
+
+    "***Akh Morn***"
+    {
+        "chi" "**超星撕裂**"
+    }
+
+    "***Attack of the boss***"
+    {
+        "chi" "**赶快攻击boss**"
+    }
+
+    "***Bahamut Prime appeared***"
+    {
+        "chi" "**巴哈姆特出现了**"
+    }
+
+    "***Bahamut Prime died***"
+    {
+        "chi" "**巴哈姆特已去世**"
+    }
+
+    "***Bahamut Prime has casting now***"
+    {
+        "chi" "**巴哈姆特技能载入中**"
+    }
+
+    "***Break Fence***"
+    {
+        "chi" "**墙体碎开**"
+    }
+
+    "***Congratulations***"
+    {
+        "chi" "**恭喜通关**"
+    }
+
+    "***Dogde Last Lasers***"
+    {
+        "chi" "**最后的跳刀**"
+    }
+
+    "***Door close 10 seconds***"
+    {
+        "chi" "**门10秒后关闭**"
+    }
+
+    "***Door opened***"
+    {
+        "chi" "**门已打开**"
+    }
+
+    "***Earth Shaker***"
+    {
+        "chi" "**巨石冲击**"
+    }
+
+    "***Elevator Gravity ON***"
+    {
+        "chi" "**电梯低重力启动**"
+    }
+
+    "***Enkidu appered***"
+    {
+        "chi" "**恩奇都出现了**"
+    }
+
+    "***Enkidu died***"
+    {
+        "chi" "**恩奇都已去世**"
+    }
+
+    "***Flare***"
+    {
+        "chi" "**烈焰**"
+    }
+
+    "***Found Intruders!!!!!!!***"
+    {
+        "chi" "**发现入侵者!!!!!!!**"
+    }
+
+    "***GO GO GO GO***"
+    {
+        "chi" "**跑起来**"
+    }
+
+    "***Go to the Escape Elevator Tower***"
+    {
+        "chi" "**赶快前往逃离电梯**"
+    }
+
+    "***Go to the Escape Elevator***"
+    {
+        "chi" "**赶快前往逃离电梯**"
+    }
+
+    "***Gravity ON***"
+    {
+        "chi" "**低重力启动**"
+    }
+
+    "***Heavens Fall***"
+    {
+        "chi" "**天堂陨落**"
+    }
+
+    "***Hold this position 20 seconds***"
+    {
+        "chi" "**坚守这个位置20秒**"
+    }
+
+    "***Hold this position 35 seconds***"
+    {
+        "chi" "**坚守35秒**"
+    }
+
+    "***Hold this position 40 seconds***"
+    {
+        "chi" "**坚守40秒**"
+    }
+
+    "***Hold this position 60 seconds***"
+    {
+        "chi" "**坚守这个位置60秒**"
+    }
+
+    "***Hold this position to 30 seconds***"
+    {
+        "chi" "**坚守30秒**"
+    }
+
+    "***Hold this position to 70 seconds***"
+    {
+        "chi" "**坚守这个位置70秒**"
+    }
+
+    "***Human Killer ON***"
+    {
+        "chi" "**人类杀手模组已加载**"
+    }
+
+    "***I will kill you guys***"
+    {
+        "chi" "**我会杀了你们**"
+    }
+
+    "***Jump!***"
+    {
+        "chi" "**跳!**"
+    }
+
+    "***Keep shooting Enkidu***"
+    {
+        "chi" "**射击恩奇都**"
+    }
+
+    "***Keep shooting to ADS***"
+    {
+        "chi" "**赶快射击ADS**"
+    }
+
+    "***KILL HER***"
+    {
+        "chi" "**杀了他**"
+    }
+
+    "***Level:A Realm Reborn set***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Level:A Realm Reborn***"
+    {
+        "chi" "**关卡: 涅槃之域**"
+    }
+
+    "***Level:Heavens Ward set***"
+    {
+        "chi" "**难度: 诸神黄昏载入中**"
+    }
+
+    "***Level:Heavens Ward***"
+    {
+        "chi" "**关卡: 诸神黄昏**"
+    }
+
+    "***Level:Normal"
+    {
+        "chi" "**难度: 普通**"
+    }
+
+    "***Level:Normal set***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Level:Savage"
+    {
+        "chi" "**难度: 疯狂**"
+    }
+
+    "***Level:Savage set***"
+    {
+        "chi" "**难度: 疯狂模式已加载**"
+    }
+
+    "***Level:Secret Type-0***"
+    {
+        "chi" "**难度: 隐秘**"
+    }
+
+    "***Level:type-0 set***"
+    {
+        "chi" "**难度: 隐秘载入中**"
+    }
+
+    "***Location: The Wanderer's Palace***"
+    {
+        "chi" "**当前场景: 浪子神殿**"
+    }
+
+    "***Location:The Binding Coil of Bahamut***"
+    {
+        "chi" "**当前场景: 巴哈姆特空间**"
+    }
+
+    "***Look for Nymian Device***"
+    {
+        "chi" "**寻找尼敏装置**"
+    }
+
+    "***Look for RED,YELLOW,GREEN Nymian Devices***"
+    {
+        "chi" "**找到并激活红色, 黄色, 绿色的尼敏装置**"
+    }
+
+    "***Map made by Altima***"
+    {
+        "chi" "**地图作者: Altima 翻译: 大明@風雲社**"
+    }
+
+    "***Nael Van Darnus DIED***"
+    {
+        "chi" "**神殿守卫已去世**"
+    }
+
+    "***Nael Van Durnas appeared***"
+    {
+        "chi" "**神殿守卫出现了**"
+    }
+
+    "***Next Level A Realm Reborn***"
+    {
+        "chi" "**下一关卡: 涅槃之域**"
+    }
+
+    "***Next Level Savage***"
+    {
+        "chi" "**下一难度: 疯狂**"
+    }
+
+    "***Next Level:Heavens Ward***"
+    {
+        "chi" "**下一关卡: 诸神黄昏**"
+    }
+
+    "***Ravana Used Stop***"
+    {
+        "chi" "**罗波那使用了时停**"
+    }
+
+    "***Recast 50s***"
+    {
+        "chi" "**CD: 50秒**"
+    }
+
+    "***Recast 55s***"
+    {
+        "chi" "**CD: 55秒**"
+    }
+
+    "***Recast 60s***"
+    {
+        "chi" "**CD: 60秒**"
+    }
+
+    "***Recast 80s***"
+    {
+        "chi" "**CD: 80秒**"
+    }
+
+    "***Recast 90s***"
+    {
+        "chi" "**CD: 90秒**"
+    }
+
+    "***Savage Nael appeared ***"
+    {
+        "chi" "**疯狂的守卫出现了**"
+    }
+
+    "***SECRET CLEAR ALLMODE COMPLETE***"
+    {
+        "chi" "**所有难度已通过**"
+    }
+
+    "***shoot ADS and Zombies***"
+    {
+        "chi" "**射击ADS**"
+    }
+
+    "***Skill Unlocked***"
+    {
+        "chi" "**神器解锁**"
+    }
+
+    "***STAGE CLEAR***"
+    {
+        "chi" "**关卡通过**"
+    }
+
+    "***Teleporter Activate***"
+    {
+        "chi" "**传送器已激活**"
+    }
+
+    "***Tempest Wing***"
+    {
+        "chi" "**狂风之翼**"
+    }
+
+    "***Texture Support by fujione***"
+    {
+        "chi" "**纹理帮助: fujione**"
+    }
+
+    "***The Wanderer's Palace Clear to 10 seconds***"
+    {
+        "chi" "__null__"
+    }
+
+    "***The Wanderer's Palace Clear to 20 seconds***"
+    {
+        "chi" "__null__"
+    }
+
+    "***The Wanderer's Palace CLEAR***"
+    {
+        "chi" "__null__"
+    }
+
+    "***The Wanderer's Palace Clear...?***"
+    {
+        "chi" "__null__"
+    }
+
+    "***Wait for 20 seconds ***"
+    {
+        "chi" "**坚守20秒**"
+    }
+
+    "***Wait for 20 seconds***"
+    {
+        "chi" "**坚守20秒**"
+    }
+
+    "***Wait for 30 seconds"
+    {
+        "chi" "**坚守30秒**"
+    }
+
+    "***Wait for 30 seconds***"
+    {
+        "chi" "**坚守30秒**"
+    }
+
 }

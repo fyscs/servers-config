@@ -1,159 +1,114 @@
 "Console_T"
 {
-	"*Map by Neox*"
-	{
-		"chi"		"** 地图制作: Neox 地图翻译: 小三@风云社 **"
-	}
-	"*Thanks to Fuu and FreeZe :P *"
-	{
-		"chi"		"** 感谢Fuu和FreeZe :P提供的帮助 **"
-	}
-	"*Startdoor C is opening in 10 seconds!*"
-	{
-		"chi"		"** C区大门10秒后打开! **"
-	}
-	"*Elevator is leaving in 5 seconds!*"
-	{
-		"chi"		"** 电梯5秒后离开! **"
-	}
-	"*Bridge is breaking in 30 seconds!*"
-	{
-		"chi"		"** 石桥30秒后坍塌! **"
-	}
-	"*Bridge is breaking in 10 seconds!*"
-	{
-		"chi"		"** 石桥10秒后坍塌! **"
-	}
-	"*Gate is opening!*"
-	{
-		"chi"		"** 闸门打开了! **"
-	}
-	"*Tram is leaving in 12 seconds!*"
-	{
-		"chi"		"** 电车12秒后离开! **"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"*AFK teleport in 10 seconds!*"
-	{
-		"chi"		"** 10秒后清理挂机咸鱼 **"
-	}
-	"*Right Gate is opening in 15 seconds!*"
-	{
-		"chi"		"** 右闸门15秒后打开! **"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"*Left Gate is opening in 15 seconds!*"
-	{
-		"chi"		"** 左闸门15秒后开启! **"
-	}
-	"*Right Gate is opening!*"
-	{
-		"chi"		"** 右闸门打开了! **"
-	}
-	"*Left Gate is opening!*"
-	{
-		"chi"		"** 左闸门打开了! **"
-	}
-	"*Bigdoor is opening in 30 seconds!*"
-	{
-		"chi"		"** 大门30秒后打开! **"
 
-	}
-	"*Bigdoor is opening in 10 seconds!*"
-	{
-		"chi"		"**  大门10秒后打开!**"
-	}
-	"*Bigdoor is opening!*"
-	{
-		"chi"		"** 大门正在打开! **"
-	}
-	"*Finaldoor is opening in 15 seconds!"
-	{
-		"chi"		"** 最后的逃生门将在15秒后打开! **"
-	}
-	"*Finaldoor is opening!"
-	{
-		"chi"		"** 最后的逃生门打开了! **"
-	}
-	"*Light in 30 seconds!*"
-	{
-		"chi"		"** 桥梁30秒后断裂! **"
+    "*AFK teleport in 10 seconds!*"
+    {
+        "chi" "** 10秒后清理挂机咸鱼 **"
+    }
 
-	}
-	"*Light in 10 seconds!*"
-	{
-		"chi"		"** 桥梁10秒后断裂! **"
-	}
-	"<<< Map by Jllaneras >>>"
-	{
-		"chi"		"** **"
-	}
-	"<<< Trial 1 >>>"
-	{
-		"chi"		"** **"
-	}
-	"<< ze_surf_virtus >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Fix by : Lishang >>"
-	{
-		"chi"		"** **"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"** **"
-	}
-	"For POSSESSION, Respect to Sakura"
-	{
-		"chi"		"** **"
-	}
-	"Based-map by Xquality"
-	{
-		"chi"		"** **"
-	}
-	"**stage 1**"
-	{
-		"chi"		"** **"
-	}
-	"**welcome to ze_fat_hours_escape**"
-	{
-		"chi"		"** **"
-	}
-	"**map by yinyuehzixi**"
-	{
-		"chi"		"** **"
-	}
-	"** Map by ClariceTang **"
-	{
-		"chi"		"** **"
-	}
-	"** Level 1 - Easy **"
-	{
-		"chi"		"** **"
-	}
-	"** Model by K. **"
-	{
-		"chi"		"** **"
-	}
-	">> 9 MINUTES TO ESCAPE <<"
-	{
-		"chi"		"** **"
-	}
-	"**Thanks to Airvulpes for the textures**"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	"***Particle Effect by Airvulpes***"
-	{
-		"chi"		"** **"
-	}
-	"***Thanks to Shizuru[idea]  uuz[model]***"
-	{
-		"chi"		"** **"
-	}
+    "*Bigdoor is opening in 10 seconds!*"
+    {
+        "chi" "**  大门10秒后打开!**"
+    }
+
+    "*Bigdoor is opening in 30 seconds!*"
+    {
+        "chi" "** 大门30秒后打开! **"
+    }
+
+    "*Bigdoor is opening!*"
+    {
+        "chi" "** 大门正在打开! **"
+    }
+
+    "*Bridge is breaking in 10 seconds!*"
+    {
+        "chi" "** 石桥10秒后坍塌! **"
+    }
+
+    "*Bridge is breaking in 30 seconds!*"
+    {
+        "chi" "** 石桥30秒后坍塌! **"
+    }
+
+    "*Elevator is leaving in 5 seconds!*"
+    {
+        "chi" "** 电梯5秒后离开! **"
+    }
+
+    "*Finaldoor is opening in 15 seconds!"
+    {
+        "chi" "** 最后的逃生门将在15秒后打开! **"
+    }
+
+    "*Finaldoor is opening!"
+    {
+        "chi" "** 最后的逃生门打开了! **"
+    }
+
+    "*Gate is opening!*"
+    {
+        "chi" "** 闸门打开了! **"
+    }
+
+    "*Left Gate is opening in 15 seconds!*"
+    {
+        "chi" "** 左闸门15秒后开启! **"
+    }
+
+    "*Left Gate is opening!*"
+    {
+        "chi" "** 左闸门打开了! **"
+    }
+
+    "*Light in 10 seconds!*"
+    {
+        "chi" "** 桥梁10秒后断裂! **"
+    }
+
+    "*Light in 30 seconds!*"
+    {
+        "chi" "** 桥梁30秒后断裂! **"
+    }
+
+    "*Map by Neox*"
+    {
+        "chi" "** 地图制作: Neox 地图翻译: 小三@风云社 **"
+    }
+
+    "*Right Gate is opening in 15 seconds!*"
+    {
+        "chi" "** 右闸门15秒后打开! **"
+    }
+
+    "*Right Gate is opening!*"
+    {
+        "chi" "** 右闸门打开了! **"
+    }
+
+    "*Startdoor C is opening in 10 seconds!*"
+    {
+        "chi" "** C区大门10秒后打开! **"
+    }
+
+    "*Thanks to Fuu and FreeZe :P *"
+    {
+        "chi" "** 感谢Fuu和FreeZe :P提供的帮助 **"
+    }
+
+    "*Tram is leaving in 12 seconds!*"
+    {
+        "chi" "** 电车12秒后离开! **"
+    }
+
 }

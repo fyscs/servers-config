@@ -1,5 +1,50 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** 10 seconds left ***"
+    {
+        "chi" "还剩10s"
+    }
+
+    "*** 20 seconds left ***"
+    {
+        "chi" "还有20s"
+    }
+
+    "*** 5 seconds left ***"
+    {
+        "chi" "还剩5s"
+    }
+
+    "*** Hold 10 seconds ***"
+    {
+        "chi" "防守10s"
+    }
+
+    "*** Hold 20 seconds ***"
+    {
+        "chi" "防守20s"
+    }
+
+    "*** Hold 30 seconds ***"
+    {
+        "chi" "防守30s"
+    }
+
+    "*** Hold 40 seconds ***"
+    {
+        "chi" "防守40s,让我康康谁还在刷传送"
+    }
 
     "FOOL !"
     {
@@ -151,41 +196,6 @@
         "chi" "你也是偷偷溜出来看她的吗?"
     }
 
-    "Yo !"
-    {
-        "chi" "哟!"
-    }
-
-    "*** Hold 30 seconds ***"
-    {
-        "chi" "防守30s"
-    }
-
-    "*** 5 seconds left ***"
-    {
-        "chi" "还有5s,别着急"
-    }
-
-    "*** 10 seconds left ***"
-    {
-        "chi" "还有10s"
-    }
-
-    "*** 20 seconds left ***"
-    {
-        "chi" "还有20s"
-    }
-
-    "*** Hold 20 seconds ***"
-    {
-        "chi" "防守20s"
-    }
-
-    "*** 5 seconds left ***"
-    {
-        "chi" "还有5s"
-    }
-
     "You're gonna have to try a little harder than THAT ."
     {
         "chi" "你还得再加把劲"
@@ -291,11 +301,6 @@
         "chi" "不..."
     }
 
-    "..."
-    {
-        "chi" "..."
-    }
-
     "I've failed you ."
     {
         "chi" "让你们失望了"
@@ -344,31 +349,6 @@
     "You ..."
     {
         "chi" "你..."
-    }
-
-    "*** Hold 20 seconds ***"
-    {
-        "chi" "防守20s"
-    }
-
-    "*** Hold 20 seconds ***"
-    {
-        "chi" "防守20s"
-    }
-
-    "*** Hold 40 seconds ***"
-    {
-        "chi" "防守40s,让我康康谁还在刷传送"
-    }
-
-    "*** 10 seconds left ***"
-    {
-        "chi" "还剩10s"
-    }
-
-    "*** Hold 10 seconds ***"
-    {
-        "chi" "防守10s"
     }
 
     "Undyne ... You're ... You're hurt ..."
@@ -426,19 +406,9 @@
         "chi" "伤害了很多人"
     }
 
-    "..."
-    {
-        "chi" "..."
-    }
-
     "But , yo , that's not true , right !?"
     {
         "chi" "但是,哟,那不是真的,对吧!?"
-    }
-
-    "..."
-    {
-        "chi" "..."
     }
 
     "... yo ..."
@@ -501,34 +471,9 @@
         "chi" "然...然后...然后"
     }
 
-    "*** Hold 20 seconds ***"
-    {
-        "chi" "防守20s"
-    }
-
-    "*** 5 seconds left ***"
-    {
-        "chi" "还有5s"
-    }
-
-    "*** Hold 20 seconds ***"
-    {
-        "chi" "防守20s"
-    }
-
-    "*** 5 seconds left ***"
-    {
-        "chi" "还有5s"
-    }
-
     "Behind you ."
     {
         "chi" "在 你 后 面"
-    }
-
-    "..."
-    {
-        "chi" "..."
     }
 
     "Seven ."
@@ -546,7 +491,7 @@
         "chi" "借由七个灵魂的力量"
     }
 
-    "King ASGORE Dreemurr ... "
+    "King ASGORE Dreemurr ..."
     {
         "chi" "ASGORE国王"
     }
@@ -569,11 +514,6 @@
     "And give them back the suffering and pain that we have endured ."
     {
         "chi" "然后将我们所受到的痛苦和磨难全部返还"
-    }
-
-    "..."
-    {
-        "chi" "..."
     }
 
     "Understand , human ?"
@@ -756,11 +696,6 @@
         "chi" "我们走吧!"
     }
 
-    "Let's go !"
-    {
-        "chi" "我们走吧!"
-    }
-
     "Awesome !"
     {
         "chi" "太棒了!"
@@ -841,7 +776,7 @@
         "chi" "她只是站在那里等着,然后你就...!!!"
     }
 
-    "C'mon ! "
+    "C'mon !"
     {
         "chi" "GKD!"
     }
@@ -849,61 +784,6 @@
     "Let's go watch her beat up some bad guys !"
     {
         "chi" "我们去看她惩罚那些坏家伙吧!"
-    }
-
-    "*** 5 seconds left ***"
-    {
-        "chi" "还剩5s"
-    }
-
-    "*** Hold 20 seconds ***"
-    {
-        "chi" "防守20s"
-    }
-
-    "*** 5 seconds left ***"
-    {
-        "chi" "还剩5s"
-    }
-
-    "*** Hold 20 seconds ***"
-    {
-        "chi" "防守20s"
-    }
-
-    "*** 5 seconds left ***"
-    {
-        "chi" "还剩5s"
-    }
-
-    "*** Hold 20 seconds ***"
-    {
-        "chi" "防守20s"
-    }
-
-    "*** 5 seconds left ***"
-    {
-        "chi" "还剩5s"
-    }
-
-    "*** Hold 20 seconds ***"
-    {
-        "chi" "防守20s"
-    }
-
-    "*** 5 seconds left ***"
-    {
-        "chi" "还剩5s"
-    }
-
-    "*** Hold 20 seconds ***"
-    {
-        "chi" "防守20s"
-    }
-
-    "*** 10 seconds left ***"
-    {
-        "chi" "还剩10s"
     }
 
     "*** Map by Airvulpes ***"
@@ -919,11 +799,6 @@
     "So even THAT power ... It wans't enough ... ?"
     {
         "chi" "即使是这样的力量...也不够吗...?"
-    }
-
-    "..."
-    {
-        "chi" "..."
     }
 
     "Heh ..."

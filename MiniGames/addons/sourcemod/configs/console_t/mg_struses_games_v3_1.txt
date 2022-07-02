@@ -1,0 +1,86 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
+
+
+    "[Map] 1"
+    {
+        "blocked" "1"
+    }
+
+    "[Map] 2"
+    {
+        "blocked" "1"
+    }
+
+    "[Map] 3"
+    {
+        "blocked" "1"
+    }
+
+    "[Map] 4"
+    {
+        "blocked" "1"
+    }
+
+    "[Map] 5"
+    {
+        "chi" ">5<"
+    }
+
+    "[Map] A player has finished the race!"
+    {
+        "chi" "有人到了终点"
+    }
+
+    "[Map] Both teams can now enter in each other base !"
+    {
+        "chi" "现在两边可以互相去对方的家"
+    }
+
+    "[Map] GOOOOOOL !"
+    {
+        "chi" "进球啦!"
+    }
+
+    "[Map] Race starts in:"
+    {
+        "blocked" "1"
+    }
+
+    "[Map] Random choice !"
+    {
+        "chi" "随机"
+    }
+
+    "[Map] Random Game..."
+    {
+        "chi" "随机游戏"
+    }
+
+    "[Map] Slay in 10 seconds !"
+    {
+        "chi" "将在10秒后处死"
+    }
+
+    "[Map] The race has started !"
+    {
+        "chi" "竞速开始"
+    }
+
+    "[Map] Time limit !"
+    {
+        "chi" "时间到!"
+    }
+
+}

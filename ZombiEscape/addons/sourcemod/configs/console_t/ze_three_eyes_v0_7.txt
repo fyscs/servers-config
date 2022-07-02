@@ -1,123 +1,98 @@
 "Console_T"
 {
-	"**Special thanks to Jewdice for particles work**"
-	{
-		"chi"		"** **"
-	}
-	"**Special thanks to sGUNLOZEZRAGEGFLPSE servers for testing**"
-	{
-		"chi"		"** **"
-	}
-	"**Special thanks to Moltard and Soft Serve**"
-	{
-		"chi"		"** **"
-	}
-	"**Thanks to Connor(EasterLee) server for testing**"
-	{
-		"chi"		"** **"
-	}
-	"**Thanks to Airvulpes for the textures**"
-	{
-		"chi"		"** **"
-	}
-	"**Wait here for the moving platform**"
-	{
-		"chi"		"**在这里等移动平台!别乱动呀**"
-	}
-	"**Stay on the Cube**"
-	{
-		"chi"		"**呆在上面!哼!**"
-	}
-	"**Pick a platform**"
-	{
-		"chi"		"**选择一个平台!**"
-	}
-	"**Zombies are comming**"
-	{
-		"chi"		"**僵尸来了!**"
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"**纽约马拉松: 快跑!!**"
-	}
-	"**Wait until the teleport activates**"
-	{
-		"chi"		"**坚守住传送激活!**"
-	}
-	"**Thanks for playing the map**"
-	{
-		"chi"		"**谢谢你游玩这张地图**"
-	}
-	"**Complete the final course to select the level**"
-	{
-		"chi"		"** **"
-	}
-	"**Level 3 - Red Eyes selected**"
-	{
-		"chi"		"**第三关-选择红眼**"
-	}
-	"**Stage 1**"
-	{
-		"chi"		"**第一阶段**"
-	}
-	"**welcome to ze_fat_hours_escape**"
-	{
-		"chi"		"** **"
-	}
-	"**map by yinyuehzixi**"
-	{
-		"chi"		"** **"
-	}
-	">> ZE_ERROR <<"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"**二十秒后墙破裂!坚守这里!**"
-	}
-	"**Level 2 - Green Eyes selected**"
-	{
-		"chi"		"**第二关:选择绿眼**"
-	}
-	"**Level 4 - Three Eyes selected**"
-	{
-		"chi"		"**第四关:选择三只眼**"
-	}
-	"Thanks by Sakura, Possession"
-	{
-		"chi"		"** **"
-	}
-	"Original Map by Xquality"
-	{
-		"chi"		"** **"
-	}
-	"**Map made by Eugenio *Motanum* Roman**"
-	{
-		"chi"		"** **"
-	}
-	"**Contact me at eugenio.motanum91 AT gmail.com**"
-	{
-		"chi"		"** **"
-	}
-	"***Selecting default difficulty****"
-	{
-		"chi"		"** **"
-	}
-	"**Thanks to [PF] PlagueFest for their support!**"
-	{
-		"chi"		"** **"
-	}
-	"***Waiting for players****"
-	{
-		"chi"		"** **"
-	}
-	"***Reseting game in 20 seconds****"
-	{
-		"chi"		"** **"
-	}
-	"[Map] ze_Suchirifu"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "**Complete the final course to select the level**"
+    {
+        "chi" "恭喜你已经成功征服了这张地图"
+    }
+
+    "**Level 1 - Blue Eyes selected**"
+    {
+        "chi" "第一关:蓝"
+    }
+
+    "**Level 2 - Green Eyes selected**"
+    {
+        "chi" "**第二关:绿**"
+    }
+
+    "**Level 3 - Red Eyes selected**"
+    {
+        "chi" "**第三关:红**"
+    }
+
+    "**Level 4 - Three Eyes selected**"
+    {
+        "chi" "**第四关:三色奏章**"
+    }
+
+    "**Pick a platform**"
+    {
+        "chi" "**选择一个平台!**"
+    }
+
+    "**Special thanks to Jewdice for particles work**"
+    {
+        "chi" "非常感谢:Jewdice,Moltard,Airvulpes,Connor(EasterLee)"
+    }
+
+    "**Special thanks to Moltard and Soft Serve**"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "**Special thanks to sG/UNLOZE/ZRAGE/GFL/PSE servers for testing**"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "**Stay on the Cube**"
+    {
+        "chi" "**呆在上面!哼!**"
+    }
+
+    "**Thanks for playing the map**"
+    {
+        "chi" "**谢谢你游玩这张地图**"
+    }
+
+    "**Thanks to Airvulpes for the textures**"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "**Thanks to Connor(EasterLee) server for testing**"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "**Wait here for the moving platform**"
+    {
+        "chi" "**在这里等移动平台!别乱动呀**"
+    }
+
+    "**Wait until the teleport activates**"
+    {
+        "chi" "**坚守住传送激活!**"
+    }
+
+    "**Zombies are comming**"
+    {
+        "chi" "**僵尸来了!**"
+    }
+
 }

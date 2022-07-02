@@ -1,64 +1,76 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "**Loading...**"
+    {
+        "chi" "正在载入..."
+    }
 
     "**number0 button pressed**"
     {
-        "chi" "** **"
+        "chi" "[编号0]激活"
     }
 
     "**number1 button pressed**"
     {
-        "chi" "** **"
+        "chi" "[编号1]激活"
     }
 
     "**number2 button pressed**"
     {
-        "chi" "** **"
+        "chi" "[编号2]激活"
     }
 
     "**number3 button pressed**"
     {
-        "chi" "** **"
+        "chi" "[编号3]激活"
     }
 
     "**number4 button pressed**"
     {
-        "chi" "** **"
+        "chi" "[编号4]激活"
     }
 
     "**number5 button pressed**"
     {
-        "chi" "** **"
+        "chi" "[编号5]激活"
     }
 
     "**number6 button pressed**"
     {
-        "chi" "** **"
+        "chi" "[编号6]激活"
     }
 
     "**number7 button pressed**"
     {
-        "chi" "** **"
+        "chi" "[编号7]激活"
     }
 
     "**number8 button pressed**"
     {
-        "chi" "** **"
+        "chi" "[编号8]激活"
     }
 
     "**Play secret bgm1**"
     {
-        "chi" "** **"
+        "chi" "__null__"
+        "blocked"    "1"
     }
 
     "**Play secret bgm2**"
     {
-        "chi" "** **"
-    }
-
-    "**Loading...**"
-    {
-        "chi" "** **"
+        "chi" "__null__"
+        "blocked"    "1"
     }
 
 }

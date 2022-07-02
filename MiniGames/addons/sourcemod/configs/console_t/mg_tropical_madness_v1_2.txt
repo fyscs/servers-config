@@ -1,0 +1,108 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
+
+
+    "***Breach Charge Party selected***"
+    {
+        "chi" "遥控C4派对"
+        "notimer" "1"
+    }
+
+    "***Daring Escape selected***"
+    {
+        "chi" "__keep__"
+    }
+
+    "***Don't throw away your decoy! It helps you use Ice Cream weapon :)***"
+    {
+        "chi" "__keep__"
+    }
+
+    "***Exosimon selected***"
+    {
+        "chi" "七色花"
+    }
+
+    "***Exosimon Starting in 10 seconds...***"
+    {
+        "chi" "七色花将在10秒内开始"
+    }
+
+    "***Fightyard Party selected***"
+    {
+        "chi" "对枪"
+    }
+
+    "***Map created by Azet for GameBanana's CSGO Minigame Mapping Contest***"
+    {
+        "blocked" "1"
+    }
+
+    "***Mini Danger Zone selected***"
+    {
+        "chi" "迷你绝地求生"
+    }
+
+    "***Please wear your exojump boots!***"
+    {
+        "chi" "快穿外骨骼长跳模块"
+    }
+
+    "***Please wear your parachute!***"
+    {
+        "chi" "快穿降落伞"
+    }
+
+    "***Random map will be selected in 30 seconds!***"
+    {
+        "chi" "将在30秒内随机地图"
+        "notimer" "1"
+    }
+
+    "***Sentry Rampage selected***"
+    {
+        "chi" "无差别杀人机枪"
+    }
+
+    "***Start!***"
+    {
+        "chi" "开始"
+    }
+
+    "***Teleporting to Mini Danger Zone in 10 seconds!***"
+    {
+        "chi" "将在10秒内传送大伙到绝地求生地图"
+    }
+
+    "***Teleporting to volcano in 10 seconds!***"
+    {
+        "chi" "10秒内传送各位到火山"
+    }
+
+    "***Tropical Soccer selected***"
+    {
+        "chi" "足球"
+    }
+
+    "***Use ctrl+jump!***"
+    {
+        "chi" "用 蹲+跳 来用长跳装置"
+    }
+
+    "***Volcano Volleyball selected***"
+    {
+        "chi" "排球"
+    }
+
+}

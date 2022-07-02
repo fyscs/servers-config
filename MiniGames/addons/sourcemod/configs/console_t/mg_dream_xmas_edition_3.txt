@@ -1,0 +1,277 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
+
+
+    "-- 1 --"
+    {
+        "blocked" "1"
+    }
+
+    "-- 2 --"
+    {
+        "blocked" "1"
+    }
+
+    "-- 3 --"
+    {
+        "chi" "-- 3 --"
+    }
+
+    "-- v3: Map Edited by biggles [STEAM_0:1:4928562] --"
+    {
+        "blocked" "1"
+    }
+
+    "**15 Seconds Left**"
+    {
+        "chi" "还剩下15秒"
+    }
+
+    "**30 Seconds Left**"
+    {
+        "blocked" "1"
+    }
+
+    "**60 Seconds Left**"
+    {
+        "blocked" "1"
+    }
+
+    "**fucking NOOB Teams**"
+    {
+        "blocked" "1"
+    }
+
+    "**Music Kollegah - Bosshafte Weihnachten**"
+    {
+        "chi" "__keep__"
+    }
+
+    "**Music Sido Weihnachtssong**"
+    {
+        "chi" "__keep__"
+    }
+
+    "**Music xmas**"
+    {
+        "chi" "__keep__"
+    }
+
+    "**RANDOM Game & Music chosen**"
+    {
+        "chi" "随机音乐和游戏"
+    }
+
+    "**RANDOM Game Chosen**"
+    {
+        "chi" "随机游戏"
+    }
+
+    "**RANDOM Music Chosen**"
+    {
+        "chi" "随机音乐"
+    }
+
+    "**RANDOM opens in 35 seconds!**"
+    {
+        "blocked" "1"
+    }
+
+    "*Map By SkyK1llx3 -- Have Fun!!!*"
+    {
+        "blocked" "1"
+    }
+
+    "[MAP] -- 20 Seconds Left! --"
+    {
+        "chi" "还有20秒"
+    }
+
+    "[MAP] Jump on a gift to open it."
+    {
+        "chi" "跳到盒子上面来拆礼盒吧!"
+    }
+
+    "[MAP] mg_dream_xmas_edition_final"
+    {
+        "blocked" "1"
+    }
+
+    "[MAP] You have 40 seconds to pick a gift!"
+    {
+        "chi" "你有40秒时间来选礼盒"
+        "notimer" "1"
+    }
+
+    "[MUSIC] B-Complex - Beautiful Lies VIP"
+    {
+        "chi" "__keep__"
+    }
+
+    "[MUSIC] Bushido feat Joka Theorie & Praxis"
+    {
+        "chi" "__keep__"
+    }
+
+    "[MUSIC] Camo & Krooked - Far Away"
+    {
+        "chi" "__keep__"
+    }
+
+    "[MUSIC] deadmau5 - Strobe"
+    {
+        "chi" "__keep__"
+    }
+
+    "[MUSIC] Du Bist Ne BITCH"
+    {
+        "chi" "__keep__"
+    }
+
+    "[MUSIC] Eric Prydz - Pjanoo"
+    {
+        "chi" "__keep__"
+    }
+
+    "[MUSIC] Kollegah - Money"
+    {
+        "chi" "__keep__"
+    }
+
+    "[MUSIC] Metroid Prime - Phendrana Drifts"
+    {
+        "chi" "__keep__"
+    }
+
+    "[MUSIC] Red Hot Chili Peppers - Snow (Hey Oh)"
+    {
+        "chi" "__keep__"
+    }
+
+    "1..."
+    {
+        "blocked" "1"
+    }
+
+    "2..."
+    {
+        "blocked" "1"
+    }
+
+    "30 Seconds Left!"
+    {
+        "chi" "还剩下30秒"
+    }
+
+    "Breaking glass in 3..."
+    {
+        "chi" "玻璃将在3秒内破碎"
+    }
+
+    "Game chosen: AIM"
+    {
+        "chi" "对枪"
+    }
+
+    "Game chosen: AWP"
+    {
+        "chi" "大狙"
+    }
+
+    "Game chosen: BUNNYHOP"
+    {
+        "chi" "连跳"
+    }
+
+    "Game chosen: CLIMB"
+    {
+        "chi" "攀登"
+    }
+
+    "Game chosen: DEAGLE"
+    {
+        "chi" "沙鹰"
+    }
+
+    "Game chosen: Dream Xmas Edition"
+    {
+        "chi" "圣诞节礼物"
+    }
+
+    "Game chosen: JUMP"
+    {
+        "chi" "跳绳"
+    }
+
+    "Game chosen: KNIFE ARENA"
+    {
+        "chi" "刀战"
+    }
+
+    "Game chosen: LONG JUMP"
+    {
+        "chi" "长跳"
+    }
+
+    "Game chosen: NADE"
+    {
+        "chi" "手雷"
+    }
+
+    "Game chosen: RACE"
+    {
+        "chi" "竞速"
+    }
+
+    "Game chosen: SCOUT"
+    {
+        "chi" "鸟狙"
+    }
+
+    "Game chosen: TRAMPOLINE"
+    {
+        "chi" "蹦床"
+    }
+
+    "Glass Breaking in **1**"
+    {
+        "blocked" "1"
+    }
+
+    "Glass Breaking in **2**"
+    {
+        "blocked" "1"
+    }
+
+    "Glass Breaking in **3**"
+    {
+        "chi" "玻璃将在3秒内破碎"
+    }
+
+    "GO!"
+    {
+        "chi" "冲!"
+    }
+
+    "Knife it out!"
+    {
+        "chi" "开刀!"
+    }
+
+    "Starting in 3..."
+    {
+        "chi" "__keep__"
+    }
+
+}

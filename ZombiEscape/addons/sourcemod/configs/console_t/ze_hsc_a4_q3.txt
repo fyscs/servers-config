@@ -1,9 +1,19 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "!!! ADMIN HAS SET LEVEL 3 !!!"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "!!! ADMIN HAS SET LEVEL 1 !!!"
     {
-        "chi" "管理员选择了 lv③"
+        "chi" "管理员选择了 lv①"
     }
 
     "!!! ADMIN HAS SET LEVEL 2 !!!"
@@ -11,80 +21,9 @@
         "chi" "管理员选择了 lv②"
     }
 
-    "!!! ADMIN HAS SET LEVEL 1 !!!"
+    "!!! ADMIN HAS SET LEVEL 3 !!!"
     {
-        "chi" "管理员选择了 lv①"
-    }
-
-    "RESIST FOR 30 MORE SECONDS!"
-    {
-        "chi" "防守30s"
-    }
-
-    "ELEVATOR RISES IN 15 SECONDS"
-    {
-        "chi" "电梯还有15s上升"
-        "command" "sm_farter_enabled 0"
-    }
-
-    "DOORS OPENING IN 30 SECONDS"
-    {
-        "chi" "门开还有30s"
-    }
-
-    "DOOR OPENS IN 15 SECONDS"
-    {
-        "chi" "门开还有15s"
-    }
-
-    "KEEP RESISTING! THE NEXT DOOR OPENS IN 20 SECONDS"
-    {
-        "chi" "保持火力!下一道门开还需20s"
-    }
-
-    "DOOR OPENS IN 30 SECONDS"
-    {
-        "chi" "门开还有30s"
-    }
-
-    "DOORS OPENING IN 30 SECONDS"
-    {
-        "chi" "门开还有30s"
-    }
-
-    "DOORS OPENING IN 25 SECONDS"
-    {
-        "chi" "门开还有25s"
-    }
-
-    "DOORS OPENING IN 30 SECONDS"
-    {
-        "chi" "门开还有30s"
-    }
-
-    "A WAY WILL OPEN IN 35 SECONDS"
-    {
-        "chi" "道路将会在35s后开放"
-    }
-
-    "50 SECONDS LEFT"
-    {
-        "chi" "还有50s"
-    }
-
-    "40 SECONDS LEFT"
-    {
-        "chi" "40s"
-    }
-
-    "30 SECONDS LEFT"
-    {
-        "chi" "30s"
-    }
-
-    "20 SECONDS LEFT"
-    {
-        "chi" "20s"
+        "chi" "管理员选择了 lv③"
     }
 
     "10 SECONDS LEFT"
@@ -92,54 +31,24 @@
         "chi" "10s"
     }
 
-    "FALL BACK - DOOR IS OPENING"
+    "20 SECONDS LEFT"
     {
-        "chi" "门开了, 快溜~"
+        "chi" "20s"
     }
 
-    "TELEPORT ACTIVATES IN 20 SECONDS"
+    "30 SECONDS LEFT"
     {
-        "chi" "还有20s激活传送"
+        "chi" "30s"
     }
 
-    "MAP BY GEORGE"
+    "40 SECONDS LEFT"
     {
-        "chi" "地图作者: GEORGE   翻译: 没见过菜鸡啊@风云社"
+        "chi" "40s"
     }
 
-    "THIS MAP IS IN ALPHA. THERE ARE ONLY THREE STAGES BUILT CURRENTLY."
+    "50 SECONDS LEFT"
     {
-        "chi" "这张地图还在测试阶段, 目前只完成了三关."
-    }
-
-    "THANKS TO LUFFAREN"
-    {
-        "chi" "特别感谢: LUFFAREN"
-    }
-
-    "DOOR OPENS IN 35 SECONDS"
-    {
-        "chi" "门开还有35s"
-    }
-
-    "ELEVATOR WILL RISE IN 15 SECONDS"
-    {
-        "chi" "电梯还有15s启动"
-    }
-
-    "DOOR WILL OPEN IN 25 SECONDS"
-    {
-        "chi" "大门将会在25s后开放"
-    }
-
-    "THE DOOR WILL OPEN IN 30 SECONDS"
-    {
-        "chi" "大门将会在30s后开放"
-    }
-
-    "THE DOOR WILL OPEN IN 20 SECONDS"
-    {
-        "chi" "大门将会在20s后开放"
+        "chi" "还有50s"
     }
 
     "A WAY WILL OPEN IN 15 SECONDS"
@@ -152,20 +61,9 @@
         "chi" "还有25s, 开火!"
     }
 
-    "THE DOORS WILL OPEN IN 30 SECONDS"
+    "A WAY WILL OPEN IN 35 SECONDS"
     {
-        "chi" "门开还有30s"
-    }
-
-    "THE NEXT DOORS WILL OPEN IN 15 SECONDS"
-    {
-        "chi" "下一道门开还有15s"
-    }
-
-    "ELEVATOR WILL RISE IN 30 SECONDS"
-    {
-        "chi" "电梯还有30s开始上升"
-        "command" "sm_blader_enabled 0;sm_hunter_enabled 0;sm_boomer_enabled 0"
+        "chi" "道路将会在35s后开放"
     }
 
     "A WAY WILL OPEN IN 40 SECONDS!"
@@ -173,19 +71,109 @@
         "chi" "道路将会在40s后开放"
     }
 
+    "DOOR OPENS IN 15 SECONDS"
+    {
+        "chi" "门开还有15s"
+    }
+
+    "DOOR OPENS IN 30 SECONDS"
+    {
+        "chi" "门开还有30s"
+    }
+
+    "DOOR OPENS IN 35 SECONDS"
+    {
+        "chi" "门开还有35s"
+    }
+
+    "DOOR WILL OPEN IN 25 SECONDS"
+    {
+        "chi" "大门将会在25s后开放"
+    }
+
+    "DOORS OPENING IN 25 SECONDS"
+    {
+        "chi" "门开还有25s"
+    }
+
+    "DOORS OPENING IN 30 SECONDS"
+    {
+        "chi" "门开还有30s"
+    }
+
+    "ELEVATOR RISES IN 15 SECONDS"
+    {
+        "chi" "电梯还有15s上升"
+    }
+
+    "ELEVATOR WILL RISE IN 15 SECONDS"
+    {
+        "chi" "电梯还有15s启动"
+    }
+
+    "ELEVATOR WILL RISE IN 30 SECONDS"
+    {
+        "chi" "电梯还有30s开始上升"
+    }
+
+    "FALL BACK - DOOR IS OPENING"
+    {
+        "chi" "门开了, 快溜~"
+    }
+
     "KEEP HOLDING! 15 MORE SECONDS!"
     {
         "chi" "防守15s, 突突突~"
     }
 
-    "THE WAY WILL OPEN IN 20 SECONDS!"
+    "KEEP RESISTING! THE NEXT DOOR OPENS IN 20 SECONDS"
     {
-        "chi" "道路将会在20s后开放"
+        "chi" "保持火力!下一道门开还需20s"
     }
 
-    "THE ELEVATOR WILL RISE IN 30 SECONDS"
+    "MAP BY GEORGE"
     {
-        "chi" "电梯还有30s开始上升"
+        "chi" "地图作者: GEORGE   翻译: 没见过菜鸡啊@风云社"
+    }
+
+    "RESIST FOR 30 MORE SECONDS!"
+    {
+        "chi" "防守30s"
+    }
+
+    "STAGE 1 - HYPER SPACE CUBE"
+    {
+        "chi" "lv①-超维空间"
+    }
+
+    "STAGE 2 - HARMONIOUS SPATIAL CREATIONS"
+    {
+        "chi" "lv②-空间造物"
+    }
+
+    "STAGE 3 - HEAVENLY SPACED CONTAINMENT"
+    {
+        "chi" "lv③-维度裂隙"
+    }
+
+    "TELEPORT ACTIVATES IN 20 SECONDS"
+    {
+        "chi" "还有20s激活传送"
+    }
+
+    "THANKS TO LUFFAREN"
+    {
+        "chi" "特别感谢: LUFFAREN"
+    }
+
+    "THE DOOR WILL OPEN IN 20 SECONDS"
+    {
+        "chi" "大门将会在20s后开放"
+    }
+
+    "THE DOOR WILL OPEN IN 30 SECONDS"
+    {
+        "chi" "大门将会在30s后开放"
     }
 
     "THE DOORS WILL OPEN IN 25 SECONDS"
@@ -198,21 +186,24 @@
         "chi" "门开还有30s"
     }
 
-    "STAGE 3 - HEAVENLY SPACED CONTAINMENT"
+    "THE ELEVATOR WILL RISE IN 30 SECONDS"
     {
-        "chi" "lv③-维度裂隙"
-        "command" "sm_farter_enabled 1"
+        "chi" "电梯还有30s开始上升"
     }
 
-    "STAGE 2 - HARMONIOUS SPATIAL CREATIONS"
+    "THE NEXT DOORS WILL OPEN IN 15 SECONDS"
     {
-        "chi" "lv②-空间造物"
-        "command" "sm_blader_enabled 1;sm_boomer_enabled 1;sm_hunter_enabled 1"
+        "chi" "下一道门开还有15s"
     }
 
-    "STAGE 1 - HYPER SPACE CUBE"
+    "THE WAY WILL OPEN IN 20 SECONDS!"
     {
-        "chi" "lv①-超维空间"
+        "chi" "道路将会在20s后开放"
+    }
+
+    "THIS MAP IS IN ALPHA. THERE ARE ONLY THREE STAGES BUILT CURRENTLY."
+    {
+        "chi" "这张地图还在测试阶段, 目前只完成了三关."
     }
 
 }

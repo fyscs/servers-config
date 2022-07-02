@@ -1,0 +1,111 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
+
+
+    "[Battlefront Course]"
+    {
+        "chi" "__keep__"
+    }
+
+    "[Deagle Arena]"
+    {
+        "chi" "沙鹰"
+    }
+
+    "[Deathspace]"
+    {
+        "chi" "死亡空间"
+    }
+
+    "[Incendiary Spleef]"
+    {
+        "chi" "燃烧弹"
+    }
+
+    "[Invisible Area]"
+    {
+        "chi" "__keep__"
+    }
+
+    "[Jedi Arena]"
+    {
+        "chi" "竞技场"
+    }
+
+    "[Jedi Course]"
+    {
+        "chi" "闯关"
+    }
+
+    "[Jedi Kong Arcade]"
+    {
+        "chi" "街机闯关"
+    }
+
+    "[Jedi Volleyball]"
+    {
+        "chi" "排球"
+    }
+
+    "[Map by Hypilix]"
+    {
+        "blocked" "1"
+    }
+
+    "[Movingfloor]"
+    {
+        "chi" "移动地板"
+    }
+
+    "[Musics by NCS]"
+    {
+        "blocked" "1"
+    }
+
+    "[Mustafar Bhop]"
+    {
+        "chi" "连跳"
+    }
+
+    "[Naboo Arena]"
+    {
+        "chi" "竞技场"
+    }
+
+    "[Random]"
+    {
+        "chi" "随机"
+    }
+
+    "[Scout vs Scout]"
+    {
+        "chi" "鸟狙"
+    }
+
+    "[Shotgun Invisible]"
+    {
+        "chi" "隐形人喷子"
+    }
+
+    "[Target Decoy]"
+    {
+        "chi" "诱饵弹投篮"
+    }
+
+    "[Taser Arena]"
+    {
+        "chi" "电击枪"
+    }
+
+}

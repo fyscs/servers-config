@@ -1,122 +1,134 @@
 "Console_T"
 {
-	"Map made by Ripsaw"
-	{
-		"chi"		"**地图制作: Ripsaw 地图翻译: 小三@风云社**"
-	}
-	"***Gate will open in 20 seconds***"
-	{
-		"chi"		"**大门20秒后打开**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	">>> Door will open in 10 seconds"
-	{
-		"chi"		"**门10秒后开启**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	">>> Gate will open in 10 seconds <<<"
-	{
-		"chi"		"**大门10秒后开启**"
 
-	}
-	">> Door will open in 40 seconds <<<"
-	{
-		"chi"		"**门40秒后开启**"
+    "***Gate will open in 20 seconds***"
+    {
+        "chi" "**大门20秒后打开**"
+    }
 
-	}
-	">>> Zombies will teleport in 10 seconds <<<"
-	{
-		"chi"		"**僵尸10秒后传送**"
-	}
-	">>> Bridge will open in 15 seconds <<<"
-	{
-		"chi"		"**大桥15秒后开始延伸 **"
+    ">> Door will open in 40 seconds <<<"
+    {
+        "chi" "**门40秒后开启**"
+    }
 
-	}
-	">>> Doors open in 25 seconds <<<"
-	{
-		"chi"		"**门25秒后开启**"
+    ">>> Bridge will open in 15 seconds <<<"
+    {
+        "chi" "**大桥15秒后开始延伸 **"
+    }
 
-	}
-	">>> Doors open in 5 seconds"
-	{
-		"chi"		"**门5秒后开启 **"
-	}
-	">>> Zombies will teleport in 10 seconds"
-	{
-		"chi"		"**僵尸10秒后传送**"
-	}
-	">>> Defend both ways <<<"
-	{
-		"chi"		"**防守所有通道**"
-	}
-	">>> KEEP DEFENDING BOTH WAYS !!! <<<"
-	{
-		"chi"		"**继续防守**"
-	}
-	">>> Gate will open in 40 seconds <<<"
-	{
-		"chi"		"**大门40秒后开启**"
+    ">>> Defend both ways <<<"
+    {
+        "chi" "**防守所有通道**"
+    }
 
-	}
-	">>> Gate will open in 15 seconds <<<"
-	{
-		"chi"		"**大门15秒后开启**"
-	}
-	">>> Gate will open in 5 seconds <<<"
-	{
-		"chi"		"**还有5秒**"
-	}
-	">>> DOOR IS NOW OPEN, SEND ONE GUY TO DODGE AND DISABLE THE LASERS ! <<<"
-	{
-		"chi"		"**门开了, 会的跳刀大佬去关下跳刀的开关, 萌新别进去了!**"
-	}
-	">>> KEEP DEFENDING <<<"
-	{
-		"chi"		"**继续防守!!!**"
-	}
-	">>> Lasers disabled <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Zombie Inside final room, slaying all in 3 seconds <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Zombie inside final room, slaying all in 3 seconds <<"
-	{
-		"chi"		"** **"
-	}
-	">>> Someone needs to climb up and press the nuke <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> Dont let zombies enter the final room, DEFEND !"
-	{
-		"chi"		"** **"
-	}
-	"***Modified by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	"***60 SECONDS LEFT***"
-	{
-		"chi"		"**还有60秒**"
-	}
-	"***WARM UP ROUIND***"
-	{
-		"chi"		"** **"
-	}
-	">>>Respawn wall break in 20 sec<<<"
-	{
-		"chi"		"** **"
-	}
-	">> IDEA: Sienestaja <<"
-	{
-		"chi"		"** **"
-	}
-	">> Map by TaskuVaras <<"
-	{
-		"chi"		"** **"
-	}
+    ">>> Dont let zombies enter the final room, DEFEND !"
+    {
+        "chi" "**不要让僵尸进入最后的房间,防守!**"
+    }
+
+    ">>> DOOR IS NOW OPEN, SEND ONE GUY TO DODGE AND DISABLE THE LASERS ! <<<"
+    {
+        "chi" "**门开了, 会的跳刀大佬去关下跳刀的开关, 萌新别进去了!**"
+    }
+
+    ">>> Door will open in 10 seconds"
+    {
+        "chi" "**门10秒后开启**"
+    }
+
+    ">>> Doors open in 25 seconds <<<"
+    {
+        "chi" "**门25秒后开启**"
+    }
+
+    ">>> Doors open in 5 seconds"
+    {
+        "chi" "**门5秒后开启 **"
+    }
+
+    ">>> Final Gate will close in 25 seconds, KEEP DEFENDING !!! <<<"
+    {
+        "chi" "**最后的门25秒关闭,继续防守!!!**"
+    }
+
+    ">>> Final gate will close in 5 seconds!! GET BACK <<<"
+    {
+        "chi" "****最后的门5秒关闭,继续防守!!!****"
+    }
+
+    ">>> Gate will open in 10 seconds <<<"
+    {
+        "chi" "**大门10秒后开启**"
+    }
+
+    ">>> Gate will open in 15 seconds <<<"
+    {
+        "chi" "**大门15秒后开启**"
+    }
+
+    ">>> Gate will open in 40 seconds <<<"
+    {
+        "chi" "**大门40秒后开启**"
+    }
+
+    ">>> Gate will open in 5 seconds <<<"
+    {
+        "chi" "**还有5秒**"
+    }
+
+    ">>> KEEP DEFENDING <<<"
+    {
+        "chi" "**继续防守!!!**"
+    }
+
+    ">>> KEEP DEFENDING BOTH WAYS !!! <<<"
+    {
+        "chi" "**继续防守**"
+    }
+
+    ">>> Lasers disabled <<<"
+    {
+        "chi" "**激光关闭**"
+    }
+
+    ">>> Someone needs to climb up and press the nuke <<<"
+    {
+        "chi" "**需要有人去按下核弹**"
+    }
+
+    ">>> Zombie inside final room, slaying all in 3 seconds <<"
+    {
+        "chi" "**僵尸进入最后的房间,3秒处死全体**"
+    }
+
+    ">>> Zombie Inside final room, slaying all in 3 seconds <<<"
+    {
+        "chi" "**僵尸进入最后的房间,3秒处死全体**"
+    }
+
+    ">>> Zombies will teleport in 10 seconds"
+    {
+        "chi" "**僵尸10秒后传送**"
+    }
+
+    ">>> Zombies will teleport in 10 seconds <<<"
+    {
+        "chi" "**僵尸10秒后传送**"
+    }
+
+    "Map made by Ripsaw"
+    {
+        "chi" "**地图制作: Ripsaw 地图翻译: 小三@风云社**"
+    }
+
 }

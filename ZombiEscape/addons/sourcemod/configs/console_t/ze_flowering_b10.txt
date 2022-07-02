@@ -1,0 +1,54 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "< Admin Pressed Laser Stage >"
+    {
+        "chi" "管理员选择跳刀关"
+    }
+
+    "< Admin Pressed Last Stage >"
+    {
+        "chi" "管理员选择第三关"
+    }
+
+    "< Admin Pressed Level 1 >"
+    {
+        "chi" "管理员选择第一关"
+    }
+
+    "< Admin Pressed Level 2 >"
+    {
+        "chi" "管理员选择第二关"
+    }
+
+    "< Auto Bunnyhopping Enabled >"
+    {
+        "chi" "自动 连跳开启"
+    }
+
+    "< InVisible Laser Started >"
+    {
+        "chi" "隐藏刀出现了"
+    }
+
+    "< It's Laser Party ! >"
+    {
+        "chi" "这是跳刀环节"
+    }
+
+    "Thanks you for playing"
+    {
+        "chi" "感谢你的游玩"
+    }
+
+}

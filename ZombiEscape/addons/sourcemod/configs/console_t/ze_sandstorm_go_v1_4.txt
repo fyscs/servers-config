@@ -1,416 +1,375 @@
 "Console_T"
 {
-    ">>> WARMUP ROUND <<<"
-    {
-        "chi"        "**热身回合**"
-    }
-    ">>*** MAP BY STK ***<<"
-    {
-        "chi"        "**地图作者: STK  地图汉化: 大明**"
-    }
-    "** LEVEL 1 **"
-    {
-        "chi"        "**第1关**"
-    }
-    "** A player has picked up Fire Staff **"
-    {
-        "chi"        "**一位玩家获得了烈火权杖**"
-    }
-    "** The doors will open in 20 seconds **"
-    {
-        "chi"        "**大门20秒后打开**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    }
-    "** A player has picked up Tornado Staff **"
-    {
-        "chi"        "** 一位玩家获得了飓风权杖 **"
-    }
-    "** 5 Seconds left **"
-    {
-        "chi"        "**还有5秒**"
-    }
-    "** FALL BACK **"
-    {
-        "chi"        "**搞快点, 溜了溜了**"
-    }
-    "** A player has picked up Earth Staff **"
-    {
-        "chi"        "**一位玩家获得了大地权杖**"
-    }
-    "** The door will open in 25 seconds **"
-    {
-        "chi"        "**门将25秒后打开**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    }
-    "** A player has picked up Quicksand Staff **"
-    {
-        "chi"        "**一位玩家获得了流沙权杖**"
-    }
-    "** The doors will open in 15 seconds **"
-    {
-        "chi"        "**门15后打开**"
-    }
-    "** Bomb explodes in 10 seconds **"
-    {
-        "chi"        "**C4炸药10秒后爆炸**"
-    }
-    "** Hold zombies for 15 seconds **"
-    {
-        "chi"        "**防守15秒**"
-    }
-    "** KILL THE REMAINING ZOMBIES! **"
-    {
-        "chi"        "**杀光剩余的僵尸**"
-    }
-    "*** YOU WON STAGE 1 ***"
-    {
-        "chi"        "**你通过了第一关!**"
-    }
-    "** LEVEL 2 **"
-    {
-        "chi"        "**第二关**"
-    }
-    "** A player has picked up Heal Staff **"
-    {
-        "chi"        "** 一位玩家获得了治愈权杖 **"
-    }
-    "** A player has picked up SandStorm Staff **"
-    {
-        "chi"        "** 一位玩家获得了沙暴权杖 **"
-    }
-    "** Teleport will open in 15 seconds **"
-    {
-        "chi"        "**传送器15秒后激活**"
-    }
-    "** Kill him or he kills you!!! **"
-    {
-        "chi"        "**不是他死就是我们亡!!!**"
-    }
-    "*** Grenades do more damage. ***"
-    {
-        "chi"        "**高爆手雷能造成高额伤害**"
-    }
-    "*** He's dead. Run. ***"
-    {
-        "chi"        "**boss去世了.快溜!**"
-    }
-    "** The doors will open on 15 seconds **"
-    {
-        "chi"        "**大门15秒后打开**"
 
-    }
-    "** Press on the 4 obelisks to open the door **"
-    {
-        "chi"        "**触发四座石碑以打开大门**"
-    }
-    "** The doors will open in 10 seconds **"
-    {
-        "chi"        "**门10秒后打开**"
-    }
-    "** Elevator leaves in 5 seconds **"
-    {
-        "chi"        "**电梯5秒后上升**"
-    }
-    "** YOU WON STAGE 2 **"
-    {
-        "chi"        "**你通过了第二关**"
-    }
-    "** LEVEL 3 **"
-    {
-        "chi"        "**第三关**"
-    }
-    "** Hold for 15 seconds. **"
-    {
-        "chi"        "**坚守15秒**"
-
-    }
-    "** Hold Zombies for 10 seconds **"
-    {
-        "chi"        "**守住僵尸10秒**"
-    }
-    "** YOU WON STAGE 3 **"
-    {
-        "chi"        "**你通过了第三关**"
-    }
-    "** LEVEL 4 **"
-    {
-        "chi"        "**第四关**"
-    }
-    "*** Grenades do more damage. (8 SECONDS)***"
-    {
-        "chi"        "**高爆手雷能造成高额伤害(还有8秒)**"
-
-    }
-    "*** YOU WON STAGE 4 ***"
-    {
-        "chi"        "** 你通过了第四关!最终boss模组加载中...游戏现在正式开始...**"
-    }
-    "** Run into the center and break the crystal!!! **"
-    {
-        "chi"        "**打掉金字塔顶的水晶!**"
-    }
-    "** LEVEL 5 **"
-    {
-        "chi"        "**第五关**"
-    }
     "** 10 seconds left **"
     {
-        "chi"        "**还有10秒**"
-
+        "chi" "**还有10秒**"
     }
-    "** Teleport will open in 15 seconds. **"
+
+    "** 5 seconds left **"
     {
-        "chi"        "**传送器15秒后激活**"
-
+        "chi" "**还有5秒**"
     }
+
     "** 5 seconds left. **"
     {
-        "chi"        "**还有5秒**"
+        "chi" "**还有5秒**"
     }
-    "** Hold for 20 seconds. **"
-    {
-        "chi"        "**守住20秒**"
 
-    }
-    "*** Grenades do more damage (4 SECONDS). ***"
+    "** A player has picked up Earth Staff **"
     {
-        "chi"        "**高爆手雷能造成高额伤害(还有4秒)**"
+        "chi" "**一位玩家获得了大地权杖**"
+        "blocked"    "1"
     }
-    "** Do not come to the edge of the platform! **"
-    {
-        "chi"        "**不要靠近平台的边缘**"
-    }
-    "*** YOU WON STAGE 5 ***"
-    {
-        "chi"        "**你通过了第五关!不愧是你**"
-    }
-    "** Humans have become immortal!!! **"
-    {
-        "chi"        "**人类无敌模式启动**"
-    }
-    "** Zombies have 1 HP! **"
-    {
-        "chi"        "**僵尸强制1hp, 刷就完事了**"
-    }
-    "** Victory in 230 seconds. **"
-    {
-        "chi"        "**生存230秒**"
-    }
-    "** LEVEL ZM **"
-    {
-        "chi"        "**感染模式**"
-    }
-    "** Victory in 200 seconds. **"
-    {
-        "chi"        "**生存200秒**"
 
-    }
-    "** Victory in 150 seconds. **"
+    "** A player has picked up Fire Staff **"
     {
-        "chi"        "**生存150秒**"
+        "chi" "**一位玩家获得了烈火权杖**"
+        "blocked"    "1"
     }
-    "** Victory in 100 seconds. **"
-    {
-        "chi"        "**生存100秒**"
-    }
-    "** Victory in 50 seconds. **"
-    {
-        "chi"        "**生存50秒**"
-    }
-    "** Victory in 10 seconds. **"
-    {
-        "chi"        "**还有10秒**"
-    }
-    ">>>Respawn wall break in 20 sec<<<"
-    {
-        "chi"        "**重生墙20秒后碎裂**"
-    }
-    "** LEVEL GAME END **"
-    {
-        "chi"        "**游戏结束**"
-    }
-    "*** Hes dead. Run. ***"
-    {
-        "chi"        "**它去世了!快跑**"
-    }
-    ">| ADMIN ROOM |< Level changed to ZM(6). Kill all in 5 seconds."
-    {
-        "chi"        "**[管理员]感染模式.5秒后处死所有人**"
-    }
-    ">| ADMIN ROOM |< Level changed to 5. Kill all in 5 seconds."
-    {
-        "chi"        "**[管理员]第五关.5秒后处死所有人**"
-    }
-    ">| ADMIN ROOM |< Level changed to 4. Kill all in 5 seconds."
-    {
-        "chi"        "**[管理员]第四关.5秒后处死所有人**"
-    }
-    ">> STAGE 1 <<"
-    {
-        "chi"        "**第一关**"
-    }
-    "** The doors will open in 25 seconds **"
-    {
-        "chi"        "**大门25秒后开启**"
 
-    }
-    "** The door will open in 30 seconds **"
+    "** A player has picked up Heal Staff **"
     {
-        "chi"        "**大门30秒后开启**"
+        "chi" "** 一位玩家获得了治愈权杖 **"
+        "blocked"    "1"
+    }
 
-    }
-    "** Bomb explodes in 20 seconds **"
+    "** A player has picked up Quicksand Staff **"
     {
-        "chi"        "**炸弹在20秒后爆炸**"
+        "chi" "**一位玩家获得了流沙权杖**"
+        "blocked"    "1"
+    }
 
-    }
-    ">> STAGE 2 <<"
+    "** A player has picked up SandStorm Staff **"
     {
-        "chi"        "**第二关 **"
+        "chi" "** 一位玩家获得了沙暴权杖 **"
+        "blocked"    "1"
     }
-    "** Teleport will open in 20 seconds **"
-    {
-        "chi"        "**20秒后激活传送**"
 
-    }
-    "** Elevator leaves in 20 seconds **"
+    "** A player has picked up Tornado Staff **"
     {
-        "chi"        "**电梯将在20秒后离开**"
+        "chi" "** 一位玩家获得了飓风权杖 **"
+        "blocked"    "1"
+    }
 
-    }
-    ">> STAGE 3 <<"
-    {
-        "chi"        "**第三关**"
-    }
-    ">> STAGE 4 <<"
-    {
-        "chi"        "**第四关**"
-    }
-    "** Meteorite arrives in 17 seconds. **"
-    {
-        "chi"        "**陨石20秒后打碎大门(不要靠近门口, 不然你会暴毙)**"
-
-    }
-    ">> STAGE 5 <<"
-    {
-        "chi"        "**第五关 **"
-    }
-    "** Teleport will open in 20 seconds. **"
-    {
-        "chi"        "**20秒后激活传送**"
-
-    }
-    "** Teleport will open on 10 seconds **"
-    {
-        "chi"        "**10秒后激活传送**"
-    }
-    "|||||YOU LOSE|||||"
-    {
-        "chi"        "**你失败了**"
-    }
-    "** NOW YOU DIE! **"
-    {
-        "chi"        "**现在你已经去世了**"
-    }
-    "** Hold for 10 seconds. **"
-    {
-        "chi"        "**守住10秒**"
-
-    }
-    ">> ZM ROUND <<"
-    {
-        "chi"        "**感染模式**"
-    }
-    ">> VICTORY <<"
-    {
-        "chi"        "**获胜**"
-    }
-    ">>*** THANKS FOR PLAYING! ***<<"
-    {
-        "chi"        "**感谢您的游玩!**"
-    }
-    "**Old Version**"
-    {
-        "chi"        "**旧版本**"
-    }
-    "**stage1**"
-    {
-        "chi"        "**第一关**"
-    }
-    "**map by:一条会翻身的鱼**"
-    {
-        "chi"        "** **"
-    }
-    "*** STEAMGAMERS.COM ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Mapper: yardy ***"
-    {
-        "chi"        "** **"
-    }
-    "*** Co-Mapper: starbucks ***"
-    {
-        "chi"        "** **"
-    }
     "** AND NOW YOU WILL DIE! **"
     {
-        "chi"        "** **"
+        "chi" "**现在你要死了**"
     }
-    "**Stage 1**"
+
+    "** Bomb explodes in 20 seconds **"
     {
-        "chi"        "** **"
+        "chi" "**炸弹在20秒后爆炸**"
     }
-    "**ZE_DARK_SOULS**"
+
+    "** Do not come to the edge of the platform! **"
     {
-        "chi"        "** **"
+        "chi" "**不要靠近平台的边缘**"
     }
-    "***Map by Reflelia***"
+
+    "** Elevator leaves in 20 seconds **"
     {
-        "chi"        "** **"
+        "chi" "**电梯将在20秒后离开**"
     }
-    "***Particle Effect by Airvulpes***"
+
+    "** FALL BACK **"
     {
-        "chi"        "** **"
+        "chi" "**搞快点, 溜了溜了**"
     }
-    "***Thanks to Shizuru[idea]  uuz[model]***"
+
+    "** Hold for 10 seconds. **"
     {
-        "chi"        "**感谢Shizuru提供的创意 uuz提供的模型**"
+        "chi" "**守住10秒**"
     }
-    ">> IDEA: Sienestaja <<"
+
+    "** Hold for 15 seconds. **"
     {
-        "chi"        "**创意: Sienestaja**"
+        "chi" "**坚守15秒**"
     }
-    "***Modified by Reflelia***"
+
+    "** Hold for 20 seconds. **"
     {
-        "chi"        "**修正: Reflelia**"
+        "chi" "**守住20秒**"
     }
-    ">>*** IT'S TIME TO CHOOSE A LEVEL! ***<<"
+
+    "** Hold zombies for 10 seconds **"
     {
-        "chi"        "**现在可以选择一个关卡了**"
+        "chi" "**守住僵尸10秒**"
     }
+
+    "** Hold Zombies for 10 seconds **"
+    {
+        "chi" "**守住僵尸10秒**"
+    }
+
+    "** Hold zombies for 15 seconds **"
+    {
+        "chi" "**防守15秒**"
+    }
+
+    "** Humans have become immortal!!! **"
+    {
+        "chi" "**人类无敌模式启动**"
+    }
+
+    "** Kill him or he kills you!!! **"
+    {
+        "chi" "**不是他死就是我们亡!!!**"
+    }
+
+    "** Kill the remaining zombies! **"
+    {
+        "chi" "**杀死剩余的僵尸**"
+    }
+
+    "** Meteorite arrives in 17 seconds. **"
+    {
+        "chi" "**陨石20秒后打碎大门(不要靠近门口, 不然你会暴毙)**"
+    }
+
+    "** Press on the 4 obelisks to open the door **"
+    {
+        "chi" "**触发四座石碑以打开大门**"
+    }
+
+    "** Run into the center and break the crystal!!! **"
+    {
+        "chi" "**打掉金字塔顶的水晶!**"
+    }
+
+    "** Teleport will open in 15 seconds **"
+    {
+        "chi" "**传送器15秒后激活**"
+    }
+
+    "** Teleport will open in 20 seconds **"
+    {
+        "chi" "**20秒后激活传送**"
+    }
+
+    "** Teleport will open in 20 seconds. **"
+    {
+        "chi" "**20秒后激活传送**"
+    }
+
+    "** Teleport will open on 10 seconds **"
+    {
+        "chi" "**10秒后激活传送**"
+    }
+
+    "** The door will open in 30 seconds **"
+    {
+        "chi" "**大门30秒后开启**"
+    }
+
+    "** The doors will open in 10 seconds **"
+    {
+        "chi" "**门10秒后打开**"
+    }
+
+    "** The doors will open in 15 seconds **"
+    {
+        "chi" "**门15后打开**"
+    }
+
+    "** The doors will open in 20 seconds **"
+    {
+        "chi" "**大门20秒后打开**"
+    }
+
+    "** The doors will open in 25 seconds **"
+    {
+        "chi" "**大门25秒后开启**"
+    }
+
+    "** The doors will open on 15 seconds **"
+    {
+        "chi" "**大门15秒后打开**"
+    }
+
+    "** There is a error in the level system. **"
+    {
+        "chi" "**水平系统中有一个错误**"
+    }
+
+    "** Victory in 10 seconds. **"
+    {
+        "chi" "**还有10秒**"
+    }
+
+    "** Victory in 100 seconds. **"
+    {
+        "chi" "**生存100秒**"
+    }
+
+    "** Victory in 150 seconds. **"
+    {
+        "chi" "**生存150秒**"
+    }
+
+    "** Victory in 200 seconds. **"
+    {
+        "chi" "**生存200秒**"
+    }
+
+    "** Victory in 230 seconds. **"
+    {
+        "chi" "**生存230秒**"
+    }
+
+    "** Victory in 50 seconds. **"
+    {
+        "chi" "**生存50秒**"
+    }
+
+    "** YOU WON STAGE 2 **"
+    {
+        "chi" "**你通过了第二关**"
+    }
+
+    "** YOU WON STAGE 3 **"
+    {
+        "chi" "**你通过了第三关**"
+    }
+
+    "** Zombies have 1 HP! **"
+    {
+        "chi" "**僵尸强制1hp, 刷就完事了**"
+    }
+
+    "*** Grenades do more damage (4 SECONDS). ***"
+    {
+        "chi" "**高爆手雷能造成高额伤害(还有4秒)**"
+    }
+
+    "*** Grenades do more damage. (8 SECONDS)***"
+    {
+        "chi" "**高爆手雷能造成高额伤害(还有8秒)**"
+    }
+
+    "*** Grenades do more damage. ***"
+    {
+        "chi" "**高爆手雷能造成高额伤害**"
+    }
+
+    "*** He's dead. Run. ***"
+    {
+        "chi" "**boss去世了.快溜!**"
+    }
+
+    "*** YOU WON STAGE 1 ***"
+    {
+        "chi" "**你通过了第一关!**"
+    }
+
+    "*** YOU WON STAGE 4 ***"
+    {
+        "chi" "** 你通过了第四关!最终boss模组加载中...游戏现在正式开始...**"
+    }
+
+    "*** YOU WON STAGE 5 ***"
+    {
+        "chi" "**你通过了第五关!不愧是你**"
+    }
+
+    "|||||YOU LOSE|||||"
+    {
+        "chi" "**你失败了**"
+    }
+
+    ">| ADMIN ROOM |< Level changed to 1. Kill all in 5 seconds."
+    {
+        "chi" "**[管理员]第一关.5秒后处死所有人**"
+    }
+
+    ">| ADMIN ROOM |< Level changed to 2. Kill all in 5 seconds."
+    {
+        "chi" "**[管理员]第二关.5秒后处死所有人**"
+    }
+
     ">| ADMIN ROOM |< Level changed to 3. Kill all in 5 seconds."
     {
-        "chi"        "**[管理员]第三关.5秒后处死所有人**"
+        "chi" "**[管理员]第三关.5秒后处死所有人**"
     }
-    "** LEVEL: NOT TOO ROUGH **"
+
+    ">| ADMIN ROOM |< Level changed to 4. Kill all in 5 seconds."
     {
-        "chi"        "** **"
+        "chi" "**[管理员]第四关.5秒后处死所有人**"
     }
-    "*** ... ***"
+
+    ">| ADMIN ROOM |< Level changed to 5. Kill all in 5 seconds."
     {
-        "chi"        "** **"
+        "chi" "**[管理员]第五关.5秒后处死所有人**"
     }
-    ">> Map by Taskuvaras <<"
+
+    ">| ADMIN ROOM |< Level changed to ZM(6). Kill all in 5 seconds."
     {
-        "chi"        "** **"
+        "chi" "**[管理员]感染模式.5秒后处死所有人**"
     }
-    "** ORIGINAL ZE BLACKMESA BY BILL SMAUTZ **"
+
+    ">> STAGE 1 <<"
     {
-        "chi"        "** **"
+        "chi" "**第一关**"
     }
-    "** REDESIGN BY CISNEROS **"
+
+    ">> STAGE 2 <<"
     {
-        "chi"        "** **"
+        "chi" "**第二关 **"
     }
+
+    ">> STAGE 3 <<"
+    {
+        "chi" "**第三关**"
+    }
+
+    ">> STAGE 4 <<"
+    {
+        "chi" "**第四关**"
+    }
+
+    ">> STAGE 5 <<"
+    {
+        "chi" "**第五关 **"
+    }
+
+    ">> VICTORY <<"
+    {
+        "chi" "**获胜**"
+    }
+
+    ">> ZM ROUND <<"
+    {
+        "chi" "**感染模式**"
+    }
+
+    ">>*** IT'S TIME TO CHOOSE A LEVEL! ***<<"
+    {
+        "chi" "**现在可以选择一个关卡了**"
+    }
+
+    ">>*** MAP BY STK ***<<"
+    {
+        "chi" "**地图作者: STK  地图汉化: 大明**"
+    }
+
+    ">>*** THANKS FOR PLAYING! ***<<"
+    {
+        "chi" "**感谢您的游玩!**"
+    }
+
+    ">>> WARMUP ROUND <<<"
+    {
+        "chi" "**热身回合**"
+    }
+
 }

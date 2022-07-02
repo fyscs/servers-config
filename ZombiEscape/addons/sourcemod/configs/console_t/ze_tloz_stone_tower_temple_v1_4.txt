@@ -1,139 +1,149 @@
 "Console_T"
 {
-	"*** Map by : Airvulpes ***"
-	{
-		"chi"		"**地图作者:Airvulpes翻译:Sakura@风云社 **"
-	}
-	"*** Door opens in 10 seconds ***"
-	{
-		"chi"		"**大门将在10秒之后打开!坚守阵地!**"
-	}
-	"*** Door opening in 5 seconds !***"
-	{
-		"chi"		"**大门将在5秒之后打开!快了!**"
-	}
-	"*** Resist 30 seconds ! ***"
-	{
-		"chi"		"**守住30秒!**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"***BUTTON PRESSED***"
-	{
-		"chi"		"**按钮已经按下!干得漂亮!**"
-	}
-	"*** Wall Opens in 30 seconds! ***"
-	{
-		"chi"		"**墙壁30秒后移动!坚守阵地!**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"*** Wall Opening ***"
-	{
-		"chi"		"**墙壁移开了!撤退!**"
-	}
-	"*** HOLD 30 seconds ! ***"
-	{
-		"chi"		"**防御30秒!守住这里!我们能赢!**"
-	}
-	"*** Resist 10 seconds ! ***"
-	{
-		"chi"		"**抵御10秒!**"
-	}
-	"*** Door Opens in 5 seconds ***"
-	{
-		"chi"		"**大门5秒后开启!老板丢个黑洞吧!**"
-	}
-	"*** Hold 40 seconds ! ***"
-	{
-		"chi"		"**坚守40秒!shift!买道具!撑住!**"
 
-	}
-	"---Feedback:noojeff@gmail.com---"
-	{
-		"chi"		"** **"
-	}
-	"---Special Thank To:HZM654321 and JackBauer123---"
-	{
-		"chi"		"** **"
-	}
-	"*** Human beat red emblem !! ***"
-	{
-		"chi"		"**人类射击红色标志! **"
-	}
-	"*** HOLD ON ! ***"
-	{
-		"chi"		"**守住 **"
-	}
-	"*** Entrance Door will close in 1 minutes ! ***"
-	{
-		"chi"		"**入口将在一分钟之后打开!守住这里!不要让僵尸过来!**"
+    "!!! KILL ALL ZOMBIES !!!"
+    {
+        "chi" "**消灭所有僵尸**"
+    }
 
-	}
-	"!!! KILL ALL ZOMBIES !!!"
-	{
-		"chi"		"**消灭所有僵尸**"
-	}
-	"*** Stage Completed ***"
-	{
-		"chi"		"**阶段完成 **"
-	}
-	"*** Door opens in 20 seconds ***"
-	{
-		"chi"		"**坚持20秒, 门即将打开**"
-	}
-	"*** Wall opens in 30 seconds ! ***"
-	{
-		"chi"		"**墙将在30秒后破碎**"
-	}
-	"*** Door opens in 20 seconds ! ***"
-	{
-		"chi"		"**门在20秒后开启**"
-	}
-	"*** Hold here ***"
-	{
-		"chi"		"**守住这里! **"
-	}
-	"*** Door opening in 20 seconds ! ***"
-	{
-		"chi"		"**门将在20秒后开启!守住! **"
-	}
-	"*** Resist 20 seconds ! ***"
-	{
-		"chi"		"**抵御20秒 **"
-	}
-	"*** Superior door opens in 30 seconds ! ***"
-	{
-		"chi"		"**门将在30秒后开启!开枪啊!兄弟萌! **"
-	}
-	"*** HOLD 20 seconds ! ***"
-	{
-		"chi"		"**坚持20秒 加油!**"
-	}
-	"*** Hold 25 seconds ! ***"
-	{
-		"chi"		"**坚持25秒 **"
-	}
-	"*** Door Opens in 15 seconds ***"
-	{
-		"chi"		"**门将在15秒后开启! **"
-	}
-	"*** Wall opens in 20 seconds ! ***"
-	{
-		"chi"		"**墙将在20秒后打开 丢点道具啊!**"
-	}
-	"*** Door opens in 15 seconds ! ***"
-	{
-		"chi"		"**门将在15秒后开启!**"
-	}
-	"*** Door opening in 10 seconds ! ***"
-	{
-		"chi"		"**门将在10秒后开启 !**"
-	}
-	"*** Door opens in 10 seconds ! ***"
-	{
-		"chi"		"**门将在10秒后开启 **"
-	}
-	"***WARMUP***"
-	{
-		"chi"		"** **"
-	}
+    "*** Admin pressed Ex button ***"
+    {
+        "chi" "加载极限难度"
+    }
+
+    "*** Admin pressed Stage1 button ***"
+    {
+        "chi" "加载第一关"
+    }
+
+    "*** Admin pressed Stage2 button ***"
+    {
+        "chi" "加载第二关"
+    }
+
+    "*** Door opening in 10 seconds ! ***"
+    {
+        "chi" "**门将在10秒后开启 !**"
+    }
+
+    "*** Door opening in 5 seconds !***"
+    {
+        "chi" "**大门将在5秒之后打开!快了!**"
+    }
+
+    "*** Door opens in 10 seconds ! ***"
+    {
+        "chi" "**门将在10秒后开启 **"
+    }
+
+    "*** Door Opens in 10 seconds ***"
+    {
+        "chi" "门将在10秒后开启"
+    }
+
+    "*** Door opens in 15 seconds ! ***"
+    {
+        "chi" "**门将在15秒后开启!**"
+    }
+
+    "*** Door Opens in 15 seconds ***"
+    {
+        "chi" "**门将在15秒后开启! **"
+    }
+
+    "*** Door opens in 5 seconds ***"
+    {
+        "chi" "门将在5秒后开启"
+    }
+
+    "*** Entrance Door will close in 1 minutes ! ***"
+    {
+        "chi" "**入口将在一分钟之后打开!守住这里!不要让僵尸过来!**"
+    }
+
+    "*** HOLD 20 seconds ! ***"
+    {
+        "chi" "**坚持20秒 加油!**"
+    }
+
+    "*** Hold 25 seconds ! ***"
+    {
+        "chi" "**坚持25秒 **"
+    }
+
+    "*** Hold here ***"
+    {
+        "chi" "**守住这里! **"
+    }
+
+    "*** HOLD ON ! ***"
+    {
+        "chi" "**守住 **"
+    }
+
+    "*** Human beat red emblem !! ***"
+    {
+        "chi" "**人类射击红色标志! **"
+    }
+
+    "*** Map by : Airvulpes ***"
+    {
+        "chi" "**地图作者:Airvulpes翻译:Sakura@风云社 **"
+    }
+
+    "*** Resist 10 seconds ! ***"
+    {
+        "chi" "**抵御10秒!**"
+    }
+
+    "*** Resist 20 seconds ! ***"
+    {
+        "chi" "**抵御20秒 **"
+    }
+
+    "*** Resist 30 seconds ! ***"
+    {
+        "chi" "**守住30秒!**"
+    }
+
+    "*** STAGE COMPLETED ***"
+    {
+        "chi" "胜利"
+    }
+
+    "*** Superior door opens in 30 seconds ! ***"
+    {
+        "chi" "**门将在30秒后开启!开枪啊!兄弟萌! **"
+    }
+
+    "*** Wall Opening ***"
+    {
+        "chi" "**墙壁移开了!撤退!**"
+    }
+
+    "*** Wall opens in 20 seconds ! ***"
+    {
+        "chi" "**墙将在20秒后打开 丢点道具啊!**"
+    }
+
+    "*** Wall Opens in 30 seconds! ***"
+    {
+        "chi" "**墙壁30秒后移动!坚守阵地!**"
+    }
+
+    "***Button Pressed***"
+    {
+        "chi" "按钮已按下"
+    }
+
 }

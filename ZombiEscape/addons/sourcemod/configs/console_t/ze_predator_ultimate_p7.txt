@@ -1,500 +1,580 @@
 "Console_T"
 {
-	"***DIFFICULTY --- NORMAL***"
-	{
-		"chi"		"** 当前难度: 萌新		汉化: 小三@风云社 **"
-	}
-	"***TYPE MAT_COLORCORRECTION 1 IN CONSOLE FOR BETTER VISUALS***"
-	{
-		"chi"		"** 控制台输入 MAT_COLORCORRECTION 1 会有更好的视觉效果**"
-	}
-	"***THE NUKE HAS EXPLODED***"
-	{
-		"chi"		"** 核弹发射 **"
-	}
-	"***OH NO! THE NUKE EXPLODED!***"
-	{
-		"chi"		"** 僵尸全都给我死 **"
-	}
-	"***INFILTRATE AND DEFEND THE GUERILLA COMPOUND***"
-	{
-		"chi"		"** 进入围栏防守僵尸 **"
-	}
-	"***HOLD FOR 50 SECONDS***"
-	{
-		"chi"		"** 防守僵尸50秒 **"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"***Fall back***"
-	{
-		"chi"		"** 准备撤退 **"
-	}
-	"***5 seconds left***"
-	{
-		"chi"		"** 5秒 **"
-	}
-	"***4 SECONDS LEFT***"
-	{
-		"chi"		"** 4秒 **"
-	}
-	"***3 SECONDS LEFT***"
-	{
-		"chi"		"** 3秒 **"
-	}
-	"***2 SECONDS LEFT***"
-	{
-		"chi"		"** 2秒 **"
-	}
-	"***1 SECONDS LEFT***"
-	{
-		"chi"		"** 1秒 **"
-	}
-	"***RUN***"
-	{
-		"chi"		"** 撤退 **"
-	}
-	"***HOLD THIS AREA FOR 10 SECONDS***"
-	{
-		"chi"		"** 在这个位置防守僵尸10秒 **"
-	}
-	"***TELEPORTING EVERYONE TO COMPOUND***"
-	{
-		"chi"		"** 僵尸传送点刷新 **"
-	}
-	"***MOVE IT***"
-	{
-		"chi"		"** 撤退 **"
-	}
-	"***ITS A PREDATOR!***"
-	{
-		"chi"		"** 铁血战士出现 **"
-	}
-	"***KILL IT***"
-	{
-		"chi"		"** 快干死它 **"
-	}
-	"***DODGE THE LASERS***"
-	{
-		"chi"		"** 躲避它射出的不明物体 **"
-	}
-	"***IT LOOKS LIKE IT'S PREPARING FOR ANOTHER GROUNDSTOMP***"
-	{
-		"chi"		"** 赶紧开枪 **"
-	}
-	"***SHOOT IT BEFORE IT'S TOO LATE***"
-	{
-		"chi"		"** 赶紧开抢打它! **"
-	}
-	"***OH NO!     WATCH OUT!***"
-	{
-		"chi"		"** 小心! **"
-	}
-	"***IT'S RUNNING AWAY***"
-	{
-		"chi"		"** 它正在逃跑 **"
-	}
-	"***YOU COULD HAVE STOPPED THE ATTACK THOUGH...***"
-	{
-		"chi"		"** 你本来可以阻止它的... **"
-	}
-	"***PLAYER PICKED UP FLAMETHROWER***"
-	{
-		"chi"		"** 火焰喷射器被拾取 **"
-	}
-	"***Hold for 30 seconds***"
-	{
-		"chi"		"** 抵御30秒 **"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
-	{
-		"chi"		"** 僵尸传送点刷新 **"
-	}
-	"***HOLD THIS AREA FOR 40 SECONDS***"
-	{
-		"chi"		"** 防守僵尸40秒 **"
 
-	}
-	"***TELEPORTING EVERYONE TO RUINS***"
-	{
-		"chi"		"** 僵尸传送点刷新 **"
-	}
-	"***20 SECONDS LEFT***"
-	{
-		"chi"		"** 20 秒**"
-	}
-	"***PLAYER PICKED UP CLAYMORE MINES***"
-	{
-		"chi"		"** 阔剑地雷被拾取 **"
-	}
-	"***PLAYER PICKED UP GAUSS RIFLE***"
-	{
-		"chi"		"** 高斯狙击枪被拾取 **"
+    "***1 SECONDS LEFT***"
+    {
+        "chi" "** 1秒 **"
+    }
 
-	}
-	"***FIRST AID PICKED UP***"
-	{
-		"chi"		"** 急救包被拾取 **"
-	}
-	"***PLAYER PICKED UP ALIEN SAMPLE***"
-	{
-		"chi"		"** 异形样本被拾取 **"
-	}
-	"***10 SECONDS LEFT***"
-	{
-		"chi"		"** 10秒 **"
-	}
-	"***RUN! GO BEFORE ITS TOO LATE!***"
-	{
-		"chi"		"** 撤退 **"
-	}
-	"***THE CHOPPER IS ON IT'S WAY!***"
-	{
-		"chi"		"** 直升机马上就到了!坚持住!**"
-	}
-	"***CHOPPER LEAVING IN 10 SECONDS***"
-	{
-		"chi"		"** 直升机还有10秒后撤离 **"
-	}
-	"***CHOPPER LEAVING IN 5 SECONDS***"
-	{
-		"chi"		"** 直升机还有5秒后撤离 **"
-	}
-	"***CHOPPER IS LEAVING***"
-	{
-		"chi"		"** 直升机撤离中 **"
-	}
-	"***YOU COMPLETED NORMAL***"
-	{
-		"chi"		"** 你们通过了萌新难度 **"
-	}
-	"***MOVING ON TO HARD***"
-	{
-		"chi"		"** 向咸鱼难度进发 **"
-	}
-	"***DIFFICULTY --- HARD***"
-	{
-		"chi"		"** 当前难度: 咸鱼		汉化: 小三@风云社 **"
-	}
-	"***HOLD AZTEC-RUINS FOR 25 SECONDS***"
-	{
-		"chi"		"** 在阿兹特克遗迹防守僵尸20秒 **"
-	}
-	"***HOLD BOULDERAREA FOR 15 SECONDS***"
-	{
-		"chi"		"** 守住这个区域15秒 **"
-	}
-	"***RUN !***"
-	{
-		"chi"		"** 撤退 **"
-	}
-	"***PLAYER PICKED UP IMPULSOR***"
-	{
-		"chi"		"** 防身脉冲器被拾取 **"
-	}
-	"***WELL DONE***"
-	{
-		"chi"		"** 做的好! **"
-	}
-	"***PLAYER PICKED UP GRENADE LAUNCHER***"
-	{
-		"chi"		"** 榴弹发射器被拾取 **"
+    "***1***"
+    {
+        "chi" "**1秒**"
+    }
 
-	}
-	"***PLAYER PICKED UP AMMO DISPENSER***"
-	{
-		"chi"		"** 弹药箱被拾取 **"
+    "***10 SECONDS LEFT***"
+    {
+        "chi" "** 10秒 **"
+    }
 
-	}
-	"***PLAYER PICKED UP PUSH GUN***"
-	{
-		"chi"		"** 驱逐枪被拾取 **"
-	}
-	"***PLAYER PICKED UP MINI GUN***"
-	{
-		"chi"		"** 米尼冈重机枪被拾取 **"
-	}
-	"***HOLD 30 SECONDS***"
-	{
-		"chi"		"** 抵御僵尸30秒 **"
+    "***15 SECONDS LEFT***"
+    {
+        "chi" "** 在这个区域守住15秒 **"
+    }
 
-	}
-	"***5***"
-	{
-		"chi"		"**5秒**"
-	}
-	"***4***"
-	{
-		"chi"		"**4秒**"
-	}
-	"***3***"
-	{
-		"chi"		"**3秒**"
-	}
-	"***2***"
-	{
-		"chi"		"**2秒**"
-	}
-	"***1***"
-	{
-		"chi"		"**1秒**"
-	}
-	"***GET INSIDE***"
-	{
-		"chi"		"** !!!撤退!!! **"
-	}
-	"***YOU HAVE DEFEATED THE PREDATOR!***"
-	{
-		"chi"		"** 铁血战士倒下了**"
-	}
-	"***YOU COMPLETED HARD***"
-	{
-		"chi"		"** 你们征服了咸鱼难度 **"
-	}
-	"***MOVING ON TO HYPER***"
-	{
-		"chi"		"** 下一关难度: 萌新司机 **"
-	}
-	"***DIFFICULTY --- HYPER***"
-	{
-		"chi"		"** 当前难度: 萌新司机		汉化: 小三@风云社 **"
-	}
-	"***ELEVATOR IS WARMING UP***"
-	{
-		"chi"		"** 电梯开始运作 **"
-	}
-	"***ELEVATOR IS ON THE WAY***"
-	{
-		"chi"		"** 电梯正在下降 **"
-	}
-	"***ELEVATOR'S HERE***"
-	{
-		"chi"		"** 电梯已经抵达 **"
-	}
-	"***TELEPORTING EVERYONE TO COMPLEX ELEVATOR***"
-	{
-		"chi"		"** 僵尸传送点即刷新 **"
-	}
-	"***C4 ACTIVATED***"
-	{
-		"chi"		"** 触发TNT **"
-	}
-	"***Hold for 20 seconds***"
-	{
-		"chi"		"** 抵御20秒 **"
+    "***2 SECONDS LEFT***"
+    {
+        "chi" "** 2秒 **"
+    }
 
-	}
-	"***ITS THE PREDATOR!***"
-	{
-		"chi"		"** 铁血战士出现**"
-	}
-	"***TELEPORTING EVERYONE TO COMPLEX CORE***"
-	{
-		"chi"		"** 僵尸传送点刷新 **"
-	}
-	"***THE PREDATOR IS CHARGING AN ATTACK!***"
-	{
-		"chi"		"** 铁血战士正在发起攻击 **"
-	}
-	"***YOU ARE TOO SLOW!***"
-	{
-		"chi"		"** 你太磨蹭了! **"
-	}
-	"***HOLD ON TO YOUR HELMETS!***"
-	{
-		"chi"		"** 带上你们的头盔! **"
-	}
-	"***YOU KILLED THE PREDATOR***"
-	{
-		"chi"		"** 铁血战士倒下了 **"
-	}
-	"***RUN TOWARDS THE ELEVATOR!***"
-	{
-		"chi"		"** 前往电梯 **"
-	}
-	"***CHOPPER IS ON IT'S WAY***"
-	{
-		"chi"		"** 直升机正在赶来 **"
-	}
-	"***THE CHOPPER IS HERE! MOVE IT!***"
-	{
-		"chi"		"** 直升机已经到达!**"
-	}
-	"***CHOPPER LEAVES IN 10 SECONDS***"
-	{
-		"chi"		"** 直升机10秒后撤离 **"
-	}
-	"***CHOPPER LEAVES IN 5 SECONDS***"
-	{
-		"chi"		"** 直升机10秒后撤离 **"
-	}
-	"***YOU COMPLETED HYPER***"
-	{
-		"chi"		"** 萌新司机难度完成 **"
-	}
-	"***MOVING ON TO ULTIMATE***"
-	{
-		"chi"		"** 朝着最后的难度: 老司机难度进发吧 **"
-	}
-	"***GOOD LUCK...***"
-	{
-		"chi"		"** 祝你们好运...**"
-	}
-	"***DIFFICULTY --- ULTIMATE***"
-	{
-		"chi"		"** 当前难度: 老司机		汉化: 小三@风云社 **"
-	}
-	"***GET IN THE ELEVATOR***"
-	{
-		"chi"		"** 快进入电梯 **"
-	}
-	"***HOLD THIS AREA FOR 20 SECONDS***"
-	{
-		"chi"		"** 在这个区域守住20秒 **"
+    "***2***"
+    {
+        "chi" "**2秒**"
+    }
 
-	}
-	"***15 SECONDS LEFT***"
-	{
-		"chi"		"** 在这个区域守住15秒 **"
-	}
-	"***TELEPORTING EVERYONE TO SPACESHIP ENTRANCE***"
-	{
-		"chi"		"** 僵尸传送点刷新 **"
-	}
-	"***PLAYER PICKED UP ALIEN DEVICE***"
-	{
-		"chi"		"** 异形设备被拾取 **"
-	}
-	"***GET INSIDE THE TRANSPORTER***"
-	{
-		"chi"		"** 撤离至运输机 **"
-	}
-	"***TELEPORTING EVERYONE TO SPACESHIP CORE***"
-	{
-		"chi"		"** 僵尸传送点刷新 **"
-	}
-	"***THE PREDATOR IS IN RAGEMODE***"
-	{
-		"chi"		"** 猛男进入狂暴模式 **"
-	}
-	"***THE SPACESHIP IS STARTING TO COLLAPSE***"
-	{
-		"chi"		"** 宇宙飞船开始崩塌了 **"
-	}
-	"***SOMEONE MUST JUMP INTO THE CORE***"
-	{
-		"chi"		"** 必须有人跳到核心 **"
-	}
-	"***ZOMBIE BRIDGE ACTIVATED***"
-	{
-		"chi"		"** 僵尸桥被激活 **"
-	}
-	"***THE CORE IS GOING UNSTABLE***"
-	{
-		"chi"		"** 核心极度不稳定 **"
-	}
-	"***RUN TOWARDS THE FINAL ROOM***"
-	{
-		"chi"		"** 向最后的房间撤离 **"
-	}
-	"ZOMBIES ARE RELEASED!"
-	{
-		"chi"		"** 尸潮来了 **"
-	}
-	"YOU TOOK TOO LONG!"
-	{
-		"chi"		"** 你们花的时间太长了 **"
-	}
-	"***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***"
-	{
-		"chi"		"** 你们必须按下角落的四个球体! **"
-	}
-	"***THIS IS YOUR FINAL STAND***"
-	{
-		"chi"		"** 这是你们最后的战斗 **"
-	}
-	"***HOLD YOUR GROUND***"
-	{
-		"chi"		"** 守住这个房间 **"
-	}
-	"***KEEP FIRING WITH UNLIMITED AMMO***"
-	{
-		"chi"		"** 现在是无限弹药模式!****"
-	}
-	"***MAP BY --- PER30010 / LUFFAREN***"
-	{
-		"chi"		"**地图制作: PER30010, Luffaren**"
-	}
-	"***YOU ARE THE ULTIMATE ZOMBIE ESCAPE MASTER***"
-	{
-		"chi"		"** 你们是极限的僵尸逃跑大师 **"
-	}
-	"***THANK YOU FOR PLAYING***"
-	{
-		"chi"		"** 感谢你们的游玩 **"
-	}
-	"***MAP RESET***"
-	{
-		"chi"		"**地图重载中**"
-	}
-	"***CHOPPER IS ON ITS WAY***"
-	{
-		"chi"		"** 直升机马上就要来了 **"
-	}
-	"***MAP BY --- PER30010  LUFFAREN***"
-	{
-		"chi"		"**地图制作: Luffaren**"
-	}
-	"***YOU ARE THE ULTIMATE ZOMBIE ESCAPE MASTER***"
-	{
-		"chi"		"** 你们是极限的僵尸逃跑大师 **"
-	}
-	"***IT LOOKS LIKE ITS PREPARING FOR ANOTHER GROUNDSTOMP***"
-	{
-		"chi"		"** 甘霖娘!赶紧开枪!!! **"
-	}
-	"***SHOOT IT BEFORE ITS TOO LATE***"
-	{
-		"chi"		"** 赶紧开抢打它! **"
-	}
-	"***ITS RUNNING AWAY***"
-	{
-		"chi"		"** 他正在逃走 **"
-	}
-	"***THE CHOPPER IS ON ITS WAY!***"
-	{
-		"chi"		"** 直升机在路上 **"
-	}
-	"***ELEVATORS HERE***"
-	{
-		"chi"		"** 电梯到了快进去! **"
-	}
-	"***YOU INTERUPTED THE PREDATORS ATTACK***"
-	{
-		"chi"		"** 做得好.你们成功打断了猛男的攻击 **"
-	}
-	"***YOU FAILED***"
-	{
-		"chi"		"** 你失败了 **"
-	}
-	"***A ZOMBIE GOT INSIDE THE CHOPPER***"
-	{
-		"chi"		"**一个僵尸钻进了直升机**"
-	}
-	"***SOMEONE IS CHANGING DIFFICULTY INSIDE THE DEVROOM***"
-	{
-		"chi"		"**管理员正在选择难度**"
-	}
-	"***NUKE BUTTON PRESSED***"
-	{
-		"chi"		"**核按钮被按下**"
-	}
-	"***Map by Luffaren***"
-	{
-		"chi"		"**地图制作: Luffaren**"
-	}
-	"** Welcome to the mystical island of Kraznov Poopata **"
-	{
-		"chi"		"**欢迎来到神秘的Kraznov Poopata岛**"
-	}
+    "***20 SECONDS LEFT***"
+    {
+        "chi" "** 20 秒**"
+    }
+
+    "***3 SECONDS LEFT***"
+    {
+        "chi" "** 3秒 **"
+    }
+
+    "***3***"
+    {
+        "chi" "**3秒**"
+    }
+
+    "***4 SECONDS LEFT***"
+    {
+        "chi" "** 4秒 **"
+    }
+
+    "***4***"
+    {
+        "chi" "**4秒**"
+    }
+
+    "***5 SECONDS LEFT***"
+    {
+        "chi" "5秒"
+    }
+
+    "***5***"
+    {
+        "chi" "**5秒**"
+    }
+
+    "***A ZOMBIE GOT INSIDE THE CHOPPER***"
+    {
+        "chi" "**一个僵尸钻进了直升机**"
+    }
+
+    "***C4 ACTIVATED***"
+    {
+        "chi" "** 触发TNT **"
+    }
+
+    "***CHOPPER IS LEAVING***"
+    {
+        "chi" "** 直升机撤离中 **"
+    }
+
+    "***CHOPPER IS ON IT'S WAY***"
+    {
+        "chi" "** 直升机正在赶来 **"
+    }
+
+    "***CHOPPER LEAVES IN 10 SECONDS***"
+    {
+        "chi" "** 直升机10秒后撤离 **"
+    }
+
+    "***CHOPPER LEAVES IN 5 SECONDS***"
+    {
+        "chi" "** 直升机10秒后撤离 **"
+    }
+
+    "***CHOPPER LEAVING IN 10 SECONDS***"
+    {
+        "chi" "** 直升机还有10秒后撤离 **"
+    }
+
+    "***CHOPPER LEAVING IN 5 SECONDS***"
+    {
+        "chi" "** 直升机还有5秒后撤离 **"
+    }
+
+    "***DIFFICULTY --- HARD***"
+    {
+        "chi" "** 当前难度:咸鱼 汉化:小三@風雲社 **"
+    }
+
+    "***DIFFICULTY --- HYPER***"
+    {
+        "chi" "** 当前难度:萌新司机 汉化:小三@風雲社 **"
+    }
+
+    "***DIFFICULTY --- NORMAL***"
+    {
+        "chi" "** 当前难度:萌新 汉化:小三@風雲社 **"
+    }
+
+    "***DIFFICULTY --- ULTIMATE***"
+    {
+        "chi" "** 当前难度:老司机 汉化:小三@風雲社 **"
+    }
+
+    "***DODGE THE LASERS***"
+    {
+        "chi" "** 躲避它射出的不明物体 **"
+    }
+
+    "***ELEVATOR IS ON THE WAY***"
+    {
+        "chi" "** 电梯正在下降 **"
+    }
+
+    "***ELEVATOR IS WARMING UP***"
+    {
+        "chi" "** 电梯开始运作 **"
+    }
+
+    "***ELEVATOR'S HERE***"
+    {
+        "chi" "** 电梯已经抵达 **"
+    }
+
+    "***FALL BACK***"
+    {
+        "chi" "撤退"
+    }
+
+    "***FIRST AID PICKED UP***"
+    {
+        "chi" "** 急救包被拾取 **"
+        "blocked"    "1"
+    }
+
+    "***GET IN THE ELEVATOR***"
+    {
+        "chi" "** 快进入电梯 **"
+    }
+
+    "***GET INSIDE THE TRANSPORTER***"
+    {
+        "chi" "** 撤离至运输机 **"
+    }
+
+    "***GET INSIDE***"
+    {
+        "chi" "** !!!撤退!!! **"
+    }
+
+    "***GOOD LUCK...***"
+    {
+        "chi" "** 祝你们好运...**"
+    }
+
+    "***HOLD 30 SECONDS***"
+    {
+        "chi" "** 抵御僵尸30秒 **"
+    }
+
+    "***HOLD AZTEC-RUINS FOR 25 SECONDS***"
+    {
+        "chi" "** 在阿兹特克遗迹防守僵尸20秒 **"
+    }
+
+    "***HOLD BOULDERAREA FOR 15 SECONDS***"
+    {
+        "chi" "** 守住这个区域15秒 **"
+    }
+
+    "***HOLD FOR 20 SECONDS***"
+    {
+        "chi" "防守僵尸20秒"
+    }
+
+    "***HOLD FOR 30 SECONDS***"
+    {
+        "chi" "防守僵尸30秒"
+    }
+
+    "***HOLD FOR 50 SECONDS***"
+    {
+        "chi" "** 防守僵尸50秒 **"
+    }
+
+    "***HOLD ON TO YOUR HELMETS!***"
+    {
+        "chi" "** 带上你们的头盔! **"
+    }
+
+    "***HOLD THIS AREA FOR 10 SECONDS***"
+    {
+        "chi" "** 在这个位置防守僵尸10秒 **"
+    }
+
+    "***HOLD THIS AREA FOR 20 SECONDS***"
+    {
+        "chi" "** 在这个区域守住20秒 **"
+    }
+
+    "***HOLD THIS AREA FOR 40 SECONDS***"
+    {
+        "chi" "** 防守僵尸40秒 **"
+    }
+
+    "***HOLD YOUR GROUND***"
+    {
+        "chi" "** 守住这个房间 **"
+    }
+
+    "***INFILTRATE AND DEFEND THE GUERILLA COMPOUND***"
+    {
+        "chi" "** 进入围栏防守僵尸 **"
+    }
+
+    "***IT LOOKS LIKE IT'S PREPARING FOR ANOTHER GROUNDSTOMP***"
+    {
+        "chi" "** 赶紧开枪 **"
+    }
+
+    "***ITS A PREDATOR!***"
+    {
+        "chi" "** 铁血战士出现 **"
+    }
+
+    "***IT'S RUNNING AWAY***"
+    {
+        "chi" "** 它正在逃跑 **"
+    }
+
+    "***ITS THE PREDATOR!***"
+    {
+        "chi" "** 铁血战士出现**"
+    }
+
+    "***KEEP FIRING WITH UNLIMITED AMMO***"
+    {
+        "chi" "** 现在是无限弹药模式!****"
+    }
+
+    "***KILL IT***"
+    {
+        "chi" "** 快干死它 **"
+    }
+
+    "***MAP BY --- PER30010 / LUFFAREN***"
+    {
+        "chi" "**地图制作:PER30010, Luffaren**"
+    }
+
+    "***MAP RESET***"
+    {
+        "chi" "**地图重载中**"
+    }
+
+    "***MOVE IT***"
+    {
+        "chi" "** 撤退 **"
+    }
+
+    "***MOVING ON TO HARD***"
+    {
+        "chi" "** 向咸鱼难度进发 **"
+    }
+
+    "***MOVING ON TO HYPER***"
+    {
+        "chi" "** 下一关难度:萌新司机 **"
+    }
+
+    "***MOVING ON TO ULTIMATE***"
+    {
+        "chi" "** 朝着最后的难度:老司机难度进发吧 **"
+    }
+
+    "***NUKE BUTTON PRESSED***"
+    {
+        "chi" "**核按钮被按下**"
+    }
+
+    "***OH NO!     WATCH OUT!***"
+    {
+        "chi" "** 小心! **"
+    }
+
+    "***OH NO! THE NUKE EXPLODED!***"
+    {
+        "chi" "** 僵尸全都给我死 **"
+    }
+
+    "***PLAYER PICKED UP ALIEN DEVICE***"
+    {
+        "chi" "** 异形设备被拾取 **"
+        "blocked"    "1"
+    }
+
+    "***PLAYER PICKED UP ALIEN SAMPLE***"
+    {
+        "chi" "** 异形样本被拾取 **"
+        "blocked"    "1"
+    }
+
+    "***PLAYER PICKED UP AMMO DISPENSER***"
+    {
+        "chi" "** 弹药箱被拾取 **"
+        "blocked"    "1"
+    }
+
+    "***PLAYER PICKED UP CLAYMORE MINES***"
+    {
+        "chi" "** 阔剑地雷被拾取 **"
+        "blocked"    "1"
+    }
+
+    "***PLAYER PICKED UP FLAMETHROWER***"
+    {
+        "chi" "** 火焰喷射器被拾取 **"
+        "blocked"    "1"
+    }
+
+    "***PLAYER PICKED UP GAUSS RIFLE***"
+    {
+        "chi" "** 高斯狙击枪被拾取 **"
+        "blocked"    "1"
+    }
+
+    "***PLAYER PICKED UP GRENADE LAUNCHER***"
+    {
+        "chi" "** 榴弹发射器被拾取 **"
+        "blocked"    "1"
+    }
+
+    "***PLAYER PICKED UP IMPULSOR***"
+    {
+        "chi" "** 防身脉冲器被拾取 **"
+        "blocked"    "1"
+    }
+
+    "***PLAYER PICKED UP MINI GUN***"
+    {
+        "chi" "** 米尼冈重机枪被拾取 **"
+        "blocked"    "1"
+    }
+
+    "***PLAYER PICKED UP PUSH GUN***"
+    {
+        "chi" "** 驱逐枪被拾取 **"
+        "blocked"    "1"
+    }
+
+    "***RUN !***"
+    {
+        "chi" "** 撤退 **"
+    }
+
+    "***RUN TOWARDS THE ELEVATOR!***"
+    {
+        "chi" "** 前往电梯 **"
+    }
+
+    "***RUN TOWARDS THE FINAL ROOM***"
+    {
+        "chi" "** 向最后的房间撤离 **"
+    }
+
+    "***RUN! GO BEFORE ITS TOO LATE!***"
+    {
+        "chi" "** 撤退 **"
+    }
+
+    "***RUN***"
+    {
+        "chi" "** 撤退 **"
+    }
+
+    "***SHOOT IT BEFORE IT'S TOO LATE***"
+    {
+        "chi" "** 赶紧开抢打它! **"
+    }
+
+    "***SOMEONE IS CHANGING DIFFICULTY INSIDE THE DEVROOM***"
+    {
+        "chi" "**管理员正在选择难度**"
+    }
+
+    "***SOMEONE MUST JUMP INTO THE CORE***"
+    {
+        "chi" "** 必须有人跳到核心 **"
+    }
+
+    "***TELEPORTING EVERYONE TO CLIFF HIDEOUT***"
+    {
+        "chi" "** 僵尸传送点刷新 **"
+    }
+
+    "***TELEPORTING EVERYONE TO COMPLEX CORE***"
+    {
+        "chi" "** 僵尸传送点刷新 **"
+    }
+
+    "***TELEPORTING EVERYONE TO COMPLEX ELEVATOR***"
+    {
+        "chi" "** 僵尸传送点即刷新 **"
+    }
+
+    "***TELEPORTING EVERYONE TO COMPOUND***"
+    {
+        "chi" "** 僵尸传送点刷新 **"
+    }
+
+    "***TELEPORTING EVERYONE TO RUINS***"
+    {
+        "chi" "** 僵尸传送点刷新 **"
+    }
+
+    "***TELEPORTING EVERYONE TO SPACESHIP CORE***"
+    {
+        "chi" "** 僵尸传送点刷新 **"
+    }
+
+    "***TELEPORTING EVERYONE TO SPACESHIP ENTRANCE***"
+    {
+        "chi" "** 僵尸传送点刷新 **"
+    }
+
+    "***THANK YOU FOR PLAYING***"
+    {
+        "chi" "** 感谢你们的游玩 **"
+    }
+
+    "***THE CHOPPER IS HERE! MOVE IT!***"
+    {
+        "chi" "** 直升机已经到达!**"
+    }
+
+    "***THE CHOPPER IS ON IT'S WAY!***"
+    {
+        "chi" "** 直升机马上就到了!坚持住!**"
+    }
+
+    "***THE CORE IS GOING UNSTABLE***"
+    {
+        "chi" "** 核心极度不稳定 **"
+    }
+
+    "***THE NUKE HAS EXPLODED***"
+    {
+        "chi" "** 核弹发射 **"
+    }
+
+    "***THE PREDATOR IS CHARGING AN ATTACK!***"
+    {
+        "chi" "** 铁血战士正在发起攻击 **"
+    }
+
+    "***THE PREDATOR IS IN RAGEMODE***"
+    {
+        "chi" "** 猛男进入狂暴模式 **"
+    }
+
+    "***THE SPACESHIP IS STARTING TO COLLAPSE***"
+    {
+        "chi" "** 宇宙飞船开始崩塌了 **"
+    }
+
+    "***THIS IS YOUR FINAL STAND***"
+    {
+        "chi" "** 这是你们最后的战斗 **"
+    }
+
+    "***WELL DONE***"
+    {
+        "chi" "** 做的好! **"
+    }
+
+    "***YOU ARE THE ULTIMATE ZOMBIE ESCAPE MASTER***"
+    {
+        "chi" "** 你们是极限的僵尸逃跑大师 **"
+    }
+
+    "***YOU ARE TOO SLOW!***"
+    {
+        "chi" "** 你太磨蹭了! **"
+    }
+
+    "***YOU COMPLETED HARD***"
+    {
+        "chi" "** 你们征服了咸鱼难度 **"
+    }
+
+    "***YOU COMPLETED HYPER***"
+    {
+        "chi" "** 萌新司机难度完成 **"
+    }
+
+    "***YOU COMPLETED NORMAL***"
+    {
+        "chi" "** 你们通过了萌新难度 **"
+    }
+
+    "***YOU COULD HAVE STOPPED THE ATTACK THOUGH...***"
+    {
+        "chi" "** 你本来可以阻止它的... **"
+    }
+
+    "***YOU FAILED***"
+    {
+        "chi" "** 你失败了 **"
+    }
+
+    "***YOU HAVE DEFEATED THE PREDATOR!***"
+    {
+        "chi" "** 铁血战士倒下了**"
+    }
+
+    "***YOU INTERUPTED THE PREDATORS ATTACK***"
+    {
+        "chi" "** 做得好.你们成功打断了猛男的攻击 **"
+    }
+
+    "***YOU KILLED THE PREDATOR***"
+    {
+        "chi" "** 铁血战士倒下了 **"
+    }
+
+    "***YOU MUST PRESS ALL 4 ORBS TO SURVIVE!***"
+    {
+        "chi" "** 你们必须按下角落的四个球体! **"
+    }
+
+    "***ZOMBIE BRIDGE ACTIVATED***"
+    {
+        "chi" "** 僵尸桥被激活 **"
+    }
+
+    "YOU TOOK TOO LONG!"
+    {
+        "chi" "** 你们花的时间太长了 **"
+    }
+
+    "ZOMBIES ARE RELEASED!"
+    {
+        "chi" "** 尸潮来了 **"
+    }
+
 }

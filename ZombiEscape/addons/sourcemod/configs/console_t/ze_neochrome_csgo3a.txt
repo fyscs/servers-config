@@ -1,0 +1,89 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "| | 1 / 2 | |"
+    {
+        "chi" "1/2"
+    }
+
+    "| | 1 / 4 | |"
+    {
+        "chi" "1/4"
+    }
+
+    "| | 10 | |"
+    {
+        "chi" "10"
+    }
+
+    "| | 15 | |"
+    {
+        "chi" "15"
+    }
+
+    "| | 2 / 2 | |"
+    {
+        "chi" "2/2"
+    }
+
+    "| | 2 / 4 | |"
+    {
+        "chi" "2/4"
+    }
+
+    "| | 20 | |"
+    {
+        "chi" "20"
+    }
+
+    "| | 25 | |"
+    {
+        "chi" "25"
+    }
+
+    "| | 3 / 4 | |"
+    {
+        "chi" "3/4"
+    }
+
+    "| | 30 | |"
+    {
+        "chi" "30"
+    }
+
+    "| | 35 | |"
+    {
+        "chi" "35"
+    }
+
+    "| | 4 / 4 | |"
+    {
+        "chi" "4/4"
+    }
+
+    "| | 5 | |"
+    {
+        "chi" "5"
+    }
+
+    "| | heal | |"
+    {
+        "chi" "三鹿奶粉"
+    }
+
+    "| MAP BY NUTWOOMY |"
+    {
+        "chi" "作者: NUTWOOMY"
+    }
+
+}

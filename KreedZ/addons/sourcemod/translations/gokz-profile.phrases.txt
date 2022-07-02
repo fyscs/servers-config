@@ -1,0 +1,108 @@
+"Phrases"
+{
+	//=====[ MENU ]=====
+	"Options Menu - Profile"
+	{
+		"en"		"Profile"
+	}
+	"Options Menu - Show Rank Chat"
+	{
+		"en"		"Show rank in chat"
+	}
+	"Options Menu - Show Rank Clan"
+	{
+		"en"		"Show rank on scoreboard"
+	}
+	"Options Menu - Tag Type"
+	{
+		"en"		"Tag to show"
+	}
+	"Options Menu - Enabled"
+	{
+		"en"		"Enabled"
+	}
+	"Options Menu - Disabled"
+	{
+		"en"		"Disabled"
+	}
+	"Options Menu - Tag Rank"
+	{
+		"en"		"Rank"
+	}
+	"Options Menu - Tag Admin"
+	{
+		"en"		"Admin"
+	}
+	"Options Menu - Tag VIP"
+	{
+		"en"		"VIP"
+	}
+	
+	//=====[ PROFILE ]=====
+	"Profile Menu - Title"
+	{
+		"en"		"Profile"
+	}
+	"Profile Menu - Name"
+	{
+		"en"		"Name"
+	}
+	"Profile Menu - Mode"
+	{
+		"en"		"Mode"
+	}
+	"Profile Menu - Rank"
+	{
+		"en"		"Rank"
+	}
+	"Profile Menu - Points"
+	{
+		"en"		"Points"
+	}
+	"Rank Info Menu - Title"
+	{
+		"en"		"Rank Info"
+	}
+	"Rank Info Menu - Current Rank"
+	{
+		"en"		"Current"
+	}
+	"Rank Info Menu - Next Rank"
+	{
+		"en"		"Next"
+	}
+	"Rank Info Menu - Points needed"
+	{
+		"en"		"Points needed"
+	}
+	"Points Info Menu - Title"
+	{
+		"en"		"Point Info"
+	}
+	"Points Info Menu - Overall Points"
+	{
+		"en"		"Nub Points"
+	}
+	"Points Info Menu - Pro Points"
+	{
+		"en"		"Pro Points"
+	}
+	"Points Info Menu - Overall Completion"
+	{
+		"en"		"Nub runs"
+	}
+	"Points Info Menu - Pro Completion"
+	{
+		"en"		"Pro runs"
+	}
+	
+	//=====[ TAGS ]=====
+	"Tag - Admin"
+	{
+		"en"		"ADMIN"
+	}
+	"Tag - VIP"
+	{
+		"en"		"VIP"
+	}
+}

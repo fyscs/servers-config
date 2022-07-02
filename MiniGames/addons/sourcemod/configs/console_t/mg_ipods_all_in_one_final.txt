@@ -1,126 +1,217 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
 
-    "***CT'S Have Scored A Point!!!***"
-    {
-        "chi" "CT们得到一分!!!"
-    }
 
-    "***CT'S Get Ready To Serve In...***"
-    {
-        "chi" "CT们准备发球..."
-    }
-
-    "***3***"
-    {
-        "chi" "3"
-    }
-
-    "***2***"
+    "***Dont Worry Its Easy...Except For Noobs***"
     {
         "blocked" "1"
-        "chi" "2"
     }
 
-    "***1***"
+    "***Doors Will Open In 1 Seconds***"
     {
         "blocked" "1"
-        "chi" "1"
     }
 
-    "***Serve Up!***"
-    {
-        "chi" "发球!"
-    }
-
-    "***T'S Get Ready To Serve In...***"
-    {
-        "chi" "T们准备发球..."
-    }
-
-    "***T'S Have Scored A Point!!!***"
-    {
-        "chi" "T们得到一分!!!"
-    }
-
-    "***CT'S Have Won The Match!!!***"
-    {
-        "chi" "恭喜CT赢下了这场比赛!!!"
-    }
-
-    "***T'S Have Won The Match!!!***"
-    {
-        "chi" "恭喜T赢下了这场比赛!!!"
-    }
-
-    ">>>Whitelist the commands below:<<<"
+    "***Doors Will Open In 2 Seconds***"
     {
         "blocked" "1"
-        "chi" "** **"
     }
 
-    ">>sm_cvar, sm_say<<"
+    "***Doors Will Open In 3 Seconds***"
     {
         "blocked" "1"
-        "chi" "** **"
     }
 
-    ">>Map requires (balanced values if you don't want to whitelist it):<<<"
+    "***Doors Will Open In 4 Seconds***"
     {
         "blocked" "1"
-        "chi" "** **"
     }
 
-    ">>>cs_enable_player_physics_box 1 & phys_pushscale 900 & phys_timescale 0.75<<<"
+    "***Doors Will Open In 5 Seconds***"
+    {
+        "chi" "门将在5秒内打开"
+    }
+
+    "***First Team To Score 2 Goals Win!!!***"
+    {
+        "chi" "哪一队先拿两分赢"
+    }
+
+    "***Gay...What A Fag!***"
     {
         "blocked" "1"
-        "chi" "** **"
     }
 
-    "Walls Will Break In 5 Seconds."
+    "***Good Luck...Your Going Too Need It***"
     {
-        "chi" "5秒钟后墙壁消失"
+        "chi" "__keep__"
     }
 
-    "3"
+    "***Have Fun!!!***"
     {
-        "chi" "3"
+        "chi" "__keep__"
     }
 
-    "2"
+    "***Have Fun***"
     {
-        "blocked" "1"
-        "chi" "2"
+        "chi" "__keep__"
     }
 
-    "1"
+    "***Hip-Pop***"
     {
         "blocked" "1"
-        "chi" "1"
     }
 
-    "GO!!!"
+    "***Lets Play Some Soccer!!!!***"
     {
-        "chi" "冲!!!"
+        "blocked" "1"
     }
 
-    "***GOAL!!!***"
+    "***Map By: Lt.| iPod***"
     {
-        "chi" "球进啦!!!"
+        "blocked" "1"
     }
 
-    "***GG...But CT's Are The Winners...So The T's Must Die!!!***"
+    "***Music Must Be Picked Before You Can Choose A LvL***"
     {
-        "chi" "打得不错...但是CT是最后的赢家 T准备好被刷了吗?!"
+        "chi" "先选了音乐才能选图"
     }
 
-    "***GG...But T's Are The Winners...So The CT's Must Die!!!***"
+    "***Music Selection is...***"
     {
-        "chi" "打得不错...但是T是最后的赢家 CT准备好被刷了吗?!"
+        "blocked" "1"
+    }
+
+    "***Music Selection is....***"
+    {
+        "blocked" "1"
+    }
+
+    "***Rock***"
+    {
+        "blocked" "1"
+    }
+
+    "***Spawn Will Open In 5 Seconds***"
+    {
+        "chi" "__keep__"
+    }
+
+    "***Techno***"
+    {
+        "blocked" "1"
+    }
+
+    "***Try to Get To The End First...Or Kill The Other Team Along The Way***"
+    {
+        "chi" "尽量先去终点,或者你可以在路上用机关整对面"
+    }
+
+    "***You Have Chose Random Because You Are A Indecisive Douchebag***"
+    {
+        "blocked" "1"
+    }
+
+    "***You Have Chosen AK--COLT***"
+    {
+        "chi" "AK/M4"
+        "notimer" "1"
+    }
+
+    "***You Have Chosen Autosniper LvL***"
+    {
+        "chi" "连狙"
+    }
+
+    "***You Have Chosen Bhop***"
+    {
+        "chi" "连跳"
+    }
+
+    "***You Have Chosen Climb***"
+    {
+        "chi" "攀登"
+    }
+
+    "***You Have Chosen Death Race***"
+    {
+        "chi" "死亡竞速"
+    }
+
+    "***You Have Chosen Dodgeball***"
+    {
+        "chi" "躲避球"
+    }
+
+    "***You Have Chosen Iceskate***"
+    {
+        "chi" "溜冰"
+    }
+
+    "***You Have Chosen Knife Arena***"
+    {
+        "chi" "刀"
+    }
+
+    "***You Have Chosen Pistols LvL***"
+    {
+        "chi" "手枪"
+    }
+
+    "***You Have Chosen Regular CS:GO***"
+    {
+        "chi" "官方休闲"
+    }
+
+    "***You Have Chosen Scoutzknivez***"
+    {
+        "chi" "鸟狙"
+    }
+
+    "***You Have Chosen Slide Race***"
+    {
+        "chi" "滑道竞速"
+    }
+
+    "***You Have Chosen Soccer***"
+    {
+        "chi" "足球"
+    }
+
+    "***You Have Chosen Volleyball***"
+    {
+        "chi" "排球"
+    }
+
+    ">>>Map ported for SteamGamers by [SG] Punky<<<"
+    {
+        "blocked" "1"
+    }
+
+    ">>sm_cvar, say<<"
+    {
+        "blocked" "1"
+    }
+
+    "Middle Barrier Is Now Lifted"
+    {
+        "chi" "__keep__"
+    }
+
+    "Middle Barrier Will Be Lifted In 30 Seconds"
+    {
+        "chi" "__keep__"
     }
 
 }

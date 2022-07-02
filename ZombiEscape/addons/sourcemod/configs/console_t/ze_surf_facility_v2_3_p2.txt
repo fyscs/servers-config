@@ -1,13 +1,29 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "***Prepare defences! 45 seconds!***"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "****Contact me at eugenio.motanum91@gmail.com****"
     {
-        "chi" "**防守45秒**"
+        "chi" "我的联系方式:motanum91@gmail.com"
+    }
+
+    "****Map by Eugenio Motanum Roman****"
+    {
+        "chi" "地图作者:Eugenio Motanum Roman"
+    }
+
+    "***40 seconds left!**"
+    {
+        "chi" "**40**"
     }
 
     "***5 seconds left!**"
@@ -15,29 +31,39 @@
         "chi" "**5**"
     }
 
-    "***Humans Run to next exit***"
-    {
-        "chi" "**撤退至下一个出口**"
-    }
-
     "***Afk Killer is enabled for 5 seconds***"
     {
         "chi" "**挂机咸鱼死光光:5秒**"
     }
 
-    "****Map by Eugenio Motanum Roman****"
+    "***Doors closing!**"
     {
-        "chi" "** **"
+        "chi" "**大门关闭**"
     }
 
-    "****Contact me at eugenio.motanum91@gmail.com****"
+    "***Final Defense! Survive 1 minutef**"
     {
-        "chi" "** **"
+        "chi" "**是男人就坚持60秒**"
     }
 
-    "***Zombies are out of jail***"
+    "***Finale song is Tristan by Two Steps From Hell***"
     {
-        "chi" "**它们来了,我们是它们的rbq**"
+        "chi" "**尾奏:Tristan by Two Steps From Hell**"
+    }
+
+    "***Humans have been teleported**"
+    {
+        "chi" "**人类传送完毕**"
+    }
+
+    "***Humans Run to next exit**"
+    {
+        "chi" "**撤退至下一个出口**"
+    }
+
+    "***Humans Run to next exit***"
+    {
+        "chi" "**撤退至下一个出口**"
     }
 
     "***Intro song is Spanish Flea***"
@@ -50,44 +76,19 @@
         "chi" "**中曲:Red Canyon by F-Zero**"
     }
 
-    "***Finale song is Tristan by Two Steps From Hell***"
+    "***Prepare defences! 45 seconds!**"
     {
-        "chi" "**尾奏:Tristan by Two Steps From Hell**"
+        "chi" "**防守45秒**"
     }
 
-    "***Final Defense! Survive 1 minutef**"
+    "***Prepare defences! 45 seconds!***"
     {
-        "chi" "**是男人就坚持60秒**"
+        "chi" "**防守45秒**"
     }
 
-    "***Teleporting every human in 30 seconds**"
+    "***Protect yourself from Jumpy Zomby!**"
     {
-        "chi" "**传送:30秒**"
-    }
-
-    "***Sealing the place in 50 seconds!**"
-    {
-        "chi" "**封闭:50秒**"
-    }
-
-    "***Zombies who finish surf will get 15000 hp**"
-    {
-        "chi" "**完成冲浪的僵尸将会获得 50000 血量**"
-    }
-
-    "***Humans have been teleported**"
-    {
-        "chi" "**人类传送完毕**"
-    }
-
-    "***Zombies have been teleported**"
-    {
-        "chi" "**僵尸传送完毕**"
-    }
-
-    "***Doors closing!**"
-    {
-        "chi" "**大门关闭**"
+        "chi" "**保护好自己**"
     }
 
     "***Sealing the place in 20 seconds!**"
@@ -95,29 +96,49 @@
         "chi" "**封闭:30秒**"
     }
 
-    "***Zombies no longer get 15k hp when they finish!**"
-    {
-        "chi" "**现在完成冲浪的僵尸不会获得 50000 血量了哟**"
-    }
-
     "***Sealing the place in 5 seconds!**"
     {
         "chi" "**封闭:5秒**"
     }
 
-    "***Protect yourself from Jumpy Zomby!**"
+    "***Sealing the place in 50 seconds!**"
     {
-        "chi" "** **"
+        "chi" "**封闭:50秒**"
     }
 
-    "***40 seconds left!**"
+    "***Teleporting every human in 30 seconds**"
     {
-        "chi" "**40**"
+        "chi" "**传送:30秒**"
+    }
+
+    "***Zombies are out of jail***"
+    {
+        "chi" "**它们来了,我们是它们的rbq**"
+    }
+
+    "***Zombies have been teleported**"
+    {
+        "chi" "**僵尸传送完毕**"
     }
 
     "***Zombies have broken out of Jail!**"
     {
         "chi" "**它们来了,我们是它们的rbq**"
+    }
+
+    "***Zombies no longer get 15k hp when they finish!**"
+    {
+        "chi" "**现在完成冲浪的僵尸不会获得 50000 血量了哟**"
+    }
+
+    "***Zombies out of Jail**"
+    {
+        "chi" "**僵尸被释放**"
+    }
+
+    "***Zombies who finish surf will get 15000 hp**"
+    {
+        "chi" "**完成冲浪的僵尸将会获得 50000 血量**"
     }
 
 }

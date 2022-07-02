@@ -1,0 +1,9 @@
+"Phrases"
+{
+	"!goto"
+	{
+		"en"		"{grey}Type {default}!goto <player> {grey}to teleport to another player."
+		"chi"		"{grey}聊天框中输入{default}!goto <player> {grey}以传送到其他玩家身边(注意:会停止你当前的计时)."
+		"ru"		"{grey}Напишите {default}!goto <player> {grey}для телепортации к другому игроку."
+	}
+}

@@ -1,0 +1,846 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
+
+
+    "100HP"
+    {
+        "chi" "__keep__"
+    }
+
+    "100HP HEADSHOTZ!"
+    {
+        "chi" "__keep__"
+    }
+
+    "150HP"
+    {
+        "chi" "__keep__"
+    }
+
+    "1HP HOLYSHIT!"
+    {
+        "chi" "__keep__"
+    }
+
+    "200HP"
+    {
+        "chi" "__keep__"
+    }
+
+    "500HP"
+    {
+        "chi" "__keep__"
+    }
+
+    "50HP"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 1 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 10 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 11 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 12 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 13 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 14 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 15 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 16 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 17 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 18 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 19 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 2 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 20 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 21 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 22 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 23 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 24 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 25 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 26 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 27 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 28 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 29 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 3 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 30 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 31 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 32 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 33 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 34 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 35 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 36 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 37 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 38 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 39 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 4 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 40 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 41 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 42 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 43 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 44 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 45 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 46 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 47 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 48 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 49 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 5 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 50 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 6 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 7 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 8 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "ARENA  [ 9 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ OFF ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S1 E1 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S1 E2 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S1 E3 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S1 E4 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S1 E5 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S1 E6 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S1 E7 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S2 E1 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S2 E2 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S2 E3 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S2 E4 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S2 E5 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S2 E6 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S2 E7 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S3 E1 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S3 E2 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S3 E3 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S3 E4 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S3 E5 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S3 E6 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T1 S3 E7 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T2 S1 E1 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T2 S1 E2 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T2 S1 E3 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T2 S1 E4 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T2 S1 E5 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T2 S1 E6 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T2 S1 E7 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T2 S2 E1 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T2 S2 E2 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T2 S2 E3 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T2 S2 E4 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T2 S2 E5 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T2 S2 E6 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T2 S2 E7 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T3 S1 E1 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T3 S1 E2 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T3 S1 E3 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T3 S1 E4 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T3 S1 E5 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T3 S1 E6 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T3 S1 E7 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T3 S2 E1 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T3 S2 E2 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T3 S2 E3 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T3 S2 E4 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T3 S2 E5 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T3 S2 E6 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "EFFECT [ T3 S2 E7 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "GRAV [ 0.1 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "GRAV [ 0.5 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "GRAV [ 0.6 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "GRAV [ 0.7 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "GRAV [ 0.8 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "GRAV [ 0.9 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "GRAV [ 1 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "GRAV [ 2.0 ]"
+    {
+        "chi" "__keep__"
+    }
+
+    "LETS GO"
+    {
+        "chi" "冲!"
+    }
+
+    "AK47"
+    {
+        "chi" "卡拉什尼科夫1947年式自动步枪"
+        "notimer" "1"
+    }
+
+    "AUG"
+    {
+        "chi" "斯太尔AUG步枪"
+    }
+
+    "AWP"
+    {
+        "chi" "大狙"
+    }
+
+    "BIZON"
+    {
+        "chi" "野牛冲锋枪"
+    }
+
+    "CZ75A"
+    {
+        "chi" "CZ75自动手枪"
+        "notimer" "1"
+    }
+
+    "DEAGLE"
+    {
+        "chi" "沙漠之鹰"
+    }
+
+    "ELITE"
+    {
+        "chi" "双持贝瑞塔"
+    }
+
+    "FAMAS"
+    {
+        "chi" "FAMAS自动步枪"
+    }
+
+    "FIVESEVEN"
+    {
+        "chi" "FN57"
+        "notimer" "1"
+    }
+
+    "FLASHBANG"
+    {
+        "chi" "闪光弹"
+    }
+
+    "G3SG1"
+    {
+        "chi" "G3SG1连狙"
+        "notimer" "1"
+    }
+
+    "GALILAR"
+    {
+        "chi" "加利尔AR"
+    }
+
+    "GLOCK"
+    {
+        "chi" "格洛克"
+    }
+
+    "HEGRENADE"
+    {
+        "chi" "高爆手雷"
+    }
+
+    "HKP2000"
+    {
+        "chi" "HKP2000"
+        "notimer" "1"
+    }
+
+    "INCGRENADE"
+    {
+        "chi" "燃烧弹"
+    }
+
+    "KNIFE"
+    {
+        "chi" "刀"
+    }
+
+    "M249"
+    {
+        "chi" "小菠萝"
+    }
+
+    "M4A1"
+    {
+        "chi" "M4A4"
+    }
+
+    "M4A1S"
+    {
+        "chi" "M4A1消音版"
+        "notimer" "1"
+    }
+
+    "MAC10"
+    {
+        "chi" "吹风机"
+    }
+
+    "MAG7"
+    {
+        "chi" "警喷"
+    }
+
+    "MOLOTOV"
+    {
+        "chi" "莫洛托夫燃烧瓶"
+    }
+
+    "MP7"
+    {
+        "chi" "MP7"
+        "notimer" "1"
+    }
+
+    "MP9"
+    {
+        "chi" "MP9"
+        "notimer" "1"
+    }
+
+    "NEGEV"
+    {
+        "chi" "大菠萝"
+    }
+
+    "NOVA"
+    {
+        "chi" "新星"
+    }
+
+    "P250"
+    {
+        "chi" "P250"
+        "notimer" "1"
+    }
+
+    "P90"
+    {
+        "chi" "P90"
+        "notimer" "1"
+    }
+
+    "REVOLVER"
+    {
+        "chi" "左轮"
+    }
+
+    "SAWEDOFF"
+    {
+        "chi" "短喷"
+    }
+
+    "SCAR20"
+    {
+        "chi" "Scar20连狙"
+        "notimer" "1"
+    }
+
+    "SG556"
+    {
+        "chi" "傻狗553"
+        "notimer" "1"
+    }
+
+    "SMOKEGRENADE"
+    {
+        "chi" "烟雾弹"
+    }
+
+    "SSG08"
+    {
+        "chi" "SSG08"
+        "notimer" "1"
+    }
+
+    "TEC9"
+    {
+        "chi" "Tec-9"
+        "notimer" "1"
+    }
+
+    "UMP45"
+    {
+        "chi" "UMP45"
+        "notimer" "1"
+    }
+
+    "USP"
+    {
+        "chi" "USP"
+    }
+
+    "XM1014"
+    {
+        "chi" "连喷"
+    }
+
+    "ZEUS"
+    {
+        "chi" "电击枪"
+    }
+
+    "SUPER POWER [ BIG ASS ]"
+    {
+        "chi" "超能力: 大屁股"
+    }
+
+    "SUPER POWER [ INFINITE AMMO ]"
+    {
+        "chi" "超能力: 无限子弹"
+    }
+
+    "SUPER POWER [ INVISIBILITY ]"
+    {
+        "chi" "超能力: 隐形"
+    }
+
+    "SUPER POWER [ OFF ]"
+    {
+        "chi" "超能力: 关"
+    }
+
+    "SUPER POWER [ RAINBOW ]"
+    {
+        "chi" "超能力: 彩虹"
+    }
+
+    "SUPER POWER [ REVERSE MOTION ]"
+    {
+        "chi" "超能力: 反向"
+    }
+
+    "SUPER POWER [ SPEED ]"
+    {
+        "chi" "超能力: 加速"
+    }
+
+}

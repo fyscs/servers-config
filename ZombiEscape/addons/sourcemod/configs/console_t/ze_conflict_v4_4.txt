@@ -1,148 +1,20 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "::: Special Thanks : Hweyeon , Yessi , miceadf :::"
-    {
-        "chi" "**鸣谢:Hweyeon & Yessi & miceadf**"
-    }
-
-    "::: Map By Rio :::"
-    {
-        "chi" "**地图制作:Rio	汉化:小三@風雲社**"
-    }
-
-    "::: Portal is OPEN, FALL BACK :::"
-    {
-        "chi" "**门已开放,现在是撤离时间**"
-    }
-
-    "::: Survival 20 seconds left :::"
-    {
-        "chi" "**生存:20秒**"
-    }
-
-    "::: 5 :::"
-    {
-        "chi" "** **"
-    }
-
-    "::: 4 :::"
-    {
-        "chi" "** **"
-    }
-
-    "::: 3 :::"
-    {
-        "chi" "** **"
-    }
-
-    "::: 2 :::"
-    {
-        "chi" "** **"
-    }
 
     "::: 1 :::"
     {
-        "chi" "** **"
-    }
-
-    "::: Survival 30 seconds left :::"
-    {
-        "chi" "**生存:30秒**"
-    }
-
-    "::: Survival 10 seconds left :::"
-    {
-        "chi" "**生存:10秒**"
-    }
-
-    "::: End :::"
-    {
-        "chi" "** **"
-    }
-
-    "::: Hold 40 Seconds :::"
-    {
-        "chi" "**40**"
-    }
-
-    "::: 20 Seconds left :::"
-    {
-        "chi" "**20**"
-    }
-
-    "::: 5 Seconds left :::"
-    {
-        "chi" "**5**"
-    }
-
-    "::: 140 seconds left :::"
-    {
-        "chi" "**140**"
-    }
-
-    "::: 130 seconds left :::"
-    {
-        "chi" "**130**"
-    }
-
-    "::: 120 seconds left :::"
-    {
-        "chi" "**120**"
-    }
-
-    "::: 110 seconds left :::"
-    {
-        "chi" "**110**"
-    }
-
-    "::: 100 seconds left :::"
-    {
-        "chi" "**100**"
-    }
-
-    "::: 90 seconds left :::"
-    {
-        "chi" "**90**"
-    }
-
-    "::: 80 seconds left :::"
-    {
-        "chi" "**80**"
-    }
-
-    "::: 70 seconds left :::"
-    {
-        "chi" "**70**"
-    }
-
-    "::: 60 seconds left :::"
-    {
-        "chi" "**60**"
-    }
-
-    "::: 50 seconds left :::"
-    {
-        "chi" "**50**"
-    }
-
-    "::: 40 seconds left :::"
-    {
-        "chi" "**40**"
-    }
-
-    "::: 30 seconds left :::"
-    {
-        "chi" "**30**"
-    }
-
-    "::: 20 seconds left :::"
-    {
-        "chi" "**20**"
+        "chi" "1"
+        "blocked"    "1"
     }
 
     "::: 10 seconds left :::"
@@ -150,34 +22,115 @@
         "chi" "**10**"
     }
 
-    "::: 5 seconds left :::"
-    {
-        "chi" "**5**"
-    }
-
-    "::: Hold 30 Seconds :::"
-    {
-        "chi" "**30**"
-    }
-
-    "::: Hold 45 Seconds :::"
-    {
-        "chi" "**45**"
-    }
-
     "::: 10 Seconds left :::"
     {
         "chi" "**10**"
     }
 
-    "::: Hold 50 Seconds :::"
+    "::: 100 seconds left :::"
+    {
+        "chi" "**100**"
+    }
+
+    "::: 110 seconds left :::"
+    {
+        "chi" "**110**"
+    }
+
+    "::: 120 seconds left :::"
+    {
+        "chi" "**120**"
+    }
+
+    "::: 130 seconds left :::"
+    {
+        "chi" "**130**"
+    }
+
+    "::: 140 seconds left :::"
+    {
+        "chi" "**140**"
+    }
+
+    "::: 2 :::"
+    {
+        "chi" "2"
+    }
+
+    "::: 20 seconds left :::"
+    {
+        "chi" "**20**"
+    }
+
+    "::: 20 Seconds left :::"
+    {
+        "chi" "**20**"
+    }
+
+    "::: 3 :::"
+    {
+        "chi" "3"
+    }
+
+    "::: 30 seconds left :::"
+    {
+        "chi" "**30**"
+    }
+
+    "::: 4 :::"
+    {
+        "chi" "4"
+    }
+
+    "::: 40 seconds left :::"
+    {
+        "chi" "**40**"
+    }
+
+    "::: 5 :::"
+    {
+        "chi" "5"
+    }
+
+    "::: 5 seconds left :::"
+    {
+        "chi" "**5**"
+    }
+
+    "::: 5 Seconds left :::"
+    {
+        "chi" "**5**"
+    }
+
+    "::: 50 seconds left :::"
     {
         "chi" "**50**"
     }
 
-    "::: Hold 25 Seconds :::"
+    "::: 60 seconds left :::"
     {
-        "chi" "**25**"
+        "chi" "**60**"
+    }
+
+    "::: 70 seconds left :::"
+    {
+        "chi" "**70**"
+    }
+
+    "::: 80 seconds left :::"
+    {
+        "chi" "**80**"
+    }
+
+    "::: 90 seconds left :::"
+    {
+        "chi" "**90**"
+    }
+
+    "::: End :::"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
     }
 
     "::: Hold 20 Seconds :::"
@@ -185,9 +138,64 @@
         "chi" "**20**"
     }
 
+    "::: Hold 25 Seconds :::"
+    {
+        "chi" "**25**"
+    }
+
     "::: Hold 30 seconds :::"
     {
         "chi" "**30**"
+    }
+
+    "::: Hold 30 Seconds :::"
+    {
+        "chi" "**30**"
+    }
+
+    "::: Hold 40 Seconds :::"
+    {
+        "chi" "**40**"
+    }
+
+    "::: Hold 45 Seconds :::"
+    {
+        "chi" "**45**"
+    }
+
+    "::: Hold 50 Seconds :::"
+    {
+        "chi" "**50**"
+    }
+
+    "::: Map By Rio :::"
+    {
+        "chi" "**地图制作:Rio 汉化:小三@風雲社**"
+    }
+
+    "::: Portal is OPEN, FALL BACK :::"
+    {
+        "chi" "**门已开放,现在是撤离时间**"
+    }
+
+    "::: Special Thanks : Hweyeon , Yessi , miceadf :::"
+    {
+        "chi" "**鸣谢:Hweyeon & Yessi & miceadf**"
+    }
+
+    "::: Survival 10 seconds left :::"
+    {
+        "chi" "**生存:10秒**"
+    }
+
+    "::: Survival 20 seconds left :::"
+    {
+        "chi" "**生存:20秒**"
+    }
+
+    "::: Survival 30 seconds left :::"
+    {
+        "chi" "**生存:30秒**"
     }
 
 }

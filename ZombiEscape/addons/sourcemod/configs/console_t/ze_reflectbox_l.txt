@@ -1,71 +1,79 @@
 "Console_T"
 {
-	"Map by Eiskrieg"
-	{
-		"chi"		"**地图制作: Eiskrieg		汉化: 小三@风云社**"
-	}
-	"Zombie Door will open in 60 Seconds, try to defend and fall back quickly!"
-	{
-		"chi"		"**防守60秒, 小心僵尸侧路**"
-	}
-	"Zombies can move on in 30 Secs, hurry up!"
-	{
-		"chi"		"**僵尸被阻挡30秒**"
-	}
-	"Zombies will be teleported in 30 Seconds!"
-	{
-		"chi"		"**僵尸将于30秒后传送**"
-	}
-	"Elevator will leave in 45 secs. Hold on!"
-	{
-		"chi"		"**电梯45秒后离开, 坚持一下**"
-	}
-	"Zombies are following the Elevator, they will break trough in 8 seconds!!"
-	{
-		"chi"		"**僵尸被阻挡8秒**"
-	}
-	"Train is leaving in 45 Seconds, keep defending!"
-	{
-		"chi"		"**守住, 火车将在45秒后撤离**"
-	}
-	"Humans, you got 15 seconds left till Zombies will come for you, RUN!"
-	{
-		"chi"		"**你们有15秒的时间离开这里, 撤退**"
-	}
-	"Last Door will open in 30 Seconds."
-	{
-		"chi"		"**最后的门30秒后打开**"
-	}
-	"Humans got 2 Minutes left to defend the Elevator, before the Nuke explodes!"
-	{
-		"chi"		"**守住电梯2分钟直至核爆**"
-	}
-	"Elevator will leave in 60 Seconds, FALL BACK NOW"
-	{
-		"chi"		"**电梯将在60秒后离开, 坚持住**"
-	}
-	"BEAWARE WATER LEVEL IS RISING!"
-	{
-		"chi"		"**积水漫上来了!**"
-	}
-	"Thanks to Syoudous for helping me"
-	{
-		"chi"		"**感谢Syoudous提供的帮助**"
-	}
-	"also special thanks to Enviolinador"
-	{
-		"chi"		"**感谢Enviolinador提供的帮助**"
-	}
-	"Map was made for Mapeadores Zombie Escape"
-	{ 
-		"chi"		"** **"
-	}
-	"*** Map by : Airvulpes ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Difficulty : Disuse ***"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "Zombies can move on in 30 Secs, hurry up!"
+    {
+        "chi" "**30秒后释放僵尸,赶快!**"
+    }
+
+    "also special thanks to Enviolinador"
+    {
+        "chi" "**感谢Enviolinador提供的帮助**"
+    }
+
+    "Elevator will leave in 45 secs. Hold on!"
+    {
+        "chi" "**电梯45秒后离开, 坚持一下**"
+    }
+
+    "Humans got 2 Minutes left to defend the Elevator, before the Nuke explodes!"
+    {
+        "chi" "**守住电梯2分钟直至核爆**"
+    }
+
+    "Humans, you got 15 seconds left till Zombies will come for you, RUN!"
+    {
+        "chi" "**你们有15秒的时间离开这里, 撤退**"
+    }
+
+    "Last Door will open in 30 Seconds."
+    {
+        "chi" "**最后的门30秒后打开**"
+    }
+
+    "Map by Eiskrieg"
+    {
+        "chi" "**地图制作:Eiskrieg 汉化:小三@风云社**"
+    }
+
+    "Map was made for Mapeadores Zombie Escape"
+    {
+        "chi" "**地图是为Mapeadores制作的**"
+    }
+
+    "Train is leaving in 45 Seconds, keep defending!"
+    {
+        "chi" "**守住, 火车将在45秒后撤离**"
+    }
+
+    "Zombie Door will open in 60 Seconds, try to defend and fall back quickly!"
+    {
+        "chi" "**防守60秒, 小心僵尸侧路**"
+    }
+
+    "Zombies are following the Elevator, they will break trough in 8 seconds!!"
+    {
+        "chi" "**僵尸被阻挡8秒**"
+    }
+
+    "Zombies will be teleported in 30 Seconds!"
+    {
+        "chi" "**僵尸将于30秒后传送**"
+    }
+
+    "Zombies Will be teleported in 30 Seconds!"
+    {
+        "chi" "**僵尸将于30秒后传送**"
+    }
+
 }

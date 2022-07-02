@@ -1,0 +1,229 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** NEED KEY FOR OPEN ***"
+    {
+        "chi" "需要钥匙打开大门"
+    }
+
+    "*** PLAYER FOUND A KEY ***"
+    {
+        "chi" "有玩家找到了一把钥匙"
+    }
+
+    "**The gates will open in 20 seconds**"
+    {
+        "chi" "闸门将在20秒内打开"
+    }
+
+    "**The gates will open in 30 seconds**"
+    {
+        "chi" "闸门将在30秒内打开"
+    }
+
+    "<<< ADMIN RESTARTING TO RTV LEVEL  >>>"
+    {
+        "chi" "管理员选择了RTV关"
+    }
+
+    "<<< BOSS USE FIREBALL ! DONT STAY IN THE MIDDLE ! >>>"
+    {
+        "chi" "BOSS使用了火球 ! 不要站在中间 !"
+    }
+
+    "<<< BOSS USE GRAVITY ! GO BACK ! >>>"
+    {
+        "chi" "BOSS使用了吸力 ! 后退抵抗 !"
+    }
+
+    "<<< BOSS USE SHIELD ! DONT SHOOT ! >>>"
+    {
+        "chi" "BOSS使用了盾牌 ! 反伤停枪 !"
+    }
+
+    "<<< BOSS USE SMASH ! JUMP ! >>>"
+    {
+        "chi" "BOSS使用了粉碎 ! 跳或回到平台 !"
+    }
+
+    "<<< BOSS USE WIND ! GO FORWARD ! >>>"
+    {
+        "chi" "BOSS使用了狂风 ! 前进抵抗 !"
+    }
+
+    "<<< BREAK CRYSTAL TO OPEN THE DOOR >>>"
+    {
+        "chi" "打破水晶才能开门"
+    }
+
+    "<<< SURVIVE !!! >>>"
+    {
+        "chi" "存活下去 !!!"
+    }
+
+    "<<< YOU MUST KILL ALL ZOMBIES TO WIN ! >>>"
+    {
+        "chi" "你必须杀死所有僵尸才能获胜 !"
+    }
+
+    "<<< YOU WIN LEVEL *1* >>>"
+    {
+        "chi" "您赢得关卡*一*"
+    }
+
+    "<<< YOU WIN LEVEL *2* >>>"
+    {
+        "chi" "你赢了关卡*二*"
+    }
+
+    "<<< YOU WIN LEVEL *3* >>>"
+    {
+        "chi" "你赢了关卡*三*"
+    }
+
+    "<<Level>><<1>>"
+    {
+        "chi" "<< 关卡 >><< 一 >>"
+    }
+
+    "<<Level>><<2>>"
+    {
+        "chi" "<< 关卡 >><< 二 >>"
+    }
+
+    "<<Level>><<3>>"
+    {
+        "chi" "<< 关卡 >><< 三 >>"
+    }
+
+    "<<WARM UP - 10 SEK>>"
+    {
+        "chi" "<<预热 - 10 秒>>"
+    }
+
+    "<<WARM UP - 20 SEK>>"
+    {
+        "chi" "<<预热 - 20 秒>>"
+    }
+
+    "<<WARM UP - 30 SEK>>"
+    {
+        "chi" "<<预热 - 30 秒>>"
+    }
+
+    "<<WARM UP - 40 SEK>>"
+    {
+        "chi" "<<预热 - 40 秒>>"
+    }
+
+    "<<WARM UP - 50 SEK>>"
+    {
+        "chi" "<<预热 - 50 秒>>"
+    }
+
+    "<<WARM UP - 60 SEK>>"
+    {
+        "chi" "<<预热 - 60 秒>>"
+    }
+
+    "<<WARM UP>>"
+    {
+        "chi" "<<预热>>"
+    }
+
+    ">> ADMIN RESTARTING TO LEVEL 1 <<"
+    {
+        "chi" "管理员选择 关卡 一"
+    }
+
+    ">> ADMIN RESTARTING TO LEVEL 2 <<"
+    {
+        "chi" "管理员选择 关卡 二"
+    }
+
+    ">> ADMIN RESTARTING TO LEVEL 3 <<"
+    {
+        "chi" "管理员选择 关卡 三"
+    }
+
+    ">>> PLAYER HAS PICKED UP ELECTRO <<<"
+    {
+        "chi" "一位玩家已拾取电"
+    }
+
+    ">>> PLAYER HAS PICKED UP FIRE <<<"
+    {
+        "chi" "一名玩家拾取了火"
+    }
+
+    ">>> PLAYER HAS PICKED UP HEAL <<<"
+    {
+        "chi" "一位玩家已拾取治疗"
+    }
+
+    ">>> PLAYER HAS PICKED UP ICE <<<"
+    {
+        "chi" "一位玩家拾取了冰"
+    }
+
+    ">>> PLAYER HAS PICKED UP WALL <<<"
+    {
+        "chi" "一位玩家捡起了墙"
+    }
+
+    ">>> PLAYER HAS PICKED UP WATER <<<"
+    {
+        "chi" "一位玩家已拾取水"
+    }
+
+    ">>> PLAYER USED ELECTRO <<<"
+    {
+        "chi" "玩家使用了电"
+    }
+
+    ">>> PLAYER USED FIRE <<<"
+    {
+        "chi" "玩家使用了火"
+    }
+
+    ">>> PLAYER USED HEAL <<<"
+    {
+        "chi" "治疗拯救我的队友, 求怕累!"
+    }
+
+    ">>> PLAYER USED ICE <<<"
+    {
+        "chi" "玩家使用了冰"
+    }
+
+    ">>> PLAYER USED WALL <<<"
+    {
+        "chi" "大地保护我的队友 墙来!"
+    }
+
+    ">>> PLAYER USED WATER <<<"
+    {
+        "chi" "玩家使用了水"
+    }
+
+    ">>> ZOMBIE HAS PICKED UP GRAVITY  <<<"
+    {
+        "chi" "僵尸拿到了引力"
+    }
+
+    ">>> ZOMBIE USED GRAVITY <<<"
+    {
+        "chi" "僵尸使用了鲨马琪"
+    }
+
+}

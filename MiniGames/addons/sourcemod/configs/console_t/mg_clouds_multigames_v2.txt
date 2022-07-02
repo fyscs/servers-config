@@ -1,13 +1,51 @@
 "Console_T"
 {
-    // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-    "C4 Activated"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
+
+
+    "*** Bank has been chosen ***"
     {
-        "chi" "C4 已启用"
+        "chi" "地图: 银行"
+    }
+
+    "*** Blinddoge has been chosen ***"
+    {
+        "chi" "地图: doge盲射"
+    }
+
+    "*** Breakcastle has been chosen ***"
+    {
+        "chi" "地图: doge城堡"
+    }
+
+    "*** Bunker has been chosen ***"
+    {
+        "chi" "地图: 地堡"
+    }
+
+    "*** Centre of maze has been reached ***"
+    {
+        "chi" "有人已经抵达了迷宫正中心!"
+    }
+
+    "*** Island has been chosen ***"
+    {
+        "chi" "地图: 岛"
+    }
+
+    "*** Maze has been chosen ***"
+    {
+        "chi" "地图: 迷宫"
     }
 
     "*** Maze wall will break in 45 seconds ***"
@@ -15,9 +53,19 @@
         "chi" "迷宫的墙将会在45秒钟后消失"
     }
 
-    "*** Centre of maze has been reached ***"
+    "*** Spawn has been chosen ***"
     {
-        "chi" "有人已经抵达了迷宫正中心!"
+        "chi" "地图: 出生点"
+    }
+
+    "C4 Activated"
+    {
+        "chi" "C4 已激活"
+    }
+
+    "Map made by Cloud for Extreme Network"
+    {
+        "blocked" "1"
     }
 
 }

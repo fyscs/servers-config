@@ -1,0 +1,32 @@
+"Phrases"
+{
+	"!menu"
+	{
+		"en"		"{grey}Type {default}!menu {grey}to open or close your teleport menu."
+		"chi"		"{grey}聊天框中输入 {default}!menu {grey}打开简易存点菜单."
+		"ru"		"{grey}Напишите {default}!menu {grey}для открытия/закрытия меню телепортации."
+	}
+	"!adv"
+	{
+		"en"		"{grey}Use {default}!adv {grey}to bring up the advanced teleport menu."
+		"chi"		"{grey}聊天框中输入 {default}!adv {grey}打开高级存点菜单."
+		"ru"		"{grey}Используйте {default}!adv {grey}для открытия расширенного меню телепортации."
+	}
+	"!panel"
+	{
+		"en"		"{grey}You can toggle your centre panel by typing {default}!panel{grey}."
+		"chi"		"{grey}聊天框中输入{default}!panel{grey}以开启/关闭中央面板."
+		"ru"		"{grey}Вы можете сменить центральную панель, набрав {default}!panel{grey}."
+	}
+	"Binding Teleport Commands"
+	{
+		"en"		"{grey}You can bind keys to {default}sm_checkpoint{grey}, {default}sm_gocheck{grey}, {default}sm_start{grey}, and more instead of using the teleport menu."
+		"chi"		"{grey}可在控制台绑定{default}sm_checkpoint{grey}, {default}sm_gocheck{grey}, {default}sm_start{grey}等按键快捷存点."
+		"ru"		"{grey}Вы можете забиндить {default}sm_checkpoint{grey}, {default}sm_gocheck{grey}, {default}sm_start{grey} и использовать меню телепортации другими клавишами."
+	}
+	"cl_draw_only_deathnotices"
+	{
+		"en"		"{grey}Enter {default}cl_draw_only_deathnotices 1 {grey}in console to hide CS:GO's HUD."
+		"ru"		"{grey}Напишите {default}cl_draw_only_deathnotices 1 {grey}в консоль, чтобы скрыть HUD CS:GO."
+	}
+}

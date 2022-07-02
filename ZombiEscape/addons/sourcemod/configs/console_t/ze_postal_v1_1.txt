@@ -1,118 +1,20 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "***Zombie tp in 10 seconds***"
-    {
-        "chi" "**僵尸10秒后传送 **"
-    }
 
-    "***FAILED***"
+    "***A Player has picked up Heal***"
     {
-        "chi" "**你失败了 **"
-    }
-
-    "***The Lab door will open in 12 seconds***"
-    {
-        "chi" "**实验室大门将于12秒后开放 **"
-    }
-
-    "***Zombie tp in 15 seconds***"
-    {
-        "chi" "**僵尸15秒后传送 **"
-    }
-
-    "***Gate will open in 15 seconds***"
-    {
-        "chi" "**闸门15秒后打开 **"
-    }
-
-    "***HOLD***"
-    {
-        "chi" "**坚守住 **"
-    }
-
-    "***Something is about to happen***"
-    {
-        "chi" "**转机即将到来 **"
-    }
-
-    "***Thank you for playing***"
-    {
-        "chi" "**感蟹你的游玩 **"
-    }
-
-    "***DEFEND 30 SECONDS***"
-    {
-        "chi" "**坚守30秒 **"
-    }
-
-    "***WTF, WHY I CAN'T GET INSIDE?***"
-    {
-        "chi" "**nmb为什么我进不去 **"
-    }
-
-    "***MAPPER, YOU ARE FUCKIN' RETARD!!!***"
-    {
-        "chi" "**一定是猪b mapper的问题 **"
-    }
-
-    "***I think I should try to find some doctors around.***"
-    {
-        "chi" "**我觉得我们应该找找附近医生的麻烦 **"
-    }
-
-    "***Why is the entire hospital so empty?***"
-    {
-        "chi" "**为什么工作日医院每一个人 **"
-    }
-
-    "***Damn, what kind of cats were they?***"
-    {
-        "chi" "**wc 你跟我说这是猫? **"
-    }
-
-    "***We gotta get out of here fast.***"
-    {
-        "chi" "**这地方有些怪异 我们得先离开这 **"
-    }
-
-    "***I had just seen the way out of here before.***"
-    {
-        "chi" "**我应该知道如何离开这 **"
-    }
-
-    "***Door will open in 10 seconds.***"
-    {
-        "chi" "**大门10秒后打开 **"
-    }
-
-    "***WHY THE FUCK IS THE CEILING SO LOW? MAPPER, YOU ARE FUCKING MORON!***"
-    {
-        "chi" "**tmd天花板这么低 猪b mapper **"
-    }
-
-    "***Fuck, these cats are everywhere.***"
-    {
-        "chi" "**wc 这些猫到处都是 **"
-    }
-
-    "***The exit is closed. I guess I have to go through the window.***"
-    {
-        "chi" "**门锁住了 试试窗户 **"
-    }
-
-    "***The door seems pretty strange. Maybe I need to shoot at it.***"
-    {
-        "chi" "**这个门看起来很<牢固>想想办法 **"
-    }
-
-    "***Welcome everyone. this is my first map (don't be harsh please)***"
-    {
-        "chi" "**欢迎各位游玩 这是我的第一张地图(多多见谅) **"
+        "chi" "**一位玩家拾取烟斗(治愈) **"
+        "blocked"    "1"
     }
 
     "***Anyway I need to get out of here.***"
@@ -120,49 +22,24 @@
         "chi" "**我觉得先run再说 **"
     }
 
-    "***What the fuck happened? How did I even get here?***"
+    "***Damn, what kind of cats were they?***"
     {
-        "chi" "**发生了什么?我tm怎么来这儿的? **"
+        "chi" "**wc 你跟我说这是猫? **"
     }
 
-    "***If you find any bugs or whatsoever that makes this map unplayable, do not hesitate to contact me.***"
+    "***DEFEND 30 SECONDS***"
     {
-        "chi" "**如果你发现bug请及时向mapper反馈 **"
+        "chi" "**坚守30秒 **"
     }
 
-    "***You can find my info on the left side at spawn.***"
+    "***Door will open in 10 seconds.***"
     {
-        "chi" "**出生点左边有我的联系方式 **"
+        "chi" "**大门10秒后打开 **"
     }
 
-    "***Special thanks to Kotya for helping me with the most parts.***"
+    "***Doors close in 10 seconds.***"
     {
-        "chi" "**特别感蟹Kotya的一些帮助 **"
-    }
-
-    "***Thanks to Champagne, NiceShot and memories for helping me***"
-    {
-        "chi" "**感蟹Champagne NiceShot memories的帮助 **"
-    }
-
-    "***What the fuck is that thing behind the glass?***"
-    {
-        "chi" "**wctmd玻璃后面是什么 **"
-    }
-
-    "***Sewer door will open in 18 seconds***"
-    {
-        "chi" "**下水道门18秒后打开 **"
-    }
-
-    "***A Player has picked up Heal***"
-    {
-        "chi" "**一位玩家拾取烟斗(治愈) **"
-    }
-
-    ">>> Player has picked up Explosive Barrel  <<<"
-    {
-        "chi" "**一位玩家拾取爆炸牛头人 **"
+        "chi" "**大门10秒后关闭 **"
     }
 
     "***Doors open in 13 seconds.***"
@@ -175,31 +52,6 @@
         "chi" "**大门15秒后打开 **"
     }
 
-    "dasdasdsa"
-    {
-        "chi" "**dasdasdsa **"
-    }
-
-    "***The laboratory doors open in 35 seconds.***"
-    {
-        "chi" "**实验室大门将于35秒后开放 **"
-    }
-
-    "***The entrance to the lab's hallway opens in 15 seconds.***"
-    {
-        "chi" "**实验室走廊将于15秒后开放 **"
-    }
-
-    "***Doors close in 10 seconds.***"
-    {
-        "chi" "**大门10秒后关闭 **"
-    }
-
-    "***What is that strange noise in the vents?***"
-    {
-        "chi" "**通风管道里的奇怪声音是什么?老鼠? **"
-    }
-
     "***Elevator comes in 30 seconds.***"
     {
         "chi" "**电梯30秒后抵达 **"
@@ -208,6 +60,162 @@
     "***Elevator doors close in 10 seconds.***"
     {
         "chi" "**电梯门10秒后关闭 **"
+    }
+
+    "***FAILED***"
+    {
+        "chi" "**你失败了 **"
+    }
+
+    "***Fuck, these cats are everywhere.***"
+    {
+        "chi" "**wc 这些猫到处都是 **"
+    }
+
+    "***Gate will open in 15 seconds***"
+    {
+        "chi" "**闸门15秒后打开 **"
+    }
+
+    "***HOLD***"
+    {
+        "chi" "**坚守住 **"
+    }
+
+    "***I had just seen the way out of here before.***"
+    {
+        "chi" "**我应该知道如何离开这 **"
+    }
+
+    "***I think I should try to find some doctors around.***"
+    {
+        "chi" "**我觉得我们应该找找附近医生的麻烦 **"
+    }
+
+    "***If you find any bugs or whatsoever that makes this map unplayable, do not hesitate to contact me.***"
+    {
+        "chi" "**如果你发现bug请及时向mapper反馈 **"
+    }
+
+    "***MAPPER, YOU ARE FUCKIN' RETARD!!!***"
+    {
+        "chi" "**一定是猪b mapper的问题 **"
+    }
+
+    "***Sewer door will open in 18 seconds***"
+    {
+        "chi" "**下水道门18秒后打开 **"
+    }
+
+    "***Something is about to happen***"
+    {
+        "chi" "**转机即将到来 **"
+    }
+
+    "***Special thanks to Kotya for helping me with the most parts.***"
+    {
+        "chi" "**特别感蟹Kotya的一些帮助 **"
+    }
+
+    "***Thank you for playing***"
+    {
+        "chi" "**感蟹你的游玩 **"
+    }
+
+    "***Thanks to Champagne, NiceShot and memories for helping me***"
+    {
+        "chi" "**感蟹Champagne NiceShot memories的帮助 **"
+    }
+
+    "***The door seems pretty strange. Maybe I need to shoot at it.***"
+    {
+        "chi" "**这个门看起来很<牢固>想想办法 **"
+    }
+
+    "***The entrance to the lab's hallway opens in 15 seconds.***"
+    {
+        "chi" "**实验室走廊将于15秒后开放 **"
+    }
+
+    "***The exit is closed. I guess I have to go through the window.***"
+    {
+        "chi" "**门锁住了 试试窗户 **"
+    }
+
+    "***The Lab door will open in 12 seconds***"
+    {
+        "chi" "**实验室大门将于12秒后开放 **"
+    }
+
+    "***The laboratory doors open in 35 seconds.***"
+    {
+        "chi" "**实验室大门将于35秒后开放 **"
+    }
+
+    "***We gotta get out of here fast.***"
+    {
+        "chi" "**这地方有些怪异 我们得先离开这 **"
+    }
+
+    "***Welcome everyone. this is my first map (don't be harsh please)***"
+    {
+        "chi" "**欢迎各位游玩 这是我的第一张地图(多多见谅) **"
+    }
+
+    "***What is that strange noise in the vents?***"
+    {
+        "chi" "**通风管道里的奇怪声音是什么?老鼠? **"
+    }
+
+    "***What the fuck happened? How did I even get here?***"
+    {
+        "chi" "**发生了什么?我tm怎么来这儿的? **"
+    }
+
+    "***What the fuck is that thing behind the glass?***"
+    {
+        "chi" "**wctmd玻璃后面是什么 **"
+    }
+
+    "***Why is the entire hospital so empty?***"
+    {
+        "chi" "**为什么工作日医院每一个人 **"
+    }
+
+    "***WHY THE FUCK IS THE CEILING SO LOW? MAPPER, YOU ARE FUCKING MORON!***"
+    {
+        "chi" "**tmd天花板这么低 猪b mapper **"
+    }
+
+    "***WTF, WHY I CAN'T GET INSIDE?***"
+    {
+        "chi" "**nmb为什么我进不去 **"
+    }
+
+    "***You can find my info on the left side at spawn.***"
+    {
+        "chi" "**出生点左边有我的联系方式 **"
+    }
+
+    "***Zombie tp in 10 seconds***"
+    {
+        "chi" "**僵尸10秒后传送 **"
+    }
+
+    "***Zombie tp in 15 seconds***"
+    {
+        "chi" "**僵尸15秒后传送 **"
+    }
+
+    ">>> Player has picked up Explosive Barrel  <<<"
+    {
+        "chi" "**一位玩家拾取爆炸牛头人 **"
+        "blocked"    "1"
+    }
+
+    "dasdasdsa"
+    {
+        "chi" "**dasdasdsa **"
     }
 
 }

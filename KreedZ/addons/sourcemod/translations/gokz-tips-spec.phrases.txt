@@ -1,0 +1,15 @@
+"Phrases"
+{
+	"!spec"
+	{
+		"en"		"{grey}Type {default}!spec <player>{grey} to start watching a fellow player, and {default}!resume {grey}to get back to where you left off."
+		"chi"		"{grey}聊天框中输入{default}!spec <玩家昵称>{grey}观察其他玩家视角;再次输入{default}!resume {grey}来返回你观察前的位置."
+		"ru"		"{grey}Напишите {default}!spec <игрок>{grey},чтобы начать наблюдать за другим игроком и {default}!resume{grey}, чтобы перестать за ним наблюдать."
+	}
+	"!specs"
+	{
+		"en"		"{grey}Check who's snooping around by typing {default}!specs{grey}."
+		"chi"		"{grey}聊天框中输入{default}!specs{grey}查看有哪些玩家在暗中观察."
+		"ru"		"{grey}Проверьте кто следит за вами командой {default}!specs{grey}."
+	}
+}

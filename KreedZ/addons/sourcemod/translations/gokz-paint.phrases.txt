@@ -1,0 +1,85 @@
+"Phrases"
+{
+	//=====[ MENU ]=====
+	"Options Menu - Paint"
+	{
+		"en"		"Paint"
+		"ru"		"Краска"
+	}
+	"Options Menu - Paint Color"
+	{
+		"en"		"Color"
+		"ru"		"Цвет"
+	}
+	"Options Menu - Paint Size"
+	{
+		"en"		"Size"
+		"ru"		"Размер"
+	}
+	"Paint Color Menu - Title"
+	{
+		"en"		"Paint Color"
+		"ru"		"Цвет краски"
+	}
+
+
+	//=====[ COLORS ]=====
+	"Options Menu - Red"
+	{
+		"en"		"Red"
+		"ru"		"Красный"
+	}
+	"Options Menu - White"
+	{
+		"en"		"White"
+		"ru"		"Белый"
+	}
+	"Options Menu - Black"
+	{
+		"en"		"Black"
+		"ru"		"Черный"
+	}
+	"Options Menu - Blue"
+	{
+		"en"		"Blue"
+		"ru"		"Голубой"
+	}
+	"Options Menu - Brown"
+	{
+		"en"		"Brown"
+		"ru"		"Коричневый"
+	}
+	"Options Menu - Green"
+	{
+		"en"		"Green"
+		"ru"		"Зелёный"
+	}
+	"Options Menu - Yellow"
+	{
+		"en"		"Yellow"
+		"ru"		"Жёлтый"
+	}
+	"Options Menu - Purple"
+	{
+		"en"		"Purple"
+		"ru"		"Фиолетовый"
+	}
+
+
+	//=====[ SIZES ]=====
+	"Options Menu - Small"
+	{
+		"en"		"Small"
+		"ru"		"Маленький"
+	}
+	"Options Menu - Medium"
+	{
+		"en"		"Medium"
+		"ru"		"Средний"
+	}
+	"Options Menu - Big"
+	{
+		"en"		"Big"
+		"ru"		"Большой"
+	}
+}

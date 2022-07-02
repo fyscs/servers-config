@@ -1,24 +1,29 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
 
     "***Door Breaks in 30secs.***"
     {
-        "chi" "** **"
-    }
-
-    "***Door Open in 34secs.***"
-    {
-        "chi" "** **"
-    }
-
-    "***Door Breaks in 30secs.***"
-    {
-        "chi" "** **"
+        "chi" "门将在30秒断开"
     }
 
     "***Door Open in 30secs.***"
     {
-        "chi" "** **"
+        "chi" "门将在30秒开启"
+    }
+
+    "***Door Open in 34secs.***"
+    {
+        "chi" "门将在34秒开启"
     }
 
 }

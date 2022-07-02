@@ -1,73 +1,93 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
 
-    "@[Map] CT WIN"
+
+    "@[Map]  AFK TIMER in 30 sec"
     {
-        "chi" "CT 胜利"
+        "chi" "30秒钟后自动选图"
+        "blocked" "1"
     }
 
-    "@[Map] T WIN"
+    "@[Map] 1"
     {
-        "chi" "T 胜利"
+        "chi" "1"
+        "blocked" "1"
     }
 
-    "@[Time] TimeLimit"
+    "@[Map] 1 MINUTES REMAINING"
     {
-        "chi" "时间到"
+        "chi" "剩余时间60秒"
     }
 
-    "@[Map] Holes"
+    "@[Map] 2"
     {
-        "chi" "手雷高尔夫"
+        "chi" "2"
+        "blocked" "1"
     }
 
-    "@[Music] Arman Cekin - Hold On Ft. BR-VE "
+    "@[Map] 2 MINUTES REMAINING"
     {
-        "chi" "BGM: Arman Cekin - Hold On Ft. BR-VE"
+        "chi" "剩余时间两分钟"
     }
 
-    "@[Music] Calvin Harris ft. Ellie Goulding - Outside (Anevo Remix)"
+    "@[Map] 3"
     {
-        "chi" "BGM: Calvin Harris ft. Ellie Goulding - Outside (Anevo Remix)"
+        "chi" "3"
+        "blocked" "1"
     }
 
-    "@[Music] Dope Arcade - Ascension (MitiS Remix)"
+    "@[Map] 3 MINUTES REMAINING"
     {
-        "chi" "BGM: Dope Arcade - Ascension (MitiS Remix)"
+        "chi" "剩余时间三分钟"
     }
 
-    "@[Music] Sander van Doorn, Martin Garrix, DVBBS ft. Aleesia - Gold Skies (Justin Caruso Remix)"
+    "@[Map] 30 Seconds"
     {
-        "chi" "BGM: Sander van Doorn, Martin Garrix, DVBBS ft. Aleesia - Gold Skies (Justin Caruso Remix)"
+        "chi" "三十秒"
     }
 
-    "@[Music] Imagine Dragons - On Top of the World - Lyrics"
+    "@[Map] 4"
     {
-        "chi" "BGM: Imagine Dragons - On Top of the World - Lyrics"
+        "chi" "4"
+        "blocked" "1"
     }
 
-    "@[Music] Krewella - Come And Get It (Razihel Remix) "
+    "@[Map] 5"
     {
-        "chi" "BGM: Krewella - Come And Get It (Razihel Remix)"
+        "chi" "5"
     }
 
-    "@[Music] Matisyahu - Live Like A Warrior (Richello Remix)"
+    "@[Map] 60 seconds before the battle"
     {
-        "chi" "BGM: Matisyahu - Live Like A Warrior (Richello Remix)"
+        "chi" "60秒钟后开战"
     }
 
-    "@[Mod] Normal nod"
+    "@[Map] AFK KILLER"
     {
-        "chi" "正常模式"
+        "chi" "已处死挂机玩家"
     }
 
-    "@[Mod] BackStab mod"
+    "@[Map] AFK TIMER activated"
     {
-        "chi" "背刺模式"
+        "chi" "挂机计时已启动"
+        "blocked" "1"
+    }
+
+    "@[Map] AFK TIMER in 10 sec"
+    {
+        "chi" "10秒钟后自动选图"
+        "blocked" "1"
     }
 
     "@[Map] Aim"
@@ -75,34 +95,79 @@
         "chi" "对枪"
     }
 
-    "@[Map] TimeLimit"
+    "@[Map] Arena fight"
     {
-        "chi" "时间到"
+        "chi" "竞技场"
     }
 
-    "@[Map] Winners Get 10 Points"
+    "@[Map] Battle"
     {
-        "chi" "胜者将得到十分"
+        "chi" "开战!"
     }
 
-    "@[Map] Refire Time - 3 seconds"
+    "@[Map] BhopBattle"
     {
-        "chi" "方块坠落间隔 三秒"
+        "chi" "连跳对战"
     }
 
-    "@[Map] Refire Time - 2 seconds"
+    "@[Map] Climb"
     {
-        "chi" "方块坠落间隔 两秒"
+        "chi" "攀登"
     }
 
-    "@[Map] Refire Time -  1 second"
+    "@[Map] CT give weapons"
     {
-        "chi" "方块坠落间隔 一秒"
+        "chi" "已为CT发放武器"
     }
 
-    "@[Map] Refire Time -  0.5 seconds"
+    "@[Map] CT WIN"
     {
-        "chi" "方块坠落间隔 零点五秒"
+        "chi" "CT 胜利"
+    }
+
+    "@[Map] Falling Boxes"
+    {
+        "chi" "天坠"
+    }
+
+    "@[Map] Football"
+    {
+        "chi" "足球"
+    }
+
+    "@[MAP] GOAL!!!!"
+    {
+        "chi" "球进啦!!!"
+    }
+
+    "@[Map] Grenades"
+    {
+        "chi" "手雷"
+    }
+
+    "@[Map] Holes"
+    {
+        "chi" "手雷高尔夫"
+    }
+
+    "@[Map] Map by Blogger(Dog)"
+    {
+        "chi" "地图作者: Blogger(Dog) 地图汉化: 圣剑@风云社"
+    }
+
+    "@[Map] Pistols"
+    {
+        "chi" "手枪"
+    }
+
+    "@[Map] Player selected"
+    {
+        "chi" "已选择选图者"
+    }
+
+    "@[Map] RANDOM GAME WILL BE CHOSEN"
+    {
+        "chi" "地图自动选图中"
     }
 
     "@[Map] Random Timer Disabled"
@@ -115,39 +180,9 @@
         "chi" "随机计时器已启用"
     }
 
-    "@[Map] Refire Time -  0.3 seconds"
+    "@[Map] Random Weapon"
     {
-        "chi" "方块坠落间隔 零点三秒"
-    }
-
-    "@[Map] Falling Boxes"
-    {
-        "chi" "天坠"
-    }
-
-    "@[Map] 30 Seconds"
-    {
-        "chi" "三十秒"
-    }
-
-    "@[Map] 3 MINUTES REMAINING"
-    {
-        "chi" "剩余时间三分钟"
-    }
-
-    "@[Map] 2 MINUTES REMAINING"
-    {
-        "chi" "剩余时间两分钟"
-    }
-
-    "@[Map] 1 MINUTES REMAINING"
-    {
-        "chi" "剩余时间60秒"
-    }
-
-    "@[Map] Climb"
-    {
-        "chi" "攀登"
+        "chi" "随机武器"
     }
 
     "@[Map] Randomly selection"
@@ -155,19 +190,59 @@
         "chi" "随机选择小游戏"
     }
 
-    "@[Map] Grenades"
+    "@[Map] Refire Time -  0.3 seconds"
     {
-        "chi" "手雷"
+        "chi" "方块坠落间隔 零点三秒"
     }
 
-    "@[Map] Arena fight"
+    "@[Map] Refire Time -  0.5 seconds"
     {
-        "chi" "竞技场"
+        "chi" "方块坠落间隔 零点五秒"
     }
 
-    "@[Map] Random Weapon"
+    "@[Map] Refire Time -  1 second"
     {
-        "chi" "随机武器"
+        "chi" "方块坠落间隔 一秒"
+    }
+
+    "@[Map] Refire Time - 2 seconds"
+    {
+        "chi" "方块坠落间隔 两秒"
+    }
+
+    "@[Map] Refire Time - 3 seconds"
+    {
+        "chi" "方块坠落间隔 三秒"
+    }
+
+    "@[Map] Skate"
+    {
+        "chi" "溜冰"
+    }
+
+    "@[Map] Surf Battle"
+    {
+        "chi" "滑翔对战"
+    }
+
+    "@[Map] T give weapons"
+    {
+        "chi" "已为T发放武器"
+    }
+
+    "@[Map] T WIN"
+    {
+        "chi" "T 胜利"
+    }
+
+    "@[Map] TimeLimit"
+    {
+        "chi" "时间到"
+    }
+
+    "@[Map] Weapon AK-47"
+    {
+        "chi" "武器 AK47"
     }
 
     "@[Map] Weapon Awp"
@@ -185,62 +260,14 @@
         "chi" "武器 鸟狙"
     }
 
-    "@[Map] Weapon AK-47"
+    "@[Map] Winners Get 10 Points"
     {
-        "chi" "武器 AK47"
+        "chi" "胜者将得到十分"
     }
 
-    "@[MAP] GOAL!!!!"
+    "@[Mod] BackStab mod"
     {
-        "chi" "球进啦!!!"
-    }
-
-    "@[Map] T give weapons"
-    {
-        "chi" "已为T发放武器"
-    }
-
-    "@[Map] CT give weapons"
-    {
-        "chi" "已为CT发放武器"
-    }
-
-    "@[Map] Football"
-    {
-        "chi" "足球"
-    }
-
-    "@[Map]  AFK TIMER in 30 sec"
-    {
-        "blocked" "1"
-        "chi" "30秒钟后自动选图"
-    }
-
-    "@[Map] AFK TIMER activated"
-    {
-        "blocked" "1"
-        "chi" "挂机计时已启动"
-    }
-
-    "@[Map] RANDOM GAME WILL BE CHOSEN"
-    {
-        "chi" "地图自动选图中"
-    }
-
-    "@[Map] AFK TIMER in 10 sec"
-    {
-        "blocked" "1"
-        "chi" "10秒钟后自动选图"
-    }
-
-    "@[Map] Skate"
-    {
-        "chi" "滑冰"
-    }
-
-    "@[Map] Pistols"
-    {
-        "chi" "手枪"
+        "chi" "背刺模式"
     }
 
     "@[Mod] Headshot mod"
@@ -248,68 +275,49 @@
         "chi" "爆头模式开启"
     }
 
-    "@[Map] BhopBattle"
+    "@[Mod] Normal nod"
     {
-        "chi" "连跳对战"
+        "chi" "正常模式"
     }
 
-    "@[Map] Surf Battle"
+    "@[Music] Arman Cekin - Hold On Ft. BR-VE"
     {
-        "chi" "滑翔对战"
+        "chi" "BGM: Arman Cekin - Hold On Ft. BR-VE"
     }
 
-    "@[Map] Player selected"
+    "@[Music] Calvin Harris ft. Ellie Goulding - Outside (Anevo Remix)"
     {
-        "chi" "已选择选图者"
+        "chi" "BGM: Calvin Harris ft. Ellie Goulding - Outside (Anevo Remix)"
     }
 
-    "@[Map] 60 seconds before the battle"
+    "@[Music] Dope Arcade - Ascension (MitiS Remix)"
     {
-        "chi" "60秒钟后开战"
+        "chi" "BGM: Dope Arcade - Ascension (MitiS Remix)"
     }
 
-    "@[Map] 5"
+    "@[Music] Imagine Dragons - On Top of the World - Lyrics"
     {
-        "chi" "5"
+        "chi" "BGM: Imagine Dragons - On Top of the World - Lyrics"
     }
 
-    "@[Map] 1"
+    "@[Music] Krewella - Come And Get It (Razihel Remix)"
     {
-        "blocked" "1"
-        "chi" "1"
+        "chi" "BGM: Krewella - Come And Get It (Razihel Remix)"
     }
 
-    "@[Map] 2"
+    "@[Music] Matisyahu - Live Like A Warrior (Richello Remix)"
     {
-        "blocked" "1"
-        "chi" "2"
+        "chi" "BGM: Matisyahu - Live Like A Warrior (Richello Remix)"
     }
 
-    "@[Map] 3"
+    "@[Music] Sander van Doorn, Martin Garrix, DVBBS ft. Aleesia - Gold Skies (Justin Caruso Remix)"
     {
-        "blocked" "1"
-        "chi" "3"
+        "chi" "BGM: Sander van Doorn, Martin Garrix, DVBBS ft. Aleesia - Gold Skies (Justin Caruso Remix)"
     }
 
-    "@[Map] 4"
+    "@[Time] TimeLimit"
     {
-        "blocked" "1"
-        "chi" "4"
-    }
-
-    "@[Map] Battle"
-    {
-        "chi" "开战!"
-    }
-
-    "@[Map] AFK KILLER"
-    {
-        "chi" "已处死挂机玩家"
-    }
-
-    "@[Map] Map by Blogger(Dog)"
-    {
-        "chi" "地图作者: Blogger(Dog) 地图汉化: 圣剑@风云社"
+        "chi" "时间到"
     }
 
 }

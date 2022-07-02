@@ -1,68 +1,26 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
+
 
     "@[MAP]  Map made by Reapr"
     {
         "chi" "地图作者: Reapr 地图汉化: 圣剑@风云社"
     }
 
-    "@[Map] MOVING PLATFORM"
+    "@[Map] 65HP KNIFE ARENA"
     {
-        "chi" "移动平台"
-    }
-
-    "@[Map] T WINS"
-    {
-        "chi" "T 胜利"
-    }
-
-    "@[Map] CT WINS"
-    {
-        "chi" "CT 胜利"
-    }
-
-    "@[Map] MAZE M249"
-    {
-        "chi" "迷宫"
-    }
-
-    "@[Map] FOOTBALL"
-    {
-        "chi" "足球"
-    }
-
-    "@[Map] SKATE"
-    {
-        "chi" "滑冰"
-    }
-
-    "@[Map] GRAVITY SCOUT"
-    {
-        "chi" "低重力鸟狙"
-    }
-
-    "@[MAP] STRAFE"
-    {
-        "chi" "见缝插针"
-    }
-
-    "@[Map] MAZE NOVA"
-    {
-        "chi" "迷宫 喷子"
-    }
-
-    "@[Map] BHOP"
-    {
-        "chi" "连跳"
-    }
-
-    "@[Map] LONGJUMP"
-    {
-        "chi" "长跳"
+        "chi" "六十五血刀战(擂台赛)"
     }
 
     "@[Map] AWP"
@@ -70,14 +28,24 @@
         "chi" "AWP"
     }
 
-    "@[Map] SCOUT"
+    "@[Map] BHOP"
     {
-        "chi" "鸟狙"
+        "chi" "连跳"
     }
 
-    "@[Map] SKIPPING ROPE"
+    "@[Map] CT WINS"
     {
-        "chi" "跳绳"
+        "chi" "CT 胜利"
+    }
+
+    "@[Map] FOOTBALL"
+    {
+        "chi" "足球"
+    }
+
+    "@[Map] GRAVITY SCOUT"
+    {
+        "chi" "低重力鸟狙"
     }
 
     "@[Map] KNIFE"
@@ -90,9 +58,49 @@
         "chi" "刀战(擂台赛)"
     }
 
-    "@[Map] 65HP KNIFE ARENA"
+    "@[Map] LONGJUMP"
     {
-        "chi" "六十五血刀战(擂台赛)"
+        "chi" "长跳"
+    }
+
+    "@[Map] MAZE M249"
+    {
+        "chi" "迷宫"
+    }
+
+    "@[Map] MAZE NOVA"
+    {
+        "chi" "迷宫 喷子"
+    }
+
+    "@[Map] MOVING PLATFORM"
+    {
+        "chi" "移动平台"
+    }
+
+    "@[Map] SCOUT"
+    {
+        "chi" "鸟狙"
+    }
+
+    "@[Map] SKATE"
+    {
+        "chi" "滑冰"
+    }
+
+    "@[Map] SKIPPING ROPE"
+    {
+        "chi" "跳绳"
+    }
+
+    "@[MAP] STRAFE"
+    {
+        "chi" "见缝插针"
+    }
+
+    "@[Map] T WINS"
+    {
+        "chi" "T 胜利"
     }
 
 }

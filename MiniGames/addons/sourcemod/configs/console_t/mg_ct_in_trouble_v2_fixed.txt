@@ -1,0 +1,56 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
+
+
+    "***** CTs must guard the four cases for 3 mins *****"
+    {
+        "chi" "CT必须要在3分钟内守住这4个箱子"
+    }
+
+    "***** EasY MoD *****"
+    {
+        "chi" "简单模式"
+    }
+
+    "***** Free MoD *****"
+    {
+        "chi" "自由模式"
+    }
+
+    "***** HaRD MoD *****"
+    {
+        "chi" "困难模式"
+    }
+
+    "***** IMPossiBLe MoD *****"
+    {
+        "chi" "根本赢不了模式"
+    }
+
+    "***** Map By PORSCHE.AE *****"
+    {
+        "blocked" "1"
+    }
+
+    "***** NoRMAL MoD *****"
+    {
+        "chi" "正常模式"
+    }
+
+    "***** T's must steal the four cases and throw it in the hole to destroy the house *****"
+    {
+        "chi" "T必须要偷到4个箱子然后把它们扔进出生点的洞来摧毁这个房子"
+    }
+
+}

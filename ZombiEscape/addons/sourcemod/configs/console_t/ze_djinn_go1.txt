@@ -1,0 +1,137 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** 10 SECONDS LEFT ***"
+    {
+        "chi" "还有10秒"
+        "blocked" "1"
+    }
+
+    "*** 15 SECONDS LEFT ***"
+    {
+        "chi" "还有15秒"
+    }
+
+    "*** 20 SECONDS LEFT ***"
+    {
+        "chi" "还有20秒"
+    }
+
+    "*** 30 SECONDS LEFT ***"
+    {
+        "chi" "还有30秒"
+        "blocked" "1"
+    }
+
+    "*** 5 SECONDS LEFT ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** DEFEND UNTIL SOMETHING HAPPEN ***"
+    {
+        "chi" "守住!有什么要发生了!"
+    }
+
+    "*** ENTRANCE OPENS IN 25 SECONDS ***"
+    {
+        "chi" "入口25秒后打开"
+    }
+
+    "*** GRATE OPENS IN 15 SECONDS ***"
+    {
+        "chi" "大门15秒后打开"
+    }
+
+    "*** GRATE OPENS IN 30 SECONDS ***"
+    {
+        "chi" "大门30秒后打开"
+    }
+
+    "*** HEAL MODIFIED ***"
+    {
+        "chi" "亡灵削弱了治疗效果"
+    }
+
+    "*** JUMP DOWN NOW AND ESCAPE THE OBELISK ***"
+    {
+        "chi" "快跳下来!逃离这里!"
+    }
+
+    "*** JUMP NOW ***"
+    {
+        "chi" "快跳上去!!"
+    }
+
+    "*** KILL HIM NOW ***"
+    {
+        "chi" "现在,快击败它!"
+    }
+
+    "*** LIFT MOVING IN 10 SECONDS ***"
+    {
+        "chi" "电梯10秒后升起"
+    }
+
+    "*** NOT BAD ***"
+    {
+        "chi" "还不赖"
+    }
+
+    "*** OBELISK ENTRANCE OPENS IN 25 SECONDS  ***"
+    {
+        "chi" "方尖碑入口25秒后开启"
+    }
+
+    "*** PLAYER HAS PICKED UP AMMO ***"
+    {
+        "chi" "一位玩家拿起了弹药"
+    }
+
+    "*** PLAYER HAS PICKED UP HEAL ***"
+    {
+        "chi" "一位玩家拿起了奶"
+    }
+
+    "*** PLAYER HAS PICKED UP PYRAMID ***"
+    {
+        "chi" "一位玩家拿起了金字塔?"
+    }
+
+    "*** PLAYER HAS PICKED UP SAND ***"
+    {
+        "chi" "一位玩家拿起了砂砾"
+    }
+
+    "*** PLAYER HAS PICKED UP TORNADO ***"
+    {
+        "chi" "一位玩家拿起了风"
+    }
+
+    "*** STACK ***"
+    {
+        "chi" ">>跑毒TIME<<"
+    }
+
+    "*** SURVIVE FOR 60 SECONDS ***"
+    {
+        "chi" "在这里生存60秒"
+    }
+
+    "*** YOU GOT HIM ***"
+    {
+        "chi" "你好牛啊"
+    }
+
+}

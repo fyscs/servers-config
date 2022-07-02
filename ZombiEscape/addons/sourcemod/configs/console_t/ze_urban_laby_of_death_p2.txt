@@ -1,225 +1,227 @@
 "Console_T"
 {
-	"*** Invulnerability has been picked up. ***"
-	{
-		"chi"		"**一位高玩拾取了无敌!**"
-	}
-	"*** Invulnerability has a cooldown of 60 secs. ***"
-	{
-		"chi"		"**每60秒可以使用一次无敌!**"
-	}
-	"*** Flamethrower has been picked up. ***"
-	{
-		"chi"		"**一位高玩拾取了喷火器!**"
-	}
-	"*** Flamethrower lasts about 16 secs and can be toggled. ***"
-	{
-		"chi"		"**喷火器只有16秒的时间!按E关闭!**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"**Elevator 1 Leaving in 60 seconds**"
-	{
-		"chi"		"**NO.1大电梯60秒后升起!看看屁股!**"
-	}
-	"**Elevator 2 Leaving in 60 seconds**"
-	{
-		"chi"		"**NO.2号电梯60秒后升起!没有时间了!**"
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-	}
-	"**Elevator 1 Leaving in 5 seconds**"
-	{
-		"chi"		"**一号电梯5秒后离开了!快上电梯!**"
-	}
-	"**Elevator 2 Leaving in 5 seconds**"
-	{
-		"chi"		"**二号电梯5秒后离开了!僵尸们的攻势更猛了!**"
-	}
-	"**Elevator 1 has left**"
-	{
-		"chi"		"**一号电梯离开了!!看看你们的队友老婆吧!**"
-	}
-	"**Elevator 2 has left**"
-	{
-		"chi"		"**二号电梯离开了!冲了上去!**"
-	}
-	"**Mass teleport for everyone down below in 30 secs.**"
-	{
-		"chi"		"**30秒后玩家将会被传送!**"
-	}
-	"*** Zombie Rage has been picked up. ***"
-	{
-		"chi"		"**一只不知道什么的僵尸拾取了加速**"
-	}
-	"*** Zombie Rage has a cooldown of 60 secs. ***"
-	{
-		"chi"		"**加速的时间cd为60秒一次!**"
-	}
-	"*** Sprint has been picked up. ***"
-	{
-		"chi"		"**一位高玩拾取了冲刺**"
-	}
-	"*** Sprint has a cooldown of 90 secs. ***"
-	{
-		"chi"		"**冲刺的时间cd为90秒一次!!**"
 
-	}
-	"**Plant the C4 on the missile launcher**"
-	{
-		"chi"		"**赶快用c4炸掉这个地方!不然我们就没了!**"
-	}
-	"***C4 has been picked***"
-	{
-		"chi"		"**一名玩家找到了救命的C4**"
-	}
-	"**C4 has been placed!**"
-	{
-		"chi"		"**C4放好了!太棒了!**"
-	}
-	"**TEAM FALL BACK**"
-	{
-		"chi"		"**撤退撤退!快走憨憨们**"
-	}
-	"**Helicopter will leave in 60 seconds**"
-	{
-		"chi"		"**直升机还有60秒后飞走了!**"
+    "*** Ammo Box has a cooldown of 60 secs. ***"
+    {
+        "chi" "**无限子弹的CD为60秒**"
+        "blocked"    "1"
+    }
 
-	}
-	"**Helicopter will leave in 30 seconds**"
-	{
-		"chi"		"**直升机还有30秒后起飞!!**"
-	}
-	"*** CURRENT STAGE IS 1: Overworld ***"
-	{
-		"chi"		"** **"
-	}
-	"*** Ammo Box has been picked up. ***"
-	{
-		"chi"		"**一名高玩拾取了无限子弹**"
-	}
-	"*** Ammo Box has a cooldown of 60 secs. ***"
-	{
-		"chi"		"**无限子弹的CD为60秒**"
+    "*** Ammo Box has been picked up. ***"
+    {
+        "chi" "**一名高玩拾取了无限子弹**"
+    }
 
-	}
-	"*** Push Gun has been picked up. ***"
-	{
-		"chi"		"**一名高玩拾取了推力枪!这是啥东西怎么没用过!**"
-	}
-	"*** Push Gun has a cooldown of 20 secs. ***"
-	{
-		"chi"		"**推力枪的CD为20秒!尽情的推吧!**"
+    "*** Flamethrower has been picked up. ***"
+    {
+        "chi" "**一位高玩拾取了喷火器!**"
+    }
 
-	}
-	"*** Zombie Heal has been picked up. ***"
-	{
-		"chi"		"**一只僵尸拾取了奶**"
-	}
-	"*** Zombie Heal has a cooldown of 60 secs. ***"
-	{
-		"chi"		"**奶的CD为60秒一次**"
+    "*** Flamethrower lasts about 16 secs and can be toggled. ***"
+    {
+        "chi" "**喷火器只有16秒的使用时间!按E关闭!**"
+        "blocked"    "1"
+    }
 
-	}
-	"**Computer room will shut down in 60 seconds**"
-	{
-		"chi"		"**坚守60秒!不要让僵尸进来!**"
-	}
-	"**Control room locking temporarily in 30 secs and will be locked until power is shut down**"
-	{
-		"chi"		"**我们在坚守30秒!等待Sakura运行程序!**"
-	}
-	"**Encrypting all data**"
-	{
-		"chi"		"**憨批Sakura正在运行程序**"
-	}
-	"**Control room locking for 30 secs**"
-	{
-		"chi"		"**门暂时关30秒!谢天谢地!**"
-	}
-	"**Control room has been shut down**"
-	{
-		"chi"		"**Sakura真帅!我好喜欢!**"
-	}
-	"*** Mines has been picked up. ***"
-	{
-		"chi"		"**一位玩家拾取了地雷**"
-	}
-	"*** Mines can be used up to 6 times. ***"
-	{
-		"chi"		"**地雷可以使用6次!我觉得够用了!**"
+    "*** Freeze Ring has a cooldown of 60 secs. ***"
+    {
+        "chi" "**冰冻陷阱 的CD为60秒**"
+        "blocked"    "1"
+    }
 
-	}
-	"*** Freeze Ring has been picked up. ***"
-	{
-		"chi"		"**一名高玩拾取了冰冻陷阱 **"
-	}
-	"*** Freeze Ring has a cooldown of 60 secs. ***"
-	{
-		"chi"		"**冰冻陷阱 的CD为60秒**"
+    "*** Freeze Ring has been picked up. ***"
+    {
+        "chi" "**一名高玩拾取了冰冻陷阱(白色)!**"
+        "blocked"    "1"
+    }
 
-	}
-	"*** NY MARATHON: GET READY TO RUN! ***"
-	{
-		"chi"		"**准备跑路了!!**"
-	}
-	"*** Zombie Sucker has been picked up. ***"
-	{
-		"chi"		"**一只僵尸拾取了吸人器(乖乖这也太强了8)能不能别吸Sakura**"
-	}
-	"*** Zombie Sucker has a cooldown of 60 secs. ***"
-	{
-		"chi"		"**吸人器 的CD为60秒**"
+    "*** Invulnerability has a cooldown of 60 secs. ***"
+    {
+        "chi" "**每60秒可以使用一次无敌!**"
+        "blocked"    "1"
+    }
 
-	}
-	"*** STEAMGAMERS.COM ***"
-	{
-		"chi"		"**地图来自STEAMGAMERS.COM**"
-	}
-	"*** Mapper: yardy ***"
-	{
-		"chi"		"**作者: yardy   翻译: Sakura@风云社**"
-	}
-	"*** Co-Mapper: starbucks ***"
-	{
-		"chi"		"**副作者: starbucks**"
-	}
-	"*** Zombie Stopper has been picked up. ***"
-	{
-		"chi"		"**一只僵尸捡到了 障碍**"
-	}
-	"The server is about to close the update ,Please update your game"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Reflelia***"
-	{
-		"chi"		"** **"
-	}
-	"**map by koyomaple**"
-	{
-		"chi"		"** **"
-	}
-	"<< ze_surf_virtus >>"
-	{
-		"chi"		"** **"
-	}
-	"<< Fix by : Lishang >>"
-	{
-		"chi"		"** **"
-	}
-	"**Stage 1**"
-	{
-		"chi"		"** **"
-	}
-	"***Welcome to Crazy Kart***"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Luffaren***"
-	{
-		"chi"		"** **"
-	}
-	"***Thanks to Enviolinador for the green shell bouncevector logic***"
-	{
-		"chi"		"** **"
-	}
+    "*** Invulnerability has been picked up. ***"
+    {
+        "chi" "**一位高玩拾取了无敌(绿色)!**"
+        "blocked"    "1"
+    }
+
+    "*** Mines can be used up to 6 times. ***"
+    {
+        "chi" "**地雷可以使用6次!造成高额伤害但也能击杀友军!**"
+    }
+
+    "*** Mines has been picked up. ***"
+    {
+        "chi" "**一位玩家拾取了地雷(灰色)**"
+        "blocked"    "1"
+    }
+
+    "*** Push Gun has a cooldown of 20 secs. ***"
+    {
+        "chi" "**推力枪的CD为20秒!尽情的推吧!**"
+        "blocked"    "1"
+    }
+
+    "*** Push Gun has been picked up. ***"
+    {
+        "chi" "**一名高玩拾取了推力枪!**"
+        "blocked"    "1"
+    }
+
+    "*** Sprint has a cooldown of 90 secs. ***"
+    {
+        "chi" "**冲刺的时间cd为90秒一次!!**"
+        "blocked"    "1"
+    }
+
+    "*** Sprint has been picked up. ***"
+    {
+        "chi" "**一位高玩拾取了冲刺(蓝色)**"
+        "blocked"    "1"
+    }
+
+    "*** TEST ***"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    "*** Zombie Heal has a cooldown of 60 secs. ***"
+    {
+        "chi" "**僵尸奶的CD为60秒一次**"
+        "blocked"    "1"
+    }
+
+    "*** Zombie Heal has been picked up. ***"
+    {
+        "chi" "**一只善良的僵尸拾取了奶(棕色)**"
+        "blocked"    "1"
+    }
+
+    "*** Zombie Rage has a cooldown of 60 secs. ***"
+    {
+        "chi" "**僵尸加速的时间cd为60秒一次!**"
+        "blocked"    "1"
+    }
+
+    "*** Zombie Rage has been picked up. ***"
+    {
+        "chi" "**一只迷路的僵尸拾取了加速(紫色)**"
+        "blocked"    "1"
+    }
+
+    "*** Zombie Stopper has been picked up. ***"
+    {
+        "chi" "**一只僵尸捡到了神器障碍**"
+        "blocked"    "1"
+    }
+
+    "*** Zombie Sucker has a cooldown of 60 secs. ***"
+    {
+        "chi" "**吸人器 的CD为60秒**"
+        "blocked"    "1"
+    }
+
+    "*** Zombie Sucker has been picked up. ***"
+    {
+        "chi" "**一只僵尸拾取了红色吸人器, 隔墙吸人往后拖!**"
+    }
+
+    "***C4 has been picked***"
+    {
+        "chi" "**一名玩家找到了救命的C4**"
+    }
+
+    "**C4 has been placed!**"
+    {
+        "chi" "**C4放好了!太棒了!**"
+    }
+
+    "**Computer room will shut down in 60 seconds**"
+    {
+        "chi" "**坚守60秒!不要让僵尸进来!**"
+    }
+
+    "**Control room has been shut down**"
+    {
+        "chi" "**汉化: 斯沃特精英@風雲社**"
+    }
+
+    "**Control room locking for 30 secs**"
+    {
+        "chi" "**大门暂时关30秒!谢天谢地!**"
+    }
+
+    "**Control room locking temporarily in 30 secs and will be locked until power is shut down**"
+    {
+        "chi" "**30秒后控制室大门生成屏障**"
+    }
+
+    "**Elevator 1 has left**"
+    {
+        "chi" "**一号电梯离开了!看看你们的队友老婆吧!**"
+    }
+
+    "**Elevator 1 Leaving in 5 seconds**"
+    {
+        "chi" "**一号电梯5秒后离开了!快上电梯!**"
+    }
+
+    "**Elevator 1 Leaving in 60 seconds**"
+    {
+        "chi" "**一号电梯60秒后启动!**"
+    }
+
+    "**Elevator 2 has left**"
+    {
+        "chi" "**二号电梯离开了!冲了上去!**"
+    }
+
+    "**Elevator 2 Leaving in 5 seconds**"
+    {
+        "chi" "**二号电梯5秒后离开了!僵尸们的攻势更猛了!**"
+    }
+
+    "**Elevator 2 Leaving in 60 seconds**"
+    {
+        "chi" "**二号电梯60秒后启动!没有时间了!**"
+    }
+
+    "**Encrypting all data**"
+    {
+        "chi" "**憨批Sakura正在运行程序**"
+    }
+   
+    "**Helicopter will leave in 60 seconds**"
+    {
+        "chi" "**王牌飞行员斯沃特精英准备就绪!直升机60秒后起飞!**"
+    }
+
+    "**Mass teleport for everyone down below in 30 secs.**"
+    {
+        "chi" "**30秒后所有玩家将会被传送!**"
+    }
+
+    "**Plant the C4 on the missile launcher**"
+    {
+        "chi" "**赶快用c4炸毁防空导弹!**"
+    }
+
+    "**TEAM FALL BACK**"
+    {
+        "chi" "**全员撤退!**"
+    }
+
 }

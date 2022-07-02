@@ -1,0 +1,76 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
+
+
+    "= = = Auto Map is activated  = = ="
+    {
+        "chi" "随机地图"
+    }
+
+    "= = = Block Push is disabled  = = ="
+    {
+        "chi" "方块推力已经关闭"
+    }
+
+    "= = = Hurry up !!!  = = ="
+    {
+        "chi" "速度点!!你是乌龟吗?"
+    }
+
+    "= = = Last Team in the Arena wins the Match !!!  = = ="
+    {
+        "chi" "最后还在场的那一队胜利!"
+    }
+
+    "= = = Music off  = = ="
+    {
+        "chi" "音乐关闭"
+    }
+
+    "= = = The First Player at the Bus drive the Vehicle !!!  = = ="
+    {
+        "chi" "先碰到巴士那个人来开车"
+    }
+
+    "1"
+    {
+        "blocked" "1"
+    }
+
+    "2"
+    {
+        "blocked" "1"
+    }
+
+    "3"
+    {
+        "chi" ">3<"
+    }
+
+    "Choose your attack Team !!!"
+    {
+        "chi" "请在地面上选择进攻队伍"
+    }
+
+    "Map by [XIX]"
+    {
+        "blocked" "1"
+    }
+
+    "This Mini Game need more Players !!!"
+    {
+        "chi" "这个小游戏需要多点人才能玩"
+    }
+
+}

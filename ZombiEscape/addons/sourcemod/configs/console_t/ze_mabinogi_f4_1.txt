@@ -1,0 +1,164 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "::: Admin Room Episode 1 :::"
+    {
+        "chi" "::管理员选择了关卡1::"
+    }
+
+    "15 seconds left before the portal closes."
+    {
+        "chi" "还剩15秒关门"
+    }
+
+    "5 seconds left before the portal closes."
+    {
+        "chi" "还剩5秒关门"
+    }
+
+    "admun slay please :3"
+    {
+        "chi" "注意!"
+    }
+
+    "DOOR CLOSES IN 15 SECONDS ."
+    {
+        "chi" "15秒后关闭大门"
+    }
+
+    "DOOR CLOSES IN 5 SECONDS ."
+    {
+        "chi" "还有5秒关门"
+    }
+
+    "Door opens in 15 seconds ."
+    {
+        "chi" "还剩15秒开门"
+    }
+
+    "DOOR OPENS IN 15 SECONDS ."
+    {
+        "chi" "大门在15秒内开启"
+    }
+
+    "Door opens in 20 seconds ."
+    {
+        "chi" "20秒内大门将开启"
+    }
+
+    "Door opens in 25 seconds ."
+    {
+        "chi" "还有25秒开启大门"
+    }
+
+    "Door opens in 30 seconds ."
+    {
+        "chi" "30秒后开启大门"
+    }
+
+    "Door opens in 40 seconds ."
+    {
+        "chi" "40秒后开启大门"
+    }
+
+    "DOOR OPENS IN 5 SECONDS ."
+    {
+        "chi" "剩余5秒门开"
+    }
+
+    "DOOR OPENS IN 7 SECONDS ."
+    {
+        "chi" "7秒内开门"
+    }
+
+    "Fire Orb is activated !"
+    {
+        "chi" "火之球被激活!(小心两边火焰)"
+    }
+
+    "Ladder for zombies will be open in 5 seconds ."
+    {
+        "chi" "僵尸阶梯将在5秒内打开"
+    }
+
+    "Lightning Orb is activated !"
+    {
+        "chi" "闪电球被激活!(前方来刀)"
+    }
+
+    "Paths will be open in 10 seconds ."
+    {
+        "chi" "路径将在10秒内打开"
+    }
+
+    "Paths will be open in 15 seconds ."
+    {
+        "chi" "路径将在15秒内打开"
+    }
+
+    "PATHS WILL BE OPEN IN 15 SECONDS ."
+    {
+        "chi" "路径将在15秒内开启"
+    }
+
+    "Paths will be open in 20 seconds ."
+    {
+        "chi" "路径将在20秒内打开"
+    }
+
+    "Paths will be open in 25 seconds ."
+    {
+        "chi" "路径将在25秒内打开"
+    }
+
+    "PATHS WILL BE OPEN IN 5 SECONDS ."
+    {
+        "chi" "路径还有5秒打开"
+    }
+
+    "Purple Orb is activated !"
+    {
+        "chi" "紫电球已激活!(小心斧子)"
+    }
+
+    "Side Doors open in 20 seconds ."
+    {
+        "chi" "侧门在20秒内打开"
+    }
+
+    "SIDE DOORS OPEN IN 5 SECONDS ."
+    {
+        "chi" "侧门在5秒打开"
+    }
+
+    "Side Path will be open in 15 seconds ."
+    {
+        "chi" "侧道将在15秒内打开"
+    }
+
+    "SIDE PATH WILL BE OPEN IN 5 SECONDS ."
+    {
+        "chi" "侧道将在5秒打开"
+    }
+
+    "This is last hold , keep resisting !"
+    {
+        "chi" "最后一个点了,继续抵抗!!"
+    }
+
+    "Wind Orb is activated !"
+    {
+        "chi" "风之球激活! (注意抵抗推力)"
+    }
+
+}

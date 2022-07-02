@@ -1,56 +1,64 @@
 "Console_T"
 {
-	"** The gate will open in 35 seconds **"
-	{
-		"chi"		"**大门35秒后打开**"
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
 
-	}
-	"** Get Ready **"
-	{
-		"chi"		"** **"
-	}
-	"** Run! **"
-	{
-		"chi"		"**跑!**"
-	}
-	"** Looks like the Van is broken **"
-	{
-		"chi"		"**公园内的货车似乎坏掉了!**"
-	}
-	"** Generator override enabled **"
-	{
-		"chi"		"** **"
-	}
-	"** Power has been lost to Jurassic Park **"
-	{
-		"chi"		"**侏罗纪公园的电源已被切断**"
-	}
-	"** Call the mainland - Tell them to send the damn helicopter! **"
-	{
-		"chi"		"**信号已发送, 直升机很快就会抵达!**"
-	}
-	"** SECURE THE AREA **"
-	{
-		"chi"		"**守住阵地!**"
-	}
-	"** Get ready to move! **"
-	{
-		"chi"		"**直升机即将抵达, 丢雷撤退!**"
-	}
-	"** Nerve gas released **"
-	{
-		"chi"		"**人类胜利, 核爆即将抵达!**"
-	}
-	"**Stage 1**"
-	{
-		"chi"		"** **"
-	}
-	"**welcome to ze_fat_hours_escape**"
-	{
-		"chi"		"** **"
-	}
-	"**map by yinyuehzixi**"
-	{
-		"chi"		"** **"
-	}
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** Call the mainland - Tell them to send the damn helicopter! **"
+    {
+        "chi" "**信号已发送, 直升机很快就会抵达!**"
+    }
+
+    "** Generator override enabled **"
+    {
+        "chi" "已启用覆盖发生器"
+    }
+
+    "** Get Ready **"
+    {
+        "chi" "准备好了吗?"
+    }
+
+    "** Get ready to move! **"
+    {
+        "chi" "**直升机即将抵达, 丢雷撤退!**"
+    }
+
+    "** Looks like the Van is broken **"
+    {
+        "chi" "**公园内的货车似乎坏掉了!**"
+    }
+
+    "** Nerve gas released **"
+    {
+        "chi" "已释放神经毒气"
+    }
+
+    "** Power has been lost to Jurassic Park **"
+    {
+        "chi" "**侏罗纪公园的电源已被切断**"
+    }
+
+    "** Run! **"
+    {
+        "chi" "**跑!**"
+    }
+
+    "** SECURE THE AREA **"
+    {
+        "chi" "确保区域安全"
+    }
+
+    "** The gate will open in 35 seconds **"
+    {
+        "chi" "**大门35秒后打开**"
+    }
+
 }

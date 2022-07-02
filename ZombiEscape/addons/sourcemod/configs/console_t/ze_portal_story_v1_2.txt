@@ -1,251 +1,364 @@
 "Console_T"
 {
-	"> Map by SubDelt@"
-	{
-		"chi"		">地图制作: SubDelt 地图翻译: 小三@风云社"
-	}
-	"> Thanks to"
-	{
-		"chi"		">鸣谢"
-	}
-	"> Enviolinador - multiple things help"
-	{
-		"chi"		"** **"
-	}
-	"> (RMG) Synopsis [pF] - special items help"
-	{
-		"chi"		"** **"
-	}
-	"> JorisCeoen - models help"
-	{
-		"chi"		">模型提供: JorisCeoen"
-	}
-	"> Luffaren - particles help"
-	{
-		"chi"		">粒子效果: Luffaren"
-	}
-	">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
-	{
-		"chi"		">>>当前难度: 萌新<<<"
-	}
-	"<<< Level 1 >>>"
-	{
-		"chi"		"<<<第一关>>>"
-	}
-	">>> HOLD THIS CHAMBER. DOOR IS OPENING IN 25 SECS <<<"
-	{
-		"chi"		">>>守住这个位置, 25秒后开门<<<"
-	}
-	">>> DOOR IS OPENING IN 5 SECS <<<"
-	{
-		"chi"		">>>还剩5秒<<<"
-	}
-	">>> DOOR IS OPEN. ELEVATOR LEAVES IN 10 SECS <<<"
-	{
-		"chi"		">>>门开了, 电梯还有10秒离开, 赶紧进来<<<"
-	}
-	">>> HOLD THE STAIRS UNTIL OTHERS SEARCH THE SOLUTION <<<"
-	{
-		"chi"		">>>守住这里直到找到撤离的办法<<<"
-	}
-	">>> SOLUTION FOUND <<<"
-	{
-		"chi"		">>>我们已经找到了撤离的方式<<<"
-	}
-	">>> Repulsion gel has been aquired <<<"
-	{
-		"chi"		">>>减速凝胶已拾取<<<"
-	}
-	">>> It has a 50 second cooldown and slow zombies down <<<"
-	{
-		"chi"		">>>减速凝胶有50秒的冷却时间, 它可以减速僵尸<<<"
-	}
-	">>> HOLD THE ENTRANCE <<<"
-	{
-		"chi"		">>>守住这个入口<<<"
-	}
-	">>> 30 SECS <<<"
-	{
-		"chi"		">>>30秒<<<"
-	}
-	">>> 20 SECS <<<"
-	{
-		"chi"		">>>20秒<<<"
-	}
-	">>> 10 SECS <<<"
-	{
-		"chi"		">>>10秒<<<"
-	}
-	">>> ZOMBIES USE THE CIRCLE WAY <<<"
-	{
-		"chi"		">>> <<<"
-	}
-	">>> HOLD THIS PLACE FOR 35 SECS <<<"
-	{
-		"chi"		">>>在这里守住僵尸35秒<<<"
-	}
-	">>> 15 SECS <<<"
-	{
-		"chi"		">>>还剩15秒<<<"
-	}
-	">>> 5 SECS <<<"
-	{
-		"chi"		">>>还剩5秒<<<"
-	}
-	">>> ZOMBIES WAIT UNTIL THE BRIDGE GOES BACK <<<"
-	{
-		"chi"		">>> 赶紧撤离, 僵尸就在你们的后方<<<"
-	}
-	">>> DESTROY THE TURRETS <<<"
-	{
-		"chi"		">>>破坏炮塔<<<"
-	}
-	">>> TURRETS DESTROYED <<<"
-	{
-		"chi"		">>>炮塔被摧毁了<<<"
-	}
-	">>> HOLD THE GLaDOS ROOM FOR 25 SECS <<<"
-	{
-		"chi"		">>>在这个房间坚守25秒<<<"
-	}
-	">>> DOOR IS CLOSING IN 5 SECS <<<"
-	{
-		"chi"		">>>还剩5秒<<<"
-	}
-	">>> NEUROTOXIN SYSTEM ENABLED! NEUROTOXIN IN 3 MINUTES! <<<"
-	{
-		"chi"		">>>神经毒素系统3分钟后启动!<<<"
-	}
-	">>> NEUROTOXIN IN 2 MINUTE! <<<"
-	{
-		"chi"		">>>神经毒素系统2分钟后启动!<<<"
-	}
-	">>> NEUROTOXIN IN 1 MINUTE! <<<"
-	{
-		"chi"		">>>神经毒素系统1分钟后启动!<<<"
-	}
-	">>> Propulsion gel has been aquired <<<"
-	{
-		"chi"		">>>加速凝胶被拾取<<<"
-	}
-	">>> It has a 40 Second cooldown and speeds humans up <<<"
-	{
-		"chi"		">>>加速凝胶有40秒的冷却时间, 它可以加速全体人类<<<"
-	}
-	">>> HOLD THE ENTRANCE UNTIL OTHERS SEARCH THE SOLUTION <<<"
-	{
-		"chi"		">>>守住入口直到找到撤离的办法<<<"
-	}
-	">>> HOLD THE ROOM UNTIL THE DOOR IS OPEN <<<"
-	{
-		"chi"		">>>在门完全开启前别随便乱动<<<"
-	}
-	">>> HOLD THE ENTRANCE FOR 35 SECS <<<"
-	{
-		"chi"		">>>守住入口35秒<<<"
-	}
-	">>> GLaDOS IS DEAD <<<"
-	{
-		"chi"		">>>BOSS被打败了<<<"
-	}
-	">>> NORMAL MODE COMPLETED <<<"
-	{
-		"chi"		">>>萌新模式完成<<<"
-	}
-	">>> MOVING ON TO HARD MODE <<<"
-	{
-		"chi"		">>>加载咸鱼模式<<<"
-	}
-	">>> ZE PORTAL STORY - HARD DIFFICULTY <<<"
-	{
-		"chi"		">>>当前难度: 咸鱼<<<"
-	}
-	">>> NEUROTOXIN IN 15 SECS! <<<"
-	{
-		"chi"		">>>15秒后神经毒素系统启动<<<"
-	}
-	">>> NEUROTOXIN IN 5 SECS! <<<"
-	{
-		"chi"		">>>5秒后神经毒素系统启动<<<"
-	}
-	">>> 4 <<<"
-	{
-		"chi"		">>> <<<"
-	}
-	">>> 3 <<<"
-	{
-		"chi"		">>> <<<"
-	}
-	">>> 2 <<<"
-	{
-		"chi"		">>> <<<"
-	}
-	">>> 1 <<<"
-	{
-		"chi"		">>> <<<"
-	}
-	">>> NEUROTOXIN RELEASED! <<<"
-	{
-		"chi"		">>>神经毒素释放<<<"
-	}
-	">>> HOLD THE SEWER UNTIL THE GRATE IS DOWN <<<"
-	{
-		"chi"		">>>在这个位置守住僵尸<<<"
-	}
-	">>> HARD MODE COMPLETED <<<"
-	{
-		"chi"		">>>咸鱼模式完成<<<"
-	}
-	">>> MOVING ON TO EXTREME MODE <<<"
-	{
-		"chi"		">>>进入萌新司机模式<<<"
-	}
-	"### WELCOME TO CRAZY ESCAPE ###"
-	{
-		"chi"		"### ###"
-	}
-	"** Map by ClariceTang **"
-	{
-		"chi"		"**地图制作: ClariceTang 地图翻译: 小三@风云社**"
-	}
-	"** Level 1 - Easy **"
-	{
-		"chi"		"** **"
-	}
-	"** Model by K. **"
-	{
-		"chi"		"** **"
-	}
-	">>> ZE PORTAL STORY - EXTREME DIFFICULTY <<<"
-	{
-		"chi"		"** **"
-	}
-	">> Map by Taskuvaras <<"
-	{
-		"chi"		"** **"
-	}
-	"*** Special Thanks testing: GFL & MAPEADORES  ***"
-	{
-		"chi"		"** **"
-	}
-	">>> EXTREME MODE COMPLETED <<<"
-	{
-		"chi"		"** **"
-	}
-	">>> MOVING BACK TO NORMAL MODE <<<"
-	{
-		"chi"		"** **"
-	}
-	"***Map by Taskuvaras***"
-	{
-		"chi"		"** **"
-	}
-	"<== Map made by qazlll456 [Hong Kong]==>"
-	{
-		"chi"		"** **"
-	}
-	"<== Also Thank [Syoudous] for helping testing the map ==>"
-	{
-		"chi"		"** **"
-	}
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "> (RMG) Synopsis [pF] - special items help"
+    {
+        "chi" "特别感谢Synopsis的神器指导"
+    }
+
+    "> Admin pressed the NEUROTOXIN button"
+    {
+        "chi" "神经毒素释放"
+    }
+
+    "> Admin switched difficulty to EXTREME"
+    {
+        "chi" "加载萌新司机难度"
+    }
+
+    "> Admin switched difficulty to HARD"
+    {
+        "chi" "加载咸鱼难度"
+    }
+
+    "> Admin switched difficulty to NORMAL"
+    {
+        "chi" "加载萌新难度"
+    }
+
+    "> Enviolinador - multiple things help"
+    {
+        "chi" "感谢Enviolinador的全面指导"
+    }
+
+    "> JorisCeoen - models help"
+    {
+        "chi" ">模型提供: JorisCeoen"
+    }
+
+    "> Luffaren - particles help"
+    {
+        "chi" ">粒子效果: Luffaren"
+    }
+
+    "> Map by SubDelt@"
+    {
+        "chi" ">地图制作: SubDelt 地图翻译: 小三@风云社"
+    }
+
+    "> Thanks to"
+    {
+        "chi" ">鸣谢"
+    }
+
+    ">>> 1 <<<"
+    {
+        "chi" ">>> <<<"
+    }
+
+    ">>> 10 SECS <<<"
+    {
+        "chi" ">>>10秒<<<"
+    }
+
+    ">>> 15 SECS <<<"
+    {
+        "chi" ">>>还剩15秒<<<"
+    }
+
+    ">>> 2 <<<"
+    {
+        "chi" ">>> <<<"
+    }
+
+    ">>> 20 SECS <<<"
+    {
+        "chi" ">>>20秒<<<"
+    }
+
+    ">>> 3 <<<"
+    {
+        "chi" ">>> <<<"
+    }
+
+    ">>> 30 SECS <<<"
+    {
+        "chi" ">>>30秒<<<"
+    }
+
+    ">>> 4 <<<"
+    {
+        "chi" ">>> <<<"
+    }
+
+    ">>> 5 SECS <<<"
+    {
+        "chi" ">>>还剩5秒<<<"
+    }
+
+    ">>> ALL COMPANION CUBES HAVE BEEN FOUND <<<"
+    {
+        "chi" "已获得全部立方体"
+    }
+
+    ">>> ALL HUMANS ARE GETTING 250 HP AT GLaDOS ROOM ENTRANCE FOR THIS ROUND <<<"
+    {
+        "chi" "HP + 250"
+    }
+
+    ">>> ALL HUMANS ARE GETTING FULL AMMO LOAD AT GLaDOS ROOM ENTRANCE FOR THIS ROUND <<<"
+    {
+        "chi" "弹药 + MAX"
+    }
+
+    ">>> DESTROY THE TURRETS <<<"
+    {
+        "chi" ">>>破坏炮塔<<<"
+    }
+
+    ">>> DOOR IS CLOSING IN 5 SECS <<<"
+    {
+        "chi" ">>>还剩5秒<<<"
+    }
+
+    ">>> DOOR IS OPEN. ELEVATOR LEAVES IN 10 SECS <<<"
+    {
+        "chi" ">>>门开了, 电梯还有10秒离开, 赶紧进来<<<"
+    }
+
+    ">>> DOOR IS OPENING IN 5 SECS <<<"
+    {
+        "chi" ">>>还剩5秒<<<"
+    }
+
+    ">>> EXTREME MODE COMPLETED <<<"
+    {
+        "chi" "司机难度完成"
+    }
+
+    ">>> GLaDOS IS DEAD <<<"
+    {
+        "chi" ">>>BOSS被打败了<<<"
+    }
+
+    ">>> HARD MODE COMPLETED <<<"
+    {
+        "chi" ">>>咸鱼模式完成<<<"
+    }
+
+    ">>> HOLD THE ENTRANCE <<<"
+    {
+        "chi" ">>>守住这个入口<<<"
+    }
+
+    ">>> HOLD THE ENTRANCE FOR 35 SECS <<<"
+    {
+        "chi" ">>>守住入口35秒<<<"
+    }
+
+    ">>> HOLD THE ENTRANCE UNTIL OTHERS SEARCH THE SOLUTION <<<"
+    {
+        "chi" ">>>守住入口直到找到撤离的办法<<<"
+    }
+
+    ">>> HOLD THE GLaDOS ROOM FOR 25 SECS <<<"
+    {
+        "chi" ">>>在这个房间坚守25秒<<<"
+    }
+
+    ">>> HOLD THE ROOM UNTIL THE DOOR IS OPEN <<<"
+    {
+        "chi" ">>>在门完全开启前别随便乱动<<<"
+    }
+
+    ">>> HOLD THE SEWER UNTIL THE GRATE IS DOWN <<<"
+    {
+        "chi" ">>>在这个位置守住僵尸<<<"
+    }
+
+    ">>> HOLD THE STAIRS UNTIL OTHERS SEARCH THE SOLUTION <<<"
+    {
+        "chi" ">>>守住这里直到找到撤离的办法<<<"
+    }
+
+    ">>> HOLD THIS CHAMBER. DOOR IS OPENING IN 25 SECS <<<"
+    {
+        "chi" ">>>守住这个位置, 25秒后开门<<<"
+    }
+
+    ">>> HOLD THIS PLACE FOR 35 SECS <<<"
+    {
+        "chi" ">>>在这里守住僵尸35秒<<<"
+    }
+
+    ">>> HORIZONTAL LASERS ARE DISABLED FOR THIS ROUND <<<"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    ">>> It has a 40 Second cooldown and speeds humans up <<<"
+    {
+        "chi" ">>>加速凝胶有40秒的冷却时间, 它可以加速全体人类<<<"
+    }
+
+    ">>> It has a 50 second cooldown and slow zombies down <<<"
+    {
+        "chi" ">>>减速凝胶有50秒的冷却时间, 它可以减速僵尸<<<"
+    }
+
+    ">>> MOVING BACK TO NORMAL MODE <<<"
+    {
+        "chi" "加载萌新难度"
+    }
+
+    ">>> MOVING ON TO EXTREME MODE <<<"
+    {
+        "chi" ">>>进入萌新司机模式<<<"
+    }
+
+    ">>> MOVING ON TO HARD MODE <<<"
+    {
+        "chi" ">>>加载咸鱼模式<<<"
+    }
+
+    ">>> NEUROTOXIN IN 1 MINUTE! <<<"
+    {
+        "chi" ">>>神经毒素系统60秒后启动!<<<"
+    }
+
+    ">>> NEUROTOXIN IN 15 SECS! <<<"
+    {
+        "chi" ">>>15秒后神经毒素系统启动<<<"
+        "blocked"    "1"
+    }
+
+    ">>> NEUROTOXIN IN 2 MINUTE! <<<"
+    {
+        "chi" ">>>神经毒素系统160秒后启动!<<<"
+    }
+
+    ">>> NEUROTOXIN IN 3 MINUTES! <<<"
+    {
+        "chi" "神经毒素系统180秒后启动"
+    }
+
+    ">>> NEUROTOXIN IN 30 SECS! <<<"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    ">>> NEUROTOXIN IN 5 SECS! <<<"
+    {
+        "chi" ">>>5秒后神经毒素系统启动<<<"
+    }
+
+    ">>> NEUROTOXIN RELEASED! <<<"
+    {
+        "chi" ">>>神经毒素释放<<<"
+    }
+
+    ">>> NEUROTOXIN SYSTEM ENABLED! NEUROTOXIN IN 3 MINUTES! <<<"
+    {
+        "chi" ">>>神经毒素系统180秒后启动!<<<"
+    }
+
+    ">>> NEUROTOXIN SYSTEM ENABLED! NEUROTOXIN IN 4 MINUTES! <<<"
+    {
+        "chi" "神经毒素系统240秒后启动"
+    }
+
+    ">>> NEUROTOXIN SYSTEMS ARE DELAYED FOR 30 SECONDS FOR THIS ROUND <<<"
+    {
+        "chi" "神经毒素系统启用离线,正在修复"
+    }
+
+    ">>> NORMAL MODE COMPLETED <<<"
+    {
+        "chi" ">>>萌新模式完成<<<"
+    }
+
+    ">>> PHYSICS BUG DETECTED! RESTART THE MAP IMMEDIATELY! <<<"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    ">>> PORTAL PLACERS ARE DISABLED FOR THIS ROUND <<<"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    ">>> Propulsion gel has been aquired <<<"
+    {
+        "chi" ">>>加速凝胶被拾取<<<"
+        "blocked"    "1"
+    }
+
+    ">>> Repulsion gel has been aquired <<<"
+    {
+        "chi" ">>>减速凝胶已拾取<<<"
+        "blocked"    "1"
+    }
+
+    ">>> ROCKET TURRET IS DISABLED FOR THIS ROUND <<<"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    ">>> SOLUTION FOUND <<<"
+    {
+        "chi" ">>>我们已经找到了撤离的方式<<<"
+    }
+
+    ">>> TURRETS DESTROYED <<<"
+    {
+        "chi" ">>>炮塔被摧毁了<<<"
+    }
+
+    ">>> VERTICAL LASERS ARE DISABLED FOR THIS ROUND <<<"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    ">>> ZE PORTAL STORY - EXTREME DIFFICULTY <<<"
+    {
+        "chi" "__null__"
+        "blocked"    "1"
+    }
+
+    ">>> ZE PORTAL STORY - HARD DIFFICULTY <<<"
+    {
+        "chi" ">>>当前难度: 咸鱼<<<"
+    }
+
+    ">>> ZE PORTAL STORY - NORMAL DIFFICULTY <<<"
+    {
+        "chi" ">>>当前难度: 萌新<<<"
+    }
+
+    ">>> ZOMBIES USE THE CIRCLE WAY <<<"
+    {
+        "chi" ">>> <<<"
+    }
+
+    ">>> ZOMBIES WAIT UNTIL THE BRIDGE GOES BACK <<<"
+    {
+        "chi" ">>> 赶紧撤离, 僵尸就在你们的后方<<<"
+    }
+
 }

@@ -1,68 +1,29 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
 
-    "< Human Win >"
+
+    "< All Guard Crystals have been destroyed >"
     {
-        "chi" "**人类胜利**"
+        "chi" "**所有的水晶已经被摧毁**"
     }
 
-    "< Stage RTV >"
+    "< Ball >"
     {
-        "chi" "**RTVRTVRTVRTVRTV**"
+        "chi" "**弹幕球**"
     }
 
-    "< Next level changed to RTV >"
+    "< Beam >"
     {
-        "chi" "**关卡[RTV关]载入**"
-    }
-
-    "< Heal >"
-    {
-        "chi" "**血继**"
-    }
-
-    "< Next level changed to 3 >"
-    {
-        "chi" "**关卡[三]载入**"
-    }
-
-    "< Fail >"
-    {
-        "chi" "**失败**"
-    }
-
-    "< Meteor >"
-    {
-        "chi" "**BOSS使用了陨石术**"
-    }
-
-    "< Cube >"
-    {
-        "chi" "**BOSS召唤了方块**"
-    }
-
-    "< Stage 3 >"
-    {
-        "chi" "**当前关卡[三]**"
-    }
-
-    "< Inner Fire >"
-    {
-        "chi" "**内圈火**"
-    }
-
-    "< Outer Fire >"
-    {
-        "chi" "**外圈火**"
-    }
-
-    "< Holy >"
-    {
-        "chi" "**神圣洗礼**"
+        "chi" "**激光**"
     }
 
     "< Blizzard >"
@@ -75,74 +36,9 @@
         "chi" "**辛辣天森**"
     }
 
-    "< Shake >"
+    "< Cube >"
     {
-        "chi" "**地面践踏**"
-    }
-
-    "< Teleporter will activate in 15 seconds >"
-    {
-        "chi" "**传送:15秒**"
-    }
-
-    "< All Guard Crystals have been destroyed >"
-    {
-        "chi" "**所有的水晶已经被摧毁**"
-    }
-
-    "< Player picked up z-gravity (90 sec) >"
-    {
-        "chi" "**一名玩家捡起了[ZM]黑洞**"
-    }
-
-    "< Player picked up z-nuke (100 sec) >"
-    {
-        "chi" "**一名玩家捡起了[ZM]秒杀**"
-    }
-
-    "< Player picked up z-heal (120 sec) >"
-    {
-        "chi" "**一名玩家捡起了[ZM]治疗**"
-    }
-
-    "< Player picked up pyro >"
-    {
-        "chi" "**一名玩家捡起了火**"
-    }
-
-    "< Player picked up heal >"
-    {
-        "chi" "**一名玩家捡起了奶**"
-    }
-
-    "< Player picked up anemo >"
-    {
-        "chi" "**一名玩家捡起了风**"
-    }
-
-    "< Player picked up cryo >"
-    {
-        "chi" "**一名玩家捡起了雪**"
-    }
-
-    "< Down Wall >"
-    {
-        "chi" "**天坠**"
-    }
-
-    "< Ball >"
-    {
-        "chi" "**弹幕球**"
-    }
-
-    "< Top Laser >"
-    {
-        "chi" "**天罗地网**"
-    }
-
-    "< Top Rotating Laser >"
-    {
-        "chi" "**旋转刀**"
+        "chi" "**BOSS召唤了方块**"
     }
 
     "< Danger Field >"
@@ -150,24 +46,49 @@
         "chi" "**煎蛋**"
     }
 
-    "< Reflection in 3 seconds >"
+    "< Down Wall >"
     {
-        "chi" "**3秒后开启反伤**"
+        "chi" "**天坠**"
     }
 
-    "< Reflection End >"
+    "< Fail >"
     {
-        "chi" "**反伤结束**"
+        "chi" "**失败**"
     }
 
-    "< Strike >"
+    "< Heal >"
     {
-        "chi" "**阳炎冲击**"
+        "chi" "**血继**"
     }
 
-    "< Beam >"
+    "< Holy >"
     {
-        "chi" "**激光**"
+        "chi" "**神圣洗礼**"
+    }
+
+    "< Human Win >"
+    {
+        "chi" "**人类胜利**"
+    }
+
+    "< I'm sorry for all the sounds, models, and ideas I copied >"
+    {
+        "chi" "**地图基于其他同类型作品进行制作**"
+    }
+
+    "< Inner Fire >"
+    {
+        "chi" "**内圈火**"
+    }
+
+    "< Map by sweetS >"
+    {
+        "chi" "**作者:sweetS 汉化:Ice@風雲社**"
+    }
+
+    "< Meteor >"
+    {
+        "chi" "**BOSS使用了陨石术**"
     }
 
     "< Next level changed to 1 >"
@@ -180,9 +101,67 @@
         "chi" "**关卡[二]载入**"
     }
 
-    "< Slay in 3 seconds >"
+    "< Next level changed to 3 >"
     {
-        "chi" "**全体处死:3秒**"
+        "chi" "**关卡[三]载入**"
+    }
+
+    "< Next level changed to RTV >"
+    {
+        "chi" "**关卡[RTV关]载入**"
+    }
+
+    "< Outer Fire >"
+    {
+        "chi" "**外圈火**"
+    }
+
+    "< Player picked up anemo >"
+    {
+        "chi" "**一名玩家捡起了风**"
+        "blocked"    "1"
+    }
+
+    "< Player picked up cryo >"
+    {
+        "chi" "**一名玩家捡起了雪**"
+        "blocked"    "1"
+    }
+
+    "< Player picked up floor spawner (5 times only) >"
+    {
+        "chi" "**一名玩家捡起了地板**"
+        "blocked"    "1"
+    }
+
+    "< Player picked up heal >"
+    {
+        "chi" "**一名玩家捡起了奶**"
+        "blocked"    "1"
+    }
+
+    "< Player picked up pyro >"
+    {
+        "chi" "**一名玩家捡起了火**"
+        "blocked"    "1"
+    }
+
+    "< Player picked up z-gravity (90 sec) >"
+    {
+        "chi" "**一名玩家捡起了[ZM]黑洞**"
+        "blocked"    "1"
+    }
+
+    "< Player picked up z-heal (120 sec) >"
+    {
+        "chi" "**一名玩家捡起了[ZM]治疗**"
+        "blocked"    "1"
+    }
+
+    "< Player picked up z-nuke (100 sec) >"
+    {
+        "chi" "**一名玩家捡起了[ZM]秒杀**"
+        "blocked"    "1"
     }
 
     "< Push >"
@@ -190,24 +169,24 @@
         "chi" "**妖风**"
     }
 
-    "< Player picked up floor spawner (5 times only) >"
+    "< Reflection End >"
     {
-        "chi" "**一名玩家捡起了地板**"
+        "chi" "**反伤结束**"
     }
 
-    "< Stage 2 >"
+    "< Reflection in 3 seconds >"
     {
-        "chi" "**当前关卡[二]**"
+        "chi" "**3秒后开启反伤**"
     }
 
-    "< Stage 1 >"
+    "< Shake >"
     {
-        "chi" "**当前关卡[一]**"
+        "chi" "**地面践踏**"
     }
 
-    "< ze_copy_escape >"
+    "< Slay in 3 seconds >"
     {
-        "chi" "**复制大逃亡**"
+        "chi" "**全体处死:3秒**"
     }
 
     "< Special Thanks - reflelia, Chocolate, STONE >"
@@ -215,14 +194,49 @@
         "chi" "**鸣谢:reflelia, Chocolate, STONE**"
     }
 
-    "< Map by sweetS >"
+    "< Stage 1 >"
     {
-        "chi" "**作者:sweetS	汉化:Ice@風雲社**"
+        "chi" "**当前关卡[一]**"
     }
 
-    "< I'm sorry for all the sounds, models, and ideas I copied >"
+    "< Stage 2 >"
     {
-        "chi" "**地图基于其他同类型作品进行制作**"
+        "chi" "**当前关卡[二]**"
+    }
+
+    "< Stage 3 >"
+    {
+        "chi" "**当前关卡[三]**"
+    }
+
+    "< Stage RTV >"
+    {
+        "chi" "**RTVRTVRTVRTVRTV**"
+    }
+
+    "< Strike >"
+    {
+        "chi" "**阳炎冲击**"
+    }
+
+    "< Teleporter will activate in 15 seconds >"
+    {
+        "chi" "**传送:15秒**"
+    }
+
+    "< Top Laser >"
+    {
+        "chi" "**天罗地网**"
+    }
+
+    "< Top Rotating Laser >"
+    {
+        "chi" "**旋转刀**"
+    }
+
+    "< ze_copy_escape >"
+    {
+        "chi" "**复制大逃亡**"
     }
 
 }

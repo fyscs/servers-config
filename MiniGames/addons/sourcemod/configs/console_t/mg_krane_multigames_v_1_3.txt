@@ -1,0 +1,311 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
+
+
+    "10 seconds remaining!"
+    {
+        "chi" "还剩下10秒"
+    }
+
+    "30 seconds remaining!"
+    {
+        "blocked" "1"
+    }
+
+    "AFK-Killer enabling in 10 seconds!"
+    {
+        "chi" "挂机杀手将在10秒内开启"
+    }
+
+    "Counter-Terrorists are at 25%"
+    {
+        "chi" "CT已经到达了25﹪"
+    }
+
+    "Counter-Terrorists are at 50%"
+    {
+        "chi" "CT已经到达了50﹪"
+    }
+
+    "Counter-Terrorists are at 75%"
+    {
+        "chi" "CT已经到达了75﹪"
+    }
+
+    "Counter-Terrorists goal!!"
+    {
+        "chi" "CT进球了"
+    }
+
+    "Counter-Terrorists have reached 20!"
+    {
+        "chi" "CT已经达到了20个目标"
+    }
+
+    "Counter-Terrorists win!"
+    {
+        "chi" "CT赢了"
+    }
+
+    "Counter-Terrorists: 25%!"
+    {
+        "chi" "CT已经到达了25﹪"
+    }
+
+    "Counter-Terrorists: 50%!"
+    {
+        "chi" "CT已经到达了50﹪"
+    }
+
+    "Counter-Terrorists: 75%!"
+    {
+        "chi" "CT已经到达了75﹪"
+    }
+
+    "Game: AWP Ghosts"
+    {
+        "chi" "幽灵大狙"
+    }
+
+    "Game: Bhop"
+    {
+        "chi" "连跳"
+    }
+
+    "Game: Bieber Nadeout"
+    {
+        "chi" "砸比伯头"
+    }
+
+    "Game: Classic Scoutzknivez"
+    {
+        "chi" "经典鸟狙"
+    }
+
+    "Game: de_krane"
+    {
+        "chi" "__keep__"
+    }
+
+    "Game: Dodgeball"
+    {
+        "chi" "躲避球"
+    }
+
+    "Game: Grenades"
+    {
+        "chi" "手雷"
+    }
+
+    "Game: Headshots - Deagles"
+    {
+        "chi" "爆头沙鹰"
+    }
+
+    "Game: Headshots - Pistols"
+    {
+        "chi" "爆头手枪"
+    }
+
+    "Game: Headshots - Rifles"
+    {
+        "chi" "爆头步枪"
+    }
+
+    "Game: Headshots - Shotguns"
+    {
+        "chi" "爆头喷子"
+    }
+
+    "Game: Headshots - SMGs"
+    {
+        "chi" "爆头微冲"
+    }
+
+    "Game: Jump Rope"
+    {
+        "chi" "跳绳"
+    }
+
+    "Game: Knife"
+    {
+        "chi" "刀"
+    }
+
+    "Game: Knife Hide n' Seek"
+    {
+        "chi" "躲猫猫"
+    }
+
+    "Game: Pacman"
+    {
+        "chi" "吃豆人"
+    }
+
+    "Game: Skate"
+    {
+        "chi" "溜冰"
+    }
+
+    "Game: Spawn Zeus"
+    {
+        "chi" "电击枪"
+    }
+
+    "Game: Storm The Castle"
+    {
+        "chi" "塔防"
+    }
+
+    "Game: Surf Battle"
+    {
+        "chi" "滑翔对战"
+    }
+
+    "Game: Thread the Needle"
+    {
+        "chi" "见缝插针"
+    }
+
+    "Killing everyone in 5 seconds"
+    {
+        "chi" "将在5秒内杀死所有人"
+    }
+
+    "Map is now open"
+    {
+        "chi" "__keep__"
+    }
+
+    "Map opening up in 10 seconds!"
+    {
+        "chi" "__keep__"
+    }
+
+    "Map will become open in 10 seconds"
+    {
+        "chi" "__keep__"
+    }
+
+    "Middle area disabled"
+    {
+        "chi" "中间区域已经关闭"
+    }
+
+    "Middle area disabled in 15 seconds"
+    {
+        "blocked" "1"
+    }
+
+    "Middle area disabled in 30 seconds"
+    {
+        "blocked" "1"
+    }
+
+    "Middle area disabled in 5 seconds"
+    {
+        "chi" "中间区域将在5秒后关闭"
+    }
+
+    "One of the Counter-Terrorists used a secret! They can jump over the walls!"
+    {
+        "chi" "一个CT找到了彩蛋!现在他们可以跳过墙"
+    }
+
+    "One of the Terrorists used a secret! They can jump over the walls!"
+    {
+        "chi" "一个T找到了彩蛋!现在他们可以跳过墙"
+    }
+
+    "Outer area disabled"
+    {
+        "chi" "最外层已经关闭"
+    }
+
+    "Outer area disabled in 15 seconds"
+    {
+        "blocked" "1"
+    }
+
+    "Outer area disabled in 30 seconds"
+    {
+        "blocked" "1"
+    }
+
+    "Outer area disabled in 5 seconds"
+    {
+        "chi" "最外层区域将在5秒内关闭"
+    }
+
+    "Players are now visible"
+    {
+        "chi" "所有人现在显形"
+    }
+
+    "Players will become visible in 10 seconds"
+    {
+        "chi" "将在10秒后显形"
+    }
+
+    "Someone opened a secret! Grab the taser in the center!"
+    {
+        "chi" "有人开了个密道! 中间有把电击枪,快拿!"
+    }
+
+    "Terrorists are at 25%"
+    {
+        "chi" "T已经到达了25﹪"
+    }
+
+    "Terrorists are at 50%"
+    {
+        "chi" "T已经到达了50﹪"
+    }
+
+    "Terrorists are at 75%"
+    {
+        "chi" "T已经到达了75﹪"
+    }
+
+    "Terrorists goal!!"
+    {
+        "chi" "T进球了!"
+    }
+
+    "Terrorists have reached 20!"
+    {
+        "chi" "T已经达到了20个目标"
+    }
+
+    "Terrorists win!"
+    {
+        "chi" "T赢了!"
+    }
+
+    "Terrorists: 25%"
+    {
+        "chi" "T已经到达了25﹪"
+    }
+
+    "Terrorists: 50%"
+    {
+        "chi" "T已经到达了50﹪"
+    }
+
+    "Terrorists: 75%"
+    {
+        "chi" "T已经到达了75﹪"
+    }
+
+}

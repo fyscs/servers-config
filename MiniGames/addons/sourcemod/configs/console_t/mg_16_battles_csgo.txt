@@ -1,13 +1,111 @@
 "Console_T"
 {
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
     // 可用字段
-    // "blocked" // 屏蔽本句输出
-    // "command" // 服务器执行指令
-    // "countdown" // 添加特殊的独立的倒计时
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
+
+
+    "Map Ported by Shawn for GiClan"
+    {
+        "blocked" "1"
+    }
 
     "Maze will be disabled in 5 seconds!"
     {
         "chi" "迷宫将会在5秒钟后消失"
+    }
+
+    "You have 45 Seconds to Buy!"
+    {
+        "chi" "你有45秒来买枪"
+    }
+
+    "You have chosen: Cemetery!"
+    {
+        "chi" "你选择了: 墓园"
+    }
+
+    "You have chosen: Dev!"
+    {
+        "chi" "你选择了: Dev"
+    }
+
+    "You have chosen: Eye rape!"
+    {
+        "chi" "你选择了: 闪瞎狗眼"
+    }
+
+    "You have chosen: Fortress!"
+    {
+        "chi" "你选择了: 堡垒"
+    }
+
+    "You have chosen: Freezer!"
+    {
+        "chi" "你选择了: 冰宫"
+    }
+
+    "You have chosen: Glass!"
+    {
+        "chi" "你选择了: 玻璃地板"
+    }
+
+    "You have chosen: Highway!"
+    {
+        "chi" "你选择了: 高速路"
+    }
+
+    "You have chosen: Hill!"
+    {
+        "chi" "你选择了: 登山"
+    }
+
+    "You have chosen: Maze!"
+    {
+        "chi" "你选择了: 迷宫"
+    }
+
+    "You have chosen: Nether!"
+    {
+        "chi" "你选择了: 地狱"
+    }
+
+    "You have chosen: Pool!"
+    {
+        "chi" "你选择了: 泳池"
+    }
+
+    "You have chosen: Rooftop!"
+    {
+        "chi" "你选择了: 屋顶"
+    }
+
+    "You have chosen: Sewers!"
+    {
+        "chi" "你选择了: 下水道"
+    }
+
+    "You have chosen: Sparta!"
+    {
+        "chi" "你选择了: 斯巴达"
+    }
+
+    "You have chosen: Speed circle!"
+    {
+        "chi" "你选择了: 高速圈"
+    }
+
+    "You have chosen: Submarine!"
+    {
+        "chi" "你选择了: 潜艇"
     }
 
 }
