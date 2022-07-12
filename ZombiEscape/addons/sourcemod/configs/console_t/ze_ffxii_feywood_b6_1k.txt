@@ -396,6 +396,7 @@
     "**THANK YOU FOR PLAYING THE MAP**"
     {
         "chi" "感谢你的游玩"
+        "blocked" "1"
     }
 
     "**THE AIR SHIP IS LEAVING...**"
@@ -490,7 +491,7 @@
 
     "**THE GATES WILL OPEN IN 20 SECONDS**"
     {
-        "chi" "大门20秒后打开f"
+        "chi" "大门20秒后打开"
     }
 
     "**THE GATES WILL OPEN IN 25 SECONDS**"
