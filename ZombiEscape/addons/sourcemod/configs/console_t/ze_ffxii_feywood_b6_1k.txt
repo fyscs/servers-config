@@ -396,6 +396,7 @@
     "**THANK YOU FOR PLAYING THE MAP**"
     {
         "chi" "感谢你的游玩"
+        "blocked" "1"
     }
 
     "**THE AIR SHIP IS LEAVING...**"
@@ -490,7 +491,7 @@
 
     "**THE GATES WILL OPEN IN 20 SECONDS**"
     {
-        "chi" "大门20秒后打开f"
+        "chi" "大门20秒后打开"
     }
 
     "**THE GATES WILL OPEN IN 25 SECONDS**"
@@ -500,7 +501,8 @@
 
     "**THE GATES WILL OPEN IN 5 SECONDS**"
     {
-        "chi" "__null__"
+        "chi" "大门5秒后打开"
+        "blocked" "1"
     }
 
     "**THE HENNE MINES ENTRANCE WILL OPEN IN 30 SECONDS**"
@@ -649,6 +651,7 @@
     "**WE HAVE A EPIC SOLO WINNER!!!**"
     {
         "chi" "__null__"
+        "blocked" "1"
     }
 
     "**WE HAVE A SOLO WINNER**"
@@ -669,7 +672,7 @@
 
     "**WE KILLED HIM. GO TO THE END OF THE ROAD***"
     {
-        "chi" "我们杀了他,快离开这里"
+        "chi" "我们干掉他了,快离开这里"
     }
 
     "**Welcome to Garland airship**"
