@@ -61,11 +61,6 @@
         "chi" "**尼敏装置已触发守住20秒**"
     }
 
-    "*** 25 seconds to activate Nymian device ***"
-    {
-        "chi" "__null__"
-    }
-
     "*** 25 seconds to Activate Nymian device ***"
     {
         "chi" "**尼敏装置已触发守住25秒 **"
@@ -79,11 +74,6 @@
     "*** 30 seconds to Activate Nymian device  ***"
     {
         "chi" "**尼敏装置已触发守住30秒**"
-    }
-
-    "*** 30 seconds to activate Nymian device ***"
-    {
-        "chi" "__null__"
     }
 
     "*** 30 seconds to Activate Nymian device ***"
@@ -454,11 +444,6 @@
     "*** Shoot him ***"
     {
         "chi" "**射击它**"
-    }
-
-    "*** Shoot Him ***"
-    {
-        "chi" "__null__"
     }
 
     "*** Shoot to Enkidu ***"

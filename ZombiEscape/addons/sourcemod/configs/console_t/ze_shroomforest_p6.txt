@@ -261,19 +261,9 @@
         "chi" "还有10秒"
     }
 
-    ">> 10 SECONDS LEFT <<"
-    {
-        "chi" "**还有10秒**"
-    }
-
     ">> 20 seconds left <<"
     {
         "chi" "还有20秒"
-    }
-
-    ">> 20 SECONDS LEFT <<"
-    {
-        "chi" "**还有20秒**"
     }
 
     ">> 30 SECONDS LEFT <<"
@@ -284,11 +274,6 @@
     ">> 40 seconds left <<"
     {
         "chi" "还有40秒"
-    }
-
-    ">> 40 SECONDS LEFT <<"
-    {
-        "chi" "**还有40秒**"
     }
 
     ">> 5 more seconds <<"

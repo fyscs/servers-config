@@ -46,11 +46,6 @@
         "chi" "还剩15秒开门"
     }
 
-    "DOOR OPENS IN 15 SECONDS ."
-    {
-        "chi" "大门在15秒内开启"
-    }
-
     "Door opens in 20 seconds ."
     {
         "chi" "20秒内大门将开启"
@@ -104,11 +99,6 @@
     "Paths will be open in 15 seconds ."
     {
         "chi" "路径将在15秒内打开"
-    }
-
-    "PATHS WILL BE OPEN IN 15 SECONDS ."
-    {
-        "chi" "路径将在15秒内开启"
     }
 
     "Paths will be open in 20 seconds ."
