@@ -103,32 +103,32 @@
 
     "< Boot - Mire >"
     {
-        "chi" "泥潭 <>"
+        "chi" "泥潭 <站外圈!>"
     }
 
     "< Boot - Poison >"
     {
-        "chi" "毒气 <>"
+        "chi" "毒气 <动起来!>"
     }
 
     "< Boot - Repair >"
     {
-        "chi" "修复 <>"
+        "chi" "修复 <停止射击!>"
     }
 
     "< Boot - Snow >"
     {
-        "chi" "雪环 <>"
+        "chi" "雪环 <看脚下!>"
     }
 
     "< Boot - Starfall >"
     {
-        "chi" "星落 <>"
+        "chi" "星落 <注意星星!>"
     }
 
     "< Boot - Vortex >"
     {
-        "chi" "旋涡 <>"
+        "chi" "旋涡 <抵抗吸力!>"
     }
 
     "< Enter the Gold range to avoid damage >"
@@ -138,7 +138,7 @@
 
     "< Izzo! >"
     {
-        "chi" "__null__"
+        "chi" "Izzo!!!"
     }
 
     "< Meat - Fire >"
@@ -334,11 +334,6 @@
     "<Hold here>"
     {
         "chi" "保持防守!!"
-    }
-
-    "<Hole here>"
-    {
-        "chi" "__null__"
     }
 
     "<It's safe for the time being...>"
