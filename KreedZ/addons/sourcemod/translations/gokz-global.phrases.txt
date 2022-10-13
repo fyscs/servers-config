@@ -200,6 +200,10 @@
 		"en"		"Your m_yaw value must be less or equal to 0.3 to play on this server"
 		"ru"		"Ваше значение m_yaw должно быть меньше или равно 0.3 для игры на этом сервере."
 	}
+	"Warn Player Not Global Run"
+	{
+		"en"		"{yellow}Warning{grey}: The current map did not pass the Global check. Global times will not save. See {default}!globalcheck{grey} for more information."
+	}
 
 
 	// =====[ GLOBAL TOP MENU ]=====

@@ -21,6 +21,10 @@
 		"chi"		"{darkred}当前没有可用的回放机器人."
 		"ru"		"{darkred}В настоящее время нет доступных ботов воспроизведения."
 	}
+	"No Replay Found"
+	{
+		"en"		"{red}No replay found!"
+	}
 
 
 	// =====[ REPLAY MENU ]=====
