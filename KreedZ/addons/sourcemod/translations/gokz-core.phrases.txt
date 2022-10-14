@@ -53,6 +53,10 @@
 		"chi"		"{grey}你存储了一个存点 (#{default}{1}{grey})."
 		"ru"		"{grey}Вы поставили чекпойнт (#{default}{1}{grey})."
 	}
+	"Anti Checkpoint Area Warning"
+	{
+		"en"		"{yellow}Warning{grey}: Checkpoint created in checkpoint disabled area."
+	}
 	"Can't Checkpoint (Midair)"
 	{
 		"en"		"{darkred}You can't make a checkpoint mid-air."
@@ -115,6 +119,10 @@
 	{
 		"en"		"{darkred}You can't undo because you teleported while in an anti-checkpoint zone."
 	}
+	"Can't Pause (Generic)"
+	{
+		"en"		"{darkred}You can't pause right now."
+	}
 	"Can't Pause (Just Resumed)"
 	{
 		"en"		"{darkred}You can't pause because you just resumed."
@@ -135,6 +143,10 @@
 	"Can't Pause (Anti Pause Area)"
 	{
 		"en"		"{darkred}You can't pause because pausing is disabled in this area."
+	}
+	"Can't Resume (Generic)"
+	{
+		"en"		"{darkred}You can't resume right now."
 	}
 	"Can't Resume (Just Paused)"
 	{
@@ -210,7 +222,18 @@
 		"en"		"{grey}You have unlocked your virtual buttons."
 		"ru"		"{grey}Вы разблокировали свои виртуальные кнопки начала и окончания."
 	}
-
+	"Option - Safeguard - Disable"
+	{
+		"en"		"{grey}Safeguard disabled."
+	}
+	"Option - Safeguard - Enable (NUB)"
+	{
+		"en"		"{grey}Safeguard for {yellow}NUB {grey}runs enabled. You can no longer issue any command that would stop your timer during a valid run."
+	}
+	"Option - Safeguard - Enable (PRO)"
+	{
+		"en"		"{grey}Safeguard for {blue}PRO {grey}runs enabled. You can no longer use teleports or issue any command that would stop your timer during a valid run."
+	}
 
 	// =====[ MODE MENU ]=====
 	"Mode Menu - Title"
@@ -277,6 +300,11 @@
 	{
 		"en"		"Timer button/zone type"
 	}
+	"Options Menu - Safeguard"
+	{
+		"en"		"Run safeguard"
+	}
+
 
 
 	// =====[ OPTION PHRASES ]=====
@@ -291,5 +319,13 @@
 	"Timer Button Zone Type - Both Zones"
 	{
 		"en"		"Both zones"
+	}
+	"Safeguard - Enabled NUB"
+	{
+		"en"		"Enabled (NUB)"
+	}
+	"Safeguard - Enabled PRO"
+	{
+		"en"		"Enabled (PRO)"
 	}
 }
