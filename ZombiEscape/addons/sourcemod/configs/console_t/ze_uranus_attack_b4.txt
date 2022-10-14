@@ -1,0 +1,138 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "[INFO] Control room door openning"
+    {
+        "chi" "**控制室门打开**"
+    }
+
+    "[INFO] Closing in 20 sec"
+    {
+        "chi" "**20秒后关闭**"
+    }
+
+    "[INFO] Closing in 5 sec"
+    {
+        "chi" "**5秒后关闭**"
+    }
+
+    "[INFO] Door opening in 20 sec"
+    {
+        "chi" "**门20秒后打开**"
+    }
+
+    "[INFO] Door opening in 5 sec"
+    {
+        "chi" "**门5秒后打开**"
+    }
+
+    "Map by Raphi"
+    {
+        "chi" "**地图作者:Raphi 地图翻译:海苔@FyS**"
+    }
+
+    "Made for the Mapeadores Zombie Apocalypse Contest"
+    {
+        "chi" "**专为Mapeadores僵尸启示大赛打造**"
+    }
+
+    "[INFO] 3rd crank has been set up"
+    {
+        "chi" "**已设置第三存档**"
+    }
+
+    "[INFO] 2nd crank has been set up"
+    {
+        "chi" "**已设置第二存档**"
+    }
+
+    "[INFO] 1st crank has been set up"
+    {
+        "chi" "**已设置第一存档**"
+    }
+
+    "[INFO] 4th crank has been set up"
+    {
+        "chi" "**已设置第四存档**"
+    }
+
+    "[INFO] Closing door in 10 sec"
+    {
+        "chi" "**门10秒后关闭**"
+    }
+
+    "[INFO] Explosion in 10 sec"
+    {
+        "chi" "**10秒后爆炸**"
+    }
+
+    "[INFO] Explosion in 30 sec"
+    {
+        "chi" "**30秒后爆炸**"
+    }
+
+    "[INFO] Explosion in 1 minute"
+    {
+        "chi" "**60秒后爆炸**"
+    }
+
+    "[INFO] Explosion in 2 minutes"
+    {
+        "chi" "**120秒后爆炸**"
+    }
+
+    "[INFO] Explosion in 3 minutes"
+    {
+        "chi" "**180秒后爆炸**"
+    }
+
+    "[INFO] Door openning in 10 sec"
+    {
+        "chi" "**门10秒后打开**"
+    }
+
+    "[INFO] Ladder going down"
+    {
+        "chi" "**梯子下降**"
+    }
+
+    "[INFO] Tractor Beam enabled in 30 sec"
+    {
+        "chi" "**牵引光束在30秒后开启**"
+    }
+
+    "[INFO] Tractor Beam enabled in 10 sec"
+    {
+        "chi" "**牵引光束在10秒后开启**"
+    }
+
+    "[INFO] Spaceships unlocked"
+    {
+        "chi" "**超级无敌炫酷吊炸天的宇宙飞船解锁**"
+    }
+
+    "[INFO] Door closing in 20 sec"
+    {
+        "chi" "**门20秒后关闭**"
+    }
+
+    "[INFO] Platforms enabled in 20 sec"
+    {
+        "chi" "**20秒后启用平台**"
+    }
+
+    "[INFO] Platforms enabled in 5 sec"
+    {
+        "chi" "**5秒后启用平台**"
+    }
+
+    "[INFO] Door opening in 15 sec"
+    {
+        "chi" "**门15秒后打开**"
+    }
+
+}

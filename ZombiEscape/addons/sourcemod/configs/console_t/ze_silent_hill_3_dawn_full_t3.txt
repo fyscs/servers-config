@@ -1,0 +1,63 @@
+"Console_T"
+{
+    // 可用字段
+    // "blocked" // 屏蔽本句输出
+    // "command" // 服务器执行指令
+    // "countdown" // 添加特殊的独立的倒计时
+
+    "Luckybox_5"
+    {
+        "chi" "**幸运宝盒⑤**"
+    }
+
+    "Luckybox_9"
+    {
+        "chi" "**幸运宝盒⑨**"
+    }
+
+    "Luckybox_10"
+    {
+        "chi" "**幸运宝盒⑩**"
+    }
+
+    "Luckybox_8"
+    {
+        "chi" "**幸运宝盒⑧**"
+    }
+
+    "Luckybox_2"
+    {
+        "chi" "**幸运宝盒②**"
+    }
+
+    "Luckybox_1"
+    {
+        "chi" "**幸运宝盒①**"
+    }
+
+    "Luckybox_3"
+    {
+        "chi" "**幸运宝盒③**"
+    }
+
+    "Luckybox_4"
+    {
+        "chi" "**幸运宝盒④**"
+    }
+
+    "error"
+    {
+        "chi" "**错误**"
+    }
+
+    "Luckybox_6"
+    {
+        "chi" "**幸运宝盒⑥**"
+    }
+
+    "Luckybox_7"
+    {
+        "chi" "**幸运宝盒⑦**"
+    }
+
+}
