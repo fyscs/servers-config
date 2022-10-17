@@ -51,4 +51,9 @@
         "chi" ">>我们来看看有没有SOLO?<<"
     }
 
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:摔伤已关闭"
+    }
+
 }
