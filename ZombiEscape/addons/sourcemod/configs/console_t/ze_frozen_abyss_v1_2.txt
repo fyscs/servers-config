@@ -1,0 +1,345 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** Abyss guardian has casted Ice World **"
+    {
+        "chi" "深渊守卫者使用了冰封世界"
+    }
+
+    "** Classic bow has been picked up **"
+    {
+        "chi" "弓已被拾起!"
+    }
+
+    "** Climb the side now ! **"
+    {
+        "chi" "爬上来!"
+    }
+
+    "** Electric bow has been picked up **"
+    {
+        "chi" "雷电弓已被拾起"
+    }
+
+    "** Explosive bow has been picked up **"
+    {
+        "chi" "爆炸弓已被拾起"
+    }
+
+    "** Heal staff has been picked up **"
+    {
+        "chi" "治疗已被拾起"
+    }
+
+    "** Ice bow has been picked up **"
+    {
+        "chi" "冰冻弓已被拾起"
+    }
+
+    "| 10 more seconds ! |"
+    {
+        "chi" "还有10秒"
+    }
+
+    "| 5 seconds left |"
+    {
+        "chi" "还有5秒"
+        "blocked" "1"
+    }
+
+    "| Abyss guardian gate open in 15 seconds |"
+    {
+        "chi" "深渊守卫的门15秒后开启"
+    }
+
+    "| Abyss guardian has been defeated |"
+    {
+        "chi" "深渊的守卫已被击败"
+    }
+
+    "| Abyss guardian has casted Frozen abyss |"
+    {
+        "chi" "深远的守卫使用了冰封深渊"
+    }
+
+    "| Admin has choosed Extreme mod |"
+    {
+        "chi" ">>管理员启用了EXTREME模组<<"
+    }
+
+    "| Admin has choosed stage 1 |"
+    {
+        "chi" ">>管理员设置了第一关<<"
+    }
+
+    "| Admin has choosed stage 2 |"
+    {
+        "chi" ">>管理员设置了第二关<<"
+    }
+
+    "| All items will spawn in the temple |"
+    {
+        "chi" "所有物品都将于神庙内生成"
+    }
+
+    "| Bridge gate opens in 10 seconds |"
+    {
+        "chi" "大桥的门10秒后开启"
+    }
+
+    "| Castle doors opens in 35 seconds |"
+    {
+        "chi" "城堡的门35秒后开启"
+    }
+
+    "| Church gate opens in 25 seconds |"
+    {
+        "chi" "教堂的门25秒后开启"
+    }
+
+    "| Climb the side of the church and press the lever |"
+    {
+        "chi" "爬到教堂的侧面并按下开关!"
+    }
+
+    "| Defend until the portals opens |"
+    {
+        "chi" "防守直到传送启动"
+    }
+
+    "| Dont let the zombies inside the last room |"
+    {
+        "chi" "不要让僵尸进入最后的房间!!"
+    }
+
+    "| Door opens in 20 seconds |"
+    {
+        "chi" "门20秒后开启"
+    }
+
+    "| Door opens in 30 seconds |"
+    {
+        "chi" "门30秒后开启"
+    }
+
+    "| Dragon has been picked up |"
+    {
+        "chi" "龙息已被拾起.."
+    }
+
+    "| Elevator leaves in 15 seconds |"
+    {
+        "chi" "电梯15秒后离开"
+    }
+
+    "| Final gate opens in 20 seconds |"
+    {
+        "chi" "最终的门20秒后开启..."
+    }
+
+    "| Find another way to enter the castle |"
+    {
+        "chi" "找找其他的路,准备进入城堡"
+    }
+
+    "| Find the lever to open the upper gate |"
+    {
+        "chi" "找到开关来开启上层的门.."
+    }
+
+    "| Gate break in 20 seconds |"
+    {
+        "chi" "门20秒后破开"
+    }
+
+    "| Gate opens in 15 seconds |"
+    {
+        "chi" "门15秒后打开"
+    }
+
+    "| Gate opens in 20 seconds |"
+    {
+        "chi" "门20秒后开启"
+    }
+
+    "| Gate opens in 25 seconds |"
+    {
+        "chi" "门25秒后打开"
+    }
+
+    "| Gate opens in 30 seconds |"
+    {
+        "chi" "这扇门30秒后开启"
+    }
+
+    "| Gates opens in 25 seconds |"
+    {
+        "chi" "这扇门25秒后开启"
+    }
+
+    "| Keep defending a bit more |"
+    {
+        "chi" "在多守一会.."
+    }
+
+    "| Kill him to pass the bridge |"
+    {
+        "chi" "要过桥我们得杀了它!!"
+    }
+
+    "| Kill the dragon before its to late ! |"
+    {
+        "chi" "在一切终结之前杀掉龙!!"
+    }
+
+    "| Ladder shortcut is now open |"
+    {
+        "chi" "梯子近路已开启"
+    }
+
+    "| Left gates opens in 25 seconds |"
+    {
+        "chi" "左边门25秒后开启.."
+    }
+
+    "| Looks like there is a lever up there.. |"
+    {
+        "chi" "看起来上面有个开关..."
+    }
+
+    "| Middle door opens in 25 seconds |"
+    {
+        "chi" "中间的门25秒后打开"
+    }
+
+    "| Middle gate wont open |"
+    {
+        "chi" "中间的门不会开了..."
+    }
+
+    "| Mission failed |"
+    {
+        "chi" ">>任务失败<<"
+    }
+
+    "| Portal gates opens in 15 seconds"
+    {
+        "chi" "传送器的门15秒后开启"
+    }
+
+    "| Press the two levers on the bottom part to open the gate |"
+    {
+        "chi" "拉下底部的两个拉杆来打开门"
+    }
+
+    "| Press the two levers on top to open the portal gates |"
+    {
+        "chi" "拉下上方的两处拉杆,打开传送器的门"
+    }
+
+    "| Press the two levers to open the castle doors |"
+    {
+        "chi" "拉下两处拉杆,打开城堡的门"
+    }
+
+    "| Right side gate opens in 15 seconds |"
+    {
+        "chi" "右边的门15秒后开启"
+    }
+
+    "| Shortcut gate opens in 45 seconds |"
+    {
+        "chi" "近路的门45秒后开启"
+    }
+
+    "| Shortcut opening |"
+    {
+        "chi" "近路已开启"
+    }
+
+    "| Someone is trying to interrupt us |"
+    {
+        "chi" "有人正在尝试打断我们的行动"
+    }
+
+    "| Spider cave door opens in 20 seconds |"
+    {
+        "chi" "蜘蛛巢穴的门20秒后打开"
+    }
+
+    "| Stand on the two plates to open the temple |"
+    {
+        "chi" "站在两处平台上来打开神殿的门"
+    }
+
+    "| Stay in the middle now ! |"
+    {
+        "chi" "呆在中间!!"
+    }
+
+    "| Teleporting everyone in the last room to the castle soon |"
+    {
+        "chi" "即将传送房间里的人到城堡.."
+    }
+
+    "| The portals are open fall back ! |"
+    {
+        "chi" "传送已经开启!撤退!!"
+    }
+
+    "| You successfully escaped the Abyss ! |"
+    {
+        "chi" ">>你成功逃离了深渊!<<"
+    }
+
+    "| YOU WON EXTREME MOD ! |"
+    {
+        "chi" ">>你成功征服了EXTREME模式<<"
+    }
+
+    "| Zombie freezer has been picked up |"
+    {
+        "chi" "僵尸寒冰已被拾起"
+    }
+
+    "| Zombie gravity has been picked up |"
+    {
+        "chi" "僵尸黑洞已被拾起"
+    }
+
+    "| Zombie have reached the objective.. |"
+    {
+        "chi" "僵尸已经达成了目标"
+    }
+
+    "| Zombie teleport in 10 seconds |"
+    {
+        "chi" "僵尸10秒后传送"
+    }
+
+    "| Zombies have reached the last door |"
+    {
+        "chi" "僵尸已经抵达了最后的门"
+    }
+
+    "| Zombies teleport in 10 seconds |"
+    {
+        "chi" "僵尸于10秒后传送"
+    }
+
+    "Special thanks to Moltard, Nostar, Raphi, Kaemon, Luffaren"
+    {
+        "chi" "特别感谢:Moltard,Nostar,Raphi,Kaemon,Luffaren"
+    }
+
+}
