@@ -380,10 +380,6 @@
 		"en"		"{grey}No jumpstats were found!"
 		"ru"		"{grey}Статистика прыжков не найдена!"
 	}
-	"No Replay for Jump"
-	{
-		"en"		"{red}No replay for jump found!"
-	}
 	"Jump Record"
 	{
 		"#format"	"{1:s},{2:s},{3:s},{4:.4f}"

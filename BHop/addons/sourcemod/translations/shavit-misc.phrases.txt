@@ -48,6 +48,26 @@
 		"#format"	"{1:s},{2:s}"
 		"en"		"You are now {1}not hiding{2} players."
 	}
+	"AutoRestartEnabled"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"You will now {1}automatically restart{2} if you are slower than your PB."
+	}
+	"AutoRestartDisabled"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"You will no longer {1}automatically restart{2}."
+	}
+	"AutoRestartTriggered1"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"You were {1}automatically restarted{2} due to being slower than your PB."
+	}
+	"AutoRestartTriggered2"
+	{
+		"#format"	"{1:s},{2:s}"
+		"en"		"Use {1}!autorestart{2} to disable this."
+	}
 	"LackingAccess"
 	{
 		"#format"	"{1:s},{2:s}"
@@ -99,10 +119,14 @@
 	{
 		"en"		"Unable to save due to checkpoint overflow."
 	}
+	"MiscCheckpointOwnerInvalid"
+	{
+		"en"		"The checkpoint's owner is invalid or has disconnected."
+	}
 	"MiscSegmentedCommand"
 	{
 		"#format"	"{1:s},{2:s}"
-		"en"		"Use {1}!cp{2} to re-open the segmented checkpoints menu."
+		"en"		"Use {1}!cp{2} to re-open the checkpoints menu."
 	}
 	// ---------- Menus ---------- //
 	"StopTimerWarning"
@@ -129,6 +153,10 @@
 	{
 		"en"		"No."
 	}
+	"MiscCheckpointNoOtherPlayers"
+	{
+		"en"		"You are alone (also, the server is empty)"
+	}
 	"TeleportMenuTitle"
 	{
 		"en"		"Teleport to:"
@@ -152,8 +180,13 @@
 	}
 	"MiscCheckpointSave"
 	{
-		"#format"	"{1:d}"
-		"en"		"Save checkpoint ({1})"
+		"#format"	"{1:d},{2:d}"
+		"en"		"Save checkpoint ({1}/{2})"
+	}
+	"MiscCheckpointDuplicate"
+	{
+		"#format"	"{1:d},{2:d}"
+		"en"		"Duplicate checkpoint ({1}/{2})"
 	}
 	"MiscCheckpointTeleport"
 	{
@@ -167,6 +200,14 @@
 	"MiscCheckpointNext"
 	{
 		"en"		"Next"
+	}
+	"MiscCheckpointUseOthers"
+	{
+		"en"		"Use another player's checkpoints"
+	}
+	"MiscCheckpointBack"
+	{
+		"en"		"Back to your checkpoints"
 	}
 	"MiscCheckpointReset"
 	{
@@ -204,6 +245,10 @@
 	{
 		"en"        "Edge jump"
 	}
+	"AutogainBasicStrafer"
+	{
+		"en"        "Autogain basic strafer"
+	}
 	"AutoPrestrafe"
 	{
 		"en"        "Auto Prestrafe"
@@ -218,11 +263,11 @@
 	}
 	"Autostrafer_autogain"
 	{
-		"en"        "Velocity (oblivious)"
+		"en"        "Velocity/autogain (oblivious)"
 	}
 	"Autostrafer_autogain_nsl"
 	{
-		"en"        "Velocity (No speed loss) (oblivious)"
+		"en"        "Velocity/autogain (No speed loss) (oblivious)"
 	}
 	"Autostrafer_basic"
 	{

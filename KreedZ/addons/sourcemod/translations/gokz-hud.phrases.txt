@@ -71,6 +71,38 @@
 	{
 		"en"		"{grey}Replay controls are now hidden."
 	}
+	"Option - Dead Strafe - Enable"
+	{
+		"en"		"{grey}The speed text now indicates period with low airstrafe gain."
+	}
+	"Option - Dead Strafe - Disable"
+	{
+		"en"		"{grey}Dead strafe period indicator disabled."
+	}
+	"Option - Show Spectators - Disable"
+	{
+		"en"		"{grey}Spectators are now not shown."
+	}
+	"Option - Show Spectators - Number"
+	{
+		"en"		"{grey}Number of spectators is now shown."
+	}
+	"Option - Show Spectators - Full"
+	{
+		"en"		"{grey}Number and names of spectators are now shown."
+	}
+	"Option - Dynamic Menu - Legacy"
+	{
+		"en"		"{grey}Dynamic menu is set to legacy mode."
+	}
+	"Option - Dynamic Menu - Disable"
+	{
+		"en"		"{grey}Dynamic menu disabled. Every menu option is now selectable."
+	}
+	"Option - Dynamic Menu - Enable"
+	{
+		"en"		"{grey}Dynamic menu enabled. Unavailable options are now unselectable. This option is not recommended with high latency!"
+	}
 
 
 	// =====[ INFO PANEL ]=====
@@ -107,6 +139,16 @@
 
 
 	// =====[ TELEPORT MENU ]=====
+	"TP Menu - Spectators - Full"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Specs ({1}):\n{2}"
+	}
+	"TP Menu - Spectators - Number"
+	{
+		"#format"	"{1:d}"
+		"en"		"Specs: {1}"
+	}
 	"TP Menu - Checkpoint"
 	{
 		"en"		"Checkpoint"
@@ -220,6 +262,10 @@
 		"chi"		"空速文字"
 		"ru"		"Текст скорости"
 	}
+	"Options Menu - Dead Strafe Indicator"
+	{
+		"en"		"Dead strafe period"
+	}
 	"Options Menu - Show Weapon"
 	{
 		"en"		"Show weapon"
@@ -230,7 +276,26 @@
 	{
 		"en"		"Show replay controls"
 	}
-
+	"Options Menu - Update Rate"
+	{
+		"en"		"Update rate"
+	}
+	"Options Menu - Show Spectators"
+	{
+		"en"		"Show spectators"
+	}
+	"Options Menu - Number"
+	{
+		"en"		"Number"
+	}
+	"Options Menu - Number and Names"
+	{
+		"en"		"Number and Names"
+	}
+	"Options Menu - Dynamic Menu"
+	{
+		"en"		"Dynamic menu"
+	}
 
 	// =====[ RACING ]=====
 	"Get Ready"
