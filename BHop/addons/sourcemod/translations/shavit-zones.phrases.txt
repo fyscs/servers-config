@@ -24,15 +24,41 @@
 		"#format"	"{1:s},{2:s}"
 		"en"		"You have to be {1}alive{2} to set your start position."
 	}
-	"SetStartNotInStartZone"
-	{
-		"#format"	"{1:s},{2:s},{3:s},{4:s}"
-		"en"		"You {1}must{2} be in the {3}start zone{4} to use set start."
-	}
 	"DeleteSetStart"
 	{
 		"#format"	"{1:s},{2:s}"
 		"en"		"Start position has been {1}deleted{2}."
+	}
+	"DeleteSetStartMenuTitle"
+	{
+		"en"        "Start position to delete"
+	}
+	// ---------- ZoneHook ---------- //
+	"ZoneHook_Crosshair"
+	{
+		"en"        "Entity under crosshair"
+	}
+	"ZoneHook_Tpto"
+	{
+		"en"        "Teleport to (stops timer)"
+	}
+	"ZoneHook_Draw"
+	{
+		"en"        "Draw beams around entity"
+	}
+	"ZoneHook_Zonetype"
+	{
+		"#format"   "{1:s}"
+		"en"        "Zone type: {1}"
+	}
+	"ZoneHook_Hooktype"
+	{
+		"#format"   "{1:s},{2:s}"
+		"en"        "Hook type: {1} ({2})"
+	}
+	"ZoneHook_Confirm"
+	{
+		"en"        "Go to confirm"
 	}
 	// ---------- Commands ---------- //
 	"StageCommandAlive"
@@ -56,6 +82,11 @@
 	{
 		"#format"	"{1:s},{2:s}"
 		"en"		"You {1}cannot{2} setup mapzones when you're dead."
+	}
+	"ZonesNotSQL"
+	{
+		"#format"   "{1:s},{2:s}"
+		"en"        "You {1}cannot{2} add/edit/delete non-sql zones."
 	}
 	"ZoneCustomSpawnMenuTitle"
 	{
@@ -122,7 +153,7 @@
 	}
 	"ZoneAxis"
 	{
-		"en"		"axis"
+		"en"		"Change Axis"
 	}
 	"ZoneCustomSpawnSuccess"
 	{
@@ -239,6 +270,11 @@
 		"#format"   "{1:f}"
 		"en"        "Gravity scale: {1}"
 	}
+	"ZoneSetSpeedmod"
+	{
+		"#format"   "{1:f}"
+		"en"        "Speedmod: {1}"
+	}
 	"ZoneEnterDataChat"
 	{
 		"en"		"Input your desired data in chat."
@@ -286,6 +322,15 @@
 	{
 		"en"		"Edit a map zone"
 	}
+	"HookZone"
+	{
+		"en"        "Hook a trigger, teleporter, or button."
+	}
+	"HookZone2"
+	{
+		"#format"   "{1:s}"
+		"en"        "Hook {1}"
+	}
 	"ZoneEditTitle"
 	{
 		"en"		"Choose a zone to edit:"
@@ -328,7 +373,7 @@
 	{
 		"en"		"Default"
 	}
-	
+
 	"CustomZone_DisplayType_None"
 	{
 		"en"		"None"
@@ -341,7 +386,7 @@
 	{
 		"en"		"Flat"
 	}
-	
+
 	"CustomZone_Color_White"
 	{
 		"en"		"White"
@@ -409,7 +454,7 @@
 	"ZoneStageEnter"
 	{
 		"#format"	"{1:s},{2:s},{3:d},{4:s},{5:s},{6:s}{7:s}"
-		"en"		"{1}You have reached stage {2}{3}{4} with a time of {5}{6}{7}."
+		"en"		"{1}Stage {2}{3}{4} @ {5}{6}{7} "
 	}
 	"Zone_Start"
 	{
@@ -470,6 +515,10 @@
 	"Zone_Gravity"
 	{
 		"en"		"Gravity Zone"
+	}
+	"Zone_Speedmod"
+	{
+		"en"		"Speedmod Zone"
 	}
 	"Zone_Unknown"
 	{
