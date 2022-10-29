@@ -261,4 +261,13 @@
         "chi" "**>>地图重置于Ze_attackontitan_trotster和aot_trostlos,一些房屋模型来自于暴君2<<**"
     }
 
+    "Monkey threw a stone.Watch out!"
+    {
+        "chi" "兽巨扔了一块石头,注意躲避!"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置: 已关闭摔伤"
+    }
 }
