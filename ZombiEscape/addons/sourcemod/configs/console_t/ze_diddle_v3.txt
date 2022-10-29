@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -1652,4 +1652,63 @@
         "chi" "为了胜利而活着!"
     }
 
+    "hold this room for 20 sec"
+    {
+        "chi" "防守20秒"
+    }
+
+    "the main door is stuck"
+    {
+        "chi" "正门好像卡住了"
+    }
+
+    "wait until we find another way"
+    {
+        "chi" "先守住,等我们找到其他的道路"
+    }
+
+    "we found a secret entrance"
+    {
+        "chi" "快看,我们找到一个隐秘的入口"
+    }
+
+    "go in"
+    {
+        "chi" "润"
+    }
+
+    "THE LIMBO OF SHREK CHOSEN"
+    {
+        "chi" "已选择关卡: 史莱克"
+    }
+
+    "WEEABOO ANNIHILATION CHOSEN"
+    {
+        "chi" "已选择关卡: 二次元"
+    }
+
+    "OMAHA BEACH CHOSEN"
+    {
+        "chi" "已选择关卡: 奥马哈抢滩"
+    }
+
+    "REVENGE OF THE DICKLETT TEMPLE CHOSEN"
+    {
+        "chi" "已选择关卡: 地鼠神殿"
+    }
+
+    "THE VIRUS CHOSEN"
+    {
+        "chi" "已选择关卡: 海龟关"
+    }
+
+    "***DIDDLE EXTREME ACTIVATED***"
+    {
+        "chi" "EX模式已被启用"
+    }
+
+    "***PREPARE FOR ULTIMATE DIDDLING***"
+    {
+        "chi" "为EX模式做好准备"
+    }
 }
