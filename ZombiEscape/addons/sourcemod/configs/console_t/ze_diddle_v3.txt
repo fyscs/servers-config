@@ -1194,10 +1194,9 @@
         "chi" "BOSS攻击 - 跳刀"
     }
 
-    "*Demon Turtle casts 29--;*"
+    "*Demon Turtle casts 29--"
     {
-        "chi" "__null__"
-        "blocked"    "1"
+        "chi" "BOSS攻击 - 平台转换(跳上前面平台,然后再跳回来)"
     }
 
     "*Demon Turtle casts Chill*"
