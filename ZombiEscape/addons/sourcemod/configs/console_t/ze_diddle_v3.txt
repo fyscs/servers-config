@@ -34,21 +34,25 @@
     "***10 SECONDS LEFT***"
     {
         "chi" "大门将在十秒后打开"
+        "blocked" "1"
     }
 
     "***15 SECONDS LEFT***"
     {
         "chi" "大门将在十五秒后打开"
+        "blocked" "1"
     }
 
     "***30 SECONDS LEFT***"
     {
         "chi" "大门将在三十秒后打开"
+        "blocked" "1"
     }
 
     "***5 SECONDS LEFT***"
     {
         "chi" "还剩五秒"
+        "blocked" "1"
     }
 
     "***A POWERFUL MAGICAL SEAL IS BLOCKING YOUR PATH TO VICTORY***"
@@ -1471,8 +1475,7 @@
 
     "===[ ZOMBIE JIHAD ABORTED - BAD/EXPLOIT SPOT ]==="
     {
-        "chi" "__null__"
-        "blocked"    "1"
+        "chi" "===[僵尸圣战拒绝在这种地方爆炸]==="
     }
 
     "> HICHATU"
