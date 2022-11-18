@@ -1,0 +1,139 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "**10 seconds remaining**"
+    {
+        "chi" "还剩10秒"
+    }
+
+    "**20 seconds remaining**"
+    {
+        "chi" "还剩20秒"
+    }
+
+    "**25s**"
+    {
+        "chi" "25s"
+    }
+
+    "**30 seconds remaining**"
+    {
+        "chi" "还剩30秒"
+    }
+
+    "**60 seconds remaining**"
+    {
+        "chi" "还剩60秒"
+    }
+
+    "**Defend 15s**"
+    {
+        "chi" "防守15秒"
+    }
+
+    "**Defend 20s**"
+    {
+        "chi" "防守20秒"
+    }
+
+    "**Defend 25s**"
+    {
+        "chi" "防守25秒"
+    }
+
+    "**Defend 30s**"
+    {
+        "chi" "防守30秒"
+    }
+
+    "**Defend**"
+    {
+        "chi" "防守"
+    }
+
+    "**Do you have enough strength to use me**"
+    {
+        "chi" "你有足够的力量来使用我吗"
+    }
+
+    "**Fire Aspect**"
+    {
+        "chi" "火场"
+    }
+
+    "**fireball(Stepping on the aperture will reduce full screen damage)**"
+    {
+        "chi" "火球(踩在光圈上会减少全屏伤害)"
+    }
+
+    "**Hold here and wait for the rock to break 25s**"
+    {
+        "chi" "守住这里,25秒后岩石破裂"
+    }
+
+    "**If you can defeat me, I will help you with all my strength**"
+    {
+        "chi" "如果你能打败我,我会全力帮助你"
+    }
+
+    "**left**"
+    {
+        "chi" "左边尸笼"
+    }
+
+    "**Let's fight it out, magician**"
+    {
+        "chi" "魔术师,我们决一死战吧"
+    }
+
+    "**Let's uncover the answer to the question in this trial**"
+    {
+        "chi" "让我们在这次审判中揭开这个问题的答案"
+    }
+
+    "**MAP BY runa**"
+    {
+        "chi" "地图作者:runa 汉化:风潇潇"
+    }
+
+    "**middlet**"
+    {
+        "chi" "中间尸笼"
+    }
+
+    "**right**"
+    {
+        "chi" "右边尸笼"
+    }
+
+    "**To be continued**"
+    {
+        "chi" "未完待续"
+    }
+
+    "**Waiting for transmission on the step**"
+    {
+        "chi" "在平台上等待传送"
+    }
+
+    "**Warm Round**"
+    {
+        "chi" "热身回合"
+    }
+
+    "**You defeated me, and I admitted your strength**"
+    {
+        "chi" "你打败了我,我承认了你的实力"
+    }
+
+}
