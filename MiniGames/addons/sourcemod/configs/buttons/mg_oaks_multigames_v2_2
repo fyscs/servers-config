@@ -1,0 +1,140 @@
+"Buttons"
+{
+    // enum /* mode_t */
+
+    // Game_Invalid      = -1,
+    // Game_Guns         = 0, // 对枪
+    // Game_Nade         = 1, // 手雷
+    // Game_Knife        = 2, // 拼刀
+    // Game_Taser        = 3, // 电击枪
+    // Game_Dodgeball    = 4, // 躲避球
+    // Game_RaceCombat   = 5, // Race给枪    LongJump, Bhop, Race, Clmib, Combat
+    // Game_RaceBonus    = 6, // Race刷分    LongJump, Bhop, Race, Clmib, 刷分
+    // Game_Survival     = 7, // 生存        JumpRope, FallingBox etc...
+    // Game_RaceSurvival = 8, // Race生存    LongJump, Bhop, Race, Clmib, Survival
+    // Game_Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
+
+    // mode要选好对应的 
+    // name显示对应的游戏模式 
+
+    "1"
+    {
+        "id"    "1654"
+        "cd"    "360"
+        "mode"  "7"
+        "name"  "天坠"
+    }
+
+    "2"
+    {
+        "id"    "1655"
+        "cd"    "360"
+        "mode"  "0"
+        "name"  "awp"
+    }
+
+    "3"
+    {
+        "id"    "1656"
+        "cd"    "360"
+        "mode"  "7"
+        "name"  "一血足球"
+    }
+
+    "4"
+    {
+        "id"    "1657"
+        "cd"    "360"
+        "mode"  "7"
+        "name"  "一百血足球"
+    }
+
+    "5"
+    {
+        "id"    "1658"
+        "cd"    "360"
+        "mode"  "5"
+        "name"  "闯关1"
+    }
+
+    "6"
+    {
+        "id"    "1659"
+        "cd"    "360"
+        "mode"  "5"
+        "name"  "surf"
+    }
+
+    "7"
+    {
+        "id"    "1660"
+        "cd"    "360"
+        "mode"  "5"
+        "name"  "闯关2"
+    }
+
+    "8"
+    {
+        "id"    "1661"
+        "cd"    "360"
+        "mode"  "2"
+        "name"  "刀战"
+    }
+
+    "9"
+    {
+        "id"    "1662"
+        "cd"    "360"
+        "mode"  "0"
+        "name"  "喷子"
+    }
+
+    "10"
+    {
+        "id"    "1663"
+        "cd"    "360"
+        "mode"  "0"
+        "name"  "1v1沙鹰"
+    }
+
+    "11"
+    {
+        "id"    "1664"
+        "cd"    "360"
+        "mode"  "2"
+        "name"  "刀战2"
+    }
+
+    "12"
+    {
+        "id"    "1665"
+        "cd"    "360"
+        "mode"  "0"
+        "name"  "1V1沙鹰爆头"
+    }
+
+    "13"
+    {
+        "id"    "1666"
+        "cd"    "360"
+        "mode"  "2"
+        "name"  "加速刀战"
+    }
+
+    "14"
+    {
+        "id"    "1667"
+        "cd"    "360"
+        "mode"  "5"
+        "name"  "加速喷子"
+    }
+
+    "15"
+    {
+        "id"    "1668"
+        "cd"    "360"
+        "mode"  "6"
+        "name"  "闯关3"
+    }
+
+}
