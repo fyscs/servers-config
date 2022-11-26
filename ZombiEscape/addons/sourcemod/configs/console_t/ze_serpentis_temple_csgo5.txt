@@ -266,7 +266,7 @@
 
     "*** PORTAL IS READY ! FALL BACK ! ***"
     {
-        "chi" "**可以撤离了!**"
+        "chi" "**传送已经就绪！可以撤离了!**"
     }
 
     "*** PUSH REMAINING ZOMBIES ***"
@@ -447,6 +447,41 @@
     "*** STAGE 5 ***"
     {
         "chi" "**第五关**"
+    }
+
+    "*** Find a way to reach the temple ***"
+    {
+        "chi" "**找到到达神殿的路**"
+    }
+
+    "*** WARMUP ROUND ***"
+    {
+        "chi" "**热身回合**"
+    }
+
+    "*** COVER ! GET TO THE DOOR ! ***"
+    {
+        "chi" "**老司机掩护！到门口去！**"
+    }
+
+    "*** HOLD 20 SECONDS ***"
+    {
+        "chi" "**坚持20秒**"
+    }
+
+    "*** GET ON THE MIDDLE ***"
+    {
+        "chi" "**跳进中间的洞**"
+    }
+
+    "*** ARTIFACT DETECTED ! ***"
+    {
+        "chi" "**检测到水晶！**"
+    }
+
+    "*** THE MISSION WAS A SUCCESS ! ***"
+    {
+        "chi" "**任务完成！祝贺你们！**"
     }
 
 }
