@@ -33,57 +33,57 @@
 
     "** An administrator has set [INSANE] for next round! **"
     {
-        "chi" "** 管理员选择疯狂（INSANE）难度在下一回合 **"
+        "chi" "** 管理员选择疯狂(INSANE)难度在下一回合 **"
     }
 
     "** An administrator has set [EXTREME] for next round! **"
     {
-        "chi" "** 管理员选择极限（EXTREME）难度在下一回合 **"
+        "chi" "** 管理员选择极限(EXTREME)难度在下一回合 **"
     }
 
     "** An administrator has set [HARD] for next round! **"
     {
-        "chi" "** 管理员选择困难（HARD）难度在下一回合 **"
+        "chi" "** 管理员选择困难(HARD)难度在下一回合 **"
     }
 
     "** An administrator has set [NORMAL] for next round! **"
     {
-        "chi" "** 管理员选择普通（NORMAL）难度在下一回合 **"
+        "chi" "** 管理员选择普通(NORMAL)难度在下一回合 **"
     }
 
     "** An administrator has set [EASY] for next round! **"
     {
-        "chi" "** 管理员选择简单（EASY）难度在下一回合 **"
+        "chi" "** 管理员选择简单(EASY)难度在下一回合 **"
     }
 
     "** Congratulations! You have beaten [EASY] **"
     {
-        "chi" "** 恭喜！你已成功征服简单（EASY）难度 **"
+        "chi" "** 恭喜!你已成功征服简单(EASY)难度 **"
     }
 
     "** Congratulations! You have beaten [NORMAL] **"
     {
-        "chi" "** 恭喜！你已成功征服普通（NORMAL）难度 **"
+        "chi" "** 恭喜!你已成功征服普通(NORMAL)难度 **"
     }
 
     "** Congratulations! You have beaten [HARD] **"
     {
-        "chi" "** 恭喜！你已成功征服困难（HARD）难度 **"
+        "chi" "** 恭喜!你已成功征服困难(HARD)难度 **"
     }
 
     "** Congratulations! You have beaten [EXTREME] **"
     {
-        "chi" "** 恭喜！你已成功征服极限（EXTREME）难度 **"
+        "chi" "** 恭喜!你已成功征服极限(EXTREME)难度 **"
     }
 
     "** Congratulations! You have beaten [INSANE] **"
     {
-        "chi" "** 恭喜！你已成功征服疯狂（INSANE）难度 **"
+        "chi" "** 恭喜!你已成功征服疯狂(INSANE)难度 **"
     }
 
     "** Congratulations! You have beaten [ZM] **"
     {
-        "chi" "** 恭喜！你已成功征服zm难度 **"
+        "chi" "** 恭喜!你已成功征服zm难度 **"
     }
 
     "<<< EASY >>>"
@@ -178,12 +178,12 @@
 
     "** Round failed! Zombies have reached the objective! **"
     {
-        "chi" "** 你太怒波了！僵尸比人类更快触发 **"
+        "chi" "** 你太怒波了!僵尸比人类更快触发 **"
     }
 
     "< Any last words? >"
     {
-        "chi" "< 在你死之前还有遗言么？ >"
+        "chi" "< 在你死之前还有遗言么? >"
     }
 
     "< Ugh... Defeated... >"
@@ -198,7 +198,7 @@
 
     "< Fly! >"
     {
-        "chi" "< 滚开！ >"
+        "chi" "< 滚开! >"
     }
 
     "< I've been... Defeated? >"
@@ -208,7 +208,7 @@
 
     "< Impressive! >"
     {
-        "chi" "< 不错！ >"
+        "chi" "< 不错! >"
     }
 
     "< I understand that you've been looking for me. >"
@@ -223,7 +223,7 @@
 
     "< Only the chosen may survive! >"
     {
-        "chi" "< 只有被神选中之人才配活下来！ >"
+        "chi" "< 只有被神选中之人才配活下来! >"
     }
 
     "< Hmm... Pitiful fool. >"
@@ -233,7 +233,7 @@
 
     "< Say goodbye! >"
     {
-        "chi" "< 永别了！ >"
+        "chi" "< 永别了! >"
     }
 
     "< Seems I do not have to hold back. >"
@@ -268,17 +268,17 @@
 
     "** Zombies detected! You lose! **"
     {
-        "chi" "** 僵尸已逃脱...你太怒波了！ **"
+        "chi" "** 僵尸已逃脱...你太怒波了! **"
     }
 
     "** Congratulations! You have beaten the Stage! **"
     {
-        "chi" "** 恭喜！你已成功征服魔晄炉！ **"
+        "chi" "** 恭喜!你已成功征服魔晄炉! **"
     }
 
     "** Next difficulty was chosen by an Administrator! **"
     {
-        "chi" "** 下个难度需要管理员选择！ **"
+        "chi" "** 下个难度需要管理员选择! **"
     }
 
     "** MIMIC Materia has been found. **"
