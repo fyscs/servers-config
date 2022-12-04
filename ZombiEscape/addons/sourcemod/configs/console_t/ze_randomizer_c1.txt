@@ -231,7 +231,7 @@
 
     "***Despite the name, nothing in this level is random***"
     {
-        "chi" "**在这一个小游戏,没有随机,一切都有迹可循 **"
+        "chi" "**在这个小游戏,没有什么是随机的,一切都有迹可循 **"
     }
 
     "***Dont get too close to it***"
@@ -321,7 +321,7 @@
 
     "***I hope everybody's out by now...***"
     {
-        "chi" "**我希望现在大家都能活者出去 **"
+        "chi" "**现在我希望大家都能活着出去 **"
     }
 
     "***Ladder path opens in 5 sec***"
@@ -597,7 +597,7 @@
 
     "***TELEPORTING OUT OF THIS MADNESS IN 25 SECONDS***"
     {
-        "chi" "**离开这里的传送在25秒后 **"
+        "chi" "**25秒后通过传送离开这里 **"
     }
 
     "***The doors are closing***"
@@ -637,12 +637,12 @@
 
     "***The sewer infrastructure is unstable! Better fall back to a better position!***"
     {
-        "chi" "**下水道看上去结构马上就要坍塌了,马上去安全的位置! **"
+        "chi" "**下水道的结构看起来马上就要坍塌了,去安全的位置! **"
     }
 
     "***The sewers are filling with toxins! Evacuate immediately within 10 seconds!***"
     {
-        "chi" "**下水道里面充满了有毒气体,10秒内再不走就为时已晚 **"
+        "chi" "**下水道里面充满了有毒气体,10秒内再不走就寄了! **"
     }
 
     "***THE SIMS STAGE***"
@@ -713,12 +713,12 @@
 
     "***YOU DEFEATED THE GMAN!!!***"
     {
-        "chi" "**我草,历经万千磨难,我们终于打败了游戏管理员!! **"
+        "chi" "**我去,历经万千磨难,我们终于打败了游戏管理员!! **"
     }
 
     "***YOU LOST***"
     {
-        "chi" "**你输了,不会吧,就这水平? **"
+        "chi" "**你输了,不会吧,就这点水平? **"
     }
 
     "***Zombies are held back for 10 seconds. Be prepared!***"
@@ -918,12 +918,12 @@
 
     "<< LETS GO FOR LEVEL 11 >>"
     {
-        "chi" "**你们就去第十一关吧! **"
+        "chi" "**让我们前往第十一关吧! **"
     }
 
     "<< LETS GO FOR LEVEL 6 >>"
     {
-        "chi" "**你们赶紧去第六关吧 **"
+        "chi" "**让我们前往第六关吧 **"
     }
 
     "<< OR GO FOR THE BEAT SABER ENDING >>"
@@ -943,12 +943,12 @@
 
     "<< WHAT A BRAVE TEAM >>"
     {
-        "chi" "**我们超勇超会闯关的啦! **"
+        "chi" "**我们超勇的超会闯关的啦! **"
     }
 
     "<< YOU BEAT 10 LEVELS IN A ROW >>"
     {
-        "chi" "**你们居然在这段时间赢了十个小游戏 **"
+        "chi" "**你们居然在这短短的时间内赢了十个小游戏 **"
     }
 
     "<< YOU BEAT 5 LEVELS IN A ROW >>"
@@ -958,7 +958,7 @@
 
     "<< YOU CAN DECIDE TO CONTINUE >>"
     {
-        "chi" "**你可以决定继续,正所谓百尺竿头更进一步 **"
+        "chi" "**你可以继续前进,正所谓百尺竿头更进一步 **"
     }
 
     "<< YOU CANT FUCKING DECIDE TOGETHER GG >>"
@@ -988,7 +988,7 @@
 
     "<== Today we will test  ==>"
     {
-        "chi" "**今天我将会测测你们的刷分水平 **"
+        "chi" "**今天我将会测测你们的刷分能力 **"
     }
 
     "<== Welcome and again, welcome to the abstract science scaling cover centre ==>"
@@ -1093,12 +1093,12 @@
 
     "OH SHIT"
     {
-        "chi" "**他妈了个B的 **"
+        "chi" "**他妈了个-的 **"
     }
 
     "RANDOMIZING..."
     {
-        "chi" "**随机中 **"
+        "chi" "**随机中...**"
     }
 
     "safe for now... the saferoom entrance is automatically sealed in 30 secs."
@@ -1114,6 +1114,11 @@
     "yeah... you're welcome. 30 second divisions of the hour remaining."
     {
         "chi" "**是啊,不客气,但是你还是要守30秒 **"
+    }
+
+    "<< WATCH OUT THEY ARE ALREADY COMING >>"
+    {
+        "chi" "**小心! 他们已经来了**"
     }
 
 }
