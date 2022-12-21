@@ -53,27 +53,27 @@
 
     "ITEM PICKUP:  ** NPC Soldier has been picked up **"
     {
-        "chi" "NPC士兵已被拾取"
+        "chi" "美国大兵已被拾取"
     }
 
     "ITEM PICKUP:  ** Turret has been picked up **"
     {
-        "chi" "炮塔已被拾取"
+        "chi" "炮台已被拾取"
     }
 
     "ITEM PICKUP:  ** Tank has been picked up! **"
     {
-        "chi" "坦克已被拾取!"
+        "chi" "僵尸坦克已加入战斗!"
     }
 
     "ITEM PICKUP:  ** Inmunizer has been picked up **"
     {
-        "chi" "疫苗已被拾取"
+        "chi" "免疫枪已被拾取"
     }
 
     "ITEM PICKUP:  ** Thunder Gun has been picked up **"
     {
-        "chi" "雷枪已被拾取"
+        "chi" "旋风枪已被拾取"
     }
     
     "ITEM PICKUP:  ** Portal Gun has been picked up **"
@@ -83,22 +83,22 @@
 
     "ITEM PICKUP:  ** Mutator backpack has been picked up **"
     {
-        "chi" "突击队员的背包已被拾取"
+        "chi" "基因包已被拾取"
     }
 
     "ITEM PICKUP:  ** Antlion has been picked up! **"
     {
-        "chi" "A哥已被拾取!"
+        "chi" "蚁狮已加入战斗!"
     }
 
     "ITEM PICKUP:  ** HYPER BOOST (1 USE) PICKED UP **"
     {
-        "chi" "推力(仅一次使用次数) 已被拾取"
+        "chi" "超越极限(仅一次使用次数) 已被拾取"
     }
 
     "ITEM PICKUP:   ** Gaus Weapon has been picked up **"
     {
-        "chi" "电磁射线枪已被拾取"
+        "chi" "高斯枪已被拾取"
     }
 
     "ITEM PICKUP:   ** Mines has been picked up **"
@@ -113,7 +113,7 @@
 
     "ITEM PICKUP:  ** Inmunizer backpack has been picked up **"
     {
-        "chi" "疫苗背包已被拾取"
+        "chi" "免疫装置已被拾取"
     }
 
     "ITEM PICKUP:  ** Team unlimited ammo has been picked up **"
@@ -123,7 +123,7 @@
 
     "ITEM PICKUP:  ** JUGGERNAUT has been picked up! **"
     {
-        "chi" "肉巨人已被拾取!"
+        "chi" "机械狗已加入战斗!"
     }
 
 }
