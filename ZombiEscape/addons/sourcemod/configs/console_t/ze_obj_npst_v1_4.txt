@@ -132,7 +132,7 @@
 
     "<<<The water level is increasing>>>"
     {
-        "chi" "水位正在上水管"
+        "chi" "水位正在上升..."
     }
 
     "<<<The yellow door Area 9 will open in 10 seconds>>>"
@@ -333,6 +333,16 @@
     "[MapRelay]  Set falldamage to 0"
     {
         "chi" "地图设置:已关闭摔伤"
+    }
+
+    "still 20 seconds"
+    {
+        "chi" "还有20秒"
+    }
+
+    "still 30 seconds"
+    {
+        "chi" "还有30秒"
     }
 
 }
