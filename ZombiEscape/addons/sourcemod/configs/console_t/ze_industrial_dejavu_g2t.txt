@@ -1,0 +1,299 @@
+﻿"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "* Vortex zombie has been summoned. Press +USE (E) to activate.*"
+    {
+        "chi" "漩涡僵尸已被召唤"
+    }
+
+    "* Zombie heal has been picked up. Press +USE (E) to activate.*"
+    {
+        "chi" "僵尸奶已被拾取"
+    }
+
+    "* Zombie rage has been picked up. Press +USE (E) to activate.*"
+    {
+        "chi" "僵尸加速已被拾取"
+    }
+
+    "*** ADMIN ENABLED BOSS ***"
+    {
+        "chi" "管理员已启用BOSS"
+    }
+
+    "*** Boat leaves in 40 seconds. ***"
+    {
+        "chi" "船将在40秒后离开"
+    }
+
+    "*** Bunker door opens in 15 seconds. ***"
+    {
+        "chi" "料仓门在15秒后打开"
+    }
+
+    "*** CURRENT MODE: EASY ***"
+    {
+        "chi" "模式：EASY"
+    }
+
+    "*** CURRENT MODE: EXTREME ***"
+    {
+        "chi" "模式：EXTREME"
+    }
+
+    "*** CURRENT MODE: HARD ***"
+    {
+        "chi" "模式：HARD"
+    }
+
+    "*** CURRENT MODE: NORMAL ***"
+    {
+        "chi" "模式：NORMAL"
+    }
+
+    "*** Door closes in 8 seconds! ***"
+    {
+        "chi" "门将在8秒关闭"
+    }
+
+    "*** Door opens in 20 seconds! ***"
+    {
+        "chi" "门将在20秒关闭"
+    }
+
+    "*** EXIT HELP PUSH ACTIVATED ON NORMAL MODE ***"
+    {
+        "chi" "助力推送已激活在NORMAL模式"
+    }
+
+    "*** Freezegun has been picked up. Press +USE (E) to activate. 75 seconds cooldown. "
+    {
+        "chi" "冰冻枪已被拾取"
+    }
+
+    "*** GO BACK! IT'S GONNA BLOW! ***"
+    {
+        "chi" "回去！它会爆炸的"
+    }
+
+    "*** GO! GO! GO! LET'S LEAVE THIS PLACE! ***"
+    {
+        "chi" "去吧！让我们离开这个地方！"
+    }
+
+    "*** GO! GO! GO! MOVE OUT! ***"
+    {
+        "chi" "去吧！离开这里！"
+    }
+
+    "*** Helicopter comes in 30 seconds. ***"
+    {
+        "chi" "直升机在30秒内到达"
+    }
+
+    "*** HELPING PUSHES ACTIVATED ON EASY MODE ***"
+    {
+        "chi" "在EASY模式下启动助力推送"
+    }
+
+    "*** HELPING PUSHES DISABLED ***"
+    {
+        "chi" "助力推送已禁用"
+    }
+
+    "*** Hold the house for 24 seconds! ***"
+    {
+        "chi" "守住房子24秒"
+    }
+
+    "*** HOLD! The bunker will seal in 15 seconds! ***"
+    {
+        "chi" "15秒后掩体就会封闭"
+    }
+
+    "*** HOLD! The door opens in 15 seconds!!! ***"
+    {
+        "chi" "守住！门在15秒后打开"
+    }
+
+    "*** LEVEL CHANGED TO EASY ***"
+    {
+        "chi" "关卡已更改为EASY"
+    }
+
+    "*** LEVEL CHANGED TO EXTREME ***"
+    {
+        "chi" "关卡已更改为EXTREME"
+    }
+
+    "*** LEVEL CHANGED TO HARD ***"
+    {
+        "chi" "关卡已更改为HARD"
+    }
+
+    "*** LEVEL CHANGED TO NORMAL ***"
+    {
+        "chi" "关卡已更改为NORMAL"
+    }
+
+    "*** NO ZOMBIE WEAPONS & SMALL INFECTION ***"
+    {
+        "chi" "没有僵尸神器&小感染"
+    }
+
+    "*** NUKE ACTIVATED BY ADMIN ***"
+    {
+        "chi" "管理员启用处死"
+    }
+
+    "*** OH NOES!!! IT'S A BOSS WITH STRANGELY FAMILIAR LOOKS!!! ***"
+    {
+        "chi" "不！这是一个家族相貌古怪的老板！"
+    }
+
+    "*** Pushgun has been taken. Press +USE (E) to activate. 60 seconds cooldown. ***"
+    {
+        "chi" "推力已被拾取"
+    }
+
+    "*** RANDOM WEAPON SPAWNED BY ADMIN ***"
+    {
+        "chi" "管理员生成随机神器"
+    }
+
+    "*** RANDOM ZOMBIE WEAPON SPAWNED BY ADMIN ***"
+    {
+        "chi" "管理员生成随机僵尸神器"
+    }
+
+    "*** Resist for 10 more seconds! ***"
+    {
+        "chi" "再抵抗10秒"
+    }
+
+    "*** Resist for 30 seconds! ***"
+    {
+        "chi" "再抵抗30秒"
+    }
+
+    "*** RESIST!!! 10 SECONDS!!!. ***"
+    {
+        "chi" "再抵抗10秒"
+    }
+
+    "*** Strangely near door opens in 12 seconds. ***"
+    {
+        "chi" "奇怪的是，门在12秒内打开"
+    }
+
+    "*** That was pure luck! Let's see if you are as lucky on EXTREME mode! ***"
+    {
+        "chi" "那纯粹是运气！让我们看看你在极限模式下是否同样幸运！"
+    }
+
+    "*** The boss has been defeated! ***"
+    {
+        "chi" "BOSS被击败了"
+    }
+
+    "*** The map level will stay on this mode for you to keep playing the hardest difficulty... If you dare. ***"
+    {
+        "chi" "地图级别将保持此模式，以便您继续玩最难的游戏。。。如果你敢"
+    }
+
+    "*** Unbelievable! You won EXTREME mode! ***"
+    {
+        "chi" "难以置信的你赢得了EXTREME模式！"
+    }
+
+    "*** We did it! Moving on to the NORMAL mode! ***"
+    {
+        "chi" "我们做到了！转到NORMAL模式！"
+    }
+
+    "*** Well done! Now it will get interesting on the HARD mode! ***"
+    {
+        "chi" "做得好！现在，它将变得有趣的HARD模式！"
+    }
+
+    "*** Windows that don't have a wooden plank are breakable! ***"
+    {
+        "chi" "没有木板的窗户是易碎的"
+    }
+
+    "*** ZE INDUSTRIAL DEJAVU - ORIGINALY MADE IN ONE DAY ***"
+    {
+        "chi" "ZE工业设备-最初在一天内制造"
+    }
+
+    "*** ZOMBIE WEAPONS & BIG INFECTION ***"
+    {
+        "chi" "僵尸神器&大感染"
+    }
+
+    "*** ZOMBIE WEAPONS & MASSIVE INFECTION ***"
+    {
+        "chi" "僵尸神器&大规模感染"
+    }
+
+    "*** ZOMBIE WEAPONS & NORMAL INFECTION ***"
+    {
+        "chi" "僵尸神器&正常感染"
+    }
+
+    "*** ZOMBIES DETECTED - INVALID VICTORY ***"
+    {
+        "chi" "检测到僵尸-无效胜利"
+    }
+
+    "***Evacuate!!!***"
+    {
+        "chi" "撤离！"
+    }
+
+    "**Flamethrower has been picked up. Press +Use (E) to activate**"
+    {
+        "chi" "喷火器已被拾取"
+    }
+
+    "**Fuel lasts about 10 seconds. **"
+    {
+        "chi" "燃油持续约10秒"
+    }
+
+    "*Ammo Box has been picked up. Press +USE (E) to activate.*"
+    {
+        "chi" "弹药已被拾取"
+    }
+
+    "*It has a 120 seconds cooldown.*"
+    {
+        "chi" "它有120秒的冷却时间"
+    }
+
+    "*It has a 60 seconds cooldown.*"
+    {
+        "chi" "它有60秒的冷却时间"
+    }
+
+    "*It has a 90 seconds cooldown.*"
+    {
+        "chi" "它有90秒的冷却时间"
+    }
+
+    "*Laser wall generator has been picked up. Press +USE (E) to activate.*"
+    {
+        "chi" "激光墙已被拾取"
+    }
+
+}
