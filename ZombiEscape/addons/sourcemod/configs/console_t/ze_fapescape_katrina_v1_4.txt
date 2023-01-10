@@ -519,9 +519,9 @@
         "chi" "还有20秒"
     }
 
-    "[MapRelay]  Set falldamage to 0.2"
+    "[MapRelay]  Set falldamage to 0"
     {
-        "chi" "地图设置:已设置摔伤"
+        "chi" "地图设置:已关闭摔伤"
     }
 
 }
