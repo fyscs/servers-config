@@ -1,0 +1,158 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***   ROTATION BEAM  ***"
+    {
+        "chi" "旋转光束"
+    }
+
+    "***  ARENA IS BREAK NOW  ***"
+    {
+        "chi" "竞技场处于休息中"
+    }
+
+    "***  CROUCH ***"
+    {
+        "chi" "蹲下"
+    }
+
+    "***  NPC ATTACK !!! ***"
+    {
+        "chi" "替身攻击"
+    }
+
+    "***  PUSH INSIDE  ***"
+    {
+        "chi" "吸力"
+    }
+
+    "***  PUSH OUTSIDE  ***"
+    {
+        "chi" "推力"
+    }
+
+    "***  ZOMBIE ATTACK  ***"
+    {
+        "chi" "尸笼"
+    }
+
+    "*** Congratulations, you have won ! ***"
+    {
+        "chi" "祝贺你,你赢了!"
+    }
+
+    "*** Congratulations, you have won this battle ! ***"
+    {
+        "chi" "恭喜你,赢得了这场战斗!"
+    }
+
+    "*** KILL CAT BEFORE IT KILLS YOU ***"
+    {
+        "chi" "喵喵冲撞"
+    }
+
+    "*** LVL ***"
+    {
+        "chi" "__null__"
+		"blocked" "1"
+    }
+
+    "*** Portal open in 30 seconds ***"
+    {
+        "chi" "门在30秒内打开"
+    }
+
+    "*** Press the four levers  to open the portal ***"
+    {
+        "chi" "寻找房间四个控制杆按下以打开入口"
+    }
+
+    "*** RTV ***"
+    {
+        "chi" "__null__"
+		"blocked" "1"
+    }
+
+    "*** Wait 20 sec ! ***"
+    {
+        "chi" "等待20秒"
+    }
+
+    "*** Wait 30 sec ! ***"
+    {
+        "chi" "等待30秒"
+    }
+
+    "*** Wait 40 sec ! ***"
+    {
+        "chi" "等待40秒"
+    }
+
+    "*** Zombies coming in 10 seconds ***"
+    {
+        "chi" "僵尸10秒后出现"
+    }
+
+    "*** Zombies teleport in 10 seconds ***"
+    {
+        "chi" "僵尸在10秒内传送"
+    }
+
+    "<<< MAP BY =LIROY= >>>"
+    {
+        "chi" "作者: =LIROY= 汉化: 小鱼sama@风云社"
+    }
+
+    ">>> PLAYER HAS PICKED UP BAZOOKA <<<"
+    {
+        "chi" "__null__"
+		"blocked" "1"
+    }
+
+    ">>> PLAYER HAS PICKED UP HEAL <<<"
+    {
+        "chi" "__null__"
+		"blocked" "1"
+    }
+
+    ">>> PLAYER HAS PICKED UP TURRET <<<"
+    {
+        "chi" "__null__"
+		"blocked" "1"
+    }
+
+    ">>> PLAYER HAS PICKED UP WIND <<<"
+    {
+        "chi" "__null__"
+		"blocked" "1"
+    }
+
+    ">>> PLAYER USED HEAL <<<"
+    {
+        "chi" "__null__"
+		"blocked" "1"
+    }
+
+    ">>> PLAYER USED LASER <<<"
+    {
+        "chi" "__null__"
+		"blocked" "1"
+    }
+
+    ">>> PLAYER USED WIND <<<"
+    {
+        "chi" "__null__"
+		"blocked" "1"
+    }
+
+}
