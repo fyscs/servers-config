@@ -1,0 +1,192 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "| ? |"
+    {
+        "chi" ">..已终止..<"
+    }
+
+    "| 10 |"
+    {
+        "chi" "还有10秒"
+    }
+
+    "| 15 |"
+    {
+        "chi" "还有15秒"
+    }
+
+    "| 20 |"
+    {
+        "chi" "还有20秒"
+    }
+
+    "| 25 |"
+    {
+        "chi" "还有25秒"
+    }
+
+    "| 30 |"
+    {
+        "chi" "还有30秒"
+        "blocked" "1"
+    }
+
+    "| 35 |"
+    {
+        "chi" "还有35秒"
+        "blocked" "1"
+    }
+
+    "| 40 |"
+    {
+        "chi" "还有40秒"
+        "blocked" "1"
+    }
+
+    "| 45 |"
+    {
+        "chi" "还有45秒"
+        "blocked" "1"
+    }
+
+    "| 5 |"
+    {
+        "chi" "还有5秒"
+        "blocked" "1"
+    }
+
+    "| 50 |"
+    {
+        "chi" "还有50秒"
+        "blocked" "1"
+    }
+
+    "| 55 |"
+    {
+        "chi" "还有55秒"
+        "blocked" "1"
+    }
+
+    "| 60 |"
+    {
+        "chi" "还有60秒"
+        "blocked" "1"
+    }
+
+    "| 65 |"
+    {
+        "chi" "还有65秒"
+    }
+
+    "| 80 SECONDS LEFT |"
+    {
+        "chi" "还有80秒"
+    }
+
+    "| Energy ball |"
+    {
+        "chi" ">人类< 能量球"
+    }
+
+    "| Freeze ball |"
+    {
+        "chi" ">人类< 冰冻球"
+    }
+
+    "| Gravity ball |"
+    {
+        "chi" ">人类< 黑洞球"
+    }
+
+    "| Heal |"
+    {
+        "chi" ">人类< 治疗"
+    }
+
+    "| Loading stage 1.. |"
+    {
+        "chi" ">第一关< 正在加载..."
+    }
+
+    "| Loading stage 2.. |"
+    {
+        "chi" ">第二关< 正在加载..."
+    }
+
+    "| Loading stage 3.. |"
+    {
+        "chi" ">第三关< 正在加载..."
+    }
+
+    "| Loading stage 4.. |"
+    {
+        "chi" ">第四关< 正在加载..."
+    }
+
+    "| Loading stage 5.. |"
+    {
+        "chi" ">第五关< 正在加载..."
+    }
+
+    "| Loading stage 6.. |"
+    {
+        "chi" ">第六关< 正在加载..."
+    }
+
+    "| Shield |"
+    {
+        "chi" ">人类< 护盾"
+    }
+
+    "| SIMULATION FAILED |"
+    {
+        "chi" "你失败了..."
+    }
+
+    "| Square |"
+    {
+        "chi" ">人类< 方块"
+    }
+
+    "| SURVIVE FOR 60 SECONDS |"
+    {
+        "chi" "在这里坚持60秒"
+    }
+
+    "| Zombie energy ball |"
+    {
+        "chi" ">僵尸< 能源"
+    }
+
+    "| Zombie freezeball |"
+    {
+        "chi" ">僵尸< 冰冻"
+    }
+
+    "| Zombie gravity |"
+    {
+        "chi" ">僵尸< 黑洞"
+    }
+
+    "| Zombie heal |"
+    {
+        "chi" ">僵尸< 治疗"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
