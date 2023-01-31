@@ -1,0 +1,207 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** ... I guess we better head back down ***"
+    {
+        "chi" "我猜我们最好赶紧回去..."
+    }
+
+    "*** Difficulty: EASY (2 Loops) ***"
+    {
+        "chi" "简单难度.二轮循环"
+    }
+
+    "*** Difficulty: HARD (6 Loops) ***"
+    {
+        "chi" "困难难度.六轮循环"
+    }
+
+    "*** Difficulty: NORMAL (4 Loops) ***"
+    {
+        "chi" "普通难度.四轮循环"
+    }
+
+    "*** Difficulty: RTV (99 Loops) ***"
+    {
+        "chi" "悟道难度.九十九轮循环,是时候可以考虑换图了"
+    }
+
+    "*** Doors opening in 10 seconds ***"
+    {
+        "chi" "门还有10秒钟开启"
+    }
+
+    "*** Entering Loop 1 ***"
+    {
+        "chi" "正在进入循环.一"
+    }
+
+    "*** Entering Loop 10 ***"
+    {
+        "chi" "正在进入循环.十"
+    }
+
+    "*** Entering Loop 11 ***"
+    {
+        "chi" "正在进入循环.十一"
+    }
+
+    "*** Entering Loop 12 ***"
+    {
+        "chi" "正在进入循环.十二"
+    }
+
+    "*** Entering Loop 13 ***"
+    {
+        "chi" "正在进入循环.十三"
+    }
+
+    "*** Entering Loop 14 ***"
+    {
+        "chi" "正在进入循环.十四"
+    }
+
+    "*** Entering Loop 15 ***"
+    {
+        "chi" "正在进入循环.十五"
+    }
+
+    "*** Entering Loop 16 ***"
+    {
+        "chi" "正在进入循环.十六"
+    }
+
+    "*** Entering Loop 2 ***"
+    {
+        "chi" "正在进入循环.二"
+    }
+
+    "*** Entering Loop 3 ***"
+    {
+        "chi" "正在进入循环.三"
+    }
+
+    "*** Entering Loop 4 ***"
+    {
+        "chi" "正在进入循环.四"
+    }
+
+    "*** Entering Loop 5 ***"
+    {
+        "chi" "正在进入循环.五"
+    }
+
+    "*** Entering Loop 6 ***"
+    {
+        "chi" "正在进入循环.六"
+    }
+
+    "*** Entering Loop 7 ***"
+    {
+        "chi" "正在进入循环.七"
+    }
+
+    "*** Entering Loop 8 ***"
+    {
+        "chi" "正在进入循环.八"
+    }
+
+    "*** Entering Loop 9 ***"
+    {
+        "chi" "正在进入循环.九"
+    }
+
+    "*** Final doors closing in 15 seconds ***"
+    {
+        "chi" "最后的门还有15秒关闭"
+        "blocked" "1"
+    }
+
+    "*** Final doors closing in 30 seconds ***"
+    {
+        "chi" "最后的门还有30秒关闭"
+        "blocked" "1"
+    }
+
+    "*** Final doors closing in 5 seconds ***"
+    {
+        "chi" "最后的门还有5秒关闭"
+        "blocked" "1"
+    }
+
+    "*** Final doors closing in 60 seconds ***"
+    {
+        "chi" "最后的门还有60秒关闭"
+    }
+
+    "*** Kill any remaining zombies ***"
+    {
+        "chi" "清理剩余的僵尸"
+    }
+
+    "*** Lift is not leaving ... ***"
+    {
+        "chi" "升降台并没有离开..."
+    }
+
+    "*** Lift leaving in 15 seconds ***"
+    {
+        "chi" "升降台15秒后离开"
+        "blocked" "1"
+    }
+
+    "*** Lift leaving in 30 seconds ***"
+    {
+        "chi" "升降台30秒后离开"
+    }
+
+    "*** Lift leaving in 5 seconds ***"
+    {
+        "chi" "升降台5秒后离开"
+        "blocked" "1"
+    }
+
+    "*** Map by Soft Serve ***"
+    {
+        "chi" "地图制作: Soft Serve"
+    }
+
+    "*** Survive 15 seconds ***"
+    {
+        "chi" "坚持15秒"
+        "blocked" "1"
+    }
+
+    "*** Survive 30 seconds ***"
+    {
+        "chi" "坚持30秒"
+        "blocked" "1"
+    }
+
+    "*** Survive 5 seconds ***"
+    {
+        "chi" "坚持5秒"
+        "blocked" "1"
+    }
+
+    "*** Survive 60 seconds ***"
+    {
+        "chi" "坚持60秒"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
