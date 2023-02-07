@@ -1196,8 +1196,7 @@
 
     "*Demon Turtle casts 29--;*"
     {
-        "chi" "__null__"
-        "blocked"    "1"
+        "chi" "平台转换(跳上前面平台再跳回来)"
     }
 
     "*Demon Turtle casts Chill*"
@@ -1472,8 +1471,7 @@
 
     "===[ ZOMBIE JIHAD ABORTED - BAD/EXPLOIT SPOT ]==="
     {
-        "chi" "__null__"
-        "blocked"    "1"
+        "chi" "僵尸清真拒绝在这种地方爆炸!!!"
     }
 
     "> HICHATU"
@@ -1677,27 +1675,27 @@
         "chi" "润"
     }
 
-    "THE LIMBO OF SHREK CHOSEN"
+    "***THE LIMBO OF SHREK CHOSEN***"
     {
         "chi" "已选择关卡: 史莱克"
     }
 
-    "WEEABOO ANNIHILATION CHOSEN"
+    "***WEEABOO ANNIHILATION CHOSEN***"
     {
         "chi" "已选择关卡: 二次元"
     }
 
-    "OMAHA BEACH CHOSEN"
+    "***OMAHA BEACH CHOSEN***"
     {
         "chi" "已选择关卡: 奥马哈抢滩"
     }
 
-    "REVENGE OF THE DICKLETT TEMPLE CHOSEN"
+    "***REVENGE OF THE DICKLETT TEMPLE CHOSEN***"
     {
         "chi" "已选择关卡: 地鼠神殿"
     }
 
-    "THE VIRUS CHOSEN"
+    "***THE VIRUS CHOSEN***"
     {
         "chi" "已选择关卡: 海龟关"
     }
