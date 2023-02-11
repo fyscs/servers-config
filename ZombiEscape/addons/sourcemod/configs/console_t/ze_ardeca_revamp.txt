@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -341,12 +341,6 @@
     "This door might open in 5 sec"
     {
         "chi" "**还有5秒**"
-    }
-
-    "Turning on music!"
-    {
-        "chi" "__null__"
-        "blocked"    "1"
     }
 
     "Turning On music!"

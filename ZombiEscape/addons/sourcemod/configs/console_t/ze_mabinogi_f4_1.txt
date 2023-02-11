@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -44,11 +44,6 @@
     "Door opens in 15 seconds ."
     {
         "chi" "还剩15秒开门"
-    }
-
-    "DOOR OPENS IN 15 SECONDS ."
-    {
-        "chi" "大门在15秒内开启"
     }
 
     "Door opens in 20 seconds ."
@@ -104,11 +99,6 @@
     "Paths will be open in 15 seconds ."
     {
         "chi" "路径将在15秒内打开"
-    }
-
-    "PATHS WILL BE OPEN IN 15 SECONDS ."
-    {
-        "chi" "路径将在15秒内开启"
     }
 
     "Paths will be open in 20 seconds ."

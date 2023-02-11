@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -99,11 +99,6 @@
     "***Admin Pressed Kill All Button***"
     {
         "chi" "**侦测到在途的聚变打击**"
-    }
-
-    "***Afk Tp in 10 Seconds***"
-    {
-        "chi" "挂机传送:10秒"
     }
 
     "***AFK Tp in 10 Seconds***"

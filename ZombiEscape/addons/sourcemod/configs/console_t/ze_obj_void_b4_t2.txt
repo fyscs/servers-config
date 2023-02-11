@@ -1,0 +1,624 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "..."
+    {
+        "chi" "hmmmm...."
+    }
+
+    "20 Seconds Remaining. Stay here and defend."
+    {
+        "chi" "还有20秒,守住这里!!"
+    }
+
+    "33%"
+    {
+        "chi" "已完成三分之一"
+    }
+
+    "50 Seconds till the panel gets working. Keep defending the hallways!"
+    {
+        "chi" "控制面板还有50秒恢复作用,保持防守!!"
+    }
+
+    "66%"
+    {
+        "chi" "已完成三分之二"
+    }
+
+    "A Battery should be enough to get the thing running again."
+    {
+        "chi" "看样子再找一块电池塞进去应该就能让这玩意重新跑起来了.."
+    }
+
+    "And make sure to not touch that deadly liquid below..."
+    {
+        "chi" "确保不要接触到下方的有毒液体..."
+    }
+
+    "And Optionally take a quick break at the armory to catch supplies before going into the labs."
+    {
+        "chi" "在进入实验室之前可以到军械库稍做休息,同时也可以补充装备.."
+    }
+
+    "Another side door is opened!"
+    {
+        "chi" "另一扇门已经打开!!"
+    }
+
+    "Best of luck."
+    {
+        "chi" "祝你们好运!!"
+    }
+
+    "Cade this area and defend until we can bring down the wood panel."
+    {
+        "chi" "清理并守住这片区域!给拆下这些木板争取时间!!"
+    }
+
+    "Decontamination Process Started."
+    {
+        "chi" "净化程序已启动!!"
+    }
+
+    "Defend for 1 minutes"
+    {
+        "chi" "守住!还有60秒"
+    }
+
+    "Defend for 30s."
+    {
+        "chi" "在这里守30秒"
+    }
+
+    "Defend for 40s"
+    {
+        "chi" "守住!还有40秒"
+    }
+
+    "Defend here! Door opening in 30 seconds."
+    {
+        "chi" "守住这里!门还有30秒打开"
+    }
+
+    "Defend until we repair it."
+    {
+        "chi" "在我们把这玩意修好前守住!"
+    }
+
+    "Defend yourself!"
+    {
+        "chi" "开始防守!"
+    }
+
+    "Door gave in. Keep moving!"
+    {
+        "chi" "门已破开!!继续前进!!"
+    }
+
+    "Door locked."
+    {
+        "chi" "安全门已上锁!!"
+    }
+
+    "Door opened"
+    {
+        "chi" "门开了!!"
+    }
+
+    "Fall back!"
+    {
+        "chi" ">>撤退!!<<"
+    }
+
+    "Fast Ending Triggered"
+    {
+        "chi" "已自动触发快速结局!!"
+    }
+
+    "Find the main Power Control Room."
+    {
+        "chi" "找到电力主控制室!!"
+    }
+
+    "Find the Main Reactor."
+    {
+        "chi" "找到主反应堆!!"
+    }
+
+    "Gate '2' is gonna close in 10 seconds. Get in!"
+    {
+        "chi" "门二将于10秒后关闭,赶紧进来!!"
+    }
+
+    "Gate '2' is opening..."
+    {
+        "chi" "门二正在开启.."
+    }
+
+    "Gate '2' will open in 1 minute."
+    {
+        "chi" "门二将于60秒后开启!"
+    }
+
+    "GENERATOR STARTUP ACTIVATED."
+    {
+        "chi" "发电机启动流程已激活"
+    }
+
+    "Get Ready to defend."
+    {
+        "chi" "准备防守!!"
+    }
+
+    "Go into that office before the zombies catch up with us."
+    {
+        "chi" "在被追上之前赶紧到那处办公室里面去!!"
+    }
+
+    "Go through the door to your left."
+    {
+        "chi" "出门之后去左边!!"
+    }
+
+    "Go! Get in the control room!"
+    {
+        "chi" "继续前进!到控制室里面去!!"
+    }
+
+    "Here they come!"
+    {
+        "chi" "它们来了!!"
+    }
+
+    "Hold for 40s!"
+    {
+        "chi" "守住!还有40秒"
+    }
+
+    "Hold here until the door opens!"
+    {
+        "chi" "在门开之前守住!!"
+    }
+
+    "Hold here until we can get the Door to open!"
+    {
+        "chi" "在我们把门打开之前守住这里!!"
+    }
+
+    "Hold the Bridge!"
+    {
+        "chi" "守住这座桥!!"
+    }
+
+    "Hold the Cliffside until we can get the door fixed."
+    {
+        "chi" "守住边缘区域!正在想办法打开这扇门!"
+    }
+
+    "Hold the gate until the power comes back"
+    {
+        "chi" "守住大门!电力马上就恢复了!!"
+    }
+
+    "Humans must reach the Core of the facility and destroy the lab"
+    {
+        "chi" "我们必须前往设施的核心位置毁掉整个实验室"
+    }
+
+    "Humans remains : +37"
+    {
+        "chi" "剩余人数: 大于设定值"
+    }
+
+    "Humans remains : -37"
+    {
+        "chi" "剩余人数: 少于设定值"
+    }
+
+    "It seems that the door to the cliffside is locked however.  We're gonna have to take a detour around"
+    {
+        "chi" "看起来前往边缘区域的道路被封锁了,我们得绕路了!"
+    }
+
+    "It seems to have worked."
+    {
+        "chi" "看起来起作用了!!"
+    }
+
+    "It will take a bit to get the button working again"
+    {
+        "chi" "让按钮恢复作用还需要一些时间!!"
+    }
+
+    "Its back! Run through the Door!"
+    {
+        "chi" "尽快穿过这扇门!!"
+    }
+
+    "Its down! Keep moving."
+    {
+        "chi" "保持移动!!"
+    }
+
+    "Its open! Keep going further into the labs."
+    {
+        "chi" "路开了!向实验室内部继续前进!"
+    }
+
+    "Its opening! Get inside first!"
+    {
+        "chi" "门开了!快进来!!"
+    }
+
+    "Its opening! Get running and dont get left behind!"
+    {
+        "chi" "门开了!保持移动不要掉队!!!"
+    }
+
+    "Its opening! Run!"
+    {
+        "chi" "正在开启!!快离开这里!"
+    }
+
+    "Just like a little bit more and we should reach the Research Labs"
+    {
+        "chi" "我们离实验室应该不远了!!"
+    }
+
+    "Keep holding until the door closed!!"
+    {
+        "chi" "保持防守直到门关上!!"
+    }
+
+    "Keep holding until we can get it down"
+    {
+        "chi" "在我们把它搞定之前保持火力!!"
+    }
+
+    "Keep on moving."
+    {
+        "chi" "保持移动!!"
+    }
+
+    "Let's get out here!"
+    {
+        "chi" "让我们离开这里!!"
+    }
+
+    "Lots of zombies are inbound"
+    {
+        "chi" "尸潮来袭!!"
+    }
+
+    "Make sure to not stay behind. The Void will consume those who remain alone."
+    {
+        "chi" "保持移动不要掉队!尸潮会吞噬掉那些离队的人"
+    }
+
+    "Map optimization will be done in final version"
+    {
+        "chi" "地图优化将在最终版本完成"
+    }
+
+    "Map still in beta, feel free to report any issues to me."
+    {
+        "chi" "地图仍处于测试阶段,遇到问题请及时联系解决"
+    }
+
+    "Normal Ending Triggered"
+    {
+        "chi" "已自动触发普通结局"
+    }
+
+    "Oh fuck."
+    {
+        "chi" "哦草!"
+    }
+
+    "Prepare for the next fight.."
+    {
+        "chi" "不要松懈..."
+    }
+
+    "Press both buttons to turn it on!"
+    {
+        "chi" "按下两个按钮来打开阀门!!"
+    }
+
+    "Resist for about 90 seconds"
+    {
+        "chi" "守住!还有大概90秒"
+    }
+
+    "Resist until the Security System is shut off!"
+    {
+        "chi" "守住这里!安全系统下线还需要一点时间"
+    }
+
+    "Shit"
+    {
+        "chi" "搞砸了!!"
+    }
+
+    "Shit."
+    {
+        "chi" "保持警惕!!"
+    }
+
+    "Special thanks to Cloudnine on map guiding"
+    {
+        "chi" "感谢克劳⑨的地图指导"
+    }
+
+    "Speed up activates for zombie, RUSH!"
+    {
+        "chi" "僵尸受影响已经狂暴化,小心!!"
+    }
+
+    "Split up and defend both sides."
+    {
+        "chi" "分开行动!同时防守两边!"
+    }
+
+    "Thanks to Huan Tian's map route improvement, the final version will have a new ending route, and the map will be 150MB in size"
+    {
+        "chi" "感谢幻天的路线优化.最终版本将拥有一条全新结局路线.大小也将进入150MB"
+    }
+
+    "That wont hold them for long."
+    {
+        "chi" "那玩意挡不了它们太久"
+    }
+
+    "The Core Self Destruct sequence will begin in 15 seconds."
+    {
+        "chi" "核心自毁进程15秒后开始"
+    }
+
+    "The Core Self Destruct sequence will begin in few minutes."
+    {
+        "chi" "核心自毁进程将在一段时间后开始"
+    }
+
+    "The Door gave away! Its open!"
+    {
+        "chi" "门开了!"
+    }
+
+    "The door is open."
+    {
+        "chi" "门打开了!"
+    }
+
+    "The door mechanism is burnt"
+    {
+        "chi" "门的传动部分已经烧毁!"
+    }
+
+    "The door on right will be open soon."
+    {
+        "chi" "右边的门即将打开!"
+    }
+
+    "The Door seems to be stuck..."
+    {
+        "chi" "门应该是卡住了..."
+    }
+
+    "The Door will open in 30s"
+    {
+        "chi" "这扇门30秒后打开..."
+    }
+
+    "The doors are unlocked! Activate the eyescanner and keep moving forward!"
+    {
+        "chi" "门已解锁!启动眼球扫描并继续前进!"
+    }
+
+    "The Emergency Generator!"
+    {
+        "chi" "备用发电机!"
+    }
+
+    "The gate will open in 25 seconds. Defend!"
+    {
+        "chi" "大门25秒后开启!保持防守!"
+    }
+
+    "The Generator is working! Get the hell out of here!"
+    {
+        "chi" "发电机开始工作了!快离开这里!!"
+    }
+
+    "The keypad is stuck."
+    {
+        "chi" "按键板卡死了."
+    }
+
+    "The Main Power Control Room is ahead!"
+    {
+        "chi" "电力主控制室就在前面!"
+    }
+
+    "The Reactor self destruct sequence has started!"
+    {
+        "chi" "核心自毁进程已经开始!"
+    }
+
+    "The Security system is down! Open the door and run to the reactor!"
+    {
+        "chi" "安全系统已下线!开门并尽快前往反应堆!"
+    }
+
+    "The Source of the zombie infection..."
+    {
+        "chi" "丧尸危机的源头..."
+    }
+
+    "The System restarted! Open the door and head to the control room!"
+    {
+        "chi" "系统已重启!打开门并前往控制室!"
+    }
+
+    "The Whole system restarted."
+    {
+        "chi" "主控系统已重启!"
+    }
+
+    "There's zombies below"
+    {
+        "chi" "下方有僵尸."
+    }
+
+    "They are here!"
+    {
+        "chi" "它们到这里了!"
+    }
+
+    "They're coming."
+    {
+        "chi" "它们来了.."
+    }
+
+    "This door is open really slow, defend the line!"
+    {
+        "chi" "这扇门启动很慢,守住防线!"
+    }
+
+    "This facility is on the edge of collapsing."
+    {
+        "chi" "设施处于崩溃的边缘."
+    }
+
+    "This is it."
+    {
+        "chi" "就是这里了!"
+    }
+
+    "This is it. The Control Room before the reactor."
+    {
+        "chi" "是这里.反应堆前的控制室"
+    }
+
+    "This is just a reminder that if you still have the old version please make sure delete it as it is not worth to store a 400mb map in your driver"
+    {
+        "chi" "记得检查下map文件夹里的旧版本地图,还是挺占地方的"
+    }
+
+    "This is the entrance to the Core!"
+    {
+        "chi" "守住这处入口!"
+    }
+
+    "This thing is gonna be loud once it starts warming up."
+    {
+        "chi" "这玩意暖机的时候声音还蛮大的.."
+    }
+
+    "Try to look around for one."
+    {
+        "chi" "想办法在附近找一个吧."
+    }
+
+    "Turn the valves to destabilize the core!"
+    {
+        "chi" "扭转阀门使核心超载!"
+    }
+
+    "Watch out the falling debris from the top of the reactor!"
+    {
+        "chi" "小心反应堆上方掉下来的碎片!"
+    }
+
+    "Watch out the pipe!"
+    {
+        "chi" "小心蒸汽管道!"
+    }
+
+    "We are almost on the other side."
+    {
+        "chi" "我们就快到另一边了."
+    }
+
+    "We just need to cross the cliffside and reach the elevator to go to the labs below."
+    {
+        "chi" "我们只需要到穿过悬崖到电梯那就能去下面的实验室了."
+    }
+
+    "We must disable the security systems before we can open the door however."
+    {
+        "chi" "开这扇门之前我们必须要关掉安全系统!"
+    }
+
+    "We must find and destroy the main labs as soon as possible."
+    {
+        "chi" "我们必须尽快找到并摧毁掉主实验室!!"
+    }
+
+    "We need some time to take down the ladder."
+    {
+        "chi" "我们需要点时间把梯子整下来"
+    }
+
+    "We need to configuration both side panel"
+    {
+        "chi" "我们需要设定两边的面板"
+    }
+
+    "We need to find a way to repair it"
+    {
+        "chi" "我们得想个办法把这玩意修好"
+    }
+
+    "Well. It seems safe here. Take a time to rest before.."
+    {
+        "chi" "好吧,看起来这里还挺安全的,应该能休息一会..."
+    }
+
+    "We're almost out of the Storage & Maintenance Wing of the Facility"
+    {
+        "chi" "我们已经快要离开设施的储藏区域了"
+    }
+
+    "We're safe here."
+    {
+        "chi" "这里应该是安全的"
+    }
+
+    "You'll have to go to the Maintenance Area to turn off the power first however."
+    {
+        "chi" "不过我们首先得去储藏区把电闸拉了."
+    }
+
+    "Zombie detected, the doors opening emergency"
+    {
+        "chi" "已检测到丧尸,大门紧急开启"
+    }
+
+    "Stripper Enabled 2022-9-6 #5"
+    {
+        "chi" "已启用Stripper"
+    }
+
+    "still 60 seconds"
+    {
+        "chi" "核心还有60秒融毁"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}

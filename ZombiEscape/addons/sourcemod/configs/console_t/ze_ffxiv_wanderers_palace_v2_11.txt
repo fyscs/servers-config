@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -398,7 +398,7 @@
 
     "***Level:A Realm Reborn set***"
     {
-        "chi" "__null__"
+        "chi" "**关卡: 涅槃之域载入中**"
     }
 
     "***Level:A Realm Reborn***"
@@ -423,7 +423,7 @@
 
     "***Level:Normal set***"
     {
-        "chi" "__null__"
+        "chi" "**难度: 普通模式已设定"
     }
 
     "***Level:Savage"
@@ -433,7 +433,7 @@
 
     "***Level:Savage set***"
     {
-        "chi" "**难度: 疯狂模式已加载**"
+        "chi" "**难度: 疯狂模式已设定**"
     }
 
     "***Level:Secret Type-0***"
@@ -443,7 +443,7 @@
 
     "***Level:type-0 set***"
     {
-        "chi" "**难度: 隐秘载入中**"
+        "chi" "**难度: 隐秘模式已设定**"
     }
 
     "***Location: The Wanderer's Palace***"
@@ -568,22 +568,22 @@
 
     "***The Wanderer's Palace Clear to 10 seconds***"
     {
-        "chi" "__null__"
+        "chi" "浪子神殿将在10s后肃清"
     }
 
     "***The Wanderer's Palace Clear to 20 seconds***"
     {
-        "chi" "__null__"
+        "chi" "浪子神殿将在20s后肃清"
     }
 
     "***The Wanderer's Palace CLEAR***"
     {
-        "chi" "__null__"
+        "chi" "浪子神殿已肃清"
     }
 
     "***The Wanderer's Palace Clear...?***"
     {
-        "chi" "__null__"
+        "chi" "浪子神殿已...肃清?"
     }
 
     "***Wait for 20 seconds ***"

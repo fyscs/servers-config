@@ -1,0 +1,515 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "[A cube has been break]"
+    {
+        "chi" "一处方块已被破坏!!"
+    }
+
+    "[A zombie has speed item]"
+    {
+        "chi" "僵尸已获得加速"
+    }
+
+    "[Admin have select stage 1]"
+    {
+        "chi" "管理员已选择第一关"
+    }
+
+    "[Admin have select stage 2]"
+    {
+        "chi" "管理员已选择第二关"
+    }
+
+    "[Admin have select stage 3]"
+    {
+        "chi" "管理员已选择第三关"
+    }
+
+    "[Admin have select stage RTV]"
+    {
+        "chi" "管理员已选择Stage RTV"
+    }
+
+    "[Admin room is above u]"
+    {
+        "chi" ">>>调关房在你们头上<<<"
+    }
+
+    "[afk tele in 3 secs]"
+    {
+        "chi" "AFK传送3秒后激活"
+    }
+
+    "[Afk teleport in 10 secs]"
+    {
+        "chi" "AFK传送10秒后激活"
+    }
+
+    "[Afk teleport in 13 secs]"
+    {
+        "chi" "AFK传送13秒后激活"
+    }
+
+    "[AFK Teleport will enable soon !!!]"
+    {
+        "chi" "AFK传送即将激活!!!"
+    }
+
+    "[All 4 cube have break DON'T MOVE you will teleport back in 5 secs]"
+    {
+        "chi" "已破坏全部方块,5秒后启动传送!"
+    }
+
+    "[Defend here while the core working]"
+    {
+        "chi" "在核心运行过程中守住这里!!"
+    }
+
+    "[Defend here]"
+    {
+        "chi" "守住这里!!"
+    }
+
+    "[Door for zombie will open soon]"
+    {
+        "chi" "僵尸路即将开启!"
+    }
+
+    "[Door is open GO BACK]"
+    {
+        "chi" "门开了!往回走!!"
+    }
+
+    "[Door open in 30 secs ]"
+    {
+        "chi" "这扇门30秒后开启"
+    }
+
+    "[Door open in 30 secs]"
+    {
+        "chi" "这扇门在30秒后开启"
+    }
+
+    "[Door open in 35 secs]"
+    {
+        "chi" "这扇门在35秒后开启"
+    }
+
+    "[Door will break in 30 secs and Look a telephone we should find a way get up there]"
+    {
+        "chi" "大门30秒后破开,我们得找条路上到那里去!"
+    }
+
+    "[DOOR WILL CLOSE IN 10 SECS!!!!]"
+    {
+        "chi" "门于10秒后关闭"
+    }
+
+    "[Door will open in 25 secs]"
+    {
+        "chi" "这扇门在25秒后开启"
+    }
+
+    "[Door will open in 30 secs]"
+    {
+        "chi" "这扇门30秒后开启"
+    }
+
+    "[Door will open in 35 secs]"
+    {
+        "chi" "门于35秒后开启!!"
+    }
+
+    "[Elevator will go up in 10 secs]"
+    {
+        "chi" "电梯于10秒后上升!!"
+    }
+
+    "[Everybody stand in the tree and u will tele in 10 secs]"
+    {
+        "chi" "站在树的范围内,10秒后启动传送!!"
+    }
+
+    "[Fall back zombie teleport]"
+    {
+        "chi" "撤退!僵尸已传送!"
+    }
+
+    "[Final door closing in 15 sec]"
+    {
+        "chi" "最后的门15秒后关闭!"
+    }
+
+    "[Gate open again soon]"
+    {
+        "chi" "大门即将打开!"
+    }
+
+    "[Gate open in 20 secs]"
+    {
+        "chi" "这扇门20秒后打开"
+    }
+
+    "[Gate will break in 25 secs]"
+    {
+        "chi" "大门25秒后破开"
+    }
+
+    "[Gate will open in 15 secs]"
+    {
+        "chi" "门15秒后打开!"
+    }
+
+    "[Gate will open in 25 secs]"
+    {
+        "chi" "门25秒后打开!"
+    }
+
+    "[Gate will open in 40 secs]"
+    {
+        "chi" "门40秒后打开!"
+    }
+
+    "[Hmm we need those cube working]"
+    {
+        "chi" "Hmmm...我们得让那些方块运行起来!!"
+    }
+
+    "[Hmm we need to break something to open the door]"
+    {
+        "chi" "Hmmm...我们可能得破坏点什么,门才能开"
+    }
+
+    "[I WILL SEE U AGAIN]"
+    {
+        "chi" ">>我会再来找你的<<"
+    }
+
+    "[Increasing zombie speed]"
+    {
+        "chi" "僵尸速度已提升!!"
+    }
+
+    "[Left door open in 15 secs]"
+    {
+        "chi" "左门于15秒后打开"
+    }
+
+    "[Left Door open in 20 secs]"
+    {
+        "chi" "左门于20秒后打开"
+    }
+
+    "[Left Gate will Break in 15 secs]"
+    {
+        "chi" "左边的大门15秒后破开"
+    }
+
+    "[Look a crystal shoot it]"
+    {
+        "chi" "寻找水晶并破坏掉它!!"
+    }
+
+    "[Look the Core]"
+    {
+        "chi" ">>核心在这里<<"
+    }
+
+    "[Look the middle room i think we should go there]"
+    {
+        "chi" "我觉得我们得去那里..."
+    }
+
+    "[Look there are 2  telephones]"
+    {
+        "chi" "那里有两处电话亭..."
+    }
+
+    "[Map made by K-31]"
+    {
+        "chi" "地图作者:K-3-1 文本:xTeruZikk"
+    }
+
+    "[Mapper K-31]"
+    {
+        "chi" "地图作者"
+        "blocked" "1"
+    }
+
+    "[Middle gate will open in 20 secs]"
+    {
+        "chi" "中门20秒后开启"
+    }
+
+    "[Next Gate will open in 10 secs]"
+    {
+        "chi" "下一扇门10秒后开启"
+    }
+
+    "[Only the chosen one may survive]"
+    {
+        "chi" "信我者,得永生"
+    }
+
+    "[Path will open in 50 secs]"
+    {
+        "chi" "路径50秒后开启"
+    }
+
+    "[RESPECT TO ZE_GRAU(For map IDEA]"
+    {
+        "chi" "地图灵感部分来源于Grau"
+    }
+
+    "[Respect to ze_grau(Map idea)]"
+    {
+        "chi" "地图灵感部分来源于Grau"
+    }
+
+    "[Right door open in 10 secs]"
+    {
+        "chi" "右边的门10秒后开启"
+    }
+
+    "[SAY GOOD BYE]"
+    {
+        "chi" ">>说再见吧<<"
+    }
+
+    "[SHOOT IT IF U WANT TO LIVE]"
+    {
+        "chi" "想活下来的话就保持射击!!"
+    }
+
+    "[SHOOT IT]"
+    {
+        "chi" ">>射击!!<<"
+    }
+
+    "[Shoot the black cube]"
+    {
+        "chi" ">>射击黑色的方块<<"
+    }
+
+    "[Shoot the white cube]"
+    {
+        "chi" ">>射击白色的方块<<"
+    }
+
+    "[Special Thanks Excaliber]"
+    {
+        "chi" "特别感谢: Excaliber"
+    }
+
+    "[Stage 1 Complete]"
+    {
+        "chi" ">>第一关已完成<<"
+    }
+
+    "[Stage 1]"
+    {
+        "chi" ">>第一关<<"
+    }
+
+    "[Stage 2 Complete]"
+    {
+        "chi" ">>第二关已完成<<"
+    }
+
+    "[Stage 2]"
+    {
+        "chi" ">>第二关<<"
+    }
+
+    "[Stage 3]"
+    {
+        "chi" ">>第三关<<"
+    }
+
+    "[Stage rtv]"
+    {
+        "chi" ">>RTV<<"
+    }
+
+    "[Tele Zm in 5 secs]"
+    {
+        "chi" "僵尸于5秒后传送"
+    }
+
+    "[Teleport Afk in 10 secs]"
+    {
+        "chi" "AFK传送10秒后激活"
+    }
+
+    "[Teleport Enable in 15 secs]"
+    {
+        "chi" "传送15秒后启动"
+    }
+
+    "[Teleport in 10  secs]"
+    {
+        "chi" "传送10秒后启动"
+    }
+
+    "[Teleport in 20 secs ]"
+    {
+        "chi" "传送20秒后启动"
+    }
+
+    "[Teleport will enable in 20 secs]"
+    {
+        "chi" "传送于20秒后启动"
+    }
+
+    "[Teleport will enable in 30 secs]"
+    {
+        "chi" "传送于30秒后启动"
+    }
+
+    "[Thanks Doan xem for music lv 3]"
+    {
+        "chi" "感谢Doanxem提供BGM"
+    }
+
+    "[Thanks for playing my map]"
+    {
+        "chi" ">>感谢游玩<<"
+    }
+
+    "[Thanks to server Syndoria and tester for test my map]"
+    {
+        "chi" "感谢Syndoria与玩家参与地图测试"
+    }
+
+    "[The core is working again!!]"
+    {
+        "chi" "核心再次运转起来了!"
+    }
+
+    "[The crystal is working wait for 35 secs]"
+    {
+        "chi" "水晶正在运作,还有35秒"
+    }
+
+    "[The second zombie shortcut has open]"
+    {
+        "chi" "僵尸第二条侧路已经开启"
+    }
+
+    "[This is my first map pls enjoy ^-^]"
+    {
+        "chi" "这是我的第一张图,希望玩得开心"
+    }
+
+    "[Wait for 20 secs]"
+    {
+        "chi" "等待20秒"
+    }
+
+    "[Wait for 25 secs]"
+    {
+        "chi" "等待25秒"
+    }
+
+    "[Wait here for 20 secs]"
+    {
+        "chi" "在这里等待20秒"
+    }
+
+    "[Wait here for 26 secs]"
+    {
+        "chi" "在这里等待26秒"
+    }
+
+    "[Wait here]"
+    {
+        "chi" "可能要等一会..."
+    }
+
+    "[We almost there wait for 25 secs]"
+    {
+        "chi" "就快到了,还有25秒"
+    }
+
+    "[We need find a door to keep going]"
+    {
+        "chi" "我们得继续前进..."
+    }
+
+    "[We need the core work again]"
+    {
+        "chi" ""
+    }
+
+    "[We need to find 4 cubes and destroy it]"
+    {
+        "chi" "我们得找到所有的方块,并摧毁掉!!"
+    }
+
+    "[WHAT !?!]"
+    {
+        "chi" "Hmmmmm...."
+    }
+
+    "[WHERE ARE WE ?]"
+    {
+        "chi" "我们这是在哪里?"
+    }
+
+    "[Will continue on my next map]"
+    {
+        "chi" "这一切将在我的下一张图中延续..."
+    }
+
+    "[You have 160 secs to find all cubes and destroy them]"
+    {
+        "chi" "你一共有160秒的时间找到并摧毁所有方块"
+    }
+
+    "[Zombie item spawned]"
+    {
+        "chi" "僵尸物品已生成!"
+    }
+
+    "[Zombie shortcut has broken]"
+    {
+        "chi" "僵尸侧路已被摧毁"
+    }
+
+    "[Zombie tele in 10 secs]"
+    {
+        "chi" "僵尸于10秒后传送"
+    }
+
+    "[Zombie teleport in 10 secs]"
+    {
+        "chi" "僵尸10秒后传送"
+    }
+
+    "[Zombie will free in 10 secs]"
+    {
+        "chi" "僵尸于10秒后释放"
+    }
+
+    "[Zombie will tele in 10 secs]"
+    {
+        "chi" "僵尸将于10秒后传送"
+    }
+
+    "Item now can be use again"
+    {
+        "chi" "神器现在可以继续使用了"
+    }
+
+}

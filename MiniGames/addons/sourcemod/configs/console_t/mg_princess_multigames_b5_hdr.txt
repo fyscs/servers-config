@@ -1,0 +1,304 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "**1**"
+    {
+        "chi" "__keep__"
+    }
+
+    "**2**"
+    {
+        "chi" "__keep__"
+    }
+
+    "**3**"
+    {
+        "chi" "__keep__"
+    }
+
+    "**ARENA (???) HAS BEEN SELECTED**"
+    {
+        "chi" "竞技场(???)已被选择"
+    }
+
+    "**ARENA (AWP)  HAS BEEN SELECTED**"
+    {
+        "chi" "竞技场(大狙)已被选择"
+    }
+
+    "**ARENA (SCOUT) HAS BEEN SELECTED**"
+    {
+        "chi" "竞技场(鸟狙)已被选择"
+    }
+
+    "**BHOP HAS BEEN SELECTED**"
+    {
+        "chi" "连跳已被选择"
+    }
+
+    "**CLIMB HAS BEEN SELECTED*"
+    {
+        "chi" "攀登已被选择"
+    }
+
+    "**DROWNING HAS BEEN SELECTED**"
+    {
+        "chi" "水下激战已被选择"
+    }
+
+    "**FUN HAS BEEN SELECTED**"
+    {
+        "chi" "有趣的游戏已被选择"
+    }
+
+    "**GRENADES HAS BEEN SELECTED**"
+    {
+        "chi" "手雷已被选择"
+    }
+
+    "**HEADSHOT (AK-47) HAS BEEN SELECTED**"
+    {
+        "chi" "AK-47爆头已被选择"
+    }
+
+    "**HEADSHOT (DEAGLE) HAS BEEN SELECTED**"
+    {
+        "chi" "沙鹰爆头已被选择"
+    }
+
+    "**ICESKATE HAS BEEN SELECTED**"
+    {
+        "chi" "滑冰已被选择"
+    }
+
+    "**KNIFE (FAST) HAS BEEN SELECTED**"
+    {
+        "chi" "高速刀战已被选择"
+    }
+
+    "**KNIFE (NORMAL) HAS BEEN SELECTED**"
+    {
+        "chi" "普通刀战已被选择"
+    }
+
+    "**KNIFE (SLOW) HAS BEEN SELECTED**"
+    {
+        "chi" "慢速刀战已被选择"
+    }
+
+    "**LONGJUMP HAS BEEN SELECTED**"
+    {
+        "chi" "长跳已被选择"
+    }
+
+    "**MAP IS NOW SELECTING A MINIGAME**"
+    {
+        "chi" "地图正在选择一个小游戏"
+    }
+
+    "**PUSHCIRCLE HAS BEEN SELECTED**"
+    {
+        "chi" "推圆环已被选择"
+    }
+
+    "**RANDOM WILL BE CHOSEN**"
+    {
+        "chi" "随机将会被选择"
+    }
+
+    "**SHOTGUNS HAS BEEN SELECTED**"
+    {
+        "chi" "喷子已被选择"
+    }
+
+    "**SLIDERACE (EASY) HAS BEEN SELECTED**"
+    {
+        "chi" "滑道竞速(简单)已被选择"
+    }
+
+    "**SLIDERACE (HARD) HAS BEEN SELECTED**"
+    {
+        "chi" "滑道竞速(困难)已被选择"
+    }
+
+    "**Song - Lenkso Cetus**"
+    {
+        "chi" "地图BGM: Lenkso Cetus"
+    }
+
+    "**Song - Popcorn Monstaz**"
+    {
+        "chi" "地图BGM: Popcorn Monstaz"
+    }
+
+    "**Song - TheFatRat Timelapse**"
+    {
+        "chi" "地图BGM: TheFatRat Timelapse"
+    }
+
+    "**Song - TheFatRat Unity**"
+    {
+        "chi" "地图BGM: TheFatRat Unity"
+    }
+
+    "**Song - Virtual Riot Fuck Gravity**"
+    {
+        "chi" "地图BGM: Virtual Riot Fuck Gravity"
+    }
+
+    "**START**"
+    {
+        "chi" "开始"
+    }
+
+    "**STRAFE HAS BEEN SELECTED**"
+    {
+        "chi" "炮轰已被选择"
+    }
+
+    "**YOU'VE CHOSEN ARENA (AWP)**"
+    {
+        "chi" "你选择了大狙竞技场"
+    }
+
+    "**YOU'VE CHOSEN ARENA (SCOUT)**"
+    {
+        "chi" "你选择了鸟狙竞技场"
+    }
+
+    "**YOU'VE CHOSEN BHOP**"
+    {
+        "chi" "你选择了连跳"
+    }
+
+    "**YOU'VE CHOSEN BOMBDROP**"
+    {
+        "chi" "你选择了炸弹掉落"
+    }
+
+    "**YOU'VE CHOSEN CLIMB*"
+    {
+        "chi" "你选择了攀登"
+    }
+
+    "**YOU'VE CHOSEN DEATHCRATE**"
+    {
+        "chi" "你选择了死亡木箱"
+    }
+
+    "**YOU'VE CHOSEN DROWNING**"
+    {
+        "chi" "你选择了水下激战"
+    }
+
+    "**YOU'VE CHOSEN FUN**"
+    {
+        "chi" "你选择了有趣的小游戏"
+    }
+
+    "**YOU'VE CHOSEN GRENADES**"
+    {
+        "chi" "你选择了手雷"
+    }
+
+    "**YOU'VE CHOSEN HEADSHOT (AK47)**"
+    {
+        "chi" "你选择了AK47爆头"
+    }
+
+    "**YOU'VE CHOSEN HEADSHOT (DEAGLE)**"
+    {
+        "chi" "你选择了沙鹰爆头"
+    }
+
+    "**YOU'VE CHOSEN ICESKATE**"
+    {
+        "chi" "你选择了滑冰"
+    }
+
+    "**YOU'VE CHOSEN JUMPROPE**"
+    {
+        "chi" "你选择了跳绳"
+    }
+
+    "**YOU'VE CHOSEN KNIFE (FAST)**"
+    {
+        "chi" "你选择了高速刀战"
+    }
+
+    "**YOU'VE CHOSEN KNIFE (NORMAL)**"
+    {
+        "chi" "你选择了普通刀战"
+    }
+
+    "**YOU'VE CHOSEN LONGJUMP**"
+    {
+        "chi" "你选择了长跳"
+    }
+
+    "**YOU'VE CHOSEN PUSHCIRCLE**"
+    {
+        "chi" "你选择了推圈"
+    }
+
+    "**YOU'VE CHOSEN RANDOM**"
+    {
+        "chi" "你选择了随机"
+    }
+
+    "**YOU'VE CHOSEN SHOTGUNS**"
+    {
+        "chi" "你选择了喷子"
+    }
+
+    "**YOU'VE CHOSEN SLIDERACE (EASY)**"
+    {
+        "chi" "你选择了滑道竞速(简单)"
+    }
+
+    "**YOU'VE CHOSEN SLIDERACE (HARD)**"
+    {
+        "chi" "你选择了滑道竞速(困难)"
+    }
+
+    "**YOU'VE CHOSEN STRAFE**"
+    {
+        "chi" "你选择了炮轰"
+    }
+
+    "**YOU'VE CHOSEN SUPER WALLHACKS**"
+    {
+        "chi" "你选择了超级透视"
+    }
+
+    "**YOU'VE CHOSEN WALLHACKS**"
+    {
+        "chi" "你选择了透视"
+    }
+
+    "**YOU'VE CHOSEN... DICKS?**"
+    {
+        "chi" "你选择了...屌?"
+    }
+
+    "@ Come say hi at steamcommunity.com/id/FactoryNewAnna"
+    {
+        "chi" "来说hi在steamcommunity.com/id/FactoryNewAnna"
+    }
+
+    "@ Map by Princess"
+    {
+        "chi" "地图作者: Princess  地图汉化: resent丶@风云社"
+    }
+
+}

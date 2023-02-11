@@ -1,0 +1,459 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "* Stage I *"
+    {
+        "chi" "关卡一"
+    }
+
+    "* Stage II *"
+    {
+        "chi" "关卡二"
+    }
+
+    "* Stage III *"
+    {
+        "chi" "关卡三"
+    }
+
+    "* Stage IV *"
+    {
+        "chi" "关卡四"
+    }
+
+    "** A player has acquired Electric Magick **"
+    {
+        "chi" "一名玩家获得了闪电魔法"
+    }
+
+    "** A player has acquired Fire Magick **"
+    {
+        "chi" "一名玩家获得了火焰魔法"
+    }
+
+    "** A player has acquired Gold Magick **"
+    {
+        "chi" "一名玩家获得了金环魔法"
+    }
+
+    "** A player has acquired Heal Magick **"
+    {
+        "chi" "一名玩家获得了治疗魔法"
+    }
+
+    "** A player has acquired Ice Magick **"
+    {
+        "chi" "一名玩家获得了寒冰魔法"
+    }
+
+    "** A player has acquired Present Magick **"
+    {
+        "chi" "一名玩家获得了礼物魔法"
+    }
+
+    "** A player has acquired Water Magick **"
+    {
+        "chi" "一名玩家获得了水魔法"
+    }
+
+    "** A player has acquired Wind Magick **"
+    {
+        "chi" "一名玩家获得了狂风魔法"
+    }
+
+    "< A zombie has acquired End Magick >"
+    {
+        "chi" "亡灵获得了终结魔法"
+    }
+
+    "< A zombie has acquired IceFire Magick >"
+    {
+        "chi" "亡灵获得了冰火魔法"
+    }
+
+    "< A zombie has acquired Lure Magick >"
+    {
+        "chi" "亡灵获得了黑洞魔法"
+    }
+
+    "< A zombie has acquired Rise Magick >"
+    {
+        "chi" "亡灵获得了加速魔法"
+    }
+
+    "< A zombie has acquired Shackles Magick >"
+    {
+        "chi" "亡灵获得了虚弱魔法"
+    }
+
+    "< A zombie has acquired Shield Magick >"
+    {
+        "chi" "亡灵获得了护盾魔法"
+    }
+
+    "< Boot - Mire >"
+    {
+        "chi" "泥潭 <站外圈!>"
+    }
+
+    "< Boot - Poison >"
+    {
+        "chi" "毒气 <动起来!>"
+    }
+
+    "< Boot - Repair >"
+    {
+        "chi" "修复 <停止射击!>"
+    }
+
+    "< Boot - Snow >"
+    {
+        "chi" "雪环 <看脚下!>"
+    }
+
+    "< Boot - Starfall >"
+    {
+        "chi" "星落 <注意星星!>"
+    }
+
+    "< Boot - Vortex >"
+    {
+        "chi" "旋涡 <抵抗吸力!>"
+    }
+
+    "< Enter the Gold range to avoid damage >"
+    {
+        "chi" "进入金环范围内可以免受伤害"
+    }
+
+    "< Izzo! >"
+    {
+        "chi" "Izzo!!!"
+    }
+
+    "< Meat - Fire >"
+    {
+        "chi" ">火焰<"
+    }
+
+    "< Meat - Fire of Cure >"
+    {
+        "chi" ">火焰治疗<"
+    }
+
+    "< Meat - Fire of Shield >"
+    {
+        "chi" ">火焰护盾<"
+    }
+
+    "< Meat - Gravity >"
+    {
+        "chi" ">黑洞<"
+    }
+
+    "< Meat - Holy >"
+    {
+        "chi" ">神圣<"
+    }
+
+    "< Meat - Ice Blade >"
+    {
+        "chi" ">冰霜之刃<"
+    }
+
+    "< Meat - Sand Dust >"
+    {
+        "chi" ">沙尘<"
+    }
+
+    "< Meat - Space Cocoon >"
+    {
+        "chi" ">空间转移<"
+    }
+
+    "< Meat - Thunder >"
+    {
+        "chi" ">雷霆<"
+    }
+
+    "< Meat - Ultima >"
+    {
+        "chi" ">终极<"
+    }
+
+    "< Meat - Waters >"
+    {
+        "chi" ">涡漩<"
+    }
+
+    "< Meat - Wind >"
+    {
+        "chi" ">飓风<"
+    }
+
+    "< Soul - Electric >"
+    {
+        "chi" ">电球<"
+    }
+
+    "< Soul - Nibble Away Up >"
+    {
+        "chi" ">啃食<"
+    }
+
+    "< Soul - Rise Nibble Away Up >"
+    {
+        "chi" ">加速啃食<"
+    }
+
+    "< Spider - Ask Spirit >"
+    {
+        "chi" ">灵魂索取<"
+    }
+
+    "< Spider - Dark Light >"
+    {
+        "chi" ">黑暗之光<"
+    }
+
+    "< Spider - Death Star >"
+    {
+        "chi" ">死亡之星<"
+    }
+
+    "< Spider - Gemini >"
+    {
+        "chi" ">双子星<"
+    }
+
+    "< Spider - Heavenly Sin >"
+    {
+        "chi" ">天降罪恶<"
+    }
+
+    "< Spider - Lock Star >"
+    {
+        "chi" ">星之锁<"
+    }
+
+    "< Spider - Sand Wind >"
+    {
+        "chi" ">沙尘暴<"
+    }
+
+    "< Spider - Solution Star >"
+    {
+        "chi" ">星之解<"
+    }
+
+    "< Spider - Time Cocoon >"
+    {
+        "chi" ">时间之茧<"
+    }
+
+    "< Spider - Twins >"
+    {
+        "chi" ">双生<"
+    }
+
+    "<5 seconds>"
+    {
+        "chi" "还有5秒"
+    }
+
+    "<Activate teleport crystal after 15 seconds>"
+    {
+        "chi" "传送水晶15秒后启动"
+    }
+
+    "<Barrier is gone !!>"
+    {
+        "chi" "障碍物已被清除!!"
+    }
+
+    "<Defend until the gate is closed>"
+    {
+        "chi" "在大门关上之前继续防守!!"
+    }
+
+    "<Door will broken in 20 seconds>"
+    {
+        "chi" "门20秒后破开!"
+    }
+
+    "<Door will broken in 25 seconds>"
+    {
+        "chi" "门25秒后破开!"
+    }
+
+    "<Door will open in 20 seconds>"
+    {
+        "chi" "门20秒后打开!"
+    }
+
+    "<Gate will open in 10 seconds>"
+    {
+        "chi" "大门10秒后打开"
+    }
+
+    "<Gate will open in 15 seconds>"
+    {
+        "chi" "大门15秒后打开"
+    }
+
+    "<Gate will open in 20 seconds>"
+    {
+        "chi" "大门20秒后打开"
+    }
+
+    "<Gate will open in 25 seconds>"
+    {
+        "chi" "大门25秒后打开"
+    }
+
+    "<Gate will open in 30 seconds>"
+    {
+        "chi" "大门30秒后打开"
+    }
+
+    "<Gate will open in 35 seconds>"
+    {
+        "chi" "大门35秒后打开"
+    }
+
+    "<Hold here>"
+    {
+        "chi" "保持防守!!"
+    }
+
+    "<It's safe for the time being...>"
+    {
+        "chi" "暂时安全了..."
+    }
+
+    "<Meat wakes up in 10 seconds>"
+    {
+        "chi" "它将于10秒后苏醒!"
+    }
+
+    "<r.i.p 亲 王,气流,P奶A油F泡F芙>"
+    {
+        "chi" "UNO 亲王,气流,奶油泡芙"
+    }
+
+    "<Start in 5 seconds>"
+    {
+        "chi" "将于5秒后开始"
+    }
+
+    "<The crystal is broken?>"
+    {
+        "chi" "水晶被破坏了吗?"
+    }
+
+    "<The door will broken in 10 seconds>"
+    {
+        "chi" "门10秒后打开"
+    }
+
+    "<The gate will open in 15 seconds>"
+    {
+        "chi" "大门15秒后打开"
+    }
+
+    "<The gate will open in 25 seconds>"
+    {
+        "chi" "大门25秒后打开"
+    }
+
+    "<The gate will open in 30 seconds>"
+    {
+        "chi" "大门30秒后打开"
+    }
+
+    "<The gate will open in 35 seconds>"
+    {
+        "chi" "大门35秒后打开"
+    }
+
+    "<The temple will be destroyed in 120 seconds>"
+    {
+        "chi" "神殿将于两分钟后毁灭.."
+    }
+
+    "<The temple will be destroyed in 90 seconds>"
+    {
+        "chi" "神殿将于90秒后毁灭"
+    }
+
+    "<The wall will broken in 20 seconds>"
+    {
+        "chi" "这面墙20秒后破开"
+    }
+
+    "<There seems to be a road under this slate...>"
+    {
+        "chi" "这石板下面似乎有一条暗道..."
+    }
+
+    "<Wait for 15 seconds>"
+    {
+        "chi" "等待15秒"
+    }
+
+    "<Wait for the water to rise>"
+    {
+        "chi" "等待水面升起..."
+    }
+
+    "<You are the map champion!!!>"
+    {
+        "chi" "恭喜你完成了地图!!"
+    }
+
+    "<Zombie Item is Disable>"
+    {
+        "chi" "亡灵物品已被禁用!!"
+    }
+
+    "<Zombie Item is Enable>"
+    {
+        "chi" "亡灵物品已被启用!!"
+    }
+
+    "<Zombies are coming in!>"
+    {
+        "chi" "尸潮来袭!"
+    }
+
+    ">* 10 seconds *<"
+    {
+        "chi" "还有10秒.."
+    }
+
+    ">* 5 seconds *<"
+    {
+        "chi" "还有5秒.."
+    }
+
+    "ZE_Aooka3"
+    {
+        "chi" "龙之殿v3"
+    }
+
+    "Map by vueru"
+    {
+        "chi" "地图作者:vueru 文本翻译:xTeruZikk"
+    }
+
+}

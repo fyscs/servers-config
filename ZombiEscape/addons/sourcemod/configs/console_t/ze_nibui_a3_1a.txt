@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -45,19 +45,9 @@
         "chi" "**僵尸传送:10秒**"
     }
 
-    "***AFK TP in 10 seconds***"
-    {
-        "chi" "**僵尸传送:10秒**"
-    }
-
     "***AFK tp in 15 seconds***"
     {
         "chi" "**僵尸传送:10秒**"
-    }
-
-    "***AFK TP in 15 seconds***"
-    {
-        "chi" "**僵尸传送:15秒**"
     }
 
     "***AFK TP in 20 seconds***"

@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -46,11 +46,6 @@
         "chi" "剩余5秒"
     }
 
-    "***5s left***"
-    {
-        "chi" "剩余5秒"
-    }
-
     "***60s left to trigger towers***"
     {
         "chi" "**60s内离开触发塔**"
@@ -91,11 +86,6 @@
         "chi" "躲避激光"
     }
 
-    "***Dodge The Lasers***"
-    {
-        "chi" "躲避激光"
-    }
-
     "***Dont Trust The White Lasers***"
     {
         "chi" "*****不要相信白色的激光*****"
@@ -112,11 +102,6 @@
     }
 
     "***Door Opens in 5s***"
-    {
-        "chi" "门在5秒后打开"
-    }
-
-    "***Door Opens In 5s***"
     {
         "chi" "门在5秒后打开"
     }
@@ -157,11 +142,6 @@
         "chi" "守住20秒"
     }
 
-    "***Hold For 20s***"
-    {
-        "chi" "**守住20秒**"
-    }
-
     "***Hold for 25s***"
     {
         "chi" "守住25秒"
@@ -187,11 +167,6 @@
         "chi" "作者:W... 汉化:小三@風雲社**"
     }
 
-    "***Map Made by W...***"
-    {
-        "chi" "作者:W... 汉化:小三@風雲社"
-    }
-
     "***Path opens in 15s***"
     {
         "chi" "**路在15秒打开**"
@@ -210,11 +185,6 @@
     "***Paths open in 25s***"
     {
         "chi" "**路在25秒后打开**"
-    }
-
-    "***Paths Open in 25s***"
-    {
-        "chi" "路在25秒后打开"
     }
 
     "***Paths Open in 5s***"
@@ -311,11 +281,6 @@
     "***Teleport in 15s***"
     {
         "chi" "**15秒后传送**"
-    }
-
-    "***Teleport In 15s***"
-    {
-        "chi" "15秒后传送"
     }
 
     "***Teleport in 5s***"

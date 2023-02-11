@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -720,12 +720,6 @@
     "**Try to find a way to get the next core**"
     {
         "chi" "**得想办法到达第二个核心的位置**"
-    }
-
-    "**try to find a way to open the gate**"
-    {
-        "chi" "__null__"
-        "blocked"    "1"
     }
 
     "**Try to find a way to open the gate**"

@@ -1,0 +1,985 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***..TO BEST KOREA!***"
+    {
+        "chi" "来到大头帝国"
+    }
+
+    "***10 SECONDS LEFT***"
+    {
+        "chi" "还剩10秒"
+    }
+
+    "***20 SECONDS LEFT***"
+    {
+        "chi" "还剩10秒"
+    }
+
+    "***5 SECONDS LEFT***"
+    {
+        "chi" "还剩5秒"
+    }
+
+    "***A BOY HAS BLOWN YOU AWAY***"
+    {
+        "chi" "一个大头吹走了你"
+    }
+
+    "***ADMIN ROOM - ALL BABIES***"
+    {
+        "chi" "管理员--所有大头"
+    }
+
+    "***ADMIN ROOM - HEALTH BUFF***"
+    {
+        "chi" "管理员--血量上限提高"
+    }
+
+    "***ADMIN ROOM - KILL ALL***"
+    {
+        "chi" "管理员--猝死玩家"
+    }
+
+    "***ADMIN ROOM - RESET MAP***"
+    {
+        "chi" "管理员--重置地图"
+    }
+
+    "***ADMIN ROOM - STAGE 1***"
+    {
+        "chi" "管理员--第一关"
+    }
+
+    "***ADMIN ROOM - STAGE 2***"
+    {
+        "chi" "管理员--第二关"
+    }
+
+    "***ADMIN ROOM - STAGE 3***"
+    {
+        "chi" "管理员--第三关"
+    }
+
+    "***ADMIN ROOM - STAGE 4***"
+    {
+        "chi" "管理员--第四关"
+    }
+
+    "***ADMIN ROOM - STAGE 5***"
+    {
+        "chi" "管理员--第五关"
+    }
+
+    "***ALLEY GATE IS OPENING IN 15 SECONDS***"
+    {
+        "chi" "小巷的门还有15秒开"
+    }
+
+    "***ALLEY GATE IS OPENING***"
+    {
+        "chi" "小巷的门开了"
+    }
+
+    "***ALLEYWAY GATE IS OPENING IN 20 SECONDS***"
+    {
+        "chi" "小巷的大门还有20秒开"
+    }
+
+    "***ALLEYWAY GATE IS OPENING IN 5 SECONDS***"
+    {
+        "chi" "小巷的大门还有5秒开"
+    }
+
+    "***ALLEYWAY GATE IS OPENING***"
+    {
+        "chi" "小巷的大门开了"
+    }
+
+    "***APARTMENT DOOR OPENING IN 30 SECONDS***"
+    {
+        "chi" "通往真理的门还有30秒开"
+    }
+
+    "***BALLOON DOORS ARE OPENING***"
+    {
+        "chi" "飞艇的内门开了"
+    }
+
+    "***BALLOON DOORS WILL OPEN IN 10 SECONDS***"
+    {
+        "chi" "飞艇的内门还有10秒开放"
+    }
+
+    "***BALLOON DOORS WILL OPEN IN 5 SECONDS***"
+    {
+        "chi" "飞艇的内门还有5秒开放"
+    }
+
+    "***BALLOON IS LEAVING***"
+    {
+        "chi" "飞艇要开了,各位乘客注意"
+    }
+
+    "***BEST KOREA DOOR IS CLOSING IN 5 SECONDS***"
+    {
+        "chi" "大头帝国的城门还有5秒关闭"
+    }
+
+    "***BEST KOREA DOOR IS CLOSING***"
+    {
+        "chi" "大头帝国的门关了"
+    }
+
+    "***BEST KOREA DOOR IS OPENING IN 5 SECONDS***"
+    {
+        "chi" "大头帝国的城门还有5秒打开"
+    }
+
+    "***BIG BEST GATE IS OPENING***"
+    {
+        "chi" "最大最好的门开了"
+    }
+
+    "***BIG BEST GATE OPENING IN 10 SECONDS***"
+    {
+        "chi" "最大最好的门还有10秒开"
+    }
+
+    "***BIG BEST GATE OPENING IN 20 SECONDS***"
+    {
+        "chi" "最大最好的门还有20秒开"
+    }
+
+    "***BIG BEST GATE OPENING IN 5 SECONDS***"
+    {
+        "chi" "最大最好的门还有5秒开"
+    }
+
+    "***BIG BEST GATE OPENING IN 50 SECONDS***"
+    {
+        "chi" "最大最好的门还有50秒开"
+    }
+
+    "***BIG BEST KIM IS PROUD***"
+    {
+        "chi" "大头为你感到骄傲"
+    }
+
+    "***BOMB PLANTED***"
+    {
+        "chi" "炸弹安放"
+    }
+
+    "***COULD YOU PLEASE HELP ME GET RID OF HIM?***"
+    {
+        "chi" "你能帮我摆脱这些吗?"
+    }
+
+    "***DADDY DOOR IS OPENING IN 30 SECONDS***"
+    {
+        "chi" "大头将军居住地还有30秒才能进入"
+    }
+
+    "***DADDY DOOR IS OPENING IN 5 SECONDS***"
+    {
+        "chi" "大头将军居住地还有5秒才能进入"
+    }
+
+    "***DADDY DOOR IS OPENING***"
+    {
+        "chi" "大头将军的门倒向了某处"
+    }
+
+    "***DEFEND AS YOU SEE FIT ALONG THE WAY***"
+    {
+        "chi" "一路上以你认为合适的方式进行防御"
+    }
+
+    "***DEFEND FOR 10 SECONDS***"
+    {
+        "chi" "守住10秒"
+    }
+
+    "***DEFEND FOR 20 SECONDS***"
+    {
+        "chi" "守住20秒"
+    }
+
+    "***DEFEND FOR 30 SECONDS***"
+    {
+        "chi" "守住30秒"
+    }
+
+    "***DEFEND FOR 40 SECONDS***"
+    {
+        "chi" "守住40秒"
+    }
+
+    "***DEFEND FOR 5 SECONDS***"
+    {
+        "chi" "守住5秒"
+    }
+
+    "***DEFEND HARD***"
+    {
+        "chi" "继续防守"
+    }
+
+    "***DESTINATION ETA - 10 SECONDS***"
+    {
+        "chi" "目的地预计到达10秒"
+    }
+
+    "***DESTINATION ETA - 20 SECONDS***"
+    {
+        "chi" "目的地预计到达20秒"
+    }
+
+    "***DESTINATION ETA - 30 SECONDS***"
+    {
+        "chi" "目的地预计到达30秒"
+    }
+
+    "***DESTINATION ETA - 5 SECONDS***"
+    {
+        "chi" "目的地预计到达5秒"
+    }
+
+    "***DESTINATION REACHED***"
+    {
+        "chi" "飞艇的乘务员让我们跳下去"
+    }
+
+    "***DID DADDY HURT YA?***"
+    {
+        "chi" "他们伤害了你?"
+    }
+
+    "***DOOR OPENING IN 10 SECONDS***"
+    {
+        "chi" "门还有10秒开"
+    }
+
+    "***DOOR OPENING IN 5 SECONDS***"
+    {
+        "chi" "门还有5秒开"
+    }
+
+    "***DOUBLE DOOBER GATES ARE OPENING IN 15 SECONDS***"
+    {
+        "chi" "双门还有15秒开"
+    }
+
+    "***DOUBLE DOOBER GATES ARE OPENING IN 30 SECONDS***"
+    {
+        "chi" "双门还有30秒开"
+    }
+
+    "***DOUBLE DOOBER GATES ARE OPENING***"
+    {
+        "chi" "双门开了"
+    }
+
+    "***DRAWBRIDGE IS OPENING IN 40 SECONDS***"
+    {
+        "chi" "吊桥将在40秒放下"
+    }
+
+    "***DRAWBRIDGE IS OPENING IN 5 SECONDS***"
+    {
+        "chi" "吊桥将在5秒放下"
+    }
+
+    "***DRAWBRIDGE IS OPENING***"
+    {
+        "chi" "吊桥放下了"
+    }
+
+    "***ELEVATOR IS COMING IN 10 SECONDS***"
+    {
+        "chi" "电梯10秒离开"
+    }
+
+    "***ELEVATOR IS COMING IN 5 SECONDS***"
+    {
+        "chi" "电梯5秒离开"
+    }
+
+    "***ELEVATOR IS COMING***"
+    {
+        "chi" "电梯上升了"
+    }
+
+    "***ELEVATOR IS LEAVING IN 10 SECONDS***"
+    {
+        "chi" "电梯10秒离开"
+    }
+
+    "***ELEVATOR IS LEAVING IN 20 SECONDS***"
+    {
+        "chi" "电梯20秒离开"
+    }
+
+    "***ELEVATOR IS LEAVING IN 30 SECONDS***"
+    {
+        "chi" "电梯30秒离开"
+    }
+
+    "***ELEVATOR IS LEAVING IN 5 SECONDS***"
+    {
+        "chi" "电梯5秒离开"
+    }
+
+    "***ENJOY THE RIDE WHILE MURDERING***"
+    {
+        "chi" "享受这段旅程"
+    }
+
+    "***FALL BACK***"
+    {
+        "chi" "撤退"
+    }
+
+    "***FATHER GATE IS OPENING IN 20 SECONDS***"
+    {
+        "chi" "两边的门还有20秒开"
+    }
+
+    "***FATHER GATE IS OPENING IN 5 SECONDS***"
+    {
+        "chi" "两边的门还有5秒开"
+    }
+
+    "***FATHER GATE IS OPENING***"
+    {
+        "chi" "两边的门开了"
+    }
+
+    "***GET INSIDE THE SPACE ROCKET***"
+    {
+        "chi" "快进火箭里"
+    }
+
+    "***GET TO THE MIDDLE***"
+    {
+        "chi" "快去中间平台上"
+    }
+
+    "***HAIL BEST KOREA***"
+    {
+        "chi" "叫你们最厉害的那位来吧"
+    }
+
+    "***HANG ON WHILE THE DOOR OPENS***"
+    {
+        "chi" "等到门开"
+    }
+
+    "***HAVE TWO PRINGLES***"
+    {
+        "chi" "前面有两个门走右边门"
+    }
+
+    "***HELLO PEASANTS***"
+    {
+        "chi" "你好,最近过得怎么样"
+    }
+
+    "***I GET SO EMBARRASSED WHEN DADDY IS WATCHING...***"
+    {
+        "chi" "这个人在看我的时候,我好尴尬"
+    }
+
+    "***I HAVE A HARD TIME OPENING UP TO YOU BECAUSE FATHER IS HERE***"
+    {
+        "chi" "为蹦床收集积木"
+    }
+
+    "***IF YOU ARE NAUGHTY YOU WILL DIE***"
+    {
+        "chi" "如果你打错或者乱打,你会死"
+    }
+
+    "***I'M SURE I'LL BE ABLE TO OPEN UP ONCE HE'S GONE***"
+    {
+        "chi" "我相信一旦他走了,我就能敞开心扉"
+    }
+
+    "***INITIALIZING ROCKET TAKEOFF PROCEDURE***"
+    {
+        "chi" "初始化火箭起飞程序"
+    }
+
+    "***IT IS COMING...***"
+    {
+        "chi" "是大头将军来了,做好准备"
+    }
+
+    "***IT MAY TAKE A WHILE TO OPEN IT...***"
+    {
+        "chi" "打开它可能需要一段时间..."
+    }
+
+    "***IT'S BABY BOY KIM***"
+    {
+        "chi" "是大头将军"
+    }
+
+    "***JUST LET THEM THINK FOR A WHILE***"
+    {
+        "chi" "让他们想一会儿"
+    }
+
+    "***KILL ALL THE ZOMBIES***"
+    {
+        "chi" "打死所有僵尸"
+    }
+
+    "***LAGEVATOR IS LEAVING***"
+    {
+        "chi" "它正在离开"
+    }
+
+    "***LIBRARY GATE IS OPENING IN 20 SECONDS***"
+    {
+        "chi" "图书馆门还有20秒开"
+    }
+
+    "***LIBRARY GATE IS OPENING***"
+    {
+        "chi" "图书馆门开了"
+    }
+
+    "***LOWER GATE IS OPENING***"
+    {
+        "chi" "低门开了"
+    }
+
+    "***MAIN GATE IS OPENING IN 15 SECONDS***"
+    {
+        "chi" "主路大门还有15秒开"
+    }
+
+    "***MAIN GATE IS OPENING***"
+    {
+        "chi" "主路门开了"
+    }
+
+    "***MAKE YOUR WAY TO THE BEST KOREAN SPACE ROCKET***"
+    {
+        "chi" "快去火箭里"
+    }
+
+    "***MAP BY LUFFAREN***"
+    {
+        "chi" "地图作者:LUFFAREN   地图翻译:zib1"
+    }
+
+    "***MID GATE IS OPENING***"
+    {
+        "chi" "中间的门开了"
+    }
+
+    "***ONE OF THEM ARE DELAYED DUE TO RAMMING BALANCE***"
+    {
+        "chi" "前面有路"
+    }
+
+    "***OUTER DOOR IS OPENING***"
+    {
+        "chi" "外门开了"
+    }
+
+    "***OUTER DOOR OPENS IN 15 SECONDS***"
+    {
+        "chi" "外门还有15秒开"
+    }
+
+    "***OUTER DOOR OPENS IN 5 SECONDS***"
+    {
+        "chi" "外门还有5秒开"
+    }
+
+    "***OUTER GATE IS OPENING IN 10 SECONDS***"
+    {
+        "chi" "外门还有10秒开"
+    }
+
+    "***OUTER GATE IS OPENING***"
+    {
+        "chi" "外门开了"
+    }
+
+    "***PATH IS OPEN***"
+    {
+        "chi" "岩石炸开了"
+    }
+
+    "***PATH OPENING IN 10 SECONDS***"
+    {
+        "chi" "岩石还有10秒炸开"
+    }
+
+    "***PATH OPENING IN 20 SECONDS***"
+    {
+        "chi" "岩石还有20秒炸开"
+    }
+
+    "***PATH OPENING IN 30 SECONDS***"
+    {
+        "chi" "岩石还有30秒炸开"
+    }
+
+    "***PATH OPENING IN 5 SECONDS***"
+    {
+        "chi" "岩石还有5秒炸开"
+    }
+
+    "***PEOPLE ARE BUYING BBY-COINS LIKE HOTCAKES***"
+    {
+        "chi" "人们正在疯狂购买"
+    }
+
+    "***PLEASE HOLD***"
+    {
+        "chi" "麻烦等下"
+    }
+
+    "***PLEASE HOLD.***"
+    {
+        "chi" "正在查看你的护照"
+    }
+
+    "***PLEASE HOLD..***"
+    {
+        "chi" "正在检查你的行李"
+    }
+
+    "***PLEASE HOLD...***"
+    {
+        "chi" "好的没问题了马上给你开路"
+    }
+
+    "***RAM RANCH WILL WELCOME YOU IN 30 SECONDS***"
+    {
+        "chi" "大头帝国的内门还有30秒开"
+    }
+
+    "***RAM RANCH WILL WELCOME YOU IN 5 SECONDS***"
+    {
+        "chi" "大头帝国的内门还有5秒开"
+    }
+
+    "***RUN FOR IT***"
+    {
+        "chi" "快跑"
+    }
+
+    "***SAY ADIOS TO RAM RANCH***"
+    {
+        "chi" "向它说再见"
+    }
+
+    "***SHOOT THE STINK TO GAIN HP***"
+    {
+        "chi" "开枪打大头的下体能回写"
+    }
+
+    "***SHORTCUT GATE IS OPENING IN 5 SECONDS***"
+    {
+        "chi" "塔顶门将在5秒开"
+    }
+
+    "***SOLDIERS INCOMING***"
+    {
+        "chi" "大头士兵也来了,绕开他们"
+    }
+
+    "***SOLVE THE BEST KOREAN PUZZLE***"
+    {
+        "chi" "进门请答题"
+    }
+
+    "***SOMETHING IS ABOUT TO HAPPEN***"
+    {
+        "chi" "好像有什么事情要发生了"
+    }
+
+    "***SPACE ROCKET DOOR IS OPENING***"
+    {
+        "chi" "火箭舱门正在打开"
+    }
+
+    "***SPACE ROCKET DOOR OPENING IN 10 SECONDS***"
+    {
+        "chi" "火箭舱门还有10秒打开"
+    }
+
+    "***SPACE ROCKET DOOR OPENING IN 20 SECONDS***"
+    {
+        "chi" "火箭舱门还有20秒打开"
+    }
+
+    "***SPACE ROCKET DOOR OPENING IN 5 SECONDS***"
+    {
+        "chi" "火箭舱门还有5秒打开"
+    }
+
+    "***SPACE ROCKET DOOR OPENING IN 60 SECONDS***"
+    {
+        "chi" "火箭舱门还有60秒打开"
+    }
+
+    "***SPONSORED BY PRINGLES***"
+    {
+        "chi" "品客薯片赞助"
+    }
+
+    "***STAGE 1 WON***"
+    {
+        "chi" "第一关胜利"
+    }
+
+    "***STAGE 2 WON***"
+    {
+        "chi" "第二关胜利"
+    }
+
+    "***STAGE 3 WON***"
+    {
+        "chi" "第三关胜利"
+    }
+
+    "***STEP ON THE TRAM PLEASE***"
+    {
+        "chi" "上左边的电车"
+    }
+
+    "***THAT'S ALL FOR NOW - MORE STAGES TO COME***"
+    {
+        "chi" "就这些关卡了,还有更多的关卡以后会出"
+    }
+
+    "***THE BABY SUICIDE RATE IS SKYROCKETING***"
+    {
+        "chi" "这些东西为什么要这么做"
+    }
+
+    "***THE GUARDS IN THE BACK ARE A BIT SLOW***"
+    {
+        "chi" "后面的大头反应有点慢"
+    }
+
+    "***THE INNER RAM DOORS ARE BEING RAMMED OPEN***"
+    {
+        "chi" "跳板的门正在打开"
+    }
+
+    "***THE INNER RAM DOORS WILL OPEN IN 10 SECONDS***"
+    {
+        "chi" "跳板的门还有10秒开"
+    }
+
+    "***THE INNER RAM DOORS WILL OPEN IN 30 SECONDS***"
+    {
+        "chi" "跳板的门还有30秒开"
+    }
+
+    "***THE INNER RAM DOORS WILL OPEN IN 5 SECONDS***"
+    {
+        "chi" "跳板的门还有5秒开"
+    }
+
+    "***THE PLACE WHERE MAGIC HAPPENS***"
+    {
+        "chi" "这里会发生一些奇妙的事情"
+    }
+
+    "***THEY WERE THINKING ABOUT PIZZA***"
+    {
+        "chi" "他们在想你带的披萨为什么这么好吃"
+    }
+
+    "***TRAM IS LEAVING IN 10 SECONDS***"
+    {
+        "chi" "电车还有10秒离开"
+    }
+
+    "***TRAM IS LEAVING IN 5 SECONDS***"
+    {
+        "chi" "电车还有5秒离开"
+    }
+
+    "***TRAM IS LEAVING***"
+    {
+        "chi" "电车走了"
+    }
+
+    "***UPPER GATE IS OPENING***"
+    {
+        "chi" "楼顶的门开了"
+    }
+
+    "***WAIT...***"
+    {
+        "chi" "等等"
+    }
+
+    "***WATCH OUT***"
+    {
+        "chi" "小心"
+    }
+
+    "***WE WILL PROCESS YOUR ENTRY REQUEST***"
+    {
+        "chi" "我们将处理您的入境申请"
+    }
+
+    "***WELCOME MY YOUNG BOYS***"
+    {
+        "chi" "再次欢迎你的到来"
+    }
+
+    "***WELCOME TO BEST KOREA***"
+    {
+        "chi" "欢迎来到大头帝国"
+    }
+
+    "***WELCOME TO RAM RANCH***"
+    {
+        "chi" "欢迎来到大头帝国内部"
+    }
+
+    "***WELCOME TO THE BEST KOREAN BALLOON***"
+    {
+        "chi" "欢迎来到品客薯片大飞艇"
+    }
+
+    "***WELCOME...***"
+    {
+        "chi" "欢迎"
+    }
+
+    "***WHERE DID DADDY DIDDLE YA?***"
+    {
+        "chi" "他们把你弄哪去了?"
+    }
+
+    "***YOU ATE THE PRINGLES***"
+    {
+        "chi" "你吃了口品客薯片"
+    }
+
+    "***YOU BETTER DEFEND HARDER NEXT TIME***"
+    {
+        "chi" "下次你最好更努力地防守"
+    }
+
+    "***YOU DID IT***"
+    {
+        "chi" "你做到了"
+    }
+
+    "***YOU NEED TO EAT SOME PRINGLES***"
+    {
+        "chi" "你需要停下来吃点品客薯片"
+    }
+
+    "***YOU SCUM***"
+    {
+        "chi" "品客薯片特好吃"
+    }
+
+    "***YOU WILL BE SAFE THERE***"
+    {
+        "chi" "我们安全了..暂时??"
+    }
+
+    "***ZOMBIES HAVE RAMMED ONE OF THE PATHS***"
+    {
+        "chi" "僵尸破了一条路"
+    }
+    "***YOUNG BABY KIM IS DEAD***"
+    {
+        "chi" "大头将军倒下了"
+    }
+
+    "***WHAT HAVE YOU DONE...***"
+    {
+        "chi" "你干了些什么,我们不该那样的"
+    }
+
+    "***TAKE SHELTER INSIDE, QUICK!***"
+    {
+        "chi" "算了,快走吧,别管他了"
+    }
+
+    "***ZOMBIES RELEASE IN 5 SECONDS***"
+    {
+        "chi" "僵尸推力还有5秒解除"
+    }
+
+    "***ZOMBIES ARE RELEASED***"
+    {
+        "chi" "僵尸来了"
+    }
+
+    "***DOOR IS CLOSING***"
+    {
+        "chi" "门关了"
+    }
+
+    "surf's up dude"
+    {
+        "chi" "滑翔太简单啦"
+    }
+
+    "***ZOMBIE SURF PROTECTOR IS NOW ACTIVE***"
+    {
+        "chi" "僵尸现在有滑翔保护"
+    }
+
+    "***ZOMBIE SURF PROTECTOR IS NOW REMOVED***"
+    {
+        "chi" "僵尸现在取消滑翔保护"
+    }
+
+    "***DEFEND FOR SOME TIME***"
+    {
+        "chi" "守一会儿"
+    }
+
+    "***THE GATES WILL OPEN IN BALANCED ORDER***"
+    {
+        "chi" "门会按顺序为你开放"
+    }
+
+    "***CASTLE PIECE ADDED (1/6)***"
+    {
+        "chi" "积木收集程度(1/6)"
+    }
+
+    "***CASTLE PIECE ADDED (2/6)***"
+    {
+        "chi" "积木收集程度(2/6)"
+    }
+
+    "***CASTLE PIECE ADDED (3/6)***"
+    {
+        "chi" "积木收集程度(3/6)"
+    }
+
+    "***CASTLE PIECE ADDED (4/6)***"
+    {
+        "chi" "积木收集程度(4/6)"
+    }
+        
+    "***CASTLE PIECE ADDED (5/6)***"
+    {
+        "chi" "积木收集程度(5/6)"
+    }
+
+    "***CASTLE PIECE ADDED (6/6)***"
+    {
+        "chi" "积木收集程度(6/6)"
+    }
+
+    "***THE CASTLE HAS BEEN COMPLETED!***"
+    {
+        "chi" "蹦床修好了"
+    }
+
+    "***JUMP THE SORROWS AWAY, MY CHILDREN***"
+    {
+        "chi" "在碰床上尽情跳跃吧"
+    }
+
+    "***BONUS: each jump damages all gravestones***"
+    {
+        "chi" "奖励:每一次跳跃都会为门开增加概率"
+    }
+
+    "***DO YOU WANT SOME PRINGLES?***"
+    {
+        "chi" "你想吃点品客薯片吗"
+    }
+
+    "***LET ME ROLL TO YOU***"
+    {
+        "chi" "我来给你一些"
+    }
+
+    "***EAT ME DADDY***"
+    {
+        "chi" "把我吃了,爸爸"
+    }
+
+    "***MISSILE SILO DOOR OPENS IN 60 SECONDS***"
+    {
+        "chi" "中控室将在60秒打开"
+    }
+
+    "***BE SURE TO DEFEND HARD***"
+    {
+        "chi" "一定要在前面守住"
+    }
+
+    "***MISSILE SILO DOOR OPENS IN 30 SECONDS***"
+    {
+        "chi" "中控室将在60秒打开"
+    }
+
+    "***MISSILE SILO DOOR OPENS IN 20 SECONDS***"
+    {
+        "chi" "中控室将在60秒打开"
+    }
+
+    "***MISSILE SILO DOOR OPENS IN 10 SECONDS***"
+    {
+        "chi" "中控室将在10秒打开
+    }
+
+    "***PRINGLES IS BACK!***"
+    {
+        "chi" "品客薯片它回来了"
+    }
+
+    "***QUICK, CLIMB THE LADDER!***"
+    {
+        "chi" "快爬上梯子!!!!"
+    }
+
+    "***SHORTCUT GATE IS OPENING IN 10 SECONDS***"
+    {
+        "chi" "塔顶门将在10秒开"
+    }
+
+    "***SHORTCUT GATE IS OPENING***"
+    {
+        "chi" "塔顶门开了"
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

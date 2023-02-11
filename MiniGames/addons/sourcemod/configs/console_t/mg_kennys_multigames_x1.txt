@@ -1,0 +1,284 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "[-- 1 --]"
+    {
+        "chi" "__keep__"
+    }
+
+    "[-- 100HP chosen --]"
+    {
+        "chi" "选择100HP"
+    }
+
+    "[-- 150HP On --]"
+    {
+        "chi" "150HP模式启动"
+    }
+
+    "[-- 2 --]"
+    {
+        "chi" "__keep__"
+    }
+
+    "[-- 3 --]"
+    {
+        "chi" "__keep__"
+    }
+
+    "[-- 4 --]"
+    {
+        "chi" "__keep__"
+    }
+
+    "[-- 5 --]"
+    {
+        "chi" "__keep__"
+    }
+
+    "[-- 50HP chosen --]"
+    {
+        "chi" "选择50HP"
+    }
+
+    "[-- Audiomachine - Disruption --]"
+    {
+        "chi" "地图BGM: Disruption "
+    }
+
+    "[-- Audiomachine - Lost Raiders --]"
+    {
+        "chi" "地图BGM: Lost Raiders"
+    }
+
+    "[-- BATTLESHIP --]"
+    {
+        "chi" "战舰"
+    }
+
+    "[-- BHOP --]"
+    {
+        "chi" "连跳"
+    }
+
+    "[-- BUYZONE --]"
+    {
+        "chi" "购买区域"
+    }
+
+    "[-- CLIMB --]"
+    {
+        "chi" "攀登"
+    }
+
+    "[-- Destroy the melons --]"
+    {
+        "chi" "摧毁这些西瓜"
+    }
+
+    "[-- Flogging Molly - Drunken Lullabies --]"
+    {
+        "chi" "地图BGM: Drunken Lullabies"
+    }
+
+    "[-- FOOTBALL --]"
+    {
+        "chi" "足球"
+    }
+
+    "[-- Get into the middle of the Spawn --]"
+    {
+        "chi" "前往出生地的中间"
+    }
+
+    "[-- Gravity On --]"
+    {
+        "chi" "重力启动"
+    }
+
+    "[-- GRENADE --]"
+    {
+        "chi" "手雷战"
+    }
+
+    "[-- HEADSHOT --]"
+    {
+        "chi" "沙鹰爆头"
+    }
+
+    "[-- Invis On --]"
+    {
+        "chi" "隐身模式启动"
+    }
+
+    "[-- KNIFE --]"
+    {
+        "chi" "刀战"
+    }
+
+    "[-- Map by KeNnY1337 --]"
+    {
+        "chi" "地图作者: KeNnY1337   地图汉化: resent丶@风云社"
+    }
+
+    "[-- MINIGOLF --]"
+    {
+        "chi" "迷你高尔夫"
+    }
+
+    "[-- Pendulum - The Terminal --]"
+    {
+        "chi" "__null__"
+    }
+
+    "[-- PLANTS VS ZOMBIES --]"
+    {
+        "chi" "植物大战僵尸"
+    }
+
+    "[-- POKEMONARENA --]"
+    {
+        "chi" "宝可梦竞技场"
+    }
+
+    "[-- RACE --]"
+    {
+        "chi" "竞速"
+    }
+
+    "[-- Sabre Dance - Aram Khachaturian --]"
+    {
+        "chi" "__keep__"
+    }
+
+    "[-- Second Round --]"
+    {
+        "chi" "第二回合"
+    }
+
+    "[-- SLIDE --]"
+    {
+        "chi" ""
+    }
+
+    "[-- SMOKE --]"
+    {
+        "chi" "躲避球"
+    }
+
+    "[-- Speed On --]"
+    {
+        "chi" "加速启动"
+    }
+
+    "[-- TAKESHI'S CASTLE --]"
+    {
+        "chi" "北野武的城堡"
+    }
+
+    "[-- Two Steps From Hell - 1000 Ships Of The Underworld --]"
+    {
+        "chi" "__keep__"
+    }
+
+    "[-- Two Steps From Hell - Magika --]"
+    {
+        "chi" "__keep__"
+    }
+
+    "[-- Two Steps From Hell - Nemesis --]"
+    {
+        "chi" "__keep__"
+    }
+
+    "[-- Two Steps From Hell - Sons Of War --]"
+    {
+        "chi" "__keep__"
+    }
+
+    "[-- WEAPONSFIGHT --]"
+    {
+        "chi" "武器大战"
+    }
+
+    "[-- You have 15 sec. to place yourself  --]"
+    {
+        "chi" "你有15秒去部署你自己"
+    }
+
+    "[-- You have 15 sec. to place yourself --]"
+    {
+        "chi" "你有15秒去部署你自己"
+    }
+
+    "[-- ZOMBIEAPOCALYPSE --]"
+    {
+        "chi" "僵尸末日"
+    }
+
+    "|-- 1 minute left --|"
+    {
+        "chi" "时间剩余1分钟"
+    }
+
+    "|-- 1 seconds left --|"
+    {
+        "chi" "时间剩余1秒"
+    }
+
+    "|-- 10 seconds left --|"
+    {
+        "chi" "时间剩余10秒"
+    }
+
+    "|-- 2 minutes left --|"
+    {
+        "chi" "时间剩余2分钟"
+    }
+
+    "|-- 2 seconds left --|"
+    {
+        "chi" "时间剩余2秒"
+    }
+
+    "|-- 3 minutes left --|"
+    {
+        "chi" "时间剩余3分钟"
+    }
+
+    "|-- 3 seconds left --|"
+    {
+        "chi" "时间剩余3秒"
+    }
+
+    "|-- 30 seconds left --|"
+    {
+        "chi" "时间剩余30秒"
+    }
+
+    "|-- 4 minutes left --|"
+    {
+        "chi" "时间剩余4分钟"
+    }
+
+    "|-- 4 seconds left --|"
+    {
+        "chi" "时间剩余4秒"
+    }
+
+    "|-- 5 seconds left --|"
+    {
+        "chi" "时间剩余5秒"
+    }
+
+}

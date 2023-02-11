@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -77,11 +77,6 @@
     }
 
     "Fall Back !!!"
-    {
-        "chi" "**撤退!!!**"
-    }
-
-    "FALL BACK !!!"
     {
         "chi" "**撤退!!!**"
     }

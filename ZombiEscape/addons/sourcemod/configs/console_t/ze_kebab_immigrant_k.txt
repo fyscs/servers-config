@@ -1,0 +1,283 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "[ 10 SECONDS LEFT ]"
+    {
+        "chi" "还有10秒"
+        "blocked" "1"
+    }
+
+    "[ 20 SECONDS LEFT ]"
+    {
+        "chi" "还有20秒"
+        "blocked" "1"
+    }
+
+    "[ AFK Teleport in 5 SECONDS ]"
+    {
+        "chi" "挂机玩家5秒后传送"
+    }
+
+    "[ AMMO item has been picked ]"
+    {
+        "chi" "玩家已拾起弹药补给"
+    }
+
+    "[ Bridge comming in 20 SECONDS ]"
+    {
+        "chi" "桥20秒后开启"
+    }
+
+    "[ CHET USE ATTRACT FAT ASS ]"
+    {
+        "chi" "肥宅使用了大屁股"
+    }
+
+    "[ CHET USE DONUT ]"
+    {
+        "chi" "肥宅使用了移动甜甜圈"
+    }
+
+    "[ CHET USE FIRE LASERS ]"
+    {
+        "chi" "肥宅使用了火辣激光"
+    }
+
+    "[ Donut go down in 30 seconds ]"
+    {
+        "chi" "甜甜圈30秒后下降"
+    }
+
+    "[ Donut is on the way ]"
+    {
+        "chi" "甜甜圈正在来的路上"
+    }
+
+    "[ Donut leaving in 15 SECONDS ]"
+    {
+        "chi" "甜甜圈15秒后离开这里"
+    }
+
+    "[ Door close in 5 seconds ]"
+    {
+        "chi" "门5秒后关闭"
+    }
+
+    "[ Door open in 10 SECONDS ]"
+    {
+        "chi" "门10秒后开启"
+    }
+
+    "[ Door open in 15 SECONDS ]"
+    {
+        "chi" "门15秒后开启"
+    }
+
+    "[ Door open in 20 SECONDS ]"
+    {
+        "chi" "门20秒后开启"
+    }
+
+    "[ Doors open in 30 SECONDS ]"
+    {
+        "chi" "门30秒后开启"
+    }
+
+    "[ Elevator go up in 30 SECONDS ]"
+    {
+        "chi" "电梯30秒后上升"
+    }
+
+    "[ Elevator leaving in 40 SECONDS ]"
+    {
+        "chi" "电梯40秒后离开"
+    }
+
+    "[ Elevator start in 15 SECONDS ]"
+    {
+        "chi" "电梯15秒后启动"
+    }
+
+    "[ FALL BACK ]"
+    {
+        "chi" "该跑路咯"
+    }
+
+    "[ FREEZEGUN item has been picked ]"
+    {
+        "chi" "玩家已拾起冰冻抢"
+    }
+
+    "[ Gates will close in 20 SECONDS ]"
+    {
+        "chi" "大门还有20秒关闭"
+    }
+
+    "[ He don't know how to finish the map ]"
+    {
+        "chi" "他连这图都整不明白"
+    }
+
+    "[ HEAL item has been picked ]"
+    {
+        "chi" "玩家已拾起治疗"
+    }
+
+    "[ Hold 20 SECONDS ]"
+    {
+        "chi" "还有20秒"
+    }
+
+    "[ JERRYCAN item has been picked ]"
+    {
+        "chi" "玩家已拾起油罐"
+    }
+
+    "[ Lift leaving in 10 SECONDS ]"
+    {
+        "chi" "升降梯10秒后离开"
+        "blocked" "1"
+    }
+
+    "[ Lift leaving in 20 SECONDS ]"
+    {
+        "chi" "升降梯20秒后离开"
+        "blocked" "1"
+    }
+
+    "[ Lift leaving in 30 SECONDS ]"
+    {
+        "chi" "升降梯30秒后离开"
+    }
+
+    "[ Map By Nostar ]"
+    {
+        "chi" "地图制作:Nostar 移植:Itskoenlul"
+    }
+
+    "[ NOT THIS RETARD ]"
+    {
+        "chi" "我佛啦"
+    }
+
+    "[ Oh god not this kebab immigrant ! ]"
+    {
+        "chi" "怎么tmd跟我想的不一样"
+    }
+
+    "[ Oh no ! It's the mapper ! ]"
+    {
+        "chi" "怎么是这b图作者"
+    }
+
+    "[ OH NO PLEASE.. ]"
+    {
+        "chi" "我草还是算了吧..."
+    }
+
+    "[ Rocklee use Kebab Bridge ]"
+    {
+        "chi" "大厨使用了肉串大桥"
+    }
+
+    "[ Rocklee use Kebab Laser ]"
+    {
+        "chi" "大厨甩动大块肉条"
+    }
+
+    "[ Rocklee use Kebab Meteor ]"
+    {
+        "chi" "大厨扔下来大块肉饼"
+    }
+
+    "[ Rocklee use Rotating Kebab ]"
+    {
+        "chi" "大厨使用了阿姆斯特朗回旋加速烤肉特技"
+    }
+
+    "[ SHOOT HIM ! ]"
+    {
+        "chi" "开枪开枪开枪!!"
+    }
+
+    "[ SHOOT HIM !!! ]"
+    {
+        "chi" "快朝他射击!!!"
+    }
+
+    "[ SHOTGUN item has been picked ]"
+    {
+        "chi" "玩家已拾起霰弹枪"
+    }
+
+    "[ So he will add somes lasers for you fckg faggot ]"
+    {
+        "chi" "他给你们这些混蛋加了些跳刀"
+    }
+
+    "[ SOMETHING COMING... ]"
+    {
+        "chi" "有什么东西要来了..."
+    }
+
+    "[ The 3 levers have been activated ]"
+    {
+        "chi" "开关都已被触发"
+    }
+
+    "[ The bridges are on the way ]"
+    {
+        "chi" "大桥降下来了"
+    }
+
+    "[ The gates will open in 20 SECONDS ]"
+    {
+        "chi" "大门20秒后开启"
+    }
+
+    "[ WAIT... ]"
+    {
+        "chi" "不对,等等..."
+    }
+
+    "[ YOU FAILED FUCKING CHAWARMA IMMIGRANT ]"
+    {
+        "chi" "你怎么这么菜呢"
+    }
+
+    "[ YOU WON THE MAP ]"
+    {
+        "chi" "你完成了这张地图"
+    }
+
+    "[ YOU'RE THE REAL KEBAB IMMIGRANT ]"
+    {
+        "chi" "诶你小子真是个人才"
+    }
+
+    "[ ze_Kebab_Immigrant ]"
+    {
+        "chi" "深夜热量炸弹大礼包"
+    }
+
+    "[ Zombies comming in 5 seconds ]"
+    {
+        "chi" "僵尸5秒后来袭"
+    }
+
+    "[ ZOMBIES DETECTED ]"
+    {
+        "chi" "已检测到僵尸"
+    }
+
+}

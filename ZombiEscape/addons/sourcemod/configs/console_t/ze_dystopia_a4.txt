@@ -1,0 +1,393 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+    "[INFO] Welcome to the city of NEO EXUYAN"
+    {
+        "chi" "欢迎来到霓虹之城"
+    }
+
+    "There is a deadly gas in this city, it seems dangerous, move quickly!"
+    {
+        "chi" "这里弥漫着一种可以致死的毒气,看起来很危险,快点!!"
+    }
+
+    "The gas has turned some of our squad into ZOMBIES"
+    {
+        "chi" "毒气已经把一些我们的部分先遣部队变成了丧尸"
+    }
+
+    "Our mission cannot fail, we must keep moving!"
+    {
+        "chi" "我们的任务可不能失败,保持移动!!"
+    }
+
+    "This gate will open soon, hold this bridge!"
+    {
+        "chi" "这道大门即将打开,守住这座桥!!"
+    }
+
+    "Call the elevator, we can hack the console over there to make it faster"
+    {
+        "chi" "呼叫电梯,我们也可以黑入控制台让电梯下来快点!!"
+    }
+
+    "Elevator has been called, hold here!"
+    {
+        "chi" "已呼叫电梯,守住这里!!"
+    }
+
+    "Elevator is open, defend until it shuts again!"
+    {
+        "chi" "电梯已开启,守住直到它关上!!"
+    }
+
+    "[INFO] Hack failed, time increased by 10 seconds"
+    {
+        "chi" "提示:操作失败,时间将增加十秒钟!"
+    }
+
+    "[INFO] Hack successful, time reduced by 10 seconds"
+    {
+        "chi" "提示:操作成功,时间将减少十秒钟!"
+    }
+
+    "Hold the upper walkway, the door should open soon"
+    {
+        "chi" "守住上层通道,门应该很快就打开了"
+    }
+
+    "Exit door opens soon, hold them off here"
+    {
+        "chi" "离开这里的门马上就开了,保持火力!!"
+    }
+
+    "Some of you must split off into the vents, maybe we can open the door from there!"
+    {
+        "chi" "管道后面应该有个开关,我们可能需要在在这里兵分两路!!"
+    }
+
+    "It should regroup us after this door..."
+    {
+        "chi" "这扇门之后我们应该就能回合了..."
+    }
+
+    "We got it! Door should open soon"
+    {
+        "chi" "做到了!!门应该马上就开了"
+    }
+
+    "This should lead us into the parking lot, and into the greater downtown district!"
+    {
+        "chi" "从这里应该能去到停车场那里,然后穿过去就能到主城区了"
+    }
+
+    "The sewers should be right behind this door"
+    {
+        "chi" "这扇门后面应该就是下水道网了"
+    }
+
+    "Exit door ahead of us should open soon, resist!"
+    {
+        "chi" "前面的门马上就开了,保持火力!!"
+    }
+
+    "This small side door should take us into a maintenance area"
+    {
+        "chi" "这边的侧门应该能通向一处储藏区"
+    }
+
+    "Another door? Hold a bit longer!"
+    {
+        "chi" "又一扇门?再守一会!!"
+    }
+
+    "The next door seems to be jammed, perhaps we can open it faster?"
+    {
+        "chi" "这扇门看起来被卡住了,或许我们能让它开的快点??"
+    }
+
+    "That's it! Door should be opening soon!"
+    {
+        "chi" "就是这样!门应该能开快点了!!"
+    }
+
+    "The canals! Neo-Kowloon should be close by"
+    {
+        "chi" "是护城河!应该离霓虹城很近了"
+    }
+
+    "The back entrance to Neo-Kowloon! Resist until it opens"
+    {
+        "chi" "霓虹城的后门!守住直到它开启!!"
+    }
+
+    "There is a high concentration of toxic-gas here, move quickly!"
+    {
+        "chi" "这里毒气的浓度很高,保持移动!!"
+    }
+
+    "The navigation algorithm is scrambled in here, we must keep moving"
+    {
+        "chi" "导航程序在这里不是很管用,我们必须保持移动!!"
+    }
+
+    "The exit should be on our left, climb through the wires!"
+    {
+        "chi" "出口应该位于我们左边,爬上去穿过这些线缆!!"
+    }
+
+    "The bridge across the canals should open shortly"
+    {
+        "chi" "天桥就快开启了,应该能从这里穿过河道"
+    }
+
+    "The bridge's exit doors should be opening soon"
+    {
+        "chi" "天桥的出口就快开启了"
+    }
+
+    "A maintenance door! Perhaps we can reach the Prey Plaza from here?"
+    {
+        "chi" "一道储藏区的门,或许我们可以从这里去到布里酒吧?"
+    }
+
+    "This long walkway should take us up to the side entrance of Prey Plaza"
+    {
+        "chi" "这道走廊应该能带我们去到酒吧的侧门"
+    }
+
+    "Hold this wide walkway! The door will open soon"
+    {
+        "chi" "守住这里,门马上就开了"
+    }
+
+    "The gate should open soon!"
+    {
+        "chi" "门就要开了!!"
+    }
+
+    "The Bar should open shortly, resist!"
+    {
+        "chi" "酒吧门很快就开启了,保持火力!!"
+    }
+
+    "We have to hold both entrances to the bar! We cannot let them it at any cost!"
+    {
+        "chi" "我们需要守住酒吧的入口!不计代价!!"
+    }
+
+    "Back room is opening soon"
+    {
+        "chi" "储藏间马上就能打开了"
+    }
+
+    "The bar's exit hatch should be opening shortly, this should lead us to the upper walkway!"
+    {
+        "chi" "酒吧的安全出口就快开启了,我们穿过它应该能去到上层走廊!!"
+    }
+
+    "A-ha! This vent! It should take us back outside"
+    {
+        "chi" "就是这里!我们应该能回到外面去!!"
+    }
+
+    "Be careful about these side-doors, they look like shortcuts!"
+    {
+        "chi" "注意下附近的侧门,看起来可能是捷径!"
+    }
+
+    "The upper walkway door should open soon"
+    {
+        "chi" "上层走廊的门马上就开启了"
+    }
+
+    "Watch out the for that vent! It's looking a bit suspicious"
+    {
+        "chi" "小心那处管道!看起来十分可疑"
+    }
+
+    "The second upper walkway door should open soon"
+    {
+        "chi" "更上层走廊的门马上就开了"
+    }
+
+    "The door should open shortly, this should take to the Apartment Complex"
+    {
+        "chi" "门很快就开了,穿过这里应该就是公寓楼了"
+    }
+
+    "The Apartment Complex should be ahead, past this maintenance corridor!"
+    {
+        "chi" "穿过这里的走廊前面应该就是公寓楼了" 
+    }
+
+    "The elevator has been called, it should arrive shortly"
+    {
+        "chi" "已呼叫电梯,就快到了"
+    }
+
+    "This... isn't the correct floor?"
+    {
+        "chi" "摁错楼层了?"
+    }
+
+    "WATCH OUT! HOLD THE ELEVATOR!"
+    {
+        "chi" "小心!守住不要慌!!"
+    }
+
+    "This floor is the right floor, but be careful of more zombies from the same side!"
+    {
+        "chi" "终于到了!但是还是要小心僵尸!"
+    }
+
+    "The doors behind us are opening! Get out quickly!"
+    {
+        "chi" "我们身后的门打开了!赶紧出去!!"
+    }
+
+    "We need to enter this apartment to reach the rooftop outside"
+    {
+        "chi" "我们得从公寓楼里面才能上楼顶去"
+    }
+
+    "Hold this room! This should lead us directly into the Industrial Sector"
+    {
+        "chi" "守住这里!从这里应该能直接前往工业区"
+    }
+
+    "We have no time to visit the lab, but we can use these corridors to reach the Industrial Sector"
+    {
+        "chi" "我们没时间去实验室那里了,但是穿过这些走廊可以直接去工业区"
+    }
+
+    "Crossing this walkway should help us, resist until the door opens!"
+    {
+        "chi" "守住这里!我们得穿过这里的通道!!"
+    }
+
+    "Keep holding them off! We're nearly at our destination"
+    {
+        "chi" "保持火力!!我们就快到了!!"
+    }
+
+    "These doors will take a long time to open, hold 'em off!"
+    {
+        "chi" "这些门启动非常的慢,保持火力!!"
+    }
+
+    "A skilled hacker may be able to reduce the timer using that console!"
+    {
+        "chi" "一个传说中的糕手是可以节省我们等待的时间!"
+    }
+
+    "The doors have opened! Get through quickly!"
+    {
+        "chi" "门开了!快出来!!"
+    }
+
+    "[INFO] Hack failed, time increased by 15 seconds"
+    {
+        "chi" "提示:呵呵?你就这水平?食不食油饼?"
+    }
+
+    "[INFO] Hack successful, time reduced by 15 seconds"
+    {
+        "chi" "提示:你好牛啊!节省了十五秒钟!!"
+    }
+
+    "The glass doors will open soon! Be careful of those big metal doors!"
+    {
+        "chi" "玻璃门很快就开了!小心那些巨大的金属门!!"
+    }
+
+    "Destroy the generator! It's hooked up to that locked glass door!"
+    {
+        "chi" "破坏那处发电机!它为封锁区域提供电力!!"
+    }
+
+    "Generator has exploded! The doors should open soon"
+    {
+        "chi" "发电机爆炸了!们应该马上就开了!!"
+    }
+
+    "We are nearly at the Railway Control Room, keep it up!"
+    {
+        "chi" "我们马上就要到达铁路控制室了,尽快跟上!!"
+    }
+
+    "Maintenance corridoors should lead us to the control room!"
+    {
+        "chi" "储藏区的走廊应该能带我们去到控制室!!"
+    }
+
+    "The control room! We need to hack the console to call the train! Defend the hacker!"
+    {
+        "chi" "就是这里!!我们需要黑入控制台呼叫火车!!守住这里!!"
+    }
+
+    "The last door before the tracks should open very soon! HOLD IT!"
+    {
+        "chi" "轨道前的这扇门马上就开了!!守住!!"
+    }
+
+    "The trains are leaving for the Upper-Echelon District! JUMP ON!!!"
+    {
+        "chi" "火车是前往更高等级区域的,快跳上来!!"
+    }
+
+    "TO BE CONTINUED IN PART 2"
+    {
+        "chi" "未完待续..."
+    }
+
+    "still 20 seconds"
+    {
+        "chi" "还有20秒"
+    }
+
+    "still 10 seconds"
+    {
+        "chi" "还有10秒"
+    }
+
+    "still 15 seconds"
+    {
+        "chi" "还有15秒"
+    }
+
+    "still 25 seconds"
+    {
+        "chi" "还有25秒"
+    }
+
+    "still 30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+    "board remain 25 seconds"
+    {
+        "chi" "铁网还有25秒破开"
+    }
+
+    "still 45 seconds"
+    {
+        "chi" "还有45秒"
+    }
+
+    "still 27 seconds"
+    {
+        "chi" "还有27秒"
+    }
+
+}

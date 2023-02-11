@@ -1,0 +1,169 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** ... **"
+    {
+        "chi" "..."
+    }
+
+    "** BOTH WALL WILL BREAK IN 15 SECONDS **"
+    {
+        "chi" "两堵墙15秒后碎裂"
+    }
+
+    "** CATACLYSM **"
+    {
+        "chi" "阳炎冲击"
+    }
+
+    "** CATHEDERAL DOOR WILL OPEN IN 60 SECONDS **"
+    {
+        "chi" "导管门60秒后打开"
+    }
+
+    "** DOOR WILL CLOSE IN 5 SECONDS **"
+    {
+        "chi" "大门5秒后关闭"
+    }
+
+    "** DOOR WILL OPEN IN 25 SECONDS **"
+    {
+        "chi" "大门25秒后打开"
+    }
+
+    "** FOOLISH HUMAN. **"
+    {
+        "chi" "愚蠢的人类"
+    }
+
+    "** HA. HA. HA. **"
+    {
+        "chi" "哈哈哈"
+    }
+
+    "** I MIGHT BE FOOLISH BUT THIS IS NOT THE END. **"
+    {
+        "chi" "我可能很愚蠢,但这不是结局"
+    }
+
+    "** I WILL BE BACK. **"
+    {
+        "chi" "我会回来的"
+    }
+
+    "** MAP BY HEYFUMI **"
+    {
+        "chi" "地图作者:HEYFUMI 文本翻译:布吉岛"
+    }
+
+    "** NOT LIKE YOU CAN DEFEAT ME. **"
+    {
+        "chi" "你不可能击败我"
+    }
+
+    "** OPENING PORTAL IN 60 SECONDS **"
+    {
+        "chi" "传送60秒后开启"
+    }
+
+    "** OPENING PORTAL IN 75 SECONDS **"
+    {
+        "chi" "传送75秒后开启"
+    }
+
+    "** OPENING UNDERGROUND TUNNEL IN 25 SECONDS"
+    {
+        "chi" "地下隧道25秒打开"
+    }
+
+    "** PLATFORM WILL COME IN 15 SECONDS **"
+    {
+        "chi" "平台15秒后到达"
+    }
+
+    "** REALITY SLASHER **"
+    {
+        "chi" "抹除棱镜"
+    }
+
+    "** REFRACTION SPLITTER **"
+    {
+        "chi" "折射分离器"
+    }
+
+    "** RISING GALE **"
+    {
+        "chi" "疾风怒涛(按WWW!!)"
+    }
+
+    "** Roscente. The Cosmic Wisp has awoken! **"
+    {
+        "chi" "罗森特,宇宙之火已经苏醒"
+    }
+
+    "** Roscente. The Cosmic Wisp has been defeated!  **"
+    {
+        "chi" "宇宙之火已被击败"
+    }
+
+    "** SPACE WARP **"
+    {
+        "chi" "扭曲空间(按SSS!!)"
+    }
+
+    "** SUNSTRIKE **"
+    {
+        "chi" "金乌普照"
+    }
+
+    "** THE END. **"
+    {
+        "chi" "结局"
+    }
+
+    "** THIS ISNT MY FINAL FORM YET. **"
+    {
+        "chi" "这还不是我的最终形态"
+    }
+
+    "** TO THINK YOU CAN ESCAPE THAT VILLAGE. **"
+    {
+        "chi" "你能逃离那个村庄"
+    }
+
+    "** WALL WILL BREAK IN 15 SECONDS **"
+    {
+        "chi" "墙在15秒后倒塌"
+    }
+
+    "** WHO WOULD HAVE THOUGHT THAT YOU ARE STRONG.  **"
+    {
+        "chi" "谁会想到你很坚强"
+    }
+
+    "** WORLD CHASM **"
+    {
+        "chi" "世界裂缝(按SSS!!)"
+    }
+
+    "** YOU CAN PASS IN 15 SECONDS **"
+    {
+        "chi" "15秒后可以通过"
+    }
+
+    "** YOU SHOULD HAVE STAYED ON THAT VILLAGE.  **"
+    {
+        "chi" "你应该留在那个村庄"
+    }
+
+}

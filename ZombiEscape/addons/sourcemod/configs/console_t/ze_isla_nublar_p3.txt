@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -23,7 +23,7 @@
 
     "*** LEVEL SET TO NORMAL ***"
     {
-        "chi" "加载正常难度"
+        "chi" "加载普通难度"
     }
 
     "***ALL CLOSED DOORS WILL OPEN IN 15 SECONDS***"
@@ -43,7 +43,7 @@
 
     "***BOAT REFUELING***"
     {
-        "chi" "**给船加油**"
+        "chi" "**找到油桶给船加油**"
     }
 
     "***CHEAT BUTTON PRESSED***"
@@ -54,7 +54,7 @@
 
     "***CLIMB THE ROCKS!***"
     {
-        "chi" "攀岩"
+        "chi" "爬上石头!"
     }
 
     "***CT WIN!***"
@@ -74,7 +74,7 @@
 
     "***CURRENT DIFFICULTY IS NORMAL***"
     {
-        "chi" "**难度: 正常   地图翻译: 户冢彩加&萌大奶@风云社**"
+        "chi" "**难度: 普通   地图翻译: 户冢彩加&萌大奶@风云社 修改完善:喵杍**"
     }
 
     "***DOOR WILL OPEN IN 10 SECONDS***"
@@ -89,7 +89,7 @@
 
     "***FALL BACK!!!***"
     {
-        "chi" "**快撤**"
+        "chi" "**快撤!!!**"
     }
 
     "***FALL BACK***"
@@ -99,12 +99,12 @@
 
     "***FOLLOW THE ELECTRIC PATH***"
     {
-        "chi" "沿着电气路径"
+        "chi" "沿着电缆前进"
     }
 
     "***GAS CANS HAVE BEEN COLLECTED***"
     {
-        "chi" "**已经收集到汽油罐**"
+        "chi" "**已经收集到油桶**"
     }
 
     "***GET INTO THE TRUCK***"
@@ -149,7 +149,7 @@
 
     "***HOLD THE DOOR UNTIL IT OPENS!***"
     {
-        "chi" "按住门直到门打开"
+        "chi" "守住这里直到门开!"
     }
 
     "***HOLD THIS POSITION!***"
@@ -184,7 +184,7 @@
 
     "***LOOK OUT!!! ITS A T-REX***"
     {
-        "chi" "**啊 看呐!这是一条霸王龙**"
+        "chi" "**小心!这是一条霸王龙**"
     }
 
     "***MAP RESET***"
@@ -204,7 +204,7 @@
 
     "***MULDOON'S SHOTGUN HAS BEEN FOUND***"
     {
-        "chi" "**MULDOON的猎枪被找到了**"
+        "chi" "**马尔登的猎枪被找到了**"
     }
 
     "***NUKE IS COMING!!!***"
@@ -244,7 +244,7 @@
 
     "***RESTORE THE POWER!***"
     {
-        "chi" "**恢复能源!**"
+        "chi" "**想办法恢复能源!**"
     }
 
     "***RUN BACK TO THE BOAT***"
@@ -259,12 +259,12 @@
 
     "***TELEPORTING ALL TO GENERATOR CATWALK***"
     {
-        "chi" "**传送所有人到发电机走道**"
+        "chi" "**传送所有人到发电机过道**"
     }
 
     "***THANKS FOR PLAYING : )***"
     {
-        "chi" "感谢您的参与: )"
+        "chi" "感谢您的游玩"
     }
 
     "***THE BUTTON WILL CLOSE THE GATES***"
@@ -274,7 +274,7 @@
 
     "***USE GENERATOR TO ENABLE POWER TO BUTTON***"
     {
-        "chi" "**按下按钮启用电源**"
+        "chi" "**启动发电机来恢复按钮的电源**"
     }
 
     "***YOU WON!!!!***"

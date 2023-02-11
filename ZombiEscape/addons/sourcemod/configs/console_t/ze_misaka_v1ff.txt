@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -246,7 +246,7 @@
 
     "<< Drain >>"
     {
-        "chi" "Drain"
+        "chi" "吸力'按S"
     }
 
     "<< Fallen Sky >>"
@@ -349,11 +349,6 @@
         "chi" "作者:Misaka  汉化:小三@風雲社"
     }
 
-    "<< Map by Misaka >>"
-    {
-        "chi" "作者:Misaka  汉化:小三@風雲社"
-    }
-
     "<< Mapper is in the server >>"
     {
         "chi" "__null__"
@@ -397,7 +392,7 @@
 
     "<< Push >>"
     {
-        "chi" "推力"
+        "chi" "推力'按W"
     }
 
     "<< Reaping Slash >>"

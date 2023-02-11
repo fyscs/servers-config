@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -21,14 +21,9 @@
         "chi" "**快爪巴上彩虹**"
     }
 
-    "*** Fall back! ***"
-    {
-        "chi" "撤退"
-    }
-
     "*** FALL BACK! ***"
     {
-        "chi" "**快进传送光柱     **"
+        "chi" "**快进传送光柱**"
     }
 
     "*** Get moving! GO! ***"
@@ -74,11 +69,6 @@
     "*** King Pedobear will let you pass in 40 secs ***"
     {
         "chi" "**玩具熊 在40秒后才会允许你通过这里**"
-    }
-
-    "*** OH NO IT'S Pedobear! ***"
-    {
-        "chi" "**噢!是玩具熊**"
     }
 
     "*** PROTECT THE CASTLE! ***"
@@ -141,11 +131,6 @@
         "chi" "**你还有10秒杀掉玩具熊**"
     }
 
-    "*** YOU HAVE 2 MINUTES TO KILL Pedobear! ***"
-    {
-        "chi" "**2分钟后玩具熊将会释放终极**"
-    }
-
     "*** YOU HAVE 20 SECS TO ESCAPE! ***"
     {
         "chi" "**你有20秒时间逃离这里**"
@@ -174,6 +159,71 @@
     "*** YOU LOSE! ***"
     {
         "chi" "**你输了**"
+    }
+
+    "*** OH NO IT'S PEDOBEAR! ***"
+    {
+        "chi" "**哦不,是玩具熊**"
+    }
+
+    "*** YOU HAVE 2 MINUTES TO KILL PEDOBEAR! ***"
+    {
+        "chi" "**你有两分钟杀掉玩具熊**"
+    }
+
+    "*** Escape from the sky now! ***"
+    {
+        "chi" "**赶紧逃离天空**"
+    }
+
+    "*** GET INSIDE THE HOUSE! ***"
+    {
+        "chi" "**快进到房子里**"
+    }
+
+    "*** SURVIVE 60 SECONDS! ***"
+    {
+        "chi" "**生存60秒**"
+    }
+
+    "*** Get ready to run!!! ***"
+    {
+        "chi" "**准备溜了**"
+    }
+
+    "*** You can now access the second level of the house! ***"
+    {
+        "chi" "**你们现在可以上房子的第二层了**"
+    }
+
+    "*** Get to the roof for the escape! ***"
+    {
+        "chi" "**爬上楼顶逃离**"
+    }
+
+    "*** Ladder barrier disappears in 30 seconds ***"
+    {
+        "chi" "**梯子障碍30秒后消失**"
+    }
+
+    "*** Ladder barrier has vanished! ***"
+    {
+        "chi" "**梯子障碍消失了**"
+    }
+
+    "*** Go go go! ***"
+    {
+        "chi" "**走走走**"
+    }
+
+    "*** Congratulations! ***"
+    {
+        "chi" "**恭喜你们通关本图**"
+    }
+
+    "*** You did it! You've finished off Pedobear!!! ***"
+    {
+        "chi" "**你做到了,你们干掉了玩具熊**"
     }
 
 }

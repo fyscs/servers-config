@@ -1,0 +1,470 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** Map by Soft Serve ***"
+    {
+        "chi" "地图作者:SoftServe 文本翻译:xTeruZikk"
+    }
+
+    "?"
+    {
+        "chi" "这是?"
+    }
+
+    "1"
+    {
+        "chi" "一..."
+    }
+
+    "2"
+    {
+        "chi" "二..."
+    }
+
+    "3"
+    {
+        "chi" "三..."
+    }
+
+    "4"
+    {
+        "chi" "四..."
+    }
+
+    "5"
+    {
+        "chi" "五..."
+    }
+
+    "A door has been broken down."
+    {
+        "chi" "某扇门已经打开.."
+    }
+
+    "A zombie reached the eighth floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体已抵达第八层,15秒后进行传送"
+    }
+
+    "A zombie reached the eleventh floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体已抵达第十一层,15秒后进行传送"
+    }
+
+    "A zombie reached the fifteenth floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体已抵达第十五层,15秒后进行传送"
+    }
+
+    "A zombie reached the fifth floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体已抵达第五层,15秒后进行传送"
+    }
+
+    "A zombie reached the final floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体抵达了最后一层,15秒后进行传送"
+    }
+
+    "A zombie reached the fourteenth floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体抵达了第十四层,15秒后进行传送"
+    }
+
+    "A zombie reached the fourth floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体抵达了第四层,15秒后进行传送"
+    }
+
+    "A zombie reached the ninth floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体已抵达第九层,15秒后进行传送"
+    }
+
+    "A zombie reached the second floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体已抵达第二层,15秒后进行传送"
+    }
+
+    "A zombie reached the seventh floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体已抵达第七层,15秒后进行传送"
+    }
+
+    "A zombie reached the sixteenth floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体已抵达第十六层,15秒后进行传送"
+    }
+
+    "A zombie reached the sixth floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体已抵达第六层,15秒后进行传送"
+    }
+
+    "A zombie reached the tenth floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体已抵达第十层,15秒后进行传送"
+    }
+
+    "A zombie reached the third floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体已抵达第三层,15秒后进行传送"
+    }
+
+    "A zombie reached the thirteenth floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体已抵达第十三层,15秒后进行传送"
+    }
+
+    "A zombie reached the twelfth floor. Mass teleport in 15 s."
+    {
+        "chi" "有实体已抵达第十二层,15秒后进行传送"
+    }
+
+    "An exit has been found."
+    {
+        "chi" "发现了一处出口..."
+    }
+
+    "Cryo-X found."
+    {
+        "chi" "冰冻枪已找到.."
+    }
+
+    "Cube leaving in 10 s."
+    {
+        "chi" "方块10秒后离开.."
+    }
+
+    "Dimensional Door found."
+    {
+        "chi" "次元门已找到..."
+    }
+
+    "Door opening in 10 s."
+    {
+        "chi" "门10秒后打开.."
+    }
+
+    "Door opening in 5 s."
+    {
+        "chi" "门5秒后打开.."
+        "blocked" "1"
+    }
+
+    "eight..."
+    {
+        "chi" "八..."
+    }
+
+    "Eighth floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达第八层,60秒后进行传送"
+    }
+
+    "eleven..."
+    {
+        "chi" "十一..."
+    }
+
+    "Eleventh floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达第十一层,60秒后进行传送"
+    }
+
+    "Explosive Pillow found."
+    {
+        "chi" "爆炸枕头已找到..."
+    }
+
+    "fifteen..."
+    {
+        "chi" "十五..."
+    }
+
+    "Fifteenth floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达第十五层,60秒后进行传送"
+    }
+
+    "Fifth floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达第五层,60秒后进行传送"
+    }
+
+    "Final floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达最终层,60秒后进行传送"
+    }
+
+    "Five dolls collected. A fresh sea breeze washes over you..."
+    {
+        "chi" "已收集到五个娃娃,吹拂着清新的海风..."
+    }
+
+    "five..."
+    {
+        "chi" "五..."
+    }
+
+    "Floors set to 1 from Admin room."
+    {
+        "chi" "管理员已设定第一层"
+    }
+
+    "Floors set to 10 from Admin room."
+    {
+        "chi" "管理员已设定第十层"
+    }
+
+    "Floors set to 11 from Admin room."
+    {
+        "chi" "管理员已设定第十一层"
+    }
+
+    "Floors set to 12 from Admin room."
+    {
+        "chi" "管理员已设定第十二层"
+    }
+
+    "Floors set to 13 from Admin room."
+    {
+        "chi" "管理员已设定第十三层"
+    }
+
+    "Floors set to 14 from Admin room."
+    {
+        "chi" "管理员已设定第十四层"
+    }
+
+    "Floors set to 15 from Admin room."
+    {
+        "chi" "管理员已设定第十五层"
+    }
+
+    "Floors set to 16 from Admin room."
+    {
+        "chi" "管理员已设定第十六层"
+    }
+
+    "Floors set to 2 from Admin room."
+    {
+        "chi" "管理员已设定第二层"
+    }
+
+    "Floors set to 3 from Admin room."
+    {
+        "chi" "管理员已设定第三层"
+    }
+
+    "Floors set to 4 from Admin room."
+    {
+        "chi" "管理员已设定第四层"
+    }
+
+    "Floors set to 5 from Admin room."
+    {
+        "chi" "管理员已设定第五层"
+    }
+
+    "Floors set to 6 from Admin room."
+    {
+        "chi" "管理员已设定第六层"
+    }
+
+    "Floors set to 7 from Admin room."
+    {
+        "chi" "管理员已设定第七层"
+    }
+
+    "Floors set to 8 from Admin room."
+    {
+        "chi" "管理员已设定第八层"
+    }
+
+    "Floors set to 9 from Admin room."
+    {
+        "chi" "管理员已设定第九层"
+    }
+
+    "Four dolls collected..."
+    {
+        "chi" "已收集到四个娃娃..."
+    }
+
+    "four..."
+    {
+        "chi" "四"
+    }
+
+    "fourteen..."
+    {
+        "chi" "十四"
+    }
+
+    "Fourteenth floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达第十四层,60秒后进行传送"
+    }
+
+    "Fourth floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达第四层,60秒后进行传送"
+    }
+
+    "Hypercube found."
+    {
+        "chi" "超立方体已找到!"
+    }
+
+    "Mass teleport in 15 s."
+    {
+        "chi" "15秒后进行传送"
+    }
+
+    "Metal key found. It can be used three times."
+    {
+        "chi" "金属钥匙已找到.它可以使用三次"
+    }
+
+    "nine..."
+    {
+        "chi" "九..."
+    }
+
+    "Ninth floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达第九层,60秒后进行传送"
+    }
+
+    "One doll collected..."
+    {
+        "chi" "一个娃娃已找到"
+    }
+
+    "one..."
+    {
+        "chi" "一..."
+    }
+
+    "Pulser found."
+    {
+        "chi" "脉冲已找到.."
+    }
+
+    "Round failed! Zombies have reached the objective!"
+    {
+        "chi" "回合失败!实体已抵达目标位置!!"
+    }
+
+    "Second floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达第二层,60秒后进行传送"
+    }
+
+    "seven..."
+    {
+        "chi" "七..."
+    }
+
+    "Seventh floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达第七层,60秒后进行传送"
+    }
+
+    "six..."
+    {
+        "chi" "六..."
+    }
+
+    "sixteen..."
+    {
+        "chi" "十六..."
+    }
+
+    "Sixteenth floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达第十六层,60秒后进行传送"
+    }
+
+    "Sixth floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达第六层,60秒后进行传送"
+    }
+
+    "ten..."
+    {
+        "chi" "十..."
+    }
+
+    "Tenth floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达第十层,60秒后进行传送"
+    }
+
+    "Third floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达第三层,60秒后进行传送"
+    }
+
+    "thirteen..."
+    {
+        "chi" "十三..."
+    }
+
+    "Thirteenth floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达第十三层,60秒后进行传送"
+    }
+
+    "Three dolls collected..."
+    {
+        "chi" "三个娃娃已找到..."
+    }
+
+    "three..."
+    {
+        "chi" "三..."
+    }
+
+    "Twelfth floor reached. Mass teleport in 60 s."
+    {
+        "chi" "已抵达第十二层,60秒后进行传送"
+    }
+
+    "twelve..."
+    {
+        "chi" "十二..."
+    }
+
+    "Two dolls collected..."
+    {
+        "chi" "两个娃娃已找到..."
+    }
+
+    "two..."
+    {
+        "chi" "二..."
+    }
+
+    "Vespa found."
+    {
+        "chi" "标记已找到..."
+    }
+
+    "Wooden key found. It can be used only once."
+    {
+        "chi" "木质钥匙已被找到,只可使用一次!!"
+    }
+
+}

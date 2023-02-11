@@ -1,0 +1,303 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+    "Stage BLUE Completed"
+    {
+     "chi" "关卡BLUE:已完成"
+    }
+    
+    "Stage PURPLE Completed"
+    {
+        "chi" "关卡PURPLE:已完成"
+    }
+    
+    "Stage YELLOW Completed"
+    {
+        "chi" "关卡YELLOW:已完成"
+    }
+    
+    "Stage RED Completed"
+    {
+        "chi" "关卡RED:已完成"
+    }
+    
+    "Stage CODEX Completed"
+    {
+        "chi" "关卡Codex:已完成"
+    }
+    
+    "Admin force loading stage BLUE"
+    {
+        "chi" "管理员设定关卡至BLUE"
+    }
+    
+    "Admin force loading stage PURPLE"
+    {
+        "chi" "管理员设定关卡至PURPLE"
+    }
+    
+    "Admin force loading stage YELLOW"
+    {
+        "chi" "管理员设定关卡至YELLOW"
+    }
+    
+    "Admin force loading stage RED"
+    {
+        "chi" "管理员设定关卡至RED"
+    }
+    
+    "Admin force loading stage CODEX"
+    {
+        "chi" "管理员设定关卡至Codex"
+    }
+    
+    "Unknown stage, use the Admin button below the spawn to set the stage."
+    {
+        "chi" "未知关卡,使用出生点下方的按钮设定关卡"
+    }
+    
+    "Current Stage: RTV"
+    {
+        "chi" "当前关卡:RTV"
+    }
+    
+    "Current Music: Moon Halo"
+    {
+        "chi" "当前音乐:Moon Halo"
+    }
+    
+    "Item Locked..."
+    {
+        "chi" "物品已被锁定..."
+    }
+    
+    "Zombie Detected, Stage Fail"
+    {
+        "chi" "检测到僵尸,回合失败..."
+    }
+    
+    "Current Stage: BLUE"
+    {
+        "chi" "当前关卡:BLUE"
+    }
+    
+    "Current Music: Electric Love"
+    {
+        "chi" "当前音乐:Electric Love"
+    }
+    
+    "Current Music: New Wave Hookers"
+    {
+        "chi" "当前音乐:New Wave Hookers"
+    }
+    
+    "Step on the TOP of the BLUE CRYSTAL to break it......"
+    {
+        "chi" "去到蓝色水晶的顶部并破坏掉它..."
+    }
+    
+    "Current Stage: PURPLE"
+    {
+        "chi" "当前关卡:PURPLE"
+    }
+    
+    "Current Music: Plastic Love"
+    {
+        "chi" "当前音乐:Plastic Love"
+    }
+    
+    "......GRAVITY......"
+    {
+        "chi" "引力..."
+    }
+    
+    "AWAY FROM LOWER PLATFORM"
+    {
+        "chi" "远离低处的平台"
+    }
+    
+    "......SNOW......"
+    {
+        "chi" "落雪..."
+    }
+    
+    "CROUCH AT LOWER PLATFORM"
+    {
+        "chi" "在低处的平台蹲下"
+    }
+    
+    "......FALLEN......"
+    {
+        "chi" "坠落..."
+    }
+    
+    "LOOK UP AND STAY ALIVE"
+    {
+        "chi" "抬头看,活下去"
+    }
+    
+    "......LASER......"
+    {
+        "chi" "激光束..."
+    }
+    
+    "HIDE UNDER THE BOSS"
+    {
+        "chi" "在Boss下方躲避"
+    }
+    
+    "Current Music: The Last Blossom"
+    {
+        "chi" "当前音乐:The Last Blossom"
+    }
+    
+    "Fight the PURPLE CRYSTAL to break it......"
+    {
+        "chi" "射击紫色水晶并破坏掉它..."
+    }
+    
+    "Current Stage: YELLOW"
+    {
+        "chi" "当前关卡:YELLOW"
+    }
+    
+    "Touch the Laser to break the YELLOW CRYSTAL......"
+    {
+        "chi" "触碰那些光束来破坏黄色水晶..."
+    }
+    
+    "Current Music: On A Good Day"
+    {
+        "chi" "当前音乐:On A Good Day"
+    }
+    
+    "Current Music: Guo"
+    {
+        "chi" "当前音乐:Guo"
+    }
+    
+    "Current Stage: RED"
+    {
+        "chi" "当前关卡:RED"
+    }
+    
+    "Current Music: Untitled"
+    {
+        "chi" "当前音乐:Untitled"
+    }
+    
+    "Current Music: Sparkle"
+    {
+        "chi" "当前音乐:Sparkle"
+    }
+    
+    "Touch the BOTTOM of the RED CRYSTAL to break it......"
+    {
+        "chi" "触碰红色水晶的底部来破坏掉它..."
+    }
+    
+    "Current Music: The Way Home"
+    {
+        "chi" "当前音乐:The Way Home"
+    }
+    
+    "Current Stage ... CODEX"
+    {
+        "chi" "当前关卡:Codex..."
+    }
+    
+    "Recovering PURPLE......"
+    {
+        "chi" "正在重载PURPLE..."
+    }
+    
+    "Color PURPLE Recovered"
+    {
+        "chi" ">>PURPLE重载完成<<"
+    }
+    
+    "PURPLE Item Unlock"
+    {
+        "chi" ">物品PURPLE已解锁<"
+    }
+    
+    "Recovering BLUE......"
+    {
+        "chi" "正在重载BLUE..."
+    }
+    
+    "Color BLUE Recovered"
+    {
+        "chi" ">>BLUE重载完成<<"
+    }
+    
+    "BLUE Item Unlock"
+    {
+        "chi" ">物品BLUE已解锁<"
+    }
+    
+    "Recovering RED......"
+    {
+        "chi" "正在重载RED..."
+    }
+    
+    "Color RED Recovered"
+    {
+        "chi" ">>RED重载完成<<"
+    }
+    
+    "RED Item Unlock"
+    {
+        "chi" ">物品RED已解锁<"
+    }
+    
+    "Recovering YELLOW......"
+    {
+        "chi" "正在重载YELLOW..."
+    }
+    
+    "Color YELLOW Recovered"
+    {
+        "chi" ">>YELLOW重载完成<<"
+    }
+    
+    "YELLOW Item Unlock"
+    {
+        "chi" ">物品YELLOW已解锁<"
+    }
+    
+    "Map Completed"
+    {
+        "chi" "地图已完成"
+    }
+    
+    "Thank you for playing"
+    {
+        "chi" ">>感谢游玩<<"
+    }
+    
+    "Current Stage RTV"
+    {
+        "chi" "当前进度:RTV"
+    }
+    
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+    "Special Thanks to Chrazini for Beautiful Letters!"
+    {
+        "chi" "特别感谢: Chrazini"
+    }
+
+}

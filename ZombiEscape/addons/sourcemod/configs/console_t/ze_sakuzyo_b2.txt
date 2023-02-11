@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -287,11 +287,6 @@
     }
 
     "*** Zombies are free ***"
-    {
-        "chi" "**丧尸出笼**"
-    }
-
-    "*** ZOMBIES ARE FREE ***"
     {
         "chi" "**丧尸出笼**"
     }

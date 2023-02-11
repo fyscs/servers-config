@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -277,11 +277,6 @@
         "chi" "门5秒后关闭"
     }
 
-    ">>> DOOR CLOSES IN 5 SEC <<<"
-    {
-        "chi" ">>>门5秒后关闭<<<"
-    }
-
     ">>> DOOR IS OPEN! RUN!!! <<<"
     {
         "chi" ">>>门开了!快溜!<<<"
@@ -297,22 +292,12 @@
         "chi" "门在25秒后打开"
     }
 
-    ">>> DOOR OPENS IN 25 SEC <<<"
-    {
-        "chi" "门在25秒后打开"
-    }
-
     ">>> DOOR OPENS IN 30 SEC <<<"
     {
         "chi" "门在30秒后打开"
     }
 
     ">>> DOOR OPENS IN 5 sec <<<"
-    {
-        "chi" "门在5秒后打开"
-    }
-
-    ">>> DOOR OPENS IN 5 SEC <<<"
     {
         "chi" "门在5秒后打开"
     }

@@ -1,0 +1,44 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***** 10 SECOND *****"
+    {
+        "chi" "还有10秒"
+    }
+
+    "***** 20 SECOND *****"
+    {
+        "chi" "还有20秒"
+    }
+
+    "***** 30 SECOND *****"
+    {
+        "chi" "还有30秒"
+    }
+
+    "***** 40 SECOND *****"
+    {
+        "chi" "还有40秒"
+    }
+
+    "***** FALL BACK *****"
+    {
+        "chi" "是时候撤退了!!"
+    }
+
+    "***** HUMANS WIN *****"
+    {
+        "chi" "人类胜利!!!"
+    }
+
+}

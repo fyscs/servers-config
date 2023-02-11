@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -61,11 +61,6 @@
         "chi" "**尼敏装置已触发守住20秒**"
     }
 
-    "*** 25 seconds to activate Nymian device ***"
-    {
-        "chi" "__null__"
-    }
-
     "*** 25 seconds to Activate Nymian device ***"
     {
         "chi" "**尼敏装置已触发守住25秒 **"
@@ -79,11 +74,6 @@
     "*** 30 seconds to Activate Nymian device  ***"
     {
         "chi" "**尼敏装置已触发守住30秒**"
-    }
-
-    "*** 30 seconds to activate Nymian device ***"
-    {
-        "chi" "__null__"
     }
 
     "*** 30 seconds to Activate Nymian device ***"
@@ -188,12 +178,12 @@
 
     "*** Behemoth King Appeared ***"
     {
-        "chi" "**贝尔摩斯出现了**"
+        "chi" "**贝西摩斯出现了**"
     }
 
     "*** Behemoth King dead ***"
     {
-        "chi" "**贝尔摩斯被打败了**"
+        "chi" "**贝西摩斯被打败了**"
     }
 
     "*** Cauterize ***"
@@ -278,7 +268,7 @@
 
     "*** HOLD 20 seconds ***"
     {
-        "chi" "__null__"
+        "chi" "守住20秒"
     }
 
     "*** Human Killer ON ***"
@@ -293,7 +283,7 @@
 
     "*** Kill Odin ***"
     {
-        "chi" "**杀了奥丁**"
+        "chi" "**快射击奥丁**"
     }
 
     "*** Land Slide ***"
@@ -454,11 +444,6 @@
     "*** Shoot him ***"
     {
         "chi" "**射击它**"
-    }
-
-    "*** Shoot Him ***"
-    {
-        "chi" "__null__"
     }
 
     "*** Shoot to Enkidu ***"
@@ -698,7 +683,7 @@
 
     "***Tempest Wing***"
     {
-        "chi" "**狂风之翼[退到平台面最后抵御吸力]**"
+        "chi" "**狂风之翼[退到平台最后抵御吸力]**"
     }
 
     "***Texture Support by fujione***"

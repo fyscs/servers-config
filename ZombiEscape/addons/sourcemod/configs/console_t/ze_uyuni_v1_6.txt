@@ -1,0 +1,284 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***Shooting Star***"
+    {
+        "chi" "流星"
+    }
+
+    "***Snow Prism***"
+    {
+        "chi" "雪之棱镜"
+    }
+
+    "***Suction Mist***"
+    {
+        "chi" "涌动之雾"
+    }
+
+    "***Super Snow Storm***"
+    {
+        "chi" "暴风雪"
+    }
+
+    "***ZM***"
+    {
+        "chi" "ZM"
+    }
+
+    "< 15 >"
+    {
+        "chi" "15秒"
+    }
+
+    "< 25 >"
+    {
+        "chi" "25秒"
+    }
+
+    "< A player picked up Cool Light >"
+    {
+        "chi" "一名玩家捡起了冰"
+    }
+
+    "< A player picked up Gale Light  >"
+    {
+        "chi" "一名玩家捡起了风"
+    }
+
+    "< A player picked up Holy Light  >"
+    {
+        "chi" "一名玩家捡起了治疗"
+    }
+
+    "< A player picked up Rainbow Squares >"
+    {
+        "chi" "一名玩家捡起了彩虹"
+    }
+
+    "< A player picked up Warm Light  >"
+    {
+        "chi" "一名玩家捡起了火"
+    }
+
+    "< A zombie picked up Abyss Light  >"
+    {
+        "chi" "一名僵尸捡起了黑洞"
+    }
+
+    "< A zombie picked up Fallen Light  >"
+    {
+        "chi" "一名僵尸捡起了加速"
+    }
+
+    "< A zombie picked up Gravity Light  >"
+    {
+        "chi" "一名僵尸捡起了重力"
+    }
+
+    "< A zombie picked up Mortal Light  >"
+    {
+        "chi" "一名僵尸捡起了秒杀"
+    }
+
+    "< Chase the light >"
+    {
+        "chi" "追逐那道光"
+    }
+
+    "< De?/n# fo> 30 s!c@nds >"
+    {
+        "chi" "防守30秒"
+    }
+
+    "< Defend for 15 seconds >"
+    {
+        "chi" "防守15秒"
+    }
+
+    "< Defend for 20 seconds >"
+    {
+        "chi" "防守20秒"
+    }
+
+    "< Defend for 25 seconds>"
+    {
+        "chi" "防守25秒"
+    }
+
+    "< Defend for 30 seconds >"
+    {
+        "chi" "防守30秒"
+    }
+
+    "< Defend for 35 seconds >"
+    {
+        "chi" "防守35秒"
+    }
+
+    "< Do not let zombies touch the light >"
+    {
+        "chi" "不能让僵尸污染那道光"
+    }
+
+    "< Endless Mode >"
+    {
+        "chi" "无尽模式"
+    }
+
+    "< Gods lights are now ready >"
+    {
+        "chi" "苍穹之光准备就绪"
+    }
+
+    "< Hard Mode >"
+    {
+        "chi" "困难模式"
+    }
+
+    "< Hold here >"
+    {
+        "chi" "在这守住"
+    }
+
+    "< It is recommended to set Shader Detail to HIGH or higher >"
+    {
+        "chi" "建议将光影细节设置为高或者最高"
+    }
+
+    "< It will end in 20 seconds >"
+    {
+        "chi" "20秒后终结一切"
+    }
+
+    "< Keep defending >"
+    {
+        "chi" "保持火力"
+    }
+
+    "< Map by Pohmian/Mochi >"
+    {
+        "chi" "地图作者:Pohmian/Mochi 汉化:枣子@fys"
+    }
+
+    "< Normal Mode >"
+    {
+        "chi" "普通模式"
+    }
+
+    "< Round Failed >"
+    {
+        "chi" "回合失败"
+    }
+
+    "< Teleport activates in 20 seconds >"
+    {
+        "chi" "20秒后激活传送"
+    }
+
+    "< The gate opens in 30 seconds >"
+    {
+        "chi" "30秒后开启大门"
+    }
+
+    "< The Possessed Light >"
+    {
+        "chi" "支配之光"
+    }
+
+    "< You won endless mode >"
+    {
+        "chi" "你通关了无尽模式"
+    }
+
+    "< You won Hard Mode >"
+    {
+        "chi" "你通关了困难模式"
+    }
+
+    "< ze_Uyuni >"
+    {
+        "chi" "乌尤尼_天空之境"
+    }
+
+    "< ZM Items are disabled >"
+    {
+        "chi" "僵尸神器已禁用"
+    }
+
+    "<20 seconds>"
+    {
+        "chi" "20秒"
+    }
+
+    "<Defend 20 seconds>"
+    {
+        "chi" "守住20秒"
+    }
+
+    "<Defend 25 seconds>"
+    {
+        "chi" "守住25秒"
+    }
+
+    "<Defend 30 seconds>"
+    {
+        "chi" "守住30秒"
+    }
+
+    "<Defend 35 seconds>"
+    {
+        "chi" "守住35秒"
+    }
+
+    "<Failed>"
+    {
+        "chi" "失败"
+    }
+
+    "<Hold 15 seconds>"
+    {
+        "chi" "防御15秒"
+    }
+
+    "<Hold 25 seconds>"
+    {
+        "chi" "防御25秒"
+    }
+
+    "<Hold 30 seconds>"
+    {
+        "chi" "防御30秒"
+    }
+
+    "<Keep defending 20 seconds>"
+    {
+        "chi" "保持防守20秒"
+    }
+
+    "<The Gate open in 20 seconds>"
+    {
+        "chi" "20秒后开启大门"
+    }
+
+    "<The Gate opens in 20 seconds>"
+    {
+        "chi" "20秒后将会开启大门"
+    }
+
+    "<You won Normal Mode>"
+    {
+        "chi" "你通关了普通模式"
+    }
+
+}

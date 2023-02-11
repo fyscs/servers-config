@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -62,11 +62,6 @@
         "chi" "**守住僵尸20秒**"
     }
 
-    "**20 SECONDS LEFT**"
-    {
-        "chi" "守住僵尸20秒"
-    }
-
     "**25 seconds are left**"
     {
         "chi" "**守住僵尸25秒**"
@@ -97,19 +92,9 @@
         "chi" "守住僵尸5秒"
     }
 
-    "**5 SECONDS LEFT**"
-    {
-        "chi" "**守住僵尸5秒**"
-    }
-
     "**5 seconds!**"
     {
         "chi" "**守住僵尸5秒**"
-    }
-
-    "**5 SECONDS!**"
-    {
-        "chi" "守住僵尸5秒"
     }
 
     "**ADMIN SWITCHING TO STAGE 1**"
@@ -215,11 +200,6 @@
     "**Fall back!**"
     {
         "chi" "**博尔特们!懂的都懂**"
-    }
-
-    "**FALL BACK!**"
-    {
-        "chi" "快撤退!!"
     }
 
     "**FALL BACK**"
@@ -410,11 +390,6 @@
     "**Thanks for playing! Map by jenz**"
     {
         "chi" "**感谢您的游玩 地图制作:jenz 地图翻译:户冢彩加&萌大奶@风云社**"
-    }
-
-    "**THANKS FOR PLAYING! MAP BY JENZ**"
-    {
-        "chi" "感谢您的参与!地图由 JENZ"
     }
 
     "**The boat will leave in 30 seconds!**"

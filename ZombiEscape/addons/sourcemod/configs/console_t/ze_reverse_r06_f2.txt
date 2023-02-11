@@ -1,0 +1,120 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    ">> 10 seconds <<"
+    {
+        "chi" "还有10秒"
+    }
+
+    ">> 20 seconds <<"
+    {
+        "chi" "还有20秒"
+    }
+
+    ">> 30 seconds <<"
+    {
+        "chi" "还有30秒"
+    }
+
+    ">> 35 seconds <<"
+    {
+        "chi" "还有35秒"
+    }
+
+    ">> 40 seconds <<"
+    {
+        "chi" "还有40秒"
+    }
+
+    ">> 5 seconds left <<"
+    {
+        "chi" "还有5秒"
+        "blocked" "1"
+    }
+
+    ">> 50 seconds <<"
+    {
+        "chi" "还有50秒"
+    }
+
+    ">> 70 seconds <<"
+    {
+        "chi" "还有70秒"
+    }
+
+    ">> Admin set to Checkpointless Mode - Secret <<"
+    {
+        "chi" "管理员已设定至无存档点模式 >隐藏关卡<"
+    }
+
+    ">> Admin set to Checkpointless Mode <<"
+    {
+        "chi" "> 管理员已设定至无存档点模式 <"
+    }
+
+    ">> Admin set to Stage 1 <<"
+    {
+        "chi" "管理员设定至 >章节一<"
+    }
+
+    ">> Admin set to Stage 2 - Secret <<"
+    {
+        "chi" "管理员设定至章节二 >隐藏<"
+    }
+
+    ">> Admin set to Stage 2 <<"
+    {
+        "chi" "管理员设定至章节二 >普通<"
+    }
+
+    ">> Failed <<"
+    {
+        "chi" "你们失败了..."
+    }
+
+    ">> Follow the light <<"
+    {
+        "chi" "追随光明"
+    }
+
+    ">> Timeleft : 10 <<"
+    {
+        "chi" "剩余10秒"
+    }
+
+    ">> Timeleft : 30 <<"
+    {
+        "chi" "剩余30秒"
+    }
+
+    ">> Timeleft : 60 <<"
+    {
+        "chi" "剩余60秒"
+    }
+
+    ">> Zombie tp in 10 seconds <<"
+    {
+        "chi" "僵尸10秒后传送"
+    }
+
+    ">> Zombie tp in 15 seconds <<"
+    {
+        "chi" "僵尸15秒后传送"
+    }
+
+    ">> Zombies Detected <<"
+    {
+        "chi" "已检测到僵尸"
+    }
+
+}

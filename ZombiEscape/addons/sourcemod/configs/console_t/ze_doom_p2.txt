@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -44,12 +44,7 @@
 
     "** Door opening in 10 seconds **"
     {
-        "chi" "**门将在10秒后打开!不要着急!**"
-    }
-
-    "** Door Opening in 10 Seconds **"
-    {
-        "chi" "门将在10秒后打开!不要开假枪"
+        "chi" "**门将在10秒后打开!你先别急!**"
     }
 
     "** Door opening in 10 seconds! **"
@@ -85,11 +80,6 @@
     "** Door opening in 30 seconds! **"
     {
         "chi" "**门将在30秒后打开!守住!**"
-    }
-
-    "** Door Opening in 30 seconds! **"
-    {
-        "chi" "门将在30秒后打开!不要开假枪!"
     }
 
     "** Door opening in 40 seconds! **"

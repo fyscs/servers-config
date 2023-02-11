@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -100,11 +100,6 @@
         "chi" "20秒后大门破碎"
     }
 
-    "***Door Break in 20 seconds***"
-    {
-        "chi" "20秒后大门破碎"
-    }
-
     "***Door open in 20 seconds***"
     {
         "chi" "20秒后大门打开"
@@ -126,11 +121,6 @@
     }
 
     "***Failed***"
-    {
-        "chi" "失败"
-    }
-
-    "***FAILED***"
     {
         "chi" "失败"
     }
@@ -185,11 +175,6 @@
         "chi" "防守至大门破碎"
     }
 
-    "***Hold until Door Break***"
-    {
-        "chi" "防守至大门破碎"
-    }
-
     "***HOLD UNTIL GATE OPEN***"
     {
         "chi" "防守至大门打开"
@@ -226,11 +211,6 @@
     }
 
     "***Portal open in 30 seconds***"
-    {
-        "chi" "大门30秒后开启"
-    }
-
-    "***Portal Open in 30 seconds***"
     {
         "chi" "大门30秒后开启"
     }

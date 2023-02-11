@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -53,7 +53,7 @@
 
     ">>> AFK TELEPORT IN 10 SECONDS <<<"
     {
-        "chi" ">>>AFK玩家10秒后传送<<<"
+        "chi" ">>>10秒后传送挂机的玩家<<<"
     }
 
     ">>> AFK TELEPORT IN 5 SECONDS <<<"
@@ -439,6 +439,76 @@
     ">>> ZOMBIES TELEPORT IN 5 SECONDS <<<"
     {
         "chi" ">>>僵尸5秒后传送<<<"
+    }
+
+    ">>> STAGE 1 : GARDEN MODE<<<"
+    {
+        "chi" ">>>第一关: 花园<<<"
+    }
+
+    ">>> Special thanks to hobbit <<<"
+    {
+        "chi" ">>>特别鸣谢: Hobbit<<<"
+    }
+
+    ">>> PRIEST IS COMING <<<"
+    {
+        "chi" ">>>神父来袭<<<"
+    }
+
+    ">>> PRIEST IS DEFEATED <<<"
+    {
+        "chi" ">>>神父被打败了<<<"
+    }
+
+    ">>> STAGE 2 : FOREST MODE<<<"
+    {
+        "chi" ">>>第二关: 森林<<<"
+    }
+
+    ">>> GUNSHIP IS COMING <<<"
+    {
+        "chi" ">>>炮艇来袭<<<"
+    }
+
+    ">>> GUNSHIP IS DEFEATED <<<"
+    {
+        "chi" ">>>炮艇被打败了<<<"
+    }
+
+    ">>> GARGANTUA IS COMING <<<"
+    {
+        "chi" ">>>加尔干来袭<<<"
+    }
+
+    ">>> GARGANTUA IS DEFEATED <<<"
+    {
+        "chi" ">>>加尔干被打败了<<<"
+    }
+
+    ">>> STAGE 3 : FACILITY MODE<<<"
+    {
+        "chi" ">>>第三关: 设施<<<"
+    }
+
+    ">>> HARPY IS COMING <<<"
+    {
+        "chi" ">>>哈耳庇厄来袭<<<"
+    }
+
+    ">>> HARPY IS DEFEATED <<<"
+    {
+        "chi" ">>>哈耳庇厄被打败了<<<"
+    }
+
+    ">>> BARRIER BREAK IN 60 SECONDS <<<"
+    {
+        "chi" ">>>屏障将在60s后破碎<<<"
+    }
+
+    ">>> STAGE 0 : DARK MODE<<<"
+    {
+        "chi" ">>>隐藏关: 里世界<<<"
     }
 
 }

@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -169,11 +169,6 @@
     "** nuke in 5 **"
     {
         "chi" "5秒后结束"
-    }
-
-    "** NUKE in 5 **"
-    {
-        "chi" "核爆:5秒"
     }
 
     "** Shoot the glass on the top **"

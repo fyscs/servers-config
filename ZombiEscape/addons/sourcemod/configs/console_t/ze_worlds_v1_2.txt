@@ -1,0 +1,284 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "* * * Admin has pressed 1st world * * *"
+    {
+        "chi" "管理员已选择第一个世界"
+    }
+
+    "* * * Admin has pressed 2nd world * * *"
+    {
+        "chi" "管理员已选择第二个世界"
+    }
+
+    "* * * Admin has pressed 3rd world * * *"
+    {
+        "chi" "管理员已选择第三个世界"
+    }
+
+    "* * * Admin has pressed 4th world * * *"
+    {
+        "chi" "管理员已选择第四个世界"
+    }
+
+    "* * * Beam * * *"
+    {
+        "chi" ">>激光<<"
+    }
+
+    "* * * Beams * * *"
+    {
+        "chi" ">>激光<<"
+    }
+
+    "* * * Block will move in 5 seconds * * *"
+    {
+        "chi" "障碍物5秒后消失"
+    }
+
+    "* * * Break the core of temple * * *"
+    {
+        "chi" "破坏神庙的核心"
+    }
+
+    "* * * Center breaks in 30 seconds * * *"
+    {
+        "chi" "核心30秒后毁坏"
+    }
+
+    "* * * Chicken is Dead * * *"
+    {
+        "chi" "Chicken被击杀了!"
+    }
+
+    "* * * DO NOT TOUCH ORANGE BLOCKS ! * * *"
+    {
+        "chi" "不要碰到橙色的部分,会传送回起点!!!"
+    }
+
+    "* * * Door opens in 20 seconds * * *"
+    {
+        "chi" "这扇门20秒后打开"
+    }
+
+    "* * * Door opens in 5 seconds * * *"
+    {
+        "chi" "这扇门还有5秒打开"
+    }
+
+    "* * * Door will open in 15 seconds * * *"
+    {
+        "chi" "门15秒后打开"
+    }
+
+    "* * * Door will open in 40 seconds * * *"
+    {
+        "chi" "门40秒后打开"
+    }
+
+    "* * * Failed Spawn * * *"
+    {
+        "chi" ">>生成失败<<"
+    }
+
+    "* * * Fall * * *"
+    {
+        "chi" ">>>激光雨<<<"
+    }
+
+    "* * * Fall Wall * * *"
+    {
+        "chi" ">>方块落下<<"
+    }
+
+    "* * * Falling Balls * * *"
+    {
+        "chi" ">>躲避<<"
+    }
+
+    "* * * Falling Walls * * *"
+    {
+        "chi" ">>>方块落下<<<"
+    }
+
+    "* * * Fire Balls (3 times) * * *"
+    {
+        "chi" "火球(三次)"
+    }
+
+    "* * * Hurt * * *"
+    {
+        "chi" ">>伤害<<"
+    }
+
+    "* * * Invisible wall break in 20 seconds * * *"
+    {
+        "chi" "隐形墙20秒后破开"
+    }
+
+    "* * * Invisible wall breaks in 20 seconds * * *"
+    {
+        "chi" "隐形墙20秒后破开"
+    }
+
+    "* * * Invisible wall breaks in 25 seconds * * *"
+    {
+        "chi" "隐形墙25秒后破开"
+    }
+
+    "* * * Invisible wall breaks in 30 seconds * * *"
+    {
+        "chi" "隐形墙30秒后破开"
+    }
+
+    "* * * Kill the chicken * * *"
+    {
+        "chi" "杀掉这只鸡!"
+    }
+
+    "* * * Kill Zombies * * *"
+    {
+        "chi" "杀死僵尸!"
+    }
+
+    "* * * Left * * *"
+    {
+        "chi" "左边已完成触发!"
+    }
+
+    "* * * Mini * * *"
+    {
+        "chi" ">>环形激光<<"
+    }
+
+    "* * * Player has picked up Barrier * * *"
+    {
+        "chi" "玩家拾起了屏障"
+    }
+
+    "* * * Player has picked up Heal * * *"
+    {
+        "chi" "玩家拾起了治疗"
+    }
+
+    "* * * Player has picked up ZBoost * * *"
+    {
+        "chi" "僵尸拾起了僵尸加速"
+    }
+
+    "* * * Player picked up ZField * * *"
+    {
+        "chi" "僵尸拾起了僵尸领域"
+    }
+
+    "* * * Push enable in 15 seconds * * *"
+    {
+        "chi" "PUSH推力15秒后开启"
+    }
+
+    "* * * Right * * *"
+    {
+        "chi" "右边已完成触发"
+    }
+
+    "* * * Ring * * *"
+    {
+        "chi" ">>光环落下<<"
+    }
+
+    "* * * Rings * * *"
+    {
+        "chi" ">>>光环落下<<<"
+    }
+
+    "* * * Secret blades are enabled * * *"
+    {
+        "chi" "彩蛋随机Laser已启用"
+    }
+
+    "* * * Secret button has been pressed * * *"
+    {
+        "chi" ">>彩蛋按钮已按下<<"
+    }
+
+    "* * * Side breaks in 5 seconds * * *"
+    {
+        "chi" "侧边5秒后破开"
+    }
+
+    "* * * Teleport enables in 20 seconds * * *"
+    {
+        "chi" "传送20秒后启动!!"
+    }
+
+    "* * * Teleport will be enabled soon * * *"
+    {
+        "chi" "传送即将启动"
+    }
+
+    "* * * The way opens in 15 seconds * * *"
+    {
+        "chi" "道路15秒后打开"
+    }
+
+    "* * * The way will appear soon... Defend ! * * *"
+    {
+        "chi" "道路即将打开,保持防守!!"
+    }
+
+    "* * * The way will open in 20 seconds * * *"
+    {
+        "chi" "道路20秒后打开"
+    }
+
+    "* * * Upper * * *"
+    {
+        "chi" ">>上升气流<<"
+    }
+
+    "* * * Wall explodes in 10 seconds * * *"
+    {
+        "chi" "墙10秒后爆炸"
+    }
+
+    "* * * You can touch orange blocks now * * *"
+    {
+        "chi" "现在可以正常通过了"
+    }
+
+    "* * * Zombie * * *"
+    {
+        "chi" ">>>尸笼<<<"
+    }
+
+    "* * * Zombie nuke in 15 seconds * * *"
+    {
+        "chi" "僵尸核爆15秒后启动"
+    }
+
+    "* * * Zombies * * *"
+    {
+        "chi" ">>尸笼<<"
+    }
+
+    "* * * Zombies Win * * *"
+    {
+        "chi" "僵尸胜利!!"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}

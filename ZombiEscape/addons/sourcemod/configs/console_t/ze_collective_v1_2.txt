@@ -1,0 +1,476 @@
+"Console_T"
+{
+    "***[BUNKER ENDING] OPENING EXTRA DOOR (FULLY)________***"
+    {
+        "chi"        "[地堡结局] 完全打开一道舱门"
+    }
+    "***[BUNKER ENDING] OPENING EXTRA DOOR (CROUCH)________***"
+    {
+        "chi"        "[地堡结局] 打开一道舱门"
+    }
+    "***[BUNKER ENDING] KEEPING EXTRA DOOR CLOSED________***"
+    {
+        "chi"        "[地堡结局] 舱门开始关闭"
+    }
+    "***[BUNKER ENDING] OPENING EXTRA DOOR (FULLY)________(no opposition)***"
+    {
+        "chi"        "[地堡结局] 舱门完全关闭(没有阻挡)"
+    }
+    "***[BUNKER ENDING] YOU TOOK TOO LONG TO FINISH OFF THE ZOMBIES***"
+    {
+        "chi"        "[地堡结局] 你花了太长时间才把僵尸干掉"
+    }
+    "***[BUNKER ENDING] YOU WON!***"
+    {
+        "chi"        "[地堡结局] 芜湖,你胜利了!"
+    }
+    "***[BUNKER ENDING] YOU LOST!***"
+    {
+        "chi"        "[地堡结局] 就这?你输了!"
+    }
+    "***[BUNKER ENDING] THIS IS YOUR LAST STAND***"
+    {
+        "chi"        "[地堡结局] 这将是你的最后一战"
+    }
+    "***[BUNKER ENDING] DEFEND THE BUNKER WITH YOUR LIFE***"
+    {
+        "chi"        "[地堡结局] 用你的生命保卫地堡"
+    }
+    "***[BUNKER ENDING] HOLD OUT FOR ***"
+    {
+        "chi"        "[地堡结局] 守住"
+    }
+    "***[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 60s***"
+    {
+        "chi"        "[地堡结局] 外面将在60秒后崩塌"
+    }
+    "***[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 30s***"
+    {
+        "chi"        "[地堡结局] 外面将在30秒后崩塌"
+        "blocked" "1"
+    }
+    "***[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 10s***"
+    {
+        "chi"        "[地堡结局] 外面将在10秒后崩塌"
+        "blocked" "1"
+    }
+    "***[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 5s***"
+    {
+        "chi"        "[地堡结局] 外面将在5秒后崩塌"
+        "blocked" "1"
+    }
+    "***[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 4s***"
+    {
+        "chi"        "[地堡结局] 外面将在4秒后崩塌"
+        "blocked" "1"
+    }
+    "***[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 3s***"
+    {
+        "chi"        "[地堡结局] 外面将在3秒后崩塌"
+        "blocked" "1"
+    }
+    "***[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 2s***"
+    {
+        "chi"        "[地堡结局] 外面将在2秒后崩塌"
+        "blocked" "1"
+    }
+    "***[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 1s***"
+    {
+        "chi"        "[地堡结局] 外面将在1秒后崩塌"
+        "blocked" "1"
+    }
+    "***[BUNKER ENDING] THE OUTSIDE IS STARTING TO CRUMBLE***"
+    {
+        "chi"        "[地堡结局] 外面开始崩塌"
+    }
+    "***[BRIDGE ENDING]***"
+    {
+        "chi"        "[石桥结局]"
+    }
+    "***[BRIDGE ENDING] HOLD THE BRIDGE FOR ***"
+    {
+        "chi"        "[石桥结局] 守住石桥"
+    }
+    "***[BRIDGE ENDING] BRIDGE CRUMBLING IN 60s***"
+    {
+        "chi"        "[石桥结局] 石桥将在60秒后崩塌"
+    }
+    "***[BRIDGE ENDING] BRIDGE CRUMBLING IN 30s***"
+    {
+        "chi"        "[石桥结局] 石桥将在30秒后崩塌"
+        "blocked" "1"
+    }
+    "***[BRIDGE ENDING] BRIDGE CRUMBLING IN 10s***"
+    {
+        "chi"        "[石桥结局] 石桥将在10秒后崩塌"
+        "blocked" "1"
+    }
+    "***[BRIDGE ENDING] BRIDGE CRUMBLING IN 5s***"
+    {
+        "chi"        "[石桥结局] 石桥将在5秒后崩塌"
+        "blocked" "1"
+    }
+    "***[BRIDGE ENDING] BRIDGE CRUMBLING IN 4s***"
+    {
+        "chi"        "[石桥结局] 石桥将在4秒后崩塌"
+        "blocked" "1"
+    }
+    "***[BRIDGE ENDING] BRIDGE CRUMBLING IN 3s***"
+    {
+        "chi"        "[石桥结局] 石桥将在3秒后崩塌"
+        "blocked" "1"
+    }
+    "***[BRIDGE ENDING] BRIDGE CRUMBLING IN 2s***"
+    {
+        "chi"        "[石桥结局] 石桥将在2秒后崩塌"
+        "blocked" "1"
+    }
+    "***[BRIDGE ENDING] BRIDGE CRUMBLING IN 1s***"
+    {
+        "chi"        "[石桥结局] 石桥将在1秒后崩塌"
+        "blocked" "1"
+    }
+    "***[BRIDGE ENDING] THE BRIDGE IS STARTING TO CRUMBLE***"
+    {
+        "chi"        "[石桥结局] 石桥开始崩塌"
+    }
+    "***[BRIDGE ENDING] RESPAWN IS DISABLED***"
+    {
+        "chi"        "[石桥结局] 重生已禁用"
+    }
+    "***[BRIDGE ENDING] DEFEND!***"
+    {
+        "chi"        "[石桥结局] 守住!"
+    }
+    "***[BRIDGE ENDING] YOU WON!***"
+    {
+        "chi"        "[石桥结局] 你胜利了!"
+    }
+    "***[BRIDGE ENDING] YOU LOST!***"
+    {
+        "chi"        "[石桥结局] 你没能守住这座石桥!"
+    }
+    "***[BRIDGE ENDING] KILL ALL ZOMBIES WITHIN s TO WIN***"
+    {
+        "chi"        "[石桥结局] 杀死所有僵尸取得胜利"
+    }
+    "***[ASCEND ENDING] YOU FAILED DURING ASCENSION - YOU LOSE!***"
+    {
+        "chi"        "[飞升结局] 你在飞升中失败了 - 失败者!"
+    }
+    "***[ASCEND ENDING] 1 HUMAN ASCENDED - SOLO WIN!***"
+    {
+        "chi"        "[飞升结局] 只有一名玩家获得飞升-SOLOOOOOOOO!"
+    }
+    "***[ASCEND ENDING]  HUMANS ASCENDED - YOU WIN!***"
+    {
+        "chi"        "[飞升结局] 人类飞升 - 你获得了胜利!"
+    }
+    "***[ASCEND ENDING] NO HUMANS ASCENDED - YOU LOSE!***"
+    {
+        "chi"        "[飞升结局] 没有人飞升 - 你们失败了!"
+    }
+    "***[ASCEND ENDING]***"
+    {
+        "chi"        "[飞升结局]"
+    }
+    "***[ASCEND ENDING] YOU WILL SOON ASCEND TO THE HEAVENS***"
+    {
+        "chi"        "[飞升结局] 你们不久将会获得飞升"
+    }
+    "***[ASCEND ENDING] SURVIVE FOR s***"
+    {
+        "chi"        "[飞升结局] 生存"
+    }
+    "***[ASCEND ENDING] ASCENSION IN 60s***"
+    {
+        "chi"        "[飞升结局] 60秒后获得飞升"
+    }
+    "***[ASCEND ENDING] ASCENSION IN 30s***"
+    {
+        "chi"        "[飞升结局] 30秒后获得飞升"
+        "blocked" "1"
+    }
+    "***[ASCEND ENDING] ASCENSION IN 10s***"
+    {
+        "chi"        "[飞升结局] 10秒后获得飞升"
+        "blocked" "1"
+    }
+    "***[ASCEND ENDING] ASCENSION IN 5s***"
+    {
+        "chi"        "[飞升结局] 5秒后获得飞升"
+        "blocked" "1"
+    }
+    "***[ASCEND ENDING] ASCENSION IN 4s***"
+    {
+        "chi"        "[飞升结局] 4秒后获得飞升"
+        "blocked" "1"
+    }
+    "***[ASCEND ENDING] ASCENSION IN 3s***"
+    {
+        "chi"        "[飞升结局] 3秒后获得飞升"
+        "blocked" "1"
+    }
+    "***[ASCEND ENDING] ASCENSION IN 2s***"
+    {
+        "chi"        "[飞升结局] 2秒后获得飞升"
+        "blocked" "1"
+    }
+    "***[ASCEND ENDING] ASCENSION IN 1s***"
+    {
+        "chi"        "[飞升结局] 1秒后获得飞升"
+        "blocked" "1"
+    }
+    "***[ASCEND ENDING] THE ASCENSION HAS BEGUN!***"
+    {
+        "chi"        "[飞升结局] 飞升仪式启动!!"
+    }
+    "***[HUNT ENDING] YOU RAN OUT OF TIME - YOU LOSE!***"
+    {
+        "chi"        "[狩猎结局] 时间耗尽-你输了!"
+    }
+    "***[HUNT ENDING]***"
+    {
+        "chi"        "[狩猎结局]"
+    }
+    "***[HUNT ENDING] zombies have low HP () - kill them all!***"
+    {
+        "chi"        "[狩猎结局]僵尸只有低血量,杀光他们!"
+    }
+    "***[HUNT ENDING] YOU HAVE s TO KILL THE ZOMBIES***"
+    {
+        "chi"        "[狩猎结局]你有秒杀死这些僵尸"
+    }
+    "***[HUNT ENDING] YOU WON!***"
+    {
+        "chi"        "[狩猎结局]你们做到了!"
+    }
+    "***[HUNT ENDING] YOU LOST!***"
+    {
+        "chi"        "[狩猎结局]你们失败了!"
+    }
+    "***KAMIKAZE INCOMING!***"
+    {
+        "chi"        "神风敢死队来喽!"
+    }
+    "***SHOOT IT DOWN OR TAKE COVER***"
+    {
+        "chi"        "干掉他,或者躲起来"
+    }
+    "***Look out for the grid of beams above***"
+    {
+        "chi"        "注意头上的网格射线"
+    }
+    "***They're coming down!***"
+    {
+        "chi"        "他们要下来了!"
+    }
+    "***Something is happening above us...***"
+    {
+        "chi"        "我们上方发生了一些事情..."
+    }
+    "***The fog is turning thick...***"
+    {
+        "chi"        "雾越来越浓了..."
+    }
+    "***We must find our way through the limited visibility***"
+    {
+        "chi"        "我们必须在有限的能见度下找到出路"
+    }
+    "***The bloodthirst has ended!***"
+    {
+        "chi"        "嗜血已经结束!"
+    }
+    "***You humans suddenly feel a thirst for blood...***"
+    {
+        "chi"        "人类突然感到对血的渴望!"
+    }
+    "***Shoot the zombies to prevent dying from bloodthirst!***"
+    {
+        "chi"        "射杀僵尸以防死于嗜血"
+    }
+    "***Watch out for falling debris!***"
+    {
+        "chi"        "当心掉落的碎片!"
+    }
+    "***The debris seems to have stopped falling...***"
+    {
+        "chi"        "碎片停止掉落了"
+    }
+    "***Gravity reverts in 5s***"
+    {
+        "chi"        "重力5秒后恢复"
+    }
+    "***Gravity is back to normal again***"
+    {
+        "chi"        "重力又恢复正常了"
+    }
+    "***The old stage is unstable***"
+    {
+        "chi"        "旧关卡不稳定"
+    }
+    "***Get out of there before it collapses!***"
+    {
+        "chi"        "在它倒塌之前离开那里"
+    }
+    "***The old stage is collapsing!***"
+    {
+        "chi"        "旧关卡正在倒塌"
+    }
+    "***Our eyes are phasing***"
+    {
+        "chi"        "我们的眼睛灰蒙蒙"
+    }
+    "***We can see through the world***"
+    {
+        "chi"        "我们可以看穿世界"
+    }
+    "***Tread carefully or wait it out...***"
+    {
+        "chi"        "小心走或者等路出来"
+    }
+    "***Our eyes are back to normal again***"
+    {
+        "chi"        "我们的眼睛恢复了正常"
+    }
+    "***Weapons jammed - RELOAD!***"
+    {
+        "chi"        "武器卡住了-重新装弹!"
+    }
+    "***All the 'WALL' tiles are disappearing!***"
+    {
+        "chi"        "所有的墙砖都消失了"
+    }
+    "***Our grenades are big and strong!***"
+    {
+        "chi"        "我们的手雷又大又结实"
+    }
+    "***Maybe too powerful.. beware knockback!***"
+    {
+        "chi"        "也许太强大了,,小心击退"
+    }
+    "***Our grenades are back to normal now...***"
+    {
+        "chi"        "我们的手雷现在恢复正常了"
+    }
+    "***Woah, doorhuggers watch out!***"
+    {
+        "chi"        "爱贴门的人小心喽"
+    }
+    "***Golly, someone got greased!***"
+    {
+        "chi"        "天哪,有人醉了"
+    }
+    "***[FINALE ENDING] YOU REACHED THE END***"
+    {
+        "chi"        "[最终结局]你到达了终点"
+    }
+    "***[FINALE ENDING] THE TOP OF THE PYRAMID IS YOUR ESCAPE***"
+    {
+        "chi"        "[最终结局]金字塔的顶端是你的逃生之路"
+    }
+    "***[FINALE ENDING] DEFEND IT WITH YOUR LIFE***"
+    {
+        "chi"        "[最终结局]用你的生命捍卫它"
+    }
+    "***[FINALE ENDING] RISING IN 30s***"
+    {
+        "chi"        "[最终结局]30秒后上升"
+    }
+    "***[FINALE ENDING] RISING IN 20s***"
+    {
+        "chi"        "[最终结局]20秒后上升"
+    }
+    "***[FINALE ENDING] RISING IN 10s***"
+    {
+        "chi"        "[最终结局]10秒后上升"
+    }
+    "***[FINALE ENDING] RISING IN 5s***"
+    {
+        "chi"        "[最终结局]5秒后上升"
+    }
+    "***[FINALE ENDING] RISING IN 4s***"
+    {
+        "chi"        "[最终结局]4秒后上升"
+    }
+    "***[FINALE ENDING] RISING IN 3s***"
+    {
+        "chi"        "[最终结局]3秒后上升"
+    }
+    "***[FINALE ENDING] RISING IN 2s***"
+    {
+        "chi"        "[最终结局]2秒后上升"
+    }
+    "***[FINALE ENDING] RISING IN 1s***"
+    {
+        "chi"        "[最终结局]1秒后上升"
+    }
+    "***[FINALE ENDING] RISING***"
+    {
+        "chi"        "[最终结局]上升"
+    }
+    "***[FINALE ENDING] NO ZOMBIES ALIVE - YOU WON THE FINALE BY DEFAULT!***"
+    {
+        "chi"        "[最终结局]没有僵尸存活-你赢得了最终的胜利!"
+    }
+    "***[FINALE ENDING] YOU WON THE FINALE - CONGRATULATIONS!***"
+    {
+        "chi"        "[最终结局]你赢得了最终胜利,恭喜!"
+    }
+    "***[FINALE ENDING] YOU LOST!***"
+    {
+        "chi"        "[最终结局]你失败了"
+    }
+    "***[FINALE] elevator leaves in 5s***"
+    {
+        "chi"        "[最终结局]电梯5秒后离开"
+    }
+    "***[FINALE] elevator leaves in 10s***"
+    {
+        "chi"        "[最终结局]电梯10秒后离开"
+    }
+    "***[FINALE] elevator leaves in 30s***"
+    {
+        "chi"        "[最终结局]电梯30秒后离开"
+    }
+    "***[FINALE] watch out from above!***"
+    {
+        "chi"        "[最终结局]小心上面!"
+    }
+    "***[DELAY] you are taking too long - slaying***"
+    {
+        "chi"        "[延迟]你花的时间太长了-杀戮"
+    }
+    "***[DELAY] you are taking too long***"
+    {
+        "chi"        "[延迟]你花的时间太长了"
+    }
+    "***[DELAY] zombies are now invincible***"
+    {
+        "chi"        "[延迟]僵尸现在是不可战胜的"
+    }
+    "***[DELAY] (until the current stage-end is triggered)***"
+    {
+        "chi"        "[延迟]直到触发当前阶段结束"
+    }
+    "***[DELAY] zombies are invincible***"
+    {
+        "chi"        "[延迟]僵尸不可战胜"
+    }
+    "***[DELAY] trigger the stage-end or die***"
+    {
+        "chi"        "[延迟]触发阶段结束"
+    }
+    "***You're feeling watched...***"
+    {
+        "chi"        "你感觉被监视了"
+    }
+    "***Something is coming for you...***"
+    {
+        "chi"        "有东西来找你了"
+    }
+    "***You sense a looming presence above you...***"
+    {
+        "chi"        "你感觉到一种隐约出现在你上方"
+    }
+}

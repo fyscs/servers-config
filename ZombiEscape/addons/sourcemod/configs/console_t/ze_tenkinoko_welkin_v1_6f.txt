@@ -1,0 +1,488 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "< Thanks to GFL for fixing bugs >"
+    {
+        "chi" "感谢GFL对Bug修复的帮助"
+    }
+
+    "<<< 1 >>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<< 2 >>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<< 210 seconds left >>>"
+    {
+        "chi" "还有210秒"
+    }
+
+    "<<< 3 >>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<< 4 >>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<< 5 >>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<< All players on the welkin will die in 10 seconds >>>"
+    {
+        "chi" "所有在Welkin上的玩家10秒后暴毙"
+    }
+
+    "<<< All zombies will be cleared after 60 seconds >>>"
+    {
+        "chi" "所有僵尸将在60秒后被清除"
+    }
+
+    "<<< Amano Hina is no longer Sunny girl, her weather power is scattered everywhere, and the sky will no longer be clear >>>"
+    {
+        "chi" "阳菜不再是晴女,她的天气能力四散在各处.天空也不再清澈"
+    }
+
+    "<<< Amano Hina will clear all zombies after 30 seconds >>>"
+    {
+        "chi" "阳菜将在30秒后清除所有僵尸"
+    }
+
+    "<<< Arashi was picked up >>>"
+    {
+        "chi" "暴雨被拾起"
+    }
+
+    "<<< Blizzard charging completed >>>"
+    {
+        "chi" "暴雪已准备就绪"
+    }
+
+    "<<< Blizzard energy exhaustion >>>"
+    {
+        "chi" "暴雪能量已耗尽"
+    }
+
+    "<<< Blizzard was picked up >>>"
+    {
+        "chi" "暴雪已拾起"
+    }
+
+    "<<< Doomsday was picked up >>>"
+    {
+        "chi" "毁灭日已被拾起"
+    }
+
+    "<<< Feel the rage of the weather! Die! insect! >>>"
+    {
+        "chi" "感受天气的愤怒吧!西内!"
+    }
+
+    "<<< Fireworld was picked up >>>"
+    {
+        "chi" "烈焰已被拾起"
+    }
+
+    "<<< FrostEddy was picked up >>>"
+    {
+        "chi" "黑洞已被拾起"
+    }
+
+    "<<< FrozenTomb was picked up >>>"
+    {
+        "chi" "冰封陵墓已被拾起"
+    }
+
+    "<<< Ice and snow are eroding the world >>>"
+    {
+        "chi" "冰与雪正在侵蚀这个世界"
+    }
+
+    "<<< Iceworld was picked up >>>"
+    {
+        "chi" "寒霜被拾起"
+    }
+
+    "<<< In another 30 seconds, we will return to the human world with Amano Hina >>>"
+    {
+        "chi" "还有30秒,我们将与阳菜一起返回人类世界"
+    }
+
+    "<<< Jump down and choose the stage you like, only once  >>>"
+    {
+        "chi" "选择你喜欢的关卡,只有一次机会"
+    }
+
+    "<<< Jump off the welkin in 15 seconds >>>"
+    {
+        "chi" "15秒后跳下去"
+    }
+
+    "<<< ladder open in 10 sec >>>"
+    {
+        "chi" "梯子10秒后开启"
+    }
+
+    "<<< ladder open in 5 sec >>>"
+    {
+        "chi" "梯子5秒后开启"
+    }
+
+    "<<< Mist was picked up >>>"
+    {
+        "chi" "迷雾被拾起"
+    }
+
+    "<<< Morishima Hodaka picked up the pistol >>>"
+    {
+        "chi" "森岛帆高拿起了手枪"
+    }
+
+    "<<< People are detected on the subway, emergency access open >>>"
+    {
+        "chi" "已检测到地铁上的人类,紧急通道开启"
+    }
+
+    "<<< Rainbow was picked up >>>"
+    {
+        "chi" "彩虹被拾起"
+    }
+
+    "<<< Run! Get out of here! >>>"
+    {
+        "chi" "跑!快离开这里!"
+    }
+
+    "<<< ScorchingSun charging completed >>>"
+    {
+        "chi" "炎阳已充能完毕"
+    }
+
+    "<<< ScorchingSun energy exhaustion >>>"
+    {
+        "chi" "炎阳能量已耗尽"
+    }
+
+    "<<< ScorchingSun was picked up >>>"
+    {
+        "chi" "炎阳已被拾起"
+    }
+
+    "<<< stage Amano Hina >>>"
+    {
+        "chi" "Stage:天野阳菜"
+    }
+
+    "<<< stage LeisureTime >>>"
+    {
+        "chi" "Stage:闲暇时间"
+    }
+
+    "<<< stage Overcast >>>"
+    {
+        "chi" "Stage:阴天"
+    }
+
+    "<<< stage SunnyDay >>>"
+    {
+        "chi" "Stage:晴天"
+    }
+
+    "<<< stage WeatherRage >>>"
+    {
+        "chi" "Stage:阴晴不定"
+    }
+
+    "<<< SunnyDoll charging completed >>>"
+    {
+        "chi" "晴天娃娃充能完毕"
+    }
+
+    "<<< SunnyDoll energy exhaustion >>>"
+    {
+        "chi" "晴天娃娃的能量已耗尽"
+    }
+
+    "<<< SunnyDoll is clearing the weather effect >>>"
+    {
+        "chi" "晴天娃娃正在清理天气效果"
+    }
+
+    "<<< SunnyDoll was picked up >>>"
+    {
+        "chi" "晴天娃娃被拾起"
+    }
+
+    "<<< The cooldowns of all human items have been refreshed >>>"
+    {
+        "chi" "所有人类物品的CD均已刷新"
+    }
+
+    "<<< The door of the stairs will open in 10 seconds >>>"
+    {
+        "chi" "楼梯间的门10秒后打开"
+    }
+
+    "<<< The door of Yoyogi will open in 10 seconds >>>"
+    {
+        "chi" "代代木的门10秒后打开"
+    }
+
+    "<<< The door of Yoyogi will open in 5 seconds >>>"
+    {
+        "chi" "代代木的门5秒后打开"
+    }
+
+    "<<< The elevator will descend in 15 sec >>>"
+    {
+        "chi" "电梯将在15秒后下降"
+    }
+
+    "<<< The elevator will descend in 20 sec >>>"
+    {
+        "chi" "电梯将在20秒后下降"
+    }
+
+    "<<< The elevator will descend in 25 sec >>>"
+    {
+        "chi" "电梯将在25秒后下降"
+    }
+
+    "<<< The elevator will descend in 30 sec >>>"
+    {
+        "chi" "电梯将在30秒后下降"
+    }
+
+    "<<< The energy of the counter can now be destroyed >>>"
+    {
+        "chi" "能量计数器现在可以摧毁了"
+    }
+
+    "<<< The fire is burning the world >>>"
+    {
+        "chi" "烈火正在燃尽这个世界"
+    }
+
+    "<<< The journey begins, hope you can enjoy >>>"
+    {
+        "chi" "旅途开始了,希望你能玩得开心"
+    }
+
+    "<<< The road will be cleared in 15 sec >>>"
+    {
+        "chi" "道路将在15秒后清理完毕"
+    }
+
+    "<<< The road will be cleared in 20 sec >>>"
+    {
+        "chi" "道路将在20秒后清理完毕"
+    }
+
+    "<<< The road will be cleared in 25 sec >>>"
+    {
+        "chi" "道路将在25秒后清理完毕"
+    }
+
+    "<<< The road will be cleared in 30 sec >>>"
+    {
+        "chi" "道路将在30秒后清理完毕"
+    }
+
+    "<<< The sky has taken Amano Hina, let's bring her back! >>>"
+    {
+        "chi" "天空已经带走了阳菜,我们去把她带回来"
+    }
+
+    "<<< The stairs in the building are blocked. Fight for 15 seconds. Let's find another way >>>"
+    {
+        "chi" "大楼里的阶梯被封锁了.在找其他的路,坚持15秒"
+    }
+
+    "<<< The stairs in the building are blocked. Fight for 30 seconds. Let's find another way >>>"
+    {
+        "chi" "大楼里的阶梯被封锁了.在找其他的路,坚持30秒"
+    }
+
+    "<<< The way to leave the welkin will open in 30 seconds >>>"
+    {
+        "chi" "离开这里的路径30秒后打开"
+    }
+
+    "<<< The weather is angry at losing the sunny girl, maybe we can replace Amano Hina to make the weather sunny again >>>"
+    {
+        "chi" "天气因为失去晴女而变得愤怒,或许我们可以替换晴女来使天气重新变好?"
+    }
+
+    "<<< There are 60 sec of leisure time,Will the weather always be like this? >>>"
+    {
+        "chi" "大概有一分钟的时间,天气会一直这样吗?"
+    }
+
+    "<<< This will be the final trial! [30 sec] >>>"
+    {
+        "chi" "这是最后的测试了,还有30秒"
+    }
+
+    "<<< Thunder was picked up >>>"
+    {
+        "chi" "惊雷被拾起"
+    }
+
+    "<<< Thunderbolt was picked up >>>"
+    {
+        "chi" "雷电被拾起!"
+    }
+
+    "<<< Tips:Blizzard will form a storm after 5 seconds, freezing the zombies in the range >>>"
+    {
+        "chi" "暴雪会在五秒后生成一个风暴圈.冻住范围内的僵尸"
+    }
+
+    "<<< Tips:Both SunnyDoll and Rainbow can heal humans, Rainbow will also provide ammunition supplies >>>"
+    {
+        "chi" "晴天娃娃和彩虹均可治愈人类,但彩虹同时会提供无限弹药效果."
+    }
+
+    "<<< Tips:FrozenTomb will freeze the zombies around for 9 seconds when uses the upper part >>>"
+    {
+        "chi" "冰封陵墓在使用上层部分触发时会冻结范围内僵尸九秒"
+    }
+
+    "<<< Tips:Human item 65 seconds CD, recharge item 5 seconds CD, zombie item 70 seconds CD, weather item 80 seconds CD >>>"
+    {
+        "chi" "人类物品六十五秒cd,可充能物品五秒cd,僵尸物品七十秒,天气物品八十秒"
+    }
+
+    "<<< Tips:Mist is poisonous, especially in the last 5 seconds >>>"
+    {
+        "chi" "提示: 迷雾是有毒的,尤其是生效的最后五秒钟"
+    }
+
+    "<<< Tips:Recharge item each have 60 energy,which restore 1 energy per second when not in use >>>"
+    {
+        "chi" "提示:可充能物品拥有六十点能量值,充能一秒一点"
+    }
+
+    "<<< Tips:SunnyDoll will slightly block zombies and clear the weather effect >>>"
+    {
+        "chi" "提示:晴天娃娃可以清除天气效果同时略微封锁住僵尸"
+    }
+
+    "<<< Tips:The effect will disappear 4 seconds after FrozenTomb's crystal is crushed >>>"
+    {
+        "chi" "提示:冰封陵墓水晶破坏后效果会消失四秒"
+    }
+
+    "<<< Tips:Thunderbolt and all recharge item can cause damage to boss >>>"
+    {
+        "chi" "提示:雷电等可充能物品都可以对boss造成伤害"
+    }
+
+    "<<< Tips:Weather items will affect both human item and zombie item, please be cautious >>>"
+    {
+        "chi" "提示:天气物品对人类及僵尸神器均有效果,使用时请务必注意!"
+    }
+
+    "<<< Tips:Weather items will only appear under certain circumstances and will lead to different endings. >>>"
+    {
+        "chi" "天气物品只会出现在一些特定环境下,同时也将指向不同的结局."
+    }
+
+    "<<< Tips:When the energy is exhausted or the user uses the upper part, the recharg item's effect  will be invalid >>>"
+    {
+        "chi" "当能量值用尽或者玩家使用了上层部份,此可充能物品效果将消失"
+    }
+
+    "<<< We will [cross] the altar to the clouds in 20 sec >>>"
+    {
+        "chi" "我们即将穿过鸟居抵达云端,还有20秒"
+    }
+
+    "<<< We will [cross] the altar to the clouds in 25 sec >>>"
+    {
+        "chi" "我们即将穿过鸟居抵达云端,还有25秒"
+    }
+
+    "<<< We will [cross] the altar to the clouds in 30 sec >>>"
+    {
+        "chi" "我们即将穿过鸟居抵达云端,还有30秒"
+    }
+
+    "<<< We will [cross] the altar to the clouds in 35 sec >>>"
+    {
+        "chi" "我们即将穿过鸟居抵达云端,还有35秒"
+    }
+
+    "<<< You are determined to be sunny, but you will face more difficult tests! >>>"
+    {
+        "chi" "你决心去成为晴女,但同时你将面临更多考验!!"
+    }
+
+    "<<< You successfully passed the test, you are sunny >>>"
+    {
+        "chi" "你成功通过了测试,现在是你了"
+    }
+
+    "<<< zombie teleported in 5 secs >>>"
+    {
+        "chi" "僵尸5秒后传送!"
+    }
+
+    "<<<[Morishima Hodaka] Hina is better for me than blue sky! >>>"
+    {
+        "chi" "森岛帆高: 对我来说阳菜比蓝天更重要"
+    }
+
+    "<<<[Morishima Hodaka] Is that ... fish ? ... Uhahahahahahah ... >>>"
+    {
+        "chi" "森岛帆高: 那是...鱼?...啊啊啊啊..."
+    }
+
+    "<<<[Morishima Hodaka] It's okay for the weather to stay crazy! >>>"
+    {
+        "chi" "森岛帆高: 天气继续这个样子也无所谓了!"
+    }
+
+    "<<<[Morishima Hodaka] Why hinder me! You know everything, but you all pretend not to know! I just wanted to... see that person again! >>>"
+    {
+        "chi" "不要妨碍我!你们知道一切却又装作什么都不知道!我只是想再次见到那个人!!"
+    }
+
+    "<<<[Morishima Hodaka] You don't have to be sunny again! >>>"
+    {
+        "chi" "森岛帆高:你不用再当晴女了!!"
+    }
+
+    "<Map by lopb>"
+    {
+        "chi" "地图作者:lopb 翻译:xTeruZikk"
+    }
+
+    "[MapRelay]  Set falldamage to 0]"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+}

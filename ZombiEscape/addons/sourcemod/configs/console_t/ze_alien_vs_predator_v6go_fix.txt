@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -53,12 +53,12 @@
 
     "**button1 on**"
     {
-        "chi" "**1号开关已按**"
+        "chi" "**一号开关已按**"
     }
 
     "**button2 on**"
     {
-        "chi" "**2号开关已按**"
+        "chi" "**二号开关已按**"
     }
 
     "**Close Door**"

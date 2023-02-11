@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -239,11 +239,6 @@
     "<< Fallen Sky >>"
     {
         "chi" "**天坠**"
-    }
-
-    "<< FALLEN SKY >>"
-    {
-        "chi" "天坠"
     }
 
     "<< Finally, it becomes to the green soul that you have seen before >>"
@@ -494,11 +489,6 @@
     "<< teleport in 20 seconds >>"
     {
         "chi" "**20秒后传送**"
-    }
-
-    "<< Teleport in 20 seconds >>"
-    {
-        "chi" "20秒后传送"
     }
 
     "<< the boat will move again in 10 seconds >>"

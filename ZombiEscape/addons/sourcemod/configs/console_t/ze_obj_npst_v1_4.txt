@@ -1,0 +1,348 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "<<< Human Remaining: +37 >>>"
+    {
+        "chi" "人数检测:大于设定值"
+    }
+
+    "<<< Human Remaining: -37 >>>"
+    {
+        "chi" "人数检测:小于设定值"
+    }
+
+    "<<< Never admit being defeated >>>"
+    {
+        "chi" "永远不要放弃"
+    }
+
+    "<<< Reach the peak of perfection!!! >>>"
+    {
+        "chi" "非常的Team!!"
+    }
+
+    "<<<1>>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<<2>>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<<3>>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<<4>>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<<5>>>"
+    {
+        "chi" "还有5秒"
+    }
+
+    "<<<Call the elevator>>>"
+    {
+        "chi" "把电梯弄过来"
+    }
+
+    "<<<DOOR IS OPEN>>>"
+    {
+        "chi" "门开了"
+    }
+
+    "<<<Electricity is OFF>>>"
+    {
+        "chi" "电源已关闭"
+    }
+
+    "<<<Get out of here !!!>>>"
+    {
+        "chi" "快离开这里!!"
+    }
+
+    "<<<GO GO GOOOO>>>"
+    {
+        "chi" "搞快点!!"
+    }
+
+    "<<<It's not finished>>>"
+    {
+        "chi" "并没有结束.."
+    }
+
+    "<<<Prepare for the Battle of Your Life>>>"
+    {
+        "chi" "准备为了你的生存而战"
+    }
+
+    "<<<Prepare to shoot>>>"
+    {
+        "chi" "保持火力!"
+    }
+
+    "<<<The door has opened>>>"
+    {
+        "chi" "门开了"
+    }
+
+    "<<<The door is going to open>>>"
+    {
+        "chi" "门马上就要开了"
+    }
+
+    "<<<The door is opening get inside !>>>"
+    {
+        "chi" "门正在打开,快进来!"
+    }
+
+    "<<<The door leading to the elevator are open!>>>"
+    {
+        "chi" "通向电梯的门即将打开!!"
+    }
+
+    "<<<The electricity should be cut off in a few seconds>>>"
+    {
+        "chi" "电源应该一会之后就关闭了"
+    }
+
+    "<<<The fence has broken>>>"
+    {
+        "chi" "障碍物被清除了"
+    }
+
+    "<<<The water level is increasing>>>"
+    {
+        "chi" "水位正在上升..."
+    }
+
+    "<<<The yellow door Area 9 will open in 10 seconds>>>"
+    {
+        "chi" "第九区域的门10秒钟后打开"
+    }
+
+    "<<<The yellow door leading to the HUB will open soon>>>"
+    {
+        "chi" "通向实验室的黄门即将打开"
+    }
+
+    "<<<They are coming...>>>"
+    {
+        "chi" "他们来了..."
+    }
+
+    "<<<We are not giving thanks to Waffel for hepling>>>"
+    {
+        "chi" "并不是在感谢Waffel的帮助哦"
+    }
+
+    "ADMIN ROOM: CREDITS MAP"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "ADMIN ROOM: SOUNDTRACK MAP"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "And help by How Super Terrible?"
+    {
+        "chi" "感谢How Super Terrible的帮助?"
+    }
+
+    "Blue Stahli - The Destroyer of all Things"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "cade fast"
+    {
+        "chi" "搞快点"
+    }
+
+    "DON'T TOUCH THE LASERS"
+    {
+        "chi" "不要作死去碰激光"
+    }
+
+    "door is open"
+    {
+        "chi" "门开了..."
+    }
+
+    "Good Luck !"
+    {
+        "chi" "祝你们好运"
+    }
+
+    "H1Z1 King of the Kill Soundtrack - Final Battle"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "Half-Life 3 Inspirational Track 1 and 2"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "Map & music made by Trazix"
+    {
+        "chi" "地图制作,音乐 By Trazix"
+    }
+
+    "Map&music made by Trazix"
+    {
+        "chi" "地图制作,音乐 By Trazix"
+    }
+
+    "Models and materials use by Crowbar Collective Black Mesa Team"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "Muzzy -  Junction Seven"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "Muzzy - Children of Hell"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "Muzzy - Get Crazy"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "Muzzy - Play"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "Pendulum - Granite"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "Port by Huishnya"
+    {
+        "chi" "地图移植:Huishnya"
+    }
+
+    "Remake of some part from L4D2 Campaign Damn it by Tom Baldry"
+    {
+        "chi" "__null__"
+    }
+
+    "Resident Evil Retribution - Flying Through The Air"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "Rogue Souls - Toxic Rain"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "run fast"
+    {
+        "chi" "跑快点"
+    }
+
+    "spawn zombie"
+    {
+        "chi" "__null__"
+    }
+
+    "Thanks to AzoNa  Ray and Master Tof"
+    {
+        "chi" "感谢AzoNa Ray与Master Tof"
+    }
+
+    "tram is start"
+    {
+        "chi" "电车启动了"
+    }
+
+    "Transformers 3 Battle Track"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "TRAZIX GRAMMAR"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "Version update by Nino"
+    {
+        "chi" "版本更新:Nino 文本翻译:xTeruZikk"
+    }
+
+    "Wall is break !"
+    {
+        "chi" "墙面破开了"
+    }
+
+    "Welcome on Objective NPST"
+    {
+        "chi" "牛批神图"
+    }
+
+    "zombie is come"
+    {
+        "chi" "尸潮来袭."
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+    "still 20 seconds"
+    {
+        "chi" "还有20秒"
+    }
+
+    "still 30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+}

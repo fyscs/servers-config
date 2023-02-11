@@ -1,0 +1,178 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+    "***  Plucked from the city, your skills have been called upon by the Holy Sanctuary...  ***"
+    {
+        "chi" "你因你的能力而被召唤,并最终历尽艰险抵达这里"
+    }
+
+    "***  To eradicate the plague of familiar origin...  ***"
+    {
+        "chi" "为了清除远古遗留下来的瘟疫..."
+    }
+
+    "***  The entrance doors shall open soon  ***"
+    {
+        "chi" "入口的门即将打开"
+    }
+
+    "*** The bridge doors will open shortly  ***"
+    {
+        "chi" "大桥的门即将打开..."
+    }
+
+    "***  Elevator doors will open soon  ***"
+    {
+        "chi" "电梯门即将打开..."
+    }
+
+    "***  Elevator leaving in some seconds  ***"
+    {
+        "chi" "电梯即将离开..."
+    }
+
+    "***  Cathedral upper bridge doors will open soon  ***"
+    {
+        "chi" "大教堂上桥的门即将打开!!"
+    }
+
+    "***  Cathedral outer bridge doors will open soon  ***"
+    {
+        "chi" "大教堂外桥的门即将打开!!"
+    }
+
+    "***  Elevator leaving shortly  ***"
+    {
+        "chi" "电梯即将离开.."
+    }
+
+    "***  Great cathedral doors will open soon  ***"
+    {
+        "chi" "大教堂的门正在打开..."
+    }
+
+    "***  Secret elevator is opening  ***"
+    {
+        "chi" "神秘电梯正在开启"
+    }
+
+    "***  Elevator stopping. Unknown reason  ***"
+    {
+        "chi" "电梯突然停下了,不知道为什么"
+    }
+
+    "***  Ancient cavern reached  ***"
+    {
+        "chi" "已到达古老的地穴"
+    }
+
+    "***  Underground castle doors opening soon  ***"
+    {
+        "chi" "地下城堡的门即将打开..."
+    }
+
+    "***  Levers must be pulled to open the next door  ***"
+    {
+        "chi" "拉下拉杆才能打开下一道门"
+    }
+
+    "***  Puzzle Completed. Doors opening soon  ***"
+    {
+        "chi" "谜题已经完成,大门即将打开!!"
+    }
+
+    "***  Both levers must be pulled at the same time to pass the gate ***"
+    {
+        "chi" "两处开关必须同时拉下,才能打开大门"
+    }
+
+    "***  Success! Door opening shortly  ***"
+    {
+        "chi" "成功了!大门即将打开..."
+    }
+
+    "***  Elevator leaving soon  ***"
+    {
+        "chi" "电梯正在离开..."
+    }
+
+    "***  Sanctuary reached. Defend the center from the plague  ***"
+    {
+        "chi" "到达庇护所这里了,保护其中心不被瘟疫所影响"
+    }
+
+    "***  First gates are opening  ***"
+    {
+        "chi" "第一道门正在打开..."
+    }
+
+    "***  Second gates are opening  ***"
+    {
+        "chi" "第二道门正在打开..."
+    }
+
+    "***  Grand entrance opening  ***"
+    {
+        "chi" "最后的大门正在打开..."
+    }
+
+    "***  Commencing purification  ***"
+    {
+        "chi" "正在启动净化魔法..."
+    }
+
+    "***  Purification complete  ***"
+    {
+        "chi" ">>已完成净化<<"
+    }
+
+    "***  Returning to previous location...  ***"
+    {
+        "chi" ">>正在返回起点<<"
+    }
+
+    "***  Lever 1 pulled, gate opening soon  ***"
+    {
+        "chi" "第一处拉杆已拉下,某扇门即将打开"
+    }
+
+    "***  Lever 2 pulled, gate opening soon  ***"
+    {
+        "chi" "第二处拉杆已拉下,某扇门即将打开"
+    }
+
+    "***  Lever 3 pulled, platforms rising soon  ***"
+    {
+        "chi" "第三处拉杆已拉下,平台即将升起"
+    }
+
+    "***  Lever 4 pulled  ***"
+    {
+        "chi" ">>第四处拉杆已拉下<<"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+    "still 55 seconds"
+    {
+        "chi" "还有55秒"
+    }
+
+    "final 15 seconds"
+    {
+        "chi" "最后15秒"
+    }
+
+}

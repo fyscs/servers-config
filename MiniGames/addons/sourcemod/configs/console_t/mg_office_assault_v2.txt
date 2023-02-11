@@ -1,0 +1,94 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "[MUSIC] DRT - Rising Sun (The Boogaloo Crew Remix)"
+    {
+        "chi" "__keep__"
+    }
+
+    "[MUSIC] Gorillaz - 19-2000"
+    {
+        "chi" "__keep__"
+    }
+
+    "[MUSIC] Pegboard Nerds - Disconnected"
+    {
+        "chi" "__keep__"
+    }
+
+    "[MUSIC] Pendulum - Out Here"
+    {
+        "chi" "__keep__"
+    }
+
+    "[MUSIC] Pendulum - The Island Pt.1"
+    {
+        "chi" "__keep__"
+    }
+
+    "[MUSIC] Pendulum - Visions"
+    {
+        "chi" "__keep__"
+    }
+
+    "[MUSIC] Raffi - Bananaphone"
+    {
+        "chi" "__keep__"
+    }
+
+    ">> 1 Minute left! <<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">> 10 seconds left! <<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">> 2 Minutes left! <<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">> 3 Minutes left! <<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">> ADJUST MUSIC VOLUME IN YOUR AUDIO OPTIONS <<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">> HIDERS - CTS"
+    {
+        "chi" "躲藏者为CT"
+    }
+
+    ">> HIDERS - TS"
+    {
+        "chi" "躲藏者为T"
+    }
+
+    ">> SEEKERS - CTS"
+    {
+        "chi" "寻找者为CT"
+    }
+
+    ">> SEEKERS - TS"
+    {
+        "chi" "寻找者为T"
+    }
+
+}

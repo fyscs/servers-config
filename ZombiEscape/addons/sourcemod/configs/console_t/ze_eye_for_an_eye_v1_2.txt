@@ -1,0 +1,354 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** Contain leaves in 15 seconds ***"
+    {
+        "chi" "集装箱15秒后离开"
+    }
+
+    "*** Contain leaves in 20 seconds ***"
+    {
+        "chi" "集装箱20秒后离开"
+    }
+
+    "*** Door Closes in 10 seconds ***"
+    {
+        "chi" "门还有10秒关闭"
+    }
+
+    "*** Door Opens in 15 seconds ***"
+    {
+        "chi" "这扇门还有15秒开启"
+    }
+
+    "*** Door Opens in 20 seconds ***"
+    {
+        "chi" "这扇门还有20秒打开"
+    }
+
+    "*** Door Opens in 30 seconds ***"
+    {
+        "chi" "门还有30秒打开"
+    }
+
+    "*** Door Opens in 40 seconds ***"
+    {
+        "chi" "离门开还有40秒"
+    }
+
+    "*** The elevator on the left will leave in 15 seconds ***"
+    {
+        "chi" "左边电梯15秒后离开"
+    }
+
+    "*** The elevator on the right will leave in 15 seconds ***"
+    {
+        "chi" "右边电梯15秒后离开"
+    }
+
+    "*** The teleport will be activated in 10 seconds***"
+    {
+        "chi" "传送于10秒后启动"
+    }
+
+    "*** Zombies teleport in 5 seconds ***"
+    {
+        "chi" "僵尸于5秒后传送"
+    }
+
+    "***All lasers turned off***"
+    {
+        "chi" "所有激光束已被关闭"
+    }
+
+    "***Door will open in 30 seconds***"
+    {
+        "chi" "这扇门30秒后开启"
+    }
+
+    "***Intruder has arrived at the monitoring room, activate level one alarm***"
+    {
+        "chi" "入侵者已到达监控室,已启动一级警报!!"
+    }
+
+    "***The door will close in 10 seconds***"
+    {
+        "chi" "门于10秒后关闭"
+    }
+
+    "***The door will open in 20 seconds***"
+    {
+        "chi" "门于20秒后开启"
+    }
+
+    "***The door will open in 30 seconds***"
+    {
+        "chi" "门30秒后开启"
+    }
+
+    "***The door will open in 5 seconds***"
+    {
+        "chi" "门还有5秒开启"
+    }
+
+    "***The intruder is detected and the defense mechanism is activated***"
+    {
+        "chi" "已检测到入侵者!防御机制已启动!!"
+    }
+
+    "***The push to stop the zombie will disappear in 5 seconds***"
+    {
+        "chi" "僵尸推力于5秒后消失"
+    }
+
+    "***Use the entity EYE or break the door***"
+    {
+        "chi" "使用魔眼来击碎这扇门"
+    }
+
+    "***Zombie teleport in 5 seconds***"
+    {
+        "chi" "僵尸5秒后传送"
+    }
+
+    "***Zombie will come in 35 seconds***"
+    {
+        "chi" "僵尸35秒后来袭"
+    }
+
+    "***Zombie will come in 5 seconds***"
+    {
+        "chi" "僵尸5秒后来袭"
+    }
+
+    "***zombie will teleport in 5 seconds***"
+    {
+        "chi" "僵尸于5秒后传送"
+    }
+
+    ">> PLAYER HAS PICKED UP ORDER <<"
+    {
+        "chi" "亡灵拾起了铁律"
+    }
+
+    ">>A player picked up the ammo<<"
+    {
+        "chi" "玩家已拾起弹药补给"
+    }
+
+    ">>A player picked up the EYE<<"
+    {
+        "chi" "玩家已拾起魔眼"
+    }
+
+    ">>A player picked up the fire<<"
+    {
+        "chi" "玩家已拾起火焰"
+    }
+
+    ">>A player picked up the HEAL<<"
+    {
+        "chi" "玩家已拾起治疗"
+    }
+
+    ">>A player picked up the ice<<"
+    {
+        "chi" "玩家已拾起冰冻"
+    }
+
+    ">>All buttons have been pressed<<"
+    {
+        "chi" "所有按钮都已被按下"
+    }
+
+    ">>Another fence? Break it!<<"
+    {
+        "chi" "又一处障碍物?击碎它!!"
+    }
+
+    ">>BOSS speed increased to 125<<"
+    {
+        "chi" "魔眼的移动速度已上升"
+    }
+
+    ">>BOSS speed increased to 150<<"
+    {
+        "chi" "魔眼的移动速度已再次上升"
+    }
+
+    ">>BOSS speed increased to 175<<"
+    {
+        "chi" "魔眼又加速了"
+    }
+
+    ">>BOSS speed increased to 200<<"
+    {
+        "chi" "魔眼它又加速了.."
+    }
+
+    ">>BOSS speed increased to 225<<"
+    {
+        "chi" "魔眼已再次加速"
+    }
+
+    ">>Break the eye!Otherwise, we can't escape!<<"
+    {
+        "chi" "击败那只眼睛!否则我们无法离开这里!!"
+    }
+
+    ">>Break the glass!<<"
+    {
+        "chi" "打碎玻璃!!"
+    }
+
+    ">>But it's not available yet<<"
+    {
+        "chi" "但是现在还用不了"
+    }
+
+    ">>Button 1 has been pressed<<"
+    {
+        "chi" "按钮一已被按下"
+    }
+
+    ">>Button 2 has been pressed<<"
+    {
+        "chi" "按钮二已被按下"
+    }
+
+    ">>Button 3 has been pressed<<"
+    {
+        "chi" "按钮三已被按下"
+    }
+
+    ">>Button 4 has been pressed<<"
+    {
+        "chi" "按钮四已被按下"
+    }
+
+    ">>Damn! Keep fire! Don't let it come near us!<<"
+    {
+        "chi" "靠!保持火力!不要让它靠近我们!"
+    }
+
+    ">>Each use will reduce people's tendency to violence <<"
+    {
+        "chi" "每一次使用都会惊吓人类不敢开枪"
+    }
+
+    ">>I have a bad feeling about that eye<<"
+    {
+        "chi" "感觉这只眼睛会带来不好的事情"
+    }
+
+    ">>It looks like we need to press four buttons to open the exit<<"
+    {
+        "chi" "看起来我们要打开出口得按下四个按钮"
+    }
+
+    ">>It works! The gate will be suspended for 10 seconds!<<"
+    {
+        "chi" "起作用了!大门将于10秒后解除封锁"
+    }
+
+    ">>Item HEAL times have been used up<<"
+    {
+        "chi" "治疗次数已用尽"
+    }
+
+    ">>Look up! I hope it won't fall down<<"
+    {
+        "chi" "看头上!真希望这些玩意不会掉下来"
+    }
+
+    ">>Maybe we should be ready before we jump<<"
+    {
+        "chi" "或许我们跳下去之前需要好好准备下"
+    }
+
+    ">>Now it's time to get ready to leave here!<<"
+    {
+        "chi" "是时候准备离开这里了!!"
+    }
+
+    ">>The door is closing!We're gonna be late!<<"
+    {
+        "chi" "门开始关了!我们走的慢了!"
+    }
+
+    ">>The door was broken!Defend zombies for 15 seconds!<<"
+    {
+        "chi" "门破开了,守住15秒!"
+    }
+
+    ">>The exit will open in 15 seconds<<"
+    {
+        "chi" "出口将于15秒后打开"
+    }
+
+    ">>The HEAL can be used twice<<"
+    {
+        "chi" "治疗可以使用两次"
+    }
+
+    ">>The lava start rise! We must hurry up! <<"
+    {
+        "chi" "岩浆面开始上升了!我们必须搞快点!!"
+    }
+
+    ">>There are many pipes. Be careful not to slip<<"
+    {
+        "chi" "管道很多,当心不要脚滑了"
+    }
+
+    ">>There seems to be something down there,We'd better send someone to get it<<"
+    {
+        "chi" "似乎下面那有些东西,我们最好派点人下去看看"
+    }
+
+    ">>This eye again? I have a bad feeling<<"
+    {
+        "chi" "又是它? 我有种不好的感觉.."
+    }
+
+    ">>This eye seems to be a very important prop<<"
+    {
+        "chi" "这个东西看起来像是个很重要的物件"
+    }
+
+    ">>Watch your head! Look out for those cars!<<"
+    {
+        "chi" "小心你的头上!!当心那些东西!!"
+    }
+
+    ">>We beat it!<<"
+    {
+        "chi" "我们做到了!!"
+    }
+
+    ">>What does the square on the table mean?<<"
+    {
+        "chi" "桌子上的东西意味着什么吗??"
+    }
+
+    "map by Captain"
+    {
+        "chi" "地图制作:Captain 文本翻译:xTeru"
+    }
+
+    "This is my first map,hope you like it."
+    {
+        "chi" "这是我的第一张地图,希望你能喜欢"
+    }
+
+}

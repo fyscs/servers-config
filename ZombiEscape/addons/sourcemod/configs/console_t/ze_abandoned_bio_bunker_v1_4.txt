@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -76,16 +76,6 @@
         "chi" "**1秒**"
     }
 
-    "### 10 seconds ###"
-    {
-        "chi" "10"
-    }
-
-    "### 10 Seconds ###"
-    {
-        "chi" "10"
-    }
-
     "### 10 SECONDS ###"
     {
         "chi" "**木门将在10秒后裂开**"
@@ -124,11 +114,6 @@
     "### 4 SECONDS ###"
     {
         "chi" "**4**"
-    }
-
-    "### 5 Seconds ###"
-    {
-        "chi" "5"
     }
 
     "### 5 SECONDS ###"

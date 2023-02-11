@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -191,6 +191,16 @@
     "You have won the map! Congratulations!"
     {
         "chi" "**恭喜!你通过了本地图!**"
+    }
+
+    "Resist for 30 seconds."
+    {
+        "chi" "**守住30秒**"
+    }
+
+    "Hold here until the blue sponge drops, then get in the tub!"
+    {
+        "chi" "**守住这里,等到蓝海绵掉下来,然后进入浴缸!**"
     }
 
 }

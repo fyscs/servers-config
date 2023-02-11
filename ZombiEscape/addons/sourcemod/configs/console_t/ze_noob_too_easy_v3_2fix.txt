@@ -1,0 +1,543 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** go go go ! hurry up !***"
+    {
+        "chi" "搞快点!搞快点!!"
+    }
+
+    "*** The platform will leave in 15 seconds ***"
+    {
+        "chi" "平台15秒后开始移动"
+    }
+
+    "*** The ventilation ducts will open in 25 seconds ***"
+    {
+        "chi" "通风管将在25秒后开启"
+    }
+
+    "***<< A zombie became the God of death >>***"
+    {
+        "chi" "一名僵尸成为了死神"
+    }
+
+    "***A player has picked up Ammo***"
+    {
+        "chi" "玩家拿起了弹药"
+    }
+
+    "***A player has picked up Death Knigth***"
+    {
+        "chi" "一名玩家成为了死亡骑士"
+    }
+
+    "***A player has picked up Earth***"
+    {
+        "chi" "玩家拿起了大地元素"
+    }
+
+    "***A player has picked up Electric***"
+    {
+        "chi" "玩家拿起了电"
+    }
+
+    "***A player has picked up FreezeIce***"
+    {
+        "chi" "玩家拿起了冰冻元素"
+    }
+
+    "***A player has picked up GodThunder***"
+    {
+        "chi" "玩家拿起了天雷"
+    }
+
+    "***A player has picked up Gravity***"
+    {
+        "chi" "玩家拿起了黑洞"
+    }
+
+    "***A player has picked up Heal***"
+    {
+        "chi" "玩家拿起了治疗"
+    }
+
+    "***A player has picked up HurtFire***"
+    {
+        "chi" "玩家拿起了伤害火焰"
+    }
+
+    "***A player has picked up Magic Book1***"
+    {
+        "chi" "玩家拿起了第一本魔法书"
+    }
+
+    "***A player has picked up Magic Book2***"
+    {
+        "chi" "玩家拿起了第二本魔法书"
+    }
+
+    "***A player has picked up SaberExtra***"
+    {
+        "chi" "一名玩家成为了剑士Extra"
+    }
+
+    "***A player has picked up Slowfire***"
+    {
+        "chi" "玩家拿起了减速火焰"
+    }
+
+    "***A player has picked up Wind***"
+    {
+        "chi" "玩家拿起了风元素"
+    }
+
+    "***Admin pressed button***"
+    {
+        "chi" "管理员摁下了按钮"
+    }
+
+    "***BOSS is died***"
+    {
+        "chi" "Boss已被击败!!"
+    }
+
+    "***Button has been pressed,door will open ***"
+    {
+        "chi" "按钮已被按下,大门即将打开"
+    }
+
+    "***Button has pressed,door will open***"
+    {
+        "chi" "按钮已被按下,大门即将打开"
+    }
+
+    "***Button has pressed,road will open in 15 seconds.***"
+    {
+        "chi" "按钮已被按下,大门15秒后打开"
+    }
+
+    "***Death has been defeated***"
+    {
+        "chi" "死神已被击败"
+    }
+
+    "***Death knight is gone***"
+    {
+        "chi" "死亡骑士已战败!!"
+    }
+
+    "***Defend 10 seconds ***"
+    {
+        "chi" "守住!还有10秒"
+    }
+
+    "***Defend 15 seconds***"
+    {
+        "chi" "守住!还有15秒"
+    }
+
+    "***Defend 20 seconds***"
+    {
+        "chi" "守住!还有20秒"
+    }
+
+    "***Denfend 10 seconds***"
+    {
+        "chi" "再守10秒"
+    }
+
+    "***Door will open in 20 seconds***"
+    {
+        "chi" "大门20秒后打开"
+    }
+
+    "***Fast kill the God of wrath. Roll call will start in 120 seconds.***"
+    {
+        "chi" "尽快击败"
+    }
+
+    "***From now , disable zombie items***"
+    {
+        "chi" ">>已禁用僵尸物品!!<<"
+    }
+
+    "***God of Death was repel***"
+    {
+        "chi" "死神已被驱逐!!"
+    }
+
+    "***Holy shit! What's this?***"
+    {
+        "chi" "我靠!这是什么勾八???"
+    }
+
+    "***Jump to the platform hurry up!***"
+    {
+        "chi" "快跳到平台上,搞快点!!"
+        "blocked" "1"
+    }
+
+    "***Last door will open in 20 seconds***"
+    {
+        "chi" "最后的门20秒后打开"
+    }
+
+    "***Lever pulled,door will open ***"
+    {
+        "chi" "杠杆已拉下!门即将打开!!"
+    }
+
+    "***Lever pulled,door will open in 15 seconds***"
+    {
+        "chi" "杠杆已拉下!门15秒后开!"
+    }
+
+    "***Nuke at 1 seconds***"
+    {
+        "chi" "回合1秒后结束"
+        "blocked" "1"
+    }
+
+    "***Nuke at 2 seconds***"
+    {
+        "chi" "回合2秒后结束"
+        "blocked" "1"
+    }
+
+    "***Nuke at 3 seconds***"
+    {
+        "chi" "回合3秒后结束"
+    }
+
+    "***Ruin in 240 seconds, Please go to the tree of life***"
+    {
+        "chi" "这一切将在四分钟后毁灭,尽快前往永恒之树!"
+    }
+
+    "***SaberExtra is dead***"
+    {
+        "chi" "SaberExtra已战败!!"
+    }
+
+    "***Shoot it��hurry up !***"
+    {
+        "chi" "快射击!搞快点!!"
+        "blocked" "1"
+    }
+
+    "***The door will open in 25 seconds.***"
+    {
+        "chi" "大门25秒后打开"
+    }
+
+    "***The dorr will open in 30 seconds***"
+    {
+        "chi" "大门30秒后打开"
+    }
+
+    "***The platform will moving in 15 seconds***"
+    {
+        "chi" "平台15秒后开始移动"
+    }
+
+    "***The road will open in 15 seconds***"
+    {
+        "chi" "道路15秒后开启"
+    }
+
+    "***The road will open in 20 seconds***"
+    {
+        "chi" "道路20秒后开启"
+    }
+
+    "***Updraft will appear in 15 seconds***"
+    {
+        "chi" "上升气流将在15秒后启动"
+    }
+
+    "***Zombies touch the tree of life, you fail***"
+    {
+        "chi" "僵尸最终接触到了永恒之树,你们失败了!!"
+    }
+
+    "**<< Boss speed increased >>**"
+    {
+        "chi" "Boss使用了加速!!"
+    }
+
+    "**<< Boss summon zombies >>**"
+    {
+        "chi" "Boss召唤了僵尸!!"
+    }
+
+    "**<<Zombie road in 30 seconds>>**"
+    {
+        "chi" "僵尸路30秒内打开!!"
+    }
+
+    "**Boss fight in 10 seconds**"
+    {
+        "chi" "Boss战10秒后开始!!"
+    }
+
+    "**Boss uesd forward jump attack**"
+    {
+        "chi" "Boss使用了向前跳跃..."
+    }
+
+    "**Boss uesd jump attack**"
+    {
+        "chi" "Boss使用了跳跃攻击..."
+    }
+
+    "**Boss used back jump attack**"
+    {
+        "chi" "Boss使用了向后跳跃..."
+    }
+
+    "**Crystal appears, break it!!!**"
+    {
+        "chi" "水晶已经现身!快击碎它!!!"
+    }
+
+    "**Get off the platform, hurry up**"
+    {
+        "chi" "快离开平台!!搞快点!!"
+    }
+
+    "**If there are no eligible items, it have no effect**"
+    {
+        "chi" "如果没有符合条件的物品,它将不会有任何效果!!"
+    }
+
+    "**Keep defending until the teleport enable**"
+    {
+        "chi" "保持防守直到传送被启动!!"
+    }
+
+    "**Last door will open in 15 seconds**"
+    {
+        "chi" "最后的门15秒后开启"
+    }
+
+    "**Open the door in 20 seconds**"
+    {
+        "chi" "20秒后开启大门"
+    }
+
+    "**Open the side road in 12 seconds**"
+    {
+        "chi" "侧路12秒后开启"
+    }
+
+    "**The door will open in 35 seconds**"
+    {
+        "chi" "这扇门35秒后开启"
+    }
+
+    "**The elevator door will open in 15 seconds**"
+    {
+        "chi" "电梯门15秒后开启"
+    }
+
+    "**The elevator door will open in 20 seconds**"
+    {
+        "chi" "电梯门20秒后开启"
+    }
+
+    "**The elevator will activate in 25 seconds**"
+    {
+        "chi" "电梯将在20秒后启动"
+    }
+
+    "**The exit is blocked by stone, wait 20 seconds**"
+    {
+        "chi" "出口被石头堵住了,在这里等待20秒"
+    }
+
+    "**The platform will leave in 3 seconds**"
+    {
+        "chi" "平台将在3秒后离开"
+    }
+
+    "**Wait 10 seconds. The door will open soon**"
+    {
+        "chi" "等待10秒钟,门即将打开!!"
+    }
+
+    "**We need 15 seconds to clear the stone**"
+    {
+        "chi" "石块15秒后清理完成"
+    }
+
+    "**We need 20 seconds to clear the stone**"
+    {
+        "chi" "我们需要20秒才能清理掉石块"
+    }
+
+    "**Will disable zombie items **"
+    {
+        "chi" "僵尸物品即将被禁用"
+    }
+
+    "**You can use it to exchange a lost item(Picked up but lost and its cd is ready)**"
+    {
+        "chi" "你可以使用它来交换一件已丢失的人类物品(已拾起但丢失/交换的物品CD已就绪)"
+    }
+
+    "**You're too fast. Please wait**"
+    {
+        "chi" "挺快的,请等待!!"
+    }
+
+    "**Zombie ice PressedAttack2 to detonate ice sphere**"
+    {
+        "chi" "僵尸使用右键引爆冰效果"
+    }
+
+    "**Zombie used heal to speed up, be careful !**"
+    {
+        "chi" "僵尸使用治疗可以获得加速效果,小心!!"
+    }
+
+    "<Magic Book button 1 triggered>"
+    {
+        "chi" "魔法书按钮一已触发"
+    }
+
+    "<Magic Book button 2 triggered>"
+    {
+        "chi" "魔法书按钮二已触发"
+    }
+
+    "<Magic Book button 3 triggered>"
+    {
+        "chi" "魔法书按钮三已触发"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置: 已关闭摔伤"
+    }
+
+    "***Player used Magic Book to exchange ice***"
+    {
+        "chi" "玩家使用魔法书交换了冰冻"
+    }
+
+    "***Player used Magic Book2 to exchange ice***"
+    {
+        "chi" "玩家使用魔法书②交换了冰冻"
+    }
+
+    "***Player used Magic Book to exchange slowfire***"
+    {
+        "chi" "玩家使用魔法书交换了减速火"
+    }
+
+    "***Player used Magic Book2 to exchange slowfire***"
+    {
+        "chi" "玩家使用魔法书②交换了减速火"
+    }
+
+    "***Player used Magic Book to exchange gravity***"
+    {
+        "chi" "玩家使用魔法书交换了黑洞"
+    }
+
+    "***Player used Magic Book2 to exchange gravity***"
+    {
+        "chi" "玩家使用魔法书②交换了黑洞"
+    }
+
+    "***Player used Magic Book to exchange ammo***"
+    {
+        "chi" "玩家使用魔法书交换了弹药"
+    }
+
+    "***Player used Magic Book2 to exchange ammo***"
+    {
+        "chi" "玩家使用魔法书②交换了弹药"
+    }
+
+    "***Player used Magic Book to exchange heal***"
+    {
+        "chi" "玩家使用魔法书交换了治疗"
+    }
+
+    "***Player used Magic Book2 to exchange heal***"
+    {
+        "chi" "玩家使用魔法书②交换了治疗"
+    }
+
+    "***Player used Magic Book to exchange electric***"
+    {
+        "chi" "玩家使用魔法书交换了电"
+    }
+
+    "***Player used Magic Book2 to exchange electric***"
+    {
+        "chi" "玩家使用魔法书②交换了电"
+    }
+
+    "***Player used Magic Book to exchange earth***"
+    {
+        "chi" "玩家使用魔法书交换了土"
+    }
+
+    "***Player used Magic Book2 to exchange earth***"
+    {
+        "chi" "玩家使用魔法书②交换了土"
+    }
+
+    "***Player used Magic Book to exchange godthunder***"
+    {
+        "chi" "玩家使用魔法书交换了天雷"
+    }
+
+    "***Player used Magic Book2 to exchange godthunder***"
+    {
+        "chi" "玩家使用魔法书②交换了天雷"
+    }
+
+    "***Player used Magic Book to exchange wind***"
+    {
+        "chi" "玩家使用魔法书交换了风"
+    }
+
+    "***Player used Magic Book2 to exchange wind***"
+    {
+        "chi" "玩家使用魔法书②交换了风"
+    }
+
+    "aaaaaaaaaaa"
+    {
+        "chi" "AAAAAAaaaaaaa...."
+    }
+
+    "***Shoot it  hurry up !***"
+    {
+        "chi" "赶快向它开火!"
+    }
+
+    "***It used ice fog, Please use god thunder to dispel(or use heal to resistance)***"
+    {
+        "chi" "它使用了冰雾, 快用神雷驱散! (或使用治愈来抵抗)"
+    }
+
+    "***A lucky player was sent to the zombie zone***"
+    {
+        "chi" "一个<幸运>的玩家被送到了尸笼"
+    }
+
+}

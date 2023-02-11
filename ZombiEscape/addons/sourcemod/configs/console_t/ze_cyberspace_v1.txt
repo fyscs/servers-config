@@ -1,0 +1,394 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    ">> 1 <<"
+    {
+        "chi" "还有1秒"
+        "blocked" "1"
+    }
+
+    ">> 10 more seconds <<"
+    {
+        "chi" "再多守10秒"
+    }
+
+    ">> 100 seconds <<"
+    {
+        "chi" "还有100秒"
+        "blocked" "1"
+    }
+
+    ">> 2 <<"
+    {
+        "chi" "还有2秒"
+        "blocked" "1"
+    }
+
+    ">> 20 seconds <<"
+    {
+        "chi" "还有20秒"
+        "blocked" "1"
+    }
+
+    ">> 3 <<"
+    {
+        "chi" "还有3秒"
+        "blocked" "1"
+    }
+
+    ">> 4 <<"
+    {
+        "chi" "还有4秒"
+        "blocked" "1"
+    }
+
+    ">> 40 seconds <<"
+    {
+        "chi" "还有40秒"
+        "blocked" "1"
+    }
+
+    ">> 5 <<"
+    {
+        "chi" "还有5秒"
+        "blocked" "1"
+    }
+
+    ">> 5 seconds <<"
+    {
+        "chi" "还有5秒"
+        "blocked" "1"
+    }
+
+    ">> 5 seconds left <<"
+    {
+        "chi" "还有5秒"
+        "blocked" "1"
+    }
+
+    ">> 60 seconds <<"
+    {
+        "chi" "还有60秒"
+        "blocked" "1"
+    }
+
+    ">> 80 seconds <<"
+    {
+        "chi" "还有80秒"
+    }
+
+    ">> Admin has disabled RTV stage <<"
+    {
+        "chi" ">>管理员已关闭Stage RTV<<"
+    }
+
+    ">> Admin has enabled RTV stage <<"
+    {
+        "chi" ">>管理员已启用Stage RTV<<"
+    }
+
+    ">> Admin set to Chapter 0 <<"
+    {
+        "chi" ">>管理员已设定 序章<<"
+    }
+
+    ">> Admin set to Chapter 1 <<"
+    {
+        "chi" ">>管理员已设定 第一章<<"
+    }
+
+    ">> Admin set to Chapter 2 <<"
+    {
+        "chi" ">>管理员已设定 第二章<<"
+    }
+
+    ">> Admin set to Chapter 3 <<"
+    {
+        "chi" ">>管理员已设定 第三章<<"
+    }
+
+    ">> Admin set to Chapter Ex <<"
+    {
+        "chi" ">>管理员已设定 章节Ex<<"
+    }
+
+    ">> Beam stopped <<"
+    {
+        "chi" ">>激光已停止<<"
+    }
+
+    ">> Chapter 1 Completed <<"
+    {
+        "chi" ">>章节一已完成<<"
+    }
+
+    ">> Chapter 2 Completed <<"
+    {
+        "chi" ">>章节二已完成<<"
+    }
+
+    ">> Chapter Ex Completed <<"
+    {
+        "chi" ">>章节Ex已完成<<"
+    }
+
+    ">> Cyberspace has broken down <<"
+    {
+        "chi" ">>虚拟空间已经崩坏<<"
+    }
+
+    ">> Defend for 12 seconds <<"
+    {
+        "chi" "守住!还有12秒"
+    }
+
+    ">> Defend for 15 seconds <<"
+    {
+        "chi" "守住这里!还有15秒"
+    }
+
+    ">> Defend for 20 seconds <<"
+    {
+        "chi" "守住20秒"
+    }
+
+    ">> Defend for 25 seconds <<"
+    {
+        "chi" "守住!还有25秒"
+    }
+
+    ">> Defend for 30 seconds <<"
+    {
+        "chi" "守住!还有30秒"
+    }
+
+    ">> Defend for 35 seconds <<"
+    {
+        "chi" "守住!还有35秒"
+    }
+
+    ">> Defend for 40 seconds <<"
+    {
+        "chi" "守住!还有40秒"
+    }
+
+    ">> Defend for 5 seconds <<"
+    {
+        "chi" "还有5秒"
+    }
+
+    ">> End of System in 100 seconds <<"
+    {
+        "chi" "系统于100秒后下线.."
+        "blocked" "1"
+    }
+
+    ">> End of System in 120 seconds <<"
+    {
+        "chi" "系统于120秒后下线.."
+        "blocked" "1"
+    }
+
+    ">> End of System in 140 seconds <<"
+    {
+        "chi" "系统于100秒后下线.."
+        "blocked" "1"
+    }
+
+    ">> End of System in 20 seconds <<"
+    {
+        "chi" "系统于20秒后下线.."
+        "blocked" "1"
+    }
+
+    ">> End of System in 40 seconds <<"
+    {
+        "chi" "系统于40秒后下线.."
+        "blocked" "1"
+    }
+
+    ">> End of System in 60 seconds <<"
+    {
+        "chi" "系统于60秒后下线.."
+        "blocked" "1"
+    }
+
+    ">> End of System in 80 seconds <<"
+    {
+        "chi" "系统于80秒后下线.."
+    }
+
+    ">> Escape from Cyberspace! <<"
+    {
+        "chi" ">>>离开这里<<<"
+    }
+
+    ">> Failed <<"
+    {
+        "chi" ">>系统异常<<"
+    }
+
+    ">> fall tp update in 15 seconds <<"
+    {
+        "chi" "僵尸传送点还有15秒更新"
+    }
+
+    ">> Humans not detected <<"
+    {
+        "chi" "未检测到人类..."
+    }
+
+    ">> Last defend for 20 seconds <<"
+    {
+        "chi" "是这里了!还剩20秒"
+    }
+
+    ">> look down <<"
+    {
+        "chi" ">>看脚底<<"
+    }
+
+    ">> platform appeared <<"
+    {
+        "chi" "平台出现了..."
+    }
+
+    ">> platform start in 20 seconds <<"
+    {
+        "chi" "平台20秒后开始移动.."
+    }
+
+    ">> Timeleft : 10 <<"
+    {
+        "chi" "还有10秒"
+        "blocked" "1"
+    }
+
+    ">> Timeleft : 30 <<"
+    {
+        "chi" "还有30秒"
+        "blocked" "1"
+    }
+
+    ">> Timeleft : 5 <<"
+    {
+        "chi" "还有5秒"
+        "blocked" "1"
+    }
+
+    ">> Timeleft : 60 <<"
+    {
+        "chi" "还有60秒"
+    }
+
+    ">> Timer stopped <<"
+    {
+        "chi" "计时已停止"
+    }
+
+    ">> Type RTV <<"
+    {
+        "chi" "是时候RTV了..."
+    }
+
+    ">> Watch out for Zombies <<"
+    {
+        "chi" "小心僵尸!!s"
+    }
+
+    ">> Watch your step <<"
+    {
+        "chi" ">>小心前进<<"
+    }
+
+    ">> Zombie TP in 10 seconds <<"
+    {
+        "chi" "僵尸传送还有10秒"
+    }
+
+    ">> Zombie TP in 15 seconds <<"
+    {
+        "chi" "僵尸传送还有15秒"
+    }
+
+    ">> Zombie TP in 5 seconds <<"
+    {
+        "chi" "僵尸传送还有5秒"
+    }
+
+    ">> Zombies detected <<"
+    {
+        "chi" "已检测到僵尸"
+    }
+
+    ">> Zombies have reached the wall <<"
+    {
+        "chi" "僵尸已经抵达了这面墙"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+    "[System] ** Welcome to Cyberspace! **"
+    {
+        "chi" "欢迎来到虚拟空间"
+    }
+
+    "[System] ** ...System is unstable. **"
+    {
+        "chi" "运行环境不稳定..."
+    }
+
+    "[System] ** Start shutdown... **"
+    {
+        "chi" "正在关机..."
+    }
+
+    "[System] ** Shutdown completed. **"
+    {
+        "chi" ">>关机完成<<"
+    }
+
+    "[System] ** ... **"
+    {
+        "chi" "hmmmm..."
+    }
+
+    "[System] ** System is corrupted. **"
+    {
+        "chi" "系统文件已损坏..."
+    }
+
+    "[System] ** Repairing system. **"
+    {
+        "chi" "正在修复.."
+    }
+
+    "[System] ** Repairing system.. **"
+    {
+        "chi" "正在修复..."
+    }
+
+    "[System] ** Repairing system... **"
+    {
+        "chi" "系统正在自动修复...."
+    }
+
+    "[System] ** Restoration completed. **"
+    {
+        "chi" ">>>系统重置完成<<<"
+    }
+
+}

@@ -1,0 +1,209 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "<<< A wild Noniking came out!!! >>>"
+    {
+        "chi" "太美丽了年糕王,诶呀这不nino吗?"
+    }
+
+    "<Unkown Radio> ... ..."
+    {
+        "chi" "<杂音>......"
+    }
+
+    "<Unkown Radio> It's time to wake up, soldiers with a burning heart"
+    {
+        "chi" "<...>是时候振作起来了,"
+    }
+
+    "<Unkown Radio> Leave this place, Find me on the edge of the world"
+    {
+        "chi" "<...>想办法离开这里,开始我们的旅程吧"
+    }
+
+    "<Unkown Radio> The world is in chaos"
+    {
+        "chi" "世界已处于水深火热之中..."
+    }
+
+    "Be careful, zombies are coming from another way"
+    {
+        "chi" "小心,僵尸从另一条路过来了..."
+    }
+
+    "Defend 40 seconds  !"
+    {
+        "chi" "还有40秒!"
+    }
+
+    "Don't forget to close the door ..."
+    {
+        "chi" "走的时候记得关门..."
+    }
+
+    "Don't stay in the elevator"
+    {
+        "chi" "不要呆在电梯里..."
+    }
+
+    "Felt something was wrong"
+    {
+        "chi" "有点不对劲.."
+    }
+
+    "Find a way to turn off the eletric."
+    {
+        "chi" "找到电闸,关掉它..."
+    }
+
+    "Find a way up there before the doors are closed !"
+    {
+        "chi" "在门关之前想办法上去!!"
+    }
+
+    "Get Ready ?"
+    {
+        "chi" "准备好了吗?"
+    }
+
+    "Good Luck !"
+    {
+        "chi" "祝你们好运!!"
+    }
+
+    "Let's move!"
+    {
+        "chi" "开始行动!!"
+    }
+
+    "Map by Trazix & How Super Terrible"
+    {
+        "chi" "地图制作: Trazix,How Super Terrible"
+    }
+
+    "Other side wall is break"
+    {
+        "chi" "另一侧的墙壁破开了"
+    }
+
+    "Port & Update by Nino"
+    {
+        "chi" "移植,更新: Nino"
+    }
+
+    "prepare for your last rush"
+    {
+        "chi" "快到最后一段路了.."
+    }
+
+    "Run"
+    {
+        "chi" "快离开这里!!"
+    }
+
+    "Run to the elevator"
+    {
+        "chi" "到电梯那里去"
+    }
+
+    "shoot the wall!"
+    {
+        "chi" "快把墙拆了!!!"
+    }
+
+    "Special thank for ClouNine & Trazix for Updated helps"
+    {
+        "chi" "感谢克劳与Trazix对地图的建议"
+    }
+
+    "The door is opening soon"
+    {
+        "chi" "门就要开了..."
+    }
+
+    "The elevator door has opened"
+    {
+        "chi" "电梯门开了..."
+    }
+
+    "The elevator door will reopen in 30 seconds"
+    {
+        "chi" "电梯门将在30秒后再次打开..."
+    }
+
+    "The elevator stopped at the wrong floor"
+    {
+        "chi" "经典之电梯停错楼梯了.."
+    }
+
+    "The glass is going to break!"
+    {
+        "chi" "玻璃就要碎了..."
+    }
+
+    "We are blocked by those eletric wires."
+    {
+        "chi" "这些电线挡住了我们的去路..."
+    }
+
+    "Welcome on Objective Rescape"
+    {
+        "chi" "行动代号: 浴火重生"
+    }
+
+    "Zombie Advance"
+    {
+        "chi" "僵尸:嘟嘟嘟嘟嘟嘟嘟嘟~~~"
+    }
+
+    "Zombies advance!"
+    {
+        "chi" "僵尸:嘟嘟嘟~~~嘟嘟嘟~~~嘟嘟~~~"
+    }
+
+    "still 30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+    "final 10 seconds"
+    {
+        "chi" "最后的10秒.."
+    }
+
+    "ready 10 seconds"
+    {
+        "chi" "准备行动,还有10秒"
+    }
+
+    "wood break 20 seconds"
+    {
+        "chi" "木板还有20秒破开!"
+    }
+
+    "door 20 seconds"
+    {
+        "chi" "离门开还有20秒"
+    }
+
+    "elev door gonna open"
+    {
+        "chi" "电梯门马上就开了"
+    }
+
+    "[MapRelay]  Set falldamage to 0.1"
+    {
+        "chi" "地图设置:已设置摔伤"
+    }
+
+}

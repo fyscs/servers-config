@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -405,7 +405,7 @@
 
     "***HOLD OUT FOR 30 SECONDS***"
     {
-        "chi" "**守住30秒**"
+        "chi" "大头爸爸30秒后登场"
     }
 
     "***HOLD THE LINE***"
@@ -676,7 +676,7 @@
 
     "***STAY STRONG FOR DADDY***"
     {
-        "chi" "大头爸爸:我住"
+        "chi" "为了大头爸爸,坚守住!"
     }
 
     "***SURPRISE YOUR LOVE***"
@@ -716,7 +716,7 @@
 
     "***THE DIDDLE DICK HAS BEEN DEFEATED***"
     {
-        "chi" "大头爸爸被我了"
+        "chi" "大头爸爸被打败了"
     }
 
     "***THE DIDDLERY HAS BEEN DONE***"
@@ -726,7 +726,7 @@
 
     "***THE DIDDLERY IS COMING***"
     {
-        "chi" "大头爸爸:我!"
+        "chi" "大头爸爸出现了"
     }
 
     "***THE DIDDLERY WILL COMMENCE IN 1 SECOND***"
@@ -801,42 +801,42 @@
 
     "***THE END IS COMING IN 1 SECOND***"
     {
-        "chi" "1"
+        "chi" "大头爸爸1秒后登场"
     }
 
     "***THE END IS COMING IN 10 SECONDS***"
     {
-        "chi" "10"
+        "chi" "大头爸爸10秒后登场"
     }
 
     "***THE END IS COMING IN 2 SECONDS***"
     {
-        "chi" "2"
+        "chi" "大头爸爸4秒后登场"
     }
 
     "***THE END IS COMING IN 20 SECONDS***"
     {
-        "chi" "大头爸爸二我后登场"
+        "chi" "大头爸爸20秒后登场"
     }
 
     "***THE END IS COMING IN 3 SECONDS***"
     {
-        "chi" "3"
+        "chi" "大头爸爸3秒后登场"
     }
 
     "***THE END IS COMING IN 4 SECONDS***"
     {
-        "chi" "4"
+        "chi" "大头爸爸4秒后登场"
     }
 
     "***THE END IS COMING IN 5 SECONDS***"
     {
-        "chi" "大头爸爸5我登场"
+        "chi" "大头爸爸5秒后登场"
     }
 
     "***THE END IS NEAR***"
     {
-        "chi" "大头爸爸:我上就看到我了"
+        "chi" "大头爸爸:很快就能看到我了"
     }
 
     "***THE END IS NIGH***"
@@ -1051,17 +1051,17 @@
 
     "***ZOMBIES ARE TELEPORTING IN 10 SECONDS***"
     {
-        "chi" "**僵尸将在十秒后传送进二次元**"
+        "chi" "**僵尸将在10秒后传送进二次元**"
     }
 
     "***ZOMBIES ARE TELEPORTING IN 15 SECONDS***"
     {
-        "chi" "**僵尸15秒后传送进二次元**"
+        "chi" "**僵尸将在15秒后传送进二次元**"
     }
 
     "***ZOMBIES ARE TELEPORTING IN 5 SECONDS***"
     {
-        "chi" "**僵尸将在五后传送进二次元**"
+        "chi" "**僵尸将在5秒后传送进二次元**"
     }
 
     "***ZOMBIES ARE TELEPORTING***"
@@ -1071,22 +1071,22 @@
 
     "***ZOMBIES REACHED ELEVATOR - YOU'RE DEAD***"
     {
-        "chi" "僵尸到达僵尸,你们完了"
+        "chi" "僵尸到达电梯,你们完了"
     }
 
     "***ZOMBIES REACHED TOP GATE - YOU'RE DEAD***"
     {
-        "chi" "僵尸到达顶门,你们完了"
+        "chi" "僵尸到达电梯门,你们完了"
     }
 
     "***ZOMBIES TELEPORT IN 10 SECONDS***"
     {
-        "chi" "商店已经关闭,僵尸将会在十秒后传送"
+        "chi" "商店已经关闭,僵尸将会在10秒后传送"
     }
 
     "***ZOMBIES TELEPORT IN 15 SECONDS***"
     {
-        "chi" "商店已经关闭,僵尸将会在十五秒后传送"
+        "chi" "商店已经关闭,僵尸将会在15秒后传送"
     }
 
     "***ZOMBIES TELEPORT IN 5 SECONDS***"
@@ -1196,8 +1196,7 @@
 
     "*Demon Turtle casts 29--;*"
     {
-        "chi" "__null__"
-        "blocked"    "1"
+        "chi" "平台转换(跳上前面平台再跳回来)"
     }
 
     "*Demon Turtle casts Chill*"
@@ -1337,7 +1336,7 @@
 
     "*Tiki 2 Broken*"
     {
-        "chi" "**[彩蛋]Tiki 2号触发了**"
+        "chi" "[彩蛋]Tiki 2号触发"
     }
 
     "*Tiki 3 Broken*"
@@ -1472,8 +1471,7 @@
 
     "===[ ZOMBIE JIHAD ABORTED - BAD/EXPLOIT SPOT ]==="
     {
-        "chi" "__null__"
-        "blocked"    "1"
+        "chi" "僵尸清真拒绝在这种地方爆炸!!!"
     }
 
     "> HICHATU"
@@ -1503,7 +1501,7 @@
 
     "alright let's fight that dicklett"
     {
-        "chi" "**病毒清理完毕,人类获胜即将传送**"
+        "chi" "地鼠Boss战 - 大头分身"
     }
 
     "BUILD A LADDER ||-----||"
@@ -1523,7 +1521,7 @@
 
     "defend for 10 sec"
     {
-        "chi" "**还有10秒**"
+        "chi" "**还有十秒**"
     }
 
     "defend for 20 sec"
@@ -1533,7 +1531,7 @@
 
     "defend for 30 sec"
     {
-        "chi" "坚守三十秒"
+        "chi" "坚守30秒"
     }
 
     "defend here untill the wall breaks"
@@ -1652,4 +1650,63 @@
         "chi" "为了胜利而活着!"
     }
 
+    "hold this room for 20 sec"
+    {
+        "chi" "防守20秒"
+    }
+
+    "the main door is stuck"
+    {
+        "chi" "正门好像卡住了"
+    }
+
+    "wait until we find another way"
+    {
+        "chi" "先守住,等我们找到其他的道路"
+    }
+
+    "we found a secret entrance"
+    {
+        "chi" "快看,我们找到一个隐秘的入口"
+    }
+
+    "go in"
+    {
+        "chi" "润"
+    }
+
+    "***THE LIMBO OF SHREK CHOSEN***"
+    {
+        "chi" "已选择关卡: 史莱克"
+    }
+
+    "***WEEABOO ANNIHILATION CHOSEN***"
+    {
+        "chi" "已选择关卡: 二次元"
+    }
+
+    "***OMAHA BEACH CHOSEN***"
+    {
+        "chi" "已选择关卡: 奥马哈抢滩"
+    }
+
+    "***REVENGE OF THE DICKLETT TEMPLE CHOSEN***"
+    {
+        "chi" "已选择关卡: 地鼠神殿"
+    }
+
+    "***THE VIRUS CHOSEN***"
+    {
+        "chi" "已选择关卡: 海龟关"
+    }
+
+    "***DIDDLE EXTREME ACTIVATED***"
+    {
+        "chi" "EX模式已被启用"
+    }
+
+    "***PREPARE FOR ULTIMATE DIDDLING***"
+    {
+        "chi" "为EX模式做好准备"
+    }
 }

@@ -1,0 +1,444 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** Moving to stage ........."
+    {
+        "chi" "隐藏关载入"
+    }
+
+    "*** Moving to Stage 2 ***"
+    {
+        "chi" "第二关载入"
+    }
+
+    "*** Resetting the map!!***"
+    {
+        "chi" "重置地图"
+    }
+
+    "*** Skipping to Level 2!***"
+    {
+        "chi" "第二关载入"
+    }
+
+    "*** Skipping to Level 3!***"
+    {
+        "chi" "第三关载入"
+    }
+
+    "*** Slay to Reset!***"
+    {
+        "chi" "处死载入关卡"
+    }
+
+    "*** Slay to Skip***"
+    {
+        "chi" "处死载入关卡"
+    }
+
+    "*** Stage ??? ***"
+    {
+        "chi" "隐藏关"
+    }
+
+    "*** Stage 1 Compelete ***"
+    {
+        "chi" "第一关完成"
+    }
+
+    "*** Stage 2 *** Blue -> Yellow -> Blue -> White -> Red"
+    {
+        "chi" "第二关"
+    }
+
+    "*** Stage 3 ***"
+    {
+        "chi" "第三关"
+    }
+
+    "*** Stage 3 Compelete ***"
+    {
+        "chi" "第三关完成"
+    }
+
+    "*** To Be Continued ***"
+    {
+        "chi" "未完待续"
+    }
+
+    "*** Zombies on the platform! Stage fails ***"
+    {
+        "chi" "检测到僵尸!关卡失败"
+    }
+
+    "***Hamon is ready!***"
+    {
+        "chi" "红宝石准备就绪"
+    }
+
+    "***Map by Lord. Death.***"
+    {
+        "chi" "地图作者:Lord. Death."
+    }
+
+    "***Silver Chariot is ready***"
+    {
+        "chi" "银色战车准备就绪"
+    }
+
+    "***Za Wardo Ready***"
+    {
+        "chi" "白金之星准备就绪"
+    }
+
+    "...................."
+    {
+        "blocked" "1"
+    }
+
+    "[Humans] Now we kill them all then we go home!"
+    {
+        "chi" "现在杀光他们然后我们回家"
+    }
+
+    "10 more seconds!"
+    {
+        "chi" "10"
+    }
+
+    "15 seconds to go!"
+    {
+        "chi" "15"
+    }
+
+    "20 more seconds!"
+    {
+        "chi" "20"
+    }
+
+    "Anti gay fuckers activating in 15 seconds!"
+    {
+        "chi" ""
+    }
+
+    "ASS_WE_CANT Breaks in 15 Seconds!"
+    {
+        "chi" "门将在15秒后碎裂"
+    }
+
+    "BRAAAAAAKA MOONOOOOOGA"
+    {
+        "chi" "欧拉欧拉欧拉欧拉欧拉"
+    }
+
+    "CONGRATS!!!! YOU HAVE BEATEN THE SECRET ENDING"
+    {
+        "chi" "恭喜你们!!!!你们通关了隐藏关卡"
+    }
+
+    "DICKS_OF_THE_WORLD WILL LEAVE IN 15 SECONDS!"
+    {
+        "chi" "船将在15秒后离开"
+    }
+
+    "DICKS_OF_THE_WORLD Will leave in 30 Seconds!"
+    {
+        "chi" "船将在30秒后离开"
+    }
+
+    "Door open in 15 Seconds!"
+    {
+        "chi" "门将在15秒后打开"
+    }
+
+    "Door open in 20 Seconds!"
+    {
+        "chi" "门将在20秒后打开"
+    }
+
+    "Door Opens  in 20 Seconds!"
+    {
+        "chi" "门将在20秒后打开"
+    }
+
+    "Door opens in 10 Seconds!"
+    {
+        "chi" "门将在10秒后打开"
+    }
+
+    "Door opens in 15 seconds!"
+    {
+        "chi" "门将在15秒后打开"
+    }
+
+    "Door opens in 20 Seconds"
+    {
+        "chi" "门将在20秒后打开"
+    }
+
+    "Door opens in 20 Seconds!"
+    {
+        "chi" "门将在20秒后打开"
+    }
+
+    "Door opens in 30 Seconds!"
+    {
+        "chi" "门将在30秒后打开"
+    }
+
+    "Door opens in 5 Seconds"
+    {
+        "chi" "门将在5秒后打开"
+    }
+
+    "Doors open in 10 Seconds"
+    {
+        "chi" "门将在10秒后打开"
+    }
+
+    "Elevator leaves in 15 Seconds"
+    {
+        "chi" "电梯将在15秒后离开"
+    }
+
+    "Elevator leaves in 20 Seconds"
+    {
+        "chi" "电梯将在20秒后离开"
+    }
+
+    "Elevator Leaves in 25 Seconds"
+    {
+        "chi" "电梯将在25秒后离开"
+    }
+
+    "Elevator leaving in 25 Seconds!"
+    {
+        "chi" "电梯将在25秒后离开"
+    }
+
+    "First lever is triggered"
+    {
+        "chi" "第一个操纵杆已触发"
+    }
+
+    "First lever is triggered!"
+    {
+        "chi" "上面的操纵杆已触发"
+    }
+
+    "Fucking REEEEETARDS!"
+    {
+        "blocked" "1"
+    }
+
+    "Fucking Retards!"
+    {
+        "blocked" "1"
+    }
+
+    "Gay path is open!"
+    {
+        "chi" "大门打开"
+    }
+
+    "Gay path will open in 10 seconds!"
+    {
+        "chi" "10秒后大门打开"
+    }
+
+    "Hold for 15 Seconds!"
+    {
+        "chi" "防守15秒"
+    }
+
+    "Hold for 20 Seconds!"
+    {
+        "chi" "防守20秒"
+    }
+
+    "Hold for 25 Seconds!"
+    {
+        "chi" "防守25秒"
+    }
+
+    "Hold here for 15 Seconds!"
+    {
+        "chi" "防守15秒"
+    }
+
+    "Hold here for 25 Seconds!"
+    {
+        "chi" "防守25秒"
+    }
+
+    "Hold here for 30 Seconds"
+    {
+        "chi" "防守30秒"
+    }
+
+    "Hold here for 30 Seconds!"
+    {
+        "chi" "防守30秒"
+    }
+
+    "HOLY FUCK! THE DICKS ARE LEAVING EARLIER!"
+    {
+        "chi" "哦不,船要提前离开了"
+    }
+
+    "It's all over! you can go ahead now!"
+    {
+        "chi" "一切都结束了!你现在可以走了!"
+    }
+
+    "Jojo got some lasers for you!"
+    {
+        "chi" "JOJO对你们发出了跳刀"
+    }
+
+    "JUMP JUMP JUMP!"
+    {
+        "chi" "跳"
+    }
+
+    "Level 3 Secret Ending [V6]"
+    {
+        "chi" "第三关隐藏结局"
+    }
+
+    "Now kill them all then so you go home!"
+    {
+        "chi" "现在杀光他们然后我们回家"
+    }
+
+    "Now Playing: Lasersi no Sadame"
+    {
+        "chi" "正在播放:Lasersi no Sadame"
+    }
+
+    "Oh no! Stop him before he eats all of us!"
+    {
+        "chi" "哦不!阻止他在他把我们吃光之前"
+    }
+
+    "Second lever is triggered"
+    {
+        "chi" "第二个操纵杆已触发"
+    }
+
+    "second lever is triggered!"
+    {
+        "chi" "第二个操纵杆已触发"
+    }
+
+    "Secret Level Activated!"
+    {
+        "chi" "隐藏关激活"
+    }
+
+    "Slay to Skip!"
+    {
+        "chi" "处死载入关卡"
+    }
+
+    "Teleport ready in 25 Seconds"
+    {
+        "chi" "25秒传送开启"
+    }
+
+    "Teleport will be triggered in 45 Seconds!"
+    {
+        "chi" "45秒传送开启"
+    }
+
+    "Teleporting Zombies in 10 Seconds"
+    {
+        "chi" "10秒后僵尸传送"
+    }
+
+    "Teleporting Zombies in 10 Seconds!"
+    {
+        "chi" "10秒后僵尸传送"
+    }
+
+    "Teleporting Zombies In 15 Seconds!"
+    {
+        "chi" "15秒后僵尸传送"
+    }
+
+    "Teleporting Zombies in 20 Seconds!"
+    {
+        "chi" "20秒后僵尸传送"
+    }
+
+    "Teleporting Zombies in 8 Seconds"
+    {
+        "chi" "8秒后僵尸传送"
+    }
+
+    "The door with red dots in the middle opens in 25 seconds"
+    {
+        "chi" "门将在25秒后打开"
+    }
+
+    "Third lever is triggered"
+    {
+        "chi" "第三个操纵杆已触发"
+    }
+
+    "This thing leaves in 25 Seconds!"
+    {
+        "chi" "友谊的小船25秒后离开"
+    }
+
+    "This thing leaves in 30 Seconds!"
+    {
+        "chi" "友谊的小船30秒后离开"
+    }
+
+    "TP in 10s."
+    {
+        "chi" "10秒后传送"
+    }
+
+    "Upper lever is triggered!"
+    {
+        "chi" "下面的操纵杆已触发"
+    }
+
+    "Welcome to the Admin room!"
+    {
+        "chi" "欢迎来到拳男之屋"
+    }
+
+    "YOU ARE DOOMED!"
+    {
+        "chi" "你是天选之人"
+    }
+
+    "Your order will arrive in a matter of 35 Seconds!"
+    {
+        "chi" "防守35秒"
+    }
+
+    "Zombies have 40 Seconds to infect all humans"
+    {
+        "chi" "僵尸有40秒的时间去感染人类"
+    }
+
+    "ZOMBIES ON THAT THING! MUDA MUDA MUDA"
+    {
+        "chi" "僵尸在小船上!木大木大木大"
+    }
+
+}

@@ -1,0 +1,228 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "||| Blastdoor opens in 10 seconds |||"
+    {
+        "chi" "安全门10秒后开启"
+    }
+
+    "||| Blastdoor opens in 20 seconds |||"
+    {
+        "chi" "安全门20秒后开启"
+    }
+
+    "||| Blastdoor opens in 40 seconds |||"
+    {
+        "chi" "安全门40秒后开启"
+    }
+
+    "||| Door breaks in 10 ||"
+    {
+        "chi" "门10秒后破开!"
+    }
+
+    "||| Door breaks in 10 seconds ||"
+    {
+        "chi" "门10秒后破开!!!"
+    }
+
+    "||| Door breaks in 20 seconds ||"
+    {
+        "chi" "门20秒后破开!!!"
+    }
+
+    "||| Door breaks in 5 ||"
+    {
+        "chi" "门破开还有5秒"
+    }
+
+    "||| Door opens in 10 seconds |||"
+    {
+        "chi" "门开还有10秒"
+    }
+
+    "||| Door opens in 30 seconds |||"
+    {
+        "chi" "门开还有30秒"
+    }
+
+    "||| Door opens in 5 seconds |||"
+    {
+        "chi" "门开还有5秒"
+    }
+
+    "||| Elevator button unlocked |||"
+    {
+        "chi" "电梯按钮已解锁!!"
+    }
+
+    "||| Elevator is leaving in 10 seconds |||"
+    {
+        "chi" "电梯10秒后启动!!"
+    }
+
+    "||| Elevator is leaving in 15 seconds |||"
+    {
+        "chi" "电梯15秒后启动!!"
+    }
+
+    "||| Elevator leaves in 10 seconds |||"
+    {
+        "chi" "电梯10秒后离开!!"
+    }
+
+    "||| Elevator unlocks in 10 seconds |||"
+    {
+        "chi" "电梯10秒后解锁!"
+    }
+
+    "||| Fencedoor opens in 10 seconds |||"
+    {
+        "chi" "栅栏的门10秒后开启"
+    }
+
+    "||| Fencegate opens in 10 seconds |||"
+    {
+        "chi" "栅栏门10秒后开启!"
+    }
+
+    "||| Fencegate opens in 20 seconds |||"
+    {
+        "chi" "栅栏门20秒后开启!"
+    }
+
+    "||| Gate opens in 10 seconds |||"
+    {
+        "chi" "大门10秒后开启"
+    }
+
+    "||| Gate opens in 20 seconds |||"
+    {
+        "chi" "大门20秒后开启"
+    }
+
+    "||| Gate opens in 30 seconds |||"
+    {
+        "chi" "大门30秒后开启"
+    }
+
+    "||| Gate opens in 5 seconds |||"
+    {
+        "chi" "大门5秒后开启"
+        "blocked" "1"
+    }
+
+    "||| Generator Powering up |||"
+    {
+        "chi" "发电机已启动!!"
+    }
+
+    "||| HUMANS WIN |||"
+    {
+        "chi" "人类胜利!!"
+    }
+
+    "||| Kill the Monster befor in destroys the Truck |||"
+    {
+        "chi" "在怪物毁掉卡车之前开枪打他!!"
+    }
+
+    "||| left Blastdoor will open in 10 seconds |||"
+    {
+        "chi" "左边的防爆门10秒后开启!!"
+    }
+
+    "||| Map by Struppi |||"
+    {
+        "chi" "地图作者:Struppi 文本翻译:xTeruZikk"
+    }
+
+    "||| Mission failed <Truck Destroyed> |||"
+    {
+        "chi" "任务失败!!离开的卡车被摧毁了!!"
+    }
+
+    "||| OFFICE gate opens in 20 seconds |||"
+    {
+        "chi" "办公区的门20秒后打开!"
+    }
+
+    "||| OFFICE gate opens in 5 seconds |||"
+    {
+        "chi" "办公区的门5秒后打开!"
+        "blocked" "1"
+    }
+
+    "||| right Blastdoor will open in 10 seconds |||"
+    {
+        "chi" "右边的防爆门10秒后开启!"
+    }
+
+    "||| ROOF access open |||"
+    {
+        "chi" "楼顶的道路开启!!"
+    }
+
+    "||| Silodoor opens in 10 seconds |||"
+    {
+        "chi" "仓库的门10秒后打开!!"
+    }
+
+    "||| STORAGE door opens in 20 seconds |||"
+    {
+        "chi" "储藏区的门20秒后开启"
+    }
+
+    "||| STORAGE door opens in 5 seconds |||"
+    {
+        "chi" "储藏区的门5秒后开启"
+        "blocked" "1"
+    }
+
+    "||| Train leaves in 10 seconds |||"
+    {
+        "chi" "火车10秒后离开!!"
+    }
+
+    "||| Train leaves in 20 seconds |||"
+    {
+        "chi" "火车20秒后离开"
+    }
+
+    "||| Train leaves in 5 seconds |||"
+    {
+        "chi" "火车5秒后离开"
+        "blocked" "1"
+    }
+
+    "||| Truck leaves in 5 seconds |||"
+    {
+        "chi" "卡车5秒后离开"
+    }
+
+    "||| Ultralisk is dead |||"
+    {
+        "chi" "雷兽已死!!"
+    }
+
+    "||| Zombies incoming |||"
+    {
+        "chi" ">>尸潮来袭!!<<"
+    }
+
+    "||| ZOMBIES WIN |||"
+    {
+        "chi" "僵尸胜利!!!"
+    }
+
+}

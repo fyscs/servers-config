@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -77,11 +77,6 @@
     }
 
     ">>30 seconds remain<<"
-    {
-        "chi" "**还剩30秒**"
-    }
-
-    ">>30 SECONDS REMAIN<<"
     {
         "chi" "**还剩30秒**"
     }

@@ -1,0 +1,139 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "**1...*"
+    {
+        "chi" "__keep__"
+    }
+
+    "**2...*"
+    {
+        "chi" "__keep__"
+    }
+
+    "**3...*"
+    {
+        "chi" "__keep__"
+    }
+
+    "**4...*"
+    {
+        "chi" "__keep__"
+    }
+
+    "**5...*"
+    {
+        "chi" "__keep__"
+    }
+
+    "**Avoid the wall!*"
+    {
+        "chi" "远离这些墙壁"
+    }
+
+    "**Dodge the sliding beams by jumping and crouching**"
+    {
+        "chi" "通过跳跃和蹲下躲避滑动横梁"
+    }
+
+    "**Hard Mode Enabled**"
+    {
+        "chi" "困难模式启动"
+    }
+
+    "**Map Made by [SG] Paul**"
+    {
+        "chi" "地图作者: [SG] Paul  地图汉化: resent丶@风云社"
+    }
+
+    "**Normal Mode Enabled**"
+    {
+        "chi" "普通模式启动"
+    }
+
+    "**Remake by FreeDOM**"
+    {
+        "chi" "地图修改: FreeDOM"
+    }
+
+    "**Rotating Wall Speed Increasing again**"
+    {
+        "chi" "旋转壁速度再次增加"
+    }
+
+    "**Rotating Wall Speed Increasing**"
+    {
+        "chi" "旋转壁速度增加"
+    }
+
+    "**Rotating Wall Starts in...*"
+    {
+        "chi" "旋转壁启动"
+    }
+
+    "**Stand on the lighter textures - the darker ones fall**"
+    {
+        "chi" "站在较浅的纹理上-较深的纹理会掉落"
+    }
+
+    "**You both got teleported at the same time - Knife it out**"
+    {
+        "chi" "你们两个同时被传送出去-刀了他"
+    }
+
+    ">1<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">2<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">3<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">4<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">5<"
+    {
+        "chi" "__keep__"
+    }
+
+    "For StrikeArena.ru"
+    {
+        "chi" "给StrikeArena.ru"
+    }
+
+    "Go !"
+    {
+        "chi" "冲"
+    }
+
+    "MiniGame: 77.243.98.227:27024"
+    {
+        "chi" "__keep__"
+    }
+
+    "Timelimit Up!"
+    {
+        "chi" "时间到"
+    }
+
+}

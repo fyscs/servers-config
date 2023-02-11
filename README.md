@@ -1,5 +1,5 @@
 ### 風雲社
-![workflow](https://img.shields.io/github/workflow/status/fys-csgo/servers-config/GitHub%20Action?label=GitHub%20Action&style=flat-square)
+![workflow](https://img.shields.io/github/actions/workflow/status/fys-csgo/servers-config/ci.yml?branch=master&label=GitHub%20Action&style=flat-square)
 ![contributors](https://img.shields.io/github/contributors/fys-csgo/servers-config?label=贡献者&style=flat-square)
 ![CommitM](https://img.shields.io/github/commit-activity/m/fys-csgo/servers-config?label=项目活跃&style=flat-square)
 
@@ -10,7 +10,7 @@
 ![EntWatch](https://img.shields.io/github/search/fys-csgo/servers-config/entities?style=flat-square&label=EntWatch)
 ![Configs](https://img.shields.io/github/search/fys-csgo/servers-config/auto-generated?style=flat-square&label=Map%20Configs)
 ##### 服务器配置仓库  
-Copyright © 2019-2022 FyS. ALL RIGHTS RESERVED.  
+Copyright © 2019-2023 FyS. ALL RIGHTS RESERVED.  
 <br />
   
 ### 管理员说明

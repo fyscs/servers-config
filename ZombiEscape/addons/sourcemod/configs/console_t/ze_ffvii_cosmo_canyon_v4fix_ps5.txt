@@ -1,0 +1,504 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "**The gates will open in 25 seconds**"
+    {
+        "chi" "**大门25秒后打开**"
+    }
+
+    "**The Cave of the GI gates will open in 15 seconds**"
+    {
+        "chi" "**吉纳塔克的老巢15秒后打开**"
+    }
+
+    "**We are near Cosmo Canyon**"
+    {
+        "chi" "**我们快到宇宙峡谷了**"
+    }
+
+    "**The gates will open in 20 seconds**"
+    {
+        "chi" "**大门20秒后打开 **"
+    }
+
+    "**Welcome to Cosmo Canyon**"
+    {
+        "chi" "**欢迎来到宇宙峡谷**"
+    }
+
+    "**Zombies are coming. Defend Cosmo Bar for 25 seconds before we open the back door**"
+    {
+        "chi" "**守住直到酒馆后门25秒后打开!**"
+    }
+
+    "**FALL BACK**"
+    {
+        "chi" "**撤退**"
+    }
+
+    "**5 SECONDS LEFT**"
+    {
+        "chi" "**还有5秒 **"
+    }
+
+    "**THE EXPLOSIVE WILL BLOW UP THE ROCK IN 25 SECONDS**"
+    {
+        "chi" "**守住25秒让我们用炸药引爆岩石**"
+    }
+
+    "**Wait until something happens**"
+    {
+        "chi" "**好像不太对劲 当心!**"
+    }
+
+    "**GI Nattak arena will open in 35 seconds**"
+    {
+        "chi" "**吉纳塔克竞技场35秒后打开**"
+    }
+
+    "**Gi Nattack is using ultima. Shoot him faster**"
+    {
+        "chi" "**吉纳塔克正在释放终极 快干死他!**"
+    }
+
+    "**Gi Nattak is using fire**"
+    {
+        "chi" "**吉纳塔克释放躲不了火**"
+    }
+
+    "**Gi Nattak is using gravity**"
+    {
+        "chi" "**吉纳塔克释放让你按住s**"
+    }
+
+    "**Gi Nattak has healed 150 hp**"
+    {
+        "chi" "**吉纳塔克奶了自己一口**"
+    }
+
+    "**Gi Nattak is using wind**"
+    {
+        "chi" "**吉纳塔克释放让你往中间按住w**"
+    }
+
+    "**Gi Nattak is using aspil**"
+    {
+        "chi" "**吉纳塔克释放让你蹲下**"
+    }
+
+    "**Gi Nattak is using poison**"
+    {
+        "chi" "**吉纳塔克释放让你远离绿色特效**"
+    }
+
+    "**Gi Nattck is using shield**"
+    {
+        "chi" "**吉纳塔克释放让你换子弹**"
+    }
+
+    "**Gi Nattck is using silence**"
+    {
+        "chi" "**吉纳塔克释放让你不要开神器**"
+    }
+
+    "**Gi Nattak is using Nova Attack**Get out of middle**"
+    {
+        "chi" "**吉纳塔克释放让你去场地边缘别掉下去**"
+    }
+
+    "**DOOR OPENS IN 35 SECONDS**"
+    {
+        "chi" "**大门25秒后打开**"
+    }
+
+    "**10 SECONDS LEFT**"
+    {
+        "chi" "**还有10秒**"
+    }
+
+    "**A player has picked up HEAL materia**"
+    {
+        "chi" "**一名玩家获得了奶**"
+    }
+
+    "**A player has picked up FIRE materia**"
+    {
+        "chi" "**一名玩家获得了火**"
+    }
+
+    "**A player has picked up ELECTRO materia**"
+    {
+        "chi" "**一名玩家获得了电**"
+    }
+
+    "**A player has picked up BIO materia**"
+    {
+        "chi" "**一名玩家获得了毒**"
+    }
+
+    "**A player has picked up GRAVITY materia**"
+    {
+        "chi" "**一名玩家获得了黑洞**"
+    }
+
+    "**A player has picked up WIND materia**"
+    {
+        "chi" "**一名玩家获得了风**"
+    }
+
+    "**A player has picked up EARTH materia**"
+    {
+        "chi" "**一名玩家获得了土**"
+    }
+
+    "**A player has picked up ULTIMA materia**"
+    {
+        "chi" "**一名玩家获得了由提吗**"
+    }
+
+    "**The barman will open the door in 5 seconds**"
+    {
+        "chi" "**酒馆小门5秒后打开**"
+    }
+
+    "**A player has picked up SLEEP materia**"
+    {
+        "chi" "**一名玩家获得了睡**"
+    }
+
+    "**Hard mode is beaten. Challenge yourself in EXTREME mode ! **"
+    {
+        "chi" "**还行 困难模式通过 ex模式加载中**"
+    }
+
+    "**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+    {
+        "chi" "**干死剩余僵尸或者被干死**"
+    }
+
+    "**NORMAL mode was beaten. Unlocking HARD mode **"
+    {
+        "chi" "**一般 普通模式通过 困难模式加载中**"
+    }
+
+    "** EXTREME mode is beaten. Get ready for your last challenge ...**"
+    {
+        "chi" "**可以 ex模式通过 准备迎接你最后的命运挑战**"
+    }
+
+    "**Gi Nattak is spawning minions. Watch out for them**"
+    {
+        "chi" "**吉纳塔克释放让你远离射出来的火球**"
+    }
+
+    "**Gi Nattak is spawning minions. Look on them**"
+    {
+        "chi" "**吉纳塔克释放让你远离射出来的火球**"
+    }
+
+    "**ADMIN HAS CHANGED MAP LEVEL VIA ADMIN ROOM**"
+    {
+        "chi" "**管理员通过调关房调整了关卡**"
+    }
+
+    "**ADMIN PRESSED KILL ALL BUTTON**"
+    {
+        "chi" "**管理员按下处死按钮**"
+    }
+
+    "**The elevator will leave in 15 seconds**"
+    {
+        "chi" "**电梯15秒后下降**"
+    }
+
+    "**Ifrit is defeated. Get back in the elevator**"
+    {
+        "chi" "**伊芙利特被干死了 快跑!**"
+    }
+
+    "**You are too slow**"
+    {
+        "chi" "**你太慢了baby**"
+    }
+
+    "**The power is lost. Defend until the emergency generators are on**"
+    {
+        "chi" "**能源装置失去了反应 守住僵尸直到应急能源启动**"
+    }
+
+    "**We got the power. The gates will open in 15 seconds**"
+    {
+        "chi" "**应急能源已启动 守住15秒直到逃离神罗基地的大门打开**"
+    }
+
+    "**...Are you surprised?...**"
+    {
+        "chi" "**小伙子惊喜么?**"
+    }
+
+    "**...Didn't you expect me?...**"
+    {
+        "chi" "**没想到我会来吧?**"
+    }
+
+    "**...Oh okay i'm disappearing...**"
+    {
+        "chi" "**好吧 那我润了 拜拜**"
+    }
+
+    "**Zombie cactus has been picked up**"
+    {
+        "chi" "**僵尸抽象仙人掌已获取**"
+    }
+
+    "**This is your last hold point**"
+    {
+        "chi" "**这是最后一个守点了**"
+    }
+
+    "**Get on the rocks and hold 25 seconds**"
+    {
+        "chi" "**跑到石头上防守25秒**"
+    }
+
+    "**Cover here for 5 seconds before we clear this obstacle**"
+    {
+        "chi" "**在我们清除障碍物前在这里守住5秒钟**"
+    }
+
+    "**Cover here for 10 seconds before we clear this obstacle**"
+    {
+        "chi" "**在我们清除障碍物前在这里守住10秒钟**"
+    }
+
+    "**The gates will open in 30 seconds**"
+    {
+        "chi" "**第一道神罗大门30秒后打开 守住僵尸!**"
+    }
+
+    "**Wait 5 more seconds**"
+    {
+        "chi" "**守住5秒**"
+    }
+
+    "**Shinra gates will open in 20 seconds**"
+    {
+        "chi" "**神罗大门20秒后打开**"
+    }
+
+    "**He is dead. KEEP GOING**"
+    {
+        "chi" "**他被干死了 继续前进**"
+    }
+
+    "**The big cactus is blocking the way. Shopopt him!**"
+    {
+        "chi" "**抽象仙人掌正在挡路 给他干死!**"
+    }
+
+    "**THE WINNERS HAD SELECTED THE MODE**"
+    {
+        "chi" "**胜利者选择了这种模式**"
+    }
+
+    "**Now you can get out of Cave of Gi**"
+    {
+        "chi" "**现在你可以逃出吉纳塔克老巢了**"
+    }
+
+    "**Gi Nattack is dead**"
+    {
+        "chi" "**吉纳塔克被我们干死了**"
+    }
+
+    "**The gates will open in 15 seconds**"
+    {
+        "chi" "**最后一道大门15秒后打开**"
+    }
+
+    "**The detonator seems to be broken**Go another way**"
+    {
+        "chi" "**雷管好像湿了 换个方向**"
+    }
+
+    "**Chest Quest completed!**"
+    {
+        "chi" "**宝箱怪任务完成**"
+    }
+
+    "**The reward is waiting for you...**"
+    {
+        "chi" "**准备奖励自己**"
+    }
+
+    "**GET ALL THE GOLDEN CHESTS TO GET ADVANTAGE IN THE END**"
+    {
+        "chi" "**找到所有彩蛋可以取得一些优势**"
+    }
+
+    "**CHEST SIDEQUEST STARTED**"
+    {
+        "chi" "**宝箱怪可以开始了**"
+    }
+
+    "**A player has picked up Mystery Potion**"
+    {
+        "chi" "**一名玩家获得了凤凰**"
+    }
+
+    "**A player has picked up BOMB summon**"
+    {
+        "chi" "**一名玩家获得了炸弹精灵**"
+    }
+
+    "**NORMAL MODE**"
+    {
+        "chi" "**普通模式**"
+    }
+
+    "**HARD MODE**"
+    {
+        "chi" "**困难模式**"
+    }
+
+    "**EXTREME MODE**"
+    {
+        "chi" "**ex模式**"
+    }
+
+    "**GI NATTAK USES LAVA SUPERATTACK**"
+    {
+        "chi" "**基纳塔克使岩浆面上升了**"
+    }
+
+    "**Get on the rocks to get saved!!!**"
+    {
+        "chi" "**快跳到石头上!**"
+    }
+
+    "**Ifrit is defeated! Get on the airship**"
+    {
+        "chi" "**伊芙利特被干死了 快上飞船!**"
+    }
+
+    "**RAGE MODE**"
+    {
+        "chi" "**rage模式**"
+    }
+
+    "**The map is beaten. Find your place and defend it**"
+    {
+        "chi" "**该图已被你们征服 找到心仪的位置守点或者打野**"
+    }
+
+    "**ZM MODE**"
+    {
+        "chi" "**zm模式**"
+    }
+
+    "**WARMUP ROUND**"
+    {
+        "chi" "**热身模式**"
+    }
+
+    "**2 MINUTES LEFT!**"
+    {
+        "chi" "**剩余两分钟**"
+    }
+
+    "**1 MINUTES LEFT!**"
+    {
+        "chi" "**剩余一分钟**"
+    }
+
+    "**30 SECONDS LEFT!**"
+    {
+        "chi" "**还剩30秒**"
+    }
+
+    "**15 SECONDS LEFT!**"
+    {
+        "chi" "**还剩15秒**"
+    }
+
+    "**Teleporting humans to the Observatory**"
+    {
+        "chi" "**传送人类到天文台**"
+    }
+
+    "**Defend here for 15 seconds before the platform leaves**"
+    {
+        "chi" "**在平台上升前守住15秒**"
+    }
+
+    "**The platform is leaving**"
+    {
+        "chi" "**平台正在上升**"
+    }
+
+    "**WINNERS GONNA CHANGE NEXT STAGE**"
+    {
+        "chi" "**胜利者可以调关啦**"
+    }
+
+    "**Nades do more damage. Use them!**"
+    {
+        "chi" "**高爆手雷能造成大量伤害**"
+    }
+
+    "**Some of the items can affect him. Use them!**"
+    {
+        "chi" "**一些神器能造成大量伤害**"
+    }
+
+    "**A player has picked up CACTUAR summon**"
+    {
+        "chi" "**一名玩家获得了抽象仙人掌**"
+    }
+
+    "**ZE_FFVII_COSMO_CANYON**"
+    {
+        "chi" "**最终幻想七:宇宙峡谷**"
+    }
+
+    "**Map by Headshooter.SC & HaRyDe**"
+    {
+        "chi" "**地图作者:Headshooter.SC & HaRyDe 汉化&fixby lm**"
+    }
+
+    "**Thanks to Weed-Lancer for tons of grammar errors fix**"
+    {
+        "chi" "**感蟹Weed-Lancer提供的修复**"
+    }
+
+    "**Port by Shimelar**"
+    {
+        "chi" "**该版本由Shimelar移植**"
+    }
+
+    "**You have beaten Cosmo Canyon!! Congratulations !! **"
+    {
+        "chi" "**牛逼 恭喜你征服了宇宙峡谷!**"
+    }
+
+    "**The airship to Shinra will arrive in 25 seconds**"
+    {
+        "chi" "**去神罗基地的飞船将在25秒后到达**"
+    }
+
+    "**The airship is right here...**"
+    {
+        "chi" "**飞船抵达...**"
+    }
+
+}

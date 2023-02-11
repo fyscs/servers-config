@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -13,7 +13,7 @@
 
     "The teleport will earn in 25 second"
     {
-        "chi" "**传送25秒2后开启**"
+        "chi" "**传送25秒后开启**"
     }
 
     "**Activate the ship**"

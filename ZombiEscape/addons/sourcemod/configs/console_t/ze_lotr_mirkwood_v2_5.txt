@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -109,11 +109,6 @@
     "Thorin: Hold here while we clear the path"
     {
         "chi" "彩加: 等我们扫清道路时,请留在这里"
-    }
-
-    "Thorin: Hold Here while we clear the path"
-    {
-        "chi" "彩加: 正在清扫道路 守住这里"
     }
 
     "Thorin: Hold the Bridge, the path ahead is blocked... it will take a moment to clear it..."

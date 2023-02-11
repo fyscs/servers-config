@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -151,22 +151,22 @@
 
     "**Nuke in 1 min**"
     {
-        "chi" "**核弹一分钟后发射**"
+        "chi" "**核弹60秒后发射**"
     }
 
     "**Nuke in 2 mins**"
     {
-        "chi" "**核弹两分钟后发射**"
+        "chi" "**核弹120秒后发射**"
     }
 
     "**Nuke in 3 mins**"
     {
-        "chi" "**核弹3分钟后发射 **"
+        "chi" "**核弹180秒后发射**"
     }
 
     "**Nuke in 5 seconds**"
     {
-        "chi" "**核弹5秒后发射 **"
+        "chi" "**核弹5秒后发射**"
     }
 
     "**Original map : kz_otakuroom_v3 , by GemaYue**"

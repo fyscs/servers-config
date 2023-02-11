@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -25,7 +25,7 @@
 
     "** MG42 has been picked up**"
     {
-        "chi" "*一名玩家捡起了MG3机枪**"
+        "chi" "*一名玩家捡起了机枪**"
         "blocked"    "1"
     }
 
@@ -82,7 +82,7 @@
 
     "**A bridge has appeared!**Move across!**"
     {
-        "chi" "**一座桥出现了,快过去**"
+        "chi" "**一座桥出现了,快走**"
     }
 
     "**A path has appeared!**Fall back**"
@@ -102,7 +102,7 @@
 
     "**Boss fight incoming**"
     {
-        "chi" "**即将于BOSS进行决斗**"
+        "chi" "**即将与BOSS进行决斗**"
     }
 
     "**Congratulations, you beat ratescape!**"
@@ -132,12 +132,12 @@
 
     "**Defend here until something happens**"
     {
-        "chi" "**防守直到某件事情的发生**"
+        "chi" "**守住这里**"
     }
 
     "**Defend here until something happens...**"
     {
-        "chi" "**防守直到某件事情的发生**"
+        "chi" "**守住这里...**"
     }
 
     "**Defend here until way will open**"
@@ -147,7 +147,7 @@
 
     "**Defend here!**"
     {
-        "chi" "**守住这里**"
+        "chi" "**守住这里!**"
     }
 
     "**Destory Iron obstacles**"
@@ -172,7 +172,7 @@
 
     "**Explore paper city and discover its secrets**"
     {
-        "chi" "**探索纸之城然后发现它的秘密**"
+        "chi" "**探索纸之城,挖掘其中的秘密**"
     }
 
     "**F12 Wand has been picked!**"
@@ -190,11 +190,6 @@
         "chi" "**撤退**"
     }
 
-    "**Fall Back**"
-    {
-        "chi" "**撤退**"
-    }
-
     "**Find and destroy Evil Factory that supplies energy to a Paper City**"
     {
         "chi" "**找到并摧毁为纸之城提供能源的邪恶工厂**"
@@ -207,7 +202,7 @@
 
     "**Gate will open in 15 seconds**"
     {
-        "chi" "**门将在15秒后打开**"
+        "chi" "**大门15秒后打开**"
     }
 
     "**Gate will open in 20 seconds**"
@@ -222,7 +217,7 @@
 
     "**Gate will open in 5 seconds**"
     {
-        "chi" "**大门将在5秒后打开**"
+        "chi" "**大门5秒后打开**"
     }
 
     "**Hands up!**"
@@ -272,7 +267,7 @@
 
     "**MLG Duck ate Doritos and regenerated 350 hp**"
     {
-        "chi" "**马勒个鸭吃了多丽多,回复350血量**"
+        "chi" "**马勒个鸭吃了多力多滋薯片,回复350血量**"
     }
 
     "**MLG Duck has been defeted!**"
@@ -437,7 +432,7 @@
 
     "**Wall will destroy in 15 seconds**"
     {
-        "chi" "**纸墙1将在5秒后倒塌**"
+        "chi" "**纸墙将在15秒后爆炸,别靠近**"
     }
 
     "**Way will open in 15 seconds**"
@@ -457,12 +452,12 @@
 
     "**We're on a collision course!**"
     {
-        "chi" "**即将撞击**"
+        "chi" "**要撞上去了!**"
     }
 
     "**Where we fly?**"
     {
-        "chi" "**我们飞在哪**"
+        "chi" "**我们要飞去哪里?**"
     }
 
     "**You fail stage**"

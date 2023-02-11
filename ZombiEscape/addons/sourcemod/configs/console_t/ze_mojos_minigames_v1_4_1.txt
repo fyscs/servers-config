@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -197,7 +197,7 @@
         "chi" "**将在20秒后传送所有人到迷宫**"
     }
 
-    "* * * The exit is in one corner, there are breakable and passable walls, and zombies can set up delayed bombs - good luck! * * *"
+    "* * * The exit is in one corner, there are breakable and passable walls, and zombies can set up delayed bombs - good luck! * *"
     {
         "chi" "**出口在一个角落, 有可被打破和隐藏的墙, 僵尸可以设置延迟炸弹-祝你好运**"
     }
@@ -225,6 +225,161 @@
     "* * * Venture through these frozen lands, but be wary of SNOW STORMS! * * *"
     {
         "chi" "**冒险穿过这些冰冻的土地, 但要提防暴风雪!**"
+    }
+
+    "* * * Choose the first MINIGAME * * *"
+    {
+        "chi" "**选择第一个小游戏**"
+    }
+
+    "* * * STAND in your platform of choice by the time the countdown ENDS * * *"
+    {
+        "chi" "**在倒计时结束之前站在你想选择的小游戏对应的平台上**"
+    }
+
+    "[MOJOVOTE] CRUMBLE RUMBLE was chosen at random."
+    {
+        "chi" "[mojo投票系统]已随机一个小游戏-CRUMBLE RUMBLE"
+    }
+
+    "* * * 15 platforms more to win! * * *"
+    {
+        "chi" "__null__"
+    }
+
+    "* * * Choose the next MAP * * *"
+    {
+        "chi" "**选择下一张地图**"
+    }
+
+    "[MOJOVOTE] BOATLESS ESCAPE was chosen at random."
+    {
+        "chi" "[mojo投票系统]已随机一个小游戏-木筏逃生"
+    }
+
+    "[MOJOWISDOM] ), have, a sum of a philosophy, proper good or evil."
+    {
+        "chi" "[mojo智慧]有一个哲学的总结-适当的善或恶"
+    }
+
+    "[MOJOWISDOM] I really seed in a care lack lamb, and the robe in the was become Philistines."
+    {
+        "chi" "__null__"
+    }
+
+    "[MOJOWISDOM] One who is agitation."
+    {
+        "chi" "[mojo智慧]激动的人"
+    }
+
+    "[MOJOWISDOM] The reason people ascend the unrest."
+    {
+        "chi" "[mojo智慧]人们之所以登高望远"
+    }
+
+    "[MOJOWISDOM] I did not tell younger brother of the LORD before a man with him to hand of Canaan."
+    {
+        "chi" "[mojo智慧]我没有告诉耶和华的弟弟直到一个男人和他牵起了迦南的手"
+    }
+
+    "[MOJOWISDOM] They cracks can master children unconditional efforts with Tao,"
+    {
+        "chi" "[mojo智慧]他们的枪声能够领导儿童无条件的努力与道"
+    }
+
+    "[MOJOWISDOM] lowly positional one-third is what he knows himself with Tao,"
+    {
+        "chi" "[mojo智慧]卑微的三分之一的位置是他自己与道的认识"
+    }
+
+    "[MOJOWISDOM] Being and Yang that oneself in the strengthen one’s mind."
+    {
+        "chi" "[mojo智慧]在加强自己的心智方面的存在与阳刚"
+    }
+
+    "[MOJOWISDOM] moving a value his lost, the master that benefit to understand the virtue."
+    {
+        "chi" "[mojo智慧]动不动就把自己的价值弄丢了,主人给点好处就理解为美德"
+    }
+
+    "[MOJOWISDOM] Now Abraham."
+    {
+        "chi" "[mojo智慧]现在,亚伯拉罕"
+    }
+
+    "* * * Choose the next MINIGAME * * *"
+    {
+        "chi" "**选择下一个小游戏**"
+    }
+
+    "[MOJOWISDOM] Don't wish for the money from your own cup likewise be careful to regarding none is that do I desiring to you unle"
+    {
+        "chi" "[mojo智慧]不要指望从你自己的杯子里得到钱,同样我也要提醒你我不想给你任何东西"
+    }
+
+    "[MOJOWISDOM] I will so get me east."
+    {
+        "chi" "[mojo智慧]我将这样让我东山再起"
+    }
+
+    "[MOJOWISDOM] The God had another."
+    {
+        "chi" "[mojo智慧]上帝有了另一个"
+    }
+
+    "[MOJOWISDOM] And wear fine horses,"
+    {
+        "chi" "[mojo智慧]和穿着好的马匹"
+    }
+
+    "[MOJOWISDOM] Good deeds, hence is impulse is the functionally fear death,"
+    {
+        "chi" "[mojo智慧]善行,因此是冲动的,是对死亡的恐惧"
+    }
+
+    "[MOJOWISDOM] People with natural rite."
+    {
+        "chi" "[mojo智慧]有自然礼节的人"
+    }
+
+    "[MOJOWISDOM] Therefore, and free flow of Nature wish to ruler govern a nation of one harmony better fierce acts according to th"
+    {
+        "chi" "[mojo智慧]因此,根据这一点,自然规律希望统治者治理一个国家能有一个比和谐更好的猛烈的行为"
+    }
+
+    "[MOJOWISDOM] I can sensory organs."
+    {
+        "chi" "[mojo智慧]我可以感觉到身体的部件"
+    }
+
+    "[MOJOWISDOM] He said to the work that you have."
+    {
+        "chi" "[mojo智慧]他对你所做的工作说"
+    }
+
+    "[MOJOWISDOM] Why is lost."
+    {
+        "chi" "[mojo智慧]为什么会丢失"
+    }
+
+    "[MOJOWISDOM] Hence, them."
+    {
+        "chi" "[mojo智慧]因此,他们"
+    }
+
+    "[MOJOWISDOM] This ignorant is the Tao of Nature Way of aching and compassion."
+    {
+        "chi" "[mojo智慧]这种无知是自然之道的痛苦和慈悲"
+    }
+
+    "[MOJOWISDOM] Two gives it merits may not means return."
+    {
+        "chi" "[mojo智慧]二是赋予它的优点可能不意味着回报"
+    }
+
+    "* * * Choose the LAST MAP * * *"
+    {
+        "chi" "**选择最后一张地图**"
     }
 
 }

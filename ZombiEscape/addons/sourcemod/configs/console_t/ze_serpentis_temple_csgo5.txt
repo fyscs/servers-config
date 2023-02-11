@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -92,11 +92,6 @@
     }
 
     "*** Door open in 20 seconds ***"
-    {
-        "chi" "**门20秒后打开**"
-    }
-
-    "*** DOOR OPEN IN 20 SECONDS ***"
     {
         "chi" "**门20秒后打开**"
     }
@@ -248,11 +243,6 @@
         "chi" "**地图作者: Nostar 地图汉化: 大明**"
     }
 
-    "*** Map By Nostar ***"
-    {
-        "chi" "**地图作者: Nostar 地图汉化: 大明**"
-    }
-
     "*** MISSION FAILED ! ***"
     {
         "chi" "**任务失败!**"
@@ -276,7 +266,7 @@
 
     "*** PORTAL IS READY ! FALL BACK ! ***"
     {
-        "chi" "**可以撤离了!**"
+        "chi" "**传送已经就绪!可以撤离了!**"
     }
 
     "*** PUSH REMAINING ZOMBIES ***"
@@ -432,6 +422,66 @@
     "[ADMIN ROOM] STAGE 5 NEXT ROUND"
     {
         "chi" "**[管理员]下一关卡设置为第五关**"
+    }
+
+    "*** STAGE 1 ***"
+    {
+        "chi" "**第一关**"
+    }
+
+    "*** STAGE 2 ***"
+    {
+        "chi" "**第二关**"
+    }
+
+    "*** STAGE 3 ***"
+    {
+        "chi" "**第三关**"
+    }
+
+    "*** STAGE 4 ***"
+    {
+        "chi" "**第四关**"
+    }
+
+    "*** STAGE 5 ***"
+    {
+        "chi" "**第五关**"
+    }
+
+    "*** Find a way to reach the temple ***"
+    {
+        "chi" "**找到到达神殿的路**"
+    }
+
+    "*** WARMUP ROUND ***"
+    {
+        "chi" "**热身回合**"
+    }
+
+    "*** COVER ! GET TO THE DOOR ! ***"
+    {
+        "chi" "**老司机掩护!到门口去!**"
+    }
+
+    "*** HOLD 20 SECONDS ***"
+    {
+        "chi" "**坚持20秒**"
+    }
+
+    "*** GET ON THE MIDDLE ***"
+    {
+        "chi" "**跳进中间的洞**"
+    }
+
+    "*** ARTIFACT DETECTED ! ***"
+    {
+        "chi" "**检测到水晶!**"
+    }
+
+    "*** THE MISSION WAS A SUCCESS ! ***"
+    {
+        "chi" "**任务完成!祝贺你们!**"
     }
 
 }

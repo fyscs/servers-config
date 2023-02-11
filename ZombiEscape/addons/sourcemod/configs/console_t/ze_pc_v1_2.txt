@@ -1,0 +1,254 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    ">>> 1 sec <<<"
+    {
+        "chi" "1秒"
+    }
+
+    ">>> 10 sec <<<"
+    {
+        "chi" "10秒"
+    }
+
+    ">>> 2 sec <<<"
+    {
+        "chi" "2秒"
+    }
+
+    ">>> 3 sec <<<"
+    {
+        "chi" "3秒"
+    }
+
+    ">>> 4 sec <<<"
+    {
+        "chi" "4秒"
+    }
+
+    ">>> 5 sec <<<"
+    {
+        "chi" "5秒"
+    }
+
+    ">>> 6 sec <<<"
+    {
+        "chi" "6秒"
+    }
+
+    ">>> 7 sec <<<"
+    {
+        "chi" "7秒"
+    }
+
+    ">>> 8 sec <<<"
+    {
+        "chi" "8秒"
+    }
+
+    ">>> 9 sec <<<"
+    {
+        "chi" "9秒"
+    }
+
+    ">>> Activated wires are a result of addition of 2 input numbers in binary representation <<<"
+    {
+        "chi" "激活导线是两个输入数字以二进制表示相加的结果"
+    }
+
+    ">>> ALU Boss <<<"
+    {
+        "chi" "运算单元 Boss"
+    }
+
+    ">>> CPU is broken! <<<"
+    {
+        "chi" "CPU坏了!"
+    }
+
+    ">>> Defend 20 sec <<<"
+    {
+        "chi" "防守20秒"
+    }
+
+    ">>> Defend 25 sec <<<"
+    {
+        "chi" "防守25秒"
+    }
+
+    ">>> Defend 30 sec <<<"
+    {
+        "chi" "防守30秒"
+    }
+
+    ">>> Fall Back <<<"
+    {
+        "chi" "撤退"
+    }
+
+    ">>> FAN is broken! <<<"
+    {
+        "chi" "风扇坏了!"
+    }
+
+    ">>> Go destroy the CPU <<<"
+    {
+        "chi" "去摧毁CPU"
+    }
+
+    ">>> Humans have to avoid standing on wires that will be activated <<<"
+    {
+        "chi" "人类必须避免站在将被激活的电线上"
+    }
+
+    ">>> Humans have to calculate which wires will be activated in EXECUTE phase <<<"
+    {
+        "chi" "人类必须计算在执行阶段将激活那些导线"
+    }
+
+    ">>> PC restart: 0 sec <<<"
+    {
+        "chi" "电脑重启: 0秒"
+    }
+
+    ">>> PC restart: 1 sec <<<"
+    {
+        "chi" "电脑重启: 1秒"
+    }
+
+    ">>> PC restart: 10 sec <<<"
+    {
+        "chi" "电脑重启: 10秒"
+    }
+
+    ">>> PC restart: 15 sec <<<"
+    {
+        "chi" "电脑重启: 15秒"
+    }
+
+    ">>> PC restart: 2 sec <<<"
+    {
+        "chi" "电脑重启: 2秒"
+    }
+
+    ">>> PC restart: 20 sec <<<"
+    {
+        "chi" "电脑重启: 20秒"
+    }
+
+    ">>> PC restart: 25 sec <<<"
+    {
+        "chi" "电脑重启: 25秒"
+    }
+
+    ">>> PC restart: 3 sec <<<"
+    {
+        "chi" "电脑重启: 3秒"
+    }
+
+    ">>> PC restart: 30 sec <<<"
+    {
+        "chi" "电脑重启: 30秒"
+    }
+
+    ">>> PC restart: 35 sec <<<"
+    {
+        "chi" "电脑重启: 35秒"
+    }
+
+    ">>> PC restart: 4 sec <<<"
+    {
+        "chi" "电脑重启: 4秒"
+    }
+
+    ">>> PC restart: 40 sec <<<"
+    {
+        "chi" "电脑重启: 40秒"
+    }
+
+    ">>> PC restart: 41 sec <<<"
+    {
+        "chi" "电脑重启: 41秒"
+    }
+
+    ">>> PC restart: 5 sec <<<"
+    {
+        "chi" "电脑重启: 5秒"
+    }
+
+    ">>> PC restart: 50 sec <<<"
+    {
+        "chi" "电脑重启: 50秒"
+    }
+
+    ">>> PC restart: 6 sec <<<"
+    {
+        "chi" "电脑重启: 6秒"
+    }
+
+    ">>> PC restart: 60 sec <<<"
+    {
+        "chi" "电脑重启: 60秒"
+    }
+
+    ">>> PC restart: 65 sec <<<"
+    {
+        "chi" "电脑重启: 65秒"
+    }
+
+    ">>> PC restart: 69 sec <<<"
+    {
+        "chi" "电脑重启: 69秒"
+    }
+
+    ">>> PC restart: 7 sec <<<"
+    {
+        "chi" "电脑重启: 7秒"
+    }
+
+    ">>> PC restart: 8 sec <<<"
+    {
+        "chi" "电脑重启: 8秒"
+    }
+
+    ">>> PC restart: 9 sec <<<"
+    {
+        "chi" "电脑重启: 9秒"
+    }
+
+    ">>> Restart failed. Another restart attempt in 41 sec <<<"
+    {
+        "chi" "重新启动失败 41秒后再次尝试重启"
+    }
+
+    ">>> Shoot the fan blades <<<"
+    {
+        "chi" "射击扇叶片"
+    }
+
+    ">>> Still Defend 5 sec <<<"
+    {
+        "chi" "还要防御5秒"
+    }
+
+    ">>> The computer overheats <<<"
+    {
+        "chi" "电脑过热"
+    }
+
+    ">>> Zombies can select input numbers by standing on corresponding wires in DECODE phase <<<"
+    {
+        "chi" "僵尸可以在解码阶段站在相应的电线上选择输入的数字"
+    }
+
+}

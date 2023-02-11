@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -201,11 +201,6 @@
         "chi" "门会在20s后打开"
     }
 
-    ">> Door Opens In 20 Seconds! <<"
-    {
-        "chi" "**门会在20s后打开**"
-    }
-
     ">> Door Opens in 45 seconds <<"
     {
         "chi" "**门会在45s后打开**"
@@ -319,11 +314,6 @@
     ">> Kill the remaining Zombies! <<"
     {
         "chi" "**杀掉所有进门的僵尸**"
-    }
-
-    ">> Kill The Remaining Zombies! <<"
-    {
-        "chi" "杀掉所有进门的僵尸"
     }
 
     ">> Lever has been pressed! <<"

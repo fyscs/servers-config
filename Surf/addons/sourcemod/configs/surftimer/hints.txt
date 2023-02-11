@@ -4,13 +4,13 @@
 // Each hint is automatically preceded by your chat prefix
 // Each line is a new hint
 
-Type {lightgreen}!bonus {default}to teleport to the bonus stage
-Type {lightgreen}!stages {default}to teleport to a stage
-Type {lightgreen}!reset {default}or {lightgreen}!r {default}to go back to the beginning of the map
-Type {lightgreen}!rs {default}to go back to the beginning of your stage
-Type {lightgreen}!maptop {default}to see the top map times
-Type {lightgreen}!replay {default}to see a replay of the fastest map run
-Type {lightgreen}!flashlight {default}if the map is too dark
-Type {lightgreen}!howto {default}to see a tutorial on how to surf
-Type {lightgreen}!nc {default}to toggle noclip on and off
-Tired of seeing these hints? Type {lightgreen}!togglehints {default}to toggle them on or off
+输入 {lightgreen}!bonus {default}可传送到奖励关卡
+输入 {lightgreen}!stages {default}可传送到对应主线关卡
+输入 {lightgreen}!reset {default}or {lightgreen}!r {default}回到地图起点
+输入 {lightgreen}!rs {default}回到当前关卡起点
+输入 {lightgreen}!maptop {default}可查看当前地图排行
+输入 {lightgreen}!replay {default}可选择播放地图记录的电脑路线
+觉得地图太暗看不清? 输入 {lightgreen}!flashlight {default}可打开照明手电筒
+输入 {lightgreen}!howto {default}可以查看关于滑翔的教程
+输入 {lightgreen}!nc {default}可打开或关闭穿墙模式
+不想看到这些提示? 输入 {lightgreen}!togglehints {default}可以打开或关闭提示功能

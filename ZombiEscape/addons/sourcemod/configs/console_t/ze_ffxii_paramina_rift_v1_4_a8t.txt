@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -23,17 +23,17 @@
 
     "** [ADMIN] LEVEL CHANGED TO STAGE 1 NORMAL **"
     {
-        "chi" "__null__"
+        "chi" "**[管理员]关卡变更为第一关普通模式**"
     }
 
     "** [ADMIN] LEVEL CHANGED TO STAGE 2 INSANE **"
     {
-        "chi" "__null__"
+        "chi" "**[管理员]关卡变更为第二关疯狂模式**"
     }
 
     "** [ADMIN] LEVEL CHANGED TO STAGE 2 NORMAL **"
     {
-        "chi" "__null__"
+        "chi" "**[管理员]关卡变更为第二关普通模式**"
     }
 
     "** [DIFFICULTY] INSANE **"
@@ -138,7 +138,7 @@
 
     "** BULLETS/NADES DOES 200 '/. DAMAGE ON BOSS FOR 10 SECONDS **"
     {
-        "chi" "__null__"
+        "chi" "**使用子弹或手雷在10s内对boss造成200伤害**"
     }
 
     "** BUTTON PRESSED - HOLD 20 SECONDS **"
@@ -168,7 +168,7 @@
 
     "** Congratulations - you won STAGE 2 INSANE **"
     {
-        "chi" "__null__"
+        "chi" "**恭喜-你完成了第二关疯狂模式**"
     }
 
     "** Congratulations - you won STAGE 2 NORMAL **"
@@ -348,7 +348,7 @@
 
     "** MATEUS TRICKED US! IT'S A FAKE ESPER! **"
     {
-        "chi" "__null__"
+        "chi" "**玛提乌斯欺骗了我们! 这是一个假的静电防护装置!**"
     }
 
     "** MYSTERIOUS ROOM WILL OPEN IN 30 SECONDS **"
@@ -418,7 +418,7 @@
 
     "** SHOULDNT BE TOO LONG TILL IT OPENS.. **"
     {
-        "chi" "__null__"
+        "chi" "**门打开应该不会太久...**"
     }
 
     "** SOLVE THE BUTTON PUZZLE **"
@@ -453,7 +453,7 @@
 
     "** There is an error in the level system. **"
     {
-        "chi" "__null__"
+        "chi" "**在这关的系统中存在一个错误**"
     }
 
     "** THIS IS THE END OF THE FIRST STAGE **"
@@ -478,7 +478,7 @@
 
     "** YOU FOUND A WAY TO OPEN THE GATE **"
     {
-        "chi" "__null__"
+        "chi" "**你找到了打开大门的方式**"
     }
 
     "** YOU HAVE COMPLETED THE SIDE QUEST **"

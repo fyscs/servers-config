@@ -1,0 +1,169 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "<<< ... ... >>>"
+    {
+        "chi" "hmmmmmm..."
+    }
+
+    "<<< ... >>>"
+    {
+        "chi" "hmmm...."
+    }
+
+    "<<< +35 survivors detected >>>"
+    {
+        "chi" "人数剩余:小于设定值"
+    }
+
+    "<<< -35 survivors detected >>>"
+    {
+        "chi" "人数剩余:大于设定值"
+    }
+
+    "<<< defend zombies, the cases will break soon >>>"
+    {
+        "chi" "守住这里!障碍物即将清除!"
+    }
+
+    "<<< good >>>"
+    {
+        "chi" "干得不错!"
+    }
+
+    "<<< Harry up! let's move to the last tunnel >>>"
+    {
+        "chi" "搞快点!我们尽快赶去最后的隧道!"
+    }
+
+    "<<< let's try some violent way >>>"
+    {
+        "chi" ">>总得来点爆炸什么的才对嘛!<<"
+    }
+
+    "<<< Now take a deep breath, zombies will start an insane attack >>>"
+    {
+        "chi" "现在可不是休息的时候,尸潮即将袭来!!"
+    }
+
+    "<<< Prepare to fight for your life >>>"
+    {
+        "chi" "为生存而战!!"
+    }
+
+    "<<< the door get stuck >>>"
+    {
+        "chi" "门看起来卡住了!!"
+    }
+
+    "<<< the glass looks weak, watchout... >>>"
+    {
+        "chi" "玻璃貌似不怎么防弹,小心点..."
+    }
+
+    "<<< The train seems to be working >>>"
+    {
+        "chi" "火车看起来正常了..."
+    }
+
+    "<<< Those cases blocked our way >>>"
+    {
+        "chi" "这些玩意挡住了我们的去路"
+    }
+
+    "<<< wait for a while the tram is coming >>>"
+    {
+        "chi" "在列车过来这会等一会.."
+    }
+
+    "<<< Yes, we made it >>>"
+    {
+        "chi" "我们终于做到了..."
+    }
+
+    "<<< zombies are comming from behind >>>"
+    {
+        "chi" "僵尸从后方过来了!!"
+    }
+
+    "<<<Bad things happening in this area...>>>"
+    {
+        "chi" "这地方看起来发生了些很不好的事情..."
+    }
+
+    "<<<find out the train under this tunnel>>>"
+    {
+        "chi" "找到隧道下面的列车"
+    }
+
+    "<<<goodluck>>>"
+    {
+        "chi" "祝你们好运.."
+    }
+
+    "<<<guess we need to act separately..>>>"
+    {
+        "chi" "看起来这次行动只剩下我们这些人了..."
+    }
+
+    "<<<Mapper: Nino>>>"
+    {
+        "chi" "地图制作:Nino 文本翻译:xTeruZikk"
+    }
+
+    "<<<move to the X-13 facility and wait for the next command>>>"
+    {
+        "chi" "前往X①③设施,并等待进一步的指令"
+    }
+
+    "<<<Music: Trazix>>>"
+    {
+        "chi" "音乐:Trazix"
+    }
+
+    "<<<Script: 7ychu5>>>"
+    {
+        "chi" "脚本编写:7ychu5"
+    }
+
+    "<<<We got the order from the higher level>>>"
+    {
+        "chi" "我们得到了高层的指示"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+    "still 35 secs"
+    {
+        "chi" "还有35秒"
+    }
+
+    "still 28 secs after break"
+    {
+        "chi" "还有28秒,小心爆炸"
+    }
+
+    "35 secs before vent"
+    {
+        "chi" "管道还有35秒打开"
+    }
+
+    "90 secs before blastdoor"
+    {
+        "chi" "电车就要来了,还有90秒"
+    }
+
+}

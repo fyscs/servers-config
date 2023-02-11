@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -19,11 +19,6 @@
     "*5 seconds left!*"
     {
         "chi" "守住僵尸5秒!坚守!"
-    }
-
-    "*5 Seconds Left!*"
-    {
-        "chi" "**还有5秒!快了!准备撤退!**"
     }
 
     "*5 Seconds left*"

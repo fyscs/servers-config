@@ -1,7 +1,7 @@
 "Console_T"
 {
     // Console SayText i18n file generator.
-    // Copyright 2022 Kyle 'Kxnrl' Frankiss 
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
     // https://github.com/fys-csgo/Server-Configs-Generator
 
     // 可用字段
@@ -112,16 +112,6 @@
         "chi" "**杀光他们**"
     }
 
-    "10 more seconds!"
-    {
-        "chi" "**10秒**"
-    }
-
-    "10 more Seconds!"
-    {
-        "chi" "10"
-    }
-
     "10 More Seconds!"
     {
         "chi" "10"
@@ -135,11 +125,6 @@
     "20 more seconds!"
     {
         "chi" "20"
-    }
-
-    "20 more Seconds!"
-    {
-        "chi" "**20秒**"
     }
 
     "ASS_WE_CANT Breaks in 15 Seconds!"
@@ -202,11 +187,6 @@
         "chi" "**门将在10秒后打开**"
     }
 
-    "Door opens in 10 Seconds!"
-    {
-        "chi" "门将在10秒后打开"
-    }
-
     "Door Opens in 15 Seconds!"
     {
         "chi" "**门将在15秒后打开**"
@@ -222,19 +202,9 @@
         "chi" "门将在20秒后打开"
     }
 
-    "Door Opens in 20 Seconds!"
-    {
-        "chi" "**防守20秒**"
-    }
-
     "Door opens in 30 Seconds!"
     {
         "chi" "门将在30秒后打开"
-    }
-
-    "Door Opens in 30 Seconds!"
-    {
-        "chi" "**门将在30秒后打开**"
     }
 
     "Door opens in 5 Seconds"
@@ -250,11 +220,6 @@
     "Elevator leaves in 15 Seconds"
     {
         "chi" "电梯将在15秒后离开"
-    }
-
-    "Elevator Leaves in 15 Seconds"
-    {
-        "chi" "**电梯将在15秒后离开**"
     }
 
     "Elevator leaves in 20 Seconds"
@@ -282,22 +247,12 @@
         "chi" "**第一个操纵杆已触发**"
     }
 
-    "First Lever is triggered!"
-    {
-        "chi" "第一个操纵杆已触发"
-    }
-
     "Fucking REEEEETARDS!"
     {
         "chi" "**嘤嘤嘤**"
     }
 
     "Fucking Retards!"
-    {
-        "chi" "**嘤嘤嘤**"
-    }
-
-    "Fucking RETARDS!"
     {
         "chi" "**嘤嘤嘤**"
     }
@@ -383,11 +338,6 @@
     }
 
     "second lever is triggered!"
-    {
-        "chi" "**第二个操纵杆已触发**"
-    }
-
-    "Second Lever is triggered!"
     {
         "chi" "**第二个操纵杆已触发**"
     }

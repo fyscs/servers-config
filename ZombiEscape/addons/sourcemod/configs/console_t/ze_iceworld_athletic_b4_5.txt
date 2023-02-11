@@ -1,0 +1,492 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "<< 10 seconds to choose >>"
+    {
+        "chi" "10秒选择时间"
+    }
+
+    "<< 120 seconds left >>"
+    {
+        "chi" "120"
+    }
+
+    "<< 150 seconds >>"
+    {
+        "chi" "150"
+    }
+
+    "<< 180 seconds left >>"
+    {
+        "chi" "180"
+    }
+
+    "<< 249 seconds left >>"
+    {
+        "chi" "249"
+    }
+
+    "<< 30 seconds >>"
+    {
+        "chi" "30"
+    }
+
+    "<< 60 seconds >>"
+    {
+        "chi" "60"
+    }
+
+    "<< 60 seconds left >>"
+    {
+        "chi" "60"
+    }
+
+    "<< 90 seconds >>"
+    {
+        "chi" "90"
+    }
+
+    "<< A Bridge Appears >>"
+    {
+        "chi" "出现了一座桥"
+    }
+
+    "<< a player has picked up wind >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< afk tele in 20 seconds >>"
+    {
+        "chi" "20秒后挂机传送"
+    }
+
+    "<< After a little time, only 1 platform will be safe >>"
+    {
+        "chi" "将仅有一个平台是安全的"
+    }
+
+    "<< After a little time, only a few number of platform will be safe >>"
+    {
+        "chi" "将仅有少数平台是安全的"
+    }
+
+    "<< Be careful!!! All players will die if you do not finish the deathrun in 250 seconds >>"
+    {
+        "chi" "全体250秒后飞升"
+    }
+
+    "<< BUTTON MODE >>"
+    {
+        "chi" "按钮模式"
+    }
+
+    "<< Choose Mode...... >>"
+    {
+        "chi" "正在选取小游戏"
+    }
+
+    "<< DeathRun Complete !!! >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< DEATHRUN MODE >>"
+    {
+        "chi" "死亡奔跑"
+    }
+
+    "<< defend for 10 seconds >>"
+    {
+        "chi" "防守: 10秒"
+    }
+
+    "<< Defend for 12 seconds >>"
+    {
+        "chi" "防守: 12秒"
+    }
+
+    "<< defend for 30 seconds >>"
+    {
+        "chi" "防守: 30秒"
+    }
+
+    "<< defend for final 30 seconds >>"
+    {
+        "chi" "最终防守: 30秒"
+    }
+
+    "<< defense for 120 seconds >>"
+    {
+        "chi" "防守: 120秒"
+    }
+
+    "<< DEFENSE MODE >>"
+    {
+        "chi" "防御模式"
+    }
+
+    "<< DIE >>"
+    {
+        "chi" "屎捏"
+    }
+
+    "<< Do Not Let zombies destroy the crystal >>"
+    {
+        "chi" "别让感染体摧毁水晶"
+    }
+
+    "<< FAIL...... >>"
+    {
+        "chi" "失败"
+    }
+
+    "<< Final 30 seconds !!! >>"
+    {
+        "chi" "最后30秒"
+    }
+
+    "<< FROG MODE >>"
+    {
+        "chi" "简单滑翔"
+    }
+
+    "<< GO!!! >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< HERO MODE >>"
+    {
+        "chi" "英雄模式"
+    }
+
+    "<< Hero will have no limit ammo in the last 30 seconds  >>"
+    {
+        "chi" "本关最后时间将会拥有无限子弹"
+    }
+
+    "<< hold for 10 seconds >>"
+    {
+        "chi" "防守: 10秒"
+    }
+
+    "<< hold for 30 seconds >>"
+    {
+        "chi" "防守: 30秒"
+    }
+
+    "<< hold for 60 seconds >>"
+    {
+        "chi" "防守: 60秒"
+    }
+
+    "<< human win >>"
+    {
+        "chi" "胜利"
+    }
+
+    "<< it has a 50 seconds cool down >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< It seems that you are less than 16 guys >>"
+    {
+        "chi" "存活人数过少, 小游戏难度已更改"
+    }
+
+    "<< It seems that you destroy some fucking things >>"
+    {
+        "chi" "打掉滑稽脸, 按钮解锁"
+    }
+
+    "<< Let's play a game now >>"
+    {
+        "chi" "一起来玩个游戏吧"
+    }
+
+    "<< Lets start! The Final Ten heros!!! >>"
+    {
+        "chi" "开始吧, 最后的十个栽种"
+    }
+
+    "<< Look at that fucking face >>"
+    {
+        "chi" "妈惹法克"
+    }
+
+    "<< No Short Cut >>"
+    {
+        "chi" "妈惹法克"
+    }
+
+    "<< NO!!! zombie has touched that fucking face >>"
+    {
+        "chi" "感染体触碰到了滑稽脸,寄"
+    }
+
+    "<< NOBODY WIN THE LASER TEST >>"
+    {
+        "chi" "无人存活"
+    }
+
+    "<< Now its the entertainment time!!! >>"
+    {
+        "chi" "娱乐时间"
+    }
+
+    "<< Now let's start the final game >>"
+    {
+        "chi" "开始最后一场游戏"
+    }
+
+    "<< OHHHHHH ITS E PICK LEGEND !!! >>"
+    {
+        "chi" "__null__"
+    }
+
+    "<< OK, I will let you win this game easier >>"
+    {
+        "chi" "这场游戏将会很轻松"
+    }
+
+    "<< ONLY HAS 30 seconds to become the HERO >>"
+    {
+        "chi" "想成为英雄? 你只有30秒的时间"
+    }
+
+    "<< Press 8 button to win the game >>"
+    {
+        "chi" "按下[⑧]个按钮赢下这场游戏"
+    }
+
+    "<< press the button and defend zombie >>"
+    {
+        "chi" "按下[⑧]按钮, 防御感染体"
+    }
+
+    "<< Random Pick >>"
+    {
+        "chi" "随机选择"
+    }
+
+    "<< Round 1 >>"
+    {
+        "chi" "第一回合"
+    }
+
+    "<< Round 2 >>"
+    {
+        "chi" "第二回合"
+    }
+
+    "<< Shooting the crystal to become the HERO >>"
+    {
+        "chi" "想成为英雄? 摧毁水晶"
+    }
+
+    "<< Shooting the mode that you want to play!!! >>"
+    {
+        "chi" "射击你想选择的模式"
+    }
+
+    "<< So Are You READY? >>"
+    {
+        "chi" "准备好了嘛?"
+    }
+
+    "<< so now, choose the number that you like >>"
+    {
+        "chi" "选择你的幸运数字"
+    }
+
+    "<< SOLO MODE >>"
+    {
+        "chi" "孤儿模式"
+    }
+
+    "<< solo time will begin in 15 seconds !!!! >>"
+    {
+        "chi" "15秒后, 孤儿时间"
+    }
+
+    "<< TEAM MODE >>"
+    {
+        "chi" "团队模式"
+    }
+
+    "<< teleport human >>"
+    {
+        "chi" "人类传送"
+    }
+
+    "<< teleport in 30 seconds >>"
+    {
+        "chi" "传送: 30秒"
+    }
+
+    "<< The first save point has been unlocked ! >>"
+    {
+        "chi" "存单点一解锁"
+    }
+
+    "<< the light will change to green if the button can be pressed >>"
+    {
+        "chi" "指示灯为绿色, 按钮解锁"
+    }
+
+    "<< the second save point will be activated in 30 seconds >>"
+    {
+        "chi" "存单点二解锁: 30秒"
+    }
+
+    "<< TIPS: HUMAN now are uninfectable >>"
+    {
+        "chi" "提示: 人类拥有抗体"
+    }
+
+    "<< Try your best to get to the end >>"
+    {
+        "chi" "尽你最大的努力 - 待修改"
+    }
+
+    "<< wait for 10 seconds >>"
+    {
+        "chi" "等待10秒"
+    }
+
+    "<< wait for 15 seconds >>"
+    {
+        "chi" "等待15秒"
+    }
+
+    "<< wait for 25 seconds >>"
+    {
+        "chi" "等待25秒"
+    }
+
+    "<< Watch Out !!!! >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< Welcome to DeathRun!!! >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< What are you doing??? >>"
+    {
+        "chi" "甘霖娘, 在干嘛?"
+    }
+
+    "<< who permit you to press the button? >>"
+    {
+        "chi" "谁允许的你按下按钮?"
+    }
+
+    "<< YOU ARE NOT LUCKY >>"
+    {
+        "chi" "你太黑了"
+    }
+
+    "<< You can jump back to go to the button room >>"
+    {
+        "chi" "你可以跳回按钮房"
+    }
+
+    "<< You can see there are 8 platforms >>"
+    {
+        "chi" "这里有八个平台"
+    }
+
+    "<< You Done It !!! >>"
+    {
+        "chi" "你做到了"
+    }
+
+    "<< YOU GET IT >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< You have already win 4 mode!!! >>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<< You only have 120 seconds >>"
+    {
+        "chi" "120"
+    }
+
+    "<< zombie can go in 10 seconds >>"
+    {
+        "chi" "感染体移动: 10秒"
+    }
+
+    "<< zombie can move in 15 seconds >>"
+    {
+        "chi" "感染体移动: 15秒"
+    }
+
+    "<< zombie now has low gravity! >>"
+    {
+        "chi" "感染体低重力"
+    }
+
+    "<< zombie now has low gravity!!! >>"
+    {
+        "chi" "感染体低重力"
+    }
+
+    "<< zombie teleport in 5 seconds >>"
+    {
+        "chi" "感染体传送: 5秒"
+    }
+
+    "<< zombie will come in 20 seconds >>"
+    {
+        "chi" "感染体侵袭: 20秒"
+    }
+
+    "<< zombie will come in 5 seconds >>"
+    {
+        "chi" "感染体侵袭: 5秒"
+    }
+
+    "<< zombie will only have 50 hp in the final 30 seconds >>"
+    {
+        "chi" "感染体最后时间将会变得虚弱"
+    }
+
+    "<< Zombie win >>"
+    {
+        "chi" "失败"
+    }
+
+    "<<boat will move in 15 seconds >>"
+    {
+        "chi" "船只: 15秒"
+    }
+
+}

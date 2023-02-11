@@ -1,0 +1,415 @@
+﻿"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "< CITY DOOR OPENS IN 5 SECONDS >"
+    {
+        "chi" "< 城市大门将于5秒后开启 >"
+    }
+
+    "< CITY DOOR OPENS IN 40 SECONDS >"
+    {
+        "chi" "< 城市大门将于40秒后开启 >"
+    }
+
+    "*** THE BOMB  WAS DESTROYED ***"
+    {
+        "chi" "*** 克劳德已安放魔晄炉炸弹 ***"
+    }
+
+    "** An administrator has set [ZM] for next round! **"
+    {
+        "chi" "** 管理员选择zm难度在下一回合 **"
+    }
+
+    "** An administrator has set [INSANE] for next round! **"
+    {
+        "chi" "** 管理员选择疯狂(INSANE)难度在下一回合 **"
+    }
+
+    "** An administrator has set [EXTREME] for next round! **"
+    {
+        "chi" "** 管理员选择极限(EXTREME)难度在下一回合 **"
+    }
+
+    "** An administrator has set [HARD] for next round! **"
+    {
+        "chi" "** 管理员选择困难(HARD)难度在下一回合 **"
+    }
+
+    "** An administrator has set [NORMAL] for next round! **"
+    {
+        "chi" "** 管理员选择普通(NORMAL)难度在下一回合 **"
+    }
+
+    "** An administrator has set [EASY] for next round! **"
+    {
+        "chi" "** 管理员选择简单(EASY)难度在下一回合 **"
+    }
+
+    "** Congratulations! You have beaten [EASY] **"
+    {
+        "chi" "** 恭喜!你已成功征服简单(EASY)难度 **"
+    }
+
+    "** Congratulations! You have beaten [NORMAL] **"
+    {
+        "chi" "** 恭喜!你已成功征服普通(NORMAL)难度 **"
+    }
+
+    "** Congratulations! You have beaten [HARD] **"
+    {
+        "chi" "** 恭喜!你已成功征服困难(HARD)难度 **"
+    }
+
+    "** Congratulations! You have beaten [EXTREME] **"
+    {
+        "chi" "** 恭喜!你已成功征服极限(EXTREME)难度 **"
+    }
+
+    "** Congratulations! You have beaten [INSANE] **"
+    {
+        "chi" "** 恭喜!你已成功征服疯狂(INSANE)难度 **"
+    }
+
+    "** Congratulations! You have beaten [ZM] **"
+    {
+        "chi" "** 恭喜!你已成功征服zm难度 **"
+    }
+
+    "<<< EASY >>>"
+    {
+        "chi" "<<< 难度:简单 >>>"
+    }
+
+    "<<< NORMAL >>>"
+    {
+        "chi" "<<< 难度:普通 >>>"
+    }
+
+    "<<< HARD >>>"
+    {
+        "chi" "<<< 难度:困难 >>>"
+    }
+
+    "<<< EXTREME >>>"
+    {
+        "chi" "<<< 难度:极限 >>>"
+    }
+
+    "<<< INSANE >>>"
+    {
+        "chi" "<<< 难度:疯狂 >>>"
+    }
+
+    "< ZOMBIE MODE >"
+    {
+        "chi" "< 难度:zm >"
+    }
+
+    "< TRY TO SURVIVE IN THE CITY AREA >"
+    {
+        "chi" "< 尝试在城市中生存下来 >"
+    }
+
+    "** BIO Materia has been found. **"
+    {
+        "chi" "** 毒魔法已习得 **"
+    }
+
+    "** BARRIER Materia has been found. **"
+    {
+        "chi" "** 盾魔法已习得 **"
+    }
+
+    "** ULTIMA Materia has been found. **"
+    {
+        "chi" "** 终极魔法已习得 **"
+    }
+
+    "** WIND Materia has been found. **"
+    {
+        "chi" "** 风魔法已习得 **"
+    }
+
+    "** HEAL Materia has been found. **"
+    {
+        "chi" "** 治疗魔法已习得 **"
+    }
+
+    "** ICE Materia has been found. **"
+    {
+        "chi" "** 冰魔法已习得 **"
+    }
+
+    "** AQUA Materia has been found. **"
+    {
+        "chi" "** 水魔法已习得 **"
+    }
+
+    "** FIRE Materia has been found. **"
+    {
+        "chi" "** 火魔法已习得 **"
+    }
+
+    "** ELECTRO Materia has been found. **"
+    {
+        "chi" "** 电魔法已习得 **"
+    }
+
+    "** EARTH Materia has been found. **"
+    {
+        "chi" "** 土魔法已习得 **"
+    }
+
+    "** GRAVITY Materia has been found. **"
+    {
+        "chi" "** 黑洞魔法已习得 **"
+    }
+
+    "** Round failed! Zombies have reached the objective! **"
+    {
+        "chi" "** 你太怒波了!僵尸比人类更快触发 **"
+    }
+
+    "< Any last words? >"
+    {
+        "chi" "< 在你死之前还有遗言么? >"
+    }
+
+    "< Ugh... Defeated... >"
+    {
+        "chi" "< 嗯...失败了... >"
+    }
+
+    "< Dodge this! >"
+    {
+        "chi" "< 接招吧! >"
+    }
+
+    "< Fly! >"
+    {
+        "chi" "< 滚开! >"
+    }
+
+    "< I've been... Defeated? >"
+    {
+        "chi" "< 不可能 我被...击败了? >"
+    }
+
+    "< Impressive! >"
+    {
+        "chi" "< 不错! >"
+    }
+
+    "< I understand that you've been looking for me. >"
+    {
+        "chi" "< 我知道你一直在追寻我... >"
+    }
+
+    "< Hmm... I was expecting more... >"
+    {
+        "chi" "< 真失望...我原本期待你更强... >"
+    }
+
+    "< Only the chosen may survive! >"
+    {
+        "chi" "< 只有被神选中之人才配活下来! >"
+    }
+
+    "< Hmm... Pitiful fool. >"
+    {
+        "chi" "< 嗯...可怜的蠢货 >"
+    }
+
+    "< Say goodbye! >"
+    {
+        "chi" "< 永别了! >"
+    }
+
+    "< Seems I do not have to hold back. >"
+    {
+        "chi" "< 我会毫不犹豫杀死你 >"
+    }
+
+    "< I'll see you again. >"
+    {
+        "chi" "< 你不会等太久的... >"
+    }
+
+    "< Slow! >"
+    {
+        "chi" "< 太慢了! >"
+    }
+
+    "< Solitude isn't heroism. >"
+    {
+        "chi" "< 英雄是不会孤单的 >"
+    }
+
+    "< Too late for laments! >"
+    {
+        "chi" "< 丧钟为你而鸣 >"
+    }
+
+    "< CARGO LIFT STARTS IN 5 SECONDS >"
+    {
+        "chi" "< 载货电梯将于5秒后启动 >"
+    }
+
+    "** Zombies detected! You lose! **"
+    {
+        "chi" "** 僵尸已逃脱...你太怒波了! **"
+    }
+
+    "** Congratulations! You have beaten the Stage! **"
+    {
+        "chi" "** 恭喜!你已成功征服魔晄炉! **"
+    }
+
+    "** Next difficulty was chosen by an Administrator! **"
+    {
+        "chi" "** 下个难度需要管理员选择! **"
+    }
+
+    "** MIMIC Materia has been found. **"
+    {
+        "chi" "** 复制魔法已习得 **"
+    }
+
+    "< BAHAMUT CASTED FIRE >"
+    {
+        "chi" "< 巴哈姆特释放火魔法 >"
+    }
+
+    "< BAHAMUT CASTED ICE >"
+    {
+        "chi" "< 巴哈姆特释放冰魔法 >"
+    }
+
+    "< BAHAMUT CASTED ELECTRO >"
+    {
+        "chi" "< 巴哈姆特释放电魔法 >"
+    }
+
+    "< BAHAMUT CASTED WIND >"
+    {
+        "chi" "< 巴哈姆特释放风魔法 >"
+    }
+
+    "< BAHAMUT CASTED EARTH >"
+    {
+        "chi" "< 巴哈姆特释放土魔法 >"
+    }
+
+    "< BAHAMUT CASTED GRAVITY >"
+    {
+        "chi" "< 巴哈姆特释放黑洞魔法 >"
+    }
+
+    "< BAHAMUT CASTED BIO >"
+    {
+        "chi" "< 巴哈姆特释放毒魔法 >"
+    }
+
+    "< BAHAMUT CASTED BARRIER >"
+    {
+        "chi" "< 巴哈姆特释放盾魔法 >"
+    }
+
+    "< BAHAMUT CASTED AQUA >"
+    {
+        "chi" "< 巴哈姆特释放水魔法 >"
+    }
+
+    "< BAHAMUT CASTED HEAL >"
+    {
+        "chi" "< 巴哈姆特治疗了自己 >"
+    }
+
+    "< BAHAMUT CASTED ULTIMA >"
+    {
+        "chi" "< 巴哈姆特释放红色终极! >"
+    }
+
+    "< BAHAMUT MIMICS FIRE >"
+    {
+        "chi" "< 巴哈姆特复制火魔法 >"
+    }
+
+    "< BAHAMUT MIMICS ICE >"
+    {
+        "chi" "< 巴哈姆特复制冰魔法 >"
+    }
+
+    "< BAHAMUT MIMICS ELECTRO >"
+    {
+        "chi" "< 巴哈姆特复制电魔法 >"
+    }
+
+    "< BAHAMUT MIMICS WIND >"
+    {
+        "chi" "< 巴哈姆特复制风魔法 >"
+    }
+
+    "< BAHAMUT MIMICS EARTH >"
+    {
+        "chi" "< 巴哈姆特复制土魔法 >"
+    }
+
+    "< BAHAMUT MIMICS GRAVITY >"
+    {
+        "chi" "< 巴哈姆特复制黑洞魔法 >"
+    }
+
+    "< BAHAMUT MIMICS BIO >"
+    {
+        "chi" "< 巴哈姆特复制毒魔法 >"
+    }
+
+    "< BAHAMUT MIMICS BARRIER >"
+    {
+        "chi" "< 巴哈姆特复制盾魔法 >"
+    }
+
+    "< BAHAMUT MIMICS AQUA >"
+    {
+        "chi" "< 巴哈姆特复制水魔法 >"
+    }
+
+    "< BAHAMUT MIMICS HEAL >"
+    {
+        "chi" "< 巴哈姆特复制治疗魔法 >"
+    }
+
+    "< BAHAMUT MIMICS ULTIMA >"
+    {
+        "chi" "< 巴哈姆特复制红色终极 >"
+    }
+
+    "< BAHAMUT MIMICS FAILS >"
+    {
+        "chi" "< 巴哈姆特复制失败 >"
+    }
+
+    "** ADMIN PRESSED KILL ALL BUTTON **"
+    {
+        "chi" "** 管理员按下核爆按钮 **"
+    }
+
+    "** PREPARE TO DIE **"
+    {
+        "chi" "** 准备核爆 **"
+    }
+
+}
+
