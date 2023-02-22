@@ -1,0 +1,769 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "**[Chopper]  Better get out of there! Now!**"
+    {
+        "chi" "最好赶紧离开这里,就是现在!"
+    }
+
+    "**[Chopper]  Find a good pick-up point, or else you'll be buried along with the shelves!**"
+    {
+        "chi" "掌握的时机不错,不然你就要被这些玩意埋了"
+    }
+
+    "**[CHOPPER] **Reactor is about to blow up, this is your last chance, don't waste it!**"
+    {
+        "chi" "反应炉就要爆炸了,这是你最后的机会,不要再浪费时间了"
+    }
+
+    "**[Chopper] Even from here you can see the explosions!**"
+    {
+        "chi" "即使在这里都能看得到爆炸!"
+    }
+
+    "**[Chopper] Running out of fuel, either we'll leave in 20 seconds or you'll stay here!**"
+    {
+        "chi" "燃料就快用完了,不想留在这里的话就20秒内离开"
+    }
+
+    "**[Chopper] We got information that shelves without MLG Ducks will start to fall apart!**"
+    {
+        "chi" "我们得知没有了Duck的架子将会分崩离析"
+    }
+
+    "**[Chopper] Well done! We flying to zone 0, get ready!**"
+    {
+        "chi" "干得好,我们去区域零那里,做好准备!"
+    }
+
+    "**[CHOPPER] We're flying into zone 0, we can't stay there too long, hurry up!**"
+    {
+        "chi" "我们正在飞往区域零,但不能在那里呆太久,快点!"
+    }
+
+    "**[Chopper] You don't have much time left, hurry up!**"
+    {
+        "chi" "你剩不了多少时间了,搞快点"
+    }
+
+    "**[SECURITY ALERT] Main reactor will disable in 22 seconds!**"
+    {
+        "chi" "主反应炉22秒后关闭"
+    }
+
+    "**[SECURITY ALERT] Main reactor will overheat in 115 seconds!**"
+    {
+        "chi" "主反应炉115秒后进入过热状态"
+    }
+
+    "**[SECURITY ALERT] Main reactor will overheat in 15 seconds!**"
+    {
+        "chi" "主反应炉15秒后进入过热状态"
+        "blocked" "1"
+    }
+
+    "**[SECURITY ALERT] Main reactor will overheat in 30 seconds!**"
+    {
+        "chi" "主反应炉30秒后进入过热状态"
+        "blocked" "1"
+    }
+
+    "**[SECURITY ALERT] Main reactor will overheat in 5 seconds!**"
+    {
+        "chi" "主反应炉5秒后进入过热状态"
+        "blocked" "1"
+    }
+
+    "**[SECURITY ALERT] Main reactor will overheat in 50 seconds!**"
+    {
+        "chi" "主反应炉50秒后进入过热状态"
+    }
+
+    "**A bridge has appeared!**Move across!**"
+    {
+        "chi" "有座桥出现了,快过去!"
+    }
+
+    "**A new generation of papemetal automatic lock, give me some time and I'll open it to you!**"
+    {
+        "chi" "新一代的自动锁,给点时间我会把它弄开"
+    }
+
+    "**A player has picked up a Pack of Doritos !**"
+    {
+        "chi" "玩家捡了一包多力多滋"
+    }
+
+    "**A player has picked up Assault Rifle!**"
+    {
+        "chi" "玩家拾起了突击步枪"
+    }
+
+    "**A player has picked up AutoShotgun!**"
+    {
+        "chi" "玩家拾起了霰弹枪"
+    }
+
+    "**A player has picked up Blizzard Desert Eagle!**"
+    {
+        "chi" "玩家拾起了冰冻沙漠之鹰"
+    }
+
+    "**A player has picked up bottle of Mountain Dew (Blue limited edition)!**"
+    {
+        "chi" "玩家拾起了一瓶激浪(蓝色限定版)"
+    }
+
+    "**A player has picked up Bowie Knife!**"
+    {
+        "chi" "玩家拾起了猎刀"
+    }
+
+    "**A player has picked up Cardboard AWP Dragon Lore!**"
+    {
+        "chi" "玩家拾起了纸片龙狙"
+    }
+
+    "**A player has picked up Doritos!**"
+    {
+        "chi" "玩家拾起了多力多滋"
+    }
+
+    "**A player has picked up Gersch device!**"
+    {
+        "chi" "玩家拾起了黑洞"
+    }
+
+    "**A player has picked up Hammer!**"
+    {
+        "chi" "玩家拾起了锤子"
+    }
+
+    "**A player has picked up Hand Cannon!**"
+    {
+        "chi" "玩家拾起了手炮"
+    }
+
+    "**A player has picked up M200 Intervention!**"
+    {
+        "chi" "玩家拾起了干涉装置"
+    }
+
+    "**A player has picked up Raygun!**"
+    {
+        "chi" "玩家拾起了射线枪"
+    }
+
+    "**A player has picked up Serious Backpack!**"
+    {
+        "chi" "玩家拾起了弹药补给包"
+    }
+
+    "**A player has picked up Serious Bomb!**"
+    {
+        "chi" "玩家拾起了超级炸弹"
+    }
+
+    "**A player has picked up Serious Saw!**"
+    {
+        "chi" "玩家拾起了链锯"
+    }
+
+    "**A player has picked up Tatical Nuke!**"
+    {
+        "chi" "玩家拾起了战术核弹"
+    }
+
+    "**A player has picked up Thundergun!**"
+    {
+        "chi" "玩家拾起了雷枪"
+    }
+
+    "**A player has picked up Wunderwaffe!**"
+    {
+        "chi" "玩家获得了电子枪"
+    }
+
+    "**According to our information, the paper king is hiding with his bodyguard, the mlg duck**"
+    {
+        "chi" "根据消息,纸片王与他的护卫Duck躲藏在这里"
+    }
+
+    "**Another fan, give me 20 seconds more!**"
+    {
+        "chi" "又有个风扇,再给20秒"
+    }
+
+    "**Apart from that, I don't see any traps here!**"
+    {
+        "chi" "除了那个,暂时还没看见什么陷阱"
+    }
+
+    "**Bi-Den La fuel is next to us, lucky!**"
+    {
+        "chi" "这玩意就在旁边,还不错!"
+    }
+
+    "**Bomb has been planted! Hold here for 25 seconds!**"
+    {
+        "chi" "炸弹已被放置!守住25秒!"
+    }
+
+    "**Bridge exploded! give me a minute, I have to find another way!**"
+    {
+        "chi" "桥炸了!找其他的路还需要点时间!"
+    }
+
+    "**Damn, we have to dismount a fan to move on!**"
+    {
+        "chi" "靠,我们得拆一个风扇下来!"
+    }
+
+    "**Defend here until something happens...**"
+    {
+        "chi" "守住这里,就要来了..."
+    }
+
+    "**Doors of roof will open in 30 seconds!**"
+    {
+        "chi" "屋顶的门30秒后开启"
+    }
+
+    "**F#ck it, hold this area until something happens!**"
+    {
+        "chi" "cao,守住这里,就要来了!"
+    }
+
+    "**Finally, roof is open, go!**"
+    {
+        "chi" "屋顶开了,快走!"
+    }
+
+    "**Find another way, hurry! We don't have time to lose!**"
+    {
+        "chi" "快找其他的路,我们没时间浪费"
+    }
+
+    "**Find the duck that will lead you to the king!**"
+    {
+        "chi" "找到Duck,它会把你引向纸片王"
+    }
+
+    "**Garage is open, keep running!**"
+    {
+        "chi" "车库打开了,快继续跑!"
+    }
+
+    "**Gate will open in 15 seconds!**"
+    {
+        "chi" "大门15秒后开启"
+    }
+
+    "**Gates will open in 15 seconds!**"
+    {
+        "chi" "大门15秒后开启"
+    }
+
+    "**Gates will open in 20 seconds!**"
+    {
+        "chi" "大门20秒后开启"
+    }
+
+    "**Get back, bomb explode in 15 seconds!**"
+    {
+        "chi" "快退后,炸弹15秒后爆炸"
+    }
+
+    "**Get ready! Boss fight incoming!**"
+    {
+        "chi" "做好准备!Boss战就要来了"
+    }
+
+    "**Get to the other side of the wall, and then get to the lego city **"
+    {
+        "chi" "到墙的另一边去,然后到乐高城市那里去"
+    }
+
+    "**he should be at the landing site, it must be a trap, get out of there!**"
+    {
+        "chi" "他可能在降落平台那里,一定是个陷阱,赶紧离开那里!"
+    }
+
+    "**Here he is! MLG Duck, right hand of Paper King!**"
+    {
+        "chi" "Duck就在这里!纸片王的右边!"
+    }
+
+    "**Here it is, paper factory, we must blow up main gate!**"
+    {
+        "chi" "就是这里,纸片工厂,我们必须把主门炸开!"
+    }
+
+    "**Hold this area for 15 seconds"
+    {
+        "chi" "守住这里,还有15秒"
+    }
+
+    "**Hold this area for 20 seconds!**"
+    {
+        "chi" "守住这里,还有20秒"
+    }
+
+    "**Hold this area for 25 seconds!**"
+    {
+        "chi" "守住这里,还有25秒"
+    }
+
+    "**Hold this area until we come up with a new evacuation plan!**"
+    {
+        "chi" "守住这里,我们需要时间想个新的撤退计划"
+    }
+
+    "**Hold this area until we manage to open this door!**"
+    {
+        "chi" "守住这里,我们需要时间把门弄开"
+    }
+
+    "**Hold this area, way will open in 20 seconds!**"
+    {
+        "chi" "守住这里,路20秒后开启"
+    }
+
+    "**If we defeat him, paper king lose the most powerful soldier in his army**"
+    {
+        "chi" "如果能击败它,纸片王就会失去它军队中最强力的士兵"
+    }
+
+    "**It is enough to come back here later with the package c4**"
+    {
+        "chi" "带上炸弹等会就能轻松回来了"
+    }
+
+    "**Main Doors of Paper Reactor, Hold this area for 15 seconds!**"
+    {
+        "chi" "纸片反应堆的主门,守住15秒"
+    }
+
+    "**Map Status: No Stripper!**"
+    {
+        "chi" "地图信息:无Stripper"
+    }
+
+    "**Mission successful, I repeat, mission successful, factory blown up!**"
+    {
+        "chi" "任务完成,重复:任务已成功,工厂已炸毁!"
+    }
+
+    "**Mission successful, I repeat, mission successful, thank you for your sacrifice!**"
+    {
+        "chi" "任务完成,重复:任务已成功,感谢你的付出!"
+    }
+
+    "**Mission successful, I repeat, mission successful, you won map!**"
+    {
+        "chi" "任务完成,重复:任务已成功,你赢了!"
+    }
+
+    "**MLG Duck has been defeted**"
+    {
+        "chi" "Duck已被击败!!"
+    }
+
+    "**MLG Duck has casted Fedora boost!**"
+    {
+        "chi" "Duck使用了费多拉加速"
+    }
+
+    "**MLG Duck has casted MLG Horn Tornado**"
+    {
+        "chi" "Duck使用了飓风"
+    }
+
+    "**MLG Duck has casted MLG Stuff!**"
+    {
+        "chi" "Duck正在大放厥词"
+    }
+
+    "**MLG Duck is using Mountain Dew Shower!**"
+    {
+        "chi" "Duck正在使用激浪洗澡盆"
+    }
+
+    "**MLG Duck launched Tactical Nuke, It's over!**"
+    {
+        "chi" "Duck启动了战术核弹,结束了!"
+    }
+
+    "**MLG Duck opens a pack of crips! Duck has healed 185  hp**"
+    {
+        "chi" "Duck打开了一包吃的,恢复了185hp"
+    }
+
+    "**MLG Duck summons Doritos Blaze*"
+    {
+        "chi" "Duck召唤了薯片烈焰"
+    }
+
+    "**MLG Duck summons Doritos Cheese, we have 15 seconds to kill it or we all die!**"
+    {
+        "chi" "Duck召唤了薯片奶酪,我们只剩15秒了"
+    }
+
+    "**MLG Duck summons Doritos Flames**"
+    {
+        "chi" "Duck召唤了薯片火焰"
+    }
+
+    "**MLG Duck summons Doritos Mtn*"
+    {
+        "chi" "Duck召唤了薯片Mtn"
+    }
+
+    "**MLG Duck summons Doritos Rainbow**"
+    {
+        "chi" "Duck召唤了薯片彩虹"
+    }
+
+    "**MLG Duck summons Jackie (onii) Chan!**"
+    {
+        "chi" "Duck召唤了成龙?"
+    }
+
+    "**MLG Duck summons MLG Shrek!**"
+    {
+        "chi" "Duck召唤了史莱克"
+    }
+
+    "**MLG Duck summons MLG UFO!**"
+    {
+        "chi" "Duck召唤了UFO"
+    }
+
+    "**MLG Duck summons Pringles daddy!**"
+    {
+        "chi" "Duck召唤了品客大叔"
+    }
+
+    "**MLG Duck summons Sans!**"
+    {
+        "chi" "Duck召唤了Sans"
+    }
+
+    "**Next Gate will open in 15 seconds!**"
+    {
+        "chi" "下一道门15秒后打开"
+    }
+
+    "**Nice work, we are sending chopper, they should arrive within a few moments!**"
+    {
+        "chi" "干得好,我们派出了直升机,应该一会就到了"
+    }
+
+    "**Now the paper king had no choice but to show up, and then we will wait for him!**"
+    {
+        "chi" "现在纸片王除了现身别无他法了,我们当然会等着它!"
+    }
+
+    "**Oh not, platrofm to next panel is broken!**"
+    {
+        "chi" "哦不,去下一处的平台被破坏了"
+    }
+
+    "**Ok let's get out of here before someone sees us, tomorrow is a big day**"
+    {
+        "chi" "在被人看见之前还是赶紧离开这里吧,明天有好戏看了"
+    }
+
+    "**Once you get to the city, find your way to the factory!**"
+    {
+        "chi" "一旦抵达城市,想办法到工厂那里去"
+    }
+
+    "**Our agents hidden weapons in the city that may be useful to you**"
+    {
+        "chi" "特工藏在城市里的武器应该会对你们有帮助"
+    }
+
+    "**Planes are ready to start, hold this area a little more!**"
+    {
+        "chi" "飞机已经准备好启动了,再守一会!"
+    }
+
+    "**Planes will start in 5 seconds!**"
+    {
+        "chi" "飞机5秒后启动"
+    }
+
+    "**Reinforced concrete, through which we will not break through now**"
+    {
+        "chi" "强化混凝土,我们暂时没办法穿过去"
+    }
+
+    "**Returning to the mission, we managed to get to the paper city**"
+    {
+        "chi" "回到任务上来,我们得想办法到纸片城市去s"
+    }
+
+    "**Secret Weapon #1 has been unlock! Visit GGEASY.PL garage to take your reward!**"
+    {
+        "chi" "神秘武器一号已被解锁"
+    }
+
+    "**Secret Weapon #2 has been unlock! Visit GGEASY.PL garage to take your reward!**"
+    {
+        "chi" "神秘武器二号已被解锁"
+    }
+
+    "**Secret Weapon #3 has been unlock! Visit Ammu-Nation and take your reward!**"
+    {
+        "chi" "神秘武器三号已被解锁"
+    }
+
+    "**Secret Weapon #4 has been unlock!"
+    {
+        "chi" "神秘武器四号已被解锁"
+    }
+
+    "**Somehow we managed, hope no one blame us for these for destroy that towers!**"
+    {
+        "chi" "算是准备好了,希望没人拿这些事来责怪我们"
+    }
+
+    "**Stage 1 incoming you horny tryhard!**"
+    {
+        "chi" "设定至第一关.."
+    }
+
+    "**Stage 2 incoming you sweet boy!**"
+    {
+        "chi" "设定至第二关.."
+    }
+
+    "**Stage 3 incoming! You smal pipi!**"
+    {
+        "chi" "设定至第三关.."
+    }
+
+    "**Stop being horny**"
+    {
+        "chi" "不要冲动"
+    }
+
+    "**Survive 10 seconds!**"
+    {
+        "chi" "生存10秒"
+        "blocked" "1"
+    }
+
+    "**Survive 100 seconds!**"
+    {
+        "chi" "生存100秒"
+    }
+
+    "**Survive 20 seconds!**"
+    {
+        "chi" "生存20秒"
+        "blocked" "1"
+    }
+
+    "**Survive 50 seconds!**"
+    {
+        "chi" "生存50秒"
+    }
+
+    "**Teleport will enable in 20 seconds!**"
+    {
+        "chi" "传送器20秒后开启"
+    }
+
+    "**Teleporter will enable in 20 seconds!**"
+    {
+        "chi" "传送器20秒后启动"
+    }
+
+    "**Thanks Tilgep & Hentai for help!**"
+    {
+        "chi" "感谢Tilgep与Hentai的帮助!"
+    }
+
+    "**The door from the apartment will open in 35 seconds!**"
+    {
+        "chi" "公寓的门35秒后开启"
+    }
+
+    "**The paper bridge burned down? on the river of lava? unbelievable right?**"
+    {
+        "chi" "纸片桥烧毁了?在岩浆流上?不怎么可信对吗?"
+    }
+
+    "**The paper city is tightly closed, the only option is an air raid**"
+    {
+        "chi" "纸片城市已经封锁严密,唯一的选项就是空袭"
+    }
+
+    "**The planes are ready, you just need to get to the highest point in the room, good luck!**"
+    {
+        "chi" "飞机已就绪,你只需要到最高的地方去就行,祝你好运"
+    }
+
+    "**The roof is locked with a padlock, I'll unlock it but it takes some time!**"
+    {
+        "chi" "房顶被上锁了,需要点时间解开"
+    }
+
+    "**The side street gates will open in 15 seconds!**"
+    {
+        "chi" "小道的门15秒后开启"
+    }
+
+    "**The side street should lead us to the other side!**"
+    {
+        "chi" "这条小道应该能把我们带到另一边去"
+    }
+
+    "**The teleporter will enable in 15 seconds!**"
+    {
+        "chi" "传送器15秒后启动"
+    }
+
+    "**The teleporter will enable in 20 seconds!**"
+    {
+        "chi" "传送器20秒后启动"
+    }
+
+    "**Then he will have no choice but to show himself !**"
+    {
+        "chi" "这样它就没有任何办法,只能现身了!"
+    }
+
+    "**There is a paper king somewhere here, find him and kill him!**"
+    {
+        "chi" "纸片王应该在这里,找到并消灭它!"
+    }
+
+    "**Try to get to the roof before the reactor explodes!**"
+    {
+        "chi" "在反应炉爆炸之前到房顶上去!"
+    }
+
+    "**Unfortunately, we cannot help you in any way, you have to deal with yourselves. I'm sorry, good luck!**"
+    {
+        "chi" "我们提供不了任何帮助,你只能靠自己了.祝你好运!"
+    }
+
+    "**Wait, where is Paper King!?**"
+    {
+        "chi" "等下,纸片王在哪里?!"
+    }
+
+    "**We are very close, It'sPaper King Chopper, he should be here!"
+    {
+        "chi" "离得不远了,那是纸片王的直升机,它应该在这里!"
+    }
+
+    "**We managed to block energy access to the paper city**"
+    {
+        "chi" "我们得关掉纸片城市的能源输送"
+    }
+
+    "**We need to get to the Lego city, there is a paper factory that supplies energy to the whole room **"
+    {
+        "chi" "我们得去乐高之城,那里有一处工厂为这里提供能源"
+    }
+
+    "**Weird, do you have deja vu too?**"
+    {
+        "chi" "Emmmm,是不是感觉不太对?"
+    }
+
+    "**Well done! Now find way to get out of here, Chopper is ready to fly!**"
+    {
+        "chi" "现在信访办离开这里,飞机已经准备走了!"
+    }
+
+    "**Well done, Paper Chopper has been destroyed! Hurry, find way to the roof and wait for next instruction**"
+    {
+        "chi" "纸飞机已被摧毁,快到房顶上去,等待下一条指令"
+    }
+
+    "**Well done, Paper Factory gate will open in 20 seconds!**"
+    {
+        "chi" "纸片工厂的门20秒后打开"
+    }
+
+    "**Well done, Paper Factory gate will open in 30 seconds!**"
+    {
+        "chi" "纸片工厂的门30秒后打开"
+    }
+
+    "**Well done, we are next to main reactor control panel!**"
+    {
+        "chi" "干的不错,我们就要到反应堆控制面板了"
+    }
+
+    "**Well done, you managed to get to the planes, you just need to refuel them!**"
+    {
+        "chi" "还不错,还是到达了飞机.你只需要给它加些油!!"
+    }
+
+    "**Well, done! That teleporter may teleport us to shelf, use it!**"
+    {
+        "chi" "还不错!那架飞机应该能把我们带到上面去,搞快点!"
+    }
+
+    "**What are you doing?! Change course or we hit those two towers now!**"
+    {
+        "chi" "你在干什么?!换条路或者我们把那两座塔打倒"
+    }
+
+    "**What the... All our units were shot down by the army of the paper king !**"
+    {
+        "chi" "我靠...我方单位都被纸片王的军队击败了!!"
+    }
+
+    "**What's that? Something blew up too fast, we'd better hurry!**"
+    {
+        "chi" "什么比玩意?这玩意炸的太快了,我们最好快点!"
+    }
+
+    "**You beat the map, congratulations! Now try survive 164 seconds in Lego City!**"
+    {
+        "chi" "你完成了这张图,恭喜!现在在这里尝试生存下来,还有164秒"
+    }
+
+    "**You beat the map, congratulations! Now try survive 170 seconds in Lego City!**"
+    {
+        "chi" "你完成了这张图,恭喜!现在在这里尝试生存下来,还有170秒"
+    }
+
+    "**zombies escaped, abort the mission, I repeat, abort the mission, we lost!**"
+    {
+        "chi" "僵尸逃脱了,任务中断.重复:任务中断,我们输了"
+    }
+
+    "**Zombies takes control on roof, we are lost, mission failed, repeat mission failed!**"
+    {
+        "chi" "僵尸占领了房顶,我们输了,任务失败.重复:任务已失败"
+    }
+
+    "Special thanks Zombieden for testing!**"
+    {
+        "chi" "感谢zed对测试地图提供帮助!"
+    }
+
+    "[MapRelay]  Set falldamage to 0.1"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
