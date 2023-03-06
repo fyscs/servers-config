@@ -1,0 +1,174 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "<!> ? ? ? 10 s <!>"
+    {
+        "chi" "还有10秒"
+        "blocked" "1"
+    }
+
+    "<!> ? ? ? 60 s <!>"
+    {
+        "chi" "还有60秒"
+    }
+
+    "<!> Cutting down a fallen tree 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Cutting down a fallen tree 30 s <!>"
+    {
+        "chi" "正在清理,还有30秒"
+    }
+
+    "<!> Cutting down a fallen tree 40 s <!>"
+    {
+        "chi" "正在清理,还有40秒"
+    }
+
+    "<!> Destroy the rocks 10 s <!>"
+    {
+        "chi" "破坏石头需要10秒"
+        "blocked" "1"
+    }
+
+    "<!> Destroy the rocks 20 s <!>"
+    {
+        "chi" "破坏石头需要20秒"
+    }
+
+    "<!> Destroy the rocks 30 s <!>"
+    {
+        "chi" "破坏石头需要30秒"
+    }
+
+    "<!> GOD PUNISHMENT <!>"
+    {
+        "chi" "神怒"
+    }
+
+    "<!> Last defend and escape the world !! 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Last defend and escape the world !! 60 s <!>"
+    {
+        "chi" "最后的60秒"
+    }
+
+    "<!> Succeeded! The wire mesh will break 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Succeeded! The wire mesh will break 50 s <!>"
+    {
+        "chi" "金属网50秒后破开"
+    }
+
+    "<!> The path will be generated 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> The path will be generated 30 s <!>"
+    {
+        "chi" "路径30秒后生成"
+    }
+
+    "<!> The scaffolding starts to move 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> The scaffolding starts to move 40 s <!>"
+    {
+        "chi" "脚手架40秒后开始移动"
+    }
+
+    "<!> The space begins to distort...! 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> The space begins to distort...! 30 s <!>"
+    {
+        "chi" "空间开始扭曲...还有30秒"
+    }
+
+    "<!> The wire mesh will break 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> The wire mesh will break 30 s <!>"
+    {
+        "chi" "金属网30秒后破开"
+    }
+
+    "<!> Until the door opens 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Until the door opens 30 s <!>"
+    {
+        "chi" "门还有30秒打开"
+    }
+
+    "<!> Until the door opens 50 s <!>"
+    {
+        "chi" "门还有50秒打开"
+    }
+
+    "<!> We have violated the laws of the gods. <!>"
+    {
+        "chi" "我们已经违反了神之律"
+    }
+
+    "<!> We need another switch... <!>"
+    {
+        "chi" "我们需要另一个开关"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+    "still 20 seconds"
+    {
+        "chi" "还有20秒"
+    }
+
+    "still 30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+    "still 60 seconds"
+    {
+        "chi" "还有60秒"
+    }
+
+}
