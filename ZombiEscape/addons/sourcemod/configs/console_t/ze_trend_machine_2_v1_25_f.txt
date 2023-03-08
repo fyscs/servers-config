@@ -1,0 +1,234 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***Crepticus***"
+    {
+        "chi" "**湮灭**"
+    }
+
+    "***ze_trend_machine_2***"
+    {
+        "chi" "**ze_trend_machine_2**"
+    }
+
+    "***map by 4Echo***"
+    {
+        "chi" "**作者:4Echo 汉化:龙鸣**"
+    }
+
+    "***Thanks to Moltard and zaCade***"
+    {
+        "chi" "**贴别感谢:Moltard和zaCade**"
+    }
+
+    "***Elevator one will move in 40 seconds***"
+    {
+        "chi" "**一号电梯启动于40秒后**"
+    }
+
+    "***Invisibilis***"
+    {
+        "chi" "**光学迷彩**"
+    }
+
+    "***Aligning L Bridge***"
+    {
+        "chi" "**桥梁正在对接中**"
+    }
+
+    "***Culpasi has been picked up***"
+    {
+        "chi" "**干扰已被拾取**"
+    }
+
+    "***Alpha is fighting his last stand***"
+    {
+        "chi" "**阿尔法正在凝聚湮灭 狭路相逢勇者胜!**"
+    }
+
+    "***Alpha is finally defeated***"
+    {
+        "chi" "**阿尔法:我败了...这就是死亡的感觉么...**"
+    }
+
+    "***Vigilan has been picked up***"
+    {
+        "chi" "**至高已被拾取**"
+    }
+
+    "***Gaudius has been picked up***"
+    {
+        "chi" "**电浆已被拾取**"
+    }
+
+    "***Elatis has been picked up***"
+    {
+        "chi" "**寒霜已被拾取**"
+    }
+
+    "***Door will open in 40 seconds***"
+    {
+        "chi" "**大门将于40秒后开放**"
+    }
+
+    "***Elevator three will move in 20 seconds***"
+    {
+        "chi" "**三号电梯启动于20秒后**"
+    }
+
+    "***Run up the Superstructure***"
+    {
+        "chi" "**上层装置启动中**"
+    }
+
+    "***AFK teleport in 30 seconds***"
+    {
+        "chi" "**挂机传送将于30秒后**"
+    }
+
+    "***Alpha has started the sequence***"
+    {
+        "chi" "**红色警报!阿尔法裁决者序列批准激活!**"
+    }
+
+    "***Doors will open in 30 seconds***"
+    {
+        "chi" "**大门将于30秒后开放**"
+    }
+
+    "***Mirumus has been picked up***"
+    {
+        "chi" "**治愈已被拾取**"
+    }
+
+    "***Core Door will open in 20 seconds***"
+    {
+        "chi" "**中央核心大门将于20秒后开放**"
+    }
+
+    "***Ira has been picked up***"
+    {
+        "chi" "**业火已被拾取**"
+    }
+
+    "***Fastidan has been picked up***"
+    {
+        "chi" "**腐蚀已被拾取**"
+    }
+
+    "***Barrier**"
+    {
+        "chi" "**质能吸收**"
+    }
+
+    "***scutum**"
+    {
+        "chi" "**超质能吸收**"
+    }
+
+    "***Doors will open in 20 seconds***"
+    {
+        "chi" "**大门将于20秒后开放**"
+    }
+
+    "***Elevator two will move in 40 seconds***"
+    {
+        "chi" "**二号电梯启动于40秒后**"
+    }
+
+    "***Alpha is defeated***"
+    {
+        "chi" "**阿尔法裁决者失去行动能力**"
+    }
+
+    "***Get to the extraction helicopter***"
+    {
+        "chi" "**赶紧去撤退点 救援直升机正在等我们返航了**"
+    }
+
+    "***Luctus has been picked up***"
+    {
+        "chi" "**光矛已被拾取**"
+    }
+
+    "***Timorei has been picked up***"
+    {
+        "chi" "**裂缝已被拾取**"
+    }
+
+    "***Helicopter leaves in 26 seconds***"
+    {
+        "chi" "**直升机将于26秒后启动**"
+    }
+
+    "***Last Stand***"
+    {
+        "chi" "**背水一战**"
+    }
+
+    "***Tempestas***"
+    {
+        "chi" "**风暴之怒**"
+    }
+
+    "***AFK teleport Enabled"
+    {
+        "chi" "**挂机传送已开启**"
+    }
+
+    "***Double doors will open in 30 seconds***"
+    {
+        "chi" "**双门将于30秒后开放**"
+    }
+
+    "***AFK Tele in 20 seconds***"
+    {
+        "chi" "**挂机传送将于20秒后**"
+    }
+
+    "***Survive for 55 seconds***"
+    {
+        "chi" "**生存55秒 坚持住!**"
+    }
+
+    "***Zombies coming in 5 seconds***"
+    {
+        "chi" "**僵尸将于5秒后进攻**"
+    }
+
+    "***Exhaust Access doors will open soon***"
+    {
+        "chi" "**检修闸门即将开放**"
+    }
+
+    "***Hold until the doors are closed***"
+    {
+        "chi" "**坚守直到闸门关闭**"
+    }
+
+    "***Get into the arena and face Alpha***"
+    {
+        "chi" "**看来这就是旅途终焉了 准备迎接最终命运之战**"
+    }
+
+    "***Massive door opens in 30 seconds***"
+    {
+        "chi" "**重型闸门将于30秒后开放**"
+    }
+
+    "***AFK Tele in 10 seconds***"
+    {
+        "chi" "**挂机传送将于10秒后**"
+    }
+
+}
