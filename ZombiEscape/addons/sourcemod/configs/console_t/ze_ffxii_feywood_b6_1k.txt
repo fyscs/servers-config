@@ -649,6 +649,7 @@
     "**WE HAVE A EPIC SOLO WINNER!!!**"
     {
         "chi" "__null__"
+        "blocked" "1"
     }
 
     "**WE HAVE A SOLO WINNER**"
@@ -823,24 +824,19 @@
         "chi" "僵尸获得秒杀(Lv.3)"
     }
 
-    "igger cmd:Command:say **GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**:25.00:1"
+    "**GET TO THE OTHER SIDE OF THE BRIDGE AND DEFEND 30 SECONDS**"
     {
-        "chi" "__null__"
+        "chi" "到桥的另一边,防守30秒"
     }
 
-    "igger Cmd:Command:say **THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**:5.00:1"
+    "**THE GATES WILL OPEN IN 15 SECONDS**STAY DEFEND!!**"
     {
-        "chi" "__null__"
+        "chi" "大门将在15秒后打开,保持防守!"
     }
 
-    "igger cmd:Command:say **THE LAST GATES WILL OPEN IN 20 SECONDS**:0.00:1"
+    "**THE LAST GATES WILL OPEN IN 20 SECONDS**"
     {
-        "chi" "__null__"
-    }
-
-    "igger cmd:Command:say **THE TOMB GATES WILL OPEN IN 20 SECONDS**:0.00:1"
-    {
-        "chi" "__null__"
+        "chi" "最后一道闸门将在20秒内打开"
     }
 
 }
