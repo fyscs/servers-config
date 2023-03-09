@@ -256,14 +256,14 @@
         "chi" "模式: ZM"
     }
 
-    "igger cmd:Command:say **Both ways will open in 25 seconds**:0:1"
+    "**Both ways will open in 25 seconds**"
     {
-        "chi" "__null__"
+        "chi" "两条路25秒后都会打开"
     }
 
-    "igger cmd:Command:say **Someone is trying to interfere us**:1.1:1"
+    "**Someone is trying to interfere us**"
     {
-        "chi" "__null__"
+        "chi" "有人想干扰我们"
     }
 
 }
