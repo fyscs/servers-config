@@ -1,0 +1,189 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** Adramelech is summoning the Sandmoster**"
+    {
+        "chi" "亚德拉梅利克正在召唤沙漠亡灵"
+    }
+
+    "** Both switches have been pulled down **"
+    {
+        "chi" "两个开关都已拉下"
+    }
+
+    "** Clouds **"
+    {
+        "chi" "迷雾"
+    }
+
+    "** Devour Soul**"
+    {
+        "chi" "吞噬魂魄"
+    }
+
+    "** Double Damage **"
+    {
+        "chi" "双重伤害"
+    }
+
+    "** Flash Freeze **"
+    {
+        "chi" "急速冻结"
+    }
+
+    "** Gravity **"
+    {
+        "chi" "重力"
+    }
+
+    "** Ice **"
+    {
+        "chi" "冰"
+    }
+
+    "** KILL REMAINING ZOMBIES **"
+    {
+        "chi" "杀死剩余的僵尸"
+    }
+
+    "** Map By Runa **"
+    {
+        "chi" "地图作者:Runa"
+    }
+
+    "** Soul Purge**"
+    {
+        "chi" "灵魂净化"
+    }
+
+    "** The elevator is warming up **"
+    {
+        "chi" "电梯准备启动了"
+    }
+
+    "** The elevator still has 5s to rise **"
+    {
+        "chi" "电梯还有5秒上升"
+    }
+
+    "** The power is on, and the door will open soon **"
+    {
+        "chi" "电源接通了,门很快就会打开"
+    }
+
+    "** too late **"
+    {
+        "chi" "太迟了"
+    }
+
+    "** We need to pull down two switches to start the elevator**"
+    {
+        "chi" "我们需要拉下两个开关才能启动电梯"
+    }
+
+    "**10 seconds remaining**"
+    {
+        "chi" "还剩10秒"
+    }
+
+    "**20 seconds remaining**"
+    {
+        "chi" "还剩20秒"
+    }
+
+    "**30 seconds remaining**"
+    {
+        "chi" "还剩30秒"
+    }
+
+    "**60 seconds remaining**"
+    {
+        "chi" "还剩10秒"
+    }
+
+    "**Defend 10s**"
+    {
+        "chi" "防守10秒"
+    }
+
+    "**Defend 15s**"
+    {
+        "chi" "防守15秒"
+    }
+
+    "**Defend 20s**"
+    {
+        "chi" "防守20秒"
+    }
+
+    "**Defend 25s**"
+    {
+        "chi" "防守25秒"
+    }
+
+    "**Defend 30s**"
+    {
+        "chi" "防守30秒"
+    }
+
+    "**Easy**"
+    {
+        "chi" "难度:简单"
+    }
+
+    "**Flash Arc**"
+    {
+        "chi" "闪光弧"
+    }
+
+    "**Hard**"
+    {
+        "chi" "难度:困难"
+    }
+
+    "**Heal**"
+    {
+        "chi" "治愈"
+    }
+
+    "**Judgment Bolt**"
+    {
+        "chi" "审判雷霆"
+    }
+
+    "**Normal**"
+    {
+        "chi" "难度:普通"
+    }
+
+    "**Quicksandl**"
+    {
+        "chi" "急速飞沙"
+    }
+
+    "**Thundara**"
+    {
+        "chi" "电圈"
+    }
+
+    "**Warm Round**"
+    {
+        "chi" "热身回合"
+    }
+
+    "> The Esper Adrammelech  fight in 10 seconds <"
+    {
+        "chi" "> 10s后与Adrammelech战斗开始 <"
+    }
+
+}
