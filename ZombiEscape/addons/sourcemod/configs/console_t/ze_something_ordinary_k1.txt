@@ -1,0 +1,307 @@
+﻿"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "## AFK TELEPORT ACTIVATED ##"
+    {
+        "chi" "AFK传送已启动"
+    }
+
+    "## AFK TELEPORT ACTIVATED IN 15 SECONDS ##"
+    {
+        "chi" "挂机传送15秒后启动"
+    }
+
+    "## AFK TELEPORT ACTIVATED IN 5 SECONDS ##"
+    {
+        "chi" "挂机传送5秒后启动"
+    }
+
+    "## AFK TELEPORT ACTIVATED! ##"
+    {
+        "chi" "挂机传送已激活!"
+    }
+
+    "## DEFEND THIS PLACE 15 SECONDS ##"
+    {
+        "chi" "守住这里!还有15秒"
+        "blocked" "1"
+    }
+
+    "## DEFEND THIS PLACE 30 SECONDS ##"
+    {
+        "chi" "守住这里!还有30秒"
+        "blocked" "1"
+    }
+
+    "## DEFEND THIS PLACE 50 SECONDS ##"
+    {
+        "chi" "守住这里!还有50秒"
+    }
+
+    "## DOOR OPEN! RUN! ##"
+    {
+        "chi" "门开了!快跑!"
+    }
+
+    "## DOOR OPENS 10 SECONDS ##"
+    {
+        "chi" "门还有10秒开启"
+        "blocked" "1"
+    }
+
+    "## DOOR OPENS 20 SECONDS ##"
+    {
+        "chi" "门还有20秒开启"
+    }
+
+    "## DOOR OPENS IN 10 SECONDS ##"
+    {
+        "chi" "门10秒后开启"
+        "blocked" "1"
+    }
+
+    "## DOOR OPENS IN 15 SECONDS ##"
+    {
+        "chi" "门15秒后开启"
+        "blocked" "1"
+    }
+
+    "## DOOR OPENS IN 20 SECONDS ##"
+    {
+        "chi" "门20秒后开启"
+    }
+
+    "## DOOR OPENS IN 25 SECONDS ##"
+    {
+        "chi" "门25秒后开启"
+    }
+
+    "## DOOR OPENS IN 30 SECONDS ##"
+    {
+        "chi" "门30秒后开启"
+    }
+
+    "## DOOR OPENS IN 30 SECONDS! DEFEND! ##"
+    {
+        "chi" "门30秒后开启!守住!"
+    }
+
+    "## DOOR OPENS IN 35 SECONDS ##"
+    {
+        "chi" "门35秒后开启"
+    }
+
+    "## DOOR OPENS IN 40 SECONDS ##"
+    {
+        "chi" "门40秒后开启"
+    }
+
+    "## DOOR OPENS IN 5 SECONDS ##"
+    {
+        "chi" "门5秒后开启"
+        "blocked" "1"
+    }
+
+    "## DOOR OPENS! RUN! ##"
+    {
+        "chi" "门开了!快跑!"
+    }
+
+    "## DOORS OPEN! ##"
+    {
+        "chi" "门开了"
+    }
+
+    "## ELEVATOR LEAVE! ##"
+    {
+        "chi" "电梯已离开!"
+    }
+
+    "## ELEVATOR LEAVING ##"
+    {
+        "chi" "电梯正在离开"
+    }
+
+    "## ELEVATOR LEAVING IN 10 SECONDS ##"
+    {
+        "chi" "电梯10秒后离开"
+    }
+
+    "## ELEVATOR LEAVING IN 20 SECONDS ##"
+    {
+        "chi" "电梯20秒后离开"
+    }
+
+    "## ELEVATOR LEAVING IN 30 SECONDS ##"
+    {
+        "chi" "电梯30秒后离开"
+        "blocked" "1"
+    }
+
+    "## ELEVATOR LEAVING IN 40 SECONDS ##"
+    {
+        "chi" "电梯40秒后离开"
+    }
+
+    "## ELEVATOR LEAVING IN 5 SECONDS ##"
+    {
+        "chi" "电梯5秒后离开"
+        "blocked" "1"
+    }
+
+    "## HOLD HERE 10 SECONDS ##"
+    {
+        "chi" "守住!还有10秒"
+        "blocked" "1"
+    }
+
+    "## HOLD HERE 20 SECONDS ##"
+    {
+        "chi" "守住!还有20秒"
+    }
+
+    "## HOLD HERE 5 SECONDS ##"
+    {
+        "chi" "守住!还有5秒"
+        "blocked" "1"
+    }
+
+    "## HOLD HERE IN 30 SECONDS ##"
+    {
+        "chi" "守住!还剩30秒"
+    }
+
+    "## HOLD HERE IN 5 SECONDS ##"
+    {
+        "chi" "守住!还剩5秒"
+        "blocked" "1"
+    }
+
+    "## KILLED ALL ZOMBIES! ##"
+    {
+        "chi" "清理剩余的僵尸!"
+    }
+
+    "## MAP CREATED BY SILEX ##"
+    {
+        "chi" "地图作者:SILEX 移植:Itskoenlul"
+    }
+
+    "## PREPARED! ##"
+    {
+        "chi" "准备!"
+    }
+
+    "## RUN RUN RUN!!! ##"
+    {
+        "chi" "润!润!润!"
+    }
+
+    "## RUN! ##"
+    {
+        "chi" "走了走了!"
+    }
+
+    "## STAGE 1 COMPLETED ##"
+    {
+        "chi" "第一关已完成"
+    }
+
+    "## STAGE 1/3 - EASY ##"
+    {
+        "chi" "第一关:简单"
+    }
+
+    "## STAGE 2 COMPLETED ##"
+    {
+        "chi" "第二关已完成"
+    }
+
+    "## STAGE 2/3 - HARD ##"
+    {
+        "chi" "第二关:困难"
+    }
+
+    "## STAGE 3/3 - END ##"
+    {
+        "chi" "第三关:终结"
+    }
+
+    "## TELEPORT CLOSED IN 20 SECONDS! ##"
+    {
+        "chi" "传送20秒后关闭!"
+        "blocked" "1"
+    }
+
+    "## TELEPORT CLOSED IN 25 SECONDS! ##"
+    {
+        "chi" "传送25秒后关闭!"
+    }
+
+    "## TELEPORT CLOSED IN 5 SECONDS! ##"
+    {
+        "chi" "传送5秒后关闭!"
+        "blocked" "1"
+    }
+
+    "## TELEPORT CLOSED!!! ##"
+    {
+        "chi" "传送已关闭!!"
+    }
+
+    "## TELEPORT HUMANS AFTER 10 SECONDS ##"
+    {
+        "chi" "10秒后传送人类"
+    }
+
+    "## TELEPORT ZOMBIES AFTER 10 SECONDS! ##"
+    {
+        "chi" "10秒后传送僵尸"
+    }
+
+    "## WALL PICKED UP ##"
+    {
+        "chi" "墙已被拾起"
+    }
+
+    "## ZOMBIE TELEPORT ACTIVATED IN 10 SECONDS ##"
+    {
+        "chi" "僵尸10秒后传送"
+    }
+
+    "## ZOMBIE TELEPORT ACTIVATED IN 5 SECONDS ##"
+    {
+        "chi" "僵尸5秒后传送"
+    }
+
+    "## ZOMBIE TELEPORT ACTIVATED! ##"
+    {
+        "chi" "僵尸传送已启动"
+    }
+
+    "## ZOMBIE TELEPORT AFTER 10 SECONDS ##"
+    {
+        "chi" "僵尸于10秒后传送"
+    }
+
+    "## ZOMBIES TELEPORT AFTER 15 SECONDS ##"
+    {
+        "chi" "僵尸于15秒后传送"
+    }
+
+    "[MapRelay]  Set falldamage to 0.4"
+    {
+        "chi" "地图设置:已设置摔伤"
+    }
+
+}

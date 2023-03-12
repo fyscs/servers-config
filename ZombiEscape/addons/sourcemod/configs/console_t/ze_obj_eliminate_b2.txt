@@ -1,0 +1,149 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "Damn, it can only be cracked by force. Give me 40 seconds"
+    {
+        "chi" "给我40秒,只能来硬的了"
+    }
+
+    "Find the switch here and turn it off before we can move on"
+    {
+        "chi" "找个开关把它关掉,我们才能继续走"
+    }
+
+    "ID error, unable to open the door"
+    {
+        "chi" "识别错误,无法打开门"
+    }
+
+    "Remember to collect the information we need here"
+    {
+        "chi" "注意收集所需信息"
+    }
+
+    "Some facilities in the area have been unlocked and wait for 40 seconds"
+    {
+        "chi" "区域内部分设施已解锁,等待40秒"
+    }
+
+    "The key is not recognized and is switching to the evacuation route"
+    {
+        "chi" "密匙并未识别,正在切换至撤离路线"
+    }
+
+    "The power has been fully turned on and wait for 90 seconds"
+    {
+        "chi" "电源已开启,等待90秒"
+    }
+
+    "The rescue information has been sent to the headquarters and waiting for 120 seconds"
+    {
+        "chi" "救援信息已发送至上级,等待120秒"
+    }
+
+    "There is no way to go here"
+    {
+        "chi" "这里已经是死路了"
+    }
+
+    "Wait 30 seconds"
+    {
+        "chi" "等待30秒"
+    }
+
+    "Wait 30 seconds to open the door"
+    {
+        "chi" "门还有30秒打开"
+    }
+
+    "Wait 40 seconds for the current to turn off"
+    {
+        "chi" "电源关闭需要40秒"
+    }
+
+    "Wait 40 seconds to break the door"
+    {
+        "chi" "破门需要40秒"
+    }
+
+    "Wait 40 seconds to open the door"
+    {
+        "chi" "开门需要40秒"
+    }
+
+    "Wait 60 seconds"
+    {
+        "chi" "需要等待60秒"
+    }
+
+    "Wait for 20 seconds to turn on"
+    {
+        "chi" "开启需要20秒"
+    }
+
+    "Wait for 30 to break"
+    {
+        "chi" "还有30秒破开"
+    }
+
+    "Wait for c4 explosion defense for 50 seconds"
+    {
+        "chi" "炸药还有50秒爆炸"
+    }
+
+    "Waiting for 40 seconds for brute force to crack the switch"
+    {
+        "chi" "需要40秒来破坏掉开关"
+    }
+
+    "Waiting for 40 seconds to crack the door"
+    {
+        "chi" "破解门需要40秒"
+    }
+
+    "We can move forward only after removing these roadblocks"
+    {
+        "chi" "我们得把路障清理掉之后才能继续前进"
+    }
+
+    "We need to wait for 50 seconds before the current disappears"
+    {
+        "chi" "电流还有50秒消失"
+    }
+
+    "You can only turn on the power, but it will attract nearby infected bodies"
+    {
+        "chi" "看来只能启动电源了,但是会招来附近的僵尸"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+    "still 20 seconds"
+    {
+        "chi" "还有20秒"
+    }
+
+    "still 30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+    "still 60 seconds"
+    {
+        "chi" "还有60秒"
+    }
+
+}

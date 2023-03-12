@@ -1,0 +1,115 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "~ 8 ~"
+    {
+        "chi" "......"
+    }
+
+    "~ Afk tele enable in 10s ~"
+    {
+        "chi" "挂机传送还有10秒"
+    }
+
+    "~ Bottom door is now open ~"
+    {
+        "chi" "底层的门打开了..."
+    }
+
+    "~ Bottom door open in 25s ~"
+    {
+        "chi" "底层的门25秒后开启"
+    }
+
+    "~ Bottom portal is now open ~"
+    {
+        "chi" "底层的传送已开启..."
+    }
+
+    "~ Bottom portal open in 20s ~"
+    {
+        "chi" "底层传送20秒后开启"
+    }
+
+    "~ Door is now open ~"
+    {
+        "chi" "门打开了"
+    }
+
+    "~ Door will open in 15s ~"
+    {
+        "chi" "门15秒后打开"
+    }
+
+    "~ Door will open in 25s ~"
+    {
+        "chi" "门25秒后打开"
+    }
+
+    "~ Last afk tele enable in 5s ~"
+    {
+        "chi" "最后的挂机传送5秒后启动"
+    }
+
+    "~ Last portal is now open ~"
+    {
+        "chi" "最后的传送已启动"
+    }
+
+    "~ Last portal open in 15s ~"
+    {
+        "chi" "最后的传送15秒后启动"
+    }
+
+    "~ Portal will close in 10s ~"
+    {
+        "chi" "传送10秒后关闭"
+        "blocked" "1"
+    }
+
+    "~ Portal will close in 30s ~"
+    {
+        "chi" "传送30秒后关闭"
+    }
+
+    "~ Upper door is now open ~"
+    {
+        "chi" "上层的门打开了"
+    }
+
+    "~ Upper door open in 25s ~"
+    {
+        "chi" "上层的门25秒后打开"
+    }
+
+    "~ Upper door open in 30s ~"
+    {
+        "chi" "上层的门30秒后打开"
+    }
+
+    "~ Upper portal is now open ~"
+    {
+        "chi" "上层的传送已开启"
+    }
+
+    "~ Upper portal open in 20s ~"
+    {
+        "chi" "上层传送20秒后开启"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}

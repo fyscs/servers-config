@@ -1,0 +1,99 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "[Another door for zombies was opened]"
+    {
+        "chi" "另一条路打开了..."
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+    "still 10 seconds"
+    {
+        "chi" "还有10秒"
+    }
+
+    "still 40 seconds"
+    {
+        "chi" "还有40秒"
+    }
+
+    "still 20 seconds"
+    {
+        "chi" "还有20秒"
+    }
+
+    "still 25 seconds"
+    {
+        "chi" "还有25秒"
+    }
+
+    "still 7 seconds"
+    {
+        "chi" "还有7秒"
+    }
+
+    "still 30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+    "still 90 seconds"
+    {
+        "chi" "还有90秒"
+    }
+
+    "still 15 seconds"
+    {
+        "chi" "还有15秒"
+    }
+
+    "still 50 seconds"
+    {
+        "chi" "还有50秒"
+    }
+
+    "still 60 seconds"
+    {
+        "chi" "还有60秒"
+    }
+
+    "still 45 seconds"
+    {
+        "chi" "还有45秒"
+    }
+
+    "still 3 mins"
+    {
+        "chi" "还有三分钟"
+    }
+
+    "still 60 seconds for"
+    {
+        "chi" "增援还有60秒到达"
+    }
+
+    "lift still 10 seconds"
+    {
+        "chi" "电梯还有10秒离开"
+    }
+
+    "press the valve to move"
+    {
+        "chi" "按下阀门继续前进"
+    }
+
+}

@@ -1,0 +1,834 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "..."
+    {
+        "chi" "Hmmmmmmm..."
+    }
+
+    "1 minute left"
+    {
+        "chi" "还有一分钟"
+    }
+
+    "1..."
+    {
+        "chi" "还有1秒"
+        "blocked" "1"
+    }
+
+    "10 seconds left"
+    {
+        "chi" "还有10秒"
+        "blocked" "1"
+    }
+
+    "2..."
+    {
+        "chi" "还有2秒"
+        "blocked" "1"
+    }
+
+    "30 seconds left"
+    {
+        "chi" "还有30秒"
+    }
+
+    "5 seconds left"
+    {
+        "chi" "还有5秒"
+    }
+
+    "A car! We could make some use of it if it works..."
+    {
+        "chi" "一辆小车,如果好着的话还能有点用"
+    }
+
+    "A fuel can has been found!"
+    {
+        "chi" "已找到一个燃料罐"
+    }
+
+    "A way has opened!"
+    {
+        "chi" "一条路打开了"
+    }
+
+    "A way to leave this place should be close"
+    {
+        "chi" "离开这里的一条路应该已经关闭了"
+    }
+
+    "ADMINROOM - RESTARTING ROUND"
+    {
+        "chi" "管理员正在重启回合"
+    }
+
+    "ADMINROOM - STAGE 1 SET"
+    {
+        "chi" "管理员已设置第一关"
+    }
+
+    "ADMINROOM - STAGE 2 SET"
+    {
+        "chi" "管理员已设置第二关"
+    }
+
+    "ADMINROOM - STAGE 3 SET"
+    {
+        "chi" "管理员已设置第三关"
+    }
+
+    "ADMINROOM - STAGE 4 SET"
+    {
+        "chi" "管理员已设置第四关"
+    }
+
+    "ADMINROOM - STAGE 5 SET"
+    {
+        "chi" "管理员已设置第五关"
+    }
+
+    "ADMINROOM - STAGE 6 SET"
+    {
+        "chi" "管理员已设置第六关"
+    }
+
+    "Almost there!"
+    {
+        "chi" "就快到了"
+    }
+
+    "Both buttons pressed"
+    {
+        "chi" "两个按钮都被按下"
+    }
+
+    "Both doors will open in 15 seconds"
+    {
+        "chi" "两边的门15秒后开启"
+    }
+
+    "Boxes will move again in 10 seconds"
+    {
+        "chi" "盒子10秒后又要动起来了"
+    }
+
+    "Boxes will move again in 15 seconds"
+    {
+        "chi" "盒子15秒后又要动起来了"
+    }
+
+    "Bridge is extending in 15 seconds!"
+    {
+        "chi" "桥15秒后延伸"
+    }
+
+    "Bring it back to the car!"
+    {
+        "chi" "把它带回车那里去"
+    }
+
+    "Button pressed"
+    {
+        "chi" "按钮已被按下"
+    }
+
+    "Buttons pressed"
+    {
+        "chi" "按钮已按下"
+    }
+
+    "Defend for 15 seconds"
+    {
+        "chi" "守住15秒"
+    }
+
+    "Defend for 20 seconds"
+    {
+        "chi" "守住20秒"
+    }
+
+    "Defend until something happens!"
+    {
+        "chi" "守住!好像有什么!"
+    }
+
+    "Defend until the door opens"
+    {
+        "chi" "守住!门就要开了"
+    }
+
+    "Defend until we break the grates!"
+    {
+        "chi" "守住!正在打开门"
+    }
+
+    "Defend until we get the car moving again!"
+    {
+        "chi" "守住!让车恢复移动需要时间"
+    }
+
+    "Defend until we get the door open!"
+    {
+        "chi" "守住!打开门需要时间!"
+    }
+
+    "Door opens in 10 seconds"
+    {
+        "chi" "门10秒后打开"
+    }
+
+    "Door opens in 10 seconds!"
+    {
+        "chi" "门10秒后打开!"
+    }
+
+    "Door opens in 15 seconds"
+    {
+        "chi" "门15秒后打开"
+    }
+
+    "Door opens in 20 seconds"
+    {
+        "chi" "门20秒后开启"
+    }
+
+    "Door opens in 5 seconds"
+    {
+        "chi" "门5秒后打开"
+        "blocked" "1"
+    }
+
+    "Door will open in 10 seconds"
+    {
+        "chi" "门10秒后打开"
+    }
+
+    "Doors are opening"
+    {
+        "chi" "门正在打开"
+    }
+
+    "Double doors open in 20 seconds"
+    {
+        "chi" "双门20秒后开启"
+    }
+
+    "Double doors open in 5 seconds"
+    {
+        "chi" "双门5秒后开启"
+        "blocked" "1"
+    }
+
+    "Elevator is leaving in 20 seconds"
+    {
+        "chi" "电梯20秒后离开"
+    }
+
+    "Elevator is leaving in 5 seconds! Get in!"
+    {
+        "chi" "电梯5秒后离开,快上来!"
+        "blocked" "1"
+    }
+
+    "Elevator leaves in 20 seconds"
+    {
+        "chi" "电梯20秒后离开"
+    }
+
+    "Elevator leaves in 5 seconds"
+    {
+        "chi" "电梯5秒后离开"
+        "blocked" "1"
+    }
+
+    "Fall back!"
+    {
+        "chi" "撤退"
+    }
+
+    "Fan has been turned off"
+    {
+        "chi" "风扇已经被关闭了"
+    }
+
+    "Find a way to break it!"
+    {
+        "chi" "想办法破坏掉它"
+    }
+
+    "Find a way to reach it!"
+    {
+        "chi" "想办法到那去"
+    }
+
+    "Find a way to the other side to push the bricks"
+    {
+        "chi" "想办法到另一边去推动砖块"
+    }
+
+    "Gate opens in 10 seconds"
+    {
+        "chi" "大门10秒后开启"
+    }
+
+    "Gate opens in 20 seconds"
+    {
+        "chi" "大门20秒后开启"
+    }
+
+    "Gate opens in 20 seconds! Resist!"
+    {
+        "chi" "大门20秒后开启,保持防守!"
+    }
+
+    "Gate opens in 25 seconds"
+    {
+        "chi" "大门25秒后开启门"
+    }
+
+    "Gate opens in 5 seconds"
+    {
+        "chi" "大门5秒后开启"
+        "blocked" "1"
+    }
+
+    "Get back!"
+    {
+        "chi" "快退后!"
+    }
+
+    "Get in! Grate is closing in 5 seconds!"
+    {
+        "chi" "快进来!门5秒后就关闭了"
+    }
+
+    "Get ready to jump!"
+    {
+        "chi" "准备跳!"
+    }
+
+    "Good job!"
+    {
+        "chi" "干的好!"
+    }
+
+    "Grate is breaking soon! Keep holding!"
+    {
+        "chi" "门就要破开了,保持防守"
+    }
+
+    "Grate is opening up soon"
+    {
+        "chi" "门就要开了"
+    }
+
+    "Hold just a bit more!"
+    {
+        "chi" "再多守一会"
+    }
+
+    "Hold until something happens!"
+    {
+        "chi" "守住!有什么就要发生了"
+    }
+
+    "Hold until the grate opens"
+    {
+        "chi" "守住!就要开了"
+    }
+
+    "Hold until we break the grate"
+    {
+        "chi" "守住!破坏这玩意要点时间"
+    }
+
+    "Hold until we figure something out"
+    {
+        "chi" "守住!我们得想想办法"
+    }
+
+    "Hold until we get the gate open!"
+    {
+        "chi" "守住!门马上就开了"
+    }
+
+    "It seems to be empty"
+    {
+        "chi" "看起来是空的"
+    }
+
+    "JUMP!"
+    {
+        "chi" "快跳!"
+    }
+
+    "Kill any remaining zombie!"
+    {
+        "chi" "清理掉剩余的僵尸!"
+    }
+
+    "Kill any remaining zombies!"
+    {
+        "chi" "清理剩余的僵尸"
+    }
+
+    "Last door is closing!"
+    {
+        "chi" "最后的门正在关闭"
+    }
+
+    "Last door is opening soon"
+    {
+        "chi" "最后的门即将开启"
+    }
+
+    "Last door should close in a few seconds!"
+    {
+        "chi" "最后的门应该马上就关闭了"
+    }
+
+    "Lever found"
+    {
+        "chi" "已找到开关"
+    }
+
+    "Lower door opens in 10 seconds"
+    {
+        "chi" "底层的门10秒后开始"
+    }
+
+    "Map is starting"
+    {
+        "chi" "正在开始"
+    }
+
+    "Map starts in 20 seconds"
+    {
+        "chi" "冒险将在20秒后开始"
+        "blocked" "1"
+    }
+
+    "Map starts in 50 seconds"
+    {
+        "chi" "冒险将在50秒后开始"
+    }
+
+    "Maybe a key could open it"
+    {
+        "chi" "应该需要钥匙来开"
+    }
+
+    "None of the side doors seem to open"
+    {
+        "chi" "看起来门都打不开"
+    }
+
+    "Platform called"
+    {
+        "chi" "已呼叫平台"
+    }
+
+    "Platform extending in 10 seconds"
+    {
+        "chi" "平台还有10秒开始延伸"
+    }
+
+    "Platform is extending in 10 seconds"
+    {
+        "chi" "平台10秒后开始延伸"
+    }
+
+    "Platform is extending soon"
+    {
+        "chi" "平台一会之后开始延伸"
+    }
+
+    "Platform is here, get on it!"
+    {
+        "chi" "平台到了,快上去"
+    }
+
+    "Platform is lowering in 15 seconds"
+    {
+        "chi" "平台15秒后下降"
+    }
+
+    "Prepare to fall back in 3..."
+    {
+        "chi" "准备撤退!,还有3秒"
+    }
+
+    "Resist until the door opens!"
+    {
+        "chi" "在门开之前保持防守!"
+    }
+
+    "Resist until we find another way!"
+    {
+        "chi" "在我们找到其他的路之前保持防守"
+    }
+
+    "Search the boxes for a fuel canister"
+    {
+        "chi" "搜寻这些东西找找燃料罐"
+    }
+
+    "Security system has been alerted"
+    {
+        "chi" "安全系统已发出警报"
+    }
+
+    "Stage 1 - Awakening"
+    {
+        "chi" "第一关:Awakening"
+    }
+
+    "STAGE 1 COMPLETE"
+    {
+        "chi" "第一关已完成"
+    }
+
+    "Stage 2 - Inner Facility"
+    {
+        "chi" "第二关:Inner Facility"
+    }
+
+    "STAGE 2 COMPLETE"
+    {
+        "chi" "第二关已完成"
+    }
+
+    "Stage 3 - Iron Fortress"
+    {
+        "chi" "第三关:Iron Fortress"
+    }
+
+    "STAGE 3 COMPLETE"
+    {
+        "chi" "第三关已完成"
+    }
+
+    "Stage 4 - Forgotten City"
+    {
+        "chi" "第四关:Forgotten City"
+    }
+
+    "STAGE 4 COMPLETE"
+    {
+        "chi" "第四关已完成"
+    }
+
+    "Stage 5 - Soul Forge"
+    {
+        "chi" "第五关:Soul Forge"
+    }
+
+    "Stage 6 - Destiny"
+    {
+        "chi" "第六关:Destiny"
+    }
+
+    "STAGE FAILED"
+    {
+        "chi" "关卡失败"
+    }
+
+    "STAGE FAILED - OUT OF TIME"
+    {
+        "chi" "关卡失败:时间耗尽"
+    }
+
+    "Temple door opens in 25 seconds"
+    {
+        "chi" "门25秒后打开"
+    }
+
+    "Temple door opens in 5 seconds"
+    {
+        "chi" "门5秒后打开"
+        "blocked" "1"
+    }
+
+    "THANK YOU FOR PLAYING!!"
+    {
+        "chi" "感谢各位的游玩"
+    }
+
+    "The ancient city"
+    {
+        "chi" "> 古城 <"
+    }
+
+    "The big pipe might lead to a way out"
+    {
+        "chi" "管道可能会通向出去的路"
+    }
+
+    "The boxes have stopped"
+    {
+        "chi" "盒子停下了"
+    }
+
+    "The brick has been pushed"
+    {
+        "chi" "砖块已经被推动"
+    }
+
+    "The button has been pressed, something should arrive soon"
+    {
+        "chi" "按钮已经按下,一会应该就有定西过来了"
+    }
+
+    "The car has enough fuel for a little more!"
+    {
+        "chi" "小车有足够的燃料能再坚持一会!"
+    }
+
+    "The car has ran out of fuel..."
+    {
+        "chi" "小车把燃料消耗完了..."
+    }
+
+    "The curse of slow is now stronger"
+    {
+        "chi" "减速的诅咒更强大了"
+    }
+
+    "The curse of the fog is now stronger"
+    {
+        "chi" "迷雾的诅咒更强大了"
+    }
+
+    "The curse of time is now stronger"
+    {
+        "chi" "时间的诅咒更强大了"
+    }
+
+    "The curses have been broken"
+    {
+        "chi" "诅咒已被破坏"
+    }
+
+    "The door has opened"
+    {
+        "chi" "门已经开了"
+    }
+
+    "The door has opened!"
+    {
+        "chi" "门开启了"
+    }
+
+    "The door is about to open!"
+    {
+        "chi" "门马上就开了"
+    }
+
+    "The floor has collapsed, we have to find another way out"
+    {
+        "chi" "地板已经塌了,我们得想办法出去"
+    }
+
+    "The gate appears to be stuck"
+    {
+        "chi" "门看起来卡住了"
+    }
+
+    "The gate has opened!"
+    {
+        "chi" "门开了"
+    }
+
+    "The gate is about to open!"
+    {
+        "chi" "门马上就开启了!"
+    }
+
+    "The gate should open soon! Keep holding!"
+    {
+        "chi" "大门马上就开了,保持防守!"
+    }
+
+    "The only way to pass seems to be the grate"
+    {
+        "chi" "看起来只有一个方法了"
+    }
+
+    "The rails are broken! JUMP!!"
+    {
+        "chi" "铁路被破坏了!快跳!!"
+    }
+
+    "The water level seems high enough to reach the big pipe"
+    {
+        "chi" "水平面看起来=够高了,能摸到管道了"
+    }
+
+    "There are boxes incoming again!"
+    {
+        "chi" "又有盒子过来了"
+    }
+
+    "There are boxes incoming, we should get on them!"
+    {
+        "chi" "有些盒子过来了,我们得上去!"
+    }
+
+    "There is a platform incoming!"
+    {
+        "chi" "有一处平台过来了"
+    }
+
+    "There seems to be nowhere to go"
+    {
+        "chi" "看起来没地方走了"
+    }
+
+    "This door doesnt seem to open"
+    {
+        "chi" "这门看起来不会开"
+    }
+
+    "This door should lead to a way out"
+    {
+        "chi" "这扇门应该有个通向外面的路"
+    }
+
+    "This is our last hold. Resist!"
+    {
+        "chi" "这是最后的守点,坚持住!"
+    }
+
+    "This place seems to have traps as well"
+    {
+        "chi" "这地方看起来也有陷阱"
+    }
+
+    "Upper door opens in 10 seconds"
+    {
+        "chi" "上面的门10秒后开启"
+    }
+
+    "Use the car to break the grates!"
+    {
+        "chi" "用这个把它击碎"
+    }
+
+    "Use the car to get the bridge down!"
+    {
+        "chi" "用这个车把桥降下来"
+    }
+
+    "Warmup round"
+    {
+        "chi" "热身回合"
+    }
+
+    "Watch out for barriers up ahead!"
+    {
+        "chi" "小心头上的那些障碍"
+    }
+
+    "Water levels rising in 5 seconds"
+    {
+        "chi" "水平面5秒后上升"
+    }
+
+    "Water levels should be lowering soon"
+    {
+        "chi" "水平面下降还要一会"
+    }
+
+    "Water levels should be rising soon"
+    {
+        "chi" "水平面上升还要一会"
+    }
+
+    "Water will rise again in about 20 seconds"
+    {
+        "chi" "水平面20秒后上升"
+    }
+
+    "We can not pass through the barrier! We should get down!"
+    {
+        "chi" "我们过不去!得往下走"
+    }
+
+    "We cannot get to the bridge"
+    {
+        "chi" "我们没办法到桥那里去"
+    }
+
+    "We cannot pass further"
+    {
+        "chi" "我们走不了更远了"
+    }
+
+    "We cannot pass here"
+    {
+        "chi" "我们这里过不去"
+    }
+
+    "We have to find a way to lower the water level and turn the fan off"
+    {
+        "chi" "我们得想办法降低水平面,然后把风扇关掉"
+    }
+
+    "We have to find a way to make the water levels rise"
+    {
+        "chi" "我们得想个办法让水面升起来"
+    }
+
+    "We have to get back there"
+    {
+        "chi" "我们得退到那里去"
+    }
+
+    "We have to press both buttons to progress"
+    {
+        "chi" "得按下两个按钮才能继续"
+    }
+
+    "We have to split up here"
+    {
+        "chi" "我们得在这里分开了"
+    }
+
+    "We only have about 4 minutes left to leave this place"
+    {
+        "chi" "我们只有大概四分钟离开这里"
+    }
+
+    "We only have about 5 minutes left to leave this place"
+    {
+        "chi" "我们只有大概五分钟离开这里"
+    }
+
+    "We should be more careful"
+    {
+        "chi" "我们得更小心一点"
+    }
+
+    "We will have to find another way through the main sewer system"
+    {
+        "chi" "我们得找另一条路穿过主管道系统"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}

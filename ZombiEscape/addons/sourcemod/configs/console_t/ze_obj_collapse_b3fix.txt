@@ -1,0 +1,139 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "Damn it, it takes more time to crack this door with secondary encryption"
+    {
+        "chi" "靠,还得一会,还要破解第二层加密"
+    }
+
+    "Defend for 25 seconds"
+    {
+        "chi" "还有25秒"
+    }
+
+    "Defend for 30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+    "Defend for 35 seconds"
+    {
+        "chi" "还有35秒"
+    }
+
+    "Defend for 40 seconds"
+    {
+        "chi" "还有40秒"
+    }
+
+    "Defend for 60 seconds"
+    {
+        "chi" "还有60秒"
+    }
+
+    "Defensive for 20 seconds"
+    {
+        "chi" "保持防守20秒"
+    }
+
+    "Defensive for 25 seconds"
+    {
+        "chi" "保持防守25秒"
+    }
+
+    "Defensive for 30 seconds"
+    {
+        "chi" "保持防守30秒"
+    }
+
+    "Defensive for 40 seconds"
+    {
+        "chi" "保持防守40秒"
+    }
+
+    "Destroying the ceiling at the top of the elevator and waiting for 30 seconds"
+    {
+        "chi" "击碎电梯的顶板,等待30秒"
+    }
+
+    "Give me 20 seconds to destroy the tempered glass"
+    {
+        "chi" "正在破拆钢化玻璃,还需要20秒"
+    }
+
+    "Give me 30 seconds to destroy the tempered glass"
+    {
+        "chi" "正在破拆,还需要30秒"
+    }
+
+    "Leave here and we will arrive at the service area"
+    {
+        "chi" "离开这里,准备去服务区了."
+    }
+
+    "Start after 40 seconds of successful intrusion"
+    {
+        "chi" "成功入侵,还有40秒启动"
+    }
+
+    "Start the elevator after waiting for 30 seconds"
+    {
+        "chi" "电梯30秒后启动"
+    }
+
+    "The elevator is damaged. We have to bypass it and find another way"
+    {
+        "chi" "电梯损坏了,我们得绕过去找条其他的路."
+    }
+
+    "The tunnel that has opened the emergency escape protocol will be blocked in 180 seconds"
+    {
+        "chi" "紧急协议已生效!隧道将于180秒后封锁"
+    }
+
+    "This kind of electronic gate can only invade and destroy. Give me 30 seconds to invade"
+    {
+        "chi" "这种电子门只能骇入并摧毁,给我30秒"
+    }
+
+    "Wait 30 seconds for the intrusion to start"
+    {
+        "chi" "侵入流程还有30秒启动"
+    }
+
+    "We have to find a way out of here. Now the base is full of infected zombies"
+    {
+        "chi" "我们得想办法离开这里,现在这里全是感染者"
+    }
+
+    "[MapRelay]  Set falldamage to 0.2"
+    {
+        "chi" "地图设置:已设置摔伤"
+    }
+
+    "still 60 seconds"
+    {
+        "chi" "还有60秒"
+    }
+
+    "still 30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+    "still 20 seconds"
+    {
+        "chi" "还有20秒"
+    }
+
+}

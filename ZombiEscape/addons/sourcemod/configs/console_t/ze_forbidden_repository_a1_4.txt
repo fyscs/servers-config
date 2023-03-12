@@ -1,0 +1,314 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** ADMIN SELECTED HARD MODE **"
+    {
+        "chi" "管理员设置至困难模式"
+    }
+
+    "** ADMIN SELECTED NORMAL MODE **"
+    {
+        "chi" "管理员设置至普通模式"
+    }
+
+    "** Blade **"
+    {
+        "chi" "> 剑刃 <"
+    }
+
+    "** Book item picked up **"
+    {
+        "chi" "玩家获得了书本"
+    }
+
+    "** Book used **"
+    {
+        "chi" "书本已使用"
+    }
+
+    "** Boss defeated! **"
+    {
+        "chi" "Boss已被击败"
+    }
+
+    "** BOSS ENRAGE IN 30s **"
+    {
+        "chi" "Boss还有30秒进入狂暴"
+    }
+
+    "** Boss enrage in THREE minutes **"
+    {
+        "chi" "Boss三分钟后进入狂暴"
+    }
+
+    "** Boss fight starting in 5s **"
+    {
+        "chi" "Boss战5秒后开始"
+    }
+
+    "** Bridge lowering in 30s **"
+    {
+        "chi" "桥30秒后降下"
+    }
+
+    "** Bridge lowering in 45s **"
+    {
+        "chi" "桥45秒后降下"
+    }
+
+    "** Cannon launching in 25s **"
+    {
+        "chi" "火炮25秒后发射"
+    }
+
+    "** Charge **"
+    {
+        "chi" "> 冲锋 <"
+    }
+
+    "** Disclosure **"
+    {
+        "chi" "> 泄露 <"
+    }
+
+    "** Divisor FOUR **"
+    {
+        "chi" "> 除数 四 <"
+    }
+
+    "** Divisor TWO **"
+    {
+        "chi" "> 除数 二 <"
+    }
+
+    "** Door closing in 15 seconds **"
+    {
+        "chi" "门15秒后关闭"
+        "blocked" "1"
+    }
+
+    "** Door closing in 30 seconds **"
+    {
+        "chi" "门30秒后关闭"
+        "blocked" "1"
+    }
+
+    "** Door closing in 60 seconds **"
+    {
+        "chi" "门60秒后关闭"
+        "blocked" "1"
+    }
+
+    "** Door closing in 80 seconds **"
+    {
+        "chi" "门80秒后关闭"
+    }
+
+    "** Door opening in 10s **"
+    {
+        "chi" "门10秒后开启"
+    }
+
+    "** Door opening in 18s **"
+    {
+        "chi" "门18秒后开启"
+    }
+
+    "** Door opening in 30s **"
+    {
+        "chi" "门30秒后开启"
+    }
+
+    "** Door opening in 35s **"
+    {
+        "chi" "门35秒后开启"
+    }
+
+    "** Elevator door opening in 35s **"
+    {
+        "chi" "电梯门35秒后开启"
+    }
+
+    "** Elevator leaving in 10s **"
+    {
+        "chi" "电梯10秒离开"
+    }
+
+    "** FALL BACK **"
+    {
+        "chi" "撤退"
+    }
+
+    "** GET INSIDE NOW! **"
+    {
+        "chi" "快进来!!"
+    }
+
+    "** HARD MODE **"
+    {
+        "chi" "困难模式"
+    }
+
+    "** He is dead. RUUNNN! **"
+    {
+        "chi" "它死了,快跑!!"
+    }
+
+    "** He ran away! Go back to defend! **"
+    {
+        "chi" "它跑路了!!快回去防守!!"
+    }
+
+    "** KEEP DEFENDING **"
+    {
+        "chi" "保持防守!"
+    }
+
+    "** LAST DEFEND **"
+    {
+        "chi" "最后的守点!"
+    }
+
+    "** LAST DEFEND!! **"
+    {
+        "chi" "就要结束了!!"
+    }
+
+    "** MOVING TO HARD MODE.. **"
+    {
+        "chi" "正在启动困难模式"
+    }
+
+    "** Nade does more damage **"
+    {
+        "chi" "手雷可以造成更多的伤害"
+    }
+
+    "** NICE! YOU BEAT THE MAP! **"
+    {
+        "chi" "恭喜!你已经完成了地图"
+    }
+
+    "** NORMAL MODE **"
+    {
+        "chi" "普通模式"
+    }
+
+    "** Only the chosen may survive! **"
+    {
+        "chi" "只有被选中的人才能存活下来"
+    }
+
+    "** Path clearing in 50s **"
+    {
+        "chi" "路径还需要50秒清理"
+    }
+
+    "** Press the button in the security room **"
+    {
+        "chi" "按下安全屋内的按钮"
+    }
+
+    "** Repel **"
+    {
+        "chi" "> 驱逐 <"
+    }
+
+    "** RUUNN! GET INSIDE THAT DOOR! **"
+    {
+        "chi" "快跑! 到那个门里去"
+    }
+
+    "** Security fence opening in 35s **"
+    {
+        "chi" "安全栏35秒后打开"
+    }
+
+    "** SHOOT NOW!! **"
+    {
+        "chi" "快开枪快开枪!!"
+    }
+
+    "** Somebody closed the door! **"
+    {
+        "chi" "有人把门关上了!!"
+    }
+
+    "** Special thanks: POSSESSION Server, Natsuki [HK], tuna **"
+    {
+        "chi" "特别感谢:PSE,Natsuki[HK],tuna"
+    }
+
+    "** Subtract **"
+    {
+        "chi" "> 删减 <"
+    }
+
+    "** Void **"
+    {
+        "chi" "> 虚空 <"
+    }
+
+    "** WATCH OUT! ZOMBIE TELEPORT SOON! **"
+    {
+        "chi" "小心!僵尸就要传送了!"
+    }
+
+    "** WATCH YOUR STEP **"
+    {
+        "chi" "当心脚下"
+    }
+
+    "** We reached a dead end.. **"
+    {
+        "chi" "走到死路了..."
+    }
+
+    "** YOU ARE TOO LATE! BOSS ENRAGE!! **"
+    {
+        "chi" "太迟了!!!Boss狂暴了!!"
+    }
+
+    "** Your HP amount must be divisible by 2 **"
+    {
+        "chi" "你的HP必须能被二整除"
+    }
+
+    "** Your HP amount must be divisible by 4 **"
+    {
+        "chi" "你的HP必须能被四整除"
+    }
+
+    "** Zombie teleport to outside in 10s **"
+    {
+        "chi" "僵尸10秒后传送到外面"
+    }
+
+    "** あなたのHPは2で割り切れる数値でなければなりません。 **"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "** あなたのHPは4で割り切れる数値でなければなりません。 **"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "[MapRelay]  Set falldamage to 0.5"
+    {
+        "chi" "地图设置:已设置摔伤"
+    }
+
+}

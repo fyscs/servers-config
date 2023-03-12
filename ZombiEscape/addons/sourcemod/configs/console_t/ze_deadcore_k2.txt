@@ -1,0 +1,194 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** 10 seconds left ***"
+    {
+        "chi" "还剩10秒"
+        "blocked" "1"
+    }
+
+    "*** 20 seconds left ***"
+    {
+        "chi" "还剩20秒"
+        "blocked" "1"
+    }
+
+    "*** 30 seconds left ***"
+    {
+        "chi" "还剩30秒"
+        "blocked" "1"
+    }
+
+    "*** 5 seconds left ***"
+    {
+        "chi" "还剩5秒"
+        "blocked" "1"
+    }
+
+    "*** ADMIN HAS DISABLED D INSANE MODE ***"
+    {
+        "chi" "管理员已禁用INSANE D关卡"
+    }
+
+    "*** ADMIN HAS ENABLED D INSANE MODE ***"
+    {
+        "chi" "管理员已启用INSANE D关卡"
+    }
+
+    "*** ADMIN HAS RESET THE MAP ***"
+    {
+        "chi" "管理员已重置地图关卡"
+    }
+
+    "*** ADMIN HAS SKIPPED STAGE A ***"
+    {
+        "chi" "管理员设置跳过 Stage:A"
+    }
+
+    "*** ADMIN HAS SKIPPED STAGE B ***"
+    {
+        "chi" "管理员设置跳过 Stage:B"
+    }
+
+    "*** ADMIN HAS SKIPPED STAGE C ***"
+    {
+        "chi" "管理员设置跳过 Stage:C"
+    }
+
+    "*** D INSANE MODE ENABLED ***"
+    {
+        "chi" "已加载 INSANE D"
+    }
+
+    "*** Hold 15 seconds ***"
+    {
+        "chi" "还有15秒"
+    }
+
+    "*** Hold 30 seconds ***"
+    {
+        "chi" "还有30秒"
+    }
+
+    "*** RESTARTING ROUND IN 3 ***"
+    {
+        "chi" "正在重启回合,还有3秒"
+    }
+
+    "*** STAGE FAILED ***"
+    {
+        "chi" "关卡失败"
+    }
+
+    "*** ZOMBIE GOT INSIDE THE LIFT ***"
+    {
+        "chi" ">僵尸上来了<"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+    "*** D INSANE MODE ENABLED FOR NEXT ROUND ***"
+    {
+        "chi" "INSANE D已自动设置"
+    }
+
+    "*** Hold 20 seconds ***"
+    {
+        "chi" "还有20秒"
+    }
+
+    "*** Hold 40 seconds ***"
+    {
+        "chi" "还有40秒"
+    }
+
+    "*** 100 ***"
+    {
+        "chi" "还有100秒"
+        "blocked" "1"
+    }
+
+    "*** 90 ***"
+    {
+        "chi" "还有90秒"
+    }
+
+    "*** 80 ***"
+    {
+        "chi" "还有80秒"
+        "blocked" "1"
+    }
+
+    "*** 70 ***"
+    {
+        "chi" "还有70秒"
+        "blocked" "1"
+    }
+
+    "*** 60 ***"
+    {
+        "chi" "还有60秒"
+        "blocked" "1"
+    }
+
+    "*** 50 ***"
+    {
+        "chi" "还有50秒"
+        "blocked" "1"
+    }
+
+    "*** 40 ***"
+    {
+        "chi" "还有40秒"
+        "blocked" "1"
+    }
+
+    "*** 30 ***"
+    {
+        "chi" "还有30秒"
+        "blocked" "1"
+    }
+
+    "*** 20 ***"
+    {
+        "chi" "还有20秒"
+        "blocked" "1"
+    }
+
+    "*** 10 ***"
+    {
+        "chi" "还有10秒"
+        "blocked" "1"
+    }
+
+    "*** Hold 10 seconds ***"
+    {
+        "chi" "还有10秒"
+        "blocked" "1"
+    }
+
+    "*** Hold 5 seconds ***"
+    {
+        "chi" "还有5秒"
+        "blocked" "1"
+    }
+
+    "*** Map by Airvulpes ***"
+    {
+        "chi" "地图制作:Airvulpes"
+    }
+
+}

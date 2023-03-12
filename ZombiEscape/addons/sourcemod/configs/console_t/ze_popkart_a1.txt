@@ -1,0 +1,144 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "1"
+    {
+        "chi" "1"
+    }
+
+    "2"
+    {
+        "chi" "2"
+    }
+
+    "3"
+    {
+        "chi" "3"
+    }
+
+    "4"
+    {
+        "chi" "4"
+    }
+
+    "5"
+    {
+        "chi" "5"
+    }
+
+    "Get in the kart now!"
+    {
+        "chi" "快上卡丁车"
+    }
+
+    "Get on the airship now!"
+    {
+        "chi" "快上飞船"
+    }
+
+    "GO!"
+    {
+        "chi" "走"
+    }
+
+    "Look out the zombies on the street."
+    {
+        "chi" "当心大街上的僵尸"
+    }
+
+    "Mission compelet."
+    {
+        "chi" "任务完成"
+    }
+
+    "NUKE"
+    {
+        "chi" "核爆"
+    }
+
+    "One wheel has been found."
+    {
+        "chi" "已找到一个车轮"
+    }
+
+    "Oops!There was something happend!"
+    {
+        "chi" "发生了什么事!"
+    }
+
+    "Our popkart is ready!Let's go!"
+    {
+        "chi" "我们的卡丁车准备好了,走吧!"
+    }
+
+    "Our popkart will be ready in 25 seconds."
+    {
+        "chi" "我们的卡丁车将在25秒内准备就绪"
+    }
+
+    "Please wait 20 seconds."
+    {
+        "chi" "请等待20秒"
+    }
+
+    "The airship will come in 40 seconds."
+    {
+        "chi" "飞船40秒后抵达"
+    }
+
+    "The airship will come in 60 seconds."
+    {
+        "chi" "飞船60秒后抵达"
+    }
+
+    "The box will be broken in 10 seconds."
+    {
+        "chi" "10秒钟后箱子破碎"
+    }
+
+    "The box will be cleared in 30 seconds."
+    {
+        "chi" "30秒钟后箱子破碎"
+    }
+
+    "The door will be open in 30 seconds."
+    {
+        "chi" "门将在30秒内打开"
+    }
+
+    "The door will open in 30 seconds."
+    {
+        "chi" "门将在30秒内打开"
+    }
+
+    "The popkart will leave in 80 seconds."
+    {
+        "chi" "卡丁车将在80秒内离开"
+    }
+
+    "The street will be clear in 5 seconds."
+    {
+        "chi" "街道将在5秒内清空"
+    }
+
+    "We can pass here in 30 seconds."
+    {
+        "chi" "我们可以在30秒内通过这里"
+    }
+
+    "We have 45 seconds to find the popkart in the squre."
+    {
+        "chi" "我们有45秒的时间找到广场上的卡丁车"
+    }
+
+}

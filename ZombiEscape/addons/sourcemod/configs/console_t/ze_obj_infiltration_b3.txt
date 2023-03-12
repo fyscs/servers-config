@@ -1,0 +1,229 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "And your actual combat data, we have carefully observed"
+    {
+        "chi" "对于实战数据,我们已经进行了细致的分析"
+    }
+
+    "As for your team, take a break and wait for instructions to go to the x-13 lab to collect other samples"
+    {
+        "chi" "让你的小队做好整备,准备好去X.1.3实验室收集其他样本"
+    }
+
+    "Break the other hatch immediately"
+    {
+        "chi" "赶快破坏掉另一扇舱门"
+    }
+
+    "But we need to assemble a team to go back and clean up the corpses and zombies there"
+    {
+        "chi" "但是我们得组织一堆人回去并清理掉那里的僵尸与尸体."
+    }
+
+    "Damn it! The second half of the record was torn"
+    {
+        "chi" "该死,记录的第二部分被扯掉了"
+    }
+
+    "Efficiency, craziness, speed. The task is called"
+    {
+        "chi" "效率,疯狂,速度. 任务名为"
+    }
+
+    "Experiment log: x-12 can now perform simple learning behaviors and...."
+    {
+        "chi" "实验日志:x1.2现在可以展现出简单的学习行为,并..."
+    }
+
+    "Experiment log: x-12 found that the sample showed strong healing power"
+    {
+        "chi" "实验日志:在样本上发现的x.1.2展现出强大的自愈能力"
+    }
+
+    "Hold on for 60 seconds and wait for rescue"
+    {
+        "chi" "守住这里等待救援,还有60秒"
+    }
+
+    "It seems that the virus leaked from this incident is very troublesome"
+    {
+        "chi" "看起来这次事故泄露出来的玩意挺麻烦的"
+    }
+
+    "It takes 40 seconds to clear the obstacle"
+    {
+        "chi" "正在清理障碍物,还有40秒"
+    }
+
+    "Loading actual combat video...."
+    {
+        "chi" "正在加载实战录像..."
+    }
+
+    "Map & music made by Trazix"
+    {
+        "chi" "地图,音乐: Trazix"
+    }
+
+    "map by FubuKi"
+    {
+        "chi" "地图制作:FubuKi 文本翻译:xTeru"
+    }
+
+    "Memorial and thanks: TuPu and Claus9"
+    {
+        "chi" "特别感谢:TuPu and Claus9"
+    }
+
+    "Obstacles have been destroyed Get out of here"
+    {
+        "chi" "障碍已被清除,离开这里"
+    }
+
+    "Oh, shit! The upward ladder is blocked"
+    {
+        "chi" "向上的梯子被堵住了"
+    }
+
+    "Port by Huishnya"
+    {
+        "chi" "地图移植:Huishnya"
+    }
+
+    "Power is being restarted and waiting for the gate to open"
+    {
+        "chi" "电力系统正在重启,门一会就开了"
+    }
+
+    "Road blocked, deploying c4 explosives"
+    {
+        "chi" "路被堵住了,正在安放炸弹"
+    }
+
+    "Sample virus x-12: has the ability to assimilate surrounding organisms"
+    {
+        "chi" "病毒样本:其可以感染并同化附近的生物"
+    }
+
+    "Sir! they're holding us here"
+    {
+        "chi" "长官,它们把我们困在这里了"
+    }
+
+    "So what does this mission mean? Headquarters"
+    {
+        "chi" "所以是什么计划?指挥部"
+    }
+
+    "Starting"
+    {
+        "chi" "开始播放"
+    }
+
+    "Strong explosives have been placed, waiting for 60 seconds for blasting"
+    {
+        "chi" "已安放强力炸药,等待60秒"
+    }
+
+    "The bomb will explode in 60 seconds"
+    {
+        "chi" "炸弹还有60秒爆炸"
+    }
+
+    "The door is unlocked"
+    {
+        "chi" "门已解锁!"
+    }
+
+    "The door open Run!"
+    {
+        "chi" "门开了,快走!"
+    }
+
+    "The gate has been opened"
+    {
+        "chi" "大门已经打开"
+    }
+
+    "There is no way out. We have to blow up the bridge"
+    {
+        "chi" "梅路走了,我们得把桥炸断."
+    }
+
+    "This sample leak has infected many places"
+    {
+        "chi" "这次样本泄露已经扩散到很多地方"
+    }
+
+    "Version update by Nino"
+    {
+        "chi" "版本更新: Nino"
+    }
+
+    "Wait 40 seconds to crack the gate"
+    {
+        "chi" "正在骇入门禁,等待40秒"
+    }
+
+    "Wait for the gate to open"
+    {
+        "chi" "等待大门开启"
+    }
+
+    "Waiting to crack the gate"
+    {
+        "chi" "准备骇入大门"
+    }
+
+    "We have to get out of here and send the message to headquarters"
+    {
+        "chi" "我们需要从这里脱身,发消息给指挥部"
+    }
+
+    "We need some time to study how to crack these corpse samples"
+    {
+        "chi" "我们需要点时间想想办法怎么应对这些玩意"
+    }
+
+    "We want you to lead the troops to clear that area again"
+    {
+        "chi" "我们希望你带着小队回去再次清理那片区域"
+    }
+    
+    "[MapRelay]  Set falldamage to 0.5"
+    {
+        "chi" "地图设置:已设置摔伤"
+    }
+
+    "still 90 seconds"
+    {
+        "chi" "还有90秒"
+    }
+    
+    "still 60 seconds"
+    {
+        "chi" "还有60秒"
+    }
+
+    "still 30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+    "still 20 seconds"
+    {
+        "chi" "还有20秒"
+    }
+
+}
