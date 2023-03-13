@@ -688,10 +688,9 @@
         "chi" "**僵尸进来了!关卡失败**"
     }
 
-    "se02 Server:Command:say >> BUT ITS NOT VERY EFFECTIVE ! <<:3:1"
+    ">> BUT ITS NOT VERY EFFECTIVE ! <<"
     {
-        "chi" "__null__"
-        "blocked"    "1"
+        "chi" "**但它不是很有效**"
     }
 
 }
