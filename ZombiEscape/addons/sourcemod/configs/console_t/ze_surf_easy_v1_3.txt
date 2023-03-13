@@ -1,0 +1,110 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "<<< GET READY FOR THE BOSS LASER ATTACK !!! >>>"
+    {
+        "chi" "准备应对Boss的激光攻击!!"
+    }
+
+    "<<< HOLD ZOMBIES !!! >>>"
+    {
+        "chi" "守住!"
+    }
+
+    "<<< HOLD ZOMBIES 10 SEC >>>"
+    {
+        "chi" "还有10秒,守住!"
+        "blocked" "1"
+    }
+
+    "<<< HOLD ZOMBIES 20 SEC !!! >>>"
+    {
+        "chi" "守住!还有20秒"
+    }
+
+    "<<< HOLD ZOMBIES 30 SEC >>>"
+    {
+        "chi" "守住30秒"
+    }
+
+    "<<< HOLD ZOMBIES 50 SEC >>>"
+    {
+        "chi" "守住!还有50秒"
+    }
+
+    "<<< HOLD ZOMBIES 60 SEC >>>"
+    {
+        "chi" "守住!还有60秒"
+    }
+
+    "<<< LOOK UP !!! >>>"
+    {
+        "chi" "看头上"
+    }
+
+    "<<< MAP BY =LIROY= >>>"
+    {
+        "chi" "地图制作: LIROY"
+    }
+
+    "<<< RUN TO THE SURF  !!! >>>"
+    {
+        "chi" "赶紧滑翔了"
+    }
+
+    "<<< SURVIVE 100 SECONDS >>>"
+    {
+        "chi" "生存100秒"
+    }
+
+    "<<< THE DOOR IS OPEN !!! >>>"
+    {
+        "chi" "门开了!"
+    }
+
+    "<<< WELL DONE !!!  GO TO THE CENTER OF ARENA !!!>>>"
+    {
+        "chi" "干的不错!到中间去!"
+    }
+
+    "<<< ZOMBIES ARE COMING  !!! >>>"
+    {
+        "chi" "僵尸来了!"
+    }
+
+    "<<< ZOMBIES ARE COMING !!! >>>"
+    {
+        "chi" "僵尸来了!"
+    }
+
+    "<<< ZOMBIES ARE GONE  !!! >>>"
+    {
+        "chi" "僵尸挂啦"
+    }
+
+    ">>> PLAYER HAS PICKED UP FREEZE <<<"
+    {
+        "chi" "玩家已拾起冰冻"
+    }
+
+    ">>> PLAYER USED FREEZE <<<"
+    {
+        "chi" "玩家已使用冰冻!"
+    }
+    
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
