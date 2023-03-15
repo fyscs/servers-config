@@ -1,0 +1,69 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "<Tips>Only one human can be assigned to trigger."
+    {
+        "chi" "[提示] 触发仅可由接触到的第一个人进行"
+    }
+
+    "<Tips>Press A or D moving the platform."
+    {
+        "chi" "[提示] 使用A或D来移动平台"
+    }
+
+    "<Tips>Press W or S moving the platform."
+    {
+        "chi" "[提示] 使用W或S来移动平台"
+    }
+
+    "> 2 - F <"
+    {
+        "chi" "> 到此为止了 <"
+    }
+
+    "> 2 - T <"
+    {
+        "chi" "> 并没有结束 <"
+    }
+
+    "> R T V <"
+    {
+        "chi" "是时候RTV了"
+    }
+
+    ">>Why you pressed it???<<"
+    {
+        "chi" "为什么要摁这个呢???"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+    "still 20 seconds"
+    {
+        "chi" "还有20秒"
+    }
+
+    "still 30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+    "still 60 seconds"
+    {
+        "chi" "还有60秒"
+    }
+
+}

@@ -1,0 +1,172 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** Afk teleport in 10 secons ***"
+    {
+        "chi" "挂机传送还有10秒"
+    }
+
+    "*** Afk teleport in 20 seconds ***"
+    {
+        "chi" "挂机传送还有20秒"
+    }
+
+    "*** Boat leaving in 30 seconds ***"
+    {
+        "chi" "小船还有30秒离开"
+    }
+
+    "*** Boss teleport activated in 10 seconds ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** Boss teleport activated in 30 seconds ***"
+    {
+        "chi" "Boss传送还有30秒"
+    }
+
+    "*** Boss used danger field! ***"
+    {
+        "chi" "Boss使用了危险领域"
+    }
+
+    "*** Boss used hurt ***"
+    {
+        "chi" "Boss使用了击伤"
+    }
+
+    "*** Boss used moving wall ***"
+    {
+        "chi" "Boss使用了移动屏障"
+    }
+
+    "*** Boss used pull ***"
+    {
+        "chi" "Boss使用了拉力"
+    }
+
+    "*** Boss used push ***"
+    {
+        "chi" "Boss使用了扩散推力"
+    }
+
+    "*** Boss used rotating wall ***"
+    {
+        "chi" "Boss使用了旋转屏障"
+    }
+
+    "*** CONGRATS!!! ***"
+    {
+        "chi" "恭喜已完成地图"
+    }
+
+    "*** Crouch! ***"
+    {
+        "chi" "蹲下!"
+    }
+
+    "*** Door open in 15 seconds ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** Door open in 20 seconds ***"
+    {
+        "chi" "门还有20秒打开"
+    }
+
+    "*** Door open in 25 seconds ***"
+    {
+        "chi" "门还有25秒打开"
+    }
+
+    "*** Door open in 40 seconds ***"
+    {
+        "chi" "门还有40秒打开"
+    }
+
+    "*** Press S! ***"
+    {
+        "chi" "按S!!"
+    }
+
+    "*** Press W! ***"
+    {
+        "chi" "按W!!"
+    }
+
+    "*** Shoot it before it touches you! ***"
+    {
+        "chi" "在它接触到你之前快射击!!"
+    }
+
+    "*** Stand on the green floor! ***"
+    {
+        "chi" "站在绿色地板上!"
+    }
+
+    "*** Vent break in 30 seconds ***"
+    {
+        "chi" "还有30秒破开"
+    }
+
+    "*** Zombies teleport in 10 seconds ***"
+    {
+        "chi" "僵尸10秒后传送"
+    }
+
+    "***Afk teleport in 10 seconds***"
+    {
+        "chi" "挂机传送还有10秒"
+    }
+
+    "***Afk teleport in 15 seconds***"
+    {
+        "chi" "挂机传送还有15秒"
+    }
+
+    "***Bomb explode in 10 seconds***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***Bomb explode in 30 seconds***"
+    {
+        "chi" "炸弹还有30秒爆炸"
+    }
+
+    "***Door open in 20 seconds***"
+    {
+        "chi" "门20秒后开启"
+    }
+
+    "***Door open in 45 seconds***"
+    {
+        "chi" "门45秒后打开"
+    }
+
+    "***Teleport activates in 25 seconds***"
+    {
+        "chi" "传送25秒后激活"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}

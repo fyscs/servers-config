@@ -636,10 +636,9 @@
         "chi" "**[ZM]毒蘑菇已被拾取**"
     }
 
-    "er3 Server:Command:say >> SECRET MUSIC UNLOCKED <<:1:1"
+    ">> SECRET MUSIC UNLOCKED <<"
     {
-        "chi" "__null__"
-        "blocked"    "1"
+        "chi" "**隐藏音乐已被解锁**"
     }
 
 }
