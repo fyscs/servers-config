@@ -1,0 +1,245 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "!!!"
+    {
+        "chi" "!!!"
+    }
+
+    "~ 10sec until ending ~"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "~ 15sec until tele ~"
+    {
+        "chi" "传送还有15秒"
+    }
+
+    "~ 20sec until ending ~"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "~ 30sec until ending ~"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "~ 50sec until ending ~"
+    {
+        "chi" "还有50秒结束"
+    }
+
+    "~ 5sec ~"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "~ Afk tele enable in 10sec ~"
+    {
+        "chi" "挂机传送还有10秒"
+    }
+
+    "~ AFK tele enable in 15sec ~"
+    {
+        "chi" "挂机传送还有15秒"
+    }
+
+    "~ AFK tele enable in 25sec ~"
+    {
+        "chi" "挂机传送还有25秒"
+    }
+
+    "~ AFK tele enable in 5sec ~"
+    {
+        "chi" "挂机传送还有5秒"
+    }
+
+    "~ Emergency TP currently not available >: ~"
+    {
+        "chi" "怒布传送现在不可用呢~"
+    }
+
+    "~ Emergency TP enabled ~"
+    {
+        "chi" "怒布传送已开启"
+    }
+
+    "~ Firework has been picked up ~"
+    {
+        "chi" "烟花筒已被拾起"
+    }
+
+    "~ Glass blocking the way ~"
+    {
+        "chi" "玻璃幕墙挡住了路"
+    }
+
+    "~ Glass break in 5sec ~"
+    {
+        "chi" "玻璃幕墙5秒后破碎"
+    }
+
+    "~ Glass is now moving!! ~"
+    {
+        "chi" "玻璃幕墙正在移动"
+    }
+
+    "~ Last AFK tele enable in 5sec ~"
+    {
+        "chi" "最后一处挂机挂机传送5秒后开启"
+    }
+
+    "~ Last tele enable ~"
+    {
+        "chi" "最后的传送已开启"
+    }
+
+    "~ Last tele enable in 25sec ~"
+    {
+        "chi" "最后的传送25秒后启动"
+    }
+
+    "~ Middle top portal open in 35sec ~"
+    {
+        "chi" "传送门35秒后开启"
+    }
+
+    "~ Portal are now open ~"
+    {
+        "chi" "传送门打开了"
+    }
+
+    "~ Portal are open now ~"
+    {
+        "chi" "传送门现在已开启"
+    }
+
+    "~ Portal open in 15sec ~"
+    {
+        "chi" "传送门15秒后开启"
+    }
+
+    "~ Portal will open in 15sec ~"
+    {
+        "chi" "传送门将于15秒后开启"
+    }
+
+    "~ Push has been picked up ~"
+    {
+        "chi" "推力枪已被拾起"
+    }
+
+    "~ Resist ~"
+    {
+        "chi" "保持防守!"
+    }
+
+    "~ Resist 40sec ~"
+    {
+        "chi" "还有40秒"
+    }
+
+    "~ Start in 15sec ~"
+    {
+        "chi" "还有15秒开始"
+    }
+
+    "~ Survive 10sec ~"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "~ Survive 30sec ~"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "~ Survive 50sec ~"
+    {
+        "chi" "还有50秒"
+    }
+
+    "~ Upper portal open in 35sec ~"
+    {
+        "chi" "上层传送门35秒后开启"
+    }
+
+    "~ Wait a sec ~"
+    {
+        "chi" "等等..."
+    }
+
+    "~ Watch your step!! ~"
+    {
+        "chi" "小心脚下!!"
+    }
+
+    "~ WIN ~"
+    {
+        "chi" "游戏结束"
+    }
+
+    "~ Zombie barrier disabled ~"
+    {
+        "chi" "僵尸屏障已失效"
+    }
+
+    "~ Zombie barrier enable ~"
+    {
+        "chi" "僵尸屏障已启动"
+    }
+
+    "~ Zombies come in 15sec ~"
+    {
+        "chi" "僵尸还有15秒抵达"
+    }
+
+    "~ Zombies come in 20sec ~"
+    {
+        "chi" "僵尸还有20秒抵达"
+    }
+
+    "~ Zombies come in 25 ~"
+    {
+        "chi" "僵尸还有25秒抵达"
+    }
+
+    "OH SHIT!!"
+    {
+        "chi" "哦草坏了"
+    }
+
+    "WHAT IS THAT"
+    {
+        "chi" "这什么玩意"
+    }
+
+    "where is this?"
+    {
+        "chi" "这里是哪里"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
