@@ -3,13 +3,8 @@
 ![workflow](https://img.shields.io/github/actions/workflow/status/fys-csgo/servers-config/ci.yml?branch=master&label=GitHub%20Action&style=flat-square)
 ![contributors](https://img.shields.io/github/contributors/fys-csgo/servers-config?label=贡献者&style=flat-square)
 ![CommitM](https://img.shields.io/github/commit-activity/m/fys-csgo/servers-config?label=项目活跃&style=flat-square)
-
 ![Size](https://img.shields.io/github/repo-size/fys-csgo/servers-config?style=flat-square&label=仓库大小)
-![MapData](https://img.shields.io/github/search/fys-csgo/servers-config/MapData?style=flat-square&label=MapData)
-![BossHP](https://img.shields.io/github/search/fys-csgo/servers-config/BossHP?style=flat-square&label=BossHP)
-![Translations](https://img.shields.io/github/search/fys-csgo/servers-config/Console_T?style=flat-square&label=Translations)
-![EntWatch](https://img.shields.io/github/search/fys-csgo/servers-config/entities?style=flat-square&label=EntWatch)
-![Configs](https://img.shields.io/github/search/fys-csgo/servers-config/auto-generated?style=flat-square&label=Map%20Configs)
+
 
 #### 服务器配置仓库
 
@@ -30,9 +25,9 @@ Copyright © 2019-2023 FyS. ALL RIGHTS RESERVED.
 - 文本缩进为统一4空格缩进
 - KeyValues文件禁止使用中文标点
 - PR标题匹配 (Regex)
-  - ``^(新增|修改|回滚)(ZE|TTT|JB|MG|KZ|Retakes|BHop|Surf|HnS|DeathRun)服务器(配置|参数)\:\s\S+$``
-  - ``^新增地图\:\s(ze|mg|ttt|jb|bhop|surf|kz|kzpro|vnl|skz|bkz|xc|dr|deathrun)_[a-zA-Z0-9_]+$``
-  - ``^(修改|补充)地图(数据|翻译|Boss|关卡|按钮|参数|神器|通关奖励|Stripper|Nuke|VScript)?\:\s(ze|mg|ttt|jb|bhop|surf|kz|kzpro|vnl|skz|bkz|xc|dr|deathrun)_[a-zA-Z0-9_]+$``
+  - ``^(新增|修改|回滚)(ZE|TTT|JB|MG|KZ|Retakes|BHop|Surf|HnS|DeathRun|Warcraft)服务器(配置|参数)\:\s\S+$``
+  - ``^新增地图\:\s(ze|mg|ttt|jb|bhop|surf|kz|kzpro|vnl|skz|bkz|xc|dr|deathrun|de|cs)_[a-zA-Z0-9_]+$``
+  - ``^(修改|补充)地图(数据|翻译|Boss|关卡|按钮|参数|神器|通关奖励|Stripper|Nuke|VScript)?\:\s(ze|mg|ttt|jb|bhop|surf|kz|kzpro|vnl|skz|bkz|xc|dr|deathrun|de|cs)_[a-zA-Z0-9_]+$``
   - ``^回滚PR\s#[0-9]+$``
 
 
