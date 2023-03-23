@@ -11,14 +11,35 @@
     // "countdown"  // 添加特殊的独立的倒计时
 
 
+
+    "** 200s **"
+    {
+        "chi" "200秒"
+    }
+
     "** Adramelech is summoning the Sandmoster**"
     {
         "chi" "亚德拉梅利克正在召唤沙漠亡灵"
     }
 
+    "** After Judge Bergan invaded Mt.Bur-Omisace, we decided to go Draklor Laboratory and destory the Nethicite. **"
+    {
+        "chi" "在裁判长贝干入侵神都布尔奥米赛斯之后,我们决定前往帝国的卓克罗尔研究所破坏破魔石"
+    }
+
+    "** As per Cidolfus what he said, Giruvegan will be our next stop to go. **"
+    {
+        "chi" "最后,如果按照西德博士所说,那么我们接下来必须前往基鲁维冈一趟了"
+    }
+
     "** Both switches have been pulled down **"
     {
         "chi" "两个开关都已拉下"
+    }
+
+    "** Cidolfus is gone, we have to find a way to get out from here first. **"
+    {
+        "chi" "西德逃走了,我们现在得想办法离开这里"
     }
 
     "** Clouds **"
@@ -51,14 +72,39 @@
         "chi" "冰"
     }
 
+    "** Judge drace? Why she is here.. **"
+    {
+        "chi" "多蕾丝?她为什么在这里.."
+    }
+
     "** KILL REMAINING ZOMBIES **"
     {
         "chi" "杀死剩余的僵尸"
     }
 
+    "** Look! The Sochen Cave Palace is right there!. We almost reach to The Imperial City of Archades. **"
+    {
+        "chi" "看!索亨地下宫殿就在那里!只要穿过了那里我们就到达了阿凯迪斯"
+    }
+
     "** Map By Runa **"
     {
         "chi" "地图作者:Runa"
+    }
+
+    "** Nethicite must be on Cidolfus... **"
+    {
+        "chi" "破魔石一定在希德博士手上"
+    }
+
+    "** Please... take care of Larsa... **"
+    {
+        "chi" "拜托你,保护好拉萨殿下.."
+    }
+
+    "** Reflexive **"
+    {
+        "chi" "反射"
     }
 
     "** Soul Purge**"
@@ -86,6 +132,11 @@
         "chi" "太迟了"
     }
 
+    "** We need to go the top ascent of the Draklor Laboratory and find him. **"
+    {
+        "chi" "我们必须前往研究所的最高层去寻找希德博士"
+    }
+
     "** We need to pull down two switches to start the elevator**"
     {
         "chi" "我们需要拉下两个开关才能启动电梯"
@@ -108,7 +159,7 @@
 
     "**60 seconds remaining**"
     {
-        "chi" "还剩10秒"
+        "chi" "还剩60秒"
     }
 
     "**Defend 10s**"
@@ -183,7 +234,12 @@
 
     "> The Esper Adrammelech  fight in 10 seconds <"
     {
-        "chi" "> 10s后与Adrammelech战斗开始 <"
+        "chi" "10s后与Adrammelech战斗开始"
+    }
+
+    "> The Esper Shemhazai  fight in 10 seconds <"
+    {
+        "chi" "10s后与Shemhazai战斗开始"
     }
 
 }
