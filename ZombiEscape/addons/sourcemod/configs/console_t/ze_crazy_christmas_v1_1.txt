@@ -1,0 +1,87 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "<< Hold zombies for 20 seconds ! >>"
+    {
+        "chi" "守住20秒"
+    }
+
+    "<< Hold zombies for 30 seconds ! >>"
+    {
+        "chi" "防守僵尸30秒"
+    }
+
+    "<< Hold zombies for 40 seconds ! >>"
+    {
+        "chi" "防守40秒"
+    }
+
+    "<< Survive for 70 seconds ! >>"
+    {
+        "chi" "跟指挥一起存活70秒 ! "
+    }
+
+    "<<< PLAYER HAS PICKED CHRISTMAS TREE  ! >>>"
+    {
+        "chi" "一位靓仔拾取了大雪茄留下的圣诞树 !"
+    }
+
+    "<<< PLAYER HAS PICKED HEAL  ! >>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<< PLAYER HAS PICKED ICE  ! >>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<< PLAYER HAS PICKED UP ICE WALL ! >>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<< PLAYER HAS PICKED WIND  ! >>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<< ZOMBIE HAS PICKED UP DISARM BOX ! >>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<< ZOMBIE HAS PICKED UP FIRE BOX ! >>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<< ZOMBIE HAS PICKED UP FREEZE BOX ! >>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<<< ZOMBIE HAS PICKED UP POISON BOX ! >>>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+}
