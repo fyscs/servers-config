@@ -1,0 +1,109 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** a JUGGERNAUT has been picked up! **"
+    {
+        "chi" "机械狗已加入战场!"
+    }
+
+    "*** ZOMBIES TRIGGERED !!! ***"
+    {
+        "chi" "不!僵尸比你更快的触发了开关"
+    }
+
+    "[>Alma< entered the game]"
+    {
+        "chi" "女鬼已加入战斗!"
+    }
+
+    "[>Jumper< entered the game]"
+    {
+        "chi" "飞跃者已加入战斗!"
+    }
+
+    "[>Summoner< entered the game]"
+    {
+        "chi" "黑洞法师已加入战斗!"
+    }
+
+    "[>Tank< entered the game]"
+    {
+        "chi" "僵尸坦克已加入战斗!"
+    }
+
+    "[>Vortigaunt< entered the game]"
+    {
+        "chi" "弗地岗人已加入战斗!"
+    }
+
+    "|||FAR LEFT CONSOLE PRESSED|||"
+    {
+        "chi" "最左边的控制台已按下"
+    }
+
+    "|||FAR RIGHT CONSOLE PRESSED|||"
+    {
+        "chi" "最右边的控制台已按下"
+    }
+
+    "|||LEFT CONSOLE PRESSED|||"
+    {
+        "chi" "左边的控制台已按下"
+    }
+
+    "|||RIGHT CONSOLE PRESSED|||"
+    {
+        "chi" "右边的控制台已按下"
+    }
+
+    "++ MAP BY HANNIBAL[SPA] / Rafuron ++"
+    {
+        "chi" "地图作者:HANNIBAL[SPA] / Rafuron 翻译:NakanoNino"
+    }
+
+    "++ MAP FIXED BY STRUPPI ++"
+    {
+        "chi" "地图由STRUPPI修复"
+    }
+
+    "++ Thanks to George and Sgt. zuff ++"
+    {
+        "chi" "感谢George和Sgt zuff"
+    }
+
+    "++Stage 1 Set++"
+    {
+        "chi" "管理员已选取第一关"
+    }
+
+    "++Stage 2 Set++"
+    {
+        "chi" "管理员已选取第二关"
+    }
+
+    "++Stage 3 Set++"
+    {
+        "chi" "管理员已选取第三关"
+    }
+
+    "++Stage 4 Set++"
+    {
+        "chi" "管理员已选取第四关"
+    }
+
+    "++Stage 5 Set++"
+    {
+        "chi" "管理员已选取第五关"
+    }
+
+}
