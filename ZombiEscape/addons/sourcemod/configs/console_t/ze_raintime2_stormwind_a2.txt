@@ -1,0 +1,823 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** 1s **"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "** 2s **"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "** 3s **"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "** 40 seconds **"
+    {
+        "chi" "还有40秒"
+    }
+
+    "** 4s **"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "** 5s **"
+    {
+        "chi" "还有5秒"
+    }
+
+    "** A player picked it up Divine power **"
+    {
+        "chi" "亡灵偷取了神圣之力"
+    }
+
+    "** A player picked up the Frozen **"
+    {
+        "chi" "亡灵偷取了驱逐之力"
+    }
+
+    "** A player picked up the poison **"
+    {
+        "chi" "亡灵偷取了蛊毒之力"
+    }
+
+    "** A player picked up the shield **"
+    {
+        "chi" "亡灵偷取了增益之力"
+    }
+
+    "** About to open the iron door on the top floor **"
+    {
+        "chi" "顶层的铁门即将打开"
+    }
+
+    "** After 30 seconds, open the wooden door and activate the final transmission **"
+    {
+        "chi" "木门30秒后开启,即将启动最终的传送"
+    }
+
+    "** Another blocked cave? Damn it, find a way to blow it up **"
+    {
+        "chi" "又一处?不管了,想办法把它炸上天"
+    }
+
+    "** Anyway, we must get out of here as soon as possible! **"
+    {
+        "chi" "不论如何,我们得赶快出去"
+    }
+
+    "** Attention, we only have 80 seconds to enter the pub **"
+    {
+        "chi" "注意,我们只剩80秒了"
+    }
+
+    "** Boss released the earthquake **"
+    {
+        "chi" "Boss释放了地震"
+    }
+
+    "** Boss released the zombie **"
+    {
+        "chi" "Boss释放了僵尸"
+    }
+
+    "** Boss releases the black hole **"
+    {
+        "chi" "boss释放了黑洞"
+    }
+
+    "** Boss releases the blade of hell **"
+    {
+        "chi" "boss释放了地狱之刃"
+    }
+
+    "** Boss releases the strong wind **"
+    {
+        "chi" "boss释放了强风"
+    }
+
+    "** Boss releases the zombie,Protect yourself before transmitting **"
+    {
+        "chi" "boss释放了僵尸,在传送之前保护好自己"
+    }
+
+    "** Boss uses Yangyan to attack **"
+    {
+        "chi" "boss使用了阳炎攻击"
+    }
+
+    "** Break the small door, please wait **"
+    {
+        "chi" "等会,正在破开小门"
+    }
+
+    "** Break the wooden door after 40 seconds **"
+    {
+        "chi" "木门40秒后破开"
+    }
+
+    "** Break the wooden door after 45 seconds **"
+    {
+        "chi" "木门45秒后破开"
+    }
+
+    "** Chapter one, end! **"
+    {
+        "chi" "第一章结束"
+    }
+
+    "** Continue to wait for 25 seconds **"
+    {
+        "chi" "等待25秒"
+    }
+
+    "** Conveyor wait 20 seconds **"
+    {
+        "chi" "还要等待20秒"
+    }
+
+    "** Defend for 20 seconds and wait for the event to occur **"
+    {
+        "chi" "守住,还有20秒"
+    }
+
+    "** Defend zombies for 20 seconds **"
+    {
+        "chi" "守住20秒"
+    }
+
+    "** Defend zombies for 20 seconds and wait for the door to open **"
+    {
+        "chi" "守住20秒,门就要开了"
+    }
+
+    "** Defend zombies for 20 seconds, we have no way back! **"
+    {
+        "chi" "守住20秒,没路走了"
+    }
+
+    "** Defend zombies for 35 seconds **"
+    {
+        "chi" "守住,还有35秒"
+    }
+
+    "** Defend zombies until 45 seconds **"
+    {
+        "chi" "守住僵尸,还有45秒"
+    }
+
+    "** Don't let zombies break through the line of defense. Wait for the gate to close **"
+    {
+        "chi" "不要让僵尸撕开防线,门就要关上了"
+    }
+
+    "** Everything is strange, but there is no way but to retreat **"
+    {
+        "chi" "一切都很诡异,只能撤退了"
+    }
+
+    "** Evil spirit, it's dead.Dead? **"
+    {
+        "chi" "邪恶之灵,它确是死了吗"
+    }
+
+    "** Five seconds left...... **"
+    {
+        "chi" "还有五秒"
+    }
+
+    "** good job! This book records how to unlock the switch and protect it **"
+    {
+        "chi" "可以的,这本书记录了如何解锁开关去保护它"
+    }
+
+    "** Good job. Blast the boulder in 25 seconds **"
+    {
+        "chi" "好的,25秒后炸开巨石"
+    }
+
+    "** greedy human beings **"
+    {
+        "chi" "贪婪的人类啊"
+    }
+
+    "** Hold for 20 seconds **"
+    {
+        "chi" "坚持20秒"
+    }
+
+    "** Hold for 20 seconds and wait for the gate to open **"
+    {
+        "chi" "门还有20秒打开"
+    }
+
+    "** Hold for 30 seconds **"
+    {
+        "chi" "坚持30秒"
+    }
+
+    "** Hold on for 15 seconds **"
+    {
+        "chi" "等待15秒"
+    }
+
+    "** Hold on for 20 seconds **"
+    {
+        "chi" "等待20秒"
+    }
+
+    "** Hold on for 40 seconds. Don't let the zombies break through the line **"
+    {
+        "chi" "守住40秒,不要让僵尸突破防线"
+    }
+
+    "** Hold the zombie for 40 seconds **"
+    {
+        "chi" "守住40秒"
+    }
+
+    "** Human victory **"
+    {
+        "chi" "人类胜利"
+    }
+
+    "** In the last 30 seconds, we can set off fireworks **"
+    {
+        "chi" "最后的30秒"
+    }
+
+    "** It seems that we have been fooled. We have no choice but to take a new path **"
+    {
+        "chi" "看起来我们被耍了,只能另找一条路了"
+    }
+
+    "** It seems that we have missed the planned path. In short, we should find a way to get out of here **"
+    {
+        "chi" "看起来跟计划有点不同,得找条路离开这里"
+    }
+
+    "** It's an evil spirit. Why hasn't he died yet? Is it an illusion? **"
+    {
+        "chi" "邪恶之灵,怎么还没消失?是幻象吗"
+    }
+
+    "** It's dead. Hold the last gate **"
+    {
+        "chi" "它死了,守住最后的门"
+    }
+
+    "** Last 10 seconds **"
+    {
+        "chi" "最后的10秒"
+    }
+
+    "** Obstacles cleared **"
+    {
+        "chi" "障碍已被清除"
+    }
+
+    "** Open the door in 15 seconds **"
+    {
+        "chi" "门15秒后打开"
+    }
+
+    "** Open the inner door in 20 seconds **"
+    {
+        "chi" "内侧的门20秒后打开"
+    }
+
+    "** Open the iron door below in 15 seconds **"
+    {
+        "chi" "下方的铁门15秒后打开"
+    }
+
+    "** Open the left and right doors in 40 seconds **"
+    {
+        "chi" "两侧的门40秒后打开"
+    }
+
+    "** Open the road in 15 seconds and hold your ground! **"
+    {
+        "chi" "守住,路还有15秒打开"
+    }
+
+    "** Open the road in 30 seconds. Hold on **"
+    {
+        "chi" "路径还有30秒打开"
+    }
+
+    "** Open the small door in 25 seconds **"
+    {
+        "chi" "小门还有25秒打开"
+    }
+
+    "** Open the sub door after 30 seconds **"
+    {
+        "chi" "底层的门30秒后打开"
+    }
+
+    "** Pay attention to the road under your feet. This is not a place for fun **"
+    {
+        "chi" "当心脚下的路,可不是闹着玩的"
+    }
+
+    "** Please wait 20 seconds **"
+    {
+        "chi" "请等待20秒"
+    }
+
+    "** Please wait 20 seconds to defend zombies! **"
+    {
+        "chi" "守住僵尸,还有20秒"
+    }
+
+    "** Please wait for 10 seconds **"
+    {
+        "chi" "等待10秒"
+    }
+
+    "** Please wait...... **"
+    {
+        "chi" "等等...."
+    }
+
+    "** Resist zombies for 20 seconds **"
+    {
+        "chi" "抵抗僵尸20秒"
+    }
+
+    "** Resist zombies for 30 seconds **"
+    {
+        "chi" "抵挡僵尸30秒"
+    }
+
+    "** Retreat, find the next route, watch out for zombies **"
+    {
+        "chi" "撤退,找其他的路,当心僵尸"
+    }
+
+    "** Road clearing completed **"
+    {
+        "chi" "已完成清理"
+    }
+
+    "** Route change, drag the zombie for 55 seconds **"
+    {
+        "chi" "路线变更,要拖住僵尸55秒"
+    }
+
+    "** Send fishing player in 5 seconds **"
+    {
+        "chi" "传送摸鱼的玩家还有5秒传送"
+    }
+
+    "** Send to the valley in 20 seconds **"
+    {
+        "chi" "20秒后前往峡谷"
+    }
+
+    "** Start difficult mode **"
+    {
+        "chi" "开启困难模式"
+    }
+
+    "** Start transmission after 30 seconds **"
+    {
+        "chi" "30秒后开启传送"
+    }
+
+    "** The door has been opened. step on it **"
+    {
+        "chi" "门开了,搞快点"
+    }
+
+    "** The door is closed, there is no way out! **"
+    {
+        "chi" "门已经关了,没出去的路"
+    }
+
+    "** The door is closed. We have no way out! **"
+    {
+        "chi" "门关着,我们没路出去"
+    }
+
+    "** The door of the house has been opened. Retreat **"
+    {
+        "chi" "房子的门已经打开了,撤退"
+    }
+
+    "** The door opened, trying to get in the direction of the light **"
+    {
+        "chi" "门关了,尽量跟着光的方向走"
+    }
+
+    "** The external gate is about to be opened **"
+    {
+        "chi" "外部的门即将打开"
+    }
+
+    "** The game is just beginning **"
+    {
+        "chi" "只不过是个开始"
+    }
+
+    "** The game is over and mankind wins **"
+    {
+        "chi" "游戏结束,人类获得胜利"
+    }
+
+    "** The gate is open. Retreat **"
+    {
+        "chi" "门开了,撤退"
+    }
+
+    "** The guardians will bury you with their lives **"
+    {
+        "chi" "守卫者将会把你们埋葬于此"
+    }
+
+    "** The iron door below is about to open **"
+    {
+        "chi" "下面的铁门即将开启"
+    }
+
+    "** The iron door is open! Retreat **"
+    {
+        "chi" "铁门开了,撤退"
+    }
+
+    "** The left door is open. Retreat **"
+    {
+        "chi" "左边的门开了,撤退"
+    }
+
+    "** The right gate is open. Retreat **"
+    {
+        "chi" "右边的门开了,撤退"
+    }
+
+    "** The road is open. Let's go **"
+    {
+        "chi" "路开了,走吧"
+    }
+
+    "** The road is open. Retreat **"
+    {
+        "chi" "路开了,撤退"
+    }
+
+    "** The switch has been pressed. Retreat **"
+    {
+        "chi" "按钮已按下,撤退"
+    }
+
+    "** The transmitter has 15 seconds to trigger **"
+    {
+        "chi" "传送器还有15秒触发"
+    }
+
+    "** The undead will imprison you here **"
+    {
+        "chi" "你们将被不死之人永生禁锢于此"
+    }
+
+    "** The way forward is blocked. Wait a minute. Give me some time to destroy it **"
+    {
+        "chi" "前面的路被堵住了,等等,需要点时间清理"
+    }
+
+    "** The way into the valley is blocked. We have to find a way to blast it **"
+    {
+        "chi" "进入峡谷的路被堵住了,我们得想办法炸开它"
+    }
+
+    "** There is also a locked switch, which may take some time **"
+    {
+        "chi" "这里同样有个锁住的开关,需要些时间"
+    }
+
+    "** This is the last door. Hold on **"
+    {
+        "chi" "是最后一扇门,坚持住"
+    }
+
+    "** This is? An abandoned fortress **"
+    {
+        "chi" "这里是?一处废弃的堡垒"
+    }
+
+    "** This is? The buildings of Stormwind city left behind before? **"
+    {
+        "chi" "这里是?残余的暴风城建筑?"
+    }
+
+    "** Transfer players who hang up after 20 seconds **"
+    {
+        "chi" "挂机传送20秒后启动"
+    }
+
+    "** Try to blast the boulder in 25 seconds **"
+    {
+        "chi" "尝试爆破,还有25秒"
+    }
+
+    "** Unlock the gate... Hold for 30 seconds **"
+    {
+        "chi" "正在开启...坚持30秒"
+    }
+
+    "** Wait 20 seconds and open the iron door below **"
+    {
+        "chi" "等待20秒"
+    }
+
+    "** Wait 20 seconds to open the channel **"
+    {
+        "chi" "等待20秒,即将开启"
+    }
+
+    "** Wait 25 seconds, hold the zombie **"
+    {
+        "chi" "坚持25秒,守住僵尸"
+    }
+
+    "** Want to leave? Stupid! **"
+    {
+        "chi" "竟然想要离开?愚蠢!!"
+    }
+
+    "** Well done! The switch can be triggered **"
+    {
+        "chi" "好的,开关能触发了"
+    }
+
+    "** Well done, defend the window for 15 seconds **"
+    {
+        "chi" "不错,守住窗户,还有15秒"
+    }
+
+    "** With 20 seconds left, guard until the gate is closed **"
+    {
+        "chi" "还有20秒,大门就要关上了"
+    }
+
+    "** you killed my pet **"
+    {
+        "chi" "你杀掉了我的玩具"
+    }
+
+    "** You need to throw it on the designated altar **"
+    {
+        "chi" "你得把它扔到祭坛上去"
+    }
+
+    "** You only have 270 seconds to enter the abandoned ruins and find the guardian **"
+    {
+        "chi" "你还有270秒进入废墟找到守卫者"
+    }
+
+    "** Zombie side road is open **"
+    {
+        "chi" "僵尸侧路已开启"
+    }
+
+    "** Zombie transmission in 8 seconds **"
+    {
+        "chi" "僵尸8秒后传送"
+    }
+
+    "** Zombies break through the gate, and humans fail **"
+    {
+        "chi" "僵尸突破了大门,人类失败"
+    }
+
+    "** Zombies enter the gate, and humans fail **"
+    {
+        "chi" "僵尸进入了大门,人类失败"
+    }
+
+    "*** 55 seconds left ***"
+    {
+        "chi" "还有55秒"
+    }
+
+    "*** Another locked door, please wait a moment ***"
+    {
+        "chi" "门又关上了,等一会"
+    }
+
+    "*** Hold on for 25 seconds ***"
+    {
+        "chi" "坚持25秒"
+    }
+
+    "*** The last gate will open in 20 seconds ***"
+    {
+        "chi" "最后的门20秒打开"
+    }
+
+    "***Activate transfer in 30 seconds***"
+    {
+        "chi" "传送30秒后开启"
+    }
+
+    "***hold on 20s***"
+    {
+        "chi" "坚持20秒"
+    }
+
+    "***Hold on for 10 seconds***"
+    {
+        "chi" "坚持10秒"
+    }
+
+    "***Hold on for another 20 seconds***"
+    {
+        "chi" "还需要20秒"
+    }
+
+    "***Map Author: Bai Wu, reset by: Shangxian***"
+    {
+        "chi" "地图制作:Bai Wu 由上仙重制"
+    }
+
+    "***Turn on transfer in 45 seconds***"
+    {
+        "chi" "传送45秒后开启"
+    }
+
+    "***you win***"
+    {
+        "chi" "你胜利了"
+    }
+
+    "***Zombie teleportation has 10 seconds left"
+    {
+        "chi" "僵尸传送还有10秒"
+    }
+
+    "**A player has picked up the book**"
+    {
+        "chi" "玩家获得了书本"
+    }
+
+    "**A zombie has speed item**"
+    {
+        "chi" "僵尸偷取了极速"
+    }
+
+    "<-- A player picked up gao da -->"
+    {
+        "chi" "玩家成为了白骑士"
+    }
+
+    "<-- A player picked up the Incendiary Feather Immortal -- >"
+    {
+        "chi" "玩家成为了符华"
+    }
+
+    "<<< 1 >>>"
+    {
+        "chi" "第一关"
+    }
+
+    "<<< 2 >>>"
+    {
+        "chi" "第二关"
+    }
+
+    "<<< 3 >>>"
+    {
+        "chi" "第三关"
+    }
+
+    "<<< 4 >>>"
+    {
+        "chi" "第四关"
+    }
+
+    "<<< 5 >>>"
+    {
+        "chi" "第五关"
+    }
+
+    "<<< 6 >>>"
+    {
+        "chi" "第六关"
+    }
+
+    "<<< Although the reason is not clear, the manipulators behind it will definitely stop us >>>"
+    {
+        "chi" "即使看起来不是很明朗,但背后的操纵者一定会尝试阻止我们"
+    }
+
+    "<<< Although we have left the town temporarily, there are evil spirits bound there >>>"
+    {
+        "chi" "只要我们离开这里,邪恶之灵还会回到这里"
+    }
+
+    "<<< However, we should pay attention to the houses in towns. We do not know when the enemy will launch an attack >>>"
+    {
+        "chi" "不过,我们得小心点,我们不知道敌人何时会发起袭击"
+    }
+
+    "<<< May Lordaeron protect us >>>"
+    {
+        "chi" "愿洛丹伦与我们同在"
+    }
+
+    "<<< May Lordaeron shine on us! >>>"
+    {
+        "chi" "愿洛丹伦保佑我们"
+    }
+
+    "<<< The Ministry has completely collapsed and needs to be reported to Lordaeron urgently >>>"
+    {
+        "chi" "这里已经彻底毁灭,需要立即汇报给洛丹伦"
+    }
+
+    "<<< The roads in the town have been destroyed. There's nothing we can do but continue to the valley >>>"
+    {
+        "chi" "这里的路已经被毁了,我们只能继续前往峡谷"
+    }
+
+    "<<< This is the southwest outpost in Lordaeron,Stormwind Keep >>>"
+    {
+        "chi" "这里是洛丹伦的西南方,暴风城"
+    }
+
+    "<<< Time waits for no one. We need to get out of here as soon as possible >>>"
+    {
+        "chi" "时间不等人,我们得赶紧离开这里"
+    }
+
+    "<<< We stumbled into the storm fortress >>>"
+    {
+        "chi" "我们困在这里了"
+    }
+
+    "<<< We'll cross the valley ahead to find our way to Lordaeron >>>"
+    {
+        "chi" "我们要穿过峡谷,找到回洛丹伦的路"
+    }
+
+    ">> A player has picked up healing <<"
+    {
+        "chi" "玩家获得了治疗"
+    }
+
+    ">> A player picked up lightning <<"
+    {
+        "chi" "玩家获得了闪电"
+    }
+
+    ">> A player picked up soil <<"
+    {
+        "chi" "玩家获得了墙"
+    }
+
+    ">> A player picked up the blizzard <<"
+    {
+        "chi" "玩家获得了暴风雪"
+    }
+
+    ">> A player picked up the circular wind <<"
+    {
+        "chi" "玩家获得了环形风"
+    }
+
+    ">> A player picked up the painted eggshell <<"
+    {
+        "chi" "玩家获得了彩绘蛋壳"
+    }
+
+    ">>One player picked up the wind<<"
+    {
+        "chi" "玩家获得了直线风"
+    }
+
+    "[MapRelay]  Set falldamage to 0.5"
+    {
+        "chi" "地图设置:已设置摔伤"
+    }
+
+}
