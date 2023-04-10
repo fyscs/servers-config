@@ -1,0 +1,465 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "#    1    #"
+    {
+        "chi" "第一关"
+    }
+
+    "#    2    #"
+    {
+        "chi" "第二关"
+    }
+
+    "#    3    #"
+    {
+        "chi" "第三关"
+    }
+
+    "#    4    #"
+    {
+        "chi" "第二关"
+    }
+
+    "#    5    #"
+    {
+        "chi" "第五关"
+    }
+
+    "# FAILED #"
+    {
+        "chi" "你输了, 再接再厉吧! "
+    }
+
+    "# Jump push enables in 30 seconds#"
+    {
+        "chi" "30s后低重力开启"
+    }
+
+    "#10 seconds left#"
+    {
+        "chi" "10s"
+    }
+
+    "#120 Seconds Left..#"
+    {
+        "chi" "剩余120s"
+    }
+
+    "#15 Seconds Left..#"
+    {
+        "chi" "剩余15s"
+    }
+
+    "#180 Seconds Left..#"
+    {
+        "chi" "还剩180s"
+    }
+
+    "#20 seconds left#"
+    {
+        "chi" "剩余20s"
+    }
+
+    "#30 seconds left#"
+    {
+        "chi" "剩余30s"
+    }
+
+    "#30 Seconds Left..#"
+    {
+        "chi" "剩余30s"
+    }
+
+    "#40 seconds left#"
+    {
+        "chi" "剩余40s"
+    }
+
+    "#50 seconds left#"
+    {
+        "chi" "50s"
+    }
+
+    "#60 seconds left#"
+    {
+        "chi" "60s"
+    }
+
+    "#60 Seconds Left..#"
+    {
+        "chi" "60s"
+    }
+
+    "#70 seconds left#"
+    {
+        "chi" "70s"
+    }
+
+    "#ADMIN# Pressed Kill All Button.."
+    {
+        "chi" "管理员处死了全体玩家"
+    }
+
+    "#Boss preparing skill...#"
+    {
+        "chi" "boss正在选取技能..."
+    }
+
+    "#Boss used Blade !#"
+    {
+        "chi" "七彩利刃"
+    }
+
+    "#Boss used Blizzard !#"
+    {
+        "chi" "冰茧星霜"
+    }
+
+    "#Boss used Crystal Rain#"
+    {
+        "chi" "冰天百花葬"
+    }
+
+    "#Boss used fire !#"
+    {
+        "chi" "地狱火"
+    }
+
+    "#Boss used Fire#"
+    {
+        "chi" "灼焰莲华"
+    }
+
+    "#Boss used Heal !#"
+    {
+        "chi" "血继"
+    }
+
+    "#Boss used Ice#"
+    {
+        "chi" "冰冻"
+    }
+
+    "#Boss used Jumper#"
+    {
+        "chi" "终极"
+    }
+
+    "#Boss used Rotating Blade#"
+    {
+        "chi" "试炼之剑"
+    }
+
+    "#Boss used Tempest Wing !#"
+    {
+        "chi" "风暴之翼"
+    }
+
+    "#Boss used Wind#"
+    {
+        "chi" "月天鸿舞"
+    }
+
+    "#Boss used Z_Defend !#"
+    {
+        "chi" "替身防御"
+    }
+
+    "#Boss used Zombie Teleporter#"
+    {
+        "chi" "尸笼"
+    }
+
+    "#Bridge will break.. Fall Back !#"
+    {
+        "chi" "桥会断的..撤退! "
+    }
+
+    "#Defend 15 seconds#"
+    {
+        "chi" "防守15s"
+    }
+
+    "#Defend until teleport activates#"
+    {
+        "chi" "防守直到传送激活"
+    }
+
+    "#Defend until wall break#"
+    {
+        "chi" "防守到墙碎"
+    }
+
+    "#Difficulty set on Dreamin..#"
+    {
+        "chi" "__null__"
+        "blocked" "0"
+    }
+
+    "#Difficulty set on Gris..#"
+    {
+        "chi" "灵感来源-格丽斯-梦之韵-FF系列"
+    }
+
+    "#Difficulty set on Westersand..#"
+    {
+        "chi" "__null__"
+        "blocked" "0"
+    }
+
+    "#Difficulty set on Zombie Mode..#"
+    {
+        "chi" "__null__"
+        "blocked" "0"
+    }
+
+    "#Don't let zombies touch the tower��#"
+    {
+        "chi" "不要让僵尸触碰背后的雕像 !"
+    }
+
+    "#Door opens in 45 seconds#"
+    {
+        "chi" "45s内开门"
+    }
+
+    "#Door will open in 15 seconds..#"
+    {
+        "chi" "大门将在15s后打开"
+    }
+
+    "#Dreamin explodes in 10 seconds#"
+    {
+        "chi" "10s内爆炸"
+    }
+
+    "#Dreaming explodes in 45 seconds�� defend!#"
+    {
+        "chi" "45s内核平, 继续防御!"
+    }
+
+    "#Elevator leave in 5 secounds left..#"
+    {
+        "chi" "电梯还有5s离开"
+    }
+
+    "#Elevator leaves  in 10 seconds#"
+    {
+        "chi" "电梯还有10s离开"
+    }
+
+    "#Elevator leaves in 25 seconds#"
+    {
+        "chi" "电梯还有25s离开"
+    }
+
+    "#Elevator leaves in 30 seconds#"
+    {
+        "chi" "电梯还有30s离开"
+    }
+
+    "#FALL BACK#"
+    {
+        "chi" "撤退!"
+    }
+
+    "#Floor breaks in 15 seconds#"
+    {
+        "chi" "地板15s后破碎"
+    }
+
+    "#Guardians will protect you..#"
+    {
+        "chi" "守护者会永远保护你!"
+    }
+
+    "#Human victory in 240 seconds..#"
+    {
+        "chi" "人类将在240s后胜利"
+    }
+
+    "#Last defend for 45 seconds#"
+    {
+        "chi" "防守最后45s"
+    }
+
+    "#Map Idea - ze_gris , ze_dreamin , ze_ffxii_westersand#"
+    {
+        "chi" "地图灵感来自-格丽斯-梦之韵-FF系列"
+    }
+
+    "#Mapper - sweetS / Special Thanks - Reflelia , Airvulpes , p0p , kune / Particle - Airvulpes#"
+    {
+        "chi" "Mapper - sweetS / Special Thanks - Reflelia , Airvulpes , p0p , kune / Particle - Airvulpes"
+    }
+
+    "#Nade do more Damage#"
+    {
+        "chi" "手雷能造成更多伤害"
+    }
+
+    "#Nade do more Damage..#"
+    {
+        "chi" "手雷将造成更多的伤害..."
+    }
+
+    "#Now you infinite ammo... defend#"
+    {
+        "chi" "现在你拥有无限弹药...开枪!!"
+    }
+
+    "#Passage opens in 30 seconds#"
+    {
+        "chi" "通道在30s内打开"
+    }
+
+    "#Player picked up Earth item#"
+    {
+        "chi" "僵尸拾取了[zm]光炮"
+    }
+
+    "#Player picked up fire item#"
+    {
+        "chi" "一名玩家拾取了火"
+    }
+
+    "#Player picked up heal item#"
+    {
+        "chi" "一名玩家拾取了奶"
+    }
+
+    "#Player picked up ice item#"
+    {
+        "chi" "玩家拾取了冰"
+    }
+
+    "#Player picked up wind item#"
+    {
+        "chi" "玩家拾取了风"
+    }
+
+    "#Prepare To Die!!!#"
+    {
+        "chi" "准备去屎!!!"
+    }
+
+    "#Teleport activates in 120sec..#"
+    {
+        "chi" "120s激活传送"
+    }
+
+    "#Teleport activates in 30sec..#"
+    {
+        "chi" "30s激活传送"
+    }
+
+    "#Teleport activates in 5 seconds#"
+    {
+        "chi" "5s内传送激活"
+    }
+
+    "#Teleport activates in 5sec..#"
+    {
+        "chi" "还有5s激活传送..."
+    }
+
+    "#Teleport activates in 60sec..#"
+    {
+        "chi" "还有60s激活传送..."
+    }
+
+    "#Teleport activates in 90sec..#"
+    {
+        "chi" "还有90s激活传送..."
+    }
+
+    "#Teleport enable in 5 secounds left#"
+    {
+        "chi" "还剩5s激活传送"
+    }
+
+    "#Teleport enables in 30 seconds�� Defend!#"
+    {
+        "chi" "30s 继续防守!"
+    }
+
+    "#Teleporter enable in 5 seconds#"
+    {
+        "chi" "传送还剩5s"
+    }
+
+    "#Thank you for helping me and playing this map.. Enjoy#"
+    {
+        "chi" "感谢每一个游玩这张地图的人...祝玩得开心!"
+    }
+
+    "#Thanks to ZombieDen, Rss Server#"
+    {
+        "chi" "感谢Rss僵尸逃跑社区"
+    }
+
+    "#This is last defend�� ! Defend for the win!#"
+    {
+        "chi" "这将是最后一次防守! 勇士们挺住 !"
+    }
+
+    "#What the fuck!? The bomb didn't work.. wait some more time!#"
+    {
+        "chi" "卧槽! ?炸弹没有爆炸...再等一段时间!"
+    }
+
+    "#You won difficulty Dreamin..#"
+    {
+        "chi" "__null__"
+        "blocked" "0"
+    }
+
+    "#You won difficulty Gris..#"
+    {
+        "chi" "__null__"
+        "blocked" "0"
+    }
+
+    "#You won difficulty Westersand..#"
+    {
+        "chi" "__null__"
+        "blocked" "0"
+    }
+
+    "#ze_copy_escape#"
+    {
+        "chi" "地图:复制逃亡 汉化:小鱼sama,大雪茄@风云社"
+    }
+
+    "***Zombie picked up Gravity***"
+    {
+        "chi" "僵尸拾取了[zm]黑洞"
+    }
+
+    "***Zombie picked up Nuke***"
+    {
+        "chi" "僵尸拾取了[zm]核弹"
+    }
+
+    "***Zombie picked up RailGun***"
+    {
+        "chi" "僵尸拾取了[zm]光炮"
+    }
+
+    "***Zombie picked up Zombie Heal***"
+    {
+        "chi" "僵尸拾取了[zm]治疗"
+    }
+
+}
