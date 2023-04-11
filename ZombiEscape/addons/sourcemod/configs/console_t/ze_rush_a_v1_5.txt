@@ -1,0 +1,207 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "**Map by R1cko27**"
+    {
+        "chi" "地图作者: R1cko27  汉化:poi-@風雲社"
+    }
+
+    "**Hold 15 seconds**"
+    {
+        "chi" "大门还有15秒开启"
+    }
+     "**You didn't have time to pass the laser**"
+    {
+        "chi" "你没有在规定时间内通过考验"
+    }
+    "**Lasers are disabled**"
+    {
+        "chi" "刀型矩阵已停止运转"
+    }
+
+    "**Zombie tp at 20 seconds**"
+    {
+        "chi" "僵尸于20秒后进行全体传送"
+    }
+
+    "**Hold 25 seconds**"
+    {
+        "chi" "大门还有25秒开启"
+    }
+
+    "**Defend 20 seconds**"
+    {
+        "chi" "请保持火力防御20秒"
+    }
+
+    "**Hold 30 seconds**"
+    {
+        "chi" "门还有30秒开启"
+    }
+
+    "**Defend 15 seconds**"
+    {
+        "chi" "请保持火力防御15秒"
+    }
+    "**You Failed**"
+    {
+        "chi" "你们失败了"
+    }
+
+    "***LASER GUN ITEM PICKED UP***"
+    {
+        "chi" "人类神器刀刃已获得"
+        "blocked"    "1"
+    }
+
+    "**Hold 10 seconds**"
+    {
+        "chi" "大门10秒后开启"
+    }
+
+    "**You have 15 seconds**"
+    {
+        "chi" "你们有15秒时间打败高达"
+    }
+
+    "**Round Failed**"
+    {
+        "chi" "高达战胜所有人"
+    }
+
+    "**The bridge will break in 15 seconds**"
+    {
+        "chi" "大桥降在15秒后断裂"
+    }
+
+    "**Human have turned off the trains!**"
+    {
+        "chi" "人类关闭了列车刀机关"
+    }
+    "***PUSH ITEM PICKED UP***"
+    {
+        "chi" "人类神器推力已拾取"
+        "blocked"    "1"
+    }
+
+    "**All tp at 10 seconds**"
+    {
+        "chi" "所有人10秒后传送"
+    }
+
+    "**Hold 45  seconds**"
+    {
+        "chi" "防守45秒"
+    }
+
+    "**Defend zombie train**"
+    {
+        "chi" "防守僵尸列车"
+    }
+
+    "**Find the right door**"
+    {
+        "chi" "给我点时间找一下正确的门!"
+    }
+
+    "*** F%&K, THE PATH IS BLOCKED... ***"
+    {
+        "chi" "不对劲,道路被堵住了"
+    }
+
+    "*** ... WE NEED TO FIND ANOTHER WAY ***"
+    {
+        "chi" "我们需要找到另外一种方法进入"
+    }
+
+    "*** ONE OF THE DOORS UNLOCK SOON ***"
+    {
+        "chi" "别急,有一扇门马上就会被我打开"
+    }
+
+    "*** GIVE ME SOME SECONDS TO FIND THE CORRECT KEY ***"
+    {
+        "chi" "在坚持一下,马上,马上,马上可以了!"
+    }
+
+    "*** THIS LOOKS LIKE A DEAD END... ***"
+    {
+        "chi" "这好像看起来是一条死胡同"
+    }
+
+    "*** TRY TO SETUP A PHONE CONNECTION ***"
+    {
+        "chi" "或许我们可以靠电话与外界沟通"
+    }
+
+    "**Wait 32 seconds**"
+    {
+        "chi" "等待32秒"
+    }
+
+    "**Pick up the push gun**"
+    {
+        "chi" "激光推力枪已被拾取"
+        "blocked"    "1"
+    }
+
+    "**If zombies come to the phone you will die!!!**"
+    {
+        "chi" "如果僵尸来接电话,你们就死定了!"
+    }
+
+    "***PUSH GUN ITEM PICKED UP***"
+    {
+        "chi" "快捡起激光推力枪"
+    }
+
+    "**oh my god, fucking lasers**"
+    {
+        "chi" "我的老baby尽然四面来刀!这下真嘎了!"
+    }
+
+    "**Rear laser!!!**"
+    {
+        "chi" "后边蓝色刀来了!"
+    }
+
+    "**Right laser!!!**"
+    {
+        "chi" "右边蓝色刀来了!"
+    }
+
+    "**Front laser!!!**"
+    {
+        "chi" "前面蓝色刀来了!"
+    }
+
+    "**Left laser!!!**"
+    {
+        "chi" "左边蓝色刀来了!"
+    }
+
+    "**Hold 35 seconds**"
+    {
+        "chi" "防守35秒!"
+    }
+
+    "**Keep defending the phone!!!**"
+    {
+        "chi" "最后再坚持下!保护电话!"
+    }
+
+    "**The teleport has opened**"
+    {
+        "chi" "传送已打开!!!!!"
+    }
+}
