@@ -10,708 +10,1090 @@
     // "cleartimer" // 清除所有倒计时
     // "countdown"  // 添加特殊的独立的倒计时
 
-    "***END BUTTON PRESSED GENERATING NEXT MAP IN 5 SECONDS***"
+    "***END BUTTON PRESSED - GENERATING NEXT MAP IN 5 SECONDS***"
     {
         "chi"        "下关将在5秒后出现"
     }
+
     "***GENERATING NEXT MAP***"
     {
         "chi"        "LUFFAREN正在选取下一关地形"
     }
-    "***END BUTTON PRESSED GENERATING NEXT MAP IN 8 SECONDS***"
+
+    "***END FOUND - GENERATING NEXT MAP IN 5 SECONDS***"
+    {
+        "chi"        "下关将在5秒后出现"
+    }
+
+    "***END BUTTON PRESSED - GENERATING NEXT MAP IN 8 SECONDS***"
     {
         "chi"        "下关将在8秒后出现"
     }
-    "***END BUTTON PRESSED GENERATING NEXT MAP IN 10 SECONDS***"
+
+    "***END FOUND - GENERATING NEXT MAP IN 8 SECONDS***"
     {
-        "chi"        "下关将在10秒后出现"
+        "chi"        "下关将在8秒后出现"
     }
-    "***END FOUND GENERATING NEXT MAP IN 15 SECONDS***"
-    {
-        "chi"        "下关将在15秒后出现"
-    }
-    "healorb spawned due to not existing"
+
+    "heal-orb spawned due to not existing"
     {
         "chi"        "还没有刷奶神器,这关的其中一个神器必定是奶"
     }
+
     "[CLIMB ENDING] WE MUST CLIMB THE TOWER"
     {
         "chi"        "[爬塔结局]我们必须爬上这个塔"
     }
+
     "[CLIMB ENDING] ONLY THE VERY TOP WILL BE SAFE"
     {
         "chi"        "[爬塔结局]只有到塔顶才能算安全"
     }
+
     "[CLIMB ENDING] NOW GO!"
     {
         "chi"        "[爬塔结局]现在去爬这座塔,为我们胜利做出贡献"
     }
+
     "[CLIMB ENDING] SURVIVE FOR 100s"
     {
         "chi"        "[爬塔结局]生存一百秒"
     }
+
     "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 80s"
     {
         "chi"        "[爬塔结局]塔顶的梯子将在八十秒后消失"
     }
+
     "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 60s"
     {
-        "chi"        "[爬塔结局]塔顶的梯子将在60秒后消失"
+        "chi"        "[爬塔结局]塔顶的梯子将在六十秒后消失"
     }
+
     "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 30s"
     {
-        "chi"        "[爬塔结局]塔顶的梯子将在30秒后消失"
+        "chi"        "[爬塔结局]塔顶的梯子将在三十秒后消失"
     }
+
     "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 10s"
     {
         "chi"        "[爬塔结局]塔顶的梯子将在10秒后消失"
     }
+
     "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 5s"
     {
         "chi"        "[爬塔结局]塔顶的梯子将在5秒后消失"
     }
+
     "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 4s"
     {
         "chi"        "[爬塔结局]塔顶的梯子将在4秒后消失"
     }
+
     "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 3s"
     {
         "chi"        "[爬塔结局]塔顶的梯子将在3秒后消失"
     }
+
     "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 2s"
     {
         "chi"        "[爬塔结局]塔顶的梯子将在2秒后消失"
     }
+
     "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 1s"
     {
         "chi"        "[爬塔结局]塔顶的梯子将在1秒后消失"
     }
+
     "[CLIMB ENDING] THE ANGELS WILL DIE IN 30s"
     {
-        "chi"        "[爬塔结局]撑住最后30秒"
+        "chi"        "[爬塔结局]撑住最后三十秒"
     }
+
     "[CLIMB ENDING] THE ANGELS WILL DIE IN 20s"
     {
-        "chi"        "[爬塔结局]撑住最后20秒"
+        "chi"        "[爬塔结局]撑住最后二十秒"
     }
+
     "[CLIMB ENDING] THE ANGELS WILL DIE IN 10s"
     {
         "chi"        "[爬塔结局]撑住最后10秒"
     }
+
     "[CLIMB ENDING] THE ANGELS WILL DIE IN 5s"
     {
         "chi"        "[爬塔结局]撑住最后5秒"
     }
+
     "[CLIMB ENDING] THE ANGELS WILL DIE IN 4s"
     {
         "chi"        "[爬塔结局]撑住最后4秒"
     }
+
     "[CLIMB ENDING] THE ANGELS WILL DIE IN 3s"
     {
         "chi"        "[爬塔结局]撑住最后3秒"
     }
+
     "[CLIMB ENDING] THE ANGELS WILL DIE IN 2s"
     {
         "chi"        "[爬塔结局]撑住最后2秒"
     }
+
     "[CLIMB ENDING] THE ANGELS WILL DIE IN 1s"
     {
         "chi"        "[爬塔结局]撑住最后1秒"
     }
+
     "[CLIMB ENDING] THE ANGELS ARE DEAD"
     {
         "chi"        "[爬塔结局]谢谢你对团队做出的贡献"
     }
+
     "[CLIMB ENDING] RESPAWN IS DISABLED"
     {
         "chi"        "[爬塔结局]僵尸出生点已摧毁"
     }
+
     "[CLIMB ENDING] YOU WON!"
     {
         "chi"        "[爬塔结局]你赢了!!!"
     }
+
     "[CLIMB ENDING] YOU LOST!"
     {
         "chi"        "[爬塔结局]你输了!!!"
     }
+
     "[HUNT ENDING]"
     {
         "chi"        "[猎杀结局]"
     }
+
     "[HUNT ENDING] zombies have low HP - kill them all!"
     {
         "chi"        "[猎杀结局]僵尸低血量,用你一切方法杀死它们"
     }
+
     "[HUNT ENDING] the human stage-end TP brings you back to the stage-start (with 5s infect-immunity)"
     {
         "chi"        "[猎杀结局]在关卡最后,人类可以做传送门到僵尸的后面(传送后五秒无敌)"
     }
+
     "[HUNT ENDING] YOU HAVE 60s TO KILL THE ZOMBIES"
     {
         "chi"        "[猎杀结局]你有六十秒杀死僵尸"
     }
+
     "[HUNT ENDING] YOU HAVE 60s LEFT TO KILL THE ZOMBIES"
     {
         "chi"        "[猎杀结局]你还有60秒"
     }
+
     "[HUNT ENDING] IF THE TIME RUNS OUT YOU LOSE"
     {
         "chi"        "[猎杀结局]如果时间结束了,你会输掉"
     }
+
     "[HUNT ENDING] RESPAWN IS DISABLED"
     {
         "chi"        "[猎杀结局]僵尸传送点已被摧毁"
     }
+
     "[HUNT ENDING] YOU HAVE 30s LEFT TO KILL THE ZOMBIES"
     {
         "chi"        "[猎杀结局]你还有30秒"
     }
+
     "[HUNT ENDING] YOU HAVE 10s LEFT TO KILL THE ZOMBIES"
     {
         "chi"        "[猎杀结局]你还有10秒"
     }
+
     "[HUNT ENDING] YOU HAVE 5s LEFT TO KILL THE ZOMBIES"
     {
         "chi"        "[猎杀结局]你还有5秒"
     }
+
     "[HUNT ENDING] YOU HAVE 4s LEFT TO KILL THE ZOMBIES"
     {
         "chi"        "[猎杀结局]你还有4秒"
     }
+
     "[HUNT ENDING] YOU HAVE 3s LEFT TO KILL THE ZOMBIES"
     {
         "chi"        "[猎杀结局]你还有3秒"
     }
+
     "[HUNT ENDING] YOU HAVE 2s LEFT TO KILL THE ZOMBIES"
     {
         "chi"        "[猎杀结局]你还有2秒"
     }
+
     "[HUNT ENDING] YOU HAVE 1s LEFT TO KILL THE ZOMBIES"
     {
         "chi"        "[猎杀结局]你还有1秒"
     }
+
     "[HUNT ENDING] YOU RAN OUT OF TIME - YOU LOSE!"
     {
         "chi"        "[猎杀结局]时间结束,你输了"
     }
+
     "[HUNT ENDING] YOU WON!"
     {
         "chi"        "[猎杀结局]你赢了!!!"
     }
+
     "[CONFLICT ENDING]"
     {
         "chi"        "[战旗结局]"
     }
+
     "[CONFLICT ENDING] prepare for battle"
     {
         "chi"        "[战旗结局]双方做对抗,人类开启免抓"
     }
+
     "[CONFLICT ENDING] gather items to defend your flag"
     {
         "chi"        "[战旗结局]僵尸碰到旗子把旗子降下来,算僵尸胜利"
     }
+
     "[CONFLICT ENDING] if the zombies capture the flag you lose"
     {
         "chi"        "[战旗结局]人类依靠神器守住旗子"
     }
+
     "[CONFLICT ENDING] survive for ~60s"
     {
         "chi"        "[战旗结局]人类需要守住旗子六十秒才算胜利"
     }
+
     "[CONFLICT ENDING] YOU WON!"
     {
         "chi"        "[战旗结局]你赢了!!!"
     }
+
     "[CONFLICT ENDING] YOU LOST!"
     {
         "chi"        "[战旗结局]你输了!!!"
     }
+
     "[BRIDGE ENDING]"
     {
         "chi"        "[大桥结局]"
     }
+
     "[BRIDGE ENDING] HOLD THE BRIDGE FOR 45s"
     {
         "chi"        "[大桥结局]守住大桥四十五秒"
     }
+
     "[BRIDGE ENDING] BRIDGE CRUMBLING IN 30s"
     {
-        "chi"        "[大桥结局]桥将在30秒后崩塌"
+        "chi"        "[大桥结局]桥将在三十秒后崩塌"
     }
+
     "[BRIDGE ENDING] BRIDGE CRUMBLING IN 10s"
     {
         "chi"        "[大桥结局]桥将在10秒后崩塌"
     }
+
     "[BRIDGE ENDING] BRIDGE CRUMBLING IN 5s"
     {
         "chi"        "[大桥结局]桥将在5秒后崩塌"
     }
+
     "[BRIDGE ENDING] BRIDGE CRUMBLING IN 4s"
     {
         "chi"        "[大桥结局]桥将在4秒后崩塌"
     }
+
     "[BRIDGE ENDING] BRIDGE CRUMBLING IN 3s"
     {
         "chi"        "[大桥结局]桥将在3秒后崩塌"
     }
+
     "[BRIDGE ENDING] BRIDGE CRUMBLING IN 2s"
     {
         "chi"        "[大桥结局]桥将在2秒后崩塌"
     }
+
     "[BRIDGE ENDING] BRIDGE CRUMBLING IN 1s"
     {
         "chi"        "[大桥结局]桥将在1秒后崩塌"
     }
+
     "[BRIDGE ENDING] THE BRIDGE IS STARTING TO CRUMBLE"
     {
         "chi"        "[大桥结局]大桥开始崩塌"
     }
+
     "[BRIDGE ENDING] [BRIDGE ENDING] RESPAWN IS DISABLED"
     {
         "chi"        "[大桥结局]僵尸出生点已摧毁"
     }
+
     "[BRIDGE ENDING] [BRIDGE ENDING] DEFEND!"
     {
         "chi"        "[大桥结局]继续守住!!!"
     }
+
     "[BRIDGE ENDING] YOU WON!"
     {
         "chi"        "[大桥结局]你赢了!!!"
     }
+
     "[BRIDGE ENDING] YOU LOST!"
     {
         "chi"        "[大桥结局]你输了!!!"
     }
+
     "[RACE ENDING]"
     {
         "chi"        "[卡丁车结局]"
     }
+
     "[RACE ENDING] prepare to race..."
     {
         "chi"        "[卡丁车结局]用卡丁车决出胜负"
     }
+
     "[RACE ENDING] survive for 120s (or z-team-death) to win"
     {
         "chi"        "[卡丁车结局]生存两分钟(或者等所有僵尸掉下去)"
     }
+
     "[RACE ENDING] zombies jihad-explode if they touch you"
     {
         "chi"        "[卡丁车结局]僵尸的卡丁车会引爆人类的卡丁车"
     }
+
     "[RACE ENDING] drive fast to stay away from them"
     {
         "chi"        "[卡丁车结局]人类一定要比僵尸开的快"
     }
+
     "[RACE ENDING] may only the best racist win!"
     {
         "chi"        "[卡丁车结局]争做最厉害的那一位吧!!!"
     }
+
     "[RACE ENDING] HUMAN-WIN IN 80s"
     {
-        "chi"        "[卡丁车结局]人类还有80秒胜利"
+        "chi"        "[卡丁车结局]人类还有八十秒胜利"
     }
+
     "[RACE ENDING] HUMAN-WIN IN 60s"
     {
-        "chi"        "[卡丁车结局]人类还有60秒胜利"
+        "chi"        "[卡丁车结局]人类还有六十秒胜利"
     }
+
     "[RACE ENDING] HUMAN-WIN IN 30s"
     {
-        "chi"        "[卡丁车结局]人类还有30秒胜利"
+        "chi"        "[卡丁车结局]人类还有三十秒胜利"
     }
+
     "[RACE ENDING] HUMAN-WIN IN 10s"
     {
         "chi"        "[卡丁车结局]人类还有10秒胜利"
     }
+
     "[RACE ENDING] HUMAN-WIN IN 5s"
     {
         "chi"        "[卡丁车结局]人类还有5秒胜利"
     }
+
     "[RACE ENDING] HUMAN-WIN IN 4s"
     {
         "chi"        "[卡丁车结局]人类还有4秒胜利"
     }
+
     "[RACE ENDING] HUMAN-WIN IN 3s"
     {
         "chi"        "[卡丁车结局]人类还有3秒胜利"
     }
+
     "[RACE ENDING] HUMAN-WIN IN 2s"
     {
         "chi"        "[卡丁车结局]人类还有2秒胜利"
     }
+
     "[RACE ENDING] HUMAN-WIN IN 1s"
     {
         "chi"        "[卡丁车结局]人类还有1秒胜利"
     }
+
     "[RACE ENDING] YOU WON!"
     {
         "chi"        "[卡丁车结局]你赢了!!!"
     }
+
     "[RACE ENDING] YOU ARE TRUE RACISTS!"
     {
         "chi"        "[卡丁车结局]你是精英中的精英!!!"
     }
+
     "[RACE ENDING] YOU LOST!"
     {
         "chi"        "[卡丁车结局]你输了!!!"
     }
+
     "[RISE ENDING]"
     {
         "chi"        "[盗墓空间结局]"
     }
+
     "[RISE ENDING] DEFEND YOUR WAY TO THE TOP"
     {
         "chi"        "[盗墓空间结局]守住你来的路"
     }
+
     "[RISE ENDING] THE VERY END IS YOUR SAFE HAVEN"
     {
         "chi"        "[盗墓空间结局]尽头是您的避风港"
     }
+
     "[RISE ENDING] THE HILL WILL GRADUALLY COLLAPSE"
     {
         "chi"        "[盗墓空间结局]世界将会崩塌"
     }
+
     "[RISE ENDING] HOLD BACK THE ZOMBIES TO SURVIVE"
     {
         "chi"        "[盗墓空间结局]让僵尸在这个世界里一起摧毁"
     }
+
     "[RISE ENDING] GOOD LUCK"
     {
         "chi"        "[盗墓空间结局]祝你好运"
     }
+
     "[RISE ENDING] YOU WON!"
     {
         "chi"        "[盗墓空间结局]你赢了!!!"
     }
+
     "[RISE ENDING] YOU LOST!"
     {
         "chi"        "[盗墓空间结局]你输了!!!"
     }
+
     "[ASCEND ENDING]"
     {
         "chi"        "[飞升结局]"
     }
+
     "[ASCEND ENDING] YOU WILL SOON ASCEND TO THE HEAVENS"
     {
         "chi"        "[飞升结局]很快就会迎来天堂的祝福"
     }
+
     "[ASCEND ENDING] removing human moonboost item(s)"
     {
         "chi"        "[飞升结局]人类神器弹跳已被摧毁"
     }
+
     "[ASCEND ENDING] SURVIVE FOR 60s"
     {
         "chi"        "[飞升结局]生存一分钟"
     }
+
     "[ASCEND ENDING] ASCENSION IN 60s"
     {
-        "chi"        "[飞升结局]将在60秒后飞升"
+        "chi"        "[飞升结局]将在六十秒后飞升"
     }
+
     "[ASCEND ENDING] 2 Z-moonboost + 8 Z-flight items spawned"
     {
         "chi"        "[飞升结局]两个僵尸神器弹跳和八个僵尸神器飞行在出生点"
     }
+
     "[ASCEND ENDING] (Available at TP/start of previous stage)"
     {
         "chi"        "[飞升结局]可以在开始的地方使用"
     }
+
     "[ASCEND ENDING] ASCENSION IN 30s"
     {
-        "chi"        "[飞升结局]将在30秒后飞升"
+        "chi"        "[飞升结局]将在三十秒后飞升"
     }
+
     "[ASCEND ENDING] ASCENSION IN 10s"
     {
         "chi"        "[飞升结局]将在10秒后飞升"
     }
+
     "[ASCEND ENDING] ASCENSION IN 5s"
     {
         "chi"        "[飞升结局]将在5秒后飞升"
     }
+
     "[ASCEND ENDING] ASCENSION IN 4s"
     {
         "chi"        "[飞升结局]将在4秒后飞升"
     }
+
     "[ASCEND ENDING] ASCENSION IN 3s"
     {
         "chi"        "[飞升结局]将在3秒后飞升"
     }
+
     "[ASCEND ENDING] ASCENSION IN 2s"
     {
         "chi"        "[飞升结局]将在2秒后飞升"
     }
+
     "[ASCEND ENDING] ASCENSION IN 1s"
     {
         "chi"        "[飞升结局]将在1秒后飞升"
     }
+
     "[ASCEND ENDING] THE ASCENSION HAS BEGUN!"
     {
         "chi"        "[飞升结局]天堂的祝福(飞升)已经开始"
     }
+
     "[ASCEND ENDING] 1 HUMAN ASCENDED - SOLO WIN!"
     {
         "chi"        "[飞升结局]只有一个人类飞升了solooooooooooo"
     }
+
     "[ASCEND ENDING] YOU FAILED DURING ASCENSION - YOU LOSE!"
     {
         "chi"        "[飞升结局]你没有守住,你输了!!!"
     }
+
     "[FINALE] elevator leaves in 60s"
     {
         "chi"        "电梯还有60秒启动"
     }
+
     "[FINALE] elevator leaves in 30s"
     {
         "chi"        "电梯还有30秒启动"
     }
+
     "[FINALE] elevator leaves in 5s"
     {
         "chi"        "电梯还有5秒启动"
     }
+
     "[FINALE] elevator is leaving"
     {
         "chi"        "电梯启动"
     }
+
     "[FINALE] watch out from above!"
     {
         "chi"        "小心头顶的落石"
     }
+
     "***ESCAPE***"
     {
         "chi"        "有人触发到了小关的结局"
     }
+
     "[FINALE] YOU REACHED THE END"
     {
         "chi"        "你到达了终点"
     }
+
     "[FINALE] THE TOP OF THE PYRAMID IS YOUR ESCAPE"
     {
         "chi"        "平台的顶端是你最后的守点"
     }
+
     "[FINALE] DEFEND IT WITH YOUR LIFE"
     {
         "chi"        "为了你自己,在这里防守住"
     }
+
     "[FINALE] DEFEND FOR 40s"
     {
         "chi"        "平台还有40秒上升"
     }
+
     "[FINALE] RISING IN 30s"
     {
         "chi"        "平台还有30秒上升"
     }
+
     "[FINALE] RISING IN 10s"
     {
         "chi"        "平台还有10秒上升"
     }
+
     "[FINALE] RISING IN 5s"
     {
         "chi"        "平台还有5秒上升"
     }
+
     "[FINALE] RISING IN 4s"
     {
         "chi"        "平台还有4秒上升"
     }
+
     "[FINALE] RISING IN 3s"
     {
         "chi"        "平台还有3秒上升"
     }
+
     "[FINALE] RISING IN 2s"
     {
         "chi"        "平台还有2秒上升"
     }
+
     "[FINALE] RISING IN 1s"
     {
         "chi"        "平台还有1秒上升"
     }
+
     "[FINALE] RISING"
     {
         "chi"        "感谢的你游玩,作者:Luffren翻译:zib1"
     }
+
     "WARNING: HARSH INSTAKILLING HAZPLANE"
     {
         "chi"        "警告红色区域将会猝死"
     }
+
     "[BUNKER ENDING] HOLD OUT FOR 85s"
     {
         "chi"        "[地堡结局]守住八十五秒"
     }
+
     "[BUNKER ENDING] DEFEND THE BUNKER WITH YOUR LIFE"
     {
         "chi"        "[地堡结局]在地堡里守住(僵尸进来会变成一千血)"
     }
+
     "[BUNKER ENDING] THIS IS YOUR LAST STAND"
     {
         "chi"        "[地堡结局]这是你最后一战了把握好机会"
     }
+
     "[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 60s"
     {
-        "chi"        "[地堡结局]门还有60秒关闭"
+        "chi"        "[地堡结局]门还有六十秒关闭"
     }
+
     "[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 30s"
     {
-        "chi"        "[地堡结局]门还有30秒关闭"
+        "chi"        "[地堡结局]门还有三十秒关闭"
     }
+
     "[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 10s"
     {
         "chi"        "[地堡结局]门还有10秒关闭"
     }
+
     "[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 5s"
     {
         "chi"        "[地堡结局]门还有5秒关闭"
     }
+
     "[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 4s"
     {
         "chi"        "[地堡结局]门还有4秒关闭"
     }
+
     "[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 3s"
     {
         "chi"        "[地堡结局]门还有3秒关闭"
     }
+
     "[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 2s"
     {
         "chi"        "[地堡结局]门还有2秒关闭"
     }
+
     "[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 1s"
     {
         "chi"        "[地堡结局]门还有1秒关闭"
     }
+
     "[BUNKER ENDING] THE OUTSIDE IS STARTING TO CRUMBLE"
     {
         "chi"        "[地堡结局]地堡外开始崩塌"
     }
+
     "[BUNKER ENDING] YOU WON!"
     {
         "chi"        "[地堡结局]你赢了!!!"
     }
+
     "[BUNKER ENDING] YOU LOST!"
     {
         "chi"        "[地堡结局]你输了!!!"
     }
+
     "[INFINITE FINALE] YOU CHECKED OUT AT 10 LEVELS"
     {
         "chi"        "[无尽关]你过了十个小关"
     }
+
     "[INFINITE FINALE] YOU CHECKED OUT AT 11 LEVELS"
     {
         "chi"        "[无尽关]你过了十一个小关"
     }
+
     "[INFINITE FINALE] YOU CHECKED OUT AT 12 LEVELS"
     {
         "chi"        "[无尽关]你过了十二个小关"
     }
+
     "[INFINITE FINALE] YOU CHECKED OUT AT 13 LEVELS"
     {
         "chi"        "[无尽关]你过了十三个小关"
     }
+
     "[INFINITE FINALE] YOU CHECKED OUT AT 14 LEVELS"
     {
         "chi"        "[无尽关]你过了十四个小关"
     }
+
     "[INFINITE FINALE] YOU CHECKED OUT AT 15 LEVELS"
     {
         "chi"        "[无尽关]你过了十五个小关"
     }
+
     "[INFINITE FINALE] YOU CHECKED OUT AT 16 LEVELS"
     {
         "chi"        "[无尽关]你过了十六个小关"
     }
+
     "[INFINITE FINALE] YOU CHECKED OUT AT 17 LEVELS"
     {
         "chi"        "[无尽关]你过了十七个小关"
     }
+
     "[INFINITE FINALE] YOU CHECKED OUT AT 18 LEVELS"
     {
         "chi"        "[无尽关]你过了十八个小关"
     }
+
     "[INFINITE FINALE] YOU CHECKED OUT AT 19 LEVELS"
     {
         "chi"        "[无尽关]你过了十九个小关"
     }
+
     "[INFINITE FINALE] YOU CHECKED OUT AT 20 LEVELS"
     {
         "chi"        "[无尽关]你过了二十个小关"
     }
+
     "[INFINITE FINALE] YOU CHECKED OUT AT 21 LEVELS"
     {
         "chi"        "[无尽关]你过了二十一个小关"
     }
+
     "[INFINITE FINALE] elevator leaves in 60s"
     {
         "chi"        "[无尽关]电梯将在60秒后启动"
     }
+
     "[INFINITE FINALE] elevator leaves in 30s"
     {
         "chi"        "[无尽关]电梯将在30秒后启动"
     }
+
     "[INFINITE FINALE] elevator leaves in 10s"
     {
         "chi"        "[无尽关]电梯将在10秒后启动"
     }
+
     "[INFINITE FINALE] elevator leaves in 5s"
     {
         "chi"        "[无尽关]电梯将在5秒后启动"
     }
+
     "[INFINITE FINALE] elevator is leaving"
     {
         "chi"        "[无尽关]电梯启动"
     }
+
     "[INFINITE FINALE] prepare for the end"
     {
         "chi"        "[无尽关]为了这一把的胜利,请尽你所能,为团队做出贡献"
     }
+
     "[INFINITE FINALE] watch out from above!"
     {
         "chi"        "[无尽关]小心头顶的落石"
     }
+
     "[INFINITE FINALE] YOU REACHED THE END"
     {
         "chi"        "[无尽关]你到达了终点"
     }
+
     "[INFINITE FINALE] THE TOP OF THE PYRAMID IS YOUR ESCAPE"
     {
         "chi"        "[无尽关]平台的顶端是你最后的守点"
     }
+
     "[INFINITE FINALE] DEFEND IT WITH YOUR LIFE"
     {
         "chi"        "[无尽关]为了你自己,守住你来的路"
     }
+
     "[INFINITE FINALE] DEFEND FOR 40s"
     {
         "chi"        "[无尽关]守住四十秒"
     }
+
     "[INFINITE FINALE] RISING IN 30s"
     {
         "chi"        "[无尽关]平台30秒后上升"
     }
+
     "[INFINITE FINALE] RISING IN 20s"
     {
         "chi"        "[无尽关]平台20秒后上升"
     }
+
     "[INFINITE FINALE] RISING IN 10s"
     {
         "chi"        "[无尽关]平台10秒后上升"
     }
+
     "[INFINITE FINALE] RISING IN 5s"
     {
         "chi"        "[无尽关]平台5秒后上升"
     }
+
     "[INFINITE FINALE] RISING IN 4s"
     {
         "chi"        "[无尽关]平台4秒后上升"
     }
+
     "[INFINITE FINALE] RISING IN 3s"
     {
         "chi"        "[无尽关]平台3秒后上升"
     }
+
     "[INFINITE FINALE] RISING IN 2s"
     {
         "chi"        "[无尽关]平台2秒后上升"
     }
+
     "[INFINITE FINALE] RISING IN 1s"
     {
         "chi"        "[无尽关]平台1秒后上升"
     }
+
     "[INFINITE FINALE] RISING"
     {
         "chi"        "[无尽关]你通关了无尽关,你才是luff精英(别的都是玩原神玩的)"
     }
+
+    "***END FOUND - GENERATING NEXT MAP IN 10 SECONDS***"
+    {
+        "chi"        "下关将在10秒后出现"
+    }
+
+    "***END BUTTON PRESSED - GENERATING NEXT MAP IN 10 SECONDS***"
+    {
+        "chi"        "下关将在10秒后出现"
+    }
+    
+    "***END FOUND - GENERATING NEXT MAP IN 15 SECONDS***"
+    {
+        "chi"        "下关将在15秒后出现"
+    }
+    
+    "***END BUTTON PRESSED - GENERATING NEXT MAP IN 15 SECONDS***"
+    {
+        "chi"        "下关将在15秒后出现"
+    }
+    
+    "[ITEM] zombie picked up PizzaBaker"
+    {
+        "chi"        "[僵尸神器]有人拾取了披萨"
+    }
+    
+    "[ITEM] zombie picked up RiftZ"
+    {
+        "chi"        "[僵尸神器]有人拾取了传送"
+    }
+    
+    "[ITEM] zombie picked up DestructoHammer"
+    {
+        "chi"        "[僵尸神器]有人拾取了地形之锤"
+    }
+    
+    "[ITEM] zombie picked up Flight"
+    {
+        "chi"        "[僵尸神器]有人拾取了飞行"
+    }
+    
+    "[ITEM] zombie picked up GreasyFingers"
+    {
+        "chi"        "[僵尸神器]有人拾取了缴械"
+    }
+    
+    "[ITEM] zombie picked up Impostor"
+    {
+        "chi"        "[僵尸神器]有人拾取了伪装"
+    }
+    
+    "[ITEM] zombie picked up Stone"
+    {
+        "chi"        "[僵尸神器]有人拾取了石头"
+    }
+    
+    "[ITEM] zombie picked up Puller"
+    {
+        "chi"        "[僵尸神器]有人拾取了吸力"
+    }
+    
+    "[ITEM] zombie picked up Gust"
+    {
+        "chi"        "[僵尸神器]有人拾取了风"
+    }
+    
+    "[ITEM] zombie picked up BombChuck"
+    {
+        "chi"        "[僵尸神器]有人拾取了炸弹"
+    }
+    
+    "[ITEM] zombie picked up Poise"
+    {
+        "chi"        "[僵尸神器]有人拾取了鬼脸"
+    }
+    
+    "[ITEM] zombie picked up Fling"
+    {
+        "chi"        "[僵尸神器]有人拾取了震荡"
+    }
+    
+    "[ITEM] zombie picked up Squid"
+    {
+        "chi"        "[僵尸神器]有人拾取了鱿鱼"
+    }
+    
+    "[ITEM] zombie picked up Roar"
+    {
+        "chi"        "[僵尸神器]有人拾取了咆哮"
+    }
+    
+    "[ITEM] human picked up Baguette"
+    {
+        "chi"        "[人类神器]有人拾取了法棍"
+    }
+    
+    "[ITEM] human picked up DragonSlayer"
+    {
+        "chi"        "[人类神器]有人拾取了屠龙宝刀"
+    }
+    
+    "[ITEM] human picked up MiniSlots"
+    {
+        "chi"        "[人类神器]有人拾取了便携式老虎机"
+    }
+    
+    "[ITEM] human picked up BillNye"
+    {
+        "chi"        "[人类神器]有人拾取了电视机"
+    }
+    
+    "[ITEM] human picked up PeanutButter"
+    {
+        "chi"        "[人类神器]有人拾取了花生酱"
+    }
+    
+    "[ITEM] human picked up Claymore"
+    {
+        "chi"        "[人类神器]有人拾取了阔剑"
+    }
+    
+    "[ITEM] human picked up Piggyback"
+    {
+        "chi"        "[人类神器]有人拾取了小猪坐骑"
+    }
+    
+    "[ITEM] human picked up Hackerman"
+    {
+        "chi"        "[人类神器]有人拾取了骇客"
+    }
+    
+    "[ITEM] human picked up BhopSteroids"
+    {
+        "chi"        "[人类神器]有人拾取了自动连跳"
+    }
+    
+    "[ITEM] human picked up StormBlade"
+    {
+        "chi"        "[人类神器]有人拾取了风暴之刃"
+    }
+    
+    "[ITEM] human picked up Rift"
+    {
+        "chi"        "[人类神器]有人拾取了传送门"
+    }
+    
+    "[ITEM] human picked up MoonBoost"
+    {
+        "chi"        "[人类神器]有人拾取了弹跳"
+    }
+    
+    "[ITEM] human picked up EarthCrystal"
+    {
+        "chi"        "[人类神器]有人拾取了土晶"
+    }
+    
+    "[ITEM] human picked up FireCrystal"
+    {
+        "chi"        "[人类神器]有人拾取了火晶"
+    }
+    
+    "[ITEM] human picked up WindCrystal"
+    {
+        "chi"        "[人类神器]有人拾取了风晶"
+    }
+    
+    "[ITEM] human picked up WaterCrystal"
+    {
+        "chi"        "[人类神器]有人拾取了水晶"
+    }
+    
+    "[ITEM] human picked up HealOrb"
+    {
+        "chi"        "[人类神器]有人拾取了治愈"
+    }
+    
+    "***OPENING HOLD***"
+    {
+        "chi"        "本关其中一个小门开了"
+    }
+    
+    "***HOLD OPENS IN 2 SECONDS***"
+    {
+        "chi"        "本关的一个小门还有2秒开"
+    }
+    
+    "***HOLD OPENS IN 4 SECONDS***"
+    {
+        "chi"        "本关的一个小门还有4秒开"
+    }
+    
+    "***HOLD OPENS IN 5 SECONDS***"
+    {
+        "chi"        "本关的一个小门还有5秒开"
+    }
+    
+    "***HOLD OPENS IN 6 SECONDS***"
+    {
+        "chi"        "本关的一个小门还有6秒开"
+    }
+    
+    "***HOLD OPENS IN 8 SECONDS***"
+    {
+        "chi"        "本关的一个小门还有8秒开"
+    }
+    
+
 }
