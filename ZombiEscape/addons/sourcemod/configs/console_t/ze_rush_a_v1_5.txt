@@ -20,10 +20,12 @@
     {
         "chi" "大门还有15秒开启"
     }
+
      "**You didn't have time to pass the laser**"
     {
         "chi" "你没有在规定时间内通过考验"
     }
+
     "**Lasers are disabled**"
     {
         "chi" "刀型矩阵已停止运转"
@@ -32,6 +34,11 @@
     "**Zombie tp at 20 seconds**"
     {
         "chi" "僵尸于20秒后进行全体传送"
+    }
+
+    "**Hold 45 seconds**"
+    {
+        "chi" "保持火力45秒"
     }
 
     "**Hold 25 seconds**"
@@ -53,15 +60,26 @@
     {
         "chi" "请保持火力防御15秒"
     }
+
+    "**Round Faild**"
+    {
+        "chi" "回合失败"
+    }
+
     "**You Failed**"
     {
-        "chi" "你们失败了"
+        "chi" "你们失败了!!!"
     }
 
     "***LASER GUN ITEM PICKED UP***"
     {
         "chi" "人类神器刀刃已获得"
         "blocked"    "1"
+    }
+
+    "**Zombie have turned off the trains!**"
+    {
+        "chi" "僵尸关闭了列车刀机关"
     }
 
     "**Hold 10 seconds**"
@@ -72,6 +90,11 @@
     "**You have 15 seconds**"
     {
         "chi" "你们有15秒时间打败高达"
+    }
+
+    "**SHOOT THE BOSS!!!**"
+    {
+        "chi" "快开枪打败高达!!!"
     }
 
     "**Round Failed**"
@@ -88,6 +111,7 @@
     {
         "chi" "人类关闭了列车刀机关"
     }
+
     "***PUSH ITEM PICKED UP***"
     {
         "chi" "人类神器推力已拾取"
@@ -99,6 +123,51 @@
         "chi" "所有人10秒后传送"
     }
 
+    "**WTF???**"
+    {
+        "chi" "搞什么鬼?"
+    }
+
+    "**Zombies broke the bomb!!!**"
+    {
+        "chi" "僵尸尽然能摧毁炸弹?"
+    }
+
+    "**Admins write !rr**"
+    {
+        "chi" "我也茫然了?"
+    }
+
+    "**What the fuck is going on here!?**"
+    {
+        "chi" "我们该何去何从?"
+    }
+
+    "**Who is this guy anyway?!**"
+    {
+        "chi" "是谁?是谁?是谁在玩弄着我们!?"
+    }
+
+    "**In short, change the map to Rush B**"
+    {
+        "chi" "我想我知道了!我们应该回到Rush B才能找到答案!"
+    }
+
+    "**Write rtv**"
+    {
+        "chi" "那我们快输入rtv吧"
+    }
+
+    "Shrek: Goodbye, my little zombies"
+    {
+        "chi" "再见了,我的僵尸小宝贝!"
+    }
+
+    "**Zombies don't break the bomb!**"
+    {
+        "chi" "各位僵尸们,不要打碎炸弹哦!"
+    }
+
     "**Hold 45  seconds**"
     {
         "chi" "防守45秒"
@@ -107,6 +176,11 @@
     "**Defend zombie train**"
     {
         "chi" "防守僵尸列车"
+    }
+
+    "**Jump down**"
+    {
+        "chi" "快跳下去"
     }
 
     "**Find the right door**"
@@ -149,6 +223,21 @@
         "chi" "等待32秒"
     }
 
+    "**I'm calling**"
+    {
+        "chi" "我已经在打电话了"
+    }
+
+    "**Get ready to come in, you don't have much time for this!**"
+    {
+        "chi" "准备好就快进来吧,我们没有多少时间了!"
+    }
+
+    "**Go to the phone, the portal is open!**"
+    {
+        "chi" "快去电话附近,传送点已经打开了!"
+    }
+
     "**Pick up the push gun**"
     {
         "chi" "激光推力枪已被拾取"
@@ -160,9 +249,29 @@
         "chi" "如果僵尸来接电话,你们就死定了!"
     }
 
+    "**Zombies broke the phone!!!**"
+    {
+        "chi" "僵尸摧毁了电话,一切都完了!"
+    }
+
     "***PUSH GUN ITEM PICKED UP***"
     {
         "chi" "快捡起激光推力枪"
+    }
+
+    "**Good Job**"
+    {
+        "chi" "干得漂亮!"
+    }
+
+    "**Go to the teleport**"
+    {
+        "chi" "传送打开了!快进去!"
+    }
+
+    "**Defend the phone**"
+    {
+        "chi" "保护好这台电话!它很关键!"
     }
 
     "**oh my god, fucking lasers**"
