@@ -1,0 +1,340 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** Adverse **"
+    {
+        "chi" ">> 敌对 <<"
+    }
+
+    "** Adverse+ **"
+    {
+        "chi" ">> 敌对+ <<"
+    }
+
+    "** Climatic **"
+    {
+        "chi" ">> 气候 <<"
+    }
+
+    "** Deflect **"
+    {
+        "chi" ">> 偏转 <<"
+    }
+
+    "** Disorder **"
+    {
+        "chi" ">> 扰乱 <<"
+    }
+
+    "** Disrupt **"
+    {
+        "chi" ">> 瓦解 <<"
+    }
+
+    "** Enforce **"
+    {
+        "chi" ">> 强迫 <<"
+    }
+
+    "** Enforce+ **"
+    {
+        "chi" ">> 强迫+ <<"
+    }
+
+    "** Faithful **"
+    {
+        "chi" ">> 忠诚 <<"
+    }
+
+    "** Friction **"
+    {
+        "chi" ">> 分歧 <<"
+    }
+
+    "** Friction+ **"
+    {
+        "chi" ">> 分歧+ <<"
+    }
+
+    "** Liverate **"
+    {
+        "chi" ">> 解放 <<"
+    }
+
+    "** Mediate **"
+    {
+        "chi" ">> 调停 <<"
+    }
+
+    "** Observe **"
+    {
+        "chi" ">> 监视 <<"
+    }
+
+    "** Opinion **"
+    {
+        "chi" ">> 信仰 <<"
+    }
+
+    "** Opinion+ **"
+    {
+        "chi" ">> 信仰+ <<"
+    }
+
+    "** Preclude **"
+    {
+        "chi" ">> 阻止 <<"
+    }
+
+    "** Prevail **"
+    {
+        "chi" ">> 盛行 <<"
+    }
+
+    "** Realize **"
+    {
+        "chi" ">> 意识 <<"
+    }
+
+    "** Reconcile **"
+    {
+        "chi" ">> 调和 <<"
+    }
+
+    "** Rejection **"
+    {
+        "chi" ">> 排斥 <<"
+    }
+
+    "** Rejection+ **"
+    {
+        "chi" ">> 排斥+ <<"
+    }
+
+    "** Satellite **"
+    {
+        "chi" ">> 卫星 <<"
+    }
+
+    "** Sparsely **"
+    {
+        "chi" ">> 贫乏 <<"
+    }
+
+    "** Tranquil **"
+    {
+        "chi" ">> 宁静 <<"
+    }
+
+    "** Tranquil+ **"
+    {
+        "chi" ">> 宁静+ <<"
+    }
+
+    "** Victim **"
+    {
+        "chi" ">> 苦难 <<"
+    }
+
+    "** Victim+ **"
+    {
+        "chi" ">> 苦难+ <<"
+    }
+
+    "|| 10 seconds ||"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "|| 30 seconds ||"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "|| 60 seconds ||"
+    {
+        "chi" "还有60秒"
+    }
+
+    "|| Failed ||"
+    {
+        "chi" ">> 已失败 <<"
+    }
+
+    "|| Zombie detect ||"
+    {
+        "chi" "已检测到僵尸"
+    }
+
+    ">> 15 seconds <<"
+    {
+        "chi" "还有15秒"
+    }
+
+    ">> 20 seconds <<"
+    {
+        "chi" "还有20秒"
+    }
+
+    ">> 25 seconds <<"
+    {
+        "chi" "还有25秒"
+    }
+
+    ">> 30 seconds <<"
+    {
+        "chi" "还有30秒"
+    }
+
+    ">> 35 seconds <<"
+    {
+        "chi" "还有35秒"
+    }
+
+    ">> 40 seconds <<"
+    {
+        "chi" "还有40秒"
+    }
+
+    ">> 5 seconds <<"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    ">> 5 seconds left <<"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    ">> 50 seconds <<"
+    {
+        "chi" "还有50秒"
+    }
+
+    ">> Admin set to Stage 1 <<"
+    {
+        "chi" "管理员设定至第一关"
+    }
+
+    ">> Admin set to Stage 2 <<"
+    {
+        "chi" "管理员设定至第二关"
+    }
+
+    ">> Admin set to Stage 3 <<"
+    {
+        "chi" "管理员设定至第三关"
+    }
+
+    ">> Admin set to Stage 4 <<"
+    {
+        "chi" "管理员设定至第四关"
+    }
+
+    ">> Admin set to Stage 5 <<"
+    {
+        "chi" "管理员设定至第五关"
+    }
+
+    ">> Admin set to stage Ex <<"
+    {
+        "chi" "管理员设定至EX"
+    }
+
+    ">> Admin set to stage Ex2 <<"
+    {
+        "chi" "管理员设定至EX②"
+    }
+
+    ">> Door 1 | 40 seconds <<"
+    {
+        "chi" "门一还有40秒"
+    }
+
+    ">> Door 1 | 5 seconds left <<"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    ">> Door 2 | 30 seconds <<"
+    {
+        "chi" "门二还有30秒"
+    }
+
+    ">> Door 2 | 5 seconds left <<"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    ">> Jump <<"
+    {
+        "chi" ">>跳 <<"
+    }
+
+    ">> Stage 1 Completed <<"
+    {
+        "chi" "第一关已完成"
+    }
+
+    ">> Stage 2 Completed <<"
+    {
+        "chi" "第二关已完成"
+    }
+
+    ">> Stage 3 Completed <<"
+    {
+        "chi" "第三关已完成"
+    }
+
+    ">> Stage 4 Completed <<"
+    {
+        "chi" "第四关已完成"
+    }
+
+    ">> Stage 5 Completed <<"
+    {
+        "chi" "第五关已完成"
+    }
+
+    ">> Stage Ex Completed <<"
+    {
+        "chi" "Ex 已完成"
+    }
+
+    ">> Stage Ex2 Completed <<"
+    {
+        "chi" "Ex.2.已完成"
+    }
+
+    ">> Zombie teleport in 10 seconds <<"
+    {
+        "chi" "僵尸还有10秒传送"
+    }
+
+    "** ZM Bullet is enabled **"
+    {
+        "chi" "僵尸子弹已启用“
+    }
+
+    "** ZM Bullet is temporary disabled **"
+    {
+        "chi" "僵尸子弹已禁用"
+    }
+
+}
