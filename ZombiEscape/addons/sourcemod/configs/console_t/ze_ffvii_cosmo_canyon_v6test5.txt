@@ -1,0 +1,134 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "**CLASSIC SETTINGS**"
+    {
+        "chi" "设定: 经典"
+    }
+
+    "**DEFAULT SETTINGS**"
+    {
+        "chi" "设定: 默认"
+    }
+
+    "**NORMAL MODE**"
+    {
+        "chi" "关卡: NORMAL"
+    }
+
+    "**HARD MODE**"
+    {
+        "chi" "关卡: HARD"
+    }
+
+    "**ZM MODE**"
+    {
+        "chi" "关卡: ZM"
+    }
+
+    "**EXTREME MODE**"
+    {
+        "chi" "关卡: EXTREME"
+    }
+
+    "**INFERNO MODE**"
+    {
+        "chi" "关卡: INFERNO"
+    }
+
+    "Zombies are coming. Defend Cosmo Bar for 32 seconds before we open the back door"
+    {
+        "chi" "僵尸来了,酒吧后门还有32秒打开"
+    }
+
+    "The barman will open the door in 10 seconds"
+    {
+        "chi" "酒保10秒后开门"
+    }
+
+    "The barman will open the door in 5 esconds"
+    {
+        "chi" "酒保5秒后开门"
+    }
+
+    "Zombies are coming. Defend Cosmo Bar for 35 seconds before we open the back door"
+    {
+        "chi" "僵尸来了,酒吧后门还有35秒打开"
+    }
+
+    "The gates of gi cave will open in 15 seconds"
+    {
+        "chi" "基纳塔克的洞穴15秒后开启"
+    }
+
+    "The gates will open in 15 seconds"
+    {
+        "chi" "门15秒后打开"
+    }
+
+    "The gates will open in 25 seconds"
+    {
+        "chi" "还有25秒开门"
+    }
+
+    "The gates will open in 20 seconds"
+    {
+        "chi" "还有20秒开门"
+    }
+
+    "The final door opens in 35 seconds"
+    {
+        "chi" "最终的门35秒后打开"
+    }
+
+    "Doors will open soon... wait..."
+    {
+        "chi" "门就要开了...等等..."
+    }
+
+    "The gates will open in 10 seconds"
+    {
+        "chi" "还有10秒开门"
+    }
+
+    "Wait until something happens"
+    {
+        "chi" "有什么事要发生了"
+    }
+
+    "Is that a real ghost?"
+    {
+        "chi" "那是真的幽灵吗?"
+    }
+
+    "Now you can get out of Cave of Gi"
+    {
+        "chi" "现在可以离开这里了"
+    }
+
+    "The gates of observatory will open in 20 seconds"
+    {
+        "chi" "天文台的门20秒后打开"
+    }
+
+    "Door opens in 10 seconds"
+    {
+        "chi" "门还有10秒开"
+    }
+
+    "The final door opens in 25 seconds"
+    {
+        "chi" "最后的门还有25秒打开"
+    }
+
+}
