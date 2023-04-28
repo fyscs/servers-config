@@ -1,0 +1,304 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** 5 **"
+    {
+        "chi" "还有5秒"
+    }
+
+    "**The wind has been picked up**"
+    {
+        "chi" "风已被拾起"
+    }
+
+    "** 20 **"
+    {
+        "chi" "还有20秒"
+    }
+
+    "** 18 **"
+    {
+        "chi" "还有18秒"
+    }
+
+    "**30 **"
+    {
+        "chi" "还有30秒"
+    }
+
+    "** The door opens after 3s **"
+    {
+        "chi" "门还有3秒打开"
+    }
+
+    "** 60 **"
+    {
+        "chi" "还有60秒"
+    }
+
+    "** Regional Slave **"
+    {
+        "chi" ">> 奴隶 <<"
+    }
+
+    "** Great Earthquake **"
+    {
+        "chi" ">> 地震 <<"
+    }
+
+    "** 45 **"
+    {
+        "chi" "还有45秒"
+    }
+
+    "** Sky Roar **"
+    {
+        "chi" ">> 天空咆哮 <<"
+    }
+
+    "** Fire Field **"
+    {
+        "chi" ">> 烈焰之地 <<"
+    }
+
+    "** Lava Rise **"
+    {
+        "chi" ">> 岩浆升起 <<"
+    }
+
+    "** 40 **"
+    {
+        "chi" "还有40秒"
+    }
+
+    "** Phase 2 **"
+    {
+        "chi" "第二关"
+    }
+
+    "** Freezing air **"
+    {
+        "chi" ">> 寒风凛冽 <<"
+    }
+
+    "** scorching sun **"
+    {
+        "chi" ">> 炎阳 <<"
+    }
+
+    "** Big storm **"
+    {
+        "chi" ">> 风暴 <<"
+    }
+
+    "** Freezing cold **"
+    {
+        "chi" ">> 严寒 <<"
+    }
+
+    "** Frozen miles **"
+    {
+        "chi" ">> 千里冰封 <<"
+    }
+
+    "** Burning with fire **"
+    {
+        "chi" ">> 烈焰燃烧 <<"
+    }
+
+    "** Highly toxic **"
+    {
+        "chi" ">> 剧毒 <<"
+    }
+
+    "** Unfreezing zombies **"
+    {
+        "chi" ">> 僵尸解冻 <<"
+    }
+
+    "* * phase 1 complete**"
+    {
+        "chi" "第一关已完成"
+    }
+
+    "** phase 2**"
+    {
+        "chi" "即将开始第二关"
+    }
+
+    "** phase 1**"
+    {
+        "chi" "即将开始第一关"
+    }
+
+    "** 35 **"
+    {
+        "chi" "还有35秒"
+    }
+
+    "**you only have 350 seconds to kill this dragon**"
+    {
+        "chi" "战斗时限只有350秒"
+    }
+
+    "** 10 **"
+    {
+        "chi" "还有10秒"
+    }
+
+    "** 80 **"
+    {
+        "chi" "还有80秒"
+    }
+
+    "** 25 **"
+    {
+        "chi" "还有25秒"
+    }
+
+    "** 50 **"
+    {
+        "chi" "还有50秒"
+    }
+
+    "**The torch has been picked up**"
+    {
+        "chi" "火把已被拾起"
+    }
+
+    "**A player chose the Holy Knight**"
+    {
+        "chi" "一位玩家选择成为神圣骑士"
+    }
+
+    "**Quick use SAWDWDSA can release the ultimate magic**"
+    {
+        "chi" "SAWDWDSA可以释放终级魔法"
+    }
+
+    "**Right click to wield a weapon to launch an attack**"
+    {
+        "chi" "右键挥动武器发动攻击"
+    }
+
+    "**Can use Holy Light to heal allies and slow down enemies**"
+    {
+        "chi" "使用圣光治愈同伴,减速敌人"
+    }
+
+    "**Use the power of the Holy Sword to attack the enemy remotely**"
+    {
+        "chi" "使用圣剑的力量攻击远处的敌人"
+    }
+
+    "** Phase 1 **"
+    {
+        "chi" "第一关"
+    }
+
+    "**Secret Chaos has been picked up**"
+    {
+        "chi" "神秘之混沌已被拾取"
+    }
+
+    "**Right click can destroy all human artifact effects instantly**"
+    {
+        "chi" "右键可以立即终结所有人类神器的效果"
+    }
+
+    "**Release chaotic magic to blind enemies**"
+    {
+        "chi" "释放混乱魔法遮蔽敌人视觉"
+    }
+
+    "**The extreme cold storm has been picked up**"
+    {
+        "chi" "极寒风暴已被拾取"
+    }
+
+    "**The fire of extinction has been picked up**"
+    {
+        "chi" "绝灭之火已被拾起"
+    }
+
+    "**The Dark Mystery has been picked up**"
+    {
+        "chi" "神秘之黑暗已被拾起"
+    }
+
+    "**Right click to release the Ice Blue Blade to damage and slow down the enemy**"
+    {
+        "chi" "右键释放冰剑对敌人造成伤害以及减速"
+    }
+
+    "**Release the dark magic to heal and accelerate**"
+    {
+        "chi" "释放黑魔法治愈并加速"
+    }
+
+    "**Secret of Ice has been picked up**"
+    {
+        "chi" "神秘之寒冰已被拾起"
+    }
+
+    "**Right click to release a small snowstorm to slow down surrounding enemies**"
+    {
+        "chi" "右键释放暴风雪减速周围的僵尸"
+    }
+
+    "**Freeze enemies around 5 seconds after release**"
+    {
+        "chi" "释放后定身僵尸五秒"
+    }
+
+    "**Light Summoning Magic has been picked up**"
+    {
+        "chi" "光之召唤已被拾取"
+    }
+
+    "**Void Mystery has been picked up**"
+    {
+        "chi" "虚空奥秘已被拾取"
+    }
+
+    "**Release the Son of Death from the Void and rush towards the target**"
+    {
+        "chi" "释放死神之子冲向目标"
+    }
+
+    "**Right click to form a Void Shield to resist human attacks**"
+    {
+        "chi" "右键生成虚空护盾,抵抗人类攻击"
+    }
+
+    "**Holy Magic has been picked up**"
+    {
+        "chi" "神圣魔法已被拾取"
+    }
+
+    "** The far door opens after 20 seconds **"
+    {
+        "chi" "门20秒后打开"
+    }
+
+    "** ze_templ_of_phantom_v1 **"
+    {
+        "chi" "幻影神殿"
+    }
+
+    "[MapRelay]  Set falldamage to 0.5"
+    {
+        "chi" "地图设置:已设置摔伤"
+    }
+
+}
