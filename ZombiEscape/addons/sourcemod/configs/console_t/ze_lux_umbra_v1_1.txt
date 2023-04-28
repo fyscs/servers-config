@@ -1,0 +1,289 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "<<< 1 >>>"
+    {
+        "chi" "一"
+    }
+
+    "<<< 10 >>>"
+    {
+        "chi" "十"
+    }
+
+    "<<< 11 >>>"
+    {
+        "chi" "十一"
+    }
+
+    "<<< 12 >>>"
+    {
+        "chi" "十二"
+    }
+
+    "<<< 13 >>>"
+    {
+        "chi" "十三"
+    }
+
+    "<<< 14 >>>"
+    {
+        "chi" "十四"
+    }
+
+    "<<< 15 >>>"
+    {
+        "chi" "十五"
+    }
+
+    "<<< 2 >>>"
+    {
+        "chi" "二"
+    }
+
+    "<<< 3 >>>"
+    {
+        "chi" "三"
+    }
+
+    "<<< 4 >>>"
+    {
+        "chi" "四"
+    }
+
+    "<<< 5 >>>"
+    {
+        "chi" "五"
+    }
+
+    "<<< 6 >>>"
+    {
+        "chi" "六"
+    }
+
+    "<<< 7 >>>"
+    {
+        "chi" "七"
+    }
+
+    "<<< 9 >>>"
+    {
+        "chi" "九"
+    }
+
+    "<<< Admin set stage 1 >>>"
+    {
+        "chi" "管理员设置至第一关"
+    }
+
+    "<<< Admin set stage 2 >>>"
+    {
+        "chi" "管理员设置至第二关"
+    }
+
+    "<<< all door will open in 10 sec >>>"
+    {
+        "chi" "所有门10秒后开启"
+    }
+
+    "<<< But shadow is always guiding us. Is it for the power of light? Or for the earth? >>>"
+    {
+        "chi" "但是暗影在一直引导我们,只是为了光明的力量吗?还是为了地球?"
+    }
+
+    "<<< From here on, there is no way out >>>"
+    {
+        "chi" "现在开始,已无出路"
+    }
+
+    "<<< It seems that shadow is trying to lead us here >>>"
+    {
+        "chi" "似乎暗影正试图将我们引导至这里"
+    }
+
+    "<<< It's over. We've left our hometown forever and gone to the void universe , We will watch the power of light in case it comes back earth one day >>>"
+    {
+        "chi" "结束了.我们永远地离开了家园,来到无尽的虚空.我们将监视光的力量,以防其卷土重来"
+    }
+
+    "<<< It's over. We've left our hometown forever with the shadow and gone to the void universe , We will watch the power of light in case it comes back earth one day >>>"
+    {
+        "chi" "结束了.我们与暗影永远地离开了家园,来到无尽的虚空.我们将监视光的力量,以防其卷土重来"
+    }
+
+    "<<< Light and shadow are weak now. What? What is shadow doing? >>>"
+    {
+        "chi" "光明与暗影现在很虚弱.等等,暗影在做什么?"
+    }
+
+    "<<< Light came to the earth and created shadow, but under the influence of light, shadow gave in >>>"
+    {
+        "chi" "光明来到地球并创造了暗影,但在光明的影响下,暗影选择屈服"
+    }
+
+    "<<< Light envelops the world, and we will eventually perish in the flames of light >>>"
+    {
+        "chi" "光明围绕着世界,但我们最终将于光明的烈焰中毁灭"
+    }
+
+    "<<< Light has been unable to resist, Survive to the last moment! >>>"
+    {
+        "chi" "光明已无力抵抗,坚持到最后一刻!"
+    }
+
+    "<<< Light is preparing for a fatal blow, defeat it ! >>>"
+    {
+        "chi" "光明正在准备发动强力攻击,快击败它"
+    }
+
+    "<<< Light is using ring to seal shadow forever. Stop it ! >>>"
+    {
+        "chi" "光明正在使用光环将暗影彻底禁锢,想办法阻止它!"
+    }
+
+    "<<< map by lopb >>>"
+    {
+        "chi" "地图制作:lopb 文本翻译:xTeru"
+    }
+
+    "<<< Now the shadow is extremely fragile , even if only one zombie touches it, it will be enough to destroy shadow, do your best to protect shadow! >>>"
+    {
+        "chi" "暗影现在非常脆弱,一次僵尸的接触就能使其毁灭,保护暗影!"
+    }
+
+    "<<< Once shadow knight is defeated, we will be exposed to the attack form zombie >>>"
+    {
+        "chi" "暗影骑士一旦被击败,我们都将暴露在尸潮下"
+    }
+
+    "<<< One day, a strange tower suddenly appeared on the earth. We have to find out what's the secret here >>>"
+    {
+        "chi" "某一天,地球上突然出现了一座塔.我们得去看看有什么隐藏在那里"
+    }
+
+    "<<< Protect the shadow. The shadow will lead us to the truth >>>"
+    {
+        "chi" "保护暗影,暗影会将我们引向真相"
+    }
+
+    "<<< Right now, we leave our hometown to expel the culprits of the earth's erosion >>>"
+    {
+        "chi" "现在,我们离开家园.去驱逐导致地球腐蚀的罪魁祸首"
+    }
+
+    "<<< Ring is defeated, it will submit to the shadow . Hold on till the end ! >>>"
+    {
+        "chi" "光环已被击败,其将屈服于暗影,坚持到最后!"
+    }
+
+    "<<< Shadow appears in its strongest form >>>"
+    {
+        "chi" "暗影以其最强的形态现世"
+    }
+
+    "<<< Shadow has broken the protection. Now you can broken the nucleus of light >>>"
+    {
+        "chi" "暗影已经破除其防护.现在你可以攻击光明的核心了"
+    }
+
+    "<<< Shadow is helping us. We have to follow shadow >>>"
+    {
+        "chi" "暗影正在帮助我们,我们得跟上暗影"
+    }
+
+    "<<< Shadow is sealed and we will be exposed to the flare of light >>>"
+    {
+        "chi" "暗影已被封印,我们将暴露在闪耀的光芒之下"
+    }
+
+    "<<< The nucleus of light is protected and there is no way to harm it  >>>"
+    {
+        "chi" "光明核心在被保护着,没有办法造成伤害"
+    }
+
+    "<<< The platform leading to the upper level will rise in 10 seconds >>>"
+    {
+        "chi" "通往上层的平台10秒后升起"
+    }
+
+    "<<< The shadow is destroyed and we can't get close to the truth >>>"
+    {
+        "chi" "暗影已被摧毁,我们已无法再进一步了解真相"
+    }
+
+    "<<< The Shadow Knight has been defeated, do your best to defeat the Light and survive >>>"
+    {
+        "chi" "暗影骑士已被击败,尽全力生存下来并战胜光明"
+    }
+
+    "<<< The zombie touches shadow, it's all over >>>"
+    {
+        "chi" "僵尸接触到了暗影,都结束了..."
+    }
+
+    "<<< There is no hope for light and its followers. >>>"
+    {
+        "chi" "对光明与其追随者来说已无希望"
+    }
+
+    "<<< There's a lot of the power of light here to find and disable , this will weaken the power of light and shadow  >>>"
+    {
+        "chi" "这里有太多光明的力量需要找寻,其将唤醒光与影的力量"
+    }
+
+    "<<< This is a dead end, we have no way back! >>>"
+    {
+        "chi" "一条死路,我们没法回头了"
+    }
+
+    "<<< Under the protection of shadow, we will bury the light with our own hands >>>"
+    {
+        "chi" "在暗影的保护下,我们将亲手埋葬光明"
+    }
+
+    "<<< We did it! light is weakened and we are going to expel light out of the earth with shadow now!>>>"
+    {
+        "chi" "我们做到了!光明处于虚弱状态.我们现在要与暗影把光明驱逐出这个世界."
+    }
+
+    "<<< We did it!We are going to expel light out of the earth with shadow now!>>>"
+    {
+        "chi" "我们做到了!我们现在要与暗影把光明驱逐出这个世界"
+    }
+
+    "<<< You destroy all the crystal of light, the power of light and shadow is weakened, and maybe the end will be different >>>"
+    {
+        "chi" "摧毁了所有光明水晶,光与影现在处于虚弱状态"
+    }
+
+    "<<< You have hindered the erosion,shadow succumbs to the power of light, you will face its power! >>>"
+    {
+        "chi" "你已延缓了侵蚀,暗影屈服于光明的力量,你将直面其冲击!"
+    }
+
+    "<<< zombie will coming anywhere now ! >>>"
+    {
+        "chi" "尸潮袭来!"
+    }
+
+    "<<<A zombie has learned dark absorb>>>"
+    {
+        "chi" "僵尸觉醒了黑暗汲取"
+    }
+
+    "<<<A zombie has learned superjump>>>"
+    {
+        "chi" "僵尸觉醒了极致跳跃"
+    }
+
+}
