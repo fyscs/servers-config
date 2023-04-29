@@ -18,7 +18,7 @@
 
     "||| A PLAYER HAS PICKED UP C4 |||"
     {
-        "chi" "**炸药5秒后爆炸**"
+        "chi" "**一名玩家已拾取炸药**"
     }
 
     "||| AIRSTRIKE INCOMING |||"
@@ -283,7 +283,7 @@
 
     "||| OH NO THE BRIDGE IS BROKEN! |||"
     {
-        "chi" "**桥梁没有被摧毁**"
+        "chi" "**桥梁已被摧毁**"
     }
 
     "||| POWER IS RESTORED... DOORS OPEN SOON |||"
