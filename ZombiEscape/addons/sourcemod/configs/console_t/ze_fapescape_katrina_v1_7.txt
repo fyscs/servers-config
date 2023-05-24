@@ -1,0 +1,598 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** MEGAULTRATERRIBLINATOR DESTRUCTIVE MODE **"
+    {
+        "chi" ">>究极无敌吊炸天<<"
+    }
+
+    "** Turning on:... **"
+    {
+        "chi" "正在启动..."
+    }
+
+    "*** CONGRATULATIONS  YOU HAVE BEATEN THE MAP! ***"
+    {
+        "chi" "恭喜,你已经完成了这张地图"
+    }
+
+    "*** door is charge,opening in 10 seconds ***"
+    {
+        "chi" "供电已恢复,10秒后开启"
+        "blocked" "1"
+    }
+
+    "*** door is charge,opening in 20 seconds ***"
+    {
+        "chi" "供电已恢复,20秒后开启"
+        "blocked" "1"
+    }
+
+    "*** door is charge,opening in 35 seconds ***"
+    {
+        "chi" "供电已恢复,35秒后开启"
+    }
+
+    "*** door is charge,opening in 5 seconds ***"
+    {
+        "chi" "供电已恢复,5秒后开启"
+        "blocked" "1"
+    }
+
+    "*** Level 1 ***"
+    {
+        "chi" "第一关"
+    }
+
+    "*** Level 2 ***"
+    {
+        "chi" "第二关"
+    }
+
+    "*** Level 3 ***"
+    {
+        "chi" "第三关"
+    }
+
+    "*** Stage EX1 Level Completed! ***"
+    {
+        "chi" "EX已完成"
+    }
+
+    "*** Stage EX2 Level Completed! ***"
+    {
+        "chi" "EX已完成"
+    }
+
+    "*** Stage EX3 Level Completed! ***"
+    {
+        "chi" "EX已完成"
+    }
+
+    "*** Stage1 Level Completed! ***"
+    {
+        "chi" "第一关已完成"
+    }
+
+    "*** Stage2 Level Completed! ***"
+    {
+        "chi" "第二关已完成"
+    }
+
+    "*** Stage3 Level Completed! ***"
+    {
+        "chi" "第三关已完成"
+    }
+
+    "*** ZM stage***"
+    {
+        "chi" "ZM关卡"
+    }
+
+    "***15seconds left***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***5seconds left!!!***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***5seconds left***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***A player pick mine,player can control when it explore,it can use 6 times***"
+    {
+        "chi" "玩家拾起了地雷,通过抬头按E引爆,可以使用6次"
+    }
+
+    "***A player pick up ammo box ***"
+    {
+        "chi" "玩家拾起了弹药箱"
+    }
+
+    "***A player pick up basketball,it can launch basketball and explore  ***"
+    {
+        "chi" "玩家拾起了小黑子的篮球?可以发射会爆炸的篮球"
+    }
+
+    "***A player pick up flame,when it use,it need times to charge oil***"
+    {
+        "chi" "玩家拾起了火焰喷射器"
+    }
+
+    "***A player pick up heal,it can heal human ,in ex3 mode,it can use twice***"
+    {
+        "chi" "玩家拾起了治疗,在最终关可以使用两次"
+    }
+
+    "***A player pick up in jail item,when it use, it can send zombie who touch into prison***"
+    {
+        "chi" "玩家拾起了坐牢传送枪,一键帮助僵尸坐牢玩手机"
+    }
+
+    "***A player pick up legowall,only human can damage it and break it***"
+    {
+        "chi" "玩家拾起了乐高方块,但是僵尸挠不烂这个玩意"
+    }
+
+    "***A player pick up push gun,***"
+    {
+        "chi" "玩家拾起了推力枪"
+    }
+
+    "***A player pick up rpg,it has unlimited number of uses ***"
+    {
+        "chi" "玩家拾起了RPG,一个劲射就完事了"
+    }
+
+    "***A player pick up sword. it can knockback zombie infront of you  ***"
+    {
+        "chi" "玩家拾起了大宝剑,可以击退前方的僵尸"
+    }
+
+    "***AFK player will teleport in 20seconds***"
+    {
+        "chi" "挂机玩家20秒后传送"
+    }
+
+    "***armored car now is charging,wait 15second for start***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***armored car now is charging,wait 25second for start***"
+    {
+        "chi" "装甲车准备就绪,25秒后启动"
+    }
+
+    "***army door will open in 20seconds***"
+    {
+        "chi" "门还有20秒打开"
+    }
+
+    "***boss door opening in 25sec***"
+    {
+        "chi" "还有25秒就要见到Boss了"
+    }
+
+    "***Bridge now incoming,still hold zombies!***"
+    {
+        "chi" "桥正在延伸过来,守住僵尸!"
+    }
+
+    "***care the zombies, they still alive !!!***"
+    {
+        "chi" "当心僵尸,它们还活着!!"
+    }
+
+    "***Door break ,run!!!***"
+    {
+        "chi" "门碎了,快跑!!"
+    }
+
+    "***door open in 10 sec***"
+    {
+        "chi" "门10秒后开启"
+        "blocked" "1"
+    }
+
+    "***door open in 20 sec***"
+    {
+        "chi" "门20秒后开启"
+        "blocked" "1"
+    }
+
+    "***door open in 30 sec***"
+    {
+        "chi" "门30秒后开启"
+        "blocked" "1"
+    }
+
+    "***door open in 40 sec***"
+    {
+        "chi" "门40秒后打开"
+    }
+
+    "***door opening***"
+    {
+        "chi" "门正在打开..."
+    }
+
+    "***door wil break in 20second***"
+    {
+        "chi" "门20秒后破开"
+    }
+
+    "***door wil break in 5second***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***door wil open in 15second***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***door wil open in 25second***"
+    {
+        "chi" "门还有25秒打开"
+    }
+
+    "***door wil open in 5second***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***door will break in 15second***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***door will break in 25second***"
+    {
+        "chi" "门25秒后破开"
+    }
+
+    "***door will break in 5second***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***door will open in 10second***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***door will open in 10seconds***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***door will open in 20second***"
+    {
+        "chi" "门还有20秒打开"
+    }
+
+    "***door will open in 20seconds***"
+    {
+        "chi" "门还有20秒打开..."
+    }
+
+    "***door will open in 30seconds***"
+    {
+        "chi" "门还有30秒打开.."
+    }
+
+    "***door will open in 5second***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***engine opening!***"
+    {
+        "chi" "引擎已启动!!"
+    }
+
+    "***final boss door will open in 10second***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***final boss door will open in 20second***"
+    {
+        "chi" "最终之门20秒后开启"
+    }
+
+    "***final boss door will open in 5second***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***final boss is dead,now it is time to escape***"
+    {
+        "chi" "最终Boss已死,现在是时候离开这里了"
+    }
+
+    "***hold 25seconds for bridge appear***"
+    {
+        "chi" "桥梁还有25秒出现"
+    }
+
+    "***hold a few seconds until the door open***"
+    {
+        "chi" "门还有一会才开,守住!"
+    }
+
+    "***hold a few seconds until the path appear***"
+    {
+        "chi" "还要再守一会..."
+    }
+
+    "***left path block 5seconds left***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***left path block will break in 15seconds***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***left path block will break in 25second***"
+    {
+        "chi" "左边路障25秒后破碎"
+    }
+
+    "***mian door openning***"
+    {
+        "chi" "大门正在开启..."
+    }
+
+    "***next door wil open in 15second***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***next door wil open in 25second***"
+    {
+        "chi" "下一扇门25秒后开启"
+    }
+
+    "***next door wil open in 5second***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***player use heal,if this round is ex3,and the heal can use twice***"
+    {
+        "chi" "玩家使用了治疗,在最终关可以使用两次"
+    }
+
+    "***Purpledoor will open in 30seconds***"
+    {
+        "chi" "紫色的门30秒后开启"
+    }
+
+    "***railings will open in 20seconds***"
+    {
+        "chi" "挡板于20秒后开启"
+    }
+
+    "***right path block 5seconds left***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***right path block will break in 15seconds***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***right path block will break in 25seconds***"
+    {
+        "chi" "右边路障25秒后破碎"
+    }
+
+    "***right path now openning***"
+    {
+        "chi" "右边的路已开启"
+    }
+
+    "***run!!!***"
+    {
+        "chi" "快跑!!!"
+    }
+
+    "***succeed find a organ***"
+    {
+        "chi" "成功找到了一处机关"
+    }
+
+    "***the factory door now opening***"
+    {
+        "chi" "工厂的大门打开了"
+    }
+
+    "***the factory door will open in 25seconds***"
+    {
+        "chi" "工厂的门还有25秒打开"
+    }
+
+    "***the factory door will open in 5seconds***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***the last defend,after 20second the bridge will break***"
+    {
+        "chi" "桥20秒后坍塌"
+    }
+
+    "***the last defend,after 20second the heli will take off***"
+    {
+        "chi" "小飞机20秒后起飞"
+    }
+
+    "***the last defend,after 25second the bridge will break***"
+    {
+        "chi" "桥25秒后坍塌"
+    }
+
+    "***the last defend,after 30second the heli will take off***"
+    {
+        "chi" "小飞机30秒后起飞"
+    }
+
+    "***the last left block will break in 20second***"
+    {
+        "chi" "左边路障20秒后破坏"
+    }
+
+    "***the last right block will break in 20second***"
+    {
+        "chi" "右边路障20秒后破坏"
+    }
+
+    "***the other path door now opening***"
+    {
+        "chi" "另一条路已开启"
+    }
+
+    "***this is final door,hold 10seconds and wait it break!!!***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***this is final door,hold 20seconds and wait it break!!!***"
+    {
+        "chi" "还有20秒"
+    }
+
+    "***this is the final rocket for survive,hold it and defend zombies 20second***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "***this is the final rocket for survive,hold it and defend zombies 45second***"
+    {
+        "chi" "守住僵尸,还有45秒"
+    }
+
+    "***try to alive and protect your ass away from zombis,time left 120Second***"
+    {
+        "chi" "存活两分钟"
+    }
+
+    "***wait 15second for door break***"
+    {
+        "chi" "门开还有15秒"
+    }
+
+    "***wait 25second for legobox explore***"
+    {
+        "chi" "还有25秒"
+    }
+
+    "***wait 25seconds forplane open engine.***"
+    {
+        "chi" "飞机还有25秒启动引擎"
+    }
+
+    "***wait a few seconds until the bridge down***"
+    {
+        "chi" "还得一会..."
+    }
+
+    "***Why zombie are in the last plane?You Fail***"
+    {
+        "chi" "僵尸上来了,你失败了"
+    }
+
+    "***Why zombies are in helicopter? You Fail***"
+    {
+        "chi" "僵尸上直升机了?你失败了"
+    }
+
+    "***Why zombies in rocker?,You Fail***"
+    {
+        "chi" "僵尸上火箭了?你失败了"
+    }
+
+    "***zombie will teleport soon***"
+    {
+        "chi" "僵尸即将传送"
+    }
+
+    "***zombies are in fly,You Fail***"
+    {
+        "chi" "你失败了"
+    }
+
+    "***zombies path spawn***"
+    {
+        "chi" "侧路梯子已开放"
+    }
+
+    "***Zombies will coming soon...***"
+    {
+        "chi" "僵尸要来了..."
+    }
+
+    "***zombies will teleport into castle soon***"
+    {
+        "chi" "僵尸即将传送至城堡"
+    }
+
+    "***zombies will teleport soon***"
+    {
+        "chi" "僵尸即将传送"
+    }
+
+    "***Zombies will teleport soon...***"
+    {
+        "chi" "僵尸就要传送了..."
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
