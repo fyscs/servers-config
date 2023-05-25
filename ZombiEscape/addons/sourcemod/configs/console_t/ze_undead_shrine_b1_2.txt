@@ -1,0 +1,164 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** created by king buzzo ***"
+    {
+        "chi" "地图作者: king buzzo "
+    }
+
+    "*** zrage best server ***"
+    {
+        "chi" "汉化:poi-@風雲社"
+    }
+
+     "*** opening gate ****"
+    {
+        "chi" "大门正在打开"
+    }
+
+    "*** 10s ***"
+    {
+        "chi" "倒计时10秒"
+    }
+
+    "*** 5s ***"
+    {
+        "chi" "倒计时5秒"
+    }
+
+    "*** something is happening ***"
+    {
+        "chi" "发生什么事了"
+    }
+
+    "*** break the wood ***"
+    {
+        "chi" "打破木头"
+    }
+
+    "*** opens in 25 seconds ***"
+    {
+        "chi" "距离大门打开还有25秒"
+    }
+
+    "*** AFK teleport in 10 seconds ***"
+    {
+        "chi" "帅小伙还有10秒开始传送"
+    }
+
+    "*** thank you for playing ***"
+    {
+        "chi" "感谢你的游玩"
+    }
+
+    "*** opening gate in 35s ***"
+    {
+        "chi" "大门还需要35秒后打开"
+    }
+
+    "*** bridge breaks in 25s ***"
+    {
+        "chi" "桥梁在25秒后断裂"
+    }
+
+    "*** opening gate in 30s ***"
+    {
+        "chi" "大门还需要30秒后打开"
+    }
+
+    "*** breaks in 15 seconds ***"
+    {
+        "chi" "稍微休息15秒"
+    }
+
+    "*** clearing door in 20 seconds ***"
+    {
+        "chi" "在20秒内清理出门!!!"
+    }
+
+    "*** door opens in 20 seconds ***"
+    {
+        "chi" "大门打开还需要20秒"
+    }
+
+    "*** keep pressing till the lever is triggered ***"
+    {
+        "chi" "请前往拉动拉杆触发开关"
+    }
+
+    "*** AFK teleport in 20 seconds ***"
+    {
+        "chi" "帅小伙还有20秒开始传送"
+    }
+
+    "*** when you find the button, keep pressing it till a teammate reach the lever ***"
+    {
+        "chi" "请找到一个按钮持续按住,一直持续到队友找到拉杆"
+    }
+
+    "*** teleport activates in 10 seconds ***"
+    {
+        "chi" "传送将在10秒内激活"
+    }
+
+    "*** opening... ***"
+    {
+        "chi" "正在开启中"
+    }
+
+    "*** the teleport is still not ready, hold here!! ***"
+    {
+        "chi" "糟糕,传送暂未准备就绪,请守住这里"
+    }
+
+    "*** dragon appeared! take him down before he burns us! ***"
+    {
+        "chi" "天!是巨龙!快!快拿下他!不然他会摧毁这一切!!"
+    }
+
+    "*** hold out here for 40 seconds ***"
+    {
+        "chi" "继续守住这里,我们还要坚持40秒"
+    }
+
+    "*** grate breaks in 25 seconds ***"
+    {
+        "chi" "距离开启需要25秒"
+    }
+
+    "*** elevator leaves in 20 seconds ***"
+    {
+        "chi" "电梯将在20秒后离开!"
+    }
+
+    "*** we are blocked out ***"
+    {
+        "chi" "我们被锁在这里了"
+    }
+
+    "*** find the button to open the gate ***"
+    {
+        "chi" "找到打开大门的按钮!"
+    }
+
+    "*** platform leaves in 15 seconds ***"
+    {
+        "chi" "平台将在15秒内离开"
+    }
+
+    "*** find the lever ***"
+    {
+        "chi" "找到拉杆"
+    }
+
+}
