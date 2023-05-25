@@ -1,0 +1,226 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** 10 SECONDS left ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** 20 SECONDS LEFT ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** 40 SECONDS left ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** 5 SECONDS LEFT ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** 60 SECONDS LEFT ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** 80 SECONDS LEFT ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** 90 SECONDS LEFT ***"
+    {
+        "chi" "还有90秒"
+    }
+
+    "*** ALL PLAYERS ARE TELEPORTED ***"
+    {
+        "chi" "所有玩家已传送"
+    }
+
+    "*** CONGRATURATION ! END ***"
+    {
+        "chi" "于此终结"
+    }
+
+    "*** DOOR IS OPEN ***"
+    {
+        "chi" "门开了"
+    }
+
+    "*** DOOR OPENING IN 20 SECONDS ***"
+    {
+        "chi" "门20秒后打开"
+    }
+
+    "*** DOOR OPENING IN 50 SECONDS ***"
+    {
+        "chi" "门50秒后打开"
+    }
+
+    "*** END ***"
+    {
+        "chi" "结束了..."
+    }
+
+    "*** FALL BACK ***"
+    {
+        "chi" "撤退"
+    }
+
+    "*** HOLD 120 SECONDS ***"
+    {
+        "chi" "还有两分钟"
+    }
+
+    "*** HOLD 20 SECONDS ***"
+    {
+        "chi" "还有20秒"
+    }
+
+    "*** HOLD 25 SECONDS ***"
+    {
+        "chi" "还有25秒"
+    }
+
+    "*** HOLD 30 SECONDS ***"
+    {
+        "chi" "还有30秒"
+    }
+
+    "*** HOLD 40 SECONDS ***"
+    {
+        "chi" "还有40秒"
+    }
+
+    "*** HOLD 5 SECONDS ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** HOLD 50 SECONDS ***"
+    {
+        "chi" "还有50秒"
+    }
+
+    "*** HOLD 80 SECONDS ***"
+    {
+        "chi" "还有80秒"
+    }
+
+    "*** LEAVING IN 30 SECONDS ***"
+    {
+        "chi" "将于30秒后离开"
+    }
+
+    "*** LEAVING IN 45 SECONDS ***"
+    {
+        "chi" "将于45秒后离开"
+    }
+
+    "*** LEAVING IN 55 SECONDS ***"
+    {
+        "chi" "将于55秒后离开"
+    }
+
+    "*** Map By Rakka ***"
+    {
+        "chi" "地图制作: Rakka"
+    }
+
+    "*** THANK YOU FOR PLAYING ***"
+    {
+        "chi" "感谢各位的游玩"
+    }
+
+    "== Map By Rakka =="
+    {
+        "chi" "地图制作:Rakka 文本翻译:你怎么知道我在玩星穹铁道"
+    }
+
+    "== Original Material By Antosha =="
+    {
+        "chi" "感谢Antosha的原创素材"
+    }
+
+    "== SPECIAL THANKS : Hweyeon , Tsukasa , Koen =="
+    {
+        "chi" "感谢Hweyeon,Tsukasa,Koen的帮助"
+    }
+
+    "== THANKS SERVERS : Zeddy Servers =="
+    {
+        "chi" "感谢Zeddy服务器的帮助"
+    }
+
+    "> [ITEM MASSAGE] XOLY IS LOCK <"
+    {
+        "chi" "天堂已被锁定"
+    }
+
+    "> [ITEM MASSAGE] ZM.cannon IS LOCK <"
+    {
+        "chi" "ZM大炮已被锁定"
+    }
+
+    "> [ITEM MESSAGE] B.CANNON PICK UP (Cool : 60s) <"
+    {
+        "chi" "神器信息: 暗门已被拾取"
+    }
+
+    "> [ITEM MESSAGE] G.CANNON PICK UP (Cool : 20s) <"
+    {
+        "chi" "神器信息: 冰眼已被拾起,冷却20秒"
+    }
+
+    "> [ITEM MESSAGE] P.PLAZMA PICK UP (Cool : 120s) <"
+    {
+        "chi" "神器信息: 黯灭已被拾起,冷却二分钟"
+    }
+
+    "> [ITEM MESSAGE] XOLY PICK UP (Cool :Once Only) <"
+    {
+        "chi" "神器信息: 天堂已被拾起,仅一次"
+    }
+
+    "> [ITEM MESSAGE] Y.CANNON PICK UP (Cool : 30s) <"
+    {
+        "chi" "神器信息: 推推已被拾起,冷却半分钟"
+    }
+
+    "> [ITEM MESSAGE] ZM.CANNON PICK UP (Cool : 40s) <"
+    {
+        "chi" "神器信息: ZM大炮被拾取,冷却四十秒"
+    }
+
+    "> [ITEM MESSAGE] ZM.SPEEDER PICK UP (Cool : 60s) <"
+    {
+        "chi" "神器信息: ZM极速被拾取,冷却一分钟"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
