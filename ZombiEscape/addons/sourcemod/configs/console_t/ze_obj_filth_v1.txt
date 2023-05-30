@@ -1,0 +1,704 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "[MapRelay]  Set falldamage to 0.3"
+    {
+        "chi" "地图设置: 已设置摔伤"
+    }
+
+    "10 seconds"
+    {
+        "chi" "还有10秒"
+    }
+
+    "20 seconds"
+    {
+        "chi" "还有20秒"
+    }
+
+    "30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+    "60 seconds"
+    {
+        "chi" "还有60秒"
+    }
+
+    "90 seconds"
+    {
+        "chi" "还有90秒"
+    }
+
+    "*Radio*: Well done Squad, you successfully get on the train"
+    {
+        "chi" "电台:干得不错,你们终于上车了"
+    }
+
+    "*Radio*: Now your action code change to Filth."
+    {
+        "chi" "电台:现在你们的代号更改为Filth"
+    }
+
+    "Roger."
+    {
+        "chi" "已收到."
+    }
+
+    "This is Code Filth,The train is half way there."
+    {
+        "chi" "这里是filth小组,离目标还有一半路程"
+    }
+
+    "That beast destroyed half of our team, we need reinforcements."
+    {
+        "chi" "那头野兽杀掉了我们一半人,我们急需增援"
+    }
+
+    "*Radio*: Roger that, I have sent reinforcements."
+    {
+        "chi" "电台:已收到,已派出增援力量"
+    }
+
+    "*Radio*: Filth Squad,About the Objective NPST...."
+    {
+        "chi" "电台:Filth小队,关于NPST行动..."
+    }
+
+    "Wait,What was that sound?"
+    {
+        "chi" "等等,什么声音?"
+    }
+
+    "Oh fuck,I should never said that."
+    {
+        "chi" "靠,早知道不说了"
+    }
+
+    "*Radio*: Filth Squad,What happen there,Report."
+    {
+        "chi" "电台:Filth小队,发生了什么,立即回报."
+    }
+
+    "My teammate just turn into zombie,They are attacking the train!"
+    {
+        "chi" "我的部分队员变成了丧尸,它们正在攻击列车!!"
+    }
+
+    "Sir?"
+    {
+        "chi" "长官?..."
+    }
+
+    "Damn it,It's disconnect..."
+    {
+        "chi" "干,连接断了..."
+    }
+
+    "The Train is out of control,everyone HOLD ON!"
+    {
+        "chi" "火车失控了,所有人抓稳!!"
+    }
+
+    "Fuck,Ok,We still alive."
+    {
+        "chi" "靠,还好,我们还活着"
+    }
+
+    "The tunnel ahead is contaminated."
+    {
+        "chi" "隧道前面被污染了."
+    }
+
+    "We need to find another way to the compound."
+    {
+        "chi" "我们得另找路去集散地那里"
+    }
+
+    "Hope we could get through it."
+    {
+        "chi" "希望能坚持过去."
+    }
+
+    "Good luck."
+    {
+        "chi" "希望没事."
+    }
+
+    "Door stuck,Go find something to open it."
+    {
+        "chi" "门卡住了,想办法打开."
+    }
+
+    "Huh,Hope it's still work."
+    {
+        "chi" "呵,希望这玩意还好着"
+    }
+
+    "Give me some time..."
+    {
+        "chi" "需要点时间..."
+    }
+
+    "Power out,I fucking know it."
+    {
+        "chi" "停电了,我就知道"
+    }
+
+    "Gonna force open it."
+    {
+        "chi" "得来点强力手段"
+    }
+
+    "*Radio Message*: We are leaving the extraction zone."
+    {
+        "chi" "呼叫电台:我们正在离开卸货区"
+    }
+
+    "*Radio Message*: The breach has failed to be contained."
+    {
+        "chi" "呼叫电台:缺口已无法控制"
+    }
+
+    "*Radio Message*: The compound has been compromised."
+    {
+        "chi" "呼叫电台:毒气已经泄露了"
+    }
+
+    "Huh,This one definitely broken."
+    {
+        "chi" "呵,这玩意绝对坏了"
+    }
+
+    "*Radio*: Filth?"
+    {
+        "chi" "电台:Filth小队?"
+    }
+
+    "*Radio*: Can't belive you all are still alive."
+    {
+        "chi" "电台:真不敢相信,你们还活着"
+    }
+
+    "We met the reinforcements. How do we get out of this place?"
+    {
+        "chi" "我们已和增援会合,现在我们怎样离开这里?"
+    }
+
+    "*Radio*: I will try to mark your location,Keep fighting."
+    {
+        "chi" "电台:正在确定你们的位置,继续坚持."
+    }
+
+    "*Radio*: See you in the back,Over."
+    {
+        "chi" "电台:待会见,Over"
+    }
+
+    "We can't reach that power room."
+    {
+        "chi" "我们过不去电力室那里"
+    }
+
+    "Break that glass and try to shoot the button."
+    {
+        "chi" "把玻璃打碎,想办法打到那个开关"
+    }
+
+    "It's blocked,We need to push it away."
+    {
+        "chi" "被堵住了,我们得想想办法"
+    }
+
+    "Hmmm...It's so heavy.."
+    {
+        "chi" "额...好沉啊..."
+    }
+
+    "*Radio*: Turn the power on."
+    {
+        "chi" "电台:把电源打开"
+    }
+
+    "*Radio*: It will trigger the bomb."
+    {
+        "chi" "电台:会启动炸弹"
+    }
+
+    "*Radio*: Defend,Make the bomb blow up before you get on the train."
+    {
+        "chi" "电台:想办法守住,在你们上车之前把炸弹引爆了"
+    }
+
+    "*Radio*: Squad Filth,You're nearing the train station."
+    {
+        "chi" "电台:Filth小队,你们离火车站比较近了"
+    }
+
+    "*Radio*: It's on the backyard."
+    {
+        "chi" "电台:在后院那里"
+    }
+
+    "*Radio*: Remember,Don't let the zombies outta here"
+    {
+        "chi" "电台:注意,不能让丧尸从那里离开"
+    }
+
+    "*Radio*: Whatever it takes,Over"
+    {
+        "chi" "电台:无论如何,Over"
+    }
+
+    "Gate isn't opening,Breaking the platform."
+    {
+        "chi" "门开不开,炸开平台"
+    }
+
+    "Emm....Sir?"
+    {
+        "chi" "额...长官?"
+    }
+
+    "*Radio*: What is it,Squad FIlth."
+    {
+        "chi" "电台:怎么了,Filth小队?"
+    }
+
+    "I think we got a problem."
+    {
+        "chi" "我想我们遇到麻烦了"
+    }
+
+    "Driver,Set MAX SPEED!"
+    {
+        "chi" "全速前进!!"
+    }
+
+    "Sir,We blow up that place and escape,Mission complete."
+    {
+        "chi" "报告长官,我们炸掉了那里并成功撤退,任务已完成."
+    }
+
+    "*Radio*:Good work,But unfortunately..."
+    {
+        "chi" "电台:不错,但是不幸的是..."
+    }
+
+    "*Radio*:Squad Vertigo has been down."
+    {
+        "chi" "电台:Vertigo小队已经全员阵亡"
+    }
+
+    "*Radio*: Zombies have been destroy the helicopter."
+    {
+        "chi" "电台:丧尸毁掉了直升机."
+    }
+
+    "What...So who are standing with us..."
+    {
+        "chi" "怎么...所以是谁在和我们一起..."
+    }
+
+    "*Radio*: Rescape squad, they are they key for Objective NPST..."
+    {
+        "chi" "电台:Rescape小队,他们是NPST行动的关键..."
+    }
+
+    "Gonna blow it up!"
+    {
+        "chi" "把它们炸上天!!"
+    }
+
+    "Now run to the gate!"
+    {
+        "chi" "现在到大门那里去!"
+    }
+
+    "Perfect,Bomb will blow up after we left"
+    {
+        "chi" "搞定了,炸弹会在我们离开后爆炸."
+    }
+
+    "Come on everyone,We almost outta this fucking place!"
+    {
+        "chi" "打起精神,我们就要离开这个地方了!!"
+    }
+
+    "Burning!"
+    {
+        "chi" "燃起来了!"
+    }
+
+    "We need to hold the zombies here."
+    {
+        "chi" "我们需要把僵尸挡在这里"
+    }
+
+    "Give more time to warm the boomb up,"
+    {
+        "chi" "准备炸弹需要点时间"
+    }
+
+    "Find a place to survive"
+    {
+        "chi" "找个地方生存下来"
+    }
+
+    "Zombies clean,Time to go now!"
+    {
+        "chi" "僵尸已被清理,是时候出发了"
+    }
+
+    "Hurry up,Get on the train head!"
+    {
+        "chi" "快点,到车头那里去!"
+    }
+
+    "I plant a bomb on the train flatcar!"
+    {
+        "chi" "我在平车上放了炸弹!!"
+    }
+
+    "Don't worry about the zombies on the flatcar!"
+    {
+        "chi" "不用担心平车上的僵尸!"
+    }
+
+    "Watch out the ladder!"
+    {
+        "chi" "当心梯子!!"
+    }
+
+    "Opening the door."
+    {
+        "chi" "正在开门"
+    }
+
+    "Eww,That barrel leaked,Better avoid the toxic."
+    {
+        "chi" "呜,储藏桶泄露了,最后当心点毒气."
+    }
+
+    "A group of people just get off from the helicopter!"
+    {
+        "chi" "有一小队人刚从直升机上下来!!"
+    }
+
+    "That must be the group of civilian armed forces to help us."
+    {
+        "chi" "他们一定是来帮我们的民间武装人员"
+    }
+
+    "They just escaped from a building, hmmm who are they?"
+    {
+        "chi" "他们刚从一座大楼逃脱出来,hmm是谁?"
+    }
+
+    "I am confused about their names...Vertigo Squad? I've heard the name."
+    {
+        "chi" "不太清楚对面的代号...Vertigo?啊我听过这个名字"
+    }
+
+    "Alright,Give me some time to break this."
+    {
+        "chi" "好吧,给点时间破开这个"
+    }
+
+    "Those combine...What the hell is going on.."
+    {
+        "chi" "emmm...这里到底发生了什么.."
+    }
+
+    "I must find the radio.."
+    {
+        "chi" "一定要找到电台..."
+    }
+
+    "Go and start up the train!"
+    {
+        "chi" "启动火车!!"
+    }
+
+    "Opening the Gate."
+    {
+        "chi" "大门正在打开."
+    }
+
+    "*Radio*: Squad Filth,We found your location."
+    {
+        "chi" "电台:Filth小队,我们已经确定了你的位置"
+    }
+
+    "Hurry,Get inside,I'm closing the gate!"
+    {
+        "chi" "搞快点进来,我要关门了!"
+    }
+
+    "*Radio*: Also, There is a train station nearby. A Unstarted train."
+    {
+        "chi" "电台:同时,附近有一处车站,还有一台火车没有离开"
+    }
+
+    "*Radio*: You all could use that train to escape,And continue the objective."
+    {
+        "chi" "电台:你们可以用那个撤退,继续行动"
+    }
+
+    "*Radio*: BUT,You can't let those things escape too"
+    {
+        "chi" "电台:但是你不能让那些玩意逃离"
+    }
+
+    "*Radio*: You have to blow this place up.It will be a hard mission."
+    {
+        "chi" "电台:你得吧这地方炸掉,这将是个艰难的任务"
+    }
+
+    "They are breaking in,Got to go now!"
+    {
+        "chi" "他们正在涌入,快走了!"
+    }
+
+    "Get in, the door is closing."
+    {
+        "chi" "快进来,门正在关闭"
+    }
+
+    "The elevator isn't working"
+    {
+        "chi" "电梯出问题了!!"
+    }
+
+    "They are prying the doors open!"
+    {
+        "chi" "它们正在把门扒开!!"
+    }
+
+    "Quickly jump down to the hatch!"
+    {
+        "chi" "快跳下来!"
+    }
+
+    "Close the bottom elevator doors!"
+    {
+        "chi" "快把电梯门关上!"
+    }
+
+    "Trying to open this gate."
+    {
+        "chi" "正在尝试开门."
+    }
+
+    "Almost..."
+    {
+        "chi" "就快好了..."
+    }
+
+    "I have to turn the power on first!"
+    {
+        "chi" "我得先接通电源!"
+    }
+
+    "It's gonna take a while..."
+    {
+        "chi" "这需要一些时间..."
+    }
+
+    "There is toxic waste everywhere."
+    {
+        "chi" "这里充满了有毒物质"
+    }
+
+    "We must take a ride."
+    {
+        "chi" "我们得快点"
+    }
+
+    "Closing the Gate 01."
+    {
+        "chi" "正在关闭一号门"
+    }
+
+    "Opening the Gate 02"
+    {
+        "chi" "正在开启二号门"
+    }
+
+    "Wait,Power has failed!"
+    {
+        "chi" "等待,电源已离线!"
+    }
+
+    "Hold off until it comes back!"
+    {
+        "chi" "在电源重新上线之前守住!"
+    }
+
+    "Gate 02 is Opening."
+    {
+        "chi" "二号门正在打开"
+    }
+
+    "Rebooting this gate power."
+    {
+        "chi" "正在启动电力"
+    }
+
+    "It's gonna take a while...Hold on!"
+    {
+        "chi" "坚持住...还需要一会"
+    }
+
+    "We have to go under the water."
+    {
+        "chi" "我们得从水下面过去"
+    }
+
+    "Almost open,Get ready!"
+    {
+        "chi" "快开了,准备好!"
+    }
+
+    "Closing the Elevator door."
+    {
+        "chi" "电梯门正在关闭"
+    }
+
+    "This metal crap won't hold too long."
+    {
+        "chi" "这些障碍物挡不了多久"
+    }
+
+    "Go to the bathroom."
+    {
+        "chi" "去盥洗室那里"
+    }
+
+    "Rebooting the elevator."
+    {
+        "chi" "正在重启电梯"
+    }
+
+    "A-Ha,Got it."
+    {
+        "chi" "呕吼,搞定了"
+    }
+
+    "Gate will unlock soon."
+    {
+        "chi" "门马上就开了."
+    }
+
+    "Roger that."
+    {
+        "chi" "已收到"
+    }
+
+    "We will plant the bomb at the exit."
+    {
+        "chi" "我们会在出口处安放炸弹"
+    }
+
+    "Made them into ashes!"
+    {
+        "chi" "把它们炸成灰!"
+    }
+
+    "Sir..We already lost many teammates..."
+    {
+        "chi" "长官..我们已经损失了大量的队员..."
+    }
+
+    "But..I will still try my best to complete the mission."
+    {
+        "chi" "但是..我们会尽力完成任务"
+    }
+
+    "Over...."
+    {
+        "chi" "结束..."
+    }
+
+    "The power is connecting."
+    {
+        "chi" "电源系统正在上线"
+    }
+
+    "Power connect in 60 seconds!"
+    {
+        "chi" "电力系统还有60秒上线!"
+    }
+
+    "Fight for your life!"
+    {
+        "chi" "为生存而战!!"
+    }
+
+    "The power is on!"
+    {
+        "chi" "电力已恢复!"
+    }
+
+    "We can't retreat now..."
+    {
+        "chi" "我们走不了了..."
+    }
+
+    "It is...Our last stand.."
+    {
+        "chi" "已经...无路可退"
+    }
+
+    "Don't let them escape...Fight till the end!"
+    {
+        "chi" "不能让它们离开这里...战斗到底!"
+    }
+
+    "Last 50 seconds..."
+    {
+        "chi" "还有50秒..."
+    }
+
+    "It's my honor to fight with you all.."
+    {
+        "chi" "与你们并肩作战是我的荣幸"
+    }
+
+    "We will meet in other world..."
+    {
+        "chi" "我们另一个世界再见吧..."
+    }
+
+    "We're losing too many teammates..."
+    {
+        "chi" "我们失去了大量同伴..."
+    }
+
+    "There's no way to hold until the bomb blows up."
+    {
+        "chi" "已经拖不住了."
+    }
+
+    "Only one way...To complete the objective."
+    {
+        "chi" "要完成任务只剩下一条路了."
+    }
+
+    "Whatever it takes..."
+    {
+        "chi" "无论如何..."
+    }
+
+}
