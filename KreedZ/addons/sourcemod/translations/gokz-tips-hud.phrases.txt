@@ -27,6 +27,7 @@
 	"cl_draw_only_deathnotices"
 	{
 		"en"		"{grey}Enter {default}cl_draw_only_deathnotices 1 {grey}in console to hide CS:GO's HUD."
+		"chi"		"{grey}在控制台使用 {default}cl_draw_only_deathnotices 1 {grey}指令来隐藏HUD."
 		"ru"		"{grey}Напишите {default}cl_draw_only_deathnotices 1 {grey}в консоль, чтобы скрыть HUD CS:GO."
 	}
 }

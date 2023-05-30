@@ -19,28 +19,65 @@ Phrases
 		"chi"		"{grey}已屏蔽其他玩家模型."
 		"ru"		"{grey}Теперь вы не видите остальных игроков."
 	}
-	"Option - Map Sounds - Enable"
+	"Option - Soundscapes - Enable"
 	{
-		"en"		"{grey}Map sounds are now enabled."
-		"ru"		"{grey}Звуки карты теперь включены."
+		"en"		"{grey}Soundscapes are now enabled."
 	}
-	"Option - Map Sounds - Disable"
+	"Option - Soundscapes - Disable"
 	{
-		"en"		"{grey}Map sounds are now disabled."
-		"ru"		"{grey}Звуки карты теперь выключены."
+		"en"		"{grey}Soundscapes are now disabled."
 	}
 
 
 	// =====[ OPTIONS MENU ]=====
+	"Options Menu - Quiet"
+	{
+		"en"		"Quiet"
+	}
 	"Options Menu - Show Players"
 	{
 		"en"		"Show players"
 		"chi"		"屏蔽其他玩家"
 		"ru"		"Показать игроков"
 	}
-	"Options Menu - Map Sounds"
+	"Options Menu - Soundscapes"
 	{
-		"en"		"Play map sounds"
-		"ru"		"Play map sounds"
+		"en"		"Play soundscapes"
+	}
+	"Options Menu - Fall Damage Sounds"
+	{
+		"en"		"Fall damage sounds"
+	}
+	"Options Menu - Ambient Sounds"
+	{
+		"en"		"Ambient sounds"
+	}
+	"Options Menu - Checkpoint Volume"
+	{
+		"en"		"Checkpoint volume"
+	}
+	"Options Menu - Teleport Volume"
+	{
+		"en"		"Teleport volume"
+	}
+	"Options Menu - Timer Volume"
+	{
+		"en"		"Timer volume"
+	}
+	"Options Menu - Error Volume"
+	{
+		"en"		"Error volume"
+	}
+	"Options Menu - Server Record Volume"
+	{
+		"en"		"Server record volume"
+	}
+	"Options Menu - World Record Volume"
+	{
+		"en"		"World record volume"
+	}
+	"Options Menu - Jumpstats Volume"
+	{
+		"en"		"Jumpstats volume"
 	}
 }

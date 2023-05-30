@@ -3,6 +3,7 @@
 	"!tips"
 	{
 		"en"		"{grey}Don't need these tips like this one showing up in chat? You can toggle them by typing {default}!tips{grey}."
+		"chi"		"{grey}不需要像这样的提示出现在聊天中? 你可以使用 {default}!tips{grey}指令来关闭."
 		"ru"		"{grey}Вам не нужны такие советы, как этот, появляющийся в чате? Вы можете их выключить командой {default}!tips{grey}."
 	}
 }

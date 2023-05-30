@@ -4,21 +4,25 @@
 	"Options Menu - Paint"
 	{
 		"en"		"Paint"
+		"chi"		"喷涂"
 		"ru"		"Краска"
 	}
 	"Options Menu - Paint Color"
 	{
 		"en"		"Color"
+		"chi"		"颜色"
 		"ru"		"Цвет"
 	}
 	"Options Menu - Paint Size"
 	{
 		"en"		"Size"
+		"chi"		"大小"
 		"ru"		"Размер"
 	}
 	"Paint Color Menu - Title"
 	{
 		"en"		"Paint Color"
+		"chi"		"喷涂颜色"
 		"ru"		"Цвет краски"
 	}
 
@@ -27,41 +31,49 @@
 	"Options Menu - Red"
 	{
 		"en"		"Red"
+		"chi"		"红色"
 		"ru"		"Красный"
 	}
 	"Options Menu - White"
 	{
 		"en"		"White"
+		"chi"		"白色"
 		"ru"		"Белый"
 	}
 	"Options Menu - Black"
 	{
 		"en"		"Black"
+		"chi"		"黑色"
 		"ru"		"Черный"
 	}
 	"Options Menu - Blue"
 	{
 		"en"		"Blue"
+		"chi"		"蓝色"
 		"ru"		"Голубой"
 	}
 	"Options Menu - Brown"
 	{
 		"en"		"Brown"
+		"chi"		"棕色"
 		"ru"		"Коричневый"
 	}
 	"Options Menu - Green"
 	{
 		"en"		"Green"
+		"chi"		"绿色"
 		"ru"		"Зелёный"
 	}
 	"Options Menu - Yellow"
 	{
 		"en"		"Yellow"
+		"chi"		"黄色"
 		"ru"		"Жёлтый"
 	}
 	"Options Menu - Purple"
 	{
 		"en"		"Purple"
+		"chi"		"紫色"
 		"ru"		"Фиолетовый"
 	}
 
@@ -70,16 +82,19 @@
 	"Options Menu - Small"
 	{
 		"en"		"Small"
+		"chi"		"小"
 		"ru"		"Маленький"
 	}
 	"Options Menu - Medium"
 	{
 		"en"		"Medium"
+		"chi"		"中"
 		"ru"		"Средний"
 	}
 	"Options Menu - Big"
 	{
 		"en"		"Big"
+		"chi"		"大"
 		"ru"		"Большой"
 	}
 }

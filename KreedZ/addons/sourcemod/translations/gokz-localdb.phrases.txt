@@ -3,121 +3,147 @@
 	"Block"
 	{
 		"en"	"Block"
+		"chi"	"板子"
 		"ru"	"Блок"
 	}
 	"Jump Record"
 	{
+		//	Cinyan10 set a new Long Jump PB of 204.1690 [VNL]
 		"#format"	"{1:N},{2:s},{3:.4f},{4:s}"
 		"en"		"{lime}{1} {grey}set a new {default}{2} {yellow}PB {grey}of {default}{3} {grey}[{purple}{4}{grey}]"
+		"chi"		"{lime}{1} {default}{2} {grey}跳出 {default}{3}{grey}距离 {yellow}打破个人最佳！ [{purple}{4}{grey}]"
 		"ru"		"{lime}{1} {grey}поставил новый {default}{2} {yellow}PB {grey}на {default}{3} {grey}[{purple}{4}{grey}]"
 	}
 	"Block Jump Record"
 	{
+		// 	 Cinyan10 set a new 260 Block Long Jump PB of 266.2586 [KZT]
 		"#format"	"{1:N},{2:d},{3:s},{4:.4f},{5:s}"
 		"en"		"{lime}{1} {grey}set a new {lightgreen}{2} Block {default}{3} {yellow}PB {grey}of {default}{4} {grey}[{purple}{5}{grey}]"
+		"chi"		"{lime}{1} {default}{3} {grey}跳出 {default}{4}{grey}距离{lightgreen}[{2} 板]{yellow}打破个人最佳！ [{purple}{5}{grey}]"
 		"ru"		"{lime}{1} {grey}поставил новый {lightgreen}{2} Block {default}{3} {yellow}PB {grey}на {default}{4} {grey}[{purple}{5}{grey}]"
 	}
 	"Best Jump Deleted"
 	{
 		"#format"	"{1:s},{2:s},{3:s},{4:d},{5:d}"
 		"en"		"{grey}Deleted the {purple}{1} {lightgreen}{2}{default}{3} record of '{default}STEAM_1:{4}:{5}{grey}'"
+		"chi"		"{grey}删除玩家 '{default}STEAM_1:{4}:{5}{grey}' 的 {purple}{1} {lightgreen}{2}{default}{3} 跳跃记录"
 		"ru"		"{grey}Удален {purple}{1} {lightgreen}{2}{default}{3} рекорд у '{default}STEAM_1:{4}:{5}{grey}'"
 	}
 	"All Jumps Deleted"
 	{
 		"#format"	"{1:d},{2:d}"
 		"en"		"{grey}Deleted all jumps of '{default}STEAM_1:{1}:{2}{grey}'"
+		"chi"		"{grey}删除 '{default}STEAM_1:{1}:{2}{grey}' 的全部跳跃数据"
 	}
 	"Jump Deleted"
 	{
 		"#format"	"{1:d}"
 		"en"		"{grey}Deleted jump with id {default}{1}"
+		"chi"		"{grey}删除ID为 {default}{1}的跳跃数据"
 	}
 	"Time Deleted"
 	{
 		"#format"	"{1:d}"
 		"en"		"{grey}Deleted time with id {default}{1}"
+		"chi"		"{grey}删除ID为 {default}{1}的计时"
 	}
 	"No SteamID specified"
 	{
 		"en"		"{darkred}No SteamID specified."
+		"chi"		"{darkred}未指定SteamID."
 		"ru"		"{darkred}Не указан SteamID."
 	}
 	"Invalid SteamID"
 	{
 		"en"		"{darkred}Invalid SteamID (Format: STEAM_1:X:X)."
+		"chi"		"{darkred}无效的SteamID (格式: STEAM_1:X:X)."
 		"ru"		"{darkred}Недопустимый SteamID (Формат: STEAM_1:X:X)."
 	}
 	"Invalid Mode"
 	{
 		"en"		"{darkred}Invalid mode (Options: SKZ, KZT, VNL)"
+		"chi"		"{darkred}无效的模式 (选项: SKZ, KZT, VNL)"
 		"ru"		"{darkred}Несуществующий режим (Режимы: SKZ, KZT, VNL)"
 	}
 	"Invalid Jumptype"
 	{
 		"en"		"{darkred}Invalid jumptype (Options: LJ, BH, MBH, WJ, LAJ, LAH, JB, LBH, LWJ)"
+		"chi"		"{darkred}无效的跳跃类型 (选项: LJ, BH, MBH, WJ, LAJ, LAH, JB, LBH, LWJ)"
 		"ru"		"{darkred}Неверный тип прыжка (Варианты: LJ, BH, MBH, WJ, LAJ, LAH, JB, LBH, LWJ)"
 	}
 	"Invalid Jump ID"
 	{
 		"en"		"{darkred}Invalid jump id."
+		"chi"		"{darkred}无效的 jump id."
 	}
 	"Invalid Time ID"
 	{
 		"en"		"{darkred}Invalid time id."
+		"chi"		"{darkred}无效的 time id."
 	}
 	"Delete Best Jump Usage"
 	{
 		"en"		"Usage: !deletebestjump <STEAM_1:X:X> <mode> <jump type> <block?>"
+		"chi"		"用法: !deletebestjump <STEAM_1:X:X> <模式> <跳跃类型> <板子距离?>"
 		"ru"		"Используйте: !deletebestjump <STEAM_1:X:X> <режим> <тип прыжка> <блок?>"
 	}
 	"Delete All Jumps Usage"
 	{
 		"en"		"Usage: !deletealljumps <STEAM_1:X:X>"
+		"chi"		"用法: !deletealljumps <STEAM_1:X:X>"
 	}
 	"Delete Jump Usage"
 	{
 		"en"		"Usage: !deletejump <id>"
+		"chi"		"用法: !deletejump <id>"
 	}
 	"Delete Time Usage"
 	{
 		"en"		"Usage: !deletetime <id>"
+		"chi"		"用法: !deletetime <id>"
 	}
 	"Set Cheater"
 	{
 		"#format"	"{1:d},{2:d}"
 		"en"		"{grey}SteamID32 '{default}STEAM_1:{1}:{2}{grey}' was set as a cheater."
+		"chi"		"{grey}设置SteamID32为 '{default}STEAM_1:{1}:{2}{grey}' 的玩家为作弊者."
 		"ru"		"{grey}SteamID32 '{default}STEAM_1:{1}:{2}{grey}' задано значение «читер»"
 	}
 	"Set Not Cheater"
 	{
 		"#format"	"{1:d},{2:d}"
 		"en"		"{grey}SteamID32 '{default}STEAM_1:{1}:{2}{grey}' was set as not a cheater."
+		"chi"		"{grey}设置SteamID32为 '{default}STEAM_1:{1}:{2}{grey}'的玩家为非作弊者."
 		"ru"		"{grey}SteamID32 '{default}STEAM_1:{1}:{2}{grey}' задано значение «не читер»"
 	}
 	"Timer Setup Saved"
 	{
 		"en"		"{grey}Saved the current timer setup!"
+		"chi"		"{grey}已保存当前计时器设置!"
 		"ru"		"{grey}Сохранена текущая настройка таймера!"
 	}
 	"Timer Setup Loaded"
 	{
 		"en"		"{grey}Timer setup loaded!"
+		"chi"		"{grey}计时器设置已加载!"
 		"ru"		"{grey}Настройка таймера загружена!"
 	}
 	"Options Menu - Disabled"
 	{
 		"en"		"Disabled"
+		"chi"		"禁用"
 		"ru"		"Выключен"
 	}
 	"Options Menu - Enabled"
 	{
 		"en"		"Enabled"
+		"chi"		"启用"
 		"ru"		"Включен"
 	}
 	"Options Menu - Auto Load Timer Setup"
 	{
 		"en"		"Load & lock timer setup at map start"
+		"chi"		"地图开始时加载和锁定计时器设置"
 		"ru"		"Загрузка и блокировка таймера при запуске карты"
 	}
 }

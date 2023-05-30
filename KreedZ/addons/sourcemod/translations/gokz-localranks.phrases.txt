@@ -22,7 +22,7 @@
 		// kz_fakemap Main Course wasn't found.
 		"#format"	"{1:s}"
 		"en"		"{default}{1} {bluegrey}Main Course{grey} wasn't found."
-		"chi"			"地图{default}{1} {bluegrey}回放路点{grey}未找到."
+		"chi"		"地图{default}{1} {bluegrey}回放路点{grey}未找到."
 		"ru"		"{default}{1} {bluegrey}Основное прохождение{grey} не найдено."
 	}
 	"Bonus Not Found"
@@ -30,7 +30,7 @@
 		// kz_fakemap Bonus 1 wasn't found.
 		"#format"	"{1:s},{2:d}"
 		"en"		"{default}{1} {bluegrey}Bonus {2}{grey} wasn't found."
-		"chi"			"{default}{1} {bluegrey}第{2}阶加成{grey}未找到."
+		"chi"		"{default}{1} {bluegrey}第{2}阶加成{grey}未找到."
 		"ru"		"{default}{1} {bluegrey}Bonus {2}{grey} не найден."
 	}
 	"No Times Found"
@@ -50,6 +50,18 @@
 		"en"		"{grey}This server hasn't set any maps to be ranked."
 		"chi"		"{grey}本服务器没有设定可排名的地图."
 		"ru"		"{grey}На этом сервере нет ранжирования по картам."
+	}
+	"Ranked Map Pool - Error"
+	{
+		"en"		"{darkred}There was a problem updating the ranked map pool."
+	}
+	"Ranked Map Pool - Success"
+	{
+		"en"		"{grey}The ranked map pool was updated."
+	}
+        "Ranked Map Pool - No Maps In File"
+	{
+		"en"		"{darkred}No maps found in the ranked map pool file."
 	}
 	"New Record (NUB)"
 	{
@@ -378,6 +390,7 @@
 	"No Jumpstats Found"
 	{
 		"en"		"{grey}No jumpstats were found!"
+		"chi"		"{grey}未找到跳跃数据!"
 		"ru"		"{grey}Статистика прыжков не найдена!"
 	}
 	"Jump Record"
@@ -404,6 +417,7 @@
 		// Select a Mode
 		"#format"	"{1:s}"
 		"en"		"Map Top\n \nMap - {1}\n \nSelect a Mode"
+		"chi"		"地图排行\n \n地图 - {1}\n \n选择模式"
 		"ru"		"Топ карты\n \nКарта - {1}\n \nВыбрать режим"
 	}
 	"Map Top Mode Menu - Title (Bonus)"
@@ -415,6 +429,7 @@
 		// Select a Mode
 		"#format"	"{1:s},{2:d}"
 		"en"		"Bonus Top\n \nMap - {1} (Bonus {2})\n \nSelect a Mode"
+		"chi"		"奖励关排行\n \n地图 - {1} (奖励关 {2})\n \n选择地图"
 		"ru"		"Топ бонуса\n \nКарта - {1} (Бонус {2})\n \nВыбрать режим"
 	}
 	"Map Top Menu - Title"
@@ -454,6 +469,7 @@
 		// Global Top PRO
 		"#format"	"{1:s}"
 		"en"		"Global Top {1}"
+		"chi"		"全球排行 {1}"
 		"ru"		"Глобальный топ {1}"
 	}
 	"Map Top Submenu - Title"
@@ -489,6 +505,7 @@
 		//
 		// Select a Mode
 		"en"		"Top Record Holders\n \nSelect a Mode"
+		"chi"		"服务器记录持有者排行\n \n选择模式"
 		"ru"		"Топ лучших рекордсменов\n \nВыбрать режим"
 	}
 	"Player Top Menu - Title"
@@ -528,41 +545,50 @@
 	{
 		"#format"	"{1:s}"
 		"en"		"Jumpstats\n \nPlayer - {1}\n \nSelect a Mode"
+		"chi"		"跳跃数据\n \n玩家 - {1}\n \n选择模式"
 	}
 	"Jump Stats Block Type Menu - Title"
 	{
 		"#format"	"{1:s},{2:s}"
 		"en"		"Jumpstats\n \nPlayer - {1}\nMode - {2}\n \nSelect a Category"
+		"chi"		"跳跃数据\n \n玩家 - {1}\n模式 - {2}\n \n选择类别"
 	}
 	"Jump Stats Submenu - Title (Jump)"
 	{
 		"#format"	"{1:s},{2:s}"
 		"en"		"Jumpstats\n \nPlayer - {1}\nMode - {2}\n "
+		"chi"		"跳跃数据\n \n玩家 - {1}\n模式 - {2}\n "
 	}
 	"Jump Stats Submenu - Title (Block Jump)"
 	{
 		"#format"	"{1:s},{2:s}"
 		"en"		"Block Jumpstats\n \nPlayer - {1}\nMode - {2}\n "
+		"chi"		"跳跃数据\n \n玩家 - {1}\n模式 - {2}\n "
 	}
 	"Jump Stats Menu - No Jump Stats"
 	{
 		"#format"	"{1:s}"
 		"en"		"{lime}{1} {grey}does not have any jumpstats."
+		"chi"		"{lime}{1} {grey}没有任何跳跃数据."
 	}
 	"Jump Stats Menu - No Block Jump Stats"
 	{
 		"#format"	"{1:s}"
 		"en"		"{lime}{1} {grey}does not have any block jumpstats."
+		"chi"		"{lime}{1} {grey}没有任何板子跳跃数据."
 	}
 	"Jump Stats - Jump Console Header"
 	{
+		//KZTimer jumpstats for Bill <STEAM_1:x:xxxxx>
 		"#format"	"{1:s},{2:s},{3:d},{4:d}"
 		"en"		"{1} jumpstats for {2} <STEAM_1:{3}:{4}>"
+		"chi"		"玩家 {2} 的 {1} 跳跃数据  <STEAM_1:{3}:{4}>"
 	}
 	"Jump Stats - Block Jump Console Header"
 	{
 		"#format"	"{1:s},{2:s},{3:d},{4:d}"
 		"en"		"{1} block jumpstats for {2} <STEAM_1:{3}:{4}>"
+		"chi"		"玩家 {2} 的 {1} 板子跳跃数据  <STEAM_1:{3}:{4}>"
 	}
 
 
@@ -572,6 +598,7 @@
 		// Recently Broken Records
 		//
 		"en"		"Recently Broken Records\n \nSelect a Mode"
+		"chi"		"最近刷新的记录\n \n选择模式"
 	}
 	"Recent Records Menu - Title"
 	{
@@ -609,41 +636,49 @@
 	"Top"
 	{
 		"en"		"Top"
+		"chi"		"排行"
 		"ru"		"Топ"
 	}
 	"Jumpstats"
 	{
 		"en"		"Jumpstats"
+		"chi"		"跳跃数据"
 		"ru"		"Статистика прыжков"
 	}
 	"Jump Records"
 	{
 		"en"		"Jump Records"
+		"chi"		"跳跃记录"
 		"ru"		"Рекорды прыжков"
 	}
 	"Jump Top Mode Menu - Title"
 	{
 		"en"		"Jumpstats Top\n \nSelect a Mode"
+		"chi"		"跳跃数据排行\n \n选择模式"
 	}
 	"Jump Top Type Menu - Title"
 	{
 		"#format"	"{1:s}"
 		"en"		"Jumpstats Top\n \nMode - {1}\n \nSelect a Type"
+		"chi"		"跳跃数据排行\n \n模式 - {1}\n \n选择模式"
 	}
 	"Jump Top Block Type Menu - Title"
 	{
 		"#format"	"{1:s},{2:s}"
 		"en"		"Jumpstats Top\n \nMode - {1}\nType - {2}\n \nSelect a Category"
+		"chi"		"跳跃数据\n \n模式 - {1}\n类型 - {2}\n \n选择类别"
 	}
 	"Jump Top Submenu - Title (Jump)"
 	{
 		"#format"	"{1:s},{2:s}"
 		"en"		"Jumpstats Top\n \nMode - {1}\nType - {2}\n "
+		"chi"		"跳跃数据排行\n \n模式 - {1}\nType - {2}\n "
 	}
 	"Jump Top Submenu - Title (Block Jump)"
 	{
 		"#format"	"{1:s},{2:s}"
 		"en"		"Block Jumpstats Top\n \nMode - {1}\nType - {2}\n "
+		"chi"		"板子跳跃数据排行\n \n模式 - {1}\n类别 - {2}\n "
 	}
 
 
@@ -651,21 +686,25 @@
 	"Strafes"
 	{
 		"en"		"Strafes"
+		"chi"		"加速"
 		"ru"		"Стрейфы"
 	}
 	"Sync"
 	{
 		"en"		"Sync"
+		"chi"		"同步"
 		"ru"		"Sync"
 	}
 	"Pre"
 	{
 		"en"		"Pre"
+		"chi"		"地速"
 		"ru"		"Pre"
 	}
 	"Max"
 	{
 		"en"		"Max"
+		"chi"		"空速"
 		"ru"		"Макс."
 	}
 	"Air"
@@ -676,6 +715,7 @@
 	"Block"
 	{
 		"en"		"Block"
+		"chi"		"板子"
 		"ru"		"Блок"
 	}
 }

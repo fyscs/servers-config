@@ -34,21 +34,25 @@
 	"Option - Timer Style - Standard"
 	{
 		"en"		"{grey}Your timer text style is now standard."
+		"chi"		"{grey}你的计时器文本已切换到标准模式."
 		"ru"		"{grey}Ваш стиль текста таймера теперь стандартный."
 	}
 	"Option - Timer Style - Precise"
 	{
 		"en"		"{grey}Your timer text style is now more precise."
+		"chi"		"{grey}你的计时器文本已切换到精确模式."
 		"ru"		"{grey}Ваш стиль текста таймера теперь более точен."
 	}
 	"Option - Timer Type - Enabled"
 	{
 		"en"		"{grey}Your timer now displays the type of run."
+		"chi"		"{grey}你的计时器现在显示 NUB/PRO."
 		"ru"		"{grey}Ваш таймер теперь отображает тип запуска."
 	}
 	"Option - Timer Type - Disabled"
 	{
 		"en"		"{grey}Your timer now hides the type of run."
+		"chi"		"{grey}你的计时器文本现在已隐藏 NUB/PRO."
 		"ru"		"{grey}Ваше время теперь скрывает тип запуска."
 	}
 	"Option - Show Weapon - Enable"
@@ -66,44 +70,61 @@
 	"Option - Show Controls - Enable"
 	{
 		"en"		"{grey}Replay controls are now shown, when available."
+		"chi"		"{grey}回放控制器现在已显示(如果可用)."
 	}
 	"Option - Show Controls - Disable"
 	{
 		"en"		"{grey}Replay controls are now hidden."
+		"chi"		"{grey}回放控制器已隐藏."
 	}
 	"Option - Dead Strafe - Enable"
 	{
 		"en"		"{grey}The speed text now indicates period with low airstrafe gain."
+		"chi"		"{grey}现在计时器文本会指示加速低增益的时间."
 	}
 	"Option - Dead Strafe - Disable"
 	{
 		"en"		"{grey}Dead strafe period indicator disabled."
+		"chi"		"{grey}加速低增益时间指示器已关闭."
 	}
 	"Option - Show Spectators - Disable"
 	{
-		"en"		"{grey}Spectators are now not shown."
+		"en"		"{grey}Spectators are no longer shown."
+		"chi"		"{grey}已隐藏观察者."
 	}
 	"Option - Show Spectators - Number"
 	{
 		"en"		"{grey}Number of spectators is now shown."
+		"chi"		"{grey}已显示观察者数量."
 	}
 	"Option - Show Spectators - Full"
 	{
 		"en"		"{grey}Number and names of spectators are now shown."
+		"chi"		"{grey}已显示观察者名称和数量."
 	}
 	"Option - Dynamic Menu - Legacy"
 	{
 		"en"		"{grey}Dynamic menu is set to legacy mode."
+		"chi"		"{grey}动态菜单设置为传统模式."
 	}
 	"Option - Dynamic Menu - Disable"
 	{
 		"en"		"{grey}Dynamic menu disabled. Every menu option is now selectable."
+		"chi"		"{grey}动态菜单已禁用。现在可以选择每个菜单选项."
 	}
 	"Option - Dynamic Menu - Enable"
 	{
 		"en"		"{grey}Dynamic menu enabled. Unavailable options are now unselectable. This option is not recommended with high latency!"
+		"chi"		"{grey}已启用动态菜单。不可用选项现在不可选择。对于高延迟，不建议使用此选项！"
 	}
-
+	"Option - Spectator List Position - Info Panel"
+	{
+		"en"		"{grey}Spectator list now displays in the centre panel."
+	}
+	"Option - Spectator List Position - TP Menu"
+	{
+		"en"		"{grey}Spectator list now displays in the teleport menu."
+	}
 
 	// =====[ INFO PANEL ]=====
 	"Info Panel Text - Time"
@@ -143,11 +164,13 @@
 	{
 		"#format"	"{1:d},{2:s}"
 		"en"		"Specs ({1}):\n{2}"
+		"chi"		"观察者 ({1}):\n{2}"
 	}
 	"TP Menu - Spectators - Number"
 	{
 		"#format"	"{1:d}"
 		"en"		"Specs: {1}"
+		"chi"		"观察者: {1}"
 	}
 	"TP Menu - Checkpoint"
 	{
@@ -213,6 +236,7 @@
 	{
 		"#format"	"{1:d}"
 		"en"		"Teleports: {1}"
+		"chi"		"传送: {1}"
 	}
 
 
@@ -249,11 +273,13 @@
 	"Options Menu - Timer Style"
 	{
 		"en"		"Timer style"
+		"chi"		"计时器文本样式"
 		"ru"		"Стиль таймера"
 	}
 	"Options Menu - Timer Type"
 	{
 		"en"		"Show run type"
+		"chi"		"显示 NUB/PRO 类型"
 		"ru"		"Показать тип старта"
 	}
 	"Options Menu - Speed Text"
@@ -265,6 +291,7 @@
 	"Options Menu - Dead Strafe Indicator"
 	{
 		"en"		"Dead strafe period"
+		"chi"		"加速低增益时间显示(VNL)"
 	}
 	"Options Menu - Show Weapon"
 	{
@@ -275,37 +302,81 @@
 	"Options Menu - Show Controls"
 	{
 		"en"		"Show replay controls"
+		"chi"		"显示回放控制器"
 	}
 	"Options Menu - Update Rate"
 	{
 		"en"		"Update rate"
+		"chi"		"更新频率"
 	}
 	"Options Menu - Show Spectators"
 	{
 		"en"		"Show spectators"
+		"chi"		"显示观察者"
 	}
 	"Options Menu - Number"
 	{
 		"en"		"Number"
+		"chi"		"人数"
 	}
 	"Options Menu - Number and Names"
 	{
 		"en"		"Number and Names"
+		"chi"		"人数和名称"
+	}
+	"Options Menu - Spectator List Position"
+	{
+		"en"		"Spectator list position"
 	}
 	"Options Menu - Dynamic Menu"
 	{
 		"en"		"Dynamic menu"
+		"chi"		"动态菜单"
 	}
 
 	// =====[ RACING ]=====
 	"Get Ready"
 	{
 		"en"		"GET READY"
+		"chi"		"准备"
 		"ru"		"ПРИГОТОВИТЬСЯ"
 	}
 	"Go!"
 	{
 		"en"		"GO!"
+		"chi"		"开始!"
 		"ru"		"НАЧАЛИ!"
+	}
+
+	// =====[ SPECTATOR LIST ]=====
+	"Spectator List - Menu (Number)"
+	{
+		"#format"	"{1:d}"
+		"en"		"Specs: {1}"
+	}
+	"Spectator List - Menu (Full)"
+	{
+		"#format"	"{1:d},{2:s}"
+		"en"		"Specs ({1})\n{2}"
+	}
+	"Spectator List - Info Panel (Number)"
+	{
+		// Specs: 2
+		"#format"	"{1:d}"
+		"en"		"Specs: <font color='#ffffff'>{1}</font>"
+	}
+	"Spectator List - Info Panel (Full)"
+	{
+		// Specs (2): P1, P2
+		"#format"	"{1:d},{2:s}"
+		"en"		"Specs ({1}): <font color='#ffffff'>{2}</font>"
+	}
+	"Options Menu - Number"
+	{
+		"en"		"Number"
+	}
+	"Options Menu - Number & Names"
+	{
+		"en"		"Number & names"
 	}
 }

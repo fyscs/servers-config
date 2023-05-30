@@ -56,6 +56,7 @@
 	"Anti Checkpoint Area Warning"
 	{
 		"en"		"{yellow}Warning{grey}: Checkpoint created in checkpoint disabled area."
+		"chi"		"{yellow}警告{grey}: 存点创建在禁用存点区域."
 	}
 	"Can't Checkpoint (Midair)"
 	{
@@ -72,6 +73,7 @@
 	"Can't Checkpoint (Anti Checkpoint Area)"
 	{
 		"en"		"{darkred}You can't checkpoint because checkpoints are disabled in this area."
+		"chi"		"{darkred}此区域禁止存点."
 	}
 	"Can't Teleport (No Checkpoints)"
 	{
@@ -118,10 +120,12 @@
 	"Can't Undo (AntiCp)"
 	{
 		"en"		"{darkred}You can't undo because you teleported while in an anti-checkpoint zone."
+		"chi"		"{darkred}你无法撤销，因为你在禁止存点区域."
 	}
 	"Can't Pause (Generic)"
 	{
 		"en"		"{darkred}You can't pause right now."
+		"chi"		"{darkred}你现在不能暂停."
 	}
 	"Can't Pause (Just Resumed)"
 	{
@@ -138,15 +142,18 @@
 	"Can't Pause (Just Landed)"
 	{
 		"en"		"{darkred}You can't pause because you just landed."
+		"chi"		"{darkred}你不能暂停，因为你还没有站稳."	
 		"ru"		"{darkred}Вы не можете поставить паузу после приземления."
 	}
 	"Can't Pause (Anti Pause Area)"
 	{
 		"en"		"{darkred}You can't pause because pausing is disabled in this area."
+		"chi"		"{darkred}此区域禁止暂停."
 	}
 	"Can't Resume (Generic)"
 	{
 		"en"		"{darkred}You can't resume right now."
+		"chi"		"{darkred}你现在不能恢复计时."	
 	}
 	"Can't Resume (Just Paused)"
 	{
@@ -185,54 +192,65 @@
 	"No Start Found"
 	{
 		"en"		"{grey}The start of the {bluegrey}Main Course {grey}was not found."
+		"chi"		"{grey}未找到 {bluegrey}主关卡 {grey}的起点."
 		"ru"		"{grey}Начало {bluegrey}основного прохождения {grey}не найдено."
 	}
 	"No Start Found (Bonus)"
 	{
 		"#format"	"{1:d}"
 		"en"		"{grey}The start of {bluegrey}Bonus {1} {grey}was not found."
+		"chi"		"{grey}未找到 {bluegrey}奖励关 {1} {grey}的起点."
 		"ru"		"{grey}Начало {bluegrey}Bonus {1} {grey}не найдено."
 	}	
 	"No End Found"
 	{
 		"en"		"{grey}The end of the {bluegrey}Main Course {grey}was not found."
+		"chi"		"{grey}未找到 {bluegrey}主关卡 {grey}的终点."
 	}
 	"No End Found (Bonus)"
 	{
 		"#format"	"{1:d}"
 		"en"		"{grey}The end of {bluegrey}Bonus {1} {grey}was not found."
+		"chi"		"{grey}未找到 {bluegrey}奖励关 {1} {grey}的开头."
 	}
 	"Option - Virtual Button Indicators - Enable"
 	{
 		"en"		"{grey}Your virtual start and end buttons are now indicated by circles."
+		"chi"		"{grey}你已开启虚拟计时器."
 		"ru"		"{grey}Кнопки начала и окончания теперь обозначены кругами."
 	}
 	"Option - Virtual Button Indicators - Disable"
 	{
 		"en"		"{grey}Your virtual start and end buttons are no longer indicated."
+		"chi"		"{grey}你已关闭虚拟计时器."	
 		"ru"		"{grey}Кнопки начала и окончания теперь не обозначены кругами."
 	}
 	"Locked Virtual Buttons"
 	{
 		"en"		"{grey}You have locked your virtual buttons."
+		"chi"		"{grey}你已锁定虚拟计时器."
 		"ru"		"{grey}Вы заблокировали свои виртуальные кнопки начала и окончания."
 	}
 	"Unlocked Virtual Buttons"
 	{
 		"en"		"{grey}You have unlocked your virtual buttons."
+		"chi"		"{grey}你已解锁虚拟计时器."
 		"ru"		"{grey}Вы разблокировали свои виртуальные кнопки начала и окончания."
 	}
 	"Option - Safeguard - Disable"
 	{
 		"en"		"{grey}Safeguard disabled."
+		"chi"		"{grey}已关闭保护模式."
 	}
 	"Option - Safeguard - Enable (NUB)"
 	{
 		"en"		"{grey}Safeguard for {yellow}NUB {grey}runs enabled. You can no longer issue any command that would stop your timer during a valid run."
+		"chi"		"{yellow}读点 {grey}保护模式已开启. 你不能再使用会导致计时停止的命令."
 	}
 	"Option - Safeguard - Enable (PRO)"
 	{
 		"en"		"{grey}Safeguard for {blue}PRO {grey}runs enabled. You can no longer use teleports or issue any command that would stop your timer during a valid run."
+		"chi"		"{blue}裸跳 {grey}保护模式已开启. 你不能再使用传送和会导致计时停止的命令."
 	}
 
 	// =====[ MODE MENU ]=====
@@ -254,6 +272,7 @@
 	"Options Menu - General"
 	{
 		"en"		"General"
+		"chi"		"一般选项"
 		"ru"		"Общее"
 	}
 	"Options Menu - Mode"
@@ -265,6 +284,7 @@
 	"Options Menu - Style"
 	{
 		"en"		"Style"
+		"chi"		"样式"
 		"ru"		"Стиль"
 	}
 	"Options Menu - Checkpoint Messages"
@@ -294,15 +314,22 @@
 	"Options Menu - Virtual Button Indicators"
 	{
 		"en"		"Virtual button indicators"
+		"chi"		"虚拟计时器"
 		"ru"		"Виртуальное обозначение кнопок"
 	}
 	"Options Menu - Timer Button Zone Type"
 	{
 		"en"		"Timer button/zone type"
+		"chi"		"计时器模式手动/自动"
+	}
+	"Options Menu - Button Through Players"
+	{
+		"en"		"Press button through players"
 	}
 	"Options Menu - Safeguard"
 	{
 		"en"		"Run safeguard"
+		"chi"		"保护模式"
 	}
 
 
@@ -311,21 +338,26 @@
 	"Timer Button Zone Type - Both Buttons"
 	{
 		"en"		"Both buttons"
+		"chi"		"都为手动"
 	}
 	"Timer Button Zone Type - Only End Zone"
 	{
 		"en"		"Only end zone"
+		"chi"		"仅终点自动"
 	}
 	"Timer Button Zone Type - Both Zones"
 	{
 		"en"		"Both zones"
+		"chi"		"都为自动"	
 	}
 	"Safeguard - Enabled NUB"
 	{
 		"en"		"Enabled (NUB)"
+		"chi"		"开启(读点)"
 	}
 	"Safeguard - Enabled PRO"
 	{
 		"en"		"Enabled (PRO)"
+		"chi"		"开启 (裸跳)"
 	}
 }

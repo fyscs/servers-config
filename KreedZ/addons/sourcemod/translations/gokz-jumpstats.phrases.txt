@@ -21,13 +21,13 @@
 	"Pre"
 	{
 		"en"		"Pre"
-		"chi"		"Pre"
+		"chi"		"地速"
 		"ru"		"Pre"
 	}
 	"Max"
 	{
 		"en"		"Max"
-		"chi"		"Max"
+		"chi"		"空速"
 		"ru"		"Макс."
 	}
 	"Strafes" // Plural
@@ -63,26 +63,31 @@
 	"Avg. Width"
 	{
 		"en"		"Avg. Width"
+		"chi"		"平均角度"
 		"ru"		"Ср. ширина"
 	}
 	"Block"
 	{
 		"en"		"Block"
+		"chi"		"板子"
 		"ru"		"Блок"
 	}
 	"Overlap"
 	{
 		"en"		"OL"
+		"chi"		"冲突"
 		"ru"		"OL"
 	}
 	"Dead Air"
 	{
 		"en"		"DA"
+		"chi"		"无操作"
 		"ru"		"DA"
 	}
 	"Edge"
 	{
 		"en"		"Edge"
+		"chi"		"边距"
 		"ru"		"Край"
 	}
 	"Edge Short"
@@ -93,6 +98,7 @@
 	"Deviation"
 	{
 		"en"		"Deviation"
+		"chi"		"偏移"
 		"ru"		"Отклонение"
 	}
 	"W Release"
@@ -103,11 +109,13 @@
 	"Width"
 	{
 		"en"		"Width"
+		"chi"		"幅度"
 		"ru"		"Ширина"
 	}
 	"Speed"
 	{
 		"en"		"Speed"
+		"chi"		"速度"
 		"ru"		"Скорость"
 	}
 	"Crouch Ticks"
@@ -151,17 +159,20 @@
 	"Jumpstats Option - Jumpstats Always - Enable"
 	{
 		"en"		"{grey}You have enabled the always-on jumpstats."
+		"chi"		"{grey}你已开启 总是显示跳跃数据."
 		"ru"		"{grey}Вы включили постоянные отчеты по прыжкам."
 	}
 	"Jumpstats Option - Jumpstats Always - Disable"
 	{
 		"en"		"{grey}You have disabled the always-on jumpstats."
+		"chi"		"{grey}你已关闭 总是显示跳跃数据."
 		"ru"		"{grey}Вы отключили постоянные отчеты по прыжкам."
 	}
 	"Broadcast Jumpstat Chat Report"
 	{
 		"#format"	"{1:s},{2:N},{3:.2f},{4:s}"
 		"en"		"{1}{2} jumped {3} units with a {4}"
+		"chi"		"{1}{2} 跳出了 {3} 距离 [{4}]"
 		"ru"		"{1}{2} прыгнул {3} юнитов с {4}"
 	}
 
@@ -211,16 +222,19 @@
 	"Width (Table)"
 	{
 		"en"		"Width     "
+		"chi"		"加速幅度     "
 		"ru"		"Width     "
 	}
 	"Overlap (Table)"
 	{
 		"en"		"OL     "
+		"chi"		"冲突     "
 		"ru"		"OL     "
 	}
 	"Dead Air (Table)"
 	{
 		"en"		"DA     "
+		"chi"		"无操作     "
 		"ru"		"DA     "
 	}
 
@@ -229,6 +243,7 @@
 	"Options Menu - Jumpstats"
 	{
 		"en"		"Jumpstats"
+		"chi"		"跳跃数据"
 		"ru"		"Статистика прыжков"
 	}
 	"Options Menu - Jumpstats Master Switch"
@@ -258,31 +273,37 @@
 	"Options Menu - Extended Jump Chat Report"
 	{
 		"en"		"Extended Chat Report"
+		"chi"		"更多数据显示在聊天栏"
 		"ru"		"Расширенные оповещения в чат"
 	}
 	"Options Menu - Failstats Console Report"
 	{
 		"en"		"Failstats Console Report"
+		"chi"		"未上板跳跃数据显示在控制台"
 		"ru"		"Оповещения в консоль о плохих прыжках"
 	}
 	"Options Menu - Failstats Chat Report"
 	{
 		"en"		"Failstats Chat Report"
+		"chi"		"未上板跳跃数据显示在聊天框"
 		"ru"		"Оповещения в чат о плохих прыжках"
 	}
 	"Options Menu - Jumpstats Always"
 	{
 		"en"		"Always Print Jumpstats"
+		"chi"		"总是显示跳跃数据"
 		"ru"		"Всегда показывать статистику прыжков"
 	}
 	"Options Menu - Minimal Jump Chat Broadcast Tier"
 	{
 		"en"		"Min Chat Broadcast Tier"
+		"chi"		"在聊天栏广播的最低的跳跃等级"
 		"ru"		"Мин. Tier для оповещения"
 	}
 	"Options Menu - Minimal Jump Sound Broadcast Tier"
 	{
 		"en"		"Min Sound Broadcast Tier"
+		"chi"		"广播声音的最低的跳跃等级"
 		"ru"		"Мин. Tier для проигрывания звука"
 	}
 }

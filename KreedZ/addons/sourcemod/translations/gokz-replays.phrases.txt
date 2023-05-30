@@ -24,6 +24,7 @@
 	"No Replay Found"
 	{
 		"en"		"{red}No replay found!"
+		"chi"		"{red}本地未找到回放!"
 	}
 
 
@@ -37,7 +38,7 @@
 		//
 		"#format"	"{1:s},{2:s}"
 		"en"		"Load a Replay\n \nMap - {1}\nMode - {2}\n "
-		"chi"		"加载录像\n \nMap - {1}\n模式 - {2}\n "
+		"chi"		"加载录像\n \n地图 - {1}\n模式 - {2}\n "
 		"ru"		"Загрузить повтор\n \nКарта - {1}\nРежим - {2}\n "
 	}
 	"Replay Menu (Mode) - Title"
@@ -49,22 +50,25 @@
 		// Select a Mode
 		"#format"	"{1:s}"
 		"en"		"Load a Replay\n \nMap - {1}\n \nSelect a Mode"
-		"chi"		"加载录像\n \nMap - {1}\n \n选择模式"
+		"chi"		"加载录像\n \n地图 - {1}\n \n选择模式"
 		"ru"		"Загрузить повтор\n \nКарта - {1}\n \nВыбрать режим"
 	}
 	"Replay Menu - Wrong Map"
 	{
 		"#format"	"{1:s}"
 		"en"		"{darkred}This replay was not recorded on this map. Please switch to {1} and try again."
+		"chi"		"{darkred}此回放并非在此地图上记录的. 请切换到 {1} 再次尝试."
 	}
 	"Replay Menu - No File"
 	{
 		"en"		"{darkred}There is no file for this replay. Please contact an admin if you think this is an error."
+		"chi"		"{darkred}没有用于此回放的文件. 如果你认为这是一个错误，请联系管理员."
 	}
 	"Replay Menu - Wrong Tickrate"
 	{
 		"#format"	"{1:f},{2:f}"
 		"en"		"{darkred}This replay was recorded on {1} tickrate. This server's tickrate is {2}."
+		"chi"		"{darkred}回放是在 {1} tick服务器记录的. 此服务器是 {2}tick."
 	}
 
 
@@ -72,45 +76,54 @@
 	"Replay Controls - Title"
 	{
 		"en"		"Replay Controls"
+		"chi"		"回放控制器"
 		"ru"		"Управление повтором"
 	}
 	"Replay Controls - Teleports"
 	{
 		"#format"	"{1:d}"
 		"en"		"Teleports: {1}"
+		"chi"		"传送: {1}"
 	}
 	"Replay Controls - Pause"
 	{
 		"en"		"Pause"
+		"chi"		"暂停"
 		"ru"		"Пауза"
 	}
 	"Replay Controls - Resume"
 	{
 		"en"		"Resume"
+		"chi"		"恢复"
 		"ru"		"Продолжить"
 	}
 	"Replay Controls - Skip"
 	{
 		"en"		"Skip 10s"
+		"chi"		"前进 10 秒"
 		"ru"		"Пропустить 10с"
 	}
 	"Replay Controls - Rewind"
 	{
 		"en"		"Rewind 10s"
+		"chi"		"回退 10 秒"
 		"ru"		"Перемотать 10с"
 	}
 	"Replay Controls - Freecam"
 	{
 		"en"		"Freecam"
+		"chi"		"自由视角"
 		"ru"		"Свободная камера"
 	}
 	"Replay Controls - Exit"
 	{
 		"en"		"Exit"
+		"chi"		"退出"
 	}
 	"Replay Controls - Invalid Time"
 	{
 		"en"		"{red}Invalid Time."
+		"chi"		"{red}无效的计时."
 		"ru"		"{red}Неправильное время."
 	}
 }

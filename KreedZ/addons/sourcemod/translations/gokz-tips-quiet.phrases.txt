@@ -3,6 +3,7 @@
 	"!stopsound"
 	{
 		"en"		"{grey}Type {default}!stopsound {grey}to stop sounds such as map music."
+		"chi"		"{grey}使用 {default}!stopsound {grey}指令来停止地图音乐."
 		"ru"		"{grey}Напишите {default}!stopsound {grey}для выключения всех звуков карты."
 	}
 }

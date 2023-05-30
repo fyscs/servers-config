@@ -82,6 +82,7 @@
 		// Global PB on kz_map [SKZ]
 		"#format"	"{1:s},{2:s}"
 		"en"		"{grey}Global PB on {default}{1} {grey}[{purple}{2}{grey}]"
+		"chi"		"{grey}全球个人在 {default}{1} {grey}[{purple}{2}{grey}] 的记录"
 	}
 	"GPB Header (Bonus)"
 	{
@@ -94,16 +95,19 @@
 		// GLOBAL NUB PB: 01:23.45
 		"#format"	"{1:s}"
 		"en"		"{red}GLOBAL NUB PB{grey}: {default}{1}"
+		"chi"		"{red}全球存点记录{grey}: {default}{1}"
 	}
 	"GPB Time - PRO"
 	{
 		// GLOBAL PRO PB: 01:23.45
 		"#format"	"{1:s}"
 		"en"		"{darkred}GLOBAL PRO PB{grey}: {default}{1}"
+		"chi"		"{darkred}全球裸跳记录{grey}: {default}{1}"
 	}
 	"GPB Time - No PRO Time"
 	{
 		"en"		"{darkred}GLOBAL PRO PB{grey}: None... yet."
+		"chi"		"{darkred}全球裸跳记录{grey}: 你尚未完成此地图."
 	}
 	"GWR Header"
 	{
@@ -182,27 +186,31 @@
 		// API Key X | Settings Enforcer X | Map X | You X
 		"#format"	"{1:s},{2:s},{3:s},{4:s},{5:s}"
 		"en"		"{grey}API Key {1}{grey} | Plugins {2}{grey} | Settings Enforcer {3}{grey} | Map {4}{grey} | You {5}"
-		"chi"		"{grey}API Key {1}{grey} | Plugins {2}{grey} | Settings Enforcer {3}{grey} | Map {4}{grey} | You {5}"
+		"chi"		"{grey}API密钥 {1}{grey} | 插件 {2}{grey} | Settings Enforcer {3}{grey} | 地图 {4}{grey} | 你 {5}"
 		"ru"		"{grey}Ключ API {1}{grey} | Плагины {2}{grey} | Настройки Enforcer {3}{grey} | Карта {4}{grey} | Ты {5}"
 	}
 	"Kick Player fps_max"
 	{
 		"en"		"Please set your fps_max to more than 120 to continue playing on this server"
+		"chi"		"请将你的 fps_max 设置为 120 以上以继续在此服务器游玩"
 		"ru"		"Пожалуйста, поставьте значение fps_max выше 120 для продолжения игры на данном сервере"
 	}
 	"Warn Player fps_max"
 	{
 		"en"		"{darkred} Please set your fps_max above 120 to continue playing. You will be kicked unless you change it!"
+		"chi"		"{darkred}  请将你的 fps_max 设置为 120 以上以继续在此服务器游玩. 否则你将会被踢出服务器!"
 		"ru"		"{darkred} Пожалуйста, поставьте значение fps_max выше 120 для продолжения игры, иначе вы будете кикнуты."
 	}
 	"Kick Player m_yaw"
 	{
 		"en"		"Your m_yaw value must be less or equal to 0.3 to play on this server"
+		"chi"		"你的 m_yaw 值必须小于或等于 0.3 才能在此服务器上游玩"
 		"ru"		"Ваше значение m_yaw должно быть меньше или равно 0.3 для игры на этом сервере."
 	}
 	"Warn Player Not Global Run"
 	{
 		"en"		"{yellow}Warning{grey}: The current map did not pass the Global check. Global times will not save. See {default}!globalcheck{grey} for more information."
+		"chi"		"{yellow}警告{grey}: 当前地图并未通过全球检查，记录将不会上传，使用 {default}!gc{grey} 指令查看详情."
 	}
 
 
@@ -215,7 +223,7 @@
 		//
 		"#format"	"{1:s}"
 		"en"		"Global Map Top\n \nMap - {1}\n "
-		"chi"	"地图世界纪录\n \n地图 - {1}\n "
+		"chi"		"地图世界纪录\n \n地图 - {1}\n "
 		"ru"		"Глобальный топ карты\n \nКарта - {1}\n "
 	}
 	"Global Map Top Mode Menu - Title (Bonus)"
@@ -226,7 +234,7 @@
 		//
 		"#format"	"{1:s},{2:d}"
 		"en"		"Global Map Top\n \nMap - {1} (Bonus {2})\n "
-		"chi"	"地图世界纪录\n \n地图 - {1} (加成{2}阶)\n "
+		"chi"		"地图世界纪录\n \n地图 - {1} (加成{2}阶)\n "
 		"ru"		"Глобальный топ карты\n \nКарта - {1} (Бонус {2})\n "
 	}
 	"Global Map Top Menu - Title"
@@ -238,7 +246,7 @@
 		//
 		"#format"	"{1:s},{2:s}"
 		"en"		"Global Map Top\n \nMap - {1}\nMode - {2}\n "
-		"chi"	"地图世界纪录\n \n地图 - {1}\n模式 - {2}\n "
+		"chi"		"地图世界纪录\n \n地图 - {1}\n模式 - {2}\n "
 		"ru"		"Глобальный топ карты\n \nКарта - {1}\nРежим - {2}\n "
 	}
 	"Global Map Top Menu - Title (Bonus)"
@@ -250,7 +258,7 @@
 		//
 		"#format"	"{1:s},{2:d},{3:s}"
 		"en"		"Global Map Top\n \nMap - {1} (Bonus {2})\nMode - {3}\n "
-		"chi"	"地图世界纪录\n \n地图 - {1} (加成{2}阶)\n模式 - {3}\n "
+		"chi"		"地图世界纪录\n \n地图 - {1} (加成{2}阶)\n模式 - {3}\n "
 		"ru"		"Глобальный топ карты\n \nКарта - {1} (Бонус {2})\nРежим - {3}\n "
 	}
 	"Global Map Top Submenu - Title"
@@ -262,7 +270,7 @@
 		//
 		"#format"	"{1:s},{2:s},{3:s}"
 		"en"		"Global Top {1} Times\n \nMap - {2}\nMode - {3}\n "
-		"chi"	"地图 {1} 世界排名\n \n地图 - {2}\n模式 - {3}\n "
+		"chi"		"地图 {1} 世界排名\n \n地图 - {2}\n模式 - {3}\n "
 		"ru"		"Глобальный топ {1} времени\n \nКарта - {2}\nРежим - {3}\n "
 	}
 	"Global Map Top Submenu - Title (Bonus)"
@@ -274,7 +282,7 @@
 		//
 		"#format"	"{1:s},{2:s},{3:d},{4:s}"
 		"en"		"Global Top {1} Times\n \nMap - {2} (Bonus {3})\nMode - {4}\n "
-		"chi"	"地图 {1} 世界排名\n \n地图 - {2} (加成{3}阶)\n模式 - {4}\n "
+		"chi"		"地图 {1} 世界排名\n \n地图 - {2} (加成{3}阶)\n模式 - {4}\n "
 		"ru"		"Глобальный топ {1} времени\n \nКарта - {2} (Бонус {3})\nРежим - {4}\n "
 	}
 	"Global Map Top Menu - Top"
@@ -282,7 +290,7 @@
 		// Top PRO
 		"#format"	"{1:s}"
 		"en"		"Top {1}"
-		"chi"	"前 {1} 名"
+		"chi"		"前 {1} 名"
 		"ru"		"Топ {1}"
 	}
 }
