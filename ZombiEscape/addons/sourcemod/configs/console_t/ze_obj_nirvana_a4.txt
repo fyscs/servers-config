@@ -1,0 +1,74 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "Activating the isolation gate can delay the infection for a while"
+    {
+        "chi" "启动隔离门可以暂时抵挡一会"
+    }
+
+    "In 50 seconds, the obstacle will explode"
+    {
+        "chi" "障碍物50秒后爆炸"
+    }
+
+    "The isolation door will open in 50 seconds"
+    {
+        "chi" "隔离门50秒后开启"
+    }
+
+    "Wait for 30 seconds to crack the gate"
+    {
+        "chi" "骇入大门还需要30秒"
+    }
+
+    "Wait for 30 seconds to explode"
+    {
+        "chi" "还有30秒爆炸"
+    }
+
+    "Wait for c4 explosion defense for 50 seconds"
+    {
+        "chi" "炸药还有50秒引爆"
+    }
+
+    "Waiting to open.."
+    {
+        "chi" "还需要一会..."
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+    "10 seconds"
+    {
+        "chi" "还有10秒"
+    }
+
+    "20 seconds"
+    {
+        "chi" "还有20秒"
+    }
+
+    "30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+    "50 seconds"
+    {
+        "chi" "还有50秒"
+    }
+
+}
