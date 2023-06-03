@@ -1,0 +1,156 @@
+"Buttons"
+{
+    // enum /* mode_t */
+
+    // Game_Invalid      = -1,
+    // Game_Guns         = 0, // 对枪
+    // Game_Nade         = 1, // 手雷
+    // Game_Knife        = 2, // 拼刀
+    // Game_Taser        = 3, // 电击枪
+    // Game_Dodgeball    = 4, // 躲避球
+    // Game_RaceCombat   = 5, // Race给枪    LongJump, Bhop, Race, Clmib, Combat
+    // Game_RaceBonus    = 6, // Race刷分    LongJump, Bhop, Race, Clmib, 刷分
+    // Game_Survival     = 7, // 生存        JumpRope, FallingBox etc...
+    // Game_RaceSurvival = 8, // Race生存    LongJump, Bhop, Race, Clmib, Survival
+    // Game_Asymmetric   = 9, // 非对称      Submarine, Fat, Zombie
+
+    // mode要选好对应的 
+    // name显示对应的游戏模式 
+
+    "1"
+    {
+        "id"    "557604"
+        "cd"    "360"
+        "mode"  "5"
+        "name"  "加速枪战"
+    }
+
+    "2"
+    {
+        "id"    "557443"
+        "cd"    "360"
+        "mode"  "6"
+        "name"  "排球"
+    }
+
+    "3"
+    {
+        "id"    "557401"
+        "cd"    "360"
+        "mode"  "6"
+        "name"  "闯关"
+    }
+
+    "4"
+    {
+        "id"    "712800"
+        "cd"    "360"
+        "mode"  "6"
+        "name"  "闯关投篮"
+    }
+
+    "5"
+    {
+        "id"    "637304"
+        "cd"    "360"
+        "mode"  "6"
+        "name"  "bhop"
+    }
+
+    "6"
+    {
+        "id"    "557830"
+        "cd"    "360"
+        "mode"  "6"
+        "name"  "kz"
+    }
+
+    "7"
+    {
+        "id"    "557787"
+        "cd"    "360"
+        "mode"  "7"
+        "name"  "砸地板"
+    }
+
+    "8"
+    {
+        "id"    "557290"
+        "cd"    "360"
+        "mode"  "-1"
+        "name"  "随机"
+    }
+
+    "9"
+    {
+        "id"    "557660"
+        "cd"    "360"
+        "mode"  "7"
+        "name"  "移动地板"
+    }
+
+    "10"
+    {
+        "id"    "580649"
+        "cd"    "360"
+        "mode"  "0"
+        "name"  "鸟狙"
+    }
+
+    "11"
+    {
+        "id"    "581779"
+        "cd"    "360"
+        "mode"  "0"
+        "name"  "大狙"
+    }
+
+    "12"
+    {
+        "id"    "572644"
+        "cd"    "360"
+        "mode"  "0"
+        "name"  "沙鹰"
+    }
+
+    "13"
+    {
+        "id"    "637339"
+        "cd"    "360"
+        "mode"  "2"
+        "name"  "水下刀战"
+    }
+
+    "14"
+    {
+        "id"    "571501"
+        "cd"    "360"
+        "mode"  "6"
+        "name"  "kz"
+    }
+
+    "15"
+    {
+        "id"    "573789"
+        "cd"    "360"
+        "mode"  "0"
+        "name"  "隐身喷子"
+    }
+
+    "16"
+    {
+        "id"    "573874"
+        "cd"    "360"
+        "mode"  "3"
+        "name"  "电击枪"
+    }
+
+     "17"
+    {
+        "id"    "712793"
+        "cd"    "360"
+        "mode"  "2"
+        "name"  "刀战"
+    }
+
+｝
