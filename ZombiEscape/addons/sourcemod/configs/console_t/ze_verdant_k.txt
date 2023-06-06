@@ -1,0 +1,145 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "| 1 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 2 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 25 SECONDS LEFT |"
+    {
+        "chi" "还有25秒"
+    }
+
+    "| 3 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 4 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 5 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 5 SECONDS LEFT |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| ARENA DOOR WILL OPEN IN 20 SECONDS |"
+    {
+        "chi" "还有20秒"
+    }
+
+    "| DOOR WILL OPEN IN 10 SECONDS |"
+    {
+        "chi" "门还有10秒开启"
+    }
+
+    "| DOOR WILL OPEN IN 25 SECONDS |"
+    {
+        "chi" "门还有25秒开启"
+    }
+
+    "| DOORS WILL OPEN IN 10 SEC |"
+    {
+        "chi" "门10秒后打开"
+    }
+
+    "| FIRST DOOR WILL OPEN IN 15 SEC |"
+    {
+        "chi" "门还有15秒打开"
+    }
+
+    "| HEAL HAS BEEN PICKED UP |"
+    {
+        "chi" "治疗已被拾起"
+    }
+
+    "| LAST DOOR WILL OPEN IN 15 SEC |"
+    {
+        "chi" "最后的门15秒后开启"
+    }
+
+    "| LIFT WILL MOVE IN 15 SECONDS |"
+    {
+        "chi" "平台15秒后开始移动"
+    }
+
+    "| ROCKS WILL BREAK IN 20 SEC |"
+    {
+        "chi" "石块还有20秒炸开"
+    }
+
+    "| ROUND FAILURE |"
+    {
+        "chi" "已失败"
+    }
+
+    "| SOMETHING WILL HAPPEN IN 15 SECONDS |"
+    {
+        "chi" "??还有15秒"
+    }
+
+    "| SUCCESS |"
+    {
+        "chi" ">>关卡完成<<"
+    }
+
+    "| WAIT HERE FOR 15 SECONDS |"
+    {
+        "chi" "等待15秒"
+    }
+
+    "| ZOMBIE DETECTED |"
+    {
+        "chi" "已检测到僵尸"
+    }
+
+    "| ARENA DOOR WILL OPEN IN 25 SECONDS |"
+    {
+        "chi" "大门25秒后开启"
+    }
+
+    "** Map modified! **"
+    {
+        "chi" ">Stripper已加载<"
+    }
+
+    "| ZOMBIES TELEPORT BEHIND IN 15 SEC |"
+    {
+        "chi" "僵尸还有15秒传送到身后"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
