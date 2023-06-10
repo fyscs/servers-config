@@ -1,0 +1,19 @@
+"Phrases"
+{
+	// =====[ CHAT MESSAGES ]=====
+	"Option - TP Angle Fix - Enable"
+	{
+		"en"		"{grey}Teleport angle fix enabled. All angle changes due to teleporting will be guaranteed. This helps with high packet loss situations."
+	}
+	"Option - TP Angle Fix - Disable"
+	{
+		"en"		"{grey}Teleport angle fix disabled."
+	}
+
+
+	// =====[ OPTIONS MENU ]=====
+	"Options Menu - TP Angle Fix"
+	{
+		"en"		"Reliable teleport angles"
+	}
+}

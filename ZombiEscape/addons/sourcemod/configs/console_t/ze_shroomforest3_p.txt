@@ -93,7 +93,7 @@
 
     "*** Door opening in 5 seconds ***"
     {
-        "chi" "门15秒后开"
+        "chi" "门5秒后开"
     }
 
     "*** Doors are open! RUN!! ***"
@@ -308,7 +308,7 @@
 
     ">> 1 MORE RUNG TO FIND <<"
     {
-        "chi" "**还差1个木条**"
+        "chi" "**还差一个木条**"
     }
 
     ">> 10 SECONDS LEFT <<"
@@ -318,7 +318,7 @@
 
     ">> 2 MORE RUNGS TO FIND <<"
     {
-        "chi" "**还差2个木条**"
+        "chi" "**还差两个木条**"
     }
 
     ">> 20 SECONDS LEFT <<"
@@ -338,7 +338,7 @@
 
     ">> 40 SECONDS UNTIL SATAN DISAPPEAR INTO THE FUTURE ! <<"
     {
-        "chi" ">>>坚守40秒直到撒旦在这个时空现身<<<"
+        "chi" ">>>撒旦将在40秒后穿越时空<<<"
     }
 
     ">> 5 SECONDS LEFT !! <<"
@@ -458,7 +458,7 @@
 
     ">> FIND 3 RUNGS TO FIX IT <<"
     {
-        "chi" "**找到3个木条修复它**"
+        "chi" "**找到三个木条修复它**"
     }
 
     ">> GET READY FOR THE FINAL FIGHT !! <<"

@@ -32,6 +32,7 @@
 	"Measure Failure (Blocks not aligned)"
 	{
 		"en"		"{darkred}You are not aiming at the front of a block!"
+		"chi"		"{darkred}你需要瞄准板子的正面测量!"
 		"ru"		"{darkred}Вы не целитесь в переднюю часть блока!"
 	}
 
@@ -64,6 +65,7 @@
 	"Measure Menu - Get Block Distance"
 	{
 		"en"		"Get Block Distance"
+		"chi"		"测量板子距离"
 		"ru"		"Узнать расстояние блока"
 	}
 }

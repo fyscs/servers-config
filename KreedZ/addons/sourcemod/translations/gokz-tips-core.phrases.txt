@@ -33,16 +33,19 @@
 	"!vbi"
 	{
 		"en"		"{grey}Having trouble visualising virtual buttons? Use {default}!vbi{grey} to toggle indicators for them."
+		"chi"		"{grey}想开启计时器范围显示(绿圈)? 使用 {default}!vbi{grey} 指令."
 		"ru"		"{grey}Возникли проблемы с визуализацией виртуальных кнопок?  Используйте {default}!vbi{grey} для переключения их индикаторов."
 	}
 	"!vb"
 	{
 		"en"		"{grey}Have you set up your virtual buttons perfectly? Use {default}!vb{grey} to lock them in place."
+		"chi"		"{grey}你是否设置好了你的虚拟计时器? 使用 {default}!vb{grey} 指令来锁定它."
 		"ru"		"{grey}Ты настроил под себя виртуальные кнопки? Используй {default}!vb{grey} для их фиксации."
 	}
 	"Stretch"
 	{
 		"en"		"{grey}Look after yourself. Take regular breaks to stretch and stay hydrated."
+		"chi"		"{grey}照顾好你自己. 定期休息保持健康."
 		"ru"		"{grey}Следите за собою. Делайте регулярные перерывы во время игры!"
 	}
 }

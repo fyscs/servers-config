@@ -4,67 +4,79 @@
 	"Checkpoint Rule - None"
 	{
 		"en"		"No Checkpoints"
+		"chi"		"禁止读点"
 		"ru"		"Нет чекпойнтов"
 	}
 	"Checkpoint Rule - No Checkpoint Limit"
 	{
 		"en"		"Checkpoint Limit: Unlimited"
+		"chi"		"读点限制: 无限制"
 		"ru"		"Лимит чекпойнтов: Без лимита"
 	}
 	"Checkpoint Rule - Checkpoint Limit"
 	{
 		"#format"	"{1:d}"
 		"en"		"Checkpoint Limit: {1}"
+		"chi"		"存点限制: {1}"
 		"ru"		"Лимит чекпойнтов: {1}"
 	}
 	"Checkpoint Rule - No Checkpoint Cooldown"
 	{
 		"en"		"Checkpoint Cooldown: None"
+		"chi"		"存点冷却: 无"
 		"ru"		"Перезарядка чекпойнта: Нет"
 	}
 	"Checkpoint Rule - Checkpoint Cooldown"
 	{
 		"#format"	"{1:d}"
 		"en"		"Checkpoint Cooldown: {1}s"
+		"chi"		"存点冷却: {1} 秒"
 		"ru"		"Перезарядка чекпойнта: {1}с."
 	}
 	"Checkpoint Rule - Unlimited"
 	{
 		"en"		"Unlimited"
+		"chi"		"无限制"
 		"ru"		"Неограниченно"
 	}
 
 	"Rule Summary - Unlimited"
 	{
 		"en"		"Unlimited"
+		"chi"		"无限制"
 		"ru"		"Неограниченно"
 	}
 	"Rule Summary - Limited Checkpoints"
 	{
 		"#format"	"{1:d}"
 		"en"		"{1} checkpoints"
+		"chi"		"{1} 存点"
 		"ru"		"{1} чекпойнтов"
 	}
 	"Rule Summary - Limited Cooldown"
 	{
 		"#format"	"{1:d}"
 		"en"		"{1}s cooldown"
+		"chi"		"{1}s 冷却"
 		"ru"		"{1}s перезарядка"
 	}
 	"Rule Summary - Limited Everything"
 	{
 		"#format"	"{1:d},{2:d}"
 		"en"		"{1} checkpoints, {2}s cooldown"
+		"chi"		"{1} 存点, {2}秒 冷却"
 		"ru"		"{1} чекпойнтов, {2}s перезарядка"
 	}
 	"Rule Summary - No Checkpoints"
 	{
 		"en"		"No checkpoints"
+		"chi"		"裸跳"
 		"ru"		"Нет чекпойнтов"
 	}
 	"No Start Found"
 	{
 		"en"		"Unable to find the start of the course, cannot teleport you there"
+		"chi"		"无法找到关卡的起点，不能将你传送到那"
 		"ru"		"Не найдено начало, поэтому мы не можем телепортировать вас туда."
 	}
 
@@ -73,37 +85,44 @@
 	"Checkpoints Not Allowed During Race"
 	{
 		"en"		"{darkred}You aren't allowed to checkpoint during this race."
+		"chi"		"{darkred}你不允许在比赛中存点."
 		"ru"		"{darkred}Вы не можете использовать чекпойнты во время гонки."
 	}
 	"Checkpoint On Cooldown"
 	{
 		"#format"	"{1:.1f}"
 		"en"		"{darkred}You must wait another {default}{1} {darkred}seconds before checkpointing."
+		"chi"		"{darkred}你必须再等待 {default}{1} {darkred}秒直到下次存点前."
 		"ru"		"{darkred}Вы должны подождать еще {default}{1} {darkred}секунд перед использованием чекпойнта."
 	}
 	"No Checkpoints Left"
 	{
 		"en"		"{darkred}You have already used all your checkpoints in this race."
+		"chi"		"{darkred}您已在该比赛中使用了所有检查点."
 		"ru"		"{darkred}Вы уже использовали все доступные вам чекпойнты в гонке."
 	}
 	"Undo TP Not Allowed During Race"
 	{
 		"en"		"{darkred}You aren't allowed to undo TP during this race."
+		"chi"		"{darkred}在此比赛期间，您不允许撤销传送."
 		"ru"		"{darkred}Вы не можете отменить TP во время этой гонки."
 	}
 	"You Are Already Part Of A Race"
 	{
 		"en"		"{darkred}You are already participating in a race."
+		"chi"		"{darkred}您已经在参加比赛."
 		"ru"		"{darkred}Вы уже участвуете в гонке."
 	}
 	"You Are Not Hosting A Race"
 	{
 		"en"		"{darkred}You are not hosting a race."
+		"chi"		"{darkred}你没有在主持比赛."
 		"ru"		"{darkred}Вы не устраиваете гонки."
 	}
 	"You Invited Everyone"
 	{
 		"en"		"{grey}You have invited everyone that is available to be challenged."
+		"chi"		"{grey}你邀请了所有可以接受挑战的人."
 		"ru"		"{grey}Вы пригласили всех, кто может участвовать."
 	}
 	"Player Already In A Race"
@@ -111,31 +130,37 @@
 		// Alice is already in a race.
 		"#format"	"{1:N}"
 		"en"		"{lime}{1} {darkred}is already in a race."
+		"chi"		"{lime}{1} {darkred}已经在比赛中."
 		"ru"		"{lime}{1} {darkred}уже находится в гонке."
 	}
 	"Race Countdown Started"
 	{
 		"en"		"{grey}The countdown has started! {green}Get ready!"
+		"chi"		"{grey}倒计时开始了! {green}准备好!"
 		"ru"		"{grey}Обратный отсчет начался! {green}Приготовьтесь!"
 	}
 	"Race Has Been Aborted"
 	{
 		"en"		"{darkred}The race has been aborted."
+		"chi"		"{darkred}比赛已中止."
 		"ru"		"{darkred}Гонка была прервана."
 	}
 	"No One Accepted"
 	{
 		"en"		"{darkred}No one has accepted the race yet."
+		"chi"		"{darkred}还没有人接受比赛."
 		"ru"		"{darkred}Никто ещё не принял участие в гонке."
 	}
 	"Race Already Started"
 	{
 		"en"		"{darkred}The race has already started."
+		"chi"		"{darkred}比赛已经开始了."
 		"ru"		"{darkred}Гонка уже началась."
 	}
 	"No Opponents Available"
 	{
 		"en"		"{darkred}No one is currently available to be challenged."
+		"chi"		"{darkred}目前没有人可以接受挑战."
 		"ru"		"{darkred}В настоящее время никто не может быть приглашен."
 	}
 	"Race Rules - No Checkpoints"
@@ -143,6 +168,7 @@
 		// Rules [SimpleKZ | No checkpoints]
 		"#format"	"{1:s},{2:s}"
 		"en"		"{grey}Rules - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}No checkpoints"
+		"chi"		"{grey}规则 - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}裸跳"
 		"ru"		"{grey}Правила - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}Без чекпойнтов"
 	}
 	"Race Rules - Unlimited"
@@ -150,6 +176,7 @@
 		// Rules [SimpleKZ | Unlimited]
 		"#format"	"{1:s},{2:s}"
 		"en"		"{grey}Rules - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}Unlimited"
+		"chi"		"{grey}规则 - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}无限制"
 		"ru"		"{grey}Правила - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}Неограниченно"
 	}
 	"Race Rules - Limited"
@@ -157,28 +184,33 @@
 		// Rules [SimpleKZ | Num checkpoints | Cooldown time]
 		"#format"	"{1:s},{2:s},{3:d},{4:d}"
 		"en"		"{grey}Rules - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}{3} checkpoints{grey} | {yellow}{4}s checkpoint cooldown{grey}"
+		"chi"		"{grey}规则 - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}{3} 存点{grey} | {yellow}{4}秒 冷却时间{grey}"
 		"ru"		"{grey}Правила - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}{3} чекпойнтов{grey} | {yellow}{4}s перезарядка чекпойнтов{grey}"
 	}
 	"Race Rules - Limited Checkpoints"
 	{
 		"#format"	"{1:s},{2:s},{3:d}"
 		"en"		"{grey}Rules - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}{3} checkpoints{grey}"
+		"chi"		"{grey}规则 - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}{3} 存点{grey}"
 		"ru"		"{grey}Правила - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}{3} чекпойнтов{grey}"
 	}
 	"Race Rules - Limited Cooldown"
 	{
 		"#format"	"{1:s},{2:s},{3:d}"
 		"en"		"{grey}Rules - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}{3}s checkpoint cooldown{grey}"
+		"chi"		"{grey}规则 - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}{3}s 存点冷却{grey}"
 		"ru"		"{grey}Правила - {purple}{1}{grey} | {lime}{2}{grey} | {yellow}{3}s перезарядка чекпойнтов{grey}"
 	}
 	"Race Rules - Main Course"
 	{
 		"en"		"Main Course"
+		"chi"		"主关卡"
 		"ru"		"Основная карта"
 	}
 	"Race Rules - Bonus Course"
 	{
 		"en"		"Bonus"
+		"chi"		"奖励关"
 		"ru"		"Бонус"
 	}
 	"You Have Seconds To Accept"
@@ -186,11 +218,13 @@
 		// You have 15 seconds to !accept.
 		"#format"	"{1:d}"
 		"en"		"{grey}You have {default}{1} {grey}seconds to {default}!accept{grey}."
+		"chi"		"{grey}你有 {default}{1} {grey}秒时间来接受比赛 {default}!accept{grey}."
 		"ru"		"{grey}У вас есть {default}{1} {grey}секунд, чтобы написать {default}!accept{grey}."
 	}
 	"You Have Declined"
 	{
 		"en"		"{grey}You have declined."
+		"chi"		"{grey}您已拒绝."
 		"ru"		"{grey}Вы отказались."
 	}
 	"Player Has Declined"
@@ -198,6 +232,7 @@
 		// Alice has declined.
 		"#format"	"{1:N}"
 		"en"		"{lime}{1} {grey}has declined."
+		"chi"		"{lime}{1} {grey}已拒绝."
 		"ru"		"{lime}{1} {grey}отказался."
 	}
 	"Race Request Received"
@@ -205,6 +240,7 @@
 		// Bob has invited you to a race.
 		"#format"	"{1:N}"
 		"en"		"{lime}{1} {grey}has invited you to a race."
+		"chi"		"{lime}{1} {grey}邀请你参加比赛."
 		"ru"		"{lime}{1} {grey}пригласил тебя в гонку."
 	}
 	"Race Request Accepted"
@@ -212,6 +248,7 @@
 		// Alice has accepted the race!
 		"#format"	"{1:N}"
 		"en"		"{lime}{1} {grey}has accepted the race!"
+		"chi"		"{lime}{1} {grey}已接受比赛!"
 		"ru"		"{lime}{1} {grey}принял приглашение участовать в гонке!"
 	}
 	"Race Request Not Accepted In Time (Host)"
@@ -219,11 +256,13 @@
 		// Alice didn't accept the race in time.
 		"#format"	"{1:N}"
 		"en"		"{lime}{1} {grey}didn't accept the race in time."
+		"chi"		"{lime}{1} {grey}没有及时接受比赛."
 		"ru"		"{lime}{1} {grey}не принял приглашение в гонку вовремя."
 	}
 	"Race Request Not Accepted In Time (Target)"
 	{
 		"en"		"{grey}You didn't accept the race in time."
+		"chi"		"{grey}你没有及时接受比赛."
 		"ru"		"{grey}Вы не приняли приглашение в гонку вовремя."
 	}
 	"Race Won"
@@ -231,6 +270,7 @@
 		// Alice has won the race!
 		"#format"	"{1:N}"
 		"en"		"{lime}{1} {grey}has won the race!"
+		"chi"		"{lime}{1} {grey}赢得了比赛!"
 		"ru"		"{lime}{1} {grey}выиграл в гонке!"
 	}
 	"Race Placed"
@@ -238,6 +278,7 @@
 		// Alice has finished the race! [#2]
 		"#format"	"{1:N},{2:d}"
 		"en"		"{lime}{1} {grey}has finished the race! [#{default}{2}{grey}]"
+		"chi"		"{lime}{1} {grey}已完成比赛! [#{default}{2}{grey}]"
 		"ru"		"{lime}{1} {grey}финишировал в гонке! [#{default}{2}{grey}]"
 	}
 	"Race Lost"
@@ -245,6 +286,7 @@
 		// Alice came last in the race. [#5]
 		"#format"	"{1:N},{2:d}"
 		"en"		"{lime}{1} {grey}came last in the race. [#{default}{2}{grey}]"
+		"chi"		"{lime}{1} {grey}最后一个完成比赛. [#{default}{2}{grey}]"
 		"ru"		"{lime}{1} {grey}пришел последним в гонке. [#{default}{2}{grey}]"
 	}
 	"Race Surrendered"
@@ -252,6 +294,7 @@
 		// Alice has surrendered!
 		"#format"	"{1:N}"
 		"en"		"{lime}{1} {grey}has surrendered!"
+		"chi"		"{lime}{1} {grey}已投降!"
 		"ru"		"{lime}{1} {grey}сдался!"
 	}
 	"Duel Request Sent"
@@ -259,6 +302,7 @@
 		// You have challenged Alice to a duel.
 		"#format"	"{1:N}"
 		"en"		"{grey}You have challenged {lime}{1}{grey} to a duel."
+		"chi"		"{grey}你向 {lime}{1}{grey} 发起了单挑."
 		"ru"		"{grey}Вы вызвали {lime}{1}{grey} на дуэль."
 	}
 	"Duel Request Received"
@@ -266,6 +310,7 @@
 		// Alice has challenged you to a duel!
 		"#format"	"{1:N}"
 		"en"		"{lime}{1} {grey}has challenged you to a duel!"
+		"chi"		"{lime}{1} {grey}向你发起了单挑!"
 		"ru"		"{lime}{1} {grey}вызвал тебя на дуэль!"
 	}
 	"Duel Request Accepted"
@@ -273,6 +318,7 @@
 		// Alice has accepted a duel against Bob.
 		"#format"	"{1:N},{2:N}"
 		"en"		"{lime}{1} {grey}has accepted a duel against {lime}{2}{grey}!"
+		"chi"		"{lime}{1} {grey}接受了与 {lime}{2}{grey}的单挑!"
 		"ru"		"{lime}{1} {grey}принял дуэль против {lime}{2}{grey}!"
 	}
 	"Duel Request Not Accepted In Time (Host)"
@@ -280,11 +326,13 @@
 		// Alice didn't accept the duel in time.
 		"#format"	"{1:N}"
 		"en"		"{lime}{1} {grey}didn't accept the duel in time."
+		"chi"		"{lime}{1} {grey}没有及时接受决斗."
 		"ru"		"{lime}{1} {grey}не принял приглашение на дуэль вовремя."
 	}
 	"Duel Request Not Accepted In Time (Target)"
 	{
 		"en"		"You didn't accept the duel in time."
+		"chi"		"你没有及时接受决斗."
 		"ru"		"Вы не приняли приглашение на дуэль вовремя."
 	}
 	"Duel Won"
@@ -292,6 +340,7 @@
 		// Alice won their duel against Bob!
 		"#format"	"{1:N},{2:N}"
 		"en"		"{lime}{1} {grey}won their duel against {lime}{2}{grey}!"
+		"chi"		"{lime}{1} {grey}在与 {lime}{2}{grey} 的单挑中获胜!"
 		"ru"		"{lime}{1} {grey}выиграл дуэль против {lime}{2}{grey}!"
 	}
 	"Duel Surrendered"
@@ -299,6 +348,7 @@
 		// Alice surrendered in their duel against Bob!
 		"#format"	"{1:N},{2:N}"
 		"en"		"{lime}{1} {grey}has surrendered in their duel against {lime}{2}{grey}!"
+		"chi"		"{lime}{1} {grey}在对战中投降 {lime}{2}{grey}!"
 		"ru"		"{lime}{1} {grey}сдался в дуэли против {lime}{2}{grey}!"
 	}
 
@@ -307,36 +357,43 @@
 	"Race Menu - Title"
 	{
 		"en"		"Host a Race"
+		"chi"		"举办比赛"
 		"ru"		"Провести гонку"
 	}
 	"Race Menu - Start Race"
 	{
 		"en"		"Start race"
+		"chi"		"开始比赛"
 		"ru"		"Начать гонку"
 	}
 	"Race Menu - Abort Race"
 	{
 		"en"		"Abort race"
+		"chi"		"放弃比赛"
 		"ru"		"Прервать гонку"
 	}
 	"Race Menu - Invite Everyone"
 	{
 		"en"		"Invite everyone"
+		"chi"		"邀请所有人"
 		"ru"		"Пригласить всех"
 	}
 	"Race Menu - Rules"
 	{
 		"en"		"Rules"
+		"chi"		"规则"
 		"ru"		"Правила"
 	}
 	"Race Menu - Course Main"
 	{
 		"en"		"Main"
+		"chi"		"主关卡"
 		"ru"		"Основная"
 	}
 	"Race Menu - Course Bonus"
 	{
 		"en"		"Bonus"
+		"chi"		"奖励关"
 		"ru"		"Бонус"
 	}
 
@@ -345,16 +402,19 @@
 	"Duel Menu - Title"
 	{
 		"en"		"Start a Duel"
+		"chi"		"开始单挑"
 		"ru"		"Начать дуэль"
 	}
 	"Duel Menu - Choose Opponent"
 	{
 		"en"		"Send challenge"
+		"chi"		"发送挑战"
 		"ru"		"Бросить вызов"
 	}
 	"Duel Opponent Selection Menu - Title"
 	{
 		"en"		"Choose Your Opponent"
+		"chi"		"选择你的对手"
 		"ru"		"Выбери своего противника"
 	}
 
@@ -365,36 +425,43 @@
 	{
 		"#format"	"{1:d}"
 		"en"		"Max number of CPs: {1}"
+		"chi"		"存点限制: {1}"
 		"ru"		"Макс. количество ЧП: {1}"
 	}
 	"Checkpoint Limit Menu - Title Unlimited"
 	{
 		"en"		"Max number of CPs: Unlimited"
+		"chi"		"存点限制: 无限制"
 		"ru"		"Макс. количество ЧП: Неограниченно"
 	}
 	"Checkpoint Limit Menu - Add One"
 	{
 		"en"		"Add one"
+		"chi"		"增加 1 个"
 		"ru"		"Добавить одну"
 	}
 	"Checkpoint Limit Menu - Add Five"
 	{
 		"en"		"Add five"
+		"chi"		"增加 5 个"
 		"ru"		"Добавить пять"
 	}
 	"Checkpoint Limit Menu - Remove One"
 	{
 		"en"		"Remove one"
+		"chi"		"减少 1 个"
 		"ru"		"Убрать одну"
 	}
 	"Checkpoint Limit Menu - Remove Five"
 	{
 		"en"		"Remove five"
+		"chi"		"减少 5 个"
 		"ru"		"Убрать пять"
 	}
 	"Checkpoint Limit Menu - Unlimited"
 	{
 		"en"		"Unlimited"
+		"chi"		"无限制"
 		"ru"		"Неограниченно"
 	}
 
@@ -404,37 +471,44 @@
 	"Checkpoint Cooldown Menu - Title None"
 	{
 		"en"		"Cooldown between CPs: None"
+		"chi"		"移除所有"
 		"ru"		"Перезарядка ЧП: Нет"
 	}
 	"Checkpoint Cooldown Menu - Title Limited"
 	{
 		"#format"	"{1:d}"
 		"en"		"Cooldown between CPs: {1}s"
+		"chi"		"存点冷却: {1}s"
 		"ru"		"Перезарядка ЧП: {1}s"
 	}
 	"Checkpoint Cooldown Menu - Add One Second"
 	{
 		"en"		"Add 1s"
+		"chi"		"存点冷却 增加 1 秒"
 		"ru"		"Добавить 1с"
 	}
 	"Checkpoint Cooldown Menu - Add Five Seconds"
 	{
 		"en"		"Add 5s"
+		"chi"		"存点冷却 增加 5 秒"
 		"ru"		"Добавить 5с"
 	}
 	"Checkpoint Cooldown Menu - Remove One Second"
 	{
 		"en"		"Remove 1s"
+		"chi"		"减少 1 秒"
 		"ru"		"Убрать 1с"
 	}
 	"Checkpoint Cooldown Menu - Remove Five Seconds"
 	{
 		"en"		"Remove 5s"
+		"chi"		"减少 5 秒"
 		"ru"		"Убрать 5с"
 	}
 	"Checkpoint Cooldown Menu - None"
 	{
 		"en"		"None"
+		"chi"		"无"
 		"ru"		"Нет"
 	}
 
@@ -444,11 +518,13 @@
 	"Mode Rule Menu - Title"
 	{
 		"en"		"Set Rule - Mode"
+		"chi"		"设置规则 - 模式"
 		"ru"		"Установить правило - Режим"
 	}
 	"Checkpoint Rule Menu - Title"
 	{
 		"en"		"Set Rule - Checkpoints"
+		"chi"		"设置规则 - 存点"
 		"ru"		"Установить правило - Чекпойнты"
 	}
 }

@@ -4,6 +4,7 @@
 	"SaveLoc - Usage"
 	{
 		"en"		"{grey}Usage: {default}!saveloc <name>"
+		"chi"		"{grey}用法: {default}!saveloc <名称>"
 		"ru"		"{grey}Используйте: {default}!saveloc <имя>"
 	}
 	"SaveLoc - ID Name"
@@ -11,6 +12,7 @@
 		// Saved #7 BobsLocation
 		"#format"	"{1:d},{2:s}"
 		"en"		"{grey}Saved {yellow}#{1} {lightgreen}{2}"
+		"chi"		"{grey}保存 {yellow}#{1} {lightgreen}{2}"
 		"ru"		"{grey}Сохранено {yellow}#{1} {lightgreen}{2}"
 	}
 
@@ -19,6 +21,7 @@
 	"LoadLoc - Usage"
 	{
 		"en"		"{grey}Usage: {default}!loadloc <#id OR name>"
+		"chi"		"{grey}用法: {default}!loadloc <#id OR name>"
 		"ru"		"{grey}Используйте: {default}!loadloc <#id ИЛИ имя>"
 	}
 	"LoadLoc - ID Name"
@@ -26,6 +29,7 @@
 		// Loaded #7 BobsLocation
 		"#format"	"{1:d},{2:s}"
 		"en"		"{grey}Loaded {yellow}#{1} {lightgreen}{2}"
+		"chi"		"{grey}加载 {yellow}#{1} {lightgreen}{2}"
 		"ru"		"{grey}Загружено {yellow}#{1} {lightgreen}{2}"
 	}
 	"LoadLoc - ID Creator"
@@ -33,6 +37,7 @@
 		// Loaded #7 | Created by Bob
 		"#format"	"{1:d},{2:s}"
 		"en"		"{grey}Loaded {yellow}#{1} {default}| {grey}Created by {lime}{2}"
+		"chi"		"{grey}加载 {yellow}#{1} {default}| {grey}由 {lime}{2} 创建"
 		"ru"		"{grey}Загружено {yellow}#{1} {default}| {grey}Создал {lime}{2}"
 	}
 	"LoadLoc - ID Name Creator"
@@ -40,6 +45,7 @@
 		// Saved #7 customName | Created by Bob
 		"#format"	"{1:d},{2:s},{3:s}"
 		"en"		"{grey}Loaded {yellow}#{1} {2} {default}| {grey}Created by {lime}{3}"
+		"chi"		"{grey}加载 {yellow}#{1} {2} {default}| {grey}由 {lime}{3} 创建"
 		"ru"		"{grey}Загружено {yellow}#{1} {2} {default}| {grey}Создал {lime}{3}"
 	}
 	"LoadLoc - Mode Not Available"
@@ -47,22 +53,26 @@
 		// LoadLoc partially failed because the Vanilla mode is currently not available.
 		"#format"	"{1:s}"
 		"en"		"{darkred}LoadLoc partially failed because {purple}{1} {darkred}mode is currently not available."
+		"chi"		"{darkred}位置部分加载失败，因为 {purple}{1} {darkred} 模式当前不可用."
 	}
 
 	// =====[ PREV/NEXTLOC ]=====
 	"PrevLoc - Can't Prev Location (No Location Found)"
 	{
 		"en"		"{darkred}You have no location to go back to."
+		"chi"		"{darkred}您没有可回退的位置."
 	}
 	"NextLoc - Can't Next Location (No Location Found)"
 	{
 		"en"		"{darkred}You have no location to go forward to."
+		"chi"		"{darkred}您没有可前进的位置."
 	}
 
 	// =====[ NAMELOC ]=====
 	"NameLoc - Usage"
 	{
 		"en"		"{grey}Usage: {default}!nameloc <#id> <name>"
+		"chi"		"{grey}用法: {default}!nameloc <#id> <名称>"
 		"ru"		"{grey}Используйте: {default}!nameloc <#id> <имя>"
 	}
 	"NameLoc - ID Name"
@@ -70,16 +80,19 @@
 		// Named #7 BobsLocation
 		"#format"	"{1:d},{2:s}"
 		"en"		"{grey}Named {yellow}#{1} {lightgreen}{2}"
+		"chi"		"{grey}已命名 {yellow}#{1} {lightgreen}{2}"
 		"ru"		"{grey}Named {yellow}#{1} {lightgreen}{2}"
 	}
 	"NameLoc - Naming Format"
 	{
 		"en"		"{darkred}Location name must start with a letter and be unique."
+		"chi"		"{darkred}位置名称必须以字母开头且唯一."
 		"ru"		"{darkred}Название локации должно начинаться с буквы и быть уникальным."
 	}
 	"NameLoc - Not Creator"
 	{
 		"en"		"{darkred}You can't name another player's location."
+		"chi"		"{darkred}你不能命名其他玩家的位置."
 		"ru"		"{darkred}Вы не можете назвать местоположение именемдругого игрока."
 	}
 
@@ -88,6 +101,7 @@
 	"LocMenu - Title"
 	{
 		"en"		"Locations"
+		"chi"		"位置"
 		"ru"		"Локации"
 	}
 
@@ -96,16 +110,19 @@
 	"Must Be Alive"
 	{
 		"en"		"{darkred}You must be alive to use that command."
+		"chi"		"{darkred}你必须活着才能使用此命令."
 		"ru"		"{darkred}Вы должны быть живы, чтобы использовать эту команду."
 	}
 	"Location Not Found"
 	{
 		"en"		"{darkred}Location not found."
+		"chi"		"{darkred}未找到位置."
 		"ru"		"{darkred}Локация не найдена."
 	}
 	"No Locations Found"
 	{
 		"en"		"{darkred}No saved locations found."
+		"chi"		"{darkred}没有找到已储存的位置."
 		"ru"		"{darkred}Не найдено сохраненных локаций."
 	}
 

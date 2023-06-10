@@ -1,0 +1,759 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** !!! **"
+    {
+        "chi" "!!!"
+    }
+
+    "** ... **"
+    {
+        "chi" "..."
+    }
+
+    "** 1 EXTRA HOLD SELECTED **"
+    {
+        "chi" "选择了一个额外保留"
+    }
+
+    "** 1 LESS HOLD SELECTED **"
+    {
+        "chi" "选择的保留较少一个"
+    }
+
+    "** All visitors that do not enter the main hall in a timely manner will be dismembered in 5 seconds! **"
+    {
+        "chi" "5秒内没有进入舞台,将会送往和僵尸贴贴!"
+    }
+
+    "** Art piece selection has begun! Stand in the white box besides a piece to get a tour! **"
+    {
+        "chi" "表演作品的选择已经开始了!站在方框里,就能获得参观机会!"
+    }
+
+    "** Auto pick in 10 secs **"
+    {
+        "chi" "10秒内自动选择"
+    }
+
+    "** BLUE LATCH TRIGGERED! FINAL BATTLE ONGOING! **"
+    {
+        "chi" "蓝色开关已触发!战斗还在继续!"
+    }
+
+    "** BULLDOZER HAS BEEN PICKED UP! **"
+    {
+        "chi" "推土机已被拾取"
+    }
+
+    "** Don't let anything close! The pump is opening! **"
+    {
+        "chi" "不要让任何东西靠近!门正在打开!"
+    }
+
+    "** DOORS OPEN IN 10 SECS **"
+    {
+        "chi" "防守10秒"
+    }
+
+    "** DOORS OPEN IN 15 SECS **"
+    {
+        "chi" "防守15秒"
+    }
+
+    "** DOORS OPEN IN 20 SECS **"
+    {
+        "chi" "防守20秒"
+    }
+
+    "** EASY HOLDS SELECTED **"
+    {
+        "chi" "选择了简单防守"
+    }
+
+    "** EVENT HORIZON HAS BEEN PICKED UP! **"
+    {
+        "chi" "事件视界已被拾起!"
+    }
+
+    "** Everything in the water is getting wacked in 10 seconds! **"
+    {
+        "chi" "水中的一切10秒内被摧残!"
+    }
+
+    "** EXTRA DOOR OPENS IN 15 SECS **"
+    {
+        "chi" "额外的门在15秒内打开"
+    }
+
+    "** FINAL DOOR CLOSES IN 10 SECS **"
+    {
+        "chi" "门将在10秒内关闭"
+    }
+
+    "** FINAL DOOR CLOSES IN 15 SECS **"
+    {
+        "chi" "门将在15秒内关闭"
+    }
+
+    "** FINAL DOOR CLOSES IN 20 SECS **"
+    {
+        "chi" "门将在20秒内关闭"
+    }
+
+    "** FINAL DOOR OPENS IN 10 SECS **"
+    {
+        "chi" "门将在10秒内开启"
+    }
+
+    "** FINAL DOOR OPENS IN 15 SECS **"
+    {
+        "chi" "门将在15秒内开启"
+    }
+
+    "** FINAL DOOR OPENS IN 20 SECS **"
+    {
+        "chi" "门将在20秒内开启"
+    }
+
+    "** FINAL DOORS CLOSE IN 15 SECS **"
+    {
+        "chi" "门将在15秒内关闭"
+    }
+
+    "** GO! **"
+    {
+        "chi" "冲锋!"
+    }
+
+    "** GREENPEACE BOMB HAS BEEN PICKED UP! **"
+    {
+        "chi" "炸弹已被拾起!"
+    }
+
+    "** HARD HOLDS SELECTED **"
+    {
+        "chi" "选择了困难守点"
+    }
+
+    "** HOLD THE LINE! The door will close shortly! **"
+    {
+        "chi" "守住啊!门马上就关啦!"
+    }
+
+    "** Hold the water pumps! This area is close to the hangar! **"
+    {
+        "chi" "守住!很快就能逃离这里!"
+    }
+
+    "** Humans in the water will get sent to the zombie wardrobe! **"
+    {
+        "chi" "水中的人类将会和僵尸贴贴!"
+    }
+
+    "** Humans past the danger line will go with the zombies! **"
+    {
+        "chi" "不要让僵尸过线!"
+    }
+
+    "** If no button is pressed within 75 secs, a random mode will be picked.  **"
+    {
+        "chi" "如果75秒内没人按下按钮,则是随机模式"
+    }
+
+    "** It will be inconvenient if it happens to make zombies come nearer and nearer. **"
+    {
+        "chi" "如果让僵尸越来越近,那就不好了"
+    }
+
+    "** KAMIKAZE HAS BEEN PICKED UP! **"
+    {
+        "chi" "神风敢死队已被拾取!"
+    }
+
+    "** Keep it up! The door will open soon! **"
+    {
+        "chi" "你先别急!急也没用!"
+    }
+
+    "** Keep resisting! Once the wall stops we will be out of here soon! **"
+    {
+        "chi" "继续抵抗!一旦墙停下,我们很快就会离开这里!"
+    }
+
+    "** LONG HOLDS SELECTED **"
+    {
+        "chi" "选择了长守点"
+    }
+
+    "** MASSIVE SAW HAS BEEN PICKED UP! **"
+    {
+        "chi" "锯子已被拾取!"
+    }
+
+    "** Maybe if we break these doors? **"
+    {
+        "chi" "表现自己吧!"
+    }
+
+    "** Piece selection will be completed in 15 seconds! **"
+    {
+        "chi" "舞台选择还有十五秒"
+    }
+
+    "** Please find an exit for yourselves! **"
+    {
+        "chi" "在最后的舞台找到属于自己的出口!"
+    }
+
+    "** Please proceed towards the metal gates. The exhibition will begin shortly! **"
+    {
+        "chi" "舞台马上开始,请前往大门!"
+    }
+
+    "** Please wait in the hall while the main room gets prepared. **"
+    {
+        "chi" "请大厅等候"
+    }
+
+    "** PULVERIZER HAS BEEN PICKED UP! **"
+    {
+        "chi" "终极已被拾取!"
+    }
+
+    "** Race starts in 1 **"
+    {
+        "chi" "赛跑还有1秒开始"
+    }
+
+    "** Race starts in 2 **"
+    {
+        "chi" "赛跑还有2秒开始"
+    }
+
+    "** Race starts in 3 **"
+    {
+        "chi" "赛跑还有3秒开始"
+    }
+
+    "** RED LATCH TRIGGERED! BEWARE AHEAD, REDS! **"
+    {
+        "chi" "红色开关已触发!小心前方!"
+    }
+
+    "** RUN TO THE FINAL HOLD **"
+    {
+        "chi" "守住最后的防线!"
+    }
+
+    "** SHORT HOLDS SELECTED **"
+    {
+        "chi" "选择了短守点"
+    }
+
+    "** The chamber is opening! Move it! **"
+    {
+        "chi" "等待大门打开!"
+    }
+
+    "** The doors won't break, we're stuck! **"
+    {
+        "chi" "马上表演就要开始了!"
+    }
+
+    "** The exhibition is over -- thanks for visiting the Mapeadores Museum! **"
+    {
+        "chi" "表演结束!感谢观看!"
+    }
+
+    "** The humans have reached the end **"
+    {
+        "chi" "人类已经到达了终点"
+    }
+
+    "** The next exposition has been chosen! **"
+    {
+        "chi" "下一个舞台已经选好!"
+    }
+
+    "** The player that reaches the end first can pick a mode. **"
+    {
+        "chi" "第一个到达的玩家可以选择模式"
+    }
+
+    "** The sorting machine will go through the artworks soon! **"
+    {
+        "chi" "分拣机即将完成艺术品!"
+    }
+
+    "** The wall is fully opened! Keep holding for 10 more seconds! **"
+    {
+        "chi" "墙完全打开了,再坚持10秒"
+    }
+
+    "** The zombies have reached the end **"
+    {
+        "chi" "僵尸到达了终点"
+    }
+
+    "** Today's expo is a selection of Modern Art. **"
+    {
+        "chi" "今天的表演是现代艺术的精选."
+    }
+
+    "** Wait, what's that sound? **"
+    {
+        "chi" "等等,这是什么音乐?"
+    }
+
+    "** WALL HAS BEEN PICKED UP! **"
+    {
+        "chi" "墙已被拾取!"
+    }
+
+    "** WATCH OUT FOR THE SIDE VENTS **"
+    {
+        "chi" "小心侧边!"
+    }
+
+    "** WATCH THE SIDES !!! **"
+    {
+        "chi" "注意两边!"
+    }
+
+    "** We have reach the safe tropical island! **"
+    {
+        "chi" "我们安全的到达岛屿!"
+    }
+
+    "** We have to find a way out! Look for weaknesses in the hull! **"
+    {
+        "chi" "我们必须找到出路!"
+    }
+
+    "** We seem to be trapped in the hydraulic system! Resist while we figure a way out! **"
+    {
+        "chi" "我们被困到了水中,想办法逃出去!"
+    }
+
+    "** We will unlock the water pumps soon! **"
+    {
+        "chi" "我们很快打开贴门!"
+    }
+
+    "** Welcome to the Mapeadores Museum! **"
+    {
+        "chi" "欢迎来到博物馆!"
+    }
+
+    "** WINDBLOWER HAS BEEN PICKED UP! **"
+    {
+        "chi" "吹风机已被拾取!"
+    }
+
+    "** YOU SOLVED THE PUZZLE! NEXT CHALLENGE WILL APPEAR PROMPTLY! **"
+    {
+        "chi" "你解决了这个难题!下一个挑战还在继续!"
+    }
+
+    "*** !!! ***"
+    {
+        "chi" "!!!"
+    }
+
+    "*** ... ***"
+    {
+        "chi" "..."
+    }
+
+    "*** ... Escape the Oublithus before it's too late! ***"
+    {
+        "chi" "在这之前先逃离这个鬼地方!"
+    }
+
+    "*** Find water buckets and bring them to the rocks ***"
+    {
+        "chi" "找到水桶,给前面的火炉降降温度"
+    }
+
+    "*** Go! Use the chimney pipe! ***"
+    {
+        "chi" "快跳进旁边的烟囱管!"
+    }
+
+    "*** HUMANS: THROW A NADE TO SOAR INTO THE AIR ***"
+    {
+        "chi" "人类需要往天上丢雷"
+    }
+
+    "*** It's getting difficult to breathe ***"
+    {
+        "chi" "呼吸越来越困难"
+    }
+
+    "*** It's quite chilly down here. Find a way to climb higher! ***"
+    {
+        "chi" "这里很冷,想办法爬得更高!"
+    }
+
+    "*** Let's prepare to leave ***"
+    {
+        "chi" "我们准备离开这个鬼地方"
+    }
+
+    "*** Overheating in 15 seconds ***"
+    {
+        "chi" "15秒内过热"
+    }
+
+    "*** Overheating in 30 seconds ***"
+    {
+        "chi" "30秒内过热"
+    }
+
+    "*** Overheating in 5 seconds ***"
+    {
+        "chi" "5秒内过热"
+    }
+
+    "*** Quickly! Escape through the ventilation to cool off! ***"
+    {
+        "chi" "快!通过通风逃生降温!"
+    }
+
+    "*** Survive for 10 seconds ***"
+    {
+        "chi" "存活10秒"
+    }
+
+    "*** Survive for 20 seconds ***"
+    {
+        "chi" "存活20秒"
+    }
+
+    "*** Survive for 5 seconds ***"
+    {
+        "chi" "存活5秒钟"
+    }
+
+    "*** Take a moment to relax while we figure out what to do next ***"
+    {
+        "chi" "花点时间放松一下,我们弄清楚下一步该怎么做"
+    }
+
+    "*** That's more like it! ***"
+    {
+        "chi" "就像这样重复做!"
+    }
+
+    "*** The air up here is even worse ***"
+    {
+        "chi" "这里的空气更糟糕"
+    }
+
+    "*** The Eye has been blinded ... ***"
+    {
+        "chi" "眼睛被蒙住了..."
+    }
+
+    "*** The hatch to the heater has opened! ***"
+    {
+        "chi" "加热器的舱门已经打开!"
+    }
+
+    "*** THE LORD HAS CHOSEN! EVERYONE IS TO DIE! ***"
+    {
+        "chi" "所有人都要去世"
+    }
+
+    "*** THE LORD HAS CHOSEN! ONE HUMAN WILL BE TRIMMED AT RANDOM! ***"
+    {
+        "chi" "一位玩家已被挑选"
+    }
+
+    "*** THE LORD HAS CHOSEN! SOLO WIN!***"
+    {
+        "chi" "soloooooo!!!"
+    }
+
+    "*** THE LORD IS TAKING TOO LONG! EVERYONE GETS TO LIVE! ***"
+    {
+        "chi" "花费太长时间了,每个人都可以活下去!"
+    }
+
+    "*** THE ONE TO TRAVEL THE LONGEST DISTANCE WINS ***"
+    {
+        "chi" "旅行距离最长的人获胜"
+    }
+
+    "*** The Sauna God is impressed by our endurance ***"
+    {
+        "chi" "桑拿之神对我们的耐力印象深刻"
+    }
+
+    "*** The water is rising ... ***"
+    {
+        "chi" "水位正在上升..."
+    }
+
+    "*** This will really put our heat tolerance to the test! ***"
+    {
+        "chi" "这将真正考验我们的耐热性"
+    }
+
+    "*** Three should do ***"
+    {
+        "chi" "三个必须做的事"
+    }
+
+    "*** TIME'S UP! WINNER GETS TO CHANGE THE WORLD ***"
+    {
+        "chi" "时间到了!赢家将改变世界"
+    }
+
+    "*** Watch your step! ***"
+    {
+        "chi" "当心脚下"
+    }
+
+    "*** We must raise the temperature! ***"
+    {
+        "chi" "我们必须提高温度"
+    }
+
+    "*** You call this heat!? ***"
+    {
+        "chi" "你说这是热能!?"
+    }
+
+    "*** YOU HAVE 30 SECONDS ***"
+    {
+        "chi" "你还有30秒时间"
+    }
+
+    "*** ZOMBIE ENERGY HAS BEEN PICKED UP! ***"
+    {
+        "chi" "僵尸动能已被拾取"
+    }
+
+    "*** ZOMBIES: HUG HUMANS TO BRING THEM DOWN ***"
+    {
+        "chi" "僵尸来了"
+    }
+
+    "***DEFEND - DO NOT LET THE ZOMBIES GET ON***"
+    {
+        "chi" "防御,不要让僵尸上车"
+    }
+
+    "***ESCAPE AS FAST AS POSSIBLE***"
+    {
+        "chi" "尽快逃脱这里"
+    }
+
+    "***SOMEONE IS AT THE TOP OF TOWER***"
+    {
+        "chi" "有人已经在塔顶"
+    }
+
+    "***STAY ON THE TOP PLATFORM TO TELEPORT OUT***"
+    {
+        "chi" "留在顶部平台传送出去"
+    }
+
+    "***WELCOME TO THE DEATHRUN***"
+    {
+        "chi" "欢迎来到死跑"
+    }
+
+    "***YOU'LL BE BACK TO THE MUSEUM IN 10 SECONDS***"
+    {
+        "chi" "您将在10秒内返回博物馆"
+    }
+
+    "***YOU'LL BE BACK TO THE MUSEUM IN 30 SECONDS***"
+    {
+        "chi" "您将在30秒内返回博物馆"
+    }
+
+    "***YOU'LL BE BACK TO THE MUSEUM IN 5 SECONDS***"
+    {
+        "chi" "您将在5秒内返回博物馆"
+    }
+
+    "<<< And zombies will drop red lights. (UNLESS THERE ARE LESS THAN 10 ZOMBIES) >>>"
+    {
+        "chi" "僵尸会显现红灯(除非少于十个僵尸)"
+    }
+
+    "<<< bravo! benissimo! you live for a next stage trim! >>>"
+    {
+        "chi" "哇哦,你坚持活着为了下一阶段而努力,我看好你!"
+    }
+
+    "<<< cus i ain't telling you shit what to do >>>"
+    {
+        "chi" "我不会告诉你接下来做什么"
+    }
+
+    "<<< i hope you're ready for what's about to come >>>"
+    {
+        "chi" "我希望你准备好了!"
+    }
+
+    "<<< no seriously, look up >>>"
+    {
+        "chi" "说真的"
+    }
+
+    "<<< ok, i'll give you some heads up >>>"
+    {
+        "chi" "好吧,我会给你提示的"
+    }
+
+    "<<< Quick! Hide! Zombies are coming in 10 seconds! >>>"
+    {
+        "chi" "快跑啊,僵尸将在十秒内到达!"
+    }
+
+    "<<< Ready or not, here the zombies come! >>>"
+    {
+        "chi" "管不了那么多了,僵尸冲过来了!"
+    }
+
+    "<<< This is hide and seek and defense! Players are invisible but humans drop green lights. >>>"
+    {
+        "chi" "找个地方防守!(人类是看不到的,但是脚底会留下绿灯)"
+    }
+
+    "<== Stage 1 : 20 second  ==>"
+    {
+        "chi" "一阶20秒"
+    }
+
+    "<== Stage 2 : 30 second  ==>"
+    {
+        "chi" "二阶30秒"
+    }
+
+    "<== Stage 3 : 30 second  ==>"
+    {
+        "chi" "三阶30秒"
+    }
+
+    "<== Stage 4 : 10 second  ==>"
+    {
+        "chi" "四阶10秒"
+    }
+
+    "<== Welcome to Spin Spiral Scene (SSS) area ==>"
+    {
+        "chi" "欢迎来到旋旋旋旋旋涡"
+    }
+
+    ">>> Defend the tunnels and stop the zombies from over running the outpost. <<<<"
+    {
+        "chi" "防守隧道!阻止僵尸运行"
+    }
+
+    ">>> Defend until the elevator arrives. <<<"
+    {
+        "chi" "防守!直到梯子到达"
+    }
+
+    ">>> Each tunnel has its own set of lights. More lights mean more zombies. <<<"
+    {
+        "chi" "注意红色灯光通道,灯光亮起会吸引更多僵尸!"
+    }
+
+    ">>> GET ON THE ELEVATOR! <<<"
+    {
+        "chi" "快上梯子!"
+    }
+
+    ">Defend the house<"
+    {
+        "chi" "捍卫屋子"
+    }
+
+    ">Defend the spawn you baboons, that door is about to blow open<"
+    {
+        "chi" "守住这里,门马上炸开"
+    }
+
+    ">Fight starts in 5 seconds, use the M4A4 you are given<"
+    {
+        "chi" "战斗在5秒内开始,请使用你的M4A4"
+    }
+
+    ">Get on the final platform and shoot the boss while the rest defend<"
+    {
+        "chi" "站在最后的平台上!打对面出来的板子"
+    }
+
+    ">Rush B don't stop next time<"
+    {
+        "chi" "不要让战斗停下来!"
+    }
+
+    ">The planks are broken, fall back<"
+    {
+        "chi" "木板倒下了"
+    }
+
+    ">This is a training course designed to test how you perform under pressure<"
+    {
+        "chi" "这是一门培训课程,旨在测试您在压力下的表现"
+    }
+
+    "Dont try to abandon your teammates!"
+    {
+        "chi" "你们是一个团体,不要放弃你的队友!"
+    }
+
+    "Look up and shoot the low weight zombies away!"
+    {
+        "chi" "抬起头,把轻飘飘的僵尸赶走!"
+    }
+
+    "Racetime"
+    {
+        "chi" "表演时间"
+    }
+
+    "Teleporting back to the voting room in 10 seconds"
+    {
+        "chi" "十秒内传送至参观房"
+    }
+
+    "Teleporting to the next area in 10 seconds"
+    {
+        "chi" "十秒内传送至下一个区域"
+    }
+
+    "The stage has been won"
+    {
+        "chi" "这一关你赢了!"
+    }
+
+    "Welcome to the Zombie Shower!"
+    {
+        "chi" "欢迎来到僵尸低重力"
+    }
+
+    "You must master 3 floors to complete the stage"
+    {
+        "chi" "您必须爬到三层楼才能通关这关"
+    }
+
+}

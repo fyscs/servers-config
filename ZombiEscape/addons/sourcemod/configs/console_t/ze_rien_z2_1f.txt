@@ -1,0 +1,164 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***15sec***"
+    {
+        "chi" "还有15秒"
+    }
+
+    "***20sec***"
+    {
+        "chi" "还有20秒"
+    }
+
+    "***25sec***"
+    {
+        "chi" "还有25秒"
+    }
+
+    "***30sec***"
+    {
+        "chi" "还有30秒"
+    }
+
+    "***35sec***"
+    {
+        "chi" "还有35秒"
+    }
+
+    "***40sec***"
+    {
+        "chi" "还有40秒"
+    }
+
+    "***45sec***"
+    {
+        "chi" "还有45秒"
+    }
+
+    "***60sec***"
+    {
+        "chi" "还有60秒"
+    }
+
+    "***But someone sacrificed himself for the Abyes***"
+    {
+        "chi" "但是有人牺牲了自己"
+    }
+
+    "***But the truth still in the Abyes***"
+    {
+        "chi" "真实仍掩埋在深渊之中"
+    }
+
+    "***By the way when you are in the drak room***"
+    {
+        "chi" "当你在一片漆黑中时"
+    }
+
+    "***Find the s!@#$t (0/3)***"
+    {
+        "chi" "找到....."
+    }
+
+    "***Hit [Enidnu] 10 times you will get the secret key***"
+    {
+        "chi" "把这玩意打十次会得到一个东西"
+    }
+
+    "***If you only unlock 1 ending***"
+    {
+        "chi" "如果你仅解锁了一个结局"
+    }
+
+    "***Next time just go to find the secret cube***"
+    {
+        "chi" "下次就想想办法找到秘密方块"
+    }
+
+    "***No one dies for the Abyes***"
+    {
+        "chi" "全数幸存"
+    }
+
+    "***Now just type RTV***"
+    {
+        "chi" "还是换图吧"
+    }
+
+    "***okey I will open a door to surprise you***"
+    {
+        "chi" "好吧我还是来开扇门"
+    }
+
+    "***Stage 4 has 3 ending***"
+    {
+        "chi" "第四关有三个结局"
+    }
+
+    "***Still here?***"
+    {
+        "chi" "还在这里吗"
+    }
+
+    "***Thank you for playing this map***"
+    {
+        "chi" "感谢游玩本张地图"
+    }
+
+    "***they are watching us...***"
+    {
+        "chi" "它们注视着我们"
+    }
+
+    "***This map is End,ByeBye***"
+    {
+        "chi" "结束与此,再见"
+    }
+
+    "***time out***"
+    {
+        "chi" "时间耗尽"
+    }
+
+    "***You Escaped***"
+    {
+        "chi" "你成功了"
+    }
+
+    "***you find Monitors***"
+    {
+        "chi" "你找到了监视器"
+    }
+
+    "***You get happy ending***"
+    {
+        "chi" "哈啤结局"
+    }
+
+    "***you stop the nuke***"
+    {
+        "chi" "你阻止了核爆"
+    }
+
+    "Fall"
+    {
+        "chi" "坠下"
+    }
+
+    "Thanks server Zed moeub zeddy"
+    {
+        "chi" "感谢Zed,Zeddy,moeub服务器的帮助"
+    }
+
+}

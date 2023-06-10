@@ -4,105 +4,130 @@
 	"Options Menu - Profile"
 	{
 		"en"		"Profile"
+		"chi"		"个人资料"
 	}
 	"Options Menu - Show Rank Chat"
 	{
 		"en"		"Show rank in chat"
+		"chi"		"在聊天栏显示段位"
 	}
 	"Options Menu - Show Rank Clan"
 	{
 		"en"		"Show rank on scoreboard"
+		"chi"		"在计分板显示段位"
 	}
 	"Options Menu - Tag Type"
 	{
 		"en"		"Tag to show"
+		"chi"		"显示的标志"
 	}
 	"Options Menu - Enabled"
 	{
 		"en"		"Enabled"
+		"chi"		"启用"
 	}
 	"Options Menu - Disabled"
 	{
 		"en"		"Disabled"
+		"chi"		"禁用"
 	}
 	"Options Menu - Tag Rank"
 	{
 		"en"		"Rank"
+		"chi"		"段位"
 	}
 	"Options Menu - Tag Admin"
 	{
 		"en"		"Admin"
+		"chi"		"管理员"
 	}
 	"Options Menu - Tag VIP"
 	{
 		"en"		"VIP"
+		"chi"		"会员"
 	}
 	
 	//=====[ PROFILE ]=====
 	"Profile Menu - Title"
 	{
 		"en"		"Profile"
+		"chi"		"个人资料"
 	}
 	"Profile Menu - Name"
 	{
 		"en"		"Name"
+		"chi"		"名称"
 	}
 	"Profile Menu - Mode"
 	{
 		"en"		"Mode"
+		"chi"		"模式"
 	}
 	"Profile Menu - Rank"
 	{
 		"en"		"Rank"
+		"chi"		"段位"
 	}
 	"Profile Menu - Points"
 	{
 		"en"		"Points"
+		"chi"		"分数"
 	}
 	"Rank Info Menu - Title"
 	{
 		"en"		"Rank Info"
+		"chi"		"段位信息"
 	}
 	"Rank Info Menu - Current Rank"
 	{
 		"en"		"Current"
+		"chi"		"当前"
 	}
 	"Rank Info Menu - Next Rank"
 	{
 		"en"		"Next"
+		"chi"		"下一级"
 	}
 	"Rank Info Menu - Points needed"
 	{
 		"en"		"Points needed"
+		"chi"		"需要的分数"
 	}
 	"Points Info Menu - Title"
 	{
 		"en"		"Point Info"
+		"chi"		"分数"
 	}
 	"Points Info Menu - Overall Points"
 	{
 		"en"		"Nub Points"
+		"chi"		"读点分数"
 	}
 	"Points Info Menu - Pro Points"
 	{
 		"en"		"Pro Points"
+		"chi"		"裸跳分数"
 	}
 	"Points Info Menu - Overall Completion"
 	{
 		"en"		"Nub runs"
+		"chi"		"读点"
 	}
 	"Points Info Menu - Pro Completion"
 	{
 		"en"		"Pro runs"
+		"chi"		"裸跳"
 	}
 	
 	//=====[ TAGS ]=====
 	"Tag - Admin"
 	{
 		"en"		"ADMIN"
+		"chi"		"管理员"
 	}
 	"Tag - VIP"
 	{
 		"en"		"VIP"
+		"chi"		"会员"
 	}
 }
