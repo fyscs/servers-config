@@ -1,0 +1,259 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** THE WHITE KNIGHT IS READY ROCK THE WORLD **"
+    {
+        "chi" "**白衣骑士已准备战斗 **"
+    }
+
+    "***...WashBucket leaving in 5secs...Seriously?***"
+    {
+        "chi" "**...水桶5秒后离开...认真的吗?**"
+    }
+
+    "***...WashTub leaving in 3secs...***"
+    {
+        "chi" "**...洗衣盆将在3秒后离开...**"
+    }
+
+    "***Armory open.***"
+    {
+        "chi" "**武器库开启**"
+    }
+
+    "***Boat 1 leaving in 10secs.***"
+    {
+        "chi" "**船一10秒后出发**"
+    }
+
+    "***Boat 2 leaving in 5secs.***"
+    {
+        "chi" "**船二5秒后出发**"
+    }
+
+    "***Boat 3 leaving in 10secs.***"
+    {
+        "chi" "**船三10秒后出发**"
+    }
+
+    "***Boat 4 leaving in 10secs.***"
+    {
+        "chi" "**船四10秒后出发**"
+    }
+
+    "***Bobsled leaving in 5secs.***"
+    {
+        "chi" "**雪橇将在5秒后离开!**"
+    }
+
+    "***Final Boat leaving in 30secs.***"
+    {
+        "chi" "**最后的船将在30秒后离开**"
+    }
+
+    "***Final Boat leaving in 5secs.***"
+    {
+        "chi" "**最后的船将在5秒后离开**"
+    }
+
+    "***Final Boat leaving in 75secs.***"
+    {
+        "chi" "**最后的船将在75秒后离开**"
+    }
+
+    "***First shortcuts opening in 15secs.***"
+    {
+        "chi" "**第一条近路将在15秒后开放**"
+    }
+
+    "***Gate opening in 30secs.***"
+    {
+        "chi" "**门将在30秒后开启**"
+    }
+
+    "***Gate opening in 55secs.***"
+    {
+        "chi" "**门将在55秒后开启**"
+    }
+
+    "***Gate opening in 5secs.***"
+    {
+        "chi" "**门将在5秒后开启**"
+    }
+
+    "***Helicopter leaving in 5secs.***"
+    {
+        "chi" "**直升机5秒后离开**"
+    }
+
+    "***Ice Wall breaking in 10secs.***"
+    {
+        "chi" "**冰墙将在10秒后碎掉**"
+    }
+
+    "***Second shortcuts opening in 15secs.***"
+    {
+        "chi" "**第二条近路将在15秒后开放**"
+    }
+
+    "***Start up the Helicopter.***"
+    {
+        "chi" "**启动直升机**"
+    }
+
+    "***Tram leaving in 10secs.***"
+    {
+        "chi" "**有轨电车10秒后离开!**"
+    }
+
+    "***WashTub leaving in 30secs.***"
+    {
+        "chi" "**洗衣盆将在30秒后离开**"
+    }
+
+    "***WashTub leaving in 5secs.***"
+    {
+        "chi" "**洗衣盆将在5秒后离开**"
+    }
+
+    "***WashTub leaving in 65secs.***"
+    {
+        "chi" "**洗衣盆将在65秒后离开**"
+    }
+
+    "**bride move in 10secs**"
+    {
+        "chi" "**兽颅将在10秒后离开**"
+    }
+
+    "*Genesis laser in 6s*"
+    {
+        "chi" "**杰内西斯正在思考人生,6秒后他可能会来个反手掏**"
+    }
+
+    "*player pickup setgravity gun*"
+    {
+        "chi" "*低重力装置已被拾取*"
+    }
+
+    "*player pickup sound*"
+    {
+        "chi" "*音频干扰装置已被拾取*"
+    }
+
+    "*Sephiroth coming*"
+    {
+        "chi" "**萨菲罗斯阻挡了我们的去路**"
+    }
+
+    "*Shoot Sephiroth,kill him*"
+    {
+        "chi" "**萨菲罗斯想杀了我们,弄死他**"
+    }
+
+    "<< Misaka will help you >>"
+    {
+        "chi" "**御坂美琴将会帮助你**"
+    }
+
+    "<< The cannon will deactive if misaka pick other magic >>"
+    {
+        "chi" "御坂美琴的电磁炮将会在拾取其他神器后失效"
+    }
+
+    "<<< Shadow appears in its strongest form >>>"
+    {
+        "chi" "<<<暗影以其最强的形态现世 >>>"
+    }
+
+    "<<< Shadow will realse its power in 30 seconds >>>"
+    {
+        "chi" "<<<暗影将在30秒后释放其力量>>>"
+    }
+
+    "alex!"
+    {
+        "chi" "A哥!"
+    }
+
+    "balrog!"
+    {
+        "chi" "炎魔!"
+    }
+
+    "deadric!"
+    {
+        "chi" "魔神!"
+    }
+
+    "dohva!"
+    {
+        "chi" "龙裔!"
+    }
+
+    "dp!"
+    {
+        "chi" "龙祭祀!"
+    }
+
+    "gandalf!"
+    {
+        "chi" "甘道夫!"
+    }
+
+    "giant!"
+    {
+        "chi" "巨人!"
+    }
+
+    "goliath!"
+    {
+        "chi" "高达!"
+    }
+
+    "gwyn!"
+    {
+        "chi" "薪王葛温!"
+    }
+
+    "human will have..."
+    {
+        "chi" "人类将会是..."
+    }
+
+    "kirito!"
+    {
+        "chi" "桐人!"
+    }
+
+    "slow!"
+    {
+        "chi" "巨魔!"
+    }
+
+    "wait 12 sec"
+    {
+        "chi" "等待12秒"
+    }
+
+    "xiaoxx!"
+    {
+        "chi" "审判长!"
+    }
+
+    "zombies will have..."
+    {
+        "chi" "僵尸将会是..."
+    }
+
+}

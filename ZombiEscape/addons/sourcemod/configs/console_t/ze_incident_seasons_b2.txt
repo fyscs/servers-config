@@ -1,0 +1,514 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** 10 seconds **"
+    {
+        "chi" "还有10秒"
+    }
+
+    "** 15 seconds **"
+    {
+        "chi" "还有15秒"
+    }
+
+    "** 20 seconds **"
+    {
+        "chi" "还有20秒"
+    }
+
+    "** 25 seconds **"
+    {
+        "chi" "还有25秒"
+    }
+
+    "** 8 seconds **"
+    {
+        "chi" "还有8秒"
+    }
+
+    "** CORRECT **"
+    {
+        "chi" "已修正"
+    }
+
+    "** Fail... **"
+    {
+        "chi" "失败..."
+    }
+
+    "** Find the correct button to continue your trip **"
+    {
+        "chi" "找到正确的开关,继续你们的旅程"
+    }
+
+    "** Good job! The door will open in 15 seconds **"
+    {
+        "chi" "已完成!门还有15秒打开"
+    }
+
+    "** Spring **"
+    {
+        "chi" ">> 春天 <<"
+    }
+
+    "** Summer **"
+    {
+        "chi" ">> 夏天 <<"
+    }
+
+    "** WRONG **"
+    {
+        "chi" "> 错误 <"
+    }
+
+    "*** ???: ... ***"
+    {
+        "chi" "未知: ..."
+    }
+
+    "*** ???: I think I have told you before...***"
+    {
+        "chi" "未知: 我认为我已经告诉过你了..."
+    }
+
+    "*** ???: Interesting......My name is Sonia, Looks like you've found some good helpers ***"
+    {
+        "chi" "未知: 有点意思...我是Sonia,看起来你找了些不错的帮手"
+    }
+
+    "*** ???: It seems that you hired some helpers this time ***"
+    {
+        "chi" "这一次看起来你雇佣了些帮手..."
+    }
+
+    "*** ???: Why you come here again? ***"
+    {
+        "chi" "为什么你还要来这里?"
+    }
+
+    "*** ???: You CAN NOT defeat me no matter how many times!!!***"
+    {
+        "chi" "无论多少次,你都击败不了我!!!"
+    }
+
+    "*** [Draco meteor rain] ***"
+    {
+        "chi" "[天龙流星之雨]"
+    }
+
+    "*** [Pristine Lunacy] ***"
+    {
+        "chi" "[纯粹的狂气]"
+    }
+
+    "*** 10 seconds ***"
+    {
+        "chi" "还有10秒"
+    }
+
+    "*** 15 seconds ***"
+    {
+        "chi" "还有15秒"
+    }
+
+    "*** 20 seconds ***"
+    {
+        "chi" "还有20秒"
+    }
+
+    "*** 25 seconds ***"
+    {
+        "chi" "还有25秒"
+    }
+
+    "*** A zombie has picked up Collecter magic ***"
+    {
+        "chi" "一名僵尸成为了收集者"
+    }
+
+    "*** A zombie has picked up Electrical Ring ***"
+    {
+        "chi" "一名僵尸拾起了虚弱电环"
+    }
+
+    "*** A zombie has picked up gravity magic ***"
+    {
+        "chi" "一名僵尸获得了黑洞"
+    }
+
+    "*** A zombie has picked up heal magic ***"
+    {
+        "chi" "一名僵尸学会了治疗"
+    }
+
+    "*** Although she was not completely defeated, she also retreated. I think we can get the spring power now! ***"
+    {
+        "chi" "它没有被彻底消灭,只是暂时撤退了.我觉得我们现在能拿到春天的力量!"
+    }
+
+    "*** Bathory hopes that we can help her defeat the sisters and regain the season power ***"
+    {
+        "chi" "巴托里希望我们帮助它击败它们并拿回季节之力"
+    }
+
+    "*** Bathory is ready to use Shining Spear ***"
+    {
+        "chi" "巴托里准备使用闪耀之矛"
+    }
+
+    "*** Bathory will help us ***"
+    {
+        "chi" "巴托里会帮助我们"
+    }
+
+    "*** Bathory: Although I do not know why she is not dead ***"
+    {
+        "chi" "但是我不知道为什么它还没有消失"
+    }
+
+    "*** Bathory: Cheer up! The Summer Power is in the forest! ***"
+    {
+        "chi" "振作起来!夏天的力量就在丛林之中"
+    }
+
+    "*** Bathory: Get out of here now! I think we will soon find the Autumn Power!***"
+    {
+        "chi" "快离开这里!我想我们马上就能找到秋天之力了!"
+    }
+
+    "*** Bathory: Her name is Sonia? Perhaps it's this name? ***"
+    {
+        "chi" "它的名字是索尼娅?是这个名字吗...?"
+    }
+
+    "*** Bathory: Here is the nest Sonia lives ***"
+    {
+        "chi" "这里就是它躲藏的地方"
+    }
+
+    "*** Bathory: However, there are two guys who have been guarding the Season Power they stole ***"
+    {
+        "chi" "但是,这里有两个家伙已经在守卫着窃取来的力量"
+    }
+
+    "*** Bathory: Huh? You ask me why force Sonia to appear? ***"
+    {
+        "chi" "嗯?为什么要逼它出现么??"
+    }
+
+    "*** Bathory: Huh? You want to ask why Dolores didn't kill you in the forest? ***"
+    {
+        "chi" "嗯?你想知道为什么森林里多洛雷斯没杀掉你?"
+    }
+
+    "*** Bathory: If I hadn't suppressed her energy, you'd be dead by now!!! ***"
+    {
+        "chi" "当时如果我没有压制它的力量,你现在已经死了!!"
+    }
+
+    "*** Bathory: It is her!!! Be Careful!!! ***"
+    {
+        "chi" "是它!!当心!!!"
+    }
+
+    "*** Bathory: It should be the elder sister of the sisters who stay in the forest, her name is Dolores ***"
+    {
+        "chi" "应该是呆在丛林中的比较年长的姐姐,它的名字是多洛雷斯"
+    }
+
+    "*** Bathory: My strength has been lent to you, what else do you need to worry about?***"
+    {
+        "chi" "我的力量已经借给了你,还有什么要担心的呢?"
+    }
+
+    "*** Bathory: Nice job!! We defeat Sonia!!! ***"
+    {
+        "chi" "好的!!我们击败了索尼娅!!!"
+    }
+
+    "*** Bathory: No matter what her name is, climb to the top first and force her to appear! ***"
+    {
+        "chi" "无论它是谁,到顶上去逼它出现!"
+    }
+
+    "*** Bathory: Rather than being ambushed by her, we should take the initiative to attack***"
+    {
+        "chi" "比起被它埋伏,我们应该主动出击"
+    }
+
+    "*** Bathory: She should be around! We must completely defeat her this time! ***"
+    {
+        "chi" "它应该就在附近!我们这次必须一了百了!!"
+    }
+
+    "*** Bathory: She will do her best this time, be careful! ***"
+    {
+        "chi" "它将拼尽全力!小心点!"
+    }
+
+    "*** Bathory: Thank you for helping me. As you can see, we now need to go to different areas to recycle energy for different seasons ***"
+    {
+        "chi" "感谢你们的帮助,如你所见,我们需要前往各区域重新收集季节之力"
+    }
+
+    "*** Bathory: The power of spring is hidden at the top of this tower ***"
+    {
+        "chi" "春之力隐藏在这座塔的顶端"
+    }
+
+    "*** Bathory: The task is very simple, just defeat those two guys! ***"
+    {
+        "chi" "要做的也很简单,把这俩家伙打倒!"
+    }
+
+    "*** Bathory: The younger sister of those two guys is guarding here ***"
+    {
+        "chi" "两人之一的妹妹守卫着这里"
+    }
+
+    "*** Bathory: Victory is in sight! There's no need to pester her anymore! ***"
+    {
+        "chi" "就要胜利了!没必要在这里纠缠了!"
+    }
+
+    "*** Bathory: We are about to enter a forest ***"
+    {
+        "chi" "我们将要进入一片森林"
+    }
+
+    "*** Bathory: We have already get the spring power, next we need to get the summer power ***"
+    {
+        "chi" "我们已经获得了春天的力量,下一步是拿到夏天的力量"
+    }
+
+    "*** Bathory: Well done, humans! But the next autumn power is hidden in Sonia's nest ***"
+    {
+        "chi" "可以的!但是秋天的力量被隐藏在索尼娅的老巢里"
+    }
+
+    "*** Bathory: When we get the season power, she will definitely appear ***"
+    {
+        "chi" "当我们取得季节的力量时,它一定会出现"
+    }
+
+    "*** Bathory: You don't think she really let you go, do you? ***"
+    {
+        "chi" "你不会以为它真的会让你离开,不会吧?"
+    }
+
+    "*** Bathory:Its Sonia Again?! ***"
+    {
+        "chi" "又是它吗?"
+    }
+
+    "*** But there's one thing that really matters to me ***"
+    {
+        "chi" "但有一件事对我确实十分重要"
+    }
+
+    "*** But there's something that makes me feel a bit wrong ***"
+    {
+        "chi" "但是有些迹象让我感觉不对"
+    }
+
+    "*** Dark Sign[Apollo Hoax Theory] ***"
+    {
+        "chi" "暗符[阿波罗捏造说]"
+    }
+
+    "*** Dark Sign[The Oblique Nightmare] ***"
+    {
+        "chi" "暗符[斜向的噩梦]"
+    }
+
+    "*** Dream Sign[The purple intricate dream] ***"
+    {
+        "chi" "梦符[紫色的错综迷梦]"
+    }
+
+    "*** It seems that this task is not as simple as imagined ***"
+    {
+        "chi" "看起来没有想象的那么简单"
+    }
+
+    "*** Magic[Magical Butterfly] ***"
+    {
+        "chi" "魔法[Magic Butterfly]"
+    }
+
+    "*** Player has picked up the Dark ***"
+    {
+        "chi" "玩家获得了黑暗魔法"
+    }
+
+    "*** Player has picked up the Earth ***"
+    {
+        "chi" "玩家获得了墙"
+    }
+
+    "*** Player has picked up the Fire ***"
+    {
+        "chi" "玩家获得了火焰"
+    }
+
+    "*** Player has picked up the Light ***"
+    {
+        "chi" "玩家获得了光明"
+    }
+
+    "*** Player has picked up the Season Power ***"
+    {
+        "chi" "玩家获得了季节之力"
+    }
+
+    "*** Player has picked up the Water ***"
+    {
+        "chi" "玩家获得了水"
+    }
+
+    "*** Sonia: But this is not enough for you to steal the season power***"
+    {
+        "chi" "对你来说窃取季节之力并不会使你满足"
+    }
+
+    "*** Sonia: Do not be deceived by her!!! ***"
+    {
+        "chi" "不要被它骗了"
+    }
+
+    "*** Sonia: I will send all of you to the HELL!!! ***"
+    {
+        "chi" "我会把你们送进地狱!!"
+    }
+
+    "*** Sonia: I will wait for you at that place. I hope you don't disappoint me next time ***"
+    {
+        "chi" "我会在那里等你们,希望下次不要让我失望"
+    }
+
+    "*** Sonia: I won't let you leave here! ***"
+    {
+        "chi" "你们休想离开这里!"
+    }
+
+    "*** Sonia: Interesting, I didn't expect you to dare to come to me again ***"
+    {
+        "chi" "有点意思,我还以为你不会再来找我了"
+    }
+
+    "*** Sonia: She is the mastermind of the incident of the seasons!!! ***"
+    {
+        "chi" "它才是这一切事件的幕后策划者"
+    }
+
+    "*** Sonia: Then don't blame me...***"
+    {
+        "chi" "那就别怪我了..."
+    }
+
+    "*** Stage Clear ***"
+    {
+        "chi" "已完成"
+    }
+
+    "*** Stage Winter will finish soon, thx for playing this map ***"
+    {
+        "chi" "冬天关卡即将完成,感谢各位的游玩"
+    }
+
+    "*** Star Sign[Boundary of Wave and Particle] ***"
+    {
+        "chi" "星符[波与粒子的境界]"
+    }
+
+    "*** The message sent to us is Bathory. According to her description, it is because a pair of sisters stole the season power, which led to this incident ***"
+    {
+        "chi" "收到巴托里的信息.根据其描述,这一切的起源都是一对姐妹窃取了季节的力量"
+    }
+
+    "*** The season power item has unlocked the summer power... ***"
+    {
+        "chi" "季节之力解放了夏天的力量..."
+    }
+
+    "*** The Season Power Item will Unlock Next Round... ***"
+    {
+        "chi" "季节之力将于下回合解锁"
+    }
+
+    "*** Tips: Bathory will not use normal attack if she pick up an item  ***"
+    {
+        "chi" "巴托里拾取物品时不会使用普通攻击"
+    }
+
+    "*** Warning: The Collecter is Fully Charged!!! ***"
+    {
+        "chi" "警告:收集者已准备就绪!!"
+    }
+
+    "*** We have collected power of two seasons, now we only need to collect the remaining two ***"
+    {
+        "chi" "我们已经收集了两个季节的力量,只需要去收回剩下的两个"
+    }
+
+    "*** We have received a message that abnormal phenomena with different seasons have occurred in adjacent areas ***"
+    {
+        "chi" "收到消息称临近的区域出现了不同季节力量的异常现象"
+    }
+
+    "*** Why did Bathory FORCE Sonia to appear? ***"
+    {
+        "chi" "为什么巴托里要逼索尼娅出现?"
+    }
+
+    "*** Why did she let us go even she knew we were here to get the summer power? ***"
+    {
+        "chi" "为什么它知道我们在这里也不阻止我们获得夏天的力量"
+    }
+
+    "*** Why go head-to-head with her since we know the strength of Sonia? ***"
+    {
+        "chi" "已经知道索尼娅的力量为什么还要和它硬碰硬?"
+    }
+
+    "*** You get the Autumn Power ***"
+    {
+        "chi" "你获得了秋天的力量"
+    }
+
+    "*** You Get The Power of Spring!!! ***"
+    {
+        "chi" "你获得了春天的力量"
+    }
+
+    "*** You get the summer power!  ***"
+    {
+        "chi" "你获得了夏天的力量"
+    }
+
+    "*** You have find a secret button, now you can use the third season power ***"
+    {
+        "chi" "你找到了神秘按钮,现在你可以使用第三个季节的力量"
+    }
+
+    "***Stellar Wind [Wild Dance of Dazzling Iridescence] ***"
+    {
+        "chi" "星风[虹彩陆离乱舞]"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
