@@ -1,0 +1,72 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "!!"
+    {
+        "chi" "!!"
+    }
+
+    "*** 10 SECONDS LEFT ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** 20 SECONDS LEFT ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** 30 SECONDS LEFT ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** 40 SECONDS LEFT ***"
+    {
+        "chi" "还有40秒"
+    }
+
+    "*** 50 SECONDS LEFT ***"
+    {
+        "chi" "还有50秒"
+    }
+
+    "*** HOLD 20 SECONDS ***"
+    {
+        "chi" "等待20秒"
+    }
+
+    "*** HOLD 30 SECONDS ***"
+    {
+        "chi" "等待30秒"
+    }
+
+    "*** HOLD 40 SECONDS ***"
+    {
+        "chi" "等待40秒"
+    }
+
+    "??"
+    {
+        "chi" "????"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
