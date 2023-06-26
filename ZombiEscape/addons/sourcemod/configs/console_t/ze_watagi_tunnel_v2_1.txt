@@ -1,0 +1,230 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "<!> ????? 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> ????? 30 s <!>"
+    {
+        "chi" "还有30秒"
+    }
+
+    "<!> a feeling that something dangerous... 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> a feeling that something dangerous... 20 s <!>"
+    {
+        "chi" "还有20秒"
+    }
+
+    "<!> Barricade will open 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Barricade will open 20 s <!>"
+    {
+        "chi" "还有20秒"
+    }
+
+    "<!> Barricade will open 30 s <!>"
+    {
+        "chi" "还有30秒"
+    }
+
+    "<!> Barricade will open 40 s <!>"
+    {
+        "chi" "还有40秒"
+    }
+
+    "<!> Destroy the barricade 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Destroy the barricade 20 s <!>"
+    {
+        "chi" "还有20秒"
+    }
+
+    "<!> Destroy the barricade 30 s <!>"
+    {
+        "chi" "还有30秒"
+    }
+
+    "<!> Destroy the drums 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Destroy the drums 20 s <!>"
+    {
+        "chi" "还有20秒"
+    }
+
+    "<!> Destroy the drums 40 s <!>"
+    {
+        "chi" "还有40秒"
+    }
+
+    "<!> Destroy the wire mesh 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Destroy the wire mesh 20 s <!>"
+    {
+        "chi" "还有20秒"
+    }
+
+    "<!> Elevator starts moving 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Elevator starts moving 40 s <!>"
+    {
+        "chi" "电梯还有40秒启动"
+    }
+
+    "<!> Escape from this labyrinth of hatred 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Escape from this labyrinth of hatred 30 s <!>"
+    {
+        "chi" "还有30秒逃离这里"
+    }
+
+    "<!> get in elevator 10 s <!>"
+    {
+        "chi" "快进来,还有10秒"
+    }
+
+    "<!> Get out of the tunnel! 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Get out of the tunnel! 60 s <!>"
+    {
+        "chi" "快离开隧道,还有60秒"
+    }
+
+    "<!> Going Into the Tunnel 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Going Into the Tunnel 30 s <!>"
+    {
+        "chi" "还有30秒,快进入隧道"
+    }
+
+    "<!> hatch will open 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> hatch will open 30 s <!>"
+    {
+        "chi" "还有30秒"
+    }
+
+    "<!> old door close. 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> old door close. 30 s <!>"
+    {
+        "chi" "门还有30秒关闭"
+    }
+
+    "<!> Open musty shelves 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Open musty shelves 30 s <!>"
+    {
+        "chi" "还有30秒"
+    }
+
+    "<!> Shutters open 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Shutters open 30 s <!>"
+    {
+        "chi" "还有30秒"
+    }
+
+    "<!> Smash the  hardwood door with an axe 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Smash the  hardwood door with an axe 30 s <!>"
+    {
+        "chi" "使用斧子破门,还要30秒"
+    }
+
+    "<!> Smash the wall with a hammer 10 s <!>"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "<!> Smash the wall with a hammer 30 s <!>"
+    {
+        "chi" "使用锤头破门,还需要30秒"
+    }
+
+    "<!> This fragile wall could be broken with a kick 10 s <!>"
+    {
+        "chi" "还需要十秒"
+    }
+
+    "<!> we put the picture of the deceased back 5 s <!>"
+    {
+        "chi" "还有5秒"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
