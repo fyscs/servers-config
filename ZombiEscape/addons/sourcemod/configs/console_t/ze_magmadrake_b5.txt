@@ -1,0 +1,353 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "***DEFEND 10 SECONDS***"
+    {
+        "chi" "守住 10 秒"
+    }
+
+    "***DEFEND 20 SECONDS***"
+    {
+        "chi" "守住 20 秒"
+    }
+
+    "***DEFEND 5 SECONDS***"
+    {
+        "chi" "守住 5 秒"
+    }
+
+    "***DRAGON DEAD DEFEND 40 SECONDS***"
+    {
+        "chi" "炎龙倒下了,守住40秒"
+    }
+
+    "***JUMP NOW!!!***"
+    {
+        "chi" "酱铺!!!!!"
+    }
+
+    "***MAP BY LUFFAREN***"
+    {
+        "chi" "作者: LUFFAREN 翻译: zib1 & 茜茜"
+    }
+
+    "***PICKED UP MAGMA-PUSH***"
+    {
+        "chi" "已拾取推力"
+    }
+
+    "***PICKED UP ZOMBIE-FLAME***"
+    {
+        "chi" "僵尸已拾取火"
+    }
+
+    "***PICKED UP ZOMBIE-FLING***"
+    {
+        "chi" "僵尸已拾取震荡"
+    }
+
+    "***THE REAL MAGMADRAKE IS NOT HERE YET***"
+    {
+        "chi" "真正的炎龙塔会在cs2中向你展现"
+    }
+
+    "***TOWER WENT BOOM***"
+    {
+        "chi" "炎龙塔在慢慢消失"
+    }
+    
+    "***WELCOME TO MAGAMDRAKE TOWER***"
+    {
+        "chi" "欢迎来到炎龙塔"
+    }
+    
+    "***MAP MADE BY THE REAL LUFFAREN (holy shit)***"
+    {
+        "chi"  "这真的是luffaren制作的图吗"
+    }
+
+    "***IT IS VERY HOT CLIMB THE TOWER***"
+    {
+        "chi"  "我好烧(热)啊"
+    }
+    
+    "***ZOMBIE BRIDGE IS FAST NOW***"
+    {
+        "chi"  "出生点桥已有push"
+    }
+    
+    "[ITEM] human picked up Piggyback"
+    {
+        "chi" "人类捡起猪咪坐骑"
+    }     
+     
+    "[ITEM] human picked up HealOrb"
+    {
+        "chi" "人类捡起治愈"
+    }   
+
+    "[ITEM] human picked up DragonSlayer"
+    {
+        "chi" "人类捡起真屠龙宝刀(一刀999)"
+    }      
+
+    "***DELAYERS DETECTED***"
+    {
+        "chi" "延缓型检测"
+    }
+    
+    "***ZOMBIES CAN NOW BOOST FROM SPAWN***"
+    {
+        "chi" "僵尸可以从板子上升"
+    }
+
+    "***ACTIVATE BUTTON/PROGRESS TO DISABLE BOOST***"
+    {
+        "chi" "激活按钮,禁用板子上升"
+    }      
+    
+    "***ASCEND IN 30 SECONDS***"
+    {
+        "chi" "在 30 秒内上升"
+    }
+
+    "***ASCENDING ELEVATOR DESCENDING!***"
+    {
+        "chi" "上升电梯下降!"
+    }  
+
+    "***ASCEND IN 10 SECONDS***"
+    {
+        "chi" "在 10 秒内上升"
+    }
+   
+    "***GET ON THE RISING SUN!!!***"
+    {
+        "chi" "上升的太阳"
+    }   
+
+    "***3...***"
+    {
+        "chi" "③..."
+    }
+
+    "***2...***"
+    {
+        "chi" "②..."
+    }    
+
+    "***1...***"
+    {
+        "chi" "①..."
+    }
+
+    "***ASCEND NOW FROM THE BORISH BOTTOM***"
+    {
+        "chi" "在底层升起"
+    }
+
+    "***SHORTCUT NOW FROM THE BORISH BOTTOM***"
+    {
+        "chi" "快捷方式在底部"
+    }
+
+    "***ASCEND IN 20 SECONDS***"
+    {
+        "chi" "在 20 秒内上升"   
+    }
+
+    "***ASCEND IN 5 SECONDS***"
+    {
+        "chi" "在 5 秒内上升"
+    }
+
+    "***ASCEND NOW FROM THE CUTE LITTLE TOWER***"
+    {
+        "chi" "现在就从可爱的小塔上爬上去"
+    }
+
+    "***ASCEND NOW FROM THE SIDE THAT IS NOT THE OTHER***"
+    {
+        "chi" "现在不是另一边升起"
+    }
+
+    "***ASCEND SHORTCUT IS CREEPING AHEAD***"
+    {
+        "chi" "上升的捷径正在开启"
+    }
+
+    "***PROCEEDING IN 20 SECONDS***"
+    {
+        "chi" "在 20 秒内完成"
+    }
+
+    "***PROCEEDING IN 10 SECONDS***"
+    {
+        "chi" "在 10 秒内完成"
+    }
+
+    "***PROCEEDING IN 5 SECONDS***" 
+    {
+        "chi" "在 5 秒内完成"
+    }
+
+    "***PROCEEDING UPWARDS AS INTENDED***"
+    {
+        "chi" "和原计划一样向上前进"
+    }
+    
+    "***ONE MUST TREAD CAREFULLY TO ALLOW THE TEAM TO PROCEED***"
+    {
+        "chi" "一个人必须小心点,尽量和团队一起前行"
+    }
+
+    "***ASCEND IN 25 SECONDS***"
+    {
+        "chi" "在 25 秒内升空"
+    } 
+
+    "***ASCEND IN 10 SECONDS***"
+    
+        "chi" "在 10 秒内升空"
+    }
+
+    “***ASCEND IN 5 SECONDS***”
+    {
+        “chi" "在 5 秒内升空"
+    }
+
+    "***ASCEND NOW FROM THE BIG BOY PILLARS***"
+    {
+        "chi" "现在从可爱的柱子上爬上去"
+    }
+    
+    "***PROCEEDING IN 30 SECONDS***"
+    {
+        "chi" "在 30 秒内前行"
+    }
+
+    "***PROCEEDING TO THE UPPER BOUNDS OF THE WORLD!***"
+    {
+        "chi" "走向世界的最高处!"
+    }
+    
+    "***JUMP CAREFULLY!***"
+    {
+        "chi" "小心酱普"
+    }    
+
+    "***THE SNEAKY ZOMBIE JUMP IS ACTIVATING SOON'tm***"
+    {
+        "chi" "僵尸跳跃即将开始"
+    }
+
+    "***THE SNEAKY ZOMBIE JUMP IS ACTIVATING NOW'tm***"
+    {
+        "chi" "僵尸跳现在开始"
+    }
+
+    "***YOU MUST FIND THE HIGHS AND LOWS***"
+    {
+        "chi" "你必须找到高点或低点"
+    }
+
+    "***ONLY THEN YOU MAY GOWS...***"
+    {
+        "chi" "只有这样,你才可能有机会..."
+    }
+
+    "***THE SECOND SNEAKY ZOMBIE JUMP IS ACTIVATING NOW'tm***"
+    {
+        "chi" "第二段僵尸跳开启"
+    }
+
+    "***1/2 EVIL BUTTONS HAVE BEEN PRESSED!***"
+    {
+        "chi" "第一个按钮已被按下"
+    }
+
+    "***2/2 EVIL BUTTONS HAVE BEEN PRESSED!***"
+    {
+        "chi" "第二个按钮已被按下"
+    }
+
+    "***ASCEND IN 40 SECONDS***"
+    {
+        "chi" "在 40 秒内上升"
+    }
+
+    "***ASCEND NOW FROM THE FANCY EDGE***"
+    {
+        "chi" "现在从边缘升起"
+    }
+
+    "***ASCEND IN 15 SECONDS***"
+    {
+        "chi" "在 15 秒内上升"
+    }
+
+    "***ASCEND NOW TO THE TOP***"
+    {
+        "chi" "登上顶峰"
+    }
+
+    "***FINISH THE FIGHT!***"
+    {
+        "chi" "终于结束这一切了!"
+    }
+
+    "***WASH OUT IS THE REAL DRAGON***"
+    {
+        "chi" "真正的炎龙出现了!"
+    }
+
+    "***SHOOT IT HAS LOTS OF HP!!!***"
+    {
+        "chi" "射击它有很多的马内!!!"
+    }
+
+    "***DEFEND IN MEANTIME DODGE FIREBALLS TOO***"
+    {
+        "chi" "防守同时小心滚烫的火球"
+    }
+
+    "***DEFEND HARDER***"
+    {
+        "chi" "继续守住!!!"
+    }
+
+    "***DRAGON IS DEAD YOU GOTTA DEFEND!!!***"
+    {
+        "chi" "炎龙已经倒下!你要防守猪!
+    }
+
+    "***THE END IS NEAR!***"
+    {
+        "chi" "末日降临!"
+    }
+
+    "***WHAT IS THAT ABOVE US?***"
+    {
+        "chi" "在我们上面是什么?"
+    }
+
+    "***OH NO WASH OUT IS THE REALER DRAGON!!!***"
+    {
+        "chi" "哦,不!是真正的炎龙!"
+    }
+
+    "***IT HAS A LOT MORE HP SHOT SHOOT SHOOOT!***"
+    {
+        "chi" "它有很多的血,需要咻咻咻哒哒哒哒哒!"
+    }                            
+}
