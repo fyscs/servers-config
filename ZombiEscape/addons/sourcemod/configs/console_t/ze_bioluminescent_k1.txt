@@ -1,0 +1,126 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** 10 **"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "** 15 **"
+    {
+        "chi" "还有15秒"
+    }
+
+    "** 20 **"
+    {
+        "chi" "还有20秒"
+    }
+
+    "** 5 **"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "** DOOR OPENS IN 15 SECONDS **"
+    {
+        "chi" "还有15秒开启"
+    }
+
+    "** DOOR OPENS IN 20 SECONDS **"
+    {
+        "chi" "还有20秒开启"
+    }
+
+    "** DOOR WILL OPEN IN 15 SECONDS **"
+    {
+        "chi" "15秒后开启"
+    }
+
+    "** DOOR WILL OPEN IN 20 SECONDS **"
+    {
+        "chi" "20秒后开启"
+    }
+
+    "** DOORS OPEN IN 15 SECONDS **"
+    {
+        "chi" "门15秒后打开"
+    }
+
+    "** DOORS OPEN IN 20 SECONDS **"
+    {
+        "chi" "门20秒后打开"
+    }
+
+    "** DOORS OPEN IN 25 SECONDS **"
+    {
+        "chi" "门25秒后打开"
+    }
+
+    "** FIRST DOOR WILL OPEN IN 30 SECONDS **"
+    {
+        "chi" "这扇门30秒后打开"
+    }
+
+    "** LIFT MOVING IN 10 SECONDS **"
+    {
+        "chi" "平台10秒后启动"
+    }
+
+    "** LIFT MOVING IN 15 SECONDS **"
+    {
+        "chi" "平台15秒后启动"
+    }
+
+    "** LIFT MOVING IN 20 SECONDS **"
+    {
+        "chi" "平台20秒后启动"
+    }
+
+    "** LIFT MOVING IN 25 SECONDS **"
+    {
+        "chi" "平台25秒后启动"
+    }
+
+    "** LIFT RISE IN 10 SECONDS **"
+    {
+        "chi" "平台10秒后上升"
+    }
+
+    "** LIFTS WILL RISE IN 15 SECONDS **"
+    {
+        "chi" "平台15秒后上升"
+    }
+
+    "** You took too long to trigger! Slaying humans... **"
+    {
+        "chi" "触发过慢,正在处死人类..."
+    }
+
+    "** ZM TELEPORT IN 15 SECONDS **"
+    {
+        "chi" "僵尸15秒后传送"
+    }
+
+    "| HEAL HAS BEEN PICKED UP |"
+    {
+        "chi" "治疗已被拾起"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
