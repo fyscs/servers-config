@@ -1,0 +1,84 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "**Crazy Rock**"
+    {
+        "chi" ">>疯狂的石头<<"
+    }
+
+    "**Fruit Race**"
+    {
+        "chi" ">>水果竞速<<"
+    }
+
+    "**Hold 70 seconds**"
+    {
+        "chi" "还有70秒"
+    }
+
+    "**King of the Mountain**"
+    {
+        "chi" "> 山顶之王 <"
+    }
+
+    "**KZ**"
+    {
+        "chi" ">> KZ <<"
+    }
+
+    "**Map By R1cko27**"
+    {
+        "chi" "地图作者:R1cko27"
+    }
+
+    "**Moving Walls**"
+    {
+        "chi" "> 移动的墙 <"
+    }
+
+    "**Revolving Platforms**"
+    {
+        "chi" "> 旋转平台 <"
+    }
+
+    "**Skipping Rope**"
+    {
+        "chi" "> 跳绳 <"
+    }
+
+    "**The losers died**"
+    {
+        "chi" "> 菜鸟去世 <"
+    }
+
+    "**UP**"
+    {
+        "chi" "一路往上"
+    }
+
+    "**ZM**"
+    {
+        "chi" "僵尸感染"
+    }
+
+    "**Zombie on elevator**"
+    {
+        "chi" "有僵尸在电梯上"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
