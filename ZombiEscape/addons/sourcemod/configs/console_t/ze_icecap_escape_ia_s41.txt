@@ -13,7 +13,7 @@
 
     "** THE WHITE KNIGHT IS READY ROCK THE WORLD **"
     {
-        "chi" "**白衣骑士已准备战斗 **"
+        "chi" "**白衣骑士已准备战斗**"
     }
 
     "***...WashBucket leaving in 5secs...Seriously?***"
@@ -116,6 +116,11 @@
         "chi" "**有轨电车10秒后离开!**"
     }
 
+    "***Tram leaving in 17secs.***"
+    {
+        "chi" "**天气太冷了 有轨电车17秒后离开!**"
+    }
+
     "***WashTub leaving in 30secs.***"
     {
         "chi" "**洗衣盆将在30秒后离开**"
@@ -138,12 +143,12 @@
 
     "*Genesis laser in 6s*"
     {
-        "chi" "**杰内西斯正在思考人生,6秒后他可能会来个反手掏**"
+        "chi" "**杰内西斯正在思考人生,6秒后他会来个反手掏**"
     }
 
     "*player pickup setgravity gun*"
     {
-        "chi" "*低重力装置已被拾取*"
+        "chi" "*有人捡了个低重力*"
     }
 
     "*player pickup sound*"
@@ -174,11 +179,6 @@
     "<<< Shadow appears in its strongest form >>>"
     {
         "chi" "<<<暗影以其最强的形态现世 >>>"
-    }
-
-    "<<< Shadow will realse its power in 30 seconds >>>"
-    {
-        "chi" "<<<暗影将在30秒后释放其力量>>>"
     }
 
     "alex!"
@@ -218,7 +218,7 @@
 
     "goliath!"
     {
-        "chi" "高达!"
+        "chi" "白骑士!"
     }
 
     "gwyn!"
@@ -228,7 +228,7 @@
 
     "human will have..."
     {
-        "chi" "人类将会是..."
+        "chi" "人类将会有..."
     }
 
     "kirito!"
@@ -246,14 +246,14 @@
         "chi" "等待12秒"
     }
 
-    "xiaoxx!"
+    "xxs!"
     {
         "chi" "审判长!"
     }
 
     "zombies will have..."
     {
-        "chi" "僵尸将会是..."
+        "chi" "僵尸将会有..."
     }
 
 }
