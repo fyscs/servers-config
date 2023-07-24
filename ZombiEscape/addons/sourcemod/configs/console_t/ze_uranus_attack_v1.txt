@@ -1,0 +1,155 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "[INFO] 1st crank has been set up"
+    {
+        "chi" "已完成第一存档点"
+    }
+
+    "[INFO] 2nd crank has been set up"
+    {
+        "chi" "已完成第二存档点"
+    }
+
+    "[INFO] 3rd crank has been set up"
+    {
+        "chi" "已完成第三存档点"
+    }
+
+    "[INFO] 4th crank has been set up"
+    {
+        "chi" "已完成第四存档点"
+    }
+
+    "[INFO] Closing door in 10 sec"
+    {
+        "chi" "门还有10秒关闭"
+    }
+
+    "[INFO] Closing in 20 sec"
+    {
+        "chi" "还有20秒关闭"
+    }
+
+    "[INFO] Closing in 5 sec"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "[INFO] Control room door openning"
+    {
+        "chi" "控制室的门正在打开"
+    }
+
+    "[INFO] Door closing in 20 sec"
+    {
+        "chi" "门还有20秒关闭"
+    }
+
+    "[INFO] Door opening in 15 sec"
+    {
+        "chi" "门还有15秒打开"
+    }
+
+    "[INFO] Door opening in 20 sec"
+    {
+        "chi" "门还有20秒打开"
+    }
+
+    "[INFO] Door opening in 5 sec"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "[INFO] Door openning in 10 sec"
+    {
+        "chi" "门还有10秒打开"
+    }
+
+    "[INFO] Explosion in 1 minute"
+    {
+        "chi" "距离爆炸还有60秒"
+    }
+
+    "[INFO] Explosion in 10 sec"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "[INFO] Explosion in 2 minutes"
+    {
+        "chi" "距离爆炸还有二分钟"
+    }
+
+    "[INFO] Explosion in 3 minutes"
+    {
+        "chi" "距离爆炸还有三分钟"
+    }
+
+    "[INFO] Explosion in 30 sec"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "[INFO] Ladder going down"
+    {
+        "chi" "梯子放下来了"
+    }
+
+    "[INFO] Platforms enabled in 20 sec"
+    {
+        "chi" "平台20秒后启动"
+    }
+
+    "[INFO] Platforms enabled in 5 sec"
+    {
+        "chi" "平台5秒后启动"
+        "blocked" "1"
+    }
+
+    "[INFO] Spaceships unlocked"
+    {
+        "chi" "太空船已解锁"
+    }
+
+    "[INFO] Tractor Beam enabled in 10 sec"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "[INFO] Tractor Beam enabled in 30 sec"
+    {
+        "chi" "激光30秒后启动"
+    }
+
+    "Made for the Mapeadores Zombie Apocalypse Contest"
+    {
+        "chi" "参与Mapeadores僵尸启示录作图竞赛"
+    }
+
+    "Map by Raphi"
+    {
+        "chi" "地图制作:Raphi 文本翻译:史诗结晶"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
