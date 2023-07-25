@@ -1,0 +1,39 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "60 seconds"
+    {
+        "chi" "还有60秒"
+    }
+
+    "40 seconds"
+    {
+        "chi" "还有40秒"
+    }
+
+    "30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+    "20 seconds"
+    {
+        "chi" "还有20秒"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
