@@ -1,0 +1,215 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "Defend for 110 seconds and flee the area"
+    {
+        "chi" "还有110秒,准备离开这里"
+    }
+
+    "Defend for 80 seconds Find an escape route"
+    {
+        "chi" "还有80秒,正在想办法离开"
+    }
+
+    "Defense 40 seconds"
+    {
+        "chi" "守住,还有40秒"
+    }
+
+    "Defense: 35 seconds"
+    {
+        "chi" "还有35秒"
+    }
+
+    "Good luck!"
+    {
+        "chi" "祝你们好运!"
+    }
+
+    "Hold for 50 seconds"
+    {
+        "chi" "还有50秒"
+    }
+
+    "Hold on for 30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+    "I highly recommend you turn color correction on. The map looks better that way."
+    {
+        "chi" "推荐开启色彩校正,地图会看起来更好"
+    }
+
+    "I need 35 seconds to open this wooden door"
+    {
+        "chi" "正在开门,需要35秒"
+    }
+
+    "It takes 40 seconds to pry the lock open"
+    {
+        "chi" "正在撬锁,需要40秒"
+    }
+
+    "Map by -Patch and Cain!"
+    {
+        "chi" "地图制作:Patch,Cain"
+    }
+
+    "open run!"
+    {
+        "chi" "门开了,快走!"
+    }
+
+    "Open the Metal shutter..."
+    {
+        "chi" "开启金属窗..."
+    }
+
+    "Special Thanks to SNW for helping me out!"
+    {
+        "chi" "感谢SNW的帮助!!"
+    }
+
+    "Thanks to Fried Egg. Blueberry. Ryze. Dank_Narre & others for helping me test the map!"
+    {
+        "chi" "感谢Fried Egg,Blueberry,Ryze,Dank_Narre与其他帮助测试的人!"
+    }
+
+    "The bomb exploded 60 seconds after it was planted"
+    {
+        "chi" "炸弹在安放完成60秒后爆炸"
+    }
+
+    "The Door is open!"
+    {
+        "chi" "门开了!"
+    }
+
+    "The Door is open."
+    {
+        "chi" "门打开了."
+    }
+
+    "The door will open in 15 seconds"
+    {
+        "chi" "门在15秒后打开"
+    }
+
+    "The door will open in 30 seconds"
+    {
+        "chi" "门30秒后打开"
+    }
+
+    "The door will open in 35 seconds"
+    {
+        "chi" "门还有35秒打开"
+    }
+
+    "The door will open in 40 seconds"
+    {
+        "chi" "门还有40秒打开"
+    }
+
+    "The door will open in 50 seconds"
+    {
+        "chi" "门还有50秒打开"
+    }
+
+    "The door will open in 60 seconds"
+    {
+        "chi" "还有60秒开启"
+    }
+
+    "The elevator door will open in 40 seconds"
+    {
+        "chi" "电梯门40秒后打开"
+    }
+
+    "The gate of the experimental area will be opened in 40 seconds"
+    {
+        "chi" "实验区安全门40秒后开启"
+    }
+
+    "The gate of the laboratory area will open in 60 seconds"
+    {
+        "chi" "实验室门还有60秒打开"
+    }
+
+    "The gate will open in 60 seconds"
+    {
+        "chi" "门还有60秒打开"
+    }
+
+    "The gate will open in 70 seconds"
+    {
+        "chi" "门还有70秒打开"
+    }
+
+    "The iron gate will open in 40 seconds"
+    {
+        "chi" "铁门还有40秒打开"
+    }
+
+    "The iron plate will break in 60 seconds"
+    {
+        "chi" "还有60秒"
+    }
+
+    "The lab will collapse in 60 seconds"
+    {
+        "chi" "实验室将于60秒后自毁"
+    }
+
+    "The sat The door will open in 20 seconds"
+    {
+        "chi" "还有20秒"
+    }
+
+    "Use gmod_mcore_test 1 for better fps"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "Welcome to Objective Blackout!"
+    {
+        "chi" "行动代号:Blackout"
+    }
+
+    "60 seconds"
+    {
+        "chi" "还有60秒"
+    }
+
+    "40 seconds"
+    {
+        "chi" "还有40秒"
+    }
+
+    "30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+    "20 seconds"
+    {
+        "chi" "还有20秒"
+    }
+
+    "90 seconds"
+    {
+        "chi" "还有90秒"
+    }
+
+}
