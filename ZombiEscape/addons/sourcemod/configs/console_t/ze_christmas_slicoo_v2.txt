@@ -1,0 +1,469 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** A player has picked up Blizzard**"
+    {
+        "chi" "玩家获得了暴风雪"
+    }
+
+    "** A player has picked up Devilian**"
+    {
+        "chi" "玩家获得了恶魔契约"
+    }
+
+    "** A player has picked up elos curse**"
+    {
+        "chi" "玩家获得了艾洛斯的诅咒"
+    }
+
+    "** A player has picked up Frost Path**"
+    {
+        "chi" "玩家获得了冰封之剑"
+    }
+
+    "** A player has picked up Heal**"
+    {
+        "chi" "玩家获得了治疗"
+    }
+
+    "** A player has picked up Ice Barrier **"
+    {
+        "chi" "玩家获得了冰墙"
+    }
+
+    "** A player has picked up Ice Wind**"
+    {
+        "chi" "玩家获得了寒风"
+    }
+
+    "** A player has picked up Shield**"
+    {
+        "chi" "玩家获得了护盾"
+    }
+
+    "** A player signs a contract with the Devil**"
+    {
+        "chi" "一名玩家与恶魔互换了契约"
+    }
+
+    "** A secret concealed in a corpse (1x) **"
+    {
+        "chi" "发现了一件隐藏物品(一)"
+    }
+
+    "** A secret concealed in a corpse (2x) **"
+    {
+        "chi" "发现了一件隐藏物品(二)"
+    }
+
+    "** A secret concealed in a corpse (3x) **"
+    {
+        "chi" "发现了一件隐藏物品(三)"
+    }
+
+    "** A secret concealed in a corpse (4x) **"
+    {
+        "chi" "发现了一件隐藏物品(四)"
+    }
+
+    "** All the crystals are collected **"
+    {
+        "chi" "已收集到所有的水晶"
+    }
+
+    "** Atmosphere + Windage **"
+    {
+        "chi" "大气..干扰"
+    }
+
+    "** Atmospheric burst **"
+    {
+        "chi" "大气爆裂"
+    }
+
+    "** blizzard **"
+    {
+        "chi" "暴风雪"
+    }
+
+    "** Blue **"
+    {
+        "chi" ">蓝<"
+    }
+
+    "** Cold Snap **"
+    {
+        "chi" "寒冰断裂"
+    }
+
+    "** Curse activated **"
+    {
+        "chi" "诅咒已激活"
+    }
+
+    "** Cyan **"
+    {
+        "chi" ">蓝绿<"
+    }
+
+    "** elves **"
+    {
+        "chi" "> 精灵 <"
+    }
+
+    "** Find the partially dim magic crystal **"
+    {
+        "chi" "找到魔法水晶的碎片"
+    }
+
+    "** Find the partially magical crystal **"
+    {
+        "chi" "找到魔法水晶的碎片"
+    }
+
+    "** Foggy area **"
+    {
+        "chi" "迷雾区域"
+    }
+
+    "** Frost Growth **"
+    {
+        "chi" "严寒增生"
+    }
+
+    "** frost path **"
+    {
+        "chi" "冰封路径"
+    }
+
+    "** Get out of here **"
+    {
+        "chi" "离开这里"
+    }
+
+    "** Gradually Frozen **"
+    {
+        "chi" "逐渐冻结"
+    }
+
+    "** Green **"
+    {
+        "chi" ">绿<"
+    }
+
+    "** Heavy Snowstorm **"
+    {
+        "chi" "大暴雪"
+    }
+
+    "** ice barrier **"
+    {
+        "chi" "冰墙"
+    }
+
+    "** ice wind **"
+    {
+        "chi" "寒风"
+    }
+
+    "** It's too slow. The curse begins to erode the core. **"
+    {
+        "chi" "太慢了,诅咒已经开始侵蚀核心"
+    }
+
+    "** Negative Pressure **"
+    {
+        "chi" "负压"
+    }
+
+    "** Orange and red **"
+    {
+        "chi" "橙与红"
+    }
+
+    "** Reflective ice shield **"
+    {
+        "chi" "反射冰盾"
+    }
+
+    "** shield **"
+    {
+        "chi" "护盾"
+    }
+
+    "** stun **"
+    {
+        "chi" "击晕"
+    }
+
+    "** Tail Transversely Hit + Atomization **"
+    {
+        "chi" "尾部横扫,雾化"
+    }
+
+    "** teleport will start later **"
+    {
+        "chi" "传送即将启动"
+    }
+
+    "** The crystal has been broken **"
+    {
+        "chi" "水晶已被破坏"
+    }
+
+    "** The crystal was destroyed and the surrounding air began to condense **"
+    {
+        "chi" "水晶已被摧毁,四周的空气开始凝聚"
+    }
+
+    "** The crystals are destroyed and the surrounding air becomes abnormal **"
+    {
+        "chi" "水晶已被摧毁,四周的空气开始变得反常"
+    }
+
+    "** The crystals are destroyed and the surrounding air becomes violent **"
+    {
+        "chi" "水晶已被摧毁,四周开始变得躁动"
+    }
+
+    "** The ice on the sword has melted **"
+    {
+        "chi" "剑上的寒冰正在融化"
+    }
+
+    "** The purification of crystal has been unsealed **"
+    {
+        "chi" "水晶的净化之力正在释放"
+    }
+
+    "** We need to find Elos and get him out of here **"
+    {
+        "chi" "我们需要找到艾洛斯,并把它带离这里"
+    }
+
+    "** Winter roar **"
+    {
+        "chi" "寒冬咆哮"
+    }
+
+    "** Yellow **"
+    {
+        "chi" ">黄<"
+    }
+
+    "***Elves is now disappearing***"
+    {
+        "chi" "精灵已经消逝"
+    }
+
+    "***Grizzly have been wiped out***"
+    {
+        "chi" "灰熊已被击杀"
+    }
+
+    "**a monster grzzly has awakened**"
+    {
+        "chi" "怪物灰熊已经苏醒"
+    }
+
+    "**A player becomes an elves**"
+    {
+        "chi" "一名玩家成为了精灵"
+    }
+
+    "**The shield is broken**"
+    {
+        "chi" "护盾已被击碎"
+    }
+
+    "**zombie has picked up Circle of Winter**"
+    {
+        "chi" "僵尸拾起了冰环"
+    }
+
+    "**zombie has picked up Life Tap**"
+    {
+        "chi" "僵尸拾起了生命汲取"
+    }
+
+    "<15s!!>"
+    {
+        "chi" "还有15秒"
+    }
+
+    "<20s!!>"
+    {
+        "chi" "还有20秒"
+    }
+
+    "<Blast the rock in 40 seconds>"
+    {
+        "chi" "石块40秒后爆炸"
+    }
+
+    "<Close the forbidden area gate in 70 seconds>"
+    {
+        "chi" "禁地的门70秒后关闭"
+    }
+
+    "<door will open in 20 second>"
+    {
+        "chi" "门20秒后打开"
+    }
+
+    "<left door open>"
+    {
+        "chi" "左边的门打开了"
+    }
+
+    "<Maybe the ice barrier can help us>"
+    {
+        "chi" "或许冰墙能帮上我们的忙"
+    }
+
+    "<maybe you need to defend more 10s :3>"
+    {
+        "chi" "或许应该多守10秒?"
+    }
+
+    "<Meet the final battle in 20 seconds>"
+    {
+        "chi" "20秒后开始最后一战"
+    }
+
+    "<Open the stone door in 20 seconds>"
+    {
+        "chi" "20秒后打开石门"
+    }
+
+    "<right door open >"
+    {
+        "chi" "右边的门打开了"
+    }
+
+    "<Shortcut open>"
+    {
+        "chi" "近路已经开启"
+    }
+
+    "<Something unexpected happened!!!>"
+    {
+        "chi" "啊还是发生了!!"
+    }
+
+    "<The blockade is lifted and we can move forward!>"
+    {
+        "chi" "障碍物已经升起,我们可以继续前进了"
+    }
+
+    "<The bomb will detonate in 20 seconds>"
+    {
+        "chi" "炸弹20秒后引爆"
+    }
+
+    "<The door opens after 15 seconds>"
+    {
+        "chi" "门15秒后开启"
+    }
+
+    "<The door opens after 20 seconds?>"
+    {
+        "chi" "门20秒后开启?"
+    }
+
+    "<The door opens after 25 seconds>"
+    {
+        "chi" "门25秒后开启"
+    }
+
+    "<The door opens after 35 seconds>"
+    {
+        "chi" "门35秒后开启"
+    }
+
+    "<The door opens after 40 seconds>"
+    {
+        "chi" "门40秒后开启"
+    }
+
+    "<The door opens after 50 seconds>"
+    {
+        "chi" "门50秒后开启"
+    }
+
+    "<The door will open in 30 seconds>"
+    {
+        "chi" "门30秒后开启"
+    }
+
+    "<The forhidden gate will close in 5 seconds>"
+    {
+        "chi" "禁地的门5秒后关闭"
+    }
+
+    "<The forhidden gate will open in 60 seconds>"
+    {
+        "chi" "禁地大门60秒后开启"
+    }
+
+    "<The gate will be destroyed in 30 seconds>"
+    {
+        "chi" "大门30秒后被摧毁"
+    }
+
+    "<The gate will be destroyed in 50 seconds>"
+    {
+        "chi" "大门50秒后被摧毁"
+    }
+
+    "<The gate will open in 40 seconds>"
+    {
+        "chi" "大门40秒后开启"
+    }
+
+    "<The glass in the tower will break in 5 seconds>"
+    {
+        "chi" "塔中的玻璃5秒后破开"
+    }
+
+    "<Turn on after 20 seconds of teleport>"
+    {
+        "chi" "传送20秒后启动"
+    }
+
+    "<Turn on after 25 seconds of teleport>"
+    {
+        "chi" "传送25秒后启动"
+    }
+
+    "<Wait for the blockade to be lifted...>"
+    {
+        "chi" "等待障碍升起..."
+    }
+
+    "<We need to destroy the weak areas of the rock>"
+    {
+        "chi" "我们需要处理下石块的薄弱区域"
+    }
+
+    "<Will enter the inside of slicoo in 45 seconds>"
+    {
+        "chi" "45秒后进入斯迪科内部"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
