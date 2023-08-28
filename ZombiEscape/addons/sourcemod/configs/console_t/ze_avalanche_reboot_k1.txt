@@ -1,0 +1,443 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    ">>> 10 Seconds of Warmup Remaining <<<"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    ">>> 20 Seconds of Warmup Remaining <<<"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    ">>> 30 Seconds of Warmup Remaining <<<"
+    {
+        "chi" "热身还有30秒结束"
+        "blocked" "1"
+    }
+
+    ">>> 5 SECONDS LEFT <<<"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    ">>> ADMIN CHANGED TO STAGE 1 - EXTREME MODE <<<"
+    {
+        "chi" "管理员已选择EXTREME模式:第一关"
+    }
+
+    ">>> ADMIN CHANGED TO STAGE 1 - NORMAL MODE <<<"
+    {
+        "chi" "管理员已选择NORMAL模式:第一关"
+    }
+
+    ">>> ADMIN CHANGED TO STAGE 2 - EXTREME MODE <<<"
+    {
+        "chi" "管理员已选择EXTREME模式:第二关"
+    }
+
+    ">>> ADMIN CHANGED TO STAGE 2 - NORMAL MODE <<<"
+    {
+        "chi" "管理员已选择NORMAL模式:第二关"
+    }
+
+    ">>> ADMIN CHANGED TO STAGE 3 - EXTREME MODE <<<"
+    {
+        "chi" "管理员已选择EXTREME模式"
+    }
+
+    ">>> ADMIN CHANGED TO STAGE 3 - NORMAL MODE <<<"
+    {
+        "chi" "管理员已选择NORMAL模式"
+    }
+
+    ">>> ADMIN PRESSED KILL ALL BUTTON <<<"
+    {
+        "chi" "管理员正在重启回合"
+    }
+
+    ">>> AFK TELEPORT IN 10 SECONDS <<<"
+    {
+        "chi" "挂机传送还有10秒启动"
+    }
+
+    ">>> AFK TELEPORT IN 5 SECONDS <<<"
+    {
+        "chi" "挂机传送还有5秒启动"
+    }
+
+    ">>> BARRIER DOOR CLOSING IN 15 SECONDS <<<"
+    {
+        "chi" "安全门还有15秒关闭"
+    }
+
+    ">>> BOSS DEFEATED <<<"
+    {
+        "chi" "Boss已被击败"
+    }
+
+    ">>> BOSS IS ARRIVED <<<"
+    {
+        "chi" "Boss已抵达"
+    }
+
+    ">>> BOSS POWERED UP <<<"
+    {
+        "chi" "Boss强化了自己"
+    }
+
+    ">>> BOSS USED BEAM <<<"
+    {
+        "chi" ">>超聚能光束<<"
+    }
+
+    ">>> BOSS USED CLIFF <<<"
+    {
+        "chi" ">>大地震颤<<"
+    }
+
+    ">>> BOSS USED GRAVITY <<<"
+    {
+        "chi" ">>死亡抓取<<"
+    }
+
+    ">>> BOSS USED HEAL <<<"
+    {
+        "chi" ">>自身治愈<<"
+    }
+
+    ">>> BOSS USED REPAIR SHIELD <<<"
+    {
+        "chi" ">>能量吸收<<"
+    }
+
+    ">>> BOTH ELEVATORS CLOSE AND LEAVE IN 35 SECONDS <<<"
+    {
+        "chi" "两处电梯35秒后离开"
+    }
+
+    ">>> BUTTON IS LOCKED  <<<"
+    {
+        "chi" "按钮已锁死"
+    }
+
+    ">>> BUTTON UNLOCKED <<<"
+    {
+        "chi" "按钮已解锁"
+    }
+
+    ">>> C4 EXPLODE IN 10 SECONDS <<<"
+    {
+        "chi" "炸药10秒后引爆"
+    }
+
+    ">>> C4 EXPLODE IN 20 SECONDS <<<"
+    {
+        "chi" "炸药20秒后引爆"
+    }
+
+    ">>> C4 PICKED UP <<<"
+    {
+        "chi" "炸药已准备部署"
+    }
+
+    ">>> DEFEND MORE <<<"
+    {
+        "chi" "还需要一会"
+    }
+
+    ">>> DEFEND UNTIL RESCUE COMES <<<"
+    {
+        "chi" "坚持住,救援即将到达"
+    }
+
+    ">>> DOOR CLOSING IN 25 SECONDS <<<"
+    {
+        "chi" "门还有25秒关闭"
+    }
+
+    ">>> DOOR OPENING IN 100 SECONDS <<<"
+    {
+        "chi" "大门还有100秒开启"
+    }
+
+    ">>> DOOR OPENING IN 70 SECONDS <<<"
+    {
+        "chi" "大门还有70秒开启"
+    }
+
+    ">>> DOOR OPENS IN 25 SECONDS <<<"
+    {
+        "chi" "大门还有25秒开启"
+    }
+
+    ">>> ELECTRIC GRAVITY ENABLED   HIDE SOMETHING <<<"
+    {
+        "chi" "电气黑洞,躲起来"
+    }
+
+    ">>> ELECTRIC MACHINE STARTED UP SHOOT IT <<<"
+    {
+        "chi" "机器启动了,快开枪"
+    }
+
+    ">>> ELECTRIC TORNADO ENABLED   CROUCH <<<"
+    {
+        "chi" "电气旋风,快蹲下"
+    }
+
+    ">>> ELECTRIC VORTEX ENABLED   GET ON SOMETHING <<<"
+    {
+        "chi" "电气旋涡,到高处去"
+    }
+
+    ">>> ELECTRIC WAVE ENABLED <<<"
+    {
+        "chi" "电气波动,小心"
+    }
+
+    ">>> ELEVATOR STOPPED GO TO PRESS BUTTON <<<"
+    {
+        "chi" "电梯停下了,去按下开关"
+    }
+
+    ">>> FAIL ROUND <<<"
+    {
+        "chi" "回合已失败"
+    }
+
+    ">>> FIND C4 <<<"
+    {
+        "chi" "找到炸药"
+    }
+
+    ">>> FIND C4 TO MAKE PASSAGE <<<"
+    {
+        "chi" "找炸药炸开这里"
+    }
+
+    ">>> GO CONTROL ROOM TO UNLOCK <<<"
+    {
+        "chi" "到控制室去解开锁定"
+    }
+
+    ">>> HELICOPTER IS LEAVING <<<"
+    {
+        "chi" "直升机正在离开"
+    }
+
+    ">>> HOLD 10 SECONDS <<<"
+    {
+        "chi" "还有10秒"
+    }
+
+    ">>> HOLD 15 SECONDS <<<"
+    {
+        "chi" "还有15秒"
+    }
+
+    ">>> HOLD 20 SECONDS <<<"
+    {
+        "chi" "还有20秒"
+    }
+
+    ">>> HOLD 25 SECONDS <<<"
+    {
+        "chi" "还有25秒"
+    }
+
+    ">>> HOLD 30 SECONDS <<<"
+    {
+        "chi" "还有30秒"
+    }
+
+    ">>> HOLD 35 SECONDS <<<"
+    {
+        "chi" "还有35秒"
+    }
+
+    ">>> HOLD 5 SECONDS <<<"
+    {
+        "chi" "还有5秒"
+    }
+
+    ">>> MACHINE ERROR WATCH OUT FOR EXPLOSION  <<<"
+    {
+        "chi" "机械故障,当心爆炸"
+    }
+
+    ">>> Map Finished by Ponya <<<"
+    {
+        "chi" "由Ponya完善地图"
+    }
+
+    ">>> Map Made by Moray <<<"
+    {
+        "chi" "地图由Moray制作"
+    }
+
+    ">>> Map Reboot by Glacius <<<"
+    {
+        "chi" "由Glacius重启制作"
+    }
+
+    ">>> MAP RESTARTING <<<"
+    {
+        "chi" "正在重启回合"
+    }
+
+    ">>> PLAYER PICKED AMMO <<<"
+    {
+        "chi" "玩家拾起了弹药补给"
+    }
+
+    ">>> PLAYER PICKED BLUE SPARK <<<"
+    {
+        "chi" "玩家拾起了电磁脉冲"
+    }
+
+    ">>> PLAYER PICKED ELECTRIC BEAM CANNON <<<"
+    {
+        "chi" "玩家拾起了轻型电磁炮"
+    }
+
+    ">>> PLAYER PICKED FLAME BEAM CANNON <<<"
+    {
+        "chi" "玩家拾起了聚能炮"
+    }
+
+    ">>> PLAYER PICKED HEAL <<<"
+    {
+        "chi" "玩家拾起了治疗"
+    }
+
+    ">>> PLAYER PICKED ICY VORTEX <<<"
+    {
+        "chi" "玩家拾起了寒风"
+    }
+
+    ">>> PLAYER PICKED VENOM BEAM CANNON <<<"
+    {
+        "chi" "玩家拾起了剧毒炮"
+    }
+
+    ">>> PLAYER PICKED WIND BLASTER <<<"
+    {
+        "chi" "玩家拾起了高压风炮"
+    }
+
+    ">>> PRESS OTHER BUTTON TO UNLOCK <<<"
+    {
+        "chi" "按下另一个按钮解除锁定"
+    }
+
+    ">>> REPAIR SHIELD ENABLED   DON'T SHOOT <<<"
+    {
+        "chi" "修复护盾已启动,停止射击"
+    }
+
+    ">>> SECURITY DOOR IS CLOSED <<<"
+    {
+        "chi" "安全门正在关闭"
+    }
+
+    ">>> Special Thanks : nano <<<"
+    {
+        "chi" "特别感谢: nano"
+    }
+
+    ">>> Stage 1 - Normal <<<"
+    {
+        "chi" "普通模式:第一关"
+    }
+
+    ">>> STAGE 1 COMPLETED <<<"
+    {
+        "chi" "第一关已完成"
+    }
+
+    ">>> Stage 2 - Extreme <<<"
+    {
+        "chi" "Extreme模式:第二关"
+    }
+
+    ">>> Stage 2 - Normal <<<"
+    {
+        "chi" "普通模式:第二关"
+    }
+
+    ">>> STAGE 2 COMPLETED <<<"
+    {
+        "chi" "第二关已完成"
+    }
+
+    ">>> Stage 3 - Extreme <<<"
+    {
+        "chi" "极限模式:第三关"
+    }
+
+    ">>> Stage 3 - Normal <<<"
+    {
+        "chi" "普通模式:第三关"
+    }
+
+    ">>> STAGE 3 COMPLETED <<<"
+    {
+        "chi" "第三关已完成"
+    }
+
+    ">>> STAGE 4 COMPLETED <<<"
+    {
+        "chi" "第四关已完成"
+    }
+
+    ">>> STAGE 5 COMPLETED <<<"
+    {
+        "chi" "第五关已完成"
+    }
+
+    ">>> STAGE 6 COMPLETED <<<"
+    {
+        "chi" "第六关已完成"
+    }
+
+    ">>> TELEPORT ACTIVATING IN 25 SECONDS <<<"
+    {
+        "chi" "传送25秒后启动"
+    }
+
+    ">>> This Stage is Under Heavy Development! <<<"
+    {
+        "chi" "本关仍处于制作过程中"
+    }
+
+    ">>> Warmup Ending - Map Starting <<<"
+    {
+        "chi" "热身已结束,正在开始"
+    }
+
+    ">>> Warmup Round! Map starting in 40 seconds. <<<"
+    {
+        "chi" "热身回合,将于40秒后开始"
+    }
+
+    ">>> WE HAVE TO BLOW UP THE ELECTRIC TOWER <<<"
+    {
+        "chi" "我们得把电塔炸掉"
+    }
+
+}

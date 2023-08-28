@@ -57,22 +57,22 @@
 
     "[CLIMB ENDING] SURVIVE FOR 100s"
     {
-        "chi"        "[爬塔结局]生存一百秒"
+        "chi"        "[爬塔结局]生存100秒"
     }
 
     "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 80s"
     {
-        "chi"        "[爬塔结局]塔顶的梯子将在八十秒后消失"
+        "chi"        "[爬塔结局]塔顶的梯子将在80秒后消失"
     }
 
     "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 60s"
     {
-        "chi"        "[爬塔结局]塔顶的梯子将在六十秒后消失"
+        "chi"        "[爬塔结局]塔顶的梯子将在60秒后消失"
     }
 
     "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 30s"
     {
-        "chi"        "[爬塔结局]塔顶的梯子将在三十秒后消失"
+        "chi"        "[爬塔结局]塔顶的梯子将在30秒后消失"
     }
 
     "[CLIMB ENDING] THE TOWER WILL CRUMBLE IN 10s"
@@ -107,12 +107,12 @@
 
     "[CLIMB ENDING] THE ANGELS WILL DIE IN 30s"
     {
-        "chi"        "[爬塔结局]撑住最后三十秒"
+        "chi"        "[爬塔结局]撑住最后30秒"
     }
 
     "[CLIMB ENDING] THE ANGELS WILL DIE IN 20s"
     {
-        "chi"        "[爬塔结局]撑住最后二十秒"
+        "chi"        "[爬塔结局]撑住最后20秒"
     }
 
     "[CLIMB ENDING] THE ANGELS WILL DIE IN 10s"
@@ -287,12 +287,12 @@
 
     "[BRIDGE ENDING] HOLD THE BRIDGE FOR 45s"
     {
-        "chi"        "[大桥结局]守住大桥四十五秒"
+        "chi"        "[大桥结局]守住大桥45秒"
     }
 
     "[BRIDGE ENDING] BRIDGE CRUMBLING IN 30s"
     {
-        "chi"        "[大桥结局]桥将在三十秒后崩塌"
+        "chi"        "[大桥结局]桥将在30秒后崩塌"
     }
 
     "[BRIDGE ENDING] BRIDGE CRUMBLING IN 10s"
@@ -382,17 +382,17 @@
 
     "[RACE ENDING] HUMAN-WIN IN 80s"
     {
-        "chi"        "[卡丁车结局]人类还有八十秒胜利"
+        "chi"        "[卡丁车结局]人类还有80秒胜利"
     }
 
     "[RACE ENDING] HUMAN-WIN IN 60s"
     {
-        "chi"        "[卡丁车结局]人类还有六十秒胜利"
+        "chi"        "[卡丁车结局]人类还有60秒胜利"
     }
 
     "[RACE ENDING] HUMAN-WIN IN 30s"
     {
-        "chi"        "[卡丁车结局]人类还有三十秒胜利"
+        "chi"        "[卡丁车结局]人类还有30秒胜利"
     }
 
     "[RACE ENDING] HUMAN-WIN IN 10s"
@@ -502,7 +502,7 @@
 
     "[ASCEND ENDING] ASCENSION IN 60s"
     {
-        "chi"        "[飞升结局]将在六十秒后飞升"
+        "chi"        "[飞升结局]将在60秒后飞升"
     }
 
     "[ASCEND ENDING] 2 Z-moonboost + 8 Z-flight items spawned"
@@ -517,7 +517,7 @@
 
     "[ASCEND ENDING] ASCENSION IN 30s"
     {
-        "chi"        "[飞升结局]将在三十秒后飞升"
+        "chi"        "[飞升结局]将在30秒后飞升"
     }
 
     "[ASCEND ENDING] ASCENSION IN 10s"
@@ -597,17 +597,17 @@
 
     "[FINALE] YOU REACHED THE END"
     {
-        "chi"        "你到达了终点"
+        "chi"        "[最终结局]你到达了终点"
     }
 
     "[FINALE] THE TOP OF THE PYRAMID IS YOUR ESCAPE"
     {
-        "chi"        "平台的顶端是你最后的守点"
+        "chi"        "[最终结局]平台的顶端是你最后的守点"
     }
 
     "[FINALE] DEFEND IT WITH YOUR LIFE"
     {
-        "chi"        "为了你自己,在这里防守住"
+        "chi"        "[最终结局]为了你自己,在这里防守住"
     }
 
     "[FINALE] DEFEND FOR 40s"
@@ -652,7 +652,7 @@
 
     "[FINALE] RISING"
     {
-        "chi"        "感谢的你游玩,作者:Luffren翻译:zib1"
+        "chi"        "感谢你的游玩,作者:Luffren翻译:zib1&茜茜"
     }
 
     "WARNING: HARSH INSTAKILLING HAZPLANE"
@@ -662,7 +662,7 @@
 
     "[BUNKER ENDING] HOLD OUT FOR 85s"
     {
-        "chi"        "[地堡结局]守住八十五秒"
+        "chi"        "[地堡结局]守住85秒"
     }
 
     "[BUNKER ENDING] DEFEND THE BUNKER WITH YOUR LIFE"
@@ -677,12 +677,12 @@
 
     "[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 60s"
     {
-        "chi"        "[地堡结局]门还有六十秒关闭"
+        "chi"        "[地堡结局]门还有60秒关闭"
     }
 
     "[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 30s"
     {
-        "chi"        "[地堡结局]门还有三十秒关闭"
+        "chi"        "[地堡结局]门还有30秒关闭"
     }
 
     "[BUNKER ENDING] THE OUTSIDE WILL CRUMBLE IN 10s"
@@ -842,7 +842,7 @@
 
     "[INFINITE FINALE] DEFEND FOR 40s"
     {
-        "chi"        "[无尽关]守住四十秒"
+        "chi"        "[无尽关]守住40秒"
     }
 
     "[INFINITE FINALE] RISING IN 30s"
@@ -1095,5 +1095,244 @@
         "chi"        "本关的一个小门还有8秒开"
     }
     
+    "***WHAT IS THAT...?***"
+    {
+        "chi"        "[随机事件]这是什么...?"
+    }
+
+    "***LOOK UP!***"
+    {
+        "chi"        "[随机事件]快看头上!"
+    }
+
+    "***THE PIZZA OF DOOM IS COMING OUR WAY***"
+    {
+        "chi"        "[随机事件]有一个超大的美味披萨正在降落"
+    }
+
+    "***SHOOT IT OR PERISH***"
+    {
+        "chi"        "[随机事件]趁披萨下来之前,把它射击回去!"
+    }
+
+    "***WE DID IT***"
+    {
+        "chi"        "[随机事件]太好了"
+    }
+
+    "***THE PIZZA OF DOOM IS FLYING AWAY***"
+    {
+        "chi"        "[随机事件]超大的美味披萨飞走了"
+    }
+
+    "***WE ARE FINALLY SAFE***"
+    {
+        "chi"        "[随机事件]我们暂时安全了"
+    }
+
+    "***THE PIZZA IS AGGRESSIVE***"
+    {
+        "chi"        "我还想吃美味的披萨"
+    }
+
+    "KAMIKAZE INCOMING!"
+    {
+        "chi"        "[随机事件]僵尸:鸡汤来喽!"
+    }
+
+    "SHOOT IT DOWN OR TAKE COVER"
+    {
+        "chi"        "[随机事件]击落飞机或寻找掩体"
+    }
+
+    "Look out for the grid of beams above"
+    {
+        "chi"        "[随机事件]注意头顶寻找空隙存活下去"
+    }
+
+    "They're coming down!"
+    {
+        "chi"        "[随机事件]网格要落下来了!"
+    }
+
+    "Something is happening above us..."
+    {
+        "chi"        "[随机事件]头上似乎有什么趣事"
+    }
+
+    "The fog is turning thick..."
+    {
+        "chi"        "[随机事件]迷雾越来越浓了"
+    }
+
+    "We must find our way through the limited visibility"
+    {
+        "chi"        "[随机事件]我们只能在有限的视野看到路"
+    }
+
+    "The bloodthirst has ended!"
+    {
+        "chi"        "[随机事件]人类不再对血渴望!"
+    }
+
+    "You humans suddenly feel a thirst for blood..."
+    {
+        "chi"        "[随机事件]人类对血液非常的渴望..."
+    }
+
+    "Shoot the zombies to prevent dying from bloodthirst!"
+    {
+        "chi"        "[随机事件]人类射击僵尸吸取血量!"
+    }
+
+    "Watch out for falling debris!"
+    {
+        "chi"        "[随机事件]小心头上掉落的物体"
+    }
+
+    "The debris seems to have stopped falling..."
+    {
+        "chi"        "[随机事件]掉落的物体似乎停止下落了"
+    }
+
+    "Gravity suddenly became lower"
+    {
+        "chi"        "[随机事件]人类的身体异常的轻盈"
+    }
+
+    "Gravity reverts in 5s"
+    {
+        "chi"        "[随机事件]5秒后人类的身体恢复正常"
+    }
+
+    "Gravity is back to normal again"
+    {
+        "chi"        "[随机事件]人类的身体恢复正常"
+    }
+
+    "The old stage is unstable"
+    {
+        "chi"       "[随机事件]地形随时都会崩塌!"
+    }
+
+    "Get out of there before it collapses!"
+    {
+        "chi"       "[随机事件]坍塌之前离开那里!"
+    }
+
+    "The old stage is collapsing!"
+    {
+        "chi"       "[随机事件]原先的地形正在坍塌!"
+    }
+
+    "Our eyes are phasing"
+    {
+        "chi"       "[随机事件]地形将要变的透明"
+    }
+
+    "We can see through the world"
+    {
+        "chi"       "[随机事件]我们可以通透世界"
+    }
+
+    "Tread carefully or wait it out..."
+    {
+        "chi"       "[随机事件]小心走路或等待结束"
+    }
+
+    "Our eyes are back to normal again"
+    {
+        "chi"       "[随机事件]地形恢复了正常"
+    }
+
+    "Our human ears are falling deaf..."
+    {
+        "chi"       "[随机事件]人类变成了龙鸣..."
+    }
+
+    "Our human ears are starting to work again!"
+    {
+        "chi"       "[随机事件]人类的耳朵恢复了正常!"
+    }
+
+    "Weapons jammed - RELOAD!"
+    {
+        "chi"       "[随机事件]人类的武器正在重新换弹!"
+    }
+
+    "All the 'WALL' tiles are disappearing!"
+    {
+        "chi"       "[随机事件]所有墙消失了!"
+    }
+
+    "Our grenades are big and strong!"
+    {
+        "chi"       "[随机事件]吃我一记电弧星!"
+    }
+
+    "Maybe too powerful.. beware knockback!"
+    {
+        "chi"       "[随机事件]要小心击飞哦!"
+    }
+
+    "Our grenades are back to normal now..."
+    {
+        "chi"       "[随机事件]手榴弹现在恢复正常了..."
+    }
+
+    "Woah, doorhuggers watch out!"
+    {
+        "chi"       "[随机事件]哇哦,贴门贴的3(下次注意远离门三格身位)!"
+    }
+
+    "Our human eyes are tripping out..."
+    {
+        "chi"       "[随机事件]人类的眼睛被闪光了..."
+    }
+
+    "Our human eyes are back to normal"
+    {
+        "chi"       "[随机事件]人类的眼睛恢复了正常"
+    }
+
+    "an impostor is among us..."
+    {
+        "chi"       "我们人类之间有一位是僵尸扮演的..."
+    }
+
+    "find and kill him before it's too late!"
+    {
+        "chi"       "在这之前我们有十秒时间找到并杀死它!"
+    }
+
+    "Oh no the baguette broke!"
+    {
+        "chi"       "哦.不,法棍断掉了!"
+    }
+
+    "Something is coming for you..."
+    {
+        "chi"       "[随机事件]有什么事情要来临..."
+    }
+
+    "[FINALE] elevator leaves in 10s"
+    {
+        "chi"       "电梯还有10秒启动"
+    }
+
+    "[FINALE] prepare for the end"
+    {
+        "chi"       "[最终结局]为结束做好准备"
+    }
+
+    "You sense a looming presence above you..."
+    {
+        "chi"       "[随机事件]你感觉头顶存在着什么东西..."
+    }
+
+    "You're feeling watched..."
+    {
+        "chi"       "[随机事件]你感觉有人在盯着自己..."
+    }                                              
 
 }
