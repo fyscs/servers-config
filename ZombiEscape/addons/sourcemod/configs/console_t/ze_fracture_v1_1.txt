@@ -1,0 +1,190 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** ...Something is coming...? **"
+    {
+        "chi" "等等...?"
+    }
+
+    "** Both cores are activated **"
+    {
+        "chi" "所有核心已激活"
+    }
+
+    "** Did you make it back to reality...? **"
+    {
+        "chi" "成功回到现实了吗...?"
+    }
+
+    "** Go to the left door **"
+    {
+        "chi" "去左边的门"
+    }
+
+    "** Go to the main door **"
+    {
+        "chi" "到大门那里去"
+    }
+
+    "** Into the Shadow... **"
+    {
+        "chi" "渐入阴影..."
+    }
+
+    "** Lunar Phase Completed **"
+    {
+        "chi" "月之章已完成"
+    }
+
+    "** Sunrise Phase Completed **"
+    {
+        "chi" "日之章已完成"
+    }
+
+    "** The sun is going down... **"
+    {
+        "chi" "太阳落山了..."
+    }
+
+    "** We need to activate the core... **"
+    {
+        "chi" "我们需要激活核心..."
+    }
+
+    ">> 5 seconds left <<"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    ">> Admin set to Black Phase <<"
+    {
+        "chi" "管理员已设置至黑之章"
+    }
+
+    ">> Admin set to Lunar Phase <<"
+    {
+        "chi" "管理员已设置至月之章"
+    }
+
+    ">> Admin set to Sunrise Phase <<"
+    {
+        "chi" "管理员已设置至日之章"
+    }
+
+    ">> Admin set to White Phase <<"
+    {
+        "chi" "管理员已设置至白之章"
+    }
+
+    ">> Core activating... <<"
+    {
+        "chi" "核心正在启动..."
+    }
+
+    ">> Failed <<"
+    {
+        "chi" "失败了..."
+    }
+
+    ">> falltp update in 10 seconds <<"
+    {
+        "chi" "传送点10秒后更新"
+    }
+
+    ">> Hold 10 seconds <<"
+    {
+        "chi" "还有10秒"
+    }
+
+    ">> Hold 15 seconds <<"
+    {
+        "chi" "还有15秒"
+    }
+
+    ">> Hold 20 seconds <<"
+    {
+        "chi" "还有20秒"
+    }
+
+    ">> Hold 25 seconds <<"
+    {
+        "chi" "还有25秒"
+    }
+
+    ">> Hold 30 seconds <<"
+    {
+        "chi" "还有30秒"
+    }
+
+    ">> Hold 35 seconds <<"
+    {
+        "chi" "还有35秒"
+    }
+
+    ">> Hold 45 seconds <<"
+    {
+        "chi" "还有45秒"
+    }
+
+    ">> Hold 50 seconds <<"
+    {
+        "chi" "还有50秒"
+    }
+
+    ">> Hold 70 seconds <<"
+    {
+        "chi" "还有70秒"
+    }
+
+    ">> Power restored! <<"
+    {
+        "chi" "能量已恢复"
+    }
+
+    ">> Press the buttons at the same time <<"
+    {
+        "chi" "同时按下所有按钮"
+    }
+
+    ">> Restart round... <<"
+    {
+        "chi" "正在重启回合..."
+    }
+
+    ">> Shoot the Crystal <<"
+    {
+        "chi" "击碎水晶"
+    }
+
+    ">> Success! Core activating... <<"
+    {
+        "chi" "成功了!核心正在启动..."
+    }
+
+    ">> Zombie teleport in 10 seconds <<"
+    {
+        "chi" "僵尸还有10秒传送"
+    }
+
+    ">> Zombies reached the door <<"
+    {
+        "chi" "僵尸提前贴到了门"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置: 已关闭摔伤"
+    }
+
+}
