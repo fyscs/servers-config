@@ -1,0 +1,474 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** Admin Selected HardMode ***"
+    {
+        "chi" "管理员设置至 困难"
+    }
+
+    "*** Admin Selected NormalMode ***"
+    {
+        "chi" "管理员设置至 普通"
+    }
+
+    "*** Admin Selected Ragnarok ***"
+    {
+        "chi" "管理员设置至 毁灭之时"
+    }
+
+    "*** Admin Selected SoulMode ***"
+    {
+        "chi" "管理员设置至 灵魂"
+    }
+
+    "*** Admin Selected Terminal ***"
+    {
+        "chi" "管理员设置至 终点之刻"
+    }
+
+    "*** Golem Ahglan Defeated ***"
+    {
+        "chi" "傀儡已被击败"
+    }
+
+    "*** The vents are going to open ***"
+    {
+        "chi" "就要打开了..."
+    }
+
+    "[TheLast Mode]"
+    {
+        "chi" "终局..."
+    }
+
+    "[Zombies Mode]"
+    {
+        "chi" "ZM模式"
+    }
+
+    "< A zombie picked up Accelration  >"
+    {
+        "chi" "僵尸获得了加速"
+    }
+
+    "< A zombie picked up Dark Magick >"
+    {
+        "chi" "僵尸获得了黑洞魔法"
+    }
+
+    "< A zombie picked up Devastation  >"
+    {
+        "chi" "僵尸获得了毁灭之力"
+    }
+
+    "< A zombie picked up Fortress Magic  >"
+    {
+        "chi" "僵尸获得了堡垒护盾"
+    }
+
+    "< A zombie picked up Frozen Crystal  >"
+    {
+        "chi" "僵尸获得了寒冰水晶"
+    }
+
+    "< A zombie picked up Poison Nova  >"
+    {
+        "chi" "僵尸获得了剧毒新星"
+    }
+
+    "< Cichol >"
+    {
+        "chi" "< 锡赫 >"
+    }
+
+    "< Defend here for 5 seconds >"
+    {
+        "chi" "还有5秒"
+    }
+
+    "< Defend last gate for 25 seconds >"
+    {
+        "chi" "最后的大门,还有25秒"
+    }
+
+    "< Earth has been acquired >"
+    {
+        "chi" "大地已被拾起"
+    }
+
+    "< Earth Quake >"
+    {
+        "chi" "< 地震 >"
+    }
+
+    "< FlameShadow has been acquired >"
+    {
+        "chi" "烈焰之影已被拾起"
+    }
+
+    "< Frost Nova has been acquired >"
+    {
+        "chi" "冰霜新星已被拾起"
+    }
+
+    "< Golem Ahglan >"
+    {
+        "chi" "< 安哥拉的傀儡 >"
+    }
+
+    "< Golem Ahglan has deafeted >"
+    {
+        "chi" "傀儡已被击败"
+    }
+
+    "< Gravity >"
+    {
+        "chi" "< 重力 >"
+    }
+
+    "< Heal light has been acquired >"
+    {
+        "chi" "治愈之光已被拾起"
+    }
+
+    "< Purifying Javelin has been acquired >"
+    {
+        "chi" "净化之枪已被拾起"
+    }
+
+    "< Release is almost upon us >"
+    {
+        "chi" "解放即将来临"
+    }
+
+    "< Sandstorm >"
+    {
+        "chi" "< 沙暴 >"
+    }
+
+    "< Singurality has been acquired >"
+    {
+        "chi" "奇异点已被拾起"
+    }
+
+    "< Soul >"
+    {
+        "chi" "< 鬼魂 >"
+    }
+
+    "< The gate opens in 50 seconds >"
+    {
+        "chi" "还有50秒开启"
+    }
+
+    "< The Possessed Light >"
+    {
+        "chi" "< 支配之光 >"
+    }
+
+    "< The Soul has been defeated >"
+    {
+        "chi" "鬼魂已被击败"
+    }
+
+    "< Thunder has been acquired >"
+    {
+        "chi" "雷电已被拾起"
+    }
+
+    "< Time Piercing Sword has been acquired >"
+    {
+        "chi" "穿刺之剑已被拾起"
+    }
+
+    "< Wind has been acquired >"
+    {
+        "chi" "风暴已被拾起"
+    }
+
+    "Attack System got any error!!"
+    {
+        "chi" "攻击系统出现了错误!!"
+    }
+
+    "***now, timertick are changed ***"
+    {
+        "chi" "Timertick设置已变更"
+    }
+
+    "< Meteor >"
+    {
+        "chi" "< 流星 >"
+    }
+
+    "< Shock Wave >"
+    {
+        "chi" "< 冲击波 >"
+    }
+
+    "< Tornado >"
+    {
+        "chi" "< 龙卷风 >"
+    }
+
+    "< Mercury Strike - Go to side. >"
+    {
+        "chi" "水银冲击,到两侧去"
+    }
+
+    "< Break all water columns at the corners. >"
+    {
+        "chi" "破坏掉四周所有的宝石"
+    }
+
+    "< Get in the circles for obtaining immunity. >"
+    {
+        "chi" "进入圆环以获得免疫效果"
+    }
+
+    "< Orb >"
+    {
+        "chi" "< 天体 >"
+    }
+
+    "< Grim Reaper retreated!! >"
+    {
+        "chi" "恐惧收割者逃跑了!!"
+    }
+
+    "< Grim Reaper is catching you >"
+    {
+        "chi" "收割者想置你于死地"
+    }
+
+    "< Grenades do more damage >"
+    {
+        "chi" "手雷可以造成更多伤害"
+    }
+
+    "< The Soul fizzled out. >"
+    {
+        "chi" "鬼魂已彻底消散"
+    }
+
+    "*** ZOMBIES ARE DETECTED ***"
+    {
+        "chi" "已检测到僵尸存在"
+    }
+
+    "*** You have to kill all the zombies inside within 10 seconds.  ***"
+    {
+        "chi" "还有10秒,彻底清除僵尸"
+    }
+
+    "*** Round Failed ***"
+    {
+        "chi" "回合已失败"
+    }
+
+    "<--Prechache success-->"
+    {
+        "chi" "< 预载已完成! >"
+    }
+
+    "*** ze_genso_of_last_v4 ***"
+    {
+        "chi" "最后的理想乡"
+    }
+
+    "*** Map by Pohmian/Mochi and Azure***"
+    {
+        "chi" "地图制作: PohmianMochi,Azure"
+    }
+
+    "*** Special Thanks to...... ***"
+    {
+        "chi" "特别感谢以下友人..."
+    }
+
+    "*** SHUFEN, Shimelar, Gopa, kawagoe, kendama, Raio, ARO ***"
+    {
+        "chi" "感谢SHUFEN,Shimelar,Gopa,kawagoe,kendama,Raio,ARO的帮助"
+    }
+
+    "*** nakachan, yukkuriゆっくり, HeeChan, Koen ***"
+    {
+        "chi" "以及nakachan,yukkuri,HeeChan,Koen"
+    }
+
+    "*** POSSESSION-SERVER, ZEDDY-GAMING and All Testing Players ***"
+    {
+        "chi" "还有PSE,Zeddy.以及所有参与测试的玩家"
+    }
+
+    "*** Moving to NORMAL mode ***"
+    {
+        "chi" "正在开始 普通 关卡"
+    }
+
+    "[Normal Mode]"
+    {
+        "chi" "普通模式"
+    }
+
+    "[Hard Mode]"
+    {
+        "chi" "困难模式"
+    }
+
+    "[Soul-Mode]"
+    {
+        "chi" "[ 灵魂 ]"
+    }
+
+    "< Welcome to Genso >"
+    {
+        "chi" "这里是幻想之地"
+    }
+
+    "< Left gate opens in 25 seconds >"
+    {
+        "chi" "左边的门25秒后开启"
+    }
+
+    "< Entrance gate opens in 20 seconds >"
+    {
+        "chi" "入口还有20秒打开"
+    }
+
+    "< The gate opens in 20 seconds >"
+    {
+        "chi" "还有20秒开启"
+    }
+
+    "< The gate opens in 25 seconds >"
+    {
+        "chi" "还有25秒开启"
+    }
+
+    "< The gate opens in 15 seconds >"
+    {
+        "chi" "还有15秒"
+    }
+
+    "< Defend here for 10 seconds >"
+    {
+        "chi" "还有10秒"
+    }
+
+    "< Right gate opens in 30 seconds >"
+    {
+        "chi" "右边的门还有30秒开启"
+    }
+
+    "< The metal gate breaks in 5 seconds >"
+    {
+        "chi" "金属门还有5秒破开"
+    }
+
+    "< The gate opens in 10 seconds >"
+    {
+        "chi" "还有10秒"
+    }
+
+    "< Go >"
+    {
+        "chi" "继续前进"
+    }
+
+    "< Final defend for 20 seconds >"
+    {
+        "chi" "最后的20秒"
+    }
+
+    "< Two gates open in 30 seconds >"
+    {
+        "chi" "两边的门30秒后开启"
+    }
+
+    "< Entrance gate opens in 25 seconds >"
+    {
+        "chi" "入口大门25秒后开启"
+    }
+
+    "< The gates open in 10 seconds >"
+    {
+        "chi" "还有10秒"
+    }
+
+    "< The gates open in 20 seconds >"
+    {
+        "chi" "还有20秒"
+    }
+
+    "< The gate opens in 30 seconds >"
+    {
+        "chi" "还有30秒"
+    }
+
+    "< The doors break in 20 seconds >"
+    {
+        "chi" "门20秒后破开"
+    }
+
+    "< Two gates open in 35 seconds >"
+    {
+        "chi" "两边的门35秒后开启"
+    }
+
+    "< Entrance gate opens in 30 seconds >"
+    {
+        "chi" "入口大门30秒后打开"
+    }
+
+    "< The side-gates open in 10 seconds >"
+    {
+        "chi" "侧门10秒后打开"
+    }
+
+    "< The middle-gate opens in 15 seconds >"
+    {
+        "chi" "中门15秒后开启"
+    }
+
+    "< ZM-Items are restricted!!! >"
+    {
+        "chi" "ZM神器已禁用!!!"
+    }
+
+    "< Two gates open in 45 seconds >"
+    {
+        "chi" "两边的门45秒后开启"
+    }
+
+    "< Entrance gate opens in 40 seconds >"
+    {
+        "chi" "入口大门40秒后开启"
+    }
+
+    "< The gates open in 35 seconds >"
+    {
+        "chi" "还有35秒"
+    }
+
+    "< The gate opens in 5 seconds >"
+    {
+        "chi" "还有5秒"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
