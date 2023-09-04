@@ -46,89 +46,194 @@
         "chi" "关卡: INFERNO"
     }
 
-    "Zombies are coming. Defend Cosmo Bar for 32 seconds before we open the back door"
+    "City gates open in 10 seconds"
     {
-        "chi" "僵尸来了,酒吧后门还有32秒打开"
+        "chi" "城镇大门10秒后打开"
+    }
+
+    "We are almost at Cosmo Canyon"
+    {
+        "chi" "我们就快到达宇宙峡谷了"
     }
 
     "The barman will open the door in 10 seconds"
     {
-        "chi" "酒保10秒后开门"
+        "chi" "酒保10秒后打开酒吧正门"
     }
 
     "The barman will open the door in 5 esconds"
     {
-        "chi" "酒保5秒后开门"
+        "chi" "酒保5秒后打开酒吧正门"
     }
 
-    "Zombies are coming. Defend Cosmo Bar for 35 seconds before we open the back door"
+    "Zombies are coming. Defend Cosmo Bar for 20 seconds before we open the back door"
     {
-        "chi" "僵尸来了,酒吧后门还有35秒打开"
+        "chi" "守住,酒吧后门还有20秒打开"
+    }
+
+    "Zombies are coming. Defend Cosmo Bar for 30 seconds before we open the back door"
+    {
+        "chi" "守住,酒吧后门还有30秒打开"
+    }
+
+    "The explosives will blow the rocks up in 20 seconds"
+    {
+        "chi" "炸药将在20秒后炸碎岩石"
+    }
+
+    "The cave gates will open in 25 seconds"
+    {
+        "chi" "洞穴上层大门25秒后打开"
     }
 
     "The gates of gi cave will open in 15 seconds"
     {
-        "chi" "基纳塔克的洞穴15秒后开启"
+        "chi" "通往洞穴底层的大门15秒后打开"
     }
 
-    "The gates will open in 15 seconds"
+    "The left gates will open in 15 seconds"
     {
-        "chi" "门15秒后打开"
+        "chi" "洞穴上层左侧大门大门15秒后打开"
     }
 
-    "The gates will open in 25 seconds"
+    "The left second gates will open in 15 seconds"
     {
-        "chi" "还有25秒开门"
+        "chi" "第二个大门15秒后打开"
     }
 
-    "The gates will open in 20 seconds"
+    "The left third gates will open in 15 seconds"
     {
-        "chi" "还有20秒开门"
+        "chi" "第三个大门15秒后打开"
     }
 
-    "The final door opens in 35 seconds"
+    "Hold this position until the door closes"
     {
-        "chi" "最终的门35秒后打开"
+        "chi" "进门后守到门关"
     }
 
     "Doors will open soon... wait..."
     {
-        "chi" "门就要开了...等等..."
+        "chi" "稍等,马上开门"
     }
 
-    "The gates will open in 10 seconds"
+    "The left final door opens in 35 seconds"
     {
-        "chi" "还有10秒开门"
+        "chi" "最后的大门35秒后打开"
+    }
+
+    "The obj1 gates will open in 20 seconds"
+    {
+        "chi" "矿井大门20秒后打开"
+    }
+
+    "The obj2 gates will open in 20 seconds"
+    {
+        "chi" "大门20秒后打开"
+    }
+
+    "The obj3 gates will open in 20 seconds"
+    {
+        "chi" "大门20秒后打开"
+    }
+
+    "The obj4 gates will open in 10 seconds"
+    {
+        "chi" "通往洞穴上层的大门10秒后打开"
     }
 
     "Wait until something happens"
     {
-        "chi" "有什么事要发生了"
+        "chi" "等待某事发生"
     }
 
-    "Is that a real ghost?"
+    "The gi gate will open in 30 seconds"
     {
-        "chi" "那是真的幽灵吗?"
+        "chi" "通往吉纳塔克领域的大门30秒后打开"
     }
 
-    "Now you can get out of Cave of Gi"
+    "The gi gate will open in 25 seconds"
     {
-        "chi" "现在可以离开这里了"
+        "chi" "通往吉纳塔克领域的大门25秒后打开"
     }
 
     "The gates of observatory will open in 20 seconds"
     {
-        "chi" "天文台的门20秒后打开"
+        "chi" "通往天文台的大门20秒后打开"
     }
 
-    "Door opens in 10 seconds"
+    "Hold End Door opens in 10 seconds"
     {
-        "chi" "门还有10秒开"
+        "chi" "大门10秒后打开"
     }
 
-    "The final door opens in 25 seconds"
+    "Hold End final Door opens in 25 seconds"
     {
-        "chi" "最后的门还有25秒打开"
+        "chi" "最后的大门25秒后打开"
+    }
+
+    "Hold End final Door opens in 35 seconds"
+    {
+        "chi" "最后的大门35秒后打开"
+    }
+
+    "Gi Nattak is using Fire"
+    {
+        "chi" "吉纳塔克正在释放火焰"
+    }
+
+    "Gi Nattak is using Heal"
+    {
+        "chi" "吉纳塔克使用了恢复术"
+    }
+
+    "Gi Nattak is using Wind"
+    {
+        "chi" "吉纳塔克正在释放飓风,别被吹下去了"
+    }
+
+    "Gi Nattak is using Silence"
+    {
+        "chi" "吉纳塔克使用了神器沉默"
+    }
+
+    "Gi Nattak is using Poison"
+    {
+        "chi" "吉纳塔克正在释放剧毒"
+    }
+
+    "Gi Nattak is using Gravity"
+    {
+        "chi" "吉纳塔克正在释放黑洞,别被吸下去了"
+    }
+
+    "Gi Nattak is using Shield"
+    {
+        "chi" "吉纳塔克使用了护盾"
+    }
+
+    "Gi Nattak is using Fire Nova"
+    {
+        "chi" "吉纳塔克正在蓄力烈焰新星,快去平台边缘处"
+    }
+
+    "Gi Nattak is using Super Attack"
+    {
+        "chi" "吉纳塔克正在蓄力熔岩攻击,快找块石头跳上去"
+    }
+
+    "Gi Nattak is using Ultima"
+    {
+        "chi" "吉纳塔克正在蓄力终极,15秒后所有人类变为一血"
+    }
+
+    "The gi is weak, you can stagger him now!"
+    {
+        "chi" "吉纳塔克进入虚弱状态,可被眩晕"
+    }
+
+    "The airbuster is weak, you can stagger him now!"
+    {
+        "chi" "机动兵器进入虚弱状态,可被眩晕"
     }
 
 }
