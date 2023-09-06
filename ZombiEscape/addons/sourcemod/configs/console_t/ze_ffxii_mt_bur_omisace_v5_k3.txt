@@ -258,12 +258,12 @@
 
     "**Bergan has casted Blood drain Ability!**"
     {
-        "chi" "贝甘使用了吸血魔法!"
+        "chi" "贝甘使用了吸血魔法!(停止射击!)"
     }
 
     "**Bergan has casted Chelonian Gate Ability!**"
     {
-        "chi" "贝甘使用了玄冥壁!"
+        "chi" "贝甘使用了玄冥壁!(全体人类强制100hp)"
     }
 
     "**Bergan has casted Fire Agony Ability!*"
@@ -328,7 +328,7 @@
 
     "**Bergan has summoned Knight's Tour Ability!**"
     {
-        "chi" "贝甘召唤了白骑士巡礼[黑洞]ssss"
+        "chi" "贝甘使用了冲击波!(先站外场再站内场)"
     }
 
     "**Bergan has summoned Mustard Bomb Ability!**"
@@ -343,7 +343,7 @@
 
     "**Bergan has summoned Ultimate Ability!**"
     {
-        "chi" "> 贝甘召唤了终极! <"
+        "chi" "贝甘召唤了终极! (远离中间!)"
     }
 
     "**Bergan has summoned Water Cannon Ability!**"
