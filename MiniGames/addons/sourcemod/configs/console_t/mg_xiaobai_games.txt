@@ -1,0 +1,168 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    // "__keep__"   // 保留原语句
+    // "notimer"    // 去除倒计时效果
+
+
+    ">>1<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>1HP R8<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>2<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>3<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>ak47<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>Are you going to challenge yourself<<"
+    {
+        "chi" "是时候挑战自己"
+    }
+
+    ">>AWP<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>bhop<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>cz75<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>deagle<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>fiveseven<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>glock<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>knife 35hp<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>knife hegrenade<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>Map by Xiaobai<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>Music name:Jing Wei<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>Music name:Stitches<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>Music name:Su<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>Music name:The Best Of Me<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>p250<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>Random pistols<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>revolver<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>ssg08<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>taser<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>tec9<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>Teleport AFK players after 80 seconds<<"
+    {
+        "chi" "80秒后传送挂机玩家"
+        "notimer" "1"
+    }
+
+    ">>There are 3 seconds left to start the game<<"
+    {
+        "chi" "还有3秒开始游戏"
+    }
+
+    ">>usp<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>xm1014<<"
+    {
+        "chi" "__keep__"
+    }
+
+    ">>You only have 120 seconds<<"
+    {
+        "chi" "你还有120秒"
+        "notimer" "1"
+    }
+
+}
