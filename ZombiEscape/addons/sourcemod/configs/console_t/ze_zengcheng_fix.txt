@@ -33,7 +33,7 @@
 
     "The window is blocked"
     {
-        "chi" "窗户封锁"
+        "chi" "窗户被东西挡住了"
     }
 
     "Need to find an item that can pry open the iron plate"
@@ -43,17 +43,17 @@
 
     "woc nm laozi yaoshi ni?"
     {
-        "chi" "甘霖娘"
+        "chi" "甘霖娘,我钥匙咋不见了"
     }
 
     "o tmd  yuanlaizai maotan xiamian!"
     {
-        "chi" ""
+        "chi" "草,tnnd在毛毯下面"
     }
 
     "gogogo!!!"
     {
-        "chi" ""
+        "chi" "润润润!!!"
     }
 
     "It has been a week since the outbreak of the virus"
@@ -104,8 +104,7 @@
 
     "can rest in this small room for a while"
     {
-        "chi" ""
-        "blocked" "1"
+        "chi" "这个防盗门将在不久后打开..."
     }
 
     "After resting, take water and food with you to prevent misfortune"
@@ -116,8 +115,7 @@
 
     "Rest up, it's time to set sail again"
     {
-        "chi" ""
-        "blocked" "1"
+        "chi" "准备好..."
     }
 
     "---45explode---"
