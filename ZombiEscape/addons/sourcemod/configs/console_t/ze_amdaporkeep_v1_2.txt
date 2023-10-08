@@ -1,0 +1,219 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** A player has acquired Astrologer **"
+    {
+        "chi" "玩家获得了占星家"
+    }
+
+    "** A player has acquired Black_Mage **"
+    {
+        "chi" "玩家获得了黑魔法师"
+    }
+
+    "** A player has acquired Dark Knight **"
+    {
+        "chi" "玩家获得了暗黑骑士"
+    }
+
+    "** A player has acquired Ninja **"
+    {
+        "chi" "玩家获得了忍者"
+    }
+
+    "< A Player has acquired Summon Bahamut >"
+    {
+        "chi" "玩家获得了巴哈姆特之召唤"
+    }
+
+    "< A Player has acquired Zombie Heal >"
+    {
+        "chi" "僵尸获取了ZM治疗"
+    }
+
+    "< Collaborative Eugen&7ychu5 >"
+    {
+        "chi" "与Eugen,7ychu5合作"
+    }
+
+    "< Complete Runa  >"
+    {
+        "chi" "由Runa完善"
+    }
+
+    "< Defend until teleport array open >"
+    {
+        "chi" "坚持住,传送阵就要启动了"
+    }
+
+    "< Defend until the gates open >"
+    {
+        "chi" "坚持住,直到门开"
+    }
+
+    "< Defend until the path is clear >"
+    {
+        "chi" "坚持住,直到路径通畅"
+    }
+
+    "< Extreme Mode >"
+    {
+        "chi" "模式: Extreme"
+    }
+
+    "< Extreme Mode Completion! >"
+    {
+        "chi" "Extreme关卡已完成!"
+    }
+
+    "< Hard Mode >"
+    {
+        "chi" "模式: 困难"
+    }
+
+    "< Hard Mode Completion! >"
+    {
+        "chi" "困难模式已完成!"
+    }
+
+    "< MAP BY vueru >"
+    {
+        "chi" "地图作者: vueru"
+    }
+
+    "< Savage Mode >"
+    {
+        "chi" "模式: Savage"
+    }
+
+    "< Savage Mode Completion! >"
+    {
+        "chi" "Savage关卡已完成!"
+    }
+
+    "< ZE_AMDAPOR_KEEP >"
+    {
+        "chi" "邪念妖地: 无限城古堡"
+    }
+
+    "< Zombie Detected >"
+    {
+        "chi" "已检测到僵尸"
+    }
+
+    ">- Loading OBJ Mode ..."
+    {
+        "chi" "什么欧比狗模式..."
+    }
+
+    ">* Blizzard *<"
+    {
+        "chi" "> 冰结 <"
+    }
+
+    ">* Deluge of Darkness *<"
+    {
+        "chi" "> 暗之泛滥 <"
+    }
+
+    ">* Hollow Night *<"
+    {
+        "chi" "> 虚空暗夜 <"
+    }
+
+    ">* Hollow NightMare *<"
+    {
+        "chi" "> 虚空噩梦 <"
+    }
+
+    ">* Hollow Terror *<"
+    {
+        "chi" "> 虚空恐惧 <"
+    }
+
+    ">* Night Terror *<"
+    {
+        "chi" "> 暗夜恐惧 <"
+    }
+
+    ">* NightMare *<"
+    {
+        "chi" "> 噩梦 <"
+    }
+
+    ">* Paver Inanis *<"
+    {
+        "chi" "> 虚空之惊 <"
+    }
+
+    ">* Shadetrust *<"
+    {
+        "chi" "> 暗影直刺 <"
+    }
+
+    ">* Shadow Shield *<"
+    {
+        "chi" "> 暗影之盾 <"
+    }
+
+    ">* The Art of Darkness *<"
+    {
+        "chi" "> 暗之战技 <"
+    }
+
+    ">* Ultimate Terror *<"
+    {
+        "chi" "> 终极恐惧 <"
+    }
+
+    ">* Wide-angle Particle Beam *<"
+    {
+        "chi" "> 广角式波动炮 <"
+    }
+
+    ">* Zero-form Particle Beam *<"
+    {
+        "chi" "> 零式波动炮 <"
+    }
+
+    ">*Fire III *<"
+    {
+        "chi" "> 爆炎 <"
+    }
+
+    ">*Thunder III *<"
+    {
+        "chi" "> 暴雷 <"
+    }
+
+    ">*Vacuum Wave*<"
+    {
+        "chi" "> 空间波动 <"
+    }
+
+    ">*Void Blizzard III*<"
+    {
+        "chi" "虚无冰封"
+    }
+
+    ">*Void Fire III *<"
+    {
+        "chi" "虚无爆炎"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置: 已关闭摔伤"
+    }
+
+}
