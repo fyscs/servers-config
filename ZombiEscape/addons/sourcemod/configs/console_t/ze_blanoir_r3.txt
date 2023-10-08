@@ -1,0 +1,224 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "[^]AirCube + 70HP"
+    {
+        "chi" "大气方块"
+    }
+
+    "[+] HPCube + 50HP"
+    {
+        "chi" "HP方块"
+    }
+
+    "[Danmuku/Laser] -70 HP"
+    {
+        "chi" "弹幕,激光"
+    }
+
+    "| 10 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 10 Seconds until nuke |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 120 Seconds until nuke |"
+    {
+        "chi" "你只剩下两分钟时间"
+    }
+
+    "| 15 |"
+    {
+        "chi" "还有15秒"
+    }
+
+    "| 20 |"
+    {
+        "chi" "还有20秒"
+    }
+
+    "| 25 |"
+    {
+        "chi" "还有25秒"
+    }
+
+    "| 30 |"
+    {
+        "chi" "还有30秒"
+    }
+
+    "| 30 Seconds unitl door open |"
+    {
+        "chi" "还有30秒打开"
+    }
+
+    "| 30 Seconds until door close |"
+    {
+        "chi" "还有30秒关闭"
+    }
+
+    "| 30 Seconds until door open |"
+    {
+        "chi" "还有30秒开启"
+    }
+
+    "| 35 Second until door open |"
+    {
+        "chi" "还有35秒开启"
+    }
+
+    "| 40 |"
+    {
+        "chi" "还有40秒"
+    }
+
+    "| 40 Seconds until door open |"
+    {
+        "chi" "还有40秒开启"
+    }
+
+    "| 5 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 5 Seconds until door close |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 60 Seconds until nuke |"
+    {
+        "chi" "你还剩下60秒"
+    }
+
+    "| Door open in 25 | ZmTP in 10 |"
+    {
+        "chi" "还有25秒开启,僵尸要传送了"
+    }
+
+    "| Door opend |"
+    {
+        "chi" "门开了"
+    }
+
+    "| Door Opened |"
+    {
+        "chi" "门打开了"
+    }
+
+    "| Door will open in 20 |"
+    {
+        "chi" "还有20秒开启"
+    }
+
+    "| Door will open in 20 Second |"
+    {
+        "chi" "还有20秒打开"
+    }
+
+    "| Elevator coming |"
+    {
+        "chi" "电梯来了"
+    }
+
+    "| Elevator rise in 15 |"
+    {
+        "chi" "还有15秒升起"
+    }
+
+    "| EP.0 Complete |"
+    {
+        "chi" "序章已完成"
+    }
+
+    "| EP.1 Complete |"
+    {
+        "chi" "第一章已完成"
+    }
+
+    "| Kill the boss in 130 Seconds |"
+    {
+        "chi" "在130秒内击倒Boss"
+    }
+
+    "| Teleport will enable in 20 Seconds |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| Teleport will enable in 40 Seconds |"
+    {
+        "chi" "传送40秒后开启"
+    }
+
+    "| YOU ARE DEAD |"
+    {
+        "chi" "你寄了"
+    }
+
+    "| You kill the boss, Now Press 3 and continue |"
+    {
+        "chi" "你击倒了Boss,现在继续"
+    }
+
+    "| You lose, Zombie touch the ball |"
+    {
+        "chi" "你输了,僵尸碰到了球"
+    }
+
+    ">>> Admin Change to [Blanoir] <<<"
+    {
+        "chi" "更换至 > Blanoir <"
+    }
+
+    ">>> Admin Change to EP. 0 <<<"
+    {
+        "chi" "更换至 > 序章 <"
+    }
+
+    ">>> Admin Change to EP. I <<<"
+    {
+        "chi" "更换至 > 第一章 <"
+    }
+
+    ">>> Admin Change to EP. II  <<<"
+    {
+        "chi" "更换至 > 第二章 <"
+    }
+
+    ">>> Admin end the round <<<"
+    {
+        "chi" "> 回合已被终止 <"
+    }
+
+    "Max Health -> 150"
+    {
+        "chi" "最大血量已调整"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置: 已关闭摔伤"
+    }
+
+}
