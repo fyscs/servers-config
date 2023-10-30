@@ -1,0 +1,131 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "Need to delay by 50 seconds"
+    {
+        "chi" "等待50秒"
+    }
+
+    "Lucky to find a hammer by the garbage dump"
+    {
+        "chi" "地图制作: garbage dump  移植: 王小明"
+    }
+
+    "Wait for 45 seconds to forcibly destroy"
+    {
+        "chi" "窗户45秒后碎裂"
+    }
+
+    "It will take some time to forcibly destroy the window"
+    {
+        "chi" "稍后窗口逃生"
+    }
+
+    "The window is blocked"
+    {
+        "chi" "窗户被东西挡住了"
+    }
+
+    "Need to find an item that can pry open the iron plate"
+    {
+        "chi" "想办法另寻出路"
+    }
+
+    "woc nm laozi yaoshi ni?"
+    {
+        "chi" "甘霖娘,我钥匙咋不见了"
+    }
+
+    "o tmd  yuanlaizai maotan xiamian!"
+    {
+        "chi" "草,tnnd在毛毯下面"
+    }
+
+    "gogogo!!!"
+    {
+        "chi" "润润润!!!"
+    }
+
+    "It has been a week since the outbreak of the virus"
+    {
+        "chi" "我是大壮"
+    }
+
+    "Fortunately, I didn't go out at home and didn't get infected"
+    {
+        "chi" "阴差阳错之下重生回到了过去"
+    }
+
+    "Unfortunately, there is no food left at home for me to survive"
+    {
+        "chi" "知道会发生什么的我因此逃过了一劫"
+    }
+
+    "You can only plan a route to escape to other areas and survive"
+    {
+        "chi" "现在距离病毒爆发已经过了一周了"
+    }
+
+    "I hope this night can be safe, Buddha bless me"
+    {
+        "chi" "我得想尽一切办法在这末世生存下去"
+    }
+
+    "Wait for 50 seconds"
+    {
+        "chi" "坚守50秒"
+    }
+
+    "It takes 50 seconds to forcibly pry open the iron door"
+    {
+        "chi" "需要强行撬门, 坚守50秒"
+    }
+
+    "The gate has been locked"
+    {
+        "chi" "门已被封锁"
+    }
+
+    "It seems that I need to use my years of experience in game lock picking"
+    {
+        "chi" ""
+        "blocked" "1"
+    }
+
+    "can rest in this small room for a while"
+    {
+        "chi" "这个防盗门将在不久后打开..."
+    }
+
+    "After resting, take water and food with you to prevent misfortune"
+    {
+        "chi" ""
+        "blocked" "1"
+    }
+
+    "Rest up, it's time to set sail again"
+    {
+        "chi" "准备好..."
+    }
+
+    "---45explode---"
+    {
+        "chi" "45"
+    }
+
+    "Need to delay for 40 seconds"
+    {
+        "chi" "坚守40秒"
+    }
+
+}
