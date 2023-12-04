@@ -37,25 +37,25 @@
 
     "| 120 Seconds until nuke |"
     {
-        "chi" "__null__"
+        "chi" "坚守120s"
         "blocked" "1"
     }
 
     "| 20 |"
     {
-        "chi" "__null__"
+        "chi" "20"
         "blocked" "1"
     }
 
     "| 25 |"
     {
-        "chi" "__null__"
+        "chi" "25"
         "blocked" "1"
     }
 
     "| 30 |"
     {
-        "chi" "__null__"
+        "chi" "30"
         "blocked" "1"
     }
 
@@ -79,7 +79,7 @@
 
     "| 35 |"
     {
-        "chi" "__null__"
+        "chi" "35"
         "blocked" "1"
     }
 
@@ -91,7 +91,7 @@
 
     "| 40 |"
     {
-        "chi" "__null__"
+        "chi" "40"
         "blocked" "1"
     }
 
@@ -120,13 +120,13 @@
 
     "| Door opend |"
     {
-        "chi" "__null__"
+        "chi" "门开了"
         "blocked" "1"
     }
 
     "| Door Opened |"
     {
-        "chi" "__null__"
+        "chi" "门开了"
         "blocked" "1"
     }
 
@@ -144,24 +144,24 @@
 
     "| Elevator coming |"
     {
-        "chi" "__null__"
+        "chi" "猪咪小电梯来咯"
         "blocked" "1"
     }
 
     "| Elevator rise in 15 |"
     {
-        "chi" "__null__"
+        "chi" "猪咪小电梯还有15s走咯"
         "blocked" "1"
     }
 
     "| EP.0 Complete |"
     {
-        "chi" "__null__"
+        "chi" "第一关通过"
     }
 
     "| EP.1 Complete |"
     {
-        "chi" "__null__"
+        "chi" "第二关通过"
     }
 
     "| Kill the boss in 130 Seconds |"
@@ -183,7 +183,7 @@
 
     "| You kill the boss, Now Press 3 and continue |"
     {
-        "chi" "__null__"
+        "chi" "**BOSS死亡**"
         "blocked" "1"
     }
 
@@ -195,22 +195,22 @@
 
     ">>> Admin Change to EP. 0 <<<"
     {
-        "chi" "__null__"
+        "chi" "管理员调至第一关"
     }
 
     ">>> Admin Change to EP. I <<<"
     {
-        "chi" "__null__"
+        "chi" "管理员调至第二关"
     }
 
     ">>> Admin Change to EP. II  <<<"
     {
-        "chi" "__null__"
+        "chi" "管理员调至第三关"
     }
 
     ">>> Admin Change to PRACTICE <<<"
     {
-        "chi" "__null__"
+        "chi" "**练习模式**"
     }
 
     ">>> Admin Change to WORLDEND <<<"
@@ -220,7 +220,7 @@
 
     ">>> Admin end the round <<<"
     {
-        "chi" "__null__"
+        "chi" "有人强制结束了当前回合"
     }
 
     "Max Health -> 150"
