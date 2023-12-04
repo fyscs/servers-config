@@ -1,0 +1,232 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+    
+
+    "[^]AirCube + 70HP"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "[+] HPCube + 50HP"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "[Danmuku/Laser] -70 HP"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 10 Seconds until nuke |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 120 Seconds until nuke |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 20 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 25 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 30 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 30 Second until door open |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 30 Seconds until door close |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 30 Seconds until door open |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 35 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 35 Seconds unitl door open |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 40 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 40 Seconds until door open |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 5 Seconds until door close |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| 60 Seconds until nuke |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| Door open in 25 | ZmTP in 10 |"
+    {
+        "chi" "挂机僵尸将在10s后传送"
+    }
+
+    "| Door opend |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| Door Opened |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| Door will open in 20 Second |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| Door will open in 30 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| Elevator coming |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| Elevator rise in 15 |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| EP.0 Complete |"
+    {
+        "chi" "__null__"
+    }
+
+    "| EP.1 Complete |"
+    {
+        "chi" "__null__"
+    }
+
+    "| Kill the boss in 130 Seconds |"
+    {
+        "chi" "在两分十秒内把这个boss噶了!"
+    }
+
+    "| Teleport will enable in 40 Seconds |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| YOU ARE DEAD |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| You kill the boss, Now Press 3 and continue |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "| You lose, Zombie touch the ball |"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    ">>> Admin Change to EP. 0 <<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>> Admin Change to EP. I <<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>> Admin Change to EP. II  <<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>> Admin Change to PRACTICE <<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>> Admin Change to WORLDEND <<<"
+    {
+        "chi" "__null__"
+    }
+
+    ">>> Admin end the round <<<"
+    {
+        "chi" "__null__"
+    }
+
+    "Max Health -> 150"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+}
