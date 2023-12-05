@@ -13,97 +13,87 @@
 
     "[^]AirCube + 70HP"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "[^]Air音符 +70血量"
+        "cleartimer" "1"
     }
 
     "[+] HPCube + 50HP"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "[+]回血包 +50血量"
+        "cleartimer" "1"
     }
 
     "[Danmuku/Laser] -70 HP"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "[弹幕/刀] -70血量"
+        "cleartimer" "1"
     }
 
     "| 10 Seconds until nuke |"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "你还有10秒"
+        "cleartimer" "1"
     }
 
     "| 120 Seconds until nuke |"
     {
-        "chi" "坚守120s"
+        "chi" "__null__"
         "blocked" "1"
     }
 
     "| 20 |"
     {
-        "chi" "20"
-        "blocked" "1"
+        "chi" "| 20 |"
     }
 
     "| 25 |"
     {
-        "chi" "25"
-        "blocked" "1"
+        "chi" "| 25 |"
     }
 
     "| 30 |"
     {
-        "chi" "30"
-        "blocked" "1"
+        "chi" "| 30 |"
     }
 
     "| 30 Second until door open |"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "| 门还有30秒开启 |"
     }
 
     "| 30 Seconds until door close |"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "| 门还有30秒关闭 |"
     }
 
     "| 30 Seconds until door open |"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "| 门还有30秒开启 |"
     }
 
     "| 35 |"
     {
-        "chi" "35"
-        "blocked" "1"
+        "chi" "| 35 |"
     }
 
     "| 35 Seconds unitl door open |"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "| 门还有35秒开启 |"
     }
 
     "| 40 |"
     {
-        "chi" "40"
-        "blocked" "1"
+        "chi" "| 40 |"
     }
 
     "| 40 Seconds until door open |"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "| 门还有40秒开启 |"
     }
 
     "| 5 Seconds until door close |"
     {
-        "chi" "__null__"
+        "chi" "| 门还有5秒关闭 |"
         "blocked" "1"
     }
 
@@ -115,76 +105,70 @@
 
     "| Door open in 25 | ZmTP in 10 |"
     {
-        "chi" "挂机僵尸将在10s后传送"
+        "chi" "| 僵尸会在10秒后传送 |"
     }
 
     "| Door opend |"
     {
-        "chi" "门开了"
-        "blocked" "1"
+        "chi" "| 门已开启 |"
     }
 
     "| Door Opened |"
     {
-        "chi" "门开了"
-        "blocked" "1"
+        "chi" "| 门已开启 |"
     }
 
     "| Door will open in 20 Second |"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "| 门还有20秒开启 |"
     }
 
     "| Door will open in 30 |"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "| 门还有30秒开启 |"
     }
 
     "| Elevator coming |"
     {
-        "chi" "猪咪小电梯来咯"
-        "blocked" "1"
+        "chi" "| 平台来咯 |"
     }
 
     "| Elevator rise in 15 |"
     {
-        "chi" "猪咪小电梯还有15s走咯"
-        "blocked" "1"
+        "chi" "| 平台将在15秒后下降 |"
     }
 
     "| EP.0 Complete |"
     {
-        "chi" "第一关通过"
+        "chi" "| 第零章完成 |"
     }
 
     "| EP.1 Complete |"
     {
-        "chi" "第二关通过"
+        "chi" "| 第一章完成 |"
     }
 
     "| Kill the boss in 130 Seconds |"
     {
-        "chi" "在两分十秒内把这个boss噶了!"
+        "chi" "| 在130秒内打死BOSS |"
+        "countdown" "1"
     }
 
     "| Teleport will enable in 40 Seconds |"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "| 传送将在40秒后准备好 |"
+        "countdown" "1"
     }
 
     "| YOU ARE DEAD |"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "| 你输了 |"
     }
 
     "| You kill the boss, Now Press 3 and continue |"
     {
-        "chi" "**BOSS死亡**"
-        "blocked" "1"
+        "chi" "| 你杀死了BOSS |"
+        "cleartimer" "1"
     }
 
     "| You lose, Zombie touch the ball |"
@@ -195,38 +179,38 @@
 
     ">>> Admin Change to EP. 0 <<<"
     {
-        "chi" "管理员调至第一关"
+        "chi" ">>> 管理员更换至第零章 <<<""
     }
 
     ">>> Admin Change to EP. I <<<"
     {
-        "chi" "管理员调至第二关"
+        "chi" ">>> 管理员更换至第一章 <<<""
     }
 
     ">>> Admin Change to EP. II  <<<"
     {
-        "chi" "管理员调至第三关"
+        "chi" ">>> 管理员更换至第二章 <<<"
     }
 
     ">>> Admin Change to PRACTICE <<<"
     {
-        "chi" "**练习模式**"
+        "chi" ">>> 管理员更换至训练模式 <<<"
     }
 
     ">>> Admin Change to WORLDEND <<<"
     {
-        "chi" "__null__"
+        "chi" ">>> 谁让你按了 <<<"
     }
 
     ">>> Admin end the round <<<"
     {
-        "chi" "有人强制结束了当前回合"
+        "chi" ">>> 管理员结束了这场旅程 <<<"
     }
 
     "Max Health -> 150"
     {
-        "chi" "__null__"
-        "blocked" "1"
+        "chi" "最大血量 -> 150 "
+        "cleartimer" "1"
     }
 
 }
