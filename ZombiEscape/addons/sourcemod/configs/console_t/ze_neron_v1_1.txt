@@ -1,0 +1,699 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "????:Do you remember your name?"
+    {
+        "chi" "?????:还记得你的名字吗?"
+    }
+
+    "????:Don't remember? It's ok, my name is Kiki"
+    {
+        "chi" "?????:不记得了吗?好吧,我的名字是KiKi"
+    }
+
+    "????:wake up...."
+    {
+        "chi" "?????:醒一醒..."
+    }
+
+    "?????:KARL............................................."
+    {
+        "chi" "?????:卡尔....."
+    }
+
+    "?????:Karllllllllllllllllllllllllllllllllllllllllllllllll"
+    {
+        "chi" "?????:卡尔!!!!"
+    }
+
+    "10"
+    {
+        "chi" "还有10秒"
+    }
+
+    "15"
+    {
+        "chi" "还有15秒"
+    }
+
+    "20"
+    {
+        "chi" "还有20秒"
+    }
+
+    "25"
+    {
+        "chi" "还有25秒"
+    }
+
+    "30"
+    {
+        "chi" "还有30秒"
+    }
+
+    "All story Unlock"
+    {
+        "chi" "所有故事已解锁"
+    }
+
+    "bad ending:Kiki couldn't dodge Brand's attack while trying to save you."
+    {
+        "chi" "坏结局:Kiki救你的时候未能躲开Brand的攻击"
+    }
+
+    "Brand:Despite having both my legs torn off by the creature inside and losing one hand to its bite."
+    {
+        "chi" "Brand:尽管被里面的玩意夺去了双腿和一只手"
+    }
+
+    "Brand:Go ahead and destroy the portal. I will assist you."
+    {
+        "chi" "Brand:继续下去,毁掉传送门吧.我会帮助你"
+    }
+
+    "Brand:I can still manipulate everything here as a consciousness entity."
+    {
+        "chi" "Brand:即使已经成了意识体,但还是能操纵这里的一切"
+    }
+
+    "Brand:I've successfully activated the teleportation portal."
+    {
+        "chi" "Brand:我已经成功启动了传送门"
+    }
+
+    "Brand:Karl, look at me. This is the teleportation project you vehemently denied at first."
+    {
+        "chi" "Brand:卡尔,看着我,这就是你一开始毁掉的"
+    }
+
+    "Brand:Karl....I wrongly blamed you."
+    {
+        "chi" "Brand:卡尔...我错怪你了"
+    }
+
+    "Brand:Luckily, I had a backup plan. I uploaded my consciousness to the network here."
+    {
+        "chi" "Brand:不过,我有备用计划.我把自己的意识上传到了这里的网络"
+    }
+
+    "Brand:No!!!!!!!!! You can't destroy my research."
+    {
+        "chi" "Brand:不!!你不能毁掉我的心血"
+    }
+
+    "Brand:Now, I will make you experience my power."
+    {
+        "chi" "Brand:现在,我会让你尝尝我的厉害"
+    }
+
+    "Brand:STOPPPPPPPPPPPPPPPPPPPP"
+    {
+        "chi" "Brand:快停下来!!!"
+    }
+
+    "Hint:There should be no more than two people on the wheel."
+    {
+        "chi" "Hint:应该顶多就2个人"
+    }
+
+    "K:familiar handwriting...."
+    {
+        "chi" "K:字迹有点熟悉..."
+    }
+
+    "K:Is this... my handwriting?"
+    {
+        "chi" "K:是我写的...?"
+    }
+
+    "K:It's alright, just wanted to remind you to be more cautious. I have a feeling something is off."
+    {
+        "chi" "K:好吧,只是希望你们小心点.我有种预感..."
+    }
+
+    "K:Kiki...."
+    {
+        "chi" "K:Kiki..."
+    }
+
+    "K:Kiki..No..."
+    {
+        "chi" "K:Kiki...不..."
+    }
+
+    "K:so"
+    {
+        "chi" "K:所以..."
+    }
+
+    "K:This is what I meant by something being off. Be cautious, we've been discovered."
+    {
+        "chi" "K:这大概就是我的意思吧,小心点,我们被发现了"
+    }
+
+    "K:Wake up"
+    {
+        "chi" "K:醒醒.."
+    }
+
+    "K:We're home, Kiki."
+    {
+        "chi" "K:Kiki,我们回来了."
+    }
+
+    "Karl:Hold on to me, Kiki!"
+    {
+        "chi" "Kiki:坚持住,Kiki!!"
+    }
+
+    "Kiki:A note...?"
+    {
+        "chi" "Kiki:一个纸条...?"
+    }
+
+    "Kiki:After all, you are the last investigator I'm collaborating with."
+    {
+        "chi" "Kiki:毕竟..你是我合作的最后一个调查员"
+    }
+
+    "Kiki:Ah, I forgot you can't even remember your own name"
+    {
+        "chi" "Kiki:嗯,我忘了你还记不起来你的名字"
+    }
+
+    "Kiki:Although the planet has stabilized now, it is still a very important building"
+    {
+        "chi" "Kiki:即使这里已经稳定下来了,它仍是一处十分重要的建筑"
+    }
+
+    "Kiki:An unknown accident happened here"
+    {
+        "chi" "Kiki:发生了一起未知的事故"
+    }
+
+    "Kiki:And this facility was built to protect and study that plant"
+    {
+        "chi" "Kiki:建造这处设施是为了保护并探索这里"
+    }
+
+    "Kiki:Brand escaped."
+    {
+        "chi" "Kiki:Brand跑掉了."
+    }
+
+    "Kiki:But there's bad news. The spaceship can't withstand the explosion and is going to crash."
+    {
+        "chi" "Kiki:但是有坏消息,飞船挡不住这次爆炸,已经要散架了."
+    }
+
+    "Kiki:By the way, you've come this long, do you want a coffee? I just happened to be carrying"
+    {
+        "chi" "Kiki:顺便,这么久了,要喝杯咖啡吗?刚好我这里有"
+    }
+
+    "Kiki:Damn, it's that security system again, K destroy it quickly"
+    {
+        "chi" "Kiki:又是安全系统,快点搞定它,K"
+    }
+
+    "Kiki:Entering here is the inside of the facility..."
+    {
+        "chi" "Kiki:过了这里就到设施内部了..."
+    }
+
+    "Kiki:Finally, in front of the second core reactor"
+    {
+        "chi" "Kiki:终于,到第二处核心反应堆前了"
+    }
+
+    "Kiki:Great, we've destroyed the portal."
+    {
+        "chi" "Kiki:好的,我们毁掉传送门了"
+    }
+
+    "Kiki:Have you heard? 108 years ago, a search party found the last plant on a polluted planet"
+    {
+        "chi" "Kiki:听见了吗?108年前,一个探索小队在一个被污染的星球上找到了最后一株植物"
+    }
+
+    "KIki:He escaped to the upper levels. Let's chase him. We must extract from him what has happened here."
+    {
+        "chi" "Kiki:他逃去更上层了.我们去追他,得从他那里撬出来这里到底怎么了"
+    }
+
+    "Kiki:here seems to be something on the right-side wheel. Hurry and go check it out."
+    {
+        "chi" "Kiki:右边好像有什么.快点去检查一下"
+    }
+
+    "Kiki:He's trying to escape on an airship. Let's catch up quickly!"
+    {
+        "chi" "Kiki:它准备坐飞机跑路,我们快点"
+    }
+
+    "Kiki:Hey K, I found another one, praise me"
+    {
+        "chi" "Kiki:K,我找到了另一个,表扬下呗"
+    }
+
+    "Kiki:Hey K, look what I found, catch it"
+    {
+        "chi" "Kiki:K,看看我找到了什么,接着"
+    }
+
+    "Kiki:Hey! You still can't remember your name?"
+    {
+        "chi" "Kiki:你还是记不起来你的名字吗"
+    }
+
+    "Kiki:Hey, that's my pistol..."
+    {
+        "chi" "Kiki:Hey,那是我的手枪..."
+    }
+
+    "Kiki:Honestly, I'm a guide about to be eliminated"
+    {
+        "chi" "Kiki:老实讲,我是个将要被处理掉的向导"
+    }
+
+    "Kiki:How did he end up like this?"
+    {
+        "chi" "Kiki:他结局本不该如此"
+    }
+
+    "Kiki:I hate how the designers of this facility like to make the door switches so hard to open"
+    {
+        "chi" "Kiki:这里的设计者这么喜欢把门禁搞得这么麻烦,真令人讨厌"
+    }
+
+    "Kiki:I remember now, that sound is from the head of this research institute, Brand."
+    {
+        "chi" "Kiki:想起来了,那是这里的头头Brand的声音"
+    }
+
+    "Kiki:I saw an orange pipe on the way, and maybe we can get to the third core reactor from there"
+    {
+        "chi" "Kiki:我看到条橘色的管道,或许我们可以从那里到第三处反应堆那里去"
+    }
+
+    "Kiki:I was sent here to be your guide."
+    {
+        "chi" "Kiki:我被派到这里当你的向导"
+    }
+
+    "Kiki:I will, K."
+    {
+        "chi" "Kiki:K,我会的"
+    }
+
+    "Kiki:If you can take..."
+    {
+        "chi" "Kiki:如果你能..."
+    }
+
+    "Kiki:If you take my pistol, you protect me in case of danger"
+    {
+        "chi" "Kiki:如果你能拿着我的手枪,就能保护我免于危险"
+    }
+
+    "Kiki:I'm feeling a bit restless."
+    {
+        "chi" "Kiki:我感到非常不安"
+    }
+
+    "Kiki:It appears that Brand was ultimately eager to make achievements"
+    {
+        "chi" "Kiki:很明显Brand非常想要去搞点成就什么的"
+    }
+
+    "Kiki:It is too hard to call you without a name, so let's call you K for now"
+    {
+        "chi" "Kiki:你没有名字还是很难办的,暂时先叫你K吧"
+    }
+
+    "Kiki:It seems that he knows how to salvage this situation."
+    {
+        "chi" "Kiki:看起来他知道怎么挽回这种情况"
+    }
+
+    "Kiki:It seems that the assistant ended up being here in the end..."
+    {
+        "chi" "Kiki:貌似助手最终死在了这里..."
+    }
+
+    "Kiki:It seems that we have to look for these energy balls"
+    {
+        "chi" "Kiki:我们得去找到这些能量球"
+    }
+
+    "Kiki:It worked! Now just take the elevator up"
+    {
+        "chi" "Kiki:成功了!坐电梯上去吧"
+    }
+
+    "Kiki:It??s so dark, did the designer forget to make a lamp?"
+    {
+        "chi" "Kiki:太黑了,当初没给这装个灯吗"
+    }
+
+    "Kiki:It's a high-tech facility and we're right at the entrance"
+    {
+        "chi" "Kiki:我们就在这处高科技设施的入口处"
+    }
+
+    "Kiki:it's emitting a dangerous aura."
+    {
+        "chi" "Kiki:它正在发出危险的光"
+    }
+
+    "Kiki:It's my K"
+    {
+        "chi" "Kiki:如我名字一样的K"
+    }
+
+    "Kiki:Just thinking about what kind of consequences I might face after this mission is over... I'm uncertain."
+    {
+        "chi" "Kiki:刚在想这次任务结束后我会面临什么事情...我有点不确定"
+    }
+
+    "Kiki:K!watch out"
+    {
+        "chi" "Kiki:K!当心!"
+    }
+
+    "Kiki:K!WATCH OUT!"
+    {
+        "chi" "Kiki:K!当心!"
+    }
+
+    "Kiki:K, do you have any relatives or friends?"
+    {
+        "chi" "Kiki:K,你有什么亲近的人或者朋友什么的吗?"
+    }
+
+    "Kiki:K,The medical kit is on the left side's wheel."
+    {
+        "chi" "Kiki:K,医疗箱就在左边的轮子上"
+    }
+
+    "Kiki:Karl, we did it."
+    {
+        "chi" "Kiki:卡尔,我们做到了"
+    }
+
+    "Kiki:Karl... No, it should be 'Dad, welcome back.'"
+    {
+        "chi" "Kiki:卡尔...不,应该是爸爸,欢迎回来"
+    }
+
+    "Kiki:Karl... Who is he? I feel like I know him somehow."
+    {
+        "chi" "Kiki:卡尔...他是谁?我感觉好像认识他"
+    }
+
+    "Kiki:Look behind you, this core has a security system, pay attention to dodge"
+    {
+        "chi" "Kiki:当心身后,核心是一类安全系统,注意躲开"
+    }
+
+    "Kiki:Look, I found a diary"
+    {
+        "chi" "Kiki:看,我找到了一本日记"
+    }
+
+    "Kiki:Looks like we have to jump up and touch 8 energy balls to open the door"
+    {
+        "chi" "Kiki:看起来我们得跳起来碰那些能量球才能开门"
+    }
+
+    "Kiki:Maybe we won't be able to meet again after this mission is over."
+    {
+        "chi" "Kiki:或许结束以后我们就再也见不到了"
+    }
+
+    "Kiki:Never mind"
+    {
+        "chi" "Kiki:别在意"
+    }
+
+    "Kiki:No, the facility's security system is activated, which means we are considered the enemy"
+    {
+        "chi" "Kiki:不,设施的保全系统被激活了,我们被当成敌人了"
+    }
+
+    "Kiki:Now we go to destroy the portal."
+    {
+        "chi" "Kiki:现在我们去毁掉传送门吧"
+    }
+
+    "Kiki:Now we set off to destroy the portal."
+    {
+        "chi" "Kiki:现在准备好开始吧"
+    }
+
+    "Kiki:Ok, we successfully started the first core"
+    {
+        "chi" "Kiki:好的,我们成功启动了第一处核心"
+    }
+
+    "Kiki:one more, my friend"
+    {
+        "chi" "Kiki:还有一个,兄弟"
+    }
+
+    "Kiki:Our way is blocked"
+    {
+        "chi" "Kiki:我们被堵住了"
+    }
+
+    "Kiki:quick! Jump into the pipe in the middle and go to the sewers"
+    {
+        "chi" "Kiki:快点!跳进管道到下面那去"
+    }
+
+    "Kiki:Quick!we have to start the last core before the countdown ends"
+    {
+        "chi" "Kiki:快点!我们得在倒计时结束前启动最后一个核心"
+    }
+
+    "Kiki:Quick, get out of the way! The portal is releasing shockwaves. It doesn't want to be destroyed."
+    {
+        "chi" "Kiki:快躲开!传送门正在释放冲击波,它看来并不想被摧毁"
+    }
+
+    "Kiki:Some people's information is scattered here, who could it be?"
+    {
+        "chi" "Kiki:这里刻了一些信息,会是谁呢?"
+    }
+
+    "Kiki:Take these core energy sources with you"
+    {
+        "chi" "Kiki:带着这些核心之源"
+    }
+
+    "Kiki:That one is distributed by the company, if you lose it I will be penalized"
+    {
+        "chi" "Kiki:那一个被公司分开了,如果你丢了我会被处罚的"
+    }
+
+    "Kiki:That's why no one came out to meet us"
+    {
+        "chi" "Kiki:这就是为什么这里根本没人"
+    }
+
+    "Kiki:That's why you're here, your mission is to investigate what's going on here"
+    {
+        "chi" "Kiki:这也是你为什么会在这里,你的任务是搞明白这里发生了什么"
+    }
+
+    "Kiki:The creatures from the other realm have caught up as well."
+    {
+        "chi" "Kiki:异域来的生物也追上来了"
+    }
+
+    "Kiki:The desk is covered with a lot of research materials. It seems that the owner of this office holds a high position."
+    {
+        "chi" "Kiki:桌子上放着大量的研究资料.看起来这里的人所处位置很高"
+    }
+
+    "Kiki:The first location is the factory, it looks like we have to activate three cores to close the waste water gate in the middle"
+    {
+        "chi" "Kiki:第一处是工厂,我们得激活核心才能关闭水闸"
+    }
+
+    "Kiki:The road here is very difficult to walk, once a group of search teams were wiped out here..."
+    {
+        "chi" "Kiki:路很难走,曾经一组搜查队彻底消失在了这里"
+    }
+
+    "Kiki:There is a record of the entire facility, so we can know what happened here"
+    {
+        "chi" "Kiki:有一处有全设施的所有记录,这样我们可以知道这里发生了什么"
+    }
+
+    "Kiki:There is no way, we have to break the security system"
+    {
+        "chi" "Kiki:没别的办法了,我们得突破保全系统"
+    }
+
+    "Kiki:They say I have more emotions than the average tour guide"
+    {
+        "chi" "Kiki:他们说我的情感水平比向导们的平均值要高"
+    }
+
+    "Kiki:This facility is truly remarkable, having such mysterious underground passages."
+    {
+        "chi" "Kiki:这里确实令人注目,有真么多谜一样的地下通道"
+    }
+
+    "Kiki:This looks like a warehouse"
+    {
+        "chi" "Kiki:看起来是一处仓库"
+    }
+
+    "Kiki:This place is full of smells I don't like, find a way out"
+    {
+        "chi" "Kiki:充满了我不喜欢的味道,快点找路出去吧"
+    }
+
+    "Kiki:Though I hold no expectations, there is still not a single person here."
+    {
+        "chi" "Kiki:尽管我毫无期待,这里还是一个人都没有"
+    }
+
+    "Kiki:Through this underground passage we can reach the terminal processing facility"
+    {
+        "chi" "Kiki:通过这里我们能到终端处理设施那去"
+    }
+
+    "Kiki:Throw them into the core reactor to activate"
+    {
+        "chi" "Kiki:把它们扔进反应堆里,激活核心"
+    }
+
+    "Kiki:uh,Although I have heard that the road here is particularly complicated, there is no problem with the brain of the person who designed this, right?"
+    {
+        "chi" "Kiki:虽然已听闻过这里的路很复杂,但是设计它的人脑子真没毛病吗"
+    }
+
+    "Kiki:uh.Sorry? Did I talk too much?"
+    {
+        "chi" "Kiki:emm,是我话太多了吗?"
+    }
+
+    "Kiki:Wait, hold on. Brand has caught up again."
+    {
+        "chi" "Kiki:等等,Brand又追上来了"
+    }
+
+    "Kiki:wait, what happened, the whole room is changing"
+    {
+        "chi" "Kiki:等等,怎么回事,这个房间在变换"
+    }
+
+    "Kiki:We just need to toss this mini-bomb into the portal."
+    {
+        "chi" "Kiki:我们只需要把这个小炸弹扔进传送门"
+    }
+
+    "Kiki:What is that purple portal on the other side of the door? I've never seen anything like it..."
+    {
+        "chi" "Kiki:门另一边的紫色传送门是什么?我还从来没见过类似的"
+    }
+
+    "Kiki:What was that terrifying sound?"
+    {
+        "chi" "Kiki:什么b动静"
+    }
+
+    "Kiki:Who blocked the entrance here? It seems we'll have to find another way out."
+    {
+        "chi" "Kiki:有人封锁了这里的入口?看来我们得另外找路出去了"
+    }
+
+    "Kiki:Whose office is this? It's unexpectedly connected to such a mysterious passage."
+    {
+        "chi" "Kiki:这里是谁的办公室?不过不得不和一条神秘的信息联系起来了"
+    }
+
+    "Lily:Where am I?"
+    {
+        "chi" "Lily:我在哪里?"
+    }
+
+    "story1 unlock"
+    {
+        "chi" "故事一已解锁"
+    }
+
+    "story10 unlock"
+    {
+        "chi" "故事十已解锁"
+    }
+
+    "story2 unlock"
+    {
+        "chi" "故事二已解锁"
+    }
+
+    "story3 unlock"
+    {
+        "chi" "故事三已解锁"
+    }
+
+    "story4 unlock"
+    {
+        "chi" "故事四已解锁"
+    }
+
+    "story5 unlock"
+    {
+        "chi" "故事五已解锁"
+    }
+
+    "story6 unlock"
+    {
+        "chi" "故事六已解锁"
+    }
+
+    "story7 unlock"
+    {
+        "chi" "故事七已解锁"
+    }
+
+    "story8 unlock"
+    {
+        "chi" "故事八已解锁"
+    }
+
+    "story9 unlock"
+    {
+        "chi" "故事九已解锁"
+    }
+
+    "The portal to another world has been summoned...."
+    {
+        "chi" "通向另一个世界的传送门被召唤了..."
+    }
+
+    "You have found all the stories."
+    {
+        "chi" "你已经找到了所有的碎片"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置: 已关闭摔伤"
+    }
+
+}
