@@ -1,0 +1,1270 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** Admin has changed the stage to hard mode **"
+    {
+        "chi" "管理员已设置至关卡:困难"
+    }
+
+    "** Admin has changed the stage to normal mode **"
+    {
+        "chi" "管理员已设置至关卡:普通"
+    }
+
+    "** Admin has changed the stage to ultimate mode **"
+    {
+        "chi" "管理员已设置至关卡:终极"
+    }
+
+    "** Admin has changed the stage to warmup **"
+    {
+        "chi" "管理员已设置至关卡:热身"
+    }
+
+    "** Admin has set max tonberry quest **"
+    {
+        "chi" "管理员正在使用黑魔法"
+    }
+
+    "***Defend until the gates are open!**"
+    {
+        "chi" "守住!门就要开了"
+    }
+
+    "**[Ashelia] Gran Kiltias is waiting in the Hall of the Light**"
+    {
+        "chi" "基立提亚斯就在光明之庭"
+    }
+
+    "**[Ashelia] I hope the passages are not blocked. We can't lose any more time**"
+    {
+        "chi" "希望路没有堵住!不能再浪费时间了"
+    }
+
+    "**[Ashelia] This must be the old part of the temple**"
+    {
+        "chi" "这里应该就是了"
+    }
+
+    "**[Balthier] Anyway we need to get out of here! Imperial reinforcements incoming!**"
+    {
+        "chi" "我们得离开这里!帝国的增援就要到了"
+    }
+
+    "**[Balthier] He set his very bones about with manufacted nethicite**"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "**[Bash] Activate the teleport. It should take us to the temple**"
+    {
+        "chi" "激活传送!应该能带我们去神庙"
+    }
+
+    "**[Bash] Adrammelech blocked the path! Shoot him before is too late!**"
+    {
+        "chi" "快朝他射击,快点!"
+    }
+
+    "**[Bash] Adrammelech vanquished! Path is clear!**"
+    {
+        "chi" "道路已开放!"
+    }
+
+    "**[Bash] Calm down. Remember why refugees don't come here. We must be vigilant!**"
+    {
+        "chi" "冷静一下,想想为什么这里没有难民,保持警觉"
+    }
+
+    "**[Bash] Don't stay on sides! Get to the middle now!**"
+    {
+        "chi" "赶紧去中间!"
+    }
+
+    "**[Bash] Exodus summons great meteor! Get out of the middle!**"
+    {
+        "chi" "巨界流星!离开中间"
+    }
+
+    "**[Bash] Finally! Venat is dead! Now we can deal with Bergan!**"
+    {
+        "chi" "搞定了!继续攻击贝甘!"
+    }
+
+    "**[Bash] Find the way to the Hall of The Light and talk with Gran Kiltias**"
+    {
+        "chi" "想办法去光明之厅去,找到基里提亚斯"
+    }
+
+    "**[Bash] For years the Kiltia have lived here practicing their faith**"
+    {
+        "chi" "他在这里多年磨炼它们的信仰"
+    }
+
+    "**[Bash] Hurry and find a way to the lower parts of the Hall!**"
+    {
+        "chi" "快点到大厅下层去"
+    }
+
+    "**[Bash] Imperial Army trying to block the temple!**"
+    {
+        "chi" "帝国军队正在封锁神庙"
+    }
+
+    "**[Bash] It's the Tyrant! Shoot before it's too late!**"
+    {
+        "chi" "是暴君!快点快点!"
+    }
+
+    "**[Bash] Judge Bergan has casted his final attack! Kill him quickly!**"
+    {
+        "chi" "贝甘使用了最终攻击!快点!"
+    }
+
+    "**[Bash] Judge Bergan has summoned Venat! Kill him before is too late**"
+    {
+        "chi" "贝甘正在使用召唤技能!快点!"
+    }
+
+    "**[Bash] Judge Bergan used Magicite! We have to beat him! Quickly!**"
+    {
+        "chi" "贝甘正在使用魔法,需要快点击败他!"
+    }
+
+    "**[Bash] Keep your distance! We must defeat this creature as fast as possible**"
+    {
+        "chi" "保持距离!我们得尽快击败它"
+    }
+
+    "**[Bash] Look out! The Imperial Army is attacking!!**"
+    {
+        "chi" "当心!帝国军队正在攻击我们"
+    }
+
+    "**[Bash] Nades do more damage**"
+    {
+        "chi" "手雷会造成更多伤害"
+    }
+
+    "**[Bash] Oh no! We have been teleported to Giruvegan! It is the Tyrant!**"
+    {
+        "chi" "不,我们被传送进去了,是暴君"
+    }
+
+    "**[Bash] Only those gates will open but there are locked by a mystic spell**"
+    {
+        "chi" "门被魔法封印了,解开后就能打开"
+    }
+
+    "**[Bash] People who have lost their homes now live on the steep slope leading up to the temple**"
+    {
+        "chi" "失去家园的人们住在这一片可以带我们去到神庙"
+    }
+
+    "**[Bash] Prepare for battle! Do not get close or you will die immediately!**"
+    {
+        "chi" "准备战斗!不要离得太近!"
+    }
+
+    "**[Bash] Remember they may be dangerous!!!**"
+    {
+        "chi" "它们可能很危险"
+    }
+
+    "**[Bash] Remember trust no one!**"
+    {
+        "chi" "记住,不要相信任何人"
+    }
+
+    "**[Bash] Remember! Cast Blizzaga to take advantage of the Tyrant's weakness!**"
+    {
+        "chi" "在其虚弱时使用魔法以占得先机"
+    }
+
+    "**[Bash] Some of your items can damage the boss**"
+    {
+        "chi" "不分神器对Boss有伤害效果!"
+    }
+
+    "**[Bash] Stay focused! I have a feeling this isn't the end!**"
+    {
+        "chi" "专心点!我有预感还没有结束!"
+    }
+
+    "**[Bash] The exit is right in front of us! Get ready for the final battle**"
+    {
+        "chi" "出口就在眼前!准备好最后的战斗!"
+    }
+
+    "**[Bash] The gates are open. We have finally entered the temple**"
+    {
+        "chi" "门开了,我们终于进入了神庙"
+    }
+
+    "**[Bash] The Guard has vanquished! Keep runing!**"
+    {
+        "chi" "守护者战败了!继续前进"
+    }
+
+    "**[Bash] The Guard of the gates. If we want to escape we have to defeat him!**"
+    {
+        "chi" "大门的守护者,我们得击败他才能离开这里"
+    }
+
+    "**[Bash] The Imperial Army set fire to the temples!**"
+    {
+        "chi" "帝国军队在纵火!"
+    }
+
+    "**[Bash] The last guard has vanquished! Now we can meet Gran Kiltias!**"
+    {
+        "chi" "最后的守护者已经战败!我们就能找到基里提亚斯了"
+    }
+
+    "**[Bash] The mountain has seen more refugees than pilgrims in these times of war**"
+    {
+        "chi" "已经能看到越来越多的难民,比战争时期的朝圣者还多"
+    }
+
+    "**[Bash] The Sanctuary Keeper has casted its final attack! Kill him quickly!**"
+    {
+        "chi" "圣地守护者使用了最终攻击!快点!"
+    }
+
+    "**[Bash] They accepting refugees from all over Ivalice giving them food and shelter**"
+    {
+        "chi" "他们接受了所有伊瓦里斯的难民并为其提供庇护所与食物"
+    }
+
+    "**[Bash] To open them you must find and bless the holy statue!**"
+    {
+        "chi" "你需要找到并祝福神圣坐标"
+    }
+
+    "**[Bash] Watch out! It's not over yet!**"
+    {
+        "chi" "还没有结束!当心!"
+    }
+
+    "**[Bash] We do not know they set additional traps for us! Be vigilant! Hold here for 15 seconds!**"
+    {
+        "chi" "它们在这里设置了更多陷阱!还需要15秒!"
+    }
+
+    "**[Bash] We need to hold this area for 15 seconds!**"
+    {
+        "chi" "还需要15秒"
+    }
+
+    "**[Bash] We need to rest! Hold this area for 15 seconds until gates are open!**"
+    {
+        "chi" "休整一下!门还有15秒开启"
+    }
+
+    "**[Bash] We need to rest! Hold this area for 25 seconds until the gates are open!**"
+    {
+        "chi" "休整一下!门还有25秒开启"
+    }
+
+    "**[Bash] We shouldn't have come in here. Let's get out of here while we still can!**"
+    {
+        "chi" "我们就不该来这里!在走投无路之前赶紧出去"
+    }
+
+    "**[Bash] Well done! Hold this area for 20 seconds until the gates open!**"
+    {
+        "chi" "大门还有20秒开启"
+    }
+
+    "**[Bash] Well done! Hold this arena until the teleport is enabled!**"
+    {
+        "chi" "不错!坚持一会!传送就要开启了"
+    }
+
+    "**[Bash] Yes! It's the Sanctuary Keeper! The most dangerous guard! We must kill him before he kills us!**"
+    {
+        "chi" "那是圣地守护者!最危险的守卫!一定要想办法杀了它!"
+    }
+
+    "**[Setzer] **The temple is being attacked by the guardians!**"
+    {
+        "chi" "神庙正在被守护者攻击!"
+    }
+
+    "**[Setzer] Anyway find and talk with Gran Kiltias. Hope he acknowledge her as the rightful heir to the throne of Dalmasca!**"
+    {
+        "chi" "总之先找到他吧,希望他能承认其为达尔马斯卡的正统继承人"
+    }
+
+    "**[Setzer] Dark clouds begin to gather over Temple Grounds. This is a bad sign**"
+    {
+        "chi" "黑云笼罩在神庙上空,不好的象征"
+    }
+
+    "**[Setzer] Good luck!**"
+    {
+        "chi" "祝你们好运!"
+    }
+
+    "**[Setzer] Hold on! They blocking the path!**"
+    {
+        "chi" "坚持住!路被堵住了!"
+    }
+
+    "**[Setzer] Watch out! We clean them out!**"
+    {
+        "chi" "当心!把它们都清除掉"
+    }
+
+    "**[Setzer] We have finally arrived. Welcome to Mt Bur-Omisace**"
+    {
+        "chi" "终于到了!这里就是神都奥尔米赛斯"
+    }
+
+    "**[Setzer] We hit! We hit! We are going down!**"
+    {
+        "chi" "被击中了!就要坠落了!"
+    }
+
+    "**[Setzer] We meet soon after Ashe talk to Al-Cid Margrace of Rozarria!**"
+    {
+        "chi" "在那之后我们很快会相见的"
+    }
+
+    "**[Setzer] We still can stay here for a while"
+    {
+        "chi" "我们只能在这里再待一会"
+    }
+
+    "**[Setzer] You have to go the rest of the way on your own.Flying closer is prohibited!**"
+    {
+        "chi" "剩下的路你需要靠自己了,不能再靠近了!"
+    }
+
+    "**[Tonberry] Hello my friends! I sell and buy rare items! Take a look through my assortment**"
+    {
+        "chi" "你们好!我卖点小东西同时也搞回收!过来看看!"
+    }
+
+    "**[Tonberry] I lost my Workshop Keys could you help we find them?**"
+    {
+        "chi" "我丢失了所有的钥匙,你能帮忙找齐吗?"
+    }
+
+    "**[Tonberry] Still havent found all keys? You need to bring me 1 more keys**"
+    {
+        "chi" "还没有找齐吗?还有一个"
+    }
+
+    "**[Tonberry] Still havent found all keys? You need to bring me 2 more keys**"
+    {
+        "chi" "还没有找齐吗?还有二个"
+    }
+
+    "**[Tonberry] Still havent found all keys? You need to bring me 3 more keys**"
+    {
+        "chi" "还没有找齐吗?还有三个"
+    }
+
+    "**[Tonberry] Still havent found all keys? You need to bring me 4 more keys**"
+    {
+        "chi" "还没有找齐吗?还有四个"
+    }
+
+    "**[Tonberry] Still havent found all keys? You need to bring me 5 more keys**"
+    {
+        "chi" "还没有找齐吗?还有五个"
+    }
+
+    "**[Tonberry] Still havent found all keys? You need to bring me 6 more keys**"
+    {
+        "chi" "还没有找齐吗?还有六个"
+    }
+
+    "**[Tonberry] Still havent found all keys? You need to bring me 7 more keys**"
+    {
+        "chi" "还没有找齐吗?还有七个"
+    }
+
+    "**[Tonberry] Still havent found all keys? You need to bring me 8 more keys**"
+    {
+        "chi" "还没有找齐吗?还有八个"
+    }
+
+    "**[Tonberry] Still havent found all keys? You need to bring me 9 more keys**"
+    {
+        "chi" "还没有找齐吗?还有九个"
+    }
+
+    "**[Tonberry] Thanks as a gratitude I'll give you a small gift when you next time give back all Keys**"
+    {
+        "chi" "作为回报,你收集齐钥匙的时候我会送你们一个小礼物"
+    }
+
+    "**[Tonberry] Thanks for your help now I can go back to my own**"
+    {
+        "chi" "谢谢你们的帮助,现在我可以自己回去了"
+    }
+
+    "**[Tonberry] Visit my workshop! There's a reward waiting for you in the back**"
+    {
+        "chi" "到我的工场来吧,有一份奖励在等着你们"
+    }
+
+    "**[Vaan] Is that who I think it is!?**"
+    {
+        "chi" "真如我所想?"
+    }
+
+    "**[Vaan] Look! There is clean path! Keep running!**"
+    {
+        "chi" "这里有路!快走!"
+    }
+
+    "**[Vaan] We have to get out of here before the main gates collapses!**"
+    {
+        "chi" "我们得在大门崩塌前快点出去"
+    }
+
+    "**A player has picked up Aeraga Magick | Wind - level 3 |**"
+    {
+        "chi" "玩家已拾取风暴魔法,等级三"
+    }
+
+    "**A player has picked up Aerara Magick | Wind - level 2 |**"
+    {
+        "chi" "玩家已拾取风暴魔法,等级二"
+    }
+
+    "**A player has picked up Aero Magick | Wind - level 1 |**"
+    {
+        "chi" "玩家已拾取风暴魔法,等级一"
+    }
+
+    "**A player has picked up Aero Magick | Wind - level 4 |**"
+    {
+        "chi" "玩家已拾取风暴魔法,等级四"
+    }
+
+    "**A player has picked up Aqua Magick | Aqua - level 1 |**"
+    {
+        "chi" "玩家拾取了水魔法,等级一"
+    }
+
+    "**A player has picked up Aquaba Magick | Aqua - level 4 |**"
+    {
+        "chi" "玩家拾取了水魔法,等级四"
+    }
+
+    "**A player has picked up Aquaga Magick | Aqua - level 3 |**"
+    {
+        "chi" "玩家拾取了水魔法,等级三"
+    }
+
+    "**A player has picked up Aquara Magick | Aqua - level 2 |**"
+    {
+        "chi" "玩家拾取了水魔法,等级二"
+    }
+
+    "**A player has picked up Beastslayer Magick | Fear - level 4 |**"
+    {
+        "chi" "玩家拾起了恐惧,等级四"
+    }
+
+    "**A player has picked up Chain Bolter | Crossbow - level 5 |**"
+    {
+        "chi" "玩家拾起了弩箭,等级五"
+    }
+
+    "**A player has picked up Cobra Crossbow | Crossbow - level 3 |**"
+    {
+        "chi" "玩家拾起了弩箭,等级三"
+    }
+
+    "**A player has picked up Crossbow | Crossbow - level 1 |**"
+    {
+        "chi" "玩家拾起了弩箭,等级一"
+    }
+
+    "**A player has picked up Cura Magick | Heal - level 2 |**"
+    {
+        "chi" "玩家拾起了治愈魔法,等级二"
+    }
+
+    "**A player has picked up Cure Magick | Heal - level 1 |**"
+    {
+        "chi" "玩家拾起了治愈魔法,等级一"
+    }
+
+    "**A player has picked up Cure Magick | Heal - level 3 |**"
+    {
+        "chi" "玩家拾起了治愈魔法,等级三"
+    }
+
+    "**A player has picked up Cure Magick | Heal - level 4 |**"
+    {
+        "chi" "玩家拾起了治愈魔法,等级四"
+    }
+
+    "**A player has picked up Damaba Magick | Damage - level 4 |**"
+    {
+        "chi" "玩家拾取了爆伤魔法,等级四"
+    }
+
+    "**A player has picked up Damaga Magick | Damage - level 3 |**"
+    {
+        "chi" "玩家拾取了爆伤魔法,等级三"
+    }
+
+    "**A player has picked up Damage Magick | Damage - level 1 |**"
+    {
+        "chi" "玩家拾取了爆伤魔法,等级一"
+    }
+
+    "**A player has picked up Damagsa Magick | Damage - level 2 |**"
+    {
+        "chi" "玩家拾取了爆伤魔法,等级二"
+    }
+
+    "**A player has picked up Dark Magick | Dark - level 1 |**"
+    {
+        "chi" "玩家拾取了黑洞魔法,等级一"
+    }
+
+    "**A player has picked up Darkba Magick | Dark - level 4 |**"
+    {
+        "chi" "玩家拾取了黑洞魔法,等级四"
+    }
+
+    "**A player has picked up Darkga Magick | Dark - level 3 |**"
+    {
+        "chi" "玩家拾取了黑洞魔法,等级三"
+    }
+
+    "**A player has picked up Darkra Magick | Dark - level 2 |**"
+    {
+        "chi" "玩家拾取了黑洞魔法,等级二"
+    }
+
+    "**A player has picked up Dreaded Reaper Magick | Fear - level 3 |**"
+    {
+        "chi" "玩家拾起了恐惧,等级三"
+    }
+
+    "**A player has picked up Dreamwalker Magick | Speed - level 5 |**"
+    {
+        "chi" "玩家拾取了极速魔法,等级五"
+    }
+
+    "**A player has picked up Ensanguined Shield | Shield - level 1 |**"
+    {
+        "chi" "玩家拾取了护盾魔法,等级一"
+    }
+
+    "**A player has picked up Ensanguined Shield | Shield - level 2 |**"
+    {
+        "chi" "玩家拾取了护盾魔法,等级二"
+    }
+
+    "**A player has picked up Ensanguined Shield | Shield - level 3 |**"
+    {
+        "chi" "玩家拾取了护盾魔法,等级三"
+    }
+
+    "**A player has picked up Ensanguined Shield | Shield - level 4 |**"
+    {
+        "chi" "玩家拾取了护盾魔法,等级四"
+    }
+
+    "**A player has picked up Ensanguined Shield | Shield - level 5 |**"
+    {
+        "chi" "玩家拾取了护盾魔法,等级五"
+    }
+
+    "**A player has picked up Eternal Darkness Magick | Dark - level 5 |**"
+    {
+        "chi" "玩家拾取了黑洞魔法,等级五"
+    }
+
+    "**A player has picked up Fear Magick | Fear - level 1 |**"
+    {
+        "chi" "玩家拾起了恐惧,等级一"
+    }
+
+    "**A player has picked up Fira Magick | Fire - level 2 |**"
+    {
+        "chi" "玩家拾取了烈焰魔法,等级二"
+    }
+
+    "**A player has picked up Firaga Magick | Fire - level 3 |**"
+    {
+        "chi" "玩家拾取了烈焰魔法,等级三"
+    }
+
+    "**A player has picked up Fire Magick | Fire - level 1 |**"
+    {
+        "chi" "玩家拾取了烈焰魔法,等级四"
+    }
+
+    "**A player has picked up Fireba Magick | Fire - level 4 |**"
+    {
+        "chi" "玩家拾取了烈焰魔法,等级五"
+    }
+
+    "**A player has picked up Gunblade**"
+    {
+        "chi" "玩家拾取了枪刃"
+    }
+
+    "**A player has picked up Hastaga Magick | Speed - level 3 |**"
+    {
+        "chi" "玩家拾取了极速魔法,等级三"
+    }
+
+    "**A player has picked up Haste Magick | Speed - level 1 |**"
+    {
+        "chi" "玩家拾取了极速魔法,等级一"
+    }
+
+    "**A player has picked up Hasteba Magick | Speed - level 4 |**"
+    {
+        "chi" "玩家拾取了极速魔法,等级四"
+    }
+
+    "**A player has picked up Hastera Magick | Speed - level 2 |**"
+    {
+        "chi" "玩家拾取了极速魔法,等级二"
+    }
+
+    "**A player has picked up Heal Potion**"
+    {
+        "chi" "玩家拾取了治愈药水"
+    }
+
+    "**A player has picked up Hellforged Voice Magick | Fear - level 2 |**"
+    {
+        "chi" "玩家拾起了恐惧,等级二"
+    }
+
+    "**A player has picked up Inferno Magick | Fire - level 5 |**"
+    {
+        "chi" "玩家拾取了烈焰魔法,等级五"
+    }
+
+    "**A player has picked up Judge Bergan**"
+    {
+        "chi" "有玩家已成为审判长贝甘"
+    }
+
+    "**A player has picked up Judge Drace**"
+    {
+        "chi" "有玩家已成为审判长迪瑞斯"
+    }
+
+    "**A player has picked up Judge Gabranth**"
+    {
+        "chi" "有玩家已成为审判长伽布拉斯"
+    }
+
+    "**A player has picked up Judge Zargabaath**"
+    {
+        "chi" "有玩家已成为审判长扎尔加巴斯"
+    }
+
+    "**A player has picked up Leviathan Magick | Aqua - level 5 |**"
+    {
+        "chi" "玩家拾取了水魔法,等级五"
+    }
+
+    "**A player has picked up Limit Break Magick | Ultima - level 1 |**"
+    {
+        "chi" "玩家拾取了极限超越,等级一"
+    }
+
+    "**A player has picked up Limit Break Magick | Ultima - level 2 |**"
+    {
+        "chi" "玩家拾取了极限超越,等级二"
+    }
+
+    "**A player has picked up Limit Break Magick | Ultima - level 3 |**"
+    {
+        "chi" "玩家拾取了极限超越,等级三"
+    }
+
+    "**A player has picked up Limit Break Magick | Ultima - level 4 |**"
+    {
+        "chi" "玩家拾取了极限超越,等级四"
+    }
+
+    "**A player has picked up Limit Break Magick | Ultima - level 5 |**"
+    {
+        "chi" "玩家拾取了极限超越,等级五"
+    }
+
+    "**A player has picked up Mana Potion**"
+    {
+        "chi" "玩家拾取了Mana药水"
+    }
+
+    "**A player has picked up Nature's Embrace Magick | Sand - level 5 |**"
+    {
+        "chi" "玩家拾起了沙暴魔法,等级五"
+    }
+
+    "**A player has picked up Oil Magick | Oil - level 1 |**"
+    {
+        "chi" "玩家拾起了黏油,等级一"
+    }
+
+    "**A player has picked up Oila Magick | Oil - level 2 |**"
+    {
+        "chi" "玩家拾起了黏油,等级二"
+    }
+
+    "**A player has picked up Oilaga Magick | Oil - level 3 |**"
+    {
+        "chi" "玩家拾起了黏油,等级三"
+    }
+
+    "**A player has picked up Oilba Magick | Oil - level 4 |**"
+    {
+        "chi" "玩家拾起了黏油,等级四"
+    }
+
+    "**A player has picked up Rage of the Skies Magick | Thunder - level 5 |**"
+    {
+        "chi" "玩家拾起了雷电魔法,等级五"
+    }
+
+    "**A player has picked up Restoration Magick | Heal - level 5 |**"
+    {
+        "chi" "玩家拾起了治愈魔法,等级五"
+    }
+
+    "**A player has picked up Sand Magick | Sand - level 1 |**"
+    {
+        "chi" "玩家拾起了沙暴魔法,等级一"
+    }
+
+    "**A player has picked up Sandaga Magick | Sand - level 3 |**"
+    {
+        "chi" "玩家拾起了沙暴魔法,等级三"
+    }
+
+    "**A player has picked up Sandba Magick | Sand - level 4 |**"
+    {
+        "chi" "玩家拾起了沙暴魔法,等级四"
+    }
+
+    "**A player has picked up Sandra Magick | Sand - level 2 |**"
+    {
+        "chi" "玩家拾起了沙暴魔法,等级二"
+    }
+
+    "**A player has picked up Soulshredder Magick | Fear - level 5 |**"
+    {
+        "chi" "玩家拾起了恐惧,等级五"
+    }
+
+    "**A player has picked up Spectral Dimensions Magick | Oil - level 5 |**"
+    {
+        "chi" "玩家拾起了黏油,等级五"
+    }
+
+    "**A player has picked up Sword of Kings**"
+    {
+        "chi" "玩家拾起了王者之剑"
+    }
+
+    "**A player has picked up The Avenger Magick | Damage - level 5 |**"
+    {
+        "chi" "玩家拾起了复仇魔法,等级五"
+    }
+
+    "**A player has picked up The Devileye | Crossbow - level 4 |**"
+    {
+        "chi" "玩家拾起了弩箭,等级四"
+    }
+
+    "**A player has picked up Thundaga Magick | Thunder - level 3 |**"
+    {
+        "chi" "玩家拾起了雷电魔法,等级三"
+    }
+
+    "**A player has picked up Thundara Magick | Thunder - level 2 |**"
+    {
+        "chi" "玩家拾起了雷电魔法,等级二"
+    }
+
+    "**A player has picked up Thundba Magick | Thunder - level 4 |**"
+    {
+        "chi" "玩家拾起了雷电魔法,等级四"
+    }
+
+    "**A player has picked up Thunder Magick | Thunder - level 1 |**"
+    {
+        "chi" "玩家拾起了雷电魔法,等级一"
+    }
+
+    "**A player has picked up Ultimate Blade**"
+    {
+        "chi" "玩家拾起了终极之剑"
+    }
+
+    "**A player has picked up Umbral Crossbow | Crossbow - level 2 |**"
+    {
+        "chi" "玩家拾取了弩箭,等级二"
+    }
+
+    "**A player has picked up Underworld Rod**"
+    {
+        "chi" "玩家获得了地狱之杖"
+    }
+
+    "**A player has picked up Wind Storm Magick | Wind - level 5 |**"
+    {
+        "chi" "玩家已拾取风暴魔法,等级五"
+    }
+
+    "**A player has picked up Zombie Dark Magick | Gravity - level 1 |**"
+    {
+        "chi" "僵尸已获得黑暗魔法,等级一"
+    }
+
+    "**A player has picked up Zombie Darkba Magick | Gravity - level 4 |**"
+    {
+        "chi" "僵尸已获得黑暗魔法,等级四"
+    }
+
+    "**A player has picked up Zombie Darkga Magick | Gravity - level 3 |**"
+    {
+        "chi" "僵尸已获得黑暗魔法,等级三"
+    }
+
+    "**A player has picked up Zombie Darkra Magick | Gravity - level 2 |**"
+    {
+        "chi" "僵尸已获得黑暗魔法,等级二"
+    }
+
+    "**A player has picked up Zombie Eternal Darkness Magick | Gravity - level 5 |**"
+    {
+        "chi" "僵尸已获得无边黑暗,等级五"
+    }
+
+    "**All Bergan attacks do double damage!**"
+    {
+        "chi" "贝甘的攻击伤害加倍"
+    }
+
+    "**Defend for 10 seconds until the path is clear!**"
+    {
+        "chi" "道路还有10秒清理完成"
+    }
+
+    "**Defend here for 10 seconds until the gates open**"
+    {
+        "chi" "门开还有10秒"
+    }
+
+    "**Defend here for 15 seconds until the gates open**"
+    {
+        "chi" "门开还有15秒"
+    }
+
+    "**Get out of the middle now!**"
+    {
+        "chi" "离开中间!"
+    }
+
+    "**Get to the teleport to to avoid death!**"
+    {
+        "chi" "进入传送以逃离这一切"
+    }
+
+    "**Hold here for 28 seconds until the teleport is enabled!**"
+    {
+        "chi" "传送还有28秒启动"
+    }
+
+    "**Hold here! Gates will open in 10 seconds!**"
+    {
+        "chi" "大门还有10秒开启"
+    }
+
+    "**Hold this area for 15 seconds!**"
+    {
+        "chi" "还需要15秒"
+    }
+
+    "**Hold this area for 18 seconds!**"
+    {
+        "chi" "在这里坚持18秒"
+    }
+
+    "**Judge Bergan has cased Flash of Burning Souls!**"
+    {
+        "chi" "贝甘使用了燃尽之闪耀!"
+    }
+
+    "**Judge Bergan has casted 1000 Needles!**"
+    {
+        "chi" "贝甘使用了千针本!"
+    }
+
+    "**Judge Bergan has casted Aura of Water!**"
+    {
+        "chi" "贝甘使用了水华之光!"
+    }
+
+    "**Judge Bergan has casted Blazing Surge!**"
+    {
+        "chi" "贝甘使用了闪电浪潮!"
+    }
+
+    "**Judge Bergan has casted Carnage of Energy!**"
+    {
+        "chi" "贝甘使用了能量爆散!"
+    }
+
+    "**Judge Bergan has casted Ceremony of the Nether!**"
+    {
+        "chi" "贝甘使用了幽冥圣典!"
+    }
+
+    "**Judge Bergan has casted Clarity of Fear!**"
+    {
+        "chi" "贝甘使用了恐惧析出!"
+    }
+
+    "**Judge Bergan has casted Concentration of Reason!**"
+    {
+        "chi" "贝甘使用了理智集中!"
+    }
+
+    "**Judge Bergan has casted Dedication Aura!**"
+    {
+        "chi" "贝甘使用了献祭之光!"
+    }
+
+    "**Judge Bergan has casted Demonic Rain!**"
+    {
+        "chi" "贝甘使用了恶魔之雨!"
+    }
+
+    "**Judge Bergan has casted Flash of Shattering!**"
+    {
+        "chi" "贝甘使用了闪耀破碎!"
+    }
+
+    "**Judge Bergan has casted Frost Bolt!**"
+    {
+        "chi" "贝甘使用了霜冻闪电!"
+    }
+
+    "**Judge Bergan has casted Illusion of Souls!**"
+    {
+        "chi" "贝甘使用了灵魂幻影!"
+    }
+
+    "**Judge Bergan has casted Inferno Orb!**"
+    {
+        "chi" "贝甘使用了烈焰法球!"
+    }
+
+    "**Judge Bergan has casted Mystic Hail!**"
+    {
+        "chi" "贝甘使用了秘法袭击!"
+    }
+
+    "**Judge Bergan has casted Rage of Magic!**"
+    {
+        "chi" "贝甘使用了魔法暴怒!"
+    }
+
+    "**Judge Bergan has casted Rain of Magic!**"
+    {
+        "chi" "贝甘使用了魔法之雨!"
+    }
+
+    "**Judge Bergan has casted Severance of the Arcane!**"
+    {
+        "chi" "贝甘使用了奥数断绝!"
+    }
+
+    "**Judge Bergan has casted Spell of Demon Blade!**"
+    {
+        "chi" "贝甘使用了妖魔之剑!"
+    }
+
+    "**Judge Bergan has casted Spell of Demon Fire!**"
+    {
+        "chi" "贝甘使用了妖魔之火!"
+    }
+
+    "**Judge Bergan has casted Spellshield of the Total Eclipse!**"
+    {
+        "chi" "贝甘使用了日冕之盾!"
+    }
+
+    "**Judge Bergan has casted Vision of Life!**"
+    {
+        "chi" "贝甘使用了生命幻视!"
+    }
+
+    "**Judge Bergan has casted Wind Salvo!**"
+    {
+        "chi" "贝甘使用了暴风齐射!"
+    }
+
+    "**Judge Bergan is going to throw his blade! Do not stay together!**"
+    {
+        "chi" "贝甘会投出手里的剑,不要站在一起!"
+    }
+
+    "**Judge Bergan summons Bahamut limit!**"
+    {
+        "chi" "贝甘召唤了Bahamut"
+    }
+
+    "**Judge Bergan summons Chaos limit!**"
+    {
+        "chi" "贝甘召唤了Chaos"
+    }
+
+    "**Judge Bergan summons Dark Bahamut limit!**"
+    {
+        "chi" "贝甘召唤了Dark Bahamut"
+    }
+
+    "**Judge Bergan summons Exodus limit!**"
+    {
+        "chi" "贝甘召唤了Exodus"
+    }
+
+    "**Judge Bergan summons Famfirt limit!**"
+    {
+        "chi" "贝甘召唤了Famfirt"
+    }
+
+    "**Main gates of the temple are blocked! Find another way!**"
+    {
+        "chi" "大门被堵住了!找其他的路!"
+    }
+
+    "**Map Status: No Stripper!**"
+    {
+        "chi" "地图版本:无修改"
+    }
+
+    "**Nades do more damage!**"
+    {
+        "chi" "手雷会造成更多伤害"
+    }
+
+    "**Nades do more damage**"
+    {
+        "chi" "手雷能造成更多伤害"
+    }
+
+    "**Run forward to the old part of the temple!**"
+    {
+        "chi" "前往神庙旧时修建的区域"
+    }
+
+    "**Sanctuary Keeper has casted Ancestor's Explosion!**"
+    {
+        "chi" "守护者使用了远古爆裂!"
+    }
+
+    "**Sanctuary Keeper has casted Annihilate!**"
+    {
+        "chi" "守护者使用了歼灭!"
+    }
+
+    "**Sanctuary Keeper has casted Blessing of Ancestorsl**"
+    {
+        "chi" "守护者使用了先祖庇护!"
+    }
+
+    "**Sanctuary Keeper has casted Carnage of Phantoms!**"
+    {
+        "chi" "守护者使用了幻影屠杀!"
+    }
+
+    "**Sanctuary Keeper has casted Interruption Seal!**"
+    {
+        "chi" "守护者使用了中断封印!"
+    }
+
+    "**Sanctuary Keeper has casted Mind Tempestl**"
+    {
+        "chi" "守护者使用了心灵风暴"
+    }
+
+    "**Sanctuary Keeper has casted Shadow Blastl!**"
+    {
+        "chi" "守护者使用了暗影爆破!"
+    }
+
+    "**Sanctuary Keeper has casted Solar Orb!**"
+    {
+        "chi" "守护者使用了炎阳法球!"
+    }
+
+    "**Sanctuary Keeper has casted Wave of Redemptionl**"
+    {
+        "chi" "守护者使用了救赎波涛"
+    }
+
+    "**Sanctuary Keeper has casted Wind Rage!**"
+    {
+        "chi" "守护者使用了暴风之怒!"
+    }
+
+    "**Stage completed!**"
+    {
+        "chi" "关卡已完成!"
+    }
+
+    "**Temple Approach segment will unlock in 10 seconds!**"
+    {
+        "chi" "还有10秒"
+    }
+
+    "**The Gates of Temple will open in 35 seconds!**"
+    {
+        "chi" "神庙的门35秒后开启"
+    }
+
+    "**The Gates of Temple will open soon!**"
+    {
+        "chi" "神庙的门就要打开了!"
+    }
+
+    "**The gates will open in 30 seconds**"
+    {
+        "chi" "大门还有30秒开启"
+    }
+
+    "**The Sanctuary Keeper has vanquished!**"
+    {
+        "chi" "圣地守护者已战败!"
+    }
+
+    "**The Tyrant has vanquished!**"
+    {
+        "chi" "Tyrant战败了"
+    }
+
+    "**The way is open! Keep running!**"
+    {
+        "chi" "路开了!快点走!"
+    }
+
+    "**Touch all statues to interrupt the attack**"
+    {
+        "chi" "触碰所有的雕塑以打断攻击!"
+    }
+
+    "**Try to destroy the Woods to get in!**"
+    {
+        "chi" "想办法进去!"
+    }
+
+    "**Tyrant has casted Acid Rush!**"
+    {
+        "chi" "Tyrant使用了强酸腐蚀!"
+    }
+
+    "**Tyrant has casted Blast of Arcane Energy!**"
+    {
+        "chi" "Tyrant使用了奥数爆破!"
+    }
+
+    "**Tyrant has casted Blessing of Ancestors!**"
+    {
+        "chi" "Tyrant使用了先祖庇护!"
+    }
+
+    "**Tyrant has casted Chaos Ray!**"
+    {
+        "chi" "Tyrant使用了混乱射线!"
+    }
+
+    "**Tyrant has casted Entangling Orb!**"
+    {
+        "chi" "Tyrant使用了纠缠法球!"
+    }
+
+    "**Tyrant has casted Flame Wrath!**"
+    {
+        "chi" "Tyrant使用了暴怒烈焰!"
+    }
+
+    "**Tyrant has casted Hex of the Void!**"
+    {
+        "chi" "Tyrant使用了无边虚空!"
+    }
+
+    "**Tyrant has casted Infernal Storm!**"
+    {
+        "chi" "Tyrant使用了地狱火风暴!"
+    }
+
+    "**Tyrant has casted Rain of Burning Souls!**"
+    {
+        "chi" "Tyrant使用了燃尽之雨!"
+    }
+
+    "**Tyrant has casted Sanctimony of Armor!**"
+    {
+        "chi" "Tyrant使用了装甲伪造!"
+    }
+
+    "**Watch out! They are shooting us!**"
+    {
+        "chi" "小心!它们在攻击我们!"
+    }
+
+    "**We are almost at temple grounds**"
+    {
+        "chi" "马上就到了"
+    }
+
+    "**We must try to get inside the temple!**"
+    {
+        "chi" "必须想办法进到神庙里去"
+    }
+
+    "**You are too slow**"
+    {
+        "chi" "你太慢了"
+    }
+
+    "**YOU MUST KILL ALL ZOMBIES TO WIN***"
+    {
+        "chi" "你必须杀掉所有僵尸"
+    }
+
+    "**YOU MUST TO KILL ALL THE ZOMBIES TO WIN**"
+    {
+        "chi" "你必须清理掉剩下的僵尸..."
+    }
+
+    "[Bash] Judge is dead! Keep running!!**"
+    {
+        "chi" "审判长被击败了!继续往前走!!"
+    }
+
+}
