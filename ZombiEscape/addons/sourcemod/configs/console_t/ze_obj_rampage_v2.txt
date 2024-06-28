@@ -1,0 +1,204 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "<<<Good luck.>>>"
+    {
+        "chi" "祝你们好运"
+    }
+
+    "<<<No one is more deserving of a rest, all the effort in the world would have gone to waste.>>>"
+    {
+        "chi" "不能再停下来了,所有努力都会因此而白费"
+    }
+
+    "<<<Rise and shine, Soldiers with burning heart.>>>"
+    {
+        "chi" "去征战四方吧,拥有火热之心的战士们"
+    }
+
+    "<<<The right man in the wrong place can make all the difference in the world.>>>"
+    {
+        "chi" "无论何时都要去做正确的事,不然可能会彻底改变这一切"
+    }
+
+    "<<<Wake up and smell the Ashes.>>>"
+    {
+        "chi" "好了,是时候了"
+    }
+
+    "<<<your hour is come again.>>>"
+    {
+        "chi" "又到了你们出场的时候了"
+    }
+
+    "Bad feelings..."
+    {
+        "chi" "不好的感觉..."
+    }
+
+    "Break the laser power switch!"
+    {
+        "chi" "击碎电力开关!!!"
+    }
+
+    "Door is opening"
+    {
+        "chi" "门正在开启!"
+    }
+
+    "Find a way to get into the room!"
+    {
+        "chi" "想办法进去!"
+    }
+
+    "Find a way to turn off the gas"
+    {
+        "chi" "想办法关掉瓦斯管道"
+    }
+
+    "Get in and keep holding until the door is closed!"
+    {
+        "chi" "进来!继续防守!门就要关上了!"
+    }
+
+    "Get inside !"
+    {
+        "chi" "快进来!"
+    }
+
+    "GET ON THE ELEVATOR"
+    {
+        "chi" "到电梯这里来"
+    }
+
+    "GET ON THE HELICOPTER"
+    {
+        "chi" "到直升机上来"
+    }
+
+    "Get on the roof!!!"
+    {
+        "chi" "到上面去!!!"
+    }
+
+    "Let's get out of here."
+    {
+        "chi" "我们离开这里!"
+    }
+
+    "Objective Rampage - Chapter Fire"
+    {
+        "chi" "赴汤蹈火,在所不辞"
+    }
+
+    "Power has been Activated"
+    {
+        "chi" "电力已启动!"
+    }
+
+    "Prepare to fight until the end."
+    {
+        "chi" "战个痛快!"
+    }
+
+    "Prepare.."
+    {
+        "chi" "准备好..."
+    }
+
+    "Put the valve on and turn it"
+    {
+        "chi" "安装阀门并转动它"
+    }
+
+    "Rampage Mode on"
+    {
+        "chi" "向死而生"
+    }
+
+    "RUN"
+    {
+        "chi" "快跑"
+    }
+
+    "Stay inside the room until the zombies outside get teleport!"
+    {
+        "chi" "呆在这里!僵尸一会被传送"
+    }
+
+    "The door opening in 15s"
+    {
+        "chi" "还有15秒"
+    }
+
+    "The doors opening in 30s"
+    {
+        "chi" "还有30秒"
+    }
+
+    "Watch out!"
+    {
+        "chi" "当心!"
+    }
+
+    "We need to hack the computer and upload the virus!"
+    {
+        "chi" "我们需要骇入电脑并上传病毒"
+    }
+
+    "we need to turn on the stovepipe to break a way!"
+    {
+        "chi" "我们得破开烟囱找寻出路!!"
+    }
+
+    "we still alive.."
+    {
+        "chi" "我们还活着..."
+    }
+
+    "[MapRelay]  Set falldamage to 0.8"
+    {
+        "chi" "地图设置: 已设置摔伤"
+    }
+
+    "10 seconds"
+    {
+        "chi" "还有10秒"
+    }
+
+    "20 seconds"
+    {
+        "chi" "还有20秒"
+    }
+
+    "30 seconds"
+    {
+        "chi" "还有30秒"
+    }
+
+    "50 seconds"
+    {
+        "chi" "还有50秒"
+    }
+
+    "60 seconds"
+    {
+        "chi" "还有60秒"
+    }
+
+    "90 seconds"
+    {
+        "chi" "还有90秒"
+    }
+
+}

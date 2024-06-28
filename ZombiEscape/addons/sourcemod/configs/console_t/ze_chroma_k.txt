@@ -1,0 +1,98 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "** You have 400 seconds to kill the boss **"
+    {
+        "chi" "你有大约七分钟的时间来结束这一切"
+    }
+
+    "** You have 60 seconds left to kill the boss **"
+    {
+        "chi" "你仍有60秒"
+    }
+
+    "** YOU HAVE RUN OUT OF TIME !! **"
+    {
+        "chi" "时间即将耗尽"
+    }
+
+    "*** 1 ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** 15 seconds ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** 2 ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** 3 ***"
+    {
+        "chi" "还有3秒"
+    }
+
+    "*** 45 seconds ***"
+    {
+        "chi" "还有45秒"
+    }
+
+    "*** 5 seconds ***"
+    {
+        "chi" "__null__"
+        "blocked" "1"
+    }
+
+    "*** Blue-Yellow has been acquired ***"
+    {
+        "chi" "青黄已被拾取"
+    }
+
+    "*** Chromatic Heal has been acquired ***"
+    {
+        "chi" "彩色治疗已被拾取"
+    }
+
+    "*** Green-Magenta has been acquired ***"
+    {
+        "chi" "洋红已被拾取"
+    }
+
+    "*** Map by Soft Serve ***"
+    {
+        "chi" "地图由SoftServe制作"
+    }
+
+    "*** Red-Cyan has been acquired ***"
+    {
+        "chi" "红蓝已被拾取"
+    }
+
+    "*** Round failed! Zombies have reached the objective! ***"
+    {
+        "chi" "回合已结束!僵尸胜利!"
+    }
+
+    "*** TBC ***"
+    {
+        "chi" "未完待续"
+    }
+
+}

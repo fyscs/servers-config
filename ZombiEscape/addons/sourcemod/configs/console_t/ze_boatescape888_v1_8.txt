@@ -1,0 +1,124 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "**Airboats will depart in 30 seconds**"
+    {
+        "chi" "小飞机30秒后离开"
+    }
+
+    "**Baka!!!**"
+    {
+        "chi" "你是一个一个一个!!!"
+    }
+
+    "**But......Pass the final one, good luck!!!**"
+    {
+        "chi" "但是...还有最后一关,祝你好运!!!"
+    }
+
+    "**EndRound**"
+    {
+        "chi" "回合结束"
+    }
+
+    "**Extreme Mode : On**"
+    {
+        "chi" "Extreme模式: 已启动"
+    }
+
+    "**How many can you pass?**"
+    {
+        "chi" "说得好,但是又能过几个?"
+    }
+
+    "**If you dont want to participate, go to the boat on the right**"
+    {
+        "chi" "如果你们想相互卷一卷,去右边的船上"
+    }
+
+    "**Random 6  from all**"
+    {
+        "chi" "从图池随机抽选六关"
+    }
+
+    "**Shit Mode Youth**"
+    {
+        "chi" "脑蚕模式: 青春版"
+    }
+
+    "**Shit Mode**"
+    {
+        "chi" "脑蚕模式: 完整版"
+    }
+
+    "**So how many did you pass**"
+    {
+        "chi" "所以又能过几个"
+    }
+
+    "**Super Run**"
+    {
+        "chi" "超级跑跑"
+    }
+
+    "**The airboat will depart in 28 seconds**"
+    {
+        "chi" "小飞船28秒后离开"
+    }
+
+    "**The boat will depart in 25 seconds**"
+    {
+        "chi" "小船25秒后离开"
+    }
+
+    "**The door will close in 10 seconds**"
+    {
+        "chi" "门还有10秒关闭"
+    }
+
+    "**The door will close in 20 seconds**"
+    {
+        "chi" "门还有20秒关闭"
+    }
+
+    "**The jet boat will depart in 18 seconds**"
+    {
+        "chi" "小飞机18秒后离开"
+    }
+
+    "**Waiting 14 seconds**"
+    {
+        "chi" "还要等待14秒"
+    }
+
+    "**Waiting 15 seconds**"
+    {
+        "chi" "等待15秒"
+    }
+
+    "**You are the initial legend!!!**"
+    {
+        "chi" "你就是清朝高玩!!!"
+    }
+
+    "**You have passed all**"
+    {
+        "chi" "你通过了所有的挑战"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}

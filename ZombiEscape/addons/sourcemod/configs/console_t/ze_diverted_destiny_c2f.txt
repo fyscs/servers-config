@@ -1,0 +1,129 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "15"
+    {
+        "chi" "还有15秒"
+    }
+
+    "20"
+    {
+        "chi" "还有20秒"
+    }
+
+    "25"
+    {
+        "chi" "还有25秒"
+    }
+
+    "30"
+    {
+        "chi" "还有30秒"
+    }
+
+    "35"
+    {
+        "chi" "还有35秒"
+    }
+
+    "40"
+    {
+        "chi" "还有40秒"
+    }
+
+    "60"
+    {
+        "chi" "还有60秒"
+    }
+
+    "An autokill has been prevented"
+    {
+        "chi" "阻止了一次神罚"
+    }
+
+    "An autokiller has been prevented"
+    {
+        "chi" "已阻止神罚启动!"
+    }
+
+    "Flamethrower Item is ready"
+    {
+        "chi" "火焰已就绪"
+    }
+
+    "Heal is ready"
+    {
+        "chi" "治疗已就绪"
+    }
+
+    "Lift will rise in 30"
+    {
+        "chi" "平台30秒后上升"
+    }
+
+    "Metal pipe has a 1 in a 16 chance to actually do something :)"
+    {
+        "chi" "钢管只有十六分之一的概率能真正发挥点作用?"
+    }
+
+    "No humans on the platform detected!"
+    {
+        "chi" "禁止进入!"
+    }
+
+    "No one is on the platform!"
+    {
+        "chi" "禁止进入此地!"
+    }
+
+    "PHASE ONE has been beaten"
+    {
+        "chi" "阶段一已击败"
+    }
+
+    "PHASE THREE has been beaten, an auto kill has been prevented"
+    {
+        "chi" "阶段三已击败,已阻止核爆"
+    }
+
+    "PHASE TWO has been beaten"
+    {
+        "chi" "阶段二已击败"
+    }
+
+    "Platform will rise in 15s"
+    {
+        "chi" "平台15秒后上升"
+    }
+
+    "Solar Flare used"
+    {
+        "chi" "太阳耀斑已使用"
+    }
+
+    "You failed to kill it in time"
+    {
+        "chi" "太迟了..."
+    }
+
+    "Zombies TP in 10"
+    {
+        "chi" "僵尸10秒后传送"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}

@@ -1,0 +1,89 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "Defensive for 30 seconds"
+    {
+        "chi" "还需要30秒"
+    }
+
+    "Deployed C4"
+    {
+        "chi" "放置炸药!"
+    }
+
+    "Power has been turned on"
+    {
+        "chi" "电力已恢复!"
+    }
+
+    "Power supply connected"
+    {
+        "chi" "电源已连接"
+    }
+
+    "The cable car will depart in 30 seconds"
+    {
+        "chi" "缆车将于30秒后离开"
+    }
+
+    "The gate is starting"
+    {
+        "chi" "大门启动了"
+    }
+
+    "There is still 10 seconds of rest time left"
+    {
+        "chi" "还需要10秒"
+    }
+
+    "There is still 15 seconds of rest time left"
+    {
+        "chi" "还剩下15秒"
+    }
+
+    "Wait for 15 seconds"
+    {
+        "chi" "等待15秒"
+    }
+
+    "Wait for 20 seconds"
+    {
+        "chi" "还需要20秒"
+    }
+
+    "Wait for 20 seconds to start the elevator"
+    {
+        "chi" "启动电梯还需要20秒"
+    }
+
+    "Wait for 25 seconds"
+    {
+        "chi" "等待25秒"
+    }
+
+    "Wait for 30 seconds"
+    {
+        "chi" "等待30秒"
+    }
+
+    "Wait for 30 seconds to start the elevator"
+    {
+        "chi" "启动电梯需要30秒"
+    }
+
+    "We need to start the generator below before we can start the cable car"
+    {
+        "chi" "我们得启动发电机,缆车才能启动"
+    }
+
+}

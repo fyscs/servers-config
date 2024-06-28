@@ -1,0 +1,564 @@
+"Console_T"
+{
+    // Console SayText i18n file generator.
+    // Copyright 2023 Kyle 'Kxnrl' Frankiss 
+    // https://github.com/fys-csgo/Server-Configs-Generator
+
+    // 可用字段
+    // "blocked"    // 屏蔽本句输出
+    // "cleartext"  // 清除所有HUD文本
+    // "cleartimer" // 清除所有倒计时
+    // "countdown"  // 添加特殊的独立的倒计时
+
+
+    "*** I have to settle some debts....may the white light guide your way....***"
+    {
+        "chi" "我还有些事情要处理,愿圣光指引你前进的道路..."
+    }
+
+    "*** This map has been authorized to be migrated for demon***"
+    {
+        "chi" "地图已被授权移植"
+    }
+
+    "*** you have to take this portal to get back to the castle, I will be there to help you soon***"
+    {
+        "chi" "你得通过传送回城堡去,我会在那帮助你"
+    }
+
+    "***ALL ATTACKS BUFFED FOR 20 SECONDS***"
+    {
+        "chi" "所有攻击已被强化"
+    }
+
+    "***Balrog used Blazing Meteors***"
+    {
+        "chi" "巴洛克使用了炽热流星"
+    }
+
+    "***Balrog used Blazing Slash***"
+    {
+        "chi" "巴洛克使用了劈砍"
+    }
+
+    "***Balrog used Heal***"
+    {
+        "chi" "巴洛克使用了治疗"
+    }
+
+    "***BOSS fight in 5s***"
+    {
+        "chi" "还有5秒开始"
+    }
+
+    "***But you have to promise me that you defeat him and free us from his reign***"
+    {
+        "chi" "但你必须保证击败它,把我们解放出来"
+    }
+
+    "***defend 30s***"
+    {
+        "chi" "守住!还有30秒"
+    }
+
+    "***defend 45s***"
+    {
+        "chi" "还有45秒"
+    }
+
+    "***defend here , the door will close***"
+    {
+        "chi" "守住这里,门就要关了"
+    }
+
+    "***defend here 10s***"
+    {
+        "chi" "还有10秒"
+    }
+
+    "***defend here 15s***"
+    {
+        "chi" "还有15秒"
+    }
+
+    "***defend here 20s***"
+    {
+        "chi" "还有20秒"
+    }
+
+    "***defend here 25s***"
+    {
+        "chi" "还有25秒"
+    }
+
+    "***defend here 30s***"
+    {
+        "chi" "还有30秒"
+    }
+
+    "***Defend here 35s***"
+    {
+        "chi" "还有35秒"
+    }
+
+    "***defend here 45s***"
+    {
+        "chi" "还有45秒"
+    }
+
+    "***DESTROY IT BEFORE IT KILLS US***"
+    {
+        "chi" "抓紧时间击败它"
+    }
+
+    "***DESTROY THE STARS BEFORE THEY FULLY CHARGE***"
+    {
+        "chi" "在完成充能前快破坏掉它"
+    }
+
+    "***DON'T LET HIM CHARGE  THE ATTACK SHOOT IT!***"
+    {
+        "chi" "快朝它射击!!"
+    }
+
+    "***Dragon King  Prepare Yourselves to meet The Eyeless Dragon, YOU SHALL BE DEAD***"
+    {
+        "chi" "准备面对无眼之龙吧,你会后悔的"
+    }
+
+    "***Dragon King You think you are strong just because you killed Balrog ?***"
+    {
+        "chi" "你认为你击败了巴洛克就足够强大了吗?"
+    }
+
+    "***DRAGON USED FREEZING WALL***"
+    {
+        "chi" "龙使用了冻结之墙"
+    }
+
+    "***DRAGON USED ICE METEOR***"
+    {
+        "chi" "龙使用了冰之流星"
+    }
+
+    "***DRAGON USED INHALE***"
+    {
+        "chi" "> 龙息 <"
+    }
+
+    "***DragonKing used Summon Balrog***"
+    {
+        "chi" "龙王召唤了巴洛克"
+    }
+
+    "***DragonKing used Summon Eyeless Dragon***"
+    {
+        "chi" "龙王召唤了无眼之龙"
+    }
+
+    "***DragonKing used Summon KrahVen***"
+    {
+        "chi" "龙王召唤了克莱恩"
+    }
+
+    "***Eyeless Dragon used Celtic Crusher***"
+    {
+        "chi" "无眼之龙使用了破碎"
+    }
+
+    "***Eyeless Dragon used Earth Shaker***"
+    {
+        "chi" "无眼之龙使用了震地"
+    }
+
+    "***Eyeless Dragon used Poisonous Rocks***"
+    {
+        "chi" "无眼之龙使用了毒石"
+    }
+
+    "***Eyeless Dragon used Self Buff***"
+    {
+        "chi" "无眼之龙使用了自我强化"
+    }
+
+    "***Eyeless Dragon used Shield of Earth***"
+    {
+        "chi" "无眼之龙使用了土盾"
+    }
+
+    "***Eyeless Dragon used Tail of Wind***"
+    {
+        "chi" "无眼之龙使用了风之尾"
+    }
+
+    "***GET ON THE ELEVATOR, ITS LEAVING IN 30 SECONDS***"
+    {
+        "chi" "快上来,还有30秒"
+    }
+
+    "***Good job warriors...........only one left to go***"
+    {
+        "chi" "做的不错...只剩下最后一步了"
+    }
+
+    "***HIS SHIELD IS BREAKABLE***"
+    {
+        "chi" "他的护盾是可以击破的"
+    }
+
+    "***I will be able to help you to reach Krah Ven to defeat him and unlock the way to the Dragon King's Throne***"
+    {
+        "chi" "我会帮助你们抵达克莱恩并击败他,解开通往王座道路的封锁"
+    }
+
+    "***KrahVen - So...you have made it this far warriors...***"
+    {
+        "chi" "你们竟然能到这里来...."
+    }
+
+    "***KrahVen - You are going to die...just like everyone else..***"
+    {
+        "chi" "你们会因此死去...就像其他人一样..."
+    }
+
+    "***KrahVen -MEET YOUR DAMNED END NOW!!!.***"
+    {
+        "chi" "于此终结吧!"
+    }
+
+    "***KrahVen used Cosmic Spikes***"
+    {
+        "chi" ">>宇宙尖刺<<"
+    }
+
+    "***KrahVen used Falling Spikes***"
+    {
+        "chi" "堕落穿刺"
+    }
+
+    "***KrahVen used Freeze Meteor***"
+    {
+        "chi" "冰封彗星"
+    }
+
+    "***KrahVen used Freeze-Wind Charge***"
+    {
+        "chi" "寒风冲击"
+    }
+
+    "***KrahVen used Freezing Slash***"
+    {
+        "chi" "霜寒劈砍"
+    }
+
+    "***KrahVen used Ultimate Push***"
+    {
+        "chi" "终极风压"
+    }
+
+    "***KrahVen used Ultimate Side Push***"
+    {
+        "chi" "终极侧面风压"
+    }
+
+    "***KrahVen used Ultimate Spike***"
+    {
+        "chi" "终极穿刺"
+    }
+
+    "***KrahVen -You have no chance against us...***"
+    {
+        "chi" "你毫无机会..."
+    }
+
+    "***Last teleport in 10s***"
+    {
+        "chi" "传送还有10秒"
+    }
+
+    "***Light - kill the guardian on The Squared Tower to unlock this door***"
+    {
+        "chi" "击败守卫者,才能打开这扇门"
+    }
+
+    "***Light - take the helmet to summon him***"
+    {
+        "chi" "使用头盔召唤它"
+    }
+
+    "***My Magic attack is only getting stronger which makes it harder for the Dragon King to find us.***"
+    {
+        "chi" "魔法攻击越强,龙王就越难找到我们"
+    }
+
+    "***nuke in 15s ***"
+    {
+        "chi" "还有最后15秒"
+    }
+
+    "***Player pickup ammo***"
+    {
+        "chi" "玩家拾起了弹药"
+    }
+
+    "***Player pickup heal***"
+    {
+        "chi" "玩家拾起了治疗"
+    }
+
+    "***Player pickup snow***"
+    {
+        "chi" "玩家拾起了雪"
+    }
+
+    "***Player pickup wind***"
+    {
+        "chi" "玩家拾起了风"
+    }
+
+    "***Quickly, hope on my back, I shall take you to him.***"
+    {
+        "chi" "快点,我带你们去它那里"
+    }
+
+    "***road in 45s***"
+    {
+        "chi" "还有45秒"
+    }
+
+    "***Santa Claus - Ho Ho Ho, I AM NOT GONE YET......***"
+    {
+        "chi" "我并没有离开...Hohoho"
+    }
+
+    "***SANTA USED EXPLOSIVE GROUND***"
+    {
+        "chi" "地面爆炸<"
+    }
+
+    "***SANTA USED GENEROUS CRUSH***"
+    {
+        "chi" "广域挤压<"
+    }
+
+    "***SANTA USED HEAVY SNOW***"
+    {
+        "chi" "暴雪<"
+    }
+
+    "***teleport in 20s***"
+    {
+        "chi" "还有20秒传送"
+    }
+
+    "***teleport in 30s ***"
+    {
+        "chi" "还有30秒传送"
+    }
+
+    "***The door is open***"
+    {
+        "chi" "门打开了"
+    }
+
+    "***The Dragon is fleeing***"
+    {
+        "chi" "龙正在逃离"
+    }
+
+    "***The Eyeless Dragon used Mega Heal**"
+    {
+        "chi" "终极治愈"
+    }
+
+    "***The Eyeless Dragon used Ultimate Celtic Crush***"
+    {
+        "chi" "终极粉碎"
+    }
+
+    "***There is a Dragon that is lurking around, becareful with your steps and make sure you are armed to the teeth!!***"
+    {
+        "chi" "有龙潜伏在附近,做好一切准备"
+    }
+
+    "***Ultimate Blazing Slash***"
+    {
+        "chi" "终极劈砍"
+    }
+
+    "***Ultimate DragonKing summoned Dead Sun***"
+    {
+        "chi" "死亡之日"
+    }
+
+    "***Ultimate DragonKing used BlackHole***"
+    {
+        "chi" "黑洞"
+    }
+
+    "***Ultimate DragonKing used Cosmic Meteors***"
+    {
+        "chi" "天降彗星"
+    }
+
+    "***Ultimate DragonKing used Heavens Pain***"
+    {
+        "chi" "天堂阵痛"
+    }
+
+    "***Ultimate DragonKing used Ultima Stars***"
+    {
+        "chi" "终极星彩"
+    }
+
+    "***Utimate DragonKing used Cosmic Rain***"
+    {
+        "chi" "天降之雨"
+    }
+
+    "***wait for floor move in 20s***"
+    {
+        "chi" "还有20秒开始移动"
+    }
+
+    "***We got all the tools that we need to fix the lever!***"
+    {
+        "chi" "我们收集到了所有工具,修复开关!"
+    }
+
+    "***WE GOT IT!   Teleport in 30s***"
+    {
+        "chi" "传送20秒后启动"
+    }
+
+    "***we got it! defend here 10s***"
+    {
+        "chi" "还有10秒钟"
+    }
+
+    "***WE GOT IT!!!***"
+    {
+        "chi" "我们做到了"
+    }
+
+    "***We have defeated The Eyeless Dragon, We may now return to The Castle and continue our journey***"
+    {
+        "chi" "我们已经击败了无眼之龙,现在返回城堡继续旅程吧"
+    }
+
+    "***We have to take The Magical Cart to take us to The Castle.***"
+    {
+        "chi" "我们得坐小车去城堡那里"
+    }
+
+    "***You - Where has Santa gone ??***"
+    {
+        "chi" "Santa去哪里了??"
+    }
+
+    "***you are the true legends***"
+    {
+        "chi" "你才是真正的传奇"
+    }
+
+    "***you have saved the world again ***"
+    {
+        "chi" "你再次拯救了世界"
+    }
+
+    "***You Warriors impress me,,,,,My encounter with you at the village was me trying to go back on your way.***"
+    {
+        "chi" "真令人印象深刻..."
+    }
+
+    "***Zombie pickup shield***"
+    {
+        "chi" "僵尸拾起了护盾"
+    }
+
+    "***Zombie pickup speed***"
+    {
+        "chi" "僵尸拾起了加速"
+    }
+
+    "***zombie teleport soon***"
+    {
+        "chi" "僵尸即将传送"
+    }
+
+    "***zombies come in 15s***"
+    {
+        "chi" "僵尸还有15秒到达"
+    }
+
+    "***zombies final tp in 10s***"
+    {
+        "chi" "僵尸还有10秒传送"
+    }
+
+    "***zombies in 10s***"
+    {
+        "chi" "僵尸还有10秒传送"
+    }
+
+    "***zombies in 25s***"
+    {
+        "chi" "僵尸还有25秒到达"
+    }
+
+    "***zombies in 8s***"
+    {
+        "chi" "僵尸还有8秒传送"
+    }
+
+    "***zombies teleport in 10s***"
+    {
+        "chi" "僵尸还有10秒传送"
+    }
+
+    "***zombies teleport in 15s***"
+    {
+        "chi" "僵尸还有15秒传送"
+    }
+
+    "***zombies teleport in 30s***"
+    {
+        "chi" "僵尸还有30秒传送"
+    }
+
+    "***zombies teleport in 5s***"
+    {
+        "chi" "僵尸还有5秒传送"
+    }
+
+    "**A zombie got some power from Garuda**"
+    {
+        "chi" "僵尸获得了迦楼罗的力量"
+    }
+
+    "**Bahamut ran away,Let's get out of here**"
+    {
+        "chi" "巴哈姆特逃跑了,我们离开这里"
+    }
+
+    "**It's Bahamut again,Shoot him!**"
+    {
+        "chi" "又是它,快开枪!"
+    }
+
+    "**Last door open in 20S***"
+    {
+        "chi" "还有20打开"
+    }
+
+    "**Teleplate starts in 30 seconds**"
+    {
+        "chi" "传送还有30秒启动"
+    }
+
+    "[MapRelay]  Set falldamage to 0"
+    {
+        "chi" "地图设置:已关闭摔伤"
+    }
+
+}
